@@ -1,0 +1,110 @@
+[
+    {
+        "name": "机器之心",
+        "category": "AI",
+        "language": "zh",
+        "rss": "https://www.jiqizhixin.com/rss"
+    },
+    {
+        "name": "量子位",
+        "category": "AI",
+        "language": "zh",
+        "rss": "https://www.qbitai.com/feed"
+    },
+    {
+        "name": "InfoQ 中文网",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://www.infoq.cn/feed"
+    },
+    {
+        "name": "极客公园",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://www.geekpark.net/rss"
+    },
+    {
+        "name": "虎嗅网（科技板块）",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://www.huxiu.com/rss/1.xml"
+    },
+    {
+        "name": "钛媒体",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://www.tmtpost.com/rss"
+    },
+    {
+        "name": "TechCrunch",
+        "category": "Technology",
+        "language": "en",
+        "rss": "http://feeds.feedburner.com/TechCrunch/"
+    },
+    {
+        "name": "The Verge",
+        "category": "Technology",
+        "language": "en",
+        "rss": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+        "name": "WIRED",
+        "category": "Technology",
+        "language": "en",
+        "rss": "https://www.wired.com/feed/rss"
+    },
+    {
+        "name": "MIT Technology Review - AI",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://www.technologyreview.com/feed/"
+    },
+    {
+        "name": "MarketWatch Top Stories",
+        "category": "Finance",
+        "language": "en",
+        "rss": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+    },
+    {
+        "name": "MarketWatch Real-time Headlines",
+        "category": "Finance",
+        "language": "en",
+        "rss": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
+    },
+    {
+        "name": "MarketWatch Breaking News Bulletins",
+        "category": "Finance",
+        "language": "en",
+        "rss": "https://feeds.content.dowjones.io/public/rss/mw_bulletins"
+    },
+    {
+        "name": "MarketWatch Market Pulse",
+        "category": "Finance",
+        "language": "en",
+        "rss": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
+    },
+    {
+        "name": "Google Research Blog",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://research.google/blog/rss/"
+    },
+    {
+        "name": "Machine Learning Mastery",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://machinelearningmastery.com/blog/feed/"
+    },
+    {
+        "name": "MIT News - Artificial Intelligence",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://news.mit.edu/rss/topic/artificial-intelligence2"
+    },
+    {
+        "name": "新浪财经 - 股票频道",
+        "category": "Finance",
+        "language": "zh",
+        "rss": "https://feed.mix.sina.com.cn/api/roll/get?pageid=155&lid=1686&num=10"
+    }
+]
