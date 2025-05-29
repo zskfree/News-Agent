@@ -147,7 +147,7 @@ def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
     # 添加所有权认证标签
     follow_challenge = SubElement(channel, 'follow_challenge')
     feed_id = SubElement(follow_challenge, 'feedId')
-    feed_id.text = "150733397505379328"
+    feed_id.text = "150741279739242496"
     user_id = SubElement(follow_challenge, 'userId')
     user_id.text = "DdasOQb1gouc5RwqkaQc4KLscHJhfeeW"
     
