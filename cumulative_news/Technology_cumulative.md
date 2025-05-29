@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 08:25
+**最后更新时间**: 2025-05-29 09:31
+
+---
+
+## 🆕 最新更新 (2025-05-29 09:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [这几类运维难题，看阿里云操作系统控制台如何一站式破解](https://www.infoq.cn/article/zmJpGidjzbsZxb4MUSVY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 17:24
+
+#### [大模型在游戏研发中的落地实践｜AICon北京](https://www.infoq.cn/article/OI3by3jihw6X6LYUPYKc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 17:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [珀莱雅的第二个100亿，要靠侯亚孟的二代班子了](https://www.tmtpost.com/7581241.html)
+**发布时间**: 2025-05-29 17:09
+
+#### [小罐茶致敬东方树叶，但东方树叶眼里没有小罐茶](https://www.tmtpost.com/7581244.html)
+**发布时间**: 2025-05-29 17:09
+
+#### [演出市场，只容得下头部艺人？](https://www.tmtpost.com/7581165.html)
+**发布时间**: 2025-05-29 17:09
+
+#### [10余家企业冲刺资本市场，餐饮供应链上市潮要来了](https://www.tmtpost.com/7581173.html)
+**发布时间**: 2025-05-29 17:09
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Elon Musk steps away from the White House](https://www.theverge.com/news/676224/elon-musk-leaves-doge-white-house-trump)
+**发布时间**: 2025-05-29 09:27
+
+#### [Windows 11 gets some much-needed HDR improvements](https://www.theverge.com/news/676205/microsoft-windows-11-hdr-streaming-video-improvements)
+**发布时间**: 2025-05-29 09:27
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Hummingbirds Are Evolving to Adapt to Life With Humans](https://www.wired.com/story/hummingbirds-are-evolving-to-adapt-to-life-with-humans/)
+**发布时间**: 2025-05-29 09:00
+
+#### [Elon Musk Says He'll Step Back From the Government. DOGE Isn't Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)
+**发布时间**: 2025-05-29 08:38
 
 ---
 
