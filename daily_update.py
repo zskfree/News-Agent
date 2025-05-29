@@ -8,7 +8,7 @@
 import os
 import sys
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import logging
 import locale
 
@@ -307,8 +307,11 @@ RSS_LINKS_PLACEHOLDER
         rss_links = '''        <p>RSS文件将在首次运行后生成...</p>
 '''
     
-    # 替换占位符
-    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    # 替换占位符 - 使用指定时区的时间
+    # 设置为中国时区 (UTC+8)
+    china_tz = timezone(timedelta(hours=8))
+    current_time = datetime.now(china_tz).strftime('%Y-%m-%d %H:%M:%S CST')
+    
     index_content = index_content.replace('LAST_UPDATE_TIME', current_time)
     index_content = index_content.replace('RSS_LINKS_PLACEHOLDER', rss_links)
     
@@ -316,6 +319,7 @@ RSS_LINKS_PLACEHOLDER
         f.write(index_content)
     
     print("   ✅ 创建index.html")
+
 
 def main():
     """

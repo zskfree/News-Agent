@@ -5,14 +5,62 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 11:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 13:15:39 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 14:16:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 14:16:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>让大模型真正「懂」实验，从理解协议开始！北大团队发布 BioProBench</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-7</link>
+      <description>&lt;![CDATA[让大模型真正「懂」实验，从理解协议开始！北大团队发布 BioProBench]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>还得是华为！Pangu Ultra MoE架构：不用GPU，你也可以这样训练准万亿MoE大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-6</link>
+      <description>&lt;![CDATA[还得是华为！Pangu Ultra MoE架构：不用GPU，你也可以这样训练准万亿MoE大模型]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，AI科学家Zochi在ACL「博士毕业」，Beta测试今日上线</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-5</link>
+      <description>&lt;![CDATA[刚刚，AI科学家Zochi在ACL「博士毕业」，Beta测试今日上线]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>成本暴降88%！通义实验室、北大发布ZeroSearch，无需搜索即可激活LLM检索能力</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-4</link>
+      <description>&lt;![CDATA[成本暴降88%！通义实验室、北大发布ZeroSearch，无需搜索即可激活LLM检索能力]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>RSS 2025｜从说明书学习复杂机器人操作任务：NUS邵林团队提出全新机器人装配技能学习框架Manual2Skill</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-3</link>
+      <description>&lt;![CDATA[RSS 2025｜从说明书学习复杂机器人操作任务：NUS邵林团队提出全新机器人装配技能学习框架Manual2Skill]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>7 Emerging Trends in Generative AI and Their Real-World Impact</title>
+      <link>https://machinelearningmastery.com/7-emerging-trends-in-generative-ai-and-their-real-world-impact/</link>
+      <description>&lt;![CDATA[7 Emerging Trends in Generative AI and Their Real-World Impact]]&gt;</description>
+      <pubDate>Wed, 30 Apr 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/7-emerging-trends-in-generative-ai-and-their-real-world-impact/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>DeepSeek-R1今天一次「小更新」，颠覆了大模型格局，网友：尽快放R2</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-2</link>
@@ -763,54 +811,6 @@
       <description>&lt;![CDATA[Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation]]&gt;</description>
       <pubDate>Mon, 05 May 2025 16:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>New tool evaluates progress in reinforcement learning</title>
-      <link>https://news.mit.edu/2025/new-tool-evaluate-progress-reinforcement-learning-0505</link>
-      <description>&lt;![CDATA[New tool evaluates progress in reinforcement learning]]&gt;</description>
-      <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-tool-evaluate-progress-reinforcement-learning-0505</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Novel AI model inspired by neural dynamics from the brain</title>
-      <link>https://news.mit.edu/2025/novel-ai-model-inspired-neural-dynamics-from-brain-0502</link>
-      <description>&lt;![CDATA[Novel AI model inspired by neural dynamics from the brain]]&gt;</description>
-      <pubDate>Fri, 02 May 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/novel-ai-model-inspired-neural-dynamics-from-brain-0502</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Making AI models more trustworthy for high-stakes settings</title>
-      <link>https://news.mit.edu/2025/making-ai-models-more-trustworthy-high-stakes-settings-0501</link>
-      <description>&lt;![CDATA[Making AI models more trustworthy for high-stakes settings]]&gt;</description>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/making-ai-models-more-trustworthy-high-stakes-settings-0501</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The MIT-Portugal Program enters Phase 4</title>
-      <link>https://news.mit.edu/2025/mit-portugal-program-enters-phase-4-0430</link>
-      <description>&lt;![CDATA[The MIT-Portugal Program enters Phase 4]]&gt;</description>
-      <pubDate>Wed, 30 Apr 2025 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-portugal-program-enters-phase-4-0430</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Merging design and computer science in creative ways</title>
-      <link>https://news.mit.edu/2025/alexander-htet-kyaw-merging-design-computer-science-in-creative-ways-0428</link>
-      <description>&lt;![CDATA[Merging design and computer science in creative ways]]&gt;</description>
-      <pubDate>Mon, 28 Apr 2025 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/alexander-htet-kyaw-merging-design-computer-science-in-creative-ways-0428</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Novel method detects microbial contamination in cell cultures</title>
-      <link>https://news.mit.edu/2025/novel-method-detects-microbial-contamination-smart-0425</link>
-      <description>&lt;![CDATA[Novel method detects microbial contamination in cell cultures]]&gt;</description>
-      <pubDate>Fri, 25 Apr 2025 22:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/novel-method-detects-microbial-contamination-smart-0425</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Finance 新闻汇总 - Free News Agent</title>
-    <link>https://zskfree.github.io/News-Agent/feed/financefreenewsagent.xml</link>
+    <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
     <pubDate>Thu, 29 May 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 04:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 14:16:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150742893699033088</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
-    <atom:link href="https://zskfree.github.io/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Trade court strikes down Trump tariffs: What it means for markets — and what’s next</title>
       <link>https://www.marketwatch.com/story/trade-court-strikes-down-trump-tariffs-what-it-means-for-markets-and-whats-next-48a72edb?mod=mw_rss_topstories</link>
