@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 14:16:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 14:16:38 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 06:40:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 06:40:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>含2.01亿张MS/MS光谱，AI质谱新工具帮助科学家发现未知分子</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-8</link>
+      <description>&lt;![CDATA[含2.01亿张MS/MS光谱，AI质谱新工具帮助科学家发现未知分子]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-8</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>让大模型真正「懂」实验，从理解协议开始！北大团队发布 BioProBench</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-7</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[Hybrid AI model crafts smooth, high-quality videos in seconds]]&gt;</description>
       <pubDate>Tue, 06 May 2025 12:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation</title>
-      <link>https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</link>
-      <description>&lt;![CDATA[Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation]]&gt;</description>
-      <pubDate>Mon, 05 May 2025 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</guid>
       <category>AI</category>
     </item>
   </channel>
