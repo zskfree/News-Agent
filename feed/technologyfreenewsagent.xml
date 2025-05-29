@@ -5,14 +5,150 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 06:51:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 06:51:10 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 08:25:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta开源Pyrefly，Rust中的高性能Python类型检查器</title>
+      <link>https://www.infoq.cn/article/lv9kKa3VlotuIg3BW0ou?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta开源Pyrefly，Rust中的高性能Python类型检查器]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lv9kKa3VlotuIg3BW0ou?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>极客邦科技霍太稳：中企出海进入“天时地利人和”黄金期</title>
+      <link>https://www.infoq.cn/article/qz7wjyZp1Hw3tfc8P1Dt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[极客邦科技霍太稳：中企出海进入“天时地利人和”黄金期]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qz7wjyZp1Hw3tfc8P1Dt?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>极客邦科技加入网易数智 AI 生态联盟，共筑 AI 应用落地加速器</title>
+      <link>https://www.infoq.cn/article/WOWyGzE7ZcwCMIhGN86D?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[极客邦科技加入网易数智 AI 生态联盟，共筑 AI 应用落地加速器]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WOWyGzE7ZcwCMIhGN86D?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>英伟达Q1财报亮眼但受出口管制拖累，黄仁勋警告中国AI自主化正加速</title>
+      <link>https://www.tmtpost.com/7580841.html</link>
+      <description>&lt;![CDATA[英伟达Q1财报亮眼但受出口管制拖累，黄仁勋警告中国AI自主化正加速]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580841.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>单场成交超1亿，“文化人”董宇辉也学会了“表演”</title>
+      <link>https://www.tmtpost.com/7581115.html</link>
+      <description>&lt;![CDATA[单场成交超1亿，“文化人”董宇辉也学会了“表演”]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7581115.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>金种子还能和古井贡酒掰手腕吗？</title>
+      <link>https://www.tmtpost.com/7580821.html</link>
+      <description>&lt;![CDATA[金种子还能和古井贡酒掰手腕吗？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580821.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>政治风暴中的Moderna</title>
+      <link>https://www.tmtpost.com/7580867.html</link>
+      <description>&lt;![CDATA[政治风暴中的Moderna]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580867.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>李振国“转身”之后：隆基董事会将改选，女儿李姝璇入董但只是外部董事</title>
+      <link>https://www.tmtpost.com/7580947.html</link>
+      <description>&lt;![CDATA[李振国“转身”之后：隆基董事会将改选，女儿李姝璇入董但只是外部董事]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580947.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>1000块的山下有松，拿捏「中女」</title>
+      <link>https://www.tmtpost.com/7581016.html</link>
+      <description>&lt;![CDATA[1000块的山下有松，拿捏「中女」]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7581016.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>3万加盟AI洗头机，暴富印钞机还是韭菜收割机？</title>
+      <link>https://www.tmtpost.com/7580986.html</link>
+      <description>&lt;![CDATA[3万加盟AI洗头机，暴富印钞机还是韭菜收割机？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580986.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>对话洋葱学园杨临风：教育“慢周期”如何对抗AI“快迭代”？｜独家</title>
+      <link>https://www.tmtpost.com/7581023.html</link>
+      <description>&lt;![CDATA[对话洋葱学园杨临风：教育“慢周期”如何对抗AI“快迭代”？｜独家]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7581023.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>数量锐减30万台，ATM机借势AI卷土重来</title>
+      <link>https://www.tmtpost.com/7580854.html</link>
+      <description>&lt;![CDATA[数量锐减30万台，ATM机借势AI卷土重来]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580854.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大模型牵手手机银行，开启无菜单时代｜银行APP测评</title>
+      <link>https://www.tmtpost.com/7579753.html</link>
+      <description>&lt;![CDATA[大模型牵手手机银行，开启无菜单时代｜银行APP测评]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7579753.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>5月29日A股分析：三大指数集体上涨，两市合计成交11854.22亿元，资金流入最多的行业板块为软件开发、互联网服务</title>
+      <link>https://www.tmtpost.com/7581004.html</link>
+      <description>&lt;![CDATA[5月29日A股分析：三大指数集体上涨，两市合计成交11854.22亿元，资金流入最多的行业板块为软件开发、互联网服务]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7581004.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>福布斯Midas List发布 沈南鹏成前十中唯一的中国投资人</title>
+      <link>https://www.tmtpost.com/7580980.html</link>
+      <description>&lt;![CDATA[福布斯Midas List发布 沈南鹏成前十中唯一的中国投资人]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580980.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>在中国，IDC服务还是门好生意么？丨看财报</title>
+      <link>https://www.tmtpost.com/7580931.html</link>
+      <description>&lt;![CDATA[在中国，IDC服务还是门好生意么？丨看财报]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580931.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>China's DeepSeek Upgrades Flagship AI Model R1</title>
+      <link>https://www.tmtpost.com/7580969.html</link>
+      <description>&lt;![CDATA[China's DeepSeek Upgrades Flagship AI Model R1]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580969.html</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>华曦达：利润持续 “阶梯式” 下滑，大客户交易迷雾重重｜IPO观察</title>
       <link>https://www.tmtpost.com/7580652.html</link>
@@ -675,142 +811,6 @@
       <description>&lt;![CDATA[微软：81%企业考虑增设AI岗位，未来员工会成为智能体的老板]]&gt;</description>
       <pubDate>Wed, 28 May 2025 12:14:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/7CFmTk3mBvhqWDbsBlia?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AIBrix v0.3.0 发布：KVCache 多级卸载、前缀缓存、公平路由与基准测试工具</title>
-      <link>https://www.infoq.cn/article/qpfyAMOffpDA4EXx5fvE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AIBrix v0.3.0 发布：KVCache 多级卸载、前缀缓存、公平路由与基准测试工具]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qpfyAMOffpDA4EXx5fvE?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了</title>
-      <link>https://www.infoq.cn/article/TKl6YLBQrTwzeTtNKJz0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 11:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TKl6YLBQrTwzeTtNKJz0?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Java三十周年重磅发声：James Gosling狠批AI是“一场骗局”，是科技高管“压榨程序员的新利器”</title>
-      <link>https://www.infoq.cn/article/S89gXQMbcUiam65IITj7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java三十周年重磅发声：James Gosling狠批AI是“一场骗局”，是科技高管“压榨程序员的新利器”]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/S89gXQMbcUiam65IITj7?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>传统可观测性的尽头，是LLM可观测性的起点</title>
-      <link>https://xie.infoq.cn/article/f7151790991d07f2e46f6220e?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[传统可观测性的尽头，是LLM可观测性的起点]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://xie.infoq.cn/article/f7151790991d07f2e46f6220e?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>上线一个月吸金9000万，这个细分品类来了个新王？</title>
-      <link>https://www.tmtpost.com/7580528.html</link>
-      <description>&lt;![CDATA[上线一个月吸金9000万，这个细分品类来了个新王？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580528.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>市场还没爆发，但AI眼镜已经卷死了</title>
-      <link>https://www.tmtpost.com/7580358.html</link>
-      <description>&lt;![CDATA[市场还没爆发，但AI眼镜已经卷死了]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580358.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>康师傅，800亿不易，创新才有戏？</title>
-      <link>https://www.tmtpost.com/7580183.html</link>
-      <description>&lt;![CDATA[康师傅，800亿不易，创新才有戏？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580183.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>星纪魅族想当战神，靠手机、眼镜还是汽车？</title>
-      <link>https://www.tmtpost.com/7580445.html</link>
-      <description>&lt;![CDATA[星纪魅族想当战神，靠手机、眼镜还是汽车？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580445.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小红书在“既要又要”中，寻找电商出路</title>
-      <link>https://www.tmtpost.com/7580434.html</link>
-      <description>&lt;![CDATA[小红书在“既要又要”中，寻找电商出路]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580434.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>A股“猫狗”唱K，水池里面银龙鱼</title>
-      <link>https://www.tmtpost.com/7580399.html</link>
-      <description>&lt;![CDATA[A股“猫狗”唱K，水池里面银龙鱼]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580399.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>梦百合的“首店”烦恼</title>
-      <link>https://www.tmtpost.com/7579975.html</link>
-      <description>&lt;![CDATA[梦百合的“首店”烦恼]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7579975.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>加速中台化，吉利们在防御什么？</title>
-      <link>https://www.tmtpost.com/7580181.html</link>
-      <description>&lt;![CDATA[加速中台化，吉利们在防御什么？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580181.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“吸金”29亿元后，先通医药赴港，“核爆”再起？</title>
-      <link>https://www.tmtpost.com/7580030.html</link>
-      <description>&lt;![CDATA[“吸金”29亿元后，先通医药赴港，“核爆”再起？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580030.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>即时零售出海沙特，小象超市摸着Keeta过河</title>
-      <link>https://www.tmtpost.com/7580018.html</link>
-      <description>&lt;![CDATA[即时零售出海沙特，小象超市摸着Keeta过河]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580018.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>China's VC Community Rethinks the Scientist-Founder Frenzy as Reality Sets In</title>
-      <link>https://www.tmtpost.com/7580572.html</link>
-      <description>&lt;![CDATA[China's VC Community Rethinks the Scientist-Founder Frenzy as Reality Sets In]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580572.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从支付宝到滴滴，酒店集团下一个“会员联姻”对象会是谁？</title>
-      <link>https://www.tmtpost.com/7580463.html</link>
-      <description>&lt;![CDATA[从支付宝到滴滴，酒店集团下一个“会员联姻”对象会是谁？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580463.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>苦尽甘来，小鹏稳了吗？</title>
-      <link>https://www.tmtpost.com/7580501.html</link>
-      <description>&lt;![CDATA[苦尽甘来，小鹏稳了吗？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580501.html</guid>
       <category>Technology</category>
     </item>
   </channel>

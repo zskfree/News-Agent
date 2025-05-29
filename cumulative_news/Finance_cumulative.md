@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 06:18
+**最后更新时间**: 2025-05-29 08:25
+
+---
+
+## 🆕 最新更新 (2025-05-29 08:25)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [From appeals to a never-used law, here are Trump's tariff options](https://www.marketwatch.com/bulletins/redirect/go?g=1ceb2e4d-251b-45aa-bbbc-470a79378de0&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 07:47
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here are the White House’s tariff options after losing key court case, according to Goldman Sachs](https://www.marketwatch.com/story/here-are-the-white-houses-tariff-options-after-losing-key-court-case-according-to-goldman-sachs-12468f65?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 07:30
+
+#### [‘You never know what might happen’: How do I make sure my son-in-law doesn’t get his hands on my daughter’s inheritance?](https://www.marketwatch.com/story/how-do-i-make-sure-my-son-in-law-doesnt-get-his-hands-on-my-daughters-inheritance-6c38cd13?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 07:24
 
 ---
 

@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 06:40:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 06:51:10 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 08:25:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>135 个项目、七大趋势、三大赛道：撕开大模型开源生态真相，你会怎么卷？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-10</link>
+      <description>&lt;![CDATA[135 个项目、七大趋势、三大赛道：撕开大模型开源生态真相，你会怎么卷？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中国团队让AI拥有「视觉想象力」，像人类一样脑补画面来思考</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-9</link>
+      <description>&lt;![CDATA[中国团队让AI拥有「视觉想象力」，像人类一样脑补画面来思考]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达再创历史纪录！Q1收入增长69%，数据中心贡献89%</title>
+      <link>https://www.qbitai.com/2025/05/289143.html</link>
+      <description>&lt;![CDATA[英伟达再创历史纪录！Q1收入增长69%，数据中心贡献89%]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289143.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>两位自动驾驶大牛创业世界模型：无需任何游戏引擎，人人免费可玩</title>
+      <link>https://www.qbitai.com/2025/05/289130.html</link>
+      <description>&lt;![CDATA[两位自动驾驶大牛创业世界模型：无需任何游戏引擎，人人免费可玩]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289130.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI连电路图都看不懂？SeePhys新基准暴击多模态短板，正确率仅55%</title>
+      <link>https://www.qbitai.com/2025/05/289098.html</link>
+      <description>&lt;![CDATA[AI连电路图都看不懂？SeePhys新基准暴击多模态短板，正确率仅55%]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289098.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>基准测试揭秘大模型“字数危机”：26个模型长文本生成普遍拉胯，最大输出长度过度宣传</title>
+      <link>https://www.qbitai.com/2025/05/289062.html</link>
+      <description>&lt;![CDATA[基准测试揭秘大模型“字数危机”：26个模型长文本生成普遍拉胯，最大输出长度过度宣传]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289062.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI仅凭“自信”学会推理，浙大校友复刻DeepSeek长思维链涌现</title>
+      <link>https://www.qbitai.com/2025/05/289063.html</link>
+      <description>&lt;![CDATA[AI仅凭“自信”学会推理，浙大校友复刻DeepSeek长思维链涌现]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 06:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289063.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>含2.01亿张MS/MS光谱，AI质谱新工具帮助科学家发现未知分子</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-8</link>
@@ -755,62 +811,6 @@
       <description>&lt;![CDATA[MIT announces the Initiative for New Manufacturing]]&gt;</description>
       <pubDate>Tue, 27 May 2025 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI learns how vision and sound are connected, without human intervention</title>
-      <link>https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522</link>
-      <description>&lt;![CDATA[AI learns how vision and sound are connected, without human intervention]]&gt;</description>
-      <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning how to predict rare kinds of failures</title>
-      <link>https://news.mit.edu/2025/learning-how-predict-rare-kinds-failures-0521</link>
-      <description>&lt;![CDATA[Learning how to predict rare kinds of failures]]&gt;</description>
-      <pubDate>Wed, 21 May 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/learning-how-predict-rare-kinds-failures-0521</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The sweet taste of a new idea</title>
-      <link>https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519</link>
-      <description>&lt;![CDATA[The sweet taste of a new idea]]&gt;</description>
-      <pubDate>Mon, 19 May 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>With AI, researchers predict the location of virtually any protein within a human cell</title>
-      <link>https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515</link>
-      <description>&lt;![CDATA[With AI, researchers predict the location of virtually any protein within a human cell]]&gt;</description>
-      <pubDate>Thu, 15 May 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Study shows vision-language models can’t handle queries with negation words</title>
-      <link>https://news.mit.edu/2025/study-shows-vision-language-models-cant-handle-negation-words-queries-0514</link>
-      <description>&lt;![CDATA[Study shows vision-language models can’t handle queries with negation words]]&gt;</description>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/study-shows-vision-language-models-cant-handle-negation-words-queries-0514</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work</title>
-      <link>https://news.mit.edu/2025/mit-economics-department-launches-james-cathleen-stone-center-inequality-shaping-future-work-0513</link>
-      <description>&lt;![CDATA[MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work]]&gt;</description>
-      <pubDate>Tue, 13 May 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-economics-department-launches-james-cathleen-stone-center-inequality-shaping-future-work-0513</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Hybrid AI model crafts smooth, high-quality videos in seconds</title>
-      <link>https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</link>
-      <description>&lt;![CDATA[Hybrid AI model crafts smooth, high-quality videos in seconds]]&gt;</description>
-      <pubDate>Tue, 06 May 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</guid>
       <category>AI</category>
     </item>
   </channel>

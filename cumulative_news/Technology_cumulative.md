@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 06:51
+**最后更新时间**: 2025-05-29 08:25
+
+---
+
+## 🆕 最新更新 (2025-05-29 08:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta开源Pyrefly，Rust中的高性能Python类型检查器](https://www.infoq.cn/article/lv9kKa3VlotuIg3BW0ou?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 16:00
+
+#### [极客邦科技霍太稳：中企出海进入“天时地利人和”黄金期](https://www.infoq.cn/article/qz7wjyZp1Hw3tfc8P1Dt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 15:47
+
+#### [极客邦科技加入网易数智 AI 生态联盟，共筑 AI 应用落地加速器](https://www.infoq.cn/article/WOWyGzE7ZcwCMIhGN86D?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 15:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [英伟达Q1财报亮眼但受出口管制拖累，黄仁勋警告中国AI自主化正加速](https://www.tmtpost.com/7580841.html)
+**发布时间**: 2025-05-29 16:00
+
+#### [单场成交超1亿，“文化人”董宇辉也学会了“表演”](https://www.tmtpost.com/7581115.html)
+**发布时间**: 2025-05-29 16:00
+
+#### [金种子还能和古井贡酒掰手腕吗？](https://www.tmtpost.com/7580821.html)
+**发布时间**: 2025-05-29 15:56
+
+#### [政治风暴中的Moderna](https://www.tmtpost.com/7580867.html)
+**发布时间**: 2025-05-29 15:56
+
+#### [李振国“转身”之后：隆基董事会将改选，女儿李姝璇入董但只是外部董事](https://www.tmtpost.com/7580947.html)
+**发布时间**: 2025-05-29 15:55
+
+#### [1000块的山下有松，拿捏「中女」](https://www.tmtpost.com/7581016.html)
+**发布时间**: 2025-05-29 15:55
+
+#### [3万加盟AI洗头机，暴富印钞机还是韭菜收割机？](https://www.tmtpost.com/7580986.html)
+**发布时间**: 2025-05-29 15:54
+
+#### [对话洋葱学园杨临风：教育“慢周期”如何对抗AI“快迭代”？｜独家](https://www.tmtpost.com/7581023.html)
+**发布时间**: 2025-05-29 15:37
+
+#### [数量锐减30万台，ATM机借势AI卷土重来](https://www.tmtpost.com/7580854.html)
+**发布时间**: 2025-05-29 15:27
+
+#### [大模型牵手手机银行，开启无菜单时代｜银行APP测评](https://www.tmtpost.com/7579753.html)
+**发布时间**: 2025-05-29 15:26
+
+#### [5月29日A股分析：三大指数集体上涨，两市合计成交11854.22亿元，资金流入最多的行业板块为软件开发、互联网服务](https://www.tmtpost.com/7581004.html)
+**发布时间**: 2025-05-29 15:08
+
+#### [福布斯Midas List发布 沈南鹏成前十中唯一的中国投资人](https://www.tmtpost.com/7580980.html)
+**发布时间**: 2025-05-29 15:02
+
+#### [在中国，IDC服务还是门好生意么？丨看财报](https://www.tmtpost.com/7580931.html)
+**发布时间**: 2025-05-29 14:55
+
+#### [China's DeepSeek Upgrades Flagship AI Model R1](https://www.tmtpost.com/7580969.html)
+**发布时间**: 2025-05-29 14:51
 
 ---
 
