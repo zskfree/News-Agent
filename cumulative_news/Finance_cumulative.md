@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 14:20
+**最后更新时间**: 2025-05-29 16:26
+
+---
+
+## 🆕 最新更新 (2025-05-29 16:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [CEO confidence registers sharpest fall-off in a half-century, new survey finds](https://www.marketwatch.com/story/ceo-confidence-plummets-by-the-most-in-a-half-century-new-survey-finds-58253216?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 16:19
+
+#### [Pharma, chips, other sectors look set to get hit with new tariffs soon, even as a court blocks other Trump levies](https://www.marketwatch.com/story/pharma-chips-other-sectors-look-set-to-get-hit-with-new-tariffs-soon-even-as-a-court-blocks-other-trump-levies-82d0bb45?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 16:13
+
+#### [Home buyers are finding a silver lining in a stalled housing market — especially if they’re in this group](https://www.marketwatch.com/story/home-buyers-are-finding-the-silver-lining-in-a-stalled-housing-market-especially-if-theyre-in-this-group-1bd9eaff?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 15:21
+
+#### [Salesforce earnings were ‘not bad.’ So why is the stock having its worst day in a year?](https://www.marketwatch.com/story/salesforce-earnings-were-not-bad-so-why-is-the-stock-having-its-worst-day-in-a-year-0bb51feb?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 15:17
+
+#### [Trump administration rescinds Biden-era caution about crypto in 401(k) plans: What that means for you](https://www.marketwatch.com/story/trump-administration-rescinds-biden-era-caution-about-crypto-in-401-k-plans-what-that-means-for-you-c1e13de9?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 15:02
+
+#### [My daughter’s boyfriend, a guest in my home, offered to powerwash part of my house — then demanded money](https://www.marketwatch.com/story/my-daughters-boyfriend-a-guest-in-my-home-offered-to-powerwash-part-of-my-house-then-demanded-money-9ad16f4c?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 14:37
+
+#### [This researcher put 1.1 million Wall Street analyst notes through AI. Here’s what it found.](https://www.marketwatch.com/story/this-researcher-put-1-1-million-wall-street-analyst-notes-through-ai-heres-what-it-found-1b3e52d2?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 14:34
+
+#### [Nvidia just showed that things are only looking up from here](https://www.marketwatch.com/story/nvidia-just-showed-that-things-are-only-looking-up-from-here-97f358d4?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 14:31
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Enthusiasm over trade-court tariff ruling is fading on Wall Street — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=c85feb45-f015-4f21-ac13-3cd2e3e31002&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 16:08
+
+#### [This top Goldman Sachs executive sees tariff situation becoming more manageable](https://www.marketwatch.com/bulletins/redirect/go?g=97ef442f-ba87-4bef-bc2a-da325e8b7790&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 15:41
+
+#### [Why Apple investors should be bracing for a wave of downgrades](https://www.marketwatch.com/bulletins/redirect/go?g=5bac3470-54c9-4611-8ec5-ca44801919cc&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 15:26
+
+#### [‘Magnificent Seven’–tracking ETF in rally mode after Nvidia’s earnings](https://www.marketwatch.com/bulletins/redirect/go?g=1365bd1e-acf6-44b9-ae0d-dd761cfdbd97&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 15:13
+
+#### [Nvidia will do what it takes to recapture China opportunity: analyst](https://www.marketwatch.com/bulletins/redirect/go?g=3ceb206e-fde9-49d7-9ac1-e5408e047928&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 14:47
 
 ---
 

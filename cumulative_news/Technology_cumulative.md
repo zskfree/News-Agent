@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 14:20
+**最后更新时间**: 2025-05-29 16:26
+
+---
+
+## 🆕 最新更新 (2025-05-29 16:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [上海加速布局具身智能产业：2025张江具身智能开发者大会举行](https://www.tmtpost.com/7581722.html)
+**发布时间**: 2025-05-29 22:59
+
+#### [「宇石空间」完成天使+轮融资，累计融资超亿元](https://www.tmtpost.com/7581578.html)
+**发布时间**: 2025-05-29 22:58
+
+#### [光洋股份终止并购；“环保龙头”7508万元购买股份并增资吉泰智能【并购一线】](https://www.tmtpost.com/7581626.html)
+**发布时间**: 2025-05-29 21:29
+
+#### [沪深量能11854亿，较昨日增量1755亿｜日日龙虎榜](https://www.tmtpost.com/7581563.html)
+**发布时间**: 2025-05-29 20:13
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Insta360’s face-tracking Link webcams have hit their lowest prices yet](https://www.theverge.com/tech/676447/insta360-link-2-webcam-samsung-galaxy-s25-plus-deal-sale)
+**发布时间**: 2025-05-29 16:15
+
+#### [SteamOS puts the pressure on Microsoft’s Xbox-branded handheld](https://www.theverge.com/notepad-microsoft-newsletter/676258/microsoft-xbox-handheld-windows-steamos-notepad)
+**发布时间**: 2025-05-29 16:00
+
+#### [International students sue over Trump’s social media surveillance plan](https://www.theverge.com/news/676419/iranian-interntional-students-lawsuit-trump-dhs-vetting)
+**发布时间**: 2025-05-29 15:14
+
+#### [Senators probe whether RealPage pushed state AI law ban](https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement)
+**发布时间**: 2025-05-29 15:00
 
 ---
 
