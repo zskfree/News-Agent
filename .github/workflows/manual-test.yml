@@ -1,0 +1,202 @@
+name: Manual Test & Debug
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: '测试模式'
+        required: true
+        default: 'quick'
+        type: choice
+        options:
+        - quick
+        - full
+        - debug
+      target_category:
+        description: '指定测试的分类 (可选)'
+        required: false
+        default: ''
+      max_articles:
+        description: '最大文章数 (测试用)'
+        required: false
+        default: '10'
+
+jobs:
+  test-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser requests python-dateutil lxml
+    
+    - name: Environment Debug
+      run: |
+        echo "=== 完整环境信息 ==="
+        echo "操作系统: $(uname -a)"
+        echo "Python版本: $(python --version)"
+        echo "工作目录: $(pwd)"
+        echo "用户: $(whoami)"
+        echo ""
+        echo "=== 目录结构 ==="
+        find . -type f -name "*.py" | head -10
+        echo ""
+        echo "=== 必要文件检查 ==="
+        for file in "生成累积新闻.py" "生成累积RSS.py" "daily_update.py" "src/rss_read.py" "src/load_rss_url.py" "RSS feed URL/rss_feed_url.json"; do
+          if [ -f "$file" ]; then
+            echo "✅ $file ($(stat -c%s "$file" 2>/dev/null || stat -f%z "$file" 2>/dev/null) bytes)"
+          else
+            echo "❌ $file 不存在"
+          fi
+        done
+        echo ""
+        echo "=== RSS配置内容预览 ==="
+        if [ -f "RSS feed URL/rss_feed_url.json" ]; then
+          echo "前10行内容:"
+          head -10 "RSS feed URL/rss_feed_url.json"
+        fi
+    
+    - name: Quick Test
+      if: github.event.inputs.test_mode == 'quick'
+      run: |
+        echo "=== 快速测试模式 ==="
+        python -c "
+        import sys
+        sys.path.append('src')
+        try:
+            from load_rss_url import load_rss_sources
+            from rss_read import read_rss_feed
+            print('✅ 模块导入成功')
+            
+            # 测试加载RSS配置
+            sources = load_rss_sources('RSS feed URL/rss_feed_url.json')
+            print(f'✅ 加载了 {len(sources)} 个RSS源')
+            
+            # 测试读取一个RSS源
+            if sources:
+                test_url = sources[0].get('rss')
+                if test_url:
+                    entries = read_rss_feed(test_url)
+                    print(f'✅ 测试RSS读取成功，获得 {len(entries) if entries else 0} 篇文章')
+                else:
+                    print('❌ 没有找到测试RSS URL')
+            
+        except Exception as e:
+            print(f'❌ 测试失败: {e}')
+            import traceback
+            traceback.print_exc()
+            sys.exit(1)
+        "
+    
+    - name: Full Test
+      if: github.event.inputs.test_mode == 'full'
+      run: |
+        echo "=== 完整测试模式 ==="
+        # 修改配置以减少文章数量
+        python -c "
+        import sys
+        # 临时修改最大文章数
+        with open('生成累积新闻.py', 'r', encoding='utf-8') as f:
+            content = f.read()
+        content = content.replace('max_articles_per_source = 100000', 'max_articles_per_source = ${{ github.event.inputs.max_articles }}')
+        with open('生成累积新闻.py', 'w', encoding='utf-8') as f:
+            f.write(content)
+        print('✅ 已修改测试配置')
+        "
+        
+        # 运行完整流程
+        python daily_update.py
+    
+    - name: Debug Mode
+      if: github.event.inputs.test_mode == 'debug'
+      run: |
+        echo "=== 调试模式 ==="
+        
+        # 创建调试版本的脚本
+        cat > debug_test.py << 'EOF'
+        import sys
+        import os
+        import traceback
+        
+        print("=== 调试开始 ===")
+        
+        try:
+            # 检查工作目录
+            print(f"当前目录: {os.getcwd()}")
+            print(f"目录内容: {os.listdir('.')}")
+            
+            # 检查src目录
+            if os.path.exists('src'):
+                print(f"src目录内容: {os.listdir('src')}")
+            
+            # 尝试导入模块
+            sys.path.append('src')
+            print("开始导入模块...")
+            
+            from load_rss_url import load_rss_sources
+            print("✅ load_rss_url 导入成功")
+            
+            from rss_read import read_rss_feed, generate_historical_news_by_categories
+            print("✅ rss_read 导入成功")
+            
+            # 测试配置加载
+            config_file = 'RSS feed URL/rss_feed_url.json'
+            if os.path.exists(config_file):
+                sources = load_rss_sources(config_file)
+                print(f"✅ 成功加载 {len(sources)} 个RSS源")
+                
+                # 显示前3个源的信息
+                for i, source in enumerate(sources[:3]):
+                    print(f"源 {i+1}: {source.get('name', 'Unknown')} - {source.get('category', 'No category')}")
+            else:
+                print(f"❌ 配置文件不存在: {config_file}")
+            
+        except Exception as e:
+            print(f"❌ 调试过程中出错: {e}")
+            traceback.print_exc()
+            sys.exit(1)
+        
+        print("=== 调试结束 ===")
+        EOF
+        
+        python debug_test.py
+    
+    - name: Upload debug artifacts
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-results-${{ github.event.inputs.test_mode }}-${{ github.run_number }}
+        path: |
+          *.log
+          cumulative_news/
+          feed/
+        retention-days: 7
+    
+    - name: Test Summary
+      if: always()
+      run: |
+        echo "## 🧪 测试结果" >> $GITHUB_STEP_SUMMARY
+        echo "- **测试模式**: ${{ github.event.inputs.test_mode }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **状态**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **时间**: $(date)" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ github.event.inputs.target_category }}" != "" ]; then
+          echo "- **目标分类**: ${{ github.event.inputs.target_category }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ -d "feed" ]; then
+          echo "- **生成的RSS文件**:" >> $GITHUB_STEP_SUMMARY
+          ls -la feed/ >> $GITHUB_STEP_SUMMARY
+        fi
