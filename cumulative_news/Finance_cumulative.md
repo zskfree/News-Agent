@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 12:42
+**最后更新时间**: 2025-05-29 14:20
+
+---
+
+## 🆕 最新更新 (2025-05-29 14:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Best Buy’s stock drops after retailer cuts profit outlook on tariff impact](https://www.marketwatch.com/story/best-buys-stock-drops-after-it-cuts-profit-outlook-on-tariff-impact-ce97a764?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 14:10
+
+#### [My husband and I earn $115K and owe $220K on our home. We’re inheriting $300K. Should we invest in real estate or stock?](https://www.marketwatch.com/story/my-husband-and-i-earn-115k-and-owe-220k-on-our-home-were-inheriting-300k-should-we-buy-real-estate-or-stock-a59ed144?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 14:06
+
+#### [Analyst pours cold water on Starbucks’ turnaround, as customers aren’t happy](https://www.marketwatch.com/story/analyst-pours-cold-water-on-starbucks-turnaround-as-customers-arent-happy-bd7e45f3?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 13:58
+
+#### [Kohl’s stock soars as a sales beat, affirmed outlook soothes some tariff fears](https://www.marketwatch.com/story/kohls-stock-climbs-on-q1-revenue-beat-reaffirmed-outlook-e5baf4a7?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 13:56
+
+#### [Jobless claims jump to 5-week high — but not because layoffs in the U.S. are rising](https://www.marketwatch.com/story/jobless-claims-jump-to-5-week-high-but-not-because-layoffs-are-rising-a7891a22?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 13:37
+
+#### [Here’s what firms managing $20 trillion are actually doing. And they’re not buying U.S. stocks.](https://www.marketwatch.com/story/heres-what-firms-managing-20-trillion-are-actually-doing-and-theyre-not-buying-u-s-stocks-a549f75c?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 13:36
+
+#### [Economy shrank 0.2% in the first quarter, updated GDP shows, as trade wars sapped U.S. growth](https://www.marketwatch.com/story/economy-shrank-0-2-in-the-first-quarter-updated-gdp-shows-as-trade-wars-sapped-u-s-growth-56139c24?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 13:31
+
+#### [Tesla’s stock nears a key chart level. Can a full-time Musk drive it through?](https://www.marketwatch.com/story/teslas-stock-nears-a-key-chart-level-can-a-full-time-musk-drive-it-through-c8937e73?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 13:24
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Wall Street enthusiasm over tariff ruling tempered by what’s-next uncertainty](https://www.marketwatch.com/bulletins/redirect/go?g=9708dee3-1d02-46ca-b2e2-9744fc1c3ed7&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 13:59
+
+#### [CEO confidence hasn’t plummeted like this since at least the 1970s](https://www.marketwatch.com/bulletins/redirect/go?g=cf0dad36-ecd6-4462-b24b-501c5f19d7bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 13:18
+
+#### [U.S. first-time unemployment claims jump to five-week high](https://www.marketwatch.com/bulletins/redirect/go?g=fba289e4-90a0-4c6d-be4a-8c51f1a19ef2&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 12:55
+
+#### [GDP update reinforces first shrinkage of U.S. economy in three years](https://www.marketwatch.com/bulletins/redirect/go?g=0a8160b7-03ed-4f71-9a13-dd87c744d97e&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 12:54
 
 ---
 

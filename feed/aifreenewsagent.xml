@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 12:41:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 12:42:15 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 14:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 14:20:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>用Veo 3+Suno做了个AI Rapper，吊打音乐节上的流量明星</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-13</link>
+      <description>&lt;![CDATA[用Veo 3+Suno做了个AI Rapper，吊打音乐节上的流量明星]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 21:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Linear-MoE：线性注意力遇上混合专家的开源实践</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-12</link>
+      <description>&lt;![CDATA[Linear-MoE：线性注意力遇上混合专家的开源实践]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 20:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>理想“慢”下来了：汽车单价直降12%，净利首次被赛力斯超越</title>
+      <link>https://www.qbitai.com/2025/05/289353.html</link>
+      <description>&lt;![CDATA[理想“慢”下来了：汽车单价直降12%，净利首次被赛力斯超越]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289353.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>The Download: the next anti-drone weapon, and powering AI’s growth</title>
       <link>https://www.technologyreview.com/2025/05/29/1117539/the-download-the-next-anti-drone-weapon-and-powering-ais-growth/</link>
@@ -787,30 +811,6 @@
       <description>&lt;![CDATA[清华创业团队打造！国内首个专注AI推理Serverless GPU平台]]&gt;</description>
       <pubDate>Wed, 28 May 2025 13:14:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>4万多名作者挤破头，CVPR 2025官方揭秘三大爆款主题， 你卷对方向了吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-2</link>
-      <description>&lt;![CDATA[4万多名作者挤破头，CVPR 2025官方揭秘三大爆款主题， 你卷对方向了吗？]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>首个面向柔性衣物灵巧操作的仿真平台来了，北大、伯克利联合发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28</link>
-      <description>&lt;![CDATA[首个面向柔性衣物灵巧操作的仿真平台来了，北大、伯克利联合发布]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI产品千篇一律？去Google Labs，淘下一个AI爆款</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-15</link>
-      <description>&lt;![CDATA[AI产品千篇一律？去Google Labs，淘下一个AI爆款]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-15</guid>
       <category>AI</category>
     </item>
   </channel>

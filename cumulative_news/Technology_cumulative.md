@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 12:42
+**最后更新时间**: 2025-05-29 14:20
+
+---
+
+## 🆕 最新更新 (2025-05-29 14:20)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [测评 | 从实验室到茶水间，可量产万元全尺寸具身机器人全网首测](http://www.geekpark.net/news/349933)
+**发布时间**: 2025-05-29 22:12
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [宇树科技股改为IPO上市铺路，并新增北京国资董事｜独家](https://www.tmtpost.com/7581619.html)
+**发布时间**: 2025-05-29 21:53
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 6 Best OLED TVs (2025)](https://www.wired.com/gallery/best-oleds/)
+**发布时间**: 2025-05-29 14:03
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Animal Crossing: New Horizons was a glimpse at Nintendo’s online future](https://www.theverge.com/games/674523/animal-crossing-new-horizons-nintendo-switch-live-service)
+**发布时间**: 2025-05-29 14:00
+
+#### [How private equity kills companies and communities](https://www.theverge.com/decoder-podcast-with-nilay-patel/676106/bad-company-private-equity-megan-greenwell-book-interview)
+**发布时间**: 2025-05-29 14:00
+
+#### [Blink’s budget buzzer gets some worthwhile upgrades](https://www.theverge.com/news/676241/blink-launches-second-gen-video-doorbell-with-person-detection)
+**发布时间**: 2025-05-29 14:00
+
+#### [A Kaiser Permanente systems outage had pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
+**发布时间**: 2025-05-29 13:51
+
+#### [The Switch 2 will finally back up screenshots to the cloud](https://www.theverge.com/news/676287/nintendo-switch-2-mobile-app-screenshots-backup-upload)
+**发布时间**: 2025-05-29 13:49
+
+#### [The New York Times&#8217; first generative AI deal is with Amazon](https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon)
+**发布时间**: 2025-05-29 13:30
+
+#### [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)
+**发布时间**: 2025-05-29 13:00
 
 ---
 
