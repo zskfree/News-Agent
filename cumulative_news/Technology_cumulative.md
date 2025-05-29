@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 05:31
+**最后更新时间**: 2025-05-29 06:18
+
+---
+
+## 🆕 最新更新 (2025-05-29 06:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chen Tianqiao Makes Largest Single Donation to Fudan University's New Engineering Fund](https://www.tmtpost.com/7580895.html)
+**发布时间**: 2025-05-29 14:11
+
+#### [Google I/O 2025：搜索帝国的自我革命与AI翻身仗](https://www.tmtpost.com/7580762.html)
+**发布时间**: 2025-05-29 14:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 三十周年：一门改变世界的编程语言回顾](https://www.infoq.cn/article/oNj89jS9oNEdS6veVy54?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 14:00
+
+#### [Coding Agent 驱动研发提效：从实践到流程改进｜AICon北京](https://www.infoq.cn/article/6LFSZHC5oxJ8F1q32iLz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 14:00
 
 ---
 
