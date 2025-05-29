@@ -237,7 +237,7 @@ def main():
     # 配置参数
     news_dir = "news"
     feed_dir = "feed"
-    base_url = "https://your-domain.com"  # 可以修改为您的域名
+    base_url = "https://zskfree.github.io/News-Agent"  # 可以修改为您的域名
     
     print(f"📋 配置信息:")
     print(f"  - 新闻目录: {news_dir}")
