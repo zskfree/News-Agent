@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 09:31
+**最后更新时间**: 2025-05-29 10:24
+
+---
+
+## 🆕 最新更新 (2025-05-29 10:24)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Barclays strategist: Tariff ruling won't be catalyst for sustained risk-on rally](https://www.marketwatch.com/bulletins/redirect/go?g=7cada44c-06d2-46f7-af7f-d8874139fce2&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 10:13
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [It’s my dream to travel to Africa. My husband says it’s not on his bucket list. Do I pay for him or go alone?](https://www.marketwatch.com/story/its-my-dream-to-travel-to-africa-its-not-on-my-husbands-bucket-list-should-i-offer-to-pay-a9fc47d1?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 09:52
 
 ---
 

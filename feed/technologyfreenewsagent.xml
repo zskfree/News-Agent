@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 09:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 09:31:09 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 10:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 10:24:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>微软宣布Typescript编译器原生版本，性能提升10倍</title>
+      <link>https://www.infoq.cn/article/hp5qc9fdzaPc9phw1BSq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软宣布Typescript编译器原生版本，性能提升10倍]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hp5qc9fdzaPc9phw1BSq?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The Plan to Send Plant-Filled ‘Gardens’ Into Orbit</title>
+      <link>https://www.wired.com/story/the-plan-to-build-the-first-garden-in-space-thomas-heatherwick-studio-aurelia/</link>
+      <description>&lt;![CDATA[The Plan to Send Plant-Filled ‘Gardens’ Into Orbit]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/the-plan-to-build-the-first-garden-in-space-thomas-heatherwick-studio-aurelia/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Starship’s Latest Test Reveals New Problems for SpaceX to Solve</title>
+      <link>https://www.wired.com/story/starships-latest-test-reveals-new-problems-for-spacex-to-solve/</link>
+      <description>&lt;![CDATA[Starship’s Latest Test Reveals New Problems for SpaceX to Solve]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/starships-latest-test-reveals-new-problems-for-spacex-to-solve/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>这几类运维难题，看阿里云操作系统控制台如何一站式破解</title>
       <link>https://www.infoq.cn/article/zmJpGidjzbsZxb4MUSVY?utm_source=rss&amp;utm_medium=article</link>
@@ -787,30 +811,6 @@
       <description>&lt;![CDATA[推理模型综合测评报告 2025]]&gt;</description>
       <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/minibook/m8t2VZbt18vam8RqCyZ8?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>千卡级分布式集群上的视觉多模态大模型落地实践</title>
-      <link>https://www.infoq.cn/video/XU5oLYGXtGQkFOSKMqHx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[千卡级分布式集群上的视觉多模态大模型落地实践]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/XU5oLYGXtGQkFOSKMqHx?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>大模型助力软件研发人机协同进化实践｜AICon北京</title>
-      <link>https://www.infoq.cn/article/FilJzUTxQgbbv1Vs6wVg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型助力软件研发人机协同进化实践｜AICon北京]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FilJzUTxQgbbv1Vs6wVg?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>对标Supabase！ 腾讯云AI Toolkit重磅上线，一键部署Cursor项目</title>
-      <link>https://www.infoq.cn/article/Wld6LzgiJ7wjt18JugkY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[对标Supabase！ 腾讯云AI Toolkit重磅上线，一键部署Cursor项目]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Wld6LzgiJ7wjt18JugkY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

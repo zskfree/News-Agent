@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 09:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 09:31:09 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 10:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 10:24:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从技术革新到场景落地，医院智慧化建设的“常一实践”与创新担当</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-11</link>
+      <description>&lt;![CDATA[从技术革新到场景落地，医院智慧化建设的“常一实践”与创新担当]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>What will power AI’s growth?</title>
+      <link>https://www.technologyreview.com/2025/05/29/1117500/ai-energy-growth-nuclear-natural-gas/</link>
+      <description>&lt;![CDATA[What will power AI’s growth?]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/05/29/1117500/ai-energy-growth-nuclear-natural-gas/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>This giant microwave may change the future of war</title>
       <link>https://www.technologyreview.com/2025/05/29/1117502/epirus-drone-zapping-microwave-us-military-defense/</link>
@@ -795,22 +811,6 @@
       <description>&lt;![CDATA[开源模型竟被用于窃取下游微调数据？清华团队揭秘开源微调范式新型隐藏安全风险]]&gt;</description>
       <pubDate>Tue, 27 May 2025 18:11:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-12</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>全日程公布｜谷歌Veo 3惊艳发布后，这场CVPR分享会值得每个AI人「听个声」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-11</link>
-      <description>&lt;![CDATA[全日程公布｜谷歌Veo 3惊艳发布后，这场CVPR分享会值得每个AI人「听个声」]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 15:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-11</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ETT：打破原生多模态学习视觉瓶颈，重塑视觉tokenizer优化范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-10</link>
-      <description>&lt;![CDATA[ETT：打破原生多模态学习视觉瓶颈，重塑视觉tokenizer优化范式]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-10</guid>
       <category>AI</category>
     </item>
   </channel>

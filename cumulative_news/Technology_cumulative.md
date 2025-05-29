@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 09:31
+**最后更新时间**: 2025-05-29 10:24
+
+---
+
+## 🆕 最新更新 (2025-05-29 10:24)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软宣布Typescript编译器原生版本，性能提升10倍](https://www.infoq.cn/article/hp5qc9fdzaPc9phw1BSq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 18:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Plan to Send Plant-Filled ‘Gardens’ Into Orbit](https://www.wired.com/story/the-plan-to-build-the-first-garden-in-space-thomas-heatherwick-studio-aurelia/)
+**发布时间**: 2025-05-29 10:00
+
+#### [Starship’s Latest Test Reveals New Problems for SpaceX to Solve](https://www.wired.com/story/starships-latest-test-reveals-new-problems-for-spacex-to-solve/)
+**发布时间**: 2025-05-29 09:30
 
 ---
 
