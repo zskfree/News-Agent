@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 10:24
+**最后更新时间**: 2025-05-29 12:42
+
+---
+
+## 🆕 最新更新 (2025-05-29 12:42)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: GDP, jobless claims, home sales and Fed talk awaited](https://www.marketwatch.com/bulletins/redirect/go?g=3a0d3b67-9c44-4d60-83c3-ab43cc84b308&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 12:24
+
+#### [Oppenheimer analyst likens Nvidia to the best house on the best block](https://www.marketwatch.com/bulletins/redirect/go?g=e86af358-4536-4809-a8ab-47f0934f45ee&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 12:00
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What the ‘like’ button reveals about how we’ll use and invest in AI](https://www.marketwatch.com/story/what-the-like-button-reveals-about-how-well-use-and-invest-in-ai-51472779?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 12:10
+
+#### [Home sellers face an ‘absolutely brutal’ market that’s tilting in buyers’ favor](https://www.marketwatch.com/story/home-sellers-face-an-absolutely-brutal-market-thats-tilting-in-buyers-favor-8daefa5c?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 12:00
+
+#### [Why Wall Street downgrades of Apple stock are about to pile up](https://www.marketwatch.com/story/why-wall-street-downgrades-of-apple-stock-are-about-to-pile-up-241a2978?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 11:45
+
+#### [Best Buy’s stock drops after it cuts profit outlook on tariff impact](https://www.marketwatch.com/story/best-buys-stock-drops-after-it-cuts-profit-outlook-on-tariff-impact-ce97a764?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 11:39
+
+#### [Costco reports earnings today. Here’s why its results might not change investors’ perceptions.](https://www.marketwatch.com/story/costco-reports-earnings-today-heres-why-its-results-might-not-change-investors-perceptions-2753a353?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 11:00
+
+#### [Nvidia results are proof the tech sector is worth investor loyalty, says strategist who recommended buying at April lows](https://www.marketwatch.com/story/nvidia-results-are-proof-the-tech-sector-is-worth-investor-loyalty-says-strategist-who-recommending-buying-at-april-lows-f155ee83?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 10:51
+
+#### [My father-in-law has dementia and is moving in with us. Can we invoice him for a caregiver?](https://www.marketwatch.com/story/my-father-in-law-has-dementia-and-is-moving-in-with-us-can-we-invoice-him-for-a-caregiver-c6aac9a3?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 10:45
+
+### 📰 来源: [MarketWatch Market Pulse](https://feeds.content.dowjones.io/public/rss/mw_marketpulse)
+
+#### [Kohl’s stock climbs on Q1 revenue beat, reaffirmed outlook](https://www.marketwatch.com/story/kohls-stock-climbs-on-q1-revenue-beat-reaffirmed-outlook-e5baf4a7?mod=mw_rss_marketpulse)
+**发布时间**: 2025-05-29 11:24
 
 ---
 

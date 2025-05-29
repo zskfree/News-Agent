@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 10:24
+**最后更新时间**: 2025-05-29 12:42
+
+---
+
+## 🆕 最新更新 (2025-05-29 12:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中信蚂蚁，同时看上了一片蓝海](https://www.tmtpost.com/7580961.html)
+**发布时间**: 2025-05-29 19:16
+
+#### [SM娱乐股权风云又起，中国粉丝再割一茬？](https://www.tmtpost.com/7581448.html)
+**发布时间**: 2025-05-29 19:11
+
+#### [为什么比亚迪突然再打价格战？](https://www.tmtpost.com/7581410.html)
+**发布时间**: 2025-05-29 19:11
+
+#### [非比寻长，雅迪冠能S以科技重构全场景长续航生态体系](https://www.tmtpost.com/7580856.html)
+**发布时间**: 2025-05-29 19:09
+
+#### [从观看到沉浸，海信首个AI球迷家庭方案赋能世俱杯](https://www.tmtpost.com/7581095.html)
+**发布时间**: 2025-05-29 19:01
+
+#### [江西国资腾挪资产拼命保壳，ST联合跨界卖水鏖战红海](https://www.tmtpost.com/7581413.html)
+**发布时间**: 2025-05-29 18:50
+
+#### [否认实控人“利益输送”等质疑，金徽酒2025年力争费用效益最大化|直击业绩会](https://www.tmtpost.com/7581372.html)
+**发布时间**: 2025-05-29 18:38
+
+#### [王兴动真格，美团的底牌还剩几张？](https://www.tmtpost.com/7580775.html)
+**发布时间**: 2025-05-29 18:21
+
+#### [第一批痴迷中古的年轻人，已经袪魅了](https://www.tmtpost.com/7581361.html)
+**发布时间**: 2025-05-29 18:18
+
+#### [2024年酒店集团财务分析报告](https://www.tmtpost.com/7581352.html)
+**发布时间**: 2025-05-29 18:18
+
+#### [618大促，即时零售是变量还是主角？](https://www.tmtpost.com/7581105.html)
+**发布时间**: 2025-05-29 18:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [推理、训练、数据全链条的工程挑战，谁在构建中国AI的底层能力？](https://www.infoq.cn/article/76mTmAvypDVJRTzyA8Lf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 19:03
+
+#### [“炸穿”英伟达财报！因H20“滞销”痛失300亿，老黄气晕：DeepSeek、Qwen用美平台就赢了](https://www.infoq.cn/article/pPbIOg40J9OjIlHxpMc3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 18:37
+
+#### [实测思维链大变！DeepSeek R1一个“小升级”性能直逼o3，但仍“过度思考”？](https://www.infoq.cn/article/xUMEoZU5eCq2uQhXF00G?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-29 18:35
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Gemini can now watch Google Drive videos for you](https://www.theverge.com/news/676245/google-drive-gemini-video-summary-feature)
+**发布时间**: 2025-05-29 12:37
+
+#### [WhatsApp is working on an easier way to log out](https://www.theverge.com/news/676236/whatsapp-app-log-out-account-beta-feature)
+**发布时间**: 2025-05-29 11:42
+
+#### [Hyundai’s new EV factory is teeming with robots — and wariness about the future](https://www.theverge.com/electric-cars/675597/hyundais-new-ev-factory-is-teeming-with-robots-and-wariness-about-the-future)
+**发布时间**: 2025-05-29 11:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [8 Best Vegan Meal Delivery Services and Kits (2025), Tested and Reviewed](https://www.wired.com/gallery/best-vegan-meal-kit-services/)
+**发布时间**: 2025-05-29 12:06
+
+#### [The Best Cooling Sheets, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-cooling-sheets/)
+**发布时间**: 2025-05-29 11:08
+
+#### [Instagram Keeps Polishing Its Edits App to Woo Video Creators](https://www.wired.com/story/instagram-edits-app-new-features/)
+**发布时间**: 2025-05-29 11:00
+
+#### [7 Best Sunrise Alarm Clocks (2025), Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
+**发布时间**: 2025-05-29 10:36
+
+#### [The US Is Storing Migrant Children’s DNA in a Criminal Database](https://www.wired.com/story/cbp-dna-migrant-children-fbi-codis/)
+**发布时间**: 2025-05-29 10:30
 
 ---
 

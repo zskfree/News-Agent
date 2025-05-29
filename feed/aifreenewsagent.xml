@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 10:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 10:24:10 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 12:41:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 12:42:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Download: the next anti-drone weapon, and powering AI’s growth</title>
+      <link>https://www.technologyreview.com/2025/05/29/1117539/the-download-the-next-anti-drone-weapon-and-powering-ais-growth/</link>
+      <description>&lt;![CDATA[The Download: the next anti-drone weapon, and powering AI’s growth]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/05/29/1117539/the-download-the-next-anti-drone-weapon-and-powering-ais-growth/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>奖励是假的，能让Qwen提升25%性能却是真的！</title>
+      <link>https://www.qbitai.com/2025/05/289335.html</link>
+      <description>&lt;![CDATA[奖励是假的，能让Qwen提升25%性能却是真的！]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289335.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>视频推理界的“福尔摩斯测试”：所有大模型，统统不及格 | 论文代码开源</title>
+      <link>https://www.qbitai.com/2025/05/289257.html</link>
+      <description>&lt;![CDATA[视频推理界的“福尔摩斯测试”：所有大模型，统统不及格 | 论文代码开源]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289257.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>从技术革新到场景落地，医院智慧化建设的“常一实践”与创新担当</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-11</link>
@@ -787,30 +811,6 @@
       <description>&lt;![CDATA[AI产品千篇一律？去Google Labs，淘下一个AI爆款]]&gt;</description>
       <pubDate>Tue, 27 May 2025 18:56:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-15</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>全靠Claude4！30年FAANG老工程师：AI帮我解决了4年老bug</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-14</link>
-      <description>&lt;![CDATA[全靠Claude4！30年FAANG老工程师：AI帮我解决了4年老bug]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-14</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>强化学习解决长上下文推理问题：通义推出QwenLong-L1-32B</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-13</link>
-      <description>&lt;![CDATA[强化学习解决长上下文推理问题：通义推出QwenLong-L1-32B]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-13</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>开源模型竟被用于窃取下游微调数据？清华团队揭秘开源微调范式新型隐藏安全风险</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-12</link>
-      <description>&lt;![CDATA[开源模型竟被用于窃取下游微调数据？清华团队揭秘开源微调范式新型隐藏安全风险]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-12</guid>
       <category>AI</category>
     </item>
   </channel>
