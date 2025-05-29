@@ -22,6 +22,11 @@ permissions:
   pages: write
   id-token: write
 
+# 添加并发控制
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
@@ -33,9 +38,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        # 需要完整历史记录来保持累积新闻
         fetch-depth: 0
-        # 使用GitHub Token来推送更改
         token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
@@ -55,7 +58,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        # 安装必需的依赖
         pip install feedparser requests python-dateutil lxml
     
     - name: Configure Git
@@ -74,12 +76,8 @@ jobs:
         echo "当前时间:"
         echo "UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S')"
         echo "北京时间: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
-        echo "环境变量:"
-        env | grep GITHUB
-        echo "RSS配置文件检查:"
         if [ -f "RSS feed URL/rss_feed_url.json" ]; then
           echo "✅ RSS配置文件存在"
-          head -5 "RSS feed URL/rss_feed_url.json"
         else
           echo "❌ RSS配置文件不存在"
         fi
@@ -95,26 +93,45 @@ jobs:
         echo "UTC小时: $UTC_HOUR"
         echo "北京小时: $BEIJING_HOUR"
         
-        # 北京时间8-24时对应UTC时间0-16时
-        if [ $UTC_HOUR -ge 0 ] && [ $UTC_HOUR -le 16 ]; then
-          echo "✅ 在运行时间窗口内 (北京时间 ${BEIJING_HOUR}:00)"
+        # 北京时间8-24时对应UTC时间0-16时，或者手动触发
+        if [ $UTC_HOUR -ge 0 ] && [ $UTC_HOUR -le 16 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "✅ 在运行时间窗口内或手动触发"
           echo "should_run=true" >> $GITHUB_OUTPUT
         else
-          echo "⏰ 不在运行时间窗口内 (北京时间 ${BEIJING_HOUR}:00)，跳过更新"
+          echo "⏰ 不在运行时间窗口内，跳过更新"
           echo "should_run=false" >> $GITHUB_OUTPUT
         fi
     
-    - name: Run update (Beijing 8-24h)
+    - name: Run update
       if: steps.time-check.outputs.should_run == 'true'
       env:
         MAX_ARTICLES: ${{ github.event.inputs.max_articles || '100000' }}
       run: |
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-        echo "开始新闻更新 (北京时间工作时段)..."
+        echo "开始新闻更新..."
         echo "北京时间: $BEIJING_TIME"
-        echo "UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S')"
         echo "最大文章数: $MAX_ARTICLES"
         python daily_update.py
+    
+    - name: Verify generated files
+      if: steps.time-check.outputs.should_run == 'true'
+      run: |
+        echo "=== 检查生成的文件 ==="
+        echo "根目录文件:"
+        ls -la *.html 2>/dev/null || echo "没有HTML文件"
+        echo "feed目录:"
+        ls -la feed/ 2>/dev/null || echo "feed目录不存在"
+        echo "cumulative_news目录:"
+        ls -la cumulative_news/ 2>/dev/null || echo "cumulative_news目录不存在"
+        
+        # 验证index.html是否存在且有内容
+        if [ -f "index.html" ]; then
+          echo "✅ index.html 存在"
+          echo "文件大小: $(stat -c%s index.html 2>/dev/null || stat -f%z index.html 2>/dev/null) bytes"
+        else
+          echo "❌ index.html 不存在"
+          exit 1
+        fi
     
     - name: Check for changes
       if: steps.time-check.outputs.should_run == 'true'
@@ -138,17 +155,17 @@ jobs:
         git push
     
     - name: Setup Pages
-      if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
+      if: steps.time-check.outputs.should_run == 'true'
       uses: actions/configure-pages@v4
     
     - name: Upload artifact
-      if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
+      if: steps.time-check.outputs.should_run == 'true'
       uses: actions/upload-pages-artifact@v3
       with:
-        path: './feed'
-    
+        path: '.'  # ✅ 修改为上传整个根目录
+        
     - name: Deploy to GitHub Pages
-      if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
+      if: steps.time-check.outputs.should_run == 'true'
       id: deployment
       uses: actions/deploy-pages@v4
     
@@ -164,10 +181,14 @@ jobs:
         echo "- **状态**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
         echo "- **运行窗口**: 北京时间 8:00-24:00" >> $GITHUB_STEP_SUMMARY
         
+        if [ "${{ steps.deployment.outputs.page_url }}" != "" ]; then
+          echo "- **Pages URL**: ${{ steps.deployment.outputs.page_url }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
         if [ "${{ steps.time-check.outputs.should_run }}" = "true" ]; then
-          echo "- **执行状态**: ✅ 在运行时间窗口内，已执行更新" >> $GITHUB_STEP_SUMMARY
+          echo "- **执行状态**: ✅ 已执行更新" >> $GITHUB_STEP_SUMMARY
         else
-          echo "- **执行状态**: ⏰ 不在运行时间窗口内，跳过更新" >> $GITHUB_STEP_SUMMARY
+          echo "- **执行状态**: ⏰ 跳过更新" >> $GITHUB_STEP_SUMMARY
         fi
         
         if [ "${{ steps.time-check.outputs.should_run }}" = "true" ] && [ -d "feed" ]; then
@@ -176,15 +197,6 @@ jobs:
             if [ -f "$file" ]; then
               size=$(stat -c%s "$file" 2>/dev/null || stat -f%z "$file" 2>/dev/null || echo "unknown")
               echo "  - $(basename "$file"): ${size} bytes" >> $GITHUB_STEP_SUMMARY
-            fi
-          done
-        fi
-        
-        if [ "${{ steps.time-check.outputs.should_run }}" = "true" ] && [ -d "cumulative_news" ]; then
-          echo "- **累积新闻文件**:" >> $GITHUB_STEP_SUMMARY
-          for file in cumulative_news/*_cumulative.md; do
-            if [ -f "$file" ]; then
-              echo "  - $(basename "$file")" >> $GITHUB_STEP_SUMMARY
             fi
           done
         fi
