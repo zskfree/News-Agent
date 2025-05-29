@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Technology 新闻汇总 - News Agent</title>
+    <link>https://your-domain.com/feed/technology.xml</link>
+    <description>Technology 分类的最新新闻汇总，由 News Agent 自动生成</description>
+    <language>zh-CN</language>
+    <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 10:01:20 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator</generator>
+    <atom:link href="https://your-domain.com/feed/technology.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>对标Supabase！ 腾讯云AI Toolkit重磅上线，一键部署Cursor项目</title>
+      <link>https://www.infoq.cn/article/Wld6LzgiJ7wjt18JugkY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[对标Supabase！ 腾讯云AI Toolkit重磅上线，一键部署Cursor项目]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Wld6LzgiJ7wjt18JugkY?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 发布 AI 编程代理 AlphaEvolve</title>
+      <link>https://www.infoq.cn/article/AGGqZHJw908PJwDqVqfh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌 DeepMind 发布 AI 编程代理 AlphaEvolve]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AGGqZHJw908PJwDqVqfh?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>万人研发规模代码智能化落地实践及发展思考｜AICon北京</title>
+      <link>https://www.infoq.cn/article/NDs1xmAKEeKphvGAAkvE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[万人研发规模代码智能化落地实践及发展思考｜AICon北京]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NDs1xmAKEeKphvGAAkvE?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>模型下载量12亿，核心团队却几近瓦解：算力分配不均、利润压垮创新？</title>
+      <link>https://www.infoq.cn/article/rJCYwH0aqteyTxUVYad4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模型下载量12亿，核心团队却几近瓦解：算力分配不均、利润压垮创新？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rJCYwH0aqteyTxUVYad4?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>开发者遍及全球、每年增速100%，地瓜机器人A轮融资吸金1亿美元</title>
+      <link>https://www.infoq.cn/article/IIr2ho6uSMY27IEEbo5L?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开发者遍及全球、每年增速100%，地瓜机器人A轮融资吸金1亿美元]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IIr2ho6uSMY27IEEbo5L?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>传统可观测性的尽头，是LLM可观测性的起点</title>
+      <link>https://xie.infoq.cn/article/f7151790991d07f2e46f6220e?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[传统可观测性的尽头，是LLM可观测性的起点]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xie.infoq.cn/article/f7151790991d07f2e46f6220e?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agent 框架热潮褪去，大模型开发已经进入“生死局”？</title>
+      <link>https://www.infoq.cn/article/ySHeOmiAcJo6Gs5zEbwy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 框架热潮褪去，大模型开发已经进入“生死局”？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ySHeOmiAcJo6Gs5zEbwy?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大模型时代，数据智能的构建路径与应用落点 ｜InfoQ《极客有约》</title>
+      <link>https://www.infoq.cn/video/FiSDqhipW2MwL9EoKXJH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型时代，数据智能的构建路径与应用落点 ｜InfoQ《极客有约》]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/FiSDqhipW2MwL9EoKXJH?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从技术到应用，火山引擎 Data Agent 分析智能体提效落地实践</title>
+      <link>https://www.infoq.cn/video/ORCYPcm7U84r572WeTwm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从技术到应用，火山引擎 Data Agent 分析智能体提效落地实践]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/ORCYPcm7U84r572WeTwm?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Infinity：视觉自回归生成新路线｜AICon北京</title>
+      <link>https://www.infoq.cn/article/jo1Y1HM4aJQ9WCby1Qsu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Infinity：视觉自回归生成新路线｜AICon北京]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jo1Y1HM4aJQ9WCby1Qsu?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Mistral 发布 Devstral：一款面向软件工程智能体的开源大语言模型</title>
+      <link>https://www.infoq.cn/article/1BcyKBBpHrl2Q66aZ91D?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Mistral 发布 Devstral：一款面向软件工程智能体的开源大语言模型]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1BcyKBBpHrl2Q66aZ91D?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微软：81%企业考虑增设AI岗位，未来员工会成为智能体的老板</title>
+      <link>https://www.infoq.cn/article/7CFmTk3mBvhqWDbsBlia?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软：81%企业考虑增设AI岗位，未来员工会成为智能体的老板]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7CFmTk3mBvhqWDbsBlia?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AIBrix v0.3.0 发布：KVCache 多级卸载、前缀缓存、公平路由与基准测试工具</title>
+      <link>https://www.infoq.cn/article/qpfyAMOffpDA4EXx5fvE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AIBrix v0.3.0 发布：KVCache 多级卸载、前缀缓存、公平路由与基准测试工具]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qpfyAMOffpDA4EXx5fvE?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了</title>
+      <link>https://www.infoq.cn/article/TKl6YLBQrTwzeTtNKJz0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TKl6YLBQrTwzeTtNKJz0?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Java三十周年重磅发声：James Gosling狠批AI是“一场骗局”，是科技高管“压榨程序员的新利器”</title>
+      <link>https://www.infoq.cn/article/S89gXQMbcUiam65IITj7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java三十周年重磅发声：James Gosling狠批AI是“一场骗局”，是科技高管“压榨程序员的新利器”]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/S89gXQMbcUiam65IITj7?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Copilot慢慢逼疯微软程序员：AI写代码，人类收烂摊子，修Bug也全靠改PR标题？</title>
+      <link>https://www.infoq.cn/article/J3837Um5SIIzA3k1p7Cb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Copilot慢慢逼疯微软程序员：AI写代码，人类收烂摊子，修Bug也全靠改PR标题？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/J3837Um5SIIzA3k1p7Cb?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>鸿蒙版微信小程序不可用，一文告诉你10分钟修复</title>
+      <link>https://www.infoq.cn/article/S2q6JFjq9Hreb7A0ymD3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[鸿蒙版微信小程序不可用，一文告诉你10分钟修复]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/S2q6JFjq9Hreb7A0ymD3?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Spring近期新闻：Spring Boot、Security、Auth Server、Integration、AI正式发布</title>
+      <link>https://www.infoq.cn/article/KpHoyTEJTZu1hMpgam3T?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Spring近期新闻：Spring Boot、Security、Auth Server、Integration、AI正式发布]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KpHoyTEJTZu1hMpgam3T?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>开源项目能否退出基金会？NATS 争议事件始末</title>
+      <link>https://www.infoq.cn/article/aSDe5yPyx2zORTOumXEA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源项目能否退出基金会？NATS 争议事件始末]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aSDe5yPyx2zORTOumXEA?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>多模态内容生成：从技术突破到创新应用落地｜AICon北京</title>
+      <link>https://www.infoq.cn/article/FycQZqJEAQTo5aiteSTb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[多模态内容生成：从技术突破到创新应用落地｜AICon北京]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FycQZqJEAQTo5aiteSTb?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>DeepSeek R1模型升级，理解、编程暴强；小鹏 M03 顶配车上市，12.98万起；iOS 19 或更名 iOS 26，年份命名</title>
+      <link>http://www.geekpark.net/news/349875</link>
+      <description>&lt;![CDATA[DeepSeek R1模型升级，理解、编程暴强；小鹏 M03 顶配车上市，12.98万起；iOS 19 或更名 iOS 26，年份命名]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:38:30 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349875</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米汽车，「救」了小米财报</title>
+      <link>http://www.geekpark.net/news/349860</link>
+      <description>&lt;![CDATA[小米汽车，「救」了小米财报]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 16:35:20 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349860</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米净利润首次超百亿，汽车占总营收 16%；雷鸟发布「柯南联名」AR 眼镜；可灵AI单季收入超1.5亿｜极客早知道</title>
+      <link>http://www.geekpark.net/news/349816</link>
+      <description>&lt;![CDATA[小米净利润首次超百亿，汽车占总营收 16%；雷鸟发布「柯南联名」AR 眼镜；可灵AI单季收入超1.5亿｜极客早知道]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 07:59:41 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349816</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>腾讯 AI「登陆战」</title>
+      <link>http://www.geekpark.net/news/349800</link>
+      <description>&lt;![CDATA[腾讯 AI「登陆战」]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 18:08:59 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349800</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>豆包为什么要给 AI 助手「开眼」？</title>
+      <link>http://www.geekpark.net/news/349805</link>
+      <description>&lt;![CDATA[豆包为什么要给 AI 助手「开眼」？]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 16:35:24 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349805</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>王兴：不惜代价赢得外卖战；前苹果设计师 Ive 财富暴涨 7 亿美元；Arm 确认「赋能」小米玄戒 O1</title>
+      <link>http://www.geekpark.net/news/349765</link>
+      <description>&lt;![CDATA[王兴：不惜代价赢得外卖战；前苹果设计师 Ive 财富暴涨 7 亿美元；Arm 确认「赋能」小米玄戒 O1]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 08:41:07 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349765</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>苹果 AI 的崩塌真相：从乔布斯愿景，到高管失误的困局</title>
+      <link>http://www.geekpark.net/news/349746</link>
+      <description>&lt;![CDATA[苹果 AI 的崩塌真相：从乔布斯愿景，到高管失误的困局]]&gt;</description>
+      <pubDate>Mon, 26 May 2025 15:21:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349746</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米 YU7 熔岩橙曝光，轮毂拉风；宇树机器人格斗赛开启，「AI 测算师」夺冠；35 年首次，《灌篮高手》官方电子书上线｜极客早知道</title>
+      <link>http://www.geekpark.net/news/349701</link>
+      <description>&lt;![CDATA[小米 YU7 熔岩橙曝光，轮毂拉风；宇树机器人格斗赛开启，「AI 测算师」夺冠；35 年首次，《灌篮高手》官方电子书上线｜极客早知道]]&gt;</description>
+      <pubDate>Mon, 26 May 2025 08:27:08 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349701</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>硬抗小米 YU7，吉利银河 M9 证明原创更有意义</title>
+      <link>http://www.geekpark.net/news/349692</link>
+      <description>&lt;![CDATA[硬抗小米 YU7，吉利银河 M9 证明原创更有意义]]&gt;</description>
+      <pubDate>Sun, 25 May 2025 15:44:06 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349692</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>比亚迪欧洲销量超越特斯拉；马斯克称回归724工作状态；UU跑腿创始人回应强制高管送外卖｜极客早知道</title>
+      <link>http://www.geekpark.net/news/349695</link>
+      <description>&lt;![CDATA[比亚迪欧洲销量超越特斯拉；马斯克称回归724工作状态；UU跑腿创始人回应强制高管送外卖｜极客早知道]]&gt;</description>
+      <pubDate>Sun, 25 May 2025 08:56:06 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349695</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OnlyFans 被曝正洽谈出售，估值 80 亿美元；罗永浩百度直播观众超 230 万；苹果明年推出 AI 眼镜 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/349690</link>
+      <description>&lt;![CDATA[OnlyFans 被曝正洽谈出售，估值 80 亿美元；罗永浩百度直播观众超 230 万；苹果明年推出 AI 眼镜 | 极客早知道]]&gt;</description>
+      <pubDate>Sat, 24 May 2025 08:56:56 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349690</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大芯片和小米 YU7，雷军要用技术挽回人心</title>
+      <link>http://www.geekpark.net/news/349688</link>
+      <description>&lt;![CDATA[大芯片和小米 YU7，雷军要用技术挽回人心]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 19:13:58 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349688</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么 AI 时代，总是灰产与黄色最先爆发？</title>
+      <link>http://www.geekpark.net/news/349683</link>
+      <description>&lt;![CDATA[为什么 AI 时代，总是灰产与黄色最先爆发？]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 17:31:16 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349683</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>最强编程模型 Claude 4 发布；雷军：小米 YU7 不可能 19.9 万；微信员工澄清朋友圈广告评论｜极客早知道</title>
+      <link>http://www.geekpark.net/news/349624</link>
+      <description>&lt;![CDATA[最强编程模型 Claude 4 发布；雷军：小米 YU7 不可能 19.9 万；微信员工澄清朋友圈广告评论｜极客早知道]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 08:41:12 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349624</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌发布 1800 元/月的 AI 订阅，还把「通用 AI」塞进了生态每个角落</title>
+      <link>http://www.geekpark.net/news/349622</link>
+      <description>&lt;![CDATA[谷歌发布 1800 元/月的 AI 订阅，还把「通用 AI」塞进了生态每个角落]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 02:04:43 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349622</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>市值一夜暴涨 175 亿元，小鹏汽车「支棱」起来了</title>
+      <link>http://www.geekpark.net/news/349598</link>
+      <description>&lt;![CDATA[市值一夜暴涨 175 亿元，小鹏汽车「支棱」起来了]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 14:36:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349598</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微信开展短视频恶意营销专项整治；卢伟冰爆料玄戒芯片不止一款；阿里大文娱更名虎鲸文娱</title>
+      <link>http://www.geekpark.net/news/349562</link>
+      <description>&lt;![CDATA[微信开展短视频恶意营销专项整治；卢伟冰爆料玄戒芯片不止一款；阿里大文娱更名虎鲸文娱]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 09:05:28 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349562</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中国车市大变局：游击战已死，大兵团作战开始</title>
+      <link>http://www.geekpark.net/news/349564</link>
+      <description>&lt;![CDATA[中国车市大变局：游击战已死，大兵团作战开始]]&gt;</description>
+      <pubDate>Wed, 21 May 2025 22:36:11 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349564</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>飞书知识问答，给企业如何用好 AI 打了个小样</title>
+      <link>http://www.geekpark.net/news/349563</link>
+      <description>&lt;![CDATA[飞书知识问答，给企业如何用好 AI 打了个小样]]&gt;</description>
+      <pubDate>Wed, 21 May 2025 22:15:16 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349563</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌IO开幕，再发AI全家桶；马斯克：五年内继续担任特斯拉CEO，除非我死；阿里2.5亿美元战略投资美图｜极客早知道</title>
+      <link>http://www.geekpark.net/news/349500</link>
+      <description>&lt;![CDATA[谷歌IO开幕，再发AI全家桶；马斯克：五年内继续担任特斯拉CEO，除非我死；阿里2.5亿美元战略投资美图｜极客早知道]]&gt;</description>
+      <pubDate>Wed, 21 May 2025 08:36:03 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349500</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>赴港上市，「宁王」剑指欧洲</title>
+      <link>http://www.geekpark.net/news/349460</link>
+      <description>&lt;![CDATA[赴港上市，「宁王」剑指欧洲]]&gt;</description>
+      <pubDate>Tue, 20 May 2025 14:27:45 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349460</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么 Qwen3，让我看到了 AI 应用落地的重大利好</title>
+      <link>http://www.geekpark.net/news/349453</link>
+      <description>&lt;![CDATA[为什么 Qwen3，让我看到了 AI 应用落地的重大利好]]&gt;</description>
+      <pubDate>Tue, 20 May 2025 13:41:24 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349453</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>罗永浩合作百度电商，523 正式开播；华为发布 23999 折叠屏鸿蒙电脑；小米 SUV 后天亮相</title>
+      <link>http://www.geekpark.net/news/349434</link>
+      <description>&lt;![CDATA[罗永浩合作百度电商，523 正式开播；华为发布 23999 折叠屏鸿蒙电脑；小米 SUV 后天亮相]]&gt;</description>
+      <pubDate>Tue, 20 May 2025 08:48:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349434</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微软大会拉来 Altman、马斯克，纳德拉的 AI Agent 野心藏不住了</title>
+      <link>http://www.geekpark.net/news/349433</link>
+      <description>&lt;![CDATA[微软大会拉来 Altman、马斯克，纳德拉的 AI Agent 野心藏不住了]]&gt;</description>
+      <pubDate>Tue, 20 May 2025 07:21:28 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349433</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中国 AI 大厂，被 Deepseek 掀了牌桌之后</title>
+      <link>http://www.geekpark.net/news/349429</link>
+      <description>&lt;![CDATA[中国 AI 大厂，被 Deepseek 掀了牌桌之后]]&gt;</description>
+      <pubDate>Mon, 19 May 2025 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349429</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>「AI 黑客」来袭，Agentic AI 如何成为新守护者？</title>
+      <link>http://www.geekpark.net/news/349396</link>
+      <description>&lt;![CDATA[「AI 黑客」来袭，Agentic AI 如何成为新守护者？]]&gt;</description>
+      <pubDate>Mon, 19 May 2025 14:44:01 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349396</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米玄戒芯片跑分泄露，略低于高通骁龙 8；罗永浩现身百度杭州公司；谷歌 CEO 爆料，差点收购 Netflix</title>
+      <link>http://www.geekpark.net/news/349364</link>
+      <description>&lt;![CDATA[小米玄戒芯片跑分泄露，略低于高通骁龙 8；罗永浩现身百度杭州公司；谷歌 CEO 爆料，差点收购 Netflix]]&gt;</description>
+      <pubDate>Mon, 19 May 2025 08:38:43 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349364</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ChatGPT 或将支持 MCP；字节跳动调整福利政策；洛杉矶奥运会将引入「空中出租车」</title>
+      <link>http://www.geekpark.net/news/349363</link>
+      <description>&lt;![CDATA[ChatGPT 或将支持 MCP；字节跳动调整福利政策；洛杉矶奥运会将引入「空中出租车」]]&gt;</description>
+      <pubDate>Sun, 18 May 2025 08:35:21 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349363</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>雷军最新内部演讲曝光；美团外卖推出堂食店标签；英伟达计划在上海设立研发中心</title>
+      <link>http://www.geekpark.net/news/349358</link>
+      <description>&lt;![CDATA[雷军最新内部演讲曝光；美团外卖推出堂食店标签；英伟达计划在上海设立研发中心]]&gt;</description>
+      <pubDate>Sat, 17 May 2025 08:58:30 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349358</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>56 年无人解开的数学难题，被谷歌的新 AI 突破了</title>
+      <link>http://www.geekpark.net/news/349341</link>
+      <description>&lt;![CDATA[56 年无人解开的数学难题，被谷歌的新 AI 突破了]]&gt;</description>
+      <pubDate>Fri, 16 May 2025 16:31:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/349341</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>王健林继续疯狂大甩卖，万达究竟欠了多少钱？</title>
+      <link>http://www.huxiu.com/article/4400857.html?f=wangzhan</link>
+      <description>&lt;![CDATA[王健林继续疯狂大甩卖，万达究竟欠了多少钱？]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 17:40:12 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4400857.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>要求特厨退网却被骂到自闭？i人团队如何自锤？</title>
+      <link>http://www.huxiu.com/article/4396762.html?f=wangzhan</link>
+      <description>&lt;![CDATA[要求特厨退网却被骂到自闭？i人团队如何自锤？]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 17:00:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4396762.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>海底捞摆路边摊，一元一串“杀疯了”</title>
+      <link>http://www.huxiu.com/article/4393791.html?f=wangzhan</link>
+      <description>&lt;![CDATA[海底捞摆路边摊，一元一串“杀疯了”]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 10:50:14 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4393791.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄仁勋砸600亿美元，一座工厂吃掉整座城的电?</title>
+      <link>http://www.huxiu.com/article/4390964.html?f=wangzhan</link>
+      <description>&lt;![CDATA[黄仁勋砸600亿美元，一座工厂吃掉整座城的电?]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4390964.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>比亚迪：逼我出绝招是吧</title>
+      <link>http://www.huxiu.com/article/4391216.html?f=wangzhan</link>
+      <description>&lt;![CDATA[比亚迪：逼我出绝招是吧]]&gt;</description>
+      <pubDate>Mon, 26 May 2025 12:28:43 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4391216.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智驾的遮羞布被掀开</title>
+      <link>http://www.huxiu.com/article/4383692.html?f=wangzhan</link>
+      <description>&lt;![CDATA[智驾的遮羞布被掀开]]&gt;</description>
+      <pubDate>Mon, 26 May 2025 10:43:44 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4383692.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>暗杀疑云、制造衰退、内幕交易，总统和行长冲突不断？</title>
+      <link>http://www.huxiu.com/article/4383699.html?f=wangzhan</link>
+      <description>&lt;![CDATA[暗杀疑云、制造衰退、内幕交易，总统和行长冲突不断？]]&gt;</description>
+      <pubDate>Sun, 25 May 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4383699.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2元面包、7元生烫牛肉米线开始批量倒闭？</title>
+      <link>http://www.huxiu.com/article/4383728.html?f=wangzhan</link>
+      <description>&lt;![CDATA[2元面包、7元生烫牛肉米线开始批量倒闭？]]&gt;</description>
+      <pubDate>Sun, 25 May 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4383728.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>比赛热闹非凡，国际乒联赚到了吗？</title>
+      <link>http://www.huxiu.com/article/4383721.html?f=wangzhan</link>
+      <description>&lt;![CDATA[比赛热闹非凡，国际乒联赚到了吗？]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 20:08:04 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4383721.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>政坛失意之后，马斯克即将全面回归特斯拉</title>
+      <link>http://www.huxiu.com/article/4383334.html?f=wangzhan</link>
+      <description>&lt;![CDATA[政坛失意之后，马斯克即将全面回归特斯拉]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 19:30:01 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4383334.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>和誉医药的“反认知”作战</title>
+      <link>https://www.tmtpost.com/7580070.html</link>
+      <description>&lt;![CDATA[和誉医药的“反认知”作战]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580070.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>第一张飞行汽车驾照落地：新能源又换了个马甲卷？</title>
+      <link>https://www.tmtpost.com/7580072.html</link>
+      <description>&lt;![CDATA[第一张飞行汽车驾照落地：新能源又换了个马甲卷？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580072.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从&quot;估值洼地&quot;变&quot;造富盆地&quot;，港股这波估值重构行情值得继续追？</title>
+      <link>https://www.tmtpost.com/7580073.html</link>
+      <description>&lt;![CDATA[从&quot;估值洼地&quot;变&quot;造富盆地&quot;，港股这波估值重构行情值得继续追？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580073.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>解码中国四大家电巨头的全球征途</title>
+      <link>https://www.tmtpost.com/7580190.html</link>
+      <description>&lt;![CDATA[解码中国四大家电巨头的全球征途]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580190.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么CID广告是今年618的一大看点</title>
+      <link>https://www.tmtpost.com/7580189.html</link>
+      <description>&lt;![CDATA[为什么CID广告是今年618的一大看点]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:16:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580189.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>漱玉平民，元老减持急</title>
+      <link>https://www.tmtpost.com/7580316.html</link>
+      <description>&lt;![CDATA[漱玉平民，元老减持急]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:16:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580316.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agent大潮里，知识库落地走到哪了？</title>
+      <link>https://www.tmtpost.com/7580184.html</link>
+      <description>&lt;![CDATA[Agent大潮里，知识库落地走到哪了？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:05:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580184.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>快手寻找下一个江湖</title>
+      <link>https://www.tmtpost.com/7580107.html</link>
+      <description>&lt;![CDATA[快手寻找下一个江湖]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:05:07 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580107.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>年入300亿，朴朴超市种种“反常规”操作，一路闯到IPO</title>
+      <link>https://www.tmtpost.com/7580186.html</link>
+      <description>&lt;![CDATA[年入300亿，朴朴超市种种“反常规”操作，一路闯到IPO]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:05:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580186.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小小科技：内控存瑕疵，业绩靠前五大客户｜IPO观察</title>
+      <link>https://www.tmtpost.com/7575398.html</link>
+      <description>&lt;![CDATA[小小科技：内控存瑕疵，业绩靠前五大客户｜IPO观察]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:41:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7575398.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>尚航科技：代持、无偿转让频现，创始人大股东雷军“秒变”二股东，关联销售、采购均被监管质疑｜IPO观察</title>
+      <link>https://www.tmtpost.com/7576181.html</link>
+      <description>&lt;![CDATA[尚航科技：代持、无偿转让频现，创始人大股东雷军“秒变”二股东，关联销售、采购均被监管质疑｜IPO观察]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:41:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7576181.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>第一批追赶AI的人，正在被AI甩开</title>
+      <link>https://www.tmtpost.com/7580123.html</link>
+      <description>&lt;![CDATA[第一批追赶AI的人，正在被AI甩开]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:39:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580123.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>这轮外卖大战，王兴很想赢</title>
+      <link>https://www.tmtpost.com/7580165.html</link>
+      <description>&lt;![CDATA[这轮外卖大战，王兴很想赢]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:38:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580165.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>王石欲“帮扶”万科渡劫，800亿资金缺口待填</title>
+      <link>https://www.tmtpost.com/7580191.html</link>
+      <description>&lt;![CDATA[王石欲“帮扶”万科渡劫，800亿资金缺口待填]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:38:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580191.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>迈瑞医疗业绩降速，2500名员工一年的股权激励没了</title>
+      <link>https://www.tmtpost.com/7580248.html</link>
+      <description>&lt;![CDATA[迈瑞医疗业绩降速，2500名员工一年的股权激励没了]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:30:02 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580248.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>钛媒体科股早知道：文远知行进入沙特市场，三大产品齐落地</title>
+      <link>https://www.tmtpost.com/7580219.html</link>
+      <description>&lt;![CDATA[钛媒体科股早知道：文远知行进入沙特市场，三大产品齐落地]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:47:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580219.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【钛晨报】推进计量测试关键技术攻关，市场监管总局印发行动方案；知情人士：商务部加强稀土出口管制政策宣讲，或预示放松对欧芯片企业出口；DeepSeek R1模型完成小版本试升级</title>
+      <link>https://www.tmtpost.com/7580132.html</link>
+      <description>&lt;![CDATA[【钛晨报】推进计量测试关键技术攻关，市场监管总局印发行动方案；知情人士：商务部加强稀土出口管制政策宣讲，或预示放松对欧芯片企业出口；DeepSeek R1模型完成小版本试升级]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580132.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>协议转让戴“紧箍”，中胤时尚急调锁定期，首亏后控股股东将套现2.88亿元</title>
+      <link>https://www.tmtpost.com/7580097.html</link>
+      <description>&lt;![CDATA[协议转让戴“紧箍”，中胤时尚急调锁定期，首亏后控股股东将套现2.88亿元]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 21:00:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580097.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Top 10 AI Tools That Will Transform Your Content Creation in 2025</title>
+      <link>https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html</link>
+      <description>&lt;![CDATA[Top 10 AI Tools That Will Transform Your Content Creation in 2025]]&gt;</description>
+      <pubDate>Thu, 02 Jan 2025 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>LimeWire AI Studio Review 2023: Details, Pricing &amp; Features</title>
+      <link>https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html</link>
+      <description>&lt;![CDATA[LimeWire AI Studio Review 2023: Details, Pricing &amp; Features]]&gt;</description>
+      <pubDate>Tue, 12 Dec 2023 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Top 10 AI Tools in 2023 That Will Make Your Life Easier</title>
+      <link>https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html</link>
+      <description>&lt;![CDATA[Top 10 AI Tools in 2023 That Will Make Your Life Easier]]&gt;</description>
+      <pubDate>Wed, 25 Jan 2023 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Top 10 AI Content Generator &amp; Writer Tools in 2022</title>
+      <link>https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html</link>
+      <description>&lt;![CDATA[Top 10 AI Content Generator &amp; Writer Tools in 2022]]&gt;</description>
+      <pubDate>Tue, 15 Nov 2022 08:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Beginner Guide to CJ Affiliate (Commission Junction) in 2022</title>
+      <link>https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html</link>
+      <description>&lt;![CDATA[Beginner Guide to CJ Affiliate (Commission Junction) in 2022]]&gt;</description>
+      <pubDate>Sat, 10 Sep 2022 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)</title>
+      <link>https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html</link>
+      <description>&lt;![CDATA[TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)]]&gt;</description>
+      <pubDate>Wed, 13 Jul 2022 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Most Frequently Asked Questions About Affiliate Marketing</title>
+      <link>https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html</link>
+      <description>&lt;![CDATA[Most Frequently Asked Questions About Affiliate Marketing]]&gt;</description>
+      <pubDate>Wed, 01 Jun 2022 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>What is Blockchain: Everything You Need to Know (2022)</title>
+      <link>https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html</link>
+      <description>&lt;![CDATA[What is Blockchain: Everything You Need to Know (2022)]]&gt;</description>
+      <pubDate>Mon, 18 Apr 2022 05:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?</title>
+      <link>https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html</link>
+      <description>&lt;![CDATA[ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?]]&gt;</description>
+      <pubDate>Sun, 13 Mar 2022 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Sellfy Review 2022: How Good Is This Ecommerce Platform?</title>
+      <link>https://techncruncher.blogspot.com/2022/03/sellfy-review-2022-how-good-is-this.html</link>
+      <description>&lt;![CDATA[Sellfy Review 2022: How Good Is This Ecommerce Platform?]]&gt;</description>
+      <pubDate>Sat, 12 Mar 2022 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/03/sellfy-review-2022-how-good-is-this.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Ahrefs vs SEMrush: Which SEO Tool Should You Use?</title>
+      <link>https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html</link>
+      <description>&lt;![CDATA[Ahrefs vs SEMrush: Which SEO Tool Should You Use?]]&gt;</description>
+      <pubDate>Tue, 01 Mar 2022 12:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Top 10 Best PLR(Private Label Rights)  Websites | Which One You Should Join in 2022?</title>
+      <link>https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html</link>
+      <description>&lt;![CDATA[Top 10 Best PLR(Private Label Rights)  Websites | Which One You Should Join in 2022?]]&gt;</description>
+      <pubDate>Sat, 26 Feb 2022 13:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Canva Review 2022: Details, Pricing &amp; Features</title>
+      <link>https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html</link>
+      <description>&lt;![CDATA[Canva Review 2022: Details, Pricing &amp; Features]]&gt;</description>
+      <pubDate>Sun, 20 Feb 2022 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Top 7 Best Wordpress Plugin Of All Time</title>
+      <link>https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html</link>
+      <description>&lt;![CDATA[Top 7 Best Wordpress Plugin Of All Time]]&gt;</description>
+      <pubDate>Fri, 11 Feb 2022 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ?</title>
+      <link>https://techncruncher.blogspot.com/2022/02/ginger-vs-grammarly-which-grammar.html</link>
+      <description>&lt;![CDATA[Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ?]]&gt;</description>
+      <pubDate>Thu, 10 Feb 2022 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/02/ginger-vs-grammarly-which-grammar.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Most Frequently Asked Questions About NFTs(Non-Fungible Tokens)</title>
+      <link>https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html</link>
+      <description>&lt;![CDATA[Most Frequently Asked Questions About NFTs(Non-Fungible Tokens)]]&gt;</description>
+      <pubDate>Sun, 06 Feb 2022 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>10 Best Chrome Extensions That Are Perfect for Everyone</title>
+      <link>https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html</link>
+      <description>&lt;![CDATA[10 Best Chrome Extensions That Are Perfect for Everyone]]&gt;</description>
+      <pubDate>Mon, 31 Jan 2022 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Most Frequently Asked Questions About  Email Marketing</title>
+      <link>https://techncruncher.blogspot.com/2022/01/most-frequently-asked-questions-about.html</link>
+      <description>&lt;![CDATA[Most Frequently Asked Questions About  Email Marketing]]&gt;</description>
+      <pubDate>Sat, 29 Jan 2022 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/01/most-frequently-asked-questions-about.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>7 Free Websites Every Content Creator Needs to Know</title>
+      <link>https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html</link>
+      <description>&lt;![CDATA[7 Free Websites Every Content Creator Needs to Know]]&gt;</description>
+      <pubDate>Thu, 27 Jan 2022 15:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Top 9 Free AI Tools That Make Your Life Easier</title>
+      <link>https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html</link>
+      <description>&lt;![CDATA[Top 9 Free AI Tools That Make Your Life Easier]]&gt;</description>
+      <pubDate>Mon, 24 Jan 2022 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>A Kaiser Permanente systems outage has pharmacies relying on pen and paper</title>
+      <link>https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper</link>
+      <description>&lt;![CDATA[A Kaiser Permanente systems outage has pharmacies relying on pen and paper]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Here are the best robot vacuum deals available right now</title>
+      <link>https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale</link>
+      <description>&lt;![CDATA[Here are the best robot vacuum deals available right now]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 22:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Tile trackers are being fully integrated into Life360</title>
+      <link>https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app</link>
+      <description>&lt;![CDATA[Tile trackers are being fully integrated into Life360]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 21:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Google says Instagram fixed a battery drain issue on Android</title>
+      <link>https://www.theverge.com/news/676032/google-android-instagram-battery-drain-update-fix</link>
+      <description>&lt;![CDATA[Google says Instagram fixed a battery drain issue on Android]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 20:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/676032/google-android-instagram-battery-drain-update-fix</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Tesla’s iPhone app now supports Live Activities for Supercharging</title>
+      <link>https://www.theverge.com/news/676070/tesla-supercharger-apple-iphone-live-activites-status-child</link>
+      <description>&lt;![CDATA[Tesla’s iPhone app now supports Live Activities for Supercharging]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 20:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/676070/tesla-supercharger-apple-iphone-live-activites-status-child</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>These new Switch 2 accessories are already discounted</title>
+      <link>https://www.theverge.com/tech/675808/nintendo-switch-2-hori-accessory-deal-sale</link>
+      <description>&lt;![CDATA[These new Switch 2 accessories are already discounted]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 20:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/675808/nintendo-switch-2-hori-accessory-deal-sale</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Spotify is adding a Following feed for podcasts</title>
+      <link>https://www.theverge.com/news/676024/spotify-podcasts-following-feed-home-recommendations</link>
+      <description>&lt;![CDATA[Spotify is adding a Following feed for podcasts]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 19:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/676024/spotify-podcasts-following-feed-home-recommendations</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>EA cancels Black Panther game</title>
+      <link>https://www.theverge.com/news/675923/black-panther-cancelled-cliffhanger-studios-shut-down-ea</link>
+      <description>&lt;![CDATA[EA cancels Black Panther game]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 19:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/675923/black-panther-cancelled-cliffhanger-studios-shut-down-ea</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Dyson’s purple, powerful robovac is on sale for its lowest price ever</title>
+      <link>https://www.theverge.com/tech/674708/dyson-360-vis-nav-robot-vacuum-jbl-go-4-speaker-deal-sale</link>
+      <description>&lt;![CDATA[Dyson’s purple, powerful robovac is on sale for its lowest price ever]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 19:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/674708/dyson-360-vis-nav-robot-vacuum-jbl-go-4-speaker-deal-sale</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Apple is reportedly going to rename all of its operating systems</title>
+      <link>https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos</link>
+      <description>&lt;![CDATA[Apple is reportedly going to rename all of its operating systems]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 19:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos</guid>
+      <category>Technology</category>
+    </item>
+  </channel>
+</rss>
