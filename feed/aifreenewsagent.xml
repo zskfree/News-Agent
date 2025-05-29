@@ -5,14 +5,62 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 08:35:54 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 09:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 09:31:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This giant microwave may change the future of war</title>
+      <link>https://www.technologyreview.com/2025/05/29/1117502/epirus-drone-zapping-microwave-us-military-defense/</link>
+      <description>&lt;![CDATA[This giant microwave may change the future of war]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/05/29/1117502/epirus-drone-zapping-microwave-us-military-defense/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>不懂建模也能做角色！VAST升级AI神器，一手实测来了：一键拆建/魔法笔刷/万物绑骨</title>
+      <link>https://www.qbitai.com/2025/05/289200.html</link>
+      <description>&lt;![CDATA[不懂建模也能做角色！VAST升级AI神器，一手实测来了：一键拆建/魔法笔刷/万物绑骨]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289200.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A Gentle Introduction to Word Embedding and Text Vectorization</title>
+      <link>https://machinelearningmastery.com/a-gentle-introduction-to-word-embedding-and-text-vectorization/</link>
+      <description>&lt;![CDATA[A Gentle Introduction to Word Embedding and Text Vectorization]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 13:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/a-gentle-introduction-to-word-embedding-and-text-vectorization/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Understanding OpenAI Codex CLI Commands</title>
+      <link>https://machinelearningmastery.com/understanding-openai-codex-cli-commands/</link>
+      <description>&lt;![CDATA[Understanding OpenAI Codex CLI Commands]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/understanding-openai-codex-cli-commands/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10 Underrated Books for Mastering Machine Learning</title>
+      <link>https://machinelearningmastery.com/10-underrated-books-for-mastering-machine-learning/</link>
+      <description>&lt;![CDATA[10 Underrated Books for Mastering Machine Learning]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/10-underrated-books-for-mastering-machine-learning/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10 Python One-Liners for Feature Selection Like a Pro</title>
+      <link>https://machinelearningmastery.com/10-python-one-liners-for-feature-selection-like-a-pro/</link>
+      <description>&lt;![CDATA[10 Python One-Liners for Feature Selection Like a Pro]]&gt;</description>
+      <pubDate>Wed, 21 May 2025 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/10-python-one-liners-for-feature-selection-like-a-pro/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>135 个项目、七大趋势、三大赛道：撕开大模型开源生态真相，你会怎么卷？</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-10</link>
@@ -763,54 +811,6 @@
       <description>&lt;![CDATA[ETT：打破原生多模态学习视觉瓶颈，重塑视觉tokenizer优化范式]]&gt;</description>
       <pubDate>Tue, 27 May 2025 15:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>夸克发布行业首个“高考深度搜索”，一句话生成志愿填报方案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-9</link>
-      <description>&lt;![CDATA[夸克发布行业首个“高考深度搜索”，一句话生成志愿填报方案]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-9</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>稳健、经济、高度可定制化，自动化高通量电化学表征平台AHTech来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-27-8</link>
-      <description>&lt;![CDATA[稳健、经济、高度可定制化，自动化高通量电化学表征平台AHTech来了]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rationale engineering generates a compact new tool for gene therapy</title>
-      <link>https://news.mit.edu/2025/rationale-engineering-generates-compact-new-tool-gene-therapy-0528</link>
-      <description>&lt;![CDATA[Rationale engineering generates a compact new tool for gene therapy]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/rationale-engineering-generates-compact-new-tool-gene-therapy-0528</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An anomaly detection framework anyone can use</title>
-      <link>https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528</link>
-      <description>&lt;![CDATA[An anomaly detection framework anyone can use]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Building networks of data science talent</title>
-      <link>https://news.mit.edu/2025/building-networks-data-science-talent-0527</link>
-      <description>&lt;![CDATA[Building networks of data science talent]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/building-networks-data-science-talent-0527</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT announces the Initiative for New Manufacturing</title>
-      <link>https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</link>
-      <description>&lt;![CDATA[MIT announces the Initiative for New Manufacturing]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</guid>
       <category>AI</category>
     </item>
   </channel>

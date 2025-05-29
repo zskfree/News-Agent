@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:21
-**最后更新时间**: 2025-05-29 08:25
+**最后更新时间**: 2025-05-29 09:30
+
+---
+
+## 🆕 最新更新 (2025-05-29 09:30)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [This giant microwave may change the future of war](https://www.technologyreview.com/2025/05/29/1117502/epirus-drone-zapping-microwave-us-military-defense/)
+**发布时间**: 2025-05-29 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不懂建模也能做角色！VAST升级AI神器，一手实测来了：一键拆建/魔法笔刷/万物绑骨](https://www.qbitai.com/2025/05/289200.html)
+**发布时间**: 2025-05-29 08:19
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [A Gentle Introduction to Word Embedding and Text Vectorization](https://machinelearningmastery.com/a-gentle-introduction-to-word-embedding-and-text-vectorization/)
+**发布时间**: 2025-05-23 13:59
+
+#### [Understanding OpenAI Codex CLI Commands](https://machinelearningmastery.com/understanding-openai-codex-cli-commands/)
+**发布时间**: 2025-05-23 12:00
+
+#### [10 Underrated Books for Mastering Machine Learning](https://machinelearningmastery.com/10-underrated-books-for-mastering-machine-learning/)
+**发布时间**: 2025-05-22 12:00
+
+#### [10 Python One-Liners for Feature Selection Like a Pro](https://machinelearningmastery.com/10-python-one-liners-for-feature-selection-like-a-pro/)
+**发布时间**: 2025-05-21 11:08
 
 ---
 

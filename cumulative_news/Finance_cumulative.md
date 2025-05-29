@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 08:25
+**最后更新时间**: 2025-05-29 09:31
+
+---
+
+## 🆕 最新更新 (2025-05-29 09:31)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [One of the best performing stock markets this year is facing a big risk](https://www.marketwatch.com/story/polands-stock-market-is-one-of-2025s-top-performers-but-a-big-risk-looms-6cd06cdc?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 09:16
+
+#### [My friend is getting divorced. Her husband says, ‘Take the house.’ Is there a catch?](https://www.marketwatch.com/story/my-friend-is-getting-divorced-her-husband-says-take-the-house-is-there-a-catch-ca7ababc?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 09:15
+
+#### [Developer Mohamed Hadid’s failed L.A. mansion goes up for auction, and it’s just slabs of concrete](https://www.marketwatch.com/story/developermohamed-hadids-failed-l-a-mansion-goes-up-for-auction-and-its-just-slabs-of-concrete-0c53f1b9?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 08:59
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [One of the top performing stock markets this year faces a big risk](https://www.marketwatch.com/bulletins/redirect/go?g=5cabbda7-aa1e-40af-91ef-85425afec324&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 08:51
 
 ---
 
