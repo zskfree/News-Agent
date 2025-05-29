@@ -145,12 +145,26 @@ def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
     generator.text = "News Agent RSS Generator"
     
     # 添加所有权认证标签
-    follow_challenge = SubElement(channel, 'follow_challenge')
-    feed_id = SubElement(follow_challenge, 'feedId')
-    feed_id.text = "150741279739242496"
-    user_id = SubElement(follow_challenge, 'userId')
-    user_id.text = "DdasOQb1gouc5RwqkaQc4KLscHJhfeeW"
-    
+    # 当为AI新闻时，添加follow_challenge元素
+    if category.lower() == 'ai':
+        follow_challenge = SubElement(channel, 'follow_challenge')
+        feed_id = SubElement(follow_challenge, 'feedId')
+        feed_id.text = "150741279739242496"
+        user_id = SubElement(follow_challenge, 'userId')
+        user_id.text = "DdasOQb1gouc5RwqkaQc4KLscHJhfeeW"
+    elif category.lower() == 'technology':
+        follow_challenge = SubElement(channel, 'follow_challenge')
+        feed_id = SubElement(follow_challenge, 'feedId')
+        feed_id.text = "150742893699033088"
+        user_id = SubElement(follow_challenge, 'userId')
+        user_id.text = "DdasOQb1gouc5RwqkaQc4KLscHJhfeeW"
+    elif category.lower() == 'finance':
+        follow_challenge = SubElement(channel, 'follow_challenge')
+        feed_id = SubElement(follow_challenge, 'feedId')
+        feed_id.text = "150742893699033088"
+        user_id = SubElement(follow_challenge, 'userId')
+        user_id.text = "DdasOQb1gouc5RwqkaQc4KLscHJhfeeW"
+
     # 添加atom:link自引用
     atom_link = SubElement(channel, 'atom:link')
     atom_link.set('href', f"{base_url}/feed/{category.lower()}freenewsagent.xml")
