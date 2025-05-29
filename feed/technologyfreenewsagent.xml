@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 06:40:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 06:40:49 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 06:51:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 06:51:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>华曦达：利润持续 “阶梯式” 下滑，大客户交易迷雾重重｜IPO观察</title>
+      <link>https://www.tmtpost.com/7580652.html</link>
+      <description>&lt;![CDATA[华曦达：利润持续 “阶梯式” 下滑，大客户交易迷雾重重｜IPO观察]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7580652.html</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>南京化纤重组“过山车”：股东大会过审后急跌，风口标的曾突击清偿十年挂账债</title>
       <link>https://www.tmtpost.com/7566094.html</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[苦尽甘来，小鹏稳了吗？]]&gt;</description>
       <pubDate>Thu, 29 May 2025 10:23:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.tmtpost.com/7580501.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>A股还是严重低估了核电</title>
-      <link>https://www.tmtpost.com/7580504.html</link>
-      <description>&lt;![CDATA[A股还是严重低估了核电]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7580504.html</guid>
       <category>Technology</category>
     </item>
   </channel>
