@@ -84,32 +84,25 @@ jobs:
     - name: Check time window
       id: time-check
       run: |
+        # 方法1：使用您当前的修复
         UTC_HOUR=$(date -u +%H)
-        BEIJING_HOUR=$(TZ='Asia/Shanghai' date +%H)
-        
-        # 移除前导零，确保数字比较正确
         UTC_HOUR=$((10#$UTC_HOUR))
+        
+        # 方法2：额外验证（可选）
+        # UTC_HOUR=$(date -u +%H | sed 's/^0*//')  # 移除前导零
         
         echo "当前UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S')"
         echo "当前北京时间: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
         echo "UTC小时: $UTC_HOUR"
-        echo "北京小时: $BEIJING_HOUR"
-        echo "触发方式: ${{ github.event_name }}"
+        echo "调试: 类型检查: $(echo $UTC_HOUR | grep -E '^[0-9]+$' && echo '纯数字' || echo '非数字')"
         
-        # 修复逻辑判断 - 使用更明确的条件
-        if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-          echo "✅ 手动触发，强制运行"
-          echo "should_run=true" >> $GITHUB_OUTPUT
-        elif [[ $UTC_HOUR -ge 0 && $UTC_HOUR -le 16 ]]; then
-          echo "✅ 在时间窗口内 (UTC 0-16点)"
+        if [[ "${{ github.event_name }}" == "workflow_dispatch" ]] || [[ $UTC_HOUR -ge 0 && $UTC_HOUR -le 16 ]]; then
+          echo "✅ 符合运行条件"
           echo "should_run=true" >> $GITHUB_OUTPUT
         else
-          echo "⏰ 不在运行时间窗口内，跳过更新"
+          echo "⏰ 跳过更新"
           echo "should_run=false" >> $GITHUB_OUTPUT
         fi
-        
-        # 额外调试信息
-        echo "调试: UTC_HOUR=$UTC_HOUR, 范围检查: $(if [[ $UTC_HOUR -ge 0 && $UTC_HOUR -le 16 ]]; then echo "通过"; else echo "失败"; fi)"
     
     - name: Run update
       if: steps.time-check.outputs.should_run == 'true'
