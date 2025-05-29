@@ -93,8 +93,8 @@ jobs:
         echo "UTC小时: $UTC_HOUR"
         echo "北京小时: $BEIJING_HOUR"
         
-        # 北京时间8-24时对应UTC时间0-16时，或者手动触发
-        if [ $UTC_HOUR -ge 0 ] && [ $UTC_HOUR -le 16 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+        # 修复逻辑判断
+        if [[ ($UTC_HOUR -ge 0 && $UTC_HOUR -le 16) || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
           echo "✅ 在运行时间窗口内或手动触发"
           echo "should_run=true" >> $GITHUB_OUTPUT
         else
