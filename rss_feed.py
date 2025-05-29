@@ -127,7 +127,7 @@ def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
     title.text = f"{category} 新闻汇总 - Free News Agent"
     
     link = SubElement(channel, 'link')
-    link.text = f"{base_url}/feed/{category.lower()}.xml"
+    link.text = f"{base_url}/feed/{category.lower()}freenewsagent.xml"
     
     description = SubElement(channel, 'description')
     description.text = f"{category} 分类的最新新闻汇总，由 Free News Agent 自动生成"
@@ -153,7 +153,7 @@ def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
     
     # 添加atom:link自引用
     atom_link = SubElement(channel, 'atom:link')
-    atom_link.set('href', f"{base_url}/feed/{category.lower()}.xml")
+    atom_link.set('href', f"{base_url}/feed/{category.lower()}freenewsagent.xml")
     atom_link.set('rel', 'self')
     atom_link.set('type', 'application/rss+xml')
     
@@ -284,7 +284,7 @@ def main():
             rss_xml = generate_rss_xml(news_info, category, base_url)
             
             # 保存XML文件
-            xml_filename = f"{category.lower()}.xml"
+            xml_filename = f"{category.lower()}freenewsagent.xml"
             xml_path = os.path.join(feed_dir, xml_filename)
             
             with open(xml_path, 'w', encoding='utf-8') as f:

@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>AI 新闻汇总 - Free News Agent</title>
-    <link>https://zskfree.github.io/News-Agent/feed/ai.xml</link>
+    <link>https://zskfree.github.io/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
     <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 10:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 10:31:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150733397505379328</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
-    <atom:link href="https://zskfree.github.io/News-Agent/feed/ai.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://zskfree.github.io/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>相约美国田纳西，CVPR 2025顶会饭局报名了！</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-12</link>
