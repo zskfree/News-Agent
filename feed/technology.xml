@@ -6,8 +6,12 @@
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
     <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 10:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 10:16:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
+    <follow_challenge>
+      <feedId>150733397505379328</feedId>
+      <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
+    </follow_challenge>
     <atom:link href="https://your-domain.com/feed/technology.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>对标Supabase！ 腾讯云AI Toolkit重磅上线，一键部署Cursor项目</title>

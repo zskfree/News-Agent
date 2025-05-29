@@ -144,6 +144,13 @@ def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
     generator = SubElement(channel, 'generator')
     generator.text = "News Agent RSS Generator"
     
+    # 添加所有权认证标签
+    follow_challenge = SubElement(channel, 'follow_challenge')
+    feed_id = SubElement(follow_challenge, 'feedId')
+    feed_id.text = "150733397505379328"
+    user_id = SubElement(follow_challenge, 'userId')
+    user_id.text = "DdasOQb1gouc5RwqkaQc4KLscHJhfeeW"
+    
     # 添加atom:link自引用
     atom_link = SubElement(channel, 'atom:link')
     atom_link.set('href', f"{base_url}/feed/{category.lower()}.xml")
