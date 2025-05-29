@@ -39,12 +39,12 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.12'
     
     - name: Cache pip dependencies
-      uses: actions/cache@v3
+      uses: actions/cache@v4
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -139,18 +139,18 @@ jobs:
     
     - name: Setup Pages
       if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
-      uses: actions/configure-pages@v3
+      uses: actions/configure-pages@v4
     
     - name: Upload artifact
       if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
       with:
         path: './feed'
     
     - name: Deploy to GitHub Pages
       if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
     
     - name: Create summary
       if: always()
@@ -191,7 +191,7 @@ jobs:
     
     - name: Upload logs on failure
       if: failure() && steps.time-check.outputs.should_run == 'true'
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: error-logs-${{ github.run_number }}
         path: |
