@@ -8,7 +8,7 @@
 - 🔄 **智能去重** - 基于哈希值避免重复文章
 - 📡 **RSS Feed生成** - 自动生成标准RSS订阅源
 - 🌐 **GitHub Pages托管** - 免费的RSS订阅服务
-- ⏰ **定时更新** - 每日自动更新新闻内容
+- ⏰ **定时更新** - 自动更新新闻内容（两小时更新一次，北京时间8-24时）
 - 🏷️ **分类管理** - 支持AI、科技、财经等多个分类
 
 ## 📊 当前订阅源
@@ -32,7 +32,7 @@ News-Agent/
 ├── 📁 cumulative_news/        # 累积新闻文档
 ├── 生成累积新闻.py              # 新闻聚合脚本
 ├── 生成累积RSS.py              # RSS生成脚本
-├── daily_update.py            # 每日更新脚本
+├── daily_update.py            # 自动更新脚本
 └── requirements.txt           # 依赖包
 ```
 
@@ -76,7 +76,7 @@ python daily_update.py
 
 1. **Fork此仓库**
 2. **启用GitHub Pages** (Settings → Pages → Source: GitHub Actions)
-3. **配置完成** - 系统将每日自动更新
+3. **配置完成** - 系统将自动更新
 
 ### GitHub Actions工作流
 - ⏰ 每日UTC 00:00自动运行
@@ -101,7 +101,7 @@ python daily_update.py
 
 - 📰 **支持新闻源**: 10+ 个高质量RSS源
 - 🏷️ **分类数量**: 3个主要分类 (AI/科技/财经)
-- 🔄 **更新频率**: 每日自动更新
+- 🔄 **更新频率**: 北京时间8-24时，两小时一次，自动更新
 - 📱 **兼容性**: 支持所有标准RSS阅读器
 
 ## 🤝 贡献
@@ -112,10 +112,6 @@ python daily_update.py
 2. 创建特性分支
 3. 提交更改
 4. 发起Pull Request
-
-## 📄 许可证
-
-MIT License - 详见 LICENSE 文件
 
 ---
 
