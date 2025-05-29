@@ -124,13 +124,13 @@ def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
     
     # 添加频道信息
     title = SubElement(channel, 'title')
-    title.text = f"{category} 新闻汇总 - News Agent"
+    title.text = f"{category} 新闻汇总 - Free News Agent"
     
     link = SubElement(channel, 'link')
     link.text = f"{base_url}/feed/{category.lower()}.xml"
     
     description = SubElement(channel, 'description')
-    description.text = f"{category} 分类的最新新闻汇总，由 News Agent 自动生成"
+    description.text = f"{category} 分类的最新新闻汇总，由 Free News Agent 自动生成"
     
     language = SubElement(channel, 'language')
     language.text = "zh-CN"
@@ -350,4 +350,3 @@ if __name__ == "__main__":
         else:
             print("\n💥 任务失败！")
             sys.exit(1)
-            
