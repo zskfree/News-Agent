@@ -1,7 +1,162 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 12:13
+**最后更新时间**: 2025-05-29 04:20
+
+---
+
+## 🆕 最新更新 (2025-05-29 04:20)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Why Anthropic’s New AI Model Sometimes Tries to ‘Snitch’](https://www.wired.com/story/anthropic-claude-snitch-emergent-behavior/)
+**发布时间**: 2025-05-28 19:40
+
+#### [10 Best Juicers (2025): Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
+**发布时间**: 2025-05-28 17:49
+
+#### [Nancy Mace’s Former Staff Claim She Had Them Create Burner Accounts to Promote Her](https://www.wired.com/story/nancy-mace-former-staff-burner-accounts/)
+**发布时间**: 2025-05-28 16:11
+
+#### [‘Grand Theft Auto’ Publisher Swaps DEI for ‘Diversity of Thought’ in Annual Report](https://www.wired.com/story/grand-theft-autos-publisher-abandons-dei-for-diversity-of-thought-in-annual-report/)
+**发布时间**: 2025-05-28 15:51
+
+#### [The Best E-Readers, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-ereaders/)
+**发布时间**: 2025-05-28 15:00
+
+#### [All the Top Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+**发布时间**: 2025-05-28 14:00
+
+#### [10 Best Meal Delivery Services, Tested By an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
+**发布时间**: 2025-05-28 13:50
+
+#### [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
+**发布时间**: 2025-05-28 13:30
+
+#### [7 Best Massagers for People Who Don’t Have Time to Relax (2025)](https://www.wired.com/gallery/the-best-massagers/)
+**发布时间**: 2025-05-28 13:02
+
+#### [Mushroom Supplements Are the Biohackers’ Latest Fix (2025)](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
+**发布时间**: 2025-05-28 12:02
+
+#### [Jesse Armstrong Finds Sympathy for ‘Rich Assholes’ in Mountainhead](https://www.wired.com/story/jesse-armstrong-mountainhead/)
+**发布时间**: 2025-05-28 11:00
+
+#### [7 Best Cheap Mattresses (2025), Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)
+**发布时间**: 2025-05-28 10:39
+
+#### [The Switch 2 May Signal the End of Physical Games](https://www.wired.com/story/the-switch-2-may-signal-the-end-of-physical-games/)
+**发布时间**: 2025-05-28 10:30
+
+#### [Auto Shanghai 2025 Wasn’t Just a Car Show. It Was a Warning to the West](https://www.wired.com/story/auto-shanghai-2025-car-show-warning-to-the-west/)
+**发布时间**: 2025-05-28 10:26
+
+#### [30% Off Design Within Reach Promo Code | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
+**发布时间**: 2025-05-28 05:40
+
+#### [Home Depot Promo Codes & Coupons: 50% Off](https://www.wired.com/story/home-depot-promo-code/)
+**发布时间**: 2025-05-28 05:35
+
+#### [20% HP Coupon Code & Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)
+**发布时间**: 2025-05-28 05:30
+
+#### [Adidas Promo Codes & Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
+**发布时间**: 2025-05-28 05:10
+
+#### [Samsung Promo Codes: 30% Off | June 2025](https://www.wired.com/story/samsung-promo-codes/)
+**发布时间**: 2025-05-28 05:05
+
+#### [10% Off Canon Promo Code & Coupons](https://www.wired.com/story/canon-promo-code/)
+**发布时间**: 2025-05-28 05:00
+
+#### [The 46 Best Shows on Hulu Right Now (June 2025)](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+**发布时间**: 2025-05-27 19:00
+
+#### [Donald Trump’s Media Conglomerate Is Becoming a Bitcoin Reserve](https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/)
+**发布时间**: 2025-05-27 18:12
+
+#### [Six Moon Designs Lunar Solo Tent Review: An Ultralight Summer Shelter](https://www.wired.com/review/six-moon-designs-lunar-solo-tent/)
+**发布时间**: 2025-05-27 14:02
+
+#### [The MagPod Is a Basic Smartphone Tripod I Can’t Live Without](https://www.wired.com/story/the-magpod-is-a-basic-smartphone-tripod-i-cant-live-without/)
+**发布时间**: 2025-05-27 13:00
+
+#### [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)
+**发布时间**: 2025-05-27 12:33
+
+#### [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
+**发布时间**: 2025-05-27 11:32
+
+#### [Businesses Got Squeezed by Trump’s Tariffs. Now Some of Them Want Their Money Back](https://www.wired.com/story/tariffs-trump-refund-logistics/)
+**发布时间**: 2025-05-27 11:00
+
+#### [The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)
+**发布时间**: 2025-05-27 10:30
+
+#### [Carl Pei Thinks the Phone of the Future Will Only Have One App](https://www.wired.com/story/carl-pei-thinks-the-phone-of-the-future-will-only-have-one-app/)
+**发布时间**: 2025-05-27 10:00
+
+#### [There’s a Very Simple Pattern to Elon Musk’s Broken Promises](https://www.wired.com/story/theres-a-very-simple-pattern-to-elon-musks-broken-promises/)
+**发布时间**: 2025-05-27 09:30
+
+#### [A New Study Reveals the Makeup of Uranus’ Atmosphere](https://www.wired.com/story/a-new-study-reveals-the-makeup-of-uranus-atmosphere/)
+**发布时间**: 2025-05-27 09:00
+
+#### [We Hand-Picked the 72 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
+**发布时间**: 2025-05-26 14:07
+
+#### [The 14 Best TVs We’ve Reviewed, Plus Buying Advice (2025)](https://www.wired.com/gallery/best-tvs/)
+**发布时间**: 2025-05-26 12:33
+
+#### [What Is Matter? We Explain the Smart Home Standard (2025)](https://www.wired.com/story/what-is-matter/)
+**发布时间**: 2025-05-26 12:00
+
+#### [Hot Farmers, Trad Wives, and an Immigrant Reality Show: Welcome to TV’s MAGA Era](https://www.wired.com/story/hot-farmers-trad-wives-and-an-immigrant-reality-show-welcome-to-tvs-maga-era/)
+**发布时间**: 2025-05-26 11:00
+
+#### [Why Women With Type 2 Diabetes Are Diagnosed Later Than Men](https://www.wired.com/story/why-women-with-type-2-diabetes-are-diagnosed-later-than-men/)
+**发布时间**: 2025-05-26 11:00
+
+#### [24 Best Memorial Day Mattress and Bedding Sales (2025)](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)
+**发布时间**: 2025-05-26 10:31
+
+#### [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/)
+**发布时间**: 2025-05-26 10:30
+
+#### [39 Best Memorial Day Sales on Our Favorite Gear (2025)](https://www.wired.com/story/best-memorial-day-sales-2025-2/)
+**发布时间**: 2025-05-26 10:02
+
+#### [Car HUDs Are Bad. Jaguar Land Rover Is Testing Tech to Change That](https://www.wired.com/story/car-huds-are-bad-jaguar-land-rover-is-testing-tech-to-change-that/)
+**发布时间**: 2025-05-26 10:00
+
+#### [The Milky Way Has a Mysterious ‘Broken Bone’](https://www.wired.com/story/the-milky-way-has-a-mysterious-broken-bone-nasa/)
+**发布时间**: 2025-05-26 09:00
+
+#### [10 Best Reusable Water Bottles of 2025, Tested & Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
+**发布时间**: 2025-05-25 14:02
+
+#### [Samsung Galaxy S25 Edge Review: Super Thin With a Catch](https://www.wired.com/review/samsung-galaxy-s25-edge/)
+**发布时间**: 2025-05-25 12:00
+
+#### [The Quest to Prove the Existence of a New Type of Quantum Particle](https://www.wired.com/story/paraparticles-would-be-a-third-kingdom-of-quantum-particle/)
+**发布时间**: 2025-05-25 11:00
+
+#### [3D Is Back. This Time, You Can Ditch the Glasses](https://www.wired.com/story/3d-is-back/)
+**发布时间**: 2025-05-25 10:30
+
+#### [Best Mirrorless Cameras (2025): Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
+**发布时间**: 2025-05-24 15:02
+
+#### [Anker Nebula X1 Home Projector Review: Gorgeous Anywhere](https://www.wired.com/review/anker-nebula-x1-home-projector/)
+**发布时间**: 2025-05-24 14:03
+
+#### [DJI Mavic Pro Review: Powerful and Easy to Use](https://www.wired.com/review/review-dji-mavic-4-pro/)
+**发布时间**: 2025-05-24 13:00
+
+#### [Breville Oracle Jet Review (2025): Easy and Delicious](https://www.wired.com/review/breville-oracle-jet/)
+**发布时间**: 2025-05-24 12:03
+
+#### [7 Best Coffee Pod Machines (2025), Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)
+**发布时间**: 2025-05-24 11:32
 
 ---
 
