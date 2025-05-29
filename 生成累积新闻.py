@@ -28,7 +28,7 @@ def main():
     # 配置参数
     RSS_CONFIG_FILE = r'RSS feed URL\rss_feed_url.json'
     output_dir = "cumulative_news"  # 累积新闻输出目录
-    max_articles_per_source = 1000  # 每个源最多获取的文章数量
+    max_articles_per_source = 100000  # 每个源最多获取的文章数量
     
     print(f"📋 配置信息:")
     print(f"  - RSS配置文件: {RSS_CONFIG_FILE}")

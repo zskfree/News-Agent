@@ -326,7 +326,7 @@ def main():
     news_dir = "cumulative_news"
     feed_dir = "feed"
     base_url = "https://zskfree.github.io/News-Agent"
-    max_articles_per_feed = 1000  # 每个RSS Feed最多包含的文章数
+    max_articles_per_feed = 100  # 每个RSS Feed最多包含的文章数
     
     print(f"📋 配置信息:")
     print(f"  - 累积新闻目录: {news_dir}")
