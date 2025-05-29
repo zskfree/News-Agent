@@ -186,7 +186,7 @@ def get_category_follow_challenge(category):
             'userId': 'DdasOQb1gouc5RwqkaQc4KLscHJhfeeW'
         },
         'finance': {
-            'feedId': '150742893699033088',
+            'feedId': '150806458867930112',
             'userId': 'DdasOQb1gouc5RwqkaQc4KLscHJhfeeW'
         }
     }
