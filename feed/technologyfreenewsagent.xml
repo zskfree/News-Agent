@@ -5,14 +5,22 @@
     <link>https://zskfree.github.io/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 11:55:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 11:57:21 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 12:13:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 12:13:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150742893699033088</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskfree.github.io/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>那些被大行吞并的小行，日子过的怎么样？</title>
+      <link>https://www.tmtpost.com/7576997.html</link>
+      <description>&lt;![CDATA[那些被大行吞并的小行，日子过的怎么样？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7576997.html</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>对话即编程，技术小白用美团 NoCode 3 小时搭出专属应用</title>
       <link>http://www.geekpark.net/news/349894</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[Top 10 AI Content Generator &amp; Writer Tools in 2022]]&gt;</description>
       <pubDate>Tue, 15 Nov 2022 08:58:00 GMT</pubDate>
       <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Beginner Guide to CJ Affiliate (Commission Junction) in 2022</title>
-      <link>https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html</link>
-      <description>&lt;![CDATA[Beginner Guide to CJ Affiliate (Commission Junction) in 2022]]&gt;</description>
-      <pubDate>Sat, 10 Sep 2022 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html</guid>
       <category>Technology</category>
     </item>
   </channel>

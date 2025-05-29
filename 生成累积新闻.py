@@ -25,8 +25,8 @@ def main():
     print("🔄 累积新闻汇总生成器")
     print("=" * 60)
     
-    # 配置参数
-    RSS_CONFIG_FILE = r'RSS feed URL\rss_feed_url.json'
+    # 配置参数 - 使用跨平台路径
+    RSS_CONFIG_FILE = os.path.join('RSS feed URL', 'rss_feed_url.json')
     output_dir = "cumulative_news"  # 累积新闻输出目录
     max_articles_per_source = 100000  # 每个源最多获取的文章数量
     
@@ -39,6 +39,33 @@ def main():
     # 检查RSS配置文件是否存在
     if not os.path.exists(RSS_CONFIG_FILE):
         print(f"❌ RSS配置文件不存在: {RSS_CONFIG_FILE}")
+        
+        # 调试：显示当前目录结构
+        print("\n🔍 调试信息 - 当前目录结构:")
+        print(f"   当前工作目录: {os.getcwd()}")
+        print("   根目录内容:")
+        for item in os.listdir('.'):
+            if os.path.isdir(item):
+                print(f"     📁 {item}/")
+            else:
+                print(f"     📄 {item}")
+        
+        # 检查是否有相似的目录
+        similar_dirs = [d for d in os.listdir('.') if 'rss' in d.lower() or 'feed' in d.lower() or 'url' in d.lower()]
+        if similar_dirs:
+            print("   相关目录:")
+            for dir_name in similar_dirs:
+                print(f"     📁 {dir_name}/")
+                if os.path.isdir(dir_name):
+                    try:
+                        files = os.listdir(dir_name)
+                        for file in files[:5]:  # 只显示前5个文件
+                            print(f"        📄 {file}")
+                        if len(files) > 5:
+                            print(f"        ... 还有 {len(files) - 5} 个文件")
+                    except:
+                        pass
+        
         return False
     
     try:
@@ -114,10 +141,11 @@ def main():
             print(f"  ❌ 失败分类: {', '.join(failed_categories)}")
         
         # 检查汇总报告是否生成
-        summary_files = [f for f in os.listdir(output_dir) if f.startswith('cumulative_summary_')]
-        if summary_files:
-            summary_file = sorted(summary_files)[-1]  # 获取最新的汇总报告
-            print(f"  📋 汇总报告: {summary_file}")
+        if os.path.exists(output_dir):
+            summary_files = [f for f in os.listdir(output_dir) if f.startswith('cumulative_summary_')]
+            if summary_files:
+                summary_file = sorted(summary_files)[-1]  # 获取最新的汇总报告
+                print(f"  📋 汇总报告: {summary_file}")
         
         print(f"\n🎉 累积新闻更新完成！请查看目录: {os.path.abspath(output_dir)}")
         return True

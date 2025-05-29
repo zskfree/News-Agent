@@ -36,81 +36,6 @@ def get_system_encoding():
         # 如果都失败，使用UTF-8作为默认
         return 'utf-8'
 
-def run_script(script_name, description):
-    """
-    执行脚本并记录结果
-    """
-    print(f"\n{'='*60}")
-    print(f"🚀 开始执行: {description}")
-    print(f"{'='*60}")
-    
-    try:
-        # 在GitHub Actions环境中确保使用正确的Python路径
-        python_cmd = sys.executable
-        
-        # 获取系统编码
-        system_encoding = get_system_encoding()
-        print(f"   使用编码: {system_encoding}")
-        
-        # 设置环境变量确保UTF-8输出
-        env = os.environ.copy()
-        env['PYTHONIOENCODING'] = 'utf-8'
-        
-        # 在Windows上可能需要设置这些
-        if os.name == 'nt':  # Windows
-            env['PYTHONLEGACYWINDOWSSTDIO'] = '1'
-        
-        result = subprocess.run(
-            [python_cmd, script_name], 
-            capture_output=True, 
-            text=True, 
-            encoding=system_encoding,
-            errors='replace',  # 遇到无法解码的字符时用替换字符
-            timeout=1800,
-            env=env
-        )
-        
-        if result.returncode == 0:
-            print(f"✅ {description} 执行成功")
-            if result.stdout:
-                print("输出:")
-                # 确保输出能正确显示
-                try:
-                    print(result.stdout)
-                except UnicodeEncodeError:
-                    # 如果输出包含无法显示的字符，用安全方式显示
-                    print(result.stdout.encode('utf-8', errors='replace').decode('utf-8'))
-            logging.info(f"{description} 执行成功")
-            return True
-        else:
-            print(f"❌ {description} 执行失败")
-            if result.stderr:
-                print("错误信息:")
-                try:
-                    print(result.stderr)
-                except UnicodeEncodeError:
-                    print(result.stderr.encode('utf-8', errors='replace').decode('utf-8'))
-            
-            # 同时显示stdout，可能包含有用的调试信息
-            if result.stdout:
-                print("标准输出:")
-                try:
-                    print(result.stdout)
-                except UnicodeEncodeError:
-                    print(result.stdout.encode('utf-8', errors='replace').decode('utf-8'))
-            
-            logging.error(f"{description} 执行失败: {result.stderr}")
-            return False
-            
-    except subprocess.TimeoutExpired:
-        print(f"❌ {description} 执行超时")
-        logging.error(f"{description} 执行超时")
-        return False
-    except Exception as e:
-        print(f"❌ 执行 {description} 时发生异常: {e}")
-        logging.error(f"执行 {description} 时发生异常: {e}")
-        return False
-
 def run_script_with_fallback(script_name, description):
     """
     带有回退机制的脚本执行函数
@@ -262,13 +187,13 @@ def check_environment():
         if os.name == 'nt':
             print("💻 操作系统: Windows")
     
-    # 检查必要文件
+    # 检查必要文件 - 使用跨平台路径
     required_files = [
         "生成累积新闻.py",
         "生成累积RSS.py",
-        "RSS feed URL/rss_feed_url.json",
-        "src/rss_read.py",
-        "src/load_rss_url.py"
+        os.path.join("RSS feed URL", "rss_feed_url.json"),
+        os.path.join("src", "rss_read.py"),
+        os.path.join("src", "load_rss_url.py")
     ]
     
     missing_files = []
