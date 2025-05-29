@@ -5,8 +5,8 @@
     <link>https://zskfree.github.io/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 09:57:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 10:44:22 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 11:29:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 11:30:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150741279739242496</feedId>
@@ -14,10 +14,506 @@
     </follow_challenge>
     <atom:link href="https://zskfree.github.io/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>DeepSeek-R1今天一次「小更新」，颠覆了大模型格局，网友：尽快放R2</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29-2</link>
+      <description>&lt;![CDATA[DeepSeek-R1今天一次「小更新」，颠覆了大模型格局，网友：尽快放R2]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>原来Veo 3早有苗头！人大联合值得买科技在CVPR 2025提出全新「图像到有声视频」生成框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-29</link>
+      <description>&lt;![CDATA[原来Veo 3早有苗头！人大联合值得买科技在CVPR 2025提出全新「图像到有声视频」生成框架]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-29</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Towards a unified model for predicting human responses to diverse visual content</title>
+      <link>https://research.google/blog/towards-a-unified-model-for-predicting-human-responses-to-diverse-visual-content/</link>
+      <description>&lt;![CDATA[Towards a unified model for predicting human responses to diverse visual content]]&gt;</description>
+      <pubDate>Tue, 12 Nov 2024 00:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/towards-a-unified-model-for-predicting-human-responses-to-diverse-visual-content/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Generating zero-shot personalized portraits</title>
+      <link>https://research.google/blog/generating-zero-shot-personalized-portraits/</link>
+      <description>&lt;![CDATA[Generating zero-shot personalized portraits]]&gt;</description>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/generating-zero-shot-personalized-portraits/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>An improved flood forecasting AI model, trained and evaluated globally</title>
+      <link>https://research.google/blog/a-flood-forecasting-ai-model-trained-and-evaluated-globally/</link>
+      <description>&lt;![CDATA[An improved flood forecasting AI model, trained and evaluated globally]]&gt;</description>
+      <pubDate>Mon, 11 Nov 2024 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/a-flood-forecasting-ai-model-trained-and-evaluated-globally/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Relationships are complicated! An analysis of relationships between datasets on the Web</title>
+      <link>https://research.google/blog/relationships-are-complicated-an-analysis-of-relationships-between-datasets-on-the-web/</link>
+      <description>&lt;![CDATA[Relationships are complicated! An analysis of relationships between datasets on the Web]]&gt;</description>
+      <pubDate>Thu, 07 Nov 2024 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/relationships-are-complicated-an-analysis-of-relationships-between-datasets-on-the-web/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A return to hand-written notes by learning to read &amp; write</title>
+      <link>https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/</link>
+      <description>&lt;![CDATA[A return to hand-written notes by learning to read &amp; write]]&gt;</description>
+      <pubDate>Mon, 28 Oct 2024 20:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>What does electrodermal sensing reveal? Insights from the Pixel Watch &amp; Fitbit Sense 2</title>
+      <link>https://research.google/blog/what-does-electrodermal-sensing-reveal-insights-from-the-pixel-watch-fitbit-sense-2/</link>
+      <description>&lt;![CDATA[What does electrodermal sensing reveal? Insights from the Pixel Watch &amp; Fitbit Sense 2]]&gt;</description>
+      <pubDate>Thu, 24 Oct 2024 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/what-does-electrodermal-sensing-reveal-insights-from-the-pixel-watch-fitbit-sense-2/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Scalable self-improvement for compiler optimization</title>
+      <link>https://research.google/blog/scalable-self-improvement-for-compiler-optimization/</link>
+      <description>&lt;![CDATA[Scalable self-improvement for compiler optimization]]&gt;</description>
+      <pubDate>Wed, 23 Oct 2024 16:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/scalable-self-improvement-for-compiler-optimization/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Learning DeepVariant's hidden powers</title>
+      <link>https://research.google/blog/learning-deepvariants-hidden-powers/</link>
+      <description>&lt;![CDATA[Learning DeepVariant's hidden powers]]&gt;</description>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/learning-deepvariants-hidden-powers/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Taking medical imaging embeddings 3D</title>
+      <link>https://research.google/blog/taking-medical-imaging-embeddings-3d/</link>
+      <description>&lt;![CDATA[Taking medical imaging embeddings 3D]]&gt;</description>
+      <pubDate>Mon, 21 Oct 2024 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/taking-medical-imaging-embeddings-3d/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Evaluating and enhancing probabilistic reasoning in language models</title>
+      <link>https://research.google/blog/evaluating-and-enhancing-probabilistic-reasoning-in-language-models/</link>
+      <description>&lt;![CDATA[Evaluating and enhancing probabilistic reasoning in language models]]&gt;</description>
+      <pubDate>Mon, 21 Oct 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/evaluating-and-enhancing-probabilistic-reasoning-in-language-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>HDR photo editing with machine learning</title>
+      <link>https://research.google/blog/hdr-photo-editing-with-machine-learning/</link>
+      <description>&lt;![CDATA[HDR photo editing with machine learning]]&gt;</description>
+      <pubDate>Wed, 16 Oct 2024 11:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/hdr-photo-editing-with-machine-learning/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Validating random circuit sampling as a benchmark for measuring quantum progress</title>
+      <link>https://research.google/blog/validating-random-circuit-sampling-as-a-benchmark-for-measuring-quantum-progress/</link>
+      <description>&lt;![CDATA[Validating random circuit sampling as a benchmark for measuring quantum progress]]&gt;</description>
+      <pubDate>Thu, 10 Oct 2024 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/validating-random-circuit-sampling-as-a-benchmark-for-measuring-quantum-progress/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Tx-LLM: Supporting therapeutic development with large language models</title>
+      <link>https://research.google/blog/tx-llm-supporting-therapeutic-development-with-large-language-models/</link>
+      <description>&lt;![CDATA[Tx-LLM: Supporting therapeutic development with large language models]]&gt;</description>
+      <pubDate>Wed, 09 Oct 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/tx-llm-supporting-therapeutic-development-with-large-language-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Augmented object intelligence with XR-Objects</title>
+      <link>https://research.google/blog/augmented-object-intelligence-with-xr-objects/</link>
+      <description>&lt;![CDATA[Augmented object intelligence with XR-Objects]]&gt;</description>
+      <pubDate>Tue, 01 Oct 2024 23:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/augmented-object-intelligence-with-xr-objects/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Predicting fetal well-being from cardiotocography signals using AI</title>
+      <link>https://research.google/blog/predicting-fetal-well-being-from-cardiotocography-signals-using-ai/</link>
+      <description>&lt;![CDATA[Predicting fetal well-being from cardiotocography signals using AI]]&gt;</description>
+      <pubDate>Fri, 27 Sep 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/predicting-fetal-well-being-from-cardiotocography-signals-using-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Scaling up linear programming with PDLP</title>
+      <link>https://research.google/blog/scaling-up-linear-programming-with-pdlp/</link>
+      <description>&lt;![CDATA[Scaling up linear programming with PDLP]]&gt;</description>
+      <pubDate>Fri, 20 Sep 2024 11:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/scaling-up-linear-programming-with-pdlp/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Open Buildings 2.5D Temporal dataset tracks building changes across the Global South</title>
+      <link>https://research.google/blog/open-buildings-25d-temporal-dataset-tracks-building-changes-across-the-global-south/</link>
+      <description>&lt;![CDATA[Open Buildings 2.5D Temporal dataset tracks building changes across the Global South]]&gt;</description>
+      <pubDate>Thu, 19 Sep 2024 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/open-buildings-25d-temporal-dataset-tracks-building-changes-across-the-global-south/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Whistles, songs, boings, and biotwangs: Recognizing whale vocalizations with AI</title>
+      <link>https://research.google/blog/whistles-songs-boings-and-biotwangs-recognizing-whale-vocalizations-with-ai/</link>
+      <description>&lt;![CDATA[Whistles, songs, boings, and biotwangs: Recognizing whale vocalizations with AI]]&gt;</description>
+      <pubDate>Wed, 18 Sep 2024 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/whistles-songs-boings-and-biotwangs-recognizing-whale-vocalizations-with-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Neptune: The long orbit to benchmarking long video understanding</title>
+      <link>https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/</link>
+      <description>&lt;![CDATA[Neptune: The long orbit to benchmarking long video understanding]]&gt;</description>
+      <pubDate>Mon, 16 Sep 2024 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Grounding AI in reality with a little help from Data Commons</title>
+      <link>https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/</link>
+      <description>&lt;![CDATA[Grounding AI in reality with a little help from Data Commons]]&gt;</description>
+      <pubDate>Thu, 12 Sep 2024 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Unlocking 7B+ language models in your browser: A deep dive with Google AI Edge's MediaPipe</title>
+      <link>https://research.google/blog/unlocking-7b-language-models-in-your-browser-a-deep-dive-with-google-ai-edges-mediapipe/</link>
+      <description>&lt;![CDATA[Unlocking 7B+ language models in your browser: A deep dive with Google AI Edge's MediaPipe]]&gt;</description>
+      <pubDate>Thu, 22 Aug 2024 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/unlocking-7b-language-models-in-your-browser-a-deep-dive-with-google-ai-edges-mediapipe/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Restoring speaker voices with zero-shot cross-lingual voice transfer for TTS</title>
+      <link>https://research.google/blog/restoring-speaker-voices-with-zero-shot-cross-lingual-voice-transfer-for-tts/</link>
+      <description>&lt;![CDATA[Restoring speaker voices with zero-shot cross-lingual voice transfer for TTS]]&gt;</description>
+      <pubDate>Wed, 21 Aug 2024 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/restoring-speaker-voices-with-zero-shot-cross-lingual-voice-transfer-for-tts/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Speculative RAG: Enhancing retrieval augmented generation through drafting</title>
+      <link>https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/</link>
+      <description>&lt;![CDATA[Speculative RAG: Enhancing retrieval augmented generation through drafting]]&gt;</description>
+      <pubDate>Wed, 21 Aug 2024 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Transformers in music recommendation</title>
+      <link>https://research.google/blog/transformers-in-music-recommendation/</link>
+      <description>&lt;![CDATA[Transformers in music recommendation]]&gt;</description>
+      <pubDate>Fri, 16 Aug 2024 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/transformers-in-music-recommendation/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>HALVA: Hallucination Attenuated Language and Vision Assistant</title>
+      <link>https://research.google/blog/halva-hallucination-attenuated-language-and-vision-assistant/</link>
+      <description>&lt;![CDATA[HALVA: Hallucination Attenuated Language and Vision Assistant]]&gt;</description>
+      <pubDate>Fri, 09 Aug 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/halva-hallucination-attenuated-language-and-vision-assistant/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Smoothly editing material properties of objects with text-to-image models and synthetic data</title>
+      <link>https://research.google/blog/smoothly-editing-material-properties-of-objects-with-text-to-image-models-and-synthetic-data/</link>
+      <description>&lt;![CDATA[Smoothly editing material properties of objects with text-to-image models and synthetic data]]&gt;</description>
+      <pubDate>Fri, 26 Jul 2024 19:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/smoothly-editing-material-properties-of-objects-with-text-to-image-models-and-synthetic-data/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A step towards making heart health screening accessible for billions with PPG signals</title>
+      <link>https://research.google/blog/a-step-towards-making-heart-health-screening-accessible-for-billions-with-ppg-signals/</link>
+      <description>&lt;![CDATA[A step towards making heart health screening accessible for billions with PPG signals]]&gt;</description>
+      <pubDate>Thu, 25 Jul 2024 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/a-step-towards-making-heart-health-screening-accessible-for-billions-with-ppg-signals/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Fast, accurate climate modeling with NeuralGCM</title>
+      <link>https://research.google/blog/fast-accurate-climate-modeling-with-neuralgcm/</link>
+      <description>&lt;![CDATA[Fast, accurate climate modeling with NeuralGCM]]&gt;</description>
+      <pubDate>Mon, 22 Jul 2024 19:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/fast-accurate-climate-modeling-with-neuralgcm/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Harnessing hidden genetic information in clinical data with REGLE</title>
+      <link>https://research.google/blog/harnessing-hidden-genetic-information-in-clinical-data-with-regle/</link>
+      <description>&lt;![CDATA[Harnessing hidden genetic information in clinical data with REGLE]]&gt;</description>
+      <pubDate>Thu, 18 Jul 2024 16:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/harnessing-hidden-genetic-information-in-clinical-data-with-regle/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Accelerating code migrations with AI</title>
+      <link>https://research.google/blog/accelerating-code-migrations-with-ai/</link>
+      <description>&lt;![CDATA[Accelerating code migrations with AI]]&gt;</description>
+      <pubDate>Thu, 18 Jul 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/accelerating-code-migrations-with-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>FireBench: Using high-performance computing to advance machine learning and wildfire research</title>
+      <link>https://research.google/blog/firebench-using-high-performance-computing-to-advance-machine-learning-and-wildfire-research/</link>
+      <description>&lt;![CDATA[FireBench: Using high-performance computing to advance machine learning and wildfire research]]&gt;</description>
+      <pubDate>Tue, 16 Jul 2024 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/firebench-using-high-performance-computing-to-advance-machine-learning-and-wildfire-research/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Assessing ASR performance with meaning preservation</title>
+      <link>https://research.google/blog/assessing-asr-performance-with-meaning-preservation/</link>
+      <description>&lt;![CDATA[Assessing ASR performance with meaning preservation]]&gt;</description>
+      <pubDate>Tue, 09 Jul 2024 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/assessing-asr-performance-with-meaning-preservation/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Rich human feedback for text-to-image generation</title>
+      <link>https://research.google/blog/rich-human-feedback-for-text-to-image-generation/</link>
+      <description>&lt;![CDATA[Rich human feedback for text-to-image generation]]&gt;</description>
+      <pubDate>Wed, 26 Jun 2024 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/rich-human-feedback-for-text-to-image-generation/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Efficient data generation for source-grounded information-seeking dialogs: A use case for meeting transcripts</title>
+      <link>https://research.google/blog/efficient-data-generation-for-source-grounded-information-seeking-dialogs-a-use-case-for-meeting-transcripts/</link>
+      <description>&lt;![CDATA[Efficient data generation for source-grounded information-seeking dialogs: A use case for meeting transcripts]]&gt;</description>
+      <pubDate>Tue, 25 Jun 2024 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/efficient-data-generation-for-source-grounded-information-seeking-dialogs-a-use-case-for-meeting-transcripts/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Dynamics of magnetization at infinite temperature in a Heisenberg spin chain</title>
+      <link>https://research.google/blog/dynamics-of-magnetization-at-infinite-temperature-in-a-heisenberg-spin-chain/</link>
+      <description>&lt;![CDATA[Dynamics of magnetization at infinite temperature in a Heisenberg spin chain]]&gt;</description>
+      <pubDate>Tue, 18 Jun 2024 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/dynamics-of-magnetization-at-infinite-temperature-in-a-heisenberg-spin-chain/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Pre-translation vs. direct inference in multilingual LLM applications</title>
+      <link>https://research.google/blog/pre-translation-vs-direct-inference-in-multilingual-llm-applications/</link>
+      <description>&lt;![CDATA[Pre-translation vs. direct inference in multilingual LLM applications]]&gt;</description>
+      <pubDate>Fri, 14 Jun 2024 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/pre-translation-vs-direct-inference-in-multilingual-llm-applications/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Human I/O: Detecting situational impairments with large language models</title>
+      <link>https://research.google/blog/human-io-detecting-situational-impairments-with-large-language-models/</link>
+      <description>&lt;![CDATA[Human I/O: Detecting situational impairments with large language models]]&gt;</description>
+      <pubDate>Fri, 14 Jun 2024 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/human-io-detecting-situational-impairments-with-large-language-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Smart Paste for context-aware adjustments to pasted code</title>
+      <link>https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/</link>
+      <description>&lt;![CDATA[Smart Paste for context-aware adjustments to pasted code]]&gt;</description>
+      <pubDate>Wed, 12 Jun 2024 05:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Advancing personal health and wellness insights with AI</title>
+      <link>https://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/</link>
+      <description>&lt;![CDATA[Advancing personal health and wellness insights with AI]]&gt;</description>
+      <pubDate>Tue, 11 Jun 2024 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI in software engineering at Google: Progress and the path ahead</title>
+      <link>https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/</link>
+      <description>&lt;![CDATA[AI in software engineering at Google: Progress and the path ahead]]&gt;</description>
+      <pubDate>Thu, 06 Jun 2024 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Using generative AI to investigate medical imagery models and datasets</title>
+      <link>https://research.google/blog/using-generative-ai-to-investigate-medical-imagery-models-and-datasets/</link>
+      <description>&lt;![CDATA[Using generative AI to investigate medical imagery models and datasets]]&gt;</description>
+      <pubDate>Wed, 05 Jun 2024 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/using-generative-ai-to-investigate-medical-imagery-models-and-datasets/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Heuristics on the high seas: Mathematical optimization for cargo ships</title>
+      <link>https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/</link>
+      <description>&lt;![CDATA[Heuristics on the high seas: Mathematical optimization for cargo ships]]&gt;</description>
+      <pubDate>Tue, 04 Jun 2024 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Adversarial Nibbler Challenge: Continuous open red-teaming with diverse communities</title>
+      <link>https://research.google/blog/adversarial-nibbler-challenge-continuous-open-red-teaming-with-diverse-communities/</link>
+      <description>&lt;![CDATA[Adversarial Nibbler Challenge: Continuous open red-teaming with diverse communities]]&gt;</description>
+      <pubDate>Fri, 31 May 2024 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/adversarial-nibbler-challenge-continuous-open-red-teaming-with-diverse-communities/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CodecLM: Aligning language models with tailored synthetic data</title>
+      <link>https://research.google/blog/codeclm-aligning-language-models-with-tailored-synthetic-data/</link>
+      <description>&lt;![CDATA[CodecLM: Aligning language models with tailored synthetic data]]&gt;</description>
+      <pubDate>Thu, 30 May 2024 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/codeclm-aligning-language-models-with-tailored-synthetic-data/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Few-shot tool-use doesn’t really work (yet)</title>
+      <link>https://research.google/blog/few-shot-tool-use-doesnt-really-work-yet/</link>
+      <description>&lt;![CDATA[Few-shot tool-use doesn’t really work (yet)]]&gt;</description>
+      <pubDate>Thu, 30 May 2024 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/few-shot-tool-use-doesnt-really-work-yet/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ChatDirector: Enhancing video conferencing with space-aware scene rendering and speech-driven layout transition</title>
+      <link>https://research.google/blog/chatdirector-enhancing-video-conferencing-with-space-aware-scene-rendering-and-speech-driven-layout-transition/</link>
+      <description>&lt;![CDATA[ChatDirector: Enhancing video conferencing with space-aware scene rendering and speech-driven layout transition]]&gt;</description>
+      <pubDate>Wed, 29 May 2024 00:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/chatdirector-enhancing-video-conferencing-with-space-aware-scene-rendering-and-speech-driven-layout-transition/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>USER-LLM: Efficient LLM contextualization with user embeddings</title>
+      <link>https://research.google/blog/user-llm-efficient-llm-contextualization-with-user-embeddings/</link>
+      <description>&lt;![CDATA[USER-LLM: Efficient LLM contextualization with user embeddings]]&gt;</description>
+      <pubDate>Tue, 28 May 2024 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/user-llm-efficient-llm-contextualization-with-user-embeddings/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Effective large language model adaptation for improved grounding</title>
+      <link>https://research.google/blog/effective-large-language-model-adaptation-for-improved-grounding/</link>
+      <description>&lt;![CDATA[Effective large language model adaptation for improved grounding]]&gt;</description>
+      <pubDate>Fri, 24 May 2024 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/effective-large-language-model-adaptation-for-improved-grounding/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Google Research at Google I/O 2024</title>
+      <link>https://research.google/blog/google-research-at-google-io-2024/</link>
+      <description>&lt;![CDATA[Google Research at Google I/O 2024]]&gt;</description>
+      <pubDate>Fri, 24 May 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/google-research-at-google-io-2024/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LANISTR: Multimodal learning from structured and unstructured data</title>
+      <link>https://research.google/blog/lanistr-multimodal-learning-from-structured-and-unstructured-data/</link>
+      <description>&lt;![CDATA[LANISTR: Multimodal learning from structured and unstructured data]]&gt;</description>
+      <pubDate>Wed, 22 May 2024 01:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/lanistr-multimodal-learning-from-structured-and-unstructured-data/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek新版R1直追OpenAI o3！实测来了：“小版本升级”着实不小</title>
+      <link>https://www.qbitai.com/2025/05/289002.html</link>
+      <description>&lt;![CDATA[DeepSeek新版R1直追OpenAI o3！实测来了：“小版本升级”着实不小]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 01:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289002.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个视觉RL统一框架！推理感知两手抓，性能横扫MEGA-Bench</title>
+      <link>https://www.qbitai.com/2025/05/288945.html</link>
+      <description>&lt;![CDATA[首个视觉RL统一框架！推理感知两手抓，性能横扫MEGA-Bench]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288945.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>开源AI开发生态大洗牌：低代码平台逆袭，传统LLM框架日渐式微</title>
+      <link>https://www.qbitai.com/2025/05/288934.html</link>
+      <description>&lt;![CDATA[开源AI开发生态大洗牌：低代码平台逆袭，传统LLM框架日渐式微]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288934.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>危机影响小米业绩了吗？Ultra锁单2万3千辆，“SU7目前没有对手”</title>
+      <link>https://www.qbitai.com/2025/05/288825.html</link>
+      <description>&lt;![CDATA[危机影响小米业绩了吗？Ultra锁单2万3千辆，“SU7目前没有对手”]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288825.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>值得买科技发布海纳MCP Server：打造智能体时代的AI基础建设</title>
+      <link>https://www.qbitai.com/2025/05/288833.html</link>
+      <description>&lt;![CDATA[值得买科技发布海纳MCP Server：打造智能体时代的AI基础建设]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288833.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>迷惑！豪华品牌裁员3000人，卖不动还敢逆势涨价</title>
+      <link>https://www.qbitai.com/2025/05/288826.html</link>
+      <description>&lt;![CDATA[迷惑！豪华品牌裁员3000人，卖不动还敢逆势涨价]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 09:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288826.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里通义发布并行计算新策略：1.6B等效4.4B，内存消耗骤降95%</title>
+      <link>https://www.qbitai.com/2025/05/288760.html</link>
+      <description>&lt;![CDATA[阿里通义发布并行计算新策略：1.6B等效4.4B，内存消耗骤降95%]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 07:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288760.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Claude 4破解困扰人类4年系统bug，30年码龄程序员200小时没搞定，GPT-4.1/Gemini-2.5也做不到</title>
+      <link>https://www.qbitai.com/2025/05/288761.html</link>
+      <description>&lt;![CDATA[Claude 4破解困扰人类4年系统bug，30年码龄程序员200小时没搞定，GPT-4.1/Gemini-2.5也做不到]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288761.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型玩不好数独？！Transformer作者初创公司公布排行榜：o3 Mini High“变异数独”正确率仅2.9%</title>
+      <link>https://www.qbitai.com/2025/05/288743.html</link>
+      <description>&lt;![CDATA[大模型玩不好数独？！Transformer作者初创公司公布排行榜：o3 Mini High“变异数独”正确率仅2.9%]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 05:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288743.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>地瓜机器人完成1亿美元融资，超10家资本「集体抢滩」具身智能Infra赛道</title>
+      <link>https://www.qbitai.com/2025/05/288738.html</link>
+      <description>&lt;![CDATA[地瓜机器人完成1亿美元融资，超10家资本「集体抢滩」具身智能Infra赛道]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 04:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288738.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
       <title>相约美国田纳西，CVPR 2025顶会饭局报名了！</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-12</link>
       <description>&lt;![CDATA[相约美国田纳西，CVPR 2025顶会饭局报名了！]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 21:27:40 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 21:27:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-12</guid>
       <category>AI</category>
     </item>
@@ -25,7 +521,7 @@
       <title>准确率92.7%逼近Claude 3.5、成本降低86%，开源代码定位新神器LocAgent来了</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-11</link>
       <description>&lt;![CDATA[准确率92.7%逼近Claude 3.5、成本降低86%，开源代码定位新神器LocAgent来了]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 21:25:47 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 21:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-11</guid>
       <category>AI</category>
     </item>
@@ -33,7 +529,7 @@
       <title>华为盘古首次露出，昇腾原生72B MoE架构，SuperCLUE千亿内模型并列国内第一</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-10</link>
       <description>&lt;![CDATA[华为盘古首次露出，昇腾原生72B MoE架构，SuperCLUE千亿内模型并列国内第一]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:33:20 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 16:33:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-10</guid>
       <category>AI</category>
     </item>
@@ -41,7 +537,7 @@
       <title>LLM加RL遭质疑：故意用错奖励，数学基准也显著提升，AI圈炸了</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-9</link>
       <description>&lt;![CDATA[LLM加RL遭质疑：故意用错奖励，数学基准也显著提升，AI圈炸了]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:28:08 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 16:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-9</guid>
       <category>AI</category>
     </item>
@@ -49,7 +545,7 @@
       <title>SIGGRAPH 2025 | CLR-Wire：曲线框可生成？可交互？深大VCC带你见证魔法</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-8</link>
       <description>&lt;![CDATA[SIGGRAPH 2025 | CLR-Wire：曲线框可生成？可交互？深大VCC带你见证魔法]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:20:25 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 16:20:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-8</guid>
       <category>AI</category>
     </item>
@@ -57,7 +553,7 @@
       <title>从视频生成到世界模型：CVPR 2025 重磅教程来了！</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-7</link>
       <description>&lt;![CDATA[从视频生成到世界模型：CVPR 2025 重磅教程来了！]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 15:35:01 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 15:35:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-7</guid>
       <category>AI</category>
     </item>
@@ -73,7 +569,7 @@
       <title>Nature子刊，湖大、电子科大、厦大等开发RareDDIE，精准攻克罕见药物互作预测难题</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-5</link>
       <description>&lt;![CDATA[Nature子刊，湖大、电子科大、厦大等开发RareDDIE，精准攻克罕见药物互作预测难题]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:07:13 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 14:07:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-5</guid>
       <category>AI</category>
     </item>
@@ -81,7 +577,7 @@
       <title>上海16区中学生组队预测绿能发电，全球1.6万人报名，第三届世界科学智能大赛培育新生代跨学科人才</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-4</link>
       <description>&lt;![CDATA[上海16区中学生组队预测绿能发电，全球1.6万人报名，第三届世界科学智能大赛培育新生代跨学科人才]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:06:03 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 14:06:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-4</guid>
       <category>AI</category>
     </item>
@@ -89,7 +585,7 @@
       <title>清华创业团队打造！国内首个专注AI推理Serverless GPU平台</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-3</link>
       <description>&lt;![CDATA[清华创业团队打造！国内首个专注AI推理Serverless GPU平台]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 13:14:13 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 13:14:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-3</guid>
       <category>AI</category>
     </item>
@@ -97,7 +593,7 @@
       <title>4万多名作者挤破头，CVPR 2025官方揭秘三大爆款主题， 你卷对方向了吗？</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28-2</link>
       <description>&lt;![CDATA[4万多名作者挤破头，CVPR 2025官方揭秘三大爆款主题， 你卷对方向了吗？]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 12:04:16 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 12:04:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-2</guid>
       <category>AI</category>
     </item>
@@ -105,7 +601,7 @@
       <title>首个面向柔性衣物灵巧操作的仿真平台来了，北大、伯克利联合发布</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-28</link>
       <description>&lt;![CDATA[首个面向柔性衣物灵巧操作的仿真平台来了，北大、伯克利联合发布]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 12:02:35 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 12:02:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28</guid>
       <category>AI</category>
     </item>
@@ -121,7 +617,7 @@
       <title>全靠Claude4！30年FAANG老工程师：AI帮我解决了4年老bug</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-14</link>
       <description>&lt;![CDATA[全靠Claude4！30年FAANG老工程师：AI帮我解决了4年老bug]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:23:42 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 18:23:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-14</guid>
       <category>AI</category>
     </item>
@@ -129,7 +625,7 @@
       <title>强化学习解决长上下文推理问题：通义推出QwenLong-L1-32B</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-13</link>
       <description>&lt;![CDATA[强化学习解决长上下文推理问题：通义推出QwenLong-L1-32B]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:20:23 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 18:20:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-13</guid>
       <category>AI</category>
     </item>
@@ -137,7 +633,7 @@
       <title>开源模型竟被用于窃取下游微调数据？清华团队揭秘开源微调范式新型隐藏安全风险</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-12</link>
       <description>&lt;![CDATA[开源模型竟被用于窃取下游微调数据？清华团队揭秘开源微调范式新型隐藏安全风险]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 18:11:32 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 18:11:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-12</guid>
       <category>AI</category>
     </item>
@@ -145,7 +641,7 @@
       <title>全日程公布｜谷歌Veo 3惊艳发布后，这场CVPR分享会值得每个AI人「听个声」</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-11</link>
       <description>&lt;![CDATA[全日程公布｜谷歌Veo 3惊艳发布后，这场CVPR分享会值得每个AI人「听个声」]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 15:36:07 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 15:36:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-11</guid>
       <category>AI</category>
     </item>
@@ -153,7 +649,7 @@
       <title>ETT：打破原生多模态学习视觉瓶颈，重塑视觉tokenizer优化范式</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-10</link>
       <description>&lt;![CDATA[ETT：打破原生多模态学习视觉瓶颈，重塑视觉tokenizer优化范式]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 15:25:39 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 15:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-10</guid>
       <category>AI</category>
     </item>
@@ -161,7 +657,7 @@
       <title>夸克发布行业首个“高考深度搜索”，一句话生成志愿填报方案</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-9</link>
       <description>&lt;![CDATA[夸克发布行业首个“高考深度搜索”，一句话生成志愿填报方案]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 14:50:17 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 14:50:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-9</guid>
       <category>AI</category>
     </item>
@@ -169,95 +665,415 @@
       <title>稳健、经济、高度可定制化，自动化高通量电化学表征平台AHTech来了</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-27-8</link>
       <description>&lt;![CDATA[稳健、经济、高度可定制化，自动化高通量电化学表征平台AHTech来了]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 14:08:22 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 14:08:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-27-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首个视觉RL统一框架！推理感知两手抓，性能横扫MEGA-Bench</title>
-      <link>https://www.qbitai.com/2025/05/288945.html</link>
-      <description>&lt;![CDATA[首个视觉RL统一框架！推理感知两手抓，性能横扫MEGA-Bench]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:30:45 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288945.html</guid>
+      <title>Rationale engineering generates a compact new tool for gene therapy</title>
+      <link>https://news.mit.edu/2025/rationale-engineering-generates-compact-new-tool-gene-therapy-0528</link>
+      <description>&lt;![CDATA[Rationale engineering generates a compact new tool for gene therapy]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/rationale-engineering-generates-compact-new-tool-gene-therapy-0528</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开源AI开发生态大洗牌：低代码平台逆袭，传统LLM框架日渐式微</title>
-      <link>https://www.qbitai.com/2025/05/288934.html</link>
-      <description>&lt;![CDATA[开源AI开发生态大洗牌：低代码平台逆袭，传统LLM框架日渐式微]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 10:12:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288934.html</guid>
+      <title>An anomaly detection framework anyone can use</title>
+      <link>https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528</link>
+      <description>&lt;![CDATA[An anomaly detection framework anyone can use]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>危机影响小米业绩了吗？Ultra锁单2万3千辆，“SU7目前没有对手”</title>
-      <link>https://www.qbitai.com/2025/05/288825.html</link>
-      <description>&lt;![CDATA[危机影响小米业绩了吗？Ultra锁单2万3千辆，“SU7目前没有对手”]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 09:19:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288825.html</guid>
+      <title>Building networks of data science talent</title>
+      <link>https://news.mit.edu/2025/building-networks-data-science-talent-0527</link>
+      <description>&lt;![CDATA[Building networks of data science talent]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/building-networks-data-science-talent-0527</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>值得买科技发布海纳MCP Server：打造智能体时代的AI基础建设</title>
-      <link>https://www.qbitai.com/2025/05/288833.html</link>
-      <description>&lt;![CDATA[值得买科技发布海纳MCP Server：打造智能体时代的AI基础建设]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 09:12:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288833.html</guid>
+      <title>MIT announces the Initiative for New Manufacturing</title>
+      <link>https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</link>
+      <description>&lt;![CDATA[MIT announces the Initiative for New Manufacturing]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>迷惑！豪华品牌裁员3000人，卖不动还敢逆势涨价</title>
-      <link>https://www.qbitai.com/2025/05/288826.html</link>
-      <description>&lt;![CDATA[迷惑！豪华品牌裁员3000人，卖不动还敢逆势涨价]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 09:10:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288826.html</guid>
+      <title>AI learns how vision and sound are connected, without human intervention</title>
+      <link>https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522</link>
+      <description>&lt;![CDATA[AI learns how vision and sound are connected, without human intervention]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里通义发布并行计算新策略：1.6B等效4.4B，内存消耗骤降95%</title>
-      <link>https://www.qbitai.com/2025/05/288760.html</link>
-      <description>&lt;![CDATA[阿里通义发布并行计算新策略：1.6B等效4.4B，内存消耗骤降95%]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 07:10:29 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288760.html</guid>
+      <title>Learning how to predict rare kinds of failures</title>
+      <link>https://news.mit.edu/2025/learning-how-predict-rare-kinds-failures-0521</link>
+      <description>&lt;![CDATA[Learning how to predict rare kinds of failures]]&gt;</description>
+      <pubDate>Wed, 21 May 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/learning-how-predict-rare-kinds-failures-0521</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Claude 4破解困扰人类4年系统bug，30年码龄程序员200小时没搞定，GPT-4.1/Gemini-2.5也做不到</title>
-      <link>https://www.qbitai.com/2025/05/288761.html</link>
-      <description>&lt;![CDATA[Claude 4破解困扰人类4年系统bug，30年码龄程序员200小时没搞定，GPT-4.1/Gemini-2.5也做不到]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 06:53:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288761.html</guid>
+      <title>The sweet taste of a new idea</title>
+      <link>https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519</link>
+      <description>&lt;![CDATA[The sweet taste of a new idea]]&gt;</description>
+      <pubDate>Mon, 19 May 2025 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型玩不好数独？！Transformer作者初创公司公布排行榜：o3 Mini High“变异数独”正确率仅2.9%</title>
-      <link>https://www.qbitai.com/2025/05/288743.html</link>
-      <description>&lt;![CDATA[大模型玩不好数独？！Transformer作者初创公司公布排行榜：o3 Mini High“变异数独”正确率仅2.9%]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 05:50:30 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288743.html</guid>
+      <title>With AI, researchers predict the location of virtually any protein within a human cell</title>
+      <link>https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515</link>
+      <description>&lt;![CDATA[With AI, researchers predict the location of virtually any protein within a human cell]]&gt;</description>
+      <pubDate>Thu, 15 May 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>地瓜机器人完成1亿美元融资，超10家资本「集体抢滩」具身智能Infra赛道</title>
-      <link>https://www.qbitai.com/2025/05/288738.html</link>
-      <description>&lt;![CDATA[地瓜机器人完成1亿美元融资，超10家资本「集体抢滩」具身智能Infra赛道]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 04:46:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288738.html</guid>
+      <title>Study shows vision-language models can’t handle queries with negation words</title>
+      <link>https://news.mit.edu/2025/study-shows-vision-language-models-cant-handle-negation-words-queries-0514</link>
+      <description>&lt;![CDATA[Study shows vision-language models can’t handle queries with negation words]]&gt;</description>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/study-shows-vision-language-models-cant-handle-negation-words-queries-0514</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多模态大模型不会画辅助线？最新评估得分：o3仅25.8%，远低于人类82.3% | 清华腾讯斯坦福联合</title>
-      <link>https://www.qbitai.com/2025/05/288716.html</link>
-      <description>&lt;![CDATA[多模态大模型不会画辅助线？最新评估得分：o3仅25.8%，远低于人类82.3% | 清华腾讯斯坦福联合]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 04:38:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/05/288716.html</guid>
+      <title>MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work</title>
+      <link>https://news.mit.edu/2025/mit-economics-department-launches-james-cathleen-stone-center-inequality-shaping-future-work-0513</link>
+      <description>&lt;![CDATA[MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work]]&gt;</description>
+      <pubDate>Tue, 13 May 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-economics-department-launches-james-cathleen-stone-center-inequality-shaping-future-work-0513</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Hybrid AI model crafts smooth, high-quality videos in seconds</title>
+      <link>https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</link>
+      <description>&lt;![CDATA[Hybrid AI model crafts smooth, high-quality videos in seconds]]&gt;</description>
+      <pubDate>Tue, 06 May 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation</title>
+      <link>https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</link>
+      <description>&lt;![CDATA[Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation]]&gt;</description>
+      <pubDate>Mon, 05 May 2025 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>New tool evaluates progress in reinforcement learning</title>
+      <link>https://news.mit.edu/2025/new-tool-evaluate-progress-reinforcement-learning-0505</link>
+      <description>&lt;![CDATA[New tool evaluates progress in reinforcement learning]]&gt;</description>
+      <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-tool-evaluate-progress-reinforcement-learning-0505</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Novel AI model inspired by neural dynamics from the brain</title>
+      <link>https://news.mit.edu/2025/novel-ai-model-inspired-neural-dynamics-from-brain-0502</link>
+      <description>&lt;![CDATA[Novel AI model inspired by neural dynamics from the brain]]&gt;</description>
+      <pubDate>Fri, 02 May 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/novel-ai-model-inspired-neural-dynamics-from-brain-0502</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Making AI models more trustworthy for high-stakes settings</title>
+      <link>https://news.mit.edu/2025/making-ai-models-more-trustworthy-high-stakes-settings-0501</link>
+      <description>&lt;![CDATA[Making AI models more trustworthy for high-stakes settings]]&gt;</description>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/making-ai-models-more-trustworthy-high-stakes-settings-0501</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The MIT-Portugal Program enters Phase 4</title>
+      <link>https://news.mit.edu/2025/mit-portugal-program-enters-phase-4-0430</link>
+      <description>&lt;![CDATA[The MIT-Portugal Program enters Phase 4]]&gt;</description>
+      <pubDate>Wed, 30 Apr 2025 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-portugal-program-enters-phase-4-0430</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Merging design and computer science in creative ways</title>
+      <link>https://news.mit.edu/2025/alexander-htet-kyaw-merging-design-computer-science-in-creative-ways-0428</link>
+      <description>&lt;![CDATA[Merging design and computer science in creative ways]]&gt;</description>
+      <pubDate>Mon, 28 Apr 2025 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/alexander-htet-kyaw-merging-design-computer-science-in-creative-ways-0428</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Novel method detects microbial contamination in cell cultures</title>
+      <link>https://news.mit.edu/2025/novel-method-detects-microbial-contamination-smart-0425</link>
+      <description>&lt;![CDATA[Novel method detects microbial contamination in cell cultures]]&gt;</description>
+      <pubDate>Fri, 25 Apr 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/novel-method-detects-microbial-contamination-smart-0425</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Artificial intelligence enhances air mobility planning</title>
+      <link>https://news.mit.edu/2025/artificial-intelligence-enhances-air-mobility-planning-0425</link>
+      <description>&lt;![CDATA[Artificial intelligence enhances air mobility planning]]&gt;</description>
+      <pubDate>Fri, 25 Apr 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/artificial-intelligence-enhances-air-mobility-planning-0425</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Designing a new way to optimize complex coordinated systems</title>
+      <link>https://news.mit.edu/2025/designing-new-way-optimize-complex-coordinated-systems-0424</link>
+      <description>&lt;![CDATA[Designing a new way to optimize complex coordinated systems]]&gt;</description>
+      <pubDate>Thu, 24 Apr 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/designing-new-way-optimize-complex-coordinated-systems-0424</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>New model predicts a chemical reaction’s point of no return</title>
+      <link>https://news.mit.edu/2025/new-model-predicts-chemical-reactions-no-return-point-0423</link>
+      <description>&lt;![CDATA[New model predicts a chemical reaction’s point of no return]]&gt;</description>
+      <pubDate>Wed, 23 Apr 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-model-predicts-chemical-reactions-no-return-point-0423</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>“Periodic table of machine learning” could fuel AI discovery</title>
+      <link>https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423</link>
+      <description>&lt;![CDATA[“Periodic table of machine learning” could fuel AI discovery]]&gt;</description>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>3D modeling you can feel</title>
+      <link>https://news.mit.edu/2025/3d-modeling-you-can-feel-0422</link>
+      <description>&lt;![CDATA[3D modeling you can feel]]&gt;</description>
+      <pubDate>Tue, 22 Apr 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/3d-modeling-you-can-feel-0422</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Norma Kamali is transforming the future of fashion with AI</title>
+      <link>https://news.mit.edu/2025/norma-kamali-transforming-future-fashion-ai-0422</link>
+      <description>&lt;![CDATA[Norma Kamali is transforming the future of fashion with AI]]&gt;</description>
+      <pubDate>Tue, 22 Apr 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/norma-kamali-transforming-future-fashion-ai-0422</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT’s McGovern Institute is shaping brain science and improving human lives on a global scale</title>
+      <link>https://news.mit.edu/2025/mit-mcgovern-institute-shaping-brain-science-improving-human-lives-0418</link>
+      <description>&lt;![CDATA[MIT’s McGovern Institute is shaping brain science and improving human lives on a global scale]]&gt;</description>
+      <pubDate>Fri, 18 Apr 2025 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-mcgovern-institute-shaping-brain-science-improving-human-lives-0418</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Making AI-generated code more accurate in any language</title>
+      <link>https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418</link>
+      <description>&lt;![CDATA[Making AI-generated code more accurate in any language]]&gt;</description>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A faster way to solve complex planning problems</title>
+      <link>https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416</link>
+      <description>&lt;![CDATA[A faster way to solve complex planning problems]]&gt;</description>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Training LLMs to self-detoxify their language</title>
+      <link>https://news.mit.edu/2025/training-llms-self-detoxify-their-language-0414</link>
+      <description>&lt;![CDATA[Training LLMs to self-detoxify their language]]&gt;</description>
+      <pubDate>Mon, 14 Apr 2025 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/training-llms-self-detoxify-their-language-0414</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>New method efficiently safeguards sensitive AI training data</title>
+      <link>https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411</link>
+      <description>&lt;![CDATA[New method efficiently safeguards sensitive AI training data]]&gt;</description>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Could LLMs help design our next medicines and materials?</title>
+      <link>https://news.mit.edu/2025/could-llms-help-design-our-next-medicines-and-materials-0409</link>
+      <description>&lt;![CDATA[Could LLMs help design our next medicines and materials?]]&gt;</description>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/could-llms-help-design-our-next-medicines-and-materials-0409</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>New method assesses and improves the reliability of radiologists’ diagnostic reports</title>
+      <link>https://news.mit.edu/2025/new-method-assesses-and-improves-reliability-radiologists-diagnostic-reports-0404</link>
+      <description>&lt;![CDATA[New method assesses and improves the reliability of radiologists’ diagnostic reports]]&gt;</description>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-method-assesses-and-improves-reliability-radiologists-diagnostic-reports-0404</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Taking the “training wheels” off clean energy</title>
+      <link>https://news.mit.edu/2025/taking-training-wheels-off-clean-energy-0402</link>
+      <description>&lt;![CDATA[Taking the “training wheels” off clean energy]]&gt;</description>
+      <pubDate>Thu, 03 Apr 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/taking-training-wheels-off-clean-energy-0402</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Vana is letting users own a piece of the AI models trained on their data</title>
+      <link>https://news.mit.edu/2025/vana-lets-users-own-piece-ai-models-trained-on-their-data-0403</link>
+      <description>&lt;![CDATA[Vana is letting users own a piece of the AI models trained on their data]]&gt;</description>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/vana-lets-users-own-piece-ai-models-trained-on-their-data-0403</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Researchers teach LLMs to solve complex planning challenges</title>
+      <link>https://news.mit.edu/2025/researchers-teach-llms-to-solve-complex-planning-challenges-0402</link>
+      <description>&lt;![CDATA[Researchers teach LLMs to solve complex planning challenges]]&gt;</description>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-teach-llms-to-solve-complex-planning-challenges-0402</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Pattie Maes receives ACM SIGCHI Lifetime Research Award</title>
+      <link>https://news.mit.edu/2025/pattie-maes-acm-sigchi-lifetime-research-award-0331</link>
+      <description>&lt;![CDATA[Pattie Maes receives ACM SIGCHI Lifetime Research Award]]&gt;</description>
+      <pubDate>Mon, 31 Mar 2025 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/pattie-maes-acm-sigchi-lifetime-research-award-0331</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>For this computer scientist, MIT Open Learning was the start of a life-changing journey</title>
+      <link>https://news.mit.edu/2025/mit-open-learning-resources-life-changing-journey-0330</link>
+      <description>&lt;![CDATA[For this computer scientist, MIT Open Learning was the start of a life-changing journey]]&gt;</description>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-open-learning-resources-life-changing-journey-0330</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Making higher education more accessible to students in Pakistan</title>
+      <link>https://news.mit.edu/2025/edufi-makes-higher-education-more-accessible-students-pakistan-0327</link>
+      <description>&lt;![CDATA[Making higher education more accessible to students in Pakistan]]&gt;</description>
+      <pubDate>Thu, 27 Mar 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/edufi-makes-higher-education-more-accessible-students-pakistan-0327</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT Maritime Consortium sets sail</title>
+      <link>https://news.mit.edu/2025/mit-maritime-consortium-sets-sail-0326</link>
+      <description>&lt;![CDATA[MIT Maritime Consortium sets sail]]&gt;</description>
+      <pubDate>Wed, 26 Mar 2025 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-maritime-consortium-sets-sail-0326</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI tool generates high-quality images faster than state-of-the-art approaches</title>
+      <link>https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321</link>
+      <description>&lt;![CDATA[AI tool generates high-quality images faster than state-of-the-art approaches]]&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>At the core of problem-solving</title>
+      <link>https://news.mit.edu/2025/core-problem-solving-stuart-levine-0319</link>
+      <description>&lt;![CDATA[At the core of problem-solving]]&gt;</description>
+      <pubDate>Wed, 19 Mar 2025 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/core-problem-solving-stuart-levine-0319</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>“An AI future that honors dignity for everyone”</title>
+      <link>https://news.mit.edu/2025/ai-future-honors-dignity-compton-lecture-0318</link>
+      <description>&lt;![CDATA[“An AI future that honors dignity for everyone”]]&gt;</description>
+      <pubDate>Tue, 18 Mar 2025 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-future-honors-dignity-compton-lecture-0318</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Making airfield assessments automatic, remote, and safe</title>
+      <link>https://news.mit.edu/2025/randall-pietersen-making-airfield-assessments-automatic-remote-safe-0313</link>
+      <description>&lt;![CDATA[Making airfield assessments automatic, remote, and safe]]&gt;</description>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/randall-pietersen-making-airfield-assessments-automatic-remote-safe-0313</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Robotic helper making mistakes? Just nudge it in the right direction</title>
+      <link>https://news.mit.edu/2025/robotic-helper-mistakes-nudging-in-right-direction-0307</link>
+      <description>&lt;![CDATA[Robotic helper making mistakes? Just nudge it in the right direction]]&gt;</description>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/robotic-helper-mistakes-nudging-in-right-direction-0307</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>3 Questions: Visualizing research in the age of AI</title>
+      <link>https://news.mit.edu/2025/3-questions-visualizing-research-age-ai-0306</link>
+      <description>&lt;![CDATA[3 Questions: Visualizing research in the age of AI]]&gt;</description>
+      <pubDate>Thu, 06 Mar 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/3-questions-visualizing-research-age-ai-0306</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Markus Buehler receives 2025 Washington Award</title>
+      <link>https://news.mit.edu/2025/markus-buehler-receives-washington-award-0303</link>
+      <description>&lt;![CDATA[Markus Buehler receives 2025 Washington Award]]&gt;</description>
+      <pubDate>Mon, 03 Mar 2025 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/markus-buehler-receives-washington-award-0303</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Collaborating to advance research and innovation on essential chips for AI</title>
+      <link>https://news.mit.edu/2025/mit-globalfoundries-collaborate-advance-research-innovation-essential-chips-for-ai-0228</link>
+      <description>&lt;![CDATA[Collaborating to advance research and innovation on essential chips for AI]]&gt;</description>
+      <pubDate>Fri, 28 Feb 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-globalfoundries-collaborate-advance-research-innovation-essential-chips-for-ai-0228</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>An ancient RNA-guided system could simplify delivery of gene editing therapies</title>
+      <link>https://news.mit.edu/2025/ancient-rna-guided-system-could-simplify-delivery-gene-editing-therapies-0227</link>
+      <description>&lt;![CDATA[An ancient RNA-guided system could simplify delivery of gene editing therapies]]&gt;</description>
+      <pubDate>Thu, 27 Feb 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ancient-rna-guided-system-could-simplify-delivery-gene-editing-therapies-0227</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI system predicts protein fragments that can bind to or inhibit a target</title>
+      <link>https://news.mit.edu/2025/ai-system-fragfold-predicts-protein-fragments-0220</link>
+      <description>&lt;![CDATA[AI system predicts protein fragments that can bind to or inhibit a target]]&gt;</description>
+      <pubDate>Thu, 20 Feb 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-system-fragfold-predicts-protein-fragments-0220</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Like human brains, large language models reason about diverse data in a general way</title>
+      <link>https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219</link>
+      <description>&lt;![CDATA[Like human brains, large language models reason about diverse data in a general way]]&gt;</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT spinout maps the body’s metabolites to uncover the hidden drivers of disease</title>
+      <link>https://news.mit.edu/2025/mit-spinout-maps-body-metabolites-uncovering-hidden-disease-drivers-0219</link>
+      <description>&lt;![CDATA[MIT spinout maps the body’s metabolites to uncover the hidden drivers of disease]]&gt;</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-spinout-maps-body-metabolites-uncovering-hidden-disease-drivers-0219</guid>
       <category>AI</category>
     </item>
     <item>
       <title>The AI Hype Index: College students are hooked on ChatGPT</title>
       <link>https://www.technologyreview.com/2025/05/28/1117468/ai-hype-index-college-students-chatgpt-meta-apple-anthropic-grok/</link>
       <description>&lt;![CDATA[The AI Hype Index: College students are hooked on ChatGPT]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:13:29 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 14:13:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.technologyreview.com/2025/05/28/1117468/ai-hype-index-college-students-chatgpt-meta-apple-anthropic-grok/</guid>
       <category>AI</category>
     </item>
@@ -273,7 +1089,7 @@
       <title>OpenAI: The power and the pride</title>
       <link>https://www.technologyreview.com/2025/05/28/1117486/openai-the-power-and-the-pride/</link>
       <description>&lt;![CDATA[OpenAI: The power and the pride]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 10:07:09 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 10:07:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.technologyreview.com/2025/05/28/1117486/openai-the-power-and-the-pride/</guid>
       <category>AI</category>
     </item>
@@ -734,410 +1550,18 @@
       <category>AI</category>
     </item>
     <item>
-      <title>Towards a unified model for predicting human responses to diverse visual content</title>
-      <link>https://research.google/blog/towards-a-unified-model-for-predicting-human-responses-to-diverse-visual-content/</link>
-      <description>&lt;![CDATA[Towards a unified model for predicting human responses to diverse visual content]]&gt;</description>
-      <pubDate>Tue, 12 Nov 2024 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/towards-a-unified-model-for-predicting-human-responses-to-diverse-visual-content/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Generating zero-shot personalized portraits</title>
-      <link>https://research.google/blog/generating-zero-shot-personalized-portraits/</link>
-      <description>&lt;![CDATA[Generating zero-shot personalized portraits]]&gt;</description>
-      <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/generating-zero-shot-personalized-portraits/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An improved flood forecasting AI model, trained and evaluated globally</title>
-      <link>https://research.google/blog/a-flood-forecasting-ai-model-trained-and-evaluated-globally/</link>
-      <description>&lt;![CDATA[An improved flood forecasting AI model, trained and evaluated globally]]&gt;</description>
-      <pubDate>Mon, 11 Nov 2024 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-flood-forecasting-ai-model-trained-and-evaluated-globally/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Relationships are complicated! An analysis of relationships between datasets on the Web</title>
-      <link>https://research.google/blog/relationships-are-complicated-an-analysis-of-relationships-between-datasets-on-the-web/</link>
-      <description>&lt;![CDATA[Relationships are complicated! An analysis of relationships between datasets on the Web]]&gt;</description>
-      <pubDate>Thu, 07 Nov 2024 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/relationships-are-complicated-an-analysis-of-relationships-between-datasets-on-the-web/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A return to hand-written notes by learning to read &amp; write</title>
-      <link>https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/</link>
-      <description>&lt;![CDATA[A return to hand-written notes by learning to read &amp; write]]&gt;</description>
-      <pubDate>Mon, 28 Oct 2024 20:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>What does electrodermal sensing reveal? Insights from the Pixel Watch &amp; Fitbit Sense 2</title>
-      <link>https://research.google/blog/what-does-electrodermal-sensing-reveal-insights-from-the-pixel-watch-fitbit-sense-2/</link>
-      <description>&lt;![CDATA[What does electrodermal sensing reveal? Insights from the Pixel Watch &amp; Fitbit Sense 2]]&gt;</description>
-      <pubDate>Thu, 24 Oct 2024 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/what-does-electrodermal-sensing-reveal-insights-from-the-pixel-watch-fitbit-sense-2/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Scalable self-improvement for compiler optimization</title>
-      <link>https://research.google/blog/scalable-self-improvement-for-compiler-optimization/</link>
-      <description>&lt;![CDATA[Scalable self-improvement for compiler optimization]]&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/scalable-self-improvement-for-compiler-optimization/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning DeepVariant's hidden powers</title>
-      <link>https://research.google/blog/learning-deepvariants-hidden-powers/</link>
-      <description>&lt;![CDATA[Learning DeepVariant's hidden powers]]&gt;</description>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/learning-deepvariants-hidden-powers/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Taking medical imaging embeddings 3D</title>
-      <link>https://research.google/blog/taking-medical-imaging-embeddings-3d/</link>
-      <description>&lt;![CDATA[Taking medical imaging embeddings 3D]]&gt;</description>
-      <pubDate>Mon, 21 Oct 2024 15:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/taking-medical-imaging-embeddings-3d/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluating and enhancing probabilistic reasoning in language models</title>
-      <link>https://research.google/blog/evaluating-and-enhancing-probabilistic-reasoning-in-language-models/</link>
-      <description>&lt;![CDATA[Evaluating and enhancing probabilistic reasoning in language models]]&gt;</description>
-      <pubDate>Mon, 21 Oct 2024 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/evaluating-and-enhancing-probabilistic-reasoning-in-language-models/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HDR photo editing with machine learning</title>
-      <link>https://research.google/blog/hdr-photo-editing-with-machine-learning/</link>
-      <description>&lt;![CDATA[HDR photo editing with machine learning]]&gt;</description>
-      <pubDate>Wed, 16 Oct 2024 11:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/hdr-photo-editing-with-machine-learning/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Validating random circuit sampling as a benchmark for measuring quantum progress</title>
-      <link>https://research.google/blog/validating-random-circuit-sampling-as-a-benchmark-for-measuring-quantum-progress/</link>
-      <description>&lt;![CDATA[Validating random circuit sampling as a benchmark for measuring quantum progress]]&gt;</description>
-      <pubDate>Thu, 10 Oct 2024 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/validating-random-circuit-sampling-as-a-benchmark-for-measuring-quantum-progress/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Tx-LLM: Supporting therapeutic development with large language models</title>
-      <link>https://research.google/blog/tx-llm-supporting-therapeutic-development-with-large-language-models/</link>
-      <description>&lt;![CDATA[Tx-LLM: Supporting therapeutic development with large language models]]&gt;</description>
-      <pubDate>Wed, 09 Oct 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/tx-llm-supporting-therapeutic-development-with-large-language-models/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Augmented object intelligence with XR-Objects</title>
-      <link>https://research.google/blog/augmented-object-intelligence-with-xr-objects/</link>
-      <description>&lt;![CDATA[Augmented object intelligence with XR-Objects]]&gt;</description>
-      <pubDate>Tue, 01 Oct 2024 23:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/augmented-object-intelligence-with-xr-objects/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Predicting fetal well-being from cardiotocography signals using AI</title>
-      <link>https://research.google/blog/predicting-fetal-well-being-from-cardiotocography-signals-using-ai/</link>
-      <description>&lt;![CDATA[Predicting fetal well-being from cardiotocography signals using AI]]&gt;</description>
-      <pubDate>Fri, 27 Sep 2024 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/predicting-fetal-well-being-from-cardiotocography-signals-using-ai/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Scaling up linear programming with PDLP</title>
-      <link>https://research.google/blog/scaling-up-linear-programming-with-pdlp/</link>
-      <description>&lt;![CDATA[Scaling up linear programming with PDLP]]&gt;</description>
-      <pubDate>Fri, 20 Sep 2024 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/scaling-up-linear-programming-with-pdlp/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Open Buildings 2.5D Temporal dataset tracks building changes across the Global South</title>
-      <link>https://research.google/blog/open-buildings-25d-temporal-dataset-tracks-building-changes-across-the-global-south/</link>
-      <description>&lt;![CDATA[Open Buildings 2.5D Temporal dataset tracks building changes across the Global South]]&gt;</description>
-      <pubDate>Thu, 19 Sep 2024 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/open-buildings-25d-temporal-dataset-tracks-building-changes-across-the-global-south/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Whistles, songs, boings, and biotwangs: Recognizing whale vocalizations with AI</title>
-      <link>https://research.google/blog/whistles-songs-boings-and-biotwangs-recognizing-whale-vocalizations-with-ai/</link>
-      <description>&lt;![CDATA[Whistles, songs, boings, and biotwangs: Recognizing whale vocalizations with AI]]&gt;</description>
-      <pubDate>Wed, 18 Sep 2024 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/whistles-songs-boings-and-biotwangs-recognizing-whale-vocalizations-with-ai/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Neptune: The long orbit to benchmarking long video understanding</title>
-      <link>https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/</link>
-      <description>&lt;![CDATA[Neptune: The long orbit to benchmarking long video understanding]]&gt;</description>
-      <pubDate>Mon, 16 Sep 2024 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Grounding AI in reality with a little help from Data Commons</title>
-      <link>https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/</link>
-      <description>&lt;![CDATA[Grounding AI in reality with a little help from Data Commons]]&gt;</description>
-      <pubDate>Thu, 12 Sep 2024 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Unlocking 7B+ language models in your browser: A deep dive with Google AI Edge's MediaPipe</title>
-      <link>https://research.google/blog/unlocking-7b-language-models-in-your-browser-a-deep-dive-with-google-ai-edges-mediapipe/</link>
-      <description>&lt;![CDATA[Unlocking 7B+ language models in your browser: A deep dive with Google AI Edge's MediaPipe]]&gt;</description>
-      <pubDate>Thu, 22 Aug 2024 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/unlocking-7b-language-models-in-your-browser-a-deep-dive-with-google-ai-edges-mediapipe/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Restoring speaker voices with zero-shot cross-lingual voice transfer for TTS</title>
-      <link>https://research.google/blog/restoring-speaker-voices-with-zero-shot-cross-lingual-voice-transfer-for-tts/</link>
-      <description>&lt;![CDATA[Restoring speaker voices with zero-shot cross-lingual voice transfer for TTS]]&gt;</description>
-      <pubDate>Wed, 21 Aug 2024 22:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/restoring-speaker-voices-with-zero-shot-cross-lingual-voice-transfer-for-tts/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Speculative RAG: Enhancing retrieval augmented generation through drafting</title>
-      <link>https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/</link>
-      <description>&lt;![CDATA[Speculative RAG: Enhancing retrieval augmented generation through drafting]]&gt;</description>
-      <pubDate>Wed, 21 Aug 2024 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Transformers in music recommendation</title>
-      <link>https://research.google/blog/transformers-in-music-recommendation/</link>
-      <description>&lt;![CDATA[Transformers in music recommendation]]&gt;</description>
-      <pubDate>Fri, 16 Aug 2024 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/transformers-in-music-recommendation/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HALVA: Hallucination Attenuated Language and Vision Assistant</title>
-      <link>https://research.google/blog/halva-hallucination-attenuated-language-and-vision-assistant/</link>
-      <description>&lt;![CDATA[HALVA: Hallucination Attenuated Language and Vision Assistant]]&gt;</description>
-      <pubDate>Fri, 09 Aug 2024 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/halva-hallucination-attenuated-language-and-vision-assistant/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Smoothly editing material properties of objects with text-to-image models and synthetic data</title>
-      <link>https://research.google/blog/smoothly-editing-material-properties-of-objects-with-text-to-image-models-and-synthetic-data/</link>
-      <description>&lt;![CDATA[Smoothly editing material properties of objects with text-to-image models and synthetic data]]&gt;</description>
-      <pubDate>Fri, 26 Jul 2024 19:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/smoothly-editing-material-properties-of-objects-with-text-to-image-models-and-synthetic-data/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A step towards making heart health screening accessible for billions with PPG signals</title>
-      <link>https://research.google/blog/a-step-towards-making-heart-health-screening-accessible-for-billions-with-ppg-signals/</link>
-      <description>&lt;![CDATA[A step towards making heart health screening accessible for billions with PPG signals]]&gt;</description>
-      <pubDate>Thu, 25 Jul 2024 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-step-towards-making-heart-health-screening-accessible-for-billions-with-ppg-signals/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fast, accurate climate modeling with NeuralGCM</title>
-      <link>https://research.google/blog/fast-accurate-climate-modeling-with-neuralgcm/</link>
-      <description>&lt;![CDATA[Fast, accurate climate modeling with NeuralGCM]]&gt;</description>
-      <pubDate>Mon, 22 Jul 2024 19:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/fast-accurate-climate-modeling-with-neuralgcm/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Harnessing hidden genetic information in clinical data with REGLE</title>
-      <link>https://research.google/blog/harnessing-hidden-genetic-information-in-clinical-data-with-regle/</link>
-      <description>&lt;![CDATA[Harnessing hidden genetic information in clinical data with REGLE]]&gt;</description>
-      <pubDate>Thu, 18 Jul 2024 16:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/harnessing-hidden-genetic-information-in-clinical-data-with-regle/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Accelerating code migrations with AI</title>
-      <link>https://research.google/blog/accelerating-code-migrations-with-ai/</link>
-      <description>&lt;![CDATA[Accelerating code migrations with AI]]&gt;</description>
-      <pubDate>Thu, 18 Jul 2024 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/accelerating-code-migrations-with-ai/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FireBench: Using high-performance computing to advance machine learning and wildfire research</title>
-      <link>https://research.google/blog/firebench-using-high-performance-computing-to-advance-machine-learning-and-wildfire-research/</link>
-      <description>&lt;![CDATA[FireBench: Using high-performance computing to advance machine learning and wildfire research]]&gt;</description>
-      <pubDate>Tue, 16 Jul 2024 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/firebench-using-high-performance-computing-to-advance-machine-learning-and-wildfire-research/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Assessing ASR performance with meaning preservation</title>
-      <link>https://research.google/blog/assessing-asr-performance-with-meaning-preservation/</link>
-      <description>&lt;![CDATA[Assessing ASR performance with meaning preservation]]&gt;</description>
-      <pubDate>Tue, 09 Jul 2024 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/assessing-asr-performance-with-meaning-preservation/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rich human feedback for text-to-image generation</title>
-      <link>https://research.google/blog/rich-human-feedback-for-text-to-image-generation/</link>
-      <description>&lt;![CDATA[Rich human feedback for text-to-image generation]]&gt;</description>
-      <pubDate>Wed, 26 Jun 2024 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/rich-human-feedback-for-text-to-image-generation/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Efficient data generation for source-grounded information-seeking dialogs: A use case for meeting transcripts</title>
-      <link>https://research.google/blog/efficient-data-generation-for-source-grounded-information-seeking-dialogs-a-use-case-for-meeting-transcripts/</link>
-      <description>&lt;![CDATA[Efficient data generation for source-grounded information-seeking dialogs: A use case for meeting transcripts]]&gt;</description>
-      <pubDate>Tue, 25 Jun 2024 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/efficient-data-generation-for-source-grounded-information-seeking-dialogs-a-use-case-for-meeting-transcripts/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Dynamics of magnetization at infinite temperature in a Heisenberg spin chain</title>
-      <link>https://research.google/blog/dynamics-of-magnetization-at-infinite-temperature-in-a-heisenberg-spin-chain/</link>
-      <description>&lt;![CDATA[Dynamics of magnetization at infinite temperature in a Heisenberg spin chain]]&gt;</description>
-      <pubDate>Tue, 18 Jun 2024 16:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/dynamics-of-magnetization-at-infinite-temperature-in-a-heisenberg-spin-chain/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Pre-translation vs. direct inference in multilingual LLM applications</title>
-      <link>https://research.google/blog/pre-translation-vs-direct-inference-in-multilingual-llm-applications/</link>
-      <description>&lt;![CDATA[Pre-translation vs. direct inference in multilingual LLM applications]]&gt;</description>
-      <pubDate>Fri, 14 Jun 2024 21:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/pre-translation-vs-direct-inference-in-multilingual-llm-applications/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Human I/O: Detecting situational impairments with large language models</title>
-      <link>https://research.google/blog/human-io-detecting-situational-impairments-with-large-language-models/</link>
-      <description>&lt;![CDATA[Human I/O: Detecting situational impairments with large language models]]&gt;</description>
-      <pubDate>Fri, 14 Jun 2024 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/human-io-detecting-situational-impairments-with-large-language-models/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Smart Paste for context-aware adjustments to pasted code</title>
-      <link>https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/</link>
-      <description>&lt;![CDATA[Smart Paste for context-aware adjustments to pasted code]]&gt;</description>
-      <pubDate>Wed, 12 Jun 2024 05:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Advancing personal health and wellness insights with AI</title>
-      <link>https://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/</link>
-      <description>&lt;![CDATA[Advancing personal health and wellness insights with AI]]&gt;</description>
-      <pubDate>Tue, 11 Jun 2024 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI in software engineering at Google: Progress and the path ahead</title>
-      <link>https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/</link>
-      <description>&lt;![CDATA[AI in software engineering at Google: Progress and the path ahead]]&gt;</description>
-      <pubDate>Thu, 06 Jun 2024 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Using generative AI to investigate medical imagery models and datasets</title>
-      <link>https://research.google/blog/using-generative-ai-to-investigate-medical-imagery-models-and-datasets/</link>
-      <description>&lt;![CDATA[Using generative AI to investigate medical imagery models and datasets]]&gt;</description>
-      <pubDate>Wed, 05 Jun 2024 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/using-generative-ai-to-investigate-medical-imagery-models-and-datasets/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Heuristics on the high seas: Mathematical optimization for cargo ships</title>
-      <link>https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/</link>
-      <description>&lt;![CDATA[Heuristics on the high seas: Mathematical optimization for cargo ships]]&gt;</description>
-      <pubDate>Tue, 04 Jun 2024 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Adversarial Nibbler Challenge: Continuous open red-teaming with diverse communities</title>
-      <link>https://research.google/blog/adversarial-nibbler-challenge-continuous-open-red-teaming-with-diverse-communities/</link>
-      <description>&lt;![CDATA[Adversarial Nibbler Challenge: Continuous open red-teaming with diverse communities]]&gt;</description>
-      <pubDate>Fri, 31 May 2024 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/adversarial-nibbler-challenge-continuous-open-red-teaming-with-diverse-communities/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CodecLM: Aligning language models with tailored synthetic data</title>
-      <link>https://research.google/blog/codeclm-aligning-language-models-with-tailored-synthetic-data/</link>
-      <description>&lt;![CDATA[CodecLM: Aligning language models with tailored synthetic data]]&gt;</description>
-      <pubDate>Thu, 30 May 2024 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/codeclm-aligning-language-models-with-tailored-synthetic-data/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Few-shot tool-use doesn’t really work (yet)</title>
-      <link>https://research.google/blog/few-shot-tool-use-doesnt-really-work-yet/</link>
-      <description>&lt;![CDATA[Few-shot tool-use doesn’t really work (yet)]]&gt;</description>
-      <pubDate>Thu, 30 May 2024 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/few-shot-tool-use-doesnt-really-work-yet/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ChatDirector: Enhancing video conferencing with space-aware scene rendering and speech-driven layout transition</title>
-      <link>https://research.google/blog/chatdirector-enhancing-video-conferencing-with-space-aware-scene-rendering-and-speech-driven-layout-transition/</link>
-      <description>&lt;![CDATA[ChatDirector: Enhancing video conferencing with space-aware scene rendering and speech-driven layout transition]]&gt;</description>
-      <pubDate>Wed, 29 May 2024 00:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/chatdirector-enhancing-video-conferencing-with-space-aware-scene-rendering-and-speech-driven-layout-transition/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>USER-LLM: Efficient LLM contextualization with user embeddings</title>
-      <link>https://research.google/blog/user-llm-efficient-llm-contextualization-with-user-embeddings/</link>
-      <description>&lt;![CDATA[USER-LLM: Efficient LLM contextualization with user embeddings]]&gt;</description>
-      <pubDate>Tue, 28 May 2024 17:11:48 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/user-llm-efficient-llm-contextualization-with-user-embeddings/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Effective large language model adaptation for improved grounding</title>
-      <link>https://research.google/blog/effective-large-language-model-adaptation-for-improved-grounding/</link>
-      <description>&lt;![CDATA[Effective large language model adaptation for improved grounding]]&gt;</description>
-      <pubDate>Fri, 24 May 2024 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/effective-large-language-model-adaptation-for-improved-grounding/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Google Research at Google I/O 2024</title>
-      <link>https://research.google/blog/google-research-at-google-io-2024/</link>
-      <description>&lt;![CDATA[Google Research at Google I/O 2024]]&gt;</description>
-      <pubDate>Fri, 24 May 2024 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/google-research-at-google-io-2024/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LANISTR: Multimodal learning from structured and unstructured data</title>
-      <link>https://research.google/blog/lanistr-multimodal-learning-from-structured-and-unstructured-data/</link>
-      <description>&lt;![CDATA[LANISTR: Multimodal learning from structured and unstructured data]]&gt;</description>
-      <pubDate>Wed, 22 May 2024 01:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/lanistr-multimodal-learning-from-structured-and-unstructured-data/</guid>
+      <title>5 Breakthrough Machine Learning Research Papers Already in 2025</title>
+      <link>https://machinelearningmastery.com/5-breakthrough-machine-learning-research-papers-already-in-2025/</link>
+      <description>&lt;![CDATA[5 Breakthrough Machine Learning Research Papers Already in 2025]]&gt;</description>
+      <pubDate>Tue, 20 May 2025 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/5-breakthrough-machine-learning-research-papers-already-in-2025/</guid>
       <category>AI</category>
     </item>
     <item>
       <title>A Gentle Introduction to Learning Rate Schedulers</title>
       <link>https://machinelearningmastery.com/a-gentle-introduction-to-learning-rate-schedulers/</link>
       <description>&lt;![CDATA[A Gentle Introduction to Learning Rate Schedulers]]&gt;</description>
-      <pubDate>Fri, 16 May 2025 13:58:14 GMT</pubDate>
+      <pubDate>Fri, 16 May 2025 13:58:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/a-gentle-introduction-to-learning-rate-schedulers/</guid>
       <category>AI</category>
     </item>
@@ -1145,7 +1569,7 @@
       <title>Custom Fine-Tuning for Domain-Specific LLMs</title>
       <link>https://machinelearningmastery.com/custom-fine-tuning-for-domain-specific-llms/</link>
       <description>&lt;![CDATA[Custom Fine-Tuning for Domain-Specific LLMs]]&gt;</description>
-      <pubDate>Wed, 14 May 2025 12:00:23 GMT</pubDate>
+      <pubDate>Wed, 14 May 2025 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/custom-fine-tuning-for-domain-specific-llms/</guid>
       <category>AI</category>
     </item>
@@ -1153,7 +1577,7 @@
       <title>Roadmap to Python in 2025</title>
       <link>https://machinelearningmastery.com/roadmap-to-python-in-2025/</link>
       <description>&lt;![CDATA[Roadmap to Python in 2025]]&gt;</description>
-      <pubDate>Tue, 13 May 2025 13:54:36 GMT</pubDate>
+      <pubDate>Tue, 13 May 2025 13:54:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/roadmap-to-python-in-2025/</guid>
       <category>AI</category>
     </item>
@@ -1161,7 +1585,7 @@
       <title>How to Combine Pandas, NumPy, and Scikit-learn Seamlessly</title>
       <link>https://machinelearningmastery.com/how-to-combine-pandas-numpy-and-scikit-learn-seamlessly/</link>
       <description>&lt;![CDATA[How to Combine Pandas, NumPy, and Scikit-learn Seamlessly]]&gt;</description>
-      <pubDate>Mon, 12 May 2025 17:20:26 GMT</pubDate>
+      <pubDate>Mon, 12 May 2025 17:20:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/how-to-combine-pandas-numpy-and-scikit-learn-seamlessly/</guid>
       <category>AI</category>
     </item>
@@ -1169,7 +1593,7 @@
       <title>Creating a Qwen-Powered Lightweight Personal Assistant</title>
       <link>https://machinelearningmastery.com/creating-a-qwen-powered-lightweight-personal-assistant/</link>
       <description>&lt;![CDATA[Creating a Qwen-Powered Lightweight Personal Assistant]]&gt;</description>
-      <pubDate>Fri, 09 May 2025 12:00:45 GMT</pubDate>
+      <pubDate>Fri, 09 May 2025 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/creating-a-qwen-powered-lightweight-personal-assistant/</guid>
       <category>AI</category>
     </item>
@@ -1177,7 +1601,7 @@
       <title>Attention May Be All We Need… But Why?</title>
       <link>https://machinelearningmastery.com/attention-may-be-all-we-need-but-why/</link>
       <description>&lt;![CDATA[Attention May Be All We Need… But Why?]]&gt;</description>
-      <pubDate>Thu, 08 May 2025 13:58:35 GMT</pubDate>
+      <pubDate>Thu, 08 May 2025 13:58:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/attention-may-be-all-we-need-but-why/</guid>
       <category>AI</category>
     </item>
@@ -1185,7 +1609,7 @@
       <title>Creating a Secure Machine Learning API with FastAPI and Docker</title>
       <link>https://machinelearningmastery.com/creating-a-secure-machine-learning-api-with-fastapi-and-docker/</link>
       <description>&lt;![CDATA[Creating a Secure Machine Learning API with FastAPI and Docker]]&gt;</description>
-      <pubDate>Wed, 07 May 2025 12:00:08 GMT</pubDate>
+      <pubDate>Wed, 07 May 2025 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/creating-a-secure-machine-learning-api-with-fastapi-and-docker/</guid>
       <category>AI</category>
     </item>
@@ -1193,7 +1617,7 @@
       <title>Zero-Shot and Few-Shot Learning with Reasoning LLMs</title>
       <link>https://machinelearningmastery.com/zero-shot-and-few-shot-learning-with-reasoning-llms/</link>
       <description>&lt;![CDATA[Zero-Shot and Few-Shot Learning with Reasoning LLMs]]&gt;</description>
-      <pubDate>Tue, 06 May 2025 21:37:37 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 21:37:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/zero-shot-and-few-shot-learning-with-reasoning-llms/</guid>
       <category>AI</category>
     </item>
@@ -1201,416 +1625,8 @@
       <title>Automate Dataset Labeling with Active Learning</title>
       <link>https://machinelearningmastery.com/automate-dataset-labeling-with-active-learning/</link>
       <description>&lt;![CDATA[Automate Dataset Labeling with Active Learning]]&gt;</description>
-      <pubDate>Tue, 06 May 2025 20:55:25 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 20:55:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/automate-dataset-labeling-with-active-learning/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>7 Emerging Trends in Generative AI and Their Real-World Impact</title>
-      <link>https://machinelearningmastery.com/7-emerging-trends-in-generative-ai-and-their-real-world-impact/</link>
-      <description>&lt;![CDATA[7 Emerging Trends in Generative AI and Their Real-World Impact]]&gt;</description>
-      <pubDate>Wed, 30 Apr 2025 13:22:16 GMT</pubDate>
-      <guid isPermaLink="true">https://machinelearningmastery.com/7-emerging-trends-in-generative-ai-and-their-real-world-impact/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rationale engineering generates a compact new tool for gene therapy</title>
-      <link>https://news.mit.edu/2025/rationale-engineering-generates-compact-new-tool-gene-therapy-0528</link>
-      <description>&lt;![CDATA[Rationale engineering generates a compact new tool for gene therapy]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/rationale-engineering-generates-compact-new-tool-gene-therapy-0528</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An anomaly detection framework anyone can use</title>
-      <link>https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528</link>
-      <description>&lt;![CDATA[An anomaly detection framework anyone can use]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Building networks of data science talent</title>
-      <link>https://news.mit.edu/2025/building-networks-data-science-talent-0527</link>
-      <description>&lt;![CDATA[Building networks of data science talent]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/building-networks-data-science-talent-0527</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT announces the Initiative for New Manufacturing</title>
-      <link>https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</link>
-      <description>&lt;![CDATA[MIT announces the Initiative for New Manufacturing]]&gt;</description>
-      <pubDate>Tue, 27 May 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-announces-initiative-for-new-manufacturing-0527</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI learns how vision and sound are connected, without human intervention</title>
-      <link>https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522</link>
-      <description>&lt;![CDATA[AI learns how vision and sound are connected, without human intervention]]&gt;</description>
-      <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning how to predict rare kinds of failures</title>
-      <link>https://news.mit.edu/2025/learning-how-predict-rare-kinds-failures-0521</link>
-      <description>&lt;![CDATA[Learning how to predict rare kinds of failures]]&gt;</description>
-      <pubDate>Wed, 21 May 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/learning-how-predict-rare-kinds-failures-0521</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The sweet taste of a new idea</title>
-      <link>https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519</link>
-      <description>&lt;![CDATA[The sweet taste of a new idea]]&gt;</description>
-      <pubDate>Mon, 19 May 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>With AI, researchers predict the location of virtually any protein within a human cell</title>
-      <link>https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515</link>
-      <description>&lt;![CDATA[With AI, researchers predict the location of virtually any protein within a human cell]]&gt;</description>
-      <pubDate>Thu, 15 May 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Study shows vision-language models can’t handle queries with negation words</title>
-      <link>https://news.mit.edu/2025/study-shows-vision-language-models-cant-handle-negation-words-queries-0514</link>
-      <description>&lt;![CDATA[Study shows vision-language models can’t handle queries with negation words]]&gt;</description>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/study-shows-vision-language-models-cant-handle-negation-words-queries-0514</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work</title>
-      <link>https://news.mit.edu/2025/mit-economics-department-launches-james-cathleen-stone-center-inequality-shaping-future-work-0513</link>
-      <description>&lt;![CDATA[MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work]]&gt;</description>
-      <pubDate>Tue, 13 May 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-economics-department-launches-james-cathleen-stone-center-inequality-shaping-future-work-0513</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Hybrid AI model crafts smooth, high-quality videos in seconds</title>
-      <link>https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</link>
-      <description>&lt;![CDATA[Hybrid AI model crafts smooth, high-quality videos in seconds]]&gt;</description>
-      <pubDate>Tue, 06 May 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/causevid-hybrid-ai-model-crafts-smooth-high-quality-videos-in-seconds-0506</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation</title>
-      <link>https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</link>
-      <description>&lt;![CDATA[Q&amp;A: A roadmap for revolutionizing health care through data-driven innovation]]&gt;</description>
-      <pubDate>Mon, 05 May 2025 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/qa-roadmap-revolutionizing-health-care-through-data-driven-innovation-0505</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>New tool evaluates progress in reinforcement learning</title>
-      <link>https://news.mit.edu/2025/new-tool-evaluate-progress-reinforcement-learning-0505</link>
-      <description>&lt;![CDATA[New tool evaluates progress in reinforcement learning]]&gt;</description>
-      <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-tool-evaluate-progress-reinforcement-learning-0505</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Novel AI model inspired by neural dynamics from the brain</title>
-      <link>https://news.mit.edu/2025/novel-ai-model-inspired-neural-dynamics-from-brain-0502</link>
-      <description>&lt;![CDATA[Novel AI model inspired by neural dynamics from the brain]]&gt;</description>
-      <pubDate>Fri, 02 May 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/novel-ai-model-inspired-neural-dynamics-from-brain-0502</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Making AI models more trustworthy for high-stakes settings</title>
-      <link>https://news.mit.edu/2025/making-ai-models-more-trustworthy-high-stakes-settings-0501</link>
-      <description>&lt;![CDATA[Making AI models more trustworthy for high-stakes settings]]&gt;</description>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/making-ai-models-more-trustworthy-high-stakes-settings-0501</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The MIT-Portugal Program enters Phase 4</title>
-      <link>https://news.mit.edu/2025/mit-portugal-program-enters-phase-4-0430</link>
-      <description>&lt;![CDATA[The MIT-Portugal Program enters Phase 4]]&gt;</description>
-      <pubDate>Wed, 30 Apr 2025 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-portugal-program-enters-phase-4-0430</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Merging design and computer science in creative ways</title>
-      <link>https://news.mit.edu/2025/alexander-htet-kyaw-merging-design-computer-science-in-creative-ways-0428</link>
-      <description>&lt;![CDATA[Merging design and computer science in creative ways]]&gt;</description>
-      <pubDate>Mon, 28 Apr 2025 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/alexander-htet-kyaw-merging-design-computer-science-in-creative-ways-0428</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Novel method detects microbial contamination in cell cultures</title>
-      <link>https://news.mit.edu/2025/novel-method-detects-microbial-contamination-smart-0425</link>
-      <description>&lt;![CDATA[Novel method detects microbial contamination in cell cultures]]&gt;</description>
-      <pubDate>Fri, 25 Apr 2025 22:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/novel-method-detects-microbial-contamination-smart-0425</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Artificial intelligence enhances air mobility planning</title>
-      <link>https://news.mit.edu/2025/artificial-intelligence-enhances-air-mobility-planning-0425</link>
-      <description>&lt;![CDATA[Artificial intelligence enhances air mobility planning]]&gt;</description>
-      <pubDate>Fri, 25 Apr 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/artificial-intelligence-enhances-air-mobility-planning-0425</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Designing a new way to optimize complex coordinated systems</title>
-      <link>https://news.mit.edu/2025/designing-new-way-optimize-complex-coordinated-systems-0424</link>
-      <description>&lt;![CDATA[Designing a new way to optimize complex coordinated systems]]&gt;</description>
-      <pubDate>Thu, 24 Apr 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/designing-new-way-optimize-complex-coordinated-systems-0424</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>New model predicts a chemical reaction’s point of no return</title>
-      <link>https://news.mit.edu/2025/new-model-predicts-chemical-reactions-no-return-point-0423</link>
-      <description>&lt;![CDATA[New model predicts a chemical reaction’s point of no return]]&gt;</description>
-      <pubDate>Wed, 23 Apr 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-model-predicts-chemical-reactions-no-return-point-0423</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>“Periodic table of machine learning” could fuel AI discovery</title>
-      <link>https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423</link>
-      <description>&lt;![CDATA[“Periodic table of machine learning” could fuel AI discovery]]&gt;</description>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>3D modeling you can feel</title>
-      <link>https://news.mit.edu/2025/3d-modeling-you-can-feel-0422</link>
-      <description>&lt;![CDATA[3D modeling you can feel]]&gt;</description>
-      <pubDate>Tue, 22 Apr 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/3d-modeling-you-can-feel-0422</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Norma Kamali is transforming the future of fashion with AI</title>
-      <link>https://news.mit.edu/2025/norma-kamali-transforming-future-fashion-ai-0422</link>
-      <description>&lt;![CDATA[Norma Kamali is transforming the future of fashion with AI]]&gt;</description>
-      <pubDate>Tue, 22 Apr 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/norma-kamali-transforming-future-fashion-ai-0422</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT’s McGovern Institute is shaping brain science and improving human lives on a global scale</title>
-      <link>https://news.mit.edu/2025/mit-mcgovern-institute-shaping-brain-science-improving-human-lives-0418</link>
-      <description>&lt;![CDATA[MIT’s McGovern Institute is shaping brain science and improving human lives on a global scale]]&gt;</description>
-      <pubDate>Fri, 18 Apr 2025 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-mcgovern-institute-shaping-brain-science-improving-human-lives-0418</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Making AI-generated code more accurate in any language</title>
-      <link>https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418</link>
-      <description>&lt;![CDATA[Making AI-generated code more accurate in any language]]&gt;</description>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A faster way to solve complex planning problems</title>
-      <link>https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416</link>
-      <description>&lt;![CDATA[A faster way to solve complex planning problems]]&gt;</description>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Training LLMs to self-detoxify their language</title>
-      <link>https://news.mit.edu/2025/training-llms-self-detoxify-their-language-0414</link>
-      <description>&lt;![CDATA[Training LLMs to self-detoxify their language]]&gt;</description>
-      <pubDate>Mon, 14 Apr 2025 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/training-llms-self-detoxify-their-language-0414</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>New method efficiently safeguards sensitive AI training data</title>
-      <link>https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411</link>
-      <description>&lt;![CDATA[New method efficiently safeguards sensitive AI training data]]&gt;</description>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Could LLMs help design our next medicines and materials?</title>
-      <link>https://news.mit.edu/2025/could-llms-help-design-our-next-medicines-and-materials-0409</link>
-      <description>&lt;![CDATA[Could LLMs help design our next medicines and materials?]]&gt;</description>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/could-llms-help-design-our-next-medicines-and-materials-0409</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>New method assesses and improves the reliability of radiologists’ diagnostic reports</title>
-      <link>https://news.mit.edu/2025/new-method-assesses-and-improves-reliability-radiologists-diagnostic-reports-0404</link>
-      <description>&lt;![CDATA[New method assesses and improves the reliability of radiologists’ diagnostic reports]]&gt;</description>
-      <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-method-assesses-and-improves-reliability-radiologists-diagnostic-reports-0404</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Taking the “training wheels” off clean energy</title>
-      <link>https://news.mit.edu/2025/taking-training-wheels-off-clean-energy-0402</link>
-      <description>&lt;![CDATA[Taking the “training wheels” off clean energy]]&gt;</description>
-      <pubDate>Thu, 03 Apr 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/taking-training-wheels-off-clean-energy-0402</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Vana is letting users own a piece of the AI models trained on their data</title>
-      <link>https://news.mit.edu/2025/vana-lets-users-own-piece-ai-models-trained-on-their-data-0403</link>
-      <description>&lt;![CDATA[Vana is letting users own a piece of the AI models trained on their data]]&gt;</description>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/vana-lets-users-own-piece-ai-models-trained-on-their-data-0403</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Researchers teach LLMs to solve complex planning challenges</title>
-      <link>https://news.mit.edu/2025/researchers-teach-llms-to-solve-complex-planning-challenges-0402</link>
-      <description>&lt;![CDATA[Researchers teach LLMs to solve complex planning challenges]]&gt;</description>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-teach-llms-to-solve-complex-planning-challenges-0402</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Pattie Maes receives ACM SIGCHI Lifetime Research Award</title>
-      <link>https://news.mit.edu/2025/pattie-maes-acm-sigchi-lifetime-research-award-0331</link>
-      <description>&lt;![CDATA[Pattie Maes receives ACM SIGCHI Lifetime Research Award]]&gt;</description>
-      <pubDate>Mon, 31 Mar 2025 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/pattie-maes-acm-sigchi-lifetime-research-award-0331</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>For this computer scientist, MIT Open Learning was the start of a life-changing journey</title>
-      <link>https://news.mit.edu/2025/mit-open-learning-resources-life-changing-journey-0330</link>
-      <description>&lt;![CDATA[For this computer scientist, MIT Open Learning was the start of a life-changing journey]]&gt;</description>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-open-learning-resources-life-changing-journey-0330</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Making higher education more accessible to students in Pakistan</title>
-      <link>https://news.mit.edu/2025/edufi-makes-higher-education-more-accessible-students-pakistan-0327</link>
-      <description>&lt;![CDATA[Making higher education more accessible to students in Pakistan]]&gt;</description>
-      <pubDate>Thu, 27 Mar 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/edufi-makes-higher-education-more-accessible-students-pakistan-0327</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT Maritime Consortium sets sail</title>
-      <link>https://news.mit.edu/2025/mit-maritime-consortium-sets-sail-0326</link>
-      <description>&lt;![CDATA[MIT Maritime Consortium sets sail]]&gt;</description>
-      <pubDate>Wed, 26 Mar 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-maritime-consortium-sets-sail-0326</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI tool generates high-quality images faster than state-of-the-art approaches</title>
-      <link>https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321</link>
-      <description>&lt;![CDATA[AI tool generates high-quality images faster than state-of-the-art approaches]]&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>At the core of problem-solving</title>
-      <link>https://news.mit.edu/2025/core-problem-solving-stuart-levine-0319</link>
-      <description>&lt;![CDATA[At the core of problem-solving]]&gt;</description>
-      <pubDate>Wed, 19 Mar 2025 16:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/core-problem-solving-stuart-levine-0319</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>“An AI future that honors dignity for everyone”</title>
-      <link>https://news.mit.edu/2025/ai-future-honors-dignity-compton-lecture-0318</link>
-      <description>&lt;![CDATA[“An AI future that honors dignity for everyone”]]&gt;</description>
-      <pubDate>Tue, 18 Mar 2025 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-future-honors-dignity-compton-lecture-0318</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Making airfield assessments automatic, remote, and safe</title>
-      <link>https://news.mit.edu/2025/randall-pietersen-making-airfield-assessments-automatic-remote-safe-0313</link>
-      <description>&lt;![CDATA[Making airfield assessments automatic, remote, and safe]]&gt;</description>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/randall-pietersen-making-airfield-assessments-automatic-remote-safe-0313</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Robotic helper making mistakes? Just nudge it in the right direction</title>
-      <link>https://news.mit.edu/2025/robotic-helper-mistakes-nudging-in-right-direction-0307</link>
-      <description>&lt;![CDATA[Robotic helper making mistakes? Just nudge it in the right direction]]&gt;</description>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/robotic-helper-mistakes-nudging-in-right-direction-0307</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>3 Questions: Visualizing research in the age of AI</title>
-      <link>https://news.mit.edu/2025/3-questions-visualizing-research-age-ai-0306</link>
-      <description>&lt;![CDATA[3 Questions: Visualizing research in the age of AI]]&gt;</description>
-      <pubDate>Thu, 06 Mar 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/3-questions-visualizing-research-age-ai-0306</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Markus Buehler receives 2025 Washington Award</title>
-      <link>https://news.mit.edu/2025/markus-buehler-receives-washington-award-0303</link>
-      <description>&lt;![CDATA[Markus Buehler receives 2025 Washington Award]]&gt;</description>
-      <pubDate>Mon, 03 Mar 2025 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/markus-buehler-receives-washington-award-0303</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Collaborating to advance research and innovation on essential chips for AI</title>
-      <link>https://news.mit.edu/2025/mit-globalfoundries-collaborate-advance-research-innovation-essential-chips-for-ai-0228</link>
-      <description>&lt;![CDATA[Collaborating to advance research and innovation on essential chips for AI]]&gt;</description>
-      <pubDate>Fri, 28 Feb 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-globalfoundries-collaborate-advance-research-innovation-essential-chips-for-ai-0228</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An ancient RNA-guided system could simplify delivery of gene editing therapies</title>
-      <link>https://news.mit.edu/2025/ancient-rna-guided-system-could-simplify-delivery-gene-editing-therapies-0227</link>
-      <description>&lt;![CDATA[An ancient RNA-guided system could simplify delivery of gene editing therapies]]&gt;</description>
-      <pubDate>Thu, 27 Feb 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ancient-rna-guided-system-could-simplify-delivery-gene-editing-therapies-0227</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI system predicts protein fragments that can bind to or inhibit a target</title>
-      <link>https://news.mit.edu/2025/ai-system-fragfold-predicts-protein-fragments-0220</link>
-      <description>&lt;![CDATA[AI system predicts protein fragments that can bind to or inhibit a target]]&gt;</description>
-      <pubDate>Thu, 20 Feb 2025 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-system-fragfold-predicts-protein-fragments-0220</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Like human brains, large language models reason about diverse data in a general way</title>
-      <link>https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219</link>
-      <description>&lt;![CDATA[Like human brains, large language models reason about diverse data in a general way]]&gt;</description>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIT spinout maps the body’s metabolites to uncover the hidden drivers of disease</title>
-      <link>https://news.mit.edu/2025/mit-spinout-maps-body-metabolites-uncovering-hidden-disease-drivers-0219</link>
-      <description>&lt;![CDATA[MIT spinout maps the body’s metabolites to uncover the hidden drivers of disease]]&gt;</description>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-spinout-maps-body-metabolites-uncovering-hidden-disease-drivers-0219</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -10,6 +10,8 @@ from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 import os
 from collections import defaultdict
+import hashlib
+import json
 
 
 def read_rss_feed(url):
@@ -453,6 +455,474 @@ def generate_all_categories_news(rss_sources, hours_limit=24, output_dir="news")
     except Exception as e:
         print(f"❌ 生成新闻报告时发生错误: {e}")
         return {}
+
+
+def generate_article_hash(title, link):
+    """
+    生成文章的唯一哈希值，用于去重
+    
+    参数:
+        title (str): 文章标题
+        link (str): 文章链接
+        
+    返回:
+        str: 文章的哈希值
+    """
+    # 使用标题和链接的组合生成哈希，确保唯一性
+    content = f"{title.strip()}{link.strip()}"
+    return hashlib.md5(content.encode('utf-8')).hexdigest()
+
+def load_existing_articles(file_path):
+    """
+    从现有的MD文件中加载已存在的文章哈希值
+    
+    参数:
+        file_path (str): MD文件路径
+        
+    返回:
+        set: 已存在文章的哈希值集合
+    """
+    existing_hashes = set()
+    
+    if not os.path.exists(file_path):
+        return existing_hashes
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+        # 使用正则表达式提取所有文章链接和标题
+        import re
+        article_pattern = r'### \[(.+?)\]\((.+?)\)'
+        articles = re.findall(article_pattern, content)
+        
+        for title, link in articles:
+            # 清理转义字符
+            clean_title = title.replace('\\[', '[').replace('\\]', ']').strip()
+            clean_link = link.strip()
+            article_hash = generate_article_hash(clean_title, clean_link)
+            existing_hashes.add(article_hash)
+            
+    except Exception as e:
+        print(f"加载现有文章时出错: {e}")
+    
+    return existing_hashes
+
+def get_all_historical_articles(rss_urls, output_file=None, rss_sources=None, max_articles_per_source=50):
+    """
+    获取所有RSS订阅源的历史新闻（不限时间），并去重追加到累积文档中
+    
+    参数:
+        rss_urls (list): RSS订阅源URL列表
+        output_file (str): 输出文件路径
+        rss_sources (list): RSS源配置信息，用于获取源名称
+        max_articles_per_source (int): 每个源最多获取的文章数量，防止文件过大
+        
+    返回:
+        dict: 包含新增文章信息和统计数据
+    """
+    print(f"开始获取 {len(rss_urls)} 个RSS订阅源的历史新闻...")
+    print(f"每个订阅源最多获取 {max_articles_per_source} 篇文章")
+    print("-" * 50)
+    
+    # 加载现有文章哈希值
+    existing_hashes = set()
+    if output_file:
+        existing_hashes = load_existing_articles(output_file)
+        print(f"已加载 {len(existing_hashes)} 个现有文章的哈希值")
+    
+    # 存储所有新文章
+    new_articles = []
+    duplicate_count = 0
+    source_stats = {}
+    
+    for i, url in enumerate(rss_urls, 1):
+        print(f"[{i}/{len(rss_urls)}] 正在读取: {url}")
+        
+        try:
+            # 读取RSS订阅源
+            entries = read_rss_feed(url)
+            
+            if not entries:
+                print(f"  -> 没有找到文章")
+                source_stats[url] = {"new": 0, "duplicate": 0, "total": 0}
+                continue
+            
+            # 限制文章数量
+            entries = entries[:max_articles_per_source]
+            
+            new_count = 0
+            dup_count = 0
+            
+            for entry in entries:
+                try:
+                    title = getattr(entry, 'title', '无标题')
+                    link = getattr(entry, 'link', '#')
+                    
+                    # 生成文章哈希值
+                    article_hash = generate_article_hash(title, link)
+                    
+                    # 检查是否重复
+                    if article_hash in existing_hashes:
+                        dup_count += 1
+                        continue
+                    
+                    # 解析发布时间
+                    published_time = None
+                    for time_field in ['published', 'updated', 'created']:
+                        if hasattr(entry, time_field):
+                            time_str = getattr(entry, time_field)
+                            try:
+                                published_time = parsedate_to_datetime(time_str)
+                                break
+                            except (TypeError, ValueError):
+                                try:
+                                    if hasattr(entry, f'{time_field}_parsed'):
+                                        time_struct = getattr(entry, f'{time_field}_parsed')
+                                        if time_struct:
+                                            published_time = datetime(*time_struct[:6])
+                                            break
+                                except:
+                                    continue
+                    
+                    article_info = {
+                        'title': title,
+                        'link': link,
+                        'published': published_time.strftime('%Y-%m-%d %H:%M') if published_time else '时间未知',
+                        'source_url': url,
+                        'hash': article_hash
+                    }
+                    
+                    new_articles.append(article_info)
+                    existing_hashes.add(article_hash)  # 添加到已存在集合中
+                    new_count += 1
+                    
+                except Exception as e:
+                    print(f"  -> 处理文章时出错: {e}")
+                    continue
+            
+            source_stats[url] = {
+                "new": new_count, 
+                "duplicate": dup_count, 
+                "total": len(entries)
+            }
+            duplicate_count += dup_count
+            
+            print(f"  -> 新增 {new_count} 篇，重复 {dup_count} 篇")
+            
+            # 清理内存
+            del entries
+            gc.collect()
+            
+        except Exception as e:
+            print(f"  -> 读取失败: {e}")
+            source_stats[url] = {"new": 0, "duplicate": 0, "total": 0, "error": str(e)}
+            continue
+    
+    print("-" * 50)
+    print(f"汇总完成，共找到 {len(new_articles)} 篇新文章，跳过 {duplicate_count} 篇重复文章")
+    
+    # 按发布时间排序（最新的在前）
+    try:
+        new_articles.sort(key=lambda x: datetime.strptime(x['published'], '%Y-%m-%d %H:%M') 
+                         if x['published'] != '时间未知' else datetime.min, reverse=True)
+    except:
+        pass
+    
+    # 如果有新文章且指定了输出文件，追加到文件
+    if new_articles and output_file:
+        append_articles_to_file(new_articles, output_file, rss_sources)
+    
+    return {
+        'new_articles': new_articles,
+        'new_count': len(new_articles),
+        'duplicate_count': duplicate_count,
+        'source_stats': source_stats
+    }
+
+def append_articles_to_file(new_articles, output_file, rss_sources=None):
+    """
+    将新文章追加到现有的MD文件中
+    
+    参数:
+        new_articles (list): 新文章列表
+        output_file (str): 输出文件路径
+        rss_sources (list): RSS源配置信息
+    """
+    try:
+        # 读取现有内容
+        existing_content = ""
+        if os.path.exists(output_file):
+            with open(output_file, 'r', encoding='utf-8') as f:
+                existing_content = f.read()
+        
+        # 生成新文章的Markdown内容
+        new_content = generate_cumulative_markdown_report(new_articles, rss_sources, existing_content)
+        
+        # 写入文件
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        
+        print(f"成功追加 {len(new_articles)} 篇新文章到: {output_file}")
+        
+    except Exception as e:
+        print(f"追加文章到文件时出错: {e}")
+
+def generate_cumulative_markdown_report(new_articles, rss_sources=None, existing_content=""):
+    """
+    生成累积的Markdown格式报告
+    
+    参数:
+        new_articles (list): 新文章列表
+        rss_sources (list): RSS源配置信息
+        existing_content (str): 现有文件内容
+        
+    返回:
+        str: 更新后的Markdown内容
+    """
+    current_time = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
+    # 如果是新文件，创建头部
+    if not existing_content:
+        md_lines = [
+            f"# 累积新闻汇总",
+            f"",
+            f"**首次创建时间**: {current_time}",
+            f"**最后更新时间**: {current_time}",
+            f"",
+            f"---",
+            f""
+        ]
+    else:
+        # 更新现有文件的最后更新时间
+        import re
+        md_lines = existing_content.split('\n')
+        
+        # 更新最后更新时间
+        for i, line in enumerate(md_lines):
+            if line.startswith('**最后更新时间**:'):
+                md_lines[i] = f"**最后更新时间**: {current_time}"
+                break
+        else:
+            # 如果找不到更新时间行，在第5行插入
+            if len(md_lines) > 4:
+                md_lines.insert(4, f"**最后更新时间**: {current_time}")
+    
+    # 如果有新文章，添加到开头
+    if new_articles:
+        # 找到第一个文章开始的位置（在---后面）
+        insert_pos = len(md_lines)
+        for i, line in enumerate(md_lines):
+            if line.strip() == "---" and i < len(md_lines) - 1:
+                insert_pos = i + 2  # 在---后面的空行后插入
+                break
+        
+        # 按来源分组新文章
+        sources = {}
+        for article in new_articles:
+            source_url = article['source_url']
+            if source_url not in sources:
+                sources[source_url] = []
+            sources[source_url].append(article)
+        
+        # 生成新文章内容
+        new_lines = [f"## 🆕 最新更新 ({current_time})"]
+        
+        for source_url, source_articles in sources.items():
+            # 获取源名称和网站URL
+            source_name = source_url
+            website_url = source_url
+            
+            if rss_sources:
+                for source in rss_sources:
+                    if source.get('rss') == source_url:
+                        source_name = source.get('name', source_url)
+                        website_url = source.get('website') or source.get('url') or source_url
+                        break
+            
+            new_lines.append(f"### 📰 来源: [{source_name}]({website_url})")
+            new_lines.append("")
+            
+            for article in source_articles:
+                title = article['title'].replace('[', '\\[').replace(']', '\\]')
+                link = article['link']
+                published = article['published']
+                
+                new_lines.append(f"#### [{title}]({link})")
+                new_lines.append(f"**发布时间**: {published}")
+                new_lines.append("")
+        
+        new_lines.extend(["---", ""])
+        
+        # 插入新内容
+        md_lines[insert_pos:insert_pos] = new_lines
+    
+    return '\n'.join(md_lines)
+
+def generate_historical_news_by_categories(rss_sources, output_dir="cumulative_news", max_articles_per_source=50):
+    """
+    按分类获取历史新闻并追加到累积文档中
+    
+    参数:
+        rss_sources (list): RSS源配置信息列表
+        output_dir (str): 输出目录
+        max_articles_per_source (int): 每个源最多获取的文章数量
+        
+    返回:
+        dict: 每个分类的处理结果
+    """
+    # 确保输出目录存在
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        print(f"创建输出目录: {output_dir}")
+    
+    # 按分类分组RSS源
+    categories = defaultdict(list)
+    for source in rss_sources:
+        category = source.get('category', '未分类')
+        categories[category].append(source)
+    
+    print(f"发现 {len(categories)} 个分类: {list(categories.keys())}")
+    print("="*60)
+    
+    results = {}
+    
+    # 为每个分类处理新闻
+    for category, sources in categories.items():
+        print(f"\n处理分类: {category} ({len(sources)} 个订阅源)")
+        print("-" * 40)
+        
+        try:
+            # 提取该分类下的所有RSS URL
+            rss_urls = [source.get('rss') for source in sources if source.get('rss')]
+            
+            if not rss_urls:
+                print(f"  分类 '{category}' 没有有效的RSS订阅源")
+                results[category] = {
+                    "success": False,
+                    "error": "没有有效的RSS订阅源",
+                    "new_count": 0,
+                    "duplicate_count": 0
+                }
+                continue
+            
+            # 生成累积文件名
+            safe_category = category.replace(' ', '_').replace('/', '_').replace('\\', '_')
+            filename = f"{safe_category}_cumulative.md"
+            output_file = os.path.join(output_dir, filename)
+            
+            # 获取历史新闻
+            result = get_all_historical_articles(
+                rss_urls=rss_urls,
+                output_file=output_file,
+                rss_sources=sources,
+                max_articles_per_source=max_articles_per_source
+            )
+            
+            results[category] = {
+                "success": True,
+                "file_path": output_file,
+                "new_count": result['new_count'],
+                "duplicate_count": result['duplicate_count'],
+                "source_count": len(sources),
+                "source_stats": result['source_stats']
+            }
+            
+            print(f"  ✓ 分类 '{category}' 处理完成")
+            print(f"    文件: {output_file}")
+            print(f"    新增文章: {result['new_count']}")
+            print(f"    重复文章: {result['duplicate_count']}")
+            
+        except Exception as e:
+            print(f"  ✗ 分类 '{category}' 处理失败: {e}")
+            results[category] = {
+                "success": False,
+                "error": str(e),
+                "new_count": 0,
+                "duplicate_count": 0
+            }
+    
+    # 生成汇总报告
+    generate_cumulative_summary_report(results, output_dir)
+    
+    return results
+
+def generate_cumulative_summary_report(results, output_dir):
+    """
+    生成累积新闻的汇总报告
+    
+    参数:
+        results (dict): 各分类的处理结果
+        output_dir (str): 输出目录
+    """
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M')
+    summary_file = os.path.join(output_dir, f"cumulative_summary_{timestamp}.md")
+    
+    current_time = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
+    md_lines = [
+        "# 累积新闻汇总报告",
+        "",
+        f"**生成时间**: {current_time}",
+        f"**分类总数**: {len(results)}",
+        "",
+        "---",
+        ""
+    ]
+    
+    # 统计信息
+    total_new = sum(r.get('new_count', 0) for r in results.values())
+    total_duplicate = sum(r.get('duplicate_count', 0) for r in results.values())
+    successful_categories = sum(1 for r in results.values() if r.get('success', False))
+    
+    md_lines.extend([
+        "## 📊 统计信息",
+        "",
+        f"- **新增文章总数**: {total_new}",
+        f"- **重复文章总数**: {total_duplicate}",
+        f"- **成功分类**: {successful_categories}/{len(results)}",
+        "",
+        "---",
+        ""
+    ])
+    
+    # 各分类详情
+    md_lines.extend([
+        "## 📂 分类详情",
+        ""
+    ])
+    
+    for category, result in results.items():
+        if result.get('success', False):
+            file_name = os.path.basename(result['file_path'])
+            new_count = result.get('new_count', 0)
+            duplicate_count = result.get('duplicate_count', 0)
+            source_count = result.get('source_count', 0)
+            
+            md_lines.extend([
+                f"### ✅ {category}",
+                f"- **新增文章**: {new_count}",
+                f"- **重复文章**: {duplicate_count}",
+                f"- **订阅源数量**: {source_count}",
+                f"- **累积文件**: [{file_name}](./{file_name})",
+                ""
+            ])
+        else:
+            error_msg = result.get('error', '未知错误')
+            md_lines.extend([
+                f"### ❌ {category}",
+                f"- **状态**: 处理失败",
+                f"- **错误**: {error_msg}",
+                ""
+            ])
+    
+    # 保存汇总报告
+    try:
+        with open(summary_file, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(md_lines))
+        print(f"\n📋 汇总报告已生成: {summary_file}")
+    except Exception as e:
+        print(f"\n❌ 汇总报告生成失败: {e}")
 
 
 # 示例用法
