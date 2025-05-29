@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>AI 新闻汇总 - Free News Agent</title>
-    <link>https://zskfree.github.io/News-Agent/feed/aifreenewsagent.xml</link>
+    <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
     <pubDate>Thu, 29 May 2025 11:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 12:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 13:15:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150741279739242496</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
-    <atom:link href="https://zskfree.github.io/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DeepSeek-R1今天一次「小更新」，颠覆了大模型格局，网友：尽快放R2</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-2</link>

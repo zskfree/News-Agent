@@ -199,7 +199,7 @@ def get_category_follow_challenge(category):
     
     return follow_challenges.get(category_lower, None)
 
-def generate_cumulative_rss_xml(news_info, category, base_url="https://zskfree.github.io/News-Agent", 
+def generate_cumulative_rss_xml(news_info, category, base_url="https://zskksz.asia/News-Agent", 
                                existing_metadata=None):
     """
     生成累积RSS XML内容，保持原有的元数据和认证信息
@@ -325,7 +325,7 @@ def main():
     # 配置参数
     news_dir = "cumulative_news"
     feed_dir = "feed"
-    base_url = "https://zskfree.github.io/News-Agent"
+    base_url = "https://zskksz.asia/News-Agent"
     max_articles_per_feed = 100  # 每个RSS Feed最多包含的文章数
     
     print(f"📋 配置信息:")
