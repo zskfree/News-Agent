@@ -2,8 +2,7 @@ name: Daily News Update
 
 on:
   schedule:
-    # 北京时间8-24时每小时运行一次
-    - cron: '0 0-16 * * *'
+    - cron: '*/5 * * * *'  # 每5分钟运行一次，仅用于测试
   # 允许手动触发
   workflow_dispatch:
     inputs:
