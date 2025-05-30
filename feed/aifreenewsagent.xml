@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 03:12:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 03:12:22 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 04:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 04:27:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>谷歌之后，英伟达入局扩散大语言模型，Fast-dLLM推理速度狂飙27.6倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-3</link>
+      <description>&lt;![CDATA[谷歌之后，英伟达入局扩散大语言模型，Fast-dLLM推理速度狂飙27.6倍]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 Spotlight | 谁导致了多智能体系统的失败？首个「自动化失败归因」研究出炉</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-2</link>
+      <description>&lt;![CDATA[ICML 2025 Spotlight | 谁导致了多智能体系统的失败？首个「自动化失败归因」研究出炉]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>通义灵码AI IDE上线，深度适配Qwen3，首创自动记忆功能</title>
+      <link>https://www.qbitai.com/2025/05/289428.html</link>
+      <description>&lt;![CDATA[通义灵码AI IDE上线，深度适配Qwen3，首创自动记忆功能]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 03:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289428.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>上海加速布局具身智能产业：2025张江具身智能开发者大会暨国际人形机器人技能大赛成功举行</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-30</link>
@@ -787,30 +811,6 @@
       <description>&lt;![CDATA[从视频生成到世界模型：CVPR 2025 重磅教程来了！]]&gt;</description>
       <pubDate>Wed, 28 May 2025 15:35:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>地瓜机器人完成1亿美元A轮融资，加速构建具身智能生态版图</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-6</link>
-      <description>&lt;![CDATA[地瓜机器人完成1亿美元A轮融资，加速构建具身智能生态版图]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Nature子刊，湖大、电子科大、厦大等开发RareDDIE，精准攻克罕见药物互作预测难题</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-5</link>
-      <description>&lt;![CDATA[Nature子刊，湖大、电子科大、厦大等开发RareDDIE，精准攻克罕见药物互作预测难题]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>上海16区中学生组队预测绿能发电，全球1.6万人报名，第三届世界科学智能大赛培育新生代跨学科人才</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-4</link>
-      <description>&lt;![CDATA[上海16区中学生组队预测绿能发电，全球1.6万人报名，第三届世界科学智能大赛培育新生代跨学科人才]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 14:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-4</guid>
       <category>AI</category>
     </item>
   </channel>

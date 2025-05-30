@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-30 03:12
+**最后更新时间**: 2025-05-30 04:27
+
+---
+
+## 🆕 最新更新 (2025-05-30 04:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [特朗普为何揪着欧盟打？](https://www.tmtpost.com/7582083.html)
+**发布时间**: 2025-05-30 12:00
+
+#### [兴业银行千万存款换实习：私行业务转型困境下的畸形创新](https://www.tmtpost.com/7581536.html)
+**发布时间**: 2025-05-30 11:54
+
+#### [星巴克全球噩梦：中国茶咖本土登顶后，开始跨国“追杀”](https://www.tmtpost.com/7582174.html)
+**发布时间**: 2025-05-30 11:47
+
+#### [China's Appliance Giants Power Global Expansion with Record Overseas Sales in 2024](https://www.tmtpost.com/7582277.html)
+**发布时间**: 2025-05-30 11:39
+
+#### [为什么近两年新的零售渠道越来越多？食品饮料企业该如何做选择](https://www.tmtpost.com/7582201.html)
+**发布时间**: 2025-05-30 11:38
+
+#### [智驾险兴起：是安全保障，还是营销包装？｜钛度车库](https://www.tmtpost.com/7579021.html)
+**发布时间**: 2025-05-30 11:38
+
+#### [过亿融资的热门市场，等不到一个爆款](https://www.tmtpost.com/7582168.html)
+**发布时间**: 2025-05-30 11:38
+
+#### [美国要求芯片EDA巨头“断供”中国市场，将如何冲击国内产业链？](https://www.tmtpost.com/7576636.html)
+**发布时间**: 2025-05-30 11:10
+
+#### [U.S. Judge to Issue Preliminary Injunction Against Trump's Ban on Harvard's Enrolling International Students](https://www.tmtpost.com/7582157.html)
+**发布时间**: 2025-05-30 11:08
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [设备1折甩卖，转让无人问津，传统酒楼遭遇“生死劫”？](http://www.huxiu.com/article/4404741.html?f=wangzhan)
+**发布时间**: 2025-05-30 11:10
 
 ---
 
