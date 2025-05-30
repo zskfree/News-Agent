@@ -92,6 +92,7 @@ python daily_update.py
 ## 🔗 快速订阅
 
 复制任意RSS地址到您的RSS阅读器：
+- **Folo**: 支持
 - **FeedReader**: 支持
 - **Feedly**: 支持
 - **RSS Reader**: 支持
