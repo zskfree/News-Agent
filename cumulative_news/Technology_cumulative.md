@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-30 12:42
+**最后更新时间**: 2025-05-30 14:21
+
+---
+
+## 🆕 最新更新 (2025-05-30 14:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [霸王茶姬上市后首份季报GMV同比增速达38%；有赞x小红书推出本地生活解决方案；DESCENTE迪桑特上线90周年特别策划｜消研所周报](https://www.tmtpost.com/7582616.html)
+**发布时间**: 2025-05-30 21:24
+
+#### [昆药集团Q1“开门黑”，华润三九入主第三年靠什么兑现双位数增长？ | 直击业绩会](https://www.tmtpost.com/7582905.html)
+**发布时间**: 2025-05-30 21:01
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Chevrolet Corvette ZR1 first drive: hype meets hyperspeed](https://www.theverge.com/cars/676708/chevrolet-corvette-zr1-first-drive-track-ztk-trim)
+**发布时间**: 2025-05-30 14:00
+
+#### [Elden Ring Nightreign may be co-op, but I&#8217;m having a blast solo](https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring)
+**发布时间**: 2025-05-30 14:00
+
+#### [Why I love my Brother 1034D Serger](https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites)
+**发布时间**: 2025-05-30 13:34
+
+#### [Nintendo will let you limit who your kid can GameChat with on the Switch 2](https://www.theverge.com/news/676982/nintendo-switch-2-parental-controls-app-gamechat-restrictions)
+**发布时间**: 2025-05-30 13:32
+
+#### [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+**发布时间**: 2025-05-30 13:28
+
+#### [Nintendo’s Switch era took Pokémon collecting to the next level](https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x)
+**发布时间**: 2025-05-30 13:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How the Loudest Voices in AI Went From ‘Regulate Us’ to ‘Unleash Us’](https://www.wired.com/story/plaintext-sam-altman-ai-regulation-trump/)
+**发布时间**: 2025-05-30 14:00
+
+#### [Best Fitness Trackers of 2025 for Peak Performance](https://www.wired.com/gallery/best-fitness-tracker/)
+**发布时间**: 2025-05-30 13:30
+
+#### [Cops in Germany Claim They've ID'd the Mysterious Trickbot Ransomware Kingpin](https://www.wired.com/story/stern-trickbot-identified-germany-bka/)
+**发布时间**: 2025-05-30 13:22
+
+#### [Fur Trim System Review: Simple, Pain-Free Body Hair Removal](https://www.wired.com/review/fur-trim-system/)
+**发布时间**: 2025-05-30 13:08
+
+#### [Is Using a Stair Machine the Same as Climbing Stairs?](https://www.wired.com/story/is-using-a-stair-machine-the-same-as-climbing-stairs/)
+**发布时间**: 2025-05-30 13:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538#reply11)
+**发布时间**: 2025-05-30 13:16
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply20)
+**发布时间**: 2025-05-30 09:02
+
+#### [chrome 浏览器有没有什么好用的图片预览插件，求推荐！](https://www.v2ex.com/t/1135494#reply7)
+**发布时间**: 2025-05-30 08:08
+
+#### [飞牛 OS NAS 硬盘推荐](https://www.v2ex.com/t/1135487#reply5)
+**发布时间**: 2025-05-30 07:57
+
+#### [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453#reply18)
+**发布时间**: 2025-05-30 06:35
+
+#### [之前搞 polyfill.io 供应链攻击的 “方能 CDN” 被美国通缉了](https://www.v2ex.com/t/1135402#reply8)
+**发布时间**: 2025-05-30 03:50
+
+#### [局域网内的两台台式电脑，一台 mac mini，一台 Linux 系统，如何比较好的共享数据啊？](https://www.v2ex.com/t/1135380#reply32)
+**发布时间**: 2025-05-30 03:18
+
+#### [组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？](https://www.v2ex.com/t/1135342#reply32)
+**发布时间**: 2025-05-30 01:58
+
+#### [告别阿里云：一个合作十年以上老用户的心碎经历](https://www.v2ex.com/t/1135250#reply57)
+**发布时间**: 2025-05-29 09:42
+
+#### [自动检测图片水印区域并去除](https://www.v2ex.com/t/1134957#reply12)
+**发布时间**: 2025-05-28 09:28
 
 ---
 

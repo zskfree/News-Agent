@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 12:42
+**最后更新时间**: 2025-05-30 14:21
+
+---
+
+## 🆕 最新更新 (2025-05-30 14:21)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [China trade-war truce cited as U.S. consumer sentiment lifts in late May](https://www.marketwatch.com/bulletins/redirect/go?g=30beafb6-8397-4893-b0d4-6e391532bee3&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 14:08
+
+#### [Shares tumble as Gap puts a number on impact of Trump tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=25ebcd4d-3fb8-4a2f-b9fe-5fbe05d5e2ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 13:44
+
+#### [Consumer spending softened and uneasy Americans saved more as tariffs kicked in](https://www.marketwatch.com/bulletins/redirect/go?g=7d060fe9-4498-456a-8386-acc1c2017fa8&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 12:46
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Airbnb’s stock is now a sell, as a subdued summer for leisure travel looms, analyst says](https://www.marketwatch.com/story/airbnbs-stock-is-now-a-sell-as-a-weak-summer-for-leisure-travel-looms-analyst-says-7c34f097?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 14:06
+
+#### [Consumer spending softened as tariffs kicked in. Anxious Americans saved more in April.](https://www.marketwatch.com/story/consumer-spending-softened-as-tariffs-kicked-in-anxious-americans-saved-more-in-april-7317128a?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 13:43
+
+#### [Nvidia needs to show investors the future. Its CEO is sure he’s found the answer.](https://www.marketwatch.com/story/nvidias-next-act-bringing-ai-and-robots-into-your-life-d85a6fdc?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 13:17
+
+#### [Inflation rate slows again and almost hits Fed’s 2% goal, but trade wars could spoil the party](https://www.marketwatch.com/story/u-s-inflation-rate-slows-again-but-trade-wars-are-a-wild-card-ea1e4330?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 13:06
+
+#### [United CEO says budget airlines ‘screw the customer’ — but apparently new partner JetBlue is an exception](https://www.marketwatch.com/story/united-ceo-says-budget-airlines-screw-the-customer-but-apparently-new-partner-jetblue-is-an-exception-93f8fb8c?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 12:43
+
+#### [ECB to prove itself ‘beacon of stability’ with rate move next week](https://www.marketwatch.com/story/ecb-to-prove-itself-beacon-of-stability-with-rate-move-next-week-2535e982?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 12:41
+
+### 📰 来源: [MarketWatch Market Pulse](https://feeds.content.dowjones.io/public/rss/mw_marketpulse)
+
+#### [Consumer sentiment improves at the end of May following temporary trade truce with China](https://www.marketwatch.com/story/consumer-sentiment-improves-at-the-end-of-may-following-temporary-trade-truce-with-china-549ab54c?mod=mw_rss_marketpulse)
+**发布时间**: 2025-05-30 14:06
 
 ---
 

@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 12:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 12:42:24 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 14:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 14:21:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>星尘智能S1惊艳亮相ICRA2025，这家公司真正让机器人遥操成为集“专业平台”、“AI训练”、“大众普及”的重要路径</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-9</link>
+      <description>&lt;![CDATA[星尘智能S1惊艳亮相ICRA2025，这家公司真正让机器人遥操成为集“专业平台”、“AI训练”、“大众普及”的重要路径]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 22:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>具身进化·无界未来：这场论坛引领具身智能模型革命新浪潮</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-8</link>
+      <description>&lt;![CDATA[具身进化·无界未来：这场论坛引领具身智能模型革命新浪潮]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 21:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-8</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>The Download: sycophantic LLMs, and the AI Hype Index</title>
       <link>https://www.technologyreview.com/2025/05/30/1117620/the-download-sycophantic-llms-and-the-ai-hype-index/</link>
@@ -795,22 +811,6 @@
       <description>&lt;![CDATA[Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim Verification with Interactive Graph Representation]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.22993</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Hybrid Cross-domain Robust Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2505.23003</link>
-      <description>&lt;![CDATA[Hybrid Cross-domain Robust Reinforcement Learning]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23003</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Practical Approach for Building Production-Grade Conversational Agents with Workflow Graphs</title>
-      <link>https://arxiv.org/abs/2505.23006</link>
-      <description>&lt;![CDATA[A Practical Approach for Building Production-Grade Conversational Agents with Workflow Graphs]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23006</guid>
       <category>AI</category>
     </item>
   </channel>
