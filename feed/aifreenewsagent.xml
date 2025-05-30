@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 14:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 14:21:09 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 16:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 16:27:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fueling seamless AI at scale</title>
+      <link>https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/</link>
+      <description>&lt;![CDATA[Fueling seamless AI at scale]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>星尘智能S1惊艳亮相ICRA2025，这家公司真正让机器人遥操成为集“专业平台”、“AI训练”、“大众普及”的重要路径</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-30-9</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[Model-Preserving Adaptive Rounding]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.22988</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim Verification with Interactive Graph Representation</title>
-      <link>https://arxiv.org/abs/2505.22993</link>
-      <description>&lt;![CDATA[Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim Verification with Interactive Graph Representation]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22993</guid>
       <category>AI</category>
     </item>
   </channel>

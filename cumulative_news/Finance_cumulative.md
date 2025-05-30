@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 14:21
+**最后更新时间**: 2025-05-30 16:27
+
+---
+
+## 🆕 最新更新 (2025-05-30 16:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. trade deficit in goods plummets in April, pointing to stronger second-quarter GDP](https://www.marketwatch.com/story/u-s-trade-deficit-in-goods-plummets-in-april-pointing-to-higher-gdp-in-second-quarter-099c55f7?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 16:21
+
+#### [Car shoppers and home buyers face higher prices — no matter what happens in the court fight over Trump’s tariffs](https://www.marketwatch.com/story/car-buyers-home-buyers-still-on-the-hot-seat-after-trade-court-ruling-ce800faf?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 16:12
+
+#### [Pension funds that own $2.8 billion of Tesla’s stock slam board for failing to rein in Musk](https://www.marketwatch.com/story/pension-funds-that-own-2-8-billion-of-teslas-stock-slam-board-for-failing-to-rein-in-musk-cc564cb7?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 16:08
+
+#### [U.S.-China trade talks: Here’s one sticking point in getting back on track](https://www.marketwatch.com/story/u-s-china-trade-talks-heres-one-sticking-point-in-getting-back-on-track-4863ada7?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 16:05
+
+#### [Here’s how Trump could turn Fannie Mae and Freddie Mac into cash cows delivering billions to taxpayers](https://www.marketwatch.com/story/heres-how-trump-could-turn-fannie-mae-and-freddie-mac-into-cash-cows-delivering-billions-to-taxpayers-d6d3d1c5?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 15:57
+
+#### [Consumer sentiment improves at the end of May following temporary trade truce with China](https://www.marketwatch.com/story/consumer-sentiment-improves-at-the-end-of-may-following-temporary-trade-truce-with-china-549ab54c?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 15:34
+
+#### [He called the 2008 crisis, took a 14-year break and today warns us that a fresh financial storm is brewing](https://www.marketwatch.com/story/this-star-fund-manager-sees-2008-parallels-as-he-returns-to-the-volatility-business-4e6cec30?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 15:29
+
+#### [Here’s what home sellers are doing to counter a brutal buyer’s market this summer](https://www.marketwatch.com/story/heres-what-home-sellers-are-doing-to-counter-a-brutal-buyers-market-this-summer-555f1d0d?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 15:25
+
+#### [Americans are ‘revenge saving’ after years of splurging: ‘Savings are a great way to have some certainty.’](https://www.marketwatch.com/story/americans-are-revenge-saving-after-years-of-splurging-savings-are-a-great-way-to-have-some-certainty-f676a037?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 15:07
+
+#### [Markets are finely poised between a bullish breakout and bearish breakdown, says Bank of America strategist.](https://www.marketwatch.com/story/markets-are-finely-poised-between-a-bullish-breakout-and-bearish-breakdown-says-bank-of-america-strategist-c4ecfb37?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 15:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Is all hell about to break loose in your 401(k)?](https://www.marketwatch.com/bulletins/redirect/go?g=b8a3c8c5-900d-4d0c-81eb-c9dfc576bf8e&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 16:21
+
+#### [U.S. goods trade deficit narrowed significantly in April](https://www.marketwatch.com/bulletins/redirect/go?g=1212f336-5b27-48aa-825f-2ff9fa5266cb&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 14:24
 
 ---
 

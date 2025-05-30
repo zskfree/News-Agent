@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-30 14:21
+**最后更新时间**: 2025-05-30 16:27
+
+---
+
+## 🆕 最新更新 (2025-05-30 16:27)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [尊界 S800，没有手工没有血统，华为「科」出百万价格](http://www.geekpark.net/news/349994)
+**发布时间**: 2025-05-31 00:14
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新车当二手卖，中国车企需要的不是“饮鸩止渴”｜钛度车库](https://www.tmtpost.com/7580917.html)
+**发布时间**: 2025-05-30 22:24
+
+#### [渤海汽车拟收购4家企业股权；刻蚀单晶硅龙头终止重大资产重组【并购一线】](https://www.tmtpost.com/7582940.html)
+**发布时间**: 2025-05-30 22:11
+
+#### [沪深量能11392亿，较昨日缩量462亿｜日日龙虎榜](https://www.tmtpost.com/7582866.html)
+**发布时间**: 2025-05-30 19:44
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+**发布时间**: 2025-05-30 16:15
+
+#### [Today is your last day to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)
+**发布时间**: 2025-05-30 15:35
+
+#### [You can get 15 percent off Elden Ring Nightreign on Steam and Xbox](https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale)
+**发布时间**: 2025-05-30 15:01
+
+#### [Can a redesign save Apple&#8217;s software?](https://www.theverge.com/the-vergecast/677023/apple-redesign-names-wwdc-2025-vergecast)
+**发布时间**: 2025-05-30 14:22
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [vibe coding 新姿势](https://www.v2ex.com/t/1135553#reply0)
+**发布时间**: 2025-05-30 16:07
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply2)
+**发布时间**: 2025-05-30 14:23
+
+#### [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538#reply13)
+**发布时间**: 2025-05-30 13:16
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply7)
+**发布时间**: 2025-05-30 10:02
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply23)
+**发布时间**: 2025-05-30 09:02
+
+#### [飞牛 OS NAS 硬盘推荐](https://www.v2ex.com/t/1135487#reply6)
+**发布时间**: 2025-05-30 07:57
+
+#### [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453#reply21)
+**发布时间**: 2025-05-30 06:35
+
+#### [智能体的形式会不会终结?](https://www.v2ex.com/t/1135448#reply11)
+**发布时间**: 2025-05-30 06:28
+
+#### [局域网内的两台台式电脑，一台 mac mini，一台 Linux 系统，如何比较好的共享数据啊？](https://www.v2ex.com/t/1135380#reply35)
+**发布时间**: 2025-05-30 03:18
+
+#### [组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？](https://www.v2ex.com/t/1135342#reply35)
+**发布时间**: 2025-05-30 01:58
+
+#### [绿联和极空间 NAS 文件备份问题咨询](https://www.v2ex.com/t/1135315#reply26)
+**发布时间**: 2025-05-30 00:47
+
+#### [告别阿里云：一个合作十年以上老用户的心碎经历](https://www.v2ex.com/t/1135250#reply62)
+**发布时间**: 2025-05-29 09:42
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply62)
+**发布时间**: 2025-05-29 05:00
+
+#### [一个有意思的 github 项目，看到了作者内心的纠结](https://www.v2ex.com/t/1135121#reply11)
+**发布时间**: 2025-05-29 03:50
+
+#### [Google 账号归属地要求越来越严格了？](https://www.v2ex.com/t/1135023#reply15)
+**发布时间**: 2025-05-28 15:15
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best iPad Accessories (2025), Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)
+**发布时间**: 2025-05-30 15:00
+
+#### [Republican Operatives Want to Distance Themselves From Elon Musk's DOGE](https://www.wired.com/story/republicans-distance-elon-musk-doge/)
+**发布时间**: 2025-05-30 14:57
+
+#### [8 Best Bike Locks (2025): Kryptonite, Litelok, Abus, Hiplok, Compared](https://www.wired.com/gallery/best-bike-lock/)
+**发布时间**: 2025-05-30 14:38
+
+#### [Cops in Germany Claim They’ve ID’d the Mysterious Trickbot Ransomware Kingpin](https://www.wired.com/story/stern-trickbot-identified-germany-bka/)
+**发布时间**: 2025-05-30 13:22
 
 ---
 

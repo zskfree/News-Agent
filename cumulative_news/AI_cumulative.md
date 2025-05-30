@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:21
-**最后更新时间**: 2025-05-30 14:20
+**最后更新时间**: 2025-05-30 16:26
+
+---
+
+## 🆕 最新更新 (2025-05-30 16:26)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Fueling seamless AI at scale](https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/)
+**发布时间**: 2025-05-30 14:00
 
 ---
 
