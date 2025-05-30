@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-29 16:26
+**最后更新时间**: 2025-05-30 01:42
+
+---
+
+## 🆕 最新更新 (2025-05-30 01:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [轮到AI来写《人类简史》](https://www.tmtpost.com/7581584.html)
+**发布时间**: 2025-05-30 09:21
+
+#### [JD’s Food Delivery Blitz Shakes Meituan as Founder Wang Xing Vows to Win at All Costs](https://www.tmtpost.com/7581966.html)
+**发布时间**: 2025-05-30 09:19
+
+#### [【大事件必读】碳排放权、用水权交易制度建设时间节点确定，这些细分方向热度提升](https://www.tmtpost.com/7581747.html)
+**发布时间**: 2025-05-30 09:07
+
+#### [市值超越比亚迪后，宁德时代还有硬仗要打](https://www.tmtpost.com/7581680.html)
+**发布时间**: 2025-05-30 09:00
+
+#### [9家股份行PK：招行利润超中信兴业之和，平安对公贷款增速12.4%夺魁](https://www.tmtpost.com/7581531.html)
+**发布时间**: 2025-05-30 08:39
+
+#### [风暴结束了吗？不，恐怕只是中场休息](https://www.tmtpost.com/7581559.html)
+**发布时间**: 2025-05-30 08:20
+
+#### [钛媒体科股早知道：小米等纷纷布局，机构称该产品有望成为端侧AI落地最佳场景之一](https://www.tmtpost.com/7581840.html)
+**发布时间**: 2025-05-30 08:16
+
+#### [外卖大战这么久，京东对美团形成冲击波了吗？](https://www.tmtpost.com/7581207.html)
+**发布时间**: 2025-05-30 08:00
+
+#### [【钛晨报】中办、国办印发《关于健全资源环境要素市场化配置体系的意见》；曝哪吒汽车债转股失败，投资方要求哪吒汽车罢免CEO；800公里及以下航线免收燃油费，端午节后错峰游迎政策利好](https://www.tmtpost.com/7581635.html)
+**发布时间**: 2025-05-30 07:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克「挥别」白宫，重回公司；传小米汽车挖一汽南京 CTO 做智驾；「维密」遭黑客攻击，网站下线股价暴跌 | 极客早知道](http://www.geekpark.net/news/349937)
+**发布时间**: 2025-05-30 08:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技上的Temporal旨在简化弹性分布式系统的构建](https://www.infoq.cn/article/MtTgYqwYRJj7tVLfAgWb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 08:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [WIRED Talked to a Fired DOGE Staffer About Who Was Really in Charge](https://www.wired.com/story/fired-doge-staffer-who-is-in-charge/)
+**发布时间**: 2025-05-30 00:07
+
+#### [Meta’s ‘Free Expression’ Push Results in Far Fewer Content Takedowns](https://www.wired.com/story/meta-content-moderation-changes-decrease-removals/)
+**发布时间**: 2025-05-29 23:09
+
+#### [The Trump Administration Wants to Create an ‘Office of Remigration’](https://www.wired.com/story/trump-office-remigration-state-department-europe-far-right/)
+**发布时间**: 2025-05-29 23:02
+
+#### [Another Top Musk Lieutenant Appears to Be Leaving DOGE](https://www.wired.com/story/nicole-hollander-top-musk-lieutenant-leaving-doge/)
+**发布时间**: 2025-05-29 21:25
+
+#### [Google AI Overviews Says It’s Still 2024](https://www.wired.com/story/google-ai-overviews-says-its-still-2024/)
+**发布时间**: 2025-05-29 20:21
+
+#### [OnlyFans Turbocharged Sex Work. Now Its Founder Is Targeting the Whole Influencer Economy](https://www.wired.com/story/onlyfans-turbocharged-sex-work-now-its-founder-is-targeting-the-whole-influencer-economy/)
+**发布时间**: 2025-05-29 19:53
+
+#### [Trump’s Crackdown on Foreign Student Visas Could Derail Critical AI Research](https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/)
+**发布时间**: 2025-05-29 19:42
+
+#### [The 42 Best Movies on Hulu This Week (June 2025)](https://www.wired.com/story/best-movies-hulu-right-now/)
+**发布时间**: 2025-05-29 19:00
+
+#### [A Swedish MMA Tournament Spotlights the Trump Administration's Handling of Far-Right Terrorism](https://www.wired.com/story/socal-active-club-nordic-resistance-movement/)
+**发布时间**: 2025-05-29 18:14
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Scuf is finally adding Hall effect sticks to some of its wireless controllers](https://www.theverge.com/news/676850/scuf-corsair-envision-reflex-hall-effect-sticks-controllers)
+**发布时间**: 2025-05-29 22:09
+
+#### [Elon Musk sure does want everyone to think he’s leaving politics](https://www.theverge.com/elon-musk/676800/elon-musk-doge-leaving-politics-trump)
+**发布时间**: 2025-05-29 21:51
+
+#### [Netflix&#8217;s series about the FTX fiasco has found its leading effective altruists](https://www.theverge.com/news/676726/netflix-the-altruists-casting-ftx-sam-bankman-fried-caroline-ellison)
+**发布时间**: 2025-05-29 21:06
+
+#### [Xbox cofounder J Allard is working on ‘breakthrough’ devices at Amazon](https://www.theverge.com/news/676693/amazon-zeroone-team-j-allard-microsoft-xbox-smart-devices-hiring)
+**发布时间**: 2025-05-29 20:09
+
+#### [We still know almost nothing about Tesla’s robotaxi service](https://www.theverge.com/news/676548/tesla-robotaxi-launch-vehicles-date-lack-information)
+**发布时间**: 2025-05-29 19:15
+
+#### [AI could consume more power than Bitcoin by the end of 2025](https://www.theverge.com/climate-change/676528/ai-data-center-energy-forecast-bitcoin-mining)
+**发布时间**: 2025-05-29 18:58
+
+#### [YouTube will let you search for things you see in Shorts](https://www.theverge.com/news/676631/youtube-shorts-google-lens-search)
+**发布时间**: 2025-05-29 18:48
+
+#### [Instagram isn&#8217;t just for square photos anymore](https://www.theverge.com/news/676549/instagram-3-4-aspect-ratio-photos-phones-square-rectangle)
+**发布时间**: 2025-05-29 17:44
+
+#### [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+**发布时间**: 2025-05-29 17:25
 
 ---
 

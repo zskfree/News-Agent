@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-29 16:26
+**最后更新时间**: 2025-05-30 01:42
+
+---
+
+## 🆕 最新更新 (2025-05-30 01:42)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dell’s earnings outlook blows past expectations, and this number explains why](https://www.marketwatch.com/story/dells-earnings-outlook-blows-past-expectations-and-this-number-explains-why-7a8126e4?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 00:19
+
+#### [Marvell meets earnings expectations, but here’s what’s really on investors’ minds](https://www.marketwatch.com/story/marvell-meets-earnings-expectations-but-heres-whats-really-on-investors-minds-afc7b0eb?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 00:17
+
+#### [Costco’s tariff cure includes cheaper eggs, rerouted items and U.S.-made mattresses](https://www.marketwatch.com/story/costco-reports-earnings-today-heres-why-its-results-might-not-change-investors-perceptions-2753a353?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 00:15
+
+#### [Ulta Beauty is warning about consumer ’uncertainty.’ It still nudged its forecast higher.](https://www.marketwatch.com/story/ulta-beauty-is-warning-about-consumer-uncertainty-it-still-nudged-its-forecast-higher-6f43354e?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 00:14
+
+#### [E.l.f. Beauty’s stock is on pace for record rally, as analysts debate whether uncertainty is a ‘blessing in disguise’](https://www.marketwatch.com/story/e-l-f-beautys-stock-is-on-pace-for-record-rally-as-analysts-debate-whether-uncertainty-is-a-blessing-in-disguise-bb394a12?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 23:59
+
+#### [Turkey, nuts and Spam are appealing to ‘strained’ consumers, Hormel says](https://www.marketwatch.com/story/turkey-nuts-and-spam-are-appealing-to-a-strained-consumer-hormel-says-6d78dc9b?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 23:56
+
+#### [Powell met with Trump for first time this term. Here’s what it means for markets.](https://www.marketwatch.com/story/powell-met-with-trump-at-white-house-and-stressed-he-would-be-non-political-fed-says-3d95641a?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 22:57
+
+#### [Synopsys says to forget what it said last night. It did get a government letter about exports to China.](https://www.marketwatch.com/story/synopsys-says-to-forget-what-it-said-last-night-it-did-get-a-bis-letter-about-exports-to-china-01b79556?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 21:33
+
+#### [Gap sees sales stalling, and puts a number on the extra cost of tariffs](https://www.marketwatch.com/story/gaps-sales-stall-and-retailer-puts-a-number-to-additional-costs-due-to-tariffs-ac270840?mod=mw_rss_topstories)
+**发布时间**: 2025-05-29 21:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Chip maker Marvell hits earnings targets, but here’s what investors are watching](https://www.marketwatch.com/bulletins/redirect/go?g=f520d2d5-5415-43cb-86fd-ac5e798d9f51&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 21:36
+
+#### [Here’s what investors should do as courts weigh the future of Trump’s tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=8e48b9c5-dc00-4968-9a5f-7b1a5fddbbd9&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 21:03
+
+#### [Dell’s earnings outlook blows past expectations — and this number explains why](https://www.marketwatch.com/bulletins/redirect/go?g=25d69eaa-5247-474c-9667-18c221b05737&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 20:39
+
+#### [U.S. stocks end higher despite appeals court reinstating Trump tariffs — for now](https://www.marketwatch.com/bulletins/redirect/go?g=53fb1776-1c52-4cc0-a286-19ccbd72aef2&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 20:02
+
+#### [Trump's tariffs reinstated during appeal, as U.S. stocks hold on to narrow gains](https://www.marketwatch.com/bulletins/redirect/go?g=f8e82457-4ca4-4be7-ba71-753a82b685c5&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 19:38
+
+#### [Powell tells Trump he won't be political during White House meeting](https://www.marketwatch.com/bulletins/redirect/go?g=6ea15efd-f341-4845-bcb1-d7469ec042bb&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 17:08
+
+#### [These sectors can still get hit with new tariffs soon](https://www.marketwatch.com/bulletins/redirect/go?g=999c78b0-7b53-47e4-a3e2-3cbc6e8b5102&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-29 16:40
 
 ---
 
