@@ -106,5 +106,47 @@
         "category": "Finance",
         "language": "zh",
         "rss": "https://feed.mix.sina.com.cn/api/roll/get?pageid=155&lid=1686&num=10"
+    },
+    {
+        "name": "arXiv.org AI",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://export.arxiv.org/rss/cs.AI"
+    },
+    {
+        "name": "arXiv.org Machine Learning",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://export.arxiv.org/rss/cs.LG"
+    },
+    {
+        "name": "GitHub Trending",
+        "category": "Technology",
+        "language": "en",
+        "rss": "https://github.com/trending.atom"
+    },
+    {
+        "name": "InfoQ 中文站",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://www.infoq.cn/feed"
+    },
+    {
+        "name": "V2EX 技术讨论",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://www.v2ex.com/feed/tab/tech.xml"
+    },
+    {
+        "name": "少数派科技资讯",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://sspai.com/feed"
+    },
+    {
+        "name": "阮一峰的网络日志",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "http://www.ruanyifeng.com/blog/atom.xml"
     }
 ]
