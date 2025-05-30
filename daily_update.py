@@ -288,9 +288,9 @@ RSS_LINKS_PLACEHOLDER
         
         # 定义RSS文件映射
         rss_mapping = {
-            'aifreenewsagent.xml': '🤖 AI人工智能',
-            'technologyfreenewsagent.xml': '💻 科技Technology',
-            'financefreenewsagent.xml': '💰 财经Finance'
+            'aifreenewsagent.xml': '🤖 AI-人工智能',
+            'technologyfreenewsagent.xml': '💻 Technology-科技',
+            'financefreenewsagent.xml': '💰 Finance-财经'
         }
         
         for filename, display_name in rss_mapping.items():
