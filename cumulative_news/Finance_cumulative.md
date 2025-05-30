@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 03:12
+**最后更新时间**: 2025-05-30 08:28
+
+---
+
+## 🆕 最新更新 (2025-05-30 08:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This star fund manager sees 2008 parallels as he returns to the volatility business](https://www.marketwatch.com/story/this-star-fund-manager-sees-2008-parallels-as-he-returns-to-the-volatility-business-4e6cec30?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 06:30
 
 ---
 

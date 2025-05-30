@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 03:12:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 06:30:00 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 08:28:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This star fund manager sees 2008 parallels as he returns to the volatility business</title>
+      <link>https://www.marketwatch.com/story/this-star-fund-manager-sees-2008-parallels-as-he-returns-to-the-volatility-business-4e6cec30?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This star fund manager sees 2008 parallels as he returns to the volatility business]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-star-fund-manager-sees-2008-parallels-as-he-returns-to-the-volatility-business-4e6cec30?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>U.S.-China trade talks ‘stalled,’ may require direct talks between Trump and Xi, Bessent says</title>
       <link>https://www.marketwatch.com/story/u-s-china-trade-talks-stalled-may-require-direct-talks-between-trump-and-xi-bessent-says-f632387a?mod=mw_rss_topstories</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine]]&gt;</description>
       <pubDate>Tue, 19 Nov 2024 08:55:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Charter Communications announces buyout deal for Liberty Broadband at terms above its previous proposal</title>
-      <link>https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse</link>
-      <description>&lt;![CDATA[Charter Communications announces buyout deal for Liberty Broadband at terms above its previous proposal]]&gt;</description>
-      <pubDate>Wed, 13 Nov 2024 13:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse</guid>
       <category>Finance</category>
     </item>
   </channel>
