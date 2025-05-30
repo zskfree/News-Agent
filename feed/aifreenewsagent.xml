@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 04:26:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 04:27:07 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 06:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 06:30:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>浙大侯廷军团队开发基于Pareto算法和Monte Carlo Tree搜索的多目标分子生成方法，助力药物研发</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-7</link>
+      <description>&lt;![CDATA[浙大侯廷军团队开发基于Pareto算法和Monte Carlo Tree搜索的多目标分子生成方法，助力药物研发]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>美团开放AI代码工具，零代码实现全栈能力，项目负责人揭秘架构细节</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-6</link>
+      <description>&lt;![CDATA[美团开放AI代码工具，零代码实现全栈能力，项目负责人揭秘架构细节]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>多模态扩散模型开始爆发，这次是高速可控还能学习推理的LaViDa</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-5</link>
+      <description>&lt;![CDATA[多模态扩散模型开始爆发，这次是高速可控还能学习推理的LaViDa]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型智能体如何突破规模化应用瓶颈，核心在于Agentic ROI</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30-4</link>
+      <description>&lt;![CDATA[大模型智能体如何突破规模化应用瓶颈，核心在于Agentic ROI]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30-4</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>谷歌之后，英伟达入局扩散大语言模型，Fast-dLLM推理速度狂飙27.6倍</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-30-3</link>
@@ -779,38 +811,6 @@
       <description>&lt;![CDATA[准确率92.7%逼近Claude 3.5、成本降低86%，开源代码定位新神器LocAgent来了]]&gt;</description>
       <pubDate>Wed, 28 May 2025 21:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-11</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>华为盘古首次露出，昇腾原生72B MoE架构，SuperCLUE千亿内模型并列国内第一</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-10</link>
-      <description>&lt;![CDATA[华为盘古首次露出，昇腾原生72B MoE架构，SuperCLUE千亿内模型并列国内第一]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM加RL遭质疑：故意用错奖励，数学基准也显著提升，AI圈炸了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-9</link>
-      <description>&lt;![CDATA[LLM加RL遭质疑：故意用错奖励，数学基准也显著提升，AI圈炸了]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-9</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SIGGRAPH 2025 | CLR-Wire：曲线框可生成？可交互？深大VCC带你见证魔法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-8</link>
-      <description>&lt;![CDATA[SIGGRAPH 2025 | CLR-Wire：曲线框可生成？可交互？深大VCC带你见证魔法]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>从视频生成到世界模型：CVPR 2025 重磅教程来了！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-7</link>
-      <description>&lt;![CDATA[从视频生成到世界模型：CVPR 2025 重磅教程来了！]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 15:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-7</guid>
       <category>AI</category>
     </item>
   </channel>
