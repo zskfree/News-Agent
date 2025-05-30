@@ -15,9 +15,9 @@
 
 | 分类 | RSS订阅地址 | 状态 |
 |------|------------|------|
-| 🤖 AI人工智能 | `https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml` | ✅ |
-| 💻 科技Technology | `https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml` | ✅ |
-| 💰 财经Finance | `https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml` | ✅ |
+| 🤖 AI-人工智能 | `https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml` | ✅ |
+| 💻 Technology-科技 | `https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml` | ✅ |
+| 💰 Finance-财经 | `https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml` | ✅ |
 
 ## 🛠️ 项目结构
 
