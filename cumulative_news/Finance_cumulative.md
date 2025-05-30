@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 08:28
+**最后更新时间**: 2025-05-30 10:23
+
+---
+
+## 🆕 最新更新 (2025-05-30 10:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My life partner is 18 years my senior. He wants to leave his $4.5 million fortune to me — not his two kids. Do we tell them?](https://www.marketwatch.com/story/my-life-partner-is-18-years-my-senior-he-wants-to-leave-his-4-5-million-fortune-to-me-not-his-two-kids-do-we-tell-them-4510d348?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 09:24
+
+#### [Travis Kelce rents a $20 million Florida waterfront home to get ready for football season](https://www.marketwatch.com/story/travis-kelce-rents-a-20-million-florida-waterfront-home-to-get-ready-for-football-season-b7c1bfeb?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 09:00
 
 ---
 

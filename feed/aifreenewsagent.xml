@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 08:28:02 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 10:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 10:23:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This benchmark used Reddit’s AITA to test how much AI models suck up to us</title>
+      <link>https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/</link>
+      <description>&lt;![CDATA[This benchmark used Reddit’s AITA to test how much AI models suck up to us]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>机器狗能当羽毛球搭子了！仅靠强化学习从0自学，还涌现出类人回位行为 | Science子刊</title>
+      <link>https://www.qbitai.com/2025/05/289798.html</link>
+      <description>&lt;![CDATA[机器狗能当羽毛球搭子了！仅靠强化学习从0自学，还涌现出类人回位行为 | Science子刊]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 08:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289798.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>最新一期权威大模型榜单：豆包1.5、商汤日日新V6并列国内第一</title>
+      <link>https://www.qbitai.com/2025/05/289853.html</link>
+      <description>&lt;![CDATA[最新一期权威大模型榜单：豆包1.5、商汤日日新V6并列国内第一]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 08:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289853.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>每2秒吃透一道高数大题！华为终于揭秘准万亿MoE昇腾训练系统全流程</title>
+      <link>https://www.qbitai.com/2025/05/289806.html</link>
+      <description>&lt;![CDATA[每2秒吃透一道高数大题！华为终于揭秘准万亿MoE昇腾训练系统全流程]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 08:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289806.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>上海加速布局具身智能产业：2025张江具身智能开发者大会暨国际人形机器人技能大赛成功举行</title>
+      <link>https://www.qbitai.com/2025/05/289716.html</link>
+      <description>&lt;![CDATA[上海加速布局具身智能产业：2025张江具身智能开发者大会暨国际人形机器人技能大赛成功举行]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 08:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289716.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>实测！可灵AI季度收入1.5亿，最新版本正式发布：物理真实感大幅提升</title>
       <link>https://www.qbitai.com/2025/05/289509.html</link>
@@ -771,46 +811,6 @@
       <description>&lt;![CDATA[Synthetic Document Question Answering in Hungarian]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.23008</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>$K^2$VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting</title>
-      <link>https://arxiv.org/abs/2505.23017</link>
-      <description>&lt;![CDATA[$K^2$VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23017</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models</title>
-      <link>https://arxiv.org/abs/2505.23020</link>
-      <description>&lt;![CDATA[AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23020</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Context Robust Knowledge Editing for Language Models</title>
-      <link>https://arxiv.org/abs/2505.23026</link>
-      <description>&lt;![CDATA[Context Robust Knowledge Editing for Language Models]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23026</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Diverse Prototypical Ensembles Improve Robustness to Subpopulation Shift</title>
-      <link>https://arxiv.org/abs/2505.23027</link>
-      <description>&lt;![CDATA[Diverse Prototypical Ensembles Improve Robustness to Subpopulation Shift]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23027</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Bayesian Neural Scaling Laws Extrapolation with Prior-Fitted Networks</title>
-      <link>https://arxiv.org/abs/2505.23032</link>
-      <description>&lt;![CDATA[Bayesian Neural Scaling Laws Extrapolation with Prior-Fitted Networks]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23032</guid>
       <category>AI</category>
     </item>
   </channel>

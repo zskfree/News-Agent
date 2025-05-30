@@ -1,7 +1,140 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-30 08:28
+**最后更新时间**: 2025-05-30 10:23
+
+---
+
+## 🆕 最新更新 (2025-05-30 10:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [独家对话光轮智能：合成数据如何破解AI“数据饥渴”｜50x50](https://www.tmtpost.com/7582234.html)
+**发布时间**: 2025-05-30 18:15
+
+#### [胖东来 vs 奥乐齐：零售企业最该抄谁的作业？](https://www.tmtpost.com/7582459.html)
+**发布时间**: 2025-05-30 18:14
+
+#### [云包场，正被爱优腾养成“怪物”](https://www.tmtpost.com/7582485.html)
+**发布时间**: 2025-05-30 18:14
+
+#### [“百元股”钜泉科技跌落启示：价格驱动失灵，新蓝海变“等风来”困局](https://www.tmtpost.com/7582702.html)
+**发布时间**: 2025-05-30 17:59
+
+#### [中国智能化汽车的三次出海](https://www.tmtpost.com/7582453.html)
+**发布时间**: 2025-05-30 17:40
+
+#### [黄酒大变局：会稽山反杀古越龙山](https://www.tmtpost.com/7582049.html)
+**发布时间**: 2025-05-30 17:40
+
+#### [中炬高新内控风波再起：突遭诉讼要求撤销罢免决议，董事会换届两度“难产”](https://www.tmtpost.com/7582639.html)
+**发布时间**: 2025-05-30 17:20
+
+#### [用山姆原料制作、一块只卖1元，下一个“2元面包”出现了？](https://www.tmtpost.com/7582561.html)
+**发布时间**: 2025-05-30 17:14
+
+#### [揭秘鹏程无限：是崛起的储能新秀，还是宁德的带刀侍卫](https://www.tmtpost.com/7582033.html)
+**发布时间**: 2025-05-30 17:14
+
+#### [下一代入口之战：大厂为何纷纷押注智能体？](https://www.tmtpost.com/7582571.html)
+**发布时间**: 2025-05-30 16:16
+
+#### [英伟达各业务全线开花，却难掩失落](https://www.tmtpost.com/7582047.html)
+**发布时间**: 2025-05-30 16:16
+
+#### [苹果打起价格战，国产手机只能靠边站](https://www.tmtpost.com/7582289.html)
+**发布时间**: 2025-05-30 16:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TanStack发布TanStack Form V1版本](https://www.infoq.cn/article/8BZ3C2sjp2aXS08rZFSf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 17:00
+
+#### [Stable Difussion核心成员创办的AI独角兽甩出王炸模型：超低延迟，实现像素级图像编辑能力](https://www.infoq.cn/article/zd3jTsmaXwwRzlhxQbSA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 16:49
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Disney Plus&#8217; new &#8216;Perks&#8217; pile on discounts and other bonuses](https://www.theverge.com/news/676941/disney-plus-hulu-perks-discounts-sweepstakes)
+**发布时间**: 2025-05-30 10:19
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply1)
+**发布时间**: 2025-05-30 10:02
+
+#### [大佬们， webstorm 的 translation 插件，有类似的 mac 工具平替吗](https://www.v2ex.com/t/1135518#reply0)
+**发布时间**: 2025-05-30 10:01
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply12)
+**发布时间**: 2025-05-30 09:02
+
+#### [给某个 PT 站点义务劳动后的感想](https://www.v2ex.com/t/1135499#reply66)
+**发布时间**: 2025-05-30 08:45
+
+#### [chrome 浏览器有没有什么好用的图片预览插件，求推荐！](https://www.v2ex.com/t/1135494#reply6)
+**发布时间**: 2025-05-30 08:08
+
+#### [发现 cursor 里面不能用微软原版的 c/c++插件了](https://www.v2ex.com/t/1135491#reply15)
+**发布时间**: 2025-05-30 08:07
+
+#### [有什么开源方案能部署的安装信息收集平台？](https://www.v2ex.com/t/1135485#reply2)
+**发布时间**: 2025-05-30 07:46
+
+#### [求助，域名宽限期就被抢注了。。。](https://www.v2ex.com/t/1135478#reply10)
+**发布时间**: 2025-05-30 07:20
+
+#### [android 屏幕镜像问题 android15 不更新图像](https://www.v2ex.com/t/1135458#reply2)
+**发布时间**: 2025-05-30 06:41
+
+#### [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453#reply15)
+**发布时间**: 2025-05-30 06:35
+
+#### [局域网内的两台台式电脑，一台 mac mini，一台 Linux 系统，如何比较好的共享数据啊？](https://www.v2ex.com/t/1135380#reply21)
+**发布时间**: 2025-05-30 03:18
+
+#### [Claude Code 好用么？](https://www.v2ex.com/t/1135375#reply7)
+**发布时间**: 2025-05-30 03:13
+
+#### [我想请教大家一个 win11 的问题，视频画面总是错位撕裂抖动](https://www.v2ex.com/t/1135362#reply7)
+**发布时间**: 2025-05-30 02:30
+
+#### [在做一个自动化脚本，涉及到短信登陆，有没有什么方案把手机短信验证码自动化吗](https://www.v2ex.com/t/1135360#reply32)
+**发布时间**: 2025-05-30 02:29
+
+#### [\[windsurf\]已经入正,是使用 idea+windsurf 插件,还是直接使用 windsurf](https://www.v2ex.com/t/1135345#reply8)
+**发布时间**: 2025-05-30 02:08
+
+#### [组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？](https://www.v2ex.com/t/1135342#reply31)
+**发布时间**: 2025-05-30 01:58
+
+#### [终于解决了 win11 输入法在切换窗口的时候时不时随机切换输入法状态的问题🤣](https://www.v2ex.com/t/1135262#reply29)
+**发布时间**: 2025-05-29 10:11
+
+#### [告别阿里云：一个合作十年以上老用户的心碎经历](https://www.v2ex.com/t/1135250#reply55)
+**发布时间**: 2025-05-29 09:42
+
+#### [想趁 618 入手一台 nas，极空间和群晖二选一](https://www.v2ex.com/t/1135203#reply46)
+**发布时间**: 2025-05-29 07:21
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply61)
+**发布时间**: 2025-05-29 05:00
+
+#### [各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~](https://www.v2ex.com/t/1135118#reply56)
+**发布时间**: 2025-05-29 03:44
+
+#### [今天的乐子是阿里给的](https://www.v2ex.com/t/1135099#reply72)
+**发布时间**: 2025-05-29 02:46
+
+#### [求解答，关于 alist 泄露问题](https://www.v2ex.com/t/1135084#reply13)
+**发布时间**: 2025-05-29 02:26
+
+#### [你的 NAS 上有部署开源的导航网站吗？](https://www.v2ex.com/t/1127669#reply120)
+**发布时间**: 2025-04-23 23:47
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Trump's Administration Wants to Erase Queer History. An Unconventional Book Club Is Fighting Back](https://www.wired.com/story/trump-wants-to-erase-queer-history-this-unconventional-book-club-is-fighting-back/)
+**发布时间**: 2025-05-30 10:00
 
 ---
 
