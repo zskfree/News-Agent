@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-30 01:42
+**最后更新时间**: 2025-05-30 03:12
+
+---
+
+## 🆕 最新更新 (2025-05-30 03:12)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [更快、更顺畅：AI驱动的个性化内容加载](https://www.infoq.cn/article/3hySPumGCXdhEZelqjZH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 11:02
+
+#### [多模态理解在 AIGC 场景中的主要应用](https://www.infoq.cn/video/xWZbajeIhdRBRAehoeCa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 10:00
+
+#### [数据智能体企业应用深度实践｜AICon北京](https://www.infoq.cn/article/ydY2jAmTjfdgM39Baac7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 10:00
+
+#### [推理能力大比拼，《推理模型综合测评报告 2025 》正式发布](https://www.infoq.cn/article/eg8EMOGFJS7hHL6P7Wxx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-30 09:57
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [还在等快递？这届 618 别人已经收货了](http://www.geekpark.net/news/349956)
+**发布时间**: 2025-05-30 10:57
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [车圈没有恒大，但有暴雷](https://www.tmtpost.com/7581740.html)
+**发布时间**: 2025-05-30 10:30
+
+#### [发币还债的三次前车之鉴：新朝，魏玛，抗战](https://www.tmtpost.com/7581691.html)
+**发布时间**: 2025-05-30 10:15
+
+#### [CATL Hits First Speed Bump as Revenue Falls](https://www.tmtpost.com/7582044.html)
+**发布时间**: 2025-05-30 10:10
+
+#### [美要求对华断供EDA，技术封锁从硬件延伸至软件，倒逼中国半导体产业链国产化加速丨科股一线拆解](https://www.tmtpost.com/7581955.html)
+**发布时间**: 2025-05-30 10:06
+
+#### [三巨头从外卖打到闪购，抖音去哪了？](https://www.tmtpost.com/7581686.html)
+**发布时间**: 2025-05-30 10:01
+
+#### [从川发龙蟒看玄学炒股：透支预期的狂欢与“第二增长曲线”盈利困局 | 深度](https://www.tmtpost.com/7581773.html)
+**发布时间**: 2025-05-30 09:56
+
+#### [AI独角兽Builder.ai破产，孙正义又被骗了](https://www.tmtpost.com/7581453.html)
+**发布时间**: 2025-05-30 09:45
+
+#### [从“在银行存1000万即可获得名企实习”说起](https://www.tmtpost.com/7581606.html)
+**发布时间**: 2025-05-30 09:40
 
 ---
 

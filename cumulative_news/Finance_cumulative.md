@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 01:42
+**最后更新时间**: 2025-05-30 03:12
+
+---
+
+## 🆕 最新更新 (2025-05-30 03:12)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S.-China trade talks ‘stalled,’ may require direct talks between Trump and Xi, Bessent says](https://www.marketwatch.com/story/u-s-china-trade-talks-stalled-may-require-direct-talks-between-trump-and-xi-bessent-says-f632387a?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 02:32
 
 ---
 

@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 01:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 01:42:19 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 03:12:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 03:12:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>U.S.-China trade talks ‘stalled,’ may require direct talks between Trump and Xi, Bessent says</title>
+      <link>https://www.marketwatch.com/story/u-s-china-trade-talks-stalled-may-require-direct-talks-between-trump-and-xi-bessent-says-f632387a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[U.S.-China trade talks ‘stalled,’ may require direct talks between Trump and Xi, Bessent says]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 02:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-china-trade-talks-stalled-may-require-direct-talks-between-trump-and-xi-bessent-says-f632387a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Dell’s earnings outlook blows past expectations, and this number explains why</title>
       <link>https://www.marketwatch.com/story/dells-earnings-outlook-blows-past-expectations-and-this-number-explains-why-7a8126e4?mod=mw_rss_topstories</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[Charter Communications announces buyout deal for Liberty Broadband at terms above its previous proposal]]&gt;</description>
       <pubDate>Wed, 13 Nov 2024 13:52:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>General Motors unveils new all-electric Cadillac called the Vistiq with 300-mile range</title>
-      <link>https://www.marketwatch.com/story/general-motors-unveils-new-all-electric-cadillac-called-the-vistiq-with-300-mile-range-c16fb8a6?mod=mw_rss_marketpulse</link>
-      <description>&lt;![CDATA[General Motors unveils new all-electric Cadillac called the Vistiq with 300-mile range]]&gt;</description>
-      <pubDate>Tue, 12 Nov 2024 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/general-motors-unveils-new-all-electric-cadillac-called-the-vistiq-with-300-mile-range-c16fb8a6?mod=mw_rss_marketpulse</guid>
       <category>Finance</category>
     </item>
   </channel>

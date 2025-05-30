@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 May 2025 14:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 01:42:19 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 03:12:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 03:12:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>上海加速布局具身智能产业：2025张江具身智能开发者大会暨国际人形机器人技能大赛成功举行</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-30</link>
+      <description>&lt;![CDATA[上海加速布局具身智能产业：2025张江具身智能开发者大会暨国际人形机器人技能大赛成功举行]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-30</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>用Veo 3+Suno做了个AI Rapper，吊打音乐节上的流量明星</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-29-13</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[上海16区中学生组队预测绿能发电，全球1.6万人报名，第三届世界科学智能大赛培育新生代跨学科人才]]&gt;</description>
       <pubDate>Wed, 28 May 2025 14:06:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>清华创业团队打造！国内首个专注AI推理Serverless GPU平台</title>
-      <link>https://www.jiqizhixin.com/articles/2025-05-28-3</link>
-      <description>&lt;![CDATA[清华创业团队打造！国内首个专注AI推理Serverless GPU平台]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-28-3</guid>
       <category>AI</category>
     </item>
   </channel>
