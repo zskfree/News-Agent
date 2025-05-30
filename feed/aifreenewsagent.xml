@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 10:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 10:23:39 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 12:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 12:42:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Download: sycophantic LLMs, and the AI Hype Index</title>
+      <link>https://www.technologyreview.com/2025/05/30/1117620/the-download-sycophantic-llms-and-the-ai-hype-index/</link>
+      <description>&lt;![CDATA[The Download: sycophantic LLMs, and the AI Hype Index]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/05/30/1117620/the-download-sycophantic-llms-and-the-ai-hype-index/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>This benchmark used Reddit’s AITA to test how much AI models suck up to us</title>
       <link>https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[A Practical Approach for Building Production-Grade Conversational Agents with Workflow Graphs]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.23006</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Synthetic Document Question Answering in Hungarian</title>
-      <link>https://arxiv.org/abs/2505.23008</link>
-      <description>&lt;![CDATA[Synthetic Document Question Answering in Hungarian]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23008</guid>
       <category>AI</category>
     </item>
   </channel>

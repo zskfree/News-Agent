@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 10:23
+**最后更新时间**: 2025-05-30 12:42
+
+---
+
+## 🆕 最新更新 (2025-05-30 12:42)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fed-favored PCE gauge shows tame April inflation. Trade wars remain a wild card.](https://www.marketwatch.com/bulletins/redirect/go?g=9f5133f6-3389-45f0-a725-12afffc6c94a&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 12:40
+
+#### [Stock-market futures head sharply south after Trump rips China — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=25a4dfd4-00c3-47c8-857d-3c55e2cfbb93&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 12:33
+
+#### [Economic calendar: Data on trade, inflation and consumer mood coming up](https://www.marketwatch.com/bulletins/redirect/go?g=cc235cc7-a578-49c4-a310-bee02a1473bc&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 12:29
+
+#### [The Polish stock market has been a big 2025 winner. A test looms this weekend.](https://www.marketwatch.com/bulletins/redirect/go?g=29256b36-6965-4af7-9248-00431c35ac42&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 12:18
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. inflation rate slows again, but trade wars are a wild card](https://www.marketwatch.com/story/u-s-inflation-rate-slows-again-but-trade-wars-are-a-wild-card-ea1e4330?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 12:37
+
+#### [Stock bulls should resist exiting this market. These five pillars of support are coming.](https://www.marketwatch.com/story/stock-bulls-should-resist-exiting-this-market-these-five-pillars-of-support-are-coming-f7f0524d?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 12:36
+
+#### [Here’s what’s worth streaming in June 2025 as ‘The Bear’ and ‘Squid Game’ return](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2025-as-the-bear-and-squid-game-return-36bd0068?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 12:16
+
+#### [One of the best-performing stock markets of 2025 is facing a big risk this weekend](https://www.marketwatch.com/story/polands-stock-market-is-one-of-2025s-top-performers-but-a-big-risk-looms-6cd06cdc?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 12:05
+
+#### [Is Trump’s trade strategy in limbo? Yes, but ‘Tariff Man’ has options.](https://www.marketwatch.com/story/is-trumps-trade-strategy-in-limbo-yes-but-tariff-man-has-options-9a8f3fd9?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 11:50
+
+#### [U.S. Steel ‘partnership’ with Nippon Steel includes golden shares — what are they?](https://www.marketwatch.com/story/u-s-steel-partnership-with-nippon-steel-includes-golden-shares-what-are-they-3e420c3f?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 11:00
+
+#### [Should I claim Social Security early to help my wife and young child — even though I won’t get any benefits?](https://www.marketwatch.com/story/should-i-claim-social-security-early-to-help-my-wife-and-young-child-even-though-i-wont-get-any-benefits-196ece20?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 11:00
+
+### 📰 来源: [MarketWatch Market Pulse](https://feeds.content.dowjones.io/public/rss/mw_marketpulse)
+
+#### [U.S. trade deficit in goods plummets in April, pointing to higher GDP in second quarter](https://www.marketwatch.com/story/u-s-trade-deficit-in-goods-plummets-in-april-pointing-to-higher-gdp-in-second-quarter-099c55f7?mod=mw_rss_marketpulse)
+**发布时间**: 2025-05-30 12:36
 
 ---
 

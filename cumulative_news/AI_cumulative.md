@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:21
-**最后更新时间**: 2025-05-30 10:21
+**最后更新时间**: 2025-05-30 12:42
+
+---
+
+## 🆕 最新更新 (2025-05-30 12:42)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: sycophantic LLMs, and the AI Hype Index](https://www.technologyreview.com/2025/05/30/1117620/the-download-sycophantic-llms-and-the-ai-hype-index/)
+**发布时间**: 2025-05-30 12:10
 
 ---
 
