@@ -120,12 +120,6 @@
         "rss": "https://export.arxiv.org/rss/cs.LG"
     },
     {
-        "name": "GitHub Trending",
-        "category": "Technology",
-        "language": "en",
-        "rss": "https://github.com/trending.atom"
-    },
-    {
         "name": "InfoQ 中文站",
         "category": "Technology",
         "language": "zh",
