@@ -281,7 +281,7 @@ RSS_LINKS_PLACEHOLDER
     rss_links = ""
     if os.path.exists('feed'):
         if os.getenv('GITHUB_ACTIONS') == 'true':
-            base_url = "https://zskksz.asia"
+            base_url = "https://zskksz.asia/News-Agent"
         else:
             base_url = "."  # 本地预览
         
@@ -381,7 +381,7 @@ def main():
         
         # GitHub Actions环境提示
         if os.getenv('GITHUB_ACTIONS') == 'true':
-            base_url = "https://zskksz.asia"
+            base_url = "https://zskksz.asia/News-Agent"
             print(f"\n🌐 网站地址: {base_url}")
             print(f"📡 RSS订阅基础地址: {base_url}/feed/")
         
