@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 May 2025 03:12:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 03:19:41 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 04:25:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 04:25:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>优步针对微服务和大规模计算工作负载完成了大规模的Kubernetes迁移</title>
+      <link>https://www.infoq.cn/article/Z4sWPvDQUMHDzxq098UD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[优步针对微服务和大规模计算工作负载完成了大规模的Kubernetes迁移]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Z4sWPvDQUMHDzxq098UD?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>通义灵码出了 IDE</title>
+      <link>https://www.v2ex.com/t/1135587#reply2</link>
+      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply2</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>公网映射 NAS，如何保证安全</title>
+      <link>https://www.v2ex.com/t/1135582#reply11</link>
+      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply11</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>你们是怎么使用 Cursor 的？</title>
+      <link>https://www.v2ex.com/t/1135564#reply8</link>
+      <description>&lt;![CDATA[你们是怎么使用 Cursor 的？]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 23:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135564#reply8</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>阿里的公共 dns 是不是最近有问题啊？</title>
+      <link>https://www.v2ex.com/t/1135546#reply10</link>
+      <description>&lt;![CDATA[阿里的公共 dns 是不是最近有问题啊？]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135546#reply10</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>mac mini (2024) 作为家里云虚拟化平台的可行性</title>
+      <link>https://www.v2ex.com/t/1135538#reply21</link>
+      <description>&lt;![CDATA[mac mini (2024) 作为家里云虚拟化平台的可行性]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135538#reply21</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？</title>
+      <link>https://www.v2ex.com/t/1135519#reply16</link>
+      <description>&lt;![CDATA[8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 10:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135519#reply16</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>兄弟们 cursor element3 转 2 不行啊 有没有别的路子</title>
       <link>https://www.v2ex.com/t/1135572#reply1</link>
@@ -755,62 +811,6 @@
       <description>&lt;![CDATA[Chevrolet Corvette ZR1 first drive: hype meets hyperspeed]]&gt;</description>
       <pubDate>Fri, 30 May 2025 14:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/cars/676708/chevrolet-corvette-zr1-first-drive-track-ztk-trim</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo</title>
-      <link>https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring</link>
-      <description>&lt;![CDATA[Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Why I love my Brother 1034D Serger</title>
-      <link>https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites</link>
-      <description>&lt;![CDATA[Why I love my Brother 1034D Serger]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Nintendo will let you limit who your kid can GameChat with on the Switch 2</title>
-      <link>https://www.theverge.com/news/676982/nintendo-switch-2-parental-controls-app-gamechat-restrictions</link>
-      <description>&lt;![CDATA[Nintendo will let you limit who your kid can GameChat with on the Switch 2]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/676982/nintendo-switch-2-parental-controls-app-gamechat-restrictions</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>US v. Google: all the news from the search antitrust showdown</title>
-      <link>https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates</link>
-      <description>&lt;![CDATA[US v. Google: all the news from the search antitrust showdown]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Nintendo’s Switch era took Pokémon collecting to the next level</title>
-      <link>https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x</link>
-      <description>&lt;![CDATA[Nintendo’s Switch era took Pokémon collecting to the next level]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>How the Loudest Voices in AI Went From ‘Regulate Us’ to ‘Unleash Us’</title>
-      <link>https://www.wired.com/story/plaintext-sam-altman-ai-regulation-trump/</link>
-      <description>&lt;![CDATA[How the Loudest Voices in AI Went From ‘Regulate Us’ to ‘Unleash Us’]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/plaintext-sam-altman-ai-regulation-trump/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Best Fitness Trackers of 2025 for Peak Performance</title>
-      <link>https://www.wired.com/gallery/best-fitness-tracker/</link>
-      <description>&lt;![CDATA[Best Fitness Trackers of 2025 for Peak Performance]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-fitness-tracker/</guid>
       <category>Technology</category>
     </item>
   </channel>
