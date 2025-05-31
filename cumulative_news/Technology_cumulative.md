@@ -1,7 +1,151 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-30 16:27
+**最后更新时间**: 2025-05-31 01:42
+
+---
+
+## 🆕 最新更新 (2025-05-31 01:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [酸奶不行了？我们盘点了盒马67款酸奶，发现了这几个秘密](https://www.tmtpost.com/7582974.html)
+**发布时间**: 2025-05-31 09:36
+
+#### [刚上手AI，职场人就踩了幻觉的坑](https://www.tmtpost.com/7582983.html)
+**发布时间**: 2025-05-31 09:36
+
+#### [扫地机器人苦寻新引擎，大疆们却已攻入腹地](https://www.tmtpost.com/7583016.html)
+**发布时间**: 2025-05-31 09:22
+
+#### [腾讯音乐入股SM，回收国内K-POP“难民”？](https://www.tmtpost.com/7582933.html)
+**发布时间**: 2025-05-31 09:15
+
+#### [生物医药大佬谢良志，财富三年骤降155亿](https://www.tmtpost.com/7583019.html)
+**发布时间**: 2025-05-31 09:14
+
+#### [17部电影挤进端午档，阿汤哥大战“娃圈顶流”](https://www.tmtpost.com/7583132.html)
+**发布时间**: 2025-05-31 09:10
+
+#### [不再高歌猛进，理想汽车“慢”下来了｜钛度车库](https://www.tmtpost.com/7582739.html)
+**发布时间**: 2025-05-31 09:06
+
+#### [霸王茶姬上市首秀，还在增长但跑得慢了](https://www.tmtpost.com/7583120.html)
+**发布时间**: 2025-05-31 09:02
+
+#### [谁还记得波导手机？](https://www.tmtpost.com/7583122.html)
+**发布时间**: 2025-05-31 08:51
+
+#### [成立仅一年，这家魔幻车企要吊打比亚迪 | 马上评](https://www.tmtpost.com/7583037.html)
+**发布时间**: 2025-05-31 06:50
+
+#### [110亿美元消费基金募资，折射消费投资逻辑深刻变革](https://www.tmtpost.com/7582996.html)
+**发布时间**: 2025-05-31 06:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [微信测试「朋友圈折叠」功能；华为推尊界 S800，70.8 万起；宇树预热「钢铁侠」新机器人](http://www.geekpark.net/news/349995)
+**发布时间**: 2025-05-31 08:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Redis之父：哪怕被喷我也得说，AI远远落后于人类程序员！开发者跟评：用大模型气得我自己写代码都有劲儿了](https://www.infoq.cn/article/qCLoDkgquLIp57kAkoV3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-31 08:00
+
+#### [Spring AI 1.0发布，通过广泛的模型支持以简化AI应用的开发](https://www.infoq.cn/article/PVZjq5EYapvwExYb48fV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-31 08:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [兄弟们 cursor element3 转 2 不行啊 有没有别的路子](https://www.v2ex.com/t/1135572#reply0)
+**发布时间**: 2025-05-31 01:39
+
+#### [你们是怎么使用 Cursor 的？](https://www.v2ex.com/t/1135564#reply5)
+**发布时间**: 2025-05-30 23:45
+
+#### [有没有适合学习的 AIGC 的开源项目推荐？](https://www.v2ex.com/t/1135557#reply0)
+**发布时间**: 2025-05-30 17:40
+
+#### [修复 Windows 11 24H2 启用 BBR 后的连接问题](https://www.v2ex.com/t/1135554#reply2)
+**发布时间**: 2025-05-30 16:44
+
+#### [vibe coding 新姿势](https://www.v2ex.com/t/1135553#reply5)
+**发布时间**: 2025-05-30 16:07
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply8)
+**发布时间**: 2025-05-30 14:23
+
+#### [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538#reply17)
+**发布时间**: 2025-05-30 13:16
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply14)
+**发布时间**: 2025-05-30 10:02
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply27)
+**发布时间**: 2025-05-30 09:02
+
+#### [飞牛 OS NAS 硬盘推荐](https://www.v2ex.com/t/1135487#reply7)
+**发布时间**: 2025-05-30 07:57
+
+#### [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453#reply22)
+**发布时间**: 2025-05-30 06:35
+
+#### [绿联和极空间 NAS 文件备份问题咨询](https://www.v2ex.com/t/1135315#reply27)
+**发布时间**: 2025-05-30 00:47
+
+#### [告别阿里云：一个合作十年以上老用户的心碎经历](https://www.v2ex.com/t/1135250#reply63)
+**发布时间**: 2025-05-29 09:42
+
+#### [安卓有啥好用的备忘录 需要有 mac 端的](https://www.v2ex.com/t/1135223#reply18)
+**发布时间**: 2025-05-29 08:23
+
+#### [各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~](https://www.v2ex.com/t/1135118#reply57)
+**发布时间**: 2025-05-29 03:44
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [OpenAI wants ChatGPT to be a ‘super assistant’ for every part of your life](https://www.theverge.com/command-line-newsletter/677705/openai-chatgpt-super-assistant)
+**发布时间**: 2025-05-30 23:18
+
+#### [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
+**发布时间**: 2025-05-30 21:46
+
+#### [Grindr&#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)
+**发布时间**: 2025-05-30 21:37
+
+#### [Elon Musk departs DC with a black eye and a tattered reputation](https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla)
+**发布时间**: 2025-05-30 20:10
+
+#### [Microsoft releases a bold new update for Notepad](https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support)
+**发布时间**: 2025-05-30 19:36
+
+#### [Nebraska to adopt law aimed at curbing kids’ time online](https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed)
+**发布时间**: 2025-05-30 19:00
+
+#### [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+**发布时间**: 2025-05-30 18:10
+
+#### [QA workers at ZeniMax reach tentative contract agreement](https://www.theverge.com/news/677317/zenimax-union-tentative-contract-cwa-microsoft)
+**发布时间**: 2025-05-30 17:38
+
+#### [Taylor Swift now owns all of her music](https://www.theverge.com/news/677276/taylor-swift-owns-music-catalog-scooter-braun-shamrock-capital)
+**发布时间**: 2025-05-30 17:03
+
+#### [Two former Polygon writers are starting a new site](https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site)
+**发布时间**: 2025-05-30 17:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [DOGE Is Busier Than Ever—and Trump Says Elon Musk Is 'Really Not Leaving'](https://www.wired.com/story/doge-elon-musk-really-not-leaving/)
+**发布时间**: 2025-05-30 19:01
+
+#### [A Hacker May Have Deepfaked Trump’s Chief of Staff in a Phishing Campaign](https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/)
+**发布时间**: 2025-05-30 18:42
+
+#### [I Converted My Photos Into Short Videos With AI on Honor’s Latest Phones. It’s Weird](https://www.wired.com/story/honor-400-pro-google-ai-image-to-video/)
+**发布时间**: 2025-05-30 12:30
+
+#### [Trump’s Administration Wants to Erase Queer History. An Unconventional Book Club Is Fighting Back](https://www.wired.com/story/trump-wants-to-erase-queer-history-this-unconventional-book-club-is-fighting-back/)
+**发布时间**: 2025-05-30 10:00
 
 ---
 

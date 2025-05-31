@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-30 16:27
+**最后更新时间**: 2025-05-31 01:42
+
+---
+
+## 🆕 最新更新 (2025-05-31 01:42)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [A pivotal OPEC+ decision this weekend could tank crude-oil prices by 10%](https://www.marketwatch.com/bulletins/redirect/go?g=792fb069-4b9d-4741-9c0b-2d4d731797c8&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-31 00:25
+
+#### [Trump doubles steel tariffs to 50%, touts U.S. Steel-Nippon deal](https://www.marketwatch.com/bulletins/redirect/go?g=fe3ef563-ea68-4fa7-959d-c8a2aabf6480&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 23:26
+
+#### [As S&P 500 scores best May in 35 years, tariff worries dim outlook for stocks](https://www.marketwatch.com/bulletins/redirect/go?g=0825464d-d970-4128-bb9f-add971e788ce&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 22:39
+
+#### [‘You're going to panic’: Dimon warns regulators of bond market's coming cracks](https://www.marketwatch.com/bulletins/redirect/go?g=be695221-4a25-4a64-a539-fd93ba8e0001&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 21:04
+
+#### [U.S. stocks end mixed, claw back earlier losses as S&P seals best May since 1990](https://www.marketwatch.com/bulletins/redirect/go?g=bf7469f4-bb06-4e97-8ce5-28f3b2745098&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 20:07
+
+#### [Why rare-earth minerals are key in getting U.S.-China trade talks back on track](https://www.marketwatch.com/bulletins/redirect/go?g=e2b817ba-ecc7-4b91-9688-904117c353a0&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 19:42
+
+#### [Musk’s DOGE legacy: A smaller Social Security struggling under greater demand](https://www.marketwatch.com/bulletins/redirect/go?g=008c4aff-c6ae-41d4-ac91-08d580b7fbdf&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 19:12
+
+#### [How pandemic-era revenge spending is morphing into revenge saving](https://www.marketwatch.com/bulletins/redirect/go?g=56afd33b-acee-4b2e-a820-ecd502ff9759&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 17:37
+
+#### [This Trump administration decision could unleash a maelstrom in your 401(k)](https://www.marketwatch.com/bulletins/redirect/go?g=b8a3c8c5-900d-4d0c-81eb-c9dfc576bf8e&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-30 16:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump doubles steel tariffs to 50%, touts U.S. Steel-Nippon deal still short on details](https://www.marketwatch.com/story/trump-doubles-steel-tariffs-to-50-touts-u-s-steel-nippon-deal-still-short-on-details-b2a3248a?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 23:22
+
+#### [S&P 500 scores best May since 1990, but stocks end month with fresh tariff worries](https://www.marketwatch.com/story/s-p-500-scores-best-may-since-1990-but-stocks-end-month-with-fresh-tariffs-worries-f605410e?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 22:32
+
+#### [‘You are going to panic,’ Jamie Dimon tells regulators about what will happen when the bond market cracks](https://www.marketwatch.com/story/you-are-going-to-panic-jamie-dimon-tells-regulators-about-what-will-happen-when-the-bond-market-cracks-83ee3298?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 20:50
+
+#### [A pivotal OPEC+ decision this weekend could tank crude-oil prices by 10%](https://www.marketwatch.com/story/a-pivotal-opec-decision-this-weekend-could-tank-crude-oil-prices-by-10-d389a6ff?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 20:01
+
+#### [U.S.-China trade talks: Why rare-earth minerals are a sticking point in getting back on track](https://www.marketwatch.com/story/u-s-china-trade-talks-heres-one-sticking-point-in-getting-back-on-track-4863ada7?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 19:37
+
+#### [Regeneron dashes Wall Street’s hopes as COPD treatment trial suffers a failure](https://www.marketwatch.com/story/regeneron-dashes-wall-streets-hopes-as-copd-treatment-trial-suffers-a-failure-1ffb6016?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 19:19
+
+#### [Trump’s trade playbook may be rewritten by the courts, but the U.S. is finished with low tariffs](https://www.marketwatch.com/story/is-trumps-trade-strategy-in-limbo-yes-but-tariff-man-has-options-9a8f3fd9?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 19:06
+
+#### [Marvell tried to ease a big investor concern, but the stock’s slump shows that doubts still linger](https://www.marketwatch.com/story/marvell-tried-to-ease-a-big-investor-concern-but-the-stocks-slump-shows-that-doubts-still-linger-bacf1a45?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 18:21
+
+#### [Tariff indigestion? Nope: Takeout and eating out still going strong in good sign for the economy.](https://www.marketwatch.com/story/tariff-indigestion-nope-takeout-and-eating-out-still-going-strong-in-good-sign-for-the-economy-31992550?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 18:12
 
 ---
 
