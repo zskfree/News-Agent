@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 May 2025 06:27:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 08:25:34 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 10:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 10:20:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ACL 2025 | AI虚拟科学家VirSci模拟科研协作，揭示协作创新机制</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-31</link>
+      <description>&lt;![CDATA[ACL 2025 | AI虚拟科学家VirSci模拟科研协作，揭示协作创新机制]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-31</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Claude团队打开大模型「脑回路」，开源LLM思维可视化工具来了</title>
+      <link>https://www.qbitai.com/2025/05/289491.html</link>
+      <description>&lt;![CDATA[Claude团队打开大模型「脑回路」，开源LLM思维可视化工具来了]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289491.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>1/15成本，实现AI水印新SOTA | 南洋理工大学&amp;A*STAR</title>
       <link>https://www.qbitai.com/2025/05/289945.html</link>
@@ -795,22 +811,6 @@
       <description>&lt;![CDATA[OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.22945</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NegVQA: Can Vision Language Models Understand Negation?</title>
-      <link>https://arxiv.org/abs/2505.22946</link>
-      <description>&lt;![CDATA[NegVQA: Can Vision Language Models Understand Negation?]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22946</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exploring Scaling Laws for EHR Foundation Models</title>
-      <link>https://arxiv.org/abs/2505.22964</link>
-      <description>&lt;![CDATA[Exploring Scaling Laws for EHR Foundation Models]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22964</guid>
       <category>AI</category>
     </item>
   </channel>

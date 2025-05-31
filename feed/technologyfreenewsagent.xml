@@ -5,14 +5,86 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 May 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 08:25:34 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 10:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 10:20:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Twitch is getting vertical livestreams</title>
+      <link>https://www.theverge.com/news/677548/twitch-twitchcon-europe-vertical-livestreams-2k-streaming-rewind</link>
+      <description>&lt;![CDATA[Twitch is getting vertical livestreams]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 09:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/677548/twitch-twitchcon-europe-vertical-livestreams-2k-streaming-rewind</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
+      <link>https://www.v2ex.com/t/1135615#reply21</link>
+      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply21</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统</title>
+      <link>https://www.v2ex.com/t/1135607#reply6</link>
+      <description>&lt;![CDATA[四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135607#reply6</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>通义灵码出了 IDE</title>
+      <link>https://www.v2ex.com/t/1135587#reply21</link>
+      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply21</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>公网映射 NAS，如何保证安全</title>
+      <link>https://www.v2ex.com/t/1135582#reply26</link>
+      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply26</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>mac mini (2024) 作为家里云虚拟化平台的可行性</title>
+      <link>https://www.v2ex.com/t/1135538#reply33</link>
+      <description>&lt;![CDATA[mac mini (2024) 作为家里云虚拟化平台的可行性]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135538#reply33</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们</title>
+      <link>https://www.v2ex.com/t/1135503#reply31</link>
+      <description>&lt;![CDATA[想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135503#reply31</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Claude Code 好用么？</title>
+      <link>https://www.v2ex.com/t/1135375#reply9</link>
+      <description>&lt;![CDATA[Claude Code 好用么？]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 03:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135375#reply9</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>在英国做实习开发的一些体验分享</title>
+      <link>https://www.v2ex.com/t/1135034#reply10</link>
+      <description>&lt;![CDATA[在英国做实习开发的一些体验分享]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 20:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135034#reply10</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>中国新贵不需要Old Money的勋章：比音勒芬引爆的文化自信经济学</title>
       <link>https://www.tmtpost.com/7582140.html</link>
@@ -739,78 +811,6 @@
       <description>&lt;![CDATA[Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app]]&gt;</description>
       <pubDate>Fri, 30 May 2025 21:37:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/news/677134/grindr-right-now-ai</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Elon Musk departs DC with a black eye and a tattered reputation</title>
-      <link>https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla</link>
-      <description>&lt;![CDATA[Elon Musk departs DC with a black eye and a tattered reputation]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 20:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Microsoft releases a bold new update for Notepad</title>
-      <link>https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support</link>
-      <description>&lt;![CDATA[Microsoft releases a bold new update for Notepad]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 19:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Nebraska to adopt law aimed at curbing kids’ time online</title>
-      <link>https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed</link>
-      <description>&lt;![CDATA[Nebraska to adopt law aimed at curbing kids’ time online]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The best Nintendo Switch controllers to buy right now</title>
-      <link>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</link>
-      <description>&lt;![CDATA[The best Nintendo Switch controllers to buy right now]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 18:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>QA workers at ZeniMax reach tentative contract agreement</title>
-      <link>https://www.theverge.com/news/677317/zenimax-union-tentative-contract-cwa-microsoft</link>
-      <description>&lt;![CDATA[QA workers at ZeniMax reach tentative contract agreement]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/677317/zenimax-union-tentative-contract-cwa-microsoft</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Taylor Swift now owns all of her music</title>
-      <link>https://www.theverge.com/news/677276/taylor-swift-owns-music-catalog-scooter-braun-shamrock-capital</link>
-      <description>&lt;![CDATA[Taylor Swift now owns all of her music]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/677276/taylor-swift-owns-music-catalog-scooter-braun-shamrock-capital</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Two former Polygon writers are starting a new site</title>
-      <link>https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site</link>
-      <description>&lt;![CDATA[Two former Polygon writers are starting a new site]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>DOGE Is Busier Than Ever—and Trump Says Elon Musk Is 'Really Not Leaving'</title>
-      <link>https://www.wired.com/story/doge-elon-musk-really-not-leaving/</link>
-      <description>&lt;![CDATA[DOGE Is Busier Than Ever—and Trump Says Elon Musk Is 'Really Not Leaving']]&gt;</description>
-      <pubDate>Fri, 30 May 2025 19:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/doge-elon-musk-really-not-leaving/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>A Hacker May Have Deepfaked Trump’s Chief of Staff in a Phishing Campaign</title>
-      <link>https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/</link>
-      <description>&lt;![CDATA[A Hacker May Have Deepfaked Trump’s Chief of Staff in a Phishing Campaign]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/</guid>
       <category>Technology</category>
     </item>
   </channel>
