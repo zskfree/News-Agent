@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-31 10:20
+**最后更新时间**: 2025-05-31 12:38
+
+---
+
+## 🆕 最新更新 (2025-05-31 12:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [王老吉海外首次建厂，Insta360即将登陆科创板，柠季海外已签约15家门店｜出海参考](https://www.tmtpost.com/7583489.html)
+**发布时间**: 2025-05-31 18:50
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
+**发布时间**: 2025-05-31 12:30
+
+#### [Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery](https://www.wired.com/review/nike-x-hyperice-hyperboots/)
+**发布时间**: 2025-05-31 12:02
+
+#### [Never Drink Alone: A Guide to Turkish Coffee](https://www.wired.com/story/a-guide-to-turkish-coffee/)
+**发布时间**: 2025-05-31 11:34
+
+#### [Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar](https://www.wired.com/story/analysts-say-trump-trade-wars-would-harm-the-entire-us-energy-sector-from-oil-to-solar/)
+**发布时间**: 2025-05-31 11:00
+
+#### [Apple's Big OS Rebrand, OnePlus Embraces AI, and Samsung's Next Folds—Your Gear News of the Week](https://www.wired.com/story/apples-big-os-rebrand-oneplus-ai-embrace-and-samsungs-next-folds-your-gear-news-of-the-week/)
+**发布时间**: 2025-05-31 10:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Slate Auto FAQ: your questions answered](https://www.theverge.com/electric-cars/676036/slate-auto-faq-truck-ev-specs-price-tariff)
+**发布时间**: 2025-05-31 12:00
+
+#### [Playdate’s second season is off to a great (and very weird) start](https://www.theverge.com/games/677197/playdate-season-2-game-review)
+**发布时间**: 2025-05-31 12:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [房子现在是不是已经不属于优质资产了？](https://www.v2ex.com/t/1135635#reply7)
+**发布时间**: 2025-05-31 10:57
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply36)
+**发布时间**: 2025-05-31 07:34
+
+#### [四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统](https://www.v2ex.com/t/1135607#reply7)
+**发布时间**: 2025-05-31 06:53
+
+#### [通义灵码出了 IDE](https://www.v2ex.com/t/1135587#reply22)
+**发布时间**: 2025-05-31 03:50
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply28)
+**发布时间**: 2025-05-31 03:21
+
+#### [兄弟们 cursor element3 转 2 不行啊 有没有别的路子](https://www.v2ex.com/t/1135572#reply2)
+**发布时间**: 2025-05-31 01:39
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply13)
+**发布时间**: 2025-05-30 14:23
+
+#### [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538#reply34)
+**发布时间**: 2025-05-30 13:16
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply17)
+**发布时间**: 2025-05-30 10:02
+
+#### [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453#reply24)
+**发布时间**: 2025-05-30 06:35
+
+#### [智能体的形式会不会终结?](https://www.v2ex.com/t/1135448#reply12)
+**发布时间**: 2025-05-30 06:28
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply63)
+**发布时间**: 2025-05-29 05:00
 
 ---
 

@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-31 11:04
+**最后更新时间**: 2025-05-31 12:38
+
+---
+
+## 🆕 最新更新 (2025-05-31 12:38)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Can media company spinoffs of brands like CNN and CNBC be good for investors? Here’s what history tells us.](https://www.marketwatch.com/story/can-media-company-spinoffs-of-brands-like-cnn-and-cnbc-be-good-for-investors-heres-what-history-tells-us-44c9e2b8?mod=mw_rss_topstories)
+**发布时间**: 2025-05-31 12:30
+
+#### [‘I am getting very frustrated’: My mother’s adviser has not returned my calls. He manages $1 million. Is this normal?](https://www.marketwatch.com/story/i-am-getting-very-frustrated-my-mothers-adviser-has-not-returned-my-calls-he-manages-1-million-is-this-normal-346d87ab?mod=mw_rss_topstories)
+**发布时间**: 2025-05-31 11:32
+
+#### [These 3 corporate tax breaks in the Republican megabill look key for investors](https://www.marketwatch.com/story/these-3-corporate-tax-breaks-in-the-republican-megabill-look-key-for-investors-c9b32ba6?mod=mw_rss_topstories)
+**发布时间**: 2025-05-31 11:00
 
 ---
 
