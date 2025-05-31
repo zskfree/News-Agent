@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-31 04:25
+**最后更新时间**: 2025-05-31 06:28
+
+---
+
+## 🆕 最新更新 (2025-05-31 06:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Reids在AGPL许可证下重回开源：是否为时已晚？](https://www.infoq.cn/article/elw56vedGmwP8WHiip2B?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-31 14:00
+
+#### [谷歌发布新版LiteRT，增强设备机器学习推理能力](https://www.infoq.cn/article/rFOvsZ8HoVdiaZB9H2SR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-05-31 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [消费金融深度融合购物节：免息分期+满减狂欢，银行让利背后的生意经](https://www.tmtpost.com/7583234.html)
+**发布时间**: 2025-05-31 12:48
+
+#### [视频大模型or“赛博造纸术”？AI开启内容商业化的新周期](https://www.tmtpost.com/7582958.html)
+**发布时间**: 2025-05-31 12:37
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Visible Promo Code: Save Up to $400 in June 2025](https://www.wired.com/story/visible-promo-code/)
+**发布时间**: 2025-05-31 05:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [通义灵码出了 IDE](https://www.v2ex.com/t/1135587#reply10)
+**发布时间**: 2025-05-31 03:50
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply18)
+**发布时间**: 2025-05-31 03:21
+
+#### [你们是怎么使用 Cursor 的？](https://www.v2ex.com/t/1135564#reply15)
+**发布时间**: 2025-05-30 23:45
+
+#### [vibe coding 新姿势](https://www.v2ex.com/t/1135553#reply6)
+**发布时间**: 2025-05-30 16:07
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply11)
+**发布时间**: 2025-05-30 14:23
+
+#### [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538#reply25)
+**发布时间**: 2025-05-30 13:16
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply29)
+**发布时间**: 2025-05-30 09:02
+
+#### [发现 cursor 里面不能用微软原版的 c/c++插件了](https://www.v2ex.com/t/1135491#reply16)
+**发布时间**: 2025-05-30 08:07
+
+#### [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453#reply23)
+**发布时间**: 2025-05-30 06:35
+
+#### [写了个上班打卡记录 app](https://www.v2ex.com/t/1135433#reply12)
+**发布时间**: 2025-05-30 05:49
+
+#### [安卓有啥好用的备忘录 需要有 mac 端的](https://www.v2ex.com/t/1135223#reply21)
+**发布时间**: 2025-05-29 08:23
+
+#### [自荐我的开源项目 PakePlus，将网页秒变跨平台应用的打包工具](https://www.v2ex.com/t/1134856#reply62)
+**发布时间**: 2025-05-28 04:28
+
+#### [\[求助\] Go 项目中大量第三方 SDK 需要访问外部域名，但甲方要求全部走内网代理，有哪些优雅处理方式？](https://www.v2ex.com/t/1134781#reply71)
+**发布时间**: 2025-05-28 01:32
 
 ---
 

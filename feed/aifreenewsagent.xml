@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 May 2025 16:26:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 04:25:03 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 06:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 06:28:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>1/15成本，实现AI水印新SOTA | 南洋理工大学&amp;A*STAR</title>
+      <link>https://www.qbitai.com/2025/05/289945.html</link>
+      <description>&lt;![CDATA[1/15成本，实现AI水印新SOTA | 南洋理工大学&amp;A*STAR]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 04:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289945.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里通义开源「推理+搜索」预训练新框架：小模型媲美大模型，多个开放域问答数据集表现显著提升</title>
+      <link>https://www.qbitai.com/2025/05/289933.html</link>
+      <description>&lt;![CDATA[阿里通义开源「推理+搜索」预训练新框架：小模型媲美大模型，多个开放域问答数据集表现显著提升]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 04:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289933.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>陶哲轩转发！DeepMind开源「AI数学证明标准习题集」</title>
+      <link>https://www.qbitai.com/2025/05/289920.html</link>
+      <description>&lt;![CDATA[陶哲轩转发！DeepMind开源「AI数学证明标准习题集」]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 04:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289920.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>斯坦福意外用AI生成超强CUDA内核，性能比人类专家优化得还要好！翻倍碾压原生PyTorch，华人主创</title>
+      <link>https://www.qbitai.com/2025/05/289876.html</link>
+      <description>&lt;![CDATA[斯坦福意外用AI生成超强CUDA内核，性能比人类专家优化得还要好！翻倍碾压原生PyTorch，华人主创]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/05/289876.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>Fueling seamless AI at scale</title>
       <link>https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/</link>
@@ -779,38 +811,6 @@
       <description>&lt;![CDATA[Exploring Scaling Laws for EHR Foundation Models]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.22964</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>EquiReg: Equivariance Regularized Diffusion for Inverse Problems</title>
-      <link>https://arxiv.org/abs/2505.22973</link>
-      <description>&lt;![CDATA[EquiReg: Equivariance Regularized Diffusion for Inverse Problems]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22973</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Toward Memory-Aided World Models: Benchmarking via Spatial Consistency</title>
-      <link>https://arxiv.org/abs/2505.22976</link>
-      <description>&lt;![CDATA[Toward Memory-Aided World Models: Benchmarking via Spatial Consistency]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22976</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Knowledge Distillation for Reservoir-based Classifier: Human Activity Recognition</title>
-      <link>https://arxiv.org/abs/2505.22985</link>
-      <description>&lt;![CDATA[Knowledge Distillation for Reservoir-based Classifier: Human Activity Recognition]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22985</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Model-Preserving Adaptive Rounding</title>
-      <link>https://arxiv.org/abs/2505.22988</link>
-      <description>&lt;![CDATA[Model-Preserving Adaptive Rounding]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22988</guid>
       <category>AI</category>
     </item>
   </channel>
