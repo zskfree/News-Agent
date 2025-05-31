@@ -280,9 +280,8 @@ RSS_LINKS_PLACEHOLDER
     # 检查是否有现有的RSS文件，动态生成链接
     rss_links = ""
     if os.path.exists('feed'):
-        repo_name = os.getenv('GITHUB_REPOSITORY', 'your-username/News-Agent')
         if os.getenv('GITHUB_ACTIONS') == 'true':
-            base_url = f"https://{repo_name.split('/')[0]}.github.io/{repo_name.split('/')[1]}"
+            base_url = "https://zskfree.github.io"
         else:
             base_url = "."  # 本地预览
         
@@ -382,8 +381,7 @@ def main():
         
         # GitHub Actions环境提示
         if os.getenv('GITHUB_ACTIONS') == 'true':
-            repo_name = os.getenv('GITHUB_REPOSITORY', 'your-username/News-Agent')
-            base_url = f"https://{repo_name.split('/')[0]}.github.io/{repo_name.split('/')[1]}"
+            base_url = "https://zskfree.github.io"
             print(f"\n🌐 GitHub Pages URL: {base_url}")
             print(f"📡 RSS订阅基础地址: {base_url}/feed/")
         

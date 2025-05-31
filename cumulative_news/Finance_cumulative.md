@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-31 01:42
+**最后更新时间**: 2025-05-31 11:04
+
+---
+
+## 🆕 最新更新 (2025-05-31 11:04)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump’s playbook may be tossed, but higher tariffs are here to stay — one way or another](https://www.marketwatch.com/story/is-trumps-trade-strategy-in-limbo-yes-but-tariff-man-has-options-9a8f3fd9?mod=mw_rss_topstories)
+**发布时间**: 2025-05-30 19:06
 
 ---
 
