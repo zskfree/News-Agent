@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 May 2025 10:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 14:17:51 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 16:24:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 16:24:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI未公开的o3「用图思考」技术，被小红书、西安交大尝试实现了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-31-6</link>
+      <description>&lt;![CDATA[OpenAI未公开的o3「用图思考」技术，被小红书、西安交大尝试实现了]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 23:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-31-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型推理的“左右脑”革命！华为盘古Embedded凭昇腾之力，让快慢思考合二为一</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-31-5</link>
+      <description>&lt;![CDATA[大模型推理的“左右脑”革命！华为盘古Embedded凭昇腾之力，让快慢思考合二为一]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 23:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-31-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>250美元起售，还开源，Hugging Face 发布史上最亲民人形机器人</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-31-4</link>
+      <description>&lt;![CDATA[250美元起售，还开源，Hugging Face 发布史上最亲民人形机器人]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 23:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-31-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SSM+扩散模型，竟造出一种全新的「视频世界模型」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-31-3</link>
+      <description>&lt;![CDATA[SSM+扩散模型，竟造出一种全新的「视频世界模型」]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 23:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-31-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从打分器到思考者：RM-R1用推理重塑模型价值判断</title>
+      <link>https://www.jiqizhixin.com/articles/2025-05-31-2</link>
+      <description>&lt;![CDATA[从打分器到思考者：RM-R1用推理重塑模型价值判断]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 23:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-05-31-2</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>ACL 2025 | AI虚拟科学家VirSci模拟科研协作，揭示协作创新机制</title>
       <link>https://www.jiqizhixin.com/articles/2025-05-31</link>
@@ -771,46 +811,6 @@
       <description>&lt;![CDATA[Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.22934</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Generative Social Choice: The Next Generation</title>
-      <link>https://arxiv.org/abs/2505.22939</link>
-      <description>&lt;![CDATA[Generative Social Choice: The Next Generation]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22939</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2505.22942</link>
-      <description>&lt;![CDATA[WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22942</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates</title>
-      <link>https://arxiv.org/abs/2505.22943</link>
-      <description>&lt;![CDATA[Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22943</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ATI: Any Trajectory Instruction for Controllable Video Generation</title>
-      <link>https://arxiv.org/abs/2505.22944</link>
-      <description>&lt;![CDATA[ATI: Any Trajectory Instruction for Controllable Video Generation]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22944</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature</title>
-      <link>https://arxiv.org/abs/2505.22945</link>
-      <description>&lt;![CDATA[OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22945</guid>
       <category>AI</category>
     </item>
   </channel>

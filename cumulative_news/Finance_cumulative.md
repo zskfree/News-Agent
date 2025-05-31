@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-31 14:17
+**最后更新时间**: 2025-05-31 16:24
+
+---
+
+## 🆕 最新更新 (2025-05-31 16:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My friend is getting divorced. Her husband kindly said, ‘Take the house.’ Is there a catch?](https://www.marketwatch.com/story/my-friend-is-getting-divorced-her-husband-says-take-the-house-is-there-a-catch-ca7ababc?mod=mw_rss_topstories)
+**发布时间**: 2025-05-31 15:30
+
+#### [My husband and I earn $115K. We’re inheriting $300K. Should we invest in real estate or stock?](https://www.marketwatch.com/story/my-husband-and-i-earn-115k-and-owe-220k-on-our-home-were-inheriting-300k-should-we-buy-real-estate-or-stock-a59ed144?mod=mw_rss_topstories)
+**发布时间**: 2025-05-31 14:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [What media company spinoffs of brands like CNN and CNBC can do for investors](https://www.marketwatch.com/bulletins/redirect/go?g=3f61a3a1-147d-4da2-83c0-2de90880e53f&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-31 14:18
 
 ---
 
