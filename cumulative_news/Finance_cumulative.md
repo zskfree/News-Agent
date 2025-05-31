@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-31 12:38
+**最后更新时间**: 2025-05-31 14:17
+
+---
+
+## 🆕 最新更新 (2025-05-31 14:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These 3 corporate tax breaks in the Republican megabill look key for investors](https://www.marketwatch.com/bulletins/redirect/go?g=7de68a45-4483-43d5-b6cf-6f6e5b00e3fa&mod=mw_rss_bulletins)
+**发布时间**: 2025-05-31 13:19
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the government’s debt problem is your borrowing problem — but also your opportunity to save](https://www.marketwatch.com/story/why-the-governments-debt-problem-is-your-borrowing-problem-but-also-your-opportunity-to-save-1201543c?mod=mw_rss_topstories)
+**发布时间**: 2025-05-31 13:00
 
 ---
 
