@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 May 2025 16:24:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Jun 2025 12:39:37 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 14:17:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:17:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amid tariff agita, Wall Street is a bit more cautious than normal on second-quarter earnings</title>
+      <link>https://www.marketwatch.com/story/amid-tariff-agita-wall-street-is-a-bit-more-cautious-than-normal-on-second-quarter-earnings-6e75cefd?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Amid tariff agita, Wall Street is a bit more cautious than normal on second-quarter earnings]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/amid-tariff-agita-wall-street-is-a-bit-more-cautious-than-normal-on-second-quarter-earnings-6e75cefd?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>My friend is getting divorced. Her husband kindly said, ‘Take the house.’ Is there a catch?</title>
       <link>https://www.marketwatch.com/story/my-friend-is-getting-divorced-her-husband-says-take-the-house-is-there-a-catch-ca7ababc?mod=mw_rss_topstories</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[Jobless claims jump to 5-week high — but not because layoffs in the U.S. are rising]]&gt;</description>
       <pubDate>Thu, 29 May 2025 13:37:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/jobless-claims-jump-to-5-week-high-but-not-because-layoffs-are-rising-a7891a22?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s what firms managing $20 trillion are actually doing. And they’re not buying U.S. stocks.</title>
-      <link>https://www.marketwatch.com/story/heres-what-firms-managing-20-trillion-are-actually-doing-and-theyre-not-buying-u-s-stocks-a549f75c?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Here’s what firms managing $20 trillion are actually doing. And they’re not buying U.S. stocks.]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-what-firms-managing-20-trillion-are-actually-doing-and-theyre-not-buying-u-s-stocks-a549f75c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

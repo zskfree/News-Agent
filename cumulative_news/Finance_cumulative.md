@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-05-31 16:24
+**最后更新时间**: 2025-06-01 14:17
+
+---
+
+## 🆕 最新更新 (2025-06-01 14:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amid tariff agita, Wall Street is a bit more cautious than normal on second-quarter earnings](https://www.marketwatch.com/story/amid-tariff-agita-wall-street-is-a-bit-more-cautious-than-normal-on-second-quarter-earnings-6e75cefd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-01 14:00
 
 ---
 
