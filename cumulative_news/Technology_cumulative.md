@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-06-01 04:36
+**最后更新时间**: 2025-06-01 06:29
+
+---
+
+## 🆕 最新更新 (2025-06-01 06:29)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [20% Off Brooks Promo Code & Deals for June 2025](https://www.wired.com/story/brooks-promo-code/)
+**发布时间**: 2025-06-01 05:35
+
+#### [Bose Coupon Codes & Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)
+**发布时间**: 2025-06-01 05:15
+
+#### [B&H Photo Promo Codes and Deals for June 2025](https://www.wired.com/story/bh-photo-coupon/)
+**发布时间**: 2025-06-01 05:10
+
+#### [Blue Apron Coupons: $80 Off + Free Shipping | June 2025](https://www.wired.com/story/blue-apron-coupon/)
+**发布时间**: 2025-06-01 05:05
+
+#### [1Password Coupon: Get Up to 50% Off in June](https://www.wired.com/story/1password-coupon/)
+**发布时间**: 2025-06-01 05:00
+
+#### [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+**发布时间**: 2025-06-01 05:00
+
+#### [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
+**发布时间**: 2025-06-01 05:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [Deepseek 的自我阉割](https://www.v2ex.com/t/1135706#reply2)
+**发布时间**: 2025-06-01 05:22
+
+#### [小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行](https://www.v2ex.com/t/1135703#reply3)
+**发布时间**: 2025-06-01 04:44
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply9)
+**发布时间**: 2025-06-01 03:48
+
+#### [送一份 Ethers.js web3 快速入门教程](https://www.v2ex.com/t/1135697#reply2)
+**发布时间**: 2025-06-01 03:36
+
+#### [今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速](https://www.v2ex.com/t/1135682#reply11)
+**发布时间**: 2025-06-01 01:29
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply42)
+**发布时间**: 2025-05-31 03:21
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply37)
+**发布时间**: 2025-05-30 09:02
+
+#### [发现 cursor 里面不能用微软原版的 c/c++插件了](https://www.v2ex.com/t/1135491#reply18)
+**发布时间**: 2025-05-30 08:07
+
+#### [智能体的形式会不会终结?](https://www.v2ex.com/t/1135448#reply16)
+**发布时间**: 2025-05-30 06:28
+
+#### [组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？](https://www.v2ex.com/t/1135342#reply39)
+**发布时间**: 2025-05-30 01:58
 
 ---
 
