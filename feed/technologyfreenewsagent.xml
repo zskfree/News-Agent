@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Jun 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Jun 2025 08:26:47 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 10:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 10:21:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>We Bought a ‘Peeing’ Robot Attack Dog From Temu. It Was Even Weirder Than Expected</title>
+      <link>https://www.wired.com/story/we-bought-a-peeing-robot-attack-dog-from-temu/</link>
+      <description>&lt;![CDATA[We Bought a ‘Peeing’ Robot Attack Dog From Temu. It Was Even Weirder Than Expected]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/we-bought-a-peeing-robot-attack-dog-from-temu/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Deepseek 的自我阉割</title>
+      <link>https://www.v2ex.com/t/1135706#reply13</link>
+      <description>&lt;![CDATA[Deepseek 的自我阉割]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 05:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135706#reply13</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
+      <link>https://www.v2ex.com/t/1135699#reply15</link>
+      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply15</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>送一份 Ethers.js web3 快速入门教程</title>
+      <link>https://www.v2ex.com/t/1135697#reply3</link>
+      <description>&lt;![CDATA[送一份 Ethers.js web3 快速入门教程]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135697#reply3</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速</title>
+      <link>https://www.v2ex.com/t/1135682#reply12</link>
+      <description>&lt;![CDATA[今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 01:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135682#reply12</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
+      <link>https://www.v2ex.com/t/1135615#reply68</link>
+      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply68</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>公网映射 NAS，如何保证安全</title>
+      <link>https://www.v2ex.com/t/1135582#reply43</link>
+      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply43</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>阿里的公共 dns 是不是最近有问题啊？</title>
+      <link>https://www.v2ex.com/t/1135546#reply17</link>
+      <description>&lt;![CDATA[阿里的公共 dns 是不是最近有问题啊？]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135546#reply17</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智能体的形式会不会终结?</title>
+      <link>https://www.v2ex.com/t/1135448#reply18</link>
+      <description>&lt;![CDATA[智能体的形式会不会终结?]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135448#reply18</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>安卓有啥好用的备忘录 需要有 mac 端的</title>
+      <link>https://www.v2ex.com/t/1135223#reply24</link>
+      <description>&lt;![CDATA[安卓有啥好用的备忘录 需要有 mac 端的]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 08:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135223#reply24</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想趁 618 入手一台 nas，极空间和群晖二选一</title>
+      <link>https://www.v2ex.com/t/1135203#reply52</link>
+      <description>&lt;![CDATA[想趁 618 入手一台 nas，极空间和群晖二选一]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135203#reply52</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>光与影的突围：从特摄开端，到中国本土特摄的早期探索</title>
       <link>https://sspai.com/post/98124</link>
@@ -723,94 +811,6 @@
       <description>&lt;![CDATA[外国剁手党们，催着中国电商集体出海]]&gt;</description>
       <pubDate>Sat, 31 May 2025 20:55:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.tmtpost.com/7583334.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Priority Current Plus Ebike Review: Serious Power, Effortless Fun</title>
-      <link>https://www.wired.com/review/priority-current-plus-electric-bike/</link>
-      <description>&lt;![CDATA[Priority Current Plus Ebike Review: Serious Power, Effortless Fun]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/review/priority-current-plus-electric-bike/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements</title>
-      <link>https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/</link>
-      <description>&lt;![CDATA[Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 13:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Sony’s DualSense Edge controller is receiving a rare $30 discount</title>
-      <link>https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale</link>
-      <description>&lt;![CDATA[Sony’s DualSense Edge controller is receiving a rare $30 discount]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The Switch 2&amp;#8217;s promising start hides an uncertain future</title>
-      <link>https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future</link>
-      <description>&lt;![CDATA[The Switch 2&amp;#8217;s promising start hides an uncertain future]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>房子现在是不是已经不属于优质资产了？</title>
-      <link>https://www.v2ex.com/t/1135635#reply9</link>
-      <description>&lt;![CDATA[房子现在是不是已经不属于优质资产了？]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135635#reply9</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
-      <link>https://www.v2ex.com/t/1135615#reply39</link>
-      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply39</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>通义灵码出了 IDE</title>
-      <link>https://www.v2ex.com/t/1135587#reply25</link>
-      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply25</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>公网映射 NAS，如何保证安全</title>
-      <link>https://www.v2ex.com/t/1135582#reply32</link>
-      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply32</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>修复 Windows 11 24H2 启用 BBR 后的连接问题</title>
-      <link>https://www.v2ex.com/t/1135554#reply3</link>
-      <description>&lt;![CDATA[修复 Windows 11 24H2 启用 BBR 后的连接问题]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 16:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135554#reply3</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里的公共 dns 是不是最近有问题啊？</title>
-      <link>https://www.v2ex.com/t/1135546#reply14</link>
-      <description>&lt;![CDATA[阿里的公共 dns 是不是最近有问题啊？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135546#reply14</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>飞牛 OS NAS 硬盘推荐</title>
-      <link>https://www.v2ex.com/t/1135487#reply9</link>
-      <description>&lt;![CDATA[飞牛 OS NAS 硬盘推荐]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135487#reply9</guid>
       <category>Technology</category>
     </item>
   </channel>
