@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-06-01 14:17
+**最后更新时间**: 2025-06-01 16:24
+
+---
+
+## 🆕 最新更新 (2025-06-01 16:24)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [How college students built the fastest Rubik’s Cube-solving robot yet](https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving)
+**发布时间**: 2025-06-01 16:00
+
+#### [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
+**发布时间**: 2025-06-01 15:00
+
+#### [Why do lawyers keep using ChatGPT?](https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai)
+**发布时间**: 2025-06-01 14:30
+
+#### [A new movie taking on the tech bros](https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer)
+**发布时间**: 2025-06-01 14:27
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [绿联 dxp4800 安装黑群晖后老是自动重启](https://www.v2ex.com/t/1135768#reply0)
+**发布时间**: 2025-06-01 15:40
+
+#### [异步架构的设计困惑](https://www.v2ex.com/t/1135758#reply2)
+**发布时间**: 2025-06-01 14:31
+
+#### [有用 LiveKit 开发过视频语音会议系统的嘛](https://www.v2ex.com/t/1135748#reply3)
+**发布时间**: 2025-06-01 12:49
+
+#### [《高性能 MySQL》第三版：是否已经过时？](https://www.v2ex.com/t/1135741#reply11)
+**发布时间**: 2025-06-01 11:58
+
+#### [兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！](https://www.v2ex.com/t/1135713#reply4)
+**发布时间**: 2025-06-01 06:30
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply23)
+**发布时间**: 2025-06-01 03:48
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply80)
+**发布时间**: 2025-05-31 07:34
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply48)
+**发布时间**: 2025-05-31 03:21
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply21)
+**发布时间**: 2025-05-30 14:23
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply20)
+**发布时间**: 2025-05-30 10:02
+
+#### [想趁 618 入手一台 nas，极空间和群晖二选一](https://www.v2ex.com/t/1135203#reply55)
+**发布时间**: 2025-05-29 07:21
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [13 Best Soundbars We’ve Tested and Reviewed (2025): Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+**发布时间**: 2025-06-01 15:03
 
 ---
 

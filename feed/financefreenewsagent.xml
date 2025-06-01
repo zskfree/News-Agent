@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Jun 2025 14:17:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Jun 2025 14:17:50 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 16:24:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 16:24:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stock market’s haul in May comes as tariff turmoil and job angst lurk on the horizon</title>
+      <link>https://www.marketwatch.com/story/stock-markets-haul-in-may-comes-as-tariff-turmoil-and-job-angst-lurk-on-the-horizon-fa05f348?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stock market’s haul in May comes as tariff turmoil and job angst lurk on the horizon]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stock-markets-haul-in-may-comes-as-tariff-turmoil-and-job-angst-lurk-on-the-horizon-fa05f348?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Amid tariff agita, Wall Street is a bit more cautious than normal on second-quarter earnings</title>
       <link>https://www.marketwatch.com/story/amid-tariff-agita-wall-street-is-a-bit-more-cautious-than-normal-on-second-quarter-earnings-6e75cefd?mod=mw_rss_topstories</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[Kohl’s stock soars as a sales beat, affirmed outlook soothes some tariff fears]]&gt;</description>
       <pubDate>Thu, 29 May 2025 13:56:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/kohls-stock-climbs-on-q1-revenue-beat-reaffirmed-outlook-e5baf4a7?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Jobless claims jump to 5-week high — but not because layoffs in the U.S. are rising</title>
-      <link>https://www.marketwatch.com/story/jobless-claims-jump-to-5-week-high-but-not-because-layoffs-are-rising-a7891a22?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Jobless claims jump to 5-week high — but not because layoffs in the U.S. are rising]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/jobless-claims-jump-to-5-week-high-but-not-because-layoffs-are-rising-a7891a22?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

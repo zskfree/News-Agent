@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-06-01 14:17
+**最后更新时间**: 2025-06-01 16:24
+
+---
+
+## 🆕 最新更新 (2025-06-01 16:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock market’s haul in May comes as tariff turmoil and job angst lurk on the horizon](https://www.marketwatch.com/story/stock-markets-haul-in-may-comes-as-tariff-turmoil-and-job-angst-lurk-on-the-horizon-fa05f348?mod=mw_rss_topstories)
+**发布时间**: 2025-06-01 16:00
 
 ---
 

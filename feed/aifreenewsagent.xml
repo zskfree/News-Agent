@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Jun 2025 06:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Jun 2025 14:17:50 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 16:24:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 16:24:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>陶哲轩：感谢Lean，我又重写了20年前经典教材！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-01-4</link>
+      <description>&lt;![CDATA[陶哲轩：感谢Lean，我又重写了20年前经典教材！]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 23:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-01-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SFT在帮倒忙？新研究：直接进行强化学习，模型多模态推理上限更高</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-01-3</link>
+      <description>&lt;![CDATA[SFT在帮倒忙？新研究：直接进行强化学习，模型多模态推理上限更高]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 23:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-01-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>极低成本，复现GPT-4o图像风格化一致性！NUS推出OmniConsistency</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-01-2</link>
+      <description>&lt;![CDATA[极低成本，复现GPT-4o图像风格化一致性！NUS推出OmniConsistency]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 23:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-01-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CVPR 2025 Highlight | 提升自回归模型样例学习能力，Few-shot图像编辑新范式开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-01</link>
+      <description>&lt;![CDATA[CVPR 2025 Highlight | 提升自回归模型样例学习能力，Few-shot图像编辑新范式开源]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 23:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-01</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>挑战强化学习后训练霸权！全新无监督方法仅需1条数据+10步优化</title>
       <link>https://www.qbitai.com/2025/06/290129.html</link>
@@ -779,38 +811,6 @@
       <description>&lt;![CDATA[BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection]]&gt;</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.22878</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera</title>
-      <link>https://arxiv.org/abs/2505.22880</link>
-      <description>&lt;![CDATA[Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22880</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Local Stability and Region of Attraction Analysis for Neural Network Feedback Systems under Positivity Constraints</title>
-      <link>https://arxiv.org/abs/2505.22889</link>
-      <description>&lt;![CDATA[Local Stability and Region of Attraction Analysis for Neural Network Feedback Systems under Positivity Constraints]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22889</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Defining Foundation Models for Computational Science: A Call for Clarity and Rigor</title>
-      <link>https://arxiv.org/abs/2505.22904</link>
-      <description>&lt;![CDATA[Defining Foundation Models for Computational Science: A Call for Clarity and Rigor]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22904</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding</title>
-      <link>https://arxiv.org/abs/2505.22906</link>
-      <description>&lt;![CDATA[HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.22906</guid>
       <category>AI</category>
     </item>
   </channel>
