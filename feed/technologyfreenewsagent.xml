@@ -5,14 +5,94 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Jun 2025 06:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Jun 2025 06:29:15 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 08:26:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>光与影的突围：从特摄开端，到中国本土特摄的早期探索</title>
+      <link>https://sspai.com/post/98124</link>
+      <description>&lt;![CDATA[光与影的突围：从特摄开端，到中国本土特摄的早期探索]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/98124</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！</title>
+      <link>https://www.v2ex.com/t/1135713#reply1</link>
+      <description>&lt;![CDATA[兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135713#reply1</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Deepseek 的自我阉割</title>
+      <link>https://www.v2ex.com/t/1135706#reply9</link>
+      <description>&lt;![CDATA[Deepseek 的自我阉割]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 05:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135706#reply9</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行</title>
+      <link>https://www.v2ex.com/t/1135703#reply4</link>
+      <description>&lt;![CDATA[小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135703#reply4</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
+      <link>https://www.v2ex.com/t/1135699#reply14</link>
+      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply14</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
+      <link>https://www.v2ex.com/t/1135615#reply65</link>
+      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply65</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>通义灵码出了 IDE</title>
+      <link>https://www.v2ex.com/t/1135587#reply30</link>
+      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply30</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了</title>
+      <link>https://www.v2ex.com/t/1135453#reply25</link>
+      <description>&lt;![CDATA[Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 06:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135453#reply25</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智能体的形式会不会终结?</title>
+      <link>https://www.v2ex.com/t/1135448#reply17</link>
+      <description>&lt;![CDATA[智能体的形式会不会终结?]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135448#reply17</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想重写一下博客 UI 了，各位有没有一些参考的案例推荐？</title>
+      <link>https://www.v2ex.com/t/1135131#reply66</link>
+      <description>&lt;![CDATA[想重写一下博客 UI 了，各位有没有一些参考的案例推荐？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135131#reply66</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>20% Off Brooks Promo Code &amp; Deals for June 2025</title>
       <link>https://www.wired.com/story/brooks-promo-code/</link>
@@ -731,86 +811,6 @@
       <description>&lt;![CDATA[飞牛 OS NAS 硬盘推荐]]&gt;</description>
       <pubDate>Fri, 30 May 2025 07:57:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.v2ex.com/t/1135487#reply9</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>写了个上班打卡记录 app</title>
-      <link>https://www.v2ex.com/t/1135433#reply13</link>
-      <description>&lt;![CDATA[写了个上班打卡记录 app]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 05:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135433#reply13</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想趁 618 入手一台 nas，极空间和群晖二选一</title>
-      <link>https://www.v2ex.com/t/1135203#reply47</link>
-      <description>&lt;![CDATA[想趁 618 入手一台 nas，极空间和群晖二选一]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 07:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135203#reply47</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想重写一下博客 UI 了，各位有没有一些参考的案例推荐？</title>
-      <link>https://www.v2ex.com/t/1135131#reply65</link>
-      <description>&lt;![CDATA[想重写一下博客 UI 了，各位有没有一些参考的案例推荐？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135131#reply65</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>一个有意思的 github 项目，看到了作者内心的纠结</title>
-      <link>https://www.v2ex.com/t/1135121#reply12</link>
-      <description>&lt;![CDATA[一个有意思的 github 项目，看到了作者内心的纠结]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135121#reply12</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>你的 NAS 上有部署开源的导航网站吗？</title>
-      <link>https://www.v2ex.com/t/1127669#reply122</link>
-      <description>&lt;![CDATA[你的 NAS 上有部署开源的导航网站吗？]]&gt;</description>
-      <pubDate>Wed, 23 Apr 2025 23:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1127669#reply122</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>王老吉海外首次建厂，Insta360即将登陆科创板，柠季海外已签约15家门店｜出海参考</title>
-      <link>https://www.tmtpost.com/7583489.html</link>
-      <description>&lt;![CDATA[王老吉海外首次建厂，Insta360即将登陆科创板，柠季海外已签约15家门店｜出海参考]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7583489.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>What Is Google One? A Breakdown of Plans, Pricing, and Included Services</title>
-      <link>https://www.wired.com/story/what-is-google-one/</link>
-      <description>&lt;![CDATA[What Is Google One? A Breakdown of Plans, Pricing, and Included Services]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/what-is-google-one/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery</title>
-      <link>https://www.wired.com/review/nike-x-hyperice-hyperboots/</link>
-      <description>&lt;![CDATA[Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/review/nike-x-hyperice-hyperboots/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Never Drink Alone: A Guide to Turkish Coffee</title>
-      <link>https://www.wired.com/story/a-guide-to-turkish-coffee/</link>
-      <description>&lt;![CDATA[Never Drink Alone: A Guide to Turkish Coffee]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 11:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/a-guide-to-turkish-coffee/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar</title>
-      <link>https://www.wired.com/story/analysts-say-trump-trade-wars-would-harm-the-entire-us-energy-sector-from-oil-to-solar/</link>
-      <description>&lt;![CDATA[Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/analysts-say-trump-trade-wars-would-harm-the-entire-us-energy-sector-from-oil-to-solar/</guid>
       <category>Technology</category>
     </item>
   </channel>
