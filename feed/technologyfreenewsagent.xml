@@ -5,14 +5,158 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Jun 2025 02:03:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Jun 2025 02:03:10 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 04:36:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 04:36:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Azure Logic Apps推出Agent Loop，用于在企业工作流中构建AI代理</title>
+      <link>https://www.infoq.cn/article/wkTl1svs52tH6YqVYbuE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Azure Logic Apps推出Agent Loop，用于在企业工作流中构建AI代理]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wkTl1svs52tH6YqVYbuE?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>网页无障碍化的好处以及如何做到</title>
+      <link>https://www.infoq.cn/article/HN0PJwM6uCfBiJyVdEWB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[网页无障碍化的好处以及如何做到]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HN0PJwM6uCfBiJyVdEWB?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>社会技术方法如何帮助应对复杂性</title>
+      <link>https://www.infoq.cn/article/GCoiBMRVJPiLu6J8m2kF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[社会技术方法如何帮助应对复杂性]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GCoiBMRVJPiLu6J8m2kF?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>生成式 AI 在产品设计和 UI 领域：过去、现在和未来</title>
+      <link>https://www.infoq.cn/video/WCd8F0rpEf8ZKe5Jhdtb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[生成式 AI 在产品设计和 UI 领域：过去、现在和未来]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/WCd8F0rpEf8ZKe5Jhdtb?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
+      <link>https://www.v2ex.com/t/1135699#reply3</link>
+      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply3</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>送一份 Ethers.js web3 快速入门教程</title>
+      <link>https://www.v2ex.com/t/1135697#reply1</link>
+      <description>&lt;![CDATA[送一份 Ethers.js web3 快速入门教程]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135697#reply1</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Firerpa device hub | 本地版安卓设备集群管理平台。</title>
+      <link>https://www.v2ex.com/t/1135694#reply3</link>
+      <description>&lt;![CDATA[Firerpa device hub | 本地版安卓设备集群管理平台。]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135694#reply3</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速</title>
+      <link>https://www.v2ex.com/t/1135682#reply5</link>
+      <description>&lt;![CDATA[今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 01:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135682#reply5</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
+      <link>https://www.v2ex.com/t/1135615#reply60</link>
+      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply60</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统</title>
+      <link>https://www.v2ex.com/t/1135607#reply11</link>
+      <description>&lt;![CDATA[四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135607#reply11</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>通义灵码出了 IDE</title>
+      <link>https://www.v2ex.com/t/1135587#reply29</link>
+      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply29</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>公网映射 NAS，如何保证安全</title>
+      <link>https://www.v2ex.com/t/1135582#reply39</link>
+      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
+      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply39</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大佬们， webstorm 的 translation 插件，有类似的 mac 工具平替吗</title>
+      <link>https://www.v2ex.com/t/1135518#reply2</link>
+      <description>&lt;![CDATA[大佬们， webstorm 的 translation 插件，有类似的 mac 工具平替吗]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135518#reply2</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们</title>
+      <link>https://www.v2ex.com/t/1135503#reply36</link>
+      <description>&lt;![CDATA[想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135503#reply36</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？</title>
+      <link>https://www.v2ex.com/t/1135342#reply37</link>
+      <description>&lt;![CDATA[组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 01:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135342#reply37</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想趁 618 入手一台 nas，极空间和群晖二选一</title>
+      <link>https://www.v2ex.com/t/1135203#reply51</link>
+      <description>&lt;![CDATA[想趁 618 入手一台 nas，极空间和群晖二选一]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135203#reply51</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~</title>
+      <link>https://www.v2ex.com/t/1135118#reply59</link>
+      <description>&lt;![CDATA[各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 03:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135118#reply59</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>自荐我的开源项目 PakePlus，将网页秒变跨平台应用的打包工具</title>
+      <link>https://www.v2ex.com/t/1134856#reply63</link>
+      <description>&lt;![CDATA[自荐我的开源项目 PakePlus，将网页秒变跨平台应用的打包工具]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 04:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1134856#reply63</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>Marvell：AI 环增 “失速”，下一张 “王牌” 在哪？</title>
       <link>https://www.tmtpost.com/7583593.html</link>
@@ -667,150 +811,6 @@
       <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
       <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply21</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统</title>
-      <link>https://www.v2ex.com/t/1135607#reply6</link>
-      <description>&lt;![CDATA[四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 06:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135607#reply6</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>通义灵码出了 IDE</title>
-      <link>https://www.v2ex.com/t/1135587#reply21</link>
-      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply21</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>公网映射 NAS，如何保证安全</title>
-      <link>https://www.v2ex.com/t/1135582#reply26</link>
-      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply26</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>mac mini (2024) 作为家里云虚拟化平台的可行性</title>
-      <link>https://www.v2ex.com/t/1135538#reply33</link>
-      <description>&lt;![CDATA[mac mini (2024) 作为家里云虚拟化平台的可行性]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135538#reply33</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们</title>
-      <link>https://www.v2ex.com/t/1135503#reply31</link>
-      <description>&lt;![CDATA[想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135503#reply31</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Claude Code 好用么？</title>
-      <link>https://www.v2ex.com/t/1135375#reply9</link>
-      <description>&lt;![CDATA[Claude Code 好用么？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 03:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135375#reply9</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>在英国做实习开发的一些体验分享</title>
-      <link>https://www.v2ex.com/t/1135034#reply10</link>
-      <description>&lt;![CDATA[在英国做实习开发的一些体验分享]]&gt;</description>
-      <pubDate>Wed, 28 May 2025 20:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135034#reply10</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>中国新贵不需要Old Money的勋章：比音勒芬引爆的文化自信经济学</title>
-      <link>https://www.tmtpost.com/7582140.html</link>
-      <description>&lt;![CDATA[中国新贵不需要Old Money的勋章：比音勒芬引爆的文化自信经济学]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 15:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7582140.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Trump Announces Steel Tariffs to be Doubled to 50%, Starting June 4</title>
-      <link>https://www.tmtpost.com/7583398.html</link>
-      <description>&lt;![CDATA[Trump Announces Steel Tariffs to be Doubled to 50%, Starting June 4]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7583398.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
-      <link>https://www.v2ex.com/t/1135615#reply10</link>
-      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply10</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统</title>
-      <link>https://www.v2ex.com/t/1135607#reply5</link>
-      <description>&lt;![CDATA[四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 06:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135607#reply5</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>通义灵码出了 IDE</title>
-      <link>https://www.v2ex.com/t/1135587#reply17</link>
-      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply17</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>公网映射 NAS，如何保证安全</title>
-      <link>https://www.v2ex.com/t/1135582#reply22</link>
-      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply22</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>vibe coding 新姿势</title>
-      <link>https://www.v2ex.com/t/1135553#reply7</link>
-      <description>&lt;![CDATA[vibe coding 新姿势]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 16:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135553#reply7</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里的公共 dns 是不是最近有问题啊？</title>
-      <link>https://www.v2ex.com/t/1135546#reply12</link>
-      <description>&lt;![CDATA[阿里的公共 dns 是不是最近有问题啊？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135546#reply12</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>mac mini (2024) 作为家里云虚拟化平台的可行性</title>
-      <link>https://www.v2ex.com/t/1135538#reply27</link>
-      <description>&lt;![CDATA[mac mini (2024) 作为家里云虚拟化平台的可行性]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135538#reply27</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>飞牛 OS NAS 硬盘推荐</title>
-      <link>https://www.v2ex.com/t/1135487#reply8</link>
-      <description>&lt;![CDATA[飞牛 OS NAS 硬盘推荐]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135487#reply8</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Claude Code 好用么？</title>
-      <link>https://www.v2ex.com/t/1135375#reply8</link>
-      <description>&lt;![CDATA[Claude Code 好用么？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 03:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135375#reply8</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-06-01 02:03
+**最后更新时间**: 2025-06-01 04:36
+
+---
+
+## 🆕 最新更新 (2025-06-01 04:36)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure Logic Apps推出Agent Loop，用于在企业工作流中构建AI代理](https://www.infoq.cn/article/wkTl1svs52tH6YqVYbuE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-01 12:00
+
+#### [网页无障碍化的好处以及如何做到](https://www.infoq.cn/article/HN0PJwM6uCfBiJyVdEWB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-01 10:00
+
+#### [社会技术方法如何帮助应对复杂性](https://www.infoq.cn/article/GCoiBMRVJPiLu6J8m2kF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-01 10:00
+
+#### [生成式 AI 在产品设计和 UI 领域：过去、现在和未来](https://www.infoq.cn/video/WCd8F0rpEf8ZKe5Jhdtb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-01 10:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply3)
+**发布时间**: 2025-06-01 03:48
+
+#### [送一份 Ethers.js web3 快速入门教程](https://www.v2ex.com/t/1135697#reply1)
+**发布时间**: 2025-06-01 03:36
+
+#### [Firerpa device hub | 本地版安卓设备集群管理平台。](https://www.v2ex.com/t/1135694#reply3)
+**发布时间**: 2025-06-01 03:13
+
+#### [今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速](https://www.v2ex.com/t/1135682#reply5)
+**发布时间**: 2025-06-01 01:29
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply60)
+**发布时间**: 2025-05-31 07:34
+
+#### [四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统](https://www.v2ex.com/t/1135607#reply11)
+**发布时间**: 2025-05-31 06:53
+
+#### [通义灵码出了 IDE](https://www.v2ex.com/t/1135587#reply29)
+**发布时间**: 2025-05-31 03:50
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply39)
+**发布时间**: 2025-05-31 03:21
+
+#### [大佬们， webstorm 的 translation 插件，有类似的 mac 工具平替吗](https://www.v2ex.com/t/1135518#reply2)
+**发布时间**: 2025-05-30 10:01
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply36)
+**发布时间**: 2025-05-30 09:02
+
+#### [组台高性能 nas，但是极致的功耗党，请问哪款电源低功率转化率高？](https://www.v2ex.com/t/1135342#reply37)
+**发布时间**: 2025-05-30 01:58
+
+#### [想趁 618 入手一台 nas，极空间和群晖二选一](https://www.v2ex.com/t/1135203#reply51)
+**发布时间**: 2025-05-29 07:21
+
+#### [各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~](https://www.v2ex.com/t/1135118#reply59)
+**发布时间**: 2025-05-29 03:44
+
+#### [自荐我的开源项目 PakePlus，将网页秒变跨平台应用的打包工具](https://www.v2ex.com/t/1134856#reply63)
+**发布时间**: 2025-05-28 04:28
 
 ---
 
