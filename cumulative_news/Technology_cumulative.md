@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-06-01 10:21
+**最后更新时间**: 2025-06-01 12:39
+
+---
+
+## 🆕 最新更新 (2025-06-01 12:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [股价连创新高，成都银行、杭州银行咋就成了行业黑马？](https://www.tmtpost.com/7583632.html)
+**发布时间**: 2025-06-01 20:18
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Nice Rocc Palm Cooling Device Review: Pricey, Effective Palm Cooling](https://www.wired.com/review/nice-rocc-palm-cooling-device/)
+**发布时间**: 2025-06-01 12:02
+
+#### [Your Gmail Inbox Is Running Slow. Do These Things to Fix It](https://www.wired.com/story/gmail-inbox-running-slow-how-to-fix-it/)
+**发布时间**: 2025-06-01 11:30
+
+#### [How to Make AI Faster and Smarter—With a Little Help from Physics](https://www.wired.com/story/improving-deep-learning-with-a-little-help-from-physics/)
+**发布时间**: 2025-06-01 11:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Dotemu’s CEO on how it makes new games that feel retro](https://www.theverge.com/games/677300/dotemu-ceo-games-retro-ninja-gaiden-marvel-absolum)
+**发布时间**: 2025-06-01 12:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [《高性能 MySQL》第三版：是否已经过时？](https://www.v2ex.com/t/1135741#reply1)
+**发布时间**: 2025-06-01 11:58
+
+#### [兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！](https://www.v2ex.com/t/1135713#reply3)
+**发布时间**: 2025-06-01 06:30
+
+#### [Deepseek 的自我阉割](https://www.v2ex.com/t/1135706#reply19)
+**发布时间**: 2025-06-01 05:22
+
+#### [小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行](https://www.v2ex.com/t/1135703#reply5)
+**发布时间**: 2025-06-01 04:44
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply21)
+**发布时间**: 2025-06-01 03:48
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply73)
+**发布时间**: 2025-05-31 07:34
+
+#### [通义灵码出了 IDE](https://www.v2ex.com/t/1135587#reply31)
+**发布时间**: 2025-05-31 03:50
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply45)
+**发布时间**: 2025-05-31 03:21
+
+#### [飞牛 OS NAS 硬盘推荐](https://www.v2ex.com/t/1135487#reply10)
+**发布时间**: 2025-05-30 07:57
+
+#### [大模型聊天记录怎么优雅保存](https://www.v2ex.com/t/1135373#reply8)
+**发布时间**: 2025-05-30 03:10
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply67)
+**发布时间**: 2025-05-29 05:00
 
 ---
 
