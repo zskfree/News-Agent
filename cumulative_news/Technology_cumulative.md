@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-05-31 16:24
+**最后更新时间**: 2025-06-01 02:03
+
+---
+
+## 🆕 最新更新 (2025-06-01 02:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Marvell：AI 环增 “失速”，下一张 “王牌” 在哪？](https://www.tmtpost.com/7583593.html)
+**发布时间**: 2025-06-01 09:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「平价 Model Y」曝光；OpenAI 死敌年化收入超 30 亿美元；机器人足球联赛月底开战｜极客早知道](http://www.geekpark.net/news/350001)
+**发布时间**: 2025-06-01 08:29
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Docker推出了Hardened Images以强化容器安全性](https://www.infoq.cn/article/GZw7Fu9qbeM5TC4UbB8p?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-01 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Stranger Things season 5 will stream this November](https://www.theverge.com/news/677560/stranger-things-season-5-premiere-date-trailer)
+**发布时间**: 2025-06-01 01:49
+
+#### [Netflix showed off new trailers for Knives Out 3 and del Toro’s Frankenstein](https://www.theverge.com/news/677139/netflix-tudum-trailers-frankenstein-wake-up-dead-man)
+**发布时间**: 2025-06-01 01:09
+
+#### [Netflix’s One Piece adaptation has found its Tony Tony Chopper](https://www.theverge.com/tv/677419/netflixs-one-piece-adaptation-has-found-its-tony-tony-chopper)
+**发布时间**: 2025-06-01 00:53
+
+#### [Trump pulls Musk ally’s NASA Administrator nomination](https://www.theverge.com/news/677835/jared-isaacman-nasa-administrator-nomination-withdrawn)
+**发布时间**: 2025-06-01 00:16
+
+#### [Slate Truck FAQ: answering all your questions about the barebones electric pickup](https://www.theverge.com/electric-cars/676036/slate-auto-faq-truck-ev-specs-price-tariff)
+**发布时间**: 2025-05-31 12:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速](https://www.v2ex.com/t/1135682#reply1)
+**发布时间**: 2025-06-01 01:29
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply57)
+**发布时间**: 2025-05-31 07:34
+
+#### [四海翻腾云水怒，平地惊雷定乾坤——阿里资深技术专家的操作系统](https://www.v2ex.com/t/1135607#reply10)
+**发布时间**: 2025-05-31 06:53
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply35)
+**发布时间**: 2025-05-31 03:21
+
+#### [你们是怎么使用 Cursor 的？](https://www.v2ex.com/t/1135564#reply16)
+**发布时间**: 2025-05-30 23:45
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply16)
+**发布时间**: 2025-05-30 14:23
+
+#### [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538#reply43)
+**发布时间**: 2025-05-30 13:16
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply18)
+**发布时间**: 2025-05-30 10:02
+
+#### [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503#reply35)
+**发布时间**: 2025-05-30 09:02
+
+#### [智能体的形式会不会终结?](https://www.v2ex.com/t/1135448#reply15)
+**发布时间**: 2025-05-30 06:28
+
+#### [之前搞 polyfill.io 供应链攻击的 “方能 CDN” 被美国通缉了](https://www.v2ex.com/t/1135402#reply10)
+**发布时间**: 2025-05-30 03:50
+
+#### [大模型聊天记录怎么优雅保存](https://www.v2ex.com/t/1135373#reply7)
+**发布时间**: 2025-05-30 03:10
+
+#### [国内好多提供 OpenAI 等大模型服务的收费中转站](https://www.v2ex.com/t/1135238#reply14)
+**发布时间**: 2025-05-29 09:14
+
+#### [安卓有啥好用的备忘录 需要有 mac 端的](https://www.v2ex.com/t/1135223#reply23)
+**发布时间**: 2025-05-29 08:23
+
+#### [想趁 618 入手一台 nas，极空间和群晖二选一](https://www.v2ex.com/t/1135203#reply48)
+**发布时间**: 2025-05-29 07:21
+
+#### [一个有意思的 github 项目，看到了作者内心的纠结](https://www.v2ex.com/t/1135121#reply13)
+**发布时间**: 2025-05-29 03:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本月玩什么 | 街头足球、to a T、霰弹警长](https://sspai.com/post/99823)
+**发布时间**: 2025-05-31 23:57
 
 ---
 
