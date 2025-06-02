@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-06-01 16:24
+**最后更新时间**: 2025-06-02 01:50
+
+---
+
+## 🆕 最新更新 (2025-06-02 01:50)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices jump after OPEC+ agrees to another sharp production hike](https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 01:18
+
+#### [Fed’s Waller sees path to multiple interest-rate cuts this year](https://www.marketwatch.com/story/feds-waller-sees-path-to-multiple-interest-rate-cuts-this-year-3a8c0f81?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 00:21
+
+#### [As Congress returns, here’s where the Senate could make changes to the GOP’s megabill](https://www.marketwatch.com/story/as-congress-returns-heres-where-the-senate-could-make-changes-to-the-gops-megabill-0981efdc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-01 17:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stocks again near record territory. But tariff turmoil, job angst are lurking.](https://www.marketwatch.com/bulletins/redirect/go?g=cabcab9a-ee00-436b-bc4b-295547a8fdea&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 00:59
+
+#### [Fed’s Waller sees path to multiple interest-rate cuts this year](https://www.marketwatch.com/bulletins/redirect/go?g=3cbeb180-10cb-4942-a4e3-b8d45e8df732&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 00:23
+
+#### [Here’s what’s worth streaming in June as ‘The Bear’ and ‘Squid Game’ return](https://www.marketwatch.com/bulletins/redirect/go?g=db75f395-4e9f-4f0c-a067-5104a46f8ff6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-01 23:16
+
+#### [Oil prices jump after OPEC+ agrees to another sharp production hike](https://www.marketwatch.com/bulletins/redirect/go?g=c02f0bdd-a72f-421a-a4a7-3f259346652c&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-01 22:19
+
+#### [Why the government’s debt problem has a silver lining for savers](https://www.marketwatch.com/bulletins/redirect/go?g=14a07ed6-c193-4dcc-8fb0-48b4af45dbfa&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-01 21:39
+
+#### [Here’s where the Senate could make changes to the GOP’s megabill](https://www.marketwatch.com/bulletins/redirect/go?g=0e2500cb-c6a5-46cf-9026-7cce6981f1b3&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-01 19:08
 
 ---
 

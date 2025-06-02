@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-06-01 16:24
+**最后更新时间**: 2025-06-02 01:49
+
+---
+
+## 🆕 最新更新 (2025-06-02 01:49)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军疑似回应余承东：诋毁，也是仰望；京东外卖日单超 2500 万；端午档票房破 2 亿，《碟中谍 8》占一半](http://www.geekpark.net/news/350004)
+**发布时间**: 2025-06-02 08:52
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [商汤官宣联合创始人徐冰将卸任执行董事、董秘职务，杨帆和CFO王征接任](https://www.tmtpost.com/7583797.html)
+**发布时间**: 2025-06-02 08:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Grafana 12推出了可观测性代码和动态仪表板特性](https://www.infoq.cn/article/hsOGLzoHi2JuAH4mTX8R?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-02 08:00
+
+#### [Java近期新闻：Java 30周年、Hibernate ORM 7.0、Embabel、jaz、Open Liberty、Eclipse DataGrid](https://www.infoq.cn/article/hslSz66SReKe5uJcBGyQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-02 08:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [infuse 最新版无法连上飞牛影视](https://www.v2ex.com/t/1135786#reply2)
+**发布时间**: 2025-06-01 23:59
+
+#### [有用 LiveKit 做过视频语音会议系统的没？](https://www.v2ex.com/t/1135779#reply0)
+**发布时间**: 2025-06-01 20:06
+
+#### [2025 年了，传统分布式架构还会是主流吗](https://www.v2ex.com/t/1135777#reply3)
+**发布时间**: 2025-06-01 17:27
+
+#### [闲鱼的开发程序员不是弱智](https://www.v2ex.com/t/1135775#reply10)
+**发布时间**: 2025-06-01 17:08
+
+#### [绿联 dxp4800 安装黑群晖后老是自动重启](https://www.v2ex.com/t/1135768#reply4)
+**发布时间**: 2025-06-01 15:40
+
+#### [异步架构的设计困惑](https://www.v2ex.com/t/1135758#reply3)
+**发布时间**: 2025-06-01 14:31
+
+#### [《高性能 MySQL》第三版：是否已经过时？](https://www.v2ex.com/t/1135741#reply16)
+**发布时间**: 2025-06-01 11:58
+
+#### [兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！](https://www.v2ex.com/t/1135713#reply5)
+**发布时间**: 2025-06-01 06:30
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply28)
+**发布时间**: 2025-06-01 03:48
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply81)
+**发布时间**: 2025-05-31 07:34
+
+#### [通义灵码出了 IDE](https://www.v2ex.com/t/1135587#reply32)
+**发布时间**: 2025-05-31 03:50
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply52)
+**发布时间**: 2025-05-31 03:21
+
+#### [阿里的公共 dns 是不是最近有问题啊？](https://www.v2ex.com/t/1135546#reply23)
+**发布时间**: 2025-05-30 14:23
+
+#### [8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？](https://www.v2ex.com/t/1135519#reply21)
+**发布时间**: 2025-05-30 10:02
+
+#### [飞牛 OS NAS 硬盘推荐](https://www.v2ex.com/t/1135487#reply11)
+**发布时间**: 2025-05-30 07:57
+
+#### [安卓有啥好用的备忘录 需要有 mac 端的](https://www.v2ex.com/t/1135223#reply26)
+**发布时间**: 2025-05-29 08:23
+
+#### [想趁 618 入手一台 nas，极空间和群晖二选一](https://www.v2ex.com/t/1135203#reply56)
+**发布时间**: 2025-05-29 07:21
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply69)
+**发布时间**: 2025-05-29 05:00
+
+#### [自荐我的开源项目 PakePlus，将网页秒变跨平台应用的打包工具](https://www.v2ex.com/t/1134856#reply64)
+**发布时间**: 2025-05-28 04:28
 
 ---
 
