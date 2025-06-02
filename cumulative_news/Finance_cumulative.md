@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-06-02 03:21
+**最后更新时间**: 2025-06-02 08:30
+
+---
+
+## 🆕 最新更新 (2025-06-02 08:30)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump accused China of violating the Geneva deal and revoked student visas. China has threatened to retaliate.](https://www.marketwatch.com/story/trump-accused-china-of-violating-the-geneva-deal-and-revoked-student-visas-china-has-threatened-to-retaliate-034a9f71?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 07:37
 
 ---
 
