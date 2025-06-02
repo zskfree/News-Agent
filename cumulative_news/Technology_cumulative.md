@@ -2,7 +2,52 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-02 11:11
+**最后更新时间**: 2025-06-02 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-02 12:22)
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [找一个懂 ARIA 无障碍&结构化数据的大佬检查下网站的 seo「有偿」](https://www.v2ex.com/t/1135874#reply0)
+**发布时间**: 2025-06-02 12:15
+
+#### [为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？](https://www.v2ex.com/t/1135858#reply9)
+**发布时间**: 2025-06-02 10:27
+
+#### [租服务器部署满血版 deepseek 大概要多少钱](https://www.v2ex.com/t/1135857#reply1)
+**发布时间**: 2025-06-02 10:24
+
+#### [除了 synology drive，还有支持选择性同步的本地部署云盘吗](https://www.v2ex.com/t/1135848#reply3)
+**发布时间**: 2025-06-02 09:33
+
+#### [请高手用 drissionpage 写个自动答题（网站在线考试）](https://www.v2ex.com/t/1135839#reply1)
+**发布时间**: 2025-06-02 08:47
+
+#### [终于知道国内计算机教育长期缺失的一部分](https://www.v2ex.com/t/1135829#reply30)
+**发布时间**: 2025-06-02 06:55
+
+#### [关于系统权限的问题咨询](https://www.v2ex.com/t/1135807#reply23)
+**发布时间**: 2025-06-02 04:09
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply73)
+**发布时间**: 2025-05-29 05:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Cuisinart Propel+ 3-in-1 Review (2025): Pizza on a 4-Burner Grill](https://www.wired.com/review/cuisinart-propel-3-in-1-grill-griddle-pizza/)
+**发布时间**: 2025-06-02 12:01
+
+#### [A Neuralink Rival Just Tested a Brain Implant in a Person](https://www.wired.com/story/paradromics-neuralink-rival-tested-brain-implant/)
+**发布时间**: 2025-06-02 12:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Verge’s favorite tools to help with a move](https://www.theverge.com/tech/665702/moving-supplies-tools-diy-packing)
+**发布时间**: 2025-06-02 12:00
+
+#### [Moving sucks, but decluttering helps](https://www.theverge.com/tech/667059/moving-decluttering-organization-marie-kondo)
+**发布时间**: 2025-06-02 11:30
 
 ---
 

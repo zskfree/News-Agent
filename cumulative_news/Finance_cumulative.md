@@ -2,7 +2,24 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-02 11:11
+**最后更新时间**: 2025-06-02 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-02 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why America’s aging population will be a problem for stocks — and your retirement](https://www.marketwatch.com/story/why-americas-aging-population-will-be-a-problem-for-stocks-and-your-retirement-401a7e1a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 12:10
+
+#### [One of the world’s best-performing stock markets slumps after weekend election](https://www.marketwatch.com/story/one-of-the-worlds-best-performing-stock-markets-slumps-after-weekend-election-b34c4f94?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 12:04
+
+#### [After the TACO trade, here comes the ‘Trump collar.’ Here’s what that means for stocks.](https://www.marketwatch.com/story/after-the-taco-trade-here-comes-the-trump-collar-heres-what-that-means-for-stocks-56bfa5a6?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 11:49
+
+#### [Gold prices doubled in just two years to new highs. Why it could keep going to $7,000.](https://www.marketwatch.com/story/gold-prices-doubled-in-just-two-years-to-new-highs-why-it-could-keep-going-to-7-000-5daa03ba?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 11:45
 
 ---
 

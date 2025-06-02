@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 11:11:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 11:11:37 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 12:22:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,43 +14,107 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>找一个懂 ARIA 无障碍&amp;结构化数据的大佬检查下网站的 seo「有偿」</title>
+      <link>https://www.v2ex.com/t/1135874#reply0</link>
+      <description>&lt;![CDATA[找一个懂 ARIA 无障碍&amp;结构化数据的大佬检查下网站的 seo「有偿」]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135874#reply0</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？</title>
+      <link>https://www.v2ex.com/t/1135858#reply9</link>
+      <description>&lt;![CDATA[为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135858#reply9</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>租服务器部署满血版 deepseek 大概要多少钱</title>
+      <link>https://www.v2ex.com/t/1135857#reply1</link>
+      <description>&lt;![CDATA[租服务器部署满血版 deepseek 大概要多少钱]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135857#reply1</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>除了 synology drive，还有支持选择性同步的本地部署云盘吗</title>
+      <link>https://www.v2ex.com/t/1135848#reply3</link>
+      <description>&lt;![CDATA[除了 synology drive，还有支持选择性同步的本地部署云盘吗]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 09:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135848#reply3</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>请高手用 drissionpage 写个自动答题（网站在线考试）</title>
+      <link>https://www.v2ex.com/t/1135839#reply1</link>
+      <description>&lt;![CDATA[请高手用 drissionpage 写个自动答题（网站在线考试）]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135839#reply1</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>终于知道国内计算机教育长期缺失的一部分</title>
+      <link>https://www.v2ex.com/t/1135829#reply30</link>
+      <description>&lt;![CDATA[终于知道国内计算机教育长期缺失的一部分]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135829#reply30</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>关于系统权限的问题咨询</title>
+      <link>https://www.v2ex.com/t/1135807#reply23</link>
+      <description>&lt;![CDATA[关于系统权限的问题咨询]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 04:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135807#reply23</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想重写一下博客 UI 了，各位有没有一些参考的案例推荐？</title>
+      <link>https://www.v2ex.com/t/1135131#reply73</link>
+      <description>&lt;![CDATA[想重写一下博客 UI 了，各位有没有一些参考的案例推荐？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135131#reply73</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Cuisinart Propel+ 3-in-1 Review (2025): Pizza on a 4-Burner Grill</title>
+      <link>https://www.wired.com/review/cuisinart-propel-3-in-1-grill-griddle-pizza/</link>
+      <description>&lt;![CDATA[Cuisinart Propel+ 3-in-1 Review (2025): Pizza on a 4-Burner Grill]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/review/cuisinart-propel-3-in-1-grill-griddle-pizza/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>A Neuralink Rival Just Tested a Brain Implant in a Person</title>
+      <link>https://www.wired.com/story/paradromics-neuralink-rival-tested-brain-implant/</link>
+      <description>&lt;![CDATA[A Neuralink Rival Just Tested a Brain Implant in a Person]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/paradromics-neuralink-rival-tested-brain-implant/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The Verge’s favorite tools to help with a move</title>
+      <link>https://www.theverge.com/tech/665702/moving-supplies-tools-diy-packing</link>
+      <description>&lt;![CDATA[The Verge’s favorite tools to help with a move]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/665702/moving-supplies-tools-diy-packing</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Moving sucks, but decluttering helps</title>
+      <link>https://www.theverge.com/tech/667059/moving-decluttering-organization-marie-kondo</link>
+      <description>&lt;![CDATA[Moving sucks, but decluttering helps]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/667059/moving-decluttering-organization-marie-kondo</guid>
+      <category>Technology</category>
+    </item>
+    <item>
       <title>Jony Ive’s OpenAI device gets the Powell Jobs nod of approval</title>
       <link>https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview</link>
       <description>&lt;![CDATA[Jony Ive’s OpenAI device gets the Powell Jobs nod of approval]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 10:33:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？</title>
-      <link>https://www.v2ex.com/t/1135858#reply6</link>
-      <description>&lt;![CDATA[为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135858#reply6</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>除了 synology drive，还有支持选择性同步的本地部署云盘吗</title>
-      <link>https://www.v2ex.com/t/1135848#reply2</link>
-      <description>&lt;![CDATA[除了 synology drive，还有支持选择性同步的本地部署云盘吗]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135848#reply2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>终于知道国内计算机教育长期缺失的一部分</title>
-      <link>https://www.v2ex.com/t/1135829#reply19</link>
-      <description>&lt;![CDATA[终于知道国内计算机教育长期缺失的一部分]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 06:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135829#reply19</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>关于系统权限的问题咨询</title>
-      <link>https://www.v2ex.com/t/1135807#reply21</link>
-      <description>&lt;![CDATA[关于系统权限的问题咨询]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135807#reply21</guid>
       <category>Technology</category>
     </item>
     <item>
@@ -78,14 +142,6 @@
       <category>Technology</category>
     </item>
     <item>
-      <title>租服务器部署满血版 deepseek 大概要多少钱</title>
-      <link>https://www.v2ex.com/t/1135857#reply0</link>
-      <description>&lt;![CDATA[租服务器部署满血版 deepseek 大概要多少钱]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135857#reply0</guid>
-      <category>Technology</category>
-    </item>
-    <item>
       <title>这届新手奶爸奶妈，“野养”自己家娃</title>
       <link>https://www.tmtpost.com/7583798.html</link>
       <description>&lt;![CDATA[这届新手奶爸奶妈，“野养”自己家娃]]&gt;</description>
@@ -110,14 +166,6 @@
       <category>Technology</category>
     </item>
     <item>
-      <title>请高手用 drissionpage 写个自动答题（网站在线考试）</title>
-      <link>https://www.v2ex.com/t/1135839#reply0</link>
-      <description>&lt;![CDATA[请高手用 drissionpage 写个自动答题（网站在线考试）]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 08:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135839#reply0</guid>
-      <category>Technology</category>
-    </item>
-    <item>
       <title>infuse 最新版无法连上飞牛影视</title>
       <link>https://www.v2ex.com/t/1135786#reply6</link>
       <description>&lt;![CDATA[infuse 最新版无法连上飞牛影视]]&gt;</description>
@@ -131,14 +179,6 @@
       <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
       <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply84</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想重写一下博客 UI 了，各位有没有一些参考的案例推荐？</title>
-      <link>https://www.v2ex.com/t/1135131#reply72</link>
-      <description>&lt;![CDATA[想重写一下博客 UI 了，各位有没有一些参考的案例推荐？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135131#reply72</guid>
       <category>Technology</category>
     </item>
     <item>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[Java近期新闻：Java 30周年、Hibernate ORM 7.0、Embabel、jaz、Open Liberty、Eclipse DataGrid]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/hslSz66SReKe5uJcBGyQ?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>闲鱼的开发程序员不是弱智</title>
-      <link>https://www.v2ex.com/t/1135775#reply10</link>
-      <description>&lt;![CDATA[闲鱼的开发程序员不是弱智]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135775#reply10</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>绿联 dxp4800 安装黑群晖后老是自动重启</title>
-      <link>https://www.v2ex.com/t/1135768#reply4</link>
-      <description>&lt;![CDATA[绿联 dxp4800 安装黑群晖后老是自动重启]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135768#reply4</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>通义灵码出了 IDE</title>
-      <link>https://www.v2ex.com/t/1135587#reply32</link>
-      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply32</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里的公共 dns 是不是最近有问题啊？</title>
-      <link>https://www.v2ex.com/t/1135546#reply23</link>
-      <description>&lt;![CDATA[阿里的公共 dns 是不是最近有问题啊？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135546#reply23</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？</title>
-      <link>https://www.v2ex.com/t/1135519#reply21</link>
-      <description>&lt;![CDATA[8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 10:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135519#reply21</guid>
       <category>Technology</category>
     </item>
   </channel>
