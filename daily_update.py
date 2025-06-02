@@ -265,6 +265,7 @@ RSS_LINKS_PLACEHOLDER
         <li>包含累积的历史新闻</li>
         <li>支持各大RSS阅读器</li>
         <li>新闻来源多样化，内容持续更新</li>
+        <li>Github项目主页: <a href="https://github.com/zskfree/News-Agent" target="_blank">https://github.com/zskfree/News-Agent</a></li>
     </ul>
     
     <h2>🔧 技术信息</h2>
