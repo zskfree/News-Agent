@@ -5,13 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-<<<<<<< HEAD
-    <pubDate>Mon, 02 Jun 2025 18:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 18:11:50 GMT</lastBuildDate>
-=======
-    <pubDate>Mon, 02 Jun 2025 10:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 10:24:15 GMT</lastBuildDate>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
+    <pubDate>Mon, 02 Jun 2025 10:29:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:29:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -19,8 +14,30 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-<<<<<<< HEAD
-=======
+      <title>为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？</title>
+      <link>https://www.v2ex.com/t/1135858#reply0</link>
+      <description>&lt;![CDATA[为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135858#reply0</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>租服务器部署满血版 deepseek 大概要多少钱</title>
+      <link>https://www.v2ex.com/t/1135857#reply0</link>
+      <description>&lt;![CDATA[租服务器部署满血版 deepseek 大概要多少钱]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135857#reply0</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>终于知道国内计算机教育长期缺失的一部分</title>
+      <link>https://www.v2ex.com/t/1135829#reply17</link>
+      <description>&lt;![CDATA[终于知道国内计算机教育长期缺失的一部分]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135829#reply17</guid>
+      <category>Technology</category>
+    </item>
+    <item>
       <title>这届新手奶爸奶妈，“野养”自己家娃</title>
       <link>https://www.tmtpost.com/7583798.html</link>
       <description>&lt;![CDATA[这届新手奶爸奶妈，“野养”自己家娃]]&gt;</description>
@@ -29,7 +46,6 @@
       <category>Technology</category>
     </item>
     <item>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
       <title>Trumpworld Is Getting Tired of Laura Loomer. They Hope the President Is Too</title>
       <link>https://www.wired.com/story/trumpworld-tired-of-laura-loomer/</link>
       <description>&lt;![CDATA[Trumpworld Is Getting Tired of Laura Loomer. They Hope the President Is Too]]&gt;</description>
@@ -62,26 +78,11 @@
       <category>Technology</category>
     </item>
     <item>
-      <title>终于知道国内计算机教育长期缺失的一部分</title>
-      <link>https://www.v2ex.com/t/1135829#reply16</link>
-      <description>&lt;![CDATA[终于知道国内计算机教育长期缺失的一部分]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 06:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135829#reply16</guid>
-      <category>Technology</category>
-    </item>
-    <item>
       <title>关于系统权限的问题咨询</title>
-<<<<<<< HEAD
       <link>https://www.v2ex.com/t/1135807#reply19</link>
       <description>&lt;![CDATA[关于系统权限的问题咨询]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 04:09:00 GMT</pubDate>
+      <pubDate>Mon, 02 Jun 2025 10:29:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.v2ex.com/t/1135807#reply19</guid>
-=======
-      <link>https://www.v2ex.com/t/1135807#reply20</link>
-      <description>&lt;![CDATA[关于系统权限的问题咨询]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135807#reply20</guid>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
       <category>Technology</category>
     </item>
     <item>
@@ -412,208 +413,5 @@
       <guid isPermaLink="true">https://www.v2ex.com/t/1134856#reply64</guid>
       <category>Technology</category>
     </item>
-    <item>
-      <title>How college students built the fastest Rubik’s Cube-solving robot yet</title>
-      <link>https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving</link>
-      <description>&lt;![CDATA[How college students built the fastest Rubik’s Cube-solving robot yet]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The Verge’s 2025 Father’s Day gift guide</title>
-      <link>https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025</link>
-      <description>&lt;![CDATA[The Verge’s 2025 Father’s Day gift guide]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Why do lawyers keep using ChatGPT?</title>
-      <link>https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai</link>
-      <description>&lt;![CDATA[Why do lawyers keep using ChatGPT?]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai</guid>
-      <category>Technology</category>
-    </item>
-<<<<<<< HEAD
-=======
-    <item>
-      <title>A new movie taking on the tech bros</title>
-      <link>https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer</link>
-      <description>&lt;![CDATA[A new movie taking on the tech bros]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>绿联 dxp4800 安装黑群晖后老是自动重启</title>
-      <link>https://www.v2ex.com/t/1135768#reply0</link>
-      <description>&lt;![CDATA[绿联 dxp4800 安装黑群晖后老是自动重启]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135768#reply0</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>异步架构的设计困惑</title>
-      <link>https://www.v2ex.com/t/1135758#reply2</link>
-      <description>&lt;![CDATA[异步架构的设计困惑]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135758#reply2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>有用 LiveKit 开发过视频语音会议系统的嘛</title>
-      <link>https://www.v2ex.com/t/1135748#reply3</link>
-      <description>&lt;![CDATA[有用 LiveKit 开发过视频语音会议系统的嘛]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 12:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135748#reply3</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>《高性能 MySQL》第三版：是否已经过时？</title>
-      <link>https://www.v2ex.com/t/1135741#reply11</link>
-      <description>&lt;![CDATA[《高性能 MySQL》第三版：是否已经过时？]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135741#reply11</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！</title>
-      <link>https://www.v2ex.com/t/1135713#reply4</link>
-      <description>&lt;![CDATA[兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135713#reply4</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
-      <link>https://www.v2ex.com/t/1135699#reply23</link>
-      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply23</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
-      <link>https://www.v2ex.com/t/1135615#reply80</link>
-      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply80</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>公网映射 NAS，如何保证安全</title>
-      <link>https://www.v2ex.com/t/1135582#reply48</link>
-      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply48</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里的公共 dns 是不是最近有问题啊？</title>
-      <link>https://www.v2ex.com/t/1135546#reply21</link>
-      <description>&lt;![CDATA[阿里的公共 dns 是不是最近有问题啊？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135546#reply21</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？</title>
-      <link>https://www.v2ex.com/t/1135519#reply20</link>
-      <description>&lt;![CDATA[8 年经验的全栈开发，技术面过程中面试官应该提什么样的问题？]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 10:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135519#reply20</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想趁 618 入手一台 nas，极空间和群晖二选一</title>
-      <link>https://www.v2ex.com/t/1135203#reply55</link>
-      <description>&lt;![CDATA[想趁 618 入手一台 nas，极空间和群晖二选一]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 07:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135203#reply55</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>13 Best Soundbars We’ve Tested and Reviewed (2025): Sonos, Sony, Bose</title>
-      <link>https://www.wired.com/gallery/best-soundbars/</link>
-      <description>&lt;![CDATA[13 Best Soundbars We’ve Tested and Reviewed (2025): Sonos, Sony, Bose]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 15:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-soundbars/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>6 Best Digital Photo Frames (2025): Aura, Nixplay, Skylight</title>
-      <link>https://www.wired.com/gallery/best-digital-photo-frames/</link>
-      <description>&lt;![CDATA[6 Best Digital Photo Frames (2025): Aura, Nixplay, Skylight]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-digital-photo-frames/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>How to Find the Best Eero Wi-Fi Mesh Router for You (2025)</title>
-      <link>https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/</link>
-      <description>&lt;![CDATA[How to Find the Best Eero Wi-Fi Mesh Router for You (2025)]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>有用 LiveKit 开发过视频语音会议系统的嘛</title>
-      <link>https://www.v2ex.com/t/1135748#reply2</link>
-      <description>&lt;![CDATA[有用 LiveKit 开发过视频语音会议系统的嘛]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 12:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135748#reply2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>《高性能 MySQL》第三版：是否已经过时？</title>
-      <link>https://www.v2ex.com/t/1135741#reply6</link>
-      <description>&lt;![CDATA[《高性能 MySQL》第三版：是否已经过时？]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135741#reply6</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Deepseek 的自我阉割</title>
-      <link>https://www.v2ex.com/t/1135706#reply24</link>
-      <description>&lt;![CDATA[Deepseek 的自我阉割]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135706#reply24</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行</title>
-      <link>https://www.v2ex.com/t/1135703#reply6</link>
-      <description>&lt;![CDATA[小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 04:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135703#reply6</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
-      <link>https://www.v2ex.com/t/1135699#reply22</link>
-      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply22</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.</title>
-      <link>https://www.v2ex.com/t/1135615#reply75</link>
-      <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply75</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>公网映射 NAS，如何保证安全</title>
-      <link>https://www.v2ex.com/t/1135582#reply46</link>
-      <description>&lt;![CDATA[公网映射 NAS，如何保证安全]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135582#reply46</guid>
-      <category>Technology</category>
-    </item>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
   </channel>
 </rss>

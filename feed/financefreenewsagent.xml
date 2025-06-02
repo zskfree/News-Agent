@@ -5,13 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-<<<<<<< HEAD
     <pubDate>Mon, 02 Jun 2025 18:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 18:11:50 GMT</lastBuildDate>
-=======
-    <pubDate>Mon, 02 Jun 2025 10:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 10:24:15 GMT</lastBuildDate>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
+    <lastBuildDate>Mon, 02 Jun 2025 10:29:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -19,8 +14,6 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-<<<<<<< HEAD
-=======
       <title>What on earth is going on with the American consumer?</title>
       <link>https://www.marketwatch.com/story/what-on-earth-is-going-on-with-the-american-consumer-d594ed5b?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[What on earth is going on with the American consumer?]]&gt;</description>
@@ -29,7 +22,6 @@
       <category>Finance</category>
     </item>
     <item>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
       <title>This market pro says the Fed is going to cut interest rates this year, but ‘they don’t know it yet.’ Is he right?</title>
       <link>https://www.marketwatch.com/story/this-market-pro-says-the-fed-is-going-to-cut-interest-rates-this-year-but-they-dont-know-it-yet-is-he-right-12b715e3?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[This market pro says the Fed is going to cut interest rates this year, but ‘they don’t know it yet.’ Is he right?]]&gt;</description>
@@ -86,17 +78,6 @@
       <category>Finance</category>
     </item>
     <item>
-<<<<<<< HEAD
-=======
-      <title>Dow futures drop over 224 points as China accuses U.S. of violating trade truce</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=30a6e7a0-b6a4-4674-b1a8-bcb520fe3784&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Dow futures drop over 224 points as China accuses U.S. of violating trade truce]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=30a6e7a0-b6a4-4674-b1a8-bcb520fe3784&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
       <title>Trump accused China of violating the Geneva deal and revoked student visas. China has threatened to retaliate.</title>
       <link>https://www.marketwatch.com/story/trump-accused-china-of-violating-the-geneva-deal-and-revoked-student-visas-china-has-threatened-to-retaliate-034a9f71?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[Trump accused China of violating the Geneva deal and revoked student visas. China has threatened to retaliate.]]&gt;</description>
@@ -432,136 +413,5 @@
       <guid isPermaLink="true">https://www.marketwatch.com/story/my-life-partner-is-18-years-my-senior-he-wants-to-leave-his-4-5-million-fortune-to-me-not-his-two-kids-do-we-tell-them-4510d348?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
-    <item>
-      <title>Travis Kelce rents a $20 million Florida waterfront home to get ready for football season</title>
-      <link>https://www.marketwatch.com/story/travis-kelce-rents-a-20-million-florida-waterfront-home-to-get-ready-for-football-season-b7c1bfeb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Travis Kelce rents a $20 million Florida waterfront home to get ready for football season]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/travis-kelce-rents-a-20-million-florida-waterfront-home-to-get-ready-for-football-season-b7c1bfeb?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-<<<<<<< HEAD
-=======
-    <item>
-      <title>This star fund manager sees 2008 parallels as he returns to the volatility business</title>
-      <link>https://www.marketwatch.com/story/this-star-fund-manager-sees-2008-parallels-as-he-returns-to-the-volatility-business-4e6cec30?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This star fund manager sees 2008 parallels as he returns to the volatility business]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-star-fund-manager-sees-2008-parallels-as-he-returns-to-the-volatility-business-4e6cec30?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>U.S.-China trade talks ‘stalled,’ may require direct talks between Trump and Xi, Bessent says</title>
-      <link>https://www.marketwatch.com/story/u-s-china-trade-talks-stalled-may-require-direct-talks-between-trump-and-xi-bessent-says-f632387a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S.-China trade talks ‘stalled,’ may require direct talks between Trump and Xi, Bessent says]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 02:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-china-trade-talks-stalled-may-require-direct-talks-between-trump-and-xi-bessent-says-f632387a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Dell’s earnings outlook blows past expectations, and this number explains why</title>
-      <link>https://www.marketwatch.com/story/dells-earnings-outlook-blows-past-expectations-and-this-number-explains-why-7a8126e4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Dell’s earnings outlook blows past expectations, and this number explains why]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/dells-earnings-outlook-blows-past-expectations-and-this-number-explains-why-7a8126e4?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Marvell meets earnings expectations, but here’s what’s really on investors’ minds</title>
-      <link>https://www.marketwatch.com/story/marvell-meets-earnings-expectations-but-heres-whats-really-on-investors-minds-afc7b0eb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Marvell meets earnings expectations, but here’s what’s really on investors’ minds]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/marvell-meets-earnings-expectations-but-heres-whats-really-on-investors-minds-afc7b0eb?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Costco’s tariff cure includes cheaper eggs, rerouted items and U.S.-made mattresses</title>
-      <link>https://www.marketwatch.com/story/costco-reports-earnings-today-heres-why-its-results-might-not-change-investors-perceptions-2753a353?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Costco’s tariff cure includes cheaper eggs, rerouted items and U.S.-made mattresses]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/costco-reports-earnings-today-heres-why-its-results-might-not-change-investors-perceptions-2753a353?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Ulta Beauty is warning about consumer ’uncertainty.’ It still nudged its forecast higher.</title>
-      <link>https://www.marketwatch.com/story/ulta-beauty-is-warning-about-consumer-uncertainty-it-still-nudged-its-forecast-higher-6f43354e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Ulta Beauty is warning about consumer ’uncertainty.’ It still nudged its forecast higher.]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 00:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/ulta-beauty-is-warning-about-consumer-uncertainty-it-still-nudged-its-forecast-higher-6f43354e?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>E.l.f. Beauty’s stock is on pace for record rally, as analysts debate whether uncertainty is a ‘blessing in disguise’</title>
-      <link>https://www.marketwatch.com/story/e-l-f-beautys-stock-is-on-pace-for-record-rally-as-analysts-debate-whether-uncertainty-is-a-blessing-in-disguise-bb394a12?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[E.l.f. Beauty’s stock is on pace for record rally, as analysts debate whether uncertainty is a ‘blessing in disguise’]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 23:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/e-l-f-beautys-stock-is-on-pace-for-record-rally-as-analysts-debate-whether-uncertainty-is-a-blessing-in-disguise-bb394a12?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Turkey, nuts and Spam are appealing to ‘strained’ consumers, Hormel says</title>
-      <link>https://www.marketwatch.com/story/turkey-nuts-and-spam-are-appealing-to-a-strained-consumer-hormel-says-6d78dc9b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Turkey, nuts and Spam are appealing to ‘strained’ consumers, Hormel says]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 23:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/turkey-nuts-and-spam-are-appealing-to-a-strained-consumer-hormel-says-6d78dc9b?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Powell met with Trump for first time this term. Here’s what it means for markets.</title>
-      <link>https://www.marketwatch.com/story/powell-met-with-trump-at-white-house-and-stressed-he-would-be-non-political-fed-says-3d95641a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Powell met with Trump for first time this term. Here’s what it means for markets.]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 22:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/powell-met-with-trump-at-white-house-and-stressed-he-would-be-non-political-fed-says-3d95641a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Synopsys says to forget what it said last night. It did get a government letter about exports to China.</title>
-      <link>https://www.marketwatch.com/story/synopsys-says-to-forget-what-it-said-last-night-it-did-get-a-bis-letter-about-exports-to-china-01b79556?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Synopsys says to forget what it said last night. It did get a government letter about exports to China.]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 21:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/synopsys-says-to-forget-what-it-said-last-night-it-did-get-a-bis-letter-about-exports-to-china-01b79556?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gap sees sales stalling, and puts a number on the extra cost of tariffs</title>
-      <link>https://www.marketwatch.com/story/gaps-sales-stall-and-retailer-puts-a-number-to-additional-costs-due-to-tariffs-ac270840?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Gap sees sales stalling, and puts a number on the extra cost of tariffs]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/gaps-sales-stall-and-retailer-puts-a-number-to-additional-costs-due-to-tariffs-ac270840?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Chip maker Marvell hits earnings targets, but here’s what investors are watching</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f520d2d5-5415-43cb-86fd-ac5e798d9f51&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Chip maker Marvell hits earnings targets, but here’s what investors are watching]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 21:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f520d2d5-5415-43cb-86fd-ac5e798d9f51&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s what investors should do as courts weigh the future of Trump’s tariffs</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=8e48b9c5-dc00-4968-9a5f-7b1a5fddbbd9&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Here’s what investors should do as courts weigh the future of Trump’s tariffs]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 21:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=8e48b9c5-dc00-4968-9a5f-7b1a5fddbbd9&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Dell’s earnings outlook blows past expectations — and this number explains why</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=25d69eaa-5247-474c-9667-18c221b05737&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Dell’s earnings outlook blows past expectations — and this number explains why]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 20:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=25d69eaa-5247-474c-9667-18c221b05737&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>U.S. stocks end higher despite appeals court reinstating Trump tariffs — for now</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=53fb1776-1c52-4cc0-a286-19ccbd72aef2&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[U.S. stocks end higher despite appeals court reinstating Trump tariffs — for now]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 20:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=53fb1776-1c52-4cc0-a286-19ccbd72aef2&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
->>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
   </channel>
 </rss>
