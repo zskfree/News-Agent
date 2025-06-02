@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:21
-**最后更新时间**: 2025-06-02 06:32
+**最后更新时间**: 2025-06-02 10:23
+
+---
+
+## 🆕 最新更新 (2025-06-02 10:23)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蔚来小米都在用，22家车企撑起扬州巨头冲刺IPO](https://www.qbitai.com/2025/06/290270.html)
+**发布时间**: 2025-06-02 09:58
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Trump administration has shut down more than 100 climate studies](https://www.technologyreview.com/2025/06/02/1117653/the-trump-administration-has-shut-down-more-than-100-climate-studies/)
+**发布时间**: 2025-06-02 09:00
 
 ---
 

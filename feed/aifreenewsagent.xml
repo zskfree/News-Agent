@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 06:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 08:30:22 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 10:23:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:24:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>蔚来小米都在用，22家车企撑起扬州巨头冲刺IPO</title>
+      <link>https://www.qbitai.com/2025/06/290270.html</link>
+      <description>&lt;![CDATA[蔚来小米都在用，22家车企撑起扬州巨头冲刺IPO]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290270.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Trump administration has shut down more than 100 climate studies</title>
+      <link>https://www.technologyreview.com/2025/06/02/1117653/the-trump-administration-has-shut-down-more-than-100-climate-studies/</link>
+      <description>&lt;![CDATA[The Trump administration has shut down more than 100 climate studies]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/02/1117653/the-trump-administration-has-shut-down-more-than-100-climate-studies/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>首次解释LLM如何推理反思！西北大学谷歌新框架：引入贝叶斯自适应强化学习，数学推理全面提升</title>
       <link>https://www.qbitai.com/2025/06/290227.html</link>
@@ -795,22 +811,6 @@
       <description>&lt;![CDATA[Exploring Societal Concerns and Perceptions of AI: A Thematic Analysis through the Lens of Problem-Seeking]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.23930</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Scaling up the think-aloud method</title>
-      <link>https://arxiv.org/abs/2505.23931</link>
-      <description>&lt;![CDATA[Scaling up the think-aloud method]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23931</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BIRD: Behavior Induction via Representation-structure Distillation</title>
-      <link>https://arxiv.org/abs/2505.23933</link>
-      <description>&lt;![CDATA[BIRD: Behavior Induction via Representation-structure Distillation]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23933</guid>
       <category>AI</category>
     </item>
   </channel>
