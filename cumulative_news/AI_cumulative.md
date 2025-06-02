@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:21
-**最后更新时间**: 2025-06-02 06:32
+**最后更新时间**: 2025-06-02 18:05
+
+---
+
+## 🆕 最新更新 (2025-06-02 18:05)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Trump administration has shut down more than 100 climate studies](https://www.technologyreview.com/2025/06/02/1117653/the-trump-administration-has-shut-down-more-than-100-climate-studies/)
+**发布时间**: 2025-06-02 09:00
 
 ---
 

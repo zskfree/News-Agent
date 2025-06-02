@@ -10,10 +10,130 @@ import re
 from datetime import datetime
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
+from urllib.parse import urlparse, parse_qs
+import hashlib
+
+def normalize_url(url):
+    """
+    标准化URL，去除查询参数和锚点，用于去重比较
+    
+    参数:
+        url (str): 原始URL
+        
+    返回:
+        str: 标准化后的URL
+    """
+    try:
+        parsed = urlparse(url)
+        # 移除查询参数和片段
+        normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+        return normalized.lower().strip()
+    except:
+        return url.lower().strip()
+
+def calculate_title_similarity_hash(title):
+    """
+    计算标题的相似性哈希，用于检测相似标题
+    
+    参数:
+        title (str): 新闻标题
+        
+    返回:
+        str: 标题的哈希值
+    """
+    # 清理标题：移除标点符号、空格，转换为小写
+    import string
+    cleaned_title = title.lower()
+    # 移除标点符号和特殊字符
+    cleaned_title = ''.join(char for char in cleaned_title if char not in string.punctuation)
+    # 移除多余空格
+    cleaned_title = ' '.join(cleaned_title.split())
+    
+    # 计算MD5哈希
+    return hashlib.md5(cleaned_title.encode('utf-8')).hexdigest()
+
+def deduplicate_articles(articles, max_articles=50):
+    """
+    去除重复的新闻文章
+    
+    参数:
+        articles (list): 文章列表
+        max_articles (int): 最大保留文章数
+        
+    返回:
+        list: 去重后的文章列表
+    """
+    if not articles:
+        return []
+    
+    print(f"  🔍 开始去重，原始文章数: {len(articles)}")
+    
+    seen_urls = set()
+    seen_title_hashes = set()
+    deduplicated_articles = []
+    
+    for article in articles:
+        title = article.get('title', '').strip()
+        link = article.get('link', '').strip()
+        
+        if not title or not link:
+            continue
+        
+        # 标准化URL进行比较
+        normalized_url = normalize_url(link)
+        
+        # 计算标题的相似性哈希
+        title_hash = calculate_title_similarity_hash(title)
+        
+        # 检查是否为重复
+        is_duplicate = False
+        
+        # 1. 检查URL重复
+        if normalized_url in seen_urls:
+            is_duplicate = True
+            print(f"    ❌ URL重复: {title[:50]}...")
+        
+        # 2. 检查标题重复（相似度很高的标题）
+        elif title_hash in seen_title_hashes:
+            is_duplicate = True
+            print(f"    ❌ 标题重复: {title[:50]}...")
+        
+        # 3. 检查标题的高度相似性（更严格的检查）
+        else:
+            for existing_article in deduplicated_articles:
+                existing_title = existing_article.get('title', '').strip()
+                
+                # 简单的相似度检查：如果两个标题有80%以上的相同词汇
+                title_words = set(title.lower().split())
+                existing_words = set(existing_title.lower().split())
+                
+                if title_words and existing_words:
+                    intersection = len(title_words.intersection(existing_words))
+                    union = len(title_words.union(existing_words))
+                    similarity = intersection / union if union > 0 else 0
+                    
+                    if similarity > 0.8:  # 80%相似度阈值
+                        is_duplicate = True
+                        print(f"    ❌ 高度相似标题: {title[:50]}...")
+                        break
+        
+        if not is_duplicate:
+            seen_urls.add(normalized_url)
+            seen_title_hashes.add(title_hash)
+            deduplicated_articles.append(article)
+            
+            # 如果已经达到最大文章数，停止添加
+            if len(deduplicated_articles) >= max_articles:
+                break
+    
+    removed_count = len(articles) - len(deduplicated_articles)
+    print(f"  ✅ 去重完成，移除 {removed_count} 篇重复文章，保留 {len(deduplicated_articles)} 篇")
+    
+    return deduplicated_articles
 
 def parse_cumulative_markdown(md_file_path, max_recent_articles=20):
     """
-    解析累积Markdown文件，提取最近的文章信息
+    解析累积Markdown文件，提取最近的文章信息，并进行去重
     
     参数:
         md_file_path (str): 累积Markdown文件路径
@@ -56,13 +176,16 @@ def parse_cumulative_markdown(md_file_path, max_recent_articles=20):
     # 设置描述
     info['description'] = "累积新闻汇总，持续更新的科技资讯"
     
-    # 提取文章（优先提取最新的文章）
+    # 提取文章（提取更多文章以便去重后仍有足够数量）
+    # 为了确保去重后有足够的文章，我们先提取更多的文章
+    extraction_limit = max_recent_articles * 3  # 提取3倍数量用于去重
     article_pattern = r'#### \[(.+?)\]\((.+?)\)\s*(?:\*\*发布时间\*\*:\s*(.+?)(?:\n|$))?'
     articles = re.findall(article_pattern, content, re.MULTILINE | re.DOTALL)
     
-    # 限制文章数量，只取最新的文章
-    articles = articles[:max_recent_articles]
+    # 首先提取更多文章
+    articles = articles[:extraction_limit]
     
+    raw_articles = []
     for title, link, pub_time in articles:
         clean_title = title.replace('\\[', '[').replace('\\]', ']').strip()
         clean_link = link.strip()
@@ -85,12 +208,15 @@ def parse_cumulative_markdown(md_file_path, max_recent_articles=20):
         if not rss_pub_time:
             rss_pub_time = info['pub_date']
         
-        info['articles'].append({
+        raw_articles.append({
             'title': clean_title,
             'link': clean_link,
             'pub_date': rss_pub_time,
             'description': clean_title
         })
+    
+    # 进行去重处理
+    info['articles'] = deduplicate_articles(raw_articles, max_recent_articles)
     
     return info
 
@@ -326,7 +452,7 @@ def main():
     news_dir = "cumulative_news"
     feed_dir = "feed"
     base_url = "https://zskksz.asia/News-Agent"
-    max_articles_per_feed = 100  # 每个RSS Feed最多包含的文章数
+    max_articles_per_feed = 50  # 每个RSS Feed最多包含的文章数
     
     print(f"📋 配置信息:")
     print(f"  - 累积新闻目录: {news_dir}")

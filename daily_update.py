@@ -261,7 +261,7 @@ RSS_LINKS_PLACEHOLDER
     
     <h2>📚 说明</h2>
     <ul>
-        <li>RSS源每2h自动更新</li>
+        <li>RSS源每4h自动更新</li>
         <li>包含累积的历史新闻</li>
         <li>支持各大RSS阅读器</li>
         <li>新闻来源多样化，内容持续更新</li>

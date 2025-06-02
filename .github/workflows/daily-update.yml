@@ -2,7 +2,7 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 0,2,4,6,8,10,12,14,16 * * *'  # 北京时间 8,10,12,14,16,18,20,22,24点运行
+    - cron: '0 0,4,8,12 * * *'  # 北京时间 8, 12, 16, 20 点触发
   # 允许手动触发
   workflow_dispatch:
     inputs:

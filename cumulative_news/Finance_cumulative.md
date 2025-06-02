@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-06-02 08:30
+**最后更新时间**: 2025-06-02 18:06
+
+---
+
+## 🆕 最新更新 (2025-06-02 18:06)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This market pro says the Fed is going to cut interest rates this year, but ‘they don’t know it yet.’ Is he right?](https://www.marketwatch.com/story/this-market-pro-says-the-fed-is-going-to-cut-interest-rates-this-year-but-they-dont-know-it-yet-is-he-right-12b715e3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 10:00
+
+#### [Here’s why Goldman still sees 10% upside to the S&P 500, even with bond yields rising](https://www.marketwatch.com/story/heres-why-goldman-still-sees-10-upside-to-the-s-p-500-even-with-bond-yields-rising-78757d37?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 09:35
+
+#### [‘He failed in his fiduciary duty’: My brother liquidated our mother’s 401(k) for her nursing home. He claimed the rest.](https://www.marketwatch.com/story/he-failed-in-his-fiduciary-duty-my-brother-liquidated-our-mothers-401-k-for-her-nursing-home-he-claimed-the-rest-141c9355?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 09:15
+
+#### [Pope Leo XIV’s childhood home near Chicago is up for auction, but local city wants it to be a sacred site](https://www.marketwatch.com/story/pope-leo-xivs-childhood-home-near-chicago-is-up-for-auction-but-local-city-wants-it-to-be-a-sacred-site-54378a63?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 09:04
+
+#### [Billionaire Hailey Bieber’s $26 million Beverly Hills mansion is her hideaway from the spotlight](https://www.marketwatch.com/story/billionaire-hailey-biebers-26-million-beverly-hills-mansion-is-her-hideaway-from-the-spotlight-5a02eb88?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 09:01
+
+#### [Tariffs and auto manufacturing are no simple matter, as illustrated by this Honda factory in Indiana](https://www.marketwatch.com/story/tariffs-and-auto-manufacturing-are-no-simple-matter-as-illustrated-by-this-honda-factory-in-indiana-14ff03e0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 08:59
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Goldman Sachs brushes aside rising bond yields, sees 10% upside for S&P 500](https://www.marketwatch.com/bulletins/redirect/go?g=e491131b-80b8-448e-8d78-d14347f9d5d0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 09:41
+
+#### [Dow futures drop over 224 points as China accuses U.S. of violating trade truce](https://www.marketwatch.com/bulletins/redirect/go?g=30a6e7a0-b6a4-4674-b1a8-bcb520fe3784&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 09:16
 
 ---
 
