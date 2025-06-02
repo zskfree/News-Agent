@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 04:31:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 04:31:20 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 06:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:33:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>首次解释LLM如何推理反思！西北大学谷歌新框架：引入贝叶斯自适应强化学习，数学推理全面提升</title>
+      <link>https://www.qbitai.com/2025/06/290227.html</link>
+      <description>&lt;![CDATA[首次解释LLM如何推理反思！西北大学谷歌新框架：引入贝叶斯自适应强化学习，数学推理全面提升]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 04:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290227.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>5700问答对全面评估拷问AI空间感！最新空间智能评测基准来了丨浙大&amp;成电&amp;港中文</title>
+      <link>https://www.qbitai.com/2025/06/290216.html</link>
+      <description>&lt;![CDATA[5700问答对全面评估拷问AI空间感！最新空间智能评测基准来了丨浙大&amp;成电&amp;港中文]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 04:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290216.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>让ChatGPT连读“A”，直接崩溃到念广告词，网友：拿付费用户做测试呢？</title>
+      <link>https://www.qbitai.com/2025/06/290154.html</link>
+      <description>&lt;![CDATA[让ChatGPT连读“A”，直接崩溃到念广告词，网友：拿付费用户做测试呢？]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 04:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290154.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>Using Reasoning Models to Generate Search Heuristics that Solve Open Instances of Combinatorial Design Problems</title>
       <link>https://arxiv.org/abs/2505.23881</link>
@@ -787,30 +811,6 @@
       <description>&lt;![CDATA[BIRD: Behavior Induction via Representation-structure Distillation]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.23933</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations</title>
-      <link>https://arxiv.org/abs/2505.23942</link>
-      <description>&lt;![CDATA[SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23942</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Closer Look at Bias and Chain-of-Thought Faithfulness of Large (Vision) Language Models</title>
-      <link>https://arxiv.org/abs/2505.23945</link>
-      <description>&lt;![CDATA[A Closer Look at Bias and Chain-of-Thought Faithfulness of Large (Vision) Language Models]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23945</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Position: The Future of Bayesian Prediction Is Prior-Fitted</title>
-      <link>https://arxiv.org/abs/2505.23947</link>
-      <description>&lt;![CDATA[Position: The Future of Bayesian Prediction Is Prior-Fitted]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23947</guid>
       <category>AI</category>
     </item>
   </channel>
