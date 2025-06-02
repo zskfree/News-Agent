@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 03:21:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 03:21:44 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 04:31:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 04:31:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>关于系统权限的问题咨询</title>
+      <link>https://www.v2ex.com/t/1135807#reply2</link>
+      <description>&lt;![CDATA[关于系统权限的问题咨询]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 04:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135807#reply2</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>《高性能 MySQL》第三版：是否已经过时？</title>
+      <link>https://www.v2ex.com/t/1135741#reply23</link>
+      <description>&lt;![CDATA[《高性能 MySQL》第三版：是否已经过时？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135741#reply23</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行</title>
+      <link>https://www.v2ex.com/t/1135703#reply8</link>
+      <description>&lt;![CDATA[小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135703#reply8</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想趁 618 入手一台 nas，极空间和群晖二选一</title>
+      <link>https://www.v2ex.com/t/1135203#reply58</link>
+      <description>&lt;![CDATA[想趁 618 入手一台 nas，极空间和群晖二选一]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135203#reply58</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~</title>
+      <link>https://www.v2ex.com/t/1135118#reply60</link>
+      <description>&lt;![CDATA[各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 03:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135118#reply60</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>从 Copilot 到 Coding Agent，AI 驱动软件开发的未来</title>
       <link>https://www.infoq.cn/video/TJq2JEa6jNo16RTGobUt?utm_source=rss&amp;utm_medium=article</link>
@@ -771,46 +811,6 @@
       <description>&lt;![CDATA[做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.]]&gt;</description>
       <pubDate>Sat, 31 May 2025 07:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.v2ex.com/t/1135615#reply65</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>通义灵码出了 IDE</title>
-      <link>https://www.v2ex.com/t/1135587#reply30</link>
-      <description>&lt;![CDATA[通义灵码出了 IDE]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135587#reply30</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了</title>
-      <link>https://www.v2ex.com/t/1135453#reply25</link>
-      <description>&lt;![CDATA[Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 06:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135453#reply25</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>智能体的形式会不会终结?</title>
-      <link>https://www.v2ex.com/t/1135448#reply17</link>
-      <description>&lt;![CDATA[智能体的形式会不会终结?]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135448#reply17</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想重写一下博客 UI 了，各位有没有一些参考的案例推荐？</title>
-      <link>https://www.v2ex.com/t/1135131#reply66</link>
-      <description>&lt;![CDATA[想重写一下博客 UI 了，各位有没有一些参考的案例推荐？]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135131#reply66</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>20% Off Brooks Promo Code &amp; Deals for June 2025</title>
-      <link>https://www.wired.com/story/brooks-promo-code/</link>
-      <description>&lt;![CDATA[20% Off Brooks Promo Code &amp; Deals for June 2025]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/brooks-promo-code/</guid>
       <category>Technology</category>
     </item>
   </channel>
