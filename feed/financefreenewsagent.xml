@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 01:50:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 01:50:00 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 03:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 03:21:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oil prices jump despite OPEC+ announcing another sharp production hike</title>
+      <link>https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil prices jump despite OPEC+ announcing another sharp production hike]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 02:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Oil prices jump after OPEC+ agrees to another sharp production hike</title>
       <link>https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7?mod=mw_rss_topstories</link>
@@ -803,14 +811,6 @@
       <description>&lt;![CDATA[This researcher put 1.1 million Wall Street analyst notes through AI. Here’s what it found.]]&gt;</description>
       <pubDate>Thu, 29 May 2025 14:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/this-researcher-put-1-1-million-wall-street-analyst-notes-through-ai-heres-what-it-found-1b3e52d2?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia just showed that things are only looking up from here</title>
-      <link>https://www.marketwatch.com/story/nvidia-just-showed-that-things-are-only-looking-up-from-here-97f358d4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia just showed that things are only looking up from here]]&gt;</description>
-      <pubDate>Thu, 29 May 2025 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidia-just-showed-that-things-are-only-looking-up-from-here-97f358d4?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

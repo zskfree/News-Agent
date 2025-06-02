@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 11:22
-**最后更新时间**: 2025-06-02 01:49
+**最后更新时间**: 2025-06-02 03:21
+
+---
+
+## 🆕 最新更新 (2025-06-02 03:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Copilot 到 Coding Agent，AI 驱动软件开发的未来](https://www.infoq.cn/video/TJq2JEa6jNo16RTGobUt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-02 10:00
+
+#### [谷歌发布Gemma 3n预览版和设备函数调用SDK](https://www.infoq.cn/article/jwRMocb77ZCkxWBlhF61?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-02 10:00
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [infuse 最新版无法连上飞牛影视](https://www.v2ex.com/t/1135786#reply3)
+**发布时间**: 2025-06-01 23:59
+
+#### [有用 LiveKit 做过视频语音会议系统的没？](https://www.v2ex.com/t/1135779#reply1)
+**发布时间**: 2025-06-01 20:06
+
+#### [2025 年了，传统分布式架构还会是主流吗](https://www.v2ex.com/t/1135777#reply4)
+**发布时间**: 2025-06-01 17:27
+
+#### [《高性能 MySQL》第三版：是否已经过时？](https://www.v2ex.com/t/1135741#reply20)
+**发布时间**: 2025-06-01 11:58
+
+#### [兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！](https://www.v2ex.com/t/1135713#reply6)
+**发布时间**: 2025-06-01 06:30
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply29)
+**发布时间**: 2025-06-01 03:48
+
+#### [智能体的形式会不会终结?](https://www.v2ex.com/t/1135448#reply19)
+**发布时间**: 2025-05-30 06:28
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply71)
+**发布时间**: 2025-05-29 05:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [造车为虚，敛财为实，金鱼汽车什么来头？ | 马上评](https://www.tmtpost.com/7583037.html)
+**发布时间**: 2025-06-01 06:50
 
 ---
 

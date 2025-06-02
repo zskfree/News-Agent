@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
-**最后更新时间**: 2025-06-02 01:50
+**最后更新时间**: 2025-06-02 03:21
+
+---
+
+## 🆕 最新更新 (2025-06-02 03:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices jump despite OPEC+ announcing another sharp production hike](https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 02:53
 
 ---
 

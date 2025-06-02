@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 01:49:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 01:50:00 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 03:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 03:21:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从 Copilot 到 Coding Agent，AI 驱动软件开发的未来</title>
+      <link>https://www.infoq.cn/video/TJq2JEa6jNo16RTGobUt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 Copilot 到 Coding Agent，AI 驱动软件开发的未来]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/TJq2JEa6jNo16RTGobUt?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌发布Gemma 3n预览版和设备函数调用SDK</title>
+      <link>https://www.infoq.cn/article/jwRMocb77ZCkxWBlhF61?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌发布Gemma 3n预览版和设备函数调用SDK]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jwRMocb77ZCkxWBlhF61?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>infuse 最新版无法连上飞牛影视</title>
+      <link>https://www.v2ex.com/t/1135786#reply3</link>
+      <description>&lt;![CDATA[infuse 最新版无法连上飞牛影视]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 23:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135786#reply3</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>有用 LiveKit 做过视频语音会议系统的没？</title>
+      <link>https://www.v2ex.com/t/1135779#reply1</link>
+      <description>&lt;![CDATA[有用 LiveKit 做过视频语音会议系统的没？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135779#reply1</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2025 年了，传统分布式架构还会是主流吗</title>
+      <link>https://www.v2ex.com/t/1135777#reply4</link>
+      <description>&lt;![CDATA[2025 年了，传统分布式架构还会是主流吗]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135777#reply4</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>《高性能 MySQL》第三版：是否已经过时？</title>
+      <link>https://www.v2ex.com/t/1135741#reply20</link>
+      <description>&lt;![CDATA[《高性能 MySQL》第三版：是否已经过时？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135741#reply20</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！</title>
+      <link>https://www.v2ex.com/t/1135713#reply6</link>
+      <description>&lt;![CDATA[兄弟们， AI 开发工具到底用哪款, Azure AI Studio, AWS Bedrock, LangChain, LIamaIndex? 谢谢！]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135713#reply6</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
+      <link>https://www.v2ex.com/t/1135699#reply29</link>
+      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply29</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智能体的形式会不会终结?</title>
+      <link>https://www.v2ex.com/t/1135448#reply19</link>
+      <description>&lt;![CDATA[智能体的形式会不会终结?]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135448#reply19</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>想重写一下博客 UI 了，各位有没有一些参考的案例推荐？</title>
+      <link>https://www.v2ex.com/t/1135131#reply71</link>
+      <description>&lt;![CDATA[想重写一下博客 UI 了，各位有没有一些参考的案例推荐？]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.v2ex.com/t/1135131#reply71</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>造车为虚，敛财为实，金鱼汽车什么来头？ | 马上评</title>
+      <link>https://www.tmtpost.com/7583037.html</link>
+      <description>&lt;![CDATA[造车为虚，敛财为实，金鱼汽车什么来头？ | 马上评]]&gt;</description>
+      <pubDate>Sun, 01 Jun 2025 06:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7583037.html</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>雷军疑似回应余承东：诋毁，也是仰望；京东外卖日单超 2500 万；端午档票房破 2 亿，《碟中谍 8》占一半</title>
       <link>http://www.geekpark.net/news/350004</link>
@@ -723,94 +811,6 @@
       <description>&lt;![CDATA[20% Off Brooks Promo Code &amp; Deals for June 2025]]&gt;</description>
       <pubDate>Sun, 01 Jun 2025 05:35:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.wired.com/story/brooks-promo-code/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Bose Coupon Codes &amp; Discounts: 10% Off</title>
-      <link>https://www.wired.com/story/bose-coupon-code/</link>
-      <description>&lt;![CDATA[Bose Coupon Codes &amp; Discounts: 10% Off]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/bose-coupon-code/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>B&amp;H Photo Promo Codes and Deals for June 2025</title>
-      <link>https://www.wired.com/story/bh-photo-coupon/</link>
-      <description>&lt;![CDATA[B&amp;H Photo Promo Codes and Deals for June 2025]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/bh-photo-coupon/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Blue Apron Coupons: $80 Off + Free Shipping | June 2025</title>
-      <link>https://www.wired.com/story/blue-apron-coupon/</link>
-      <description>&lt;![CDATA[Blue Apron Coupons: $80 Off + Free Shipping | June 2025]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/blue-apron-coupon/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>1Password Coupon: Get Up to 50% Off in June</title>
-      <link>https://www.wired.com/story/1password-coupon/</link>
-      <description>&lt;![CDATA[1Password Coupon: Get Up to 50% Off in June]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/1password-coupon/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Top KitchenAid Promo Codes and Coupons</title>
-      <link>https://www.wired.com/story/exclusive-kitchenaid-promo-code/</link>
-      <description>&lt;![CDATA[Top KitchenAid Promo Codes and Coupons]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/exclusive-kitchenaid-promo-code/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>VistaPrint Coupon: Get Up to $50 Off</title>
-      <link>https://www.wired.com/story/vistaprint-coupon-code/</link>
-      <description>&lt;![CDATA[VistaPrint Coupon: Get Up to $50 Off]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/vistaprint-coupon-code/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Deepseek 的自我阉割</title>
-      <link>https://www.v2ex.com/t/1135706#reply2</link>
-      <description>&lt;![CDATA[Deepseek 的自我阉割]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 05:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135706#reply2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行</title>
-      <link>https://www.v2ex.com/t/1135703#reply3</link>
-      <description>&lt;![CDATA[小米系统怎么直接连上需要确认的 WiFi, 每次都要点一下才行]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 04:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135703#reply3</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>低 glibc 版本服务器，有没有办法用 AI？</title>
-      <link>https://www.v2ex.com/t/1135699#reply9</link>
-      <description>&lt;![CDATA[低 glibc 版本服务器，有没有办法用 AI？]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 03:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135699#reply9</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>送一份 Ethers.js web3 快速入门教程</title>
-      <link>https://www.v2ex.com/t/1135697#reply2</link>
-      <description>&lt;![CDATA[送一份 Ethers.js web3 快速入门教程]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 03:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135697#reply2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速</title>
-      <link>https://www.v2ex.com/t/1135682#reply11</link>
-      <description>&lt;![CDATA[今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速]]&gt;</description>
-      <pubDate>Sun, 01 Jun 2025 01:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135682#reply11</guid>
       <category>Technology</category>
     </item>
   </channel>
