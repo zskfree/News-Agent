@@ -1,6 +1,7 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-05-29 04:20
+<<<<<<< HEAD
 **最后更新时间**: 2025-06-02 18:06
 
 ---
@@ -8,6 +9,18 @@
 ## 🆕 最新更新 (2025-06-02 18:06)
 ### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
 
+=======
+**最后更新时间**: 2025-06-02 10:24
+
+---
+
+## 🆕 最新更新 (2025-06-02 10:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What on earth is going on with the American consumer?](https://www.marketwatch.com/story/what-on-earth-is-going-on-with-the-american-consumer-d594ed5b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 10:15
+
+>>>>>>> 7bba39b8a13e77e63533362db629d5abc94ffea6
 #### [This market pro says the Fed is going to cut interest rates this year, but ‘they don’t know it yet.’ Is he right?](https://www.marketwatch.com/story/this-market-pro-says-the-fed-is-going-to-cut-interest-rates-this-year-but-they-dont-know-it-yet-is-he-right-12b715e3?mod=mw_rss_topstories)
 **发布时间**: 2025-06-02 10:00
 
