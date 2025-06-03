@@ -2,7 +2,40 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-02 18:05
+**最后更新时间**: 2025-06-03 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-03 00:56)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [LSTM之父22年前构想将成真？一周内AI「自我进化」论文集中发布，新趋势涌现？](https://www.jiqizhixin.com/articles/2025-06-02-4)
+**发布时间**: 2025-06-02 22:46
+
+#### [微软等提出「模型链」新范式，与Transformer性能相当，扩展性灵活性更好](https://www.jiqizhixin.com/articles/2025-06-02-3)
+**发布时间**: 2025-06-02 22:40
+
+#### [姚顺雨提到的「AI下半场」，产品评估仍被误解](https://www.jiqizhixin.com/articles/2025-06-02-2)
+**发布时间**: 2025-06-02 22:37
+
+#### [CVPR 2025 | 解决XR算力瓶颈，FovealSeg框架实现毫秒级IOI分割](https://www.jiqizhixin.com/articles/2025-06-02)
+**发布时间**: 2025-06-02 22:34
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI stirs up the recipe for concrete in MIT study](https://news.mit.edu/2025/ai-stirs-recipe-for-concrete-0602)
+**发布时间**: 2025-06-02 15:45
+
+#### [Teaching AI models the broad strokes to sketch more like humans do](https://news.mit.edu/2025/teaching-ai-models-to-sketch-more-like-humans-0602)
+**发布时间**: 2025-06-02 14:50
+
+#### [3 Questions: How to help students recognize potential bias in their AI datasets](https://news.mit.edu/2025/3-questions-recognizing-potential-bias-in-ai-datasets-0602)
+**发布时间**: 2025-06-02 10:30
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: US climate studies are being shut down, and building cities from lava](https://www.technologyreview.com/2025/06/02/1117675/the-download-us-climate-studies-are-being-shut-down-and-building-cities-from-lava/)
+**发布时间**: 2025-06-02 12:10
 
 ---
 

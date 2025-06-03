@@ -5,14 +5,78 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 18:05:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 12:22:20 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:57:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LSTM之父22年前构想将成真？一周内AI「自我进化」论文集中发布，新趋势涌现？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-02-4</link>
+      <description>&lt;![CDATA[LSTM之父22年前构想将成真？一周内AI「自我进化」论文集中发布，新趋势涌现？]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 22:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-02-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>微软等提出「模型链」新范式，与Transformer性能相当，扩展性灵活性更好</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-02-3</link>
+      <description>&lt;![CDATA[微软等提出「模型链」新范式，与Transformer性能相当，扩展性灵活性更好]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 22:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-02-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>姚顺雨提到的「AI下半场」，产品评估仍被误解</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-02-2</link>
+      <description>&lt;![CDATA[姚顺雨提到的「AI下半场」，产品评估仍被误解]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-02-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CVPR 2025 | 解决XR算力瓶颈，FovealSeg框架实现毫秒级IOI分割</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-02</link>
+      <description>&lt;![CDATA[CVPR 2025 | 解决XR算力瓶颈，FovealSeg框架实现毫秒级IOI分割]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 22:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-02</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI stirs up the recipe for concrete in MIT study</title>
+      <link>https://news.mit.edu/2025/ai-stirs-recipe-for-concrete-0602</link>
+      <description>&lt;![CDATA[AI stirs up the recipe for concrete in MIT study]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-stirs-recipe-for-concrete-0602</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Teaching AI models the broad strokes to sketch more like humans do</title>
+      <link>https://news.mit.edu/2025/teaching-ai-models-to-sketch-more-like-humans-0602</link>
+      <description>&lt;![CDATA[Teaching AI models the broad strokes to sketch more like humans do]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/teaching-ai-models-to-sketch-more-like-humans-0602</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>3 Questions: How to help students recognize potential bias in their AI datasets</title>
+      <link>https://news.mit.edu/2025/3-questions-recognizing-potential-bias-in-ai-datasets-0602</link>
+      <description>&lt;![CDATA[3 Questions: How to help students recognize potential bias in their AI datasets]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/3-questions-recognizing-potential-bias-in-ai-datasets-0602</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: US climate studies are being shut down, and building cities from lava</title>
+      <link>https://www.technologyreview.com/2025/06/02/1117675/the-download-us-climate-studies-are-being-shut-down-and-building-cities-from-lava/</link>
+      <description>&lt;![CDATA[The Download: US climate studies are being shut down, and building cities from lava]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/02/1117675/the-download-us-climate-studies-are-being-shut-down-and-building-cities-from-lava/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>蔚来小米都在用，22家车企撑起扬州巨头冲刺IPO</title>
       <link>https://www.qbitai.com/2025/06/290270.html</link>
@@ -347,70 +411,6 @@
       <description>&lt;![CDATA[Few-Shot Optimization for Sensor Data Using Large Language Models: A Case Study on Fatigue Detection]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.18754</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A comprehensive survey of cybercrimes in India over the last decade</title>
-      <link>https://arxiv.org/abs/2505.23770</link>
-      <description>&lt;![CDATA[A comprehensive survey of cybercrimes in India over the last decade]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23770</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>More-than-Human Storytelling: Designing Longitudinal Narrative Engagements with Generative AI</title>
-      <link>https://arxiv.org/abs/2505.23780</link>
-      <description>&lt;![CDATA[More-than-Human Storytelling: Designing Longitudinal Narrative Engagements with Generative AI]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23780</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>4,500 Seconds: Small Data Training Approaches for Deep UAV Audio Classification</title>
-      <link>https://arxiv.org/abs/2505.23782</link>
-      <description>&lt;![CDATA[4,500 Seconds: Small Data Training Approaches for Deep UAV Audio Classification]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23782</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Boosting In-Context Learning in LLMs Through the Lens of Classical Supervised Learning</title>
-      <link>https://arxiv.org/abs/2505.23783</link>
-      <description>&lt;![CDATA[Boosting In-Context Learning in LLMs Through the Lens of Classical Supervised Learning]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23783</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Meaning Is Not A Metric: Using LLMs to make cultural context legible at scale</title>
-      <link>https://arxiv.org/abs/2505.23785</link>
-      <description>&lt;![CDATA[Meaning Is Not A Metric: Using LLMs to make cultural context legible at scale]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23785</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mind the Gap: A Practical Attack on GGUF Quantization</title>
-      <link>https://arxiv.org/abs/2505.23786</link>
-      <description>&lt;![CDATA[Mind the Gap: A Practical Attack on GGUF Quantization]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23786</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Nine Ways to Break Copyright Law and Why Our LLM Won't: A Fair Use Aligned Generation Framework</title>
-      <link>https://arxiv.org/abs/2505.23788</link>
-      <description>&lt;![CDATA[Nine Ways to Break Copyright Law and Why Our LLM Won't: A Fair Use Aligned Generation Framework]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23788</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rethinking the Understanding Ability across LLMs through Mutual Information</title>
-      <link>https://arxiv.org/abs/2505.23790</link>
-      <description>&lt;![CDATA[Rethinking the Understanding Ability across LLMs through Mutual Information]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.23790</guid>
       <category>AI</category>
     </item>
   </channel>

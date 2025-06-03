@@ -2,7 +2,139 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-02 12:22
+**最后更新时间**: 2025-06-03 00:57
+
+---
+
+## 🆕 最新更新 (2025-06-03 00:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [钛媒体科股早知道：大飞机或将进入高速发展阶段，市场供应能力将大幅增强](https://www.tmtpost.com/7584188.html)
+**发布时间**: 2025-06-03 08:52
+
+#### [吊打GoPro，国产运动相机“杀疯了”](https://www.tmtpost.com/7584058.html)
+**发布时间**: 2025-06-03 08:52
+
+#### [Costco最新财报出炉，全球市场逆势增长，偏偏中国市场拖了后腿](https://www.tmtpost.com/7584083.html)
+**发布时间**: 2025-06-03 08:40
+
+#### [除了被嘲，今年音综到底还有没有搞头？](https://www.tmtpost.com/7584132.html)
+**发布时间**: 2025-06-03 08:35
+
+#### [“苏超”火出圈，江苏为地方文旅找到了新出路](https://www.tmtpost.com/7584177.html)
+**发布时间**: 2025-06-03 08:35
+
+#### [今年人形机器人赛道已涌进超180亿元，50万亿级的科技竞赛正蓄势待发](https://www.tmtpost.com/7584049.html)
+**发布时间**: 2025-06-03 08:11
+
+#### [5亿用户捧出“教育界消消乐”，多邻国靠AI能走多远？](https://www.tmtpost.com/7584104.html)
+**发布时间**: 2025-06-03 08:01
+
+#### [【钛晨报】反对“内卷式”恶性竞争，中国汽车工业协会发布重要倡议；香港《稳定币条例》正式成为法例；特朗普称将把进口钢铁关税从25%提高至50%](https://www.tmtpost.com/7583731.html)
+**发布时间**: 2025-06-03 07:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [李斌评蔚来车主高速睡着：辅助驾驶非自动驾驶；苹果WWDC海报曝光；人造肌肉问世，可自我修复｜极客早知道](http://www.geekpark.net/news/350007)
+**发布时间**: 2025-06-03 08:11
+
+### 📰 来源: [V2EX 技术讨论](https://www.v2ex.com/feed/tab/tech.xml)
+
+#### [仅仅 nas，那么 TurnkeyLinux 的 Fileserver 镜像就很合适](https://www.v2ex.com/t/1135908#reply0)
+**发布时间**: 2025-06-03 00:34
+
+#### [Gnome 窗口 变得不可以点击，折磨了我一个假期啊！](https://www.v2ex.com/t/1135877#reply16)
+**发布时间**: 2025-06-02 12:30
+
+#### [为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？](https://www.v2ex.com/t/1135858#reply21)
+**发布时间**: 2025-06-02 10:27
+
+#### [租服务器部署满血版 deepseek 大概要多少钱](https://www.v2ex.com/t/1135857#reply3)
+**发布时间**: 2025-06-02 10:24
+
+#### [除了 synology drive，还有支持选择性同步的本地部署云盘吗](https://www.v2ex.com/t/1135848#reply15)
+**发布时间**: 2025-06-02 09:33
+
+#### [关于系统权限的问题咨询](https://www.v2ex.com/t/1135807#reply25)
+**发布时间**: 2025-06-02 04:09
+
+#### [infuse 最新版无法连上飞牛影视](https://www.v2ex.com/t/1135786#reply13)
+**发布时间**: 2025-06-01 23:59
+
+#### [2025 年了，传统分布式架构还会是主流吗](https://www.v2ex.com/t/1135777#reply10)
+**发布时间**: 2025-06-01 17:27
+
+#### [《高性能 MySQL》第三版：是否已经过时？](https://www.v2ex.com/t/1135741#reply26)
+**发布时间**: 2025-06-01 11:58
+
+#### [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699#reply37)
+**发布时间**: 2025-06-01 03:48
+
+#### [做 ai 模型层的人,为什么会看不起做应用层的人?是不是做应用的人不配.](https://www.v2ex.com/t/1135615#reply88)
+**发布时间**: 2025-05-31 07:34
+
+#### [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582#reply58)
+**发布时间**: 2025-05-31 03:21
+
+#### [绿联和极空间 NAS 文件备份问题咨询](https://www.v2ex.com/t/1135315#reply28)
+**发布时间**: 2025-05-30 00:47
+
+#### [安卓有啥好用的备忘录 需要有 mac 端的](https://www.v2ex.com/t/1135223#reply27)
+**发布时间**: 2025-05-29 08:23
+
+#### [想重写一下博客 UI 了，各位有没有一些参考的案例推荐？](https://www.v2ex.com/t/1135131#reply75)
+**发布时间**: 2025-05-29 05:00
+
+#### [各位 现在你们开发还离得开 AI 吗? 最近在用 trae 感觉很爽呀~](https://www.v2ex.com/t/1135118#reply62)
+**发布时间**: 2025-05-29 03:44
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft will finally stop bugging Windows users about Edge — but only in Europe](https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge)
+**发布时间**: 2025-06-02 22:40
+
+#### [Ukraine&#8217;s drone strike isn&#8217;t just an attack — it&#8217;s first-person warfare](https://www.theverge.com/politics/678329/ukraine-drone-strike-attack-videos-social-media-russia)
+**发布时间**: 2025-06-02 22:10
+
+#### [Texas Right to Repair bill passes, heads to the governor’s desk](https://www.theverge.com/law/678334/right-to-repair-texas-hb-2963)
+**发布时间**: 2025-06-02 21:46
+
+#### [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+**发布时间**: 2025-06-02 21:16
+
+#### [Google Wallet is losing access to PayPal](https://www.theverge.com/news/678301/google-wallet-paypal-losing-access)
+**发布时间**: 2025-06-02 20:57
+
+#### [Rivian wants to make EV charging faster, smarter, and easier](https://www.theverge.com/news/678005/rivian-ev-charging-software-update-battery-fast-charging)
+**发布时间**: 2025-06-02 20:25
+
+#### [The Sonos Ace have hit their best price to date ahead of Father’s Day](https://www.theverge.com/tech/678138/sonos-ace-headphones-arc-ultra-fathers-day-2025-deal-sale)
+**发布时间**: 2025-06-02 18:59
+
+#### [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+**发布时间**: 2025-06-02 18:27
+
+#### [Gen V returns to Amazon for season 2 this September](https://www.theverge.com/news/678130/gen-v-season-2-premiere-date-september-17)
+**发布时间**: 2025-06-02 16:49
+
+#### [Google’s Pixel 10 phones will reportedly launch on August 13th](https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august)
+**发布时间**: 2025-06-02 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [破界而生：SuperX以全栈AI基础设施构建全球AI算力新势力](https://www.infoq.cn/article/ODy1yjzLyzJjw7UegAUN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-02 20:26
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [MSI Titan 18 HX AI Review: The Ultimate Gaming Laptop](https://www.wired.com/review/msi-titan-18-hx-ai/)
+**发布时间**: 2025-06-02 14:00
+
+#### [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
+**发布时间**: 2025-06-02 13:03
+
+#### [Best Garmin Watch (2025): Tested and Reviewed for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
+**发布时间**: 2025-06-02 12:32
 
 ---
 

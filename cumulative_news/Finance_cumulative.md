@@ -2,7 +2,68 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-02 12:22
+**最后更新时间**: 2025-06-03 00:57
+
+---
+
+## 🆕 最新更新 (2025-06-03 00:57)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why investors should care about Nvidia’s ‘very unusual’ relationship with CoreWeave](https://www.marketwatch.com/story/why-investors-should-care-about-nvidias-very-unusual-relationship-with-coreweave-3c326445?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 00:23
+
+#### [Here’s some good news for beleaguered bond traders](https://www.marketwatch.com/story/heres-some-good-news-for-beleaguered-bond-traders-e694746a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 22:50
+
+#### [Here’s how much higher gold prices can still go — even after doubling the past two years](https://www.marketwatch.com/story/gold-prices-doubled-in-just-two-years-to-new-highs-why-it-could-keep-going-to-7-000-5daa03ba?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 21:56
+
+#### [We used AI for retirement planning advice and were surprised by what we found](https://www.marketwatch.com/story/we-used-ai-for-retirement-planning-advice-and-were-surprised-by-what-we-found-dc64e936?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 21:04
+
+#### [Stocks will keep climbing during the summer, suggests this key tell](https://www.marketwatch.com/story/stocks-will-keep-climbing-during-the-summer-suggests-this-key-tell-4456061b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 20:53
+
+#### [What on Earth is going on with the American consumer?](https://www.marketwatch.com/story/what-on-earth-is-going-on-with-the-american-consumer-d594ed5b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 20:50
+
+#### [Trump ‘revenge tax’ may open new front in global trade war, with consequences for your wallet](https://www.marketwatch.com/story/trump-revenge-tax-may-open-new-front-in-global-trade-war-with-consequences-for-your-wallet-f3bec60f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 20:27
+
+#### [Jamie Dimon’s bond-market warnings put investors on alert to diversify outside U.S.](https://www.marketwatch.com/story/jamie-dimons-bond-market-warnings-put-investors-on-alert-to-diversify-outside-u-s-f8e4c924?mod=mw_rss_topstories)
+**发布时间**: 2025-06-02 20:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Opinion: Here’s how much higher gold prices can still go](https://www.marketwatch.com/bulletins/redirect/go?g=3f0650b8-7439-4fbf-8483-93c6e4080c67&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 23:27
+
+#### [Trump ‘revenge tax’ may open new front in global trade war, hitting your wallet](https://www.marketwatch.com/bulletins/redirect/go?g=7302f31e-c240-40d3-a4bc-765323eed586&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 22:49
+
+#### [As China’s AI industry booms, can Nvidia and other U.S. companies still get in?](https://www.marketwatch.com/bulletins/redirect/go?g=17bec2ac-d511-448b-bdd8-c93eb39981c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 21:57
+
+#### [This key tell suggests stocks will keep climbing during the summer](https://www.marketwatch.com/bulletins/redirect/go?g=9a5e5db4-3bea-4406-b09a-ca6dae8c0cc4&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 20:55
+
+#### [Here’s how much higher gold prices can still go after doubling the past 2 years](https://www.marketwatch.com/bulletins/redirect/go?g=92927035-c295-4ff0-9ca3-0e9c4289b56b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 20:25
+
+#### [Dow notches slight gain, S&P and Nasdaq rise after stocks reverse morning losses](https://www.marketwatch.com/bulletins/redirect/go?g=6860e15e-05f1-4563-8b47-9c9eb03f5f09&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 20:02
+
+#### [Why oil’s rally after Russia’s ‘Pearl Harbor’ moment may be short-lived](https://www.marketwatch.com/bulletins/redirect/go?g=718b2d9a-caa4-4c46-8102-37110fca3783&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 19:24
+
+#### [Dow trims losses, S&P 500 and Nasdaq climb in final hour of trade — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=2acc0a06-acd4-4f66-9f88-b999fdf1207f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 19:06
+
+#### [Why investors should care about Nvidia’s ‘unusual’ relationship with CoreWeave](https://www.marketwatch.com/bulletins/redirect/go?g=ff3ddb05-b44b-47f6-af56-283d36d396e2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 18:56
+
+#### [Can Nvidia and other U.S. companies still get in on China's booming AI industry?](https://www.marketwatch.com/bulletins/redirect/go?g=98d0fdb7-5cb7-4355-8b4d-115a2536e3a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-02 17:07
 
 ---
 
