@@ -2,7 +2,85 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 08:17
+**最后更新时间**: 2025-06-03 12:26
+
+---
+
+## 🆕 最新更新 (2025-06-03 12:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Emerging Market Slump Puts Brake on Global Smartphone Recovery in 2025](https://www.tmtpost.com/7585226.html)
+**发布时间**: 2025-06-03 19:34
+
+#### [被判10天内还债超亿元，ST香雪预重整路上风波不断](https://www.tmtpost.com/7585191.html)
+**发布时间**: 2025-06-03 19:18
+
+#### [超募17亿募投却大幅延期，绿通科技出海失利欲跨界半导体解困](https://www.tmtpost.com/7585130.html)
+**发布时间**: 2025-06-03 18:12
+
+#### [市场回暖，油价年内第4次上调](https://www.tmtpost.com/7584570.html)
+**发布时间**: 2025-06-03 16:58
+
+#### [T86终结后的小额包裹：两极分化，“变道”求生](https://www.tmtpost.com/7584907.html)
+**发布时间**: 2025-06-03 16:33
+
+#### [【Fintech 周报】今年以来184家小银行撤并，接近去年全年；工行浙江分行原行长被查](https://www.tmtpost.com/7584869.html)
+**发布时间**: 2025-06-03 16:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“不用 Cursor和 ChatGPT、手写代码的开发者，怕不是疯了？”](https://www.infoq.cn/article/rxlwTUgKHZwN0valxFvS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 19:10
+
+#### [吴恩达评Agent现状：MCP还欠火候，单Agent跑通已是“奇迹”，A2A协作堪称“双重奇迹”](https://www.infoq.cn/article/1QRdauCRC3PG0OdSjWaU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 18:14
+
+#### [Spring团队谈AOT缓存处理、空值安全性和支持政策](https://www.infoq.cn/article/Ig87QlHgfHRHujQPqT6d?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 18:00
+
+#### [Replit 怒锤“欧洲版 Cursor”：造出百款“高危”应用，普通开发者一小时内黑入，氛围编码成了黑客“天堂”？](https://www.infoq.cn/article/0XWhW4pj6qhEKEcJFrcy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 16:45
+
+#### [被高薪吸引却遭愚弄！科学家怒曝AI科研黑幕：多为个人“捞金”，DeepMind百万成果是“垃圾”](https://www.infoq.cn/article/8JEuUTg7PsVVsStMPr5R?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 16:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 095 | 派友618购物报告、你没见过的社区文章、一周最热评](https://sspai.com/post/99867)
+**发布时间**: 2025-06-03 17:16
+
+#### [AI 创意破壁大会：一场从「灵光一现」到「现场落地」的创意激活实验](https://sspai.com/post/99627)
+**发布时间**: 2025-06-03 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [玩完 DeepSeek R1 新版，外国网友又「蚌埠住了」？](http://www.geekpark.net/news/350033)
+**发布时间**: 2025-06-03 16:43
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Verge’s guide to an easier move](https://www.theverge.com/tech/675618/moving-guide-how-to)
+**发布时间**: 2025-06-03 12:05
+
+#### [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
+**发布时间**: 2025-06-03 12:00
+
+#### [How to organize your finances for a move](https://www.theverge.com/how-to/667742/moving-costs-finances-money-how-to)
+**发布时间**: 2025-06-03 11:30
+
+#### [Bing lets you use OpenAI’s Sora video generator for free](https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator)
+**发布时间**: 2025-06-03 10:35
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [20 Best Deals on Father's Day Gifts (2025)](https://www.wired.com/story/fathers-day-deals-2025/)
+**发布时间**: 2025-06-03 12:03
+
+#### [6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
+**发布时间**: 2025-06-03 10:30
+
+#### [Astronomers Have Detected a Galaxy Millions of Years Older Than Any Previously Observed](https://www.wired.com/story/astronomers-just-broke-the-record-for-the-oldest-galaxy-ever-detected-james-webb-space-telescope/)
+**发布时间**: 2025-06-03 09:00
 
 ---
 

@@ -2,7 +2,47 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 02:06
+**最后更新时间**: 2025-06-03 12:27
+
+---
+
+## 🆕 最新更新 (2025-06-03 12:27)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Factory orders, job openings and more Fed talk on the agenda](https://www.marketwatch.com/bulletins/redirect/go?g=fd1188aa-5255-4fb6-bf33-dbc95d8ab8ff&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 12:17
+
+#### [Tariff pressures don’t appear to be hurting Dollar General](https://www.marketwatch.com/bulletins/redirect/go?g=f70d52e1-cfa0-4461-be66-ac523c840ce9&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 12:00
+
+#### [Dow futures down 100 points as tariff anxiety continues to weigh on investors](https://www.marketwatch.com/bulletins/redirect/go?g=b9f8097b-e2a9-4afd-b500-2fbb93f94e34&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 08:44
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why it’ll be a sizzling summer for these underdog stocks](https://www.marketwatch.com/story/why-itll-be-a-sizzling-summer-for-these-underdog-stocks-1cd2ae60?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 12:05
+
+#### [Dollar General’s stock soars as tariff pressures didn’t hurt profits or outlook](https://www.marketwatch.com/story/dollar-general-stock-soars-on-better-than-expected-q1-results-raised-guidance-327ff0da?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 11:53
+
+#### [World’s largest asset manager forecasts bumpy ride upwards for global yields](https://www.marketwatch.com/story/worlds-largest-asset-manager-forecasts-bumpy-ride-upwards-for-global-yields-f7100d21?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 11:46
+
+#### [How Japan became America’s banker — and why the money’s running out](https://www.marketwatch.com/story/how-japan-became-americas-banker-and-why-the-moneys-running-out-19e28fe7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 11:45
+
+#### [‘I’m not wildly wealthy, but I’ve done well’: I’m 79 and have $3 million in assets. Should I set up 529 plans for my grandkids?](https://www.marketwatch.com/story/im-not-wildly-wealthy-but-ive-done-well-im-79-and-have-3-million-in-assets-should-i-set-up-529-plans-for-my-grandkids-6a597e6c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 09:15
+
+#### [The Patriots’ Stefon Diggs, his Maryland home, a $30,000 couch and a viral video](https://www.marketwatch.com/story/the-patriots-stefon-diggs-his-maryland-home-a-30-000-couch-and-a-viral-video-a2b3a588?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 09:03
+
+#### [OECD chops U.S. growth forecasts, cites risks to the downside as tariffs bite](https://www.marketwatch.com/story/oecd-chops-u-s-growth-forecasts-cites-risks-to-the-downside-as-tariffs-bite-42be736c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 09:02
+
+#### [How will Hugh Jackman and Deborra-Lee Furness split their enormous property portfolio in divorce?](https://www.marketwatch.com/story/how-will-hugh-jackman-and-deborra-lee-furness-split-their-enormous-property-portfolio-in-divorce-bc9f1495?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 09:01
 
 ---
 

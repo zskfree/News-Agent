@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jun 2025 08:17:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 08:17:16 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 12:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 12:27:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>本周日不见不散！CVPR 2025北京论文分享会最后报名了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-9</link>
+      <description>&lt;![CDATA[本周日不见不散！CVPR 2025北京论文分享会最后报名了]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>视觉感知驱动的多模态推理，阿里通义提出VRAG，定义下一代检索增强生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-8</link>
+      <description>&lt;![CDATA[视觉感知驱动的多模态推理，阿里通义提出VRAG，定义下一代检索增强生成]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: reasons to be optimistic about AI’s energy use, and Caiwei Chen’s three things</title>
+      <link>https://www.technologyreview.com/2025/06/03/1117693/the-download-reasons-to-be-optimistic-about-ais-energy-use-and-caiwei-chens-three-things/</link>
+      <description>&lt;![CDATA[The Download: reasons to be optimistic about AI’s energy use, and Caiwei Chen’s three things]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/03/1117693/the-download-reasons-to-be-optimistic-about-ais-energy-use-and-caiwei-chens-three-things/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Inside the tedious effort to tally AI’s energy appetite</title>
+      <link>https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/</link>
+      <description>&lt;![CDATA[Inside the tedious effort to tally AI’s energy appetite]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>音频大模型安全可信度的全面“体检”！清华南洋理工联手打造</title>
+      <link>https://www.qbitai.com/2025/06/290565.html</link>
+      <description>&lt;![CDATA[音频大模型安全可信度的全面“体检”！清华南洋理工联手打造]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 09:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290565.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>余承东含沙射影，雷军不点名回应，端午车圈口水仗没停</title>
+      <link>https://www.qbitai.com/2025/06/290506.html</link>
+      <description>&lt;![CDATA[余承东含沙射影，雷军不点名回应，端午车圈口水仗没停]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 09:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290506.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>论文秒变海报！开源框架PosterAgent一键生成顶会级学术Poster</title>
+      <link>https://www.qbitai.com/2025/06/290507.html</link>
+      <description>&lt;![CDATA[论文秒变海报！开源框架PosterAgent一键生成顶会级学术Poster]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290507.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>斯坦福临床医疗AI横评，DeepSeek把谷歌OpenAI都秒了</title>
+      <link>https://www.qbitai.com/2025/06/290445.html</link>
+      <description>&lt;![CDATA[斯坦福临床医疗AI横评，DeepSeek把谷歌OpenAI都秒了]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290445.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Manus新功能一手实测！10分钟8页PPT，网友：当前第一名没跑</title>
+      <link>https://www.qbitai.com/2025/06/290447.html</link>
+      <description>&lt;![CDATA[Manus新功能一手实测！10分钟8页PPT，网友：当前第一名没跑]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 08:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290447.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI陪伴Top 1应用上线视频生成！图片人物能说话唱歌，多轮对话场景依然稳定</title>
+      <link>https://www.qbitai.com/2025/06/290476.html</link>
+      <description>&lt;![CDATA[AI陪伴Top 1应用上线视频生成！图片人物能说话唱歌，多轮对话场景依然稳定]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290476.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI青年学霸齐聚杭州！这场峰会要选出「未来科学新星」</title>
+      <link>https://www.qbitai.com/2025/06/290419.html</link>
+      <description>&lt;![CDATA[AI青年学霸齐聚杭州！这场峰会要选出「未来科学新星」]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 07:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290419.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>经典ReLU回归！重大缺陷「死亡ReLU问题」已被解决</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-03-7</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[DrKGC: Dynamic Subgraph Retrieval-Augmented LLMs for Knowledge Graph Completion across General and Biomedical Domains]]&gt;</description>
       <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.00708</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?</title>
-      <link>https://arxiv.org/abs/2506.00751</link>
-      <description>&lt;![CDATA[Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00751</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HouseTS: A Large-Scale, Multimodal Spatiotemporal U.S. Housing Dataset</title>
-      <link>https://arxiv.org/abs/2506.00765</link>
-      <description>&lt;![CDATA[HouseTS: A Large-Scale, Multimodal Spatiotemporal U.S. Housing Dataset]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00765</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Do not Abstain! Identify and Solve the Uncertainty</title>
-      <link>https://arxiv.org/abs/2506.00780</link>
-      <description>&lt;![CDATA[Do not Abstain! Identify and Solve the Uncertainty]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00780</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CoP: Agentic Red-teaming for Large Language Models using Composition of Principles</title>
-      <link>https://arxiv.org/abs/2506.00781</link>
-      <description>&lt;![CDATA[CoP: Agentic Red-teaming for Large Language Models using Composition of Principles]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00781</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.00782</link>
-      <description>&lt;![CDATA[Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00782</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning</title>
-      <link>https://arxiv.org/abs/2506.00785</link>
-      <description>&lt;![CDATA[GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00785</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Predicting Empirical AI Research Outcomes with Language Models</title>
-      <link>https://arxiv.org/abs/2506.00794</link>
-      <description>&lt;![CDATA[Predicting Empirical AI Research Outcomes with Language Models]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00794</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision</title>
-      <link>https://arxiv.org/abs/2506.00807</link>
-      <description>&lt;![CDATA[Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00807</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SynPO: Synergizing Descriptiveness and Preference Optimization for Video Detailed Captioning</title>
-      <link>https://arxiv.org/abs/2506.00835</link>
-      <description>&lt;![CDATA[SynPO: Synergizing Descriptiveness and Preference Optimization for Video Detailed Captioning]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00835</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MedBookVQA: A Systematic and Comprehensive Medical Benchmark Derived from Open-Access Book</title>
-      <link>https://arxiv.org/abs/2506.00855</link>
-      <description>&lt;![CDATA[MedBookVQA: A Systematic and Comprehensive Medical Benchmark Derived from Open-Access Book]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00855</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GIA-MIC: Multimodal Emotion Recognition with Gated Interactive Attention and Modality-Invariant Learning Constraints</title>
-      <link>https://arxiv.org/abs/2506.00865</link>
-      <description>&lt;![CDATA[GIA-MIC: Multimodal Emotion Recognition with Gated Interactive Attention and Modality-Invariant Learning Constraints]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00865</guid>
       <category>AI</category>
     </item>
   </channel>
