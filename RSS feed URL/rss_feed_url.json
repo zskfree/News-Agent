@@ -126,12 +126,6 @@
         "rss": "https://www.infoq.cn/feed"
     },
     {
-        "name": "V2EX 技术讨论",
-        "category": "Technology",
-        "language": "zh",
-        "rss": "https://www.v2ex.com/feed/tab/tech.xml"
-    },
-    {
         "name": "少数派科技资讯",
         "category": "Technology",
         "language": "zh",
