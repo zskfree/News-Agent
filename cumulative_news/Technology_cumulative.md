@@ -2,7 +2,107 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 04:18
+**最后更新时间**: 2025-06-03 08:17
+
+---
+
+## 🆕 最新更新 (2025-06-03 08:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌悄悄发了个新应用，可本地运行AI模型！网友：部署超级快，但把我手机搞崩溃了](https://www.infoq.cn/article/xuiKgsGc6i6EtlaG7X1R?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 16:08
+
+#### [Azure AI Foundry Agent Service发布GA版本，引入多Agent编排和开放互操作性](https://www.infoq.cn/article/fAblSufcSfzWr0cePFTs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 16:00
+
+#### [大模型调优数据的高效构建与进化方法｜AICon北京](https://www.infoq.cn/article/buZtP1DQaLkZ9Zof1oPw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 16:00
+
+#### [智能投顾的大模型应用，为什么选择了“大小模型协同”？](https://www.infoq.cn/article/7QIYocYpUuLVKWrrI5lr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 15:52
+
+#### [Agent当道、模型封装一切：AI 时代的产研人如何不被“优化”？](https://www.infoq.cn/article/XAo4LEPaVbGb5kIzVaup?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 15:44
+
+#### [开鸿Bot，OpenHarmony开发的一体化革命](https://www.infoq.cn/article/RYFjc148xAfuKG1pA2fa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 15:34
+
+#### [大模型在企业人才选拔和培训中的深度实践｜AICon北京](https://www.infoq.cn/article/5sQzWQAuyBtus4VK0YNE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 14:00
+
+#### [Angular 16中RxJS的最佳实践：避免订阅陷阱并优化流处理](https://www.infoq.cn/article/98QVqKaAw2RB47Go6m4H?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-03 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [10万亿大市场，2025食品饮料的增长隐藏在这三个关键词里](https://www.tmtpost.com/7584829.html)
+**发布时间**: 2025-06-03 15:36
+
+#### [ASCO观察：PD-L1 ADC好戏开场了](https://www.tmtpost.com/7584853.html)
+**发布时间**: 2025-06-03 15:36
+
+#### [港股IPO狂飙：5个月吸金774亿，AI企业扎堆上市](https://www.tmtpost.com/7584854.html)
+**发布时间**: 2025-06-03 15:35
+
+#### [全国门店清零，知名网红餐饮品牌凉凉](https://www.tmtpost.com/7584865.html)
+**发布时间**: 2025-06-03 15:35
+
+#### [国内先进芯片设计，多点开花](https://www.tmtpost.com/7584773.html)
+**发布时间**: 2025-06-03 15:27
+
+#### [6月3日A股分析：沪指反弹收涨0.43%，两市成交额超1.14万亿，医药板块爆发，汽车零部件遭主力抛售](https://www.tmtpost.com/7584894.html)
+**发布时间**: 2025-06-03 15:23
+
+#### [Li Auto's Growth Engine Sputters as Price Cuts Undermine Q1 Momentum](https://www.tmtpost.com/7584838.html)
+**发布时间**: 2025-06-03 14:05
+
+#### [祥源控股拟23亿港元并购海昌海洋公园，专业败给了资本](https://www.tmtpost.com/7584760.html)
+**发布时间**: 2025-06-03 13:53
+
+#### [新能源BBA，这次又“真香”了](https://www.tmtpost.com/7584742.html)
+**发布时间**: 2025-06-03 13:53
+
+#### [2025年了，AI还是联想AIPC最不重要的部分](https://www.tmtpost.com/7584770.html)
+**发布时间**: 2025-06-03 13:53
+
+#### [下一个“芯片金矿”，玩家已就位](https://www.tmtpost.com/7584774.html)
+**发布时间**: 2025-06-03 13:53
+
+#### [三星电子，启动危机预案](https://www.tmtpost.com/7584699.html)
+**发布时间**: 2025-06-03 12:55
+
+#### [君亭在轻资产的道路上停不下来了](https://www.tmtpost.com/7584410.html)
+**发布时间**: 2025-06-03 12:15
+
+#### [China’s Leapmotor, Huawei-Backed Aito Post Record EV Deliveries in May Amid Intensifying Price War](https://www.tmtpost.com/7584729.html)
+**发布时间**: 2025-06-03 12:14
+
+#### [从财报看，大厂出海的新蓝海在哪？](https://www.tmtpost.com/7584485.html)
+**发布时间**: 2025-06-03 12:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 创意破壁⼤会：一场从「灵光一现」到「现场落地」的创意激活实验](https://sspai.com/post/99627)
+**发布时间**: 2025-06-03 15:00
+
+#### [WWDC25 派对之夜：广州加场，来和我们一起看 Apple 发布会](https://sspai.com/post/99852)
+**发布时间**: 2025-06-03 14:26
+
+#### [App+1｜给 Notion 重度用户的剪藏利器：Copy to Notion](https://sspai.com/post/99591)
+**发布时间**: 2025-06-03 12:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [TikTok is working again](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)
+**发布时间**: 2025-06-03 07:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [15% Off Dell Coupon Codes | June 2025](https://www.wired.com/story/dell-coupon-code/)
+**发布时间**: 2025-06-03 05:10
+
+#### [AirDoctor Coupon Codes: Up to $400 Off | June 2025](https://www.wired.com/story/airdoctor-coupon-code/)
+**发布时间**: 2025-06-03 05:00
 
 ---
 

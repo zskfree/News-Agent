@@ -5,14 +5,246 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jun 2025 04:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 04:18:49 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 08:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 08:17:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>谷歌悄悄发了个新应用，可本地运行AI模型！网友：部署超级快，但把我手机搞崩溃了</title>
+      <link>https://www.infoq.cn/article/xuiKgsGc6i6EtlaG7X1R?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌悄悄发了个新应用，可本地运行AI模型！网友：部署超级快，但把我手机搞崩溃了]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xuiKgsGc6i6EtlaG7X1R?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Azure AI Foundry Agent Service发布GA版本，引入多Agent编排和开放互操作性</title>
+      <link>https://www.infoq.cn/article/fAblSufcSfzWr0cePFTs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Azure AI Foundry Agent Service发布GA版本，引入多Agent编排和开放互操作性]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fAblSufcSfzWr0cePFTs?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大模型调优数据的高效构建与进化方法｜AICon北京</title>
+      <link>https://www.infoq.cn/article/buZtP1DQaLkZ9Zof1oPw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型调优数据的高效构建与进化方法｜AICon北京]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/buZtP1DQaLkZ9Zof1oPw?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智能投顾的大模型应用，为什么选择了“大小模型协同”？</title>
+      <link>https://www.infoq.cn/article/7QIYocYpUuLVKWrrI5lr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能投顾的大模型应用，为什么选择了“大小模型协同”？]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7QIYocYpUuLVKWrrI5lr?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agent当道、模型封装一切：AI 时代的产研人如何不被“优化”？</title>
+      <link>https://www.infoq.cn/article/XAo4LEPaVbGb5kIzVaup?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent当道、模型封装一切：AI 时代的产研人如何不被“优化”？]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XAo4LEPaVbGb5kIzVaup?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>开鸿Bot，OpenHarmony开发的一体化革命</title>
+      <link>https://www.infoq.cn/article/RYFjc148xAfuKG1pA2fa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开鸿Bot，OpenHarmony开发的一体化革命]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RYFjc148xAfuKG1pA2fa?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大模型在企业人才选拔和培训中的深度实践｜AICon北京</title>
+      <link>https://www.infoq.cn/article/5sQzWQAuyBtus4VK0YNE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型在企业人才选拔和培训中的深度实践｜AICon北京]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5sQzWQAuyBtus4VK0YNE?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Angular 16中RxJS的最佳实践：避免订阅陷阱并优化流处理</title>
+      <link>https://www.infoq.cn/article/98QVqKaAw2RB47Go6m4H?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Angular 16中RxJS的最佳实践：避免订阅陷阱并优化流处理]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/98QVqKaAw2RB47Go6m4H?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>10万亿大市场，2025食品饮料的增长隐藏在这三个关键词里</title>
+      <link>https://www.tmtpost.com/7584829.html</link>
+      <description>&lt;![CDATA[10万亿大市场，2025食品饮料的增长隐藏在这三个关键词里]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584829.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ASCO观察：PD-L1 ADC好戏开场了</title>
+      <link>https://www.tmtpost.com/7584853.html</link>
+      <description>&lt;![CDATA[ASCO观察：PD-L1 ADC好戏开场了]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584853.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>港股IPO狂飙：5个月吸金774亿，AI企业扎堆上市</title>
+      <link>https://www.tmtpost.com/7584854.html</link>
+      <description>&lt;![CDATA[港股IPO狂飙：5个月吸金774亿，AI企业扎堆上市]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584854.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全国门店清零，知名网红餐饮品牌凉凉</title>
+      <link>https://www.tmtpost.com/7584865.html</link>
+      <description>&lt;![CDATA[全国门店清零，知名网红餐饮品牌凉凉]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584865.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>国内先进芯片设计，多点开花</title>
+      <link>https://www.tmtpost.com/7584773.html</link>
+      <description>&lt;![CDATA[国内先进芯片设计，多点开花]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584773.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>6月3日A股分析：沪指反弹收涨0.43%，两市成交额超1.14万亿，医药板块爆发，汽车零部件遭主力抛售</title>
+      <link>https://www.tmtpost.com/7584894.html</link>
+      <description>&lt;![CDATA[6月3日A股分析：沪指反弹收涨0.43%，两市成交额超1.14万亿，医药板块爆发，汽车零部件遭主力抛售]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584894.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Li Auto's Growth Engine Sputters as Price Cuts Undermine Q1 Momentum</title>
+      <link>https://www.tmtpost.com/7584838.html</link>
+      <description>&lt;![CDATA[Li Auto's Growth Engine Sputters as Price Cuts Undermine Q1 Momentum]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584838.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>祥源控股拟23亿港元并购海昌海洋公园，专业败给了资本</title>
+      <link>https://www.tmtpost.com/7584760.html</link>
+      <description>&lt;![CDATA[祥源控股拟23亿港元并购海昌海洋公园，专业败给了资本]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584760.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>新能源BBA，这次又“真香”了</title>
+      <link>https://www.tmtpost.com/7584742.html</link>
+      <description>&lt;![CDATA[新能源BBA，这次又“真香”了]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584742.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2025年了，AI还是联想AIPC最不重要的部分</title>
+      <link>https://www.tmtpost.com/7584770.html</link>
+      <description>&lt;![CDATA[2025年了，AI还是联想AIPC最不重要的部分]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584770.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>下一个“芯片金矿”，玩家已就位</title>
+      <link>https://www.tmtpost.com/7584774.html</link>
+      <description>&lt;![CDATA[下一个“芯片金矿”，玩家已就位]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584774.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>三星电子，启动危机预案</title>
+      <link>https://www.tmtpost.com/7584699.html</link>
+      <description>&lt;![CDATA[三星电子，启动危机预案]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584699.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>君亭在轻资产的道路上停不下来了</title>
+      <link>https://www.tmtpost.com/7584410.html</link>
+      <description>&lt;![CDATA[君亭在轻资产的道路上停不下来了]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584410.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>China’s Leapmotor, Huawei-Backed Aito Post Record EV Deliveries in May Amid Intensifying Price War</title>
+      <link>https://www.tmtpost.com/7584729.html</link>
+      <description>&lt;![CDATA[China’s Leapmotor, Huawei-Backed Aito Post Record EV Deliveries in May Amid Intensifying Price War]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584729.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从财报看，大厂出海的新蓝海在哪？</title>
+      <link>https://www.tmtpost.com/7584485.html</link>
+      <description>&lt;![CDATA[从财报看，大厂出海的新蓝海在哪？]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7584485.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI 创意破壁⼤会：一场从「灵光一现」到「现场落地」的创意激活实验</title>
+      <link>https://sspai.com/post/99627</link>
+      <description>&lt;![CDATA[AI 创意破壁⼤会：一场从「灵光一现」到「现场落地」的创意激活实验]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/99627</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>WWDC25 派对之夜：广州加场，来和我们一起看 Apple 发布会</title>
+      <link>https://sspai.com/post/99852</link>
+      <description>&lt;![CDATA[WWDC25 派对之夜：广州加场，来和我们一起看 Apple 发布会]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/99852</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>App+1｜给 Notion 重度用户的剪藏利器：Copy to Notion</title>
+      <link>https://sspai.com/post/99591</link>
+      <description>&lt;![CDATA[App+1｜给 Notion 重度用户的剪藏利器：Copy to Notion]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/99591</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>TikTok is working again</title>
+      <link>https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite</link>
+      <description>&lt;![CDATA[TikTok is working again]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 07:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>15% Off Dell Coupon Codes | June 2025</title>
+      <link>https://www.wired.com/story/dell-coupon-code/</link>
+      <description>&lt;![CDATA[15% Off Dell Coupon Codes | June 2025]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 05:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/dell-coupon-code/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AirDoctor Coupon Codes: Up to $400 Off | June 2025</title>
+      <link>https://www.wired.com/story/airdoctor-coupon-code/</link>
+      <description>&lt;![CDATA[AirDoctor Coupon Codes: Up to $400 Off | June 2025]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/airdoctor-coupon-code/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>HR赋能业务？这个思路可行</title>
       <link>https://www.tmtpost.com/7584512.html</link>
@@ -179,238 +411,6 @@
       <description>&lt;![CDATA[大模型驱动下的营销实战：京东物流的大模型应用探索与Agent化趋势｜AICon北京]]&gt;</description>
       <pubDate>Tue, 03 Jun 2025 10:31:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/lUz9kCC2HmBfcBGPKtuo?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Java 25为延迟不可变性引入了稳定值API，并改进了应用程序启动</title>
-      <link>https://www.infoq.cn/article/6St43g3lCwNvyJloZyi9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java 25为延迟不可变性引入了稳定值API，并改进了应用程序启动]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6St43g3lCwNvyJloZyi9?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>TikTok isn’t really working right now</title>
-      <link>https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite</link>
-      <description>&lt;![CDATA[TikTok isn’t really working right now]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 03:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>蚂蚁数科可信 Agent 技术创新实践</title>
-      <link>https://www.infoq.cn/video/A380Ijj4vgvf9PYsNAa2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁数科可信 Agent 技术创新实践]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/A380Ijj4vgvf9PYsNAa2?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>如何在Staff-Plus层面扩展影响力</title>
-      <link>https://www.infoq.cn/article/5mYNm7bef0uceGW81ETK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何在Staff-Plus层面扩展影响力]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5mYNm7bef0uceGW81ETK?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Redis在AGPL许可证下重回开源：是否为时已晚？</title>
-      <link>https://www.infoq.cn/article/elw56vedGmwP8WHiip2B?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Redis在AGPL许可证下重回开源：是否为时已晚？]]&gt;</description>
-      <pubDate>Sat, 31 May 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/elw56vedGmwP8WHiip2B?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>八大措施系统破解消纳难题，“新能源第一大省”有望成为全国“样板”</title>
-      <link>https://www.tmtpost.com/7584437.html</link>
-      <description>&lt;![CDATA[八大措施系统破解消纳难题，“新能源第一大省”有望成为全国“样板”]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584437.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“苏超”热闹过后，我们需要什么样的冷思考</title>
-      <link>https://www.tmtpost.com/7584442.html</link>
-      <description>&lt;![CDATA[“苏超”热闹过后，我们需要什么样的冷思考]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584442.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>印度低迷、中东疲软，新兴手机市场集体“失速”</title>
-      <link>https://www.tmtpost.com/7584266.html</link>
-      <description>&lt;![CDATA[印度低迷、中东疲软，新兴手机市场集体“失速”]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584266.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>美延长对华301条款关税部分豁免至8月底，涉及178项商品类别，影响这些领域丨大事件必读</title>
-      <link>https://www.tmtpost.com/7584380.html</link>
-      <description>&lt;![CDATA[美延长对华301条款关税部分豁免至8月底，涉及178项商品类别，影响这些领域丨大事件必读]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584380.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>哪吒汽车，注定掉队</title>
-      <link>https://www.tmtpost.com/7584276.html</link>
-      <description>&lt;![CDATA[哪吒汽车，注定掉队]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584276.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>黄酒真的雄起了？</title>
-      <link>https://www.tmtpost.com/7584316.html</link>
-      <description>&lt;![CDATA[黄酒真的雄起了？]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584316.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>上市半年股价翻4倍，毛戈平是一家怎样的公司？</title>
-      <link>https://www.tmtpost.com/7584291.html</link>
-      <description>&lt;![CDATA[上市半年股价翻4倍，毛戈平是一家怎样的公司？]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584291.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“银发族”拯救KTV？</title>
-      <link>https://www.tmtpost.com/7584313.html</link>
-      <description>&lt;![CDATA[“银发族”拯救KTV？]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584313.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“童装第一股”易主，股价提前涨停；业绩承压，“高尔夫球车第一股”拟收购知名半导体公司【并购一线】</title>
-      <link>https://www.tmtpost.com/7584135.html</link>
-      <description>&lt;![CDATA[“童装第一股”易主，股价提前涨停；业绩承压，“高尔夫球车第一股”拟收购知名半导体公司【并购一线】]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584135.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【大事件必读】稳定币发展提速，“稳定币+RWA”有望成为金融市场关键基础设施</title>
-      <link>https://www.tmtpost.com/7584163.html</link>
-      <description>&lt;![CDATA[【大事件必读】稳定币发展提速，“稳定币+RWA”有望成为金融市场关键基础设施]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584163.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：鸿蒙智行尊界 S800 发布上市，夏普发布新款手机等</title>
-      <link>https://sspai.com/post/99850</link>
-      <description>&lt;![CDATA[派早报：鸿蒙智行尊界 S800 发布上市，夏普发布新款手机等]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/99850</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>钛媒体科股早知道：大飞机或将进入高速发展阶段，市场供应能力将大幅增强</title>
-      <link>https://www.tmtpost.com/7584188.html</link>
-      <description>&lt;![CDATA[钛媒体科股早知道：大飞机或将进入高速发展阶段，市场供应能力将大幅增强]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584188.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>吊打GoPro，国产运动相机“杀疯了”</title>
-      <link>https://www.tmtpost.com/7584058.html</link>
-      <description>&lt;![CDATA[吊打GoPro，国产运动相机“杀疯了”]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584058.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Costco最新财报出炉，全球市场逆势增长，偏偏中国市场拖了后腿</title>
-      <link>https://www.tmtpost.com/7584083.html</link>
-      <description>&lt;![CDATA[Costco最新财报出炉，全球市场逆势增长，偏偏中国市场拖了后腿]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584083.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>除了被嘲，今年音综到底还有没有搞头？</title>
-      <link>https://www.tmtpost.com/7584132.html</link>
-      <description>&lt;![CDATA[除了被嘲，今年音综到底还有没有搞头？]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584132.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“苏超”火出圈，江苏为地方文旅找到了新出路</title>
-      <link>https://www.tmtpost.com/7584177.html</link>
-      <description>&lt;![CDATA[“苏超”火出圈，江苏为地方文旅找到了新出路]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584177.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>今年人形机器人赛道已涌进超180亿元，50万亿级的科技竞赛正蓄势待发</title>
-      <link>https://www.tmtpost.com/7584049.html</link>
-      <description>&lt;![CDATA[今年人形机器人赛道已涌进超180亿元，50万亿级的科技竞赛正蓄势待发]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584049.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>5亿用户捧出“教育界消消乐”，多邻国靠AI能走多远？</title>
-      <link>https://www.tmtpost.com/7584104.html</link>
-      <description>&lt;![CDATA[5亿用户捧出“教育界消消乐”，多邻国靠AI能走多远？]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7584104.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】反对“内卷式”恶性竞争，中国汽车工业协会发布重要倡议；香港《稳定币条例》正式成为法例；特朗普称将把进口钢铁关税从25%提高至50%</title>
-      <link>https://www.tmtpost.com/7583731.html</link>
-      <description>&lt;![CDATA[【钛晨报】反对“内卷式”恶性竞争，中国汽车工业协会发布重要倡议；香港《稳定币条例》正式成为法例；特朗普称将把进口钢铁关税从25%提高至50%]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7583731.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>李斌评蔚来车主高速睡着：辅助驾驶非自动驾驶；苹果WWDC海报曝光；人造肌肉问世，可自我修复｜极客早知道</title>
-      <link>http://www.geekpark.net/news/350007</link>
-      <description>&lt;![CDATA[李斌评蔚来车主高速睡着：辅助驾驶非自动驾驶；苹果WWDC海报曝光；人造肌肉问世，可自我修复｜极客早知道]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 08:11:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/350007</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>仅仅 nas，那么 TurnkeyLinux 的 Fileserver 镜像就很合适</title>
-      <link>https://www.v2ex.com/t/1135908#reply0</link>
-      <description>&lt;![CDATA[仅仅 nas，那么 TurnkeyLinux 的 Fileserver 镜像就很合适]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135908#reply0</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Gnome 窗口 变得不可以点击，折磨了我一个假期啊！</title>
-      <link>https://www.v2ex.com/t/1135877#reply16</link>
-      <description>&lt;![CDATA[Gnome 窗口 变得不可以点击，折磨了我一个假期啊！]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135877#reply16</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？</title>
-      <link>https://www.v2ex.com/t/1135858#reply21</link>
-      <description>&lt;![CDATA[为什么云是做电商的 Amazon 先搞出来，行业标准也是 AWS 的？为什么不是更有技术含量的 Microsoft、Google 先搞出来？]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135858#reply21</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>租服务器部署满血版 deepseek 大概要多少钱</title>
-      <link>https://www.v2ex.com/t/1135857#reply3</link>
-      <description>&lt;![CDATA[租服务器部署满血版 deepseek 大概要多少钱]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.v2ex.com/t/1135857#reply3</guid>
       <category>Technology</category>
     </item>
   </channel>

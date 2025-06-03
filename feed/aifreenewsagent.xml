@@ -5,14 +5,94 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jun 2025 04:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 04:18:49 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 08:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 08:17:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>经典ReLU回归！重大缺陷「死亡ReLU问题」已被解决</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-7</link>
+      <description>&lt;![CDATA[经典ReLU回归！重大缺陷「死亡ReLU问题」已被解决]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>思维链也会「跳帧」？浙大团队提出CoT-Bridge，显著提升数学推理性能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-6</link>
+      <description>&lt;![CDATA[思维链也会「跳帧」？浙大团队提出CoT-Bridge，显著提升数学推理性能]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>将量子化学信息注入分子图，卡内基梅隆大学团队提出ML分子表征新方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-5</link>
+      <description>&lt;![CDATA[将量子化学信息注入分子图，卡内基梅隆大学团队提出ML分子表征新方法]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>集成Evo2与Qwen3，多伦多大学、DeepMind等开发BioReason使AI像生物学家一样推理</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-4</link>
+      <description>&lt;![CDATA[集成Evo2与Qwen3，多伦多大学、DeepMind等开发BioReason使AI像生物学家一样推理]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>字节跳动 2025 奖学金计划启动！每人 10 万、名额再增加！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-3</link>
+      <description>&lt;![CDATA[字节跳动 2025 奖学金计划启动！每人 10 万、名额再增加！]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>万帧？单卡！智源研究院开源轻量级超长视频理解模型Video-XL-2</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03-2</link>
+      <description>&lt;![CDATA[万帧？单卡！智源研究院开源轻量级超长视频理解模型Video-XL-2]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 13:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACL2025 | 传统符号语言传递知识太低效？探索LLM高效参数迁移可行性</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-03</link>
+      <description>&lt;![CDATA[ACL2025 | 传统符号语言传递知识太低效？探索LLM高效参数迁移可行性]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-03</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>训练MoE足足提速70%！华为只用了3招</title>
+      <link>https://www.qbitai.com/2025/06/290392.html</link>
+      <description>&lt;![CDATA[训练MoE足足提速70%！华为只用了3招]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 07:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290392.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>李飞飞空间智能独角兽开源底层技术！AI生成3D世界在所有设备流畅运行</title>
+      <link>https://www.qbitai.com/2025/06/290377.html</link>
+      <description>&lt;![CDATA[李飞飞空间智能独角兽开源底层技术！AI生成3D世界在所有设备流畅运行]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290377.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大神卡帕西这么用ChatGPT：日常4o快又稳，烧脑切o4，o3当备胎用</title>
+      <link>https://www.qbitai.com/2025/06/290357.html</link>
+      <description>&lt;![CDATA[大神卡帕西这么用ChatGPT：日常4o快又稳，烧脑切o4，o3当备胎用]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 05:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290357.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>Teaching AI models what they don’t know</title>
       <link>https://news.mit.edu/2025/themis-ai-teaches-ai-models-what-they-dont-know-0603</link>
@@ -331,86 +411,6 @@
       <description>&lt;![CDATA[GIA-MIC: Multimodal Emotion Recognition with Gated Interactive Attention and Modality-Invariant Learning Constraints]]&gt;</description>
       <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.00865</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Toward a Theory of Agents as Tool-Use Decision-Makers</title>
-      <link>https://arxiv.org/abs/2506.00886</link>
-      <description>&lt;![CDATA[Toward a Theory of Agents as Tool-Use Decision-Makers]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00886</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Conformal Arbitrage: Risk-Controlled Balancing of Competing Objectives in Language Models</title>
-      <link>https://arxiv.org/abs/2506.00911</link>
-      <description>&lt;![CDATA[Conformal Arbitrage: Risk-Controlled Balancing of Competing Objectives in Language Models]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00911</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Aligning VLM Assistants with Personalized Situated Cognition</title>
-      <link>https://arxiv.org/abs/2506.00930</link>
-      <description>&lt;![CDATA[Aligning VLM Assistants with Personalized Situated Cognition]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00930</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Speaking Beyond Language: A Large-Scale Multimodal Dataset for Learning Nonverbal Cues from Video-Grounded Dialogues</title>
-      <link>https://arxiv.org/abs/2506.00958</link>
-      <description>&lt;![CDATA[Speaking Beyond Language: A Large-Scale Multimodal Dataset for Learning Nonverbal Cues from Video-Grounded Dialogues]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00958</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts</title>
-      <link>https://arxiv.org/abs/2506.00965</link>
-      <description>&lt;![CDATA[Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00965</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation</title>
-      <link>https://arxiv.org/abs/2506.00968</link>
-      <description>&lt;![CDATA[PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00968</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Boosting Bot Detection via Heterophily-Aware Representation Learning and Prototype-Guided Cluster Discovery</title>
-      <link>https://arxiv.org/abs/2506.00989</link>
-      <description>&lt;![CDATA[Boosting Bot Detection via Heterophily-Aware Representation Learning and Prototype-Guided Cluster Discovery]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00989</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Higher-Order Responsibility</title>
-      <link>https://arxiv.org/abs/2506.01003</link>
-      <description>&lt;![CDATA[Higher-Order Responsibility]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.01003</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>IRT-Router: Effective and Interpretable Multi-LLM Routing via Item Response Theory</title>
-      <link>https://arxiv.org/abs/2506.01048</link>
-      <description>&lt;![CDATA[IRT-Router: Effective and Interpretable Multi-LLM Routing via Item Response Theory]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.01048</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MCP-Zero: Proactive Toolchain Construction for LLM Agents from Scratch</title>
-      <link>https://arxiv.org/abs/2506.01056</link>
-      <description>&lt;![CDATA[MCP-Zero: Proactive Toolchain Construction for LLM Agents from Scratch]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.01056</guid>
       <category>AI</category>
     </item>
   </channel>
