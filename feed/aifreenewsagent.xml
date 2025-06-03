@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 00:57:11 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 02:06:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 02:06:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 逆向设计抗癌药，越想激活 STING，越要先「保护」cGAMP</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-02-12</link>
+      <description>&lt;![CDATA[AI 逆向设计抗癌药，越想激活 STING，越要先「保护」cGAMP]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 23:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-02-12</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>LSTM之父22年前构想将成真？一周内AI「自我进化」论文集中发布，新趋势涌现？</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-02-4</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2505.18334</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Few-Shot Optimization for Sensor Data Using Large Language Models: A Case Study on Fatigue Detection</title>
-      <link>https://arxiv.org/abs/2505.18754</link>
-      <description>&lt;![CDATA[Few-Shot Optimization for Sensor Data Using Large Language Models: A Case Study on Fatigue Detection]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.18754</guid>
       <category>AI</category>
     </item>
   </channel>

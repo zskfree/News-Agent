@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 00:57
+**最后更新时间**: 2025-06-03 02:06
+
+---
+
+## 🆕 最新更新 (2025-06-03 02:06)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Boeing CEO Ortberg is winning hearts on Wall Street. Here’s the latest vote of confidence.](https://www.marketwatch.com/story/boeing-ceo-ortberg-is-winning-hearts-on-wall-street-heres-the-latest-vote-of-confidence-8076d6bd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-03 01:50
 
 ---
 

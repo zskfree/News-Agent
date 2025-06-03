@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jun 2025 00:57:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 00:57:12 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 02:06:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 02:06:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Boeing CEO Ortberg is winning hearts on Wall Street. Here’s the latest vote of confidence.</title>
+      <link>https://www.marketwatch.com/story/boeing-ceo-ortberg-is-winning-hearts-on-wall-street-heres-the-latest-vote-of-confidence-8076d6bd?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Boeing CEO Ortberg is winning hearts on Wall Street. Here’s the latest vote of confidence.]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 01:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/boeing-ceo-ortberg-is-winning-hearts-on-wall-street-heres-the-latest-vote-of-confidence-8076d6bd?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Why investors should care about Nvidia’s ‘very unusual’ relationship with CoreWeave</title>
       <link>https://www.marketwatch.com/story/why-investors-should-care-about-nvidias-very-unusual-relationship-with-coreweave-3c326445?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Markets are finely poised between a bullish breakout and bearish breakdown, says Bank of America strategist.]]&gt;</description>
       <pubDate>Fri, 30 May 2025 15:01:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/markets-are-finely-poised-between-a-bullish-breakout-and-bearish-breakdown-says-bank-of-america-strategist-c4ecfb37?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Airbnb’s stock is now a sell, as a subdued summer for leisure travel looms, analyst says</title>
-      <link>https://www.marketwatch.com/story/airbnbs-stock-is-now-a-sell-as-a-weak-summer-for-leisure-travel-looms-analyst-says-7c34f097?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Airbnb’s stock is now a sell, as a subdued summer for leisure travel looms, analyst says]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 14:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/airbnbs-stock-is-now-a-sell-as-a-weak-summer-for-leisure-travel-looms-analyst-says-7c34f097?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
