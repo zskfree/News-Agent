@@ -2,7 +2,92 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 04:18
+**最后更新时间**: 2025-06-04 08:21
+
+---
+
+## 🆕 最新更新 (2025-06-04 08:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [6/14 上海，Apache Doris x 阿里云 SelectDB AI 主题线下 Meetup 正式开启报名！](https://www.infoq.cn/article/GUVmUluMb5yHeJtRmisG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 15:38
+
+#### [大模型狙击黑产：挚文集团社交生态攻防实战全揭秘](https://www.infoq.cn/article/ZJP0SILhM6jj8mvLukpZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 15:09
+
+#### [微软在Build 2025大会上宣布AI智能体和平台更新](https://www.infoq.cn/article/AZHmOMeM0K5YZHqICJfk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 14:34
+
+#### [DeepResearch如何在企业内落地｜AICon北京](https://www.infoq.cn/article/jgfktPFAZ98iP3IUxzDO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 13:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“美京淘”，长得越来越像](https://www.tmtpost.com/7585684.html)
+**发布时间**: 2025-06-04 15:19
+
+#### [中国汽车大整合，很多名字都将被抹掉](https://www.tmtpost.com/7585752.html)
+**发布时间**: 2025-06-04 15:19
+
+#### [一年卖出30万双，泰兰尼斯如何“套牢”中国家长？](https://www.tmtpost.com/7585762.html)
+**发布时间**: 2025-06-04 15:19
+
+#### [风从海上来](https://www.tmtpost.com/7585775.html)
+**发布时间**: 2025-06-04 15:18
+
+#### [被资本们力捧的52TOYS，距离泡泡玛特还差4个labubu](https://www.tmtpost.com/7585753.html)
+**发布时间**: 2025-06-04 15:18
+
+#### [ASCO见证：中国创新药冲击全球第一梯队](https://www.tmtpost.com/7585857.html)
+**发布时间**: 2025-06-04 15:18
+
+#### [6月4日A股分析：三大指数集体上涨，两市合计成交11530.47亿元，资金流入最多的行业板块为消费电子、互联网服务](https://www.tmtpost.com/7585982.html)
+**发布时间**: 2025-06-04 15:11
+
+#### [东盟成立工作组，统一应对美国关税问题；4月TikTok Shop美国GMV环比下降15.52%；一季度非洲智能手机出货量同比增长6%｜一周「出海参考」（05.16-06.02）](https://www.tmtpost.com/7585097.html)
+**发布时间**: 2025-06-04 14:30
+
+#### [China's Aging Workforce Rises Again as Silver Generation Rejoins Labor Market](https://www.tmtpost.com/7585928.html)
+**发布时间**: 2025-06-04 14:30
+
+#### [Nvidia Reclaims Crown as Most Valuable Company amid a $1 Trillion Rally in Two Months](https://www.tmtpost.com/7585919.html)
+**发布时间**: 2025-06-04 14:20
+
+#### [上海交大教授创业，五轴机床龙头冲刺IPO，拓璞数控扭亏后仍有隐忧](https://www.tmtpost.com/7585550.html)
+**发布时间**: 2025-06-04 14:16
+
+#### [乖宝宠物的造富盛宴](https://www.tmtpost.com/7585833.html)
+**发布时间**: 2025-06-04 14:16
+
+#### [巨子生物“造假门”升级，两大医美巨头隔空叫板](https://www.tmtpost.com/7585567.html)
+**发布时间**: 2025-06-04 13:19
+
+#### [White House Confirms Letters to Countries to Remind Deadline for Trade Talks](https://www.tmtpost.com/7585872.html)
+**发布时间**: 2025-06-04 13:14
+
+#### [银行职员6000多万诈骗款直播打赏追缴背后：平台公司异议被驳，银行是否监管缺失引争议](https://www.tmtpost.com/7584900.html)
+**发布时间**: 2025-06-04 12:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [基于 KNX 的智能照明系统，设计师是这样考虑的](https://sspai.com/post/99303)
+**发布时间**: 2025-06-04 14:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [用 AI 读书、学习，大脑会萎缩吗？](http://www.geekpark.net/news/350052)
+**发布时间**: 2025-06-04 13:43
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)
+**发布时间**: 2025-06-04 08:00
+
+#### [Target Promo Codes and Deals: $50 Off](https://www.wired.com/story/target-promo-code/)
+**发布时间**: 2025-06-04 05:10
+
+#### [20% Home Depot Promo Codes & Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)
+**发布时间**: 2025-06-04 05:00
 
 ---
 

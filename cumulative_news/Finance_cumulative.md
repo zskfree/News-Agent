@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 04:19
+**最后更新时间**: 2025-06-04 08:21
+
+---
+
+## 🆕 最新更新 (2025-06-04 08:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [ECB rate cut looks nailed on after May’s surprise inflation dip](https://www.marketwatch.com/story/ecb-to-prove-itself-beacon-of-stability-with-rate-move-next-week-2535e982?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 08:10
 
 ---
 

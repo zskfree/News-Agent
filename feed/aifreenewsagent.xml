@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Jun 2025 04:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Jun 2025 04:19:00 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Jun 2025 08:21:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>重磅开源！首个全异步强化学习训练系统来了，SOTA推理大模型RL训练提速2.77倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-04-9</link>
+      <description>&lt;![CDATA[重磅开源！首个全异步强化学习训练系统来了，SOTA推理大模型RL训练提速2.77倍]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 13:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-04-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>最新发现！每参数3.6比特，语言模型最多能记住这么多</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-04-8</link>
+      <description>&lt;![CDATA[最新发现！每参数3.6比特，语言模型最多能记住这么多]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-04-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达揭示RL Scaling魔力！训练步数翻倍=推理能力质变，小模型突破推理极限</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-04-7</link>
+      <description>&lt;![CDATA[英伟达揭示RL Scaling魔力！训练步数翻倍=推理能力质变，小模型突破推理极限]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-04-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>00后中国女孩0产品创业实现3亿估值：斯坦福数学博士的AI量化野心</title>
+      <link>https://www.qbitai.com/2025/06/290730.html</link>
+      <description>&lt;![CDATA[00后中国女孩0产品创业实现3亿估值：斯坦福数学博士的AI量化野心]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 06:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290730.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>单卡搞定万帧视频理解！智源研究院开源轻量级超长视频理解模型Video-XL-2</title>
+      <link>https://www.qbitai.com/2025/06/290713.html</link>
+      <description>&lt;![CDATA[单卡搞定万帧视频理解！智源研究院开源轻量级超长视频理解模型Video-XL-2]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290713.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>奥特曼宫斗要成好莱坞大片了！《哈利波特》同款制片人，主角人选被曝“蜘蛛侠”</title>
+      <link>https://www.qbitai.com/2025/06/290700.html</link>
+      <description>&lt;![CDATA[奥特曼宫斗要成好莱坞大片了！《哈利波特》同款制片人，主角人选被曝“蜘蛛侠”]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 05:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290700.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>618大促前，拥有专属数字人是种怎样的体验？真·提效神器</title>
+      <link>https://www.qbitai.com/2025/06/290650.html</link>
+      <description>&lt;![CDATA[618大促前，拥有专属数字人是种怎样的体验？真·提效神器]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 03:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290650.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>有效性达95.5%，Deep dreaming方法可逆向设计MOF，探索材料化学空间</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-04-6</link>
@@ -355,62 +411,6 @@
       <description>&lt;![CDATA[LibriBrain: Over 50 Hours of Within-Subject MEG to Improve Speech Decoding Methods at Scale]]&gt;</description>
       <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.02098</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ReconXF: Graph Reconstruction Attack via Public Feature Explanations on Privatized Node Features and Labels</title>
-      <link>https://arxiv.org/abs/2506.02134</link>
-      <description>&lt;![CDATA[ReconXF: Graph Reconstruction Attack via Public Feature Explanations on Privatized Node Features and Labels]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02134</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Revisiting LRP: Positional Attribution as the Missing Ingredient for Transformer Explainability</title>
-      <link>https://arxiv.org/abs/2506.02138</link>
-      <description>&lt;![CDATA[Revisiting LRP: Positional Attribution as the Missing Ingredient for Transformer Explainability]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02138</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Z-Error Loss for Training Neural Networks</title>
-      <link>https://arxiv.org/abs/2506.02154</link>
-      <description>&lt;![CDATA[Z-Error Loss for Training Neural Networks]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02154</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An Approximation Theory Perspective on Machine Learning</title>
-      <link>https://arxiv.org/abs/2506.02168</link>
-      <description>&lt;![CDATA[An Approximation Theory Perspective on Machine Learning]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02168</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning Treatment Representations for Downstream Instrumental Variable Regression</title>
-      <link>https://arxiv.org/abs/2506.02200</link>
-      <description>&lt;![CDATA[Learning Treatment Representations for Downstream Instrumental Variable Regression]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02200</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Constrained Sliced Wasserstein Embedding</title>
-      <link>https://arxiv.org/abs/2506.02203</link>
-      <description>&lt;![CDATA[Constrained Sliced Wasserstein Embedding]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02203</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Bregman Centroid Guided Cross-Entropy Method</title>
-      <link>https://arxiv.org/abs/2506.02205</link>
-      <description>&lt;![CDATA[Bregman Centroid Guided Cross-Entropy Method]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02205</guid>
       <category>AI</category>
     </item>
   </channel>

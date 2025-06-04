@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Jun 2025 04:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Jun 2025 04:19:00 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Jun 2025 08:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Jun 2025 08:21:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ECB rate cut looks nailed on after May’s surprise inflation dip</title>
+      <link>https://www.marketwatch.com/story/ecb-to-prove-itself-beacon-of-stability-with-rate-move-next-week-2535e982?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[ECB rate cut looks nailed on after May’s surprise inflation dip]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 08:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ecb-to-prove-itself-beacon-of-stability-with-rate-move-next-week-2535e982?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>401(k) millionaires fell in the first quarter — but it’s not all bad news</title>
       <link>https://www.marketwatch.com/story/401-k-millionaires-fell-in-the-first-quarter-but-its-not-all-bad-news-1afed4a6?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[‘You are going to panic,’ Jamie Dimon tells regulators about what will happen when the bond market cracks]]&gt;</description>
       <pubDate>Fri, 30 May 2025 20:50:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/you-are-going-to-panic-jamie-dimon-tells-regulators-about-what-will-happen-when-the-bond-market-cracks-83ee3298?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A pivotal OPEC+ decision this weekend could tank crude-oil prices by 10%</title>
-      <link>https://www.marketwatch.com/story/a-pivotal-opec-decision-this-weekend-could-tank-crude-oil-prices-by-10-d389a6ff?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[A pivotal OPEC+ decision this weekend could tank crude-oil prices by 10%]]&gt;</description>
-      <pubDate>Fri, 30 May 2025 20:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/a-pivotal-opec-decision-this-weekend-could-tank-crude-oil-prices-by-10-d389a6ff?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
