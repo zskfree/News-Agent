@@ -2,7 +2,135 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 08:21
+**最后更新时间**: 2025-06-04 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-04 12:22)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI Pin 们折戟后，第二代 AI 硬件闷声发了大财](http://www.geekpark.net/news/350073)
+**发布时间**: 2025-06-04 19:34
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [心脏支架龙头跨界拿下“童颜针”第7证，乐普医疗的“下坡路”快走完了吗？](https://www.tmtpost.com/7586216.html)
+**发布时间**: 2025-06-04 19:28
+
+#### [易明医药拟6.62亿元易主58同城姚劲波，原实控人设下双重业绩承诺](https://www.tmtpost.com/7586193.html)
+**发布时间**: 2025-06-04 19:10
+
+#### [新能源出海集体失速，AI 成海外增长新动能 ｜「出海参考」研报 2025](https://www.tmtpost.com/7579438.html)
+**发布时间**: 2025-06-04 19:02
+
+#### [黄金手办，能否持续“收割”年轻人？](https://www.tmtpost.com/7586161.html)
+**发布时间**: 2025-06-04 18:14
+
+#### [52岁东北大叔，带贵妇的“液体黄金”冲刺IPO](https://www.tmtpost.com/7586027.html)
+**发布时间**: 2025-06-04 18:04
+
+#### [大地海洋三度接盘实控人资产：标的估值暴跌85%，没钱也要买？](https://www.tmtpost.com/7586089.html)
+**发布时间**: 2025-06-04 17:39
+
+#### [当王健林，失去「五百个小目标」](https://www.tmtpost.com/7585978.html)
+**发布时间**: 2025-06-04 17:24
+
+#### [从童颜针到微针，聚乳酸持续搅动医美市场](https://www.tmtpost.com/7585870.html)
+**发布时间**: 2025-06-04 16:30
+
+#### [智能辅助驾驶迎大考，“AEB技术之争”到底争的是什么？](https://www.tmtpost.com/7585128.html)
+**发布时间**: 2025-06-04 16:30
+
+#### [出走大厂的95后CEO们，已在AI赛道融资数亿](https://www.tmtpost.com/7586020.html)
+**发布时间**: 2025-06-04 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenSearch 3.0现已正式发布，重点关注向量数据库的性能和可扩展性](https://www.infoq.cn/article/0XGhJCif4qR35h8ruWcc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 18:30
+
+#### [18天光速打脸！OpenAI刚夸TypeScript最合适，转头就用Rust重写Codex CLI](https://www.infoq.cn/article/o5iUvfMDJWKkaKxfzHZP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 17:02
+
+#### [ChatBI在货拉拉落地的路径与经验｜AICon北京](https://www.infoq.cn/article/DBtOB60xjsrtyWG2PHKa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 17:00
+
+#### [从代码到影响力：技术领导者需要了解的情绪掌控能力](https://www.infoq.cn/article/ZK35oekqXo9LHKjd5ajc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 16:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [WWDC25 前瞻：值得关注的看点，我们想聊的期待](https://sspai.com/post/99884)
+**发布时间**: 2025-06-04 17:25
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [i人团队濒临退网？MCN公关竟能绝地翻盘？](http://www.huxiu.com/article/4414876.html?f=wangzhan)
+**发布时间**: 2025-06-04 16:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 14 Best Golf Gifts for Every Kind of Golfer (2024)](https://www.wired.com/gallery/gifts-for-golfers/)
+**发布时间**: 2025-06-04 12:03
+
+#### [How One Keto Trial Set Off a New War in the Nutrition World](https://www.wired.com/story/how-one-trial-set-off-a-new-war-in-the-nutrition-world-keto-cholesterol-fat/)
+**发布时间**: 2025-06-04 11:18
+
+#### [Adjustable Mattress vs. Adjustable Frame: Similar but Not the Same](https://www.wired.com/story/adjustable-frame-vs-adjustable-base/)
+**发布时间**: 2025-06-04 11:09
+
+#### [Days-Long ‘Dark Retreats’ Are the Newest Spiritual Conquest for Tech Elites](https://www.wired.com/story/days-long-dark-retreats-are-the-newest-spiritual-conquest-for-tech-elites/)
+**发布时间**: 2025-06-04 11:00
+
+#### [Facing a Changing Industry, AI Activists Rethink Their Strategy](https://www.wired.com/story/report-ai-now-institute-artificial-intelligence/)
+**发布时间**: 2025-06-04 11:00
+
+#### [The Race to Build Trump’s ‘Golden Dome’ Missile Defense System Is On](https://www.wired.com/story/golden-dome-trump-missiles/)
+**发布时间**: 2025-06-04 10:30
+
+#### [5 Best Smart Scales (2025), Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
+**发布时间**: 2025-06-04 10:30
+
+#### [Google DeepMind’s CEO Thinks AI Will Make Humans Less Selfish](https://www.wired.com/story/google-deepminds-ceo-demis-hassabis-thinks-ai-will-make-humans-less-selfish/)
+**发布时间**: 2025-06-04 10:00
+
+#### [The Rise of ‘Vibe Hacking’ Is the Next AI Nightmare](https://www.wired.com/story/youre-not-ready-for-ai-hacker-agents/)
+**发布时间**: 2025-06-04 10:00
+
+#### [A GPS Blackout Would Shut Down the World](https://www.wired.com/story/youre-not-ready-for-a-gps-blackout/)
+**发布时间**: 2025-06-04 10:00
+
+#### [You're Not Ready for Quantum Cracks](https://www.wired.com/story/youre-not-ready-quantum-cracks/)
+**发布时间**: 2025-06-04 10:00
+
+#### [Deepfake Scams Are Distorting Reality Itself](https://www.wired.com/story/youre-not-ready-for-ai-powered-scams/)
+**发布时间**: 2025-06-04 10:00
+
+#### [The Texting Network for the End of the World](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/)
+**发布时间**: 2025-06-04 10:00
+
+#### [You're Not Ready](https://www.wired.com/youre-not-ready/)
+**发布时间**: 2025-06-04 10:00
+
+#### [The US Grid Attack Looming on the Horizon](https://www.wired.com/story/youre-not-ready-for-a-grid-attack/)
+**发布时间**: 2025-06-04 10:00
+
+#### [‘Buy Now, Pay Later’ Booms as Economic Pressures Mount](https://www.wired.com/story/bnpl-booms-as-economic-pressures-mount/)
+**发布时间**: 2025-06-04 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [What I learned when I helped my mother move: some personal insights](https://www.theverge.com/tech/675936/moving-stress-real-estate-how-to)
+**发布时间**: 2025-06-04 12:00
+
+#### [A lot more AI characters are coming to Fortnite](https://www.theverge.com/fortnite/679077/epic-games-fortnite-creators-ai-npcs-darth-vader)
+**发布时间**: 2025-06-04 12:00
+
+#### [How to move a smart home](https://www.theverge.com/24184716/moving-smart-home-tech-setup)
+**发布时间**: 2025-06-04 11:30
+
+#### [You have eight weeks to save your inactive Samsung account](https://www.theverge.com/news/679171/samsung-inactive-account-deletion-policy-date)
+**发布时间**: 2025-06-04 11:00
 
 ---
 

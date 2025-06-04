@@ -2,7 +2,53 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 08:21
+**最后更新时间**: 2025-06-04 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-04 12:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Jobs, service-sector data to be followed by Fed ‘beige book’](https://www.marketwatch.com/bulletins/redirect/go?g=33cbf28a-d65d-4b96-896e-eaa7ebc83f78&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 12:04
+
+#### [Dollar Tree shares fall as tariffs take toll on earnings outlook](https://www.marketwatch.com/bulletins/redirect/go?g=c763cead-8510-47a6-adde-6d193565f18a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 11:53
+
+#### [Eighth straight ECB interest-rate cut anticipated on Thursday](https://www.marketwatch.com/bulletins/redirect/go?g=e2d32f05-84d1-46a8-ab90-5b8a795fb9f6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 11:42
+
+#### [Number of 401(k) millionaires declined in first quarter, Fidelity reports](https://www.marketwatch.com/bulletins/redirect/go?g=999b30fc-067e-4f24-9fb1-de85c08fb186&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 11:40
+
+#### [Number of 401(k) millionaires declined in first quarter, Fidelity reports](https://www.marketwatch.com/bulletins/redirect/go?g=eb43f6f9-5f29-4d16-8843-5af034d0aa08&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 11:13
+
+#### [U.S. stock futures rising with S&P 500 poised to consolidate at 3-month high](https://www.marketwatch.com/bulletins/redirect/go?g=e79b32ed-e87f-4701-aea2-8dcaf5c8ed0d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 08:50
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It was a contract sabotage’: My new husband told me to ‘sign here.’ I refused — it was the best decision of my life](https://www.marketwatch.com/story/it-was-a-contract-sabotage-my-new-husband-told-me-to-sign-here-i-refused-it-was-the-best-decision-of-my-life-2147c33f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 12:00
+
+#### [America’s debt is at a breaking point — and Trump’s tax bill might just push it over the edge](https://www.marketwatch.com/story/americas-debt-is-at-a-breaking-point-and-trumps-tax-bill-might-just-push-it-over-the-edge-7a85f88d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 11:50
+
+#### [Buying Tesla’s stock ahead of the robotaxi launch? Here’s what to know first.](https://www.marketwatch.com/story/buying-teslas-stock-ahead-of-the-robotaxi-launch-heres-what-to-know-first-fd8e202b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 11:30
+
+#### [The ‘TACO’ trade is overdone, and investors should tread warily, according to a growing consensus on Wall Street](https://www.marketwatch.com/story/the-taco-trade-is-overdone-and-investors-should-tread-warily-according-to-a-growing-consensus-on-wall-street-21a07b12?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 11:30
+
+#### [Dollar Tree stock slides as earnings outlook takes a tariffs hit](https://www.marketwatch.com/story/dollar-tree-stock-slides-as-earnings-outlook-takes-a-tariffs-hit-7c487270?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 11:26
+
+#### [He spotted weight-loss drugs and AI before they became hot. Here’s this investor’s next big idea.](https://www.marketwatch.com/story/he-spotted-weight-loss-drugs-and-ai-before-they-became-hot-heres-this-investors-next-big-idea-dfb6936e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 11:17
+
+#### [Eighth straight ECB rate cut looks like a near-certainty after May’s surprise inflation decline](https://www.marketwatch.com/story/ecb-to-prove-itself-beacon-of-stability-with-rate-move-next-week-2535e982?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 10:59
 
 ---
 
