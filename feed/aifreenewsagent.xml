@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jun 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 12:27:01 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Jun 2025 01:01:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10 Python One-Liners That Will Simplify Feature Engineering</title>
+      <link>https://machinelearningmastery.com/10-python-one-liners-that-will-simplify-feature-engineering/</link>
+      <description>&lt;![CDATA[10 Python One-Liners That Will Simplify Feature Engineering]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/10-python-one-liners-that-will-simplify-feature-engineering/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Word Embeddings in Language Models</title>
+      <link>https://machinelearningmastery.com/word-embeddings-in-language-models/</link>
+      <description>&lt;![CDATA[Word Embeddings in Language Models]]&gt;</description>
+      <pubDate>Mon, 02 Jun 2025 04:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/word-embeddings-in-language-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A Gentle Introduction to SHAP for Tree-Based Models</title>
+      <link>https://machinelearningmastery.com/a-gentle-introduction-to-shap-for-tree-based-models/</link>
+      <description>&lt;![CDATA[A Gentle Introduction to SHAP for Tree-Based Models]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/a-gentle-introduction-to-shap-for-tree-based-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Using Quantized Models with Ollama for Application Development</title>
+      <link>https://machinelearningmastery.com/using-quantized-models-with-ollama-for-application-development/</link>
+      <description>&lt;![CDATA[Using Quantized Models with Ollama for Application Development]]&gt;</description>
+      <pubDate>Thu, 29 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/using-quantized-models-with-ollama-for-application-development/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Tokenizers in Language Models</title>
+      <link>https://machinelearningmastery.com/tokenizers-in-language-models/</link>
+      <description>&lt;![CDATA[Tokenizers in Language Models]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/tokenizers-in-language-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10 Python Libraries That Speed Up Model Development</title>
+      <link>https://machinelearningmastery.com/10-python-libraries-that-speed-up-model-development/</link>
+      <description>&lt;![CDATA[10 Python Libraries That Speed Up Model Development]]&gt;</description>
+      <pubDate>Wed, 28 May 2025 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/10-python-libraries-that-speed-up-model-development/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Selecting the Right Feature Engineering Strategy: A Decision Tree Approach</title>
+      <link>https://machinelearningmastery.com/selecting-the-right-feature-engineering-strategy-a-decision-tree-approach/</link>
+      <description>&lt;![CDATA[Selecting the Right Feature Engineering Strategy: A Decision Tree Approach]]&gt;</description>
+      <pubDate>Tue, 27 May 2025 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/selecting-the-right-feature-engineering-strategy-a-decision-tree-approach/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Using NotebookLM as Your Machine Learning Study Guide</title>
+      <link>https://machinelearningmastery.com/using-notebooklm-as-your-machine-learning-study-guide/</link>
+      <description>&lt;![CDATA[Using NotebookLM as Your Machine Learning Study Guide]]&gt;</description>
+      <pubDate>Mon, 26 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/using-notebooklm-as-your-machine-learning-study-guide/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Encoders and Decoders in Transformer Models</title>
+      <link>https://machinelearningmastery.com/encoders-and-decoders-in-transformer-models/</link>
+      <description>&lt;![CDATA[Encoders and Decoders in Transformer Models]]&gt;</description>
+      <pubDate>Sat, 24 May 2025 20:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/encoders-and-decoders-in-transformer-models/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Inside the effort to tally AI’s energy appetite</title>
+      <link>https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/</link>
+      <description>&lt;![CDATA[Inside the effort to tally AI’s energy appetite]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Learning to clarify: Multi-turn conversations with Action-Based Contrastive Self-Training</title>
+      <link>https://research.google/blog/learning-to-clarify-multi-turn-conversations-with-action-based-contrastive-self-training/</link>
+      <description>&lt;![CDATA[Learning to clarify: Multi-turn conversations with Action-Based Contrastive Self-Training]]&gt;</description>
+      <pubDate>Tue, 03 Jun 2025 08:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/learning-to-clarify-multi-turn-conversations-with-action-based-contrastive-self-training/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>本周日不见不散！CVPR 2025北京论文分享会最后报名了</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-03-9</link>
@@ -35,14 +123,6 @@
       <description>&lt;![CDATA[The Download: reasons to be optimistic about AI’s energy use, and Caiwei Chen’s three things]]&gt;</description>
       <pubDate>Tue, 03 Jun 2025 12:10:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.technologyreview.com/2025/06/03/1117693/the-download-reasons-to-be-optimistic-about-ais-energy-use-and-caiwei-chens-three-things/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Inside the tedious effort to tally AI’s energy appetite</title>
-      <link>https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/</link>
-      <description>&lt;![CDATA[Inside the tedious effort to tally AI’s energy appetite]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/</guid>
       <category>AI</category>
     </item>
     <item>
@@ -331,86 +411,6 @@
       <description>&lt;![CDATA[World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks]]&gt;</description>
       <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.00417</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MIRROR: Cognitive Inner Monologue Between Conversational Turns for Persistent Reflection and Reasoning in Conversational LLMs</title>
-      <link>https://arxiv.org/abs/2506.00430</link>
-      <description>&lt;![CDATA[MIRROR: Cognitive Inner Monologue Between Conversational Turns for Persistent Reflection and Reasoning in Conversational LLMs]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00430</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Monitoring Robustness and Individual Fairness</title>
-      <link>https://arxiv.org/abs/2506.00496</link>
-      <description>&lt;![CDATA[Monitoring Robustness and Individual Fairness]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00496</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CityLens: Benchmarking Large Language-Vision Models for Urban Socioeconomic Sensing</title>
-      <link>https://arxiv.org/abs/2506.00530</link>
-      <description>&lt;![CDATA[CityLens: Benchmarking Large Language-Vision Models for Urban Socioeconomic Sensing]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00530</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A &quot;Wenlu&quot; Brain System for Multimodal Cognition and Embodied Decision-Making: A Secure New Architecture for Deep Integration of Foundation Models and Domain Knowledge</title>
-      <link>https://arxiv.org/abs/2506.00570</link>
-      <description>&lt;![CDATA[A &quot;Wenlu&quot; Brain System for Multimodal Cognition and Embodied Decision-Making: A Secure New Architecture for Deep Integration of Foundation Models and Domain Knowledge]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00570</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs</title>
-      <link>https://arxiv.org/abs/2506.00577</link>
-      <description>&lt;![CDATA[Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00577</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in LLMs</title>
-      <link>https://arxiv.org/abs/2506.00582</link>
-      <description>&lt;![CDATA[Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in LLMs]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00582</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>RiOSWorld: Benchmarking the Risk of Multimodal Compter-Use Agents</title>
-      <link>https://arxiv.org/abs/2506.00618</link>
-      <description>&lt;![CDATA[RiOSWorld: Benchmarking the Risk of Multimodal Compter-Use Agents]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00618</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents</title>
-      <link>https://arxiv.org/abs/2506.00641</link>
-      <description>&lt;![CDATA[AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00641</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OntoRAG: Enhancing Question-Answering through Automated Ontology Derivation from Unstructured Knowledge Bases</title>
-      <link>https://arxiv.org/abs/2506.00664</link>
-      <description>&lt;![CDATA[OntoRAG: Enhancing Question-Answering through Automated Ontology Derivation from Unstructured Knowledge Bases]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00664</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DrKGC: Dynamic Subgraph Retrieval-Augmented LLMs for Knowledge Graph Completion across General and Biomedical Domains</title>
-      <link>https://arxiv.org/abs/2506.00708</link>
-      <description>&lt;![CDATA[DrKGC: Dynamic Subgraph Retrieval-Augmented LLMs for Knowledge Graph Completion across General and Biomedical Domains]]&gt;</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00708</guid>
       <category>AI</category>
     </item>
   </channel>

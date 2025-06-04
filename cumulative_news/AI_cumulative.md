@@ -2,7 +2,49 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 12:21
+**最后更新时间**: 2025-06-04 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-04 00:56)
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [10 Python One-Liners That Will Simplify Feature Engineering](https://machinelearningmastery.com/10-python-one-liners-that-will-simplify-feature-engineering/)
+**发布时间**: 2025-06-03 12:00
+
+#### [Word Embeddings in Language Models](https://machinelearningmastery.com/word-embeddings-in-language-models/)
+**发布时间**: 2025-06-02 04:06
+
+#### [A Gentle Introduction to SHAP for Tree-Based Models](https://machinelearningmastery.com/a-gentle-introduction-to-shap-for-tree-based-models/)
+**发布时间**: 2025-05-30 12:00
+
+#### [Using Quantized Models with Ollama for Application Development](https://machinelearningmastery.com/using-quantized-models-with-ollama-for-application-development/)
+**发布时间**: 2025-05-29 12:00
+
+#### [Tokenizers in Language Models](https://machinelearningmastery.com/tokenizers-in-language-models/)
+**发布时间**: 2025-05-28 17:06
+
+#### [10 Python Libraries That Speed Up Model Development](https://machinelearningmastery.com/10-python-libraries-that-speed-up-model-development/)
+**发布时间**: 2025-05-28 16:33
+
+#### [Selecting the Right Feature Engineering Strategy: A Decision Tree Approach](https://machinelearningmastery.com/selecting-the-right-feature-engineering-strategy-a-decision-tree-approach/)
+**发布时间**: 2025-05-27 18:32
+
+#### [Using NotebookLM as Your Machine Learning Study Guide](https://machinelearningmastery.com/using-notebooklm-as-your-machine-learning-study-guide/)
+**发布时间**: 2025-05-26 12:00
+
+#### [Encoders and Decoders in Transformer Models](https://machinelearningmastery.com/encoders-and-decoders-in-transformer-models/)
+**发布时间**: 2025-05-24 20:07
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Inside the effort to tally AI’s energy appetite](https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/)
+**发布时间**: 2025-06-03 09:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Learning to clarify: Multi-turn conversations with Action-Based Contrastive Self-Training](https://research.google/blog/learning-to-clarify-multi-turn-conversations-with-action-based-contrastive-self-training/)
+**发布时间**: 2025-06-03 08:13
 
 ---
 

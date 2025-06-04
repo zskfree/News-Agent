@@ -2,7 +2,59 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 12:27
+**最后更新时间**: 2025-06-04 01:01
+
+---
+
+## 🆕 最新更新 (2025-06-04 01:01)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [America’s biggest lender is closing its wallet — and investors and home buyers will feel it. Here’s what to watch.](https://www.marketwatch.com/story/how-japan-became-americas-banker-and-why-the-moneys-running-out-19e28fe7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 00:58
+
+#### [People are turning to Campbell’s as they cook more at home. But they’re turning away from its snack brands. Here’s why.](https://www.marketwatch.com/story/people-are-turning-to-campbells-as-they-cook-more-at-home-but-theyre-shying-away-from-its-snack-brands-heres-why-ee042582?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 00:26
+
+#### [CrowdStrike’s stock has been a top gainer this year. Earnings may stall the rally.](https://www.marketwatch.com/story/crowdstrikes-stock-has-been-a-top-gainer-this-year-earnings-may-stall-the-rally-910c56ae?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 00:24
+
+#### [HPE’s stock rises as the company shows a stronger AI pipeline. Here’s one big catalyst.](https://www.marketwatch.com/story/hpes-stock-rises-as-the-company-shows-a-stronger-ai-pipeline-heres-one-big-catalyst-49fb7524?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 00:22
+
+#### [Wells Fargo just got a green light from the Fed to grow. Here’s what it means for its business and its stock.](https://www.marketwatch.com/story/wells-fargo-just-got-a-green-light-from-the-fed-to-grow-heres-what-it-means-for-its-business-and-its-stock-ecde4650?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 00:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Wells Fargo gets green light from the Fed to grow. What it means for the stock.](https://www.marketwatch.com/bulletins/redirect/go?g=70d54573-cfa1-4357-bf46-2656aacfd594&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 21:59
+
+#### [Trump signs order for 50% tariffs on steel, aluminum. Economists are dismayed.](https://www.marketwatch.com/bulletins/redirect/go?g=17910fd0-ac5d-45eb-ae7d-aebaed48b087&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 20:49
+
+#### [Nasdaq erases 2025 losses, Dow comes just short as U.S. stocks book strong gains](https://www.marketwatch.com/bulletins/redirect/go?g=6f98af6b-6aa7-49f7-a911-5daed17981e5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 20:02
+
+#### [Elon Musk calls Trump tax bill an ‘abomination.’ Would he be able to stop it?](https://www.marketwatch.com/bulletins/redirect/go?g=bd6c81ec-5a68-4ea5-b2b4-c12c63fc0eec&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 19:42
+
+#### [How following a congressional stock trade can give you an edge in the market](https://www.marketwatch.com/bulletins/redirect/go?g=c55df132-37b4-4bb8-bb50-bbe0837f3e92&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 19:18
+
+#### [Nvidia set to reclaim market-cap crown as AI demand shows no signs of slowing](https://www.marketwatch.com/bulletins/redirect/go?g=e018fdcc-3941-4b24-8f3f-3f541d12ee67&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 18:51
+
+#### [Dow, Nasdaq on track to join S&P 500 in turning positive for 2025](https://www.marketwatch.com/bulletins/redirect/go?g=9d79e20a-d707-49b1-8cef-782f522fc7a0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 17:51
+
+#### [Meta's goal to use more nuclear energy will run into this big problem](https://www.marketwatch.com/bulletins/redirect/go?g=a971b714-889c-4e96-beaa-7a06f256393d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 17:00
+
+#### [Ten nuclear stocks to consider as Meta and Constellation ink long-term contract](https://www.marketwatch.com/bulletins/redirect/go?g=9210e741-4be3-46af-b978-7a5f97684018&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 16:20
+
+#### [Nasdaq is on the verge of turning positive for 2025 — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=45997258-b7d0-4de2-8090-42c29e9ffa5f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-03 16:00
 
 ---
 

@@ -2,7 +2,128 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-03 12:26
+**最后更新时间**: 2025-06-04 01:01
+
+---
+
+## 🆕 最新更新 (2025-06-04 01:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [网易走进漫长的季节](https://www.tmtpost.com/7584638.html)
+**发布时间**: 2025-06-04 08:55
+
+#### [BBA 们开始拥抱中国智能汽车解决方案](https://www.tmtpost.com/7584694.html)
+**发布时间**: 2025-06-04 08:50
+
+#### [具身智能，尝试为智驾厂商强行“续命”](https://www.tmtpost.com/7584993.html)
+**发布时间**: 2025-06-04 08:46
+
+#### [拼多多不想再靠赚钱证明自己了](https://www.tmtpost.com/7585215.html)
+**发布时间**: 2025-06-04 08:42
+
+#### [为追星女孩保驾护航，能做成一门赚钱的生意吗？](https://www.tmtpost.com/7585072.html)
+**发布时间**: 2025-06-04 08:40
+
+#### [中老年团播，年轻人围观，谁赚钱？](https://www.tmtpost.com/7585080.html)
+**发布时间**: 2025-06-04 08:39
+
+#### [闪婚老伴是豪门，老年微短剧如何围猎父母？](https://www.tmtpost.com/7585094.html)
+**发布时间**: 2025-06-04 08:36
+
+#### [销售净额同比增93.2%，Miu Miu让Prada不一样](https://www.tmtpost.com/7585111.html)
+**发布时间**: 2025-06-04 08:24
+
+#### [靠人脉吃饭的零一万物，能撑多久？](https://www.tmtpost.com/7585113.html)
+**发布时间**: 2025-06-04 08:20
+
+#### [全县四分之一工业就靠它！湖南这座小县的“焊”金术价值40亿元](https://www.tmtpost.com/7585201.html)
+**发布时间**: 2025-06-04 08:18
+
+#### [被依沃西OS数据拖累，康方生物股价一度下跌超10%，还值得高看吗？](https://www.tmtpost.com/7585204.html)
+**发布时间**: 2025-06-04 08:18
+
+#### [「大镰刀杜国楹」正式踢馆钟睒睒](https://www.tmtpost.com/7585133.html)
+**发布时间**: 2025-06-04 08:13
+
+#### [钛媒体科股早知道：这类技术正从实验室快速走向商业化应用](https://www.tmtpost.com/7585489.html)
+**发布时间**: 2025-06-04 07:47
+
+#### [【钛晨报】2025年新能源汽车下乡，涉124款车型；总额500亿，中国太保发布战新并购基金与私募证券投资基金；小米汽车工厂正在试用机器人相关能力](https://www.tmtpost.com/7585337.html)
+**发布时间**: 2025-06-04 07:20
+
+#### [安奈儿连亏五年后实控人欲转卖控制权，曾两度跨界布局股价遭“爆炒”](https://www.tmtpost.com/7585376.html)
+**发布时间**: 2025-06-03 22:43
+
+#### [市场持续奖励以前期科研为基础的产业，涨跌停比值81:12｜日日龙虎榜](https://www.tmtpost.com/7585331.html)
+**发布时间**: 2025-06-03 21:34
+
+#### [华为云中国区总裁等多高管换岗，向AI战略要营收 | 独家](https://www.tmtpost.com/7585235.html)
+**发布时间**: 2025-06-03 20:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 曝 GPT-5 即将面试；雷军：YU7 售价肯定高于 23 万；离开格力，王自如变身 AI 博主](http://www.geekpark.net/news/350041)
+**发布时间**: 2025-06-04 08:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [利用AI诈骗流量获利1000多万美元，或将被判20年！网友：这可真“刑”啊](https://www.infoq.cn/article/P47zdglUt9gMU7jzmpdL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 08:00
+
+#### [MVP困境：现在就扩展还是以后再扩展？](https://www.infoq.cn/article/6YVDRZtma5TIH3IqyNdc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Elon Musk calls Trump’s budget bill a ‘disgusting abomination’](https://www.theverge.com/elon-musk/679093/elon-musk-trump-budget-bill-abomination)
+**发布时间**: 2025-06-03 23:09
+
+#### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+**发布时间**: 2025-06-03 23:02
+
+#### [Jeopardy! and Wheel of Fortune are headed to streaming](https://www.theverge.com/news/679056/jeopardy-wheel-of-fortune-hulu-peacock-streaming)
+**发布时间**: 2025-06-03 22:09
+
+#### [FCC investigation looms over EchoStar’s missed interest payments and a new satellite](https://www.theverge.com/news/679023/dish-network-echostar-interest-payments-tv-satellite-fcc-investigation-spacex)
+**发布时间**: 2025-06-03 21:29
+
+#### [Anker’s new outdoor wireless speaker vibrates to shake off dust and sand](https://www.theverge.com/news/678980/anker-soundcore-boom-3i-rugged-outdoor-bluetooth-waterproof-speaker)
+**发布时间**: 2025-06-03 20:31
+
+#### [The Witcher 4 tech demo ran on a base PS5 to ‘show how much we can optimize’](https://www.theverge.com/games/678895/the-witcher-4-ue5-tech-demo-ps5-interview)
+**发布时间**: 2025-06-03 19:30
+
+#### [Google&#8217;s NotebookLM now lets you share your notebook — and AI podcasts — publicly](https://www.theverge.com/news/678915/google-notebooklm-share-public-link)
+**发布时间**: 2025-06-03 18:51
+
+#### [Razer&#8217;s new mousepad wirelessly charges mice with a Logitech-style puck](https://www.theverge.com/news/678888/razer-hyperflux-v2-mouse-pad-wireless-charging)
+**发布时间**: 2025-06-03 18:21
+
+#### [T-Mobile launches fiber internet service in the US with a five-year price lock](https://www.theverge.com/news/678897/t-mobile-fiber-internet-launch-plans)
+**发布时间**: 2025-06-03 18:14
+
+#### [Tim Sweeney didn’t expect a five-year Fortnite ban](https://www.theverge.com/games/678885/epic-games-ceo-tim-sweeney-five-year-fortnite-ban)
+**发布时间**: 2025-06-03 18:05
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 37 Best Shows on Apple TV+ Right Now (June 2025)](https://www.wired.com/story/best-apple-tv-plus-shows/)
+**发布时间**: 2025-06-03 19:00
+
+#### [How the Farm Industry Spied on Animal Rights Activists and Pushed the FBI to Treat Them as Bioterrorists](https://www.wired.com/story/fbi-wmdd-dxe-animal-agriculture-alliance/)
+**发布时间**: 2025-06-03 16:21
+
+#### [“Mario Kart World” Devs Broke Their Own Rule on Who Gets to Drive](https://www.wired.com/story/mario-kart-world-everyone-gets-to-drive/)
+**发布时间**: 2025-06-03 14:00
+
+#### ['Mario Kart World' Races Are More Chaotic—and Better—Than Ever](https://www.wired.com/story/mario-kart-world-first-impressions/)
+**发布时间**: 2025-06-03 14:00
+
+#### [Aventon Level 3 Review: A Fantastic First Electric Bike](https://www.wired.com/review/aventon-level-3/)
+**发布时间**: 2025-06-03 13:02
+
+#### [How to Make AI Faster and Smarter—With a Little Help From Physics](https://www.wired.com/story/improving-deep-learning-with-a-little-help-from-physics/)
+**发布时间**: 2025-06-01 11:00
 
 ---
 
