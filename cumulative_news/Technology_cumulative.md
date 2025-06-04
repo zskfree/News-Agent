@@ -2,7 +2,77 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 01:01
+**最后更新时间**: 2025-06-04 04:18
+
+---
+
+## 🆕 最新更新 (2025-06-04 04:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [告别“531”，光伏何处去？](https://www.tmtpost.com/7585688.html)
+**发布时间**: 2025-06-04 12:05
+
+#### [Trump Doubles Steel and Aluminum Tariffs to 50%, Spares UK](https://www.tmtpost.com/7585798.html)
+**发布时间**: 2025-06-04 11:53
+
+#### [Duolingo's Gamified, AI-Fueled Learning Model Goes Viral in China — But Is It Really Teaching Anyone?](https://www.tmtpost.com/7585764.html)
+**发布时间**: 2025-06-04 11:23
+
+#### [大湾区车展小米挤满了人，奔驰挤满了车](https://www.tmtpost.com/7585352.html)
+**发布时间**: 2025-06-04 10:55
+
+#### [实探奥乐齐与盒马NB在江浙沪市场的“贴身肉搏”](https://www.tmtpost.com/7585343.html)
+**发布时间**: 2025-06-04 10:55
+
+#### [王健林还得接着卖万达](https://www.tmtpost.com/7585348.html)
+**发布时间**: 2025-06-04 10:18
+
+#### [China, U.S. Locked in High-Stakes Race to Lead Humanoid Robot Revolution](https://www.tmtpost.com/7585671.html)
+**发布时间**: 2025-06-04 09:58
+
+#### [中资要统治韩娱了？](https://www.tmtpost.com/7585287.html)
+**发布时间**: 2025-06-04 09:46
+
+#### [由「轻」变「重」，是拼多多的宿命](https://www.tmtpost.com/7585218.html)
+**发布时间**: 2025-06-04 09:09
+
+#### [618新战况：美团发起奇袭，中国电商进入“总体战”时代](https://www.tmtpost.com/7585291.html)
+**发布时间**: 2025-06-04 09:09
+
+#### [华东奶霸光明，被伊利蒙牛甩远了](https://www.tmtpost.com/7584498.html)
+**发布时间**: 2025-06-04 09:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [复杂场景下的 RAG 架构演进：跨模态知识联邦与统一语义推理实践](https://www.infoq.cn/article/d6ZsuSmd6PydV88QH6gZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 11:01
+
+#### [谷歌发布AI模型MedGemma，用于医学领域的文本和图像理解](https://www.infoq.cn/article/LROWyUeLGkIKX8c5g6dj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 11:00
+
+#### [如何在 PB 级数据湖上实现 Parquet 查询 1000 倍性能提升｜AICon北京](https://www.infoq.cn/article/Wy9fEkjCCip9gDCgLXbA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 10:37
+
+#### [全球仅6家！GMI Cloud 跻身 Reference Platform NVIDIA Cloud Partner 行列！](https://www.infoq.cn/article/BUll9ywQ1hIb3CSP694a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-04 09:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派广州线下店究竟能（在）干嘛](https://sspai.com/post/99782)
+**发布时间**: 2025-06-04 11:00
+
+#### [派早报：Apple 公布 2025 设计大奖得主、虚幻引擎 5.6 发布等](https://sspai.com/post/99893)
+**发布时间**: 2025-06-04 08:47
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Pokémon Violet and Scarlet’s Switch 2 update is as good as it looks](https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on)
+**发布时间**: 2025-06-04 04:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [女性品牌，为什么都开始卖男性产品了？](http://www.huxiu.com/article/4408401.html?f=wangzhan)
+**发布时间**: 2025-06-03 18:00
 
 ---
 
