@@ -2,7 +2,53 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-05 00:57
+**最后更新时间**: 2025-06-05 12:27
+
+---
+
+## 🆕 最新更新 (2025-06-05 12:27)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Latest overseas market signals Tesla’s sales struggle continues](https://www.marketwatch.com/bulletins/redirect/go?g=70d67e43-5fb5-4d1b-a011-8832bf89b3a8&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 12:22
+
+#### [European Central Bank enacts eighth straight interest-rate cut — live coverage](https://www.marketwatch.com/bulletins/redirect/go?g=95646d96-5ed1-4dc5-a4d6-e8add326abcf&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 12:19
+
+#### [U.S. stock futures rise, with rally set to continue and S&P 500 aiming at 6,000](https://www.marketwatch.com/bulletins/redirect/go?g=5f948c36-10b6-454a-97a8-52e3579817ea&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 09:08
+
+#### [European Central Bank expected to deliver 8th straight rate cut on Thursday](https://www.marketwatch.com/bulletins/redirect/go?g=4e6aec35-a61c-4a9c-8e47-84086adf76f6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 08:32
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Buy-the-dip retail investors are getting bolder, just when the risks are getting bigger, say analysts](https://www.marketwatch.com/story/buy-the-dip-retail-investors-are-getting-bolder-just-when-the-risks-are-getting-bigger-say-analysts-d06491c9?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 12:18
+
+#### [AI is ready to take over our wallets and spend our money for us. What could go wrong?](https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 12:15
+
+#### [P&G becomes the latest consumer giant to cut jobs, with 7,000 employees set to be fired](https://www.marketwatch.com/story/p-g-becomes-the-latest-consumer-giant-to-cut-jobs-with-7-000-employees-set-to-be-fired-1355f160?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 12:13
+
+#### [Why British fintech Wise is crossing the Atlantic for its primary listing](https://www.marketwatch.com/story/why-fintech-wise-is-crossing-the-atlantic-for-its-primary-listing-8683ca27?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 11:55
+
+#### [Why OpenAI’s latest moves could signal more trouble ahead for Apple’s stock](https://www.marketwatch.com/story/why-openais-latest-moves-could-signal-more-trouble-ahead-for-apples-stock-5e59e884?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 11:52
+
+#### [Why Wall Street and Main Street should be rooting for Trump’s tax bill to fail](https://www.marketwatch.com/story/why-wall-street-and-main-street-should-be-rooting-for-trumps-tax-bill-to-fail-29d00faa?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 11:50
+
+#### [What’s at stake if world’s most powerful market finally buckles after decades-long U.S. debt splurge](https://www.marketwatch.com/story/whats-at-stake-if-worlds-most-powerful-market-finally-buckles-after-decades-long-u-s-debt-splurge-35de1617?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 11:00
+
+#### [I help my elderly mother every day and drive her to appointments. Can I recoup my costs from her estate?](https://www.marketwatch.com/story/i-help-my-elderly-mother-every-day-and-drive-her-to-appointments-can-i-recoup-my-costs-from-her-estate-60ebfd18?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 10:30
+
+#### [Why the fragile dollar became funder for other currency bets and why it matters](https://www.marketwatch.com/story/why-the-fragile-dollar-became-funder-for-other-currency-bets-and-why-it-matters-9497a9ea?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 10:17
 
 ---
 

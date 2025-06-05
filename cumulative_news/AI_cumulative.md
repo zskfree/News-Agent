@@ -2,7 +2,37 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-05 08:15
+**最后更新时间**: 2025-06-05 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-05 12:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，新一届ACM博士论文奖正式公布](https://www.jiqizhixin.com/articles/2025-06-05-10)
+**发布时间**: 2025-06-05 17:09
+
+#### [10行代码，AIME24/25提高15%！揭秘大模型强化学习熵机制](https://www.jiqizhixin.com/articles/2025-06-05-9)
+**发布时间**: 2025-06-05 17:06
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Over $1 billion in federal funding got slashed for this polluting industry](https://www.technologyreview.com/2025/06/05/1117855/cement-funding-slash/)
+**发布时间**: 2025-06-05 10:00
+
+#### [Crypto billionaire Brian Armstrong is ready to invest in CRISPR baby tech](https://www.technologyreview.com/2025/06/05/1117909/crypto-billionaire-brian-armstrong-is-ready-to-invest-in-crispr-baby-tech/)
+**发布时间**: 2025-06-05 09:36
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [上海AI实验室造出首个「通才」机器人大脑：看懂世界+空间推理+精准操控全拿下](https://www.qbitai.com/2025/06/291194.html)
+**发布时间**: 2025-06-05 08:29
+
+#### [大模型结构化推理优势难复制到垂直领域！最新法律AI评估标准来了，抱抱脸评测集趋势第一](https://www.qbitai.com/2025/06/291108.html)
+**发布时间**: 2025-06-05 08:20
+
+#### [大神Karpathy炮轰复杂UI应用没有未来，Adobe首当其冲，网友：不提供文本交互，就是在阻挡AI浪潮](https://www.qbitai.com/2025/06/291107.html)
+**发布时间**: 2025-06-05 08:15
 
 ---
 

@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Jun 2025 08:15:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Jun 2025 08:18:13 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Jun 2025 12:27:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>刚刚，新一届ACM博士论文奖正式公布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-05-10</link>
+      <description>&lt;![CDATA[刚刚，新一届ACM博士论文奖正式公布]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10行代码，AIME24/25提高15%！揭秘大模型强化学习熵机制</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-05-9</link>
+      <description>&lt;![CDATA[10行代码，AIME24/25提高15%！揭秘大模型强化学习熵机制]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Over $1 billion in federal funding got slashed for this polluting industry</title>
+      <link>https://www.technologyreview.com/2025/06/05/1117855/cement-funding-slash/</link>
+      <description>&lt;![CDATA[Over $1 billion in federal funding got slashed for this polluting industry]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/05/1117855/cement-funding-slash/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Crypto billionaire Brian Armstrong is ready to invest in CRISPR baby tech</title>
+      <link>https://www.technologyreview.com/2025/06/05/1117909/crypto-billionaire-brian-armstrong-is-ready-to-invest-in-crispr-baby-tech/</link>
+      <description>&lt;![CDATA[Crypto billionaire Brian Armstrong is ready to invest in CRISPR baby tech]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/05/1117909/crypto-billionaire-brian-armstrong-is-ready-to-invest-in-crispr-baby-tech/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>上海AI实验室造出首个「通才」机器人大脑：看懂世界+空间推理+精准操控全拿下</title>
+      <link>https://www.qbitai.com/2025/06/291194.html</link>
+      <description>&lt;![CDATA[上海AI实验室造出首个「通才」机器人大脑：看懂世界+空间推理+精准操控全拿下]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291194.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型结构化推理优势难复制到垂直领域！最新法律AI评估标准来了，抱抱脸评测集趋势第一</title>
+      <link>https://www.qbitai.com/2025/06/291108.html</link>
+      <description>&lt;![CDATA[大模型结构化推理优势难复制到垂直领域！最新法律AI评估标准来了，抱抱脸评测集趋势第一]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291108.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大神Karpathy炮轰复杂UI应用没有未来，Adobe首当其冲，网友：不提供文本交互，就是在阻挡AI浪潮</title>
+      <link>https://www.qbitai.com/2025/06/291107.html</link>
+      <description>&lt;![CDATA[大神Karpathy炮轰复杂UI应用没有未来，Adobe首当其冲，网友：不提供文本交互，就是在阻挡AI浪潮]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 08:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291107.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>真实联网搜索Agent，7B媲美满血R1，华为盘古DeepDiver给出开域信息获取新解法</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-05-8</link>
@@ -355,62 +411,6 @@
       <description>&lt;![CDATA[Vid-SME: Membership Inference Attacks against Large Video Understanding Models]]&gt;</description>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.03179</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Edge Computing for Physics-Driven AI in Computational MRI: A Feasibility Study</title>
-      <link>https://arxiv.org/abs/2506.03183</link>
-      <description>&lt;![CDATA[Edge Computing for Physics-Driven AI in Computational MRI: A Feasibility Study]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03183</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Impact of Tuning Parameters in Deep Convolutional Neural Network Using a Crack Image Dataset</title>
-      <link>https://arxiv.org/abs/2506.03184</link>
-      <description>&lt;![CDATA[Impact of Tuning Parameters in Deep Convolutional Neural Network Using a Crack Image Dataset]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03184</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset</title>
-      <link>https://arxiv.org/abs/2506.03185</link>
-      <description>&lt;![CDATA[DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03185</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Lightweight Convolutional Neural Networks for Retinal Disease Classification</title>
-      <link>https://arxiv.org/abs/2506.03186</link>
-      <description>&lt;![CDATA[Lightweight Convolutional Neural Networks for Retinal Disease Classification]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03186</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multi-Analyte, Swab-based Automated Wound Monitor with AI</title>
-      <link>https://arxiv.org/abs/2506.03188</link>
-      <description>&lt;![CDATA[Multi-Analyte, Swab-based Automated Wound Monitor with AI]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03188</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Continual Learning in Vision-Language Models via Aligned Model Merging</title>
-      <link>https://arxiv.org/abs/2506.03189</link>
-      <description>&lt;![CDATA[Continual Learning in Vision-Language Models via Aligned Model Merging]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03189</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MINT: Memory-Infused Prompt Tuning at Test-time for CLIP</title>
-      <link>https://arxiv.org/abs/2506.03190</link>
-      <description>&lt;![CDATA[MINT: Memory-Infused Prompt Tuning at Test-time for CLIP]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03190</guid>
       <category>AI</category>
     </item>
   </channel>

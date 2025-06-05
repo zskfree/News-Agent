@@ -2,7 +2,119 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-05 08:18
+**最后更新时间**: 2025-06-05 12:27
+
+---
+
+## 🆕 最新更新 (2025-06-05 12:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [618的游戏规则，变了](https://www.tmtpost.com/7587489.html)
+**发布时间**: 2025-06-05 20:12
+
+#### [警惕外卖补贴背后的产能过剩问题](https://www.tmtpost.com/7587428.html)
+**发布时间**: 2025-06-05 20:12
+
+#### [华新精科两大疑惑：毛利率反常领跑， 90%募资使用的合理性遭拷问｜IPO观察](https://www.tmtpost.com/7586959.html)
+**发布时间**: 2025-06-05 19:17
+
+#### [再见孟羽童，董明珠突然和蔼了](https://www.tmtpost.com/7587345.html)
+**发布时间**: 2025-06-05 19:09
+
+#### [大模型改造互联网巨头：从广告到电商，旧业务装上新引擎](https://www.tmtpost.com/7587315.html)
+**发布时间**: 2025-06-05 17:51
+
+#### [苹果AI又遭延期：迟到的苹果还能赢吗？](https://www.tmtpost.com/7587193.html)
+**发布时间**: 2025-06-05 17:51
+
+#### [从粗放到细分，如何找到童装的增量密码？](https://www.tmtpost.com/7586940.html)
+**发布时间**: 2025-06-05 17:40
+
+#### [Gemini 2.5弯道超车背后的灵魂人物](https://www.tmtpost.com/7587033.html)
+**发布时间**: 2025-06-05 17:14
+
+#### [让中产“打起来”的榴莲，已经成为水果界的泡泡玛特](https://www.tmtpost.com/7587043.html)
+**发布时间**: 2025-06-05 16:57
+
+#### [关税“达摩克利斯之剑”高悬，美国电商零售巨头业绩分化](https://www.tmtpost.com/7586905.html)
+**发布时间**: 2025-06-05 16:57
+
+#### [管理费或成历史，广东新规打破投资机构“铁饭碗”](https://www.tmtpost.com/7587294.html)
+**发布时间**: 2025-06-05 16:53
+
+#### [BEYOND Expo跨境电商生态峰会圆满举办：智循集团助力企业“连接世界，共享增长”](https://www.tmtpost.com/7582249.html)
+**发布时间**: 2025-06-05 16:44
+
+#### [古麒绒材成功上市：加码清洁生产、技术研发，积极建设“羽绒材料”品牌](https://www.tmtpost.com/7587256.html)
+**发布时间**: 2025-06-05 16:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯云出海服务解决方案手册](https://www.infoq.cn/minibook/vjO0UC7cYagKsFmUz8Mp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-05 17:19
+
+#### [深思考人工智能CEO 兼 AI 算法科学家杨志明将在AICon北京分享端侧多模态大模型的创新实践](https://www.infoq.cn/article/Ytdpd5S3WeDt5rxEt5gz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-05 17:00
+
+#### [又一个Rust重写：OpenAI的Codex CLI原生化，为Rust放弃Node和TypeScript](https://www.infoq.cn/article/I4fzvM0XQoWQQYOD6LYT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-05 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 211｜少数派的编辑们最近买了啥？](https://sspai.com/post/99933)
+**发布时间**: 2025-06-05 16:58
+
+#### [你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧](https://sspai.com/post/99910)
+**发布时间**: 2025-06-05 14:36
+
+#### [西昌：少数民族底色、千年文明印记与火箭升空的震颤](https://sspai.com/post/99866)
+**发布时间**: 2025-06-05 11:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple’s leaked 45W MagSafe charger is first to support Qi2.2](https://www.theverge.com/news/680309/45w-magsafe-charger-qi-2-2-iphone-17-apple-certification)
+**发布时间**: 2025-06-05 12:21
+
+#### [How to handle the tech challenges of moving overseas](https://www.theverge.com/tech/676306/moving-tech-overseas-how-to-tips)
+**发布时间**: 2025-06-05 12:00
+
+#### [The cursed world of AI kiss and hug apps](https://www.theverge.com/ai-artificial-intelligence/679295/ai-hug-kiss-video-apps-deepfakes)
+**发布时间**: 2025-06-05 12:00
+
+#### [Five apps that can help you arrange your new home](https://www.theverge.com/tech/668625/room-planner-apps-moving-home-decorating)
+**发布时间**: 2025-06-05 11:30
+
+#### [OnePlus Pad 3 arrives with Snapdragon 8 Elite inside](https://www.theverge.com/news/680283/oneplus-pad-3-tablet-launch-price-specs-snapdragon-8-elite)
+**发布时间**: 2025-06-05 11:22
+
+#### [Lime renews vows with Uber ahead of busy summer season](https://www.theverge.com/news/679783/lime-renews-vows-with-uber-ahead-of-its-busy-summer-season)
+**发布时间**: 2025-06-05 11:00
+
+#### [Amazon is reportedly training humanoid robots to deliver packages](https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots)
+**发布时间**: 2025-06-05 10:16
+
+#### [China’s rare earth restrictions halt first auto industry production lines](https://www.theverge.com/news/680247/auto-manufacturing-halt-cars-china-rare-earth-minerals-magnets)
+**发布时间**: 2025-06-05 08:57
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OnePlus Pad 3 Review: Killer Tablet, High Price](https://www.wired.com/review/oneplus-pad-3/)
+**发布时间**: 2025-06-05 12:00
+
+#### [Why More Young People Are Becoming 'Relationship Anarchists'](https://www.wired.com/story/why-more-young-people-are-becoming-relationship-anarchists/)
+**发布时间**: 2025-06-05 11:00
+
+#### [8 Best Espresso Machines (2025), Tested and Reviewed](https://www.wired.com/gallery/best-espresso-machines/)
+**发布时间**: 2025-06-05 10:39
+
+#### [What Really Happened in the Aftermath of the Lizard Squad Hacks](https://www.wired.com/story/ctrl-alt-chaos-joe-tidy-book-excerpt/)
+**发布时间**: 2025-06-05 10:00
+
+#### [How to Prepare for a Climate Disaster in Trump’s America](https://www.wired.com/story/how-to-survive-a-disaster-in-the-age-of-trump-emergency-fema-wild-fire-hurricane/)
+**发布时间**: 2025-06-05 09:30
+
+#### [At Bitcoin 2025, Crypto Purists and the MAGA Faithful Collide](https://www.wired.com/story/at-bitcoin-2025-crypto-purists-and-the-maga-faithful-collide/)
+**发布时间**: 2025-06-05 09:00
 
 ---
 
