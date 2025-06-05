@@ -2,7 +2,18 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 12:21
+**最后更新时间**: 2025-06-05 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-05 00:55)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [MIT Technology Review Insiders Panel](https://www.technologyreview.com/2025/06/04/1117864/mit-technology-review-insiders-panel/)
+**发布时间**: 2025-06-04 20:06
+
+#### [The Download: AI’s role in math, and calculating its energy footprint](https://www.technologyreview.com/2025/06/04/1117829/the-download-ai-math-energy/)
+**发布时间**: 2025-06-04 12:02
 
 ---
 

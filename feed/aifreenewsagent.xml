@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Jun 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Jun 2025 12:22:10 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 00:55:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Jun 2025 00:57:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MIT Technology Review Insiders Panel</title>
+      <link>https://www.technologyreview.com/2025/06/04/1117864/mit-technology-review-insiders-panel/</link>
+      <description>&lt;![CDATA[MIT Technology Review Insiders Panel]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/04/1117864/mit-technology-review-insiders-panel/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: AI’s role in math, and calculating its energy footprint</title>
+      <link>https://www.technologyreview.com/2025/06/04/1117829/the-download-ai-math-energy/</link>
+      <description>&lt;![CDATA[The Download: AI’s role in math, and calculating its energy footprint]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/04/1117829/the-download-ai-math-energy/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>开启 AI 自主进化时代，普林斯顿Alita颠覆传统通用智能体，GAIA榜单引来终章</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-04-11</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[Predicting Blood Type: Assessing Model Performance with ROC Analysis]]&gt;</description>
       <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.02062</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>EWGN: Elastic Weight Generation and Context Switching in Deep Learning</title>
-      <link>https://arxiv.org/abs/2506.02065</link>
-      <description>&lt;![CDATA[EWGN: Elastic Weight Generation and Context Switching in Deep Learning]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02065</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An Introduction to Flow Matching and Diffusion Models</title>
-      <link>https://arxiv.org/abs/2506.02070</link>
-      <description>&lt;![CDATA[An Introduction to Flow Matching and Diffusion Models]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.02070</guid>
       <category>AI</category>
     </item>
   </channel>

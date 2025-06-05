@@ -2,7 +2,74 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 12:22
+**最后更新时间**: 2025-06-05 00:57
+
+---
+
+## 🆕 最新更新 (2025-06-05 00:57)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bad Bunny was a hit for Calvin Klein — but not enough to shield profit outlook from tariffs](https://www.marketwatch.com/story/bad-bunny-was-a-hit-for-calvin-klein-but-not-enough-to-shield-profit-outlook-from-tariffs-d2ccc649?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 00:21
+
+#### [America’s debt is at a breaking point — Trump’s tax bill might just push it over the edge](https://www.marketwatch.com/story/americas-debt-is-at-a-breaking-point-and-trumps-tax-bill-might-just-push-it-over-the-edge-7a85f88d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 00:01
+
+#### [401(k) millionaires became rarer in the first quarter — but it’s not all bad news](https://www.marketwatch.com/story/401-k-millionaires-fell-in-the-first-quarter-but-its-not-all-bad-news-1afed4a6?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 21:21
+
+#### [Costco’s monthly sales growth continues to slow](https://www.marketwatch.com/story/costcos-monthly-sales-growth-continues-to-ease-ee653879?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 21:08
+
+#### [How to make sure you don’t run out of money in retirement](https://www.marketwatch.com/story/how-to-make-sure-you-dont-run-out-of-money-in-retirement-172e8a29?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 21:00
+
+#### [The two rules investors need to follow right now as the S&P 500 eyes a return to 6,000](https://www.marketwatch.com/story/the-two-rules-investors-need-to-follow-right-now-as-the-s-p-500-eyes-a-return-to-6-000-31696abd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 20:57
+
+#### [The tax bill doesn’t have many new wins for investors. How to make the best of it anyway.](https://www.marketwatch.com/story/the-tax-bill-doesnt-have-many-new-wins-for-investors-how-to-make-the-best-of-it-anyway-965b92af?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 20:54
+
+#### [Senate pushes Russia tariffs that could jack up energy prices for American consumers](https://www.marketwatch.com/story/senate-pushes-russia-tariffs-that-could-jack-up-energy-prices-for-american-consumers-e9870842?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 20:36
+
+#### [Space IPOs are trickling back. What that could mean for Elon Musk’s Starlink.](https://www.marketwatch.com/story/space-ipos-are-trickling-back-what-that-could-mean-for-elon-musks-starlink-2b3e2c24?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 20:08
+
+#### [There’s a frenzy in Washington over the accuracy of a key measure of U.S. inflation. Here’s what’s happening.](https://www.marketwatch.com/story/cpi-inflation-report-requires-more-guesswork-due-to-trumps-hiring-freeze-just-how-accurate-is-it-76ae03f4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-04 20:07
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [2 rules investors need to follow right now as the S&P 500 eyes a return to 6,000](https://www.marketwatch.com/bulletins/redirect/go?g=9f7a3bd1-1c23-4f1b-a308-c3c788e67a29&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 22:06
+
+#### [The dollar just had its weakest start to a year ever. Why it may fall further.](https://www.marketwatch.com/bulletins/redirect/go?g=eceaf288-140a-4604-9cc9-d1f1ea91f606&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 20:47
+
+#### [Dow ends lower, S&P 500 and Nasdaq hold narrow gains after weak economic data](https://www.marketwatch.com/bulletins/redirect/go?g=08cedcf1-5e8b-46df-b86b-d4cca71002c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 20:02
+
+#### [U.S. economy stalled in May, Fed's Beige Book survey finds](https://www.marketwatch.com/bulletins/redirect/go?g=11636b2f-25c9-4ed9-a6ce-6556e7b10e6f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 18:56
+
+#### [The main takeaway from ADP data? The U.S. job market has cooled.](https://www.marketwatch.com/bulletins/redirect/go?g=71bbf362-114b-498e-8764-d38c29bf4671&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 18:28
+
+#### [Here’s where all of Trump’s tariffs stand](https://www.marketwatch.com/bulletins/redirect/go?g=e649436d-2ff6-492e-a2bb-854ce2975174&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 17:09
+
+#### [Car sales are running out of gas as tariff-based panic buying wanes](https://www.marketwatch.com/bulletins/redirect/go?g=e74ffca6-f414-41c9-9c0f-63c92343ce6e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 16:20
+
+#### [Private-equity funds increasingly available to individual investors. Be wary.](https://www.marketwatch.com/bulletins/redirect/go?g=328013e8-d072-416f-814c-6ac25d9be2b7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 15:32
+
+#### [U.S. economy’s services sector shrinks for the first time in nearly a year](https://www.marketwatch.com/bulletins/redirect/go?g=c6494f13-8576-4af4-9298-b8ab29fab318&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 14:29
+
+#### [Fidelity says there are now fewer 401(k) millionaires than there were last year](https://www.marketwatch.com/bulletins/redirect/go?g=d5ff261b-dbaa-4a08-8e6f-13c2b44e7537&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-04 14:02
 
 ---
 

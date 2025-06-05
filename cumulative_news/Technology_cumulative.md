@@ -2,7 +2,106 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-04 12:22
+**最后更新时间**: 2025-06-05 00:57
+
+---
+
+## 🆕 最新更新 (2025-06-05 00:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [电商新势力，想把线上的故事再讲一遍](https://www.tmtpost.com/7586342.html)
+**发布时间**: 2025-06-05 08:40
+
+#### [别吵吵，“苏超”踢的不仅仅是足球](https://www.tmtpost.com/7586320.html)
+**发布时间**: 2025-06-05 08:20
+
+#### [钛媒体科股早知道：多重催化下资本市场关注度显著提升，Robo X商业化加速落地](https://www.tmtpost.com/7586550.html)
+**发布时间**: 2025-06-05 08:18
+
+#### [【钛晨报】国家能源局：组织开展新型电力系统建设第一批试点工作；《智能网联汽车 组合驾驶辅助系统安全要求》立项制定；迅雷完成对虎扑的收购](https://www.tmtpost.com/7586423.html)
+**发布时间**: 2025-06-05 07:20
+
+#### [沪深量能11530亿，较昨日增加116亿｜日日龙虎榜](https://www.tmtpost.com/7586327.html)
+**发布时间**: 2025-06-04 20:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [ChatGPT 推「AI 转录」整理功能；Manus 推出文生视频功能；小鹏、华为合作今日揭晓](http://www.geekpark.net/news/350074)
+**发布时间**: 2025-06-05 08:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Have I Been Pwned 2.0添加了新的数据泄露监控工具](https://www.infoq.cn/article/O4j5pWqdaJvB7FepprT7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-05 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小鹏尽力了](http://www.huxiu.com/article/4420495.html?f=wangzhan)
+**发布时间**: 2025-06-05 07:19
+
+#### [“一把20亿，我差点成为长安2022年的‘罪人’”](http://www.huxiu.com/article/4425359.html?f=wangzhan)
+**发布时间**: 2025-06-04 21:06
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [ICE Quietly Scales Back Rules for Courthouse Raids](https://www.wired.com/story/ice-quietly-scales-back-rules-for-courthouse-raids/)
+**发布时间**: 2025-06-04 22:24
+
+#### [Switch 2 Scalpers Are Auctioning Off Their Preorders to the Highest Bidder](https://www.wired.com/story/switch-2-scalpers/)
+**发布时间**: 2025-06-04 18:57
+
+#### [Trumpworld Is Fighting Over ‘Official’ Crypto Wallet](https://www.wired.com/story/trumpworld-is-fighting-over-official-crypto-wallet/)
+**发布时间**: 2025-06-04 17:27
+
+#### [Perplexity’s CEO Sees AI Agents as the Next Web Battleground](https://www.wired.com/story/perplexitys-ceo-sees-ai-agents-as-the-next-web-battleground/)
+**发布时间**: 2025-06-04 16:25
+
+#### [‘Big Balls’ Is Officially a Full-Time Government Employee](https://www.wired.com/story/big-balls-young-doge-converted-into-full-time-government-employees/)
+**发布时间**: 2025-06-04 15:08
+
+#### [15 Best Gifts for Coworkers Under $50, Curated by WIRED (2025)](https://www.wired.com/gallery/gifts-for-coworkers/)
+**发布时间**: 2025-06-04 15:00
+
+#### [Remigo One Review: A Very Compelling Electric Outboard Motor](https://www.wired.com/review/remigo-one/)
+**发布时间**: 2025-06-04 14:01
+
+#### [See How Much Faster a Quantum Computer Will Crack Encryption](https://www.wired.com/story/youre-not-ready-quantum-cracks/)
+**发布时间**: 2025-06-04 10:00
+
+#### [‘Mario Kart World’ Devs Broke Their Own Rule on Who Gets to Drive](https://www.wired.com/story/mario-kart-world-everyone-gets-to-drive/)
+**发布时间**: 2025-06-03 14:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
+**发布时间**: 2025-06-04 21:58
+
+#### [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)
+**发布时间**: 2025-06-04 21:53
+
+#### [James Bond game 007 First Light gets first trailer](https://www.theverge.com/news/679909/007-first-light-trailer-james-bond)
+**发布时间**: 2025-06-04 21:52
+
+#### [PlayStation reveals a new arcade-style fighting stick](https://www.theverge.com/news/680019/playstation-project-defiant-arcade-fight-stick)
+**发布时间**: 2025-06-04 21:47
+
+#### [Meta&#8217;s reportedly shopping for exclusive content on its upcoming VR headset](https://www.theverge.com/news/679891/meta-ar-vr-headset-puffin-loma-disney-a24-exclusive-streaming)
+**发布时间**: 2025-06-04 21:33
+
+#### [Square Enix surprise announced a Final Fantasy Tactics remaster](https://www.theverge.com/news/679880/final-fantasy-tactics-remake-square-enix-ps5)
+**发布时间**: 2025-06-04 21:29
+
+#### [Apple could be adding camera controls and sleep detection to your AirPods](https://www.theverge.com/news/679930/apple-airpods-camera-controls-sleep-detection-wwdc-rumor)
+**发布时间**: 2025-06-04 21:12
+
+#### [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+**发布时间**: 2025-06-04 20:59
+
+#### [PlayStation State of Play June 2025: all the news and trailers](https://www.theverge.com/sony-playstation/678933/playstation-state-of-play-june-2025-news-trailers)
+**发布时间**: 2025-06-04 20:40
+
+#### [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+**发布时间**: 2025-06-04 20:30
 
 ---
 
