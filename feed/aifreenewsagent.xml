@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Jun 2025 04:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Jun 2025 04:19:49 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Jun 2025 08:18:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>真实联网搜索Agent，7B媲美满血R1，华为盘古DeepDiver给出开域信息获取新解法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-05-8</link>
+      <description>&lt;![CDATA[真实联网搜索Agent，7B媲美满血R1，华为盘古DeepDiver给出开域信息获取新解法]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>重磅！2025智源大会完整日程公布——全球AI先锋全阵容集结</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-05-7</link>
+      <description>&lt;![CDATA[重磅！2025智源大会完整日程公布——全球AI先锋全阵容集结]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 13:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025｜趣丸研发新型人脸动画技术，声音+指令精准控制表情</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-05-6</link>
+      <description>&lt;![CDATA[ICML 2025｜趣丸研发新型人脸动画技术，声音+指令精准控制表情]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>北京二环实测蔚来世界模型：心率飙到128</title>
+      <link>https://www.qbitai.com/2025/06/291029.html</link>
+      <description>&lt;![CDATA[北京二环实测蔚来世界模型：心率飙到128]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291029.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>曝苹果AirPods推出睡眠检测等5大新功能，iOS系统也有12年来首次界面设计大改</title>
+      <link>https://www.qbitai.com/2025/06/291010.html</link>
+      <description>&lt;![CDATA[曝苹果AirPods推出睡眠检测等5大新功能，iOS系统也有12年来首次界面设计大改]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 05:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291010.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型公司挖墙脚哪家强？报告：Anthropic人才吸引力是OpenAI的8倍，留存率达80%</title>
+      <link>https://www.qbitai.com/2025/06/290983.html</link>
+      <description>&lt;![CDATA[大模型公司挖墙脚哪家强？报告：Anthropic人才吸引力是OpenAI的8倍，留存率达80%]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 05:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290983.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>钉钉更新7.7.0版本，多维表全面免费！</title>
+      <link>https://www.qbitai.com/2025/06/290969.html</link>
+      <description>&lt;![CDATA[钉钉更新7.7.0版本，多维表全面免费！]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 03:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/290969.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>SAVANA：使用长读长测序对细胞畸变进行精准测量分析</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-05-5</link>
@@ -27,14 +83,6 @@
       <description>&lt;![CDATA[MOOSE-Chem3重塑科研范式：AI「动态引导」实验，实现科学发现的飞跃]]&gt;</description>
       <pubDate>Thu, 05 Jun 2025 11:57:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>钉钉更新7.7.0版本，多维表全面免费！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-05-3</link>
-      <description>&lt;![CDATA[钉钉更新7.7.0版本，多维表全面免费！]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-05-3</guid>
       <category>AI</category>
     </item>
     <item>
@@ -363,54 +411,6 @@
       <description>&lt;![CDATA[MINT: Memory-Infused Prompt Tuning at Test-time for CLIP]]&gt;</description>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.03190</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward</title>
-      <link>https://arxiv.org/abs/2506.03191</link>
-      <description>&lt;![CDATA[Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03191</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Encoding of Demographic and Anatomical Information in Chest X-Ray-based Severe Left Ventricular Hypertrophy Classifiers</title>
-      <link>https://arxiv.org/abs/2506.03192</link>
-      <description>&lt;![CDATA[Encoding of Demographic and Anatomical Information in Chest X-Ray-based Severe Left Ventricular Hypertrophy Classifiers]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03192</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HueManity: Probing Fine-Grained Visual Perception in MLLMs</title>
-      <link>https://arxiv.org/abs/2506.03194</link>
-      <description>&lt;![CDATA[HueManity: Probing Fine-Grained Visual Perception in MLLMs]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03194</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs</title>
-      <link>https://arxiv.org/abs/2506.03195</link>
-      <description>&lt;![CDATA[Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03195</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing</title>
-      <link>https://arxiv.org/abs/2506.03197</link>
-      <description>&lt;![CDATA[Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03197</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment</title>
-      <link>https://arxiv.org/abs/2506.03198</link>
-      <description>&lt;![CDATA[FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03198</guid>
       <category>AI</category>
     </item>
   </channel>
