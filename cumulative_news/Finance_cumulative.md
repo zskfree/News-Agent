@@ -2,7 +2,53 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-06 08:15
+**最后更新时间**: 2025-06-06 12:21
+
+---
+
+## 🆕 最新更新 (2025-06-06 12:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 65 and she’s 55. Should we get married for Social Security benefits?](https://www.marketwatch.com/story/im-65-and-shes-55-should-we-get-married-for-social-security-benefits-d423547f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 12:00
+
+#### [Never mind tariffs and tantrums, ‘the dual equity pain trade’ means new highs for stocks](https://www.marketwatch.com/story/never-mind-tariffs-and-tantrums-the-dual-equity-pain-trade-means-new-highs-for-stocks-4836f000?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 11:46
+
+#### [Here’s where to find real stock-market bargains now. You just have to be willing to travel.](https://www.marketwatch.com/story/heres-where-to-find-real-stock-market-bargains-now-you-just-have-to-be-willing-to-travel-6ab501ca?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 11:40
+
+#### [Lululemon’s stock tumbles as tariffs eat away at profits, moves to boost sales aren’t working](https://www.marketwatch.com/story/lululemons-shares-sink-on-forecast-but-it-says-it-plans-to-play-offense-2c8a02ac?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 11:23
+
+#### [Trump Media seeks bitcoin ETF in latest move into crypto, with a company that could lead to conflicts of interest](https://www.marketwatch.com/story/trump-media-seeks-bitcoin-etf-in-latest-move-into-crypto-3f859bfb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 11:10
+
+#### [My husband and I bought my mother-in-law a condo. Upkeep costs $2,800 a month. She refuses to get a roommate.](https://www.marketwatch.com/story/my-husband-and-i-bought-my-mother-in-law-a-condo-upkeep-costs-2-800-a-month-she-refuses-to-get-a-roommate-0083f89a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 11:04
+
+#### [After a public breakup, Trump and Musk may reportedly be ready to cool their spat. Tesla shares are rebounding.](https://www.marketwatch.com/story/after-a-public-breakup-trump-musk-may-reportedly-be-ready-to-talk-tesla-shares-are-bouncing-396138b7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 10:51
+
+#### [My friend is getting divorced. Her husband offered to sign over their house. What’s he hiding?](https://www.marketwatch.com/story/my-friend-is-getting-divorced-her-husband-says-take-the-house-is-there-a-catch-ca7ababc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 10:50
+
+#### [U.S. Treasury tells Japan to take a hike — in rates](https://www.marketwatch.com/story/u-s-treasury-tells-japan-to-take-a-hike-in-rates-f6f50ee3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 10:43
+
+#### [‘I was pushed out of her life when she was 18’: My estranged daughter, 29, misuses drugs. Should I leave her my Roth IRA?](https://www.marketwatch.com/story/i-was-pushed-out-of-her-life-when-she-was-18-my-estranged-daughter-29-misuses-drugs-should-i-leave-her-my-roth-ira-cb98d2f2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 09:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Tesla stocks rise in premarket on hopes Trump-Musk spat will cool down](https://www.marketwatch.com/bulletins/redirect/go?g=89ebc0af-91d3-4fa3-8718-81cabea498f7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 11:00
+
+#### [Shorting the dollar became a consensus call, but don't ignore the upside risks](https://www.marketwatch.com/bulletins/redirect/go?g=06cae0c6-5016-4a3b-9f1c-286fa968061e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 10:25
+
+#### [U.S. stock futures rise ahead of jobs data and Tesla shares are rebounding](https://www.marketwatch.com/bulletins/redirect/go?g=462298ea-fd67-4300-b645-bbe00ff7b1d1&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 09:56
 
 ---
 
