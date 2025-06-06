@@ -2,7 +2,23 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-05 12:22
+**最后更新时间**: 2025-06-06 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-06 00:55)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Manus has kick-started an AI agent boom in China](https://www.technologyreview.com/2025/06/05/1117958/china-ai-agent-boom/)
+**发布时间**: 2025-06-05 18:45
+
+#### [The Download: funding a CRISPR embryo startup, and bad news for clean cement](https://www.technologyreview.com/2025/06/05/1117928/the-download-funding-a-crispr-embryo-startup-and-bad-news-for-clean-cement/)
+**发布时间**: 2025-06-05 12:10
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Zooming in: Efficient regional environmental risk assessment with generative AI](https://research.google/blog/zooming-in-efficient-regional-environmental-risk-assessment-with-generative-ai/)
+**发布时间**: 2025-06-05 17:00
 
 ---
 

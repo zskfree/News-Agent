@@ -2,7 +2,74 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-05 12:27
+**最后更新时间**: 2025-06-06 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-06 01:00)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump’s fixes for the economy pose these 5 threats to your money. Have a Plan B.](https://www.marketwatch.com/story/why-wall-street-and-main-street-should-be-rooting-for-trumps-tax-bill-to-fail-29d00faa?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 00:24
+
+#### [AI’s new promise is ‘trust me with your money.’ Here’s why you should be careful.](https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 00:20
+
+#### [Trump Media seeks bitcoin ETF in latest move into crypto, with a company it’s worked with before](https://www.marketwatch.com/story/trump-media-seeks-bitcoin-etf-in-latest-move-into-crypto-3f859bfb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 00:19
+
+#### [Winnebago says job cuts are coming. Why Trump’s tariffs can be blamed.](https://www.marketwatch.com/story/winnebago-says-job-cuts-are-coming-why-trumps-tariffs-can-be-blamed-c6fbc6a0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 00:14
+
+#### [Lululemon’s shares sink on forecast. One analyst says it’s ‘rolling over’ while competition increases.](https://www.marketwatch.com/story/lululemons-shares-sink-on-forecast-but-it-says-it-plans-to-play-offense-2c8a02ac?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 00:13
+
+#### [Broadcom’s stock cools off even as earnings show robust AI demand](https://www.marketwatch.com/story/broadcoms-stock-cools-off-even-as-earnings-show-robust-ai-demand-f11407f0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 00:13
+
+#### [P&G set to cut thousands of jobs. Here’s what that tells us about the health of consumer brands.](https://www.marketwatch.com/story/p-g-becomes-the-latest-consumer-giant-to-cut-jobs-with-7-000-employees-set-to-be-fired-1355f160?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 22:10
+
+#### [Options traders pile into bearish bets on Tesla at fastest pace on record as Musk-Trump feud escalates](https://www.marketwatch.com/story/options-traders-pile-into-bearish-bets-on-tesla-at-fastest-pace-on-record-as-musk-trump-feud-escalates-6eb2f864?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 21:31
+
+#### [Microsoft shares hit a record. Here’s how far other Big Tech stocks are from their highs.](https://www.marketwatch.com/story/microsoft-shares-hit-a-record-heres-how-far-other-big-tech-stocks-are-from-their-highs-ba3f55a8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 21:21
+
+#### [Jack Daniel’s parent sees weight-loss drugs, cannabis hurting liquor sales](https://www.marketwatch.com/story/jack-daniels-parent-sees-weight-loss-drugs-cannabis-hurting-liquor-sales-bce7beea?mod=mw_rss_topstories)
+**发布时间**: 2025-06-05 20:34
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Microsoft stock hits record. How far are other Big Tech stocks from their highs?](https://www.marketwatch.com/bulletins/redirect/go?g=b57af8d2-37ab-4212-9de6-9cdeeff210dc&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 23:29
+
+#### [Trump Media seeks bitcoin ETF in latest move into crypto](https://www.marketwatch.com/bulletins/redirect/go?g=840bff0c-2056-4604-a4cb-fd6c3c433455&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 22:48
+
+#### [Traders pile into bearish Tesla options at fastest pace ever amid Musk-Trump row](https://www.marketwatch.com/bulletins/redirect/go?g=f64bc094-60e2-44f7-a98a-e1e0825d4ae2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 22:02
+
+#### [Broadcom’s stock cools off even as earnings show robust AI demand](https://www.marketwatch.com/bulletins/redirect/go?g=da8326f0-f62a-4d56-b0db-a557f259ce7f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 21:34
+
+#### [The Trump-Musk bromance is blowing up in real time. How EVs played a role.](https://www.marketwatch.com/bulletins/redirect/go?g=35b22a97-1bab-456a-9267-ecb944f0f68b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 21:17
+
+#### [U.S. stocks end lower as Tesla plunge helps snap S&P, Nasdaq's 3-day winning run](https://www.marketwatch.com/bulletins/redirect/go?g=6e5bf7f0-3781-489d-ac0a-2dab852da308&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 20:04
+
+#### [Stocks face pressure as Tesla plunges, investors await job report — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=3f92e501-ad2e-4c69-80b0-48ee49f63858&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 19:03
+
+#### [Tesla’s stock is sinking as the rift between CEO Musk and President Trump widens](https://www.marketwatch.com/bulletins/redirect/go?g=791c45ab-df21-4d85-91a6-10d355680d0b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 18:18
+
+#### [Trump, Xi agree to more trade talks in call. Here’s what to watch for next.](https://www.marketwatch.com/bulletins/redirect/go?g=ed81f1f1-5519-4710-8fca-5a95cad2c78b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 16:59
+
+#### [Americans are using ‘psychic gifts’ to make financial decisions](https://www.marketwatch.com/bulletins/redirect/go?g=101a1528-65e6-4800-9451-b206a464f313&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-05 16:48
 
 ---
 

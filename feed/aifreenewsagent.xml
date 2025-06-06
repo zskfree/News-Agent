@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Jun 2025 12:27:18 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 00:55:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 01:00:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Manus has kick-started an AI agent boom in China</title>
+      <link>https://www.technologyreview.com/2025/06/05/1117958/china-ai-agent-boom/</link>
+      <description>&lt;![CDATA[Manus has kick-started an AI agent boom in China]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 18:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/05/1117958/china-ai-agent-boom/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: funding a CRISPR embryo startup, and bad news for clean cement</title>
+      <link>https://www.technologyreview.com/2025/06/05/1117928/the-download-funding-a-crispr-embryo-startup-and-bad-news-for-clean-cement/</link>
+      <description>&lt;![CDATA[The Download: funding a CRISPR embryo startup, and bad news for clean cement]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/05/1117928/the-download-funding-a-crispr-embryo-startup-and-bad-news-for-clean-cement/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Zooming in: Efficient regional environmental risk assessment with generative AI</title>
+      <link>https://research.google/blog/zooming-in-efficient-regional-environmental-risk-assessment-with-generative-ai/</link>
+      <description>&lt;![CDATA[Zooming in: Efficient regional environmental risk assessment with generative AI]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/zooming-in-efficient-regional-environmental-risk-assessment-with-generative-ai/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>刚刚，新一届ACM博士论文奖正式公布</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-05-10</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[Multimodal Foundation Model for Cross-Modal Retrieval and Activity Recognition Tasks]]&gt;</description>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.03174</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Deep Learning-Based Breast Cancer Detection in Mammography: A Multi-Center Validation Study in Thai Population</title>
-      <link>https://arxiv.org/abs/2506.03177</link>
-      <description>&lt;![CDATA[Deep Learning-Based Breast Cancer Detection in Mammography: A Multi-Center Validation Study in Thai Population]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03177</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLaMA-XR: A Novel Framework for Radiology Report Generation using LLaMA and QLoRA Fine Tuning</title>
-      <link>https://arxiv.org/abs/2506.03178</link>
-      <description>&lt;![CDATA[LLaMA-XR: A Novel Framework for Radiology Report Generation using LLaMA and QLoRA Fine Tuning]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03178</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Vid-SME: Membership Inference Attacks against Large Video Understanding Models</title>
-      <link>https://arxiv.org/abs/2506.03179</link>
-      <description>&lt;![CDATA[Vid-SME: Membership Inference Attacks against Large Video Understanding Models]]&gt;</description>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.03179</guid>
       <category>AI</category>
     </item>
   </channel>
