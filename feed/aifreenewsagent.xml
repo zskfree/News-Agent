@@ -5,14 +5,94 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Jun 2025 04:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Jun 2025 04:18:10 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 08:15:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MoE推理「王炸」组合：昇腾×盘古让推理性能狂飙6-8倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-06-5</link>
+      <description>&lt;![CDATA[MoE推理「王炸」组合：昇腾×盘古让推理性能狂飙6-8倍]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-06-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>免费约饭！美国CVPR 2025，相聚机器之心人才晚宴</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-06-4</link>
+      <description>&lt;![CDATA[免费约饭！美国CVPR 2025，相聚机器之心人才晚宴]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-06-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>深夜突袭！谷歌Gemini 2.5 Pro更新蝉联榜一：推理超越o3，编程超越opus4</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-06-3</link>
+      <description>&lt;![CDATA[深夜突袭！谷歌Gemini 2.5 Pro更新蝉联榜一：推理超越o3，编程超越opus4]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-06-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>错误率下降44.66%，给AI神经元装上三个突触，灵活的生物启发模块来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-06-2</link>
+      <description>&lt;![CDATA[错误率下降44.66%，给AI神经元装上三个突触，灵活的生物启发模块来了]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-06-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>「AI+生物学」如何保证安全？Evo2等DNA基础模型生成「致病生物」怎么办？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-06</link>
+      <description>&lt;![CDATA[「AI+生物学」如何保证安全？Evo2等DNA基础模型生成「致病生物」怎么办？]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-06</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>用大模型检测工业品异常，复旦腾讯优图新算法入选CVPR 2025</title>
+      <link>https://www.qbitai.com/2025/06/291359.html</link>
+      <description>&lt;![CDATA[用大模型检测工业品异常，复旦腾讯优图新算法入选CVPR 2025]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 07:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291359.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>碳足迹“安卓”系统TIDAS发布 蚂蚁数科提供自主可控技术支持</title>
+      <link>https://www.qbitai.com/2025/06/291355.html</link>
+      <description>&lt;![CDATA[碳足迹“安卓”系统TIDAS发布 蚂蚁数科提供自主可控技术支持]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 06:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291355.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Figure机器人分拣快递新视频曝光，网友：太像人类</title>
+      <link>https://www.qbitai.com/2025/06/291303.html</link>
+      <description>&lt;![CDATA[Figure机器人分拣快递新视频曝光，网友：太像人类]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 06:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291303.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>终于！全球爆火AI视频神器PixVerse发布国内版——拍我AI</title>
+      <link>https://www.qbitai.com/2025/06/291297.html</link>
+      <description>&lt;![CDATA[终于！全球爆火AI视频神器PixVerse发布国内版——拍我AI]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 05:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291297.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Gemini新版蝉联竞技场榜一，但刚发布就被越狱了</title>
+      <link>https://www.qbitai.com/2025/06/291250.html</link>
+      <description>&lt;![CDATA[Gemini新版蝉联竞技场榜一，但刚发布就被越狱了]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 04:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291250.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>Zero-Shot Adaptation of Parameter-Efficient Fine-Tuning in Diffusion Models</title>
       <link>https://arxiv.org/abs/2506.04244</link>
@@ -331,86 +411,6 @@
       <description>&lt;![CDATA[Benchmark for Antibody Binding Affinity Maturation and Design]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.04235</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Spore in the Wild: Case Study on Spore.fun, a Real-World Experiment of Sovereign Agent Open-ended Evolution on Blockchain with TEEs</title>
-      <link>https://arxiv.org/abs/2506.04236</link>
-      <description>&lt;![CDATA[Spore in the Wild: Case Study on Spore.fun, a Real-World Experiment of Sovereign Agent Open-ended Evolution on Blockchain with TEEs]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04236</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Comprehensive Survey on the Risks and Limitations of Concept-based Models</title>
-      <link>https://arxiv.org/abs/2506.04237</link>
-      <description>&lt;![CDATA[A Comprehensive Survey on the Risks and Limitations of Concept-based Models]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04237</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Triple Attention Transformer Architecture for Time-Dependent Concrete Creep Prediction</title>
-      <link>https://arxiv.org/abs/2506.04243</link>
-      <description>&lt;![CDATA[Triple Attention Transformer Architecture for Time-Dependent Concrete Creep Prediction]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04243</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The GAIN Model: A Nature-Inspired Neural Network Framework Based on an Adaptation of the Izhikevich Model</title>
-      <link>https://arxiv.org/abs/2506.04247</link>
-      <description>&lt;![CDATA[The GAIN Model: A Nature-Inspired Neural Network Framework Based on an Adaptation of the Izhikevich Model]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04247</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Localized Forest Fire Risk Prediction: A Department-Aware Approach for Operational Decision Support</title>
-      <link>https://arxiv.org/abs/2506.04254</link>
-      <description>&lt;![CDATA[Localized Forest Fire Risk Prediction: A Department-Aware Approach for Operational Decision Support]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04254</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CORA: Coalitional Rational Advantage Decomposition for Multi-Agent Policy Gradients</title>
-      <link>https://arxiv.org/abs/2506.04265</link>
-      <description>&lt;![CDATA[CORA: Coalitional Rational Advantage Decomposition for Multi-Agent Policy Gradients]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04265</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MUC-G4: Minimal Unsat Core-Guided Incremental Verification for Deep Neural Network Compression</title>
-      <link>https://arxiv.org/abs/2506.04268</link>
-      <description>&lt;![CDATA[MUC-G4: Minimal Unsat Core-Guided Incremental Verification for Deep Neural Network Compression]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04268</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Autonomous Collaborative Scheduling of Time-dependent UAVs, Workers and Vehicles for Crowdsensing in Disaster Response</title>
-      <link>https://arxiv.org/abs/2506.04276</link>
-      <description>&lt;![CDATA[Autonomous Collaborative Scheduling of Time-dependent UAVs, Workers and Vehicles for Crowdsensing in Disaster Response]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04276</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought</title>
-      <link>https://arxiv.org/abs/2506.04277</link>
-      <description>&lt;![CDATA[RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04277</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark</title>
-      <link>https://arxiv.org/abs/2506.04280</link>
-      <description>&lt;![CDATA[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04280</guid>
       <category>AI</category>
     </item>
   </channel>

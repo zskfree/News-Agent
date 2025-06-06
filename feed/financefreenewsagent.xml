@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Jun 2025 04:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Jun 2025 04:18:10 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 08:15:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,9 +14,17 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI is ready to take over your wallet. Why you’ll need to future-proof your money.</title>
+      <title>After a public breakup,  Trump/Musk may reportedly be ready to talk. Tesla shares are bouncing.</title>
+      <link>https://www.marketwatch.com/story/after-a-public-breakup-trump-musk-may-reportedly-be-ready-to-talk-tesla-shares-are-bouncing-396138b7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[After a public breakup,  Trump/Musk may reportedly be ready to talk. Tesla shares are bouncing.]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/after-a-public-breakup-trump-musk-may-reportedly-be-ready-to-talk-tesla-shares-are-bouncing-396138b7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AI is out to control your wallet. Why you’ll need to future-proof your money.</title>
       <link>https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[AI is ready to take over your wallet. Why you’ll need to future-proof your money.]]&gt;</description>
+      <description>&lt;![CDATA[AI is out to control your wallet. Why you’ll need to future-proof your money.]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 02:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Here’s some good news for beleaguered bond traders]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 22:50:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/heres-some-good-news-for-beleaguered-bond-traders-e694746a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s how much higher gold prices can still go — even after doubling the past two years</title>
-      <link>https://www.marketwatch.com/story/gold-prices-doubled-in-just-two-years-to-new-highs-why-it-could-keep-going-to-7-000-5daa03ba?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Here’s how much higher gold prices can still go — even after doubling the past two years]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 21:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/gold-prices-doubled-in-just-two-years-to-new-highs-why-it-could-keep-going-to-7-000-5daa03ba?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
