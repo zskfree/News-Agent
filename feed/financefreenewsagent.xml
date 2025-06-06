@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Jun 2025 01:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Jun 2025 01:00:01 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 04:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 04:18:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI is ready to take over your wallet. Why you’ll need to future-proof your money.</title>
+      <link>https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AI is ready to take over your wallet. Why you’ll need to future-proof your money.]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 02:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dollar Tree has more than just wealthier customers to handle tariffs, analysts say</title>
+      <link>https://www.marketwatch.com/story/dollar-tree-has-more-than-just-wealthier-customers-to-handle-tariffs-analysts-say-c3bd81d1?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Dollar Tree has more than just wealthier customers to handle tariffs, analysts say]]&gt;</description>
+      <pubDate>Fri, 06 Jun 2025 01:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/dollar-tree-has-more-than-just-wealthier-customers-to-handle-tariffs-analysts-say-c3bd81d1?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
       <title>Trump’s fixes for the economy pose these 5 threats to your money. Have a Plan B.</title>
       <link>https://www.marketwatch.com/story/why-wall-street-and-main-street-should-be-rooting-for-trumps-tax-bill-to-fail-29d00faa?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[Trump’s fixes for the economy pose these 5 threats to your money. Have a Plan B.]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:24:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/why-wall-street-and-main-street-should-be-rooting-for-trumps-tax-bill-to-fail-29d00faa?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>AI’s new promise is ‘trust me with your money.’ Here’s why you should be careful.</title>
-      <link>https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[AI’s new promise is ‘trust me with your money.’ Here’s why you should be careful.]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Here’s how much higher gold prices can still go — even after doubling the past two years]]&gt;</description>
       <pubDate>Mon, 02 Jun 2025 21:56:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/gold-prices-doubled-in-just-two-years-to-new-highs-why-it-could-keep-going-to-7-000-5daa03ba?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>We used AI for retirement planning advice and were surprised by what we found</title>
-      <link>https://www.marketwatch.com/story/we-used-ai-for-retirement-planning-advice-and-were-surprised-by-what-we-found-dc64e936?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[We used AI for retirement planning advice and were surprised by what we found]]&gt;</description>
-      <pubDate>Mon, 02 Jun 2025 21:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/we-used-ai-for-retirement-planning-advice-and-were-surprised-by-what-we-found-dc64e936?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
