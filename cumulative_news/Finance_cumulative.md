@@ -2,7 +2,65 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-06 12:21
+**最后更新时间**: 2025-06-07 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-07 00:55)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The S&P 500 isn’t changing for now. Did this company get snubbed?](https://www.marketwatch.com/bulletins/redirect/go?g=f5766eee-5f23-4234-b759-22733e6c8eb5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 23:48
+
+#### [Supreme Court lets DOGE access Social Security data, days after Musk left role](https://www.marketwatch.com/bulletins/redirect/go?g=8da9fc47-07ae-470d-a259-f5a213989e98&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 22:35
+
+#### [This ‘Bro Billionaire’ group of stocks is trouncing small caps under Trump](https://www.marketwatch.com/bulletins/redirect/go?g=804f5b25-80cf-49af-b856-513017c73388&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 21:45
+
+#### [Dow erases 2025 losses, S&P 500 reclaims 6,000 as stocks bounce on jobs report](https://www.marketwatch.com/bulletins/redirect/go?g=4e0c29fc-28cd-48c3-8aeb-c2055dfbdfa5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 20:02
+
+#### [Why an S&P 500 close over 6,000 is a big psychological threshold for investors](https://www.marketwatch.com/bulletins/redirect/go?g=bce4c9b0-a9d1-4510-b2f4-bd1cd7edb88c&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 19:38
+
+#### [Stocks up sharply after jobs report, as S&P reclaims 6,000 mark — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=6533faef-b28b-4a3a-b29f-cac91672bb50&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 19:03
+
+#### [What’s behind Trump’s call for ‘a full point’ interest-rate cut?](https://www.marketwatch.com/bulletins/redirect/go?g=ae9ec8eb-294c-40c8-a541-5838e9b548bc&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 18:05
+
+#### [What’s at stake for Elon Musk in his Trump feud](https://www.marketwatch.com/bulletins/redirect/go?g=327ea0dc-b141-45a9-b710-7daa2e4b6529&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 16:38
+
+#### [This investment turned $50,000 into $23 million in 10 years. It’s still a buy.](https://www.marketwatch.com/bulletins/redirect/go?g=ddd5ddf3-4042-4fa6-8f46-db2e32ec3470&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 15:18
+
+#### [S&P 500 touches 6,000 mark for first time since February — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=fd2c9e56-54c1-4d79-b226-d167c12439e8&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-06 13:39
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500 isn’t changing for now. Did this company get snubbed?](https://www.marketwatch.com/story/the-s-p-500-isnt-changing-for-now-did-this-company-get-snubbed-b727d2ad?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 23:46
+
+#### [Supreme Court grants DOGE access to Social Security data, days after Musk stepped down](https://www.marketwatch.com/story/supreme-court-grants-doge-access-to-social-security-data-days-after-musk-stepped-down-3e097b61?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 22:30
+
+#### [Trump’s fixes for the economy pose these 5 threats to your money — ‘DOGE’ is just one of them](https://www.marketwatch.com/story/why-wall-street-and-main-street-should-be-rooting-for-trumps-tax-bill-to-fail-29d00faa?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 21:58
+
+#### [‘I prepaid our mom’s rent for a year’: My sister is a millionaire and never helps our mother. How do I cut her out of her will?](https://www.marketwatch.com/story/i-prepaid-our-moms-rent-for-a-year-my-sister-is-wealthy-and-never-helps-out-how-can-i-cut-her-out-of-our-mothers-will-5e91310e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 21:30
+
+#### [I bought my mother-in-law a condo — and she took out a $30,000 car loan. Now she refuses to get a roommate.](https://www.marketwatch.com/story/my-husband-and-i-bought-my-mother-in-law-a-condo-upkeep-costs-2-800-a-month-she-refuses-to-get-a-roommate-0083f89a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 21:15
+
+#### [Drones are a security concern for Americans — but this could be an even bigger threat](https://www.marketwatch.com/story/drones-are-a-security-concern-for-americans-but-this-could-be-an-even-bigger-threat-0f7da2b2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 21:06
+
+#### [The S&P 500 closes at 6,000 as bulls aim for return to record territory](https://www.marketwatch.com/story/why-an-s-p-500-close-above-6-000-would-be-an-important-psychological-threshold-for-investors-74c96abf?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 20:50
 
 ---
 

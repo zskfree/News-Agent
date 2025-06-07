@@ -2,7 +2,33 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-06 12:21
+**最后更新时间**: 2025-06-07 00:54
+
+---
+
+## 🆕 最新更新 (2025-06-07 00:54)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [OceanBase发布AI生态进展：首批接入60余家AI生态伙伴，支持MCP协议](https://www.jiqizhixin.com/articles/2025-06-06-11)
+**发布时间**: 2025-06-06 20:36
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [金融大模型升级决策平台!马上消费发布天镜3.0破解经验碎片化难题](https://www.qbitai.com/2025/06/291715.html)
+**发布时间**: 2025-06-06 14:45
+
+#### [4位图灵奖得主布道，2大冠军机器人登台，“AI春晚”果然又高又硬](https://www.qbitai.com/2025/06/291588.html)
+**发布时间**: 2025-06-06 13:55
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: China’s AI agent boom, and GPS alternatives](https://www.technologyreview.com/2025/06/06/1118044/the-download-chinas-ai-agent-boom-and-gps-alternatives/)
+**发布时间**: 2025-06-06 12:10
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Optimizing LLM-based trip planning](https://research.google/blog/optimizing-llm-based-trip-planning/)
+**发布时间**: 2025-06-06 10:23
 
 ---
 

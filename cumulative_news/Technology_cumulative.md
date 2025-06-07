@@ -2,7 +2,103 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-06 12:21
+**最后更新时间**: 2025-06-07 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-07 00:55)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [王自如解释投身 AI：确实来钱快；雷军：给1万车主免费培训智驾；身家缩水股价暴跌，马斯克向美总统低头｜极客早知道](http://www.geekpark.net/news/350148)
+**发布时间**: 2025-06-07 08:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌发布LLM评测工具LMEval](https://www.infoq.cn/article/j28lozxmymI38Xbkysmv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-07 08:00
+
+#### [AI 全面渗透研发流程，我们该如何看待工程师的价值 ｜InfoQ《极客有约》](https://www.infoq.cn/video/miDLBhDV2w4zUx8Fbmtt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-06 20:20
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)
+**发布时间**: 2025-06-07 00:38
+
+#### [Nintendo Switch 2 webcam compatibility: it’s a wild west](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)
+**发布时间**: 2025-06-07 00:05
+
+#### [The best games we saw during the Day of the Devs showcase](https://www.theverge.com/games/680659/day-of-the-devs-2025-summer-game-fest)
+**发布时间**: 2025-06-07 00:04
+
+#### [Resident Evil Requiem is coming next year](https://www.theverge.com/news/681325/resident-evil-requiem-trailer-date)
+**发布时间**: 2025-06-06 23:09
+
+#### [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+**发布时间**: 2025-06-06 22:54
+
+#### [Wu-Tang Clan’s new video game project is ‘for the culture’](https://www.theverge.com/games/681702/wu-tang-clan-rise-of-the-deciever-summer-game-fest)
+**发布时间**: 2025-06-06 22:46
+
+#### [Shovel Knight’s creators are launching a new game this fall](https://www.theverge.com/news/679113/yacht-club-games-shovel-knight-mina-the-hollower-release-date-trailer-demo)
+**发布时间**: 2025-06-06 22:06
+
+#### [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
+**发布时间**: 2025-06-06 21:56
+
+#### [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
+**发布时间**: 2025-06-06 21:54
+
+#### [Killer Inn is Square Enix’s new ‘murder mystery action’ game](https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer)
+**发布时间**: 2025-06-06 21:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华晨宝马高层换帅：宝思齐将出任总裁兼首席执行官](https://www.tmtpost.com/7589494.html)
+**发布时间**: 2025-06-06 23:51
+
+#### [一季度成绩单出炉：新势力们谁是真“赚钱高手”｜钛度车库](https://www.tmtpost.com/7587484.html)
+**发布时间**: 2025-06-06 23:25
+
+#### [破局者岚图：在内卷中开辟高质发展新航道](https://www.tmtpost.com/7589362.html)
+**发布时间**: 2025-06-06 21:21
+
+#### [超6.4亿次下载！智源发布具身大脑等五大新技术，王仲远：具身智能的淘汰赛还没开始](https://www.tmtpost.com/7585849.html)
+**发布时间**: 2025-06-06 21:07
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [长安“单飞”，不再等风](http://www.huxiu.com/article/4434382.html?f=wangzhan)
+**发布时间**: 2025-06-06 21:55
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [iFixit Says Switch 2 Is Probably Still Drift Prone](https://www.wired.com/story/ifixit-says-switch-2-is-probably-still-drift-prone/)
+**发布时间**: 2025-06-06 20:48
+
+#### [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://www.wired.com/story/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight/)
+**发布时间**: 2025-06-06 19:05
+
+#### [Elon Musk’s Fight With Trump Threatens $48 Billion in Government Contracts](https://www.wired.com/story/elon-musk-federal-contracts-government/)
+**发布时间**: 2025-06-06 18:55
+
+#### [‘100% Stupid’: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)
+**发布时间**: 2025-06-06 18:51
+
+#### [DOGE Is on a Recruiting Spree](https://www.wired.com/story/doge-recruiting-spree-elon-musk/)
+**发布时间**: 2025-06-06 16:11
+
+#### [The Best Car Vacuums (2025), Tested and Reviewed](https://www.wired.com/gallery/best-car-vacuum/)
+**发布时间**: 2025-06-06 15:04
+
+#### [Conspiracy World Thinks the Musk-Trump Breakup Is a 'Psyop'](https://www.wired.com/story/conspiracy-world-qanon-musk-trump-breakup-fake-psyop/)
+**发布时间**: 2025-06-06 14:22
+
+#### [Barry Diller Invented Prestige TV. Then He Conquered the Internet](https://www.wired.com/story/plaintext-barry-diller-interview-fox/)
+**发布时间**: 2025-06-06 14:00
+
+#### [Whoop MG Review: A Screenless Tracker With Cardiac Measurements](https://www.wired.com/review/whoop-mg/)
+**发布时间**: 2025-06-06 14:00
 
 ---
 
