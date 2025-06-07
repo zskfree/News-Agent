@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Jun 2025 00:54:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Jun 2025 04:14:55 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Jun 2025 08:13:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Jun 2025 08:13:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>效果媲美GPT-4o，一键搞定各类视觉生成任务丨港科广字节全新框架</title>
+      <link>https://www.qbitai.com/2025/06/291799.html</link>
+      <description>&lt;![CDATA[效果媲美GPT-4o，一键搞定各类视觉生成任务丨港科广字节全新框架]]&gt;</description>
+      <pubDate>Sat, 07 Jun 2025 05:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291799.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克祸不单行！擎天柱负责人突然离职，特斯拉蒸发万亿市值</title>
+      <link>https://www.qbitai.com/2025/06/291782.html</link>
+      <description>&lt;![CDATA[马斯克祸不单行！擎天柱负责人突然离职，特斯拉蒸发万亿市值]]&gt;</description>
+      <pubDate>Sat, 07 Jun 2025 05:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291782.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>多模态模型挑战北京杭州地铁图！o3成绩显著，但跟人类有差距</title>
+      <link>https://www.qbitai.com/2025/06/291762.html</link>
+      <description>&lt;![CDATA[多模态模型挑战北京杭州地铁图！o3成绩显著，但跟人类有差距]]&gt;</description>
+      <pubDate>Sat, 07 Jun 2025 05:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291762.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>图灵奖得主Bengio：AI为了“活下去”，对人类指令阳奉阴违</title>
+      <link>https://www.qbitai.com/2025/06/291742.html</link>
+      <description>&lt;![CDATA[图灵奖得主Bengio：AI为了“活下去”，对人类指令阳奉阴违]]&gt;</description>
+      <pubDate>Sat, 07 Jun 2025 05:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291742.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>OceanBase发布AI生态进展：首批接入60余家AI生态伙伴，支持MCP协议</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-06-11</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[CHANCERY: Evaluating corporate governance reasoning capabilities in language models]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.04636</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Agents of Change: Self-Evolving LLM Agents for Strategic Planning</title>
-      <link>https://arxiv.org/abs/2506.04651</link>
-      <description>&lt;![CDATA[Agents of Change: Self-Evolving LLM Agents for Strategic Planning]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04651</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction</title>
-      <link>https://arxiv.org/abs/2506.04654</link>
-      <description>&lt;![CDATA[E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04654</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling</title>
-      <link>https://arxiv.org/abs/2506.04699</link>
-      <description>&lt;![CDATA[Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04699</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.04723</link>
-      <description>&lt;![CDATA[Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04723</guid>
       <category>AI</category>
     </item>
   </channel>

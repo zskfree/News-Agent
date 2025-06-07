@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-07 00:55
+**最后更新时间**: 2025-06-07 08:13
+
+---
+
+## 🆕 最新更新 (2025-06-07 08:13)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump’s plans for the economy pose these 5 threats to your money — DOGE is just one of them](https://www.marketwatch.com/story/why-wall-street-and-main-street-should-be-rooting-for-trumps-tax-bill-to-fail-29d00faa?mod=mw_rss_topstories)
+**发布时间**: 2025-06-06 21:58
 
 ---
 
