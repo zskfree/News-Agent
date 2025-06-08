@@ -2,7 +2,46 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-08 08:18
+**最后更新时间**: 2025-06-08 12:19
+
+---
+
+## 🆕 最新更新 (2025-06-08 12:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百度发布金融行业大模型，沈抖：产业从提示词优化走向智能体构建](https://www.tmtpost.com/7590004.html)
+**发布时间**: 2025-06-08 19:12
+
+#### [外卖补贴大战收到“抗议书”，为什么电商平台要用茶和咖啡打头阵](https://www.tmtpost.com/7589926.html)
+**发布时间**: 2025-06-08 19:10
+
+#### [时隔三年高调重返储能，这家1700亿“小华为”在下一盘什么棋？](https://www.tmtpost.com/7589992.html)
+**发布时间**: 2025-06-08 16:30
+
+#### [【科股宝VIP周刊】苏超开启热辣夏天，55载航天奋斗史商业航天抒写长诗逾万行](https://www.tmtpost.com/7590003.html)
+**发布时间**: 2025-06-08 16:26
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The OnePlus Pad 3 tablet is still perfect for play and still awkward for work](https://www.theverge.com/tech/681301/oneplus-pad-3-review)
+**发布时间**: 2025-06-08 12:00
+
+#### [The most fun camera app I’ve used in forever](https://www.theverge.com/installer-newsletter/681745/camera-app-iphone-mario-kart-switch-2-installer)
+**发布时间**: 2025-06-08 12:00
+
+#### [Xbox console games are suddenly showing up inside the Xbox PC app](https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360)
+**发布时间**: 2025-06-08 09:08
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Best Read-It-Later Apps for Curating Your Longreads](https://www.wired.com/story/the-best-read-it-later-apps-for-curating-your-longreads/)
+**发布时间**: 2025-06-08 12:00
+
+#### [A New Law of Nature Attempts to Explain the Complexity of the Universe](https://www.wired.com/story/why-everything-in-the-universe-turns-more-complex/)
+**发布时间**: 2025-06-08 11:00
+
+#### [Dell 14 Plus Review: A Fresh Start or Same Old?](https://www.wired.com/review/dell-14-plus/)
+**发布时间**: 2025-06-08 10:00
 
 ---
 

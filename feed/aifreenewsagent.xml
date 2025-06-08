@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Jun 2025 08:18:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 08:18:49 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Jun 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Jun 2025 12:19:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>大模型强化学习新突破——SPO新范式助力大模型推理能力提升！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-08-6</link>
+      <description>&lt;![CDATA[大模型强化学习新突破——SPO新范式助力大模型推理能力提升！]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-08-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 全局池化+局部保留，CCA-Attention为LLM长文本建模带来突破性进展</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-08-5</link>
+      <description>&lt;![CDATA[ICML 2025 | 全局池化+局部保留，CCA-Attention为LLM长文本建模带来突破性进展]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-08-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>8个数据集全面胜出！思维链推理刷新图学习表现上限</title>
+      <link>https://www.qbitai.com/2025/06/291861.html</link>
+      <description>&lt;![CDATA[8个数据集全面胜出！思维链推理刷新图学习表现上限]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291861.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>数学宇宙二维破壁成功！四人组230页证明阿贝尔曲面镜像通道，大一统要实现了？</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-08-4</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[Automated Skill Discovery for Language Agents through Exploration and Iterative Feedback]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.04287</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Statistical Physics of Language Model Reasoning</title>
-      <link>https://arxiv.org/abs/2506.04374</link>
-      <description>&lt;![CDATA[A Statistical Physics of Language Model Reasoning]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04374</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Matter-of-Fact: A Benchmark for Verifying the Feasibility of Literature-Supported Claims in Materials Science</title>
-      <link>https://arxiv.org/abs/2506.04410</link>
-      <description>&lt;![CDATA[Matter-of-Fact: A Benchmark for Verifying the Feasibility of Literature-Supported Claims in Materials Science]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04410</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Plugging Schema Graph into Multi-Table QA: A Human-Guided Framework for Reducing LLM Reliance</title>
-      <link>https://arxiv.org/abs/2506.04427</link>
-      <description>&lt;![CDATA[Plugging Schema Graph into Multi-Table QA: A Human-Guided Framework for Reducing LLM Reliance]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04427</guid>
       <category>AI</category>
     </item>
   </channel>
