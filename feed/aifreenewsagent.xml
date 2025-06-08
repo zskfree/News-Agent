@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Jun 2025 04:23:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 04:23:24 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Jun 2025 08:18:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Jun 2025 08:18:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>数学宇宙二维破壁成功！四人组230页证明阿贝尔曲面镜像通道，大一统要实现了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-08-4</link>
+      <description>&lt;![CDATA[数学宇宙二维破壁成功！四人组230页证明阿贝尔曲面镜像通道，大一统要实现了？]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-08-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>为什么用错奖励，模型也能提分？新研究：模型学的不是新知识，是思维</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-08-3</link>
+      <description>&lt;![CDATA[为什么用错奖励，模型也能提分？新研究：模型学的不是新知识，是思维]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-08-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>告别「失忆」AI！首个大模型记忆操作系统开源框架来了！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-08-2</link>
+      <description>&lt;![CDATA[告别「失忆」AI！首个大模型记忆操作系统开源框架来了！]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 14:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-08-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>6大模型决战高考数学新一卷：豆包、元宝并列第一，OpenAI o3竟惨败垫底</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-08</link>
+      <description>&lt;![CDATA[6大模型决战高考数学新一卷：豆包、元宝并列第一，OpenAI o3竟惨败垫底]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-08</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>腾讯顶尖学生招募启动！高中生可直接参与大模型/具身智能前沿研究</title>
       <link>https://www.qbitai.com/2025/06/291832.html</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[Plugging Schema Graph into Multi-Table QA: A Human-Guided Framework for Reducing LLM Reliance]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.04427</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An AI-Based Public Health Data Monitoring System</title>
-      <link>https://arxiv.org/abs/2506.04429</link>
-      <description>&lt;![CDATA[An AI-Based Public Health Data Monitoring System]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04429</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences</title>
-      <link>https://arxiv.org/abs/2506.04478</link>
-      <description>&lt;![CDATA[Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04478</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CogMath: Assessing LLMs' Authentic Mathematical Ability from a Human Cognitive Perspective</title>
-      <link>https://arxiv.org/abs/2506.04481</link>
-      <description>&lt;![CDATA[CogMath: Assessing LLMs' Authentic Mathematical Ability from a Human Cognitive Perspective]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04481</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>&quot;Don't Do That!&quot;: Guiding Embodied Systems through Large Language Model-based Constraint Generation</title>
-      <link>https://arxiv.org/abs/2506.04500</link>
-      <description>&lt;![CDATA[&quot;Don't Do That!&quot;: Guiding Embodied Systems through Large Language Model-based Constraint Generation]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04500</guid>
       <category>AI</category>
     </item>
   </channel>
