@@ -2,7 +2,47 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-07 12:19
+**最后更新时间**: 2025-06-08 01:06
+
+---
+
+## 🆕 最新更新 (2025-06-08 01:06)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security’s new commissioner, rule reversals and cost cuts: Here’s everything that’s happening at the agency](https://www.marketwatch.com/story/social-security-under-pressure-heres-whats-happening-now-f0c4b44a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-07 21:19
+
+#### [Tony Awards: Here’s how one woman saw every Broadway show this season — for less than $50 a ticket on average](https://www.marketwatch.com/story/this-theater-lover-saw-every-broadway-show-this-season-and-you-wont-believe-how-cheap-it-was-0b5495ec?mod=mw_rss_topstories)
+**发布时间**: 2025-06-07 19:21
+
+#### [I have $1,000 in credit-card debt. Will I be able to hide my inheritance from the bank?](https://www.marketwatch.com/story/i-have-a-1-000-bad-debt-can-my-credit-card-company-find-out-about-my-inheritance-2b35ebaf?mod=mw_rss_topstories)
+**发布时间**: 2025-06-07 16:32
+
+#### [Circle’s buzzy IPO was a big hit. Now comes the hard part.](https://www.marketwatch.com/story/circles-buzzy-ipo-was-a-big-hit-now-comes-the-hard-part-f1d00841?mod=mw_rss_topstories)
+**发布时间**: 2025-06-07 16:03
+
+#### [Forget Trump — is it time to invest in the real taco trade? Here’s how Taco Bell, Chipotle are doing.](https://www.marketwatch.com/story/is-it-time-to-invest-in-the-real-taco-trade-mexican-restaurants-now-outsell-pizza-places-47ac301c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-07 15:40
+
+#### [For women who plan to divorce, now’s the time to get a grip on family finances](https://www.marketwatch.com/story/for-women-who-plan-to-divorce-nows-the-time-to-get-a-grip-on-family-finances-fd15d058?mod=mw_rss_topstories)
+**发布时间**: 2025-06-07 15:37
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Republicans want to curb federal student loans. Private lenders are ready.](https://www.marketwatch.com/bulletins/redirect/go?g=568d106e-0b57-4aa3-afc9-9fe029350214&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-07 20:28
+
+#### [Circle’s buzzy IPO was a big hit. Now comes the hard part.](https://www.marketwatch.com/bulletins/redirect/go?g=5de74edb-d7c1-4933-9e76-b119d3543ed3&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-07 19:00
+
+#### [Apple’s WWDC is a chance to change investors’ minds. Can the company deliver?](https://www.marketwatch.com/bulletins/redirect/go?g=cae31967-d011-4285-8ab8-1cd424b02c9b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-07 17:14
+
+#### [Apple’s WWDC is a chance to change investors’ minds. Can the company deliver?](https://www.marketwatch.com/bulletins/redirect/go?g=d15dd76a-a547-4078-9473-43df1f47fb92&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-07 16:50
+
+#### [A professor testing ChatGPT’s stock-picking skills suggests brokers should worry](https://www.marketwatch.com/bulletins/redirect/go?g=74785de7-4519-4589-8b38-5b570d8db702&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-07 15:31
 
 ---
 

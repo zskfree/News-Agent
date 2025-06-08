@@ -2,7 +2,86 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-07 12:19
+**最后更新时间**: 2025-06-08 01:06
+
+---
+
+## 🆕 最新更新 (2025-06-08 01:06)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [抖音整治高考「AI 押题」视频；小米 SU7 Ultra 登陆《GT 赛车 7》；全球首个，满级 QQ 收获「金企鹅」](http://www.geekpark.net/news/350154)
+**发布时间**: 2025-06-08 08:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure AI Search推出智能会话AI的代理式检索](https://www.infoq.cn/article/gede83jNiZ7Qi59GkD0G?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-08 08:00
+
+#### [如何培养成为首席工程师的技能](https://www.infoq.cn/article/3DmjhPcG2KgAowupxIh9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-08 08:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74](https://www.wired.com/story/bill-atkinson-apple-engineer-dies/)
+**发布时间**: 2025-06-07 22:52
+
+#### [24 Best Deals on Father's Day Gifts (2025)](https://www.wired.com/story/fathers-day-deals-2025/)
+**发布时间**: 2025-06-07 22:03
+
+#### [Best Backpacking Tents (2025), WIRED-Tested and Reviewed](https://www.wired.com/gallery/the-best-backpacking-tents/)
+**发布时间**: 2025-06-07 14:32
+
+#### [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
+**发布时间**: 2025-06-07 13:00
+
+#### [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
+**发布时间**: 2025-06-07 12:38
+
+#### [iFixit Says Switch 2 Is Harder to Repair, Probably Still Drift Prone](https://www.wired.com/story/ifixit-says-switch-2-is-probably-still-drift-prone/)
+**发布时间**: 2025-06-06 20:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [湖北85后带“小巨人”冲刺港股IPO，乐动机器人3年累亏近2亿](https://www.tmtpost.com/7589451.html)
+**发布时间**: 2025-06-07 20:23
+
+#### [品牌老去，市场年轻：蛇吞象的商业密码](https://www.tmtpost.com/7589604.html)
+**发布时间**: 2025-06-07 20:23
+
+#### [华熙VS巨子的生物战，已经打到了「滴血验胶原」](https://www.tmtpost.com/7589796.html)
+**发布时间**: 2025-06-07 20:22
+
+#### [战略不落地？问题在系统](https://www.tmtpost.com/7589603.html)
+**发布时间**: 2025-06-07 20:19
+
+#### [主流大模型再战高考作文：“幻觉”问题戏剧性拉满！百度、腾讯考生竟是一家人？](https://www.tmtpost.com/7589741.html)
+**发布时间**: 2025-06-07 20:19
+
+#### [大众口腔二闯港交所：营收净利双降，原始投资方清仓离场](https://www.tmtpost.com/7589754.html)
+**发布时间**: 2025-06-07 20:19
+
+#### [从外卖到酒旅，京东要造就下一个携程？](https://www.tmtpost.com/7589768.html)
+**发布时间**: 2025-06-07 20:19
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [At the Bitcoin Conference, the Republicans were for sale](https://www.theverge.com/cryptocurrency/679685/bitcoin-conference-gop-takeover)
+**发布时间**: 2025-06-07 18:19
+
+#### [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)
+**发布时间**: 2025-06-07 17:00
+
+#### [The soul of The Last of Us is in Gustavo Santaolalla&#8217;s music](https://www.theverge.com/interview/681172/gustavo-santaolalla-interview-the-last-of-us-music)
+**发布时间**: 2025-06-07 15:00
+
+#### [Apple’s latest AirPods Pro with USB-C just received a $70 discount](https://www.theverge.com/tech/681365/apple-airpods-2-usb-c-meta-quest-3s-deal-sale)
+**发布时间**: 2025-06-07 14:10
+
+#### [A ban on state AI laws could smash Big Tech&#8217;s legal guardrails](https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation)
+**发布时间**: 2025-06-07 14:00
+
+#### [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)
+**发布时间**: 2025-06-07 13:00
 
 ---
 
