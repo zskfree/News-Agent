@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Jun 2025 01:00:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 01:06:20 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Jun 2025 04:23:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Jun 2025 04:23:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>腾讯顶尖学生招募启动！高中生可直接参与大模型/具身智能前沿研究</title>
+      <link>https://www.qbitai.com/2025/06/291832.html</link>
+      <description>&lt;![CDATA[腾讯顶尖学生招募启动！高中生可直接参与大模型/具身智能前沿研究]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 03:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291832.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃</title>
+      <link>https://www.qbitai.com/2025/06/291812.html</link>
+      <description>&lt;![CDATA[苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃]]&gt;</description>
+      <pubDate>Sun, 08 Jun 2025 03:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291812.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>全球圈粉6000万，被国内粉丝催着上线，PixVerse「国内版」一手实测来了！</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-07-4</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[&quot;Don't Do That!&quot;: Guiding Embodied Systems through Large Language Model-based Constraint Generation]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.04500</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Schema Generation for Large Knowledge Graphs Using Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.04512</link>
-      <description>&lt;![CDATA[Schema Generation for Large Knowledge Graphs Using Large Language Models]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04512</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAg: Democratizing Agricultural Intelligence</title>
-      <link>https://arxiv.org/abs/2506.04571</link>
-      <description>&lt;![CDATA[OpenAg: Democratizing Agricultural Intelligence]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04571</guid>
       <category>AI</category>
     </item>
   </channel>
