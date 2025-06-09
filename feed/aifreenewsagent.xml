@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Jun 2025 04:23:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Jun 2025 04:23:55 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 08:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 08:17:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>无需SFT也不用RL，样本级推理优化神器SLOT来了，准确率轻松+10%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-10</link>
+      <description>&lt;![CDATA[无需SFT也不用RL，样本级推理优化神器SLOT来了，准确率轻松+10%]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>打破黑盒，构建信任：具身智能基础模型安全落地的系统挑战</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-9</link>
+      <description>&lt;![CDATA[打破黑盒，构建信任：具身智能基础模型安全落地的系统挑战]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中南大学开发DeepDTAGen：用于药物靶标亲和力预测和靶标感知药物生成的多任务深度学习框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-8</link>
+      <description>&lt;![CDATA[中南大学开发DeepDTAGen：用于药物靶标亲和力预测和靶标感知药物生成的多任务深度学习框架]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>训练仅8分钟，诊断仅需47毫秒，超轻量级肺癌诊断 AI 模型，无需GPU，个人笔记本可运行</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-7</link>
+      <description>&lt;![CDATA[训练仅8分钟，诊断仅需47毫秒，超轻量级肺癌诊断 AI 模型，无需GPU，个人笔记本可运行]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为昇腾万卡集群揭秘：如何驯服AI算力「巨兽」？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-6</link>
+      <description>&lt;![CDATA[华为昇腾万卡集群揭秘：如何驯服AI算力「巨兽」？]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>质疑DeepSeek-R1、Claude Thinking根本不会推理！苹果争议论文翻车了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-5</link>
+      <description>&lt;![CDATA[质疑DeepSeek-R1、Claude Thinking根本不会推理！苹果争议论文翻车了？]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CVPR 2025 Highlight｜AdaCM2：首个面向超长视频理解的跨模态自适应记忆压缩框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-4</link>
+      <description>&lt;![CDATA[CVPR 2025 Highlight｜AdaCM2：首个面向超长视频理解的跨模态自适应记忆压缩框架]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>最新！Ilya现身多大毕业演讲：AI会完成我们能做的一切</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-3</link>
+      <description>&lt;![CDATA[最新！Ilya现身多大毕业演讲：AI会完成我们能做的一切]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML Spotlight 2025丨追求概率质量的帕累托最优：基于广义α-β散度引导的知识蒸馏框架ABKD</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-09-2</link>
+      <description>&lt;![CDATA[ICML Spotlight 2025丨追求概率质量的帕累托最优：基于广义α-β散度引导的知识蒸馏框架ABKD]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>双重突破：全球首个零售VLA大模型来了！开源OpenWBT让机器人遥操门槛暴降！</title>
+      <link>https://www.qbitai.com/2025/06/291904.html</link>
+      <description>&lt;![CDATA[双重突破：全球首个零售VLA大模型来了！开源OpenWBT让机器人遥操门槛暴降！]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 06:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291904.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里千问3下载量破千万！衍生模型数超13万稳居全球第一</title>
+      <link>https://www.qbitai.com/2025/06/291900.html</link>
+      <description>&lt;![CDATA[阿里千问3下载量破千万！衍生模型数超13万稳居全球第一]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 04:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291900.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>DrugCLIP：AI驱动超高通量虚拟筛选引擎，开启后AlphaFold时代创新药物发现新篇章</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-09</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing]]&gt;</description>
       <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.05414</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FERRET: Private Deep Learning Faster And Better Than DPSGD</title>
-      <link>https://arxiv.org/abs/2506.05416</link>
-      <description>&lt;![CDATA[FERRET: Private Deep Learning Faster And Better Than DPSGD]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05416</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Self-Predictive Dynamics for Generalization of Vision-based Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.05418</link>
-      <description>&lt;![CDATA[Self-Predictive Dynamics for Generalization of Vision-based Reinforcement Learning]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05418</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Dream to Generalize: Zero-Shot Model-Based Reinforcement Learning for Unseen Visual Distractions</title>
-      <link>https://arxiv.org/abs/2506.05419</link>
-      <description>&lt;![CDATA[Dream to Generalize: Zero-Shot Model-Based Reinforcement Learning for Unseen Visual Distractions]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05419</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning</title>
-      <link>https://arxiv.org/abs/2506.05425</link>
-      <description>&lt;![CDATA[SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05425</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mixture-of-Experts Meets In-Context Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.05426</link>
-      <description>&lt;![CDATA[Mixture-of-Experts Meets In-Context Reinforcement Learning]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05426</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction</title>
-      <link>https://arxiv.org/abs/2506.05427</link>
-      <description>&lt;![CDATA[MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05427</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction</title>
-      <link>https://arxiv.org/abs/2506.05428</link>
-      <description>&lt;![CDATA[Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05428</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Coordinated Robustness Evaluation Framework for Vision-Language Models</title>
-      <link>https://arxiv.org/abs/2506.05429</link>
-      <description>&lt;![CDATA[Coordinated Robustness Evaluation Framework for Vision-Language Models]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05429</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models</title>
-      <link>https://arxiv.org/abs/2506.05430</link>
-      <description>&lt;![CDATA[Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05430</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Robustness Evaluation for Video Models with Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.05431</link>
-      <description>&lt;![CDATA[Robustness Evaluation for Video Models with Reinforcement Learning]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05431</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling</title>
-      <link>https://arxiv.org/abs/2506.05432</link>
-      <description>&lt;![CDATA[PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05432</guid>
       <category>AI</category>
     </item>
   </channel>

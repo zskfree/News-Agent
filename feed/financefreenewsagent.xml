@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Jun 2025 00:59:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Jun 2025 04:23:56 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 08:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 08:17:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>S&amp;P 500 poised to open around key 6,000 level as investors eye U.S.-China talks</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7127df7a-38c3-4ff5-8771-567c2525ac15&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[S&amp;P 500 poised to open around key 6,000 level as investors eye U.S.-China talks]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7127df7a-38c3-4ff5-8771-567c2525ac15&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Qualcomm is paying $2.4 billion for Britain’s Alphawave</title>
+      <link>https://www.marketwatch.com/story/why-qualcomm-is-paying-2-4-billion-for-britains-alphawave-ca0458d5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why Qualcomm is paying $2.4 billion for Britain’s Alphawave]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-qualcomm-is-paying-2-4-billion-for-britains-alphawave-ca0458d5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>U.S. stock futures dip ahead of renewed trade talks with China</title>
       <link>https://www.marketwatch.com/story/u-s-stock-futures-flat-ahead-of-renewed-trade-talks-with-china-5089dd01?mod=mw_rss_topstories</link>
@@ -43,14 +59,6 @@
       <description>&lt;![CDATA[One of the first ‘liberation day’ losers reports earnings this week]]&gt;</description>
       <pubDate>Sun, 08 Jun 2025 14:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/one-of-the-first-liberation-day-losers-reports-earnings-this-week-db5d1566?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How reliable is U.S. economic data? It’s a growing risk for investors.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=3b9f2e6c-0962-4e5a-85ac-af3c44f2078e&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[How reliable is U.S. economic data? It’s a growing risk for investors.]]&gt;</description>
-      <pubDate>Sun, 08 Jun 2025 23:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=3b9f2e6c-0962-4e5a-85ac-af3c44f2078e&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[The tax bill doesn’t have many new wins for investors. How to make the best of it anyway.]]&gt;</description>
       <pubDate>Wed, 04 Jun 2025 20:54:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/the-tax-bill-doesnt-have-many-new-wins-for-investors-how-to-make-the-best-of-it-anyway-965b92af?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Senate pushes Russia tariffs that could jack up energy prices for American consumers</title>
-      <link>https://www.marketwatch.com/story/senate-pushes-russia-tariffs-that-could-jack-up-energy-prices-for-american-consumers-e9870842?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Senate pushes Russia tariffs that could jack up energy prices for American consumers]]&gt;</description>
-      <pubDate>Wed, 04 Jun 2025 20:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/senate-pushes-russia-tariffs-that-could-jack-up-energy-prices-for-american-consumers-e9870842?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

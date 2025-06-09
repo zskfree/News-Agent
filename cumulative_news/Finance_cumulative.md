@@ -2,7 +2,23 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-09 00:59
+**最后更新时间**: 2025-06-09 08:17
+
+---
+
+## 🆕 最新更新 (2025-06-09 08:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [S&P 500 poised to open around key 6,000 level as investors eye U.S.-China talks](https://www.marketwatch.com/bulletins/redirect/go?g=7127df7a-38c3-4ff5-8771-567c2525ac15&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 08:01
+
+#### [Qualcomm is paying $2.4 billion for U.K.'s chip technology group Alphawave](https://www.marketwatch.com/bulletins/redirect/go?g=0205e452-2069-4d84-aaa5-5fb2b81ba9db&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 07:13
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Qualcomm is paying $2.4 billion for Britain’s Alphawave](https://www.marketwatch.com/story/why-qualcomm-is-paying-2-4-billion-for-britains-alphawave-ca0458d5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 06:55
 
 ---
 
