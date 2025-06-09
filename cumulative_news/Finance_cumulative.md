@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-09 08:17
+**最后更新时间**: 2025-06-09 12:26
+
+---
+
+## 🆕 最新更新 (2025-06-09 12:26)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Week’s data set to kick off with wholesale-inventories update](https://www.marketwatch.com/bulletins/redirect/go?g=57341978-2c91-4338-ac3e-69857d7535ff&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 12:22
+
+#### [Tesla gets rare Wall Street downgrade on Musk politics, robotaxi worries](https://www.marketwatch.com/bulletins/redirect/go?g=97fcfcd9-3cd8-42d8-83ab-f45bd6d1bf6e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 09:56
+
+#### [Apple says AI reasoning models 'collapse' and quit easily](https://www.marketwatch.com/bulletins/redirect/go?g=f1743214-ced8-4629-9bf6-f2f45e8c4293&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 08:56
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A downgrade for Tesla as this Wall Street firm sees too much uncertainty on too many fronts](https://www.marketwatch.com/story/a-rare-downgrade-for-tesla-as-this-wall-street-firm-sees-too-much-uncertainty-on-too-many-fronts-5460cd76?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 12:19
+
+#### [Summer doldrums are slowing stock trading — but don’t sell a dull market short](https://www.marketwatch.com/story/summer-doldrums-are-slowing-stock-trading-but-dont-sell-a-dull-market-short-246e553c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 12:10
+
+#### [Warner Bros. Discovery spinoff shows just how rapidly  split in two. What that means for your TV channels.](https://www.marketwatch.com/story/warner-bros-discovery-to-split-in-two-what-that-means-for-your-tv-channels-afa3a612?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 11:56
+
+#### [Third time lucky? Citi changes its S&P target once more after index hits 6,000.](https://www.marketwatch.com/story/third-time-lucky-citi-changes-its-s-p-target-once-more-after-index-hits-6-000-bd3fac80?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 11:46
+
+#### [Energy tax credits give Americans good jobs and independence from China. So why does Trump’s tax bill gut them?](https://www.marketwatch.com/story/energy-tax-credits-give-americans-good-jobs-and-independence-from-china-so-why-does-trumps-tax-bill-gut-them-e5b2550f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 11:45
+
+#### [The S&P 500 is back at a big milestone. Here’s what one strategist needs to see to be even more optimistic.](https://www.marketwatch.com/story/the-s-p-500-is-back-at-a-big-milestone-heres-what-one-strategist-needs-to-see-to-be-even-more-optimistic-37689d9f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 11:36
+
+#### [‘Things are going loco’: My local restaurant charges a 5% container fee and 3% kitchen-service charge. Is this nuts?](https://www.marketwatch.com/story/things-are-going-loco-my-local-restaurant-charges-a-5-container-fee-and-3-kitchen-service-charge-is-this-nuts-15b88f15?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 11:00
 
 ---
 

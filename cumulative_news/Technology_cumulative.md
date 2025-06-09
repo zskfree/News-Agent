@@ -2,7 +2,139 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-09 08:17
+**最后更新时间**: 2025-06-09 12:26
+
+---
+
+## 🆕 最新更新 (2025-06-09 12:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [芯片行业并购加速：国科微收购中芯宁波94.366%股权](https://www.tmtpost.com/7591408.html)
+**发布时间**: 2025-06-09 19:30
+
+#### [AI的夏天：第四范式VS云从科技VS地平线机器人](https://www.tmtpost.com/7590242.html)
+**发布时间**: 2025-06-09 19:24
+
+#### [直播SaaS黑马冲刺港股，年入近亿背后，随手播能否打破1%魔咒？​](https://www.tmtpost.com/7590910.html)
+**发布时间**: 2025-06-09 19:24
+
+#### [CoWoS，劲敌来了](https://www.tmtpost.com/7591318.html)
+**发布时间**: 2025-06-09 19:20
+
+#### [创业黑马业绩下滑拟并购谋变：标的估值溢价481%，业绩承诺宽松](https://www.tmtpost.com/7591427.html)
+**发布时间**: 2025-06-09 19:12
+
+#### [财富跻身全球第108名，泡泡玛特创始人王宁赚麻了](https://www.tmtpost.com/7590956.html)
+**发布时间**: 2025-06-09 19:09
+
+#### [星巴克猛然发力非咖啡饮品，意欲何为？‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍](https://www.tmtpost.com/7591121.html)
+**发布时间**: 2025-06-09 19:09
+
+#### [那些买新能源车后悔的人，正在经历什么？](https://www.tmtpost.com/7591330.html)
+**发布时间**: 2025-06-09 19:06
+
+#### [星巴克“放下身段”，谁逼的？](https://www.tmtpost.com/7591409.html)
+**发布时间**: 2025-06-09 19:06
+
+#### [5倍溢价收购遇大股东出逃，孩子王的资本腾挪与举债扩张棋局](https://www.tmtpost.com/7591212.html)
+**发布时间**: 2025-06-09 18:50
+
+#### [那个没敢投人形机器人的投资人，后悔了吗？](https://www.tmtpost.com/7591026.html)
+**发布时间**: 2025-06-09 18:38
+
+#### [大疆和影石，把一个夕阳产业干到火爆全球](https://www.tmtpost.com/7590885.html)
+**发布时间**: 2025-06-09 18:38
+
+#### [当能源大炼AI：为什么美国芯片，非要卖沙特？](https://www.tmtpost.com/7591069.html)
+**发布时间**: 2025-06-09 18:37
+
+#### [AI医疗的黄金赛道，大厂卷疯了](https://www.tmtpost.com/7591075.html)
+**发布时间**: 2025-06-09 18:37
+
+#### [中概的烟蒂股，为什么总是社交？](https://www.tmtpost.com/7591192.html)
+**发布时间**: 2025-06-09 18:37
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [我谈不过AI，但AI能替我谈1000次恋爱](http://www.geekpark.net/news/350208)
+**发布时间**: 2025-06-09 19:29
+
+#### [深度剖析 Google AI 眼镜战略：「百镜大战」没来，但谷歌想用 Gemini「再次伟大」](http://www.geekpark.net/news/350204)
+**发布时间**: 2025-06-09 17:54
+
+#### [苹果 WWDC25 终极前瞻：打不过 AI，我还打不过「UI」吗？！](http://www.geekpark.net/news/350202)
+**发布时间**: 2025-06-09 17:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [王兴兴回应比赛风波：挣到钱了，但现在的机器人别指望它能干活](https://www.infoq.cn/article/mUB9lfAFiL15vkbRuxUm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 18:54
+
+#### [硅基流动完成新一轮数亿元融资，打造开发者首选生成式 AI 开发平台](https://www.infoq.cn/article/Bi9PzSGDKq8uErAgGohN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 18:16
+
+#### [Flux 2.6 GA发布及安全性改进](https://www.infoq.cn/article/FzqbV7tLIpAHt5U6TZ5d?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 18:00
+
+#### [手撕900万行屎山代码、少干28万小时！AI 编程大刀挥向“古老”编程语言](https://www.infoq.cn/article/fduhDwYGaDod8EuEUyEW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 17:46
+
+#### [Databricks × Snowflake 纷纷下注，PostgreSQL 成 AI 时代数据库标准？](https://www.infoq.cn/article/faDAjpUKe5oUbNEXcS0H?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 17:20
+
+#### [ClickHouse发起十亿JSON文档挑战，性能完胜MongoDB、PostgreSQL、ES和DuckDB等数据库](https://www.infoq.cn/article/plv5Ng6M4dDKcT8f5TW5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 17:01
+
+#### [TypeScript“杀疯了”！60%到70%YC创企用它构建AI Agent，超越Python有戏了？](https://www.infoq.cn/article/vvcg6JVI6VoxNhk01OfC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 16:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [使用 Cherry Studio 基于 MCP 协议构建专属的 AI 代理](https://sspai.com/prime/story/cherry-mcp)
+**发布时间**: 2025-06-09 18:09
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/100047)
+**发布时间**: 2025-06-09 17:59
+
+#### [少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/100042)
+**发布时间**: 2025-06-09 17:56
+
+#### [共创 | 让过去重新鲜活，让经典焕发生机：《视频修复简明教程》上线](https://sspai.com/post/100040)
+**发布时间**: 2025-06-09 16:18
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Warner Bros. Discovery is splitting into two companies](https://www.theverge.com/news/682633/warner-bros-discovery-splitting-company)
+**发布时间**: 2025-06-09 12:25
+
+#### [Fairphone 6 leak reveals more modular design](https://www.theverge.com/news/682627/fairphone-6-leak-modular-design-accessories-repairable)
+**发布时间**: 2025-06-09 12:07
+
+#### [Seagate’s new 4TB Xbox expansion card costs more than the Xbox Series S](https://www.theverge.com/news/681254/seagate-4tb-xbox-storage-expansion-card)
+**发布时间**: 2025-06-09 12:00
+
+#### [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)
+**发布时间**: 2025-06-09 10:43
+
+#### [Ultrahuman’s absurdly expensive Home monitor doesn’t do much](https://www.theverge.com/news/682618/ultrahuman-home-air-quality-light-noise-tracker-price)
+**发布时间**: 2025-06-09 10:21
+
+#### [Tesla just lost the head of its robotics division](https://www.theverge.com/news/682613/tesla-optimus-humanoid-robot-head-quit-left-milan-kovac)
+**发布时间**: 2025-06-09 09:21
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [It's Time to Kill Siri](https://www.wired.com/story/its-time-to-kill-siri/)
+**发布时间**: 2025-06-09 11:09
+
+#### [8 Best Gaming Laptops (2025), Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
+**发布时间**: 2025-06-09 11:00
+
+#### [I Joined Every Class Action Lawsuit I Could Find, and So Can You](https://www.wired.com/story/i-am-hunting-online-for-free-class-action-money-and-so-can-you/)
+**发布时间**: 2025-06-09 10:30
+
+#### [Apple WWDC Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2025-live-blog/)
+**发布时间**: 2025-06-09 10:00
 
 ---
 
