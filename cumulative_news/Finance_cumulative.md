@@ -2,7 +2,35 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-08 01:06
+**最后更新时间**: 2025-06-09 00:59
+
+---
+
+## 🆕 最新更新 (2025-06-09 00:59)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures dip ahead of renewed trade talks with China](https://www.marketwatch.com/story/u-s-stock-futures-flat-ahead-of-renewed-trade-talks-with-china-5089dd01?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 00:11
+
+#### [Here’s how much a ‘Bro Billionaire’ group of stocks is trouncing small caps under Trump](https://www.marketwatch.com/story/heres-how-much-a-bro-billionaire-group-of-stocks-is-trouncing-small-caps-under-trump-1e72f1b2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-08 19:56
+
+#### [My new husband gave me a contract and told me to ‘sign here’ — but I refused. It was the best decision of my life.](https://www.marketwatch.com/story/it-was-a-contract-sabotage-my-new-husband-told-me-to-sign-here-i-refused-it-was-the-best-decision-of-my-life-2147c33f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-08 14:50
+
+#### [One of the first ‘liberation day’ losers reports earnings this week](https://www.marketwatch.com/story/one-of-the-first-liberation-day-losers-reports-earnings-this-week-db5d1566?mod=mw_rss_topstories)
+**发布时间**: 2025-06-08 14:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How reliable is U.S. economic data? It’s a growing risk for investors.](https://www.marketwatch.com/bulletins/redirect/go?g=3b9f2e6c-0962-4e5a-85ac-af3c44f2078e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-08 23:50
+
+#### [U.S. stock futures flat ahead of renewed trade talks with China](https://www.marketwatch.com/bulletins/redirect/go?g=6d01fc93-c2c1-42d4-ab42-a5da25251c0a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-08 22:45
+
+#### [One of the first ‘liberation day’ losers reports earnings this week](https://www.marketwatch.com/bulletins/redirect/go?g=dbbd2d61-0f99-4ba9-a6ab-08ecbff36769&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-08 20:11
 
 ---
 

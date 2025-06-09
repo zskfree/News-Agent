@@ -2,7 +2,95 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-08 12:19
+**最后更新时间**: 2025-06-09 00:59
+
+---
+
+## 🆕 最新更新 (2025-06-09 00:59)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [离开格力后，王自如首开直播回应；比亚迪回应「车圈恒大」风波；传 Meta 百亿美元投资 Scale AI](http://www.geekpark.net/news/350156)
+**发布时间**: 2025-06-09 08:34
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [94岁老牌陷入转型焦虑，百雀羚急寻增长新引擎](https://www.tmtpost.com/7590084.html)
+**发布时间**: 2025-06-09 08:22
+
+#### [年轻人氪金“塑料茅台”，Labubu养肥了谁？](https://www.tmtpost.com/7590109.html)
+**发布时间**: 2025-06-09 08:22
+
+#### [去拉美掘金，月入5万只是及格线](https://www.tmtpost.com/7590114.html)
+**发布时间**: 2025-06-09 08:15
+
+#### [钛媒体科股早知道：智驾成为各大车企竞争焦点，这类核心硬件需求持续提升](https://www.tmtpost.com/7590168.html)
+**发布时间**: 2025-06-09 08:00
+
+#### [【钛晨报】商务部：目前中欧双方电动汽车案价格承诺磋商进入最后阶段，但仍需双方努力；波音重启对华飞机交付；美国恢复处理哈佛国际学生签证](https://www.tmtpost.com/7590040.html)
+**发布时间**: 2025-06-09 07:20
+
+#### [问界M9交付突破20万辆，正在定义智能豪华的中国叙事](https://www.tmtpost.com/7590097.html)
+**发布时间**: 2025-06-08 21:43
+
+#### [上海国资投了17家GP，总规模达241.5亿元](https://www.tmtpost.com/7590071.html)
+**发布时间**: 2025-06-08 21:37
+
+#### [外卖补贴大战，为什么电商平台要用茶和咖啡打头阵](https://www.tmtpost.com/7589926.html)
+**发布时间**: 2025-06-08 19:10
+
+#### [GENIUS法案核心争议与稳定币价值重估](https://www.tmtpost.com/7589942.html)
+**发布时间**: 2025-06-08 12:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技开源专门用于ECS、EKS和Serverless的MCP服务器](https://www.infoq.cn/article/RgsFgkDiaeZ03eoCogEu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-09 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
+**发布时间**: 2025-06-08 20:53
+
+#### [Final Fantasy XVI is out on Xbox right now, and FF7 Remake is coming too](https://www.theverge.com/news/682491/final-fantasy-16-xbox-stealthdrop-final-fantasy-7-remake)
+**发布时间**: 2025-06-08 19:06
+
+#### [Double Fine&#8217;s next game, Keeper, turns you into a walking lighthouse](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
+**发布时间**: 2025-06-08 18:19
+
+#### [Gears of War: E-Day is coming in 2026](https://www.theverge.com/news/682283/gears-of-war-e-day-release-date-2026)
+**发布时间**: 2025-06-08 18:14
+
+#### [Persona 4 is getting a remake](https://www.theverge.com/news/680439/persona-4-revival-remake-trailer)
+**发布时间**: 2025-06-08 18:01
+
+#### [Pokémon studio&#8217;s action RPG Beast of Reincarnation launches in 2026](https://www.theverge.com/news/682371/beast-of-reincarnation-game-freak-xbox-games-showcase-trailer)
+**发布时间**: 2025-06-08 17:35
+
+#### [Microsoft and Asus announce two Xbox Ally handhelds with new Xbox full-screen experience](https://www.theverge.com/news/682009/microsoft-asus-rog-xbox-ally-devices-new-windows-xbox-experience)
+**发布时间**: 2025-06-08 17:10
+
+#### [This is how Microsoft is combining Windows and Xbox for handheld PCs](https://www.theverge.com/news/682011/microsoft-windows-xbox-pc-combination-features-rog-xbox-ally-devices)
+**发布时间**: 2025-06-08 17:10
+
+#### [Vivo’s telephoto extender makes the world’s best phone camera better](https://www.theverge.com/mobile/680552/vivo-telephoto-extender-lens-x200-ultra-photography-kit)
+**发布时间**: 2025-06-08 15:00
+
+#### [The Verge’s favorite summer gear for 2025](https://www.theverge.com/tech/679404/summer-gear-vacation-favorite)
+**发布时间**: 2025-06-08 14:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How to Advocate for Trans Rights in Your Community](https://www.wired.com/story/how-to-advocate-for-support-trans-rights/)
+**发布时间**: 2025-06-08 16:00
+
+#### [Best Treadmill for Home (2025), Tested and Reviewed](https://www.wired.com/story/best-home-treadmills/)
+**发布时间**: 2025-06-08 15:03
+
+#### [15 Best Gifts for Men, Manly Men, and Menly Man Men (2025)](https://www.wired.com/gallery/best-gifts-for-men/)
+**发布时间**: 2025-06-08 14:02
+
+#### [How to Buy a Bike Helmet (2025)](https://www.wired.com/story/how-to-buy-a-bike-helmet/)
+**发布时间**: 2025-06-08 13:02
 
 ---
 
