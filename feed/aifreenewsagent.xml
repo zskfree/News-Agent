@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 00:56:27 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 04:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 04:20:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,403 +14,403 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI-enabled control system helps autonomous drones stay on target in uncertain environments</title>
-      <link>https://news.mit.edu/2025/ai-enabled-control-system-helps-autonomous-drones-uncertain-environments-0609</link>
-      <description>&lt;![CDATA[AI-enabled control system helps autonomous drones stay on target in uncertain environments]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 16:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-enabled-control-system-helps-autonomous-drones-uncertain-environments-0609</guid>
+      <title>刚刚，苹果WWDC掀AI风暴！端侧模型全面开放、AI版Siri却成最大「鸽子」王</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-2</link>
+      <description>&lt;![CDATA[刚刚，苹果WWDC掀AI风暴！端侧模型全面开放、AI版Siri却成最大「鸽子」王]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Envisioning a future where health care tech leaves some behind</title>
-      <link>https://news.mit.edu/2025/envisioning-future-where-health-care-tech-leaves-some-behind-0609</link>
-      <description>&lt;![CDATA[Envisioning a future where health care tech leaves some behind]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/envisioning-future-where-health-care-tech-leaves-some-behind-0609</guid>
+      <title>比自回归更灵活、比离散扩散更通用，首个纯Discrete Flow Matching多模态巨兽降临</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10</link>
+      <description>&lt;![CDATA[比自回归更灵活、比离散扩散更通用，首个纯Discrete Flow Matching多模态巨兽降临]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Helping machines understand visual content with AI</title>
-      <link>https://news.mit.edu/2025/coactive-helps-machines-understand-visual-content-ai-0609</link>
-      <description>&lt;![CDATA[Helping machines understand visual content with AI]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/coactive-helps-machines-understand-visual-content-ai-0609</guid>
+      <title>大模型能够自发形成“人类思维地图”！Nature子刊重磅研究揭示多模态大模型类脑机制</title>
+      <link>https://www.qbitai.com/2025/06/292441.html</link>
+      <description>&lt;![CDATA[大模型能够自发形成“人类思维地图”！Nature子刊重磅研究揭示多模态大模型类脑机制]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 03:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292441.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>给大模型装上「思维分段引擎」：浙大InftyThink解锁无限深度推理</title>
-      <link>https://www.qbitai.com/2025/06/292169.html</link>
-      <description>&lt;![CDATA[给大模型装上「思维分段引擎」：浙大InftyThink解锁无限深度推理]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292169.html</guid>
+      <title>李飞飞自曝详细创业经历：五年前因眼睛受伤，坚定要做世界模型</title>
+      <link>https://www.qbitai.com/2025/06/292419.html</link>
+      <description>&lt;![CDATA[李飞飞自曝详细创业经历：五年前因眼睛受伤，坚定要做世界模型]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 02:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292419.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首创像素空间推理，7B模型领先GPT-4o，让VLM能像人类一样「眼脑并用」</title>
-      <link>https://www.qbitai.com/2025/06/292105.html</link>
-      <description>&lt;![CDATA[首创像素空间推理，7B模型领先GPT-4o，让VLM能像人类一样「眼脑并用」]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292105.html</guid>
+      <title>6分钟狂掉750亿市值！苹果发布会发啥了…</title>
+      <link>https://www.qbitai.com/2025/06/292333.html</link>
+      <description>&lt;![CDATA[6分钟狂掉750亿市值！苹果发布会发啥了…]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 02:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292333.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>打破跨模态干扰，快手东北大学联合提出统一多模态框架，横扫多模态检索基准</title>
-      <link>https://www.qbitai.com/2025/06/292027.html</link>
-      <description>&lt;![CDATA[打破跨模态干扰，快手东北大学联合提出统一多模态框架，横扫多模态检索基准]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292027.html</guid>
+      <title>激光雷达是门好生意吗？问界换华为，小鹏改视觉，头雁10%订单说没就没</title>
+      <link>https://www.qbitai.com/2025/06/292186.html</link>
+      <description>&lt;![CDATA[激光雷达是门好生意吗？问界换华为，小鹏改视觉，头雁10%订单说没就没]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292186.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>吉利炮轰“常压油箱”，比亚迪回应：浙江某车企也在用</title>
-      <link>https://www.qbitai.com/2025/06/292000.html</link>
-      <description>&lt;![CDATA[吉利炮轰“常压油箱”，比亚迪回应：浙江某车企也在用]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292000.html</guid>
+      <title>Understanding Financial Reasoning in AI: A Multimodal Benchmark and Error Learning Approach</title>
+      <link>https://arxiv.org/abs/2506.06282</link>
+      <description>&lt;![CDATA[Understanding Financial Reasoning in AI: A Multimodal Benchmark and Error Learning Approach]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06282</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>太逼真！豆包·播客模型来了：一句话生成「苏超联赛」播客，很懂13太保的梗</title>
-      <link>https://www.qbitai.com/2025/06/291969.html</link>
-      <description>&lt;![CDATA[太逼真！豆包·播客模型来了：一句话生成「苏超联赛」播客，很懂13太保的梗]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291969.html</guid>
+      <title>Unreal Patterns</title>
+      <link>https://arxiv.org/abs/2506.06284</link>
+      <description>&lt;![CDATA[Unreal Patterns]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06284</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI七个月突破数学家“围剿”反超人类！14位数学家深挖原始推理token：不靠死记硬背靠直觉</title>
-      <link>https://www.qbitai.com/2025/06/291960.html</link>
-      <description>&lt;![CDATA[AI七个月突破数学家“围剿”反超人类！14位数学家深挖原始推理token：不靠死记硬背靠直觉]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291960.html</guid>
+      <title>NFISiS: New Perspectives on Fuzzy Inference Systems for Renewable Energy Forecasting</title>
+      <link>https://arxiv.org/abs/2506.06285</link>
+      <description>&lt;![CDATA[NFISiS: New Perspectives on Fuzzy Inference Systems for Renewable Energy Forecasting]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06285</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>商汤小浣熊牵手蚂蚁百宝箱，共建AI+数据分析方案</title>
-      <link>https://www.qbitai.com/2025/06/291939.html</link>
-      <description>&lt;![CDATA[商汤小浣熊牵手蚂蚁百宝箱，共建AI+数据分析方案]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 08:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291939.html</guid>
+      <title>Deep Research Bench: Evaluating AI Web Research Agents</title>
+      <link>https://arxiv.org/abs/2506.06287</link>
+      <description>&lt;![CDATA[Deep Research Bench: Evaluating AI Web Research Agents]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06287</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: an inspiring toy robot arm, and why AM radio matters</title>
-      <link>https://www.technologyreview.com/2025/06/09/1118186/the-download-an-inspiring-toy-robot-arm-and-why-am-radio-matters/</link>
-      <description>&lt;![CDATA[The Download: an inspiring toy robot arm, and why AM radio matters]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/09/1118186/the-download-an-inspiring-toy-robot-arm-and-why-am-radio-matters/</guid>
+      <title>Large Language Models and Their Applications in Roadway Safety and Mobility Enhancement: A Comprehensive Review</title>
+      <link>https://arxiv.org/abs/2506.06301</link>
+      <description>&lt;![CDATA[Large Language Models and Their Applications in Roadway Safety and Mobility Enhancement: A Comprehensive Review]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06301</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开启端侧长文本时代！面壁全新架构，让小钢炮最快提升220倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-11</link>
-      <description>&lt;![CDATA[开启端侧长文本时代！面壁全新架构，让小钢炮最快提升220倍]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-11</guid>
+      <title>Mapping Human-Agent Co-Learning and Co-Adaptation: A Scoping Review</title>
+      <link>https://arxiv.org/abs/2506.06324</link>
+      <description>&lt;![CDATA[Mapping Human-Agent Co-Learning and Co-Adaptation: A Scoping Review]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06324</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>无需SFT也不用RL，样本级推理优化神器SLOT来了，准确率轻松+10%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-10</link>
-      <description>&lt;![CDATA[无需SFT也不用RL，样本级推理优化神器SLOT来了，准确率轻松+10%]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-10</guid>
+      <title>Memory OS of AI Agent</title>
+      <link>https://arxiv.org/abs/2506.06326</link>
+      <description>&lt;![CDATA[Memory OS of AI Agent]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06326</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>打破黑盒，构建信任：具身智能基础模型安全落地的系统挑战</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-9</link>
-      <description>&lt;![CDATA[打破黑盒，构建信任：具身智能基础模型安全落地的系统挑战]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-9</guid>
+      <title>Will artificial agents pursue power by default?</title>
+      <link>https://arxiv.org/abs/2506.06352</link>
+      <description>&lt;![CDATA[Will artificial agents pursue power by default?]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06352</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中南大学开发DeepDTAGen：用于药物靶标亲和力预测和靶标感知药物生成的多任务深度学习框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-8</link>
-      <description>&lt;![CDATA[中南大学开发DeepDTAGen：用于药物靶标亲和力预测和靶标感知药物生成的多任务深度学习框架]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-8</guid>
+      <title>Towards Foundation Model on Temporal Knowledge Graph Reasoning</title>
+      <link>https://arxiv.org/abs/2506.06367</link>
+      <description>&lt;![CDATA[Towards Foundation Model on Temporal Knowledge Graph Reasoning]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06367</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>训练仅8分钟，诊断仅需47毫秒，超轻量级肺癌诊断 AI 模型，无需GPU，个人笔记本可运行</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-7</link>
-      <description>&lt;![CDATA[训练仅8分钟，诊断仅需47毫秒，超轻量级肺癌诊断 AI 模型，无需GPU，个人笔记本可运行]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-7</guid>
+      <title>SIGMA: Refining Large Language Model Reasoning via Sibling-Guided Monte Carlo Augmentation</title>
+      <link>https://arxiv.org/abs/2506.06470</link>
+      <description>&lt;![CDATA[SIGMA: Refining Large Language Model Reasoning via Sibling-Guided Monte Carlo Augmentation]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06470</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>华为昇腾万卡集群揭秘：如何驯服AI算力「巨兽」？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-6</link>
-      <description>&lt;![CDATA[华为昇腾万卡集群揭秘：如何驯服AI算力「巨兽」？]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-6</guid>
+      <title>Reinforcement Learning for Autonomous Warehouse Orchestration in SAP Logistics Execution: Redefining Supply Chain Agility</title>
+      <link>https://arxiv.org/abs/2506.06523</link>
+      <description>&lt;![CDATA[Reinforcement Learning for Autonomous Warehouse Orchestration in SAP Logistics Execution: Redefining Supply Chain Agility]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06523</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>质疑DeepSeek-R1、Claude Thinking根本不会推理！苹果争议论文翻车了？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-5</link>
-      <description>&lt;![CDATA[质疑DeepSeek-R1、Claude Thinking根本不会推理！苹果争议论文翻车了？]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 13:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-5</guid>
+      <title>ScriptDoctor: Automatic Generation of PuzzleScript Games via Large Language Models and Tree Search</title>
+      <link>https://arxiv.org/abs/2506.06524</link>
+      <description>&lt;![CDATA[ScriptDoctor: Automatic Generation of PuzzleScript Games via Large Language Models and Tree Search]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06524</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CVPR 2025 Highlight｜AdaCM2：首个面向超长视频理解的跨模态自适应记忆压缩框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-4</link>
-      <description>&lt;![CDATA[CVPR 2025 Highlight｜AdaCM2：首个面向超长视频理解的跨模态自适应记忆压缩框架]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-4</guid>
+      <title>The Optimization Paradox in Clinical AI Multi-Agent Systems</title>
+      <link>https://arxiv.org/abs/2506.06574</link>
+      <description>&lt;![CDATA[The Optimization Paradox in Clinical AI Multi-Agent Systems]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06574</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>最新！Ilya现身多大毕业演讲：AI会完成我们能做的一切</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-3</link>
-      <description>&lt;![CDATA[最新！Ilya现身多大毕业演讲：AI会完成我们能做的一切]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 13:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-3</guid>
+      <title>AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture</title>
+      <link>https://arxiv.org/abs/2506.06580</link>
+      <description>&lt;![CDATA[AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06580</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML Spotlight 2025丨追求概率质量的帕累托最优：基于广义α-β散度引导的知识蒸馏框架ABKD</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09-2</link>
-      <description>&lt;![CDATA[ICML Spotlight 2025丨追求概率质量的帕累托最优：基于广义α-β散度引导的知识蒸馏框架ABKD]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09-2</guid>
+      <title>GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales</title>
+      <link>https://arxiv.org/abs/2506.06634</link>
+      <description>&lt;![CDATA[GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06634</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>双重突破：全球首个零售VLA大模型来了！开源OpenWBT让机器人遥操门槛暴降！</title>
-      <link>https://www.qbitai.com/2025/06/291904.html</link>
-      <description>&lt;![CDATA[双重突破：全球首个零售VLA大模型来了！开源OpenWBT让机器人遥操门槛暴降！]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 06:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291904.html</guid>
+      <title>Contextual Experience Replay for Self-Improvement of Language Agents</title>
+      <link>https://arxiv.org/abs/2506.06698</link>
+      <description>&lt;![CDATA[Contextual Experience Replay for Self-Improvement of Language Agents]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06698</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里千问3下载量破千万！衍生模型数超13万稳居全球第一</title>
-      <link>https://www.qbitai.com/2025/06/291900.html</link>
-      <description>&lt;![CDATA[阿里千问3下载量破千万！衍生模型数超13万稳居全球第一]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 04:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291900.html</guid>
+      <title>Integrating AI Planning Semantics into SysML System Models for Automated PDDL File Generation</title>
+      <link>https://arxiv.org/abs/2506.06714</link>
+      <description>&lt;![CDATA[Integrating AI Planning Semantics into SysML System Models for Automated PDDL File Generation]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06714</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DrugCLIP：AI驱动超高通量虚拟筛选引擎，开启后AlphaFold时代创新药物发现新篇章</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-09</link>
-      <description>&lt;![CDATA[DrugCLIP：AI驱动超高通量虚拟筛选引擎，开启后AlphaFold时代创新药物发现新篇章]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-09</guid>
+      <title>WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making</title>
+      <link>https://arxiv.org/abs/2506.06725</link>
+      <description>&lt;![CDATA[WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06725</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A Path to Loving</title>
-      <link>https://arxiv.org/abs/2506.05352</link>
-      <description>&lt;![CDATA[A Path to Loving]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05352</guid>
+      <title>VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs</title>
+      <link>https://arxiv.org/abs/2506.06727</link>
+      <description>&lt;![CDATA[VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06727</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Contextual Memory Intelligence -- A Foundational Paradigm for Human-AI Collaboration and Reflective Generative AI Systems</title>
-      <link>https://arxiv.org/abs/2506.05370</link>
-      <description>&lt;![CDATA[Contextual Memory Intelligence -- A Foundational Paradigm for Human-AI Collaboration and Reflective Generative AI Systems]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05370</guid>
+      <title>Honey, I shrunk the hypothesis space (through logical preprocessing)</title>
+      <link>https://arxiv.org/abs/2506.06739</link>
+      <description>&lt;![CDATA[Honey, I shrunk the hypothesis space (through logical preprocessing)]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06739</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Constructive Symbolic Reinforcement Learning via Intuitionistic Logic and Goal-Chaining Inference</title>
-      <link>https://arxiv.org/abs/2506.05422</link>
-      <description>&lt;![CDATA[Constructive Symbolic Reinforcement Learning via Intuitionistic Logic and Goal-Chaining Inference]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05422</guid>
+      <title>AI PsyRoom: Artificial Intelligence Platform for Segmented Yearning and Reactive Outcome Optimization Method</title>
+      <link>https://arxiv.org/abs/2506.06740</link>
+      <description>&lt;![CDATA[AI PsyRoom: Artificial Intelligence Platform for Segmented Yearning and Reactive Outcome Optimization Method]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06740</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Towards Data Systems That Are Business Semantic-Centric and AI Agents-Assisted</title>
-      <link>https://arxiv.org/abs/2506.05520</link>
-      <description>&lt;![CDATA[Towards Data Systems That Are Business Semantic-Centric and AI Agents-Assisted]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05520</guid>
+      <title>Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules</title>
+      <link>https://arxiv.org/abs/2506.06750</link>
+      <description>&lt;![CDATA[Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06750</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Avoiding Death through Fear Intrinsic Conditioning</title>
-      <link>https://arxiv.org/abs/2506.05529</link>
-      <description>&lt;![CDATA[Avoiding Death through Fear Intrinsic Conditioning]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05529</guid>
+      <title>Learning What Matters Now: A Dual-Critic Context-Aware RL Framework for Priority-Driven Information Gain</title>
+      <link>https://arxiv.org/abs/2506.06786</link>
+      <description>&lt;![CDATA[Learning What Matters Now: A Dual-Critic Context-Aware RL Framework for Priority-Driven Information Gain]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06786</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration</title>
-      <link>https://arxiv.org/abs/2506.05579</link>
-      <description>&lt;![CDATA[When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05579</guid>
+      <title>Cross-Entropy Games for Language Models: From Implicit Knowledge to General Capability Measures</title>
+      <link>https://arxiv.org/abs/2506.06832</link>
+      <description>&lt;![CDATA[Cross-Entropy Games for Language Models: From Implicit Knowledge to General Capability Measures]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06832</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MMTU: A Massive Multi-Task Table Understanding and Reasoning Benchmark</title>
-      <link>https://arxiv.org/abs/2506.05587</link>
-      <description>&lt;![CDATA[MMTU: A Massive Multi-Task Table Understanding and Reasoning Benchmark]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05587</guid>
+      <title>United Minds or Isolated Agents? Exploring Coordination of LLMs under Cognitive Load Theory</title>
+      <link>https://arxiv.org/abs/2506.06843</link>
+      <description>&lt;![CDATA[United Minds or Isolated Agents? Exploring Coordination of LLMs under Cognitive Load Theory]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06843</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists</title>
-      <link>https://arxiv.org/abs/2506.05616</link>
-      <description>&lt;![CDATA[Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05616</guid>
+      <title>Incorporating Failure of Machine Learning in Dynamic Probabilistic Safety Assurance</title>
+      <link>https://arxiv.org/abs/2506.06868</link>
+      <description>&lt;![CDATA[Incorporating Failure of Machine Learning in Dynamic Probabilistic Safety Assurance]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06868</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Population-Proportional Preference Learning from Human Feedback: An Axiomatic Approach</title>
-      <link>https://arxiv.org/abs/2506.05619</link>
-      <description>&lt;![CDATA[Population-Proportional Preference Learning from Human Feedback: An Axiomatic Approach]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05619</guid>
+      <title>KnowCoder-V2: Deep Knowledge Analysis</title>
+      <link>https://arxiv.org/abs/2506.06881</link>
+      <description>&lt;![CDATA[KnowCoder-V2: Deep Knowledge Analysis]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06881</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties</title>
-      <link>https://arxiv.org/abs/2506.05744</link>
-      <description>&lt;![CDATA[Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05744</guid>
+      <title>Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering</title>
+      <link>https://arxiv.org/abs/2506.06905</link>
+      <description>&lt;![CDATA[Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06905</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models</title>
-      <link>https://arxiv.org/abs/2506.05745</link>
-      <description>&lt;![CDATA[SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05745</guid>
+      <title>Causal Graph based Event Reasoning using Semantic Relation Experts</title>
+      <link>https://arxiv.org/abs/2506.06910</link>
+      <description>&lt;![CDATA[Causal Graph based Event Reasoning using Semantic Relation Experts]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06910</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Constrained Sampling for Language Models Should Be Easy: An MCMC Perspective</title>
-      <link>https://arxiv.org/abs/2506.05754</link>
-      <description>&lt;![CDATA[Constrained Sampling for Language Models Should Be Easy: An MCMC Perspective]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05754</guid>
+      <title>Boosting LLM Reasoning via Spontaneous Self-Correction</title>
+      <link>https://arxiv.org/abs/2506.06923</link>
+      <description>&lt;![CDATA[Boosting LLM Reasoning via Spontaneous Self-Correction]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06923</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction</title>
-      <link>https://arxiv.org/abs/2506.05810</link>
-      <description>&lt;![CDATA[Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05810</guid>
+      <title>An Agentic Framework for Autonomous Metamaterial Modeling and Inverse Design</title>
+      <link>https://arxiv.org/abs/2506.06935</link>
+      <description>&lt;![CDATA[An Agentic Framework for Autonomous Metamaterial Modeling and Inverse Design]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06935</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Explainability in Context: A Multilevel Framework Aligning AI Explanations with Stakeholder with LLMs</title>
-      <link>https://arxiv.org/abs/2506.05887</link>
-      <description>&lt;![CDATA[Explainability in Context: A Multilevel Framework Aligning AI Explanations with Stakeholder with LLMs]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05887</guid>
+      <title>The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity</title>
+      <link>https://arxiv.org/abs/2506.06941</link>
+      <description>&lt;![CDATA[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06941</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Proactive Assistant Dialogue Generation from Streaming Egocentric Videos</title>
-      <link>https://arxiv.org/abs/2506.05904</link>
-      <description>&lt;![CDATA[Proactive Assistant Dialogue Generation from Streaming Egocentric Videos]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05904</guid>
+      <title>Deontically Constrained Policy Improvement in Reinforcement Learning Agents</title>
+      <link>https://arxiv.org/abs/2506.06959</link>
+      <description>&lt;![CDATA[Deontically Constrained Policy Improvement in Reinforcement Learning Agents]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06959</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Preference Learning for AI Alignment: a Causal Perspective</title>
-      <link>https://arxiv.org/abs/2506.05967</link>
-      <description>&lt;![CDATA[Preference Learning for AI Alignment: a Causal Perspective]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05967</guid>
+      <title>Long-Tailed Learning for Generalized Category Discovery</title>
+      <link>https://arxiv.org/abs/2506.06965</link>
+      <description>&lt;![CDATA[Long-Tailed Learning for Generalized Category Discovery]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06965</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents</title>
-      <link>https://arxiv.org/abs/2506.05981</link>
-      <description>&lt;![CDATA[CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05981</guid>
+      <title>Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments</title>
+      <link>https://arxiv.org/abs/2506.06981</link>
+      <description>&lt;![CDATA[Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06981</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CP-Bench: Evaluating Large Language Models for Constraint Modelling</title>
-      <link>https://arxiv.org/abs/2506.06052</link>
-      <description>&lt;![CDATA[CP-Bench: Evaluating Large Language Models for Constraint Modelling]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06052</guid>
+      <title>Evaluating LLM-corrupted Crowdsourcing Data Without Ground Truth</title>
+      <link>https://arxiv.org/abs/2506.06991</link>
+      <description>&lt;![CDATA[Evaluating LLM-corrupted Crowdsourcing Data Without Ground Truth]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.06991</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Decomposability-Guaranteed Cooperative Coevolution for Large-Scale Itinerary Planning</title>
-      <link>https://arxiv.org/abs/2506.06121</link>
-      <description>&lt;![CDATA[Decomposability-Guaranteed Cooperative Coevolution for Large-Scale Itinerary Planning]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06121</guid>
+      <title>Mathesis: Towards Formal Theorem Proving from Natural Languages</title>
+      <link>https://arxiv.org/abs/2506.07047</link>
+      <description>&lt;![CDATA[Mathesis: Towards Formal Theorem Proving from Natural Languages]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07047</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Integer Linear Programming Preprocessing for Maximum Satisfiability</title>
-      <link>https://arxiv.org/abs/2506.06216</link>
-      <description>&lt;![CDATA[Integer Linear Programming Preprocessing for Maximum Satisfiability]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06216</guid>
+      <title>Reasoning Paths as Signals: Augmenting Multi-hop Fact Verification through Structural Reasoning Progression</title>
+      <link>https://arxiv.org/abs/2506.07075</link>
+      <description>&lt;![CDATA[Reasoning Paths as Signals: Augmenting Multi-hop Fact Verification through Structural Reasoning Progression]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07075</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time</title>
-      <link>https://arxiv.org/abs/2506.06254</link>
-      <description>&lt;![CDATA[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06254</guid>
+      <title>BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite</title>
+      <link>https://arxiv.org/abs/2506.07116</link>
+      <description>&lt;![CDATA[BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07116</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens</title>
-      <link>https://arxiv.org/abs/2506.06261</link>
-      <description>&lt;![CDATA[Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06261</guid>
+      <title>Translating Federated Learning Algorithms in Python into CSP Processes Using ChatGPT</title>
+      <link>https://arxiv.org/abs/2506.07173</link>
+      <description>&lt;![CDATA[Translating Federated Learning Algorithms in Python into CSP Processes Using ChatGPT]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07173</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Category Query Learning for Human-Object Interaction Classification</title>
-      <link>https://arxiv.org/abs/2303.14005</link>
-      <description>&lt;![CDATA[Category Query Learning for Human-Object Interaction Classification]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2303.14005</guid>
+      <title>Mitigating Behavioral Hallucination in Multimodal Large Language Models for Sequential Images</title>
+      <link>https://arxiv.org/abs/2506.07184</link>
+      <description>&lt;![CDATA[Mitigating Behavioral Hallucination in Multimodal Large Language Models for Sequential Images]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07184</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Towards provable probabilistic safety for scalable embodied AI systems</title>
-      <link>https://arxiv.org/abs/2506.05171</link>
-      <description>&lt;![CDATA[Towards provable probabilistic safety for scalable embodied AI systems]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05171</guid>
+      <title>Exploring Effective Strategies for Building a Customised GPT Agent for Coding Classroom Dialogues</title>
+      <link>https://arxiv.org/abs/2506.07194</link>
+      <description>&lt;![CDATA[Exploring Effective Strategies for Building a Customised GPT Agent for Coding Classroom Dialogues]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07194</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Infinite Time Turing Machines and their Applications</title>
-      <link>https://arxiv.org/abs/2506.05351</link>
-      <description>&lt;![CDATA[Infinite Time Turing Machines and their Applications]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05351</guid>
+      <title>Reasoning Multimodal Large Language Model: Data Contamination and Dynamic Evaluation</title>
+      <link>https://arxiv.org/abs/2506.07202</link>
+      <description>&lt;![CDATA[Reasoning Multimodal Large Language Model: Data Contamination and Dynamic Evaluation]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07202</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Can ChatGPT Perform Image Splicing Detection? A Preliminary Study</title>
-      <link>https://arxiv.org/abs/2506.05358</link>
-      <description>&lt;![CDATA[Can ChatGPT Perform Image Splicing Detection? A Preliminary Study]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05358</guid>
+      <title>BIMgent: Towards Autonomous Building Modeling via Computer-use Agents</title>
+      <link>https://arxiv.org/abs/2506.07217</link>
+      <description>&lt;![CDATA[BIMgent: Towards Autonomous Building Modeling via Computer-use Agents]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.07217</guid>
       <category>AI</category>
     </item>
   </channel>

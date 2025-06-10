@@ -2,7 +2,24 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 00:56
+**最后更新时间**: 2025-06-10 04:20
+
+---
+
+## 🆕 最新更新 (2025-06-10 04:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Big Money’ turns bullish on stocks. Will that lead the S&P 500 to a ‘melt up’?](https://www.marketwatch.com/story/big-money-turns-bullish-on-stocks-will-that-lead-the-s-p-500-to-a-melt-up-8086159d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 02:13
+
+#### [EToro wins analyst praise for user-friendly trading, but the stock gets mixed reviews](https://www.marketwatch.com/story/etoro-wins-analyst-praise-for-user-friendly-trading-but-the-stock-gets-mixed-reviews-2fb1c6e9?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 01:02
+
+#### [EchoStar may be considering this unusual way to protect itself from the government, and the stock is falling](https://www.marketwatch.com/story/echostar-may-be-considering-this-unusual-way-to-protect-itself-from-the-government-and-the-stock-is-falling-619196b4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 00:58
+
+#### [Warner Bros. Discovery’s rapid split shows how much the cable TV business is struggling](https://www.marketwatch.com/story/warner-bros-discovery-to-split-in-two-what-that-means-for-your-tv-channels-afa3a612?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 00:55
 
 ---
 

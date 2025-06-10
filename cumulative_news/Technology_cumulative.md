@@ -2,7 +2,117 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 00:56
+**最后更新时间**: 2025-06-10 04:20
+
+---
+
+## 🆕 最新更新 (2025-06-10 04:20)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从「互掐」到「牵手」，小鹏华为只为这块「屏」？​](http://www.geekpark.net/news/350229)
+**发布时间**: 2025-06-10 12:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国补的连环效应开始转向](https://www.tmtpost.com/7591750.html)
+**发布时间**: 2025-06-10 12:10
+
+#### [微软要做的智能体网络是什么](https://www.tmtpost.com/7592122.html)
+**发布时间**: 2025-06-10 11:50
+
+#### [港字号中高端酒店，全速俯冲“特许经营”？](https://www.tmtpost.com/7591438.html)
+**发布时间**: 2025-06-10 11:44
+
+#### [China's Gaokao Puts Domestic AI Models to the Test and Under Tight Control](https://www.tmtpost.com/7592139.html)
+**发布时间**: 2025-06-10 11:41
+
+#### [漩涡中的“硅王”合盛硅业](https://www.tmtpost.com/7592025.html)
+**发布时间**: 2025-06-10 11:22
+
+#### [红果开测“社区”功能，想造一个站内小红书？](https://www.tmtpost.com/7592057.html)
+**发布时间**: 2025-06-10 11:14
+
+#### [超越“猪王”“雪王”，80后王宁登顶河南新首富](https://www.tmtpost.com/7591743.html)
+**发布时间**: 2025-06-10 11:13
+
+#### [极核发布AE7、EZ4两款高性能电摩，预计全年整体销量突破60万台 | 科技前线](https://www.tmtpost.com/7592043.html)
+**发布时间**: 2025-06-10 11:12
+
+#### [Microsoft's Mass Layoffs Spark Anxiety Over Mental Health in an AI Era](https://www.tmtpost.com/7592070.html)
+**发布时间**: 2025-06-10 11:02
+
+#### [U.S.-China Trade Talks to Extend to Second Day](https://www.tmtpost.com/7592064.html)
+**发布时间**: 2025-06-10 11:01
+
+#### [广告业又开始反腐了，媒介返点制该不该取消？](https://www.tmtpost.com/7591554.html)
+**发布时间**: 2025-06-10 10:00
+
+#### [友谊时光股价飙升，永恒的派对游戏](https://www.tmtpost.com/7591644.html)
+**发布时间**: 2025-06-10 09:30
+
+#### [1159 亿！海光信息吸并中科曙光方案落地，信创ETF遭66亿资金抢筹](https://www.tmtpost.com/7591952.html)
+**发布时间**: 2025-06-10 09:27
+
+#### [老将出海，不走捷径：长安汽车的欧洲破局战](https://www.tmtpost.com/7591770.html)
+**发布时间**: 2025-06-10 09:13
+
+#### [中科曙光、海光信息今起复牌，深度剖析A股首例千亿“子吞母”AI算力并购案](https://www.tmtpost.com/7591749.html)
+**发布时间**: 2025-06-10 09:01
+
+#### [酒店介入Z世代“深度旅游”，美团“住宿+ ”带来文旅消费新增长](https://www.tmtpost.com/7590934.html)
+**发布时间**: 2025-06-10 08:56
+
+#### [小红书开源1420亿参数大模型，部分性能与阿里Qwen3模型相当](https://www.tmtpost.com/7591696.html)
+**发布时间**: 2025-06-10 08:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [硅基流动创始人&CEO袁进辉确认出席AICon北京站，分享AI-Native Cloud 构建之路与展望](https://www.infoq.cn/article/WilMQUk6GSWm3HroirdC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 12:00
+
+#### [Meta有史以来最大投资将诞生？100亿美元或砸向数据标注独角兽Scale AI](https://www.infoq.cn/article/Eq0gRXtjUqcVwNsBFKf5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 11:54
+
+#### [4 年融 1 亿美金，ProtonBase 王绍翾揭秘 Data Warebase 核心技术](https://www.infoq.cn/article/Wh6yRWVZGBhMw9dBCVGI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 11:30
+
+#### [Amazon Aurora DSQL正式版本发布：分布式、兼容PostgreSQL的无服务器数据库](https://www.infoq.cn/article/yxeWtzD0sa2eNk3WSrQU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 11:17
+
+#### [专访小质科技 | ProtonBase 这匹“黑马” 如何搅动数据库市场？](https://www.infoq.cn/video/x6VKDSp1VSkrZ20KT0cV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 11:08
+
+#### [CangjieMagic：基于仓颉语言的Agent开发框架实践｜AICon北京](https://www.infoq.cn/article/wf1qpsTCb5eHSX3arkpW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 10:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：WWDC25 举行首场发布会，Linux 6.16-rc1 上线等](https://sspai.com/post/100068)
+**发布时间**: 2025-06-10 07:59
+
+#### [WWDC25 开幕式回顾：全新 Liquid Glass 设计，还有这些亮点](https://sspai.com/post/100065)
+**发布时间**: 2025-06-10 06:18
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/)
+**发布时间**: 2025-06-10 02:11
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [A day of LA anti-ICE protests in photos](https://www.theverge.com/policy/683824/los-angeles-ice-union-protest-photos)
+**发布时间**: 2025-06-10 02:03
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从千禾0酱油到白象多半袋面，心机商标为何防不胜防？](http://www.huxiu.com/article/4434667.html?f=wangzhan)
+**发布时间**: 2025-06-09 11:25
+
+#### [Circle上市，稳定币时代加速到来](http://www.huxiu.com/article/4431848.html?f=wangzhan)
+**发布时间**: 2025-06-09 10:50
+
+#### [LABUBU“一娃难求”，爆火的背后藏着什么秘密？](http://www.huxiu.com/article/4432887.html?f=wangzhan)
+**发布时间**: 2025-06-08 22:00
 
 ---
 
