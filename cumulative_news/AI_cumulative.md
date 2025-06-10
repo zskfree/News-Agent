@@ -2,7 +2,49 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-09 12:26
+**最后更新时间**: 2025-06-10 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-10 00:56)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI-enabled control system helps autonomous drones stay on target in uncertain environments](https://news.mit.edu/2025/ai-enabled-control-system-helps-autonomous-drones-uncertain-environments-0609)
+**发布时间**: 2025-06-09 16:40
+
+#### [Envisioning a future where health care tech leaves some behind](https://news.mit.edu/2025/envisioning-future-where-health-care-tech-leaves-some-behind-0609)
+**发布时间**: 2025-06-09 16:10
+
+#### [Helping machines understand visual content with AI](https://news.mit.edu/2025/coactive-helps-machines-understand-visual-content-ai-0609)
+**发布时间**: 2025-06-09 15:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [给大模型装上「思维分段引擎」：浙大InftyThink解锁无限深度推理](https://www.qbitai.com/2025/06/292169.html)
+**发布时间**: 2025-06-09 15:19
+
+#### [首创像素空间推理，7B模型领先GPT-4o，让VLM能像人类一样「眼脑并用」](https://www.qbitai.com/2025/06/292105.html)
+**发布时间**: 2025-06-09 09:55
+
+#### [打破跨模态干扰，快手东北大学联合提出统一多模态框架，横扫多模态检索基准](https://www.qbitai.com/2025/06/292027.html)
+**发布时间**: 2025-06-09 09:47
+
+#### [吉利炮轰“常压油箱”，比亚迪回应：浙江某车企也在用](https://www.qbitai.com/2025/06/292000.html)
+**发布时间**: 2025-06-09 08:57
+
+#### [太逼真！豆包·播客模型来了：一句话生成「苏超联赛」播客，很懂13太保的梗](https://www.qbitai.com/2025/06/291969.html)
+**发布时间**: 2025-06-09 08:36
+
+#### [AI七个月突破数学家“围剿”反超人类！14位数学家深挖原始推理token：不靠死记硬背靠直觉](https://www.qbitai.com/2025/06/291960.html)
+**发布时间**: 2025-06-09 08:34
+
+#### [商汤小浣熊牵手蚂蚁百宝箱，共建AI+数据分析方案](https://www.qbitai.com/2025/06/291939.html)
+**发布时间**: 2025-06-09 08:03
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: an inspiring toy robot arm, and why AM radio matters](https://www.technologyreview.com/2025/06/09/1118186/the-download-an-inspiring-toy-robot-arm-and-why-am-radio-matters/)
+**发布时间**: 2025-06-09 12:10
 
 ---
 

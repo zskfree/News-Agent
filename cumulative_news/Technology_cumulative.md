@@ -2,7 +2,124 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-09 12:26
+**最后更新时间**: 2025-06-10 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-10 00:56)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果 iOS26 正式发布；余承东晒华为 Pura 80 Pro 真机；泡泡玛特否认进军 AI 玩具](http://www.geekpark.net/news/350209)
+**发布时间**: 2025-06-10 08:41
+
+#### [时隔十三年的全新 UI，以及更低调但随处可见的  AI｜ 苹果 WWDC2025 亮点汇总](http://www.geekpark.net/news/350211)
+**发布时间**: 2025-06-10 05:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [和货拉拉关系密切的「网约车界拼多多」小拉出行火了，滴滴们感受到压力了吗？](https://www.tmtpost.com/7591484.html)
+**发布时间**: 2025-06-10 08:30
+
+#### [钛媒体科股早知道：该产业市场规模庞大，正成为经济发展的重要推动力](https://www.tmtpost.com/7591835.html)
+**发布时间**: 2025-06-10 08:00
+
+#### [【钛晨报】事关社保、教育、医疗、养老等，“民生10条”重磅发布；海光信息拟1160亿元换股吸收合并中科曙光；今起星巴克三大王牌品类集体降价](https://www.tmtpost.com/7591665.html)
+**发布时间**: 2025-06-10 07:20
+
+#### [苹果革新与务实下的新思考：UI更透明，AI更具象 | WWDC 25](https://www.tmtpost.com/7591809.html)
+**发布时间**: 2025-06-10 06:17
+
+#### [微软3名员工被曝因全球大裁员自杀，AI导致“人工智残”或影响就业和社会秩序](https://www.tmtpost.com/7591072.html)
+**发布时间**: 2025-06-09 20:47
+
+#### [杰创智能：巧用“省钱术”节余亿元募投资金，转型焦虑下重仓算力租赁](https://www.tmtpost.com/7591322.html)
+**发布时间**: 2025-06-09 20:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [基于Rust的嵌入式Vite替代品发布，早期采用者称速度提升10倍](https://www.infoq.cn/article/wgO52Ihhg8rX5ZBey3Zc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-10 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一图流 | WWDC25 开幕式回顾](https://sspai.com/post/100067)
+**发布时间**: 2025-06-10 06:41
+
+#### [WWDC25 开幕式回顾：除了 Liquid Glass 的新设计，首场发布会还有这些亮点](https://sspai.com/post/100065)
+**发布时间**: 2025-06-10 06:18
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [WWDC 2025: all the news from Apple&#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+**发布时间**: 2025-06-10 00:39
+
+#### [Apple&#8217;s Liquid Glass was a wild change to my iPhone](https://www.theverge.com/apple/683914/apple-iphone-ios-26-changes-liquid-glass)
+**发布时间**: 2025-06-10 00:03
+
+#### [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)
+**发布时间**: 2025-06-09 22:31
+
+#### [Apple’s big updates for Intel-based Macs will end with Tahoe](https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu)
+**发布时间**: 2025-06-09 22:13
+
+#### [You can now try Microsoft’s new Start menu for Windows 11](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)
+**发布时间**: 2025-06-09 22:03
+
+#### [Apple punts on Siri updates as it struggles to keep up in the AI race](https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race)
+**发布时间**: 2025-06-09 22:02
+
+#### [iOS 26’s new ‘adaptive power’ mode dials back performance to save battery](https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery)
+**发布时间**: 2025-06-09 21:30
+
+#### [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
+**发布时间**: 2025-06-09 20:50
+
+#### [Retroid&#8217;s $69 second screen is ready for your favorite DS games](https://www.theverge.com/news/683635/retroid-pocket-dual-screen-add-on-nintendo-ds-touchscreen)
+**发布时间**: 2025-06-09 20:48
+
+#### [Predator: Killer of Killers is a short and sweet joyride through the franchise&#8217;s secret past](https://www.theverge.com/movie-reviews/682832/predator-killer-of-killers-review-hulu)
+**发布时间**: 2025-06-09 20:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Apple Is Pushing AI Into More of Its Products—but Still Lacks a State-of-the-Art Model](https://www.wired.com/story/apple-wwdc-ai-announcements/)
+**发布时间**: 2025-06-10 00:22
+
+#### [We've Finally Reached the End of the Road for Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)
+**发布时间**: 2025-06-09 23:14
+
+#### [The iPad Is a Full-On Computer Now](https://www.wired.com/story/the-ipad-is-a-full-on-computer-now/)
+**发布时间**: 2025-06-09 22:59
+
+#### [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)
+**发布时间**: 2025-06-09 22:42
+
+#### [Everything Apple Announced at WWDC 2025](https://www.wired.com/story/everything-apple-announced-at-wwdc-2025/)
+**发布时间**: 2025-06-09 21:03
+
+#### [Microsoft Finally Gets Into the Handheld Game With ROG Xbox Ally](https://www.wired.com/story/microsoft-finally-gets-into-the-handheld-game-with-rog-xbox-ally/)
+**发布时间**: 2025-06-09 20:47
+
+#### [One, Big, Beautiful Breakup](https://www.wired.com/story/uncannny-valley-podcast-one-big-beautiful-breakup/)
+**发布时间**: 2025-06-09 19:56
+
+#### [The Trump Administration Is Turning ICE Raids and Protests Into Reality TV](https://www.wired.com/story/reality-tv-dr-phil-ice-raids-protests-los-angeles/)
+**发布时间**: 2025-06-09 18:44
+
+#### [The Bleach Community Is Ready for RFK Jr. to Make Their Dreams Come True](https://www.wired.com/story/chlorine-dioxide-bleach-mms-autism-rfk-fda-warning/)
+**发布时间**: 2025-06-09 17:57
+
+#### [Why Silicon Valley Needs Immigration](https://www.wired.com/story/uncanny-valley-podcast-why-silicon-valley-needs-immigration/)
+**发布时间**: 2025-06-09 17:12
+
+#### [A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account](https://www.wired.com/story/a-researcher-figured-out-how-to-reveal-any-phone-number-linked-to-a-google-account/)
+**发布时间**: 2025-06-09 14:00
+
+#### [Typhur Dome 2 Review (2025): Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)
+**发布时间**: 2025-06-09 13:04
+
+#### [It’s Time to Kill Siri](https://www.wired.com/story/its-time-to-kill-siri/)
+**发布时间**: 2025-06-09 11:09
 
 ---
 

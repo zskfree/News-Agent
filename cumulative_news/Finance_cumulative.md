@@ -2,7 +2,68 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-09 12:26
+**最后更新时间**: 2025-06-10 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-10 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Burned by Robinhood not making the S&P 500? Here’s how you can make money the next time this happens.](https://www.marketwatch.com/story/burned-by-robinhood-not-making-the-s-p-500-heres-how-you-can-make-money-the-next-time-this-happens-5e1641b3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 00:48
+
+#### [DOGE’s expanded Social Security access raises fresh privacy fears: ‘The stakes are very high’](https://www.marketwatch.com/story/doges-expanded-social-security-access-raises-fresh-privacy-fears-the-stakes-are-very-high-831ef1b8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 22:06
+
+#### [This investment turned $50,000 into $23 million in 10 years. It’s still a buy.](https://www.marketwatch.com/story/this-investment-turned-50-000-into-23-million-in-10-years-heres-why-its-still-a-buy-3678dab2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 21:31
+
+#### [My local restaurant charges a 5% container charge and 3% kitchen-service fee. Is this nuts?](https://www.marketwatch.com/story/things-are-going-loco-my-local-restaurant-charges-a-5-container-fee-and-3-kitchen-service-charge-is-this-nuts-15b88f15?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 21:18
+
+#### [Trump and Elon Musk’s social-media mudslinging offers a lesson for all of us](https://www.marketwatch.com/story/trump-and-elon-musks-social-media-mudslinging-offers-a-lesson-for-all-of-us-3c50b667?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 20:54
+
+#### [OpenAI could be worth trillions of dollars one day, these analysts say. Here’s what that means for rivals.](https://www.marketwatch.com/story/openai-could-be-worth-trillions-of-dollars-one-day-these-analysts-say-heres-what-that-means-for-rivals-4316b917?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 20:50
+
+#### [Why one Wall Street analyst sees a major opportunity in unloved small-cap stocks](https://www.marketwatch.com/story/why-one-wall-street-analyst-sees-a-major-opportunity-in-unloved-small-cap-stocks-a857cebe?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 20:46
+
+#### [‘It might be another Apple or Microsoft’: My wife invested $100K in one stock and it exploded 1,500%. Do we sell?](https://www.marketwatch.com/story/it-might-be-another-apple-or-microsoft-my-wife-invested-100k-in-one-stock-and-it-exploded-1-500-do-we-sell-92c72bf7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-09 20:40
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [DOGE’s expanded Social Security access raises fresh privacy fears](https://www.marketwatch.com/bulletins/redirect/go?g=f5090d70-c9d0-4dca-ba71-122151cec308&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 22:12
+
+#### [Why this trader says stocks could continue to do well for months](https://www.marketwatch.com/bulletins/redirect/go?g=a776a952-0916-4e69-906c-0572b70208ab&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 20:50
+
+#### [Don’t just ride out 2025 financial uncertainty — adapt to it. Here's how.](https://www.marketwatch.com/bulletins/redirect/go?g=90eb6165-151b-4fb7-8adc-dfc9baff4969&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 20:23
+
+#### [U.S. stocks end mostly higher as investors await details of U.S.-China talks](https://www.marketwatch.com/bulletins/redirect/go?g=e9619d4d-71f5-4edc-94c4-f0b2a5efcf86&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 20:03
+
+#### [How L.A. protests over immigration raids could help Trump pass his megabill](https://www.marketwatch.com/bulletins/redirect/go?g=3d677730-3bfe-430f-8866-d2df7da71e23&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 19:42
+
+#### [Apple’s intraday slump suggests investors unwowed by features rolled out at WWDC](https://www.marketwatch.com/bulletins/redirect/go?g=f02ac6e7-f62d-40c2-ae57-58b92cb3351c&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 18:56
+
+#### [The L.A. protests over immigration raids could actually help Trump. Here's how.](https://www.marketwatch.com/bulletins/redirect/go?g=828cff0b-bbc4-4d88-a0d4-a0d81ee0393b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 17:54
+
+#### [AI has been a drag on Apple stock. That’ll be one topic at WWDC. Keynote on tap.](https://www.marketwatch.com/bulletins/redirect/go?g=a7548ccc-c1c0-4934-b254-0d25e28cc58e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 15:36
+
+#### [RBC’s senior U.S. economist shares his current outlook — live at noon](https://www.marketwatch.com/bulletins/redirect/go?g=bd3759a4-c4f5-4ebe-992c-92aed86acbdf&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 15:05
+
+#### [S&P 500 holding firm above 6,000 mark early Monday — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=1d94c223-3e5a-4746-9d27-6a07a33c795e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-09 14:03
 
 ---
 

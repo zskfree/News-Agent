@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Jun 2025 12:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Jun 2025 12:26:50 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 00:56:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI-enabled control system helps autonomous drones stay on target in uncertain environments</title>
+      <link>https://news.mit.edu/2025/ai-enabled-control-system-helps-autonomous-drones-uncertain-environments-0609</link>
+      <description>&lt;![CDATA[AI-enabled control system helps autonomous drones stay on target in uncertain environments]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-enabled-control-system-helps-autonomous-drones-uncertain-environments-0609</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Envisioning a future where health care tech leaves some behind</title>
+      <link>https://news.mit.edu/2025/envisioning-future-where-health-care-tech-leaves-some-behind-0609</link>
+      <description>&lt;![CDATA[Envisioning a future where health care tech leaves some behind]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/envisioning-future-where-health-care-tech-leaves-some-behind-0609</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Helping machines understand visual content with AI</title>
+      <link>https://news.mit.edu/2025/coactive-helps-machines-understand-visual-content-ai-0609</link>
+      <description>&lt;![CDATA[Helping machines understand visual content with AI]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/coactive-helps-machines-understand-visual-content-ai-0609</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>给大模型装上「思维分段引擎」：浙大InftyThink解锁无限深度推理</title>
+      <link>https://www.qbitai.com/2025/06/292169.html</link>
+      <description>&lt;![CDATA[给大模型装上「思维分段引擎」：浙大InftyThink解锁无限深度推理]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 15:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292169.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首创像素空间推理，7B模型领先GPT-4o，让VLM能像人类一样「眼脑并用」</title>
+      <link>https://www.qbitai.com/2025/06/292105.html</link>
+      <description>&lt;![CDATA[首创像素空间推理，7B模型领先GPT-4o，让VLM能像人类一样「眼脑并用」]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292105.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>打破跨模态干扰，快手东北大学联合提出统一多模态框架，横扫多模态检索基准</title>
+      <link>https://www.qbitai.com/2025/06/292027.html</link>
+      <description>&lt;![CDATA[打破跨模态干扰，快手东北大学联合提出统一多模态框架，横扫多模态检索基准]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292027.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>吉利炮轰“常压油箱”，比亚迪回应：浙江某车企也在用</title>
+      <link>https://www.qbitai.com/2025/06/292000.html</link>
+      <description>&lt;![CDATA[吉利炮轰“常压油箱”，比亚迪回应：浙江某车企也在用]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292000.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>太逼真！豆包·播客模型来了：一句话生成「苏超联赛」播客，很懂13太保的梗</title>
+      <link>https://www.qbitai.com/2025/06/291969.html</link>
+      <description>&lt;![CDATA[太逼真！豆包·播客模型来了：一句话生成「苏超联赛」播客，很懂13太保的梗]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291969.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI七个月突破数学家“围剿”反超人类！14位数学家深挖原始推理token：不靠死记硬背靠直觉</title>
+      <link>https://www.qbitai.com/2025/06/291960.html</link>
+      <description>&lt;![CDATA[AI七个月突破数学家“围剿”反超人类！14位数学家深挖原始推理token：不靠死记硬背靠直觉]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 08:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291960.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>商汤小浣熊牵手蚂蚁百宝箱，共建AI+数据分析方案</title>
+      <link>https://www.qbitai.com/2025/06/291939.html</link>
+      <description>&lt;![CDATA[商汤小浣熊牵手蚂蚁百宝箱，共建AI+数据分析方案]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 08:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/291939.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: an inspiring toy robot arm, and why AM radio matters</title>
+      <link>https://www.technologyreview.com/2025/06/09/1118186/the-download-an-inspiring-toy-robot-arm-and-why-am-radio-matters/</link>
+      <description>&lt;![CDATA[The Download: an inspiring toy robot arm, and why AM radio matters]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/09/1118186/the-download-an-inspiring-toy-robot-arm-and-why-am-radio-matters/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>开启端侧长文本时代！面壁全新架构，让小钢炮最快提升220倍</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-09-11</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[Can ChatGPT Perform Image Splicing Detection? A Preliminary Study]]&gt;</description>
       <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.05358</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Speaking images. A novel framework for the automated self-description of artworks</title>
-      <link>https://arxiv.org/abs/2506.05368</link>
-      <description>&lt;![CDATA[Speaking images. A novel framework for the automated self-description of artworks]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05368</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Red Teaming Roadmap Towards System-Level Safety</title>
-      <link>https://arxiv.org/abs/2506.05376</link>
-      <description>&lt;![CDATA[A Red Teaming Roadmap Towards System-Level Safety]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05376</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Designing DSIC Mechanisms for Data Sharing in the Era of Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.05379</link>
-      <description>&lt;![CDATA[Designing DSIC Mechanisms for Data Sharing in the Era of Large Language Models]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05379</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>How stealthy is stealthy? Studying the Efficacy of Black-Box Adversarial Attacks in the Real World</title>
-      <link>https://arxiv.org/abs/2506.05382</link>
-      <description>&lt;![CDATA[How stealthy is stealthy? Studying the Efficacy of Black-Box Adversarial Attacks in the Real World]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05382</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Q-Ponder: A Unified Training Pipeline for Reasoning-based Visual Quality Assessment</title>
-      <link>https://arxiv.org/abs/2506.05384</link>
-      <description>&lt;![CDATA[Q-Ponder: A Unified Training Pipeline for Reasoning-based Visual Quality Assessment]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05384</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond RAG: Reinforced Reasoning Augmented Generation for Clinical Notes</title>
-      <link>https://arxiv.org/abs/2506.05386</link>
-      <description>&lt;![CDATA[Beyond RAG: Reinforced Reasoning Augmented Generation for Clinical Notes]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05386</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Advancing Decoding Strategies: Enhancements in Locally Typical Sampling for LLMs</title>
-      <link>https://arxiv.org/abs/2506.05387</link>
-      <description>&lt;![CDATA[Advancing Decoding Strategies: Enhancements in Locally Typical Sampling for LLMs]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05387</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Gen4D: Synthesizing Humans and Scenes in the Wild</title>
-      <link>https://arxiv.org/abs/2506.05397</link>
-      <description>&lt;![CDATA[Gen4D: Synthesizing Humans and Scenes in the Wild]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05397</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation</title>
-      <link>https://arxiv.org/abs/2506.05399</link>
-      <description>&lt;![CDATA[Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05399</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AD-EE: Early Exiting for Fast and Reliable Vision-Language Models in Autonomous Driving</title>
-      <link>https://arxiv.org/abs/2506.05404</link>
-      <description>&lt;![CDATA[AD-EE: Early Exiting for Fast and Reliable Vision-Language Models in Autonomous Driving]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05404</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs</title>
-      <link>https://arxiv.org/abs/2506.05413</link>
-      <description>&lt;![CDATA[SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05413</guid>
       <category>AI</category>
     </item>
   </channel>
