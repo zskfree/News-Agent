@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 08:16
+**最后更新时间**: 2025-06-10 12:24
+
+---
+
+## 🆕 最新更新 (2025-06-10 12:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A rare space IPO is on deck. It could herald a wave of space-tech companies going public.](https://www.marketwatch.com/story/a-rare-space-ipo-is-on-deck-it-could-herald-a-wave-of-space-tech-companies-going-public-565e2fa1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 12:18
+
+#### [Two big ways Trump’s plans for Fannie Mae and Freddie Mac could cost home buyers](https://www.marketwatch.com/story/two-big-ways-trumps-plans-for-fannie-mae-and-freddie-mac-could-cost-home-buyers-2f126a44?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 12:00
+
+#### [Fund manager who sold Tesla, just in time, says investors are overlooking these tech bargains](https://www.marketwatch.com/story/fund-manager-who-sold-tesla-just-in-time-says-investors-are-overlooking-these-tech-bargains-3cc91ad2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 11:16
+
+#### [Gold and the S&P 500 are chasing record highs at the same time. Here’s why that’s so rare.](https://www.marketwatch.com/story/gold-and-the-s-p-500-are-chasing-record-highs-at-the-same-time-heres-why-thats-so-rare-b38387ae?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 11:00
+
+#### [Self-driving cars are coming to London as Uber announces pilot program](https://www.marketwatch.com/story/self-driving-cars-are-coming-to-london-as-uber-announces-pilot-program-de181103?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 10:10
+
+#### [April was a V-shaped stock-market recovery for the ages — but they’re still quite rare](https://www.marketwatch.com/story/april-was-a-v-shaped-stock-market-recovery-for-the-ages-but-theyre-still-quite-rare-1d7335ef?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 09:53
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Inflation updates stand out among upcoming data reports](https://www.marketwatch.com/bulletins/redirect/go?g=ad390c27-0463-42ad-9390-467df28030a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 11:55
+
+#### [Self-driving cars are coming to the maze of streets of London, Uber says](https://www.marketwatch.com/bulletins/redirect/go?g=8e8e10d4-a1c4-478a-bb66-d4b5d0716570&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 10:19
+
+#### [UBS stock slumps after three-day break on $26 bln capital raise rules](https://www.marketwatch.com/bulletins/redirect/go?g=dc89727a-83f1-44b9-947e-926b288fdb2e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 08:53
+
+#### [U.K. labor market has closely tracked the U.S. market -- and now it's worsening](https://www.marketwatch.com/bulletins/redirect/go?g=4687a8b3-2ff4-4231-bee8-ce566c36e683&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 08:19
 
 ---
 

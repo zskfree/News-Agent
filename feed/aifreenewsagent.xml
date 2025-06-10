@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Jun 2025 08:16:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 08:16:43 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 12:24:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>李飞飞团队新作：DiT不训练直接改架构，模型深度减半，质量还提高了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-11</link>
+      <description>&lt;![CDATA[李飞飞团队新作：DiT不训练直接改架构，模型深度减半，质量还提高了]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>扩散语言模型真的会比自回归好？理论分析结果可能恰恰相反</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-10</link>
+      <description>&lt;![CDATA[扩散语言模型真的会比自回归好？理论分析结果可能恰恰相反]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一个md文件收获超400 star，这份综述分四大范式全面解析了3D场景生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-9</link>
+      <description>&lt;![CDATA[一个md文件收获超400 star，这份综述分四大范式全面解析了3D场景生成]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>强化学习之父：LLM主导只是暂时，扩展计算才是正解</title>
+      <link>https://www.qbitai.com/2025/06/292715.html</link>
+      <description>&lt;![CDATA[强化学习之父：LLM主导只是暂时，扩展计算才是正解]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292715.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>蚂蚁数科加速推进AI战略，设立“AI+产业创新”实验室</title>
+      <link>https://www.qbitai.com/2025/06/292710.html</link>
+      <description>&lt;![CDATA[蚂蚁数科加速推进AI战略，设立“AI+产业创新”实验室]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292710.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>爱簿智能推出E300 AI计算模组：50TOPS国产算力，赋能边缘AI全场景高效部署</title>
+      <link>https://www.qbitai.com/2025/06/292704.html</link>
+      <description>&lt;![CDATA[爱簿智能推出E300 AI计算模组：50TOPS国产算力，赋能边缘AI全场景高效部署]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292704.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>60%情况下主流大模型没理解风险只是装懂！别被“安全答案”骗了</title>
+      <link>https://www.qbitai.com/2025/06/292582.html</link>
+      <description>&lt;![CDATA[60%情况下主流大模型没理解风险只是装懂！别被“安全答案”骗了]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292582.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>不是视频模型“学习”慢，而是LLM走捷径｜18万引大牛Sergey Levine</title>
+      <link>https://www.qbitai.com/2025/06/292647.html</link>
+      <description>&lt;![CDATA[不是视频模型“学习”慢，而是LLM走捷径｜18万引大牛Sergey Levine]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 09:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292647.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>0.5B以小搏大拿下端侧模型新SOTA：4090可跑，长文本处理5倍常规加速丨清华&amp;面壁开源</title>
+      <link>https://www.qbitai.com/2025/06/292581.html</link>
+      <description>&lt;![CDATA[0.5B以小搏大拿下端侧模型新SOTA：4090可跑，长文本处理5倍常规加速丨清华&amp;面壁开源]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 07:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292581.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>IBM aims to build the world’s first large-scale, error-corrected quantum computer by 2028</title>
+      <link>https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/</link>
+      <description>&lt;![CDATA[IBM aims to build the world’s first large-scale, error-corrected quantum computer by 2028]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Pentagon is gutting the team that tests AI and weapons systems</title>
+      <link>https://www.technologyreview.com/2025/06/10/1118229/pentagon-gutting-ai-test/</link>
+      <description>&lt;![CDATA[The Pentagon is gutting the team that tests AI and weapons systems]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/10/1118229/pentagon-gutting-ai-test/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>淘宝获2025年度苹果设计大奖 国内互联网平台首个</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-10-8</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules]]&gt;</description>
       <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.06750</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning What Matters Now: A Dual-Critic Context-Aware RL Framework for Priority-Driven Information Gain</title>
-      <link>https://arxiv.org/abs/2506.06786</link>
-      <description>&lt;![CDATA[Learning What Matters Now: A Dual-Critic Context-Aware RL Framework for Priority-Driven Information Gain]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06786</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Cross-Entropy Games for Language Models: From Implicit Knowledge to General Capability Measures</title>
-      <link>https://arxiv.org/abs/2506.06832</link>
-      <description>&lt;![CDATA[Cross-Entropy Games for Language Models: From Implicit Knowledge to General Capability Measures]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06832</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>United Minds or Isolated Agents? Exploring Coordination of LLMs under Cognitive Load Theory</title>
-      <link>https://arxiv.org/abs/2506.06843</link>
-      <description>&lt;![CDATA[United Minds or Isolated Agents? Exploring Coordination of LLMs under Cognitive Load Theory]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06843</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Incorporating Failure of Machine Learning in Dynamic Probabilistic Safety Assurance</title>
-      <link>https://arxiv.org/abs/2506.06868</link>
-      <description>&lt;![CDATA[Incorporating Failure of Machine Learning in Dynamic Probabilistic Safety Assurance]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06868</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>KnowCoder-V2: Deep Knowledge Analysis</title>
-      <link>https://arxiv.org/abs/2506.06881</link>
-      <description>&lt;![CDATA[KnowCoder-V2: Deep Knowledge Analysis]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06881</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering</title>
-      <link>https://arxiv.org/abs/2506.06905</link>
-      <description>&lt;![CDATA[Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06905</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Causal Graph based Event Reasoning using Semantic Relation Experts</title>
-      <link>https://arxiv.org/abs/2506.06910</link>
-      <description>&lt;![CDATA[Causal Graph based Event Reasoning using Semantic Relation Experts]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06910</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Boosting LLM Reasoning via Spontaneous Self-Correction</title>
-      <link>https://arxiv.org/abs/2506.06923</link>
-      <description>&lt;![CDATA[Boosting LLM Reasoning via Spontaneous Self-Correction]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06923</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An Agentic Framework for Autonomous Metamaterial Modeling and Inverse Design</title>
-      <link>https://arxiv.org/abs/2506.06935</link>
-      <description>&lt;![CDATA[An Agentic Framework for Autonomous Metamaterial Modeling and Inverse Design]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06935</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity</title>
-      <link>https://arxiv.org/abs/2506.06941</link>
-      <description>&lt;![CDATA[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06941</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Deontically Constrained Policy Improvement in Reinforcement Learning Agents</title>
-      <link>https://arxiv.org/abs/2506.06959</link>
-      <description>&lt;![CDATA[Deontically Constrained Policy Improvement in Reinforcement Learning Agents]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06959</guid>
       <category>AI</category>
     </item>
   </channel>
