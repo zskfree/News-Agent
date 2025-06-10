@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 04:20:57 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 08:16:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Canary in the coal mine? The U.K. labor market has closely tracked the U.S. — and now it’s weakening</title>
+      <link>https://www.marketwatch.com/story/canary-in-the-coal-mine-the-u-k-labor-market-has-closely-tracked-the-u-s-and-now-its-weakening-4808a2bc?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Canary in the coal mine? The U.K. labor market has closely tracked the U.S. — and now it’s weakening]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 08:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/canary-in-the-coal-mine-the-u-k-labor-market-has-closely-tracked-the-u-s-and-now-its-weakening-4808a2bc?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>‘Big Money’ turns bullish on stocks. Will that lead the S&amp;P 500 to a ‘melt up’?</title>
       <link>https://www.marketwatch.com/story/big-money-turns-bullish-on-stocks-will-that-lead-the-s-p-500-to-a-melt-up-8086159d?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Winnebago says job cuts are coming. Why Trump’s tariffs can be blamed.]]&gt;</description>
       <pubDate>Fri, 06 Jun 2025 00:14:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/winnebago-says-job-cuts-are-coming-why-trumps-tariffs-can-be-blamed-c6fbc6a0?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Broadcom’s stock cools off even as earnings show robust AI demand</title>
-      <link>https://www.marketwatch.com/story/broadcoms-stock-cools-off-even-as-earnings-show-robust-ai-demand-f11407f0?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Broadcom’s stock cools off even as earnings show robust AI demand]]&gt;</description>
-      <pubDate>Fri, 06 Jun 2025 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/broadcoms-stock-cools-off-even-as-earnings-show-robust-ai-demand-f11407f0?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

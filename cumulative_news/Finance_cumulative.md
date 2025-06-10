@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 04:20
+**最后更新时间**: 2025-06-10 08:16
+
+---
+
+## 🆕 最新更新 (2025-06-10 08:16)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Canary in the coal mine? The U.K. labor market has closely tracked the U.S. — and now it’s weakening](https://www.marketwatch.com/story/canary-in-the-coal-mine-the-u-k-labor-market-has-closely-tracked-the-u-s-and-now-its-weakening-4808a2bc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 08:04
 
 ---
 

@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 04:20:57 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 08:16:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>淘宝获2025年度苹果设计大奖 国内互联网平台首个</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-8</link>
+      <description>&lt;![CDATA[淘宝获2025年度苹果设计大奖 国内互联网平台首个]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 15:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>不懂编程也可使用，能生成协同自驱动实验室的简易操作界面，开源协调器IvoryOS</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-7</link>
+      <description>&lt;![CDATA[不懂编程也可使用，能生成协同自驱动实验室的简易操作界面，开源协调器IvoryOS]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 14:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 抗体、多肽、小分子，一网打尽：UniMoMo基于隐空间扩散模型统一生成靶向药物分子</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-6</link>
+      <description>&lt;![CDATA[ICML 2025 | 抗体、多肽、小分子，一网打尽：UniMoMo基于隐空间扩散模型统一生成靶向药物分子]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 14:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型是「躲在洞穴里」观察世界？ 强化学习大佬「吹哨」提醒LLM致命缺点</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-5</link>
+      <description>&lt;![CDATA[大模型是「躲在洞穴里」观察世界？ 强化学习大佬「吹哨」提醒LLM致命缺点]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一块4090搞定实时视频生成！Adobe黑科技来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-4</link>
+      <description>&lt;![CDATA[一块4090搞定实时视频生成！Adobe黑科技来了]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>视频生成1.3B碾压14B、图像生成直逼GPT-4o！港科&amp;快手开源测试时扩展新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-10-3</link>
+      <description>&lt;![CDATA[视频生成1.3B碾压14B、图像生成直逼GPT-4o！港科&amp;快手开源测试时扩展新范式]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 12:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-10-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>北大伯克利联手“拷问”大模型：最强Agent也才40分！新基准专治“不听话”的AI分析师</title>
+      <link>https://www.qbitai.com/2025/06/292553.html</link>
+      <description>&lt;![CDATA[北大伯克利联手“拷问”大模型：最强Agent也才40分！新基准专治“不听话”的AI分析师]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 06:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292553.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为创造AI算力新纪录：万卡集群训练98%可用度，秒级恢复、分钟诊断</title>
+      <link>https://www.qbitai.com/2025/06/292512.html</link>
+      <description>&lt;![CDATA[华为创造AI算力新纪录：万卡集群训练98%可用度，秒级恢复、分钟诊断]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 05:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292512.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球人工智能创新创业大赛即将启幕！杭州拱墅全力打造AI创新高地</title>
+      <link>https://www.qbitai.com/2025/06/292476.html</link>
+      <description>&lt;![CDATA[全球人工智能创新创业大赛即将启幕！杭州拱墅全力打造AI创新高地]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 05:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292476.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中科闻歌完成新一轮战略融资，引领企业级人工智能技术发展</title>
+      <link>https://www.qbitai.com/2025/06/292469.html</link>
+      <description>&lt;![CDATA[中科闻歌完成新一轮战略融资，引领企业级人工智能技术发展]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 05:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292469.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>20年物理疑云消散！「μ子异常」最新实验未发现显著偏差，标准粒子模型屹立不倒</title>
+      <link>https://www.qbitai.com/2025/06/292459.html</link>
+      <description>&lt;![CDATA[20年物理疑云消散！「μ子异常」最新实验未发现显著偏差，标准粒子模型屹立不倒]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 04:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292459.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>刚刚，苹果WWDC掀AI风暴！端侧模型全面开放、AI版Siri却成最大「鸽子」王</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-10-2</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[Deontically Constrained Policy Improvement in Reinforcement Learning Agents]]&gt;</description>
       <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.06959</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Long-Tailed Learning for Generalized Category Discovery</title>
-      <link>https://arxiv.org/abs/2506.06965</link>
-      <description>&lt;![CDATA[Long-Tailed Learning for Generalized Category Discovery]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06965</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments</title>
-      <link>https://arxiv.org/abs/2506.06981</link>
-      <description>&lt;![CDATA[Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06981</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluating LLM-corrupted Crowdsourcing Data Without Ground Truth</title>
-      <link>https://arxiv.org/abs/2506.06991</link>
-      <description>&lt;![CDATA[Evaluating LLM-corrupted Crowdsourcing Data Without Ground Truth]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06991</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mathesis: Towards Formal Theorem Proving from Natural Languages</title>
-      <link>https://arxiv.org/abs/2506.07047</link>
-      <description>&lt;![CDATA[Mathesis: Towards Formal Theorem Proving from Natural Languages]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07047</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reasoning Paths as Signals: Augmenting Multi-hop Fact Verification through Structural Reasoning Progression</title>
-      <link>https://arxiv.org/abs/2506.07075</link>
-      <description>&lt;![CDATA[Reasoning Paths as Signals: Augmenting Multi-hop Fact Verification through Structural Reasoning Progression]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07075</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite</title>
-      <link>https://arxiv.org/abs/2506.07116</link>
-      <description>&lt;![CDATA[BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07116</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Translating Federated Learning Algorithms in Python into CSP Processes Using ChatGPT</title>
-      <link>https://arxiv.org/abs/2506.07173</link>
-      <description>&lt;![CDATA[Translating Federated Learning Algorithms in Python into CSP Processes Using ChatGPT]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07173</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mitigating Behavioral Hallucination in Multimodal Large Language Models for Sequential Images</title>
-      <link>https://arxiv.org/abs/2506.07184</link>
-      <description>&lt;![CDATA[Mitigating Behavioral Hallucination in Multimodal Large Language Models for Sequential Images]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07184</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exploring Effective Strategies for Building a Customised GPT Agent for Coding Classroom Dialogues</title>
-      <link>https://arxiv.org/abs/2506.07194</link>
-      <description>&lt;![CDATA[Exploring Effective Strategies for Building a Customised GPT Agent for Coding Classroom Dialogues]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07194</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reasoning Multimodal Large Language Model: Data Contamination and Dynamic Evaluation</title>
-      <link>https://arxiv.org/abs/2506.07202</link>
-      <description>&lt;![CDATA[Reasoning Multimodal Large Language Model: Data Contamination and Dynamic Evaluation]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07202</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BIMgent: Towards Autonomous Building Modeling via Computer-use Agents</title>
-      <link>https://arxiv.org/abs/2506.07217</link>
-      <description>&lt;![CDATA[BIMgent: Towards Autonomous Building Modeling via Computer-use Agents]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07217</guid>
       <category>AI</category>
     </item>
   </channel>
