@@ -2,7 +2,53 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 08:16
+**最后更新时间**: 2025-06-11 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-11 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Chewy’s stock slides as a dip in profitability disappoints investors with high expectations](https://www.marketwatch.com/story/chewys-stock-slides-as-a-dip-in-profitability-disappoints-investors-with-high-expectations-bb2d720b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 12:15
+
+#### [You might think you know all about money. Answer these 5 questions to find out.](https://www.marketwatch.com/story/you-might-think-you-know-all-about-money-answer-these-5-questions-to-find-out-b7ed9d58?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 12:10
+
+#### [My friend, 83, wants to add me to his bank account to pay his bills. What could go wrong?](https://www.marketwatch.com/story/my-friend-83-wants-to-add-me-to-his-bank-account-to-pay-his-bills-what-could-go-wrong-812d6a03?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 12:07
+
+#### [Why Goldman Sachs says high-flying tech stocks may be headed for a tough stretch](https://www.marketwatch.com/story/goldman-says-market-is-heading-into-a-news-vacuum-and-theres-weakness-under-hood-8d338880?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:59
+
+#### [NBA legend Antawn Jamison lists 30-acre North Carolina estate for $14 million — 22 years after buying it for just $1.6 million](https://www.marketwatch.com/story/nba-legend-antawn-jamison-lists-30-acre-north-carolina-estate-for-14-million-22-years-after-buying-it-for-just-1-6-million-a44635df?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:52
+
+#### [Your medical debt can outlive you. Here’s how to avoid it — and get the care you need.](https://www.marketwatch.com/story/your-medical-debt-can-outlive-you-heres-how-to-avoid-it-and-get-the-care-you-need-dd86bd30?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:45
+
+#### [Congress is playing havoc with your investments. Here’s how to beat Washington’s game.](https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:45
+
+#### [The most dangerous threat to your money may not be a market crash. It’s much more personal.](https://www.marketwatch.com/story/the-most-dangerous-threat-to-your-money-may-not-be-a-market-crash-its-much-more-personal-2c30d33c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:35
+
+#### [What AI can  — and can’t — do for investors right now](https://www.marketwatch.com/story/what-ai-can-and-cant-do-for-investors-right-now-b413497e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:30
+
+#### [Explaining the Saylor-Chanos clash of Wall Street heavyweights over MicroStrategy](https://www.marketwatch.com/story/explaining-the-saylor-chanos-clash-of-wall-street-heavyweights-over-microstrategy-89594c1f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 11:04
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: CPI to provide updated U.S. inflation snapshot](https://www.marketwatch.com/bulletins/redirect/go?g=a402ea3b-98b4-44b7-af60-de32bf7fd506&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 12:14
+
+#### [These researchers are tracking in real time retail pricing after tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=f0744f40-76e4-4c6a-a0fb-8ad782b37de3&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 11:11
+
+#### [Chinese rare-earth companies rise after U.S.-China talks](https://www.marketwatch.com/bulletins/redirect/go?g=7dad2a12-b882-4cb6-aad5-411f87388a97&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 08:40
 
 ---
 

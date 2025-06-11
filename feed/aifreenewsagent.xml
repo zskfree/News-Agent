@@ -5,14 +5,78 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Jun 2025 08:16:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 08:16:29 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 12:22:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>这家日本企业，有张能跑「百万行」的飞书多维表格！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-10</link>
+      <description>&lt;![CDATA[这家日本企业，有张能跑「百万行」的飞书多维表格！]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>他本是浙大医学4+4，现在带队上海机器人冲刺IPO</title>
+      <link>https://www.qbitai.com/2025/06/293192.html</link>
+      <description>&lt;![CDATA[他本是浙大医学4+4，现在带队上海机器人冲刺IPO]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293192.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>元戎启行周光：携手火山引擎，基于豆包大模型打造物理世界Agent</title>
+      <link>https://www.qbitai.com/2025/06/293184.html</link>
+      <description>&lt;![CDATA[元戎启行周光：携手火山引擎，基于豆包大模型打造物理世界Agent]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293184.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MSRA清北推出强化预训练！取代传统自监督，14B模型媲美32B</title>
+      <link>https://www.qbitai.com/2025/06/293142.html</link>
+      <description>&lt;![CDATA[MSRA清北推出强化预训练！取代传统自监督，14B模型媲美32B]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293142.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百度推出真·AI相机，拍照存储管理一步到位</title>
+      <link>https://www.qbitai.com/2025/06/293123.html</link>
+      <description>&lt;![CDATA[百度推出真·AI相机，拍照存储管理一步到位]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 08:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293123.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>特斯拉Robotaxi首次上路！马斯克：无需改装，L2量产车实现L4</title>
+      <link>https://www.qbitai.com/2025/06/292975.html</link>
+      <description>&lt;![CDATA[特斯拉Robotaxi首次上路！马斯克：无需改装，L2量产车实现L4]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 07:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292975.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Why humanoid robots need their own safety rules</title>
+      <link>https://www.technologyreview.com/2025/06/11/1118519/humanoids-safety-rules/</link>
+      <description>&lt;![CDATA[Why humanoid robots need their own safety rules]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/11/1118519/humanoids-safety-rules/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Inside Amsterdam’s high-stakes experiment to create fair welfare AI</title>
+      <link>https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/</link>
+      <description>&lt;![CDATA[Inside Amsterdam’s high-stakes experiment to create fair welfare AI]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>AutoMat：让「看见原子」成为「理解材料」的科学直通车</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-11-9</link>
@@ -347,70 +411,6 @@
       <description>&lt;![CDATA[Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task]]&gt;</description>
       <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.08872</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation</title>
-      <link>https://arxiv.org/abs/2506.08898</link>
-      <description>&lt;![CDATA[Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08898</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections</title>
-      <link>https://arxiv.org/abs/2506.08957</link>
-      <description>&lt;![CDATA[IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08957</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics</title>
-      <link>https://arxiv.org/abs/2506.08963</link>
-      <description>&lt;![CDATA[Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08963</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Survey of Link Prediction in N-ary Knowledge Graphs</title>
-      <link>https://arxiv.org/abs/2506.08970</link>
-      <description>&lt;![CDATA[A Survey of Link Prediction in N-ary Knowledge Graphs]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08970</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</title>
-      <link>https://arxiv.org/abs/2506.09038</link>
-      <description>&lt;![CDATA[AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09038</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.09049</link>
-      <description>&lt;![CDATA[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09049</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering</title>
-      <link>https://arxiv.org/abs/2506.09050</link>
-      <description>&lt;![CDATA[ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09050</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Werewolf: A Straightforward Game Framework with TTS for Improved User Engagement</title>
-      <link>https://arxiv.org/abs/2506.00160</link>
-      <description>&lt;![CDATA[Werewolf: A Straightforward Game Framework with TTS for Improved User Engagement]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00160</guid>
       <category>AI</category>
     </item>
   </channel>

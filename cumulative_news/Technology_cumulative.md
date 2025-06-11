@@ -2,7 +2,154 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 08:16
+**最后更新时间**: 2025-06-11 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-11 12:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [有了扣子，为何字节跳动还需要HiAgent](https://www.tmtpost.com/7593864.html)
+**发布时间**: 2025-06-11 19:04
+
+#### [0.5525换股比、120日均价遭炮轰：中科曙光被指“低价卖身”](https://www.tmtpost.com/7593917.html)
+**发布时间**: 2025-06-11 18:44
+
+#### [对话图灵奖得主Joseph Sifakis：人工智能可以进化得更聪明，但无法完全超越人类](https://www.tmtpost.com/7593870.html)
+**发布时间**: 2025-06-11 18:41
+
+#### [教育部严管下，独立老师涨价 30%：是谁在推高 “地下补课” 成本？](https://www.tmtpost.com/7593863.html)
+**发布时间**: 2025-06-11 18:41
+
+#### [稀土暴涨，现在没人再看轻这张王牌了](https://www.tmtpost.com/7593831.html)
+**发布时间**: 2025-06-11 18:41
+
+#### [多地暂停加盟、关店数上升，“潮汕排队王”退守广东？](https://www.tmtpost.com/7593318.html)
+**发布时间**: 2025-06-11 18:07
+
+#### [股价翻倍的金陵体育，能接住“苏超”的泼天富贵吗？](https://www.tmtpost.com/7593607.html)
+**发布时间**: 2025-06-11 18:07
+
+#### [腾讯音乐买下喜马拉雅，但字节还在猛攻一切](https://www.tmtpost.com/7593341.html)
+**发布时间**: 2025-06-11 18:07
+
+#### [机构爆吹的“神药”，可能只是常山药业的“梦幻泡影”](https://www.tmtpost.com/7593354.html)
+**发布时间**: 2025-06-11 18:07
+
+#### [虚拟伴侣，相爱容易戒断难](https://www.tmtpost.com/7593359.html)
+**发布时间**: 2025-06-11 18:07
+
+#### [日销800万，Labubu 靠什么让全球富婆们上瘾？](https://www.tmtpost.com/7593391.html)
+**发布时间**: 2025-06-11 18:07
+
+#### [从“中国硅谷”迈向“全球机器人之都”，深圳做对了什么？](https://www.tmtpost.com/7593655.html)
+**发布时间**: 2025-06-11 18:06
+
+#### [“平民”林清轩，误入国货美妆“高端局”](https://www.tmtpost.com/7593658.html)
+**发布时间**: 2025-06-11 18:06
+
+#### [裁了近一半人，隆基绿能的日子依旧不好过](https://www.tmtpost.com/7593692.html)
+**发布时间**: 2025-06-11 18:06
+
+#### [Trump-Musk Feud Exposes Growing Rift Between Big Tech and the White House](https://www.tmtpost.com/7593850.html)
+**发布时间**: 2025-06-11 17:14
+
+#### [派林生物三年两易主：国药系或坐拥154个浆站，重构血制品格局丨并购一线](https://www.tmtpost.com/7593723.html)
+**发布时间**: 2025-06-11 16:15
+
+#### [AI's Exponential Growth Sees Chinese Firms Lead in Open-Source Race, Says Internet Queen Mary Meeker](https://www.tmtpost.com/7593780.html)
+**发布时间**: 2025-06-11 16:07
+
+#### [蜜雪冰城再次调整加盟政策，释放什么信号？](https://www.tmtpost.com/7593308.html)
+**发布时间**: 2025-06-11 16:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [只差一秒和解却突然决裂？CEO竟被员工背刺？](http://www.huxiu.com/article/4450575.html?f=wangzhan)
+**发布时间**: 2025-06-11 19:00
+
+#### [Labubu“丑爆了”，凭什么这么火？](http://www.huxiu.com/article/4448668.html?f=wangzhan)
+**发布时间**: 2025-06-11 16:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [重磅！中国团队发布SRDA新计算架构，从根源解决AI算力成本问题，DeepSeek“神预言”成真？](https://www.infoq.cn/article/9icBShaXuuLdXeba5XOI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 18:37
+
+#### [Token纪元：从「马力」到「人天」再到「兆字元时」的认知革命](https://www.infoq.cn/article/VahhvIrKgmZdKGjPiUgg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 18:24
+
+#### [对话智源王仲远：机器人的大小脑可能会“合体”，但不是今天](https://www.infoq.cn/article/kltsa4ym7fClZcmHBDVz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 17:49
+
+#### [作业帮基础观测能力之三日志体系建设](https://www.infoq.cn/article/Bfjmhb6LzLN0EtrYHRbY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 17:48
+
+#### [SGLang 推理引擎的技术要点与部署实践](https://www.infoq.cn/article/dWT6bw3Mh76rfS5Hu0kK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 17:20
+
+#### [大小脑超级异构：地瓜机器人发布 RDK S100 算控一体化机器人开发套件](https://www.infoq.cn/article/AvWdYPO1rizXjymA05NK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 17:10
+
+#### [ThinkAny & MCP.so创始人艾逗笔将出席AICon北京，分享AI 时代如何做独立开发](https://www.infoq.cn/article/rzCV3Qr3immrWbA9GSHO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-11 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透｜Android 16 正式版评测：为 M3E 准备好](https://sspai.com/post/100130)
+**发布时间**: 2025-06-11 17:30
+
+#### [到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验](https://sspai.com/post/89030)
+**发布时间**: 2025-06-11 15:50
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Huawei’s latest phone fits two telephoto lenses into one camera](https://www.theverge.com/news/685191/huawei-pura-80-ultra-switchable-dual-telephoto-periscope-lens)
+**发布时间**: 2025-06-11 12:14
+
+#### [HP reveals $24,999 hardware created just for Google Beam](https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication)
+**发布时间**: 2025-06-11 12:00
+
+#### [Nintendo&#8217;s Switch 2 is the fastest-selling game console of all time](https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record)
+**发布时间**: 2025-06-11 11:33
+
+#### [Amazon is about to be flooded with AI-generated video ads](https://www.theverge.com/news/685160/amazon-ads-ai-video-generator-us-launch-availability)
+**发布时间**: 2025-06-11 10:45
+
+#### [Samsung’s fridges now recognize family members by voice](https://www.theverge.com/news/685154/samsung-smart-fridges-bixby-voice-recognition-bespoke-ai)
+**发布时间**: 2025-06-11 09:29
+
+#### [BMW iX3 prototype drive: your next-gen EV is nearly here](https://www.theverge.com/bmw/684404/bmw-ix3-ev-prototype-neue-klasse-first-drive)
+**发布时间**: 2025-06-11 09:20
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [8 Best Cordless Vacuums for Your Whole House (2025)](https://www.wired.com/gallery/best-cordless-vacuum/)
+**发布时间**: 2025-06-11 12:03
+
+#### [14 Best Hair Straighteners We Tested (2025)](https://www.wired.com/gallery/best-hair-straighteners/)
+**发布时间**: 2025-06-11 11:32
+
+#### [The Viral Storm Streamers Predicting Deadly Tornadoes—Sometimes Faster Than the Government](https://www.wired.com/story/the-viral-storm-streamers-predicting-deadly-tornadoes-sometimes-faster-than-the-government/)
+**发布时间**: 2025-06-11 11:30
+
+#### [Inside the AI Party at the End of the World](https://www.wired.com/story/ai-risk-party-san-francisco/)
+**发布时间**: 2025-06-11 11:00
+
+#### [Apple MacOS 26 Tahoe: Top New Features to Try](https://www.wired.com/story/macos-26-tahoe-top-features/)
+**发布时间**: 2025-06-11 11:00
+
+#### [The 5 Best Organic Mattress Toppers (2025)](https://www.wired.com/gallery/best-organic-mattress-toppers/)
+**发布时间**: 2025-06-11 10:34
+
+#### [He’s Blind. He Plays Video Games. Here’s How That Works](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
+**发布时间**: 2025-06-11 10:00
+
+#### [Astronomers Are Using Artificial Intelligence to Unlock the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)
+**发布时间**: 2025-06-11 09:30
+
+#### [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
+**发布时间**: 2025-06-11 09:00
 
 ---
 
