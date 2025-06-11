@@ -2,7 +2,23 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 00:56
+**最后更新时间**: 2025-06-11 04:21
+
+---
+
+## 🆕 最新更新 (2025-06-11 04:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S., China agree on ‘framework’ to implement trade deal after two days of talks in London](https://www.marketwatch.com/story/u-s-china-reach-consensus-on-framework-for-trade-deal-after-two-days-of-talks-in-london-c0d31833?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 03:21
+
+#### [Elon Musk sets June 22 as tentative launch of Tesla’s first robotaxi service](https://www.marketwatch.com/story/elon-musk-sets-june-22-as-tentative-launch-of-teslas-first-robotaxi-service-8f7536d9?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 03:05
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S., China reach consensus on ‘framework’ for trade deal](https://www.marketwatch.com/bulletins/redirect/go?g=beb213df-d887-4242-9a72-8365a8adc2e7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 00:56
 
 ---
 
