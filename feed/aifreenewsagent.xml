@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 12:24:55 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:56:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Inroads to personalized AI trip planning</title>
+      <link>https://news.mit.edu/2025/inroads-personalized-ai-trip-planning-0610</link>
+      <description>&lt;![CDATA[Inroads to personalized AI trip planning]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/inroads-personalized-ai-trip-planning-0610</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Melding data, systems, and society</title>
+      <link>https://news.mit.edu/2025/data-systems-and-society-0610</link>
+      <description>&lt;![CDATA[Melding data, systems, and society]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/data-systems-and-society-0610</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How we really judge AI</title>
+      <link>https://news.mit.edu/2025/how-we-really-judge-ai-0610</link>
+      <description>&lt;![CDATA[How we really judge AI]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/how-we-really-judge-ai-0610</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Your AI and Data Future is Sovereign</title>
+      <link>https://www.technologyreview.com/2025/06/10/1118376/your-ai-and-data-future-is-sovereign/</link>
+      <description>&lt;![CDATA[Your AI and Data Future is Sovereign]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/10/1118376/your-ai-and-data-future-is-sovereign/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: IBM’s quantum computer, and cuts to military AI testing</title>
+      <link>https://www.technologyreview.com/2025/06/10/1118372/the-download-ibms-quantum-computer-and-cuts-to-military-ai-testing/</link>
+      <description>&lt;![CDATA[The Download: IBM’s quantum computer, and cuts to military AI testing]]&gt;</description>
+      <pubDate>Tue, 10 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/10/1118372/the-download-ibms-quantum-computer-and-cuts-to-military-ai-testing/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>李飞飞团队新作：DiT不训练直接改架构，模型深度减半，质量还提高了</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-10-11</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[Integrating AI Planning Semantics into SysML System Models for Automated PDDL File Generation]]&gt;</description>
       <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.06714</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making</title>
-      <link>https://arxiv.org/abs/2506.06725</link>
-      <description>&lt;![CDATA[WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06725</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs</title>
-      <link>https://arxiv.org/abs/2506.06727</link>
-      <description>&lt;![CDATA[VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06727</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Honey, I shrunk the hypothesis space (through logical preprocessing)</title>
-      <link>https://arxiv.org/abs/2506.06739</link>
-      <description>&lt;![CDATA[Honey, I shrunk the hypothesis space (through logical preprocessing)]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06739</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI PsyRoom: Artificial Intelligence Platform for Segmented Yearning and Reactive Outcome Optimization Method</title>
-      <link>https://arxiv.org/abs/2506.06740</link>
-      <description>&lt;![CDATA[AI PsyRoom: Artificial Intelligence Platform for Segmented Yearning and Reactive Outcome Optimization Method]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06740</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules</title>
-      <link>https://arxiv.org/abs/2506.06750</link>
-      <description>&lt;![CDATA[Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.06750</guid>
       <category>AI</category>
     </item>
   </channel>

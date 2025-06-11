@@ -2,7 +2,109 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 12:24
+**最后更新时间**: 2025-06-11 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-11 00:56)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iOS 26 丑上热搜；多家车企宣布将账期统一至 60 天内；OpenAI 推出最强推理模型 o3-pro | 极客早知道](http://www.geekpark.net/news/350258)
+**发布时间**: 2025-06-11 08:45
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [钛媒体科股早知道：又一行业大会将召开，机构称人形机器人订单保持快速增长](https://www.tmtpost.com/7593017.html)
+**发布时间**: 2025-06-11 08:14
+
+#### [【钛晨报】中办、国办印发《关于深入推进深圳综合改革试点 深化改革创新扩大开放的意见》；亿万富翁约翰逊家族风险投资基金欲退出持有的中国科技股，或以六折抛售；腾讯音乐拟以12.6亿美元收购喜马拉雅](https://www.tmtpost.com/7592854.html)
+**发布时间**: 2025-06-11 07:20
+
+#### [揭秘谷歌AR眼镜核心参数：双芯片架构、支持原生6DOF追踪｜独家](https://www.tmtpost.com/7592985.html)
+**发布时间**: 2025-06-11 07:18
+
+#### [吉莱微6英寸产线三年未建成，综艺股份收购能否“押对宝”？｜并购一线](https://www.tmtpost.com/7592761.html)
+**发布时间**: 2025-06-10 20:52
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)
+**发布时间**: 2025-06-10 23:47
+
+#### [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
+**发布时间**: 2025-06-10 23:41
+
+#### [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+**发布时间**: 2025-06-10 23:40
+
+#### [Hands on with macOS Tahoe 26: Liquid Glass, new theme options, and Spotlight](https://www.theverge.com/apple/685052/apple-macos-tahoe-26-beta-hands-on-liquid-glass-themes-spotlight)
+**发布时间**: 2025-06-10 23:33
+
+#### [Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)
+**发布时间**: 2025-06-10 22:28
+
+#### [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+**发布时间**: 2025-06-10 22:22
+
+#### [Android 16 is here, but its big redesign isn’t ready](https://www.theverge.com/news/684994/android-16-material-3-expressive-redesign-not-ready)
+**发布时间**: 2025-06-10 21:23
+
+#### [Google is offering employee buyouts in Search and other orgs](https://www.theverge.com/google/684966/google-buyouts-search-org)
+**发布时间**: 2025-06-10 21:21
+
+#### [More than a million people now have Alexa Plus](https://www.theverge.com/news/684560/amazon-alexa-plus-one-million-users-coming-summer-2025)
+**发布时间**: 2025-06-10 21:15
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [6 Best Organic Sheets (2025), Tested and Reviewed](https://www.wired.com/gallery/best-organic-sheets/)
+**发布时间**: 2025-06-10 23:34
+
+#### [Apple Intelligence Is Gambling on Privacy as a Killer Feature](https://www.wired.com/story/apple-intelligence-is-gambling-on-privacy-as-a-killer-feature/)
+**发布时间**: 2025-06-10 23:04
+
+#### [AI Chatbots Are Making LA Protest Disinformation Worse](https://www.wired.com/story/grok-chatgpt-ai-los-angeles-protest-disinformation/)
+**发布时间**: 2025-06-10 20:33
+
+#### [The 46 Best Shows on Max (aka HBO Max) Right Now (June 2025)](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+**发布时间**: 2025-06-10 19:00
+
+#### [A Political Battle Is Brewing Over Data Centers](https://www.wired.com/story/a-political-battle-is-brewing-over-data-centers/)
+**发布时间**: 2025-06-10 18:56
+
+#### [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
+**发布时间**: 2025-06-10 18:41
+
+#### [The Top New Android 16 Features (2025): How to Install, Features, Release Date](https://www.wired.com/story/android-16-features-release-date-how-to-download/)
+**发布时间**: 2025-06-10 18:00
+
+#### [A Google Shareholder Is Suing the Company Over the TikTok Ban](https://www.wired.com/story/google-tiktok-shareholder-lawsuit-ban/)
+**发布时间**: 2025-06-10 17:34
+
+#### [The ‘Long-Term Danger’ of Trump Sending Troops to the LA Protests](https://www.wired.com/story/trump-marines-national-guard-la-protests/)
+**发布时间**: 2025-06-10 16:24
+
+#### [Airlines Don’t Want You to Know They Sold Your Flight Data to DHS](https://www.wired.com/story/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/)
+**发布时间**: 2025-06-10 13:00
+
+#### [Tesla’s Robotaxis Are Rolling Out Soon—With One Big Unanswered Question](https://www.wired.com/story/as-robotaxi-rides-begin-we-still-dont-know-the-mystery-of-teslas-human-helpers/)
+**发布时间**: 2025-06-10 11:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一直挨骂的流量演员，到底有没有演技高光时刻？](http://www.huxiu.com/article/4447615.html?f=wangzhan)
+**发布时间**: 2025-06-10 21:00
+
+#### [音综，请停止寻找下一个单依纯](http://www.huxiu.com/article/4447603.html?f=wangzhan)
+**发布时间**: 2025-06-10 20:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 096 | 派友的徒步心得大全、你没见过的社区文章、一周最热评](https://sspai.com/post/100088)
+**发布时间**: 2025-06-10 17:34
+
+#### [618 空前史低价，错过拍大腿](https://sspai.com/post/100020)
+**发布时间**: 2025-06-10 16:17
 
 ---
 

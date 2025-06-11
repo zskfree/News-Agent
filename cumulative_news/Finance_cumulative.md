@@ -2,7 +2,74 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 12:24
+**最后更新时间**: 2025-06-11 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-11 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S., China reach consensus on ‘framework’ for trade deal after two days of talks in London](https://www.marketwatch.com/story/u-s-china-reach-consensus-on-framework-for-trade-deal-after-two-days-of-talks-in-london-c0d31833?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 00:54
+
+#### [DSW parent is the latest shoemaker to pull its outlook. The stock falls hard despite low expectations.](https://www.marketwatch.com/story/dsw-parent-is-the-latest-shoemaker-to-pull-its-outlook-the-stock-falls-hard-despite-low-expectations-37c951bc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 00:14
+
+#### [GameStop may be a bitcoin play, but its stock is sliding on weaker-than-expected Q1 revenue](https://www.marketwatch.com/story/gamestop-may-be-a-bitcoin-play-but-its-stock-is-sliding-on-weaker-than-expected-q1-revenue-2e51b415?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 00:13
+
+#### [Weight-loss drugs are an issue for McDonald’s, but here’s the bigger problem](https://www.marketwatch.com/story/weight-loss-drugs-are-an-issue-for-mcdonalds-but-heres-the-bigger-problem-22b0f668?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 23:57
+
+#### [Barbara Corcoran found a buyer in just one day for her $12 million New York penthouse](https://www.marketwatch.com/story/barbara-corcoran-found-a-buyer-in-just-one-day-for-her-12-million-new-york-penthouse-cd75ac87?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 21:59
+
+#### [IBM’s stock just set a new all-time high. This was the latest spark.](https://www.marketwatch.com/story/ibms-stock-set-a-new-all-time-high-this-was-the-latest-spark-0c88f76b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 21:21
+
+#### [A local restaurant has a 5% container charge and 3% kitchen-service fee. Is this as nuts as it sounds?](https://www.marketwatch.com/story/things-are-going-loco-my-local-restaurant-charges-a-5-container-fee-and-3-kitchen-service-charge-is-this-nuts-15b88f15?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 21:02
+
+#### [Republicans cut a program helping poor seniors and families keep the heat on in the winter — but a new bill may still save it](https://www.marketwatch.com/story/republicans-cut-a-program-helping-poor-seniors-and-families-keep-the-heat-on-in-the-winter-but-a-new-bill-may-still-save-it-ac86be5f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 20:57
+
+#### [ChatGPT outage shows just how many people are using AI at work](https://www.marketwatch.com/story/chatgpt-outage-shows-just-how-many-people-are-using-ai-at-work-6dcf482f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 20:54
+
+#### [The S&P 500 is nearly back to record highs, but investors shouldn’t get too comfortable](https://www.marketwatch.com/story/the-s-p-500-is-nearly-back-to-record-highs-but-investors-shouldnt-get-too-comfortable-4acb801b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-10 20:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stocks have gotten very expensive relative to bonds. Is a market downturn next?](https://www.marketwatch.com/bulletins/redirect/go?g=6a3c55fa-211e-4316-8108-f584668dcbcc&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 23:03
+
+#### [IBM's new quantum supercomputer just sent its stock to an all-time high](https://www.marketwatch.com/bulletins/redirect/go?g=321d3f3a-12a7-4272-9ea7-c2423d11ee00&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 21:36
+
+#### [GameStop may be a bitcoin play, but its stock is sliding on Q1 revenue miss](https://www.marketwatch.com/bulletins/redirect/go?g=d8acca2b-0162-450b-8ada-f036777003f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 20:52
+
+#### [U.S. stocks end higher as investors await May CPI report, update on trade talks](https://www.marketwatch.com/bulletins/redirect/go?g=77b1ba49-9913-447e-9216-177344ee55fe&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 20:08
+
+#### [What TikTok’s latest budget hack — ‘dating for dinner’ — says about the economy](https://www.marketwatch.com/bulletins/redirect/go?g=7d93f078-b9db-450b-b4d2-fa2d53426dee&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 19:31
+
+#### [Dow up over 100 points as stocks gain steam going into final hour — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=98b865e4-2ad1-4da6-bacf-1d6d0f9a5733&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 19:05
+
+#### [Weight-loss drugs are an issue for McDonald’s, but here’s the bigger problem](https://www.marketwatch.com/bulletins/redirect/go?g=2ec7cf7a-8f3d-4e4d-bf4a-76b6f556df99&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 17:34
+
+#### [Almost everything you’ve read about the Trump-Musk feud is probably wrong](https://www.marketwatch.com/bulletins/redirect/go?g=1d9b3dbd-5464-447a-9e3f-3abbf19820cb&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 16:37
+
+#### [Why it’s so rare for stocks and gold to chase record highs at the same time](https://www.marketwatch.com/bulletins/redirect/go?g=57536ba1-c70f-4e55-8348-9b325a473754&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 16:07
+
+#### [He sold Tesla in the nick of time. Here are the stock-market buys he sees today.](https://www.marketwatch.com/bulletins/redirect/go?g=4781eed3-9bd6-400b-af63-11d94b0d2737&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-10 13:57
 
 ---
 

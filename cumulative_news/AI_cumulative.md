@@ -2,7 +2,29 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-10 12:22
+**最后更新时间**: 2025-06-11 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-11 00:56)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Inroads to personalized AI trip planning](https://news.mit.edu/2025/inroads-personalized-ai-trip-planning-0610)
+**发布时间**: 2025-06-10 15:00
+
+#### [Melding data, systems, and society](https://news.mit.edu/2025/data-systems-and-society-0610)
+**发布时间**: 2025-06-10 14:25
+
+#### [How we really judge AI](https://news.mit.edu/2025/how-we-really-judge-ai-0610)
+**发布时间**: 2025-06-10 11:30
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Your AI and Data Future is Sovereign](https://www.technologyreview.com/2025/06/10/1118376/your-ai-and-data-future-is-sovereign/)
+**发布时间**: 2025-06-10 12:14
+
+#### [The Download: IBM’s quantum computer, and cuts to military AI testing](https://www.technologyreview.com/2025/06/10/1118372/the-download-ibms-quantum-computer-and-cuts-to-military-ai-testing/)
+**发布时间**: 2025-06-10 12:10
 
 ---
 
