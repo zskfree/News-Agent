@@ -2,7 +2,25 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 04:21
+**最后更新时间**: 2025-06-11 08:16
+
+---
+
+## 🆕 最新更新 (2025-06-11 08:16)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Tesla shares rise as Elon Musk says he regrets posts attacking President Trump](https://www.marketwatch.com/bulletins/redirect/go?g=b328689a-e90c-40b2-a247-fa145cb39806&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 07:37
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk says he regrets Trump posts — putting to rest the view his attacks were part of a grand strategy](https://www.marketwatch.com/story/elon-musk-says-he-regrets-trump-posts-putting-to-rest-the-view-his-attacks-were-part-of-a-grand-strategy-fc7cae15?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 07:28
+
+### 📰 来源: [MarketWatch Real-time Headlines](https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines)
+
+#### [Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them](https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines)
+**发布时间**: 2025-06-11 07:09
 
 ---
 

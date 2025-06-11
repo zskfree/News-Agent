@@ -5,14 +5,94 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Jun 2025 04:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 04:21:30 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 08:16:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AutoMat：让「看见原子」成为「理解材料」的科学直通车</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-9</link>
+      <description>&lt;![CDATA[AutoMat：让「看见原子」成为「理解材料」的科学直通车]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>浙大开发的荧光纳米传感器，超96.67%的准确率识别植物信号</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-8</link>
+      <description>&lt;![CDATA[浙大开发的荧光纳米传感器，超96.67%的准确率识别植物信号]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>「Next-Token」范式改变！刚刚，强化学习预训练来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-7</link>
+      <description>&lt;![CDATA[「Next-Token」范式改变！刚刚，强化学习预训练来了]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Mistral的首个强推理模型：开源开源，推理速度快10倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-6</link>
+      <description>&lt;![CDATA[Mistral的首个强推理模型：开源开源，推理速度快10倍]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>103K「硬核」题，让大模型突破数学推理瓶颈</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-5</link>
+      <description>&lt;![CDATA[103K「硬核」题，让大模型突破数学推理瓶颈]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 13:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10%训练数据超越100%表现，机器人学习领域迎来重要突破</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-11-4</link>
+      <description>&lt;![CDATA[10%训练数据超越100%表现，机器人学习领域迎来重要突破]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-11-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>新“SOTA”推理模型避战Qwen和R1？欧版OpenAI被喷麻了</title>
+      <link>https://www.qbitai.com/2025/06/292919.html</link>
+      <description>&lt;![CDATA[新“SOTA”推理模型避战Qwen和R1？欧版OpenAI被喷麻了]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 06:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292919.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>80 TOPS算力、大小脑超级异构！地瓜机器人RDK S100开启预售，限时优惠价2499元</title>
+      <link>https://www.qbitai.com/2025/06/292932.html</link>
+      <description>&lt;![CDATA[80 TOPS算力、大小脑超级异构！地瓜机器人RDK S100开启预售，限时优惠价2499元]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 06:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292932.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为版《黑客帝国》首次亮相：训推复杂AI前先“彩排”，小时级预演万卡集群</title>
+      <link>https://www.qbitai.com/2025/06/292882.html</link>
+      <description>&lt;![CDATA[华为版《黑客帝国》首次亮相：训推复杂AI前先“彩排”，小时级预演万卡集群]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 05:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292882.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>趋境科技&amp;英特尔生态沙龙举办，硬件、推理引擎、上层应用生态融合，打通大模型私有化“最后一公里”</title>
+      <link>https://www.qbitai.com/2025/06/292813.html</link>
+      <description>&lt;![CDATA[趋境科技&amp;英特尔生态沙龙举办，硬件、推理引擎、上层应用生态融合，打通大模型私有化“最后一公里”]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 03:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/292813.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>刚刚，OpenAI正式发布o3-pro！奥特曼激动更新博客：温和的奇点</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-11-3</link>
@@ -331,86 +411,6 @@
       <description>&lt;![CDATA[Werewolf: A Straightforward Game Framework with TTS for Improved User Engagement]]&gt;</description>
       <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.00160</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exp4Fuse: A Rank Fusion Framework for Enhanced Sparse Retrieval using Large Language Model-based Query Expansion</title>
-      <link>https://arxiv.org/abs/2506.04760</link>
-      <description>&lt;![CDATA[Exp4Fuse: A Rank Fusion Framework for Enhanced Sparse Retrieval using Large Language Model-based Query Expansion]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.04760</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>QUITE: A Query Rewrite System Beyond Rules with LLM Agents</title>
-      <link>https://arxiv.org/abs/2506.07675</link>
-      <description>&lt;![CDATA[QUITE: A Query Rewrite System Beyond Rules with LLM Agents]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.07675</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>KVmix: Gradient-Based Layer Importance-Aware Mixed-Precision Quantization for KV Cache</title>
-      <link>https://arxiv.org/abs/2506.08018</link>
-      <description>&lt;![CDATA[KVmix: Gradient-Based Layer Importance-Aware Mixed-Precision Quantization for KV Cache]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08018</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Bi-level Unbalanced Optimal Transport for Partial Domain Adaptation</title>
-      <link>https://arxiv.org/abs/2506.08020</link>
-      <description>&lt;![CDATA[Bi-level Unbalanced Optimal Transport for Partial Domain Adaptation]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08020</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining</title>
-      <link>https://arxiv.org/abs/2506.08022</link>
-      <description>&lt;![CDATA[Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08022</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Aligning Proteins and Language: A Foundation Model for Protein Retrieval</title>
-      <link>https://arxiv.org/abs/2506.08023</link>
-      <description>&lt;![CDATA[Aligning Proteins and Language: A Foundation Model for Protein Retrieval]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08023</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Recipes for Pre-training LLMs with MXFP8</title>
-      <link>https://arxiv.org/abs/2506.08027</link>
-      <description>&lt;![CDATA[Recipes for Pre-training LLMs with MXFP8]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08027</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Inverse Design in Distributed Circuits Using Single-Step Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.08029</link>
-      <description>&lt;![CDATA[Inverse Design in Distributed Circuits Using Single-Step Reinforcement Learning]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08029</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The World of AI: A Novel Approach to AI Literacy for First-year Engineering Students</title>
-      <link>https://arxiv.org/abs/2506.08041</link>
-      <description>&lt;![CDATA[The World of AI: A Novel Approach to AI Literacy for First-year Engineering Students]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08041</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>UAVs Meet Agentic AI: A Multidomain Survey of Autonomous Aerial Intelligence and Agentic UAVs</title>
-      <link>https://arxiv.org/abs/2506.08045</link>
-      <description>&lt;![CDATA[UAVs Meet Agentic AI: A Multidomain Survey of Autonomous Aerial Intelligence and Agentic UAVs]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08045</guid>
       <category>AI</category>
     </item>
   </channel>
