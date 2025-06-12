@@ -2,7 +2,136 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 08:16
+**最后更新时间**: 2025-06-12 12:21
+
+---
+
+## 🆕 最新更新 (2025-06-12 12:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [今年618，淘天京东抖音头部美妆品牌重合率60%](https://www.tmtpost.com/7595329.html)
+**发布时间**: 2025-06-12 19:12
+
+#### [又一家狂飙的机器人，股价两月翻倍，谁在疯狂押注？](https://www.tmtpost.com/7594230.html)
+**发布时间**: 2025-06-12 18:51
+
+#### [收购喜马拉雅，腾讯跟字节“对齐”了](https://www.tmtpost.com/7595293.html)
+**发布时间**: 2025-06-12 18:51
+
+#### [58同城要复制一个美团买药](https://www.tmtpost.com/7594828.html)
+**发布时间**: 2025-06-12 18:41
+
+#### [这届铲屎官，每年花上万元给宠物“养生保健”](https://www.tmtpost.com/7595211.html)
+**发布时间**: 2025-06-12 18:41
+
+#### [手机起家的转转，开了一家3000平米“二奢大卖场”](https://www.tmtpost.com/7594863.html)
+**发布时间**: 2025-06-12 18:03
+
+#### [对话美的CTO卫昶：美的能源，将成为集团战略转型的支柱产业](https://www.tmtpost.com/7595057.html)
+**发布时间**: 2025-06-12 18:02
+
+#### [丁磊“抠门”，网易反转](https://www.tmtpost.com/7594424.html)
+**发布时间**: 2025-06-12 17:48
+
+#### [把Labubu炒成 “塑料茅台”，盲盒市场泡沫狂飙？](https://www.tmtpost.com/7595172.html)
+**发布时间**: 2025-06-12 17:48
+
+#### [对阿里离职员工的万字长文，我的一点看法](https://www.tmtpost.com/7595018.html)
+**发布时间**: 2025-06-12 17:32
+
+#### [激进扩张致债务高悬，美利信拟融资8亿元接着“豪赌”](https://www.tmtpost.com/7595140.html)
+**发布时间**: 2025-06-12 17:31
+
+#### [Wi-Fi 7市场尚未饱和，Wi-Fi 8已在路上，企业级应用将爆发丨ToB产业观察](https://www.tmtpost.com/7595060.html)
+**发布时间**: 2025-06-12 17:11
+
+#### [火锅巨头们狂卷“鲜切”主题店](https://www.tmtpost.com/7594985.html)
+**发布时间**: 2025-06-12 16:46
+
+#### [一个企业家的失败史：马斯克的白宫梦醒时分](https://www.tmtpost.com/7594170.html)
+**发布时间**: 2025-06-12 16:46
+
+#### [IPO井喷创新高，“A转H”南下潮带来积极信号](https://www.tmtpost.com/7593997.html)
+**发布时间**: 2025-06-12 16:45
+
+#### [AI时代的知识观：重塑问题边界](https://www.tmtpost.com/7594171.html)
+**发布时间**: 2025-06-12 16:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [让Al做今年高考真题能考几分？｜AI的n次方](https://www.infoq.cn/video/N8hNXBI0iBue3JzHlTqH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 18:12
+
+#### [字节 AI 卷出新高度：豆包试水“上下文定价”，Trae 覆盖内部80%工程师，战略瞄定三主线](https://www.infoq.cn/article/5f28jXuNAeV0w1UmA9My?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 18:06
+
+#### [人机协同新范式：AI+AR 空间计算的落地路径｜AICon北京](https://www.infoq.cn/article/u4QEXLAXws0vvw7Cv2GE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 18:00
+
+#### [OpenAI o3-pro模型发布，但不能聊天](https://www.infoq.cn/article/8byiuC4JmlR1DSw6KQJd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 17:55
+
+#### [Yann LeCun 炮轰 Anthropic CEO！这人“既要又要”：要么太自大、要么不诚实](https://www.infoq.cn/article/zGHXzcfGYCP8Myti5s91?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 17:53
+
+#### [TRAE公布最新用户数据：月活已超百万](https://www.infoq.cn/article/vl0lOTmNFkdgXFT2FGfm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 17:45
+
+#### [2025 Microsoft Cloud & AI 技术峰会｜全栈驱动，迈向 Agentic AI 新时代](https://www.infoq.cn/article/Sf1hkXU5eaoZ5oIwMjDs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-12 16:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [抬手菱光掠星汉，勿惊长白云下湖：多图丈量新西兰](https://sspai.com/post/99521)
+**发布时间**: 2025-06-12 16:56
+
+#### [Meetcard：既是数字名片，也是防丢卡片。](https://sspai.com/post/100165)
+**发布时间**: 2025-06-12 16:44
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一天烧一亿？京东为啥一定要做外卖？](http://www.huxiu.com/article/4455438.html?f=wangzhan)
+**发布时间**: 2025-06-12 16:00
+
+#### [车企账期承诺：薛定谔的“60天”](http://www.huxiu.com/article/4455876.html?f=wangzhan)
+**发布时间**: 2025-06-12 15:28
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Alters brings Kojima-esque weirdness to a tale of sci-fi survival](https://www.theverge.com/games-review/685213/the-alters-review-ps5-xbox-steam)
+**发布时间**: 2025-06-12 12:00
+
+#### [Fujifilm’s new X-E5 is one of its sleekest mirrorless cameras yet](https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs)
+**发布时间**: 2025-06-12 10:00
+
+#### [Moto Tag finally gets precise UWB location tracking](https://www.theverge.com/news/685943/moto-tag-finally-gets-precise-uwb-location-tracking)
+**发布时间**: 2025-06-12 08:37
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Cadillac Optiq 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/cadillac-optiq-2025/)
+**发布时间**: 2025-06-12 12:00
+
+#### [Air Traffic Control in the US Still Runs on Windows 95 and Floppy Disks](https://www.wired.com/story/air-traffic-control-windows-95-floppy-disks/)
+**发布时间**: 2025-06-12 11:30
+
+#### [How to Shop Like a Pro During Amazon Prime Day (2025)](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)
+**发布时间**: 2025-06-12 11:09
+
+#### [AI Agents Are Too Cheap for Our Own Good](https://www.wired.com/story/pricing-ai-agents-increasing-costs/)
+**发布时间**: 2025-06-12 11:00
+
+#### [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)
+**发布时间**: 2025-06-12 10:30
+
+#### [24 Best Flavors of AriZona's Iconic Iced Tea (2025)](https://www.wired.com/gallery/best-arizona-iced-teas/)
+**发布时间**: 2025-06-12 10:09
+
+#### [How Steve Jobs Wrote the Greatest Commencement Speech Ever](https://www.wired.com/story/how-steve-jobs-wrote-the-greatest-commencement-speech-ever/)
+**发布时间**: 2025-06-12 10:00
+
+#### [25 Best Deals on Father’s Day Gifts (2025)](https://www.wired.com/story/fathers-day-deals-2025/)
+**发布时间**: 2025-06-12 09:08
 
 ---
 

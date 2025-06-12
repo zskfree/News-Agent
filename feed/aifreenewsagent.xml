@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Jun 2025 08:16:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 08:16:27 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 12:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 12:21:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,403 +14,403 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达要打造全球首个工业AI云，配万块GPU</title>
+      <title>何恺明改进了谢赛宁的REPA：极大简化但性能依旧强悍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-15</link>
+      <description>&lt;![CDATA[何恺明改进了谢赛宁的REPA：极大简化但性能依旧强悍]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 18:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-15</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CVPR 2025 多模态大一统：斯坦福 x 复旦提出符号主义建模生成式任务</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-14</link>
+      <description>&lt;![CDATA[CVPR 2025 多模态大一统：斯坦福 x 复旦提出符号主义建模生成式任务]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>夸克发布国内首个高考志愿大模型！蒸馏数百名人类志愿专家经验，为考生提供个性化志愿决策服务</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-13</link>
+      <description>&lt;![CDATA[夸克发布国内首个高考志愿大模型！蒸馏数百名人类志愿专家经验，为考生提供个性化志愿决策服务]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>精度达原子级，基于深度学习的动态蛋白质设计，登Science</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-12</link>
+      <description>&lt;![CDATA[精度达原子级，基于深度学习的动态蛋白质设计，登Science]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达打造全球首个工业AI云，配万块GPU，物理AI机器人集群已启动</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-12-11</link>
-      <description>&lt;![CDATA[英伟达要打造全球首个工业AI云，配万块GPU]]&gt;</description>
+      <description>&lt;![CDATA[英伟达打造全球首个工业AI云，配万块GPU，物理AI机器人集群已启动]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 16:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>字节自研AI IDE “TRAE”，月活用户已超百万</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-10</link>
-      <description>&lt;![CDATA[字节自研AI IDE “TRAE”，月活用户已超百万]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 16:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-10</guid>
+      <title>The Download: AI agents’ autonomy, and sodium-based batteries</title>
+      <link>https://www.technologyreview.com/2025/06/12/1118609/the-download-ai-agents-autonomy-and-sodium-based-batteries/</link>
+      <description>&lt;![CDATA[The Download: AI agents’ autonomy, and sodium-based batteries]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/12/1118609/the-download-ai-agents-autonomy-and-sodium-based-batteries/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从高考到实战，豆包大模型交卷了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-9</link>
-      <description>&lt;![CDATA[从高考到实战，豆包大模型交卷了]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-9</guid>
+      <title>Are we ready to hand AI agents the keys?</title>
+      <link>https://www.technologyreview.com/2025/06/12/1118189/ai-agents-manus-control-autonomy-operator-openai/</link>
+      <description>&lt;![CDATA[Are we ready to hand AI agents the keys?]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/12/1118189/ai-agents-manus-control-autonomy-operator-openai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>通义实验室最新成果WebDancer：开启自主智能Deep Research的新时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-8</link>
-      <description>&lt;![CDATA[通义实验室最新成果WebDancer：开启自主智能Deep Research的新时代]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-8</guid>
+      <title>These new batteries are finding a niche</title>
+      <link>https://www.technologyreview.com/2025/06/12/1118556/sodium-batteries-niche/</link>
+      <description>&lt;![CDATA[These new batteries are finding a niche]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/12/1118556/sodium-batteries-niche/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>256块NPU训成8B视频模型、超越Sora等一众闭源！抖音内容技术团队开源ContentV</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-7</link>
-      <description>&lt;![CDATA[256块NPU训成8B视频模型、超越Sora等一众闭源！抖音内容技术团队开源ContentV]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-7</guid>
+      <title>罗永浩数字人615首秀百度电商，全球首位头部主播AI分身开播</title>
+      <link>https://www.qbitai.com/2025/06/293805.html</link>
+      <description>&lt;![CDATA[罗永浩数字人615首秀百度电商，全球首位头部主播AI分身开播]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293805.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ACL 2025 | 让大模型听懂育种的语言，科学家提出首个种子科学多任务评测基准SeedBench</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-6</link>
-      <description>&lt;![CDATA[ACL 2025 | 让大模型听懂育种的语言，科学家提出首个种子科学多任务评测基准SeedBench]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 14:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-6</guid>
+      <title>何恺明新作：给扩散模型加正则化，无需预训练无需数据增强，超简单实现性能提升</title>
+      <link>https://www.qbitai.com/2025/06/293788.html</link>
+      <description>&lt;![CDATA[何恺明新作：给扩散模型加正则化，无需预训练无需数据增强，超简单实现性能提升]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293788.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI眼镜沙龙｜距离全民标配还有多远？</title>
-      <link>https://www.qbitai.com/2025/06/293417.html</link>
-      <description>&lt;![CDATA[AI眼镜沙龙｜距离全民标配还有多远？]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 07:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293417.html</guid>
+      <title>CVPR2025视频生成统一评估架构，上交x斯坦福联合提出让MLLM像人类一样打分</title>
+      <link>https://www.qbitai.com/2025/06/293773.html</link>
+      <description>&lt;![CDATA[CVPR2025视频生成统一评估架构，上交x斯坦福联合提出让MLLM像人类一样打分]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293773.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>每秒生成超30帧视频，支持实时交互！自回归视频生成新框架刷新生成效率</title>
-      <link>https://www.qbitai.com/2025/06/293399.html</link>
-      <description>&lt;![CDATA[每秒生成超30帧视频，支持实时交互！自回归视频生成新框架刷新生成效率]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 06:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293399.html</guid>
+      <title>LeCun世界模型出2代了！62小时搞定机器人训练，开启物理推理新时代</title>
+      <link>https://www.qbitai.com/2025/06/293603.html</link>
+      <description>&lt;![CDATA[LeCun世界模型出2代了！62小时搞定机器人训练，开启物理推理新时代]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293603.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首个沉浸式体积视频数据集ImViD上线，定义沉浸式媒体新形态丨CVPR‘25 Highlight</title>
-      <link>https://www.qbitai.com/2025/06/293352.html</link>
-      <description>&lt;![CDATA[首个沉浸式体积视频数据集ImViD上线，定义沉浸式媒体新形态丨CVPR‘25 Highlight]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 04:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293352.html</guid>
+      <title>“甲方快乐模型”诞生，拿下平面设计新SOTA！多条件一键生成，还能独立调整元素 | 复旦＆字节</title>
+      <link>https://www.qbitai.com/2025/06/293713.html</link>
+      <description>&lt;![CDATA[“甲方快乐模型”诞生，拿下平面设计新SOTA！多条件一键生成，还能独立调整元素 | 复旦＆字节]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293713.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>SIGGRAPH 2025奖项出炉：上科大、厦大最佳论文</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-5</link>
-      <description>&lt;![CDATA[SIGGRAPH 2025奖项出炉：上科大、厦大最佳论文]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-5</guid>
+      <title>GraphRAG太慢LightRAG延迟高？华东师大新方法一招破解双重难题</title>
+      <link>https://www.qbitai.com/2025/06/293712.html</link>
+      <description>&lt;![CDATA[GraphRAG太慢LightRAG延迟高？华东师大新方法一招破解双重难题]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293712.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2D图像作中介，零训练实现3D场景生成SOTA：英伟达&amp;康奈尔提出文本驱动新流程</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-4</link>
-      <description>&lt;![CDATA[2D图像作中介，零训练实现3D场景生成SOTA：英伟达&amp;康奈尔提出文本驱动新流程]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-4</guid>
+      <title>AI代码补全哪家强？两个新指标+一套新框架，让模型更懂开发者</title>
+      <link>https://www.qbitai.com/2025/06/293604.html</link>
+      <description>&lt;![CDATA[AI代码补全哪家强？两个新指标+一套新框架，让模型更懂开发者]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293604.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，LeCun亲自出镜，Meta推出新世界模型！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-3</link>
-      <description>&lt;![CDATA[刚刚，LeCun亲自出镜，Meta推出新世界模型！]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-3</guid>
+      <title>Day0迁移、一键部署，华为开源的昇思MindSpore成为大模型开发的“万能钥匙”</title>
+      <link>https://www.qbitai.com/2025/06/293421.html</link>
+      <description>&lt;![CDATA[Day0迁移、一键部署，华为开源的昇思MindSpore成为大模型开发的“万能钥匙”]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293421.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>银河通用X清华大学发布业内首款开源人形机器人全身遥操系统OpenWBT，支持多机型、跨虚实，小时内可轻松部署</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12-2</link>
-      <description>&lt;![CDATA[银河通用X清华大学发布业内首款开源人形机器人全身遥操系统OpenWBT，支持多机型、跨虚实，小时内可轻松部署]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-2</guid>
+      <title>最大的开源GraphRag：知识图谱完全自主构建｜港科大＆华为</title>
+      <link>https://www.qbitai.com/2025/06/293504.html</link>
+      <description>&lt;![CDATA[最大的开源GraphRag：知识图谱完全自主构建｜港科大＆华为]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293504.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CVPR 2025 | 多模态统一学习新范式来了，数据、模型、代码全部开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-12</link>
-      <description>&lt;![CDATA[CVPR 2025 | 多模态统一学习新范式来了，数据、模型、代码全部开源]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12</guid>
+      <title>实测豆包1.6，最火玩法all in one！Seedance登顶视频生成榜一</title>
+      <link>https://www.qbitai.com/2025/06/293429.html</link>
+      <description>&lt;![CDATA[实测豆包1.6，最火玩法all in one！Seedance登顶视频生成榜一]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 08:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293429.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>卷翻AI圈！大模型创新案例研究TOP50——A2M峰会本周末北京开幕！</title>
-      <link>https://www.qbitai.com/2025/06/293342.html</link>
-      <description>&lt;![CDATA[卷翻AI圈！大模型创新案例研究TOP50——A2M峰会本周末北京开幕！]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 03:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293342.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>下手帮你干活直接交付结果，纳米AI超级搜索智能体发布</title>
-      <link>https://www.qbitai.com/2025/06/293324.html</link>
-      <description>&lt;![CDATA[下手帮你干活直接交付结果，纳米AI超级搜索智能体发布]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293324.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Robot-Gated Interactive Imitation Learning with Adaptive Intervention Mechanism</title>
-      <link>https://arxiv.org/abs/2506.09176</link>
-      <description>&lt;![CDATA[Robot-Gated Interactive Imitation Learning with Adaptive Intervention Mechanism]]&gt;</description>
+      <title>Spiking Neural Models for Decision-Making Tasks with Learning</title>
+      <link>https://arxiv.org/abs/2506.09087</link>
+      <description>&lt;![CDATA[Spiking Neural Models for Decision-Making Tasks with Learning]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09176</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09087</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity</title>
-      <link>https://arxiv.org/abs/2506.09250</link>
-      <description>&lt;![CDATA[Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity]]&gt;</description>
+      <title>Integrating Asynchronous AdaBoost into Federated Learning: Five Real World Applications</title>
+      <link>https://arxiv.org/abs/2506.09090</link>
+      <description>&lt;![CDATA[Integrating Asynchronous AdaBoost into Federated Learning: Five Real World Applications]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09250</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09090</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Ming-Omni: A Unified Multimodal Model for Perception and Generation</title>
-      <link>https://arxiv.org/abs/2506.09344</link>
-      <description>&lt;![CDATA[Ming-Omni: A Unified Multimodal Model for Perception and Generation]]&gt;</description>
+      <title>Variational Inference Optimized Using the Curved Geometry of Coupled Free Energy</title>
+      <link>https://arxiv.org/abs/2506.09091</link>
+      <description>&lt;![CDATA[Variational Inference Optimized Using the Curved Geometry of Coupled Free Energy]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09344</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09091</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Beyond Nash Equilibrium: Bounded Rationality of LLMs and humans in Strategic Decision-making</title>
-      <link>https://arxiv.org/abs/2506.09390</link>
-      <description>&lt;![CDATA[Beyond Nash Equilibrium: Bounded Rationality of LLMs and humans in Strategic Decision-making]]&gt;</description>
+      <title>CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model</title>
+      <link>https://arxiv.org/abs/2506.09110</link>
+      <description>&lt;![CDATA[CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09390</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09110</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy</title>
-      <link>https://arxiv.org/abs/2506.09420</link>
-      <description>&lt;![CDATA[A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy]]&gt;</description>
+      <title>TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval</title>
+      <link>https://arxiv.org/abs/2506.09114</link>
+      <description>&lt;![CDATA[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09420</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09114</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning</title>
-      <link>https://arxiv.org/abs/2506.09498</link>
-      <description>&lt;![CDATA[Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning]]&gt;</description>
+      <title>Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes</title>
+      <link>https://arxiv.org/abs/2506.09163</link>
+      <description>&lt;![CDATA[Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09498</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09163</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy</title>
-      <link>https://arxiv.org/abs/2506.09655</link>
-      <description>&lt;![CDATA[DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy]]&gt;</description>
+      <title>MultiNet: An Open-Source Software Toolkit \&amp; Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models</title>
+      <link>https://arxiv.org/abs/2506.09172</link>
+      <description>&lt;![CDATA[MultiNet: An Open-Source Software Toolkit \&amp; Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09655</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09172</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives</title>
-      <link>https://arxiv.org/abs/2506.09656</link>
-      <description>&lt;![CDATA[Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives]]&gt;</description>
+      <title>The Curious Language Model: Strategic Test-Time Information Acquisition</title>
+      <link>https://arxiv.org/abs/2506.09173</link>
+      <description>&lt;![CDATA[The Curious Language Model: Strategic Test-Time Information Acquisition]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09656</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09173</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Intent Factored Generation: Unleashing the Diversity in Your Language Model</title>
-      <link>https://arxiv.org/abs/2506.09659</link>
-      <description>&lt;![CDATA[Intent Factored Generation: Unleashing the Diversity in Your Language Model]]&gt;</description>
+      <title>Multivariate Long-term Time Series Forecasting with Fourier Neural Filter</title>
+      <link>https://arxiv.org/abs/2506.09174</link>
+      <description>&lt;![CDATA[Multivariate Long-term Time Series Forecasting with Fourier Neural Filter]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09659</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09174</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How Do People Revise Inconsistent Beliefs? Examining Belief Revision in Humans with User Studies</title>
-      <link>https://arxiv.org/abs/2506.09977</link>
-      <description>&lt;![CDATA[How Do People Revise Inconsistent Beliefs? Examining Belief Revision in Humans with User Studies]]&gt;</description>
+      <title>LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting</title>
+      <link>https://arxiv.org/abs/2506.09193</link>
+      <description>&lt;![CDATA[LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09977</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09193</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning</title>
-      <link>https://arxiv.org/abs/2506.09985</link>
-      <description>&lt;![CDATA[V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning]]&gt;</description>
+      <title>FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems</title>
+      <link>https://arxiv.org/abs/2506.09200</link>
+      <description>&lt;![CDATA[FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09985</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09200</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling</title>
-      <link>https://arxiv.org/abs/2506.08672</link>
-      <description>&lt;![CDATA[RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling]]&gt;</description>
+      <title>mLaSDI: Multi-stage latent space dynamics identification</title>
+      <link>https://arxiv.org/abs/2506.09207</link>
+      <description>&lt;![CDATA[mLaSDI: Multi-stage latent space dynamics identification]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08672</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09207</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Llama-Affinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture</title>
-      <link>https://arxiv.org/abs/2506.09052</link>
-      <description>&lt;![CDATA[Llama-Affinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture]]&gt;</description>
+      <title>SoK: Machine Unlearning for Large Language Models</title>
+      <link>https://arxiv.org/abs/2506.09227</link>
+      <description>&lt;![CDATA[SoK: Machine Unlearning for Large Language Models]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09052</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09227</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>EdgeProfiler: A Fast Profiling Framework for Lightweight LLMs on Edge Using Analytical Model</title>
-      <link>https://arxiv.org/abs/2506.09061</link>
-      <description>&lt;![CDATA[EdgeProfiler: A Fast Profiling Framework for Lightweight LLMs on Edge Using Analytical Model]]&gt;</description>
+      <title>Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation</title>
+      <link>https://arxiv.org/abs/2506.09247</link>
+      <description>&lt;![CDATA[Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09061</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09247</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Exploring Image Transforms derived from Eye Gaze Variables for Progressive Autism Diagnosis</title>
-      <link>https://arxiv.org/abs/2506.09065</link>
-      <description>&lt;![CDATA[Exploring Image Transforms derived from Eye Gaze Variables for Progressive Autism Diagnosis]]&gt;</description>
+      <title>CFMI: Flow Matching for Missing Data Imputation</title>
+      <link>https://arxiv.org/abs/2506.09258</link>
+      <description>&lt;![CDATA[CFMI: Flow Matching for Missing Data Imputation]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09065</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09258</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ReStNet: A Reusable &amp; Stitchable Network for Dynamic Adaptation on IoT Devices</title>
-      <link>https://arxiv.org/abs/2506.09066</link>
-      <description>&lt;![CDATA[ReStNet: A Reusable &amp; Stitchable Network for Dynamic Adaptation on IoT Devices]]&gt;</description>
+      <title>Uncertainty Prioritized Experience Replay</title>
+      <link>https://arxiv.org/abs/2506.09270</link>
+      <description>&lt;![CDATA[Uncertainty Prioritized Experience Replay]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09066</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09270</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations</title>
-      <link>https://arxiv.org/abs/2506.09067</link>
-      <description>&lt;![CDATA[Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations]]&gt;</description>
+      <title>G-Sim: Generative Simulations with Large Language Models and Gradient-Free Calibration</title>
+      <link>https://arxiv.org/abs/2506.09272</link>
+      <description>&lt;![CDATA[G-Sim: Generative Simulations with Large Language Models and Gradient-Free Calibration]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09067</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09272</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>STREAMINGGS: Voxel-Based Streaming 3D Gaussian Splatting with Memory Optimization and Architectural Support</title>
-      <link>https://arxiv.org/abs/2506.09070</link>
-      <description>&lt;![CDATA[STREAMINGGS: Voxel-Based Streaming 3D Gaussian Splatting with Memory Optimization and Architectural Support]]&gt;</description>
+      <title>A Topic Modeling Analysis of Stigma Dimensions, Social, and Related Behavioral Circumstances in Clinical Notes Among Patients with HIV</title>
+      <link>https://arxiv.org/abs/2506.09279</link>
+      <description>&lt;![CDATA[A Topic Modeling Analysis of Stigma Dimensions, Social, and Related Behavioral Circumstances in Clinical Notes Among Patients with HIV]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09070</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09279</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Segment Any Architectural Facades (SAAF):An automatic segmentation model for building facades, walls and windows based on multimodal semantics guidance</title>
-      <link>https://arxiv.org/abs/2506.09071</link>
-      <description>&lt;![CDATA[Segment Any Architectural Facades (SAAF):An automatic segmentation model for building facades, walls and windows based on multimodal semantics guidance]]&gt;</description>
+      <title>On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention</title>
+      <link>https://arxiv.org/abs/2506.09316</link>
+      <description>&lt;![CDATA[On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09071</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09316</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks</title>
-      <link>https://arxiv.org/abs/2506.09079</link>
-      <description>&lt;![CDATA[VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks]]&gt;</description>
+      <title>Natural Language Guided Ligand-Binding Protein Design</title>
+      <link>https://arxiv.org/abs/2506.09332</link>
+      <description>&lt;![CDATA[Natural Language Guided Ligand-Binding Protein Design]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09079</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09332</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making</title>
-      <link>https://arxiv.org/abs/2506.09080</link>
-      <description>&lt;![CDATA[FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making]]&gt;</description>
+      <title>Adversarial Surrogate Risk Bounds for Binary Classification</title>
+      <link>https://arxiv.org/abs/2506.09348</link>
+      <description>&lt;![CDATA[Adversarial Surrogate Risk Bounds for Binary Classification]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09080</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09348</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation</title>
-      <link>https://arxiv.org/abs/2506.09081</link>
-      <description>&lt;![CDATA[FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation]]&gt;</description>
+      <title>Revisiting Diffusion Models: From Generative Pre-training to One-Step Generation</title>
+      <link>https://arxiv.org/abs/2506.09376</link>
+      <description>&lt;![CDATA[Revisiting Diffusion Models: From Generative Pre-training to One-Step Generation]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09081</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09376</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models</title>
-      <link>https://arxiv.org/abs/2506.09082</link>
-      <description>&lt;![CDATA[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models]]&gt;</description>
+      <title>Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames</title>
+      <link>https://arxiv.org/abs/2506.09398</link>
+      <description>&lt;![CDATA[Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09082</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09398</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>BakuFlow: A Streamlining Semi-Automatic Label Generation Tool</title>
-      <link>https://arxiv.org/abs/2506.09083</link>
-      <description>&lt;![CDATA[BakuFlow: A Streamlining Semi-Automatic Label Generation Tool]]&gt;</description>
+      <title>Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization</title>
+      <link>https://arxiv.org/abs/2506.09404</link>
+      <description>&lt;![CDATA[Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09083</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09404</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Enhanced Whole Page Optimization via Mixed-Grained Reward Mechanism-Adapted Language Models</title>
-      <link>https://arxiv.org/abs/2506.09084</link>
-      <description>&lt;![CDATA[Enhanced Whole Page Optimization via Mixed-Grained Reward Mechanism-Adapted Language Models]]&gt;</description>
+      <title>Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training</title>
+      <link>https://arxiv.org/abs/2506.09433</link>
+      <description>&lt;![CDATA[Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09084</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09433</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLM-ML Teaming: Integrated Symbolic Decoding and Gradient Search for Valid and Stable Generative Feature Transformation</title>
-      <link>https://arxiv.org/abs/2506.09085</link>
-      <description>&lt;![CDATA[LLM-ML Teaming: Integrated Symbolic Decoding and Gradient Search for Valid and Stable Generative Feature Transformation]]&gt;</description>
+      <title>Generalization Error Analysis for Attack-Free and Byzantine-Resilient Decentralized Learning with Data Heterogeneity</title>
+      <link>https://arxiv.org/abs/2506.09438</link>
+      <description>&lt;![CDATA[Generalization Error Analysis for Attack-Free and Byzantine-Resilient Decentralized Learning with Data Heterogeneity]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09085</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09438</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Designing conflict-based communicative tasks in Teaching Chinese as a Foreign Language with ChatGPT</title>
-      <link>https://arxiv.org/abs/2506.09089</link>
-      <description>&lt;![CDATA[Designing conflict-based communicative tasks in Teaching Chinese as a Foreign Language with ChatGPT]]&gt;</description>
+      <title>Safe Screening Rules for Group SLOPE</title>
+      <link>https://arxiv.org/abs/2506.09451</link>
+      <description>&lt;![CDATA[Safe Screening Rules for Group SLOPE]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09089</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09451</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CUDA-LLM: LLMs Can Write Efficient CUDA Kernels</title>
-      <link>https://arxiv.org/abs/2506.09092</link>
-      <description>&lt;![CDATA[CUDA-LLM: LLMs Can Write Efficient CUDA Kernels]]&gt;</description>
+      <title>Learning Obfuscations Of LLM Embedding Sequences: Stained Glass Transform</title>
+      <link>https://arxiv.org/abs/2506.09452</link>
+      <description>&lt;![CDATA[Learning Obfuscations Of LLM Embedding Sequences: Stained Glass Transform]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09092</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09452</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data</title>
-      <link>https://arxiv.org/abs/2506.09093</link>
-      <description>&lt;![CDATA[Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data]]&gt;</description>
+      <title>NDCG-Consistent Softmax Approximation with Accelerated Convergence</title>
+      <link>https://arxiv.org/abs/2506.09454</link>
+      <description>&lt;![CDATA[NDCG-Consistent Softmax Approximation with Accelerated Convergence]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09093</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09454</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Foundation Models in Medical Imaging -- A Review and Outlook</title>
-      <link>https://arxiv.org/abs/2506.09095</link>
-      <description>&lt;![CDATA[Foundation Models in Medical Imaging -- A Review and Outlook]]&gt;</description>
+      <title>On a few pitfalls in KL divergence gradient estimation for RL</title>
+      <link>https://arxiv.org/abs/2506.09477</link>
+      <description>&lt;![CDATA[On a few pitfalls in KL divergence gradient estimation for RL]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09095</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09477</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Intra-Trajectory Consistency for Reward Modeling</title>
-      <link>https://arxiv.org/abs/2506.09096</link>
-      <description>&lt;![CDATA[Intra-Trajectory Consistency for Reward Modeling]]&gt;</description>
+      <title>STOAT: Spatial-Temporal Probabilistic Causal Inference Network</title>
+      <link>https://arxiv.org/abs/2506.09544</link>
+      <description>&lt;![CDATA[STOAT: Spatial-Temporal Probabilistic Causal Inference Network]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09096</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09544</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers</title>
-      <link>https://arxiv.org/abs/2506.09099</link>
-      <description>&lt;![CDATA[Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers]]&gt;</description>
+      <title>MOORL: A Framework for Integrating Offline-Online Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2506.09574</link>
+      <description>&lt;![CDATA[MOORL: A Framework for Integrating Offline-Online Reinforcement Learning]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09099</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Feature Shift Localization Network</title>
-      <link>https://arxiv.org/abs/2506.09101</link>
-      <description>&lt;![CDATA[Feature Shift Localization Network]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09101</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Revolutionizing Clinical Trials: A Manifesto for AI-Driven Transformation</title>
-      <link>https://arxiv.org/abs/2506.09102</link>
-      <description>&lt;![CDATA[Revolutionizing Clinical Trials: A Manifesto for AI-Driven Transformation]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09102</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.09574</guid>
       <category>AI</category>
     </item>
   </channel>

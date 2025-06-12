@@ -2,7 +2,41 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 08:16
+**最后更新时间**: 2025-06-12 12:21
+
+---
+
+## 🆕 最新更新 (2025-06-12 12:21)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: PPI to reflect how closely wholesale inflation tracks retail](https://www.marketwatch.com/bulletins/redirect/go?g=818b1733-448c-455f-8d55-4ee04b1d2c45&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 12:14
+
+#### [Boeing stock slumps after crash of Air India-operated Dreamliner](https://www.marketwatch.com/bulletins/redirect/go?g=925e03d3-f3a4-471d-9cba-d6cd4f821ac0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 10:10
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Boeing stock’s big recovery now in jeopardy after Air India crash](https://www.marketwatch.com/story/boeing-stocks-big-recovery-now-in-jeopardy-after-air-india-crash-6a1edf09?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 12:13
+
+#### [Hugh Jackman lists NYC penthouse for $39 million amid divorce from Deborra-Lee Furness](https://www.marketwatch.com/story/hugh-jackman-lists-nyc-penthouse-for-39-million-amid-divorce-from-deborra-lee-furness-e9411d41?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 12:01
+
+#### [A weak dollar threatens your spending and savings in ways you wouldn’t expect. Here’s what to know about it.](https://www.marketwatch.com/story/a-weak-dollar-threatens-your-spending-and-savings-in-ways-you-wouldnt-expect-heres-what-to-know-about-it-a5549eb1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 11:50
+
+#### [How to make money while paying your biggest monthly expenses — mortgage and car payments included](https://www.marketwatch.com/story/how-to-make-money-while-paying-your-biggest-monthly-expenses-mortgage-and-car-payments-included-cedc79c0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 11:00
+
+#### [Gundlach says gold is no longer for lunatics as the bond king says wait to buy the 30-year](https://www.marketwatch.com/story/gundlach-says-gold-is-no-longer-for-lunatics-as-the-bond-king-says-wait-to-buy-the-30-year-4905f640?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 10:56
+
+#### [My husband is in hospice care. Friends say his children are lining up for his money. What can I do?](https://www.marketwatch.com/story/my-husband-is-in-hospice-care-friends-say-his-children-are-lining-up-for-his-money-what-can-i-do-de95735e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 09:15
+
+#### [OpenAI’s Sam Altman: We may have already passed the point where artificial intelligence surpasses human intelligence](https://www.marketwatch.com/story/openais-sam-altman-we-may-have-already-passed-the-point-where-artificial-intelligence-surpasses-human-intelligence-0df6ce63?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 08:41
 
 ---
 
