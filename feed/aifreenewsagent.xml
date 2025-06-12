@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 12:22:34 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 00:55:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:56:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bringing meaning into technology deployment</title>
+      <link>https://news.mit.edu/2025/bringing-meaning-technology-deployment-0611</link>
+      <description>&lt;![CDATA[Bringing meaning into technology deployment]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/bringing-meaning-technology-deployment-0611</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Photonic processor could streamline 6G wireless signal processing</title>
+      <link>https://news.mit.edu/2025/photonic-processor-could-streamline-6g-wireless-signal-processing-0611</link>
+      <description>&lt;![CDATA[Photonic processor could streamline 6G wireless signal processing]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/photonic-processor-could-streamline-6g-wireless-signal-processing-0611</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Have a damaged painting? Restore it in just hours with an AI-generated “mask”</title>
+      <link>https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611</link>
+      <description>&lt;![CDATA[Have a damaged painting? Restore it in just hours with an AI-generated “mask”]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: Amsterdam’s welfare AI experiment, and making humanoid robots safer</title>
+      <link>https://www.technologyreview.com/2025/06/11/1118528/the-download-amsterdams-welfare-ai-experiment-and-making-humanoid-robots-safer/</link>
+      <description>&lt;![CDATA[The Download: Amsterdam’s welfare AI experiment, and making humanoid robots safer]]&gt;</description>
+      <pubDate>Wed, 11 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/11/1118528/the-download-amsterdams-welfare-ai-experiment-and-making-humanoid-robots-safer/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>这家日本企业，有张能跑「百万行」的飞书多维表格！</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-11-10</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning]]&gt;</description>
       <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.08745</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Sample Efficient Conditional Independence Test in the Presence of Discretization</title>
-      <link>https://arxiv.org/abs/2506.08747</link>
-      <description>&lt;![CDATA[A Sample Efficient Conditional Independence Test in the Presence of Discretization]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08747</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery</title>
-      <link>https://arxiv.org/abs/2506.08771</link>
-      <description>&lt;![CDATA[Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08771</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents</title>
-      <link>https://arxiv.org/abs/2506.08800</link>
-      <description>&lt;![CDATA[Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08800</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task</title>
-      <link>https://arxiv.org/abs/2506.08872</link>
-      <description>&lt;![CDATA[Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.08872</guid>
       <category>AI</category>
     </item>
   </channel>

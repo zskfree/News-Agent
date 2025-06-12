@@ -2,7 +2,143 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 12:22
+**最后更新时间**: 2025-06-12 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-12 00:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海底捞出海挺入“深水区”：降价保客流，如何坐稳全球餐桌？](https://www.tmtpost.com/7594101.html)
+**发布时间**: 2025-06-12 08:51
+
+#### [中国新能源车抢滩拉美](https://www.tmtpost.com/7594069.html)
+**发布时间**: 2025-06-12 08:51
+
+#### [182只基金抱团捧红3600亿泡泡玛特，拉布布老板新晋“河南首富”](https://www.tmtpost.com/7594157.html)
+**发布时间**: 2025-06-12 08:38
+
+#### [1元冰杯卖爆：蜜雪冰城们赔本赚吆喝，图什么？](https://www.tmtpost.com/7594142.html)
+**发布时间**: 2025-06-12 08:38
+
+#### [房价暴涨3倍、电动车净赚10倍，这个中亚黑马正在发生什么？](https://www.tmtpost.com/7594089.html)
+**发布时间**: 2025-06-12 08:27
+
+#### [雷军砸钱的“中年男性生意”，不好干](https://www.tmtpost.com/7594140.html)
+**发布时间**: 2025-06-12 08:27
+
+#### [20年赚了125亿，外资股东高位清仓杭州银行](https://www.tmtpost.com/7594158.html)
+**发布时间**: 2025-06-12 08:26
+
+#### [喜马拉雅200亿卖身TME，音频市场的战局才刚刚开始？](https://www.tmtpost.com/7594166.html)
+**发布时间**: 2025-06-12 08:12
+
+#### [美的的盾，能否扛住小米的矛？](https://www.tmtpost.com/7594070.html)
+**发布时间**: 2025-06-12 08:11
+
+#### [科股早知道：正式迈入批量生产阶段，该大型航空细分装备体系建设取得关键里程碑](https://www.tmtpost.com/7594183.html)
+**发布时间**: 2025-06-12 08:00
+
+#### [【钛晨报】中美经贸磋商机制首次会议在英国伦敦举行；“支付账期不超60天”，已有16家车企表态，其中2家明确取消商业承兑汇票等结算方式；英伟达CEO黄仁勋：计划在欧洲新建20家AI工厂](https://www.tmtpost.com/7594084.html)
+**发布时间**: 2025-06-12 07:20
+
+#### [全球智能影像龙头影石创新成功登陆科创板](https://www.tmtpost.com/7593732.html)
+**发布时间**: 2025-06-11 22:29
+
+#### [鸿蒙用户每日应用下载更新超720万，余承东：Pura 80绝对对得起“那四个字”](https://www.tmtpost.com/7594066.html)
+**发布时间**: 2025-06-11 21:29
+
+#### [国产手机四强鏖战2025：华为猛攻，苹果退守，欧洲成关键战场](https://www.tmtpost.com/7593340.html)
+**发布时间**: 2025-06-11 21:04
+
+#### [SIA：美国半导体实力，官方数据来了](https://www.tmtpost.com/7593913.html)
+**发布时间**: 2025-06-11 21:03
+
+#### [小象超市进军沙特，生鲜出海集体奔赴下一个战场](https://www.tmtpost.com/7593608.html)
+**发布时间**: 2025-06-11 21:03
+
+#### [“超级转转”，一家“二奢卖场”的诞生](https://www.tmtpost.com/7593923.html)
+**发布时间**: 2025-06-11 20:57
+
+#### [“排队”1688天终于上市，Insta 360的竞争才刚刚开始](https://www.tmtpost.com/7593919.html)
+**发布时间**: 2025-06-11 20:57
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克道歉，特朗普回应；阿里离职员工发万字长文，马云回应；华为发布 Pura 80 系列，余承东称对得起那四个字](http://www.geekpark.net/news/350303)
+**发布时间**: 2025-06-12 08:44
+
+#### [500 万下载、ARR 400 万美元，这只「外星 AI」为何让年轻人上头？](http://www.geekpark.net/news/350302)
+**发布时间**: 2025-06-11 21:24
+
+#### [开盘暴涨 3 倍，全球化的影石给中国硬件创新立了新榜样](http://www.geekpark.net/news/350301)
+**发布时间**: 2025-06-11 21:11
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [李书福拼了](http://www.huxiu.com/article/4441283.html?f=wangzhan)
+**发布时间**: 2025-06-12 05:11
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Blackstone Griddle Air Fryer Combo Review: Silly, but Nice](https://www.wired.com/review/blackstone-iron-forged-griddle-air-fryer/)
+**发布时间**: 2025-06-11 23:10
+
+#### [The EPA Wants to Roll Back Emissions Controls on Power Plants](https://www.wired.com/story/the-epa-is-trying-to-roll-back-emissions-controls-on-power-plants/)
+**发布时间**: 2025-06-11 20:36
+
+#### [My Virtual Avatar No Longer Looks Terrible in the Apple Vision Pro](https://www.wired.com/story/apples-vision-pro-personas-look-so-much-better/)
+**发布时间**: 2025-06-11 20:07
+
+#### [An Experimental New Dating Site Matches Singles Based on Their Browser Histories](https://www.wired.com/story/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories/)
+**发布时间**: 2025-06-11 18:56
+
+#### [How Waymo Handles Footage From Events Like the LA Immigration Protests](https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/)
+**发布时间**: 2025-06-11 18:39
+
+#### [Disney and Universal Sue AI Company Midjourney for Copyright Infringement](https://www.wired.com/story/disney-universal-sue-midjourney/)
+**发布时间**: 2025-06-11 17:52
+
+#### [A Deep Learning Alternative Can Help AI Agents Gameplay the Real World](https://www.wired.com/story/a-deep-learning-alternative-can-help-ai-agents-gameplay-the-real-world/)
+**发布时间**: 2025-06-11 16:30
+
+#### [Senators Warn DOGE’s Social Security Administration Work Could Break Benefits](https://www.wired.com/story/doge-social-security-administration-benefits/)
+**发布时间**: 2025-06-11 14:32
+
+#### [Best Workout Headphones We Tested and Sweated In (2025)](https://www.wired.com/gallery/best-workout-headphones/)
+**发布时间**: 2025-06-11 12:33
+
+#### [Shot by His Father and Left Blind—Now He's a Hardcore Gamer](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
+**发布时间**: 2025-06-11 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)
+**发布时间**: 2025-06-11 21:34
+
+#### [Google will reduce Pixel 6A battery capacity due to overheating issues](https://www.theverge.com/news/685738/google-pixel-6a-battery-overheating-update)
+**发布时间**: 2025-06-11 21:10
+
+#### [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+**发布时间**: 2025-06-11 19:56
+
+#### [FCC’s last Democratic commissioner doesn’t know why Trump hasn’t fired her yet](https://www.theverge.com/policy/685599/fcc-commissioner-democrat-anna-gomez-trump-carr-first-amendment-tour)
+**发布时间**: 2025-06-11 19:44
+
+#### [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
+**发布时间**: 2025-06-11 19:44
+
+#### [Reddit is looking for a new product boss](https://www.theverge.com/tech/685645/reddit-chief-product-officer-pali-bhat-leaving)
+**发布时间**: 2025-06-11 19:22
+
+#### [Meta’s new AI video tool can put you in a desert (or at least try to)](https://www.theverge.com/news/685581/meta-video-editing-ai-preset-prompts)
+**发布时间**: 2025-06-11 18:20
+
+#### [Apple’s updated parental controls will require kids to get permission to text new numbers](https://www.theverge.com/news/685582/apple-parental-controls-child-safety-features-permission-text)
+**发布时间**: 2025-06-11 18:06
+
+#### [You can own a functional version of Jeff Koons’ Balloon Dog sculptures for $750](https://www.theverge.com/news/685571/jeff-koons-lexon-design-balloon-dog-bluetooth-speaker-lamp)
+**发布时间**: 2025-06-11 17:24
 
 ---
 

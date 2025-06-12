@@ -2,7 +2,26 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 12:22
+**最后更新时间**: 2025-06-12 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-12 00:55)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Bringing meaning into technology deployment](https://news.mit.edu/2025/bringing-meaning-technology-deployment-0611)
+**发布时间**: 2025-06-11 16:15
+
+#### [Photonic processor could streamline 6G wireless signal processing](https://news.mit.edu/2025/photonic-processor-could-streamline-6g-wireless-signal-processing-0611)
+**发布时间**: 2025-06-11 14:00
+
+#### [Have a damaged painting? Restore it in just hours with an AI-generated “mask”](https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611)
+**发布时间**: 2025-06-11 11:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Amsterdam’s welfare AI experiment, and making humanoid robots safer](https://www.technologyreview.com/2025/06/11/1118528/the-download-amsterdams-welfare-ai-experiment-and-making-humanoid-robots-safer/)
+**发布时间**: 2025-06-11 12:10
 
 ---
 

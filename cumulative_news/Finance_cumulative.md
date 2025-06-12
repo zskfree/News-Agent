@@ -2,7 +2,65 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-11 12:22
+**最后更新时间**: 2025-06-12 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-12 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Maker of Tommy Bahama says consumer caution is affecting ‘fundamentally everything we sell’](https://www.marketwatch.com/story/maker-of-tommy-bahama-says-consumer-caution-is-affecting-fundamentally-everything-we-sell-add2613f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 00:13
+
+#### [GameStop hints at its next bitcoin buy. The stock is tumbling.](https://www.marketwatch.com/story/gamestop-hints-at-its-next-bitcoin-buy-the-stock-is-tumbling-26bff165?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 00:13
+
+#### [This Buffett favorite is one of 4 cheap stocks the ‘smartest money’ has been buying lately](https://www.marketwatch.com/story/this-buffett-favorite-is-one-of-4-cheap-stocks-the-smartest-money-has-been-buying-lately-acd7cb60?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 23:44
+
+#### [Investor demand for Voyager’s stock keeps growing, despite a mixed history for space-tech IPOs](https://www.marketwatch.com/story/voyager-technologies-ipo-shows-investors-are-still-hot-on-space-stocks-despite-a-mixed-history-df36f263?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 23:40
+
+#### [Chime prices IPO at $27 a share, above its expected range](https://www.marketwatch.com/story/chime-prices-ipo-at-27-a-share-above-its-expected-range-96dd4d45?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 23:35
+
+#### [My son, 39, will be released from prison in 2030. Do I leave him my $100K life insurance?](https://www.marketwatch.com/story/my-son-39-will-be-released-from-prison-in-2030-do-i-leave-him-my-100k-life-insurance-6bfd622c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 22:39
+
+#### [I’m in my 80s and have 2 kids. How do I choose between them to be my executor?](https://www.marketwatch.com/story/we-have-2-children-one-has-legal-knowledge-and-lives-far-away-the-other-lacks-financial-savvy-but-lives-nearby-who-should-we-appoint-as-executor-937d1d4e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-11 22:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Chime prices IPO at $27 a share, above its expected range](https://www.marketwatch.com/bulletins/redirect/go?g=28583be0-4ace-4691-9e40-d7e27920dfa2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 23:36
+
+#### [Gut-wrenching stock declines are more common than you might think](https://www.marketwatch.com/bulletins/redirect/go?g=f24eea41-08d7-4cc5-8635-12834eb48893&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 22:32
+
+#### [GameStop hints at its next bitcoin buy. The stock is tumbling.](https://www.marketwatch.com/bulletins/redirect/go?g=3f3d32f1-2865-477d-bc95-16a926eb6e48&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 21:51
+
+#### [Here's what tariffs retailers can, and can't, handle in a U.S.-China trade deal](https://www.marketwatch.com/bulletins/redirect/go?g=e88eba8f-3994-4b55-a4a9-98edae1bd2c9&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 21:21
+
+#### [The U.S. debt-limit deadlock is making this favorite asset more scarce](https://www.marketwatch.com/bulletins/redirect/go?g=0f3285bc-cf8e-44c5-8ba8-548875f5709f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 20:31
+
+#### [Dow ends flat, S&P and Nasdaq fall as details emerge on U.S.-China trade deal](https://www.marketwatch.com/bulletins/redirect/go?g=d49b1b5b-8fac-49dc-a8dd-b3cefaeafca5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 20:03
+
+#### [What AI can — and can’t — do for investors right now](https://www.marketwatch.com/bulletins/redirect/go?g=fb19563e-6494-4a5d-92e1-731862ddf946&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 19:32
+
+#### [Stocks turn lower as details on U.S.-China trade deal emerge — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=5dbc4124-1f02-4a61-a612-0074666c5c55&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 19:03
+
+#### [Here comes another key inflation report](https://www.marketwatch.com/bulletins/redirect/go?g=81a44218-8b25-471d-b9b0-f75d2d12d026&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 17:00
+
+#### [Tesla delays robotaxi debut in Austin. Here’s what that means for the stock.](https://www.marketwatch.com/bulletins/redirect/go?g=1eda1079-42ae-4ba3-83f6-90281374d000&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-11 15:50
 
 ---
 
