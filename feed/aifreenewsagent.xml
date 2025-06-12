@@ -5,14 +5,86 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Jun 2025 04:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 04:24:17 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 08:16:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>英伟达要打造全球首个工业AI云，配万块GPU</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-11</link>
+      <description>&lt;![CDATA[英伟达要打造全球首个工业AI云，配万块GPU]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>字节自研AI IDE “TRAE”，月活用户已超百万</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-10</link>
+      <description>&lt;![CDATA[字节自研AI IDE “TRAE”，月活用户已超百万]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从高考到实战，豆包大模型交卷了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-9</link>
+      <description>&lt;![CDATA[从高考到实战，豆包大模型交卷了]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>通义实验室最新成果WebDancer：开启自主智能Deep Research的新时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-8</link>
+      <description>&lt;![CDATA[通义实验室最新成果WebDancer：开启自主智能Deep Research的新时代]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>256块NPU训成8B视频模型、超越Sora等一众闭源！抖音内容技术团队开源ContentV</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-7</link>
+      <description>&lt;![CDATA[256块NPU训成8B视频模型、超越Sora等一众闭源！抖音内容技术团队开源ContentV]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACL 2025 | 让大模型听懂育种的语言，科学家提出首个种子科学多任务评测基准SeedBench</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-12-6</link>
+      <description>&lt;![CDATA[ACL 2025 | 让大模型听懂育种的语言，科学家提出首个种子科学多任务评测基准SeedBench]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-12-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI眼镜沙龙｜距离全民标配还有多远？</title>
+      <link>https://www.qbitai.com/2025/06/293417.html</link>
+      <description>&lt;![CDATA[AI眼镜沙龙｜距离全民标配还有多远？]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293417.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>每秒生成超30帧视频，支持实时交互！自回归视频生成新框架刷新生成效率</title>
+      <link>https://www.qbitai.com/2025/06/293399.html</link>
+      <description>&lt;![CDATA[每秒生成超30帧视频，支持实时交互！自回归视频生成新框架刷新生成效率]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293399.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个沉浸式体积视频数据集ImViD上线，定义沉浸式媒体新形态丨CVPR‘25 Highlight</title>
+      <link>https://www.qbitai.com/2025/06/293352.html</link>
+      <description>&lt;![CDATA[首个沉浸式体积视频数据集ImViD上线，定义沉浸式媒体新形态丨CVPR‘25 Highlight]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293352.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>SIGGRAPH 2025奖项出炉：上科大、厦大最佳论文</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-12-5</link>
@@ -339,78 +411,6 @@
       <description>&lt;![CDATA[Revolutionizing Clinical Trials: A Manifesto for AI-Driven Transformation]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.09102</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Unifying Block-wise PTQ and Distillation-based QAT for Progressive Quantization toward 2-bit Instruction-Tuned LLMs</title>
-      <link>https://arxiv.org/abs/2506.09104</link>
-      <description>&lt;![CDATA[Unifying Block-wise PTQ and Distillation-based QAT for Progressive Quantization toward 2-bit Instruction-Tuned LLMs]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09104</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning</title>
-      <link>https://arxiv.org/abs/2506.09105</link>
-      <description>&lt;![CDATA[MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09105</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FAIRTOPIA: Envisioning Multi-Agent Guardianship for Disrupting Unfair AI Pipelines</title>
-      <link>https://arxiv.org/abs/2506.09107</link>
-      <description>&lt;![CDATA[FAIRTOPIA: Envisioning Multi-Agent Guardianship for Disrupting Unfair AI Pipelines]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09107</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SensorLM: Learning the Language of Wearable Sensors</title>
-      <link>https://arxiv.org/abs/2506.09108</link>
-      <description>&lt;![CDATA[SensorLM: Learning the Language of Wearable Sensors]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09108</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM-as-a-qualitative-judge: automating error analysis in natural language generation</title>
-      <link>https://arxiv.org/abs/2506.09147</link>
-      <description>&lt;![CDATA[LLM-as-a-qualitative-judge: automating error analysis in natural language generation]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09147</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Understanding Human-AI Trust in Education</title>
-      <link>https://arxiv.org/abs/2506.09160</link>
-      <description>&lt;![CDATA[Understanding Human-AI Trust in Education]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09160</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Estimating Visceral Adiposity from Wrist-Worn Accelerometry</title>
-      <link>https://arxiv.org/abs/2506.09167</link>
-      <description>&lt;![CDATA[Estimating Visceral Adiposity from Wrist-Worn Accelerometry]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09167</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search</title>
-      <link>https://arxiv.org/abs/2506.09171</link>
-      <description>&lt;![CDATA[Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09171</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PHRASED: Phrase Dictionary Biasing for Speech Translation</title>
-      <link>https://arxiv.org/abs/2506.09175</link>
-      <description>&lt;![CDATA[PHRASED: Phrase Dictionary Biasing for Speech Translation]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09175</guid>
       <category>AI</category>
     </item>
   </channel>

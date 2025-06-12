@@ -2,7 +2,20 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 04:24
+**最后更新时间**: 2025-06-12 08:16
+
+---
+
+## 🆕 最新更新 (2025-06-12 08:16)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [S&P 500 futures slip on tariff, Iran attack concerns](https://www.marketwatch.com/bulletins/redirect/go?g=37d1f60f-3279-4902-926e-d4630f69215d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 08:14
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The biggest market for AI funds is Europe even as most holdings are American, Morningstar says](https://www.marketwatch.com/story/the-biggest-market-for-ai-funds-is-europe-even-as-most-holdings-are-american-morningstar-says-0582e87f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 06:44
 
 ---
 
