@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 00:56:09 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 04:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 04:24:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>U.S. debt-limit deadlock is making this favorite asset more scarce</title>
+      <link>https://www.marketwatch.com/story/u-s-debt-limit-deadlock-is-making-this-favorite-asset-more-scarce-a20c4352?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[U.S. debt-limit deadlock is making this favorite asset more scarce]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 01:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-debt-limit-deadlock-is-making-this-favorite-asset-more-scarce-a20c4352?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Maker of Tommy Bahama says consumer caution is affecting ‘fundamentally everything we sell’</title>
       <link>https://www.marketwatch.com/story/maker-of-tommy-bahama-says-consumer-caution-is-affecting-fundamentally-everything-we-sell-add2613f?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[‘It might be another Apple or Microsoft’: My wife invested $100K in one stock and it exploded 1,500%. Do we sell?]]&gt;</description>
       <pubDate>Mon, 09 Jun 2025 20:40:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/it-might-be-another-apple-or-microsoft-my-wife-invested-100k-in-one-stock-and-it-exploded-1-500-do-we-sell-92c72bf7?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A downgrade for Tesla as this Wall Street firm sees too much uncertainty on too many fronts</title>
-      <link>https://www.marketwatch.com/story/a-rare-downgrade-for-tesla-as-this-wall-street-firm-sees-too-much-uncertainty-on-too-many-fronts-5460cd76?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[A downgrade for Tesla as this Wall Street firm sees too much uncertainty on too many fronts]]&gt;</description>
-      <pubDate>Mon, 09 Jun 2025 12:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/a-rare-downgrade-for-tesla-as-this-wall-street-firm-sees-too-much-uncertainty-on-too-many-fronts-5460cd76?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

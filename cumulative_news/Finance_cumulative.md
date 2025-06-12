@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 00:56
+**最后更新时间**: 2025-06-12 04:24
+
+---
+
+## 🆕 最新更新 (2025-06-12 04:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. debt-limit deadlock is making this favorite asset more scarce](https://www.marketwatch.com/story/u-s-debt-limit-deadlock-is-making-this-favorite-asset-more-scarce-a20c4352?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 01:26
 
 ---
 
