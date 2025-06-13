@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Jun 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 12:21:58 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:56:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Economic calendar: PPI to reflect how closely wholesale inflation tracks retail</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=818b1733-448c-455f-8d55-4ee04b1d2c45&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Economic calendar: PPI to reflect how closely wholesale inflation tracks retail]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=818b1733-448c-455f-8d55-4ee04b1d2c45&amp;mod=mw_rss_bulletins</guid>
+      <title>Oil prices spike, U.S. stock futures fall as Israel says it’s striking Iran</title>
+      <link>https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil prices spike, U.S. stock futures fall as Israel says it’s striking Iran]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 00:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AMD’s efforts to chase Nvidia have fallen flat. Can its new chips help?</title>
+      <link>https://www.marketwatch.com/story/amds-efforts-to-chase-nvidia-have-fallen-flat-can-its-new-chips-help-b60d251d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AMD’s efforts to chase Nvidia have fallen flat. Can its new chips help?]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 23:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/amds-efforts-to-chase-nvidia-have-fallen-flat-can-its-new-chips-help-b60d251d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A do-nothing Congress is wreaking havoc on your investments. Here’s how to fight back.</title>
+      <link>https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[A do-nothing Congress is wreaking havoc on your investments. Here’s how to fight back.]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 22:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Medical debt can pain your family. Here’s how to avoid it and get the care you need.</title>
+      <link>https://www.marketwatch.com/story/your-medical-debt-can-outlive-you-heres-how-to-avoid-it-and-get-the-care-you-need-dd86bd30?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Medical debt can pain your family. Here’s how to avoid it and get the care you need.]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 22:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/your-medical-debt-can-outlive-you-heres-how-to-avoid-it-and-get-the-care-you-need-dd86bd30?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the plunging U.S. dollar is putting your spending and savings power at risk</title>
+      <link>https://www.marketwatch.com/story/a-weak-dollar-threatens-your-spending-and-savings-in-ways-you-wouldnt-expect-heres-what-to-know-about-it-a5549eb1?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why the plunging U.S. dollar is putting your spending and savings power at risk]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 22:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/a-weak-dollar-threatens-your-spending-and-savings-in-ways-you-wouldnt-expect-heres-what-to-know-about-it-a5549eb1?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Micron’s stock is on a hot streak. Can it continue?</title>
+      <link>https://www.marketwatch.com/story/microns-stock-is-on-a-hot-streak-can-it-continue-c32196e3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Micron’s stock is on a hot streak. Can it continue?]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 22:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/microns-stock-is-on-a-hot-streak-can-it-continue-c32196e3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>RH, slammed by tariff fears in April, is now rallying. Here’s why.</title>
+      <link>https://www.marketwatch.com/story/rh-slammed-by-tariff-fears-in-april-is-now-rallying-heres-why-34da2f57?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[RH, slammed by tariff fears in April, is now rallying. Here’s why.]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 21:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/rh-slammed-by-tariff-fears-in-april-is-now-rallying-heres-why-34da2f57?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This Wall Street pro did a deep dive into Tesla — and calls the stock ‘tremendously overpriced.’ The charts show why.</title>
+      <link>https://www.marketwatch.com/story/this-wall-street-pro-did-a-deep-dive-into-teslas-stock-and-came-up-empty-handed-6f7d67f2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This Wall Street pro did a deep dive into Tesla — and calls the stock ‘tremendously overpriced.’ The charts show why.]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-wall-street-pro-did-a-deep-dive-into-teslas-stock-and-came-up-empty-handed-6f7d67f2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices spike, U.S. stock futures fall as Israel strikes targets in Iran</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=8d82d8d5-a82d-4bf2-ad04-49ac35d4d8a7&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Oil prices spike, U.S. stock futures fall as Israel strikes targets in Iran]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 00:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=8d82d8d5-a82d-4bf2-ad04-49ac35d4d8a7&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -35,14 +99,6 @@
       <description>&lt;![CDATA[Hugh Jackman lists NYC penthouse for $39 million amid divorce from Deborra-Lee Furness]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 12:01:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/hugh-jackman-lists-nyc-penthouse-for-39-million-amid-divorce-from-deborra-lee-furness-e9411d41?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A weak dollar threatens your spending and savings in ways you wouldn’t expect. Here’s what to know about it.</title>
-      <link>https://www.marketwatch.com/story/a-weak-dollar-threatens-your-spending-and-savings-in-ways-you-wouldnt-expect-heres-what-to-know-about-it-a5549eb1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[A weak dollar threatens your spending and savings in ways you wouldn’t expect. Here’s what to know about it.]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 11:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/a-weak-dollar-threatens-your-spending-and-savings-in-ways-you-wouldnt-expect-heres-what-to-know-about-it-a5549eb1?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -187,22 +243,6 @@
       <description>&lt;![CDATA[NBA legend Antawn Jamison lists 30-acre North Carolina estate for $14 million — 22 years after buying it for just $1.6 million]]&gt;</description>
       <pubDate>Wed, 11 Jun 2025 11:52:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/nba-legend-antawn-jamison-lists-30-acre-north-carolina-estate-for-14-million-22-years-after-buying-it-for-just-1-6-million-a44635df?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Your medical debt can outlive you. Here’s how to avoid it — and get the care you need.</title>
-      <link>https://www.marketwatch.com/story/your-medical-debt-can-outlive-you-heres-how-to-avoid-it-and-get-the-care-you-need-dd86bd30?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Your medical debt can outlive you. Here’s how to avoid it — and get the care you need.]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/your-medical-debt-can-outlive-you-heres-how-to-avoid-it-and-get-the-care-you-need-dd86bd30?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Congress is playing havoc with your investments. Here’s how to beat Washington’s game.</title>
-      <link>https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Congress is playing havoc with your investments. Here’s how to beat Washington’s game.]]&gt;</description>
-      <pubDate>Wed, 11 Jun 2025 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[Self-driving cars are coming to London as Uber announces pilot program]]&gt;</description>
       <pubDate>Tue, 10 Jun 2025 10:10:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/self-driving-cars-are-coming-to-london-as-uber-announces-pilot-program-de181103?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>April was a V-shaped stock-market recovery for the ages — but they’re still quite rare</title>
-      <link>https://www.marketwatch.com/story/april-was-a-v-shaped-stock-market-recovery-for-the-ages-but-theyre-still-quite-rare-1d7335ef?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[April was a V-shaped stock-market recovery for the ages — but they’re still quite rare]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/april-was-a-v-shaped-stock-market-recovery-for-the-ages-but-theyre-still-quite-rare-1d7335ef?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Canary in the coal mine? The U.K. labor market has closely tracked the U.S. — and now it’s weakening</title>
-      <link>https://www.marketwatch.com/story/canary-in-the-coal-mine-the-u-k-labor-market-has-closely-tracked-the-u-s-and-now-its-weakening-4808a2bc?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Canary in the coal mine? The U.K. labor market has closely tracked the U.S. — and now it’s weakening]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/canary-in-the-coal-mine-the-u-k-labor-market-has-closely-tracked-the-u-s-and-now-its-weakening-4808a2bc?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘Big Money’ turns bullish on stocks. Will that lead the S&amp;P 500 to a ‘melt up’?</title>
-      <link>https://www.marketwatch.com/story/big-money-turns-bullish-on-stocks-will-that-lead-the-s-p-500-to-a-melt-up-8086159d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘Big Money’ turns bullish on stocks. Will that lead the S&amp;P 500 to a ‘melt up’?]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 02:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/big-money-turns-bullish-on-stocks-will-that-lead-the-s-p-500-to-a-melt-up-8086159d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>EToro wins analyst praise for user-friendly trading, but the stock gets mixed reviews</title>
-      <link>https://www.marketwatch.com/story/etoro-wins-analyst-praise-for-user-friendly-trading-but-the-stock-gets-mixed-reviews-2fb1c6e9?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[EToro wins analyst praise for user-friendly trading, but the stock gets mixed reviews]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 01:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/etoro-wins-analyst-praise-for-user-friendly-trading-but-the-stock-gets-mixed-reviews-2fb1c6e9?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>EchoStar may be considering this unusual way to protect itself from the government, and the stock is falling</title>
-      <link>https://www.marketwatch.com/story/echostar-may-be-considering-this-unusual-way-to-protect-itself-from-the-government-and-the-stock-is-falling-619196b4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[EchoStar may be considering this unusual way to protect itself from the government, and the stock is falling]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 00:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/echostar-may-be-considering-this-unusual-way-to-protect-itself-from-the-government-and-the-stock-is-falling-619196b4?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -2,7 +2,68 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 12:21
+**最后更新时间**: 2025-06-13 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-13 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices spike, U.S. stock futures fall as Israel says it’s striking Iran](https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 00:55
+
+#### [AMD’s efforts to chase Nvidia have fallen flat. Can its new chips help?](https://www.marketwatch.com/story/amds-efforts-to-chase-nvidia-have-fallen-flat-can-its-new-chips-help-b60d251d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 23:05
+
+#### [A do-nothing Congress is wreaking havoc on your investments. Here’s how to fight back.](https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 22:32
+
+#### [Medical debt can pain your family. Here’s how to avoid it and get the care you need.](https://www.marketwatch.com/story/your-medical-debt-can-outlive-you-heres-how-to-avoid-it-and-get-the-care-you-need-dd86bd30?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 22:28
+
+#### [Why the plunging U.S. dollar is putting your spending and savings power at risk](https://www.marketwatch.com/story/a-weak-dollar-threatens-your-spending-and-savings-in-ways-you-wouldnt-expect-heres-what-to-know-about-it-a5549eb1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 22:19
+
+#### [Micron’s stock is on a hot streak. Can it continue?](https://www.marketwatch.com/story/microns-stock-is-on-a-hot-streak-can-it-continue-c32196e3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 22:02
+
+#### [RH, slammed by tariff fears in April, is now rallying. Here’s why.](https://www.marketwatch.com/story/rh-slammed-by-tariff-fears-in-april-is-now-rallying-heres-why-34da2f57?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 21:53
+
+#### [This Wall Street pro did a deep dive into Tesla — and calls the stock ‘tremendously overpriced.’ The charts show why.](https://www.marketwatch.com/story/this-wall-street-pro-did-a-deep-dive-into-teslas-stock-and-came-up-empty-handed-6f7d67f2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-12 21:51
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Oil prices spike, U.S. stock futures fall as Israel strikes targets in Iran](https://www.marketwatch.com/bulletins/redirect/go?g=8d82d8d5-a82d-4bf2-ad04-49ac35d4d8a7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 00:26
+
+#### [Why this Wall Street pro calls Tesla stock ‘tremendously overpriced’](https://www.marketwatch.com/bulletins/redirect/go?g=6f44b721-870d-4166-aeb5-3e21035a22a7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 22:09
+
+#### [RH, slammed by tariff fears in April, is now rallying. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=552ffb65-971b-409b-947e-9f15d587747d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 22:06
+
+#### [Gold and oil prices have a message for investors about Iran tensions](https://www.marketwatch.com/bulletins/redirect/go?g=e3e6019b-907b-4c93-8cb9-4fabc240b0b0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 21:25
+
+#### [Trump says he’ll pick a new Fed chair soon. What a ‘shadow chair’ would mean.](https://www.marketwatch.com/bulletins/redirect/go?g=7dd802e9-91c4-41ec-b49c-a387a75fa80b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 20:36
+
+#### [Dow, S&P 500 and Nasdaq post gains as U.S. stocks edge closer to record highs](https://www.marketwatch.com/bulletins/redirect/go?g=78268ce3-ead9-432f-894a-26b3364e627d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 20:03
+
+#### [What the Air India plane crash could mean for Boeing's flagship Dreamliner jet](https://www.marketwatch.com/bulletins/redirect/go?g=cbaa0538-247f-4ea7-8724-e0955470bdd0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 18:51
+
+#### [Trump ramps up pressure on Powell to cut interest rates](https://www.marketwatch.com/bulletins/redirect/go?g=9a3187a7-e279-4dbd-bbec-9d5f2eb2f704&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 16:46
+
+#### [AI may already have surpassed human intelligence, divulges OpenAI CEO Sam Altman](https://www.marketwatch.com/bulletins/redirect/go?g=20d06dd2-3916-429d-b12f-442d6f7698f0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 16:14
+
+#### [U.S. dollar just touched a three-year low. Could it be headed for a ‘breakdown’?](https://www.marketwatch.com/bulletins/redirect/go?g=cf99e273-d464-43a2-a272-44a055c4ac5d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-12 15:34
 
 ---
 

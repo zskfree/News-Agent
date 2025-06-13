@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 12:21
+**最后更新时间**: 2025-06-13 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-13 00:55)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Shoring up global supply chains with generative AI](https://www.technologyreview.com/2025/06/12/1118533/shoring-up-global-supply-chains-with-generative-ai/)
+**发布时间**: 2025-06-12 18:10
 
 ---
 

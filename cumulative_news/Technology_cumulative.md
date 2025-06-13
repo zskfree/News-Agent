@@ -2,7 +2,113 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-12 12:21
+**最后更新时间**: 2025-06-13 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-13 00:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从星巴克到瑞幸，咖啡的“限定”降价谎言](https://www.tmtpost.com/7595568.html)
+**发布时间**: 2025-06-13 08:40
+
+#### [全球高考大揭秘：哪国高考才是“修罗场”？](https://www.tmtpost.com/7595532.html)
+**发布时间**: 2025-06-13 08:23
+
+#### [今年“港股AGI第一股”确认了！云知声冲刺IPO五年终通过港交所聆讯](https://www.tmtpost.com/7535112.html)
+**发布时间**: 2025-06-13 08:14
+
+#### [科股早知道：半年累计融资超10亿，专家称商业航天正迎来前所未有发展机遇](https://www.tmtpost.com/7595682.html)
+**发布时间**: 2025-06-13 08:05
+
+#### [川普欢迎中国留学生，我却想回国了](https://www.tmtpost.com/7595534.html)
+**发布时间**: 2025-06-13 08:00
+
+#### [中国信达“割肉”西安华南城：一场50亿纾困败局如何炼成 |深度](https://www.tmtpost.com/7595354.html)
+**发布时间**: 2025-06-13 08:00
+
+#### [【钛晨报】两部门：推动更多符合条件的在闽优质台资企业在大陆上市；蚂蚁集团两家子公司官宣入局稳定币；黄仁勋：自动驾驶与机器人将在未来几年腾飞](https://www.tmtpost.com/7595524.html)
+**发布时间**: 2025-06-13 07:20
+
+#### [电动豪华的下半场，新世代宝马iX3能否重塑“德系标杆”？](https://www.tmtpost.com/7595619.html)
+**发布时间**: 2025-06-13 07:04
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Steve Jobs Archive shares stories, videos, and notes of his famous commencement speech](https://www.theverge.com/news/686524/steve-jobs-archive-stanford-commencement-speech-20th-anniversary)
+**发布时间**: 2025-06-12 23:43
+
+#### [It could be 2026 before all your Thread border routers work together](https://www.theverge.com/news/686512/apple-thread-1-4-tvos-26-matter-google-amazon)
+**发布时间**: 2025-06-12 22:45
+
+#### [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+**发布时间**: 2025-06-12 21:58
+
+#### [Trump’s protest threats raise surveillance alarms around his military parade](https://www.theverge.com/politics/686492/trump-military-parade-surveillance-protests-free-speech)
+**发布时间**: 2025-06-12 21:50
+
+#### [Apple’s upgraded Siri might not arrive until next spring](https://www.theverge.com/news/686498/apple-upgraded-siri-ios-26-4)
+**发布时间**: 2025-06-12 21:45
+
+#### [Here&#8217;s the $2,000 fully AI-generated ad that aired during the NBA Finals](https://www.theverge.com/news/686474/kalshi-ai-generated-ad-nba-finals-google-veo-3)
+**发布时间**: 2025-06-12 21:33
+
+#### [Bose upgraded the adaptive ANC on its new QuietComfort Ultra earbuds](https://www.theverge.com/news/686448/bose-quietcomfort-ultra-gen2-wireless-earbuds-anc-soundlink-plus-micro-speakers)
+**发布时间**: 2025-06-12 20:31
+
+#### [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
+**发布时间**: 2025-06-12 20:14
+
+#### [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
+**发布时间**: 2025-06-12 20:08
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)
+**发布时间**: 2025-06-12 23:35
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Meta AI App Lets You ‘Discover’ People’s Bizarrely Personal Chats](https://www.wired.com/story/meta-artificial-intelligence-chatbot-conversations/)
+**发布时间**: 2025-06-12 21:46
+
+#### [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
+**发布时间**: 2025-06-12 19:29
+
+#### [The 35 Best Movies on Max (aka HBO Max) Right Now (June 2025)](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+**发布时间**: 2025-06-12 19:00
+
+#### [Social Media Is Now a DIY Alert System for ICE Raids](https://www.wired.com/story/the-rise-of-social-media-as-a-diy-alert-system-for-ice-raids/)
+**发布时间**: 2025-06-12 17:55
+
+#### [Unpacking AI Agents](https://www.wired.com/story/uncanny-valley-podcast-unpacking-ai-agents/)
+**发布时间**: 2025-06-12 17:46
+
+#### [Congress Demands Answers on Data Privacy Ahead of 23andMe Sale](https://www.wired.com/story/congress-demands-answers-on-data-privacy-ahead-of-23andme-sale/)
+**发布时间**: 2025-06-12 16:08
+
+#### [An Exclusive Look at Infinite Machine’s Olto Electric Bike](https://www.wired.com/story/exclusive-look-at-infinite-machine-olto-electric-bike/)
+**发布时间**: 2025-06-12 14:00
+
+#### [How to Avoid Scams and Shoddy Wares on Amazon (2025)](https://www.wired.com/story/how-shop-safe-amazon/)
+**发布时间**: 2025-06-12 13:37
+
+#### [Best Merino Wool T-Shirts (2025), Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+**发布时间**: 2025-06-12 13:02
+
+#### [Sony Bravia 8 II OLED TV Review: Strikingly Clear](https://www.wired.com/review/sony-bravia-8-ii/)
+**发布时间**: 2025-06-12 12:33
+
+#### [24 Gifts for Dads Who Don’t Need Anything (2025)](https://www.wired.com/gallery/gifts-to-give-dads/)
+**发布时间**: 2025-06-12 12:31
+
+#### [Inexpensive AI Agents Threaten Entry-Level Coding Jobs](https://www.wired.com/story/pricing-ai-agents-increasing-costs/)
+**发布时间**: 2025-06-12 11:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“街坊火锅”爆火，同行连夜去“偷师”？](http://www.huxiu.com/article/4456533.html?f=wangzhan)
+**发布时间**: 2025-06-12 21:00
 
 ---
 

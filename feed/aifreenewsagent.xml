@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Jun 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 12:21:58 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 00:55:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:56:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shoring up global supply chains with generative AI</title>
+      <link>https://www.technologyreview.com/2025/06/12/1118533/shoring-up-global-supply-chains-with-generative-ai/</link>
+      <description>&lt;![CDATA[Shoring up global supply chains with generative AI]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 18:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/12/1118533/shoring-up-global-supply-chains-with-generative-ai/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>何恺明改进了谢赛宁的REPA：极大简化但性能依旧强悍</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-12-15</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[STOAT: Spatial-Temporal Probabilistic Causal Inference Network]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.09544</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MOORL: A Framework for Integrating Offline-Online Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.09574</link>
-      <description>&lt;![CDATA[MOORL: A Framework for Integrating Offline-Online Reinforcement Learning]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09574</guid>
       <category>AI</category>
     </item>
   </channel>
