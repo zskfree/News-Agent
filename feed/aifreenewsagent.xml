@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Jun 2025 08:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 08:16:06 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 12:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 12:21:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,115 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>「倒计时3天」2025 WAIC云帆奖全球征集｜共青年之智，铸AGI未来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-14</link>
+      <description>&lt;![CDATA[「倒计时3天」2025 WAIC云帆奖全球征集｜共青年之智，铸AGI未来]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>2025谷歌研究学者计划名单：吴佳俊、Mamba作者Albert Gu、Tri Dao等获奖</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-13</link>
+      <description>&lt;![CDATA[2025谷歌研究学者计划名单：吴佳俊、Mamba作者Albert Gu、Tri Dao等获奖]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一粒「扣子」，开启了Agent的全生命周期进化</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-12</link>
+      <description>&lt;![CDATA[一粒「扣子」，开启了Agent的全生命周期进化]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯2026青云计划启动，百余项技术课题支持青年人才挑大梁</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-10</link>
+      <description>&lt;![CDATA[腾讯2026青云计划启动，百余项技术课题支持青年人才挑大梁]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一搜秒回、多模态输出，百度AI搜索全面上线百度智能云千帆平台</title>
+      <link>https://www.qbitai.com/2025/06/294490.html</link>
+      <description>&lt;![CDATA[一搜秒回、多模态输出，百度AI搜索全面上线百度智能云千帆平台]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294490.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯系AI独角兽冲刺港股IPO，北大数院校友创业19年，包揽27%世界500强客户</title>
+      <link>https://www.qbitai.com/2025/06/294414.html</link>
+      <description>&lt;![CDATA[腾讯系AI独角兽冲刺港股IPO，北大数院校友创业19年，包揽27%世界500强客户]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294414.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一句话生成任务专属LoRA！Transformer作者创业公司颠覆LLM微调</title>
+      <link>https://www.qbitai.com/2025/06/294428.html</link>
+      <description>&lt;![CDATA[一句话生成任务专属LoRA！Transformer作者创业公司颠覆LLM微调]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294428.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>视频扩散模型新突破！清华腾讯联合实现高保真3D生成，告别多视图依赖</title>
+      <link>https://www.qbitai.com/2025/06/294394.html</link>
+      <description>&lt;![CDATA[视频扩散模型新突破！清华腾讯联合实现高保真3D生成，告别多视图依赖]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294394.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI自己给自己当网管，实现安全“顿悟时刻”，风险率直降9.6%</title>
+      <link>https://www.qbitai.com/2025/06/294384.html</link>
+      <description>&lt;![CDATA[AI自己给自己当网管，实现安全“顿悟时刻”，风险率直降9.6%]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294384.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Figure自曝完整技术：60分钟不间断打工，我们的机器人如何做到？</title>
+      <link>https://www.qbitai.com/2025/06/294328.html</link>
+      <description>&lt;![CDATA[Figure自曝完整技术：60分钟不间断打工，我们的机器人如何做到？]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294328.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>“大疆教父”李泽湘持股入场，90后哈工大天才十年造就40亿机器人IPO</title>
+      <link>https://www.qbitai.com/2025/06/294052.html</link>
+      <description>&lt;![CDATA[“大疆教父”李泽湘持股入场，90后哈工大天才十年造就40亿机器人IPO]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294052.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Tech billionaires are making a risky bet with humanity’s future</title>
+      <link>https://www.technologyreview.com/2025/06/13/1118198/agi-ai-superintelligence-billionaires/</link>
+      <description>&lt;![CDATA[Tech billionaires are making a risky bet with humanity’s future]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/13/1118198/agi-ai-superintelligence-billionaires/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Here’s what food and drug regulation might look like under the Trump administration</title>
+      <link>https://www.technologyreview.com/2025/06/13/1118638/food-and-drug-regulation-under-trump-administration/</link>
+      <description>&lt;![CDATA[Here’s what food and drug regulation might look like under the Trump administration]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/13/1118638/food-and-drug-regulation-under-trump-administration/</guid>
+      <category>AI</category>
+    </item>
+    <item>
       <title>零训练即可实现自我演化！首个基于科学智能体架构的AI疾病生物学家发布</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-13-11</link>
       <description>&lt;![CDATA[零训练即可实现自我演化！首个基于科学智能体架构的AI疾病生物学家发布]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 16:04:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-11</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>腾讯2026青云计划启动，百余项技术课题支持青年人才挑大梁。</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-13-10</link>
-      <description>&lt;![CDATA[腾讯2026青云计划启动，百余项技术课题支持青年人才挑大梁。]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-10</guid>
       <category>AI</category>
     </item>
     <item>
@@ -315,102 +411,6 @@
       <description>&lt;![CDATA[Data Driven Diagnosis for Large Cyber-Physical-Systems with Minimal Prior Information]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.10613</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving</title>
-      <link>https://arxiv.org/abs/2506.10674</link>
-      <description>&lt;![CDATA[TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10674</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Automated Validation of Textual Constraints Against AutomationML via LLMs and SHACL</title>
-      <link>https://arxiv.org/abs/2506.10678</link>
-      <description>&lt;![CDATA[Automated Validation of Textual Constraints Against AutomationML via LLMs and SHACL]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10678</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>System ASPMT2SMT:Computing ASPMT Theories by SMT Solvers</title>
-      <link>https://arxiv.org/abs/2506.10708</link>
-      <description>&lt;![CDATA[System ASPMT2SMT:Computing ASPMT Theories by SMT Solvers]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10708</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Think before You Simulate: Symbolic Reasoning to Orchestrate Neural Computation for Counterfactual Question Answering</title>
-      <link>https://arxiv.org/abs/2506.10753</link>
-      <description>&lt;![CDATA[Think before You Simulate: Symbolic Reasoning to Orchestrate Neural Computation for Counterfactual Question Answering]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10753</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems</title>
-      <link>https://arxiv.org/abs/2506.10764</link>
-      <description>&lt;![CDATA[OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10764</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.10853</link>
-      <description>&lt;![CDATA[A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10853</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GenPlanX. Generation of Plans and Execution</title>
-      <link>https://arxiv.org/abs/2506.10897</link>
-      <description>&lt;![CDATA[GenPlanX. Generation of Plans and Execution]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10897</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?</title>
-      <link>https://arxiv.org/abs/2506.10912</link>
-      <description>&lt;![CDATA[Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10912</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Spurious Rewards: Rethinking Training Signals in RLVR</title>
-      <link>https://arxiv.org/abs/2506.10947</link>
-      <description>&lt;![CDATA[Spurious Rewards: Rethinking Training Signals in RLVR]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10947</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Tina: Tiny Reasoning Models via LoRA</title>
-      <link>https://arxiv.org/abs/2504.15777</link>
-      <description>&lt;![CDATA[Tina: Tiny Reasoning Models via LoRA]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2504.15777</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Resa: Transparent Reasoning Models via SAEs</title>
-      <link>https://arxiv.org/abs/2506.09967</link>
-      <description>&lt;![CDATA[Resa: Transparent Reasoning Models via SAEs]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.09967</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Semantic Communication-Enabled Cloud-Edge-End-collaborative Metaverse Services Architecure</title>
-      <link>https://arxiv.org/abs/2506.10001</link>
-      <description>&lt;![CDATA[Semantic Communication-Enabled Cloud-Edge-End-collaborative Metaverse Services Architecure]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10001</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,7 +2,41 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 08:16
+**最后更新时间**: 2025-06-13 12:21
+
+---
+
+## 🆕 最新更新 (2025-06-13 12:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This Father’s Day financial pros are sharing their dads’ best investing tips and money habits](https://www.marketwatch.com/story/this-fathers-day-financial-pros-are-sharing-their-dads-best-investing-tips-and-money-habits-4f5457c7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 11:50
+
+#### [Why Trump’s 55% China tariff won’t bring the trade-war payoff the stock market thinks it will](https://www.marketwatch.com/story/why-trumps-55-china-tariff-wont-bring-the-trade-war-payoff-the-stock-market-thinks-it-will-65adc055?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 11:50
+
+#### [Israel-Iran clash delivers a fresh shock to investors. History suggests this is the move to make.](https://www.marketwatch.com/story/the-israel-iran-clash-has-delivered-a-fresh-shock-for-investors-history-says-they-should-do-this-next-a49b8dea?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 11:40
+
+#### [After ousting CEO, Novo Nordisk reclaims crown as largest European company](https://www.marketwatch.com/story/after-ousting-ceo-novo-nordisk-reclaims-crown-as-largest-european-company-4bb50996?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 11:14
+
+#### [Tariff-driven inflation hasn’t hit everyday life yet — but it will, economists insist. Here’s why.](https://www.marketwatch.com/story/tariff-driven-inflation-hasnt-hit-everyday-life-yet-but-it-will-economists-insist-heres-why-377a1b61?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 11:00
+
+#### [Walmart’s stock looks like it’s in trouble. What the chart says may come next.](https://www.marketwatch.com/story/walmarts-stock-looks-like-its-in-trouble-what-the-chart-says-may-come-next-e43b0e12?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 10:55
+
+#### [Ailing dollar shows some sign of restoring safe-haven status after Israel attack on Iran](https://www.marketwatch.com/story/ailing-dollar-shows-some-sign-of-restoring-safe-haven-status-after-israel-attack-on-iran-8b11f476?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 10:22
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [IEA says the oil market is well supplied, but that it can act if necessary](https://www.marketwatch.com/bulletins/redirect/go?g=42c6b9ad-dcd1-430d-89c5-f35afbdaaadc&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 10:48
+
+#### [Trump says Iran should still reach a deal with the U.S. after Israeli attack](https://www.marketwatch.com/bulletins/redirect/go?g=f97c69b5-8214-4e04-b6aa-a22efc28e42b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 10:08
 
 ---
 
