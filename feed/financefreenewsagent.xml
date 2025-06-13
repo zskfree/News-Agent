@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Jun 2025 04:25:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 04:25:04 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 08:16:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oil prices surge 10%, U.S. stock futures fall as Israel strikes Iran</title>
+      <title>JPMorgan had warned of $120 oil price in worst-case Israel-Iran conflict</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=2439d300-716b-488c-9e8a-5c9f495c8436&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[JPMorgan had warned of $120 oil price in worst-case Israel-Iran conflict]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=2439d300-716b-488c-9e8a-5c9f495c8436&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices surge as much as 14%, U.S. stock futures fall as Israel strikes Iran</title>
       <link>https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oil prices surge 10%, U.S. stock futures fall as Israel strikes Iran]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 03:23:00 GMT</pubDate>
+      <description>&lt;![CDATA[Oil prices surge as much as 14%, U.S. stock futures fall as Israel strikes Iran]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:47:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>My mother-in-law thought the world’s richest man needed Apple gift cards. How on Earth could she fall for this scam?</title>
+      <link>https://www.marketwatch.com/story/my-mother-in-law-thought-the-worlds-richest-man-needed-apple-gift-cards-how-on-earth-could-she-fall-for-this-scam-39e3cfc5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[My mother-in-law thought the world’s richest man needed Apple gift cards. How on Earth could she fall for this scam?]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/my-mother-in-law-thought-the-worlds-richest-man-needed-apple-gift-cards-how-on-earth-could-she-fall-for-this-scam-39e3cfc5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Israel bombs Iran — these investments are now your best defense</title>
+      <link>https://www.marketwatch.com/story/israel-bombs-iran-these-investments-are-now-your-best-defense-b692c1be?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Israel bombs Iran — these investments are now your best defense]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/israel-bombs-iran-these-investments-are-now-your-best-defense-b692c1be?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Amid the chaos of April, this fund returned 25% to investors. Here’s how it did it.</title>
+      <link>https://www.marketwatch.com/story/amid-the-chaos-of-april-this-fund-returned-25-to-investors-heres-how-it-did-it-4dece637?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Amid the chaos of April, this fund returned 25% to investors. Here’s how it did it.]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 06:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/amid-the-chaos-of-april-this-fund-returned-25-to-investors-heres-how-it-did-it-4dece637?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -27,14 +59,6 @@
       <description>&lt;![CDATA[This crucial corner of the energy market is at high risk from an all-out war between Israel and Iran — and it’s not oil]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 02:36:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/this-crucial-corner-of-the-energy-market-is-at-high-risk-from-an-all-out-war-between-israel-and-iran-and-its-not-oil-0d26bfbf?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>This crucial corner of energy market is at high risk from an Israel-Iran war</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=586fe1f0-6835-4d05-9fe9-3b6030fe1fbb&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[This crucial corner of energy market is at high risk from an Israel-Iran war]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 02:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=586fe1f0-6835-4d05-9fe9-3b6030fe1fbb&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[A rare space IPO is on deck. It could herald a wave of space-tech companies going public.]]&gt;</description>
       <pubDate>Tue, 10 Jun 2025 12:18:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/a-rare-space-ipo-is-on-deck-it-could-herald-a-wave-of-space-tech-companies-going-public-565e2fa1?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Two big ways Trump’s plans for Fannie Mae and Freddie Mac could cost home buyers</title>
-      <link>https://www.marketwatch.com/story/two-big-ways-trumps-plans-for-fannie-mae-and-freddie-mac-could-cost-home-buyers-2f126a44?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Two big ways Trump’s plans for Fannie Mae and Freddie Mac could cost home buyers]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/two-big-ways-trumps-plans-for-fannie-mae-and-freddie-mac-could-cost-home-buyers-2f126a44?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Fund manager who sold Tesla, just in time, says investors are overlooking these tech bargains</title>
-      <link>https://www.marketwatch.com/story/fund-manager-who-sold-tesla-just-in-time-says-investors-are-overlooking-these-tech-bargains-3cc91ad2?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Fund manager who sold Tesla, just in time, says investors are overlooking these tech bargains]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/fund-manager-who-sold-tesla-just-in-time-says-investors-are-overlooking-these-tech-bargains-3cc91ad2?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gold and the S&amp;P 500 are chasing record highs at the same time. Here’s why that’s so rare.</title>
-      <link>https://www.marketwatch.com/story/gold-and-the-s-p-500-are-chasing-record-highs-at-the-same-time-heres-why-thats-so-rare-b38387ae?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Gold and the S&amp;P 500 are chasing record highs at the same time. Here’s why that’s so rare.]]&gt;</description>
-      <pubDate>Tue, 10 Jun 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/gold-and-the-s-p-500-are-chasing-record-highs-at-the-same-time-heres-why-thats-so-rare-b38387ae?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

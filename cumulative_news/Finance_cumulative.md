@@ -2,7 +2,32 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 04:25
+**最后更新时间**: 2025-06-13 08:16
+
+---
+
+## 🆕 最新更新 (2025-06-13 08:16)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [JPMorgan had warned of $120 oil price in worst-case Israel-Iran conflict](https://www.marketwatch.com/bulletins/redirect/go?g=2439d300-716b-488c-9e8a-5c9f495c8436&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 07:57
+
+#### [Oil producers climb, airlines tumble as European stock markets open](https://www.marketwatch.com/bulletins/redirect/go?g=8142d149-e3c7-48e1-8164-a30abf0626a7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 07:09
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices surge as much as 14%, U.S. stock futures fall as Israel strikes Iran](https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 07:47
+
+#### [My mother-in-law thought the world’s richest man needed Apple gift cards. How on Earth could she fall for this scam?](https://www.marketwatch.com/story/my-mother-in-law-thought-the-worlds-richest-man-needed-apple-gift-cards-how-on-earth-could-she-fall-for-this-scam-39e3cfc5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 07:12
+
+#### [Israel bombs Iran — these investments are now your best defense](https://www.marketwatch.com/story/israel-bombs-iran-these-investments-are-now-your-best-defense-b692c1be?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 07:09
+
+#### [Amid the chaos of April, this fund returned 25% to investors. Here’s how it did it.](https://www.marketwatch.com/story/amid-the-chaos-of-april-this-fund-returned-25-to-investors-heres-how-it-did-it-4dece637?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 06:43
 
 ---
 

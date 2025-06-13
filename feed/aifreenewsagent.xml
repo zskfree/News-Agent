@@ -5,14 +5,134 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 04:25:04 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 08:16:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>零训练即可实现自我演化！首个基于科学智能体架构的AI疾病生物学家发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-11</link>
+      <description>&lt;![CDATA[零训练即可实现自我演化！首个基于科学智能体架构的AI疾病生物学家发布]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯2026青云计划启动，百余项技术课题支持青年人才挑大梁。</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-10</link>
+      <description>&lt;![CDATA[腾讯2026青云计划启动，百余项技术课题支持青年人才挑大梁。]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI研究人员如何节约能源？通过反向计算</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-9</link>
+      <description>&lt;![CDATA[AI研究人员如何节约能源？通过反向计算]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>提前15天预测50种可能情景，谷歌DeepMind凭借新模型彻底改变了台风预报</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-8</link>
+      <description>&lt;![CDATA[提前15天预测50种可能情景，谷歌DeepMind凭借新模型彻底改变了台风预报]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯打出「AI岗位薪酬不限」的底气来自哪？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-7</link>
+      <description>&lt;![CDATA[腾讯打出「AI岗位薪酬不限」的底气来自哪？]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 13:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>1200行代码逆袭！DeepSeek工程师开源轻量级vLLM，吞吐量逼近原版</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-6</link>
+      <description>&lt;![CDATA[1200行代码逆袭！DeepSeek工程师开源轻量级vLLM，吞吐量逼近原版]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，Scale AI CEO Alexandr Wang正式官宣：Meta重金投资并挖走了我</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-5</link>
+      <description>&lt;![CDATA[刚刚，Scale AI CEO Alexandr Wang正式官宣：Meta重金投资并挖走了我]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>统一20+多智能体方法，MASLab震撼发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-4</link>
+      <description>&lt;![CDATA[统一20+多智能体方法，MASLab震撼发布]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 12:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>韦东奕论文登数学顶刊，将散焦方程的爆破性研究扩展至d≥4</title>
+      <link>https://www.qbitai.com/2025/06/294113.html</link>
+      <description>&lt;![CDATA[韦东奕论文登数学顶刊，将散焦方程的爆破性研究扩展至d≥4]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294113.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek研究员1200行代码复刻vLLM，H800硬件实测性能反超原版</title>
+      <link>https://www.qbitai.com/2025/06/294039.html</link>
+      <description>&lt;![CDATA[DeepSeek研究员1200行代码复刻vLLM，H800硬件实测性能反超原版]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294039.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>比亚迪全新家用轿跑！海豹06EV上市售价10.98万元~12.98万元</title>
+      <link>https://www.qbitai.com/2025/06/294016.html</link>
+      <description>&lt;![CDATA[比亚迪全新家用轿跑！海豹06EV上市售价10.98万元~12.98万元]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294016.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯2026青云计划正式启动，首次开放课题资源库，探索校企合作新模式</title>
+      <link>https://www.qbitai.com/2025/06/294011.html</link>
+      <description>&lt;![CDATA[腾讯2026青云计划正式启动，首次开放课题资源库，探索校企合作新模式]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294011.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>知识类型视角切入，全面评测图像编辑模型推理能力：所有模型在「程序性推理」方面表现不佳</title>
+      <link>https://www.qbitai.com/2025/06/293992.html</link>
+      <description>&lt;![CDATA[知识类型视角切入，全面评测图像编辑模型推理能力：所有模型在「程序性推理」方面表现不佳]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293992.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>智能交互终于步入真·人机交互时代了，这很讯飞</title>
+      <link>https://www.qbitai.com/2025/06/293940.html</link>
+      <description>&lt;![CDATA[智能交互终于步入真·人机交互时代了，这很讯飞]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 05:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293940.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>o3-pro答高难题文字游戏引围观，OpenAI前员工讽刺苹果：这都不叫推理那什么叫推理</title>
+      <link>https://www.qbitai.com/2025/06/293919.html</link>
+      <description>&lt;![CDATA[o3-pro答高难题文字游戏引围观，OpenAI前员工讽刺苹果：这都不叫推理那什么叫推理]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293919.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>科大讯飞最新发布！打造下一代智能交互新范式</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-13-3</link>
@@ -291,126 +411,6 @@
       <description>&lt;![CDATA[Semantic Communication-Enabled Cloud-Edge-End-collaborative Metaverse Services Architecure]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.10001</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>EQ-TAA: Equivariant Traffic Accident Anticipation via Diffusion-Based Accident Video Synthesis</title>
-      <link>https://arxiv.org/abs/2506.10002</link>
-      <description>&lt;![CDATA[EQ-TAA: Equivariant Traffic Accident Anticipation via Diffusion-Based Accident Video Synthesis]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10002</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Immersive Multimedia Communication: State-of-the-Art on eXtended Reality Streaming</title>
-      <link>https://arxiv.org/abs/2506.10004</link>
-      <description>&lt;![CDATA[Immersive Multimedia Communication: State-of-the-Art on eXtended Reality Streaming]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10004</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multimodal Cinematic Video Synthesis Using Text-to-Image and Audio Generation Models</title>
-      <link>https://arxiv.org/abs/2506.10005</link>
-      <description>&lt;![CDATA[Multimodal Cinematic Video Synthesis Using Text-to-Image and Audio Generation Models]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10005</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HER2 Expression Prediction with Flexible Multi-Modal Inputs via Dynamic Bidirectional Reconstruction</title>
-      <link>https://arxiv.org/abs/2506.10006</link>
-      <description>&lt;![CDATA[HER2 Expression Prediction with Flexible Multi-Modal Inputs via Dynamic Bidirectional Reconstruction]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10006</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space</title>
-      <link>https://arxiv.org/abs/2506.10007</link>
-      <description>&lt;![CDATA[Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10007</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Structured Graph Representations for Visual Narrative Reasoning: A Hierarchical Framework for Comics</title>
-      <link>https://arxiv.org/abs/2506.10008</link>
-      <description>&lt;![CDATA[Structured Graph Representations for Visual Narrative Reasoning: A Hierarchical Framework for Comics]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10008</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WDMIR: Wavelet-Driven Multimodal Intent Recognition</title>
-      <link>https://arxiv.org/abs/2506.10011</link>
-      <description>&lt;![CDATA[WDMIR: Wavelet-Driven Multimodal Intent Recognition]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10011</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multimodal Large Language Models: A Survey</title>
-      <link>https://arxiv.org/abs/2506.10016</link>
-      <description>&lt;![CDATA[Multimodal Large Language Models: A Survey]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10016</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Survey of Automatic Evaluation Methods on Text, Visual and Speech Generations</title>
-      <link>https://arxiv.org/abs/2506.10019</link>
-      <description>&lt;![CDATA[A Survey of Automatic Evaluation Methods on Text, Visual and Speech Generations]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10019</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>From Threat to Tool: Leveraging Refusal-Aware Injection Attacks for Safety Alignment</title>
-      <link>https://arxiv.org/abs/2506.10020</link>
-      <description>&lt;![CDATA[From Threat to Tool: Leveraging Refusal-Aware Injection Attacks for Safety Alignment]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10020</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>From Tool Calling to Symbolic Thinking: LLMs in a Persistent Lisp Metaprogramming Loop</title>
-      <link>https://arxiv.org/abs/2506.10021</link>
-      <description>&lt;![CDATA[From Tool Calling to Symbolic Thinking: LLMs in a Persistent Lisp Metaprogramming Loop]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10021</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges</title>
-      <link>https://arxiv.org/abs/2506.10022</link>
-      <description>&lt;![CDATA[LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10022</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.10024</link>
-      <description>&lt;![CDATA[Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10024</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluation empirique de la s\'ecurisation et de l'alignement de ChatGPT et Gemini: analyse comparative des vuln\'erabilit\'es par exp\'erimentations de jailbreaks</title>
-      <link>https://arxiv.org/abs/2506.10029</link>
-      <description>&lt;![CDATA[Evaluation empirique de la s\'ecurisation et de l'alignement de ChatGPT et Gemini: analyse comparative des vuln\'erabilit\'es par exp\'erimentations de jailbreaks]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10029</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment</title>
-      <link>https://arxiv.org/abs/2506.10030</link>
-      <description>&lt;![CDATA[Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10030</guid>
       <category>AI</category>
     </item>
   </channel>
