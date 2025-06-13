@@ -2,7 +2,83 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 00:56
+**最后更新时间**: 2025-06-13 04:24
+
+---
+
+## 🆕 最新更新 (2025-06-13 04:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [紧随香港监管浪潮，蚂蚁集团双线出击稳定币](https://www.tmtpost.com/7595959.html)
+**发布时间**: 2025-06-13 12:16
+
+#### [泡泡玛特的LABUBU何以火爆？](https://www.tmtpost.com/7595855.html)
+**发布时间**: 2025-06-13 12:05
+
+#### [血压计累计出货量达500万台，海尔加速AI家庭医疗布局 | 科技前线](https://www.tmtpost.com/7595169.html)
+**发布时间**: 2025-06-13 11:49
+
+#### [泸州老窖跟香水死磕上了](https://www.tmtpost.com/7595822.html)
+**发布时间**: 2025-06-13 11:46
+
+#### [China's Unisound Clears Hong Kong Listing Hurdle, Set to Become First AGI Stock of 2025](https://www.tmtpost.com/7595973.html)
+**发布时间**: 2025-06-13 11:17
+
+#### [大兼并时代：中国汽车产业内卷终局推演](https://www.tmtpost.com/7595750.html)
+**发布时间**: 2025-06-13 11:13
+
+#### [抖音成为OTA的窗口打开了](https://www.tmtpost.com/7595666.html)
+**发布时间**: 2025-06-13 10:55
+
+#### [给AI打工的人，迷失在数据标注里](https://www.tmtpost.com/7595792.html)
+**发布时间**: 2025-06-13 10:55
+
+#### [Trump Says He May Soon Hike Auto Tariffs as U.S. Steel Levies Will Hit Home Appliances](https://www.tmtpost.com/7595940.html)
+**发布时间**: 2025-06-13 10:48
+
+#### [China's Toy Industry Reinvents Itself Amid Global Headwinds and Rising IP Power](https://www.tmtpost.com/7595888.html)
+**发布时间**: 2025-06-13 10:07
+
+#### [不爱Labubu的JK少女，耍起“袖白雪”](https://www.tmtpost.com/7595443.html)
+**发布时间**: 2025-06-13 10:00
+
+#### [网贷市场，银行被迫当乙方](https://www.tmtpost.com/7595807.html)
+**发布时间**: 2025-06-13 09:49
+
+#### [WPP走下神坛](https://www.tmtpost.com/7595523.html)
+**发布时间**: 2025-06-13 09:40
+
+#### [“输出 Labubu”，跨境电商在品牌出海的前线](https://www.tmtpost.com/7595467.html)
+**发布时间**: 2025-06-13 09:23
+
+#### [被手机偷走的中国孩子](https://www.tmtpost.com/7595473.html)
+**发布时间**: 2025-06-13 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [LLM技术在有道词典笔上的应用实践｜AICon北京](https://www.infoq.cn/article/3bVPm82f87yCc1stSweq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-13 11:30
+
+#### [亚马逊开源了Strands Agents SDK来构建AI Agent](https://www.infoq.cn/article/DRff8DOqjBcGxLF98gJM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-13 10:44
+
+#### [作业帮服务观测之基础观测能力](https://www.infoq.cn/article/NsvCeJKcpbYPq2ZXteiR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-13 10:32
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [波音 787 在印度发生首次坠毁事故；哪吒汽车通知员工居家办公；阿里发布高考志愿大模型｜极客早知道](http://www.geekpark.net/news/350357)
+**发布时间**: 2025-06-13 09:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：富士发布复古风格无反相机 X-E5、Bose 发布系列新品](https://sspai.com/post/100184)
+**发布时间**: 2025-06-13 08:40
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Meta is paying $14 billion to catch up in the AI race](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang)
+**发布时间**: 2025-06-13 01:05
 
 ---
 

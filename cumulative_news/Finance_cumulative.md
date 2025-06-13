@@ -2,7 +2,26 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 00:56
+**最后更新时间**: 2025-06-13 04:25
+
+---
+
+## 🆕 最新更新 (2025-06-13 04:25)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices surge 10%, U.S. stock futures fall as Israel strikes Iran](https://www.marketwatch.com/story/oil-prices-spike-u-s-stock-futures-fall-as-israel-strikes-targets-in-iran-75386d2c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 03:23
+
+#### [This crucial corner of the energy market is at high risk from an all-out war between Israel and Iran — and it’s not oil](https://www.marketwatch.com/story/this-crucial-corner-of-the-energy-market-is-at-high-risk-from-an-all-out-war-between-israel-and-iran-and-its-not-oil-0d26bfbf?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 02:36
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [This crucial corner of energy market is at high risk from an Israel-Iran war](https://www.marketwatch.com/bulletins/redirect/go?g=586fe1f0-6835-4d05-9fe9-3b6030fe1fbb&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 02:43
+
+#### [This crucial corner of energy market is at high risk from an Israel-Iran war](https://www.marketwatch.com/bulletins/redirect/go?g=d13243e0-50cb-4c5d-bb1f-7d602131628b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 02:40
 
 ---
 
