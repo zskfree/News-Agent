@@ -2,7 +2,40 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-14 04:20
+**最后更新时间**: 2025-06-14 08:15
+
+---
+
+## 🆕 最新更新 (2025-06-14 08:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS CodeBuild引入了Docker Server功能来加速CI/CD管道](https://www.infoq.cn/article/21atKO42DHfb9RMtrbkr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-14 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Japan Explores Possibilities of Trade Deal to Avoid Higher Auto Tariffs](https://www.tmtpost.com/7596961.html)
+**发布时间**: 2025-06-14 13:52
+
+#### [与刘靖康复盘创业十年：影石敲钟 ，一群90后眼中的世界级公司](https://www.tmtpost.com/7596885.html)
+**发布时间**: 2025-06-14 13:41
+
+#### [你养的宠物猫，正在暴露你的钱包余额](https://www.tmtpost.com/7596906.html)
+**发布时间**: 2025-06-14 13:09
+
+#### [四巨头混战即时零售，谁抢跑、谁能赢？](https://www.tmtpost.com/7596881.html)
+**发布时间**: 2025-06-14 13:09
+
+#### [Labubu还能火多久？](https://www.tmtpost.com/7596908.html)
+**发布时间**: 2025-06-14 13:09
+
+#### [Starmer Says UK-U.S. Trade Deal Soon to be Done, No Obstacles in Implementing](https://www.tmtpost.com/7596930.html)
+**发布时间**: 2025-06-14 12:29
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Wood Pellet Mills Are Prone to Catching Fire. Why Build Them in California?](https://www.wired.com/story/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/)
+**发布时间**: 2025-06-14 06:00
 
 ---
 

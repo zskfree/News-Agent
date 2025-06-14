@@ -5,14 +5,78 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 04:20:20 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 08:15:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AWS CodeBuild引入了Docker Server功能来加速CI/CD管道</title>
+      <link>https://www.infoq.cn/article/21atKO42DHfb9RMtrbkr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS CodeBuild引入了Docker Server功能来加速CI/CD管道]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/21atKO42DHfb9RMtrbkr?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Japan Explores Possibilities of Trade Deal to Avoid Higher Auto Tariffs</title>
+      <link>https://www.tmtpost.com/7596961.html</link>
+      <description>&lt;![CDATA[Japan Explores Possibilities of Trade Deal to Avoid Higher Auto Tariffs]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 13:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7596961.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>与刘靖康复盘创业十年：影石敲钟 ，一群90后眼中的世界级公司</title>
+      <link>https://www.tmtpost.com/7596885.html</link>
+      <description>&lt;![CDATA[与刘靖康复盘创业十年：影石敲钟 ，一群90后眼中的世界级公司]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7596885.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>你养的宠物猫，正在暴露你的钱包余额</title>
+      <link>https://www.tmtpost.com/7596906.html</link>
+      <description>&lt;![CDATA[你养的宠物猫，正在暴露你的钱包余额]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7596906.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>四巨头混战即时零售，谁抢跑、谁能赢？</title>
+      <link>https://www.tmtpost.com/7596881.html</link>
+      <description>&lt;![CDATA[四巨头混战即时零售，谁抢跑、谁能赢？]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7596881.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Labubu还能火多久？</title>
+      <link>https://www.tmtpost.com/7596908.html</link>
+      <description>&lt;![CDATA[Labubu还能火多久？]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7596908.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Starmer Says UK-U.S. Trade Deal Soon to be Done, No Obstacles in Implementing</title>
+      <link>https://www.tmtpost.com/7596930.html</link>
+      <description>&lt;![CDATA[Starmer Says UK-U.S. Trade Deal Soon to be Done, No Obstacles in Implementing]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7596930.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Wood Pellet Mills Are Prone to Catching Fire. Why Build Them in California?</title>
+      <link>https://www.wired.com/story/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/</link>
+      <description>&lt;![CDATA[Wood Pellet Mills Are Prone to Catching Fire. Why Build Them in California?]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>作业帮基础观测能力之一监控体系实践</title>
       <link>https://www.infoq.cn/article/JMDLcSVsvb0DiFksM5sF?utm_source=rss&amp;utm_medium=article</link>
@@ -347,70 +411,6 @@
       <description>&lt;![CDATA[Google&amp;#8217;s test turns search results into an AI-generated podcast]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 17:42:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Anbernic’s sliding screen handheld might be too chunky and heavy for your pockets</title>
-      <link>https://www.theverge.com/news/686862/anbernic-rg-slide-handheld-emulator-console-psp-go</link>
-      <description>&lt;![CDATA[Anbernic’s sliding screen handheld might be too chunky and heavy for your pockets]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/686862/anbernic-rg-slide-handheld-emulator-console-psp-go</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Kwikset’s newest smart lock gets almost everything right</title>
-      <link>https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review</link>
-      <description>&lt;![CDATA[Kwikset’s newest smart lock gets almost everything right]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从辅助工具到智能决策，大模型如何改变人才选拔方式？</title>
-      <link>https://www.infoq.cn/article/MHiK10rLWITeYpxdxrGH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从辅助工具到智能决策，大模型如何改变人才选拔方式？]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 21:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MHiK10rLWITeYpxdxrGH?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>6月份美债可能爆雷？美国政府欠了谁36万亿，究竟需不需要还？</title>
-      <link>http://www.huxiu.com/article/4460602.html?f=wangzhan</link>
-      <description>&lt;![CDATA[6月份美债可能爆雷？美国政府欠了谁36万亿，究竟需不需要还？]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4460602.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>高增长按下暂停键，2025成跨境分水岭｜「出海参考」研报</title>
-      <link>https://www.tmtpost.com/7596552.html</link>
-      <description>&lt;![CDATA[高增长按下暂停键，2025成跨境分水岭｜「出海参考」研报]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 19:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7596552.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>江苏银行与“苏超”联姻：一场金融与体育的双赢实验</title>
-      <link>https://www.tmtpost.com/7596423.html</link>
-      <description>&lt;![CDATA[江苏银行与“苏超”联姻：一场金融与体育的双赢实验]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7596423.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>估值超40亿，达晨、高瓴投的机器人，要IPO了</title>
-      <link>https://www.tmtpost.com/7596542.html</link>
-      <description>&lt;![CDATA[估值超40亿，达晨、高瓴投的机器人，要IPO了]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7596542.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI云，火山引擎如何“激进”？</title>
-      <link>https://www.tmtpost.com/7596436.html</link>
-      <description>&lt;![CDATA[AI云，火山引擎如何“激进”？]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7596436.html</guid>
       <category>Technology</category>
     </item>
   </channel>
