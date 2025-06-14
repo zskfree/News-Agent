@@ -2,7 +2,27 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-14 04:20
+**最后更新时间**: 2025-06-14 12:19
+
+---
+
+## 🆕 最新更新 (2025-06-14 12:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Trump wants to use the U.S. tax code to crack down on undocumented immigrants](https://www.marketwatch.com/story/how-trump-wants-to-use-the-u-s-tax-code-to-crack-down-on-undocumented-immigrants-4f83c15a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 12:00
+
+#### [My friend asked me to share political protest posters she created using AI. Am I a coward if I say no?](https://www.marketwatch.com/story/my-friend-asked-me-to-share-political-protest-posters-she-created-using-ai-am-i-a-coward-if-i-say-no-a64a9936?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 11:45
+
+#### [Gold is the new risk-free asset instead of the dollar and Treasurys, as Israel-Iran conflict rattles investors](https://www.marketwatch.com/story/gold-is-the-new-risk-free-asset-instead-of-the-dollar-and-treasurys-as-israel-iran-conflict-rattles-investors-98c8e46e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 11:30
+
+#### [The situation in the Middle East is a ‘major wild card’ for the Fed, former Powell advisor says](https://www.marketwatch.com/story/the-situation-in-the-middle-east-is-a-major-wild-card-for-the-fed-former-powell-advisor-says-0378ab73?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 11:00
+
+#### [Israel’s attack on Iran shattered stocks’ early-summer calm. Here’s what investors should watch out for next.](https://www.marketwatch.com/story/israels-attack-on-iran-shattered-stocks-early-summer-calm-heres-what-investors-should-watch-out-for-next-c9183fdc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 10:30
 
 ---
 

@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Jun 2025 00:53:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 08:15:45 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 12:19:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>40岁开始预防衰老最有效！1.9万人脑扫描揭秘：大脑衰老有“关键窗口期”</title>
+      <link>https://www.qbitai.com/2025/06/294690.html</link>
+      <description>&lt;![CDATA[40岁开始预防衰老最有效！1.9万人脑扫描揭秘：大脑衰老有“关键窗口期”]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294690.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯开源最强3D生成模型，消费级显卡就能跑 | CVPR</title>
+      <link>https://www.qbitai.com/2025/06/294674.html</link>
+      <description>&lt;![CDATA[腾讯开源最强3D生成模型，消费级显卡就能跑 | CVPR]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294674.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从天价咨询到免费AI，夸克能改变志愿填报这门生意吗？</title>
+      <link>https://www.qbitai.com/2025/06/294652.html</link>
+      <description>&lt;![CDATA[从天价咨询到免费AI，夸克能改变志愿填报这门生意吗？]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 09:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294652.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谢赛宁苏昊CVPR25获奖！华人博士王建元一作拿下最佳论文</title>
+      <link>https://www.qbitai.com/2025/06/294624.html</link>
+      <description>&lt;![CDATA[谢赛宁苏昊CVPR25获奖！华人博士王建元一作拿下最佳论文]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294624.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>突破世纪难题！北大校友科大少年班才子破解希尔伯特第六问题</title>
+      <link>https://www.qbitai.com/2025/06/294538.html</link>
+      <description>&lt;![CDATA[突破世纪难题！北大校友科大少年班才子破解希尔伯特第六问题]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 09:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294538.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>刚刚，CVPR 2025奖项出炉：牛津&amp;Meta博士生王建元获最佳论文，谢赛宁摘年轻研究者奖</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-14-2</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pok\'emon]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.10326</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts</title>
-      <link>https://arxiv.org/abs/2506.10357</link>
-      <description>&lt;![CDATA[Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10357</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeuroPAL: Punctuated Anytime Learning with Neuroevolution for Macromanagement in Starcraft: Brood War</title>
-      <link>https://arxiv.org/abs/2506.10384</link>
-      <description>&lt;![CDATA[NeuroPAL: Punctuated Anytime Learning with Neuroevolution for Macromanagement in Starcraft: Brood War]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10384</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills</title>
-      <link>https://arxiv.org/abs/2506.10387</link>
-      <description>&lt;![CDATA[Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10387</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges</title>
-      <link>https://arxiv.org/abs/2506.10408</link>
-      <description>&lt;![CDATA[Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10408</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods</title>
-      <link>https://arxiv.org/abs/2506.10420</link>
-      <description>&lt;![CDATA[Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10420</guid>
       <category>AI</category>
     </item>
   </channel>

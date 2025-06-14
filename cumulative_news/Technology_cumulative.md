@@ -2,7 +2,45 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-14 08:15
+**最后更新时间**: 2025-06-14 12:19
+
+---
+
+## 🆕 最新更新 (2025-06-14 12:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Apple完成了关键生态系统服务到Swift的迁移，性能提升了40%](https://www.infoq.cn/article/c8iwVKyVKNxEQ84eclIN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-14 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南：鹿儿岛、熊本和福冈](https://sspai.com/post/99954)
+**发布时间**: 2025-06-14 15:18
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
+**发布时间**: 2025-06-14 12:03
+
+#### [The 5 Best Griddles and Flat-Top Grills of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-griddles-and-flat-top-grills/)
+**发布时间**: 2025-06-14 11:36
+
+#### [The 26 Best Shows on Amazon Prime Right Now (June 2025)](https://www.wired.com/story/best-shows-amazon-prime/)
+**发布时间**: 2025-06-14 11:00
+
+#### [RFK Jr. Orders HHS to Give Undocumented Migrants’ Medicaid Data to DHS](https://www.wired.com/story/rfk-jr-orders-hhs-to-give-undocumented-migrants-medicaid-data-to-dhs/)
+**发布时间**: 2025-06-14 10:30
+
+#### [11 Best Planners: Weekly and Daily Notebooks and Accessories (2025)](https://www.wired.com/story/best-paper-planners/)
+**发布时间**: 2025-06-14 10:02
+
+#### [Fujifilm's X-E5, New Bose Speakers, and Qualcomm's Smart Glasses Chip—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-e5-new-bose-speakers-and-qualcomms-smart-glasses-chip-your-gear-news-of-the-week/)
+**发布时间**: 2025-06-14 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Nintendo Switch 2 review: exactly good enough](https://www.theverge.com/nintendo/686603/nintendo-switch-2-review)
+**发布时间**: 2025-06-14 12:00
 
 ---
 
