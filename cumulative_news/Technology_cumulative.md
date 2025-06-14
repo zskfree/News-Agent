@@ -2,7 +2,137 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 12:21
+**最后更新时间**: 2025-06-14 00:54
+
+---
+
+## 🆕 最新更新 (2025-06-14 00:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [杜嘉祺回归，友邦保险驶向何方？](https://www.tmtpost.com/7596716.html)
+**发布时间**: 2025-06-14 08:42
+
+#### [85后吴祖钰成曾毓群最强对手之一，妻子护航曾代赔百万违约金](https://www.tmtpost.com/7596723.html)
+**发布时间**: 2025-06-14 08:33
+
+#### [酒系城商行大PK：泸州银行净息差2.49%领跑，贵州银行不良率1.72%居首，宜宾银行制造业坏账飙升至3.79%​​](https://www.tmtpost.com/7596726.html)
+**发布时间**: 2025-06-14 08:25
+
+#### [德州首富姜桂廷，摊上事了](https://www.tmtpost.com/7596731.html)
+**发布时间**: 2025-06-14 08:18
+
+#### [动画行业的AI应用，走到了哪一步](https://www.tmtpost.com/7596736.html)
+**发布时间**: 2025-06-14 08:12
+
+#### [混合休闲内购激增37%，“小”游戏朝着长线狂奔](https://www.tmtpost.com/7596747.html)
+**发布时间**: 2025-06-14 08:07
+
+#### [地产大佬看上童装生意？世纪金源黄涛入主安奈儿](https://www.tmtpost.com/7596751.html)
+**发布时间**: 2025-06-14 08:03
+
+#### [高考志愿填报“人均张雪峰”，AI能做到么？](https://www.tmtpost.com/7596758.html)
+**发布时间**: 2025-06-14 08:00
+
+#### [MUJI庆祝进入中国大陆20周年；HELLY HANSEN官宣全球品牌代言人王一博；SIINSIIN联名柠檬向右｜消研所周报](https://www.tmtpost.com/7596631.html)
+**发布时间**: 2025-06-13 21:16
+
+#### [中国疫苗，迈入新周期](https://www.tmtpost.com/7595936.html)
+**发布时间**: 2025-06-13 20:37
+
+#### [人力资源管理的8大错位](https://www.tmtpost.com/7596408.html)
+**发布时间**: 2025-06-13 20:35
+
+#### [为了揽储，现在银行甚至能安排相亲](https://www.tmtpost.com/7596520.html)
+**发布时间**: 2025-06-13 20:25
+
+#### [东软换帅，“软件教父”刘积仁交棒荣新节，太意外了](https://www.tmtpost.com/7596551.html)
+**发布时间**: 2025-06-13 20:25
+
+#### [原价99元盲盒转手卖2000+，溢价20倍的背后，是风口还是智商税？](https://www.tmtpost.com/7596545.html)
+**发布时间**: 2025-06-13 20:25
+
+#### [腾讯音乐驯服喜马拉雅：一个独角兽的低头时刻](https://www.tmtpost.com/7596576.html)
+**发布时间**: 2025-06-13 20:25
+
+#### [玻璃基板，陷入白热化](https://www.tmtpost.com/7596544.html)
+**发布时间**: 2025-06-13 20:25
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [24 Amazon Prime Perks You Might Not Be Using (2025)](https://www.wired.com/story/amazon-prime-perks/)
+**发布时间**: 2025-06-14 00:32
+
+#### [Ahead of Protests, Waymo Scales Back Robotaxi Service Nationwide](https://www.wired.com/story/ahead-of-protests-waymo-adjusts-robotaxi-service-nationwide/)
+**发布时间**: 2025-06-13 23:59
+
+#### ['No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/)
+**发布时间**: 2025-06-13 20:45
+
+#### [The Chatbot Disinfo Inflaming the LA Protests](https://www.wired.com/story/uncanny-valley-podcast-the-chatbot-disinfo-inflaming-the-la-protests/)
+**发布时间**: 2025-06-13 17:04
+
+#### [CBP's Predator Drone Flights Over LA Are a Dangerous Escalation](https://www.wired.com/story/cbp-predator-drone-flights-la-protests/)
+**发布时间**: 2025-06-13 15:48
+
+#### [Trump Wants to Kill California’s Emissions Standards. Here’s What That Means for EVs](https://www.wired.com/story/trump-wants-to-kill-californias-emissions-standards-heres-what-that-means-for-evs/)
+**发布时间**: 2025-06-13 15:00
+
+#### [9 Best 2-in-1 Laptops (2025), Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)
+**发布时间**: 2025-06-13 14:30
+
+#### [5 Best Totes for Travel in 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-travel-totes/)
+**发布时间**: 2025-06-13 14:02
+
+#### [Here’s What Marines and the National Guard Can (and Can’t) Do at LA Protests](https://www.wired.com/story/what-marines-national-guard-can-cant-do-la-protests/)
+**发布时间**: 2025-06-13 13:48
+
+#### [33 Best Gifts for Teens (2025), Approved by Our Kids](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
+**发布时间**: 2025-06-13 13:39
+
+#### [Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
+**发布时间**: 2025-06-13 13:02
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Inside Mark Zuckerberg’s AI hiring spree](https://www.theverge.com/command-line-newsletter/687173/inside-mark-zuckerbergs-ai-hiring-spree)
+**发布时间**: 2025-06-14 00:16
+
+#### [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
+**发布时间**: 2025-06-13 22:07
+
+#### [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+**发布时间**: 2025-06-13 19:25
+
+#### [Mel Brooks is returning for Spaceballs 2](https://www.theverge.com/news/687056/spaceballs-2-mel-brooks-yogurt-returning-2027)
+**发布时间**: 2025-06-13 19:00
+
+#### [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+**发布时间**: 2025-06-13 19:00
+
+#### [The Switch 2 gives Splatoon 3 a fantastically fresh coat of paint](https://www.theverge.com/nintendo/686128/splatoon-3-switch-2-update-overview)
+**发布时间**: 2025-06-13 18:05
+
+#### [Belkin’s 3-in-1 Qi2 wireless charger is the cheapest it’s been in months](https://www.theverge.com/tech/686920/belkin-boostcharge-pro-3-in-1-apple-pencil-usb-c-anker-prime-tb5-docking-station-deal-sale)
+**发布时间**: 2025-06-13 18:03
+
+#### [Google&#8217;s test turns search results into an AI-generated podcast](https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search)
+**发布时间**: 2025-06-13 17:42
+
+#### [Anbernic’s sliding screen handheld might be too chunky and heavy for your pockets](https://www.theverge.com/news/686862/anbernic-rg-slide-handheld-emulator-console-psp-go)
+**发布时间**: 2025-06-13 17:16
+
+#### [Kwikset’s newest smart lock gets almost everything right](https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review)
+**发布时间**: 2025-06-13 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从辅助工具到智能决策，大模型如何改变人才选拔方式？](https://www.infoq.cn/article/MHiK10rLWITeYpxdxrGH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-13 21:54
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [6月份美债可能爆雷？美国政府欠了谁36万亿，究竟需不需要还？](http://www.huxiu.com/article/4460602.html?f=wangzhan)
+**发布时间**: 2025-06-13 21:00
 
 ---
 

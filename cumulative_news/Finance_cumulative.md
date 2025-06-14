@@ -2,7 +2,62 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 12:21
+**最后更新时间**: 2025-06-14 00:54
+
+---
+
+## 🆕 最新更新 (2025-06-14 00:54)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How the U.S. economy could suffer collateral damage from Israel-Iran airstrikes](https://www.marketwatch.com/bulletins/redirect/go?g=3c189de7-e590-40ea-a901-2f4a7120f1b5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 23:04
+
+#### [Israel-Iran conflict could complicate summer travel. How to protect your trip.](https://www.marketwatch.com/bulletins/redirect/go?g=b7cac62c-85b3-4108-8eb3-c0fd177998be&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 22:59
+
+#### [These defense stocks offer the best prospects as Israel-Iran conflict escalates](https://www.marketwatch.com/bulletins/redirect/go?g=7d3f54cc-1e60-4cf1-beaa-945b4f976e65&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 21:57
+
+#### [Why bonds aren’t acting like a safe haven for investors amid Israel-Iran strikes](https://www.marketwatch.com/bulletins/redirect/go?g=51afe22d-144c-484a-81a7-99a97ca95219&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 21:07
+
+#### [U.S. stocks end sharply lower as markets reel on escalating Israel-Iran conflict](https://www.marketwatch.com/bulletins/redirect/go?g=a7c1a8f3-b336-4820-9b4d-0dcdb3030b1f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 20:03
+
+#### [How Iran’s response to Israel could shake up global markets — in 5 scenarios](https://www.marketwatch.com/bulletins/redirect/go?g=9325e71f-c290-4197-9a59-e31a54651d09&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 19:20
+
+#### [Dow, S&P 500 hit session lows after Iran retaliates against Israel — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=740b45b6-289b-4d0a-9f07-a36bb2b591cf&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 18:47
+
+#### [American companies are getting caught up in ICE raids and protests](https://www.marketwatch.com/bulletins/redirect/go?g=70ce3569-2a8e-441e-9f4d-40fab5ff76a2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 16:26
+
+#### [U.S. consumer-sentiment improvement is first in six months](https://www.marketwatch.com/bulletins/redirect/go?g=81c46f2d-12fe-4623-8752-6a9372542c8d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 14:05
+
+#### [Dow falls 500 points at opening bell after Israel strikes Iran — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=5b0b4f69-3c89-4eab-a0eb-7ca7795d9953&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-13 13:39
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m 68 and my 401(k) has dwindled to $82,000’: My husband committed financial infidelity and has $50,000 in credit-card debt. What now?](https://www.marketwatch.com/story/im-68-and-my-401-k-has-dwindled-to-82-000-my-husband-committed-financial-infidelity-and-has-50-000-in-credit-card-debt-what-now-87582bdc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 22:59
+
+#### [The Israel-Iran conflict could shake up summer travel plans — even domestically. Here’s how to prepare.](https://www.marketwatch.com/story/the-israel-iran-conflict-could-shake-up-summer-travel-plans-even-domestically-heres-how-to-prepare-e7949343?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 22:24
+
+#### [Why bonds aren’t acting like a safe haven for investors amid the Israel-Iran conflict](https://www.marketwatch.com/story/why-bonds-arent-acting-like-a-safe-haven-for-investors-after-israels-attack-in-iran-77d42e2c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 22:12
+
+#### [Adobe just can’t make investors happy, even after its strong earnings](https://www.marketwatch.com/story/adobe-just-cant-make-investors-happy-even-after-its-strong-earnings-722df5bb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 20:36
+
+#### [Why Archer Aviation is getting dinged for its plans to do what Trump wants](https://www.marketwatch.com/story/why-archer-aviation-is-getting-dinged-for-its-plans-to-do-what-trump-wants-ae7aabaa?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 20:25
+
+#### [Investors face these three costly scenarios from the Israel-Iran conflict. Here’s what to do now.](https://www.marketwatch.com/story/israel-bombs-iran-these-investments-are-now-your-best-defense-b692c1be?mod=mw_rss_topstories)
+**发布时间**: 2025-06-13 20:12
 
 ---
 

@@ -2,7 +2,29 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-13 12:21
+**最后更新时间**: 2025-06-14 00:53
+
+---
+
+## 🆕 最新更新 (2025-06-14 00:53)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，CVPR 2025奖项出炉：牛津&Meta博士生王建元获最佳论文，谢赛宁摘年轻研究者奖](https://www.jiqizhixin.com/articles/2025-06-14-2)
+**发布时间**: 2025-06-14 00:20
+
+#### [ICML 2025 | 千倍长度泛化！蚂蚁新注意力机制GCA实现16M长上下文精准理解](https://www.jiqizhixin.com/articles/2025-06-14)
+**发布时间**: 2025-06-14 00:13
+
+#### [字节跳动技术副总裁洪定坤：TRAE 想做 AI Development](https://www.jiqizhixin.com/articles/2025-06-13-15)
+**发布时间**: 2025-06-13 23:29
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Powering next-gen services with AI in regulated industries](https://www.technologyreview.com/2025/06/13/1118600/powering-next-gen-services-with-ai-in-regulated-industries/)
+**发布时间**: 2025-06-13 14:09
+
+#### [The Download: gambling with humanity’s future, and the FDA under Trump](https://www.technologyreview.com/2025/06/13/1118731/the-download-gambling-with-humanitys-future-and-the-fda-under-trump/)
+**发布时间**: 2025-06-13 12:10
 
 ---
 

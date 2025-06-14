@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Jun 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 12:21:59 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 00:53:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 00:54:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>刚刚，CVPR 2025奖项出炉：牛津&amp;Meta博士生王建元获最佳论文，谢赛宁摘年轻研究者奖</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-14-2</link>
+      <description>&lt;![CDATA[刚刚，CVPR 2025奖项出炉：牛津&amp;Meta博士生王建元获最佳论文，谢赛宁摘年轻研究者奖]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 00:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-14-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 千倍长度泛化！蚂蚁新注意力机制GCA实现16M长上下文精准理解</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-14</link>
+      <description>&lt;![CDATA[ICML 2025 | 千倍长度泛化！蚂蚁新注意力机制GCA实现16M长上下文精准理解]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 00:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>字节跳动技术副总裁洪定坤：TRAE 想做 AI Development</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-13-15</link>
+      <description>&lt;![CDATA[字节跳动技术副总裁洪定坤：TRAE 想做 AI Development]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 23:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-15</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Powering next-gen services with AI in regulated industries</title>
+      <link>https://www.technologyreview.com/2025/06/13/1118600/powering-next-gen-services-with-ai-in-regulated-industries/</link>
+      <description>&lt;![CDATA[Powering next-gen services with AI in regulated industries]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/13/1118600/powering-next-gen-services-with-ai-in-regulated-industries/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: gambling with humanity’s future, and the FDA under Trump</title>
+      <link>https://www.technologyreview.com/2025/06/13/1118731/the-download-gambling-with-humanitys-future-and-the-fda-under-trump/</link>
+      <description>&lt;![CDATA[The Download: gambling with humanity’s future, and the FDA under Trump]]&gt;</description>
+      <pubDate>Fri, 13 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/13/1118731/the-download-gambling-with-humanitys-future-and-the-fda-under-trump/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>「倒计时3天」2025 WAIC云帆奖全球征集｜共青年之智，铸AGI未来</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-13-14</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.10420</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OIBench: Benchmarking Strong Reasoning Models with Olympiad in Informatics</title>
-      <link>https://arxiv.org/abs/2506.10481</link>
-      <description>&lt;![CDATA[OIBench: Benchmarking Strong Reasoning Models with Olympiad in Informatics]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10481</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning</title>
-      <link>https://arxiv.org/abs/2506.10521</link>
-      <description>&lt;![CDATA[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10521</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs</title>
-      <link>https://arxiv.org/abs/2506.10527</link>
-      <description>&lt;![CDATA[LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10527</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning</title>
-      <link>https://arxiv.org/abs/2506.10585</link>
-      <description>&lt;![CDATA[Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10585</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Data Driven Diagnosis for Large Cyber-Physical-Systems with Minimal Prior Information</title>
-      <link>https://arxiv.org/abs/2506.10613</link>
-      <description>&lt;![CDATA[Data Driven Diagnosis for Large Cyber-Physical-Systems with Minimal Prior Information]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10613</guid>
       <category>AI</category>
     </item>
   </channel>
