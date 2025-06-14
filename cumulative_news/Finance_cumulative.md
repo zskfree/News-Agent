@@ -2,7 +2,18 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-14 00:54
+**最后更新时间**: 2025-06-14 04:20
+
+---
+
+## 🆕 最新更新 (2025-06-14 04:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Investors face these 3 costly scenarios from the Israel-Iran conflict](https://www.marketwatch.com/bulletins/redirect/go?g=0ebe76fb-34f3-420a-bf7e-442deca1c874&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 01:07
+
+#### [As Israel and Iran trade blows, fears rise over a critical energy chokepoint](https://www.marketwatch.com/bulletins/redirect/go?g=6a98f53c-1b92-4388-a7f6-d90de0442269&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 01:02
 
 ---
 
