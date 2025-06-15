@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-14 12:19
+**最后更新时间**: 2025-06-15 01:02
+
+---
+
+## 🆕 最新更新 (2025-06-15 01:02)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My friend wants me to join in a political protest. I’m worried about my job. Am I a coward if I say no?](https://www.marketwatch.com/story/my-friend-asked-me-to-share-political-protest-posters-she-created-using-ai-am-i-a-coward-if-i-say-no-a64a9936?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 22:44
+
+#### [Many of us come to estate planning too late. Here’s what finally pushed me to do it.](https://www.marketwatch.com/story/many-of-us-come-to-estate-planning-too-late-heres-what-finally-pushed-me-to-do-it-fd267745?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 18:55
+
+#### [This Father’s Day, financial pros are sharing their dads’ best investing tips and money habits](https://www.marketwatch.com/story/this-fathers-day-financial-pros-are-sharing-their-dads-best-investing-tips-and-money-habits-4f5457c7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 17:53
+
+#### [Don’t count on an inheritance: Baby boomers are hanging on to their money](https://www.marketwatch.com/story/dont-count-on-an-inheritance-baby-boomers-are-hanging-on-to-their-money-8c3f0917?mod=mw_rss_topstories)
+**发布时间**: 2025-06-14 16:10
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Americans spend $10 billion more on Mother’s Day than Father’s Day. What’s up?](https://www.marketwatch.com/bulletins/redirect/go?g=7c4fca72-a125-41c3-a8ef-5673dcf08bce&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 21:01
+
+#### [So your company offered you a buyout. Should you take it? Here’s what to know.](https://www.marketwatch.com/bulletins/redirect/go?g=2ec53725-e7bd-48bb-ac82-817a6e1babb2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 20:56
+
+#### [How Trump wants to use the tax code to crack down on undocumented immigrants](https://www.marketwatch.com/bulletins/redirect/go?g=e932ad08-c4b2-46d3-bda7-9745c3291a4a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 19:45
+
+#### [Gold is the new risk-free asset as Israel-Iran conflict rattles investors](https://www.marketwatch.com/bulletins/redirect/go?g=e5180a8e-cc9e-4ac0-823b-bfed15a6cab4&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 17:05
+
+#### [Middle East conflict is a ‘major wild card’ for Fed, former Powell adviser says](https://www.marketwatch.com/bulletins/redirect/go?g=6f29d30e-e85e-4ec1-843f-652e906d20ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 14:08
+
+#### [Israel-Iran conflict shattered stocks’ summer calm: What investors should watch.](https://www.marketwatch.com/bulletins/redirect/go?g=1634f3b6-364e-4bda-9bb1-2b5511c49259&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-14 13:27
 
 ---
 

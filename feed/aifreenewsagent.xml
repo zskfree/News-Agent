@@ -5,14 +5,62 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Jun 2025 12:19:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 12:19:37 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 01:01:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 01:02:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LLM已能自我更新权重，自适应、知识整合能力大幅提升，AI醒了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-14-6</link>
+      <description>&lt;![CDATA[LLM已能自我更新权重，自适应、知识整合能力大幅提升，AI醒了？]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 20:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-14-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>多智能体在「燃烧」Token！Anthropic公开发现的一切</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-14-5</link>
+      <description>&lt;![CDATA[多智能体在「燃烧」Token！Anthropic公开发现的一切]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 20:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-14-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>苹果《思考的错觉》再挨批，Claude与人类共著论文指出其三大关键缺陷</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-14-4</link>
+      <description>&lt;![CDATA[苹果《思考的错觉》再挨批，Claude与人类共著论文指出其三大关键缺陷]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-14-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>单卡4090也能高质量视频编辑！西湖AGI Lab无训练框架FlowDirector来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-14-3</link>
+      <description>&lt;![CDATA[单卡4090也能高质量视频编辑！西湖AGI Lab无训练框架FlowDirector来了]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-14-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百度启动最大规模顶尖AI人才招聘，岗位招聘同比扩大60%</title>
+      <link>https://www.qbitai.com/2025/06/294712.html</link>
+      <description>&lt;![CDATA[百度启动最大规模顶尖AI人才招聘，岗位招聘同比扩大60%]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294712.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>分割/识别/解说一个模型搞定！3B参数刷新视觉理解SOTA，图像视频全适配</title>
+      <link>https://www.qbitai.com/2025/06/294699.html</link>
+      <description>&lt;![CDATA[分割/识别/解说一个模型搞定！3B参数刷新视觉理解SOTA，图像视频全适配]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294699.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>40岁开始预防衰老最有效！1.9万人脑扫描揭秘：大脑衰老有“关键窗口期”</title>
       <link>https://www.qbitai.com/2025/06/294690.html</link>
@@ -363,54 +411,6 @@
       <description>&lt;![CDATA[One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.10157</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Correlation vs causation in Alzheimer's disease: an interpretability-driven study</title>
-      <link>https://arxiv.org/abs/2506.10179</link>
-      <description>&lt;![CDATA[Correlation vs causation in Alzheimer's disease: an interpretability-driven study]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10179</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Responsible AI: Advances in Safety, Fairness, and Accountability of Autonomous Systems</title>
-      <link>https://arxiv.org/abs/2506.10192</link>
-      <description>&lt;![CDATA[Towards Responsible AI: Advances in Safety, Fairness, and Accountability of Autonomous Systems]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10192</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.10264</link>
-      <description>&lt;![CDATA[WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10264</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Closer to Language than Steam: AI as the Cognitive Engine of a New Productivity Revolution</title>
-      <link>https://arxiv.org/abs/2506.10281</link>
-      <description>&lt;![CDATA[Closer to Language than Steam: AI as the Cognitive Engine of a New Productivity Revolution]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10281</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Alignment Trap: Complexity Barriers</title>
-      <link>https://arxiv.org/abs/2506.10304</link>
-      <description>&lt;![CDATA[The Alignment Trap: Complexity Barriers]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10304</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pok\'emon</title>
-      <link>https://arxiv.org/abs/2506.10326</link>
-      <description>&lt;![CDATA[A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pok\'emon]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10326</guid>
       <category>AI</category>
     </item>
   </channel>

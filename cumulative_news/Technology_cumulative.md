@@ -2,7 +2,65 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-14 12:19
+**最后更新时间**: 2025-06-15 01:02
+
+---
+
+## 🆕 最新更新 (2025-06-15 01:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [孩子王16.5亿投资养发，豪赌还是自救？](https://www.tmtpost.com/7596697.html)
+**发布时间**: 2025-06-15 08:51
+
+#### [砸亿级补贴、冲榜小游戏，三国SLG大战在即？《率土》青春服下载涨100%](https://www.tmtpost.com/7596995.html)
+**发布时间**: 2025-06-15 08:31
+
+#### [红果做社区，与小红书终有一战](https://www.tmtpost.com/7596984.html)
+**发布时间**: 2025-06-15 08:23
+
+#### [山下有松，被看见之后](https://www.tmtpost.com/7597010.html)
+**发布时间**: 2025-06-15 08:17
+
+#### [叮当快药三年亏34亿，AI战略能否拯救其于水火？](https://www.tmtpost.com/7597035.html)
+**发布时间**: 2025-06-15 08:00
+
+#### [Britain Determined to Become the Third AI Powerhouse After U.S. and China](https://www.tmtpost.com/7597071.html)
+**发布时间**: 2025-06-15 02:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [特朗普或推出以其名字命名的手机品牌；百度启动最大规模 AI 人才招聘；《鱿鱼游戏》第三季预告发布｜极客早知道](http://www.geekpark.net/news/350409)
+**发布时间**: 2025-06-15 08:16
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [No Kings: protests in the eye of the storm](https://www.theverge.com/policy/687195/no-kings-trump-parade-protests)
+**发布时间**: 2025-06-15 00:16
+
+#### [Sony’s noise-canceling WH-1000XM6 are already on sale with a $30 gift card](https://www.theverge.com/tech/686980/sony-wh-1000xm6-headphones-8bitdo-ultimate-2c-controller-deal-sale)
+**发布时间**: 2025-06-14 14:45
+
+#### [Answering the Nintendo Switch 2’s lingering accessibility questions](https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis)
+**发布时间**: 2025-06-14 14:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [三大云厂同时瘫了？Cursor、ChatGPT跟着倒下！网友：整个互联网都要废了](https://www.infoq.cn/article/Ao5i8tTHUKeE45v47PQE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-14 21:45
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Suspect in Minnesota Shooting Linked to Security Company, Evangelical Ministry](https://www.wired.com/story/shooting-minnesota-melissa-hortman-vance-boelter/)
+**发布时间**: 2025-06-14 19:49
+
+#### [The 6 Best Latte Machines for Automatic Espresso Drinks (2025)](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+**发布时间**: 2025-06-14 14:10
+
+#### [13 Best Laptops of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-laptops/)
+**发布时间**: 2025-06-14 13:30
+
+#### [6 Best Smart Locks (2025) for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)
+**发布时间**: 2025-06-14 13:08
 
 ---
 
