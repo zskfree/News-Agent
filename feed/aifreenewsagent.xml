@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Jun 2025 01:01:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2025 04:22:38 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 08:13:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 08:14:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>全方位实测首个AI原生浏览器！618比价、写高考作文…网友：再见Chrome</title>
+      <link>https://www.qbitai.com/2025/06/294864.html</link>
+      <description>&lt;![CDATA[全方位实测首个AI原生浏览器！618比价、写高考作文…网友：再见Chrome]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 04:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294864.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>比马斯克Neuralink工艺更先进！我国成功开展首例侵入式脑机接口临床试验</title>
+      <link>https://www.qbitai.com/2025/06/294846.html</link>
+      <description>&lt;![CDATA[比马斯克Neuralink工艺更先进！我国成功开展首例侵入式脑机接口临床试验]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 04:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294846.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>破解三大数据库AI难题！北大＆亚马逊推出全球首个图中心RDB基础模型</title>
+      <link>https://www.qbitai.com/2025/06/294815.html</link>
+      <description>&lt;![CDATA[破解三大数据库AI难题！北大＆亚马逊推出全球首个图中心RDB基础模型]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 04:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294815.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI ASMR突然火爆全网！3天狂揽近10万粉丝，一条切水果视频播放量破1650万</title>
+      <link>https://www.qbitai.com/2025/06/294724.html</link>
+      <description>&lt;![CDATA[AI ASMR突然火爆全网！3天狂揽近10万粉丝，一条切水果视频播放量破1650万]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 04:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294724.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>LLM已能自我更新权重，自适应、知识整合能力大幅提升，AI醒了？</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-14-6</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[CVPR 2025 Highlight｜北大联手智元发布首个基于说明书的家电操作评测基准]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 11:20:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>超越英伟达B200！AMD最强AI芯：1.6倍大内存、大模型推理快30%，奥特曼都来站台</title>
-      <link>https://www.qbitai.com/2025/06/293812.html</link>
-      <description>&lt;![CDATA[超越英伟达B200！AMD最强AI芯：1.6倍大内存、大模型推理快30%，奥特曼都来站台]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 02:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293812.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>黄仁勋发布量子计算专用CUDA！预言量子计算机几年内应用，但现在还离不开GB200</title>
-      <link>https://www.qbitai.com/2025/06/293861.html</link>
-      <description>&lt;![CDATA[黄仁勋发布量子计算专用CUDA！预言量子计算机几年内应用，但现在还离不开GB200]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293861.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Conjecture on a Fundamental Trade-Off between Certainty and Scope in Symbolic and Generative AI</title>
-      <link>https://arxiv.org/abs/2506.10130</link>
-      <description>&lt;![CDATA[A Conjecture on a Fundamental Trade-Off between Certainty and Scope in Symbolic and Generative AI]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10130</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence</title>
-      <link>https://arxiv.org/abs/2506.10157</link>
-      <description>&lt;![CDATA[One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.10157</guid>
       <category>AI</category>
     </item>
   </channel>
