@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-15 01:02
+**最后更新时间**: 2025-06-15 12:20
+
+---
+
+## 🆕 最新更新 (2025-06-15 12:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My friend wants me to join in a political protest. I’m worried about my job. Is it OK to say no?](https://www.marketwatch.com/story/my-friend-asked-me-to-share-political-protest-posters-she-created-using-ai-am-i-a-coward-if-i-say-no-a64a9936?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 10:16
 
 ---
 

@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Jun 2025 08:13:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2025 08:14:02 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 12:20:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>放弃博士学位加入OpenAI，他要为ChatGPT和AGI引入记忆与人格</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15-7</link>
+      <description>&lt;![CDATA[放弃博士学位加入OpenAI，他要为ChatGPT和AGI引入记忆与人格]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 20:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>机器人也能边想边做！清华团队OneTwoVLA让机器人煮火锅、炒菜、调酒样样精通</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15-6</link>
+      <description>&lt;![CDATA[机器人也能边想边做！清华团队OneTwoVLA让机器人煮火锅、炒菜、调酒样样精通]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 20:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>复旦大学/上海创智学院邱锡鹏：Context Scaling，通往AGI的下一幕</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15-5</link>
+      <description>&lt;![CDATA[复旦大学/上海创智学院邱锡鹏：Context Scaling，通往AGI的下一幕]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谢赛宁敲响学界警钟！AI研究可能陷入一场注定失败的有限游戏</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15-4</link>
+      <description>&lt;![CDATA[谢赛宁敲响学界警钟！AI研究可能陷入一场注定失败的有限游戏]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 19:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI记忆伪装被戳穿！GPT、DeepSeek等17款主流大模型根本记不住数字</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15-3</link>
+      <description>&lt;![CDATA[AI记忆伪装被戳穿！GPT、DeepSeek等17款主流大模型根本记不住数字]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 19:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CVPR 2025 Highlight | 国科大等新方法破译多模态「黑箱」，精准揪出犯错元凶</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15-2</link>
+      <description>&lt;![CDATA[CVPR 2025 Highlight | 国科大等新方法破译多模态「黑箱」，精准揪出犯错元凶]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 19:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个统一的图像与视频AIGC可解释性检测框架，多榜单SOTA性能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-15</link>
+      <description>&lt;![CDATA[首个统一的图像与视频AIGC可解释性检测框架，多榜单SOTA性能]]&gt;</description>
+      <pubDate>Sun, 15 Jun 2025 19:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-15</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>全方位实测首个AI原生浏览器！618比价、写高考作文…网友：再见Chrome</title>
       <link>https://www.qbitai.com/2025/06/294864.html</link>
@@ -355,62 +411,6 @@
       <description>&lt;![CDATA[比亚迪全新家用轿跑！海豹06EV上市售价10.98万元~12.98万元]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 07:09:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2025/06/294016.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>腾讯2026青云计划正式启动，首次开放课题资源库，探索校企合作新模式</title>
-      <link>https://www.qbitai.com/2025/06/294011.html</link>
-      <description>&lt;![CDATA[腾讯2026青云计划正式启动，首次开放课题资源库，探索校企合作新模式]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 07:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/294011.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>知识类型视角切入，全面评测图像编辑模型推理能力：所有模型在「程序性推理」方面表现不佳</title>
-      <link>https://www.qbitai.com/2025/06/293992.html</link>
-      <description>&lt;![CDATA[知识类型视角切入，全面评测图像编辑模型推理能力：所有模型在「程序性推理」方面表现不佳]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293992.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>智能交互终于步入真·人机交互时代了，这很讯飞</title>
-      <link>https://www.qbitai.com/2025/06/293940.html</link>
-      <description>&lt;![CDATA[智能交互终于步入真·人机交互时代了，这很讯飞]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 05:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293940.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>o3-pro答高难题文字游戏引围观，OpenAI前员工讽刺苹果：这都不叫推理那什么叫推理</title>
-      <link>https://www.qbitai.com/2025/06/293919.html</link>
-      <description>&lt;![CDATA[o3-pro答高难题文字游戏引围观，OpenAI前员工讽刺苹果：这都不叫推理那什么叫推理]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/293919.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>科大讯飞最新发布！打造下一代智能交互新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-13-3</link>
-      <description>&lt;![CDATA[科大讯飞最新发布！打造下一代智能交互新范式]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AGI真方向？谷歌证明：智能体在自研世界模型，世界模型is all You Need</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-13-2</link>
-      <description>&lt;![CDATA[AGI真方向？谷歌证明：智能体在自研世界模型，世界模型is all You Need]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CVPR 2025 Highlight｜北大联手智元发布首个基于说明书的家电操作评测基准</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-13</link>
-      <description>&lt;![CDATA[CVPR 2025 Highlight｜北大联手智元发布首个基于说明书的家电操作评测基准]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-13</guid>
       <category>AI</category>
     </item>
   </channel>
