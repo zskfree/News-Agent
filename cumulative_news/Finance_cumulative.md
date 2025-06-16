@@ -2,7 +2,62 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-15 12:20
+**最后更新时间**: 2025-06-16 00:58
+
+---
+
+## 🆕 最新更新 (2025-06-16 00:58)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Oil futures rise after Israel hits Iran energy facilities; stocks little moved](https://www.marketwatch.com/bulletins/redirect/go?g=72ed066a-b7b0-4e50-9c40-d6bf906bed41&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 23:35
+
+#### [Hate paying so much for car insurance? Now is the time to switch.](https://www.marketwatch.com/bulletins/redirect/go?g=8335b1b8-3073-4af4-aa1b-e18287699345&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 23:08
+
+#### [For Father’s Day, financial pros share their dads’ best money tips and habits](https://www.marketwatch.com/bulletins/redirect/go?g=0092b9a0-e817-4ecd-a7c3-c6bdb9003caa&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 21:05
+
+#### [GOP megabill set to end $600 tax-reporting rule for Venmo, PayPal payments](https://www.marketwatch.com/bulletins/redirect/go?g=df2322d9-03e2-4ef9-a71b-284ce9f53fee&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 20:38
+
+#### [Why this week’s Fed meeting likely won’t help stocks break out to new highs](https://www.marketwatch.com/bulletins/redirect/go?g=3dfff734-9788-4c1c-8284-1c3facca030d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 19:51
+
+#### [Economic calendar: Week kicks off with factory, retail and import-price data](https://www.marketwatch.com/bulletins/redirect/go?g=87e0e9f1-7e26-4bb4-b216-a0c70c694294&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 14:48
+
+#### [A lot less is spent on Father’s Day than Mother’s. And the gap may be widening.](https://www.marketwatch.com/bulletins/redirect/go?g=4e8d6549-29ee-406b-a505-3fec2504e521&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 14:46
+
+#### [Top finance pros tell MarketWatch what their fathers taught them about money](https://www.marketwatch.com/bulletins/redirect/go?g=ee8517f1-57a4-44da-a3db-7d5ed16d4445&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-15 14:22
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices add to gains after Israel hits Iran energy facilities; stocks taking turmoil in stride](https://www.marketwatch.com/story/oil-prices-add-to-gains-after-israel-hits-iran-energy-facilities-stocks-taking-turmoil-in-stride-abfb2cb3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 23:31
+
+#### [My friend asked me to join her in a political protest. I’m worried about my job. Is it OK to say no?](https://www.marketwatch.com/story/my-friend-asked-me-to-share-political-protest-posters-she-created-using-ai-am-i-a-coward-if-i-say-no-a64a9936?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 22:13
+
+#### [GOP megabill looks set to end the $600 tax-reporting rule for Venmo, PayPal payments](https://www.marketwatch.com/story/gop-megabill-looks-set-to-end-the-600-tax-reporting-rule-for-venmo-paypal-payments-35bfc155?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 17:00
+
+#### [Hate paying so much for car insurance? Now is the time to switch.](https://www.marketwatch.com/story/hate-paying-so-much-for-car-insurance-now-is-the-time-to-switch-1917f740?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 17:00
+
+#### [Why this week’s Fed meeting likely won’t help stocks break out to new highs](https://www.marketwatch.com/story/why-this-weeks-fed-meeting-likely-wont-help-stocks-break-out-to-new-highs-fe262007?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 16:00
+
+#### [From Walmart to car washes, American companies are getting caught up in ICE raids and protests](https://www.marketwatch.com/story/from-walmart-to-car-washes-american-companies-are-getting-caught-up-in-ice-raids-and-protests-df3c6c4e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 14:52
+
+#### [Americans spend $10 billion more on Mother’s Day than Father’s Day. What’s going on?](https://www.marketwatch.com/story/why-we-cheap-out-on-fathers-day-8d8f6b3a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 14:44
+
+#### [Three reasons that bitcoin in your 401(k) is still a terrible idea](https://www.marketwatch.com/story/3-reasons-that-bitcoin-in-your-401-k-is-still-a-terrible-idea-1a319051?mod=mw_rss_topstories)
+**发布时间**: 2025-06-15 14:33
 
 ---
 
