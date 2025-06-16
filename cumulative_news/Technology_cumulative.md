@@ -2,7 +2,142 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-16 08:17
+**最后更新时间**: 2025-06-16 12:23
+
+---
+
+## 🆕 最新更新 (2025-06-16 12:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [比起二次上市，石头更需要一个避风港](https://www.tmtpost.com/7598006.html)
+**发布时间**: 2025-06-16 19:36
+
+#### [微信为什么要上线「问一问主持人」功能？](https://www.tmtpost.com/7598200.html)
+**发布时间**: 2025-06-16 19:32
+
+#### [音综，请停止寻找下一个单依纯](https://www.tmtpost.com/7598223.html)
+**发布时间**: 2025-06-16 19:32
+
+#### [静悄悄的618，李佳琦们为何集体“隐身”？](https://www.tmtpost.com/7598142.html)
+**发布时间**: 2025-06-16 19:32
+
+#### [越南成为金砖伙伴国；TikTok宣布在英国扩大投资至13亿元；越南引领东南亚商用空调增长机遇｜一周「出海参考」（06.09-06.15）](https://www.tmtpost.com/7598146.html)
+**发布时间**: 2025-06-16 19:19
+
+#### [十万级车间里的味觉革命，卫龙用智能品控重塑零食工业标准](https://www.tmtpost.com/7598318.html)
+**发布时间**: 2025-06-16 19:17
+
+#### [谁在“制造”和“收割”消费者的“防晒焦虑”？](https://www.tmtpost.com/7598251.html)
+**发布时间**: 2025-06-16 19:15
+
+#### [曹操出行港交所聆讯通过，李书福喜抱“第十子”](https://www.tmtpost.com/7597801.html)
+**发布时间**: 2025-06-16 18:30
+
+#### [手术机器人市场狂飙背后的危机](https://www.tmtpost.com/7598007.html)
+**发布时间**: 2025-06-16 18:30
+
+#### [幻觉问题不解决，夸克们AI志愿填报靠谱吗？](https://www.tmtpost.com/7597988.html)
+**发布时间**: 2025-06-16 18:30
+
+#### [Costco应该学山姆](https://www.tmtpost.com/7597948.html)
+**发布时间**: 2025-06-16 16:47
+
+#### [【产业互联网周报】字节AI Lab负责人李航被曝正式卸任；OpenAI ARR破100亿美元；谷歌启动全公司范围“自愿离职计划”](https://www.tmtpost.com/7598100.html)
+**发布时间**: 2025-06-16 16:15
+
+#### [消费还是得靠00后](https://www.tmtpost.com/7597929.html)
+**发布时间**: 2025-06-16 16:13
+
+#### [AH溢价缩小，是机遇还是挑战？](https://www.tmtpost.com/7598093.html)
+**发布时间**: 2025-06-16 16:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [618 限时特惠：一键按下，开启 iPhone 效率新世代！](https://sspai.com/post/87559)
+**发布时间**: 2025-06-16 18:26
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/100292)
+**发布时间**: 2025-06-16 17:45
+
+#### [用 CalDAV 打造跨平台待办体验](https://sspai.com/prime/story/cross-platform-todo-caldav)
+**发布时间**: 2025-06-16 17:14
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蜜雪冰城再被曝食品安全问题，为什么依旧越卖越火？](http://www.huxiu.com/article/4464311.html?f=wangzhan)
+**发布时间**: 2025-06-16 18:20
+
+#### [手机店，正在变成儿童游戏房](http://www.huxiu.com/article/4447626.html?f=wangzhan)
+**发布时间**: 2025-06-16 16:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [我们让开发人员离开了门户网站：APIOps和IaC如何重塑我们的API策略](https://www.infoq.cn/article/CYRFr8ImK4iUjkSSZM4P?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-16 18:00
+
+#### [传统数据仓库正在被 Agentic AI 吞噬？Agentic Data Stack 初探](https://www.infoq.cn/article/Osleq7jqBjwqHuAmBdwL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-16 17:08
+
+#### [蚂蚁集团高级专家马介悦将在AICon北京分享DLRover在万卡规模大模型训练中的稳定性实践](https://www.infoq.cn/article/PjmvmpiJ2YOXbzDcMz1M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-16 17:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Acefast Acefit Air Review: Sleek Style, Solid Substance](https://www.wired.com/review/acefast-acefit-air/)
+**发布时间**: 2025-06-16 12:03
+
+#### [The 6 Best Blow-Dry Brushes (2025): Round, Oval, and More](https://www.wired.com/gallery/best-blow-dry-brushes/)
+**发布时间**: 2025-06-16 11:03
+
+#### [Wanna Rumble? Take WIRED's Quiz to Figure Out Your Fighting Style](https://www.wired.com/story/quiz-choose-your-fighter/)
+**发布时间**: 2025-06-16 10:00
+
+#### [The Definitive Story of Tesla Takedown](https://www.wired.com/story/tesla-takedown-definitive-story/)
+**发布时间**: 2025-06-16 10:00
+
+#### [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
+**发布时间**: 2025-06-16 10:00
+
+#### [6 Tools for Tracking the Trump Administration’s Attacks on Civil Liberties](https://www.wired.com/story/toll-trump-administration-policies-civil-rights/)
+**发布时间**: 2025-06-16 10:00
+
+#### [The Online Tools That Fueled ‘No Kings’ and the Trump Resistance](https://www.wired.com/story/technology-tools-donald-trump-resistance/)
+**发布时间**: 2025-06-16 10:00
+
+#### [This Historian Has Seen the Future of Trans Health Care](https://www.wired.com/story/historian-future-trans-health-care/)
+**发布时间**: 2025-06-16 10:00
+
+#### [The WIRED Guide to Protecting Yourself From Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
+**发布时间**: 2025-06-16 10:00
+
+#### [How to Fight Like a ‘Ballerina’](https://www.wired.com/story/ballerina-fighting-tips-from-a-stunt-performer/)
+**发布时间**: 2025-06-16 10:00
+
+#### [How to Out-Troll the Trolls, as Told by the Internet’s Foremost Posters](https://www.wired.com/story/how-to-win-fight-online/)
+**发布时间**: 2025-06-16 10:00
+
+#### [How to Win a Fight](https://www.wired.com/how-to-win-a-fight/)
+**发布时间**: 2025-06-16 10:00
+
+#### [Why We Made a Guide to Winning a Fight](https://www.wired.com/story/editor-letter-guide-to-winning-a-fight/)
+**发布时间**: 2025-06-16 10:00
+
+#### [Social Media Replaced Zines. Now Zines Are Taking the Power Back](https://www.wired.com/story/zines-social-media-power/)
+**发布时间**: 2025-06-16 10:00
+
+#### [A New Obesity Pill May Burn Fat Without Suppressing Appetite](https://www.wired.com/story/new-obesity-pill-may-burn-fat-without-suppressing-appetite/)
+**发布时间**: 2025-06-16 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [OnePlus announces the Nord 5 and four more products](https://www.theverge.com/news/687441/oneplus-nord5-ce5-buds4-pad-lite-watch3)
+**发布时间**: 2025-06-16 10:33
+
+#### [Microsoft accidentally swapped Windows 11’s startup sound with Vista’s](https://www.theverge.com/news/687417/microsoft-windows-11-startup-sound-boot-windows-vista-replacement-mistake-dev-channel)
+**发布时间**: 2025-06-16 09:25
+
+#### [Your next phone could run on Trump Mobile](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
+**发布时间**: 2025-06-16 08:52
 
 ---
 

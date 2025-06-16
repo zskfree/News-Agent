@@ -5,14 +5,86 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Jun 2025 08:16:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Jun 2025 08:17:10 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 12:23:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>「人类飞机上吵架看呆袋鼠」刷屏全网，7000万人被AI耍了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-16-15</link>
+      <description>&lt;![CDATA[「人类飞机上吵架看呆袋鼠」刷屏全网，7000万人被AI耍了]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-16-15</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SFT+RL双管齐下：ReasonGen-R1如何破解文生图「指令不遵」难题？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-16-14</link>
+      <description>&lt;![CDATA[SFT+RL双管齐下：ReasonGen-R1如何破解文生图「指令不遵」难题？]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-16-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Nature子刊，北大团队使用多视图GNN进行基于生态位的细胞间通信研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-16-13</link>
+      <description>&lt;![CDATA[Nature子刊，北大团队使用多视图GNN进行基于生态位的细胞间通信研究]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-16-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>九章云极发布九章智算云Alaya NeW Cloud 2.0， 开创Serverless+RL技术趋势</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-16-12</link>
+      <description>&lt;![CDATA[九章云极发布九章智算云Alaya NeW Cloud 2.0， 开创Serverless+RL技术趋势]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-16-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How AI can help make cities work better for residents</title>
+      <link>https://www.technologyreview.com/2025/06/16/1118210/ai-city-government-residents-constituents/</link>
+      <description>&lt;![CDATA[How AI can help make cities work better for residents]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/16/1118210/ai-city-government-residents-constituents/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里CEO投资的机器人公司，冲刺港股IPO了</title>
+      <link>https://www.qbitai.com/2025/06/295071.html</link>
+      <description>&lt;![CDATA[阿里CEO投资的机器人公司，冲刺港股IPO了]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295071.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯打响AI抢人大战！首次拿出数百万巨额奖金及Offer办算法大赛</title>
+      <link>https://www.qbitai.com/2025/06/295102.html</link>
+      <description>&lt;![CDATA[腾讯打响AI抢人大战！首次拿出数百万巨额奖金及Offer办算法大赛]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295102.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>20瓦就能运行下一代AI？科学家瞄上了神经形态计算</title>
+      <link>https://www.qbitai.com/2025/06/295081.html</link>
+      <description>&lt;![CDATA[20瓦就能运行下一代AI？科学家瞄上了神经形态计算]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295081.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10% KV Cache实现无损数学推理！这个开源方法解决推理大模型「记忆过载」难题</title>
+      <link>https://www.qbitai.com/2025/06/295072.html</link>
+      <description>&lt;![CDATA[10% KV Cache实现无损数学推理！这个开源方法解决推理大模型「记忆过载」难题]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295072.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>AI进化三年，产业落地真拐点可能就在这场全球顶尖金融智能赛事里</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-16-11</link>
@@ -99,14 +171,6 @@
       <description>&lt;![CDATA[Scaling Law首次在自动驾驶赛道被验证！小鹏汽车CVPR演讲详解]]&gt;</description>
       <pubDate>Mon, 16 Jun 2025 05:07:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2025/06/294977.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>腾讯打响AI抢人大战！首次拿出数百万巨额奖金及Offer办算法大赛</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-16</link>
-      <description>&lt;![CDATA[腾讯打响AI抢人大战！首次拿出数百万巨额奖金及Offer办算法大赛]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-16</guid>
       <category>AI</category>
     </item>
     <item>
@@ -347,70 +411,6 @@
       <description>&lt;![CDATA[EmbedAgent: Benchmarking Large Language Models in Embedded System Development]]&gt;</description>
       <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.11003</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Developing a Dyslexia Indicator Using Eye Tracking</title>
-      <link>https://arxiv.org/abs/2506.11004</link>
-      <description>&lt;![CDATA[Developing a Dyslexia Indicator Using Eye Tracking]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11004</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Impact of Comments on LLM Comprehension of Legacy Code</title>
-      <link>https://arxiv.org/abs/2506.11007</link>
-      <description>&lt;![CDATA[Impact of Comments on LLM Comprehension of Legacy Code]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11007</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Data Science: a Natural Ecosystem</title>
-      <link>https://arxiv.org/abs/2506.11010</link>
-      <description>&lt;![CDATA[Data Science: a Natural Ecosystem]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11010</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI</title>
-      <link>https://arxiv.org/abs/2506.11015</link>
-      <description>&lt;![CDATA[The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11015</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>TeleEval-OS: Performance evaluations of large language models for operations scheduling</title>
-      <link>https://arxiv.org/abs/2506.11017</link>
-      <description>&lt;![CDATA[TeleEval-OS: Performance evaluations of large language models for operations scheduling]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11017</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Extracting Knowledge Graphs from User Stories using LangChain</title>
-      <link>https://arxiv.org/abs/2506.11020</link>
-      <description>&lt;![CDATA[Extracting Knowledge Graphs from User Stories using LangChain]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11020</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Eliminating Hallucination-Induced Errors in LLM Code Generation with Functional Clustering</title>
-      <link>https://arxiv.org/abs/2506.11021</link>
-      <description>&lt;![CDATA[Eliminating Hallucination-Induced Errors in LLM Code Generation with Functional Clustering]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11021</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Security Degradation in Iterative AI Code Generation -- A Systematic Analysis of the Paradox</title>
-      <link>https://arxiv.org/abs/2506.11022</link>
-      <description>&lt;![CDATA[Security Degradation in Iterative AI Code Generation -- A Systematic Analysis of the Paradox]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11022</guid>
       <category>AI</category>
     </item>
   </channel>

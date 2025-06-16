@@ -2,7 +2,50 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-16 00:58
+**最后更新时间**: 2025-06-16 12:23
+
+---
+
+## 🆕 最新更新 (2025-06-16 12:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Israel-Iran conflict poses three challenges for stocks that could slam market by up to 20%, warns RBC](https://www.marketwatch.com/story/israel-iran-conflict-poses-three-challenges-for-stocks-that-could-slam-market-by-up-to-20-warns-rbc-5a98425d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 11:43
+
+#### [I’m 75 and have a reverse mortgage. Should I pay it off with my $200K savings — and live off Social Security instead?](https://www.marketwatch.com/story/im-75-and-have-a-reverse-mortgage-should-i-pay-it-off-with-my-200k-savings-and-live-off-social-security-instead-8074b633?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 11:30
+
+#### [JPMorgan strategists predict ‘fog of uncertainty’ will envelop markets through the rest of 2025](https://www.marketwatch.com/story/jpmorgan-strategists-predict-fog-of-uncertainty-will-envelop-markets-through-the-rest-of-2025-1de2d77c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 11:21
+
+#### [Brace yourself: This is exactly how much you should have saved for your kid’s college by the time they’re 5, 13 and 18](https://www.marketwatch.com/story/brace-yourself-this-is-exactly-how-much-you-should-have-saved-for-your-kids-college-by-the-time-theyre-5-13-and-18-0d32c1d2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 10:37
+
+#### [Am I a coward for not taking part in the political protests? My friend implored me to go.](https://www.marketwatch.com/story/my-friend-asked-me-to-share-political-protest-posters-she-created-using-ai-am-i-a-coward-if-i-say-no-a64a9936?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 10:37
+
+#### [My mother-in-law, 95, has $400K in stocks. Would it be smarter taxwise to gift it to her kids — or leave it to them in her will?](https://www.marketwatch.com/story/my-mother-in-law-95-has-400k-in-stocks-would-it-be-smarter-taxwise-to-gift-it-to-her-kids-or-leave-it-to-them-in-her-will-1ce355bb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 10:30
+
+#### [There-is-no-alternative gets a revival as U.S. households snap up stocks](https://www.marketwatch.com/story/there-is-no-alternative-gets-a-revival-of-u-s-households-snap-up-stocks-2cb7d9bd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 09:51
+
+#### [Seattle Seahawks linebacker Ernest Jones IV sells his L.A. home for $1.8 million](https://www.marketwatch.com/story/seattle-seahawks-linebackerernest-jones-iv-sells-his-l-a-home-for-1-8-million-e7732b6e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 09:04
+
+#### [Lizzo is still trying to sell her Beverly Hills home, now for $2 million less than she paid for it](https://www.marketwatch.com/story/lizzo-is-still-trying-to-sell-her-beverly-hills-home-now-for-2-million-less-than-she-paid-for-it-3d86a23d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 09:03
+
+#### [Kering shares surge on reports it’s luring auto exec to run Gucci maker](https://www.marketwatch.com/story/kering-shares-surge-on-reports-its-luring-auto-exec-to-run-gucci-maker-68a359b3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 08:48
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Goldman Sachs says record stock buying by U.S. households won't stop soon.](https://www.marketwatch.com/bulletins/redirect/go?g=028e3b40-a67f-4efd-ad48-c6d61d72c77c&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 10:42
+
+#### [U.K. says there's growing electronic interference in Strait of Hormuz](https://www.marketwatch.com/bulletins/redirect/go?g=61c6948c-ecfb-467b-be22-2ca35a9c5123&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 08:59
 
 ---
 
