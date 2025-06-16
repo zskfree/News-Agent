@@ -2,7 +2,48 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-16 00:58
+**最后更新时间**: 2025-06-16 04:24
+
+---
+
+## 🆕 最新更新 (2025-06-16 04:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [如何看待黄仁勋改口说，英伟达AI技术比华为领先一代？](https://www.tmtpost.com/7597545.html)
+**发布时间**: 2025-06-16 10:58
+
+#### [“日清”与“强链赋能”：钱大妈近3000家门店背后的“鲜”字诀](https://www.tmtpost.com/7596290.html)
+**发布时间**: 2025-06-16 10:26
+
+#### [AI“辣聊”翻车，谁在允许偶像被“分身擦边”？](https://www.tmtpost.com/7597422.html)
+**发布时间**: 2025-06-16 10:00
+
+#### [SwitchBot Eyes Hong Kong IPO After a Decade of Global Growth](https://www.tmtpost.com/7597701.html)
+**发布时间**: 2025-06-16 09:54
+
+#### [炒股不如炒谷了？谷子经济大火背后我们该提防什么？](https://www.tmtpost.com/7597454.html)
+**发布时间**: 2025-06-16 09:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Visual Studio 2022 v17.14引入了Agent模型和高级Copilot助手功能](https://www.infoq.cn/article/My2PmEZmiy4BTWChIWWx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-16 10:09
+
+#### [强化学习 AI 系统的设计实现及未来发展｜AICon北京](https://www.infoq.cn/article/Bmus2NR0vEVxJir9xvAd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-16 10:01
+
+#### [HTAP：统一数据库系统的兴衰？](https://www.infoq.cn/article/GiOeUWMAmK1KTz4bx1Zu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-16 09:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：iPhone 在华销量恢复增长](https://sspai.com/post/100262)
+**发布时间**: 2025-06-16 08:52
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Anker’s Soundcore Sleep earbuds finally feature active noise canceling](https://www.theverge.com/news/686034/anker-soundcore-sleep-a30-wireless-earbuds-anc-active-noise-canceling)
+**发布时间**: 2025-06-16 04:00
 
 ---
 
