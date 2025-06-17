@@ -5,14 +5,110 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 04:20:59 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 08:16:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>豆包电脑版上线AI播客功能，支持一键生成播客</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-17-11</link>
+      <description>&lt;![CDATA[豆包电脑版上线AI播客功能，支持一键生成播客]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-17-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>准确率是DeepSeek-R1两倍以上，前谷歌CEO押注的初创公司开源240亿参数科学推理模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-17-10</link>
+      <description>&lt;![CDATA[准确率是DeepSeek-R1两倍以上，前谷歌CEO押注的初创公司开源240亿参数科学推理模型]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-17-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Nature子刊 | 显著提升生物医学中蛋白质递送能力，生成式AI扩展线粒体靶向工具包</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-17-9</link>
+      <description>&lt;![CDATA[Nature子刊 | 显著提升生物医学中蛋白质递送能力，生成式AI扩展线粒体靶向工具包]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-17-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个转型AI公司的新势力，在全球AI顶会展示下一代自动驾驶模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-17-8</link>
+      <description>&lt;![CDATA[首个转型AI公司的新势力，在全球AI顶会展示下一代自动驾驶模型]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-17-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从扭秧歌到跑半马：机器人离「iPhone时刻」还有多远？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-17-7</link>
+      <description>&lt;![CDATA[从扭秧歌到跑半马：机器人离「iPhone时刻」还有多远？]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-17-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个全面梳理语音大模型发展脉络的权威综述，入选ACL 2025主会</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-17-6</link>
+      <description>&lt;![CDATA[首个全面梳理语音大模型发展脉络的权威综述，入选ACL 2025主会]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-17-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Scaling Laws尺度定律科普报告｜量子位智库</title>
+      <link>https://www.qbitai.com/2025/06/295965.html</link>
+      <description>&lt;![CDATA[Scaling Laws尺度定律科普报告｜量子位智库]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 08:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295965.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI音乐应用产业报告｜量子位智库</title>
+      <link>https://www.qbitai.com/2025/06/295934.html</link>
+      <description>&lt;![CDATA[AI音乐应用产业报告｜量子位智库]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 07:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295934.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中国AIGC最值得关注企业&amp;产品榜单揭晓！首份应用全景图谱发布</title>
+      <link>https://www.qbitai.com/2025/06/295802.html</link>
+      <description>&lt;![CDATA[中国AIGC最值得关注企业&amp;产品榜单揭晓！首份应用全景图谱发布]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 07:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295802.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Midjourney入局视频生成，图像模型V7不断更新，视觉卷王实锤了</title>
+      <link>https://www.qbitai.com/2025/06/295309.html</link>
+      <description>&lt;![CDATA[Midjourney入局视频生成，图像模型V7不断更新，视觉卷王实锤了]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 06:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295309.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>o3-pro通关“推箱子”，人类怀旧小游戏成了大模型新Benchmark</title>
+      <link>https://www.qbitai.com/2025/06/295280.html</link>
+      <description>&lt;![CDATA[o3-pro通关“推箱子”，人类怀旧小游戏成了大模型新Benchmark]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 05:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295280.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Kimi新模型拿下代码开源SOTA，仅仅72B，发布即开源</title>
+      <link>https://www.qbitai.com/2025/06/295271.html</link>
+      <description>&lt;![CDATA[Kimi新模型拿下代码开源SOTA，仅仅72B，发布即开源]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/295271.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>同一天开源新模型，一推理一编程，MiniMax和月之暗面开卷了</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-17-5</link>
@@ -315,102 +411,6 @@
       <description>&lt;![CDATA[Building Trustworthy AI by Addressing its 16+2 Desiderata with Goal-Directed Commonsense Reasoning]]&gt;</description>
       <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.12667</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation</title>
-      <link>https://arxiv.org/abs/2506.12689</link>
-      <description>&lt;![CDATA[SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12689</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Strategic Scaling of Test-Time Compute: A Bandit Learning Approach</title>
-      <link>https://arxiv.org/abs/2506.12721</link>
-      <description>&lt;![CDATA[Strategic Scaling of Test-Time Compute: A Bandit Learning Approach]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12721</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rethinking DPO: The Role of Rejected Responses in Preference Misalignment</title>
-      <link>https://arxiv.org/abs/2506.12725</link>
-      <description>&lt;![CDATA[Rethinking DPO: The Role of Rejected Responses in Preference Misalignment]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12725</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Decentralized Decision Making in Two Sided Manufacturing-as-a-Service Marketplaces</title>
-      <link>https://arxiv.org/abs/2506.12730</link>
-      <description>&lt;![CDATA[Decentralized Decision Making in Two Sided Manufacturing-as-a-Service Marketplaces]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12730</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LPMLN, Weak Constraints, and P-log</title>
-      <link>https://arxiv.org/abs/2506.12784</link>
-      <description>&lt;![CDATA[LPMLN, Weak Constraints, and P-log]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12784</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mastering Da Vinci Code: A Comparative Study of Transformer, LLM, and PPO-based Agents</title>
-      <link>https://arxiv.org/abs/2506.12801</link>
-      <description>&lt;![CDATA[Mastering Da Vinci Code: A Comparative Study of Transformer, LLM, and PPO-based Agents]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12801</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fuzzy Propositional Formulas under the Stable Model Semantics</title>
-      <link>https://arxiv.org/abs/2506.12804</link>
-      <description>&lt;![CDATA[Fuzzy Propositional Formulas under the Stable Model Semantics]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12804</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Federated Neuroevolution O-RAN: Enhancing the Robustness of Deep Reinforcement Learning xApps</title>
-      <link>https://arxiv.org/abs/2506.12812</link>
-      <description>&lt;![CDATA[Federated Neuroevolution O-RAN: Enhancing the Robustness of Deep Reinforcement Learning xApps]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12812</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rethinking Optimization: A Systems-Based Approach to Social Externalities</title>
-      <link>https://arxiv.org/abs/2506.12825</link>
-      <description>&lt;![CDATA[Rethinking Optimization: A Systems-Based Approach to Social Externalities]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12825</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WereWolf-Plus: An Update of Werewolf Game setting Based on DSGBench</title>
-      <link>https://arxiv.org/abs/2506.12841</link>
-      <description>&lt;![CDATA[WereWolf-Plus: An Update of Werewolf Game setting Based on DSGBench]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12841</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evolutionary Developmental Biology Can Serve as the Conceptual Foundation for a New Design Paradigm in Artificial Intelligence</title>
-      <link>https://arxiv.org/abs/2506.12891</link>
-      <description>&lt;![CDATA[Evolutionary Developmental Biology Can Serve as the Conceptual Foundation for a New Design Paradigm in Artificial Intelligence]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12891</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Homeostatic Coupling for Prosocial Behavior</title>
-      <link>https://arxiv.org/abs/2506.12894</link>
-      <description>&lt;![CDATA[Homeostatic Coupling for Prosocial Behavior]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12894</guid>
       <category>AI</category>
     </item>
   </channel>
