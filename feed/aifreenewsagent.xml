@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Jun 2025 12:23:06 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 00:55:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 00:56:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Celebrating an academic-industry collaboration to advance vehicle technology</title>
+      <link>https://news.mit.edu/2025/celebrating-academic-industry-collaboration-advance-vehicle-technology-0616</link>
+      <description>&lt;![CDATA[Celebrating an academic-industry collaboration to advance vehicle technology]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/celebrating-academic-industry-collaboration-advance-vehicle-technology-0616</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: how AI can improve a city, and inside OpenAI’s empire</title>
+      <link>https://www.technologyreview.com/2025/06/16/1118858/the-download-how-ai-can-improve-a-city-and-inside-openais-empire/</link>
+      <description>&lt;![CDATA[The Download: how AI can improve a city, and inside OpenAI’s empire]]&gt;</description>
+      <pubDate>Mon, 16 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/16/1118858/the-download-how-ai-can-improve-a-city-and-inside-openais-empire/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>「人类飞机上吵架看呆袋鼠」刷屏全网，7000万人被AI耍了</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-16-15</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[Automated Validation of COBOL to Java Transformation]]&gt;</description>
       <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.10999</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rethinking Technological Readiness in the Era of AI Uncertainty</title>
-      <link>https://arxiv.org/abs/2506.11001</link>
-      <description>&lt;![CDATA[Rethinking Technological Readiness in the Era of AI Uncertainty]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11001</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>EmbedAgent: Benchmarking Large Language Models in Embedded System Development</title>
-      <link>https://arxiv.org/abs/2506.11003</link>
-      <description>&lt;![CDATA[EmbedAgent: Benchmarking Large Language Models in Embedded System Development]]&gt;</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.11003</guid>
       <category>AI</category>
     </item>
   </channel>

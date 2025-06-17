@@ -2,7 +2,20 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-16 12:22
+**最后更新时间**: 2025-06-17 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-17 00:55)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Celebrating an academic-industry collaboration to advance vehicle technology](https://news.mit.edu/2025/celebrating-academic-industry-collaboration-advance-vehicle-technology-0616)
+**发布时间**: 2025-06-16 14:45
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: how AI can improve a city, and inside OpenAI’s empire](https://www.technologyreview.com/2025/06/16/1118858/the-download-how-ai-can-improve-a-city-and-inside-openais-empire/)
+**发布时间**: 2025-06-16 12:10
 
 ---
 

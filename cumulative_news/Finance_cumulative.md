@@ -2,7 +2,56 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-16 12:23
+**最后更新时间**: 2025-06-17 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-17 00:56)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How much money can Meta make from WhatsApp ads? This analyst does the math.](https://www.marketwatch.com/bulletins/redirect/go?g=50475d94-81f1-42c3-9d7a-8f408a477a8b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 00:01
+
+#### [Why markets are ignoring scary headlines about Iran, trade wars and U.S. debt](https://www.marketwatch.com/bulletins/redirect/go?g=fbf4d2ea-bf74-413a-a653-ed81e5d3dc87&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 21:45
+
+#### [Fog of trade war hangs over economy — but the Fed still has to make a forecast](https://www.marketwatch.com/bulletins/redirect/go?g=fd384969-b874-45a5-adcd-8e41a7ecc4bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 20:46
+
+#### [U.S. stocks close higher, oil prices retreat as fears of wider Mideast war ease](https://www.marketwatch.com/bulletins/redirect/go?g=a901bf5e-3a6a-4c75-bf8b-38bc528c865b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 20:01
+
+#### [‘Dead on arrival’: GOP war over SALT cap breaks out, threatening Trump tax bill](https://www.marketwatch.com/bulletins/redirect/go?g=4e846749-8ca1-4cd9-85be-724a9005eaf6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 19:22
+
+#### [Why one analyst says there's room to run for these chip stocks](https://www.marketwatch.com/bulletins/redirect/go?g=1e3d674f-c67c-4056-a3a0-69eb9bb01b8a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 16:37
+
+#### [U.S. Steel shares rally as Nippon Steel deal is cleared and Trump gets his wish](https://www.marketwatch.com/bulletins/redirect/go?g=eec89f2c-3c0b-45a4-bd48-6e35561ad0e5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 15:54
+
+#### [U.S. stock-market rebound strengthens after report that Iran seeks Israel talks](https://www.marketwatch.com/bulletins/redirect/go?g=be916b33-33be-47cd-80e9-5efe708f5a83&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 15:39
+
+#### [U.S. stocks are on track for their best day this month — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=8281274c-c78e-4ada-be29-15cf9b7551df&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 15:21
+
+#### [What makes a ‘quality’ stock? Join live chat with longtime portfolio manager.](https://www.marketwatch.com/bulletins/redirect/go?g=e814a950-3916-49fa-bce4-7751b630a0eb&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-16 14:50
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How much money can Meta make from WhatsApp ads? This analyst does the math.](https://www.marketwatch.com/story/how-much-money-can-meta-make-from-whatsapp-ads-this-analyst-does-the-math-cf653025?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 22:19
+
+#### [Ready to pay $1,000 a year for a premium credit card? New Amex, Chase offers could raise fees, experts say.](https://www.marketwatch.com/story/ready-to-pay-1-000-a-year-for-a-premium-credit-card-new-amex-chase-offers-could-raise-fees-experts-say-4a32d876?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 22:03
+
+#### [AMD’s stock jumped 9%. Here’s what could be driving the optimism.](https://www.marketwatch.com/story/amds-stock-jumps-9-heres-what-could-be-driving-the-optimism-03f606f7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 20:15
+
+#### [U.S. Steel’s stock surges as Trump gets his wish and a ‘golden share’](https://www.marketwatch.com/story/u-s-steels-stock-surges-as-trump-gets-his-wish-and-a-golden-share-4f350c48?mod=mw_rss_topstories)
+**发布时间**: 2025-06-16 19:16
 
 ---
 
