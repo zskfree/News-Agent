@@ -2,7 +2,41 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-17 08:16
+**最后更新时间**: 2025-06-17 12:23
+
+---
+
+## 🆕 最新更新 (2025-06-17 12:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Ready to pay $1,000 a year for a premium credit card? New American Express Platinum offer could raise fees, experts say.](https://www.marketwatch.com/story/ready-to-pay-1-000-a-year-for-a-premium-credit-card-new-amex-chase-offers-could-raise-fees-experts-say-4a32d876?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 12:20
+
+#### [This one-and-done heart-disease treatment just got a $1.3 billion endorsement from Eli Lilly](https://www.marketwatch.com/story/this-one-and-done-heart-disease-treatment-just-got-a-1-3-billion-endorsement-from-eli-lilly-5c163b61?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 12:13
+
+#### [U.S. Treasurys may be losing their safe-haven status — and these bonds could take their place](https://www.marketwatch.com/story/u-s-treasurys-may-be-losing-their-safe-haven-status-and-these-bonds-could-take-their-place-a0321100?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 12:10
+
+#### [Lagarde makes the case for the euro as reserve currency. These changes are required for that to happen.](https://www.marketwatch.com/story/lagarde-makes-the-case-for-the-euro-as-reserve-currency-these-changes-required-for-that-to-happen-79e0e090?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 12:03
+
+#### [This five-star fund manager says even smart investors have been missing the greatest theme of our time](https://www.marketwatch.com/story/this-five-star-fund-manager-says-even-smart-investors-have-been-missing-the-greatest-theme-of-our-time-393b40ba?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 11:51
+
+#### [Trump’s next Fed picks will be a dramatic showdown — with your mortgage payment and retirement savings on the line](https://www.marketwatch.com/story/trumps-next-fed-picks-will-be-a-dramatic-showdown-with-your-mortgage-payment-and-retirement-savings-on-the-line-214d615a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 11:50
+
+#### [For the first time, a majority of the 10 most ‘American-made’ cars are EVs](https://www.marketwatch.com/story/for-the-first-time-a-majority-of-the-10-most-american-made-cars-are-evs-c7111639?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 11:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Investor pessimism toward the U.S. dollar reaches two-decade high](https://www.marketwatch.com/bulletins/redirect/go?g=62c5580a-11b6-4f6b-bb4f-1d901e8ebb07&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 10:08
+
+#### [Trump says it's up to Iran to reach out to him](https://www.marketwatch.com/bulletins/redirect/go?g=eb82e7aa-684a-429b-93c1-d35f3d412f22&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 09:26
 
 ---
 

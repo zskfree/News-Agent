@@ -2,7 +2,84 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-17 08:16
+**最后更新时间**: 2025-06-17 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-17 12:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [逐个token太慢！大模型原生并行出token，CMU、英伟达新作Multiverse](https://www.jiqizhixin.com/articles/2025-06-17-13)
+**发布时间**: 2025-06-17 17:20
+
+#### [想知道你的LLM API被过度收费了吗？隐藏的Tokens终于可以被审计了](https://www.jiqizhixin.com/articles/2025-06-17-12)
+**发布时间**: 2025-06-17 17:16
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: power in Puerto Rico, and the pitfalls of AI agents](https://www.technologyreview.com/2025/06/17/1118923/the-download-power-in-puerto-rico-and-the-pitfalls-of-ai-agents/)
+**发布时间**: 2025-06-17 12:10
+
+#### [Puerto Rico’s power struggles](https://www.technologyreview.com/2025/06/17/1118216/puerto-rico-power-struggles-future/)
+**发布时间**: 2025-06-17 10:00
+
+#### [AI copyright anxiety will hold back creativity](https://www.technologyreview.com/2025/06/17/1118898/ai-copyright-anxiety-will-hold-back-creativity/)
+**发布时间**: 2025-06-17 10:00
+
+#### [What does it mean for an algorithm to be “fair”?](https://www.technologyreview.com/2025/06/17/1118918/what-does-it-mean-for-an-algorithm-to-be-fair/)
+**发布时间**: 2025-06-17 08:49
+
+#### [When AIs bargain, a less advanced agent could cost you](https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/)
+**发布时间**: 2025-06-17 08:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [直击CVPR现场：中国玩家展商面前人从众，腾讯40+篇接收论文亮眼](https://www.qbitai.com/2025/06/296607.html)
+**发布时间**: 2025-06-17 10:35
+
+#### [中国具身智能创投报告｜量子位智库](https://www.qbitai.com/2025/06/296384.html)
+**发布时间**: 2025-06-17 09:29
+
+#### [吉卜力风「手游」爆火，可灵+Midjourney生成的！教程已出，支持复刻](https://www.qbitai.com/2025/06/296382.html)
+**发布时间**: 2025-06-17 09:28
+
+#### [Scaling Laws尺度定律科普报告｜量子位智库](https://www.qbitai.com/2025/06/296202.html)
+**发布时间**: 2025-06-17 09:07
+
+#### [2天完成人类12年工作，AI自动更新文献综述，准确率碾压人类近15%](https://www.qbitai.com/2025/06/296222.html)
+**发布时间**: 2025-06-17 09:02
+
+#### [不用千亿参数也能合成高质量数据！这个开源框架让小模型“组团逆袭”，7B性能直追72B](https://www.qbitai.com/2025/06/296099.html)
+**发布时间**: 2025-06-17 08:43
+
+#### [大模型“拼好题”，45K数据撬动18%提升，数学问题拒绝死记硬背 | MathFusion](https://www.qbitai.com/2025/06/296067.html)
+**发布时间**: 2025-06-17 08:30
+
+#### [网页编程众测排名：DeepSeek-R1超越Claude 4加冕全球第一](https://www.qbitai.com/2025/06/295964.html)
+**发布时间**: 2025-06-17 08:17
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Interpolation in Positional Encodings and Using YaRN for Larger Context Window](https://machinelearningmastery.com/interpolation-in-positional-encodings-and-using-yarn-for-larger-context-window/)
+**发布时间**: 2025-06-17 05:00
+
+#### [How to Combine Scikit-learn, CatBoost, and SHAP for Explainable Tree Models](https://machinelearningmastery.com/how-to-combine-scikit-learn-catboost-and-shap-for-explainable-tree-models/)
+**发布时间**: 2025-06-16 12:00
+
+#### [Positional Encodings in Transformer Models](https://machinelearningmastery.com/positional-encodings-in-transformer-models/)
+**发布时间**: 2025-06-15 05:06
+
+#### [Advanced Feature Engineering Using Scikit-Learn Pipelines with Pandas’ ColumnTransformer and NumPy Arrays](https://machinelearningmastery.com/advanced-feature-engineering-using-scikit-learn-pipelines-with-pandas-columntransformer-and-numpy-arrays/)
+**发布时间**: 2025-06-13 12:00
+
+#### [Navigating Imbalanced Datasets with Pandas and Scikit-learn](https://machinelearningmastery.com/navigating-imbalanced-datasets-with-pandas-and-scikit-learn/)
+**发布时间**: 2025-06-12 12:00
+
+#### [Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)
+**发布时间**: 2025-06-11 16:17
+
+#### [Implementing Vector Search from Scratch: A Step-by-Step Tutorial](https://machinelearningmastery.com/implementing-vector-search-from-scratch-a-step-by-step-tutorial/)
+**发布时间**: 2025-06-10 14:49
 
 ---
 
