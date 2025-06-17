@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 00:56:11 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 04:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 04:20:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>$1,000 a year for a credit card? New Amex, Chase premium cards could raise fees.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=3b880eb7-9222-4be6-a7d4-36db3df44e4e&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[$1,000 a year for a credit card? New Amex, Chase premium cards could raise fees.]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 01:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=3b880eb7-9222-4be6-a7d4-36db3df44e4e&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
       <title>How much money can Meta make from WhatsApp ads? This analyst does the math.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=50475d94-81f1-42c3-9d7a-8f408a477a8b&amp;mod=mw_rss_bulletins</link>
+      <link>https://www.marketwatch.com/story/how-much-money-can-meta-make-from-whatsapp-ads-this-analyst-does-the-math-cf653025?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[How much money can Meta make from WhatsApp ads? This analyst does the math.]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=50475d94-81f1-42c3-9d7a-8f408a477a8b&amp;mod=mw_rss_bulletins</guid>
+      <pubDate>Mon, 16 Jun 2025 22:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-much-money-can-meta-make-from-whatsapp-ads-this-analyst-does-the-math-cf653025?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Micron’s stock is on a hot streak. Can it continue?]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 22:02:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/microns-stock-is-on-a-hot-streak-can-it-continue-c32196e3?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>RH, slammed by tariff fears in April, is now rallying. Here’s why.</title>
-      <link>https://www.marketwatch.com/story/rh-slammed-by-tariff-fears-in-april-is-now-rallying-heres-why-34da2f57?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[RH, slammed by tariff fears in April, is now rallying. Here’s why.]]&gt;</description>
-      <pubDate>Thu, 12 Jun 2025 21:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/rh-slammed-by-tariff-fears-in-april-is-now-rallying-heres-why-34da2f57?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
