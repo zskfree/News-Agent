@@ -2,7 +2,74 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-17 12:23
+**最后更新时间**: 2025-06-18 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-18 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Annuities are looking good right now. So why aren’t people buying them?](https://www.marketwatch.com/story/how-to-create-a-traditional-pension-right-now-856e37a8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 22:58
+
+#### [You have to spend a year’s salary to really get the most out of the new Chase Sapphire Reserve card](https://www.marketwatch.com/story/you-have-to-spend-a-years-salary-to-really-get-the-most-out-of-the-new-chase-sapphire-reserve-card-c6e6e939?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 22:53
+
+#### [This chart shows why you can be optimistic about Fed rate cuts — and investing in bonds](https://www.marketwatch.com/story/this-chart-shows-the-fed-has-room-to-cut-interest-rates-enough-to-boost-bonds-and-housing-d8a58956?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 22:37
+
+#### [Amazon CEO says AI will mean fewer jobs at the company. Here’s his advice on how people can keep theirs.](https://www.marketwatch.com/story/amazon-ceo-says-ai-will-mean-fewer-jobs-at-the-company-heres-his-advice-on-how-people-can-keep-theirs-de3fb24f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 22:23
+
+#### [Fed might not cut rates until September. But how will it handle its balance sheet?](https://www.marketwatch.com/story/fed-might-not-cut-rates-until-september-but-how-will-it-handle-its-balance-sheet-5fefb883?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 22:08
+
+#### [China’s trillion-yuan gamble on AI and chips is creating strange bedfellows](https://www.marketwatch.com/story/chinas-trillion-yuan-gamble-on-ai-and-chips-is-creating-strange-bedfellows-c740efcb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 21:47
+
+#### [This oil gauge signals how nervous investors are about Trump’s warning to Iran](https://www.marketwatch.com/story/this-oil-volatility-index-suggests-how-serious-the-israel-iran-situation-is-and-could-become-d22150cc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 21:44
+
+#### [Here’s what investors should do if Iran decides to take this unprecedented step in its conflict with Israel](https://www.marketwatch.com/story/heres-what-investors-should-do-if-iran-decides-to-take-this-unprecedented-step-in-its-conflict-with-israel-97525e4e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 21:41
+
+#### [America can do better than cutting Medicaid and Medicare. Here’s a proven way to save healthcare.](https://www.marketwatch.com/story/trumps-tax-bill-forces-you-to-choose-worse-healthcare-or-unaffordable-insurance-it-doesnt-have-to-be-this-way-41beee97?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 21:04
+
+#### [Worried about — well, everything? These 5 steps can ease your mind in volatile markets.](https://www.marketwatch.com/story/worried-about-well-everything-these-5-steps-can-ease-your-mind-in-volatile-markets-9c815dd4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-17 20:36
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [This oil gauge signals how nervous investors are about Trump’s warning to Iran](https://www.marketwatch.com/bulletins/redirect/go?g=2575f591-0246-4a9c-b7c8-797b5e0ba926&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 22:48
+
+#### [What investors should do if Iran takes this unprecedented step in Middle East](https://www.marketwatch.com/bulletins/redirect/go?g=f6b9d151-a5fe-43a7-a25e-0d5c98fc6deb&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 21:47
+
+#### [Here's the new mantra stock investors have coined to trade geopolitical shocks](https://www.marketwatch.com/bulletins/redirect/go?g=2764a4dc-dffa-409e-8a29-d6b454d7f22e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 20:52
+
+#### [U.S. stocks finish lower after Trump calls for Iran's 'unconditional surrender'](https://www.marketwatch.com/bulletins/redirect/go?g=bfd465f3-9122-4562-a4cf-1653c388b8c5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 20:09
+
+#### [Traders eye chances of one 2025 rate cut — or zero — due to tariffs, Middle East](https://www.marketwatch.com/bulletins/redirect/go?g=c8e637e6-a75b-4b31-b435-42c4b4cc250f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 19:33
+
+#### [Exclusive: Fed’s inflation fight not over yet, says former No. 2 at central bank](https://www.marketwatch.com/bulletins/redirect/go?g=23db0919-1d76-4957-ac70-da5aca73c89e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 18:34
+
+#### [Trump appears set to delay the U.S.’s TikTok ban again](https://www.marketwatch.com/bulletins/redirect/go?g=473ced3f-a038-4b97-88f7-2a697e892a32&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 16:13
+
+#### [More residential builders are slashing home prices](https://www.marketwatch.com/bulletins/redirect/go?g=5b9186c2-f243-4817-b942-8ea3df799a2d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 15:59
+
+#### [Nvidia’s plausible pathway to a $5 trillion market cap](https://www.marketwatch.com/bulletins/redirect/go?g=c3cc3761-2b85-4f7e-bc44-ae8d1960d247&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 15:37
+
+#### [How the Juneteenth holiday affects U.S. markets and more this week](https://www.marketwatch.com/bulletins/redirect/go?g=54018561-38e3-4d36-ba4c-25e7fe7c6ae2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-17 15:15
 
 ---
 

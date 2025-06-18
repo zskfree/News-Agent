@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 12:23:03 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 00:56:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Combining technology, education, and human connection to improve online learning</title>
+      <link>https://news.mit.edu/2025/caitlin-morris-combines-tech-education-human-connection-improve-online-learning-0617</link>
+      <description>&lt;![CDATA[Combining technology, education, and human connection to improve online learning]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/caitlin-morris-combines-tech-education-human-connection-improve-online-learning-0617</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Unpacking the bias of large language models</title>
+      <link>https://news.mit.edu/2025/unpacking-large-language-model-bias-0617</link>
+      <description>&lt;![CDATA[Unpacking the bias of large language models]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/unpacking-large-language-model-bias-0617</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A sounding board for strengthening the student experience</title>
+      <link>https://news.mit.edu/2025/sounding-board-for-strengthening-student-experience-0617</link>
+      <description>&lt;![CDATA[A sounding board for strengthening the student experience]]&gt;</description>
+      <pubDate>Tue, 17 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/sounding-board-for-strengthening-student-experience-0617</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>逐个token太慢！大模型原生并行出token，CMU、英伟达新作Multiverse</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-17-13</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[Cloud Infrastructure Management in the Age of AI Agents]]&gt;</description>
       <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.12270</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Deep Fictitious Play-Based Potential Differential Games for Learning Human-Like Interaction at Unsignalized Intersections</title>
-      <link>https://arxiv.org/abs/2506.12283</link>
-      <description>&lt;![CDATA[Deep Fictitious Play-Based Potential Differential Games for Learning Human-Like Interaction at Unsignalized Intersections]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12283</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</title>
-      <link>https://arxiv.org/abs/2506.12286</link>
-      <description>&lt;![CDATA[The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12286</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Ontology Enabled Hybrid Modeling and Simulation</title>
-      <link>https://arxiv.org/abs/2506.12290</link>
-      <description>&lt;![CDATA[Ontology Enabled Hybrid Modeling and Simulation]]&gt;</description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.12290</guid>
       <category>AI</category>
     </item>
   </channel>

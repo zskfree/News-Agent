@@ -2,7 +2,21 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-17 12:22
+**最后更新时间**: 2025-06-18 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-18 00:56)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Combining technology, education, and human connection to improve online learning](https://news.mit.edu/2025/caitlin-morris-combines-tech-education-human-connection-improve-online-learning-0617)
+**发布时间**: 2025-06-17 16:25
+
+#### [Unpacking the bias of large language models](https://news.mit.edu/2025/unpacking-large-language-model-bias-0617)
+**发布时间**: 2025-06-17 16:00
+
+#### [A sounding board for strengthening the student experience](https://news.mit.edu/2025/sounding-board-for-strengthening-student-experience-0617)
+**发布时间**: 2025-06-17 16:00
 
 ---
 
