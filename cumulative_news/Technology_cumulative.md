@@ -2,7 +2,94 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-18 00:56
+**最后更新时间**: 2025-06-18 04:21
+
+---
+
+## 🆕 最新更新 (2025-06-18 04:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Volvo and Daimler Truck Launch JV Coretura](https://www.tmtpost.com/7600348.html)
+**发布时间**: 2025-06-18 11:52
+
+#### [OpenAI Reportedly Considers Accusing Microsoft of Anticompetition, Seek Profit Waiver from Largest Investor](https://www.tmtpost.com/7600313.html)
+**发布时间**: 2025-06-18 11:27
+
+#### [星巴克，从王者到学徒](https://www.tmtpost.com/7600269.html)
+**发布时间**: 2025-06-18 11:16
+
+#### [人均140元的巴奴火锅，没海底捞会赚钱](https://www.tmtpost.com/7599941.html)
+**发布时间**: 2025-06-18 11:16
+
+#### [如何构建属于自己的运营分析地图（下）](https://www.tmtpost.com/7599922.html)
+**发布时间**: 2025-06-18 11:16
+
+#### [全球首个AI眼镜支付技术落地，Rokid称明年量产目标100万台](https://www.tmtpost.com/7599821.html)
+**发布时间**: 2025-06-18 11:14
+
+#### [南京正大天晴又有首仿：这一次，攻入超20亿元国产原研药腹地](https://www.tmtpost.com/7599893.html)
+**发布时间**: 2025-06-18 11:09
+
+#### [U.S. Senate Passes GENIUS Stablecoin Bill](https://www.tmtpost.com/7600260.html)
+**发布时间**: 2025-06-18 10:49
+
+#### [老铺黄金：“黄金爱马仕”还能“壕”多久？](https://www.tmtpost.com/7600188.html)
+**发布时间**: 2025-06-18 10:41
+
+#### [创新药、新消费调整，这些方向或接棒领涨](https://www.tmtpost.com/7599846.html)
+**发布时间**: 2025-06-18 10:40
+
+#### [出口585万辆之后，中国汽车出海到了“下半场”｜钛度车库](https://www.tmtpost.com/7599503.html)
+**发布时间**: 2025-06-18 10:26
+
+#### [机器人比人类更懂爱？这部学生情侣打造的AI短片凭什么斩获双奖？](https://www.tmtpost.com/7599807.html)
+**发布时间**: 2025-06-18 10:19
+
+#### [Labubu一娃难求，河南老板还中吗？](https://www.tmtpost.com/7599808.html)
+**发布时间**: 2025-06-18 10:19
+
+#### [从流量到品牌，欧美网红美妆商业帝国的操盘逻辑](https://www.tmtpost.com/7600121.html)
+**发布时间**: 2025-06-18 10:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [MiniMax-M1 登场，MiniMax 再次证明自己是一家模型驱动的 AI 公司](http://www.geekpark.net/news/350519)
+**发布时间**: 2025-06-18 11:18
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [百度做电商18年，还是没搞明白咋卖货？](http://www.huxiu.com/article/4477393.html?f=wangzhan)
+**发布时间**: 2025-06-18 10:40
+
+#### [比特币、以太坊价格涨跌，只看这一个因素就够了](http://www.huxiu.com/article/4475262.html?f=wangzhan)
+**发布时间**: 2025-06-18 10:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Mistral AI发布了首个以推理为中心的语言模型Magistral](https://www.infoq.cn/article/DdAcABJ8C1BRkrNFuxWS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 10:30
+
+#### [Svelte 发布 Attachments，通过交互式和响应式特性增强 DOM](https://www.infoq.cn/article/HpW2CMXwmP0QJexV0Ks0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 10:04
+
+#### [LLM驱动广告审核自动化：从PoC到日审千万级物料的落地实践｜AICon北京](https://www.infoq.cn/article/rrgbBxNgCJdp6gm7b7kj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 10:00
+
+#### [AI大模型重塑学习硬件：从工具到伙伴 | 网易有道孟旭](https://www.infoq.cn/article/MzgURzILvSoqE8qJ797M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 10:00
+
+#### [看不见的底座：大模型 Infra 工程师的实战日常 ｜InfoQ极客有约](https://www.infoq.cn/video/kx2h235pHrE7fENMaxlH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Qwen3 更新适配 Apple  MLX、Gemini 2.5 Pro 正式发布等](https://sspai.com/post/100346)
+**发布时间**: 2025-06-18 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Senate passes GENIUS stablecoin bill in a win for the crypto industry](https://www.theverge.com/cryptocurrency/688903/genius-act-stablecoin-senate-federal-crypto-regulation)
+**发布时间**: 2025-06-18 01:48
 
 ---
 

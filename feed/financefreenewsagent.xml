@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Jun 2025 00:56:38 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Jun 2025 04:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 04:21:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump plans to delay the TikTok ban again. Could he face a lawsuit?</title>
+      <link>https://www.marketwatch.com/story/trump-is-set-to-delay-the-tiktok-ban-again-could-he-face-a-lawsuit-171edea5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump plans to delay the TikTok ban again. Could he face a lawsuit?]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 01:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-is-set-to-delay-the-tiktok-ban-again-could-he-face-a-lawsuit-171edea5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Annuities are looking good right now. So why aren’t people buying them?</title>
       <link>https://www.marketwatch.com/story/how-to-create-a-traditional-pension-right-now-856e37a8?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Adobe just can’t make investors happy, even after its strong earnings]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 20:36:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/adobe-just-cant-make-investors-happy-even-after-its-strong-earnings-722df5bb?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why Archer Aviation is getting dinged for its plans to do what Trump wants</title>
-      <link>https://www.marketwatch.com/story/why-archer-aviation-is-getting-dinged-for-its-plans-to-do-what-trump-wants-ae7aabaa?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why Archer Aviation is getting dinged for its plans to do what Trump wants]]&gt;</description>
-      <pubDate>Fri, 13 Jun 2025 20:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-archer-aviation-is-getting-dinged-for-its-plans-to-do-what-trump-wants-ae7aabaa?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
