@@ -2,7 +2,85 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-18 08:16
+**最后更新时间**: 2025-06-18 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-18 12:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [震安科技实控人欲2.72亿元转卖控制权，新主“卖身”失败存“借壳”预期](https://www.tmtpost.com/7600893.html)
+**发布时间**: 2025-06-18 19:44
+
+#### [刘强东反复提的稳定币，是个什么东西？](https://www.tmtpost.com/7600739.html)
+**发布时间**: 2025-06-18 18:48
+
+#### [又见0佣金，京东刘强东正式宣布进军酒旅行业](https://www.tmtpost.com/7600337.html)
+**发布时间**: 2025-06-18 18:17
+
+#### [我们和“并购之王”聊了4个小时——在潮汐中造浪](https://www.tmtpost.com/7600509.html)
+**发布时间**: 2025-06-18 17:47
+
+#### [水井坊：库存处于合理水平，新品将按计划推出 |直击股东大会](https://www.tmtpost.com/7600725.html)
+**发布时间**: 2025-06-18 17:18
+
+#### [新技术能把天价殡葬的价格打下来吗？](https://www.tmtpost.com/7600624.html)
+**发布时间**: 2025-06-18 17:14
+
+#### [科创板最年轻掌门人，把大疆都惹急眼了？](https://www.tmtpost.com/7600561.html)
+**发布时间**: 2025-06-18 16:35
+
+#### [外卖战打了小半年，美团还是那个美团](https://www.tmtpost.com/7600610.html)
+**发布时间**: 2025-06-18 16:35
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [华为要警惕余承东的口无遮拦了？](http://www.huxiu.com/article/4475822.html?f=wangzhan)
+**发布时间**: 2025-06-18 19:10
+
+#### [50万一台的人形机器人进厂，搬运效率连工人一半都不到](http://www.huxiu.com/article/4480067.html?f=wangzhan)
+**发布时间**: 2025-06-18 18:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [小扎疯狂挖角 OpenAI、签约跳槽就发7亿奖金，奥特曼痛批：不懂创新，老“复制”人了](https://www.infoq.cn/article/73NYhuAyYklo8FOeQhxN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 18:00
+
+#### [GitHub CLI增强了对三角工作流的支持](https://www.infoq.cn/article/Nah3qU5TMfZ5xRI2FB3M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
+**发布时间**: 2025-06-18 17:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Why is the President selling me phone service now?](https://www.theverge.com/tech/688750/trump-mobile-celebrity-mvno-wireless-service)
+**发布时间**: 2025-06-18 12:15
+
+#### [What happens when you feed AI nothing](https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing)
+**发布时间**: 2025-06-18 12:09
+
+#### [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)
+**发布时间**: 2025-06-18 11:51
+
+#### [Garmin’s new sleep-tracking armband lasts a full week between charges](https://www.theverge.com/news/688438/garmin-index-sleep-monitor-smart-arm-band-tracker)
+**发布时间**: 2025-06-18 11:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Silk & Snow S&S Organic Mattress Review: Soft as a Cloud](https://www.wired.com/review/silk-and-snow-organic-mattress/)
+**发布时间**: 2025-06-18 11:03
+
+#### [Authors Are Posting TikToks to Protest AI Use in Writing—and to Prove They Aren’t Doing It](https://www.wired.com/story/authors-are-posting-tiktoks-to-protest-ai-use-in-writing-and-to-prove-they-arent-doing-it/)
+**发布时间**: 2025-06-18 11:00
+
+#### [The Best Motorola Phones (2025), Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
+**发布时间**: 2025-06-18 10:33
+
+#### [The Definitive, Insane, Swimsuit-Bursting Story of the Steroid Olympics](https://www.wired.com/story/enhanced-games-freestyle-record-las-vegas-steroids/)
+**发布时间**: 2025-06-18 10:00
 
 ---
 

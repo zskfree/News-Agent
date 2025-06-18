@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-18 04:21
+**最后更新时间**: 2025-06-18 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-18 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [May’s missing inflation is a mystery — and a sign that the Fed will hold off on rate cuts](https://www.marketwatch.com/story/mays-missing-inflation-is-a-mystery-and-a-sign-that-the-fed-will-hold-off-on-rate-cuts-a011a69c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 12:05
+
+#### [U.S. added more than 1,000 millionaires every day last year, new report says](https://www.marketwatch.com/story/u-s-added-more-than-1-000-millionaires-every-day-last-year-new-report-says-fc0e50fe?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 11:56
+
+#### [I took a deep dive into Trump Mobile’s technical, security and privacy details. These are 10 things I found.](https://www.marketwatch.com/story/i-took-a-deep-dive-into-trump-mobiles-technical-security-and-privacy-details-these-are-10-things-i-found-2d244a78?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 11:50
+
+#### [Trump pledged not to cut Medicare — but his budget bill does just that](https://www.marketwatch.com/story/trump-pledged-not-to-cut-medicare-but-his-budget-bill-does-just-that-b69fb8d2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 11:35
+
+#### [Why Tom Lee says the odds favor a stock-market rally after the Fed decision](https://www.marketwatch.com/story/why-tom-lee-says-the-odds-favor-a-stock-market-rally-after-the-fed-decision-90d73b98?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 11:24
+
+#### [‘I’m at my wit’s end’: My niece paid off her husband’s credit card, but fell behind on her taxes. How can I help her?](https://www.marketwatch.com/story/im-at-my-wits-end-my-niece-paid-off-her-husbands-credit-card-but-fell-behind-on-her-taxes-how-can-i-help-her-9d929354?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 10:30
+
+#### [Trend funds have been in a tailspin. Here’s what happened after similar drawdowns.](https://www.marketwatch.com/story/trend-funds-have-been-in-a-tailspin-heres-what-happened-after-similar-drawdowns-55f40977?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 10:05
+
+#### [I’m 51, earn $129K and my 401(k) has $165K. Can I afford to retire when my husband, 59, draws Social Security at 62?](https://www.marketwatch.com/story/im-51-earn-129k-and-my-401-k-has-165k-can-i-afford-to-retire-when-my-husband-59-draws-social-security-at-62-df96ad5f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 09:15
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: It‘s Fed decision day. First come jobless and housing data.](https://www.marketwatch.com/bulletins/redirect/go?g=25604b62-22f4-47c4-b648-b82c9c18182e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 11:58
+
+#### [UBS forecasts a world with 300 million humanoid robots in a new report](https://www.marketwatch.com/bulletins/redirect/go?g=6069b500-b43e-49f0-9f6a-7428c892757c&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 09:32
 
 ---
 
