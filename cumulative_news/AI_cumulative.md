@@ -2,7 +2,24 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-18 12:22
+**最后更新时间**: 2025-06-19 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-19 00:56)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [OpenAI can rehabilitate AI models that develop a “bad boy persona”](https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/)
+**发布时间**: 2025-06-18 18:19
+
+#### [Puzzle Corner](https://www.technologyreview.com/2025/06/18/1118935/puzzle-corner-74/)
+**发布时间**: 2025-06-18 16:00
+
+#### [Puzzle Corner](https://www.technologyreview.com/2025/06/18/1119010/puzzle-corner-73/)
+**发布时间**: 2025-06-18 13:05
+
+#### [The Download: tackling tech-facilitated abuse, and opening up AI hardware](https://www.technologyreview.com/2025/06/18/1119002/the-download-tech-abuse-ai-hardware/)
+**发布时间**: 2025-06-18 12:15
 
 ---
 

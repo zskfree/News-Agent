@@ -2,7 +2,62 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-18 12:22
+**最后更新时间**: 2025-06-19 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-19 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Medicare may actually be in worse trouble than Social Security, according to the trustees](https://www.marketwatch.com/story/medicare-may-actually-be-in-worse-trouble-than-social-security-according-to-the-trustees-72f2a1cd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 00:08
+
+#### [This college grad almost turned $13 into $270,000 with a bet on the NHL finals. Why DraftKings and other sportsbooks love parlays.](https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 22:39
+
+#### [I’m 51, earn $129K and have $165K in my 401(k). Can I afford to retire when my husband, 59, draws Social Security at 62?](https://www.marketwatch.com/story/im-51-earn-129k-and-my-401-k-has-165k-can-i-afford-to-retire-when-my-husband-59-draws-social-security-at-62-df96ad5f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 22:28
+
+#### [Fed sticks with forecast of two interest-rate cuts this year despite new inflation worries](https://www.marketwatch.com/story/fed-sticks-with-forecast-of-two-interest-rate-cuts-this-year-despite-new-inflation-worries-5e5a97d8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 22:19
+
+#### [Powell sticks it to Trump on interest rates — and beyond](https://www.marketwatch.com/story/powell-sticks-it-to-trump-on-interest-rates-and-beyond-4f1ca934?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 22:04
+
+#### [Inflation, tariffs put the brakes on this gun maker’s sales](https://www.marketwatch.com/story/inflation-tariffs-put-the-brakes-on-this-gun-makers-sales-23c5c252?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 21:04
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why shoppers say they’re ‘not interested’ in Amazon’s longer Prime Day sale](https://www.marketwatch.com/bulletins/redirect/go?g=1ff8d5cf-963b-4904-84b2-1c9e5ea013a8&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 23:51
+
+#### [How ‘gold fatigue’ has helped drive platinum prices up 44% this year](https://www.marketwatch.com/bulletins/redirect/go?g=033c1265-858e-42ca-8e33-4ae91a005b13&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 22:26
+
+#### [Biggest-ever ‘triple witching’ options expiration could jolt the market Friday](https://www.marketwatch.com/bulletins/redirect/go?g=ff8b509d-d871-408b-a6b8-1b0b2409a34e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 21:24
+
+#### [U.S. stocks end mixed after Fed keeps rates unchanged, lifts inflation outlook](https://www.marketwatch.com/bulletins/redirect/go?g=b11d9e15-1918-4ff4-b18b-37e7c1866fe5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 20:02
+
+#### [‘Reciprocal’ Trump tariffs aren’t coming back in July: Goldman’s chief economist](https://www.marketwatch.com/bulletins/redirect/go?g=30f86d08-9f83-4938-8b02-0cb798feae12&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 19:27
+
+#### [Fed chief Powell’s post-meeting press conference is beginning — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=21eba729-b0bd-46a5-b5ad-920fb901e29b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 18:24
+
+#### [The Fed just jacked up its U.S. inflation forecast — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=4e3ac694-3e2f-4412-a838-b4f21ddd1e0e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 18:18
+
+#### [Fed stands pat on interest rates but continues to foresee two cuts by year-end](https://www.marketwatch.com/bulletins/redirect/go?g=20069a0e-2c6f-45be-9bb0-cded493e35ab&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 18:07
+
+#### [Fed interest-rate decision is imminent — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=2f822a4c-0a58-4823-8468-6b13df18d471&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 17:50
+
+#### [U.S. stocks holding gains with Fed interest-rate decision a half-hour away](https://www.marketwatch.com/bulletins/redirect/go?g=066c6a66-2f3e-4e4e-8352-b6b7b937288a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-18 17:30
 
 ---
 

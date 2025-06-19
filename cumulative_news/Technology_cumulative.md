@@ -2,7 +2,136 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-18 12:22
+**最后更新时间**: 2025-06-19 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-19 00:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [调用量增加130%，京东618怎么用AI大模型？](https://www.tmtpost.com/7601010.html)
+**发布时间**: 2025-06-19 08:33
+
+#### [曹操出行上市，以一种“投降”的姿态](https://www.tmtpost.com/7600894.html)
+**发布时间**: 2025-06-19 08:30
+
+#### [华为徐直军：电信业收入增长停滞，成长型需求将驱动新增长](https://www.tmtpost.com/7601065.html)
+**发布时间**: 2025-06-19 08:28
+
+#### [补贴大战，难撼美团“正餐壁垒”](https://www.tmtpost.com/7600932.html)
+**发布时间**: 2025-06-19 08:21
+
+#### [科股早知道：这类产品或成为AI芯片最强辅助，行业巨头表示需求将出现“爆炸式增长”](https://www.tmtpost.com/7601181.html)
+**发布时间**: 2025-06-19 08:03
+
+#### [从虎扑到喜马拉雅，古典互联网正在消亡?](https://www.tmtpost.com/7600859.html)
+**发布时间**: 2025-06-19 08:00
+
+#### [【钛晨报】证监会放大招：设置科创板科创成长层，“第五套标准”重启并扩容；QFI可交易期货期权品种总数达到100个；京东官宣进军酒旅](https://www.tmtpost.com/7600998.html)
+**发布时间**: 2025-06-19 07:20
+
+#### [百度AI“搅局”618大促](https://www.tmtpost.com/7600634.html)
+**发布时间**: 2025-06-18 21:28
+
+#### [民营创投机构募资“破局”：科创债打开新通道](https://www.tmtpost.com/7600970.html)
+**发布时间**: 2025-06-18 21:27
+
+#### [设置科创成长层、重启科创板第五套标准、支持人工智能、商业航天、低空经济企业，陆家嘴论坛上证监会集中释放多个重磅消息｜大事件必读](https://www.tmtpost.com/7600865.html)
+**发布时间**: 2025-06-18 20:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Altman：GPT-5 夏天发布；小米曝光平板等多款新品；AI 玩「宝可梦」会恐慌，甚至试图自杀｜极客早知道](http://www.geekpark.net/news/350561)
+**发布时间**: 2025-06-19 08:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [长安汽车“因祸得福”](http://www.huxiu.com/article/4472642.html?f=wangzhan)
+**发布时间**: 2025-06-19 07:18
+
+#### [自我和解之后，我心甘情愿成为一个“旅行窝囊废”](http://www.huxiu.com/article/4478297.html?f=wangzhan)
+**发布时间**: 2025-06-18 14:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [直播预告｜海量敏态数据存储与处理“难如登山”，TDSQL一体化内核技术竟有破解秘籍？](https://www.infoq.cn/article/xq6AoP0sCXm1wrN13yXg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-18 21:59
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The EPA Plans to ‘Reconsider’ Ban on Cancer-Causing Asbestos](https://www.wired.com/story/trump-epa-reconsider-ban-cancer-causing-asbestos/)
+**发布时间**: 2025-06-18 21:07
+
+#### [The Minnesota Shooting Suspect's Background Suggests Deep Ties to Christian Nationalism](https://www.wired.com/story/christian-nationalist-roots-suspected-minnesota-assassin/)
+**发布时间**: 2025-06-18 18:54
+
+#### [Amazon Rebuilt Alexa Using a ‘Staggering’ Amount of AI Tools](https://www.wired.com/story/amazon-daniel-rausch-alexa-plus/)
+**发布时间**: 2025-06-18 18:29
+
+#### [Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings](https://www.wired.com/story/iran-internet-shutdown-israel/)
+**发布时间**: 2025-06-18 18:17
+
+#### [The 2 Best Slushie Machines of 2025 for a Chill Summer](https://www.wired.com/gallery/best-slushie-machines/)
+**发布时间**: 2025-06-18 17:18
+
+#### [This AI Model Never Stops Learning](https://www.wired.com/story/this-ai-model-never-stops-learning/)
+**发布时间**: 2025-06-18 16:00
+
+#### [US Supreme Court Upholds Tennessee’s Ban on Gender-Affirming Care for Minors](https://www.wired.com/story/supreme-court-ruling-gender-affirming-care-trans-rights-skrmetti-case/)
+**发布时间**: 2025-06-18 15:37
+
+#### [6 Best Red Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+**发布时间**: 2025-06-18 15:11
+
+#### [Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran’s Financial System](https://www.wired.com/story/israels-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/)
+**发布时间**: 2025-06-18 14:40
+
+#### [Dell 32 Plus QD-OLED Review: HDR and OLED Dream](https://www.wired.com/review/dell-32-plus-qd-oled/)
+**发布时间**: 2025-06-18 14:00
+
+#### [4 Best Smart Glasses (2025), Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
+**发布时间**: 2025-06-18 13:00
+
+#### [9 Best Smart Shades, Blinds, and Curtains (2025), Tested and Reviewed](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+**发布时间**: 2025-06-18 12:30
+
+#### [Those Creatine Gummies You Bought Online Might Not Contain Any Creatine](https://www.wired.com/story/creatine-gummies-dubious-claims/)
+**发布时间**: 2025-06-18 10:30
+
+#### [The Definitive, Insane, Record-Smashing Story of the Enhanced Games](https://www.wired.com/story/enhanced-games-freestyle-record-las-vegas-steroids/)
+**发布时间**: 2025-06-18 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+**发布时间**: 2025-06-18 19:37
+
+#### [Ancestra actually says a lot about the current state of AI-generated videos](https://www.theverge.com/ai-artificial-intelligence/688448/ancestra-primordial-soup-google-deepmind)
+**发布时间**: 2025-06-18 19:30
+
+#### [YouTube is plugging Veo 3 AI videos directly into Shorts](https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts)
+**发布时间**: 2025-06-18 18:35
+
+#### [Death Stranding is getting an animated film](https://www.theverge.com/news/689453/death-stranding-animated-movie)
+**发布时间**: 2025-06-18 18:22
+
+#### [Nintendo Switch 2: Which webcams work?](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)
+**发布时间**: 2025-06-18 17:21
+
+#### [Facebook rolls out passkey support to fight phishing attacks](https://www.theverge.com/news/689410/facebook-passkey-support-phishing-attacks)
+**发布时间**: 2025-06-18 17:14
+
+#### [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)
+**发布时间**: 2025-06-18 16:15
+
+#### [NFC is getting a range boost](https://www.theverge.com/news/689281/nfc-15-update-tap-to-pay-range-boost)
+**发布时间**: 2025-06-18 16:12
+
+#### [How The Roottrees are Dead ditched AI and became a hit](https://www.theverge.com/ai-artificial-intelligence/686651/roottrees-ai-original-illustrator-replacement)
+**发布时间**: 2025-06-18 16:05
+
+#### [Waymo’s robotaxis are coming back to New York City](https://www.theverge.com/news/689093/waymo-nyc-permit-autonomous-testing-new-york-state)
+**发布时间**: 2025-06-18 16:00
 
 ---
 

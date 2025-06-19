@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Jun 2025 12:22:39 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2025 00:56:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI can rehabilitate AI models that develop a “bad boy persona”</title>
+      <link>https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/</link>
+      <description>&lt;![CDATA[OpenAI can rehabilitate AI models that develop a “bad boy persona”]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Puzzle Corner</title>
+      <link>https://www.technologyreview.com/2025/06/18/1118935/puzzle-corner-74/</link>
+      <description>&lt;![CDATA[Puzzle Corner]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/18/1118935/puzzle-corner-74/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: tackling tech-facilitated abuse, and opening up AI hardware</title>
+      <link>https://www.technologyreview.com/2025/06/18/1119002/the-download-tech-abuse-ai-hardware/</link>
+      <description>&lt;![CDATA[The Download: tackling tech-facilitated abuse, and opening up AI hardware]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/18/1119002/the-download-tech-abuse-ai-hardware/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>谢赛宁团队新基准让LLM集体自闭，DeepSeek R1、Gemini 2.5 Pro都是零分</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-18-14</link>
@@ -393,30 +417,6 @@
       <description>&lt;![CDATA[SANGAM: SystemVerilog Assertion Generation via Monte Carlo Tree Self-Refine]]&gt;</description>
       <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.13983</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Machine Mirages: Defining the Undefined</title>
-      <link>https://arxiv.org/abs/2506.13990</link>
-      <description>&lt;![CDATA[Machine Mirages: Defining the Undefined]]&gt;</description>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.13990</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Discovering Temporal Structure: An Overview of Hierarchical Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.14045</link>
-      <description>&lt;![CDATA[Discovering Temporal Structure: An Overview of Hierarchical Reinforcement Learning]]&gt;</description>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14045</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places</title>
-      <link>https://arxiv.org/abs/2506.14070</link>
-      <description>&lt;![CDATA[Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places]]&gt;</description>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14070</guid>
       <category>AI</category>
     </item>
   </channel>
