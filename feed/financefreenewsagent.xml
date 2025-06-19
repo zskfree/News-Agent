@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Jun 2025 04:20:55 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2025 08:16:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zero interest-rate policy is back as Switzerland cuts rates by a quarter-point down to nothing</title>
+      <link>https://www.marketwatch.com/story/zero-interest-rate-policy-is-back-as-switzerland-cuts-rates-by-a-quarter-point-down-to-nothing-c05c26a8?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Zero interest-rate policy is back as Switzerland cuts rates by a quarter-point down to nothing]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 07:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/zero-interest-rate-policy-is-back-as-switzerland-cuts-rates-by-a-quarter-point-down-to-nothing-c05c26a8?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Global stocks fall, oil futures rise, on a report U.S. may soon strike Iran</title>
+      <link>https://www.marketwatch.com/story/global-stocks-fall-oil-futures-rise-on-a-report-u-s-may-soon-strike-iran-234f474e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Global stocks fall, oil futures rise, on a report U.S. may soon strike Iran]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 07:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/global-stocks-fall-oil-futures-rise-on-a-report-u-s-may-soon-strike-iran-234f474e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Medicare may actually be in more trouble than Social Security</title>
       <link>https://www.marketwatch.com/bulletins/redirect/go?g=6a27de9d-2046-4b09-b90c-7a91ddb2ca76&amp;mod=mw_rss_bulletins</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[Oil prices add to gains after Israel hits Iran energy facilities; stocks taking turmoil in stride]]&gt;</description>
       <pubDate>Sun, 15 Jun 2025 23:31:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-add-to-gains-after-israel-hits-iran-energy-facilities-stocks-taking-turmoil-in-stride-abfb2cb3?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>GOP megabill looks set to end the $600 tax-reporting rule for Venmo, PayPal payments</title>
-      <link>https://www.marketwatch.com/story/gop-megabill-looks-set-to-end-the-600-tax-reporting-rule-for-venmo-paypal-payments-35bfc155?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[GOP megabill looks set to end the $600 tax-reporting rule for Venmo, PayPal payments]]&gt;</description>
-      <pubDate>Sun, 15 Jun 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/gop-megabill-looks-set-to-end-the-600-tax-reporting-rule-for-venmo-paypal-payments-35bfc155?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Hate paying so much for car insurance? Now is the time to switch.</title>
-      <link>https://www.marketwatch.com/story/hate-paying-so-much-for-car-insurance-now-is-the-time-to-switch-1917f740?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Hate paying so much for car insurance? Now is the time to switch.]]&gt;</description>
-      <pubDate>Sun, 15 Jun 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/hate-paying-so-much-for-car-insurance-now-is-the-time-to-switch-1917f740?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

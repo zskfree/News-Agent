@@ -2,7 +2,103 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 04:20
+**最后更新时间**: 2025-06-19 08:16
+
+---
+
+## 🆕 最新更新 (2025-06-19 08:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [随手播：三大矛盾剑指2022年财报真实性，左手分红、右手募资又为哪般？｜IPO观察](https://www.tmtpost.com/7599500.html)
+**发布时间**: 2025-06-19 16:01
+
+#### [刘强东告别刘强东，刘强东回归刘强东](https://www.tmtpost.com/7601363.html)
+**发布时间**: 2025-06-19 15:57
+
+#### [二手交易平台，集体转向线下](https://www.tmtpost.com/7601443.html)
+**发布时间**: 2025-06-19 15:57
+
+#### [6月19日A股分析：三大股指集体收跌，两市合计成交12506.38亿元，资金流入最多的行业板块为石油行业、电机](https://www.tmtpost.com/7601752.html)
+**发布时间**: 2025-06-19 15:52
+
+#### [刘强东的机巧](https://www.tmtpost.com/7601406.html)
+**发布时间**: 2025-06-19 14:52
+
+#### [泡泡玛特们的崛起，可能只是“内观消费”时代的序曲](https://www.tmtpost.com/7601268.html)
+**发布时间**: 2025-06-19 14:52
+
+#### [洋品牌退潮，中国新消费崛起，一场划时代的交接拉开序幕](https://www.tmtpost.com/7601310.html)
+**发布时间**: 2025-06-19 14:52
+
+#### [Reliable Analyst Sees Apple's Foldable iPhones with Premium Pricing to Produce in Second Half of 2026](https://www.tmtpost.com/7601633.html)
+**发布时间**: 2025-06-19 14:21
+
+#### [巴奴火锅想做第二个海底捞](https://www.tmtpost.com/7601253.html)
+**发布时间**: 2025-06-19 14:09
+
+#### [大厂AI，还干不掉张雪峰](https://www.tmtpost.com/7601266.html)
+**发布时间**: 2025-06-19 13:20
+
+#### [JD's 618 Festival Smashes Records as AI Powers Next-Gen Retail Engine](https://www.tmtpost.com/7601583.html)
+**发布时间**: 2025-06-19 13:12
+
+#### [Circle Shares Jump Over 30% after U.S. Senate Passes Stablecoin Bill](https://www.tmtpost.com/7601577.html)
+**发布时间**: 2025-06-19 13:10
+
+#### [我在热带雨林送快递](https://www.tmtpost.com/7600843.html)
+**发布时间**: 2025-06-19 12:56
+
+#### [聚焦AI+药物研发，阿斯利康“重仓”中国](https://www.tmtpost.com/7600813.html)
+**发布时间**: 2025-06-19 12:53
+
+#### [你以为只有LABUBU？泡泡玛特13个破亿IP揭秘](https://www.tmtpost.com/7600757.html)
+**发布时间**: 2025-06-19 12:53
+
+#### [今年618，“所有爸妈”没能拯救李佳琦](https://www.tmtpost.com/7600750.html)
+**发布时间**: 2025-06-19 12:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [高精度金融知识助手：GraphRAG与思维链推理｜AICon北京](https://www.infoq.cn/article/1TbjCDJdbVNZ8AuF8wk6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 16:00
+
+#### [超越对象和函数：探索面向数据的编程](https://www.infoq.cn/article/XsJV7THXfMkM5dQ8Uvo1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 16:00
+
+#### [奥特曼宣布GPT-5 将于今年夏天推出，并对 ChatGPT 接入广告持开放态度](https://www.infoq.cn/article/wfKAkbXFpIXayeCQm8GF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 14:39
+
+#### [波士顿DevSummit：循环中的人类——混乱行业中的工程领导力](https://www.infoq.cn/article/Xc8zJ6NGyeRH0kBL2pXU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 13:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [刘强东宣布发力稳定币，大厂找到了「新金矿」](http://www.geekpark.net/news/350590)
+**发布时间**: 2025-06-19 15:32
+
+#### [AI 上新｜打通了 AI，这个 App 让我的 Mac「快到飞起」！](http://www.geekpark.net/news/350585)
+**发布时间**: 2025-06-19 14:56
+
+#### [​酒店管理进入 AI 时代？这个模型或许是第一步](http://www.geekpark.net/news/350584)
+**发布时间**: 2025-06-19 14:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [钟薛高破产了？雪糕刺客之王凉凉](http://www.huxiu.com/article/4482670.html?f=wangzhan)
+**发布时间**: 2025-06-19 15:05
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Hot Octopuss Pulse Duo Review: Not for Penetration](https://www.wired.com/review/hot-octopuss-pulse-duo/)
+**发布时间**: 2025-06-19 08:00
+
+#### [Design Within Reach Promo Codes: 30% Off | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
+**发布时间**: 2025-06-19 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
+**发布时间**: 2025-06-19 06:03
 
 ---
 
