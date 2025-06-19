@@ -2,7 +2,109 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 08:16
+**最后更新时间**: 2025-06-19 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-19 12:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [港股上市的海天味业：离海外更近了，还是离国内更远了？](https://www.tmtpost.com/7601223.html)
+**发布时间**: 2025-06-19 19:46
+
+#### [中国婴幼儿奶粉消费研究2025](https://www.tmtpost.com/7601541.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [扎克伯格千亿“挖角”：为何敢押注28岁华人？](https://www.tmtpost.com/7601611.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [“歌迷捧红自己的LABUBU”，五月天、周深衍生IP杀入热卖榜](https://www.tmtpost.com/7601631.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [当仿品比真货还猖狂，泡泡玛特如何守住潮玩帝国的版权底线？](https://www.tmtpost.com/7601758.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [智能辅助驾驶下半场，“第一性原理”失灵了吗？](https://www.tmtpost.com/7601853.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [短剧行业下半场： “全链路化” 加速，半数爆款出自全闭环企业](https://www.tmtpost.com/7601838.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [超长618“超安静”？](https://www.tmtpost.com/7601843.html)
+**发布时间**: 2025-06-19 18:46
+
+#### [人人乐终局：三战“保壳”折戟审计关，西安国资6年长跑浮亏14亿](https://www.tmtpost.com/7602007.html)
+**发布时间**: 2025-06-19 18:45
+
+#### [宇树科技股份完成C轮融资，注册资本增至3.64亿元](https://www.tmtpost.com/7601935.html)
+**发布时间**: 2025-06-19 18:40
+
+#### [波音正在“急速坠落”](https://www.tmtpost.com/7601914.html)
+**发布时间**: 2025-06-19 18:19
+
+#### [《餐饮行业产品上新报告（2025年5月）》：六大品类共914款新品，咖饮品牌热衷上新茶饮新品](https://www.tmtpost.com/7601870.html)
+**发布时间**: 2025-06-19 18:19
+
+#### [蔡澜：别让这个世界玩我](https://www.tmtpost.com/7601521.html)
+**发布时间**: 2025-06-19 18:19
+
+#### [赞助顶流苏超，还得是“江苏孩子”？](https://www.tmtpost.com/7601451.html)
+**发布时间**: 2025-06-19 18:19
+
+#### [小红书电商“重仓”友好市集](https://www.tmtpost.com/7601530.html)
+**发布时间**: 2025-06-19 18:19
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [日本模式拯救中国餐饮？](http://www.huxiu.com/article/4482875.html?f=wangzhan)
+**发布时间**: 2025-06-19 18:30
+
+#### [最新城市排名发布，是谁定义了一二线城市？](http://www.huxiu.com/article/4480032.html?f=wangzhan)
+**发布时间**: 2025-06-19 16:00
+
+#### [车企造人，急不来](http://www.huxiu.com/article/4480067.html?f=wangzhan)
+**发布时间**: 2025-06-18 18:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一次集成，减少80%适配工作！从0到1开发一款MCP Server难不难？](https://www.infoq.cn/article/dLKzwgDH6dgF2G6R2PLC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 18:02
+
+#### [Java 25在JEP 519中集成了紧凑对象头](https://www.infoq.cn/article/YCAuyMOeqV0CpNJWsQAf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 18:00
+
+#### [Karpathy最新演讲刷屏：别再说2025是Agent元年了，这段路还要走10年](https://www.infoq.cn/article/bXPM8OCRFOTZFbDt0SNs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-19 16:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 212｜少数派的编辑们最近买了啥？](https://sspai.com/post/100406)
+**发布时间**: 2025-06-19 17:11
+
+#### [做一个 App，开启一段环球旅居](https://sspai.com/post/100284)
+**发布时间**: 2025-06-19 15:45
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Summer Game Fest’s best games were small and personal](https://www.theverge.com/games/689708/summer-game-fests-best-games-were-small-and-personal)
+**发布时间**: 2025-06-19 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [I Tried Hear.com's At-Home Prescription Hearing Aids Test](https://www.wired.com/story/hear-com-at-home-hearing-test/)
+**发布时间**: 2025-06-19 12:00
+
+#### [7 Ways to Limit Your Endless Doomscrolling](https://www.wired.com/story/7-ways-to-limit-your-endless-doomscrolling/)
+**发布时间**: 2025-06-19 11:00
+
+#### [How Democrats Are Meeting (and Missing) the Moment](https://www.wired.com/story/democrats-meeting-missing-the-moment/)
+**发布时间**: 2025-06-19 11:00
+
+#### ['Dosa Divas' Is a ‘Spicy’ New Game About Fighting Capitalism With Food](https://www.wired.com/story/dosa-divas-is-a-spicy-new-game-about-fighting-capitalism-with-food/)
+**发布时间**: 2025-06-19 10:30
+
+#### [How Much Energy Does AI Use? The People Who Know Aren’t Saying](https://www.wired.com/story/ai-carbon-emissions-energy-unknown-mystery-research/)
+**发布时间**: 2025-06-19 10:00
 
 ---
 

@@ -2,7 +2,35 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 08:16
+**最后更新时间**: 2025-06-19 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-19 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the stock market open today for Juneteenth? Will the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-c6552f29?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 11:08
+
+#### [Zero rate policy is back after Swiss cut, while Bank of England pauses after four cuts this year](https://www.marketwatch.com/story/zero-interest-rate-policy-is-back-as-switzerland-cuts-rates-by-a-quarter-point-down-to-nothing-c05c26a8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 11:02
+
+#### [History shows what has to happen for the Israel-Iran conflict to boost oil prices](https://www.marketwatch.com/story/history-shows-its-regime-change-in-iran-that-may-really-boost-oil-prices-jpmorgan-a35d27b5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 09:14
+
+#### [Here’s how bitcoin is entering investor portfolios through the back door](https://www.marketwatch.com/story/heres-how-bitcoin-is-entering-investor-portfolios-through-the-backdoor-3e1882c3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 08:48
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bank of England pauses on interest rates in 6-to-3 vote](https://www.marketwatch.com/bulletins/redirect/go?g=59213361-ff64-4a14-b65c-1376256065c2&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 11:03
+
+#### [Many investors are now getting exposure to bitcoin whether they like it or not](https://www.marketwatch.com/bulletins/redirect/go?g=c4e19cd8-d758-470f-97df-ab333fd4a1ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 10:17
+
+#### [Global stocks drop, oil rises on report U.S. could strike Iran this weekend](https://www.marketwatch.com/bulletins/redirect/go?g=36659788-dbc7-44b5-af2a-8d1fd8a5626d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 09:26
 
 ---
 
