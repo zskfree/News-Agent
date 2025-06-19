@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Jun 2025 00:56:40 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 04:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2025 04:20:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Medicare may actually be in more trouble than Social Security</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=6a27de9d-2046-4b09-b90c-7a91ddb2ca76&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Medicare may actually be in more trouble than Social Security]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 03:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=6a27de9d-2046-4b09-b90c-7a91ddb2ca76&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Social Security recipients will be paid just 81% of their benefit in 2034</title>
+      <link>https://www.marketwatch.com/story/social-security-recipients-will-be-paid-just-81-of-their-benefit-in-2034-f606c8a3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Social Security recipients will be paid just 81% of their benefit in 2034]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 03:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/social-security-recipients-will-be-paid-just-81-of-their-benefit-in-2034-f606c8a3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘Everybody is in danger’ as budget cuts gut caregiving services</title>
+      <link>https://www.marketwatch.com/story/everybody-is-in-danger-as-budget-cuts-gut-caregiving-services-21678732?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘Everybody is in danger’ as budget cuts gut caregiving services]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 01:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/everybody-is-in-danger-as-budget-cuts-gut-caregiving-services-21678732?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This recent college grad almost turned $13 into $270,000 with a bet on the NHL finals. Why DraftKings and other sportsbooks love parlays.</title>
+      <link>https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This recent college grad almost turned $13 into $270,000 with a bet on the NHL finals. Why DraftKings and other sportsbooks love parlays.]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 22:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
       <title>Medicare may actually be in worse trouble than Social Security, according to the trustees</title>
       <link>https://www.marketwatch.com/story/medicare-may-actually-be-in-worse-trouble-than-social-security-according-to-the-trustees-72f2a1cd?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[Medicare may actually be in worse trouble than Social Security, according to the trustees]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 00:08:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/medicare-may-actually-be-in-worse-trouble-than-social-security-according-to-the-trustees-72f2a1cd?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>This college grad almost turned $13 into $270,000 with a bet on the NHL finals. Why DraftKings and other sportsbooks love parlays.</title>
-      <link>https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This college grad almost turned $13 into $270,000 with a bet on the NHL finals. Why DraftKings and other sportsbooks love parlays.]]&gt;</description>
-      <pubDate>Wed, 18 Jun 2025 22:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -59,14 +83,6 @@
       <description>&lt;![CDATA[Inflation, tariffs put the brakes on this gun maker’s sales]]&gt;</description>
       <pubDate>Wed, 18 Jun 2025 21:04:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/inflation-tariffs-put-the-brakes-on-this-gun-makers-sales-23c5c252?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why shoppers say they’re ‘not interested’ in Amazon’s longer Prime Day sale</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=1ff8d5cf-963b-4904-84b2-1c9e5ea013a8&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Why shoppers say they’re ‘not interested’ in Amazon’s longer Prime Day sale]]&gt;</description>
-      <pubDate>Wed, 18 Jun 2025 23:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=1ff8d5cf-963b-4904-84b2-1c9e5ea013a8&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[Hate paying so much for car insurance? Now is the time to switch.]]&gt;</description>
       <pubDate>Sun, 15 Jun 2025 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/hate-paying-so-much-for-car-insurance-now-is-the-time-to-switch-1917f740?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why this week’s Fed meeting likely won’t help stocks break out to new highs</title>
-      <link>https://www.marketwatch.com/story/why-this-weeks-fed-meeting-likely-wont-help-stocks-break-out-to-new-highs-fe262007?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why this week’s Fed meeting likely won’t help stocks break out to new highs]]&gt;</description>
-      <pubDate>Sun, 15 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-this-weeks-fed-meeting-likely-wont-help-stocks-break-out-to-new-highs-fe262007?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>From Walmart to car washes, American companies are getting caught up in ICE raids and protests</title>
-      <link>https://www.marketwatch.com/story/from-walmart-to-car-washes-american-companies-are-getting-caught-up-in-ice-raids-and-protests-df3c6c4e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[From Walmart to car washes, American companies are getting caught up in ICE raids and protests]]&gt;</description>
-      <pubDate>Sun, 15 Jun 2025 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/from-walmart-to-car-washes-american-companies-are-getting-caught-up-in-ice-raids-and-protests-df3c6c4e?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

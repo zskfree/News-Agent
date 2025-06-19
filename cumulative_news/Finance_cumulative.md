@@ -2,7 +2,32 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 00:56
+**最后更新时间**: 2025-06-19 04:20
+
+---
+
+## 🆕 最新更新 (2025-06-19 04:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Medicare may actually be in more trouble than Social Security](https://www.marketwatch.com/bulletins/redirect/go?g=6a27de9d-2046-4b09-b90c-7a91ddb2ca76&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 03:53
+
+#### [Amid signs of a ‘great rotation,’ U.S. stocks and bonds are the big losers](https://www.marketwatch.com/bulletins/redirect/go?g=c8d80321-0715-49a0-bed6-3120e95bb731&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 02:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Medicare may actually be in more trouble than Social Security](https://www.marketwatch.com/story/medicare-may-actually-be-in-worse-trouble-than-social-security-according-to-the-trustees-72f2a1cd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 03:15
+
+#### [Social Security recipients will be paid just 81% of their benefit in 2034](https://www.marketwatch.com/story/social-security-recipients-will-be-paid-just-81-of-their-benefit-in-2034-f606c8a3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 03:09
+
+#### [‘Everybody is in danger’ as budget cuts gut caregiving services](https://www.marketwatch.com/story/everybody-is-in-danger-as-budget-cuts-gut-caregiving-services-21678732?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 01:20
+
+#### [This recent college grad almost turned $13 into $270,000 with a bet on the NHL finals. Why DraftKings and other sportsbooks love parlays.](https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-18 22:39
 
 ---
 
