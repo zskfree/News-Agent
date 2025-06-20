@@ -2,7 +2,142 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-20 08:16
+**最后更新时间**: 2025-06-20 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-20 12:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从“华为亲娘家”到跨境“顶流”，中部这所985再次爆火](https://www.tmtpost.com/7603066.html)
+**发布时间**: 2025-06-20 19:33
+
+#### [千亿东鹏饮料，林氏家族独揽30亿分红「大礼包」](https://www.tmtpost.com/7603186.html)
+**发布时间**: 2025-06-20 19:33
+
+#### [李健操盘荣耀重返前三：线下渠道暗藏胜负手](https://www.tmtpost.com/7602202.html)
+**发布时间**: 2025-06-20 19:33
+
+#### [亚玛芬大中华区总裁姚剑将接手狼爪；瑞幸联名《长安的荔枝》上线系列产品；老铺黄金首家海外门店落户新加坡｜消研所周报](https://www.tmtpost.com/7603110.html)
+**发布时间**: 2025-06-20 19:28
+
+#### [HarmonyOS 6将AI写进底层，但鸿蒙要走的路还很长](https://www.tmtpost.com/7603281.html)
+**发布时间**: 2025-06-20 19:27
+
+#### [时代变了，微软迎来裁员风暴](https://www.tmtpost.com/7603288.html)
+**发布时间**: 2025-06-20 19:26
+
+#### [和美药业：22年烧光11亿仍未有产品商业化，资金链显著承压｜IPO观察](https://www.tmtpost.com/7601719.html)
+**发布时间**: 2025-06-20 19:16
+
+#### [乐动机器人：持续亏损，大客户和大供应商 “大换血”，曾经的第一大客户更是“突然消失”｜IPO观察](https://www.tmtpost.com/7601755.html)
+**发布时间**: 2025-06-20 19:14
+
+#### [康达新材：首亏后卖“旧”买“新”，高频并购又一桩 ｜并购一线](https://www.tmtpost.com/7603253.html)
+**发布时间**: 2025-06-20 19:11
+
+#### [蔚来“爆款拯救战”，为何押在乐道身上？](https://www.tmtpost.com/7602551.html)
+**发布时间**: 2025-06-20 18:48
+
+#### [打造中国大腹地，大力推进内陆运河建设](https://www.tmtpost.com/7602848.html)
+**发布时间**: 2025-06-20 18:48
+
+#### [2025年，AI大模型在企业场景走到哪了？](https://www.tmtpost.com/7603166.html)
+**发布时间**: 2025-06-20 18:48
+
+#### [人均消费138，火锅“贵”族，巴奴冲击IPO](https://www.tmtpost.com/7603103.html)
+**发布时间**: 2025-06-20 18:33
+
+#### [价格被打下来，AI眼镜就能上桌了？](https://www.tmtpost.com/7603105.html)
+**发布时间**: 2025-06-20 18:33
+
+#### [一代人有一代人的“豪赌”，轮到我是健身房续费](https://www.tmtpost.com/7603126.html)
+**发布时间**: 2025-06-20 18:33
+
+#### [京东单挑OTA，但携程也没那么简单](https://www.tmtpost.com/7603128.html)
+**发布时间**: 2025-06-20 18:33
+
+#### [自有品牌带动实体零售崛起](https://www.tmtpost.com/7603156.html)
+**发布时间**: 2025-06-20 18:33
+
+#### [反思618：大促营销的六个问题](https://www.tmtpost.com/7603157.html)
+**发布时间**: 2025-06-20 18:33
+
+#### [马斯克Neuralink估值90亿美，脑再生科技成"中概上涨王"，谁在改写游戏规则？](https://www.tmtpost.com/7603158.html)
+**发布时间**: 2025-06-20 18:32
+
+#### [国产CIS的成绩，不是空话](https://www.tmtpost.com/7603159.html)
+**发布时间**: 2025-06-20 18:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软通过DocumentDB VS Code扩展和本地模拟器增强了开发人员的体验](https://www.infoq.cn/article/NWavO74NOC0jykwvIiqv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 19:00
+
+#### [Meta 为 AI 拼了！狂追前 GitHub 首席执行官 Nat Friedman和 Ilya 公司现任CEO](https://www.infoq.cn/article/FAzJtIuT1Aged2mNVP6R?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 18:12
+
+#### [53万美金训练出顶级AI？揭秘MiniMax的「省钱」绝招](https://www.infoq.cn/article/dN5TIoer9kA9pIylMJiy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 18:05
+
+#### [人形机器人遭“墙倒众人推”，不想干成大玩具，“王兴兴们”下一步该做点啥？](https://www.infoq.cn/article/gDQp1RWyvx6Vd55bIicN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 18:00
+
+#### [AWS开源了Smithy API模型，可用于公共访问和开发人员工具](https://www.infoq.cn/article/ITbww8v6Jq2HezI5OK5t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/100434)
+**发布时间**: 2025-06-20 17:42
+
+#### [抗炎饮食菜单：蒸菜与炒菜篇](https://sspai.com/prime/story/anti-inflammatory-diet-steamed-fried)
+**发布时间**: 2025-06-20 16:51
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [通俗解释：稳定币](http://www.huxiu.com/article/4473413.html?f=wangzhan)
+**发布时间**: 2025-06-20 17:30
+
+#### [潮玩顶流的Labubu们，为什么都很“丑”？](http://www.huxiu.com/article/4483796.html?f=wangzhan)
+**发布时间**: 2025-06-20 16:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Acer Swift 14 AI review: give it up for the ports](https://www.theverge.com/reviews/687771/acer-swift-14-ai-intel-lunar-lake-amd-strix-point-review)
+**发布时间**: 2025-06-20 12:00
+
+#### [How Texas’ hands-off approach to autonomous vehicles gave Tesla an opening](https://www.theverge.com/tesla/689286/tesla-robotaxi-austin-texas-law-regulation-safety)
+**发布时间**: 2025-06-20 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The FDA Just Approved a Long-Lasting Injection to Prevent HIV](https://www.wired.com/story/fda-finally-approves-lenacapavir-preventive-hiv-treatment-gilead/)
+**发布时间**: 2025-06-20 11:30
+
+#### [The 9 Best Pillows (2025) Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-pillows/)
+**发布时间**: 2025-06-20 11:30
+
+#### [Concha Sol Hearing Aids Review: Feeling Dated](https://www.wired.com/review/concha-sol-hearing-aids/)
+**发布时间**: 2025-06-20 11:00
+
+#### ['28 Years Later' Director Danny Boyle Says Shooting on iPhones Let Him Capture 'Startling' Violence](https://www.wired.com/story/danny-boyle-says-shooting-on-iphones-let-him-capture-startling-violence-in-28-years-later/)
+**发布时间**: 2025-06-20 11:00
+
+#### [How AI Is Helping Kids Find the Right College](https://www.wired.com/story/how-ai-is-helping-kids-find-the-right-college/)
+**发布时间**: 2025-06-20 10:30
+
+#### [Print. Fold. Share. Download WIRED's How to Win a Fight Zine Here](https://www.wired.com/story/download-how-to-win-a-fight-zine/)
+**发布时间**: 2025-06-20 10:00
+
+#### [A False Start on the Road to an All-American Bitcoin](https://www.wired.com/story/a-false-start-on-the-road-to-an-all-american-bitcoin/)
+**发布时间**: 2025-06-20 09:30
+
+#### [How to Convert an Analog Bike to an Electric Bike (2025)](https://www.wired.com/story/how-to-convert-an-analog-bike-to-an-electric-bike/)
+**发布时间**: 2025-06-20 09:20
+
+#### [11 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
+**发布时间**: 2025-06-20 09:00
 
 ---
 

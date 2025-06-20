@@ -5,14 +5,94 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Jun 2025 08:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 08:16:10 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 12:22:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Agentic AI时刻！多智能体驱动，「一人公司」这就要来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-10</link>
+      <description>&lt;![CDATA[Agentic AI时刻！多智能体驱动，「一人公司」这就要来了]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>老罗数字人刷屏背后，AI导演正偷偷改写直播「剧本」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-9</link>
+      <description>&lt;![CDATA[老罗数字人刷屏背后，AI导演正偷偷改写直播「剧本」]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 18:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SIGGRAPH 2025｜Large Avatar Model：单图秒级打造超写实3D交互数字人，跨平台超实时驱动渲染</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-8</link>
+      <description>&lt;![CDATA[SIGGRAPH 2025｜Large Avatar Model：单图秒级打造超写实3D交互数字人，跨平台超实时驱动渲染]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>打破推荐系统「信息孤岛」！中科大与华为提出首个生成式多阶段统一框架，性能全面超越 SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-7</link>
+      <description>&lt;![CDATA[打破推荐系统「信息孤岛」！中科大与华为提出首个生成式多阶段统一框架，性能全面超越 SOTA]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>vivago2.0（智小象AI）让创作门槛归零，人人都是 “全能创作人”</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-6</link>
+      <description>&lt;![CDATA[vivago2.0（智小象AI）让创作门槛归零，人人都是 “全能创作人”]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>拿了火星图片的华为云盘古大模型，这样在地球落地</title>
+      <link>https://www.qbitai.com/2025/06/299702.html</link>
+      <description>&lt;![CDATA[拿了火星图片的华为云盘古大模型，这样在地球落地]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299702.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型参与推理崩溃论战！从「思维错觉」到「错觉的错觉」再到「错觉的错觉的错觉」</title>
+      <link>https://www.qbitai.com/2025/06/299688.html</link>
+      <description>&lt;![CDATA[大模型参与推理崩溃论战！从「思维错觉」到「错觉的错觉」再到「错觉的错觉的错觉」]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299688.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>国产SOTA新模型精准get“画(3+6)条命的动物” | 开源</title>
+      <link>https://www.qbitai.com/2025/06/299652.html</link>
+      <description>&lt;![CDATA[国产SOTA新模型精准get“画(3+6)条命的动物” | 开源]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 08:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299652.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How a 30-year-old techno-thriller predicted our digital isolation</title>
+      <link>https://www.technologyreview.com/2025/06/20/1118379/the-net-cyber-thriller-digital-isolation/</link>
+      <description>&lt;![CDATA[How a 30-year-old techno-thriller predicted our digital isolation]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/20/1118379/the-net-cyber-thriller-digital-isolation/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Calorie restriction can help animals live longer. What about humans?</title>
+      <link>https://www.technologyreview.com/2025/06/20/1119073/calorie-restriction-live-longer/</link>
+      <description>&lt;![CDATA[Calorie restriction can help animals live longer. What about humans?]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/20/1119073/calorie-restriction-live-longer/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>准确率70.14%，多模态数据Transformer模型预测药物相互作用，使多药同服更安全</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-20-5</link>
@@ -331,86 +411,6 @@
       <description>&lt;![CDATA[77万人围观的吉卜力风「游戏」视频，我们用3个国产AI整出来了（含提示词）]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 11:19:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>数据减少超千倍，500 美金就可训练一流视频模型，港城、华为Pusa来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19</link>
-      <description>&lt;![CDATA[数据减少超千倍，500 美金就可训练一流视频模型，港城、华为Pusa来了]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>大模型全员0分！谢赛宁领衔华人团队，最新编程竞赛基准出炉，题目每日更新禁止刷题</title>
-      <link>https://www.qbitai.com/2025/06/297887.html</link>
-      <description>&lt;![CDATA[大模型全员0分！谢赛宁领衔华人团队，最新编程竞赛基准出炉，题目每日更新禁止刷题]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 02:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/297887.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CALM: Contextual Analog Logic with Multimodality</title>
-      <link>https://arxiv.org/abs/2506.14936</link>
-      <description>&lt;![CDATA[CALM: Contextual Analog Logic with Multimodality]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14936</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2506.14990</link>
-      <description>&lt;![CDATA[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14990</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Truncated Proximal Policy Optimization</title>
-      <link>https://arxiv.org/abs/2506.15050</link>
-      <description>&lt;![CDATA[Truncated Proximal Policy Optimization]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15050</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges</title>
-      <link>https://arxiv.org/abs/2506.15196</link>
-      <description>&lt;![CDATA[HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15196</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multi-Agent Reinforcement Learning for Autonomous Multi-Satellite Earth Observation: A Realistic Case Study</title>
-      <link>https://arxiv.org/abs/2506.15207</link>
-      <description>&lt;![CDATA[Multi-Agent Reinforcement Learning for Autonomous Multi-Satellite Earth Observation: A Realistic Case Study]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15207</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Joint Computation Offloading and Resource Allocation for Uncertain Maritime MEC via Cooperation of UAVs and Vessels</title>
-      <link>https://arxiv.org/abs/2506.15225</link>
-      <description>&lt;![CDATA[Joint Computation Offloading and Resource Allocation for Uncertain Maritime MEC via Cooperation of UAVs and Vessels]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15225</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Efficient and Generalizable Environmental Understanding for Visual Navigation</title>
-      <link>https://arxiv.org/abs/2506.15377</link>
-      <description>&lt;![CDATA[Efficient and Generalizable Environmental Understanding for Visual Navigation]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15377</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents</title>
-      <link>https://arxiv.org/abs/2506.15567</link>
-      <description>&lt;![CDATA[Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15567</guid>
       <category>AI</category>
     </item>
   </channel>

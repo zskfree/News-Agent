@@ -2,7 +2,55 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-20 00:56
+**最后更新时间**: 2025-06-20 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-20 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Home Depot continues its building-products expansion with reported bid for GMS](https://www.marketwatch.com/story/home-depot-continues-its-building-products-expansion-with-reported-bid-for-gms-9fc5e8e7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 12:15
+
+#### [Trump officials paused and then resumed immigration raids in key economic sectors. Industry leaders say they’re still hopeful they can make their case.](https://www.marketwatch.com/story/trump-officials-paused-then-resumed-immigration-raids-in-key-economic-sectors-industry-leaders-say-theyre-still-hopeful-about-making-their-case-30ae37c0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 11:57
+
+#### [The so-called SPAC king prepares to launch another: ‘The last time wasn’t a success by any means’](https://www.marketwatch.com/story/the-so-called-spac-king-prepares-to-launch-another-the-last-time-wasnt-a-success-by-any-means-0426b24b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 11:53
+
+#### [Why the stock market will be performing a high-wire act over the summer, according to UBS](https://www.marketwatch.com/story/why-the-stock-market-will-be-performing-a-high-wire-act-over-the-summer-according-to-ubs-ae46e3a4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 11:50
+
+#### [Meme stocks and Robinhood users show why long-term investing is your best bet](https://www.marketwatch.com/story/meme-stocks-and-robinhood-users-show-why-long-term-investing-is-your-best-bet-6113d143?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 11:50
+
+#### [Trump has delayed the U.S.’s TikTok ban — for a third time. He might get sued.](https://www.marketwatch.com/story/trump-is-set-to-delay-the-tiktok-ban-again-could-he-face-a-lawsuit-171edea5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 11:43
+
+#### [Many investors are now getting exposure to bitcoin whether they like it or not](https://www.marketwatch.com/story/heres-how-bitcoin-is-entering-investor-portfolios-through-the-backdoor-3e1882c3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 11:13
+
+#### [What the Gulf War and past supply disruptions says about how high oil prices can go](https://www.marketwatch.com/story/what-the-gulf-war-and-past-supply-disruptions-says-about-how-high-oil-prices-can-go-2396d7e3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 10:15
+
+#### [‘I’m at my wit’s end’: My niece paid off her husband’s credit card but fell behind on her taxes. How can I help her?](https://www.marketwatch.com/story/im-at-my-wits-end-my-niece-paid-off-her-husbands-credit-card-but-fell-behind-on-her-taxes-how-can-i-help-her-9d929354?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 09:55
+
+#### [Geopolitical risk comes and goes. Why the S&P 500 will ride the Israel-Iran crisis out too.](https://www.marketwatch.com/story/geopolitical-risk-comes-and-goes-why-the-s-p-500-will-ride-the-israel-iran-crisis-out-too-c301626b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 09:47
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stock futures pop as report suggests Iran is ready to discuss enrichment limits](https://www.marketwatch.com/bulletins/redirect/go?g=f3e3bfd1-33e4-47cf-a506-63c57e62f861&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 12:04
+
+#### [The S&P 500 will ride out the Israel-Iran crisis. Stay invested, says Citi](https://www.marketwatch.com/bulletins/redirect/go?g=637effc0-ee8c-46f7-b6e4-6165c467645b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 11:02
+
+### 📰 来源: [MarketWatch Market Pulse](https://feeds.content.dowjones.io/public/rss/mw_marketpulse)
+
+#### [CarMax stock climbs on Q1 profit and revenue beat](https://www.marketwatch.com/story/carmax-stock-climbs-on-q1-profit-and-revenue-beat-c8f6526f?mod=mw_rss_marketpulse)
+**发布时间**: 2025-06-20 11:09
 
 ---
 
