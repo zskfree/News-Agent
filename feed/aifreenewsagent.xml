@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Jun 2025 00:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 00:56:02 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 04:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 04:19:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>天工不止造物，也能修bug：Skywork-SWE给代码智能体补上软件工程课</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-3</link>
+      <description>&lt;![CDATA[天工不止造物，也能修bug：Skywork-SWE给代码智能体补上软件工程课]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Andrej Karpathy最新演讲爆火！人类已进入「说话就能编程」的软件3.0时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-2</link>
+      <description>&lt;![CDATA[Andrej Karpathy最新演讲爆火！人类已进入「说话就能编程」的软件3.0时代]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>人人皆可创作音乐！腾讯AI Lab开源音乐生成大模型SongGeneration</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20</link>
+      <description>&lt;![CDATA[人人皆可创作音乐！腾讯AI Lab开源音乐生成大模型SongGeneration]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>博世携手北大教授，进军具身智能机器人了</title>
+      <link>https://www.qbitai.com/2025/06/299599.html</link>
+      <description>&lt;![CDATA[博世携手北大教授，进军具身智能机器人了]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 00:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299599.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>It’s pretty easy to get DeepSeek to talk dirty</title>
       <link>https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.15672</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence</title>
-      <link>https://arxiv.org/abs/2506.15677</link>
-      <description>&lt;![CDATA[Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15677</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DEFORMER: Coupling Deformed Localized Patterns with Global Context for Robust End-to-end Speech Recognition</title>
-      <link>https://arxiv.org/abs/2207.01732</link>
-      <description>&lt;![CDATA[DEFORMER: Coupling Deformed Localized Patterns with Global Context for Robust End-to-end Speech Recognition]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2207.01732</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Dynamic ASR Pathways: An Adaptive Masking Approach Towards Efficient Pruning of A Multilingual ASR Model</title>
-      <link>https://arxiv.org/abs/2309.13018</link>
-      <description>&lt;![CDATA[Dynamic ASR Pathways: An Adaptive Masking Approach Towards Efficient Pruning of A Multilingual ASR Model]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2309.13018</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition</title>
-      <link>https://arxiv.org/abs/2310.18450</link>
-      <description>&lt;![CDATA[MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2310.18450</guid>
       <category>AI</category>
     </item>
   </channel>
