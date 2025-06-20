@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Jun 2025 04:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 04:19:07 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 08:16:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>准确率70.14%，多模态数据Transformer模型预测药物相互作用，使多药同服更安全</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-5</link>
+      <description>&lt;![CDATA[准确率70.14%，多模态数据Transformer模型预测药物相互作用，使多药同服更安全]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>跨越1.6亿年进化分歧，DNA语言模型以单核苷酸分辨率对植物基因组跨物种建模</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-20-4</link>
+      <description>&lt;![CDATA[跨越1.6亿年进化分歧，DNA语言模型以单核苷酸分辨率对植物基因组跨物种建模]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-20-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>李飞飞团队提出架构设计新思路！无需从头训练，直接“嫁接”预训练模型关键组件</title>
+      <link>https://www.qbitai.com/2025/06/299637.html</link>
+      <description>&lt;![CDATA[李飞飞团队提出架构设计新思路！无需从头训练，直接“嫁接”预训练模型关键组件]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299637.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>小扎抢人抢到了Ilya头上：收购不成，转头挖走CEO</title>
+      <link>https://www.qbitai.com/2025/06/299625.html</link>
+      <description>&lt;![CDATA[小扎抢人抢到了Ilya头上：收购不成，转头挖走CEO]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 03:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299625.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>天工不止造物，也能修bug：Skywork-SWE给代码智能体补上软件工程课</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-20-3</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.15567</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games</title>
-      <link>https://arxiv.org/abs/2506.15624</link>
-      <description>&lt;![CDATA[The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15624</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy</title>
-      <link>https://arxiv.org/abs/2506.15639</link>
-      <description>&lt;![CDATA[The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15639</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement</title>
-      <link>https://arxiv.org/abs/2506.15647</link>
-      <description>&lt;![CDATA[Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15647</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence</title>
-      <link>https://arxiv.org/abs/2506.15672</link>
-      <description>&lt;![CDATA[SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15672</guid>
       <category>AI</category>
     </item>
   </channel>
