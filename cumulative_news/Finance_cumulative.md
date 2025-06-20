@@ -2,7 +2,41 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 12:22
+**最后更新时间**: 2025-06-20 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-20 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump’s pick to replace Fed Chair Powell could rock your mortgage and retirement. Buckle up.](https://www.marketwatch.com/story/trumps-next-fed-picks-will-be-a-dramatic-showdown-with-your-mortgage-payment-and-retirement-savings-on-the-line-214d615a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 23:47
+
+#### [Trying to juggle interest rates, layoffs and the Iran conflict? These 5 steps give you control of your money now](https://www.marketwatch.com/story/worried-about-well-everything-these-5-steps-can-ease-your-mind-in-volatile-markets-9c815dd4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 21:42
+
+#### [Hospitals save lives. Now here’s how they can save Medicaid and Medicare.](https://www.marketwatch.com/story/trumps-tax-bill-forces-you-to-choose-worse-healthcare-or-unaffordable-insurance-it-doesnt-have-to-be-this-way-41beee97?mod=mw_rss_topstories)
+**发布时间**: 2025-06-19 20:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Business leaders remain hopeful after Trump pauses and resumes workplace raids](https://www.marketwatch.com/bulletins/redirect/go?g=75ca4bdd-e6ab-4ee5-8acc-baffd01c64de&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 18:05
+
+#### [Millionaire ranks in U.S. swelled at a 1,000-a-day rate last year](https://www.marketwatch.com/bulletins/redirect/go?g=cd980e9b-94ba-4c34-8cb1-b5fabca14c59&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 17:20
+
+#### [Trump just delayed the U.S.’s TikTok ban — again](https://www.marketwatch.com/bulletins/redirect/go?g=a66f4c13-7a9d-498a-b03f-9ce3e85b80da&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 16:06
+
+#### [Social Security will stop sending paper checks later this year](https://www.marketwatch.com/bulletins/redirect/go?g=b5d1b184-0216-4a07-855a-3e5365ae6acd&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 15:51
+
+#### [Many investors are now getting exposure to bitcoin whether they like it or not](https://www.marketwatch.com/bulletins/redirect/go?g=7c90eefa-5ae6-463d-b262-dcce3aea3059&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 15:26
+
+#### [This mutual fund launched in 1934. These are its picks and perspectives today.](https://www.marketwatch.com/bulletins/redirect/go?g=7d4c6315-410c-4440-9614-dbc011a52078&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-19 14:30
 
 ---
 

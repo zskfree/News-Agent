@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Jun 2025 12:22:28 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 00:55:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:56:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>It’s pretty easy to get DeepSeek to talk dirty</title>
+      <link>https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/</link>
+      <description>&lt;![CDATA[It’s pretty easy to get DeepSeek to talk dirty]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>硅基流动入驻阿里云云市场，核心API服务将全面接入阿里云百炼平台</title>
+      <link>https://www.qbitai.com/2025/06/299595.html</link>
+      <description>&lt;![CDATA[硅基流动入驻阿里云云市场，核心API服务将全面接入阿里云百炼平台]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299595.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10 Must-Know Python Libraries for MLOps in 2025</title>
+      <link>https://machinelearningmastery.com/10-must-know-python-libraries-for-mlops-in-2025/</link>
+      <description>&lt;![CDATA[10 Must-Know Python Libraries for MLOps in 2025]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/10-must-know-python-libraries-for-mlops-in-2025/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Unlocking Performance: Accelerating Pandas Operations with Polars</title>
+      <link>https://machinelearningmastery.com/unlocking-performance-accelerating-pandas-operations-with-polars/</link>
+      <description>&lt;![CDATA[Unlocking Performance: Accelerating Pandas Operations with Polars]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://machinelearningmastery.com/unlocking-performance-accelerating-pandas-operations-with-polars/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>推荐大模型来了？OneRec论文解读：端到端训练如何同时吃掉效果与成本</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-19-10</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2310.18450</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MedSyn: Enhancing Diagnostics with Human-AI Collaboration</title>
-      <link>https://arxiv.org/abs/2506.14774</link>
-      <description>&lt;![CDATA[MedSyn: Enhancing Diagnostics with Human-AI Collaboration]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14774</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>See What I Mean? CUE: A Cognitive Model of Understanding Explanations</title>
-      <link>https://arxiv.org/abs/2506.14775</link>
-      <description>&lt;![CDATA[See What I Mean? CUE: A Cognitive Model of Understanding Explanations]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14775</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WebXAII: an open-source web framework to study human-XAI interaction</title>
-      <link>https://arxiv.org/abs/2506.14777</link>
-      <description>&lt;![CDATA[WebXAII: an open-source web framework to study human-XAI interaction]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14777</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series</title>
-      <link>https://arxiv.org/abs/2506.14786</link>
-      <description>&lt;![CDATA[PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14786</guid>
       <category>AI</category>
     </item>
   </channel>

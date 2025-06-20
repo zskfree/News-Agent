@@ -2,7 +2,59 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 12:22
+**最后更新时间**: 2025-06-20 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-20 00:55)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [微信上线「短剧」小程序；传宇树C 轮融资估值超 100 亿，腾讯阿里吉利联投；OpenAI 警告：高生物武器风险模型将出现](http://www.geekpark.net/news/350610)
+**发布时间**: 2025-06-20 08:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小鹏想要的，不止“留在牌桌上”](http://www.huxiu.com/article/4455394.html?f=wangzhan)
+**发布时间**: 2025-06-20 07:11
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)
+**发布时间**: 2025-06-20 00:08
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)
+**发布时间**: 2025-06-19 19:45
+
+#### [Spotify&#8217;s HiFi lossless streaming might really, finally, actually be coming soon](https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify)
+**发布时间**: 2025-06-19 18:40
+
+#### [Eufy&#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)
+**发布时间**: 2025-06-19 18:00
+
+#### [Elden Ring Nightreign is getting even harder bosses](https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses)
+**发布时间**: 2025-06-19 17:32
+
+#### [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)
+**发布时间**: 2025-06-19 16:29
+
+#### [Trump gives TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)
+**发布时间**: 2025-06-19 16:00
+
+#### [Inside Microsoft’s complicated relationship with OpenAI](https://www.theverge.com/notepad-microsoft-newsletter/688964/microsoft-openai-relationship-notepad)
+**发布时间**: 2025-06-19 16:00
+
+#### [DOJ files to seize $225 million in crypto from scammers](https://www.theverge.com/news/689956/doj-tether-cryptocurrency-investment-pig-butchering-scam-seizure)
+**发布时间**: 2025-06-19 15:53
+
+#### [Eero’s speedy Pro 6E mesh system is on sale with a gift card for $200 off](https://www.theverge.com/tech/689687/eero-6e-router-system-anker-six-port-desktop-charger-deal-sale)
+**发布时间**: 2025-06-19 15:50
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 65 Best Movies on Disney+ Right Now (June 2025)](https://www.wired.com/story/best-movies-disney-plus/)
+**发布时间**: 2025-06-19 19:00
 
 ---
 

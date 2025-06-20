@@ -2,7 +2,28 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-19 12:22
+**最后更新时间**: 2025-06-20 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-20 00:55)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [It’s pretty easy to get DeepSeek to talk dirty](https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/)
+**发布时间**: 2025-06-19 15:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [硅基流动入驻阿里云云市场，核心API服务将全面接入阿里云百炼平台](https://www.qbitai.com/2025/06/299595.html)
+**发布时间**: 2025-06-19 12:34
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [10 Must-Know Python Libraries for MLOps in 2025](https://machinelearningmastery.com/10-must-know-python-libraries-for-mlops-in-2025/)
+**发布时间**: 2025-06-19 10:00
+
+#### [Unlocking Performance: Accelerating Pandas Operations with Polars](https://machinelearningmastery.com/unlocking-performance-accelerating-pandas-operations-with-polars/)
+**发布时间**: 2025-06-18 15:06
 
 ---
 
