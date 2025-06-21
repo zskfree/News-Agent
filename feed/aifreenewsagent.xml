@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Jun 2025 00:55:00 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 04:20:39 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Jun 2025 08:13:00 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Jun 2025 08:13:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>只改2行代码，RAG效率暴涨30%！可扩展至百亿级数据规模应用</title>
+      <link>https://www.qbitai.com/2025/06/299932.html</link>
+      <description>&lt;![CDATA[只改2行代码，RAG效率暴涨30%！可扩展至百亿级数据规模应用]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 06:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299932.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型掌握人类空间思考能力！三阶段训练框架学会“边画边想”，5个基准平均提升18.4%</title>
+      <link>https://www.qbitai.com/2025/06/299896.html</link>
+      <description>&lt;![CDATA[大模型掌握人类空间思考能力！三阶段训练框架学会“边画边想”，5个基准平均提升18.4%]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 06:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299896.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>陶哲轩罕见长长长长长访谈：数学、AI和给年轻人的建议</title>
+      <link>https://www.qbitai.com/2025/06/299860.html</link>
+      <description>&lt;![CDATA[陶哲轩罕见长长长长长访谈：数学、AI和给年轻人的建议]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 05:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299860.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华人学者助力”数学大一统理论”新突破！4位数学家近10年完成证明</title>
+      <link>https://www.qbitai.com/2025/06/299822.html</link>
+      <description>&lt;![CDATA[华人学者助力”数学大一统理论”新突破！4位数学家近10年完成证明]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 04:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299822.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>清华大学研究团队测评：夸克AI与志愿填报专家专业水平相当</title>
+      <link>https://www.qbitai.com/2025/06/299819.html</link>
+      <description>&lt;![CDATA[清华大学研究团队测评：夸克AI与志愿填报专家专业水平相当]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 03:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299819.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>刚刚，华为盘古大模型5.5问世！推理、智能体能力大爆发</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-20-12</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[杭州又爆了！AI落地跨境和品牌的空前启蒙]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 07:51:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2025/06/298648.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI 工具分析血液 DNA 片段，实现更快、更经济的癌症监测</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-6</link>
-      <description>&lt;![CDATA[AI 工具分析血液 DNA 片段，实现更快、更经济的癌症监测]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 14:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Nature子刊，阿里云等开发首个「中心法则」生物大模型，参数1.8B，涵盖16.9W物种</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-5</link>
-      <description>&lt;![CDATA[Nature子刊，阿里云等开发首个「中心法则」生物大模型，参数1.8B，涵盖16.9W物种]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>27、42、73，DeepSeek这些大模型竟都喜欢这些数！为什么？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-4</link>
-      <description>&lt;![CDATA[27、42、73，DeepSeek这些大模型竟都喜欢这些数！为什么？]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>单应计算加速数十倍、计算量减少95%！基于几何的SKS和ACA矩阵分解被提出</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-3</link>
-      <description>&lt;![CDATA[单应计算加速数十倍、计算量减少95%！基于几何的SKS和ACA矩阵分解被提出]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>嚯！国产视频模型的物理水准超神了 | 实测MiniMax海螺02</title>
-      <link>https://www.qbitai.com/2025/06/298342.html</link>
-      <description>&lt;![CDATA[嚯！国产视频模型的物理水准超神了 | 实测MiniMax海螺02]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/298342.html</guid>
       <category>AI</category>
     </item>
   </channel>
