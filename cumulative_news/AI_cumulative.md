@@ -2,7 +2,36 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-20 12:22
+**最后更新时间**: 2025-06-21 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-21 00:55)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，华为盘古大模型5.5问世！推理、智能体能力大爆发](https://www.jiqizhixin.com/articles/2025-06-20-12)
+**发布时间**: 2025-06-20 21:30
+
+#### [突破开放世界移动操作！首个室内移动抓取多模态智能体亮相，微调模型真实环境零样本动作准确率达 90%](https://www.jiqizhixin.com/articles/2025-06-20-11)
+**发布时间**: 2025-06-20 21:23
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Researchers present bold ideas for AI at MIT Generative AI Impact Consortium kickoff event](https://news.mit.edu/2025/researchers-present-bold-ideas-ai-mit-generative-ai-impact-consortium-event-0620)
+**发布时间**: 2025-06-20 16:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [余承东发布纯血鸿蒙2.0！功能演示叫好一片，安卓和苹果都不香了](https://www.qbitai.com/2025/06/299775.html)
+**发布时间**: 2025-06-20 15:07
+
+#### [ChatGPT用多了会变傻！MIT招募大学生做实验论证，用得越多人越笨](https://www.qbitai.com/2025/06/299739.html)
+**发布时间**: 2025-06-20 14:43
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: talking dirty with DeepSeek, and the risks and rewards of calorie restriction](https://www.technologyreview.com/2025/06/20/1119102/the-download-talking-dirty-with-deepseek-and-the-risks-and-rewards-of-calorie-restriction/)
+**发布时间**: 2025-06-20 12:10
 
 ---
 

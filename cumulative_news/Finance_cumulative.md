@@ -2,7 +2,68 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-20 12:22
+**最后更新时间**: 2025-06-21 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-21 01:00)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Carnival Cruise Line’s new loyalty program is getting slammed by customers](https://www.marketwatch.com/bulletins/redirect/go?g=7ce00bd3-5feb-4340-a236-8e75e555e341&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 23:05
+
+#### [Should you use your home equity to pay off credit-card debt? Read this first.](https://www.marketwatch.com/bulletins/redirect/go?g=ebadd024-0ce2-4e49-aadd-05a929bcb13a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 22:20
+
+#### [The Israel-Iran crisis shows why you need energy stocks in your 401(k)](https://www.marketwatch.com/bulletins/redirect/go?g=ea122bb1-3534-4664-9be5-511a6994caed&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 21:28
+
+#### [Why stablecoin play Circle’s stock is still a buy even after a sixfold rally](https://www.marketwatch.com/bulletins/redirect/go?g=dc1bdfa1-f0cb-4d52-8e57-2f2d0510f2a4&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 20:29
+
+#### [Dow ekes out gain, but S&P 500 sees weekly loss as Iran worries hang over market](https://www.marketwatch.com/bulletins/redirect/go?g=c180ec6b-a670-4e69-9d0b-d57322788117&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 20:04
+
+#### [Tesla’s robotaxi launch is around the corner. What it means for the stock.](https://www.marketwatch.com/bulletins/redirect/go?g=78c70877-9d7f-4cbc-a279-07554e89bd6f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 19:30
+
+#### [Dow turns lower into final hour as stocks head for weekly losses — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=8fc635af-b77a-447c-a5ee-eb1e14ce0d50&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 19:01
+
+#### [Dow gives up its weekly gains as one analyst points to a 'wall of worry'](https://www.marketwatch.com/bulletins/redirect/go?g=c64660ae-d2e0-44d7-99e2-f9ad56a77452&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 18:04
+
+#### [Tech companies lead list of double-digit gains in June for stocks in the S&P 500](https://www.marketwatch.com/bulletins/redirect/go?g=9b6f8fae-f192-4c9b-9f14-f7d5d368bd3e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 16:16
+
+#### [His SPACs lost billions for investors. He’s getting ready to try again.](https://www.marketwatch.com/bulletins/redirect/go?g=132d9209-f891-49e2-8811-c4c3547d532f&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-20 14:02
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Carnival Cruise Line’s new loyalty program angers some customers. ‘One of the dumbest things I’ve ever seen.’](https://www.marketwatch.com/story/carnival-cruise-lines-new-loyalty-program-angers-some-customers-one-of-the-dumbest-things-ive-ever-seen-e384e711?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 21:24
+
+#### [Consumer spending habits are changing in this key way, Kroger says](https://www.marketwatch.com/story/consumer-spending-habits-are-changing-in-this-key-way-kroger-says-7eee23c0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 20:40
+
+#### [Should you use your home equity to pay off credit-card debt? Read this before taking out a HELOC.](https://www.marketwatch.com/story/should-you-use-your-home-equity-to-pay-off-credit-card-debt-read-this-before-taking-out-a-heloc-d99e8744?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 20:23
+
+#### [This recent college grad says ‘dumb luck’ almost turned $13 into $270,000 with an NHL finals bet. Why DraftKings and other sportsbooks love parlays, too.](https://www.marketwatch.com/story/this-college-grad-almost-turned-13-into-270-000-with-a-bet-on-the-nhl-finals-why-draftkings-and-other-sportsbooks-love-parlays-c884b5fb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 19:48
+
+#### [Even the Fed, Iran and interest-rate worries can’t keep this stock market down](https://www.marketwatch.com/story/even-the-fed-iran-and-interest-rate-worries-cant-keep-this-stock-market-down-4383ffd1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 18:57
+
+#### [My sister and her husband died within days of each other. Their banks won’t let me access their safe-deposit boxes. What now?](https://www.marketwatch.com/story/my-sister-and-her-husband-died-within-days-of-each-other-their-banks-wont-let-me-access-their-safe-deposit-boxes-what-now-fe982ffe?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 18:30
+
+#### [Olive Garden is on a roll. Here’s what’s driving the fastest sales growth in 2 years.](https://www.marketwatch.com/story/olive-garden-is-on-a-roll-heres-whats-driving-the-fastest-sales-growth-in-2-years-7dfc42f9?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 18:25
+
+#### [Want a winning stock-market play? Bet against meme stocks.](https://www.marketwatch.com/story/meme-stocks-and-robinhood-users-show-why-long-term-investing-is-your-best-bet-6113d143?mod=mw_rss_topstories)
+**发布时间**: 2025-06-20 18:23
 
 ---
 

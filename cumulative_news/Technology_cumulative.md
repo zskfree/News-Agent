@@ -2,7 +2,107 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-20 12:22
+**最后更新时间**: 2025-06-21 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-21 01:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [三年累亏5.68亿元，AI云公司PPIO派欧云冲刺港股CEO要圆上市梦](https://www.tmtpost.com/7603452.html)
+**发布时间**: 2025-06-21 08:42
+
+#### [给「顶流」Labubu做衣服，卖给外国人，我月入十万](https://www.tmtpost.com/7603374.html)
+**发布时间**: 2025-06-21 08:28
+
+#### [五粮液：精细化运作开拓国际国内市场，会适时进一步提升分红率 | 直击股东会](https://www.tmtpost.com/7603507.html)
+**发布时间**: 2025-06-20 23:35
+
+#### [对话未磁科技蔡宾：国产心脑磁仪打破美国垄断，终结CT造影辐射恐慌｜50x50](https://www.tmtpost.com/7602142.html)
+**发布时间**: 2025-06-20 23:10
+
+#### [老铺黄金海外首店落地新加坡；萝卜快跑年底进军东南亚；UniUni完成D1轮融资｜一周大公司出海动态](https://www.tmtpost.com/7603329.html)
+**发布时间**: 2025-06-20 20:44
+
+#### [基于国产昇腾AI云服务训练，华为云发布盘古大模型5.5](https://www.tmtpost.com/7603404.html)
+**发布时间**: 2025-06-20 20:44
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传苹果考虑收购 Perplexity，恶补 AI；微信测朋友圈评论表情包回复；Meta 推出新智能眼镜，2900 元起](http://www.geekpark.net/news/350672)
+**发布时间**: 2025-06-21 08:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MariaDB LTS年度发布集成了向量搜索](https://www.infoq.cn/article/JRYxiu8GUG0i2CxNBhCh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-21 08:00
+
+#### [从 GPT 到 Agent，技术与业务如何“双向奔赴”](https://www.infoq.cn/article/sjomNmvwsUIiyaXQGVQb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 23:48
+
+#### [大模型进入研发体系后，我们看到了这些变化](https://www.infoq.cn/article/QPJwyU05dwNrOigQUFPM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 23:39
+
+#### [这家公司又吹哨了，这次是 Agentic AI](https://www.infoq.cn/article/eZKOYHWFKfUUuDResT6M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-20 23:15
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence](https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence)
+**发布时间**: 2025-06-20 22:53
+
+#### [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+**发布时间**: 2025-06-20 20:56
+
+#### [28 Years Later is a bleak fever dream with rage pumping through its veins](https://www.theverge.com/movie-reviews/689645/28-years-later-review)
+**发布时间**: 2025-06-20 19:20
+
+#### [Apple’s tiny M4 Mac Mini has dropped to its lowest price yet](https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale)
+**发布时间**: 2025-06-20 17:32
+
+#### [Applebee&#8217;s and IHOP have plans for AI](https://www.theverge.com/news/690458/applebees-ihop-ai-restaraunt-recommendations)
+**发布时间**: 2025-06-20 17:21
+
+#### [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+**发布时间**: 2025-06-20 15:48
+
+#### [Amazon improves Kindle accessibility with new text spacing adjustments](https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings)
+**发布时间**: 2025-06-20 14:07
+
+#### [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
+**发布时间**: 2025-06-20 14:00
+
+#### [Tesla’s first robotaxi rides will have a ‘safety monitor’ in the passenger seat](https://www.theverge.com/news/690245/tesla-robotaxi-rides-launch-safety-monitor-passenger-seat)
+**发布时间**: 2025-06-20 13:50
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [‘Wall-E With a Gun’: Midjourney Generates Videos of Disney Characters Amid Massive Copyright Lawsuit](https://www.wired.com/story/midjourney-generates-videos-of-disney-characters-amid-massive-copyright-lawsuit/)
+**发布时间**: 2025-06-20 20:28
+
+#### [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
+**发布时间**: 2025-06-20 19:22
+
+#### [‘Major Anomaly’ Behind Latest SpaceX Starship Explosion](https://www.wired.com/story/spacex-starship-explosion-major-anomaly/)
+**发布时间**: 2025-06-20 16:38
+
+#### [3 Best Thermal Brush, Tested and Reviewed by WIRED (2025)](https://www.wired.com/gallery/best-thermal-brush/)
+**发布时间**: 2025-06-20 14:33
+
+#### [What Big Tech's Band of Execs Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)
+**发布时间**: 2025-06-20 14:26
+
+#### [Meta's Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)
+**发布时间**: 2025-06-20 13:17
+
+#### [Gigabyte Radeon RX 9060 XT Review: Great Value Gaming](https://www.wired.com/review/amd-radeon-rx-9060-xt/)
+**发布时间**: 2025-06-20 13:03
+
+#### [How AI Is Helping Students Find the Right College](https://www.wired.com/story/how-ai-is-helping-kids-find-the-right-college/)
+**发布时间**: 2025-06-20 10:30
+
+#### [‘Dosa Divas’ Is a ‘Spicy’ New Game About Fighting Capitalism With Food](https://www.wired.com/story/dosa-divas-is-a-spicy-new-game-about-fighting-capitalism-with-food/)
+**发布时间**: 2025-06-19 10:30
 
 ---
 
