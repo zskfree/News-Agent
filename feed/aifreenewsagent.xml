@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Jun 2025 08:13:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 08:14:14 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 12:19:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>开源版MetaQuery来了！OpenUni用1.1B参数媲美BLIP3-o-8B，数据代码完全开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-22-2</link>
+      <description>&lt;![CDATA[开源版MetaQuery来了！OpenUni用1.1B参数媲美BLIP3-o-8B，数据代码完全开源]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 20:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-22-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型为何难成为「数学家」？斯坦福等揭示严谨证明中的结构性弱点</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-22</link>
+      <description>&lt;![CDATA[大模型为何难成为「数学家」？斯坦福等揭示严谨证明中的结构性弱点]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 20:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-22</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>监督学习也能从错误中学习反思？！清华英伟达联合提出隐式负向策略爆炸提升数学能力</title>
       <link>https://www.qbitai.com/2025/06/300023.html</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[The Download: future grids, and bad boy bots]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 12:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.technologyreview.com/2025/06/19/1119059/the-download-future-grids-and-bad-boy-bots/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Is this the electric grid of the future?</title>
-      <link>https://www.technologyreview.com/2025/06/19/1118248/electric-grid-future-lincoln-nebraska-utilities-energy-transition/</link>
-      <description>&lt;![CDATA[Is this the electric grid of the future?]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/19/1118248/electric-grid-future-lincoln-nebraska-utilities-energy-transition/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Inside the US power struggle over coal</title>
-      <link>https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/</link>
-      <description>&lt;![CDATA[Inside the US power struggle over coal]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/</guid>
       <category>AI</category>
     </item>
   </channel>
