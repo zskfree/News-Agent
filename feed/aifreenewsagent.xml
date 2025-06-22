@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Jun 2025 01:01:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 04:23:58 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 08:13:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 08:14:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>监督学习也能从错误中学习反思？！清华英伟达联合提出隐式负向策略爆炸提升数学能力</title>
+      <link>https://www.qbitai.com/2025/06/300023.html</link>
+      <description>&lt;![CDATA[监督学习也能从错误中学习反思？！清华英伟达联合提出隐式负向策略爆炸提升数学能力]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300023.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI也会闹情绪了！Gemini代码调试不成功直接摆烂，马斯克都来围观</title>
+      <link>https://www.qbitai.com/2025/06/299973.html</link>
+      <description>&lt;![CDATA[AI也会闹情绪了！Gemini代码调试不成功直接摆烂，马斯克都来围观]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 05:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299973.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>00后投身具身智能创业，剑指机器人界「Model 3」！已推出21个自由度灵巧手</title>
+      <link>https://www.qbitai.com/2025/06/299953.html</link>
+      <description>&lt;![CDATA[00后投身具身智能创业，剑指机器人界「Model 3」！已推出21个自由度灵巧手]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299953.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>月之暗面「调教」出最强Agent，在「人类最后一场考试」拿下最新 SOTA</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-21-7</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[Inside the US power struggle over coal]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>中国首份AI汽车产品报告：智能辅助驾驶五星标准来了</title>
-      <link>https://www.qbitai.com/2025/06/299554.html</link>
-      <description>&lt;![CDATA[中国首份AI汽车产品报告：智能辅助驾驶五星标准来了]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299554.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>搜索SEO被AI重塑，专业内容社区价值凸显｜量子位智库报告</title>
-      <link>https://www.qbitai.com/2025/06/299522.html</link>
-      <description>&lt;![CDATA[搜索SEO被AI重塑，专业内容社区价值凸显｜量子位智库报告]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299522.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>英伟达中国一把手造国产GPU，冲刺IPO了</title>
-      <link>https://www.qbitai.com/2025/06/299508.html</link>
-      <description>&lt;![CDATA[英伟达中国一把手造国产GPU，冲刺IPO了]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299508.html</guid>
       <category>AI</category>
     </item>
   </channel>
