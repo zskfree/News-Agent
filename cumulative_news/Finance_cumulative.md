@@ -2,7 +2,23 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-22 01:02
+**最后更新时间**: 2025-06-22 04:23
+
+---
+
+## 🆕 最新更新 (2025-06-22 04:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors brace for ‘unpredictable spillovers’ in markets after Trump announces Iran strikes](https://www.marketwatch.com/story/trump-says-u-s-has-launched-attack-on-iran-nuclear-sites-as-investors-brace-for-unpredictable-spillovers-across-markets-0478de96?mod=mw_rss_topstories)
+**发布时间**: 2025-06-22 02:52
+
+#### [As Trump badgers Fed to lower rates, it’s the bond market in need of convincing](https://www.marketwatch.com/story/as-trump-blasts-fed-to-lower-rates-its-the-bond-market-in-need-of-convincing-b48a9ff7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-22 01:54
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [‘Unpredictable spillovers’ in markets feared after U.S. launches strikes on Iran](https://www.marketwatch.com/bulletins/redirect/go?g=531b744c-ec07-4170-b9e4-4854ef23f1b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 02:08
 
 ---
 

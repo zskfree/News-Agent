@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Jun 2025 01:02:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 01:02:11 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 04:23:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 04:23:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>罗永浩首谈AI：曾被余承东“粗暴”挖人，未来2个月内发布AI效率软件</title>
+      <link>https://www.tmtpost.com/7603761.html</link>
+      <description>&lt;![CDATA[罗永浩首谈AI：曾被余承东“粗暴”挖人，未来2个月内发布AI效率软件]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 11:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7603761.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>杨植麟和闫俊杰首次“撞车”，MiniMax视频模型价格一年超万元</title>
+      <link>https://www.tmtpost.com/7598965.html</link>
+      <description>&lt;![CDATA[杨植麟和闫俊杰首次“撞车”，MiniMax视频模型价格一年超万元]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 11:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7598965.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Truth Social Crashes as Trump Live-Posts Iran Bombing</title>
+      <link>https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/</link>
+      <description>&lt;![CDATA[Truth Social Crashes as Trump Live-Posts Iran Bombing]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 01:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>小米：YU7 将发，严禁诋毁竞品；罗永浩剧透 AI 产品 3 个月后见；贝佐斯「二婚婚礼」下周举办</title>
       <link>http://www.geekpark.net/news/350674</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[从 GPT 到 Agent，技术与业务如何“双向奔赴”]]&gt;</description>
       <pubDate>Fri, 20 Jun 2025 23:48:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/sjomNmvwsUIiyaXQGVQb?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>大模型进入研发体系后，我们看到了这些变化</title>
-      <link>https://www.infoq.cn/article/QPJwyU05dwNrOigQUFPM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型进入研发体系后，我们看到了这些变化]]&gt;</description>
-      <pubDate>Fri, 20 Jun 2025 23:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QPJwyU05dwNrOigQUFPM?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>这家公司又吹哨了，这次是 Agentic AI</title>
-      <link>https://www.infoq.cn/article/eZKOYHWFKfUUuDResT6M?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[这家公司又吹哨了，这次是 Agentic AI]]&gt;</description>
-      <pubDate>Fri, 20 Jun 2025 23:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eZKOYHWFKfUUuDResT6M?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence</title>
-      <link>https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence</link>
-      <description>&lt;![CDATA[Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence]]&gt;</description>
-      <pubDate>Fri, 20 Jun 2025 22:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence</guid>
       <category>Technology</category>
     </item>
   </channel>
