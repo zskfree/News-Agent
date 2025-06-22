@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Jun 2025 08:13:00 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 12:19:27 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 01:01:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 01:02:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>月之暗面「调教」出最强Agent，在「人类最后一场考试」拿下最新 SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21-7</link>
+      <description>&lt;![CDATA[月之暗面「调教」出最强Agent，在「人类最后一场考试」拿下最新 SOTA]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>三个大模型合作，1000次迭代，竟能像人类科学家一样发现方程</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21-6</link>
+      <description>&lt;![CDATA[三个大模型合作，1000次迭代，竟能像人类科学家一样发现方程]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>世界模型版《模拟人生》：AI虚拟小人街头演讲拉票，GPT-4o选举获胜</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21-5</link>
+      <description>&lt;![CDATA[世界模型版《模拟人生》：AI虚拟小人街头演讲拉票，GPT-4o选举获胜]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>外媒：苹果内部讨论买Perplexity，140亿美元史上最大收购？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21-4</link>
+      <description>&lt;![CDATA[外媒：苹果内部讨论买Perplexity，140亿美元史上最大收购？]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 Oral | NAS老树开新花，NUS提出智能体超网，成本狂降55%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21-3</link>
+      <description>&lt;![CDATA[ICML 2025 Oral | NAS老树开新花，NUS提出智能体超网，成本狂降55%]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>舍弃CUDA编程！CMU等用几十行代码将LLM编译成巨型内核，推理延迟可降6.7倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21-2</link>
+      <description>&lt;![CDATA[舍弃CUDA编程！CMU等用几十行代码将LLM编译成巨型内核，推理延迟可降6.7倍]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>7B智能体仅凭9个任务训练即超越R1！上交大打造AI-for-AI新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-21</link>
+      <description>&lt;![CDATA[7B智能体仅凭9个任务训练即超越R1！上交大打造AI-for-AI新范式]]&gt;</description>
+      <pubDate>Sat, 21 Jun 2025 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-21</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>只改2行代码，RAG效率暴涨30%！可扩展至百亿级数据规模应用</title>
       <link>https://www.qbitai.com/2025/06/299932.html</link>
@@ -355,62 +411,6 @@
       <description>&lt;![CDATA[英伟达中国一把手造国产GPU，冲刺IPO了]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 09:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2025/06/299508.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MiniMax AI超级智能体发布！编程/多模态突出，MCP工具无缝集成</title>
-      <link>https://www.qbitai.com/2025/06/299465.html</link>
-      <description>&lt;![CDATA[MiniMax AI超级智能体发布！编程/多模态突出，MCP工具无缝集成]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 09:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299465.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>谁是大模型架构新王者？ ｜量子位智库</title>
-      <link>https://www.qbitai.com/2025/06/299180.html</link>
-      <description>&lt;![CDATA[谁是大模型架构新王者？ ｜量子位智库]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 08:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299180.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>最新AI眼镜格局报告：百镜大战拉开序幕，阿里DeepSeek高通成幕后赢家</title>
-      <link>https://www.qbitai.com/2025/06/299046.html</link>
-      <description>&lt;![CDATA[最新AI眼镜格局报告：百镜大战拉开序幕，阿里DeepSeek高通成幕后赢家]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/299046.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>田渊栋：连续思维链效率更高，可同时编码多个路径，“叠加态”式并行搜索</title>
-      <link>https://www.qbitai.com/2025/06/298956.html</link>
-      <description>&lt;![CDATA[田渊栋：连续思维链效率更高，可同时编码多个路径，“叠加态”式并行搜索]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 08:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/298956.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>首份空间智能研究报告来了！一文全面获得空间智能认知、要素、玩家图谱</title>
-      <link>https://www.qbitai.com/2025/06/298966.html</link>
-      <description>&lt;![CDATA[首份空间智能研究报告来了！一文全面获得空间智能认知、要素、玩家图谱]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/298966.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>蚂蚁数科金融大模型技术领先 评测效果超主流开源模型</title>
-      <link>https://www.qbitai.com/2025/06/298955.html</link>
-      <description>&lt;![CDATA[蚂蚁数科金融大模型技术领先 评测效果超主流开源模型]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/298955.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>杭州又爆了！AI落地跨境和品牌的空前启蒙</title>
-      <link>https://www.qbitai.com/2025/06/298648.html</link>
-      <description>&lt;![CDATA[杭州又爆了！AI落地跨境和品牌的空前启蒙]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 07:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/298648.html</guid>
       <category>AI</category>
     </item>
   </channel>

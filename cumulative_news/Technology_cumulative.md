@@ -2,7 +2,50 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-21 12:19
+**最后更新时间**: 2025-06-22 01:02
+
+---
+
+## 🆕 最新更新 (2025-06-22 01:02)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米：YU7 将发，严禁诋毁竞品；罗永浩剧透 AI 产品 3 个月后见；贝佐斯「二婚婚礼」下周举办](http://www.geekpark.net/news/350674)
+**发布时间**: 2025-06-22 08:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [软件工程师如何发展他们的职业生涯](https://www.infoq.cn/article/7sF8sdidMt9kKqhLRhRY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-22 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从勒芒回看宝马M：一个高性能品牌的自我校验](https://www.tmtpost.com/7603851.html)
+**发布时间**: 2025-06-21 21:36
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Samsung&#8217;s entry-level Galaxy Watch 7 has returned to its best price to date](https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale)
+**发布时间**: 2025-06-21 16:02
+
+#### [Final Fantasy fans, now is the time to get into Magic: The Gathering](https://www.theverge.com/games/690509/how-to-play-final-fantasy-magic-the-gathering-set)
+**发布时间**: 2025-06-21 15:00
+
+#### [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
+**发布时间**: 2025-06-21 14:30
+
+#### [The Nintendo Switch 2 is an awesome upgrade for parents like me](https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare)
+**发布时间**: 2025-06-21 13:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Best Lawn and Outdoor Games (2025): Cornhole, Ladderball, and More](https://www.wired.com/gallery/lawn-and-outdoor-games/)
+**发布时间**: 2025-06-21 14:03
+
+#### [Eli Lilly’s Obesity Pill Appears to Work as Well as Injected GLP-1s](https://www.wired.com/story/lilly-obesity-pill-effective-orforglipron-injected-glp-1-ozempic/)
+**发布时间**: 2025-06-21 13:01
+
+#### [Ford Ranger Plug-In Hybrid Review: Prices, Availability, Specs](https://www.wired.com/review/ford-ranger-plug-in-hybrid/)
+**发布时间**: 2025-06-21 12:30
 
 ---
 
