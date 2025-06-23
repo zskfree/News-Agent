@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Jun 2025 08:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Jun 2025 08:17:28 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 12:23:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 12:23:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我在哪？要去哪？要怎么去？字节跳动提出Astra双模型架构助力机器人自由导航</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-12</link>
+      <description>&lt;![CDATA[我在哪？要去哪？要怎么去？字节跳动提出Astra双模型架构助力机器人自由导航]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 19:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>有道14B低成本轻量模型“子曰3”开源，数学推理性能超越大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-10</link>
+      <description>&lt;![CDATA[有道14B低成本轻量模型“子曰3”开源，数学推理性能超越大模型]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>无损减少80%激活值内存，提升5倍训练序列长度，仅需两行代码</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-9</link>
+      <description>&lt;![CDATA[无损减少80%激活值内存，提升5倍训练序列长度，仅需两行代码]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Book review: Surveillance &amp; privacy</title>
+      <link>https://www.technologyreview.com/2025/06/23/1118401/privacy-book-reviews-surveillance-higher-education/</link>
+      <description>&lt;![CDATA[Book review: Surveillance &amp; privacy]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/23/1118401/privacy-book-reviews-surveillance-higher-education/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百度文心快码AI IDE上线，首创设计稿一键转代码、支持MCP</title>
+      <link>https://www.qbitai.com/2025/06/300135.html</link>
+      <description>&lt;![CDATA[百度文心快码AI IDE上线，首创设计稿一键转代码、支持MCP]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 09:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300135.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>曝苹果拟收购Perplexity AI，人才一并拿走</title>
+      <link>https://www.qbitai.com/2025/06/300138.html</link>
+      <description>&lt;![CDATA[曝苹果拟收购Perplexity AI，人才一并拿走]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300138.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为车BU首任总裁转投千里麾下，在重庆履新了</title>
+      <link>https://www.qbitai.com/2025/06/300099.html</link>
+      <description>&lt;![CDATA[华为车BU首任总裁转投千里麾下，在重庆履新了]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300099.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>AI真的需要「像人类」那样思考吗？AlphaOne揭示属于大模型的「思考之道」</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-23-8</link>
@@ -43,14 +99,6 @@
       <description>&lt;![CDATA[CVPR 2025 Award Candidate | 英伟达等Difix3D+：用单步扩散模型修复 3D 重建伪影]]&gt;</description>
       <pubDate>Mon, 23 Jun 2025 12:41:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>华为车BU首任总裁转投李书福麾下，在重庆履新了</title>
-      <link>https://www.qbitai.com/2025/06/300099.html</link>
-      <description>&lt;![CDATA[华为车BU首任总裁转投李书福麾下，在重庆履新了]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 07:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300099.html</guid>
       <category>AI</category>
     </item>
     <item>
@@ -363,54 +411,6 @@
       <description>&lt;![CDATA[Elevating Styled Mahjong Agents with Learning from Demonstration]]&gt;</description>
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.16995</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Quantile Regression Approach for Remaining Useful Life Estimation with State Space Models</title>
-      <link>https://arxiv.org/abs/2506.17018</link>
-      <description>&lt;![CDATA[A Quantile Regression Approach for Remaining Useful Life Estimation with State Space Models]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17018</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Dispositions and Roles of Generically Dependent Entities</title>
-      <link>https://arxiv.org/abs/2506.17085</link>
-      <description>&lt;![CDATA[Dispositions and Roles of Generically Dependent Entities]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17085</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</title>
-      <link>https://arxiv.org/abs/2506.17104</link>
-      <description>&lt;![CDATA[Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17104</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Are Bias Evaluation Methods Biased ?</title>
-      <link>https://arxiv.org/abs/2506.17111</link>
-      <description>&lt;![CDATA[Are Bias Evaluation Methods Biased ?]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17111</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</title>
-      <link>https://arxiv.org/abs/2506.17114</link>
-      <description>&lt;![CDATA[Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17114</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>When Can Model-Free Reinforcement Learning be Enough for Thinking?</title>
-      <link>https://arxiv.org/abs/2506.17124</link>
-      <description>&lt;![CDATA[When Can Model-Free Reinforcement Learning be Enough for Thinking?]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17124</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-23 08:17
+**最后更新时间**: 2025-06-23 12:23
+
+---
+
+## 🆕 最新更新 (2025-06-23 12:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m 49 and have no debt except for a mortgage’: Should I take a $61,000 lump sum or $355 a month for life?](https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 12:19
+
+#### [The U.S. bull market is intact — and a key signal is coming from Tel Aviv, says this strategist](https://www.marketwatch.com/story/the-u-s-bull-market-is-intact-and-a-key-signal-is-coming-from-tel-aviv-says-this-strategist-c085b605?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 11:44
+
+#### [How Trump’s Iran strike just made your stock portfolio great again](https://www.marketwatch.com/story/howtrumps-iran-strike-just-made-your-stock-portfolio-great-again-777817ae?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 11:35
+
+#### [‘Is this normal?’ I’m 40 and inherited an IRA worth $650K. It has grown to $1M over five years. But I had a pro look at my investments and one-third are underperforming.](https://www.marketwatch.com/story/is-this-normal-im-40-and-inherited-an-ira-worth-650k-it-has-grown-to-1m-over-five-years-but-i-had-a-pro-look-at-my-investments-and-one-third-are-underperforming-b855f50a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 11:32
+
+#### [These are the reasons to stay positive on stocks, according to Morgan Stanley](https://www.marketwatch.com/story/these-are-the-reasons-to-stay-positive-on-stocks-according-to-morgan-stanley-91cf0edb?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 10:53
+
+#### [‘He doesn’t seem to care’: My secretive father, 81, added my name to a bank account. What about my mom?](https://www.marketwatch.com/story/he-doesnt-seem-to-care-my-secretive-father-81-added-my-name-to-a-bank-account-what-about-my-mom-548dd73e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 10:02
+
+#### [Four things to know ahead of the U.S. stock-market open on Monday](https://www.marketwatch.com/story/four-things-to-know-ahead-of-the-u-s-stock-market-open-on-monday-07380549?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 09:50
+
+#### [Paris Hilton snaps up $63 million Beverly Hills mansion once owned by Mark Wahlberg](https://www.marketwatch.com/story/paris-hilton-snaps-up-63-million-beverly-hills-mansion-once-owned-by-mark-wahlberg-6ccb716f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 09:04
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These are the reasons to stay positive on stocks, according to Morgan Stanley](https://www.marketwatch.com/bulletins/redirect/go?g=ceb4e7e3-39f5-429a-843a-d0a8b507f4b0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 12:04
+
+#### [Crude-oil futures have lost of all their gains from the U.S. attack on Iran](https://www.marketwatch.com/bulletins/redirect/go?g=620365a7-27a0-446a-829f-e14a91832595&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 08:43
 
 ---
 

@@ -2,7 +2,129 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-23 08:17
+**最后更新时间**: 2025-06-23 12:23
+
+---
+
+## 🆕 最新更新 (2025-06-23 12:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [邵阳液压拟收购重庆军工“小巨人”企业加码锻铸件，标的曾计划独立上市｜并购一线](https://www.tmtpost.com/7605307.html)
+**发布时间**: 2025-06-23 19:49
+
+#### [徐冰卸任，商汤再度“甩包袱”](https://www.tmtpost.com/7604864.html)
+**发布时间**: 2025-06-23 19:15
+
+#### [不碰餐饮外卖，拼多多要直接杀入即时零售？](https://www.tmtpost.com/7604651.html)
+**发布时间**: 2025-06-23 19:15
+
+#### [拼多多不想缺席即时零售牌桌](https://www.tmtpost.com/7604810.html)
+**发布时间**: 2025-06-23 19:14
+
+#### [出海品牌，排队IPO](https://www.tmtpost.com/7605079.html)
+**发布时间**: 2025-06-23 19:13
+
+#### [净利润暴跌8成，华致酒行如何破局？](https://www.tmtpost.com/7605121.html)
+**发布时间**: 2025-06-23 19:13
+
+#### [红黄蓝之外，抖音快手本地生活的主场在下沉](https://www.tmtpost.com/7605141.html)
+**发布时间**: 2025-06-23 19:13
+
+#### [资金正在涌入半导体设备零部件](https://www.tmtpost.com/7605143.html)
+**发布时间**: 2025-06-23 19:13
+
+#### [“巨头”这顶帽子，安踏撑得起来吗](https://www.tmtpost.com/7605214.html)
+**发布时间**: 2025-06-23 19:13
+
+#### [对话腾讯视频尤里卡：流量逻辑不会侵蚀纪录片内核｜独家](https://www.tmtpost.com/7605198.html)
+**发布时间**: 2025-06-23 19:12
+
+#### [饿了么、飞猪会师淘天：大消费平台撬动新增量](https://www.tmtpost.com/7605123.html)
+**发布时间**: 2025-06-23 18:54
+
+#### [马斯克的梦醒时分](https://www.tmtpost.com/7605093.html)
+**发布时间**: 2025-06-23 18:17
+
+#### [撑起10亿营收的椰子水赴港，if能否征服资本市场？](https://www.tmtpost.com/7605104.html)
+**发布时间**: 2025-06-23 18:17
+
+#### [没人该为王小川的梦想买单](https://www.tmtpost.com/7605119.html)
+**发布时间**: 2025-06-23 18:17
+
+#### [讯众通信赴港上市：左手现金流危机，右手800家玩家混战的 “突围局”](https://www.tmtpost.com/7605129.html)
+**发布时间**: 2025-06-23 18:17
+
+#### [苹果折叠屏，这次真要来了](https://www.tmtpost.com/7605034.html)
+**发布时间**: 2025-06-23 18:03
+
+#### [100%增长，京东618背后的变与不变](https://www.tmtpost.com/7604933.html)
+**发布时间**: 2025-06-23 17:41
+
+#### [新能源车的好日子只有半年了？](https://www.tmtpost.com/7604995.html)
+**发布时间**: 2025-06-23 17:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [传苹果正在考虑收购 Perplexity AI，140亿美元史上最大收购？](https://www.infoq.cn/article/uSIyXFSCdKTa9ULfN2uN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-23 19:00
+
+#### [Docker发布加固的基础镜像](https://www.infoq.cn/article/JXpZclUNgbvtkGgFVqqV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-23 19:00
+
+#### [印度裔 AI 负责人删掉 Karpathy 90%遗留代码，马斯克 Robotaxi 终上线！用户体验：不要小费，还可能倒给你钱](https://www.infoq.cn/article/PkrNU94Q2CsmZffSe53e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-23 17:34
+
+#### [首届 AICon 深圳站｜AI 驱动开发新阶段，邀你登台做主角！](https://www.infoq.cn/article/oDgoITQ5PBtzbG7O6tHq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-23 17:21
+
+#### [Void IDE，Cursor的开源替代品，发布测试版](https://www.infoq.cn/article/I7MAMjbHvJdrx5X4y6xL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-23 17:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [医院减脂餐爆火，健康不贵收割打工人？](http://www.huxiu.com/article/4497489.html?f=wangzhan)
+**发布时间**: 2025-06-23 18:30
+
+#### [直击MWC2025，这些黑科技将颠覆生活？](http://www.huxiu.com/article/4491475.html?f=wangzhan)
+**发布时间**: 2025-06-23 17:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/100490)
+**发布时间**: 2025-06-23 17:53
+
+#### [现在是入手拓竹 H2D 的好时候吗？](https://sspai.com/post/100054)
+**发布时间**: 2025-06-23 17:06
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [特斯拉 Robotaxi 上路，定向邀请、30 元一次，有钱也体验不上](http://www.geekpark.net/news/350735)
+**发布时间**: 2025-06-23 16:45
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Death Stranding 2 is much more approachable, if you’re prepared](https://www.theverge.com/games-review/690468/death-stranding-2-review-ps5)
+**发布时间**: 2025-06-23 12:00
+
+#### [Nothing Headphone 1 leaks show quirky translucent design](https://www.theverge.com/news/691010/nothing-headphone-1-design-leak)
+**发布时间**: 2025-06-23 11:23
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Recycled Polyester Saved This American Factory. Environmentalists Hate It](https://www.wired.com/story/repreve-recycled-polyester-saved-unifi-factory-environmentalists-hate-it/)
+**发布时间**: 2025-06-23 11:00
+
+#### [China's Electric Vehicle Factories Have Become Tourist Hotspots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)
+**发布时间**: 2025-06-23 10:30
+
+#### [Taiwan Is Rushing to Make Its Own Drones Before It's Too Late](https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/)
+**发布时间**: 2025-06-23 10:00
+
+#### [The Largest Camera Ever Built Releases Its First Images of the Cosmos](https://www.wired.com/story/opening-of-the-vera-rubin-observatory/)
+**发布时间**: 2025-06-23 09:27
+
+#### [India Is Using AI and Satellites to Map Urban Heat Vulnerability Down to the Building Level](https://www.wired.com/story/india-is-using-ai-and-satellites-to-map-urban-heat-vulnerability-down-to-the-building-level/)
+**发布时间**: 2025-06-23 09:00
 
 ---
 
