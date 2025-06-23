@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Jun 2025 04:27:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Jun 2025 04:27:27 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 08:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 08:17:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI真的需要「像人类」那样思考吗？AlphaOne揭示属于大模型的「思考之道」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-8</link>
+      <description>&lt;![CDATA[AI真的需要「像人类」那样思考吗？AlphaOne揭示属于大模型的「思考之道」]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 16:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>等了十年，特斯拉Robotaxi终于上线！马斯克：仅需4.2美元一口价</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-7</link>
+      <description>&lt;![CDATA[等了十年，特斯拉Robotaxi终于上线！马斯克：仅需4.2美元一口价]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 12:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>新鲜出炉！斯坦福2025 CS336课程全公开：从零开始搓大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-6</link>
+      <description>&lt;![CDATA[新鲜出炉！斯坦福2025 CS336课程全公开：从零开始搓大模型]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CVPR 2025 Award Candidate | 英伟达等Difix3D+：用单步扩散模型修复 3D 重建伪影</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-23-5</link>
+      <description>&lt;![CDATA[CVPR 2025 Award Candidate | 英伟达等Difix3D+：用单步扩散模型修复 3D 重建伪影]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-23-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为车BU首任总裁转投李书福麾下，在重庆履新了</title>
+      <link>https://www.qbitai.com/2025/06/300099.html</link>
+      <description>&lt;![CDATA[华为车BU首任总裁转投李书福麾下，在重庆履新了]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300099.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克Robotaxi今日上路：画饼十年终兑现！团队合影C位武汉理工校友引关注</title>
+      <link>https://www.qbitai.com/2025/06/300054.html</link>
+      <description>&lt;![CDATA[马斯克Robotaxi今日上路：画饼十年终兑现！团队合影C位武汉理工校友引关注]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 05:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300054.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>See the stunning first images from the Vera C. Rubin Observatory</title>
+      <link>https://www.technologyreview.com/2025/06/23/1119129/first-images-vera-c-rubin-observatory/</link>
+      <description>&lt;![CDATA[See the stunning first images from the Vera C. Rubin Observatory]]&gt;</description>
+      <pubDate>Mon, 23 Jun 2025 04:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/23/1119129/first-images-vera-c-rubin-observatory/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>「幻觉」可助力科研？LLM发现了治疗癌症的新药</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-23-4</link>
@@ -355,62 +411,6 @@
       <description>&lt;![CDATA[When Can Model-Free Reinforcement Learning be Enough for Thinking?]]&gt;</description>
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.17124</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI</title>
-      <link>https://arxiv.org/abs/2506.17130</link>
-      <description>&lt;![CDATA[Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17130</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making</title>
-      <link>https://arxiv.org/abs/2506.17163</link>
-      <description>&lt;![CDATA[The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.17163</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree</title>
-      <link>https://arxiv.org/abs/2506.15655</link>
-      <description>&lt;![CDATA[cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15655</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Ignition Phase : Standard Training for Fast Adversarial Robustness</title>
-      <link>https://arxiv.org/abs/2506.15685</link>
-      <description>&lt;![CDATA[Ignition Phase : Standard Training for Fast Adversarial Robustness]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15685</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning from M-Tuple Dominant Positive and Unlabeled Data</title>
-      <link>https://arxiv.org/abs/2506.15686</link>
-      <description>&lt;![CDATA[Learning from M-Tuple Dominant Positive and Unlabeled Data]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15686</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Cellular Traffic Prediction via Deep State Space Models with Attention Mechanism</title>
-      <link>https://arxiv.org/abs/2506.15688</link>
-      <description>&lt;![CDATA[Cellular Traffic Prediction via Deep State Space Models with Attention Mechanism]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15688</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.15689</link>
-      <description>&lt;![CDATA[BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models]]&gt;</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.15689</guid>
       <category>AI</category>
     </item>
   </channel>

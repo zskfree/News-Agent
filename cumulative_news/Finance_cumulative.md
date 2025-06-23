@@ -2,7 +2,18 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-23 01:00
+**最后更新时间**: 2025-06-23 08:17
+
+---
+
+## 🆕 最新更新 (2025-06-23 08:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock-market futures turn positive](https://www.marketwatch.com/bulletins/redirect/go?g=8bb9931b-5f07-4d82-8d7c-0efba74071d0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 07:32
+
+#### [S&P 500 futures on cusp of turning positive as European stock markets open](https://www.marketwatch.com/bulletins/redirect/go?g=06361222-9173-4033-a822-d8c43d1ed242&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 07:18
 
 ---
 
