@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Jun 2025 12:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 12:19:31 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 00:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 01:00:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>海螺新模型海外爆火：一夜之间，猫、羊驼、长颈鹿都学会跳水了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-22-6</link>
+      <description>&lt;![CDATA[海螺新模型海外爆火：一夜之间，猫、羊驼、长颈鹿都学会跳水了]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-22-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型到底是怎么「思考」的？第一篇系统性综述SAE的文章来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-22-5</link>
+      <description>&lt;![CDATA[大模型到底是怎么「思考」的？第一篇系统性综述SAE的文章来了]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 20:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-22-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Sam Altman提醒创业者：ChatGPT将来要做的，大家就绕开吧</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-22-4</link>
+      <description>&lt;![CDATA[Sam Altman提醒创业者：ChatGPT将来要做的，大家就绕开吧]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 20:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-22-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从RLHF、PPO到GRPO再训练推理模型，这是你需要的强化学习入门指南</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-22-3</link>
+      <description>&lt;![CDATA[从RLHF、PPO到GRPO再训练推理模型，这是你需要的强化学习入门指南]]&gt;</description>
+      <pubDate>Sun, 22 Jun 2025 20:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-22-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI can rehabilitate AI models that develop a “bad-boy persona”</title>
+      <link>https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/</link>
+      <description>&lt;![CDATA[OpenAI can rehabilitate AI models that develop a “bad-boy persona”]]&gt;</description>
+      <pubDate>Wed, 18 Jun 2025 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>开源版MetaQuery来了！OpenUni用1.1B参数媲美BLIP3-o-8B，数据代码完全开源</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-22-2</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[Unlocking Performance: Accelerating Pandas Operations with Polars]]&gt;</description>
       <pubDate>Wed, 18 Jun 2025 15:06:00 GMT</pubDate>
       <guid isPermaLink="true">https://machinelearningmastery.com/unlocking-performance-accelerating-pandas-operations-with-polars/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>推荐大模型来了？OneRec论文解读：端到端训练如何同时吃掉效果与成本</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-10</link>
-      <description>&lt;![CDATA[推荐大模型来了？OneRec论文解读：端到端训练如何同时吃掉效果与成本]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 20:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>何恺明CVPR最新讲座PPT上线：走向端到端生成建模</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-9</link>
-      <description>&lt;![CDATA[何恺明CVPR最新讲座PPT上线：走向端到端生成建模]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 20:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-9</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DPO与GRPO谁更胜一筹？港中文、北大等联合发布首个系统性对比研究</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-8</link>
-      <description>&lt;![CDATA[DPO与GRPO谁更胜一筹？港中文、北大等联合发布首个系统性对比研究]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 20:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>一句话管理上千台服务器，合合信息开源业内首个AI Agent云资源智能管理终端</title>
-      <link>https://www.jiqizhixin.com/articles/2025-06-19-7</link>
-      <description>&lt;![CDATA[一句话管理上千台服务器，合合信息开源业内首个AI Agent云资源智能管理终端]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-19-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Download: future grids, and bad boy bots</title>
-      <link>https://www.technologyreview.com/2025/06/19/1119059/the-download-future-grids-and-bad-boy-bots/</link>
-      <description>&lt;![CDATA[The Download: future grids, and bad boy bots]]&gt;</description>
-      <pubDate>Thu, 19 Jun 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/19/1119059/the-download-future-grids-and-bad-boy-bots/</guid>
       <category>AI</category>
     </item>
   </channel>

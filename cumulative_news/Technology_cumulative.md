@@ -2,7 +2,66 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-22 12:19
+**最后更新时间**: 2025-06-23 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-23 01:00)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [多家机构预测小米 YU7 定价 25 万元左右；美媒揭秘 1999 美元的「美国制造」手机；特斯拉 Robotaxi 正式上线](http://www.geekpark.net/news/350676)
+**发布时间**: 2025-06-23 08:46
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [潍柴雷沃，开着拖拉机冲港股](https://www.tmtpost.com/7604202.html)
+**发布时间**: 2025-06-23 08:45
+
+#### [荔枝大丰收却价格跳水，为啥谷贱伤农每次都会出现？](https://www.tmtpost.com/7604127.html)
+**发布时间**: 2025-06-23 08:41
+
+#### [白酒挤泡沫，压垮经销商](https://www.tmtpost.com/7604154.html)
+**发布时间**: 2025-06-23 08:39
+
+#### [金种子酒，醉酒但没戒酒](https://www.tmtpost.com/7604197.html)
+**发布时间**: 2025-06-23 08:29
+
+#### [科股早知道：中国微短剧市场规模首次超过全年电影票房收入](https://www.tmtpost.com/7604175.html)
+**发布时间**: 2025-06-23 08:12
+
+#### [【钛晨报】跨境支付通正式上线，两地居民可实时办理跨境汇款；据称英伟达计划在AI服务器生产线上部署人形机器人；华为20%收入做研发，中美竞争下加大投入](https://www.tmtpost.com/7604080.html)
+**发布时间**: 2025-06-23 07:20
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)
+**发布时间**: 2025-06-22 23:58
+
+#### [OpenAI and Jony Ive&#8217;s &#8216;io&#8217; brand has vanished, but their AI hardware deal remains](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
+**发布时间**: 2025-06-22 21:44
+
+#### [Weird-shaped notebooks make me want to write again](https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite)
+**发布时间**: 2025-06-22 14:00
+
+#### [What happens when AI comes for our fonts?](https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai)
+**发布时间**: 2025-06-22 13:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [What Satellite Images Reveal About the US Bombing of Iran's Nuclear Sites](https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/)
+**发布时间**: 2025-06-22 21:41
+
+#### [Tesla's Robotaxi Service Hits the Road in Texas](https://www.wired.com/story/tesla-robotaxi-service-launches-austin-texas/)
+**发布时间**: 2025-06-22 19:41
+
+#### [How to Clean Hearing Aids](https://www.wired.com/story/how-to-clean-hearing-aids/)
+**发布时间**: 2025-06-22 14:00
+
+#### [The 10 Best Greens Powders, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-greens-powders/)
+**发布时间**: 2025-06-22 13:35
+
+#### [Asus ROG Azoth X Review: A Space-Age Gaming Keyboard](https://www.wired.com/review/asus-rog-azoth-x/)
+**发布时间**: 2025-06-22 13:00
 
 ---
 

@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-22 04:23
+**最后更新时间**: 2025-06-23 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-23 01:00)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stock futures trim losses as oil prices moderate following U.S. strike on Iran](https://www.marketwatch.com/bulletins/redirect/go?g=d3a3c953-19f4-4656-a3b0-5cca98a1cf52&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 23:25
+
+#### [Dow futures down just 230 points as oil futures jump after U.S. bombs Iran](https://www.marketwatch.com/bulletins/redirect/go?g=81aece26-6482-42a8-a533-f79a26d3e82b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 22:07
+
+#### [Oil traders and global investors await Iran’s response to U.S. strike](https://www.marketwatch.com/bulletins/redirect/go?g=01a1c33b-62a5-4ae7-b71a-0d30718842c0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 21:38
+
+#### [6 questions investors should be asking as U.S. strikes Iran](https://www.marketwatch.com/bulletins/redirect/go?g=4ee05b5c-f5b6-4dae-8197-0aee3c61af10&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 20:08
+
+#### [Iran attacks and tariff fears are good reasons to rethink risks to stock market](https://www.marketwatch.com/bulletins/redirect/go?g=90592baf-9271-4d18-a228-e0ddd95ade3a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 19:20
+
+#### [Iran strikes and trade-war fears are good reasons to rethink investing risk](https://www.marketwatch.com/bulletins/redirect/go?g=fb96e80a-17b5-4236-94c0-6ca8e63f8c20&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-22 14:38
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla’s robotaxi launch is here. Here’s what it means for the stock.](https://www.marketwatch.com/story/teslas-robotaxi-launch-is-around-the-corner-heres-what-it-means-for-the-stock-f19dfdb0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-22 21:08
+
+#### [It isn’t just the Strait of Hormuz. Oil traders and global investors await Iran’s response to U.S. strike.](https://www.marketwatch.com/story/it-isnt-just-the-strait-of-hormuz-oil-traders-and-global-investors-await-irans-response-to-u-s-strike-8af36ac9?mod=mw_rss_topstories)
+**发布时间**: 2025-06-22 20:20
+
+#### [6 questions investors should be asking as U.S. strikes Iran](https://www.marketwatch.com/story/6-questions-investors-should-be-asking-as-u-s-strikes-iran-1497ff6a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-22 20:05
+
+#### [S&P 500 may be up in June, but Iran attacks and tariff fears are good reasons to rethink risk](https://www.marketwatch.com/story/s-p-500-is-up-in-june-but-are-stocks-worth-the-risk-amid-iran-attacks-and-tariff-fears-4008325d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-22 14:27
 
 ---
 
