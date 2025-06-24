@@ -2,7 +2,93 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 04:26
+**最后更新时间**: 2025-06-24 08:16
+
+---
+
+## 🆕 最新更新 (2025-06-24 08:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [6月24日A股分析：沪指重回3400点，创业板指大涨2.3%，主力资金大举进场，汽车零部件板块领涨](https://www.tmtpost.com/7606053.html)
+**发布时间**: 2025-06-24 15:43
+
+#### [DeepSeek与chatGPT应用大PK——我的实战体验报告](https://www.tmtpost.com/7605809.html)
+**发布时间**: 2025-06-24 15:22
+
+#### [餐饮+人工智能会带来哪些想象力？百胜中国发布首个餐厅营运智能体](https://www.tmtpost.com/7605015.html)
+**发布时间**: 2025-06-24 14:54
+
+#### [美团闪购携3万家闪电仓重仓即时零售，小象超市将覆盖所有一二线城市](https://www.tmtpost.com/7605744.html)
+**发布时间**: 2025-06-24 14:54
+
+#### [Apple's Long-Awaited Foldable iPhone Nears Mass Production](https://www.tmtpost.com/7605981.html)
+**发布时间**: 2025-06-24 14:29
+
+#### [2025全国市场扫描：国际高端酒店激战中国“西北角”](https://www.tmtpost.com/7605652.html)
+**发布时间**: 2025-06-24 13:33
+
+#### [Apple Reported to Discuss Acquiring Perplexity as Meta Once Mulls Takeover Before Scale AI Deal](https://www.tmtpost.com/7605902.html)
+**发布时间**: 2025-06-24 13:05
+
+#### [亚马逊2025会员日大促定档7月8日；Temu推“Temu Week”对标亚马逊会员日；伊以冲突致部分航线运费暴涨｜一周「出海参考」（06.16-06.22）](https://www.tmtpost.com/7605359.html)
+**发布时间**: 2025-06-24 12:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [百文心快码正式发布AI IDE，生成超43%百度新增代码](https://www.infoq.cn/article/UjVrrcyCLgOLVSmddO0C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 15:36
+
+#### [多模态模型如何架构选型？从 UNet 到 DiT+AR，智象未来潘滢炜：今年要触达物理世界的构建](https://www.infoq.cn/article/zFEZqV7KgWBraqDHaEla?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 15:32
+
+#### [字节张一鸣重回一线？消息人士：不存在；MiniMax被曝将赴港IPO；Ilya拒绝扎克伯格公司收购后其CEO被挖走 |AI周报](https://www.infoq.cn/article/RMmmmxr8YPXdlLoV9qip?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 15:30
+
+#### [视频剪辑AI智能体来了，短剧创作效率提升20倍以上](https://www.infoq.cn/article/W4IyuRkL6ZUCRdtVmles?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 15:19
+
+#### [AlphaWrite：通过进化迭代改进AI叙事能力](https://www.infoq.cn/article/a1j6cpcITWqxIv2LlX7S?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 15:00
+
+#### [OpenAI推出专注于可靠性的o3-pro模型，用户反馈褒贬不一](https://www.infoq.cn/article/R6kIv8SkD4uF6h0oeCJ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 13:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [东京迪士尼40年长盛不衰，多亏了这帮老年人……](http://www.huxiu.com/article/4501434.html?f=wangzhan)
+**发布时间**: 2025-06-24 15:06
+
+#### [操作减半，效率翻倍，华为新交互系统解析](http://www.huxiu.com/article/4496619.html?f=wangzhan)
+**发布时间**: 2025-06-24 13:40
+
+#### [“廉价快餐”沙县小吃，为何被捧上神坛？](http://www.huxiu.com/article/4498723.html?f=wangzhan)
+**发布时间**: 2025-06-24 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 上新｜3 秒钟，我用 YouWare，手搓了一个「Win98 版」极客公园](http://www.geekpark.net/news/350769)
+**发布时间**: 2025-06-24 12:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 工具穷鬼套餐：如何用每月 1 元立省 5000 元 AI 软件订阅费](https://sspai.com/post/100272)
+**发布时间**: 2025-06-24 11:31
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)
+**发布时间**: 2025-06-24 07:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
+**发布时间**: 2025-06-24 05:39
+
+#### [10% Home Depot Promo Codes & Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)
+**发布时间**: 2025-06-24 05:30
+
+#### [Tempur-Pedic Promo Codes: Up to $500 Off](https://www.wired.com/story/tempur-pedic-promo-code/)
+**发布时间**: 2025-06-24 05:00
 
 ---
 

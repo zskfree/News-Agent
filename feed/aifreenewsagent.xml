@@ -5,14 +5,62 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Jun 2025 04:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Jun 2025 04:26:54 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Jun 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Jun 2025 08:16:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>外国小哥徒手改装消费级5090，一举击败巨无霸RTX Pro 6000</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-24-8</link>
+      <description>&lt;![CDATA[外国小哥徒手改装消费级5090，一举击败巨无霸RTX Pro 6000]]&gt;</description>
+      <pubDate>Tue, 24 Jun 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-24-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>强化学习新发现：无需数学样本，仅游戏训练AI推理大增</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-24-7</link>
+      <description>&lt;![CDATA[强化学习新发现：无需数学样本，仅游戏训练AI推理大增]]&gt;</description>
+      <pubDate>Tue, 24 Jun 2025 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-24-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACL 2025 | 让小说角色 「活」起来！复旦BookWorld打造沉浸式小说世界模拟系统</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-24-6</link>
+      <description>&lt;![CDATA[ACL 2025 | 让小说角色 「活」起来！复旦BookWorld打造沉浸式小说世界模拟系统]]&gt;</description>
+      <pubDate>Tue, 24 Jun 2025 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-24-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>准确率72.46%！中南大学团队提出多源相似性融合模型MSSF，精准预测药物副作用频率</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-24-5</link>
+      <description>&lt;![CDATA[准确率72.46%！中南大学团队提出多源相似性融合模型MSSF，精准预测药物副作用频率]]&gt;</description>
+      <pubDate>Tue, 24 Jun 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-24-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI识别引起复杂疾病的关键基因组合，有望带来治疗新途径</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-24-4</link>
+      <description>&lt;![CDATA[AI识别引起复杂疾病的关键基因组合，有望带来治疗新途径]]&gt;</description>
+      <pubDate>Tue, 24 Jun 2025 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-24-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>预测大模型工业生存法则,华为博士告诉你什么是B端最需要的大模型</title>
+      <link>https://www.qbitai.com/2025/06/300430.html</link>
+      <description>&lt;![CDATA[预测大模型工业生存法则,华为博士告诉你什么是B端最需要的大模型]]&gt;</description>
+      <pubDate>Tue, 24 Jun 2025 07:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/300430.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>立体几何难倒大模型！SolidGeo：首个多模态立体几何推理基准</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-24-3</link>
@@ -363,54 +411,6 @@
       <description>&lt;![CDATA[A Large Language Model-based Multi-Agent Framework for Analog Circuits' Sizing Relationships Extraction]]&gt;</description>
       <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.18424</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models</title>
-      <link>https://arxiv.org/abs/2506.18428</link>
-      <description>&lt;![CDATA[How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18428</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance</title>
-      <link>https://arxiv.org/abs/2506.18511</link>
-      <description>&lt;![CDATA[Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18511</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Question Bank to Assess AI Inclusivity: Mapping out the Journey from Diversity Errors to Inclusion Excellence</title>
-      <link>https://arxiv.org/abs/2506.18538</link>
-      <description>&lt;![CDATA[A Question Bank to Assess AI Inclusivity: Mapping out the Journey from Diversity Errors to Inclusion Excellence]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18538</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent</title>
-      <link>https://arxiv.org/abs/2506.18559</link>
-      <description>&lt;![CDATA[T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18559</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Airalogy: AI-empowered universal data digitization for research automation</title>
-      <link>https://arxiv.org/abs/2506.18586</link>
-      <description>&lt;![CDATA[Airalogy: AI-empowered universal data digitization for research automation]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18586</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs</title>
-      <link>https://arxiv.org/abs/2506.18628</link>
-      <description>&lt;![CDATA[AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18628</guid>
       <category>AI</category>
     </item>
   </channel>
