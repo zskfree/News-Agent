@@ -2,7 +2,73 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 00:56
+**最后更新时间**: 2025-06-24 04:26
+
+---
+
+## 🆕 最新更新 (2025-06-24 04:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [罗马仕安克跌倒，小米吃饱？](https://www.tmtpost.com/7605635.html)
+**发布时间**: 2025-06-24 11:56
+
+#### [618之后，美团的零售牌局重排](https://www.tmtpost.com/7605849.html)
+**发布时间**: 2025-06-24 11:56
+
+#### [Tesla Shares Soar Over 8% after Robotaxi Service Kicks off in Texas](https://www.tmtpost.com/7605834.html)
+**发布时间**: 2025-06-24 11:35
+
+#### [China Closes Gap With U.S. in Brain-Computer Interface Race as Rivalry Heats Up](https://www.tmtpost.com/7605778.html)
+**发布时间**: 2025-06-24 10:54
+
+#### [EU Could Have to Extend Trade Talks Beyond the July Deadline as U.S. Said to Demand Unbalanced Concessions](https://www.tmtpost.com/7605733.html)
+**发布时间**: 2025-06-24 10:18
+
+#### [AI App 2024年赚了12亿美元、接近翻番，哪些用户开始给AI氪金了？](https://www.tmtpost.com/7605395.html)
+**发布时间**: 2025-06-24 10:15
+
+#### [家电江湖的权力游戏：流量、偏执、野心与棋局](https://www.tmtpost.com/7605456.html)
+**发布时间**: 2025-06-24 09:54
+
+#### [新品发布，AMD能否挑战英伟达？](https://www.tmtpost.com/7605226.html)
+**发布时间**: 2025-06-24 09:53
+
+#### [特斯拉Robotaxi正式上线，无人驾驶出租车市场最大变量来了？](https://www.tmtpost.com/7605372.html)
+**发布时间**: 2025-06-24 09:20
+
+#### [果汁巨头拟购买电子院控股权，跨界电子信息产业；汕头亏损股拟收购物联网独角兽企业【并购一线】](https://www.tmtpost.com/7605429.html)
+**发布时间**: 2025-06-24 09:06
+
+#### [零售还不是库迪咖啡的“方糖”](https://www.tmtpost.com/7605381.html)
+**发布时间**: 2025-06-24 08:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Tripadvisor将其SwiftUI应用迁移到可组合架构的历程](https://www.infoq.cn/article/as7PQdjHS1aWggiFl8t9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 11:00
+
+#### [GitHub 首席执行官：尽管 AI 蓬勃发展，但手动编码仍然是关键](https://www.infoq.cn/article/c8ziJXogR6W858vX0N65?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 10:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军：将发布面向下一个时代的智能设备；特斯拉无人出租车安全问题引发关注；微信新版语音界面「丑」上热搜 | 极客早知道](http://www.geekpark.net/news/350743)
+**发布时间**: 2025-06-24 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：QQ 超级会员话费会员业务终止，联发科发布天玑 8450 芯片等](https://sspai.com/post/100506)
+**发布时间**: 2025-06-24 08:27
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
+**发布时间**: 2025-06-24 02:49
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [OpenAI’s first AI device with Jony Ive won’t be a wearable](https://www.theverge.com/openai/691737/openai-jony-ive-chatgpt-io-ai-device-wearable-headphone-lyo-lawsuit)
+**发布时间**: 2025-06-24 02:01
 
 ---
 
