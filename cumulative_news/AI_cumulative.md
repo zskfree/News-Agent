@@ -2,7 +2,43 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 08:16
+**最后更新时间**: 2025-06-24 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-24 12:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [众所周知视频不能P？北大施柏鑫团队、贝式计算CVPR研究：视频里轻松换衣服、加柯基](https://www.jiqizhixin.com/articles/2025-06-24-12)
+**发布时间**: 2025-06-24 17:59
+
+#### [千里科技公布面向L3级、L4级别智驾方案全景路线图](https://www.jiqizhixin.com/articles/2025-06-24-11)
+**发布时间**: 2025-06-24 14:29
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Namibia’s hydrogen hopes, and fixing AI evaluation](https://www.technologyreview.com/2025/06/24/1119282/the-download-namibias-hydrogen-hopes-and-fixing-ai-evaluation/)
+**发布时间**: 2025-06-24 12:10
+
+#### [The Anthropocene illusion](https://www.technologyreview.com/2025/06/24/1118442/zed-nelson-photography-nature-curation/)
+**发布时间**: 2025-06-24 10:00
+
+#### [Namibia wants to build the world’s first hydrogen economy](https://www.technologyreview.com/2025/06/24/1118433/namibia-world-first-hydrogen-economy-wind-solar-power/)
+**发布时间**: 2025-06-24 09:00
+
+#### [Can we fix AI’s evaluation crisis?](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/)
+**发布时间**: 2025-06-24 08:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OceanBase AI新进展：OB Cloud服务数十家头部企业AI应用落地](https://www.qbitai.com/2025/06/300506.html)
+**发布时间**: 2025-06-24 09:36
+
+#### [灵快科技获数百万元天使轮融资，发布能自主进化的AI数据分析师TabTab](https://www.qbitai.com/2025/06/300499.html)
+**发布时间**: 2025-06-24 09:25
+
+#### [老年人12周才有效，年轻人一次就够：科学家揭示丢失的运动激素](https://www.qbitai.com/2025/06/300468.html)
+**发布时间**: 2025-06-24 08:05
 
 ---
 

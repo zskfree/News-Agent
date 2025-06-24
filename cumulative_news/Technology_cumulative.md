@@ -2,7 +2,139 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 08:16
+**最后更新时间**: 2025-06-24 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-24 12:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI正在淘汰“中间层”！昆仑万维方汉：要么冲进前10%，要么学会“向下兼容”](https://www.infoq.cn/article/Qq9AVYxdgpyN94xspqIb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 19:11
+
+#### [AWS Shield Network Security Director：网络拓扑可见性和补救指南](https://www.infoq.cn/article/v2YP574lF8EoyOBYg5vs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 19:00
+
+#### [TC39提出了九个JavaScript建议，包括Array.fromAsync、Error.isError和using](https://www.infoq.cn/article/oDXmdi6xvsqbPgNQzTOG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 17:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [子公司拟豪掷1.6亿元改扩建西藏酒庄，天佑德酒业绩下滑仍加码对外投资](https://www.tmtpost.com/7606313.html)
+**发布时间**: 2025-06-24 19:00
+
+#### [光刻技术，走下 “神坛”](https://www.tmtpost.com/7606246.html)
+**发布时间**: 2025-06-24 18:49
+
+#### [微软广告业务宣布DSP停服，围墙花园阵营又壮大了？](https://www.tmtpost.com/7606255.html)
+**发布时间**: 2025-06-24 18:49
+
+#### [Robotaxi再添新玩家：哈啰出行下场，蚂蚁宁德抬轿](https://www.tmtpost.com/7606264.html)
+**发布时间**: 2025-06-24 18:49
+
+#### [即时零售，怎么就升级成了大厂主战场？](https://www.tmtpost.com/7606285.html)
+**发布时间**: 2025-06-24 18:49
+
+#### [数读「电解质饮料」：高温热浪来袭，专业补水再爆发](https://www.tmtpost.com/7606041.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [争夺大消费入口：阿里、京东、美团越来越像](https://www.tmtpost.com/7605999.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [中国SaaS，挺进AI时代](https://www.tmtpost.com/7606244.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [本地生活新阶段：京东阿里卷时效，字节卷“智商”？](https://www.tmtpost.com/7606026.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [瑞士信息与通信科技公司Morgen研发AI驱动的时间管理软件，提升时间与任务管理效率 | 瑞士创新100强](https://www.tmtpost.com/7606005.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [从十倍溢价到价格腰斩，Labubu发生了什么？](https://www.tmtpost.com/7605923.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [Circle股价暴涨背后，《天才法案》如何重塑稳定币格局](https://www.tmtpost.com/7605861.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [AI宠物，让VC和用户集体“上头”？](https://www.tmtpost.com/7606130.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [有人帮张一鸣投了宇树](https://www.tmtpost.com/7605312.html)
+**发布时间**: 2025-06-24 18:34
+
+#### [文化叙事、情感共鸣……让文旅创造持久意义和价值](https://www.tmtpost.com/7605860.html)
+**发布时间**: 2025-06-24 18:17
+
+#### [信濠光电：欲借关联方解套亏损包袱，密集扩产反噬触发连锁风险](https://www.tmtpost.com/7606125.html)
+**发布时间**: 2025-06-24 17:27
+
+#### [飞马国际筹谋易主股价涨停！刘永好摆不平的，漳州国资就能行？](https://www.tmtpost.com/7606188.html)
+**发布时间**: 2025-06-24 17:24
+
+#### [对中美“互联网第二梯队”的一点浅见](https://www.tmtpost.com/7605821.html)
+**发布时间**: 2025-06-24 16:21
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [商场里的谷子店战争，现在怎么样了？](http://www.huxiu.com/article/4447608.html?f=wangzhan)
+**发布时间**: 2025-06-24 18:08
+
+#### [Circle暴涨，巨头涌入稳定币赛道](http://www.huxiu.com/article/4497942.html?f=wangzhan)
+**发布时间**: 2025-06-24 15:40
+
+#### [东北酒王攻占全国，13元白酒里的60亿生意经](http://www.huxiu.com/article/4496622.html?f=wangzhan)
+**发布时间**: 2025-06-24 15:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 098 | 一周热评、派友最爱的口碑改编剧、社区文章与新玩意](https://sspai.com/post/100523)
+**发布时间**: 2025-06-24 17:33
+
+#### [小岛秀夫的故事继续：《死亡搁浅 2：冥滩》初见感受](https://sspai.com/post/100511)
+**发布时间**: 2025-06-24 15:24
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [AT&#038;T is making it easier to send pictures to 911 dispatchers](https://www.theverge.com/news/691860/att-911-esinet-emergency-picture-video-messages)
+**发布时间**: 2025-06-24 12:15
+
+#### [Google Earth adds old Street View captures to rewind time from the street level](https://www.theverge.com/news/691525/google-earth-historical-street-view-imagery)
+**发布时间**: 2025-06-24 12:00
+
+#### [How AI infiltrated perfume](https://www.theverge.com/ai-artificial-intelligence/691050/perfume-ai)
+**发布时间**: 2025-06-24 11:00
+
+#### [Waymo’s robotaxis are now available on the Uber app in Atlanta](https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch)
+**发布时间**: 2025-06-24 11:00
+
+#### [Verizon adopts Google’s Gemini AI to help customers solve ‘complex’ issues](https://www.theverge.com/news/691810/verizon-google-gemini-ai-chatbot-customer-service)
+**发布时间**: 2025-06-24 10:27
+
+#### [Riot is shutting down studio behind its Minecraft-like game](https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure)
+**发布时间**: 2025-06-24 09:25
+
+#### [Windows 11’s indicators for volume and brightness can soon be moved out of the way](https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization)
+**发布时间**: 2025-06-24 09:16
+
+#### [Yale’s new Google Home smart lock now costs more thanks to tariffs](https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs)
+**发布时间**: 2025-06-24 00:02
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [10 Best Electrolyte Powders (2025): Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
+**发布时间**: 2025-06-24 12:01
+
+#### [TCL 60 XE Nxtpaper 5G Review: A Pleasing Matte Screen](https://www.wired.com/review/tcl-60-xe-nxtpaper-5g/)
+**发布时间**: 2025-06-24 11:33
+
+#### [This Is Why High-End Electric Cars Are Failing](https://www.wired.com/story/this-is-why-high-end-electric-cars-are-failing/)
+**发布时间**: 2025-06-24 11:00
+
+#### [The Methaphone Is a Phone (That’s Not a Phone) to Help You Stop Using Your Phone](https://www.wired.com/story/methaphone-smartphone-addiction/)
+**发布时间**: 2025-06-24 10:00
+
+#### [Google Wants to Get Better at Spotting Wildfires From Space](https://www.wired.com/story/google-earth-fire-alliance-spotting-wildfires-from-space/)
+**发布时间**: 2025-06-24 09:30
 
 ---
 
