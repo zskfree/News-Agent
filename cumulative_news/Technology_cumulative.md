@@ -2,7 +2,91 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-23 12:23
+**最后更新时间**: 2025-06-24 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-24 00:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [长安汽车拆分软件公司，千亿研发投入如何拧成一股绳](https://www.tmtpost.com/7605434.html)
+**发布时间**: 2025-06-24 08:40
+
+#### [困在智能客服里的人](https://www.tmtpost.com/7605310.html)
+**发布时间**: 2025-06-24 08:20
+
+#### [科股早知道：产能释放叠加规模化效应，这类材料应用场景不断拓展](https://www.tmtpost.com/7605529.html)
+**发布时间**: 2025-06-24 08:00
+
+#### [即时零售“奇袭”618](https://www.tmtpost.com/7605339.html)
+**发布时间**: 2025-06-24 07:53
+
+#### [【钛晨报】李强签署国务院令，公布《互联网平台企业涉税信息报送规定》；特斯拉无人驾驶出租车美国得州试上路；电耗下降40%，家用电冰箱新标准2026年6月起正式实施](https://www.tmtpost.com/7605374.html)
+**发布时间**: 2025-06-24 07:20
+
+#### [卖资产帮父还债？王思聪交棒何猷君 | 马上评](https://www.tmtpost.com/7605513.html)
+**发布时间**: 2025-06-24 06:53
+
+#### [特斯拉上线Robotaxi：十年押注AI商业化的第一枪｜钛度车库](https://www.tmtpost.com/7604836.html)
+**发布时间**: 2025-06-23 20:15
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Yale’s new Google Home smart lock is here — but it costs more thanks to tariffs](https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs)
+**发布时间**: 2025-06-24 00:02
+
+#### [Samsung confirms Unpacked for early July](https://www.theverge.com/news/691662/samsung-unpacked-july-ultra-foldable)
+**发布时间**: 2025-06-23 23:00
+
+#### [T-Mobile’s satellite service officially launches in July](https://www.theverge.com/tech/691521/t-mobile-satellite-service-starlink-launch-date)
+**发布时间**: 2025-06-23 22:57
+
+#### [Nintendo’s GameCube controller for the Switch 2 is available once again](https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock)
+**发布时间**: 2025-06-23 22:51
+
+#### [Phew: Apple fixed the Finder icon in macOS Tahoe 26](https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta)
+**发布时间**: 2025-06-23 22:13
+
+#### [The Steam Deck OLED is back in stock](https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock)
+**发布时间**: 2025-06-23 21:51
+
+#### [Trump&#8217;s FTC will approve an ad merger — with a gift to Elon Musk’s X](https://www.theverge.com/policy/691520/ftc-omnicom-interpublic-group-merger-advertiser-boycott-political-ideology)
+**发布时间**: 2025-06-23 20:48
+
+#### [Hue’s new smart button is bigger and more expensive](https://www.theverge.com/news/691430/philips-hue-smart-button-price-specs-release-date)
+**发布时间**: 2025-06-23 20:41
+
+#### [Apple heard your complaints about the Liquid Glass Control Center](https://www.theverge.com/news/691540/apple-ios-26-liquid-glass-control-center-fixed-beta)
+**发布时间**: 2025-06-23 20:34
+
+#### [New York’s getting a new nuclear power plant](https://www.theverge.com/news/691431/nuclear-power-plant-new-york-advanced-reactor)
+**发布时间**: 2025-06-23 19:45
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Scientists Are Sending Cannabis Seeds to Space](https://www.wired.com/story/scientists-sending-cannabis-seeds-space-weed/)
+**发布时间**: 2025-06-23 20:16
+
+#### [Mattress Encasement vs. Mattress Protector](https://www.wired.com/story/mattress-protector-vs-mattress-encasement/)
+**发布时间**: 2025-06-23 19:02
+
+#### [Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’](https://www.wired.com/story/elon-musk-computer-sam-altman/)
+**发布时间**: 2025-06-23 17:24
+
+#### [Telegram Purged Chinese Crypto Scam Markets—Then Watched as They Rebuilt](https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/)
+**发布时间**: 2025-06-23 16:48
+
+#### [Donald Trump and Sean Hannity Set Off a Wave of Disinformation After Iran Bombing](https://www.wired.com/story/donald-trump-sean-hannity-disinformation-iran-bombing/)
+**发布时间**: 2025-06-23 15:33
+
+#### [International Nuclear Watchdog Issues Stark Warning in Wake of US Iran Strikes](https://www.wired.com/story/international-nuclear-watchdog-warning-iran-strikes/)
+**发布时间**: 2025-06-23 15:08
+
+#### [China’s Electric-Vehicle Factories Have Become Tourist Hot Spots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)
+**发布时间**: 2025-06-23 10:30
+
+#### [Tesla’s Robotaxi Service Hits the Road in Texas](https://www.wired.com/story/tesla-robotaxi-service-launches-austin-texas/)
+**发布时间**: 2025-06-22 19:41
 
 ---
 

@@ -2,7 +2,51 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-23 12:23
+**最后更新时间**: 2025-06-24 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-24 00:56)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking rich genetic insights through multimodal AI with M-REGLE](https://research.google/blog/unlocking-rich-genetic-insights-through-multimodal-ai-with-m-regle/)
+**发布时间**: 2025-06-23 20:30
+
+#### [A colorful quantum future](https://research.google/blog/a-colorful-quantum-future/)
+**发布时间**: 2025-06-23 12:22
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [A Chinese firm has just launched a constantly changing set of AI benchmarks](https://www.technologyreview.com/2025/06/23/1119190/chinese-changing-ai-benchmarks/)
+**发布时间**: 2025-06-23 15:46
+
+#### [Scaling integrated digital health](https://www.technologyreview.com/2025/06/23/1119009/scaling-integrated-digital-health/)
+**发布时间**: 2025-06-23 13:19
+
+#### [The Download: the Vera C. Rubin Observatory’s first pictures, and reframing privacy](https://www.technologyreview.com/2025/06/23/1119166/the-download-the-vera-c-rubin-observatorys-first-pictures-and-reframing-privacy/)
+**发布时间**: 2025-06-23 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蚂蚁开源轻量级推理模型Ring-lite，多项Benchmark达到SOTA](https://www.qbitai.com/2025/06/300253.html)
+**发布时间**: 2025-06-23 13:22
+
+#### [建圈强链，2025高成长企业CEO大会在绵阳成功举办](https://www.qbitai.com/2025/06/300246.html)
+**发布时间**: 2025-06-23 13:01
+
+#### [阿里云推出自动驾驶模型训练推理加速框架，训练时间可缩短50%](https://www.qbitai.com/2025/06/300225.html)
+**发布时间**: 2025-06-23 12:58
+
+#### [冠军队独享200w？这波是冲大学生来的，超千支队伍已组队报名](https://www.qbitai.com/2025/06/300182.html)
+**发布时间**: 2025-06-23 12:52
+
+#### [具身智能创业来了位浙大博导，机器人会飞，VC抢着投](https://www.qbitai.com/2025/06/300200.html)
+**发布时间**: 2025-06-23 12:27
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [LLMs factor in unrelated information when recommending medical treatments](https://news.mit.edu/2025/llms-factor-unrelated-information-when-recommending-medical-treatments-0623)
+**发布时间**: 2025-06-23 00:00
 
 ---
 

@@ -2,7 +2,71 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-23 12:23
+**最后更新时间**: 2025-06-24 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-24 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hims & Hers’ stock plunges. Here’s why Wegovy parent ended its partnership with the company.](https://www.marketwatch.com/story/hims-hers-stock-plunges-heres-why-wegovy-parent-ended-its-partnership-with-the-company-045b690a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 00:14
+
+#### [Trump’s Iran strike is a major win for your stock portfolio. Here’s how to play it.](https://www.marketwatch.com/story/howtrumps-iran-strike-just-made-your-stock-portfolio-great-again-777817ae?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 23:34
+
+#### [FedEx’s earnings are due. Here’s why analysts aren’t expecting much.](https://www.marketwatch.com/story/fedexs-earnings-are-due-heres-why-analysts-arent-expecting-much-74b4017b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 23:11
+
+#### [Treasury yields are falling as investors now see a possible July interest-rate cut by the Fed](https://www.marketwatch.com/story/treasury-yields-are-falling-as-investors-now-see-a-possible-july-interest-rate-cut-by-the-fed-62f2c6bf?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 23:04
+
+#### [Here’s how to ditch your restrictive 401(k) plan and pick your own investments](https://www.marketwatch.com/story/heres-how-to-ditch-your-restrictive-401-k-plan-and-pick-your-own-investments-f3299a7b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 22:56
+
+#### [WNBA star Caitlin Clark reveals the $10 luxury she won’t pay for: ‘I’m a little cheap’](https://www.marketwatch.com/story/wnba-star-caitlin-clark-reveals-the-10-luxury-she-wont-pay-for-im-a-little-cheap-734cde07?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 22:28
+
+#### [Some Carnival Cruise regulars say they’re jumping ship. Why Wall Street isn’t worried.](https://www.marketwatch.com/story/some-carnival-cruise-regulars-say-theyre-jumping-ship-why-wall-street-isnt-worried-45d1f064?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 22:08
+
+#### [How long is the wait for Social Security customer service? No one knows.](https://www.marketwatch.com/story/how-long-is-the-wait-for-social-security-customer-service-no-one-knows-8886e497?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 21:55
+
+#### [We’re living in ‘end times’ when you can’t retire on $1 million](https://www.marketwatch.com/story/were-living-in-end-times-when-you-cant-retire-on-1-million-99df4402?mod=mw_rss_topstories)
+**发布时间**: 2025-06-23 21:46
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Treasury yields are falling as investors now see a possible July Fed rate cut](https://www.marketwatch.com/bulletins/redirect/go?g=a6ca5db2-7490-4ad6-aa14-903a6224b864&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 23:09
+
+#### [Shipping costs through the Strait of Hormuz are up. What if Iran closes it off?](https://www.marketwatch.com/bulletins/redirect/go?g=ea71bbba-4b36-4d80-8f93-aa8ae9854017&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 21:45
+
+#### [Why oil fell and stocks rallied after Iran’s ‘symbolic’ missile attack on Qatar](https://www.marketwatch.com/bulletins/redirect/go?g=9fb67506-54ee-4cb6-b915-e8ebf475a9bb&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 20:42
+
+#### [U.S. stocks end on strong gains as investors brush off Iran's retaliatory strike](https://www.marketwatch.com/bulletins/redirect/go?g=342415b1-53d9-4ffe-9b76-62e6a19e581b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 20:03
+
+#### [Tesla's stock soars as robotaxi-fueled rally makes Musk $12 billion richer](https://www.marketwatch.com/bulletins/redirect/go?g=79aa0904-fa39-43c3-b518-d614ca30db77&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 19:42
+
+#### [Dow up 300 points, oil down 7% as investors brush off Iran fears — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=1974d5b3-642f-48d3-86d6-0b051f094392&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 19:15
+
+#### [Fed interest-rate cut in July gains support. What does Powell think?](https://www.marketwatch.com/bulletins/redirect/go?g=a0fca4fc-96c4-4eba-b75c-f3c051d8b211&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 18:55
+
+#### [A U.S. strike on Iran wasn’t enough to rattle markets. Here’s what could.](https://www.marketwatch.com/bulletins/redirect/go?g=1a871e34-8dab-4483-97e0-7fea299b193e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 18:14
+
+#### [Home sales remain sluggish as some ‘stubborn sellers’ refuse to give in on price](https://www.marketwatch.com/bulletins/redirect/go?g=e232a150-ade6-4593-bdd0-b3dd9c6fe2a7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 16:08
+
+#### [Surveys show an economy that’s weaker but still growing](https://www.marketwatch.com/bulletins/redirect/go?g=7cf50074-7d40-4c98-9c86-99c893534d27&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-23 14:54
 
 ---
 
