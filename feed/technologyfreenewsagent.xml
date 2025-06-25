@@ -5,14 +5,190 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Jun 2025 04:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 04:22:42 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 08:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 08:21:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>探秘TDSQL TDStore：分布式KV存储引擎核心技术架构与优化之道</title>
+      <link>https://www.infoq.cn/video/11kVBkAqtRESRZPwLQIP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[探秘TDSQL TDStore：分布式KV存储引擎核心技术架构与优化之道]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/11kVBkAqtRESRZPwLQIP?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>TDSQL PG版本“开挂”：分布式性能飙升，攻克扩展性优化难题</title>
+      <link>https://www.infoq.cn/video/0QE5rKsbpaYYldRg9piQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TDSQL PG版本“开挂”：分布式性能飙升，攻克扩展性优化难题]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/0QE5rKsbpaYYldRg9piQ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>弃Python拥抱JVM，Spring之父20年后再造“革命性框架”：我从未如此确信一个新项目的必要性</title>
+      <link>https://www.infoq.cn/article/3ezS1yOViwKH7Y2VtAFK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[弃Python拥抱JVM，Spring之父20年后再造“革命性框架”：我从未如此确信一个新项目的必要性]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3ezS1yOViwKH7Y2VtAFK?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Claude Code通过流式HTTP获得对远程MCP服务器的支持</title>
+      <link>https://www.infoq.cn/article/az6CGm0GRRsjoIPVEZFs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code通过流式HTTP获得对远程MCP服务器的支持]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/az6CGm0GRRsjoIPVEZFs?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌将 A2A 捐赠给 Linux 基金会，但代码实现还得靠开发者自己？！</title>
+      <link>https://www.infoq.cn/article/G4riFz1zKb0QcSYEH07u?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌将 A2A 捐赠给 Linux 基金会，但代码实现还得靠开发者自己？！]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 13:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/G4riFz1zKb0QcSYEH07u?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全球钴产业暴涨背后的出口是什么？</title>
+      <link>https://www.tmtpost.com/7606088.html</link>
+      <description>&lt;![CDATA[全球钴产业暴涨背后的出口是什么？]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606088.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>腾讯光子的MMO手游，成也还原，败也还原</title>
+      <link>https://www.tmtpost.com/7606708.html</link>
+      <description>&lt;![CDATA[腾讯光子的MMO手游，成也还原，败也还原]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606708.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ADC会成为PD-1的新答案吗？</title>
+      <link>https://www.tmtpost.com/7606777.html</link>
+      <description>&lt;![CDATA[ADC会成为PD-1的新答案吗？]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606777.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>星巴克中国要卖了，瑞幸却把9.9咖啡带进纽约</title>
+      <link>https://www.tmtpost.com/7606778.html</link>
+      <description>&lt;![CDATA[星巴克中国要卖了，瑞幸却把9.9咖啡带进纽约]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606778.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>商汤高管出走，干出200亿AI独角兽……</title>
+      <link>https://www.tmtpost.com/7607031.html</link>
+      <description>&lt;![CDATA[商汤高管出走，干出200亿AI独角兽……]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7607031.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Hello Mobility, Ant Group, and CATL Unite in High-Stakes Robotaxi Push</title>
+      <link>https://www.tmtpost.com/7607050.html</link>
+      <description>&lt;![CDATA[Hello Mobility, Ant Group, and CATL Unite in High-Stakes Robotaxi Push]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7607050.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>6月25日A股分析：三大指数集体上涨，两市合计成交16027.89亿元，资金流入最多的行业板块为证券、软件开发</title>
+      <link>https://www.tmtpost.com/7607017.html</link>
+      <description>&lt;![CDATA[6月25日A股分析：三大指数集体上涨，两市合计成交16027.89亿元，资金流入最多的行业板块为证券、软件开发]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7607017.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>树兰医疗郑杰：计算医学终极目标是“生命仿真”，AI未来医院要朝无界化发展</title>
+      <link>https://www.tmtpost.com/7606839.html</link>
+      <description>&lt;![CDATA[树兰医疗郑杰：计算医学终极目标是“生命仿真”，AI未来医院要朝无界化发展]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606839.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Tesla Stock Dips as Robotaxi Incidents on U.S. Regulators' Radar</title>
+      <link>https://www.tmtpost.com/7606951.html</link>
+      <description>&lt;![CDATA[Tesla Stock Dips as Robotaxi Incidents on U.S. Regulators' Radar]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606951.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>voco门店破百，国内占2成，本土存量高端酒店最优解是谁？</title>
+      <link>https://www.tmtpost.com/7606676.html</link>
+      <description>&lt;![CDATA[voco门店破百，国内占2成，本土存量高端酒店最优解是谁？]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606676.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI替代程序员？一项最新测试的结果恰恰相反 | 企服国际观察</title>
+      <link>https://www.tmtpost.com/7606883.html</link>
+      <description>&lt;![CDATA[AI替代程序员？一项最新测试的结果恰恰相反 | 企服国际观察]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606883.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>EU Reported to Prepare for New Counter-Tariffs on U.S. to Push for Better Trade Deal</title>
+      <link>https://www.tmtpost.com/7606901.html</link>
+      <description>&lt;![CDATA[EU Reported to Prepare for New Counter-Tariffs on U.S. to Push for Better Trade Deal]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606901.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中年旺旺，还在拼</title>
+      <link>https://www.tmtpost.com/7606631.html</link>
+      <description>&lt;![CDATA[中年旺旺，还在拼]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606631.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>莎莎大撤退，美妆集合店变阵？</title>
+      <link>https://www.tmtpost.com/7606626.html</link>
+      <description>&lt;![CDATA[莎莎大撤退，美妆集合店变阵？]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606626.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微信小店，悄悄推出新功能</title>
+      <link>https://www.tmtpost.com/7606748.html</link>
+      <description>&lt;![CDATA[微信小店，悄悄推出新功能]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7606748.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南</title>
+      <link>https://sspai.com/post/99296</link>
+      <description>&lt;![CDATA[柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/99296</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>四十年前的 Magic Keyboard，今天还能用来写稿吗？</title>
+      <link>https://sspai.com/post/100237</link>
+      <description>&lt;![CDATA[四十年前的 Magic Keyboard，今天还能用来写稿吗？]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100237</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>亚马逊云科技通过GuardDuty为EKS引入了扩展威胁检测</title>
       <link>https://www.infoq.cn/article/QMeNGHbtBrTNzl7Zk0FD?utm_source=rss&amp;utm_medium=article</link>
@@ -235,182 +411,6 @@
       <description>&lt;![CDATA[The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen]]&gt;</description>
       <pubDate>Tue, 24 Jun 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used</title>
-      <link>https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale</link>
-      <description>&lt;![CDATA[This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Apple Wallet notifications for an F1 movie promotion ticked off iPhone owners</title>
-      <link>https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad</link>
-      <description>&lt;![CDATA[Apple Wallet notifications for an F1 movie promotion ticked off iPhone owners]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Paramount Plus with Showtime is getting a rebrand</title>
-      <link>https://www.theverge.com/streaming-wars/692159/paramount-plus-premium-showtime</link>
-      <description>&lt;![CDATA[Paramount Plus with Showtime is getting a rebrand]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/streaming-wars/692159/paramount-plus-premium-showtime</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Netflix is letting go of some of its best indie games</title>
-      <link>https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy</link>
-      <description>&lt;![CDATA[Netflix is letting go of some of its best indie games]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Hideo Kojima sees Death Stranding 2 as a cautionary tale</title>
-      <link>https://www.theverge.com/games/691570/hideo-kojima-death-stranding-2</link>
-      <description>&lt;![CDATA[Hideo Kojima sees Death Stranding 2 as a cautionary tale]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/691570/hideo-kojima-death-stranding-2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小米小爱同学：资源受限下，实现端侧大模型的高性能推理</title>
-      <link>https://www.infoq.cn/article/wIQuyt3je0dqIRdDWzQm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[小米小爱同学：资源受限下，实现端侧大模型的高性能推理]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 22:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wIQuyt3je0dqIRdDWzQm?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>‘Big Balls’ No Longer Works for the US Government</title>
-      <link>https://www.wired.com/story/big-balls-coristine-doge-resigned-us-government/</link>
-      <description>&lt;![CDATA[‘Big Balls’ No Longer Works for the US Government]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 21:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/big-balls-coristine-doge-resigned-us-government/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The 42 Best Movies on Hulu This Week (July 2025)</title>
-      <link>https://www.wired.com/story/best-movies-hulu-right-now/</link>
-      <description>&lt;![CDATA[The 42 Best Movies on Hulu This Week (July 2025)]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/best-movies-hulu-right-now/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions</title>
-      <link>https://www.wired.com/gallery/the-best-lip-balms/</link>
-      <description>&lt;![CDATA[5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 18:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/the-best-lip-balms/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Anthropic Scores a Landmark AI Copyright Win—but Will Face Trial Over Piracy Claims</title>
-      <link>https://www.wired.com/story/anthropic-ai-copyright-fair-use-piracy-ruling/</link>
-      <description>&lt;![CDATA[Anthropic Scores a Landmark AI Copyright Win—but Will Face Trial Over Piracy Claims]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/anthropic-ai-copyright-fair-use-piracy-ruling/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>34 Viral TikTok Gifts That Are Actually Worth a Look (2025)</title>
-      <link>https://www.wired.com/gallery/best-viral-tiktok-gadgets/</link>
-      <description>&lt;![CDATA[34 Viral TikTok Gifts That Are Actually Worth a Look (2025)]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-viral-tiktok-gadgets/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The 5 Best Essential Oil Diffusers (and One to Avoid)</title>
-      <link>https://www.wired.com/gallery/best-essential-oil-diffusers/</link>
-      <description>&lt;![CDATA[The 5 Best Essential Oil Diffusers (and One to Avoid)]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-essential-oil-diffusers/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The Groove Thing Is a Bluetooth Speaker and Vibrator Combo, Because Why Not?</title>
-      <link>https://www.wired.com/story/the-groove-thing-is-a-bluetooth-speaker-and-vibrator-combo-because-why-not/</link>
-      <description>&lt;![CDATA[The Groove Thing Is a Bluetooth Speaker and Vibrator Combo, Because Why Not?]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/the-groove-thing-is-a-bluetooth-speaker-and-vibrator-combo-because-why-not/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?</title>
-      <link>https://www.wired.com/gallery/best-kindle/</link>
-      <description>&lt;![CDATA[The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 12:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-kindle/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>BBA放弃挣扎</title>
-      <link>http://www.huxiu.com/article/4503052.html?f=wangzhan</link>
-      <description>&lt;![CDATA[BBA放弃挣扎]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 20:57:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4503052.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI正在淘汰“中间层”！昆仑万维方汉：要么冲进前10%，要么学会“向下兼容”</title>
-      <link>https://www.infoq.cn/article/Qq9AVYxdgpyN94xspqIb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI正在淘汰“中间层”！昆仑万维方汉：要么冲进前10%，要么学会“向下兼容”]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Qq9AVYxdgpyN94xspqIb?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AWS Shield Network Security Director：网络拓扑可见性和补救指南</title>
-      <link>https://www.infoq.cn/article/v2YP574lF8EoyOBYg5vs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AWS Shield Network Security Director：网络拓扑可见性和补救指南]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/v2YP574lF8EoyOBYg5vs?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>TC39提出了九个JavaScript建议，包括Array.fromAsync、Error.isError和using</title>
-      <link>https://www.infoq.cn/article/oDXmdi6xvsqbPgNQzTOG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TC39提出了九个JavaScript建议，包括Array.fromAsync、Error.isError和using]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oDXmdi6xvsqbPgNQzTOG?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>子公司拟豪掷1.6亿元改扩建西藏酒庄，天佑德酒业绩下滑仍加码对外投资</title>
-      <link>https://www.tmtpost.com/7606313.html</link>
-      <description>&lt;![CDATA[子公司拟豪掷1.6亿元改扩建西藏酒庄，天佑德酒业绩下滑仍加码对外投资]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7606313.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>光刻技术，走下 “神坛”</title>
-      <link>https://www.tmtpost.com/7606246.html</link>
-      <description>&lt;![CDATA[光刻技术，走下 “神坛”]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7606246.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>微软广告业务宣布DSP停服，围墙花园阵营又壮大了？</title>
-      <link>https://www.tmtpost.com/7606255.html</link>
-      <description>&lt;![CDATA[微软广告业务宣布DSP停服，围墙花园阵营又壮大了？]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7606255.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Robotaxi再添新玩家：哈啰出行下场，蚂蚁宁德抬轿</title>
-      <link>https://www.tmtpost.com/7606264.html</link>
-      <description>&lt;![CDATA[Robotaxi再添新玩家：哈啰出行下场，蚂蚁宁德抬轿]]&gt;</description>
-      <pubDate>Tue, 24 Jun 2025 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7606264.html</guid>
       <category>Technology</category>
     </item>
   </channel>

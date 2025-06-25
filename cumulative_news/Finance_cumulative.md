@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-25 04:22
+**最后更新时间**: 2025-06-25 08:21
+
+---
+
+## 🆕 最新更新 (2025-06-25 08:21)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [China vows 'forceful measures' after Taiwan adds Huawei, others to blacklist](https://www.marketwatch.com/bulletins/redirect/go?g=106cf77b-58f4-40b7-9637-0016e00cfca4&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-25 07:48
 
 ---
 
