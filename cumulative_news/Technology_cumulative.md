@@ -2,7 +2,60 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-25 00:57
+**最后更新时间**: 2025-06-25 04:22
+
+---
+
+## 🆕 最新更新 (2025-06-25 04:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技通过GuardDuty为EKS引入了扩展威胁检测](https://www.infoq.cn/article/QMeNGHbtBrTNzl7Zk0FD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 12:00
+
+#### [GPULlama3.java发布，将GPU加速的LLM推理能力带到了Java平台](https://www.infoq.cn/article/e34LlmYD9amkIfBTZlbV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 11:00
+
+#### [微软Azure通过OpenTelemetry对逻辑应用程序和函数的支持增强了可观测性](https://www.infoq.cn/article/fWMAUohjNxLecGN27FSq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 10:00
+
+#### [CNCF宣布in-toto框架毕业，加强软件供应链安全](https://www.infoq.cn/article/yi1yygTN2eym7eP3ukjN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chinese Hotpot Chain Banu Files for Hong Kong IPO Amid Mixed Prospects for China's Restaurant Sector](https://www.tmtpost.com/7606860.html)
+**发布时间**: 2025-06-25 11:58
+
+#### [大厂AI“围剿”张雪峰](https://www.tmtpost.com/7606779.html)
+**发布时间**: 2025-06-25 11:45
+
+#### [South Korea Seeks Tariff Exemptions in Trade Talks as Steel Exports to U.S. Plunge](https://www.tmtpost.com/7606840.html)
+**发布时间**: 2025-06-25 11:44
+
+#### [Bitcoin Sees Wild Swings in 2025 as Middle East Tensions Shake Up Crypto Market](https://www.tmtpost.com/7606782.html)
+**发布时间**: 2025-06-25 10:55
+
+#### [巴奴冲击港股IPO：火锅“第三股”的挑战与机遇](https://www.tmtpost.com/7606335.html)
+**发布时间**: 2025-06-25 09:57
+
+#### [3000亿的泡泡玛特，涨不动了？](https://www.tmtpost.com/7606638.html)
+**发布时间**: 2025-06-25 09:25
+
+#### [中国企业传承驶入“三峡地带”](https://www.tmtpost.com/7606361.html)
+**发布时间**: 2025-06-25 09:25
+
+#### [大重构：中国民企的代际进化密码](https://www.tmtpost.com/7606600.html)
+**发布时间**: 2025-06-25 08:45
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [遥遥领先连喊三年，销量却被小米汽车三倍碾压？](http://www.huxiu.com/article/4499609.html?f=wangzhan)
+**发布时间**: 2025-06-25 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Ironheart believes the children are the future](https://www.theverge.com/marvel/691168/ironheart-believes-children-are-the-future)
+**发布时间**: 2025-06-25 01:00
 
 ---
 
