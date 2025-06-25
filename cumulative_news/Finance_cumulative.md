@@ -2,7 +2,65 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 12:22
+**最后更新时间**: 2025-06-25 00:57
+
+---
+
+## 🆕 最新更新 (2025-06-25 00:57)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [FedEx hopes to save $1 billion this fiscal year. But its profit forecast is still sinking shares, as tariffs weigh on shipments.](https://www.marketwatch.com/story/fedex-hopes-to-save-1-billion-this-fiscal-year-but-its-forecast-is-sinking-shares-d7322bf1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-25 00:18
+
+#### [My job is offering me a payout. Should I take a $61,000 lump sum or $355 a month for life?](https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 23:30
+
+#### [Trying to save money during the heat wave by turning off the A/C? It could cost your relationship.](https://www.marketwatch.com/story/trying-to-save-money-by-turning-off-the-air-conditioning-it-could-cost-your-relationship-21e511ab?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 22:56
+
+#### [Why this famous trader is 100% invested in the S&P 500 right now — even after the U.S. strike on Iran](https://www.marketwatch.com/story/why-this-stock-market-wizard-is-100-invested-in-the-s-p-500-right-now-even-after-the-u-s-strike-on-iran-7b8d9b3b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 22:19
+
+#### [S&P 500 nears record as stocks soar, oil sinks and investors throw caution to the wind](https://www.marketwatch.com/story/s-p-500-nears-record-as-stocks-soar-oil-sinks-and-investors-throw-caution-to-the-wind-c79f569b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 21:58
+
+#### [A new plan might be taking shape in Washington to help manage explosive U.S. debt](https://www.marketwatch.com/story/a-new-plan-might-be-taking-shape-in-washington-to-help-manage-explosive-u-s-debt-d4f4a309?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 21:39
+
+#### [Coinbase’s stock sees a ‘golden cross.’ Why it may not be a bullish signal to buy.](https://www.marketwatch.com/story/coinbases-stock-sees-a-golden-cross-why-that-might-not-be-bullish-625b95d4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-24 21:38
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [New plan might be taking shape in Washington to help manage explosive U.S. debt](https://www.marketwatch.com/bulletins/redirect/go?g=ec5b5880-f045-45be-94eb-b13800902f22&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 23:15
+
+#### [As S&P 500 nears record after cease-fire, investors throw caution to the wind](https://www.marketwatch.com/bulletins/redirect/go?g=bca088c4-6c83-49c5-baab-9c91113f0948&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 22:01
+
+#### [If the U.S. economy breaks, it will probably happen this summer, BofA says](https://www.marketwatch.com/bulletins/redirect/go?g=4fd4bafe-2467-4f3f-9f02-62f0752af67c&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 20:53
+
+#### [Nasdaq-100 scores first record close in 4 months as stocks soar after cease-fire](https://www.marketwatch.com/bulletins/redirect/go?g=03d1e71c-dab8-4582-a598-121dcd666318&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 20:06
+
+#### [Dow up over 500 points as stocks soar on Israel-Iran cease-fire — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=dd5967e4-b885-4093-98e4-53f7ce8e9d09&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 19:01
+
+#### [Why Apple potentially acquiring Perplexity could be big news for its stock](https://www.marketwatch.com/bulletins/redirect/go?g=a9cdcc43-778f-4e35-8c77-93972de834b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 18:24
+
+#### [Tesla’s stock is giving back its robotaxi gains. Here’s what happened.](https://www.marketwatch.com/bulletins/redirect/go?g=d140d1a6-447c-46de-ab04-42cc5058749d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 17:57
+
+#### [Two ETFs that have beaten value-stock indexes with this simple approach](https://www.marketwatch.com/bulletins/redirect/go?g=ab056145-b650-47d1-a5ac-fa69a3379d60&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 15:18
+
+#### [Carnival’s stock jumps as strong last-minute bookings fuel another earnings beat](https://www.marketwatch.com/bulletins/redirect/go?g=5ba2b45b-01b7-4ad9-8945-a9afdc00ced3&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 14:43
+
+#### [Krispy Kreme and McDonald's end their partnership. It didn't make enough dough.](https://www.marketwatch.com/bulletins/redirect/go?g=903a212b-3835-42dc-a489-efc7dbe9d227&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-24 13:45
 
 ---
 

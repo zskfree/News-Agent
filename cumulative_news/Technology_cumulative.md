@@ -2,7 +2,111 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 12:22
+**最后更新时间**: 2025-06-25 00:57
+
+---
+
+## 🆕 最新更新 (2025-06-25 00:57)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军：YU7 不是拉高版 SU7；字节跳动辞退原豆包大模型负责人；美法院裁定使用版权内容训练 AI 合法 | 极客早知道](http://www.geekpark.net/news/350793)
+**发布时间**: 2025-06-25 08:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Meta Quest 3S Xbox Edition 发布等](https://sspai.com/post/100542)
+**发布时间**: 2025-06-25 07:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科股早知道：该AI硬件市场正由初探期向高速发展期迈进](https://www.tmtpost.com/7606578.html)
+**发布时间**: 2025-06-25 07:36
+
+#### [【钛晨报】事关金融促消费，央行等六部门发布19项举措；泡泡玛特疑进军家电行业，正招聘相关人才；蚂蚁集团出手减持众安在线](https://www.tmtpost.com/7606461.html)
+**发布时间**: 2025-06-25 07:20
+
+#### [淘天是阿里动物园的“共享食槽”](https://www.tmtpost.com/7606299.html)
+**发布时间**: 2025-06-24 23:14
+
+#### [从湖南到河南，新消费顶流易主？](https://www.tmtpost.com/7605747.html)
+**发布时间**: 2025-06-24 23:14
+
+#### [“上新潮”来袭 AI眼镜进入博弈新周期](https://www.tmtpost.com/7606197.html)
+**发布时间**: 2025-06-24 23:12
+
+#### [祥源文旅“撞号”回应露疑点，祥源系年内三度涉关联问询](https://www.tmtpost.com/7606519.html)
+**发布时间**: 2025-06-24 22:51
+
+#### [战争、爆仓与反弹：比特币的十日“生死劫”](https://www.tmtpost.com/7606094.html)
+**发布时间**: 2025-06-24 21:24
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [DJI ‘remains committed to the US market’ as shelves go bare of drones](https://www.theverge.com/report/692398/dji-drones-out-of-stock-best-buy-amazon-deny-us-exit)
+**发布时间**: 2025-06-24 23:19
+
+#### [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
+**发布时间**: 2025-06-24 21:43
+
+#### [MindsEye developer undergoing layoffs less than a month after launch](https://www.theverge.com/news/692420/mindseye-build-a-rocket-boy-layoffs-leslie-benzies)
+**发布时间**: 2025-06-24 21:34
+
+#### [The US is stripping its forests of decades-old protections](https://www.theverge.com/news/692299/national-forest-fire-trump-rescind-roadless-rule-usda)
+**发布时间**: 2025-06-24 21:09
+
+#### [The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen](https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15)
+**发布时间**: 2025-06-24 20:00
+
+#### [This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used](https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale)
+**发布时间**: 2025-06-24 19:59
+
+#### [Apple Wallet notifications for an F1 movie promotion ticked off iPhone owners](https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad)
+**发布时间**: 2025-06-24 19:15
+
+#### [Paramount Plus with Showtime is getting a rebrand](https://www.theverge.com/streaming-wars/692159/paramount-plus-premium-showtime)
+**发布时间**: 2025-06-24 19:14
+
+#### [Netflix is letting go of some of its best indie games](https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy)
+**发布时间**: 2025-06-24 18:50
+
+#### [Hideo Kojima sees Death Stranding 2 as a cautionary tale](https://www.theverge.com/games/691570/hideo-kojima-death-stranding-2)
+**发布时间**: 2025-06-24 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [小米小爱同学：资源受限下，实现端侧大模型的高性能推理](https://www.infoq.cn/article/wIQuyt3je0dqIRdDWzQm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 22:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [‘Big Balls’ No Longer Works for the US Government](https://www.wired.com/story/big-balls-coristine-doge-resigned-us-government/)
+**发布时间**: 2025-06-24 21:17
+
+#### [The 42 Best Movies on Hulu This Week (July 2025)](https://www.wired.com/story/best-movies-hulu-right-now/)
+**发布时间**: 2025-06-24 19:00
+
+#### [5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions](https://www.wired.com/gallery/the-best-lip-balms/)
+**发布时间**: 2025-06-24 18:14
+
+#### [Anthropic Scores a Landmark AI Copyright Win—but Will Face Trial Over Piracy Claims](https://www.wired.com/story/anthropic-ai-copyright-fair-use-piracy-ruling/)
+**发布时间**: 2025-06-24 16:26
+
+#### [34 Viral TikTok Gifts That Are Actually Worth a Look (2025)](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
+**发布时间**: 2025-06-24 15:00
+
+#### [The 5 Best Essential Oil Diffusers (and One to Avoid)](https://www.wired.com/gallery/best-essential-oil-diffusers/)
+**发布时间**: 2025-06-24 14:04
+
+#### [The Groove Thing Is a Bluetooth Speaker and Vibrator Combo, Because Why Not?](https://www.wired.com/story/the-groove-thing-is-a-bluetooth-speaker-and-vibrator-combo-because-why-not/)
+**发布时间**: 2025-06-24 13:00
+
+#### [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+**发布时间**: 2025-06-24 12:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [BBA放弃挣扎](http://www.huxiu.com/article/4503052.html?f=wangzhan)
+**发布时间**: 2025-06-24 20:57
 
 ---
 

@@ -2,7 +2,58 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-24 12:22
+**最后更新时间**: 2025-06-25 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-25 00:56)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [讲得了课、押得中题、学习规划还能量身定制，真卷到点子上的只有它](https://www.jiqizhixin.com/articles/2025-06-24-15)
+**发布时间**: 2025-06-24 22:34
+
+#### [Cache Me If You Can：陈丹琦团队如何「抓住」关键缓存，解放LLM内存？](https://www.jiqizhixin.com/articles/2025-06-24-14)
+**发布时间**: 2025-06-24 22:30
+
+#### [ToMAP：赋予大模型「读心术」，打造更聪明的AI说服者](https://www.jiqizhixin.com/articles/2025-06-24-13)
+**发布时间**: 2025-06-24 22:23
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [From MIT to low Earth orbit](https://www.technologyreview.com/2025/06/24/1117698/from-mit-to-low-earth-orbit/)
+**发布时间**: 2025-06-24 21:00
+
+#### [Travels with Rambax](https://www.technologyreview.com/2025/06/24/1117703/travels-with-rambax/)
+**发布时间**: 2025-06-24 21:00
+
+#### [What if computer history were a romantic comedy?](https://www.technologyreview.com/2025/06/24/1117710/what-if-computer-history-were-a-romantic-comedy/)
+**发布时间**: 2025-06-24 21:00
+
+#### [An intelligent, practical path to reindustrialization](https://www.technologyreview.com/2025/06/24/1117720/an-intelligent-path-to-reindustrialization/)
+**发布时间**: 2025-06-24 21:00
+
+#### [Art rhymes](https://www.technologyreview.com/2025/06/24/1117723/art-rhymes/)
+**发布时间**: 2025-06-24 21:00
+
+#### [An epic year for women’s sports](https://www.technologyreview.com/2025/06/24/1117732/an-epic-year-for-womens-sports/)
+**发布时间**: 2025-06-24 21:00
+
+#### [More news from the labs of MIT](https://www.technologyreview.com/2025/06/24/1117738/more-news-from-the-labs-of-mit/)
+**发布时间**: 2025-06-24 21:00
+
+#### [Cancer-targeting nanoparticles are moving closer to human trials](https://www.technologyreview.com/2025/06/24/1117741/cancer-targeting-nanoparticles-are-moving-closer-to-human-trials/)
+**发布时间**: 2025-06-24 21:00
+
+#### [Immune molecules may affect mood](https://www.technologyreview.com/2025/06/24/1117745/immune-molecules-may-affect-mood/)
+**发布时间**: 2025-06-24 21:00
+
+#### [Crop signals](https://www.technologyreview.com/2025/06/24/1117747/crop-signals/)
+**发布时间**: 2025-06-24 21:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [让AI主动干活，给你找服务，鸿蒙“6”啊](https://www.qbitai.com/2025/06/300604.html)
+**发布时间**: 2025-06-24 15:08
 
 ---
 
