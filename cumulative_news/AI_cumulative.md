@@ -2,7 +2,30 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-25 08:16
+**最后更新时间**: 2025-06-25 12:29
+
+---
+
+## 🆕 最新更新 (2025-06-25 12:29)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Introducing the Power issue](https://www.technologyreview.com/2025/06/25/1119339/the-download-introducing-the-power-issue/)
+**发布时间**: 2025-06-25 12:10
+
+#### [The Bank Secrecy Act is failing everyone. It’s time to rethink financial surveillance.](https://www.technologyreview.com/2025/06/25/1119324/katie-haun-bank-secrecy-act-oped/)
+**发布时间**: 2025-06-25 09:55
+
+#### [The AI Hype Index: AI-powered toys are coming](https://www.technologyreview.com/2025/06/25/1119286/ai-hype-index-toys-agents-openai-yoshua-bengio/)
+**发布时间**: 2025-06-25 09:44
+
+#### [3 things Rhiannon Williams is into right now](https://www.technologyreview.com/2025/06/25/1118448/rhiannon-williams-instagram-life-drawing/)
+**发布时间**: 2025-06-25 09:00
+
+#### [Job titles of the future: Pandemic oracle](https://www.technologyreview.com/2025/06/25/1118453/pandemic-oracle-biological-risk-consultants-future-jobs-epidemic/)
+**发布时间**: 2025-06-25 09:00
+
+#### [The Debrief: Power and energy](https://www.technologyreview.com/2025/06/25/1118458/the-debrief-power-and-energy/)
+**发布时间**: 2025-06-25 09:00
 
 ---
 

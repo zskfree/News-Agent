@@ -2,7 +2,110 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-25 08:21
+**最后更新时间**: 2025-06-25 12:34
+
+---
+
+## 🆕 最新更新 (2025-06-25 12:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [超百万充电宝召回始末：一家供应商“引爆”全行业](https://www.tmtpost.com/7607356.html)
+**发布时间**: 2025-06-25 19:48
+
+#### [从“倒多少”到“一泵搞定”，蓝月亮正在改变中国家庭洗衣习惯](https://www.tmtpost.com/7607220.html)
+**发布时间**: 2025-06-25 19:39
+
+#### [古茗现磨咖啡覆盖全国7600+家门店；奈雪牵头发起鲜果茶天然营养+计划；雅诗兰黛集团X天猫打造平台首家AI美妆旗舰店｜消研所日报](https://www.tmtpost.com/7607285.html)
+**发布时间**: 2025-06-25 18:49
+
+#### [对话李小加：从港交所总裁到小微企业「滴灌者」](https://www.tmtpost.com/7606542.html)
+**发布时间**: 2025-06-25 18:21
+
+#### [卧安机器人：前脚融资，后脚又要补流、偿债，公司至今尚未盈利｜IPO观察](https://www.tmtpost.com/7601781.html)
+**发布时间**: 2025-06-25 18:16
+
+#### [日御光伏：三年经营性现金净流出近80亿元，资金链紧张问题凸显｜IPO观察](https://www.tmtpost.com/7604771.html)
+**发布时间**: 2025-06-25 18:14
+
+#### [对话梅卡曼德机器人邵天兰：冲向具身智能终局的路上，我们先上桌了｜牛白丁](https://www.tmtpost.com/7607294.html)
+**发布时间**: 2025-06-25 18:12
+
+#### [【科股一线拆解】暴涨近200%，传统中资金融机构深度参与虚拟资产交易迈出关键一步，更多机构有望入局](https://www.tmtpost.com/7607298.html)
+**发布时间**: 2025-06-25 18:01
+
+#### [“考后经济”爆发，电子全家桶成大厂必争之地](https://www.tmtpost.com/7607221.html)
+**发布时间**: 2025-06-25 18:01
+
+#### [癌症门诊里的21种遗憾](https://www.tmtpost.com/7607136.html)
+**发布时间**: 2025-06-25 17:39
+
+#### [建发们疯狂抢地，激进的闽系房企又回来了](https://www.tmtpost.com/7607076.html)
+**发布时间**: 2025-06-25 17:39
+
+#### [贸易局势持续紧张，光伏出海何处转圜？](https://www.tmtpost.com/7607167.html)
+**发布时间**: 2025-06-25 17:23
+
+#### [90天38亿：光源资本王巍揭秘“产业并购新时代”的操盘逻辑｜并购解码](https://www.tmtpost.com/7606891.html)
+**发布时间**: 2025-06-25 17:23
+
+#### [对话简道云：在SaaS行业亏损时盈利，在大模型热潮中谨慎](https://www.tmtpost.com/7607100.html)
+**发布时间**: 2025-06-25 16:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [React 被指“沦为 Vercel 打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲](https://www.infoq.cn/article/7Gh3CLkBq9aKGexTVQcG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 18:34
+
+#### [从AI Agent到Agentic AI：开源如何助力开发者解决行业痛点？](https://www.infoq.cn/article/J8FBphU8gCYBdHaQ09hs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 18:32
+
+#### [MCP已经起飞了，A2A才开始追赶](https://www.infoq.cn/article/wJPeVrBjwTalPXVmfQ79?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 17:50
+
+#### [摩尔线程之后，又一家国产GPU独角兽完成上市辅导](https://www.infoq.cn/article/bYJBt9gNRoIizXdfBS1b?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 17:47
+
+#### [TDSQL MySQL 新引擎的成熟进阶与革新实践](https://www.infoq.cn/video/am8j13IWya3F1kRzTtwA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-25 17:43
+
+#### [文心快码正式发布AI IDE，生成超43%百度新增代码](https://www.infoq.cn/article/UjVrrcyCLgOLVSmddO0C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-24 15:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319)
+**发布时间**: 2025-06-25 17:24
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
+**发布时间**: 2025-06-25 12:18
+
+#### [The smaller Fairphone 6 introduces swappable accessories](https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena)
+**发布时间**: 2025-06-25 12:12
+
+#### [Veloretti just made one of the best e-bikes lighter and cheaper](https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs)
+**发布时间**: 2025-06-25 10:45
+
+#### [Death Stranding 2 is bigger and more ambitious — and that includes its music](https://www.theverge.com/games/691316/death-stranding-2-woodkid-kojima-music-player)
+**发布时间**: 2025-06-25 10:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [8 Best Water Leak Detectors (2025), Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
+**发布时间**: 2025-06-25 11:30
+
+#### [This New Watch Is Being Purpose-Built for Space Exploration—and It's Not an Omega](https://www.wired.com/story/monolith-watch-is-being-purpose-built-for-space-exploration/)
+**发布时间**: 2025-06-25 11:00
+
+#### [9 Best Natural Deodorants, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-natural-deodorants/)
+**发布时间**: 2025-06-25 10:37
+
+#### [Snake Venom, Urine, and a Quest to Live Forever: Inside a Biohacking Conference Emboldened by MAHA](https://www.wired.com/story/biohackers-want-unorthodox-treatments-to-live-forever-maha-is-emboldening-them/)
+**发布时间**: 2025-06-25 10:00
+
+#### [10 Best Protein Powders of 2025, Tested & Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
+**发布时间**: 2025-06-25 09:56
 
 ---
 
