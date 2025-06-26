@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Jun 2025 04:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 04:21:48 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 08:16:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>5款大模型考「山东卷」，Gemini、豆包分别获文理第一名</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-12</link>
+      <description>&lt;![CDATA[5款大模型考「山东卷」，Gemini、豆包分别获文理第一名]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICCV 2025放榜！录取率24%，夏威夷门票你抢到了吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-11</link>
+      <description>&lt;![CDATA[ICCV 2025放榜！录取率24%，夏威夷门票你抢到了吗？]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>人民大学&amp;字节Seed：利用μP实现Diffusion Transformers高效扩展</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-10</link>
+      <description>&lt;![CDATA[人民大学&amp;字节Seed：利用μP实现Diffusion Transformers高效扩展]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 14:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>在脊椎动物胚胎实现生物电子器件无缝整合，哈佛大学新研究登《Nature》封面</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-9</link>
+      <description>&lt;![CDATA[在脊椎动物胚胎实现生物电子器件无缝整合，哈佛大学新研究登《Nature》封面]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谷歌DeepMind发布DNA序列模型AlphaGenome，可分析1兆碱基，直击疾病根源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-8</link>
+      <description>&lt;![CDATA[谷歌DeepMind发布DNA序列模型AlphaGenome，可分析1兆碱基，直击疾病根源]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，OpenAI苏黎世办公室被Meta一锅端，三名ViT作者被挖走</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-7</link>
+      <description>&lt;![CDATA[刚刚，OpenAI苏黎世办公室被Meta一锅端，三名ViT作者被挖走]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>免费、开源！谷歌Gemini CLI彻底火了，平替Claude Code</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-6</link>
+      <description>&lt;![CDATA[免费、开源！谷歌Gemini CLI彻底火了，平替Claude Code]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>具身世界模型新突破，地平线 &amp; 极佳提出几何一致视频世界模型增强机器人策略学习</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-5</link>
+      <description>&lt;![CDATA[具身世界模型新突破，地平线 &amp; 极佳提出几何一致视频世界模型增强机器人策略学习]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 13:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>国产大模型高考出分了：裸分683，选清华还是北大？</title>
+      <link>https://www.qbitai.com/2025/06/301865.html</link>
+      <description>&lt;![CDATA[国产大模型高考出分了：裸分683，选清华还是北大？]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301865.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>品牌升级 | OceanBase 正式启用中文名：海扬数据库</title>
+      <link>https://www.qbitai.com/2025/06/301850.html</link>
+      <description>&lt;![CDATA[品牌升级 | OceanBase 正式启用中文名：海扬数据库]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 06:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301850.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OceanBase全面拥抱AI新进展：OB Cloud支持十亿级多类型向量数据，数十家企业实现AI应用落地</title>
+      <link>https://www.qbitai.com/2025/06/301769.html</link>
+      <description>&lt;![CDATA[OceanBase全面拥抱AI新进展：OB Cloud支持十亿级多类型向量数据，数十家企业实现AI应用落地]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 05:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301769.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>平扫CT+AI实现大规模胃癌早筛，浙肿、达摩院团队开发GRAPE，登Nature Medicine</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-26-4</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[Position: Machine Learning Conferences Should Establish a &quot;Refutations and Critiques&quot; Track]]&gt;</description>
       <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.19882</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>STIMULUS: Achieving Fast Convergence and Low Sample Complexity in Stochastic Multi-Objective Learning</title>
-      <link>https://arxiv.org/abs/2506.19883</link>
-      <description>&lt;![CDATA[STIMULUS: Achieving Fast Convergence and Low Sample Complexity in Stochastic Multi-Objective Learning]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19883</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection</title>
-      <link>https://arxiv.org/abs/2506.19884</link>
-      <description>&lt;![CDATA[MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19884</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FlightKooba: A Fast Interpretable FTP Model</title>
-      <link>https://arxiv.org/abs/2506.19885</link>
-      <description>&lt;![CDATA[FlightKooba: A Fast Interpretable FTP Model]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19885</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MATER: Multi-level Acoustic and Textual Emotion Representation for Interpretable Speech Emotion Recognition</title>
-      <link>https://arxiv.org/abs/2506.19887</link>
-      <description>&lt;![CDATA[MATER: Multi-level Acoustic and Textual Emotion Representation for Interpretable Speech Emotion Recognition]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19887</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Retrieval-Confused Generation is a Good Defender for Privacy Violation Attack of Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.19889</link>
-      <description>&lt;![CDATA[Retrieval-Confused Generation is a Good Defender for Privacy Violation Attack of Large Language Models]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19889</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Causal-Aware Intelligent QoE Optimization for VR Interaction with Adaptive Keyframe Extraction</title>
-      <link>https://arxiv.org/abs/2506.19890</link>
-      <description>&lt;![CDATA[Causal-Aware Intelligent QoE Optimization for VR Interaction with Adaptive Keyframe Extraction]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19890</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Orthogonal Soft Pruning for Efficient Class Unlearning</title>
-      <link>https://arxiv.org/abs/2506.19891</link>
-      <description>&lt;![CDATA[Orthogonal Soft Pruning for Efficient Class Unlearning]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19891</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>RepuNet: A Reputation System for Mitigating Malicious Clients in DFL</title>
-      <link>https://arxiv.org/abs/2506.19892</link>
-      <description>&lt;![CDATA[RepuNet: A Reputation System for Mitigating Malicious Clients in DFL]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19892</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks</title>
-      <link>https://arxiv.org/abs/2506.19893</link>
-      <description>&lt;![CDATA[Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19893</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Explaining deep neural network models for electricity price forecasting with XAI</title>
-      <link>https://arxiv.org/abs/2506.19894</link>
-      <description>&lt;![CDATA[Explaining deep neural network models for electricity price forecasting with XAI]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19894</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Framework for Uncertainty Quantification Based on Nearest Neighbors Across Layers</title>
-      <link>https://arxiv.org/abs/2506.19895</link>
-      <description>&lt;![CDATA[A Framework for Uncertainty Quantification Based on Nearest Neighbors Across Layers]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19895</guid>
       <category>AI</category>
     </item>
   </channel>
