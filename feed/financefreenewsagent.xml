@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Jun 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 00:56:27 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 04:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 04:21:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nvidia’s $1.4 trillion comeback is now complete. The stock just closed at a record.</title>
+      <link>https://www.marketwatch.com/story/nvidias-1-4-trillion-comeback-is-just-about-complete-the-stock-is-headed-for-a-record-4772969e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nvidia’s $1.4 trillion comeback is now complete. The stock just closed at a record.]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 01:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-1-4-trillion-comeback-is-just-about-complete-the-stock-is-headed-for-a-record-4772969e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Office-furniture maker Steelcase cut jobs in the first quarter. And more cuts could be coming.</title>
       <link>https://www.marketwatch.com/story/office-furniture-maker-steelcase-cut-jobs-in-the-first-quarter-and-more-cuts-could-be-coming-89698f89?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[S&amp;P 500 may be up in June, but Iran attacks and tariff fears are good reasons to rethink risk]]&gt;</description>
       <pubDate>Sun, 22 Jun 2025 14:27:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/s-p-500-is-up-in-june-but-are-stocks-worth-the-risk-amid-iran-attacks-and-tariff-fears-4008325d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Investors brace for ‘unpredictable spillovers’ in markets after Trump announces Iran strikes</title>
-      <link>https://www.marketwatch.com/story/trump-says-u-s-has-launched-attack-on-iran-nuclear-sites-as-investors-brace-for-unpredictable-spillovers-across-markets-0478de96?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Investors brace for ‘unpredictable spillovers’ in markets after Trump announces Iran strikes]]&gt;</description>
-      <pubDate>Sun, 22 Jun 2025 02:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-says-u-s-has-launched-attack-on-iran-nuclear-sites-as-investors-brace-for-unpredictable-spillovers-across-markets-0478de96?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
