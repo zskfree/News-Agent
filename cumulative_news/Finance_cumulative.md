@@ -2,7 +2,46 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-26 04:21
+**最后更新时间**: 2025-06-26 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-26 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [H&M says it’s starting to see U.S. competitors raise prices — and it might join them](https://www.marketwatch.com/story/h-m-says-its-starting-to-see-u-s-competitors-raise-prices-and-it-might-join-them-cd686e38?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 11:54
+
+#### [Your Social Security check will be nearly 20% less if Congress doesn’t face facts soon](https://www.marketwatch.com/story/your-social-security-check-will-be-nearly-20-less-if-congress-doesnt-face-facts-soon-889e9daf?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 11:50
+
+#### [JPMorgan has a new way of forecasting the stock market — and there’s a surprising finding](https://www.marketwatch.com/story/jpmorgan-has-a-new-way-of-forecasting-the-stock-market-and-theres-a-surprising-finding-41a5643e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 11:50
+
+#### [Trump’s big budget bill definitely affects you — just probably not in ways you want](https://www.marketwatch.com/story/trumps-big-budget-bill-definitely-affects-you-just-probably-not-in-ways-you-want-3f8fd4b8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 11:40
+
+#### [What oil’s big pullback this week may mean for the U.S. stock market](https://www.marketwatch.com/story/what-oils-big-pullback-this-week-may-mean-for-the-u-s-stock-market-ad95e7c5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 11:00
+
+#### [My cousin died before claiming his late father’s $2 million estate. Will I be next in line for this inheritance?](https://www.marketwatch.com/story/my-cousin-died-before-claiming-his-late-fathers-2-million-estate-will-i-get-it-79576ff3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 10:21
+
+#### [My boyfriend has ADHD, $50,000 in student-loan debt and no plan to pay it off. Is it my responsibility to step in and help?](https://www.marketwatch.com/story/my-boyfriend-has-adhd-50-000-in-student-loan-debt-and-no-plan-to-pay-it-off-is-it-my-responsibility-to-step-in-and-help-8006530f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 10:00
+
+### 📰 来源: [MarketWatch Market Pulse](https://feeds.content.dowjones.io/public/rss/mw_marketpulse)
+
+#### [Walgreens Boots Alliance stock rises on better-than-expected sales and adjusted profit](https://www.marketwatch.com/story/walgreens-boots-alliance-stock-rises-on-better-than-expected-sales-and-adjusted-profit-a793ec1a?mod=mw_rss_marketpulse)
+**发布时间**: 2025-06-26 11:14
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [What oil’s big pullback this week may mean for the U.S. stock market](https://www.marketwatch.com/bulletins/redirect/go?g=7bdef2b4-3a23-4690-aebe-3b5bf06a8686&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 11:06
+
+#### [The U.S. dollar has fallen to a fresh three-year low](https://www.marketwatch.com/bulletins/redirect/go?g=5735d039-8da3-4c01-8bd3-3a3071bf0a23&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 09:41
 
 ---
 
