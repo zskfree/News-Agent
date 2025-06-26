@@ -2,7 +2,45 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-25 12:29
+**最后更新时间**: 2025-06-26 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-26 00:56)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Google’s new AI will help researchers understand how our genes work](https://www.technologyreview.com/2025/06/25/1119345/google-deepmind-alphagenome-ai/)
+**发布时间**: 2025-06-25 14:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [MUVERA: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
+**发布时间**: 2025-06-25 13:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [快手推出全球首部AI单元故事集《新世界加载中》](https://www.qbitai.com/2025/06/301695.html)
+**发布时间**: 2025-06-25 12:42
+
+#### [Agent+数据，会成为企业的新决策大脑吗？｜直播预告](https://www.qbitai.com/2025/06/301682.html)
+**发布时间**: 2025-06-25 10:43
+
+#### [华科校友在港冲刺AI infra第一股！中国最能赚的独立边缘云服务商，王小川投了](https://www.qbitai.com/2025/06/301513.html)
+**发布时间**: 2025-06-25 09:36
+
+#### [奥特曼回应OpenAI抄袭：投资没谈拢就来反咬！新一轮邮件证据曝光](https://www.qbitai.com/2025/06/301443.html)
+**发布时间**: 2025-06-25 09:19
+
+#### [老黄新鲜一刀，RTX 5050正式官宣](https://www.qbitai.com/2025/06/301422.html)
+**发布时间**: 2025-06-25 09:01
+
+#### [值得买科技6月AI进展：升级能力与产品，焕新用户体验与行业生态](https://www.qbitai.com/2025/06/301413.html)
+**发布时间**: 2025-06-25 08:02
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Merging AI and underwater photography to reveal hidden ocean worlds](https://news.mit.edu/2025/lobstger-merging-ai-underwater-photography-to-reveal-hidden-ocean-worlds-0625)
+**发布时间**: 2025-06-25 09:55
 
 ---
 

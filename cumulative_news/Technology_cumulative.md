@@ -2,7 +2,139 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-25 12:34
+**最后更新时间**: 2025-06-26 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-26 00:56)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米 AI 眼镜官宣，将在今晚发布；微信小游戏月活突破 5 亿；稳定币第一股两日暴跌 24%](http://www.geekpark.net/news/350848)
+**发布时间**: 2025-06-26 08:53
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [啊？射击游戏还在狂踩油门](https://www.tmtpost.com/7607569.html)
+**发布时间**: 2025-06-26 08:40
+
+#### [马斯克辟谣T-Bot传言，发推Optimus V3审阅；黄仁勋：机器人技术是英伟达下一个万亿美元机会｜精华研报](https://www.tmtpost.com/7607622.html)
+**发布时间**: 2025-06-26 08:23
+
+#### [奥迪「急刹车」](https://www.tmtpost.com/7607629.html)
+**发布时间**: 2025-06-26 08:19
+
+#### [自动驾驶争霸战：萝卜快跑出海遇劲敌，小马与文远高管对峙商业博弈升级](https://www.tmtpost.com/7607674.html)
+**发布时间**: 2025-06-26 08:19
+
+#### [科股早知道：科技巨头百亿美元押注AI基建，国产算力链迎拐点](https://www.tmtpost.com/7607641.html)
+**发布时间**: 2025-06-26 08:13
+
+#### [站在风暴中心的安普瑞斯：不应成为替罪羊](https://www.tmtpost.com/7607495.html)
+**发布时间**: 2025-06-26 08:11
+
+#### [【钛晨报】李强出席2025年夏季达沃斯论坛工商界代表座谈会；国泰君安国际正式获批提供虚拟资产交易服务，为中资券商首家；摩根士丹利预计美联储将在2026年七次降息](https://www.tmtpost.com/7607475.html)
+**发布时间**: 2025-06-26 07:20
+
+#### [晶科能源43亿转让款困局：交易对手逾期超15亿，履约能力遭拷问](https://www.tmtpost.com/7607479.html)
+**发布时间**: 2025-06-25 22:15
+
+#### [张小泉控制权危局：MCN抄底，控股股东重整途中遭集团合并重整风险](https://www.tmtpost.com/7607437.html)
+**发布时间**: 2025-06-25 21:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 应用出海：开拓全球版图的实战指南](https://www.infoq.cn/minibook/c5Dqwhf6H0GcONbNXEvq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-26 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Here are 14 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+**发布时间**: 2025-06-26 00:15
+
+#### [Meta&#8217;s AI copyright win comes with a warning about fair use](https://www.theverge.com/news/693437/meta-ai-copyright-win-fair-use-warning)
+**发布时间**: 2025-06-26 00:13
+
+#### [Anthropic now lets you make apps right from its Claude AI chatbot](https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact)
+**发布时间**: 2025-06-25 22:33
+
+#### [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)
+**发布时间**: 2025-06-25 22:07
+
+#### [WhatsApp rolls out AI-generated summaries for private messages](https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta)
+**发布时间**: 2025-06-25 22:02
+
+#### [Philips Hue lighting will be more expensive starting July 1st, but you can save on them now](https://www.theverge.com/tech/692821/philips-hue-light-bulbs-price-increase-deal-sale)
+**发布时间**: 2025-06-25 20:56
+
+#### [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)
+**发布时间**: 2025-06-25 20:53
+
+#### [Apple’s more immersive CarPlay is dividing the auto industry](https://www.theverge.com/news/693139/apple-carplay-ultra-car-pushback-adoption)
+**发布时间**: 2025-06-25 20:11
+
+#### [Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints](https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment)
+**发布时间**: 2025-06-25 19:29
+
+#### [Hundreds of data brokers might be breaking state laws, say privacy advocates](https://www.theverge.com/news/693109/eff-privacy-advocates-state-investigate-data-brokers)
+**发布时间**: 2025-06-25 19:16
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)
+**发布时间**: 2025-06-25 22:11
+
+#### [‘They're Not Breathing’: Inside the Chaos of ICE Detention Center 911 Calls](https://www.wired.com/story/ice-detention-center-911-emergencies/)
+**发布时间**: 2025-06-25 21:21
+
+#### [31 Best Early Amazon Prime Day Deals On Products We Tested (2025)](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025/)
+**发布时间**: 2025-06-25 20:31
+
+#### [A European Startup’s Spacecraft Made It to Orbit. Now It’s Lost at Sea](https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/)
+**发布时间**: 2025-06-25 20:25
+
+#### [Venice Braces for Jeff Bezos and Lauren Sanchez’s Wedding](https://www.wired.com/story/how-will-jeff-bezos-wedding-impact-venice/)
+**发布时间**: 2025-06-25 19:29
+
+#### [Best Fourth of July Mattress Deals From Helix, Birch, and More (2025)](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
+**发布时间**: 2025-06-25 19:23
+
+#### [AI Agents Are Getting Better at Writing Code—and Hacking It as Well](https://www.wired.com/story/ai-agents-are-getting-better-at-writing-code-and-hacking-it-as-well/)
+**发布时间**: 2025-06-25 16:58
+
+#### [Best Binoculars (2025): Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)
+**发布时间**: 2025-06-25 16:39
+
+#### [How to Clean a Beer Glass for Perfect Pours](https://www.wired.com/story/how-to-clean-a-beer-glass/)
+**发布时间**: 2025-06-25 15:06
+
+#### [Best 6 Soda Makers (2025): Drinkmate, SodaStream, Aerflo](https://www.wired.com/gallery/best-soda-maker/)
+**发布时间**: 2025-06-25 14:01
+
+#### [11 Best Computer Monitors (2025): Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
+**发布时间**: 2025-06-25 13:30
+
+#### [8 Best Cheap Phones (2025), Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+**发布时间**: 2025-06-25 13:03
+
+#### [9 Best Cat Water Fountains, WIRED Tested and Reviewed (2025)](https://www.wired.com/gallery/the-best-cat-water-fountains/)
+**发布时间**: 2025-06-25 12:37
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [想买小米 YU7？SU7 车主先来给你算笔账](http://www.huxiu.com/article/4505934.html?f=wangzhan)
+**发布时间**: 2025-06-25 21:00
+
+#### [为什么资本主义，始于猎巫？](http://www.huxiu.com/article/4503075.html?f=wangzhan)
+**发布时间**: 2025-06-25 20:00
+
+#### [Robotaxi只上路了10辆，马斯克身家微涨1000亿](http://www.huxiu.com/article/4505975.html?f=wangzhan)
+**发布时间**: 2025-06-25 18:42
+
+#### [没资源就不敢报金融？你可能正在错过离钱最近的机会](http://www.huxiu.com/article/4501980.html?f=wangzhan)
+**发布时间**: 2025-06-25 15:00
+
+#### [火出圈的“苏超”，不只有足球](http://www.huxiu.com/article/4502002.html?f=wangzhan)
+**发布时间**: 2025-06-25 14:30
 
 ---
 

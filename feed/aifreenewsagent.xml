@@ -5,14 +5,86 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Jun 2025 12:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 12:34:56 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 00:56:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google’s new AI will help researchers understand how our genes work</title>
+      <link>https://www.technologyreview.com/2025/06/25/1119345/google-deepmind-alphagenome-ai/</link>
+      <description>&lt;![CDATA[Google’s new AI will help researchers understand how our genes work]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/25/1119345/google-deepmind-alphagenome-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MUVERA: Making multi-vector retrieval as fast as single-vector search</title>
+      <link>https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/</link>
+      <description>&lt;![CDATA[MUVERA: Making multi-vector retrieval as fast as single-vector search]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>快手推出全球首部AI单元故事集《新世界加载中》</title>
+      <link>https://www.qbitai.com/2025/06/301695.html</link>
+      <description>&lt;![CDATA[快手推出全球首部AI单元故事集《新世界加载中》]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301695.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Agent+数据，会成为企业的新决策大脑吗？｜直播预告</title>
+      <link>https://www.qbitai.com/2025/06/301682.html</link>
+      <description>&lt;![CDATA[Agent+数据，会成为企业的新决策大脑吗？｜直播预告]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301682.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华科校友在港冲刺AI infra第一股！中国最能赚的独立边缘云服务商，王小川投了</title>
+      <link>https://www.qbitai.com/2025/06/301513.html</link>
+      <description>&lt;![CDATA[华科校友在港冲刺AI infra第一股！中国最能赚的独立边缘云服务商，王小川投了]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301513.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>奥特曼回应OpenAI抄袭：投资没谈拢就来反咬！新一轮邮件证据曝光</title>
+      <link>https://www.qbitai.com/2025/06/301443.html</link>
+      <description>&lt;![CDATA[奥特曼回应OpenAI抄袭：投资没谈拢就来反咬！新一轮邮件证据曝光]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301443.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>老黄新鲜一刀，RTX 5050正式官宣</title>
+      <link>https://www.qbitai.com/2025/06/301422.html</link>
+      <description>&lt;![CDATA[老黄新鲜一刀，RTX 5050正式官宣]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301422.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>值得买科技6月AI进展：升级能力与产品，焕新用户体验与行业生态</title>
+      <link>https://www.qbitai.com/2025/06/301413.html</link>
+      <description>&lt;![CDATA[值得买科技6月AI进展：升级能力与产品，焕新用户体验与行业生态]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 08:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/301413.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Merging AI and underwater photography to reveal hidden ocean worlds</title>
+      <link>https://news.mit.edu/2025/lobstger-merging-ai-underwater-photography-to-reveal-hidden-ocean-worlds-0625</link>
+      <description>&lt;![CDATA[Merging AI and underwater photography to reveal hidden ocean worlds]]&gt;</description>
+      <pubDate>Wed, 25 Jun 2025 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/lobstger-merging-ai-underwater-photography-to-reveal-hidden-ocean-worlds-0625</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>The Download: Introducing the Power issue</title>
       <link>https://www.technologyreview.com/2025/06/25/1119339/the-download-introducing-the-power-issue/</link>
@@ -339,78 +411,6 @@
       <description>&lt;![CDATA[Unsupervised Dataset Dictionary Learning for domain shift robust clustering: application to sitting posture identification]]&gt;</description>
       <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.19410</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Commander-GPT: Dividing and Routing for Multimodal Sarcasm Detection</title>
-      <link>https://arxiv.org/abs/2506.19420</link>
-      <description>&lt;![CDATA[Commander-GPT: Dividing and Routing for Multimodal Sarcasm Detection]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19420</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.19466</link>
-      <description>&lt;![CDATA[KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19466</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling</title>
-      <link>https://arxiv.org/abs/2506.19500</link>
-      <description>&lt;![CDATA[NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19500</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons</title>
-      <link>https://arxiv.org/abs/2506.19530</link>
-      <description>&lt;![CDATA[NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19530</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming</title>
-      <link>https://arxiv.org/abs/2506.19573</link>
-      <description>&lt;![CDATA[Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19573</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning</title>
-      <link>https://arxiv.org/abs/2506.19592</link>
-      <description>&lt;![CDATA[Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19592</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP</title>
-      <link>https://arxiv.org/abs/2506.19608</link>
-      <description>&lt;![CDATA[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19608</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI</title>
-      <link>https://arxiv.org/abs/2506.19613</link>
-      <description>&lt;![CDATA[Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19613</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>On the efficacy of old features for the detection of new bots</title>
-      <link>https://arxiv.org/abs/2506.19635</link>
-      <description>&lt;![CDATA[On the efficacy of old features for the detection of new bots]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19635</guid>
       <category>AI</category>
     </item>
   </channel>
