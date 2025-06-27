@@ -2,7 +2,57 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-27 01:01
+**最后更新时间**: 2025-06-27 04:23
+
+---
+
+## 🆕 最新更新 (2025-06-27 04:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [小米AI眼镜暴露了雷军的“野心”](https://www.tmtpost.com/7609349.html)
+**发布时间**: 2025-06-27 12:04
+
+#### [Xiaomi Enters SUV Market with YU7 Launch, Targeting Tesla with Bold Pricing and High-Tech Features](https://www.tmtpost.com/7609495.html)
+**发布时间**: 2025-06-27 11:57
+
+#### [京东稳定币的核心，在于“稳定”](https://www.tmtpost.com/7609255.html)
+**发布时间**: 2025-06-27 11:44
+
+#### [144城3091家餐厅登上2025大众点评“必吃榜”，公信力铸就餐饮行业风向标](https://www.tmtpost.com/7609003.html)
+**发布时间**: 2025-06-27 11:17
+
+#### [中东，正在成为AI时代的新硅谷](https://www.tmtpost.com/7609014.html)
+**发布时间**: 2025-06-27 10:30
+
+#### [算法比骗子更懂如何骗你，AI正在定制你的认知牢笼](https://www.tmtpost.com/7609053.html)
+**发布时间**: 2025-06-27 10:14
+
+#### [浮空风电赛道渐热 临一云川获中金资本旗下基金独家投资](https://www.tmtpost.com/7609295.html)
+**发布时间**: 2025-06-27 10:08
+
+#### [得物摸着小红书过河](https://www.tmtpost.com/7608994.html)
+**发布时间**: 2025-06-27 10:00
+
+#### [恶毒女配，选择在郑州重生](https://www.tmtpost.com/7609047.html)
+**发布时间**: 2025-06-27 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java近期新闻：MicroProfile、Open Liberty、TomEE、JobRunr、LangChain4j、SwiftJava](https://www.infoq.cn/article/KkPVvqsp31SBUkhU1306?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-27 11:49
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小米把中国汽车干懵了](http://www.huxiu.com/article/4507101.html?f=wangzhan)
+**发布时间**: 2025-06-27 07:32
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Redwood Materials is giving old EV batteries a second life as microgrids](https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids)
+**发布时间**: 2025-06-27 03:30
+
+#### [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)
+**发布时间**: 2025-06-27 03:10
 
 ---
 
