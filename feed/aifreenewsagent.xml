@@ -5,14 +5,118 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Jun 2025 08:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 08:16:04 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 12:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:26:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>中国人民大学团队开发SPACE：基于MoE的DNA基础模型新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-13</link>
+      <description>&lt;![CDATA[中国人民大学团队开发SPACE：基于MoE的DNA基础模型新范式]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>音画同步，AI视频也能有完美「原声音」，可灵AI刚上线的！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-12</link>
+      <description>&lt;![CDATA[音画同步，AI视频也能有完美「原声音」，可灵AI刚上线的！]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>这个扩散LLM太快了！没有「请稍后」，实测倍速于Gemini 2.5 Flash</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-11</link>
+      <description>&lt;![CDATA[这个扩散LLM太快了！没有「请稍后」，实测倍速于Gemini 2.5 Flash]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 打破残差连接瓶颈，彩云科技&amp;北邮提出MUDDFormer架构让Transformer再进化！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-10</link>
+      <description>&lt;![CDATA[ICML 2025 | 打破残差连接瓶颈，彩云科技&amp;北邮提出MUDDFormer架构让Transformer再进化！]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: how to clean up AI data centers, and weight-loss drugs’ side effects</title>
+      <link>https://www.technologyreview.com/2025/06/27/1119432/the-download-how-to-clean-up-ai-data-centers-and-weight-loss-drugs-side-effects/</link>
+      <description>&lt;![CDATA[The Download: how to clean up AI data centers, and weight-loss drugs’ side effects]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/27/1119432/the-download-how-to-clean-up-ai-data-centers-and-weight-loss-drugs-side-effects/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>We’re learning more about what weight-loss drugs do to the body</title>
+      <link>https://www.technologyreview.com/2025/06/27/1119385/were-learning-more-about-what-weight-loss-drugs-do-to-the-body/</link>
+      <description>&lt;![CDATA[We’re learning more about what weight-loss drugs do to the body]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/27/1119385/were-learning-more-about-what-weight-loss-drugs-do-to-the-body/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek-R2为什么还没发？</title>
+      <link>https://www.qbitai.com/2025/06/302832.html</link>
+      <description>&lt;![CDATA[DeepSeek-R2为什么还没发？]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302832.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>科大讯飞语音合成技术升级，声音复刻与超拟人能力实现突破</title>
+      <link>https://www.qbitai.com/2025/06/302797.html</link>
+      <description>&lt;![CDATA[科大讯飞语音合成技术升级，声音复刻与超拟人能力实现突破]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302797.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谷歌AI试穿神器真神了！上传照片秒出OOTD，视频效果和照镜子没区别</title>
+      <link>https://www.qbitai.com/2025/06/302795.html</link>
+      <description>&lt;![CDATA[谷歌AI试穿神器真神了！上传照片秒出OOTD，视频效果和照镜子没区别]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302795.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯混元推出首款开源混合推理模型，擅长Agent工具调用和长文理解</title>
+      <link>https://www.qbitai.com/2025/06/302762.html</link>
+      <description>&lt;![CDATA[腾讯混元推出首款开源混合推理模型，擅长Agent工具调用和长文理解]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302762.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Robotaxi太火爆，硅谷大佬盯上中国无人车分公司</title>
+      <link>https://www.qbitai.com/2025/06/302725.html</link>
+      <description>&lt;![CDATA[Robotaxi太火爆，硅谷大佬盯上中国无人车分公司]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302725.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Nature报道：谷歌新模型1秒读懂DNA变异！首次统一基因组全任务</title>
+      <link>https://www.qbitai.com/2025/06/302679.html</link>
+      <description>&lt;![CDATA[Nature报道：谷歌新模型1秒读懂DNA变异！首次统一基因组全任务]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 07:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302679.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>新船启航，驶向全球！比亚迪第五艘汽车运输船“西安号”正式交付，国际化进程再加速</title>
+      <link>https://www.qbitai.com/2025/06/302678.html</link>
+      <description>&lt;![CDATA[新船启航，驶向全球！比亚迪第五艘汽车运输船“西安号”正式交付，国际化进程再加速]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 07:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302678.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>勾勒智能答卷，上海再启新章——WAIC 2025倒计时30天五大进展发布</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-27-9</link>
@@ -307,110 +411,6 @@
       <description>&lt;![CDATA[Evaluating PDE discovery methods for multiscale modeling of biological signals]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.20694</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>IMC-PINN-FE: A Physics-Informed Neural Network for Patient-Specific Left Ventricular Finite Element Modeling with Image Motion Consistency and Biomechanical Parameter Estimation</title>
-      <link>https://arxiv.org/abs/2506.20696</link>
-      <description>&lt;![CDATA[IMC-PINN-FE: A Physics-Informed Neural Network for Patient-Specific Left Ventricular Finite Element Modeling with Image Motion Consistency and Biomechanical Parameter Estimation]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20696</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Diffusion Tree Sampling: Scalable inference-time alignment of diffusion models</title>
-      <link>https://arxiv.org/abs/2506.20701</link>
-      <description>&lt;![CDATA[Diffusion Tree Sampling: Scalable inference-time alignment of diffusion models]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20701</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>On Convolutions, Intrinsic Dimension, and Diffusion Models</title>
-      <link>https://arxiv.org/abs/2506.20705</link>
-      <description>&lt;![CDATA[On Convolutions, Intrinsic Dimension, and Diffusion Models]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20705</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Test-time Scaling Techniques in Theoretical Physics -- A Comparison of Methods on the TPBench Dataset</title>
-      <link>https://arxiv.org/abs/2506.20729</link>
-      <description>&lt;![CDATA[Test-time Scaling Techniques in Theoretical Physics -- A Comparison of Methods on the TPBench Dataset]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20729</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots</title>
-      <link>https://arxiv.org/abs/2506.20748</link>
-      <description>&lt;![CDATA[Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20748</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Agile Management for Machine Learning: A Systematic Mapping Study</title>
-      <link>https://arxiv.org/abs/2506.20759</link>
-      <description>&lt;![CDATA[Agile Management for Machine Learning: A Systematic Mapping Study]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20759</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Stochastic Parameter Decomposition</title>
-      <link>https://arxiv.org/abs/2506.20790</link>
-      <description>&lt;![CDATA[Stochastic Parameter Decomposition]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20790</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas</title>
-      <link>https://arxiv.org/abs/2506.20803</link>
-      <description>&lt;![CDATA[The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20803</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis</title>
-      <link>https://arxiv.org/abs/2506.20806</link>
-      <description>&lt;![CDATA[Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20806</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization</title>
-      <link>https://arxiv.org/abs/2506.20807</link>
-      <description>&lt;![CDATA[GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20807</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FINN-GL: Generalized Mixed-Precision Extensions for FPGA-Accelerated LSTMs</title>
-      <link>https://arxiv.org/abs/2506.20810</link>
-      <description>&lt;![CDATA[FINN-GL: Generalized Mixed-Precision Extensions for FPGA-Accelerated LSTMs]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20810</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering</title>
-      <link>https://arxiv.org/abs/2506.20821</link>
-      <description>&lt;![CDATA[MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20821</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes</title>
-      <link>https://arxiv.org/abs/2506.20822</link>
-      <description>&lt;![CDATA[Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20822</guid>
       <category>AI</category>
     </item>
   </channel>

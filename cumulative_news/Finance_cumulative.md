@@ -2,7 +2,47 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-27 01:01
+**最后更新时间**: 2025-06-27 12:26
+
+---
+
+## 🆕 最新更新 (2025-06-27 12:26)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why the S&P 500 is on the cusp of the seventh great breakout since the 1990s](https://www.marketwatch.com/bulletins/redirect/go?g=82a52805-49a9-4d20-ad4e-126b9cd106be&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 12:07
+
+#### [Boeing is making a positive turn, says analyst upgrading stock to buy](https://www.marketwatch.com/bulletins/redirect/go?g=82de72a0-e7c3-4f8a-8455-360ec315deb8&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 11:43
+
+#### [U.K. vehicle production slumped 33% in May](https://www.marketwatch.com/bulletins/redirect/go?g=45a9b56d-fc08-43f8-a5d6-1f4b33c780f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 10:13
+
+#### [The Great Rotation out of U.S. stocks is still in motion, strategist says](https://www.marketwatch.com/bulletins/redirect/go?g=8114e6c6-e12b-44c9-bd50-35355a94f23a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 09:39
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500 is on the cusp of the seventh great breakout since the 1990s: BofA’s Hartnett](https://www.marketwatch.com/story/the-s-p-500-is-on-the-cusp-of-the-seventh-great-breakout-since-the-1990s-bofas-hartnett-0c022fd4?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 12:05
+
+#### [My brother stole $100K from my mom to buy bitcoin. Do I convince her to sue him?](https://www.marketwatch.com/story/he-is-so-manipulative-my-brother-stole-100k-from-my-mom-to-buy-bitcoin-do-i-convince-her-to-sue-him-4d1e6206?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 12:01
+
+#### [There’s an important market indicator that suggests investors remain wary. It’s good news for stocks.](https://www.marketwatch.com/story/theres-an-important-market-indicator-that-suggests-investors-remain-wary-its-good-news-for-stocks-506d96bd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 11:37
+
+#### [Boeing is making a positive turn, says analyst upgrading stock to buy](https://www.marketwatch.com/story/boeing-is-making-a-positive-turn-says-analyst-upgrading-stock-to-buy-33294d9c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 11:21
+
+#### [Tesla’s sales numbers are around the corner. Does it look good for the EV maker?](https://www.marketwatch.com/story/teslas-sales-numbers-are-around-the-corner-does-it-look-good-for-the-ev-maker-852ace0e?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 10:00
+
+#### [The Great Rotation out of the U.S. toward other markets is still in motion, says strategist](https://www.marketwatch.com/story/the-great-rotation-out-of-the-u-s-toward-other-markets-is-still-in-motion-says-strategist-63dc4434?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 09:32
+
+#### [My wife and I have $7,000 in pensions, $140,000 in cash, plus Social Security. Can we afford to retire?](https://www.marketwatch.com/story/my-wife-and-i-have-7-000-in-pensions-140-000-in-cash-plus-social-security-can-we-afford-to-retire-14fd44f1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 09:30
 
 ---
 

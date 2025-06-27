@@ -2,7 +2,70 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-27 08:16
+**最后更新时间**: 2025-06-27 12:26
+
+---
+
+## 🆕 最新更新 (2025-06-27 12:26)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「没有包袱」的原生鸿蒙，要做成最纯粹的「AI 操作系统」](http://www.geekpark.net/news/350973)
+**发布时间**: 2025-06-27 19:53
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [波司登2024/25财年营收259亿、净利35亿双创新高；圣贝拉登陆港交所；农夫山泉正式进入香港市场｜消研所周报](https://www.tmtpost.com/7609903.html)
+**发布时间**: 2025-06-27 19:29
+
+#### [“136号文”加速落地，光伏能顺利通过入市这道“窄门”吗？](https://www.tmtpost.com/7609256.html)
+**发布时间**: 2025-06-27 17:38
+
+#### [每月花1500元 去“躺平” ，青年养老院是“桃花源”还是“韭菜园”？](https://www.tmtpost.com/7603789.html)
+**发布时间**: 2025-06-27 17:38
+
+#### [行业收并购浪潮下，哪些酒管集团更容易被资本“翻牌子”？](https://www.tmtpost.com/7609350.html)
+**发布时间**: 2025-06-27 17:38
+
+#### [AI编程“真相”：硬核测试全部0分，AI写代码到底行不行？| 深度](https://www.tmtpost.com/7604491.html)
+**发布时间**: 2025-06-27 16:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2G内存跑Gemma 3n完整版！全球首个10B内模型杀疯LMArena：1300分碾压记录](https://www.infoq.cn/article/6h6Iu6HcGWyqvoyRmCm2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-27 19:00
+
+#### [这波AI淘金热里，卖“铲子”的公司正闷声发财，“征服"了几十家国内外巨头！](https://www.infoq.cn/article/YAyHEWFqMATHOej9NZhW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-27 18:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642)
+**发布时间**: 2025-06-27 17:40
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Joybird Eliot Sleeper Sofa Review: Gorgeous and Functional](https://www.wired.com/review/joybird-eliot-sleeper-sofa/)
+**发布时间**: 2025-06-27 12:02
+
+#### [Mattress Shopping Terms to Know (2025)](https://www.wired.com/story/mattress-shopping-terms-to-know/)
+**发布时间**: 2025-06-27 11:43
+
+#### [The Obsessive Fans Playing God on 'Love Island'—and Living for the Crash Outs](https://www.wired.com/story/the-obsessive-fans-playing-god-on-love-island-and-living-for-the-crash-outs/)
+**发布时间**: 2025-06-27 11:00
+
+#### [34 Best Family Board Games (2025): Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
+**发布时间**: 2025-06-27 10:30
+
+#### [The Era of ‘Woke’ Brand Activism Is Over](https://www.wired.com/story/the-era-of-woke-brand-activism-is-over/)
+**发布时间**: 2025-06-27 10:00
+
+#### [JD Vance Is the Loyal Convert in Chief](https://www.wired.com/story/jd-vance-is-the-loyal-convert-in-chief/)
+**发布时间**: 2025-06-27 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Graphic artists in China push back on AI and its averaging effect](https://www.theverge.com/ai-artificial-intelligence/688645/graphic-artists-china-ai)
+**发布时间**: 2025-06-27 12:00
 
 ---
 
