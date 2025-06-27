@@ -2,7 +2,28 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-26 12:22
+**最后更新时间**: 2025-06-27 00:56
+
+---
+
+## 🆕 最新更新 (2025-06-27 00:56)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [小米YU7正式开卖，一小时大定289000台](https://www.jiqizhixin.com/articles/2025-06-26-14)
+**发布时间**: 2025-06-26 23:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [小米AI眼镜1999元起售！雷军：眼镜+相机+耳机+小爱，就是你的随身AI入口](https://www.qbitai.com/2025/06/302223.html)
+**发布时间**: 2025-06-26 14:51
+
+#### [2025惠普商用AI战略暨AI PC新品发布，智领办公新未来](https://www.qbitai.com/2025/06/302203.html)
+**发布时间**: 2025-06-26 12:58
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Google DeepMind’s DNA AI, and heatwaves’ impact on the grid](https://www.technologyreview.com/2025/06/26/1119379/the-download-google-deepminds-dna-ai-and-heatwaves-impact-on-the-grid/)
+**发布时间**: 2025-06-26 12:10
 
 ---
 

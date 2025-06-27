@@ -2,7 +2,74 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-26 12:22
+**最后更新时间**: 2025-06-27 01:01
+
+---
+
+## 🆕 最新更新 (2025-06-27 01:01)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Teens from upper-income families are far more likely to work summer jobs than poor teens. What’s going on?](https://www.marketwatch.com/story/teens-from-upper-income-families-are-far-more-likely-to-work-summer-jobs-than-poor-teens-whats-going-on-e695fca2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 00:39
+
+#### [Wall Street is getting worried about United Airlines. Yes, it’s mostly about Newark airport.](https://www.marketwatch.com/story/wall-street-is-getting-worried-about-united-airlines-yes-its-mostly-about-newark-airport-9685342d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 23:53
+
+#### [QuantumScape’s stock is still on a tear, but buyer beware, analyst says](https://www.marketwatch.com/story/quantumscapes-stock-is-still-on-a-tear-but-buyer-beware-analyst-says-36ea9613?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 23:32
+
+#### [Nike’s outlook wakes up its stock. But execs still see a long road to full recovery.](https://www.marketwatch.com/story/nikes-results-top-estimates-but-ceo-says-theyre-still-not-where-we-want-them-to-be-216df439?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 23:11
+
+#### [‘He’s so manipulative’: My brother stole $100K from my mom to buy bitcoin. Do I convince her to sue him?](https://www.marketwatch.com/story/he-is-so-manipulative-my-brother-stole-100k-from-my-mom-to-buy-bitcoin-do-i-convince-her-to-sue-him-4d1e6206?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 22:06
+
+#### [Sorry, but most American weddings are a lot more extravagant than the nuptials of Amazon’s Jeff Bezos](https://www.marketwatch.com/story/most-american-weddings-are-a-lot-more-extravagant-than-the-jeff-bezos-and-lauren-sanchez-nuptials-739a5748?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 21:28
+
+#### [S&P 500 briefly tops record high for first time in 4 months. What could push stocks higher from here?](https://www.marketwatch.com/story/s-p-500-briefly-tops-record-high-for-the-first-time-in-4-months-what-could-push-stocks-higher-from-here-8163bd0d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 20:57
+
+#### [The Fed’s moves on interest rates aren’t just about Trump’s pick for chair. Here’s the math.](https://www.marketwatch.com/story/the-feds-moves-on-interest-rates-arent-just-about-trumps-pick-for-chair-heres-the-math-4a9b07d0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 20:21
+
+#### [Here’s how many people leave a news article when asked to pay](https://www.marketwatch.com/story/few-people-are-willing-to-pay-for-news-online-which-makes-things-tougher-for-the-news-industry-332a8245?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 19:48
+
+#### [An IPO from a collections company offers a fresh way to profit as consumers struggle](https://www.marketwatch.com/story/an-ipo-from-a-collections-company-offers-a-fresh-way-to-profit-as-consumers-struggle-ef14c9fd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-26 19:41
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [As S&P 500 briefly tops record high, what could push stocks higher from here?](https://www.marketwatch.com/bulletins/redirect/go?g=d25aaa75-9e74-4248-b844-08031481a97b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 22:02
+
+#### [Nike’s results top estimates but still ‘not where we want them to be,' CEO says](https://www.marketwatch.com/bulletins/redirect/go?g=9a7e91b9-037f-43fe-8284-c7ee17a3d598&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 20:48
+
+#### [Fed’s interest-rate moves aren’t just about Trump’s chair pick. Here's the math.](https://www.marketwatch.com/bulletins/redirect/go?g=e4b6c11e-ac0f-445d-8aa2-be633f9b605b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 20:26
+
+#### [S&P 500 and Nasdaq book big gains, fall just short of new record closing highs](https://www.marketwatch.com/bulletins/redirect/go?g=8eacefc8-41e6-4e67-9377-d150e73e6cbd&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 20:03
+
+#### [Trump's latest move against Powell sends U.S. dollar tumbling to 3-year low](https://www.marketwatch.com/bulletins/redirect/go?g=70b7bd90-9401-49d4-94ec-28ad58a89d48&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 19:25
+
+#### [The S&P 500 has just eclipsed its record-high level from February](https://www.marketwatch.com/bulletins/redirect/go?g=0553d730-ddcb-4ff8-a49a-d8f4fb1f43b3&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 18:18
+
+#### [Chip stocks are reclaiming market leadership. Why analysts are optimistic.](https://www.marketwatch.com/bulletins/redirect/go?g=7413095d-2f36-48f1-a2d3-ef706822ae7d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 17:12
+
+#### [Mortgage rates drop to a 7-week low, with investors optimistic about lower rates](https://www.marketwatch.com/bulletins/redirect/go?g=831237e7-e7f7-43a3-b871-0aabe2252134&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 16:34
+
+#### [Most American weddings are more extravagant than the nuptials of Amazon’s Bezos](https://www.marketwatch.com/bulletins/redirect/go?g=e828aa8b-ed32-4bac-898a-35a9d70234c7&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 15:24
+
+#### [Why investors should maintain exposure to the ‘Magnificent Seven'](https://www.marketwatch.com/bulletins/redirect/go?g=307c1c63-f337-4916-a341-b7a7c2aa61b0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-26 13:34
 
 ---
 

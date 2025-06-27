@@ -2,7 +2,116 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-26 12:22
+**最后更新时间**: 2025-06-27 01:01
+
+---
+
+## 🆕 最新更新 (2025-06-27 01:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [钟睒睒偏向虎山行](https://www.tmtpost.com/7609059.html)
+**发布时间**: 2025-06-27 08:40
+
+#### [3分钟大定超20万台，小米YU7把对手都打懵了？](https://www.tmtpost.com/7609057.html)
+**发布时间**: 2025-06-27 08:20
+
+#### [下一个Meta不好做，小米AI眼镜距离百万爆款还差一个雷朋](https://www.tmtpost.com/7609141.html)
+**发布时间**: 2025-06-27 08:02
+
+#### [雷军：Model Y确实做得不错，但小米要敢于亮剑不能以新手自居](https://www.tmtpost.com/7609088.html)
+**发布时间**: 2025-06-27 08:02
+
+#### [科股早知道：该AI大模型应用成果发布会将举行，机构称这一细分领域是AI落地重要场景](https://www.tmtpost.com/7609153.html)
+**发布时间**: 2025-06-27 08:00
+
+#### [与中国市场渐行渐远，是星巴克的宿命](https://www.tmtpost.com/7608879.html)
+**发布时间**: 2025-06-27 08:00
+
+#### [【钛晨报】明确未来五年银行业保险业普惠金融发展要求，两部门联合划重点；小米汽车：小米YU 7起售价25.35万元；宇树科技王兴兴：公司年度营收已超10亿元](https://www.tmtpost.com/7608978.html)
+**发布时间**: 2025-06-27 07:20
+
+#### [打破芯片“卡脖子”问题！龙芯最新国产3C6000系列CPU比肩英特尔第三代至强](https://www.tmtpost.com/7608963.html)
+**发布时间**: 2025-06-26 22:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米 YU7 发布，一小时大定 28.9万台；英伟达一夜涨 1.2 万亿，重回市值第一；索尼推进《社交网络 2》制作｜极客早知道](http://www.geekpark.net/news/350904)
+**发布时间**: 2025-06-27 08:26
+
+#### [小米 YU7 1 小时订单近 30万，知道雷军会赢，没想到这么狠！](http://www.geekpark.net/news/350907)
+**发布时间**: 2025-06-27 00:12
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
+**发布时间**: 2025-06-27 00:13
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Google is rolling out its AI-powered &#8216;Ask Photos&#8217; search again – and it has a speed boost](https://www.theverge.com/news/694016/google-ask-photos-ai-gemini-search-speed-latency-boost)
+**发布时间**: 2025-06-26 23:42
+
+#### [Apple overhauls EU App Store rules following penalty](https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions)
+**发布时间**: 2025-06-26 20:58
+
+#### [Ember’s temperature-controlled smart mug is down to its best price](https://www.theverge.com/tech/693864/ember-mug-2-amazon-best-buy-deal-sale)
+**发布时间**: 2025-06-26 20:07
+
+#### [Microsoft&#8217;s Xbox PC launcher gets going with Steam, Epic, and other games showing up](https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net)
+**发布时间**: 2025-06-26 18:50
+
+#### [The Xbox 360 dashboard just got updated&#8230; to advertise newer Xboxes](https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads)
+**发布时间**: 2025-06-26 18:40
+
+#### [Comcast is simplifying its Xfinity internet plans and dropping data caps](https://www.theverge.com/news/693762/comcast-xfinity-internet-plans-unlimited-data-caps)
+**发布时间**: 2025-06-26 18:15
+
+#### [Gemini is getting ready to replace Google Assistant on Android](https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity)
+**发布时间**: 2025-06-26 17:45
+
+#### [The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone](https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator)
+**发布时间**: 2025-06-26 17:31
+
+#### [Hisense’s latest smart air conditioner is on sale for just $249.99](https://www.theverge.com/tech/693622/hisense-window-air-conditioner-btuwc08w25a-sony-ult-field-1-speaker-deal-sale)
+**发布时间**: 2025-06-26 17:21
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [‘Big Balls’ Is Now at the Social Security Administration](https://www.wired.com/story/big-balls-social-security-administration/)
+**发布时间**: 2025-06-26 22:05
+
+#### [The 46 Best Shows on Hulu Right Now (July 2025)](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+**发布时间**: 2025-06-26 19:00
+
+#### [Disney Just Threw a Punch in a Major AI Fight](https://www.wired.com/story/uncanny-valley-podcast-disney-just-threw-a-punch-in-a-major-ai-fight/)
+**发布时间**: 2025-06-26 17:46
+
+#### [7 Best Outdoor Lights (2025), Including Solar Lights](https://www.wired.com/gallery/best-outdoor-lights/)
+**发布时间**: 2025-06-26 16:00
+
+#### [The Trump Phone Is Already a Lot Different From Last Week](https://www.wired.com/story/the-trump-phone-is-already-a-lot-different-from-last-week/)
+**发布时间**: 2025-06-26 15:48
+
+#### [5 Best Google Assistant Speakers (2025): Speakers, Displays, Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
+**发布时间**: 2025-06-26 15:39
+
+#### [The 8 Best Home Arcade Machines (2025), Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
+**发布时间**: 2025-06-26 15:00
+
+#### [6 Best Phones With Headphone Jacks (2025): Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
+**发布时间**: 2025-06-26 14:33
+
+#### [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)
+**发布时间**: 2025-06-26 14:06
+
+#### [Anthros Chair V2 Review: Surprisingly Great](https://www.wired.com/review/anthros-chair-v2/)
+**发布时间**: 2025-06-26 13:03
+
+#### [10 Perks Prime Members Can Snag Before Prime Day (2025)](https://www.wired.com/story/amazon-prime-day-credits-2025/)
+**发布时间**: 2025-06-26 12:32
+
+#### [Tovala Meal Kit and Oven Review (2025): We’re Nearing Robot Chef](https://www.wired.com/review/tovala-meal-lit-and-smart-oven-pro/)
+**发布时间**: 2025-06-26 12:13
 
 ---
 

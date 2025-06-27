@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 12:22:29 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 01:01:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>小米YU7正式开卖，一小时大定289000台</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-26-14</link>
+      <description>&lt;![CDATA[小米YU7正式开卖，一小时大定289000台]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 23:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-26-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>小米AI眼镜1999元起售！雷军：眼镜+相机+耳机+小爱，就是你的随身AI入口</title>
+      <link>https://www.qbitai.com/2025/06/302223.html</link>
+      <description>&lt;![CDATA[小米AI眼镜1999元起售！雷军：眼镜+相机+耳机+小爱，就是你的随身AI入口]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302223.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>2025惠普商用AI战略暨AI PC新品发布，智领办公新未来</title>
+      <link>https://www.qbitai.com/2025/06/302203.html</link>
+      <description>&lt;![CDATA[2025惠普商用AI战略暨AI PC新品发布，智领办公新未来]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302203.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: Google DeepMind’s DNA AI, and heatwaves’ impact on the grid</title>
+      <link>https://www.technologyreview.com/2025/06/26/1119379/the-download-google-deepminds-dna-ai-and-heatwaves-impact-on-the-grid/</link>
+      <description>&lt;![CDATA[The Download: Google DeepMind’s DNA AI, and heatwaves’ impact on the grid]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/26/1119379/the-download-google-deepminds-dna-ai-and-heatwaves-impact-on-the-grid/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>蚂蚁集团加速推进AI医疗健康，推出全新大模型应用「AQ」</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-26-13</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind]]&gt;</description>
       <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.20664</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DualEquiNet: A Dual-Space Hierarchical Equivariant Network for Large Biomolecules</title>
-      <link>https://arxiv.org/abs/2506.19862</link>
-      <description>&lt;![CDATA[DualEquiNet: A Dual-Space Hierarchical Equivariant Network for Large Biomolecules]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19862</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exploring the Capabilities of the Frontier Large Language Models for Nuclear Energy Research</title>
-      <link>https://arxiv.org/abs/2506.19863</link>
-      <description>&lt;![CDATA[Exploring the Capabilities of the Frontier Large Language Models for Nuclear Energy Research]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19863</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Scalable and Cost-Efficient de Novo Template-Based Molecular Generation</title>
-      <link>https://arxiv.org/abs/2506.19865</link>
-      <description>&lt;![CDATA[Scalable and Cost-Efficient de Novo Template-Based Molecular Generation]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19865</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Secure Energy Transactions Using Blockchain Leveraging AI for Fraud Detection and Energy Market Stability</title>
-      <link>https://arxiv.org/abs/2506.19870</link>
-      <description>&lt;![CDATA[Secure Energy Transactions Using Blockchain Leveraging AI for Fraud Detection and Energy Market Stability]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.19870</guid>
       <category>AI</category>
     </item>
   </channel>
