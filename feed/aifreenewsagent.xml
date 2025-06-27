@@ -5,14 +5,110 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Jun 2025 04:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 04:23:29 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 08:16:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>勾勒智能答卷，上海再启新章——WAIC 2025倒计时30天五大进展发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-9</link>
+      <description>&lt;![CDATA[勾勒智能答卷，上海再启新章——WAIC 2025倒计时30天五大进展发布]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>不靠Agent，4步修复真Bug！蚂蚁CGM登顶SWE-Bench开源榜</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-8</link>
+      <description>&lt;![CDATA[不靠Agent，4步修复真Bug！蚂蚁CGM登顶SWE-Bench开源榜]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谢菲尔德大学、阿斯利康提出MapDiff，准确捕捉蛋白逆折叠的结构信息和残基相互作用</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-7</link>
+      <description>&lt;![CDATA[谢菲尔德大学、阿斯利康提出MapDiff，准确捕捉蛋白逆折叠的结构信息和残基相互作用]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>83.9%精准度，专家级AI模型Eye2Gene实现遗传性眼病基因诊断</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-6</link>
+      <description>&lt;![CDATA[83.9%精准度，专家级AI模型Eye2Gene实现遗传性眼病基因诊断]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>苹果出手！改进GRPO，让dLLM也能高效强化学习</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-5</link>
+      <description>&lt;![CDATA[苹果出手！改进GRPO，让dLLM也能高效强化学习]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI 开始「自由玩电脑」了！吉大提出「屏幕探索者」智能体</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-4</link>
+      <description>&lt;![CDATA[AI 开始「自由玩电脑」了！吉大提出「屏幕探索者」智能体]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AgentAuditor: 让智能体安全评估器的精确度达到人类水平</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-27-3</link>
+      <description>&lt;![CDATA[AgentAuditor: 让智能体安全评估器的精确度达到人类水平]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-27-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型首次直接理解代码图:不用Agent修bug,登顶SWE-Bench开源榜</title>
+      <link>https://www.qbitai.com/2025/06/302649.html</link>
+      <description>&lt;![CDATA[大模型首次直接理解代码图:不用Agent修bug,登顶SWE-Bench开源榜]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 06:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302649.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>建筑生破解60年数学悬案，制成「永远同一面朝上」的单稳四面体</title>
+      <link>https://www.qbitai.com/2025/06/302628.html</link>
+      <description>&lt;![CDATA[建筑生破解60年数学悬案，制成「永远同一面朝上」的单稳四面体]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302628.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>90后清华博士厨房机器人融资数千万，拿下北京市首张具身智能机器人食品经营许可证</title>
+      <link>https://www.qbitai.com/2025/06/302614.html</link>
+      <description>&lt;![CDATA[90后清华博士厨房机器人融资数千万，拿下北京市首张具身智能机器人食品经营许可证]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 05:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302614.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里发布信息检索Agent，可自主上网查资料，GAIA基准超越GPT-4o | 模型&amp;数据开源</title>
+      <link>https://www.qbitai.com/2025/06/302567.html</link>
+      <description>&lt;![CDATA[阿里发布信息检索Agent，可自主上网查资料，GAIA基准超越GPT-4o | 模型&amp;数据开源]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 05:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302567.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>@所有开发者：Agent变现，阿里云百炼联合支付宝首创「AI打赏」！Agent Store全新发布</title>
+      <link>https://www.qbitai.com/2025/06/302521.html</link>
+      <description>&lt;![CDATA[@所有开发者：Agent变现，阿里云百炼联合支付宝首创「AI打赏」！Agent Store全新发布]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 05:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302521.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>谷歌开源Gemma 3n：2G内存就能跑，100亿参数内最强多模态模型</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-27-2</link>
@@ -315,102 +411,6 @@
       <description>&lt;![CDATA[Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.20822</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Leveraging Vision-Language Models to Select Trustworthy Super-Resolution Samples Generated by Diffusion Models</title>
-      <link>https://arxiv.org/abs/2506.20832</link>
-      <description>&lt;![CDATA[Leveraging Vision-Language Models to Select Trustworthy Super-Resolution Samples Generated by Diffusion Models]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20832</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization</title>
-      <link>https://arxiv.org/abs/2506.20841</link>
-      <description>&lt;![CDATA[FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20841</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach</title>
-      <link>https://arxiv.org/abs/2506.20851</link>
-      <description>&lt;![CDATA[Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20851</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation</title>
-      <link>https://arxiv.org/abs/2506.20869</link>
-      <description>&lt;![CDATA[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20869</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>THIRDEYE: Cue-Aware Monocular Depth Estimation via Brain-Inspired Multi-Stage Fusion</title>
-      <link>https://arxiv.org/abs/2506.20877</link>
-      <description>&lt;![CDATA[THIRDEYE: Cue-Aware Monocular Depth Estimation via Brain-Inspired Multi-Stage Fusion]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20877</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Complex Model Transformations by Reinforcement Learning with Uncertain Human Guidance</title>
-      <link>https://arxiv.org/abs/2506.20883</link>
-      <description>&lt;![CDATA[Complex Model Transformations by Reinforcement Learning with Uncertain Human Guidance]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20883</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Omniwise: Predicting GPU Kernels Performance with LLMs</title>
-      <link>https://arxiv.org/abs/2506.20886</link>
-      <description>&lt;![CDATA[Omniwise: Predicting GPU Kernels Performance with LLMs]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20886</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.20915</link>
-      <description>&lt;![CDATA[ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20915</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Optimising Language Models for Downstream Tasks: A Post-Training Perspective</title>
-      <link>https://arxiv.org/abs/2506.20917</link>
-      <description>&lt;![CDATA[Optimising Language Models for Downstream Tasks: A Post-Training Perspective]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20917</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM-guided Chemical Process Optimization with a Multi-Agent Approach</title>
-      <link>https://arxiv.org/abs/2506.20921</link>
-      <description>&lt;![CDATA[LLM-guided Chemical Process Optimization with a Multi-Agent Approach]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20921</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Interpretable Representation Learning for Additive Rule Ensembles</title>
-      <link>https://arxiv.org/abs/2506.20927</link>
-      <description>&lt;![CDATA[Interpretable Representation Learning for Additive Rule Ensembles]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20927</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models</title>
-      <link>https://arxiv.org/abs/2506.20946</link>
-      <description>&lt;![CDATA[Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20946</guid>
       <category>AI</category>
     </item>
   </channel>
