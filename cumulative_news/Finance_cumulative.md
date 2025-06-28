@@ -2,7 +2,71 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-27 12:26
+**最后更新时间**: 2025-06-28 00:55
+
+---
+
+## 🆕 最新更新 (2025-06-28 00:55)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Will ‘F1’ help Apple finally win one in the movie and streaming race?](https://www.marketwatch.com/bulletins/redirect/go?g=94fb71a1-56a5-470d-99a8-6e6ead204804&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-28 00:05
+
+#### [Trump’s latest trade threat looms over Wall Street as stocks return to records](https://www.marketwatch.com/bulletins/redirect/go?g=de8fcac9-6758-477c-9ba9-74f05d078907&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 22:32
+
+#### [Wells Fargo clears another regulatory hurdle as banks pass Fed's stress tests](https://www.marketwatch.com/bulletins/redirect/go?g=b524e840-f751-46a2-85f2-c0d3dc9cb90a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 21:57
+
+#### [Trump megabill’s AI rules draw flak from GOP and Democrats. Why they’re worried.](https://www.marketwatch.com/bulletins/redirect/go?g=c02c71b5-d712-4ad0-ad67-5d14f0e6f398&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 21:13
+
+#### [Correction: As Nvidia eyes $5 trillion, Wall Street gets more bullish on tech](https://www.marketwatch.com/bulletins/redirect/go?g=efbe2f5d-b359-4a3d-9f61-71645b0dd6ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 20:14
+
+#### [S&P 500, Nasdaq end at record highs despite Trump calling off Canada trade talks](https://www.marketwatch.com/bulletins/redirect/go?g=d7ee2529-cc99-4a35-95d6-2c9be9d59ebe&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 20:03
+
+#### [As Nvidia hit $5 trillion, Wall Street got more bullish on tech stocks this week](https://www.marketwatch.com/bulletins/redirect/go?g=511dc010-5876-4a9a-911d-30eda7ad1438&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 19:40
+
+#### [Stocks pare gains as Trump says U.S ending trade talks with Canada — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=aef407b1-4f5b-4252-85cc-36c7c519c462&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 19:02
+
+#### [Trump cuts off trade talks with Canada. This tax is the key.](https://www.marketwatch.com/bulletins/redirect/go?g=eecbe367-e8e7-41aa-b26d-1ec87b90b85b&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 18:10
+
+#### [What drove stocks' record-breaking week? Growing rate-cut expectations.](https://www.marketwatch.com/bulletins/redirect/go?g=a7a4b70d-a30f-4acb-9e2c-4428fb3d3515&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-27 17:51
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Most American weddings are a lot more extravagant than the nuptials of Amazon’s Jeff Bezos](https://www.marketwatch.com/story/most-american-weddings-are-a-lot-more-extravagant-than-the-jeff-bezos-and-lauren-sanchez-nuptials-739a5748?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 23:00
+
+#### [I’m a stay-at-home. Do I take a part-time job to spend more time with my kids — or get a job for six figures?](https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-for-10-years-do-i-take-a-part-time-job-to-spend-more-time-with-my-kids-or-get-a-job-for-six-figures-5cfe7788?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 22:47
+
+#### [My wife and I have $7,000 in pensions, $140,000 cash, plus $3,500 in Social Security. Can we afford to retire?](https://www.marketwatch.com/story/my-wife-and-i-have-7-000-in-pensions-140-000-in-cash-plus-social-security-can-we-afford-to-retire-14fd44f1?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 22:34
+
+#### [Trump’s latest trade threat looms over Wall Street as investors celebrate stock market’s return to record territory](https://www.marketwatch.com/story/trumps-latest-trade-threat-looms-over-wall-street-as-investors-celebrate-stock-markets-return-to-record-territory-7eb48aa3?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 22:00
+
+#### [Wells Fargo clears another Fed hurdle as banks pass stress tests](https://www.marketwatch.com/story/wells-fargo-clears-another-fed-hurdle-as-banks-pass-stress-tests-6b9870d0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 21:43
+
+#### [The $5 trillion company: Wall Street got more bullish on tech stocks this week](https://www.marketwatch.com/story/the-5-trillion-company-wall-street-gets-bullish-on-tech-stocks-this-week-8330ee26?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 21:08
+
+#### [S&P 500 scores record high for first time in 4 months. What could push stocks higher from here?](https://www.marketwatch.com/story/s-p-500-briefly-tops-record-high-for-the-first-time-in-4-months-what-could-push-stocks-higher-from-here-8163bd0d?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 20:18
+
+#### [What drove stock market’s record-breaking week? Don’t overlook growing rate-cut expectations.](https://www.marketwatch.com/story/what-drove-stock-markets-record-breaking-week-dont-overlook-growing-rate-cut-expectations-af1d44cd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 20:06
+
+#### [Why Republicans are defending this lucrative Medicaid scam](https://www.marketwatch.com/story/republicans-defend-lucrative-medicaid-scam-1b96e89a?mod=mw_rss_topstories)
+**发布时间**: 2025-06-27 19:56
 
 ---
 

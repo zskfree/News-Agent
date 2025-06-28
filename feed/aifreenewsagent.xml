@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Jun 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 12:26:43 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 00:54:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 00:55:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>REGEN: Empowering personalized recommendations with natural language</title>
+      <link>https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/</link>
+      <description>&lt;![CDATA[REGEN: Empowering personalized recommendations with natural language]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT and Mass General Brigham launch joint seed program to accelerate innovations in health</title>
+      <link>https://news.mit.edu/2025/mit-mass-general-brigham-launch-seed-program-innovations-health-0627</link>
+      <description>&lt;![CDATA[MIT and Mass General Brigham launch joint seed program to accelerate innovations in health]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-mass-general-brigham-launch-seed-program-innovations-health-0627</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Using generative AI to help robots jump higher and land safely</title>
+      <link>https://news.mit.edu/2025/using-generative-ai-help-robots-jump-higher-land-safely-0627</link>
+      <description>&lt;![CDATA[Using generative AI to help robots jump higher and land safely]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/using-generative-ai-help-robots-jump-higher-land-safely-0627</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>中国人民大学团队开发SPACE：基于MoE的DNA基础模型新范式</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-27-13</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.20683</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Progressive Size-Adaptive Federated Learning: A Comprehensive Framework for Heterogeneous Multi-Modal Data Systems</title>
-      <link>https://arxiv.org/abs/2506.20685</link>
-      <description>&lt;![CDATA[Progressive Size-Adaptive Federated Learning: A Comprehensive Framework for Heterogeneous Multi-Modal Data Systems]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20685</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs</title>
-      <link>https://arxiv.org/abs/2506.20689</link>
-      <description>&lt;![CDATA[U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20689</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluating PDE discovery methods for multiscale modeling of biological signals</title>
-      <link>https://arxiv.org/abs/2506.20694</link>
-      <description>&lt;![CDATA[Evaluating PDE discovery methods for multiscale modeling of biological signals]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20694</guid>
       <category>AI</category>
     </item>
   </channel>

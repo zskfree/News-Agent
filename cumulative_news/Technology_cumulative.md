@@ -2,7 +2,163 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-27 12:26
+**最后更新时间**: 2025-06-28 00:54
+
+---
+
+## 🆕 最新更新 (2025-06-28 00:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China's Data+AI sector About to Take off: Tencent Cloud Executive](https://www.tmtpost.com/7610230.html)
+**发布时间**: 2025-06-28 14:44
+
+#### [国内数据产业规模已超2万亿元，腾讯云程彬：Data+AI赛道将爆发](https://www.tmtpost.com/7610076.html)
+**发布时间**: 2025-06-28 09:55
+
+#### [跨国车企：用“过渡技术”反杀中国新势力](https://www.tmtpost.com/7609830.html)
+**发布时间**: 2025-06-27 22:22
+
+#### [大模型“造梦”，推理引擎“还债”，CTO们正在还AI的“应用账单”](https://www.tmtpost.com/7609750.html)
+**发布时间**: 2025-06-27 22:22
+
+#### [主流AI志愿填报工具实测：内容更丰富，辅助意味更强](https://www.tmtpost.com/7609890.html)
+**发布时间**: 2025-06-27 22:17
+
+#### [MiniMax或今年赴港上市：“大模型六小龙”的中场战事](https://www.tmtpost.com/7609866.html)
+**发布时间**: 2025-06-27 22:17
+
+#### [全面降价，医疗设备遭遇“大逃杀”](https://www.tmtpost.com/7609501.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [小米汽车：YU7 炸裂开场，会将特斯拉踢下 “神坛”？](https://www.tmtpost.com/7609421.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [想赚钱的得力们，抓住“上山”的谷子](https://www.tmtpost.com/7609595.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [县城消费，靠的不是“婆罗门”](https://www.tmtpost.com/7609655.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [猿辅导的下一道题](https://www.tmtpost.com/7609734.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [B站“二圣”：峰哥与户子的赛博膜拜学](https://www.tmtpost.com/7609700.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [五环内送菜，拼多多不下牌桌](https://www.tmtpost.com/7609771.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [Robotaxi江湖：特斯拉上路试水，中国玩家稳坐牌桌](https://www.tmtpost.com/7609917.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [充电宝的行业危机与安克创新的“微笑曲线”](https://www.tmtpost.com/7609906.html)
+**发布时间**: 2025-06-27 22:12
+
+#### [小米YU7首秀炸场后，股价再破新高，花旗中金纷纷期待科技生态“帝国”的成型](https://www.tmtpost.com/7609798.html)
+**发布时间**: 2025-06-27 22:11
+
+#### [日本汽车出海70年，“财团模式”征服全球？｜钛度车库](https://www.tmtpost.com/7609410.html)
+**发布时间**: 2025-06-27 21:29
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军：YU7 订单超过最乐观预期，不会公布 24 小时销量；字节 Seed 招募多个机器人相关业务一号位；Grok 4 将在 7 月 4 日发布｜极客早知道](http://www.geekpark.net/news/350974)
+**发布时间**: 2025-06-28 08:42
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
+**发布时间**: 2025-06-27 23:30
+
+#### [How vulnerable is critical infrastructure to cyberattack in the US?](https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran)
+**发布时间**: 2025-06-27 22:31
+
+#### [Tesla recently lost two key execs](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)
+**发布时间**: 2025-06-27 21:15
+
+#### [Logitech says all its webcams work with Nintendo Switch 2, save one](https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2)
+**发布时间**: 2025-06-27 20:43
+
+#### [The Nothing Phone 3 might have the weirdest camera design out there](https://www.theverge.com/news/694635/nothing-phone-3-camera-design-weird)
+**发布时间**: 2025-06-27 20:33
+
+#### [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+**发布时间**: 2025-06-27 20:05
+
+#### [Here are 13 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+**发布时间**: 2025-06-27 20:04
+
+#### [Runway is going to let people generate video games with AI](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate)
+**发布时间**: 2025-06-27 19:50
+
+#### [Trump’s ‘big beautiful bill’ could mean slower Wi-Fi for you](https://www.theverge.com/news/694479/senate-bill-reduce-capacity-6ghz-wifi-band)
+**发布时间**: 2025-06-27 19:28
+
+#### [Eufy’s Omni C20 mopping robovac is $300 off for a limited time](https://www.theverge.com/tech/694442/eufy-omni-c20-mopping-robovac-biolite-super-mario-odyssey-deal-sale)
+**发布时间**: 2025-06-27 19:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [狙击OpenAI Canvas？Anthropic重磅升级Artifacts，无门槛编码时代已到来！](https://www.infoq.cn/article/ROK47O7Zikcro6R43iV0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-27 21:50
+
+#### [这波AI淘金热里，卖“铲子”的公司正闷声发财，“征服了几十家国内外巨头！](https://www.infoq.cn/article/YAyHEWFqMATHOej9NZhW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-27 18:59
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 28 Best Deals From REI's July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
+**发布时间**: 2025-06-27 21:39
+
+#### [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)
+**发布时间**: 2025-06-27 19:35
+
+#### ['Persona 5: The Phantom X' Brings the Series to Your Phone—and It's Shockingly Good](https://www.wired.com/story/persona-5-the-phantom-x-brings-the-series-to-your-phone-and-its-shockingly-good/)
+**发布时间**: 2025-06-27 19:11
+
+#### [Substack Is Having a Moment—Again. But Time Is Running Out](https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/)
+**发布时间**: 2025-06-27 18:29
+
+#### [So Long, Blue Screen of Death. Amazingly, You'll Be Missed](https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/)
+**发布时间**: 2025-06-27 17:37
+
+#### [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)
+**发布时间**: 2025-06-27 15:36
+
+#### [The Best Cat Toys for Your Furry Friend (2025)](https://www.wired.com/story/best-cat-toys/)
+**发布时间**: 2025-06-27 15:03
+
+#### [6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+**发布时间**: 2025-06-27 14:33
+
+#### [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)
+**发布时间**: 2025-06-27 14:20
+
+#### [The 8 Best Drones (2025):  Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
+**发布时间**: 2025-06-27 13:30
+
+#### [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+**发布时间**: 2025-06-27 13:03
+
+#### [Space Elevators Could Totally Work—if Earth Days Were Much Shorter](https://www.wired.com/story/space-elevators-could-work-if-the-days-were-shorter/)
+**发布时间**: 2025-06-27 13:00
+
+#### [The Next Acetaminophen Tablet You Take Could Be Made From PET](https://www.wired.com/story/the-next-paracetamol-tablet-you-take-could-be-made-from-pet/)
+**发布时间**: 2025-06-27 12:53
+
+#### [These 7 Automatic Cat Feeders Were the Best We Tested (2025)](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+**发布时间**: 2025-06-27 12:39
+
+#### [The Obsessive Fans Playing God on ‘Love Island’—and Living for the Crash-Outs](https://www.wired.com/story/the-obsessive-fans-playing-god-on-love-island-and-living-for-the-crash-outs/)
+**发布时间**: 2025-06-27 11:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [邓紫棋反杀版权流氓？三招合法玩坏蜂鸟](http://www.huxiu.com/article/4512292.html?f=wangzhan)
+**发布时间**: 2025-06-27 18:25
+
+#### [为什么贷款越多，大A越能涨？](http://www.huxiu.com/article/4509512.html?f=wangzhan)
+**发布时间**: 2025-06-27 18:00
 
 ---
 

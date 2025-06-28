@@ -2,7 +2,23 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-27 12:21
+**最后更新时间**: 2025-06-28 00:54
+
+---
+
+## 🆕 最新更新 (2025-06-28 00:54)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [REGEN: Empowering personalized recommendations with natural language](https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/)
+**发布时间**: 2025-06-27 17:00
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT and Mass General Brigham launch joint seed program to accelerate innovations in health](https://news.mit.edu/2025/mit-mass-general-brigham-launch-seed-program-innovations-health-0627)
+**发布时间**: 2025-06-27 13:00
+
+#### [Using generative AI to help robots jump higher and land safely](https://news.mit.edu/2025/using-generative-ai-help-robots-jump-higher-land-safely-0627)
+**发布时间**: 2025-06-27 13:00
 
 ---
 
