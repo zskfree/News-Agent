@@ -2,7 +2,66 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-28 08:13
+**最后更新时间**: 2025-06-28 12:19
+
+---
+
+## 🆕 最新更新 (2025-06-28 12:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [星巴克中国待价而沽的筹码是什么](https://www.tmtpost.com/7610185.html)
+**发布时间**: 2025-06-28 17:51
+
+#### [和美药业闯关港交所IPO，估值39亿无产品上市，创始人薪酬千万](https://www.tmtpost.com/7610244.html)
+**发布时间**: 2025-06-28 17:51
+
+#### [暴跌的Labubu，才真是被资本做局了](https://www.tmtpost.com/7610398.html)
+**发布时间**: 2025-06-28 17:51
+
+#### [阿里再变阵：「1+6+N」架构正在松动](https://www.tmtpost.com/7610383.html)
+**发布时间**: 2025-06-28 17:51
+
+#### [爆火的人形机器人，离“实用”还要多久？](https://www.tmtpost.com/7610428.html)
+**发布时间**: 2025-06-28 17:51
+
+#### [特斯拉入局Robotaxi，也要“闯三关”](https://www.tmtpost.com/7610178.html)
+**发布时间**: 2025-06-28 16:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [更舒适的电气化露营，我都带了些什么？](https://sspai.com/post/100330)
+**发布时间**: 2025-06-28 15:20
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Mattress Buying: In-Store or Online?](https://www.wired.com/story/online-vs-store-mattress-shopping/)
+**发布时间**: 2025-06-28 12:08
+
+#### [Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew](https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/)
+**发布时间**: 2025-06-28 11:38
+
+#### [The 24 Best Movies on Amazon Prime Right Now (July 2025)](https://www.wired.com/story/best-amazon-prime-movies/)
+**发布时间**: 2025-06-28 11:00
+
+#### [The World Is Producing More Food than Ever—but Not for Long](https://www.wired.com/story/the-world-is-producing-more-food-than-ever-before-but-not-for-long/)
+**发布时间**: 2025-06-28 11:00
+
+#### [Fancy Airplane Seats Have Nowhere Left to Go—So What Now?](https://www.wired.com/story/fancy-airplane-seats-have-nowhere-left-to-go-so-what-now/)
+**发布时间**: 2025-06-28 11:00
+
+#### [ICE Rolls Facial Recognition Tools Out to Officers' Phones](https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/)
+**发布时间**: 2025-06-28 10:30
+
+#### [The AI Backlash Keeps Growing Stronger](https://www.wired.com/story/generative-ai-backlash/)
+**发布时间**: 2025-06-28 10:30
+
+#### [Gear News This Week: The Repairable Fairphone 6 Arrives and Samsung's Galaxy Unpacked Is Up Next](https://www.wired.com/story/gear-news-this-week-the-repairable-fairphone-6-arrives-and-samsungs-galaxy-unpacked-is-up-next/)
+**发布时间**: 2025-06-28 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Lamborghini Revuelto review: perfect harmony](https://www.theverge.com/electric-cars/689437/lamborghini-revuelto-review-phev-specs-price)
+**发布时间**: 2025-06-28 12:00
 
 ---
 

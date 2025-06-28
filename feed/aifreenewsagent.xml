@@ -5,14 +5,70 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Jun 2025 08:13:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Jun 2025 08:13:59 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 12:19:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>扬言将杀死9个行业，21岁小哥又开发人生作弊器，曾被哥大、哈佛开除</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-28-6</link>
+      <description>&lt;![CDATA[扬言将杀死9个行业，21岁小哥又开发人生作弊器，曾被哥大、哈佛开除]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-28-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI转向谷歌TPU：宿敌也能变朋友？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-28-5</link>
+      <description>&lt;![CDATA[OpenAI转向谷歌TPU：宿敌也能变朋友？]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-28-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>无需训练，即插即用，2倍GPU端到端推理加速——视频扩散模型加速方法DraftAttention</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-28-4</link>
+      <description>&lt;![CDATA[无需训练，即插即用，2倍GPU端到端推理加速——视频扩散模型加速方法DraftAttention]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-28-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Claude当上小店店主，不仅经营不善，还一度相信自己是真实人类</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-28-3</link>
+      <description>&lt;![CDATA[Claude当上小店店主，不仅经营不善，还一度相信自己是真实人类]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-28-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 Spotlight | 新理论框架解锁流匹配模型的引导生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-28-2</link>
+      <description>&lt;![CDATA[ICML 2025 Spotlight | 新理论框架解锁流匹配模型的引导生成]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-28-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>思科2025生态创新峰会成功举行——发布AI时代的安全架构与网络解决方案，助力企业转型升级</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-28</link>
+      <description>&lt;![CDATA[思科2025生态创新峰会成功举行——发布AI时代的安全架构与网络解决方案，助力企业转型升级]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-28</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Labubu后，一款AI毛球潮玩火了：朱啸虎押注，定价399元开售就卖爆</title>
+      <link>https://www.qbitai.com/2025/06/302978.html</link>
+      <description>&lt;![CDATA[Labubu后，一款AI毛球潮玩火了：朱啸虎押注，定价399元开售就卖爆]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302978.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>航空发动机用上大模型：解决复杂时序问题，性能超越ChatGPT-4o实现SOTA｜上交创智复旦</title>
       <link>https://www.qbitai.com/2025/06/302935.html</link>
@@ -355,62 +411,6 @@
       <description>&lt;![CDATA[Active Inference AI Systems for Scientific Discovery]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.21329</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding</title>
-      <link>https://arxiv.org/abs/2506.21393</link>
-      <description>&lt;![CDATA[TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21393</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Spatial Mental Modeling from Limited Views</title>
-      <link>https://arxiv.org/abs/2506.21458</link>
-      <description>&lt;![CDATA[Spatial Mental Modeling from Limited Views]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21458</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Ad-Hoc Human-AI Coordination Challenge</title>
-      <link>https://arxiv.org/abs/2506.21490</link>
-      <description>&lt;![CDATA[Ad-Hoc Human-AI Coordination Challenge]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21490</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge</title>
-      <link>https://arxiv.org/abs/2506.21506</link>
-      <description>&lt;![CDATA[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21506</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PsyLite Technical Report</title>
-      <link>https://arxiv.org/abs/2506.21536</link>
-      <description>&lt;![CDATA[PsyLite Technical Report]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21536</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DRAGON: Distributional Rewards Optimize Diffusion Generative Models</title>
-      <link>https://arxiv.org/abs/2504.15217</link>
-      <description>&lt;![CDATA[DRAGON: Distributional Rewards Optimize Diffusion Generative Models]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2504.15217</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CBF-AFA: Chunk-Based Multi-SSL Fusion for Automatic Fluency Assessment</title>
-      <link>https://arxiv.org/abs/2506.20243</link>
-      <description>&lt;![CDATA[CBF-AFA: Chunk-Based Multi-SSL Fusion for Automatic Fluency Assessment]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20243</guid>
       <category>AI</category>
     </item>
   </channel>
