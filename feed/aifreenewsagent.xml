@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Jun 2025 00:54:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Jun 2025 04:15:46 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 08:13:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 08:13:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>航空发动机用上大模型：解决复杂时序问题，性能超越ChatGPT-4o实现SOTA｜上交创智复旦</title>
+      <link>https://www.qbitai.com/2025/06/302935.html</link>
+      <description>&lt;![CDATA[航空发动机用上大模型：解决复杂时序问题，性能超越ChatGPT-4o实现SOTA｜上交创智复旦]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302935.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>小扎千亿挖人名单下一位：硅谷华人AI高管第一人</title>
+      <link>https://www.qbitai.com/2025/06/302860.html</link>
+      <description>&lt;![CDATA[小扎千亿挖人名单下一位：硅谷华人AI高管第一人]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 04:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302860.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>拯救P图废柴，阿里上新多模态模型Qwen-VLo！人人免费可玩</title>
+      <link>https://www.qbitai.com/2025/06/302859.html</link>
+      <description>&lt;![CDATA[拯救P图废柴，阿里上新多模态模型Qwen-VLo！人人免费可玩]]&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 04:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/302859.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>REGEN: Empowering personalized recommendations with natural language</title>
       <link>https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[CBF-AFA: Chunk-Based Multi-SSL Fusion for Automatic Fluency Assessment]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.20243</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ClusterRCA: Network Failure Diagnosis in HPC Systems Using Multimodal Data</title>
-      <link>https://arxiv.org/abs/2506.20673</link>
-      <description>&lt;![CDATA[ClusterRCA: Network Failure Diagnosis in HPC Systems Using Multimodal Data]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20673</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Utility-Driven Speculative Decoding for Mixture-of-Experts</title>
-      <link>https://arxiv.org/abs/2506.20675</link>
-      <description>&lt;![CDATA[Utility-Driven Speculative Decoding for Mixture-of-Experts]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20675</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG</title>
-      <link>https://arxiv.org/abs/2506.20683</link>
-      <description>&lt;![CDATA[Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20683</guid>
       <category>AI</category>
     </item>
   </channel>
