@@ -2,7 +2,34 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-29 08:14
+**最后更新时间**: 2025-06-29 12:20
+
+---
+
+## 🆕 最新更新 (2025-06-29 12:20)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [闪耀的错误也是错误：再见 Balmuda](https://sspai.com/post/100440)
+**发布时间**: 2025-06-29 17:57
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple’s racing movie is finally here](https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer)
+**发布时间**: 2025-06-29 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Student Solves a Long-Standing Problem About the Limits of Addition](https://www.wired.com/story/graduate-student-solves-classic-problem-about-the-limits-of-addition/)
+**发布时间**: 2025-06-29 11:00
+
+#### [Fairphone Has a New Plan to Get You to Care](https://www.wired.com/story/fairphone-proves-you-really-dont-give-a-damn/)
+**发布时间**: 2025-06-29 11:00
+
+#### [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
+**发布时间**: 2025-06-29 10:33
+
+#### [I Let AI Agents Plan My Vacation—and It Wasn't Terrible](https://www.wired.com/story/i-let-ai-agents-plan-my-vacation-and-it-wasnt-terrible/)
+**发布时间**: 2025-06-29 10:00
 
 ---
 

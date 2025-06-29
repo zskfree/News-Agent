@@ -5,14 +5,62 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Jun 2025 08:14:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 08:14:23 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 12:20:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gary Marcus惊世之言：纯LLM上构建AGI彻底没了希望！MIT、芝大、哈佛论文火了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-29-5</link>
+      <description>&lt;![CDATA[Gary Marcus惊世之言：纯LLM上构建AGI彻底没了希望！MIT、芝大、哈佛论文火了]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-29-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>盘一盘，2017年Transformer之后，LLM领域的重要论文</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-29-4</link>
+      <description>&lt;![CDATA[盘一盘，2017年Transformer之后，LLM领域的重要论文]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-29-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>打破长视频理解瓶颈：HoPE混合位置编码提升VLM长度泛化能力</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-29-3</link>
+      <description>&lt;![CDATA[打破长视频理解瓶颈：HoPE混合位置编码提升VLM长度泛化能力]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-29-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，OpenAI四位华人学者集体被挖，还是Meta重金出手</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-29-2</link>
+      <description>&lt;![CDATA[刚刚，OpenAI四位华人学者集体被挖，还是Meta重金出手]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-29-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>充分激发模态协作，MokA量身打造MLLM微调新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-29</link>
+      <description>&lt;![CDATA[充分激发模态协作，MokA量身打造MLLM微调新范式]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-29</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>韩松贾扬清之后，又一家清华系AI公司卖给英伟达，黄仁勋亲自招募95后联创</title>
+      <link>https://www.qbitai.com/2025/06/303057.html</link>
+      <description>&lt;![CDATA[韩松贾扬清之后，又一家清华系AI公司卖给英伟达，黄仁勋亲自招募95后联创]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 07:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303057.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>华为CloudMatrix重磅论文披露AI数据中心新范式，推理效率超 H100</title>
       <link>https://www.qbitai.com/2025/06/303040.html</link>
@@ -363,54 +411,6 @@
       <description>&lt;![CDATA[小米首款SUV 1小时狂卖29万台，余承东主动防YU：2万补贴智界]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:58:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2025/06/302255.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Singapore Consensus on Global AI Safety Research Priorities</title>
-      <link>https://arxiv.org/abs/2506.20702</link>
-      <description>&lt;![CDATA[The Singapore Consensus on Global AI Safety Research Priorities]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20702</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation</title>
-      <link>https://arxiv.org/abs/2506.20737</link>
-      <description>&lt;![CDATA[MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20737</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications</title>
-      <link>https://arxiv.org/abs/2506.20815</link>
-      <description>&lt;![CDATA[Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20815</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation</title>
-      <link>https://arxiv.org/abs/2506.20949</link>
-      <description>&lt;![CDATA[Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.20949</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?</title>
-      <link>https://arxiv.org/abs/2506.21215</link>
-      <description>&lt;![CDATA[Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21215</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>World-aware Planning Narratives Enhance Large Vision-Language Model Planner</title>
-      <link>https://arxiv.org/abs/2506.21230</link>
-      <description>&lt;![CDATA[World-aware Planning Narratives Enhance Large Vision-Language Model Planner]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21230</guid>
       <category>AI</category>
     </item>
   </channel>
