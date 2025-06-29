@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Jun 2025 12:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 01:03:59 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 04:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 04:28:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI华人AI大牛集体跳槽Meta！清华北大浙大中科大校友各一位，多模态后训练、感知团队负责人全走了</title>
+      <link>https://www.qbitai.com/2025/06/303004.html</link>
+      <description>&lt;![CDATA[OpenAI华人AI大牛集体跳槽Meta！清华北大浙大中科大校友各一位，多模态后训练、感知团队负责人全走了]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 01:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303004.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>扬言将杀死9个行业，21岁小哥又开发人生作弊器，曾被哥大、哈佛开除</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-28-6</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[IXAII: An Interactive Explainable Artificial Intelligence Interface for Decision Support Systems]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.21310</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Active Inference AI Systems for Scientific Discovery</title>
-      <link>https://arxiv.org/abs/2506.21329</link>
-      <description>&lt;![CDATA[Active Inference AI Systems for Scientific Discovery]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21329</guid>
       <category>AI</category>
     </item>
   </channel>
