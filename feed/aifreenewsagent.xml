@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Jun 2025 04:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 04:28:29 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 08:14:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 08:14:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>华为CloudMatrix重磅论文披露AI数据中心新范式，推理效率超 H100</title>
+      <link>https://www.qbitai.com/2025/06/303040.html</link>
+      <description>&lt;![CDATA[华为CloudMatrix重磅论文披露AI数据中心新范式，推理效率超 H100]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 05:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303040.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>OpenAI华人AI大牛集体跳槽Meta！清华北大浙大中科大校友各一位，多模态后训练、感知团队负责人全走了</title>
       <link>https://www.qbitai.com/2025/06/303004.html</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[World-aware Planning Narratives Enhance Large Vision-Language Model Planner]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.21230</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>IXAII: An Interactive Explainable Artificial Intelligence Interface for Decision Support Systems</title>
-      <link>https://arxiv.org/abs/2506.21310</link>
-      <description>&lt;![CDATA[IXAII: An Interactive Explainable Artificial Intelligence Interface for Decision Support Systems]]&gt;</description>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21310</guid>
       <category>AI</category>
     </item>
   </channel>

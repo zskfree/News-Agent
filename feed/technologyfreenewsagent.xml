@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Jun 2025 04:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 04:28:29 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 08:14:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 08:14:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>荣昌生物泰它西普BD三问</title>
+      <link>https://www.tmtpost.com/7610656.html</link>
+      <description>&lt;![CDATA[荣昌生物泰它西普BD三问]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7610656.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>被叫“小妹”56年后，她有机会写下自己的名字</title>
+      <link>https://www.tmtpost.com/7610664.html</link>
+      <description>&lt;![CDATA[被叫“小妹”56年后，她有机会写下自己的名字]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7610664.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“点评不需要一定要成交”，非商业化的大众点评不是美团的影子</title>
+      <link>https://www.tmtpost.com/7609926.html</link>
+      <description>&lt;![CDATA[“点评不需要一定要成交”，非商业化的大众点评不是美团的影子]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7609926.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从0到1拆解FreeWheel ChatBI：大模型如何重塑视频广告智能数据分析新生态</title>
+      <link>https://www.infoq.cn/article/zN5FV8qXONCYTIAuMGLO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从0到1拆解FreeWheel ChatBI：大模型如何重塑视频广告智能数据分析新生态]]&gt;</description>
+      <pubDate>Sun, 29 Jun 2025 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zN5FV8qXONCYTIAuMGLO?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>荣耀开启IPO，A股将迎2000亿「AI终端第一股」？</title>
       <link>https://www.tmtpost.com/7610531.html</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[说好的消费降级，为何小米YU7 3分钟卖掉20万台？]]&gt;</description>
       <pubDate>Sat, 28 Jun 2025 12:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.tmtpost.com/7610342.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>全网微短剧，都到知乎抄故事？</title>
-      <link>https://www.tmtpost.com/7610093.html</link>
-      <description>&lt;![CDATA[全网微短剧，都到知乎抄故事？]]&gt;</description>
-      <pubDate>Sat, 28 Jun 2025 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7610093.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>191亿，苏州又跑出一个 IPO</title>
-      <link>http://www.geekpark.net/news/350978</link>
-      <description>&lt;![CDATA[191亿，苏州又跑出一个 IPO]]&gt;</description>
-      <pubDate>Sat, 28 Jun 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/350978</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>当跨境迎来2.0时代，供应链出海的桥头堡在哪？</title>
-      <link>https://www.tmtpost.com/7609918.html</link>
-      <description>&lt;![CDATA[当跨境迎来2.0时代，供应链出海的桥头堡在哪？]]&gt;</description>
-      <pubDate>Sat, 28 Jun 2025 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7609918.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>56岁的英特尔将“背水一战”：裁员、高管离职、逐步关停汽车业务</title>
-      <link>https://www.tmtpost.com/7610247.html</link>
-      <description>&lt;![CDATA[56岁的英特尔将“背水一战”：裁员、高管离职、逐步关停汽车业务]]&gt;</description>
-      <pubDate>Sat, 28 Jun 2025 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7610247.html</guid>
       <category>Technology</category>
     </item>
   </channel>
