@@ -2,7 +2,58 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-28 12:19
+**最后更新时间**: 2025-06-29 01:03
+
+---
+
+## 🆕 最新更新 (2025-06-29 01:03)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [特斯拉首次完成全自动驾驶交付；YU7 锁单交付时间更新，标准版最快 53 周；OpenAI 首次采用谷歌芯片训练](http://www.geekpark.net/news/350980)
+**发布时间**: 2025-06-29 08:53
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Loses 4 Key Researchers to Meta](https://www.wired.com/story/four-openai-researchers-leave-meta/)
+**发布时间**: 2025-06-28 20:16
+
+#### [38 Best Early Amazon Prime Day Deals On Products We've Tested (2025)](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)
+**发布时间**: 2025-06-28 17:45
+
+#### [6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
+**发布时间**: 2025-06-28 15:00
+
+#### [Best Kindle Accessories (2025): Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
+**发布时间**: 2025-06-28 14:06
+
+#### [The Best 3-in-1 Apple Charging Stations (2025), Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+**发布时间**: 2025-06-28 14:00
+
+#### [Staples Union & Scale FlexFit Desk Converter Review: Reliable Riser](https://www.wired.com/review/staples-union-and-scale-flexfit-manual-desk-converter/)
+**发布时间**: 2025-06-28 13:03
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)
+**发布时间**: 2025-06-28 18:22
+
+#### [The Supreme Court just upended internet law, and I have questions](https://www.theverge.com/analysis/694710/supreme-court-fsc-paxton-age-verification-questions)
+**发布时间**: 2025-06-28 15:00
+
+#### [Squid Game&#8217;s uneven season 3 leaves the door wide open](https://www.theverge.com/tv-reviews/694353/squid-game-season-3-review-netflix)
+**发布时间**: 2025-06-28 14:00
+
+#### [Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices](https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale)
+**发布时间**: 2025-06-28 13:04
+
+#### [Reddit turns 20, and it’s going big on AI](https://www.theverge.com/reddit/692481/reddit-20th-anniversary-cto-ai-future)
+**发布时间**: 2025-06-28 13:00
+
+#### [How extreme heat disproportionately affects Latino neighborhoods](https://www.theverge.com/climate-change/694711/heatwave-latino-neighborhoods-data-dashboard-ucla)
+**发布时间**: 2025-06-28 13:00
+
+#### [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)
+**发布时间**: 2025-06-28 12:30
 
 ---
 

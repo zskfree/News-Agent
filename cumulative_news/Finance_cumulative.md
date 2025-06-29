@@ -2,7 +2,35 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-28 12:19
+**最后更新时间**: 2025-06-29 01:03
+
+---
+
+## 🆕 最新更新 (2025-06-29 01:03)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Robinhood’s Vlad Tenev has led a trading revolution to become a new Wall Street power](https://www.marketwatch.com/story/robinhoods-vlad-tenev-has-led-a-trading-revolution-to-become-a-new-wall-street-power-6a73bf9b?mod=mw_rss_topstories)
+**发布时间**: 2025-06-28 19:11
+
+#### [Trump administration eyes cuts to student-loan forgiveness for public servants](https://www.marketwatch.com/story/trump-administration-eyes-cuts-to-student-loan-forgiveness-for-public-servants-9f183139?mod=mw_rss_topstories)
+**发布时间**: 2025-06-28 17:56
+
+#### [Why your Social Security check could shrink by nearly 20% — and more if jobs are scarce](https://www.marketwatch.com/story/your-social-security-check-will-be-nearly-20-less-if-congress-doesnt-face-facts-soon-889e9daf?mod=mw_rss_topstories)
+**发布时间**: 2025-06-28 14:43
+
+#### [Jamie Dimon wants workers in the office. So why is he letting JPMorgan’s European chief work remotely?](https://www.marketwatch.com/story/jamie-dimon-wants-workers-in-the-office-so-why-is-he-letting-jpmorgans-european-chief-work-remotely-bdff3b2c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-28 14:26
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Can a baby bonus really make Americans have more kids? What big families say.](https://www.marketwatch.com/bulletins/redirect/go?g=2d51796f-d0ef-4f36-9ac1-655036c307d6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-28 18:03
+
+#### [AI could wipe out entire Wall Street teams. Here’s who will have staying power.](https://www.marketwatch.com/bulletins/redirect/go?g=0cf1dc22-0290-4cdd-af25-9bdca1fecd62&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-28 14:07
+
+#### [Tech stocks are powering a record-setting Wall Street rally—but for how long?](https://www.marketwatch.com/bulletins/redirect/go?g=fce2305c-8f35-4ad7-adaf-5c6eac2dc10a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-28 13:15
 
 ---
 
