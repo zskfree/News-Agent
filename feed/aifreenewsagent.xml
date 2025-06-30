@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Jun 2025 04:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 04:26:59 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 08:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 08:17:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>上海交大KinFormer：生成式符号回归模型助力自动发现未知化学反应动力学机制</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-6</link>
+      <description>&lt;![CDATA[上海交大KinFormer：生成式符号回归模型助力自动发现未知化学反应动力学机制]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>欧洲第一台百万兆次级超级计算机JUPITER ，排名第4，正打开广阔的科学计算前景         ScienceAI        ScienceAI     2025年06月30日 11:50 北京</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-5</link>
+      <description>&lt;![CDATA[欧洲第一台百万兆次级超级计算机JUPITER ，排名第4，正打开广阔的科学计算前景         ScienceAI        ScienceAI     2025年06月30日 11:50 北京]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全民AI健康管家来了！实测蚂蚁AQ：追问识药看皮肤，连医院接硬件</title>
+      <link>https://www.qbitai.com/2025/06/303216.html</link>
+      <description>&lt;![CDATA[全民AI健康管家来了！实测蚂蚁AQ：追问识药看皮肤，连医院接硬件]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 05:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303216.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>刚刚，OpenAI全员放假一周！被Meta高薪连挖8人「偷家」，真麻了</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-30-4</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation]]&gt;</description>
       <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.21579</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>From General Reasoning to Domain Expertise: Uncovering the Limits of Generalization in Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.21580</link>
-      <description>&lt;![CDATA[From General Reasoning to Domain Expertise: Uncovering the Limits of Generalization in Large Language Models]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21580</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evaluating the Robustness of Dense Retrievers in Interdisciplinary Domains</title>
-      <link>https://arxiv.org/abs/2506.21581</link>
-      <description>&lt;![CDATA[Evaluating the Robustness of Dense Retrievers in Interdisciplinary Domains]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21581</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>VIDEE: Visual and Interactive Decomposition, Execution, and Evaluation of Text Analytics with Intelligent Agents</title>
-      <link>https://arxiv.org/abs/2506.21582</link>
-      <description>&lt;![CDATA[VIDEE: Visual and Interactive Decomposition, Execution, and Evaluation of Text Analytics with Intelligent Agents]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21582</guid>
       <category>AI</category>
     </item>
   </channel>
