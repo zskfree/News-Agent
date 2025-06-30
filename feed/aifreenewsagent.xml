@@ -5,14 +5,118 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Jun 2025 08:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 08:17:19 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 12:22:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>95后，边改造业务边发AI顶会论文，是怎样的体验？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-13</link>
+      <description>&lt;![CDATA[95后，边改造业务边发AI顶会论文，是怎样的体验？]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>只用2700万参数，这个推理模型超越了DeepSeek和Claude</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-12</link>
+      <description>&lt;![CDATA[只用2700万参数，这个推理模型超越了DeepSeek和Claude]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>会“思考”的目标检测模型来了！IDEA提出Rex-Thinker：基于思维链的指代物体检测模型，准确率+可解释性双突破</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-11</link>
+      <description>&lt;![CDATA[会“思考”的目标检测模型来了！IDEA提出Rex-Thinker：基于思维链的指代物体检测模型，准确率+可解释性双突破]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首创Mid-training范式破解RL奥秘，Llama终于追平Qwen！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-10</link>
+      <description>&lt;![CDATA[首创Mid-training范式破解RL奥秘，Llama终于追平Qwen！]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACL 2025 | AI字幕慢半拍，不知道大家在笑什么？新方法让同传性能直逼离线翻译</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-9</link>
+      <description>&lt;![CDATA[ACL 2025 | AI字幕慢半拍，不知道大家在笑什么？新方法让同传性能直逼离线翻译]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>豆包上线“深入研究”功能  几分钟解决复杂任务</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-8</link>
+      <description>&lt;![CDATA[豆包上线“深入研究”功能  几分钟解决复杂任务]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>响应香港数字资产发展政策宣言 蚂蚁数科在港开放四大核心技术</title>
+      <link>https://www.jiqizhixin.com/articles/2025-06-30-7</link>
+      <description>&lt;![CDATA[响应香港数字资产发展政策宣言 蚂蚁数科在港开放四大核心技术]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-06-30-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>新华医院联合商汤医疗重磅发布AI儿童全科医生</title>
+      <link>https://www.qbitai.com/2025/06/303379.html</link>
+      <description>&lt;![CDATA[新华医院联合商汤医疗重磅发布AI儿童全科医生]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303379.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>7万个模型、1600万开发者，魔搭已建成中国最大AI开源社区</title>
+      <link>https://www.qbitai.com/2025/06/303366.html</link>
+      <description>&lt;![CDATA[7万个模型、1600万开发者，魔搭已建成中国最大AI开源社区]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303366.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>新国产GPU「曦望」，刚融了10个亿</title>
+      <link>https://www.qbitai.com/2025/06/303355.html</link>
+      <description>&lt;![CDATA[新国产GPU「曦望」，刚融了10个亿]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 10:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303355.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LeCun发布最新世界模型：首次实现16秒连贯场景预测，具身智能掌握第一视角！还打脸用了VAE</title>
+      <link>https://www.qbitai.com/2025/06/303323.html</link>
+      <description>&lt;![CDATA[LeCun发布最新世界模型：首次实现16秒连贯场景预测，具身智能掌握第一视角！还打脸用了VAE]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303323.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>蚂蚁数科面向香港开放四大核心技术：开放共享，让所有人受益</title>
+      <link>https://www.qbitai.com/2025/06/303319.html</link>
+      <description>&lt;![CDATA[蚂蚁数科面向香港开放四大核心技术：开放共享，让所有人受益]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 07:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303319.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man</title>
+      <link>https://www.technologyreview.com/2025/06/30/1119449/hhs-robert-f-kennedy-jr-jim-oneill-longevity-maha/</link>
+      <description>&lt;![CDATA[Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/30/1119449/hhs-robert-f-kennedy-jr-jim-oneill-longevity-maha/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>上海交大KinFormer：生成式符号回归模型助力自动发现未知化学反应动力学机制</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-30-6</link>
@@ -307,110 +411,6 @@
       <description>&lt;![CDATA[FloorPlan-DeepSeek (FPDS): A multimodal approach to floorplan generation using vector-based next room prediction]]&gt;</description>
       <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.21562</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Team QUST at SemEval-2025 Task 10: Evaluating Large Language Models in Multiclass Multi-label Classification of News Entity Framing</title>
-      <link>https://arxiv.org/abs/2506.21564</link>
-      <description>&lt;![CDATA[Team QUST at SemEval-2025 Task 10: Evaluating Large Language Models in Multiclass Multi-label Classification of News Entity Framing]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21564</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Saturation Point of Backtranslation in High Quality Low Resource English Gujarati Machine Translation</title>
-      <link>https://arxiv.org/abs/2506.21566</link>
-      <description>&lt;![CDATA[The Saturation Point of Backtranslation in High Quality Low Resource English Gujarati Machine Translation]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21566</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BioPars: A Pretrained Biomedical Large Language Model for Persian Biomedical Text Mining</title>
-      <link>https://arxiv.org/abs/2506.21567</link>
-      <description>&lt;![CDATA[BioPars: A Pretrained Biomedical Large Language Model for Persian Biomedical Text Mining]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21567</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Hybrid-NL2SVA: Integrating RAG and Finetuning for LLM-based NL2SVA</title>
-      <link>https://arxiv.org/abs/2506.21569</link>
-      <description>&lt;![CDATA[Hybrid-NL2SVA: Integrating RAG and Finetuning for LLM-based NL2SVA]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21569</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Random Initialization Can't Catch Up: The Advantage of Language Model Transfer for Time Series Forecasting</title>
-      <link>https://arxiv.org/abs/2506.21570</link>
-      <description>&lt;![CDATA[Random Initialization Can't Catch Up: The Advantage of Language Model Transfer for Time Series Forecasting]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21570</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Understanding the Cognitive Habits of Large Reasoning Models</title>
-      <link>https://arxiv.org/abs/2506.21571</link>
-      <description>&lt;![CDATA[Towards Understanding the Cognitive Habits of Large Reasoning Models]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21571</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Instruction Learning Paradigms: A Dual Perspective on White-box and Black-box LLMs</title>
-      <link>https://arxiv.org/abs/2506.21573</link>
-      <description>&lt;![CDATA[Instruction Learning Paradigms: A Dual Perspective on White-box and Black-box LLMs]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21573</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Digital Gatekeepers: Exploring Large Language Model's Role in Immigration Decisions</title>
-      <link>https://arxiv.org/abs/2506.21574</link>
-      <description>&lt;![CDATA[Digital Gatekeepers: Exploring Large Language Model's Role in Immigration Decisions]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21574</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>STRuCT-LLM: Unifying Tabular and Graph Reasoning with Reinforcement Learning for Semantic Parsing</title>
-      <link>https://arxiv.org/abs/2506.21575</link>
-      <description>&lt;![CDATA[STRuCT-LLM: Unifying Tabular and Graph Reasoning with Reinforcement Learning for Semantic Parsing]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21575</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Adapting Whisper for Parameter-efficient Code-Switching Speech Recognition via Soft Prompt Tuning</title>
-      <link>https://arxiv.org/abs/2506.21576</link>
-      <description>&lt;![CDATA[Adapting Whisper for Parameter-efficient Code-Switching Speech Recognition via Soft Prompt Tuning]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21576</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Language-Aware Prompt Tuning for Parameter-Efficient Seamless Language Expansion in Multilingual ASR</title>
-      <link>https://arxiv.org/abs/2506.21577</link>
-      <description>&lt;![CDATA[Language-Aware Prompt Tuning for Parameter-Efficient Seamless Language Expansion in Multilingual ASR]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21577</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HealthQA-BR: A System-Wide Benchmark Reveals Critical Knowledge Gaps in Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.21578</link>
-      <description>&lt;![CDATA[HealthQA-BR: A System-Wide Benchmark Reveals Critical Knowledge Gaps in Large Language Models]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21578</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</title>
-      <link>https://arxiv.org/abs/2506.21579</link>
-      <description>&lt;![CDATA[LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21579</guid>
       <category>AI</category>
     </item>
   </channel>

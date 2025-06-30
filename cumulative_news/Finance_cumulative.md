@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-30 08:17
+**最后更新时间**: 2025-06-30 12:22
+
+---
+
+## 🆕 最新更新 (2025-06-30 12:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Chicago business barometer kicks off week’s data](https://www.marketwatch.com/bulletins/redirect/go?g=05f1c690-5733-439d-9f32-6a3c3493068d&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 12:16
+
+#### [S&P 500, Nasdaq head for new records amid confidence over trade, tax bill](https://www.marketwatch.com/bulletins/redirect/go?g=3d6e3872-0d1b-41bf-9284-ffeb54095216&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 09:03
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is that you needing cash or is AI stealing your money? Here’s how to wise up.](https://www.marketwatch.com/story/is-that-you-needing-cash-or-is-ai-stealing-your-money-heres-how-to-wise-up-5426e4db?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 12:05
+
+#### [How the Supreme Court just juiced these S&P 500 winners — and turbocharged your 401(k)](https://www.marketwatch.com/story/how-the-supreme-court-just-juiced-these-s-p-500-winners-and-turbocharged-your-401-k-127ec86c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 11:50
+
+#### [The stock market is hitting records — three reasons why top Morgan Stanley strategist sees more room to run](https://www.marketwatch.com/story/the-stock-market-is-hitting-records-three-reasons-why-top-morgan-stanley-strategist-sees-more-room-to-run-33892ee8?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 11:41
+
+#### [These precious metals can tell you if stocks will rise or fall. Here’s what they’re saying now.](https://www.marketwatch.com/story/these-precious-metals-can-tell-you-if-stocks-will-rise-or-fall-heres-what-theyre-saying-now-446c219c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 11:35
+
+#### [‘Finance makes me break out in hives’: I inherited $240K from my parents. Do I pay off my $258K mortgage and give up my job?](https://www.marketwatch.com/story/finance-makes-me-break-out-in-hives-i-inherited-240k-from-my-parents-do-i-pay-off-my-258k-mortgage-and-give-up-my-job-cb06c4a5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 09:30
+
+#### [Former Baltimore Ravens kicker Justin Tucker lists Maryland home for $3.2 million](https://www.marketwatch.com/story/former-baltimore-ravens-kicker-justin-tucker-lists-maryland-home-for-3-2-million-d455e3e7?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 09:03
+
+#### [This is the former Soviet weapons base that Ivanka Trump and Jared Kushner want to turn into a luxury resort](https://www.marketwatch.com/story/this-is-the-former-soviet-weapons-base-that-ivanka-trump-and-jared-kushner-want-to-turn-into-a-luxury-resort-5c6dc9dd?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 08:58
+
+#### [A stock market melt-up may be the biggest risk facing investors, says this strategist](https://www.marketwatch.com/story/a-stock-market-melt-up-may-be-the-biggest-risk-facing-investors-says-this-strategist-07394738?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 08:51
 
 ---
 
