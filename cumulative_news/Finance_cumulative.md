@@ -2,7 +2,32 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-29 01:03
+**最后更新时间**: 2025-06-30 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-30 01:00)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise after S&P 500’s latest record high](https://www.marketwatch.com/story/u-s-stock-futures-rise-after-s-p-500s-latest-record-high-4b7fd179?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 00:52
+
+#### [A 2-month rally pushed the stock market to record highs — but watch for these risks in July](https://www.marketwatch.com/story/a-2-month-rally-pushed-the-stock-market-to-record-highs-but-watch-for-these-risks-in-july-c27d5a06?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 00:34
+
+#### [This cryptocurrency is bitcoin’s biggest challenger yet — and it just might take over your wallet](https://www.marketwatch.com/story/this-cryptocurrency-is-bitcoins-biggest-challenger-yet-and-it-just-might-take-over-your-wallet-13f16be2?mod=mw_rss_topstories)
+**发布时间**: 2025-06-29 19:44
+
+#### [Why more people are going into pet debt — even when it causes ‘a great deal of anxiety’](https://www.marketwatch.com/story/why-more-people-are-going-into-pet-debt-even-when-it-causes-a-great-deal-of-anxiety-b9f73646?mod=mw_rss_topstories)
+**发布时间**: 2025-06-29 19:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures rise after S&P 500’s latest record high](https://www.marketwatch.com/bulletins/redirect/go?g=206bec18-0f5b-46f1-992c-48dcf6dce61a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-29 22:43
+
+#### [Stock market has rallied to record highs — but watch for these risks in July](https://www.marketwatch.com/bulletins/redirect/go?g=8c6944b6-f72d-47dd-bffe-2fd814173c22&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-29 19:35
 
 ---
 

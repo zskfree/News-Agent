@@ -2,7 +2,67 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-29 12:20
+**最后更新时间**: 2025-06-30 01:00
+
+---
+
+## 🆕 最新更新 (2025-06-30 01:00)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米 YU7 租车 2 千/天，打平兰博基尼；日本推出「猫咪压力项圈」；OpenAI 斥 Meta 挖角「入室盗窃」｜极客早知道](http://www.geekpark.net/news/350982)
+**发布时间**: 2025-06-30 08:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [卷疯了！这个清华系Agent框架开源后迅速斩获1.9k stars，还要“消灭”Prompt？](https://www.infoq.cn/article/CUeWf6ze2C6oDmG8EM0K?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-06-30 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科股早知道： 推进防洪水库建设，机构称水利投资整体延续高景气态势](https://www.tmtpost.com/7610808.html)
+**发布时间**: 2025-06-30 08:00
+
+#### [【钛晨报】海关总署：有条件恢复日本部分地区水产品进口；小米汽车回应YU7赛道测试刹车片起火；香港：稳定币有望为资本市场带来变革，将推动发行人把稳定币应用推广至不同场景](https://www.tmtpost.com/7610730.html)
+**发布时间**: 2025-06-30 07:20
+
+#### [硅谷大厂“杀疯了”！华人AI大牛被疯狂挖角，黄仁勋买完公司再收清华“天才少年”](https://www.tmtpost.com/7610662.html)
+**发布时间**: 2025-06-29 20:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特斯拉没牌打了](http://www.huxiu.com/article/4520073.html?f=wangzhan)
+**发布时间**: 2025-06-30 07:02
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Leadership Responds to Meta Offers: 'Someone Has Broken Into Our Home'](https://www.wired.com/story/openai-meta-leadership-talent-rivalry/)
+**发布时间**: 2025-06-29 19:07
+
+#### [23 Best Power Banks (2025), Tested and Reviewed](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+**发布时间**: 2025-06-29 15:00
+
+#### [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)
+**发布时间**: 2025-06-29 14:07
+
+#### [13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
+**发布时间**: 2025-06-29 13:30
+
+#### [10 Best Dash Kitchen Appliances (2025), Tested and Reviewed](https://www.wired.com/gallery/best-dash-kitchen-appliances/)
+**发布时间**: 2025-06-29 13:04
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Hollywood&#8217;s pivot to AI video has a prompting problem](https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai)
+**发布时间**: 2025-06-29 15:00
+
+#### [The unbearable obviousness of AI fitness summaries](https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables)
+**发布时间**: 2025-06-29 14:00
+
+#### [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)
+**发布时间**: 2025-06-29 13:00
+
+#### [‘We are the media now’: why Tesla’s robotaxis were dominated by Elon Musk superfans](https://www.theverge.com/tesla/694333/tesla-robotaxi-media-influencers-musk-fans)
+**发布时间**: 2025-06-29 12:30
 
 ---
 
