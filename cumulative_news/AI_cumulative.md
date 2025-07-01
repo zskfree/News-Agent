@@ -2,7 +2,49 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-01 08:16
+**最后更新时间**: 2025-07-01 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-01 12:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [免费约饭！加拿大ICML 2025，相聚机器之心人才晚宴](https://www.jiqizhixin.com/articles/2025-07-01-16)
+**发布时间**: 2025-07-01 19:34
+
+#### [ICML 2025 Spotlight | 清华朱军组&NVIDIA提出DDO：扩散/自回归模型训练新范式，刷新图像生成SOTA](https://www.jiqizhixin.com/articles/2025-07-01-15)
+**发布时间**: 2025-07-01 19:32
+
+#### [让创新创造被更多看见，2025Inclusion·外滩大会创新者舞台全球征集正式启动！](https://www.jiqizhixin.com/articles/2025-07-01-14)
+**发布时间**: 2025-07-01 18:10
+
+#### [瞄准AGI等四大前沿领域，蚂蚁集团2025“蚂蚁InTech奖”提名启动](https://www.jiqizhixin.com/articles/2025-07-01-13)
+**发布时间**: 2025-07-01 14:53
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: tripping with AI, and blocking crawler bots](https://www.technologyreview.com/2025/07/01/1119520/the-download-tripping-with-ai-and-blocking-crawler-bots/)
+**发布时间**: 2025-07-01 12:10
+
+#### [Cloudflare will now, by default, block AI bots from crawling its clients’ websites](https://www.technologyreview.com/2025/07/01/1119498/cloudflare-will-now-by-default-block-ai-bots-from-crawling-its-clients-websites/)
+**发布时间**: 2025-07-01 10:00
+
+#### [People are using AI to ‘sit’ with them while they trip on psychedelics](https://www.technologyreview.com/2025/07/01/1119513/ai-sit-trip-psychedelics/)
+**发布时间**: 2025-07-01 09:06
+
+#### [What comes next for AI copyright lawsuits?](https://www.technologyreview.com/2025/07/01/1119486/ai-copyright-meta-anthropic/)
+**发布时间**: 2025-07-01 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [猫猫拯救科研！AI怕陷“道德危机”，网友用“猫猫人质”整治AI乱编文献](https://www.qbitai.com/2025/07/303669.html)
+**发布时间**: 2025-07-01 08:48
+
+#### [国产GPU历史性时刻！摩尔线程、沐曦同日获IPO受理](https://www.qbitai.com/2025/07/303642.html)
+**发布时间**: 2025-07-01 08:13
+
+#### [4年3次加码核聚变，硅谷巨头们疯狂抢电ing](https://www.qbitai.com/2025/07/303621.html)
+**发布时间**: 2025-07-01 07:37
 
 ---
 

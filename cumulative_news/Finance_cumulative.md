@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-01 08:16
+**最后更新时间**: 2025-07-01 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-01 12:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold’s momentum is fading — and a pullback is coming, says HSBC analyst](https://www.marketwatch.com/story/golds-momentum-is-fading-and-a-pullback-is-coming-says-hsbc-analyst-585418f3?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 12:12
+
+#### [Why oil demand may outpace supply, despite best efforts from OPEC+](https://www.marketwatch.com/story/why-oil-demand-may-outpace-supply-despite-best-efforts-from-opec-67e09e18?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 11:00
+
+#### [Goldman Sachs now sees the next Fed rate cut coming months earlier](https://www.marketwatch.com/story/goldman-sachs-now-sees-the-next-fed-rate-cut-coming-months-earlier-6c2a6c72?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 10:59
+
+#### [My wife and I have $7,000 a month in pensions and Social Security, plus $140,000 cash. Can we afford to retire?](https://www.marketwatch.com/story/my-wife-and-i-have-7-000-in-pensions-140-000-in-cash-plus-social-security-can-we-afford-to-retire-14fd44f1?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 10:45
+
+#### [Why out-of-favor Apple holds the key to tech stocks in the coming weeks](https://www.marketwatch.com/story/why-out-of-favor-apple-holds-the-key-to-tech-stocks-in-the-coming-weeks-baa32371?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 10:40
+
+#### [Why Bobby Bonilla’s $30 million retirement deal wasn’t as sweet as people think](https://www.marketwatch.com/story/why-bobby-bonillas-30-million-retirement-deal-wasnt-as-sweet-as-people-think-60cf0697?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 10:30
+
+#### [My mother, 89, keeps getting her credit card scammed. I buy her a new one and it happens again. What’s going on?](https://www.marketwatch.com/story/my-mother-89-keeps-getting-her-credit-card-scammed-i-buy-her-a-new-one-and-it-happens-again-whats-going-on-71d5b8e5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 09:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Powell set to speak as builder, job and factory data roll in](https://www.marketwatch.com/bulletins/redirect/go?g=5bbe631c-7b35-48b9-aae5-2f265473f4ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 12:08
+
+#### [Norway pension fund is dropping defense companies over Israel weapons](https://www.marketwatch.com/bulletins/redirect/go?g=9c157bf4-fec0-43ee-940d-caf6785b5ea6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 10:17
+
+#### [Tesla stock under pressure as Musk and Trump resume squabble](https://www.marketwatch.com/bulletins/redirect/go?g=eb46cece-da51-4f56-bc8f-ab8e73382dca&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 08:56
 
 ---
 
