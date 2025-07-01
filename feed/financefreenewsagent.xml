@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 01 Jul 2025 01:03:00 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2025 01:03:18 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 04:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 04:31:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests</title>
+      <link>https://www.marketwatch.com/story/goldmans-stock-surges-toward-another-record-as-the-big-winner-of-feds-stress-tests-982b1530?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 02:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/goldmans-stock-surges-toward-another-record-as-the-big-winner-of-feds-stress-tests-982b1530?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘Almost everybody’ in the U.S. has a pair of clogs. BofA analysts say there’s still a lot to like about Crocs.</title>
+      <link>https://www.marketwatch.com/story/almost-everybody-in-the-u-s-has-a-pair-of-clogs-bofa-analysts-say-theres-still-a-lot-to-like-about-crocs-f39fba4f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘Almost everybody’ in the U.S. has a pair of clogs. BofA analysts say there’s still a lot to like about Crocs.]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 01:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/almost-everybody-in-the-u-s-has-a-pair-of-clogs-bofa-analysts-say-theres-still-a-lot-to-like-about-crocs-f39fba4f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Would you apply for a job with a 9-step hiring process — including take-home tests and case studies?</title>
       <link>https://www.marketwatch.com/story/would-you-apply-for-a-job-with-a-nine-step-hiring-process-including-take-home-tests-and-case-studies-ac6d0127?mod=mw_rss_topstories</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[Nike’s outlook wakes up its stock. But execs still see a long road to full recovery.]]&gt;</description>
       <pubDate>Thu, 26 Jun 2025 23:11:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/nikes-results-top-estimates-but-ceo-says-theyre-still-not-where-we-want-them-to-be-216df439?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The Fed’s moves on interest rates aren’t just about Trump’s pick for chair. Here’s the math.</title>
-      <link>https://www.marketwatch.com/story/the-feds-moves-on-interest-rates-arent-just-about-trumps-pick-for-chair-heres-the-math-4a9b07d0?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The Fed’s moves on interest rates aren’t just about Trump’s pick for chair. Here’s the math.]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 20:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-feds-moves-on-interest-rates-arent-just-about-trumps-pick-for-chair-heres-the-math-4a9b07d0?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s how many people leave a news article when asked to pay</title>
-      <link>https://www.marketwatch.com/story/few-people-are-willing-to-pay-for-news-online-which-makes-things-tougher-for-the-news-industry-332a8245?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Here’s how many people leave a news article when asked to pay]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 19:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/few-people-are-willing-to-pay-for-news-online-which-makes-things-tougher-for-the-news-industry-332a8245?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
