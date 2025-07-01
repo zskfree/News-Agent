@@ -2,7 +2,33 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-30 12:22
+**最后更新时间**: 2025-07-01 01:03
+
+---
+
+## 🆕 最新更新 (2025-07-01 01:03)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Roundtables: Inside OpenAI’s Empire with Karen Hao](https://www.technologyreview.com/2025/06/30/1118540/roundtables-inside-openais-empire-with-karen-hao/)
+**发布时间**: 2025-06-30 14:59
+
+#### [The Download: meet RFK Jr’s right-hand man, and inside OpenAI](https://www.technologyreview.com/2025/06/30/1119469/the-download-meet-rfk-jrs-right-hand-man-and-inside-openai/)
+**发布时间**: 2025-06-30 12:10
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How we created HOV-specific ETAs in Google Maps](https://research.google/blog/how-we-created-hov-specific-etas-in-google-maps/)
+**发布时间**: 2025-06-30 12:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [理想组织大调整：涉及CEO和总裁](https://www.qbitai.com/2025/06/303390.html)
+**发布时间**: 2025-06-30 12:06
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Accelerating scientific discovery with AI](https://news.mit.edu/2025/futurehouse-accelerates-scientific-discovery-with-ai-0630)
+**发布时间**: 2025-06-30 10:30
 
 ---
 

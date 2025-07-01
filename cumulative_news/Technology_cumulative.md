@@ -2,7 +2,127 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-30 12:22
+**最后更新时间**: 2025-07-01 01:03
+
+---
+
+## 🆕 最新更新 (2025-07-01 01:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [摩尔线程、沐曦三年巨亏超80亿，“中国英伟达”们争夺GPU芯片第一股｜深读](https://www.tmtpost.com/7611863.html)
+**发布时间**: 2025-07-01 08:58
+
+#### [6GHz频谱争夺战：全球通信业的角力与博弈](https://www.tmtpost.com/7611785.html)
+**发布时间**: 2025-07-01 08:58
+
+#### [小米对AI眼镜进行了一次「平庸」的试探](https://www.tmtpost.com/7611754.html)
+**发布时间**: 2025-07-01 08:53
+
+#### [微脉递交港交所上市申请，三年亏了7.5亿](https://www.tmtpost.com/7611844.html)
+**发布时间**: 2025-07-01 08:43
+
+#### [港交所再迎“第一股”？4.85亿美元估值背后，亦诺微医药的小众突围特质](https://www.tmtpost.com/7611860.html)
+**发布时间**: 2025-07-01 08:34
+
+#### [叫好难叫座，宠物服饰生意是“小而美”还是“小而难”？](https://www.tmtpost.com/7611871.html)
+**发布时间**: 2025-07-01 08:26
+
+#### [大厂暗战高考志愿填报，谁是张雪峰平替？](https://www.tmtpost.com/7611910.html)
+**发布时间**: 2025-07-01 08:13
+
+#### [34亿牵手山西女首富，钟睒睒和锦波生物的双赢交易](https://www.tmtpost.com/7611984.html)
+**发布时间**: 2025-07-01 08:04
+
+#### [科股早知道：政策驱动+行业技术快速迭代推动，低空经济规模增势强劲](https://www.tmtpost.com/7612088.html)
+**发布时间**: 2025-07-01 08:03
+
+#### [【钛晨报】外资利好！境外投资者以分配利润直接投资可享税收抵免；华为、百度同日宣布开源新动作；《哪吒2》下映，全球总票房超159亿元](https://www.tmtpost.com/7611905.html)
+**发布时间**: 2025-07-01 07:20
+
+#### [连亏三年，钛白粉龙头拟收购橡胶资产；广汇能源溢价22%“甩卖”新疆上市公司控制权【并购一线】](https://www.tmtpost.com/7611891.html)
+**发布时间**: 2025-06-30 22:59
+
+#### [出海提速，金融滞后：中国汽车全球化的隐形痛点](https://www.tmtpost.com/7611561.html)
+**发布时间**: 2025-06-30 22:59
+
+#### [服务零售线上化率仅9%，2030年预计在美团诞生300个千店品牌](https://www.tmtpost.com/7611498.html)
+**发布时间**: 2025-06-30 22:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [淘宝、蚂蚁纷纷冠名苏超球队；小米青年公寓，租金1999 元/月；微软将「AI 使用量」纳入员工考核](http://www.geekpark.net/news/351038)
+**发布时间**: 2025-07-01 08:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [电诈之癌，流窜全球](http://www.huxiu.com/article/4513479.html?f=wangzhan)
+**发布时间**: 2025-07-01 07:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：腾讯、网易发布暑期未成年人限玩日历等](https://sspai.com/post/100704)
+**发布时间**: 2025-07-01 06:19
+
+#### [本月玩什么 | DS2、NS2、PEAK、Deltarune](https://sspai.com/post/100703)
+**发布时间**: 2025-07-01 04:58
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Steam can now show you how much frame generation changes your games](https://www.theverge.com/news/695543/valve-steam-performance-monitor-frame-generation-frame-rates)
+**发布时间**: 2025-06-30 23:35
+
+#### [AT&#038;T says &#8216;our network&#8217; wasn&#8217;t to blame for Trump&#8217;s troubled conference call](https://www.theverge.com/news/695536/att-trump-network-conference-call)
+**发布时间**: 2025-06-30 23:27
+
+#### [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+**发布时间**: 2025-06-30 21:52
+
+#### [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
+**发布时间**: 2025-06-30 21:48
+
+#### [Apple’s AI Siri might be powered by OpenAI](https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered)
+**发布时间**: 2025-06-30 21:01
+
+#### [The Nintendo Switch 2 will be available in-store at Best Buy on July 1st](https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy)
+**发布时间**: 2025-06-30 20:13
+
+#### [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+**发布时间**: 2025-06-30 20:11
+
+#### [The government’s Apple antitrust lawsuit is still on](https://www.theverge.com/news/695350/apple-loses-dismissal-of-doj-antitrust-lawsuit)
+**发布时间**: 2025-06-30 19:52
+
+#### [Netflix teams up with NASA to show live rocket launches and spacewalks](https://www.theverge.com/news/695342/nasa-plus-netflix-partnership)
+**发布时间**: 2025-06-30 19:29
+
+#### [Mark Zuckerberg announces his AI ‘superintelligence’ super-group](https://www.theverge.com/news/695355/mark-zuckerberg-meta-ai-superintelligence-labs)
+**发布时间**: 2025-06-30 19:23
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 36 Best Deals From REI's July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
+**发布时间**: 2025-06-30 20:18
+
+#### [Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams](https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/)
+**发布时间**: 2025-06-30 20:00
+
+#### [Unpacking Our Conversation With a Former DOGE Staffer](https://www.wired.com/story/uncanny-valley-podcast-unpacking-our-conversation-with-a-former-doge-staffer/)
+**发布时间**: 2025-06-30 19:08
+
+#### [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta’s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
+**发布时间**: 2025-06-30 18:09
+
+#### [How Do Pimple Patches Work? Here’s Everything You Need to Know](https://www.wired.com/story/how-do-pimple-patches-work/)
+**发布时间**: 2025-06-30 15:24
+
+#### [My Friends Always Ask Me What MacBook to Buy. Here's What I Tell Them](https://www.wired.com/story/you-probably-dont-need-a-macbook-pro/)
+**发布时间**: 2025-06-30 14:00
+
+#### [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)
+**发布时间**: 2025-06-30 13:00
+
+#### [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://www.wired.com/story/microsoft-medical-superintelligence-diagnosis/)
+**发布时间**: 2025-06-30 13:00
 
 ---
 

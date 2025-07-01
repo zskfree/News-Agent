@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Jun 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 12:22:28 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 01:03:00 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 01:03:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roundtables: Inside OpenAI’s Empire with Karen Hao</title>
+      <link>https://www.technologyreview.com/2025/06/30/1118540/roundtables-inside-openais-empire-with-karen-hao/</link>
+      <description>&lt;![CDATA[Roundtables: Inside OpenAI’s Empire with Karen Hao]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/30/1118540/roundtables-inside-openais-empire-with-karen-hao/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: meet RFK Jr’s right-hand man, and inside OpenAI</title>
+      <link>https://www.technologyreview.com/2025/06/30/1119469/the-download-meet-rfk-jrs-right-hand-man-and-inside-openai/</link>
+      <description>&lt;![CDATA[The Download: meet RFK Jr’s right-hand man, and inside OpenAI]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/06/30/1119469/the-download-meet-rfk-jrs-right-hand-man-and-inside-openai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How we created HOV-specific ETAs in Google Maps</title>
+      <link>https://research.google/blog/how-we-created-hov-specific-etas-in-google-maps/</link>
+      <description>&lt;![CDATA[How we created HOV-specific ETAs in Google Maps]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/how-we-created-hov-specific-etas-in-google-maps/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>理想组织大调整：涉及CEO和总裁</title>
+      <link>https://www.qbitai.com/2025/06/303390.html</link>
+      <description>&lt;![CDATA[理想组织大调整：涉及CEO和总裁]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 12:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/06/303390.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Accelerating scientific discovery with AI</title>
+      <link>https://news.mit.edu/2025/futurehouse-accelerates-scientific-discovery-with-ai-0630</link>
+      <description>&lt;![CDATA[Accelerating scientific discovery with AI]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/futurehouse-accelerates-scientific-discovery-with-ai-0630</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>95后，边改造业务边发AI顶会论文，是怎样的体验？</title>
       <link>https://www.jiqizhixin.com/articles/2025-06-30-13</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[PEACE: Empowering Geologic Map Holistic Understanding with MLLMs]]&gt;</description>
       <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2501.06184</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Data Efficacy for Language Model Training</title>
-      <link>https://arxiv.org/abs/2506.21545</link>
-      <description>&lt;![CDATA[Data Efficacy for Language Model Training]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21545</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Bench to the Future: A Pastcasting Benchmark for Forecasting Agents</title>
-      <link>https://arxiv.org/abs/2506.21558</link>
-      <description>&lt;![CDATA[Bench to the Future: A Pastcasting Benchmark for Forecasting Agents]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21558</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reinforcement Learning Fine-Tuning of Language Model for Instruction Following and Math Reasoning</title>
-      <link>https://arxiv.org/abs/2506.21560</link>
-      <description>&lt;![CDATA[Reinforcement Learning Fine-Tuning of Language Model for Instruction Following and Math Reasoning]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21560</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs</title>
-      <link>https://arxiv.org/abs/2506.21561</link>
-      <description>&lt;![CDATA[Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21561</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FloorPlan-DeepSeek (FPDS): A multimodal approach to floorplan generation using vector-based next room prediction</title>
-      <link>https://arxiv.org/abs/2506.21562</link>
-      <description>&lt;![CDATA[FloorPlan-DeepSeek (FPDS): A multimodal approach to floorplan generation using vector-based next room prediction]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.21562</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,7 +2,74 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-06-30 12:22
+**最后更新时间**: 2025-07-01 01:03
+
+---
+
+## 🆕 最新更新 (2025-07-01 01:03)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Would you apply for a job with a 9-step hiring process — including take-home tests and case studies?](https://www.marketwatch.com/story/would-you-apply-for-a-job-with-a-nine-step-hiring-process-including-take-home-tests-and-case-studies-ac6d0127?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 00:47
+
+#### [The Supreme Court just boosted Trump’s business agenda — and these stock-market sectors. Here’s how to play it.](https://www.marketwatch.com/story/how-the-supreme-court-just-juiced-these-s-p-500-winners-and-turbocharged-your-401-k-127ec86c?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 23:18
+
+#### [‘My whole financial world is upside down’: I’m ‘medically retired’ at 51 with $428,000 in stocks. Is this enough to live on?](https://www.marketwatch.com/story/my-life-has-changed-dramatically-im-51-medically-retired-and-planning-to-move-to-a-cheaper-state-can-we-do-it-3e186fe5?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 22:54
+
+#### [Cristiano Ronaldo’s new $700 million contract reportedly includes private jets and 16 personal staff. Here’s how that compares with perks for other top athletes and CEOs.](https://www.marketwatch.com/story/cristiano-ronaldos-new-700-million-contract-reportedly-includes-private-jet-credits-and-personal-staff-heres-how-that-compares-with-perks-for-other-top-athletes-and-ceos-a76253ab?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 22:36
+
+#### [Oracle’s stock is climbing, and these are the big reasons why](https://www.marketwatch.com/story/oracles-stock-is-climbing-and-these-are-the-big-reasons-why-e4b8bb11?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 21:55
+
+#### [How the GOP megabill’s ‘cruel and callous’ cuts to SNAP and Medicaid could thin the social safety net](https://www.marketwatch.com/story/how-the-gop-megabills-cuts-to-snap-medicaid-and-the-child-tax-credit-could-thin-the-social-safety-net-06e57dca?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 21:49
+
+#### [Trump sends handwritten note to Powell pushing for dramatically lower interest rates](https://www.marketwatch.com/story/trump-sends-handwritten-note-to-powell-pushing-for-dramatically-lower-interest-rates-b1cc35a0?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 21:39
+
+#### [Why the Nasdaq-100 may not be dangerously overbought as it scores fresh record high](https://www.marketwatch.com/story/why-the-nasdaq-100-may-not-be-dangerously-overbought-yet-as-it-chases-a-record-high-dc308cdc?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 21:24
+
+#### [Robinhood shares soar as new crypto stock tokens open doors to overseas investors](https://www.marketwatch.com/story/robinhood-stock-soars-as-new-crypto-stock-tokens-open-doors-to-overseas-investors-477f633f?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 21:15
+
+#### [When will this bull run end? These stock-market sectors are telling us what we need to know.](https://www.marketwatch.com/story/when-will-this-bull-run-end-these-stock-market-sectors-are-telling-us-what-we-need-to-know-93fb9f07?mod=mw_rss_topstories)
+**发布时间**: 2025-06-30 21:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How GOP megabill’s cuts to SNAP and Medicaid could thin the social safety net](https://www.marketwatch.com/bulletins/redirect/go?g=d0cfc183-e173-47c7-ba19-9bc8356fb397&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 23:00
+
+#### [Trading in risky penny stocks is booming. Why it may be a sign of trouble ahead.](https://www.marketwatch.com/bulletins/redirect/go?g=b27725b0-8643-4ae1-bd2c-c803b1f3a366&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 21:32
+
+#### [Meta’s stock hits a record high as Mark Zuckerberg goes on an AI hiring spree](https://www.marketwatch.com/bulletins/redirect/go?g=6602762d-2d5d-4f18-9ddd-703e175d7ad6&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 20:46
+
+#### [Trump sends handwritten note to Powell pushing for dramatically lower rates](https://www.marketwatch.com/bulletins/redirect/go?g=827da9b5-0d2d-4333-a80d-30ef7f18aa42&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 20:25
+
+#### [S&P 500 and Nasdaq build on record highs as U.S. stocks gain on trade optimism](https://www.marketwatch.com/bulletins/redirect/go?g=c95918db-6649-49ce-a3f5-80a89a6f06f0&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 20:05
+
+#### [Robinhood shares soar as new crypto stock tokens open doors to E.U. investors](https://www.marketwatch.com/bulletins/redirect/go?g=d2331b13-7cbd-4ab9-9438-c5c009709388&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 18:54
+
+#### [Why companies are issuing fewer 30-year bonds than they have in 14 years](https://www.marketwatch.com/bulletins/redirect/go?g=5f576117-83dd-48ff-8862-d47ca2ad7e41&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 18:21
+
+#### [BofA analysts say there’s still a lot to like about Crocs](https://www.marketwatch.com/bulletins/redirect/go?g=7b64cfed-03e8-4ee8-9262-5d60a520c0b3&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 17:52
+
+#### [Would you apply for a job with a nine-step hiring process?](https://www.marketwatch.com/bulletins/redirect/go?g=2ebdc357-9933-4997-9adb-b98e5f07778e&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 15:29
+
+#### [S&P 500 and Nasdaq build on records after Canada caves on digital tax — live](https://www.marketwatch.com/bulletins/redirect/go?g=2afc17d4-b81f-4e29-be99-9644c9eaf63a&mod=mw_rss_bulletins)
+**发布时间**: 2025-06-30 13:34
 
 ---
 
