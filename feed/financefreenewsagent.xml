@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 01 Jul 2025 04:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2025 04:31:05 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 08:16:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This fund returned 21% in May alone buying ‘left-for-dead’ stocks — and it has a new target</title>
+      <link>https://www.marketwatch.com/story/this-fund-returned-21-in-may-alone-buying-left-for-dead-stocks-and-it-has-a-new-target-af651843?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This fund returned 21% in May alone buying ‘left-for-dead’ stocks — and it has a new target]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 05:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-fund-returned-21-in-may-alone-buying-left-for-dead-stocks-and-it-has-a-new-target-af651843?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests</title>
       <link>https://www.marketwatch.com/story/goldmans-stock-surges-toward-another-record-as-the-big-winner-of-feds-stress-tests-982b1530?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[QuantumScape’s stock is still on a tear, but buyer beware, analyst says]]&gt;</description>
       <pubDate>Thu, 26 Jun 2025 23:32:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/quantumscapes-stock-is-still-on-a-tear-but-buyer-beware-analyst-says-36ea9613?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nike’s outlook wakes up its stock. But execs still see a long road to full recovery.</title>
-      <link>https://www.marketwatch.com/story/nikes-results-top-estimates-but-ceo-says-theyre-still-not-where-we-want-them-to-be-216df439?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nike’s outlook wakes up its stock. But execs still see a long road to full recovery.]]&gt;</description>
-      <pubDate>Thu, 26 Jun 2025 23:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nikes-results-top-estimates-but-ceo-says-theyre-still-not-where-we-want-them-to-be-216df439?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

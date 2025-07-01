@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-01 04:31
+**最后更新时间**: 2025-07-01 08:16
+
+---
+
+## 🆕 最新更新 (2025-07-01 08:16)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This fund returned 21% in May alone buying ‘left-for-dead’ stocks — and it has a new target](https://www.marketwatch.com/story/this-fund-returned-21-in-may-alone-buying-left-for-dead-stocks-and-it-has-a-new-target-af651843?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 05:38
 
 ---
 

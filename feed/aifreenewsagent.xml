@@ -5,14 +5,126 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 01 Jul 2025 04:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2025 04:31:05 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 08:16:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>阿里通义开源音频生成模型，能模仿音效师为视频配音</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-12</link>
+      <description>&lt;![CDATA[阿里通义开源音频生成模型，能模仿音效师为视频配音]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SuperCLUE推理榜惊现黑马：原来中兴是一家AI公司？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-11</link>
+      <description>&lt;![CDATA[SuperCLUE推理榜惊现黑马：原来中兴是一家AI公司？]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Sebastian Raschka著作免费开放！《机器学习与AI核心30问》，新手专家皆宜</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-10</link>
+      <description>&lt;![CDATA[Sebastian Raschka著作免费开放！《机器学习与AI核心30问》，新手专家皆宜]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>你的下一个AI项目灵感，藏在首届魔搭开发者大会的七大论坛里</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-9</link>
+      <description>&lt;![CDATA[你的下一个AI项目灵感，藏在首届魔搭开发者大会的七大论坛里]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Nature子刊 | 有效提升蛋白质折叠模式覆盖度，清华等使用全局几何感知潜在编码改进扩散模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-8</link>
+      <description>&lt;![CDATA[Nature子刊 | 有效提升蛋白质折叠模式覆盖度，清华等使用全局几何感知潜在编码改进扩散模型]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>如何对齐DNN与人类看世界的方式？像素还是概念？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-7</link>
+      <description>&lt;![CDATA[如何对齐DNN与人类看世界的方式？像素还是概念？]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>你的Agent电脑助手正在踩雷！最新研究揭秘Computer-Use Agent的安全漏洞</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-6</link>
+      <description>&lt;![CDATA[你的Agent电脑助手正在踩雷！最新研究揭秘Computer-Use Agent的安全漏洞]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Meta新AI团队成员大起底：8位华人，清北、浙大校友占半壁江山</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-5</link>
+      <description>&lt;![CDATA[Meta新AI团队成员大起底：8位华人，清北、浙大校友占半壁江山]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>伯克利&amp;Meta面向具身智能的世界模型：让AI通过全身动作「看见」未来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-4</link>
+      <description>&lt;![CDATA[伯克利&amp;Meta面向具身智能的世界模型：让AI通过全身动作「看见」未来]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 12:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>性能提升84%-166%！L-Zero仅靠强化学习解锁大模型探索世界的能力 | 已开源</title>
+      <link>https://www.qbitai.com/2025/07/303589.html</link>
+      <description>&lt;![CDATA[性能提升84%-166%！L-Zero仅靠强化学习解锁大模型探索世界的能力 | 已开源]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 06:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303589.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>瞄准AGI等四大前沿领域，蚂蚁集团2025“蚂蚁InTech奖”提名启动</title>
+      <link>https://www.qbitai.com/2025/07/303584.html</link>
+      <description>&lt;![CDATA[瞄准AGI等四大前沿领域，蚂蚁集团2025“蚂蚁InTech奖”提名启动]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303584.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>让创新创造被更多看见，2025Inclusion·外滩大会创新者舞台全球征集正式启动！</title>
+      <link>https://www.qbitai.com/2025/07/303578.html</link>
+      <description>&lt;![CDATA[让创新创造被更多看见，2025Inclusion·外滩大会创新者舞台全球征集正式启动！]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303578.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为又开源了个大的：超大规模MoE推理秘籍</title>
+      <link>https://www.qbitai.com/2025/07/303554.html</link>
+      <description>&lt;![CDATA[华为又开源了个大的：超大规模MoE推理秘籍]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 05:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303554.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>WAIC 2025倒计时30天五大进展发布：勾勒智能答卷，上海再启新章</title>
+      <link>https://www.qbitai.com/2025/07/303441.html</link>
+      <description>&lt;![CDATA[WAIC 2025倒计时30天五大进展发布：勾勒智能答卷，上海再启新章]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 02:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303441.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>生成超1000万份志愿报告，夸克实现国内最大规模深度研究应用</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-01-3</link>
@@ -299,118 +411,6 @@
       <description>&lt;![CDATA[HASD: Hierarchical Adaption for pathology Slide-level Domain-shift]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.23673</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Pok\'eAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red</title>
-      <link>https://arxiv.org/abs/2506.23689</link>
-      <description>&lt;![CDATA[Pok\'eAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23689</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Agent4S: The Transformation of Research Paradigms from the Perspective of Large Language Models</title>
-      <link>https://arxiv.org/abs/2506.23692</link>
-      <description>&lt;![CDATA[Agent4S: The Transformation of Research Paradigms from the Perspective of Large Language Models]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23692</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A New Perspective On AI Safety Through Control Theory Methodologies</title>
-      <link>https://arxiv.org/abs/2506.23703</link>
-      <description>&lt;![CDATA[A New Perspective On AI Safety Through Control Theory Methodologies]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23703</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments</title>
-      <link>https://arxiv.org/abs/2506.23706</link>
-      <description>&lt;![CDATA[Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23706</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BayesL: Towards a Logical Framework for Bayesian Networks</title>
-      <link>https://arxiv.org/abs/2506.23773</link>
-      <description>&lt;![CDATA[BayesL: Towards a Logical Framework for Bayesian Networks]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23773</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)</title>
-      <link>https://arxiv.org/abs/2506.23784</link>
-      <description>&lt;![CDATA[When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23784</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning</title>
-      <link>https://arxiv.org/abs/2506.23793</link>
-      <description>&lt;![CDATA[Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23793</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents</title>
-      <link>https://arxiv.org/abs/2506.23844</link>
-      <description>&lt;![CDATA[A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23844</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond Statistical Learning: Exact Learning Is Essential for General Intelligence</title>
-      <link>https://arxiv.org/abs/2506.23908</link>
-      <description>&lt;![CDATA[Beyond Statistical Learning: Exact Learning Is Essential for General Intelligence]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23908</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice</title>
-      <link>https://arxiv.org/abs/2506.23924</link>
-      <description>&lt;![CDATA[Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23924</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system</title>
-      <link>https://arxiv.org/abs/2506.23926</link>
-      <description>&lt;![CDATA[Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23926</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI Risk-Management Standards Profile for General-Purpose AI (GPAI) and Foundation Models</title>
-      <link>https://arxiv.org/abs/2506.23949</link>
-      <description>&lt;![CDATA[AI Risk-Management Standards Profile for General-Purpose AI (GPAI) and Foundation Models]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23949</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Harnessing AI Agents to Advance Research on Refugee Child Mental Health</title>
-      <link>https://arxiv.org/abs/2506.23992</link>
-      <description>&lt;![CDATA[Harnessing AI Agents to Advance Research on Refugee Child Mental Health]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.23992</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Constructing Non-Markovian Decision Process via History Aggregator</title>
-      <link>https://arxiv.org/abs/2506.24026</link>
-      <description>&lt;![CDATA[Constructing Non-Markovian Decision Process via History Aggregator]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.24026</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,7 +2,98 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-01 04:31
+**最后更新时间**: 2025-07-01 08:16
+
+---
+
+## 🆕 最新更新 (2025-07-01 08:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [跳槽实现财富自由！小扎千万年薪快要“掏空”OpenAI核心人才，还高调“晒”挖人成绩单：各栈大牛，近70%是华人](https://www.infoq.cn/article/k07lWwUGSVWTIrIXAL1p?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 16:04
+
+#### [开源即爆红，代码能力碾压 Claude：Gemini CLI 背后这套方法，谷歌憋了一年](https://www.infoq.cn/article/FCSrthqxE76zpWmR8f7Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:58
+
+#### [脑机接口技术再进一步，国内首例闭环脊髓神经接口系统临床植入成功](https://www.infoq.cn/article/dyzIg2YaCJUQKHi7EX9Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:55
+
+#### [我押注12亿美元买下当年移动界的“OpenAI”，却眼睁睁看它49天夭折](https://www.infoq.cn/article/UGtfFJx9BoJ9JjM6x3eV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:47
+
+#### [Cursor 发布 Web 和移动端版本，新增 200 美元/月 Pro 套餐](https://www.infoq.cn/article/SS0Lr1R4bHhvGMmaqY66?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:46
+
+#### [AICon北京2025：腾讯云联合Gartner发布《 Data+AI 下一代数智平台建设指南》](https://www.infoq.cn/article/Eu75jZKg9q3JDjCkbPAg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:45
+
+#### [AICon北京2025重磅发布：腾讯云、硅基流动、极客邦科技最新 AI 探索](https://www.infoq.cn/article/f0pYUiCBglHsGgWzPJcO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:36
+
+#### [Logz.io和Dynatrace的创新将可观测性带入AI时代](https://www.infoq.cn/article/23ppxIJu195PdHaJgaSq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:33
+
+#### [瞄准AGI等四大前沿领域，蚂蚁集团2025“蚂蚁InTech奖”提名启动](https://www.infoq.cn/article/suQe0gmy5EtNmGAjAyjl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:20
+
+#### [让创新创造被更多看见，2025Inclusion·外滩大会创新者舞台全球征集正式启动！](https://www.infoq.cn/article/rsU4wbtlmg5G2ijGDpF5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 15:14
+
+#### [2025 AI 应用出海「年中洞察」 暨 GMI Cloud 线上发布会](https://www.infoq.cn/video/LgkiYcrlCO3tqebxQOSg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 14:48
+
+#### [刚刚，微软 GitHub Copilot Chat 扩展正式开源](https://www.infoq.cn/article/NkhP2wjLYwsEsdTYLqCK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 14:31
+
+#### [数据「熵增」时代，AI 如何以标准重构治理秩序？](https://www.infoq.cn/article/7riRyYj0gsxKHpMvgLKU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 14:27
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [两年突进，宜宾又一城市极核破茧成蝶](https://www.tmtpost.com/7612723.html)
+**发布时间**: 2025-07-01 15:52
+
+#### [China's Auto Export Boom Faces Financial Infrastructure Challenge as Globalization Logic Shifts](https://www.tmtpost.com/7612762.html)
+**发布时间**: 2025-07-01 15:48
+
+#### [7月1日A股分析：三大指数今日涨跌不一，两市合计成交14660.36亿元，资金流入最多的概念板块为创新药、单抗概念](https://www.tmtpost.com/7612746.html)
+**发布时间**: 2025-07-01 15:38
+
+#### [【产业互联网周报】阿里合伙人名单最新变动：9人已退出；美团在AI投入超百亿元；黄仁勋：机器人技术是芯片制造商继AI之后的最大机遇](https://www.tmtpost.com/7612651.html)
+**发布时间**: 2025-07-01 14:23
+
+#### [EU Said to Accept a 10% U.S. Universal Tariff while Seeking Exemptions for Key Sectors](https://www.tmtpost.com/7612628.html)
+**发布时间**: 2025-07-01 13:54
+
+#### [Trump Warns of Higher Tariffs on Japan Due to Rice Trade after Threatening 25% Auto Levies](https://www.tmtpost.com/7612606.html)
+**发布时间**: 2025-07-01 13:28
+
+#### [李建忠对话KK凯文·凯利《AI 的进化和颠覆》实录](https://www.tmtpost.com/7612521.html)
+**发布时间**: 2025-07-01 13:13
+
+#### [首届“美好生活博览会”盛大开幕，让世界看见中国美好力量](https://www.tmtpost.com/7612509.html)
+**发布时间**: 2025-07-01 13:13
+
+#### [China's GPU Chip Startups Moore Threads and MetaX Tech File for IPOs](https://www.tmtpost.com/7612583.html)
+**发布时间**: 2025-07-01 12:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 2005 打开大众点评：20 年前互联网怎么教我们在杭州吃东西？](https://sspai.com/post/100663)
+**发布时间**: 2025-07-01 15:00
+
+#### [550 元买到达芬奇 Speed Editor：专业剪辑键盘有什么不一样？](https://sspai.com/post/99873)
+**发布时间**: 2025-07-01 11:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [禁酒令下，中高端餐饮何去何从？](http://www.huxiu.com/article/4524383.html?f=wangzhan)
+**发布时间**: 2025-07-01 13:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [20% VistaPrint Coupon & Promo Codes | July 2025](https://www.wired.com/story/vistaprint-coupon-code/)
+**发布时间**: 2025-07-01 05:00
 
 ---
 
