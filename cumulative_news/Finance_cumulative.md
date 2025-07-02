@@ -2,7 +2,68 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-01 12:22
+**最后更新时间**: 2025-07-02 00:57
+
+---
+
+## 🆕 最新更新 (2025-07-02 00:57)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Constellation Brands says ‘socioeconomic headwinds’ are hurting beer sales, amid immigration crackdown](https://www.marketwatch.com/story/constellation-brands-says-socioeconomic-headwinds-are-hurting-beer-sales-amid-immigration-crackdown-81a69126?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 00:15
+
+#### [An upgrade for Apple’s stock? It’s not the endorsement you might think.](https://www.marketwatch.com/story/an-upgrade-for-apples-stock-its-not-the-endorsement-you-might-think-49d629ae?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 23:33
+
+#### [Women are about to be tremendously wealthy. So why is it so hard to find good financial help?](https://www.marketwatch.com/story/women-are-about-to-be-tremendously-wealthy-so-why-is-it-so-hard-to-find-good-financial-help-30d99f8a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 23:31
+
+#### [Here’s what’s worth streaming in July 2025 on Netflix, Hulu, Max, Disney+ and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2025-on-netflix-hulu-max-disney-and-more-e91e8368?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 23:10
+
+#### [My job is offering me a payout. Should I take a $61,000 lump sum — or $355 a month for life?](https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 23:02
+
+#### [Here’s AI’s next explosive frontier for investors, according to BlackRock](https://www.marketwatch.com/story/heres-ais-next-explosive-frontier-for-investors-according-to-blackrock-f6d0acca?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 22:59
+
+#### [Figma files for an IPO. What investors should know about the Adobe design rival.](https://www.marketwatch.com/story/figma-files-for-an-ipo-what-investors-should-know-about-the-adobe-design-rival-993140fd?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 22:05
+
+#### [My mother, 89, keeps getting her credit card scammed. She gets a new one — and it happens again. What’s going on?](https://www.marketwatch.com/story/my-mother-89-keeps-getting-her-credit-card-scammed-i-buy-her-a-new-one-and-it-happens-again-whats-going-on-71d5b8e5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-01 21:37
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [An upgrade for Apple’s stock? It’s not the endorsement you might think.](https://www.marketwatch.com/bulletins/redirect/go?g=fb15950a-ccc7-4a19-b109-846609ec3410&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 23:38
+
+#### [Why even billionaires are having trouble finding homes to rent now](https://www.marketwatch.com/bulletins/redirect/go?g=7b7e7a89-de46-4e94-bae4-366ad5af5c28&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 23:38
+
+#### [Figma files for an IPO. What investors should know about the Adobe design rival.](https://www.marketwatch.com/bulletins/redirect/go?g=ac18157f-5b7e-4ed6-88d4-d5ed436cd70b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 22:55
+
+#### [Here’s AI’s next explosive frontier for investors, according to BlackRock](https://www.marketwatch.com/bulletins/redirect/go?g=6b955b56-04ca-4b03-9427-55f6ffaa34da&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 22:33
+
+#### [How the June jobs report could decide the Fed's next interest-rate cut](https://www.marketwatch.com/bulletins/redirect/go?g=0c2c6555-ef1b-4cd2-9510-8bbb44853a2a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 21:42
+
+#### [As Senate passes Trump’s big bill, what it means for Medicaid, taxes and more](https://www.marketwatch.com/bulletins/redirect/go?g=485a0d4f-c492-482f-9177-6711fe9e10e4&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 20:47
+
+#### [Dow closes up 400 points, while S&P 500 and Nasdaq slip from record highs](https://www.marketwatch.com/bulletins/redirect/go?g=4d3fda42-9a9b-4cf8-a48a-f1c389a35d1b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 20:07
+
+#### [Why is the Dow surging while the S&P 500 and Nasdaq are stalling? Follow live.](https://www.marketwatch.com/bulletins/redirect/go?g=698c4dde-a940-4157-aebb-c978ba187846&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 19:19
+
+#### [S&P 500 heads for first ‘golden cross’ in over 2 years. Here’s what comes next.](https://www.marketwatch.com/bulletins/redirect/go?g=ec227062-7265-43b5-9f29-2eea1656c8a8&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 18:43
+
+#### [How the Fourth of July holiday affects stock- and bond-trading hours this week](https://www.marketwatch.com/bulletins/redirect/go?g=780380cf-9c2b-45f1-a195-7c34eedc5867&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-01 14:57
 
 ---
 

@@ -2,7 +2,150 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-01 12:22
+**最后更新时间**: 2025-07-02 00:57
+
+---
+
+## 🆕 最新更新 (2025-07-02 00:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [苏超冠名大战开打，阿里系上演散装式「宫斗」](https://www.tmtpost.com/7613267.html)
+**发布时间**: 2025-07-02 08:40
+
+#### [一日惊魂之后，如何看待当前的银行股行情？](https://www.tmtpost.com/7613528.html)
+**发布时间**: 2025-07-02 08:40
+
+#### [科股早知道：核聚变行业会议将召开，机构称核聚变商业化进程有望加快](https://www.tmtpost.com/7613497.html)
+**发布时间**: 2025-07-02 08:12
+
+#### [【钛晨报】创新药产业迎重大利好，两部门提出16条措施支持创新药高质量发展；新能源汽车6月交付情况速览：7家交付量超3万，5家同比增超50%；油价年内首次“三连涨”，加满一箱油将多花9元](https://www.tmtpost.com/7613407.html)
+**发布时间**: 2025-07-02 07:20
+
+#### [中国氮化镓激光芯片突围：飓芯科技获3亿元B轮融资，加速大功率蓝绿光激光芯片国产化](https://www.tmtpost.com/7610440.html)
+**发布时间**: 2025-07-01 21:46
+
+#### [宝洁拟裁员7000人，“黄埔军校”又向市场输送人才了](https://www.tmtpost.com/7612754.html)
+**发布时间**: 2025-07-01 20:53
+
+#### [三期研究成功，再鼎找到胃癌治疗的那片关键“拼图”](https://www.tmtpost.com/7613090.html)
+**发布时间**: 2025-07-01 20:52
+
+#### [小熊电器水逆，该不该怪年轻人？](https://www.tmtpost.com/7612961.html)
+**发布时间**: 2025-07-01 20:52
+
+#### [谁真正有实力打价格战？](https://www.tmtpost.com/7612659.html)
+**发布时间**: 2025-07-01 20:52
+
+#### [三只松鼠“弃购”爱零食，章燎原终于想开了](https://www.tmtpost.com/7613082.html)
+**发布时间**: 2025-07-01 20:50
+
+#### [阿里美团们发力AI数字员工，“牛马们”终将被取代？](https://www.tmtpost.com/7612947.html)
+**发布时间**: 2025-07-01 20:44
+
+#### [朴朴十年拓九城，“平替”盒马何时飞升](https://www.tmtpost.com/7613018.html)
+**发布时间**: 2025-07-01 20:44
+
+#### [特斯拉“下乡”背后：朱晓彤推进销售体系下沉](https://www.tmtpost.com/7613078.html)
+**发布时间**: 2025-07-01 20:44
+
+#### [国产模拟芯片，崛起前夜](https://www.tmtpost.com/7613110.html)
+**发布时间**: 2025-07-01 20:44
+
+#### [德国为什么没有诞生广告巨头？](https://www.tmtpost.com/7613081.html)
+**发布时间**: 2025-07-01 20:43
+
+#### [两家公司共同押注，自免新王牌即将亮剑？](https://www.tmtpost.com/7613184.html)
+**发布时间**: 2025-07-01 20:43
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [亚马逊仓库机器人数量接近人类员工；高铁：不查充电宝 3C 标和品牌；雷军贺理想 10 周年：大空间家用车领导者](http://www.geekpark.net/news/351081)
+**发布时间**: 2025-07-02 08:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：马歇尔 Middleton II 发布、树莓派推出 Radio Module 2 无线模块等](https://sspai.com/post/100726)
+**发布时间**: 2025-07-02 07:35
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Figma is going public](https://www.theverge.com/news/696253/figma-ipo-public-filing)
+**发布时间**: 2025-07-01 22:03
+
+#### [X opens up to Community Notes written by AI bots](https://www.theverge.com/news/696210/x-community-notes-ai-note-writers)
+**发布时间**: 2025-07-01 21:13
+
+#### [Google makes it easier to let friends and kids control your smart home](https://www.theverge.com/news/696189/google-home-member-admin-kids-launch)
+**发布时间**: 2025-07-01 20:40
+
+#### [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+**发布时间**: 2025-07-01 20:28
+
+#### [Ultra Mobile raised its data caps without a price increase](https://www.theverge.com/news/696123/ultra-mobile-international-plans-increase-data-cap)
+**发布时间**: 2025-07-01 20:21
+
+#### [The GOP’s big spending bill could kill renewable energy projects](https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy)
+**发布时间**: 2025-07-01 20:03
+
+#### [Grammarly wants to become an ‘AI productivity platform’](https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform)
+**发布时间**: 2025-07-01 18:55
+
+#### [Sonos is offering a refurbished Era 100 for just $119](https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale)
+**发布时间**: 2025-07-01 18:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Al 都会写代码了，还要不要报考计算机专业 ｜太稳不太稳](https://www.infoq.cn/video/8F6Dj9vyW4NVpsDXb3Oh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-01 20:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [沙特阿拉伯：向中国和美国出售未来？](http://www.huxiu.com/article/4516885.html?f=wangzhan)
+**发布时间**: 2025-07-01 20:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’](https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/)
+**发布时间**: 2025-07-01 19:27
+
+#### [Here’s What Mark Zuckerberg Is Offering Top AI Talent](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/)
+**发布时间**: 2025-07-01 18:48
+
+#### [Sam Altman Slams Meta’s AI Talent-Poaching Spree: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
+**发布时间**: 2025-07-01 17:46
+
+#### [AI Videos of Black Women Depicted as ‘Bigfoot’ Are Going Viral](https://www.wired.com/story/ai-videos-black-women-depicted-as-primates-viral/)
+**发布时间**: 2025-07-01 17:31
+
+#### [Nothing's New Phone (3) and Headphone (1) Look Nothing Like You've Seen Before](https://www.wired.com/story/nothing-phone-3-headphones-1-news/)
+**发布时间**: 2025-07-01 17:30
+
+#### [Trump’s New Fragrance Doesn’t Smell Like Success](https://www.wired.com/story/trumps-new-fragrance-doesnt-smell-like-success/)
+**发布时间**: 2025-07-01 17:12
+
+#### [The Senate Just Put Clean Energy for AI in the Crosshairs](https://www.wired.com/story/the-senate-just-put-clean-energy-for-ai-in-the-crosshairs/)
+**发布时间**: 2025-07-01 17:00
+
+#### [The Best Hot Dog Cookers for All-American Hot Dogging (2025)](https://www.wired.com/gallery/best-hot-dog-cookers/)
+**发布时间**: 2025-07-01 15:02
+
+#### [5 Best Food Dehydrators, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-food-dehydrator/)
+**发布时间**: 2025-07-01 14:33
+
+#### [12 Best Cheap Laptops (2025), Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
+**发布时间**: 2025-07-01 14:00
+
+#### [10 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+**发布时间**: 2025-07-01 13:30
+
+#### [‘Donkey Kong Bananza’ Could be the Next Killer Game the Switch 2 Needs](https://www.wired.com/story/donkey-kong-bananza-could-be-the-next-killer-game-switch-2-needs/)
+**发布时间**: 2025-07-01 13:00
+
+#### [Xiaomi’s YU7 Is an SUV-Sized Middle Finger to Tesla’s Model Y](https://www.wired.com/story/xiaomis-yu7-is-an-suv-sized-middle-finger-to-teslas-model-y/)
+**发布时间**: 2025-07-01 12:42
+
+#### [51 Best Early Amazon Prime Day Deals On Products We've Tested (2025)](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)
+**发布时间**: 2025-06-28 17:45
 
 ---
 
