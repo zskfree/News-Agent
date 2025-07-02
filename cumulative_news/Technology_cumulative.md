@@ -2,7 +2,79 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-02 00:57
+**最后更新时间**: 2025-07-02 04:26
+
+---
+
+## 🆕 最新更新 (2025-07-02 04:26)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [我用大模型砌“屎山雕花”：5天肝出几万行代码！产品经理的AI编程翻车记](https://www.infoq.cn/article/w7prGeBXBFRLduYjDJhI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 12:19
+
+#### [小红书混合云迎战 TikTok 难民：一套调度系统撬动云上云下](https://www.infoq.cn/article/ttq25vxgLrfW3PrUaesc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 11:51
+
+#### [豆包上线“深入研究”功能  几分钟解决复杂任务](https://www.infoq.cn/article/iiSJG457HzzbiMKmrIzN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 11:32
+
+#### [独家干货！Apache Iceberg未来蓝图：Open Lakehouse闭门会核心洞察](https://www.infoq.cn/article/LhBS67cJaUJlMsQaEUNt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 11:22
+
+#### [Java近期新闻：Jakarta EE 11发布、Agent2Agent Java SDK、Kotlin、WildFly、JobRunr、Maven](https://www.infoq.cn/article/2PWFvLA4omK724tjzIwH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Trump Says U.S. and India Could Reach a Trade Deal Next Week](https://www.tmtpost.com/7613888.html)
+**发布时间**: 2025-07-02 12:10
+
+#### [EU Reported to Harden Stance on Tariffs Ahead of Trump's July Deadline](https://www.tmtpost.com/7613855.html)
+**发布时间**: 2025-07-02 11:46
+
+#### [一天两笔BD、股价20cm涨停，泼天的富贵终于轮到迈威生物？](https://www.tmtpost.com/7613393.html)
+**发布时间**: 2025-07-02 11:40
+
+#### [新潮能源易主遭遇波折，伊泰集团加速“夺权”](https://www.tmtpost.com/7613501.html)
+**发布时间**: 2025-07-02 11:40
+
+#### [首届Hitch Open世界AI竞速锦标赛中国揭幕](https://www.tmtpost.com/7613831.html)
+**发布时间**: 2025-07-02 11:40
+
+#### [BetterYeah AI Raises Over $14 Million in Series B, Backed by Alibaba Cloud](https://www.tmtpost.com/7613828.html)
+**发布时间**: 2025-07-02 11:28
+
+#### [“长安的荔枝”，能否救西安的旅游？](https://www.tmtpost.com/7613055.html)
+**发布时间**: 2025-07-02 10:40
+
+#### [新势力6月销量：问界超理想，小米排第五](https://www.tmtpost.com/7613689.html)
+**发布时间**: 2025-07-02 10:40
+
+#### [一瓶椰子水上市，钟睒睒也来打新了！](https://www.tmtpost.com/7613375.html)
+**发布时间**: 2025-07-02 10:40
+
+#### [文心开源，彦宏转身](https://www.tmtpost.com/7613395.html)
+**发布时间**: 2025-07-02 10:40
+
+#### [Trump Threatens Japan with 35% Tariffs after Tokyo Denies Concessions on Agriculture in Trade Talks](https://www.tmtpost.com/7613730.html)
+**发布时间**: 2025-07-02 10:37
+
+#### [Trump Insists No Extension for the July Deadline as U.S. Officials Said to Narrow Focus to Make Phased Trade Deals](https://www.tmtpost.com/7613657.html)
+**发布时间**: 2025-07-02 09:57
+
+#### [美团开起了外卖店：想为“共享厨房型”外卖正名](https://www.tmtpost.com/7612627.html)
+**发布时间**: 2025-07-02 09:43
+
+#### [“百镜大战”的尴尬真相：AI成花瓶，拍照才是真刚需？](https://www.tmtpost.com/7613563.html)
+**发布时间**: 2025-07-02 09:02
+
+#### [阿里云加码领投，智能体开发平台BetterYeah AI完成超亿元B轮融资｜独家](https://www.tmtpost.com/7613256.html)
+**发布时间**: 2025-07-02 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Nothing Phone 3 发布、马歇尔推出 Middleton II 等](https://sspai.com/post/100726)
+**发布时间**: 2025-07-02 07:35
 
 ---
 

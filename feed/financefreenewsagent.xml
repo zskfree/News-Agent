@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Jul 2025 00:57:00 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2025 00:57:10 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 04:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 04:27:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Here’s what’s worth streaming in July on Netflix, Hulu, Max, Disney+ and more</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f4fa21dc-767c-476b-8017-76aebcdd9e8e&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Here’s what’s worth streaming in July on Netflix, Hulu, Max, Disney+ and more]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 01:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f4fa21dc-767c-476b-8017-76aebcdd9e8e&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Constellation Brands says ‘socioeconomic headwinds’ are hurting beer sales, amid immigration crackdown</title>
       <link>https://www.marketwatch.com/story/constellation-brands-says-socioeconomic-headwinds-are-hurting-beer-sales-amid-immigration-crackdown-81a69126?mod=mw_rss_topstories</link>
@@ -35,14 +43,6 @@
       <description>&lt;![CDATA[Women are about to be tremendously wealthy. So why is it so hard to find good financial help?]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 23:31:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/women-are-about-to-be-tremendously-wealthy-so-why-is-it-so-hard-to-find-good-financial-help-30d99f8a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s what’s worth streaming in July 2025 on Netflix, Hulu, Max, Disney+ and more</title>
-      <link>https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2025-on-netflix-hulu-max-disney-and-more-e91e8368?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Here’s what’s worth streaming in July 2025 on Netflix, Hulu, Max, Disney+ and more]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 23:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2025-on-netflix-hulu-max-disney-and-more-e91e8368?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -75,14 +75,6 @@
       <description>&lt;![CDATA[My mother, 89, keeps getting her credit card scammed. She gets a new one — and it happens again. What’s going on?]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 21:37:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/my-mother-89-keeps-getting-her-credit-card-scammed-i-buy-her-a-new-one-and-it-happens-again-whats-going-on-71d5b8e5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why even billionaires are having trouble finding homes to rent now</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7b7e7a89-de46-4e94-bae4-366ad5af5c28&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Why even billionaires are having trouble finding homes to rent now]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 23:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7b7e7a89-de46-4e94-bae4-366ad5af5c28&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
@@ -411,6 +403,14 @@
       <description>&lt;![CDATA[Wells Fargo clears another Fed hurdle as banks pass stress tests]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 21:43:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/wells-fargo-clears-another-fed-hurdle-as-banks-pass-stress-tests-6b9870d0?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The $5 trillion company: Wall Street got more bullish on tech stocks this week</title>
+      <link>https://www.marketwatch.com/story/the-5-trillion-company-wall-street-gets-bullish-on-tech-stocks-this-week-8330ee26?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The $5 trillion company: Wall Street got more bullish on tech stocks this week]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-5-trillion-company-wall-street-gets-bullish-on-tech-stocks-this-week-8330ee26?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
