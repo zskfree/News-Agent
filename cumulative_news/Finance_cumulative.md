@@ -2,7 +2,44 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-02 04:26
+**最后更新时间**: 2025-07-02 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-02 12:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: ADP private-sector employment data coming up](https://www.marketwatch.com/bulletins/redirect/go?g=1a215e5c-fcc8-402b-9532-9c0072fb1bb1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 12:14
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The last holdout bears are Democrats, these strategists say. Their capitulation could fuel the next leg higher for stocks.](https://www.marketwatch.com/story/the-last-holdout-bears-are-democrats-say-strategists-their-capitulation-could-fuel-the-next-leg-higher-for-stocks-e815134f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 12:01
+
+#### [Fourth of July gasoline prices may be the lowest in years. Will gas stay this cheap all summer?](https://www.marketwatch.com/story/fourth-of-july-gas-prices-may-be-the-lowest-in-years-will-they-stay-this-cheap-all-summer-3d31a193?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 11:50
+
+#### [The silver supercycle: Gold’s partner could be the trade of the decade. This is how to play it.](https://www.marketwatch.com/story/the-silver-supercycle-golds-partner-could-be-the-trade-of-the-decade-this-is-how-to-play-it-767186ec?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 11:50
+
+#### [How does the Fourth of July holiday affect markets? Do stock and bond trading close early on July 3? What about FedEx, UPS and mail delivery? Or Costco?](https://www.marketwatch.com/story/is-the-stock-market-open-on-the-fourth-of-july-and-will-it-close-early-on-july-3-what-about-fedex-ups-and-mail-delivery-26eaf161?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 11:47
+
+#### [This income fund pays more than a bank account while keeping price volatility low](https://www.marketwatch.com/story/this-income-fund-pays-more-than-a-bank-account-while-keeping-price-volatility-low-283eec7c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 11:09
+
+#### [Adobe rating lowered to sell on competition from Midjourney, other AI tools](https://www.marketwatch.com/story/adobe-rating-lowered-to-sell-on-competition-from-midjourney-other-ai-tools-2f709ff9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 11:09
+
+#### [My wife and I are in our late 60s. Do I sell stocks to pay our $30,000 credit-card debt — or do it gradually over 3 years?](https://www.marketwatch.com/story/my-wife-and-i-are-in-our-late-60s-do-i-sell-stocks-to-pay-our-30-000-credit-card-debt-or-do-it-gradually-over-3-years-58b3a0de?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 10:32
+
+#### [‘There is tension in the house’: I live with my daughter and her lazy boyfriend. She wants me to buy her house.](https://www.marketwatch.com/story/there-is-tension-in-the-house-i-live-with-my-daughter-and-her-lazy-boyfriend-she-wants-me-to-buy-her-house-09080e4b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 09:20
+
+#### [‘Love is Blind’ hosts Nick and Vanessa Lachey list their SoCal home for $7.4 million just a year after buying it](https://www.marketwatch.com/story/love-is-blind-hosts-nick-and-vanessa-lachey-list-their-socal-home-for-7-4-million-just-a-year-after-buying-it-a5139486?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 09:03
 
 ---
 

@@ -5,14 +5,94 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Jul 2025 08:16:00 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2025 08:16:22 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 12:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 12:22:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>华为CloudMatrix384超节点很强，但它的「灵魂」在云上</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-17</link>
+      <description>&lt;![CDATA[华为CloudMatrix384超节点很强，但它的「灵魂」在云上]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-17</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>青年科研人看过来！2025“蚂蚁InTech奖”来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-16</link>
+      <description>&lt;![CDATA[青年科研人看过来！2025“蚂蚁InTech奖”来了]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-16</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>真有论文这么干？多所全球顶尖大学论文，竟暗藏AI好评指令</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-15</link>
+      <description>&lt;![CDATA[真有论文这么干？多所全球顶尖大学论文，竟暗藏AI好评指令]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-15</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>让GUI智能体不再「过度执行」，上海交大、Meta联合发布OS-Kairos系统</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-14</link>
+      <description>&lt;![CDATA[让GUI智能体不再「过度执行」，上海交大、Meta联合发布OS-Kairos系统]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>直播预告：「开箱」华为盘古首个开源大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-13</link>
+      <description>&lt;![CDATA[直播预告：「开箱」华为盘古首个开源大模型]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，神秘模型火了！网友：是OpenAI要开源？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-12</link>
+      <description>&lt;![CDATA[刚刚，神秘模型火了！网友：是OpenAI要开源？]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>画到哪，动到哪！字节跳动发布视频生成「神笔马良」ATI，已开源！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-11</link>
+      <description>&lt;![CDATA[画到哪，动到哪！字节跳动发布视频生成「神笔马良」ATI，已开源！]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>90%导航成功率+泛化率，ETH的新强化学习方法使微型机器人在血管里不再迷路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-10</link>
+      <description>&lt;![CDATA[90%导航成功率+泛化率，ETH的新强化学习方法使微型机器人在血管里不再迷路]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MoE那么大，几段代码就能稳稳推理 | 开源</title>
+      <link>https://www.qbitai.com/2025/07/303881.html</link>
+      <description>&lt;![CDATA[MoE那么大，几段代码就能稳稳推理 | 开源]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303881.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How generative AI could help make construction sites safer</title>
+      <link>https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/</link>
+      <description>&lt;![CDATA[How generative AI could help make construction sites safer]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>周志华团队新作：LLM中存在奖励模型，首次理论证明RL对LLM有效性</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-02-9</link>
@@ -331,86 +411,6 @@
       <description>&lt;![CDATA[SWE-Bench-CL: Continual Learning for Coding Agents]]&gt;</description>
       <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.00014</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Vision Transformer with Adversarial Indicator Token against Adversarial Attacks in Radio Signal Classifications</title>
-      <link>https://arxiv.org/abs/2507.00015</link>
-      <description>&lt;![CDATA[Vision Transformer with Adversarial Indicator Token against Adversarial Attacks in Radio Signal Classifications]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00015</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Gradient-based Fine-Tuning through Pre-trained Model Regularization</title>
-      <link>https://arxiv.org/abs/2507.00016</link>
-      <description>&lt;![CDATA[Gradient-based Fine-Tuning through Pre-trained Model Regularization]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00016</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Implicit Reward as the Bridge: A Unified View of SFT and DPO Connections</title>
-      <link>https://arxiv.org/abs/2507.00018</link>
-      <description>&lt;![CDATA[Implicit Reward as the Bridge: A Unified View of SFT and DPO Connections]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00018</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Quantum Inspired Encoding Strategies for Machine Learning Models: Proposing and Evaluating Instance Level, Global Discrete, and Class Conditional Representations</title>
-      <link>https://arxiv.org/abs/2507.00019</link>
-      <description>&lt;![CDATA[Quantum Inspired Encoding Strategies for Machine Learning Models: Proposing and Evaluating Instance Level, Global Discrete, and Class Conditional Representations]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00019</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GLU Attention Improve Transformer</title>
-      <link>https://arxiv.org/abs/2507.00022</link>
-      <description>&lt;![CDATA[GLU Attention Improve Transformer]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00022</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AIMatDesign: Knowledge-Augmented Reinforcement Learning for Inverse Materials Design under Data Scarcity</title>
-      <link>https://arxiv.org/abs/2507.00024</link>
-      <description>&lt;![CDATA[AIMatDesign: Knowledge-Augmented Reinforcement Learning for Inverse Materials Design under Data Scarcity]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00024</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Generalizing to New Dynamical Systems via Frequency Domain Adaptation</title>
-      <link>https://arxiv.org/abs/2507.00025</link>
-      <description>&lt;![CDATA[Generalizing to New Dynamical Systems via Frequency Domain Adaptation]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00025</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ROSE: Toward Reality-Oriented Safety Evaluation of Large Language Models</title>
-      <link>https://arxiv.org/abs/2507.00026</link>
-      <description>&lt;![CDATA[ROSE: Toward Reality-Oriented Safety Evaluation of Large Language Models]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00026</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>HiT-JEPA: A Hierarchical Self-supervised Trajectory Embedding Framework for Similarity Computation</title>
-      <link>https://arxiv.org/abs/2507.00028</link>
-      <description>&lt;![CDATA[HiT-JEPA: A Hierarchical Self-supervised Trajectory Embedding Framework for Similarity Computation]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00028</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LoRA-Mixer: Coordinate Modular LoRA Experts Through Serial Attention Routing</title>
-      <link>https://arxiv.org/abs/2507.00029</link>
-      <description>&lt;![CDATA[LoRA-Mixer: Coordinate Modular LoRA Experts Through Serial Attention Routing]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00029</guid>
       <category>AI</category>
     </item>
   </channel>

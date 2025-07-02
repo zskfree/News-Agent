@@ -2,7 +2,117 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-02 08:16
+**最后更新时间**: 2025-07-02 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-02 12:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [零公里二手车、做局消费者，新能源补贴的灰色生意](https://www.tmtpost.com/7614259.html)
+**发布时间**: 2025-07-02 19:24
+
+#### [Zhipu AI Secures $140 Million Investment from Shanghai State-Backed Firms as IPO Preparations Advance](https://www.tmtpost.com/7614319.html)
+**发布时间**: 2025-07-02 19:06
+
+#### [Wuhan's 'Black Tech' Powers China's Cross-Border Push with Niche Electronics and Scientific Firepower](https://www.tmtpost.com/7614314.html)
+**发布时间**: 2025-07-02 19:02
+
+#### [小米YU7为啥卖爆：在消费降级时代，做内容友好型产品](https://www.tmtpost.com/7614015.html)
+**发布时间**: 2025-07-02 18:44
+
+#### [复制英伟达神话？摩尔线程冲刺科创板](https://www.tmtpost.com/7614096.html)
+**发布时间**: 2025-07-02 18:43
+
+#### [如何理解泡泡玛特王宁的经营哲学——无用经济学](https://www.tmtpost.com/7613703.html)
+**发布时间**: 2025-07-02 18:16
+
+#### [雷军系又一家公司赴港上市，这次赚多少？](https://www.tmtpost.com/7613743.html)
+**发布时间**: 2025-07-02 18:16
+
+#### [投资机构科创债：“甘霖”不解“大渴”](https://www.tmtpost.com/7614263.html)
+**发布时间**: 2025-07-02 18:10
+
+#### [从Manus到光电子，武汉探索“黑科技”出海范式｜出海参考](https://www.tmtpost.com/7614219.html)
+**发布时间**: 2025-07-02 17:49
+
+#### [冲击IPO上市关口，智谱获上海国资10亿元战略融资并开源通用视觉语言模型](https://www.tmtpost.com/7614022.html)
+**发布时间**: 2025-07-02 16:38
+
+#### [Xpeng Sustains Sales Momentum as China’s EV Price War Intensifies](https://www.tmtpost.com/7614153.html)
+**发布时间**: 2025-07-02 16:33
+
+#### [3.8亿资金占用无解？东方时尚拉响警报](https://www.tmtpost.com/7613611.html)
+**发布时间**: 2025-07-02 16:21
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [多少老戏骨，正在悄悄劣化](http://www.huxiu.com/article/4447621.html?f=wangzhan)
+**发布时间**: 2025-07-02 19:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [互联网巨头争抢AI人才，京东以“全景产业场景”寻求破局](https://www.infoq.cn/article/gor3vjcQ5JxQDQwJKW08?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 19:00
+
+#### [曾让Adobe豪掷千亿，如今要独立上市了！招股书疯狂点名 AI 150次，新产品对标Lovable](https://www.infoq.cn/article/kG12WN9oRr8XKAQDdJ0N?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 18:08
+
+#### [Altman嘲讽Meta挖走的不是顶尖人才，OpenAI 高管首曝内幕：ChatGPT如何让我们一夜“封神”](https://www.infoq.cn/article/SviyAlZZRb0hIL295C52?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 17:16
+
+#### [为何我的Docker镜像如此庞大？使用“dive”进行深度剖析以找出臃肿之处](https://www.infoq.cn/article/lWAALto7hUq5q10r4RCA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 16:33
+
+#### [Anthropic升级应用程序构建能力至Claude Artifacts](https://www.infoq.cn/article/RBH89jEqG8Z3QgogNcyH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 16:33
+
+#### [作为Staff工程师或工程经理构建战略影响力](https://www.infoq.cn/article/Xli6yOxtO40LxRUmDIKM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 16:25
+
+#### [通过与模式注册表集成，AWS Lambda获得对Kafka事件的原生Avro和Protobuf支持](https://www.infoq.cn/article/IlcJhHFxPm6P2XHNA7ST?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-02 16:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [夏日虽然热，但也不耽误打扮：一份通用的男生夏季穿搭指南](https://sspai.com/post/100661)
+**发布时间**: 2025-07-02 17:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [一场峰会，半个车圈！高通的野心不止于70%的座舱](http://www.geekpark.net/news/351120)
+**发布时间**: 2025-07-02 17:26
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [DJI gets serious about portable power](https://www.theverge.com/news/691111/dji-power-2000-station-price-date)
+**发布时间**: 2025-07-02 12:00
+
+#### [Honor launches the ‘world’s thinnest’ foldable](https://www.theverge.com/news/696456/honor-magic-v5-thinnest-foldable-phone-launch-specs)
+**发布时间**: 2025-07-02 12:00
+
+#### [Google Photos sees several app improvements](https://www.theverge.com/news/696480/google-photos-sees-several-app-improvements)
+**发布时间**: 2025-07-02 11:43
+
+#### [Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger](https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit)
+**发布时间**: 2025-07-02 09:59
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Wooting 80HE Review: Pinnacle of Hall Effect Keyboards](https://www.wired.com/review/wooting-80he/)
+**发布时间**: 2025-07-02 12:00
+
+#### [These Transcribing Eyeglasses Put Subtitles on the World](https://www.wired.com/story/these-translating-ai-glasses-put-subtitles-on-the-world/)
+**发布时间**: 2025-07-02 11:00
+
+#### [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)
+**发布时间**: 2025-07-02 10:30
+
+#### [A Trans Pilot Was Falsely Blamed for a Plane Crash. Now She’s Fighting the Right-Wing Disinfo Machine](https://www.wired.com/story/a-trans-pilot-was-falsely-blamed-for-a-plane-crash-now-shes-fighting-the-right-wing-disinfo-machine/)
+**发布时间**: 2025-07-02 10:00
+
+#### [Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant](https://www.wired.com/story/feeling-hoarse-you-might-have-the-new-stratus-covid-variant/)
+**发布时间**: 2025-07-02 09:00
 
 ---
 
