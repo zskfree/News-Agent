@@ -5,14 +5,182 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Jul 2025 04:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2025 04:27:00 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 08:16:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>为什么DeepSeek大规模部署很便宜，本地很贵</title>
+      <link>https://www.infoq.cn/article/9li9Xa73TUlwyaXqsL5Y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么DeepSeek大规模部署很便宜，本地很贵]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9li9Xa73TUlwyaXqsL5Y?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？</title>
+      <link>https://www.infoq.cn/article/ka9W6dJ7Ny8zWf6RyYfB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ka9W6dJ7Ny8zWf6RyYfB?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Angular v20发布</title>
+      <link>https://www.infoq.cn/article/2Yix5Y7yhIwIpzd9DOo8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Angular v20发布]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2Yix5Y7yhIwIpzd9DOo8?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>华为 CloudMatrix384 超节点首曝论文，跑 DeepSeek 效率超越英伟达H100</title>
+      <link>https://www.infoq.cn/article/lZG1TVcL4by65xPD9FTB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[华为 CloudMatrix384 超节点首曝论文，跑 DeepSeek 效率超越英伟达H100]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 12:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lZG1TVcL4by65xPD9FTB?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>游戏教父 John Carmack：LLM 不是游戏的未来</title>
+      <link>https://www.infoq.cn/article/1UBuM8APTi0TUgIdiiBg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[游戏教父 John Carmack：LLM 不是游戏的未来]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 12:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1UBuM8APTi0TUgIdiiBg?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么我建议你，在AI时代多做点无用功？</title>
+      <link>https://www.tmtpost.com/7613639.html</link>
+      <description>&lt;![CDATA[为什么我建议你，在AI时代多做点无用功？]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613639.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>国内“最不卷”的公司，要冲击港股IPO了！</title>
+      <link>https://www.tmtpost.com/7613588.html</link>
+      <description>&lt;![CDATA[国内“最不卷”的公司，要冲击港股IPO了！]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613588.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>最好的“AI志愿规划师”，介于张雪峰跟易中天之间</title>
+      <link>https://www.tmtpost.com/7613577.html</link>
+      <description>&lt;![CDATA[最好的“AI志愿规划师”，介于张雪峰跟易中天之间]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613577.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>消失的县城手机一条街</title>
+      <link>https://www.tmtpost.com/7614087.html</link>
+      <description>&lt;![CDATA[消失的县城手机一条街]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614087.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>7月2日A股分析：沪指跌0.09%报3454.79点，两市合计成交13769.81亿元，资金流出最多的行业板块为半导体</title>
+      <link>https://www.tmtpost.com/7614047.html</link>
+      <description>&lt;![CDATA[7月2日A股分析：沪指跌0.09%报3454.79点，两市合计成交13769.81亿元，资金流出最多的行业板块为半导体]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614047.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Xi'an's Tourism Reignites With Hit Drama 'Lychees of Chang'an,' But Qujiang's Losses Cast a Shadow</title>
+      <link>https://www.tmtpost.com/7614066.html</link>
+      <description>&lt;![CDATA[Xi'an's Tourism Reignites With Hit Drama 'Lychees of Chang'an,' But Qujiang's Losses Cast a Shadow]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614066.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>独家对话李未可创始人茹忆:感谢雷军，AI眼镜的时代要到了</title>
+      <link>https://www.tmtpost.com/7613463.html</link>
+      <description>&lt;![CDATA[独家对话李未可创始人茹忆:感谢雷军，AI眼镜的时代要到了]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613463.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从“万人嫌”到“万人抢”：临期食品的逆袭与争议</title>
+      <link>https://www.tmtpost.com/7613852.html</link>
+      <description>&lt;![CDATA[从“万人嫌”到“万人抢”：临期食品的逆袭与争议]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613852.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>对话京东金融：如何让AI理财变得更加靠谱</title>
+      <link>https://www.tmtpost.com/7612598.html</link>
+      <description>&lt;![CDATA[对话京东金融：如何让AI理财变得更加靠谱]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 14:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7612598.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Tesla Stock Falls as Trump Threatens to Cut Musk's Subsidies and Deport the CEO</title>
+      <link>https://www.tmtpost.com/7613964.html</link>
+      <description>&lt;![CDATA[Tesla Stock Falls as Trump Threatens to Cut Musk's Subsidies and Deport the CEO]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613964.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【大事件必读】刚刚，这一资源品矿场道路遭封锁！</title>
+      <link>https://www.tmtpost.com/7613904.html</link>
+      <description>&lt;![CDATA[【大事件必读】刚刚，这一资源品矿场道路遭封锁！]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 12:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7613904.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>700 万商家都在用的 AI 工具，凭什么？</title>
+      <link>http://www.geekpark.net/news/351107</link>
+      <description>&lt;![CDATA[700 万商家都在用的 AI 工具，凭什么？]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351107</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>信息归处，一目了然：用 Glance 打造家庭服务器仪表盘</title>
+      <link>https://sspai.com/post/100683</link>
+      <description>&lt;![CDATA[信息归处，一目了然：用 Glance 打造家庭服务器仪表盘]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100683</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Apple 力推的《F1：狂飙飞车》，是否值得你买票走进电影院</title>
+      <link>https://sspai.com/post/100670</link>
+      <description>&lt;![CDATA[Apple 力推的《F1：狂飙飞车》，是否值得你买票走进电影院]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100670</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>65亿美元豪赌，OpenAI掀起掌心智能革命</title>
+      <link>http://www.huxiu.com/article/4512291.html?f=wangzhan</link>
+      <description>&lt;![CDATA[65亿美元豪赌，OpenAI掀起掌心智能革命]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4512291.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>20% Off HP Coupon Code | July 2025</title>
+      <link>https://www.wired.com/story/hp-coupon-code/</link>
+      <description>&lt;![CDATA[20% Off HP Coupon Code | July 2025]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/hp-coupon-code/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>我用大模型砌“屎山雕花”：5天肝出几万行代码！产品经理的AI编程翻车记</title>
       <link>https://www.infoq.cn/article/w7prGeBXBFRLduYjDJhI?utm_source=rss&amp;utm_medium=article</link>
@@ -243,174 +411,6 @@
       <description>&lt;![CDATA[小熊电器水逆，该不该怪年轻人？]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 20:52:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.tmtpost.com/7612961.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>谁真正有实力打价格战？</title>
-      <link>https://www.tmtpost.com/7612659.html</link>
-      <description>&lt;![CDATA[谁真正有实力打价格战？]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7612659.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>三只松鼠“弃购”爱零食，章燎原终于想开了</title>
-      <link>https://www.tmtpost.com/7613082.html</link>
-      <description>&lt;![CDATA[三只松鼠“弃购”爱零食，章燎原终于想开了]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7613082.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里美团们发力AI数字员工，“牛马们”终将被取代？</title>
-      <link>https://www.tmtpost.com/7612947.html</link>
-      <description>&lt;![CDATA[阿里美团们发力AI数字员工，“牛马们”终将被取代？]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7612947.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>朴朴十年拓九城，“平替”盒马何时飞升</title>
-      <link>https://www.tmtpost.com/7613018.html</link>
-      <description>&lt;![CDATA[朴朴十年拓九城，“平替”盒马何时飞升]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7613018.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>特斯拉“下乡”背后：朱晓彤推进销售体系下沉</title>
-      <link>https://www.tmtpost.com/7613078.html</link>
-      <description>&lt;![CDATA[特斯拉“下乡”背后：朱晓彤推进销售体系下沉]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7613078.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>国产模拟芯片，崛起前夜</title>
-      <link>https://www.tmtpost.com/7613110.html</link>
-      <description>&lt;![CDATA[国产模拟芯片，崛起前夜]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7613110.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>德国为什么没有诞生广告巨头？</title>
-      <link>https://www.tmtpost.com/7613081.html</link>
-      <description>&lt;![CDATA[德国为什么没有诞生广告巨头？]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7613081.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>两家公司共同押注，自免新王牌即将亮剑？</title>
-      <link>https://www.tmtpost.com/7613184.html</link>
-      <description>&lt;![CDATA[两家公司共同押注，自免新王牌即将亮剑？]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7613184.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>亚马逊仓库机器人数量接近人类员工；高铁：不查充电宝 3C 标和品牌；雷军贺理想 10 周年：大空间家用车领导者</title>
-      <link>http://www.geekpark.net/news/351081</link>
-      <description>&lt;![CDATA[亚马逊仓库机器人数量接近人类员工；高铁：不查充电宝 3C 标和品牌；雷军贺理想 10 周年：大空间家用车领导者]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 08:22:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351081</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Figma is going public</title>
-      <link>https://www.theverge.com/news/696253/figma-ipo-public-filing</link>
-      <description>&lt;![CDATA[Figma is going public]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 22:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696253/figma-ipo-public-filing</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>X opens up to Community Notes written by AI bots</title>
-      <link>https://www.theverge.com/news/696210/x-community-notes-ai-note-writers</link>
-      <description>&lt;![CDATA[X opens up to Community Notes written by AI bots]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 21:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696210/x-community-notes-ai-note-writers</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Google makes it easier to let friends and kids control your smart home</title>
-      <link>https://www.theverge.com/news/696189/google-home-member-admin-kids-launch</link>
-      <description>&lt;![CDATA[Google makes it easier to let friends and kids control your smart home]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696189/google-home-member-admin-kids-launch</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The best smartwatches for Android</title>
-      <link>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</link>
-      <description>&lt;![CDATA[The best smartwatches for Android]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/23449363/best-android-smartwatches-wear-os</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Ultra Mobile raised its data caps without a price increase</title>
-      <link>https://www.theverge.com/news/696123/ultra-mobile-international-plans-increase-data-cap</link>
-      <description>&lt;![CDATA[Ultra Mobile raised its data caps without a price increase]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696123/ultra-mobile-international-plans-increase-data-cap</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The GOP’s big spending bill could kill renewable energy projects</title>
-      <link>https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy</link>
-      <description>&lt;![CDATA[The GOP’s big spending bill could kill renewable energy projects]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Grammarly wants to become an ‘AI productivity platform’</title>
-      <link>https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform</link>
-      <description>&lt;![CDATA[Grammarly wants to become an ‘AI productivity platform’]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Sonos is offering a refurbished Era 100 for just $119</title>
-      <link>https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale</link>
-      <description>&lt;![CDATA[Sonos is offering a refurbished Era 100 for just $119]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Al 都会写代码了，还要不要报考计算机专业 ｜太稳不太稳</title>
-      <link>https://www.infoq.cn/video/8F6Dj9vyW4NVpsDXb3Oh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Al 都会写代码了，还要不要报考计算机专业 ｜太稳不太稳]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/8F6Dj9vyW4NVpsDXb3Oh?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>沙特阿拉伯：向中国和美国出售未来？</title>
-      <link>http://www.huxiu.com/article/4516885.html?f=wangzhan</link>
-      <description>&lt;![CDATA[沙特阿拉伯：向中国和美国出售未来？]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4516885.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’</title>
-      <link>https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/</link>
-      <description>&lt;![CDATA[A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 19:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Here’s What Mark Zuckerberg Is Offering Top AI Talent</title>
-      <link>https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/</link>
-      <description>&lt;![CDATA[Here’s What Mark Zuckerberg Is Offering Top AI Talent]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/</guid>
       <category>Technology</category>
     </item>
   </channel>

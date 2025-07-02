@@ -5,14 +5,78 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Jul 2025 04:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2025 04:27:00 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 08:16:00 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 08:16:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>周志华团队新作：LLM中存在奖励模型，首次理论证明RL对LLM有效性</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-9</link>
+      <description>&lt;![CDATA[周志华团队新作：LLM中存在奖励模型，首次理论证明RL对LLM有效性]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克带货Labubu？两个同济校友搞出的这款AI神器，要「卷死」广告圈</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-8</link>
+      <description>&lt;![CDATA[马斯克带货Labubu？两个同济校友搞出的这款AI神器，要「卷死」广告圈]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI Agent、传统聊天机器人有何区别？如何评测？这篇30页综述讲明白了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-7</link>
+      <description>&lt;![CDATA[AI Agent、传统聊天机器人有何区别？如何评测？这篇30页综述讲明白了]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>蚂蚁健康应用AQ入选2025世界人工智能大会最高奖项“SAIL奖”</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-6</link>
+      <description>&lt;![CDATA[蚂蚁健康应用AQ入选2025世界人工智能大会最高奖项“SAIL奖”]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>命中率比前SOTA高100倍，Chai-2可在24孔板中实现零样本抗体发现</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-02-5</link>
+      <description>&lt;![CDATA[命中率比前SOTA高100倍，Chai-2可在24孔板中实现零样本抗体发现]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-02-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大幅降低量子化学计算成本，耶鲁大学提出MBGF-Net，预测分子基态、激发态特性</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-01-24</link>
+      <description>&lt;![CDATA[大幅降低量子化学计算成本，耶鲁大学提出MBGF-Net，预测分子基态、激发态特性]]&gt;</description>
+      <pubDate>Tue, 01 Jul 2025 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-01-24</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一颗芯片搞定舱驾！高通落地全球首个中央计算方案，宝马率先押注</title>
+      <link>https://www.qbitai.com/2025/07/303775.html</link>
+      <description>&lt;![CDATA[一颗芯片搞定舱驾！高通落地全球首个中央计算方案，宝马率先押注]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 07:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303775.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>9B“小”模型干了票“大”的：性能超8倍参数模型，拿下23项SOTA | 智谱开源</title>
+      <link>https://www.qbitai.com/2025/07/303714.html</link>
+      <description>&lt;![CDATA[9B“小”模型干了票“大”的：性能超8倍参数模型，拿下23项SOTA | 智谱开源]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 05:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/303714.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>一亿美金种子轮，刷新硅谷具身智能融资记录！周衔、许臻佳、李旻辰等华人合伙创业</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-02-3</link>
@@ -347,70 +411,6 @@
       <description>&lt;![CDATA[LoRA-Mixer: Coordinate Modular LoRA Experts Through Serial Attention Routing]]&gt;</description>
       <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.00029</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Adaptive Action Duration with Contextual Bandits for Deep Reinforcement Learning in Dynamic Environments</title>
-      <link>https://arxiv.org/abs/2507.00030</link>
-      <description>&lt;![CDATA[Adaptive Action Duration with Contextual Bandits for Deep Reinforcement Learning in Dynamic Environments]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00030</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Knowledge Tracing</title>
-      <link>https://arxiv.org/abs/2507.00032</link>
-      <description>&lt;![CDATA[Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Knowledge Tracing]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00032</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Moment Sampling in Video LLMs for Long-Form Video QA</title>
-      <link>https://arxiv.org/abs/2507.00033</link>
-      <description>&lt;![CDATA[Moment Sampling in Video LLMs for Long-Form Video QA]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00033</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Model Fusion via Neuron Interpolation</title>
-      <link>https://arxiv.org/abs/2507.00037</link>
-      <description>&lt;![CDATA[Model Fusion via Neuron Interpolation]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00037</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Quality over Quantity: An Effective Large-Scale Data Reduction Strategy Based on Pointwise V-Information</title>
-      <link>https://arxiv.org/abs/2507.00038</link>
-      <description>&lt;![CDATA[Quality over Quantity: An Effective Large-Scale Data Reduction Strategy Based on Pointwise V-Information]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00038</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Pattern-Based Graph Classification: Comparison of Quality Measures and Importance of Preprocessing</title>
-      <link>https://arxiv.org/abs/2507.00039</link>
-      <description>&lt;![CDATA[Pattern-Based Graph Classification: Comparison of Quality Measures and Importance of Preprocessing]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00039</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay</title>
-      <link>https://arxiv.org/abs/2507.00042</link>
-      <description>&lt;![CDATA[Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00042</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MR-CLIP: Efficient Metadata-Guided Learning of MRI Contrast Representations</title>
-      <link>https://arxiv.org/abs/2507.00043</link>
-      <description>&lt;![CDATA[MR-CLIP: Efficient Metadata-Guided Learning of MRI Contrast Representations]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00043</guid>
       <category>AI</category>
     </item>
   </channel>
