@@ -5,14 +5,54 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 03 Jul 2025 08:15:00 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Jul 2025 08:15:59 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2025 12:22:00 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Jul 2025 12:22:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 编程十字路口：为什么说 Copilot 模式是创业陷阱？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-03-13</link>
+      <description>&lt;![CDATA[AI 编程十字路口：为什么说 Copilot 模式是创业陷阱？]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-03-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>登上热搜！Prompt不再是AI重点，新热点是Context Engineering</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-03-12</link>
+      <description>&lt;![CDATA[登上热搜！Prompt不再是AI重点，新热点是Context Engineering]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-03-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Google’s electricity demand is skyrocketing</title>
+      <link>https://www.technologyreview.com/2025/07/03/1119627/google-electricity-fusion-ai/</link>
+      <description>&lt;![CDATA[Google’s electricity demand is skyrocketing]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/03/1119627/google-electricity-fusion-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Don’t let hype about AI agents get ahead of reality</title>
+      <link>https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/</link>
+      <description>&lt;![CDATA[Don’t let hype about AI agents get ahead of reality]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>你的衰老速度被科学家拍出来了| Nature子刊</title>
+      <link>https://www.qbitai.com/2025/07/304393.html</link>
+      <description>&lt;![CDATA[你的衰老速度被科学家拍出来了| Nature子刊]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304393.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>首次！世界模型、动作模型融合，全自回归模型WorldVLA来了</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-03-11</link>
@@ -371,46 +411,6 @@
       <description>&lt;![CDATA[Fast AI Model Splitting over Edge Networks]]&gt;</description>
       <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.01041</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Can Argus Judge Them All? Comparing VLMs Across Domains</title>
-      <link>https://arxiv.org/abs/2507.01042</link>
-      <description>&lt;![CDATA[Can Argus Judge Them All? Comparing VLMs Across Domains]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01042</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Data Classification with Dynamically Growing and Shrinking Neural Networks</title>
-      <link>https://arxiv.org/abs/2507.01043</link>
-      <description>&lt;![CDATA[Data Classification with Dynamically Growing and Shrinking Neural Networks]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01043</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Sensing Cardiac Health Across Scenarios and Devices: A Multi-Modal Foundation Model Pretrained on Heterogeneous Data from 1.7 Million Individuals</title>
-      <link>https://arxiv.org/abs/2507.01045</link>
-      <description>&lt;![CDATA[Sensing Cardiac Health Across Scenarios and Devices: A Multi-Modal Foundation Model Pretrained on Heterogeneous Data from 1.7 Million Individuals]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01045</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization</title>
-      <link>https://arxiv.org/abs/2507.01050</link>
-      <description>&lt;![CDATA[Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01050</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Can AI be Consentful?</title>
-      <link>https://arxiv.org/abs/2507.01051</link>
-      <description>&lt;![CDATA[Can AI be Consentful?]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01051</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,7 +2,32 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-03 04:24
+**最后更新时间**: 2025-07-03 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-03 12:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Economic calendar: Payrolls data feature on data-heavy morning ahead of July 4](https://www.marketwatch.com/bulletins/redirect/go?g=d97c8e70-8a50-47cc-b506-795745190fb4&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 12:18
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How these Big Tech stocks are getting a boost from this clean-energy credit](https://www.marketwatch.com/story/how-these-big-tech-stocks-are-getting-a-boost-from-this-clean-energy-credit-bd4541ee?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 11:51
+
+#### [‘Crosscurrents abound’ for stocks, but history shows the bull run has further to go, says this analyst](https://www.marketwatch.com/story/crosscurrents-abound-for-stocks-but-history-shows-the-bull-run-has-further-to-go-says-this-analyst-29bcba53?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 11:50
+
+#### [‘My marriage was abusive’: I have my spouse’s Social Security. Should I retire at 65?](https://www.marketwatch.com/story/my-marriage-was-abusive-i-have-my-spouses-social-security-should-i-retire-at-65-f5874f67?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 10:44
+
+#### [Investors probably saved the U.K. chancellor, averting ‘Truss moment,’ reckons U.K. economist](https://www.marketwatch.com/story/investors-probably-saved-the-u-k-chancellor-averting-truss-moment-reckons-u-k-economist-e0a4acf6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 09:57
+
+#### [‘Willardville,’ the secluded Virginia estate of the late Willard Scott, goes on the market for $3.8 million](https://www.marketwatch.com/story/willardville-the-secluded-virginia-estate-of-the-late-willard-scott-goes-on-the-market-for-3-8-million-94e37efc?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 09:03
 
 ---
 

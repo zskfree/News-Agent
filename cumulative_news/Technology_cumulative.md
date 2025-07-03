@@ -2,7 +2,104 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-03 08:15
+**最后更新时间**: 2025-07-03 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-03 12:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [比亚迪远征巴西：越过出口门槛，真正战役在“本土”｜钛度车库](https://www.tmtpost.com/7614956.html)
+**发布时间**: 2025-07-03 20:04
+
+#### [2025中国AI大模型平台排行榜](https://www.tmtpost.com/7615516.html)
+**发布时间**: 2025-07-03 19:42
+
+#### [先进封装战况加剧](https://www.tmtpost.com/7615496.html)
+**发布时间**: 2025-07-03 19:40
+
+#### [车商大佬跨界做储能，3年做到全球TOP10，如今再回头“卷”造车](https://www.tmtpost.com/7615325.html)
+**发布时间**: 2025-07-03 19:40
+
+#### [美图秀秀老板，抓住了每一阵风](https://www.tmtpost.com/7614446.html)
+**发布时间**: 2025-07-03 19:40
+
+#### [农夫山泉「天价」冰杯，是不是智商税？](https://www.tmtpost.com/7615323.html)
+**发布时间**: 2025-07-03 19:28
+
+#### [“闭店潮”席卷美国零售业，2025年或关15000家](https://www.tmtpost.com/7615210.html)
+**发布时间**: 2025-07-03 19:28
+
+#### [大疆寻找地面](https://www.tmtpost.com/7615499.html)
+**发布时间**: 2025-07-03 19:28
+
+#### [都在做Robotaxi，自动驾驶离iPhone时刻还有多远？](https://www.tmtpost.com/7615126.html)
+**发布时间**: 2025-07-03 19:28
+
+#### [爆款微短剧背后，为何女导演屡创佳绩？](https://www.tmtpost.com/7615206.html)
+**发布时间**: 2025-07-03 19:28
+
+#### [港股，用新股“打窝”](https://www.tmtpost.com/7615098.html)
+**发布时间**: 2025-07-03 18:37
+
+#### [“苏超”火了，各地文旅都眼馋](https://www.tmtpost.com/7615314.html)
+**发布时间**: 2025-07-03 18:37
+
+#### [中国互联网，进入ATM时代](https://www.tmtpost.com/7615495.html)
+**发布时间**: 2025-07-03 18:36
+
+#### [品质消费时代，年轻人的钱包都去哪儿了？](https://www.tmtpost.com/7615307.html)
+**发布时间**: 2025-07-03 18:36
+
+#### [对话亚马逊云科技全球技术总经理Shaown Nandi：Agentic AI如何重构企业生产力](https://www.tmtpost.com/7615159.html)
+**发布时间**: 2025-07-03 18:17
+
+#### [中美AI差距有多大，AI竞争焦点在哪？《全球人工智能科研态势报告》全球首发](https://www.tmtpost.com/7615394.html)
+**发布时间**: 2025-07-03 18:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [苹果公司的论文探讨了大型推理模型的局限性](https://www.infoq.cn/article/5I2MPuvs4rRXQPOp3xIB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 18:00
+
+#### [DeepMind 继 AlphaFold 后再放大招，AlphaGenome 能一次性处理百万碱基对，基因组里的“垃圾代码”这下藏不住了](https://www.infoq.cn/article/VskbTj134iOgeL6sf5zW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 17:00
+
+#### [计算引擎焕新：MySQL 8.0 内核 + 分布式增强，兼容性与功能双突破](https://www.infoq.cn/video/DPPuOtzso8YAw37vCsKM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 16:12
+
+#### [敏态数据难题：传统分库分表的弹性瓶颈与 TDstore的破局之道](https://www.infoq.cn/video/lPLSYA9h1zIpgpXi68vl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 16:12
+
+#### [TDSQL PG 性能优化全景：从分布式交互到单核效率，三维突破实现极致提速](https://www.infoq.cn/video/NvjlVWBR76XZD7KzOqAD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 16:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [甲骨文了不起，研究它们的人更了不起](https://sspai.com/post/100736)
+**发布时间**: 2025-07-03 17:00
+
+#### [敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
+**发布时间**: 2025-07-03 16:42
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 7 Best Kitchen Scales Reviewed by a Former Chocolatier (2025)](https://www.wired.com/gallery/best-kitchen-scale/)
+**发布时间**: 2025-07-03 12:03
+
+#### [12 Best Coffee Subscriptions (2025), Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)
+**发布时间**: 2025-07-03 10:31
+
+#### [The Promise and Peril of Digital Security in the Age of Dictatorship](https://www.wired.com/story/the-promise-and-peril-of-digital-security-in-the-age-of-dictatorship/)
+**发布时间**: 2025-07-03 09:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [A guide to the best sci-fi streaming this summer](https://www.theverge.com/streaming-wars/695388/summer-sci-fi-streaming-2025-murderbot-alien-earth)
+**发布时间**: 2025-07-03 12:00
+
+#### [Google’s customizable Gemini chatbots are now in Docs, Sheets, and Gmail](https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail)
+**发布时间**: 2025-07-03 09:30
 
 ---
 

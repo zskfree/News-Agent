@@ -2,7 +2,31 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-03 08:15
+**最后更新时间**: 2025-07-03 12:22
+
+---
+
+## 🆕 最新更新 (2025-07-03 12:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [AI 编程十字路口：为什么说 Copilot 模式是创业陷阱？](https://www.jiqizhixin.com/articles/2025-07-03-13)
+**发布时间**: 2025-07-03 16:23
+
+#### [登上热搜！Prompt不再是AI重点，新热点是Context Engineering](https://www.jiqizhixin.com/articles/2025-07-03-12)
+**发布时间**: 2025-07-03 16:19
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Google’s electricity demand is skyrocketing](https://www.technologyreview.com/2025/07/03/1119627/google-electricity-fusion-ai/)
+**发布时间**: 2025-07-03 10:00
+
+#### [Don’t let hype about AI agents get ahead of reality](https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/)
+**发布时间**: 2025-07-03 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [你的衰老速度被科学家拍出来了| Nature子刊](https://www.qbitai.com/2025/07/304393.html)
+**发布时间**: 2025-07-03 09:36
 
 ---
 
