@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 03 Jul 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Jul 2025 00:56:51 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2025 04:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Jul 2025 04:24:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Be very skeptical of ADP report showing economy lost jobs for the first time in years</title>
+      <link>https://www.marketwatch.com/story/be-very-skeptical-of-adp-report-showing-economy-lost-jobs-for-the-first-time-in-years-d92d20bf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Be very skeptical of ADP report showing economy lost jobs for the first time in years]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 02:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/be-very-skeptical-of-adp-report-showing-economy-lost-jobs-for-the-first-time-in-years-d92d20bf?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Why the case for a Fed interest-rate cut in July may be getting stronger</title>
       <link>https://www.marketwatch.com/story/why-the-case-for-a-fed-interest-rate-cut-in-july-may-be-getting-stronger-5bc27320?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Former Baltimore Ravens kicker Justin Tucker lists Maryland home for $3.2 million]]&gt;</description>
       <pubDate>Mon, 30 Jun 2025 09:03:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/former-baltimore-ravens-kicker-justin-tucker-lists-maryland-home-for-3-2-million-d455e3e7?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>This is the former Soviet weapons base that Ivanka Trump and Jared Kushner want to turn into a luxury resort</title>
-      <link>https://www.marketwatch.com/story/this-is-the-former-soviet-weapons-base-that-ivanka-trump-and-jared-kushner-want-to-turn-into-a-luxury-resort-5c6dc9dd?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This is the former Soviet weapons base that Ivanka Trump and Jared Kushner want to turn into a luxury resort]]&gt;</description>
-      <pubDate>Mon, 30 Jun 2025 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-the-former-soviet-weapons-base-that-ivanka-trump-and-jared-kushner-want-to-turn-into-a-luxury-resort-5c6dc9dd?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
