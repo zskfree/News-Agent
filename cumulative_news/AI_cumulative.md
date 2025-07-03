@@ -2,7 +2,25 @@
 
 **首次创建时间**: 2025-05-29 11:21
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-02 12:21
+**最后更新时间**: 2025-07-03 00:56
+
+---
+
+## 🆕 最新更新 (2025-07-03 00:56)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Confronting the AI/energy conundrum](https://news.mit.edu/2025/confronting-ai-energy-conundrum-0702)
+**发布时间**: 2025-07-02 15:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao](https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/)
+**发布时间**: 2025-07-02 12:10
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Making group conversations more accessible with sound localization](https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/)
+**发布时间**: 2025-07-02 11:00
 
 ---
 

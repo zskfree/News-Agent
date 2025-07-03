@@ -5,14 +5,38 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Jul 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2025 12:22:08 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Jul 2025 00:56:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Confronting the AI/energy conundrum</title>
+      <link>https://news.mit.edu/2025/confronting-ai-energy-conundrum-0702</link>
+      <description>&lt;![CDATA[Confronting the AI/energy conundrum]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/confronting-ai-energy-conundrum-0702</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao</title>
+      <link>https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/</link>
+      <description>&lt;![CDATA[The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Making group conversations more accessible with sound localization</title>
+      <link>https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/</link>
+      <description>&lt;![CDATA[Making group conversations more accessible with sound localization]]&gt;</description>
+      <pubDate>Wed, 02 Jul 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>华为CloudMatrix384超节点很强，但它的「灵魂」在云上</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-02-17</link>
@@ -387,30 +411,6 @@
       <description>&lt;![CDATA[Novel RL approach for efficient Elevator Group Control Systems]]&gt;</description>
       <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.00011</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Undistillable Models by Minimizing Conditional Mutual Information</title>
-      <link>https://arxiv.org/abs/2507.00012</link>
-      <description>&lt;![CDATA[Towards Undistillable Models by Minimizing Conditional Mutual Information]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00012</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting</title>
-      <link>https://arxiv.org/abs/2507.00013</link>
-      <description>&lt;![CDATA[ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00013</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SWE-Bench-CL: Continual Learning for Coding Agents</title>
-      <link>https://arxiv.org/abs/2507.00014</link>
-      <description>&lt;![CDATA[SWE-Bench-CL: Continual Learning for Coding Agents]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00014</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -2,7 +2,71 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-02 12:22
+**最后更新时间**: 2025-07-03 00:56
+
+---
+
+## 🆕 最新更新 (2025-07-03 00:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the case for a Fed interest-rate cut in July may be getting stronger](https://www.marketwatch.com/story/why-the-case-for-a-fed-interest-rate-cut-in-july-may-be-getting-stronger-5bc27320?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 00:20
+
+#### [Datadog’s stock soars on S&P 500 nod — as the wait continues for Robinhood](https://www.marketwatch.com/story/datadogs-stock-soars-on-s-p-500-nod-as-the-wait-continues-for-robinhood-785cc697?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 00:12
+
+#### [‘My whole financial world is upside down’: I’m ‘medically retired’ at 51 with $428K in stocks. Is this enough to live on?](https://www.marketwatch.com/story/my-life-has-changed-dramatically-im-51-medically-retired-and-planning-to-move-to-a-cheaper-state-can-we-do-it-3e186fe5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 00:06
+
+#### [Here’s the latest sign Intel’s turnaround won’t be so easy, according to this analyst](https://www.marketwatch.com/story/heres-the-latest-sign-intels-turnaround-wont-be-so-easy-according-to-this-analyst-f4d5d811?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 23:09
+
+#### [‘I do all the yard work, cooking and cleaning’: I live with my daughter and her lazy boyfriend. She wants me to buy her house. Do I say yes?](https://www.marketwatch.com/story/there-is-tension-in-the-house-i-live-with-my-daughter-and-her-lazy-boyfriend-she-wants-me-to-buy-her-house-09080e4b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 23:00
+
+#### [‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?](https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 23:00
+
+#### [Tesla’s stock roars back after EV deliveries weren’t as bad as feared](https://www.marketwatch.com/story/teslas-stock-jumps-as-deliveries-werent-as-bad-as-expected-c2998408?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 22:30
+
+#### [Can Sean ‘Diddy’ Combs and his business empire recover financially, now that he’s been found not guilty of some charges?](https://www.marketwatch.com/story/can-sean-diddy-combs-and-his-business-empire-recover-financially-now-that-hes-been-found-not-guilty-of-some-charges-13c7084f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 21:59
+
+#### [Amazon’s Prime Day sale is longer than ever — and even more important than usual for the company. Here’s why.](https://www.marketwatch.com/story/amazons-prime-day-sale-is-longer-than-ever-and-even-more-important-than-usual-for-the-company-heres-why-dcc41d58?mod=mw_rss_topstories)
+**发布时间**: 2025-07-02 21:38
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Datadog’s stock soars on S&P 500 nod — as the wait continues for Robinhood](https://www.marketwatch.com/bulletins/redirect/go?g=1a85060c-80f7-43b8-a6c4-c9644ea9394e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 23:46
+
+#### [Why anyone selling a home should be following the ‘Zillow ban’ lawsuit closely](https://www.marketwatch.com/bulletins/redirect/go?g=2e30ac73-89ca-41fa-9c36-96a3438c1204&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 23:07
+
+#### [These stocks surged as SEC chair sounds upbeat on ‘tokenization’ of equities](https://www.marketwatch.com/bulletins/redirect/go?g=953ee0e5-1eb7-42a0-91e8-8eb7ec07aef7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 21:44
+
+#### [For July 4, here are 4 reasons why ‘American exceptionalism’ isn’t going away](https://www.marketwatch.com/bulletins/redirect/go?g=d7e854b9-be64-4340-a6f0-3d1f50b1cf00&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 20:36
+
+#### [Dow ends lower, S&P books another record after Trump touts Vietnam trade deal](https://www.marketwatch.com/bulletins/redirect/go?g=55bc3558-cbe7-4583-a93a-2fe17c1d03ab&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 20:03
+
+#### [Why the case for a Fed interest-rate cut in July may be getting stronger](https://www.marketwatch.com/bulletins/redirect/go?g=2d1f99fc-3a62-4eae-a44a-1932fbd0001b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 19:44
+
+#### [S&P 500 on track for 6th record close of 2025, while Dow lags — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=b0ed2826-1821-4ffd-8290-375d58fee9e6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 19:08
+
+#### [Gas prices haven’t been this low for the Fourth of July since 2021](https://www.marketwatch.com/bulletins/redirect/go?g=e188dfa8-4e20-4f00-a5b3-158fac66a197&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 16:28
+
+#### [‘Mansion deficit’? Even billionaires are now struggling to find homes to rent.](https://www.marketwatch.com/bulletins/redirect/go?g=cff8a462-c2db-46de-91b7-b4226b54ef42&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 15:41
+
+#### [Trump says he's reached a trade deal with Vietnam — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=dd7bdaa3-c1ab-4765-8b0b-85f04a01a3d3&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-02 14:59
 
 ---
 

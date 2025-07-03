@@ -2,7 +2,138 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-02 12:22
+**最后更新时间**: 2025-07-03 00:56
+
+---
+
+## 🆕 最新更新 (2025-07-03 00:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [户外人都“美黑”了，谁还在意防晒？](https://www.tmtpost.com/7614346.html)
+**发布时间**: 2025-07-03 08:40
+
+#### [稳定币故事难救场：拉卡拉再遭联想高位减持，百倍估值港股接盘？](https://www.tmtpost.com/7614653.html)
+**发布时间**: 2025-07-03 08:35
+
+#### [长城为何不做增程？详解Hi4背后的技术和战略逻辑](https://www.tmtpost.com/7614554.html)
+**发布时间**: 2025-07-03 08:23
+
+#### [科股早知道：这类基础设施建设进展顺利，一批国家重大工程建设加速推进](https://www.tmtpost.com/7614684.html)
+**发布时间**: 2025-07-03 08:16
+
+#### [【钛晨报】央行：8月1日起，现金买黄金、钻石超10万元需上报；特斯拉暂停人形机器人生产，修改设计；特朗普：越南将为对美出口支付20%的关税](https://www.tmtpost.com/7614482.html)
+**发布时间**: 2025-07-03 07:20
+
+#### [锦江酒店即将开启港股IPO，或拉开海外市场扩张序幕](https://www.tmtpost.com/7614228.html)
+**发布时间**: 2025-07-02 23:05
+
+#### [打1折甩卖证券业务，6连亏天晟新材断臂难求生](https://www.tmtpost.com/7614457.html)
+**发布时间**: 2025-07-02 21:54
+
+#### [百度AI，终于对搜索下手了](https://www.tmtpost.com/7614329.html)
+**发布时间**: 2025-07-02 20:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军：YU7 订单女性用户占 30%；传字节已量产千台机器人；淘宝闪购宣布 500 亿补贴｜极客早知道](http://www.geekpark.net/news/351130)
+**发布时间**: 2025-07-03 08:27
+
+#### [聊过 200 个团队后的暴论：不要拿 AI 造工具，要建设「新关系」](http://www.geekpark.net/news/351126)
+**发布时间**: 2025-07-02 21:01
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Despite Protests, Elon Musk Secures Air Permit for xAI](https://www.wired.com/story/xai-data-center-air-pollution-permit/)
+**发布时间**: 2025-07-02 23:41
+
+#### [The 46 Best Deals From REI's July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
+**发布时间**: 2025-07-02 19:16
+
+#### [A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now](https://www.wired.com/story/scattered-spider-most-imminent-threat/)
+**发布时间**: 2025-07-02 17:56
+
+#### [51 Best Early Amazon Prime Day Deals on Products We've Tested (2025)](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)
+**发布时间**: 2025-07-02 17:49
+
+#### [Xbox Hit With Layoffs and Game Cancellations as Microsoft Cuts 9,000 Jobs](https://www.wired.com/story/layoffs-game-cancelations-hit-xbox-as-microsoft-cuts-9000-jobs/)
+**发布时间**: 2025-07-02 17:33
+
+#### [The 10 Best Carry-On Luggage for Business Travelers](https://www.wired.com/story/best-carry-on-luggage-for-business-travelers/)
+**发布时间**: 2025-07-02 16:01
+
+#### [What Could a Healthy AI Companion Look Like?](https://www.wired.com/story/tolan-chatbot-ai-companion/)
+**发布时间**: 2025-07-02 16:00
+
+#### [4 Best Smart Displays (2025): Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
+**发布时间**: 2025-07-02 15:34
+
+#### [For Today’s Business Traveler, It's All About Work-Life Integration](https://www.wired.com/story/business-travel-work-life-balance-integration/)
+**发布时间**: 2025-07-02 15:00
+
+#### [Affluent Travelers Are Ditching Business Class for Business Jets](https://www.wired.com/story/business-travelers-private-jet-boom/)
+**发布时间**: 2025-07-02 15:00
+
+#### [Airport Lounges Are Sexy Again—if You Can Get In](https://www.wired.com/story/the-evolution-of-the-airport-lounge/)
+**发布时间**: 2025-07-02 15:00
+
+#### [Insurers Aren’t Saying Whether They’ll Cover Vaccines for Kids if Government Stops Recommending Them](https://www.wired.com/story/insurers-wont-say-if-theyll-pay-for-childhood-vaccines-dropped-from-recommended-schedule/)
+**发布时间**: 2025-07-02 14:25
+
+#### [Jabra Enhance Select 50R Review: Palatable Price](https://www.wired.com/review/jabra-enhance-select-50r/)
+**发布时间**: 2025-07-02 14:00
+
+#### [23 Best MagSafe Accessories (2025), Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
+**发布时间**: 2025-07-02 13:28
+
+#### [How to Travel to the Most Remote Office on Earth](https://www.wired.com/story/concordia-research-station-commute/)
+**发布时间**: 2025-07-02 13:00
+
+#### [Airplane Wi-Fi Is Now … Good?](https://www.wired.com/story/airplane-wifi-good-now/)
+**发布时间**: 2025-07-02 13:00
+
+#### [Business Class Ain’t What It Used to Be. Don’t Tell First Class](https://www.wired.com/story/business-class-gets-upgrade/)
+**发布时间**: 2025-07-02 13:00
+
+#### [The Best Tech Gear for Work Trips](https://www.wired.com/story/best-tech-business-travelers/)
+**发布时间**: 2025-07-02 13:00
+
+#### [Business Travel Is Evolving Faster Than Ever. We’ll Help You Navigate It](https://www.wired.com/story/future-business-travel-editors-letter/)
+**发布时间**: 2025-07-02 13:00
+
+#### [Come for the Amenity Kits, Stay for the Flight](https://www.wired.com/story/airline-amenity-kit-showdown/)
+**发布时间**: 2025-07-02 13:00
+
+#### [8 Best Pet Cameras (2025), Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
+**发布时间**: 2025-07-02 12:37
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
+**发布时间**: 2025-07-02 22:01
+
+#### [Blizzard is winding down support for its Warcraft mobile game](https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs)
+**发布时间**: 2025-07-02 21:11
+
+#### [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)
+**发布时间**: 2025-07-02 20:42
+
+#### [Xbox hit hard with layoffs: from canceled games to a shuttered studio](https://www.theverge.com/news/697125/microsoft-xbox-layoffs-2025)
+**发布时间**: 2025-07-02 20:36
+
+#### [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)
+**发布时间**: 2025-07-02 19:47
+
+#### [Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’](https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring)
+**发布时间**: 2025-07-02 19:40
+
+#### [Zelle needs to fix &#8216;significant scams and fraud,&#8217; lawmakers say](https://www.theverge.com/news/696786/lawmakers-warren-blumenthal-zelle-scams-bank-letters)
+**发布时间**: 2025-07-02 19:30
+
+#### [Here are 25 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+**发布时间**: 2025-07-02 19:01
+
+#### [Three former Ubisoft executives are convicted of sexual and psychological harassment](https://www.theverge.com/games/696996/ubisoft-me-too-former-executive-convictions)
+**发布时间**: 2025-07-02 18:54
 
 ---
 
