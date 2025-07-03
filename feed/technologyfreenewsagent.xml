@@ -5,14 +5,174 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 03 Jul 2025 04:24:00 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Jul 2025 04:24:13 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Jul 2025 08:15:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jakarta EE 11带来一项新规范、16项更新规范，并对TCK做了现代化改进</title>
+      <link>https://www.infoq.cn/article/ak6IfXDEb8Fxa7eWC5zR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Jakarta EE 11带来一项新规范、16项更新规范，并对TCK做了现代化改进]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ak6IfXDEb8Fxa7eWC5zR?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>英伟达GB200 NVL72超级计算机在DeepSeek V3模型上实现2.7倍推理速度提升</title>
+      <link>https://www.infoq.cn/article/2zKcapXgHATldbiTbo4H?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英伟达GB200 NVL72超级计算机在DeepSeek V3模型上实现2.7倍推理速度提升]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2zKcapXgHATldbiTbo4H?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>百度文心智能体平台x小米应用商店：联手打造行业首个智能体与应用市场跨端分发模式</title>
+      <link>https://www.infoq.cn/article/ToK0Qk1IqXsi0hPj391F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百度文心智能体平台x小米应用商店：联手打造行业首个智能体与应用市场跨端分发模式]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ToK0Qk1IqXsi0hPj391F?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不只是聊天：Gemini Agent Mode 深度集成 Android Studio，可直接修改项目</title>
+      <link>https://www.infoq.cn/article/7K5zsZaYQpOGTsS0HLfl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不只是聊天：Gemini Agent Mode 深度集成 Android Studio，可直接修改项目]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7K5zsZaYQpOGTsS0HLfl?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>7月3日A股分析：创业板指领涨1.9%，两市成交额缩量672亿，主力资金净流出85亿，消费电子、电子元件成最大赢家</title>
+      <link>https://www.tmtpost.com/7615195.html</link>
+      <description>&lt;![CDATA[7月3日A股分析：创业板指领涨1.9%，两市成交额缩量672亿，主力资金净流出85亿，消费电子、电子元件成最大赢家]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7615195.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大窑“变脸”？曾坚拒外资收购，如今或易主KKR？</title>
+      <link>https://www.tmtpost.com/7614929.html</link>
+      <description>&lt;![CDATA[大窑“变脸”？曾坚拒外资收购，如今或易主KKR？]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614929.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>长城电工连板狂欢：量化携手游资收割，多概念傍身亦难改连亏8年困局</title>
+      <link>https://www.tmtpost.com/7615138.html</link>
+      <description>&lt;![CDATA[长城电工连板狂欢：量化携手游资收割，多概念傍身亦难改连亏8年困局]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 14:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7615138.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Tesla Q2 Delivery Decline Less Than Bearish Expectation, June Sales in China First Rise in Nine Months</title>
+      <link>https://www.tmtpost.com/7615129.html</link>
+      <description>&lt;![CDATA[Tesla Q2 Delivery Decline Less Than Bearish Expectation, June Sales in China First Rise in Nine Months]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7615129.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>615亿身家潮汕女首富，又要IPO了</title>
+      <link>https://www.tmtpost.com/7614797.html</link>
+      <description>&lt;![CDATA[615亿身家潮汕女首富，又要IPO了]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614797.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“漂亮饭”占领三里屯</title>
+      <link>https://www.tmtpost.com/7614000.html</link>
+      <description>&lt;![CDATA[“漂亮饭”占领三里屯]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614000.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小米AI眼镜，又用「1999元起」试探年轻人</title>
+      <link>https://www.tmtpost.com/7614748.html</link>
+      <description>&lt;![CDATA[小米AI眼镜，又用「1999元起」试探年轻人]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614748.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>热力值超250W，日耗百万，快手、B站、腾讯动漫入局，竖屏漫剧到哪一步了？</title>
+      <link>https://www.tmtpost.com/7614871.html</link>
+      <description>&lt;![CDATA[热力值超250W，日耗百万，快手、B站、腾讯动漫入局，竖屏漫剧到哪一步了？]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614871.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Lawaken Bets on AI Glasses for the Post-ChatGPT Era</title>
+      <link>https://www.tmtpost.com/7615047.html</link>
+      <description>&lt;![CDATA[Lawaken Bets on AI Glasses for the Post-ChatGPT Era]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7615047.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Japanese MP Pledges to Defend National Interest as Japan-U.S. Talks Stalled Over Auto Tariffs</title>
+      <link>https://www.tmtpost.com/7615033.html</link>
+      <description>&lt;![CDATA[Japanese MP Pledges to Defend National Interest as Japan-U.S. Talks Stalled Over Auto Tariffs]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 12:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7615033.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI 语音爆发的这半年，一位「局中人」看到的赛道爆发逻辑</title>
+      <link>http://www.geekpark.net/news/351160</link>
+      <description>&lt;![CDATA[AI 语音爆发的这半年，一位「局中人」看到的赛道爆发逻辑]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351160</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>「赛博菩萨」发威！AI 巨头的「免费午餐」时代终结了！</title>
+      <link>http://www.geekpark.net/news/351154</link>
+      <description>&lt;![CDATA[「赛博菩萨」发威！AI 巨头的「免费午餐」时代终结了！]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351154</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI 上新｜这个应用，让苏格拉底和尼采手把手教我「哲学」</title>
+      <link>http://www.geekpark.net/news/351153</link>
+      <description>&lt;![CDATA[AI 上新｜这个应用，让苏格拉底和尼采手把手教我「哲学」]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351153</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为啥无摩擦的直线电机减震器，让国外底盘优势一去不复返？</title>
+      <link>http://www.huxiu.com/article/4533164.html?f=wangzhan</link>
+      <description>&lt;![CDATA[为啥无摩擦的直线电机减震器，让国外底盘优势一去不复返？]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4533164.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Hydrow Discount Code: Save Up to $150 in July</title>
+      <link>https://www.wired.com/story/hydrow-discount-code/</link>
+      <description>&lt;![CDATA[Hydrow Discount Code: Save Up to $150 in July]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 05:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/hydrow-discount-code/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Visible Promo Code: Save Up to $300 in July 2025</title>
+      <link>https://www.wired.com/story/visible-promo-code/</link>
+      <description>&lt;![CDATA[Visible Promo Code: Save Up to $300 in July 2025]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/visible-promo-code/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>U.S. Lifts Chip Design Software Restrictions on China Under New Trade Deal</title>
       <link>https://www.tmtpost.com/7614975.html</link>
@@ -251,166 +411,6 @@
       <description>&lt;![CDATA[What Could a Healthy AI Companion Look Like?]]&gt;</description>
       <pubDate>Wed, 02 Jul 2025 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.wired.com/story/tolan-chatbot-ai-companion/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>4 Best Smart Displays (2025): Tested By a Smart Home Addict</title>
-      <link>https://www.wired.com/gallery/best-smart-displays/</link>
-      <description>&lt;![CDATA[4 Best Smart Displays (2025): Tested By a Smart Home Addict]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-smart-displays/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>For Today’s Business Traveler, It's All About Work-Life Integration</title>
-      <link>https://www.wired.com/story/business-travel-work-life-balance-integration/</link>
-      <description>&lt;![CDATA[For Today’s Business Traveler, It's All About Work-Life Integration]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/business-travel-work-life-balance-integration/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Affluent Travelers Are Ditching Business Class for Business Jets</title>
-      <link>https://www.wired.com/story/business-travelers-private-jet-boom/</link>
-      <description>&lt;![CDATA[Affluent Travelers Are Ditching Business Class for Business Jets]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/business-travelers-private-jet-boom/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Airport Lounges Are Sexy Again—if You Can Get In</title>
-      <link>https://www.wired.com/story/the-evolution-of-the-airport-lounge/</link>
-      <description>&lt;![CDATA[Airport Lounges Are Sexy Again—if You Can Get In]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/the-evolution-of-the-airport-lounge/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Insurers Aren’t Saying Whether They’ll Cover Vaccines for Kids if Government Stops Recommending Them</title>
-      <link>https://www.wired.com/story/insurers-wont-say-if-theyll-pay-for-childhood-vaccines-dropped-from-recommended-schedule/</link>
-      <description>&lt;![CDATA[Insurers Aren’t Saying Whether They’ll Cover Vaccines for Kids if Government Stops Recommending Them]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/insurers-wont-say-if-theyll-pay-for-childhood-vaccines-dropped-from-recommended-schedule/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Jabra Enhance Select 50R Review: Palatable Price</title>
-      <link>https://www.wired.com/review/jabra-enhance-select-50r/</link>
-      <description>&lt;![CDATA[Jabra Enhance Select 50R Review: Palatable Price]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/review/jabra-enhance-select-50r/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>23 Best MagSafe Accessories (2025), Tested and Reviewed</title>
-      <link>https://www.wired.com/gallery/best-magsafe-accessories/</link>
-      <description>&lt;![CDATA[23 Best MagSafe Accessories (2025), Tested and Reviewed]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-magsafe-accessories/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>How to Travel to the Most Remote Office on Earth</title>
-      <link>https://www.wired.com/story/concordia-research-station-commute/</link>
-      <description>&lt;![CDATA[How to Travel to the Most Remote Office on Earth]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/concordia-research-station-commute/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Airplane Wi-Fi Is Now … Good?</title>
-      <link>https://www.wired.com/story/airplane-wifi-good-now/</link>
-      <description>&lt;![CDATA[Airplane Wi-Fi Is Now … Good?]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/airplane-wifi-good-now/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Business Class Ain’t What It Used to Be. Don’t Tell First Class</title>
-      <link>https://www.wired.com/story/business-class-gets-upgrade/</link>
-      <description>&lt;![CDATA[Business Class Ain’t What It Used to Be. Don’t Tell First Class]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/business-class-gets-upgrade/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The Best Tech Gear for Work Trips</title>
-      <link>https://www.wired.com/story/best-tech-business-travelers/</link>
-      <description>&lt;![CDATA[The Best Tech Gear for Work Trips]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/best-tech-business-travelers/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Business Travel Is Evolving Faster Than Ever. We’ll Help You Navigate It</title>
-      <link>https://www.wired.com/story/future-business-travel-editors-letter/</link>
-      <description>&lt;![CDATA[Business Travel Is Evolving Faster Than Ever. We’ll Help You Navigate It]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/future-business-travel-editors-letter/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Come for the Amenity Kits, Stay for the Flight</title>
-      <link>https://www.wired.com/story/airline-amenity-kit-showdown/</link>
-      <description>&lt;![CDATA[Come for the Amenity Kits, Stay for the Flight]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/airline-amenity-kit-showdown/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>8 Best Pet Cameras (2025), Tested and Reviewed</title>
-      <link>https://www.wired.com/gallery/best-pet-cameras/</link>
-      <description>&lt;![CDATA[8 Best Pet Cameras (2025), Tested and Reviewed]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-pet-cameras/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Racist videos made with AI are going viral on TikTok</title>
-      <link>https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok</link>
-      <description>&lt;![CDATA[Racist videos made with AI are going viral on TikTok]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 22:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Blizzard is winding down support for its Warcraft mobile game</title>
-      <link>https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs</link>
-      <description>&lt;![CDATA[Blizzard is winding down support for its Warcraft mobile game]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 21:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Google’s fix for Pixel 6A battery overheating issues arrives next week</title>
-      <link>https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8</link>
-      <description>&lt;![CDATA[Google’s fix for Pixel 6A battery overheating issues arrives next week]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 20:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Xbox hit hard with layoffs: from canceled games to a shuttered studio</title>
-      <link>https://www.theverge.com/news/697125/microsoft-xbox-layoffs-2025</link>
-      <description>&lt;![CDATA[Xbox hit hard with layoffs: from canceled games to a shuttered studio]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 20:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/697125/microsoft-xbox-layoffs-2025</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking</title>
-      <link>https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption</link>
-      <description>&lt;![CDATA[How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 19:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’</title>
-      <link>https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring</link>
-      <description>&lt;![CDATA[Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’]]&gt;</description>
-      <pubDate>Wed, 02 Jul 2025 19:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,7 +2,80 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-03 04:24
+**最后更新时间**: 2025-07-03 08:15
+
+---
+
+## 🆕 最新更新 (2025-07-03 08:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Jakarta EE 11带来一项新规范、16项更新规范，并对TCK做了现代化改进](https://www.infoq.cn/article/ak6IfXDEb8Fxa7eWC5zR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 16:00
+
+#### [英伟达GB200 NVL72超级计算机在DeepSeek V3模型上实现2.7倍推理速度提升](https://www.infoq.cn/article/2zKcapXgHATldbiTbo4H?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 15:00
+
+#### [百度文心智能体平台x小米应用商店：联手打造行业首个智能体与应用市场跨端分发模式](https://www.infoq.cn/article/ToK0Qk1IqXsi0hPj391F?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 13:43
+
+#### [不只是聊天：Gemini Agent Mode 深度集成 Android Studio，可直接修改项目](https://www.infoq.cn/article/7K5zsZaYQpOGTsS0HLfl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-03 13:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [7月3日A股分析：创业板指领涨1.9%，两市成交额缩量672亿，主力资金净流出85亿，消费电子、电子元件成最大赢家](https://www.tmtpost.com/7615195.html)
+**发布时间**: 2025-07-03 15:40
+
+#### [大窑“变脸”？曾坚拒外资收购，如今或易主KKR？](https://www.tmtpost.com/7614929.html)
+**发布时间**: 2025-07-03 15:04
+
+#### [长城电工连板狂欢：量化携手游资收割，多概念傍身亦难改连亏8年困局](https://www.tmtpost.com/7615138.html)
+**发布时间**: 2025-07-03 14:47
+
+#### [Tesla Q2 Delivery Decline Less Than Bearish Expectation, June Sales in China First Rise in Nine Months](https://www.tmtpost.com/7615129.html)
+**发布时间**: 2025-07-03 14:36
+
+#### [615亿身家潮汕女首富，又要IPO了](https://www.tmtpost.com/7614797.html)
+**发布时间**: 2025-07-03 14:24
+
+#### [“漂亮饭”占领三里屯](https://www.tmtpost.com/7614000.html)
+**发布时间**: 2025-07-03 14:13
+
+#### [小米AI眼镜，又用「1999元起」试探年轻人](https://www.tmtpost.com/7614748.html)
+**发布时间**: 2025-07-03 13:50
+
+#### [热力值超250W，日耗百万，快手、B站、腾讯动漫入局，竖屏漫剧到哪一步了？](https://www.tmtpost.com/7614871.html)
+**发布时间**: 2025-07-03 13:16
+
+#### [Lawaken Bets on AI Glasses for the Post-ChatGPT Era](https://www.tmtpost.com/7615047.html)
+**发布时间**: 2025-07-03 13:07
+
+#### [Japanese MP Pledges to Defend National Interest as Japan-U.S. Talks Stalled Over Auto Tariffs](https://www.tmtpost.com/7615033.html)
+**发布时间**: 2025-07-03 12:54
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 语音爆发的这半年，一位「局中人」看到的赛道爆发逻辑](http://www.geekpark.net/news/351160)
+**发布时间**: 2025-07-03 14:30
+
+#### [「赛博菩萨」发威！AI 巨头的「免费午餐」时代终结了！](http://www.geekpark.net/news/351154)
+**发布时间**: 2025-07-03 13:40
+
+#### [AI 上新｜这个应用，让苏格拉底和尼采手把手教我「哲学」](http://www.geekpark.net/news/351153)
+**发布时间**: 2025-07-03 13:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [为啥无摩擦的直线电机减震器，让国外底盘优势一去不复返？](http://www.huxiu.com/article/4533164.html?f=wangzhan)
+**发布时间**: 2025-07-03 13:40
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Hydrow Discount Code: Save Up to $150 in July](https://www.wired.com/story/hydrow-discount-code/)
+**发布时间**: 2025-07-03 05:10
+
+#### [Visible Promo Code: Save Up to $300 in July 2025](https://www.wired.com/story/visible-promo-code/)
+**发布时间**: 2025-07-03 05:00
 
 ---
 
