@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 00:56:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 00:56:28 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 04:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 04:26:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What you need to know about stablecoins and stock tokens as Robinhood and Circle shares jump</title>
+      <link>https://www.marketwatch.com/story/what-you-need-to-know-about-stablecoins-and-stock-tokens-as-robinhood-and-circle-pop-1079dc39?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[What you need to know about stablecoins and stock tokens as Robinhood and Circle shares jump]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 01:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/what-you-need-to-know-about-stablecoins-and-stock-tokens-as-robinhood-and-circle-pop-1079dc39?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>The one thing that’s driving home sellers bananas — and making buyers happy</title>
       <link>https://www.marketwatch.com/bulletins/redirect/go?g=34d19fdd-d260-4e02-ae09-ebaf762c74a6&amp;mod=mw_rss_bulletins</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 02:17:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/goldmans-stock-surges-toward-another-record-as-the-big-winner-of-feds-stress-tests-982b1530?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘Almost everybody’ in the U.S. has a pair of clogs. BofA analysts say there’s still a lot to like about Crocs.</title>
-      <link>https://www.marketwatch.com/story/almost-everybody-in-the-u-s-has-a-pair-of-clogs-bofa-analysts-say-theres-still-a-lot-to-like-about-crocs-f39fba4f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘Almost everybody’ in the U.S. has a pair of clogs. BofA analysts say there’s still a lot to like about Crocs.]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 01:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/almost-everybody-in-the-u-s-has-a-pair-of-clogs-bofa-analysts-say-theres-still-a-lot-to-like-about-crocs-f39fba4f?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
