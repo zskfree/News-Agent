@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 04:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 04:26:55 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 08:15:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ACL 2025 | 大模型教你做实验！上海交大提出化学实验指令生成模型ChemActor</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-6</link>
+      <description>&lt;![CDATA[ACL 2025 | 大模型教你做实验！上海交大提出化学实验指令生成模型ChemActor]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>极致AI科技与满配舒适兼得，跨时代的AI汽车小鹏G7正式上市</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-03-17</link>
+      <description>&lt;![CDATA[极致AI科技与满配舒适兼得，跨时代的AI汽车小鹏G7正式上市]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-03-17</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达加冕历史第一股！老黄最新身家1388亿美元</title>
+      <link>https://www.qbitai.com/2025/07/304694.html</link>
+      <description>&lt;![CDATA[英伟达加冕历史第一股！老黄最新身家1388亿美元]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 06:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304694.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百万年薪遍地走，Meta薪资接连曝光！AI人才身价水涨船高ing</title>
+      <link>https://www.qbitai.com/2025/07/304456.html</link>
+      <description>&lt;![CDATA[百万年薪遍地走，Meta薪资接连曝光！AI人才身价水涨船高ing]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304456.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>人机协同筛出2600万条数据，七项基准全部SOTA，昆仑万维开源奖励模型再迎新突破</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-04-5</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.01997</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Discovery of Fatigue Strength Models via Feature Engineering and automated eXplainable Machine Learning applied to the welded Transverse Stiffener</title>
-      <link>https://arxiv.org/abs/2507.02005</link>
-      <description>&lt;![CDATA[Discovery of Fatigue Strength Models via Feature Engineering and automated eXplainable Machine Learning applied to the welded Transverse Stiffener]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02005</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ManifoldMind: Dynamic Hyperbolic Reasoning for Trustworthy Recommendations</title>
-      <link>https://arxiv.org/abs/2507.02014</link>
-      <description>&lt;![CDATA[ManifoldMind: Dynamic Hyperbolic Reasoning for Trustworthy Recommendations]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02014</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Effective Explanations for Belief-Desire-Intention Robots: When and What to Explain</title>
-      <link>https://arxiv.org/abs/2507.02016</link>
-      <description>&lt;![CDATA[Effective Explanations for Belief-Desire-Intention Robots: When and What to Explain]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02016</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NGAT: A Node-level Graph Attention Network for Long-term Stock Prediction</title>
-      <link>https://arxiv.org/abs/2507.02018</link>
-      <description>&lt;![CDATA[NGAT: A Node-level Graph Attention Network for Long-term Stock Prediction]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02018</guid>
       <category>AI</category>
     </item>
   </channel>

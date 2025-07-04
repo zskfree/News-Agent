@@ -2,7 +2,109 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-04 04:26
+**最后更新时间**: 2025-07-04 08:15
+
+---
+
+## 🆕 最新更新 (2025-07-04 08:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Databricks为Apache Spark提供了Spark声明式管道](https://www.infoq.cn/article/kogPbMRO9Uw2PwPTvSGe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 16:00
+
+#### [技术选择背后的用户逻辑：美图的垂类模型思考](https://www.infoq.cn/article/uHeYNwPEJB51oZ7gYzdl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 15:59
+
+#### [微盟与腾讯云深化技术合作，构建私域多活架构与全链路防护体系](https://www.infoq.cn/article/9cuaPTyq1lJ7tVgQz6IJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 15:58
+
+#### [外滩大会AI科创赛正式启动：聚焦生活、金融、安全场景应用](https://www.infoq.cn/article/dDiWrc4G4ZaRbbIX5bLO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 15:43
+
+#### [阿里云客服Agent业务提效实践：灵活可控的落地方法论](https://www.infoq.cn/article/vxqmoHTlZ9OaSlN733rG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 15:38
+
+#### [腾讯云与 Gartner 联合发布“Data+AI”白皮书，各行业领军企业分享最佳实践](https://www.infoq.cn/article/kNcdhsM95p0QrI1vzTgC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 15:27
+
+#### [作为软件架构师使用AI的经验](https://www.infoq.cn/article/mNUa9rGvMWSD5BocGZx9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [7月4日A股分析：三大指数涨跌不一，两市合计成交14285.58亿元，资金流入最多的行业板块为软件开发，互联网服务](https://www.tmtpost.com/7616542.html)
+**发布时间**: 2025-07-04 15:11
+
+#### [大众ID. 启示录，全球车企巨头的电车实验](https://www.tmtpost.com/7616170.html)
+**发布时间**: 2025-07-04 15:07
+
+#### [“整容大国”要因职场男性“易主”了](https://www.tmtpost.com/7616467.html)
+**发布时间**: 2025-07-04 15:00
+
+#### [义乌厂二代，正砸掉义乌老招牌](https://www.tmtpost.com/7616218.html)
+**发布时间**: 2025-07-04 14:58
+
+#### [协同办公赛道再生变，谁能率先挖出AI金矿？](https://www.tmtpost.com/7616311.html)
+**发布时间**: 2025-07-04 14:53
+
+#### [健康≠能火，植物汉堡品牌Neat Burger倒闭的启示](https://www.tmtpost.com/7616462.html)
+**发布时间**: 2025-07-04 14:45
+
+#### [北上广深餐饮创业，到底有多难？](https://www.tmtpost.com/7616447.html)
+**发布时间**: 2025-07-04 14:39
+
+#### [卫生巾江湖40年浮沉录](https://www.tmtpost.com/7616410.html)
+**发布时间**: 2025-07-04 14:36
+
+#### [最重要的搜索阵地，百度想尽力守住](https://www.tmtpost.com/7616421.html)
+**发布时间**: 2025-07-04 14:36
+
+#### [热钱涌入，中小资本挤不上具身智能牌桌](https://www.tmtpost.com/7616438.html)
+**发布时间**: 2025-07-04 14:35
+
+#### [RGB-Mini LED首登世俱杯，全球显示技术开启“中国纪元”](https://www.tmtpost.com/7616302.html)
+**发布时间**: 2025-07-04 14:20
+
+#### [EU Aims for Agreement in Principle Instead of Detailed Deal with U.S. Ahead Trump's July Deadline](https://www.tmtpost.com/7616426.html)
+**发布时间**: 2025-07-04 14:00
+
+#### [AI墓地的1289个项目，写着创业的九死一生](https://www.tmtpost.com/7616281.html)
+**发布时间**: 2025-07-04 13:17
+
+#### [高奢酒店，需不需要机器人？](https://www.tmtpost.com/7616349.html)
+**发布时间**: 2025-07-04 13:17
+
+#### [Trump May Start Sending Letters Notifying Countries of U.S. Tariff Rates on Friday](https://www.tmtpost.com/7616345.html)
+**发布时间**: 2025-07-04 12:26
+
+#### [Honor Debuts Magic V5 Foldable as AI Pivot Gains Momentum, Confirms IPO Progress](https://www.tmtpost.com/7616343.html)
+**发布时间**: 2025-07-04 12:23
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [专骗国人的中国汉堡，塔斯汀为啥卖不动了？](http://www.huxiu.com/article/4535751.html?f=wangzhan)
+**发布时间**: 2025-07-04 11:37
+
+#### [高通，被中国车圈“卷”飞](http://www.huxiu.com/article/4527725.html?f=wangzhan)
+**发布时间**: 2025-07-04 08:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 可以显示提醒事项的菜单栏日历：xCal](https://sspai.com/post/99555)
+**发布时间**: 2025-07-04 11:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)
+**发布时间**: 2025-07-04 06:37
+
+#### [Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald](https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald)
+**发布时间**: 2025-07-04 06:14
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [61 Best Early Amazon Prime Day Deals on Products We’ve Tested (2025)](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/)
+**发布时间**: 2025-07-03 21:11
 
 ---
 

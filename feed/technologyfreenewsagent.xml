@@ -5,14 +5,246 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 04:26:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 04:26:55 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 08:15:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Databricks为Apache Spark提供了Spark声明式管道</title>
+      <link>https://www.infoq.cn/article/kogPbMRO9Uw2PwPTvSGe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Databricks为Apache Spark提供了Spark声明式管道]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kogPbMRO9Uw2PwPTvSGe?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>技术选择背后的用户逻辑：美图的垂类模型思考</title>
+      <link>https://www.infoq.cn/article/uHeYNwPEJB51oZ7gYzdl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[技术选择背后的用户逻辑：美图的垂类模型思考]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uHeYNwPEJB51oZ7gYzdl?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微盟与腾讯云深化技术合作，构建私域多活架构与全链路防护体系</title>
+      <link>https://www.infoq.cn/article/9cuaPTyq1lJ7tVgQz6IJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微盟与腾讯云深化技术合作，构建私域多活架构与全链路防护体系]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9cuaPTyq1lJ7tVgQz6IJ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>外滩大会AI科创赛正式启动：聚焦生活、金融、安全场景应用</title>
+      <link>https://www.infoq.cn/article/dDiWrc4G4ZaRbbIX5bLO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[外滩大会AI科创赛正式启动：聚焦生活、金融、安全场景应用]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dDiWrc4G4ZaRbbIX5bLO?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>阿里云客服Agent业务提效实践：灵活可控的落地方法论</title>
+      <link>https://www.infoq.cn/article/vxqmoHTlZ9OaSlN733rG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里云客服Agent业务提效实践：灵活可控的落地方法论]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vxqmoHTlZ9OaSlN733rG?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>腾讯云与 Gartner 联合发布“Data+AI”白皮书，各行业领军企业分享最佳实践</title>
+      <link>https://www.infoq.cn/article/kNcdhsM95p0QrI1vzTgC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云与 Gartner 联合发布“Data+AI”白皮书，各行业领军企业分享最佳实践]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kNcdhsM95p0QrI1vzTgC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>作为软件架构师使用AI的经验</title>
+      <link>https://www.infoq.cn/article/mNUa9rGvMWSD5BocGZx9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[作为软件架构师使用AI的经验]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mNUa9rGvMWSD5BocGZx9?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>7月4日A股分析：三大指数涨跌不一，两市合计成交14285.58亿元，资金流入最多的行业板块为软件开发，互联网服务</title>
+      <link>https://www.tmtpost.com/7616542.html</link>
+      <description>&lt;![CDATA[7月4日A股分析：三大指数涨跌不一，两市合计成交14285.58亿元，资金流入最多的行业板块为软件开发，互联网服务]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616542.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大众ID. 启示录，全球车企巨头的电车实验</title>
+      <link>https://www.tmtpost.com/7616170.html</link>
+      <description>&lt;![CDATA[大众ID. 启示录，全球车企巨头的电车实验]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616170.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“整容大国”要因职场男性“易主”了</title>
+      <link>https://www.tmtpost.com/7616467.html</link>
+      <description>&lt;![CDATA[“整容大国”要因职场男性“易主”了]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616467.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>义乌厂二代，正砸掉义乌老招牌</title>
+      <link>https://www.tmtpost.com/7616218.html</link>
+      <description>&lt;![CDATA[义乌厂二代，正砸掉义乌老招牌]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616218.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>协同办公赛道再生变，谁能率先挖出AI金矿？</title>
+      <link>https://www.tmtpost.com/7616311.html</link>
+      <description>&lt;![CDATA[协同办公赛道再生变，谁能率先挖出AI金矿？]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616311.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>健康≠能火，植物汉堡品牌Neat Burger倒闭的启示</title>
+      <link>https://www.tmtpost.com/7616462.html</link>
+      <description>&lt;![CDATA[健康≠能火，植物汉堡品牌Neat Burger倒闭的启示]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616462.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>北上广深餐饮创业，到底有多难？</title>
+      <link>https://www.tmtpost.com/7616447.html</link>
+      <description>&lt;![CDATA[北上广深餐饮创业，到底有多难？]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616447.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>卫生巾江湖40年浮沉录</title>
+      <link>https://www.tmtpost.com/7616410.html</link>
+      <description>&lt;![CDATA[卫生巾江湖40年浮沉录]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616410.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>最重要的搜索阵地，百度想尽力守住</title>
+      <link>https://www.tmtpost.com/7616421.html</link>
+      <description>&lt;![CDATA[最重要的搜索阵地，百度想尽力守住]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616421.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>热钱涌入，中小资本挤不上具身智能牌桌</title>
+      <link>https://www.tmtpost.com/7616438.html</link>
+      <description>&lt;![CDATA[热钱涌入，中小资本挤不上具身智能牌桌]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616438.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>RGB-Mini LED首登世俱杯，全球显示技术开启“中国纪元”</title>
+      <link>https://www.tmtpost.com/7616302.html</link>
+      <description>&lt;![CDATA[RGB-Mini LED首登世俱杯，全球显示技术开启“中国纪元”]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616302.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>EU Aims for Agreement in Principle Instead of Detailed Deal with U.S. Ahead Trump's July Deadline</title>
+      <link>https://www.tmtpost.com/7616426.html</link>
+      <description>&lt;![CDATA[EU Aims for Agreement in Principle Instead of Detailed Deal with U.S. Ahead Trump's July Deadline]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616426.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI墓地的1289个项目，写着创业的九死一生</title>
+      <link>https://www.tmtpost.com/7616281.html</link>
+      <description>&lt;![CDATA[AI墓地的1289个项目，写着创业的九死一生]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616281.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>高奢酒店，需不需要机器人？</title>
+      <link>https://www.tmtpost.com/7616349.html</link>
+      <description>&lt;![CDATA[高奢酒店，需不需要机器人？]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616349.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Trump May Start Sending Letters Notifying Countries of U.S. Tariff Rates on Friday</title>
+      <link>https://www.tmtpost.com/7616345.html</link>
+      <description>&lt;![CDATA[Trump May Start Sending Letters Notifying Countries of U.S. Tariff Rates on Friday]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616345.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Honor Debuts Magic V5 Foldable as AI Pivot Gains Momentum, Confirms IPO Progress</title>
+      <link>https://www.tmtpost.com/7616343.html</link>
+      <description>&lt;![CDATA[Honor Debuts Magic V5 Foldable as AI Pivot Gains Momentum, Confirms IPO Progress]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616343.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>专骗国人的中国汉堡，塔斯汀为啥卖不动了？</title>
+      <link>http://www.huxiu.com/article/4535751.html?f=wangzhan</link>
+      <description>&lt;![CDATA[专骗国人的中国汉堡，塔斯汀为啥卖不动了？]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4535751.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>高通，被中国车圈“卷”飞</title>
+      <link>http://www.huxiu.com/article/4527725.html?f=wangzhan</link>
+      <description>&lt;![CDATA[高通，被中国车圈“卷”飞]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4527725.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>App+1 | 可以显示提醒事项的菜单栏日历：xCal</title>
+      <link>https://sspai.com/post/99555</link>
+      <description>&lt;![CDATA[App+1 | 可以显示提醒事项的菜单栏日历：xCal]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/99555</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The Loop Micro is my new favorite bicycle phone mount</title>
+      <link>https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review</link>
+      <description>&lt;![CDATA[The Loop Micro is my new favorite bicycle phone mount]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 06:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald</title>
+      <link>https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald</link>
+      <description>&lt;![CDATA[Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 06:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>61 Best Early Amazon Prime Day Deals on Products We’ve Tested (2025)</title>
+      <link>https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/</link>
+      <description>&lt;![CDATA[61 Best Early Amazon Prime Day Deals on Products We’ve Tested (2025)]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 21:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>海底捞想再造一个海底捞</title>
       <link>https://www.tmtpost.com/7616325.html</link>
@@ -179,238 +411,6 @@
       <description>&lt;![CDATA[All in AI 两年，AI代码采纳率突破50%！安克创新龚银：AI平台一旦过时，我们会毫不犹豫重构]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 09:38:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/VuEb1ZUh7RzecR62ksM5?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役</title>
-      <link>https://sspai.com/post/100769</link>
-      <description>&lt;![CDATA[派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/100769</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>3000元学费、3天学完就上岗，“医美速成班”坑惨了谁？</title>
-      <link>https://www.tmtpost.com/7615578.html</link>
-      <description>&lt;![CDATA[3000元学费、3天学完就上岗，“医美速成班”坑惨了谁？]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615578.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小游戏狂奔背后的平台广告生意经</title>
-      <link>https://www.tmtpost.com/7615776.html</link>
-      <description>&lt;![CDATA[小游戏狂奔背后的平台广告生意经]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615776.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>泡泡玛特必须软着陆</title>
-      <link>https://www.tmtpost.com/7615780.html</link>
-      <description>&lt;![CDATA[泡泡玛特必须软着陆]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615780.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>陕煤“胜帮系”离场派林生物背后：一部地方煤炭资本狂飙史 |深度</title>
-      <link>https://www.tmtpost.com/7615830.html</link>
-      <description>&lt;![CDATA[陕煤“胜帮系”离场派林生物背后：一部地方煤炭资本狂飙史 |深度]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615830.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>TikTok切入YouTube的客厅腹地，我有四个猜想</title>
-      <link>https://www.tmtpost.com/7615787.html</link>
-      <description>&lt;![CDATA[TikTok切入YouTube的客厅腹地，我有四个猜想]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615787.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>常州夫妻向世界传递“好声音”，攒下173亿元财富</title>
-      <link>https://www.tmtpost.com/7615789.html</link>
-      <description>&lt;![CDATA[常州夫妻向世界传递“好声音”，攒下173亿元财富]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615789.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>科股早知道：大幅提升能量密度的解决方案，这类材料已经开始批量应用</title>
-      <link>https://www.tmtpost.com/7615843.html</link>
-      <description>&lt;![CDATA[科股早知道：大幅提升能量密度的解决方案，这类材料已经开始批量应用]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615843.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>广东银行业IPO格局生变：两家“返场”，一家掉队</title>
-      <link>https://www.tmtpost.com/7615861.html</link>
-      <description>&lt;![CDATA[广东银行业IPO格局生变：两家“返场”，一家掉队]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 07:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615861.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】药监局十大举措支持高端医疗器械，AI、脑机、生物材料等技术成重点；曝罗马仕已通知员工全面停工停产；万科再获大股东超62亿元借款</title>
-      <link>https://www.tmtpost.com/7615712.html</link>
-      <description>&lt;![CDATA[【钛晨报】药监局十大举措支持高端医疗器械，AI、脑机、生物材料等技术成重点；曝罗马仕已通知员工全面停工停产；万科再获大股东超62亿元借款]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615712.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>海南高速现金收购关联资产背后：地产业务剥离遇阻，回归主业难掩亏损阵痛</title>
-      <link>https://www.tmtpost.com/7615650.html</link>
-      <description>&lt;![CDATA[海南高速现金收购关联资产背后：地产业务剥离遇阻，回归主业难掩亏损阵痛]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 20:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7615650.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>YU7 纸巾盒 169 元被骂太贵，雷军：成本很高；19.58 万，小鹏 G7 预定破万；充电宝冲击，罗马仕停工停产 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/351181</link>
-      <description>&lt;![CDATA[YU7 纸巾盒 169 元被骂太贵，雷军：成本很高；19.58 万，小鹏 G7 预定破万；充电宝冲击，罗马仕停工停产 | 极客早知道]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351181</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小米YU7爆单29万辆后，19.58万的小鹏G7能否杀出血路？</title>
-      <link>http://www.geekpark.net/news/351179</link>
-      <description>&lt;![CDATA[小米YU7爆单29万辆后，19.58万的小鹏G7能否杀出血路？]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:55:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351179</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>科技爱好者周刊（第 355 期）：两本《芯片战争》</title>
-      <link>http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html</link>
-      <description>&lt;![CDATA[科技爱好者周刊（第 355 期）：两本《芯片战争》]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:02:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel</title>
-      <link>https://www.theverge.com/politics/698148/white-house-wire-youtube</link>
-      <description>&lt;![CDATA[The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 23:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/politics/698148/white-house-wire-youtube</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2?</title>
-      <link>https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz</link>
-      <description>&lt;![CDATA[We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2?]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 22:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Here are the letters that convinced Google and Apple to keep TikTok online</title>
-      <link>https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi</link>
-      <description>&lt;![CDATA[Here are the letters that convinced Google and Apple to keep TikTok online]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously</title>
-      <link>https://www.theverge.com/news/697846/soham-parekh-startups-multiple-jobs-founders</link>
-      <description>&lt;![CDATA[Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 21:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/697846/soham-parekh-startups-multiple-jobs-founders</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Congress passes budget to expand mass deportations, cut social services, and stall clean energy</title>
-      <link>https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb</link>
-      <description>&lt;![CDATA[Congress passes budget to expand mass deportations, cut social services, and stall clean energy]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 20:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The best laptops you can get</title>
-      <link>https://www.theverge.com/21250695/best-laptops</link>
-      <description>&lt;![CDATA[The best laptops you can get]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 20:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/21250695/best-laptops</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>E Ink is turning the laptop touchpad into an e-reader for AI apps</title>
-      <link>https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs</link>
-      <description>&lt;![CDATA[E Ink is turning the laptop touchpad into an e-reader for AI apps]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Paramount Plus slashes prices to $2 for two months</title>
-      <link>https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale</link>
-      <description>&lt;![CDATA[Paramount Plus slashes prices to $2 for two months]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies</title>
-      <link>https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/</link>
-      <description>&lt;![CDATA[Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>61 Best Early Amazon Prime Day Deals on Products We've Tested (2025)</title>
-      <link>https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/</link>
-      <description>&lt;![CDATA[61 Best Early Amazon Prime Day Deals on Products We've Tested (2025)]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 21:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The Person in Charge of Testing Tech for US Spies Has Resigned</title>
-      <link>https://www.wired.com/story/iarpa-director-resigns-odni/</link>
-      <description>&lt;![CDATA[The Person in Charge of Testing Tech for US Spies Has Resigned]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 20:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/iarpa-director-resigns-odni/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The 27 Best Movies on Apple TV+ Right Now (July 2025)</title>
-      <link>https://www.wired.com/story/best-apple-tv-plus-movies/</link>
-      <description>&lt;![CDATA[The 27 Best Movies on Apple TV+ Right Now (July 2025)]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/best-apple-tv-plus-movies/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Trump Officials Want to Prosecute Over the ICEBlock App. Lawyers Say That’s Unconstitutional</title>
-      <link>https://www.wired.com/story/trump-officials-want-to-prosecute-over-the-iceblock-app-lawyers-say-thats-unconstitutional/</link>
-      <description>&lt;![CDATA[Trump Officials Want to Prosecute Over the ICEBlock App. Lawyers Say That’s Unconstitutional]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/trump-officials-want-to-prosecute-over-the-iceblock-app-lawyers-say-thats-unconstitutional/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>CBP Wants New Tech to Search for Hidden Data on Seized Phones</title>
-      <link>https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/</link>
-      <description>&lt;![CDATA[CBP Wants New Tech to Search for Hidden Data on Seized Phones]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance</title>
-      <link>https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/</link>
-      <description>&lt;![CDATA[Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/</guid>
       <category>Technology</category>
     </item>
   </channel>

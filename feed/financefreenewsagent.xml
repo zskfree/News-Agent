@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 04:26:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 04:26:55 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 08:15:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>S&amp;P 500 futures and dollar dip as Trump revives tariff tension</title>
+      <link>https://www.marketwatch.com/story/s-p-500-futures-and-dollar-dip-as-trump-revives-tariff-tension-2cc83ada?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[S&amp;P 500 futures and dollar dip as Trump revives tariff tension]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/s-p-500-futures-and-dollar-dip-as-trump-revives-tariff-tension-2cc83ada?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>What you need to know about stablecoins and stock tokens as Robinhood and Circle shares jump</title>
       <link>https://www.marketwatch.com/story/what-you-need-to-know-about-stablecoins-and-stock-tokens-as-robinhood-and-circle-pop-1079dc39?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[This fund returned 21% in May alone buying ‘left-for-dead’ stocks — and it has a new target]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 05:38:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/this-fund-returned-21-in-may-alone-buying-left-for-dead-stocks-and-it-has-a-new-target-af651843?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests</title>
-      <link>https://www.marketwatch.com/story/goldmans-stock-surges-toward-another-record-as-the-big-winner-of-feds-stress-tests-982b1530?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 02:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/goldmans-stock-surges-toward-another-record-as-the-big-winner-of-feds-stress-tests-982b1530?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
