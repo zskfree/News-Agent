@@ -2,7 +2,79 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-03 12:22
+**最后更新时间**: 2025-07-04 00:56
+
+---
+
+## 🆕 最新更新 (2025-07-04 00:56)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The one thing that’s driving home sellers bananas — and making buyers happy](https://www.marketwatch.com/bulletins/redirect/go?g=34d19fdd-d260-4e02-ae09-ebaf762c74a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 23:20
+
+#### [Time is running out to buy an EV before Trump’s big bill kills $7,500 tax credit](https://www.marketwatch.com/bulletins/redirect/go?g=d1b025a2-304e-47ff-9f1c-12e8d9a3c1c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 22:10
+
+#### [5 huge changes coming for student-loan borrowers and colleges under GOP megabill](https://www.marketwatch.com/bulletins/redirect/go?g=c7150df8-feda-4b1c-9079-1324e67c1656&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 21:01
+
+#### [Will Trump’s megabill cut your taxes? Check this number on your tax return.](https://www.marketwatch.com/bulletins/redirect/go?g=e77914d5-9602-411f-bf16-499ccd8b45ff&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 20:09
+
+#### [Trump’s big bill just passed the House. Here are its winners and losers.](https://www.marketwatch.com/bulletins/redirect/go?g=224505c0-be7f-4f69-8dbf-38f1838e1b65&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 18:45
+
+#### [S&P 500 and Nasdaq Composite end abbreviated session at record levels](https://www.marketwatch.com/bulletins/redirect/go?g=ebc12b45-8f89-4618-a62c-5951cff6ff43&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 17:08
+
+#### [The stock market is about to close for the holiday weekend. Bonds close at 2.](https://www.marketwatch.com/bulletins/redirect/go?g=58b70b8e-9861-4c63-bd2b-2deeb8172a6b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 16:57
+
+#### [Americans enrolled in Medicaid don’t always know it. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=2212682f-a314-4c7f-b9d6-412577c06315&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 15:32
+
+#### [Payrolls data fueling stocks a day after ADP report generated job-market fear](https://www.marketwatch.com/bulletins/redirect/go?g=ee2111bb-1084-43a1-94af-d3282ca30729&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 14:30
+
+#### [S&P 500 registers all-time intraday high in preholiday session — live coverage](https://www.marketwatch.com/bulletins/redirect/go?g=3f83034a-ddb6-4161-8565-fe8ef9feeb49&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-03 13:56
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The one thing that’s driving home sellers bananas right now — and making buyers happy](https://www.marketwatch.com/story/the-one-thing-thats-driving-home-sellers-bananas-and-making-buyers-happy-ff93e771?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 23:18
+
+#### [‘Today is my 61st birthday’: I have my ex-spouse’s Social Security benefits. Should I retire at 65 and travel?](https://www.marketwatch.com/story/my-marriage-was-abusive-i-have-my-spouses-social-security-should-i-retire-at-65-f5874f67?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 22:53
+
+#### [You’re running out of time to buy an EV before Trump’s big bill kills the $7,500 tax credit on electric vehicles](https://www.marketwatch.com/story/youre-running-out-of-time-to-buy-an-ev-before-trumps-big-bill-kills-the-7-500-tax-credit-on-electric-vehicles-309c1d1e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 21:57
+
+#### [Read this before betting on Nathan’s hot-dog eating contest — even if Joey Chestnut is favored to win](https://www.marketwatch.com/story/joey-chestnut-is-favored-to-win-nathans-hot-dog-eating-contest-but-the-smart-money-is-betting-another-way-a086e434?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 20:31
+
+#### [The odds of a September Fed rate cut look high after June jobs report — but it may be a tough call for Powell](https://www.marketwatch.com/story/the-odds-of-a-september-fed-rate-cut-look-high-after-june-jobs-report-but-it-may-be-a-tough-call-for-powell-cca97e58?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 20:03
+
+#### [Will Trump’s megabill cut your taxes? Check this number on your tax return for the answer.](https://www.marketwatch.com/story/will-trumps-megabill-cut-your-taxes-check-this-number-on-your-tax-return-for-the-answer-4813a4d8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 19:48
+
+#### [The Dow and Russell 2000 are joining the stock market’s party. Is it a game changer for the bulls?](https://www.marketwatch.com/story/the-dow-and-russell-2000-are-joining-the-stock-markets-party-is-it-a-game-changer-for-the-bulls-7b6897fd?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 19:42
+
+#### [Robinhood missed joining the S&P 500 again. But Trump’s megabill may be more important for the stock.](https://www.marketwatch.com/story/robinhood-missed-the-s-p-500-again-but-trumps-megabill-may-be-more-important-for-the-stock-71f6baf7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 19:30
+
+#### [These chip-design software stocks are climbing after a U.S.-China trade deal](https://www.marketwatch.com/story/these-chip-design-software-stocks-are-climbing-after-a-u-s-china-trade-deal-041b8177?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 19:11
+
+#### [Jobs report shows Trump has been wrong about interest rates. But soon he’ll get his way.](https://www.marketwatch.com/story/jobs-report-shows-trump-has-been-wrong-about-interest-rates-but-soon-hell-get-his-way-4ff15b51?mod=mw_rss_topstories)
+**发布时间**: 2025-07-03 19:08
+
+### 📰 来源: [MarketWatch Market Pulse](https://feeds.content.dowjones.io/public/rss/mw_marketpulse)
+
+#### [Jobless claims fall to lowest level since mid-May](https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse)
+**发布时间**: 2025-07-03 12:36
 
 ---
 

@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 03 Jul 2025 12:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Jul 2025 12:22:27 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 00:56:00 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 00:56:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Download: AI agents hype, and Google’s electricity plans</title>
+      <link>https://www.technologyreview.com/2025/07/03/1119682/the-download-ai-agents-hype-and-googles-electricity-plans/</link>
+      <description>&lt;![CDATA[The Download: AI agents hype, and Google’s electricity plans]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/03/1119682/the-download-ai-agents-hype-and-googles-electricity-plans/</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>AI 编程十字路口：为什么说 Copilot 模式是创业陷阱？</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-03-13</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Fast Clifford Neural Layers]]&gt;</description>
       <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.01040</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fast AI Model Splitting over Edge Networks</title>
-      <link>https://arxiv.org/abs/2507.01041</link>
-      <description>&lt;![CDATA[Fast AI Model Splitting over Edge Networks]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01041</guid>
       <category>AI</category>
     </item>
   </channel>

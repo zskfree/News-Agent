@@ -2,7 +2,128 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-03 12:22
+**最后更新时间**: 2025-07-04 00:56
+
+---
+
+## 🆕 最新更新 (2025-07-04 00:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [3000元学费、3天学完就上岗，“医美速成班”坑惨了谁？](https://www.tmtpost.com/7615578.html)
+**发布时间**: 2025-07-04 08:42
+
+#### [小游戏狂奔背后的平台广告生意经](https://www.tmtpost.com/7615776.html)
+**发布时间**: 2025-07-04 08:25
+
+#### [泡泡玛特必须软着陆](https://www.tmtpost.com/7615780.html)
+**发布时间**: 2025-07-04 08:18
+
+#### [陕煤“胜帮系”离场派林生物背后：一部地方煤炭资本狂飙史 |深度](https://www.tmtpost.com/7615830.html)
+**发布时间**: 2025-07-04 08:15
+
+#### [TikTok切入YouTube的客厅腹地，我有四个猜想](https://www.tmtpost.com/7615787.html)
+**发布时间**: 2025-07-04 08:12
+
+#### [常州夫妻向世界传递“好声音”，攒下173亿元财富](https://www.tmtpost.com/7615789.html)
+**发布时间**: 2025-07-04 08:03
+
+#### [科股早知道：大幅提升能量密度的解决方案，这类材料已经开始批量应用](https://www.tmtpost.com/7615843.html)
+**发布时间**: 2025-07-04 08:00
+
+#### [广东银行业IPO格局生变：两家“返场”，一家掉队](https://www.tmtpost.com/7615861.html)
+**发布时间**: 2025-07-04 07:59
+
+#### [【钛晨报】药监局十大举措支持高端医疗器械，AI、脑机、生物材料等技术成重点；曝罗马仕已通知员工全面停工停产；万科再获大股东超62亿元借款](https://www.tmtpost.com/7615712.html)
+**发布时间**: 2025-07-04 07:20
+
+#### [海南高速现金收购关联资产背后：地产业务剥离遇阻，回归主业难掩亏损阵痛](https://www.tmtpost.com/7615650.html)
+**发布时间**: 2025-07-03 20:14
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [YU7 纸巾盒 169 元被骂太贵，雷军：成本很高；19.58 万，小鹏 G7 预定破万；充电宝冲击，罗马仕停工停产 | 极客早知道](http://www.geekpark.net/news/351181)
+**发布时间**: 2025-07-04 08:10
+
+#### [小米YU7爆单29万辆后，19.58万的小鹏G7能否杀出血路？](http://www.geekpark.net/news/351179)
+**发布时间**: 2025-07-04 00:55
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
+**发布时间**: 2025-07-04 00:02
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel](https://www.theverge.com/politics/698148/white-house-wire-youtube)
+**发布时间**: 2025-07-03 23:16
+
+#### [We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2?](https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz)
+**发布时间**: 2025-07-03 22:53
+
+#### [Here are the letters that convinced Google and Apple to keep TikTok online](https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi)
+**发布时间**: 2025-07-03 21:26
+
+#### [Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously](https://www.theverge.com/news/697846/soham-parekh-startups-multiple-jobs-founders)
+**发布时间**: 2025-07-03 21:07
+
+#### [Congress passes budget to expand mass deportations, cut social services, and stall clean energy](https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb)
+**发布时间**: 2025-07-03 20:27
+
+#### [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+**发布时间**: 2025-07-03 20:15
+
+#### [E Ink is turning the laptop touchpad into an e-reader for AI apps](https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs)
+**发布时间**: 2025-07-03 17:37
+
+#### [Paramount Plus slashes prices to $2 for two months](https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale)
+**发布时间**: 2025-07-03 15:56
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
+**发布时间**: 2025-07-03 21:48
+
+#### [61 Best Early Amazon Prime Day Deals on Products We've Tested (2025)](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/)
+**发布时间**: 2025-07-03 21:11
+
+#### [The Person in Charge of Testing Tech for US Spies Has Resigned](https://www.wired.com/story/iarpa-director-resigns-odni/)
+**发布时间**: 2025-07-03 20:50
+
+#### [The 27 Best Movies on Apple TV+ Right Now (July 2025)](https://www.wired.com/story/best-apple-tv-plus-movies/)
+**发布时间**: 2025-07-03 19:00
+
+#### [Trump Officials Want to Prosecute Over the ICEBlock App. Lawyers Say That’s Unconstitutional](https://www.wired.com/story/trump-officials-want-to-prosecute-over-the-iceblock-app-lawyers-say-thats-unconstitutional/)
+**发布时间**: 2025-07-03 18:06
+
+#### [CBP Wants New Tech to Search for Hidden Data on Seized Phones](https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/)
+**发布时间**: 2025-07-03 17:19
+
+#### [Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance](https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/)
+**发布时间**: 2025-07-03 16:57
+
+#### [A Game Called 'Date Everything' Literally Lets You Date Everything—Except People](https://www.wired.com/story/a-game-called-date-everything-literally-lets-you-date-everything-except-people/)
+**发布时间**: 2025-07-03 16:45
+
+#### [How to Pick the Best Roku Device (2025): A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
+**发布时间**: 2025-07-03 15:08
+
+#### [How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025](https://www.wired.com/story/how-to-buy-the-right-tv/)
+**发布时间**: 2025-07-03 14:03
+
+#### [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
+**发布时间**: 2025-07-03 13:00
+
+#### [Best MacBooks (2025): Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+**发布时间**: 2025-07-03 13:00
+
+#### [From Sensual Butt Songs to Santa’s Alleged Coke Habit: AI Slop Music Is Getting Harder to Avoid](https://www.wired.com/story/from-sensual-butt-songs-to-santas-alleged-coke-habit-ai-slop-music-is-getting-harder-to-avoid/)
+**发布时间**: 2025-07-03 12:55
+
+#### [The 46 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
+**发布时间**: 2025-07-02 19:16
+
+#### [The New Era of Work Travel](https://www.wired.com/new-era-business-travel/)
+**发布时间**: 2025-07-02 19:00
 
 ---
 
