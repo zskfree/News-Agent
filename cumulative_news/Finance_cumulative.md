@@ -2,7 +2,27 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-04 08:15
+**最后更新时间**: 2025-07-04 12:21
+
+---
+
+## 🆕 最新更新 (2025-07-04 12:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Defense stock surge triggers one of the hottest ETF launches in European history](https://www.marketwatch.com/story/defense-stock-surge-triggers-one-of-the-hottest-etf-launches-in-european-history-23aff504?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 12:16
+
+#### [I have $6.5 million in retirement savings and support my working son. Should we move to a state with no income tax?](https://www.marketwatch.com/story/i-have-6-5-million-in-retirement-savings-and-support-my-working-son-should-we-move-to-a-state-with-no-income-tax-82e41334?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 11:30
+
+#### [Sleeping beauty bitcoin wallets wake up after 14 years to the tune of $2 billion](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 11:24
+
+#### [Is the stock market closed for the Fourth of July? What about FedEx, UPS and mail delivery?](https://www.marketwatch.com/story/is-the-stock-market-open-on-the-fourth-of-july-and-will-it-close-early-on-july-3-what-about-fedex-ups-and-mail-delivery-26eaf161?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 10:29
+
+#### [Indian regulator locks U.S. trading firm out of its stock market, accusing it of ‘index manipulation’ and ‘unlawful gains’](https://www.marketwatch.com/story/indian-regulator-locks-u-s-trading-firm-out-of-its-stock-market-accusing-it-of-index-manipulation-and-unlawful-gains-d2cec227?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 09:24
 
 ---
 

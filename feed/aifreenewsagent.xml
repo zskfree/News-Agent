@@ -5,14 +5,102 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 08:15:58 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 12:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 12:21:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>野生DeepSeek火了，速度碾压官方版，权重开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-10</link>
+      <description>&lt;![CDATA[野生DeepSeek火了，速度碾压官方版，权重开源]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>以玩促学？游戏代码驱动数据合成，提升多模态大模型通用推理</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-9</link>
+      <description>&lt;![CDATA[以玩促学？游戏代码驱动数据合成，提升多模态大模型通用推理]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>告别盲选LLM！ICML 2025新研究解释大模型选择的「玄学」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-8</link>
+      <description>&lt;![CDATA[告别盲选LLM！ICML 2025新研究解释大模型选择的「玄学」]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT自主科学发现系统SPARKS：已独立发现两条全新蛋白质设计法则</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-7</link>
+      <description>&lt;![CDATA[MIT自主科学发现系统SPARKS：已独立发现两条全新蛋白质设计法则]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: India’s AI independence, and predicting future epidemics</title>
+      <link>https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/</link>
+      <description>&lt;![CDATA[The Download: India’s AI independence, and predicting future epidemics]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Inside India’s scramble for AI independence</title>
+      <link>https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/</link>
+      <description>&lt;![CDATA[Inside India’s scramble for AI independence]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>硅谷的企业级AI正在这样赚钱｜2025人工智能现状报告</title>
+      <link>https://www.qbitai.com/2025/07/304838.html</link>
+      <description>&lt;![CDATA[硅谷的企业级AI正在这样赚钱｜2025人工智能现状报告]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304838.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>物理学家靠生物揭开AI创造力来源：起因竟是“技术缺陷”</title>
+      <link>https://www.qbitai.com/2025/07/304804.html</link>
+      <description>&lt;![CDATA[物理学家靠生物揭开AI创造力来源：起因竟是“技术缺陷”]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304804.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>14%论文都有AI代写？Nature：每7篇就有1篇藏有ChatGPT特征词</title>
+      <link>https://www.qbitai.com/2025/07/304763.html</link>
+      <description>&lt;![CDATA[14%论文都有AI代写？Nature：每7篇就有1篇藏有ChatGPT特征词]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304763.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>智能体商业化打通最后一公里，腾讯元器宣布接入微信支付MCP</title>
+      <link>https://www.qbitai.com/2025/07/304752.html</link>
+      <description>&lt;![CDATA[智能体商业化打通最后一公里，腾讯元器宣布接入微信支付MCP]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304752.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek降本秘诀曝光：2招极致压榨推理部署，算力全留给内部</title>
+      <link>https://www.qbitai.com/2025/07/304735.html</link>
+      <description>&lt;![CDATA[DeepSeek降本秘诀曝光：2招极致压榨推理部署，算力全留给内部]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304735.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>ACL 2025 | 大模型教你做实验！上海交大提出化学实验指令生成模型ChemActor</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-04-6</link>
@@ -323,94 +411,6 @@
       <description>&lt;![CDATA[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.02773</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Moral Responsibility or Obedience: What Do We Want from AI?</title>
-      <link>https://arxiv.org/abs/2507.02788</link>
-      <description>&lt;![CDATA[Moral Responsibility or Obedience: What Do We Want from AI?]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02788</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Establishing Best Practices for Building Rigorous Agentic Benchmarks</title>
-      <link>https://arxiv.org/abs/2507.02825</link>
-      <description>&lt;![CDATA[Establishing Best Practices for Building Rigorous Agentic Benchmarks]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02825</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason</title>
-      <link>https://arxiv.org/abs/2507.02841</link>
-      <description>&lt;![CDATA[StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02841</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Scalable and Quantum-Accurate Foundation Model for Biomolecular Force Field via Linearly Tensorized Quadrangle Attention</title>
-      <link>https://arxiv.org/abs/2507.00884</link>
-      <description>&lt;![CDATA[A Scalable and Quantum-Accurate Foundation Model for Biomolecular Force Field via Linearly Tensorized Quadrangle Attention]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.00884</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DeepSupp: Attention-Driven Correlation Pattern Analysis for Dynamic Time Series Support and Resistance Levels Identification</title>
-      <link>https://arxiv.org/abs/2507.01971</link>
-      <description>&lt;![CDATA[DeepSupp: Attention-Driven Correlation Pattern Analysis for Dynamic Time Series Support and Resistance Levels Identification]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01971</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Accelerated Portfolio Optimization and Option Pricing with Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2507.01972</link>
-      <description>&lt;![CDATA[Accelerated Portfolio Optimization and Option Pricing with Reinforcement Learning]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01972</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learnable-Differentiable Finite Volume Solver for Accelerated Simulation of Flows</title>
-      <link>https://arxiv.org/abs/2507.01975</link>
-      <description>&lt;![CDATA[Learnable-Differentiable Finite Volume Solver for Accelerated Simulation of Flows]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01975</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Forecasting Labor Markets with LSTNet: A Multi-Scale Deep Learning Approach</title>
-      <link>https://arxiv.org/abs/2507.01979</link>
-      <description>&lt;![CDATA[Forecasting Labor Markets with LSTNet: A Multi-Scale Deep Learning Approach]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01979</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DKGCM: A Spatio-Temporal Prediction Model for Traffic Flow by Fusing Spatial Node Clustering Method and Fourier Bidirectional Mamba Mechanism</title>
-      <link>https://arxiv.org/abs/2507.01982</link>
-      <description>&lt;![CDATA[DKGCM: A Spatio-Temporal Prediction Model for Traffic Flow by Fusing Spatial Node Clustering Method and Fourier Bidirectional Mamba Mechanism]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01982</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Integrating Large Language Models in Financial Investments and Market Analysis: A Survey</title>
-      <link>https://arxiv.org/abs/2507.01990</link>
-      <description>&lt;![CDATA[Integrating Large Language Models in Financial Investments and Market Analysis: A Survey]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01990</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting</title>
-      <link>https://arxiv.org/abs/2507.01997</link>
-      <description>&lt;![CDATA[Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01997</guid>
       <category>AI</category>
     </item>
   </channel>

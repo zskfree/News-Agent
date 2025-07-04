@@ -2,7 +2,110 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-04 08:15
+**最后更新时间**: 2025-07-04 12:21
+
+---
+
+## 🆕 最新更新 (2025-07-04 12:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [6连板后冲高回落，诚邦股份存储业务“热概念低毛利”隐忧待解](https://www.tmtpost.com/7616959.html)
+**发布时间**: 2025-07-04 20:15
+
+#### [江天科技：关联交易疑是未被认定，申报期间仍大举分红｜IPO观察](https://www.tmtpost.com/7615261.html)
+**发布时间**: 2025-07-04 19:35
+
+#### [年中盘点：“疯狂”机器人，半年融资超去年，迎来上市热潮](https://www.tmtpost.com/7611136.html)
+**发布时间**: 2025-07-04 19:24
+
+#### [翻倍牛股闪崩：“二度易主”急卖控制权，谁在收割长龄液压？](https://www.tmtpost.com/7616949.html)
+**发布时间**: 2025-07-04 19:24
+
+#### [铂金与黄金的接力赛](https://www.tmtpost.com/7614141.html)
+**发布时间**: 2025-07-04 19:24
+
+#### [EDA出口管制解除，对中国半导体影响几何？](https://www.tmtpost.com/7616895.html)
+**发布时间**: 2025-07-04 19:24
+
+#### [年轻人的脱发焦虑，孕育出百亿米诺地尔大市场，谁赚翻了谁来抢食？](https://www.tmtpost.com/7616919.html)
+**发布时间**: 2025-07-04 19:24
+
+#### [2025年，数据库迎来新一轮变革](https://www.tmtpost.com/7616922.html)
+**发布时间**: 2025-07-04 19:24
+
+#### [百度AI改造搜索，“一个百度”应被李彦宏更重视](https://www.tmtpost.com/7615765.html)
+**发布时间**: 2025-07-04 18:36
+
+#### [元戎启行不想做Plan B](https://www.tmtpost.com/7616858.html)
+**发布时间**: 2025-07-04 18:35
+
+#### [麦德龙，第三次折戟港股](https://www.tmtpost.com/7616087.html)
+**发布时间**: 2025-07-04 18:26
+
+#### [全球商用PC换代潮到来，DaaS行业步入黄金增长期](https://www.tmtpost.com/7616753.html)
+**发布时间**: 2025-07-04 18:26
+
+#### [AI赛道又添新专业，志愿填报该不该冲？](https://www.tmtpost.com/7616743.html)
+**发布时间**: 2025-07-04 18:26
+
+#### [“AI六小虎”到了下一个赛点](https://www.tmtpost.com/7616759.html)
+**发布时间**: 2025-07-04 18:25
+
+#### [OpenAI的「独立战争」](https://www.tmtpost.com/7616803.html)
+**发布时间**: 2025-07-04 18:25
+
+#### [美越20%关税协议落地！中国制造如何“借道”形成“外循环”？丨精华研报](https://www.tmtpost.com/7616677.html)
+**发布时间**: 2025-07-04 17:41
+
+#### [中小AI企业，没有“高考”资格](https://www.tmtpost.com/7616553.html)
+**发布时间**: 2025-07-04 17:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100788)
+**发布时间**: 2025-07-04 18:05
+
+#### [《日本全境漫游计划》作者 Simon 都装了啥？](https://sspai.com/prime/story/zuanglesha-250704)
+**发布时间**: 2025-07-04 17:46
+
+#### [你真的不需要一部无反时代的哈苏相机](https://sspai.com/post/99993)
+**发布时间**: 2025-07-04 15:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [假简历狂骗硅谷10+家AI公司、拿多头薪水被锤！印度工程师喊冤：每周拼140小时，我也很绝望](https://www.infoq.cn/article/k1rfqtxx0TzyRRw25oRf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 18:00
+
+#### [谷歌推出Gemini CLI：面向开发人员的开源终端AI代理](https://www.infoq.cn/article/2g8PXEPRm6VcyZY38PbZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 18:00
+
+#### [没有团队、没有资金，“00后”印度开发者打造的Perplexity开源平替斩获GitHub 9k star](https://www.infoq.cn/article/iTwRUNVkmfUojZI9Ajbd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-04 17:33
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [This is not a tattoo robot](https://www.theverge.com/robot/697890/tattoo-robot)
+**发布时间**: 2025-07-04 12:00
+
+#### [New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable](https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks)
+**发布时间**: 2025-07-04 11:56
+
+#### [Fairphone 6 gets a 10/10 on repairability](https://www.theverge.com/news/698363/fairphone-6-ifixit-teardown-repairability-perfect-score)
+**发布时间**: 2025-07-04 11:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
+**发布时间**: 2025-07-04 11:39
+
+#### [The 13 Best Fans for the Coolest Summer (2025)](https://www.wired.com/gallery/best-fans/)
+**发布时间**: 2025-07-04 11:26
+
+#### [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
+**发布时间**: 2025-07-04 11:18
+
+#### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
+**发布时间**: 2025-07-04 10:00
 
 ---
 
