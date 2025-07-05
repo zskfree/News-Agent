@@ -2,7 +2,34 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-05 17:41
+**最后更新时间**: 2025-07-05 12:19
+
+---
+
+## 🆕 最新更新 (2025-07-05 12:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华为团队回应盘古开源AI模型抄袭争议：并非基于其他模型增量训练，已严格遵循开源许可](https://www.tmtpost.com/7617405.html)
+**发布时间**: 2025-07-05 20:06
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
+**发布时间**: 2025-07-05 12:03
+
+#### [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
+**发布时间**: 2025-07-05 11:30
+
+#### [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
+**发布时间**: 2025-07-05 11:00
+
+#### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
+**发布时间**: 2025-07-05 10:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
+**发布时间**: 2025-07-05 12:00
 
 ---
 

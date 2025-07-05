@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Jul 2025 00:54:00 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 17:41:45 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 12:19:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Investors traded a record $6.6 trillion worth of stock in the first half of 2025</title>
+      <link>https://www.marketwatch.com/story/investors-traded-a-record-6-6-trillion-worth-of-stock-in-the-first-half-of-2025-981f9ade?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors traded a record $6.6 trillion worth of stock in the first half of 2025]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-traded-a-record-6-6-trillion-worth-of-stock-in-the-first-half-of-2025-981f9ade?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Now that the megabill has passed, expect a ton of short-term debt to be sold to finance the government’s deficit</title>
       <link>https://www.marketwatch.com/story/now-that-the-megabill-has-passed-expect-a-ton-of-short-term-treasury-bills-to-be-auctioned-to-finance-the-governments-deficit-900681f3?mod=mw_rss_topstories</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[My mother, 89, keeps getting her credit card scammed. She gets a new one — and it happens again. What’s going on?]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 21:37:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/my-mother-89-keeps-getting-her-credit-card-scammed-i-buy-her-a-new-one-and-it-happens-again-whats-going-on-71d5b8e5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gold’s momentum is fading — and a pullback is coming, says HSBC analyst</title>
-      <link>https://www.marketwatch.com/story/golds-momentum-is-fading-and-a-pullback-is-coming-says-hsbc-analyst-585418f3?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Gold’s momentum is fading — and a pullback is coming, says HSBC analyst]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 12:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/golds-momentum-is-fading-and-a-pullback-is-coming-says-hsbc-analyst-585418f3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

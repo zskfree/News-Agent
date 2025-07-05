@@ -5,14 +5,62 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Jul 2025 00:54:00 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 17:41:45 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 12:19:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-5</link>
+      <description>&lt;![CDATA[从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Test Time Scaling Law远未达到上限! o4-mini仅15.8%通过率，华为诺亚提出代码HLCE终极基准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-4</link>
+      <description>&lt;![CDATA[Test Time Scaling Law远未达到上限! o4-mini仅15.8%通过率，华为诺亚提出代码HLCE终极基准]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，Grok4跑分曝光：「人类最后考试」拿下45%，是Gemini 2.5两倍，但网友不信</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-3</link>
+      <description>&lt;![CDATA[刚刚，Grok4跑分曝光：「人类最后考试」拿下45%，是Gemini 2.5两倍，但网友不信]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICCV 2025｜降低扩散模型中的时空冗余，上交大EEdit实现免训练图像编辑加速</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-2</link>
+      <description>&lt;![CDATA[ICCV 2025｜降低扩散模型中的时空冗余，上交大EEdit实现免训练图像编辑加速]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 多智能体的ChatGPT时刻？上交MAS-GPT实现工作流一键生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05</link>
+      <description>&lt;![CDATA[ICML 2025 | 多智能体的ChatGPT时刻？上交MAS-GPT实现工作流一键生成]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>数学题干带猫AI就不会了！错误率翻300%，DeepSeek、o1都不能幸免</title>
+      <link>https://www.qbitai.com/2025/07/305058.html</link>
+      <description>&lt;![CDATA[数学题干带猫AI就不会了！错误率翻300%，DeepSeek、o1都不能幸免]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305058.html</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>Robotic probe quickly measures key properties of new materials</title>
       <link>https://news.mit.edu/2025/robotic-probe-quickly-measures-key-properties-new-materials-0704</link>
@@ -363,54 +411,6 @@
       <description>&lt;![CDATA[Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design &amp; Verification]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.02660</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models</title>
-      <link>https://arxiv.org/abs/2507.02663</link>
-      <description>&lt;![CDATA[Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02663</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education</title>
-      <link>https://arxiv.org/abs/2507.02681</link>
-      <description>&lt;![CDATA[Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02681</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Time-critical and confidence-based abstraction dropping methods</title>
-      <link>https://arxiv.org/abs/2507.02703</link>
-      <description>&lt;![CDATA[Time-critical and confidence-based abstraction dropping methods]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02703</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving</title>
-      <link>https://arxiv.org/abs/2507.02726</link>
-      <description>&lt;![CDATA[Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02726</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work</title>
-      <link>https://arxiv.org/abs/2507.02760</link>
-      <description>&lt;![CDATA[Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02760</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Grounding Intelligence in Movement</title>
-      <link>https://arxiv.org/abs/2507.02771</link>
-      <description>&lt;![CDATA[Grounding Intelligence in Movement]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02771</guid>
       <category>AI</category>
     </item>
   </channel>

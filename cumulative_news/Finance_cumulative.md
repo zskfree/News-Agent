@@ -2,7 +2,15 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-05 00:54
+**最后更新时间**: 2025-07-05 12:19
+
+---
+
+## 🆕 最新更新 (2025-07-05 12:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors traded a record $6.6 trillion worth of stock in the first half of 2025](https://www.marketwatch.com/story/investors-traded-a-record-6-6-trillion-worth-of-stock-in-the-first-half-of-2025-981f9ade?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 12:00
 
 ---
 
