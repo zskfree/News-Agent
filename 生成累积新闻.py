@@ -29,11 +29,13 @@ def main():
     RSS_CONFIG_FILE = os.path.join('RSS feed URL', 'rss_feed_url.json')
     output_dir = "cumulative_news"  # 累积新闻输出目录
     max_articles_per_source = 100000  # 每个源最多获取的文章数量
+    max_summary_reports = 10  # 最多保留的汇总报告数量
     
     print(f"📋 配置信息:")
     print(f"  - RSS配置文件: {RSS_CONFIG_FILE}")
     print(f"  - 输出目录: {output_dir}")
     print(f"  - 每源最大文章数: {max_articles_per_source}")
+    print(f"  - 最大汇总报告数: {max_summary_reports}")
     print()
     
     # 检查RSS配置文件是否存在
@@ -96,7 +98,8 @@ def main():
         results = generate_historical_news_by_categories(
             rss_sources=rss_sources,
             output_dir=output_dir,
-            max_articles_per_source=max_articles_per_source
+            max_articles_per_source=max_articles_per_source,
+            max_summary_reports=max_summary_reports
         )
         
         if not results:

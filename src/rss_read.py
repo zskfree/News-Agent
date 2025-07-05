@@ -759,7 +759,7 @@ def generate_cumulative_markdown_report(new_articles, rss_sources=None, existing
     
     return '\n'.join(md_lines)
 
-def generate_historical_news_by_categories(rss_sources, output_dir="cumulative_news", max_articles_per_source=50):
+def generate_historical_news_by_categories(rss_sources, output_dir="cumulative_news", max_articles_per_source=50, max_summary_reports=10):
     """
     按分类获取历史新闻并追加到累积文档中
     
@@ -767,6 +767,7 @@ def generate_historical_news_by_categories(rss_sources, output_dir="cumulative_n
         rss_sources (list): RSS源配置信息列表
         output_dir (str): 输出目录
         max_articles_per_source (int): 每个源最多获取的文章数量
+        max_summary_reports (int): 最多保留的汇总报告数量，默认10个
         
     返回:
         dict: 每个分类的处理结果
@@ -842,19 +843,74 @@ def generate_historical_news_by_categories(rss_sources, output_dir="cumulative_n
                 "duplicate_count": 0
             }
     
-    # 生成汇总报告
-    generate_cumulative_summary_report(results, output_dir)
+    # 生成汇总报告（包含旧报告清理功能）
+    generate_cumulative_summary_report(results, output_dir, max_summary_reports)
     
     return results
 
-def generate_cumulative_summary_report(results, output_dir):
+def clean_old_summary_reports(output_dir, max_reports=10):
+    """
+    清理旧的汇总报告，只保留最新的指定数量
+    
+    参数:
+        output_dir (str): 输出目录
+        max_reports (int): 最多保留的报告数量，默认10个
+    """
+    try:
+        if not os.path.exists(output_dir):
+            return
+        
+        # 查找所有汇总报告文件
+        summary_files = []
+        for file in os.listdir(output_dir):
+            if file.startswith('cumulative_summary_') and file.endswith('.md'):
+                file_path = os.path.join(output_dir, file)
+                # 提取时间戳用于排序
+                try:
+                    # 文件名格式: cumulative_summary_YYYYMMDD_HHMM.md
+                    timestamp_part = file.replace('cumulative_summary_', '').replace('.md', '')
+                    summary_files.append((file_path, timestamp_part))
+                except:
+                    continue
+        
+        # 如果报告数量不超过限制，无需清理
+        if len(summary_files) <= max_reports:
+            return
+        
+        # 按时间戳排序（最新的在前）
+        summary_files.sort(key=lambda x: x[1], reverse=True)
+        
+        # 删除多余的旧报告
+        files_to_delete = summary_files[max_reports:]
+        deleted_count = 0
+        
+        for file_path, timestamp in files_to_delete:
+            try:
+                os.remove(file_path)
+                deleted_count += 1
+                print(f"  🗑️  删除旧报告: {os.path.basename(file_path)}")
+            except Exception as e:
+                print(f"  ❌ 删除文件失败 {os.path.basename(file_path)}: {e}")
+        
+        if deleted_count > 0:
+            print(f"  ✅ 已清理 {deleted_count} 个旧汇总报告，保留最新 {max_reports} 个")
+        
+    except Exception as e:
+        print(f"  ❌ 清理旧报告时出错: {e}")
+
+def generate_cumulative_summary_report(results, output_dir, max_reports=10):
     """
     生成累积新闻的汇总报告
     
     参数:
         results (dict): 各分类的处理结果
         output_dir (str): 输出目录
+        max_reports (int): 最多保留的汇总报告数量，默认10个
     """
+    # 生成新报告前先清理旧报告
+    print(f"\n🧹 检查汇总报告数量（最多保留 {max_reports} 个）...")
+    clean_old_summary_reports(output_dir, max_reports)
+    
     timestamp = datetime.now().strftime('%Y%m%d_%H%M')
     summary_file = os.path.join(output_dir, f"cumulative_summary_{timestamp}.md")
     
