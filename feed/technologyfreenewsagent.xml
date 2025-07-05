@@ -5,14 +5,46 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Jul 2025 04:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 04:21:31 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 08:14:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 08:14:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2025年上半年全球市场复盘</title>
+      <link>https://www.tmtpost.com/7614884.html</link>
+      <description>&lt;![CDATA[2025年上半年全球市场复盘]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7614884.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>电商生意里，有沃尔玛的好日子和坏日子</title>
+      <link>https://www.tmtpost.com/7616952.html</link>
+      <description>&lt;![CDATA[电商生意里，有沃尔玛的好日子和坏日子]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616952.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>重磅产品G7终上市，小鹏迎来关键之战｜车圈脉动 Vol.2</title>
+      <link>http://www.huxiu.com/article/4540809.html?f=wangzhan</link>
+      <description>&lt;![CDATA[重磅产品G7终上市，小鹏迎来关键之战｜车圈脉动 Vol.2]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4540809.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>特斯拉危机四伏｜车圈脉动 Vol.1</title>
+      <link>http://www.huxiu.com/article/4540227.html?f=wangzhan</link>
+      <description>&lt;![CDATA[特斯拉危机四伏｜车圈脉动 Vol.1]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4540227.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
     <item>
       <title>10万亿产值，8万亿市值，海洋经济的大棋局与大前途</title>
       <link>https://www.tmtpost.com/7616996.html</link>
@@ -379,38 +411,6 @@
       <description>&lt;![CDATA[This is not a tattoo robot]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/robot/697890/tattoo-robot</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable</title>
-      <link>https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks</link>
-      <description>&lt;![CDATA[New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Fairphone 6 gets a 10/10 on repairability</title>
-      <link>https://www.theverge.com/news/698363/fairphone-6-ifixit-teardown-repairability-perfect-score</link>
-      <description>&lt;![CDATA[Fairphone 6 gets a 10/10 on repairability]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/698363/fairphone-6-ifixit-teardown-repairability-perfect-score</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)</title>
-      <link>https://www.wired.com/gallery/the-best-heat-protectants-for-hair/</link>
-      <description>&lt;![CDATA[15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 11:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/the-best-heat-protectants-for-hair/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The 13 Best Fans for the Coolest Summer (2025)</title>
-      <link>https://www.wired.com/gallery/best-fans/</link>
-      <description>&lt;![CDATA[The 13 Best Fans for the Coolest Summer (2025)]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-fans/</guid>
       <category>Technology</category>
     </item>
   </channel>
