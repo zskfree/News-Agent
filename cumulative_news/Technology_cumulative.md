@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-05 13:50
-**最后更新时间**: 2025-07-05 13:50
+**最后更新时间**: 2025-07-05 16:56
+
+---
+
+## 🆕 最新更新 (2025-07-05 16:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [逃离AI叙事陷阱，小鹏G7打的什么算盘？](https://www.tmtpost.com/7617452.html)
+**发布时间**: 2025-07-05 23:40
+
+#### [数字时代宜宾升维：新时期地方政府的招商迭代与现代产业体系构建](https://www.tmtpost.com/7617352.html)
+**发布时间**: 2025-07-05 22:09
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
+**发布时间**: 2025-07-05 15:37
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)
+**发布时间**: 2025-07-05 15:00
 
 ---
 

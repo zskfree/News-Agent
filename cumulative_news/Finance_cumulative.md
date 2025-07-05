@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-05 13:50
-**最后更新时间**: 2025-07-05 13:50
+**最后更新时间**: 2025-07-05 16:56
+
+---
+
+## 🆕 最新更新 (2025-07-05 16:56)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My wife and I are in our late 60s. Do I sell stocks to pay our $30,000 credit-card debt — or do it gradually over 3 years?](https://www.marketwatch.com/story/my-wife-and-i-are-in-our-late-60s-do-i-sell-stocks-to-pay-our-30-000-credit-card-debt-or-do-it-gradually-over-3-years-58b3a0de?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 16:53
+
+#### [How hard is it to beat the market? Even AI can’t do it.](https://www.marketwatch.com/story/how-hard-is-it-to-beat-the-market-consistently-even-ai-cant-do-it-c7df0b68?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 16:40
+
+#### [‘I do all the yard work, cooking and cleaning’: I live with my daughter and her lazy boyfriend. She wants me to buy her house. Do I say yes?](https://www.marketwatch.com/story/there-is-tension-in-the-house-i-live-with-my-daughter-and-her-lazy-boyfriend-she-wants-me-to-buy-her-house-09080e4b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 16:20
+
+#### [‘Today is my 61st birthday’: I have my ex-spouse’s Social Security benefits. Should I retire at 65 and travel?](https://www.marketwatch.com/story/my-marriage-was-abusive-i-have-my-spouses-social-security-should-i-retire-at-65-f5874f67?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 15:48
+
+#### [Why anyone selling a home should be following the ‘Zillow ban’ lawsuit closely right now](https://www.marketwatch.com/story/why-anyone-selling-a-home-should-be-following-the-zillow-ban-lawsuit-closely-right-now-7a464dde?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 15:31
+
+#### [Silver could be the trade of the decade. This is how to play it so you don’t miss out.](https://www.marketwatch.com/story/the-silver-supercycle-golds-partner-could-be-the-trade-of-the-decade-this-is-how-to-play-it-767186ec?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 15:04
+
+#### [There’s a 68% chance that stocks will rise by year-end. Do you feel lucky?](https://www.marketwatch.com/story/theres-a-68-chance-that-stocks-will-rise-by-year-end-would-you-take-those-odds-13378810?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 14:25
+
+#### [Is a master’s degree worth it anymore? These Gen Z grads have seen higher unemployment rates than most.](https://www.marketwatch.com/story/is-a-masters-degree-worth-it-anymore-these-gen-z-grads-have-seen-higher-unemployment-rates-than-most-16ae2e99?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 14:07
 
 ---
 
