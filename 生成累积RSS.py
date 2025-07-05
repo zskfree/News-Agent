@@ -1,64 +1,184 @@
 """
-累积RSS Feed生成器
+累积RSS Feed生成器 - 优化版
 
-该脚本基于累积新闻文档生成RSS Feed，支持增量更新，直接覆盖原有文件并保留认证信息
+该脚本基于累积新闻文档生成RSS Feed，支持增量更新和严格去重
+新增功能：
+1. 基于历史记录的去重机制
+2. 时间窗口控制，避免发布过旧的新闻
+3. 内容指纹识别，防止相似内容重复
+4. 发布历史跟踪，确保每次更新只包含新内容
 """
 
 import os
 import sys
 import re
-from datetime import datetime
+import json
+import hashlib
+from datetime import datetime, timedelta
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
-from urllib.parse import urlparse, parse_qs
-import hashlib
+from urllib.parse import urlparse
+import difflib
 
-def normalize_url(url):
+try:
+    from src.ai_news_filter import NewsQualityFilter
+    AI_FILTER_AVAILABLE = True
+except ImportError:
+    print("⚠️ AI筛选模块不可用，将跳过AI筛选功能")
+    AI_FILTER_AVAILABLE = False
+
+def create_content_fingerprint(title, link, description=""):
     """
-    标准化URL，去除查询参数和锚点，用于去重比较
+    创建内容指纹，用于精确去重
     
     参数:
-        url (str): 原始URL
+        title (str): 文章标题
+        link (str): 文章链接
+        description (str): 文章描述（可选）
         
     返回:
-        str: 标准化后的URL
+        str: 内容指纹
     """
-    try:
-        parsed = urlparse(url)
-        # 移除查询参数和片段
-        normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
-        return normalized.lower().strip()
-    except:
-        return url.lower().strip()
+    # 清理标题：移除特殊字符、标点符号，转换为小写
+    clean_title = re.sub(r'[^\w\s]', '', title.lower()).strip()
+    clean_title = ' '.join(clean_title.split())  # 标准化空格
+    
+    # 清理链接：移除查询参数和片段
+    parsed_url = urlparse(link)
+    clean_link = f"{parsed_url.netloc}{parsed_url.path}".lower()
+    
+    # 生成组合指纹
+    content = f"{clean_title}|{clean_link}|{description[:100]}"
+    return hashlib.sha256(content.encode('utf-8')).hexdigest()
 
-def calculate_title_similarity_hash(title):
+def calculate_title_similarity(title1, title2):
     """
-    计算标题的相似性哈希，用于检测相似标题
+    计算两个标题的相似度
     
     参数:
-        title (str): 新闻标题
+        title1 (str): 标题1
+        title2 (str): 标题2
         
     返回:
-        str: 标题的哈希值
+        float: 相似度 (0-1)
     """
-    # 清理标题：移除标点符号、空格，转换为小写
-    import string
-    cleaned_title = title.lower()
-    # 移除标点符号和特殊字符
-    cleaned_title = ''.join(char for char in cleaned_title if char not in string.punctuation)
-    # 移除多余空格
-    cleaned_title = ' '.join(cleaned_title.split())
+    # 清理和标准化标题
+    def clean_title(title):
+        # 移除标点符号和特殊字符
+        cleaned = re.sub(r'[^\w\s]', ' ', title.lower())
+        # 标准化空格
+        return ' '.join(cleaned.split())
     
-    # 计算MD5哈希
-    return hashlib.md5(cleaned_title.encode('utf-8')).hexdigest()
+    cleaned_title1 = clean_title(title1)
+    cleaned_title2 = clean_title(title2)
+    
+    # 使用difflib计算相似度
+    similarity = difflib.SequenceMatcher(None, cleaned_title1, cleaned_title2).ratio()
+    
+    # 同时检查词汇重叠度
+    words1 = set(cleaned_title1.split())
+    words2 = set(cleaned_title2.split())
+    
+    if words1 and words2:
+        word_overlap = len(words1.intersection(words2)) / len(words1.union(words2))
+        # 取两种方法的最大值
+        similarity = max(similarity, word_overlap)
+    
+    return similarity
 
-def deduplicate_articles(articles, max_articles=50):
+class RSSHistoryManager:
+    """RSS发布历史管理器"""
+    
+    def __init__(self, history_file="rss_history.json"):
+        self.history_file = history_file
+        self.history_data = self.load_history()
+    
+    def load_history(self):
+        """加载历史记录"""
+        if os.path.exists(self.history_file):
+            try:
+                with open(self.history_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except:
+                pass
+        return {"published_articles": {}, "last_update": {}}
+    
+    def save_history(self):
+        """保存历史记录"""
+        try:
+            with open(self.history_file, 'w', encoding='utf-8') as f:
+                json.dump(self.history_data, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"  ⚠️ 保存历史记录失败: {e}")
+    
+    def is_article_published(self, category, fingerprint):
+        """检查文章是否已发布"""
+        category_articles = self.history_data["published_articles"].get(category, {})
+        return fingerprint in category_articles
+    
+    def add_published_article(self, category, fingerprint, article_info):
+        """添加已发布的文章记录"""
+        if category not in self.history_data["published_articles"]:
+            self.history_data["published_articles"][category] = {}
+        
+        self.history_data["published_articles"][category][fingerprint] = {
+            "title": article_info["title"],
+            "link": article_info["link"],
+            "published_date": article_info.get("pub_date", ""),
+            "first_seen": datetime.now().isoformat()
+        }
+    
+    def update_last_update_time(self, category):
+        """更新最后更新时间"""
+        self.history_data["last_update"][category] = datetime.now().isoformat()
+    
+    def get_last_update_time(self, category):
+        """获取最后更新时间"""
+        last_update_str = self.history_data["last_update"].get(category)
+        if last_update_str:
+            try:
+                return datetime.fromisoformat(last_update_str)
+            except:
+                pass
+        return None
+    
+    def cleanup_old_records(self, days=30):
+        """清理过旧的记录"""
+        cutoff_date = datetime.now() - timedelta(days=days)
+        
+        for category in list(self.history_data["published_articles"].keys()):
+            articles = self.history_data["published_articles"][category]
+            
+            # 清理过旧的文章记录
+            articles_to_remove = []
+            for fingerprint, article_info in articles.items():
+                try:
+                    first_seen = datetime.fromisoformat(article_info["first_seen"])
+                    if first_seen < cutoff_date:
+                        articles_to_remove.append(fingerprint)
+                except:
+                    # 如果解析失败，保守起见保留记录
+                    pass
+            
+            for fingerprint in articles_to_remove:
+                del articles[fingerprint]
+            
+            print(f"  🧹 分类 {category}: 清理了 {len(articles_to_remove)} 条过期记录")
+
+def advanced_deduplicate_articles(articles, category, history_manager, 
+                                max_articles=50, similarity_threshold=0.85,
+                                time_window_hours=72, only_new_articles=True):
     """
-    去除重复的新闻文章
+    高级去重功能 - 增量更新模式
     
     参数:
         articles (list): 文章列表
+        category (str): 分类
+        history_manager (RSSHistoryManager): 历史管理器
         max_articles (int): 最大保留文章数
+        similarity_threshold (float): 相似度阈值
+        time_window_hours (int): 时间窗口（小时）
+        only_new_articles (bool): 是否只返回新文章（增量更新模式）
         
     返回:
         list: 去重后的文章列表
@@ -66,81 +186,140 @@ def deduplicate_articles(articles, max_articles=50):
     if not articles:
         return []
     
-    print(f"  🔍 开始去重，原始文章数: {len(articles)}")
+    print(f"  🔍 开始增量去重，原始文章数: {len(articles)}")
+    print(f"  📐 相似度阈值: {similarity_threshold}")
+    print(f"  ⏰ 时间窗口: {time_window_hours} 小时")
+    print(f"  🆕 增量模式: {only_new_articles}")
     
-    seen_urls = set()
-    seen_title_hashes = set()
+    # 获取上次更新时间 - 关键改动
+    last_update_time = history_manager.get_last_update_time(category)
+    
+    # 时间截止点
+    time_cutoff = datetime.now() - timedelta(hours=time_window_hours)
+    
+    # 如果是增量更新模式且有历史更新时间，使用更严格的时间筛选
+    if only_new_articles and last_update_time:
+        # 使用上次更新时间作为截止点，只取更新的文章
+        time_cutoff = max(time_cutoff, last_update_time)
+        print(f"  📅 增量更新：只获取 {last_update_time.strftime('%Y-%m-%d %H:%M')} 之后的文章")
+    
     deduplicated_articles = []
+    seen_fingerprints = set()
+    removed_reasons = {
+        "已发布": 0,
+        "URL重复": 0,
+        "标题相似": 0,
+        "过旧": 0,
+        "超出限制": 0,
+        "早于上次更新": 0  # 新增统计项
+    }
     
     for article in articles:
         title = article.get('title', '').strip()
         link = article.get('link', '').strip()
+        pub_date_str = article.get('pub_date', '')
         
         if not title or not link:
             continue
         
-        # 标准化URL进行比较
-        normalized_url = normalize_url(link)
-        
-        # 计算标题的相似性哈希
-        title_hash = calculate_title_similarity_hash(title)
-        
-        # 检查是否为重复
-        is_duplicate = False
-        
-        # 1. 检查URL重复
-        if normalized_url in seen_urls:
-            is_duplicate = True
-            print(f"    ❌ URL重复: {title[:50]}...")
-        
-        # 2. 检查标题重复（相似度很高的标题）
-        elif title_hash in seen_title_hashes:
-            is_duplicate = True
-            print(f"    ❌ 标题重复: {title[:50]}...")
-        
-        # 3. 检查标题的高度相似性（更严格的检查）
-        else:
-            for existing_article in deduplicated_articles:
-                existing_title = existing_article.get('title', '').strip()
-                
-                # 简单的相似度检查：如果两个标题有80%以上的相同词汇
-                title_words = set(title.lower().split())
-                existing_words = set(existing_title.lower().split())
-                
-                if title_words and existing_words:
-                    intersection = len(title_words.intersection(existing_words))
-                    union = len(title_words.union(existing_words))
-                    similarity = intersection / union if union > 0 else 0
-                    
-                    if similarity > 0.8:  # 80%相似度阈值
-                        is_duplicate = True
-                        print(f"    ❌ 高度相似标题: {title[:50]}...")
+        # 1. 检查发布时间是否在窗口内（增强版）
+        article_too_old = False
+        try:
+            if pub_date_str and pub_date_str != '时间未知':
+                # 尝试解析发布时间
+                for fmt in ['%Y-%m-%d %H:%M', '%a, %d %b %Y %H:%M:%S %Z', 
+                           '%a, %d %b %Y %H:%M:%S GMT', '%Y-%m-%d %H:%M:%S']:
+                    try:
+                        pub_date = datetime.strptime(pub_date_str, fmt)
+                        
+                        # 增量更新模式：检查是否早于上次更新时间
+                        if only_new_articles and last_update_time and pub_date <= last_update_time:
+                            removed_reasons["早于上次更新"] += 1
+                            article_too_old = True
+                            break
+                        
+                        # 常规时间窗口检查
+                        if pub_date < time_cutoff:
+                            removed_reasons["过旧"] += 1
+                            article_too_old = True
+                            break
                         break
+                    except ValueError:
+                        continue
+                else:
+                    # 如果所有格式都失败，在增量模式下跳过
+                    if only_new_articles and last_update_time:
+                        removed_reasons["早于上次更新"] += 1
+                        article_too_old = True
+        except:
+            # 解析失败，在增量模式下保守跳过
+            if only_new_articles and last_update_time:
+                removed_reasons["早于上次更新"] += 1
+                article_too_old = True
         
-        if not is_duplicate:
-            seen_urls.add(normalized_url)
-            seen_title_hashes.add(title_hash)
-            deduplicated_articles.append(article)
+        if article_too_old:
+            continue
+        
+        # 2. 生成内容指纹
+        fingerprint = create_content_fingerprint(title, link, article.get('description', ''))
+        
+        # 3. 检查是否已在历史记录中发布
+        if history_manager.is_article_published(category, fingerprint):
+            removed_reasons["已发布"] += 1
+            continue
+        
+        # 4. 检查当前批次中的重复
+        if fingerprint in seen_fingerprints:
+            removed_reasons["URL重复"] += 1
+            continue
+        
+        # 5. 检查与当前批次中其他文章的相似性
+        is_similar = False
+        for existing_article in deduplicated_articles:
+            existing_title = existing_article.get('title', '')
+            similarity = calculate_title_similarity(title, existing_title)
             
-            # 如果已经达到最大文章数，停止添加
-            if len(deduplicated_articles) >= max_articles:
+            if similarity > similarity_threshold:
+                removed_reasons["标题相似"] += 1
+                print(f"    🔄 相似标题 ({similarity:.2f}): {title[:30]}... ≈ {existing_title[:30]}...")
+                is_similar = True
                 break
+        
+        if is_similar:
+            continue
+        
+        # 6. 检查是否已达到最大文章数
+        if len(deduplicated_articles) >= max_articles:
+            removed_reasons["超出限制"] += 1
+            break
+        
+        # 添加到结果列表
+        seen_fingerprints.add(fingerprint)
+        deduplicated_articles.append(article)
+        
+        # 记录到历史管理器（标记为已发布）
+        history_manager.add_published_article(category, fingerprint, article)
     
-    removed_count = len(articles) - len(deduplicated_articles)
-    print(f"  ✅ 去重完成，移除 {removed_count} 篇重复文章，保留 {len(deduplicated_articles)} 篇")
+    # 输出去重统计
+    total_removed = sum(removed_reasons.values())
+    print(f"  ✅ 增量去重完成，移除 {total_removed} 篇文章，保留 {len(deduplicated_articles)} 篇新文章")
+    for reason, count in removed_reasons.items():
+        if count > 0:
+            print(f"    - {reason}: {count} 篇")
+    
+    # 特别提示
+    if only_new_articles and len(deduplicated_articles) == 0:
+        print(f"  ℹ️ 没有找到新文章，RSS Feed将为空")
+    elif only_new_articles:
+        print(f"  🆕 本次更新将推送 {len(deduplicated_articles)} 篇全新文章")
     
     return deduplicated_articles
 
-def parse_cumulative_markdown(md_file_path, max_recent_articles=20):
+def parse_cumulative_markdown_optimized(md_file_path, category, history_manager, 
+                                       max_recent_articles=50, time_window_hours=72,
+                                       enable_ai_filter=True, ai_filter_count=10):
     """
-    解析累积Markdown文件，提取最近的文章信息，并进行去重
-    
-    参数:
-        md_file_path (str): 累积Markdown文件路径
-        max_recent_articles (int): RSS中包含的最大文章数
-        
-    返回:
-        dict: 包含新闻信息的字典
+    优化版Markdown解析，包含增量更新和AI筛选
     """
     try:
         with open(md_file_path, 'r', encoding='utf-8') as f:
@@ -174,11 +353,10 @@ def parse_cumulative_markdown(md_file_path, max_recent_articles=20):
         info['pub_date'] = datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')
     
     # 设置描述
-    info['description'] = "累积新闻汇总，持续更新的科技资讯"
+    info['description'] = f"{category} 分类最新新闻，增量更新确保内容新鲜"
     
     # 提取文章（提取更多文章以便去重后仍有足够数量）
-    # 为了确保去重后有足够的文章，我们先提取更多的文章
-    extraction_limit = max_recent_articles * 3  # 提取3倍数量用于去重
+    extraction_limit = max_recent_articles * 10  # 增加提取倍数，确保有足够的候选文章
     article_pattern = r'#### \[(.+?)\]\((.+?)\)\s*(?:\*\*发布时间\*\*:\s*(.+?)(?:\n|$))?'
     articles = re.findall(article_pattern, content, re.MULTILINE | re.DOTALL)
     
@@ -215,22 +393,46 @@ def parse_cumulative_markdown(md_file_path, max_recent_articles=20):
             'description': clean_title
         })
     
-    # 进行去重处理
-    info['articles'] = deduplicate_articles(raw_articles, max_recent_articles)
+    # 进行增量去重处理
+    deduplicated_articles = advanced_deduplicate_articles(
+        raw_articles, category, history_manager, 
+        max_recent_articles, time_window_hours=time_window_hours,
+        only_new_articles=True
+    )
+    
+    # 新增：AI筛选步骤
+    if enable_ai_filter and AI_FILTER_AVAILABLE and len(deduplicated_articles) > ai_filter_count:
+        try:
+            print(f"  🤖 启动AI筛选功能...")
+            ai_filter = NewsQualityFilter()
+            filtered_articles = ai_filter.filter_articles(
+                deduplicated_articles, category, ai_filter_count
+            )
+            info['articles'] = filtered_articles
+            
+            # 更新历史记录（只记录筛选后的文章）
+            for article in filtered_articles:
+                fingerprint = create_content_fingerprint(
+                    article['title'], article['link'], article.get('description', '')
+                )
+                history_manager.add_published_article(category, fingerprint, article)
+                
+        except Exception as e:
+            print(f"  ❌ AI筛选失败，使用去重后的文章: {e}")
+            info['articles'] = deduplicated_articles[:ai_filter_count]
+    else:
+        if not enable_ai_filter:
+            print(f"  🔧 AI筛选已禁用")
+        elif not AI_FILTER_AVAILABLE:
+            print(f"  ⚠️ AI筛选模块不可用")
+        else:
+            print(f"  📊 文章数量不足，跳过AI筛选")
+        info['articles'] = deduplicated_articles[:ai_filter_count]
     
     return info
 
 def get_original_rss_filename(category):
-    """
-    根据分类获取原有的RSS文件名
-    
-    参数:
-        category (str): 分类名称
-        
-    返回:
-        str: 原有的RSS文件名
-    """
-    # 定义分类到原有文件名的映射
+    """根据分类获取原有的RSS文件名"""
     category_filename_map = {
         'Finance': 'financefreenewsagent.xml',
         'finance': 'financefreenewsagent.xml',
@@ -241,30 +443,19 @@ def get_original_rss_filename(category):
         '人工智能': 'aifreenewsagent.xml',
     }
     
-    # 首先尝试精确匹配
     if category in category_filename_map:
         return category_filename_map[category]
     
-    # 然后尝试小写匹配
     category_lower = category.lower()
     for key, filename in category_filename_map.items():
         if key.lower() == category_lower:
             return filename
     
-    # 如果没有找到映射，使用默认格式
     safe_category = category.lower().replace(' ', '').replace('_', '').replace('-', '')
     return f"{safe_category}freenewsagent.xml"
 
 def read_existing_rss_metadata(xml_file_path):
-    """
-    读取现有RSS文件的元数据（如follow_challenge等）
-    
-    参数:
-        xml_file_path (str): RSS文件路径
-        
-    返回:
-        dict: 元数据字典
-    """
+    """读取现有RSS文件的元数据"""
     metadata = {}
     
     if not os.path.exists(xml_file_path):
@@ -274,7 +465,6 @@ def read_existing_rss_metadata(xml_file_path):
         with open(xml_file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # 提取follow_challenge信息
         follow_challenge_match = re.search(
             r'<follow_challenge>\s*<feedId>(\d+)</feedId>\s*<userId>([^<]+)</userId>\s*</follow_challenge>',
             content, re.MULTILINE | re.DOTALL
@@ -292,16 +482,7 @@ def read_existing_rss_metadata(xml_file_path):
     return metadata
 
 def get_category_follow_challenge(category):
-    """
-    根据分类获取认证信息
-    
-    参数:
-        category (str): 分类名称
-        
-    返回:
-        dict: 认证信息字典
-    """
-    # 定义分类对应的认证信息
+    """根据分类获取认证信息"""
     follow_challenges = {
         'ai': {
             'feedId': '150782771375663104',
@@ -318,8 +499,6 @@ def get_category_follow_challenge(category):
     }
     
     category_lower = category.lower()
-    
-    # 映射中文名称
     if category_lower in ['人工智能']:
         category_lower = 'ai'
     
@@ -327,35 +506,23 @@ def get_category_follow_challenge(category):
 
 def generate_cumulative_rss_xml(news_info, category, base_url="https://zskksz.asia/News-Agent", 
                                existing_metadata=None):
-    """
-    生成累积RSS XML内容，保持原有的元数据和认证信息
-    
-    参数:
-        news_info (dict): 新闻信息
-        category (str): 分类名称
-        base_url (str): 基础URL
-        existing_metadata (dict): 现有的元数据
-        
-    返回:
-        str: RSS XML字符串
-    """
+    """生成累积RSS XML内容"""
     rss = Element('rss')
     rss.set('version', '2.0')
     rss.set('xmlns:atom', 'http://www.w3.org/2005/Atom')
     
     channel = SubElement(rss, 'channel')
     
-    # 根据分类获取原有文件名
     original_filename = get_original_rss_filename(category)
     
     title = SubElement(channel, 'title')
-    title.text = f"{category} 新闻汇总 - Free News Agent"
+    title.text = f"{category} 新闻汇总 - Free News Agent (增量更新)"
     
     link = SubElement(channel, 'link')
     link.text = f"{base_url}/feed/{original_filename}"
     
     description = SubElement(channel, 'description')
-    description.text = f"{category} 分类的最新新闻汇总，由 Free News Agent 自动生成"
+    description.text = f"{category} 分类的最新新闻汇总，由 Free News Agent 自动生成，严格去重确保内容新鲜"
     
     language = SubElement(channel, 'language')
     language.text = "zh-CN"
@@ -367,9 +534,9 @@ def generate_cumulative_rss_xml(news_info, category, base_url="https://zskksz.as
     last_build_date.text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')
     
     generator = SubElement(channel, 'generator')
-    generator.text = "News Agent RSS Generator"
+    generator.text = "News Agent RSS Generator v2.0 (Optimized)"
     
-    # 添加认证信息 - 优先使用现有的，如果没有则使用默认的
+    # 添加认证信息
     follow_challenge_info = None
     if existing_metadata and 'follow_challenge' in existing_metadata:
         follow_challenge_info = existing_metadata['follow_challenge']
@@ -418,9 +585,7 @@ def generate_cumulative_rss_xml(news_info, category, base_url="https://zskksz.as
     return reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
 
 def get_cumulative_news_files(news_dir="cumulative_news"):
-    """
-    获取累积新闻文件列表
-    """
+    """获取累积新闻文件列表"""
     if not os.path.exists(news_dir):
         print(f"❌ 累积新闻目录不存在: {news_dir}")
         return []
@@ -433,34 +598,44 @@ def get_cumulative_news_files(news_dir="cumulative_news"):
     return news_files
 
 def extract_category_from_cumulative_filename(filename):
-    """
-    从累积文件名中提取分类名称
-    """
+    """从累积文件名中提取分类名称"""
     basename = os.path.basename(filename)
     category = basename.replace('_cumulative.md', '')
     return category
 
 def main():
-    """
-    主函数：生成累积RSS Feed，直接覆盖原有文件并保留认证信息
-    """
+    """主函数：生成增量RSS Feed"""
     print("=" * 60)
-    print("📡 累积RSS Feed生成器 (覆盖原有文件，保留认证)")
+    print("📡 累积RSS Feed生成器 - AI筛选版 v1.0")
     print("=" * 60)
     
     # 配置参数
     news_dir = "cumulative_news"
     feed_dir = "feed"
     base_url = "https://zskksz.asia/News-Agent"
-    max_articles_per_feed = 50  # 每个RSS Feed最多包含的文章数
+    max_articles_per_feed = 50  # 增加候选文章数
+    ai_filter_count = 10  # AI筛选后的目标数量
+    time_window_hours = 48
+    similarity_threshold = 0.85
+    enable_ai_filter = True  # 是否启用AI筛选
     
     print(f"📋 配置信息:")
     print(f"  - 累积新闻目录: {news_dir}")
     print(f"  - Feed输出目录: {feed_dir}")
     print(f"  - 基础URL: {base_url}")
-    print(f"  - 每Feed最大文章数: {max_articles_per_feed}")
-    print(f"  - 模式: 覆盖原有RSS文件并保留认证信息")
+    print(f"  - 候选文章数: {max_articles_per_feed}")
+    print(f"  - AI筛选数量: {ai_filter_count}")
+    print(f"  - 时间窗口: {time_window_hours} 小时")
+    print(f"  - AI筛选: {'启用' if enable_ai_filter else '禁用'}")
+    print(f"  - 模式: 增量更新 + AI筛选优质新闻")
     print()
+    
+    # 初始化历史管理器
+    history_manager = RSSHistoryManager()
+    print("📚 初始化RSS历史管理器...")
+    
+    # 清理过期记录
+    history_manager.cleanup_old_records(days=30)
     
     # 创建feed目录
     if not os.path.exists(feed_dir):
@@ -479,15 +654,29 @@ def main():
     
     success_count = 0
     failed_count = 0
+    total_new_articles = 0
+    categories_with_updates = []
+    categories_no_updates = []
     
     # 为每个分类生成RSS Feed
     for news_file in news_files:
         category = extract_category_from_cumulative_filename(news_file)
         print(f"🔄 处理分类: {category}")
         
+        # 显示上次更新时间
+        last_update = history_manager.get_last_update_time(category)
+        if last_update:
+            print(f"  📅 上次更新: {last_update.strftime('%Y-%m-%d %H:%M:%S')}")
+        else:
+            print(f"  📅 首次运行，将获取所有文章")
+        
         try:
-            # 解析Markdown文件
-            news_info = parse_cumulative_markdown(news_file, max_articles_per_feed)
+            # 使用增量更新+AI筛选解析
+            news_info = parse_cumulative_markdown_optimized(
+                news_file, category, history_manager, 
+                max_articles_per_feed, time_window_hours,
+                enable_ai_filter, ai_filter_count
+            )
             
             if not news_info:
                 print(f"  ❌ 解析失败")
@@ -495,7 +684,19 @@ def main():
                 continue
             
             article_count = len(news_info.get('articles', []))
-            print(f"  📄 解析到 {article_count} 篇文章")
+            total_new_articles += article_count
+            
+            if article_count == 0:
+                print(f"  📄 没有新文章，跳过RSS生成")
+                categories_no_updates.append(category)
+                success_count += 1  # 仍然算作成功，只是没有更新
+                
+                # 更新历史记录时间（即使没有新文章）
+                history_manager.update_last_update_time(category)
+                continue
+            
+            print(f"  📄 包含 {article_count} 篇新文章")
+            categories_with_updates.append((category, article_count))
             
             # 获取原有RSS文件名
             original_filename = get_original_rss_filename(category)
@@ -519,79 +720,53 @@ def main():
             with open(xml_path, 'w', encoding='utf-8') as f:
                 f.write(rss_xml)
             
-            print(f"  ✅ 覆盖更新成功: {original_filename}")
+            # 更新历史记录
+            history_manager.update_last_update_time(category)
+            
+            print(f"  ✅ 更新成功: {original_filename}")
             success_count += 1
             
         except Exception as e:
             print(f"  ❌ 生成失败: {e}")
+            import traceback
+            traceback.print_exc()
             failed_count += 1
+    
+    # 保存历史记录
+    history_manager.save_history()
     
     # 输出统计结果
     print("\n" + "=" * 60)
-    print("📊 生成结果统计:")
+    print("📊 增量更新结果统计:")
     print("=" * 60)
-    print(f"  ✅ 成功更新: {success_count} 个RSS Feed")
-    print(f"  ❌ 更新失败: {failed_count} 个")
-    print(f"  📁 输出目录: {os.path.abspath(feed_dir)}")
-    print(f"  🔄 模式: 直接覆盖原有文件，保留认证信息")
+    print(f"  ✅ 成功处理: {success_count} 个分类")
+    print(f"  ❌ 处理失败: {failed_count} 个分类")
+    print(f"  🆕 新文章总数: {total_new_articles}")
+    print(f"   输出目录: {os.path.abspath(feed_dir)}")
     
-    if success_count > 0:
-        print(f"\n📡 更新的RSS订阅地址 (无需重新订阅):")
-        for news_file in news_files:
-            category = extract_category_from_cumulative_filename(news_file)
+    if categories_with_updates:
+        print(f"\n📡 有更新的分类 ({len(categories_with_updates)} 个):")
+        for category, count in categories_with_updates:
             original_filename = get_original_rss_filename(category)
-            if os.path.exists(os.path.join(feed_dir, original_filename)):
-                print(f"  - {category}: {base_url}/feed/{original_filename}")
+            print(f"  - {category}: {count} 篇新文章 → {base_url}/feed/{original_filename}")
     
-    print(f"\n🎉 RSS Feed更新完成！用户无需重新订阅！")
+    if categories_no_updates:
+        print(f"\n💤 无更新的分类 ({len(categories_no_updates)} 个):")
+        for category in categories_no_updates:
+            print(f"  - {category}: 没有新文章")
+    
+    if total_new_articles > 0:
+        print(f"\n🎉 增量更新完成！用户将只收到 {total_new_articles} 篇全新文章！")
+    else:
+        print(f"\n😴 本次运行没有新文章，RSS Feed保持不变")
+    
     return success_count > 0
 
-def show_help():
-    """
-    显示帮助信息
-    """
-    print("=" * 60)
-    print("📖 累积RSS Feed生成器")
-    print("=" * 60)
-    print()
-    print("功能说明:")
-    print("  - 基于累积新闻文档生成RSS Feed")
-    print("  - 直接覆盖原有的RSS文件，保持URL不变")
-    print("  - 保留原有的认证信息（follow_challenge）")
-    print("  - 支持从现有文件读取或使用默认认证信息")
-    print("  - 用户无需重新订阅RSS源")
-    print()
-    print("文件映射:")
-    print("  - Finance -> financefreenewsagent.xml")
-    print("  - Technology -> technologyfreenewsagent.xml") 
-    print("  - AI -> aifreenewsagent.xml")
-    print("  - 其他分类 -> [分类名]freenewsagent.xml")
-    print()
-    print("认证信息:")
-    print("  - 优先使用现有RSS文件中的认证信息")
-    print("  - 如果没有则使用预定义的默认认证信息")
-    print("  - 确保RSS Feed的所有权验证正常")
-    print()
-    print("输入文件:")
-    print("  - cumulative_news/分类名_cumulative.md")
-    print()
-    print("输出文件:")
-    print("  - feed/原有文件名.xml（直接覆盖）")
-    print()
-    print("使用方法:")
-    print("  python 生成累积RSS.py")
-    print("  python 生成累积RSS.py --help")
-
 if __name__ == "__main__":
-    # 检查命令行参数
-    if len(sys.argv) > 1 and sys.argv[1] in ['--help', '-h', 'help']:
-        show_help()
+    success = main()
+    
+    if success:
+        print("\n🎯 任务完成！")
     else:
-        # 执行主程序
-        success = main()
-        
-        if success:
-            print("\n🎯 任务完成！")
-        else:
-            print("\n💥 任务失败！")
-            sys.exit(1)
+        print("\n💥 任务失败！")
+        sys.exit(1)

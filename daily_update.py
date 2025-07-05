@@ -173,6 +173,13 @@ def check_environment():
     print(f"   系统编码: {system_encoding}")
     print(f"   默认编码: {sys.getdefaultencoding()}")
     print(f"   文件系统编码: {sys.getfilesystemencoding()}")
+
+    # 检查AI相关环境变量
+    gemini_api_key = os.getenv('GEMINI_API_KEY')
+    if gemini_api_key:
+        print(f"   🤖 Gemini API Key: 已配置 (...{gemini_api_key[-4:]})")
+    else:
+        print(f"   ⚠️ Gemini API Key: 未配置，将使用默认密钥")
     
     # 检查是否在GitHub Actions中运行
     is_github_actions = os.getenv('GITHUB_ACTIONS') == 'true'
@@ -265,6 +272,7 @@ RSS_LINKS_PLACEHOLDER
         <li>包含累积的历史新闻</li>
         <li>支持各大RSS阅读器</li>
         <li>新闻来源多样化，内容持续更新</li>
+        <li>添加Gemini支持，增强优质新闻筛选能力</li>
         <li>Github项目主页: <a href="https://github.com/zskfree/News-Agent" target="_blank">https://github.com/zskfree/News-Agent</a></li>
     </ul>
     
@@ -327,7 +335,7 @@ def main():
     """
     start_time = datetime.now()
     print("=" * 60)
-    print("🕐 每日新闻更新流程开始")
+    print("🕐 每日新闻更新流程开始 - 优化版")
     print("=" * 60)
     print(f"开始时间: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
     
@@ -347,10 +355,21 @@ def main():
     if run_script_with_fallback("生成累积新闻.py", "更新累积新闻"):
         success_count += 1
     
-    # 步骤2: 生成累积RSS Feed
-    print(f"\n📡 步骤2/{total_tasks}: 生成累积RSS Feed")
-    if run_script_with_fallback("生成累积RSS.py", "生成累积RSS Feed"):
-        success_count += 1
+    # 步骤2: 生成优化版累积RSS Feed
+    print(f"\n📡 步骤2/{total_tasks}: 生成优化版累积RSS Feed")
+    # 首先尝试使用优化版脚本
+    if os.path.exists("生成累积RSS_优化版.py"):
+        if run_script_with_fallback("生成累积RSS_优化版.py", "生成优化版累积RSS Feed"):
+            success_count += 1
+        else:
+            # 如果优化版失败，回退到原版本
+            print("⚠️ 优化版失败，尝试使用原版本...")
+            if run_script_with_fallback("生成累积RSS.py", "生成累积RSS Feed"):
+                success_count += 1
+    else:
+        # 如果没有优化版，使用原版本
+        if run_script_with_fallback("生成累积RSS.py", "生成累积RSS Feed"):
+            success_count += 1
     
     # 重新生成index.html以包含最新的RSS文件信息
     if success_count > 0:
