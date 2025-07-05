@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>AI 新闻汇总 - Free News Agent (增量更新)</title>
+    <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
+    <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，严格去重确保内容新鲜</description>
+    <language>zh-CN</language>
+    <pubDate>Sat, 05 Jul 2025 16:59:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 16:59:45 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
+    <follow_challenge>
+      <feedId>150782771375663104</feedId>
+      <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
+    </follow_challenge>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MIT自主科学发现系统SPARKS：已独立发现两条全新蛋白质设计法则</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-7</link>
+      <description>&lt;![CDATA[MIT自主科学发现系统SPARKS：已独立发现两条全新蛋白质设计法则]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 多智能体的ChatGPT时刻？上交MAS-GPT实现工作流一键生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05</link>
+      <description>&lt;![CDATA[ICML 2025 | 多智能体的ChatGPT时刻？上交MAS-GPT实现工作流一键生成]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Agent RL和智能体自我进化的关键一步: TaskCraft实现复杂智能体任务的自动生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-3</link>
+      <description>&lt;![CDATA[Agent RL和智能体自我进化的关键一步: TaskCraft实现复杂智能体任务的自动生成]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-5</link>
+      <description>&lt;![CDATA[从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>14%论文都有AI代写？Nature：每7篇就有1篇藏有ChatGPT特征词</title>
+      <link>https://www.qbitai.com/2025/07/304763.html</link>
+      <description>&lt;![CDATA[14%论文都有AI代写？Nature：每7篇就有1篇藏有ChatGPT特征词]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304763.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Test Time Scaling Law远未达到上限! o4-mini仅15.8%通过率，华为诺亚提出代码HLCE终极基准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-4</link>
+      <description>&lt;![CDATA[Test Time Scaling Law远未达到上限! o4-mini仅15.8%通过率，华为诺亚提出代码HLCE终极基准]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个GUI多模态大模型智能体可信评测框架+基准：MLA-Trust</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04</link>
+      <description>&lt;![CDATA[首个GUI多模态大模型智能体可信评测框架+基准：MLA-Trust]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>硅谷的企业级AI正在这样赚钱｜2025人工智能现状报告</title>
+      <link>https://www.qbitai.com/2025/07/304838.html</link>
+      <description>&lt;![CDATA[硅谷的企业级AI正在这样赚钱｜2025人工智能现状报告]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304838.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI可以构建虚拟细胞吗？科学家正在为生命的最小单位建模</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-03-33</link>
+      <description>&lt;![CDATA[AI可以构建虚拟细胞吗？科学家正在为生命的最小单位建模]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-03-33</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Inside India’s scramble for AI independence</title>
+      <link>https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/</link>
+      <description>&lt;![CDATA[Inside India’s scramble for AI independence]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/</guid>
+      <category>AI</category>
+    </item>
+  </channel>
+</rss>
