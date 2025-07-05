@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>AI 新闻汇总 - Free News Agent</title>
+    <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
+    <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
+    <language>zh-CN</language>
+    <pubDate>Sat, 05 Jul 2025 12:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 12:19:42 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator</generator>
+    <follow_challenge>
+      <feedId>150782771375663104</feedId>
+      <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
+    </follow_challenge>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-5</link>
+      <description>&lt;![CDATA[从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Test Time Scaling Law远未达到上限! o4-mini仅15.8%通过率，华为诺亚提出代码HLCE终极基准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-4</link>
+      <description>&lt;![CDATA[Test Time Scaling Law远未达到上限! o4-mini仅15.8%通过率，华为诺亚提出代码HLCE终极基准]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，Grok4跑分曝光：「人类最后考试」拿下45%，是Gemini 2.5两倍，但网友不信</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-3</link>
+      <description>&lt;![CDATA[刚刚，Grok4跑分曝光：「人类最后考试」拿下45%，是Gemini 2.5两倍，但网友不信]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICCV 2025｜降低扩散模型中的时空冗余，上交大EEdit实现免训练图像编辑加速</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05-2</link>
+      <description>&lt;![CDATA[ICCV 2025｜降低扩散模型中的时空冗余，上交大EEdit实现免训练图像编辑加速]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICML 2025 | 多智能体的ChatGPT时刻？上交MAS-GPT实现工作流一键生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-05</link>
+      <description>&lt;![CDATA[ICML 2025 | 多智能体的ChatGPT时刻？上交MAS-GPT实现工作流一键生成]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-05</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>数学题干带猫AI就不会了！错误率翻300%，DeepSeek、o1都不能幸免</title>
+      <link>https://www.qbitai.com/2025/07/305058.html</link>
+      <description>&lt;![CDATA[数学题干带猫AI就不会了！错误率翻300%，DeepSeek、o1都不能幸免]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305058.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Robotic probe quickly measures key properties of new materials</title>
+      <link>https://news.mit.edu/2025/robotic-probe-quickly-measures-key-properties-new-materials-0704</link>
+      <description>&lt;![CDATA[Robotic probe quickly measures key properties of new materials]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/robotic-probe-quickly-measures-key-properties-new-materials-0704</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>野生DeepSeek火了，速度碾压官方版，权重开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-10</link>
+      <description>&lt;![CDATA[野生DeepSeek火了，速度碾压官方版，权重开源]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>以玩促学？游戏代码驱动数据合成，提升多模态大模型通用推理</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-9</link>
+      <description>&lt;![CDATA[以玩促学？游戏代码驱动数据合成，提升多模态大模型通用推理]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>告别盲选LLM！ICML 2025新研究解释大模型选择的「玄学」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-8</link>
+      <description>&lt;![CDATA[告别盲选LLM！ICML 2025新研究解释大模型选择的「玄学」]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT自主科学发现系统SPARKS：已独立发现两条全新蛋白质设计法则</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-7</link>
+      <description>&lt;![CDATA[MIT自主科学发现系统SPARKS：已独立发现两条全新蛋白质设计法则]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: India’s AI independence, and predicting future epidemics</title>
+      <link>https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/</link>
+      <description>&lt;![CDATA[The Download: India’s AI independence, and predicting future epidemics]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Inside India’s scramble for AI independence</title>
+      <link>https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/</link>
+      <description>&lt;![CDATA[Inside India’s scramble for AI independence]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>硅谷的企业级AI正在这样赚钱｜2025人工智能现状报告</title>
+      <link>https://www.qbitai.com/2025/07/304838.html</link>
+      <description>&lt;![CDATA[硅谷的企业级AI正在这样赚钱｜2025人工智能现状报告]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304838.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>物理学家靠生物揭开AI创造力来源：起因竟是“技术缺陷”</title>
+      <link>https://www.qbitai.com/2025/07/304804.html</link>
+      <description>&lt;![CDATA[物理学家靠生物揭开AI创造力来源：起因竟是“技术缺陷”]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304804.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>14%论文都有AI代写？Nature：每7篇就有1篇藏有ChatGPT特征词</title>
+      <link>https://www.qbitai.com/2025/07/304763.html</link>
+      <description>&lt;![CDATA[14%论文都有AI代写？Nature：每7篇就有1篇藏有ChatGPT特征词]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304763.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>智能体商业化打通最后一公里，腾讯元器宣布接入微信支付MCP</title>
+      <link>https://www.qbitai.com/2025/07/304752.html</link>
+      <description>&lt;![CDATA[智能体商业化打通最后一公里，腾讯元器宣布接入微信支付MCP]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304752.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek降本秘诀曝光：2招极致压榨推理部署，算力全留给内部</title>
+      <link>https://www.qbitai.com/2025/07/304735.html</link>
+      <description>&lt;![CDATA[DeepSeek降本秘诀曝光：2招极致压榨推理部署，算力全留给内部]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304735.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACL 2025 | 大模型教你做实验！上海交大提出化学实验指令生成模型ChemActor</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-6</link>
+      <description>&lt;![CDATA[ACL 2025 | 大模型教你做实验！上海交大提出化学实验指令生成模型ChemActor]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>极致AI科技与满配舒适兼得，跨时代的AI汽车小鹏G7正式上市</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-03-17</link>
+      <description>&lt;![CDATA[极致AI科技与满配舒适兼得，跨时代的AI汽车小鹏G7正式上市]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-03-17</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达加冕历史第一股！老黄最新身家1388亿美元</title>
+      <link>https://www.qbitai.com/2025/07/304694.html</link>
+      <description>&lt;![CDATA[英伟达加冕历史第一股！老黄最新身家1388亿美元]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 06:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304694.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百万年薪遍地走，Meta薪资接连曝光！AI人才身价水涨船高ing</title>
+      <link>https://www.qbitai.com/2025/07/304456.html</link>
+      <description>&lt;![CDATA[百万年薪遍地走，Meta薪资接连曝光！AI人才身价水涨船高ing]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304456.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>人机协同筛出2600万条数据，七项基准全部SOTA，昆仑万维开源奖励模型再迎新突破</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-5</link>
+      <description>&lt;![CDATA[人机协同筛出2600万条数据，七项基准全部SOTA，昆仑万维开源奖励模型再迎新突破]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10分钟搞定Excel世锦赛难题！首个超越人类Excel Agent，网友：想给它磕一个</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-4</link>
+      <description>&lt;![CDATA[10分钟搞定Excel世锦赛难题！首个超越人类Excel Agent，网友：想给它磕一个]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Agent RL和智能体自我进化的关键一步: TaskCraft实现复杂智能体任务的自动生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-3</link>
+      <description>&lt;![CDATA[Agent RL和智能体自我进化的关键一步: TaskCraft实现复杂智能体任务的自动生成]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，Ilya Sutskever宣布自任CEO：联创被Meta挖走了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04-2</link>
+      <description>&lt;![CDATA[刚刚，Ilya Sutskever宣布自任CEO：联创被Meta挖走了]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个GUI多模态大模型智能体可信评测框架+基准：MLA-Trust</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-04</link>
+      <description>&lt;![CDATA[首个GUI多模态大模型智能体可信评测框架+基准：MLA-Trust]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-04</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI可以构建虚拟细胞吗？科学家正在为生命的最小单位建模</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-03-33</link>
+      <description>&lt;![CDATA[AI可以构建虚拟细胞吗？科学家正在为生命的最小单位建模]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-03-33</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>科学家Ilya不想当CEO，都是扎克伯格逼的</title>
+      <link>https://www.qbitai.com/2025/07/304441.html</link>
+      <description>&lt;![CDATA[科学家Ilya不想当CEO，都是扎克伯格逼的]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 02:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/304441.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>STELLA: Self-Evolving LLM Agent for Biomedical Research</title>
+      <link>https://arxiv.org/abs/2507.02004</link>
+      <description>&lt;![CDATA[STELLA: Self-Evolving LLM Agent for Biomedical Research]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02004</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>HCVR: A Hybrid Approach with Correlation-aware Voting Rules for Feature Selection</title>
+      <link>https://arxiv.org/abs/2507.02073</link>
+      <description>&lt;![CDATA[HCVR: A Hybrid Approach with Correlation-aware Voting Rules for Feature Selection]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02073</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs</title>
+      <link>https://arxiv.org/abs/2507.02076</link>
+      <description>&lt;![CDATA[Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02076</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Measuring Scientific Capabilities of Language Models with a Systems Biology Dry Lab</title>
+      <link>https://arxiv.org/abs/2507.02083</link>
+      <description>&lt;![CDATA[Measuring Scientific Capabilities of Language Models with a Systems Biology Dry Lab]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02083</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>What Neuroscience Can Teach AI About Learning in Continuously Changing Environments</title>
+      <link>https://arxiv.org/abs/2507.02103</link>
+      <description>&lt;![CDATA[What Neuroscience Can Teach AI About Learning in Continuously Changing Environments]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02103</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Illusion of Fairness: Auditing Fairness Interventions with Audit Studies</title>
+      <link>https://arxiv.org/abs/2507.02152</link>
+      <description>&lt;![CDATA[The Illusion of Fairness: Auditing Fairness Interventions with Audit Studies]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02152</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Data Diversification Methods In Alignment Enhance Math Performance In LLMs</title>
+      <link>https://arxiv.org/abs/2507.02173</link>
+      <description>&lt;![CDATA[Data Diversification Methods In Alignment Enhance Math Performance In LLMs]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02173</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust</title>
+      <link>https://arxiv.org/abs/2507.02197</link>
+      <description>&lt;![CDATA[Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02197</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2507.02211</link>
+      <description>&lt;![CDATA[Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02211</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation</title>
+      <link>https://arxiv.org/abs/2507.02253</link>
+      <description>&lt;![CDATA[Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02253</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Iterated belief revision: from postulates to abilities</title>
+      <link>https://arxiv.org/abs/2507.02319</link>
+      <description>&lt;![CDATA[Iterated belief revision: from postulates to abilities]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02319</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent</title>
+      <link>https://arxiv.org/abs/2507.02353</link>
+      <description>&lt;![CDATA[OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02353</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>An AI-native experimental laboratory for autonomous biomolecular engineering</title>
+      <link>https://arxiv.org/abs/2507.02379</link>
+      <description>&lt;![CDATA[An AI-native experimental laboratory for autonomous biomolecular engineering]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02379</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning</title>
+      <link>https://arxiv.org/abs/2507.02442</link>
+      <description>&lt;![CDATA[The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02442</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Clarifying Before Reasoning: A Coq Prover with Structural Context</title>
+      <link>https://arxiv.org/abs/2507.02541</link>
+      <description>&lt;![CDATA[Clarifying Before Reasoning: A Coq Prover with Structural Context]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02541</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench</title>
+      <link>https://arxiv.org/abs/2507.02554</link>
+      <description>&lt;![CDATA[AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02554</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Responsibility Gap and Diffusion in Sequential Decision-Making Mechanisms</title>
+      <link>https://arxiv.org/abs/2507.02582</link>
+      <description>&lt;![CDATA[Responsibility Gap and Diffusion in Sequential Decision-Making Mechanisms]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02582</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making</title>
+      <link>https://arxiv.org/abs/2507.02616</link>
+      <description>&lt;![CDATA[DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02616</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory</title>
+      <link>https://arxiv.org/abs/2507.02618</link>
+      <description>&lt;![CDATA[Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02618</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search</title>
+      <link>https://arxiv.org/abs/2507.02652</link>
+      <description>&lt;![CDATA[Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02652</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design &amp; Verification</title>
+      <link>https://arxiv.org/abs/2507.02660</link>
+      <description>&lt;![CDATA[Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design &amp; Verification]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02660</guid>
+      <category>AI</category>
+    </item>
+  </channel>
+</rss>
