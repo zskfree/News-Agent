@@ -5,14 +5,30 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 12:21:57 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 00:54:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:54:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Now that the megabill has passed, expect a ton of short-term debt to be sold to finance the government’s deficit</title>
+      <link>https://www.marketwatch.com/story/now-that-the-megabill-has-passed-expect-a-ton-of-short-term-treasury-bills-to-be-auctioned-to-finance-the-governments-deficit-900681f3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Now that the megabill has passed, expect a ton of short-term debt to be sold to finance the government’s deficit]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 23:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/now-that-the-megabill-has-passed-expect-a-ton-of-short-term-treasury-bills-to-be-auctioned-to-finance-the-governments-deficit-900681f3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tax breaks and spending cuts: Here are the winners and losers in Trump’s big bill</title>
+      <link>https://www.marketwatch.com/story/trumps-big-bill-just-passed-the-house-here-are-the-winners-and-losers-as-it-goes-to-his-desk-f1f8ea47?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Tax breaks and spending cuts: Here are the winners and losers in Trump’s big bill]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 23:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trumps-big-bill-just-passed-the-house-here-are-the-winners-and-losers-as-it-goes-to-his-desk-f1f8ea47?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
     <item>
       <title>Defense stock surge triggers one of the hottest ETF launches in European history</title>
       <link>https://www.marketwatch.com/story/defense-stock-surge-triggers-one-of-the-hottest-etf-launches-in-european-history-23aff504?mod=mw_rss_topstories</link>
@@ -395,22 +411,6 @@
       <description>&lt;![CDATA[Gold’s momentum is fading — and a pullback is coming, says HSBC analyst]]&gt;</description>
       <pubDate>Tue, 01 Jul 2025 12:12:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/golds-momentum-is-fading-and-a-pullback-is-coming-says-hsbc-analyst-585418f3?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why oil demand may outpace supply, despite best efforts from OPEC+</title>
-      <link>https://www.marketwatch.com/story/why-oil-demand-may-outpace-supply-despite-best-efforts-from-opec-67e09e18?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why oil demand may outpace supply, despite best efforts from OPEC+]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-oil-demand-may-outpace-supply-despite-best-efforts-from-opec-67e09e18?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Goldman Sachs now sees the next Fed rate cut coming months earlier</title>
-      <link>https://www.marketwatch.com/story/goldman-sachs-now-sees-the-next-fed-rate-cut-coming-months-earlier-6c2a6c72?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Goldman Sachs now sees the next Fed rate cut coming months earlier]]&gt;</description>
-      <pubDate>Tue, 01 Jul 2025 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/goldman-sachs-now-sees-the-next-fed-rate-cut-coming-months-earlier-6c2a6c72?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

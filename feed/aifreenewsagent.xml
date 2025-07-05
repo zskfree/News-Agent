@@ -5,14 +5,22 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Jul 2025 12:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Jul 2025 12:21:57 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 00:54:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:54:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
       <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Robotic probe quickly measures key properties of new materials</title>
+      <link>https://news.mit.edu/2025/robotic-probe-quickly-measures-key-properties-new-materials-0704</link>
+      <description>&lt;![CDATA[Robotic probe quickly measures key properties of new materials]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/robotic-probe-quickly-measures-key-properties-new-materials-0704</guid>
+      <category>AI</category>
+    </item>
     <item>
       <title>野生DeepSeek火了，速度碾压官方版，权重开源</title>
       <link>https://www.jiqizhixin.com/articles/2025-07-04-10</link>
@@ -403,14 +411,6 @@
       <description>&lt;![CDATA[Grounding Intelligence in Movement]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.02771</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs</title>
-      <link>https://arxiv.org/abs/2507.02773</link>
-      <description>&lt;![CDATA[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02773</guid>
       <category>AI</category>
     </item>
   </channel>

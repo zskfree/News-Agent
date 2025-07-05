@@ -2,7 +2,18 @@
 
 **首次创建时间**: 2025-05-29 04:20
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-04 12:21
+**最后更新时间**: 2025-07-05 00:54
+
+---
+
+## 🆕 最新更新 (2025-07-05 00:54)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Now that the megabill has passed, expect a ton of short-term debt to be sold to finance the government’s deficit](https://www.marketwatch.com/story/now-that-the-megabill-has-passed-expect-a-ton-of-short-term-treasury-bills-to-be-auctioned-to-finance-the-governments-deficit-900681f3?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 23:43
+
+#### [Tax breaks and spending cuts: Here are the winners and losers in Trump’s big bill](https://www.marketwatch.com/story/trumps-big-bill-just-passed-the-house-here-are-the-winners-and-losers-as-it-goes-to-his-desk-f1f8ea47?mod=mw_rss_topstories)
+**发布时间**: 2025-07-04 23:36
 
 ---
 

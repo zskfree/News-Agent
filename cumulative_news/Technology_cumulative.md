@@ -2,7 +2,70 @@
 
 **首次创建时间**: 2025-05-29 11:22
 <<<<<<< HEAD
-**最后更新时间**: 2025-07-04 12:21
+**最后更新时间**: 2025-07-05 00:54
+
+---
+
+## 🆕 最新更新 (2025-07-05 00:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China Narrows AI Talent Gap With U.S. as Research Enters Engineering Phase: Report](https://www.tmtpost.com/7616647.html)
+**发布时间**: 2025-07-05 16:30
+
+#### [“AI搜索功能很强大，但我也不想用了”](https://www.tmtpost.com/7617041.html)
+**发布时间**: 2025-07-05 08:00
+
+#### [财富趋势实控人拟高位套现8.6亿：业绩“失速”、C端“躺平”，股东用脚投票](https://www.tmtpost.com/7617035.html)
+**发布时间**: 2025-07-04 23:00
+
+#### [瑞幸纽约双店齐开；星聚会海外首店于日本东京涩谷开业；安井食品今日港股上市；宝尊收购SweatyBetty中国业务｜消研所周报](https://www.tmtpost.com/7616617.html)
+**发布时间**: 2025-07-04 20:46
+
+#### [瑞幸咖啡纽约推1.99美元促销；新加坡受理字节跳动食物中毒案；爱奇艺开印尼站｜一周大公司出海动态](https://www.tmtpost.com/7616951.html)
+**发布时间**: 2025-07-04 20:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [李飞飞曝创业招人标准！带出AI 大牛学生经验总结，堆算力能解决的博士不要做](https://www.infoq.cn/article/FI7ryJGQIkOk0L1W6BvH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-05 07:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [首销破三万台，「卖爆」的小米眼镜给行业带来了什么？](http://www.geekpark.net/news/351223)
+**发布时间**: 2025-07-04 23:35
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Cyberpunk Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
+**发布时间**: 2025-07-04 23:11
+
+#### [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff)
+**发布时间**: 2025-07-04 15:23
+
+#### [The Ploopy Knob is an open-source control dial for your PC](https://www.theverge.com/news/698443/ploopy-knob-dial-peripheral-controller-open-source-qmk)
+**发布时间**: 2025-07-04 14:24
+
+#### [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+**发布时间**: 2025-07-04 14:00
+
+#### [The American system of democracy has crashed](https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4)
+**发布时间**: 2025-07-04 13:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [充电宝的召回这事儿，不该全凭良心](http://www.huxiu.com/article/4540433.html?f=wangzhan)
+**发布时间**: 2025-07-04 20:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
+**发布时间**: 2025-07-04 14:28
+
+#### [How to Choose the Right Soundbar (2025): Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+**发布时间**: 2025-07-04 14:03
+
+#### [15 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+**发布时间**: 2025-07-04 13:30
 
 ---
 
