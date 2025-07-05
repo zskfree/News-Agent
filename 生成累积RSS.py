@@ -516,13 +516,13 @@ def generate_cumulative_rss_xml(news_info, category, base_url="https://zskksz.as
     original_filename = get_original_rss_filename(category)
     
     title = SubElement(channel, 'title')
-    title.text = f"{category} 新闻汇总 - Free News Agent (增量更新)"
+    title.text = f"{category} 新闻汇总 - Free News Agent"
     
     link = SubElement(channel, 'link')
     link.text = f"{base_url}/feed/{original_filename}"
     
     description = SubElement(channel, 'description')
-    description.text = f"{category} 分类的最新新闻汇总，由 Free News Agent 自动生成，严格去重确保内容新鲜"
+    description.text = f"{category} 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。"
     
     language = SubElement(channel, 'language')
     language.text = "zh-CN"
