@@ -108,14 +108,11 @@ class NewsQualityFilter:
                     # 第一次尝试使用完整配置
                     response = self.client.models.generate_content(
                         model=self.model,
-                        contents=types.Part.from_text(text=prompt),
+                        contents=prompt,
                         config=types.GenerateContentConfig(
                             system_instruction=f'你是一个专业的{category}领域新闻编辑，擅长识别和筛选高质量、有价值的新闻内容。请严格按照JSON格式返回结果。',
                             temperature=0.1,
-                            top_p=0.8,
-                            top_k=10,
-                            candidate_count=1,
-                            max_output_tokens=1000,
+
                         ),
                     )
                 else:
