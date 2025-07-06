@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Jul 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Jul 2025 08:25:41 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Jul 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Jul 2025 23:20:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>投资问道：写给融资者的深度剖析</title>
-      <link>https://www.tmtpost.com/7617385.html</link>
-      <description>&lt;![CDATA[投资问道：写给融资者的深度剖析]]&gt;</description>
-      <pubDate>Sun, 06 Jul 2025 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7617385.html</guid>
+      <title>亚马逊机器人数量接近人类员工，机器人时代我们该咋办？</title>
+      <link>https://www.tmtpost.com/7617637.html</link>
+      <description>&lt;![CDATA[亚马逊机器人数量接近人类员工，机器人时代我们该咋办？]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617637.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上半年综艺市场有“七大信号”值得揣摩</title>
-      <link>https://www.tmtpost.com/7617435.html</link>
-      <description>&lt;![CDATA[上半年综艺市场有“七大信号”值得揣摩]]&gt;</description>
-      <pubDate>Sun, 06 Jul 2025 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7617435.html</guid>
+      <title>AI颠覆广告利润池</title>
+      <link>https://www.tmtpost.com/7617622.html</link>
+      <description>&lt;![CDATA[AI颠覆广告利润池]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617622.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>星巴克中国急需最强外脑</title>
-      <link>https://www.tmtpost.com/7617458.html</link>
-      <description>&lt;![CDATA[星巴克中国急需最强外脑]]&gt;</description>
-      <pubDate>Sun, 06 Jul 2025 13:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7617458.html</guid>
+      <title>TikTok’s ‘ban’ problem could end soon with a new app and a sale</title>
+      <link>https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle</link>
+      <description>&lt;![CDATA[TikTok’s ‘ban’ problem could end soon with a new app and a sale]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime</title>
-      <link>https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/</link>
-      <description>&lt;![CDATA[How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime]]&gt;</description>
-      <pubDate>Sun, 06 Jul 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/</guid>
+      <title>一场突如其来的“召回潮”，点燃中国制造的“灵魂拷问”</title>
+      <link>https://www.tmtpost.com/7617528.html</link>
+      <description>&lt;![CDATA[一场突如其来的“召回潮”，点燃中国制造的“灵魂拷问”]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 20:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617528.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Lenovo Chromebook Plus 14 review: the new king of Chromebooks</title>
+      <link>https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review</link>
+      <description>&lt;![CDATA[Lenovo Chromebook Plus 14 review: the new king of Chromebooks]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>How to Use Voice Typing on Your Phone</title>
+      <link>https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/</link>
+      <description>&lt;![CDATA[How to Use Voice Typing on Your Phone]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>笃行致远·科产创融实践之旅——上市公司系列活动（首场）暨提升北京上市公司质量—价值管理与并购重组研讨会成功举办</title>
+      <link>https://www.tmtpost.com/7617711.html</link>
+      <description>&lt;![CDATA[笃行致远·科产创融实践之旅——上市公司系列活动（首场）暨提升北京上市公司质量—价值管理与并购重组研讨会成功举办]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617711.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All</title>
+      <link>https://www.wired.com/gallery/best-tv-antennas/</link>
+      <description>&lt;![CDATA[Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/gallery/best-tv-antennas/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>12 Best Kids Headphones (2025), Hearing Protection and More</title>
+      <link>https://www.wired.com/gallery/the-best-kids-headphones/</link>
+      <description>&lt;![CDATA[12 Best Kids Headphones (2025), Hearing Protection and More]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/gallery/the-best-kids-headphones/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>How to watch Summer Games Done Quick 2025</title>
+      <link>https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch</link>
+      <description>&lt;![CDATA[How to watch Summer Games Done Quick 2025]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch</guid>
       <category>Technology</category>
     </item>
   </channel>

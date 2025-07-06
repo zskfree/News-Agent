@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-06 08:25
+**最后更新时间**: 2025-07-06 23:19
+
+---
+
+## 🆕 最新更新 (2025-07-06 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一场突如其来的“召回潮”，点燃中国制造的“灵魂拷问”](https://www.tmtpost.com/7617528.html)
+**发布时间**: 2025-07-06 20:28
+
+#### [1315亿加冕潮汕女首富，“最强打工妹”剑指港股](https://www.tmtpost.com/7617598.html)
+**发布时间**: 2025-07-06 17:14
+
+#### [用14346字，讲透上市前必做的100 件事](https://www.tmtpost.com/7617689.html)
+**发布时间**: 2025-07-06 17:14
+
+#### [亚马逊机器人数量接近人类员工，机器人时代我们该咋办？](https://www.tmtpost.com/7617637.html)
+**发布时间**: 2025-07-06 17:14
+
+#### [AI颠覆广告利润池](https://www.tmtpost.com/7617622.html)
+**发布时间**: 2025-07-06 17:14
+
+#### [别让老年大学，成了银发族的“落榜志愿”](https://www.tmtpost.com/7617642.html)
+**发布时间**: 2025-07-06 17:14
+
+#### [笃行致远·科产创融实践之旅——上市公司系列活动（首场）暨提升北京上市公司质量—价值管理与并购重组研讨会成功举办](https://www.tmtpost.com/7617711.html)
+**发布时间**: 2025-07-06 17:14
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
+**发布时间**: 2025-07-06 18:34
+
+#### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+**发布时间**: 2025-07-06 16:22
+
+#### [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
+**发布时间**: 2025-07-06 16:00
+
+#### [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
+**发布时间**: 2025-07-06 13:00
+
+#### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
+**发布时间**: 2025-07-06 12:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一张照片四五百，撕拉片为什么成了年轻人的自拍盲盒？](http://www.huxiu.com/article/4538245.html?f=wangzhan)
+**发布时间**: 2025-07-06 17:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
+**发布时间**: 2025-07-06 13:03
+
+#### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+**发布时间**: 2025-07-06 12:02
+
+#### [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
+**发布时间**: 2025-07-06 10:00
 
 ---
 

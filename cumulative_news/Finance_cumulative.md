@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-06 04:20
+**最后更新时间**: 2025-07-06 23:19
+
+---
+
+## 🆕 最新更新 (2025-07-06 23:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices fall as OPEC+ ramps up production; U.S. stock futures decline as tariffs to go into effect Aug. 1](https://www.marketwatch.com/story/opec-to-boost-oil-production-even-more-than-expected-in-august-3fc8ba6f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 23:05
+
+#### [The stock-market rally is broadening beyond Big Tech. Will consumer stocks bounce back in the second half of the year?](https://www.marketwatch.com/story/the-stock-market-rally-is-broadening-beyond-big-tech-will-consumer-stocks-bounce-back-in-the-second-half-of-the-year-2101ea92?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 21:14
+
+#### [My job is offering me a payout. Should I take a $61,000 lump sum — or $355 a month for life?](https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 14:09
+
+#### [Delta kicks off second-quarter earnings this week. But is 2025 already a ‘lost year’ for airlines?](https://www.marketwatch.com/story/delta-kicks-off-second-quarter-earnings-this-week-but-is-2025-already-a-lost-year-for-airlines-b3a47c4a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 14:00
+
+#### [Can Sean ‘Diddy’ Combs recover financially now that he’s been found not guilty of the worst charges?](https://www.marketwatch.com/story/can-sean-diddy-combs-and-his-business-empire-recover-financially-now-that-hes-been-found-not-guilty-of-some-charges-13c7084f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 13:13
+
+#### [‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?](https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 13:08
+
+#### [‘She’s in a shaky marriage that could soon end’: Will my daughter’s husband get my IRA when I die?](https://www.marketwatch.com/story/shes-in-a-shaky-marriage-that-could-soon-end-will-my-daughters-husband-get-my-ira-when-i-die-b4afb418?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 13:00
+
+#### [Stock-market investors went from panic to ‘Goldilocks.’ Are they getting ahead of themselves?](https://www.marketwatch.com/story/stock-market-investors-went-from-panic-to-goldilocks-are-they-getting-ahead-of-themselves-1617fa69?mod=mw_rss_topstories)
+**发布时间**: 2025-07-06 12:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Oil prices fall as OPEC+ ramps up production; U.S. stock futures decline](https://www.marketwatch.com/bulletins/redirect/go?g=18df2d55-0724-4f3c-a13f-214e3034cc78&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-06 22:36
+
+#### [The stock-market rally is broadening. Will consumer stocks bounce back?](https://www.marketwatch.com/bulletins/redirect/go?g=69bb056a-203d-462e-9cf2-96ae20849c13&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-06 20:15
 
 ---
 
