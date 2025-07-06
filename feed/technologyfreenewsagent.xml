@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Jul 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Jul 2025 05:20:31 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Jul 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Jul 2025 08:25:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>数读长剧上半年：“大爆”无、“庄家”变</title>
-      <link>https://www.tmtpost.com/7617437.html</link>
-      <description>&lt;![CDATA[数读长剧上半年：“大爆”无、“庄家”变]]&gt;</description>
-      <pubDate>Sun, 06 Jul 2025 12:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7617437.html</guid>
+      <title>投资问道：写给融资者的深度剖析</title>
+      <link>https://www.tmtpost.com/7617385.html</link>
+      <description>&lt;![CDATA[投资问道：写给融资者的深度剖析]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617385.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>上半年综艺市场有“七大信号”值得揣摩</title>
+      <link>https://www.tmtpost.com/7617435.html</link>
+      <description>&lt;![CDATA[上半年综艺市场有“七大信号”值得揣摩]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617435.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>星巴克中国急需最强外脑</title>
+      <link>https://www.tmtpost.com/7617458.html</link>
+      <description>&lt;![CDATA[星巴克中国急需最强外脑]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617458.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime</title>
+      <link>https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/</link>
+      <description>&lt;![CDATA[How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/</guid>
       <category>Technology</category>
     </item>
   </channel>
