@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Technology 新闻汇总 - Free News Agent</title>
+    <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
+    <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 06 Jul 2025 04:20:00 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Jul 2025 04:21:22 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
+    <follow_challenge>
+      <feedId>150782874584542208</feedId>
+      <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
+    </follow_challenge>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>China Narrows AI Talent Gap With U.S. as Research Enters Engineering Phase: Report</title>
+      <link>https://www.tmtpost.com/7616647.html</link>
+      <description>&lt;![CDATA[China Narrows AI Talent Gap With U.S. as Research Enters Engineering Phase: Report]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616647.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>华为团队回应盘古开源AI模型抄袭争议：并非基于其他模型增量训练，已严格遵循开源许可</title>
+      <link>https://www.tmtpost.com/7617405.html</link>
+      <description>&lt;![CDATA[华为团队回应盘古开源AI模型抄袭争议：并非基于其他模型增量训练，已严格遵循开源许可]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617405.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters</title>
+      <link>https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/</link>
+      <description>&lt;![CDATA[This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing</title>
+      <link>https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/</link>
+      <description>&lt;![CDATA[GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>逃离AI叙事陷阱，小鹏G7打的什么算盘？</title>
+      <link>https://www.tmtpost.com/7617452.html</link>
+      <description>&lt;![CDATA[逃离AI叙事陷阱，小鹏G7打的什么算盘？]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 23:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617452.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>新造车这半年：三强格局改写，厂二代谋出海，万辆关卡生死</title>
+      <link>https://www.tmtpost.com/7616953.html</link>
+      <description>&lt;![CDATA[新造车这半年：三强格局改写，厂二代谋出海，万辆关卡生死]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7616953.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The EU Proposes New Rules to Govern the European Space Race</title>
+      <link>https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/</link>
+      <description>&lt;![CDATA[The EU Proposes New Rules to Govern the European Space Race]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役</title>
+      <link>https://sspai.com/post/100769</link>
+      <description>&lt;![CDATA[派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 08:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100769</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Android May Soon Warn You About Fake Cell Towers</title>
+      <link>https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/</link>
+      <description>&lt;![CDATA[Android May Soon Warn You About Fake Cell Towers]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>首销破三万台，「卖爆」的小米眼镜给行业带来了什么？</title>
+      <link>http://www.geekpark.net/news/351223</link>
+      <description>&lt;![CDATA[首销破三万台，「卖爆」的小米眼镜给行业带来了什么？]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 23:35:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351223</guid>
+      <category>Technology</category>
+    </item>
+  </channel>
+</rss>
