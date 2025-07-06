@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-06 04:20
+**最后更新时间**: 2025-07-06 05:20
+
+---
+
+## 🆕 最新更新 (2025-07-06 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [数读长剧上半年：“大爆”无、“庄家”变](https://www.tmtpost.com/7617437.html)
+**发布时间**: 2025-07-06 12:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一年后才能提YU7，雷军比粉丝更着急](http://www.huxiu.com/article/4543942.html?f=wangzhan)
+**发布时间**: 2025-07-05 16:04
+
+#### [重磅产品G7终上市，小鹏迎来关键之战｜车圈脉动 Vol.2](http://www.huxiu.com/article/4540809.html?f=wangzhan)
+**发布时间**: 2025-07-05 10:24
+
+#### [特斯拉危机四伏｜车圈脉动 Vol.1](http://www.huxiu.com/article/4540227.html?f=wangzhan)
+**发布时间**: 2025-07-05 09:54
+
+#### [充电宝的召回这事儿，不该全凭良心](http://www.huxiu.com/article/4540433.html?f=wangzhan)
+**发布时间**: 2025-07-04 20:00
+
+#### [专骗国人的中国汉堡，塔斯汀为啥卖不动了？](http://www.huxiu.com/article/4535751.html?f=wangzhan)
+**发布时间**: 2025-07-04 11:37
+
+#### [高通，被中国车圈“卷”飞](http://www.huxiu.com/article/4527725.html?f=wangzhan)
+**发布时间**: 2025-07-04 08:51
+
+#### [为啥无摩擦的直线电机减震器，让国外底盘优势一去不复返？](http://www.huxiu.com/article/4533164.html?f=wangzhan)
+**发布时间**: 2025-07-03 13:40
+
+#### [多少老戏骨，正在悄悄劣化](http://www.huxiu.com/article/4447621.html?f=wangzhan)
+**发布时间**: 2025-07-02 19:11
+
+#### [65亿美元豪赌，OpenAI掀起掌心智能革命](http://www.huxiu.com/article/4512291.html?f=wangzhan)
+**发布时间**: 2025-07-02 10:20
+
+#### [沙特阿拉伯：向中国和美国出售未来？](http://www.huxiu.com/article/4516885.html?f=wangzhan)
+**发布时间**: 2025-07-01 20:00
 
 ---
 
