@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-05 16:59
-**最后更新时间**: 2025-07-05 16:59
+**最后更新时间**: 2025-07-06 01:02
+
+---
+
+## 🆕 最新更新 (2025-07-06 01:02)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What’s in your 401(k)? Why boomers and Gen X really need to know.](https://www.marketwatch.com/story/whats-in-your-401-k-why-you-need-to-know-especially-boomers-and-generation-x-3c37c415?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 18:44
+
+#### [How these Big Tech stocks are getting a boost from this clean-energy credit](https://www.marketwatch.com/story/how-these-big-tech-stocks-are-getting-a-boost-from-this-clean-energy-credit-bd4541ee?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 17:56
+
+#### [Trump’s tariffs are unfair to most Americans. Here’s how they could actually be beneficial.](https://www.marketwatch.com/story/this-question-could-change-the-course-of-trumps-trade-war-if-only-we-would-ask-it-b1f21d20?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 17:05
+
+#### [My wife and I have $7,000 a month in pensions and Social Security, plus $140,000 cash. Can we afford to retire?](https://www.marketwatch.com/story/my-wife-and-i-have-7-000-in-pensions-140-000-in-cash-plus-social-security-can-we-afford-to-retire-14fd44f1?mod=mw_rss_topstories)
+**发布时间**: 2025-07-05 17:00
 
 ---
 

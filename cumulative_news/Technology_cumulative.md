@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-05 16:59
-**最后更新时间**: 2025-07-05 16:59
+**最后更新时间**: 2025-07-06 01:02
+
+---
+
+## 🆕 最新更新 (2025-07-06 01:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [播客在美国为什么这么火？](https://www.tmtpost.com/7617363.html)
+**发布时间**: 2025-07-06 08:18
+
+#### [明星机长刀刺同僚坠楼自杀，民航系统的脓疮何时挤破？| 马上评](https://www.tmtpost.com/7617521.html)
+**发布时间**: 2025-07-06 07:27
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [3C 充电宝销量暴涨，商家库存告急；传美团餐饮日订单破亿；激光灭蚊器曝光，每秒杀 30 只蚊子，3569 元起](http://www.geekpark.net/news/351228)
+**发布时间**: 2025-07-06 08:17
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
+**发布时间**: 2025-07-05 21:01
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
+**发布时间**: 2025-07-05 19:51
 
 ---
 

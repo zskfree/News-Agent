@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Technology 新闻汇总 - Free News Agent (增量更新)</title>
+    <title>Technology 新闻汇总 - Free News Agent</title>
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
-    <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，严格去重确保内容新鲜</description>
+    <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Jul 2025 16:59:00 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 17:00:07 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Jul 2025 01:02:00 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Jul 2025 01:02:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>China Narrows AI Talent Gap With U.S. as Research Enters Engineering Phase: Report</title>
-      <link>https://www.tmtpost.com/7616647.html</link>
-      <description>&lt;![CDATA[China Narrows AI Talent Gap With U.S. as Research Enters Engineering Phase: Report]]&gt;</description>
-      <pubDate>Sat, 05 Jul 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7616647.html</guid>
+      <title>播客在美国为什么这么火？</title>
+      <link>https://www.tmtpost.com/7617363.html</link>
+      <description>&lt;![CDATA[播客在美国为什么这么火？]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 08:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617363.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies</title>
-      <link>https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/</link>
-      <description>&lt;![CDATA[Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/</guid>
+      <title>明星机长刀刺同僚坠楼自杀，民航系统的脓疮何时挤破？| 马上评</title>
+      <link>https://www.tmtpost.com/7617521.html</link>
+      <description>&lt;![CDATA[明星机长刀刺同僚坠楼自杀，民航系统的脓疮何时挤破？| 马上评]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7617521.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The EU Proposes New Rules to Govern the European Space Race</title>
-      <link>https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/</link>
-      <description>&lt;![CDATA[The EU Proposes New Rules to Govern the European Space Race]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/</guid>
+      <title>3C 充电宝销量暴涨，商家库存告急；传美团餐饮日订单破亿；激光灭蚊器曝光，每秒杀 30 只蚊子，3569 元起</title>
+      <link>http://www.geekpark.net/news/351228</link>
+      <description>&lt;![CDATA[3C 充电宝销量暴涨，商家库存告急；传美团餐饮日订单破亿；激光灭蚊器曝光，每秒杀 30 只蚊子，3569 元起]]&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 08:17:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351228</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为团队回应盘古开源AI模型抄袭争议：并非基于其他模型增量训练，已严格遵循开源许可</title>
-      <link>https://www.tmtpost.com/7617405.html</link>
-      <description>&lt;![CDATA[华为团队回应盘古开源AI模型抄袭争议：并非基于其他模型增量训练，已严格遵循开源许可]]&gt;</description>
-      <pubDate>Sat, 05 Jul 2025 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7617405.html</guid>
+      <title>Meteorologists Say the National Weather Service Did Its Job in Texas</title>
+      <link>https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/</link>
+      <description>&lt;![CDATA[Meteorologists Say the National Weather Service Did Its Job in Texas]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新造车这半年：三强格局改写，厂二代谋出海，万辆关卡生死</title>
-      <link>https://www.tmtpost.com/7616953.html</link>
-      <description>&lt;![CDATA[新造车这半年：三强格局改写，厂二代谋出海，万辆关卡生死]]&gt;</description>
-      <pubDate>Sat, 05 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7616953.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>中国手机市场新格局：华为夺魁，小米放缓，苹果重返前三</title>
-      <link>https://www.tmtpost.com/7617242.html</link>
-      <description>&lt;![CDATA[中国手机市场新格局：华为夺魁，小米放缓，苹果重返前三]]&gt;</description>
-      <pubDate>Sat, 05 Jul 2025 09:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7617242.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>高通，被中国车圈“卷”飞</title>
-      <link>http://www.huxiu.com/article/4527725.html?f=wangzhan</link>
-      <description>&lt;![CDATA[高通，被中国车圈“卷”飞]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4527725.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing</title>
-      <link>https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/</link>
-      <description>&lt;![CDATA[GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing]]&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Android May Soon Warn You About Fake Cell Towers</title>
-      <link>https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/</link>
-      <description>&lt;![CDATA[Android May Soon Warn You About Fake Cell Towers]]&gt;</description>
-      <pubDate>Sat, 05 Jul 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>CBP Wants New Tech to Search for Hidden Data on Seized Phones</title>
-      <link>https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/</link>
-      <description>&lt;![CDATA[CBP Wants New Tech to Search for Hidden Data on Seized Phones]]&gt;</description>
-      <pubDate>Thu, 03 Jul 2025 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/</guid>
+      <title>Cyberpunk: Edgerunners 2 will be even sadder and bloodier</title>
+      <link>https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red</link>
+      <description>&lt;![CDATA[Cyberpunk: Edgerunners 2 will be even sadder and bloodier]]&gt;</description>
+      <pubDate>Sat, 05 Jul 2025 19:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red</guid>
       <category>Technology</category>
     </item>
   </channel>
