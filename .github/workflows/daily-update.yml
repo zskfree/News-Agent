@@ -2,7 +2,7 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 0,4,8,12 * * *'  # 北京时间 8, 12, 16, 20 点触发
+    - cron: '0 23,5,8 * * *'  # 北京时间 7, 13, 16 点触发
   # 允许手动触发
   workflow_dispatch:
     inputs:
@@ -81,31 +81,14 @@ jobs:
           echo "❌ RSS配置文件不存在"
         fi
     
-    - name: Check time window
-      id: time-check
+    - name: Show trigger info
       run: |
-        # 方法1：使用您当前的修复
-        UTC_HOUR=$(date -u +%H)
-        UTC_HOUR=$((10#$UTC_HOUR))
-        
-        # 方法2：额外验证（可选）
-        # UTC_HOUR=$(date -u +%H | sed 's/^0*//')  # 移除前导零
-        
         echo "当前UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S')"
         echo "当前北京时间: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
-        echo "UTC小时: $UTC_HOUR"
-        echo "调试: 类型检查: $(echo $UTC_HOUR | grep -E '^[0-9]+$' && echo '纯数字' || echo '非数字')"
-        
-        if [[ "${{ github.event_name }}" == "workflow_dispatch" ]] || [[ $UTC_HOUR -ge 0 && $UTC_HOUR -le 16 ]]; then
-          echo "✅ 符合运行条件"
-          echo "should_run=true" >> $GITHUB_OUTPUT
-        else
-          echo "⏰ 跳过更新"
-          echo "should_run=false" >> $GITHUB_OUTPUT
-        fi
+        echo "触发方式: ${{ github.event_name }}"
+        echo "✅ 开始执行更新任务"
     
     - name: Run update
-      if: steps.time-check.outputs.should_run == 'true'
       env:
         MAX_ARTICLES: ${{ github.event.inputs.max_articles || '100000' }}
       run: |
@@ -113,10 +96,10 @@ jobs:
         echo "开始新闻更新..."
         echo "北京时间: $BEIJING_TIME"
         echo "最大文章数: $MAX_ARTICLES"
+        echo "触发方式: ${{ github.event_name }}"
         python daily_update.py
     
     - name: Verify generated files
-      if: steps.time-check.outputs.should_run == 'true'
       run: |
         echo "=== 检查生成的文件 ==="
         echo "根目录文件:"
@@ -136,7 +119,6 @@ jobs:
         fi
     
     - name: Check for changes
-      if: steps.time-check.outputs.should_run == 'true'
       id: verify-changed-files
       run: |
         if [ -n "$(git status --porcelain)" ]; then
@@ -149,25 +131,22 @@ jobs:
         fi
     
     - name: Commit and push changes
-      if: steps.time-check.outputs.should_run == 'true' && steps.verify-changed-files.outputs.changed == 'true'
+      if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         git add .
-        git commit -m "🤖 自动更新新闻 (北京时间: $BEIJING_TIME)"
+        git commit -m "🤖 自动更新新闻 (北京时间: $BEIJING_TIME) [触发方式: ${{ github.event_name }}]"
         git push
     
     - name: Setup Pages
-      if: steps.time-check.outputs.should_run == 'true'
       uses: actions/configure-pages@v4
     
     - name: Upload artifact
-      if: steps.time-check.outputs.should_run == 'true'
       uses: actions/upload-pages-artifact@v3
       with:
-        path: '.'  # ✅ 修改为上传整个根目录
-        
+        path: '.'
+    
     - name: Deploy to GitHub Pages
-      if: steps.time-check.outputs.should_run == 'true'
       id: deployment
       uses: actions/deploy-pages@v4
     
@@ -180,20 +159,17 @@ jobs:
         echo "## 📊 定时更新结果" >> $GITHUB_STEP_SUMMARY
         echo "- **北京时间**: $BEIJING_TIME" >> $GITHUB_STEP_SUMMARY
         echo "- **UTC时间**: $UTC_TIME" >> $GITHUB_STEP_SUMMARY
+        echo "- **触发方式**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
         echo "- **状态**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
-        echo "- **运行窗口**: 北京时间 8:00-24:00" >> $GITHUB_STEP_SUMMARY
+        echo "- **计划运行**: 北京时间 7:00, 12:00, 16:00 (可能有延迟)" >> $GITHUB_STEP_SUMMARY
         
         if [ "${{ steps.deployment.outputs.page_url }}" != "" ]; then
           echo "- **Pages URL**: ${{ steps.deployment.outputs.page_url }}" >> $GITHUB_STEP_SUMMARY
         fi
         
-        if [ "${{ steps.time-check.outputs.should_run }}" = "true" ]; then
-          echo "- **执行状态**: ✅ 已执行更新" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "- **执行状态**: ⏰ 跳过更新" >> $GITHUB_STEP_SUMMARY
-        fi
+        echo "- **执行状态**: ✅ 已执行更新" >> $GITHUB_STEP_SUMMARY
         
-        if [ "${{ steps.time-check.outputs.should_run }}" = "true" ] && [ -d "feed" ]; then
+        if [ -d "feed" ]; then
           echo "- **RSS文件**:" >> $GITHUB_STEP_SUMMARY
           for file in feed/*.xml; do
             if [ -f "$file" ]; then
@@ -204,7 +180,7 @@ jobs:
         fi
     
     - name: Upload logs on failure
-      if: failure() && steps.time-check.outputs.should_run == 'true'
+      if: failure()
       uses: actions/upload-artifact@v4
       with:
         name: error-logs-${{ github.run_number }}
