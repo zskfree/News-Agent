@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-07 08:30
+**最后更新时间**: 2025-07-07 23:19
+
+---
+
+## 🆕 最新更新 (2025-07-07 23:19)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Claude Code发布4个月，用户已经11.5万了，开发者：200 美元/月不算贵](https://www.jiqizhixin.com/articles/2025-07-07-11)
+**发布时间**: 2025-07-07 17:39
+
+#### [WAIC特别企划视频栏目《AI面对面》，讲出你的「热AI」故事](https://www.jiqizhixin.com/articles/2025-07-07-10)
+**发布时间**: 2025-07-07 17:36
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Producing tangible business benefits from modern iPaaS solutions](https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/)
+**发布时间**: 2025-07-07 14:01
+
+#### [The digital future of industrial and operational work](https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/)
+**发布时间**: 2025-07-07 14:00
+
+#### [The Download: China’s winning at advanced manufacturing, and a potential TikTok sale](https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/)
+**发布时间**: 2025-07-07 12:10
+
+#### [The latest threat from the rise of Chinese manufacturing](https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/)
+**发布时间**: 2025-07-07 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全球数字经济大会｜猿力科技：做AI教育的“探路者”和“实践者”](https://www.qbitai.com/2025/07/305542.html)
+**发布时间**: 2025-07-07 10:31
+
+#### [Data Agent如何帮助企业打造懂你的“电子牛马”？｜数势xSelectDB](https://www.qbitai.com/2025/07/305466.html)
+**发布时间**: 2025-07-07 09:33
+
+#### [AI发现医生看不见的隐藏心脏病风险，近90%准确率远超人类专家｜Nature子刊](https://www.qbitai.com/2025/07/305407.html)
+**发布时间**: 2025-07-07 09:02
+
+#### [李想自曝常和雷军吃饭，不舒服的建议也会提](https://www.qbitai.com/2025/07/305395.html)
+**发布时间**: 2025-07-07 08:53
+
+#### [Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术](https://www.qbitai.com/2025/07/305382.html)
+**发布时间**: 2025-07-07 08:41
+
+#### [教育合辑 | WAIC 2025：教育AI技术革新与女性数智赋能路径](https://www.qbitai.com/2025/07/305361.html)
+**发布时间**: 2025-07-07 08:26
+
+#### [刷新复杂Agent推理记录！阿里通义开源网络智能体超越DeepSeek R1，Grok-3](https://www.qbitai.com/2025/07/305354.html)
+**发布时间**: 2025-07-07 08:25
+
+#### [AI重塑合辑｜从技术热潮到产业范式转移，WAIC共探企业新质生产力](https://www.qbitai.com/2025/07/305345.html)
+**发布时间**: 2025-07-07 08:07
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New postdoctoral fellowship program to accelerate innovation in health care](https://news.mit.edu/2025/new-postdoctoral-fellowship-program-accelerate-innovation-health-care-0707)
+**发布时间**: 2025-07-07 10:00
+
+#### [Exploring data and its influence on political behavior](https://news.mit.edu/2025/exploring-data-and-its-influence-political-behavior-0707)
+**发布时间**: 2025-07-07 10:00
 
 ---
 

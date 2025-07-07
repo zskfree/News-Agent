@@ -1,7 +1,169 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-07 08:30
+**最后更新时间**: 2025-07-07 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-07 23:20)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?](https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/)
+**发布时间**: 2025-07-07 22:43
+
+#### [9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
+**发布时间**: 2025-07-07 21:15
+
+#### [The 8 Best Travel Pillows (2025), Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
+**发布时间**: 2025-07-07 18:32
+
+#### [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+**发布时间**: 2025-07-07 17:47
+
+#### [15 Best Air Purifiers (2025): Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+**发布时间**: 2025-07-07 17:40
+
+#### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
+**发布时间**: 2025-07-07 15:54
+
+#### [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
+**发布时间**: 2025-07-07 12:04
+
+#### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
+**发布时间**: 2025-07-07 11:00
+
+#### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
+**发布时间**: 2025-07-07 10:42
+
+#### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+**发布时间**: 2025-07-07 10:00
+
+#### [The 50 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-07-05 11:00
+
+#### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-07-05 11:00
+
+#### [GM’s Cruise Cars Are Back on the Road in 3 US States—but Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
+**发布时间**: 2025-07-04 14:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [年报问询，骏亚科技现形：高多层板“跛足”难行，募投项目延期四年陷困局](https://www.tmtpost.com/7619102.html)
+**发布时间**: 2025-07-07 22:41
+
+#### [TikTok Shop抢滩日本 ，一场跨境电商的“反内卷”突围战｜「出海参考」](https://www.tmtpost.com/7618971.html)
+**发布时间**: 2025-07-07 21:10
+
+#### [【大事件必读】房企发新股、再向大股东借款努力偿债，部分地区开始推动“现房销售”](https://www.tmtpost.com/7618970.html)
+**发布时间**: 2025-07-07 20:11
+
+#### [星动纪元完成近5亿元A轮融资，华兴资本持续担任独家财务顾问](https://www.tmtpost.com/7618905.html)
+**发布时间**: 2025-07-07 19:34
+
+#### [在巨头阴影下开花：萤石网络在夹缝中寻增量](https://www.tmtpost.com/7618859.html)
+**发布时间**: 2025-07-07 19:14
+
+#### [150亿元估值独角兽，极智嘉终于要IPO了](https://www.tmtpost.com/7618050.html)
+**发布时间**: 2025-07-07 19:14
+
+#### [密室逃脱找寻流量密码](https://www.tmtpost.com/7618778.html)
+**发布时间**: 2025-07-07 19:13
+
+#### [北上广深，竞逐低空经济第一城​](https://www.tmtpost.com/7618846.html)
+**发布时间**: 2025-07-07 19:13
+
+#### [商汤需要“网感”](https://www.tmtpost.com/7618881.html)
+**发布时间**: 2025-07-07 19:13
+
+#### [嵌入式内存有了新选择](https://www.tmtpost.com/7618884.html)
+**发布时间**: 2025-07-07 19:13
+
+#### [荣耀的无限战争](https://www.tmtpost.com/7618898.html)
+**发布时间**: 2025-07-07 19:13
+
+#### [当“10分钟充电圈”遇上“电网大考”，27年底10万台大功率充电设施目标如何达成？丨大事件必读](https://www.tmtpost.com/7618847.html)
+**发布时间**: 2025-07-07 18:46
+
+#### [解决社会不平等的中国可能](https://www.tmtpost.com/7617959.html)
+**发布时间**: 2025-07-07 18:38
+
+#### [今世缘破圈苏超，但发展难题需“破局”](https://www.tmtpost.com/7618697.html)
+**发布时间**: 2025-07-07 18:38
+
+#### [在越南建厂，立讯精密找到一条新生命线](https://www.tmtpost.com/7618659.html)
+**发布时间**: 2025-07-07 18:38
+
+#### [芯迈半导体IPO：小米宁王押注的功率半导体独角兽，要带“全球第三”标签闯港股？](https://www.tmtpost.com/7618709.html)
+**发布时间**: 2025-07-07 18:38
+
+#### [那些交付需等一年以上的车，都有谁？](https://www.tmtpost.com/7618479.html)
+**发布时间**: 2025-07-07 18:29
+
+#### [重组胶原蛋白暗战：锦波生物背靠钟睒睒，巨子与华熙激烈博弈](https://www.tmtpost.com/7618688.html)
+**发布时间**: 2025-07-07 18:29
+
+#### [7年5冲IPO，78岁菊乐老板能否“圆梦”北交所？](https://www.tmtpost.com/7618714.html)
+**发布时间**: 2025-07-07 18:29
+
+#### [这个夏天，网易、米哈游谁先“上岸”](https://www.tmtpost.com/7618747.html)
+**发布时间**: 2025-07-07 18:28
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+**发布时间**: 2025-07-07 22:38
+
+#### [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
+**发布时间**: 2025-07-07 22:31
+
+#### [xAI updated Grok to be more &#8216;politically incorrect&#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
+**发布时间**: 2025-07-07 22:29
+
+#### [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
+**发布时间**: 2025-07-07 21:14
+
+#### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
+**发布时间**: 2025-07-07 20:38
+
+#### [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
+**发布时间**: 2025-07-07 19:07
+
+#### [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts)
+**发布时间**: 2025-07-07 19:03
+
+#### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+**发布时间**: 2025-07-07 18:43
+
+#### [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
+**发布时间**: 2025-07-07 18:31
+
+#### [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
+**发布时间**: 2025-07-07 17:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [灵宝机器人完成近亿元融资，工厂派投资人盯上「人形机器人」](http://www.geekpark.net/news/351261)
+**发布时间**: 2025-07-07 20:11
+
+#### [传TikTok要为美国市场单开新App，全球将出现三个「抖音」？](http://www.geekpark.net/news/351259)
+**发布时间**: 2025-07-07 18:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [驾驭复杂性，从人工智能战略到弹性架构：2025年慕尼黑InfoQ开发者峰会](https://www.infoq.cn/article/I8Maoo5xFiX73NyeIbus?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-07 18:00
+
+#### [推出4个月就狂赚3亿？！百万用户应用CTO弃Copilot转Claude Code：200美元拯救我的137个应用](https://www.infoq.cn/article/6Hri0YbQYAvwfyGCRb0p?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-07 18:00
+
+#### [谷歌Agent2Agent协议加入Linux基金会](https://www.infoq.cn/article/gC2Bkl3s6wJtwk1L6Av1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-07 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/100836)
+**发布时间**: 2025-07-07 17:59
 
 ---
 

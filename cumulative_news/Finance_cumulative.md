@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-07 05:24
+**最后更新时间**: 2025-07-07 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-07 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Has Netflix’s big push for growth gotten ahead of its stock price?](https://www.marketwatch.com/story/has-netflixs-big-push-for-growth-gotten-ahead-of-its-stock-price-74186051?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 23:08
+
+#### [‘We are blessed’: My husband is inheriting a $1 million home. Should he put it in my name too?](https://www.marketwatch.com/story/we-are-blessed-my-husband-is-inheriting-a-1-million-home-should-he-put-it-in-my-name-too-68341b1b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 22:17
+
+#### [Pro golfer Bryson Dechambeau says anyone outside the top 165 on the PGA Tour ‘is losing money’](https://www.marketwatch.com/story/pro-golfer-bryson-dechambeau-says-anyone-outside-the-top-165-on-the-pga-tour-is-losing-money-c98f7d74?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 21:49
+
+#### [Exxon just warned Wall Street of billion-dollar profit hits. Here’s what may cause it.](https://www.marketwatch.com/story/exxon-just-warned-wall-street-of-billion-dollar-profit-hits-heres-what-may-cause-it-e9108053?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 21:43
+
+#### [Trump’s tariff letters are hitting. Here’s how they differ from his earlier threats.](https://www.marketwatch.com/story/trumps-tariff-letters-are-hitting-heres-how-they-differ-from-his-earlier-threats-94a9e58a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 21:13
+
+#### [Why CoreWeave plans to buy Core Scientific — and why both stocks are dropping](https://www.marketwatch.com/story/why-coreweave-plans-to-buy-core-scientific-and-why-both-stocks-are-dropping-aad658a2?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 21:10
+
+#### [Ulta Beauty is starting to separate itself from the competition, analyst says](https://www.marketwatch.com/story/ulta-beauty-is-starting-to-separate-itself-from-the-competition-analyst-says-9e18a927?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 21:07
+
+#### [Here’s when no taxes on overtime and tips, and other parts of Trump’s big bill, will kick in](https://www.marketwatch.com/story/heres-when-no-taxes-on-overtime-and-tips-and-other-parts-of-trumps-big-bill-will-kick-in-2af87057?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 21:02
+
+#### [Stocks were flashing this warning signal before tariff jitters drove Dow down more than 400 points](https://www.marketwatch.com/story/stocks-were-flashing-this-warning-signal-before-tariff-jitters-drove-dow-down-500-points-dbaa2fdb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 20:50
+
+#### [Tesla and Apple don’t belong in the ‘Magnificent Seven’ anymore. These two hot tech stocks should replace them.](https://www.marketwatch.com/story/this-new-magnificent-seven-kicks-out-two-favorites-and-adds-these-turbocharged-tech-stocks-e31701ec?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 20:36
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Exxon just warned Wall Street of billion-dollar profit hits. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=639a6a70-7188-49d1-8272-98d29321cb8a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 22:31
+
+#### [Here’s when parts of Trump’s big bill, like no taxes on OT or tips, will kick in](https://www.marketwatch.com/bulletins/redirect/go?g=d0189cc2-7796-495c-b5c9-9d84254b56b7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 21:18
+
+#### [No tax on Social Security? Not quite. What the megabill really means for seniors](https://www.marketwatch.com/bulletins/redirect/go?g=583acb61-e286-4388-9e1b-cb957dd645c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 20:28
+
+#### [U.S. stocks log worst day in three weeks after Trump posts tariff letters](https://www.marketwatch.com/bulletins/redirect/go?g=f9b89fdb-f07f-4e28-bfa3-6a154926fc2a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 20:01
+
+#### [Stocks trading near session lows, Dow down more than 500 points](https://www.marketwatch.com/bulletins/redirect/go?g=c407cf7e-201c-4d49-9370-21f1dda930b0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 19:33
+
+#### [IBM is outpacing Nvidia, Meta, Microsoft and Amazon in 2025. Surprised?](https://www.marketwatch.com/bulletins/redirect/go?g=10bf62eb-fec9-4457-9830-c1e18156d1b7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 19:08
+
+#### [Why Musk’s launch of a new political party might be positive for Tesla’s stock](https://www.marketwatch.com/bulletins/redirect/go?g=dfed42e3-6ee6-4a23-bfb5-ae62db585d45&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 18:50
+
+#### [Stocks were already flashing this warning signal](https://www.marketwatch.com/bulletins/redirect/go?g=149c83a8-2bbb-40cc-b5e3-6a1205357444&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 18:01
+
+#### [Stock-market losses widen as details of Japan and South Korea tariffs emerge](https://www.marketwatch.com/bulletins/redirect/go?g=dc31a0c9-4378-44f5-9498-b89dc0ac687f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 16:51
+
+#### [Dow industrials lower by 500 points as Monday retreat accelerates — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=ef5df2d0-9262-4aab-880a-cb4de48172ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 16:24
 
 ---
 

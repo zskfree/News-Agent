@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Jul 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2025 08:30:52 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 23:20:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>开源Agent新标杆：通义WebSailor多榜夺魁，挑战OpenAI高难度Agent基准BrowseComp</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-9</link>
-      <description>&lt;![CDATA[开源Agent新标杆：通义WebSailor多榜夺魁，挑战OpenAI高难度Agent基准BrowseComp]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-9</guid>
+      <title>AI发现医生看不见的隐藏心脏病风险，近90%准确率远超人类专家｜Nature子刊</title>
+      <link>https://www.qbitai.com/2025/07/305407.html</link>
+      <description>&lt;![CDATA[AI发现医生看不见的隐藏心脏病风险，近90%准确率远超人类专家｜Nature子刊]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305407.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>RoboTwin系列新作：开源大规模域随机化双臂操作数据合成器与评测基准集</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-8</link>
-      <description>&lt;![CDATA[RoboTwin系列新作：开源大规模域随机化双臂操作数据合成器与评测基准集]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-8</guid>
+      <title>Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术</title>
+      <link>https://www.qbitai.com/2025/07/305382.html</link>
+      <description>&lt;![CDATA[Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305382.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>让AI自主设计并执行生物实验，机器人生物学家开启实验室自动化新时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-5</link>
-      <description>&lt;![CDATA[让AI自主设计并执行生物实验，机器人生物学家开启实验室自动化新时代]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-5</guid>
+      <title>The Download: China’s winning at advanced manufacturing, and a potential TikTok sale</title>
+      <link>https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/</link>
+      <description>&lt;![CDATA[The Download: China’s winning at advanced manufacturing, and a potential TikTok sale]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>精度高，速度快！西湖大学团队开发端到端电子显微镜图像分析深度学习模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-6</link>
-      <description>&lt;![CDATA[精度高，速度快！西湖大学团队开发端到端电子显微镜图像分析深度学习模型]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-6</guid>
+      <title>The digital future of industrial and operational work</title>
+      <link>https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/</link>
+      <description>&lt;![CDATA[The digital future of industrial and operational work]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>与一支由虚拟科学家组成的 AI 团队共事是怎样的体验？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-7</link>
-      <description>&lt;![CDATA[与一支由虚拟科学家组成的 AI 团队共事是怎样的体验？]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-7</guid>
+      <title>Claude Code发布4个月，用户已经11.5万了，开发者：200 美元/月不算贵</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-07-11</link>
+      <description>&lt;![CDATA[Claude Code发布4个月，用户已经11.5万了，开发者：200 美元/月不算贵]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 17:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>文娱合辑 | WAIC 2025：展现AI赋能文娱产业的中国式现代化实践</title>
-      <link>https://www.qbitai.com/2025/07/305325.html</link>
-      <description>&lt;![CDATA[文娱合辑 | WAIC 2025：展现AI赋能文娱产业的中国式现代化实践]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305325.html</guid>
+      <title>全球数字经济大会｜猿力科技：做AI教育的“探路者”和“实践者”</title>
+      <link>https://www.qbitai.com/2025/07/305542.html</link>
+      <description>&lt;![CDATA[全球数字经济大会｜猿力科技：做AI教育的“探路者”和“实践者”]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305542.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>空间智能率先落地国民APP：时空决策很顺滑，直达千人N面出行体验</title>
-      <link>https://www.qbitai.com/2025/07/305271.html</link>
-      <description>&lt;![CDATA[空间智能率先落地国民APP：时空决策很顺滑，直达千人N面出行体验]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 06:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305271.html</guid>
+      <title>Data Agent如何帮助企业打造懂你的“电子牛马”？｜数势xSelectDB</title>
+      <link>https://www.qbitai.com/2025/07/305466.html</link>
+      <description>&lt;![CDATA[Data Agent如何帮助企业打造懂你的“电子牛马”？｜数势xSelectDB]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 09:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305466.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The latest threat from the rise of Chinese manufacturing</title>
+      <link>https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/</link>
+      <description>&lt;![CDATA[The latest threat from the rise of Chinese manufacturing]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Producing tangible business benefits from modern iPaaS solutions</title>
+      <link>https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/</link>
+      <description>&lt;![CDATA[Producing tangible business benefits from modern iPaaS solutions]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>New postdoctoral fellowship program to accelerate innovation in health care</title>
+      <link>https://news.mit.edu/2025/new-postdoctoral-fellowship-program-accelerate-innovation-health-care-0707</link>
+      <description>&lt;![CDATA[New postdoctoral fellowship program to accelerate innovation in health care]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-postdoctoral-fellowship-program-accelerate-innovation-health-care-0707</guid>
       <category>AI</category>
     </item>
   </channel>
