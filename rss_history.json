@@ -198,6 +198,36 @@
         "link": "https://www.jiqizhixin.com/articles/2025-07-06",
         "published_date": "Sun, 06 Jul 2025 21:24:00 GMT",
         "first_seen": "2025-07-06T23:19:48.659532"
+      },
+      "9fc3e4cb514e489ab4ae1caea766b28ab2557bcf4150541146d207dc0822ca04": {
+        "title": "重塑AI记忆边界：MemOS开源！时序推理较OpenAI提升159%",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-07-4",
+        "published_date": "Mon, 07 Jul 2025 13:18:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.566744"
+      },
+      "8dbdc3950459747f10827c277cefba59cf0c7482afa349426d4e58f1b199799c": {
+        "title": "星动纪元完成近5亿元A轮融资！通用具身技术突破驱动商业化落地，产品批量交付全球科技巨头！",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-07-3",
+        "published_date": "Mon, 07 Jul 2025 13:08:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.566898"
+      },
+      "f7b277945f8424f0289d24cc1c5f314d99ef471cb914a7da14e08071cf46d274": {
+        "title": "新范式来了！新能量模型打破Transformer++扩展上限，训练扩展率快35%",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-07-2",
+        "published_date": "Mon, 07 Jul 2025 13:06:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.567107"
+      },
+      "52de070f7f1d2dae9d43ee36ec948f41047db73fa8dca5f84c685f2c40bff6a5": {
+        "title": "Stream-Omni：同时支持各种模态组合交互的文本-视觉-语音多模态大模型",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-07",
+        "published_date": "Mon, 07 Jul 2025 12:58:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.567458"
+      },
+      "d1e4e4be6d30e7a80d70ffbc1e5786094ffb82d2d48b1a836c4480911e1add72": {
+        "title": "Karpathy最新脑洞「细菌编程」：优秀的代码应该具备细菌的三大特质",
+        "link": "https://www.qbitai.com/2025/07/305218.html",
+        "published_date": "Mon, 07 Jul 2025 04:21:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.567823"
       }
     },
     "Technology": {
@@ -626,6 +656,174 @@
         "link": "https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/",
         "published_date": "Sun, 06 Jul 2025 10:00:00 GMT",
         "first_seen": "2025-07-06T23:20:22.508802"
+      },
+      "a4e8061cd16e6363ca43fce573b49967de57e5cef2e191a95b6300ce595a0108": {
+        "title": "OWASP发布AI测试指南，以解决AI系统中的安全性、偏见和风险",
+        "link": "https://www.infoq.cn/article/9dM6kSqpJYYGMFH2r6x8?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Jul 2025 13:00:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125111"
+      },
+      "687a800c509533ab427b47d8c29b97f8e6bd9c1baff901459d6ad039e10ef2df": {
+        "title": "Cloudflare发布公开测试版Containers",
+        "link": "https://www.infoq.cn/article/z9fsJZ9vhHTUxFSdKhCh?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Jul 2025 12:01:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125193"
+      },
+      "1f7e4c85b7942186c84151233fef3b7e2e6107845a8a223da650398e10265344": {
+        "title": "HarmonyOS 开发者技术生态现状洞察报告",
+        "link": "https://www.infoq.cn/minibook/RWHeyOV2dzkmmdo8odzS?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Jul 2025 10:53:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125165"
+      },
+      "9ddb3c29bb42ea37d2387509fa995a8db33d065ed569e70d68999aaaa39d4681": {
+        "title": "华为回应盘古大模型抄袭；DeepSeek在海外招聘；马斯克宣布成立“美国党”，明年参加大选｜AI 周报",
+        "link": "https://www.infoq.cn/article/0RZkFhZHU6rLrycUJdPB?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Jul 2025 10:35:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.582995"
+      },
+      "3e7e619bd65716bbaa92e36e5b801d1adc756564805214af652fb23cb72a85f2": {
+        "title": "扩展可观测性平台至 100 PB：通过拥抱宽事件并替换 OTel 实现突破",
+        "link": "https://www.infoq.cn/article/RNVeebwXu3NsUCRYftrX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Jul 2025 10:13:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125185"
+      },
+      "ad2cffc8ea25daac8be99749f47145bbf7c966f82f6ab55f4bb991f87dbcfad4": {
+        "title": "做App比拍抖音还快？！数据库大佬转行“氛围编程”，一人干掉75%代码，吐槽 vibes“时灵时不灵”",
+        "link": "https://www.infoq.cn/article/EQRpPxfwSsy9P11WJWda?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Jul 2025 09:46:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.583810"
+      },
+      "b959be4b6aa60f60650c443c0cea779781c1c264ef536d275ecbed8a4daf19c8": {
+        "title": "IC产业并购进入黄金时代",
+        "link": "https://www.tmtpost.com/7618132.html",
+        "published_date": "Mon, 07 Jul 2025 12:51:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125174"
+      },
+      "bfbdd83dfbd13afdce5a7f4725bbd0b2ccd9d2011673fdc3e47e3184b745c6f8": {
+        "title": "阿里启动超百亿元融资，意义几何？",
+        "link": "https://www.tmtpost.com/7618133.html",
+        "published_date": "Mon, 07 Jul 2025 12:51:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.584304"
+      },
+      "93a4b11a2e09a76f0300f87c77f11c5b4fe2be3ff7b8e1663259038118178e3e": {
+        "title": "厮杀万亿级市场，阿里京东美团短兵相接",
+        "link": "https://www.tmtpost.com/7618155.html",
+        "published_date": "Mon, 07 Jul 2025 12:51:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125211"
+      },
+      "183e963311fe22b000950b2e7157b7d22737c8f41fb3ceae6b1da3ea0e848c7a": {
+        "title": "年赚14.5亿，范冰冰靠美妆生意翻身？",
+        "link": "https://www.tmtpost.com/7618153.html",
+        "published_date": "Mon, 07 Jul 2025 12:26:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.585015"
+      },
+      "1d207b11292f584ca5bf84db209a7ef0e97ee80234059bd507142232713f62c5": {
+        "title": "国产面板何以拿下全球七成江山？",
+        "link": "https://www.tmtpost.com/7618176.html",
+        "published_date": "Mon, 07 Jul 2025 12:25:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.585325"
+      },
+      "91bcd228966b69fd7202290fbcb0750e051545270a4a576be1e1a99b945883b7": {
+        "title": "“反击”马斯克，奥特曼说OpenAI有“好得多”的自动驾驶技术",
+        "link": "https://www.tmtpost.com/7618209.html",
+        "published_date": "Mon, 07 Jul 2025 12:25:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.585958"
+      },
+      "0d2da7d33bbbb7aceadcd8dba62712e7274e14f37febf1798476251531410199": {
+        "title": "谁在执掌中国大厂的AI？",
+        "link": "https://www.tmtpost.com/7618146.html",
+        "published_date": "Mon, 07 Jul 2025 12:17:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125130"
+      },
+      "d7305c0dee3357b76e37db66c4d396b708fdcf37ed2956b6d4549139b4d7d28e": {
+        "title": "瑞幸杀入美国市场，劲敌不是星巴克",
+        "link": "https://www.tmtpost.com/7618157.html",
+        "published_date": "Mon, 07 Jul 2025 12:17:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.586790"
+      },
+      "8a26be74a23a752155665b70386b944f29fc58dfa83bab419b8cd7f1b9196e75": {
+        "title": "侯孝海退场，华润啤酒“啤白双轨”困局待解",
+        "link": "https://www.tmtpost.com/7618161.html",
+        "published_date": "Mon, 07 Jul 2025 12:16:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.587457"
+      },
+      "16a02a062765bb12baf89d11df7b9e3375e30f34329c7c268c64bc3ff8ec6977": {
+        "title": "半年融资66亿+，2家IPO，这个赛道批量制造独角兽",
+        "link": "https://www.tmtpost.com/7618174.html",
+        "published_date": "Mon, 07 Jul 2025 12:16:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.588143"
+      },
+      "5fd3074b7f67ba32f20ae81fc49050564af1ff1ba4c1a576c939adf79c5114c5": {
+        "title": "Trump's Tariff Clock Ticks as U.S. Trading Partners Scramble to Strike Last-Minute Deals",
+        "link": "https://www.tmtpost.com/7618170.html",
+        "published_date": "Mon, 07 Jul 2025 11:35:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.589533"
+      },
+      "b26b3ebeecf4a616050b29e9b58f9dbf155bd1979dec01f5f28774427c402caf": {
+        "title": "Jin Jiang Hotels Seeks Hong Kong IPO Amid Pressure to Restructure and Globalize",
+        "link": "https://www.tmtpost.com/7618122.html",
+        "published_date": "Mon, 07 Jul 2025 11:03:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.591180"
+      },
+      "e0deeacde5658b333de42f01c4cae9f8526f10cc4ab955d821d706ca4d030847": {
+        "title": "Huawei Denies Plagiarism in Pangu AI Model After Allegations of Copying Alibaba's Qwen",
+        "link": "https://www.tmtpost.com/7618113.html",
+        "published_date": "Mon, 07 Jul 2025 10:57:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125155"
+      },
+      "54199459b16b303dcaf58bccc30e5d8b6a3430fe6f6dcbf3382e394dfbb5e638": {
+        "title": "头部OTA线下旅游门店超1万家，为何都在抢着做",
+        "link": "https://www.tmtpost.com/7618010.html",
+        "published_date": "Mon, 07 Jul 2025 10:44:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.594029"
+      },
+      "914dafce573d9cffcb57542ff18606068ce3307cbab7d7d1aef46216140e1a1a": {
+        "title": "转型平台型组织为何失败",
+        "link": "https://www.tmtpost.com/7618028.html",
+        "published_date": "Mon, 07 Jul 2025 10:43:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.594534"
+      },
+      "d086ebdcb37e5283f67e8b7b56df11dc6924c6580573cbab13dfe40710b5b7f8": {
+        "title": "给“Labubu们”做“精装房”年入3000万，引爆百亿新赛道",
+        "link": "https://www.tmtpost.com/7618037.html",
+        "published_date": "Mon, 07 Jul 2025 10:43:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.595750"
+      },
+      "f9f5b3293717f0c2efd3de90c4c91e32fc53f5af38e39c5870b578a41a05e021": {
+        "title": "横店东磁印尼产能之谜",
+        "link": "https://www.tmtpost.com/7618049.html",
+        "published_date": "Mon, 07 Jul 2025 10:43:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.596271"
+      },
+      "00a1b0177768f88db0ddb79d53715bd32196a2fd0c66aafbd93d233fe0e1225a": {
+        "title": "从搜索到Agent：AI重构国际贸易",
+        "link": "http://www.huxiu.com/article/4550288.html?f=wangzhan",
+        "published_date": "Mon, 07 Jul 2025 12:05:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125142"
+      },
+      "be012b52446761ffaf055f9ee4fd186f469aad3074f7317658aa1a6a436c5bb0": {
+        "title": "正新鸡排，曾经的炸鸡之王，还有活路吗？",
+        "link": "http://www.huxiu.com/article/4544499.html?f=wangzhan",
+        "published_date": "Mon, 07 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.598065"
+      },
+      "aaf5fe60bf9bbeb27bec0bd73566cf08fc692537b4ec4121b30c54a29bb33524": {
+        "title": "当我说它「太小米」的时候，我在说什么：小米开放式耳机 Pro 体验",
+        "link": "https://sspai.com/post/100748",
+        "published_date": "Mon, 07 Jul 2025 11:06:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.599556"
+      },
+      "5ac41919805599eb105d3272d83f0ac0690dcb2f37897387d4bb89e40b313717": {
+        "title": "派早报：工信部试点隐私号专用号段 700",
+        "link": "https://sspai.com/post/100820",
+        "published_date": "Mon, 07 Jul 2025 08:52:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.125202"
+      },
+      "54c3b4f2f6ea105e1e687c0a41e5fcf4dae47218d930241be65f46126e65ec30": {
+        "title": "李斌：蔚来千亿亏损都在明处，财报很干净；小米 YU7 正式交付首批车主；华为盘古团队回应「抄袭」｜极客早知道",
+        "link": "http://www.geekpark.net/news/351230",
+        "published_date": "Mon, 07 Jul 2025 08:59:00 GMT",
+        "first_seen": "2025-07-07T05:24:22.602827"
       }
     },
     "Finance": {
@@ -754,12 +952,30 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=69bb056a-203d-462e-9cf2-96ae20849c13&mod=mw_rss_bulletins",
         "published_date": "Sun, 06 Jul 2025 20:15:00 GMT",
         "first_seen": "2025-07-06T23:20:22.526819"
+      },
+      "54c96232320409f33400f6d698452a5541f96fe29e8270d1fbf077392fbca59d": {
+        "title": "‘Finance makes me break out in hives’: I inherited $240K from my parents. Do I pay off my $258K mortgage and give up my job?",
+        "link": "https://www.marketwatch.com/story/finance-makes-me-break-out-in-hives-i-inherited-240k-from-my-parents-do-i-pay-off-my-258k-mortgage-and-give-up-my-job-cb06c4a5?mod=mw_rss_topstories",
+        "published_date": "Mon, 07 Jul 2025 01:41:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.128889"
+      },
+      "83e285ba7815a63dbb5e71b1425931ab457f9336afb8694523f294aeb410c08e": {
+        "title": "‘He doesn’t seem to care’: My secretive father, 81, added my name to a bank account. What about my mom?",
+        "link": "https://www.marketwatch.com/story/he-doesnt-seem-to-care-my-secretive-father-81-added-my-name-to-a-bank-account-what-about-my-mom-548dd73e?mod=mw_rss_topstories",
+        "published_date": "Mon, 07 Jul 2025 00:37:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.129351"
+      },
+      "ee1ad0880f2f131b177b921529e0cf51e22376def91719afe58b291ad8600cb1": {
+        "title": "Investors went from panic to ‘Goldilocks.’ Are they getting ahead of themselves?",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5abf2def-cd17-4b36-a80d-778f9aebf956&mod=mw_rss_bulletins",
+        "published_date": "Mon, 07 Jul 2025 00:02:00 GMT",
+        "first_seen": "2025-07-07T05:24:46.130063"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-06T23:19:48.671155",
-    "Technology": "2025-07-06T23:20:22.511079",
-    "Finance": "2025-07-06T23:20:22.529643"
+    "AI": "2025-07-07T05:24:22.579441",
+    "Technology": "2025-07-07T05:24:46.127540",
+    "Finance": "2025-07-07T05:24:46.131702"
   }
 }

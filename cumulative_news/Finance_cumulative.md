@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-06 23:19
+**最后更新时间**: 2025-07-07 05:24
+
+---
+
+## 🆕 最新更新 (2025-07-07 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Finance makes me break out in hives’: I inherited $240K from my parents. Do I pay off my $258K mortgage and give up my job?](https://www.marketwatch.com/story/finance-makes-me-break-out-in-hives-i-inherited-240k-from-my-parents-do-i-pay-off-my-258k-mortgage-and-give-up-my-job-cb06c4a5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 01:41
+
+#### [‘He doesn’t seem to care’: My secretive father, 81, added my name to a bank account. What about my mom?](https://www.marketwatch.com/story/he-doesnt-seem-to-care-my-secretive-father-81-added-my-name-to-a-bank-account-what-about-my-mom-548dd73e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-07 00:37
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Investors went from panic to ‘Goldilocks.’ Are they getting ahead of themselves?](https://www.marketwatch.com/bulletins/redirect/go?g=5abf2def-cd17-4b36-a80d-778f9aebf956&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-07 00:02
 
 ---
 
