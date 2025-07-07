@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Jul 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2025 05:24:46 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 08:31:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OWASP发布AI测试指南，以解决AI系统中的安全性、偏见和风险</title>
-      <link>https://www.infoq.cn/article/9dM6kSqpJYYGMFH2r6x8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OWASP发布AI测试指南，以解决AI系统中的安全性、偏见和风险]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9dM6kSqpJYYGMFH2r6x8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI重塑BAT的三种未来</title>
+      <link>https://www.tmtpost.com/7618104.html</link>
+      <description>&lt;![CDATA[AI重塑BAT的三种未来]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7618104.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谁在执掌中国大厂的AI？</title>
-      <link>https://www.tmtpost.com/7618146.html</link>
-      <description>&lt;![CDATA[谁在执掌中国大厂的AI？]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7618146.html</guid>
+      <title>星动纪元、云深处均完成近5亿新融资，今年国内具身机器人融资规模已超230亿</title>
+      <link>https://www.tmtpost.com/7618261.html</link>
+      <description>&lt;![CDATA[星动纪元、云深处均完成近5亿新融资，今年国内具身机器人融资规模已超230亿]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7618261.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从搜索到Agent：AI重构国际贸易</title>
-      <link>http://www.huxiu.com/article/4550288.html?f=wangzhan</link>
-      <description>&lt;![CDATA[从搜索到Agent：AI重构国际贸易]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4550288.html?f=wangzhan</guid>
+      <title>China's Embodied Intelligence Boom Draws Billions in Funding as Humanoid Robotics Accelerate</title>
+      <link>https://www.tmtpost.com/7618464.html</link>
+      <description>&lt;![CDATA[China's Embodied Intelligence Boom Draws Billions in Funding as Humanoid Robotics Accelerate]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7618464.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Huawei Denies Plagiarism in Pangu AI Model After Allegations of Copying Alibaba's Qwen</title>
-      <link>https://www.tmtpost.com/7618113.html</link>
-      <description>&lt;![CDATA[Huawei Denies Plagiarism in Pangu AI Model After Allegations of Copying Alibaba's Qwen]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7618113.html</guid>
+      <title>从航旅纵横到东南亚Grab：鸿蒙生态的“星辰大海”，由开发者共绘</title>
+      <link>https://www.infoq.cn/article/XRVAPCrEQfVLivsAdbE2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从航旅纵横到东南亚Grab：鸿蒙生态的“星辰大海”，由开发者共绘]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XRVAPCrEQfVLivsAdbE2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>HarmonyOS 开发者技术生态现状洞察报告</title>
-      <link>https://www.infoq.cn/minibook/RWHeyOV2dzkmmdo8odzS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[HarmonyOS 开发者技术生态现状洞察报告]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/minibook/RWHeyOV2dzkmmdo8odzS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>闯入鸿蒙：浪漫、理想与「草台班子」</title>
+      <link>https://www.infoq.cn/article/tVl2WGNkrMxUuOtTzXDk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[闯入鸿蒙：浪漫、理想与「草台班子」]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tVl2WGNkrMxUuOtTzXDk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IC产业并购进入黄金时代</title>
-      <link>https://www.tmtpost.com/7618132.html</link>
-      <description>&lt;![CDATA[IC产业并购进入黄金时代]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7618132.html</guid>
+      <title>迈瑞大动作，正面硬刚达芬奇</title>
+      <link>https://www.tmtpost.com/7618335.html</link>
+      <description>&lt;![CDATA[迈瑞大动作，正面硬刚达芬奇]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7618335.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扩展可观测性平台至 100 PB：通过拥抱宽事件并替换 OTel 实现突破</title>
-      <link>https://www.infoq.cn/article/RNVeebwXu3NsUCRYftrX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[扩展可观测性平台至 100 PB：通过拥抱宽事件并替换 OTel 实现突破]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RNVeebwXu3NsUCRYftrX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>医疗智能体，正火速蹿红</title>
+      <link>https://www.tmtpost.com/7618338.html</link>
+      <description>&lt;![CDATA[医疗智能体，正火速蹿红]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7618338.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare发布公开测试版Containers</title>
-      <link>https://www.infoq.cn/article/z9fsJZ9vhHTUxFSdKhCh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare发布公开测试版Containers]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/z9fsJZ9vhHTUxFSdKhCh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>在亚马逊30倍增长过程中的工程生产力发展拐点</title>
+      <link>https://www.infoq.cn/article/EZT39KoCZ2sIKrbECOSF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[在亚马逊30倍增长过程中的工程生产力发展拐点]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EZT39KoCZ2sIKrbECOSF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：工信部试点隐私号专用号段 700</title>
-      <link>https://sspai.com/post/100820</link>
-      <description>&lt;![CDATA[派早报：工信部试点隐私号专用号段 700]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/100820</guid>
+      <title>京东的野心，在哈萨克有个模板</title>
+      <link>https://www.tmtpost.com/7618309.html</link>
+      <description>&lt;![CDATA[京东的野心，在哈萨克有个模板]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7618309.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>厮杀万亿级市场，阿里京东美团短兵相接</title>
-      <link>https://www.tmtpost.com/7618155.html</link>
-      <description>&lt;![CDATA[厮杀万亿级市场，阿里京东美团短兵相接]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7618155.html</guid>
+      <title>微信备份又升级：外部存储 + 自动化，还是谈不上「好用」吗</title>
+      <link>https://sspai.com/post/100810</link>
+      <description>&lt;![CDATA[微信备份又升级：外部存储 + 自动化，还是谈不上「好用」吗]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100810</guid>
       <category>Technology</category>
     </item>
   </channel>

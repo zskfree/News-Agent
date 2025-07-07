@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-07 05:24
+**最后更新时间**: 2025-07-07 08:30
+
+---
+
+## 🆕 最新更新 (2025-07-07 08:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [监管异常交易行为、高频交易，三大交易所实施新规支持“慢牛”行情](https://www.tmtpost.com/7618455.html)
+**发布时间**: 2025-07-07 16:00
+
+#### [立体广告的“出圈”与“出格”](https://www.tmtpost.com/7618438.html)
+**发布时间**: 2025-07-07 15:30
+
+#### [一条婴儿围脖200块，Bonpoint凭啥收割中产父母？](https://www.tmtpost.com/7618440.html)
+**发布时间**: 2025-07-07 15:30
+
+#### [7月7日A股分析：三大指数今日涨跌不一，两市合计成交12086.5亿元，资金流入最多的行业板块为电网设备、家用轻工](https://www.tmtpost.com/7618458.html)
+**发布时间**: 2025-07-07 15:13
+
+#### [China's Embodied Intelligence Boom Draws Billions in Funding as Humanoid Robotics Accelerate](https://www.tmtpost.com/7618464.html)
+**发布时间**: 2025-07-07 15:09
+
+#### [2025食品行业的理性回归：健康不再是标签，而是产品基因](https://www.tmtpost.com/7618142.html)
+**发布时间**: 2025-07-07 14:28
+
+#### [迈瑞大动作，正面硬刚达芬奇](https://www.tmtpost.com/7618335.html)
+**发布时间**: 2025-07-07 14:18
+
+#### [AI重塑BAT的三种未来](https://www.tmtpost.com/7618104.html)
+**发布时间**: 2025-07-07 14:18
+
+#### [痛风药上市，“东北药茅”又支棱起来了](https://www.tmtpost.com/7618156.html)
+**发布时间**: 2025-07-07 14:18
+
+#### [京东的野心，在哈萨克有个模板](https://www.tmtpost.com/7618309.html)
+**发布时间**: 2025-07-07 14:18
+
+#### [两个中国狠人，拯救7万亿特斯拉](https://www.tmtpost.com/7618317.html)
+**发布时间**: 2025-07-07 14:17
+
+#### [医疗智能体，正火速蹿红](https://www.tmtpost.com/7618338.html)
+**发布时间**: 2025-07-07 14:09
+
+#### [星动纪元、云深处均完成近5亿新融资，今年国内具身机器人融资规模已超230亿](https://www.tmtpost.com/7618261.html)
+**发布时间**: 2025-07-07 14:01
+
+#### [纽北不止有圈速](https://www.tmtpost.com/7618103.html)
+**发布时间**: 2025-07-07 13:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从航旅纵横到东南亚Grab：鸿蒙生态的“星辰大海”，由开发者共绘](https://www.infoq.cn/article/XRVAPCrEQfVLivsAdbE2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-07 15:22
+
+#### [闯入鸿蒙：浪漫、理想与「草台班子」](https://www.infoq.cn/article/tVl2WGNkrMxUuOtTzXDk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-07 14:59
+
+#### [在亚马逊30倍增长过程中的工程生产力发展拐点](https://www.infoq.cn/article/EZT39KoCZ2sIKrbECOSF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-07 14:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [微信备份又升级：外部存储 + 自动化，还是谈不上「好用」吗](https://sspai.com/post/100810)
+**发布时间**: 2025-07-07 15:00
 
 ---
 

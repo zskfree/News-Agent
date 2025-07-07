@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Jul 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2025 05:24:22 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 08:30:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>重塑AI记忆边界：MemOS开源！时序推理较OpenAI提升159%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-4</link>
-      <description>&lt;![CDATA[重塑AI记忆边界：MemOS开源！时序推理较OpenAI提升159%]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-4</guid>
+      <title>开源Agent新标杆：通义WebSailor多榜夺魁，挑战OpenAI高难度Agent基准BrowseComp</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-07-9</link>
+      <description>&lt;![CDATA[开源Agent新标杆：通义WebSailor多榜夺魁，挑战OpenAI高难度Agent基准BrowseComp]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>星动纪元完成近5亿元A轮融资！通用具身技术突破驱动商业化落地，产品批量交付全球科技巨头！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-3</link>
-      <description>&lt;![CDATA[星动纪元完成近5亿元A轮融资！通用具身技术突破驱动商业化落地，产品批量交付全球科技巨头！]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-3</guid>
+      <title>RoboTwin系列新作：开源大规模域随机化双臂操作数据合成器与评测基准集</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-07-8</link>
+      <description>&lt;![CDATA[RoboTwin系列新作：开源大规模域随机化双臂操作数据合成器与评测基准集]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>新范式来了！新能量模型打破Transformer++扩展上限，训练扩展率快35%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-2</link>
-      <description>&lt;![CDATA[新范式来了！新能量模型打破Transformer++扩展上限，训练扩展率快35%]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 13:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-2</guid>
+      <title>让AI自主设计并执行生物实验，机器人生物学家开启实验室自动化新时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-07-5</link>
+      <description>&lt;![CDATA[让AI自主设计并执行生物实验，机器人生物学家开启实验室自动化新时代]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Stream-Omni：同时支持各种模态组合交互的文本-视觉-语音多模态大模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07</link>
-      <description>&lt;![CDATA[Stream-Omni：同时支持各种模态组合交互的文本-视觉-语音多模态大模型]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07</guid>
+      <title>精度高，速度快！西湖大学团队开发端到端电子显微镜图像分析深度学习模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-07-6</link>
+      <description>&lt;![CDATA[精度高，速度快！西湖大学团队开发端到端电子显微镜图像分析深度学习模型]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Karpathy最新脑洞「细菌编程」：优秀的代码应该具备细菌的三大特质</title>
-      <link>https://www.qbitai.com/2025/07/305218.html</link>
-      <description>&lt;![CDATA[Karpathy最新脑洞「细菌编程」：优秀的代码应该具备细菌的三大特质]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 04:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305218.html</guid>
+      <title>与一支由虚拟科学家组成的 AI 团队共事是怎样的体验？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-07-7</link>
+      <description>&lt;![CDATA[与一支由虚拟科学家组成的 AI 团队共事是怎样的体验？]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>文娱合辑 | WAIC 2025：展现AI赋能文娱产业的中国式现代化实践</title>
+      <link>https://www.qbitai.com/2025/07/305325.html</link>
+      <description>&lt;![CDATA[文娱合辑 | WAIC 2025：展现AI赋能文娱产业的中国式现代化实践]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 07:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305325.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>空间智能率先落地国民APP：时空决策很顺滑，直达千人N面出行体验</title>
+      <link>https://www.qbitai.com/2025/07/305271.html</link>
+      <description>&lt;![CDATA[空间智能率先落地国民APP：时空决策很顺滑，直达千人N面出行体验]]&gt;</description>
+      <pubDate>Mon, 07 Jul 2025 06:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305271.html</guid>
       <category>AI</category>
     </item>
   </channel>
