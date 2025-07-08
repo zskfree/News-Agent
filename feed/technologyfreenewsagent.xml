@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Jul 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2025 05:22:52 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2025 08:29:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>特斯拉 Robotaxi 迎来首撞；谷歌 AI 制药即将进行首次人体试验；香港目标今年内发出稳定币牌照</title>
-      <link>http://www.geekpark.net/news/351263</link>
-      <description>&lt;![CDATA[特斯拉 Robotaxi 迎来首撞；谷歌 AI 制药即将进行首次人体试验；香港目标今年内发出稳定币牌照]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351263</guid>
+      <title>【科股一线拆解】GB300正式出货，英伟达产业链公司业绩超预期，机构认为国产算力演进正出现新方向</title>
+      <link>https://www.tmtpost.com/7619591.html</link>
+      <description>&lt;![CDATA[【科股一线拆解】GB300正式出货，英伟达产业链公司业绩超预期，机构认为国产算力演进正出现新方向]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619591.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【产业互联网周报】AI人才争夺加剧，DeepSeek在海外大举招聘人才；微软被曝将“AI使用量”纳入员工考核，直接挂钩绩效；设计协作平台Figma递交IPO申请</title>
-      <link>https://www.tmtpost.com/7618756.html</link>
-      <description>&lt;![CDATA[【产业互联网周报】AI人才争夺加剧，DeepSeek在海外大举招聘人才；微软被曝将“AI使用量”纳入员工考核，直接挂钩绩效；设计协作平台Figma递交IPO申请]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7618756.html</guid>
+      <title>研究者尝试揭示扩散模型创造力的起源</title>
+      <link>https://www.infoq.cn/article/UXqLxpqxXTlfQ6lg8Rmw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[研究者尝试揭示扩散模型创造力的起源]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UXqLxpqxXTlfQ6lg8Rmw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI's $200 Million Pentagon Deal Signals Deepening Silicon Valley Pivot to Defense AI</title>
-      <link>https://www.tmtpost.com/7619524.html</link>
-      <description>&lt;![CDATA[OpenAI's $200 Million Pentagon Deal Signals Deepening Silicon Valley Pivot to Defense AI]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619524.html</guid>
+      <title>脑机接口一百年</title>
+      <link>https://www.tmtpost.com/7619549.html</link>
+      <description>&lt;![CDATA[脑机接口一百年]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619549.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美科技巨头角逐五角大楼大单，向AI要营收 | 企服国际观察</title>
-      <link>https://www.tmtpost.com/7619160.html</link>
-      <description>&lt;![CDATA[美科技巨头角逐五角大楼大单，向AI要营收 | 企服国际观察]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619160.html</guid>
+      <title>LM Studio 0.3.17为工具集成LLM添加了模型上下文协议（MCP）支持</title>
+      <link>https://www.infoq.cn/article/vV5yVOuSvJ4BMBRabvyK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[LM Studio 0.3.17为工具集成LLM添加了模型上下文协议（MCP）支持]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vV5yVOuSvJ4BMBRabvyK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's Humanoid Robot Startups Attract Massive Capital Amid AI Investment Surge</title>
-      <link>https://www.tmtpost.com/7618464.html</link>
-      <description>&lt;![CDATA[China's Humanoid Robot Startups Attract Massive Capital Amid AI Investment Surge]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7618464.html</guid>
+      <title>Grafana发布Tempo 2.8，优化内存并增强了TraceQL功能</title>
+      <link>https://www.infoq.cn/article/r50ZCRbJWsdBvEZRAjxa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Grafana发布Tempo 2.8，优化内存并增强了TraceQL功能]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/r50ZCRbJWsdBvEZRAjxa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>NXP Steps Up China Push as EV Boom Reshapes Global Chip Landscape</title>
-      <link>https://www.tmtpost.com/7619513.html</link>
-      <description>&lt;![CDATA[NXP Steps Up China Push as EV Boom Reshapes Global Chip Landscape]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619513.html</guid>
+      <title>TikTok Shop Enters Japan, Sparking Fresh Competition in Global E-Commerce</title>
+      <link>https://www.tmtpost.com/7619819.html</link>
+      <description>&lt;![CDATA[TikTok Shop Enters Japan, Sparking Fresh Competition in Global E-Commerce]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619819.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>吴治国：半导体装备和先进封装行业的趋势与机遇</title>
-      <link>https://www.tmtpost.com/7619010.html</link>
-      <description>&lt;![CDATA[吴治国：半导体装备和先进封装行业的趋势与机遇]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619010.html</guid>
+      <title>Apple Music 的自动过渡功能，会带来歌单的未来形态吗？</title>
+      <link>https://sspai.com/post/100790</link>
+      <description>&lt;![CDATA[Apple Music 的自动过渡功能，会带来歌单的未来形态吗？]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100790</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gemma 3n推出增强移动AI推理的新技术</title>
-      <link>https://www.infoq.cn/article/5bDyg04PdbSujtrmo1pB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gemma 3n推出增强移动AI推理的新技术]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5bDyg04PdbSujtrmo1pB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>印度AI离大谱，古法诈骗诓全球</title>
+      <link>http://www.huxiu.com/article/4550292.html?f=wangzhan</link>
+      <description>&lt;![CDATA[印度AI离大谱，古法诈骗诓全球]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4550292.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：Apple 就欧盟罚款提起上诉，Windows 11 成为用户最多的操作系统等</title>
-      <link>https://sspai.com/post/100841</link>
-      <description>&lt;![CDATA[派早报：Apple 就欧盟罚款提起上诉，Windows 11 成为用户最多的操作系统等]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/100841</guid>
+      <title>7月8日A股分析：沪指涨0.7%报3497.48点，两市合计成交14539.49亿元，涨幅最多的行业板块为光伏设备</title>
+      <link>https://www.tmtpost.com/7619785.html</link>
+      <description>&lt;![CDATA[7月8日A股分析：沪指涨0.7%报3497.48点，两市合计成交14539.49亿元，涨幅最多的行业板块为光伏设备]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619785.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java新闻综述：Spring gRPC、Micronaut、jrelease、Tomcat、Quarkus遗留配置类</title>
-      <link>https://www.infoq.cn/article/S3y1f3w0O8zEshZCoLsj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java新闻综述：Spring gRPC、Micronaut、jrelease、Tomcat、Quarkus遗留配置类]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/S3y1f3w0O8zEshZCoLsj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>7倍溢价赌10年业绩，欧普康视腾挪募资难掩转型焦虑｜并购一线</title>
+      <link>https://www.tmtpost.com/7619701.html</link>
+      <description>&lt;![CDATA[7倍溢价赌10年业绩，欧普康视腾挪募资难掩转型焦虑｜并购一线]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619701.html</guid>
       <category>Technology</category>
     </item>
   </channel>

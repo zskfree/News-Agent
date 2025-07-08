@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Jul 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2025 05:22:32 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2025 08:29:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>基础设施合辑 | 全国一张网还是超万卡国产集群？WAIC 2025 AI+算力及数据论坛亮点前瞻</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08-4</link>
-      <description>&lt;![CDATA[基础设施合辑 | 全国一张网还是超万卡国产集群？WAIC 2025 AI+算力及数据论坛亮点前瞻]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 11:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-4</guid>
+      <title>用隐藏指令诱导AI给论文打高分，谢赛宁合著论文被点名：认错，绝不鼓励</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-12</link>
+      <description>&lt;![CDATA[用隐藏指令诱导AI给论文打高分，谢赛宁合著论文被点名：认错，绝不鼓励]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Limits of Safe AI Deployment: Differentiating Oversight and Control</title>
-      <link>https://arxiv.org/abs/2507.03525</link>
-      <description>&lt;![CDATA[Limits of Safe AI Deployment: Differentiating Oversight and Control]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.03525</guid>
+      <title>KAG-Thinker：「结构化」思考新范式，支持逻辑严谨的大模型复杂推理</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-11</link>
+      <description>&lt;![CDATA[KAG-Thinker：「结构化」思考新范式，支持逻辑严谨的大模型复杂推理]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLMs are Capable of Misaligned Behavior Under Explicit Prohibition and Surveillance</title>
-      <link>https://arxiv.org/abs/2507.02977</link>
-      <description>&lt;![CDATA[LLMs are Capable of Misaligned Behavior Under Explicit Prohibition and Surveillance]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.02977</guid>
+      <title>AI药物发现再进化：分子之心、斯坦福开发SurfFlow系统，破解治疗性肽设计表面互补难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-10</link>
+      <description>&lt;![CDATA[AI药物发现再进化：分子之心、斯坦福开发SurfFlow系统，破解治疗性肽设计表面互补难题]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Transformer死角，只需500步后训练，循环模型突破256k长度泛化极限</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08-7</link>
-      <description>&lt;![CDATA[Transformer死角，只需500步后训练，循环模型突破256k长度泛化极限]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-7</guid>
+      <title>美国能源部关注的核物理逆问题求解：SAGIPS实现效率 80 倍提升</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-9</link>
+      <description>&lt;![CDATA[美国能源部关注的核物理逆问题求解：SAGIPS实现效率 80 倍提升]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>上交研究登Nature大子刊！可微分物理首次突破端到端无人机高速避障</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08</link>
-      <description>&lt;![CDATA[上交研究登Nature大子刊！可微分物理首次突破端到端无人机高速避障]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08</guid>
+      <title>苹果开发者自曝用Claude完成95%开发，开发应用已上架</title>
+      <link>https://www.qbitai.com/2025/07/305879.html</link>
+      <description>&lt;![CDATA[苹果开发者自曝用Claude完成95%开发，开发应用已上架]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305879.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Study could lead to LLMs that are better at complex reasoning</title>
-      <link>https://news.mit.edu/2025/study-could-lead-llms-better-complex-reasoning-0708</link>
-      <description>&lt;![CDATA[Study could lead to LLMs that are better at complex reasoning]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/study-could-lead-llms-better-complex-reasoning-0708</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICML 2025 | 清华、上海AI Lab提出专家级医学基准MedXpertQA，看o3、R1哪家强</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08-6</link>
-      <description>&lt;![CDATA[ICML 2025 | 清华、上海AI Lab提出专家级医学基准MedXpertQA，看o3、R1哪家强]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了</title>
-      <link>https://www.qbitai.com/2025/07/305545.html</link>
-      <description>&lt;![CDATA[谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 00:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305545.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Economic Evaluation of LLMs</title>
-      <link>https://arxiv.org/abs/2507.03834</link>
-      <description>&lt;![CDATA[Economic Evaluation of LLMs]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.03834</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CodeAgents: A Token-Efficient Framework for Codified Multi-Agent Reasoning in LLMs</title>
-      <link>https://arxiv.org/abs/2507.03254</link>
-      <description>&lt;![CDATA[CodeAgents: A Token-Efficient Framework for Codified Multi-Agent Reasoning in LLMs]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.03254</guid>
+      <title>DeepSeek推理最高提速6倍！开源研究：加装「思维进度条」，计算量减少30%</title>
+      <link>https://www.qbitai.com/2025/07/305756.html</link>
+      <description>&lt;![CDATA[DeepSeek推理最高提速6倍！开源研究：加装「思维进度条」，计算量减少30%]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 06:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305756.html</guid>
       <category>AI</category>
     </item>
   </channel>
