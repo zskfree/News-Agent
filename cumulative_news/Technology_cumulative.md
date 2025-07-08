@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-07 23:20
+**最后更新时间**: 2025-07-08 05:22
+
+---
+
+## 🆕 最新更新 (2025-07-08 05:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China's Humanoid Robot Startups Attract Massive Capital Amid AI Investment Surge](https://www.tmtpost.com/7618464.html)
+**发布时间**: 2025-07-08 15:09
+
+#### [降价、卖身，星巴克走到十字路口](https://www.tmtpost.com/7619238.html)
+**发布时间**: 2025-07-08 13:12
+
+#### [EU Spared under New U.S. Tariffs, Said to Seek Exemptions for Key Sectors](https://www.tmtpost.com/7619599.html)
+**发布时间**: 2025-07-08 12:40
+
+#### [奥运女神照耀Hitch Open AI竞速新赛道——黄剑用艺术为科技注入奥林匹克之魂](https://www.tmtpost.com/7619342.html)
+**发布时间**: 2025-07-08 12:06
+
+#### [疯狂外卖“三国杀”，用户先疯了](https://www.tmtpost.com/7619456.html)
+**发布时间**: 2025-07-08 11:57
+
+#### [超颖电子：募资额大幅缩水34%，补流、偿债依旧是“主旋律”｜IPO观察](https://www.tmtpost.com/7619451.html)
+**发布时间**: 2025-07-08 11:55
+
+#### [OpenAI's $200 Million Pentagon Deal Signals Deepening Silicon Valley Pivot to Defense AI](https://www.tmtpost.com/7619524.html)
+**发布时间**: 2025-07-08 11:46
+
+#### [NXP Steps Up China Push as EV Boom Reshapes Global Chip Landscape](https://www.tmtpost.com/7619513.html)
+**发布时间**: 2025-07-08 11:40
+
+#### [美科技巨头角逐五角大楼大单，向AI要营收 | 企服国际观察](https://www.tmtpost.com/7619160.html)
+**发布时间**: 2025-07-08 11:31
+
+#### [【产业互联网周报】AI人才争夺加剧，DeepSeek在海外大举招聘人才；微软被曝将“AI使用量”纳入员工考核，直接挂钩绩效；设计协作平台Figma递交IPO申请](https://www.tmtpost.com/7618756.html)
+**发布时间**: 2025-07-08 11:27
+
+#### [欧洲大停电“镜鉴”：中国该如何防范、化解大停电风险？](https://www.tmtpost.com/7619299.html)
+**发布时间**: 2025-07-08 11:19
+
+#### [Trump Suggests Flexibility after Signing Executive Order Extending Tariff Deadline to Aug. 1](https://www.tmtpost.com/7619471.html)
+**发布时间**: 2025-07-08 11:15
+
+#### [最懂人心的“产品经理”，这一次站在了大众对立面](https://www.tmtpost.com/7619288.html)
+**发布时间**: 2025-07-08 10:55
+
+#### [U.S. to Issue Multiple Trade Updates Within 48 Hours, Says Treasury Secretary](https://www.tmtpost.com/7619412.html)
+**发布时间**: 2025-07-08 10:39
+
+#### [Trump Announces Up to 40% Tariffs on Japan and 13 Other Countries Starting Aug. 1](https://www.tmtpost.com/7619403.html)
+**发布时间**: 2025-07-08 10:34
+
+#### [火热的“中女时代”，让90花危机感空前加剧](https://www.tmtpost.com/7619057.html)
+**发布时间**: 2025-07-08 10:15
+
+#### [吴治国：半导体装备和先进封装行业的趋势与机遇](https://www.tmtpost.com/7619010.html)
+**发布时间**: 2025-07-08 10:00
+
+#### [即时零售大战，淘宝闪购成美团“头号敌人”](https://www.tmtpost.com/7619109.html)
+**发布时间**: 2025-07-08 09:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AGICamp 第 002 周 AI 应用榜发布：AiPPT、Lighthouse、SwiftAgent等上榜](https://www.infoq.cn/article/vQ2hiHdsVaERNFYjQroh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-08 11:31
+
+#### [Gemma 3n推出增强移动AI推理的新技术](https://www.infoq.cn/article/5bDyg04PdbSujtrmo1pB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-08 10:16
+
+#### [Java新闻综述：Spring gRPC、Micronaut、jrelease、Tomcat、Quarkus遗留配置类](https://www.infoq.cn/article/S3y1f3w0O8zEshZCoLsj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-08 09:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 助你搭建更安全的私有知识库：言叶](https://sspai.com/post/100448)
+**发布时间**: 2025-07-08 11:30
+
+#### [派早报：Apple 就欧盟罚款提起上诉，Windows 11 成为用户最多的操作系统等](https://sspai.com/post/100841)
+**发布时间**: 2025-07-08 08:41
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [链上炒美股，24小时全天交易、秒级结算来了](http://www.huxiu.com/article/4539567.html?f=wangzhan)
+**发布时间**: 2025-07-08 11:20
+
+#### [价格终结者，3C认证重塑充电宝江湖](http://www.huxiu.com/article/4551507.html?f=wangzhan)
+**发布时间**: 2025-07-08 10:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [特斯拉 Robotaxi 迎来首撞；谷歌 AI 制药即将进行首次人体试验；香港目标今年内发出稳定币牌照](http://www.geekpark.net/news/351263)
+**发布时间**: 2025-07-08 08:20
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [10% Home Depot Promo Codes & Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)
+**发布时间**: 2025-07-08 05:00
 
 ---
 

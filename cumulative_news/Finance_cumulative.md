@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-07 23:20
+**最后更新时间**: 2025-07-08 05:22
+
+---
+
+## 🆕 最新更新 (2025-07-08 05:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [MicroStrategy didn’t buy more bitcoin — for the first time in three months](https://www.marketwatch.com/story/microstrategy-didnt-buy-more-bitcoin-for-the-first-time-in-three-months-d663c6d0?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 03:21
+
+#### [Amazon’s Prime Day sale is longer than ever — and even more important than usual for the company. Here’s why.](https://www.marketwatch.com/story/amazons-prime-day-sale-is-longer-than-ever-and-even-more-important-than-usual-for-the-company-heres-why-dcc41d58?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 02:06
+
+#### [IBM’s stock is beating Big Tech this year. Why this analyst sees more gains ahead.](https://www.marketwatch.com/story/ibms-stock-is-beating-big-tech-this-year-why-this-analyst-sees-more-gains-ahead-fe3898ef?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 00:16
+
+#### [Nvidia’s stock just got a more bullish endorsement from Citi — but here’s one fresh risk](https://www.marketwatch.com/story/nvidias-stock-just-got-a-more-bullish-endorsement-from-citi-but-heres-one-fresh-risk-b5d242c9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 00:14
 
 ---
 

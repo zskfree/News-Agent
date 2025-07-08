@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Jul 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2025 23:20:38 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2025 05:22:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI发现医生看不见的隐藏心脏病风险，近90%准确率远超人类专家｜Nature子刊</title>
-      <link>https://www.qbitai.com/2025/07/305407.html</link>
-      <description>&lt;![CDATA[AI发现医生看不见的隐藏心脏病风险，近90%准确率远超人类专家｜Nature子刊]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305407.html</guid>
+      <title>基础设施合辑 | 全国一张网还是超万卡国产集群？WAIC 2025 AI+算力及数据论坛亮点前瞻</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-4</link>
+      <description>&lt;![CDATA[基础设施合辑 | 全国一张网还是超万卡国产集群？WAIC 2025 AI+算力及数据论坛亮点前瞻]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术</title>
-      <link>https://www.qbitai.com/2025/07/305382.html</link>
-      <description>&lt;![CDATA[Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305382.html</guid>
+      <title>Limits of Safe AI Deployment: Differentiating Oversight and Control</title>
+      <link>https://arxiv.org/abs/2507.03525</link>
+      <description>&lt;![CDATA[Limits of Safe AI Deployment: Differentiating Oversight and Control]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.03525</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: China’s winning at advanced manufacturing, and a potential TikTok sale</title>
-      <link>https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/</link>
-      <description>&lt;![CDATA[The Download: China’s winning at advanced manufacturing, and a potential TikTok sale]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/</guid>
+      <title>LLMs are Capable of Misaligned Behavior Under Explicit Prohibition and Surveillance</title>
+      <link>https://arxiv.org/abs/2507.02977</link>
+      <description>&lt;![CDATA[LLMs are Capable of Misaligned Behavior Under Explicit Prohibition and Surveillance]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.02977</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The digital future of industrial and operational work</title>
-      <link>https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/</link>
-      <description>&lt;![CDATA[The digital future of industrial and operational work]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/</guid>
+      <title>Transformer死角，只需500步后训练，循环模型突破256k长度泛化极限</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-7</link>
+      <description>&lt;![CDATA[Transformer死角，只需500步后训练，循环模型突破256k长度泛化极限]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Claude Code发布4个月，用户已经11.5万了，开发者：200 美元/月不算贵</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-07-11</link>
-      <description>&lt;![CDATA[Claude Code发布4个月，用户已经11.5万了，开发者：200 美元/月不算贵]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 17:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-07-11</guid>
+      <title>上交研究登Nature大子刊！可微分物理首次突破端到端无人机高速避障</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08</link>
+      <description>&lt;![CDATA[上交研究登Nature大子刊！可微分物理首次突破端到端无人机高速避障]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全球数字经济大会｜猿力科技：做AI教育的“探路者”和“实践者”</title>
-      <link>https://www.qbitai.com/2025/07/305542.html</link>
-      <description>&lt;![CDATA[全球数字经济大会｜猿力科技：做AI教育的“探路者”和“实践者”]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305542.html</guid>
+      <title>Study could lead to LLMs that are better at complex reasoning</title>
+      <link>https://news.mit.edu/2025/study-could-lead-llms-better-complex-reasoning-0708</link>
+      <description>&lt;![CDATA[Study could lead to LLMs that are better at complex reasoning]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/study-could-lead-llms-better-complex-reasoning-0708</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Data Agent如何帮助企业打造懂你的“电子牛马”？｜数势xSelectDB</title>
-      <link>https://www.qbitai.com/2025/07/305466.html</link>
-      <description>&lt;![CDATA[Data Agent如何帮助企业打造懂你的“电子牛马”？｜数势xSelectDB]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305466.html</guid>
+      <title>ICML 2025 | 清华、上海AI Lab提出专家级医学基准MedXpertQA，看o3、R1哪家强</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-08-6</link>
+      <description>&lt;![CDATA[ICML 2025 | 清华、上海AI Lab提出专家级医学基准MedXpertQA，看o3、R1哪家强]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 13:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The latest threat from the rise of Chinese manufacturing</title>
-      <link>https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/</link>
-      <description>&lt;![CDATA[The latest threat from the rise of Chinese manufacturing]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/</guid>
+      <title>谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了</title>
+      <link>https://www.qbitai.com/2025/07/305545.html</link>
+      <description>&lt;![CDATA[谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 00:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305545.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Producing tangible business benefits from modern iPaaS solutions</title>
-      <link>https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/</link>
-      <description>&lt;![CDATA[Producing tangible business benefits from modern iPaaS solutions]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/</guid>
+      <title>Economic Evaluation of LLMs</title>
+      <link>https://arxiv.org/abs/2507.03834</link>
+      <description>&lt;![CDATA[Economic Evaluation of LLMs]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.03834</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>New postdoctoral fellowship program to accelerate innovation in health care</title>
-      <link>https://news.mit.edu/2025/new-postdoctoral-fellowship-program-accelerate-innovation-health-care-0707</link>
-      <description>&lt;![CDATA[New postdoctoral fellowship program to accelerate innovation in health care]]&gt;</description>
-      <pubDate>Mon, 07 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-postdoctoral-fellowship-program-accelerate-innovation-health-care-0707</guid>
+      <title>CodeAgents: A Token-Efficient Framework for Codified Multi-Agent Reasoning in LLMs</title>
+      <link>https://arxiv.org/abs/2507.03254</link>
+      <description>&lt;![CDATA[CodeAgents: A Token-Efficient Framework for Codified Multi-Agent Reasoning in LLMs]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.03254</guid>
       <category>AI</category>
     </item>
   </channel>
