@@ -1,7 +1,212 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-08 08:29
+**最后更新时间**: 2025-07-08 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-08 23:20)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Confirmed: Nintendo’s Switch 2 can work with existing docks and webcams after replacing their firmware](https://www.theverge.com/nintendo/701381/confirmed-nintendos-switch-2-can-work-with-existing-docks-and-webcams-after-replacing-their-firmware)
+**发布时间**: 2025-07-08 23:20
+
+#### [The Prime Day sale on TCL’s 85-inch TV is one of the best deals out there](https://www.theverge.com/tech/701577/prime-day-2025-tcl-qm8k-mini-led-tv-deal-sale)
+**发布时间**: 2025-07-08 23:14
+
+#### [Apple&#8217;s design team will report to Tim Cook](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)
+**发布时间**: 2025-07-08 22:58
+
+#### [Supreme Court gives Trump the green light to cut down the federal workforce](https://www.theverge.com/policy/701646/supreme-court-decision-federal-workers-trump-layoffs)
+**发布时间**: 2025-07-08 22:52
+
+#### [The 197 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+**发布时间**: 2025-07-08 22:40
+
+#### [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
+**发布时间**: 2025-07-08 22:00
+
+#### [One of Tim Cook’s possible successors is leaving Apple](https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan)
+**发布时间**: 2025-07-08 20:54
+
+#### [The best laptop deals we’ve found for Prime Day (so far)](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+**发布时间**: 2025-07-08 20:33
+
+#### [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+**发布时间**: 2025-07-08 20:24
+
+#### [Apple’s AirPods Pro 2 are $100 off for Prime Day](https://www.theverge.com/tech/698199/airpods-pro-2-amazon-prime-day-walmart-deal-sale)
+**发布时间**: 2025-07-08 20:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [估值18亿！汉京半导体被“光刻机概念股”收购；激光制造龙头拟3.52亿元控股亿联无限，跨界通信设备【并购一线】](https://www.tmtpost.com/7620188.html)
+**发布时间**: 2025-07-08 23:19
+
+#### [专网通信造假再发酵：瑞斯康达实控人采取刑事强制措施，扭亏之路遇重创](https://www.tmtpost.com/7620111.html)
+**发布时间**: 2025-07-08 21:21
+
+#### [长鸿高科重启争议关联并购：百亿投资承压，多元化再落“险棋”｜并购一线](https://www.tmtpost.com/7620077.html)
+**发布时间**: 2025-07-08 20:35
+
+#### [国泰全新 IT 办公室进驻深圳前海，深化大湾区数字化协同布局](https://www.tmtpost.com/7620029.html)
+**发布时间**: 2025-07-08 20:11
+
+#### [美团外卖餐饮订单破1亿，王兴强调“不惜代价赢得竞争”](https://www.tmtpost.com/7619685.html)
+**发布时间**: 2025-07-08 19:29
+
+#### [音乐平台的好日子开始了](https://www.tmtpost.com/7619720.html)
+**发布时间**: 2025-07-08 19:14
+
+#### [China's Viral AI Agent Startup Manus Relocates to Singapore, Lays Off Domestic Staff Amid U.S. Tech Restrictions](https://www.tmtpost.com/7620035.html)
+**发布时间**: 2025-07-08 19:11
+
+#### [谁能与辉同行](https://www.tmtpost.com/7619957.html)
+**发布时间**: 2025-07-08 18:52
+
+#### [法务成了公关的好兄弟](https://www.tmtpost.com/7619418.html)
+**发布时间**: 2025-07-08 18:52
+
+#### [梦龙、哈根达斯们得了星巴克的病](https://www.tmtpost.com/7619990.html)
+**发布时间**: 2025-07-08 18:52
+
+#### [乐高入沪，后来者能居上？](https://www.tmtpost.com/7619941.html)
+**发布时间**: 2025-07-08 18:52
+
+#### [暑期金融争夺战：银行如何抢滩1400亿旅游消费市场](https://www.tmtpost.com/7619357.html)
+**发布时间**: 2025-07-08 18:35
+
+#### [2025年，二游再次伟大？](https://www.tmtpost.com/7619704.html)
+**发布时间**: 2025-07-08 18:23
+
+#### [今年北京最大IPO，屹唐股份登陆科创板，市值直逼700亿！](https://www.tmtpost.com/7619969.html)
+**发布时间**: 2025-07-08 18:22
+
+#### [泡泡玛特，靠IP吃遍“三百六十行”？](https://www.tmtpost.com/7619917.html)
+**发布时间**: 2025-07-08 18:13
+
+#### [AI六小虎，胜利大逃亡？](https://www.tmtpost.com/7619698.html)
+**发布时间**: 2025-07-08 17:38
+
+#### [百元“助听器”，正在偷走1.2亿老人的听力](https://www.tmtpost.com/7619653.html)
+**发布时间**: 2025-07-08 17:38
+
+#### [充电宝事故，扯下了电池技术的“遮羞布”](https://www.tmtpost.com/7619871.html)
+**发布时间**: 2025-07-08 17:07
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025/)
+**发布时间**: 2025-07-08 22:32
+
+#### [Conspiracy Theories About the Texas Floods Lead to Death Threats](https://www.wired.com/story/texas-floods-conspiracy-theories-geoengineering-weather-weapon/)
+**发布时间**: 2025-07-08 22:01
+
+#### [OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta](https://www.wired.com/story/openai-new-hires-scaling/)
+**发布时间**: 2025-07-08 22:00
+
+#### [8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)
+**发布时间**: 2025-07-08 21:15
+
+#### [6 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)](https://www.wired.com/story/prime-day-tracker-and-ring-2025/)
+**发布时间**: 2025-07-08 20:28
+
+#### [8 Prime Day Kindle Deals (Plus Amazon Echo Devices)](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)
+**发布时间**: 2025-07-08 20:20
+
+#### [Volodymyr Zelensky’s Clothing Has Sparked a Polymarket Rebellion](https://www.wired.com/story/volodymyr-zelensky-suit-polymarket-rebellion/)
+**发布时间**: 2025-07-08 20:18
+
+#### [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025/)
+**发布时间**: 2025-07-08 19:58
+
+#### [16 Best Prime Day Deals on Coffee Machines, Grinders & More](https://www.wired.com/story/the-best-prime-day-coffee-deals/)
+**发布时间**: 2025-07-08 19:57
+
+#### [10 Best Prime Day Pet Deals on Amazon (2025)](https://www.wired.com/story/prime-day-pet-deals-2025/)
+**发布时间**: 2025-07-08 19:15
+
+#### [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)](https://www.wired.com/story/prime-day-apple-deals-2025/)
+**发布时间**: 2025-07-08 19:09
+
+#### [5 Best Prime Day TV Deals for All Budgets (2025)](https://www.wired.com/story/prime-day-tv-deals-july-2025/)
+**发布时间**: 2025-07-08 19:02
+
+#### [You Can Now Play ‘The Last of Us Part II’ in Chronological Order](https://www.wired.com/story/you-can-now-play-the-last-of-us-part-ii-in-chronological-order/)
+**发布时间**: 2025-07-08 19:00
+
+#### [Wi-Fi in the US Could Get Worse Under Trump's New Law](https://www.wired.com/story/wi-fi-in-the-us-could-get-worse-under-trumps-new-law/)
+**发布时间**: 2025-07-08 19:00
+
+#### [The 47 Best Shows on Max (aka HBO Max) Right Now (July 2025)](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+**发布时间**: 2025-07-08 19:00
+
+#### [LIVE Amazon Prime Day 2025: We're Tracking Deals & Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
+**发布时间**: 2025-07-08 18:37
+
+#### [99 Best Prime Day Deals of 2025—All Personally Tested By Us](https://www.wired.com/story/best-amazon-prime-deals-july-2025/)
+**发布时间**: 2025-07-08 18:05
+
+#### [Parvati Shallow Says RIP to the ‘Black Widow’ and All That](https://www.wired.com/story/parvati-shallow-survivor-book-black-widow/)
+**发布时间**: 2025-07-08 17:27
+
+#### [The Teens Are Taking Waymos Now](https://www.wired.com/story/the-teens-are-taking-waymos-now/)
+**发布时间**: 2025-07-08 17:00
+
+#### [26 Best Prime Day Tech Deals on iPads, Kindles, and Phones (2025)](https://www.wired.com/story/prime-day-tech-deals-2025/)
+**发布时间**: 2025-07-08 16:49
+
+#### [The 911 Calls Inside ICE Detention Centers](https://www.wired.com/story/uncanny-valley-podcast-the-911-calls-inside-ice-detention-centers/)
+**发布时间**: 2025-07-08 16:15
+
+#### [Meet the America Party, Elon Musk’s Harebrained Third-Party Scheme](https://www.wired.com/story/elon-musk-third-party/)
+**发布时间**: 2025-07-08 15:17
+
+#### [15 Best Tablets (2025), Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
+**发布时间**: 2025-07-08 14:33
+
+#### [Best 5 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025/)
+**发布时间**: 2025-07-08 14:23
+
+#### [22 Best MacBook Accessories (2025), Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
+**发布时间**: 2025-07-08 13:01
+
+#### [Nothing Phone (3) Review: The Designer Phone](https://www.wired.com/review/nothing-phone-3/)
+**发布时间**: 2025-07-08 13:00
+
+#### [How to Spot Fake Beauty Products on Amazon: Tips and Advice](https://www.wired.com/story/how-to-spot-counterfeit-beauty-products-on-amazon/)
+**发布时间**: 2025-07-08 13:00
+
+#### [The 5 Best Prime Day Action Camera Deals for Thrill Seekers (2025)](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)
+**发布时间**: 2025-07-08 12:14
+
+#### [9 Best Smartwatches (2025): Apple, Wear OS, Hybrid & Kids' Watches](https://www.wired.com/gallery/best-smartwatches/)
+**发布时间**: 2025-07-08 12:00
+
+#### [Microsoft, OpenAI, and a US Teachers’ Union Are Hatching a Plan to ‘Bring AI into the Classroom’](https://www.wired.com/story/microsoft-openai-and-a-us-teachers-union-are-hatching-a-plan-to-bring-ai-into-the-classroom/)
+**发布时间**: 2025-07-08 11:30
+
+#### [‘Yearners’ Are Sick of Playing It Cool on Dating Apps](https://www.wired.com/story/yearners-are-sick-of-playing-it-cool-on-dating-apps/)
+**发布时间**: 2025-07-08 11:00
+
+#### [5 Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
+**发布时间**: 2025-07-08 09:38
+
+#### [How to Spot Fake Reviews on Amazon: Tools and Advice](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
+**发布时间**: 2025-07-08 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 上新｜这款 AI 浏览器，让我惊喜，又有点「后怕」](http://www.geekpark.net/news/351297)
+**发布时间**: 2025-07-08 19:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [macOS 有了新的磁盘映像格式，Let’s Encrypt 开始签发 IP 地址证书](https://sspai.com/prime/story/inside-release-notes-250708)
+**发布时间**: 2025-07-08 18:43
+
+#### [社区速递 100 | 一周热评、派友的新玩意和组网方案大赏](https://sspai.com/post/100852)
+**发布时间**: 2025-07-08 17:03
 
 ---
 

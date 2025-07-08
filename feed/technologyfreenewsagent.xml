@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Jul 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2025 08:29:57 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2025 23:21:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【科股一线拆解】GB300正式出货，英伟达产业链公司业绩超预期，机构认为国产算力演进正出现新方向</title>
-      <link>https://www.tmtpost.com/7619591.html</link>
-      <description>&lt;![CDATA[【科股一线拆解】GB300正式出货，英伟达产业链公司业绩超预期，机构认为国产算力演进正出现新方向]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 12:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619591.html</guid>
+      <title>OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta</title>
+      <link>https://www.wired.com/story/openai-new-hires-scaling/</link>
+      <description>&lt;![CDATA[OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-new-hires-scaling/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>研究者尝试揭示扩散模型创造力的起源</title>
-      <link>https://www.infoq.cn/article/UXqLxpqxXTlfQ6lg8Rmw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[研究者尝试揭示扩散模型创造力的起源]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UXqLxpqxXTlfQ6lg8Rmw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>China's Viral AI Agent Startup Manus Relocates to Singapore, Lays Off Domestic Staff Amid U.S. Tech Restrictions</title>
+      <link>https://www.tmtpost.com/7620035.html</link>
+      <description>&lt;![CDATA[China's Viral AI Agent Startup Manus Relocates to Singapore, Lays Off Domestic Staff Amid U.S. Tech Restrictions]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7620035.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>脑机接口一百年</title>
-      <link>https://www.tmtpost.com/7619549.html</link>
-      <description>&lt;![CDATA[脑机接口一百年]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619549.html</guid>
+      <title>Apple&amp;#8217;s design team will report to Tim Cook</title>
+      <link>https://www.theverge.com/news/701705/apple-tim-cook-design-team-report</link>
+      <description>&lt;![CDATA[Apple&amp;#8217;s design team will report to Tim Cook]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 22:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/701705/apple-tim-cook-design-team-report</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>LM Studio 0.3.17为工具集成LLM添加了模型上下文协议（MCP）支持</title>
-      <link>https://www.infoq.cn/article/vV5yVOuSvJ4BMBRabvyK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LM Studio 0.3.17为工具集成LLM添加了模型上下文协议（MCP）支持]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vV5yVOuSvJ4BMBRabvyK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>One of Tim Cook’s possible successors is leaving Apple</title>
+      <link>https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan</link>
+      <description>&lt;![CDATA[One of Tim Cook’s possible successors is leaving Apple]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 20:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grafana发布Tempo 2.8，优化内存并增强了TraceQL功能</title>
-      <link>https://www.infoq.cn/article/r50ZCRbJWsdBvEZRAjxa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Grafana发布Tempo 2.8，优化内存并增强了TraceQL功能]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/r50ZCRbJWsdBvEZRAjxa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>估值18亿！汉京半导体被“光刻机概念股”收购；激光制造龙头拟3.52亿元控股亿联无限，跨界通信设备【并购一线】</title>
+      <link>https://www.tmtpost.com/7620188.html</link>
+      <description>&lt;![CDATA[估值18亿！汉京半导体被“光刻机概念股”收购；激光制造龙头拟3.52亿元控股亿联无限，跨界通信设备【并购一线】]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 23:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7620188.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TikTok Shop Enters Japan, Sparking Fresh Competition in Global E-Commerce</title>
-      <link>https://www.tmtpost.com/7619819.html</link>
-      <description>&lt;![CDATA[TikTok Shop Enters Japan, Sparking Fresh Competition in Global E-Commerce]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619819.html</guid>
+      <title>Wi-Fi in the US Could Get Worse Under Trump's New Law</title>
+      <link>https://www.wired.com/story/wi-fi-in-the-us-could-get-worse-under-trumps-new-law/</link>
+      <description>&lt;![CDATA[Wi-Fi in the US Could Get Worse Under Trump's New Law]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/wi-fi-in-the-us-could-get-worse-under-trumps-new-law/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple Music 的自动过渡功能，会带来歌单的未来形态吗？</title>
-      <link>https://sspai.com/post/100790</link>
-      <description>&lt;![CDATA[Apple Music 的自动过渡功能，会带来歌单的未来形态吗？]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/100790</guid>
+      <title>Confirmed: Nintendo’s Switch 2 can work with existing docks and webcams after replacing their firmware</title>
+      <link>https://www.theverge.com/nintendo/701381/confirmed-nintendos-switch-2-can-work-with-existing-docks-and-webcams-after-replacing-their-firmware</link>
+      <description>&lt;![CDATA[Confirmed: Nintendo’s Switch 2 can work with existing docks and webcams after replacing their firmware]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/nintendo/701381/confirmed-nintendos-switch-2-can-work-with-existing-docks-and-webcams-after-replacing-their-firmware</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>印度AI离大谱，古法诈骗诓全球</title>
-      <link>http://www.huxiu.com/article/4550292.html?f=wangzhan</link>
-      <description>&lt;![CDATA[印度AI离大谱，古法诈骗诓全球]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4550292.html?f=wangzhan</guid>
+      <title>今年北京最大IPO，屹唐股份登陆科创板，市值直逼700亿！</title>
+      <link>https://www.tmtpost.com/7619969.html</link>
+      <description>&lt;![CDATA[今年北京最大IPO，屹唐股份登陆科创板，市值直逼700亿！]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619969.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7月8日A股分析：沪指涨0.7%报3497.48点，两市合计成交14539.49亿元，涨幅最多的行业板块为光伏设备</title>
-      <link>https://www.tmtpost.com/7619785.html</link>
-      <description>&lt;![CDATA[7月8日A股分析：沪指涨0.7%报3497.48点，两市合计成交14539.49亿元，涨幅最多的行业板块为光伏设备]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619785.html</guid>
+      <title>美团外卖餐饮订单破1亿，王兴强调“不惜代价赢得竞争”</title>
+      <link>https://www.tmtpost.com/7619685.html</link>
+      <description>&lt;![CDATA[美团外卖餐饮订单破1亿，王兴强调“不惜代价赢得竞争”]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7619685.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7倍溢价赌10年业绩，欧普康视腾挪募资难掩转型焦虑｜并购一线</title>
-      <link>https://www.tmtpost.com/7619701.html</link>
-      <description>&lt;![CDATA[7倍溢价赌10年业绩，欧普康视腾挪募资难掩转型焦虑｜并购一线]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7619701.html</guid>
+      <title>国泰全新 IT 办公室进驻深圳前海，深化大湾区数字化协同布局</title>
+      <link>https://www.tmtpost.com/7620029.html</link>
+      <description>&lt;![CDATA[国泰全新 IT 办公室进驻深圳前海，深化大湾区数字化协同布局]]&gt;</description>
+      <pubDate>Tue, 08 Jul 2025 20:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7620029.html</guid>
       <category>Technology</category>
     </item>
   </channel>

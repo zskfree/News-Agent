@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-08 05:22
+**最后更新时间**: 2025-07-08 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-08 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security touts customer-service milestones, but some say it’s ‘cherry picking’ performance improvements](https://www.marketwatch.com/story/social-security-touts-customer-service-milestones-but-some-say-its-cherry-picking-performance-improvements-66a25a90?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 22:51
+
+#### [How America’s economic policies are copying Trump’s aggressive business tactics](https://www.marketwatch.com/story/how-trumps-budget-is-gambling-with-your-savings-and-investments-ac8436fc?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 22:31
+
+#### [A key Apple executive is leaving at a pivotal time — but here’s why investors shouldn’t worry](https://www.marketwatch.com/story/a-key-apple-executive-is-leaving-at-a-pivotal-time-but-heres-why-investors-shouldnt-worry-d93ebc98?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 22:26
+
+#### [I’m 85 with 2 kids and $4 million. My daughter wants a larger share of my estate than my son to compensate for unequal treatment by her father.](https://www.marketwatch.com/story/im-85-with-2-kids-and-4-million-my-daughter-wants-a-larger-share-of-my-estate-than-my-son-to-compensate-for-unequal-treatment-by-her-father-7ea3b2d1?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 22:06
+
+#### [CoreWeave’s stock has quadrupled since the IPO — and that’s just one reason some analysts are cautious](https://www.marketwatch.com/story/coreweaves-stock-has-quadrupled-since-the-ipo-and-thats-just-one-reason-some-analysts-are-cautious-430fe6be?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 21:52
+
+#### [Don’t spend thousands on a couple’s trip without taking these 3 steps first — or you risk fighting the whole time](https://www.marketwatch.com/story/dont-spend-thousands-on-a-couples-trip-without-taking-these-3-steps-first-or-you-risk-fighting-the-whole-time-ab04d4e5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 21:14
+
+#### [Oil prices are climbing because a new battle for global market share is brewing](https://www.marketwatch.com/story/oil-prices-are-climbing-because-a-new-battle-for-global-market-share-is-brewing-f54e39ba?mod=mw_rss_topstories)
+**发布时间**: 2025-07-08 21:10
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Home sellers have gotten tired of cutting prices. So they’re yanking listings.](https://www.marketwatch.com/bulletins/redirect/go?g=2a6c2f91-3838-4e87-a362-b0ec0aef63fd&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 22:02
+
+#### [Here's the latest on Trump's tariffs as White House preps letters to countries](https://www.marketwatch.com/bulletins/redirect/go?g=b970bcd9-e931-410a-a9d6-1dbd0dfe5b7f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 21:26
+
+#### [The dollar is having its worst year since Nixon. Why it will get even weaker.](https://www.marketwatch.com/bulletins/redirect/go?g=9012cf24-9162-4974-8732-50ac577bbdae&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 20:38
+
+#### [Dow ends 165 points lower as U.S. stocks again feel weight of tariff uncertainty](https://www.marketwatch.com/bulletins/redirect/go?g=d94673f4-0256-49ca-beed-7d2a6a9e689e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 20:06
+
+#### [As Trump revs up his trade war again, why investors aren’t panicking just yet](https://www.marketwatch.com/bulletins/redirect/go?g=823b08d1-9c95-4b96-a434-e34f777f8d70&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 19:31
+
+#### [Copper prices settle at record high after Trump's tariff talk](https://www.marketwatch.com/bulletins/redirect/go?g=54acb099-d6f4-4bf9-b8d6-e8a4deeb2cdd&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 17:59
+
+#### [WeightWatchers is out of bankruptcy. And it’s taking aim at menopause.](https://www.marketwatch.com/bulletins/redirect/go?g=ae162478-33be-4432-81a4-e68e33e82987&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 13:22
+
+#### [One stock that’s benefiting from the latest Musk-Trump hostilities](https://www.marketwatch.com/bulletins/redirect/go?g=d67f8254-dd11-4a2e-b3b5-7632acd97c5c&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 12:54
+
+#### [Economic calendar: Fed speakers and meeting minutes mark remainder of week](https://www.marketwatch.com/bulletins/redirect/go?g=15a08a93-a321-47b1-a778-0bddb21cd6ca&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-08 12:18
 
 ---
 

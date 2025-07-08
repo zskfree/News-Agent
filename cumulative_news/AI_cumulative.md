@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-08 08:29
+**最后更新时间**: 2025-07-08 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-08 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [登《Cell》，中科院高彩霞等开发AiCE：一种AI蛋白质工程通用策略](https://www.jiqizhixin.com/articles/2025-07-08-15)
+**发布时间**: 2025-07-08 18:23
+
+#### [还在为AI数据发愁？张文涛和鄂维南院士团队推出Data-centric AI系统](https://www.jiqizhixin.com/articles/2025-07-08-14)
+**发布时间**: 2025-07-08 17:59
+
+#### [500万视频数据集+全新评测框架！北大开源主体一致性视频生成领域新基建OpenS2V-Nexus，生成视频 「像」 又 「自然」](https://www.jiqizhixin.com/articles/2025-07-08-13)
+**发布时间**: 2025-07-08 17:51
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [17岁少女推翻40年前数学猜想,师从北大校友张瑞祥,将攻读博士学位](https://www.qbitai.com/2025/07/306334.html)
+**发布时间**: 2025-07-08 14:26
+
+#### [百亿机器人独角兽冲刺IPO，细分赛道收入第一](https://www.qbitai.com/2025/07/306259.html)
+**发布时间**: 2025-07-08 09:41
+
+#### [蔚来李斌“电池太大压坏马路”热搜了](https://www.qbitai.com/2025/07/306030.html)
+**发布时间**: 2025-07-08 09:15
+
+#### [大模型刷数学题竟有害？CMU评估20+模型指出训练陷阱](https://www.qbitai.com/2025/07/306185.html)
+**发布时间**: 2025-07-08 09:08
+
+#### [基于能量的Transformer横空出世！全面超越主流模型35%](https://www.qbitai.com/2025/07/305982.html)
+**发布时间**: 2025-07-08 09:04
+
+#### [AI版三个臭皮匠！ChatGPT/Gemini/DeepSeek合体拿下AGI测试最高分](https://www.qbitai.com/2025/07/306010.html)
+**发布时间**: 2025-07-08 08:58
+
+#### [240亿具身智能巨头冲刺港股，比亚迪蔚小理都在用](https://www.qbitai.com/2025/07/305869.html)
+**发布时间**: 2025-07-08 07:32
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Building an innovation ecosystem for the next century](https://www.technologyreview.com/2025/07/08/1117473/building-an-innovation-ecosystem-for-the-next-century/)
+**发布时间**: 2025-07-08 14:00
+
+#### [Battling next-gen financial fraud](https://www.technologyreview.com/2025/07/08/1119039/battling-next-gen-financial-fraud/)
+**发布时间**: 2025-07-08 13:24
+
+#### [The Download: hunting an asteroid, and unlocking the human mind](https://www.technologyreview.com/2025/07/08/1119840/the-download-hunting-an-asteroid-and-unlocking-the-human-mind/)
+**发布时间**: 2025-07-08 12:10
+
+#### [Why the US and Europe could lose the race for fusion energy](https://www.technologyreview.com/2025/07/08/1119630/why-the-us-and-the-west-could-lose-the-race-for-fusion-energy/)
+**发布时间**: 2025-07-08 10:00
+
+#### [How scientists are trying to use AI to unlock the human mind](https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/)
+**发布时间**: 2025-07-08 09:30
+
+#### [Inside the most dangerous asteroid hunt ever](https://www.technologyreview.com/2025/07/08/1119757/asteroid-hunt-2024-yr4-earth-planet-protection/)
+**发布时间**: 2025-07-08 08:30
 
 ---
 
