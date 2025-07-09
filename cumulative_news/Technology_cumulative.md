@@ -1,7 +1,141 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-08 23:20
+**最后更新时间**: 2025-07-09 05:25
+
+---
+
+## 🆕 最新更新 (2025-07-09 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AgiBot Robotics to Take Over Swancor in $290 Million Deal, Eyes First Embodied Intelligence Listing on China’s STAR Market](https://www.tmtpost.com/7620691.html)
+**发布时间**: 2025-07-09 13:09
+
+#### [对话 “AI+硬件”，影石创新刘靖康解密如何让原创飞轮持续运转](https://www.tmtpost.com/7620680.html)
+**发布时间**: 2025-07-09 12:54
+
+#### [阿里美团为何突然加码即时零售？](https://www.tmtpost.com/7620603.html)
+**发布时间**: 2025-07-09 12:32
+
+#### [3小时狂揽2亿后，张雪峰的“吸金版图”又扩张了](https://www.tmtpost.com/7620445.html)
+**发布时间**: 2025-07-09 12:32
+
+#### [Trump Implies Tariff Letter to EU At Hand after German Finance Chief Warns of Unfair Trade Deal](https://www.tmtpost.com/7620670.html)
+**发布时间**: 2025-07-09 12:32
+
+#### [屹唐股份成功登陆科创板，开启半导体设备“技术+资本”双轮驱动新周期](https://www.tmtpost.com/7620588.html)
+**发布时间**: 2025-07-09 11:29
+
+#### [这个夏天，商场靠孩子续命](https://www.tmtpost.com/7620499.html)
+**发布时间**: 2025-07-09 11:16
+
+#### [金价疯涨，金饰退场：年轻人正在掀翻“黄金信仰”](https://www.tmtpost.com/7620502.html)
+**发布时间**: 2025-07-09 11:16
+
+#### [星海图今年内已完成5轮融资，估值较年初增长超3倍](https://www.tmtpost.com/7620444.html)
+**发布时间**: 2025-07-09 11:07
+
+#### [Trump Threatens 50% Copper Tariffs, Up to 200% Pharma Tariffs and 10% Levies on BRICS](https://www.tmtpost.com/7620558.html)
+**发布时间**: 2025-07-09 11:00
+
+#### [港股一天敲六个锣！“仓储机器人第一股”极智嘉IPO首日市值超210亿](https://www.tmtpost.com/7620213.html)
+**发布时间**: 2025-07-09 10:55
+
+#### [从苏超到浙BA：体育流量如何变经济增量？](https://www.tmtpost.com/7620506.html)
+**发布时间**: 2025-07-09 10:52
+
+#### [电商巨头们的即时零售野心，从来都不是外卖](https://www.tmtpost.com/7620023.html)
+**发布时间**: 2025-07-09 09:59
+
+#### [给Labubu做衣服，他年入百万，抢不到头汤靠爆火周边也能发财](https://www.tmtpost.com/7620064.html)
+**发布时间**: 2025-07-09 09:59
+
+#### [Trump Says No Extension to the Aug. 1 Tariff Deadline](https://www.tmtpost.com/7620436.html)
+**发布时间**: 2025-07-09 09:56
+
+#### [深度对话祥峰投资夏志进：大家高估了机器人行业短期价值，低估其长期价值](https://www.tmtpost.com/7620184.html)
+**发布时间**: 2025-07-09 09:25
+
+#### [拆解深蓝汽车，一次没有说清的组织架构调整](https://www.tmtpost.com/7620333.html)
+**发布时间**: 2025-07-09 09:14
+
+#### [长鑫IPO：中国存储，沉默者前行](https://www.tmtpost.com/7620037.html)
+**发布时间**: 2025-07-09 09:09
+
+#### [AI智能体的商业叙事远比技术精彩](https://www.tmtpost.com/7620048.html)
+**发布时间**: 2025-07-09 09:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure AI Foundry Agent服务在预览版中获得模型上下文协议支持](https://www.infoq.cn/article/cBl4723e5hpgYLAYexih?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 13:00
+
+#### [Atlassian将400万个PostgreSQL数据库迁移到Amazon Aurora](https://www.infoq.cn/article/lkVSg8ekv4H0PaLXu42S?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 11:38
+
+#### [鸿蒙开发者画像丨在鸿蒙中造梦的开发者，一边回答，一边前行](https://www.infoq.cn/article/bNIO0Igra9PQ5h9LPkj6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 10:51
+
+#### [离开一手做大的饿了么 6 年后，他带着 7 亿估值的 AI 公司杀回来了](https://www.infoq.cn/article/r13D1NUtwB5Fe7LPzvVb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [星光璀璨，可会再明？我用三星的这些年](https://sspai.com/post/100441)
+**发布时间**: 2025-07-09 11:32
+
+#### [派早报：钉钉发布 AI 表格、Gmail 上线订阅管理功能等](https://sspai.com/post/100864)
+**发布时间**: 2025-07-09 08:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [比钟薛高都贵，哈根达斯还能熬多久？](http://www.huxiu.com/article/4554780.html?f=wangzhan)
+**发布时间**: 2025-07-09 11:00
+
+#### [小米汽车为什么要跟赛道较劲？](http://www.huxiu.com/article/4554731.html?f=wangzhan)
+**发布时间**: 2025-07-09 09:59
+
+#### [对冲机构的投资秘诀：只赌最有把握的事](http://www.huxiu.com/article/4554583.html?f=wangzhan)
+**发布时间**: 2025-07-09 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Manus 回应裁员传闻；京东外卖：今天起再砸超百亿元；余承东首次回应「开车睡觉」：已自首](http://www.geekpark.net/news/351302)
+**发布时间**: 2025-07-09 08:30
+
+#### [2025车市大洗牌：有人半年卖出200万辆，有人却快掉队了](http://www.geekpark.net/news/351301)
+**发布时间**: 2025-07-09 08:12
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The 203 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+**发布时间**: 2025-07-09 04:03
+
+#### [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+**发布时间**: 2025-07-09 03:01
+
+#### [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+**发布时间**: 2025-07-09 01:35
+
+#### [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+**发布时间**: 2025-07-09 01:21
+
+#### [Grok stops posting text after flood of antisemitism and Hitler praise](https://www.theverge.com/news/701884/grok-antisemitic-hitler-posts-elon-musk-x-xai)
+**发布时间**: 2025-07-09 00:39
+
+#### [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+**发布时间**: 2025-07-09 00:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
+**发布时间**: 2025-07-09 01:35
+
+#### [Prime Day Picks From People Who Obsessively Test Gear & Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025/)
+**发布时间**: 2025-07-09 01:32
+
+#### [Grok Is Spewing Antisemitic Garbage on X](https://www.wired.com/story/grok-antisemitic-posts-x-xai/)
+**发布时间**: 2025-07-08 23:32
 
 ---
 

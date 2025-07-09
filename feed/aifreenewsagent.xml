@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2025 23:21:16 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Jul 2025 05:25:00 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2025 05:26:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>登《Cell》，中科院高彩霞等开发AiCE：一种AI蛋白质工程通用策略</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08-15</link>
-      <description>&lt;![CDATA[登《Cell》，中科院高彩霞等开发AiCE：一种AI蛋白质工程通用策略]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-15</guid>
+      <title>模拟3D分子编辑，北大高毅勤团队开发整合物理信息和偏好对齐的MolEdit，登Nature子刊</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-09-3</link>
+      <description>&lt;![CDATA[模拟3D分子编辑，北大高毅勤团队开发整合物理信息和偏好对齐的MolEdit，登Nature子刊]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>还在为AI数据发愁？张文涛和鄂维南院士团队推出Data-centric AI系统</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08-14</link>
-      <description>&lt;![CDATA[还在为AI数据发愁？张文涛和鄂维南院士团队推出Data-centric AI系统]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 17:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-14</guid>
+      <title>Towards Measurement Theory for Artificial Intelligence</title>
+      <link>https://arxiv.org/abs/2507.05587</link>
+      <description>&lt;![CDATA[Towards Measurement Theory for Artificial Intelligence]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.05587</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>基于能量的Transformer横空出世！全面超越主流模型35%</title>
-      <link>https://www.qbitai.com/2025/07/305982.html</link>
-      <description>&lt;![CDATA[基于能量的Transformer横空出世！全面超越主流模型35%]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/305982.html</guid>
+      <title>An autonomous agent for auditing and improving the reliability of clinical AI models</title>
+      <link>https://arxiv.org/abs/2507.05755</link>
+      <description>&lt;![CDATA[An autonomous agent for auditing and improving the reliability of clinical AI models]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.05755</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型刷数学题竟有害？CMU评估20+模型指出训练陷阱</title>
-      <link>https://www.qbitai.com/2025/07/306185.html</link>
-      <description>&lt;![CDATA[大模型刷数学题竟有害？CMU评估20+模型指出训练陷阱]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306185.html</guid>
+      <title>OpenAI反挖四位特斯拉、xAI、Meta高级工程师，目标星际之门</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-09-6</link>
+      <description>&lt;![CDATA[OpenAI反挖四位特斯拉、xAI、Meta高级工程师，目标星际之门]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>500万视频数据集+全新评测框架！北大开源主体一致性视频生成领域新基建OpenS2V-Nexus，生成视频 「像」 又 「自然」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-08-13</link>
-      <description>&lt;![CDATA[500万视频数据集+全新评测框架！北大开源主体一致性视频生成领域新基建OpenS2V-Nexus，生成视频 「像」 又 「自然」]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-08-13</guid>
+      <title>给你一群顶尖AI，如何组队才能发挥最大战力？UIUC用一个新的多智能体协作基准寻找答案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-09-4</link>
+      <description>&lt;![CDATA[给你一群顶尖AI，如何组队才能发挥最大战力？UIUC用一个新的多智能体协作基准寻找答案]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI版三个臭皮匠！ChatGPT/Gemini/DeepSeek合体拿下AGI测试最高分</title>
-      <link>https://www.qbitai.com/2025/07/306010.html</link>
-      <description>&lt;![CDATA[AI版三个臭皮匠！ChatGPT/Gemini/DeepSeek合体拿下AGI测试最高分]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306010.html</guid>
+      <title>长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-09</link>
+      <description>&lt;![CDATA[长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How scientists are trying to use AI to unlock the human mind</title>
-      <link>https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/</link>
-      <description>&lt;![CDATA[How scientists are trying to use AI to unlock the human mind]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/</guid>
+      <title>Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis</title>
+      <link>https://arxiv.org/abs/2507.05520</link>
+      <description>&lt;![CDATA[Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.05520</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>百亿机器人独角兽冲刺IPO，细分赛道收入第一</title>
-      <link>https://www.qbitai.com/2025/07/306259.html</link>
-      <description>&lt;![CDATA[百亿机器人独角兽冲刺IPO，细分赛道收入第一]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 09:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306259.html</guid>
+      <title>Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc -- and We Can Do Better</title>
+      <link>https://arxiv.org/abs/2507.05886</link>
+      <description>&lt;![CDATA[Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc -- and We Can Do Better]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.05886</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Battling next-gen financial fraud</title>
-      <link>https://www.technologyreview.com/2025/07/08/1119039/battling-next-gen-financial-fraud/</link>
-      <description>&lt;![CDATA[Battling next-gen financial fraud]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/08/1119039/battling-next-gen-financial-fraud/</guid>
+      <title>斯坦福毕业，用RL做Agent，华人创业团队种子轮融资1200万美元</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-09-2</link>
+      <description>&lt;![CDATA[斯坦福毕业，用RL做Agent，华人创业团队种子轮融资1200万美元]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Building an innovation ecosystem for the next century</title>
-      <link>https://www.technologyreview.com/2025/07/08/1117473/building-an-innovation-ecosystem-for-the-next-century/</link>
-      <description>&lt;![CDATA[Building an innovation ecosystem for the next century]]&gt;</description>
-      <pubDate>Tue, 08 Jul 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/08/1117473/building-an-innovation-ecosystem-for-the-next-century/</guid>
+      <title>腾讯3D生成模型上新！线稿可变“艺术级”3D模型，鹅厂内部设计师也在用</title>
+      <link>https://www.qbitai.com/2025/07/306419.html</link>
+      <description>&lt;![CDATA[腾讯3D生成模型上新！线稿可变“艺术级”3D模型，鹅厂内部设计师也在用]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 02:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306419.html</guid>
       <category>AI</category>
     </item>
   </channel>

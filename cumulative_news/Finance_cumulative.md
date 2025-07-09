@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-08 23:20
+**最后更新时间**: 2025-07-09 05:25
+
+---
+
+## 🆕 最新更新 (2025-07-09 05:25)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Can McDonald’s new Spicy McMuffin cash in on the fiery flavor boom — or is it just a peppery gimmick?](https://www.marketwatch.com/story/can-mcdonalds-new-spicy-mcmuffin-cash-in-on-the-fiery-flavor-boom-or-is-it-just-a-peppery-gimmick-216f2139?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 02:55
+
+#### [Think you’ve missed the stock-market rally since ‘liberation day’? Think again.](https://www.marketwatch.com/story/think-youve-missed-the-stock-market-rally-since-liberation-day-think-again-bd0607a1?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 01:59
 
 ---
 
