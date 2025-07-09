@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-09 08:29
+**最后更新时间**: 2025-07-09 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-09 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [When my friend was on her deathbed, her parents took $25,000 in cash and won’t give it to her son. Do we tell him?](https://www.marketwatch.com/story/when-my-friend-was-on-her-deathbed-her-parents-took-25-000-in-cash-and-wont-give-it-to-her-son-do-we-tell-him-717d90bc?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 22:23
+
+#### [Why investors need to stop obsessing over when the Fed is going to cut interest rates next](https://www.marketwatch.com/story/why-interest-rate-cuts-wont-be-the-fuel-the-stock-market-needs-to-rocket-higher-622dca61?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 22:08
+
+#### [Bitcoin hits record high. Why the crypto’s rally may lose steam after briefly topping $112,000.](https://www.marketwatch.com/story/bitcoin-hits-record-high-why-the-cryptos-rally-may-lose-steam-after-briefly-topping-112-000-00941186?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 21:49
+
+#### [The SALT deduction is now much more generous. Here’s how to get the most out of the tax break.](https://www.marketwatch.com/story/the-salt-deduction-is-now-much-more-generous-heres-how-to-get-the-most-out-of-the-tax-break-b7b2400e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 21:45
+
+#### [Costco’s monthly sales growth accelerates, following slowdown earlier this year](https://www.marketwatch.com/story/costcos-monthly-sales-growth-accelerates-following-slowdown-earlier-this-year-ff70fb09?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 21:18
+
+#### [Eldercare is overtaking childcare. Governments and employers need to step up.](https://www.marketwatch.com/story/more-older-people-than-children-now-need-caregiving-governments-and-employers-need-to-step-up-f4ce0f1b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 21:16
+
+#### [Nutella with your Corn Flakes? This cereal giant’s stock rallies on word of a $3 billion deal.](https://www.marketwatch.com/story/nutella-with-your-corn-flakes-this-cereal-giants-stock-rallies-on-word-of-a-3-billion-deal-7be9af56?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 21:06
+
+#### [Trump releases 8 more tariff letters. Here’s how his new rates compare to ‘liberation day’ levels.](https://www.marketwatch.com/story/trump-just-released-7-more-tariff-letters-heres-how-the-rates-compare-to-his-liberation-day-levels-1ef1cd77?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 20:53
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Can Trump tap Bessent to head the Fed and the Treasury at the same time?](https://www.marketwatch.com/bulletins/redirect/go?g=35b14822-0178-4add-9f9c-8a25e4bc5938&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 21:56
+
+#### [Cereal giant WK Kellogg's stock rallies on word of $3 billion Ferrero takeover](https://www.marketwatch.com/bulletins/redirect/go?g=038b45d4-957b-44df-80f2-ded553a079f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 21:13
+
+#### [How Trump’s threat of 50% tariffs on copper could hurt America’s AI ambitions](https://www.marketwatch.com/bulletins/redirect/go?g=496a9090-04b4-4e84-89bf-99ada07de620&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 20:23
+
+#### [Nasdaq closes at new record as stocks rally after Fed minutes point to rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=bef2b5a9-6797-4809-8517-6fdf76d2af61&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 20:05
+
+#### [Trump releases 7 more tariff letters. How the rates compare to 'liberation day.'](https://www.marketwatch.com/bulletins/redirect/go?g=91c50b5b-62ec-46d6-9e6e-01854d30c262&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 19:27
+
+#### [Trump releases 7 more tariff letters. How the rates compare to 'liberationd ay'](https://www.marketwatch.com/bulletins/redirect/go?g=a25b47ce-d3a1-4cdd-9d6f-3af901495b03&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 19:25
+
+#### [Door open for Fed to ease rates this year, minutes show](https://www.marketwatch.com/bulletins/redirect/go?g=696f4f4d-1bb5-4c59-a16e-0d173cff1547&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 18:43
+
+#### ['Most' Fed members thought rate cuts would be appropriate this year](https://www.marketwatch.com/bulletins/redirect/go?g=ac26c945-2488-495b-bce9-eaa964df744b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 18:03
+
+#### [Musk faces latest challenge as X chief executive Yaccarino quits](https://www.marketwatch.com/bulletins/redirect/go?g=956e467d-34f3-4df7-b30b-c6b5fa78d14e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 16:56
+
+#### [What Nvidia needs to do to end the day with a $4 trillion market cap](https://www.marketwatch.com/bulletins/redirect/go?g=17618a5f-82bc-4a7c-9c80-123e6c0271b6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 16:10
 
 ---
 

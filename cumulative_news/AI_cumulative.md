@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-09 08:29
+**最后更新时间**: 2025-07-09 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-09 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [AI制药究竟是风口还是泡沫？风投公司副总裁一文讲清楚了](https://www.jiqizhixin.com/articles/2025-07-09-11)
+**发布时间**: 2025-07-09 17:53
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [MedGemma: Our most capable open models for health AI development](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/)
+**发布时间**: 2025-07-09 17:00
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Changing the conversation in health care](https://news.mit.edu/2025/changing-conversation-health-care-0709)
+**发布时间**: 2025-07-09 16:50
+
+#### [AI shapes autonomous underwater “gliders”](https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709)
+**发布时间**: 2025-07-09 16:35
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: a conversation with Karen Hao, and how did life begin?](https://www.technologyreview.com/2025/07/09/1119923/the-download-a-conversation-with-karen-hao-and-how-did-life-begin/)
+**发布时间**: 2025-07-09 12:10
+
+#### [Inside OpenAI’s empire: A conversation with Karen Hao](https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/)
+**发布时间**: 2025-07-09 09:10
+
+#### [Why the AI moratorium’s defeat may signal a new political era](https://www.technologyreview.com/2025/07/09/1119867/why-the-ai-moratoriums-defeat-may-signal-a-new-political-era/)
+**发布时间**: 2025-07-09 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Hinton为儿子加入谷歌，现在痛悔毕生工作，“青少年做水管工吧”](https://www.qbitai.com/2025/07/306739.html)
+**发布时间**: 2025-07-09 09:34
+
+#### [Claude团队新研究：为什么有的模型假装对齐有的不会](https://www.qbitai.com/2025/07/306725.html)
+**发布时间**: 2025-07-09 09:24
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Jul 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Jul 2025 08:29:31 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2025 23:20:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>「世界模型」也被泼冷水了？邢波等人揭开五大「硬伤」，提出新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-09-10</link>
-      <description>&lt;![CDATA[「世界模型」也被泼冷水了？邢波等人揭开五大「硬伤」，提出新范式]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-10</guid>
+      <title>AI制药究竟是风口还是泡沫？风投公司副总裁一文讲清楚了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-09-11</link>
+      <description>&lt;![CDATA[AI制药究竟是风口还是泡沫？风投公司副总裁一文讲清楚了]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICCV 2025 | UniOcc: 自动驾驶占用预测与推理统一数据集及基准平台</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-09-9</link>
-      <description>&lt;![CDATA[ICCV 2025 | UniOcc: 自动驾驶占用预测与推理统一数据集及基准平台]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 15:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-9</guid>
+      <title>MedGemma: Our most capable open models for health AI development</title>
+      <link>https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/</link>
+      <description>&lt;![CDATA[MedGemma: Our most capable open models for health AI development]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>飞书发布知识问答等多款AI产品 让企业拥有懂自己的“豆包”</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-09-8</link>
-      <description>&lt;![CDATA[飞书发布知识问答等多款AI产品 让企业拥有懂自己的“豆包”]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-8</guid>
+      <title>Changing the conversation in health care</title>
+      <link>https://news.mit.edu/2025/changing-conversation-health-care-0709</link>
+      <description>&lt;![CDATA[Changing the conversation in health care]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/changing-conversation-health-care-0709</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>4B小模型数学推理首超Claude 4，700步RL训练逼近235B性能 | 港大&amp;字节Seed&amp;复旦</title>
-      <link>https://www.qbitai.com/2025/07/306700.html</link>
-      <description>&lt;![CDATA[4B小模型数学推理首超Claude 4，700步RL训练逼近235B性能 | 港大&amp;字节Seed&amp;复旦]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 06:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306700.html</guid>
+      <title>AI shapes autonomous underwater “gliders”</title>
+      <link>https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</link>
+      <description>&lt;![CDATA[AI shapes autonomous underwater “gliders”]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>数学家跨界找到百年难题最优解，能给无线通信领域带来新思路</title>
-      <link>https://www.qbitai.com/2025/07/306678.html</link>
-      <description>&lt;![CDATA[数学家跨界找到百年难题最优解，能给无线通信领域带来新思路]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 06:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306678.html</guid>
+      <title>The Download: a conversation with Karen Hao, and how did life begin?</title>
+      <link>https://www.technologyreview.com/2025/07/09/1119923/the-download-a-conversation-with-karen-hao-and-how-did-life-begin/</link>
+      <description>&lt;![CDATA[The Download: a conversation with Karen Hao, and how did life begin?]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/09/1119923/the-download-a-conversation-with-karen-hao-and-how-did-life-begin/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多模态模型学会“按需搜索”，少搜30%还更准！字节&amp;NTU新研究优化多模态模型搜索策略</title>
-      <link>https://www.qbitai.com/2025/07/306580.html</link>
-      <description>&lt;![CDATA[多模态模型学会“按需搜索”，少搜30%还更准！字节&amp;NTU新研究优化多模态模型搜索策略]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 05:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306580.html</guid>
+      <title>Inside OpenAI’s empire: A conversation with Karen Hao</title>
+      <link>https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/</link>
+      <description>&lt;![CDATA[Inside OpenAI’s empire: A conversation with Karen Hao]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 09:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepSeek-R1超级外挂！“人类最后的考试”首次突破30分，上海交大等开源方案碾压OpenAI、谷歌</title>
-      <link>https://www.qbitai.com/2025/07/306548.html</link>
-      <description>&lt;![CDATA[DeepSeek-R1超级外挂！“人类最后的考试”首次突破30分，上海交大等开源方案碾压OpenAI、谷歌]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 05:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306548.html</guid>
+      <title>Why the AI moratorium’s defeat may signal a new political era</title>
+      <link>https://www.technologyreview.com/2025/07/09/1119867/why-the-ai-moratoriums-defeat-may-signal-a-new-political-era/</link>
+      <description>&lt;![CDATA[Why the AI moratorium’s defeat may signal a new political era]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/09/1119867/why-the-ai-moratoriums-defeat-may-signal-a-new-political-era/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Hinton为儿子加入谷歌，现在痛悔毕生工作，“青少年做水管工吧”</title>
+      <link>https://www.qbitai.com/2025/07/306739.html</link>
+      <description>&lt;![CDATA[Hinton为儿子加入谷歌，现在痛悔毕生工作，“青少年做水管工吧”]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306739.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Claude团队新研究：为什么有的模型假装对齐有的不会</title>
+      <link>https://www.qbitai.com/2025/07/306725.html</link>
+      <description>&lt;![CDATA[Claude团队新研究：为什么有的模型假装对齐有的不会]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306725.html</guid>
       <category>AI</category>
     </item>
   </channel>

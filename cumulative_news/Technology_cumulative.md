@@ -1,7 +1,201 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-09 08:29
+**最后更新时间**: 2025-07-09 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-09 23:20)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Sony’s Brand New Flagship Headphones Are on Sale for Prime Day](https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale/)
+**发布时间**: 2025-07-09 22:20
+
+#### [The Best Prime Day Deals on Our Staff's Favorite Dyson Tools (2025)](https://www.wired.com/story/best-dyson-prime-day-deals-july-2025/)
+**发布时间**: 2025-07-09 22:09
+
+#### [Not Just Any Prime Day Deals, 242 Obsessively Tested Picks—even $1,200 off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
+**发布时间**: 2025-07-09 21:56
+
+#### [13 Prime Day Kindle Deals (Plus Amazon Echo Devices)](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-1/)
+**发布时间**: 2025-07-09 21:38
+
+#### [3 Best Amazon Prime Day Peloton Deals (2025): Bike, Row, Tread](https://www.wired.com/story/prime-day-peloton-deal-2025/)
+**发布时间**: 2025-07-09 21:34
+
+#### [The ‘Click-to-Cancel’ Rule Was Killed, but Consumer Advocates Could Revive It](https://www.wired.com/story/ftc-click-to-cancel-rule-killed-consumer-advocates-could-revive-it/)
+**发布时间**: 2025-07-09 21:25
+
+#### [One of My Favorite Gaming Laptops Gets a Serious Prime Day Cut](https://www.wired.com/story/best-prime-day-gaming-laptop-deal/)
+**发布时间**: 2025-07-09 19:55
+
+#### [The Petkit Purobox Ultra is $250 off for Prime Day](https://www.wired.com/story/petkit-purobot-ultra-prime-day-sale/)
+**发布时间**: 2025-07-09 19:47
+
+#### [16 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)](https://www.wired.com/story/prime-day-tracker-and-ring-2025-1/)
+**发布时间**: 2025-07-09 19:43
+
+#### [Prime Day Alert: TCL's Brilliant QM6K Is at Its Lowest Price Ever](https://www.wired.com/story/tcl-qm6k-prime-day-tv-deal/)
+**发布时间**: 2025-07-09 19:31
+
+#### [McDonald’s AI Hiring Bot Exposed Millions of Applicants' Data to Hackers Using the Password ‘123456’](https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/)
+**发布时间**: 2025-07-09 19:28
+
+#### [Dyson's V15 Detect Is $200 Off for Prime Day (2025)](https://www.wired.com/story/dyson-v15-detect-prime-day-sale/)
+**发布时间**: 2025-07-09 19:12
+
+#### [New Prime Day Deals Updated Live—183 Handpicked & Trusted Deals](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)
+**发布时间**: 2025-07-09 18:45
+
+#### [Prime Day Soundbar Deal Alert: Sony Bravia Theater System 6](https://www.wired.com/story/sony-bravia-theater-system-6-prime-day-deal/)
+**发布时间**: 2025-07-09 18:40
+
+#### [A New Kind of AI Model Lets Data Owners Take Control](https://www.wired.com/story/flexolmo-ai-model-lets-data-owners-take-control/)
+**发布时间**: 2025-07-09 17:59
+
+#### [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-1/)
+**发布时间**: 2025-07-09 16:14
+
+#### [Linda Yaccarino Tried to Tame X. Now She’s Out as CEO](https://www.wired.com/story/linda-yaccarino-x-ceo-resigns-elon-musk/)
+**发布时间**: 2025-07-09 16:09
+
+#### [19 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-1/)
+**发布时间**: 2025-07-09 15:39
+
+#### [13 Best Prime Day Pet Deals on Amazon (2025)](https://www.wired.com/story/prime-day-pet-deals-2025/)
+**发布时间**: 2025-07-09 14:48
+
+#### [Best 10 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025/)
+**发布时间**: 2025-07-09 14:37
+
+#### [Everything Samsung Announced at Its Summer Galaxy Unpacked Event](https://www.wired.com/story/everything-samsung-announced-at-its-summer-galaxy-unpacked-event-july-2025/)
+**发布时间**: 2025-07-09 14:00
+
+#### [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)](https://www.wired.com/story/prime-day-apple-deals-2025-1/)
+**发布时间**: 2025-07-09 11:35
+
+#### [China Has Attempted What Might Be the First-Ever Orbital Refueling of a Satellite](https://www.wired.com/story/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/)
+**发布时间**: 2025-07-09 11:30
+
+#### [11 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)
+**发布时间**: 2025-07-09 11:14
+
+#### [A Giant Planet and a Small Star Are Shaking Up Conventional Cosmological Theory](https://www.wired.com/story/a-giant-planet-and-a-small-star-are-shaking-up-conventional-cosmological-theory/)
+**发布时间**: 2025-07-09 11:00
+
+#### [13 Best Prime Day Board Game Deals for Kids of All Ages (2025)](https://www.wired.com/story/prime-day-toy-deals-july-2025/)
+**发布时间**: 2025-07-09 10:26
+
+#### [6 Best Prime Day Mattress Deals Plus Top Bedding Sales (2025)](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025/)
+**发布时间**: 2025-07-09 10:25
+
+#### [Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-1/)
+**发布时间**: 2025-07-09 10:08
+
+#### [‘People Are Going to Die’: A Malnutrition Crisis Looms in the Wake of USAID Cuts](https://www.wired.com/story/usaid-rutf-state-department-supplies-warehouses/)
+**发布时间**: 2025-07-09 10:00
+
+#### [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/)
+**发布时间**: 2025-07-09 09:31
+
+#### [The 47 Best Shows on HBO Max Right Now (July 2025)](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+**发布时间**: 2025-07-08 19:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
+**发布时间**: 2025-07-09 22:06
+
+#### [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+**发布时间**: 2025-07-09 22:05
+
+#### [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
+**发布时间**: 2025-07-09 21:42
+
+#### [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+**发布时间**: 2025-07-09 21:30
+
+#### [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)
+**发布时间**: 2025-07-09 20:18
+
+#### [Apple’s second-generation Vision Pro might launch this year](https://www.theverge.com/news/703364/apple-vision-pro-second-gen-release-rumor)
+**发布时间**: 2025-07-09 20:15
+
+#### [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+**发布时间**: 2025-07-09 19:33
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [组织先用好 AI，再谈 AI 改变组织](http://www.geekpark.net/news/351341)
+**发布时间**: 2025-07-09 20:35
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [盒马超永辉位列三甲，奥乐齐中国一年翻倍 | 钛媒体独家](https://www.tmtpost.com/7621208.html)
+**发布时间**: 2025-07-09 20:25
+
+#### [广汽菲克败走中国，合资“躺赢”时代落幕｜钛度车库](https://www.tmtpost.com/7621067.html)
+**发布时间**: 2025-07-09 20:20
+
+#### [白牌才是县城的“救世主”](https://www.tmtpost.com/7621101.html)
+**发布时间**: 2025-07-09 18:53
+
+#### [抖音终于抢到了周杰伦](https://www.tmtpost.com/7621058.html)
+**发布时间**: 2025-07-09 18:52
+
+#### [马来西亚，东南亚旅游新“一哥”？](https://www.tmtpost.com/7620989.html)
+**发布时间**: 2025-07-09 18:51
+
+#### [罗马仕之死](https://www.tmtpost.com/7620747.html)
+**发布时间**: 2025-07-09 18:50
+
+#### [最卖座的脱口秀演出，观众都在争着相亲？](https://www.tmtpost.com/7620182.html)
+**发布时间**: 2025-07-09 18:50
+
+#### [阿里合伙人大变局](https://www.tmtpost.com/7620623.html)
+**发布时间**: 2025-07-09 18:47
+
+#### [苹果“鸡贼”上诉](https://www.tmtpost.com/7620102.html)
+**发布时间**: 2025-07-09 18:46
+
+#### [不再是铁板一块，广告媒体和谷歌的关系开始松动了](https://www.tmtpost.com/7621099.html)
+**发布时间**: 2025-07-09 18:44
+
+#### [宁德时代的投资关键字：智能、海外、消费者](https://www.tmtpost.com/7621090.html)
+**发布时间**: 2025-07-09 18:44
+
+#### [曾经贵过黄金的铂金想复苏，但年轻人不买账](https://www.tmtpost.com/7620927.html)
+**发布时间**: 2025-07-09 18:13
+
+#### [人形机器人「突围 」2025：进化、共生与商业化](https://www.tmtpost.com/7620684.html)
+**发布时间**: 2025-07-09 18:13
+
+#### [搭上小鹏汽车的欣旺达，已经加满杠杆](https://www.tmtpost.com/7620755.html)
+**发布时间**: 2025-07-09 18:13
+
+#### [又一个度普利尤挑战者，倒下了？](https://www.tmtpost.com/7620729.html)
+**发布时间**: 2025-07-09 18:13
+
+#### [果链巨头登陆港股，女首富再“登基”？](https://www.tmtpost.com/7620716.html)
+**发布时间**: 2025-07-09 18:13
+
+#### [玄学热能成为带动文旅消费的“良药”吗？](https://www.tmtpost.com/7620936.html)
+**发布时间**: 2025-07-09 18:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS 26 Beta 2 & Beta 3 值得关注的新特性](https://sspai.com/post/100867)
+**发布时间**: 2025-07-09 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Ceph RBD 诞生15周年：开源创造的故事](https://www.infoq.cn/article/eIidyFM57Hkr89z8Dwgo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 17:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“降价”的星巴克，“延长”的第三空间](http://www.huxiu.com/article/4558356.html?f=wangzhan)
+**发布时间**: 2025-07-09 16:30
 
 ---
 
