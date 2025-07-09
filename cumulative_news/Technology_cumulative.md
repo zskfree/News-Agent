@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-09 05:25
+**最后更新时间**: 2025-07-09 08:29
+
+---
+
+## 🆕 最新更新 (2025-07-09 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [聚焦产业·场景·生态！国际低空经济博览会7月沪上启幕，全球大咖共话新赛道！](https://www.tmtpost.com/7620662.html)
+**发布时间**: 2025-07-09 16:18
+
+#### [lululemon诉Costco抄袭，当平替成为全球趋势](https://www.tmtpost.com/7620538.html)
+**发布时间**: 2025-07-09 16:18
+
+#### [“最严版权令”十周年，给中国音乐产业带来了什么？](https://www.tmtpost.com/7620752.html)
+**发布时间**: 2025-07-09 16:18
+
+#### [闪电冲单之后，即时零售必须开辟第三战场](https://www.tmtpost.com/7620191.html)
+**发布时间**: 2025-07-09 15:42
+
+#### [对话牛津大学教授：当人工智能完全超越人类，我们还剩下什么？](https://www.tmtpost.com/7620709.html)
+**发布时间**: 2025-07-09 15:42
+
+#### [产品成分被举报，创始人跨界卖水晶，逐本舍本逐末？](https://www.tmtpost.com/7620311.html)
+**发布时间**: 2025-07-09 15:42
+
+#### [7月9日A股分析：三大指数涨跌不一，沪指3500点得而复失，小单资金逆势买入406亿，电商、中药概念吸金居前](https://www.tmtpost.com/7620822.html)
+**发布时间**: 2025-07-09 15:24
+
+#### [HKEX Sees IPO Boom as Geek+ Becomes World's First Listed AMR Robotics Firm](https://www.tmtpost.com/7620843.html)
+**发布时间**: 2025-07-09 15:19
+
+#### [“催收第一股”追债恒大汽车：纸面清偿2119万，难填主业“深坑”](https://www.tmtpost.com/7620791.html)
+**发布时间**: 2025-07-09 14:47
+
+#### [国家战略如何指导资源型经济“高端升级+新能源配套”双轨转型？丨大事件必读](https://www.tmtpost.com/7620423.html)
+**发布时间**: 2025-07-09 14:36
+
+#### [B站要做播客了？聊聊我对播客营销价值的几点看法](https://www.tmtpost.com/7620118.html)
+**发布时间**: 2025-07-09 14:20
+
+#### [厂二代蜂拥扮网红](https://www.tmtpost.com/7620741.html)
+**发布时间**: 2025-07-09 14:20
+
+#### [哈啰驶向「无人区」](https://www.tmtpost.com/7620696.html)
+**发布时间**: 2025-07-09 14:20
+
+#### [90后父母，陷在亲子游焦虑里](https://www.tmtpost.com/7620497.html)
+**发布时间**: 2025-07-09 13:51
+
+#### [U.S. Treasury Secretary Said to Visit Japan as Tokyo Vows to Seek Mutual Beneficial Deal Following Trump's Tariff Letter](https://www.tmtpost.com/7620721.html)
+**发布时间**: 2025-07-09 13:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [180天狠赚5.7亿，8人团队全员财富自由，最大功臣是Claude和Gemini](https://www.infoq.cn/article/aT7omPreDHcZAtKMlW2a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 16:05
+
+#### [我曾用Angular重写了jQuery应用，如今却被React逼疯了](https://www.infoq.cn/article/mmD21qyOw7tgq8peCSwk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-09 14:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [The Alters：多重人生下的科幻生存实验](https://sspai.com/post/100701)
+**发布时间**: 2025-07-09 15:15
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [雪糕刺客大败退，不只是因为贵](http://www.huxiu.com/article/4554778.html?f=wangzhan)
+**发布时间**: 2025-07-09 15:00
+
+#### [包圆你的吃喝玩乐，巨头生态大乱斗](http://www.huxiu.com/article/4554741.html?f=wangzhan)
+**发布时间**: 2025-07-09 12:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [万亿低空经济「起飞」，这家公司想做「低空基础设施」](http://www.geekpark.net/news/351324)
+**发布时间**: 2025-07-09 14:57
 
 ---
 

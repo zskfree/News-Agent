@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-09 05:25
+**最后更新时间**: 2025-07-09 08:29
+
+---
+
+## 🆕 最新更新 (2025-07-09 08:29)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [WPP shares slide to its worst levels since the global financial crisis](https://www.marketwatch.com/bulletins/redirect/go?g=ed49c092-864b-48bc-ad0e-2a51d5a9ccfa&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 07:52
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Ad giant WPP issues second profit warning this year. The stock is plunging.](https://www.marketwatch.com/story/ad-giant-wpp-issues-second-profit-warning-this-year-the-stock-is-plunging-2f8dea07?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 07:45
 
 ---
 
