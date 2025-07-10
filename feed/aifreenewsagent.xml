@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Jul 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Jul 2025 05:24:54 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Jul 2025 08:29:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>VLA统一架构新突破：自回归世界模型引领具身智能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-6</link>
-      <description>&lt;![CDATA[VLA统一架构新突破：自回归世界模型引领具身智能]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-6</guid>
+      <title>基于工作记忆的认知测试显示LLM的检索局限：100%混淆无效信息与正确答案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-15</link>
+      <description>&lt;![CDATA[基于工作记忆的认知测试显示LLM的检索局限：100%混淆无效信息与正确答案]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-15</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>「Tokens是胡扯」，Mamba作者抛出颠覆性观点，揭露Transformer深层缺陷</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-4</link>
-      <description>&lt;![CDATA[「Tokens是胡扯」，Mamba作者抛出颠覆性观点，揭露Transformer深层缺陷]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-4</guid>
+      <title>奖励模型终于迎来预训练新时代！上海AI Lab、复旦POLAR，开启Scaling新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-8</link>
+      <description>&lt;![CDATA[奖励模型终于迎来预训练新时代！上海AI Lab、复旦POLAR，开启Scaling新范式]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 13:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities</title>
-      <link>https://arxiv.org/abs/2507.06261</link>
-      <description>&lt;![CDATA[Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.06261</guid>
+      <title>人类增强子突变敏感性图谱首次绘制：AI 与体内实验揭示发育调控密码</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-13</link>
+      <description>&lt;![CDATA[人类增强子突变敏感性图谱首次绘制：AI 与体内实验揭示发育调控密码]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>真实科研水平集体不及格！全新基准SFE给主流多模态LLM来了波暴击</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-2</link>
-      <description>&lt;![CDATA[真实科研水平集体不及格！全新基准SFE给主流多模态LLM来了波暴击]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-2</guid>
+      <title>8小时处理300万细胞数据，复旦&amp;上交研发双分支架构模型，登Nature子刊</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-12</link>
+      <description>&lt;![CDATA[8小时处理300万细胞数据，复旦&amp;上交研发双分支架构模型，登Nature子刊]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI</title>
-      <link>https://arxiv.org/abs/2507.06398</link>
-      <description>&lt;![CDATA[Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.06398</guid>
+      <title>人形机器人做汉堡火了! 伯克利等全新ViTacFormer让机器人操作稳如老手</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-9</link>
+      <description>&lt;![CDATA[人形机器人做汉堡火了! 伯克利等全新ViTacFormer让机器人操作稳如老手]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>前无古人！英伟达市值突破4万亿美元，老黄下一站：北京</title>
-      <link>https://www.qbitai.com/2025/07/306788.html</link>
-      <description>&lt;![CDATA[前无古人！英伟达市值突破4万亿美元，老黄下一站：北京]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306788.html</guid>
+      <title>他47岁转方向，一举解决了球体堆积领域内最大的未解问题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-7</link>
+      <description>&lt;![CDATA[他47岁转方向，一举解决了球体堆积领域内最大的未解问题]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025 | 给AI装上「智能升级插件」！阿里安全-清华大学D-MoLE让模型在持续学习中动态进化</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-5</link>
-      <description>&lt;![CDATA[ICML 2025 | 给AI装上「智能升级插件」！阿里安全-清华大学D-MoLE让模型在持续学习中动态进化]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-5</guid>
+      <title>亚马逊云科技推出基于NVIDIA Blackwell的最新、超强GPU实例</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-14</link>
+      <description>&lt;![CDATA[亚马逊云科技推出基于NVIDIA Blackwell的最新、超强GPU实例]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms</title>
-      <link>https://arxiv.org/abs/2507.06323</link>
-      <description>&lt;![CDATA[Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.06323</guid>
+      <title>MCP协议曝出大漏洞：会泄露整个数据库</title>
+      <link>https://www.qbitai.com/2025/07/307174.html</link>
+      <description>&lt;![CDATA[MCP协议曝出大漏洞：会泄露整个数据库]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 06:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307174.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Prompt War: How AI Decides on a Military Intervention</title>
-      <link>https://arxiv.org/abs/2507.06277</link>
-      <description>&lt;![CDATA[The Prompt War: How AI Decides on a Military Intervention]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.06277</guid>
+      <title>刚刚，马斯克发布Grok 4！全榜第一，年费飚到2万+</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-10</link>
+      <description>&lt;![CDATA[刚刚，马斯克发布Grok 4！全榜第一，年费飚到2万+]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 14:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>魔法原子推出高动态双足人形机器人MagicBot Z1</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10</link>
-      <description>&lt;![CDATA[魔法原子推出高动态双足人形机器人MagicBot Z1]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10</guid>
+      <title>联合国点赞爱诗科技，PixVerse入选AI for Good优秀案例</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-11</link>
+      <description>&lt;![CDATA[联合国点赞爱诗科技，PixVerse入选AI for Good优秀案例]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-11</guid>
       <category>AI</category>
     </item>
   </channel>

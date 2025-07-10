@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-10 05:24
+**最后更新时间**: 2025-07-10 08:29
+
+---
+
+## 🆕 最新更新 (2025-07-10 08:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 时代如何做独立开发](https://www.infoq.cn/article/X7QETe70h8mEfvmkRJH4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 16:23
+
+#### [看阿里云操作系统控制台如何一招擒拿网络丢包](https://www.infoq.cn/article/8ddyAv2OlCT1aZPaByRE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 14:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从 AI 高考聊到人类未来｜张鹏×潘乱×张一甲 对谈实录](http://www.geekpark.net/news/351383)
+**发布时间**: 2025-07-10 15:59
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [英伟达登顶4万亿：算力霸权的加冕与暗涌](https://www.tmtpost.com/7622062.html)
+**发布时间**: 2025-07-10 15:43
+
+#### [AI Agent是中国SaaS的解药？](https://www.tmtpost.com/7622131.html)
+**发布时间**: 2025-07-10 15:34
+
+#### [如何把妇科大模型准确率从77.1%一路攀升到90.2%](https://www.tmtpost.com/7621647.html)
+**发布时间**: 2025-07-10 15:34
+
+#### [钉钉拿飞书当靶](https://www.tmtpost.com/7621922.html)
+**发布时间**: 2025-07-10 14:58
+
+#### [经典IP短剧化：先爆改，再爆卖？](https://www.tmtpost.com/7621933.html)
+**发布时间**: 2025-07-10 14:54
+
+#### [具身智能最先跑出的“杀手级产品”或许是陪伴机器人](https://www.tmtpost.com/7622083.html)
+**发布时间**: 2025-07-10 14:48
+
+#### [你的大脑真的在被AI“腐蚀”吗？](https://www.tmtpost.com/7622098.html)
+**发布时间**: 2025-07-10 14:48
+
+#### [瑞士生物科技公司Tolremo Therapeutics研发CBP/p300 溴结构域抑制剂，抑制非遗传性癌症产生耐药性 | 瑞士创新100强](https://www.tmtpost.com/7622114.html)
+**发布时间**: 2025-07-10 14:48
+
+#### [扎克伯格的“天才名单”：上亿重金能否砸出Meta的AI未来](https://www.tmtpost.com/7622116.html)
+**发布时间**: 2025-07-10 14:48
+
+#### [独家对话Fusion Fund张璐：硅谷下半年AI投资风向](https://www.tmtpost.com/7622027.html)
+**发布时间**: 2025-07-10 14:08
+
+#### [China's Supermarket Sector Shifts as Walmart Leads and New Retail Formats Gain Ground](https://www.tmtpost.com/7622081.html)
+**发布时间**: 2025-07-10 13:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [看什么 · 特别篇丨让这些适合雨天观看的电影，来带你清凉一夏](https://sspai.com/post/67716)
+**发布时间**: 2025-07-10 15:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts](https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/)
+**发布时间**: 2025-07-10 06:34
+
+#### [Not Just Any Prime Day Deals, 254 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
+**发布时间**: 2025-07-09 21:56
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown](https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo)
+**发布时间**: 2025-07-10 05:50
 
 ---
 

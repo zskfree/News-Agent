@@ -1470,6 +1470,72 @@
         "link": "https://arxiv.org/abs/2507.06405",
         "published_date": "Thu, 10 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-10T05:24:35.532500"
+      },
+      "ae800641706de393058f41737e0430e4b5e1352e2504f0c424d49a4f8ecdb31a": {
+        "title": "基于工作记忆的认知测试显示LLM的检索局限：100%混淆无效信息与正确答案",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-15",
+        "published_date": "Thu, 10 Jul 2025 16:11:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151258"
+      },
+      "6fb1849d90cca153335c49e456d7c0225302b0b9055ecba8fb4013e04e4ab226": {
+        "title": "亚马逊云科技推出基于NVIDIA Blackwell的最新、超强GPU实例",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-14",
+        "published_date": "Thu, 10 Jul 2025 15:11:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151329"
+      },
+      "d57be0e1946aa19c511e50accca67dc56c7f102ce7d633b62131e3b70c2415fb": {
+        "title": "人类增强子突变敏感性图谱首次绘制：AI 与体内实验揭示发育调控密码",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-13",
+        "published_date": "Thu, 10 Jul 2025 15:02:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151291"
+      },
+      "0dd41959c2a8a68d8902b56158dbfedf7499384054f6925f97ddf3db4f59e35a": {
+        "title": "8小时处理300万细胞数据，复旦&上交研发双分支架构模型，登Nature子刊",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-12",
+        "published_date": "Thu, 10 Jul 2025 14:30:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151302"
+      },
+      "b70caa7f947c5ec699d38b87f41fa1e6576abe083592cf3dc1badcdf46f6ee89": {
+        "title": "联合国点赞爱诗科技，PixVerse入选AI for Good优秀案例",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-11",
+        "published_date": "Thu, 10 Jul 2025 14:28:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151356"
+      },
+      "fea574ed452ce9f0b58d0114d950715a5197118f25be806af48af311f7fc7e5d": {
+        "title": "刚刚，马斯克发布Grok 4！全榜第一，年费飚到2万+",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-10",
+        "published_date": "Thu, 10 Jul 2025 14:27:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151346"
+      },
+      "63e1c83d388f630cd47fc547a0c8dded522c61f634de6d415dd060351357b71d": {
+        "title": "人形机器人做汉堡火了! 伯克利等全新ViTacFormer让机器人操作稳如老手",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-9",
+        "published_date": "Thu, 10 Jul 2025 14:23:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151311"
+      },
+      "a157ffdd76face98e3cac19e5aa4c364cf1c48794b4cb20e2f514137a04e872e": {
+        "title": "奖励模型终于迎来预训练新时代！上海AI Lab、复旦POLAR，开启Scaling新范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-8",
+        "published_date": "Thu, 10 Jul 2025 13:36:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151279"
+      },
+      "8a386582d3a23c4b1ca62531ca60b6530a129eab0f0a56fcbd2f22b69cc59e39": {
+        "title": "他47岁转方向，一举解决了球体堆积领域内最大的未解问题",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-7",
+        "published_date": "Thu, 10 Jul 2025 13:27:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151320"
+      },
+      "3bcc0ce4e90756769858ce21a0cc1709f4fef2d77d04a6bdcc6779663d6b34c5": {
+        "title": "Chrome危！AI浏览器新品大爆发，OpenAI都来抢饭碗",
+        "link": "https://www.qbitai.com/2025/07/307286.html",
+        "published_date": "Thu, 10 Jul 2025 07:08:00 GMT",
+        "first_seen": "2025-07-10T08:29:39.090547"
+      },
+      "4d62331b8bd99806e69cc2cc0564b5fafb0043714769e9dcf9843178f3333a27": {
+        "title": "MCP协议曝出大漏洞：会泄露整个数据库",
+        "link": "https://www.qbitai.com/2025/07/307174.html",
+        "published_date": "Thu, 10 Jul 2025 06:54:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.151337"
       }
     },
     "Technology": {
@@ -3872,6 +3938,108 @@
         "link": "https://www.theverge.com/tech/703235/amazon-prime-day-beats-powerbeats-pro-2-earbuds-deal-sale-2025",
         "published_date": "Wed, 09 Jul 2025 23:30:00 GMT",
         "first_seen": "2025-07-10T05:24:54.234262"
+      },
+      "cd6c21f8012aaaadcb7a6f952edb8e4d9990fd7c80fb2a7af29bc31af8443e03": {
+        "title": "AI 时代如何做独立开发",
+        "link": "https://www.infoq.cn/article/X7QETe70h8mEfvmkRJH4?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Jul 2025 16:23:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303241"
+      },
+      "a8473d5460bd809221162ffab89abbf2c91d5fa729f5870370e92d597f7bb288": {
+        "title": "看阿里云操作系统控制台如何一招擒拿网络丢包",
+        "link": "https://www.infoq.cn/article/8ddyAv2OlCT1aZPaByRE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Jul 2025 14:24:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.169277"
+      },
+      "77f335e9fc943ea575d2bf7f89ad577d0fb7d78d6ef92040b99bef3a78ca0539": {
+        "title": "从 AI 高考聊到人类未来｜张鹏×潘乱×张一甲 对谈实录",
+        "link": "http://www.geekpark.net/news/351383",
+        "published_date": "Thu, 10 Jul 2025 15:59:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303182"
+      },
+      "c84de55850b282ab3a0a48662c9169203259b9c5ba7c436ab686f0b22ff8acd9": {
+        "title": "英伟达登顶4万亿：算力霸权的加冕与暗涌",
+        "link": "https://www.tmtpost.com/7622062.html",
+        "published_date": "Thu, 10 Jul 2025 15:43:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303150"
+      },
+      "0bd307331e174f098f2c29dca57cd794512e8bdfe44e6de945864f6b566dba8f": {
+        "title": "AI Agent是中国SaaS的解药？",
+        "link": "https://www.tmtpost.com/7622131.html",
+        "published_date": "Thu, 10 Jul 2025 15:34:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303215"
+      },
+      "c61aa74ed70e48277e40e4e0b818416daf42809e9072c446a8a371e279bc1654": {
+        "title": "如何把妇科大模型准确率从77.1%一路攀升到90.2%",
+        "link": "https://www.tmtpost.com/7621647.html",
+        "published_date": "Thu, 10 Jul 2025 15:34:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303232"
+      },
+      "067e3e919b4dfe0f846f3690622c451216996e4792db8f85dd408a2576046b0f": {
+        "title": "钉钉拿飞书当靶",
+        "link": "https://www.tmtpost.com/7621922.html",
+        "published_date": "Thu, 10 Jul 2025 14:58:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.170161"
+      },
+      "c6f786d032f9f3420147d5aa98d03228b7f7ffc3689473df88879a64cf37d6c9": {
+        "title": "经典IP短剧化：先爆改，再爆卖？",
+        "link": "https://www.tmtpost.com/7621933.html",
+        "published_date": "Thu, 10 Jul 2025 14:54:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.170432"
+      },
+      "db8f334e81ca61f84ed0e327c10ec8999c08fbd844cec4077e4708d80dd31c93": {
+        "title": "具身智能最先跑出的“杀手级产品”或许是陪伴机器人",
+        "link": "https://www.tmtpost.com/7622083.html",
+        "published_date": "Thu, 10 Jul 2025 14:48:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303223"
+      },
+      "888003058fecfba8c865076908d2f036669e808289c0d12bfb62fd34a5d44f33": {
+        "title": "你的大脑真的在被AI“腐蚀”吗？",
+        "link": "https://www.tmtpost.com/7622098.html",
+        "published_date": "Thu, 10 Jul 2025 14:48:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.171103"
+      },
+      "725bd6d2291c7efb567b2db95e22f8674924b51bf7eb67e5326a531d45f689d3": {
+        "title": "瑞士生物科技公司Tolremo Therapeutics研发CBP/p300 溴结构域抑制剂，抑制非遗传性癌症产生耐药性 | 瑞士创新100强",
+        "link": "https://www.tmtpost.com/7622114.html",
+        "published_date": "Thu, 10 Jul 2025 14:48:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303253"
+      },
+      "e6bf13bbd67dce6b90cb1334e8b02b1985fa5640fcdebeb1e3cdf493fab7e4ed": {
+        "title": "扎克伯格的“天才名单”：上亿重金能否砸出Meta的AI未来",
+        "link": "https://www.tmtpost.com/7622116.html",
+        "published_date": "Thu, 10 Jul 2025 14:48:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303206"
+      },
+      "69d58646f9b5e7f5b39103c013a0e514474527bd85046f317b56bd6e0c29c1f2": {
+        "title": "独家对话Fusion Fund张璐：硅谷下半年AI投资风向",
+        "link": "https://www.tmtpost.com/7622027.html",
+        "published_date": "Thu, 10 Jul 2025 14:08:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303170"
+      },
+      "1630eabfdec88218fb6e7e5c016f05be93b5bf936ac9439fe3ee1d95d1940713": {
+        "title": "China's Supermarket Sector Shifts as Walmart Leads and New Retail Formats Gain Ground",
+        "link": "https://www.tmtpost.com/7622081.html",
+        "published_date": "Thu, 10 Jul 2025 13:35:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.174479"
+      },
+      "610fc1473cc87a8e511535e835d8a570175924b6faa754d4d35a4612271e7984": {
+        "title": "看什么 · 特别篇丨让这些适合雨天观看的电影，来带你清凉一夏",
+        "link": "https://sspai.com/post/67716",
+        "published_date": "Thu, 10 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.175237"
+      },
+      "00ef5cd14f4e2ed1471fb2213335380f9c7707ef6a6e0aa8b2cc12ec2df39207": {
+        "title": "Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts",
+        "link": "https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/",
+        "published_date": "Thu, 10 Jul 2025 06:34:00 GMT",
+        "first_seen": "2025-07-10T08:30:14.303196"
+      },
+      "5f1bc9a7447b8fbd00456298658ff34a151fb1517b472b3cb3cf0e9383cc2cca": {
+        "title": "Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown",
+        "link": "https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo",
+        "published_date": "Thu, 10 Jul 2025 05:50:00 GMT",
+        "first_seen": "2025-07-10T08:29:57.178514"
       }
     },
     "Finance": {
@@ -4400,8 +4568,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-07-10T05:24:54.190043",
-    "Technology": "2025-07-10T05:25:12.451704",
-    "Finance": "2025-07-10T05:25:12.458007"
+    "AI": "2025-07-10T08:29:57.162116",
+    "Technology": "2025-07-10T08:30:14.305611",
+    "Finance": "2025-07-10T08:30:14.309536"
   }
 }
