@@ -1,7 +1,127 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-09 23:20
+**最后更新时间**: 2025-07-10 05:24
+
+---
+
+## 🆕 最新更新 (2025-07-10 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Nvidia Becomes First Public Company with Market Value Briefly Topping $4 Trillion](https://www.tmtpost.com/7622053.html)
+**发布时间**: 2025-07-10 12:45
+
+#### [B站10亿流量重注，中文视频播客开战](https://www.tmtpost.com/7621011.html)
+**发布时间**: 2025-07-10 12:41
+
+#### [摘牌之后，加盟商把酒店改成了嗨友、又庭、芸朵、喜岸](https://www.tmtpost.com/7621910.html)
+**发布时间**: 2025-07-10 12:23
+
+#### [HRBP是这样失败的，其他BP呢？](https://www.tmtpost.com/7621914.html)
+**发布时间**: 2025-07-10 12:23
+
+#### [HPV疫苗一哥，何以至此？](https://www.tmtpost.com/7621927.html)
+**发布时间**: 2025-07-10 12:23
+
+#### [华富洋：依靠百亿借款“玩转”跨境资金安排，大举分红后又募资补流｜IPO观察](https://www.tmtpost.com/7619753.html)
+**发布时间**: 2025-07-10 12:22
+
+#### [Global PC Market Rebounds in Q2 on AI and Windows 11 Tailwinds, but U.S. Demand Flatlines Amid Tariff Concerns](https://www.tmtpost.com/7621980.html)
+**发布时间**: 2025-07-10 11:59
+
+#### [EU Says Framework Deal with U.S. Could Come in Days while Ready for "All Scenarios"](https://www.tmtpost.com/7621935.html)
+**发布时间**: 2025-07-10 11:21
+
+#### [解国家燃眉之急，电车车主还能0成本用车](https://www.tmtpost.com/7621351.html)
+**发布时间**: 2025-07-10 11:09
+
+#### [2024年中国超市百强榜单发布：沃尔玛蝉联榜首，盒马首进前三](https://www.tmtpost.com/7621368.html)
+**发布时间**: 2025-07-10 10:59
+
+#### [中国的垃圾，不够烧了 | 「钛度号」作品月榜第128期](https://www.tmtpost.com/7621330.html)
+**发布时间**: 2025-07-10 10:56
+
+#### [周杰伦上抖音，巨星传奇市值暴增50亿](https://www.tmtpost.com/7621510.html)
+**发布时间**: 2025-07-10 10:50
+
+#### [钟爱南方的跨境电商们，正在悄悄“北上”](https://www.tmtpost.com/7621547.html)
+**发布时间**: 2025-07-10 10:42
+
+#### [Brazilian President Vows Reciprocity In Response to Trump's 50% Tariffs](https://www.tmtpost.com/7621893.html)
+**发布时间**: 2025-07-10 10:39
+
+#### [AI业务贡献不足1%，北森控股上市2年未破亏损魔咒，股价已降7成](https://www.tmtpost.com/7621583.html)
+**发布时间**: 2025-07-10 10:35
+
+#### [当代职场人双面人生：白天写周报，深夜学理财的集体焦虑](https://www.tmtpost.com/7621596.html)
+**发布时间**: 2025-07-10 10:29
+
+#### [戴尔：AI 浪起，老厂要来个回马枪？](https://www.tmtpost.com/7621723.html)
+**发布时间**: 2025-07-10 10:24
+
+#### [连亏四年，百亿市值蒸发99%，广东零售“三巨头”之一黯然退市](https://www.tmtpost.com/7621727.html)
+**发布时间**: 2025-07-10 10:24
+
+#### [北向资金加仓A股：数据背后暗藏哪些信号？](https://www.tmtpost.com/7621808.html)
+**发布时间**: 2025-07-10 10:24
+
+#### [数美万物发布首款原创高清模型工具，开启AI造物“所见即所得”时代 ｜独家](https://www.tmtpost.com/7621503.html)
+**发布时间**: 2025-07-10 10:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [《死亡搁浅导剪版》批评：心在快递，路在脚下](https://sspai.com/post/100861)
+**发布时间**: 2025-07-10 11:58
+
+#### [派早报：三星发布新款 Z 系列手机等](https://sspai.com/post/100888)
+**发布时间**: 2025-07-10 08:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“稚晖君”智元机器人豪掷21亿，抢跑宇树、砸出“人形机器人第一股”？！](https://www.infoq.cn/article/ZLYkuyKTZjNHaurU4bwE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 11:32
+
+#### [钉钉上跑出的第一个行业专属大模型落地：准确率超90%的妇科专业大模型](https://www.infoq.cn/article/XHqJ0upfv0cEgm5WN5fU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 11:17
+
+#### [GMI Cloud：如何构建全球化高性能分布式推理服务？](https://www.infoq.cn/article/4dWhmieFQI5Bt1gGaNef?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 10:39
+
+#### [Figma每天30万美元的AWS账单凸显了云依赖风险](https://www.infoq.cn/article/d5pD82HdwN5siNWFIZNT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 10:17
+
+#### [2025 HarmonyOS 创新赛正式启动，百万大奖等你挑战！](https://www.infoq.cn/article/bL7OpELejqONYm18SCCU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 09:15
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米首款增程 SUV 新谍照曝光；英伟达成为首家市值达到 4 万亿美元的公司；X CEO 宣布辞任｜极客早知道](http://www.geekpark.net/news/351346)
+**发布时间**: 2025-07-10 08:15
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [$180 Off KitchenAid Promo Code | July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+**发布时间**: 2025-07-10 05:10
+
+#### [Tempur-Pedic Promo Codes: Up to 50% Off](https://www.wired.com/story/tempur-pedic-promo-code/)
+**发布时间**: 2025-07-10 05:00
+
+#### [The Boom 4 Bluetooth Speaker Is Cheaper Than Ever for Prime Day](https://www.wired.com/story/ultimate-ears-boom-4-prime-day-deal/)
+**发布时间**: 2025-07-10 00:07
+
+#### [100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-1/)
+**发布时间**: 2025-07-09 23:53
+
+#### [Not Just Any Prime Day Deals, 242 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
+**发布时间**: 2025-07-09 21:56
+
+#### [Dyson’s V15 Detect Is $200 Off for Prime Day (2025)](https://www.wired.com/story/dyson-v15-detect-prime-day-sale/)
+**发布时间**: 2025-07-09 19:12
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Powerbeats Pro 2 are down to their best price yet for Prime Day](https://www.theverge.com/tech/703235/amazon-prime-day-beats-powerbeats-pro-2-earbuds-deal-sale-2025)
+**发布时间**: 2025-07-09 23:30
 
 ---
 

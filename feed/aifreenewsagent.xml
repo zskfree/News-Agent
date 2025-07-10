@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Jul 2025 23:20:39 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Jul 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Jul 2025 05:24:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI制药究竟是风口还是泡沫？风投公司副总裁一文讲清楚了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-09-11</link>
-      <description>&lt;![CDATA[AI制药究竟是风口还是泡沫？风投公司副总裁一文讲清楚了]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-09-11</guid>
+      <title>VLA统一架构新突破：自回归世界模型引领具身智能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-6</link>
+      <description>&lt;![CDATA[VLA统一架构新突破：自回归世界模型引领具身智能]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MedGemma: Our most capable open models for health AI development</title>
-      <link>https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/</link>
-      <description>&lt;![CDATA[MedGemma: Our most capable open models for health AI development]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/</guid>
+      <title>「Tokens是胡扯」，Mamba作者抛出颠覆性观点，揭露Transformer深层缺陷</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-4</link>
+      <description>&lt;![CDATA[「Tokens是胡扯」，Mamba作者抛出颠覆性观点，揭露Transformer深层缺陷]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Changing the conversation in health care</title>
-      <link>https://news.mit.edu/2025/changing-conversation-health-care-0709</link>
-      <description>&lt;![CDATA[Changing the conversation in health care]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/changing-conversation-health-care-0709</guid>
+      <title>Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities</title>
+      <link>https://arxiv.org/abs/2507.06261</link>
+      <description>&lt;![CDATA[Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.06261</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI shapes autonomous underwater “gliders”</title>
-      <link>https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</link>
-      <description>&lt;![CDATA[AI shapes autonomous underwater “gliders”]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</guid>
+      <title>真实科研水平集体不及格！全新基准SFE给主流多模态LLM来了波暴击</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-2</link>
+      <description>&lt;![CDATA[真实科研水平集体不及格！全新基准SFE给主流多模态LLM来了波暴击]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: a conversation with Karen Hao, and how did life begin?</title>
-      <link>https://www.technologyreview.com/2025/07/09/1119923/the-download-a-conversation-with-karen-hao-and-how-did-life-begin/</link>
-      <description>&lt;![CDATA[The Download: a conversation with Karen Hao, and how did life begin?]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/09/1119923/the-download-a-conversation-with-karen-hao-and-how-did-life-begin/</guid>
+      <title>Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI</title>
+      <link>https://arxiv.org/abs/2507.06398</link>
+      <description>&lt;![CDATA[Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.06398</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Inside OpenAI’s empire: A conversation with Karen Hao</title>
-      <link>https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/</link>
-      <description>&lt;![CDATA[Inside OpenAI’s empire: A conversation with Karen Hao]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 09:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/</guid>
+      <title>前无古人！英伟达市值突破4万亿美元，老黄下一站：北京</title>
+      <link>https://www.qbitai.com/2025/07/306788.html</link>
+      <description>&lt;![CDATA[前无古人！英伟达市值突破4万亿美元，老黄下一站：北京]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 01:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306788.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Why the AI moratorium’s defeat may signal a new political era</title>
-      <link>https://www.technologyreview.com/2025/07/09/1119867/why-the-ai-moratoriums-defeat-may-signal-a-new-political-era/</link>
-      <description>&lt;![CDATA[Why the AI moratorium’s defeat may signal a new political era]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/09/1119867/why-the-ai-moratoriums-defeat-may-signal-a-new-political-era/</guid>
+      <title>ICML 2025 | 给AI装上「智能升级插件」！阿里安全-清华大学D-MoLE让模型在持续学习中动态进化</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-5</link>
+      <description>&lt;![CDATA[ICML 2025 | 给AI装上「智能升级插件」！阿里安全-清华大学D-MoLE让模型在持续学习中动态进化]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Hinton为儿子加入谷歌，现在痛悔毕生工作，“青少年做水管工吧”</title>
-      <link>https://www.qbitai.com/2025/07/306739.html</link>
-      <description>&lt;![CDATA[Hinton为儿子加入谷歌，现在痛悔毕生工作，“青少年做水管工吧”]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306739.html</guid>
+      <title>Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms</title>
+      <link>https://arxiv.org/abs/2507.06323</link>
+      <description>&lt;![CDATA[Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.06323</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Claude团队新研究：为什么有的模型假装对齐有的不会</title>
-      <link>https://www.qbitai.com/2025/07/306725.html</link>
-      <description>&lt;![CDATA[Claude团队新研究：为什么有的模型假装对齐有的不会]]&gt;</description>
-      <pubDate>Wed, 09 Jul 2025 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/306725.html</guid>
+      <title>The Prompt War: How AI Decides on a Military Intervention</title>
+      <link>https://arxiv.org/abs/2507.06277</link>
+      <description>&lt;![CDATA[The Prompt War: How AI Decides on a Military Intervention]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.06277</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>魔法原子推出高动态双足人形机器人MagicBot Z1</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10</link>
+      <description>&lt;![CDATA[魔法原子推出高动态双足人形机器人MagicBot Z1]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10</guid>
       <category>AI</category>
     </item>
   </channel>

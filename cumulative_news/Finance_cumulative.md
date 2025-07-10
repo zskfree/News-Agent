@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-09 23:20
+**最后更新时间**: 2025-07-10 05:24
+
+---
+
+## 🆕 最新更新 (2025-07-10 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Microsoft’s stock gets an upgrade. Why these analysts say it’s underappreciated in AI.](https://www.marketwatch.com/story/microsofts-stock-gets-an-upgrade-why-these-analysts-say-its-underappreciated-in-ai-2533bf48?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 02:29
+
+#### [How Trump’s threat of 50% tariffs on copper could hurt America’s AI ambitions](https://www.marketwatch.com/story/how-trumps-50-copper-tariffs-threat-could-hurt-americas-ai-ambitions-379a20ed?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 01:15
+
+#### [Why Trump might not get rapid interest-rate cuts even after he replaces Fed chief Powell](https://www.marketwatch.com/story/why-trump-might-not-get-rapid-interest-rates-cuts-even-after-he-replaces-fed-chief-powell-77a638ea?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 00:01
+
+#### [Tesla investors ask: When’s the shareholder meeting?](https://www.marketwatch.com/story/tesla-investors-ask-whens-the-shareholder-meeting-05ee1ef9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-09 23:19
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [SALT deduction is now much more generous. Here’s how to get the most out of it.](https://www.marketwatch.com/bulletins/redirect/go?g=58511764-bc8a-400c-93c9-230f2d61a5b3&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-09 23:35
 
 ---
 
