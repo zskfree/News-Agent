@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-10 05:24
+**最后更新时间**: 2025-07-10 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-10 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Is Amazon Prime Day losing its appeal? Early data hints shoppers spending less.](https://www.marketwatch.com/bulletins/redirect/go?g=8f1358ae-903e-4ac7-b783-06d5fe98bb54&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 23:07
+
+#### [Stock indexes are back at record highs — even if individual stocks aren’t](https://www.marketwatch.com/bulletins/redirect/go?g=7a362027-9171-4da0-a65f-5e636b0184f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 22:20
+
+#### [Nvidia officially gets its $4 trillion finish. Here’s what could come next.](https://www.marketwatch.com/bulletins/redirect/go?g=74dee601-2c7f-41ae-8d6b-e1f386851739&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 21:16
+
+#### [Trump’s Brazil tariff ‘sets scary precedent’ given trade surplus with country](https://www.marketwatch.com/bulletins/redirect/go?g=e36b881d-e3d0-4b37-adcf-c2a4a571d429&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 20:51
+
+#### [S&P 500, Nasdaq close at record highs while Dow narrows gap to its December peak](https://www.marketwatch.com/bulletins/redirect/go?g=7f511950-b8c5-4635-b602-a18fcb546817&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 20:02
+
+#### [Where the new $40,000 SALT cap in Trump’s big bill helps homeowners the most](https://www.marketwatch.com/bulletins/redirect/go?g=0e0fddd0-d6e8-479e-9da5-860ee9639598&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 18:39
+
+#### [A key piece of the next consumer-price report risks upsetting the bond market](https://www.marketwatch.com/bulletins/redirect/go?g=cd43b25e-c44b-4af0-924c-5240483ecde5&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 18:09
+
+#### [Prices for coffee and orange juice jump as Trump hits Brazil with tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=e1c4910f-e2bc-4d54-a354-0aa2b58fdaa0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 17:11
+
+#### [Americans caring for older adults now outnumber those tending to little kids](https://www.marketwatch.com/bulletins/redirect/go?g=b5d051b2-2c4a-4ce2-a453-3909f587cf09&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 15:34
+
+#### [Nike and Caterpillar top advancers as Dow runs intraday gain to 250 points](https://www.marketwatch.com/bulletins/redirect/go?g=13cb784d-8648-41cd-98a0-ab413bbd497a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-10 15:14
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Jorts and ‘quiet Western’ wear are helping Levi’s stave off the impact of tariffs](https://www.marketwatch.com/story/levi-strauss-now-expects-sales-to-increase-this-year-despite-higher-tariffs-8d852172?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 23:01
+
+#### [‘I’m in California and plan to stay here’: I’m 61, lost my job and live off my $425K IRA. My house has $650K in equity. Do I sell?](https://www.marketwatch.com/story/im-in-california-and-plan-to-stay-here-im-61-lost-my-job-and-live-off-my-425k-ira-my-house-has-650k-in-equity-do-i-sell-5c7ffaad?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 21:16
+
+#### [Nvidia officially gets its $4 trillion finish. Here’s what could come next.](https://www.marketwatch.com/story/nvidia-officially-gets-its-4-trillion-finish-heres-what-could-come-next-8c474b45?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 21:14
+
+#### [The stock market now is clearly overbought — but overbought does not mean ‘sell’](https://www.marketwatch.com/story/how-to-play-apple-shares-and-big-bank-earnings-as-the-stock-market-hits-another-record-0783e99f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 20:53
+
+#### [Is Amazon’s Prime Day sale losing its appeal? Some early data suggest shoppers are spending less this year.](https://www.marketwatch.com/story/is-amazons-prime-day-sale-losing-its-appeal-some-early-data-suggest-shoppers-are-spending-less-this-year-ac365fbb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 20:52
+
+#### [Trump’s Brazil tariff ‘sets a scary precedent’ given the U.S. has a trade surplus with the country, economists say](https://www.marketwatch.com/story/trumps-brazil-tariff-sets-a-scary-precedent-given-the-u-s-has-a-trade-surplus-with-the-country-economists-say-38a88bd7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 20:31
+
+#### [Stock indexes are back at record highs — even if individual stocks aren’t](https://www.marketwatch.com/story/stock-indexes-are-back-near-record-highs-even-if-individual-stocks-arent-3802768e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 20:23
+
+#### [A key piece of the next consumer-price report risks upsetting the bond market](https://www.marketwatch.com/story/a-key-piece-of-the-next-consumer-price-report-risks-upsetting-the-bond-market-6b17c78d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 20:01
+
+#### [Dallas Morning News’s stock jumps more than 200% on Hearst acquisition news](https://www.marketwatch.com/story/dallas-morning-newss-stock-jumps-over-200-on-hearst-acquisition-news-af1e3e9a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-10 19:57
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Jul 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Jul 2025 08:29:57 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Jul 2025 23:21:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>基于工作记忆的认知测试显示LLM的检索局限：100%混淆无效信息与正确答案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-15</link>
-      <description>&lt;![CDATA[基于工作记忆的认知测试显示LLM的检索局限：100%混淆无效信息与正确答案]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-15</guid>
+      <title>扩散语言模型写代码！速度比自回归快10倍</title>
+      <link>https://www.qbitai.com/2025/07/307485.html</link>
+      <description>&lt;![CDATA[扩散语言模型写代码！速度比自回归快10倍]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 09:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307485.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>奖励模型终于迎来预训练新时代！上海AI Lab、复旦POLAR，开启Scaling新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-8</link>
-      <description>&lt;![CDATA[奖励模型终于迎来预训练新时代！上海AI Lab、复旦POLAR，开启Scaling新范式]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-8</guid>
+      <title>告别数据「噪音」，UCSD大模型推理新方法DreamPRM充当「信号放大器」，登顶MathVista测评榜</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-19</link>
+      <description>&lt;![CDATA[告别数据「噪音」，UCSD大模型推理新方法DreamPRM充当「信号放大器」，登顶MathVista测评榜]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-19</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>人类增强子突变敏感性图谱首次绘制：AI 与体内实验揭示发育调控密码</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-13</link>
-      <description>&lt;![CDATA[人类增强子突变敏感性图谱首次绘制：AI 与体内实验揭示发育调控密码]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-13</guid>
+      <title>编码器-解码器架构的复兴？谷歌一口气发布32个T5Gemma模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-17</link>
+      <description>&lt;![CDATA[编码器-解码器架构的复兴？谷歌一口气发布32个T5Gemma模型]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 17:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-17</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>8小时处理300万细胞数据，复旦&amp;上交研发双分支架构模型，登Nature子刊</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-12</link>
-      <description>&lt;![CDATA[8小时处理300万细胞数据，复旦&amp;上交研发双分支架构模型，登Nature子刊]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-12</guid>
+      <title>vivo发布端侧多模态模型，只有3B可理解GUI界面，20项评测表现亮眼</title>
+      <link>https://www.qbitai.com/2025/07/307146.html</link>
+      <description>&lt;![CDATA[vivo发布端侧多模态模型，只有3B可理解GUI界面，20项评测表现亮眼]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307146.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>人形机器人做汉堡火了! 伯克利等全新ViTacFormer让机器人操作稳如老手</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-9</link>
-      <description>&lt;![CDATA[人形机器人做汉堡火了! 伯克利等全新ViTacFormer让机器人操作稳如老手]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-9</guid>
+      <title>从「塑料人」到「有血有肉」：角色动画的物理革命，PhysRig实现更真实、更自然的动画角色变形效果</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-16</link>
+      <description>&lt;![CDATA[从「塑料人」到「有血有肉」：角色动画的物理革命，PhysRig实现更真实、更自然的动画角色变形效果]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-16</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>他47岁转方向，一举解决了球体堆积领域内最大的未解问题</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-7</link>
-      <description>&lt;![CDATA[他47岁转方向，一举解决了球体堆积领域内最大的未解问题]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-7</guid>
+      <title>The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift</title>
+      <link>https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/</link>
+      <description>&lt;![CDATA[The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>亚马逊云科技推出基于NVIDIA Blackwell的最新、超强GPU实例</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-14</link>
-      <description>&lt;![CDATA[亚马逊云科技推出基于NVIDIA Blackwell的最新、超强GPU实例]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-14</guid>
+      <title>This tool strips away anti-AI protections from digital art</title>
+      <link>https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/</link>
+      <description>&lt;![CDATA[This tool strips away anti-AI protections from digital art]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MCP协议曝出大漏洞：会泄露整个数据库</title>
-      <link>https://www.qbitai.com/2025/07/307174.html</link>
-      <description>&lt;![CDATA[MCP协议曝出大漏洞：会泄露整个数据库]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 06:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307174.html</guid>
+      <title>Meta为他豪掷2亿美元，上交校友庞若鸣，晒出在苹果的最新论文</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-21</link>
+      <description>&lt;![CDATA[Meta为他豪掷2亿美元，上交校友庞若鸣，晒出在苹果的最新论文]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 19:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-21</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，马斯克发布Grok 4！全榜第一，年费飚到2万+</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-10</link>
-      <description>&lt;![CDATA[刚刚，马斯克发布Grok 4！全榜第一，年费飚到2万+]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-10</guid>
+      <title>7月19日，相聚北京！一起聊聊ACL 2025爆点研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-10-18</link>
+      <description>&lt;![CDATA[7月19日，相聚北京！一起聊聊ACL 2025爆点研究]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-18</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>联合国点赞爱诗科技，PixVerse入选AI for Good优秀案例</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-11</link>
-      <description>&lt;![CDATA[联合国点赞爱诗科技，PixVerse入选AI for Good优秀案例]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-11</guid>
+      <title>他一人撑起谷歌90%的AI宣传，劈柴真是挖到鬼才了</title>
+      <link>https://www.qbitai.com/2025/07/307447.html</link>
+      <description>&lt;![CDATA[他一人撑起谷歌90%的AI宣传，劈柴真是挖到鬼才了]]&gt;</description>
+      <pubDate>Thu, 10 Jul 2025 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307447.html</guid>
       <category>AI</category>
     </item>
   </channel>

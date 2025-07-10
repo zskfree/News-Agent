@@ -1536,6 +1536,84 @@
         "link": "https://www.qbitai.com/2025/07/307174.html",
         "published_date": "Thu, 10 Jul 2025 06:54:00 GMT",
         "first_seen": "2025-07-10T08:29:57.151337"
+      },
+      "ab508f7189c7ba6a0c9dca4acd2e0319f40b1c5e4f3497f5edaac5149cc4f9f4": {
+        "title": "Meta为他豪掷2亿美元，上交校友庞若鸣，晒出在苹果的最新论文",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-21",
+        "published_date": "Thu, 10 Jul 2025 19:09:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509845"
+      },
+      "549c109a174e5220d07889b5dd152e8536b9c27822d766ff25e7949b5a1b5263": {
+        "title": "我们用飞书开了个选题会，一下进入现代化办公，编辑部直呼：真香",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-20",
+        "published_date": "Thu, 10 Jul 2025 19:04:00 GMT",
+        "first_seen": "2025-07-10T23:20:35.379466"
+      },
+      "becb1cee48fc9578fb833dddf77ee21b6282690dbcbba3bec6cde2407044d4ff": {
+        "title": "告别数据「噪音」，UCSD大模型推理新方法DreamPRM充当「信号放大器」，登顶MathVista测评榜",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-19",
+        "published_date": "Thu, 10 Jul 2025 18:59:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509779"
+      },
+      "6ecdc450e1b3644ea4a2fbec8251465d18484a7dabae87a8a8609ab9535a5fdf": {
+        "title": "7月19日，相聚北京！一起聊聊ACL 2025爆点研究",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-18",
+        "published_date": "Thu, 10 Jul 2025 17:11:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509854"
+      },
+      "79f1aa2d196431c61ddd3df064e446bb572f27f867ef61030e14cf02bc75afc2": {
+        "title": "编码器-解码器架构的复兴？谷歌一口气发布32个T5Gemma模型",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-17",
+        "published_date": "Thu, 10 Jul 2025 17:07:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509792"
+      },
+      "ed889eba71c55b5a320a092169ce6f7bbf80a10ca76df35d38e5539a5ea4e9ff": {
+        "title": "从「塑料人」到「有血有肉」：角色动画的物理革命，PhysRig实现更真实、更自然的动画角色变形效果",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-10-16",
+        "published_date": "Thu, 10 Jul 2025 17:02:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509814"
+      },
+      "d6e57449cec99b8c58b66a87fe5eac06a3030d03223b1ab42b949e7c48e0b1b8": {
+        "title": "The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift",
+        "link": "https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/",
+        "published_date": "Thu, 10 Jul 2025 12:10:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509826"
+      },
+      "9616a795e8977184498f5b73b34c8e599b5f9d1ea9732752c00398c50241a6c3": {
+        "title": "China’s energy dominance in three charts",
+        "link": "https://www.technologyreview.com/2025/07/10/1119941/china-energy-dominance-three-charts/",
+        "published_date": "Thu, 10 Jul 2025 10:00:00 GMT",
+        "first_seen": "2025-07-10T23:20:35.382277"
+      },
+      "db703116709004e12785a37baa63ff9fa2e656d1206172520bd5a6687fe90adb": {
+        "title": "This tool strips away anti-AI protections from digital art",
+        "link": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/",
+        "published_date": "Thu, 10 Jul 2025 09:00:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509835"
+      },
+      "e31525b04b10b93babb689dede5f1db2575056a5446833bb5b7515758b8c7533": {
+        "title": "扩散语言模型写代码！速度比自回归快10倍",
+        "link": "https://www.qbitai.com/2025/07/307485.html",
+        "published_date": "Thu, 10 Jul 2025 09:18:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509756"
+      },
+      "0886c4e1a8ba814364f53e94d6705ddf2a2f8a4a9cf47bba43b0a668ee42499b": {
+        "title": "Manus跑路了吗？",
+        "link": "https://www.qbitai.com/2025/07/307468.html",
+        "published_date": "Thu, 10 Jul 2025 09:10:00 GMT",
+        "first_seen": "2025-07-10T23:20:35.383884"
+      },
+      "d16a5a163edb41b63593bb895b813b937d08b345522c907a4948b2b27927e0be": {
+        "title": "vivo发布端侧多模态模型，只有3B可理解GUI界面，20项评测表现亮眼",
+        "link": "https://www.qbitai.com/2025/07/307146.html",
+        "published_date": "Thu, 10 Jul 2025 08:59:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509803"
+      },
+      "66e72897d640f95193561f836d06759132eba7a481866a25b52ea956614325fe": {
+        "title": "他一人撑起谷歌90%的AI宣传，劈柴真是挖到鬼才了",
+        "link": "https://www.qbitai.com/2025/07/307447.html",
+        "published_date": "Thu, 10 Jul 2025 08:57:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.509863"
       }
     },
     "Technology": {
@@ -4040,6 +4118,306 @@
         "link": "https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo",
         "published_date": "Thu, 10 Jul 2025 05:50:00 GMT",
         "first_seen": "2025-07-10T08:29:57.178514"
+      },
+      "0dac870cba0501cc82e0b32e031a29d9e5b716b9f1708974047436bffdb2d495": {
+        "title": "19.39 万起！乐道L90，蔚来不能输的一场硬仗",
+        "link": "http://www.geekpark.net/news/351403",
+        "published_date": "Fri, 11 Jul 2025 00:20:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056721"
+      },
+      "89273949084066451044e86ba6e9efdcd06e2daa4469e24e8f522827ec5e8ae2": {
+        "title": "马斯克曝光的 Grok4，学会了「第一性原理」，但依然不到「AI 王炸」",
+        "link": "http://www.geekpark.net/news/351389",
+        "published_date": "Thu, 10 Jul 2025 18:41:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056664"
+      },
+      "450e79647bf6a95aca0dbf221140fd5cabcccd2bbc342b710eb22a1c9e5ac737": {
+        "title": "Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV",
+        "link": "https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 23:01:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.528203"
+      },
+      "4f7307a724bc28a13d9f26aead35132a01cb75f17a61316423ebea31274d336c": {
+        "title": "DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’",
+        "link": "https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/",
+        "published_date": "Thu, 10 Jul 2025 21:58:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.528707"
+      },
+      "6cb88467be12b8f826c6596dccd2fec4e7bee278aa3bc8643f2355324c520ab3": {
+        "title": "13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025",
+        "link": "https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/",
+        "published_date": "Thu, 10 Jul 2025 20:52:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.529368"
+      },
+      "8f932e0a8a0f692e4de3171447a707382c2ef54687cf6ed8f2eeef0b6632cffb": {
+        "title": "23 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More",
+        "link": "https://www.wired.com/story/the-best-prime-day-coffee-deals-2/",
+        "published_date": "Thu, 10 Jul 2025 20:51:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.530182"
+      },
+      "6b8cba84ecbea1b333e31036e54bae08f8868b1a2387023531c353531efba474": {
+        "title": "The 12 Best Prime Day Purchases Our Gear Team Made",
+        "link": "https://www.wired.com/story/what-we-bought-prime-day-july-2025/",
+        "published_date": "Thu, 10 Jul 2025 20:31:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.531038"
+      },
+      "4f7011452818c878f4fb68b1b4bb94bbb0a8dde48952aa4207f937c830a74bbf": {
+        "title": "15 Prime Day Kindle Deals (Plus Amazon Echo Devices)",
+        "link": "https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 20:03:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.532049"
+      },
+      "139e7aeadfed26c6edda55e55d394e747023fecee5f4676b4828e764ee439625": {
+        "title": "Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care",
+        "link": "https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 19:56:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.533292"
+      },
+      "4152a9d6a4f7f69e0bcc49eff795d19dcf008b53b76fcd5758b4bc81525131d6": {
+        "title": "Amazon Prime Day Live: We're Dropping Deals and Takes Every 15 Minutes",
+        "link": "https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/",
+        "published_date": "Thu, 10 Jul 2025 19:28:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.534844"
+      },
+      "f0b6835b1cd5604aecd6561398eaf52570b7736b23edd0fefc76646e015f26af": {
+        "title": "The 27 Best Deals at Walmart’s Competing Prime Day Sale",
+        "link": "https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale/",
+        "published_date": "Thu, 10 Jul 2025 19:13:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.536095"
+      },
+      "e62641cd3b4d8e6409908101d194d75c2b98a91d99bcfe9ace79b2816373bbd2": {
+        "title": "The 37 Best Movies on HBO Max Right Now (July 2025)",
+        "link": "https://www.wired.com/story/best-movies-hbo-max-right-now/",
+        "published_date": "Thu, 10 Jul 2025 19:00:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.537658"
+      },
+      "41ba3c020a8bb90c22c767226c596b379b26b6836a009eba16d9369db7812195": {
+        "title": "16 Best Prime Day Board Game Deals for Kids of All Ages (2025)",
+        "link": "https://www.wired.com/story/prime-day-toy-deals-july-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 18:59:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.539500"
+      },
+      "02c5648782ea8884f94ad3314917b9fe1e89f5f4f0342e788f965d053628c237": {
+        "title": "Best 13 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo",
+        "link": "https://www.wired.com/story/prime-day-kitchen-deals-july-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 18:30:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.541187"
+      },
+      "d58cb85f0f94610306e401d90f229d9f78d69b75c3f96bd5eb4b7cf6c171d1cd": {
+        "title": "The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon",
+        "link": "https://www.wired.com/story/best-prime-day-deals-from-other-retailers/",
+        "published_date": "Thu, 10 Jul 2025 18:03:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.543416"
+      },
+      "7811aee83ddcf9880996b647da12b8b3ebb9cc8c9e7b7c237354df515ed8f762": {
+        "title": "Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More",
+        "link": "https://www.wired.com/story/best-prime-day-laptop-deals-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 17:44:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.545573"
+      },
+      "68174133e889e372482208ec90abd029a7f4eb2bfaa7cf522ac9d5accf7f5573": {
+        "title": "How Video Games Became the New Battleground for Actors and AI Protections",
+        "link": "https://www.wired.com/story/video-games-voice-actors-strike-over-artificial-intelligence/",
+        "published_date": "Thu, 10 Jul 2025 17:13:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.548626"
+      },
+      "471a41c0b36fc972ef2320ed6a3b4cfa2d5d196e5e93d6dfdd9c8cfdc4f6336f": {
+        "title": "10 Best Prime Day Mattress Deals Plus Top Bedding Sales (2025)",
+        "link": "https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 17:06:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.551078"
+      },
+      "1fb7c365c40f650a378147fa0f0f6ec47c5b4e12973be5d6e1882598038dc333": {
+        "title": "The Best Prime Day MacBook Deal Is Not the One You Think",
+        "link": "https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/",
+        "published_date": "Thu, 10 Jul 2025 16:42:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.553753"
+      },
+      "a79178d93de10444b6d3abb0c0319d0ba051be2a4fc7b03c949c43f7942879c1": {
+        "title": "You Asked, We Answered: All of Your AI Angst",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-you-asked-we-answered-all-of-your-ai-angst/",
+        "published_date": "Thu, 10 Jul 2025 16:27:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.556091"
+      },
+      "920eb8d1eedd81cada0546dd5df7a15133b8fba29e6275073c3ce3598909c140": {
+        "title": "The ModRetro Chromatic Is a Game Boy Fit for Your Apocalypse Bunker",
+        "link": "https://www.wired.com/story/the-modretro-chromatic-is-a-game-boy-fit-for-your-apocalypse-bunker/",
+        "published_date": "Thu, 10 Jul 2025 16:00:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.559912"
+      },
+      "b5a16ab4c49991e19b4c3e34986ea5997de805ece739751f7cdfb8315c0a14e3": {
+        "title": "12 Best Prime Day TV Deals for All Budgets (2025)",
+        "link": "https://www.wired.com/story/prime-day-tv-deals-july-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 15:26:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.562609"
+      },
+      "3310b7af878b560625f665cd9b3f87c2e002b319b8eed7cd0a2111f756845d05": {
+        "title": "19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)",
+        "link": "https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 14:38:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.566167"
+      },
+      "c75a9b480ab35862956eae02ec3d9ee1a51748418876ca33fe4a93bd506400ca": {
+        "title": "Elon Musk Says Grok Is Coming to Tesla EVs",
+        "link": "https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/",
+        "published_date": "Thu, 10 Jul 2025 13:48:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056674"
+      },
+      "83a907279743a5dcb3476089843662093d9bad48c362cedea72e3d85f9793ff7": {
+        "title": "100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More",
+        "link": "https://www.wired.com/story/prime-day-under-100-july-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 13:15:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.572782"
+      },
+      "13ec6ac13f64795158e17aeaa218fb9e0dcfa9fe6e4d6ac32c4e18c0e9cb8d28": {
+        "title": "These Prime Day Phone Deals Are So Good, You'll Forget About Tariffs",
+        "link": "https://www.wired.com/story/prime-day-phone-deals-july-2025/",
+        "published_date": "Thu, 10 Jul 2025 11:52:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.577150"
+      },
+      "820f910115d16ada7ee82525672da085abc73c0540e8090bc5b617cecdecfd2a": {
+        "title": "Hyundai Reveals the ‘Lightspeed’ Ioniq 6 N",
+        "link": "https://www.wired.com/story/hyundai-reveals-the-ioniq-6-n/",
+        "published_date": "Thu, 10 Jul 2025 11:30:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.580112"
+      },
+      "0d319ca0b7c266c687d36e3b880c9f6cc9efda0fd33d864677deeb74cf83730e": {
+        "title": "20 Best Prime Day Apple Deals—Including 40% Off AirPods",
+        "link": "https://www.wired.com/story/prime-day-apple-deals-2025-2/",
+        "published_date": "Thu, 10 Jul 2025 11:02:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.583732"
+      },
+      "41b1cfed1a3916feaaedd80c9638abfef2e7fb897113b9f917d9896ef1cffe72": {
+        "title": "AI Is a Lousy Chef",
+        "link": "https://www.wired.com/story/dishgen-ai-recipes-tested/",
+        "published_date": "Thu, 10 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.585669"
+      },
+      "bd4adc7cbd9f26dd44598ee8f4ac4b750fad03f501909998319a265f4dca978e": {
+        "title": "Dr. ChatGPT Will See You Now",
+        "link": "https://www.wired.com/story/dr-chatgpt-will-see-you-now-artificial-intelligence-llms-openai-health-diagnoses/",
+        "published_date": "Thu, 10 Jul 2025 10:46:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056693"
+      },
+      "fb00d593addf0cd3111532acb03eae1fdcdf293005a676aae87ca3f4e219847d": {
+        "title": "Scientists Succeed in Reversing Parkinson’s Symptoms in Mice",
+        "link": "https://www.wired.com/story/scientists-succeed-in-reversing-parkinsons-symptoms-in-mice-can-they-do-it-in-humans/",
+        "published_date": "Thu, 10 Jul 2025 10:30:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.592732"
+      },
+      "fd8926cebf009836f2a262e216cdba1538b9927948f4b4e4e089cb0dd6432fc3": {
+        "title": "This Is DOGE 2.0",
+        "link": "https://www.wired.com/story/next-stage-doge-elon-musk/",
+        "published_date": "Thu, 10 Jul 2025 10:30:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.594782"
+      },
+      "dc019b67b963af2a643bbc95c4bd52fc913e5d0a61d5fc40067128cac63bb511": {
+        "title": "Cloning Came to Polo. Then Things Got Truly Uncivilized",
+        "link": "https://www.wired.com/story/cloning-came-to-polo-things-got-uncivilized-cambiaso/",
+        "published_date": "Thu, 10 Jul 2025 10:00:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.599057"
+      },
+      "9e8a3b5ef75dbb6a7ea1b8de3723dc766b42c1ea3dfd185e35350af10892c85f": {
+        "title": "Netgear’s Excellent Wi-Fi 7 Mesh Is on Sale for Prime Day",
+        "link": "https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-july-2025/",
+        "published_date": "Thu, 10 Jul 2025 09:54:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.603274"
+      },
+      "341b62dbeef96bfece124e7b64fcdcc963ad268fc7463e80f447db61997dc734": {
+        "title": "蔚来“冠军纪念版”车型上市，讲的是情怀还是策略？",
+        "link": "https://www.tmtpost.com/7621809.html",
+        "published_date": "Thu, 10 Jul 2025 22:36:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.605368"
+      },
+      "d64655d29484b2a4c0473512592916028add98f2113ee9c3b187f26a27488491": {
+        "title": "高新兴的“车联网执念”：业绩三连降陷困局，仍定增3.74亿再加码",
+        "link": "https://www.tmtpost.com/7622774.html",
+        "published_date": "Thu, 10 Jul 2025 20:46:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.608019"
+      },
+      "044ca56beccdfbce43e31a75ee60e3d0d4cff042e1287746c125b355b33735f0": {
+        "title": "AI的诱惑，B站这回真怂了",
+        "link": "https://www.tmtpost.com/7622621.html",
+        "published_date": "Thu, 10 Jul 2025 19:31:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.609464"
+      },
+      "836a88e462369897356ac02e156da20c0d778ee9baacf8b548831fbb81bbc726": {
+        "title": "荣耀背水一战",
+        "link": "https://www.tmtpost.com/7621941.html",
+        "published_date": "Thu, 10 Jul 2025 19:31:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.610283"
+      },
+      "6ad748b963bfeab1685776abfe2fe435898e44049b25a55a0ba118155d7c7f91": {
+        "title": "小米YU7背后，出了一个调光技术圈的「宁德时代」",
+        "link": "https://www.tmtpost.com/7622421.html",
+        "published_date": "Thu, 10 Jul 2025 19:27:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056703"
+      },
+      "09bffada97c9da78f28e3e4da5a03484ffb9a16077770e4cd59520a353bae8c3": {
+        "title": "稚晖君和王兴兴，打起了人形机器人关键一仗",
+        "link": "https://www.tmtpost.com/7622639.html",
+        "published_date": "Thu, 10 Jul 2025 19:27:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056631"
+      },
+      "0bf1ab5aca9fd3bbd6bafb3fad2f77f490ee725bcd4e431058fd1b1aa68dd47f": {
+        "title": "这些芯片，登上热搜榜",
+        "link": "https://www.tmtpost.com/7622650.html",
+        "published_date": "Thu, 10 Jul 2025 19:27:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.615144"
+      },
+      "99cc293839e3784e7ed157e09bd4033965f7e70747921420690ae3b7504552cd": {
+        "title": "原实控人套现13亿元退出，蓝黛科技或将易主安徽国资",
+        "link": "https://www.tmtpost.com/7622556.html",
+        "published_date": "Thu, 10 Jul 2025 18:51:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.616845"
+      },
+      "748fe30a256202ad458add69fee18999d14c4b2f9cfa5b81cac2f4cd39f2db1a": {
+        "title": "吉峰科技正式易主：汪辉武时代匆匆谢幕，主营无人机的新主瞄上产品和渠道｜并购一线",
+        "link": "https://www.tmtpost.com/7622533.html",
+        "published_date": "Thu, 10 Jul 2025 18:50:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.619801"
+      },
+      "f6fd30b4338febd0dcde337b16ea5d04cf475ef24086df06581ea7f57cf1ca3c": {
+        "title": "才过上半年，这些扫地机器人企业已经杀疯了",
+        "link": "https://www.tmtpost.com/7622390.html",
+        "published_date": "Thu, 10 Jul 2025 18:26:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.621448"
+      },
+      "f0de937ff38dd4034331aa8395e11d2d3806efe2b6a826462020eccd68cf972d": {
+        "title": "智元机器人的目标，不止科创板那么简单",
+        "link": "https://www.tmtpost.com/7622578.html",
+        "published_date": "Thu, 10 Jul 2025 18:26:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056684"
+      },
+      "5260c68c49a234db387d5a5ecd27477e8b56583ecbaf7e6c93f0b7b03fe02565": {
+        "title": "黄金巨震下的第三波牛市：95%央行力挺，解码美元裂痕时代的终极逻辑",
+        "link": "https://www.tmtpost.com/7621719.html",
+        "published_date": "Thu, 10 Jul 2025 18:18:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.625797"
+      },
+      "3a24dc7feba8ee8c0ef4b62da41e762791523c557fc3e296e6a4e0654608c28b": {
+        "title": "跨维智能完成A1、A2 轮数亿元融资，华兴资本担任独家财务顾问",
+        "link": "https://www.tmtpost.com/7622011.html",
+        "published_date": "Thu, 10 Jul 2025 18:17:00 GMT",
+        "first_seen": "2025-07-10T23:21:06.628828"
+      },
+      "0ec31b7995d5d5283d8a5fe0cda496d40f9f7a9ee4bacc680e3c3c55b6660d6a": {
+        "title": "无人化装备抢跑式IPO，如何走出「50亿估值陷阱」",
+        "link": "https://www.tmtpost.com/7622484.html",
+        "published_date": "Thu, 10 Jul 2025 18:12:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056712"
+      },
+      "7f4521fd1b7321287c7ab36e4e684c7b1b02f4df34e33dd5c59f9c2531516d86": {
+        "title": "新能源出海波折不断，光伏、储能或迎来命运“分水岭”",
+        "link": "https://www.tmtpost.com/7622342.html",
+        "published_date": "Thu, 10 Jul 2025 17:55:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056730"
+      },
+      "b9c1b0ff826580010e1d6c6dcbcd2741f8dacd24730795b1c8b9d8f16ec41819": {
+        "title": "外卖补贴大战之外，美团悄悄“买下”半个机器人赛道",
+        "link": "https://www.tmtpost.com/7622385.html",
+        "published_date": "Thu, 10 Jul 2025 17:43:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.056651"
       }
     },
     "Finance": {
@@ -4564,12 +4942,108 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=58511764-bc8a-400c-93c9-230f2d61a5b3&mod=mw_rss_bulletins",
         "published_date": "Wed, 09 Jul 2025 23:35:00 GMT",
         "first_seen": "2025-07-10T05:25:12.455637"
+      },
+      "d94268f469cd3ca01fd8415a0adcea4a6c9c2c439c440f40240a96a27445e40f": {
+        "title": "Is Amazon Prime Day losing its appeal? Early data hints shoppers spending less.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f1358ae-903e-4ac7-b783-06d5fe98bb54&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 23:07:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676195"
+      },
+      "7087a7c1d44547c947ca0cab1a8628eaef7088d2118a7aa3843885209a75eead": {
+        "title": "Stock indexes are back at record highs — even if individual stocks aren’t",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7a362027-9171-4da0-a65f-5e636b0184f9&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 22:20:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676133"
+      },
+      "46391cff8612d728b3392664526fb0fdef6049c01535bbe3aa09cfe82f902e38": {
+        "title": "Nvidia officially gets its $4 trillion finish. Here’s what could come next.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=74dee601-2c7f-41ae-8d6b-e1f386851739&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 21:16:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676087"
+      },
+      "b3e65de4248cfd923e25a6c479b5f817e1fc2c3f798865026eca4c3a8290a147": {
+        "title": "Trump’s Brazil tariff ‘sets scary precedent’ given trade surplus with country",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e36b881d-e3d0-4b37-adcf-c2a4a571d429&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 20:51:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.063371"
+      },
+      "d2b0949c9a8846774d5bd8e819f3d1a3ca27e77a296a195573fad7caca850182": {
+        "title": "S&P 500, Nasdaq close at record highs while Dow narrows gap to its December peak",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f511950-b8c5-4635-b602-a18fcb546817&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 20:02:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676186"
+      },
+      "a00ce6ad1361652c50f8013db6b19988bea388e1cd742ec503d989dc86a71e4b": {
+        "title": "Where the new $40,000 SALT cap in Trump’s big bill helps homeowners the most",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e0fddd0-d6e8-479e-9da5-860ee9639598&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 18:39:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676174"
+      },
+      "abb06977c0b60a2b018090ec7d278d2303eeb923b8a205d3612a29836914b59c": {
+        "title": "A key piece of the next consumer-price report risks upsetting the bond market",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cd43b25e-c44b-4af0-924c-5240483ecde5&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 18:09:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676107"
+      },
+      "cc66a25e56b98c52adc525cb82b84a29021d3bfa6b40d492309ed7ac6911805d": {
+        "title": "Prices for coffee and orange juice jump as Trump hits Brazil with tariffs",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e1c4910f-e2bc-4d54-a354-0aa2b58fdaa0&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 17:11:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.068404"
+      },
+      "052cbb7f025524ddf175799ab6a950b92d04bd5c2152b73d8ef1a18a511987fb": {
+        "title": "Americans caring for older adults now outnumber those tending to little kids",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b5d051b2-2c4a-4ce2-a453-3909f587cf09&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 15:34:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676119"
+      },
+      "26da98e6e576e9e719c2100d075f3a3637a8516b44891fc35ad57b0230147571": {
+        "title": "Nike and Caterpillar top advancers as Dow runs intraday gain to 250 points",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=13cb784d-8648-41cd-98a0-ab413bbd497a&mod=mw_rss_bulletins",
+        "published_date": "Thu, 10 Jul 2025 15:14:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.072461"
+      },
+      "9d83a902a908027bc894d4c37014de2a76c4594db6009c0e971b4c184611faf2": {
+        "title": "Jorts and ‘quiet Western’ wear are helping Levi’s stave off the impact of tariffs",
+        "link": "https://www.marketwatch.com/story/levi-strauss-now-expects-sales-to-increase-this-year-despite-higher-tariffs-8d852172?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Jul 2025 23:01:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.074946"
+      },
+      "b20de5dee5e01eab609f5912a2edfb748023bd47b5789a5c14b60c8ca51063a8": {
+        "title": "‘I’m in California and plan to stay here’: I’m 61, lost my job and live off my $425K IRA. My house has $650K in equity. Do I sell?",
+        "link": "https://www.marketwatch.com/story/im-in-california-and-plan-to-stay-here-im-61-lost-my-job-and-live-off-my-425k-ira-my-house-has-650k-in-equity-do-i-sell-5c7ffaad?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Jul 2025 21:16:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.078668"
+      },
+      "f30bfbfea6ceecedce4dc35c71e431e5c6bb4b16c2f909078dbdf65321be0d22": {
+        "title": "The stock market now is clearly overbought — but overbought does not mean ‘sell’",
+        "link": "https://www.marketwatch.com/story/how-to-play-apple-shares-and-big-bank-earnings-as-the-stock-market-hits-another-record-0783e99f?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Jul 2025 20:53:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676146"
+      },
+      "0b75670bf437b702f453044e9b4792242561f6c81faa9fcdd6720a3c99ae9c9a": {
+        "title": "Is Amazon’s Prime Day sale losing its appeal? Some early data suggest shoppers are spending less this year.",
+        "link": "https://www.marketwatch.com/story/is-amazons-prime-day-sale-losing-its-appeal-some-early-data-suggest-shoppers-are-spending-less-this-year-ac365fbb?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Jul 2025 20:52:00 GMT",
+        "first_seen": "2025-07-10T23:21:22.085899"
+      },
+      "a055ce05c9c95e2a18654b646f31e9777e6f292e741bd2d3dbb46096f9a26148": {
+        "title": "Trump’s Brazil tariff ‘sets a scary precedent’ given the U.S. has a trade surplus with the country, economists say",
+        "link": "https://www.marketwatch.com/story/trumps-brazil-tariff-sets-a-scary-precedent-given-the-u-s-has-a-trade-surplus-with-the-country-economists-say-38a88bd7?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Jul 2025 20:31:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676161"
+      },
+      "725748dc8656def06cfc6fa713871210ace38ba44703369a4d1e74eb29edd5ec": {
+        "title": "Dallas Morning News’s stock jumps more than 200% on Hearst acquisition news",
+        "link": "https://www.marketwatch.com/story/dallas-morning-newss-stock-jumps-over-200-on-hearst-acquisition-news-af1e3e9a?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Jul 2025 19:57:00 GMT",
+        "first_seen": "2025-07-10T23:21:37.676208"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-10T08:29:57.162116",
-    "Technology": "2025-07-10T08:30:14.305611",
-    "Finance": "2025-07-10T08:30:14.309536"
+    "AI": "2025-07-10T23:21:06.520792",
+    "Technology": "2025-07-10T23:21:22.059196",
+    "Finance": "2025-07-10T23:21:37.678660"
   }
 }

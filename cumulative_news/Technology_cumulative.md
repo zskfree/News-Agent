@@ -1,7 +1,228 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-10 08:29
+**最后更新时间**: 2025-07-10 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-10 23:20)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [19.39 万起！乐道L90，蔚来不能输的一场硬仗](http://www.geekpark.net/news/351403)
+**发布时间**: 2025-07-11 00:20
+
+#### [马斯克曝光的 Grok4，学会了「第一性原理」，但依然不到「AI 王炸」](http://www.geekpark.net/news/351389)
+**发布时间**: 2025-07-10 18:41
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)
+**发布时间**: 2025-07-10 23:01
+
+#### [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)
+**发布时间**: 2025-07-10 21:58
+
+#### [13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)
+**发布时间**: 2025-07-10 20:52
+
+#### [23 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-2/)
+**发布时间**: 2025-07-10 20:51
+
+#### [The 12 Best Prime Day Purchases Our Gear Team Made](https://www.wired.com/story/what-we-bought-prime-day-july-2025/)
+**发布时间**: 2025-07-10 20:31
+
+#### [15 Prime Day Kindle Deals (Plus Amazon Echo Devices)](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-2/)
+**发布时间**: 2025-07-10 20:03
+
+#### [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/)
+**发布时间**: 2025-07-10 19:56
+
+#### [Amazon Prime Day Live: We're Dropping Deals and Takes Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
+**发布时间**: 2025-07-10 19:28
+
+#### [The 27 Best Deals at Walmart’s Competing Prime Day Sale](https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale/)
+**发布时间**: 2025-07-10 19:13
+
+#### [The 37 Best Movies on HBO Max Right Now (July 2025)](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+**发布时间**: 2025-07-10 19:00
+
+#### [16 Best Prime Day Board Game Deals for Kids of All Ages (2025)](https://www.wired.com/story/prime-day-toy-deals-july-2025-2/)
+**发布时间**: 2025-07-10 18:59
+
+#### [Best 13 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025-2/)
+**发布时间**: 2025-07-10 18:30
+
+#### [The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers/)
+**发布时间**: 2025-07-10 18:03
+
+#### [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-2/)
+**发布时间**: 2025-07-10 17:44
+
+#### [How Video Games Became the New Battleground for Actors and AI Protections](https://www.wired.com/story/video-games-voice-actors-strike-over-artificial-intelligence/)
+**发布时间**: 2025-07-10 17:13
+
+#### [10 Best Prime Day Mattress Deals Plus Top Bedding Sales (2025)](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-2/)
+**发布时间**: 2025-07-10 17:06
+
+#### [The Best Prime Day MacBook Deal Is Not the One You Think](https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/)
+**发布时间**: 2025-07-10 16:42
+
+#### [You Asked, We Answered: All of Your AI Angst](https://www.wired.com/story/uncanny-valley-podcast-you-asked-we-answered-all-of-your-ai-angst/)
+**发布时间**: 2025-07-10 16:27
+
+#### [The ModRetro Chromatic Is a Game Boy Fit for Your Apocalypse Bunker](https://www.wired.com/story/the-modretro-chromatic-is-a-game-boy-fit-for-your-apocalypse-bunker/)
+**发布时间**: 2025-07-10 16:00
+
+#### [12 Best Prime Day TV Deals for All Budgets (2025)](https://www.wired.com/story/prime-day-tv-deals-july-2025-2/)
+**发布时间**: 2025-07-10 15:26
+
+#### [19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)](https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/)
+**发布时间**: 2025-07-10 14:38
+
+#### [Elon Musk Says Grok Is Coming to Tesla EVs](https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/)
+**发布时间**: 2025-07-10 13:48
+
+#### [100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-2/)
+**发布时间**: 2025-07-10 13:15
+
+#### [These Prime Day Phone Deals Are So Good, You'll Forget About Tariffs](https://www.wired.com/story/prime-day-phone-deals-july-2025/)
+**发布时间**: 2025-07-10 11:52
+
+#### [Hyundai Reveals the ‘Lightspeed’ Ioniq 6 N](https://www.wired.com/story/hyundai-reveals-the-ioniq-6-n/)
+**发布时间**: 2025-07-10 11:30
+
+#### [20 Best Prime Day Apple Deals—Including 40% Off AirPods](https://www.wired.com/story/prime-day-apple-deals-2025-2/)
+**发布时间**: 2025-07-10 11:02
+
+#### [AI Is a Lousy Chef](https://www.wired.com/story/dishgen-ai-recipes-tested/)
+**发布时间**: 2025-07-10 11:00
+
+#### [Dr. ChatGPT Will See You Now](https://www.wired.com/story/dr-chatgpt-will-see-you-now-artificial-intelligence-llms-openai-health-diagnoses/)
+**发布时间**: 2025-07-10 10:46
+
+#### [Scientists Succeed in Reversing Parkinson’s Symptoms in Mice](https://www.wired.com/story/scientists-succeed-in-reversing-parkinsons-symptoms-in-mice-can-they-do-it-in-humans/)
+**发布时间**: 2025-07-10 10:30
+
+#### [This Is DOGE 2.0](https://www.wired.com/story/next-stage-doge-elon-musk/)
+**发布时间**: 2025-07-10 10:30
+
+#### [Cloning Came to Polo. Then Things Got Truly Uncivilized](https://www.wired.com/story/cloning-came-to-polo-things-got-uncivilized-cambiaso/)
+**发布时间**: 2025-07-10 10:00
+
+#### [Netgear’s Excellent Wi-Fi 7 Mesh Is on Sale for Prime Day](https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-july-2025/)
+**发布时间**: 2025-07-10 09:54
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [蔚来“冠军纪念版”车型上市，讲的是情怀还是策略？](https://www.tmtpost.com/7621809.html)
+**发布时间**: 2025-07-10 22:36
+
+#### [高新兴的“车联网执念”：业绩三连降陷困局，仍定增3.74亿再加码](https://www.tmtpost.com/7622774.html)
+**发布时间**: 2025-07-10 20:46
+
+#### [AI的诱惑，B站这回真怂了](https://www.tmtpost.com/7622621.html)
+**发布时间**: 2025-07-10 19:31
+
+#### [荣耀背水一战](https://www.tmtpost.com/7621941.html)
+**发布时间**: 2025-07-10 19:31
+
+#### [小米YU7背后，出了一个调光技术圈的「宁德时代」](https://www.tmtpost.com/7622421.html)
+**发布时间**: 2025-07-10 19:27
+
+#### [稚晖君和王兴兴，打起了人形机器人关键一仗](https://www.tmtpost.com/7622639.html)
+**发布时间**: 2025-07-10 19:27
+
+#### [这些芯片，登上热搜榜](https://www.tmtpost.com/7622650.html)
+**发布时间**: 2025-07-10 19:27
+
+#### [原实控人套现13亿元退出，蓝黛科技或将易主安徽国资](https://www.tmtpost.com/7622556.html)
+**发布时间**: 2025-07-10 18:51
+
+#### [吉峰科技正式易主：汪辉武时代匆匆谢幕，主营无人机的新主瞄上产品和渠道｜并购一线](https://www.tmtpost.com/7622533.html)
+**发布时间**: 2025-07-10 18:50
+
+#### [才过上半年，这些扫地机器人企业已经杀疯了](https://www.tmtpost.com/7622390.html)
+**发布时间**: 2025-07-10 18:26
+
+#### [智元机器人的目标，不止科创板那么简单](https://www.tmtpost.com/7622578.html)
+**发布时间**: 2025-07-10 18:26
+
+#### [黄金巨震下的第三波牛市：95%央行力挺，解码美元裂痕时代的终极逻辑](https://www.tmtpost.com/7621719.html)
+**发布时间**: 2025-07-10 18:18
+
+#### [跨维智能完成A1、A2 轮数亿元融资，华兴资本担任独家财务顾问](https://www.tmtpost.com/7622011.html)
+**发布时间**: 2025-07-10 18:17
+
+#### [无人化装备抢跑式IPO，如何走出「50亿估值陷阱」](https://www.tmtpost.com/7622484.html)
+**发布时间**: 2025-07-10 18:12
+
+#### [新能源出海波折不断，光伏、储能或迎来命运“分水岭”](https://www.tmtpost.com/7622342.html)
+**发布时间**: 2025-07-10 17:55
+
+#### [外卖补贴大战之外，美团悄悄“买下”半个机器人赛道](https://www.tmtpost.com/7622385.html)
+**发布时间**: 2025-07-10 17:43
+
+#### [全球首个4万亿美元公司诞生，华人掌门要用50年改变世界](https://www.tmtpost.com/7622229.html)
+**发布时间**: 2025-07-10 17:37
+
+#### [押注AI眼镜，或许救不了立讯精密](https://www.tmtpost.com/7622398.html)
+**发布时间**: 2025-07-10 17:37
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
+**发布时间**: 2025-07-10 21:57
+
+#### [Ghost of Yōtei&#8217;s gameplay deep dive shows the open world, combat, and chill beats](https://www.theverge.com/news/704597/ghost-of-yotei-ps5-gameplay-trailer)
+**发布时间**: 2025-07-10 21:30
+
+#### [Some Switch 2 accessories and upgraded games are on sale for Prime Day](https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025)
+**发布时间**: 2025-07-10 21:30
+
+#### [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
+**发布时间**: 2025-07-10 21:03
+
+#### [Razer&#8217;s got a new version of its popular DeathAdder Pro gaming mouse](https://www.theverge.com/news/704581/razer-deathadder-v4-pro-wireless-gaming-mouse-specs)
+**发布时间**: 2025-07-10 20:57
+
+#### [Kindle&#8217;s new ad-filtering setting keeps NSFW promos off your lockscreen](https://www.theverge.com/news/704604/amazon-kindle-lockscreen-ads-filter-inappropriate-content)
+**发布时间**: 2025-07-10 20:11
+
+#### [Krafton slams ex-Subnautica 2 execs and claims it&#8217;ll give developers their &#8216;promised&#8217; reward](https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus)
+**发布时间**: 2025-07-10 20:09
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [国际服再次更新，日韩怎么越发邪门了？](http://www.huxiu.com/article/4562265.html?f=wangzhan)
+**发布时间**: 2025-07-10 21:00
+
+#### [比亚迪为泊车“兜底”，L4一小步？丨智驾雷达 Vol.1](http://www.huxiu.com/article/4561390.html?f=wangzhan)
+**发布时间**: 2025-07-10 19:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [极智嘉上市！登顶港股机器人IPO之最](https://www.infoq.cn/article/b53KlJaSF6lkXldSXzNM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 18:55
+
+#### [AICon 北京 2025 闭幕，优秀出品人与明星讲师榜单揭晓](https://www.infoq.cn/article/R7GS2QVQN8VIHICyjqRp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 18:38
+
+#### [从 “烧钱巨兽” 到 “印钞机”？马斯克最强 Grok 4：一年回血三百亿，20万张GPU的天价花销有救了](https://www.infoq.cn/article/QU3ddzdUp44mf2uGjuTB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 17:17
+
+#### [文心快码流行音乐现场「不加班Live」报名开启！附主题曲发布](https://www.infoq.cn/article/NdZFjfJ9fcwM9Alc6vlI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 16:53
+
+#### [一个分析师就是一个研究团队，揭秘 InfoQ 研究中心背后的 AI肋攻 ｜AI的n次方](https://www.infoq.cn/video/rOAb0btF75eNGAW5VVZu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 16:40
+
+#### [一年上线超 10 款产品，AI 时代如何做独立开发](https://www.infoq.cn/article/X7QETe70h8mEfvmkRJH4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-10 16:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 214｜少数派的编辑们最近买了啥？](https://sspai.com/post/100938)
+**发布时间**: 2025-07-10 17:03
 
 ---
 
