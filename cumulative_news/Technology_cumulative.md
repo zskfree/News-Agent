@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-10 23:20
+**最后更新时间**: 2025-07-11 05:24
+
+---
+
+## 🆕 最新更新 (2025-07-11 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI大模型+资讯，资讯阅读的第三次革命](https://www.tmtpost.com/7622997.html)
+**发布时间**: 2025-07-11 13:15
+
+#### [Trump Reportedly Breaks His Word with Tariff Rate Nearly Double Vietnam Agrees](https://www.tmtpost.com/7623316.html)
+**发布时间**: 2025-07-11 12:04
+
+#### [手机厂商“卷”折叠屏进行时](https://www.tmtpost.com/7623037.html)
+**发布时间**: 2025-07-11 12:03
+
+#### [AgiBot Denies Hong Kong IPO Rumors Amid High-Profile Acquisition of STAR Market-Listed Firm](https://www.tmtpost.com/7623296.html)
+**发布时间**: 2025-07-11 11:50
+
+#### [大模型竞争的下半场，为何场景为王？](https://www.tmtpost.com/7621703.html)
+**发布时间**: 2025-07-11 11:41
+
+#### [复刻2017牛市？老牌互联网公司瞄准AI视频“再创业”](https://www.tmtpost.com/7623208.html)
+**发布时间**: 2025-07-11 11:38
+
+#### [Mercado：拉美 “阿里” 慢功夫的千亿市值路](https://www.tmtpost.com/7623159.html)
+**发布时间**: 2025-07-11 11:17
+
+#### [“速冻一哥”赴港上市，业绩亮起“警示灯”](https://www.tmtpost.com/7623142.html)
+**发布时间**: 2025-07-11 10:53
+
+#### [「百镜大战」打响，谁能赢下下一代AI入口之争？](https://www.tmtpost.com/7622835.html)
+**发布时间**: 2025-07-11 10:53
+
+#### [Trump Floats 15% or 20% Blanket Tariffs on Most Countries](https://www.tmtpost.com/7623188.html)
+**发布时间**: 2025-07-11 10:43
+
+#### [Trump Slaps Canada with 35% Tariffs Starting August 1](https://www.tmtpost.com/7623127.html)
+**发布时间**: 2025-07-11 10:09
+
+#### [广告侵入AI搜索：回答成广告，收费2万可收录，SEO变GEO](https://www.tmtpost.com/7622853.html)
+**发布时间**: 2025-07-11 09:40
+
+#### [大疆和影石终于“华山论剑”，谁会成谁的「垫脚石」？](https://www.tmtpost.com/7622668.html)
+**发布时间**: 2025-07-11 09:20
+
+#### [净水器大战，2025转向“冰块自由”](https://www.tmtpost.com/7622829.html)
+**发布时间**: 2025-07-11 09:00
+
+#### [拿下60%增量市场，淘宝闪购的反内卷突围](https://www.tmtpost.com/7622737.html)
+**发布时间**: 2025-07-11 08:40
+
+#### [华尔街是如何诞生的？](https://www.tmtpost.com/7622819.html)
+**发布时间**: 2025-07-11 08:20
+
+#### [科股早知道：不止是硅片硅料，光伏组件含税含运均价也迎来上调](https://www.tmtpost.com/7622961.html)
+**发布时间**: 2025-07-11 08:19
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [玩家们向欧盟请愿：请停止“杀死”游戏](http://www.huxiu.com/article/4566037.html?f=wangzhan)
+**发布时间**: 2025-07-11 11:18
+
+#### [名创优品MINISO LAND，单店9个月破亿](http://www.huxiu.com/article/4564216.html?f=wangzhan)
+**发布时间**: 2025-07-11 11:15
+
+#### [被称喷射之王的华莱士，好日子还有多久？](http://www.huxiu.com/article/4563446.html?f=wangzhan)
+**发布时间**: 2025-07-11 09:00
+
+#### [一年狂赚350亿，这家健身房，全靠老年人消费？](http://www.huxiu.com/article/4563230.html?f=wangzhan)
+**发布时间**: 2025-07-11 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [译文 | 从来无我：在审视 AI 中重识自我](https://sspai.com/post/100792)
+**发布时间**: 2025-07-11 11:13
+
+#### [派早报：Apple 开启返校季优惠、马斯克发布 Grok 4 等](https://sspai.com/post/100949)
+**发布时间**: 2025-07-11 08:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [罗马仕中层曝问题充电宝内幕；传 OpenAI 计划推出浏览器产品；邓紫棋首部科幻小说预售](http://www.geekpark.net/news/351405)
+**发布时间**: 2025-07-11 08:22
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Krafton slams ex-Subnautica 2 execs — who now say they’re suing](https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus)
+**发布时间**: 2025-07-11 02:50
+
+#### [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+**发布时间**: 2025-07-11 02:07
+
+#### [Here are 60 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+**发布时间**: 2025-07-11 01:35
+
+#### [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
+**发布时间**: 2025-07-11 00:58
+
+#### [Conspiracy theorists are blaming flash floods on cloud seeding — it has to stop](https://www.theverge.com/science/704711/cloud-seeding-flash-flood-conspiracy-theory)
+**发布时间**: 2025-07-11 00:04
+
+#### [A Republican state attorney general is formally investigating why AI chatbots don&#8217;t like Donald Trump](https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking)
+**发布时间**: 2025-07-10 23:48
+
+#### [I love this Hoto mini electric screwdriver, and it&#8217;s cheaper than ever for Prime Day](https://www.theverge.com/tech/704368/amazon-prime-day-hoto-electric-screwdriver-air-pump-deal-sale-2025)
+**发布时间**: 2025-07-10 23:33
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 7 Best Prime Day Action Camera Deals for Thrill Seekers (2025)](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-1/)
+**发布时间**: 2025-07-11 01:30
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
+**发布时间**: 2025-07-11 00:00
 
 ---
 

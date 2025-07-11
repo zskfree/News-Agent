@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-10 23:20
+**最后更新时间**: 2025-07-11 05:24
+
+---
+
+## 🆕 最新更新 (2025-07-11 05:24)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Jorts, ‘quiet Western’ wear are helping Levi’s stave off the impact of tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=d393ab44-8a11-4ddc-8708-4d98a42dadad&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 01:43
 
 ---
 

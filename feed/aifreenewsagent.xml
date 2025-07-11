@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Jul 2025 23:21:06 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Jul 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Jul 2025 05:24:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>扩散语言模型写代码！速度比自回归快10倍</title>
-      <link>https://www.qbitai.com/2025/07/307485.html</link>
-      <description>&lt;![CDATA[扩散语言模型写代码！速度比自回归快10倍]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 09:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307485.html</guid>
+      <title>是的，LeCun要向28岁的Alexandr Wang汇报！这是Meta新AI团队的一些独家内部消息</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-2</link>
+      <description>&lt;![CDATA[是的，LeCun要向28岁的Alexandr Wang汇报！这是Meta新AI团队的一些独家内部消息]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>告别数据「噪音」，UCSD大模型推理新方法DreamPRM充当「信号放大器」，登顶MathVista测评榜</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-19</link>
-      <description>&lt;![CDATA[告别数据「噪音」，UCSD大模型推理新方法DreamPRM充当「信号放大器」，登顶MathVista测评榜]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-19</guid>
+      <title>Llama惨遭抛弃！Meta内部改用Claude写代码</title>
+      <link>https://www.qbitai.com/2025/07/307517.html</link>
+      <description>&lt;![CDATA[Llama惨遭抛弃！Meta内部改用Claude写代码]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 01:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307517.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>编码器-解码器架构的复兴？谷歌一口气发布32个T5Gemma模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-17</link>
-      <description>&lt;![CDATA[编码器-解码器架构的复兴？谷歌一口气发布32个T5Gemma模型]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-17</guid>
+      <title>打破大模型编程「数据污染」与「能力虚胖」困境，Meituan-M17团队构建新一代AI编程评测新标准——OIBench</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11</link>
+      <description>&lt;![CDATA[打破大模型编程「数据污染」与「能力虚胖」困境，Meituan-M17团队构建新一代AI编程评测新标准——OIBench]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>vivo发布端侧多模态模型，只有3B可理解GUI界面，20项评测表现亮眼</title>
-      <link>https://www.qbitai.com/2025/07/307146.html</link>
-      <description>&lt;![CDATA[vivo发布端侧多模态模型，只有3B可理解GUI界面，20项评测表现亮眼]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307146.html</guid>
+      <title>奖励模型也能Scaling！上海AI Lab突破强化学习短板，提出策略判别学习新范式</title>
+      <link>https://www.qbitai.com/2025/07/307570.html</link>
+      <description>&lt;![CDATA[奖励模型也能Scaling！上海AI Lab突破强化学习短板，提出策略判别学习新范式]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 03:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307570.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从「塑料人」到「有血有肉」：角色动画的物理革命，PhysRig实现更真实、更自然的动画角色变形效果</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-16</link>
-      <description>&lt;![CDATA[从「塑料人」到「有血有肉」：角色动画的物理革命，PhysRig实现更真实、更自然的动画角色变形效果]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-16</guid>
+      <title>AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift</title>
+      <link>https://arxiv.org/abs/2507.07820</link>
+      <description>&lt;![CDATA[AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.07820</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift</title>
-      <link>https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/</link>
-      <description>&lt;![CDATA[The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/</guid>
+      <title>On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment</title>
+      <link>https://arxiv.org/abs/2507.07341</link>
+      <description>&lt;![CDATA[On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.07341</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>This tool strips away anti-AI protections from digital art</title>
-      <link>https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/</link>
-      <description>&lt;![CDATA[This tool strips away anti-AI protections from digital art]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/</guid>
+      <title>Measuring AI Alignment with Human Flourishing</title>
+      <link>https://arxiv.org/abs/2507.07787</link>
+      <description>&lt;![CDATA[Measuring AI Alignment with Human Flourishing]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.07787</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Meta为他豪掷2亿美元，上交校友庞若鸣，晒出在苹果的最新论文</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-21</link>
-      <description>&lt;![CDATA[Meta为他豪掷2亿美元，上交校友庞若鸣，晒出在苹果的最新论文]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 19:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-21</guid>
+      <title>Working with AI: Measuring the Occupational Implications of Generative AI</title>
+      <link>https://arxiv.org/abs/2507.07935</link>
+      <description>&lt;![CDATA[Working with AI: Measuring the Occupational Implications of Generative AI]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.07935</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>7月19日，相聚北京！一起聊聊ACL 2025爆点研究</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-10-18</link>
-      <description>&lt;![CDATA[7月19日，相聚北京！一起聊聊ACL 2025爆点研究]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-10-18</guid>
+      <title>Helix Parallelism: Rethinking Sharding Strategies for Interactive Multi-Million-Token LLM Decoding</title>
+      <link>https://arxiv.org/abs/2507.07120</link>
+      <description>&lt;![CDATA[Helix Parallelism: Rethinking Sharding Strategies for Interactive Multi-Million-Token LLM Decoding]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.07120</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>他一人撑起谷歌90%的AI宣传，劈柴真是挖到鬼才了</title>
-      <link>https://www.qbitai.com/2025/07/307447.html</link>
-      <description>&lt;![CDATA[他一人撑起谷歌90%的AI宣传，劈柴真是挖到鬼才了]]&gt;</description>
-      <pubDate>Thu, 10 Jul 2025 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307447.html</guid>
+      <title>Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation</title>
+      <link>https://arxiv.org/abs/2507.07115</link>
+      <description>&lt;![CDATA[Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.07115</guid>
       <category>AI</category>
     </item>
   </channel>
