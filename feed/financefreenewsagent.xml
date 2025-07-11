@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Jul 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Jul 2025 05:25:10 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Jul 2025 08:29:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Jorts, ‘quiet Western’ wear are helping Levi’s stave off the impact of tariffs</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=d393ab44-8a11-4ddc-8708-4d98a42dadad&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Jorts, ‘quiet Western’ wear are helping Levi’s stave off the impact of tariffs]]&gt;</description>
-      <pubDate>Fri, 11 Jul 2025 01:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=d393ab44-8a11-4ddc-8708-4d98a42dadad&amp;mod=mw_rss_bulletins</guid>
+      <title>Canada is the latest target for Trump’s tariffs — but there may be a twist</title>
+      <link>https://www.marketwatch.com/story/canada-is-the-latest-target-for-trumps-tariffs-but-there-may-be-a-twist-b41ddd5f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Canada is the latest target for Trump’s tariffs — but there may be a twist]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 08:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/canada-is-the-latest-target-for-trumps-tariffs-but-there-may-be-a-twist-b41ddd5f?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

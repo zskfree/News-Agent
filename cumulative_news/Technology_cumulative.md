@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-11 05:24
+**最后更新时间**: 2025-07-11 08:29
+
+---
+
+## 🆕 最新更新 (2025-07-11 08:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [飞书开发套件：CIO 落地 AI 的最佳伙伴](https://www.infoq.cn/article/K15FQifoaUSlO95DT1g9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-11 16:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [加购升级，玩法延续：Apple 高校优惠活动开始了](https://sspai.com/post/100935)
+**发布时间**: 2025-07-11 15:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [7月11日A股分析：沪指涨0.01%报3510.18点，两市合计成交17121.33亿元，资金流出最多的行业板块为电子元件](https://www.tmtpost.com/7623497.html)
+**发布时间**: 2025-07-11 15:13
+
+#### [微信电商今年要是再做不好，真没有任何借口了](https://www.tmtpost.com/7623221.html)
+**发布时间**: 2025-07-11 15:08
+
+#### [金融街论坛系列活动上，业内专家共议“独角兽的北京范式”](https://www.tmtpost.com/7623453.html)
+**发布时间**: 2025-07-11 14:53
+
+#### [一代人有一代人的 “ 茅台 ”](https://www.tmtpost.com/7623233.html)
+**发布时间**: 2025-07-11 14:53
+
+#### [对标泡泡玛特？AI玩具厂商的必修课](https://www.tmtpost.com/7623108.html)
+**发布时间**: 2025-07-11 14:21
+
+#### [5年50倍，Verona奇迹](https://www.tmtpost.com/7623263.html)
+**发布时间**: 2025-07-11 14:10
+
+#### [Insta360 Ramps Up Rivalry With DJI as Panoramic Camera Market Heats Up](https://www.tmtpost.com/7623415.html)
+**发布时间**: 2025-07-11 14:05
+
+#### [对未来的一些想法——写在英伟达市值破4万亿美元之后](https://www.tmtpost.com/7623223.html)
+**发布时间**: 2025-07-11 13:44
+
+#### [押宝固态电池，孚能科技理想如何照进现实？](https://www.tmtpost.com/7623124.html)
+**发布时间**: 2025-07-11 13:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [15 Best Prime Day Pet Deals on Amazon (2025)](https://www.wired.com/story/prime-day-pet-deals-2025/)
+**发布时间**: 2025-07-09 14:48
 
 ---
 

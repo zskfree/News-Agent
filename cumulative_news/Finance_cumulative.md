@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-11 05:24
+**最后更新时间**: 2025-07-11 08:29
+
+---
+
+## 🆕 最新更新 (2025-07-11 08:29)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Canada is the latest target for Trump’s tariffs — but there may be a twist](https://www.marketwatch.com/story/canada-is-the-latest-target-for-trumps-tariffs-but-there-may-be-a-twist-b41ddd5f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 08:14
 
 ---
 
