@@ -1,7 +1,185 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-11 08:29
+**最后更新时间**: 2025-07-11 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-11 23:20)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers-1/)
+**发布时间**: 2025-07-11 22:38
+
+#### [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-3/)
+**发布时间**: 2025-07-11 22:19
+
+#### [100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)
+**发布时间**: 2025-07-11 21:58
+
+#### [13 Best Prime Day Mattress Deals Plus Top Bedding Sales (2025)](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)
+**发布时间**: 2025-07-11 21:34
+
+#### [22 Best Prime Day Apple Deals—Including 40% Off AirPods](https://www.wired.com/story/prime-day-apple-deals-2025-3/)
+**发布时间**: 2025-07-11 21:22
+
+#### [17 Best Prime Day Board Game Deals for Kids of All Ages (2025)](https://www.wired.com/story/prime-day-toy-deals-july-2025-3/)
+**发布时间**: 2025-07-11 21:16
+
+#### [18 Best Prime Day Pet Deals on Amazon (2025)](https://www.wired.com/story/prime-day-pet-deals-2025-2/)
+**发布时间**: 2025-07-11 20:55
+
+#### [Samsung's New Phones Show How Far Ahead China Is on Innovation](https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/)
+**发布时间**: 2025-07-11 20:38
+
+#### [The Best Anti-Prime Day Sales to Shop Before They're Over](https://www.wired.com/story/anti-prime-day-small-business-sales-july-2025/)
+**发布时间**: 2025-07-11 20:10
+
+#### [15 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)
+**发布时间**: 2025-07-11 19:21
+
+#### [15 Prime Day Kindle Deals (Plus Amazon Echo Devices)](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-3/)
+**发布时间**: 2025-07-11 18:59
+
+#### [Slumber Cloud’s Sale Is One Not to Miss Before Prime Day Ends](https://www.wired.com/story/slumber-cloud-sale-july-2025/)
+**发布时间**: 2025-07-11 18:53
+
+#### [Last-Chance Prime Day Deals, 313 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-3/)
+**发布时间**: 2025-07-11 18:01
+
+#### [Join Our Livestream: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)
+**发布时间**: 2025-07-11 17:40
+
+#### [Here’s What We Know About DOGE 2.0](https://www.wired.com/story/uncanny-valley-podcast-heres-what-we-know-about-doge-20/)
+**发布时间**: 2025-07-11 17:22
+
+#### [Metadata Shows the FBI’s ‘Raw’ Jeffrey Epstein Prison Video Was Likely Modified](https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified/)
+**发布时间**: 2025-07-11 16:23
+
+#### [Best 16 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025-3/)
+**发布时间**: 2025-07-11 16:04
+
+#### [25 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-3/)
+**发布时间**: 2025-07-11 15:22
+
+#### [Anker’s Laptop Power Bank Is on Sale Right Now for Prime Day (2025)](https://www.wired.com/story/anker-laptop-power-bank-prime-day-deal-july-2025/)
+**发布时间**: 2025-07-11 15:00
+
+#### [The 32 Best Deals at Walmart’s Competing Prime Day Sale](https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale-1/)
+**发布时间**: 2025-07-11 13:24
+
+#### [10 Best Laptop Docking Stations (2025), Tested and Reviewed](https://www.wired.com/gallery/best-laptop-docking-stations/)
+**发布时间**: 2025-07-11 12:30
+
+#### [Eufy’s Floodlight Security Camera Is Cheaper Than Ever This Prime Day (2025)](https://www.wired.com/story/eufy-e340-floodlight-security-camera-prime-day-deal-july-2025/)
+**发布时间**: 2025-07-11 12:19
+
+#### [Microsoft and OpenAI's AGI Fight Is Bigger Than a Contract](https://www.wired.com/story/microsoft-and-openais-agi-fight-is-bigger-than-a-contract/)
+**发布时间**: 2025-07-11 12:11
+
+#### [8 Best USB Hubs (2025), Tested and Reviewed](https://www.wired.com/gallery/best-usb-hubs/)
+**发布时间**: 2025-07-11 12:00
+
+#### [This Is the Best iPad Deal on Prime Day (2025)](https://www.wired.com/story/apple-ipad-prime-day-deal-july-2025/)
+**发布时间**: 2025-07-11 11:14
+
+#### [5 Big EV Takeaways From Trump’s ‘One Big Beautiful Bill’](https://www.wired.com/story/5-big-ev-takeaways-one-big-beautiful-bill/)
+**发布时间**: 2025-07-11 10:30
+
+#### [Tornado Cash Made Crypto Anonymous. Now One of Its Creators Faces Trial](https://www.wired.com/story/roman-storm-tornado-cash-crypto-trial/)
+**发布时间**: 2025-07-11 10:00
+
+#### [Amazon Prime Day Live: We're Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
+**发布时间**: 2025-07-11 09:14
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
+**发布时间**: 2025-07-11 22:08
+
+#### [The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day](https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal)
+**发布时间**: 2025-07-11 22:00
+
+#### [Google’s latest Nest Learning Thermostat is more than $60 off for Prime Day](https://www.theverge.com/tech/705321/amazon-prime-day-google-nest-learning-thermostat-4th-generation-deal-sale-2025)
+**发布时间**: 2025-07-11 21:30
+
+#### [The 100+ best Prime Day deals under $100](https://www.theverge.com/tech/697310/amazon-prime-day-best-cheap-tech-deals-under-100-2025)
+**发布时间**: 2025-07-11 21:28
+
+#### [OpenAI’s Windsurf deal is off — and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
+**发布时间**: 2025-07-11 21:22
+
+#### [The 20 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)
+**发布时间**: 2025-07-11 20:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [猎头也上AI：新算法使人岗匹配准确率提升60% | 创新场景](https://www.tmtpost.com/7623237.html)
+**发布时间**: 2025-07-11 21:59
+
+#### [茶颜悦色借跨境电商出海北美；海康威视上诉加拿大联邦法院，公司暂已恢复运营；Manus总部迁至新加坡｜一周大公司出海动态](https://www.tmtpost.com/7623777.html)
+**发布时间**: 2025-07-11 20:19
+
+#### [充电宝召回风波，一场对“罗马仕们”的大考｜出海参考之全球化品牌观察](https://www.tmtpost.com/7623787.html)
+**发布时间**: 2025-07-11 20:18
+
+#### [2025年中盘点：无糖茶格局已定，电解质水胜负未明 | 食饮江湖](https://www.tmtpost.com/7623421.html)
+**发布时间**: 2025-07-11 20:17
+
+#### [悍高破浪：从岭南制造到全球五金价值链的中国突围](https://www.tmtpost.com/7623727.html)
+**发布时间**: 2025-07-11 20:08
+
+#### [茶颜悦色出海北美卖零食茶具等；MUJI无印良品2025财年Q3营收利润双增长；三养首个海外工厂落地中国｜消研所周报](https://www.tmtpost.com/7623665.html)
+**发布时间**: 2025-07-11 19:54
+
+#### [两度易主、三任托管，这一次弘元能“拯救”尚德吗？](https://www.tmtpost.com/7623517.html)
+**发布时间**: 2025-07-11 19:49
+
+#### [被忽视的新能源维修迷局](https://www.tmtpost.com/7623531.html)
+**发布时间**: 2025-07-11 19:26
+
+#### [2025上半年哪些国内新游最赚钱？网易落寞、三七互娱赢很大、巨人新游最意外](https://www.tmtpost.com/7623104.html)
+**发布时间**: 2025-07-11 19:25
+
+#### [在中国，为什么两个CEO往往管不好一个公司](https://www.tmtpost.com/7623759.html)
+**发布时间**: 2025-07-11 19:25
+
+#### [中国创投30年，“熵减者”的四次突围](https://www.tmtpost.com/7623494.html)
+**发布时间**: 2025-07-11 19:25
+
+#### [主打生猛海鲜、低至5元/盘，又一小火锅品类火出圈？](https://www.tmtpost.com/7623619.html)
+**发布时间**: 2025-07-11 19:08
+
+#### [2025年6月餐饮月报：全国餐饮景气指数稳中有升，当季水果与山野食材引领新品创新](https://www.tmtpost.com/7623609.html)
+**发布时间**: 2025-07-11 19:08
+
+#### [BAT的搜索框与浏览器之争](https://www.tmtpost.com/7623689.html)
+**发布时间**: 2025-07-11 18:49
+
+#### [美团、阿里、京东的即时零售持久战，谁能熬到最后？](https://www.tmtpost.com/7623741.html)
+**发布时间**: 2025-07-11 18:49
+
+#### [就连茶颜悦色都出海了](https://www.tmtpost.com/7623695.html)
+**发布时间**: 2025-07-11 18:49
+
+#### [镜像世界、手机消失、人类爱上AI：“硅谷精神之父”凯文·凯利的2049预言](https://www.tmtpost.com/7623594.html)
+**发布时间**: 2025-07-11 18:33
+
+#### [血拼成本战与淘汰战，“反内卷”下猪企加速生死博弈 | 行业风向标](https://www.tmtpost.com/7623614.html)
+**发布时间**: 2025-07-11 17:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [量化都是骗人的？为什么分享策略？真能赚钱吗？](http://www.huxiu.com/article/4566841.html?f=wangzhan)
+**发布时间**: 2025-07-11 18:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100974)
+**发布时间**: 2025-07-11 18:30
+
+#### [「13 合 1」桌面终局？这款桌面充电拓展坞，重新定义高效办公](https://sspai.com/post/100971)
+**发布时间**: 2025-07-11 16:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Jul 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Jul 2025 08:29:22 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Jul 2025 23:21:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从「一团乱麻」到清晰分型，AI精准解析肿瘤细胞多样性，助力个性化联合疗法设计</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-11-4</link>
-      <description>&lt;![CDATA[从「一团乱麻」到清晰分型，AI精准解析肿瘤细胞多样性，助力个性化联合疗法设计]]&gt;</description>
-      <pubDate>Fri, 11 Jul 2025 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-4</guid>
+      <title>微软研究院BioEmu登上Science，用生成式AI重塑蛋白质功能研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-6</link>
+      <description>&lt;![CDATA[微软研究院BioEmu登上Science，用生成式AI重塑蛋白质功能研究]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首次实现「自驱动」，材料发现效率提升6倍，贝叶斯优化+CALPHAD计算的新方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-11-3</link>
-      <description>&lt;![CDATA[首次实现「自驱动」，材料发现效率提升6倍，贝叶斯优化+CALPHAD计算的新方法]]&gt;</description>
-      <pubDate>Fri, 11 Jul 2025 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-3</guid>
+      <title>告别Transformer！北大、北邮、华为开源纯卷积DiC：3x3卷积实现SOTA性能，比DiT快5倍！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-5</link>
+      <description>&lt;![CDATA[告别Transformer！北大、北邮、华为开源纯卷积DiC：3x3卷积实现SOTA性能，比DiT快5倍！]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>无需CUDA代码给H100加速33%-50%，Flash Attention作者新作火了</title>
-      <link>https://www.qbitai.com/2025/07/307782.html</link>
-      <description>&lt;![CDATA[无需CUDA代码给H100加速33%-50%，Flash Attention作者新作火了]]&gt;</description>
-      <pubDate>Fri, 11 Jul 2025 06:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307782.html</guid>
+      <title>ICML spotlight | 一种会「进化」的合成数据！无需上传隐私，也能生成高质量垂域数据</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-10</link>
+      <description>&lt;![CDATA[ICML spotlight | 一种会「进化」的合成数据！无需上传隐私，也能生成高质量垂域数据]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 20:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>美国版梁文锋来了</title>
-      <link>https://www.qbitai.com/2025/07/307783.html</link>
-      <description>&lt;![CDATA[美国版梁文锋来了]]&gt;</description>
-      <pubDate>Fri, 11 Jul 2025 06:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307783.html</guid>
+      <title>New AI system uncovers hidden cell subtypes, boosts precision medicine</title>
+      <link>https://news.mit.edu/2025/ai-system-uncovers-hidden-cell-subtypes-boosts-precision-medicine-0711</link>
+      <description>&lt;![CDATA[New AI system uncovers hidden cell subtypes, boosts precision medicine]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-system-uncovers-hidden-cell-subtypes-boosts-precision-medicine-0711</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蔚来拼了！19万开走9系大型SUV，李斌一夜封神</title>
-      <link>https://www.qbitai.com/2025/07/307540.html</link>
-      <description>&lt;![CDATA[蔚来拼了！19万开走9系大型SUV，李斌一夜封神]]&gt;</description>
-      <pubDate>Fri, 11 Jul 2025 05:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/307540.html</guid>
+      <title>吴恩达YC演讲：AI创业如何快人一步？</title>
+      <link>https://www.qbitai.com/2025/07/308096.html</link>
+      <description>&lt;![CDATA[吴恩达YC演讲：AI创业如何快人一步？]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308096.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克吹牛了吗？Grok 4第一波实测出炉：既能完虐o3，也菜到数不清6根手指</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-8</link>
+      <description>&lt;![CDATA[马斯克吹牛了吗？Grok 4第一波实测出炉：既能完虐o3，也菜到数不清6根手指]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首个旅游行业超级智能体上线，AI Agent落地垂直领域再下一城</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-12</link>
+      <description>&lt;![CDATA[首个旅游行业超级智能体上线，AI Agent落地垂直领域再下一城]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 22:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>拍我AI（PixVerse）上线多关键帧生成功能 ，AI视频创作从“片段”迈向“故事性表达”</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-9</link>
+      <description>&lt;![CDATA[拍我AI（PixVerse）上线多关键帧生成功能 ，AI视频创作从“片段”迈向“故事性表达”]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>实测Vidu Q1参考生功能，看到诸葛亮丘吉尔拿破仑在长城拍照留念</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-11-7</link>
+      <description>&lt;![CDATA[实测Vidu Q1参考生功能，看到诸葛亮丘吉尔拿破仑在长城拍照留念]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-11-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Grok4全网玩疯，成功通过小球编程测试，Epic创始人：这就是AGI</title>
+      <link>https://www.qbitai.com/2025/07/308272.html</link>
+      <description>&lt;![CDATA[Grok4全网玩疯，成功通过小球编程测试，Epic创始人：这就是AGI]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 08:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308272.html</guid>
       <category>AI</category>
     </item>
   </channel>

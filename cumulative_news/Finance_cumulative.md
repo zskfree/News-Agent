@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-11 08:29
+**最后更新时间**: 2025-07-11 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-11 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump’s latest tariff talk is doing something interesting to the dollar](https://www.marketwatch.com/bulletins/redirect/go?g=ac6ad759-3f80-4e81-9c22-bdb53beb4387&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 22:46
+
+#### [Trump's big bill makes tax breaks for charity easier — and not just for the rich](https://www.marketwatch.com/bulletins/redirect/go?g=cd77c429-2a91-4396-89cc-69df9a593722&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 21:45
+
+#### [What can the Labubu toy craze tell investors about markets? A lot, actually.](https://www.marketwatch.com/bulletins/redirect/go?g=a00692da-18d4-4d8b-9904-27b5c6e3aa1e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 21:05
+
+#### [U.S. stocks end the week lower after Trump threatens 35% tariffs on Canada](https://www.marketwatch.com/bulletins/redirect/go?g=2c3ed651-fc92-4ab9-b14c-27b54a6fa629&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 20:02
+
+#### [Stocks, U.S. Treasurys selling off in tandem Friday as trade jitters cool rally](https://www.marketwatch.com/bulletins/redirect/go?g=d8a710f5-f5b1-4c1d-ad1f-6d7870aa9142&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 19:12
+
+#### [Kraft-Heinz’s stock jumps, then pares gains after report of breakup plan](https://www.marketwatch.com/bulletins/redirect/go?g=8c33ee6b-0351-4a28-88ce-e33dadc0da69&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 18:56
+
+#### [Inflows to bitcoin ETFs on Thursday were the second highest ever recorded](https://www.marketwatch.com/bulletins/redirect/go?g=fc003618-396d-468c-8200-3ffd5d297ede&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 15:40
+
+#### [Robinhood reverses Friday decline as bitcoin and other crypto plays surge](https://www.marketwatch.com/bulletins/redirect/go?g=133c4b44-3d15-4a3e-b7cf-4eb88e80f082&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 15:12
+
+#### [Dow down 300 points as new Canada threat from Trump rattles Wall Street](https://www.marketwatch.com/bulletins/redirect/go?g=30ce7980-4825-4a54-a01e-e151f69b3736&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 13:56
+
+#### [Economic calendar: Federal budget update is Friday’s data highlight](https://www.marketwatch.com/bulletins/redirect/go?g=c877c01d-1433-4afa-b651-7cc611d609cc&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 12:34
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Trump’s big bill makes it easier for all Americans to get a tax break for charitable donations — not just rich people](https://www.marketwatch.com/story/how-trumps-big-bill-makes-it-easier-for-all-americans-to-get-a-tax-break-for-charitable-donations-not-just-rich-people-d3bd0e8e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 21:33
+
+#### [How AI is going to give your financial adviser new ways to manage your money](https://www.marketwatch.com/story/how-ai-is-going-to-give-your-financial-adviser-new-ways-to-manage-your-money-bf6c9b4b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 20:55
+
+#### [Stocks and U.S. government bonds sell off in tandem Friday as trade jitters cool rally](https://www.marketwatch.com/story/stocks-and-u-s-government-bonds-sell-off-in-tandem-friday-as-trade-jitters-cool-rally-95460259?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 20:52
+
+#### [Free trade is over in the U.S. — and Trump’s tariffs might even be working. Investors, take note.](https://www.marketwatch.com/story/americas-raking-in-cash-from-trumps-tariffs-heres-why-investors-will-benefit-a2baeaa0?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 20:49
+
+#### [AMC’s stock soars, lifted by Wedbush’s upgrade amid an improving box office](https://www.marketwatch.com/story/amcs-stock-is-climbing-lifted-by-wedbushs-upgrade-amid-an-improving-box-office-09eeacbf?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 20:39
+
+#### [Trump’s latest tariff talk is doing something interesting to the dollar](https://www.marketwatch.com/story/trumps-latest-tariff-talk-is-doing-something-interesting-to-the-dollar-4bd65677?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 20:11
+
+#### [Kraft Heinz is reportedly weighing a breakup. Some analysts have already said it should ‘slim down.’](https://www.marketwatch.com/story/kraft-heinzs-stock-jumps-after-report-of-breakup-plan-684b2c19?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 19:44
+
+#### [What can the Labubu toy craze tell investors about markets? A lot, actually.](https://www.marketwatch.com/story/what-can-the-labubu-toy-craze-tell-investors-about-markets-a-lot-actually-631bbd1f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 19:38
+
+#### [Nursing homes may start sedating your elderly parents — and, eventually, you — because they don’t have enough workers](https://www.marketwatch.com/story/nursing-homes-may-start-sedating-your-elderly-parents-and-eventually-you-because-they-dont-have-enough-workers-e4c47a89?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 19:18
+
+#### [This ‘unique’ chip stock is now a buy, analysts say](https://www.marketwatch.com/story/this-unique-chip-stock-is-now-a-buy-analysts-say-399e7064?mod=mw_rss_topstories)
+**发布时间**: 2025-07-11 19:11
 
 ---
 

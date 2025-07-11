@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-11 08:29
+**最后更新时间**: 2025-07-11 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-11 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [首个旅游行业超级智能体上线，AI Agent落地垂直领域再下一城](https://www.jiqizhixin.com/articles/2025-07-11-12)
+**发布时间**: 2025-07-11 22:09
+
+#### [ICML 2025，相约加拿大温哥华！机器之心免费请你吃饭](https://www.jiqizhixin.com/articles/2025-07-11-11)
+**发布时间**: 2025-07-11 20:30
+
+#### [ICML spotlight | 一种会「进化」的合成数据！无需上传隐私，也能生成高质量垂域数据](https://www.jiqizhixin.com/articles/2025-07-11-10)
+**发布时间**: 2025-07-11 20:28
+
+#### [拍我AI（PixVerse）上线多关键帧生成功能 ，AI视频创作从“片段”迈向“故事性表达”](https://www.jiqizhixin.com/articles/2025-07-11-9)
+**发布时间**: 2025-07-11 17:01
+
+#### [马斯克吹牛了吗？Grok 4第一波实测出炉：既能完虐o3，也菜到数不清6根手指](https://www.jiqizhixin.com/articles/2025-07-11-8)
+**发布时间**: 2025-07-11 16:59
+
+#### [实测Vidu Q1参考生功能，看到诸葛亮丘吉尔拿破仑在长城拍照留念](https://www.jiqizhixin.com/articles/2025-07-11-7)
+**发布时间**: 2025-07-11 16:50
+
+#### [微软研究院BioEmu登上Science，用生成式AI重塑蛋白质功能研究](https://www.jiqizhixin.com/articles/2025-07-11-6)
+**发布时间**: 2025-07-11 16:42
+
+#### [告别Transformer！北大、北邮、华为开源纯卷积DiC：3x3卷积实现SOTA性能，比DiT快5倍！](https://www.jiqizhixin.com/articles/2025-07-11-5)
+**发布时间**: 2025-07-11 16:37
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New AI system uncovers hidden cell subtypes, boosts precision medicine](https://news.mit.edu/2025/ai-system-uncovers-hidden-cell-subtypes-boosts-precision-medicine-0711)
+**发布时间**: 2025-07-11 14:40
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: cybersecurity’s shaky alert system, and mobile IVF](https://www.technologyreview.com/2025/07/11/1120003/the-download-cybersecuritys-shaky-alert-system-and-mobile-ivf/)
+**发布时间**: 2025-07-11 12:14
+
+#### [Cybersecurity’s global alarm system is breaking down](https://www.technologyreview.com/2025/07/11/1119370/cybersecurity-alarm-system-breaking-down/)
+**发布时间**: 2025-07-11 09:00
+
+#### [The first babies have been born following “simplified” IVF in a mobile lab](https://www.technologyreview.com/2025/07/11/1119976/first-babies-born-simplified-ivf-mobile-lab/)
+**发布时间**: 2025-07-11 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [拍我AI（PixVerse）上线多关键帧生成功能 ，AI视频创作从“片段”迈向“故事性表达”](https://www.qbitai.com/2025/07/308301.html)
+**发布时间**: 2025-07-11 09:32
+
+#### [Grok4全网玩疯，成功通过小球编程测试，Epic创始人：这就是AGI](https://www.qbitai.com/2025/07/308272.html)
+**发布时间**: 2025-07-11 08:56
+
+#### [吴恩达YC演讲：AI创业如何快人一步？](https://www.qbitai.com/2025/07/308096.html)
+**发布时间**: 2025-07-11 08:45
+
+#### [Day One Global！2025DEMO WORLD企业全球化增长大会圆满举办](https://www.qbitai.com/2025/07/308072.html)
+**发布时间**: 2025-07-11 08:35
 
 ---
 
