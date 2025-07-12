@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-11 23:20
+**最后更新时间**: 2025-07-12 05:21
+
+---
+
+## 🆕 最新更新 (2025-07-12 05:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [效率是管理的伪命题，执行的真命题](https://www.tmtpost.com/7624204.html)
+**发布时间**: 2025-07-12 12:14
+
+#### [EU Reported to Drop Digital Tax Plan to Seek Favorable Trade Deal](https://www.tmtpost.com/7624217.html)
+**发布时间**: 2025-07-12 12:09
+
+#### [不是价格战，是生存战：蔚来在L90上赌了一切](https://www.tmtpost.com/7623608.html)
+**发布时间**: 2025-07-12 11:11
+
+#### [Canada Extends Trade Talks and Delay Countertariffs as Trump's Advisor Floats Exemptions from New 35% Tariffs](https://www.tmtpost.com/7624201.html)
+**发布时间**: 2025-07-12 11:06
+
+#### [一年三递表，同仁堂医养能喝下上市这碗「补药」吗？](https://www.tmtpost.com/7623952.html)
+**发布时间**: 2025-07-12 09:43
+
+#### [换帅不足半年，良品铺子又将巨震](https://www.tmtpost.com/7624018.html)
+**发布时间**: 2025-07-12 09:43
+
+#### [新茶饮黑马“爷爷不泡茶”，能否跑赢质疑？](https://www.tmtpost.com/7624104.html)
+**发布时间**: 2025-07-12 09:43
+
+#### [品牌玩短剧，能逆袭重生吗？](https://www.tmtpost.com/7624106.html)
+**发布时间**: 2025-07-12 09:43
+
+#### [复牌跌停，秦安股份跨界收购难挽颓势？](https://www.tmtpost.com/7623997.html)
+**发布时间**: 2025-07-12 09:09
+
+#### [台积电“退出”，谁来接棒？](https://www.tmtpost.com/7623784.html)
+**发布时间**: 2025-07-12 09:04
+
+#### [“代尽孝心”陪诊师，3.1亿老人的“临时儿女”](https://www.tmtpost.com/7623863.html)
+**发布时间**: 2025-07-12 09:00
+
+#### [对标Office、不再“盯”钉，飞书升咖了？](https://www.tmtpost.com/7623888.html)
+**发布时间**: 2025-07-12 08:57
+
+#### [海思科股价涨停，竟缘于大洋彼岸一笔百亿美元收购，关联何在？](https://www.tmtpost.com/7623904.html)
+**发布时间**: 2025-07-12 08:47
+
+#### [体验竞争，外卖“三国杀”的关键胜负手](https://www.tmtpost.com/7623908.html)
+**发布时间**: 2025-07-12 08:38
+
+#### [索尼前总裁直言3A游戏不赚钱，但这或许是国产单机最好的时代](https://www.tmtpost.com/7623960.html)
+**发布时间**: 2025-07-12 08:23
+
+#### [动力电池“三国杀”：中企提前锁定胜局，日韩厂商集体失守](https://www.tmtpost.com/7623966.html)
+**发布时间**: 2025-07-12 08:17
+
+#### [金银花产业的南北对话：平邑66.8万亩帝国与隆回40亿破局战](https://www.tmtpost.com/7623953.html)
+**发布时间**: 2025-07-12 08:13
+
+#### [外卖“疯狂星期六”加赛，谁家外卖能免费吃？](https://www.tmtpost.com/7624004.html)
+**发布时间**: 2025-07-12 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [车越便宜，路越拥堵，这事儿有解吗？](http://www.huxiu.com/article/4567093.html?f=wangzhan)
+**发布时间**: 2025-07-12 12:00
+
+#### [极氪的豪华野心，撑得住吗？｜车圈脉动 VOL.3](http://www.huxiu.com/article/4568057.html?f=wangzhan)
+**发布时间**: 2025-07-12 10:00
+
+#### [工程兵进军房地产，通信兵垄断5G移动网，越南军队赚钱能有多疯狂？](http://www.huxiu.com/article/4563946.html?f=wangzhan)
+**发布时间**: 2025-07-12 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Manus 清空国内多平台账号，北京办公区目前仅剩十余人在岗；Meta 离职大牛千字怒揭「黑幕」；小米王腾将出演短剧｜极客早知道](http://www.geekpark.net/news/351458)
+**发布时间**: 2025-07-12 08:22
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+**发布时间**: 2025-07-12 03:23
+
+#### [Some Verge-favorite gadgets are still on sale as Prime Day winds down](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+**发布时间**: 2025-07-12 02:25
+
+#### [The best Prime Day deals you can still grab on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
+**发布时间**: 2025-07-12 01:48
+
+#### [The 55-inch Hisense U7 is a great 4K TV under $600 for Prime Day](https://www.theverge.com/tech/705171/amazon-prime-day-hisense-u7-4k-u7qg-tv-deal-sale-2025)
+**发布时间**: 2025-07-12 01:30
+
+#### [The best laptop deals you can still shop during the final hours of Prime Day](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+**发布时间**: 2025-07-12 00:10
+
+#### [These terrific, Verge-approved gifts are all discounted for Prime Day](https://www.theverge.com/tech/704642/amazon-prime-day-gift-ideas-deals-sale-2025)
+**发布时间**: 2025-07-12 00:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/)
+**发布时间**: 2025-07-12 01:00
+
+#### [The 6 Best Prime Day Action Camera Deals for Thrill Seekers (2025)](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-2/)
+**发布时间**: 2025-07-12 00:29
+
+#### [20 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)](https://www.wired.com/story/prime-day-tracker-and-ring-2025-3/)
+**发布时间**: 2025-07-12 00:18
+
+#### [14 Best Prime Day TV Deals for All Budgets (2025)](https://www.wired.com/story/prime-day-tv-deals-july-2025-3/)
+**发布时间**: 2025-07-11 23:28
 
 ---
 

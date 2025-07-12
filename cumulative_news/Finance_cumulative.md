@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-11 23:20
+**最后更新时间**: 2025-07-12 05:21
+
+---
+
+## 🆕 最新更新 (2025-07-12 05:21)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Gen Z and millennials are leaving retirement money on the table. How to fix it.](https://www.marketwatch.com/bulletins/redirect/go?g=acfec291-4ee5-4823-9ec4-661f0856e11f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-12 00:48
+
+#### [Trump’s Canada tariffs: These are the numbers you need to know](https://www.marketwatch.com/bulletins/redirect/go?g=e4395a9b-3c4f-44c2-902f-83712bc9270d&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-11 23:27
 
 ---
 
