@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-12 08:25
+**最后更新时间**: 2025-07-12 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-12 23:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [第一作者必须是AI！首个面向AI作者的学术会议来了，斯坦福发起](https://www.jiqizhixin.com/articles/2025-07-12-10)
+**发布时间**: 2025-07-12 21:41
+
+#### [ICML 2025 Oral！北大和腾讯优图破解AI生成图像检测泛化难题：正交子空间分解](https://www.jiqizhixin.com/articles/2025-07-12-9)
+**发布时间**: 2025-07-12 21:38
+
+#### [无Tokenizer时代真要来了？Mamba作者再发颠覆性论文，挑战Transformer](https://www.jiqizhixin.com/articles/2025-07-12-8)
+**发布时间**: 2025-07-12 21:34
+
+#### [Meta扩张继续！挖走OpenAI 2名多模态AI研发人员，收购语音初创公司PlayAI](https://www.jiqizhixin.com/articles/2025-07-12-7)
+**发布时间**: 2025-07-12 21:30
+
+#### [EasyCache：无需训练的视频扩散模型推理加速——极简高效的视频生成提速方案](https://www.jiqizhixin.com/articles/2025-07-12-6)
+**发布时间**: 2025-07-12 21:29
+
+#### [深夜开源首个万亿模型K2，压力给到OpenAI，Kimi时刻要来了？](https://www.jiqizhixin.com/articles/2025-07-12-5)
+**发布时间**: 2025-07-12 21:23
+
+#### [刚刚，OpenAI想收购的Windsurf，被谷歌DeepMind抢走了核心团队](https://www.jiqizhixin.com/articles/2025-07-12-4)
+**发布时间**: 2025-07-12 21:19
+
+#### [ICCV2025 | 多视图生成新范式-利用自回归模型探索多视图生成](https://www.jiqizhixin.com/articles/2025-07-12-3)
+**发布时间**: 2025-07-12 21:16
+
+#### [模拟大脑功能分化！北大与港中文发布Fast-in-Slow VLA，让“快行动”和“慢推理”统一协作](https://www.jiqizhixin.com/articles/2025-07-12-2)
+**发布时间**: 2025-07-12 21:08
+
+#### [启动资金+顶配资源：机器之心助力科研到创业](https://www.jiqizhixin.com/articles/2025-07-12)
+**发布时间**: 2025-07-12 21:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [武汉无人车学会了加塞！当地司机已服：比我6](https://www.qbitai.com/2025/07/308403.html)
+**发布时间**: 2025-07-12 13:48
 
 ---
 

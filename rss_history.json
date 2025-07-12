@@ -2040,6 +2040,72 @@
         "link": "https://www.qbitai.com/2025/07/308381.html",
         "published_date": "Sat, 12 Jul 2025 06:42:00 GMT",
         "first_seen": "2025-07-12T08:26:06.655480"
+      },
+      "d782984b0e398dcb5e334cefdde70bbd01de85d9c133622fd745f869f9f46bfc": {
+        "title": "第一作者必须是AI！首个面向AI作者的学术会议来了，斯坦福发起",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-10",
+        "published_date": "Sat, 12 Jul 2025 21:41:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077179"
+      },
+      "2f74029167639b19ad038751a7ead621ec2b5cfd544ad8bc8440e6b3ac68d625": {
+        "title": "ICML 2025 Oral！北大和腾讯优图破解AI生成图像检测泛化难题：正交子空间分解",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-9",
+        "published_date": "Sat, 12 Jul 2025 21:38:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077191"
+      },
+      "59ea4f095f80bcd881623eaa9a90b92228208e25e51bf630fc7d7ea588236971": {
+        "title": "无Tokenizer时代真要来了？Mamba作者再发颠覆性论文，挑战Transformer",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-8",
+        "published_date": "Sat, 12 Jul 2025 21:34:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077145"
+      },
+      "bdee5e3ecdde75895461518a0c0192bcae9c41d7e01e84f069651349c6fa09ca": {
+        "title": "Meta扩张继续！挖走OpenAI 2名多模态AI研发人员，收购语音初创公司PlayAI",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-7",
+        "published_date": "Sat, 12 Jul 2025 21:30:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077229"
+      },
+      "02615440e3310a2f925bef4a2a34b033cd581170ec6997f1cb4acf9f9f529730": {
+        "title": "EasyCache：无需训练的视频扩散模型推理加速——极简高效的视频生成提速方案",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-6",
+        "published_date": "Sat, 12 Jul 2025 21:29:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077201"
+      },
+      "b074d79c881e9fbb549fcd867b42904015bc59ec96a12c33357415e1529da8ba": {
+        "title": "深夜开源首个万亿模型K2，压力给到OpenAI，Kimi时刻要来了？",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-5",
+        "published_date": "Sat, 12 Jul 2025 21:23:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077210"
+      },
+      "e68f3f6605727a3c27f7fd529f42e0de2bddb7d82f61a6170cf6ddd16a76a700": {
+        "title": "刚刚，OpenAI想收购的Windsurf，被谷歌DeepMind抢走了核心团队",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-4",
+        "published_date": "Sat, 12 Jul 2025 21:19:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077237"
+      },
+      "d2022f33b86dcc5b119e4147b4e13f7c4c3c419a042386cf3bb4c987ea5d55b2": {
+        "title": "ICCV2025 | 多视图生成新范式-利用自回归模型探索多视图生成",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-3",
+        "published_date": "Sat, 12 Jul 2025 21:16:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077219"
+      },
+      "65ad7f81012ca86f8a801d306d62e0f28cb03dd46341e43678706fb23f035bde": {
+        "title": "模拟大脑功能分化！北大与港中文发布Fast-in-Slow VLA，让“快行动”和“慢推理”统一协作",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12-2",
+        "published_date": "Sat, 12 Jul 2025 21:08:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077168"
+      },
+      "19f65b44298e8733827161ac4c3b2ad84586a1b00b42742f9e73c5a6feef6fb2": {
+        "title": "启动资金+顶配资源：机器之心助力科研到创业",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-12",
+        "published_date": "Sat, 12 Jul 2025 21:01:00 GMT",
+        "first_seen": "2025-07-12T23:21:46.023266"
+      },
+      "56df2d29437d19e15226b11268ca96b38528df875ad72c76821c2ec3ea02730e": {
+        "title": "武汉无人车学会了加塞！当地司机已服：比我6",
+        "link": "https://www.qbitai.com/2025/07/308403.html",
+        "published_date": "Sat, 12 Jul 2025 13:48:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.077246"
       }
     },
     "Technology": {
@@ -5618,6 +5684,114 @@
         "link": "https://www.tmtpost.com/7623919.html",
         "published_date": "Sat, 12 Jul 2025 13:19:00 GMT",
         "first_seen": "2025-07-12T08:26:06.613848"
+      },
+      "613bf014358918a0fecfde8bf8c91fd4bd6897dee87b014b655f8251002b7127": {
+        "title": "一个月重写三次代码库、三个月就换套写法！吴恩达：AI创业拼的是速度，代码不重要",
+        "link": "https://www.infoq.cn/article/pm5uDuSIof8UvxdQHz5Z?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Jul 2025 07:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978190"
+      },
+      "c19c279fedfbb7fc722299ecddcc961831bc828592c687b2bf645537a156c456": {
+        "title": "阿里集权与分权的底层逻辑",
+        "link": "https://www.tmtpost.com/7624238.html",
+        "published_date": "Sat, 12 Jul 2025 19:10:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978261"
+      },
+      "0c28c72c5442a6c70f0c511a69f045507fcb35debd248e8eed077ef3301c6b70": {
+        "title": "大钲资本，用瑞幸撬动星巴克中国？",
+        "link": "https://www.tmtpost.com/7624302.html",
+        "published_date": "Sat, 12 Jul 2025 19:09:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.249158"
+      },
+      "430a7dd6d2b2c4b0f9be6b1ff6d5f3b1211e039091309ec922497b3b5ff5a04d": {
+        "title": "马云刘强东杀入2万亿赛道，京东阿里绝不能输，美团则想赢更多",
+        "link": "https://www.tmtpost.com/7624307.html",
+        "published_date": "Sat, 12 Jul 2025 19:09:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.249337"
+      },
+      "56ca5b574e8cdca88679505de7ec6298f9bae5125fd12d44800901b3db6af970": {
+        "title": "App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids",
+        "link": "https://sspai.com/post/100869",
+        "published_date": "Sat, 12 Jul 2025 16:03:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978293"
+      },
+      "f79f6e29b55ca97de559d19a2b0c840e6a77072e755cc44b81da34eff38923a2": {
+        "title": "The best Amazon Prime Day deals you can still shop",
+        "link": "https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025",
+        "published_date": "Sat, 12 Jul 2025 14:53:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.249938"
+      },
+      "d25d061fc15935a8bfeae7671ba0f16fd9e08ec3395708f7e0c912c8dbae46f6": {
+        "title": "24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me",
+        "link": "https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look",
+        "published_date": "Sat, 12 Jul 2025 14:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978231"
+      },
+      "df4f68a9946a88d9c4626fd31307bd9623e4e1e18bf8d9ef35938ea7eec44a83": {
+        "title": "Playdate’s second season sucked me back into the little yellow handheld",
+        "link": "https://www.theverge.com/games-review/705348/playdate-season-2-review",
+        "published_date": "Sat, 12 Jul 2025 13:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978281"
+      },
+      "b05fd889bb205d9dca9e5e5583a25978b57aba8fc55286c46ef289c9837bc76d": {
+        "title": "Rivian R1S review: second time’s the charm",
+        "link": "https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm",
+        "published_date": "Sat, 12 Jul 2025 12:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978243"
+      },
+      "a3f9f2151c366577191ce1428e2e24b99a0ed8517e1e9aa90174f09ab679b060": {
+        "title": "Timekettle T1 Handheld Translator Review: Global Offline Translation",
+        "link": "https://www.wired.com/review/timekettle-t1-handheld-translator/",
+        "published_date": "Sat, 12 Jul 2025 13:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978271"
+      },
+      "7324b6719aa2a9f6f25996aa3369f75a72934e057ef59c90396201ef844b3518": {
+        "title": "10 Best Android Phones of 2025, Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-android-phones/",
+        "published_date": "Sat, 12 Jul 2025 12:07:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.254119"
+      },
+      "11c0e9aa079194e6788a446ee5d0d4dd5da954af83c4d4c8429041d6f869ae30": {
+        "title": "The 41 Best Movies on Netflix Right Now (July 2025)",
+        "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
+        "published_date": "Sat, 12 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.255327"
+      },
+      "25ad1f706b86f0649dc24255da9d4f4ebc8fa366887e07e625a62317ffb55127": {
+        "title": "The 20 Best Movies on Amazon Prime Right Now (July 2025)",
+        "link": "https://www.wired.com/story/best-amazon-prime-movies/",
+        "published_date": "Sat, 12 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.256592"
+      },
+      "9fc130a74c068a89331a08ddadab7fe4e3a1b04e2de55cb41506666b729031fb": {
+        "title": "How to Use Clean Energy Tax Credits Before They Disappear",
+        "link": "https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/",
+        "published_date": "Sat, 12 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978302"
+      },
+      "9fc8ace21d1b5cff6dd612224fd5726eb90fe8fb6cf69c0da2d462c9dc85646e": {
+        "title": "4 Arrested Over Scattered Spider Hacking Spree",
+        "link": "https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/",
+        "published_date": "Sat, 12 Jul 2025 10:30:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978252"
+      },
+      "d151eb9b654cf27d44d3cb5f6d05d85a52c982c0636c059a9dfbcdd0b4be4f26": {
+        "title": "Gear News of the Week: Samsung’s Trifold Promise, Ikea’s Sonos Split, and Hugging Face’s New Robot",
+        "link": "https://www.wired.com/story/gear-news-of-the-week-samsung-teases-a-trifold-ikea-ditches-sonos-and-theres-a-hugging-face-robot/",
+        "published_date": "Sat, 12 Jul 2025 10:30:00 GMT",
+        "first_seen": "2025-07-12T23:21:45.978216"
+      },
+      "693c8d3536ebdfc7ad52294c1bed88584aba0a23b23b504b3c46ba02c75cfedc": {
+        "title": "How to Watch the Southern Delta Aquariids and Perseids Meteor Showers",
+        "link": "https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/",
+        "published_date": "Sat, 12 Jul 2025 10:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.267618"
+      },
+      "1561792e7052459f7dcf893a31a2b3ef08808d351498802e4972f7fcf59781a9": {
+        "title": "Prime Day is Finally Over But These 142 Deals Are Still Available",
+        "link": "https://www.wired.com/story/leftover-prime-day-deals-july-2025/",
+        "published_date": "Sat, 12 Jul 2025 08:27:00 GMT",
+        "first_seen": "2025-07-12T23:21:29.269996"
       }
     },
     "Finance": {
@@ -6370,12 +6544,48 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e4395a9b-3c4f-44c2-902f-83712bc9270d&mod=mw_rss_bulletins",
         "published_date": "Fri, 11 Jul 2025 23:27:00 GMT",
         "first_seen": "2025-07-12T05:22:01.681020"
+      },
+      "4fc923bda2a84b143d12687a0201cee3ad4fc98a0476bb1bd65050724e3837ce": {
+        "title": "I put my $500K inheritance into a joint account with my husband. Can I leave half of it to my son from a previous marriage?",
+        "link": "https://www.marketwatch.com/story/i-put-my-500k-inheritance-into-a-joint-account-with-my-husband-can-i-leave-half-of-it-to-my-son-from-a-previous-marriage-ede3e879?mod=mw_rss_topstories",
+        "published_date": "Sat, 12 Jul 2025 21:14:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.082585"
+      },
+      "8acef84490264bcf4582a293fa87692a5df0b9752cec64bfaa7dcc643fdaf686": {
+        "title": "I’m 70, a widow and struggled financially. How do I let go of the resentment I feel towards my wealthy, unhelpful brother?",
+        "link": "https://www.marketwatch.com/story/im-70-a-widow-and-struggled-financially-how-do-i-let-go-of-the-resentment-i-feel-towards-my-wealthy-unhelpful-brother-52a61211?mod=mw_rss_topstories",
+        "published_date": "Sat, 12 Jul 2025 20:09:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.083119"
+      },
+      "d4f910c5ba620060d18d12b5e26e0dc285ee8c367a91da996a8ebb602b0294b0": {
+        "title": "This early-warning indicator is telling the stock market that a recession is more likely",
+        "link": "https://www.marketwatch.com/story/this-early-warning-indicator-is-telling-the-stock-market-that-a-recession-is-more-likely-825f2b87?mod=mw_rss_topstories",
+        "published_date": "Sat, 12 Jul 2025 19:00:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.083899"
+      },
+      "5a81c889fe98f54e9d635f19b2c6f1fc2381d41e55275b7e1dd8ed23ccff3c70": {
+        "title": "How to keep your kid’s Fortnite habit from wrecking your credit-card bill",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=393145f2-d55d-4afb-9417-f2bf8f150dad&mod=mw_rss_bulletins",
+        "published_date": "Sat, 12 Jul 2025 18:58:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.084787"
+      },
+      "ebbd32b8529594357e437135aec97ddd225a162c3629fb74812821e6f2a1cd24": {
+        "title": "‘Story’ stocks are smoking hot in 2025. How it could end badly for investors.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f2c0b511-d38e-488b-87df-523ebf824644&mod=mw_rss_bulletins",
+        "published_date": "Sat, 12 Jul 2025 16:31:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.085843"
+      },
+      "4bba639e26b192399084e1fe8a57b8b45d732a05ac25c508a18d56122041f501": {
+        "title": "Trump rounds out tariff threats to key partners with E.U. and Mexico letters",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=00006c0f-3263-4c81-a888-bf34936d53ad&mod=mw_rss_bulletins",
+        "published_date": "Sat, 12 Jul 2025 14:09:00 GMT",
+        "first_seen": "2025-07-12T23:21:59.087192"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-12T08:26:06.662442",
-    "Technology": "2025-07-12T08:26:06.641774",
-    "Finance": "2025-07-12T08:26:06.667721"
+    "AI": "2025-07-12T23:21:59.079659",
+    "Technology": "2025-07-12T23:21:46.005558",
+    "Finance": "2025-07-12T23:21:59.091314"
   }
 }

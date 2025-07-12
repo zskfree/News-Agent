@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-12 05:21
+**最后更新时间**: 2025-07-12 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-12 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I put my $500K inheritance into a joint account with my husband. Can I leave half of it to my son from a previous marriage?](https://www.marketwatch.com/story/i-put-my-500k-inheritance-into-a-joint-account-with-my-husband-can-i-leave-half-of-it-to-my-son-from-a-previous-marriage-ede3e879?mod=mw_rss_topstories)
+**发布时间**: 2025-07-12 21:14
+
+#### [I’m 70, a widow and struggled financially. How do I let go of the resentment I feel towards my wealthy, unhelpful brother?](https://www.marketwatch.com/story/im-70-a-widow-and-struggled-financially-how-do-i-let-go-of-the-resentment-i-feel-towards-my-wealthy-unhelpful-brother-52a61211?mod=mw_rss_topstories)
+**发布时间**: 2025-07-12 20:09
+
+#### [This early-warning indicator is telling the stock market that a recession is more likely](https://www.marketwatch.com/story/this-early-warning-indicator-is-telling-the-stock-market-that-a-recession-is-more-likely-825f2b87?mod=mw_rss_topstories)
+**发布时间**: 2025-07-12 19:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How to keep your kid’s Fortnite habit from wrecking your credit-card bill](https://www.marketwatch.com/bulletins/redirect/go?g=393145f2-d55d-4afb-9417-f2bf8f150dad&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-12 18:58
+
+#### [‘Story’ stocks are smoking hot in 2025. How it could end badly for investors.](https://www.marketwatch.com/bulletins/redirect/go?g=f2c0b511-d38e-488b-87df-523ebf824644&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-12 16:31
+
+#### [Trump rounds out tariff threats to key partners with E.U. and Mexico letters](https://www.marketwatch.com/bulletins/redirect/go?g=00006c0f-3263-4c81-a888-bf34936d53ad&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-12 14:09
 
 ---
 

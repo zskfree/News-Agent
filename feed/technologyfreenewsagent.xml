@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Jul 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Jul 2025 08:26:06 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Jul 2025 23:21:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>萨莉亚闷声赚麻了</title>
-      <link>https://www.tmtpost.com/7624272.html</link>
-      <description>&lt;![CDATA[萨莉亚闷声赚麻了]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7624272.html</guid>
+      <title>一个月重写三次代码库、三个月就换套写法！吴恩达：AI创业拼的是速度，代码不重要</title>
+      <link>https://www.infoq.cn/article/pm5uDuSIof8UvxdQHz5Z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一个月重写三次代码库、三个月就换套写法！吴恩达：AI创业拼的是速度，代码不重要]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pm5uDuSIof8UvxdQHz5Z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>U.S. Could Reach a Interim Deal to Lower India Tariffs below 20%</title>
-      <link>https://www.tmtpost.com/7624247.html</link>
-      <description>&lt;![CDATA[U.S. Could Reach a Interim Deal to Lower India Tariffs below 20%]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7624247.html</guid>
+      <title>Gear News of the Week: Samsung’s Trifold Promise, Ikea’s Sonos Split, and Hugging Face’s New Robot</title>
+      <link>https://www.wired.com/story/gear-news-of-the-week-samsung-teases-a-trifold-ikea-ditches-sonos-and-theres-a-hugging-face-robot/</link>
+      <description>&lt;![CDATA[Gear News of the Week: Samsung’s Trifold Promise, Ikea’s Sonos Split, and Hugging Face’s New Robot]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/gear-news-of-the-week-samsung-teases-a-trifold-ikea-ditches-sonos-and-theres-a-hugging-face-robot/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美团、滴滴、字节等巨头数十亿入局，具身机器人行业迎来“修罗场”的一周</title>
-      <link>https://www.tmtpost.com/7623919.html</link>
-      <description>&lt;![CDATA[美团、滴滴、字节等巨头数十亿入局，具身机器人行业迎来“修罗场”的一周]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7623919.html</guid>
+      <title>24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me</title>
+      <link>https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look</link>
+      <description>&lt;![CDATA[24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Rivian R1S review: second time’s the charm</title>
+      <link>https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm</link>
+      <description>&lt;![CDATA[Rivian R1S review: second time’s the charm]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>4 Arrested Over Scattered Spider Hacking Spree</title>
+      <link>https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/</link>
+      <description>&lt;![CDATA[4 Arrested Over Scattered Spider Hacking Spree]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>阿里集权与分权的底层逻辑</title>
+      <link>https://www.tmtpost.com/7624238.html</link>
+      <description>&lt;![CDATA[阿里集权与分权的底层逻辑]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624238.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Timekettle T1 Handheld Translator Review: Global Offline Translation</title>
+      <link>https://www.wired.com/review/timekettle-t1-handheld-translator/</link>
+      <description>&lt;![CDATA[Timekettle T1 Handheld Translator Review: Global Offline Translation]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/review/timekettle-t1-handheld-translator/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Playdate’s second season sucked me back into the little yellow handheld</title>
+      <link>https://www.theverge.com/games-review/705348/playdate-season-2-review</link>
+      <description>&lt;![CDATA[Playdate’s second season sucked me back into the little yellow handheld]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games-review/705348/playdate-season-2-review</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids</title>
+      <link>https://sspai.com/post/100869</link>
+      <description>&lt;![CDATA[App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/100869</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>How to Use Clean Energy Tax Credits Before They Disappear</title>
+      <link>https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/</link>
+      <description>&lt;![CDATA[How to Use Clean Energy Tax Credits Before They Disappear]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/</guid>
       <category>Technology</category>
     </item>
   </channel>

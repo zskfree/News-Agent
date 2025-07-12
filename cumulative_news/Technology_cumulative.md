@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-12 08:26
+**最后更新时间**: 2025-07-12 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-12 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一个月重写三次代码库、三个月就换套写法！吴恩达：AI创业拼的是速度，代码不重要](https://www.infoq.cn/article/pm5uDuSIof8UvxdQHz5Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-13 07:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里集权与分权的底层逻辑](https://www.tmtpost.com/7624238.html)
+**发布时间**: 2025-07-12 19:10
+
+#### [大钲资本，用瑞幸撬动星巴克中国？](https://www.tmtpost.com/7624302.html)
+**发布时间**: 2025-07-12 19:09
+
+#### [马云刘强东杀入2万亿赛道，京东阿里绝不能输，美团则想赢更多](https://www.tmtpost.com/7624307.html)
+**发布时间**: 2025-07-12 19:09
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids](https://sspai.com/post/100869)
+**发布时间**: 2025-07-12 16:03
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
+**发布时间**: 2025-07-12 14:53
+
+#### [24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me](https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look)
+**发布时间**: 2025-07-12 14:00
+
+#### [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)
+**发布时间**: 2025-07-12 13:00
+
+#### [Rivian R1S review: second time’s the charm](https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm)
+**发布时间**: 2025-07-12 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)
+**发布时间**: 2025-07-12 13:00
+
+#### [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+**发布时间**: 2025-07-12 12:07
+
+#### [The 41 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-07-12 11:00
+
+#### [The 20 Best Movies on Amazon Prime Right Now (July 2025)](https://www.wired.com/story/best-amazon-prime-movies/)
+**发布时间**: 2025-07-12 11:00
+
+#### [The 23 Best Shows on Amazon Prime Right Now (July 2025)](https://www.wired.com/story/best-shows-amazon-prime/)
+**发布时间**: 2025-07-12 11:00
+
+#### [How to Use Clean Energy Tax Credits Before They Disappear](https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/)
+**发布时间**: 2025-07-12 11:00
+
+#### [The 41 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-07-12 11:00
+
+#### [4 Arrested Over Scattered Spider Hacking Spree](https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/)
+**发布时间**: 2025-07-12 10:30
+
+#### [Gear News of the Week: Samsung’s Trifold Promise, Ikea’s Sonos Split, and Hugging Face’s New Robot](https://www.wired.com/story/gear-news-of-the-week-samsung-teases-a-trifold-ikea-ditches-sonos-and-theres-a-hugging-face-robot/)
+**发布时间**: 2025-07-12 10:30
+
+#### [How to Watch the Southern Delta Aquariids and Perseids Meteor Showers](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+**发布时间**: 2025-07-12 10:00
+
+#### [Prime Day is Finally Over But These 142 Deals Are Still Available](https://www.wired.com/story/leftover-prime-day-deals-july-2025/)
+**发布时间**: 2025-07-12 08:27
+
+#### [The 25 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers-1/)
+**发布时间**: 2025-07-11 22:38
 
 ---
 
