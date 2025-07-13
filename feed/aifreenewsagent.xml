@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Jul 2025 23:21:59 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 05:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 05:23:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>无Tokenizer时代真要来了？Mamba作者再发颠覆性论文，挑战Transformer</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-8</link>
-      <description>&lt;![CDATA[无Tokenizer时代真要来了？Mamba作者再发颠覆性论文，挑战Transformer]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-8</guid>
+      <title>别跟LLM太交心！斯坦福新研究：AI不能完全取代人类心理治疗师</title>
+      <link>https://www.qbitai.com/2025/07/308566.html</link>
+      <description>&lt;![CDATA[别跟LLM太交心！斯坦福新研究：AI不能完全取代人类心理治疗师]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 04:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308566.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>模拟大脑功能分化！北大与港中文发布Fast-in-Slow VLA，让“快行动”和“慢推理”统一协作</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-2</link>
-      <description>&lt;![CDATA[模拟大脑功能分化！北大与港中文发布Fast-in-Slow VLA，让“快行动”和“慢推理”统一协作]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>第一作者必须是AI！首个面向AI作者的学术会议来了，斯坦福发起</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-10</link>
-      <description>&lt;![CDATA[第一作者必须是AI！首个面向AI作者的学术会议来了，斯坦福发起]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICML 2025 Oral！北大和腾讯优图破解AI生成图像检测泛化难题：正交子空间分解</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-9</link>
-      <description>&lt;![CDATA[ICML 2025 Oral！北大和腾讯优图破解AI生成图像检测泛化难题：正交子空间分解]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-9</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>EasyCache：无需训练的视频扩散模型推理加速——极简高效的视频生成提速方案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-6</link>
-      <description>&lt;![CDATA[EasyCache：无需训练的视频扩散模型推理加速——极简高效的视频生成提速方案]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>深夜开源首个万亿模型K2，压力给到OpenAI，Kimi时刻要来了？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-5</link>
-      <description>&lt;![CDATA[深夜开源首个万亿模型K2，压力给到OpenAI，Kimi时刻要来了？]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICCV2025 | 多视图生成新范式-利用自回归模型探索多视图生成</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-3</link>
-      <description>&lt;![CDATA[ICCV2025 | 多视图生成新范式-利用自回归模型探索多视图生成]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Meta扩张继续！挖走OpenAI 2名多模态AI研发人员，收购语音初创公司PlayAI</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-7</link>
-      <description>&lt;![CDATA[Meta扩张继续！挖走OpenAI 2名多模态AI研发人员，收购语音初创公司PlayAI]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>刚刚，OpenAI想收购的Windsurf，被谷歌DeepMind抢走了核心团队</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-12-4</link>
-      <description>&lt;![CDATA[刚刚，OpenAI想收购的Windsurf，被谷歌DeepMind抢走了核心团队]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 21:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-12-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>武汉无人车学会了加塞！当地司机已服：比我6</title>
-      <link>https://www.qbitai.com/2025/07/308403.html</link>
-      <description>&lt;![CDATA[武汉无人车学会了加塞！当地司机已服：比我6]]&gt;</description>
-      <pubDate>Sat, 12 Jul 2025 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308403.html</guid>
+      <title>ChatGPT破案！成功揭露500万美元遗产欺诈</title>
+      <link>https://www.qbitai.com/2025/07/308567.html</link>
+      <description>&lt;![CDATA[ChatGPT破案！成功揭露500万美元遗产欺诈]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 04:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308567.html</guid>
       <category>AI</category>
     </item>
   </channel>
