@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Jul 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Jul 2025 05:23:09 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 23:21:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>别跟LLM太交心！斯坦福新研究：AI不能完全取代人类心理治疗师</title>
-      <link>https://www.qbitai.com/2025/07/308566.html</link>
-      <description>&lt;![CDATA[别跟LLM太交心！斯坦福新研究：AI不能完全取代人类心理治疗师]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 04:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308566.html</guid>
+      <title>AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-13-3</link>
+      <description>&lt;![CDATA[AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-13-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ChatGPT破案！成功揭露500万美元遗产欺诈</title>
-      <link>https://www.qbitai.com/2025/07/308567.html</link>
-      <description>&lt;![CDATA[ChatGPT破案！成功揭露500万美元遗产欺诈]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 04:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308567.html</guid>
+      <title>「流匹配」成ICML 2025超热门主题！网友：都说了学物理的不准转计算机</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-13-2</link>
+      <description>&lt;![CDATA[「流匹配」成ICML 2025超热门主题！网友：都说了学物理的不准转计算机]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 21:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-13-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>VLA 推理新范式！一致性模型 CEED-VLA 实现四倍加速！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-13</link>
+      <description>&lt;![CDATA[VLA 推理新范式！一致性模型 CEED-VLA 实现四倍加速！]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 21:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-13</guid>
       <category>AI</category>
     </item>
   </channel>

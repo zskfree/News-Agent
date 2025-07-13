@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-12 23:21
+**最后更新时间**: 2025-07-13 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-13 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures slip after Trump’s latest tariff threats; bitcoin hits new high](https://www.marketwatch.com/story/u-s-stock-futures-slip-after-trumps-latest-tariff-threats-bitcoin-hits-new-high-4eb5ee8c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 23:04
+
+#### [How to keep your kid’s Roblox or ‘Fortnite’ habit from wrecking your credit-card bill](https://www.marketwatch.com/story/how-to-keep-your-kids-roblox-or-fortnite-habit-from-wrecking-your-credit-card-bill-220ea139?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 21:22
+
+#### [Inflation is finally supposed to show a tariff-related increase. The Fed still might cut interest rates anyway.](https://www.marketwatch.com/story/inflation-is-finally-supposed-to-show-a-tariff-related-increase-the-fed-still-might-cut-interest-rates-anyway-217232e8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 19:43
+
+#### [Where’s the inflation from tariffs? What stocks and earnings tell us about rising prices with June CPI on deck.](https://www.marketwatch.com/story/wheres-the-inflation-from-tariffs-what-stocks-and-earnings-tell-us-about-rising-prices-with-june-cpi-on-deck-767f85d7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 16:00
+
+#### [Ready for quail eggs, Dubai chocolate and $400 pineapples? 7 gourmet food trends to watch this year.](https://www.marketwatch.com/story/a-400-pineapple-heres-whats-coming-for-grocery-shoppers-with-gourmet-tastes-c157ee27?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 15:16
+
+#### [McDonald’s is spicing up its McMuffins. Will hot-food loving Gen Z and millennials bite?](https://www.marketwatch.com/story/can-mcdonalds-new-spicy-mcmuffin-cash-in-on-the-fiery-flavor-boom-or-is-it-just-a-peppery-gimmick-216f2139?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 15:12
+
+#### [Earnings this week will be the first test of markets’ newfound trade-war nonchalance](https://www.marketwatch.com/story/earnings-this-week-will-be-the-first-test-of-markets-newfound-trade-war-nonchalance-d28c127c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-13 14:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures slip after Trump’s latest tariff threats](https://www.marketwatch.com/bulletins/redirect/go?g=3c072c40-b0ad-4a1a-ad67-3eede6bf56cf&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-13 22:16
+
+#### [Timing of Fed's rate cut may depend on this week's consumer-price report](https://www.marketwatch.com/bulletins/redirect/go?g=d88b83da-c656-4575-9d64-beabb325edc9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-13 20:28
 
 ---
 

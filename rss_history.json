@@ -2118,6 +2118,24 @@
         "link": "https://www.qbitai.com/2025/07/308567.html",
         "published_date": "Sun, 13 Jul 2025 04:27:00 GMT",
         "first_seen": "2025-07-13T05:23:09.281401"
+      },
+      "12d5de11c234ca6ec03b39f9c95736ae472bdbccf486ed2e8e0645089a2d9004": {
+        "title": "AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-13-3",
+        "published_date": "Sun, 13 Jul 2025 21:59:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.045930"
+      },
+      "4b36d75d187f35cbe2248894a3061783ad6422b8d7626783314549d6219aa292": {
+        "title": "「流匹配」成ICML 2025超热门主题！网友：都说了学物理的不准转计算机",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-13-2",
+        "published_date": "Sun, 13 Jul 2025 21:56:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.046080"
+      },
+      "bcfeb120d556122812f245b88116455e0fa2648f4867ba0b79666b69467824b5": {
+        "title": "VLA 推理新范式！一致性模型 CEED-VLA 实现四倍加速！",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-13",
+        "published_date": "Sun, 13 Jul 2025 21:41:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.046296"
       }
     },
     "Technology": {
@@ -5876,6 +5894,132 @@
         "link": "http://www.huxiu.com/article/4573508.html?f=wangzhan",
         "published_date": "Sun, 13 Jul 2025 14:48:00 GMT",
         "first_seen": "2025-07-13T08:26:11.805232"
+      },
+      "c40e9400e8b89f915aa577f67c3d24d8ccc436ff5e3d41dc00b5fb8d12179f46": {
+        "title": "别光看Claude多厉害！Anthropic内部拉响警报：“AI的经济冲击比想象的更危险！”",
+        "link": "https://www.infoq.cn/article/KVrHoJWDrdo8RERblOvG?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008557"
+      },
+      "382d0f54bfc2e44532a10fa4752510bf90b1397bcedf5dbe11d872abae88c6a8": {
+        "title": "微软发布Azure DevOps MCP服务器公开预览版",
+        "link": "https://www.infoq.cn/article/6T5SQjUSSRFAIpvpttia?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Jul 2025 17:51:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008634"
+      },
+      "7af10e1f666e371b8aba2431fd48b51d8d71f11dd50297521675217de8f1053b": {
+        "title": "Docker Desktop 4.42 发布，带来原生IPv6、集成的MCP工具包以及AI模型打包功能",
+        "link": "https://www.infoq.cn/article/KWgBWoIJVwaLLabdkiKN?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Jul 2025 17:33:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008591"
+      },
+      "3d6105ea10e2883d786f32c9a5892e1877a46f5ca1d27eef044feeaae306bf3d": {
+        "title": "OpenTofu 1.10发布了OCI注册表支持和一个用于AI基础架构即代码的MCP服务器",
+        "link": "https://www.infoq.cn/article/QFQ2SpuURjSGhMJFfCFG?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Jul 2025 17:30:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008602"
+      },
+      "a83c6a8093ef74aab9f17d9b17f417e275dad82f92805674d73975e3c8af2536": {
+        "title": "通过结对编程提升开发速度、专注度和心流状态",
+        "link": "https://www.infoq.cn/article/pFZSwSykwleS94jNrs6p?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Jul 2025 17:25:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008662"
+      },
+      "cde9b866ba944d687daaabeac36303049ed190361c2439bbd57dee8e07269d12": {
+        "title": "Meta将移动端消息基础设施从C迁移到Rust",
+        "link": "https://www.infoq.cn/article/DsrGEWp7O466J93imCy6?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Jul 2025 17:22:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008575"
+      },
+      "c83ac7045d182756f12893282a5001f2c058fa0e0448f23c7945686a818aa118": {
+        "title": "对话索尼中国：“One Sony”在华第一步，融入年轻世代与ACG社群",
+        "link": "https://www.tmtpost.com/7624672.html",
+        "published_date": "Sun, 13 Jul 2025 22:20:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.883344"
+      },
+      "21cde001ad5cb0decb0e01f02ef0f1997b9dc36da185ab3df58726366f31c6a7": {
+        "title": "华为撑腰，岚图出牌，21.99万的FREE+上桌了",
+        "link": "https://www.tmtpost.com/7624691.html",
+        "published_date": "Sun, 13 Jul 2025 22:17:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.883778"
+      },
+      "4e58a9dc148ce98ded6f199e70f27b251f307d3fb8b289f0d08c9d5b15da5964": {
+        "title": "节能环保装备“隐形龙头”跨界并购；元力股份拟并购实控人妹妹名下新三板公司【并购一线】",
+        "link": "https://www.tmtpost.com/7624671.html",
+        "published_date": "Sun, 13 Jul 2025 21:54:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.884324"
+      },
+      "a446bc1b9ae1093ae13b1f6efe73353db334f7a368d5f94030739c5aadff7aea": {
+        "title": "新加坡，挤满了“跳”向全球的AI创业者｜SEA Frontline",
+        "link": "https://www.tmtpost.com/7624626.html",
+        "published_date": "Sun, 13 Jul 2025 19:37:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008625"
+      },
+      "0039011d6c33ea7a26f26837ae2f3324592f6a75294e16485ebf21d107dbe0a4": {
+        "title": "科技创新赋能\"新质生产力\"，驱动新能源汽车产业可持续发展",
+        "link": "https://www.tmtpost.com/7624349.html",
+        "published_date": "Sun, 13 Jul 2025 19:32:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008653"
+      },
+      "7bbf5660bef04fa2dcb4a872170a8b12a6f3cad66cb98c9a058331225dba3d52": {
+        "title": "光伏电站资产“大流转”：央企民企后退，地方国资补位",
+        "link": "https://www.tmtpost.com/7624525.html",
+        "published_date": "Sun, 13 Jul 2025 19:32:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.886121"
+      },
+      "12a14de556cac2bea28496dc91c4dfbc2b06b175e0a65c9059f9426880f4033d": {
+        "title": "9 Best Electric Scooters (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-electric-scooters/",
+        "published_date": "Sun, 13 Jul 2025 14:01:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.887199"
+      },
+      "a8e0f6639846218bdd94f5745d6cb183e145d835883bf6c12ba1532c34bd7492": {
+        "title": "Garmin Forerunner 970 Review: A Very Extra Running Watch",
+        "link": "https://www.wired.com/review/garmin-forerunner-970/",
+        "published_date": "Sun, 13 Jul 2025 13:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.888486"
+      },
+      "e3278d8a2403dc72e2bf923517d52c50ab35d50f2741349e586863fa16f06eaa": {
+        "title": "LG Gram Pro 16 (2025) Review: Thin Is Still In",
+        "link": "https://www.wired.com/review/lg-gram-pro-16-2025/",
+        "published_date": "Sun, 13 Jul 2025 12:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.889726"
+      },
+      "115c764676bba1cf01da70703aec27af43270d3f4b6e328a47834df4072b6eb7": {
+        "title": "For Algorithms, Memory Is a Far More Powerful Resource Than Time",
+        "link": "https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/",
+        "published_date": "Sun, 13 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008614"
+      },
+      "07b1fa662098f7321afa47390b3334920e2f41d0a1811d834ce378f12640a31a": {
+        "title": "What Makes a Car Lovable? It's Not the Tech, It's the Cup Holders",
+        "link": "https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/",
+        "published_date": "Sun, 13 Jul 2025 10:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.893262"
+      },
+      "433b2134bf8b5dcbd4ff57b72c7d6b05616c5dd6de1d8623cfde99d97da63e85": {
+        "title": "These LGBTQ+ Archives Defy Erasure, One Memory at a Time",
+        "link": "https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/",
+        "published_date": "Sun, 13 Jul 2025 09:30:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.895025"
+      },
+      "9adcef634ea7d06c6c59627bf5fe5cf059069283061d1dbb8900abf0b3d9b8e4": {
+        "title": "Everything We Know About the Interstellar Object 3I/ATLAS",
+        "link": "https://www.wired.com/story/heres-what-we-know-about-the-third-interstellar-object-in-history/",
+        "published_date": "Sun, 13 Jul 2025 09:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.896894"
+      },
+      "67f8a9d816e9f2ab8162731d74cc959aed7009ba002a5e1c12cb1918d1fe98d6": {
+        "title": "Foldables are in and suddenly really thin",
+        "link": "https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer",
+        "published_date": "Sun, 13 Jul 2025 12:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.008643"
+      },
+      "c82e19529c7dfa86facd5e189dbac4ba29ab7696060708e8cc5e094832fb49d3": {
+        "title": "Why GM’s CEO is still betting on electric vehicles (and racing)",
+        "link": "https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump",
+        "published_date": "Sun, 13 Jul 2025 11:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:20.901009"
       }
     },
     "Finance": {
@@ -6664,12 +6808,66 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=00006c0f-3263-4c81-a888-bf34936d53ad&mod=mw_rss_bulletins",
         "published_date": "Sat, 12 Jul 2025 14:09:00 GMT",
         "first_seen": "2025-07-12T23:21:59.087192"
+      },
+      "1483547fb8635ee59f32a15d67c0108a26a3a944a188b46b476179a19351560a": {
+        "title": "U.S. stock futures slip after Trump’s latest tariff threats; bitcoin hits new high",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-after-trumps-latest-tariff-threats-bitcoin-hits-new-high-4eb5ee8c?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 23:04:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.056326"
+      },
+      "e619d407e1792ab011210c70733031e371508f6bb7f2d608d1246b85f48626d1": {
+        "title": "How to keep your kid’s Roblox or ‘Fortnite’ habit from wrecking your credit-card bill",
+        "link": "https://www.marketwatch.com/story/how-to-keep-your-kids-roblox-or-fortnite-habit-from-wrecking-your-credit-card-bill-220ea139?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 21:22:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.056705"
+      },
+      "fed788496b4e679f2c81cdd17a0861840545c71d95cbae3ce2f1ba9288eda01e": {
+        "title": "Inflation is finally supposed to show a tariff-related increase. The Fed still might cut interest rates anyway.",
+        "link": "https://www.marketwatch.com/story/inflation-is-finally-supposed-to-show-a-tariff-related-increase-the-fed-still-might-cut-interest-rates-anyway-217232e8?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 19:43:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.057375"
+      },
+      "291cc8a0edbd755077f4654621d89ce834038ddf48a7c09109b971d381f21b2b": {
+        "title": "Where’s the inflation from tariffs? What stocks and earnings tell us about rising prices with June CPI on deck.",
+        "link": "https://www.marketwatch.com/story/wheres-the-inflation-from-tariffs-what-stocks-and-earnings-tell-us-about-rising-prices-with-june-cpi-on-deck-767f85d7?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 16:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.058516"
+      },
+      "a8d8a1ef1603967c7faba1311a3b2b3d3ebd58cac241f3fb28e789e8bdde0207": {
+        "title": "Ready for quail eggs, Dubai chocolate and $400 pineapples? 7 gourmet food trends to watch this year.",
+        "link": "https://www.marketwatch.com/story/a-400-pineapple-heres-whats-coming-for-grocery-shoppers-with-gourmet-tastes-c157ee27?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 15:16:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.059763"
+      },
+      "4a6556d9da2116fed0e47ce8aeece32854e645d79036cd554fb36ae1ff56ec87": {
+        "title": "McDonald’s is spicing up its McMuffins. Will hot-food loving Gen Z and millennials bite?",
+        "link": "https://www.marketwatch.com/story/can-mcdonalds-new-spicy-mcmuffin-cash-in-on-the-fiery-flavor-boom-or-is-it-just-a-peppery-gimmick-216f2139?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 15:12:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.061393"
+      },
+      "44d58980eb0864184bb3644dfa0767d7b4c2f139127d1d7b51f097c5f6509580": {
+        "title": "Earnings this week will be the first test of markets’ newfound trade-war nonchalance",
+        "link": "https://www.marketwatch.com/story/earnings-this-week-will-be-the-first-test-of-markets-newfound-trade-war-nonchalance-d28c127c?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Jul 2025 14:00:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.063033"
+      },
+      "ceff4b72d7be585cd7dce8235ff9835ec7279659b849f5a93ecc57cdb8078436": {
+        "title": "U.S. stock futures slip after Trump’s latest tariff threats",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c072c40-b0ad-4a1a-ad67-3eede6bf56cf&mod=mw_rss_bulletins",
+        "published_date": "Sun, 13 Jul 2025 22:16:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.064382"
+      },
+      "ea26ce852af80e0cec2f3e55b1d8618e27755fbd33cad52d578c10c100833311": {
+        "title": "Timing of Fed's rate cut may depend on this week's consumer-price report",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d88b83da-c656-4575-9d64-beabb325edc9&mod=mw_rss_bulletins",
+        "published_date": "Sun, 13 Jul 2025 20:28:00 GMT",
+        "first_seen": "2025-07-13T23:21:40.066401"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-13T08:26:11.846020",
-    "Technology": "2025-07-13T08:26:11.825813",
-    "Finance": "2025-07-13T08:26:11.851081"
+    "AI": "2025-07-13T23:21:40.053348",
+    "Technology": "2025-07-13T23:21:40.031984",
+    "Finance": "2025-07-13T23:21:40.069848"
   }
 }

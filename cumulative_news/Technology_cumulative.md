@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-13 08:26
+**最后更新时间**: 2025-07-13 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-13 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [别光看Claude多厉害！Anthropic内部拉响警报：“AI的经济冲击比想象的更危险！”](https://www.infoq.cn/article/KVrHoJWDrdo8RERblOvG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 07:00
+
+#### [微软发布Azure DevOps MCP服务器公开预览版](https://www.infoq.cn/article/6T5SQjUSSRFAIpvpttia?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-13 17:51
+
+#### [Docker Desktop 4.42 发布，带来原生IPv6、集成的MCP工具包以及AI模型打包功能](https://www.infoq.cn/article/KWgBWoIJVwaLLabdkiKN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-13 17:33
+
+#### [OpenTofu 1.10发布了OCI注册表支持和一个用于AI基础架构即代码的MCP服务器](https://www.infoq.cn/article/QFQ2SpuURjSGhMJFfCFG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-13 17:30
+
+#### [通过结对编程提升开发速度、专注度和心流状态](https://www.infoq.cn/article/pFZSwSykwleS94jNrs6p?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-13 17:25
+
+#### [Meta将移动端消息基础设施从C迁移到Rust](https://www.infoq.cn/article/DsrGEWp7O466J93imCy6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-13 17:22
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话索尼中国：“One Sony”在华第一步，融入年轻世代与ACG社群](https://www.tmtpost.com/7624672.html)
+**发布时间**: 2025-07-13 22:20
+
+#### [华为撑腰，岚图出牌，21.99万的FREE+上桌了](https://www.tmtpost.com/7624691.html)
+**发布时间**: 2025-07-13 22:17
+
+#### [节能环保装备“隐形龙头”跨界并购；元力股份拟并购实控人妹妹名下新三板公司【并购一线】](https://www.tmtpost.com/7624671.html)
+**发布时间**: 2025-07-13 21:54
+
+#### [新加坡，挤满了“跳”向全球的AI创业者｜SEA Frontline](https://www.tmtpost.com/7624626.html)
+**发布时间**: 2025-07-13 19:37
+
+#### [科技创新赋能"新质生产力"，驱动新能源汽车产业可持续发展](https://www.tmtpost.com/7624349.html)
+**发布时间**: 2025-07-13 19:32
+
+#### [光伏电站资产“大流转”：央企民企后退，地方国资补位](https://www.tmtpost.com/7624525.html)
+**发布时间**: 2025-07-13 19:32
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [9 Best Electric Scooters (2025), Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
+**发布时间**: 2025-07-13 14:01
+
+#### [Garmin Forerunner 970 Review: A Very Extra Running Watch](https://www.wired.com/review/garmin-forerunner-970/)
+**发布时间**: 2025-07-13 13:00
+
+#### [LG Gram Pro 16 (2025) Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)
+**发布时间**: 2025-07-13 12:00
+
+#### [For Algorithms, Memory Is a Far More Powerful Resource Than Time](https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/)
+**发布时间**: 2025-07-13 11:00
+
+#### [What Makes a Car Lovable? It's Not the Tech, It's the Cup Holders](https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/)
+**发布时间**: 2025-07-13 10:00
+
+#### [These LGBTQ+ Archives Defy Erasure, One Memory at a Time](https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/)
+**发布时间**: 2025-07-13 09:30
+
+#### [Everything We Know About the Interstellar Object 3I/ATLAS](https://www.wired.com/story/heres-what-we-know-about-the-third-interstellar-object-in-history/)
+**发布时间**: 2025-07-13 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Foldables are in and suddenly really thin](https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer)
+**发布时间**: 2025-07-13 12:00
+
+#### [Why GM’s CEO is still betting on electric vehicles (and racing)](https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump)
+**发布时间**: 2025-07-13 11:00
+
+#### [xAI explains the Grok Nazi meltdown, as Tesla puts Elon’s bot in its cars](https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot)
+**发布时间**: 2025-07-13 00:54
 
 ---
 
