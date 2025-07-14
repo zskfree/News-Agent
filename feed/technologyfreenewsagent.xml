@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Jul 2025 23:21:40 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 05:27:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>别光看Claude多厉害！Anthropic内部拉响警报：“AI的经济冲击比想象的更危险！”</title>
-      <link>https://www.infoq.cn/article/KVrHoJWDrdo8RERblOvG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[别光看Claude多厉害！Anthropic内部拉响警报：“AI的经济冲击比想象的更危险！”]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KVrHoJWDrdo8RERblOvG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达：从显卡巨头到AI霸主</title>
+      <link>https://www.tmtpost.com/7624742.html</link>
+      <description>&lt;![CDATA[英伟达：从显卡巨头到AI霸主]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624742.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta将移动端消息基础设施从C迁移到Rust</title>
-      <link>https://www.infoq.cn/article/DsrGEWp7O466J93imCy6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta将移动端消息基础设施从C迁移到Rust]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DsrGEWp7O466J93imCy6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>China's Humanoid Robotics Boom Surges as Tesla's Optimus Hits a Wall</title>
+      <link>https://www.tmtpost.com/7625107.html</link>
+      <description>&lt;![CDATA[China's Humanoid Robotics Boom Surges as Tesla's Optimus Hits a Wall]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7625107.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker Desktop 4.42 发布，带来原生IPv6、集成的MCP工具包以及AI模型打包功能</title>
-      <link>https://www.infoq.cn/article/KWgBWoIJVwaLLabdkiKN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker Desktop 4.42 发布，带来原生IPv6、集成的MCP工具包以及AI模型打包功能]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KWgBWoIJVwaLLabdkiKN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 编程冲击来袭，程序员怎么办？IDEA研究院张磊：底层系统能力才是护城河</title>
+      <link>https://www.infoq.cn/article/ed18HByb0WJdIKCO1bQw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 编程冲击来袭，程序员怎么办？IDEA研究院张磊：底层系统能力才是护城河]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ed18HByb0WJdIKCO1bQw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenTofu 1.10发布了OCI注册表支持和一个用于AI基础架构即代码的MCP服务器</title>
-      <link>https://www.infoq.cn/article/QFQ2SpuURjSGhMJFfCFG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenTofu 1.10发布了OCI注册表支持和一个用于AI基础架构即代码的MCP服务器]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QFQ2SpuURjSGhMJFfCFG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：英特尔 CEO 称公司跌出行业前十</title>
+      <link>https://sspai.com/post/101006</link>
+      <description>&lt;![CDATA[派早报：英特尔 CEO 称公司跌出行业前十]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/101006</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>For Algorithms, Memory Is a Far More Powerful Resource Than Time</title>
-      <link>https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/</link>
-      <description>&lt;![CDATA[For Algorithms, Memory Is a Far More Powerful Resource Than Time]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/</guid>
+      <title>【产业互联网周报】  上海：支持云服务商建设模型即服务平台；科大讯飞：预计上半年净亏损2亿元-2.8亿元；苹果被挖角，AI模型负责人数千万美元年薪跳槽Meta</title>
+      <link>https://www.tmtpost.com/7624854.html</link>
+      <description>&lt;![CDATA[【产业互联网周报】  上海：支持云服务商建设模型即服务平台；科大讯飞：预计上半年净亏损2亿元-2.8亿元；苹果被挖角，AI模型负责人数千万美元年薪跳槽Meta]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 11:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624854.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新加坡，挤满了“跳”向全球的AI创业者｜SEA Frontline</title>
-      <link>https://www.tmtpost.com/7624626.html</link>
-      <description>&lt;![CDATA[新加坡，挤满了“跳”向全球的AI创业者｜SEA Frontline]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 19:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7624626.html</guid>
+      <title>【钛晨报】上交所发布！科创板“1+6”业务规则落地；饿了么旧会员体系将于月底停用，新推悦享会员或应对“外卖大战”｜独家；马斯克旗下人工智能公司将获SpaceX最大外部投资</title>
+      <link>https://www.tmtpost.com/7624636.html</link>
+      <description>&lt;![CDATA[【钛晨报】上交所发布！科创板“1+6”业务规则落地；饿了么旧会员体系将于月底停用，新推悦享会员或应对“外卖大战”｜独家；马斯克旗下人工智能公司将获SpaceX最大外部投资]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 07:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624636.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软发布Azure DevOps MCP服务器公开预览版</title>
-      <link>https://www.infoq.cn/article/6T5SQjUSSRFAIpvpttia?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软发布Azure DevOps MCP服务器公开预览版]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6T5SQjUSSRFAIpvpttia?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI首个开源大模型再延期、收购 Windsurf 失败；Manus “删号跑路”？百川联创离职，创始团队仅剩2人｜AI周报</title>
+      <link>https://www.infoq.cn/article/F50g3vTaeAO1PO7ZqsLl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI首个开源大模型再延期、收购 Windsurf 失败；Manus “删号跑路”？百川联创离职，创始团队仅剩2人｜AI周报]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/F50g3vTaeAO1PO7ZqsLl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Foldables are in and suddenly really thin</title>
-      <link>https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer</link>
-      <description>&lt;![CDATA[Foldables are in and suddenly really thin]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer</guid>
+      <title>China Unveils 600 km/h Superconducting Maglev Train, Expected to Slash Beijing–Shanghai Travel Time to 2.5 Hours</title>
+      <link>https://www.tmtpost.com/7624985.html</link>
+      <description>&lt;![CDATA[China Unveils 600 km/h Superconducting Maglev Train, Expected to Slash Beijing–Shanghai Travel Time to 2.5 Hours]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624985.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科技创新赋能&quot;新质生产力&quot;，驱动新能源汽车产业可持续发展</title>
-      <link>https://www.tmtpost.com/7624349.html</link>
-      <description>&lt;![CDATA[科技创新赋能&quot;新质生产力&quot;，驱动新能源汽车产业可持续发展]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 19:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7624349.html</guid>
+      <title>China's Energy Storage Industry Eyes Global Expansion as Photovoltaic Sector Faces U.S. Policy Headwinds</title>
+      <link>https://www.tmtpost.com/7624948.html</link>
+      <description>&lt;![CDATA[China's Energy Storage Industry Eyes Global Expansion as Photovoltaic Sector Faces U.S. Policy Headwinds]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624948.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>通过结对编程提升开发速度、专注度和心流状态</title>
-      <link>https://www.infoq.cn/article/pFZSwSykwleS94jNrs6p?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[通过结对编程提升开发速度、专注度和心流状态]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pFZSwSykwleS94jNrs6p?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Circle火爆IPO，看稳定币与美元霸权的现代化金融战</title>
+      <link>https://www.tmtpost.com/7624873.html</link>
+      <description>&lt;![CDATA[从Circle火爆IPO，看稳定币与美元霸权的现代化金融战]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7624873.html</guid>
       <category>Technology</category>
     </item>
   </channel>

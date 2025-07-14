@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Jul 2025 23:21:40 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 05:27:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-13-3</link>
-      <description>&lt;![CDATA[AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 21:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-13-3</guid>
+      <title>用动作分块突破RL极限，伯克利引入模仿学习，超越离线/在线SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-5</link>
+      <description>&lt;![CDATA[用动作分块突破RL极限，伯克利引入模仿学习，超越离线/在线SOTA]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>「流匹配」成ICML 2025超热门主题！网友：都说了学物理的不准转计算机</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-13-2</link>
-      <description>&lt;![CDATA[「流匹配」成ICML 2025超热门主题！网友：都说了学物理的不准转计算机]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 21:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-13-2</guid>
+      <title>ICCV 2025满分论文：一个模型实现空间理解与主动探索大统一</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-3</link>
+      <description>&lt;![CDATA[ICCV 2025满分论文：一个模型实现空间理解与主动探索大统一]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>VLA 推理新范式！一致性模型 CEED-VLA 实现四倍加速！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-13</link>
-      <description>&lt;![CDATA[VLA 推理新范式！一致性模型 CEED-VLA 实现四倍加速！]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 21:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-13</guid>
+      <title>ACL 2025｜自我怀疑还是自我纠正？清华团队揭示LLMs反思技术的暗面</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-4</link>
+      <description>&lt;![CDATA[ACL 2025｜自我怀疑还是自我纠正？清华团队揭示LLMs反思技术的暗面]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI的o3在新的「解答科学问题AI排行榜」上排名第一，DeepSeek的R1排名第二</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14</link>
+      <description>&lt;![CDATA[OpenAI的o3在新的「解答科学问题AI排行榜」上排名第一，DeepSeek的R1排名第二]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达&amp;MIT等推出Long-RL，长视频训练速度翻倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-2</link>
+      <description>&lt;![CDATA[英伟达&amp;MIT等推出Long-RL，长视频训练速度翻倍]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>用AI写代码效率反降19%！246项任务实测，16位资深程序员参与</title>
+      <link>https://www.qbitai.com/2025/07/308720.html</link>
+      <description>&lt;![CDATA[用AI写代码效率反降19%！246项任务实测，16位资深程序员参与]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 00:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308720.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Mechanistic Indicators of Understanding in Large Language Models</title>
+      <link>https://arxiv.org/abs/2507.08017</link>
+      <description>&lt;![CDATA[Mechanistic Indicators of Understanding in Large Language Models]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.08017</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Unraveling the Potential of Diffusion Models in Small Molecule Generation</title>
+      <link>https://arxiv.org/abs/2507.08005</link>
+      <description>&lt;![CDATA[Unraveling the Potential of Diffusion Models in Small Molecule Generation]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.08005</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Mass-Scale Analysis of In-the-Wild Conversations Reveals Complexity Bounds on LLM Jailbreaking</title>
+      <link>https://arxiv.org/abs/2507.08014</link>
+      <description>&lt;![CDATA[Mass-Scale Analysis of In-the-Wild Conversations Reveals Complexity Bounds on LLM Jailbreaking]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.08014</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Integrating External Tools with Large Language Models to Improve Accuracy</title>
+      <link>https://arxiv.org/abs/2507.08034</link>
+      <description>&lt;![CDATA[Integrating External Tools with Large Language Models to Improve Accuracy]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.08034</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-13 23:21
+**最后更新时间**: 2025-07-14 05:26
+
+---
+
+## 🆕 最新更新 (2025-07-14 05:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Story’ stocks are smoking hot in 2025. This is how it could end badly for investors.](https://www.marketwatch.com/story/story-stocks-are-smoking-hot-in-2025-this-is-how-it-could-end-badly-for-investors-e12c64f4?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 00:38
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why this week’s CPI report could test Wall Street's bullish tone](https://www.marketwatch.com/bulletins/redirect/go?g=cf9f7a12-e997-448a-b5c1-3d807e2da125&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-13 23:42
 
 ---
 

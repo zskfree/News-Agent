@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-13 23:21
+**最后更新时间**: 2025-07-14 05:26
+
+---
+
+## 🆕 最新更新 (2025-07-14 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [英伟达：从显卡巨头到AI霸主](https://www.tmtpost.com/7624742.html)
+**发布时间**: 2025-07-14 13:06
+
+#### [阿里美团京东血拼外卖？别被骗了，它们抢的是“即时零售”生死牌](https://www.tmtpost.com/7624820.html)
+**发布时间**: 2025-07-14 13:06
+
+#### [原二股东拟清仓后实控人也要“撤退”，昔日“创业板第一高价股”怎么了？](https://www.tmtpost.com/7625099.html)
+**发布时间**: 2025-07-14 12:44
+
+#### [China's Humanoid Robotics Boom Surges as Tesla's Optimus Hits a Wall](https://www.tmtpost.com/7625107.html)
+**发布时间**: 2025-07-14 12:18
+
+#### [飞书试水“人机协同”](https://www.tmtpost.com/7624817.html)
+**发布时间**: 2025-07-14 12:01
+
+#### [ClickHouse挑战Snowflake，蹭上AI东风 | 企服国际观察](https://www.tmtpost.com/7623717.html)
+**发布时间**: 2025-07-14 11:45
+
+#### [【产业互联网周报】  上海：支持云服务商建设模型即服务平台；科大讯飞：预计上半年净亏损2亿元-2.8亿元；苹果被挖角，AI模型负责人数千万美元年薪跳槽Meta](https://www.tmtpost.com/7624854.html)
+**发布时间**: 2025-07-14 11:44
+
+#### [小米阴影下，美的“横着走”](https://www.tmtpost.com/7624811.html)
+**发布时间**: 2025-07-14 11:14
+
+#### [China Unveils 600 km/h Superconducting Maglev Train, Expected to Slash Beijing–Shanghai Travel Time to 2.5 Hours](https://www.tmtpost.com/7624985.html)
+**发布时间**: 2025-07-14 11:01
+
+#### [从Circle火爆IPO，看稳定币与美元霸权的现代化金融战](https://www.tmtpost.com/7624873.html)
+**发布时间**: 2025-07-14 10:41
+
+#### [China's Energy Storage Industry Eyes Global Expansion as Photovoltaic Sector Faces U.S. Policy Headwinds](https://www.tmtpost.com/7624948.html)
+**发布时间**: 2025-07-14 10:34
+
+#### [餐饮商家，困在外卖大战里](https://www.tmtpost.com/7624745.html)
+**发布时间**: 2025-07-14 09:57
+
+#### [绿的谐波：人形机器人的“关节灵魂” | 供应链隐形冠军](https://www.tmtpost.com/7623675.html)
+**发布时间**: 2025-07-14 09:26
+
+#### [科股早知道：超导电动高速磁浮列车亮相，这类新材料的应用具有重要意义](https://www.tmtpost.com/7624762.html)
+**发布时间**: 2025-07-14 08:14
+
+#### [想上市的风吹到了荣耀，能否引爆A股市场？](https://www.tmtpost.com/7624700.html)
+**发布时间**: 2025-07-14 08:02
+
+#### [【钛晨报】上交所发布！科创板“1+6”业务规则落地；饿了么旧会员体系将于月底停用，新推悦享会员或应对“外卖大战”｜独家；马斯克旗下人工智能公司将获SpaceX最大外部投资](https://www.tmtpost.com/7624636.html)
+**发布时间**: 2025-07-14 07:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 编程冲击来袭，程序员怎么办？IDEA研究院张磊：底层系统能力才是护城河](https://www.infoq.cn/article/ed18HByb0WJdIKCO1bQw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 12:52
+
+#### [AI真省了20%工时？CEO却要95%！更扎心的是：你的KPI还在考人类效率](https://www.infoq.cn/article/dX6llQs7kcIjeNQybMWO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 11:17
+
+#### [Chromium套壳就敢叫板Google？Perplexity新品发布，印度裔 CEO放言5万美金撬走彭博千亿生意！](https://www.infoq.cn/article/ZAC1uYozjbEMsppPPQgj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 11:12
+
+#### [一句话让数据库裸奔？Supabase CEO：MCP 天生不该碰生产库](https://www.infoq.cn/article/LqJy19MRecL5IxCLeA2a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 11:01
+
+#### [面向企业的代理式AI架构框架](https://www.infoq.cn/article/GYI1fq9ze5CfWk1y0LAf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 11:00
+
+#### [分析Apache Kafka扩展集群：WAN中断、故障场景和DR策略](https://www.infoq.cn/article/6dx2t4sq8lUHDsMWceDg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 10:03
+
+#### [OpenAI首个开源大模型再延期、收购 Windsurf 失败；Manus “删号跑路”？百川联创离职，创始团队仅剩2人｜AI周报](https://www.infoq.cn/article/F50g3vTaeAO1PO7ZqsLl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 09:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [曾经的国民早餐，桃李面包为啥突然不香了？](http://www.huxiu.com/article/4569951.html?f=wangzhan)
+**发布时间**: 2025-07-14 11:36
+
+#### [你的新偶像，可能根本就不是“人”？](http://www.huxiu.com/article/4566647.html?f=wangzhan)
+**发布时间**: 2025-07-14 11:00
+
+#### [车企都不好过，谁特别不好过？以及，围攻比亚迪丨车圈脉动 Vol.5](http://www.huxiu.com/article/4572352.html?f=wangzhan)
+**发布时间**: 2025-07-14 10:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [时令水果不易存， 10+ 道美食帮你尽享夏日滋味](https://sspai.com/post/100986)
+**发布时间**: 2025-07-14 11:31
+
+#### [派早报：英特尔 CEO 称公司跌出行业前十](https://sspai.com/post/101006)
+**发布时间**: 2025-07-14 08:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [19 年来首次，今年没有新款苹果笔记本；传罗马仕老板「潜逃」马来西亚；联通 eSIM 手机业务上线，为 iPhone 17 准备｜极客早知道](http://www.geekpark.net/news/351466)
+**发布时间**: 2025-07-14 08:32
 
 ---
 
