@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Jul 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 05:27:35 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 08:32:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘Story’ stocks are smoking hot in 2025. This is how it could end badly for investors.</title>
-      <link>https://www.marketwatch.com/story/story-stocks-are-smoking-hot-in-2025-this-is-how-it-could-end-badly-for-investors-e12c64f4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘Story’ stocks are smoking hot in 2025. This is how it could end badly for investors.]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 00:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/story-stocks-are-smoking-hot-in-2025-this-is-how-it-could-end-badly-for-investors-e12c64f4?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why this week’s CPI report could test Wall Street's bullish tone</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=cf9f7a12-e997-448a-b5c1-3d807e2da125&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Why this week’s CPI report could test Wall Street's bullish tone]]&gt;</description>
-      <pubDate>Sun, 13 Jul 2025 23:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=cf9f7a12-e997-448a-b5c1-3d807e2da125&amp;mod=mw_rss_bulletins</guid>
+      <title>It’s ‘crypto week’ and bitcoin is flying higher, passing $120,000</title>
+      <link>https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[It’s ‘crypto week’ and bitcoin is flying higher, passing $120,000]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 08:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

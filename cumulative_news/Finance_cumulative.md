@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-14 05:26
+**最后更新时间**: 2025-07-14 08:32
+
+---
+
+## 🆕 最新更新 (2025-07-14 08:32)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [It’s ‘crypto week’ and bitcoin is flying higher, passing $120,000](https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 08:17
 
 ---
 

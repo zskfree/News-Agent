@@ -2436,6 +2436,66 @@
         "link": "https://arxiv.org/abs/2507.08096",
         "published_date": "Mon, 14 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-14T05:27:17.357087"
+      },
+      "f46c2fa14c4040bb07a1eeae1ef0b4cf971896b0a2584533a69699ec1c44b051": {
+        "title": "夜场预告 | WAIC UP!之夜：不是大会延长时，而是另一种打开AI的方式",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-14-8",
+        "published_date": "Mon, 14 Jul 2025 14:23:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.670340"
+      },
+      "f7ec35e73c885d43eaa764667945caa2bb04a4ad2d84a1edeb3603c9c78507e9": {
+        "title": "智能科学实验室加速未来科学发现，首版仿真智驱实验室LabUtopia发布",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-14-7",
+        "published_date": "Mon, 14 Jul 2025 14:04:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.670501"
+      },
+      "515c0fe7d50170135628ab376dc87ad43a0601b762e12fdd33ca39385865ba52": {
+        "title": "不用抗生素也能抗菌！AI设计新型蛋白质抵御细菌耐药性｜Nature子刊",
+        "link": "https://www.qbitai.com/2025/07/308876.html",
+        "published_date": "Mon, 14 Jul 2025 07:40:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.670707"
+      },
+      "f9bbfac3ea21325a0e9273f4c9e40c8c87450870b21fae92d4c11d65777d73b8": {
+        "title": "WDTA发布全球首个AI智能体运行安全测试标准，蚂蚁集团、清华大学等联合编制",
+        "link": "https://www.qbitai.com/2025/07/308867.html",
+        "published_date": "Mon, 14 Jul 2025 06:52:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.670931"
+      },
+      "3f75b0afd622c67a47153a38d8131be47131f14b7a8632766a1613c86a80a1d5": {
+        "title": "中国技术助力全球数字安全 蚂蚁数科联合国分享AI打假经验",
+        "link": "https://www.qbitai.com/2025/07/308856.html",
+        "published_date": "Mon, 14 Jul 2025 06:45:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.671190"
+      },
+      "fd0dd8a589e4d670b030be4796e28cdab389bbe6c9ad4c4d37db35fc42f16f5d": {
+        "title": "抱抱脸进军具身智能机器人: 5小时成交破百万，299美元起售",
+        "link": "https://www.qbitai.com/2025/07/308843.html",
+        "published_date": "Mon, 14 Jul 2025 06:19:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.671518"
+      },
+      "e6ee5c38a4a8e49865560d76708ae0d235dc39e970908059bc6758030800cf02": {
+        "title": "具身智能大脑+首个SaaS开源框架，智源研究院刷新10项测评基准，加速群体智能新范式",
+        "link": "https://www.qbitai.com/2025/07/308809.html",
+        "published_date": "Mon, 14 Jul 2025 06:06:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.672032"
+      },
+      "78132195c2bfe80e42ceeab6c6437832022494f36c08f1343e40a22475b8a18e": {
+        "title": "密室逃脱成AI新考场，通关率不足50%，暴露空间推理短板丨清华ICCV25",
+        "link": "https://www.qbitai.com/2025/07/308810.html",
+        "published_date": "Mon, 14 Jul 2025 06:05:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.672557"
+      },
+      "5d4d7578a660eab33bd77f42c211e96e1464fbdea1b2f15228171853183ad973": {
+        "title": "7B模型对标GPT-4o，全球首个医疗代码生成大模型训练平台来了",
+        "link": "https://www.qbitai.com/2025/07/308780.html",
+        "published_date": "Mon, 14 Jul 2025 05:51:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.673030"
+      },
+      "84c625115796d31665d970a2a3c6a78e8e3ca08949ca3e275afcb9ecc6b3eb3a": {
+        "title": "蔚来李斌：祝理想i8大卖，只要选纯电就是队友",
+        "link": "https://www.qbitai.com/2025/07/308760.html",
+        "published_date": "Mon, 14 Jul 2025 05:45:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.673535"
       }
     },
     "Technology": {
@@ -6494,6 +6554,132 @@
         "link": "http://www.geekpark.net/news/351466",
         "published_date": "Mon, 14 Jul 2025 08:32:00 GMT",
         "first_seen": "2025-07-14T05:26:54.227000"
+      },
+      "9321bf352843bcaf1309bdd38bd6e7c89111493ea3c06c749f74656101e34ff1": {
+        "title": "谷歌 170 亿收编 Windsurf，硅谷 「AI 挖人」白热化，99% 的钱流向 1% 的人",
+        "link": "http://www.geekpark.net/news/351511",
+        "published_date": "Mon, 14 Jul 2025 16:31:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614791"
+      },
+      "910eb221b904efdf9badc7e680b4fe407821e1883b4254e372081a81ccb2983d": {
+        "title": "亚洲最大的漫展，没有「AI 入侵」",
+        "link": "http://www.geekpark.net/news/351488",
+        "published_date": "Mon, 14 Jul 2025 13:32:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.492403"
+      },
+      "5cc2f3fac5b8b47bb865a48162cbd977e0164f35a2db641ef15b8d1cd69fcc58": {
+        "title": "得物新一代可观测性架构：海量数据下的存算分离设计与实践",
+        "link": "https://www.infoq.cn/article/XM2yRLQAGRRm786vu86N?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 16:03:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614811"
+      },
+      "1ad72f35172cea9387ec374f10f9148aaa30c46b33977d6b7aae7b2a57c782c4": {
+        "title": "Arm可伸缩矩阵扩展2即将登陆Android，以加速设备上的AI",
+        "link": "https://www.infoq.cn/article/0uuqIcYRG9ykYTjG2zGD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 16:00:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614823"
+      },
+      "7ebe0f9d476a7840d853acccf933e6ceae6d6c0efac3c13d97463c6196ca38d2": {
+        "title": "国产算力软件服务商「清程极智」再获过亿元融资",
+        "link": "https://www.infoq.cn/article/47BhAXSQRqk8XDcVTLyU?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 15:27:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614886"
+      },
+      "f19557e22cd6691db711aae6855267a79644803047d97622ee6c96aa5faec900": {
+        "title": "Netflix自研标题发布可观测性系统：在全球范围内验证标题可用性",
+        "link": "https://www.infoq.cn/article/AsjhtAmccMFB5vsUs1fk?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614842"
+      },
+      "18855b290df048133d9806c292cc890024f88fb8354fd03e95e2acc2218c8310": {
+        "title": "揭秘字节跳动内部流量调度与容灾实践【下】",
+        "link": "https://www.infoq.cn/article/IzDzFEbF6IeT877zH0RU?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 14:38:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614833"
+      },
+      "70cbd1fc5a61ed503fecd683c748765237ebe7519abf906287d263297fe5795c": {
+        "title": "Docker Desktop 4.43扩展了Model Runner并带来了新的Compose Kubernetes Bridge",
+        "link": "https://www.infoq.cn/article/RcphJVGLR8eGtemd5Olt?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Jul 2025 14:19:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614855"
+      },
+      "21b569d3124f4e6b86f5797449993cda1a8f7558dfcef58a86c99aca3022aeee": {
+        "title": "杜建英的三捷系，宗馥莉要打的三场仗",
+        "link": "https://www.tmtpost.com/7625201.html",
+        "published_date": "Mon, 14 Jul 2025 15:35:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.494798"
+      },
+      "2542b071e9b47fa84644ad52b256ed14134a7f72b647834b95387626f360ed83": {
+        "title": "7月14日A股分析：沪指涨0.27%报3519.65点，两市合计成交14587.51亿元，资金流出最多的行业板块为软件开发",
+        "link": "https://www.tmtpost.com/7625271.html",
+        "published_date": "Mon, 14 Jul 2025 15:15:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.495667"
+      },
+      "da2b1f0c043125c0d01e4cf84cb7abf53d535a2143244ed604ea6b2f24908e0d": {
+        "title": "IP生意成解药，是哪吒带给光线传媒的“幻觉”",
+        "link": "https://www.tmtpost.com/7624979.html",
+        "published_date": "Mon, 14 Jul 2025 15:12:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.496175"
+      },
+      "36446218c603ce26f192ab1055bc5c1d2c506a9a4569dca3af69b19b4d26d78e": {
+        "title": "彻底告别刚兑，30万亿银行理财市场陷入“囚徒困境”",
+        "link": "https://www.tmtpost.com/7625246.html",
+        "published_date": "Mon, 14 Jul 2025 15:03:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.496757"
+      },
+      "03761d615dc6eb4dc3716e53d6a5dd0053e337a90ea6d6e5ffabfaa98c204db2": {
+        "title": "【Fintech 周报】多地监管：警惕稳定币沦为集资诈骗工具；“养老贷”被叫停；比特币首破12万美元",
+        "link": "https://www.tmtpost.com/7625208.html",
+        "published_date": "Mon, 14 Jul 2025 14:55:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.497754"
+      },
+      "b5006d878cab0a86aaf9fcf18405414c194a4a4c05ff2c4e468111d463751877": {
+        "title": "【生态环境周观察】全球最大绿色氢氨项目投产；光伏电池龙头爱旭股份二季度扭亏；特朗普要求彻查美国风电、光伏税收抵免",
+        "link": "https://www.tmtpost.com/7624931.html",
+        "published_date": "Mon, 14 Jul 2025 14:55:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.498831"
+      },
+      "d2c4b56ec9b15ff563f74c945ad7c29bdd18fe5e9945e841ec8addee4eabaf51": {
+        "title": "稀土大战强势升级",
+        "link": "https://www.tmtpost.com/7625145.html",
+        "published_date": "Mon, 14 Jul 2025 14:44:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.499182"
+      },
+      "7e6002cc2939dc0821695cadf50c0339ab139d547a2cba6b9315f7304293915d": {
+        "title": "Singapore Emerges as Global Launchpad for Chinese AI Startups Amid Explosive Growth",
+        "link": "https://www.tmtpost.com/7625190.html",
+        "published_date": "Mon, 14 Jul 2025 14:04:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614866"
+      },
+      "1a12e345763b1d2e59b6f24ea34ffb4366f0ef6f33ef5135d36e0aa1a8d858f1": {
+        "title": "从风口到风暴，Manus的130天",
+        "link": "https://www.tmtpost.com/7624885.html",
+        "published_date": "Mon, 14 Jul 2025 13:51:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.501594"
+      },
+      "bdf04b9cfb525ad50a6c86d0f17b05e1cf602fa5eb050a5b90f6e245e36663e4": {
+        "title": "AI 时代的本地知识管理往何处去？评 DEVONthink 4.0",
+        "link": "https://sspai.com/post/100991",
+        "published_date": "Mon, 14 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614877"
+      },
+      "92832a17009784aa775df77dbeb8e5db664b5da06bd9cbcdfd417deb1de6513c": {
+        "title": "Manus为什么要去“中国化”？",
+        "link": "http://www.huxiu.com/article/4573862.html?f=wangzhan",
+        "published_date": "Mon, 14 Jul 2025 14:39:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.614894"
+      },
+      "10322883efe656635ab529bfb07d62a4b5f9bb777fec283490f6550a48317920": {
+        "title": "迪拜巧克力，为何火遍全球？",
+        "link": "http://www.huxiu.com/article/4573140.html?f=wangzhan",
+        "published_date": "Mon, 14 Jul 2025 14:06:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.504297"
+      },
+      "c26233e7e4bc15ea3a309c7b5123c6b5e198454d649e3c8b81e035e4cf6dc653": {
+        "title": "Le Wand Dive Review: A Waterproof Wand Vibrator",
+        "link": "https://www.wired.com/review/le-wand-dive/",
+        "published_date": "Mon, 14 Jul 2025 08:00:00 GMT",
+        "first_seen": "2025-07-14T08:32:25.505833"
       }
     },
     "Finance": {
@@ -7348,12 +7534,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cf9f7a12-e997-448a-b5c1-3d807e2da125&mod=mw_rss_bulletins",
         "published_date": "Sun, 13 Jul 2025 23:42:00 GMT",
         "first_seen": "2025-07-14T05:27:35.739080"
+      },
+      "eb7b6d902419f8a646e1775e47d2cf0056c773edc3e097fa795b17b5af0875ff": {
+        "title": "It’s ‘crypto week’ and bitcoin is flying higher, passing $120,000",
+        "link": "https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories",
+        "published_date": "Mon, 14 Jul 2025 08:17:00 GMT",
+        "first_seen": "2025-07-14T08:32:47.684009"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-14T05:27:35.735776",
-    "Technology": "2025-07-14T05:27:17.096815",
-    "Finance": "2025-07-14T05:27:35.742167"
+    "AI": "2025-07-14T08:32:47.681023",
+    "Technology": "2025-07-14T08:32:47.655161",
+    "Finance": "2025-07-14T08:32:47.687048"
   }
 }
