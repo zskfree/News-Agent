@@ -1,7 +1,139 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-14 08:32
+**最后更新时间**: 2025-07-14 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-14 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [瑞士生物科技公司Numab Therapeutics研发多特异性抗体药物，提升癌症与炎症治愈率 | 瑞士创新100强](https://www.tmtpost.com/7625728.html)
+**发布时间**: 2025-07-15 07:07
+
+#### [艾比森LED巨幕“点燃”博采AI影视基地，虚拟拍摄革命按下加速键](https://www.tmtpost.com/7625649.html)
+**发布时间**: 2025-07-14 22:24
+
+#### [宗馥莉家族财产大瓜，会变成一堂高阶普法课吗？](https://www.tmtpost.com/7625595.html)
+**发布时间**: 2025-07-14 20:52
+
+#### [遥望科技半年业绩预告注解：“自我纠偏”三季度将迎来正向反馈](https://www.tmtpost.com/7625516.html)
+**发布时间**: 2025-07-14 20:06
+
+#### [美国最大的100个广告主名单：亚马逊等电商零售行业广告费最高](https://www.tmtpost.com/7624654.html)
+**发布时间**: 2025-07-14 19:30
+
+#### [魏建军：硬核Daddy需要一个“杠精”](https://www.tmtpost.com/7625393.html)
+**发布时间**: 2025-07-14 19:28
+
+#### [红果木叶之后咸柠短剧也要来了？字节再造新流量“帝国”](https://www.tmtpost.com/7625475.html)
+**发布时间**: 2025-07-14 19:22
+
+#### [硬防晒，如何靠营销创造一个千亿市场](https://www.tmtpost.com/7624959.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [美妆行业，集体累了](https://www.tmtpost.com/7625042.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [科创板玩家稚晖君，抢了宇树王兴兴的风头](https://www.tmtpost.com/7625308.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [冲刺上市的Momenta，需要让“两条腿”跑得更快](https://www.tmtpost.com/7625016.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [500亿市值的同仁堂，即将收获第四个IPO](https://www.tmtpost.com/7625461.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [娃哈哈豪门风云：长公主宗馥莉与“美国弟妹”的遗嘱之战](https://www.tmtpost.com/7625505.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [扎克伯格挖角苹果，集齐9大华裔AI天才](https://www.tmtpost.com/7625162.html)
+**发布时间**: 2025-07-14 18:32
+
+#### [9.9元/斤的小龙虾正在消失](https://www.tmtpost.com/7624999.html)
+**发布时间**: 2025-07-14 17:10
+
+#### [消费投资的风口还能吹多久？](https://www.tmtpost.com/7625181.html)
+**发布时间**: 2025-07-14 17:10
+
+#### [外卖战场撒币，顺丰同城捡钱](https://www.tmtpost.com/7624917.html)
+**发布时间**: 2025-07-14 17:10
+
+#### [高估值背后，GPU靠什么撑？](https://www.tmtpost.com/7625193.html)
+**发布时间**: 2025-07-14 17:10
+
+#### [一文看懂Grok 4及“多智能体内生化”的AI新范式](https://www.tmtpost.com/7625307.html)
+**发布时间**: 2025-07-14 17:10
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Superman is a box office hit, but the hard part comes next](https://www.theverge.com/film/706663/superman-box-office-dc-studios-james-gunn-cinematic-universe-supergirl-clayface)
+**发布时间**: 2025-07-14 21:22
+
+#### [Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode](https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy)
+**发布时间**: 2025-07-14 20:06
+
+#### [Bose is offering an extra 25% off refurbished headphones, earbuds, and portable speakers](https://www.theverge.com/tech/706887/bose-refurbished-quietcomfort-headphones-earbuds-deal-sale)
+**发布时间**: 2025-07-14 19:37
+
+#### [Tesla’s Autopilot is under scrutiny in a rare jury trial](https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida)
+**发布时间**: 2025-07-14 18:08
+
+#### [Google&#8217;s curated AI &#8216;notebooks&#8217; talk you through topics from parenting to Shakespeare](https://www.theverge.com/news/706854/google-notebooklm-featured-notebook-ai-topics)
+**发布时间**: 2025-07-14 18:02
+
+#### [US government announces $200 million Grok contract a week after ‘MechaHitler’ incident](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
+**发布时间**: 2025-07-14 17:58
+
+#### [Anthropic&#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)
+**发布时间**: 2025-07-14 17:00
+
+#### [HBO’s new Harry Potter series will premiere in 2027](https://www.theverge.com/news/706736/hbo-max-harry-potter-series-premiere-warner-bros-discovery)
+**发布时间**: 2025-07-14 16:20
+
+#### [These are Sony’s new noise-canceling headphones for NFL coaches](https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach)
+**发布时间**: 2025-07-14 16:00
+
+#### [Pebblebee’s AirTag alternative now doubles as a panic alarm](https://www.theverge.com/news/706631/pebblebee-clip-tracker-android-ios-alert-safety-panic-alarm)
+**发布时间**: 2025-07-14 16:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [那个志愿报了电竞的男孩，如今在直播间卖耳机](http://www.huxiu.com/article/4577799.html?f=wangzhan)
+**发布时间**: 2025-07-14 19:26
+
+#### [新一轮外卖大战直逼千亿级别，参战各方钱烧得值吗？](http://www.huxiu.com/article/4574156.html?f=wangzhan)
+**发布时间**: 2025-07-14 16:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Kimi K2发布两天即“封神”？80%成本优势追平Claude 4、打趴“全球最强AI”，架构与DeepSeek相似！](https://www.infoq.cn/article/PGCLTgQWBqs8wHICzdC0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 18:53
+
+#### [甲骨文副总裁吴承杨：AI放大了数据优势，数据融合至关重要](https://www.infoq.cn/article/1Heb9M1QAa69zGfmUOKy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-14 17:26
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [It's Not Just Epstein. MAGA Is Angry About a Lot of Things](https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/)
+**发布时间**: 2025-07-14 18:16
+
+#### [GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells](https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/)
+**发布时间**: 2025-07-14 16:21
+
+#### [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)
+**发布时间**: 2025-07-14 12:03
+
+#### [AI 'Nudify' Websites Are Raking in Millions of Dollars](https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/)
+**发布时间**: 2025-07-14 11:00
+
+#### [The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both](https://www.wired.com/story/space-ice-structure-order-chaos/)
+**发布时间**: 2025-07-14 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/101017)
+**发布时间**: 2025-07-14 17:37
 
 ---
 

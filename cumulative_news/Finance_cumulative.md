@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-14 08:32
+**最后更新时间**: 2025-07-14 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-14 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [MicroStrategy’s stock surges as bitcoin purchases resume, lifting holdings to above 600,000](https://www.marketwatch.com/story/microstrategys-stock-surges-as-bitcoin-buys-resume-lifting-holdings-to-above-600-000-e85b9ce9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 23:20
+
+#### [Robinhood misses out on the S&P 500 yet again, with Trade Desk to soon join the index](https://www.marketwatch.com/story/robinhood-misses-out-on-the-s-p-500-yet-again-with-trade-desk-to-soon-join-the-index-68cc60ec?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 22:27
+
+#### [Are ETFs better than mutual funds?](https://www.marketwatch.com/story/are-etfs-better-than-mutual-funds-1470af6a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 22:24
+
+#### [Alphabet’s latest deal reveals the hottest area of AI right now](https://www.marketwatch.com/story/alphabets-latest-deal-reveals-the-hottest-area-of-ai-right-now-19e162aa?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 21:51
+
+#### [What Powell needs to do now to fend off Trump and keep the Fed independent](https://www.marketwatch.com/story/heres-how-the-fed-can-fight-inflation-and-shield-itself-from-trumps-attacks-2dd76415?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 21:30
+
+#### [Bitcoin briefly eclipses $123,000 as ‘crypto week’ kicks off on Capitol Hill](https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 21:10
+
+#### [This is not a good time to have a bad credit score](https://www.marketwatch.com/story/treat-your-credit-score-with-the-respect-you-would-treat-a-lover-2e1bc245?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 21:08
+
+#### [‘I enjoy vacations to Europe’: I’m 75, have $1 million in an IRA and $2.4 million in real estate. Why do I feel guilty?](https://www.marketwatch.com/story/i-enjoy-vacations-to-europe-im-75-have-1-million-in-an-ira-and-2-4-million-in-real-estate-why-do-i-feel-guilty-c0d0b30a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 21:03
+
+#### [‘We are acquaintances, not friends’: My neighbors need somewhere to stay after a house fire. Do I say yes?](https://www.marketwatch.com/story/we-are-acquaintances-not-friends-my-neighbors-need-somewhere-to-stay-after-a-house-fire-do-i-say-yes-f2c479c6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 20:46
+
+#### [Why U.S. stocks and bonds have ‘healthy’ returns this year despite Trump’s tariff threats](https://www.marketwatch.com/story/why-u-s-stocks-and-bonds-have-healthy-returns-this-year-despite-trumps-tariff-threats-1e0623af?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 20:36
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Robinhood misses out on S&P 500 again, with Trade Desk to soon join the index](https://www.marketwatch.com/bulletins/redirect/go?g=9b6d4f09-6dc8-4e13-a67a-12c5c2a8cb4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 22:29
+
+#### [These stocks are lagging the S&P 500’s record rally. Is it a red flag?](https://www.marketwatch.com/bulletins/redirect/go?g=c3366bee-34ce-437f-a15e-597ba8e12f52&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 21:58
+
+#### [Bitcoin hits all-time high above $123,000 as ‘crypto week’ kicks off in D.C.](https://www.marketwatch.com/bulletins/redirect/go?g=ce989d9b-debf-43ae-ab18-a2c8cafa2d71&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 21:21
+
+#### [Housing market is sending a stark warning to the U.S. economy: Moody’s economist](https://www.marketwatch.com/bulletins/redirect/go?g=056e3e84-833c-49d5-868f-da27147e3e56&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 21:11
+
+#### [How carmakers are getting caught in Trump's fresh tariff threat against the E.U.](https://www.marketwatch.com/bulletins/redirect/go?g=960829ed-0dea-4064-9191-032c471e97f1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 21:02
+
+#### [Housing market is sending a stark warning to the U.S. economy: Moody’s economist](https://www.marketwatch.com/bulletins/redirect/go?g=1b4640b2-b413-4646-ae72-a5cf5d4106f7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 20:36
+
+#### [Nasdaq ends at fresh record high as U.S. stocks climb despite tariff jitters](https://www.marketwatch.com/bulletins/redirect/go?g=01e060c4-8965-43fc-bace-8a37770be856&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 20:06
+
+#### [As Kraft Heinz weighs split, analysts say more food companies need to break up](https://www.marketwatch.com/bulletins/redirect/go?g=c8a87bb8-7c47-4f8f-b9e8-c67e4a1acee5&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 18:56
+
+#### [U.S. stocks and bonds have ‘healthy’ returns in 2025 despite tariff threats](https://www.marketwatch.com/bulletins/redirect/go?g=fee3d78c-132f-4f99-8cf9-3b59937402a0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 16:47
+
+#### [MicroStrategy’s stock surges as bitcoin buying resumes](https://www.marketwatch.com/bulletins/redirect/go?g=b17a1822-c39c-4130-8148-92b1343c37e1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 14:52
 
 ---
 

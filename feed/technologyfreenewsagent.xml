@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Jul 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 08:32:47 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 23:21:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌 170 亿收编 Windsurf，硅谷 「AI 挖人」白热化，99% 的钱流向 1% 的人</title>
-      <link>http://www.geekpark.net/news/351511</link>
-      <description>&lt;![CDATA[谷歌 170 亿收编 Windsurf，硅谷 「AI 挖人」白热化，99% 的钱流向 1% 的人]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351511</guid>
+      <title>一文看懂Grok 4及“多智能体内生化”的AI新范式</title>
+      <link>https://www.tmtpost.com/7625307.html</link>
+      <description>&lt;![CDATA[一文看懂Grok 4及“多智能体内生化”的AI新范式]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7625307.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>得物新一代可观测性架构：海量数据下的存算分离设计与实践</title>
-      <link>https://www.infoq.cn/article/XM2yRLQAGRRm786vu86N?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[得物新一代可观测性架构：海量数据下的存算分离设计与实践]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XM2yRLQAGRRm786vu86N?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kimi K2发布两天即“封神”？80%成本优势追平Claude 4、打趴“全球最强AI”，架构与DeepSeek相似！</title>
+      <link>https://www.infoq.cn/article/PGCLTgQWBqs8wHICzdC0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kimi K2发布两天即“封神”？80%成本优势追平Claude 4、打趴“全球最强AI”，架构与DeepSeek相似！]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PGCLTgQWBqs8wHICzdC0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Arm可伸缩矩阵扩展2即将登陆Android，以加速设备上的AI</title>
-      <link>https://www.infoq.cn/article/0uuqIcYRG9ykYTjG2zGD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Arm可伸缩矩阵扩展2即将登陆Android，以加速设备上的AI]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0uuqIcYRG9ykYTjG2zGD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>高估值背后，GPU靠什么撑？</title>
+      <link>https://www.tmtpost.com/7625193.html</link>
+      <description>&lt;![CDATA[高估值背后，GPU靠什么撑？]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7625193.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>揭秘字节跳动内部流量调度与容灾实践【下】</title>
-      <link>https://www.infoq.cn/article/IzDzFEbF6IeT877zH0RU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[揭秘字节跳动内部流量调度与容灾实践【下】]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IzDzFEbF6IeT877zH0RU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>扎克伯格挖角苹果，集齐9大华裔AI天才</title>
+      <link>https://www.tmtpost.com/7625162.html</link>
+      <description>&lt;![CDATA[扎克伯格挖角苹果，集齐9大华裔AI天才]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7625162.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix自研标题发布可观测性系统：在全球范围内验证标题可用性</title>
-      <link>https://www.infoq.cn/article/AsjhtAmccMFB5vsUs1fk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix自研标题发布可观测性系统：在全球范围内验证标题可用性]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AsjhtAmccMFB5vsUs1fk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Tesla’s Autopilot is under scrutiny in a rare jury trial</title>
+      <link>https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida</link>
+      <description>&lt;![CDATA[Tesla’s Autopilot is under scrutiny in a rare jury trial]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker Desktop 4.43扩展了Model Runner并带来了新的Compose Kubernetes Bridge</title>
-      <link>https://www.infoq.cn/article/RcphJVGLR8eGtemd5Olt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker Desktop 4.43扩展了Model Runner并带来了新的Compose Kubernetes Bridge]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RcphJVGLR8eGtemd5Olt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells</title>
+      <link>https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/</link>
+      <description>&lt;![CDATA[GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Singapore Emerges as Global Launchpad for Chinese AI Startups Amid Explosive Growth</title>
-      <link>https://www.tmtpost.com/7625190.html</link>
-      <description>&lt;![CDATA[Singapore Emerges as Global Launchpad for Chinese AI Startups Amid Explosive Growth]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7625190.html</guid>
+      <title>US government announces $200 million Grok contract a week after ‘MechaHitler’ incident</title>
+      <link>https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract</link>
+      <description>&lt;![CDATA[US government announces $200 million Grok contract a week after ‘MechaHitler’ incident]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 17:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 时代的本地知识管理往何处去？评 DEVONthink 4.0</title>
-      <link>https://sspai.com/post/100991</link>
-      <description>&lt;![CDATA[AI 时代的本地知识管理往何处去？评 DEVONthink 4.0]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/100991</guid>
+      <title>Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs</title>
+      <link>https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support</link>
+      <description>&lt;![CDATA[Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产算力软件服务商「清程极智」再获过亿元融资</title>
-      <link>https://www.infoq.cn/article/47BhAXSQRqk8XDcVTLyU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[国产算力软件服务商「清程极智」再获过亿元融资]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/47BhAXSQRqk8XDcVTLyU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>甲骨文副总裁吴承杨：AI放大了数据优势，数据融合至关重要</title>
+      <link>https://www.infoq.cn/article/1Heb9M1QAa69zGfmUOKy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[甲骨文副总裁吴承杨：AI放大了数据优势，数据融合至关重要]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1Heb9M1QAa69zGfmUOKy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Manus为什么要去“中国化”？</title>
-      <link>http://www.huxiu.com/article/4573862.html?f=wangzhan</link>
-      <description>&lt;![CDATA[Manus为什么要去“中国化”？]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4573862.html?f=wangzhan</guid>
+      <title>瑞士生物科技公司Numab Therapeutics研发多特异性抗体药物，提升癌症与炎症治愈率 | 瑞士创新100强</title>
+      <link>https://www.tmtpost.com/7625728.html</link>
+      <description>&lt;![CDATA[瑞士生物科技公司Numab Therapeutics研发多特异性抗体药物，提升癌症与炎症治愈率 | 瑞士创新100强]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 07:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7625728.html</guid>
       <category>Technology</category>
     </item>
   </channel>

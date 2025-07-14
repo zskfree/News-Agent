@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-14 08:32
+**最后更新时间**: 2025-07-14 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-14 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [AI下半场的「Game Changer」，直让老外惊呼「Amazing」](https://www.jiqizhixin.com/articles/2025-07-14-11)
+**发布时间**: 2025-07-14 20:41
+
+#### [智源RoboBrain 2.0+RoboOS 2.0双发：问鼎评测基准最强具身大脑，刷新跨本体多机协作技术范式](https://www.jiqizhixin.com/articles/2025-07-14-10)
+**发布时间**: 2025-07-14 20:31
+
+#### [ICCV 2025 | 清华&腾讯混元X发现「视觉头」机制：仅5%注意力头负责多模态视觉理解](https://www.jiqizhixin.com/articles/2025-07-14-9)
+**发布时间**: 2025-07-14 20:19
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: California’s AI power plans, and and why it’s so hard to make welfare AI fair](https://www.technologyreview.com/2025/07/14/1120071/the-download-californias-ai-power-plans-and-and-why-its-so-hard-to-make-welfare-ai-fair/)
+**发布时间**: 2025-07-14 12:10
+
+#### [California is set to become the first US state to manage power outages with AI](https://www.technologyreview.com/2025/07/14/1120027/california-set-to-manage-power-outages-with-ai/)
+**发布时间**: 2025-07-14 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [完美世界预计2025上半年扭亏为盈 盈利4.8~5.2亿元](https://www.qbitai.com/2025/07/308902.html)
+**发布时间**: 2025-07-14 09:02
 
 ---
 

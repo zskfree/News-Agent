@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Jul 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 08:32:47 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 23:21:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>夜场预告 | WAIC UP!之夜：不是大会延长时，而是另一种打开AI的方式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-14-8</link>
-      <description>&lt;![CDATA[夜场预告 | WAIC UP!之夜：不是大会延长时，而是另一种打开AI的方式]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-8</guid>
+      <title>AI下半场的「Game Changer」，直让老外惊呼「Amazing」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-11</link>
+      <description>&lt;![CDATA[AI下半场的「Game Changer」，直让老外惊呼「Amazing」]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>智能科学实验室加速未来科学发现，首版仿真智驱实验室LabUtopia发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-14-7</link>
-      <description>&lt;![CDATA[智能科学实验室加速未来科学发现，首版仿真智驱实验室LabUtopia发布]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-7</guid>
+      <title>智源RoboBrain 2.0+RoboOS 2.0双发：问鼎评测基准最强具身大脑，刷新跨本体多机协作技术范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-10</link>
+      <description>&lt;![CDATA[智源RoboBrain 2.0+RoboOS 2.0双发：问鼎评测基准最强具身大脑，刷新跨本体多机协作技术范式]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 20:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>不用抗生素也能抗菌！AI设计新型蛋白质抵御细菌耐药性｜Nature子刊</title>
-      <link>https://www.qbitai.com/2025/07/308876.html</link>
-      <description>&lt;![CDATA[不用抗生素也能抗菌！AI设计新型蛋白质抵御细菌耐药性｜Nature子刊]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 07:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308876.html</guid>
+      <title>ICCV 2025 | 清华&amp;腾讯混元X发现「视觉头」机制：仅5%注意力头负责多模态视觉理解</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-14-9</link>
+      <description>&lt;![CDATA[ICCV 2025 | 清华&amp;腾讯混元X发现「视觉头」机制：仅5%注意力头负责多模态视觉理解]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 20:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-14-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>WDTA发布全球首个AI智能体运行安全测试标准，蚂蚁集团、清华大学等联合编制</title>
-      <link>https://www.qbitai.com/2025/07/308867.html</link>
-      <description>&lt;![CDATA[WDTA发布全球首个AI智能体运行安全测试标准，蚂蚁集团、清华大学等联合编制]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308867.html</guid>
+      <title>The Download: California’s AI power plans, and and why it’s so hard to make welfare AI fair</title>
+      <link>https://www.technologyreview.com/2025/07/14/1120071/the-download-californias-ai-power-plans-and-and-why-its-so-hard-to-make-welfare-ai-fair/</link>
+      <description>&lt;![CDATA[The Download: California’s AI power plans, and and why it’s so hard to make welfare AI fair]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/14/1120071/the-download-californias-ai-power-plans-and-and-why-its-so-hard-to-make-welfare-ai-fair/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中国技术助力全球数字安全 蚂蚁数科联合国分享AI打假经验</title>
-      <link>https://www.qbitai.com/2025/07/308856.html</link>
-      <description>&lt;![CDATA[中国技术助力全球数字安全 蚂蚁数科联合国分享AI打假经验]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 06:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308856.html</guid>
+      <title>California is set to become the first US state to manage power outages with AI</title>
+      <link>https://www.technologyreview.com/2025/07/14/1120027/california-set-to-manage-power-outages-with-ai/</link>
+      <description>&lt;![CDATA[California is set to become the first US state to manage power outages with AI]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/14/1120027/california-set-to-manage-power-outages-with-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>抱抱脸进军具身智能机器人: 5小时成交破百万，299美元起售</title>
-      <link>https://www.qbitai.com/2025/07/308843.html</link>
-      <description>&lt;![CDATA[抱抱脸进军具身智能机器人: 5小时成交破百万，299美元起售]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308843.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>具身智能大脑+首个SaaS开源框架，智源研究院刷新10项测评基准，加速群体智能新范式</title>
-      <link>https://www.qbitai.com/2025/07/308809.html</link>
-      <description>&lt;![CDATA[具身智能大脑+首个SaaS开源框架，智源研究院刷新10项测评基准，加速群体智能新范式]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308809.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>密室逃脱成AI新考场，通关率不足50%，暴露空间推理短板丨清华ICCV25</title>
-      <link>https://www.qbitai.com/2025/07/308810.html</link>
-      <description>&lt;![CDATA[密室逃脱成AI新考场，通关率不足50%，暴露空间推理短板丨清华ICCV25]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 06:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308810.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>7B模型对标GPT-4o，全球首个医疗代码生成大模型训练平台来了</title>
-      <link>https://www.qbitai.com/2025/07/308780.html</link>
-      <description>&lt;![CDATA[7B模型对标GPT-4o，全球首个医疗代码生成大模型训练平台来了]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 05:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308780.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>蔚来李斌：祝理想i8大卖，只要选纯电就是队友</title>
-      <link>https://www.qbitai.com/2025/07/308760.html</link>
-      <description>&lt;![CDATA[蔚来李斌：祝理想i8大卖，只要选纯电就是队友]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 05:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308760.html</guid>
+      <title>完美世界预计2025上半年扭亏为盈 盈利4.8~5.2亿元</title>
+      <link>https://www.qbitai.com/2025/07/308902.html</link>
+      <description>&lt;![CDATA[完美世界预计2025上半年扭亏为盈 盈利4.8~5.2亿元]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/308902.html</guid>
       <category>AI</category>
     </item>
   </channel>

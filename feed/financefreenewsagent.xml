@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Jul 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 08:32:47 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 23:21:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>It’s ‘crypto week’ and bitcoin is flying higher, passing $120,000</title>
-      <link>https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[It’s ‘crypto week’ and bitcoin is flying higher, passing $120,000]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 08:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/its-crypto-week-and-bitcoin-is-flying-higher-passing-120-000-cb621dee?mod=mw_rss_topstories</guid>
+      <title>What Powell needs to do now to fend off Trump and keep the Fed independent</title>
+      <link>https://www.marketwatch.com/story/heres-how-the-fed-can-fight-inflation-and-shield-itself-from-trumps-attacks-2dd76415?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[What Powell needs to do now to fend off Trump and keep the Fed independent]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 21:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-how-the-fed-can-fight-inflation-and-shield-itself-from-trumps-attacks-2dd76415?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Housing market is sending a stark warning to the U.S. economy: Moody’s economist</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=056e3e84-833c-49d5-868f-da27147e3e56&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Housing market is sending a stark warning to the U.S. economy: Moody’s economist]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 21:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=056e3e84-833c-49d5-868f-da27147e3e56&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Are ETFs better than mutual funds?</title>
+      <link>https://www.marketwatch.com/story/are-etfs-better-than-mutual-funds-1470af6a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Are ETFs better than mutual funds?]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 22:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/are-etfs-better-than-mutual-funds-1470af6a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Alphabet’s latest deal reveals the hottest area of AI right now</title>
+      <link>https://www.marketwatch.com/story/alphabets-latest-deal-reveals-the-hottest-area-of-ai-right-now-19e162aa?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Alphabet’s latest deal reveals the hottest area of AI right now]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/alphabets-latest-deal-reveals-the-hottest-area-of-ai-right-now-19e162aa?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>MicroStrategy’s stock surges as bitcoin purchases resume, lifting holdings to above 600,000</title>
+      <link>https://www.marketwatch.com/story/microstrategys-stock-surges-as-bitcoin-buys-resume-lifting-holdings-to-above-600-000-e85b9ce9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[MicroStrategy’s stock surges as bitcoin purchases resume, lifting holdings to above 600,000]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/microstrategys-stock-surges-as-bitcoin-buys-resume-lifting-holdings-to-above-600-000-e85b9ce9?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why U.S. stocks and bonds have ‘healthy’ returns this year despite Trump’s tariff threats</title>
+      <link>https://www.marketwatch.com/story/why-u-s-stocks-and-bonds-have-healthy-returns-this-year-despite-trumps-tariff-threats-1e0623af?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why U.S. stocks and bonds have ‘healthy’ returns this year despite Trump’s tariff threats]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 20:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-u-s-stocks-and-bonds-have-healthy-returns-this-year-despite-trumps-tariff-threats-1e0623af?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How carmakers are getting caught in Trump's fresh tariff threat against the E.U.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=960829ed-0dea-4064-9191-032c471e97f1&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[How carmakers are getting caught in Trump's fresh tariff threat against the E.U.]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=960829ed-0dea-4064-9191-032c471e97f1&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>As Kraft Heinz weighs split, analysts say more food companies need to break up</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=c8a87bb8-7c47-4f8f-b9e8-c67e4a1acee5&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[As Kraft Heinz weighs split, analysts say more food companies need to break up]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 18:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=c8a87bb8-7c47-4f8f-b9e8-c67e4a1acee5&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Robinhood misses out on the S&amp;P 500 yet again, with Trade Desk to soon join the index</title>
+      <link>https://www.marketwatch.com/story/robinhood-misses-out-on-the-s-p-500-yet-again-with-trade-desk-to-soon-join-the-index-68cc60ec?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Robinhood misses out on the S&amp;P 500 yet again, with Trade Desk to soon join the index]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 22:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/robinhood-misses-out-on-the-s-p-500-yet-again-with-trade-desk-to-soon-join-the-index-68cc60ec?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These stocks are lagging the S&amp;P 500’s record rally. Is it a red flag?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=c3366bee-34ce-437f-a15e-597ba8e12f52&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[These stocks are lagging the S&amp;P 500’s record rally. Is it a red flag?]]&gt;</description>
+      <pubDate>Mon, 14 Jul 2025 21:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=c3366bee-34ce-437f-a15e-597ba8e12f52&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>
