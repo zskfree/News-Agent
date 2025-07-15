@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Jul 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 08:31:01 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 23:21:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型合辑 | 主权高墙还是开源洪流，技术路线生死竞速，WAIC 2025大模型论坛亮点前瞻</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-13</link>
-      <description>&lt;![CDATA[大模型合辑 | 主权高墙还是开源洪流，技术路线生死竞速，WAIC 2025大模型论坛亮点前瞻]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-13</guid>
+      <title>这个AI精准模拟人类行为大脑状态，上Nature了</title>
+      <link>https://www.qbitai.com/2025/07/309763.html</link>
+      <description>&lt;![CDATA[这个AI精准模拟人类行为大脑状态，上Nature了]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309763.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>南大等8家单位，38页、400+参考文献，物理模拟器与世界模型驱动的机器人具身智能综述</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-8</link>
-      <description>&lt;![CDATA[南大等8家单位，38页、400+参考文献，物理模拟器与世界模型驱动的机器人具身智能综述]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-8</guid>
+      <title>MIRIX重塑AI多模态长期记忆：超Gemini 410%，节省99.9%内存，APP同步上线</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-16</link>
+      <description>&lt;![CDATA[MIRIX重塑AI多模态长期记忆：超Gemini 410%，节省99.9%内存，APP同步上线]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 16:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-16</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>央企牵头！这个AI开源社区要让大模型跑遍「中国芯」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-11</link>
-      <description>&lt;![CDATA[央企牵头！这个AI开源社区要让大模型跑遍「中国芯」]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-11</guid>
+      <title>Google’s generative video model Veo 3 has a subtitles problem</title>
+      <link>https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/</link>
+      <description>&lt;![CDATA[Google’s generative video model Veo 3 has a subtitles problem]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科学智能合辑｜AI会成为科学发现的同道者，还是只是统计上更聪明的螺丝刀？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-14</link>
-      <description>&lt;![CDATA[科学智能合辑｜AI会成为科学发现的同道者，还是只是统计上更聪明的螺丝刀？]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-14</guid>
+      <title>只因一个“：”，大模型全军覆没</title>
+      <link>https://www.qbitai.com/2025/07/309708.html</link>
+      <description>&lt;![CDATA[只因一个“：”，大模型全军覆没]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 09:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309708.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>卡帕西预言成真！华人团队开源全AI操作系统</title>
-      <link>https://www.qbitai.com/2025/07/309398.html</link>
-      <description>&lt;![CDATA[卡帕西预言成真！华人团队开源全AI操作系统]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 06:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309398.html</guid>
+      <title>The Download: combating audio deepfakes, and AI in the classroom</title>
+      <link>https://www.technologyreview.com/2025/07/15/1120151/the-download-combating-audio-deepfakes-and-ai-in-the-classroom/</link>
+      <description>&lt;![CDATA[The Download: combating audio deepfakes, and AI in the classroom]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120151/the-download-combating-audio-deepfakes-and-ai-in-the-classroom/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>什么都不做就能得分？智能体基准测试出现大问题</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-9</link>
-      <description>&lt;![CDATA[什么都不做就能得分？智能体基准测试出现大问题]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-9</guid>
+      <title>AI text-to-speech programs could “unlearn” how to imitate certain people</title>
+      <link>https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/</link>
+      <description>&lt;![CDATA[AI text-to-speech programs could “unlearn” how to imitate certain people]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>精确捕捉疾病进程中细胞动力学变化，生成式平台UNAGI准确模拟药物扰动</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-6</link>
-      <description>&lt;![CDATA[精确捕捉疾病进程中细胞动力学变化，生成式平台UNAGI准确模拟药物扰动]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-6</guid>
+      <title>AI’s giants want to take over the classroom</title>
+      <link>https://www.technologyreview.com/2025/07/15/1120086/ais-giants-want-to-take-over-the-classroom/</link>
+      <description>&lt;![CDATA[AI’s giants want to take over the classroom]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120086/ais-giants-want-to-take-over-the-classroom/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>智能终端合辑 | WAIC 2025：AI赋能智能终端的产业革新</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-15</link>
-      <description>&lt;![CDATA[智能终端合辑 | WAIC 2025：AI赋能智能终端的产业革新]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-15</guid>
+      <title>Finding value with AI automation</title>
+      <link>https://www.technologyreview.com/2025/07/15/1119978/finding-value-with-ai-automation/</link>
+      <description>&lt;![CDATA[Finding value with AI automation]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 17:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1119978/finding-value-with-ai-automation/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>元科学可以改进科学——但它也必须对社会有用</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-7</link>
-      <description>&lt;![CDATA[元科学可以改进科学——但它也必须对社会有用]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-7</guid>
+      <title>Shaping the future with adaptive production</title>
+      <link>https://www.technologyreview.com/2025/07/15/1120083/shaping-the-future-with-adaptive-production/</link>
+      <description>&lt;![CDATA[Shaping the future with adaptive production]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120083/shaping-the-future-with-adaptive-production/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025杰出论文出炉：8篇获奖，南大研究者榜上有名</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-10</link>
-      <description>&lt;![CDATA[ICML 2025杰出论文出炉：8篇获奖，南大研究者榜上有名]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 14:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-10</guid>
+      <title>马斯克Grok这个二次元「小姐姐」，攻陷了整个互联网</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-17</link>
+      <description>&lt;![CDATA[马斯克Grok这个二次元「小姐姐」，攻陷了整个互联网]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 16:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-17</guid>
       <category>AI</category>
     </item>
   </channel>

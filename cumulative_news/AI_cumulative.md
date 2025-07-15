@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-15 08:30
+**最后更新时间**: 2025-07-15 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-15 23:20)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Finding value with AI automation](https://www.technologyreview.com/2025/07/15/1119978/finding-value-with-ai-automation/)
+**发布时间**: 2025-07-15 17:36
+
+#### [Shaping the future with adaptive production](https://www.technologyreview.com/2025/07/15/1120083/shaping-the-future-with-adaptive-production/)
+**发布时间**: 2025-07-15 15:32
+
+#### [Google’s generative video model Veo 3 has a subtitles problem](https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/)
+**发布时间**: 2025-07-15 14:40
+
+#### [Building community and clean air solutions](https://www.technologyreview.com/2025/07/15/1117644/building-community-and-clean-air-solutions/)
+**发布时间**: 2025-07-15 14:00
+
+#### [The Download: combating audio deepfakes, and AI in the classroom](https://www.technologyreview.com/2025/07/15/1120151/the-download-combating-audio-deepfakes-and-ai-in-the-classroom/)
+**发布时间**: 2025-07-15 12:10
+
+#### [AI text-to-speech programs could “unlearn” how to imitate certain people](https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/)
+**发布时间**: 2025-07-15 10:00
+
+#### [AI’s giants want to take over the classroom](https://www.technologyreview.com/2025/07/15/1120086/ais-giants-want-to-take-over-the-classroom/)
+**发布时间**: 2025-07-15 09:00
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [马斯克Grok这个二次元「小姐姐」，攻陷了整个互联网](https://www.jiqizhixin.com/articles/2025-07-15-17)
+**发布时间**: 2025-07-15 16:54
+
+#### [MIRIX重塑AI多模态长期记忆：超Gemini 410%，节省99.9%内存，APP同步上线](https://www.jiqizhixin.com/articles/2025-07-15-16)
+**发布时间**: 2025-07-15 16:44
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [这个AI精准模拟人类行为大脑状态，上Nature了](https://www.qbitai.com/2025/07/309763.html)
+**发布时间**: 2025-07-15 09:37
+
+#### [只因一个“：”，大模型全军覆没](https://www.qbitai.com/2025/07/309708.html)
+**发布时间**: 2025-07-15 09:15
+
+#### [刘璐也被Meta挖走了！华南理工校友，创造了4o吉卜力爆款](https://www.qbitai.com/2025/07/309651.html)
+**发布时间**: 2025-07-15 09:11
+
+#### [国产Deep Research杀出一匹「裸奔」黑马：免费开放，过程透明，网页报告一键即出](https://www.qbitai.com/2025/07/309591.html)
+**发布时间**: 2025-07-15 07:49
+
+#### [AI重塑游戏未来：79%开发者拥抱，8大环节迎革新｜AI+游戏产业变革研究报告发布](https://www.qbitai.com/2025/07/309428.html)
+**发布时间**: 2025-07-15 07:40
 
 ---
 

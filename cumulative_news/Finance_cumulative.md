@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-15 05:26
+**最后更新时间**: 2025-07-15 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-15 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Home insurance costs soar. Another looming threat could make things even worse.](https://www.marketwatch.com/bulletins/redirect/go?g=7fe5044e-368f-4e70-972b-f9384872da7d&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 23:06
+
+#### [This shortcut to going public is making a comeback after an epic bust](https://www.marketwatch.com/bulletins/redirect/go?g=57d59a39-043f-4729-99a9-a2c303f92dfd&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 21:41
+
+#### [S&P 500 stumbles after hitting intraday high — the downside of a narrow rally](https://www.marketwatch.com/bulletins/redirect/go?g=5f16f131-798a-42f3-88b4-db7658f13e8e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 20:56
+
+#### [Dow falls over 400 points after June CPI, but chip stocks power Nasdaq to record](https://www.marketwatch.com/bulletins/redirect/go?g=33519c4c-5acc-41d4-81b1-2926a51c7825&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 20:06
+
+#### [Bond market sends troubling signal on inflation that should concern investors](https://www.marketwatch.com/bulletins/redirect/go?g=4b074f35-8b7b-40c2-bbf0-14d0283f291b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 18:58
+
+#### [Is Nvidia’s breakthrough in China the latest Trump ‘TACO’?](https://www.marketwatch.com/bulletins/redirect/go?g=bebc22f7-3a38-49c9-a1f3-dd331f289259&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 16:00
+
+#### [How Tim Cook is still the man to lead Apple — even in the AI era](https://www.marketwatch.com/bulletins/redirect/go?g=a606eb30-593e-4eb5-a14b-68232e493366&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 14:58
+
+#### [What is it like — and what would it cost — to retire on a cruise ship?](https://www.marketwatch.com/bulletins/redirect/go?g=0efabd50-3d57-4085-9706-690306d84f33&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 14:22
+
+#### [CPI report: Sharpest inflation pickup in five months could keep Fed sidelined](https://www.marketwatch.com/bulletins/redirect/go?g=695b5f6b-825d-4278-912f-c5caa1e54855&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 12:43
+
+#### [Economic calendar: Empire State data and Fed talk to follow CPI report](https://www.marketwatch.com/bulletins/redirect/go?g=9c70541f-1ffe-41b6-b81f-b7f688da8793&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 12:24
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A warning for all Americans — this is not a good time to put things on credit](https://www.marketwatch.com/story/treat-your-credit-score-with-the-respect-you-would-treat-a-lover-2e1bc245?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 22:28
+
+#### [MicroStrategy’s stock pulls back, and Wall Street’s only bear makes his case](https://www.marketwatch.com/story/microstrategys-stock-pulls-back-and-wall-streets-only-bear-makes-his-case-aec553ac?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 22:15
+
+#### [Nvidia’s stock pops as China win may pave path to $5 trillion market cap — and beyond](https://www.marketwatch.com/story/nvidias-stock-pops-as-china-win-may-pave-the-way-for-5-trillion-market-cap-and-beyond-e071d628?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 22:12
+
+#### [Home Run Derby finalists Cal Raleigh and Junior Caminero just doubled their salaries. Here’s how much the All-Star hitters are taking home.](https://www.marketwatch.com/story/home-run-derby-finalists-cal-raleigh-and-junior-caminero-just-doubled-their-salaries-heres-how-much-the-all-star-hitters-are-taking-home-15dd98e2?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 21:23
+
+#### [Albertsons shows why tariff inflation isn’t showing up yet](https://www.marketwatch.com/story/albertsons-shows-why-tariff-inflation-isnt-showing-up-yet-ec888c86?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 21:21
+
+#### [Rocket Lab’s stock has surged to record highs — here’s why](https://www.marketwatch.com/story/rocket-labs-stock-has-hit-an-all-time-high-heres-why-1d475727?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 21:10
+
+#### [​Has your job search become soul-crushing? 5 ways to land your next gig.](https://www.marketwatch.com/story/how-to-restart-your-career-after-a-wave-of-job-rejections-67323ac4?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 21:05
+
+#### [This shortcut to going public is making a comeback after an epic bust. What investors need to know.](https://www.marketwatch.com/story/this-shortcut-to-going-public-is-making-a-comeback-after-an-epic-bust-what-investors-need-to-know-b2529c98?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 20:54
+
+#### [JPMorgan’s Jamie Dimon on stablecoins: ‘I think they’re real,’ but why use them?](https://www.marketwatch.com/story/jpmorgans-jamie-dimon-on-stablecoins-i-think-theyre-real-but-why-use-them-b0195bad?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 20:44
+
+#### [S&P 500 stumbles after hitting intraday high — the downside of a narrow rally](https://www.marketwatch.com/story/s-p-500-stumbles-after-hitting-intraday-high-the-downside-of-a-narrow-rally-94a12761?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 20:42
 
 ---
 

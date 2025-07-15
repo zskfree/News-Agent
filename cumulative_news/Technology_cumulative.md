@@ -1,7 +1,145 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-15 08:30
+**最后更新时间**: 2025-07-15 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-15 23:20)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [I Tried Grok's Built-In Anime Companion and It Called Me a Twat](https://www.wired.com/story/elon-musk-xai-ai-companion-ani/)
+**发布时间**: 2025-07-15 23:05
+
+#### [Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders](https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/)
+**发布时间**: 2025-07-15 22:02
+
+#### [The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out](https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/)
+**发布时间**: 2025-07-15 19:40
+
+#### [The 54 Best Shows on Disney+ Right Now (July 2025)](https://www.wired.com/story/best-shows-disney-plus/)
+**发布时间**: 2025-07-15 19:00
+
+#### [Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse](https://www.wired.com/story/palmer-luckey-joe-lonsdale-bank-erebor/)
+**发布时间**: 2025-07-15 17:29
+
+#### [Best Yoga Mat (2025), Tested and Reviewed](https://www.wired.com/gallery/the-best-yoga-mats/)
+**发布时间**: 2025-07-15 12:30
+
+#### [6 Best Android Tablets (2025), Tested and Reviewed](https://www.wired.com/gallery/best-android-tablets/)
+**发布时间**: 2025-07-15 12:02
+
+#### [Our Favorite Bottle Washers for Keeping Your Baby Bottles Safe and Clean (2025)](https://www.wired.com/gallery/best-bottle-washers/)
+**发布时间**: 2025-07-15 11:39
+
+#### [This Guy Attached 21 Chef’s Knives to a Slicing Robot Arm to Determine Which One Is Best](https://www.wired.com/story/quantified-knife-project/)
+**发布时间**: 2025-07-15 11:00
+
+#### [Do You Need a Box Spring for Your Modern-Day Mattress? (2025)](https://www.wired.com/story/do-you-need-a-box-spring/)
+**发布时间**: 2025-07-15 10:32
+
+#### [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)
+**发布时间**: 2025-07-15 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+**发布时间**: 2025-07-15 22:05
+
+#### [To make Ironheart feel tactile, the show&#8217;s creative team had to get on the same page](https://www.theverge.com/tv/707329/ironheart-alison-kelly-interview)
+**发布时间**: 2025-07-15 21:15
+
+#### [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)
+**发布时间**: 2025-07-15 20:46
+
+#### [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)
+**发布时间**: 2025-07-15 20:25
+
+#### [Adidas now offers a laced version of its 3D-printed shoes](https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed)
+**发布时间**: 2025-07-15 19:44
+
+#### [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+**发布时间**: 2025-07-15 19:22
+
+#### [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+**发布时间**: 2025-07-15 18:16
+
+#### [Analogue’s 4K N64 has been delayed again, but only by a month](https://www.theverge.com/news/707586/analogue-3d-4k-n64-delay-august-2025)
+**发布时间**: 2025-07-15 18:00
+
+#### [Sony’s pocket-sized RX1R camera returns with its first update in 10 years](https://www.theverge.com/news/707589/sony-rx1r-iii-digital-compact-pocket-camera)
+**发布时间**: 2025-07-15 17:57
+
+#### [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)
+**发布时间**: 2025-07-15 17:43
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海外资产接连爆雷，日发精机溢价并购反噬难消](https://www.tmtpost.com/7626993.html)
+**发布时间**: 2025-07-15 19:25
+
+#### [石头科技洗衣机裁员，“家电新势力“不行了？](https://www.tmtpost.com/7625541.html)
+**发布时间**: 2025-07-15 19:13
+
+#### [回归一百天：叶军离职，吴泳铭无招能否再造新钉钉](https://www.tmtpost.com/7625542.html)
+**发布时间**: 2025-07-15 19:13
+
+#### [第一批AI硬件已经失败了](https://www.tmtpost.com/7627022.html)
+**发布时间**: 2025-07-15 19:13
+
+#### [镁伽科技：8年“烧光”26.63亿元，经营性现金流长期“失血”｜IPO观察](https://www.tmtpost.com/7625137.html)
+**发布时间**: 2025-07-15 18:49
+
+#### [白酒“降度潮”再现，行业自救还是跟风虚火？| 行业风向标](https://www.tmtpost.com/7626997.html)
+**发布时间**: 2025-07-15 18:40
+
+#### [汽配在欧洲持续爆发](https://www.tmtpost.com/7626523.html)
+**发布时间**: 2025-07-15 18:02
+
+#### [“AI六小虎”开抢IPO，MiniMax要超智谱？](https://www.tmtpost.com/7626644.html)
+**发布时间**: 2025-07-15 18:02
+
+#### [无人物流车正欲狂奔街头，黄石一纸叫停为哪般？](https://www.tmtpost.com/7626819.html)
+**发布时间**: 2025-07-15 18:02
+
+#### [AI学习机在“下沉”](https://www.tmtpost.com/7626848.html)
+**发布时间**: 2025-07-15 18:02
+
+#### [AI时代的荒诞叙事：当音乐人不再是“人”](https://www.tmtpost.com/7626902.html)
+**发布时间**: 2025-07-15 18:02
+
+#### [对话哈啰Robotaxi首席科学家：进场第一步，打造无人出租车的聚合平台](https://www.tmtpost.com/7626849.html)
+**发布时间**: 2025-07-15 17:38
+
+#### [昊创瑞通：智能配电技术领航，扬帆新型电力万亿市场](https://www.tmtpost.com/7626755.html)
+**发布时间**: 2025-07-15 17:01
+
+#### [“平安行”抚平出行焦虑](https://www.tmtpost.com/7626057.html)
+**发布时间**: 2025-07-15 16:50
+
+#### [德固特“蛇吞象”重组疑点：突击减持藏玄机，实控人退休年龄挑战高风险创业｜并购一线](https://www.tmtpost.com/7626245.html)
+**发布时间**: 2025-07-15 16:40
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [一个 200 美元的 AI 浏览器，想重新教会我「上网」](http://www.geekpark.net/news/351558)
+**发布时间**: 2025-07-15 18:53
+
+#### [月活接近2亿，红果短剧即将超越优酷](http://www.geekpark.net/news/351556)
+**发布时间**: 2025-07-15 18:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [快手高欢深度解读：多模态理解如何成为AIGC视频生成的“幕后功臣”？](https://www.infoq.cn/article/SVkKTARPVRGZX68LVrWe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-15 17:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 101 | 一周热评、新玩意，以及派友们的浏览器标签页整理术](https://sspai.com/post/101052)
+**发布时间**: 2025-07-15 16:58
+
+#### [「世界主宰」的掌机之路：岩田聪与任天堂 DS](https://sspai.com/post/71848)
+**发布时间**: 2025-07-15 15:53
 
 ---
 
