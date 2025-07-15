@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Jul 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 05:27:00 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 08:31:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>上海交大/上海AI Lab翟广涛：当评测不再重要，AGI就实现了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-5</link>
-      <description>&lt;![CDATA[上海交大/上海AI Lab翟广涛：当评测不再重要，AGI就实现了]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 11:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-5</guid>
+      <title>大模型合辑 | 主权高墙还是开源洪流，技术路线生死竞速，WAIC 2025大模型论坛亮点前瞻</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-13</link>
+      <description>&lt;![CDATA[大模型合辑 | 主权高墙还是开源洪流，技术路线生死竞速，WAIC 2025大模型论坛亮点前瞻]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025 | M+框架来了，增加LLM隐空间记忆，不再受上下文窗口限制</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-3</link>
-      <description>&lt;![CDATA[ICML 2025 | M+框架来了，增加LLM隐空间记忆，不再受上下文窗口限制]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-3</guid>
+      <title>南大等8家单位，38页、400+参考文献，物理模拟器与世界模型驱动的机器人具身智能综述</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-8</link>
+      <description>&lt;![CDATA[南大等8家单位，38页、400+参考文献，物理模拟器与世界模型驱动的机器人具身智能综述]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>突发｜动荡72小时后，华人团队Cognition收购Windsurf剩余团队</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-2</link>
-      <description>&lt;![CDATA[突发｜动荡72小时后，华人团队Cognition收购Windsurf剩余团队]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-2</guid>
+      <title>央企牵头！这个AI开源社区要让大模型跑遍「中国芯」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-11</link>
+      <description>&lt;![CDATA[央企牵头！这个AI开源社区要让大模型跑遍「中国芯」]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>比Adam更有效，POET从谱不变原理出发，让LLM训练又稳又快</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15</link>
-      <description>&lt;![CDATA[比Adam更有效，POET从谱不变原理出发，让LLM训练又稳又快]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15</guid>
+      <title>科学智能合辑｜AI会成为科学发现的同道者，还是只是统计上更聪明的螺丝刀？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-14</link>
+      <description>&lt;![CDATA[科学智能合辑｜AI会成为科学发现的同道者，还是只是统计上更聪明的螺丝刀？]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models</title>
-      <link>https://arxiv.org/abs/2507.09955</link>
-      <description>&lt;![CDATA[DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.09955</guid>
+      <title>卡帕西预言成真！华人团队开源全AI操作系统</title>
+      <link>https://www.qbitai.com/2025/07/309398.html</link>
+      <description>&lt;![CDATA[卡帕西预言成真！华人团队开源全AI操作系统]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 06:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309398.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Technical Requirements for Halting Dangerous AI Activities</title>
-      <link>https://arxiv.org/abs/2507.09801</link>
-      <description>&lt;![CDATA[Technical Requirements for Halting Dangerous AI Activities]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.09801</guid>
+      <title>什么都不做就能得分？智能体基准测试出现大问题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-9</link>
+      <description>&lt;![CDATA[什么都不做就能得分？智能体基准测试出现大问题]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Hidden Costs of AI: A Review of Energy, E-Waste, and Inequality in Model Development</title>
-      <link>https://arxiv.org/abs/2507.09611</link>
-      <description>&lt;![CDATA[The Hidden Costs of AI: A Review of Energy, E-Waste, and Inequality in Model Development]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.09611</guid>
+      <title>精确捕捉疾病进程中细胞动力学变化，生成式平台UNAGI准确模拟药物扰动</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-6</link>
+      <description>&lt;![CDATA[精确捕捉疾病进程中细胞动力学变化，生成式平台UNAGI准确模拟药物扰动]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>When Developer Aid Becomes Security Debt: A Systematic Analysis of Insecure Behaviors in LLM Coding Agents</title>
-      <link>https://arxiv.org/abs/2507.09329</link>
-      <description>&lt;![CDATA[When Developer Aid Becomes Security Debt: A Systematic Analysis of Insecure Behaviors in LLM Coding Agents]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.09329</guid>
+      <title>智能终端合辑 | WAIC 2025：AI赋能智能终端的产业革新</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-15</link>
+      <description>&lt;![CDATA[智能终端合辑 | WAIC 2025：AI赋能智能终端的产业革新]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-15</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective</title>
-      <link>https://arxiv.org/abs/2507.09495</link>
-      <description>&lt;![CDATA[GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.09495</guid>
+      <title>元科学可以改进科学——但它也必须对社会有用</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-7</link>
+      <description>&lt;![CDATA[元科学可以改进科学——但它也必须对社会有用]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Is Human-Written Data Enough? The Challenge of Teaching Reasoning to LLMs Without RL or Distillation</title>
-      <link>https://arxiv.org/abs/2507.09850</link>
-      <description>&lt;![CDATA[Is Human-Written Data Enough? The Challenge of Teaching Reasoning to LLMs Without RL or Distillation]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.09850</guid>
+      <title>ICML 2025杰出论文出炉：8篇获奖，南大研究者榜上有名</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-15-10</link>
+      <description>&lt;![CDATA[ICML 2025杰出论文出炉：8篇获奖，南大研究者榜上有名]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-10</guid>
       <category>AI</category>
     </item>
   </channel>

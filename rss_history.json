@@ -2832,6 +2832,72 @@
         "link": "https://arxiv.org/abs/2507.10446",
         "published_date": "Tue, 15 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-15T05:26:30.237853"
+      },
+      "e652a822836c359fc55a141756274604decd7161e98e8080ddfc726454f384f7": {
+        "title": "智能终端合辑 | WAIC 2025：AI赋能智能终端的产业革新",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-15",
+        "published_date": "Tue, 15 Jul 2025 15:27:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814623"
+      },
+      "0c3af1263f03d1c25c2c3955b1327d8002e3bbdc8520046e9a301b30562740ec": {
+        "title": "科学智能合辑｜AI会成为科学发现的同道者，还是只是统计上更聪明的螺丝刀？",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-14",
+        "published_date": "Tue, 15 Jul 2025 15:20:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814587"
+      },
+      "2216eaf69cf2043a6815546070f81ff57a55dcfce4f226bb756119a8ef4f4abd": {
+        "title": "大模型合辑 | 主权高墙还是开源洪流，技术路线生死竞速，WAIC 2025大模型论坛亮点前瞻",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-13",
+        "published_date": "Tue, 15 Jul 2025 15:13:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814544"
+      },
+      "c30ad48f2e71a53a0166d6e0d7acb017dfec61ef405e8c2bb53f111f43ddb04a": {
+        "title": "智能时代，同球共济！2025世界人工智能大会将于7月26日启幕",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-12",
+        "published_date": "Tue, 15 Jul 2025 15:05:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.967216"
+      },
+      "cc732e17ca1f343cace4bdcd43a627666e35f319e96922b27c1836b49e2e0a84": {
+        "title": "央企牵头！这个AI开源社区要让大模型跑遍「中国芯」",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-11",
+        "published_date": "Tue, 15 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814577"
+      },
+      "13bd30cbd8453ff6741a6dc92a17516a4109aeea65ca6e84be8ac2aa59099624": {
+        "title": "ICML 2025杰出论文出炉：8篇获奖，南大研究者榜上有名",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-10",
+        "published_date": "Tue, 15 Jul 2025 14:54:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814641"
+      },
+      "51a7f81b41b33189a812d31f82e49b3fe6f140150021c1b4d58bb91f42b797a1": {
+        "title": "什么都不做就能得分？智能体基准测试出现大问题",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-9",
+        "published_date": "Tue, 15 Jul 2025 14:48:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814605"
+      },
+      "058d005428a221c53a3b31b532f9ff25273b725c48129979e55673561f7d8a93": {
+        "title": "南大等8家单位，38页、400+参考文献，物理模拟器与世界模型驱动的机器人具身智能综述",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-8",
+        "published_date": "Tue, 15 Jul 2025 14:35:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814565"
+      },
+      "5ea419d0d42917b60b600385d760c84be0cfb5bacec34e8ef1deb2409d6390cb": {
+        "title": "元科学可以改进科学——但它也必须对社会有用",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-7",
+        "published_date": "Tue, 15 Jul 2025 14:19:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814631"
+      },
+      "6c673ca93cb001b8849cfba5bd00666e0a29f1765164b76df382eddabe857e0e": {
+        "title": "精确捕捉疾病进程中细胞动力学变化，生成式平台UNAGI准确模拟药物扰动",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-15-6",
+        "published_date": "Tue, 15 Jul 2025 14:17:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814613"
+      },
+      "ad842a803dfa182f8b7c7b89e5c9566b555820d8fc823c9944ce59f461802cb3": {
+        "title": "卡帕西预言成真！华人团队开源全AI操作系统",
+        "link": "https://www.qbitai.com/2025/07/309398.html",
+        "published_date": "Tue, 15 Jul 2025 06:51:00 GMT",
+        "first_seen": "2025-07-15T08:31:01.814595"
       }
     },
     "Technology": {
@@ -7436,6 +7502,132 @@
         "link": "https://www.wired.com/story/peacock-promo-code/",
         "published_date": "Tue, 15 Jul 2025 05:00:00 GMT",
         "first_seen": "2025-07-15T05:26:05.305877"
+      },
+      "34991fe4dfaca6688b4d72543dc1ccec27bd1514ee706629fe35a145adc674e7": {
+        "title": "方建华：高质量发展时代，创投资本驱动创新生态闭环重塑",
+        "link": "https://www.tmtpost.com/7626610.html",
+        "published_date": "Tue, 15 Jul 2025 16:08:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885979"
+      },
+      "f58555851d48f36640ed8869d63ba6e0c095ba4bd4aa9f4685c61636a5a2247e": {
+        "title": "河北前首富没牌硬打",
+        "link": "https://www.tmtpost.com/7626636.html",
+        "published_date": "Tue, 15 Jul 2025 16:08:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.060613"
+      },
+      "9a06e55de2655d4a54d355a658d76a389717b5686b59c58807fb6a888b6f902d": {
+        "title": "刘靓：量化生命，AI+长寿科技助力百岁时代 | 钛资本医疗健康组",
+        "link": "https://www.tmtpost.com/7626660.html",
+        "published_date": "Tue, 15 Jul 2025 16:08:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885937"
+      },
+      "24a4d9940422e0fd428786fc3a356f700451cfd21bf8d58278be86d89ad2851d": {
+        "title": "7月15日A股分析：三大指数涨跌不一，两市成交额突破1.6万亿，算力、AI概念吸金超30亿，电力、半导体成资金出逃重灾区",
+        "link": "https://www.tmtpost.com/7626649.html",
+        "published_date": "Tue, 15 Jul 2025 15:30:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.886000"
+      },
+      "53b10431c25e0cc3db1ba691dcc3c69a9b93d0be1332bf1b618d9d6f4ec70e4c": {
+        "title": "AI Startup Sandwich Lab Secures Multimillion-Dollar Series A to Scale Global Expansion and Advance Business Intelligence Agents",
+        "link": "https://www.tmtpost.com/7626627.html",
+        "published_date": "Tue, 15 Jul 2025 15:03:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885921"
+      },
+      "08470cc45feb0485449dcf50e999e5cc4946b9b642aab13bc81a6beba9333090": {
+        "title": "Wahaha Heiress Kelly Zong Faces Legal Challenges from Alleged Half-Siblings in Cross-Border Inheritance Dispute",
+        "link": "https://www.tmtpost.com/7626622.html",
+        "published_date": "Tue, 15 Jul 2025 14:57:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.062753"
+      },
+      "475f2d2e57c39cc0f089c5e804a49719c413725ef31c1155f6fdf51d1606ee77": {
+        "title": "几内亚再出招，铝土资源上演“权力的游戏”",
+        "link": "https://www.tmtpost.com/7626507.html",
+        "published_date": "Tue, 15 Jul 2025 14:27:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.063082"
+      },
+      "c6f02dbee6778037d1e204bca1667467500a63603ec5bcbec13439745f9dae7b": {
+        "title": "山姆卖好丽友，中产破防了",
+        "link": "https://www.tmtpost.com/7626220.html",
+        "published_date": "Tue, 15 Jul 2025 13:57:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.063384"
+      },
+      "255da5258e1ea7ea3d8ca6c7c0ecdefce14db311c96d02e3704edd7b0a41eeba": {
+        "title": "霸王茶姬合资出海：王牌还是险棋？",
+        "link": "https://www.tmtpost.com/7626277.html",
+        "published_date": "Tue, 15 Jul 2025 13:57:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.063722"
+      },
+      "9921523a9a044c471fe0bfb664dc14ba512abf25a543887ee57fc7b07c7ae168": {
+        "title": "火极一时的AI蛋白质解析，怎么样了？",
+        "link": "https://www.tmtpost.com/7626278.html",
+        "published_date": "Tue, 15 Jul 2025 13:57:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885947"
+      },
+      "9ee2c6b942071124ec669b534f8eca9318b5378bd162d71a83d2bf298e141d3d": {
+        "title": "拟港股上市的石头科技第二曲线战略受挫，产品线大裁员来临",
+        "link": "https://www.tmtpost.com/7626319.html",
+        "published_date": "Tue, 15 Jul 2025 13:57:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885988"
+      },
+      "2881f787b2763b6affc92ad333a7a62389c7804f6430656e522cb08cb99684c8": {
+        "title": "监管亮剑“阴阳合同”，非车险“内卷”时代终结，谁将出局？",
+        "link": "https://www.tmtpost.com/7626377.html",
+        "published_date": "Tue, 15 Jul 2025 13:57:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.065365"
+      },
+      "06f411628b025c64fcbfa732543bad1aac7d31916615691271af93a3e3cabdf6": {
+        "title": "一级市场四大乱象",
+        "link": "https://www.tmtpost.com/7626465.html",
+        "published_date": "Tue, 15 Jul 2025 13:56:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.065686"
+      },
+      "b288f2b6f565dfea032741c7d2e00c93d2ed5952594163125755e209bfc0f5e1": {
+        "title": "从Labubu海外反攻国内，看泡泡玛特给消费品出海的启示",
+        "link": "https://www.tmtpost.com/7626485.html",
+        "published_date": "Tue, 15 Jul 2025 13:56:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.066360"
+      },
+      "3c8218d8ca5bfbc130f61d01292e591f2211ff7d5f44c1eaeed2945c78d09cfa": {
+        "title": "Thailand Considers Duty-Free for More U.S. Goods to Strike Deal",
+        "link": "https://www.tmtpost.com/7626508.html",
+        "published_date": "Tue, 15 Jul 2025 13:44:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.067700"
+      },
+      "e66916731e5f8ed21479f637250cbe461f294b641890e542369e9d60e41dfd26": {
+        "title": "日式快餐的金字招牌，吉野家割不动中国人了？",
+        "link": "http://www.huxiu.com/article/4577861.html?f=wangzhan",
+        "published_date": "Tue, 15 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.068352"
+      },
+      "8f289e15dd808d1319a45cc88d4ee842b7cd2c451a453e5a7bfc210572db32a3": {
+        "title": "电商生意难做，即时零售“贴身肉搏”",
+        "link": "http://www.huxiu.com/article/4577870.html?f=wangzhan",
+        "published_date": "Tue, 15 Jul 2025 14:54:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.886009"
+      },
+      "d2a2893e0dfb768cf0bd4aa49040c436ea04c50086a54a15cde3e009420a9a30": {
+        "title": "微软在Azure AI Foundry Agent Service中新增Deep Research功能",
+        "link": "https://www.infoq.cn/article/CFhV5lDvr5h2cDrBOFc6?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 15 Jul 2025 14:58:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885897"
+      },
+      "c496013381b759e248fdd07f0e2b2d7efa893b18ebf65ca2f4925c17362dcd55": {
+        "title": "AGICamp第003周AI应用榜单发布：Lighthouse、Get笔记、小狐狸讲代码上榜",
+        "link": "https://www.infoq.cn/article/Vm752RHmSybwsCiqizZd?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 15 Jul 2025 14:39:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885959"
+      },
+      "3516d95890837282cf11dafbfa76a5f83ee00fb8205ab134d8a2812276121c21": {
+        "title": "从笃定到踌躇：Quote/0，一个开发者产品的真实旅程",
+        "link": "https://sspai.com/post/101033",
+        "published_date": "Tue, 15 Jul 2025 14:30:00 GMT",
+        "first_seen": "2025-07-15T08:30:44.885969"
+      },
+      "7c722f8241f5448d19b533ec6988b48ec318472353cc04f02fcbe80b547ba650": {
+        "title": "朋友圈的沉默，是我们这代人最无声的告别",
+        "link": "http://www.geekpark.net/news/351537",
+        "published_date": "Tue, 15 Jul 2025 13:51:00 GMT",
+        "first_seen": "2025-07-15T08:30:29.073472"
       }
     },
     "Finance": {
@@ -8432,8 +8624,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-07-15T05:27:00.675085",
-    "Technology": "2025-07-15T05:26:29.949519",
-    "Finance": "2025-07-15T05:27:00.683691"
+    "AI": "2025-07-15T08:31:01.817116",
+    "Technology": "2025-07-15T08:30:44.948940",
+    "Finance": "2025-07-15T08:31:01.823235"
   }
 }
