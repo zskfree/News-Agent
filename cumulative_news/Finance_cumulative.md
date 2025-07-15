@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-14 23:20
+**最后更新时间**: 2025-07-15 05:26
+
+---
+
+## 🆕 最新更新 (2025-07-15 05:26)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Nvidia teases a win for its China business, and big money could be on the line](https://www.marketwatch.com/bulletins/redirect/go?g=ccd9f187-42f6-4058-95d3-c1e7dfa56535&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-15 03:21
+
+#### [Why Nvidia and these other chip stocks could be standouts this earnings season](https://www.marketwatch.com/bulletins/redirect/go?g=c280fcec-59c4-4ec0-b4a0-aae0af2fa033&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-14 23:51
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia teases a win for its China business, and big money could be on the line](https://www.marketwatch.com/story/nvidia-teases-a-win-for-its-china-business-and-big-money-could-be-on-the-line-8537d8d4?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 03:18
+
+#### [‘Superman’ sees strong opening, helping power a box-office turnaround for Warner Bros. studio](https://www.marketwatch.com/story/superman-sees-strong-opening-helping-power-a-box-office-turnaround-for-warner-bros-studio-c3f51bc2?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 23:50
+
+#### [Even with Apple’s stock slump, Tim Cook is the right leader for the AI era](https://www.marketwatch.com/story/even-with-apples-stock-slump-tim-cook-is-the-right-leader-for-the-ai-era-661c6921?mod=mw_rss_topstories)
+**发布时间**: 2025-07-14 23:22
 
 ---
 

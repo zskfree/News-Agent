@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 23:21:16 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 05:26:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一文看懂Grok 4及“多智能体内生化”的AI新范式</title>
-      <link>https://www.tmtpost.com/7625307.html</link>
-      <description>&lt;![CDATA[一文看懂Grok 4及“多智能体内生化”的AI新范式]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7625307.html</guid>
+      <title>饿了么极端补贴：倒贴 4 元；传 MiniMax 完成 3 亿美元融资，估值 300 亿；苹果或收购 Mistral，估值 58 亿欧元</title>
+      <link>http://www.geekpark.net/news/351518</link>
+      <description>&lt;![CDATA[饿了么极端补贴：倒贴 4 元；传 MiniMax 完成 3 亿美元融资，估值 300 亿；苹果或收购 Mistral，估值 58 亿欧元]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 08:37:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351518</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi K2发布两天即“封神”？80%成本优势追平Claude 4、打趴“全球最强AI”，架构与DeepSeek相似！</title>
-      <link>https://www.infoq.cn/article/PGCLTgQWBqs8wHICzdC0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kimi K2发布两天即“封神”？80%成本优势追平Claude 4、打趴“全球最强AI”，架构与DeepSeek相似！]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PGCLTgQWBqs8wHICzdC0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>刚刚，英伟达确认恢复H20在中国销售，并推出面向中国的全新GPU</title>
+      <link>https://www.infoq.cn/article/Qfh6O5stujbW8EOgSftO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[刚刚，英伟达确认恢复H20在中国销售，并推出面向中国的全新GPU]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Qfh6O5stujbW8EOgSftO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高估值背后，GPU靠什么撑？</title>
-      <link>https://www.tmtpost.com/7625193.html</link>
-      <description>&lt;![CDATA[高估值背后，GPU靠什么撑？]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7625193.html</guid>
+      <title>华人工程师被疯抢，世界第一AI创业公司，走进覆灭前夜</title>
+      <link>https://www.tmtpost.com/7626364.html</link>
+      <description>&lt;![CDATA[华人工程师被疯抢，世界第一AI创业公司，走进覆灭前夜]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7626364.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扎克伯格挖角苹果，集齐9大华裔AI天才</title>
-      <link>https://www.tmtpost.com/7625162.html</link>
-      <description>&lt;![CDATA[扎克伯格挖角苹果，集齐9大华裔AI天才]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7625162.html</guid>
+      <title>派早报：Google 将整合 ChromeOS 和 Android 等</title>
+      <link>https://sspai.com/post/101036</link>
+      <description>&lt;![CDATA[派早报：Google 将整合 ChromeOS 和 Android 等]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/101036</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Tesla’s Autopilot is under scrutiny in a rare jury trial</title>
-      <link>https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida</link>
-      <description>&lt;![CDATA[Tesla’s Autopilot is under scrutiny in a rare jury trial]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida</guid>
+      <title>国产化终端跃迁，C86技术下沉突围全场景替代</title>
+      <link>https://www.tmtpost.com/7626282.html</link>
+      <description>&lt;![CDATA[国产化终端跃迁，C86技术下沉突围全场景替代]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7626282.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells</title>
-      <link>https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/</link>
-      <description>&lt;![CDATA[GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/</guid>
+      <title>多个“首款”密集诞生，可穿戴大步迈向“处方级”</title>
+      <link>https://www.tmtpost.com/7626320.html</link>
+      <description>&lt;![CDATA[多个“首款”密集诞生，可穿戴大步迈向“处方级”]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7626320.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>US government announces $200 million Grok contract a week after ‘MechaHitler’ incident</title>
-      <link>https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract</link>
-      <description>&lt;![CDATA[US government announces $200 million Grok contract a week after ‘MechaHitler’ incident]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract</guid>
+      <title>“大而美”的铸币权暗战：稳定币的进击与利益博弈</title>
+      <link>http://www.huxiu.com/article/4577323.html?f=wangzhan</link>
+      <description>&lt;![CDATA[“大而美”的铸币权暗战：稳定币的进击与利益博弈]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4577323.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs</title>
-      <link>https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support</link>
-      <description>&lt;![CDATA[Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support</guid>
+      <title>AWS CloudFront 新增 HTTPS DNS 支持，提升网站性能与安全</title>
+      <link>https://www.infoq.cn/article/FvMBm4eiNTjLN52eFRAd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS CloudFront 新增 HTTPS DNS 支持，提升网站性能与安全]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FvMBm4eiNTjLN52eFRAd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>甲骨文副总裁吴承杨：AI放大了数据优势，数据融合至关重要</title>
-      <link>https://www.infoq.cn/article/1Heb9M1QAa69zGfmUOKy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[甲骨文副总裁吴承杨：AI放大了数据优势，数据融合至关重要]]&gt;</description>
-      <pubDate>Mon, 14 Jul 2025 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1Heb9M1QAa69zGfmUOKy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Java近期新闻：JobRunr 8、Gradle、Grails、Micronaut、JHipster、Tomcat CVE</title>
+      <link>https://www.infoq.cn/article/zm1JbgR5q2McusTAeP0A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java近期新闻：JobRunr 8、Gradle、Grails、Micronaut、JHipster、Tomcat CVE]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 09:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zm1JbgR5q2McusTAeP0A?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞士生物科技公司Numab Therapeutics研发多特异性抗体药物，提升癌症与炎症治愈率 | 瑞士创新100强</title>
-      <link>https://www.tmtpost.com/7625728.html</link>
-      <description>&lt;![CDATA[瑞士生物科技公司Numab Therapeutics研发多特异性抗体药物，提升癌症与炎症治愈率 | 瑞士创新100强]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 07:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7625728.html</guid>
+      <title>县城手机店开始消失了？为啥手机在县城都卖不出去了？</title>
+      <link>https://www.tmtpost.com/7626345.html</link>
+      <description>&lt;![CDATA[县城手机店开始消失了？为啥手机在县城都卖不出去了？]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7626345.html</guid>
       <category>Technology</category>
     </item>
   </channel>
