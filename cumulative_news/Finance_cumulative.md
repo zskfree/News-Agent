@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-16 08:30
+**最后更新时间**: 2025-07-16 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-16 23:21)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fed’s Williams says tariffs are pushing up inflation, expects even higher prices](https://www.marketwatch.com/bulletins/redirect/go?g=429a311f-5cb4-49af-abd5-675770d5c089&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 23:17
+
+#### [Meme-stock mania returns as retail traders pump up this pandemic-era darling](https://www.marketwatch.com/bulletins/redirect/go?g=bb4ae244-d6e0-4819-ba07-6530ee3fba15&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 21:57
+
+#### [A TikTok hack claims to help kids retire with $4 million. There's a catch.](https://www.marketwatch.com/bulletins/redirect/go?g=f2b3f2c6-e574-4df2-b227-07f975d34002&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 21:19
+
+#### [Nasdaq closes at record as stocks climb after Trump denies plan to fire Powell](https://www.marketwatch.com/bulletins/redirect/go?g=dc2b0232-dc67-4622-aa62-d745bce94ad1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 20:04
+
+#### [Why Trump may be playing a dangerous game as threats to Powell's job escalate](https://www.marketwatch.com/bulletins/redirect/go?g=f38e1df6-82e5-4463-a8e9-5bcda455c2ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 18:58
+
+#### [Here’s why hoarding is no solution to coffee-price inflation](https://www.marketwatch.com/bulletins/redirect/go?g=efdbd12f-34ca-488f-9e7f-65c982271a83&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 17:00
+
+#### [Trump denies intent to fire Fed’s Powell even as Washington speculates he will](https://www.marketwatch.com/bulletins/redirect/go?g=19a78e51-b086-45e9-8649-e7be0c5391e0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 16:33
+
+#### [Stocks move lower on reports that Trump is now planning to fire Fed chief Powell](https://www.marketwatch.com/bulletins/redirect/go?g=7742f909-da0c-4d79-a036-32b73615e723&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 16:01
+
+#### [U.S. stock indexes turn lower with market-based inflation expectations on rise](https://www.marketwatch.com/bulletins/redirect/go?g=e22a18b8-d716-4d3d-8115-0239ef10af9f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 15:25
+
+#### [Ford shares in decline as cost of large-scale SUV recall is disclosed](https://www.marketwatch.com/bulletins/redirect/go?g=502aef2e-3d6e-4d6a-a425-c2f8b69e0407&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-16 15:13
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Fed’s Williams says tariffs are pushing up inflation, and he expects even higher prices in coming months](https://www.marketwatch.com/story/feds-williams-says-tariffs-are-pushing-up-inflation-and-he-expects-even-higher-prices-in-coming-months-a06a512b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 23:11
+
+#### [Meme-stock mania returns as retail traders pump shares of this heavily shorted pandemic-era darling](https://www.marketwatch.com/story/meme-stock-mania-returns-as-retail-traders-pump-shares-of-this-heavily-shorted-pandemic-era-darling-8712ed09?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 21:54
+
+#### [Is Trump threatening to fire Jerome Powell just to bury the Jeffrey Epstein story? Sure looks like it.](https://www.marketwatch.com/story/is-trump-threatening-to-fire-jerome-powell-just-to-bury-the-jeffrey-epstein-story-sure-looks-like-it-6c539aa0?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 21:20
+
+#### [Trump blasts trade deficits in goods as a big threat to the U.S. Why economists are dismayed.](https://www.marketwatch.com/story/trump-blasts-trade-deficits-in-goods-as-a-big-threat-to-the-u-s-why-economists-are-dismayed-e8987419?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 21:06
+
+#### [United Airlines just tweaked its profit outlook for the year. It’s still not enough for the stock.](https://www.marketwatch.com/story/united-airlines-just-tweaked-its-profit-outlook-for-the-year-its-still-not-enough-for-the-stock-11246ee5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 20:55
+
+#### [My daughter has $500K in med-school expenses. Can my wife and I afford to pay it off?](https://www.marketwatch.com/story/my-daughter-has-500k-in-med-school-expenses-can-my-wife-and-i-afford-to-pay-it-off-556d4def?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 20:34
+
+#### [Trump may be testing the waters by threatening to fire Fed’s Powell. Why the game he’s playing is so dangerous.](https://www.marketwatch.com/story/trump-may-be-testing-the-waters-by-threatening-to-fire-feds-powell-why-hes-playing-a-dangerous-game-e1fc99e5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 20:20
+
+#### [Goldman Sachs, Morgan Stanley earnings beats were fueled by trading surge as deal pipelines grow](https://www.marketwatch.com/story/goldman-sachs-stock-jumps-after-a-big-earnings-beat-amid-strength-in-investment-banking-and-equities-businesses-bed07056?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 20:09
 
 ---
 

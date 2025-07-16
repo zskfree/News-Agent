@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-16 08:30
+**最后更新时间**: 2025-07-16 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-16 23:21)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Researchers announce babies born from a trial of three-person IVF](https://www.technologyreview.com/2025/07/16/1120285/babies-born-trial-of-three-person-ivf/)
+**发布时间**: 2025-07-16 21:00
+
+#### [These four charts show where AI companies could go next in the US](https://www.technologyreview.com/2025/07/16/1120233/these-four-charts-show-where-ai-companies-could-go-next-in-the-us/)
+**发布时间**: 2025-07-16 14:00
+
+#### [The Download: Veo 3’s subtitles problem, and the future of our planet’s resources](https://www.technologyreview.com/2025/07/16/1120240/the-download-veo-3s-subtitles-problem-and-the-future-of-our-planets-resources/)
+**发布时间**: 2025-07-16 12:10
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Can AI really code? Study maps the roadblocks to autonomous software engineering](https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716)
+**发布时间**: 2025-07-16 16:55
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [性能提高87%，数据需求减70%，天大等开发化学毒性预测模型，登Nature子刊](https://www.jiqizhixin.com/articles/2025-07-16-14)
+**发布时间**: 2025-07-16 16:44
+
+#### [维也纳ACL 2025，相聚机器之心人才晚宴，免费约饭！](https://www.jiqizhixin.com/articles/2025-07-16-13)
+**发布时间**: 2025-07-16 16:33
+
+#### [种子轮就估值120亿美元，她能打造另一个OpenAI吗？](https://www.jiqizhixin.com/articles/2025-07-16-12)
+**发布时间**: 2025-07-16 16:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [零代码开发，从与AI对话开始｜聊聊百度秒哒](https://www.qbitai.com/2025/07/309971.html)
+**发布时间**: 2025-07-16 10:09
+
+#### [轿车操控SUV空间，比亚迪最新猎装轿跑10.98万元起售](https://www.qbitai.com/2025/07/309962.html)
+**发布时间**: 2025-07-16 09:31
+
+#### [四强团队晋级！第五届“多多农研科技大赛”攻坚植物工厂商业化](https://www.qbitai.com/2025/07/309952.html)
+**发布时间**: 2025-07-16 08:45
+
+#### [7个月翻一番！AI agent能力飙升，METR报告揭示指数级进化规律](https://www.qbitai.com/2025/07/309938.html)
+**发布时间**: 2025-07-16 08:28
 
 ---
 

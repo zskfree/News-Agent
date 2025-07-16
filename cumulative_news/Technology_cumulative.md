@@ -1,7 +1,183 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-16 08:30
+**最后更新时间**: 2025-07-16 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-16 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025年春拍中华艺术品价格指数逆势上涨9%，现当代作品、油画涨幅较高](https://www.tmtpost.com/7628508.html)
+**发布时间**: 2025-07-16 21:56
+
+#### [星巴克变瑞幸、贵宾厅取消，银行的“羊毛”不好薅了｜巴伦精选](https://www.tmtpost.com/7628111.html)
+**发布时间**: 2025-07-16 21:55
+
+#### [Nvidia CEO Says Robotics Will Drive Next Wave of AI; China Well-Positioned for Breakthroughs](https://www.tmtpost.com/7628552.html)
+**发布时间**: 2025-07-16 21:46
+
+#### [中报首亏、集采阵痛，联环药业押注产能升级谋突围之路](https://www.tmtpost.com/7627938.html)
+**发布时间**: 2025-07-16 21:06
+
+#### [锂盐厂商业绩分化：成本战白热化，“反内卷” 预期难破供需困局 | 行业风向标](https://www.tmtpost.com/7628457.html)
+**发布时间**: 2025-07-16 20:46
+
+#### [8.5亿定增“输血”+宠物赛道“拓荒”，步步高系能否盘活大千生态？](https://www.tmtpost.com/7628392.html)
+**发布时间**: 2025-07-16 19:53
+
+#### [英伟达登顶市值第一，国产AI芯片如何用新技术突围算力封锁？](https://www.tmtpost.com/7624055.html)
+**发布时间**: 2025-07-16 19:52
+
+#### [小红书的付费笔记、微商的朋友圈推广是广告吗？从饭店随手拍菜品被罚45万说起](https://www.tmtpost.com/7627214.html)
+**发布时间**: 2025-07-16 19:37
+
+#### [菲律宾DITO电信：从杜特尔特的“宠儿”到马科斯时代的“烫手山芋”](https://www.tmtpost.com/7628093.html)
+**发布时间**: 2025-07-16 19:36
+
+#### [抢不到labubu的人，用3D打印版当平替](https://www.tmtpost.com/7628301.html)
+**发布时间**: 2025-07-16 19:33
+
+#### [融资135亿亏损20亿，智谱冲刺IPO](https://www.tmtpost.com/7628315.html)
+**发布时间**: 2025-07-16 19:33
+
+#### [马云亲自「督战」，阿里为什么不能输？](https://www.tmtpost.com/7628339.html)
+**发布时间**: 2025-07-16 19:33
+
+#### [外卖攻防战，一场事先张扬的烧钱比赛](https://www.tmtpost.com/7628197.html)
+**发布时间**: 2025-07-16 18:59
+
+#### [月付、免押金、送家电，房东们争抢1200万毕业生](https://www.tmtpost.com/7628202.html)
+**发布时间**: 2025-07-16 18:59
+
+#### [育碧的旧世界，腾讯的新叙事](https://www.tmtpost.com/7628203.html)
+**发布时间**: 2025-07-16 18:59
+
+#### [阿斯麦 ASML：火热的英伟达，“暖不热” 清冷的光刻机？](https://www.tmtpost.com/7628230.html)
+**发布时间**: 2025-07-16 18:59
+
+#### [星巴克，多年师傅熬成徒](https://www.tmtpost.com/7628232.html)
+**发布时间**: 2025-07-16 18:59
+
+#### [郎咸平炮轰香港保险为“骗局”，友邦冲上风口浪尖](https://www.tmtpost.com/7628271.html)
+**发布时间**: 2025-07-16 18:59
+
+#### [China's CETC Kingbase Unveils AI-Powered Database Appliances Amid Rising Demand for Intelligent Data Infrastructure](https://www.tmtpost.com/7628331.html)
+**发布时间**: 2025-07-16 18:46
+
+#### [像素蛋糕发布方糖大模型：让想象力“秒变”生产力](https://www.tmtpost.com/7628092.html)
+**发布时间**: 2025-07-16 18:24
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Google is raising the price of Nest Aware subscriptions again](https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription)
+**发布时间**: 2025-07-16 20:24
+
+#### [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)
+**发布时间**: 2025-07-16 20:09
+
+#### [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
+**发布时间**: 2025-07-16 19:15
+
+#### [Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving](https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support)
+**发布时间**: 2025-07-16 18:46
+
+#### [Zelda’s new live-action stars could be around for a long time](https://www.theverge.com/nintendo/708494/nintendo-the-legend-of-zelda-movie-leads-stars-long-time)
+**发布时间**: 2025-07-16 18:30
+
+#### [I spent 24 hours flirting with Elon Musk&#8217;s AI girlfriend](https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend)
+**发布时间**: 2025-07-16 18:29
+
+#### [GM and Redwood teaming up to make batteries for energy storage](https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev)
+**发布时间**: 2025-07-16 18:00
+
+#### [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+**发布时间**: 2025-07-16 18:00
+
+#### [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+**发布时间**: 2025-07-16 17:25
+
+#### [Scale AI lays off 200 employees: ‘We ramped up our GenAI capacity too quickly’](https://www.theverge.com/news/708377/scale-ai-layoffs-14-percent)
+**发布时间**: 2025-07-16 17:02
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [被白嫖急眼的旅行社，这个暑期开始反击了](http://www.huxiu.com/article/4584928.html?f=wangzhan)
+**发布时间**: 2025-07-16 20:08
+
+#### [救命专车怎么变敛财工具？120救护车的江湖有多乱？](http://www.huxiu.com/article/4584296.html?f=wangzhan)
+**发布时间**: 2025-07-16 17:40
+
+#### [通俗解释：逆回购](http://www.huxiu.com/article/4582750.html?f=wangzhan)
+**发布时间**: 2025-07-16 17:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [新加坡博士团队打造的 AI 办公产品，挑战微软 Office](http://www.geekpark.net/news/351600)
+**发布时间**: 2025-07-16 19:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [美图 Al Agent 官方场景复现：图像设计的「强」来了？即梦、豆包还扛打吗？｜AI 的 n 次方](https://www.infoq.cn/video/gOIMKo4gQ4k58v7qF6xr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-16 18:56
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Can US Measles Outbreaks Be Stopped?](https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/)
+**发布时间**: 2025-07-16 18:42
+
+#### [Watch Our Livestream Replay: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)
+**发布时间**: 2025-07-16 18:32
+
+#### [ElliQ Review: An AI Companion Bot for Lonely Elders](https://www.wired.com/review/elliq-ai-companion-robot/)
+**发布时间**: 2025-07-16 17:43
+
+#### [DHS Faces New Pressure Over DNA Taken From Immigrant Children](https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/)
+**发布时间**: 2025-07-16 17:30
+
+#### [Dyneema’s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever](https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/)
+**发布时间**: 2025-07-16 16:46
+
+#### [Adoption Agency Data Exposure Revealed Information About Children and Parents](https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/)
+**发布时间**: 2025-07-16 16:21
+
+#### [Trump and the Energy Industry Are Eager to Power AI With Fossil Fuels](https://www.wired.com/story/trump-energy-industry-ai-fossil-fuels-pittsburgh-summit/)
+**发布时间**: 2025-07-16 16:16
+
+#### [Our 11 Favorite Air Quality Monitors We’ve Tried (2025)](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)
+**发布时间**: 2025-07-16 15:02
+
+#### [Razer Freyja Review: A Haptic Gaming Cushion for Better Immersion](https://www.wired.com/review/razer-freyja-haptic-gaming-cushion/)
+**发布时间**: 2025-07-16 14:00
+
+#### [Former Top Google Researchers Have Made a New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
+**发布时间**: 2025-07-16 13:02
+
+#### [Best Camping Chairs (2025): Snow Peak, Kelty, Helinox, and More](https://www.wired.com/gallery/best-camping-chairs/)
+**发布时间**: 2025-07-16 12:30
+
+#### [Bang & Olufsen Beosound A1 (Gen 3) Review: Perpetually Great](https://www.wired.com/review/bang-and-olufsen-beosound-a1/)
+**发布时间**: 2025-07-16 12:03
+
+#### [Bedsure's Bamboo Cooling Sheets Are Silky Soft, Durable, and Cheap](https://www.wired.com/review/bedsure-gentlesoft-cooling-sheets/)
+**发布时间**: 2025-07-16 11:34
+
+#### [Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands](https://www.wired.com/story/substage-macos-finder-natural-language-commands/)
+**发布时间**: 2025-07-16 11:30
+
+#### [How Social Media Is Fueling Gen Z’s Sex Recession](https://www.wired.com/story/carter-sherman-the-second-coming-interview/)
+**发布时间**: 2025-07-16 11:00
+
+#### [Now Is a Very Good Time to Buy a Used EV. Here’s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)
+**发布时间**: 2025-07-16 10:47
+
+#### [Which King Mattress Size Rules Your Sleep Style? (2025)](https://www.wired.com/story/king-mattress-sizes/)
+**发布时间**: 2025-07-16 10:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [查缺补漏时间到，十三张去年你可能错过的华语乐坛好专辑](https://sspai.com/post/101091)
+**发布时间**: 2025-07-16 17:30
 
 ---
 
