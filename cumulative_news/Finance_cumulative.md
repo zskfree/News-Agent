@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-15 23:20
+**最后更新时间**: 2025-07-16 05:27
+
+---
+
+## 🆕 最新更新 (2025-07-16 05:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bond market sends troubling signal on inflation that should concern investors](https://www.marketwatch.com/story/bond-market-sends-troubling-signal-on-inflation-that-should-concern-investors-dbde9926?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 02:09
+
+#### [Are airline stocks set to rally like it’s 2024? Here’s what might be missing this time around.](https://www.marketwatch.com/story/are-airline-stocks-set-to-rally-like-its-2024-heres-what-might-be-missing-this-time-around-6cd8b0eb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 01:07
+
+#### [My grandmother disinherited my father, yet made him executor of her will. Now he refuses to file for probate.](https://www.marketwatch.com/story/my-grandmother-disinherited-my-father-yet-made-him-executor-of-her-will-now-he-refuses-to-file-for-probate-0028f23c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 00:02
+
+#### [‘I enjoy vacations to Europe’: I’m 75 and have $1 million in an IRA. Why do I feel guilty?](https://www.marketwatch.com/story/i-enjoy-vacations-to-europe-im-75-have-1-million-in-an-ira-and-2-4-million-in-real-estate-why-do-i-feel-guilty-c0d0b30a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 23:38
+
+#### [He broke the Bank of England — now he’s coming for America. How to bet with this trading legend using ETFs.](https://www.marketwatch.com/story/this-legendary-investor-has-been-shorting-treasury-bonds-heres-how-to-bet-with-him-without-going-broke-3834a0ad?mod=mw_rss_topstories)
+**发布时间**: 2025-07-15 23:25
 
 ---
 

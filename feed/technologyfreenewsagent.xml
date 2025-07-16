@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 23:21:00 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 05:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 05:27:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders</title>
-      <link>https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/</link>
-      <description>&lt;![CDATA[Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 22:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/</guid>
+      <title>英伟达、AMD恢复向中国销售AI芯片，美国商务部长：中国只能买到英伟达“第四等”货</title>
+      <link>https://www.tmtpost.com/7627572.html</link>
+      <description>&lt;![CDATA[英伟达、AMD恢复向中国销售AI芯片，美国商务部长：中国只能买到英伟达“第四等”货]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7627572.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump announces billions in investments to make Pennsylvania an AI hub</title>
-      <link>https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions</link>
-      <description>&lt;![CDATA[Trump announces billions in investments to make Pennsylvania an AI hub]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 20:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions</guid>
+      <title>谷歌DeepMind发布机器人学基础模型Gemini Robotics On-Device</title>
+      <link>https://www.infoq.cn/article/GOkl1qNW3h4N5iecvpiA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌DeepMind发布机器人学基础模型Gemini Robotics On-Device]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GOkl1qNW3h4N5iecvpiA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Our biggest questions about ChromeOS and Android merging</title>
-      <link>https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets</link>
-      <description>&lt;![CDATA[Our biggest questions about ChromeOS and Android merging]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 17:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets</guid>
+      <title>整体性能提升30%的国产AI数据库一体机发布，人大教授：中国数据库发展没有捷径</title>
+      <link>https://www.tmtpost.com/7627318.html</link>
+      <description>&lt;![CDATA[整体性能提升30%的国产AI数据库一体机发布，人大教授：中国数据库发展没有捷径]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 11:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7627318.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>第一批AI硬件已经失败了</title>
-      <link>https://www.tmtpost.com/7627022.html</link>
-      <description>&lt;![CDATA[第一批AI硬件已经失败了]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7627022.html</guid>
+      <title>Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen</title>
+      <link>https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop</link>
+      <description>&lt;![CDATA[Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 23:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“AI六小虎”开抢IPO，MiniMax要超智谱？</title>
-      <link>https://www.tmtpost.com/7626644.html</link>
-      <description>&lt;![CDATA[“AI六小虎”开抢IPO，MiniMax要超智谱？]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7626644.html</guid>
+      <title>Hello Launches Robotaxi Aggregation Platform With Ant Group, CATL Backing in $420 Million Bet</title>
+      <link>https://www.tmtpost.com/7627780.html</link>
+      <description>&lt;![CDATA[Hello Launches Robotaxi Aggregation Platform With Ant Group, CATL Backing in $420 Million Bet]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7627780.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无人物流车正欲狂奔街头，黄石一纸叫停为哪般？</title>
-      <link>https://www.tmtpost.com/7626819.html</link>
-      <description>&lt;![CDATA[无人物流车正欲狂奔街头，黄石一纸叫停为哪般？]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7626819.html</guid>
+      <title>基于Chrome 内核，OpenAI 浏览器被曝；网络身份证正式启用；中公推「AI 就业学习机」</title>
+      <link>http://www.geekpark.net/news/351564</link>
+      <description>&lt;![CDATA[基于Chrome 内核，OpenAI 浏览器被曝；网络身份证正式启用；中公推「AI 就业学习机」]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351564</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话哈啰Robotaxi首席科学家：进场第一步，打造无人出租车的聚合平台</title>
-      <link>https://www.tmtpost.com/7626849.html</link>
-      <description>&lt;![CDATA[对话哈啰Robotaxi首席科学家：进场第一步，打造无人出租车的聚合平台]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7626849.html</guid>
+      <title>微软“AI裁员风”刮到了印度</title>
+      <link>https://www.tmtpost.com/7627251.html</link>
+      <description>&lt;![CDATA[微软“AI裁员风”刮到了印度]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7627251.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手高欢深度解读：多模态理解如何成为AIGC视频生成的“幕后功臣”？</title>
-      <link>https://www.infoq.cn/article/SVkKTARPVRGZX68LVrWe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[快手高欢深度解读：多模态理解如何成为AIGC视频生成的“幕后功臣”？]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SVkKTARPVRGZX68LVrWe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Another High-Profile OpenAI Researcher Departs for Meta</title>
+      <link>https://www.wired.com/story/jason-wei-open-ai-meta/</link>
+      <description>&lt;![CDATA[Another High-Profile OpenAI Researcher Departs for Meta]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 02:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/jason-wei-open-ai-meta/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一个 200 美元的 AI 浏览器，想重新教会我「上网」</title>
-      <link>http://www.geekpark.net/news/351558</link>
-      <description>&lt;![CDATA[一个 200 美元的 AI 浏览器，想重新教会我「上网」]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351558</guid>
+      <title>付费49万元成为“亲传弟子”，“AI”知识付费围猎银发族</title>
+      <link>https://www.tmtpost.com/7627122.html</link>
+      <description>&lt;![CDATA[付费49万元成为“亲传弟子”，“AI”知识付费围猎银发族]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7627122.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>石头科技洗衣机裁员，“家电新势力“不行了？</title>
-      <link>https://www.tmtpost.com/7625541.html</link>
-      <description>&lt;![CDATA[石头科技洗衣机裁员，“家电新势力“不行了？]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7625541.html</guid>
+      <title>Docker扩展Compose，新增Cloud Offload支持</title>
+      <link>https://www.infoq.cn/article/fljiIO3UpzVsUdb0WHUO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Docker扩展Compose，新增Cloud Offload支持]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fljiIO3UpzVsUdb0WHUO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

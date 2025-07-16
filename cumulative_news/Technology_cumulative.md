@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-15 23:20
+**最后更新时间**: 2025-07-16 05:27
+
+---
+
+## 🆕 最新更新 (2025-07-16 05:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Hello Launches Robotaxi Aggregation Platform With Ant Group, CATL Backing in $420 Million Bet](https://www.tmtpost.com/7627780.html)
+**发布时间**: 2025-07-16 13:18
+
+#### [快乐猴超市进击硬折扣，美团放不下“大超市”的梦想](https://www.tmtpost.com/7627261.html)
+**发布时间**: 2025-07-16 12:56
+
+#### [重庆千里局](https://www.tmtpost.com/7627710.html)
+**发布时间**: 2025-07-16 12:56
+
+#### [Alo真能在中国火起来？](https://www.tmtpost.com/7627731.html)
+**发布时间**: 2025-07-16 12:56
+
+#### [微软“AI裁员风”刮到了印度](https://www.tmtpost.com/7627251.html)
+**发布时间**: 2025-07-16 12:56
+
+#### [新药相继获批上市，撬动数千亿级市场在即，旺山旺水IPO迎“旺势”？](https://www.tmtpost.com/7627173.html)
+**发布时间**: 2025-07-16 12:56
+
+#### [付费49万元成为“亲传弟子”，“AI”知识付费围猎银发族](https://www.tmtpost.com/7627122.html)
+**发布时间**: 2025-07-16 12:56
+
+#### [清完旧账靠真本事，车企要习惯没有补贴的世界｜钛度车库](https://www.tmtpost.com/7627401.html)
+**发布时间**: 2025-07-16 12:53
+
+#### [钼铁的终点，取决于新能源还是智能制造？](https://www.tmtpost.com/7620519.html)
+**发布时间**: 2025-07-16 12:15
+
+#### [Canada's Prime Minister First Acknowledges Trade Deal May not Avoid U.S. Tariffs](https://www.tmtpost.com/7627712.html)
+**发布时间**: 2025-07-16 12:04
+
+#### [极氪9X首搭浩瀚-S：架构豪华，还是叙事先行？](https://www.tmtpost.com/7627659.html)
+**发布时间**: 2025-07-16 11:41
+
+#### [整体性能提升30%的国产AI数据库一体机发布，人大教授：中国数据库发展没有捷径](https://www.tmtpost.com/7627318.html)
+**发布时间**: 2025-07-16 11:39
+
+#### [下一句会是什么？我们是否高估了预测编码理论？](https://www.tmtpost.com/7627109.html)
+**发布时间**: 2025-07-16 11:27
+
+#### [山姆已经搜不到好丽友派：ToB生意最终要ToC](https://www.tmtpost.com/7627598.html)
+**发布时间**: 2025-07-16 11:27
+
+#### [腹地“遇袭”，华润饮料密集推新对抗“小绿瓶”依赖症？](https://www.tmtpost.com/7627097.html)
+**发布时间**: 2025-07-16 11:27
+
+#### [Trump Floats Five or Six Possible Deals after Trade Pact with Indonesia Announced](https://www.tmtpost.com/7627635.html)
+**发布时间**: 2025-07-16 11:13
+
+#### [英伟达、AMD恢复向中国销售AI芯片，美国商务部长：中国只能买到英伟达“第四等”货](https://www.tmtpost.com/7627572.html)
+**发布时间**: 2025-07-16 11:03
+
+#### [2026年世界互联网大会亚太峰会会期定了！](https://www.tmtpost.com/7627580.html)
+**发布时间**: 2025-07-16 10:44
+
+#### [股权之外的幽灵：宗庆后留下的是遗产，还是梦魇？](https://www.tmtpost.com/7627439.html)
+**发布时间**: 2025-07-16 10:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一块生不逢时的玻璃：18 年后回望 Vista 的「远景」](https://sspai.com/post/100978)
+**发布时间**: 2025-07-16 11:15
+
+#### [派早报：索尼发布 RX1R III、Razer Core X V2 发布等](https://sspai.com/post/101077)
+**发布时间**: 2025-07-16 08:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 n8n 到 Claude Code：我试了 10 类爆火 AI 工具，发现不用融资也能干正事](https://www.infoq.cn/article/OhAXVYvuSkdQVLNNdX51?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-16 11:08
+
+#### [谷歌DeepMind发布机器人学基础模型Gemini Robotics On-Device](https://www.infoq.cn/article/GOkl1qNW3h4N5iecvpiA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-16 10:34
+
+#### [Docker扩展Compose，新增Cloud Offload支持](https://www.infoq.cn/article/fljiIO3UpzVsUdb0WHUO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-16 10:01
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [谁还看官网？AI成了买东西的决策王](http://www.huxiu.com/article/4573145.html?f=wangzhan)
+**发布时间**: 2025-07-16 09:56
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [基于Chrome 内核，OpenAI 浏览器被曝；网络身份证正式启用；中公推「AI 就业学习机」](http://www.geekpark.net/news/351564)
+**发布时间**: 2025-07-16 08:49
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Chewy Promo Codes: $20 Off | July 2025](https://www.wired.com/story/chewy-promo-code/)
+**发布时间**: 2025-07-16 05:00
+
+#### [Another High-Profile OpenAI Researcher Departs for Meta](https://www.wired.com/story/jason-wei-open-ai-meta/)
+**发布时间**: 2025-07-16 02:56
+
+#### [I Tried Grok’s Built-In Anime Companion and It Called Me a Twat](https://www.wired.com/story/elon-musk-xai-ai-companion-ani/)
+**发布时间**: 2025-07-15 23:05
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Now Microsoft&#8217;s Copilot Vision AI can scan everything on your screen](https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop)
+**发布时间**: 2025-07-15 23:49
 
 ---
 

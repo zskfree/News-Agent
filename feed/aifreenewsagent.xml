@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 23:21:27 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 05:28:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>这个AI精准模拟人类行为大脑状态，上Nature了</title>
-      <link>https://www.qbitai.com/2025/07/309763.html</link>
-      <description>&lt;![CDATA[这个AI精准模拟人类行为大脑状态，上Nature了]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 09:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309763.html</guid>
+      <title>重塑记忆架构：LLM正在安装「操作系统」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-4</link>
+      <description>&lt;![CDATA[重塑记忆架构：LLM正在安装「操作系统」]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MIRIX重塑AI多模态长期记忆：超Gemini 410%，节省99.9%内存，APP同步上线</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-16</link>
-      <description>&lt;![CDATA[MIRIX重塑AI多模态长期记忆：超Gemini 410%，节省99.9%内存，APP同步上线]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 16:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-16</guid>
+      <title>DeepMind让AI当「上帝」，导演一场只有AI演员的「西部世界」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-5</link>
+      <description>&lt;![CDATA[DeepMind让AI当「上帝」，导演一场只有AI演员的「西部世界」]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Google’s generative video model Veo 3 has a subtitles problem</title>
-      <link>https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/</link>
-      <description>&lt;![CDATA[Google’s generative video model Veo 3 has a subtitles problem]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/</guid>
+      <title>突发｜思维链开山作者Jason Wei被曝加入Meta，机器之心独家证实：Slack没了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-2</link>
+      <description>&lt;![CDATA[突发｜思维链开山作者Jason Wei被曝加入Meta，机器之心独家证实：Slack没了]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>只因一个“：”，大模型全军覆没</title>
-      <link>https://www.qbitai.com/2025/07/309708.html</link>
-      <description>&lt;![CDATA[只因一个“：”，大模型全军覆没]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309708.html</guid>
+      <title>Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning</title>
+      <link>https://arxiv.org/abs/2507.10624</link>
+      <description>&lt;![CDATA[Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.10624</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: combating audio deepfakes, and AI in the classroom</title>
-      <link>https://www.technologyreview.com/2025/07/15/1120151/the-download-combating-audio-deepfakes-and-ai-in-the-classroom/</link>
-      <description>&lt;![CDATA[The Download: combating audio deepfakes, and AI in the classroom]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120151/the-download-combating-audio-deepfakes-and-ai-in-the-classroom/</guid>
+      <title>AI Mother Tongue: Self-Emergent Communication in MARL via Endogenous Symbol Systems</title>
+      <link>https://arxiv.org/abs/2507.10566</link>
+      <description>&lt;![CDATA[AI Mother Tongue: Self-Emergent Communication in MARL via Endogenous Symbol Systems]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.10566</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI text-to-speech programs could “unlearn” how to imitate certain people</title>
-      <link>https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/</link>
-      <description>&lt;![CDATA[AI text-to-speech programs could “unlearn” how to imitate certain people]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/</guid>
+      <title>From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents</title>
+      <link>https://arxiv.org/abs/2507.10644</link>
+      <description>&lt;![CDATA[From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.10644</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI’s giants want to take over the classroom</title>
-      <link>https://www.technologyreview.com/2025/07/15/1120086/ais-giants-want-to-take-over-the-classroom/</link>
-      <description>&lt;![CDATA[AI’s giants want to take over the classroom]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120086/ais-giants-want-to-take-over-the-classroom/</guid>
+      <title>Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety</title>
+      <link>https://arxiv.org/abs/2507.11473</link>
+      <description>&lt;![CDATA[Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11473</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Finding value with AI automation</title>
-      <link>https://www.technologyreview.com/2025/07/15/1119978/finding-value-with-ai-automation/</link>
-      <description>&lt;![CDATA[Finding value with AI automation]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1119978/finding-value-with-ai-automation/</guid>
+      <title>Defining neurosymbolic AI</title>
+      <link>https://arxiv.org/abs/2507.11127</link>
+      <description>&lt;![CDATA[Defining neurosymbolic AI]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11127</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Shaping the future with adaptive production</title>
-      <link>https://www.technologyreview.com/2025/07/15/1120083/shaping-the-future-with-adaptive-production/</link>
-      <description>&lt;![CDATA[Shaping the future with adaptive production]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/15/1120083/shaping-the-future-with-adaptive-production/</guid>
+      <title>ICML 2025｜多模态理解与生成最新进展：港科联合SnapResearch发布ThinkDiff，为扩散模型装上大脑</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-3</link>
+      <description>&lt;![CDATA[ICML 2025｜多模态理解与生成最新进展：港科联合SnapResearch发布ThinkDiff，为扩散模型装上大脑]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克Grok这个二次元「小姐姐」，攻陷了整个互联网</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-15-17</link>
-      <description>&lt;![CDATA[马斯克Grok这个二次元「小姐姐」，攻陷了整个互联网]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-15-17</guid>
+      <title>AI and the Net-Zero Journey: Energy Demand, Emissions, and the Potential for Transition</title>
+      <link>https://arxiv.org/abs/2507.10750</link>
+      <description>&lt;![CDATA[AI and the Net-Zero Journey: Energy Demand, Emissions, and the Potential for Transition]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.10750</guid>
       <category>AI</category>
     </item>
   </channel>

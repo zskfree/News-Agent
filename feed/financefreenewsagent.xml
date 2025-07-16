@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 23:21:46 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 05:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 05:28:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CPI report: Sharpest inflation pickup in five months could keep Fed sidelined</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=695b5f6b-825d-4278-912f-c5caa1e54855&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[CPI report: Sharpest inflation pickup in five months could keep Fed sidelined]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 12:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=695b5f6b-825d-4278-912f-c5caa1e54855&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Dow falls over 400 points after June CPI, but chip stocks power Nasdaq to record</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=33519c4c-5acc-41d4-81b1-2926a51c7825&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Dow falls over 400 points after June CPI, but chip stocks power Nasdaq to record]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=33519c4c-5acc-41d4-81b1-2926a51c7825&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
       <title>Bond market sends troubling signal on inflation that should concern investors</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=4b074f35-8b7b-40c2-bbf0-14d0283f291b&amp;mod=mw_rss_bulletins</link>
+      <link>https://www.marketwatch.com/story/bond-market-sends-troubling-signal-on-inflation-that-should-concern-investors-dbde9926?mod=mw_rss_topstories</link>
       <description>&lt;![CDATA[Bond market sends troubling signal on inflation that should concern investors]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=4b074f35-8b7b-40c2-bbf0-14d0283f291b&amp;mod=mw_rss_bulletins</guid>
+      <pubDate>Wed, 16 Jul 2025 02:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/bond-market-sends-troubling-signal-on-inflation-that-should-concern-investors-dbde9926?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>S&amp;P 500 stumbles after hitting intraday high — the downside of a narrow rally</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5f16f131-798a-42f3-88b4-db7658f13e8e&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[S&amp;P 500 stumbles after hitting intraday high — the downside of a narrow rally]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5f16f131-798a-42f3-88b4-db7658f13e8e&amp;mod=mw_rss_bulletins</guid>
+      <title>Are airline stocks set to rally like it’s 2024? Here’s what might be missing this time around.</title>
+      <link>https://www.marketwatch.com/story/are-airline-stocks-set-to-rally-like-its-2024-heres-what-might-be-missing-this-time-around-6cd8b0eb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Are airline stocks set to rally like it’s 2024? Here’s what might be missing this time around.]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 01:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/are-airline-stocks-set-to-rally-like-its-2024-heres-what-might-be-missing-this-time-around-6cd8b0eb?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>This shortcut to going public is making a comeback after an epic bust. What investors need to know.</title>
-      <link>https://www.marketwatch.com/story/this-shortcut-to-going-public-is-making-a-comeback-after-an-epic-bust-what-investors-need-to-know-b2529c98?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This shortcut to going public is making a comeback after an epic bust. What investors need to know.]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 20:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-shortcut-to-going-public-is-making-a-comeback-after-an-epic-bust-what-investors-need-to-know-b2529c98?mod=mw_rss_topstories</guid>
+      <title>My grandmother disinherited my father, yet made him executor of her will. Now he refuses to file for probate.</title>
+      <link>https://www.marketwatch.com/story/my-grandmother-disinherited-my-father-yet-made-him-executor-of-her-will-now-he-refuses-to-file-for-probate-0028f23c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[My grandmother disinherited my father, yet made him executor of her will. Now he refuses to file for probate.]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 00:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/my-grandmother-disinherited-my-father-yet-made-him-executor-of-her-will-now-he-refuses-to-file-for-probate-0028f23c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>JPMorgan’s Jamie Dimon on stablecoins: ‘I think they’re real,’ but why use them?</title>
-      <link>https://www.marketwatch.com/story/jpmorgans-jamie-dimon-on-stablecoins-i-think-theyre-real-but-why-use-them-b0195bad?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[JPMorgan’s Jamie Dimon on stablecoins: ‘I think they’re real,’ but why use them?]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/jpmorgans-jamie-dimon-on-stablecoins-i-think-theyre-real-but-why-use-them-b0195bad?mod=mw_rss_topstories</guid>
+      <title>‘I enjoy vacations to Europe’: I’m 75 and have $1 million in an IRA. Why do I feel guilty?</title>
+      <link>https://www.marketwatch.com/story/i-enjoy-vacations-to-europe-im-75-have-1-million-in-an-ira-and-2-4-million-in-real-estate-why-do-i-feel-guilty-c0d0b30a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I enjoy vacations to Europe’: I’m 75 and have $1 million in an IRA. Why do I feel guilty?]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 23:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-enjoy-vacations-to-europe-im-75-have-1-million-in-an-ira-and-2-4-million-in-real-estate-why-do-i-feel-guilty-c0d0b30a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia’s stock pops as China win may pave path to $5 trillion market cap — and beyond</title>
-      <link>https://www.marketwatch.com/story/nvidias-stock-pops-as-china-win-may-pave-the-way-for-5-trillion-market-cap-and-beyond-e071d628?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s stock pops as China win may pave path to $5 trillion market cap — and beyond]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 22:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-stock-pops-as-china-win-may-pave-the-way-for-5-trillion-market-cap-and-beyond-e071d628?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Home insurance costs soar. Another looming threat could make things even worse.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7fe5044e-368f-4e70-972b-f9384872da7d&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Home insurance costs soar. Another looming threat could make things even worse.]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 23:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7fe5044e-368f-4e70-972b-f9384872da7d&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A warning for all Americans — this is not a good time to put things on credit</title>
-      <link>https://www.marketwatch.com/story/treat-your-credit-score-with-the-respect-you-would-treat-a-lover-2e1bc245?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[A warning for all Americans — this is not a good time to put things on credit]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 22:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/treat-your-credit-score-with-the-respect-you-would-treat-a-lover-2e1bc245?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Albertsons shows why tariff inflation isn’t showing up yet</title>
-      <link>https://www.marketwatch.com/story/albertsons-shows-why-tariff-inflation-isnt-showing-up-yet-ec888c86?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Albertsons shows why tariff inflation isn’t showing up yet]]&gt;</description>
-      <pubDate>Tue, 15 Jul 2025 21:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/albertsons-shows-why-tariff-inflation-isnt-showing-up-yet-ec888c86?mod=mw_rss_topstories</guid>
+      <title>He broke the Bank of England — now he’s coming for America. How to bet with this trading legend using ETFs.</title>
+      <link>https://www.marketwatch.com/story/this-legendary-investor-has-been-shorting-treasury-bonds-heres-how-to-bet-with-him-without-going-broke-3834a0ad?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[He broke the Bank of England — now he’s coming for America. How to bet with this trading legend using ETFs.]]&gt;</description>
+      <pubDate>Tue, 15 Jul 2025 23:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-legendary-investor-has-been-shorting-treasury-bonds-heres-how-to-bet-with-him-without-going-broke-3834a0ad?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
