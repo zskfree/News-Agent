@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-16 05:27
+**最后更新时间**: 2025-07-16 08:30
+
+---
+
+## 🆕 最新更新 (2025-07-16 08:30)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Renault shares dive after French automaker issues profit warning](https://www.marketwatch.com/story/renault-shares-dive-after-french-automaker-issues-profit-warning-0c1d5980?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 08:13
+
+#### [Leading emerging markets strategist says the long American century is over. Place your bets on China, not the U.S.](https://www.marketwatch.com/story/leading-emerging-markets-strategist-says-the-long-american-century-is-over-place-your-bets-on-china-not-the-u-s-fe634fb5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-16 06:43
 
 ---
 

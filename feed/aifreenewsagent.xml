@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Jul 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2025 05:28:00 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 08:30:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>重塑记忆架构：LLM正在安装「操作系统」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-4</link>
-      <description>&lt;![CDATA[重塑记忆架构：LLM正在安装「操作系统」]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-4</guid>
+      <title>面对无解问题大模型竟会崩溃？港中文&amp;华为联合提出首个大模型推理可靠性评估基准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-11</link>
+      <description>&lt;![CDATA[面对无解问题大模型竟会崩溃？港中文&amp;华为联合提出首个大模型推理可靠性评估基准]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepMind让AI当「上帝」，导演一场只有AI演员的「西部世界」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-5</link>
-      <description>&lt;![CDATA[DeepMind让AI当「上帝」，导演一场只有AI演员的「西部世界」]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-5</guid>
+      <title>亚马逊云科技入局Vibe Coding，推出Kiro重塑开发流程</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-10</link>
+      <description>&lt;![CDATA[亚马逊云科技入局Vibe Coding，推出Kiro重塑开发流程]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>突发｜思维链开山作者Jason Wei被曝加入Meta，机器之心独家证实：Slack没了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-2</link>
-      <description>&lt;![CDATA[突发｜思维链开山作者Jason Wei被曝加入Meta，机器之心独家证实：Slack没了]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-2</guid>
+      <title>阿里科学家获国际基础科学大会“前沿科学奖”</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-9</link>
+      <description>&lt;![CDATA[阿里科学家获国际基础科学大会“前沿科学奖”]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning</title>
-      <link>https://arxiv.org/abs/2507.10624</link>
-      <description>&lt;![CDATA[Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.10624</guid>
+      <title>玻色子采样在量子人工智能领域首次找到实际应用</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-8</link>
+      <description>&lt;![CDATA[玻色子采样在量子人工智能领域首次找到实际应用]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI Mother Tongue: Self-Emergent Communication in MARL via Endogenous Symbol Systems</title>
-      <link>https://arxiv.org/abs/2507.10566</link>
-      <description>&lt;![CDATA[AI Mother Tongue: Self-Emergent Communication in MARL via Endogenous Symbol Systems]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.10566</guid>
+      <title>AI驱动的自主酶工程平台，底物偏好提升90倍，伊利诺伊大学新研究登Nature子刊</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-16-7</link>
+      <description>&lt;![CDATA[AI驱动的自主酶工程平台，底物偏好提升90倍，伊利诺伊大学新研究登Nature子刊]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents</title>
-      <link>https://arxiv.org/abs/2507.10644</link>
-      <description>&lt;![CDATA[From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.10644</guid>
+      <title>黄仁勋：每天都在用AI，提示工程可以提高认知水平</title>
+      <link>https://www.qbitai.com/2025/07/309877.html</link>
+      <description>&lt;![CDATA[黄仁勋：每天都在用AI，提示工程可以提高认知水平]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309877.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety</title>
-      <link>https://arxiv.org/abs/2507.11473</link>
-      <description>&lt;![CDATA[Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11473</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Defining neurosymbolic AI</title>
-      <link>https://arxiv.org/abs/2507.11127</link>
-      <description>&lt;![CDATA[Defining neurosymbolic AI]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11127</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICML 2025｜多模态理解与生成最新进展：港科联合SnapResearch发布ThinkDiff，为扩散模型装上大脑</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-3</link>
-      <description>&lt;![CDATA[ICML 2025｜多模态理解与生成最新进展：港科联合SnapResearch发布ThinkDiff，为扩散模型装上大脑]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI and the Net-Zero Journey: Energy Demand, Emissions, and the Potential for Transition</title>
-      <link>https://arxiv.org/abs/2507.10750</link>
-      <description>&lt;![CDATA[AI and the Net-Zero Journey: Energy Demand, Emissions, and the Potential for Transition]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.10750</guid>
+      <title>Uber打了个萝卜，数千台Robotaxi落地全球</title>
+      <link>https://www.qbitai.com/2025/07/309852.html</link>
+      <description>&lt;![CDATA[Uber打了个萝卜，数千台Robotaxi落地全球]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 06:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309852.html</guid>
       <category>AI</category>
     </item>
   </channel>

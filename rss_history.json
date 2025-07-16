@@ -3270,6 +3270,48 @@
         "link": "https://arxiv.org/abs/2507.10576",
         "published_date": "Wed, 16 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-16T05:27:37.167433"
+      },
+      "e2c0f498cd5e4f9fdf3ba28cd8b0207d45f92abc18e16d5b9f0f9443ca91b5c3": {
+        "title": "面对无解问题大模型竟会崩溃？港中文&华为联合提出首个大模型推理可靠性评估基准",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-16-11",
+        "published_date": "Wed, 16 Jul 2025 16:25:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.753121"
+      },
+      "c909db777ea5254d336e6a183ed01c6f4a6db76488485025c905024d08426ac3": {
+        "title": "亚马逊云科技入局Vibe Coding，推出Kiro重塑开发流程",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-16-10",
+        "published_date": "Wed, 16 Jul 2025 15:40:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.753264"
+      },
+      "54e570fee948230063870e67a6fbf94d862e8bba250a51a6851fad878af4cb52": {
+        "title": "阿里科学家获国际基础科学大会“前沿科学奖”",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-16-9",
+        "published_date": "Wed, 16 Jul 2025 14:14:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.753409"
+      },
+      "db45bc8406d951b020909ed0c3d5aeb4235390405c7e42d7f9fbc705c2d03562": {
+        "title": "玻色子采样在量子人工智能领域首次找到实际应用",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-16-8",
+        "published_date": "Wed, 16 Jul 2025 14:09:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.753573"
+      },
+      "8e977a003e9f3d8dfa8c888642b65aa8923b352335740f399954711bda812214": {
+        "title": "AI驱动的自主酶工程平台，底物偏好提升90倍，伊利诺伊大学新研究登Nature子刊",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-16-7",
+        "published_date": "Wed, 16 Jul 2025 14:07:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.753846"
+      },
+      "ef0f31f2df13fbcddc0b4279412974b3c47e697975d7eea15b3eab89360fac8a": {
+        "title": "黄仁勋：每天都在用AI，提示工程可以提高认知水平",
+        "link": "https://www.qbitai.com/2025/07/309877.html",
+        "published_date": "Wed, 16 Jul 2025 06:11:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.754137"
+      },
+      "1ea584067523ded786b1cf73e0269e86b2fe49c687ba41d51e8cfd859e89e5f6": {
+        "title": "Uber打了个萝卜，数千台Robotaxi落地全球",
+        "link": "https://www.qbitai.com/2025/07/309852.html",
+        "published_date": "Wed, 16 Jul 2025 06:07:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.754429"
       }
     },
     "Technology": {
@@ -8420,6 +8462,150 @@
         "link": "https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop",
         "published_date": "Tue, 15 Jul 2025 23:49:00 GMT",
         "first_seen": "2025-07-16T05:27:36.875837"
+      },
+      "02620942779965c109af7653be4b1fcb7202d7e89087a254a64912546d587bb0": {
+        "title": "中国ToB软件公司想赚钱，先对AI Coding祛魅",
+        "link": "https://www.infoq.cn/article/7x1xhPWseeFupIGmlabz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Jul 2025 16:19:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690907"
+      },
+      "88b1f288f2d3caf7972ebcfac4bde6a8c96087116df241c1bc48af046ba72a42": {
+        "title": "Xmind出海最佳实践： 从工具到 SaaS化转型，不打价格战，坚持产品差异化",
+        "link": "https://www.infoq.cn/article/bVX40q5yY9ptimqCKszw?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Jul 2025 15:43:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690979"
+      },
+      "2da6b685f96428ecc7339dfdb4aba63a18247df5fea2d1645f2b66e02daa944d": {
+        "title": "小影科技出海最佳实践：从「全球化试水」到「本地化深耕」的进化之路",
+        "link": "https://www.infoq.cn/article/wE2g3VKaHBoVY3pIpdlR?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.301144"
+      },
+      "29c5dd158a44b7eeeef5c99677b4386c6d738d3f5050d122a5b56d20e74445f2": {
+        "title": "Kiro开放公测：AI编程谁都会，能帮你上线才叫AI IDE",
+        "link": "https://www.infoq.cn/article/GUXzYE9QsqufrHqLOcBK?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Jul 2025 14:36:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690958"
+      },
+      "5f47de95bf99a11d55496054289dce22c169374f79048836cfbd283ad148884e": {
+        "title": "万兴科技出海最佳实践：以全球本地化布局为基石， “天幕” 大模型为引擎，构建全球化数字创意生态",
+        "link": "https://www.infoq.cn/article/y7LAOCX70wKNOFwpB3ge?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Jul 2025 14:25:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690970"
+      },
+      "b013c0d5c7747af8fb64a670ded6cbf4a34a6032af21dde09e91ce420ca98e40": {
+        "title": "创始人“背刺”员工获财富自由，Devin接盘火速兑现员工期权，华人CEO暗讽：做个人吧！",
+        "link": "https://www.infoq.cn/article/rQvvtIiw4qrZgDLttWIC?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Jul 2025 14:05:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.302257"
+      },
+      "2794d02756b26529bec163fb102c8a256526827977b5c32682200a919324d433": {
+        "title": "AI 上新｜这个 AI 浏览器，替我给女朋友打了「分手电话」",
+        "link": "http://www.geekpark.net/news/351583",
+        "published_date": "Wed, 16 Jul 2025 15:59:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.302744"
+      },
+      "389c102337ded350f778616dcbba37105d74fd271f9ea5bdc11d45f9112ce7ff": {
+        "title": "那些超出想象的AI Agent",
+        "link": "https://www.tmtpost.com/7627743.html",
+        "published_date": "Wed, 16 Jul 2025 15:51:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690917"
+      },
+      "cc9a5aecf29b13e8c489e09b416b5ce8b400fb54d06f6296f352ffb7dbf8f742": {
+        "title": "古茗加盟商开始拼体力",
+        "link": "https://www.tmtpost.com/7627708.html",
+        "published_date": "Wed, 16 Jul 2025 15:24:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.303318"
+      },
+      "a2ce770dac4e408f118b0774bf55d40ea3f128ccd75d40445bbfa6dc5f7cb980": {
+        "title": "7月16日A股分析：三大股指集体收跌，两市合计成交14420.43亿元，资金流入最多的行业板块为电力行业、汽车零部件",
+        "link": "https://www.tmtpost.com/7627903.html",
+        "published_date": "Wed, 16 Jul 2025 15:11:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.304205"
+      },
+      "484d7abe7704eb2c6b41228ea4e935cb61d0035074b7b1dfa7ff91f5233f095c": {
+        "title": "“配角”菜鸟，为阿里的跨境电商“打辅助”",
+        "link": "https://www.tmtpost.com/7627665.html",
+        "published_date": "Wed, 16 Jul 2025 15:06:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.304789"
+      },
+      "ea0ba512299ab5a5bcdb7364699bb3477aba599fc15e2826b0a6c71818afc4d0": {
+        "title": "“4 倍”禾赛：被特斯拉抛弃的激光雷达为何又 “有光” 了？",
+        "link": "https://www.tmtpost.com/7627705.html",
+        "published_date": "Wed, 16 Jul 2025 15:06:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690948"
+      },
+      "50775b721b3b54430e4054803ed2a14e0f1f5d942859cd4d611944843d13b236": {
+        "title": "成功发债30天后，中科创星再募26.17亿元",
+        "link": "https://www.tmtpost.com/7627886.html",
+        "published_date": "Wed, 16 Jul 2025 15:02:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.306130"
+      },
+      "263c01d68a892ad3956e47451d466f689802bd349f2ac1479c3f551bc7a30d11": {
+        "title": "巨亏超7500万！“高端零食第一股”，也要卖了？",
+        "link": "https://www.tmtpost.com/7627426.html",
+        "published_date": "Wed, 16 Jul 2025 14:52:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.306763"
+      },
+      "ce8e8c3c1d7915677d3929cb7dfd90cd3883b5035ec1729388c0eb5bb872f949": {
+        "title": "镍下半年展望：日子好起来了？",
+        "link": "https://www.tmtpost.com/7627577.html",
+        "published_date": "Wed, 16 Jul 2025 14:52:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.307243"
+      },
+      "75c47b2f7bc3c77c2a6633977a064025f4256d7c72d217cb3d3c4513de387393": {
+        "title": "9.9打不动，90亿抢着买？资本为何青睐星巴克",
+        "link": "https://www.tmtpost.com/7627582.html",
+        "published_date": "Wed, 16 Jul 2025 14:52:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.308072"
+      },
+      "de3250dfbf4fbd65b0f4733fb57c664591b696a0a78af6777ae3241c03899d41": {
+        "title": "英伟达：中美通吃",
+        "link": "https://www.tmtpost.com/7627616.html",
+        "published_date": "Wed, 16 Jul 2025 14:52:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690872"
+      },
+      "aa7f149626346f84a7a1fbfe45bfea571f495d3068f077ed104b59bc1c27ec00": {
+        "title": "“胖改”路上，永辉超市阵痛加剧",
+        "link": "https://www.tmtpost.com/7627407.html",
+        "published_date": "Wed, 16 Jul 2025 14:27:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.309249"
+      },
+      "d785c9684538d7f83785a9bafb98c5a7a295551bd47ca9906c4b8c415f55da96": {
+        "title": "Trump Signals Pharma and Chip Tariffs, Levies on Small Economies to Come",
+        "link": "https://www.tmtpost.com/7627837.html",
+        "published_date": "Wed, 16 Jul 2025 14:16:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690893"
+      },
+      "0adff6479c0bf94aad532fcc56815ee09219d679bb5595d52d929bc8f4af38e7": {
+        "title": "什么是真的AI思维？",
+        "link": "https://www.tmtpost.com/7627280.html",
+        "published_date": "Wed, 16 Jul 2025 14:15:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690926"
+      },
+      "0fc0c69bedd03064a93bd998c1d5934944a641c84c10c233dc5b8fe874fec6f2": {
+        "title": "AI表格再掀战事，大厂争夺“下一代Office”",
+        "link": "https://www.tmtpost.com/7627319.html",
+        "published_date": "Wed, 16 Jul 2025 14:15:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.690936"
+      },
+      "e11c922270c28fe33584fed091e3e3bdd549354927553e16077d97d35f3f675b": {
+        "title": "U.S. Opens Section 301 Probe into Brazil's \"Unfair\" Trade Practices following Trump's 50% Tariff Threat",
+        "link": "https://www.tmtpost.com/7627802.html",
+        "published_date": "Wed, 16 Jul 2025 13:41:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.315136"
+      },
+      "fcd6ef1e95da38d8aa6645a3addea5b0ef7d66e4edb7c4c65e274dbe4f127a54": {
+        "title": "Trump Says Trade Deal \"Pretty Well Set\" after Vietnam Reportedly Questions Traiff Rate",
+        "link": "https://www.tmtpost.com/7627798.html",
+        "published_date": "Wed, 16 Jul 2025 13:39:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.317613"
+      },
+      "f98dcbccbbd8576374d82a2db473fd1e5311fdd967ba7e0685c521fbcf6a3213": {
+        "title": "曲中人心、词悦双眼，高颜值 Windows 歌词展示工具：Better Lyrics",
+        "link": "https://sspai.com/post/101028",
+        "published_date": "Wed, 16 Jul 2025 15:10:00 GMT",
+        "first_seen": "2025-07-16T08:30:22.319545"
       }
     },
     "Finance": {
@@ -9556,12 +9742,24 @@
         "link": "https://www.marketwatch.com/story/this-legendary-investor-has-been-shorting-treasury-bonds-heres-how-to-bet-with-him-without-going-broke-3834a0ad?mod=mw_rss_topstories",
         "published_date": "Tue, 15 Jul 2025 23:25:00 GMT",
         "first_seen": "2025-07-16T05:28:00.223729"
+      },
+      "4ba108eba5f08bf39f62cfe6f7442e64165bffe7e4ea1bdc917db3413f150e46": {
+        "title": "Renault shares dive after French automaker issues profit warning",
+        "link": "https://www.marketwatch.com/story/renault-shares-dive-after-french-automaker-issues-profit-warning-0c1d5980?mod=mw_rss_topstories",
+        "published_date": "Wed, 16 Jul 2025 08:13:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.765797"
+      },
+      "cba3afa6f990e75cead2e2be8aa1ef572b73e335dd0e5cd166a800da5d7db3f0": {
+        "title": "Leading emerging markets strategist says the long American century is over. Place your bets on China, not the U.S.",
+        "link": "https://www.marketwatch.com/story/leading-emerging-markets-strategist-says-the-long-american-century-is-over-place-your-bets-on-china-not-the-u-s-fe634fb5?mod=mw_rss_topstories",
+        "published_date": "Wed, 16 Jul 2025 06:43:00 GMT",
+        "first_seen": "2025-07-16T08:30:43.765992"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-16T05:28:00.215346",
-    "Technology": "2025-07-16T05:27:36.904214",
-    "Finance": "2025-07-16T05:28:00.227746"
+    "AI": "2025-07-16T08:30:43.761967",
+    "Technology": "2025-07-16T08:30:43.733687",
+    "Finance": "2025-07-16T08:30:43.769838"
   }
 }
