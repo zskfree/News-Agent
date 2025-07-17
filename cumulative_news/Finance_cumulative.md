@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-17 08:30
+**最后更新时间**: 2025-07-17 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-17 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fed’s Waller says labor market is weaker than it looks, justifying a rate cut](https://www.marketwatch.com/bulletins/redirect/go?g=90e9610e-e9e0-40f4-a902-440edceb5d15&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 22:55
+
+#### [Are stablecoins the next Venmo? Banks prep for next big payments competition.](https://www.marketwatch.com/bulletins/redirect/go?g=abde116f-3c49-4232-b583-993e5f0df7bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 21:58
+
+#### [Three crypto bills advance in the U.S. House. Why investors are hopeful.](https://www.marketwatch.com/bulletins/redirect/go?g=0fa1a0d6-9a9a-410f-9b26-33a01dbb821b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 21:21
+
+#### [Netflix’s earnings surge — but it's not enough to lift the stock](https://www.marketwatch.com/bulletins/redirect/go?g=1ffa0bb1-c30b-46aa-b8fe-35bbdbd9e656&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 20:58
+
+#### [S&P 500, Nasdaq end at fresh record highs as investors buoyed by economic data](https://www.marketwatch.com/bulletins/redirect/go?g=0e1c4f37-0c0f-40c2-83de-82e7fd5be097&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 20:02
+
+#### [Stocks with social-media buzz are up big. One analyst says they've gone too far.](https://www.marketwatch.com/bulletins/redirect/go?g=401ef11d-5436-463b-a2f8-9d9e564d0a37&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 19:36
+
+#### [Stocks with social-media buzz are up big. One analyst says they've gone too far.](https://www.marketwatch.com/bulletins/redirect/go?g=101661a3-3305-44b3-997e-5f4275551fa6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 19:34
+
+#### [S&P 500, Nasdaq aim for fresh records after sturdy economic data — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=587fb151-ac48-4d34-9a7d-350d5a5d44d7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 19:00
+
+#### [The stock market isn’t waiting around for Aug. 1 to see if tariffs will hurt](https://www.marketwatch.com/bulletins/redirect/go?g=368c3685-0017-424e-ae88-51711a38010c&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 17:23
+
+#### [A 15-year mortgage may be the most underrated offering in real estate right now](https://www.marketwatch.com/bulletins/redirect/go?g=f1abe11a-588f-4000-aa62-ff05ae48ca67&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 17:04
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Fed’s Waller says labor market is weaker than it looks, justifying interest-rate cut this month](https://www.marketwatch.com/story/feds-waller-says-labor-market-is-weaker-than-it-looks-justifying-interest-rate-cut-this-month-4a1187c7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 22:51
+
+#### [Why these homeowners say the 15-year mortgage is the most underrated offering in real estate right now](https://www.marketwatch.com/story/why-these-homeowners-say-the-15-year-mortgage-is-the-most-underrated-offering-in-real-estate-right-now-91deafd1?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 22:25
+
+#### [Netflix’s profit surges. But it was not enough for the stock.](https://www.marketwatch.com/story/netflixs-profit-surges-it-was-not-enough-for-the-stock-36c07570?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 22:05
+
+#### [I have early Alzheimer’s and my husband has stage 4 kidney disease. We just inherited $50K. How can this help us?](https://www.marketwatch.com/story/i-have-early-alzheimers-and-my-husband-has-stage-4-kidney-disease-we-just-inherited-50-000-what-now-496bd0cd?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 22:00
+
+#### [Are stablecoins the next Venmo? Big banks prep for the next big payments competition.](https://www.marketwatch.com/story/are-stablecoins-the-next-venmo-big-banks-prep-for-the-next-big-payments-competition-2f8abdc3?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 21:06
+
+#### [Oracle looks to join an exclusive club as it approaches this market milestone](https://www.marketwatch.com/story/oracle-looks-to-join-an-exclusive-club-as-it-approaches-this-financial-milestone-0aa8033e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 21:00
+
+#### [Three crypto bills advance in the House. Why investors are hopeful.](https://www.marketwatch.com/story/three-crypto-bills-advance-in-the-house-why-investors-are-hopeful-24370ac5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 20:59
+
+#### [Enjoy the stock market’s rally — but watch out for these overbought indicators](https://www.marketwatch.com/story/enjoy-the-stock-markets-rally-but-watch-out-for-these-overbought-indicators-d5ae431a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 20:58
+
+#### [AI will take your job in the next 18 months. Here’s your survival guide.](https://www.marketwatch.com/story/ai-will-take-your-job-in-the-next-18-months-heres-your-survival-guide-b92c73eb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 20:56
 
 ---
 

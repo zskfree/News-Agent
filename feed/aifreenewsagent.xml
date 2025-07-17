@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Jul 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Jul 2025 08:30:43 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 23:22:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>粉笔盘中一度涨超25.5%，千万级用户池构建AI产品壁垒</title>
-      <link>https://www.qbitai.com/2025/07/310133.html</link>
-      <description>&lt;![CDATA[粉笔盘中一度涨超25.5%，千万级用户池构建AI产品壁垒]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 07:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310133.html</guid>
+      <title>Finding value from AI agents from day one</title>
+      <link>https://www.technologyreview.com/2025/07/17/1119943/finding-value-from-ai-agents-from-day-one/</link>
+      <description>&lt;![CDATA[Finding value from AI agents from day one]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 19:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/17/1119943/finding-value-from-ai-agents-from-day-one/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>云计算一哥，刚刚重新定义了AI Agent的玩法</title>
-      <link>https://www.qbitai.com/2025/07/310077.html</link>
-      <description>&lt;![CDATA[云计算一哥，刚刚重新定义了AI Agent的玩法]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 07:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310077.html</guid>
+      <title>How to run an LLM on your laptop</title>
+      <link>https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/</link>
+      <description>&lt;![CDATA[How to run an LLM on your laptop]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>500美元刷新SOTA！训练成本砍到1/200，华人团队重构视频生成范式</title>
-      <link>https://www.qbitai.com/2025/07/310033.html</link>
-      <description>&lt;![CDATA[500美元刷新SOTA！训练成本砍到1/200，华人团队重构视频生成范式]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 06:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310033.html</guid>
+      <title>The Download: three-person babies, and tracking “AI readiness” in the US</title>
+      <link>https://www.technologyreview.com/2025/07/17/1120366/the-download-three-person-babies-and-tracking-ai-readiness-in-the-us/</link>
+      <description>&lt;![CDATA[The Download: three-person babies, and tracking “AI readiness” in the US]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/17/1120366/the-download-three-person-babies-and-tracking-ai-readiness-in-the-us/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>1万tokens是检验长文本的新基准，超过后18款大模型集体失智</title>
-      <link>https://www.qbitai.com/2025/07/310013.html</link>
-      <description>&lt;![CDATA[1万tokens是检验长文本的新基准，超过后18款大模型集体失智]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 06:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310013.html</guid>
+      <title>In defense of air-conditioning</title>
+      <link>https://www.technologyreview.com/2025/07/17/1120293/air-conditioning-safety-europe/</link>
+      <description>&lt;![CDATA[In defense of air-conditioning]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/17/1120293/air-conditioning-safety-europe/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>深谋科技独家发布：真正为人类服务的新一代人形机器人核心技术</title>
-      <link>https://www.qbitai.com/2025/07/310005.html</link>
-      <description>&lt;![CDATA[深谋科技独家发布：真正为人类服务的新一代人形机器人核心技术]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 06:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310005.html</guid>
+      <title>Measuring heart rate with consumer ultra-wideband radar</title>
+      <link>https://research.google/blog/measuring-heart-rate-with-consumer-ultra-wideband-radar/</link>
+      <description>&lt;![CDATA[Measuring heart rate with consumer ultra-wideband radar]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/measuring-heart-rate-with-consumer-ultra-wideband-radar/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苹果向英伟达生态妥协了！MLX框架主动适配CUDA</title>
-      <link>https://www.qbitai.com/2025/07/309995.html</link>
-      <description>&lt;![CDATA[苹果向英伟达生态妥协了！MLX框架主动适配CUDA]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 06:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309995.html</guid>
+      <title>Android Earthquake Alerts: A global system for early warning</title>
+      <link>https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/</link>
+      <description>&lt;![CDATA[Android Earthquake Alerts: A global system for early warning]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Transformer危！谷歌MoR架构发布：内存减半推理速度还翻倍</title>
+      <link>https://www.qbitai.com/2025/07/310170.html</link>
+      <description>&lt;![CDATA[Transformer危！谷歌MoR架构发布：内存减半推理速度还翻倍]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310170.html</guid>
       <category>AI</category>
     </item>
   </channel>

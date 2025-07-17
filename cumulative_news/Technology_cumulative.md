@@ -1,7 +1,152 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-17 08:30
+**最后更新时间**: 2025-07-17 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-17 23:22)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [刚刚，OpenAI 发布了自己的 Agent模式，Manus Style](http://www.geekpark.net/news/351632)
+**发布时间**: 2025-07-18 04:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [超级碗Foodbowl门店达100家，在深圳杭州开放联营加盟 | 独家](https://www.tmtpost.com/7628518.html)
+**发布时间**: 2025-07-17 23:12
+
+#### [县城没有即时零售](https://www.tmtpost.com/7629623.html)
+**发布时间**: 2025-07-17 20:48
+
+#### [IPO募投项目延期两年未达产，统联精密发可转债“豪赌”新风口](https://www.tmtpost.com/7629700.html)
+**发布时间**: 2025-07-17 20:20
+
+#### [台州老板“组团”出手！*ST创兴易主，“水泵大王”冲刺“保壳战”](https://www.tmtpost.com/7629710.html)
+**发布时间**: 2025-07-17 20:18
+
+#### [酒类股中报预警：业绩集体“跳水”，白酒下半年风险加大｜行业风向标](https://www.tmtpost.com/7629662.html)
+**发布时间**: 2025-07-17 19:35
+
+#### [一夜暴涨上万亿，黄仁勋访华有何深意？](https://www.tmtpost.com/7629292.html)
+**发布时间**: 2025-07-17 18:57
+
+#### [王坚对谈黄仁勋，都聊了啥？](https://www.tmtpost.com/7629612.html)
+**发布时间**: 2025-07-17 18:55
+
+#### [沐邦高科的朋友圈](https://www.tmtpost.com/7629525.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [开家实体小店，还能撑起年轻人的“创业梦”吗？](https://www.tmtpost.com/7629540.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [起底宗盛科技，宗馥莉亲叔叔宗泽后的商业版图](https://www.tmtpost.com/7629568.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [API攻击激增，安全智能体何以安全？丨ToB产业观察](https://www.tmtpost.com/7628823.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [“狗血内斗”已成全球豪门的基本戏码？](https://www.tmtpost.com/7629600.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [“并购之王”初露峥嵘，中国pharma新时代开启](https://www.tmtpost.com/7629590.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [硬气的台积电，才是半导体真 “脊梁骨”](https://www.tmtpost.com/7629621.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [大厂“疯投”机器人，背后有共识](https://www.tmtpost.com/7629610.html)
+**发布时间**: 2025-07-17 18:54
+
+#### [关税战阴影下的LNG贸易变局｜巴伦精选](https://www.tmtpost.com/7629467.html)
+**发布时间**: 2025-07-17 18:11
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The crypto industry got what it paid for](https://www.theverge.com/politics/709483/crypto-week-genius-clarity-act-trump)
+**发布时间**: 2025-07-17 22:37
+
+#### [Netflix says it&#8217;s streamed 95 billion hours in 2025, and a lot of ads too](https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue)
+**发布时间**: 2025-07-17 21:47
+
+#### [These overpriced airport battery chargers have been recalled for a fire risk](https://www.theverge.com/news/709334/istore-recall-uscpsc-magnetic-wireless-power-bank)
+**发布时间**: 2025-07-17 21:32
+
+#### [You can once again buy the AirPods 4 for less than $90](https://www.theverge.com/tech/709338/apple-airpods-4-active-noise-cancellation-deal-sale)
+**发布时间**: 2025-07-17 21:16
+
+#### [Anker’s new charging station battles desktop clutter with two retractable USB-C cables](https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable)
+**发布时间**: 2025-07-17 19:55
+
+#### [Peacock is raising its prices by $3](https://www.theverge.com/news/709315/peacock-price-hike-nbcuniversal)
+**发布时间**: 2025-07-17 19:25
+
+#### [Razer’s new Pokémon collab is not very effective](https://www.theverge.com/tech/709193/razer-pokemon-pc-gaming-accessories-keyboard-mouse-headset)
+**发布时间**: 2025-07-17 19:20
+
+#### [Donkey Kong Bananza is already cheaper at Costco](https://www.theverge.com/tech/709274/donkey-kong-bananza-costco-sale-deal)
+**发布时间**: 2025-07-17 19:03
+
+#### [Right-wing orgs put pro-Palestinian students on an ICE ‘hit list’](https://www.theverge.com/policy/707729/ice-doxxing-canary-mission-columbia-mahmoud-khalil)
+**发布时间**: 2025-07-17 19:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
+**发布时间**: 2025-07-17 21:44
+
+#### [Some Cities in China Are Advertising Exclusive Subsidies for Huawei-Powered Cars](https://www.wired.com/story/huawei-car-china-local-government-subsidies/)
+**发布时间**: 2025-07-17 21:04
+
+#### [The Best Meal Replacement Shakes for Total Life Optimization (2025)](https://www.wired.com/gallery/best-liquid-meal-replacements/)
+**发布时间**: 2025-07-17 21:01
+
+#### [Congress Passes GENIUS Act in Major Win for US Crypto Industry](https://www.wired.com/story/genius-act-congress-crypto-law-passes/)
+**发布时间**: 2025-07-17 20:31
+
+#### [This AI Warps Live Video in Real Time](https://www.wired.com/story/decart-artificial-intelligence-model-live-stream/)
+**发布时间**: 2025-07-17 19:49
+
+#### [Roblox’s New Age Verification Feature Uses AI to Scan Teens’ Video Selfies](https://www.wired.com/story/robloxs-new-age-verification-feature-uses-ai-to-scan-teens-video-selfies/)
+**发布时间**: 2025-07-17 19:37
+
+#### [This Killer Dell 14 Plus Deal Changed My Opinion of the Laptop](https://www.wired.com/story/dell-14-plus-deal-july-2025/)
+**发布时间**: 2025-07-17 17:13
+
+#### [OpenAI’s New ChatGPT Agent Tries to Do It All](https://www.wired.com/story/openai-chatgpt-agent-launch/)
+**发布时间**: 2025-07-17 17:00
+
+#### [3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)](https://www.wired.com/gallery/best-hall-effect-keyboards/)
+**发布时间**: 2025-07-17 14:03
+
+#### [Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget](https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/)
+**发布时间**: 2025-07-17 12:05
+
+#### [9 Best MagSafe Wallets, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-magsafe-wallets/)
+**发布时间**: 2025-07-17 11:37
+
+#### [Hackers Are Finding New Ways to Hide Malware in DNS Records](https://www.wired.com/story/dns-records-hidden-malicious-code/)
+**发布时间**: 2025-07-17 11:30
+
+#### [DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists](https://www.wired.com/story/doge-direct-file-chopping-block/)
+**发布时间**: 2025-07-17 11:00
+
+#### [Bring On the MAGA Revolt](https://www.wired.com/story/trump-epstein-maga-revolt/)
+**发布时间**: 2025-07-17 10:30
+
+#### [Where Are All the AI Drugs?](https://www.wired.com/story/artificial-intelligence-drug-discovery/)
+**发布时间**: 2025-07-17 10:00
+
+#### [4 Best Music Streaming Services (2025): Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)
+**发布时间**: 2025-07-17 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在手机严重同质化的时代，Nothing 希望帮你找回科技的乐趣](https://sspai.com/post/101101)
+**发布时间**: 2025-07-17 17:00
+
+#### [异泽 13 合 1 拓展坞体验：或许是适合普通人一步到位的选择](https://sspai.com/post/101076)
+**发布时间**: 2025-07-17 16:00
 
 ---
 

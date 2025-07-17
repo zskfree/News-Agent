@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-17 08:30
+**最后更新时间**: 2025-07-17 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-17 23:22)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Finding value from AI agents from day one](https://www.technologyreview.com/2025/07/17/1119943/finding-value-from-ai-agents-from-day-one/)
+**发布时间**: 2025-07-17 19:27
+
+#### [How to run an LLM on your laptop](https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/)
+**发布时间**: 2025-07-17 17:01
+
+#### [The Download: three-person babies, and tracking “AI readiness” in the US](https://www.technologyreview.com/2025/07/17/1120366/the-download-three-person-babies-and-tracking-ai-readiness-in-the-us/)
+**发布时间**: 2025-07-17 12:10
+
+#### [In defense of air-conditioning](https://www.technologyreview.com/2025/07/17/1120293/air-conditioning-safety-europe/)
+**发布时间**: 2025-07-17 10:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Measuring heart rate with consumer ultra-wideband radar](https://research.google/blog/measuring-heart-rate-with-consumer-ultra-wideband-radar/)
+**发布时间**: 2025-07-17 19:00
+
+#### [Android Earthquake Alerts: A global system for early warning](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/)
+**发布时间**: 2025-07-17 09:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Transformer危！谷歌MoR架构发布：内存减半推理速度还翻倍](https://www.qbitai.com/2025/07/310170.html)
+**发布时间**: 2025-07-17 09:25
 
 ---
 
