@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-17 05:26
+**最后更新时间**: 2025-07-17 08:30
+
+---
+
+## 🆕 最新更新 (2025-07-17 08:30)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Currency trading firm Argentex halts operations](https://www.marketwatch.com/bulletins/redirect/go?g=d2b84fb1-d1c5-40f3-a5f1-4a47217f5e70&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 08:18
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Taiwan Semi profit booms by 61% as Nvidia buoys demand](https://www.marketwatch.com/story/taiwan-semi-profit-booms-by-61-as-nvidia-buoys-demand-9ea32111?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 07:05
 
 ---
 

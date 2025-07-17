@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Jul 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Jul 2025 05:26:32 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 08:30:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>China Eyes Breakthroughs in AI Chip Power as Global Arms Race Accelerates</title>
-      <link>https://www.tmtpost.com/7629139.html</link>
-      <description>&lt;![CDATA[China Eyes Breakthroughs in AI Chip Power as Global Arms Race Accelerates]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7629139.html</guid>
+      <title>Nvidia CEO: Next Wave of AI is &quot;Physical AI,&quot; Taps China's Expanding Role in Global AI Ecosystem</title>
+      <link>https://www.tmtpost.com/7629394.html</link>
+      <description>&lt;![CDATA[Nvidia CEO: Next Wave of AI is &quot;Physical AI,&quot; Taps China's Expanding Role in Global AI Ecosystem]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7629394.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】黄仁勋链博会发言速览：AI下一波浪潮将是机器人系统，英伟达需要时间提升H20供应链产能；特斯拉六座版MODEL Y L登上工信部新车目录；又一个“首次”，中国天眼FAST再传好消息</title>
-      <link>https://www.tmtpost.com/7628535.html</link>
-      <description>&lt;![CDATA[【钛晨报】黄仁勋链博会发言速览：AI下一波浪潮将是机器人系统，英伟达需要时间提升H20供应链产能；特斯拉六座版MODEL Y L登上工信部新车目录；又一个“首次”，中国天眼FAST再传好消息]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7628535.html</guid>
+      <title>大语言模型离“数学证明高手”还有多远？斯坦福、伯克利、MIT 团队提出 IneqMath 评测标准</title>
+      <link>https://www.infoq.cn/article/YOS5brkZkfsoHqBU2606?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大语言模型离“数学证明高手”还有多远？斯坦福、伯克利、MIT 团队提出 IneqMath 评测标准]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YOS5brkZkfsoHqBU2606?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 落地实况：能用吗？怎么用？用到哪儿了？｜InfoQ《极客有约》</title>
-      <link>https://www.infoq.cn/video/o8NYTZ6CPUoCytpNWV9P?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 落地实况：能用吗？怎么用？用到哪儿了？｜InfoQ《极客有约》]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 11:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/o8NYTZ6CPUoCytpNWV9P?utm_source=rss&amp;utm_medium=article</guid>
+      <title>那些率先实现了 AI 落地的公司，做对了什么？</title>
+      <link>http://www.geekpark.net/news/351617</link>
+      <description>&lt;![CDATA[那些率先实现了 AI 落地的公司，做对了什么？]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351617</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 编码让资深程序员“掉速”19%！OpenAI 前研究员实锤：别再交“AI 工具智商税”了，谷歌大佬力挺！</title>
-      <link>https://www.infoq.cn/article/pq7vdUTbyKX1aT26liQ9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 编码让资深程序员“掉速”19%！OpenAI 前研究员实锤：别再交“AI 工具智商税”了，谷歌大佬力挺！]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pq7vdUTbyKX1aT26liQ9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Bing Overtakes Google in China's PC Search Market, Fueled by AI and Microsoft Ecosystem</title>
+      <link>https://www.tmtpost.com/7629329.html</link>
+      <description>&lt;![CDATA[Bing Overtakes Google in China's PC Search Market, Fueled by AI and Microsoft Ecosystem]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7629329.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>创业大佬离开 OpenAI 后说了实话：7 周硬扛出 Codex，不管争议先干了再说</title>
-      <link>https://www.infoq.cn/article/zSPHprcxUrIh8pOmlVAm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[创业大佬离开 OpenAI 后说了实话：7 周硬扛出 Codex，不管争议先干了再说]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zSPHprcxUrIh8pOmlVAm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Manus热潮看中国科技出海：新加坡能否成最佳首站？</title>
+      <link>https://www.infoq.cn/article/d6RG4tzXcBJhM4qPrcsM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从Manus热潮看中国科技出海：新加坡能否成最佳首站？]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d6RG4tzXcBJhM4qPrcsM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's CAS Star Closes $360 Million ‘Pioneer’ Fund to Back Early-Stage Hard Tech, AI Core to Strategy</title>
-      <link>https://www.tmtpost.com/7629059.html</link>
-      <description>&lt;![CDATA[China's CAS Star Closes $360 Million ‘Pioneer’ Fund to Back Early-Stage Hard Tech, AI Core to Strategy]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7629059.html</guid>
+      <title>李斌说蔚来“钱都亏在了明处”，这些“明处”都是哪儿？</title>
+      <link>https://www.tmtpost.com/7628759.html</link>
+      <description>&lt;![CDATA[李斌说蔚来“钱都亏在了明处”，这些“明处”都是哪儿？]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7628759.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Amazon S3新增排序和Z-Order压缩功能，提升Apache Iceberg查询性能</title>
-      <link>https://www.infoq.cn/article/eA6s4EtQXQjecNYMM8zx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Amazon S3新增排序和Z-Order压缩功能，提升Apache Iceberg查询性能]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eA6s4EtQXQjecNYMM8zx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千亿砸向外卖战场，谁才是真正的赢家？</title>
+      <link>http://www.huxiu.com/article/4585344.html?f=wangzhan</link>
+      <description>&lt;![CDATA[千亿砸向外卖战场，谁才是真正的赢家？]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4585344.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>优化搜索系统：平衡速度、相关性和可伸缩性</title>
-      <link>https://www.infoq.cn/article/JxNwOceuEKoAsEbJ5BR8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[优化搜索系统：平衡速度、相关性和可伸缩性]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JxNwOceuEKoAsEbJ5BR8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>《王者荣耀》勇闯乙女赛道：当英雄变男友，谁在心动？</title>
+      <link>https://www.tmtpost.com/7628783.html</link>
+      <description>&lt;![CDATA[《王者荣耀》勇闯乙女赛道：当英雄变男友，谁在心动？]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7628783.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：特斯拉公布 Model Y L、「网络身份证」正式启用等</title>
-      <link>https://sspai.com/post/101107</link>
-      <description>&lt;![CDATA[派早报：特斯拉公布 Model Y L、「网络身份证」正式启用等]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101107</guid>
+      <title>从Apache顶级项目到创业征程：一个开源人的坚守与突围</title>
+      <link>https://www.infoq.cn/article/SW7BfiMELOSavTwxpf98?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从Apache顶级项目到创业征程：一个开源人的坚守与突围]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SW7BfiMELOSavTwxpf98?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美团王莆中：外卖「卷」没意义，全是泡沫；特斯拉中国特供加长 Model Y 曝光；钟薛高被破产立案审查，资不抵债｜极客早知道</title>
-      <link>http://www.geekpark.net/news/351602</link>
-      <description>&lt;![CDATA[美团王莆中：外卖「卷」没意义，全是泡沫；特斯拉中国特供加长 Model Y 曝光；钟薛高被破产立案审查，资不抵债｜极客早知道]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351602</guid>
+      <title>TikTok is putting the spotlight on songwriters</title>
+      <link>https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab</link>
+      <description>&lt;![CDATA[TikTok is putting the spotlight on songwriters]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab</guid>
       <category>Technology</category>
     </item>
   </channel>

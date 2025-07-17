@@ -3672,6 +3672,42 @@
         "link": "https://arxiv.org/abs/2507.11683",
         "published_date": "Thu, 17 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-17T05:26:32.565047"
+      },
+      "9308480fa3d28776ee40ed0783085d9210a8ab378835e5d7784b3073b94e31cf": {
+        "title": "粉笔盘中一度涨超25.5%，千万级用户池构建AI产品壁垒",
+        "link": "https://www.qbitai.com/2025/07/310133.html",
+        "published_date": "Thu, 17 Jul 2025 07:33:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.511776"
+      },
+      "eb71fad1f237a56569ea9fe4ce20e813fd86db46d3e2d10eaee5395ab38a7a86": {
+        "title": "云计算一哥，刚刚重新定义了AI Agent的玩法",
+        "link": "https://www.qbitai.com/2025/07/310077.html",
+        "published_date": "Thu, 17 Jul 2025 07:26:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.511929"
+      },
+      "7fca4785707bfa07d5712e3aa7991643f54463a5b00fd3df80d91c8bcda2a28a": {
+        "title": "500美元刷新SOTA！训练成本砍到1/200，华人团队重构视频生成范式",
+        "link": "https://www.qbitai.com/2025/07/310033.html",
+        "published_date": "Thu, 17 Jul 2025 06:48:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.512105"
+      },
+      "64e6fc978afff65b63fbeebad4b5be680146e838ece1022ed61d7bd5b76212d6": {
+        "title": "1万tokens是检验长文本的新基准，超过后18款大模型集体失智",
+        "link": "https://www.qbitai.com/2025/07/310013.html",
+        "published_date": "Thu, 17 Jul 2025 06:42:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.512302"
+      },
+      "f245f35b1b266d5c9df67fb9d392fda561d293a65c0f5d7af2399629782efa9c": {
+        "title": "深谋科技独家发布：真正为人类服务的新一代人形机器人核心技术",
+        "link": "https://www.qbitai.com/2025/07/310005.html",
+        "published_date": "Thu, 17 Jul 2025 06:13:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.512533"
+      },
+      "86be3d68338290b88b422b3b54a4fbf6d018236ce4911bad8748d26441abf46a": {
+        "title": "苹果向英伟达生态妥协了！MLX框架主动适配CUDA",
+        "link": "https://www.qbitai.com/2025/07/309995.html",
+        "published_date": "Thu, 17 Jul 2025 06:03:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.512839"
       }
     },
     "Technology": {
@@ -9440,6 +9476,120 @@
         "link": "https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage",
         "published_date": "Wed, 16 Jul 2025 23:26:00 GMT",
         "first_seen": "2025-07-17T05:26:04.603667"
+      },
+      "3ce5c1aaba27eb4b16e68df69d835c36cd48e4c4442bbd3c5e23738ec04f7676": {
+        "title": "大语言模型离“数学证明高手”还有多远？斯坦福、伯克利、MIT 团队提出 IneqMath 评测标准",
+        "link": "https://www.infoq.cn/article/YOS5brkZkfsoHqBU2606?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 17 Jul 2025 16:19:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.453960"
+      },
+      "3d531d4439d72e14692d10ad8fc81c532c1a623406b177312e9b1cf49fabdd82": {
+        "title": "从Apache顶级项目到创业征程：一个开源人的坚守与突围",
+        "link": "https://www.infoq.cn/article/SW7BfiMELOSavTwxpf98?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 17 Jul 2025 15:35:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.454046"
+      },
+      "a5995b440b176653573ecdada55c82679ff0f651931b9447550e0bb3e943975a": {
+        "title": "从Manus热潮看中国科技出海：新加坡能否成最佳首站？",
+        "link": "https://www.infoq.cn/article/d6RG4tzXcBJhM4qPrcsM?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 17 Jul 2025 14:09:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.454001"
+      },
+      "6afe0e97095d6f5983c250afc2540ac3c0d9e40dfd60287d0af9563dacad4932": {
+        "title": "科兴控制权生死局：医学天才李嘉强的最后一搏",
+        "link": "https://www.tmtpost.com/7629122.html",
+        "published_date": "Thu, 17 Jul 2025 15:53:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.351443"
+      },
+      "d9509c8bba1d5f343dd4100a460ccfb5dce03bd182203203596e8da77a2355fa": {
+        "title": "《王者荣耀》勇闯乙女赛道：当英雄变男友，谁在心动？",
+        "link": "https://www.tmtpost.com/7628783.html",
+        "published_date": "Thu, 17 Jul 2025 15:53:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.454036"
+      },
+      "1e1d9eedd3601865227c097d96eee4337e6f30e3437e891c94be7f61e0be123f": {
+        "title": "品牌价值大分离",
+        "link": "https://www.tmtpost.com/7628963.html",
+        "published_date": "Thu, 17 Jul 2025 15:53:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.351897"
+      },
+      "9b12e2276b3c568301ffc5b28b52a4bca62d8f9f42de4b821cf6cf41492020b6": {
+        "title": "7月17日A股分析：沪指涨0.37%报3516.83点，两市合计成交15393.75亿元，涨幅最多的板块为重组蛋白",
+        "link": "https://www.tmtpost.com/7629386.html",
+        "published_date": "Thu, 17 Jul 2025 15:38:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.352434"
+      },
+      "7913121a7fe2595aeb1841985b96f8ac42baa85817907a06ae2b39bd22114d35": {
+        "title": "Nvidia CEO: Next Wave of AI is \"Physical AI,\" Taps China's Expanding Role in Global AI Ecosystem",
+        "link": "https://www.tmtpost.com/7629394.html",
+        "published_date": "Thu, 17 Jul 2025 15:30:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.453930"
+      },
+      "5c3b50d10df888052852ca3a3cd39e4f597f2f1742ad66c79db4881ee458f8dd": {
+        "title": "打开，下一次场景革命｜新物种爆炸2025",
+        "link": "https://www.tmtpost.com/7629019.html",
+        "published_date": "Thu, 17 Jul 2025 15:28:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.353773"
+      },
+      "69062e8816666f079a7bd499d841f3b9163c7aa76fb63d593a3f186a2bd0ca79": {
+        "title": "Bing Overtakes Google in China's PC Search Market, Fueled by AI and Microsoft Ecosystem",
+        "link": "https://www.tmtpost.com/7629329.html",
+        "published_date": "Thu, 17 Jul 2025 14:31:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.453989"
+      },
+      "5a4a2fd6d4475b2e99256af09eb6c3bf4330a75b00debe178742d5881eaa42e7": {
+        "title": "这个国产化达86%的大健康蓝海市场，为何进口仍是霸主？",
+        "link": "https://www.tmtpost.com/7629034.html",
+        "published_date": "Thu, 17 Jul 2025 14:28:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.355585"
+      },
+      "417bc25cdc85582b8e4e0fa4f96a2c98a7e52c2f87161d769d74a0ea0d52df2a": {
+        "title": "李斌说蔚来“钱都亏在了明处”，这些“明处”都是哪儿？",
+        "link": "https://www.tmtpost.com/7628759.html",
+        "published_date": "Thu, 17 Jul 2025 14:28:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.454013"
+      },
+      "0d468f1ba1d0d3ab015bf8eb304a4f4fc47ba94c9db7e90c965b69a35917b043": {
+        "title": "出狱后，赵长鹏真正成了加密世界的救世主",
+        "link": "https://www.tmtpost.com/7628675.html",
+        "published_date": "Thu, 17 Jul 2025 14:28:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.356799"
+      },
+      "bb10a8663a7b3ae205b2a486bc1f635e6b8fe053bbd3ee534536013ce995257d": {
+        "title": "娃哈哈不止一个娃",
+        "link": "https://www.tmtpost.com/7629113.html",
+        "published_date": "Thu, 17 Jul 2025 13:39:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.357152"
+      },
+      "f0d732737c876dbe8e9b959092530c8b5104dbeada53f6d0fcfcd2112099887a": {
+        "title": "中国成为微软必应全球第一大市场，这绝非偶然",
+        "link": "https://www.tmtpost.com/7629233.html",
+        "published_date": "Thu, 17 Jul 2025 13:36:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.357755"
+      },
+      "7b4f45a8d6cd26ba16abbf968f5266096ce48b035b666597541d0b1a21faafe1": {
+        "title": "一日一技｜曲线救国，让 Android 用上 DoH",
+        "link": "https://sspai.com/post/100874",
+        "published_date": "Thu, 17 Jul 2025 14:20:00 GMT",
+        "first_seen": "2025-07-17T08:30:24.358694"
+      },
+      "d965a97ba4bbc7a8ed35eb98eba51890f24307ab55e8aec6f911fd297cee764d": {
+        "title": "千亿砸向外卖战场，谁才是真正的赢家？",
+        "link": "http://www.huxiu.com/article/4585344.html?f=wangzhan",
+        "published_date": "Thu, 17 Jul 2025 14:00:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.454024"
+      },
+      "b8cb4ba03a3e2e701864e03703cf7178b464dff1c5371ed630b2c98089b51da1": {
+        "title": "那些率先实现了 AI 落地的公司，做对了什么？",
+        "link": "http://www.geekpark.net/news/351617",
+        "published_date": "Thu, 17 Jul 2025 13:54:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.453975"
+      },
+      "4c1c435530db149834fa801af52584c53592c0c752bbf0047fe17f0b72a5c03c": {
+        "title": "TikTok is putting the spotlight on songwriters",
+        "link": "https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab",
+        "published_date": "Thu, 17 Jul 2025 07:00:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.454056"
       }
     },
     "Finance": {
@@ -10714,12 +10864,24 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=133d37e6-9ab7-42d4-877c-f5ff32067396&mod=mw_rss_bulletins",
         "published_date": "Thu, 17 Jul 2025 00:55:00 GMT",
         "first_seen": "2025-07-17T05:26:49.717828"
+      },
+      "844320d25ac2a0ccf16024cde6c2e47f52196b83e8f63eec5c3fb97f569f89ae": {
+        "title": "Currency trading firm Argentex halts operations",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2b84fb1-d1c5-40f3-a5f1-4a47217f5e70&mod=mw_rss_bulletins",
+        "published_date": "Thu, 17 Jul 2025 08:18:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.524792"
+      },
+      "5c78b04356bcfec880e5d82e37fb695c53eeeb941b0924b7e3eb665ec742edb3": {
+        "title": "Taiwan Semi profit booms by 61% as Nvidia buoys demand",
+        "link": "https://www.marketwatch.com/story/taiwan-semi-profit-booms-by-61-as-nvidia-buoys-demand-9ea32111?mod=mw_rss_topstories",
+        "published_date": "Thu, 17 Jul 2025 07:05:00 GMT",
+        "first_seen": "2025-07-17T08:30:43.525004"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-17T05:26:49.710989",
-    "Technology": "2025-07-17T05:26:32.289093",
-    "Finance": "2025-07-17T05:26:49.722198"
+    "AI": "2025-07-17T08:30:43.520631",
+    "Technology": "2025-07-17T08:30:43.488132",
+    "Finance": "2025-07-17T08:30:43.529157"
   }
 }

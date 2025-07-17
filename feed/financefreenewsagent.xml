@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Jul 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Jul 2025 05:26:49 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 08:30:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>How Wall Street’s most hated stocks have performed against tariffs — and the smart money</title>
-      <link>https://www.marketwatch.com/story/how-wall-streets-most-hated-stocks-have-performed-against-tariffs-and-the-smart-money-086bad54?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[How Wall Street’s most hated stocks have performed against tariffs — and the smart money]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 02:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/how-wall-streets-most-hated-stocks-have-performed-against-tariffs-and-the-smart-money-086bad54?mod=mw_rss_topstories</guid>
+      <title>Currency trading firm Argentex halts operations</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=d2b84fb1-d1c5-40f3-a5f1-4a47217f5e70&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Currency trading firm Argentex halts operations]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 08:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=d2b84fb1-d1c5-40f3-a5f1-4a47217f5e70&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>BlackRock’s stock rallies as Wall Street shrugs off a massive client redemption</title>
-      <link>https://www.marketwatch.com/story/blackrocks-stock-bounces-as-wall-street-shrugs-off-a-massive-client-redemption-a6ef196d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[BlackRock’s stock rallies as Wall Street shrugs off a massive client redemption]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/blackrocks-stock-bounces-as-wall-street-shrugs-off-a-massive-client-redemption-a6ef196d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Arm’s stock is rising as analysts say an intriguing move could be on the horizon</title>
-      <link>https://www.marketwatch.com/story/arms-stock-is-rising-as-analysts-say-an-intriguing-move-could-be-on-the-horizon-e655524d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Arm’s stock is rising as analysts say an intriguing move could be on the horizon]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/arms-stock-is-rising-as-analysts-say-an-intriguing-move-could-be-on-the-horizon-e655524d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Using ChatGPT for stock-market advice? Here’s how Wall Street pros do it.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=133d37e6-9ab7-42d4-877c-f5ff32067396&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Using ChatGPT for stock-market advice? Here’s how Wall Street pros do it.]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=133d37e6-9ab7-42d4-877c-f5ff32067396&amp;mod=mw_rss_bulletins</guid>
+      <title>Taiwan Semi profit booms by 61% as Nvidia buoys demand</title>
+      <link>https://www.marketwatch.com/story/taiwan-semi-profit-booms-by-61-as-nvidia-buoys-demand-9ea32111?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Taiwan Semi profit booms by 61% as Nvidia buoys demand]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 07:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/taiwan-semi-profit-booms-by-61-as-nvidia-buoys-demand-9ea32111?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

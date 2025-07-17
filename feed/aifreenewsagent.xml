@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Jul 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Jul 2025 05:26:49 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 08:30:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>「有望成为Transformer杀手」，谷歌DeepMind新架构MoR实现两倍推理速度</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-17-5</link>
-      <description>&lt;![CDATA[「有望成为Transformer杀手」，谷歌DeepMind新架构MoR实现两倍推理速度]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17-5</guid>
+      <title>粉笔盘中一度涨超25.5%，千万级用户池构建AI产品壁垒</title>
+      <link>https://www.qbitai.com/2025/07/310133.html</link>
+      <description>&lt;![CDATA[粉笔盘中一度涨超25.5%，千万级用户池构建AI产品壁垒]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 07:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310133.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>普林斯顿团队领衔发布最强开源数学定理证明模型：32B性能大幅超越前代SOTA DeepSeek 671B</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-17-4</link>
-      <description>&lt;![CDATA[普林斯顿团队领衔发布最强开源数学定理证明模型：32B性能大幅超越前代SOTA DeepSeek 671B]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17-4</guid>
+      <title>云计算一哥，刚刚重新定义了AI Agent的玩法</title>
+      <link>https://www.qbitai.com/2025/07/310077.html</link>
+      <description>&lt;![CDATA[云计算一哥，刚刚重新定义了AI Agent的玩法]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310077.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AlphaFold3不能的，它可以！上交、范德堡团队开发LassoPred：预测套索肽三维结构的工具</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-17-3</link>
-      <description>&lt;![CDATA[AlphaFold3不能的，它可以！上交、范德堡团队开发LassoPred：预测套索肽三维结构的工具]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17-3</guid>
+      <title>500美元刷新SOTA！训练成本砍到1/200，华人团队重构视频生成范式</title>
+      <link>https://www.qbitai.com/2025/07/310033.html</link>
+      <description>&lt;![CDATA[500美元刷新SOTA！训练成本砍到1/200，华人团队重构视频生成范式]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310033.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>舍弃自回归，离散扩散语言模型如何演化？NUS综述解构技术图谱与应用前沿</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-17</link>
-      <description>&lt;![CDATA[舍弃自回归，离散扩散语言模型如何演化？NUS综述解构技术图谱与应用前沿]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17</guid>
+      <title>1万tokens是检验长文本的新基准，超过后18款大模型集体失智</title>
+      <link>https://www.qbitai.com/2025/07/310013.html</link>
+      <description>&lt;![CDATA[1万tokens是检验长文本的新基准，超过后18款大模型集体失智]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310013.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>This “smart coach” helps LLMs switch between text and code</title>
-      <link>https://news.mit.edu/2025/smart-coach-helps-llms-switch-between-text-and-code-0717</link>
-      <description>&lt;![CDATA[This “smart coach” helps LLMs switch between text and code]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/smart-coach-helps-llms-switch-between-text-and-code-0717</guid>
+      <title>深谋科技独家发布：真正为人类服务的新一代人形机器人核心技术</title>
+      <link>https://www.qbitai.com/2025/07/310005.html</link>
+      <description>&lt;![CDATA[深谋科技独家发布：真正为人类服务的新一代人形机器人核心技术]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 06:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310005.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Aime: Towards Fully-Autonomous Multi-Agent Framework</title>
-      <link>https://arxiv.org/abs/2507.11988</link>
-      <description>&lt;![CDATA[Aime: Towards Fully-Autonomous Multi-Agent Framework]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11988</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility</title>
-      <link>https://arxiv.org/abs/2507.11630</link>
-      <description>&lt;![CDATA[Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11630</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ClarifAI: Enhancing AI Interpretability and Transparency through Case-Based Reasoning and Ontology-Driven Approach for Improved Decision-Making</title>
-      <link>https://arxiv.org/abs/2507.11733</link>
-      <description>&lt;![CDATA[ClarifAI: Enhancing AI Interpretability and Transparency through Case-Based Reasoning and Ontology-Driven Approach for Improved Decision-Making]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11733</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fairness Is Not Enough: Auditing Competence and Intersectional Bias in AI-powered Resume Screening</title>
-      <link>https://arxiv.org/abs/2507.11548</link>
-      <description>&lt;![CDATA[Fairness Is Not Enough: Auditing Competence and Intersectional Bias in AI-powered Resume Screening]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11548</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics</title>
-      <link>https://arxiv.org/abs/2507.11588</link>
-      <description>&lt;![CDATA[SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics]]&gt;</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.11588</guid>
+      <title>苹果向英伟达生态妥协了！MLX框架主动适配CUDA</title>
+      <link>https://www.qbitai.com/2025/07/309995.html</link>
+      <description>&lt;![CDATA[苹果向英伟达生态妥协了！MLX框架主动适配CUDA]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309995.html</guid>
       <category>AI</category>
     </item>
   </channel>
