@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-16 23:21
+**最后更新时间**: 2025-07-17 05:26
+
+---
+
+## 🆕 最新更新 (2025-07-17 05:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Wall Street’s most hated stocks have performed against tariffs — and the smart money](https://www.marketwatch.com/story/how-wall-streets-most-hated-stocks-have-performed-against-tariffs-and-the-smart-money-086bad54?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 02:20
+
+#### [BlackRock’s stock rallies as Wall Street shrugs off a massive client redemption](https://www.marketwatch.com/story/blackrocks-stock-bounces-as-wall-street-shrugs-off-a-massive-client-redemption-a6ef196d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 00:53
+
+#### [Arm’s stock is rising as analysts say an intriguing move could be on the horizon](https://www.marketwatch.com/story/arms-stock-is-rising-as-analysts-say-an-intriguing-move-could-be-on-the-horizon-e655524d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-17 00:50
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Using ChatGPT for stock-market advice? Here’s how Wall Street pros do it.](https://www.marketwatch.com/bulletins/redirect/go?g=133d37e6-9ab7-42d4-877c-f5ff32067396&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-17 00:55
 
 ---
 

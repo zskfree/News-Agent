@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2025 23:22:04 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 05:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 05:26:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Researchers announce babies born from a trial of three-person IVF</title>
-      <link>https://www.technologyreview.com/2025/07/16/1120285/babies-born-trial-of-three-person-ivf/</link>
-      <description>&lt;![CDATA[Researchers announce babies born from a trial of three-person IVF]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/16/1120285/babies-born-trial-of-three-person-ivf/</guid>
+      <title>「有望成为Transformer杀手」，谷歌DeepMind新架构MoR实现两倍推理速度</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-17-5</link>
+      <description>&lt;![CDATA[「有望成为Transformer杀手」，谷歌DeepMind新架构MoR实现两倍推理速度]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>These four charts show where AI companies could go next in the US</title>
-      <link>https://www.technologyreview.com/2025/07/16/1120233/these-four-charts-show-where-ai-companies-could-go-next-in-the-us/</link>
-      <description>&lt;![CDATA[These four charts show where AI companies could go next in the US]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/16/1120233/these-four-charts-show-where-ai-companies-could-go-next-in-the-us/</guid>
+      <title>普林斯顿团队领衔发布最强开源数学定理证明模型：32B性能大幅超越前代SOTA DeepSeek 671B</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-17-4</link>
+      <description>&lt;![CDATA[普林斯顿团队领衔发布最强开源数学定理证明模型：32B性能大幅超越前代SOTA DeepSeek 671B]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 13:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: Veo 3’s subtitles problem, and the future of our planet’s resources</title>
-      <link>https://www.technologyreview.com/2025/07/16/1120240/the-download-veo-3s-subtitles-problem-and-the-future-of-our-planets-resources/</link>
-      <description>&lt;![CDATA[The Download: Veo 3’s subtitles problem, and the future of our planet’s resources]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/16/1120240/the-download-veo-3s-subtitles-problem-and-the-future-of-our-planets-resources/</guid>
+      <title>AlphaFold3不能的，它可以！上交、范德堡团队开发LassoPred：预测套索肽三维结构的工具</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-17-3</link>
+      <description>&lt;![CDATA[AlphaFold3不能的，它可以！上交、范德堡团队开发LassoPred：预测套索肽三维结构的工具]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Can AI really code? Study maps the roadblocks to autonomous software engineering</title>
-      <link>https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716</link>
-      <description>&lt;![CDATA[Can AI really code? Study maps the roadblocks to autonomous software engineering]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716</guid>
+      <title>舍弃自回归，离散扩散语言模型如何演化？NUS综述解构技术图谱与应用前沿</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-17</link>
+      <description>&lt;![CDATA[舍弃自回归，离散扩散语言模型如何演化？NUS综述解构技术图谱与应用前沿]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-17</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>性能提高87%，数据需求减70%，天大等开发化学毒性预测模型，登Nature子刊</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-14</link>
-      <description>&lt;![CDATA[性能提高87%，数据需求减70%，天大等开发化学毒性预测模型，登Nature子刊]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 16:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-14</guid>
+      <title>This “smart coach” helps LLMs switch between text and code</title>
+      <link>https://news.mit.edu/2025/smart-coach-helps-llms-switch-between-text-and-code-0717</link>
+      <description>&lt;![CDATA[This “smart coach” helps LLMs switch between text and code]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/smart-coach-helps-llms-switch-between-text-and-code-0717</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>维也纳ACL 2025，相聚机器之心人才晚宴，免费约饭！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-13</link>
-      <description>&lt;![CDATA[维也纳ACL 2025，相聚机器之心人才晚宴，免费约饭！]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-13</guid>
+      <title>Aime: Towards Fully-Autonomous Multi-Agent Framework</title>
+      <link>https://arxiv.org/abs/2507.11988</link>
+      <description>&lt;![CDATA[Aime: Towards Fully-Autonomous Multi-Agent Framework]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11988</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>种子轮就估值120亿美元，她能打造另一个OpenAI吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-16-12</link>
-      <description>&lt;![CDATA[种子轮就估值120亿美元，她能打造另一个OpenAI吗？]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-16-12</guid>
+      <title>Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility</title>
+      <link>https://arxiv.org/abs/2507.11630</link>
+      <description>&lt;![CDATA[Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11630</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>零代码开发，从与AI对话开始｜聊聊百度秒哒</title>
-      <link>https://www.qbitai.com/2025/07/309971.html</link>
-      <description>&lt;![CDATA[零代码开发，从与AI对话开始｜聊聊百度秒哒]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309971.html</guid>
+      <title>ClarifAI: Enhancing AI Interpretability and Transparency through Case-Based Reasoning and Ontology-Driven Approach for Improved Decision-Making</title>
+      <link>https://arxiv.org/abs/2507.11733</link>
+      <description>&lt;![CDATA[ClarifAI: Enhancing AI Interpretability and Transparency through Case-Based Reasoning and Ontology-Driven Approach for Improved Decision-Making]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11733</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>轿车操控SUV空间，比亚迪最新猎装轿跑10.98万元起售</title>
-      <link>https://www.qbitai.com/2025/07/309962.html</link>
-      <description>&lt;![CDATA[轿车操控SUV空间，比亚迪最新猎装轿跑10.98万元起售]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309962.html</guid>
+      <title>Fairness Is Not Enough: Auditing Competence and Intersectional Bias in AI-powered Resume Screening</title>
+      <link>https://arxiv.org/abs/2507.11548</link>
+      <description>&lt;![CDATA[Fairness Is Not Enough: Auditing Competence and Intersectional Bias in AI-powered Resume Screening]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11548</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>四强团队晋级！第五届“多多农研科技大赛”攻坚植物工厂商业化</title>
-      <link>https://www.qbitai.com/2025/07/309952.html</link>
-      <description>&lt;![CDATA[四强团队晋级！第五届“多多农研科技大赛”攻坚植物工厂商业化]]&gt;</description>
-      <pubDate>Wed, 16 Jul 2025 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/309952.html</guid>
+      <title>SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics</title>
+      <link>https://arxiv.org/abs/2507.11588</link>
+      <description>&lt;![CDATA[SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics]]&gt;</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.11588</guid>
       <category>AI</category>
     </item>
   </channel>
