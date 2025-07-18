@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 18 Jul 2025 05:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Jul 2025 05:28:10 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Jul 2025 08:30:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI通用智能体ChatGPT Agent正式登场</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-18-3</link>
-      <description>&lt;![CDATA[刚刚，OpenAI通用智能体ChatGPT Agent正式登场]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-3</guid>
+      <title>AI for Chemistry进入「配置即代码」时代，Chemia一键训练化学AI模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-18-9</link>
+      <description>&lt;![CDATA[AI for Chemistry进入「配置即代码」时代，Chemia一键训练化学AI模型]]&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>老黄一夜被偷家！特斯拉Dojo 2芯片量产倒计时，算力直逼英伟达最强B200</title>
-      <link>https://www.qbitai.com/2025/07/310201.html</link>
-      <description>&lt;![CDATA[老黄一夜被偷家！特斯拉Dojo 2芯片量产倒计时，算力直逼英伟达最强B200]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310201.html</guid>
+      <title>快速、精准且可解释的通用药物发现工作流LeadDisFlow：中国团队推动候选药物进入临床Ⅱ期</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-18-8</link>
+      <description>&lt;![CDATA[快速、精准且可解释的通用药物发现工作流LeadDisFlow：中国团队推动候选药物进入临床Ⅱ期]]&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework</title>
-      <link>https://arxiv.org/abs/2507.12872</link>
-      <description>&lt;![CDATA[Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.12872</guid>
+      <title>Meta全新AI组织架构曝光，这范儿有点字节</title>
+      <link>https://www.qbitai.com/2025/07/310433.html</link>
+      <description>&lt;![CDATA[Meta全新AI组织架构曝光，这范儿有点字节]]&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 06:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310433.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making</title>
-      <link>https://arxiv.org/abs/2507.12496</link>
-      <description>&lt;![CDATA[FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.12496</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks</title>
-      <link>https://arxiv.org/abs/2507.12885</link>
-      <description>&lt;![CDATA[VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.12885</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training</title>
-      <link>https://arxiv.org/abs/2507.12507</link>
-      <description>&lt;![CDATA[Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.12507</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI三问①数学之问丨当数学与AI正面对撞，AI×数学=∞可能！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-18-5</link>
-      <description>&lt;![CDATA[AI三问①数学之问丨当数学与AI正面对撞，AI×数学=∞可能！]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Le Chat全方面对标ChatGPT，欧洲AI新贵穷追不舍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-18-2</link>
-      <description>&lt;![CDATA[Le Chat全方面对标ChatGPT，欧洲AI新贵穷追不舍]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Survey of Explainable Reinforcement Learning: Targets, Methods and Needs</title>
-      <link>https://arxiv.org/abs/2507.12599</link>
-      <description>&lt;![CDATA[A Survey of Explainable Reinforcement Learning: Targets, Methods and Needs]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.12599</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM-Powered Quantum Code Transpilation</title>
-      <link>https://arxiv.org/abs/2507.12480</link>
-      <description>&lt;![CDATA[LLM-Powered Quantum Code Transpilation]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.12480</guid>
+      <title>真热AI！米哈游5亿成立新公司</title>
+      <link>https://www.qbitai.com/2025/07/310399.html</link>
+      <description>&lt;![CDATA[真热AI！米哈游5亿成立新公司]]&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 05:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310399.html</guid>
       <category>AI</category>
     </item>
   </channel>

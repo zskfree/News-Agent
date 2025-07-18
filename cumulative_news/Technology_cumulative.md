@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-18 05:27
+**最后更新时间**: 2025-07-18 08:30
+
+---
+
+## 🆕 最新更新 (2025-07-18 08:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [7月18日A股分析：三大指数集体上涨，沪指创年内收盘新高，主力资金净流出292亿，小金属与稀土板块逆势吸金](https://www.tmtpost.com/7630570.html)
+**发布时间**: 2025-07-18 15:34
+
+#### [齐云山：产能利用率未超过80%，依旧大举扩产，申报前夕大举分红，却欠缴员工社保｜IPO观察](https://www.tmtpost.com/7627998.html)
+**发布时间**: 2025-07-18 15:21
+
+#### [国产AI芯片公司曦望融资近10亿元，2026年量产第三代多模推理算力卡](https://www.tmtpost.com/7630475.html)
+**发布时间**: 2025-07-18 15:19
+
+#### [凯乐士：申报前夕，股权低价转让，公司每年亏损1.7亿元，经营性现金也长期“失血”｜IPO观察](https://www.tmtpost.com/7628073.html)
+**发布时间**: 2025-07-18 15:18
+
+#### [KKR Nears Completion of Dayao Soda Buyout in Rare Foreign Takeover of Chinese Beverage Brand](https://www.tmtpost.com/7630554.html)
+**发布时间**: 2025-07-18 14:59
+
+#### [拼多多突然暂停信息流投放CID，原因没那么简单](https://www.tmtpost.com/7630515.html)
+**发布时间**: 2025-07-18 14:55
+
+#### [腾讯想让《王者荣耀》长青，玩家却想“减负”](https://www.tmtpost.com/7630443.html)
+**发布时间**: 2025-07-18 14:55
+
+#### [洽洽食品业绩亮红灯，实控人陈先保家族近年财富缩水](https://www.tmtpost.com/7630427.html)
+**发布时间**: 2025-07-18 14:55
+
+#### [一大批土菜馆走红，餐饮业开始流行“野”路子](https://www.tmtpost.com/7630472.html)
+**发布时间**: 2025-07-18 14:55
+
+#### [圆心科技智能体集群落地 智能化变革重构医疗价值生态](https://www.tmtpost.com/7630484.html)
+**发布时间**: 2025-07-18 14:33
+
+#### [Trump Said to Sign Executive Orders Promoting Exports of U.S. Chips and AI Tools](https://www.tmtpost.com/7630464.html)
+**发布时间**: 2025-07-18 14:06
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 组织内部，到底是如何运作的？](http://www.geekpark.net/news/351668)
+**发布时间**: 2025-07-18 15:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [去伪存真：聊聊 AI 智能体的定义、工具选择与避坑](https://sspai.com/post/101085)
+**发布时间**: 2025-07-18 14:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Lelo Ora 3 Review: A Tongue Stimulator](https://www.wired.com/review/lelo-ora-3/)
+**发布时间**: 2025-07-18 08:00
 
 ---
 
