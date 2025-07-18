@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-17 23:22
+**最后更新时间**: 2025-07-18 05:27
+
+---
+
+## 🆕 最新更新 (2025-07-18 05:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI Can Solve Problems, But That's No Excuse to Stop Learning, Says Nvidia CEO](https://www.tmtpost.com/7630416.html)
+**发布时间**: 2025-07-18 13:09
+
+#### [黄仁勋亲自带货RTX Pro：H20之外藏着英伟达的另一重野心 | ToB产业观察](https://www.tmtpost.com/7630299.html)
+**发布时间**: 2025-07-18 12:55
+
+#### [新兴百亿PFA市场卡位战：锦江、惠泰、波科领跑，国产新锐放量在即](https://www.tmtpost.com/7630265.html)
+**发布时间**: 2025-07-18 12:48
+
+#### [天桥脑科学研究院与AAAS宣布 2024 年 AI 驱动科学大奖获奖名单](https://www.tmtpost.com/7629576.html)
+**发布时间**: 2025-07-18 12:47
+
+#### [靴子落地，良品铺子，卖了](https://www.tmtpost.com/7629849.html)
+**发布时间**: 2025-07-18 12:41
+
+#### [一位80后海归博士，要在科创板IPO了](https://www.tmtpost.com/7630272.html)
+**发布时间**: 2025-07-18 12:40
+
+#### [OpenAI发布ChatGPT Agent：AI"代理人"已至，人类准备好交出操作权了吗？](https://www.tmtpost.com/7630275.html)
+**发布时间**: 2025-07-18 12:40
+
+#### [India In Trade Talks Reported to Seek U.S.Tariffs Lower Than Indonesia](https://www.tmtpost.com/7630316.html)
+**发布时间**: 2025-07-18 12:12
+
+#### [U.S. Services May be Added to EU's Retaliatory Target List as More Members Seek Powerful Trade Tool If Talks Fail](https://www.tmtpost.com/7630240.html)
+**发布时间**: 2025-07-18 11:24
+
+#### [百度上线TizzyAI，“无广告”AI搜索横空出世，搜索赛道烽烟再起](https://www.tmtpost.com/7629655.html)
+**发布时间**: 2025-07-18 11:13
+
+#### [山姆，泯然众人矣？](https://www.tmtpost.com/7629987.html)
+**发布时间**: 2025-07-18 11:13
+
+#### [为何排名第21-40的酒店集团，成为最“躁动不安”的那波人？](https://www.tmtpost.com/7630118.html)
+**发布时间**: 2025-07-18 11:13
+
+#### [又一家创新药企递表，百力司康能否赶上市场热潮？](https://www.tmtpost.com/7630166.html)
+**发布时间**: 2025-07-18 11:12
+
+#### [茅台的底在哪？](https://www.tmtpost.com/7630084.html)
+**发布时间**: 2025-07-18 10:51
+
+#### [浙BA冲上热搜，能复刻苏超神话吗？](https://www.tmtpost.com/7630131.html)
+**发布时间**: 2025-07-18 10:51
+
+#### [宗馥莉终究不是王思聪](https://www.tmtpost.com/7630132.html)
+**发布时间**: 2025-07-18 10:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何在不牺牲生产力的情况下构建安全软件](https://www.infoq.cn/article/wl8jDO8TazY2uXXWQQaF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 13:00
+
+#### [从概念到生产级部署：AWS如何破解Agentic AI落地难题？](https://www.infoq.cn/article/U3ObmgEgGro1taUAamjS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 11:24
+
+#### [专为宅男打造系统提示词，“二次元女友”爆火后马斯克开 44 万刀抢工程师](https://www.infoq.cn/article/YFdLvOhBcB4ceeRu5GNs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 11:00
+
+#### [首届MCP开发者峰会展望AI集成的未来](https://www.infoq.cn/article/vTcm6TvWfySY6ljmsw7a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 11:00
+
+#### [从传统到价值：构建中欧和东欧的数字银行产品](https://www.infoq.cn/article/DgYMosS6ZdBQVODD10ui?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 10:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [蓟县骑行记：无终子国，幽州渔阳](https://sspai.com/post/101043)
+**发布时间**: 2025-07-18 11:00
+
+#### [派早报：OpenAI 推出 ChatGPT Agent 等](https://sspai.com/post/101138)
+**发布时间**: 2025-07-18 08:56
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美团正式推骑手养老保险，不限时长；中国「豪车税」标准降至 90 万；OpenAI 推出 Agent 功能](http://www.geekpark.net/news/351633)
+**发布时间**: 2025-07-18 08:17
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
+**发布时间**: 2025-07-17 23:59
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Nintendo wants you to join its next mysterious Switch Online playtest](https://www.theverge.com/news/709530/nintendo-switch-online-playtest-program-july-august-invitations-application)
+**发布时间**: 2025-07-17 23:52
+
+#### [Subaru’s new Uncharted EV looks like an undercover Toyota C-HR](https://www.theverge.com/news/709117/subaru-uncharted-ev-specs-toyota)
+**发布时间**: 2025-07-17 23:30
 
 ---
 

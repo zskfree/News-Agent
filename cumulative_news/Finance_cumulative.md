@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-17 23:22
+**最后更新时间**: 2025-07-18 05:27
+
+---
+
+## 🆕 最新更新 (2025-07-18 05:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says Coke with cane sugar is on its way. But Americans seem fine with the current version.](https://www.marketwatch.com/story/trump-says-coke-with-cane-sugar-is-on-its-way-but-americans-seem-fine-with-the-current-version-a1ec2f9c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 01:02
+
+#### [Three crypto bills approved by the House. Why investors are hopeful.](https://www.marketwatch.com/story/three-crypto-bills-advance-in-the-house-why-investors-are-hopeful-24370ac5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 00:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why the 15-year mortgage may be the most underrated offering in real estate](https://www.marketwatch.com/bulletins/redirect/go?g=4dfa7353-99cc-4cc0-9775-1af2ecb1eb32&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 00:59
 
 ---
 
