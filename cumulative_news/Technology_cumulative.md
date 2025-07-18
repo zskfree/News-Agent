@@ -1,7 +1,142 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-18 08:30
+**最后更新时间**: 2025-07-18 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-18 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百度萝卜快跑牵手Uber出海；MiniMax入港上市；霸王茶姬重返越南；《哪吒2》阿联酋上映｜一周大公司出海动态](https://www.tmtpost.com/7631212.html)
+**发布时间**: 2025-07-19 06:23
+
+#### [同益股份半价股权激励遭拷问：前次“画饼”今朝“保送”，主业突破前景蒙尘](https://www.tmtpost.com/7631293.html)
+**发布时间**: 2025-07-18 21:56
+
+#### [首都互联网协会“自媒体”治理与发展专业委员会成立](https://www.tmtpost.com/7631223.html)
+**发布时间**: 2025-07-18 20:21
+
+#### [清朗京华·财经“自媒体”治理研讨会召开](https://www.tmtpost.com/7631227.html)
+**发布时间**: 2025-07-18 20:21
+
+#### [芯迈半导体冲刺港股，逼近300亿的估值与13.75亿亏损同在](https://www.tmtpost.com/7629781.html)
+**发布时间**: 2025-07-18 19:19
+
+#### [水井坊半年报预告发布，处在调整期的白酒板块到底了吗？](https://www.tmtpost.com/7630502.html)
+**发布时间**: 2025-07-18 19:19
+
+#### [90%被大模型吃掉，AI Agent的困局](https://www.tmtpost.com/7630823.html)
+**发布时间**: 2025-07-18 19:19
+
+#### [两大国资争抢良品铺子](https://www.tmtpost.com/7630875.html)
+**发布时间**: 2025-07-18 19:02
+
+#### [维立志博招股开始，储备14款肿瘤治疗创新候选药，但不确定性同样凸显](https://www.tmtpost.com/7630885.html)
+**发布时间**: 2025-07-18 19:02
+
+#### [大沙发，汽车公司竞争的“头等大事”](https://www.tmtpost.com/7630950.html)
+**发布时间**: 2025-07-18 19:02
+
+#### [2025中国RISC-V峰会，透露出RISC-V三大变化](https://www.tmtpost.com/7630986.html)
+**发布时间**: 2025-07-18 19:02
+
+#### [140位投资人眼中的2025上半年](https://www.tmtpost.com/7630998.html)
+**发布时间**: 2025-07-18 18:54
+
+#### [跨区域协同激发发展动能，韧性城市构筑未来愿景——“跨区域经济合作与韧性智能城市发展论坛”在北京大学成功召开](https://www.tmtpost.com/7630993.html)
+**发布时间**: 2025-07-18 18:43
+
+#### [两地国资争夺控制权？良品铺子易主生变背后资本加速逃亡](https://www.tmtpost.com/7630908.html)
+**发布时间**: 2025-07-18 18:42
+
+#### [腾讯套现离场，星环科技赴港IPO，国产大数据第一股能否迎来奇迹？](https://www.tmtpost.com/7630918.html)
+**发布时间**: 2025-07-18 18:38
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Why AI is moving from chatbots to the browser](https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet)
+**发布时间**: 2025-07-18 23:04
+
+#### [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+**发布时间**: 2025-07-18 22:10
+
+#### [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+**发布时间**: 2025-07-18 20:52
+
+#### [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)
+**发布时间**: 2025-07-18 20:35
+
+#### [Trump signs first major crypto bill, the GENIUS Act, into law](https://www.theverge.com/news/710100/trump-signs-genius-act-crypto-stablecoins-world-liberty-financial)
+**发布时间**: 2025-07-18 20:00
+
+#### [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)
+**发布时间**: 2025-07-18 19:45
+
+#### [An electric scooter that accelerates faster than a Tesla Model 3? No thanks!](https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed)
+**发布时间**: 2025-07-18 19:32
+
+#### [RealPage goes from setting rent to collecting it](https://www.theverge.com/news/710036/realpage-livble-acquisition-rent-payments)
+**发布时间**: 2025-07-18 19:20
+
+#### [One of the Democrats Trump unlawfully fired from the FTC is back](https://www.theverge.com/politics/710029/slaughter-trump-bedoya-ftc-democrats-removal-unlawful)
+**发布时间**: 2025-07-18 19:18
+
+#### [Netflix admits it used generative AI in a big sci-fi hit to cut costs](https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut)
+**发布时间**: 2025-07-18 17:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [不只是 AI，不只是趋势：2025 QCon 上海站正式启动，聚焦真正值得被解决的问题](https://www.infoq.cn/article/zVbNUtUVOw6kJ4iW70mA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 22:44
+
+#### [百度生成式AI和大模型专利中国第一，全栈创新驱动AI应用领先](https://www.infoq.cn/article/txctOdJxMW8ZbRM7SEV3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 18:07
+
+#### [OpenAI新Agent遭中国24人初创团队碾压！实测成本、质量全输惨，海外用户：中国Agent代差领先](https://www.infoq.cn/article/zHthlqQFC2kJ8KPKX5XP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 18:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)
+**发布时间**: 2025-07-18 21:58
+
+#### [How China’s Patriotic ‘Honkers’ Became the Nation’s Elite Cyberspies](https://www.wired.com/story/china-honkers-elite-cyber-spies/)
+**发布时间**: 2025-07-18 15:28
+
+#### [Lettuce Grow Indoor Farmstand Review: Grow Your Own](https://www.wired.com/review/lettuce-grow-indoor-farmstand/)
+**发布时间**: 2025-07-18 14:00
+
+#### [Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work](https://www.wired.com/review/roborock-saros-z70/)
+**发布时间**: 2025-07-18 13:00
+
+#### [This Turbo Escooter Wants to Set a Guinness World Record](https://www.wired.com/story/bo-turbo-e-scooter-guinness-world-record/)
+**发布时间**: 2025-07-18 12:00
+
+#### [Italian YouTuber Faces Jail Time for Showing Android Handhelds With Emulated Games](https://www.wired.com/story/italian-youtuber-faces-jail-time-for-showing-android-gaming-handhelds/)
+**发布时间**: 2025-07-18 11:30
+
+#### [Einstein Showed That Time Is Relative. But … Why Is It?](https://www.wired.com/story/why-time-is-relative/)
+**发布时间**: 2025-07-18 11:00
+
+#### [‘Eddington’ Director Ari Aster Couldn’t Stand ‘Living in the Internet.’ So He Made a Movie About It](https://www.wired.com/story/eddington-director-ari-aster-couldnt-stand-living-in-the-internet-so-he-made-a-movie-about-it/)
+**发布时间**: 2025-07-18 11:00
+
+#### [7 Best Coffee Concentrates for Instant Caffeine (2025)](https://www.wired.com/gallery/best-coffee-concentrates/)
+**发布时间**: 2025-07-18 10:32
+
+#### [The 66 Best Movies on Disney+ Right Now (July 2025)](https://www.wired.com/story/best-movies-disney-plus/)
+**发布时间**: 2025-07-17 19:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 5+ 部作品](https://sspai.com/post/101149)
+**发布时间**: 2025-07-18 17:57
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [盲盒、炒作、饥饿营销，泡泡玛特就是靠这些撑起3500亿市值的吗？](http://www.huxiu.com/article/4588558.html?f=wangzhan)
+**发布时间**: 2025-07-18 16:00
 
 ---
 

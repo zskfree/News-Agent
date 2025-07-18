@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-18 08:29
+**最后更新时间**: 2025-07-18 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-18 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [庞若鸣交班陈智峰，苹果发布2025基础模型技术报告](https://www.jiqizhixin.com/articles/2025-07-18-11)
+**发布时间**: 2025-07-18 17:03
+
+#### [演讲生成黑科技，PresentAgent从文本到演讲视频](https://www.jiqizhixin.com/articles/2025-07-18-10)
+**发布时间**: 2025-07-18 17:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
+**发布时间**: 2025-07-18 13:08
+
+#### [The Download: how to run an LLM, and a history of “three-parent babies”](https://www.technologyreview.com/2025/07/18/1120453/the-download-how-to-run-an-llm-and-a-history-of-three-parent-babies/)
+**发布时间**: 2025-07-18 12:10
+
+#### [A brief history of “three-parent babies”](https://www.technologyreview.com/2025/07/18/1120383/a-brief-history-of-three-parent-babies/)
+**发布时间**: 2025-07-18 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [2025世界人工智能大会欢迎参与，7月26-7月28日](https://www.worldaic.com.cn/)
+**发布时间**: 2025-07-18 11:17
+
+#### [DeepSeek终于丢了开源第一王座，但继任者依然来自中国](https://www.qbitai.com/2025/07/310560.html)
+**发布时间**: 2025-07-18 09:00
+
+#### [8个月晋升独角兽，欧洲版Cursor估值18亿美元](https://www.qbitai.com/2025/07/310561.html)
+**发布时间**: 2025-07-18 08:59
+
+#### [7B模型“情商”比肩GPT-4o，腾讯突破开放域RL难题，得分直翻5倍](https://www.qbitai.com/2025/07/310485.html)
+**发布时间**: 2025-07-18 08:32
+
+#### [百度生成式AI和大模型专利中国第一，全栈创新驱动AI应用领先](https://www.qbitai.com/2025/07/310481.html)
+**发布时间**: 2025-07-18 08:06
 
 ---
 

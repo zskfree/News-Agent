@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-18 05:27
+**最后更新时间**: 2025-07-18 23:20
+
+---
+
+## 🆕 最新更新 (2025-07-18 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Block is the latest to get an S&P 500 nod, and its stock is climbing](https://www.marketwatch.com/story/block-is-the-latest-to-get-an-s-p-500-nod-and-its-stock-is-climbing-37295678?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 22:15
+
+#### [My husband’s brother left his $600K estate to a friend. Can we contest the will? He experienced oxygen deprivation due to COPD.](https://www.marketwatch.com/story/can-my-husband-contest-his-late-brothers-600k-will-he-experienced-oxygen-deprivation-due-to-copd-before-he-died-d633ac3d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 21:15
+
+#### [Trump signs the Genius Act into law, in significant step for U.S. crypto regulation](https://www.marketwatch.com/story/trump-signs-the-genius-act-into-law-in-significant-step-for-u-s-crypto-regulation-3d864a10?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 21:01
+
+#### [American Express earnings show healthy spending — including on these fancy categories](https://www.marketwatch.com/story/american-express-earnings-show-healthy-growth-in-spending-67eb26a4?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 20:21
+
+#### [Was canceling Stephen Colbert’s ‘Late Show’ really about money? The numbers don’t entirely back it up.](https://www.marketwatch.com/story/was-canceling-stephen-colberts-late-show-really-about-money-the-numbers-dont-entirely-back-it-up-4b100500?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 20:16
+
+#### [Traders in a critical corner of the bond market are back to flashing worries about long-run inflation](https://www.marketwatch.com/story/traders-in-a-critical-corner-of-the-bond-market-are-back-to-flashing-worries-about-long-run-inflation-e8c98deb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 20:10
+
+#### [I’m doing Roth conversions, but my IRA balance keeps going up. When do I stop?](https://www.marketwatch.com/story/im-doing-roth-conversions-but-my-ira-balance-keeps-going-up-when-do-i-stop-597a7255?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 20:08
+
+#### [Here’s what interest-rate changes may mean for bond returns as traders watch Fed](https://www.marketwatch.com/story/heres-what-interest-rate-changes-may-mean-for-bond-returns-as-traders-watch-fed-13912ab4?mod=mw_rss_topstories)
+**发布时间**: 2025-07-18 19:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Block is the latest to get an S&P 500 nod, and its stock is climbing](https://www.marketwatch.com/bulletins/redirect/go?g=052c0a29-f051-43da-9213-6bb63e362f5b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 22:15
+
+#### [Trump signs Genius Act into law, in significant step for U.S. crypto regulation](https://www.marketwatch.com/bulletins/redirect/go?g=a4607023-4914-4521-9ccd-5da6b67bae3d&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 21:02
+
+#### [U.S. stocks end mixed Friday, but S&P 500 and Nasdaq book weekly gains](https://www.marketwatch.com/bulletins/redirect/go?g=f87497b6-2012-424b-ac1e-ca2253d35f52&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 20:04
+
+#### [Corporate America keeps calling consumers ‘resilient.’ Consumers beg to differ.](https://www.marketwatch.com/bulletins/redirect/go?g=9b98a874-70c9-4f78-bb0c-b913b193e4b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 19:01
+
+#### [Company insiders have gotten bearish. But these 11 stocks remain in favor.](https://www.marketwatch.com/bulletins/redirect/go?g=185c86e7-cdcc-48ac-a634-883c3e775b70&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 17:17
+
+#### [Fed governor reveals the ways the central bank is using artificial intelligence](https://www.marketwatch.com/bulletins/redirect/go?g=4f566566-298f-4225-b77c-b6357040ff3b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 16:17
+
+#### [Stocks lower even as Fed governor Waller suggests July rate cut — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=71288738-e061-4595-8eb5-61748144f748&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 14:38
+
+#### [Just six dividend-paying stocks pass this screen for quality](https://www.marketwatch.com/bulletins/redirect/go?g=f3f7a01b-5579-4d2d-9a94-3bd26b238ff2&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 13:48
+
+#### [U.S. housing starts picked up more than forecast in June](https://www.marketwatch.com/bulletins/redirect/go?g=0ec08d19-5960-4c45-891a-7833273e441a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 12:54
+
+#### [Schwab says clients opened a million new brokerage accounts in second quarter](https://www.marketwatch.com/bulletins/redirect/go?g=c1846cbc-e0ad-4216-8b37-9c4c378988fa&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-18 12:47
 
 ---
 
