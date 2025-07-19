@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-19 08:27
+**最后更新时间**: 2025-07-19 20:39
+
+---
+
+## 🆕 最新更新 (2025-07-19 20:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [星巴克中国联袂远景，驱动全链协同减碳](https://www.tmtpost.com/7631619.html)
+**发布时间**: 2025-07-19 20:09
+
+#### [山姆不无辜](https://www.tmtpost.com/7631586.html)
+**发布时间**: 2025-07-19 16:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 百日，恍若数年：我的 2025 上半年 AI 模型与产品清单推荐](https://sspai.com/post/101081)
+**发布时间**: 2025-07-19 16:10
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Graphics Cards for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
+**发布时间**: 2025-07-19 12:03
+
+#### [Coway Airmega 50 Review: Effective and Affordable (2025)](https://www.wired.com/review/coway-airmega-50/)
+**发布时间**: 2025-07-19 12:02
+
+#### [How to Delete All of Your Social Media Accounts: Instagram, X, Facebook, TikTok, and More](https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/)
+**发布时间**: 2025-07-19 11:30
+
+#### [The 43 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-07-19 11:00
+
+#### [The 43 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-07-19 11:00
+
+#### [Why It’s Taking LA So Long to Rebuild After the Wildfires](https://www.wired.com/story/why-its-taking-la-so-long-to-rebuild-after-the-wildfires-california-los-angeles/)
+**发布时间**: 2025-07-19 11:00
+
+#### [China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year](https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/)
+**发布时间**: 2025-07-19 10:30
+
+#### [Automakers Are Canceling Plans for New EVs. Here’s a List of What’s Been Killed So Far](https://www.wired.com/story/list-of-new-evs-canceled-by-automakers/)
+**发布时间**: 2025-07-19 10:30
+
+#### [Gear News of the Week: Chrome OS Will Merge With Android and Sony Surprises With a New Camera](https://www.wired.com/story/chrome-os-will-merge-with-android-and-sony-surprises-with-a-new-camera/)
+**发布时间**: 2025-07-19 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [BMW M5 review: a PHEV worth its weight](https://www.theverge.com/bmw/689434/bmw-m5-review-phev-specs-price)
+**发布时间**: 2025-07-19 12:00
+
+#### [How to design an actually good flash flood alert system](https://www.theverge.com/science/709362/flash-flood-warning-system-experts-texas-sirens-blue-alert)
+**发布时间**: 2025-07-19 12:00
 
 ---
 

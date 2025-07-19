@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-18 23:20
+**最后更新时间**: 2025-07-19 20:39
+
+---
+
+## 🆕 最新更新 (2025-07-19 20:39)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why cheaper power looks unlikely as Trump’s big budget law reshuffles the U.S. energy landscape](https://www.marketwatch.com/story/why-cheaper-power-looks-unlikely-as-trumps-big-budget-law-reshuffles-the-u-s-energy-landscape-4c4cf07b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 12:00
+
+#### [My brother-in-law left $600K to a friend. He experienced oxygen deprivation due to COPD. Can my husband contest the will?](https://www.marketwatch.com/story/can-my-husband-contest-his-late-brothers-600k-will-he-experienced-oxygen-deprivation-due-to-copd-before-he-died-d633ac3d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 11:30
+
+#### [3 reasons why investors have largely ignored Trump’s tariff threats as Aug. 1 deadline approaches](https://www.marketwatch.com/story/3-reasons-why-investors-have-largely-ignored-trumps-tariff-threats-as-aug-1-deadline-approaches-80698776?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 11:00
+
+#### [‘I have a degree in economics’: I’m 70, earn $250K a year and have $3.7 million in investments. Is it time to retire?](https://www.marketwatch.com/story/i-have-a-degree-in-economics-im-70-earn-250k-a-year-and-have-3-7-million-in-investments-is-it-time-to-retire-4cf10c13?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 10:46
 
 ---
 
