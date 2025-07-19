@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 18 Jul 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Jul 2025 23:21:08 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Jul 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Jul 2025 08:27:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>庞若鸣交班陈智峰，苹果发布2025基础模型技术报告</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-18-11</link>
-      <description>&lt;![CDATA[庞若鸣交班陈智峰，苹果发布2025基础模型技术报告]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-11</guid>
+      <title>Karpathy都投的AI实时视频生成模型：直播立即转，无限时长零延迟</title>
+      <link>https://www.qbitai.com/2025/07/310686.html</link>
+      <description>&lt;![CDATA[Karpathy都投的AI实时视频生成模型：直播立即转，无限时长零延迟]]&gt;</description>
+      <pubDate>Sat, 19 Jul 2025 06:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310686.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>演讲生成黑科技，PresentAgent从文本到演讲视频</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-18-10</link>
-      <description>&lt;![CDATA[演讲生成黑科技，PresentAgent从文本到演讲视频]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-18-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A major AI training data set contains millions of examples of personal data</title>
-      <link>https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/</link>
-      <description>&lt;![CDATA[A major AI training data set contains millions of examples of personal data]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Download: how to run an LLM, and a history of “three-parent babies”</title>
-      <link>https://www.technologyreview.com/2025/07/18/1120453/the-download-how-to-run-an-llm-and-a-history-of-three-parent-babies/</link>
-      <description>&lt;![CDATA[The Download: how to run an LLM, and a history of “three-parent babies”]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/18/1120453/the-download-how-to-run-an-llm-and-a-history-of-three-parent-babies/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A brief history of “three-parent babies”</title>
-      <link>https://www.technologyreview.com/2025/07/18/1120383/a-brief-history-of-three-parent-babies/</link>
-      <description>&lt;![CDATA[A brief history of “three-parent babies”]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/18/1120383/a-brief-history-of-three-parent-babies/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>2025世界人工智能大会欢迎参与，7月26-7月28日</title>
-      <link>https://www.worldaic.com.cn/</link>
-      <description>&lt;![CDATA[2025世界人工智能大会欢迎参与，7月26-7月28日]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.worldaic.com.cn/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DeepSeek终于丢了开源第一王座，但继任者依然来自中国</title>
-      <link>https://www.qbitai.com/2025/07/310560.html</link>
-      <description>&lt;![CDATA[DeepSeek终于丢了开源第一王座，但继任者依然来自中国]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310560.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>8个月晋升独角兽，欧洲版Cursor估值18亿美元</title>
-      <link>https://www.qbitai.com/2025/07/310561.html</link>
-      <description>&lt;![CDATA[8个月晋升独角兽，欧洲版Cursor估值18亿美元]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310561.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>7B模型“情商”比肩GPT-4o，腾讯突破开放域RL难题，得分直翻5倍</title>
-      <link>https://www.qbitai.com/2025/07/310485.html</link>
-      <description>&lt;![CDATA[7B模型“情商”比肩GPT-4o，腾讯突破开放域RL难题，得分直翻5倍]]&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310485.html</guid>
+      <title>宇树王兴兴，A股上市辅导公告了</title>
+      <link>https://www.qbitai.com/2025/07/310628.html</link>
+      <description>&lt;![CDATA[宇树王兴兴，A股上市辅导公告了]]&gt;</description>
+      <pubDate>Sat, 19 Jul 2025 06:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310628.html</guid>
       <category>AI</category>
     </item>
   </channel>
