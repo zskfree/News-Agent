@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-19 20:39
+**最后更新时间**: 2025-07-19 23:24
+
+---
+
+## 🆕 最新更新 (2025-07-19 23:24)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds](https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/)
+**发布时间**: 2025-07-19 15:54
+
+#### [Robot Vacuum Tips to Help You Keep a Tidy Home (2025)](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)
+**发布时间**: 2025-07-19 13:30
+
+#### [How to Buy an Electric Bike (2025): Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
+**发布时间**: 2025-07-19 13:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)
+**发布时间**: 2025-07-19 15:00
+
+#### [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
+**发布时间**: 2025-07-19 15:00
+
+#### [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
+**发布时间**: 2025-07-19 14:05
+
+#### [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)
+**发布时间**: 2025-07-19 14:00
+
+#### [Fast Fusion scratches the hyper fast F-Zero itch](https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2)
+**发布时间**: 2025-07-19 13:00
+
+#### [Samsung Galaxy Z Fold 7 review: stunning, bendy, and spendy](https://www.theverge.com/reviews/709990/samsung-galaxy-z-fold-7-review)
+**发布时间**: 2025-07-19 13:00
 
 ---
 

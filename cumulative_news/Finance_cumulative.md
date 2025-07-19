@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-19 20:39
+**最后更新时间**: 2025-07-19 23:24
+
+---
+
+## 🆕 最新更新 (2025-07-19 23:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Company insiders now are bearish to the extreme — but they’re upbeat on these 11 stocks](https://www.marketwatch.com/story/company-insiders-now-are-bearish-to-the-extreme-but-theyre-upbeat-on-these-11-stocks-371e2f0c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 18:15
+
+#### [My ex-husband’s benefit will be $2,600 at retirement age, and mine is $2,200. Can I claim on his record instead?](https://www.marketwatch.com/story/my-ex-husbands-benefit-will-be-2-600-at-retirement-age-and-mine-is-2-200-can-i-claim-on-his-record-instead-1861d8c6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 17:00
+
+#### [Stephen Colbert got tangled in the ‘Trump transaction tax’ — and it affects all investors](https://www.marketwatch.com/story/stephen-colbert-got-tangled-in-the-trump-transaction-tax-and-it-affects-all-investors-db927305?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 15:17
+
+#### [Some Americans are hoarding coffee, fearing that prices for their morning brew could go even higher](https://www.marketwatch.com/story/is-it-time-to-start-hoarding-coffee-when-youre-paying-20-for-a-12-ounce-bag-its-insanity-3682a52b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-19 14:43
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why cheaper power looks unlikely as new budget reshuffles U.S. energy landscape](https://www.marketwatch.com/bulletins/redirect/go?g=3a5c57d2-6482-4cc1-b693-0ef034682964&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-19 14:00
+
+#### [Why investors have largely ignored Trump tariff threats as Aug. 1 deadline nears](https://www.marketwatch.com/bulletins/redirect/go?g=1709089a-d197-4333-ac34-0d92cce2860b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-19 13:21
 
 ---
 
