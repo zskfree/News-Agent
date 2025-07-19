@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-18 23:20
+**最后更新时间**: 2025-07-19 05:23
+
+---
+
+## 🆕 最新更新 (2025-07-19 05:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [天弘基金，想要刮开第二张“彩票”](https://www.tmtpost.com/7631527.html)
+**发布时间**: 2025-07-19 12:19
+
+#### [监管出手，戳破千亿外卖大战的泡沫](https://www.tmtpost.com/7631356.html)
+**发布时间**: 2025-07-19 12:18
+
+#### [良品铺子卖身，一个零食时代结束了](https://www.tmtpost.com/7631380.html)
+**发布时间**: 2025-07-19 12:18
+
+#### [近2.5亿日订单，如何改变了即时零售运力市场](https://www.tmtpost.com/7631401.html)
+**发布时间**: 2025-07-19 12:18
+
+#### [黄仁勋VS宗馥莉：领导力大PK](https://www.tmtpost.com/7631417.html)
+**发布时间**: 2025-07-19 12:18
+
+#### [领导力的六级进阶：从管人理事到塑造未来](https://www.tmtpost.com/7631418.html)
+**发布时间**: 2025-07-19 12:18
+
+#### [美团落子线下零售，快乐猴叫阵盒马京东](https://www.tmtpost.com/7631264.html)
+**发布时间**: 2025-07-19 11:19
+
+#### [王莆中给了一份即时零售的“避坑指南”](https://www.tmtpost.com/7631234.html)
+**发布时间**: 2025-07-19 11:19
+
+#### [小米NAS，能搅动绿联华为极空间统治的轻NAS市场吗？](https://www.tmtpost.com/7631154.html)
+**发布时间**: 2025-07-19 10:47
+
+#### [外卖战争的三个问题](https://www.tmtpost.com/7631394.html)
+**发布时间**: 2025-07-19 10:47
+
+#### [孙宏斌破局：轻资产的慢船，能否载动千亿杠杆的旧梦](https://www.tmtpost.com/7631378.html)
+**发布时间**: 2025-07-19 10:47
+
+#### [蔚来盈利，还得靠低价爆款？](https://www.tmtpost.com/7631064.html)
+**发布时间**: 2025-07-19 10:47
+
+#### [外卖大战的子弹，是时候停飞了](https://www.tmtpost.com/7631209.html)
+**发布时间**: 2025-07-19 10:47
+
+#### [Trump Reported to Ramp Up Sectoral Tariffs, Targeting Lumber, Chips, Critical Minerals and Pharma](https://www.tmtpost.com/7631481.html)
+**发布时间**: 2025-07-19 10:37
+
+#### [Trump Pushes for 15%-20% Minimum Tariffs on EU, Sticks to Auto Duties: Report](https://www.tmtpost.com/7631447.html)
+**发布时间**: 2025-07-19 09:43
+
+#### [做游戏好过做外卖，字节不装了](https://www.tmtpost.com/7631160.html)
+**发布时间**: 2025-07-19 09:42
+
+#### [家事即商战：宗家内斗，最受伤的是娃哈哈](https://www.tmtpost.com/7631266.html)
+**发布时间**: 2025-07-19 09:42
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美团、京东、饿了么被监管约谈；宇树科技开启上市辅导；NBA 巨星乔丹豪宅上线爱彼迎](http://www.geekpark.net/news/351693)
+**发布时间**: 2025-07-19 08:37
 
 ---
 
