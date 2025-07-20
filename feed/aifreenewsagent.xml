@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 20 Jul 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Jul 2025 05:26:21 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Jul 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Jul 2025 08:27:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Uber Robotaxi车队挤满了中国人</title>
-      <link>https://www.qbitai.com/2025/07/310754.html</link>
-      <description>&lt;![CDATA[Uber Robotaxi车队挤满了中国人]]&gt;</description>
-      <pubDate>Sun, 20 Jul 2025 04:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310754.html</guid>
+      <title>先别急着给OpenAI加冕！陶哲轩：这种「金牌」，含金量取决于「赛制」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-20-3</link>
+      <description>&lt;![CDATA[先别急着给OpenAI加冕！陶哲轩：这种「金牌」，含金量取决于「赛制」]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-20-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>「满血华为」上车猛士越野车，33万开卖</title>
-      <link>https://www.qbitai.com/2025/07/310729.html</link>
-      <description>&lt;![CDATA[「满血华为」上车猛士越野车，33万开卖]]&gt;</description>
-      <pubDate>Sun, 20 Jul 2025 04:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310729.html</guid>
+      <title>当Claude说：我先睡8小时，你们自己忙</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-20-2</link>
+      <description>&lt;![CDATA[当Claude说：我先睡8小时，你们自己忙]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-20-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACM MM 2025 | EventVAD：7B参数免训练，视频异常检测新SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-20</link>
+      <description>&lt;![CDATA[ACM MM 2025 | EventVAD：7B参数免训练，视频异常检测新SOTA]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 15:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-20</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型自信心崩塌！谷歌DeepMind证实：反对意见让GPT-4o轻易放弃正确答案</title>
+      <link>https://www.qbitai.com/2025/07/310948.html</link>
+      <description>&lt;![CDATA[大模型自信心崩塌！谷歌DeepMind证实：反对意见让GPT-4o轻易放弃正确答案]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310948.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>95后北大校友挑起ChatGPT Agent大梁！今年刚博士毕业，曾获陶哲轩支持的AIMO第二名</title>
+      <link>https://www.qbitai.com/2025/07/310922.html</link>
+      <description>&lt;![CDATA[95后北大校友挑起ChatGPT Agent大梁！今年刚博士毕业，曾获陶哲轩支持的AIMO第二名]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 07:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310922.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI打假AI，拿下SOTA丨厦大&amp;腾讯优图</title>
+      <link>https://www.qbitai.com/2025/07/310886.html</link>
+      <description>&lt;![CDATA[AI打假AI，拿下SOTA丨厦大&amp;腾讯优图]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 07:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310886.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>提速63%！中科院生成式渲染器突破效率瓶颈，一致性提升20%，破解具身数据荒难题</title>
+      <link>https://www.qbitai.com/2025/07/310873.html</link>
+      <description>&lt;![CDATA[提速63%！中科院生成式渲染器突破效率瓶颈，一致性提升20%，破解具身数据荒难题]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 06:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310873.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>任务级奖励提升App Agent思考力，淘天提出Mobile-R1，3B模型可超32B</title>
+      <link>https://www.qbitai.com/2025/07/310850.html</link>
+      <description>&lt;![CDATA[任务级奖励提升App Agent思考力，淘天提出Mobile-R1，3B模型可超32B]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310850.html</guid>
       <category>AI</category>
     </item>
   </channel>
