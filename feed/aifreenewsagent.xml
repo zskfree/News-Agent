@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 19 Jul 2025 23:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Jul 2025 23:24:19 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Jul 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Jul 2025 05:26:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>在OpenAI上班有多卷？离职员工爆料：7周打造Codex，每天熬到凌晨</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-19-5</link>
-      <description>&lt;![CDATA[在OpenAI上班有多卷？离职员工爆料：7周打造Codex，每天熬到凌晨]]&gt;</description>
-      <pubDate>Sat, 19 Jul 2025 22:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-19-5</guid>
+      <title>Uber Robotaxi车队挤满了中国人</title>
+      <link>https://www.qbitai.com/2025/07/310754.html</link>
+      <description>&lt;![CDATA[Uber Robotaxi车队挤满了中国人]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 04:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310754.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI「偷学」你的数据？6大顶级机构联手提出数据保护4大分级体系</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-19-4</link>
-      <description>&lt;![CDATA[AI「偷学」你的数据？6大顶级机构联手提出数据保护4大分级体系]]&gt;</description>
-      <pubDate>Sat, 19 Jul 2025 21:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-19-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>中国队重夺IMO奥数冠军，6金双满分碾压全场，AI连铜牌都拿不到</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-19-3</link>
-      <description>&lt;![CDATA[中国队重夺IMO奥数冠军，6金双满分碾压全场，AI连铜牌都拿不到]]&gt;</description>
-      <pubDate>Sat, 19 Jul 2025 21:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-19-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>世界首个「实时、无限」扩散视频生成模型，Karpathy投资站台</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-19-2</link>
-      <description>&lt;![CDATA[世界首个「实时、无限」扩散视频生成模型，Karpathy投资站台]]&gt;</description>
-      <pubDate>Sat, 19 Jul 2025 21:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-19-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>超越O4-mini，多模态大模型终于学会回头「看」：中科院自动化所提出GThinker模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-19</link>
-      <description>&lt;![CDATA[超越O4-mini，多模态大模型终于学会回头「看」：中科院自动化所提出GThinker模型]]&gt;</description>
-      <pubDate>Sat, 19 Jul 2025 21:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-19</guid>
+      <title>「满血华为」上车猛士越野车，33万开卖</title>
+      <link>https://www.qbitai.com/2025/07/310729.html</link>
+      <description>&lt;![CDATA[「满血华为」上车猛士越野车，33万开卖]]&gt;</description>
+      <pubDate>Sun, 20 Jul 2025 04:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/310729.html</guid>
       <category>AI</category>
     </item>
   </channel>
