@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-20 08:27
+**最后更新时间**: 2025-07-20 23:23
+
+---
+
+## 🆕 最新更新 (2025-07-20 23:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Sunrise Raises $139 Million in Pre-A Round as China Ramps Up GPU Independence Push](https://www.tmtpost.com/7631996.html)
+**发布时间**: 2025-07-20 23:15
+
+#### [中美贸易下降、全球供应链转移，外贸下一个增长点在哪里？| 巴伦精选](https://www.tmtpost.com/7631807.html)
+**发布时间**: 2025-07-20 22:23
+
+#### [跑步品牌Ciele携手滔搏进军中国市场；欧莱雅、星巴克中国、麦当劳中国等亮相链博会；爷爷不泡茶官宣舒淇为品牌代言人｜消研所周报](https://www.tmtpost.com/7630691.html)
+**发布时间**: 2025-07-20 21:43
+
+#### [韩国年轻人最爱去的酒店，被华尔街买了](https://www.tmtpost.com/7631796.html)
+**发布时间**: 2025-07-20 17:33
+
+#### [被动接招线上外卖大战的美团，这次通过“快乐猴”主动奇袭线下零售](https://www.tmtpost.com/7631823.html)
+**发布时间**: 2025-07-20 17:33
+
+#### [“第一度电” 倒计时：可控核聚变打破“”50 年魔咒”，万亿市场轮廓渐显](https://www.tmtpost.com/7631822.html)
+**发布时间**: 2025-07-20 17:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [倒计时 1 天｜TRAE SOLO 发布会日程抢先看](https://www.infoq.cn/article/A67htiRGagKPIVTtFmLi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-20 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「都市丽人」小跑一夏：我如何让跑步成为习惯](https://sspai.com/post/90189)
+**发布时间**: 2025-07-20 16:07
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [My 9 Favorite Pickleball Paddles From 3 Years of Testing (2025)](https://www.wired.com/gallery/best-pickleball-paddles/)
+**发布时间**: 2025-07-20 15:06
+
+#### [Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)
+**发布时间**: 2025-07-20 14:03
+
+#### [9 Best Coolers WIRED Tested for Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
+**发布时间**: 2025-07-20 13:07
+
+#### [The Ultimate Dolby Atmos Experience Might Be In Your Car](https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/)
+**发布时间**: 2025-07-20 12:33
+
+#### [Amazon’s Fire Tablets, Tested, So You Don’t Have To (2025)](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+**发布时间**: 2025-07-20 12:00
+
+#### [How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether](https://www.wired.com/story/limit-galaxy-ai-to-on-device-processing-or-turn-it-off/)
+**发布时间**: 2025-07-20 11:30
+
+#### [The Hunt for a Fundamental Theory of Quantum Gravity](https://www.wired.com/story/the-hunt-for-a-fundamental-theory-of-quantum-gravity/)
+**发布时间**: 2025-07-20 11:00
+
+#### [This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It](https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/)
+**发布时间**: 2025-07-20 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The frenzied, gamified chase for Labubus](https://www.theverge.com/analysis/710047/labubu-pop-mart-blind-boxes-scarcity-marketing)
+**发布时间**: 2025-07-20 14:00
+
+#### [The intolerable memes of Alligator Alcatraz](https://www.theverge.com/policy/710015/alligator-alcatraz-ice-detention-memes-social-media)
+**发布时间**: 2025-07-20 13:00
+
+#### [I tasked Alexa Plus with tackling my to-do list — it was hit or miss](https://www.theverge.com/hands-on/710035/amazon-alexa-plus-ai-agent-features-hands-on)
+**发布时间**: 2025-07-20 12:00
+
+#### [The Switch 2’s next killer app is already here](https://www.theverge.com/installer-newsletter/710157/donkey-kong-bananza-openai-chatgpt-agent-installer)
+**发布时间**: 2025-07-20 12:00
 
 ---
 

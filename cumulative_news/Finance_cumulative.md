@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-19 23:24
+**最后更新时间**: 2025-07-20 23:23
+
+---
+
+## 🆕 最新更新 (2025-07-20 23:23)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stock market’s rally now hinges on earnings, which take the spotlight this week](https://www.marketwatch.com/bulletins/redirect/go?g=0d0f1e16-e961-4828-ae3c-c056a12d23e8&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-20 23:14
+
+#### [U.S. stock futures flat as investors look ahead to earnings, tariff developments](https://www.marketwatch.com/bulletins/redirect/go?g=36fac45b-132f-4ae0-b2ee-10e61866cd18&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-20 22:18
+
+#### [They shrunk the airport lounge: Why that flight-day haven may be getting smaller](https://www.marketwatch.com/bulletins/redirect/go?g=5a057f64-9fee-4f3e-a3d1-5f30ecfe498a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-20 20:59
+
+#### [Alphabet's earnings will probably be fine, but this big threat looms](https://www.marketwatch.com/bulletins/redirect/go?g=bedd3c57-9419-4417-831b-316aa3c5f8f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-20 19:58
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat as investors look ahead to earnings, tariff developments](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-ahead-to-earnings-tariff-developments-8bb2b0f6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-20 23:10
+
+#### [They shrunk the airport lounge: Why that flight-day haven may be getting smaller](https://www.marketwatch.com/story/airport-lounges-are-ridiculously-crowded-new-mini-lounges-might-help-ease-the-traffic-956eb8f7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-20 20:24
+
+#### [Stock market’s rally now hinges on earnings — with tariffs and Fed drama hopefully background noise](https://www.marketwatch.com/story/stock-markets-rally-now-hinges-on-earnings-with-tariffs-and-fed-drama-hopefully-background-noise-a51e642c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-20 19:44
+
+#### [Alphabet’s earnings will probably be fine, analysts say, but it faces this threat to its core business](https://www.marketwatch.com/story/alphabets-earnings-will-probably-be-fine-analysts-say-but-it-faces-this-threat-to-its-core-business-ca255ba2?mod=mw_rss_topstories)
+**发布时间**: 2025-07-20 19:36
 
 ---
 
