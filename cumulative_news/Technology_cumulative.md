@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-20 23:23
+**最后更新时间**: 2025-07-21 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-21 05:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [我为父母找工作](https://www.tmtpost.com/7632374.html)
+**发布时间**: 2025-07-21 12:57
+
+#### [“稻米造血”，产业颠覆还是炒作噱头？](https://www.tmtpost.com/7632406.html)
+**发布时间**: 2025-07-21 12:53
+
+#### [半导体设备，下一个爆点](https://www.tmtpost.com/7632421.html)
+**发布时间**: 2025-07-21 12:46
+
+#### [西海美术馆落幕，近20亿投资项目瘫痪背后](https://www.tmtpost.com/7632424.html)
+**发布时间**: 2025-07-21 12:40
+
+#### [RevPAR失灵，我用RevPAG救活一家濒临倒闭的酒店](https://www.tmtpost.com/7632387.html)
+**发布时间**: 2025-07-21 12:33
+
+#### [200亿蓝海市场，首个抑制剂上市在即](https://www.tmtpost.com/7632502.html)
+**发布时间**: 2025-07-21 12:22
+
+#### [霸王茶姬成了外卖大战里的真“霸王”](https://www.tmtpost.com/7632431.html)
+**发布时间**: 2025-07-21 12:22
+
+#### [超低功耗MCU，八仙过海](https://www.tmtpost.com/7632458.html)
+**发布时间**: 2025-07-21 12:22
+
+#### [“搜打撤”会是下一个“吃鸡”级机会吗？](https://www.tmtpost.com/7632472.html)
+**发布时间**: 2025-07-21 12:22
+
+#### [生育企业集体抢闸IPO，不上市就出局？](https://www.tmtpost.com/7632512.html)
+**发布时间**: 2025-07-21 12:22
+
+#### [千寻智能完成近6亿元PreA+轮融资，京东领投，P7、顺为等老股东重磅加注](https://www.tmtpost.com/7632291.html)
+**发布时间**: 2025-07-21 11:29
+
+#### [烧光13亿，昔日网红品牌被申请破产](https://www.tmtpost.com/7632233.html)
+**发布时间**: 2025-07-21 10:32
+
+#### [2025中国第三方支付行业年度分析报告](https://www.tmtpost.com/7632271.html)
+**发布时间**: 2025-07-21 10:32
+
+#### [1小时800元，韩国爆火的颜值生意，有年轻人“打飞的”氪金](https://www.tmtpost.com/7632276.html)
+**发布时间**: 2025-07-21 10:32
+
+#### [China's Food Delivery War Escalates into Record-Breaking Subsidy Battle as Growth Slows](https://www.tmtpost.com/7632273.html)
+**发布时间**: 2025-07-21 10:14
+
+#### [快递期中考，韵达压力大](https://www.tmtpost.com/7632110.html)
+**发布时间**: 2025-07-21 09:51
+
+#### [《扫毒风暴》难成剧王，新丽传媒如何翻身？](https://www.tmtpost.com/7632144.html)
+**发布时间**: 2025-07-21 09:51
+
+#### [钉钉第三次转向](https://www.tmtpost.com/7632148.html)
+**发布时间**: 2025-07-21 09:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [不写代码、不裁员、15人团队爆改 AI 应用！ChatGPT、Claude死忠粉的暴利玩法：打造多个爆款，实现七位数营收](https://www.infoq.cn/article/C1QHryGExc4xSwpVaymP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-21 09:47
+
+#### [曝微信安装包代码出现侮辱性词汇；陶哲轩评“OpenAI内部实验模型获IMO金牌”；传字节Seed视觉负责人“暂休”｜AI周报](https://www.infoq.cn/article/s2oDpsHsdXBqk0fNSAQ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-21 09:44
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [大牛扎堆进入具身智能，智驾不香了吗？丨智驾雷达 Vol.2](http://www.huxiu.com/article/4599256.html?f=wangzhan)
+**发布时间**: 2025-07-21 09:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：市场监管总局约谈外卖平台企业](https://sspai.com/post/101184)
+**发布时间**: 2025-07-21 08:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果首款折叠屏手机或将于明年发布；Meta 超级智能实验室已招募 44 人：一半来自中国；演唱会出轨男 CEO 已辞职｜极客早知道](http://www.geekpark.net/news/351698)
+**发布时间**: 2025-07-21 08:33
 
 ---
 

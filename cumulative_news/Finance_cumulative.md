@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-20 23:23
+**最后更新时间**: 2025-07-21 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-21 05:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This New England state is the best place to retire](https://www.marketwatch.com/story/this-new-england-state-is-the-best-place-to-retire-87209f7f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 04:01
+
+#### [U.S. stock futures inch higher as investors look ahead to earnings, tariff developments](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-ahead-to-earnings-tariff-developments-8bb2b0f6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 02:45
 
 ---
 
