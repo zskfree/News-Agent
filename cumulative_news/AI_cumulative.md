@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-21 08:33
+**最后更新时间**: 2025-07-21 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-21 23:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [欺骗、隐瞒、删库跑路，AI程序员彻底失控翻车](https://www.jiqizhixin.com/articles/2025-07-21-10)
+**发布时间**: 2025-07-21 17:13
+
+#### [多模态大模型存在「内心预警」，无需训练，就能识别越狱攻击](https://www.jiqizhixin.com/articles/2025-07-21-9)
+**发布时间**: 2025-07-21 17:05
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A new way to edit or generate images](https://news.mit.edu/2025/new-way-edit-or-generate-images-0721)
+**发布时间**: 2025-07-21 15:00
+
+#### [MIT Learn offers “a whole new front door to the Institute”](https://news.mit.edu/2025/mit-learn-offers-whole-new-front-door-institute-0721)
+**发布时间**: 2025-07-21 15:00
+
+#### [The unique, mathematical shortcuts language models use to predict dynamic scenarios](https://news.mit.edu/2025/unique-mathematical-shortcuts-language-models-use-to-predict-dynamic-scenarios-0721)
+**发布时间**: 2025-07-21 08:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: how your data is being used to train AI, and why chatbots aren’t doctors](https://www.technologyreview.com/2025/07/21/1120525/the-download-how-your-data-is-being-used-to-train-ai-and-why-chatbots-arent-doctors/)
+**发布时间**: 2025-07-21 12:10
+
+#### [AI companies have stopped warning you that their chatbots aren’t doctors](https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/)
+**发布时间**: 2025-07-21 08:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [车圈最能赚的长城，半年利润大跌了36%，股价反而涨了](https://www.qbitai.com/2025/07/311152.html)
+**发布时间**: 2025-07-21 09:22
+
+#### [刘强东连投3家具身智能！京东美团「战火」烧到外卖之外](https://www.qbitai.com/2025/07/311108.html)
+**发布时间**: 2025-07-21 08:51
+
+#### [3亿美元薪酬被10人拒绝！OpenAI首席研究官一句话引发硅谷史上最疯狂抢人大战](https://www.qbitai.com/2025/07/311031.html)
+**发布时间**: 2025-07-21 08:41
 
 ---
 

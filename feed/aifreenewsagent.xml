@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 21 Jul 2025 08:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Jul 2025 08:34:17 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 23:22:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>蚂蚁ACL活动全览！论文串讲、人才专项答疑与闭门晚宴等你报名</title>
-      <link>https://www.qbitai.com/2025/07/311025.html</link>
-      <description>&lt;![CDATA[蚂蚁ACL活动全览！论文串讲、人才专项答疑与闭门晚宴等你报名]]&gt;</description>
-      <pubDate>Mon, 21 Jul 2025 07:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311025.html</guid>
+      <title>欺骗、隐瞒、删库跑路，AI程序员彻底失控翻车</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-21-10</link>
+      <description>&lt;![CDATA[欺骗、隐瞒、删库跑路，AI程序员彻底失控翻车]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-21-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>手术刀式去噪突破LLM能力上限，从头预训练模型下游任务平均提高7.2% | 中科院＆阿里</title>
-      <link>https://www.qbitai.com/2025/07/311009.html</link>
-      <description>&lt;![CDATA[手术刀式去噪突破LLM能力上限，从头预训练模型下游任务平均提高7.2% | 中科院＆阿里]]&gt;</description>
-      <pubDate>Mon, 21 Jul 2025 07:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311009.html</guid>
+      <title>多模态大模型存在「内心预警」，无需训练，就能识别越狱攻击</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-21-9</link>
+      <description>&lt;![CDATA[多模态大模型存在「内心预警」，无需训练，就能识别越狱攻击]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-21-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A new way to edit or generate images</title>
+      <link>https://news.mit.edu/2025/new-way-edit-or-generate-images-0721</link>
+      <description>&lt;![CDATA[A new way to edit or generate images]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-way-edit-or-generate-images-0721</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MIT Learn offers “a whole new front door to the Institute”</title>
+      <link>https://news.mit.edu/2025/mit-learn-offers-whole-new-front-door-institute-0721</link>
+      <description>&lt;![CDATA[MIT Learn offers “a whole new front door to the Institute”]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-learn-offers-whole-new-front-door-institute-0721</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: how your data is being used to train AI, and why chatbots aren’t doctors</title>
+      <link>https://www.technologyreview.com/2025/07/21/1120525/the-download-how-your-data-is-being-used-to-train-ai-and-why-chatbots-arent-doctors/</link>
+      <description>&lt;![CDATA[The Download: how your data is being used to train AI, and why chatbots aren’t doctors]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/21/1120525/the-download-how-your-data-is-being-used-to-train-ai-and-why-chatbots-arent-doctors/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI companies have stopped warning you that their chatbots aren’t doctors</title>
+      <link>https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/</link>
+      <description>&lt;![CDATA[AI companies have stopped warning you that their chatbots aren’t doctors]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>车圈最能赚的长城，半年利润大跌了36%，股价反而涨了</title>
+      <link>https://www.qbitai.com/2025/07/311152.html</link>
+      <description>&lt;![CDATA[车圈最能赚的长城，半年利润大跌了36%，股价反而涨了]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311152.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刘强东连投3家具身智能！京东美团「战火」烧到外卖之外</title>
+      <link>https://www.qbitai.com/2025/07/311108.html</link>
+      <description>&lt;![CDATA[刘强东连投3家具身智能！京东美团「战火」烧到外卖之外]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311108.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>3亿美元薪酬被10人拒绝！OpenAI首席研究官一句话引发硅谷史上最疯狂抢人大战</title>
+      <link>https://www.qbitai.com/2025/07/311031.html</link>
+      <description>&lt;![CDATA[3亿美元薪酬被10人拒绝！OpenAI首席研究官一句话引发硅谷史上最疯狂抢人大战]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311031.html</guid>
       <category>AI</category>
     </item>
   </channel>

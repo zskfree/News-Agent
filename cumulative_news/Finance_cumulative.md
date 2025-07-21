@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-21 08:33
+**最后更新时间**: 2025-07-21 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-21 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Intel’s upcoming earnings have this analyst wondering if the numbers actually matter](https://www.marketwatch.com/story/intels-upcoming-earnings-have-this-analyst-wondering-if-the-numbers-actually-matter-a5eaf5a8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 23:14
+
+#### [Opendoor sees epic afternoon wipeout during wild, roller-coaster day](https://www.marketwatch.com/story/opendoor-sees-epic-late-day-wipeout-during-wild-roller-coaster-day-61c53cec?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 22:14
+
+#### [‘I have felt invisible, disrespected and heartbroken’: My firstborn son wants nothing to do with me. Do I cut him off?](https://www.marketwatch.com/story/i-have-felt-invisible-disrespected-and-heartbroken-my-firstborn-son-wants-nothing-to-do-with-me-do-i-cut-him-off-a17bb951?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 22:00
+
+#### [IBM’s stock has crushed the S&P 500 this year. That raises the bar for earnings.](https://www.marketwatch.com/story/ibms-stock-has-crushed-the-s-p-500-this-year-that-raises-the-bar-for-earnings-bddb0f11?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 21:29
+
+#### [‘Poof! His money could disappear’: My boyfriend is 75. His portfolio is down 4% this year. Do we fire his adviser?](https://www.marketwatch.com/story/poof-his-money-could-disappear-my-boyfriend-is-75-his-portfolio-is-down-4-this-year-do-we-fire-his-adviser-bf6920cc?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 21:20
+
+#### [Why international stocks can keep walloping U.S. investments in 2025](https://www.marketwatch.com/story/why-international-stocks-can-keep-walloping-u-s-investments-in-2025-94044f17?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 21:01
+
+#### [Trump’s big budget law will add this much to the deficit, according to a new estimate](https://www.marketwatch.com/story/this-is-how-much-trumps-megabill-could-add-to-the-deficit-7605859f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 20:58
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Older adults will be auto-enrolled in Medicare Advantage under this new bill](https://www.marketwatch.com/bulletins/redirect/go?g=117938b3-90fc-40b0-a3e4-e8857a485418&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 22:27
+
+#### [Opendoor sees epic afternoon wipeout during wild, roller-coaster day](https://www.marketwatch.com/bulletins/redirect/go?g=ed08a8b0-843f-4aa3-8f47-6ec98eee81f7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 22:25
+
+#### [Why international stocks can keep walloping U.S. investments in 2025](https://www.marketwatch.com/bulletins/redirect/go?g=88c11876-2efa-405e-9c9b-61a2daedcdbe&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 21:07
+
+#### [Trump’s big budget law will add this much to the deficit, per new CBO estimate](https://www.marketwatch.com/bulletins/redirect/go?g=550fe169-ad27-48c5-91f8-e8960c485b5f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 20:39
+
+#### [Dow ends lower, S&P and Nasdaq close at records after stocks pare gains late](https://www.marketwatch.com/bulletins/redirect/go?g=8681fb78-1c45-47b6-b7ce-c474f42d4260&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 20:02
+
+#### [Stocks pare gains into final hour as big earnings week kicks off — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=b821b429-ecb0-4051-9309-02c58f03371e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 19:04
+
+#### [Here’s what Americans are willing to sacrifice to save Social Security](https://www.marketwatch.com/bulletins/redirect/go?g=271dd611-3355-4333-9e94-8cd43d4696b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 16:59
+
+#### [The Nasdaq is partying like it’s 1999](https://www.marketwatch.com/bulletins/redirect/go?g=9f360b7d-21ad-4fb5-a1ce-5d7852150cc2&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 16:05
+
+#### [Why investors may be in for a long summer with no easy resolution on tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=be3a7eb3-6a6b-438a-91b3-63c9711068c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 15:46
+
+#### [Leading economic index points to recession. It may be another false signal.](https://www.marketwatch.com/bulletins/redirect/go?g=4779e2a0-4874-4abb-9675-ea3436288964&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 15:13
 
 ---
 

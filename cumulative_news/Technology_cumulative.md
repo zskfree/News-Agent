@@ -1,7 +1,201 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-21 08:33
+**最后更新时间**: 2025-07-21 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-21 23:21)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [首家京东外卖门店开业；小宇宙回应负责人离职；火山引擎将推出全新数字人平台](http://www.geekpark.net/news/351753)
+**发布时间**: 2025-07-22 07:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [宗泽后喊话宗馥莉：不要逼得弟弟妹妹们无路可走 | 巴伦独家](https://www.tmtpost.com/7633432.html)
+**发布时间**: 2025-07-21 23:45
+
+#### [当郎朗的琴声遇上国台的酒香：一场诉说时间与成长的艺术盛宴](https://www.tmtpost.com/7633334.html)
+**发布时间**: 2025-07-21 23:24
+
+#### [芯迈半导体：还未上市估值已飙升200亿元，成立至今平均每年亏损5.64 亿元｜IPO观察](https://www.tmtpost.com/7628033.html)
+**发布时间**: 2025-07-21 22:24
+
+#### [康华生物易主上海国资基金，“独腿”跛行如何撑起7亿对赌？](https://www.tmtpost.com/7633368.html)
+**发布时间**: 2025-07-21 22:23
+
+#### [酒鬼酒傍上胖东来“大腿”，能否挽救颓势？|焦点](https://www.tmtpost.com/7633060.html)
+**发布时间**: 2025-07-21 20:36
+
+#### [诚迈科技发布全栈信创矩阵 助力信创产品国产替代](https://www.tmtpost.com/7632956.html)
+**发布时间**: 2025-07-21 20:36
+
+#### [得物与小红书，互相抄作业](https://www.tmtpost.com/7632437.html)
+**发布时间**: 2025-07-21 19:47
+
+#### [A股控制权交易新主流：“协议转让+表决权放弃”模式全解析](https://www.tmtpost.com/7633082.html)
+**发布时间**: 2025-07-21 19:46
+
+#### [稳定币，拯救烂生意](https://www.tmtpost.com/7633117.html)
+**发布时间**: 2025-07-21 18:55
+
+#### [头部品牌集体“搞副业”，这个餐饮赛道卷不动了？](https://www.tmtpost.com/7633104.html)
+**发布时间**: 2025-07-21 18:55
+
+#### [对话量旋科技项金根：黄仁勋预测太保守，10年后将实现百万物理比特的容错量子计算机](https://www.tmtpost.com/7633123.html)
+**发布时间**: 2025-07-21 18:51
+
+#### [7月人形机器人“订单雨”：当优必选9051万刷新纪录，商业化拐点真的来了？](https://www.tmtpost.com/7632989.html)
+**发布时间**: 2025-07-21 18:28
+
+#### [外卖大战会是一场持久战](https://www.tmtpost.com/7632992.html)
+**发布时间**: 2025-07-21 18:27
+
+#### [短剧上瘾：情绪薯片里的“爽”与“胖”](https://www.tmtpost.com/7633062.html)
+**发布时间**: 2025-07-21 18:27
+
+#### [【生态环境周观察】美国拟对印度、印尼、老挝光伏产品进行“双反”调查；中国第99家央企雅江集团揭牌](https://www.tmtpost.com/7632615.html)
+**发布时间**: 2025-07-21 18:00
+
+#### [“特供生意”不好做](https://www.tmtpost.com/7632601.html)
+**发布时间**: 2025-07-21 17:58
+
+#### [长城的“35岁深蹲”要靠纯电救赎吗？](https://www.tmtpost.com/7632856.html)
+**发布时间**: 2025-07-21 17:58
+
+#### [上海，真的“老”了](https://www.tmtpost.com/7632796.html)
+**发布时间**: 2025-07-21 17:58
+
+#### [外卖大战下的茶饮困局：向下卷死利润，向上卷活未来](https://www.tmtpost.com/7632877.html)
+**发布时间**: 2025-07-21 17:58
+
+#### [苹果遭遇AI危机，供应商在逃离“果链”中进退两难](https://www.tmtpost.com/7632881.html)
+**发布时间**: 2025-07-21 17:58
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
+**发布时间**: 2025-07-21 21:55
+
+#### [Tesla’s long-delayed retro diner and charging location is finally opening](https://www.theverge.com/news/711131/tesla-diner-charging-elon-musk)
+**发布时间**: 2025-07-21 21:15
+
+#### [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)
+**发布时间**: 2025-07-21 19:37
+
+#### [Faraday Future is back with another wild EV that probably will never get made](https://www.theverge.com/electric-cars/711000/faraday-future-fx-van-reveal-ai-face-grille)
+**发布时间**: 2025-07-21 19:28
+
+#### [Google solves its Pixel 10 leaks by just showing us the phone](https://www.theverge.com/news/711033/google-pixel-10-design-tease-reveal)
+**发布时间**: 2025-07-21 19:14
+
+#### [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
+**发布时间**: 2025-07-21 17:36
+
+#### [Instacart’s CEO is about to take the reins of a big chunk of OpenAI](https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai)
+**发布时间**: 2025-07-21 17:12
+
+#### [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)
+**发布时间**: 2025-07-21 17:00
+
+#### [Google&#8217;s leaked Pixel 10 images confirm a third camera](https://www.theverge.com/news/710809/google-pixel-10-leaked-official-renders-third-telephoto-camera)
+**发布时间**: 2025-07-21 16:59
+
+#### [Xbox cloud games will soon follow you across Xbox, PC, and Windows handhelds](https://www.theverge.com/news/710764/xbox-cloud-gaming-roaming-pc-console-play-history-feature)
+**发布时间**: 2025-07-21 15:28
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office](https://www.wired.com/story/epa-employees-still-in-the-dark-as-agency-dismantles-scientific-research-office/)
+**发布时间**: 2025-07-21 21:26
+
+#### [Trump’s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them](https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/)
+**发布时间**: 2025-07-21 18:51
+
+#### [OpenAI's New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff](https://www.wired.com/story/openai-fidji-simo-note-employees/)
+**发布时间**: 2025-07-21 17:05
+
+#### [What’s Behind Gen Z’s Sex Recession?](https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/)
+**发布时间**: 2025-07-21 16:56
+
+#### [How WIRED Analyzed the Epstein Video](https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/)
+**发布时间**: 2025-07-21 16:54
+
+#### [Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)](https://www.wired.com/gallery/best-backyard-pizza-oven/)
+**发布时间**: 2025-07-21 14:04
+
+#### [Hisense U8QG TV Review: Beautifully Bright, Tough to Tame](https://www.wired.com/review/hisense-u8qg/)
+**发布时间**: 2025-07-21 13:03
+
+#### [HP OmniBook X Flip 14 Review: Flip Flop](https://www.wired.com/review/hp-omnibook-x-flip-14-2025/)
+**发布时间**: 2025-07-21 12:00
+
+#### [Mark Zuckerberg Is Expanding His Secretive Hawaii Compound. Part of It Sits Atop a Burial Ground](https://www.wired.com/story/mark-zuckerberg-secretive-hawaii-compound-burial-ground/)
+**发布时间**: 2025-07-21 11:00
+
+#### [The Demise of China’s Hottest Online Shopping Craze](https://www.wired.com/story/chinese-group-buying-startups-meituan-pinduoduo/)
+**发布时间**: 2025-07-21 10:30
+
+#### [A Head-to-Toe Breakdown of Social Media’s Billion-Dollar Remedies](https://www.wired.com/story/head-to-toe-wellness-influencers/)
+**发布时间**: 2025-07-21 10:00
+
+#### [Life Without Screens: This Camp Is a Teen’s Worst Nightmare](https://www.wired.com/story/teen-summer-camp-no-screens/)
+**发布时间**: 2025-07-21 10:00
+
+#### [Beyond Wellness](https://www.wired.com/beyond-wellness/)
+**发布时间**: 2025-07-21 10:00
+
+#### [Bryan Johnson Is Going to Die](https://www.wired.com/story/big-interview-bryan-johnson/)
+**发布时间**: 2025-07-21 10:00
+
+#### [How Trump Killed Cancer Research](https://www.wired.com/story/how-trump-killed-cancer-research/)
+**发布时间**: 2025-07-21 10:00
+
+#### [The Gear You Need to Keep Fit, Rested, and Balanced](https://www.wired.com/gallery/best-wellness-gear/)
+**发布时间**: 2025-07-21 10:00
+
+#### [Animals Are the Original Wellness Influencers](https://www.wired.com/story/animal-wellness-tips/)
+**发布时间**: 2025-07-21 10:00
+
+#### [There's Neuralink—and There's the Mind-Reading Company That Might Surpass It](https://www.wired.com/story/synchron-neuralink-competitor-brain-computer-interfaces/)
+**发布时间**: 2025-07-21 10:00
+
+#### [Who Controls Your Health? Test Your Knowledge of the MAHA Movement](https://www.wired.com/story/maha-rfk-junior-cabinet-quiz/)
+**发布时间**: 2025-07-21 10:00
+
+#### [Does Anyone Know What ‘Wellness’ Means Anymore?](https://www.wired.com/story/beyond-wellness-editors-letter/)
+**发布时间**: 2025-07-21 10:00
+
+#### [The Next Thing You Smell Could Ruin Your Life](https://www.wired.com/story/multiple-chemical-sensitivity-tilt-claudia-miller/)
+**发布时间**: 2025-07-21 10:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [买懂王手机，做纯血冤种](http://www.huxiu.com/article/4601964.html?f=wangzhan)
+**发布时间**: 2025-07-21 19:30
+
+#### [裁撤、水课、AI、包浆PPT，文科的大败局好像开始了？](http://www.huxiu.com/article/4592532.html?f=wangzhan)
+**发布时间**: 2025-07-21 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/101203)
+**发布时间**: 2025-07-21 17:49
+
+#### [第四期共创开放日招募开启 | 少数派会员 2025 新季即将同步启动！](https://sspai.com/post/101153)
+**发布时间**: 2025-07-21 15:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [沉浸式文旅新玩法-基于4D GS技术的真人数字人赋能VR体验升级](https://www.infoq.cn/article/0HxfdOUMoogR9hLGaaUi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-21 17:35
+
+#### [沉浸式 LBE 大空间互动体验！火山引擎支持《转折·从头越》北京 VR 巡展](https://www.infoq.cn/article/gUaQaQCIT0WDC8MC508Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-21 17:26
+
+#### [GAI·每日互动AI新品发布会：开启智能进化新纪元](https://www.infoq.cn/article/Qvg6F8qxT55jpxdxrwlm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-21 17:14
 
 ---
 
