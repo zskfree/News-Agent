@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-21 05:28
+**最后更新时间**: 2025-07-21 08:33
+
+---
+
+## 🆕 最新更新 (2025-07-21 08:33)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How shockwaves from Japanese elections could reverberate in the U.S. bond market](https://www.marketwatch.com/story/how-shockwaves-from-japanese-elections-could-reverberate-in-the-u-s-bond-market-65fe8d4c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 08:03
+
+#### [Stellantis warns of $2.7 billion loss on writedowns, tariff impact](https://www.marketwatch.com/story/stellantis-warns-of-2-7-billion-loss-on-writedowns-tariff-impact-769578de?mod=mw_rss_topstories)
+**发布时间**: 2025-07-21 07:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stellantis warns of surprise $2.7 billion loss from writedowns, tariff hit](https://www.marketwatch.com/bulletins/redirect/go?g=0c46498f-27ff-4a80-81b9-7a3ea9447113&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-21 06:50
 
 ---
 

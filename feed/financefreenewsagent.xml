@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 21 Jul 2025 05:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Jul 2025 05:29:20 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 08:34:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>This New England state is the best place to retire</title>
-      <link>https://www.marketwatch.com/story/this-new-england-state-is-the-best-place-to-retire-87209f7f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This New England state is the best place to retire]]&gt;</description>
-      <pubDate>Mon, 21 Jul 2025 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-new-england-state-is-the-best-place-to-retire-87209f7f?mod=mw_rss_topstories</guid>
+      <title>How shockwaves from Japanese elections could reverberate in the U.S. bond market</title>
+      <link>https://www.marketwatch.com/story/how-shockwaves-from-japanese-elections-could-reverberate-in-the-u-s-bond-market-65fe8d4c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[How shockwaves from Japanese elections could reverberate in the U.S. bond market]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 08:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-shockwaves-from-japanese-elections-could-reverberate-in-the-u-s-bond-market-65fe8d4c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>U.S. stock futures inch higher as investors look ahead to earnings, tariff developments</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-ahead-to-earnings-tariff-developments-8bb2b0f6?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures inch higher as investors look ahead to earnings, tariff developments]]&gt;</description>
-      <pubDate>Mon, 21 Jul 2025 02:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-ahead-to-earnings-tariff-developments-8bb2b0f6?mod=mw_rss_topstories</guid>
+      <title>Stellantis warns of $2.7 billion loss on writedowns, tariff impact</title>
+      <link>https://www.marketwatch.com/story/stellantis-warns-of-2-7-billion-loss-on-writedowns-tariff-impact-769578de?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stellantis warns of $2.7 billion loss on writedowns, tariff impact]]&gt;</description>
+      <pubDate>Mon, 21 Jul 2025 07:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stellantis-warns-of-2-7-billion-loss-on-writedowns-tariff-impact-769578de?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -4530,6 +4530,18 @@
         "link": "https://arxiv.org/abs/2507.13411",
         "published_date": "Mon, 21 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-21T05:29:20.590868"
+      },
+      "4429342bcab5688a3834180cc987e27af380deebb816b185bc3c5b51f2760ade": {
+        "title": "蚂蚁ACL活动全览！论文串讲、人才专项答疑与闭门晚宴等你报名",
+        "link": "https://www.qbitai.com/2025/07/311025.html",
+        "published_date": "Mon, 21 Jul 2025 07:56:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.368999"
+      },
+      "2896d2339c3574b35fb4776af9001203c4cc63ca8d7f0d3e7d0758ad0e90ab68": {
+        "title": "手术刀式去噪突破LLM能力上限，从头预训练模型下游任务平均提高7.2% | 中科院＆阿里",
+        "link": "https://www.qbitai.com/2025/07/311009.html",
+        "published_date": "Mon, 21 Jul 2025 07:19:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.369166"
       }
     },
     "Technology": {
@@ -11732,6 +11744,96 @@
         "link": "http://www.geekpark.net/news/351698",
         "published_date": "Mon, 21 Jul 2025 08:33:00 GMT",
         "first_seen": "2025-07-21T05:28:56.934318"
+      },
+      "ddb6138e7a8f58bec094f131220d00ae24730e23fb6f19f3c02ac2eff54c9ce6": {
+        "title": "Wix通过AI为CI/CD管道添加了混沌，并提高了可靠性",
+        "link": "https://www.infoq.cn/article/tYNsxvjSIWZsGpCq6E0M?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Jul 2025 16:00:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312159"
+      },
+      "8abd71b6e92ce4e2a8b8475d9364357d3ff6ae75461e910dd116a77a3fdd1ebc": {
+        "title": "Replit AI删除客户数据库并撒谎隐瞒事实，创始人回应：绝不可能发生此事，但愿意赔偿损失",
+        "link": "https://www.infoq.cn/article/zGLttmCa6uQhmWjK7WZ4?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Jul 2025 15:49:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312112"
+      },
+      "823bd2d0b8f209c76c8754b11435af536784d86651b3d4568efebeaf9587be55": {
+        "title": "HarmonyOS：领航者说 第一期丨从 DevEco 到商业落地：实战解码鸿蒙生态的技术引擎与红利机遇",
+        "link": "https://www.infoq.cn/video/jZ7BQyTBSSP7ciDpPm81?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Jul 2025 15:09:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312184"
+      },
+      "649492833a65a8b5a4fa00a82aec231b3c28bdf4d1ef8bf1ff581cc1b7f01dd8": {
+        "title": "Pulumi支持直接使用Terraform模块",
+        "link": "https://www.infoq.cn/article/UrfdEkIN8aE3HQ3vcx0I?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312194"
+      },
+      "a6e2aad5abdb55617fccd0d4290235d303d74061aa547f7b10d5018328ea30b1": {
+        "title": "谷歌云推出非中断式云存储存储桶迁移功能",
+        "link": "https://www.infoq.cn/article/JiPY9Arx880ahfEZIVAk?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Jul 2025 14:20:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312201"
+      },
+      "25ad998a06c54e2359292c84fdeb1d75e0b45bddb131b82797a0741dadc9a8fd": {
+        "title": "7月21日A股分析：三大指数齐涨，两市成交额逼近1.7万亿，主力资金净流出超百亿，雅下水电概念超13%领涨市场",
+        "link": "https://www.tmtpost.com/7632719.html",
+        "published_date": "Mon, 21 Jul 2025 15:30:00 GMT",
+        "first_seen": "2025-07-21T08:33:48.578935"
+      },
+      "5f04bf430cff1f75474ba23272d8494f8774d70c245bb5b73b21229471416dc8": {
+        "title": "六座纯电SUV激战正酣：特斯拉入场太晚了吗？｜钛度车库",
+        "link": "https://www.tmtpost.com/7632009.html",
+        "published_date": "Mon, 21 Jul 2025 15:21:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312210"
+      },
+      "9af898657b8bcb6e583f68a17184b99acac16d9bc3b9fb98aaef2f5a43cd7d4e": {
+        "title": "JD.com Drives Robotics Funding Frenzy With Investments in LimX Dynamics, Spirit AI, and EngineAI",
+        "link": "https://www.tmtpost.com/7632722.html",
+        "published_date": "Mon, 21 Jul 2025 15:08:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312222"
+      },
+      "02037cb260c4c14ce3824b25a386b7a86a6455a055b95313e0c3cdb1d67dc182": {
+        "title": "从“不敢想”到“能做到”，专属模型能成为行业共识么？| 2025 ITValue Summit前瞻之AI落地指南系列①",
+        "link": "https://www.tmtpost.com/7632622.html",
+        "published_date": "Mon, 21 Jul 2025 14:48:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312173"
+      },
+      "6381e7c05cde4518143434603f369bfcb172931a46d85ca7a2043d08cadd373f": {
+        "title": "京东大手笔！领投逐际动力、众擎、千寻三家企业新融资，具身机器人热潮不减",
+        "link": "https://www.tmtpost.com/7632497.html",
+        "published_date": "Mon, 21 Jul 2025 14:03:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312148"
+      },
+      "63452691cfde058c9c0ae4e9c167788a3c61ccfa769cb70fb25345c96e41082b": {
+        "title": "从“看风景”到“造时空”：沉浸式体验重塑文旅未来",
+        "link": "https://www.tmtpost.com/7632398.html",
+        "published_date": "Mon, 21 Jul 2025 13:41:00 GMT",
+        "first_seen": "2025-07-21T08:33:48.582271"
+      },
+      "0f5499d9f826b3062e6c51799886010f92a5a075d2b920282060e4b50687407a": {
+        "title": "40家银行火速撤单：养老贷叫停背后的监管闪电战",
+        "link": "http://www.huxiu.com/article/4600948.html?f=wangzhan",
+        "published_date": "Mon, 21 Jul 2025 15:15:00 GMT",
+        "first_seen": "2025-07-21T08:33:48.582757"
+      },
+      "c0b19f5d5a3ef059eee3b8f511de50b1668c3ca19ade9182969d39aa8b78cadf": {
+        "title": "年轻人的生发神器，如何撬动400亿防脱市场？",
+        "link": "http://www.huxiu.com/article/4601968.html?f=wangzhan",
+        "published_date": "Mon, 21 Jul 2025 14:21:00 GMT",
+        "first_seen": "2025-07-21T08:33:48.583287"
+      },
+      "813769785016a7533762d579d64b46f1666b3784055074a2f49185525adf8019": {
+        "title": "城市漫步指南：京都任天堂博物馆与岚山徒步之旅",
+        "link": "https://sspai.com/post/101180",
+        "published_date": "Mon, 21 Jul 2025 12:41:00 GMT",
+        "first_seen": "2025-07-21T08:33:48.583811"
+      },
+      "6d3c9b9757185698d5bc9917f8dbced5bea92259abaa29d0e21700d55ae3e6c2": {
+        "title": "UK wants to weasel out of demand for Apple encryption back door",
+        "link": "https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down",
+        "published_date": "Mon, 21 Jul 2025 08:30:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.312134"
       }
     },
     "Finance": {
@@ -13330,12 +13432,24 @@
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-ahead-to-earnings-tariff-developments-8bb2b0f6?mod=mw_rss_topstories",
         "published_date": "Mon, 21 Jul 2025 02:45:00 GMT",
         "first_seen": "2025-07-21T05:29:20.599339"
+      },
+      "e1849cbde31b7bc3e7c237df44b023adb8637c12af43c46fecbeb5bcb56c3e33": {
+        "title": "How shockwaves from Japanese elections could reverberate in the U.S. bond market",
+        "link": "https://www.marketwatch.com/story/how-shockwaves-from-japanese-elections-could-reverberate-in-the-u-s-bond-market-65fe8d4c?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Jul 2025 08:03:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.381036"
+      },
+      "5ea5b13c7bfe34013f25323fc8e7fd9646686e5f4cba13529e620aa4c1bad31f": {
+        "title": "Stellantis warns of $2.7 billion loss on writedowns, tariff impact",
+        "link": "https://www.marketwatch.com/story/stellantis-warns-of-2-7-billion-loss-on-writedowns-tariff-impact-769578de?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Jul 2025 07:45:00 GMT",
+        "first_seen": "2025-07-21T08:34:17.381355"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-21T05:29:20.593214",
-    "Technology": "2025-07-21T05:28:56.967733",
-    "Finance": "2025-07-21T05:29:20.604259"
+    "AI": "2025-07-21T08:34:17.376258",
+    "Technology": "2025-07-21T08:34:17.347616",
+    "Finance": "2025-07-21T08:34:17.386641"
   }
 }
