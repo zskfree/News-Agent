@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-22 05:26
+**最后更新时间**: 2025-07-22 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-22 08:31)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [AstraZeneca to build new Virginia plant as it re-hashes other U.S. investment plans](https://www.marketwatch.com/story/astrazeneca-to-build-new-virginia-plant-as-it-re-hashes-other-u-s-investment-plans-c3c6c6e3?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 08:22
 
 ---
 

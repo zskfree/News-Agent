@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Jul 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2025 05:27:15 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 08:31:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>行业新突破：行为基础模型可实现高效的人形机器人全身控制</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-4</link>
-      <description>&lt;![CDATA[行业新突破：行为基础模型可实现高效的人形机器人全身控制]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-4</guid>
+      <title>怪异却奏效的实验设计，AI：我寻思这样可行</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-22-8</link>
+      <description>&lt;![CDATA[怪异却奏效的实验设计，AI：我寻思这样可行]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepMind夺得IMO官方「唯一」金牌，却成为OpenAI大型社死现场</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-5</link>
-      <description>&lt;![CDATA[DeepMind夺得IMO官方「唯一」金牌，却成为OpenAI大型社死现场]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-5</guid>
+      <title>牛津团队推出百万级数据抗体-抗原模型，超大模型的上限到底在哪里？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-22-7</link>
+      <description>&lt;![CDATA[牛津团队推出百万级数据抗体-抗原模型，超大模型的上限到底在哪里？]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Free Will Equation: Quantum Field Analogies for AGI</title>
-      <link>https://arxiv.org/abs/2507.14154</link>
-      <description>&lt;![CDATA[The Free Will Equation: Quantum Field Analogies for AGI]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14154</guid>
+      <title>关于机器人数据，强化学习大佬Sergey Levine刚刚写了篇好文章</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-22-6</link>
+      <description>&lt;![CDATA[关于机器人数据，强化学习大佬Sergey Levine刚刚写了篇好文章]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems</title>
-      <link>https://arxiv.org/abs/2507.14660</link>
-      <description>&lt;![CDATA[When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14660</guid>
+      <title>零一万物“超级员工”登场，企业级Agent迈入“价值交付”时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-22-9</link>
+      <description>&lt;![CDATA[零一万物“超级员工”登场，企业级Agent迈入“价值交付”时代]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix</title>
-      <link>https://arxiv.org/abs/2507.14719</link>
-      <description>&lt;![CDATA[Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14719</guid>
+      <title>Kimi K2官方技术报告出炉：采用384个专家，训练不靠刷题靠“用自己的话再讲一遍”</title>
+      <link>https://www.qbitai.com/2025/07/311541.html</link>
+      <description>&lt;![CDATA[Kimi K2官方技术报告出炉：采用384个专家，训练不靠刷题靠“用自己的话再讲一遍”]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311541.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ProofCompass: Enhancing Specialized Provers with LLM Guidance</title>
-      <link>https://arxiv.org/abs/2507.14335</link>
-      <description>&lt;![CDATA[ProofCompass: Enhancing Specialized Provers with LLM Guidance]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14335</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WebGuard: Building a Generalizable Guardrail for Web Agents</title>
-      <link>https://arxiv.org/abs/2507.14293</link>
-      <description>&lt;![CDATA[WebGuard: Building a Generalizable Guardrail for Web Agents]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14293</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Adaptive Multi-Agent Reasoning via Automated Workflow Generation</title>
-      <link>https://arxiv.org/abs/2507.14393</link>
-      <description>&lt;![CDATA[Adaptive Multi-Agent Reasoning via Automated Workflow Generation]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14393</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fail Fast, or Ask: Mitigating the Deficiencies of Reasoning LLMs with Human-in-the-Loop Systems Engineering</title>
-      <link>https://arxiv.org/abs/2507.14406</link>
-      <description>&lt;![CDATA[Fail Fast, or Ask: Mitigating the Deficiencies of Reasoning LLMs with Human-in-the-Loop Systems Engineering]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.14406</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Solving Formal Math Problems by Decomposition and Iterative Reflection</title>
-      <link>https://arxiv.org/abs/2507.15225</link>
-      <description>&lt;![CDATA[Solving Formal Math Problems by Decomposition and Iterative Reflection]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.15225</guid>
+      <title>李开复入场Agent！直接对话CEO走独特“一把手工程打法”</title>
+      <link>https://www.qbitai.com/2025/07/311521.html</link>
+      <description>&lt;![CDATA[李开复入场Agent！直接对话CEO走独特“一把手工程打法”]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311521.html</guid>
       <category>AI</category>
     </item>
   </channel>

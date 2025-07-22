@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-22 05:26
+**最后更新时间**: 2025-07-22 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-22 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [在一线城市做新媒体牛马，中年危机“满35减10”](https://www.tmtpost.com/7634052.html)
+**发布时间**: 2025-07-22 16:15
+
+#### [阿迪耐克下场：3000元一件的宠物服饰是「金矿」？](https://www.tmtpost.com/7633998.html)
+**发布时间**: 2025-07-22 16:15
+
+#### [拆解麦肯锡：管理咨询的成本密码与效率革命](https://www.tmtpost.com/7633552.html)
+**发布时间**: 2025-07-22 15:45
+
+#### [7月22日A股分析：三大指数齐创年内新高，两市合计成交18930.38亿元，资金流入最多的行业板块为煤炭行业、酿酒行业](https://www.tmtpost.com/7634076.html)
+**发布时间**: 2025-07-22 15:29
+
+#### [娃哈哈家族争遗产，农夫山泉们“吃饱”？](https://www.tmtpost.com/7633801.html)
+**发布时间**: 2025-07-22 15:13
+
+#### [2025零食赛道“魔幻现实”：一边控糖一边解压，品牌如何接招？](https://www.tmtpost.com/7633728.html)
+**发布时间**: 2025-07-22 14:53
+
+#### [OpenAI and SoftBank Said to Scale Back Plans of Stargate for A Small Data Center by Year-End](https://www.tmtpost.com/7633980.html)
+**发布时间**: 2025-07-22 14:27
+
+#### [2025年H1海外微短剧报告：全年大盘收入预计超$45亿，上半年APP内购$10亿](https://www.tmtpost.com/7632510.html)
+**发布时间**: 2025-07-22 14:00
+
+#### [国际投行的困惑：中国新一轮千亿外卖大战“值得打”吗？](https://www.tmtpost.com/7633756.html)
+**发布时间**: 2025-07-22 13:53
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 上新｜正经人谁写日记？但这个 AI 应用让我爱上写日记！](http://www.geekpark.net/news/351777)
+**发布时间**: 2025-07-22 15:22
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [宠物老龄化，正在催生一个百亿新蓝海](http://www.huxiu.com/article/4602623.html?f=wangzhan)
+**发布时间**: 2025-07-22 14:30
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
+**发布时间**: 2025-07-22 06:48
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [AT&T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)
+**发布时间**: 2025-07-22 05:30
 
 ---
 
