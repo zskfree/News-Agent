@@ -1,7 +1,129 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-21 23:21
+**最后更新时间**: 2025-07-22 05:26
+
+---
+
+## 🆕 最新更新 (2025-07-22 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [U.S. Treasury Secretary Signals Quality of Talks Outweighs after Commerce Chief Stresses Aug. 1 is a Hard Deadline](https://www.tmtpost.com/7633920.html)
+**发布时间**: 2025-07-22 13:14
+
+#### [俞敏洪、董宇辉，“分手”不后悔](https://www.tmtpost.com/7633603.html)
+**发布时间**: 2025-07-22 12:50
+
+#### [More EU Countries Including Germany Reported to Consider Most-Potent Trade Weapon As U.S. Pushes For Higher Baseline Tariffs](https://www.tmtpost.com/7633881.html)
+**发布时间**: 2025-07-22 12:08
+
+#### [AI、机器人、比特币与移民火星，2020年代这些流行叙事你未必真的听懂了](https://www.tmtpost.com/7633599.html)
+**发布时间**: 2025-07-22 11:28
+
+#### [从“闭眼买”到“不敢信”，山姆会员店神话崩塌](https://www.tmtpost.com/7633701.html)
+**发布时间**: 2025-07-22 11:22
+
+#### [芯寒智能完成数千万元种子轮融资，推动下一代算力散热方案落地](https://www.tmtpost.com/7633821.html)
+**发布时间**: 2025-07-22 11:21
+
+#### [新加坡力推无人驾驶巴士；中东成上半年汽车出口主要增量源；欧盟通过取消150欧元进口免税的政策；TikTok Shop墨西哥8月开放跨境店｜一周「出海参考」](https://www.tmtpost.com/7632918.html)
+**发布时间**: 2025-07-22 11:03
+
+#### [直播卖不到25万元，汪峰带不动299元的音乐课](https://www.tmtpost.com/7633714.html)
+**发布时间**: 2025-07-22 10:57
+
+#### [“顶风”补贴，外卖大战下平台“最后的挣扎”](https://www.tmtpost.com/7633415.html)
+**发布时间**: 2025-07-22 10:48
+
+#### [SpinQ Raises Hundreds of Millions in Series B to Scale Superconducting Quantum Computing Ambitions](https://www.tmtpost.com/7633735.html)
+**发布时间**: 2025-07-22 10:30
+
+#### [爱康国宾遭女律师硬刚“十年漏检”，创始人曾揭露体检行业乱象](https://www.tmtpost.com/7633392.html)
+**发布时间**: 2025-07-22 10:30
+
+#### [陷入芯“铜”危机](https://www.tmtpost.com/7633246.html)
+**发布时间**: 2025-07-22 10:16
+
+#### [被支付渠道制裁的Steam下架多款成人游戏，差点重蹈P站覆辙](https://www.tmtpost.com/7633400.html)
+**发布时间**: 2025-07-22 10:04
+
+#### [京东一日“三连投”机器人，具身智能生态战帷幕拉开](https://www.tmtpost.com/7633201.html)
+**发布时间**: 2025-07-22 09:45
+
+#### [可灵的“好莱坞”梦](https://www.tmtpost.com/7633274.html)
+**发布时间**: 2025-07-22 09:20
+
+#### [抢先DeepSeek R2，开源万亿参数Kimi K2：月之暗面生死突围](https://www.tmtpost.com/7633420.html)
+**发布时间**: 2025-07-22 08:40
+
+#### [悄悄大撤退，Manus带走了哪些秘密？](https://www.tmtpost.com/7633286.html)
+**发布时间**: 2025-07-22 08:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [在AI时代构建MVP](https://www.infoq.cn/article/sBSylBsXH0vpVWajX2Dr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 13:00
+
+#### [Grab订阅平台从SQS和Redis切换到Temporal](https://www.infoq.cn/article/x0eARcDSMpGjWualeLpM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 12:00
+
+#### [AI 集成的智能 Profiling 实践：从性能分析到优化闭环](https://www.infoq.cn/article/NqZokPDrDTOKCH4PPBbe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 11:52
+
+#### [研究显示：AI编程工具在经验丰富的开发者手中表现未达预期](https://www.infoq.cn/article/qYwcy9VPwlaJcFxq2fHw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 10:21
+
+#### [Java近期新闻：RDP2中的JDK 25、Spring框架、Payara平台、Open Liberty、Eclipse DataGrid](https://www.infoq.cn/article/NpGxNq8KN8RAmriIYCXQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 10:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [比奶茶和快乐水更清凉低卡，用这杯冷泡茶留住你的夏天](https://sspai.com/post/62308)
+**发布时间**: 2025-07-22 11:30
+
+#### [派早报：OPPO 发布 K13 Turbo 系列，乐凯 C200 胶卷复售等](https://sspai.com/post/101216)
+**发布时间**: 2025-07-22 08:42
+
+#### [第四期共创开放日招募开启 | 少数派会员 2025 新季即将同步启动](https://sspai.com/post/101153)
+**发布时间**: 2025-07-21 15:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [智元、宇树扎堆上市，半年 300 亿融资背后，机器人赛道「太火了」？](http://www.geekpark.net/news/351752)
+**发布时间**: 2025-07-22 11:15
+
+#### [首家京东自营外卖门店开业；小宇宙回应多名高管离职；国产新能源车保值率排名发布：SU7 第一](http://www.geekpark.net/news/351753)
+**发布时间**: 2025-07-22 07:21
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [近90家银行"消失"，谁动了农民钱袋子？](http://www.huxiu.com/article/4600949.html?f=wangzhan)
+**发布时间**: 2025-07-22 10:40
+
+#### [从外卖到路网，巨头日亏10亿究竟在争些什么？](http://www.huxiu.com/article/4600946.html?f=wangzhan)
+**发布时间**: 2025-07-22 08:00
+
+#### [山姆超市，开始背刺消费者？](http://www.huxiu.com/article/4601682.html?f=wangzhan)
+**发布时间**: 2025-07-22 07:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [10% Off Canon Promo Code & Coupons](https://www.wired.com/story/canon-promo-code/)
+**发布时间**: 2025-07-22 05:20
+
+#### [15% Off Dell Coupon Codes | July 2025](https://www.wired.com/story/dell-coupon-code/)
+**发布时间**: 2025-07-22 05:10
+
+#### [KitchenAid Promo Code: $140 Off in July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+**发布时间**: 2025-07-22 05:00
+
+#### [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
+**发布时间**: 2025-07-22 00:46
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+**发布时间**: 2025-07-22 00:19
 
 ---
 

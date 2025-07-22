@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-21 23:21
+**最后更新时间**: 2025-07-22 05:26
+
+---
+
+## 🆕 最新更新 (2025-07-22 05:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Buy these stocks as railroad-merger talk heats up, analyst says](https://www.marketwatch.com/story/buy-these-stocks-as-railroad-merger-talk-heats-up-analyst-says-233357b8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 02:36
+
+#### [15 stocks of companies set to grow sales twice as fast as the S&P 500 — analysts love them](https://www.marketwatch.com/story/15-stocks-of-companies-set-to-grow-sales-twice-as-fast-as-the-s-p-500-analysts-love-them-14b8fa2d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 00:54
+
+#### [Picking stocks is a losing bet, this market legend says. Here’s his winning strategy.](https://www.marketwatch.com/story/weve-developed-ways-of-beating-index-funds-this-investing-legend-tells-how-7534e3bf?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 00:38
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [This New England state is the best place to retire](https://www.marketwatch.com/bulletins/redirect/go?g=deca257a-0a09-4320-9dd5-8c9d1f76cf6f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 01:22
 
 ---
 
