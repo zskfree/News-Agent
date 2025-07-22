@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Jul 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2025 08:31:51 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 23:21:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>怪异却奏效的实验设计，AI：我寻思这样可行</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-8</link>
-      <description>&lt;![CDATA[怪异却奏效的实验设计，AI：我寻思这样可行]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-8</guid>
+      <title>Fighting forever chemicals and startup fatigue</title>
+      <link>https://www.technologyreview.com/2025/07/22/1117638/fighting-forever-chemicals-and-startup-fatigue/</link>
+      <description>&lt;![CDATA[Fighting forever chemicals and startup fatigue]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1117638/fighting-forever-chemicals-and-startup-fatigue/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>牛津团队推出百万级数据抗体-抗原模型，超大模型的上限到底在哪里？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-7</link>
-      <description>&lt;![CDATA[牛津团队推出百万级数据抗体-抗原模型，超大模型的上限到底在哪里？]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-7</guid>
+      <title>The Download: how to melt rocks, and what you need to know about AI</title>
+      <link>https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/</link>
+      <description>&lt;![CDATA[The Download: how to melt rocks, and what you need to know about AI]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>关于机器人数据，强化学习大佬Sergey Levine刚刚写了篇好文章</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-6</link>
-      <description>&lt;![CDATA[关于机器人数据，强化学习大佬Sergey Levine刚刚写了篇好文章]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-6</guid>
+      <title>This startup wants to use beams of energy to drill geothermal wells</title>
+      <link>https://www.technologyreview.com/2025/07/22/1120545/geothermal-drilling-quaise/</link>
+      <description>&lt;![CDATA[This startup wants to use beams of energy to drill geothermal wells]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1120545/geothermal-drilling-quaise/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>零一万物“超级员工”登场，企业级Agent迈入“价值交付”时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-9</link>
-      <description>&lt;![CDATA[零一万物“超级员工”登场，企业级Agent迈入“价值交付”时代]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-9</guid>
+      <title>Five things you need to know about AI right now</title>
+      <link>https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/</link>
+      <description>&lt;![CDATA[Five things you need to know about AI right now]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 09:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Kimi K2官方技术报告出炉：采用384个专家，训练不靠刷题靠“用自己的话再讲一遍”</title>
-      <link>https://www.qbitai.com/2025/07/311541.html</link>
-      <description>&lt;![CDATA[Kimi K2官方技术报告出炉：采用384个专家，训练不靠刷题靠“用自己的话再讲一遍”]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311541.html</guid>
+      <title>创智「小红书」震撼上线，让AI从效率工具进化为认知伙伴</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-22-11</link>
+      <description>&lt;![CDATA[创智「小红书」震撼上线，让AI从效率工具进化为认知伙伴]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>李开复入场Agent！直接对话CEO走独特“一把手工程打法”</title>
-      <link>https://www.qbitai.com/2025/07/311521.html</link>
-      <description>&lt;![CDATA[李开复入场Agent！直接对话CEO走独特“一把手工程打法”]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 06:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311521.html</guid>
+      <title>重塑注意力机制：GTA登场，KV缓存缩减70%、计算量削减62.5%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-22-10</link>
+      <description>&lt;![CDATA[重塑注意力机制：GTA登场，KV缓存缩减70%、计算量削减62.5%]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LSM-2: Learning from incomplete wearable sensor data</title>
+      <link>https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/</link>
+      <description>&lt;![CDATA[LSM-2: Learning from incomplete wearable sensor data]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>School of Architecture and Planning recognizes faculty with academic promotions in 2025</title>
+      <link>https://news.mit.edu/2025/school-architecture-planning-recognizes-faculty-academic-promotions-0722</link>
+      <description>&lt;![CDATA[School of Architecture and Planning recognizes faculty with academic promotions in 2025]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/school-architecture-planning-recognizes-faculty-academic-promotions-0722</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一年破千万美金，一款海外AI创意引擎爆发了</title>
+      <link>https://www.qbitai.com/2025/07/311587.html</link>
+      <description>&lt;![CDATA[一年破千万美金，一款海外AI创意引擎爆发了]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311587.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>机器人高层指挥低层做，“坐标系转移接口”一次演示实现泛化学习 | ICML2025</title>
+      <link>https://www.qbitai.com/2025/07/311570.html</link>
+      <description>&lt;![CDATA[机器人高层指挥低层做，“坐标系转移接口”一次演示实现泛化学习 | ICML2025]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311570.html</guid>
       <category>AI</category>
     </item>
   </channel>

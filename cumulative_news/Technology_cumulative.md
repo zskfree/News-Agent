@@ -1,7 +1,160 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-22 08:31
+**最后更新时间**: 2025-07-22 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-22 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】李强签署国务院令，公布《农村公路条例》；国务院国资委：中央企业要主动融入城市发展创新生态；市场监管总局暂停对杜邦中国集团有限公司的反垄断调查程序](https://www.tmtpost.com/7634608.html)
+**发布时间**: 2025-07-23 07:20
+
+#### [爱美客“收权”童颜针，*ST苏吴危机加重](https://www.tmtpost.com/7634625.html)
+**发布时间**: 2025-07-22 22:47
+
+#### [高位定增引股价大跌，华丰科技押注AI服务器有隐忧？](https://www.tmtpost.com/7634594.html)
+**发布时间**: 2025-07-22 21:30
+
+#### [“对讲机之王”6亿卖子求生：摩托罗拉诉讼绞杀下的海能达困局](https://www.tmtpost.com/7634510.html)
+**发布时间**: 2025-07-22 20:09
+
+#### [国内120+AI Agent开发/构建平台大盘点（上）：互联网、云计算、AI、传统软件厂商推出的智能体平台](https://www.tmtpost.com/7633857.html)
+**发布时间**: 2025-07-22 19:19
+
+#### [宗馥莉的“三重门”](https://www.tmtpost.com/7634029.html)
+**发布时间**: 2025-07-22 19:17
+
+#### [狠人宗馥莉，在下一盘大棋](https://www.tmtpost.com/7634233.html)
+**发布时间**: 2025-07-22 19:15
+
+#### [瑞士清洁科技公司Daphne Technology研发甲烷减排技术，减少燃气发动机的甲烷逃逸排放 | 瑞士创新100强](https://www.tmtpost.com/7634198.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [六座特斯拉，搅局国产新能源](https://www.tmtpost.com/7634381.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [2015-2025：中国AI医疗投资十年沉浮录](https://www.tmtpost.com/7633853.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [Manus“跑路”风波背后，AI Agent的商业化困局](https://www.tmtpost.com/7633963.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [即时零售的后手](https://www.tmtpost.com/7633747.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [科创第五套上市公司市值表现如何？解构标准重启隐含的价值导向](https://www.tmtpost.com/7633865.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [公募REITs二季度“成绩单”，能源类产品业绩冰火两重天](https://www.tmtpost.com/7634268.html)
+**发布时间**: 2025-07-22 19:00
+
+#### [恒坤新材：业绩存在波动，研发费用率远超同行｜IPO观察](https://www.tmtpost.com/7633812.html)
+**发布时间**: 2025-07-22 18:39
+
+#### [估值430亿，这家独角兽接手英伟达“看不上”的生意](https://www.tmtpost.com/7633880.html)
+**发布时间**: 2025-07-22 18:29
+
+#### [黄仁勋王坚对话，三个被忽略的关键信息](https://www.tmtpost.com/7634327.html)
+**发布时间**: 2025-07-22 18:29
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Escobar Phone scam saga has finally come to an end](https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal)
+**发布时间**: 2025-07-22 22:27
+
+#### [Rove’s R2-4K dash cam is an extra set of eyes on the road and $48 off at Amazon](https://www.theverge.com/tech/711754/rove-r2-4k-dash-cam-deal-sale)
+**发布时间**: 2025-07-22 20:46
+
+#### [Windows 11&#8217;s new update will add a bunch of AI features](https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch)
+**发布时间**: 2025-07-22 20:41
+
+#### [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
+**发布时间**: 2025-07-22 19:59
+
+#### [Why I love my little round Dell USB-C mobile adapter](https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites)
+**发布时间**: 2025-07-22 19:00
+
+#### [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)
+**发布时间**: 2025-07-22 18:45
+
+#### [Apple Intelligence tries summarizing news again after botching BBC stories](https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass)
+**发布时间**: 2025-07-22 18:32
+
+#### [Netflix and Apple are backing away from great games](https://www.theverge.com/analysis/711575/netflix-games-apple-arcade-mobile-games)
+**发布时间**: 2025-07-22 18:29
+
+#### [GoPro&#8217;s refreshed Max 360 action camera is down to an all-time low price](https://www.theverge.com/tech/711629/gopro-max-2025-twelve-south-hirise-3-deluxe-deal-sale)
+**发布时间**: 2025-07-22 18:22
+
+#### [Amazon buys Bee AI wearable that listens to everything you say](https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition)
+**发布时间**: 2025-07-22 17:50
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 47 Best Shows on Hulu Right Now (August 2025)](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+**发布时间**: 2025-07-22 19:00
+
+#### [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)
+**发布时间**: 2025-07-22 18:23
+
+#### [A Surprise Pokémon Game Just Dropped for Switch and Mobile](https://www.wired.com/story/a-surprise-pokemon-game-just-dropped-for-switch-and-mobile/)
+**发布时间**: 2025-07-22 15:59
+
+#### [Everything Is a ‘False Flag’ Now](https://www.wired.com/story/false-flag-conspiracy-theory-trump/)
+**发布时间**: 2025-07-22 15:18
+
+#### [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
+**发布时间**: 2025-07-22 13:03
+
+#### [14 Best USB Flash Drives (2025): Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+**发布时间**: 2025-07-22 12:00
+
+#### [Fiberglass-Free, Chemical-Free: Natural Fire Barriers for Mattresses](https://www.wired.com/story/mattress-fire-retardants-and-alternatives/)
+**发布时间**: 2025-07-22 11:41
+
+#### [X Data Center Fire in Oregon Started Inside Power Cabinet, Authorities Say](https://www.wired.com/story/x-data-center-fire-in-oregon-started-inside-power-cabinet-authorities-say/)
+**发布时间**: 2025-07-22 11:01
+
+#### [How to Spot and Guard Against Wrong Number Scams](https://www.wired.com/story/how-to-spot-and-guard-against-wrong-number-scams/)
+**发布时间**: 2025-07-22 11:00
+
+#### [OpenAI’s ChatGPT Agent Is Haunting My Browser](https://www.wired.com/story/browser-haunted-by-ai-agents/)
+**发布时间**: 2025-07-22 10:30
+
+#### [Did Tesla’s Robotaxi Launch Backfire?](https://www.wired.com/story/tesla-robotaxi-launch-survey-data/)
+**发布时间**: 2025-07-22 10:00
+
+#### [Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed](https://www.wired.com/story/newly-discovered-infinity-galaxy-could-prove-how-ancient-supermassive-black-holes-formed/)
+**发布时间**: 2025-07-22 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Altman 秀新模型“翻车”，谷歌补刀躺赢！OpenAI 前员工爆肝3天，编程再赢老东家模型！](https://www.infoq.cn/article/8zgs96PPKT3t0xPTj0Ft?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 18:38
+
+#### [AGICamp第004周AI应用榜单发布：算力自由GPU云平台、insight- AI健康分析搭子、小葵上榜](https://www.infoq.cn/article/WziuVySdycMh8JAAD6Ly?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 18:00
+
+#### [整个硅谷被Meta 1亿美刀年薪砸懵了！Anthropic 联创正面硬刚：团队使命比黄金贵，多少钱都挖不动](https://www.infoq.cn/article/R7TAuJhklaAIoajWaAxJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-22 17:16
+
+#### [大模型如何算出最优价格？电商定价策略的变革实践](https://xie.infoq.cn/article/9f8485da3d2ffeacf71a1f8ea?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-18 11:22
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [DeepSeek时刻再现？Kimi K2震惊海外技术圈](http://www.huxiu.com/article/4602490.html?f=wangzhan)
+**发布时间**: 2025-07-22 17:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 102 | 一周最热评、新玩意，以及派友们的「收纳黑洞」](https://sspai.com/post/101231)
+**发布时间**: 2025-07-22 17:00
+
+#### [\[限时优惠\] Limi Cam 更新：支持拍照监看模式，让 iPhone 拍照更好用](https://sspai.com/post/101087)
+**发布时间**: 2025-07-22 15:32
 
 ---
 

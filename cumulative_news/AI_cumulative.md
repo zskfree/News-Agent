@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-22 08:31
+**最后更新时间**: 2025-07-22 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-22 23:21)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Fighting forever chemicals and startup fatigue](https://www.technologyreview.com/2025/07/22/1117638/fighting-forever-chemicals-and-startup-fatigue/)
+**发布时间**: 2025-07-22 17:38
+
+#### [The Download: how to melt rocks, and what you need to know about AI](https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/)
+**发布时间**: 2025-07-22 12:10
+
+#### [This startup wants to use beams of energy to drill geothermal wells](https://www.technologyreview.com/2025/07/22/1120545/geothermal-drilling-quaise/)
+**发布时间**: 2025-07-22 11:00
+
+#### [Five things you need to know about AI right now](https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/)
+**发布时间**: 2025-07-22 09:50
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [创智「小红书」震撼上线，让AI从效率工具进化为认知伙伴](https://www.jiqizhixin.com/articles/2025-07-22-11)
+**发布时间**: 2025-07-22 17:26
+
+#### [重塑注意力机制：GTA登场，KV缓存缩减70%、计算量削减62.5%](https://www.jiqizhixin.com/articles/2025-07-22-10)
+**发布时间**: 2025-07-22 17:13
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [LSM-2: Learning from incomplete wearable sensor data](https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/)
+**发布时间**: 2025-07-22 16:42
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [School of Architecture and Planning recognizes faculty with academic promotions in 2025](https://news.mit.edu/2025/school-architecture-planning-recognizes-faculty-academic-promotions-0722)
+**发布时间**: 2025-07-22 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [一年破千万美金，一款海外AI创意引擎爆发了](https://www.qbitai.com/2025/07/311587.html)
+**发布时间**: 2025-07-22 09:45
+
+#### [机器人高层指挥低层做，“坐标系转移接口”一次演示实现泛化学习 | ICML2025](https://www.qbitai.com/2025/07/311570.html)
+**发布时间**: 2025-07-22 09:28
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Building a Plain Seq2Seq Model for Language Translation](https://machinelearningmastery.com/building-a-plain-seq2seq-model-for-language-translation/)
+**发布时间**: 2025-07-22 02:27
+
+#### [Synthetic Dataset Generation with Faker](https://machinelearningmastery.com/synthetic-dataset-generation-with-faker/)
+**发布时间**: 2025-07-21 14:08
+
+#### [From Linear Regression to XGBoost: A Side-by-Side Performance Comparison](https://machinelearningmastery.com/from-linear-regression-to-xgboost-a-side-by-side-performance-comparison/)
+**发布时间**: 2025-07-18 12:00
+
+#### [Feature Engineering with LLM Embeddings: Enhancing Scikit-learn Models](https://machinelearningmastery.com/feature-engineering-with-llm-embeddings-enhancing-scikit-learn-models/)
+**发布时间**: 2025-07-17 12:00
+
+#### [Revisiting k-Means: 3 Approaches to Make It Work Better](https://machinelearningmastery.com/revisiting-k-means-3-approaches-to-make-it-work-better/)
+**发布时间**: 2025-07-16 14:32
 
 ---
 

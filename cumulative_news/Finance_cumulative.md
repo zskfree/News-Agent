@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-22 08:31
+**最后更新时间**: 2025-07-22 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-22 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump Media’s stock gets a bitcoin bump, but investors still aren’t happy with the company’s crypto plans](https://www.marketwatch.com/story/trump-medias-stock-gets-a-bitcoin-bump-as-truth-social-parent-is-now-a-2-billion-player-9fe63b9b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 22:36
+
+#### [‘If I was writing the checks at Coke, I wouldn’t write the check for this,’ one expert says about cane-sugar Coke](https://www.marketwatch.com/story/if-i-was-writing-the-checks-at-coke-i-wouldnt-write-the-check-for-this-one-expert-says-about-cane-sugar-coke-a2385ba6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 22:09
+
+#### [Kohl’s stock soars and Opendoor sees massive volume as meme-stock ‘mini-bubble’ forms](https://www.marketwatch.com/story/kohls-stock-soars-and-opendoor-sees-massive-volume-as-meme-stock-mini-bubble-forms-06a46743?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 21:45
+
+#### [Enphase Energy just cast more doubt about its immediate future](https://www.marketwatch.com/story/enphase-energy-just-cast-more-doubt-about-its-immediate-future-671b6949?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 21:37
+
+#### [As Oracle’s stock falls in the wake of Stargate developments, here’s one big question for investors](https://www.marketwatch.com/story/as-oracles-stock-falls-in-the-wake-of-stargate-developments-heres-one-big-question-for-investors-42f4f3cd?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 21:30
+
+#### [Drinking alcohol more than three times a week can endanger your finances](https://www.marketwatch.com/story/drinking-can-hit-your-wallet-as-hard-as-your-health-2761f3b1?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 20:54
+
+#### [Benchmark small-cap index is approaching its first ‘golden cross’ in 18 months. Here’s what history shows will come next.](https://www.marketwatch.com/story/the-small-cap-benchmark-index-is-approaching-its-first-golden-cross-in-18-months-heres-what-history-shows-will-come-next-3b2e037f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 20:51
+
+#### [Stocks look expensive relative to bonds as S&P 500 scores new record high](https://www.marketwatch.com/story/stocks-look-expensive-relative-to-bonds-as-s-p-500-attempts-new-record-high-d4e20864?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 20:23
+
+#### [American ‘exceptionalism’ isn’t dead: Foreign investors flooded into U.S. markets in May, despite Trump’s tariff threats](https://www.marketwatch.com/story/foreign-investors-flooded-into-u-s-markets-during-may-despite-trumps-tariff-threats-48c0239e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 20:05
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Coke will pit two versions of its key product against each other. Is that wise?](https://www.marketwatch.com/bulletins/redirect/go?g=d4322f50-163a-4048-9c55-ae1b5a4cc6d0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 22:24
+
+#### [Benchmark small-cap index is approaching its first ‘golden cross’ in 18 months](https://www.marketwatch.com/bulletins/redirect/go?g=41cdcb3a-83aa-4701-b9df-e0808c8e9f10&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 22:13
+
+#### [Kohl’s soars and Opendoor sees massive volume as meme-stock ‘mini-bubble’ forms](https://www.marketwatch.com/bulletins/redirect/go?g=b365cc98-6630-4b11-ae2b-7e2299bcb9cc&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 21:47
+
+#### [As Oracle’s stock falls after Stargate news, here’s a big question for investors](https://www.marketwatch.com/bulletins/redirect/go?g=324dc59e-236a-4cd8-81b9-6ff7455a3cf2&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 21:28
+
+#### [Retail traders just can’t quit these risky options, as trading volume booms](https://www.marketwatch.com/bulletins/redirect/go?g=7435be43-61d2-4767-913a-91c6b6cafe26&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 20:48
+
+#### [S&P ends at fresh record high, Nasdaq falls as Big Tech earnings approach](https://www.marketwatch.com/bulletins/redirect/go?g=c15bb488-ad6d-4237-87f4-2e3e29664231&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 20:02
+
+#### [How Bessent is trying to get Trump ‘what he wants’ at Fed without market turmoil](https://www.marketwatch.com/bulletins/redirect/go?g=1fb6c5ea-b8f1-440c-b127-0b9ec4d4b894&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 19:19
+
+#### [Dow and S&P 500 rising, Nasdaq lags as stocks gain steam into final hour — live](https://www.marketwatch.com/bulletins/redirect/go?g=f6ccfd00-395c-4a7f-b366-82f476a5b454&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 19:01
+
+#### ['American exceptionalism’ isn’t dead, foreign investor flows into U.S. show](https://www.marketwatch.com/bulletins/redirect/go?g=58dcc4dc-a8fa-4b58-9241-afd83a26382f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 18:32
+
+#### [Here’s who is bearing the cost of Trump’s tariffs so far this year](https://www.marketwatch.com/bulletins/redirect/go?g=05e2bd39-0c12-4649-a595-4bcdd60fdd67&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-22 17:01
 
 ---
 
