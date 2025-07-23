@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-23 08:31
+**最后更新时间**: 2025-07-23 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-23 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [‘I’m already up $45,000 in about an hour’ — meme-stock mania has returned](https://www.marketwatch.com/bulletins/redirect/go?g=2d661073-6128-4066-b4d5-6fe32b0a66d6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 22:50
+
+#### [Why consumers should be paying attention to the Trump-Powell fight](https://www.marketwatch.com/bulletins/redirect/go?g=a5fa0133-b8d9-4620-8a10-f7ed5f87afe5&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 22:06
+
+#### [Tesla's stock falls after EV maker puts a number on tariff costs](https://www.marketwatch.com/bulletins/redirect/go?g=075288d1-6c52-4959-9e49-91037e817d14&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 22:04
+
+#### [Why is IBM’s stock down after an earnings beat? Here’s one quibble.](https://www.marketwatch.com/bulletins/redirect/go?g=92d2dcbd-5d7e-43b8-b588-eb161b654af6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 21:18
+
+#### [Here's what the postearnings, after-hours whipsaw in Tesla's stock looks like](https://www.marketwatch.com/bulletins/redirect/go?g=bb231972-34bf-43f2-9f2d-68dd3c252b28&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 20:58
+
+#### [Alphabet boosts 2025 capex plans by $10B — to $85B — as AI era rolls on](https://www.marketwatch.com/bulletins/redirect/go?g=96f6387b-b1f0-4e9f-8b0d-a3271d0ff1f1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 20:47
+
+#### [Tesla shares reverse lower despite earnings meeting Wall Street’s expectations](https://www.marketwatch.com/bulletins/redirect/go?g=d1ad366d-1028-4253-9dff-949b88c0b6e7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 20:19
+
+#### [Alphabet's stock falls as earnings beat fails to impress — follow live coverage](https://www.marketwatch.com/bulletins/redirect/go?g=d94dd209-9924-4142-bcc0-77cabf0d38f7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 20:10
+
+#### [Dow regains 45,000, ends just shy of record ahead of Tesla, Alphabet earnings](https://www.marketwatch.com/bulletins/redirect/go?g=d72f270f-4d49-4e8d-9caf-4d9a9d7775a9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 20:04
+
+#### [Dow near all-time high as stocks rise after U.S.-Japan trade deal  — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=2ea75673-87c9-4206-8769-39a728c3e072&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 19:22
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m already up $45,000 in about an hour’ — Reddit traders boast about wins as meme-stock mania returns](https://www.marketwatch.com/story/im-already-up-45-000-in-about-an-hour-reddit-traders-boast-about-wins-as-meme-stock-mania-returns-18c2829a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 22:48
+
+#### [Trump’s AI action plan: Why it ‘answers a call’ in one area and falls short in another](https://www.marketwatch.com/story/trumps-ai-action-plan-why-it-answers-a-call-in-one-area-and-falls-short-in-another-99915cbe?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 22:26
+
+#### [He’s seen enough bull markets to be worried now. But this veteran investor still likes these tech stocks.](https://www.marketwatch.com/story/a-tariff-fueled-market-correction-worries-this-veteran-strategist-but-he-still-likes-these-big-tech-and-ai-stocks-722ed24f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 21:32
+
+#### [Why gold may be in a new paradigm as the yellow metal soars in 2025](https://www.marketwatch.com/story/why-gold-may-be-in-a-new-paradigm-as-the-yellow-metal-soars-in-2025-fce24bb8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 21:31
+
+#### [This hard-hit emerging market could rebound if Trump’s tariffs are found to be illegal](https://www.marketwatch.com/story/brazils-trade-dependent-stock-market-could-soar-if-trumps-tariffs-are-found-to-be-illegal-999e455c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 21:30
+
+#### [Chipotle says that consumer confidence took a hit in Q2. The stock is sliding.](https://www.marketwatch.com/story/chipotles-stock-slides-weighed-down-by-weak-outlook-996ad4d8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 21:29
+
+#### [Social Security agrees to customer-service audit after Elizabeth Warren meets with commissioner](https://www.marketwatch.com/story/social-security-agency-agrees-to-customer-service-audit-after-elizabeth-warren-meets-with-commissioner-c482ddba?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 21:16
+
+#### [Why is IBM’s stock down after an earnings beat? Here’s one quibble.](https://www.marketwatch.com/story/why-is-ibms-stock-down-after-an-earnings-beat-heres-one-quibble-f8aebf74?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 21:10
+
+#### [ServiceNow CEO warns of ‘extinction’ for some legacy software as stock pops on earnings](https://www.marketwatch.com/story/servicenow-ceo-warns-of-extinction-for-some-legacy-software-as-stock-pops-on-earnings-f8380a23?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 20:31
 
 ---
 

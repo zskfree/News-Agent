@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-23 08:31
+**最后更新时间**: 2025-07-23 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-23 23:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [用户暴涨近300万，国产AI音乐神器Mureka重磅升级V7，我们拿它复刻了「印度神曲」](https://www.jiqizhixin.com/articles/2025-07-23-10)
+**发布时间**: 2025-07-23 17:43
+
+#### [新的CodeBuddy IDE测了，我们感受到腾讯搞定创意人士的野心](https://www.jiqizhixin.com/articles/2025-07-23-9)
+**发布时间**: 2025-07-23 17:31
+
+#### [夸克健康大模型万字调研报告流出：国内首个！透视主任医师级「AI大脑」背后的深度工程化](https://www.jiqizhixin.com/articles/2025-07-23-8)
+**发布时间**: 2025-07-23 17:23
+
+#### [无线合成数据助力破解物理感知大模型数据瓶颈，SynCheck获顶会最佳论文奖](https://www.jiqizhixin.com/articles/2025-07-23-7)
+**发布时间**: 2025-07-23 17:17
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Google DeepMind’s new AI can help historians understand ancient Latin inscriptions](https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/)
+**发布时间**: 2025-07-23 15:00
+
+#### [The Download: what’s next for AI agents, and how Trump protects US tech companies overseas](https://www.technologyreview.com/2025/07/23/1120571/the-download-whats-next-for-ai-agents-and-how-trump-protects-us-tech-companies-overseas/)
+**发布时间**: 2025-07-23 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI搜索一夜变天，专为Agent做搜索的赛道能否诞生百亿美金新巨头？](https://www.qbitai.com/2025/07/312027.html)
+**发布时间**: 2025-07-23 09:42
+
+#### [马斯克首家快餐店开业！擎天柱当服务员，生意火爆营收超麦当劳](https://www.qbitai.com/2025/07/311876.html)
+**发布时间**: 2025-07-23 09:22
+
+#### [国内首个通过主任医师评测的大模型，已在夸克AI搜索上线](https://www.qbitai.com/2025/07/311863.html)
+**发布时间**: 2025-07-23 08:08
 
 ---
 

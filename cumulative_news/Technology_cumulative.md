@@ -1,7 +1,171 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-23 08:31
+**最后更新时间**: 2025-07-23 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-23 23:22)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Undeterred by limits, Elon Musk plots a big robotaxi expansion](https://www.theverge.com/tesla/712703/tesla-robotaxi-fsd-elon-musk-earnings-q2-2025)
+**发布时间**: 2025-07-23 22:29
+
+#### [Google leaks its full Pixel 10 lineup](https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store)
+**发布时间**: 2025-07-23 21:46
+
+#### [Amazon&#8217;s Fire TV Omni QLED Series is back down to its Prime Day low](https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale)
+**发布时间**: 2025-07-23 20:51
+
+#### [Google’s CEO says ‘AI is positively impacting every part of the business’](https://www.theverge.com/news/712638/alphabet-google-earnings-q2-2025-ceo-sundar-pichai-ai)
+**发布时间**: 2025-07-23 20:34
+
+#### [Tesla’s earnings hit a new low, with largest revenue drop in years](https://www.theverge.com/news/712256/tesla-earnings-q2-2025-revenue-profit-elon-musk)
+**发布时间**: 2025-07-23 20:20
+
+#### [How Trump&#8217;s war on clean energy is making AI a bigger polluter](https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions)
+**发布时间**: 2025-07-23 18:40
+
+#### [Starlink-powered &#8216;T-Satellite&#8217; service is now live on T-Mobile](https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile)
+**发布时间**: 2025-07-23 17:56
+
+#### [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)
+**发布时间**: 2025-07-23 17:46
+
+#### [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
+**发布时间**: 2025-07-23 17:44
+
+#### [Instagram changes its algorithm after being accused of steering predators to children](https://www.theverge.com/news/712518/meta-instagram-algorithm-recommendations-update-child-predators)
+**发布时间**: 2025-07-23 17:32
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)
+**发布时间**: 2025-07-23 22:11
+
+#### [Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage](https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/)
+**发布时间**: 2025-07-23 21:59
+
+#### [A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED’s Day at the Tesla Diner](https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/)
+**发布时间**: 2025-07-23 21:00
+
+#### [Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices](https://www.wired.com/story/photos-bedding-childrens-play-sets-doge-old-offices/)
+**发布时间**: 2025-07-23 17:17
+
+#### [The GOP's Message for Tech Billionaires: Be Like Peter Thiel](https://www.wired.com/story/peter-thiel-silicon-valley-billionaires-dc/)
+**发布时间**: 2025-07-23 15:00
+
+#### [Trump’s AI Action Plan Is a Crusade Against ‘Bias’—and Regulation](https://www.wired.com/story/trumps-ai-action-plan-crusade-against-bias-regulation/)
+**发布时间**: 2025-07-23 14:52
+
+#### [Super Pocket Neo Geo Edition Review: Pocketable Fun](https://www.wired.com/review/super-pocket-neo-geo-edition/)
+**发布时间**: 2025-07-23 13:00
+
+#### [Best Indoor Garden Systems (2025), Tested and Reviewed](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+**发布时间**: 2025-07-23 12:00
+
+#### [A New Era for WIRED—That Starts With You](https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/)
+**发布时间**: 2025-07-23 11:00
+
+#### [The Great Crypto Re-Banking Has Begun](https://www.wired.com/story/the-great-crypto-re-banking-has-begun/)
+**发布时间**: 2025-07-23 10:18
+
+#### [It Looks Like the Tesla Model Y Refresh Has Bombed](https://www.wired.com/story/it-looks-like-the-tesla-model-y-refresh-has-bombed/)
+**发布时间**: 2025-07-23 10:00
+
+#### [Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule](https://www.wired.com/story/silicon-valley-china-996-work-schedule/)
+**发布时间**: 2025-07-23 09:30
+
+#### [South Korea Plans to Build a Base on the Moon](https://www.wired.com/story/south-korea-wants-to-build-a-space-base-on-the-moon-within-20-years/)
+**发布时间**: 2025-07-23 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI与YouTube，中国企业品牌出海的两张牌](https://www.tmtpost.com/7635694.html)
+**发布时间**: 2025-07-23 20:30
+
+#### [金智科技复牌急跌：县域国资+私募的接盘局与控股股东的十年减持路](https://www.tmtpost.com/7635621.html)
+**发布时间**: 2025-07-23 19:22
+
+#### [傍上特朗普家族，孙宇晨波场上市，美国SEC开了绿灯？](https://www.tmtpost.com/7635626.html)
+**发布时间**: 2025-07-23 19:11
+
+#### [2025稳定币中场战事：特朗普、华尔街、国家队，谁在盘里、桌上？](https://www.tmtpost.com/7634956.html)
+**发布时间**: 2025-07-23 19:08
+
+#### [京东方败诉，苹果最受伤](https://www.tmtpost.com/7634252.html)
+**发布时间**: 2025-07-23 19:07
+
+#### [40°C成了照妖镜，盘点新能源车“反人类”的六大设计](https://www.tmtpost.com/7635634.html)
+**发布时间**: 2025-07-23 19:02
+
+#### [拉开帷幕，IL-25赌局](https://www.tmtpost.com/7635136.html)
+**发布时间**: 2025-07-23 18:46
+
+#### [县城手机店，消失于街头](https://www.tmtpost.com/7635280.html)
+**发布时间**: 2025-07-23 18:46
+
+#### [140亿，山东985收获一个超级IPO](https://www.tmtpost.com/7635356.html)
+**发布时间**: 2025-07-23 18:46
+
+#### [苏超之后，足协要去指导电竞](https://www.tmtpost.com/7635570.html)
+**发布时间**: 2025-07-23 18:46
+
+#### [中国人寿“鸿鹄实验”](https://www.tmtpost.com/7635475.html)
+**发布时间**: 2025-07-23 18:46
+
+#### [母婴赛道“爱马仕”频出，不同集团还能走多远？](https://www.tmtpost.com/7635478.html)
+**发布时间**: 2025-07-23 18:46
+
+#### [杨植麟的反击](https://www.tmtpost.com/7635479.html)
+**发布时间**: 2025-07-23 18:45
+
+#### [爱康国宾捅了“马蜂窝”](https://www.tmtpost.com/7635588.html)
+**发布时间**: 2025-07-23 18:45
+
+#### [让夕阳行业成为新一代“千店样本”，星聚会KTV做对了什么？](https://www.tmtpost.com/7633866.html)
+**发布时间**: 2025-07-23 18:21
+
+#### [ST西发拟全控拉萨啤酒：或与嘉士伯化干戈为玉帛，重整有望加速推进？](https://www.tmtpost.com/7635514.html)
+**发布时间**: 2025-07-23 18:18
+
+#### [China's CAS COLD ATOM Secures Funding to Advance Atomic Quantum Computing](https://www.tmtpost.com/7635501.html)
+**发布时间**: 2025-07-23 16:49
+
+#### [如何告别一台死去的iPhone](https://www.tmtpost.com/7635106.html)
+**发布时间**: 2025-07-23 16:37
+
+#### [大企业最大的敌人不是别人](https://www.tmtpost.com/7635173.html)
+**发布时间**: 2025-07-23 16:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [以计算加速迈进智能化未来](https://www.infoq.cn/minibook/D1MeivK6Nf6Am0Y0YQ9r?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-23 19:34
+
+#### [国内首个通过主任医师评测的大模型，已在夸克AI搜索上线](https://www.infoq.cn/article/FyWZ6Oj3M0HhSb9ZXVE7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-23 17:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [濑户内海之夏：远山淡影，爱的呼唤](https://sspai.com/post/100669)
+**发布时间**: 2025-07-23 17:22
+
+#### [如何在 Notion 中搭建自动化项目管理系统](https://sspai.com/prime/story/automatic-project-management-in-notion)
+**发布时间**: 2025-07-23 15:46
+
+#### [看什么 Café | 从小说文本到镜头语言，走进黑色电影的开山之作](https://sspai.com/post/101204)
+**发布时间**: 2025-07-23 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [汪峰299元音乐课，为什么卖不动？](http://www.huxiu.com/article/4609431.html?f=wangzhan)
+**发布时间**: 2025-07-23 16:16
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Manus 以技术回应「撤离中国市场」；李想：理想现金储备 1107 亿；下架大量成人游戏，Steam：支付组织要求](http://www.geekpark.net/news/351696)
+**发布时间**: 2025-07-20 08:20
 
 ---
 

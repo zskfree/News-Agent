@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 23 Jul 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Jul 2025 08:31:58 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 23:23:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>搜索新范式！AI Search Paradigm重新定义复杂信息需求的智能搜索范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-6</link>
-      <description>&lt;![CDATA[搜索新范式！AI Search Paradigm重新定义复杂信息需求的智能搜索范式]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-6</guid>
+      <title>用户暴涨近300万，国产AI音乐神器Mureka重磅升级V7，我们拿它复刻了「印度神曲」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-10</link>
+      <description>&lt;![CDATA[用户暴涨近300万，国产AI音乐神器Mureka重磅升级V7，我们拿它复刻了「印度神曲」]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>我把AI当辅助，AI删我数据库</title>
-      <link>https://www.qbitai.com/2025/07/311840.html</link>
-      <description>&lt;![CDATA[我把AI当辅助，AI删我数据库]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 07:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311840.html</guid>
+      <title>新的CodeBuddy IDE测了，我们感受到腾讯搞定创意人士的野心</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-9</link>
+      <description>&lt;![CDATA[新的CodeBuddy IDE测了，我们感受到腾讯搞定创意人士的野心]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>机器人需求驱动导航新SOTA，成功率提升15%！浙大&amp;vivo联手打造</title>
-      <link>https://www.qbitai.com/2025/07/311811.html</link>
-      <description>&lt;![CDATA[机器人需求驱动导航新SOTA，成功率提升15%！浙大&amp;vivo联手打造]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 07:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311811.html</guid>
+      <title>夸克健康大模型万字调研报告流出：国内首个！透视主任医师级「AI大脑」背后的深度工程化</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-8</link>
+      <description>&lt;![CDATA[夸克健康大模型万字调研报告流出：国内首个！透视主任医师级「AI大脑」背后的深度工程化]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达GPU被曝严重漏洞，致模型准确率暴跌99.9%</title>
-      <link>https://www.qbitai.com/2025/07/311799.html</link>
-      <description>&lt;![CDATA[英伟达GPU被曝严重漏洞，致模型准确率暴跌99.9%]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 07:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311799.html</guid>
+      <title>无线合成数据助力破解物理感知大模型数据瓶颈，SynCheck获顶会最佳论文奖</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-7</link>
+      <description>&lt;![CDATA[无线合成数据助力破解物理感知大模型数据瓶颈，SynCheck获顶会最佳论文奖]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 17:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克xAI挖走何宜晖：英伟达顶级工程师，西安交大校友</title>
-      <link>https://www.qbitai.com/2025/07/311754.html</link>
-      <description>&lt;![CDATA[马斯克xAI挖走何宜晖：英伟达顶级工程师，西安交大校友]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 07:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311754.html</guid>
+      <title>Google DeepMind’s new AI can help historians understand ancient Latin inscriptions</title>
+      <link>https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/</link>
+      <description>&lt;![CDATA[Google DeepMind’s new AI can help historians understand ancient Latin inscriptions]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>3D生成补上物理短板！首个系统性标注物理3D数据集上线，还有一个端到端框架</title>
-      <link>https://www.qbitai.com/2025/07/311763.html</link>
-      <description>&lt;![CDATA[3D生成补上物理短板！首个系统性标注物理3D数据集上线，还有一个端到端框架]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311763.html</guid>
+      <title>The Download: what’s next for AI agents, and how Trump protects US tech companies overseas</title>
+      <link>https://www.technologyreview.com/2025/07/23/1120571/the-download-whats-next-for-ai-agents-and-how-trump-protects-us-tech-companies-overseas/</link>
+      <description>&lt;![CDATA[The Download: what’s next for AI agents, and how Trump protects US tech companies overseas]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/23/1120571/the-download-whats-next-for-ai-agents-and-how-trump-protects-us-tech-companies-overseas/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI搜索一夜变天，专为Agent做搜索的赛道能否诞生百亿美金新巨头？</title>
+      <link>https://www.qbitai.com/2025/07/312027.html</link>
+      <description>&lt;![CDATA[AI搜索一夜变天，专为Agent做搜索的赛道能否诞生百亿美金新巨头？]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 09:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312027.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克首家快餐店开业！擎天柱当服务员，生意火爆营收超麦当劳</title>
+      <link>https://www.qbitai.com/2025/07/311876.html</link>
+      <description>&lt;![CDATA[马斯克首家快餐店开业！擎天柱当服务员，生意火爆营收超麦当劳]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311876.html</guid>
       <category>AI</category>
     </item>
   </channel>
