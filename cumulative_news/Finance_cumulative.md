@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-23 05:28
+**最后更新时间**: 2025-07-23 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-23 08:31)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hess and a U.K. nuclear plant show what $50 billion gets in the energy market](https://www.marketwatch.com/story/hess-and-a-u-k-nuclear-plant-show-what-50-billion-gets-in-the-energy-market-781a021c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 07:05
 
 ---
 

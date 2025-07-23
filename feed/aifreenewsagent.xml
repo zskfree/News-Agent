@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 23 Jul 2025 05:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Jul 2025 05:29:59 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 08:31:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI星际之门要建5GW数据中心，马斯克祭出AI基建5年计划</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-2</link>
-      <description>&lt;![CDATA[刚刚，OpenAI星际之门要建5GW数据中心，马斯克祭出AI基建5年计划]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-2</guid>
+      <title>搜索新范式！AI Search Paradigm重新定义复杂信息需求的智能搜索范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-6</link>
+      <description>&lt;![CDATA[搜索新范式！AI Search Paradigm重新定义复杂信息需求的智能搜索范式]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Nature丨多国团队开发的综合疾病图谱实现95轮千亿级像素数据分析，揭示肾脏疾病蛋白质空间分布与疾病机制</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-4</link>
-      <description>&lt;![CDATA[Nature丨多国团队开发的综合疾病图谱实现95轮千亿级像素数据分析，揭示肾脏疾病蛋白质空间分布与疾病机制]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-4</guid>
+      <title>我把AI当辅助，AI删我数据库</title>
+      <link>https://www.qbitai.com/2025/07/311840.html</link>
+      <description>&lt;![CDATA[我把AI当辅助，AI删我数据库]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 07:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311840.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report</title>
-      <link>https://arxiv.org/abs/2507.16534</link>
-      <description>&lt;![CDATA[Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.16534</guid>
+      <title>机器人需求驱动导航新SOTA，成功率提升15%！浙大&amp;vivo联手打造</title>
+      <link>https://www.qbitai.com/2025/07/311811.html</link>
+      <description>&lt;![CDATA[机器人需求驱动导航新SOTA，成功率提升15%！浙大&amp;vivo联手打造]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 07:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311811.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry</title>
-      <link>https://arxiv.org/abs/2507.16280</link>
-      <description>&lt;![CDATA[ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.16280</guid>
+      <title>英伟达GPU被曝严重漏洞，致模型准确率暴跌99.9%</title>
+      <link>https://www.qbitai.com/2025/07/311799.html</link>
+      <description>&lt;![CDATA[英伟达GPU被曝严重漏洞，致模型准确率暴跌99.9%]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311799.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>再次拔高上限！夸克健康大模型通过12门主任医师考试</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-5</link>
-      <description>&lt;![CDATA[再次拔高上限！夸克健康大模型通过12门主任医师考试]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-5</guid>
+      <title>马斯克xAI挖走何宜晖：英伟达顶级工程师，西安交大校友</title>
+      <link>https://www.qbitai.com/2025/07/311754.html</link>
+      <description>&lt;![CDATA[马斯克xAI挖走何宜晖：英伟达顶级工程师，西安交大校友]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311754.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开源Qwen凌晨暴击闭源Claude！刷新AI编程SOTA，支持1M上下文</title>
-      <link>https://www.qbitai.com/2025/07/311711.html</link>
-      <description>&lt;![CDATA[开源Qwen凌晨暴击闭源Claude！刷新AI编程SOTA，支持1M上下文]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 00:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311711.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICML2025｜清华医工平台提出大模型「全周期」医学能力评测框架MultiCogEval</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23</link>
-      <description>&lt;![CDATA[ICML2025｜清华医工平台提出大模型「全周期」医学能力评测框架MultiCogEval]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization</title>
-      <link>https://arxiv.org/abs/2507.16110</link>
-      <description>&lt;![CDATA[Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.16110</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting</title>
-      <link>https://arxiv.org/abs/2507.16145</link>
-      <description>&lt;![CDATA[SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.16145</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens</title>
-      <link>https://arxiv.org/abs/2507.16322</link>
-      <description>&lt;![CDATA[Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.16322</guid>
+      <title>3D生成补上物理短板！首个系统性标注物理3D数据集上线，还有一个端到端框架</title>
+      <link>https://www.qbitai.com/2025/07/311763.html</link>
+      <description>&lt;![CDATA[3D生成补上物理短板！首个系统性标注物理3D数据集上线，还有一个端到端框架]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311763.html</guid>
       <category>AI</category>
     </item>
   </channel>
