@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2025 23:21:52 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 05:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 05:29:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Fighting forever chemicals and startup fatigue</title>
-      <link>https://www.technologyreview.com/2025/07/22/1117638/fighting-forever-chemicals-and-startup-fatigue/</link>
-      <description>&lt;![CDATA[Fighting forever chemicals and startup fatigue]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1117638/fighting-forever-chemicals-and-startup-fatigue/</guid>
+      <title>刚刚，OpenAI星际之门要建5GW数据中心，马斯克祭出AI基建5年计划</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-2</link>
+      <description>&lt;![CDATA[刚刚，OpenAI星际之门要建5GW数据中心，马斯克祭出AI基建5年计划]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: how to melt rocks, and what you need to know about AI</title>
-      <link>https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/</link>
-      <description>&lt;![CDATA[The Download: how to melt rocks, and what you need to know about AI]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/</guid>
+      <title>Nature丨多国团队开发的综合疾病图谱实现95轮千亿级像素数据分析，揭示肾脏疾病蛋白质空间分布与疾病机制</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-4</link>
+      <description>&lt;![CDATA[Nature丨多国团队开发的综合疾病图谱实现95轮千亿级像素数据分析，揭示肾脏疾病蛋白质空间分布与疾病机制]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>This startup wants to use beams of energy to drill geothermal wells</title>
-      <link>https://www.technologyreview.com/2025/07/22/1120545/geothermal-drilling-quaise/</link>
-      <description>&lt;![CDATA[This startup wants to use beams of energy to drill geothermal wells]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1120545/geothermal-drilling-quaise/</guid>
+      <title>Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report</title>
+      <link>https://arxiv.org/abs/2507.16534</link>
+      <description>&lt;![CDATA[Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.16534</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Five things you need to know about AI right now</title>
-      <link>https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/</link>
-      <description>&lt;![CDATA[Five things you need to know about AI right now]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/</guid>
+      <title>ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry</title>
+      <link>https://arxiv.org/abs/2507.16280</link>
+      <description>&lt;![CDATA[ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.16280</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>创智「小红书」震撼上线，让AI从效率工具进化为认知伙伴</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-11</link>
-      <description>&lt;![CDATA[创智「小红书」震撼上线，让AI从效率工具进化为认知伙伴]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-11</guid>
+      <title>再次拔高上限！夸克健康大模型通过12门主任医师考试</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23-5</link>
+      <description>&lt;![CDATA[再次拔高上限！夸克健康大模型通过12门主任医师考试]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>重塑注意力机制：GTA登场，KV缓存缩减70%、计算量削减62.5%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-22-10</link>
-      <description>&lt;![CDATA[重塑注意力机制：GTA登场，KV缓存缩减70%、计算量削减62.5%]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-22-10</guid>
+      <title>开源Qwen凌晨暴击闭源Claude！刷新AI编程SOTA，支持1M上下文</title>
+      <link>https://www.qbitai.com/2025/07/311711.html</link>
+      <description>&lt;![CDATA[开源Qwen凌晨暴击闭源Claude！刷新AI编程SOTA，支持1M上下文]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 00:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311711.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LSM-2: Learning from incomplete wearable sensor data</title>
-      <link>https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/</link>
-      <description>&lt;![CDATA[LSM-2: Learning from incomplete wearable sensor data]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/</guid>
+      <title>ICML2025｜清华医工平台提出大模型「全周期」医学能力评测框架MultiCogEval</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-23</link>
+      <description>&lt;![CDATA[ICML2025｜清华医工平台提出大模型「全周期」医学能力评测框架MultiCogEval]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>School of Architecture and Planning recognizes faculty with academic promotions in 2025</title>
-      <link>https://news.mit.edu/2025/school-architecture-planning-recognizes-faculty-academic-promotions-0722</link>
-      <description>&lt;![CDATA[School of Architecture and Planning recognizes faculty with academic promotions in 2025]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/school-architecture-planning-recognizes-faculty-academic-promotions-0722</guid>
+      <title>Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization</title>
+      <link>https://arxiv.org/abs/2507.16110</link>
+      <description>&lt;![CDATA[Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.16110</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一年破千万美金，一款海外AI创意引擎爆发了</title>
-      <link>https://www.qbitai.com/2025/07/311587.html</link>
-      <description>&lt;![CDATA[一年破千万美金，一款海外AI创意引擎爆发了]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311587.html</guid>
+      <title>SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting</title>
+      <link>https://arxiv.org/abs/2507.16145</link>
+      <description>&lt;![CDATA[SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.16145</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>机器人高层指挥低层做，“坐标系转移接口”一次演示实现泛化学习 | ICML2025</title>
-      <link>https://www.qbitai.com/2025/07/311570.html</link>
-      <description>&lt;![CDATA[机器人高层指挥低层做，“坐标系转移接口”一次演示实现泛化学习 | ICML2025]]&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 09:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311570.html</guid>
+      <title>Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens</title>
+      <link>https://arxiv.org/abs/2507.16322</link>
+      <description>&lt;![CDATA[Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens]]&gt;</description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.16322</guid>
       <category>AI</category>
     </item>
   </channel>

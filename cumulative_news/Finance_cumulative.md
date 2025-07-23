@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-22 23:21
+**最后更新时间**: 2025-07-23 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-23 05:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why is Texas Instruments’ stock sliding after earnings? Analysts boil it down to one word.](https://www.marketwatch.com/story/why-is-texas-instruments-stock-sliding-after-earnings-analysts-boil-it-down-to-one-word-57e8617a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 02:48
+
+#### [Philip Morris says black-market cigarettes are a big deal, as sales miss and stock falls](https://www.marketwatch.com/story/philip-morris-says-black-market-cigarettes-are-a-big-deal-as-sales-miss-and-stock-falls-1910f82c?mod=mw_rss_topstories)
+**发布时间**: 2025-07-23 00:56
+
+#### [‘The selling agent is long dead’: My $250,000 term life-insurance policy costs $2,000 a month. I’m 80. Is it time to ditch it?](https://www.marketwatch.com/story/the-selling-agent-is-long-dead-my-250-000-term-life-insurance-policy-costs-2-000-a-month-im-80-is-it-time-to-ditch-it-681e4df6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-22 23:53
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Coke will pit two versions of its key product against each other. Is that wise?](https://www.marketwatch.com/bulletins/redirect/go?g=7abd879f-d81f-410a-b509-7a9caa09dda0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 01:02
 
 ---
 
