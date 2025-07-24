@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-23 23:22
+**最后更新时间**: 2025-07-24 05:27
+
+---
+
+## 🆕 最新更新 (2025-07-24 05:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [3 ways to help your child retire with $1 million — or more](https://www.marketwatch.com/story/3-ways-to-help-your-child-retire-with-1-million-or-more-ad188093?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 01:20
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [3 ways to help your child retire with $1 million — or more](https://www.marketwatch.com/bulletins/redirect/go?g=c25ac3e1-a51e-493b-a4aa-b2ccb97908c5&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 01:01
+
+#### ['A new paradigm': Why gold has been 'a regular outperformer' in recent years](https://www.marketwatch.com/bulletins/redirect/go?g=debd8961-99a4-4fc5-a858-97ab1140d641&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-23 23:50
 
 ---
 

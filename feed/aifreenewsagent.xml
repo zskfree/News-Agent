@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 23 Jul 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Jul 2025 23:23:02 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 05:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 05:28:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>用户暴涨近300万，国产AI音乐神器Mureka重磅升级V7，我们拿它复刻了「印度神曲」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-10</link>
-      <description>&lt;![CDATA[用户暴涨近300万，国产AI音乐神器Mureka重磅升级V7，我们拿它复刻了「印度神曲」]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 17:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-10</guid>
+      <title>自曝曾想拆分英伟达，特朗普签署最激进「AI行动计划」，全行业去监管</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24-6</link>
+      <description>&lt;![CDATA[自曝曾想拆分英伟达，特朗普签署最激进「AI行动计划」，全行业去监管]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>新的CodeBuddy IDE测了，我们感受到腾讯搞定创意人士的野心</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-9</link>
-      <description>&lt;![CDATA[新的CodeBuddy IDE测了，我们感受到腾讯搞定创意人士的野心]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-9</guid>
+      <title>五倍推理加速，激发自回归潜能，苹果新工作让LLM预测未来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24-9</link>
+      <description>&lt;![CDATA[五倍推理加速，激发自回归潜能，苹果新工作让LLM预测未来]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>夸克健康大模型万字调研报告流出：国内首个！透视主任医师级「AI大脑」背后的深度工程化</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-8</link>
-      <description>&lt;![CDATA[夸克健康大模型万字调研报告流出：国内首个！透视主任医师级「AI大脑」背后的深度工程化]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-8</guid>
+      <title>奥特曼首次透露GPT-5上手体验：在擅长领域感到无力，往后一靠感到眩晕</title>
+      <link>https://www.qbitai.com/2025/07/312154.html</link>
+      <description>&lt;![CDATA[奥特曼首次透露GPT-5上手体验：在擅长领域感到无力，往后一靠感到眩晕]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 02:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312154.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>无线合成数据助力破解物理感知大模型数据瓶颈，SynCheck获顶会最佳论文奖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-23-7</link>
-      <description>&lt;![CDATA[无线合成数据助力破解物理感知大模型数据瓶颈，SynCheck获顶会最佳论文奖]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-23-7</guid>
+      <title>首个多模态工业信号基座模型FISHER，权重已开源，来自清华&amp;上交等</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24-5</link>
+      <description>&lt;![CDATA[首个多模态工业信号基座模型FISHER，权重已开源，来自清华&amp;上交等]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Google DeepMind’s new AI can help historians understand ancient Latin inscriptions</title>
-      <link>https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/</link>
-      <description>&lt;![CDATA[Google DeepMind’s new AI can help historians understand ancient Latin inscriptions]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/</guid>
+      <title>如何实现可验证的Agentic Workflow？MermaidFlow开启安全、稳健的智能体流程新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24-4</link>
+      <description>&lt;![CDATA[如何实现可验证的Agentic Workflow？MermaidFlow开启安全、稳健的智能体流程新范式]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 11:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: what’s next for AI agents, and how Trump protects US tech companies overseas</title>
-      <link>https://www.technologyreview.com/2025/07/23/1120571/the-download-whats-next-for-ai-agents-and-how-trump-protects-us-tech-companies-overseas/</link>
-      <description>&lt;![CDATA[The Download: what’s next for AI agents, and how Trump protects US tech companies overseas]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/23/1120571/the-download-whats-next-for-ai-agents-and-how-trump-protects-us-tech-companies-overseas/</guid>
+      <title>ICML 2025 | 大模型能在信息不完备的情况下问出正确的问题吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24-8</link>
+      <description>&lt;![CDATA[ICML 2025 | 大模型能在信息不完备的情况下问出正确的问题吗？]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI搜索一夜变天，专为Agent做搜索的赛道能否诞生百亿美金新巨头？</title>
-      <link>https://www.qbitai.com/2025/07/312027.html</link>
-      <description>&lt;![CDATA[AI搜索一夜变天，专为Agent做搜索的赛道能否诞生百亿美金新巨头？]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312027.html</guid>
+      <title>通向科学智能2.0时代的“最强大脑”，星河启智科学智能开放平台即将上线</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24-3</link>
+      <description>&lt;![CDATA[通向科学智能2.0时代的“最强大脑”，星河启智科学智能开放平台即将上线]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克首家快餐店开业！擎天柱当服务员，生意火爆营收超麦当劳</title>
-      <link>https://www.qbitai.com/2025/07/311876.html</link>
-      <description>&lt;![CDATA[马斯克首家快餐店开业！擎天柱当服务员，生意火爆营收超麦当劳]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/311876.html</guid>
+      <title>Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations</title>
+      <link>https://arxiv.org/abs/2507.17699</link>
+      <description>&lt;![CDATA[Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.17699</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks</title>
+      <link>https://arxiv.org/abs/2507.17695</link>
+      <description>&lt;![CDATA[Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.17695</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICCV高分论文｜可灵ReCamMaster在海外爆火，带你从全新角度看好莱坞大片</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-24</link>
+      <description>&lt;![CDATA[ICCV高分论文｜可灵ReCamMaster在海外爆火，带你从全新角度看好莱坞大片]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24</guid>
       <category>AI</category>
     </item>
   </channel>
