@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 24 Jul 2025 05:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Jul 2025 05:28:11 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 08:31:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>3 ways to help your child retire with $1 million — or more</title>
-      <link>https://www.marketwatch.com/story/3-ways-to-help-your-child-retire-with-1-million-or-more-ad188093?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[3 ways to help your child retire with $1 million — or more]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 01:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/3-ways-to-help-your-child-retire-with-1-million-or-more-ad188093?mod=mw_rss_topstories</guid>
+      <title>Trump plans to visit Fed on Thursday as pressure intensifies around Powell</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=4f8d4977-8be3-480c-9817-9686115a837a&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Trump plans to visit Fed on Thursday as pressure intensifies around Powell]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=4f8d4977-8be3-480c-9817-9686115a837a&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>'A new paradigm': Why gold has been 'a regular outperformer' in recent years</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=debd8961-99a4-4fc5-a858-97ab1140d641&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA['A new paradigm': Why gold has been 'a regular outperformer' in recent years]]&gt;</description>
-      <pubDate>Wed, 23 Jul 2025 23:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=debd8961-99a4-4fc5-a858-97ab1140d641&amp;mod=mw_rss_bulletins</guid>
+      <title>Trump is due to visit the Fed as White House steps up campaign against Powell</title>
+      <link>https://www.marketwatch.com/story/trump-is-due-to-visit-the-fed-as-white-house-steps-up-campaign-against-powell-cc5a4ee9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump is due to visit the Fed as White House steps up campaign against Powell]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 07:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-is-due-to-visit-the-fed-as-white-house-steps-up-campaign-against-powell-cc5a4ee9?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The ECB decision is coming. What to expect.</title>
+      <link>https://www.marketwatch.com/story/european-central-bank-to-put-rate-cuts-on-pause-amid-trade-uncertainty-9e7f4c4f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The ECB decision is coming. What to expect.]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 05:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/european-central-bank-to-put-rate-cuts-on-pause-amid-trade-uncertainty-9e7f4c4f?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

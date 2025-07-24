@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-24 05:27
+**最后更新时间**: 2025-07-24 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-24 08:31)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump plans to visit Fed on Thursday as pressure intensifies around Powell](https://www.marketwatch.com/bulletins/redirect/go?g=4f8d4977-8be3-480c-9817-9686115a837a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 07:54
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump is due to visit the Fed as White House steps up campaign against Powell](https://www.marketwatch.com/story/trump-is-due-to-visit-the-fed-as-white-house-steps-up-campaign-against-powell-cc5a4ee9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 07:45
+
+#### [The ECB decision is coming. What to expect.](https://www.marketwatch.com/story/european-central-bank-to-put-rate-cuts-on-pause-amid-trade-uncertainty-9e7f4c4f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 05:51
 
 ---
 

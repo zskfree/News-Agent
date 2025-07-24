@@ -5676,6 +5676,72 @@
         "link": "https://arxiv.org/abs/2507.16867",
         "published_date": "Thu, 24 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-24T05:27:40.573277"
+      },
+      "ddd4771b768bcf33f55cc7d57b2e0dde9859129399dcbfd4b2ed8c4e7e46afbb": {
+        "title": "华为MatePad Pro 12.2平板正式发布，全面释放生产、创作潜力",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-24-14",
+        "published_date": "Thu, 24 Jul 2025 15:28:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761781"
+      },
+      "89646e6e30f7c1ab806956a23b7418fa1d0e8a9928d139a35089ac07a50b5ce8": {
+        "title": "创智突破：AI首次自主发现106个超越人类设计的神经网络架构",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-24-13",
+        "published_date": "Thu, 24 Jul 2025 15:10:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761713"
+      },
+      "9be114a508e2cfa8b7f56691e9bb9d62a6aa7ed0a89e9636dfe24b79ca81a4aa": {
+        "title": "DeepRare 重磅发布：全球首个可循证智能体诊断系统，直击医学Last Exam难题",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-24-12",
+        "published_date": "Thu, 24 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761727"
+      },
+      "49924b42b6277a5942e27b2772a98816cd3f091b29bf5dca60f3f9de7bc93c1f": {
+        "title": "上交大团队首次完成基因调控逐帧解码，将胚胎发育成像带入1分钟级时间分辨率",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-24-11",
+        "published_date": "Thu, 24 Jul 2025 14:15:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761756"
+      },
+      "a556f967dd9289d293aa0331e690c3d8ed2740db4e7ecad81af864d2b9ceb7e4": {
+        "title": "Vibe Coding爆火，YouWare靠「社区+产品思路」突围",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-24-10",
+        "published_date": "Thu, 24 Jul 2025 13:30:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761793"
+      },
+      "ac6721202efbd5380aee389684129f7702c2b4c9a400f1b8461bb66320bd14e3": {
+        "title": "vivo自研蓝河操作系统内核开源！Rust开发新机遇来了",
+        "link": "https://www.qbitai.com/2025/07/312268.html",
+        "published_date": "Thu, 24 Jul 2025 07:54:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761764"
+      },
+      "60a2afb09dece8e4214b143162c231da51402e0e73cd47284eea2aa86d742765": {
+        "title": "蚂蚁百宝箱智能体平台企业版上线，支持私域部署最快1天上线",
+        "link": "https://www.qbitai.com/2025/07/312286.html",
+        "published_date": "Thu, 24 Jul 2025 07:47:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761737"
+      },
+      "0ba3c7bb23709cc2a821b2419a42f281be634d84a01ded35808885ebe406c6c9": {
+        "title": "官方揭秘ChatGPT Agent背后原理！通过强化学习让模型自主探索最佳工具组合",
+        "link": "https://www.qbitai.com/2025/07/312265.html",
+        "published_date": "Thu, 24 Jul 2025 07:43:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761694"
+      },
+      "78b0205cc866ed7edf878979795e44c47215117cb78aec2d9fa9ab4db9de0123": {
+        "title": "突然发疯！人形格斗冠军机器人凌空回旋踢，架子都干翻，现场研究员：0.0？",
+        "link": "https://www.qbitai.com/2025/07/312224.html",
+        "published_date": "Thu, 24 Jul 2025 07:28:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.511530"
+      },
+      "351cdae5406f1cbafceed88d25542808532c3490383c8d44af09ead044f448bd": {
+        "title": "硅谷AI初创重新拥抱996",
+        "link": "https://www.qbitai.com/2025/07/312213.html",
+        "published_date": "Thu, 24 Jul 2025 07:14:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761772"
+      },
+      "c3fe95e4a6f1da6ea3571edae989de2d590cde5dbdfa1e147118ee07e5d8b757": {
+        "title": "浙大校友打造AI代码测试神器，零代码零bug，30分钟创建网站",
+        "link": "https://www.qbitai.com/2025/07/312182.html",
+        "published_date": "Thu, 24 Jul 2025 05:38:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.761747"
       }
     },
     "Technology": {
@@ -14600,6 +14666,126 @@
         "link": "https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai",
         "published_date": "Wed, 23 Jul 2025 23:25:00 GMT",
         "first_seen": "2025-07-24T05:27:40.292982"
+      },
+      "0cfe9f3f79e0756258386b67c86f93fbdd7e9d244e51f3740eea1bdfb2083c8e": {
+        "title": "海马云：持续亏损成常态，股权转让价格存疑｜IPO观察",
+        "link": "https://www.tmtpost.com/7630690.html",
+        "published_date": "Thu, 24 Jul 2025 15:55:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471904"
+      },
+      "adab0081b59eba6c407efc63483a9834f2a06ad011da5d4a8d6fc097023a9b8d": {
+        "title": "易控智驾：重研发，核心产品却曾亏本甩卖，公司至今仍陷亏损泥潭｜IPO观察",
+        "link": "https://www.tmtpost.com/7630715.html",
+        "published_date": "Thu, 24 Jul 2025 15:53:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471873"
+      },
+      "7467bb090fbba9e37cc2812002eeadaf8cfc3f6f1e4ef1a96b183d96ff4f9e32": {
+        "title": "山姆也没能逃过“千亿魔咒”",
+        "link": "https://www.tmtpost.com/7636721.html",
+        "published_date": "Thu, 24 Jul 2025 15:45:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.297719"
+      },
+      "d4208c225ff81e9b2a71212605adb40c91713244cd6d1fbeec6387d370c790ab": {
+        "title": "微短剧经费“吃回扣”观察：普遍存在，合不合理？",
+        "link": "https://www.tmtpost.com/7636772.html",
+        "published_date": "Thu, 24 Jul 2025 15:45:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.297908"
+      },
+      "c1cd8b9e8603a0ea7327106f4c6c72d4290ffdfe3377e66d20298be93665b0ef": {
+        "title": "30天速通马来西亚，械企获掘金东盟跳板",
+        "link": "https://www.tmtpost.com/7636787.html",
+        "published_date": "Thu, 24 Jul 2025 15:44:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.298149"
+      },
+      "bb1eee9d8e5e1b3c41ef30e53bc6abd510559779ea61ea00b959caac1db34a64": {
+        "title": "退款、补发、政务......多个客服场景智能体应用走向成熟丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7636393.html",
+        "published_date": "Thu, 24 Jul 2025 15:43:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471830"
+      },
+      "1cc89434a1164c8f511678f5048dc2eed84e7ffc799f7634e67e42678a7b2275": {
+        "title": "7月24日A股分析：创业板指领涨1.5%，两市成交缩量至1.84万亿，主力资金净流入56亿，锂矿概念飙涨超4%",
+        "link": "https://www.tmtpost.com/7636826.html",
+        "published_date": "Thu, 24 Jul 2025 15:35:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.299064"
+      },
+      "02d4e2bbd6204fb8238954082d7e772043a3fee09fd9dea4952b9875567b9751": {
+        "title": "Tesla Logs Largest Revenue Decline in Over A Decade as Q2 EV Sales Continues to Plunge",
+        "link": "https://www.tmtpost.com/7636801.html",
+        "published_date": "Thu, 24 Jul 2025 15:10:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471862"
+      },
+      "0fc1df71494fbd3ca77080b72f2a3d9230738e21dfde5d9ee6226fed3e01da6e": {
+        "title": "Chinese Micro-Dramas Make Big Splash in U.S. and Europe, But Risks Loom Behind the Boom",
+        "link": "https://www.tmtpost.com/7636740.html",
+        "published_date": "Thu, 24 Jul 2025 14:06:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471885"
+      },
+      "f1f4ac6c52dd81bcb78cb481f21652c81af526e799510ed5884773e9be34130c": {
+        "title": "Trump Suggests 15% is the Minimum Rate for Worldwide Reciprocal Tariffs",
+        "link": "https://www.tmtpost.com/7636715.html",
+        "published_date": "Thu, 24 Jul 2025 13:41:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.302114"
+      },
+      "24444a390d63b1d3c8cb8c5bdc82af82ba8ce969466cb909b81ab951c4fde4dc": {
+        "title": "谁在“瓜分”山姆？",
+        "link": "https://www.tmtpost.com/7636558.html",
+        "published_date": "Thu, 24 Jul 2025 13:31:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.302521"
+      },
+      "c4568666e2b911e8d17e2c94ec822848de2cc90c7829e2c57d3f2c224efc4fdb": {
+        "title": "花露水始祖六神，也开始中年焦虑了？",
+        "link": "https://www.tmtpost.com/7636599.html",
+        "published_date": "Thu, 24 Jul 2025 13:31:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.302938"
+      },
+      "372acef1ce21651d821f90dcb110be96ac9ce0af0442db8ed6eb78ce9c8acbb9": {
+        "title": "美国药价为何是欧洲的5-10倍？聊聊美国药价之困与制药公司崛起的秘密",
+        "link": "https://www.tmtpost.com/7636618.html",
+        "published_date": "Thu, 24 Jul 2025 13:31:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.303640"
+      },
+      "ad81cc1eefaaaef65d33cee4f7a63d688bffffc066c31d1274300d09f0dd89dc": {
+        "title": "2025 AI主战场，连锁门店“变形记”",
+        "link": "https://www.tmtpost.com/7636597.html",
+        "published_date": "Thu, 24 Jul 2025 13:31:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471841"
+      },
+      "589388047f982e85fc757185e2f2be81f081ac919a908377a0a78ef26af71b40": {
+        "title": "China's BenZhi Activation Leads Charge in Full-Stack On-Device AI Innovation",
+        "link": "https://www.tmtpost.com/7636667.html",
+        "published_date": "Thu, 24 Jul 2025 13:31:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471808"
+      },
+      "6c7ff6162b291eb3a310d315a9656541c2621a8806f56a6bd0c03786b2b37bd7": {
+        "title": "智能体榜第一，纳米 AI 凭什么",
+        "link": "http://www.geekpark.net/news/351869",
+        "published_date": "Thu, 24 Jul 2025 15:46:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471851"
+      },
+      "8787cb39ece89582c95a6c354950a014e1c841a62018f1d5e199348528e48ebc": {
+        "title": "Plaud中国区CEO莫子皓将出席AICon深圳，分享如何重构大模型时代的产品形态与商业路径",
+        "link": "https://www.infoq.cn/article/zYCTf3zCeekL8OW9M4mZ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 24 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471786"
+      },
+      "f8389647887292d7b90cf713857310b7d04c1739aa9785b7df8237f8dd49e8c2": {
+        "title": "周航：特斯拉真的值万亿美金吗？",
+        "link": "http://www.huxiu.com/article/4612829.html?f=wangzhan",
+        "published_date": "Thu, 24 Jul 2025 11:45:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.308918"
+      },
+      "f3ec2fbca41af96cd4fa8bd7946e178c29a3c9a3ecf4424479e8db3f9350e848": {
+        "title": "Americans Are Obsessed With Watching Short Video Dramas From China",
+        "link": "https://www.wired.com/story/china-reel-short-dramas-video-social-media/",
+        "published_date": "Thu, 24 Jul 2025 07:00:00 GMT",
+        "first_seen": "2025-07-24T08:31:05.310719"
+      },
+      "822b60fe0ec54059f61dcb9a88452bfce59ab235854e453a5731912b4450de05": {
+        "title": "扣子空间网页设计，是在挑战 V0 吗？",
+        "link": "http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html",
+        "published_date": "Thu, 24 Jul 2025 06:16:00 GMT",
+        "first_seen": "2025-07-24T08:31:25.471895"
       }
     },
     "Finance": {
@@ -16576,12 +16762,30 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=debd8961-99a4-4fc5-a858-97ab1140d641&mod=mw_rss_bulletins",
         "published_date": "Wed, 23 Jul 2025 23:50:00 GMT",
         "first_seen": "2025-07-24T05:28:11.568839"
+      },
+      "39077ad1efa9c917a38420b2ac971d798660dfdb8c3cc372aa538d8cb1524678": {
+        "title": "Trump plans to visit Fed on Thursday as pressure intensifies around Powell",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4f8d4977-8be3-480c-9817-9686115a837a&mod=mw_rss_bulletins",
+        "published_date": "Thu, 24 Jul 2025 07:54:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.771105"
+      },
+      "8365b9496e33181209fae0feaa2fbdb9167eb5f263d5c5a673f453f551854707": {
+        "title": "Trump is due to visit the Fed as White House steps up campaign against Powell",
+        "link": "https://www.marketwatch.com/story/trump-is-due-to-visit-the-fed-as-white-house-steps-up-campaign-against-powell-cc5a4ee9?mod=mw_rss_topstories",
+        "published_date": "Thu, 24 Jul 2025 07:45:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.771449"
+      },
+      "03b77085ce85d35db5bda71311449e86b78d61bcc8cfecf024f5571e11b0dcfe": {
+        "title": "The ECB decision is coming. What to expect.",
+        "link": "https://www.marketwatch.com/story/european-central-bank-to-put-rate-cuts-on-pause-amid-trade-uncertainty-9e7f4c4f?mod=mw_rss_topstories",
+        "published_date": "Thu, 24 Jul 2025 05:51:00 GMT",
+        "first_seen": "2025-07-24T08:31:46.771783"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-24T05:28:11.561586",
-    "Technology": "2025-07-24T05:27:40.304229",
-    "Finance": "2025-07-24T05:28:11.574656"
+    "AI": "2025-07-24T08:31:46.764189",
+    "Technology": "2025-07-24T08:31:25.483158",
+    "Finance": "2025-07-24T08:31:46.777616"
   }
 }
