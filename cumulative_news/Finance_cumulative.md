@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-24 08:31
+**最后更新时间**: 2025-07-24 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-24 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Homeowners in these states will win if Trump ends capital-gains taxes on houses](https://www.marketwatch.com/bulletins/redirect/go?g=ef1dea30-02a5-4792-ba5c-5a6c5d096144&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 22:34
+
+#### [Trump went to the Fed to pressure Powell. Did he 'chicken out' instead?](https://www.marketwatch.com/bulletins/redirect/go?g=6a173f9c-0e0e-4d61-8caf-36354c7ec423&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 21:50
+
+#### [Intel earnings tell two stories, as sales impress but restructuring losses swell](https://www.marketwatch.com/bulletins/redirect/go?g=5f8ccf4f-9995-4183-b084-58fe5a4e078c&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 21:13
+
+#### [As the latest meme-stock drama unfolds, one thing is different this time around](https://www.marketwatch.com/bulletins/redirect/go?g=c185041f-7f10-4beb-bb78-a995edb07268&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 20:35
+
+#### [Dow ends lower, S&P 500 and Nasdaq notch fresh records despite Tesla's slide](https://www.marketwatch.com/bulletins/redirect/go?g=175f14f3-1b01-4282-9593-240d1f31a87a&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 20:03
+
+#### [Inflation and a historic cattle shortage haven’t dented beef demand. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=18fd95b6-443c-468b-8b22-1ac2984007f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 19:27
+
+#### [Dow falling, S&P 500 and Nasdaq pare gains as Tesla shares slide — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=2115df45-0722-4518-b0a5-860659fcbf03&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 19:06
+
+#### [How Hulk Hogan helped transform pro wrestling from a sideshow to the main event](https://www.marketwatch.com/bulletins/redirect/go?g=aaccd1fc-7dda-4879-98bd-4d0026793eed&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 18:31
+
+#### [IBM’s stock is dragging down the Dow. Why analysts see an opportunity to buy.](https://www.marketwatch.com/bulletins/redirect/go?g=9a2bb26a-48d8-44d0-8050-6d2978687832&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 17:53
+
+#### [As Tesla shares slide, why analysts are upbeat on earnings but investors aren't](https://www.marketwatch.com/bulletins/redirect/go?g=d516bcd1-e60c-4e71-8ebc-2bdb0df48b0c&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-24 16:16
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Intel earnings tell two stories, as revenue impresses but losses pile up from restructuring](https://www.marketwatch.com/story/intel-earnings-tell-two-stories-as-revenue-impresses-but-losses-pile-up-from-restructuring-d05b348a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 22:29
+
+#### [Homeowners in these states are the winners if Trump ends capital-gains taxes for home sellers](https://www.marketwatch.com/story/homeowners-in-these-states-are-the-winners-if-trump-ends-capital-gains-taxes-for-home-sellers-7884bf19?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 22:19
+
+#### [Will the WNBA expanding to 18 teams help or hurt the players saying ‘Pay Us What You Owe Us’?](https://www.marketwatch.com/story/will-the-wnba-expanding-to-18-teams-help-or-hurt-the-players-saying-pay-us-what-you-owe-us-747f8539?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 21:48
+
+#### [‘I finally paid off my student loans’: I’m moving to the U.K. Should I invest my $30K savings or pay down my mortgage?](https://www.marketwatch.com/story/im-considering-giving-up-my-u-s-citizenship-im-moving-to-the-u-k-what-should-i-do-with-30-000-cash-34913ce9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 21:44
+
+#### [Trump went to the Fed to pressure Powell. Did he chicken out instead?](https://www.marketwatch.com/story/trump-went-to-the-fed-to-pressure-powell-did-he-chicken-out-instead-f3998d6e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 21:30
+
+#### [Venus Williams returned to tennis for the health insurance — even after earning $42 million](https://www.marketwatch.com/story/despite-42-million-in-earnings-venus-williams-couldnt-afford-to-stay-retired-d420b932?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 21:00
+
+#### [Deckers shares rally, as some fog clears on year ahead for maker of Hoka, Ugg shoes](https://www.marketwatch.com/story/deckers-shares-rally-as-some-of-the-fog-clears-on-the-year-ahead-48900f07?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 20:54
+
+#### [As latest meme-stock drama unfolds, there’s one thing that is different this time around](https://www.marketwatch.com/story/as-latest-meme-stock-drama-unfolds-theres-one-thing-that-is-different-this-time-around-9c9e7623?mod=mw_rss_topstories)
+**发布时间**: 2025-07-24 20:34
 
 ---
 

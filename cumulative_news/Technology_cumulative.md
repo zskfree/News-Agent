@@ -1,7 +1,186 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-24 08:30
+**最后更新时间**: 2025-07-24 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-24 23:22)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Paramount Has a $1.5 Billion 'South Park' Problem](https://www.wired.com/story/paramount-has-a-south-park-problem/)
+**发布时间**: 2025-07-24 23:13
+
+#### [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It's a Slippery Slope to More Censorship](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
+**发布时间**: 2025-07-24 22:52
+
+#### [The 40 Best Movies on Hulu This Week (August 2025)](https://www.wired.com/story/best-movies-hulu-right-now/)
+**发布时间**: 2025-07-24 19:00
+
+#### [The Very Real Case for Brain-Computer Implants](https://www.wired.com/story/uncanny-valley-podcast-the-very-real-case-for-brain-computer-implants/)
+**发布时间**: 2025-07-24 18:38
+
+#### [The ICJ Rules That Failing to Combat Climate Change Could Violate International Law](https://www.wired.com/story/the-icj-rules-failing-to-combat-climate-could-be-a-violation-of-international-law/)
+**发布时间**: 2025-07-24 16:31
+
+#### [A Premium Luggage Service’s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats](https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/)
+**发布时间**: 2025-07-24 16:00
+
+#### [An Inventor Is Injecting Bleach Into Cancerous Tumors—and Wants to Bring the Treatment to the US](https://www.wired.com/story/dangerous-bleach-injecting-cancer-treatment/)
+**发布时间**: 2025-07-24 15:28
+
+#### [Cursor’s New Bugbot Is Designed to Save Vibe Coders From Themselves](https://www.wired.com/story/cursor-releases-new-ai-tool-for-debugging-code/)
+**发布时间**: 2025-07-24 15:00
+
+#### [No, of Course You Can’t Actually Play the New Lego Game Boy](https://www.wired.com/story/no-of-course-you-cant-actually-play-the-new-lego-game-boy/)
+**发布时间**: 2025-07-24 14:31
+
+#### [Zenbivy Light Bed Review: Still the Best Backcountry Sleep System](https://www.wired.com/review/zenbivy-light-bed-2025/)
+**发布时间**: 2025-07-24 13:32
+
+#### [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)
+**发布时间**: 2025-07-24 13:01
+
+#### [SteelSeries Rival 3 Gen 2 Review: Good Budget Gaming Mice](https://www.wired.com/review/steelseries-rival-3-gen-2/)
+**发布时间**: 2025-07-24 12:30
+
+#### [Dynabook Portégé Z40L-N Review: Replaceable Batteries, High Price](https://www.wired.com/review/dynabook-portege-z40l-n/)
+**发布时间**: 2025-07-24 12:00
+
+#### [4 Best Folding Phones (2025), Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
+**发布时间**: 2025-07-24 11:33
+
+#### [Samsung Galaxy Z Fold7 and Galaxy Z Flip7 Review: A Promising Update](https://www.wired.com/review/samsung-galaxy-z-fold7-and-galaxy-z-flip7/)
+**发布时间**: 2025-07-24 11:03
+
+#### [7 Best Coffee Makers (2025): Drip Is Drippin'](https://www.wired.com/gallery/best-coffee-makers/)
+**发布时间**: 2025-07-24 10:34
+
+#### [Florida Is Now a Haven for Unproven Stem-Cell Treatments](https://www.wired.com/story/florida-is-now-a-haven-for-unproven-stem-cell-treatments/)
+**发布时间**: 2025-07-24 10:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Starlink’s satellite internet is back online after a massive outage](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
+**发布时间**: 2025-07-24 22:53
+
+#### [No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’](https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk)
+**发布时间**: 2025-07-24 21:04
+
+#### [Intel reveals it will shed 24,000 employees this year and retreat in Germany, Poland, and Costa Rica](https://www.theverge.com/news/713388/intel-q2-2025-leave-germany-poland-costa-rica)
+**发布时间**: 2025-07-24 20:29
+
+#### [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)
+**发布时间**: 2025-07-24 19:49
+
+#### [Google rethinks search results with its new AI-curated &#8216;Web Guide&#8217;](https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test)
+**发布时间**: 2025-07-24 19:44
+
+#### [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+**发布时间**: 2025-07-24 19:24
+
+#### [The White House orders tech companies to make AI bigoted again](https://www.theverge.com/policy/713222/trump-woke-ai-executive-order-chatbots-llms)
+**发布时间**: 2025-07-24 19:18
+
+#### [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+**发布时间**: 2025-07-24 18:00
+
+#### [How to install the iOS 26 public beta](https://www.theverge.com/695230/ios-26-beta-install-how-to)
+**发布时间**: 2025-07-24 17:35
+
+#### [How can Tesla make a cheaper Model Y?](https://www.theverge.com/tesla/713026/tesla-cheaper-model-y-stripped-down)
+**发布时间**: 2025-07-24 17:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [8.98 万元的 B01，零跑推了一辆「半价 Model3」！](http://www.geekpark.net/news/351886)
+**发布时间**: 2025-07-24 22:39
+
+#### [小米和比亚迪，终于成了特斯拉的心腹大患](http://www.geekpark.net/news/351885)
+**发布时间**: 2025-07-24 20:03
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [永利股份收购子公司少数股权；元力股份拟购实控人胞妹企业100%股权【并购一线】](https://www.tmtpost.com/7637449.html)
+**发布时间**: 2025-07-24 22:39
+
+#### [锦龙股份22亿落袋即闯算力：深圳报业坚守标的四年，IPO “梦碎”离场](https://www.tmtpost.com/7637454.html)
+**发布时间**: 2025-07-24 21:07
+
+#### [保住最后的尊严，广汽需要挺过三重关](https://www.tmtpost.com/7636952.html)
+**发布时间**: 2025-07-24 19:06
+
+#### [星级酒店摆地摊：丢下体面后的高端餐饮，能打赢生存角力战吗？](https://www.tmtpost.com/7635684.html)
+**发布时间**: 2025-07-24 19:05
+
+#### [自营会是京东外卖的“良药”吗？](https://www.tmtpost.com/7637310.html)
+**发布时间**: 2025-07-24 19:05
+
+#### [阅文的“爆款焦虑”：撒种容易，收割太难](https://www.tmtpost.com/7636725.html)
+**发布时间**: 2025-07-24 19:05
+
+#### [HBM芯片，要降价？](https://www.tmtpost.com/7637236.html)
+**发布时间**: 2025-07-24 19:04
+
+#### [《原神》幕后行业龙头冲IPO，海马云获巨人网络投资，3年亏6.5亿](https://www.tmtpost.com/7635850.html)
+**发布时间**: 2025-07-24 18:57
+
+#### [0元奶茶终结后，外卖大战还会怎么打?](https://www.tmtpost.com/7637151.html)
+**发布时间**: 2025-07-24 18:57
+
+#### [前山东首富姜滨筹划近百亿收购，身家较巅峰缩水300亿](https://www.tmtpost.com/7637162.html)
+**发布时间**: 2025-07-24 18:57
+
+#### [营收连续三年上涨，聚焦北美市场，聚智科技的赴港梦能否如愿？](https://www.tmtpost.com/7637252.html)
+**发布时间**: 2025-07-24 18:57
+
+#### [被“搁置”的盒马，出路在哪儿？](https://www.tmtpost.com/7636744.html)
+**发布时间**: 2025-07-24 18:45
+
+#### [风波不断，“奶粉第一股”贝因美渡劫](https://www.tmtpost.com/7636851.html)
+**发布时间**: 2025-07-24 18:45
+
+#### [短剧“围猎”老年人：情感荒漠化下的资本狂欢与人性挣扎](https://www.tmtpost.com/7637126.html)
+**发布时间**: 2025-07-24 18:45
+
+#### [直击2025光伏行业半年会：硅料去产能，应该怎么去？](https://www.tmtpost.com/7637178.html)
+**发布时间**: 2025-07-24 18:45
+
+#### [从规模狂奔到精细运营：理财子2025上半年穿越监管、人才与费率“深水区”](https://www.tmtpost.com/7637179.html)
+**发布时间**: 2025-07-24 18:45
+
+#### [京东拟收购香港佳宝超市背后，香港本地商超要急了](https://www.tmtpost.com/7637187.html)
+**发布时间**: 2025-07-24 18:45
+
+#### [从“炼丹”到“开店”：大模型应用商店，能否解开国产AI的“商业化焦虑”？](https://www.tmtpost.com/7637220.html)
+**发布时间**: 2025-07-24 18:45
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特斯拉进入黑暗隧道](http://www.huxiu.com/article/4614752.html?f=wangzhan)
+**发布时间**: 2025-07-24 20:58
+
+#### [车企顶级公关：一句话，让700万网红沦为过街老鼠？](http://www.huxiu.com/article/4612818.html?f=wangzhan)
+**发布时间**: 2025-07-24 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“连我也要被GPT-5踹了!”Altman再发暴论：写款软件就花7毛钱，大批高级程序员岗也说没就没](https://www.infoq.cn/article/wIM3WjWhPVcrhhO1gdyz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-24 18:55
+
+#### [智能时代，同球共济！2025世界人工智能大会将于7月26日启幕](https://www.infoq.cn/article/5u83NVGEgqlV6fOYcgCv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-24 18:50
+
+#### [DAMO开发者矩阵全面启动，速来体验乐云具身智能开发平台！](https://www.infoq.cn/article/sd9tGbHKf5HuEqLgUQvD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-24 16:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 215｜少数派的编辑们最近买了啥？](https://sspai.com/post/101308)
+**发布时间**: 2025-07-24 16:57
+
+#### [国产主机游戏新作：《明末：渊虚之羽》游玩体验](https://sspai.com/post/101276)
+**发布时间**: 2025-07-24 15:50
 
 ---
 

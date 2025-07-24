@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-24 08:30
+**最后更新时间**: 2025-07-24 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-24 23:21)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Trump’s AI Action Plan is a distraction](https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/)
+**发布时间**: 2025-07-24 20:15
+
+#### [America’s AI watchdog is losing its bite](https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/)
+**发布时间**: 2025-07-24 18:59
+
+#### [The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin](https://www.technologyreview.com/2025/07/24/1120597/the-download-gas-and-oils-role-in-climate-tech-and-using-ai-to-decipher-ancient-latin/)
+**发布时间**: 2025-07-24 12:10
+
+#### [What role should oil and gas companies play in climate tech?](https://www.technologyreview.com/2025/07/24/1120590/oil-gas-climate-tech/)
+**发布时间**: 2025-07-24 10:00
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [倒计时3天！锁定直播，共赴2025 WAIC云帆奖颁奖典礼&挚友之夜！](https://www.jiqizhixin.com/articles/2025-07-24-17)
+**发布时间**: 2025-07-24 17:53
+
+#### [MeanFlow再下一城，北大提出机器人学习新范式MP1，实现速度与成功率双SOTA](https://www.jiqizhixin.com/articles/2025-07-24-16)
+**发布时间**: 2025-07-24 17:52
+
+#### [九章云极DataCanvas智算普惠中国行上海首发 推出企业级智能体](https://www.jiqizhixin.com/articles/2025-07-24-15)
+**发布时间**: 2025-07-24 17:02
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Robot, know thyself: New vision-based system teaches machines to understand their bodies](https://news.mit.edu/2025/vision-based-system-teaches-machines-understand-their-bodies-0724)
+**发布时间**: 2025-07-24 15:30
+
+#### [Pedestrians now walk faster and linger less, researchers find](https://news.mit.edu/2025/pedestrians-now-walk-faster-and-linger-less-researchers-find-0724)
+**发布时间**: 2025-07-24 13:45
+
+#### [New machine-learning application to help researchers predict chemical properties](https://news.mit.edu/2025/chemxploreml-app-helps-predict-chemical-properties-0724)
+**发布时间**: 2025-07-24 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI资金链告急！紧急启动300亿美金融资，星际之门岌岌可危](https://www.qbitai.com/2025/07/312400.html)
+**发布时间**: 2025-07-24 10:38
+
+#### [突破单token预测局限！南洋理工首次将多token预测引入微调](https://www.qbitai.com/2025/07/312348.html)
+**发布时间**: 2025-07-24 10:34
+
+#### [老黄刚走，全球最强算力Robotaxi方案落地中国](https://www.qbitai.com/2025/07/312196.html)
+**发布时间**: 2025-07-24 10:32
+
+#### [蚂蚁百宝箱智能体企业版上线，配套支付、营销MCP，最快1天上线](https://www.qbitai.com/2025/07/312286.html)
+**发布时间**: 2025-07-24 07:47
 
 ---
 
