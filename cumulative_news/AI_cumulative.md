@@ -1,7 +1,981 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-24 23:21
+**最后更新时间**: 2025-07-25 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-25 05:28)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [解道奥赛题成本5000美元？陶哲轩警告，AI下一步要规模化的「更便宜」](https://www.jiqizhixin.com/articles/2025-07-25-6)
+**发布时间**: 2025-07-25 13:24
+
+#### [港科大&北京人形提出LOVON：足式机器人开放世界全域目标追踪新范式！](https://www.jiqizhixin.com/articles/2025-07-25-5)
+**发布时间**: 2025-07-25 13:20
+
+#### [夸克、浙大开源OmniAvatar，一张图+一段音，就能生成长视频](https://www.jiqizhixin.com/articles/2025-07-25-4)
+**发布时间**: 2025-07-25 13:16
+
+#### [ICML 2025 | 北航提出科学智算基础模型OmniArch，实现11类PDE求解性能提升](https://www.jiqizhixin.com/articles/2025-07-25-3)
+**发布时间**: 2025-07-25 11:58
+
+#### [北大-灵初重磅发布具身VLA全面综述！一文看清VLA技术路线与未来趋势](https://www.jiqizhixin.com/articles/2025-07-25-2)
+**发布时间**: 2025-07-25 10:45
+
+#### [Meta出走华人创业团队，种子轮800万美元，要打造视觉AI记忆大脑](https://www.jiqizhixin.com/articles/2025-07-25)
+**发布时间**: 2025-07-25 10:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [开幕预告 | 双奖得主杰弗里辛顿领衔，全球AI群星在此闪耀！](https://www.qbitai.com/2025/07/312486.html)
+**发布时间**: 2025-07-25 04:52
+
+#### [Mobileye发布Q2财报：营业利润同比提升21%，收入超出预期，芯片出货量强劲](https://www.qbitai.com/2025/07/312475.html)
+**发布时间**: 2025-07-25 04:21
+
+#### [老黄自曝皮衣口袋藏“秘密期权池”！随时准备奖励优秀员工](https://www.qbitai.com/2025/07/312460.html)
+**发布时间**: 2025-07-25 03:43
+
+#### [AI游戏创新大赛终极对决！世纪华通发起，ChinaJoy见证冠军诞生](https://www.qbitai.com/2025/07/312445.html)
+**发布时间**: 2025-07-24 09:50
+
+### 📰 来源: [arXiv.org AI](https://export.arxiv.org/rss/cs.AI)
+
+#### [ASP-Assisted Symbolic Regression: Uncovering Hidden Physics in Fluid Mechanics](https://arxiv.org/abs/2507.17777)
+**发布时间**: 2025-07-25 00:00
+
+#### [I2I-STRADA -- Information to Insights via Structured Reasoning Agent for Data Analysis](https://arxiv.org/abs/2507.17874)
+**发布时间**: 2025-07-25 00:00
+
+#### [SMARTAPS: Tool-augmented LLMs for Operations Management](https://arxiv.org/abs/2507.17927)
+**发布时间**: 2025-07-25 00:00
+
+#### [Synthesis of timeline-based planning strategies avoiding determinization](https://arxiv.org/abs/2507.17988)
+**发布时间**: 2025-07-25 00:00
+
+#### [E.A.R.T.H.: Structuring Creative Evolution through Model Error in Generative AI](https://arxiv.org/abs/2507.18004)
+**发布时间**: 2025-07-25 00:00
+
+#### [Does visualization help AI understand data?](https://arxiv.org/abs/2507.18022)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multi-Agent Guided Policy Optimization](https://arxiv.org/abs/2507.18059)
+**发布时间**: 2025-07-25 00:00
+
+#### [AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074)
+**发布时间**: 2025-07-25 00:00
+
+#### [Agentic AI framework for End-to-End Medical Data Inference](https://arxiv.org/abs/2507.18115)
+**发布时间**: 2025-07-25 00:00
+
+#### [Actively evaluating and learning the distinctions that matter: Vaccine safety signal detection from emergency triage notes](https://arxiv.org/abs/2507.18123)
+**发布时间**: 2025-07-25 00:00
+
+#### [Logical Characterizations of GNNs with Mean Aggregation](https://arxiv.org/abs/2507.18145)
+**发布时间**: 2025-07-25 00:00
+
+#### [Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory](https://arxiv.org/abs/2507.18178)
+**发布时间**: 2025-07-25 00:00
+
+#### [Comparing Non-minimal Semantics for Disjunction in Answer Set Programming](https://arxiv.org/abs/2507.18198)
+**发布时间**: 2025-07-25 00:00
+
+#### [Foundations for Risk Assessment of AI in Protecting Fundamental Rights](https://arxiv.org/abs/2507.18290)
+**发布时间**: 2025-07-25 00:00
+
+#### [The AlphaPhysics Term Rewriting System for Marking Algebraic Expressions in Physics Exams](https://arxiv.org/abs/2507.18337)
+**发布时间**: 2025-07-25 00:00
+
+#### [Reasoning Beyond the Obvious: Evaluating Divergent and Convergent Thinking in LLMs for Financial Scenarios](https://arxiv.org/abs/2507.18368)
+**发布时间**: 2025-07-25 00:00
+
+#### [Revisiting LLM Reasoning via Information Bottleneck](https://arxiv.org/abs/2507.18391)
+**发布时间**: 2025-07-25 00:00
+
+#### [Optimising Call Centre Operations using Reinforcement Learning: Value Iteration versus Proximal Policy Optimisation](https://arxiv.org/abs/2507.18398)
+**发布时间**: 2025-07-25 00:00
+
+#### [GPU Accelerated Compact-Table Propagation](https://arxiv.org/abs/2507.18413)
+**发布时间**: 2025-07-25 00:00
+
+#### [On the Performance of Concept Probing: The Influence of the Data (Extended Version)](https://arxiv.org/abs/2507.18550)
+**发布时间**: 2025-07-25 00:00
+
+#### [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45$^{\circ}$ Law](https://arxiv.org/abs/2507.18576)
+**发布时间**: 2025-07-25 00:00
+
+#### [Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization](https://arxiv.org/abs/2507.15765)
+**发布时间**: 2025-07-25 00:00
+
+#### [Exploring Communication Strategies for Collaborative LLM Agents in Mathematical Problem-Solving](https://arxiv.org/abs/2507.17753)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Custom-Built Ambient Scribe Reduces Cognitive Load and Documentation Burden for Telehealth Clinicians](https://arxiv.org/abs/2507.17754)
+**发布时间**: 2025-07-25 00:00
+
+#### [Insights from Railway Professionals: Rethinking Railway assumptions regarding safety and autonomy](https://arxiv.org/abs/2507.17756)
+**发布时间**: 2025-07-25 00:00
+
+#### [How Instructional Sequence and Personalized Support Impact Diagnostic Strategy Learning](https://arxiv.org/abs/2507.17760)
+**发布时间**: 2025-07-25 00:00
+
+#### [ASR-Guided Speaker-Role Diarization and Diarization-Guided ASR Decoding](https://arxiv.org/abs/2507.17765)
+**发布时间**: 2025-07-25 00:00
+
+#### [Caching Techniques for Reducing the Communication Cost of Federated Learning in IoT Environments](https://arxiv.org/abs/2507.17772)
+**发布时间**: 2025-07-25 00:00
+
+#### [Human-AI Co-Creation: A Framework for Collaborative Design in Intelligent Systems](https://arxiv.org/abs/2507.17774)
+**发布时间**: 2025-07-25 00:00
+
+#### [Comparison of Optimised Geometric Deep Learning Architectures, over Varying Toxicological Assay Data Environments](https://arxiv.org/abs/2507.17775)
+**发布时间**: 2025-07-25 00:00
+
+#### [Axiomatizing Rumsfeld Ignorance](https://arxiv.org/abs/2507.17776)
+**发布时间**: 2025-07-25 00:00
+
+#### [An advanced AI driven database system](https://arxiv.org/abs/2507.17778)
+**发布时间**: 2025-07-25 00:00
+
+#### [In Reverie Together: Ten Years of Mathematical Discovery with a Machine Collaborator](https://arxiv.org/abs/2507.17780)
+**发布时间**: 2025-07-25 00:00
+
+#### [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/abs/2507.17787)
+**发布时间**: 2025-07-25 00:00
+
+#### [Adaptive Repetition for Mitigating Position Bias in LLM-Based Ranking](https://arxiv.org/abs/2507.17788)
+**发布时间**: 2025-07-25 00:00
+
+#### [Helix 1.0: An Open-Source Framework for Reproducible and Interpretable Machine Learning on Tabular Scientific Data](https://arxiv.org/abs/2507.17791)
+**发布时间**: 2025-07-25 00:00
+
+#### [SV3.3B: A Sports Video Understanding Model for Action Recognition](https://arxiv.org/abs/2507.17844)
+**发布时间**: 2025-07-25 00:00
+
+#### [Towards Robust Foundation Models for Digital Pathology](https://arxiv.org/abs/2507.17845)
+**发布时间**: 2025-07-25 00:00
+
+#### [Explainable Graph Neural Networks via Structural Externalities](https://arxiv.org/abs/2507.17848)
+**发布时间**: 2025-07-25 00:00
+
+#### [Performance Evaluation and Threat Mitigation in Large-scale 5G Core Deployment](https://arxiv.org/abs/2507.17850)
+**发布时间**: 2025-07-25 00:00
+
+#### [Technical Implementation of Tippy: Multi-Agent Architecture and System Design for Drug Discovery Laboratory Automation](https://arxiv.org/abs/2507.17852)
+**发布时间**: 2025-07-25 00:00
+
+#### [Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models](https://arxiv.org/abs/2507.17853)
+**发布时间**: 2025-07-25 00:00
+
+#### [Towards Facilitated Fairness Assessment of AI-based Skin Lesion Classifiers Through GenAI-based Image Synthesis](https://arxiv.org/abs/2507.17860)
+**发布时间**: 2025-07-25 00:00
+
+#### [Action-List Reinforcement Learning Syndrome Decoding for Binary Linear Block Codes](https://arxiv.org/abs/2507.17893)
+**发布时间**: 2025-07-25 00:00
+
+#### [VeriMinder: Mitigating Analytical Vulnerabilities in NL2SQL](https://arxiv.org/abs/2507.17896)
+**发布时间**: 2025-07-25 00:00
+
+#### [Deep learning-aided inverse design of porous metamaterials](https://arxiv.org/abs/2507.17907)
+**发布时间**: 2025-07-25 00:00
+
+#### [From Seed to Harvest: Augmenting Human Creativity with AI for Red-teaming Text-to-Image Models](https://arxiv.org/abs/2507.17922)
+**发布时间**: 2025-07-25 00:00
+
+#### [UrbanPulse: A Cross-City Deep Learning Framework for Ultra-Fine-Grained Population Transfer Prediction](https://arxiv.org/abs/2507.17924)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multimodal Fine-grained Reasoning for Post Quality Evaluation](https://arxiv.org/abs/2507.17934)
+**发布时间**: 2025-07-25 00:00
+
+#### [Bob's Confetti: Phonetic Memorization Attacks in Music and Video Generation](https://arxiv.org/abs/2507.17937)
+**发布时间**: 2025-07-25 00:00
+
+#### [Minimax Data Sanitization with Distortion Constraint and Adversarial Inference](https://arxiv.org/abs/2507.17942)
+**发布时间**: 2025-07-25 00:00
+
+#### [Evaluating the Performance of AI Text Detectors, Few-Shot and Chain-of-Thought Prompting Using DeepSeek Generated Text](https://arxiv.org/abs/2507.17944)
+**发布时间**: 2025-07-25 00:00
+
+#### [VERIRAG: Healthcare Claim Verification via Statistical Audit in Retrieval-Augmented Generation](https://arxiv.org/abs/2507.17948)
+**发布时间**: 2025-07-25 00:00
+
+#### [Are LLM Belief Updates Consistent with Bayes' Theorem?](https://arxiv.org/abs/2507.17951)
+**发布时间**: 2025-07-25 00:00
+
+#### [VIBE: Video-Input Brain Encoder for fMRI Response Modeling](https://arxiv.org/abs/2507.17958)
+**发布时间**: 2025-07-25 00:00
+
+#### [Natural Language Processing for Tigrinya: Current State and Future Directions](https://arxiv.org/abs/2507.17974)
+**发布时间**: 2025-07-25 00:00
+
+#### [Improving the Computational Efficiency and Explainability of GeoAggregator](https://arxiv.org/abs/2507.17977)
+**发布时间**: 2025-07-25 00:00
+
+#### [MeAJOR Corpus: A Multi-Source Dataset for Phishing Email Detection](https://arxiv.org/abs/2507.17978)
+**发布时间**: 2025-07-25 00:00
+
+#### [Machine Unlearning of Traffic State Estimation and Prediction](https://arxiv.org/abs/2507.17984)
+**发布时间**: 2025-07-25 00:00
+
+#### [Decoding Instructional Dialogue: Human-AI Collaborative Analysis of Teacher Use of AI Tool at Scale](https://arxiv.org/abs/2507.17985)
+**发布时间**: 2025-07-25 00:00
+
+#### [GRR-CoCa: Leveraging LLM Mechanisms in Multimodal Model Architectures](https://arxiv.org/abs/2507.18009)
+**发布时间**: 2025-07-25 00:00
+
+#### [Fashion-AlterEval: A Dataset for Improved Evaluation of Conversational Recommendation Systems with Alternative Relevant Items](https://arxiv.org/abs/2507.18017)
+**发布时间**: 2025-07-25 00:00
+
+#### [NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database](https://arxiv.org/abs/2507.18028)
+**发布时间**: 2025-07-25 00:00
+
+#### [ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks](https://arxiv.org/abs/2507.18031)
+**发布时间**: 2025-07-25 00:00
+
+#### [OpenNav: Open-World Navigation with Multimodal Large Language Models](https://arxiv.org/abs/2507.18033)
+**发布时间**: 2025-07-25 00:00
+
+#### [GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043)
+**发布时间**: 2025-07-25 00:00
+
+#### [Synthetic Data Generation for Phrase Break Prediction with Large Language Model](https://arxiv.org/abs/2507.18044)
+**发布时间**: 2025-07-25 00:00
+
+#### [Enhancing Scene Transition Awareness in Video Generation via Post-Training](https://arxiv.org/abs/2507.18046)
+**发布时间**: 2025-07-25 00:00
+
+#### [TELEVAL: A Dynamic Benchmark Designed for Spoken Language Models in Chinese Interactive Scenarios](https://arxiv.org/abs/2507.18061)
+**发布时间**: 2025-07-25 00:00
+
+#### [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
+**发布时间**: 2025-07-25 00:00
+
+#### [TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound](https://arxiv.org/abs/2507.18082)
+**发布时间**: 2025-07-25 00:00
+
+#### [Datasets and Recipes for Video Temporal Grounding via Reinforcement Learning](https://arxiv.org/abs/2507.18100)
+**发布时间**: 2025-07-25 00:00
+
+#### [Distributional Uncertainty for Out-of-Distribution Detection](https://arxiv.org/abs/2507.18106)
+**发布时间**: 2025-07-25 00:00
+
+#### [Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks](https://arxiv.org/abs/2507.18112)
+**发布时间**: 2025-07-25 00:00
+
+#### [GOAT-SLM: A Spoken Language Model with Paralinguistic and Speaker Characteristic Awareness](https://arxiv.org/abs/2507.18119)
+**发布时间**: 2025-07-25 00:00
+
+#### [U-Net Based Healthy 3D Brain Tissue Inpainting](https://arxiv.org/abs/2507.18126)
+**发布时间**: 2025-07-25 00:00
+
+#### [Deep Learning for Glioblastoma Morpho-pathological Features Identification: A BraTS-Pathology Challenge Solution](https://arxiv.org/abs/2507.18133)
+**发布时间**: 2025-07-25 00:00
+
+#### [HIVMedQA: Benchmarking large language models for HIV medical decision support](https://arxiv.org/abs/2507.18143)
+**发布时间**: 2025-07-25 00:00
+
+#### [When Noisy Labels Meet Class Imbalance on Graphs: A Graph Augmentation Method with LLM and Pseudo Label](https://arxiv.org/abs/2507.18153)
+**发布时间**: 2025-07-25 00:00
+
+#### [Sticking to the Mean: Detecting Sticky Tokens in Text Embedding Models](https://arxiv.org/abs/2507.18171)
+**发布时间**: 2025-07-25 00:00
+
+#### [Differential-UMamba: Rethinking Tumor Segmentation Under Limited Data Scenarios](https://arxiv.org/abs/2507.18177)
+**发布时间**: 2025-07-25 00:00
+
+#### [SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models](https://arxiv.org/abs/2507.18182)
+**发布时间**: 2025-07-25 00:00
+
+#### [Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection](https://arxiv.org/abs/2507.18202)
+**发布时间**: 2025-07-25 00:00
+
+#### [MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial Navigation](https://arxiv.org/abs/2507.18206)
+**发布时间**: 2025-07-25 00:00
+
+#### [Information Security Based on LLM Approaches: A Review](https://arxiv.org/abs/2507.18215)
+**发布时间**: 2025-07-25 00:00
+
+#### [FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](https://arxiv.org/abs/2507.18219)
+**发布时间**: 2025-07-25 00:00
+
+#### [GenAI for Automotive Software Development: From Requirements to Wheels](https://arxiv.org/abs/2507.18223)
+**发布时间**: 2025-07-25 00:00
+
+#### [From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models](https://arxiv.org/abs/2507.18229)
+**发布时间**: 2025-07-25 00:00
+
+#### [DepthDark: Robust Monocular Depth Estimation for Low-Light Environments](https://arxiv.org/abs/2507.18243)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multimodal Behavioral Patterns Analysis with Eye-Tracking and LLM-Based Reasoning](https://arxiv.org/abs/2507.18252)
+**发布时间**: 2025-07-25 00:00
+
+#### [Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection](https://arxiv.org/abs/2507.18260)
+**发布时间**: 2025-07-25 00:00
+
+#### [ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation](https://arxiv.org/abs/2507.18262)
+**发布时间**: 2025-07-25 00:00
+
+#### [Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models](https://arxiv.org/abs/2507.18263)
+**发布时间**: 2025-07-25 00:00
+
+#### [TCM-Tongue: A Standardized Tongue Image Dataset with Pathological Annotations for AI-Assisted TCM Diagnosis](https://arxiv.org/abs/2507.18288)
+**发布时间**: 2025-07-25 00:00
+
+#### [LoRA-Leak: Membership Inference Attacks Against LoRA Fine-tuned Language Models](https://arxiv.org/abs/2507.18302)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Multi-Dataset Benchmark for Semi-Supervised Semantic Segmentation in ECG Delineation](https://arxiv.org/abs/2507.18323)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Concept for Efficient Scalability of Automated Driving Allowing for Technical, Legal, Cultural, and Ethical Differences](https://arxiv.org/abs/2507.18326)
+**发布时间**: 2025-07-25 00:00
+
+#### [Improving Bird Classification with Primary Color Additives](https://arxiv.org/abs/2507.18334)
+**发布时间**: 2025-07-25 00:00
+
+#### [CLEAR: Error Analysis via LLM-as-a-Judge Made Easy](https://arxiv.org/abs/2507.18392)
+**发布时间**: 2025-07-25 00:00
+
+#### [AraTable: Benchmarking LLMs' Reasoning and Understanding of Arabic Tabular Data](https://arxiv.org/abs/2507.18442)
+**发布时间**: 2025-07-25 00:00
+
+#### [Restoring Rhythm: Punctuation Restoration Using Transformer Models for Bangla, a Low-Resource Language](https://arxiv.org/abs/2507.18448)
+**发布时间**: 2025-07-25 00:00
+
+#### [Digital Twin Technologies in Predictive Maintenance: Enabling Transferability via Sim-to-Real and Real-to-Sim Transfer](https://arxiv.org/abs/2507.18449)
+**发布时间**: 2025-07-25 00:00
+
+#### [Generation of Synthetic Clinical Text: A Systematic Review](https://arxiv.org/abs/2507.18451)
+**发布时间**: 2025-07-25 00:00
+
+#### [Sandwich: Separating Prefill-Decode Compilation for Efficient CPU LLM Serving](https://arxiv.org/abs/2507.18454)
+**发布时间**: 2025-07-25 00:00
+
+#### [Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols](https://arxiv.org/abs/2507.18457)
+**发布时间**: 2025-07-25 00:00
+
+#### [Automated Code Review Using Large Language Models with Symbolic Reasoning](https://arxiv.org/abs/2507.18476)
+**发布时间**: 2025-07-25 00:00
+
+#### [Reinforced Embodied Active Defense: Exploiting Adaptive Interaction for Robust Visual Perception in Adversarial 3D Environments](https://arxiv.org/abs/2507.18484)
+**发布时间**: 2025-07-25 00:00
+
+#### [Explaining How Visual, Textual and Multimodal Encoders Share Concepts](https://arxiv.org/abs/2507.18512)
+**发布时间**: 2025-07-25 00:00
+
+#### [GLANCE: Graph Logic Attention Network with Cluster Enhancement for Heterophilous Graph Representation Learning](https://arxiv.org/abs/2507.18521)
+**发布时间**: 2025-07-25 00:00
+
+#### [C2G-KD: PCA-Constrained Generator for Data-Free Knowledge Distillation](https://arxiv.org/abs/2507.18533)
+**发布时间**: 2025-07-25 00:00
+
+#### [GLiNER2: An Efficient Multi-Task Information Extraction System with Schema-Driven Interface](https://arxiv.org/abs/2507.18546)
+**发布时间**: 2025-07-25 00:00
+
+#### [VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding](https://arxiv.org/abs/2507.18552)
+**发布时间**: 2025-07-25 00:00
+
+#### [HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven Sentiment Integration for Financial Portfolio Optimization](https://arxiv.org/abs/2507.18560)
+**发布时间**: 2025-07-25 00:00
+
+#### [Beyond Internal Data: Constructing Complete Datasets for Fairness Testing](https://arxiv.org/abs/2507.18561)
+**发布时间**: 2025-07-25 00:00
+
+#### [GIIFT: Graph-guided Inductive Image-free Multimodal Machine Translation](https://arxiv.org/abs/2507.18562)
+**发布时间**: 2025-07-25 00:00
+
+#### [Proceedings 19th International Workshop on the ACL2 Theorem Prover and Its Applications](https://arxiv.org/abs/2507.18567)
+**发布时间**: 2025-07-25 00:00
+
+#### [PosterMate: Audience-driven Collaborative Persona Agents for Poster Design](https://arxiv.org/abs/2507.18572)
+**发布时间**: 2025-07-25 00:00
+
+#### [Advancing Financial Engineering with Foundation Models: Progress, Applications, and Challenges](https://arxiv.org/abs/2507.18577)
+**发布时间**: 2025-07-25 00:00
+
+#### [DR.EHR: Dense Retrieval for Electronic Health Record with Knowledge Injection and Synthetic Data](https://arxiv.org/abs/2507.18583)
+**发布时间**: 2025-07-25 00:00
+
+#### [AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs](https://arxiv.org/abs/2507.18584)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Foundation Model for Massive MIMO Precoding with an Adaptive per-User Rate-Power Tradeoff](https://arxiv.org/abs/2507.18587)
+**发布时间**: 2025-07-25 00:00
+
+#### [DRWKV: Focusing on Object Edges for Low-Light Image Enhancement](https://arxiv.org/abs/2507.18594)
+**发布时间**: 2025-07-25 00:00
+
+#### [Approximate SMT Counting Beyond Discrete Domains](https://arxiv.org/abs/2507.18612)
+**发布时间**: 2025-07-25 00:00
+
+#### [SynC: Synthetic Image Caption Dataset Refinement with One-to-many Mapping for Zero-shot Image Captioning](https://arxiv.org/abs/2507.18616)
+**发布时间**: 2025-07-25 00:00
+
+#### [Moving Out: Physically-grounded Human-AI Collaboration](https://arxiv.org/abs/2507.18623)
+**发布时间**: 2025-07-25 00:00
+
+#### [3D Software Synthesis Guided by Constraint-Expressive Intermediate Representation](https://arxiv.org/abs/2507.18625)
+**发布时间**: 2025-07-25 00:00
+
+#### [SIDA: Synthetic Image Driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2507.18632)
+**发布时间**: 2025-07-25 00:00
+
+#### [I-CEE: Tailoring Explanations of Image Classification Models to User Expertise](https://arxiv.org/abs/2312.12102)
+**发布时间**: 2025-07-25 00:00
+
+#### [On the Structure of Game Provenance and its Applications](https://arxiv.org/abs/2410.05094)
+**发布时间**: 2025-07-25 00:00
+
+#### [Retrieving Classes of Causal Orders with Inconsistent Knowledge Bases](https://arxiv.org/abs/2412.14019)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Differentiated Reward Method for Reinforcement Learning based Multi-Vehicle Cooperative Decision-Making Algorithms](https://arxiv.org/abs/2502.00352)
+**发布时间**: 2025-07-25 00:00
+
+#### [HPS: Hard Preference Sampling for Human Preference Alignment](https://arxiv.org/abs/2502.14400)
+**发布时间**: 2025-07-25 00:00
+
+#### [Chemical reasoning in LLMs unlocks strategy-aware synthesis planning and reaction mechanism elucidation](https://arxiv.org/abs/2503.08537)
+**发布时间**: 2025-07-25 00:00
+
+#### [OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problems with Reasoning LLM](https://arxiv.org/abs/2503.10009)
+**发布时间**: 2025-07-25 00:00
+
+#### [IPCGRL: Language-Instructed Reinforcement Learning for Procedural Level Generation](https://arxiv.org/abs/2503.12358)
+**发布时间**: 2025-07-25 00:00
+
+#### [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Recursive Compression and Algorithmic Probability](https://arxiv.org/abs/2503.16743)
+**发布时间**: 2025-07-25 00:00
+
+#### [EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework](https://arxiv.org/abs/2504.14928)
+**发布时间**: 2025-07-25 00:00
+
+#### [Neurodivergent Influenceability as a Contingent Solution to the AI Alignment Problem](https://arxiv.org/abs/2505.02581)
+**发布时间**: 2025-07-25 00:00
+
+#### [Beamforming and Resource Allocation for Delay Minimization in RIS-Assisted OFDM Systems](https://arxiv.org/abs/2506.03586)
+**发布时间**: 2025-07-25 00:00
+
+#### [Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games](https://arxiv.org/abs/2506.23276)
+**发布时间**: 2025-07-25 00:00
+
+#### [Learning Concepts Definable in First-Order Logic with Counting](https://arxiv.org/abs/1909.03820)
+**发布时间**: 2025-07-25 00:00
+
+#### [DocTER: Evaluating Document-based Knowledge Editing](https://arxiv.org/abs/2308.09954)
+**发布时间**: 2025-07-25 00:00
+
+#### [Quantifying the Uniqueness and Divisiveness of Presidential Discourse](https://arxiv.org/abs/2401.01405)
+**发布时间**: 2025-07-25 00:00
+
+#### [DualXDA: Towards Sparse, Efficient and Explainable Data Attribution in Large AI Models](https://arxiv.org/abs/2402.12118)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Multi-Faceted Evaluation Framework for Assessing Synthetic Data Generated by Large Language Models](https://arxiv.org/abs/2404.14445)
+**发布时间**: 2025-07-25 00:00
+
+#### [Unsupervised Concept Drift Detection from Deep Learning Representations in Real-time](https://arxiv.org/abs/2406.17813)
+**发布时间**: 2025-07-25 00:00
+
+#### [VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks](https://arxiv.org/abs/2407.19795)
+**发布时间**: 2025-07-25 00:00
+
+#### [Neural Machine Unranking](https://arxiv.org/abs/2408.05330)
+**发布时间**: 2025-07-25 00:00
+
+#### [RUMI: Rummaging Using Mutual Information](https://arxiv.org/abs/2408.10450)
+**发布时间**: 2025-07-25 00:00
+
+#### [Zeroth-Order Fine-Tuning of LLMs in Random Subspaces](https://arxiv.org/abs/2410.08989)
+**发布时间**: 2025-07-25 00:00
+
+#### [Differentiable Motion Manifold Primitives for Reactive Motion Generation under Kinodynamic Constraints](https://arxiv.org/abs/2410.12193)
+**发布时间**: 2025-07-25 00:00
+
+#### [Neural Corrective Machine Unranking](https://arxiv.org/abs/2411.08562)
+**发布时间**: 2025-07-25 00:00
+
+#### [Scalable Parameter Design for Superconducting Quantum Circuits with Graph Neural Networks](https://arxiv.org/abs/2411.16354)
+**发布时间**: 2025-07-25 00:00
+
+#### [Integrating Evidence into the Design of XAI and AI-based Decision Support Systems: A Means-End Framework for End-users in Construction](https://arxiv.org/abs/2412.14209)
+**发布时间**: 2025-07-25 00:00
+
+#### [Integrated Learning and Optimization for Congestion Management and Profit Maximization in Real-Time Electricity Market](https://arxiv.org/abs/2412.18003)
+**发布时间**: 2025-07-25 00:00
+
+#### [Online Housing Market](https://arxiv.org/abs/2501.15916)
+**发布时间**: 2025-07-25 00:00
+
+#### [Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications Across Lab and Field Settings](https://arxiv.org/abs/2502.01108)
+**发布时间**: 2025-07-25 00:00
+
+#### [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
+**发布时间**: 2025-07-25 00:00
+
+#### [EVEv2: Improved Baselines for Encoder-Free Vision-Language Models](https://arxiv.org/abs/2502.06788)
+**发布时间**: 2025-07-25 00:00
+
+#### [ExpliCa: Evaluating Explicit Causal Reasoning in Large Language Models](https://arxiv.org/abs/2502.15487)
+**发布时间**: 2025-07-25 00:00
+
+#### [A general language model for peptide identification](https://arxiv.org/abs/2502.15610)
+**发布时间**: 2025-07-25 00:00
+
+#### [Quantum Machine Learning in Precision Medicine and Drug Discovery -- A Game Changer for Tailored Treatments?](https://arxiv.org/abs/2502.18639)
+**发布时间**: 2025-07-25 00:00
+
+#### [Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS](https://arxiv.org/abs/2503.01075)
+**发布时间**: 2025-07-25 00:00
+
+#### [Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation](https://arxiv.org/abs/2503.04151)
+**发布时间**: 2025-07-25 00:00
+
+#### [When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning](https://arxiv.org/abs/2503.07588)
+**发布时间**: 2025-07-25 00:00
+
+#### [Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972)
+**发布时间**: 2025-07-25 00:00
+
+#### [Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs](https://arxiv.org/abs/2503.16870)
+**发布时间**: 2025-07-25 00:00
+
+#### [Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.17724)
+**发布时间**: 2025-07-25 00:00
+
+#### [LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important](https://arxiv.org/abs/2504.04704)
+**发布时间**: 2025-07-25 00:00
+
+#### [Position: An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research](https://arxiv.org/abs/2504.13101)
+**发布时间**: 2025-07-25 00:00
+
+#### [PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding](https://arxiv.org/abs/2504.13180)
+**发布时间**: 2025-07-25 00:00
+
+#### [Vision Transformers in Precision Agriculture: A Comprehensive Survey](https://arxiv.org/abs/2504.21706)
+**发布时间**: 2025-07-25 00:00
+
+#### [Beyond Low-rank Decomposition: A Shortcut Approach for Efficient On-Device Learning](https://arxiv.org/abs/2505.05086)
+**发布时间**: 2025-07-25 00:00
+
+#### [Machine Learning Solutions Integrated in an IoT Healthcare Platform for Heart Failure Risk Stratification](https://arxiv.org/abs/2505.09619)
+**发布时间**: 2025-07-25 00:00
+
+#### [Outcome-Based Online Reinforcement Learning: Algorithms and Fundamental Limits](https://arxiv.org/abs/2505.20268)
+**发布时间**: 2025-07-25 00:00
+
+#### [PALADIN : Robust Neural Fingerprinting for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03170)
+**发布时间**: 2025-07-25 00:00
+
+#### [MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection](https://arxiv.org/abs/2506.03654)
+**发布时间**: 2025-07-25 00:00
+
+#### [LLM-D12: A Dual-Dimensional Scale of Instrumental and Relational Dependencies on Large Language Models](https://arxiv.org/abs/2506.06874)
+**发布时间**: 2025-07-25 00:00
+
+#### [Diffuse and Disperse: Image Generation with Representation Regularization](https://arxiv.org/abs/2506.09027)
+**发布时间**: 2025-07-25 00:00
+
+#### [Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation](https://arxiv.org/abs/2506.11790)
+**发布时间**: 2025-07-25 00:00
+
+#### [LLM Web Dynamics: Tracing Model Collapse in a Network of LLMs](https://arxiv.org/abs/2506.15690)
+**发布时间**: 2025-07-25 00:00
+
+#### [SyncMapV2: Robust and Adaptive Unsupervised Segmentation](https://arxiv.org/abs/2506.16297)
+**发布时间**: 2025-07-25 00:00
+
+#### [Masked Autoencoders that Feel the Heart: Unveiling Simplicity Bias for ECG Analyses](https://arxiv.org/abs/2506.22495)
+**发布时间**: 2025-07-25 00:00
+
+#### [EEG Foundation Models: A Critical Review of Current Progress and Future Directions](https://arxiv.org/abs/2507.11783)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multilingual LLMs Are Not Multilingual Thinkers: Evidence from Hindi Analogy Evaluation](https://arxiv.org/abs/2507.13238)
+**发布时间**: 2025-07-25 00:00
+
+#### [Omni-Thinker: Scaling Cross-Domain Generalization in LLMs via Multi-Task RL with Hybrid Rewards](https://arxiv.org/abs/2507.14783)
+**发布时间**: 2025-07-25 00:00
+
+#### [EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Control](https://arxiv.org/abs/2507.15292)
+**发布时间**: 2025-07-25 00:00
+
+#### [EarthLink: A Self-Evolving AI Agent for Climate Science](https://arxiv.org/abs/2507.17311)
+**发布时间**: 2025-07-25 00:00
+
+### 📰 来源: [arXiv.org Machine Learning](https://export.arxiv.org/rss/cs.LG)
+
+#### [Enhancing Quantization-Aware Training on Edge Devices via Relative Entropy Coreset Selection and Cascaded Layer Correction](https://arxiv.org/abs/2507.17768)
+**发布时间**: 2025-07-25 00:00
+
+#### [Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach](https://arxiv.org/abs/2507.17784)
+**发布时间**: 2025-07-25 00:00
+
+#### [Self-similarity Analysis in Deep Neural Networks](https://arxiv.org/abs/2507.17785)
+**发布时间**: 2025-07-25 00:00
+
+#### [Reinforcement Learning for Accelerated Aerodynamic Shape Optimisation](https://arxiv.org/abs/2507.17786)
+**发布时间**: 2025-07-25 00:00
+
+#### [Causal Mechanism Estimation in Multi-Sensor Systems Across Multiple Domains](https://arxiv.org/abs/2507.17792)
+**发布时间**: 2025-07-25 00:00
+
+#### [LSDM: LLM-Enhanced Spatio-temporal Diffusion Model for Service-Level Mobile Traffic Prediction](https://arxiv.org/abs/2507.17795)
+**发布时间**: 2025-07-25 00:00
+
+#### [CoCAI: Copula-based Conformal Anomaly Identification for Multivariate Time-Series](https://arxiv.org/abs/2507.17796)
+**发布时间**: 2025-07-25 00:00
+
+#### [GenSelect: A Generative Approach to Best-of-N](https://arxiv.org/abs/2507.17797)
+**发布时间**: 2025-07-25 00:00
+
+#### [Wasserstein GAN-Based Precipitation Downscaling with Optimal Transport for Enhancing Perceptual Realism](https://arxiv.org/abs/2507.17798)
+**发布时间**: 2025-07-25 00:00
+
+#### [Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic](https://arxiv.org/abs/2507.17876)
+**发布时间**: 2025-07-25 00:00
+
+#### [Fourier Neural Operators for Non-Markovian Processes:Approximation Theorems and Experiments](https://arxiv.org/abs/2507.17887)
+**发布时间**: 2025-07-25 00:00
+
+#### [Lower Bounds for Public-Private Learning under Distribution Shift](https://arxiv.org/abs/2507.17895)
+**发布时间**: 2025-07-25 00:00
+
+#### [Federated Learning for Large-Scale Cloud Robotic Manipulation: Opportunities and Challenges](https://arxiv.org/abs/2507.17903)
+**发布时间**: 2025-07-25 00:00
+
+#### [SETOL: A Semi-Empirical Theory of (Deep) Learning](https://arxiv.org/abs/2507.17912)
+**发布时间**: 2025-07-25 00:00
+
+#### [SIFOTL: A Principled, Statistically-Informed Fidelity-Optimization Method for Tabular Learning](https://arxiv.org/abs/2507.17979)
+**发布时间**: 2025-07-25 00:00
+
+#### [Predictive Scaling Laws for Efficient GRPO Training of Large Reasoning Models](https://arxiv.org/abs/2507.18014)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multiscale Neural PDE Surrogates for Prediction and Downscaling: Application to Ocean Currents](https://arxiv.org/abs/2507.18067)
+**发布时间**: 2025-07-25 00:00
+
+#### [C-AAE: Compressively Anonymizing Autoencoders for Privacy-Preserving Activity Recognition in Healthcare Sensor Streams](https://arxiv.org/abs/2507.18072)
+**发布时间**: 2025-07-25 00:00
+
+#### [Squeeze10-LLM: Squeezing LLMs' Weights by 10 Times via a Staged Mixed-Precision Quantization Method](https://arxiv.org/abs/2507.18073)
+**发布时间**: 2025-07-25 00:00
+
+#### [Learning from Hard Labels with Additional Supervision on Non-Hard-Labeled Classes](https://arxiv.org/abs/2507.18098)
+**发布时间**: 2025-07-25 00:00
+
+#### [Percentile-Based Deep Reinforcement Learning and Reward Based Personalization For Delay Aware RAN Slicing in O-RAN](https://arxiv.org/abs/2507.18111)
+**发布时间**: 2025-07-25 00:00
+
+#### [Policy Disruption in Reinforcement Learning:Adversarial Attack with Large Language Models and Critical State Identification](https://arxiv.org/abs/2507.18113)
+**发布时间**: 2025-07-25 00:00
+
+#### [Maximizing Prefix-Confidence at Test-Time Efficiently Improves Mathematical Reasoning](https://arxiv.org/abs/2507.18122)
+**发布时间**: 2025-07-25 00:00
+
+#### [Neuromorphic Computing for Embodied Intelligence in Autonomous Systems: Current Trends, Challenges, and Future Directions](https://arxiv.org/abs/2507.18139)
+**发布时间**: 2025-07-25 00:00
+
+#### [ChronoSelect: Robust Learning with Noisy Labels via Dynamics Temporal Memory](https://arxiv.org/abs/2507.18183)
+**发布时间**: 2025-07-25 00:00
+
+#### [Goal-based Trajectory Prediction for improved Cross-Dataset Generalization](https://arxiv.org/abs/2507.18196)
+**发布时间**: 2025-07-25 00:00
+
+#### [Sparse identification of nonlinear dynamics with library optimization mechanism: Recursive long-term prediction perspective](https://arxiv.org/abs/2507.18220)
+**发布时间**: 2025-07-25 00:00
+
+#### [Boosting Revisited: Benchmarking and Advancing LP-Based Ensemble Methods](https://arxiv.org/abs/2507.18242)
+**发布时间**: 2025-07-25 00:00
+
+#### [Leveraging Data Augmentation and Siamese Learning for Predictive Process Monitoring](https://arxiv.org/abs/2507.18293)
+**发布时间**: 2025-07-25 00:00
+
+#### [Self-Supervised Coarsening of Unstructured Grid with Automatic Differentiation](https://arxiv.org/abs/2507.18297)
+**发布时间**: 2025-07-25 00:00
+
+#### [Regression-aware Continual Learning for Android Malware Detection](https://arxiv.org/abs/2507.18313)
+**发布时间**: 2025-07-25 00:00
+
+#### [State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer](https://arxiv.org/abs/2507.18320)
+**发布时间**: 2025-07-25 00:00
+
+#### [Remembering the Markov Property in Cooperative MARL](https://arxiv.org/abs/2507.18333)
+**发布时间**: 2025-07-25 00:00
+
+#### [Low-rank adaptive physics-informed HyperDeepONets for solving differential equations](https://arxiv.org/abs/2507.18346)
+**发布时间**: 2025-07-25 00:00
+
+#### [Efficient Uncertainty in LLMs through Evidential Knowledge Distillation](https://arxiv.org/abs/2507.18366)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges](https://arxiv.org/abs/2507.18376)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multi-Model Ensemble and Reservoir Computing for River Discharge Prediction in Ungauged Basins](https://arxiv.org/abs/2507.18423)
+**发布时间**: 2025-07-25 00:00
+
+#### [Revisiting Bisimulation Metric for Robust Representations in Reinforcement Learning](https://arxiv.org/abs/2507.18519)
+**发布时间**: 2025-07-25 00:00
+
+#### [The Price equation reveals a universal force-metric-bias law of algorithmic learning and natural selection](https://arxiv.org/abs/2507.18549)
+**发布时间**: 2025-07-25 00:00
+
+#### [The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane Algorithm](https://arxiv.org/abs/2507.18553)
+**发布时间**: 2025-07-25 00:00
+
+#### [Neural Tangent Kernels and Fisher Information Matrices for Simple ReLU Networks with Random Hidden Weights](https://arxiv.org/abs/2507.18555)
+**发布时间**: 2025-07-25 00:00
+
+#### [Linear Memory SE(2) Invariant Attention](https://arxiv.org/abs/2507.18597)
+**发布时间**: 2025-07-25 00:00
+
+#### [Demystify Protein Generation with Hierarchical Conditional Diffusion Models](https://arxiv.org/abs/2507.18603)
+**发布时间**: 2025-07-25 00:00
+
+#### [Gait Recognition Based on Tiny ML and IMU Sensors](https://arxiv.org/abs/2507.18627)
+**发布时间**: 2025-07-25 00:00
+
+#### [Mapping Technological Futures: Anticipatory Discourse Through Text Mining](https://arxiv.org/abs/2504.02853)
+**发布时间**: 2025-07-25 00:00
+
+#### [Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis](https://arxiv.org/abs/2507.16641)
+**发布时间**: 2025-07-25 00:00
+
+#### [BrisT1D Dataset: Young Adults with Type 1 Diabetes in the UK using Smartwatches](https://arxiv.org/abs/2507.17757)
+**发布时间**: 2025-07-25 00:00
+
+#### [Incentivised Orchestrated Training Architecture (IOTA): A Technical Primer for Release](https://arxiv.org/abs/2507.17766)
+**发布时间**: 2025-07-25 00:00
+
+#### [PolyServe: Efficient Multi-SLO Serving at Scale](https://arxiv.org/abs/2507.17769)
+**发布时间**: 2025-07-25 00:00
+
+#### [MultiKernelBench: A Multi-Platform Benchmark for Kernel Generation](https://arxiv.org/abs/2507.17773)
+**发布时间**: 2025-07-25 00:00
+
+#### [CM-UNet: A Self-Supervised Learning-Based Model for Coronary Artery Segmentation in X-Ray Angiography](https://arxiv.org/abs/2507.17779)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Concept-based approach to Voice Disorder Detection](https://arxiv.org/abs/2507.17799)
+**发布时间**: 2025-07-25 00:00
+
+#### [On the Energy Distribution of the Galactic Center Excess' Sources](https://arxiv.org/abs/2507.17804)
+**发布时间**: 2025-07-25 00:00
+
+#### [Integrating Feature Selection and Machine Learning for Nitrogen Assessment in Grapevine Leaves using In-Field Hyperspectral Imaging](https://arxiv.org/abs/2507.17869)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Supervised Machine Learning Framework for Multipactor Breakdown Prediction in High-Power Radio Frequency Devices and Accelerator Components: A Case Study in Planar Geometry](https://arxiv.org/abs/2507.17881)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multimodal Recurrent Ensembles for Predicting Brain Responses to Naturalistic Movies (Algonauts 2025)](https://arxiv.org/abs/2507.17897)
+**发布时间**: 2025-07-25 00:00
+
+#### [Sliding Window Informative Canonical Correlation Analysis](https://arxiv.org/abs/2507.17921)
+**发布时间**: 2025-07-25 00:00
+
+#### [Quantum Machine Learning Playground](https://arxiv.org/abs/2507.17931)
+**发布时间**: 2025-07-25 00:00
+
+#### [Clo-HDnn: A 4.66 TFLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-efficient Hyperdimensional Computing via Progressive Search](https://arxiv.org/abs/2507.17953)
+**发布时间**: 2025-07-25 00:00
+
+#### [Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA](https://arxiv.org/abs/2507.17963)
+**发布时间**: 2025-07-25 00:00
+
+#### [Machine Learning Workflow for Analysis of High-Dimensional Order Parameter Space: A Case Study of Polymer Crystallization from Molecular Dynamics Simulations](https://arxiv.org/abs/2507.17980)
+**发布时间**: 2025-07-25 00:00
+
+#### [Zeroth-order log-concave sampling](https://arxiv.org/abs/2507.18021)
+**发布时间**: 2025-07-25 00:00
+
+#### [Privacy-Preserving Synthetic Review Generation with Diverse Writing Styles Using LLMs](https://arxiv.org/abs/2507.18055)
+**发布时间**: 2025-07-25 00:00
+
+#### [Comparison of Segmentation Methods in Remote Sensing for Land Use Land Cover](https://arxiv.org/abs/2507.18099)
+**发布时间**: 2025-07-25 00:00
+
+#### [A New Pair of GloVes](https://arxiv.org/abs/2507.18103)
+**发布时间**: 2025-07-25 00:00
+
+#### [Nonconvex Optimization Framework for Group-Sparse Feedback Linear-Quadratic Optimal Control I: Penalty Approach](https://arxiv.org/abs/2507.18114)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Two-armed Bandit Framework for A/B Testing](https://arxiv.org/abs/2507.18118)
+**发布时间**: 2025-07-25 00:00
+
+#### [GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar](https://arxiv.org/abs/2507.18155)
+**发布时间**: 2025-07-25 00:00
+
+#### [GVCCS: A Dataset for Contrail Identification and Tracking on Visible Whole Sky Camera Sequences](https://arxiv.org/abs/2507.18330)
+**发布时间**: 2025-07-25 00:00
+
+#### [Hierarchical Dimensionless Learning (Hi-{\pi}): A physics-data hybrid-driven approach for discovering dimensionless parameter combinations](https://arxiv.org/abs/2507.18332)
+**发布时间**: 2025-07-25 00:00
+
+#### [Tiny is not small enough: High-quality, low-resource facial animation models through hybrid knowledge distillation](https://arxiv.org/abs/2507.18352)
+**发布时间**: 2025-07-25 00:00
+
+#### [On Reconstructing Training Data From Bayesian Posteriors and Trained Models](https://arxiv.org/abs/2507.18372)
+**发布时间**: 2025-07-25 00:00
+
+#### [Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows](https://arxiv.org/abs/2507.18405)
+**发布时间**: 2025-07-25 00:00
+
+#### [FinDPO: Financial Sentiment Analysis for Algorithmic Trading through Preference Optimization of LLMs](https://arxiv.org/abs/2507.18417)
+**发布时间**: 2025-07-25 00:00
+
+#### [NLML-HPE: Head Pose Estimation with Limited Data via Manifold Learning](https://arxiv.org/abs/2507.18429)
+**发布时间**: 2025-07-25 00:00
+
+#### [High-Dimensional Data Classification in Concentric Coordinates](https://arxiv.org/abs/2507.18450)
+**发布时间**: 2025-07-25 00:00
+
+#### [DriftMoE: A Mixture of Experts Approach to Handle Concept Drifts](https://arxiv.org/abs/2507.18464)
+**发布时间**: 2025-07-25 00:00
+
+#### [Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models](https://arxiv.org/abs/2507.18504)
+**发布时间**: 2025-07-25 00:00
+
+#### [Euclidean Distance Deflation Under High-Dimensional Heteroskedastic Noise](https://arxiv.org/abs/2507.18520)
+**发布时间**: 2025-07-25 00:00
+
+#### [The Moral Gap of Large Language Models](https://arxiv.org/abs/2507.18523)
+**发布时间**: 2025-07-25 00:00
+
+#### [Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](https://arxiv.org/abs/2507.18534)
+**发布时间**: 2025-07-25 00:00
+
+#### [AI/ML Life Cycle Management for Interoperable AI Native RAN](https://arxiv.org/abs/2507.18538)
+**发布时间**: 2025-07-25 00:00
+
+#### [Deep Variational Free Energy Calculation of Hydrogen Hugoniot](https://arxiv.org/abs/2507.18540)
+**发布时间**: 2025-07-25 00:00
+
+#### [Hybrid quantum-classical algorithm for near-optimal planning in POMDPs](https://arxiv.org/abs/2507.18606)
+**发布时间**: 2025-07-25 00:00
+
+#### [Explainable Mapper: Charting LLM Embedding Spaces Using Perturbation-Based Explanation and Verification Agents](https://arxiv.org/abs/2507.18607)
+**发布时间**: 2025-07-25 00:00
+
+#### [TRPrompt: Bootstrapping Query-Aware Prompt Optimization from Textual Rewards](https://arxiv.org/abs/2507.18618)
+**发布时间**: 2025-07-25 00:00
+
+#### [On Leveraging Unlabeled Data for Concurrent Positive-Unlabeled Classification and Robust Generation](https://arxiv.org/abs/2006.07841)
+**发布时间**: 2025-07-25 00:00
+
+#### [Generalizing Adam to Manifolds for Efficiently Training Transformers](https://arxiv.org/abs/2305.16901)
+**发布时间**: 2025-07-25 00:00
+
+#### [Compressed and distributed least-squares regression: convergence rates with applications to Federated Learning](https://arxiv.org/abs/2308.01358)
+**发布时间**: 2025-07-25 00:00
+
+#### [Optimal Transport Regularized Divergences: Application to Adversarial Robustness](https://arxiv.org/abs/2309.03791)
+**发布时间**: 2025-07-25 00:00
+
+#### [Fine-Tuned Language Models Generate Stable Inorganic Materials as Text](https://arxiv.org/abs/2402.04379)
+**发布时间**: 2025-07-25 00:00
+
+#### [The Role of the Time-Dependent Hessian in High-Dimensional Optimization](https://arxiv.org/abs/2403.02418)
+**发布时间**: 2025-07-25 00:00
+
+#### [A Principled Approach for Data Bias Mitigation](https://arxiv.org/abs/2405.12312)
+**发布时间**: 2025-07-25 00:00
+
+#### [Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures](https://arxiv.org/abs/2407.09468)
+**发布时间**: 2025-07-25 00:00
+
+#### [On the Approximation of Stationary Processes using the ARMA Model](https://arxiv.org/abs/2408.10610)
+**发布时间**: 2025-07-25 00:00
+
+#### [Fine-Grained Uncertainty Quantification via Collisions](https://arxiv.org/abs/2411.12127)
+**发布时间**: 2025-07-25 00:00
+
+#### [Analyzing Fairness of Computer Vision and Natural Language Processing Models](https://arxiv.org/abs/2412.09900)
+**发布时间**: 2025-07-25 00:00
+
+#### [History-Guided Video Diffusion](https://arxiv.org/abs/2502.06764)
+**发布时间**: 2025-07-25 00:00
+
+#### [DeepCrossAttention: Supercharging Transformer Residual Connections](https://arxiv.org/abs/2502.06785)
+**发布时间**: 2025-07-25 00:00
+
+#### [Analyzing Islamophobic Discourse Using Semi-Coded Terms and LLMs](https://arxiv.org/abs/2503.18273)
+**发布时间**: 2025-07-25 00:00
+
+#### [Statistical Runtime Verification for LLMs via Robustness Estimation](https://arxiv.org/abs/2504.17723)
+**发布时间**: 2025-07-25 00:00
+
+#### [Unisoma: A Unified Transformer-based Solver for Multi-Solid Systems](https://arxiv.org/abs/2506.06021)
+**发布时间**: 2025-07-25 00:00
+
+#### [Multi-Preference Lambda-weighted Listwise DPO for Small-Scale Model Alignment](https://arxiv.org/abs/2506.19780)
+**发布时间**: 2025-07-25 00:00
+
+#### [Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias](https://arxiv.org/abs/2212.10678)
+**发布时间**: 2025-07-25 00:00
+
+#### [Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift](https://arxiv.org/abs/2302.10160)
+**发布时间**: 2025-07-25 00:00
+
+#### [Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance](https://arxiv.org/abs/2303.01256)
+**发布时间**: 2025-07-25 00:00
+
+#### [PLOT-TAL: Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://arxiv.org/abs/2403.18915)
+**发布时间**: 2025-07-25 00:00
+
+#### [Learning Safe Strategies for Value Maximizing Buyers in Uniform Price Auctions](https://arxiv.org/abs/2406.03674)
+**发布时间**: 2025-07-25 00:00
+
+#### [Robust Non-adaptive Group Testing under Errors in Group Membership Specifications](https://arxiv.org/abs/2409.05345)
+**发布时间**: 2025-07-25 00:00
+
+#### [AI Workflow, External Validation, and Development in Eye Disease Diagnosis](https://arxiv.org/abs/2409.15087)
+**发布时间**: 2025-07-25 00:00
+
+#### [Private Counterfactual Retrieval](https://arxiv.org/abs/2410.13812)
+**发布时间**: 2025-07-25 00:00
+
+#### [Variational inference for pile-up removal at hadron colliders with diffusion models](https://arxiv.org/abs/2410.22074)
+**发布时间**: 2025-07-25 00:00
+
+#### [BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference](https://arxiv.org/abs/2501.01144)
+**发布时间**: 2025-07-25 00:00
+
+#### [Robust sensitivity control in digital pathology via tile score distribution matching](https://arxiv.org/abs/2502.20144)
+**发布时间**: 2025-07-25 00:00
+
+#### [Fixing the Pitfalls of Probabilistic Time-Series Forecasting Evaluation by Kernel Quadrature](https://arxiv.org/abs/2503.06079)
+**发布时间**: 2025-07-25 00:00
+
+#### [Learning Gentle Grasping Using Vision, Sound, and Touch](https://arxiv.org/abs/2503.07926)
+**发布时间**: 2025-07-25 00:00
+
+#### [External Knowledge Injection for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2503.08510)
+**发布时间**: 2025-07-25 00:00
+
+#### [Tuning Sequential Monte Carlo Samplers via Greedy Incremental Divergence Minimization](https://arxiv.org/abs/2503.15704)
+**发布时间**: 2025-07-25 00:00
+
+#### [Active Learning For Repairable Hardware Systems With Partial Coverage](https://arxiv.org/abs/2503.16315)
+**发布时间**: 2025-07-25 00:00
+
+#### [How do language models learn facts? Dynamics, curricula and hallucinations](https://arxiv.org/abs/2503.21676)
+**发布时间**: 2025-07-25 00:00
+
+#### [Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](https://arxiv.org/abs/2504.17999)
+**发布时间**: 2025-07-25 00:00
+
+#### [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/abs/2506.16685)
+**发布时间**: 2025-07-25 00:00
+
+#### [Learning Individual Reproductive Behavior from Aggregate Fertility Rates via Neural Posterior Estimation](https://arxiv.org/abs/2506.22607)
+**发布时间**: 2025-07-25 00:00
 
 ---
 

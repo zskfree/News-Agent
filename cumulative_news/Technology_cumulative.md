@@ -1,7 +1,134 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-24 23:22
+**最后更新时间**: 2025-07-25 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-25 05:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI Startup LynAI Mines Secures Angel Round to Fuel Global Expansion of Smart Mineral Exploration](https://www.tmtpost.com/7637955.html)
+**发布时间**: 2025-07-25 12:22
+
+#### [马斯克开饭店，麦当劳哭了](https://www.tmtpost.com/7637821.html)
+**发布时间**: 2025-07-25 12:15
+
+#### [White House Releases Details of U.S.-Japan Trade Deal, Confirms $550 Billion Committed Investment](https://www.tmtpost.com/7637925.html)
+**发布时间**: 2025-07-25 11:53
+
+#### [煤老板一掷千金，互联网造富神话，那十年，满城尽带黄金甲](https://www.tmtpost.com/7637823.html)
+**发布时间**: 2025-07-25 11:38
+
+#### [黄质潘出任星纪魅族集团新CEO，官方回应｜独家](https://www.tmtpost.com/7637886.html)
+**发布时间**: 2025-07-25 11:27
+
+#### [凌云智矿完成数百万美元天使轮融资，继续深化全球 AI 矿产勘探技术布局](https://www.tmtpost.com/7637783.html)
+**发布时间**: 2025-07-25 11:27
+
+#### [《财富》中国500强中的大宗玩家](https://www.tmtpost.com/7636987.html)
+**发布时间**: 2025-07-25 11:12
+
+#### [红杉再套现3.5亿，奕瑞科技“量缩利减”猛上产能，实控人IPO暗线将辟“第二战场”](https://www.tmtpost.com/7637633.html)
+**发布时间**: 2025-07-25 10:17
+
+#### [给父母买的了100件“智能产品”全都吃灰：银发科技为何总跑偏？](https://www.tmtpost.com/7637465.html)
+**发布时间**: 2025-07-25 10:00
+
+#### [最热三伏天，低欲望的年轻人掏空口袋“吸阳气”](https://www.tmtpost.com/7637443.html)
+**发布时间**: 2025-07-25 09:30
+
+#### [辛选否认卫生巾含致癌物，辛巴和“家人们”谁在“撒谎”？](https://www.tmtpost.com/7637523.html)
+**发布时间**: 2025-07-25 08:30
+
+#### [科股早知道：供需两端多重因素共同推动，这类战略资源价格屡创历史新高](https://www.tmtpost.com/7637638.html)
+**发布时间**: 2025-07-25 08:06
+
+#### [不该总骂男人，但脱口秀除了“就讲这个”能冒犯的所剩无几](https://www.tmtpost.com/7637498.html)
+**发布时间**: 2025-07-25 08:00
+
+#### [【钛晨报】治理“内卷式”竞争！价格法拟修订，完善低价倾销认定标准；中金黄金：中国黄金集团内蒙古矿业有限公司已停产；央行今日开展4000亿MLF操作](https://www.tmtpost.com/7637492.html)
+**发布时间**: 2025-07-25 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure Event Hubs地理复制功能达到正式可用状态](https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 12:00
+
+#### [文件被 Gemini 当场“格式化”，全没了！网友控诉：Claude、Copilot 也爱删库，一个都跑不了](https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 12:00
+
+#### [AI 重构 UGC 游戏创作链：玩法、内容与商业价值新范式｜AICon深圳](https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 11:21
+
+#### [大型商业银行研发工程智能化探索](https://www.infoq.cn/article/hGsuX55aqkHiiOzNTJPp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 10:55
+
+#### [Spring AI 1.0提供简单的AI系统和服务](https://www.infoq.cn/article/jwD25k9V1WXUttqPa7tS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 10:41
+
+#### [2025 Google 开发者大会 邀你参会](https://www.infoq.cn/article/DP7Ips5LEiNIqqJvMpbk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 10:19
+
+#### [Mistral Voxtral是OpenAI Whisper和其他ASR工具的开放权重竞争对手](https://www.infoq.cn/article/W8QEwRXHTsBYg3lQlEWF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 10:15
+
+#### [DevProxy 0.28发布，增加AI支持](https://www.infoq.cn/article/2fF37owBT2yF5sizDTAA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 10:08
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [玛莎拉蒂没人买，全都怪微商？](http://www.huxiu.com/article/4614131.html?f=wangzhan)
+**发布时间**: 2025-07-25 12:00
+
+#### [人形机器人IPO血战：谁在赌未来，谁在赚现在？](http://www.huxiu.com/article/4614383.html?f=wangzhan)
+**发布时间**: 2025-07-25 11:26
+
+#### [泡泡玛特能否持续制造“Labubu”？](http://www.huxiu.com/article/4614137.html?f=wangzhan)
+**发布时间**: 2025-07-25 10:50
+
+#### [特斯拉做得好极了，除了没卖好车](http://www.huxiu.com/article/4615454.html?f=wangzhan)
+**发布时间**: 2025-07-25 07:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS / iPadOS 26 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/101313)
+**发布时间**: 2025-07-25 11:28
+
+#### [要做出怎样的音乐，才能被看见？](https://sspai.com/post/101243)
+**发布时间**: 2025-07-25 11:00
+
+#### [派早报：英国认定 Apple 和 Google 具有战略市场定位等](https://sspai.com/post/101322)
+**发布时间**: 2025-07-25 08:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传 GPT-5 将在 8 月初发布；马斯克转发懂车帝辅助驾驶测试；腾讯股价创四年来新高｜极客早知道](http://www.geekpark.net/news/351887)
+**发布时间**: 2025-07-25 09:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
+**发布时间**: 2025-07-25 05:00
+
+#### [Paramount Has a $1.5 Billion ‘South Park’ Problem](https://www.wired.com/story/paramount-has-a-south-park-problem/)
+**发布时间**: 2025-07-24 23:13
+
+#### [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It’s a Slippery Slope to More Censorship](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
+**发布时间**: 2025-07-24 22:52
+
+#### [KitchenAid Promo Code: $100 Off in July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+**发布时间**: 2025-07-22 05:00
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
+**发布时间**: 2025-07-25 00:03
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Paramount-Skydance merger approved after companies agree to government speech demands](https://www.theverge.com/news/713587/paramount-skydance-merger-approved-fcc-speech-dei-bias)
+**发布时间**: 2025-07-24 23:57
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 24 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Jul 2025 23:22:58 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 05:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 05:29:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI资金链告急！紧急启动300亿美金融资，星际之门岌岌可危</title>
-      <link>https://www.qbitai.com/2025/07/312400.html</link>
-      <description>&lt;![CDATA[OpenAI资金链告急！紧急启动300亿美金融资，星际之门岌岌可危]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312400.html</guid>
+      <title>解道奥赛题成本5000美元？陶哲轩警告，AI下一步要规模化的「更便宜」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-6</link>
+      <description>&lt;![CDATA[解道奥赛题成本5000美元？陶哲轩警告，AI下一步要规模化的「更便宜」]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>老黄刚走，全球最强算力Robotaxi方案落地中国</title>
-      <link>https://www.qbitai.com/2025/07/312196.html</link>
-      <description>&lt;![CDATA[老黄刚走，全球最强算力Robotaxi方案落地中国]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312196.html</guid>
+      <title>北大-灵初重磅发布具身VLA全面综述！一文看清VLA技术路线与未来趋势</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-2</link>
+      <description>&lt;![CDATA[北大-灵初重磅发布具身VLA全面综述！一文看清VLA技术路线与未来趋势]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MeanFlow再下一城，北大提出机器人学习新范式MP1，实现速度与成功率双SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-24-16</link>
-      <description>&lt;![CDATA[MeanFlow再下一城，北大提出机器人学习新范式MP1，实现速度与成功率双SOTA]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-16</guid>
+      <title>夸克、浙大开源OmniAvatar，一张图+一段音，就能生成长视频</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-4</link>
+      <description>&lt;![CDATA[夸克、浙大开源OmniAvatar，一张图+一段音，就能生成长视频]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Robot, know thyself: New vision-based system teaches machines to understand their bodies</title>
-      <link>https://news.mit.edu/2025/vision-based-system-teaches-machines-understand-their-bodies-0724</link>
-      <description>&lt;![CDATA[Robot, know thyself: New vision-based system teaches machines to understand their bodies]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/vision-based-system-teaches-machines-understand-their-bodies-0724</guid>
+      <title>AlphaGo Moment for Model Architecture Discovery</title>
+      <link>https://arxiv.org/abs/2507.18074</link>
+      <description>&lt;![CDATA[AlphaGo Moment for Model Architecture Discovery]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.18074</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>突破单token预测局限！南洋理工首次将多token预测引入微调</title>
-      <link>https://www.qbitai.com/2025/07/312348.html</link>
-      <description>&lt;![CDATA[突破单token预测局限！南洋理工首次将多token预测引入微调]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312348.html</guid>
+      <title>港科大&amp;北京人形提出LOVON：足式机器人开放世界全域目标追踪新范式！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-5</link>
+      <description>&lt;![CDATA[港科大&amp;北京人形提出LOVON：足式机器人开放世界全域目标追踪新范式！]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Trump’s AI Action Plan is a distraction</title>
-      <link>https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/</link>
-      <description>&lt;![CDATA[Trump’s AI Action Plan is a distraction]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 20:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/</guid>
+      <title>ICML 2025 | 北航提出科学智算基础模型OmniArch，实现11类PDE求解性能提升</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-3</link>
+      <description>&lt;![CDATA[ICML 2025 | 北航提出科学智算基础模型OmniArch，实现11类PDE求解性能提升]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>America’s AI watchdog is losing its bite</title>
-      <link>https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/</link>
-      <description>&lt;![CDATA[America’s AI watchdog is losing its bite]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/</guid>
+      <title>Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory</title>
+      <link>https://arxiv.org/abs/2507.18178</link>
+      <description>&lt;![CDATA[Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.18178</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>New machine-learning application to help researchers predict chemical properties</title>
-      <link>https://news.mit.edu/2025/chemxploreml-app-helps-predict-chemical-properties-0724</link>
-      <description>&lt;![CDATA[New machine-learning application to help researchers predict chemical properties]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/chemxploreml-app-helps-predict-chemical-properties-0724</guid>
+      <title>Hyperbolic Deep Learning for Foundation Models: A Survey</title>
+      <link>https://arxiv.org/abs/2507.17787</link>
+      <description>&lt;![CDATA[Hyperbolic Deep Learning for Foundation Models: A Survey]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.17787</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>九章云极DataCanvas智算普惠中国行上海首发 推出企业级智能体</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-24-15</link>
-      <description>&lt;![CDATA[九章云极DataCanvas智算普惠中国行上海首发 推出企业级智能体]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-24-15</guid>
+      <title>Foundations for Risk Assessment of AI in Protecting Fundamental Rights</title>
+      <link>https://arxiv.org/abs/2507.18290</link>
+      <description>&lt;![CDATA[Foundations for Risk Assessment of AI in Protecting Fundamental Rights]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.18290</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin</title>
-      <link>https://www.technologyreview.com/2025/07/24/1120597/the-download-gas-and-oils-role-in-climate-tech-and-using-ai-to-decipher-ancient-latin/</link>
-      <description>&lt;![CDATA[The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin]]&gt;</description>
-      <pubDate>Thu, 24 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/24/1120597/the-download-gas-and-oils-role-in-climate-tech-and-using-ai-to-decipher-ancient-latin/</guid>
+      <title>Technical Implementation of Tippy: Multi-Agent Architecture and System Design for Drug Discovery Laboratory Automation</title>
+      <link>https://arxiv.org/abs/2507.17852</link>
+      <description>&lt;![CDATA[Technical Implementation of Tippy: Multi-Agent Architecture and System Design for Drug Discovery Laboratory Automation]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.17852</guid>
       <category>AI</category>
     </item>
   </channel>

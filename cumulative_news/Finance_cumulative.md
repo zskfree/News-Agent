@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-24 23:22
+**最后更新时间**: 2025-07-25 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-25 05:28)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [I asked AI and my financial planner the same questions. Here’s how they compared](https://www.marketwatch.com/bulletins/redirect/go?g=bf912958-3037-4788-9190-4be8c39a7331&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 01:22
+
+#### [FCC shows that its holdup of Paramount-Skydance merger was political all along](https://www.marketwatch.com/bulletins/redirect/go?g=83b337c7-b069-40e6-a3e7-efc3f795a0a2&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 01:20
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [FCC shows that its holdup of the Paramount-Skydance merger was political all along](https://www.marketwatch.com/story/fcc-shows-that-its-holdup-of-the-paramount-skydance-merger-was-political-all-along-effc9bc8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 01:18
 
 ---
 
