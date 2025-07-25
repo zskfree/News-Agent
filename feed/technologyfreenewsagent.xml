@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 25 Jul 2025 05:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Jul 2025 05:29:04 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 08:30:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>传 GPT-5 将在 8 月初发布；马斯克转发懂车帝辅助驾驶测试；腾讯股价创四年来新高｜极客早知道</title>
-      <link>http://www.geekpark.net/news/351887</link>
-      <description>&lt;![CDATA[传 GPT-5 将在 8 月初发布；马斯克转发懂车帝辅助驾驶测试；腾讯股价创四年来新高｜极客早知道]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351887</guid>
+      <title>Nvidia Stock Hits Record after Alphabet Raises Capital Spending Outlook</title>
+      <link>https://www.tmtpost.com/7638106.html</link>
+      <description>&lt;![CDATA[Nvidia Stock Hits Record after Alphabet Raises Capital Spending Outlook]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638106.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>文件被 Gemini 当场“格式化”，全没了！网友控诉：Claude、Copilot 也爱删库，一个都跑不了</title>
-      <link>https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[文件被 Gemini 当场“格式化”，全没了！网友控诉：Claude、Copilot 也爱删库，一个都跑不了]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话云天励飞董事长陈宁：预计到2030年，每台设备都将内置AI推理芯片</title>
+      <link>https://www.tmtpost.com/7637113.html</link>
+      <description>&lt;![CDATA[对话云天励飞董事长陈宁：预计到2030年，每台设备都将内置AI推理芯片]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637113.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Mistral Voxtral是OpenAI Whisper和其他ASR工具的开放权重竞争对手</title>
-      <link>https://www.infoq.cn/article/W8QEwRXHTsBYg3lQlEWF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Mistral Voxtral是OpenAI Whisper和其他ASR工具的开放权重竞争对手]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/W8QEwRXHTsBYg3lQlEWF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>美团王兴：3年狂投30家，中国具身智能最大金主</title>
+      <link>https://www.tmtpost.com/7637856.html</link>
+      <description>&lt;![CDATA[美团王兴：3年狂投30家，中国具身智能最大金主]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637856.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人形机器人IPO血战：谁在赌未来，谁在赚现在？</title>
-      <link>http://www.huxiu.com/article/4614383.html?f=wangzhan</link>
-      <description>&lt;![CDATA[人形机器人IPO血战：谁在赌未来，谁在赚现在？]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4614383.html?f=wangzhan</guid>
+      <title>状态空间模型可以在低功耗边缘计算中实现AI</title>
+      <link>https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[状态空间模型可以在低功耗边缘计算中实现AI]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 重构 UGC 游戏创作链：玩法、内容与商业价值新范式｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 重构 UGC 游戏创作链：玩法、内容与商业价值新范式｜AICon深圳]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>.NET 10预览版6引入了Blazor增强、内存优化和SDK改进</title>
+      <link>https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[.NET 10预览版6引入了Blazor增强、内存优化和SDK改进]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：英国认定 Apple 和 Google 具有战略市场定位等</title>
-      <link>https://sspai.com/post/101322</link>
-      <description>&lt;![CDATA[派早报：英国认定 Apple 和 Google 具有战略市场定位等]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101322</guid>
+      <title>金山办公 AI 产品总监徐奕成确认出席 AICon 深圳，分享协同智能，多 Agent 驱动的内容创作新范式</title>
+      <link>https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[金山办公 AI 产品总监徐奕成确认出席 AICon 深圳，分享协同智能，多 Agent 驱动的内容创作新范式]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>iOS / iPadOS 26 Public Beta 公测版来了：升降级指南 &amp; 注意事项</title>
-      <link>https://sspai.com/post/101313</link>
-      <description>&lt;![CDATA[iOS / iPadOS 26 Public Beta 公测版来了：升降级指南 &amp; 注意事项]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101313</guid>
+      <title>The Age-Checked Internet Has Arrived</title>
+      <link>https://www.wired.com/story/the-age-checked-internet-has-arrived/</link>
+      <description>&lt;![CDATA[The Age-Checked Internet Has Arrived]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/the-age-checked-internet-has-arrived/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>给父母买的了100件“智能产品”全都吃灰：银发科技为何总跑偏？</title>
-      <link>https://www.tmtpost.com/7637465.html</link>
-      <description>&lt;![CDATA[给父母买的了100件“智能产品”全都吃灰：银发科技为何总跑偏？]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7637465.html</guid>
+      <title>特斯拉做得好极了，除了没卖好车</title>
+      <link>https://www.tmtpost.com/7637610.html</link>
+      <description>&lt;![CDATA[特斯拉做得好极了，除了没卖好车]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637610.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Azure Event Hubs地理复制功能达到正式可用状态</title>
-      <link>https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Azure Event Hubs地理复制功能达到正式可用状态]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>几毛钱的芯片，利润直追英伟达</title>
+      <link>https://www.tmtpost.com/7637970.html</link>
+      <description>&lt;![CDATA[几毛钱的芯片，利润直追英伟达]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637970.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Startup LynAI Mines Secures Angel Round to Fuel Global Expansion of Smart Mineral Exploration</title>
-      <link>https://www.tmtpost.com/7637955.html</link>
-      <description>&lt;![CDATA[AI Startup LynAI Mines Secures Angel Round to Fuel Global Expansion of Smart Mineral Exploration]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 12:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7637955.html</guid>
+      <title>South Korea Reported to Consider Over $100 Billion Investment to Strike Japan-Style Deal with U.S.</title>
+      <link>https://www.tmtpost.com/7638026.html</link>
+      <description>&lt;![CDATA[South Korea Reported to Consider Over $100 Billion Investment to Strike Japan-Style Deal with U.S.]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638026.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-25 05:28
+**最后更新时间**: 2025-07-25 08:30
+
+---
+
+## 🆕 最新更新 (2025-07-25 08:30)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Puma now sees a loss for the year, with tariffs just one problem. Shares sink.](https://www.marketwatch.com/bulletins/redirect/go?g=0fec3307-5e6e-49c3-824a-03932f9c2919&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 07:56
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Puma shares rocked by profit warning. Tariffs are the least of its problems.](https://www.marketwatch.com/story/puma-shares-rocked-by-profit-warning-tariffs-are-the-least-of-its-problems-2b1dc310?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 07:37
 
 ---
 

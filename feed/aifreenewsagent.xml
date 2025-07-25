@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 25 Jul 2025 05:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Jul 2025 05:29:26 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 08:30:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>解道奥赛题成本5000美元？陶哲轩警告，AI下一步要规模化的「更便宜」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-25-6</link>
-      <description>&lt;![CDATA[解道奥赛题成本5000美元？陶哲轩警告，AI下一步要规模化的「更便宜」]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-6</guid>
+      <title>自猎网AI Agent招聘求职产品与自猎AI面试官智能体在京发布，智能求职招聘时代正式开启！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-11</link>
+      <description>&lt;![CDATA[自猎网AI Agent招聘求职产品与自猎AI面试官智能体在京发布，智能求职招聘时代正式开启！]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>北大-灵初重磅发布具身VLA全面综述！一文看清VLA技术路线与未来趋势</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-25-2</link>
-      <description>&lt;![CDATA[北大-灵初重磅发布具身VLA全面综述！一文看清VLA技术路线与未来趋势]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-2</guid>
+      <title>A800、H800都低到这个价了，这个暑假搞了点算力福利</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-10</link>
+      <description>&lt;![CDATA[A800、H800都低到这个价了，这个暑假搞了点算力福利]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>夸克、浙大开源OmniAvatar，一张图+一段音，就能生成长视频</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-25-4</link>
-      <description>&lt;![CDATA[夸克、浙大开源OmniAvatar，一张图+一段音，就能生成长视频]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-4</guid>
+      <title>Agent KB：经验池让Agents互相学习！GAIA新开源SOTA，Pass@1性能最高提升6.66</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-9</link>
+      <description>&lt;![CDATA[Agent KB：经验池让Agents互相学习！GAIA新开源SOTA，Pass@1性能最高提升6.66]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AlphaGo Moment for Model Architecture Discovery</title>
-      <link>https://arxiv.org/abs/2507.18074</link>
-      <description>&lt;![CDATA[AlphaGo Moment for Model Architecture Discovery]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.18074</guid>
+      <title>用友大易联合 HR SPACE发布《2025年企业AI招聘应用成熟度报告》！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-8</link>
+      <description>&lt;![CDATA[用友大易联合 HR SPACE发布《2025年企业AI招聘应用成熟度报告》！]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>港科大&amp;北京人形提出LOVON：足式机器人开放世界全域目标追踪新范式！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-25-5</link>
-      <description>&lt;![CDATA[港科大&amp;北京人形提出LOVON：足式机器人开放世界全域目标追踪新范式！]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 13:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-5</guid>
+      <title>150PB工业数据+智能体革命，西门子开启AI制造新纪元</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-25-7</link>
+      <description>&lt;![CDATA[150PB工业数据+智能体革命，西门子开启AI制造新纪元]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025 | 北航提出科学智算基础模型OmniArch，实现11类PDE求解性能提升</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-25-3</link>
-      <description>&lt;![CDATA[ICML 2025 | 北航提出科学智算基础模型OmniArch，实现11类PDE求解性能提升]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-25-3</guid>
+      <title>GitHub官方版AI IDE公测！用自然语言写App，全栈应用1分钟生成</title>
+      <link>https://www.qbitai.com/2025/07/312570.html</link>
+      <description>&lt;![CDATA[GitHub官方版AI IDE公测！用自然语言写App，全栈应用1分钟生成]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312570.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory</title>
-      <link>https://arxiv.org/abs/2507.18178</link>
-      <description>&lt;![CDATA[Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.18178</guid>
+      <title>AI创业半年被5.7亿收购，31岁CEO带队8人瓜分亿元现金红包</title>
+      <link>https://www.qbitai.com/2025/07/312556.html</link>
+      <description>&lt;![CDATA[AI创业半年被5.7亿收购，31岁CEO带队8人瓜分亿元现金红包]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312556.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Hyperbolic Deep Learning for Foundation Models: A Survey</title>
-      <link>https://arxiv.org/abs/2507.17787</link>
-      <description>&lt;![CDATA[Hyperbolic Deep Learning for Foundation Models: A Survey]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.17787</guid>
+      <title>联汇科技发布万物具身智能体平台OmAgent，让AI智能体走进“物理世界”</title>
+      <link>https://www.qbitai.com/2025/07/312531.html</link>
+      <description>&lt;![CDATA[联汇科技发布万物具身智能体平台OmAgent，让AI智能体走进“物理世界”]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 06:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312531.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Foundations for Risk Assessment of AI in Protecting Fundamental Rights</title>
-      <link>https://arxiv.org/abs/2507.18290</link>
-      <description>&lt;![CDATA[Foundations for Risk Assessment of AI in Protecting Fundamental Rights]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.18290</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Technical Implementation of Tippy: Multi-Agent Architecture and System Design for Drug Discovery Laboratory Automation</title>
-      <link>https://arxiv.org/abs/2507.17852</link>
-      <description>&lt;![CDATA[Technical Implementation of Tippy: Multi-Agent Architecture and System Design for Drug Discovery Laboratory Automation]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.17852</guid>
+      <title>WAIC抢先爆料：金融“黑马”大模型超DeepSeek刷新SOTA，论文已上线</title>
+      <link>https://www.qbitai.com/2025/07/312510.html</link>
+      <description>&lt;![CDATA[WAIC抢先爆料：金融“黑马”大模型超DeepSeek刷新SOTA，论文已上线]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 06:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312510.html</guid>
       <category>AI</category>
     </item>
   </channel>
