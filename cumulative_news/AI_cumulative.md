@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-25 08:29
+**最后更新时间**: 2025-07-25 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-25 23:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Who’s Adam？最逆天的NeurIPS评审出炉了](https://www.jiqizhixin.com/articles/2025-07-25-12)
+**发布时间**: 2025-07-25 18:40
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: saving the US climate programs, and America’s AI protections are under threat](https://www.technologyreview.com/2025/07/25/1120667/the-download-saving-the-us-climate-programs-and-americas-ai-protections-are-under-threat/)
+**发布时间**: 2025-07-25 12:10
+
+#### [The deadly saga of the controversial gene therapy Elevidys](https://www.technologyreview.com/2025/07/25/1120621/deadly-saga-controversial-gene-therapy-elevidys/)
+**发布时间**: 2025-07-25 09:00
+
+#### [How nonprofits and academia are stepping up to salvage US climate programs](https://www.technologyreview.com/2025/07/25/1120636/how-nonprofits-and-academia-are-stepping-up-to-salvage-us-climate-programs/)
+**发布时间**: 2025-07-25 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里千问3推理模型重磅更新，比肩Gemini-2.5 pro、o4-mini](https://www.qbitai.com/2025/07/312955.html)
+**发布时间**: 2025-07-25 10:54
+
+#### [零一汽车完成5亿融资，Momenta领投，阿里CEO跟投](https://www.qbitai.com/2025/07/312944.html)
+**发布时间**: 2025-07-25 09:46
+
+#### [零跑版“半价SU7”9万元开卖！激光雷达+端到端+双高通旗舰芯片](https://www.qbitai.com/2025/07/312834.html)
+**发布时间**: 2025-07-25 09:09
+
+#### [特斯拉财报太惨！马斯克紧急投产紧凑版Model Y](https://www.qbitai.com/2025/07/312769.html)
+**发布时间**: 2025-07-25 08:58
+
+#### [群核科技发布3D高斯语义数据集，给机器人装上“空间大脑”](https://www.qbitai.com/2025/07/312755.html)
+**发布时间**: 2025-07-25 08:32
+
+#### [斯坦福大模型推理课免费了，谷歌推理团队创始人主讲](https://www.qbitai.com/2025/07/312595.html)
+**发布时间**: 2025-07-25 08:25
+
+#### [不怕被挖！谷歌晒IMO金牌团队大合照，还挨个圈出了联系方式](https://www.qbitai.com/2025/07/312596.html)
+**发布时间**: 2025-07-25 08:17
+
+#### [AGI是否需要世界模型？顶级AI专家圆桌论道，清华求真书院主办](https://www.qbitai.com/2025/07/312585.html)
+**发布时间**: 2025-07-25 07:56
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications](https://research.google/blog/synthetic-and-federated-privacy-preserving-domain-adaptation-with-llms-for-mobile-applications/)
+**发布时间**: 2025-07-24 09:42
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 25 Jul 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Jul 2025 08:30:24 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 23:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 23:26:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nvidia Stock Hits Record after Alphabet Raises Capital Spending Outlook</title>
-      <link>https://www.tmtpost.com/7638106.html</link>
-      <description>&lt;![CDATA[Nvidia Stock Hits Record after Alphabet Raises Capital Spending Outlook]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638106.html</guid>
+      <title>国内120+AI Agent开发/构建平台大盘点（下）：流程管理、自动化、AI初创企业、垂直领域服务商推出的智能体平台</title>
+      <link>https://www.tmtpost.com/7637978.html</link>
+      <description>&lt;![CDATA[国内120+AI Agent开发/构建平台大盘点（下）：流程管理、自动化、AI初创企业、垂直领域服务商推出的智能体平台]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637978.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话云天励飞董事长陈宁：预计到2030年，每台设备都将内置AI推理芯片</title>
-      <link>https://www.tmtpost.com/7637113.html</link>
-      <description>&lt;![CDATA[对话云天励飞董事长陈宁：预计到2030年，每台设备都将内置AI推理芯片]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7637113.html</guid>
+      <title>“AI大神”李沐终于开源新模型，爆肝6个月，上线迅速斩获3.6k stars！</title>
+      <link>https://www.infoq.cn/article/rpFyC79BQfKgss9UqLJ7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“AI大神”李沐终于开源新模型，爆肝6个月，上线迅速斩获3.6k stars！]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rpFyC79BQfKgss9UqLJ7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美团王兴：3年狂投30家，中国具身智能最大金主</title>
-      <link>https://www.tmtpost.com/7637856.html</link>
-      <description>&lt;![CDATA[美团王兴：3年狂投30家，中国具身智能最大金主]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7637856.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>状态空间模型可以在低功耗边缘计算中实现AI</title>
-      <link>https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[状态空间模型可以在低功耗边缘计算中实现AI]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>.NET 10预览版6引入了Blazor增强、内存优化和SDK改进</title>
-      <link>https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[.NET 10预览版6引入了Blazor增强、内存优化和SDK改进]]&gt;</description>
+      <title>Trump’s Anti-Bias AI Order Is Just More Bias</title>
+      <link>https://www.wired.com/story/trump-ai-order-bias-openai-google/</link>
+      <description>&lt;![CDATA[Trump’s Anti-Bias AI Order Is Just More Bias]]&gt;</description>
       <pubDate>Fri, 25 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.wired.com/story/trump-ai-order-bias-openai-google/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>金山办公 AI 产品总监徐奕成确认出席 AICon 深圳，分享协同智能，多 Agent 驱动的内容创作新范式</title>
-      <link>https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[金山办公 AI 产品总监徐奕成确认出席 AICon 深圳，分享协同智能，多 Agent 驱动的内容创作新范式]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI学会“换脸”，疯狂围猎老人</title>
+      <link>https://www.tmtpost.com/7637527.html</link>
+      <description>&lt;![CDATA[AI学会“换脸”，疯狂围猎老人]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 19:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637527.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The Age-Checked Internet Has Arrived</title>
-      <link>https://www.wired.com/story/the-age-checked-internet-has-arrived/</link>
-      <description>&lt;![CDATA[The Age-Checked Internet Has Arrived]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/the-age-checked-internet-has-arrived/</guid>
+      <title>英特尔：大裁员后，美式 “中芯” 就是好终局？</title>
+      <link>https://www.tmtpost.com/7637771.html</link>
+      <description>&lt;![CDATA[英特尔：大裁员后，美式 “中芯” 就是好终局？]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7637771.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>特斯拉做得好极了，除了没卖好车</title>
-      <link>https://www.tmtpost.com/7637610.html</link>
-      <description>&lt;![CDATA[特斯拉做得好极了，除了没卖好车]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7637610.html</guid>
+      <title>DJI couldn’t confirm or deny it disguised this drone to evade a US ban</title>
+      <link>https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon</link>
+      <description>&lt;![CDATA[DJI couldn’t confirm or deny it disguised this drone to evade a US ban]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 20:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>几毛钱的芯片，利润直追英伟达</title>
-      <link>https://www.tmtpost.com/7637970.html</link>
-      <description>&lt;![CDATA[几毛钱的芯片，利润直追英伟达]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7637970.html</guid>
+      <title>还“遥遥领先”吗？懂车帝驶测试背后的中国辅助驾驶</title>
+      <link>https://www.tmtpost.com/7638424.html</link>
+      <description>&lt;![CDATA[还“遥遥领先”吗？懂车帝驶测试背后的中国辅助驾驶]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 19:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638424.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>South Korea Reported to Consider Over $100 Billion Investment to Strike Japan-Style Deal with U.S.</title>
-      <link>https://www.tmtpost.com/7638026.html</link>
-      <description>&lt;![CDATA[South Korea Reported to Consider Over $100 Billion Investment to Strike Japan-Style Deal with U.S.]]&gt;</description>
-      <pubDate>Fri, 25 Jul 2025 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638026.html</guid>
+      <title>Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis</title>
+      <link>https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/</link>
+      <description>&lt;![CDATA[Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 21:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>被捧高的CPO，没那么神</title>
+      <link>https://www.tmtpost.com/7638423.html</link>
+      <description>&lt;![CDATA[被捧高的CPO，没那么神]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 19:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638423.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>三年之约，相聚北京！邀您见证迈向“数据流通全栈技术生态”的全新隐语</title>
+      <link>https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[三年之约，相聚北京！邀您见证迈向“数据流通全栈技术生态”的全新隐语]]&gt;</description>
+      <pubDate>Fri, 25 Jul 2025 17:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-25 08:30
+**最后更新时间**: 2025-07-25 23:26
+
+---
+
+## 🆕 最新更新 (2025-07-25 23:26)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Wall Street's 'fear gauge' falls to lowest since February as stocks set records](https://www.marketwatch.com/bulletins/redirect/go?g=a6add55a-279c-41df-a70a-c0446b63bb25&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 22:44
+
+#### [As S&P 500 soars to record after record, the Dow’s been left behind. What gives?](https://www.marketwatch.com/bulletins/redirect/go?g=6c0a1146-00e4-4794-a474-34a124c6c1e9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 20:30
+
+#### [Dow ends up over 200 points, S&P 500 and Nasdaq close at record highs again](https://www.marketwatch.com/bulletins/redirect/go?g=0143d833-d22c-4f15-b0a0-8e4e82fb3def&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 20:03
+
+#### [Dow up over 200 points, S&P 500 and Nasdaq eye fresh records — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=99203403-bb88-42f9-8557-7383ffe24032&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 19:27
+
+#### [This chart shows how prices have gone up because of Trump’s tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=95a2d513-27e0-4ec5-bf7a-fb33f0beb62d&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 19:06
+
+#### [Planes are a key category as U.S. durable-goods orders slump](https://www.marketwatch.com/bulletins/redirect/go?g=7fc92cea-cd27-4276-8e30-3fa2ce0775f4&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 12:43
+
+#### [Why investors might be glad Mike Johnson sent the House home early](https://www.marketwatch.com/bulletins/redirect/go?g=7290a10c-caa9-4393-9627-ca33d7f3ae99&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 11:54
+
+#### [Economic calendar: Durable-goods orders close out the week’s data reports](https://www.marketwatch.com/bulletins/redirect/go?g=a7607c61-b6e0-45ee-9a39-b148785f5b88&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 10:55
+
+#### [Dow points higher, S&P 500, Nasdaq hint at more records ahead of Friday's open](https://www.marketwatch.com/bulletins/redirect/go?g=2f4faca5-3718-45a4-8889-9c447e582c87&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-25 09:27
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [S&P 500 scores 5th straight record high ahead of Europe-U.S. trade meeting](https://www.marketwatch.com/story/s-p-500-scores-5th-straight-record-high-ahead-of-europe-u-s-trade-meeting-a34e9c0d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 22:34
+
+#### [PayPal’s ‘battleground’ stock sees longest winning streak in years. Earnings are on deck.](https://www.marketwatch.com/story/paypals-battleground-stock-heads-for-longest-winning-streak-in-years-earnings-are-on-deck-e6b15f85?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 21:10
+
+#### [AutoNation’s stock rises as higher car prices help it beat sales and profit estimates](https://www.marketwatch.com/story/higher-car-prices-help-autonation-beat-sales-and-profit-estimates-and-its-stock-is-rising-0016a080?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 21:04
+
+#### [Is this the Nvidia of nuclear power? The stock has soared almost 400% in the past year.](https://www.marketwatch.com/story/this-nuclear-power-company-could-dominate-ai-data-centers-like-nvidia-does-with-chips-6be233e7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 20:35
+
+#### [Dow left behind as S&P 500 soars to record after record. What gives?](https://www.marketwatch.com/story/dow-left-behind-as-s-p-500-soars-to-record-after-record-what-gives-2c2e6bd4?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 20:29
+
+#### [The House is taking a summer break — and now the stock market can get to work](https://www.marketwatch.com/story/why-stock-investors-should-be-glad-that-house-lawmakers-are-taking-a-long-summer-recess-468516a9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 20:21
+
+#### [Charter’s Spectrum is bleeding subscribers — and the stock had its worst day ever](https://www.marketwatch.com/story/charter-is-bleeding-internet-subscribers-and-the-stock-could-see-its-worst-day-ever-6ad9b138?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 20:10
+
+#### [‘Vegas is not fun anymore’: $9 cups of coffee and pricier rooms are steering travelers away from the vacation mecca](https://www.marketwatch.com/story/vegas-is-not-fun-anymore-9-cups-of-coffee-and-pricier-rooms-are-steering-travelers-away-from-the-vacation-mecca-fc01db0d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 20:02
+
+#### [Social Security Administration quietly corrects blog on taxation of benefits — but confusion persists](https://www.marketwatch.com/story/social-security-administration-quietly-corrects-blog-on-taxation-of-benefits-but-confusion-persists-1f1beb1f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 18:42
+
+#### [Author Geraldine Brooks learned some hard personal-finance lessons when her husband died unexpectedly](https://www.marketwatch.com/story/author-geraldine-brooks-learned-some-hard-personal-finance-lessons-when-her-husband-died-unexpectedly-3b249d52?mod=mw_rss_topstories)
+**发布时间**: 2025-07-25 18:12
 
 ---
 

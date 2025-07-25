@@ -1,7 +1,155 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-25 08:29
+**最后更新时间**: 2025-07-25 23:26
+
+---
+
+## 🆕 最新更新 (2025-07-25 23:26)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“AI大神”李沐终于开源新模型，爆肝6个月，上线迅速斩获3.6k stars！](https://www.infoq.cn/article/rpFyC79BQfKgss9UqLJ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-26 07:00
+
+#### [996工作制席卷硅谷！招聘启事惊现“加班警告”：接受就是年薪翻倍+股权暴增，不接受就滚蛋](https://www.infoq.cn/article/RRIaEEdOsDPr4XKlevmX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 18:00
+
+#### [三年之约，相聚北京！邀您见证迈向“数据流通全栈技术生态”的全新隐语](https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-25 17:33
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger](https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed)
+**发布时间**: 2025-07-25 23:19
+
+#### [DJI couldn’t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
+**发布时间**: 2025-07-25 20:43
+
+#### [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)
+**发布时间**: 2025-07-25 19:52
+
+#### [Comcast&#8217;s fix for streaming service overload is in your cable box](https://www.theverge.com/news/714113/comcast-streamstore-xfinity-streaming-overload)
+**发布时间**: 2025-07-25 19:16
+
+#### [Breaking Bad creator’s new sci-fi show hits Apple in November](https://www.theverge.com/news/714080/pluribus-trailer-date-apple-tv-plus)
+**发布时间**: 2025-07-25 19:09
+
+#### [Facebook ranks worst for online harassment, according to a global activist survey](https://www.theverge.com/news/713976/online-harassment-meta-social-media-environmental-activists)
+**发布时间**: 2025-07-25 18:40
+
+#### [Anker is no longer selling 3D printers](https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake)
+**发布时间**: 2025-07-25 18:34
+
+#### [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+**发布时间**: 2025-07-25 18:20
+
+#### [You can now easily buy a Switch 2 without jumping through hoops](https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart)
+**发布时间**: 2025-07-25 18:00
+
+#### [Superman&#8217;s Fortress of Solitude is a Silver Age man cave inspired by nature&#8217;s beauty](https://www.theverge.com/film/713692/superman-interview-beth-mickle)
+**发布时间**: 2025-07-25 17:45
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis](https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/)
+**发布时间**: 2025-07-25 21:26
+
+#### [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)
+**发布时间**: 2025-07-25 18:40
+
+#### [Trump’s Anti-Bias AI Order Is Just More Bias](https://www.wired.com/story/trump-ai-order-bias-openai-google/)
+**发布时间**: 2025-07-25 15:00
+
+#### [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
+**发布时间**: 2025-07-25 13:03
+
+#### [Somnee Smart Sleep Headband Review: High-Tech Help](https://www.wired.com/review/somnee-sleep-headband/)
+**发布时间**: 2025-07-25 12:31
+
+#### [Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle](https://www.wired.com/review/samsung-galaxy-watch8-and-watch8-classic/)
+**发布时间**: 2025-07-25 12:00
+
+#### [5 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+**发布时间**: 2025-07-25 11:30
+
+#### [Anime Girl VTubers Are Selling Out Concerts, but Are They ‘Real’? Depends on Who You Ask](https://www.wired.com/story/anime-girl-vtubers-are-selling-out-concerts-but-are-they-real-depends-on-who-you-ask/)
+**发布时间**: 2025-07-25 11:00
+
+#### [The First Planned Migration of an Entire Country Is Underway](https://www.wired.com/story/the-first-planned-migration-of-an-entire-country-is-underway/)
+**发布时间**: 2025-07-25 09:00
+
+#### [1Password Coupon: Get Up to 50% Off in July](https://www.wired.com/story/1password-coupon/)
+**发布时间**: 2025-07-25 05:00
+
+#### [Apple AirPods Max (2020) Review: Insanely Great, Insanely Expensive](https://www.wired.com/review/apple-airpods-max/)
+**发布时间**: 2025-07-24 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海伦钢琴：股价抢跑被疑内幕交易，退市阴影下急卖身](https://www.tmtpost.com/7638555.html)
+**发布时间**: 2025-07-25 20:54
+
+#### [净利润持续下滑，乐山电力的“转型故事”还能热多久？](https://www.tmtpost.com/7638459.html)
+**发布时间**: 2025-07-25 19:44
+
+#### [无“超级剧王”登场，平台何以“卷”赢暑期档？](https://www.tmtpost.com/7638373.html)
+**发布时间**: 2025-07-25 19:29
+
+#### [特斯拉季绩“有点凉”，特朗普又来“神补刀”](https://www.tmtpost.com/7637812.html)
+**发布时间**: 2025-07-25 19:29
+
+#### [新势力们下一个主线任务：卖到100万辆，其他都是噪音](https://www.tmtpost.com/7637803.html)
+**发布时间**: 2025-07-25 19:25
+
+#### [英特尔：大裁员后，美式 “中芯” 就是好终局？](https://www.tmtpost.com/7637771.html)
+**发布时间**: 2025-07-25 19:24
+
+#### [小鹏校准 SUV 产品线，G6 摸索降本、降价方案](https://www.tmtpost.com/7637485.html)
+**发布时间**: 2025-07-25 19:22
+
+#### [AI学会“换脸”，疯狂围猎老人](https://www.tmtpost.com/7637527.html)
+**发布时间**: 2025-07-25 19:22
+
+#### [梦龙折戟，Gelato反攻：谁在重新定义“高端冰淇淋”](https://www.tmtpost.com/7637734.html)
+**发布时间**: 2025-07-25 19:22
+
+#### [坐拥三千亿市场：网文改编，鹿死谁手？](https://www.tmtpost.com/7637996.html)
+**发布时间**: 2025-07-25 19:21
+
+#### [还“遥遥领先”吗？懂车帝驶测试背后的中国辅助驾驶](https://www.tmtpost.com/7638424.html)
+**发布时间**: 2025-07-25 19:21
+
+#### [被捧高的CPO，没那么神](https://www.tmtpost.com/7638423.html)
+**发布时间**: 2025-07-25 19:21
+
+#### [越开越多餐厅，正在抛弃包间](https://www.tmtpost.com/7638044.html)
+**发布时间**: 2025-07-25 19:21
+
+#### [日本Seven银行们的颠覆性启示：谁来拯救低利率时代？](https://www.tmtpost.com/7638124.html)
+**发布时间**: 2025-07-25 19:21
+
+#### [外卖大战正酣，抖音何故缺席？](https://www.tmtpost.com/7638349.html)
+**发布时间**: 2025-07-25 19:21
+
+#### [国内120+AI Agent开发/构建平台大盘点（下）：流程管理、自动化、AI初创企业、垂直领域服务商推出的智能体平台](https://www.tmtpost.com/7637978.html)
+**发布时间**: 2025-07-25 19:01
+
+#### [中国最火机器人公司，要去A股敲锣了？](https://www.tmtpost.com/7635295.html)
+**发布时间**: 2025-07-25 19:01
+
+#### [干洗业在传统与变革的锋刃上展开“暗战”](https://www.tmtpost.com/7635883.html)
+**发布时间**: 2025-07-25 19:01
+
+#### [俄罗斯娜娜“洗白史”：从抽象女王到天降紫微星](https://www.tmtpost.com/7638075.html)
+**发布时间**: 2025-07-25 19:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101347)
+**发布时间**: 2025-07-25 17:32
+
+#### [具透 | iOS 26 Public Beta 终于来了，升级以后记得试试这些功能](https://sspai.com/post/101311)
+**发布时间**: 2025-07-25 16:00
 
 ---
 
