@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Jul 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Jul 2025 05:24:21 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 08:27:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>使DeepSeek模型推理加速150%，摩尔线程首次提出“AI工厂”｜直击WAIC 2025</title>
-      <link>https://www.tmtpost.com/7638237.html</link>
-      <description>&lt;![CDATA[使DeepSeek模型推理加速150%，摩尔线程首次提出“AI工厂”｜直击WAIC 2025]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638237.html</guid>
+      <title>淘宝在泰国推出泰语版；小鹏汽车海外首个智造基地投产；京东拟以185亿元收购德国消费电子零售商｜一周大公司出海动态</title>
+      <link>https://www.tmtpost.com/7638946.html</link>
+      <description>&lt;![CDATA[淘宝在泰国推出泰语版；小鹏汽车海外首个智造基地投产；京东拟以185亿元收购德国消费电子零售商｜一周大公司出海动态]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638946.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WAIC2025 开幕，规模创历届之最；宇树发布第三款人形机器人；上海警方通报饿了么原 CEO 受贿案｜极客早知道</title>
-      <link>http://www.geekpark.net/news/351930</link>
-      <description>&lt;![CDATA[WAIC2025 开幕，规模创历届之最；宇树发布第三款人形机器人；上海警方通报饿了么原 CEO 受贿案｜极客早知道]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/351930</guid>
+      <title>失去三十年的日本，能成为AI SaaS出海的“理想国”么？｜ 出海参考</title>
+      <link>https://www.tmtpost.com/7638558.html</link>
+      <description>&lt;![CDATA[失去三十年的日本，能成为AI SaaS出海的“理想国”么？｜ 出海参考]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638558.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>四大“上海英伟达”CEO罕见聚首，阶跃星辰获融资且年营收目标10亿</title>
-      <link>https://www.tmtpost.com/7638829.html</link>
-      <description>&lt;![CDATA[四大“上海英伟达”CEO罕见聚首，阶跃星辰获融资且年营收目标10亿]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638829.html</guid>
+      <title>阿里巴巴公布首款自研 AI 眼镜研发进展：出自夸克融合通义大模型，还要打通阿里全家桶</title>
+      <link>https://www.tmtpost.com/7638961.html</link>
+      <description>&lt;![CDATA[阿里巴巴公布首款自研 AI 眼镜研发进展：出自夸克融合通义大模型，还要打通阿里全家桶]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638961.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Robotaxi墙外开花墙内香，打翻Uber与滴滴的旧饭碗？</title>
-      <link>https://www.tmtpost.com/7638465.html</link>
-      <description>&lt;![CDATA[Robotaxi墙外开花墙内香，打翻Uber与滴滴的旧饭碗？]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638465.html</guid>
+      <title>“AI教父”辛顿、沈向洋等大咖启幕WAIC 2025：人应该管得到机器，而非机器管人</title>
+      <link>https://www.tmtpost.com/7638909.html</link>
+      <description>&lt;![CDATA[“AI教父”辛顿、沈向洋等大咖启幕WAIC 2025：人应该管得到机器，而非机器管人]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638909.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The Rise of China’s Machine Tool Industry Despite the West's Export Restrictions</title>
-      <link>https://www.tmtpost.com/7638913.html</link>
-      <description>&lt;![CDATA[The Rise of China’s Machine Tool Industry Despite the West's Export Restrictions]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 12:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638913.html</guid>
+      <title>打个螺丝“打穿”朋友圈，小游戏流量正悄悄重构</title>
+      <link>https://www.tmtpost.com/7638923.html</link>
+      <description>&lt;![CDATA[打个螺丝“打穿”朋友圈，小游戏流量正悄悄重构]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7638923.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克的“三体计划”，救不了当下的特斯拉</title>
-      <link>https://www.tmtpost.com/7638078.html</link>
-      <description>&lt;![CDATA[马斯克的“三体计划”，救不了当下的特斯拉]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638078.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>特斯拉是赢了，但不是真相的全部</title>
-      <link>http://www.huxiu.com/article/4619160.html?f=wangzhan</link>
-      <description>&lt;![CDATA[特斯拉是赢了，但不是真相的全部]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 08:08:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4619160.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>亚马逊云科技推出全新无风险账户计划，免费积分升级</title>
-      <link>https://www.infoq.cn/article/ilAozwJFDDBbqLTZqDza?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出全新无风险账户计划，免费积分升级]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ilAozwJFDDBbqLTZqDza?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2025光伏半年会侧记：革命尚未成功，仍须加油努力</title>
-      <link>https://www.tmtpost.com/7638724.html</link>
-      <description>&lt;![CDATA[2025光伏半年会侧记：革命尚未成功，仍须加油努力]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638724.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Trump Expects 200 More Letters Dictating Tariffs, Doubts U.S.-Canada Deal By Deadline</title>
-      <link>https://www.tmtpost.com/7638936.html</link>
-      <description>&lt;![CDATA[Trump Expects 200 More Letters Dictating Tariffs, Doubts U.S.-Canada Deal By Deadline]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7638936.html</guid>
+      <title>一日一技 | 如何用命令行将音乐转码到 iTunes Plus AAC</title>
+      <link>https://sspai.com/post/101340</link>
+      <description>&lt;![CDATA[一日一技 | 如何用命令行将音乐转码到 iTunes Plus AAC]]&gt;</description>
+      <pubDate>Sat, 26 Jul 2025 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/101340</guid>
       <category>Technology</category>
     </item>
   </channel>
