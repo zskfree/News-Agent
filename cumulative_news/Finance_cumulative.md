@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-25 23:26
+**最后更新时间**: 2025-07-26 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-26 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [He’s seen enough bull markets to be worried now. But this veteran investor still likes these stocks.](https://www.marketwatch.com/story/a-tariff-fueled-market-correction-worries-this-veteran-strategist-but-he-still-likes-these-big-tech-and-ai-stocks-722ed24f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-26 18:18
+
+#### [‘I’m considering giving up my U.S. citizenship’: I’m 39 and moving to the U.K. How should I invest my $30K savings?](https://www.marketwatch.com/story/im-considering-giving-up-my-u-s-citizenship-im-moving-to-the-u-k-what-should-i-do-with-30-000-cash-34913ce9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-26 18:15
+
+#### [This popular market index hit its peak four years ago. What this means for stocks.](https://www.marketwatch.com/story/market-indexes-are-at-all-time-highs-except-this-one-what-this-means-for-stocks-ae9925c3?mod=mw_rss_topstories)
+**发布时间**: 2025-07-26 17:26
+
+#### [Is this a good time to invest in the S&P 500? I’m 66, retired and have $700K.](https://www.marketwatch.com/story/i-have-no-debts-is-this-a-good-time-to-invest-in-the-s-p-500-im-66-retired-and-have-700k-3439a13e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-26 16:56
+
+#### [This one money move guarantees you inflation-proof income in retirement](https://www.marketwatch.com/story/this-one-money-move-guarantees-you-inflation-proof-income-in-retirement-3ccde62f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-26 16:17
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump’s push for cane sugar in Coke spotlights a sensitive sweetener market](https://www.marketwatch.com/bulletins/redirect/go?g=fa5c917c-eb6e-43d4-9a4e-346654304431&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-26 14:33
+
+#### [Tesla needs a blockbuster to break sales slump. Is a pared-down Model Y enough?](https://www.marketwatch.com/bulletins/redirect/go?g=5c9319f8-f577-424a-96ce-5ea003868a34&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-26 13:18
 
 ---
 

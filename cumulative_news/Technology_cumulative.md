@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-26 08:27
+**最后更新时间**: 2025-07-26 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-26 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阶跃星辰发布新一代基模Step 3，国产芯推理效率最高达DeepSeek三倍，几天后开源！](https://www.infoq.cn/article/9iShP2YKYqs7AuWsd9IF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-26 21:07
+
+#### [“AI 教父”Geoffrey Hinton首度在华演讲：AI恰似一只小虎崽，而人类本身是大语言模型？](https://www.infoq.cn/article/LXyE00rSTwruADsRmAZW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-26 20:56
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [具身智能，京东美团的下一个外部战场](https://www.tmtpost.com/7638920.html)
+**发布时间**: 2025-07-26 17:39
+
+#### [年轻人爱上“微醺”，却没爱上三得利](https://www.tmtpost.com/7638935.html)
+**发布时间**: 2025-07-26 17:39
+
+#### [我们这代人，正在“被失业”](https://www.tmtpost.com/7638968.html)
+**发布时间**: 2025-07-26 17:39
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+**发布时间**: 2025-07-26 14:03
+
+#### [CookUnity Prepared Meal Delivery Review (2025): Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery/)
+**发布时间**: 2025-07-26 13:36
+
+#### [Razer Pro Click V2 Vertical Review: A Hybrid Gaming Mouse](https://www.wired.com/review/razer-pro-click-v2-vertical/)
+**发布时间**: 2025-07-26 13:00
+
+#### [Nemo Dagger Osmo Tent Review (2025): 2-Person Backcountry Palace](https://www.wired.com/review/nemo-dagger-osmo-tent-2025/)
+**发布时间**: 2025-07-26 12:32
+
+#### [Best Breast Pumps (2025): Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
+**发布时间**: 2025-07-26 12:02
+
+#### [The 21 Best Movies on Amazon Prime Right Now (August 2025)](https://www.wired.com/story/best-amazon-prime-movies/)
+**发布时间**: 2025-07-26 11:00
+
+#### [The Texas Floods Were a Preview of What’s to Come](https://www.wired.com/story/kerr-countys-tragic-flood-wasnt-an-outlier-it-was-a-preview/)
+**发布时间**: 2025-07-26 11:00
+
+#### [Do You Need a Barbecue Knife?](https://www.wired.com/story/do-you-need-a-barbecue-knife/)
+**发布时间**: 2025-07-26 10:30
+
+#### [60 Italian Mayors Want to Be the Unlikely Solution to Self-Driving Cars in Europe](https://www.wired.com/story/60-italian-mayors-want-to-be-the-unlikely-solution-to-self-driving-cars-in-europe/)
+**发布时间**: 2025-07-26 10:00
+
+#### [Gear News of the Week: Amazon Buys Bee, VSCO Has a New App, and CMF Debuts a Smartwatch](https://www.wired.com/story/gear-news-of-the-week-amazon-buys-bee-vsco-has-a-new-app-and-cmf-debuts-a-smartwatch/)
+**发布时间**: 2025-07-26 09:32
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Here are the laptops I’d tell any parent to consider for their back-to-school student](https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students)
+**发布时间**: 2025-07-26 14:00
+
+#### [Online MAGA cope is now Congressional strategy](https://www.theverge.com/politics/714144/epstein-files-maga-trump-influencers-congress)
+**发布时间**: 2025-07-26 13:30
+
+#### [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)
+**发布时间**: 2025-07-26 13:00
+
+#### [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)
+**发布时间**: 2025-07-26 12:30
+
+#### [Inside the struggle to create a cozy Lord of the Rings game](https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop)
+**发布时间**: 2025-07-26 12:00
 
 ---
 
