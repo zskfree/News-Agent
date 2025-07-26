@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-25 23:26
+**最后更新时间**: 2025-07-26 05:23
+
+---
+
+## 🆕 最新更新 (2025-07-26 05:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Trump Expects 200 More Letters Dictating Tariffs, Doubts U.S.-Canada Deal By Deadline](https://www.tmtpost.com/7638936.html)
+**发布时间**: 2025-07-26 12:48
+
+#### [The Rise of China’s Machine Tool Industry Despite the West's Export Restrictions](https://www.tmtpost.com/7638913.html)
+**发布时间**: 2025-07-26 12:18
+
+#### [欧莱雅携手中国国家博物馆「美之道·循径至美」项目启幕；酵色首家海外线下专卖店亮相新加坡；SnowPeak关闭杭州门店｜消研所周报](https://www.tmtpost.com/7638311.html)
+**发布时间**: 2025-07-26 11:57
+
+#### [Trump Eyes Potential Big Deal Ahead of His Meeting with EU Head This Weekend](https://www.tmtpost.com/7638897.html)
+**发布时间**: 2025-07-26 11:54
+
+#### [四大“上海英伟达”CEO罕见聚首，阶跃星辰获融资且年营收目标10亿](https://www.tmtpost.com/7638829.html)
+**发布时间**: 2025-07-26 11:15
+
+#### [使DeepSeek模型推理加速150%，摩尔线程首次提出“AI工厂”｜直击WAIC 2025](https://www.tmtpost.com/7638237.html)
+**发布时间**: 2025-07-26 10:50
+
+#### [中国民营企业接班哲学](https://www.tmtpost.com/7638641.html)
+**发布时间**: 2025-07-26 09:55
+
+#### [丰田该对特朗普说谢谢](https://www.tmtpost.com/7638537.html)
+**发布时间**: 2025-07-26 09:54
+
+#### [Robotaxi墙外开花墙内香，打翻Uber与滴滴的旧饭碗？](https://www.tmtpost.com/7638465.html)
+**发布时间**: 2025-07-26 09:35
+
+#### [68倍PE，凯赛生物值不值？](https://www.tmtpost.com/7638595.html)
+**发布时间**: 2025-07-26 09:13
+
+#### [斗罗还真就成「独苗」了](https://www.tmtpost.com/7638697.html)
+**发布时间**: 2025-07-26 09:10
+
+#### [中慧生物IPO：流感疫苗每针319元，拒绝价格内卷，能逃离产业寒冬吗？](https://www.tmtpost.com/7638600.html)
+**发布时间**: 2025-07-26 08:55
+
+#### [2025光伏半年会侧记：革命尚未成功，仍须加油努力](https://www.tmtpost.com/7638724.html)
+**发布时间**: 2025-07-26 08:55
+
+#### [高光褪色，加拿大鹅为何跌入寒流？](https://www.tmtpost.com/7638619.html)
+**发布时间**: 2025-07-26 08:54
+
+#### [4400万失能老人，要不要洗澡？](https://www.tmtpost.com/7638610.html)
+**发布时间**: 2025-07-26 08:54
+
+#### [马斯克的“三体计划”，救不了当下的特斯拉](https://www.tmtpost.com/7638078.html)
+**发布时间**: 2025-07-26 08:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [WAIC2025 开幕，规模创历届之最；宇树发布第三款人形机器人；上海警方通报饿了么原 CEO 受贿案｜极客早知道](http://www.geekpark.net/news/351930)
+**发布时间**: 2025-07-26 09:07
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特斯拉是赢了，但不是真相的全部](http://www.huxiu.com/article/4619160.html?f=wangzhan)
+**发布时间**: 2025-07-26 08:08
+
+#### [马斯克要和雷军李想玩命](http://www.huxiu.com/article/4617890.html?f=wangzhan)
+**发布时间**: 2025-07-25 22:08
+
+#### [去了印尼，名创优品秒变轻奢，蜜雪冰城身价暴涨？](http://www.huxiu.com/article/4617534.html?f=wangzhan)
+**发布时间**: 2025-07-25 16:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技推出全新无风险账户计划，免费积分升级](https://www.infoq.cn/article/ilAozwJFDDBbqLTZqDza?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-26 08:00
 
 ---
 
