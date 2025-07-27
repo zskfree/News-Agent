@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-26 23:21
+**最后更新时间**: 2025-07-27 05:31
+
+---
+
+## 🆕 最新更新 (2025-07-27 05:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国内首颗端边大模型存算一体AI芯片发布，后摩智能吴强：具身机器人发展处于早期](https://www.tmtpost.com/7639201.html)
+**发布时间**: 2025-07-27 13:12
+
+#### [当AI具备“望、闻、问、切”，3分钟完成问诊](https://www.tmtpost.com/7639138.html)
+**发布时间**: 2025-07-27 10:08
+
+#### [阿里巴巴：人到中年](https://www.tmtpost.com/7638707.html)
+**发布时间**: 2025-07-27 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 新设计、桌面化……iPadOS 26 中你值得关注的新功能](https://sspai.com/post/101027)
+**发布时间**: 2025-07-27 11:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [全新 AI 消息模型：Apache RocketMQ 如何让 AI 应用拥抱事件驱动架构？](https://www.infoq.cn/article/dAzUHI7RjwgdvtXatHMP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-27 10:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Anthropic 最新估值超 1500 亿美元；首款国产消费级 6nm GPU 亮相；100% 预防艾滋神药获准上市](http://www.geekpark.net/news/351939)
+**发布时间**: 2025-07-27 09:00
 
 ---
 

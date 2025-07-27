@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Jul 2025 23:22:02 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 05:31:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>尖峰对话17分钟全记录：Hinton与周伯文的思想碰撞</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-11</link>
-      <description>&lt;![CDATA[尖峰对话17分钟全记录：Hinton与周伯文的思想碰撞]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 23:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-11</guid>
+      <title>阿里模型三连发闪耀WAIC，中国开源模型“周级迭代”引领AI新变革</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-27-2</link>
+      <description>&lt;![CDATA[阿里模型三连发闪耀WAIC，中国开源模型“周级迭代”引领AI新变革]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-27-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>图灵奖得主Hinton国内首次现身演讲：AI超越人类后，我们该怎么做</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-3</link>
-      <description>&lt;![CDATA[图灵奖得主Hinton国内首次现身演讲：AI超越人类后，我们该怎么做]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-3</guid>
+      <title>WAIC 2025：斑马智行联合通义及高通发布主动智能AI新技术</title>
+      <link>https://www.qbitai.com/2025/07/313307.html</link>
+      <description>&lt;![CDATA[WAIC 2025：斑马智行联合通义及高通发布主动智能AI新技术]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 04:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313307.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>非Transformer架构落地之王，带着离线智能和原生记忆能力在上海WAIC浮出水面</title>
-      <link>https://www.qbitai.com/2025/07/313043.html</link>
-      <description>&lt;![CDATA[非Transformer架构落地之王，带着离线智能和原生记忆能力在上海WAIC浮出水面]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313043.html</guid>
+      <title>Soul携全双工语音通话大模型亮相WAIC，技术创新驱动AI社交再升级</title>
+      <link>https://www.qbitai.com/2025/07/313249.html</link>
+      <description>&lt;![CDATA[Soul携全双工语音通话大模型亮相WAIC，技术创新驱动AI社交再升级]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 04:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313249.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT4核心成员、清华校友赵晟佳任Meta超级智能实验室首席科学家</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-2</link>
-      <description>&lt;![CDATA[GPT4核心成员、清华校友赵晟佳任Meta超级智能实验室首席科学家]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-2</guid>
+      <title>软硬结合、穿越周期，出门问问携TicNote艺术展亮相WAIC 2025</title>
+      <link>https://www.qbitai.com/2025/07/313275.html</link>
+      <description>&lt;![CDATA[软硬结合、穿越周期，出门问问携TicNote艺术展亮相WAIC 2025]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 04:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313275.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025 | CoTo：让LoRA训练「渐入佳境」，模型融合、剪枝样样精通</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-9</link>
-      <description>&lt;![CDATA[ICML 2025 | CoTo：让LoRA训练「渐入佳境」，模型融合、剪枝样样精通]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 23:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-9</guid>
+      <title>当 AI 与数学在上海相遇：2025 WAIC背后的智慧革命</title>
+      <link>https://www.qbitai.com/2025/07/313250.html</link>
+      <description>&lt;![CDATA[当 AI 与数学在上海相遇：2025 WAIC背后的智慧革命]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 04:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313250.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>千里科技联手阶跃星辰、吉利发布下一代智能座舱Agent OS</title>
-      <link>https://www.qbitai.com/2025/07/313200.html</link>
-      <description>&lt;![CDATA[千里科技联手阶跃星辰、吉利发布下一代智能座舱Agent OS]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313200.html</guid>
+      <title>B站亮相2025世界人工智能大会，发布最受年轻人关注的TOP30 AI应用</title>
+      <link>https://www.qbitai.com/2025/07/313236.html</link>
+      <description>&lt;![CDATA[B站亮相2025世界人工智能大会，发布最受年轻人关注的TOP30 AI应用]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 03:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313236.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>国产GPU跑满血DeepSeek，已经可以100 tokens/s了！</title>
-      <link>https://www.qbitai.com/2025/07/313113.html</link>
-      <description>&lt;![CDATA[国产GPU跑满血DeepSeek，已经可以100 tokens/s了！]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313113.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>手机AGI助手还有多远？移动智能体复合长程任务测试基准与调度系统发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-5</link>
-      <description>&lt;![CDATA[手机AGI助手还有多远？移动智能体复合长程任务测试基准与调度系统发布]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>实测爆火的阶跃星辰Step 3，性能SOTA，开源多模态推理之王</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-4</link>
-      <description>&lt;![CDATA[实测爆火的阶跃星辰Step 3，性能SOTA，开源多模态推理之王]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>千寻位置与国地中心携手发布首款“时空算力背包”，助力机器人从室内走向室外</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-26-7</link>
-      <description>&lt;![CDATA[千寻位置与国地中心携手发布首款“时空算力背包”，助力机器人从室内走向室外]]&gt;</description>
-      <pubDate>Sat, 26 Jul 2025 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-26-7</guid>
+      <title>Hinton上海对话周伯文：多模态聊天机器人已经具有意识</title>
+      <link>https://www.qbitai.com/2025/07/313202.html</link>
+      <description>&lt;![CDATA[Hinton上海对话周伯文：多模态聊天机器人已经具有意识]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 01:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313202.html</guid>
       <category>AI</category>
     </item>
   </channel>
