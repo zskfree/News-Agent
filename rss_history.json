@@ -6384,6 +6384,18 @@
         "link": "https://www.qbitai.com/2025/07/313202.html",
         "published_date": "Sun, 27 Jul 2025 01:42:00 GMT",
         "first_seen": "2025-07-27T05:31:45.653680"
+      },
+      "037db59beb78d11277b0510a5e44d12a95aa565caa53ef1fa369e8b40ba73409": {
+        "title": "中科闻歌发布决策智能操作系统DIOS Infra，从数据到决策，打造企业级AI全栈技术基础设施",
+        "link": "https://www.qbitai.com/2025/07/313457.html",
+        "published_date": "Sun, 27 Jul 2025 07:26:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.804143"
+      },
+      "8305c972adc9d1a839022a8c8023c88ce32e0b4f9cdc9cdd8f354f857e69d835": {
+        "title": "比亚迪14万开卖全能家用SUV：配齐冰箱大沙发，智能泊车兜底“三不限”",
+        "link": "https://www.qbitai.com/2025/07/312970.html",
+        "published_date": "Sun, 27 Jul 2025 07:25:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.804284"
       }
     },
     "Technology": {
@@ -16598,6 +16610,48 @@
         "link": "http://www.geekpark.net/news/351939",
         "published_date": "Sun, 27 Jul 2025 09:00:00 GMT",
         "first_seen": "2025-07-27T05:31:45.600279"
+      },
+      "2c5b4ca48ec7756be2c4d46c6366f75f079f17aa062866db0f87357f577a99a8": {
+        "title": "“你的下一台电脑何必是电脑”，华为领先苹果半步？",
+        "link": "https://www.tmtpost.com/7639261.html",
+        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.759979"
+      },
+      "4ee08b647fc8819ed5458c6ead8f4b93c916209fc1ef9f438e6b7e51905c9bc4": {
+        "title": "协议转让+要约收购：A股控制权交易的主流进化",
+        "link": "https://www.tmtpost.com/7639309.html",
+        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.760143"
+      },
+      "64fa87975cfd8c20861a07ff3441c691d7aecf3ddb1160bcf792e232c68eeec3": {
+        "title": "我看广告公司的数字化转型：阳狮的教科书和WPP的错题集",
+        "link": "https://www.tmtpost.com/7639328.html",
+        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.760311"
+      },
+      "c885b3e3990119ae673c0eb9435d92055e550af94b414b58817058398c51a277": {
+        "title": "啤酒巨头中年危机，1300亿精酿围城，谁能破局同质化内卷？",
+        "link": "https://www.tmtpost.com/7639369.html",
+        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.760499"
+      },
+      "bfe4c7efa703af6378bbf7c35f383e0fba875685dc51315c261521305eee3004": {
+        "title": "训练效率提升25%、成本降23%！上海期智研究院、算秩未来联合推出MegatronApp：专为万亿参数大模型训练打造的系统工具包",
+        "link": "https://www.infoq.cn/article/Rhi9BEBzoNEJte8o6x6X?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 27 Jul 2025 16:00:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.760891"
+      },
+      "1322fbf9cf436999afd5e166e77ea86f15ab183752c5d2ffba1e3b72353e5c8e": {
+        "title": "在海外构建一个能够立即商业化的AI  应用，至少需要多少IT成本？",
+        "link": "https://www.infoq.cn/article/slRcQYlF9WVcwrTlkNrQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 27 Jul 2025 15:53:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.761204"
+      },
+      "981b44e98b55c1796569e3a3a0a8056538900cfbf6fa3108e0b0fc4ab003d5eb": {
+        "title": "从京东内部走出的开源Agent，能成为标准定义者吗？",
+        "link": "https://www.infoq.cn/article/dkAAijdgJwo8ipM2juyg?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 27 Jul 2025 15:47:00 GMT",
+        "first_seen": "2025-07-27T08:32:15.761547"
       }
     },
     "Finance": {
@@ -18866,8 +18920,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-07-27T05:31:45.661032",
-    "Technology": "2025-07-27T05:31:45.624180",
-    "Finance": "2025-07-27T05:31:45.673427"
+    "AI": "2025-07-27T08:32:15.811271",
+    "Technology": "2025-07-27T08:32:15.776513",
+    "Finance": "2025-07-27T08:32:15.823318"
   }
 }

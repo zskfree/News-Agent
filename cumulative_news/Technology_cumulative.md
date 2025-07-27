@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-27 05:31
+**最后更新时间**: 2025-07-27 08:32
+
+---
+
+## 🆕 最新更新 (2025-07-27 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“你的下一台电脑何必是电脑”，华为领先苹果半步？](https://www.tmtpost.com/7639261.html)
+**发布时间**: 2025-07-27 16:02
+
+#### [协议转让+要约收购：A股控制权交易的主流进化](https://www.tmtpost.com/7639309.html)
+**发布时间**: 2025-07-27 16:02
+
+#### [我看广告公司的数字化转型：阳狮的教科书和WPP的错题集](https://www.tmtpost.com/7639328.html)
+**发布时间**: 2025-07-27 16:02
+
+#### [啤酒巨头中年危机，1300亿精酿围城，谁能破局同质化内卷？](https://www.tmtpost.com/7639369.html)
+**发布时间**: 2025-07-27 16:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [训练效率提升25%、成本降23%！上海期智研究院、算秩未来联合推出MegatronApp：专为万亿参数大模型训练打造的系统工具包](https://www.infoq.cn/article/Rhi9BEBzoNEJte8o6x6X?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-27 16:00
+
+#### [在海外构建一个能够立即商业化的AI  应用，至少需要多少IT成本？](https://www.infoq.cn/article/slRcQYlF9WVcwrTlkNrQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-27 15:53
+
+#### [从京东内部走出的开源Agent，能成为标准定义者吗？](https://www.infoq.cn/article/dkAAijdgJwo8ipM2juyg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-27 15:47
 
 ---
 
