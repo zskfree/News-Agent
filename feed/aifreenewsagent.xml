@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 27 Jul 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Jul 2025 08:32:15 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 23:22:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中科闻歌发布决策智能操作系统DIOS Infra，从数据到决策，打造企业级AI全栈技术基础设施</title>
-      <link>https://www.qbitai.com/2025/07/313457.html</link>
-      <description>&lt;![CDATA[中科闻歌发布决策智能操作系统DIOS Infra，从数据到决策，打造企业级AI全栈技术基础设施]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 07:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313457.html</guid>
+      <title>菲尔兹奖得主深度参与，WAIC全方位探讨「AI for Math」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-27-9</link>
+      <description>&lt;![CDATA[菲尔兹奖得主深度参与，WAIC全方位探讨「AI for Math」]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 22:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-27-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>比亚迪14万开卖全能家用SUV：配齐冰箱大沙发，智能泊车兜底“三不限”</title>
-      <link>https://www.qbitai.com/2025/07/312970.html</link>
-      <description>&lt;![CDATA[比亚迪14万开卖全能家用SUV：配齐冰箱大沙发，智能泊车兜底“三不限”]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 07:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/312970.html</guid>
+      <title>ACL 2025｜驱动LLM强大的过程级奖励模型（PRMs）正遭遇「信任危机」？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-27-4</link>
+      <description>&lt;![CDATA[ACL 2025｜驱动LLM强大的过程级奖励模型（PRMs）正遭遇「信任危机」？]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-27-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>你的AI管家可能正在「拆家」？最新研究揭秘家⽤具⾝智能体的安全漏洞</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-27-6</link>
+      <description>&lt;![CDATA[你的AI管家可能正在「拆家」？最新研究揭秘家⽤具⾝智能体的安全漏洞]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-27-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>世界人工智能大会:分子之心发布10大解决方案  AI蛋白设计迈入“可编程”时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-27-3</link>
+      <description>&lt;![CDATA[世界人工智能大会:分子之心发布10大解决方案  AI蛋白设计迈入“可编程”时代]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-27-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型隐私安全和公平性有“跷跷板”效应，最佳平衡法则刚刚找到</title>
+      <link>https://www.qbitai.com/2025/07/313597.html</link>
+      <description>&lt;![CDATA[大模型隐私安全和公平性有“跷跷板”效应，最佳平衡法则刚刚找到]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313597.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百元级硬件流畅运行百亿参数大模型！上交&amp;本智激活开源端侧原生大模型</title>
+      <link>https://www.qbitai.com/2025/07/313482.html</link>
+      <description>&lt;![CDATA[百元级硬件流畅运行百亿参数大模型！上交&amp;本智激活开源端侧原生大模型]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313482.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>100行代码打造迷你编程Agent：修复65%真项目bug，适配所有大模型</title>
+      <link>https://www.qbitai.com/2025/07/313509.html</link>
+      <description>&lt;![CDATA[100行代码打造迷你编程Agent：修复65%真项目bug，适配所有大模型]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313509.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>PPIO亮相WAIC 2025，重磅推出国内首个Agentic AI基础设施服务平台</title>
+      <link>https://www.qbitai.com/2025/07/313598.html</link>
+      <description>&lt;![CDATA[PPIO亮相WAIC 2025，重磅推出国内首个Agentic AI基础设施服务平台]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313598.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI遇上华夏上古，复旦、上智院、上海创智学院联合发布早期中华文明多模态大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-27-8</link>
+      <description>&lt;![CDATA[AI遇上华夏上古，复旦、上智院、上海创智学院联合发布早期中华文明多模态大模型]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 22:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-27-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>北航高低无人机协同导航方案：高空掌全局+低空查细节</title>
+      <link>https://www.qbitai.com/2025/07/313729.html</link>
+      <description>&lt;![CDATA[北航高低无人机协同导航方案：高空掌全局+低空查细节]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313729.html</guid>
       <category>AI</category>
     </item>
   </channel>

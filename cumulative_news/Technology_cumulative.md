@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-27 08:32
+**最后更新时间**: 2025-07-27 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-27 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MiniMax创始人闫俊杰：AI 强大无尽头难被一家垄断，以后研发都不烧钱了？](https://www.infoq.cn/article/ROASwHu2fHkaosLmAhZb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-27 22:20
+
+#### [两年半日均调用量暴涨1000倍！阿里国际张凯夫：最通用或最垂直都可以，就怕卡中间](https://www.infoq.cn/article/lijg2giyobrDy0IGoa8m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-27 21:47
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI Agent 第一波浪潮过后，OPPO 是怎么闷声做出第一个爆款的？](http://www.geekpark.net/news/351959)
+**发布时间**: 2025-07-27 20:17
+
+#### [Vibe Coding 开赛，阿里靠新模型赢麻了？](http://www.geekpark.net/news/351958)
+**发布时间**: 2025-07-27 20:13
+
+#### [WAIC 2025：AI 肯定继续成长，避免变成「终极反派」是人类难题](http://www.geekpark.net/news/351951)
+**发布时间**: 2025-07-27 16:59
+
+#### [离线智能，什么时候迎来 DeepSeek 时刻？](http://www.geekpark.net/news/351945)
+**发布时间**: 2025-07-27 16:35
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“厨电第一股”成落后生，方太、老板为啥不带它玩了？](https://www.tmtpost.com/7639437.html)
+**发布时间**: 2025-07-27 19:59
+
+#### [【科股宝VIP周刊】大厂AI新品相继发布，众业态不“卷”方能高质量发展](https://www.tmtpost.com/7639198.html)
+**发布时间**: 2025-07-27 19:54
+
+#### [铂爵失联倒闭，“旅拍”品类或将消亡 | 马上评](https://www.tmtpost.com/7639479.html)
+**发布时间**: 2025-07-27 18:42
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Fujifilm X-E5 proves familiar isn’t always a bad thing](https://www.theverge.com/tech/714141/fujifilm-x-e5-camera-review)
+**发布时间**: 2025-07-27 17:47
+
+#### [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
+**发布时间**: 2025-07-27 14:00
+
+#### [Apple beta season is here](https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer)
+**发布时间**: 2025-07-27 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Qi2 Wireless Charging: Everything You Need to Know (2025)](https://www.wired.com/story/what-is-qi2-wireless-charging/)
+**发布时间**: 2025-07-27 14:00
+
+#### [Best Running Shoes (2025), Tested and Reviewed: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
+**发布时间**: 2025-07-27 13:00
+
+#### [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
+**发布时间**: 2025-07-27 12:02
+
+#### [A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer](https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/)
+**发布时间**: 2025-07-27 11:00
 
 ---
 

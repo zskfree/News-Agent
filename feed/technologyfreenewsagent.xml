@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 27 Jul 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Jul 2025 08:32:15 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 23:22:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“你的下一台电脑何必是电脑”，华为领先苹果半步？</title>
-      <link>https://www.tmtpost.com/7639261.html</link>
-      <description>&lt;![CDATA[“你的下一台电脑何必是电脑”，华为领先苹果半步？]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7639261.html</guid>
+      <title>MiniMax创始人闫俊杰：AI 强大无尽头难被一家垄断，以后研发都不烧钱了？</title>
+      <link>https://www.infoq.cn/article/ROASwHu2fHkaosLmAhZb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MiniMax创始人闫俊杰：AI 强大无尽头难被一家垄断，以后研发都不烧钱了？]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 22:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ROASwHu2fHkaosLmAhZb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>协议转让+要约收购：A股控制权交易的主流进化</title>
-      <link>https://www.tmtpost.com/7639309.html</link>
-      <description>&lt;![CDATA[协议转让+要约收购：A股控制权交易的主流进化]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7639309.html</guid>
+      <title>WAIC 2025：AI 肯定继续成长，避免变成「终极反派」是人类难题</title>
+      <link>http://www.geekpark.net/news/351951</link>
+      <description>&lt;![CDATA[WAIC 2025：AI 肯定继续成长，避免变成「终极反派」是人类难题]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351951</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>我看广告公司的数字化转型：阳狮的教科书和WPP的错题集</title>
-      <link>https://www.tmtpost.com/7639328.html</link>
-      <description>&lt;![CDATA[我看广告公司的数字化转型：阳狮的教科书和WPP的错题集]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7639328.html</guid>
+      <title>离线智能，什么时候迎来 DeepSeek 时刻？</title>
+      <link>http://www.geekpark.net/news/351945</link>
+      <description>&lt;![CDATA[离线智能，什么时候迎来 DeepSeek 时刻？]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351945</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>啤酒巨头中年危机，1300亿精酿围城，谁能破局同质化内卷？</title>
-      <link>https://www.tmtpost.com/7639369.html</link>
-      <description>&lt;![CDATA[啤酒巨头中年危机，1300亿精酿围城，谁能破局同质化内卷？]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7639369.html</guid>
+      <title>AI Agent 第一波浪潮过后，OPPO 是怎么闷声做出第一个爆款的？</title>
+      <link>http://www.geekpark.net/news/351959</link>
+      <description>&lt;![CDATA[AI Agent 第一波浪潮过后，OPPO 是怎么闷声做出第一个爆款的？]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351959</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>训练效率提升25%、成本降23%！上海期智研究院、算秩未来联合推出MegatronApp：专为万亿参数大模型训练打造的系统工具包</title>
-      <link>https://www.infoq.cn/article/Rhi9BEBzoNEJte8o6x6X?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[训练效率提升25%、成本降23%！上海期智研究院、算秩未来联合推出MegatronApp：专为万亿参数大模型训练打造的系统工具包]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Rhi9BEBzoNEJte8o6x6X?utm_source=rss&amp;utm_medium=article</guid>
+      <title>两年半日均调用量暴涨1000倍！阿里国际张凯夫：最通用或最垂直都可以，就怕卡中间</title>
+      <link>https://www.infoq.cn/article/lijg2giyobrDy0IGoa8m?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[两年半日均调用量暴涨1000倍！阿里国际张凯夫：最通用或最垂直都可以，就怕卡中间]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 21:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lijg2giyobrDy0IGoa8m?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在海外构建一个能够立即商业化的AI  应用，至少需要多少IT成本？</title>
-      <link>https://www.infoq.cn/article/slRcQYlF9WVcwrTlkNrQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在海外构建一个能够立即商业化的AI  应用，至少需要多少IT成本？]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/slRcQYlF9WVcwrTlkNrQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer</title>
+      <link>https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/</link>
+      <description>&lt;![CDATA[A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从京东内部走出的开源Agent，能成为标准定义者吗？</title>
-      <link>https://www.infoq.cn/article/dkAAijdgJwo8ipM2juyg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从京东内部走出的开源Agent，能成为标准定义者吗？]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dkAAijdgJwo8ipM2juyg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Qi2 Wireless Charging: Everything You Need to Know (2025)</title>
+      <link>https://www.wired.com/story/what-is-qi2-wireless-charging/</link>
+      <description>&lt;![CDATA[Qi2 Wireless Charging: Everything You Need to Know (2025)]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/what-is-qi2-wireless-charging/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Apple beta season is here</title>
+      <link>https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer</link>
+      <description>&lt;![CDATA[Apple beta season is here]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Vibe Coding 开赛，阿里靠新模型赢麻了？</title>
+      <link>http://www.geekpark.net/news/351958</link>
+      <description>&lt;![CDATA[Vibe Coding 开赛，阿里靠新模型赢麻了？]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 20:13:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/351958</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【科股宝VIP周刊】大厂AI新品相继发布，众业态不“卷”方能高质量发展</title>
+      <link>https://www.tmtpost.com/7639198.html</link>
+      <description>&lt;![CDATA[【科股宝VIP周刊】大厂AI新品相继发布，众业态不“卷”方能高质量发展]]&gt;</description>
+      <pubDate>Sun, 27 Jul 2025 19:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7639198.html</guid>
       <category>Technology</category>
     </item>
   </channel>

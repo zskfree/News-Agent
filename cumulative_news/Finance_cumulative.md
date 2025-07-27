@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-26 23:21
+**最后更新时间**: 2025-07-27 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-27 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is now a good time to invest in the S&P 500? I’m 66, retired and have $200K to invest.](https://www.marketwatch.com/story/i-have-no-debts-is-this-a-good-time-to-invest-in-the-s-p-500-im-66-retired-and-have-700k-3439a13e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-27 23:05
+
+#### [Stock futures rise after U.S.-E.U. trade deal, and ahead of big Fed meeting](https://www.marketwatch.com/story/stock-futures-rise-after-u-s-e-u-trade-deal-and-ahead-of-big-fed-meeting-b52da443?mod=mw_rss_topstories)
+**发布时间**: 2025-07-27 22:42
+
+#### [Trump announces deal with E.U. imposing 15% tariffs, averting trade war](https://www.marketwatch.com/story/trump-announces-deal-with-e-u-imposing-15-tariffs-averting-trade-war-819e8e87?mod=mw_rss_topstories)
+**发布时间**: 2025-07-27 21:36
+
+#### [This chart shows how prices have gone up because of Trump’s tariffs](https://www.marketwatch.com/story/this-chart-shows-how-prices-have-gone-up-because-of-trumps-tariffs-41f4e2fb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-27 19:42
+
+#### [Investors face a week rife with risks, as worries about stock-market euphoria mount. Here’s what to watch.](https://www.marketwatch.com/story/investors-face-a-week-rife-with-risks-as-worries-about-stock-market-euphoria-mount-heres-what-to-watch-616b1fdc?mod=mw_rss_topstories)
+**发布时间**: 2025-07-27 19:38
+
+#### [We’re in our 70s with a $260K mortgage at 3% interest and $1.6 million in savings. Should we pay off our house in full?](https://www.marketwatch.com/story/were-in-our-70s-with-a-260k-mortgage-at-3-interest-and-1-6-million-in-savings-should-we-pay-off-our-house-in-full-24b2ec07?mod=mw_rss_topstories)
+**发布时间**: 2025-07-27 16:23
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stock futures rise after U.S.-E.U. trade deal, and ahead of big Fed meeting](https://www.marketwatch.com/bulletins/redirect/go?g=b18ede89-8865-410e-9316-677bd3951e78&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-27 22:20
+
+#### [Earnings watch: More Big Tech names report this week amid AI spending spree](https://www.marketwatch.com/bulletins/redirect/go?g=7960cf20-b6d9-4c4e-a6bc-5d7c344fb266&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-27 21:38
+
+#### [Trump announces deal with E.U. imposing 15% tariffs, averting trade war](https://www.marketwatch.com/bulletins/redirect/go?g=0e3e76b0-01e7-488e-8d0e-ef5c902f1a18&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-27 19:34
 
 ---
 
