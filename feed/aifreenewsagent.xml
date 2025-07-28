@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Jul 2025 05:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 05:30:42 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 08:33:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>多模态大模型，真的「懂」世界吗？——揭秘 MLLM 的核心知识缺陷</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-2</link>
-      <description>&lt;![CDATA[多模态大模型，真的「懂」世界吗？——揭秘 MLLM 的核心知识缺陷]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-2</guid>
+      <title>AI幻觉成WAIC首个关键词，Hinton敲响警钟，讯飞星火治理新突破</title>
+      <link>https://www.qbitai.com/2025/07/314367.html</link>
+      <description>&lt;![CDATA[AI幻觉成WAIC首个关键词，Hinton敲响警钟，讯飞星火治理新突破]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 06:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314367.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型隐私安全和公平性有“跷跷板”效应，最佳平衡法则刚刚找到 | 人大&amp;上海AI Lab</title>
-      <link>https://www.qbitai.com/2025/07/313953.html</link>
-      <description>&lt;![CDATA[大模型隐私安全和公平性有“跷跷板”效应，最佳平衡法则刚刚找到 | 人大&amp;上海AI Lab]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 00:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313953.html</guid>
+      <title>硬核「吵」了30分钟：这场大模型圆桌，把AI行业的分歧说透了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-28-5</link>
+      <description>&lt;![CDATA[硬核「吵」了30分钟：这场大模型圆桌，把AI行业的分歧说透了]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>扣子开源全家桶，Apache 2.0加持，AI Agent又一次卷到起飞</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-3</link>
-      <description>&lt;![CDATA[扣子开源全家桶，Apache 2.0加持，AI Agent又一次卷到起飞]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-3</guid>
+      <title>它石智航CEO陈亦伦首次发声：自动驾驶替具身智能踩了巨坑</title>
+      <link>https://www.qbitai.com/2025/07/314193.html</link>
+      <description>&lt;![CDATA[它石智航CEO陈亦伦首次发声：自动驾驶替具身智能踩了巨坑]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314193.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>具身智能实力派！十年多模态打底，世界模型开路，商汤悟能来了</title>
-      <link>https://www.qbitai.com/2025/07/314024.html</link>
-      <description>&lt;![CDATA[具身智能实力派！十年多模态打底，世界模型开路，商汤悟能来了]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 01:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314024.html</guid>
+      <title>广大、清华等开发EdgeAIGC，让边缘缓存命中率飙升41%，AIGC延迟与成本双降</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-28-7</link>
+      <description>&lt;![CDATA[广大、清华等开发EdgeAIGC，让边缘缓存命中率飙升41%，AIGC延迟与成本双降]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICCV 2025｜UV-CoT：无监督视觉推理新突破，偏好优化重塑图像级思维链</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-4</link>
-      <description>&lt;![CDATA[ICCV 2025｜UV-CoT：无监督视觉推理新突破，偏好优化重塑图像级思维链]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-4</guid>
+      <title>最高能效比！他又死磕“存算一体”2年，拿出全新端边大模型AI芯片</title>
+      <link>https://www.qbitai.com/2025/07/314420.html</link>
+      <description>&lt;![CDATA[最高能效比！他又死磕“存算一体”2年，拿出全新端边大模型AI芯片]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314420.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning</title>
-      <link>https://arxiv.org/abs/2507.18857</link>
-      <description>&lt;![CDATA[PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.18857</guid>
+      <title>商汤大装置亮相WAIC 2025，多项标志性成果打造AI基础设施新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-28-8</link>
+      <description>&lt;![CDATA[商汤大装置亮相WAIC 2025，多项标志性成果打造AI基础设施新范式]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement</title>
-      <link>https://arxiv.org/abs/2507.18742</link>
-      <description>&lt;![CDATA[Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.18742</guid>
+      <title>WAIC直击｜快手可灵AI引领「生成式AI应用元年」，累计生成超2亿视频</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-28-6</link>
+      <description>&lt;![CDATA[WAIC直击｜快手可灵AI引领「生成式AI应用元年」，累计生成超2亿视频]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>磐石·科学基础大模型：AI赋能范式重塑，科学研究开启无限可能</title>
-      <link>https://www.qbitai.com/2025/07/314007.html</link>
-      <description>&lt;![CDATA[磐石·科学基础大模型：AI赋能范式重塑，科学研究开启无限可能]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 00:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314007.html</guid>
+      <title>蚂蚁数科发布金融推理大模型，助力金融机构加速落地智能体应用</title>
+      <link>https://www.qbitai.com/2025/07/314289.html</link>
+      <description>&lt;![CDATA[蚂蚁数科发布金融推理大模型，助力金融机构加速落地智能体应用]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314289.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>什么是真正好用的推理模型？阶跃Step 3：开源的，多模态的，低成本的，国产芯片适配的</title>
-      <link>https://www.qbitai.com/2025/07/313906.html</link>
-      <description>&lt;![CDATA[什么是真正好用的推理模型？阶跃Step 3：开源的，多模态的，低成本的，国产芯片适配的]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 01:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/313906.html</guid>
+      <title>LeCun回应赵晟佳出任“首席科学家”</title>
+      <link>https://www.qbitai.com/2025/07/314536.html</link>
+      <description>&lt;![CDATA[LeCun回应赵晟佳出任“首席科学家”]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314536.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models</title>
-      <link>https://arxiv.org/abs/2507.18725</link>
-      <description>&lt;![CDATA[The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.18725</guid>
+      <title>2025 WAIC容联云AI AGENT论坛启幕，以技术引擎驱动产业智能跃迁</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-28-9</link>
+      <description>&lt;![CDATA[2025 WAIC容联云AI AGENT论坛启幕，以技术引擎驱动产业智能跃迁]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-9</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -6780,6 +6780,96 @@
         "link": "https://arxiv.org/abs/2507.18897",
         "published_date": "Mon, 28 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-28T05:30:19.021882"
+      },
+      "4ee090a1e348dbf180c187ee9357d5110df1ae6a6dc1a10c394a9580ecaaa74d": {
+        "title": "2025 WAIC容联云AI AGENT论坛启幕，以技术引擎驱动产业智能跃迁",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-28-9",
+        "published_date": "Mon, 28 Jul 2025 16:28:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272215"
+      },
+      "1161cec8cf3783b67493c9c2244e92fc37560b73ab5b467bb8a7385a119df86c": {
+        "title": "商汤大装置亮相WAIC 2025，多项标志性成果打造AI基础设施新范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-28-8",
+        "published_date": "Mon, 28 Jul 2025 15:36:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272181"
+      },
+      "4e64d916d32ffd5fc3c60564f1c9240f2f50ebef6d07651ea7fd3ae49a444e7b": {
+        "title": "广大、清华等开发EdgeAIGC，让边缘缓存命中率飙升41%，AIGC延迟与成本双降",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-28-7",
+        "published_date": "Mon, 28 Jul 2025 14:39:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272163"
+      },
+      "326f537ae3a71faa02534428dbcad6562b53623a756b503b788d09533a8f2f49": {
+        "title": "WAIC直击｜快手可灵AI引领「生成式AI应用元年」，累计生成超2亿视频",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-28-6",
+        "published_date": "Mon, 28 Jul 2025 14:24:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272190"
+      },
+      "a473dc0d1b41e25f470aff158c3dddc01d477e489845cde99395018bbc0ad619": {
+        "title": "硬核「吵」了30分钟：这场大模型圆桌，把AI行业的分歧说透了",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-28-5",
+        "published_date": "Mon, 28 Jul 2025 13:31:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272143"
+      },
+      "80760195efbbdc5eaabd1b99b54d4ec69e0f810ccfdcb0f77544140f4d9ae2ad": {
+        "title": "钉钉亮相2025世界人工智能大会，发布企业十大AI场景！",
+        "link": "https://www.qbitai.com/2025/07/314637.html",
+        "published_date": "Mon, 28 Jul 2025 07:49:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.155982"
+      },
+      "ba009a97bc2b6acc19bfb6932e406cf8978a1b213da8f900479687872b43130b": {
+        "title": "WAIC现场最“聪明”展台！AI对话眼睛耳朵能力全打开",
+        "link": "https://www.qbitai.com/2025/07/314593.html",
+        "published_date": "Mon, 28 Jul 2025 07:48:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.156886"
+      },
+      "641dac26a9cdeb18ba71ec14fbd51c64a3943f5b9e152af6f0bec47cdb2696aa": {
+        "title": "累计生成超2亿视频！快手可灵AI上线以来迭代已超30次",
+        "link": "https://www.qbitai.com/2025/07/314524.html",
+        "published_date": "Mon, 28 Jul 2025 07:25:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.157282"
+      },
+      "dd895c1daaeed401469b53dbfced914ba16318f8698174cf85a1bd7713e96f4a": {
+        "title": "LeCun回应赵晟佳出任“首席科学家”",
+        "link": "https://www.qbitai.com/2025/07/314536.html",
+        "published_date": "Mon, 28 Jul 2025 07:18:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272206"
+      },
+      "c465124866b6bb8d4518903c334d56a258770716bd7e6acb2293bebb42c58fda": {
+        "title": "最高能效比！他又死磕“存算一体”2年，拿出全新端边大模型AI芯片",
+        "link": "https://www.qbitai.com/2025/07/314420.html",
+        "published_date": "Mon, 28 Jul 2025 06:55:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272172"
+      },
+      "eda6e3157178ed4b752d5e26f337c9d2d238aa22068910b258632792b068eb91": {
+        "title": "AI幻觉成WAIC首个关键词，Hinton敲响警钟，讯飞星火治理新突破",
+        "link": "https://www.qbitai.com/2025/07/314367.html",
+        "published_date": "Mon, 28 Jul 2025 06:25:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272124"
+      },
+      "c144dbcbee911699459c2c6daf76ed7edd0f0fe691f6478cc4b7d9220591b77c": {
+        "title": "万万没想到，这家央企竟让香农和图灵又“握了一次手”",
+        "link": "https://www.qbitai.com/2025/07/314341.html",
+        "published_date": "Mon, 28 Jul 2025 06:13:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.159858"
+      },
+      "08d907bb5190770cb91c8f7a0bbb3c146519eee5071c2660a7f704f22b4ccd76": {
+        "title": "蚂蚁数科发布金融推理大模型，助力金融机构加速落地智能体应用",
+        "link": "https://www.qbitai.com/2025/07/314289.html",
+        "published_date": "Mon, 28 Jul 2025 06:06:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272198"
+      },
+      "ddbf508a7c60d3ed9499753aca012d29a62333ec9f670ea56a35b8445008c43e": {
+        "title": "它石智航CEO陈亦伦首次发声：自动驾驶替具身智能踩了巨坑",
+        "link": "https://www.qbitai.com/2025/07/314193.html",
+        "published_date": "Mon, 28 Jul 2025 06:03:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.272153"
+      },
+      "4ed532e72567865bea71d20ee63afacbf146f64861e89c896edf211d2f5dcc1e": {
+        "title": "早鸟倒计时7天｜2025科技创变者大会首批嘉宾阵容公布！",
+        "link": "https://www.qbitai.com/2025/07/314192.html",
+        "published_date": "Mon, 28 Jul 2025 05:59:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.161756"
       }
     },
     "Technology": {
@@ -17336,6 +17426,132 @@
         "link": "http://www.geekpark.net/news/351963",
         "published_date": "Mon, 28 Jul 2025 08:17:00 GMT",
         "first_seen": "2025-07-28T05:29:58.055290"
+      },
+      "58d0f2ae8e1ae7c1a35460e3fbd359db7643849405c95372bf7ad7fd857db1ff": {
+        "title": "英特尔断臂求生，汽车业务夭折",
+        "link": "https://www.tmtpost.com/7640020.html",
+        "published_date": "Mon, 28 Jul 2025 16:25:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100847"
+      },
+      "bcac1ea5469b8140e3cf8a85f514ac670ec5f10606b06fa5cea836e321c0aff2": {
+        "title": "在WAIC 2025现场，和“活人感”社交Agent聊天是什么体验？",
+        "link": "https://www.tmtpost.com/7640082.html",
+        "published_date": "Mon, 28 Jul 2025 16:03:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100903"
+      },
+      "849facd7ed77ab76bdfc9b9c62aba236710c7cb7b1915007aa84e8ef6bbb6782": {
+        "title": "三菱汽车的中国往事",
+        "link": "https://www.tmtpost.com/7640031.html",
+        "published_date": "Mon, 28 Jul 2025 15:44:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.113010"
+      },
+      "206c9891b19929f94896ec44216db96306466c433bd7c7d1dda3c9699d36c993": {
+        "title": "'AI Godfather' Geoffrey Hinton Warns Multimodal Chatbots Are Already Conscious in Shanghai",
+        "link": "https://www.tmtpost.com/7640272.html",
+        "published_date": "Mon, 28 Jul 2025 15:37:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100826"
+      },
+      "bb4e4b73cb3199b7ad1d4b00ba1410efcd4e0d9890bf595e64fa53204542dcaa": {
+        "title": "【Fintech 周报】存款利率3个月期击穿1%；黄金公司上半年业绩爆表；万达出售快钱金融30%股权",
+        "link": "https://www.tmtpost.com/7640224.html",
+        "published_date": "Mon, 28 Jul 2025 15:18:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.113676"
+      },
+      "497a65a8b338bbb106e22794c6859ed58637a7c5090807b7810087a5ca96b2ec": {
+        "title": "毕业季也是消费季，这八大“暑期经济”火了",
+        "link": "https://www.tmtpost.com/7639916.html",
+        "published_date": "Mon, 28 Jul 2025 15:15:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.113947"
+      },
+      "404352b2a338b447d83b12df085da82d6376e4ca52c50067f03ffb1f2461c0ee": {
+        "title": "7月28日A股分析：三大指数集体上涨，两市合计成交17423.07亿元，资金流入最多的行业板块为电子元件、通信设备",
+        "link": "https://www.tmtpost.com/7640237.html",
+        "published_date": "Mon, 28 Jul 2025 15:10:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.114567"
+      },
+      "71da17eb39ce3301420743b27fa5901d95fd2139c3568037fa87d397e1e78981": {
+        "title": "京东做酒旅，比外卖安静",
+        "link": "https://www.tmtpost.com/7639869.html",
+        "published_date": "Mon, 28 Jul 2025 15:05:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100935"
+      },
+      "8361468ab55ac602bc281315cb5f8336091d925e7522f5d59a0e5c17b6047fc1": {
+        "title": "旅企大基建，酒店怎么就站到C位了？",
+        "link": "https://www.tmtpost.com/7639911.html",
+        "published_date": "Mon, 28 Jul 2025 14:28:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.115173"
+      },
+      "ff098c635886aeee76ba8bddd8d2aff00e481da71c79adb3e58d1c9d6d1047bf": {
+        "title": "京东外卖的“后招”，刘强东要“开灶”",
+        "link": "https://www.tmtpost.com/7639864.html",
+        "published_date": "Mon, 28 Jul 2025 14:16:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.115620"
+      },
+      "f1fe8e16418410a71e165a7df88b10095b347b76c1a43db2ef9703ab1179bbce": {
+        "title": "谁来引领AI下半场？中国乳企前排竞速",
+        "link": "https://www.tmtpost.com/7639163.html",
+        "published_date": "Mon, 28 Jul 2025 13:56:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.116035"
+      },
+      "51885f5c9e40e8a58f44cba8602692fcc94fb767edfb68d4daa61926b5e8d545": {
+        "title": "老龄化+运动潮催生机遇，技源集团携专利壁垒登陆沪市",
+        "link": "https://www.tmtpost.com/7640029.html",
+        "published_date": "Mon, 28 Jul 2025 13:51:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.116573"
+      },
+      "28831dc85dcba7727ced08a364320d3610c4f4b63fba9d67bac150495b087e9d": {
+        "title": "AgiBot Unveils World Model Platform and Eyes Global Expansion at WAIC 2025",
+        "link": "https://www.tmtpost.com/7640119.html",
+        "published_date": "Mon, 28 Jul 2025 13:38:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100859"
+      },
+      "51bb5683dd9418e11ed4f45c71b1e66f05fefb7067408895e479206f14ca65af": {
+        "title": "谷歌Apigee添加了内置的LLM治理Model Armor",
+        "link": "https://www.infoq.cn/article/5gb1yvhiNqjP0EaFUrNo?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100870"
+      },
+      "5221c7a923ea5ec03dc389724de8a9fab2404aa25c897bf20adc8c31117f1f63": {
+        "title": "饿了么前CEO被抓审讯画面公开；华为首次展出“算力核弹”真机；应届生拒绝offer被HR威胁业内封杀｜AI周报",
+        "link": "https://www.infoq.cn/article/PAWpjoqgkExkAf7rOuXu?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Jul 2025 14:45:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100914"
+      },
+      "14305ab6adc2944f7287f80d12d66c3fc6a35597d29adf244268170b0d5d9075": {
+        "title": "阿里瓴羊集团高级技术专家王克将出席 AICon 深圳，分享营销 Agent 有用吗？一个组织由内至外的技术路径实践",
+        "link": "https://www.infoq.cn/article/2mYArUIMGGGoXvzyDcDm?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Jul 2025 14:38:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100925"
+      },
+      "b8389fc5eda4838a76ab1351c9ef0ac91da78f30e58727a755dbee92d6a27c0d": {
+        "title": "扣子官宣开源，掀桌大动作背后如何决策？扣子负责人独家披露",
+        "link": "https://www.infoq.cn/article/A4iKxOQF5tFQ24IZedCL?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Jul 2025 14:37:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100881"
+      },
+      "7705d6ad64f9f2d9a40f89ffd8bb0903f8cf9b5389aa6a319018228342e62e14": {
+        "title": "【宝藏贴】HarmonyOS官方模板优秀案例\n（第1期：便捷生活 · 购物中心）",
+        "link": "https://www.infoq.cn/article/7wTCodIMsYXR8WXDFX8Q?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Jul 2025 14:18:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.122871"
+      },
+      "128521ba1146539ed62c2a47e3471a271fcfa6def4ecc294360eaa752583979f": {
+        "title": "具透 | macOS Tahoe 26 推出公开测试版，你能提前看到这些亮点",
+        "link": "https://sspai.com/post/101018",
+        "published_date": "Mon, 28 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-28T08:33:16.100892"
+      },
+      "fc8cc5093be8f8298478ca339a237f2d081edf80955eadded7b3b3d3bc384619": {
+        "title": "全场最高票？如何用脱口秀打破高跟鞋规训？",
+        "link": "http://www.huxiu.com/article/4620652.html?f=wangzhan",
+        "published_date": "Mon, 28 Jul 2025 13:00:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.124955"
+      },
+      "13aee2e4d5701b915a9c803e0a997ed613ba52fabf4e1a00576513b77bacd6fc": {
+        "title": "Familiar Nebula Telescopic Thrust Suction Mount Dildo Review",
+        "link": "https://www.wired.com/review/familiar-nebula-telescopic-thrust-suction-mount-dildo/",
+        "published_date": "Mon, 28 Jul 2025 08:00:00 GMT",
+        "first_seen": "2025-07-28T08:32:53.126873"
       }
     },
     "Finance": {
@@ -19654,12 +19870,24 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7dbee1c1-cc98-4216-ba49-323e9aba78be&mod=mw_rss_bulletins",
         "published_date": "Sun, 27 Jul 2025 23:54:00 GMT",
         "first_seen": "2025-07-28T05:30:42.966597"
+      },
+      "b86d965f39a7300da3137381ea39a66a6ea382b4b0e726bb3deb79f523206091": {
+        "title": "Musk says Tesla signed $16.5 billion microchip deal with Samsung Electronics",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6760182f-cb0a-418e-b2a9-74dcde6e5afa&mod=mw_rss_bulletins",
+        "published_date": "Mon, 28 Jul 2025 07:45:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.281759"
+      },
+      "4abec89a6935ab257226f18261d0358a2322550aad4b625a3a3816b43e2a5f61": {
+        "title": "Musk says Tesla is the unnamed client in Samsung’s $16.5 billion microchip deal",
+        "link": "https://www.marketwatch.com/story/musk-says-tesla-is-the-unnamed-client-in-samsungs-16-5-billion-microchip-deal-929dc1eb?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Jul 2025 06:24:00 GMT",
+        "first_seen": "2025-07-28T08:33:31.282217"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-28T05:30:42.958712",
-    "Technology": "2025-07-28T05:30:18.754650",
-    "Finance": "2025-07-28T05:30:42.973258"
+    "AI": "2025-07-28T08:33:31.274292",
+    "Technology": "2025-07-28T08:33:16.123417",
+    "Finance": "2025-07-28T08:33:31.288798"
   }
 }

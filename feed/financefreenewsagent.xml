@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Jul 2025 05:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 05:30:42 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 08:33:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>How Citi’s Strata Elite premium credit card stacks up against its competitors</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=6d06e7df-5056-4aca-a4db-8e6984603c05&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[How Citi’s Strata Elite premium credit card stacks up against its competitors]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 01:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=6d06e7df-5056-4aca-a4db-8e6984603c05&amp;mod=mw_rss_bulletins</guid>
+      <title>Musk says Tesla signed $16.5 billion microchip deal with Samsung Electronics</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=6760182f-cb0a-418e-b2a9-74dcde6e5afa&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Musk says Tesla signed $16.5 billion microchip deal with Samsung Electronics]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 07:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=6760182f-cb0a-418e-b2a9-74dcde6e5afa&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>What to watch for as investors face a week rife with risks</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7dbee1c1-cc98-4216-ba49-323e9aba78be&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[What to watch for as investors face a week rife with risks]]&gt;</description>
-      <pubDate>Sun, 27 Jul 2025 23:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7dbee1c1-cc98-4216-ba49-323e9aba78be&amp;mod=mw_rss_bulletins</guid>
+      <title>Musk says Tesla is the unnamed client in Samsung’s $16.5 billion microchip deal</title>
+      <link>https://www.marketwatch.com/story/musk-says-tesla-is-the-unnamed-client-in-samsungs-16-5-billion-microchip-deal-929dc1eb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Musk says Tesla is the unnamed client in Samsung’s $16.5 billion microchip deal]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 06:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/musk-says-tesla-is-the-unnamed-client-in-samsungs-16-5-billion-microchip-deal-929dc1eb?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

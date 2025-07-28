@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-28 05:29
+**最后更新时间**: 2025-07-28 08:32
+
+---
+
+## 🆕 最新更新 (2025-07-28 08:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Musk says Tesla signed $16.5 billion microchip deal with Samsung Electronics](https://www.marketwatch.com/bulletins/redirect/go?g=6760182f-cb0a-418e-b2a9-74dcde6e5afa&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 07:45
+
+#### [Musk says Tesla  Tesla has signed a $16.5 billion deal with Samsung Electronics](https://www.marketwatch.com/bulletins/redirect/go?g=e91d1596-2d3b-4c7d-b0ae-f73546ddd02f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 07:44
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Musk says Tesla is the unnamed client in Samsung’s $16.5 billion microchip deal](https://www.marketwatch.com/story/musk-says-tesla-is-the-unnamed-client-in-samsungs-16-5-billion-microchip-deal-929dc1eb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 06:24
 
 ---
 
