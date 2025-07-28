@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-27 23:21
+**最后更新时间**: 2025-07-28 05:29
+
+---
+
+## 🆕 最新更新 (2025-07-28 05:29)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How Citi’s Strata Elite premium credit card stacks up against its competitors](https://www.marketwatch.com/bulletins/redirect/go?g=6d06e7df-5056-4aca-a4db-8e6984603c05&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 01:17
+
+#### [What to watch for as investors face a week rife with risks](https://www.marketwatch.com/bulletins/redirect/go?g=7dbee1c1-cc98-4216-ba49-323e9aba78be&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-27 23:54
 
 ---
 

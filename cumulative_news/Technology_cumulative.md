@@ -1,7 +1,122 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-27 23:21
+**最后更新时间**: 2025-07-28 05:29
+
+---
+
+## 🆕 最新更新 (2025-07-28 05:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [万亿雅下水电工程背后，是史无前例的藏电外送“大棋局”](https://www.tmtpost.com/7639779.html)
+**发布时间**: 2025-07-28 13:21
+
+#### ['AI Godfather' Geoffrey Hinton Raises Alarm on AI Takeover Risks at WAIC Shanghai](https://www.tmtpost.com/7640066.html)
+**发布时间**: 2025-07-28 13:12
+
+#### [蒋凡再造一个“美团”？](https://www.tmtpost.com/7639642.html)
+**发布时间**: 2025-07-28 13:02
+
+#### [少林寺方丈释永信涉刑案：身披袈裟的CEO｜马上评](https://www.tmtpost.com/7639980.html)
+**发布时间**: 2025-07-28 12:01
+
+#### [起底莎普爱思控股生物谷：“莆田系”新生代以“协同”之名编织的资本局｜深度](https://www.tmtpost.com/7639668.html)
+**发布时间**: 2025-07-28 11:54
+
+#### [China's AI Stars Turn to Japan as Growth Hotspot, but Trust and Local Know-How Are Key](https://www.tmtpost.com/7639965.html)
+**发布时间**: 2025-07-28 11:35
+
+#### [京东“炒菜”，能逆袭吗？](https://www.tmtpost.com/7639732.html)
+**发布时间**: 2025-07-28 11:10
+
+#### [短剧“霸主”红果，革了谁的命？](https://www.tmtpost.com/7639624.html)
+**发布时间**: 2025-07-28 11:10
+
+#### [【产业互联网周报】  WAIC开幕，中国大模型数量居全球首位；美国发布AI行动计划；阿里通义千问宣布更新旗舰版Qwen3模型；上海人工智能实验室发布超大规模跨域混训技术方案；IDC：预计到2029年中国数据仓库软件市场规模将达到20.9亿美元](https://www.tmtpost.com/7639831.html)
+**发布时间**: 2025-07-28 10:47
+
+#### [China's Houmo AI Debuts Edge AI Chip for Large Models at WAIC](https://www.tmtpost.com/7639877.html)
+**发布时间**: 2025-07-28 10:26
+
+#### [陈伟星：AI不能当强盗， 外卖大战是对线下商业的大屠杀](https://www.tmtpost.com/7639857.html)
+**发布时间**: 2025-07-28 10:22
+
+#### [佛商释永信，终于“塌庙”了](https://www.tmtpost.com/7639701.html)
+**发布时间**: 2025-07-28 10:04
+
+#### [AI May Outgrow Human Control Without Global Safety Framework, Says "Godfather of AI" Geoffrey Hinton](https://www.tmtpost.com/7639820.html)
+**发布时间**: 2025-07-28 09:49
+
+#### [山姆的小聪明，被中产识破了](https://www.tmtpost.com/7639723.html)
+**发布时间**: 2025-07-28 09:45
+
+#### [智元首个世界模型开源平台发布，罗剑岚：AI机器人失控不是自主意识而是软件没写好](https://www.tmtpost.com/7639650.html)
+**发布时间**: 2025-07-28 08:49
+
+#### [AI热爆了！日行3万步都跑不完WAIC，机器人展区水泄不通](https://www.tmtpost.com/7639239.html)
+**发布时间**: 2025-07-28 08:43
+
+#### [数字人占领直播间，真风口还是伪需求？](https://www.tmtpost.com/7639618.html)
+**发布时间**: 2025-07-28 08:37
+
+#### [科股早知道：未来产业的重要组成部分，互联网大厂“抢投”该领域](https://www.tmtpost.com/7639681.html)
+**发布时间**: 2025-07-28 08:18
+
+#### [【钛晨报】农产品消费迎利好，10部门最新发布；吴清挂帅！资本市场超级智囊团亮相，释放重磅信息；从智能眼镜到具身智能，阿里、京东、腾讯公布AI新进展](https://www.tmtpost.com/7639494.html)
+**发布时间**: 2025-07-28 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [优步推出多云密钥管理平台，可确保150000多个凭据的安全](https://www.infoq.cn/article/5Q0GLPEgwEMEPeE3Lpkg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 13:00
+
+#### [国投瑞银Kubernetes双集群高可用架构设计实践](https://www.infoq.cn/article/NDsemsR45vqxLlwgNo73?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 11:38
+
+#### [包容型领导力如何推动技术组织实现持久成功](https://www.infoq.cn/article/cmtW5EizZxHuzigwAsEc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 11:30
+
+#### [Perplexity发布Comet：围绕AI助手交互而设计的浏览器](https://www.infoq.cn/article/vNouAB5DfxI5MUDlDZWE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 10:35
+
+#### [Trae 插件在 Agent 代码编辑的落地实践｜AICon北京](https://www.infoq.cn/article/ByAuHkaOVt8ZEV8HM9Y9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 10:32
+
+#### [当大模型陷入幻觉循环，如何用工程化给它“立规矩”？](https://www.infoq.cn/article/vzxDlvmwqMt7kYTHGDlp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 10:30
+
+#### [XREAL亮相WAIC 2025：One Pro旗舰首秀，引领AR+AI融合新时代](https://www.infoq.cn/article/LyjhZTlj3XtIB6PsmEJt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 10:18
+
+#### [真实作业场景+具身智能能力！云深处科技闪耀WAIC2025](https://www.infoq.cn/article/mViyCPT4b8U7o3fIKm6A?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 10:12
+
+#### [100%开源！企业级高可用智能体来了](https://www.infoq.cn/article/He9zAp74Kev31AF2aOR3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 10:05
+
+#### [阿里巴巴发布夸克AI眼镜研发进展，AI To C战略迈入硬件阶段](https://www.infoq.cn/article/PHuwWqERa3z9DZGMI4lf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 用 AutoHotkey 偷偷背单词，甚至读本书](https://sspai.com/post/101247)
+**发布时间**: 2025-07-28 11:30
+
+#### [派早报：Firefox 中国版宣布停止服务](https://sspai.com/post/101383)
+**发布时间**: 2025-07-28 08:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [饺子界大王“袁记云饺”，为啥翻车了？](http://www.huxiu.com/article/4624457.html?f=wangzhan)
+**发布时间**: 2025-07-28 11:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [具身智能，腾讯「低调入局」](http://www.geekpark.net/news/351962)
+**发布时间**: 2025-07-28 10:30
+
+#### [特斯拉廉价 Model Y 减配内饰曝光；Firefox 终止中国账户运营；宇树王兴兴：经常偷懒，用 AI 写代码｜极客早知道](http://www.geekpark.net/news/351963)
+**发布时间**: 2025-07-28 08:17
 
 ---
 
