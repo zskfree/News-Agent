@@ -1,7 +1,160 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-28 08:32
+**最后更新时间**: 2025-07-28 23:23
+
+---
+
+## 🆕 最新更新 (2025-07-28 23:23)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [智谱发布新一代基座模型GLM-4.5：开源、高效、低价，专为智能体而生](http://www.geekpark.net/news/352050)
+**发布时间**: 2025-07-28 23:22
+
+#### [WAIC 2025前探：AI硬件如何改变我们的日常生活](http://www.geekpark.net/news/351933)
+**发布时间**: 2025-07-28 19:28
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The controversial legal tactic The Trump Organization is using to take down fake merch](https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark)
+**发布时间**: 2025-07-28 22:17
+
+#### [Samsung&#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones](https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms)
+**发布时间**: 2025-07-28 22:05
+
+#### [Sony calls Tencent game &#8216;slavish clone&#8217; of Horizon in new lawsuit](https://www.theverge.com/news/714870/sony-tencent-horizon-clone-lawsuit)
+**发布时间**: 2025-07-28 21:26
+
+#### [Warner Bros. Discovery will be Warner Bros. and Discovery after they break up](https://www.theverge.com/news/714829/warner-bros-discovery-new-company-names)
+**发布时间**: 2025-07-28 21:06
+
+#### [Yet another Pixel 6A caught fire](https://www.theverge.com/news/714833/google-pixel-6a-fire-battery-update)
+**发布时间**: 2025-07-28 20:23
+
+#### [Women&#8217;s &#8216;red flag&#8217; app Tea is a privacy nightmare](https://www.theverge.com/cyber-security/714750/tea-hack-breach)
+**发布时间**: 2025-07-28 20:22
+
+#### [Your Whistle pet tracker will stop working next month](https://www.theverge.com/news/714775/tractive-whistle-pet-tracker-acquisition)
+**发布时间**: 2025-07-28 19:42
+
+#### [Star Trek, superheroes, and lots of Stephen King: the best of SDCC 2025](https://www.theverge.com/film/714492/sdcc-2025-best-trailers-announcements)
+**发布时间**: 2025-07-28 18:00
+
+#### [Microsoft starts rolling out Xbox age verification in the UK](https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features)
+**发布时间**: 2025-07-28 17:29
+
+#### [The UK is slogging through an online age-gate apocalypse](https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions)
+**发布时间**: 2025-07-28 17:05
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [刚刚！智谱开源3550亿参数GLM-4.5模型，多项性能或超越Kimi K2成全球第三](https://www.tmtpost.com/7640658.html)
+**发布时间**: 2025-07-28 22:03
+
+#### [八马茶业，另一种“金融茶”？](https://www.tmtpost.com/7640584.html)
+**发布时间**: 2025-07-28 20:55
+
+#### [明星成为IP的N种方式](https://www.tmtpost.com/7640413.html)
+**发布时间**: 2025-07-28 20:55
+
+#### [人在WAIC，和大模型一起“狂奔”](https://www.tmtpost.com/7640202.html)
+**发布时间**: 2025-07-28 20:21
+
+#### [中国家电行业大变局：巨头“撒网”，细分企业反击，混战时代来了](https://www.tmtpost.com/7640596.html)
+**发布时间**: 2025-07-28 20:21
+
+#### [保险出海的焦虑：太保香港押注“链上”](https://www.tmtpost.com/7640408.html)
+**发布时间**: 2025-07-28 20:21
+
+#### [腾讯、阿里抢滩AI编程：重构互联网基因的“雅江工程”](https://www.tmtpost.com/7640433.html)
+**发布时间**: 2025-07-28 20:21
+
+#### [外卖大战不是在内卷：下半场更精彩](https://www.tmtpost.com/7640581.html)
+**发布时间**: 2025-07-28 20:21
+
+#### [300家国内企业排队上市，港交所彻底杀疯了？](https://www.tmtpost.com/7640093.html)
+**发布时间**: 2025-07-28 18:06
+
+#### [从资本的角度解读2025WAIC的“火爆”与“务实”](https://www.tmtpost.com/7640225.html)
+**发布时间**: 2025-07-28 18:06
+
+#### [“挣窝囊费，漂窝囊流”， 它为何引爆今夏？](https://www.tmtpost.com/7640281.html)
+**发布时间**: 2025-07-28 18:06
+
+#### [七八月的欧洲，被游客“挤爆”了](https://www.tmtpost.com/7640295.html)
+**发布时间**: 2025-07-28 18:06
+
+#### [从AIPC到JoyAI，京东AI布局全面升级 | 独家](https://www.tmtpost.com/7640422.html)
+**发布时间**: 2025-07-28 17:27
+
+#### [释永信：跳出三界外、终落红尘中](https://www.tmtpost.com/7640007.html)
+**发布时间**: 2025-07-28 16:51
+
+#### [在WAIC，比起看机器人打拳，人们更想知道怎么用AI赚钱](https://www.tmtpost.com/7639939.html)
+**发布时间**: 2025-07-28 16:51
+
+#### [盘古智库发布“灵识报告”：从知识到灵识，AI时代需要认知升级](https://www.tmtpost.com/7640053.html)
+**发布时间**: 2025-07-28 16:51
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [探访日本：你能放下工作，去照顾老人吗？](http://www.huxiu.com/article/4622387.html?f=wangzhan)
+**发布时间**: 2025-07-28 21:30
+
+#### [懂车帝不是马斯克的通行证](http://www.huxiu.com/article/4628528.html?f=wangzhan)
+**发布时间**: 2025-07-28 19:17
+
+#### [浏览器变天：火狐惨死AI战场，屠龙少年终成恶龙？](http://www.huxiu.com/article/4626610.html?f=wangzhan)
+**发布时间**: 2025-07-28 17:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [怎么把 AI 用出生产力？| InfoQ《极客有约》](https://www.infoq.cn/video/3NYwz6oFiY1JBMfsjcCN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 18:54
+
+#### [一句话，让 Al 帮你做数据分析 ｜AI的n次方](https://www.infoq.cn/video/Ff6fg97zQPzmEHV1oP1u?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 18:45
+
+#### [InfoQ研究中心与中欧AI与管理创新研究中心联合发布《中国大模型落地应用研究报告2025》](https://www.infoq.cn/article/IxVHyTdB7YGbNDfKpL6z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 18:30
+
+#### [Qwen团队发布了Qwen3-Coder，一个具有开放工具的大型智能体编码模型](https://www.infoq.cn/article/OwLt7KGWUi0rTM4YtIEo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 17:00
+
+#### [【宝藏贴】HarmonyOS官方模板优秀案例
+（第1期：便捷生活 · 购物中心）](https://www.infoq.cn/article/7wTCodIMsYXR8WXDFX8Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 14:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/101405)
+**发布时间**: 2025-07-28 18:01
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Is Silicon Valley Losing Its Influence on DC?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/)
+**发布时间**: 2025-07-28 17:14
+
+#### [The Best Smart Rings, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-smart-rings/)
+**发布时间**: 2025-07-28 13:30
+
+#### [What Is MicroSD Express? Everything You Need to Know](https://www.wired.com/story/what-is-microsd-express/)
+**发布时间**: 2025-07-28 13:03
+
+#### [Nothing Headphone (1) Review: Something Special](https://www.wired.com/review/nothing-headphones-1/)
+**发布时间**: 2025-07-28 12:01
+
+#### [Programmers Aren’t So Humble Anymore—Maybe Because Nobody Codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
+**发布时间**: 2025-07-28 11:00
+
+#### [From Cheating Exposés to Dating Background Checks, TikTok Detectives Are Thriving](https://www.wired.com/story/from-cheating-exposes-to-dating-background-checks-tiktok-detectives-are-thriving/)
+**发布时间**: 2025-07-28 11:00
+
+#### [This Star System Contains 5 Potentially Habitable Planets](https://www.wired.com/story/this-star-system-contains-five-potentially-habitable-planets/)
+**发布时间**: 2025-07-28 10:48
+
+#### [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
+**发布时间**: 2025-07-28 10:30
 
 ---
 

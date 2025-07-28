@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-28 08:32
+**最后更新时间**: 2025-07-28 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-28 23:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [AI Agents的“超级大脑”来了  阿里云正式发布无影Agentbay](https://www.jiqizhixin.com/articles/2025-07-28-14)
+**发布时间**: 2025-07-28 22:59
+
+#### [这届WAIC，无问芯穹发布了三个「盒子」](https://www.jiqizhixin.com/articles/2025-07-28-13)
+**发布时间**: 2025-07-28 19:08
+
+#### [「幻觉」竟是Karpathy十年前命名的？这个AI圈起名大师带火了多少概念？](https://www.jiqizhixin.com/articles/2025-07-28-12)
+**发布时间**: 2025-07-28 19:01
+
+#### [EvaLearn：AI下半场的全新评测范式！](https://www.jiqizhixin.com/articles/2025-07-28-11)
+**发布时间**: 2025-07-28 18:57
+
+#### [蚂蚁数科发布金融推理大模型 助力金融机构加速落地智能体应用](https://www.jiqizhixin.com/articles/2025-07-28-10)
+**发布时间**: 2025-07-28 16:57
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [SensorLM: Learning the language of wearable sensors](https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/)
+**发布时间**: 2025-07-28 17:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [抢跑GPT-5，智谱开源新SOTA模型，一句话搞出能看视频、发弹幕的B站！](https://www.qbitai.com/2025/07/314684.html)
+**发布时间**: 2025-07-28 16:05
+
+#### [智能座舱率先L3！AI Agent上车颠覆体验，千里科技WAIC交卷](https://www.qbitai.com/2025/07/314663.html)
+**发布时间**: 2025-07-28 12:00
+
+#### [WAIC2025，斑马智行元神AI获国际测评机构全项第一](https://www.qbitai.com/2025/07/314650.html)
+**发布时间**: 2025-07-28 10:27
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: how China’s universities approach AI, and the pitfalls of welfare algorithms](https://www.technologyreview.com/2025/07/28/1120752/the-download-how-chinas-universities-approach-ai-and-the-pitfalls-of-welfare-algorithms/)
+**发布时间**: 2025-07-28 12:10
+
+#### [Chinese universities want students to use more AI, not less](https://www.technologyreview.com/2025/07/28/1120747/chinese-universities-ai-use/)
+**发布时间**: 2025-07-28 09:00
 
 ---
 

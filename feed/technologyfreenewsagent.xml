@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Jul 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 08:33:16 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 23:23:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 23:23:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>'AI Godfather' Geoffrey Hinton Warns Multimodal Chatbots Are Already Conscious in Shanghai</title>
-      <link>https://www.tmtpost.com/7640272.html</link>
-      <description>&lt;![CDATA['AI Godfather' Geoffrey Hinton Warns Multimodal Chatbots Are Already Conscious in Shanghai]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 15:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640272.html</guid>
+      <title>刚刚！智谱开源3550亿参数GLM-4.5模型，多项性能或超越Kimi K2成全球第三</title>
+      <link>https://www.tmtpost.com/7640658.html</link>
+      <description>&lt;![CDATA[刚刚！智谱开源3550亿参数GLM-4.5模型，多项性能或超越Kimi K2成全球第三]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 22:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7640658.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英特尔断臂求生，汽车业务夭折</title>
-      <link>https://www.tmtpost.com/7640020.html</link>
-      <description>&lt;![CDATA[英特尔断臂求生，汽车业务夭折]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640020.html</guid>
+      <title>InfoQ研究中心与中欧AI与管理创新研究中心联合发布《中国大模型落地应用研究报告2025》</title>
+      <link>https://www.infoq.cn/article/IxVHyTdB7YGbNDfKpL6z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[InfoQ研究中心与中欧AI与管理创新研究中心联合发布《中国大模型落地应用研究报告2025》]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IxVHyTdB7YGbNDfKpL6z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AgiBot Unveils World Model Platform and Eyes Global Expansion at WAIC 2025</title>
-      <link>https://www.tmtpost.com/7640119.html</link>
-      <description>&lt;![CDATA[AgiBot Unveils World Model Platform and Eyes Global Expansion at WAIC 2025]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 13:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640119.html</guid>
+      <title>腾讯、阿里抢滩AI编程：重构互联网基因的“雅江工程”</title>
+      <link>https://www.tmtpost.com/7640433.html</link>
+      <description>&lt;![CDATA[腾讯、阿里抢滩AI编程：重构互联网基因的“雅江工程”]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 20:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7640433.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌Apigee添加了内置的LLM治理Model Armor</title>
-      <link>https://www.infoq.cn/article/5gb1yvhiNqjP0EaFUrNo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌Apigee添加了内置的LLM治理Model Armor]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5gb1yvhiNqjP0EaFUrNo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Qwen团队发布了Qwen3-Coder，一个具有开放工具的大型智能体编码模型</title>
+      <link>https://www.infoq.cn/article/OwLt7KGWUi0rTM4YtIEo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Qwen团队发布了Qwen3-Coder，一个具有开放工具的大型智能体编码模型]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OwLt7KGWUi0rTM4YtIEo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扣子官宣开源，掀桌大动作背后如何决策？扣子负责人独家披露</title>
-      <link>https://www.infoq.cn/article/A4iKxOQF5tFQ24IZedCL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[扣子官宣开源，掀桌大动作背后如何决策？扣子负责人独家披露]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 14:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/A4iKxOQF5tFQ24IZedCL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从AIPC到JoyAI，京东AI布局全面升级 | 独家</title>
+      <link>https://www.tmtpost.com/7640422.html</link>
+      <description>&lt;![CDATA[从AIPC到JoyAI，京东AI布局全面升级 | 独家]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7640422.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具透 | macOS Tahoe 26 推出公开测试版，你能提前看到这些亮点</title>
-      <link>https://sspai.com/post/101018</link>
-      <description>&lt;![CDATA[具透 | macOS Tahoe 26 推出公开测试版，你能提前看到这些亮点]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101018</guid>
+      <title>怎么把 AI 用出生产力？| InfoQ《极客有约》</title>
+      <link>https://www.infoq.cn/video/3NYwz6oFiY1JBMfsjcCN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[怎么把 AI 用出生产力？| InfoQ《极客有约》]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/3NYwz6oFiY1JBMfsjcCN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在WAIC 2025现场，和“活人感”社交Agent聊天是什么体验？</title>
-      <link>https://www.tmtpost.com/7640082.html</link>
-      <description>&lt;![CDATA[在WAIC 2025现场，和“活人感”社交Agent聊天是什么体验？]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640082.html</guid>
+      <title>The UK is slogging through an online age-gate apocalypse</title>
+      <link>https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions</link>
+      <description>&lt;![CDATA[The UK is slogging through an online age-gate apocalypse]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>饿了么前CEO被抓审讯画面公开；华为首次展出“算力核弹”真机；应届生拒绝offer被HR威胁业内封杀｜AI周报</title>
-      <link>https://www.infoq.cn/article/PAWpjoqgkExkAf7rOuXu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[饿了么前CEO被抓审讯画面公开；华为首次展出“算力核弹”真机；应届生拒绝offer被HR威胁业内封杀｜AI周报]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PAWpjoqgkExkAf7rOuXu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is a privacy nightmare</title>
+      <link>https://www.theverge.com/cyber-security/714750/tea-hack-breach</link>
+      <description>&lt;![CDATA[Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is a privacy nightmare]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 20:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/cyber-security/714750/tea-hack-breach</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里瓴羊集团高级技术专家王克将出席 AICon 深圳，分享营销 Agent 有用吗？一个组织由内至外的技术路径实践</title>
-      <link>https://www.infoq.cn/article/2mYArUIMGGGoXvzyDcDm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里瓴羊集团高级技术专家王克将出席 AICon 深圳，分享营销 Agent 有用吗？一个组织由内至外的技术路径实践]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2mYArUIMGGGoXvzyDcDm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Is Silicon Valley Losing Its Influence on DC?</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/</link>
+      <description>&lt;![CDATA[Is Silicon Valley Losing Its Influence on DC?]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>京东做酒旅，比外卖安静</title>
-      <link>https://www.tmtpost.com/7639869.html</link>
-      <description>&lt;![CDATA[京东做酒旅，比外卖安静]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7639869.html</guid>
+      <title>Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones</title>
+      <link>https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms</link>
+      <description>&lt;![CDATA[Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 22:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-28 08:32
+**最后更新时间**: 2025-07-28 23:23
+
+---
+
+## 🆕 最新更新 (2025-07-28 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nike’s stock jumps after an analyst says ‘just buy it’ ahead of soccer World Cup](https://www.marketwatch.com/story/nikes-stock-jumps-after-an-analyst-says-just-buy-it-ahead-of-soccer-world-cup-5e6cd3ea?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 22:31
+
+#### [‘I keep getting the same song and dance’: My salary has not kept up with inflation. Is my company cheating me?](https://www.marketwatch.com/story/i-keep-getting-the-same-song-and-dance-my-salary-has-not-kept-up-with-inflation-is-my-company-cheating-me-ebcbfc53?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 22:15
+
+#### [Bed Bath & Beyond parent company’s latest problem has nothing to do with retail](https://www.marketwatch.com/story/bed-bath-beyond-parent-companys-latest-problem-has-nothing-to-do-with-retail-b7f1f5bb?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 22:15
+
+#### [NBA star Kyrie Irving says it ‘puts a target on someone’s life’ when fans know how much money players earn](https://www.marketwatch.com/story/nba-star-kyrie-irving-says-it-puts-a-target-on-someones-life-when-fans-know-how-much-money-players-earn-5f503ab9?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 21:45
+
+#### [Walmart shoppers’ behavior hasn’t changed much even as tariffs push prices higher, analysts say](https://www.marketwatch.com/story/walmart-shoppers-behavior-hasnt-changed-much-even-as-tariffs-push-prices-higher-analysts-say-2538448b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 21:30
+
+#### [The E.U. to buy $750 billion of U.S. energy products. Why that’s ‘absurd.’](https://www.marketwatch.com/story/the-e-u-says-it-will-buy-750-billion-of-u-s-energy-products-why-thats-absurd-ac5de025?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 21:06
+
+#### [‘I have Type 1 diabetes’: I’m 64 with a $1.3 million 401(k). Is it too late for long-term-care insurance?](https://www.marketwatch.com/story/i-have-type-1-diabetes-im-64-with-a-1-3-million-401-k-is-it-too-late-for-long-term-care-insurance-15c4555a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 21:00
+
+#### [Whirlpool says rivals have raced to do this to sidestep tariffs](https://www.marketwatch.com/story/whirlpool-says-rivals-have-raced-to-do-this-to-sidestep-tariffs-c442fa93?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 20:54
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Will Intel give up on chip manufacturing? It could create a big ripple effect.](https://www.marketwatch.com/bulletins/redirect/go?g=3d49d966-d0ac-4ae2-8fe5-3b5f23f4fdae&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 21:56
+
+#### [E.U. says it'll buy $750 billion of U.S. energy products. Why that’s ‘absurd.'](https://www.marketwatch.com/bulletins/redirect/go?g=729e9b29-2eb6-4505-a361-5f920314bfdd&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 20:43
+
+#### [U.S. stocks end mixed ahead of Fed decision, key earnings and economic data](https://www.marketwatch.com/bulletins/redirect/go?g=6d0f915a-50d9-46b3-9bba-7d4126a5b577&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 20:02
+
+#### [Where Morgan Stanley is looking for value after powerful rebound in U.S. stocks](https://www.marketwatch.com/bulletins/redirect/go?g=318ae8e5-7e6e-4f14-95e4-431a0602f6f3&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 19:25
+
+#### [Figma’s hot IPO may open the door for more big software deals](https://www.marketwatch.com/bulletins/redirect/go?g=901fbbaf-d9be-42fc-809d-a16855e0a75b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 17:35
+
+#### [Has your paycheck kept up with inflation? Are you being cheated, if not?](https://www.marketwatch.com/bulletins/redirect/go?g=ff93fb42-384d-42e7-8ed3-a81af7fc6fd0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 16:38
+
+#### [What top strategist Yardeni is watching this summer — join a discussion at noon](https://www.marketwatch.com/bulletins/redirect/go?g=91849366-5e7b-48f2-b55b-86135e340148&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 15:48
+
+#### [Nike continues recent rebound as analyst foresees World Cup catalyst](https://www.marketwatch.com/bulletins/redirect/go?g=2d5956d9-8a9a-4eab-a61a-9e10dc78bb68&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 14:32
+
+#### [Dow ticks lower as S&P 500 and Nasdaq build on records — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=6a75d23e-9a11-4ffa-9746-69081b81e5e9&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 14:02
+
+#### [Economic calendar: Fed week brings GDP, home-price and consumer-confidence data](https://www.marketwatch.com/bulletins/redirect/go?g=78ddc107-e8e3-49bb-acf6-f40f4c9cc582&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 12:08
 
 ---
 
