@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Jul 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 23:23:48 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 05:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 05:35:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI Agents的“超级大脑”来了  阿里云正式发布无影Agentbay</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-14</link>
-      <description>&lt;![CDATA[AI Agents的“超级大脑”来了  阿里云正式发布无影Agentbay]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 22:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-14</guid>
+      <title>Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges</title>
+      <link>https://arxiv.org/abs/2507.19672</link>
+      <description>&lt;![CDATA[Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.19672</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>抢跑GPT-5，智谱开源新SOTA模型，一句话搞出能看视频、发弹幕的B站！</title>
-      <link>https://www.qbitai.com/2025/07/314684.html</link>
-      <description>&lt;![CDATA[抢跑GPT-5，智谱开源新SOTA模型，一句话搞出能看视频、发弹幕的B站！]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 16:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314684.html</guid>
+      <title>刚刚，微软推出AI浏览器，上网从此不一样了</title>
+      <link>https://www.qbitai.com/2025/07/314900.html</link>
+      <description>&lt;![CDATA[刚刚，微软推出AI浏览器，上网从此不一样了]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314900.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>EvaLearn：AI下半场的全新评测范式！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-11</link>
-      <description>&lt;![CDATA[EvaLearn：AI下半场的全新评测范式！]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 18:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-11</guid>
+      <title>国内首例！由钉钉AI平台训练的豆蔻大模型通过妇产科主任医师考试</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-4</link>
+      <description>&lt;![CDATA[国内首例！由钉钉AI平台训练的豆蔻大模型通过妇产科主任医师考试]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁数科发布金融推理大模型 助力金融机构加速落地智能体应用</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-10</link>
-      <description>&lt;![CDATA[蚂蚁数科发布金融推理大模型 助力金融机构加速落地智能体应用]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-10</guid>
+      <title>Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition</title>
+      <link>https://arxiv.org/abs/2507.20526</link>
+      <description>&lt;![CDATA[Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.20526</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>SensorLM: Learning the language of wearable sensors</title>
-      <link>https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/</link>
-      <description>&lt;![CDATA[SensorLM: Learning the language of wearable sensors]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/</guid>
+      <title>DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference</title>
+      <link>https://arxiv.org/abs/2507.19608</link>
+      <description>&lt;![CDATA[DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.19608</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: how China’s universities approach AI, and the pitfalls of welfare algorithms</title>
-      <link>https://www.technologyreview.com/2025/07/28/1120752/the-download-how-chinas-universities-approach-ai-and-the-pitfalls-of-welfare-algorithms/</link>
-      <description>&lt;![CDATA[The Download: how China’s universities approach AI, and the pitfalls of welfare algorithms]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/28/1120752/the-download-how-chinas-universities-approach-ai-and-the-pitfalls-of-welfare-algorithms/</guid>
+      <title>智能体“中国方案”崛起：MasterAgent践行自主可控之路</title>
+      <link>https://www.qbitai.com/2025/07/314974.html</link>
+      <description>&lt;![CDATA[智能体“中国方案”崛起：MasterAgent践行自主可控之路]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 02:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314974.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Chinese universities want students to use more AI, not less</title>
-      <link>https://www.technologyreview.com/2025/07/28/1120747/chinese-universities-ai-use/</link>
-      <description>&lt;![CDATA[Chinese universities want students to use more AI, not less]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/28/1120747/chinese-universities-ai-use/</guid>
+      <title>Hypergames: Modeling Misaligned Perceptions and Nested Beliefs for Multi-agent Systems</title>
+      <link>https://arxiv.org/abs/2507.19593</link>
+      <description>&lt;![CDATA[Hypergames: Modeling Misaligned Perceptions and Nested Beliefs for Multi-agent Systems]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.19593</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>「幻觉」竟是Karpathy十年前命名的？这个AI圈起名大师带火了多少概念？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-12</link>
-      <description>&lt;![CDATA[「幻觉」竟是Karpathy十年前命名的？这个AI圈起名大师带火了多少概念？]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 19:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-12</guid>
+      <title>VLMPlanner: Integrating Visual Language Models with Motion Planning</title>
+      <link>https://arxiv.org/abs/2507.20342</link>
+      <description>&lt;![CDATA[VLMPlanner: Integrating Visual Language Models with Motion Planning]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.20342</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>智能座舱率先L3！AI Agent上车颠覆体验，千里科技WAIC交卷</title>
-      <link>https://www.qbitai.com/2025/07/314663.html</link>
-      <description>&lt;![CDATA[智能座舱率先L3！AI Agent上车颠覆体验，千里科技WAIC交卷]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314663.html</guid>
+      <title>What Does 'Human-Centred AI' Mean?</title>
+      <link>https://arxiv.org/abs/2507.19960</link>
+      <description>&lt;![CDATA[What Does 'Human-Centred AI' Mean?]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.19960</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>这届WAIC，无问芯穹发布了三个「盒子」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-28-13</link>
-      <description>&lt;![CDATA[这届WAIC，无问芯穹发布了三个「盒子」]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 19:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-28-13</guid>
+      <title>MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models</title>
+      <link>https://arxiv.org/abs/2507.20395</link>
+      <description>&lt;![CDATA[MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.20395</guid>
       <category>AI</category>
     </item>
   </channel>

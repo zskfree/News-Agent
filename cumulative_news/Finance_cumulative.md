@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-28 23:23
+**最后更新时间**: 2025-07-29 05:35
+
+---
+
+## 🆕 最新更新 (2025-07-29 05:35)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Are Americans squandering their retirement savings on eating out?](https://www.marketwatch.com/bulletins/redirect/go?g=1e96c33a-4536-4f78-bc83-d683e6c9bbae&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 01:02
+
+#### [This company nailed a moon landing. Now it’s preparing to go public.](https://www.marketwatch.com/bulletins/redirect/go?g=0a4658c8-a3bf-4791-947c-86764e60cca5&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-28 23:35
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Coinbase investors should cash in. The stock has rallied too much ahead of earnings, analyst says.](https://www.marketwatch.com/story/coinbase-investors-should-cash-in-the-stock-has-rallied-too-much-ahead-of-earnings-analyst-says-dad5fff0?mod=mw_rss_topstories)
+**发布时间**: 2025-07-28 23:37
 
 ---
 

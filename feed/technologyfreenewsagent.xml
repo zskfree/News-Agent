@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Jul 2025 23:23:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 23:23:31 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 05:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 05:35:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚！智谱开源3550亿参数GLM-4.5模型，多项性能或超越Kimi K2成全球第三</title>
-      <link>https://www.tmtpost.com/7640658.html</link>
-      <description>&lt;![CDATA[刚刚！智谱开源3550亿参数GLM-4.5模型，多项性能或超越Kimi K2成全球第三]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 22:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640658.html</guid>
+      <title>腾讯张正友回应具身智能三问：不造硬件、此时开放、人形非终极</title>
+      <link>https://www.tmtpost.com/7641280.html</link>
+      <description>&lt;![CDATA[腾讯张正友回应具身智能三问：不造硬件、此时开放、人形非终极]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641280.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>InfoQ研究中心与中欧AI与管理创新研究中心联合发布《中国大模型落地应用研究报告2025》</title>
-      <link>https://www.infoq.cn/article/IxVHyTdB7YGbNDfKpL6z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[InfoQ研究中心与中欧AI与管理创新研究中心联合发布《中国大模型落地应用研究报告2025》]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IxVHyTdB7YGbNDfKpL6z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【生态环境周观察】中欧共同发表《中欧领导人关于应对气候变化的联合声明》；中国聚变公司成立；晶澳科技将出售美国光伏工厂</title>
+      <link>https://www.tmtpost.com/7641131.html</link>
+      <description>&lt;![CDATA[【生态环境周观察】中欧共同发表《中欧领导人关于应对气候变化的联合声明》；中国聚变公司成立；晶澳科技将出售美国光伏工厂]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641131.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯、阿里抢滩AI编程：重构互联网基因的“雅江工程”</title>
-      <link>https://www.tmtpost.com/7640433.html</link>
-      <description>&lt;![CDATA[腾讯、阿里抢滩AI编程：重构互联网基因的“雅江工程”]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 20:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640433.html</guid>
+      <title>亚马逊云科技推出S3 Vectors预览版</title>
+      <link>https://www.infoq.cn/article/9ogx3OcOlU0VWMLh8YLF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技推出S3 Vectors预览版]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9ogx3OcOlU0VWMLh8YLF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Qwen团队发布了Qwen3-Coder，一个具有开放工具的大型智能体编码模型</title>
-      <link>https://www.infoq.cn/article/OwLt7KGWUi0rTM4YtIEo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Qwen团队发布了Qwen3-Coder，一个具有开放工具的大型智能体编码模型]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OwLt7KGWUi0rTM4YtIEo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Hadoop到Kubernetes：Pinterest在AWS EKS上的可扩展Spark架构</title>
+      <link>https://www.infoq.cn/article/qQickijSocJOtSYuxM1d?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从Hadoop到Kubernetes：Pinterest在AWS EKS上的可扩展Spark架构]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qQickijSocJOtSYuxM1d?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从AIPC到JoyAI，京东AI布局全面升级 | 独家</title>
-      <link>https://www.tmtpost.com/7640422.html</link>
-      <description>&lt;![CDATA[从AIPC到JoyAI，京东AI布局全面升级 | 独家]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7640422.html</guid>
+      <title>智能体重构消费生态，MCP 工具如何成为 AI 电商的新基建｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/WBHhmzlFJUTpYDmkRoAp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体重构消费生态，MCP 工具如何成为 AI 电商的新基建｜AICon深圳]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WBHhmzlFJUTpYDmkRoAp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>怎么把 AI 用出生产力？| InfoQ《极客有约》</title>
-      <link>https://www.infoq.cn/video/3NYwz6oFiY1JBMfsjcCN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[怎么把 AI 用出生产力？| InfoQ《极客有约》]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 18:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/3NYwz6oFiY1JBMfsjcCN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>想上市的Momenta，想起来自己是“双飞轮”</title>
+      <link>https://www.tmtpost.com/7641129.html</link>
+      <description>&lt;![CDATA[想上市的Momenta，想起来自己是“双飞轮”]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641129.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The UK is slogging through an online age-gate apocalypse</title>
-      <link>https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions</link>
-      <description>&lt;![CDATA[The UK is slogging through an online age-gate apocalypse]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions</guid>
+      <title>中国押注电力无限的未来</title>
+      <link>https://www.tmtpost.com/7641419.html</link>
+      <description>&lt;![CDATA[中国押注电力无限的未来]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641419.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is a privacy nightmare</title>
-      <link>https://www.theverge.com/cyber-security/714750/tea-hack-breach</link>
-      <description>&lt;![CDATA[Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is a privacy nightmare]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/cyber-security/714750/tea-hack-breach</guid>
+      <title>国产0获批，200万脑积水患者的治疗被卡脖子？</title>
+      <link>https://www.tmtpost.com/7641324.html</link>
+      <description>&lt;![CDATA[国产0获批，200万脑积水患者的治疗被卡脖子？]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641324.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Is Silicon Valley Losing Its Influence on DC?</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/</link>
-      <description>&lt;![CDATA[Is Silicon Valley Losing Its Influence on DC?]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/</guid>
+      <title>星际之门的烂尾危机：盟友分歧、融资困局与工程死结</title>
+      <link>https://www.tmtpost.com/7641255.html</link>
+      <description>&lt;![CDATA[星际之门的烂尾危机：盟友分歧、融资困局与工程死结]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641255.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones</title>
-      <link>https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms</link>
-      <description>&lt;![CDATA[Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 22:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms</guid>
+      <title>素材榜TOP72%是小游戏，还反攻APP畅销榜？</title>
+      <link>https://www.tmtpost.com/7641081.html</link>
+      <description>&lt;![CDATA[素材榜TOP72%是小游戏，还反攻APP畅销榜？]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 13:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7641081.html</guid>
       <category>Technology</category>
     </item>
   </channel>

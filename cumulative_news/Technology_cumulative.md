@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-28 23:23
+**最后更新时间**: 2025-07-29 05:35
+
+---
+
+## 🆕 最新更新 (2025-07-29 05:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [天气越热，电风扇越“凉”？](https://www.tmtpost.com/7641104.html)
+**发布时间**: 2025-07-29 13:16
+
+#### [素材榜TOP72%是小游戏，还反攻APP畅销榜？](https://www.tmtpost.com/7641081.html)
+**发布时间**: 2025-07-29 13:11
+
+#### [A股军工榜：超预期的三个逻辑](https://www.tmtpost.com/7640960.html)
+**发布时间**: 2025-07-29 13:07
+
+#### [失去肖战后，哇唧唧哇站在了十字路口](https://www.tmtpost.com/7641123.html)
+**发布时间**: 2025-07-29 13:04
+
+#### [400亿热钱，资本不再寻找下一个欧莱雅](https://www.tmtpost.com/7641303.html)
+**发布时间**: 2025-07-29 13:04
+
+#### [钟睒睒之后，下一个水王在哪里？](https://www.tmtpost.com/7641399.html)
+**发布时间**: 2025-07-29 13:04
+
+#### [中国押注电力无限的未来](https://www.tmtpost.com/7641419.html)
+**发布时间**: 2025-07-29 13:03
+
+#### [想上市的Momenta，想起来自己是“双飞轮”](https://www.tmtpost.com/7641129.html)
+**发布时间**: 2025-07-29 12:45
+
+#### [李嘉诚急了，港口卖美失败或将引入内地资本](https://www.tmtpost.com/7641136.html)
+**发布时间**: 2025-07-29 12:45
+
+#### [星际之门的烂尾危机：盟友分歧、融资困局与工程死结](https://www.tmtpost.com/7641255.html)
+**发布时间**: 2025-07-29 12:45
+
+#### [国产0获批，200万脑积水患者的治疗被卡脖子？](https://www.tmtpost.com/7641324.html)
+**发布时间**: 2025-07-29 12:45
+
+#### [现在“跨界”做长租公寓，晚不晚？](https://www.tmtpost.com/7641032.html)
+**发布时间**: 2025-07-29 11:56
+
+#### [起底“少林寺CEO”的酒旅版图](https://www.tmtpost.com/7641144.html)
+**发布时间**: 2025-07-29 11:56
+
+#### [“雪糕刺客”走了，2元“汽水鼻祖”杀回市场，被年轻人买爆了](https://www.tmtpost.com/7641151.html)
+**发布时间**: 2025-07-29 11:55
+
+#### [业务部门需要的职能BP，长什么样？](https://www.tmtpost.com/7641152.html)
+**发布时间**: 2025-07-29 11:55
+
+#### [Bojue Photo's Sudden Shutdown Leaves Consumers Stranded and Exposes Deep Cracks in the "Happiness Economy"](https://www.tmtpost.com/7641354.html)
+**发布时间**: 2025-07-29 11:54
+
+#### [腾讯张正友回应具身智能三问：不造硬件、此时开放、人形非终极](https://www.tmtpost.com/7641280.html)
+**发布时间**: 2025-07-29 11:48
+
+#### [【生态环境周观察】中欧共同发表《中欧领导人关于应对气候变化的联合声明》；中国聚变公司成立；晶澳科技将出售美国光伏工厂](https://www.tmtpost.com/7641131.html)
+**发布时间**: 2025-07-29 11:47
+
+#### [区域银行中期答卷：谁是增长“优等生”，谁在寻找新解法？｜巴伦精选](https://www.tmtpost.com/7640749.html)
+**发布时间**: 2025-07-29 11:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从Hadoop到Kubernetes：Pinterest在AWS EKS上的可扩展Spark架构](https://www.infoq.cn/article/qQickijSocJOtSYuxM1d?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 12:00
+
+#### [.NET MAUI 10预览版本6带来了性能更新和小的增强](https://www.infoq.cn/article/j3KDaY4LtldmbtDChOUB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 11:00
+
+#### [亚马逊云科技推出S3 Vectors预览版](https://www.infoq.cn/article/9ogx3OcOlU0VWMLh8YLF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 10:35
+
+#### [智能体重构消费生态，MCP 工具如何成为 AI 电商的新基建｜AICon深圳](https://www.infoq.cn/article/WBHhmzlFJUTpYDmkRoAp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 10:29
+
+#### [阿里瓴羊集团高级技术专家王克将出席 AICon 深圳，分享营销 Agent 的技术路径实践](https://www.infoq.cn/article/2mYArUIMGGGoXvzyDcDm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 14:38
+
+#### [【宝藏贴】HarmonyOS官方模板优秀案例
+（第1期：便捷生活 · 购物中心）](https://www.infoq.cn/article/7wTCodIMsYXR8WXDFX8Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 14:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | watchOS 26 推出首个公测版，这些新功能值得尝鲜体验](https://sspai.com/post/101397)
+**发布时间**: 2025-07-29 11:30
+
+#### [派早报：微软 Edge 更新 Copilot 模式，索尼就游戏抄袭问题起诉腾讯等](https://sspai.com/post/101413)
+**发布时间**: 2025-07-29 08:43
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [LG Promo Codes: 20% Off | July 2025](https://www.wired.com/story/lg-promo-code/)
+**发布时间**: 2025-07-29 05:10
+
+#### [Samsung Promo Codes: 30% Off | July 2025](https://www.wired.com/story/samsung-promo-codes/)
+**发布时间**: 2025-07-29 05:00
 
 ---
 
