@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-29 05:35
+**最后更新时间**: 2025-07-29 08:32
+
+---
+
+## 🆕 最新更新 (2025-07-29 08:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Philips credits tariff mitigation as it lifts profit outlook](https://www.marketwatch.com/bulletins/redirect/go?g=5f4313f1-4970-4069-ac0d-4e84ee9eebe1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 07:54
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Philips lifts profit outlook on tariff mitigation as Stellantis flags $1.7 billion hit from levies](https://www.marketwatch.com/story/philips-lifts-profit-outlook-on-tariff-mitigation-as-stellantis-flags-1-7-billion-hit-from-levies-7e2b9dfa?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 07:46
 
 ---
 

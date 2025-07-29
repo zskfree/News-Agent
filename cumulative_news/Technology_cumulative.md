@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-29 05:35
+**最后更新时间**: 2025-07-29 08:32
+
+---
+
+## 🆕 最新更新 (2025-07-29 08:32)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [用说的就能做 App，这家公司想做 AI 时代的 ins](http://www.geekpark.net/news/352095)
+**发布时间**: 2025-07-29 16:30
+
+#### [AI 上新｜不会用 PS 的我，却敢去小红书上接「设计单」了](http://www.geekpark.net/news/352075)
+**发布时间**: 2025-07-29 14:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [JD.com Advances Embodied AI at WAIC 2025, Eyes Future of Intelligent Robots in Daily Life](https://www.tmtpost.com/7641752.html)
+**发布时间**: 2025-07-29 16:17
+
+#### [7月29日A股分析：沪指涨0.33%报3609.71点，两市合计成交18031.71亿元，资金流出最多的概念板块为融资融券](https://www.tmtpost.com/7641686.html)
+**发布时间**: 2025-07-29 15:32
+
+#### [China's Zhipu Debuts GLM-4.5, Outperforming Rivals With Leaner and Faster AI Model](https://www.tmtpost.com/7641631.html)
+**发布时间**: 2025-07-29 14:41
+
+#### [China Caps E-Bike Speeds at 25 km/h in New Safety Overhaul](https://www.tmtpost.com/7641611.html)
+**发布时间**: 2025-07-29 14:25
+
+#### [机器人行业的“Android时刻”？开源鸿蒙机器人操作系统来了](https://www.tmtpost.com/7641265.html)
+**发布时间**: 2025-07-29 14:14
+
+#### [Trump Says He May Set 15% to 20% Rates as Global Baseline Tariffs](https://www.tmtpost.com/7641583.html)
+**发布时间**: 2025-07-29 13:53
+
+#### [新能源，重新开干](https://www.tmtpost.com/7641120.html)
+**发布时间**: 2025-07-29 13:50
+
+#### [不止少林寺，揭开寺庙的“赚钱密码”](https://www.tmtpost.com/7641186.html)
+**发布时间**: 2025-07-29 13:41
+
+#### [搭建AI通往真实世界交互的桥梁，商汤“绝影开悟”世界模型再升级](https://www.tmtpost.com/7640369.html)
+**发布时间**: 2025-07-29 13:37
+
+#### [2025下半年：餐饮老板要认清现实、扎根一线、果断止损](https://www.tmtpost.com/7641264.html)
+**发布时间**: 2025-07-29 13:32
+
+#### [国产类CoWoS封装火热，千亿资本或涌入](https://www.tmtpost.com/7641117.html)
+**发布时间**: 2025-07-29 13:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [中科闻歌发布AI科学家智能体，通用智能体榜单评测双榜第一，打造科研超级助手](https://www.infoq.cn/article/KHKBfd1fbO6WX7c0UxHb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 15:06
+
+#### [Databricks Agent Bricks使用TAO和ALHF方法自动化企业AI开发](https://www.infoq.cn/article/tO0PAl0ySGGHfhKElfCh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 15:00
+
+#### [从技术赋能到范式革新：快手安全大模型驱动内容审核智能化重塑｜AICon 深圳](https://www.infoq.cn/article/GbRGL9VMHuXhjYbz0aSd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 14:47
+
+#### [ClickHouse 25.6 盛夏福利版：CoalescingMergeTree 表引擎](https://www.infoq.cn/article/odXBfkEjEIcXvXbucVkw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 14:05
+
+#### [理解和缓解微服务中的高能耗](https://www.infoq.cn/article/Xf9lS32cALej8xmLw1fl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 14:00
+
+#### [【宝藏贴】HarmonyOS官方模板优秀案例
+（第1期：便捷生活 · 购物中心）](https://www.infoq.cn/article/7wTCodIMsYXR8WXDFX8Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-28 14:18
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [迈向50亿时代？短剧播放量膨胀背后的焦虑凸显](http://www.huxiu.com/article/4629736.html?f=wangzhan)
+**发布时间**: 2025-07-29 12:39
+
+#### [资本涌入情感赛道，人类孤独正被算法定价？](http://www.huxiu.com/article/4626613.html?f=wangzhan)
+**发布时间**: 2025-07-29 10:45
+
+#### [AI重构记忆存储方式，杭州60年照相馆赛博永生了](http://www.huxiu.com/article/4618582.html?f=wangzhan)
+**发布时间**: 2025-07-29 08:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+**发布时间**: 2025-07-29 05:40
 
 ---
 

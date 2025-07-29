@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Jul 2025 05:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 05:35:48 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 08:32:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges</title>
-      <link>https://arxiv.org/abs/2507.19672</link>
-      <description>&lt;![CDATA[Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.19672</guid>
+      <title>英伟达全新开源模型：三倍吞吐、单卡可跑，还拿下推理SOTA</title>
+      <link>https://www.qbitai.com/2025/07/315193.html</link>
+      <description>&lt;![CDATA[英伟达全新开源模型：三倍吞吐、单卡可跑，还拿下推理SOTA]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 07:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315193.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，微软推出AI浏览器，上网从此不一样了</title>
-      <link>https://www.qbitai.com/2025/07/314900.html</link>
-      <description>&lt;![CDATA[刚刚，微软推出AI浏览器，上网从此不一样了]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314900.html</guid>
+      <title>开启RL Scaling新纪元，siiRL开源：完全分布式强化学习框架，支持超千卡规模高效训练</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-13</link>
+      <description>&lt;![CDATA[开启RL Scaling新纪元，siiRL开源：完全分布式强化学习框架，支持超千卡规模高效训练]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>国内首例！由钉钉AI平台训练的豆蔻大模型通过妇产科主任医师考试</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-4</link>
-      <description>&lt;![CDATA[国内首例！由钉钉AI平台训练的豆蔻大模型通过妇产科主任医师考试]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-4</guid>
+      <title>不靠海量数据，如何精准喂养大模型？上交Data Whisperer：免训练数据选择法，10%数据逼近全量效果</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-10</link>
+      <description>&lt;![CDATA[不靠海量数据，如何精准喂养大模型？上交Data Whisperer：免训练数据选择法，10%数据逼近全量效果]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition</title>
-      <link>https://arxiv.org/abs/2507.20526</link>
-      <description>&lt;![CDATA[Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.20526</guid>
+      <title>阿里再开源，全球首个MoE视频生成模型登场，电影级美学效果一触即达</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-11</link>
+      <description>&lt;![CDATA[阿里再开源，全球首个MoE视频生成模型登场，电影级美学效果一触即达]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference</title>
-      <link>https://arxiv.org/abs/2507.19608</link>
-      <description>&lt;![CDATA[DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.19608</guid>
+      <title>Allegro-FM：剑指分子动力学基础模型，零样本预测89种元素及复杂反应</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-7</link>
+      <description>&lt;![CDATA[Allegro-FM：剑指分子动力学基础模型，零样本预测89种元素及复杂反应]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>智能体“中国方案”崛起：MasterAgent践行自主可控之路</title>
-      <link>https://www.qbitai.com/2025/07/314974.html</link>
-      <description>&lt;![CDATA[智能体“中国方案”崛起：MasterAgent践行自主可控之路]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 02:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/314974.html</guid>
+      <title>蛋白质基座的GPT时代来了？AMix用Test-time Scaling让蛋白质设计迈向通用智能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-8</link>
+      <description>&lt;![CDATA[蛋白质基座的GPT时代来了？AMix用Test-time Scaling让蛋白质设计迈向通用智能]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Hypergames: Modeling Misaligned Perceptions and Nested Beliefs for Multi-agent Systems</title>
-      <link>https://arxiv.org/abs/2507.19593</link>
-      <description>&lt;![CDATA[Hypergames: Modeling Misaligned Perceptions and Nested Beliefs for Multi-agent Systems]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.19593</guid>
+      <title>商汤大装置发布基于DeepLink的异构混合调度方案</title>
+      <link>https://www.qbitai.com/2025/07/315204.html</link>
+      <description>&lt;![CDATA[商汤大装置发布基于DeepLink的异构混合调度方案]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315204.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>VLMPlanner: Integrating Visual Language Models with Motion Planning</title>
-      <link>https://arxiv.org/abs/2507.20342</link>
-      <description>&lt;![CDATA[VLMPlanner: Integrating Visual Language Models with Motion Planning]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.20342</guid>
+      <title>预测太阳磁暴全球最强！首个空间天气链式AI预报模型亮相WAIC</title>
+      <link>https://www.qbitai.com/2025/07/315134.html</link>
+      <description>&lt;![CDATA[预测太阳磁暴全球最强！首个空间天气链式AI预报模型亮相WAIC]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315134.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>What Does 'Human-Centred AI' Mean?</title>
-      <link>https://arxiv.org/abs/2507.19960</link>
-      <description>&lt;![CDATA[What Does 'Human-Centred AI' Mean?]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.19960</guid>
+      <title>从数字人到「有温度的」机器人，京东把 AI 深度应用的路线图「摸透」了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-29-14</link>
+      <description>&lt;![CDATA[从数字人到「有温度的」机器人，京东把 AI 深度应用的路线图「摸透」了]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models</title>
-      <link>https://arxiv.org/abs/2507.20395</link>
-      <description>&lt;![CDATA[MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.20395</guid>
+      <title>狂拿大模型明星订单，一家清华系HPC-AI Infra公司浮出水面</title>
+      <link>https://www.qbitai.com/2025/07/315072.html</link>
+      <description>&lt;![CDATA[狂拿大模型明星订单，一家清华系HPC-AI Infra公司浮出水面]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 05:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315072.html</guid>
       <category>AI</category>
     </item>
   </channel>

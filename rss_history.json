@@ -7236,6 +7236,84 @@
         "link": "https://arxiv.org/abs/2507.20755",
         "published_date": "Tue, 29 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-29T05:35:24.389711"
+      },
+      "19b40189386c561ba1940587e95170ffaf4e3f6c595582c01a3c767face721cc": {
+        "title": "从数字人到「有温度的」机器人，京东把 AI 深度应用的路线图「摸透」了",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-14",
+        "published_date": "Tue, 29 Jul 2025 16:21:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375762"
+      },
+      "105d40104bec05c16c0e7cceb6a55ce9173552c1ffa285d4c05ece1f4faafa8a": {
+        "title": "开启RL Scaling新纪元，siiRL开源：完全分布式强化学习框架，支持超千卡规模高效训练",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-13",
+        "published_date": "Tue, 29 Jul 2025 16:08:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375684"
+      },
+      "d6eb47503e483c6dafb6599538329fffda2fc2596747b5c447134e9bb620223c": {
+        "title": "共青年之智，铸AGI未来｜2025 WAIC云帆奖得主名单揭晓",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-12",
+        "published_date": "Tue, 29 Jul 2025 15:17:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.073781"
+      },
+      "f2f0548956e698bead3b263df412f6ae72a67b82a00a378e0e75c571ebbba0a3": {
+        "title": "阿里再开源，全球首个MoE视频生成模型登场，电影级美学效果一触即达",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-11",
+        "published_date": "Tue, 29 Jul 2025 15:10:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375710"
+      },
+      "e1670175414faf144acd75e9007028c386e6faed36345c57858c6482730210f0": {
+        "title": "不靠海量数据，如何精准喂养大模型？上交Data Whisperer：免训练数据选择法，10%数据逼近全量效果",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-10",
+        "published_date": "Tue, 29 Jul 2025 15:04:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375699"
+      },
+      "b513b7aac7cd187596f053ab68a9bea60bd9da516377c66827f722dab96595f6": {
+        "title": "WAIC2025，斑马智行元神AI获国际测评机构全项第一",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-9",
+        "published_date": "Tue, 29 Jul 2025 14:17:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.074884"
+      },
+      "d45702f87cd3311dbc8acce9a9b21cd4fd70eb8c4399195a4aa1c3b558bd2607": {
+        "title": "蛋白质基座的GPT时代来了？AMix用Test-time Scaling让蛋白质设计迈向通用智能",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-8",
+        "published_date": "Tue, 29 Jul 2025 14:07:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375733"
+      },
+      "48927b52a7c53319829d2dc349a6ed856901f9734cb00edf9977678cc5a42235": {
+        "title": "Allegro-FM：剑指分子动力学基础模型，零样本预测89种元素及复杂反应",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-29-7",
+        "published_date": "Tue, 29 Jul 2025 14:06:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375721"
+      },
+      "dffacc088640171f6b421ea154cadc96a3f89eaeca925c88ade015bf4ebda7aa": {
+        "title": "商汤大装置发布基于DeepLink的异构混合调度方案",
+        "link": "https://www.qbitai.com/2025/07/315204.html",
+        "published_date": "Tue, 29 Jul 2025 07:08:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375741"
+      },
+      "0fc1ae3aec8903fd6498b0ff9e5ea836ae733d767a7c78f24bc4b7c259ec6e10": {
+        "title": "英伟达全新开源模型：三倍吞吐、单卡可跑，还拿下推理SOTA",
+        "link": "https://www.qbitai.com/2025/07/315193.html",
+        "published_date": "Tue, 29 Jul 2025 07:05:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375660"
+      },
+      "50e21f253d779cbc6187a8a53a2a158dce73504ad5780a1704ddbbc830970659": {
+        "title": "WAIC UP!之夜：一场关于AI与人类未来的星空思辨",
+        "link": "https://www.qbitai.com/2025/07/315148.html",
+        "published_date": "Tue, 29 Jul 2025 06:38:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.077653"
+      },
+      "58a149949bf527407ace75be8b26914b8f1ad2cc02fabe6729ebc65865cd6f17": {
+        "title": "预测太阳磁暴全球最强！首个空间天气链式AI预报模型亮相WAIC",
+        "link": "https://www.qbitai.com/2025/07/315134.html",
+        "published_date": "Tue, 29 Jul 2025 06:10:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375751"
+      },
+      "e0dfc9ccb951eb519c8975865224abb1cfce597b345477585ff11b408b2cad6e": {
+        "title": "狂拿大模型明星订单，一家清华系HPC-AI Infra公司浮出水面",
+        "link": "https://www.qbitai.com/2025/07/315072.html",
+        "published_date": "Tue, 29 Jul 2025 05:46:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.375771"
       }
     },
     "Technology": {
@@ -18338,6 +18416,138 @@
         "link": "https://www.wired.com/story/lg-promo-code/",
         "published_date": "Tue, 29 Jul 2025 05:10:00 GMT",
         "first_seen": "2025-07-29T05:35:07.637900"
+      },
+      "996c371945d198a7dd559513c785e5b2e2048026907d79dda1b172b448e49284": {
+        "title": "用说的就能做 App，这家公司想做 AI 时代的 ins",
+        "link": "http://www.geekpark.net/news/352095",
+        "published_date": "Tue, 29 Jul 2025 16:30:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031327"
+      },
+      "c16657dee2ceb73142baf40c36e8482e64aba59dc3b0b910d1e38a6526d669cd": {
+        "title": "AI 上新｜不会用 PS 的我，却敢去小红书上接「设计单」了",
+        "link": "http://www.geekpark.net/news/352075",
+        "published_date": "Tue, 29 Jul 2025 14:02:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.060469"
+      },
+      "c032c7b77bc9a2caa3e53ce37b72955245b8536822a0c4aa45b0e903aa969ccb": {
+        "title": "JD.com Advances Embodied AI at WAIC 2025, Eyes Future of Intelligent Robots in Daily Life",
+        "link": "https://www.tmtpost.com/7641752.html",
+        "published_date": "Tue, 29 Jul 2025 16:17:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031291"
+      },
+      "d991546b6a4ee4c923feaf14fd6ed3f44a19eb21bdb38375a879d59cdc854096": {
+        "title": "7月29日A股分析：沪指涨0.33%报3609.71点，两市合计成交18031.71亿元，资金流出最多的概念板块为融资融券",
+        "link": "https://www.tmtpost.com/7641686.html",
+        "published_date": "Tue, 29 Jul 2025 15:32:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.061380"
+      },
+      "c6a4de61598789acf3a3481641fba125faef105e1481e6d91f4f32f7a43f5508": {
+        "title": "China's Zhipu Debuts GLM-4.5, Outperforming Rivals With Leaner and Faster AI Model",
+        "link": "https://www.tmtpost.com/7641631.html",
+        "published_date": "Tue, 29 Jul 2025 14:41:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031253"
+      },
+      "148293fc9e9724e79dd28976ccb02866fe6ef98523365eb1f55c237429642f9b": {
+        "title": "China Caps E-Bike Speeds at 25 km/h in New Safety Overhaul",
+        "link": "https://www.tmtpost.com/7641611.html",
+        "published_date": "Tue, 29 Jul 2025 14:25:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.063152"
+      },
+      "7930cb2325eca4a0c955654af6ef4523a390402a4ff36891a40c1d3ac882e090": {
+        "title": "机器人行业的“Android时刻”？开源鸿蒙机器人操作系统来了",
+        "link": "https://www.tmtpost.com/7641265.html",
+        "published_date": "Tue, 29 Jul 2025 14:14:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031338"
+      },
+      "87c15bdc6e566b3535fb42a39d1ef1ee5ab469c894f515e642237d060b8e1247": {
+        "title": "Trump Says He May Set 15% to 20% Rates as Global Baseline Tariffs",
+        "link": "https://www.tmtpost.com/7641583.html",
+        "published_date": "Tue, 29 Jul 2025 13:53:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.064858"
+      },
+      "ee9df07cc40a2ccf588428673a63903c2451ab7783d03c385326748e6723b777": {
+        "title": "新能源，重新开干",
+        "link": "https://www.tmtpost.com/7641120.html",
+        "published_date": "Tue, 29 Jul 2025 13:50:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.065212"
+      },
+      "1b926a1821724ff46988c5ef16069f75f38cb21d1e8e98696da3d413b11cd187": {
+        "title": "不止少林寺，揭开寺庙的“赚钱密码”",
+        "link": "https://www.tmtpost.com/7641186.html",
+        "published_date": "Tue, 29 Jul 2025 13:41:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.065734"
+      },
+      "d56de49207277e7ed1af98c2e45dd40d37ced9c41d47d195b089c5c55d5bdd98": {
+        "title": "搭建AI通往真实世界交互的桥梁，商汤“绝影开悟”世界模型再升级",
+        "link": "https://www.tmtpost.com/7640369.html",
+        "published_date": "Tue, 29 Jul 2025 13:37:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031277"
+      },
+      "820ca0e5cbd83db0b3cc1463d212ec20c0baa864772c63be57d409019b690500": {
+        "title": "2025下半年：餐饮老板要认清现实、扎根一线、果断止损",
+        "link": "https://www.tmtpost.com/7641264.html",
+        "published_date": "Tue, 29 Jul 2025 13:32:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.067343"
+      },
+      "a8244da1a6f198fff56bf1822c5a9bfaa5c7615c149dab14bf7d4313a33f963d": {
+        "title": "国产类CoWoS封装火热，千亿资本或涌入",
+        "link": "https://www.tmtpost.com/7641117.html",
+        "published_date": "Tue, 29 Jul 2025 13:24:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031346"
+      },
+      "dacf2a158a264611ac22f016808561100f50db2e9e99af4c001986832ababf8b": {
+        "title": "中科闻歌发布AI科学家智能体，通用智能体榜单评测双榜第一，打造科研超级助手",
+        "link": "https://www.infoq.cn/article/KHKBfd1fbO6WX7c0UxHb?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Jul 2025 15:06:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031303"
+      },
+      "3227bf0e977a2ce1b2919d16b07502908986ed0d6ff3f0da0c4682ea993eae8c": {
+        "title": "Databricks Agent Bricks使用TAO和ALHF方法自动化企业AI开发",
+        "link": "https://www.infoq.cn/article/tO0PAl0ySGGHfhKElfCh?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031315"
+      },
+      "4e53f9c328e6d5177373c7e2bef6481fe19167c50c248255f48ee5f26994f0f6": {
+        "title": "从技术赋能到范式革新：快手安全大模型驱动内容审核智能化重塑｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/GbRGL9VMHuXhjYbz0aSd?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Jul 2025 14:47:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031357"
+      },
+      "d4cbb8693296b42bd6adc1a4e67864d13560e74c2d127b3ffcab9f6fb1987fe6": {
+        "title": "ClickHouse 25.6 盛夏福利版：CoalescingMergeTree 表引擎",
+        "link": "https://www.infoq.cn/article/odXBfkEjEIcXvXbucVkw?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Jul 2025 14:05:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.073047"
+      },
+      "28c5ec7bfef3fa8505d05dcedc6484240f3690f064e2d48cccfcb6a62497f280": {
+        "title": "理解和缓解微服务中的高能耗",
+        "link": "https://www.infoq.cn/article/Xf9lS32cALej8xmLw1fl?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Jul 2025 14:00:00 GMT",
+        "first_seen": "2025-07-29T08:32:28.031365"
+      },
+      "8960a1625985ed3c22b35b6e81ab4154fdcdff8a07fa3c4de9382457d36ce753": {
+        "title": "迈向50亿时代？短剧播放量膨胀背后的焦虑凸显",
+        "link": "http://www.huxiu.com/article/4629736.html?f=wangzhan",
+        "published_date": "Tue, 29 Jul 2025 12:39:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.074562"
+      },
+      "a8be80d9179b863adc3e3037431d4bbd97029dc5492d77c1a096bb5517788ba4": {
+        "title": "资本涌入情感赛道，人类孤独正被算法定价？",
+        "link": "http://www.huxiu.com/article/4626613.html?f=wangzhan",
+        "published_date": "Tue, 29 Jul 2025 10:45:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.075342"
+      },
+      "a1144a7f14b58edfa94f0f745e4c115e23a93fc7d34290ca6ff811dd89c76999": {
+        "title": "AI重构记忆存储方式，杭州60年照相馆赛博永生了",
+        "link": "http://www.huxiu.com/article/4618582.html?f=wangzhan",
+        "published_date": "Tue, 29 Jul 2025 08:00:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.076360"
+      },
+      "7a42d8c7f95f460a0e5124eb6bb8d43cb6527c1d19fbb312db917d07ee70cf08": {
+        "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+        "link": "https://www.wired.com/story/legalzoom-promo-code/",
+        "published_date": "Tue, 29 Jul 2025 05:40:00 GMT",
+        "first_seen": "2025-07-29T08:32:10.078391"
       }
     },
     "Finance": {
@@ -20788,12 +20998,24 @@
         "link": "https://www.marketwatch.com/story/coinbase-investors-should-cash-in-the-stock-has-rallied-too-much-ahead-of-earnings-analyst-says-dad5fff0?mod=mw_rss_topstories",
         "published_date": "Mon, 28 Jul 2025 23:37:00 GMT",
         "first_seen": "2025-07-29T05:35:48.611010"
+      },
+      "97a39b870257bf276b2b8177c65c8f9a093ab9a5e700472624fda7aeca7e787f": {
+        "title": "Philips credits tariff mitigation as it lifts profit outlook",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5f4313f1-4970-4069-ac0d-4e84ee9eebe1&mod=mw_rss_bulletins",
+        "published_date": "Tue, 29 Jul 2025 07:54:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.387246"
+      },
+      "97495a2aa0831872c6ea68da649e920ee26beb615b27e4a9ec5d2ce2bbf8c513": {
+        "title": "Philips lifts profit outlook on tariff mitigation as Stellantis flags $1.7 billion hit from levies",
+        "link": "https://www.marketwatch.com/story/philips-lifts-profit-outlook-on-tariff-mitigation-as-stellantis-flags-1-7-billion-hit-from-levies-7e2b9dfa?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Jul 2025 07:46:00 GMT",
+        "first_seen": "2025-07-29T08:32:48.387530"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-29T05:35:48.601577",
-    "Technology": "2025-07-29T05:35:24.134875",
-    "Finance": "2025-07-29T05:35:48.618193"
+    "AI": "2025-07-29T08:32:48.378513",
+    "Technology": "2025-07-29T08:32:28.042986",
+    "Finance": "2025-07-29T08:32:48.394670"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Jul 2025 05:35:00 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 05:35:48 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 08:32:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Are Americans squandering their retirement savings on eating out?</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=1e96c33a-4536-4f78-bc83-d683e6c9bbae&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Are Americans squandering their retirement savings on eating out?]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 01:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=1e96c33a-4536-4f78-bc83-d683e6c9bbae&amp;mod=mw_rss_bulletins</guid>
+      <title>Philips credits tariff mitigation as it lifts profit outlook</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5f4313f1-4970-4069-ac0d-4e84ee9eebe1&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Philips credits tariff mitigation as it lifts profit outlook]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5f4313f1-4970-4069-ac0d-4e84ee9eebe1&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>This company nailed a moon landing. Now it’s preparing to go public.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=0a4658c8-a3bf-4791-947c-86764e60cca5&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[This company nailed a moon landing. Now it’s preparing to go public.]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 23:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=0a4658c8-a3bf-4791-947c-86764e60cca5&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Coinbase investors should cash in. The stock has rallied too much ahead of earnings, analyst says.</title>
-      <link>https://www.marketwatch.com/story/coinbase-investors-should-cash-in-the-stock-has-rallied-too-much-ahead-of-earnings-analyst-says-dad5fff0?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Coinbase investors should cash in. The stock has rallied too much ahead of earnings, analyst says.]]&gt;</description>
-      <pubDate>Mon, 28 Jul 2025 23:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/coinbase-investors-should-cash-in-the-stock-has-rallied-too-much-ahead-of-earnings-analyst-says-dad5fff0?mod=mw_rss_topstories</guid>
+      <title>Philips lifts profit outlook on tariff mitigation as Stellantis flags $1.7 billion hit from levies</title>
+      <link>https://www.marketwatch.com/story/philips-lifts-profit-outlook-on-tariff-mitigation-as-stellantis-flags-1-7-billion-hit-from-levies-7e2b9dfa?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Philips lifts profit outlook on tariff mitigation as Stellantis flags $1.7 billion hit from levies]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 07:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/philips-lifts-profit-outlook-on-tariff-mitigation-as-stellantis-flags-1-7-billion-hit-from-levies-7e2b9dfa?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
