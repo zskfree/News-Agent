@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Jul 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 08:32:48 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 23:42:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 23:43:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Philips credits tariff mitigation as it lifts profit outlook</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5f4313f1-4970-4069-ac0d-4e84ee9eebe1&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Philips credits tariff mitigation as it lifts profit outlook]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5f4313f1-4970-4069-ac0d-4e84ee9eebe1&amp;mod=mw_rss_bulletins</guid>
+      <title>Union Pacific to buy Norfolk Southern in a much-anticipated $85 billion deal</title>
+      <link>https://www.marketwatch.com/story/union-pacific-to-buy-norfolk-southern-in-a-much-anticipated-85-billion-deal-b9a6b083?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Union Pacific to buy Norfolk Southern in a much-anticipated $85 billion deal]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 20:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/union-pacific-to-buy-norfolk-southern-in-a-much-anticipated-85-billion-deal-b9a6b083?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Philips lifts profit outlook on tariff mitigation as Stellantis flags $1.7 billion hit from levies</title>
-      <link>https://www.marketwatch.com/story/philips-lifts-profit-outlook-on-tariff-mitigation-as-stellantis-flags-1-7-billion-hit-from-levies-7e2b9dfa?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Philips lifts profit outlook on tariff mitigation as Stellantis flags $1.7 billion hit from levies]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 07:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/philips-lifts-profit-outlook-on-tariff-mitigation-as-stellantis-flags-1-7-billion-hit-from-levies-7e2b9dfa?mod=mw_rss_topstories</guid>
+      <title>This oil company is spending $14 billion to be part of the AI data-center business</title>
+      <link>https://www.marketwatch.com/story/this-oil-company-is-spending-14-billion-to-be-part-of-the-ai-data-center-business-b162139b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This oil company is spending $14 billion to be part of the AI data-center business]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 23:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-oil-company-is-spending-14-billion-to-be-part-of-the-ai-data-center-business-b162139b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Job openings decline and hiring tapers off — but layoffs are still low</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=4a572edc-ed81-4f77-992f-a1766bcf8012&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Job openings decline and hiring tapers off — but layoffs are still low]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=4a572edc-ed81-4f77-992f-a1766bcf8012&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Consumer confidence rebounds in July on easing inflation fears</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=b90251ac-ee6f-4427-804a-6f73de8ba69e&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Consumer confidence rebounds in July on easing inflation fears]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=b90251ac-ee6f-4427-804a-6f73de8ba69e&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500, Nasdaq snap win streaks as stocks finish lower ahead of Fed decision</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=762a7075-ca43-4152-977b-08d2dd1719fd&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[S&amp;P 500, Nasdaq snap win streaks as stocks finish lower ahead of Fed decision]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 20:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=762a7075-ca43-4152-977b-08d2dd1719fd&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why this AI skeptic thinks Wall Street’s hottest trade will go bust</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5b98d981-ade2-4800-a926-82e0e5e17618&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Why this AI skeptic thinks Wall Street’s hottest trade will go bust]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5b98d981-ade2-4800-a926-82e0e5e17618&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Here’s what’s really going on with this bad-news-is-good-news stock market</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5d967bbe-7e52-47c2-b820-c10149ea5e3b&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Here’s what’s really going on with this bad-news-is-good-news stock market]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 19:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5d967bbe-7e52-47c2-b820-c10149ea5e3b&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UPS sees consumer sentiment ‘near historic lows’ hurting small-package deliveries</title>
+      <link>https://www.marketwatch.com/story/upss-stock-sinks-after-profit-misses-forecasts-and-earnings-guidance-still-not-provided-2e9b0ab2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[UPS sees consumer sentiment ‘near historic lows’ hurting small-package deliveries]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 21:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/upss-stock-sinks-after-profit-misses-forecasts-and-earnings-guidance-still-not-provided-2e9b0ab2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Comcast could see its heaviest internet-subscriber losses ever. Then what?</title>
+      <link>https://www.marketwatch.com/story/comcast-could-see-its-heaviest-internet-subscriber-losses-ever-then-what-ba60387b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Comcast could see its heaviest internet-subscriber losses ever. Then what?]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 23:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/comcast-could-see-its-heaviest-internet-subscriber-losses-ever-then-what-ba60387b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Social Security wants to make a change that would cause 3.4 million more people to have to visit its field offices</title>
+      <link>https://www.marketwatch.com/story/social-security-wants-to-make-a-change-that-would-cause-3-4-million-more-people-to-have-to-visit-its-field-offices-fcc697a8?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Social Security wants to make a change that would cause 3.4 million more people to have to visit its field offices]]&gt;</description>
+      <pubDate>Tue, 29 Jul 2025 22:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/social-security-wants-to-make-a-change-that-would-cause-3-4-million-more-people-to-have-to-visit-its-field-offices-fcc697a8?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,190 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-29 08:32
+**最后更新时间**: 2025-07-29 23:42
+
+---
+
+## 🆕 最新更新 (2025-07-29 23:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】IMF将今明两年新兴市场和发展中经济体增长预期分别上调至4.1%和4%；中国长安汽车集团有限公司在重庆挂牌成立；香港金管局发布稳定币发行人指引，可于9月30日或之前提交申请](https://www.tmtpost.com/7642299.html)
+**发布时间**: 2025-07-30 07:20
+
+#### [溢价988%收购亏损资产，雪峰科技1.54亿接盘控股股东收购10个月的盛世普天](https://www.tmtpost.com/7642346.html)
+**发布时间**: 2025-07-29 23:06
+
+#### [房地产“牛散”潜伏8年上位，江特电机新实控人面临两座大山](https://www.tmtpost.com/7642301.html)
+**发布时间**: 2025-07-29 21:54
+
+#### [从麻将博弈到智能配送！灵初智能WAIC 2025展示具身智能长程、灵巧多场景应用](https://www.tmtpost.com/7642277.html)
+**发布时间**: 2025-07-29 21:40
+
+#### [三态股份“半价激励”背后：1400万单季净利垫脚，110%增长目标虚胖](https://www.tmtpost.com/7642182.html)
+**发布时间**: 2025-07-29 20:53
+
+#### [强化产业链布局，中化国际欲借并购解业绩困局](https://www.tmtpost.com/7642154.html)
+**发布时间**: 2025-07-29 20:51
+
+#### [WAIC2025，斑马智行元神AI获国际测评机构全项第一](https://www.tmtpost.com/7642145.html)
+**发布时间**: 2025-07-29 20:03
+
+#### [关于释永信以及少林寺这个"IP"，我的一点想法](https://www.tmtpost.com/7640991.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [大疆、影石刺向彼此腹地:智能影像市场硝烟再起](https://www.tmtpost.com/7640791.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [浣熊餐厅、七鲜小厨，餐饮行业的“鲶鱼”来了？](https://www.tmtpost.com/7641005.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [中国版OpenAI，拼命融钱、非常差钱、很难赚钱](https://www.tmtpost.com/7641393.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [57亿，私人航空最大融资诞生了](https://www.tmtpost.com/7641634.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [“短剧大战”下半场：抢人、抢钱、抢IP](https://www.tmtpost.com/7642021.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [靠中芯国际发家的格科微，开始向AI眼镜要利润](https://www.tmtpost.com/7642056.html)
+**发布时间**: 2025-07-29 19:14
+
+#### [当 AI 与数学在上海相遇：2025 WAIC背后的智慧革命](https://www.tmtpost.com/7640473.html)
+**发布时间**: 2025-07-29 17:18
+
+#### [120亿美元天价交易，恒瑞医药打包12个项目出海，创新药BD进入航母时代？](https://www.tmtpost.com/7640710.html)
+**发布时间**: 2025-07-29 17:13
+
+#### [单款下载超1.8亿，这个经典玩法正在“血洗”各大榜单](https://www.tmtpost.com/7641093.html)
+**发布时间**: 2025-07-29 17:13
+
+#### [融中朱闪对话松禾资本厉伟：走好每五步，自然到顶峰](https://www.tmtpost.com/7641372.html)
+**发布时间**: 2025-07-29 17:13
+
+#### [上海Robotaxi大跨步：允许主驾无人+收费运营](https://www.tmtpost.com/7641588.html)
+**发布时间**: 2025-07-29 17:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [快手可灵AI一年迭代30次，2亿视频背后藏着的“野心”：人人能用AI讲出好故事](https://www.infoq.cn/article/1HtaG3ortUO0hFb6iGkH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 23:45
+
+#### [AGICamp 第 005 周 AI 应用榜单发布：5ire AI 助手、闪念 - AI 语音笔记、妙多等应用上榜](https://www.infoq.cn/article/r4Il9y0o7LVtB4fLxI7y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 18:00
+
+#### [金融智能体落地四阶段，同花顺Agent战略与实践全景](https://www.infoq.cn/article/v8h0Sbo6t3GQoIPSj5KP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-29 16:28
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [YouTube tells creators they can drop more F-bombs](https://www.theverge.com/news/715658/youtube-swearing-profanity-f-bombs-monetization)
+**发布时间**: 2025-07-29 23:15
+
+#### [Lovense was told its sex toy app leaked users’ emails and didn&#8217;t fix it](https://www.theverge.com/news/715645/lovense-sex-toy-app-email-leak-vulnerability)
+**发布时间**: 2025-07-29 22:07
+
+#### [LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price](https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features)
+**发布时间**: 2025-07-29 20:47
+
+#### [Opera is filing a complaint over Microsoft&#8217;s tricks that push you to use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
+**发布时间**: 2025-07-29 20:08
+
+#### [Sharge added a rechargeable battery to its sleek retractable charger](https://www.theverge.com/news/715463/sharge-retractable-3-in-1-power-bank-battery-charger)
+**发布时间**: 2025-07-29 19:22
+
+#### [ChatGPT’s new AI study mode won’t just give you the answer](https://www.theverge.com/news/715493/openai-chatgpt-ai-study-mode-answer)
+**发布时间**: 2025-07-29 19:21
+
+#### [Sony’s DualSense Edge is $30 off for a limited time](https://www.theverge.com/tech/715427/sony-dualsense-edge-deal-sale)
+**发布时间**: 2025-07-29 19:12
+
+#### [The chaos and confusion of itch.io and Steam’s abrupt adult game ban](https://www.theverge.com/games/715299/itchio-games-delisting-payment-processor-paypal)
+**发布时间**: 2025-07-29 19:12
+
+#### [YouTube will identify and restrict minors’ accounts with AI](https://www.theverge.com/news/715343/youtube-age-estimation-ai-minor-account-restrictions)
+**发布时间**: 2025-07-29 17:48
+
+#### [Google’s NotebookLM can now make narrated slideshows with AI](https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai)
+**发布时间**: 2025-07-29 16:41
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [神权、枪炮与资本的石油战争，一部殖民、战争与转型的石油史诗](http://www.huxiu.com/article/4631657.html?f=wangzhan)
+**发布时间**: 2025-07-29 21:00
+
+#### [从《哪吒2》开始，聊聊香港电影“四大家族”的权力游戏](http://www.huxiu.com/article/4625471.html?f=wangzhan)
+**发布时间**: 2025-07-29 20:00
+
+#### [百事可乐人形机器人家族迎新，“百事酷宝”WAIC首发](http://www.huxiu.com/article/4632413.html?f=wangzhan)
+**发布时间**: 2025-07-29 19:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 38 Best Shows on Apple TV+ Right Now (August 2025)](https://www.wired.com/story/best-apple-tv-plus-shows/)
+**发布时间**: 2025-07-29 19:00
+
+#### [ChatGPT’s Study Mode Is Here. It Won’t Fix Education’s AI Problems](https://www.wired.com/story/chatgpt-study-mode/)
+**发布时间**: 2025-07-29 17:00
+
+#### [The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid](https://www.wired.com/story/the-pandemic-accelerated-brain-aging-even-in-people-who-never-got-covid/)
+**发布时间**: 2025-07-29 16:52
+
+#### [Big Tech Asked for Looser Clean Water Act Permitting. Trump Wants to Give It to Them](https://www.wired.com/story/big-tech-asked-for-looser-clean-water-act-permitting-trump-wants-to-give-it-to-them/)
+**发布时间**: 2025-07-29 16:39
+
+#### [Meta’s AI Recruiting Campaign Finds a New Target](https://www.wired.com/story/mark-zuckerberg-ai-recruiting-spree-thinking-machines/)
+**发布时间**: 2025-07-29 16:10
+
+#### [A Secretive US Space Plane Will Soon Test Quantum Navigation Technology](https://www.wired.com/story/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/)
+**发布时间**: 2025-07-29 14:30
+
+#### [Nvidia Geforce RTX 5060 Review: Not Quite There](https://www.wired.com/review/nvidia-geforce-rtx-5060/)
+**发布时间**: 2025-07-29 14:03
+
+#### [7 Best Reading Lights (2025): Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)
+**发布时间**: 2025-07-29 14:00
+
+#### [Apple MacOS Tahoe 26: Top New Features to Try](https://www.wired.com/story/macos-26-tahoe-top-features/)
+**发布时间**: 2025-07-29 13:30
+
+#### [Meta Is Going to Let Job Candidates Use AI During Coding Tests](https://www.wired.com/story/meta-ai-job-interview-coding/)
+**发布时间**: 2025-07-29 13:00
+
+#### [Wolf Memory Foam Hybrid Premium Firm Mattress Review: A New Alpha](https://www.wired.com/review/wolf-hybrid-mattress/)
+**发布时间**: 2025-07-29 12:37
+
+#### [I Lived With Alexa+ for a Week. Here’s How It Went (2025)](https://www.wired.com/story/alexa-plus-hands-on/)
+**发布时间**: 2025-07-29 12:04
+
+#### [25 Best Cheap Watches Under $1,000 (2025): Timex, Hamilton, and Seiko](https://www.wired.com/gallery/best-cheap-watches/)
+**发布时间**: 2025-07-29 11:32
+
+#### [This Smart Basketball Tracks Data About Every Shot. It Could Be Headed to the NBA](https://www.wired.com/story/smart-basketball-tracks-every-shot-could-be-headed-to-the-nba/)
+**发布时间**: 2025-07-29 11:00
+
+#### [Age Verification Laws Send VPN Use Soaring—and Threaten the Open Internet](https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/)
+**发布时间**: 2025-07-29 10:30
+
+#### [Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back](https://www.wired.com/story/psychedelic-therapy-mdma-maha/)
+**发布时间**: 2025-07-29 10:00
+
+#### [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)
+**发布时间**: 2025-07-29 09:30
+
+#### [HP Coupon Codes and Deals: Up to 60% Off | August 2025](https://www.wired.com/story/hp-coupon-code/)
+**发布时间**: 2025-07-29 05:30
+
+#### [10% Off Samsung Promo Code | July 2025](https://www.wired.com/story/samsung-promo-codes/)
+**发布时间**: 2025-07-29 05:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 103 | 一周最热评、新玩意，以及超多派友「苹替」史](https://sspai.com/post/101432)
+**发布时间**: 2025-07-29 17:00
+
+#### [跑外卖三十三天，我窥见一座三线城市的肌理与褶皱](https://sspai.com/post/101324)
+**发布时间**: 2025-07-29 15:48
 
 ---
 

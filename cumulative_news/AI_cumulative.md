@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-29 08:30
+**最后更新时间**: 2025-07-29 23:42
+
+---
+
+## 🆕 最新更新 (2025-07-29 23:42)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [理想i8正式发布：首款纯电SUV，售价32.18万元起](https://www.jiqizhixin.com/articles/2025-07-29-21)
+**发布时间**: 2025-07-29 23:45
+
+#### [WAIC 2025大黑马，一个「谢耳朵AI」如何用分子式超越Grok-4](https://www.jiqizhixin.com/articles/2025-07-29-20)
+**发布时间**: 2025-07-29 21:04
+
+#### [通义实验室大火的 WebAgent 续作：全开源模型方案超过GPT4.1 , 收获开源SOTA](https://www.jiqizhixin.com/articles/2025-07-29-19)
+**发布时间**: 2025-07-29 21:01
+
+#### [这家国内公司，在给具身智能技术栈做「通解」](https://www.jiqizhixin.com/articles/2025-07-29-18)
+**发布时间**: 2025-07-29 20:57
+
+#### [ACL首届博士论文奖公布，华人学者李曼玲获荣誉提名](https://www.jiqizhixin.com/articles/2025-07-29-17)
+**发布时间**: 2025-07-29 20:50
+
+#### [全球首个全链式空间天气AI预报模型“风宇”！国家卫星气象中心牵头，联合南昌大学、华为共同研发](https://www.jiqizhixin.com/articles/2025-07-29-16)
+**发布时间**: 2025-07-29 20:44
+
+#### [LeCun出手，造出视频世界模型，挑战英伟达COSMOS](https://www.jiqizhixin.com/articles/2025-07-29-15)
+**发布时间**: 2025-07-29 20:33
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Exclusive: A record-breaking baby has been born from an embryo that’s over 30 years old](https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/)
+**发布时间**: 2025-07-29 17:36
+
+#### [OpenAI is launching a version of ChatGPT for college students](https://www.technologyreview.com/2025/07/29/1120801/openai-is-launching-a-version-of-chatgpt-for-college-students/)
+**发布时间**: 2025-07-29 17:18
+
+#### [The Download: how to store energy underground, and what you may not know about Trump’s AI Action Plan](https://www.technologyreview.com/2025/07/29/1120771/the-download-how-to-store-energy-underground-and-what-you-may-not-know-about-trumps-ai-action-plan/)
+**发布时间**: 2025-07-29 12:10
+
+#### [What you may have missed about Trump’s AI Action Plan](https://www.technologyreview.com/2025/07/29/1120760/what-you-may-have-missed-about-trumps-ai-action-plan/)
+**发布时间**: 2025-07-29 09:00
+
+#### [This startup wants to use the Earth as a massive battery](https://www.technologyreview.com/2025/07/29/1120765/earth-battery-quidnet/)
+**发布时间**: 2025-07-29 09:00
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [“FUTURE PHASES” showcases new frontiers in music technology and interactive performance](https://news.mit.edu/2025/future-phases-showcase-new-frontiers-music-technology-interactive-performance-0729)
+**发布时间**: 2025-07-29 17:00
 
 ---
 

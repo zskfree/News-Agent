@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-29 08:32
+**最后更新时间**: 2025-07-29 23:42
+
+---
+
+## 🆕 最新更新 (2025-07-29 23:42)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Comcast could see its heaviest internet-subscriber losses ever. Then what?](https://www.marketwatch.com/story/comcast-could-see-its-heaviest-internet-subscriber-losses-ever-then-what-ba60387b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 23:04
+
+#### [This oil company is spending $14 billion to be part of the AI data-center business](https://www.marketwatch.com/story/this-oil-company-is-spending-14-billion-to-be-part-of-the-ai-data-center-business-b162139b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 23:01
+
+#### [My salary is not keeping up with inflation. How can I convince my manager to give me a raise?](https://www.marketwatch.com/story/i-keep-getting-the-same-song-and-dance-my-salary-has-not-kept-up-with-inflation-is-my-company-cheating-me-ebcbfc53?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 22:30
+
+#### [Starbucks vows a ‘wave of innovation’ next year. Will it get in the way of quicker service?](https://www.marketwatch.com/story/starbucks-investments-in-staff-hit-profits-but-ceo-says-turnaround-is-likely-ahead-of-schedule-2fe13e15?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 22:25
+
+#### [Social Security wants to make a change that would cause 3.4 million more people to have to visit its field offices](https://www.marketwatch.com/story/social-security-wants-to-make-a-change-that-would-cause-3-4-million-more-people-to-have-to-visit-its-field-offices-fcc697a8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 22:02
+
+#### [Are Americans squandering their retirement savings on eating out?](https://www.marketwatch.com/story/are-americans-squandering-their-retirement-savings-on-eating-out-55de7d0e?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 22:00
+
+#### [‘He spent every dime’: My daughter’s husband is in prison. Is she responsible for his debts?](https://www.marketwatch.com/story/he-is-currently-in-jail-my-daughters-husband-has-bipolar-i-disorder-can-he-sign-divorce-papers-ecd23e32?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 21:20
+
+#### [UPS sees consumer sentiment ‘near historic lows’ hurting small-package deliveries](https://www.marketwatch.com/story/upss-stock-sinks-after-profit-misses-forecasts-and-earnings-guidance-still-not-provided-2e9b0ab2?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 21:09
+
+#### [Union Pacific to buy Norfolk Southern in a much-anticipated $85 billion deal](https://www.marketwatch.com/story/union-pacific-to-buy-norfolk-southern-in-a-much-anticipated-85-billion-deal-b9a6b083?mod=mw_rss_topstories)
+**发布时间**: 2025-07-29 20:59
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Social Security wants this change that would cause millions to visit its offices](https://www.marketwatch.com/bulletins/redirect/go?g=6502dee7-bb5d-4cca-8667-b25a1b7bf929&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 22:26
+
+#### [Why this AI skeptic thinks Wall Street’s hottest trade will go bust](https://www.marketwatch.com/bulletins/redirect/go?g=5b98d981-ade2-4800-a926-82e0e5e17618&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 21:02
+
+#### [Could new laws protect office workers from violence like the Manhattan shooting?](https://www.marketwatch.com/bulletins/redirect/go?g=4556902d-12f4-47f3-8c61-573f556b51e7&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 20:47
+
+#### [Earnings Results: Starbucks CEO says turnaround is likely ‘ahead of schedule’](https://www.marketwatch.com/bulletins/redirect/go?g=4f7b4b93-f765-448f-883e-99d0943bfb19&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 20:36
+
+#### [S&P 500, Nasdaq snap win streaks as stocks finish lower ahead of Fed decision](https://www.marketwatch.com/bulletins/redirect/go?g=762a7075-ca43-4152-977b-08d2dd1719fd&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 20:09
+
+#### [Could new laws protect office workers from violence like the Manhattan shooting?](https://www.marketwatch.com/bulletins/redirect/go?g=3740e840-53e6-4f42-a0c3-b5c7140550a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 19:37
+
+#### [Here’s what’s really going on with this bad-news-is-good-news stock market](https://www.marketwatch.com/bulletins/redirect/go?g=5d967bbe-7e52-47c2-b820-c10149ea5e3b&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 19:32
+
+#### [Gen Z needs good advice on navigating life. This column is here to help.](https://www.marketwatch.com/bulletins/redirect/go?g=c5155540-b6bd-467c-bd5e-77e05c78aac1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 18:41
+
+#### [Job openings decline and hiring tapers off — but layoffs are still low](https://www.marketwatch.com/bulletins/redirect/go?g=4a572edc-ed81-4f77-992f-a1766bcf8012&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 14:50
+
+#### [Consumer confidence rebounds in July on easing inflation fears](https://www.marketwatch.com/bulletins/redirect/go?g=b90251ac-ee6f-4427-804a-6f73de8ba69e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-29 14:10
 
 ---
 
