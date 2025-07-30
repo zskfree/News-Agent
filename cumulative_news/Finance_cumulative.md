@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-29 23:42
+**最后更新时间**: 2025-07-30 05:30
+
+---
+
+## 🆕 最新更新 (2025-07-30 05:30)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s how much today’s 65-year-olds will spend on healthcare in retirement](https://www.marketwatch.com/story/heres-how-much-todays-65-year-olds-will-spend-on-healthcare-in-retirement-21dd0e0a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 04:01
+
+#### [Why a California law to protect office workers could resonate nationally after the NYC shooting](https://www.marketwatch.com/story/could-new-laws-protect-office-workers-from-violent-incidents-like-the-midtown-manhattan-shooting-0f5ebb77?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 02:19
+
+#### [Visa says spending is growing at a healthy rate, but its stock dips after earnings](https://www.marketwatch.com/story/visa-says-spending-is-growing-at-a-healthy-rate-but-its-stock-dips-after-earnings-2be9de59?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 00:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The stock market’s worst month is coming up. Should you sell in August?](https://www.marketwatch.com/bulletins/redirect/go?g=bf10adb7-6a77-4d40-99fe-a0600a7e5375&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 01:00
 
 ---
 

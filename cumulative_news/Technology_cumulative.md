@@ -1,7 +1,133 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-29 23:42
+**最后更新时间**: 2025-07-30 05:30
+
+---
+
+## 🆕 最新更新 (2025-07-30 05:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [70亿参数做到百毫秒推理延迟！蘑菇车联首发物理世界AI大模型，承包Robotaxi、机器人所有“智能体”？](https://www.infoq.cn/article/JtOXyCgSms6zryFOIKkg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 13:00
+
+#### [腾讯文档 AI 基础设施建设与业务重塑之路｜AICon 深圳](https://www.infoq.cn/article/0ZL9r7XOkPSLxevIhphV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 13:00
+
+#### [苹果开源扩散编码模型DiffuCoder](https://www.infoq.cn/article/y7jzBQflM6QNaYloXJBh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 13:00
+
+#### [Anthropic提出透明度框架以保障前沿AI发展](https://www.infoq.cn/article/ad1kfOyY8jSflQ0WO4Cj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 12:00
+
+#### [WAIC 2025：斑马智行联合通义及高通发布主动智能AI新技术](https://www.infoq.cn/article/9SdNQDAlvpsJl4H8dW2P?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 11:19
+
+#### [Databricks Agent Bricks使用TAO和ALHF方法自动化企业AI开发](https://www.infoq.cn/article/jThh4wjDQxgoAoedkZad?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 11:09
+
+#### [“老中间件”自救：曾经的并发王者、十五年开源老将全力押注Agentic AI找活路，转型做 Java 版 LangChain](https://www.infoq.cn/article/eLFe1OPlKxr5v5u8dxra?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 11:00
+
+#### [想实现AGI，得先建好“AI工厂”](https://www.infoq.cn/article/dfLgGbuxtRIiaLvEEEZo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 10:49
+
+#### [WAIC上的GMI Cloud：出海企业，能够平衡成本与效率吗？](https://www.infoq.cn/article/qyzeYe5YY8VD2bzNCc1k?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 10:41
+
+#### [Java近期新闻：Quarkus MCP CLI工具、Groovy 5.0里程碑、JHipster、GraalVM](https://www.infoq.cn/article/XK2jD0KOUWDcUcoZ98xC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 10:32
+
+#### [Spring近期新闻：Boot、Security、Auth Server、GraphQL、Kafka、Pulsar的里程碑版本发布](https://www.infoq.cn/article/qlrPlLvCQwTidV2yBi1j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 10:30
+
+#### [AI 赋能游戏研发：从工具创新到规模化应用｜AICon 深圳](https://www.infoq.cn/article/h8JUqceXwFP6j7N2X7fx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 10:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话无问芯穹CEO夏立雪：模型和芯片是两条驱动路径，不可能分开发展｜独家](https://www.tmtpost.com/7642781.html)
+**发布时间**: 2025-07-30 12:26
+
+#### [从精度到速度，自动化如何支撑潮玩的百万级量产？ | 产业链观察](https://www.tmtpost.com/7642548.html)
+**发布时间**: 2025-07-30 11:46
+
+#### [推动AI落地，最不能忽视的10个问题是什么？](https://www.tmtpost.com/7641687.html)
+**发布时间**: 2025-07-30 11:33
+
+#### [英飞凌潘大伟：AI与机器人将带来新的增长机会](https://www.tmtpost.com/7642649.html)
+**发布时间**: 2025-07-30 11:31
+
+#### [创始人套现5亿离场，中产家庭抛弃上万元的“贵族玩具”](https://www.tmtpost.com/7642611.html)
+**发布时间**: 2025-07-30 11:31
+
+#### [人形机器人的一次重大拐点](https://www.tmtpost.com/7642592.html)
+**发布时间**: 2025-07-30 11:31
+
+#### [第一次做硬件，阿里先稳一手](https://www.tmtpost.com/7642212.html)
+**发布时间**: 2025-07-30 11:31
+
+#### [《南京照相馆》，拯救暑期档？](https://www.tmtpost.com/7642161.html)
+**发布时间**: 2025-07-30 11:31
+
+#### [折叠车龙头再冲IPO，83岁老翁带大行科工年入4.5亿，产品依赖代工](https://www.tmtpost.com/7642265.html)
+**发布时间**: 2025-07-30 11:31
+
+#### [释永信：无畏因果](https://www.tmtpost.com/7642596.html)
+**发布时间**: 2025-07-30 11:00
+
+#### [全国每5瓶醋就有1瓶来自这里！山西清徐靠什么“酿”出65亿大产业？](https://www.tmtpost.com/7642253.html)
+**发布时间**: 2025-07-30 11:00
+
+#### [瑞士食品科技公司xFarm Technologies研发智慧农田管理应用程序，推动农业数字化转型 | 瑞士创新100强](https://www.tmtpost.com/7642290.html)
+**发布时间**: 2025-07-30 10:59
+
+#### [恒瑞医药5亿美元落袋，这次没被中间商赚差价](https://www.tmtpost.com/7642081.html)
+**发布时间**: 2025-07-30 10:59
+
+#### [智元机器人“被上市”样本：算计与失算，三方博弈“难题卷” |深度观察](https://www.tmtpost.com/7642636.html)
+**发布时间**: 2025-07-30 10:54
+
+#### [穿什么lululemon，“棉绸”才是夏天的神](https://www.tmtpost.com/7642138.html)
+**发布时间**: 2025-07-30 10:35
+
+#### [China's Sensor Pioneer Taps Humanoid Robot Boom With 'Electronic Skin'](https://www.tmtpost.com/7642561.html)
+**发布时间**: 2025-07-30 09:53
+
+#### [China's Robotics Industry Eyes "Android Moment" as Open-Source OS Gains Traction](https://www.tmtpost.com/7642553.html)
+**发布时间**: 2025-07-30 09:46
+
+#### [本田大撤退，日系的崩溃](https://www.tmtpost.com/7642087.html)
+**发布时间**: 2025-07-30 09:03
+
+#### [在WAIC 2025，寻找未来的确定性](https://www.tmtpost.com/7642133.html)
+**发布时间**: 2025-07-30 08:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple Music 更新：借 iOS 26「东风」，向好看、好用更进一步](https://sspai.com/post/101408)
+**发布时间**: 2025-07-30 11:27
+
+#### [派早报：理想 i8 正式发布等](https://sspai.com/post/101452)
+**发布时间**: 2025-07-30 08:38
+
+#### [社区速递 103 | 一周最热评、新玩意，以及超丰富派友「苹替」史](https://sspai.com/post/101432)
+**发布时间**: 2025-07-29 17:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“比亚迪的资源不支持搞内部 ‘赛马’，只能去跟外部竞赛”](http://www.huxiu.com/article/4632353.html?f=wangzhan)
+**发布时间**: 2025-07-30 10:38
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [字节辟谣「豆包汽车」：无造车计划；英伟达市值突破4.3 万亿美元；传特斯拉将推「低价赛博皮卡」](http://www.geekpark.net/news/352109)
+**发布时间**: 2025-07-30 07:46
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Top Verizon Promo Codes & Deals | August 2025](https://www.wired.com/story/verizon-promo-code/)
+**发布时间**: 2025-07-30 05:00
 
 ---
 

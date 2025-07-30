@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Jul 2025 23:42:00 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 23:43:10 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 05:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 05:31:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LeCun出手，造出视频世界模型，挑战英伟达COSMOS</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-15</link>
-      <description>&lt;![CDATA[LeCun出手，造出视频世界模型，挑战英伟达COSMOS]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 20:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-15</guid>
+      <title>刚刚，OpenAI推出学习模式，AI教师真来了，系统提示词已泄露</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-3</link>
+      <description>&lt;![CDATA[刚刚，OpenAI推出学习模式，AI教师真来了，系统提示词已泄露]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>WAIC 2025大黑马，一个「谢耳朵AI」如何用分子式超越Grok-4</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-20</link>
-      <description>&lt;![CDATA[WAIC 2025大黑马，一个「谢耳朵AI」如何用分子式超越Grok-4]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 21:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-20</guid>
+      <title>凌晨，Qwen又更新了，3090就能跑，3B激活媲美GPT-4o</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-2</link>
+      <description>&lt;![CDATA[凌晨，Qwen又更新了，3090就能跑，3B激活媲美GPT-4o]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>通义实验室大火的 WebAgent 续作：全开源模型方案超过GPT4.1 , 收获开源SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-19</link>
-      <description>&lt;![CDATA[通义实验室大火的 WebAgent 续作：全开源模型方案超过GPT4.1 , 收获开源SOTA]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 21:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-19</guid>
+      <title>AI安全上，开源仍胜闭源，Meta、UCB防御LLM提示词注入攻击</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30</link>
+      <description>&lt;![CDATA[AI安全上，开源仍胜闭源，Meta、UCB防御LLM提示词注入攻击]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>这家国内公司，在给具身智能技术栈做「通解」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-18</link>
-      <description>&lt;![CDATA[这家国内公司，在给具身智能技术栈做「通解」]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 20:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-18</guid>
+      <title>Measuring and Analyzing Intelligence via Contextual Uncertainty in Large Language Models using Information-Theoretic Metrics</title>
+      <link>https://arxiv.org/abs/2507.21129</link>
+      <description>&lt;![CDATA[Measuring and Analyzing Intelligence via Contextual Uncertainty in Large Language Models using Information-Theoretic Metrics]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21129</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全球首个全链式空间天气AI预报模型“风宇”！国家卫星气象中心牵头，联合南昌大学、华为共同研发</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-16</link>
-      <description>&lt;![CDATA[全球首个全链式空间天气AI预报模型“风宇”！国家卫星气象中心牵头，联合南昌大学、华为共同研发]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-16</guid>
+      <title>Agentic Web: Weaving the Next Web with AI Agents</title>
+      <link>https://arxiv.org/abs/2507.21206</link>
+      <description>&lt;![CDATA[Agentic Web: Weaving the Next Web with AI Agents]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21206</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>What you may have missed about Trump’s AI Action Plan</title>
-      <link>https://www.technologyreview.com/2025/07/29/1120760/what-you-may-have-missed-about-trumps-ai-action-plan/</link>
-      <description>&lt;![CDATA[What you may have missed about Trump’s AI Action Plan]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/29/1120760/what-you-may-have-missed-about-trumps-ai-action-plan/</guid>
+      <title>NPO: Learning Alignment and Meta-Alignment through Structured Human Feedback</title>
+      <link>https://arxiv.org/abs/2507.21131</link>
+      <description>&lt;![CDATA[NPO: Learning Alignment and Meta-Alignment through Structured Human Feedback]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21131</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI is launching a version of ChatGPT for college students</title>
-      <link>https://www.technologyreview.com/2025/07/29/1120801/openai-is-launching-a-version-of-chatgpt-for-college-students/</link>
-      <description>&lt;![CDATA[OpenAI is launching a version of ChatGPT for college students]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 17:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/29/1120801/openai-is-launching-a-version-of-chatgpt-for-college-students/</guid>
+      <title>What Does it Mean for a Neural Network to Learn a &quot;World Model&quot;?</title>
+      <link>https://arxiv.org/abs/2507.21513</link>
+      <description>&lt;![CDATA[What Does it Mean for a Neural Network to Learn a &quot;World Model&quot;?]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21513</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ACL首届博士论文奖公布，华人学者李曼玲获荣誉提名</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-29-17</link>
-      <description>&lt;![CDATA[ACL首届博士论文奖公布，华人学者李曼玲获荣誉提名]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 20:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-29-17</guid>
+      <title>Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems</title>
+      <link>https://arxiv.org/abs/2507.21589</link>
+      <description>&lt;![CDATA[Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21589</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: how to store energy underground, and what you may not know about Trump’s AI Action Plan</title>
-      <link>https://www.technologyreview.com/2025/07/29/1120771/the-download-how-to-store-energy-underground-and-what-you-may-not-know-about-trumps-ai-action-plan/</link>
-      <description>&lt;![CDATA[The Download: how to store energy underground, and what you may not know about Trump’s AI Action Plan]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/29/1120771/the-download-how-to-store-energy-underground-and-what-you-may-not-know-about-trumps-ai-action-plan/</guid>
+      <title>LeMix: Unified Scheduling for LLM Training and Inference on Multi-GPU Systems</title>
+      <link>https://arxiv.org/abs/2507.21276</link>
+      <description>&lt;![CDATA[LeMix: Unified Scheduling for LLM Training and Inference on Multi-GPU Systems]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21276</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>“FUTURE PHASES” showcases new frontiers in music technology and interactive performance</title>
-      <link>https://news.mit.edu/2025/future-phases-showcase-new-frontiers-music-technology-interactive-performance-0729</link>
-      <description>&lt;![CDATA[“FUTURE PHASES” showcases new frontiers in music technology and interactive performance]]&gt;</description>
-      <pubDate>Tue, 29 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/future-phases-showcase-new-frontiers-music-technology-interactive-performance-0729</guid>
+      <title>Can the current trends of AI handle a full course of mathematics?</title>
+      <link>https://arxiv.org/abs/2507.21664</link>
+      <description>&lt;![CDATA[Can the current trends of AI handle a full course of mathematics?]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.21664</guid>
       <category>AI</category>
     </item>
   </channel>
