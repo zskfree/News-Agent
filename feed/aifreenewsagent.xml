@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Jul 2025 05:30:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2025 05:31:25 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 08:32:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI推出学习模式，AI教师真来了，系统提示词已泄露</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30-3</link>
-      <description>&lt;![CDATA[刚刚，OpenAI推出学习模式，AI教师真来了，系统提示词已泄露]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-3</guid>
+      <title>P图手残党有救了，豆包·图像编辑模型3.0上线，一个对话框搞定「增删改替」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-7</link>
+      <description>&lt;![CDATA[P图手残党有救了，豆包·图像编辑模型3.0上线，一个对话框搞定「增删改替」]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>凌晨，Qwen又更新了，3090就能跑，3B激活媲美GPT-4o</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30-2</link>
-      <description>&lt;![CDATA[凌晨，Qwen又更新了，3090就能跑，3B激活媲美GPT-4o]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-2</guid>
+      <title>开出10亿美元天价，小扎挖人Mira创业公司惨遭拒：俺们不差钱</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-6</link>
+      <description>&lt;![CDATA[开出10亿美元天价，小扎挖人Mira创业公司惨遭拒：俺们不差钱]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI安全上，开源仍胜闭源，Meta、UCB防御LLM提示词注入攻击</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30</link>
-      <description>&lt;![CDATA[AI安全上，开源仍胜闭源，Meta、UCB防御LLM提示词注入攻击]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30</guid>
+      <title>当智能成为主要生产资料，硅基经济学引爆「AI+金融」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-5</link>
+      <description>&lt;![CDATA[当智能成为主要生产资料，硅基经济学引爆「AI+金融」]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Measuring and Analyzing Intelligence via Contextual Uncertainty in Large Language Models using Information-Theoretic Metrics</title>
-      <link>https://arxiv.org/abs/2507.21129</link>
-      <description>&lt;![CDATA[Measuring and Analyzing Intelligence via Contextual Uncertainty in Large Language Models using Information-Theoretic Metrics]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21129</guid>
+      <title>SPIRAL：零和游戏自对弈成为语言模型推理训练的「免费午餐」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-4</link>
+      <description>&lt;![CDATA[SPIRAL：零和游戏自对弈成为语言模型推理训练的「免费午餐」]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Agentic Web: Weaving the Next Web with AI Agents</title>
-      <link>https://arxiv.org/abs/2507.21206</link>
-      <description>&lt;![CDATA[Agentic Web: Weaving the Next Web with AI Agents]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21206</guid>
+      <title>1688全面AI化：推出“1688 AI版”App以及免费查企工具“88查”</title>
+      <link>https://www.qbitai.com/2025/07/315431.html</link>
+      <description>&lt;![CDATA[1688全面AI化：推出“1688 AI版”App以及免费查企工具“88查”]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 05:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315431.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NPO: Learning Alignment and Meta-Alignment through Structured Human Feedback</title>
-      <link>https://arxiv.org/abs/2507.21131</link>
-      <description>&lt;![CDATA[NPO: Learning Alignment and Meta-Alignment through Structured Human Feedback]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21131</guid>
+      <title>小扎天价offer创新高：10亿刀！但这支前OpenAI班底0人心动</title>
+      <link>https://www.qbitai.com/2025/07/315430.html</link>
+      <description>&lt;![CDATA[小扎天价offer创新高：10亿刀！但这支前OpenAI班底0人心动]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 05:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315430.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>What Does it Mean for a Neural Network to Learn a &quot;World Model&quot;?</title>
-      <link>https://arxiv.org/abs/2507.21513</link>
-      <description>&lt;![CDATA[What Does it Mean for a Neural Network to Learn a &quot;World Model&quot;?]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21513</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems</title>
-      <link>https://arxiv.org/abs/2507.21589</link>
-      <description>&lt;![CDATA[Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21589</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LeMix: Unified Scheduling for LLM Training and Inference on Multi-GPU Systems</title>
-      <link>https://arxiv.org/abs/2507.21276</link>
-      <description>&lt;![CDATA[LeMix: Unified Scheduling for LLM Training and Inference on Multi-GPU Systems]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21276</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Can the current trends of AI handle a full course of mathematics?</title>
-      <link>https://arxiv.org/abs/2507.21664</link>
-      <description>&lt;![CDATA[Can the current trends of AI handle a full course of mathematics?]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.21664</guid>
+      <title>火山引擎发布豆包最新图像编辑、同传模型，加速Agent开发落地</title>
+      <link>https://www.qbitai.com/2025/07/315433.html</link>
+      <description>&lt;![CDATA[火山引擎发布豆包最新图像编辑、同传模型，加速Agent开发落地]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 05:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315433.html</guid>
       <category>AI</category>
     </item>
   </channel>

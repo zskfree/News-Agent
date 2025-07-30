@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-30 05:30
+**最后更新时间**: 2025-07-30 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-30 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [京西智行陈伟刚：让搭载在路虎揽胜上的技术适配更多车型](https://www.tmtpost.com/7643031.html)
+**发布时间**: 2025-07-30 16:14
+
+#### [君亭酒店还要再找多少个“合伙人”？](https://www.tmtpost.com/7642655.html)
+**发布时间**: 2025-07-30 16:11
+
+#### [智慧实验室一哥赴港IPO：3年亏损超20亿，上市募资采购原材](https://www.tmtpost.com/7642662.html)
+**发布时间**: 2025-07-30 16:11
+
+#### [奶咖周边，竟比奶咖还赚钱？](https://www.tmtpost.com/7642692.html)
+**发布时间**: 2025-07-30 16:11
+
+#### [Tiktok之后，又一款中国互联网产品炸场美国](https://www.tmtpost.com/7642699.html)
+**发布时间**: 2025-07-30 16:11
+
+#### [7月30日A股分析：沪指微涨0.17%，两市成交额突破1.84万亿，小单资金逆势流入671亿，水产养殖行业领涨](https://www.tmtpost.com/7642998.html)
+**发布时间**: 2025-07-30 15:36
+
+#### [理想i8，抢谁的饭碗？](https://www.tmtpost.com/7642550.html)
+**发布时间**: 2025-07-30 15:34
+
+#### [Mitsubishi's China Exit Marks End of an Era for Japanese Carmakers](https://www.tmtpost.com/7642994.html)
+**发布时间**: 2025-07-30 15:03
+
+#### [2025WAIC：大厂回归，医疗AI爆火出圈！](https://www.tmtpost.com/7642777.html)
+**发布时间**: 2025-07-30 15:01
+
+#### [光伏不扩产了，那设备企业该如何过冬？](https://www.tmtpost.com/7642828.html)
+**发布时间**: 2025-07-30 15:01
+
+#### [近12亿元溢利背后，一款FIC“降糖神药”撑起华领医药的生死局](https://www.tmtpost.com/7642308.html)
+**发布时间**: 2025-07-30 15:01
+
+#### [Spotify: 涨价失灵，高估值还撑得住吗？](https://www.tmtpost.com/7642309.html)
+**发布时间**: 2025-07-30 15:01
+
+#### [嘉楠多头，看好行情大趋势和销售前景，给自己打打气](https://www.tmtpost.com/7642325.html)
+**发布时间**: 2025-07-30 15:01
+
+#### [微软进军 AI 浏览器，维持巨头的平庸](https://www.tmtpost.com/7642391.html)
+**发布时间**: 2025-07-30 15:01
+
+#### [居然智家汪林朋去世，家居行业还有多少“雷”？](https://www.tmtpost.com/7642484.html)
+**发布时间**: 2025-07-30 15:00
+
+#### [ChatGPT:危险的聪明](https://www.tmtpost.com/7642426.html)
+**发布时间**: 2025-07-30 15:00
+
+#### [下半年医药行业存在哪些机会？](https://www.tmtpost.com/7642461.html)
+**发布时间**: 2025-07-30 15:00
+
+#### [Trump Threatens India with 25% Tariffs as New Delhi Said to Seek Broader Deal Past Aug. 1 Deadline](https://www.tmtpost.com/7642935.html)
+**发布时间**: 2025-07-30 14:19
+
+#### [Infinigence Unveils Next-Gen AI Infrastructure Suite, Aims to Lead China’s AI Deployment Revolution](https://www.tmtpost.com/7642903.html)
+**发布时间**: 2025-07-30 14:02
+
+#### [实探武商WS江豚会员店：与山姆对垒的优势与短板有哪些？](https://www.tmtpost.com/7642783.html)
+**发布时间**: 2025-07-30 13:53
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里云 CIO 蒋林泉确认出席 AICon 深圳，将分享阿里云大模型应用落地实践之路](https://www.infoq.cn/article/iEHOslKWHol5hNehCkgH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派会员第五年，在老地方共创新惊喜](https://sspai.com/post/101440)
+**发布时间**: 2025-07-30 14:27
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Lelo Dot Review: A Clitoral Pinpoint Vibrator](https://www.wired.com/review/lelo-dot/)
+**发布时间**: 2025-07-30 08:00
 
 ---
 

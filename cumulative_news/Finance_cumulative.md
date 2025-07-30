@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-30 05:30
+**最后更新时间**: 2025-07-30 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-30 08:31)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [UBS profit beats forecasts, says Credit Suisse deal savings up to $9.1 billion](https://www.marketwatch.com/bulletins/redirect/go?g=83e321f3-c71b-4f9c-b43f-05b5ee194b06&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 06:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [UBS says savings from Credit Suisse deal reach $9.1 billion as profit tops forecast](https://www.marketwatch.com/story/ubs-says-savings-from-credit-suisse-deal-reach-9-1-billion-as-profit-tops-forecast-360ab648?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 06:07
 
 ---
 
