@@ -1,7 +1,166 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-30 08:31
+**最后更新时间**: 2025-07-30 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-30 23:22)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)
+**发布时间**: 2025-07-30 22:34
+
+#### [Trump Ends Tariff Exemption for Small Packages](https://www.wired.com/story/president-trump-suspends-de-minimis/)
+**发布时间**: 2025-07-30 22:17
+
+#### [Scientists Say New Government Climate Report Twists Their Work](https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/)
+**发布时间**: 2025-07-30 20:31
+
+#### [Google’s Newest AI Model Acts like a Satellite to Track Climate Change](https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/)
+**发布时间**: 2025-07-30 18:57
+
+#### [Gamers Are Furious About the Censorship of NSFW Games—and They’re Fighting Back](https://www.wired.com/story/gamers-are-furious-about-the-censorship-of-nsfw-games-and-theyre-fighting-back/)
+**发布时间**: 2025-07-30 18:51
+
+#### [I Watched AI Agents Try to Hack My Vibe-Coded Website](https://www.wired.com/story/i-watched-ai-agents-try-to-hack-my-vibe-coded-websit/)
+**发布时间**: 2025-07-30 18:00
+
+#### [Everything You Wanted to Know About China’s Auto Industry Takeover](https://www.wired.com/story/electric-vehicles-china-takeover/)
+**发布时间**: 2025-07-30 17:00
+
+#### [How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI](https://www.wired.com/story/edward-coristine-big-balls-doge-federal-pay-roll-system/)
+**发布时间**: 2025-07-30 15:58
+
+#### [The Trump-Crypto Honeymoon Is Over](https://www.wired.com/story/trump-crypto-caucus-fracture/)
+**发布时间**: 2025-07-30 15:00
+
+#### [US Senator Urges DHS to Probe Whether Agents Were Moved From Criminal Cases to Deportations](https://www.wired.com/story/senator-wyden-hsi-immigration-csam/)
+**发布时间**: 2025-07-30 14:19
+
+#### [TernX Review (2025): Travel With Young Kids Just Got Easier](https://www.wired.com/review/ternx-carry-on-luggage-stroller/)
+**发布时间**: 2025-07-30 13:07
+
+#### [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+**发布时间**: 2025-07-30 12:04
+
+#### [15 Best Laptops (2025), WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
+**发布时间**: 2025-07-30 11:30
+
+#### [What Your Nighttime Breathing Says About Your Health](https://www.wired.com/story/sleep-apnea-biomarker-night-breathing/)
+**发布时间**: 2025-07-30 11:00
+
+#### [The 8 Best Amazon Echo and Alexa Speakers (2025): We’ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+**发布时间**: 2025-07-30 10:32
+
+#### [The Hyperflexible People Who May Help Unlock Better Sleep Apnea Treatments](https://www.wired.com/story/eds-sleep-apnea-treatments/)
+**发布时间**: 2025-07-30 09:00
+
+#### [Samsung Promo Codes & Coupons: 30% Off](https://www.wired.com/story/samsung-promo-codes/)
+**发布时间**: 2025-07-29 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [All of your international packages are about to get more expensive](https://www.theverge.com/news/716463/trump-white-house-end-de-minimis-exemption)
+**发布时间**: 2025-07-30 22:02
+
+#### [Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers](https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers)
+**发布时间**: 2025-07-30 21:16
+
+#### [Microsoft reports strong cloud earnings, with Windows and Xbox up too](https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
+**发布时间**: 2025-07-30 20:12
+
+#### [8BitDo’s wireless Nintendo 64 controller is now available](https://www.theverge.com/news/716292/8bitdo-64-wireless-controller-nintendo-analogue-3d)
+**发布时间**: 2025-07-30 20:02
+
+#### [Layoffs hit CNET as its parent company goes on a buying spree](https://www.theverge.com/news/715220/ziff-davis-creators-guild-cnet-layoffs)
+**发布时间**: 2025-07-30 19:45
+
+#### [Dropbox is shutting down its password manager](https://www.theverge.com/news/716303/dropbox-passwords-manager-shut-down)
+**发布时间**: 2025-07-30 19:42
+
+#### [PUBG&#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)
+**发布时间**: 2025-07-30 18:23
+
+#### [Google is using AI age checks to lock down user accounts](https://www.theverge.com/news/716154/google-ai-age-estimation-under-18)
+**发布时间**: 2025-07-30 17:20
+
+#### [You can hide an AirTag in Skechers’ new kids’ shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
+**发布时间**: 2025-07-30 16:18
+
+#### [DJI finally brings its impressive Amflow e-bike to US trails](https://www.theverge.com/news/715696/dji-amflow-us-price-mtb-avinox)
+**发布时间**: 2025-07-30 16:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蔡浩宇与米哈游站在擂台两侧](http://www.huxiu.com/article/4636315.html?f=wangzhan)
+**发布时间**: 2025-07-30 21:42
+
+#### [李想收敛锋芒](http://www.huxiu.com/article/4636731.html?f=wangzhan)
+**发布时间**: 2025-07-30 21:26
+
+#### [三年闭店1500家，德克士为啥越卖越凉？](http://www.huxiu.com/article/4634468.html?f=wangzhan)
+**发布时间**: 2025-07-30 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 的尽头是能源？能碳大模型正在改写能源管理逻辑](https://www.infoq.cn/article/BlF51amTds3EBMW1lHbZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 19:46
+
+#### [创始人拒绝投资13年、仅有几十人的开源项目斩获81k+ GitHub star，用户破百万！网友：他一个人拯救了PHP](https://www.infoq.cn/article/oMbIqHLJlcEvG6guqTPq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 18:09
+
+#### [双“雷”暴击！Trae 被曝资源黑洞、Claude背刺超级付费党，开发者们被“刀”惨了](https://www.infoq.cn/article/ogYpLdKb7PwdDFFY7IUv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 17:35
+
+#### [“比 Flink 更适合 Agent！”十五年老中间件转型做 Agentic AI：比 LangChain 快 70%，还能省 2/3 算力](https://www.infoq.cn/article/eLFe1OPlKxr5v5u8dxra?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-30 11:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“茅台八仙”之一被公开除名，仁怀酒协重拳出击“大师贴牌酒”| 焦点](https://www.tmtpost.com/7643280.html)
+**发布时间**: 2025-07-30 18:38
+
+#### [买得起保时捷，也在意豪车税](https://www.tmtpost.com/7643233.html)
+**发布时间**: 2025-07-30 18:12
+
+#### [土豪聚集的迪拜也被“低价游”攻陷了](https://www.tmtpost.com/7643163.html)
+**发布时间**: 2025-07-30 18:11
+
+#### [年入250亿，波司登让中产又爱又恨](https://www.tmtpost.com/7643171.html)
+**发布时间**: 2025-07-30 18:11
+
+#### [得物求“全”，背水一战](https://www.tmtpost.com/7643215.html)
+**发布时间**: 2025-07-30 18:11
+
+#### [珀莱雅上美身后，50亿级国货美妆“绞杀战”](https://www.tmtpost.com/7643091.html)
+**发布时间**: 2025-07-30 17:51
+
+#### [腾讯游戏的“洋枪队”](https://www.tmtpost.com/7643071.html)
+**发布时间**: 2025-07-30 17:51
+
+#### [万亿大连要留住苹果](https://www.tmtpost.com/7643098.html)
+**发布时间**: 2025-07-30 17:50
+
+#### [188亿，顺德兄妹拿下佛山今年首家上市公司](https://www.tmtpost.com/7642886.html)
+**发布时间**: 2025-07-30 17:12
+
+#### [觊觎即时零售，抖音绕道“酒旅”](https://www.tmtpost.com/7643000.html)
+**发布时间**: 2025-07-30 17:12
+
+#### [车企“明补暗坑”消费者的套路盘点](https://www.tmtpost.com/7643003.html)
+**发布时间**: 2025-07-30 17:12
+
+#### [天才在左，字节在右](https://www.tmtpost.com/7643063.html)
+**发布时间**: 2025-07-30 16:33
+
+#### [“抠门”的新人，急坏了婚纱城的老板们](https://www.tmtpost.com/7642772.html)
+**发布时间**: 2025-07-30 16:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我如何为「霞鹜」系列字体添加 GB 18030-2022 字符集支持](https://sspai.com/post/101040)
+**发布时间**: 2025-07-30 17:29
 
 ---
 

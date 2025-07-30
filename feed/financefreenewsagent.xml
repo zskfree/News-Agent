@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Jul 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2025 08:32:00 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 23:22:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UBS profit beats forecasts, says Credit Suisse deal savings up to $9.1 billion</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=83e321f3-c71b-4f9c-b43f-05b5ee194b06&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[UBS profit beats forecasts, says Credit Suisse deal savings up to $9.1 billion]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 06:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=83e321f3-c71b-4f9c-b43f-05b5ee194b06&amp;mod=mw_rss_bulletins</guid>
+      <title>Federal Reserve leaves interest rates unchanged despite pressure from Trump</title>
+      <link>https://www.marketwatch.com/story/fed-leaves-interest-rates-unchanged-despite-pressure-from-trump-172204ba?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Federal Reserve leaves interest rates unchanged despite pressure from Trump]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 22:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/fed-leaves-interest-rates-unchanged-despite-pressure-from-trump-172204ba?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>UBS says savings from Credit Suisse deal reach $9.1 billion as profit tops forecast</title>
-      <link>https://www.marketwatch.com/story/ubs-says-savings-from-credit-suisse-deal-reach-9-1-billion-as-profit-tops-forecast-360ab648?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[UBS says savings from Credit Suisse deal reach $9.1 billion as profit tops forecast]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 06:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/ubs-says-savings-from-credit-suisse-deal-reach-9-1-billion-as-profit-tops-forecast-360ab648?mod=mw_rss_topstories</guid>
+      <title>Dow falls 170 points after Fed signals no decision made yet on September cut</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=85c65fc6-557f-4456-b15d-1d2437c2c9b3&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Dow falls 170 points after Fed signals no decision made yet on September cut]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=85c65fc6-557f-4456-b15d-1d2437c2c9b3&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dollar heads for best week since 2022 after getting unexpected boost from Powell</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=c1514875-bfad-458d-9f26-4f03d3d6b442&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Dollar heads for best week since 2022 after getting unexpected boost from Powell]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 21:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=c1514875-bfad-458d-9f26-4f03d3d6b442&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Live blog: Microsoft's stock surges after earnings show massive cloud growth</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=329b8b68-3c22-4126-8a93-59a3c95516dc&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Live blog: Microsoft's stock surges after earnings show massive cloud growth]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 20:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=329b8b68-3c22-4126-8a93-59a3c95516dc&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Meta earnings beat by a wide margin, and the stock is surging</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=ac5b1e78-63df-41cf-81b3-e679a2769766&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Meta earnings beat by a wide margin, and the stock is surging]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 20:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=ac5b1e78-63df-41cf-81b3-e679a2769766&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Talk of a bubble is making a comeback on Wall Street. Should investors worry?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=cebab514-c8e5-4008-a02b-4f17fd3dfe15&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Talk of a bubble is making a comeback on Wall Street. Should investors worry?]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 21:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=cebab514-c8e5-4008-a02b-4f17fd3dfe15&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Bessent calls MAGA baby bonds a ‘back door’ to privatize Social Security</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=ddc14ab1-e608-43ce-bc1d-2047cdf5a6b0&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Bessent calls MAGA baby bonds a ‘back door’ to privatize Social Security]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 23:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=ddc14ab1-e608-43ce-bc1d-2047cdf5a6b0&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Popular copper trade comes to a sudden stop as Trump’s import tariff won’t include refined copper</title>
+      <link>https://www.marketwatch.com/story/popular-copper-trade-comes-to-a-sudden-stop-as-trumps-import-tariff-wont-include-refined-copper-e03c65ad?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Popular copper trade comes to a sudden stop as Trump’s import tariff won’t include refined copper]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/popular-copper-trade-comes-to-a-sudden-stop-as-trumps-import-tariff-wont-include-refined-copper-e03c65ad?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Ford warns its tariff hit will grow to $2 billion, offers downbeat guidance</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=af0bfdf8-5ad6-4ba5-a13a-b913a124bc4e&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Ford warns its tariff hit will grow to $2 billion, offers downbeat guidance]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 21:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=af0bfdf8-5ad6-4ba5-a13a-b913a124bc4e&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Earnings Watch: Robinhood reports big jumps in profit and revenue</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=35e6d6cd-d8f9-4e9d-964f-c2dbb1d42560&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Earnings Watch: Robinhood reports big jumps in profit and revenue]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 21:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=35e6d6cd-d8f9-4e9d-964f-c2dbb1d42560&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

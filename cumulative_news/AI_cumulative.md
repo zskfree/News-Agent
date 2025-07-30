@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-30 08:31
+**最后更新时间**: 2025-07-30 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-30 23:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Nature 子刊 | DeepSeek落户超750家医院，清华团队剖析AI医疗监管隐忧](https://www.jiqizhixin.com/articles/2025-07-30-8)
+**发布时间**: 2025-07-30 18:05
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The AI Hype Index: The White House’s war on “woke AI”](https://www.technologyreview.com/2025/07/30/1120783/the-ai-hype-index-the-white-houses-war-on-woke-ai/)
+**发布时间**: 2025-07-30 15:37
+
+#### [An EPA rule change threatens to gut US climate regulations](https://www.technologyreview.com/2025/07/30/1120849/epa-endangerment-finding/)
+**发布时间**: 2025-07-30 15:29
+
+#### [Roundtables: Why It’s So Hard to Make Welfare AI Fair](https://www.technologyreview.com/2025/07/30/1120275/roundtables-why-its-so-hard-to-make-welfare-ai-fair/)
+**发布时间**: 2025-07-30 14:53
+
+#### [The Download: a 30-year old baby, and OpenAI’s push into colleges](https://www.technologyreview.com/2025/07/30/1120823/the-download-a-30-year-old-baby-and-openais-push-into-colleges/)
+**发布时间**: 2025-07-30 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全国首个“AI+玩具”产业基地！由商汤科技与汕头市澄海区共建](https://www.qbitai.com/2025/07/315809.html)
+**发布时间**: 2025-07-30 13:56
+
+#### [感天下，智未来｜首届全球无线感知竞赛SSC 2025正式启动](https://www.qbitai.com/2025/07/315481.html)
+**发布时间**: 2025-07-30 10:59
+
+#### [亿万打工人在用的WPS，未来可能要重塑你的工作流](https://www.qbitai.com/2025/07/315752.html)
+**发布时间**: 2025-07-30 09:54
+
+#### [特赞科技x同济设计人工智能实验室，“创意可计算性”产教实践亮相世界人工智能大会](https://www.qbitai.com/2025/07/315641.html)
+**发布时间**: 2025-07-30 09:22
+
+#### [理想的AI司机，开始强化学习了](https://www.qbitai.com/2025/07/315628.html)
+**发布时间**: 2025-07-30 09:22
+
+#### [o3出圈玩法“看图猜位置”，豆包也安排上了！还是人人免费用那种](https://www.qbitai.com/2025/07/315428.html)
+**发布时间**: 2025-07-30 07:22
+
+#### [我在WAIC上看到的十大趋势](https://www.qbitai.com/2025/07/315483.html)
+**发布时间**: 2025-07-30 07:20
 
 ---
 

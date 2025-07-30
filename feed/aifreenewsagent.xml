@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Jul 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2025 08:32:00 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 23:22:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>P图手残党有救了，豆包·图像编辑模型3.0上线，一个对话框搞定「增删改替」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30-7</link>
-      <description>&lt;![CDATA[P图手残党有救了，豆包·图像编辑模型3.0上线，一个对话框搞定「增删改替」]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-7</guid>
+      <title>Nature 子刊 | DeepSeek落户超750家医院，清华团队剖析AI医疗监管隐忧</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-30-8</link>
+      <description>&lt;![CDATA[Nature 子刊 | DeepSeek落户超750家医院，清华团队剖析AI医疗监管隐忧]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 18:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开出10亿美元天价，小扎挖人Mira创业公司惨遭拒：俺们不差钱</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30-6</link>
-      <description>&lt;![CDATA[开出10亿美元天价，小扎挖人Mira创业公司惨遭拒：俺们不差钱]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-6</guid>
+      <title>The AI Hype Index: The White House’s war on “woke AI”</title>
+      <link>https://www.technologyreview.com/2025/07/30/1120783/the-ai-hype-index-the-white-houses-war-on-woke-ai/</link>
+      <description>&lt;![CDATA[The AI Hype Index: The White House’s war on “woke AI”]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/30/1120783/the-ai-hype-index-the-white-houses-war-on-woke-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>当智能成为主要生产资料，硅基经济学引爆「AI+金融」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30-5</link>
-      <description>&lt;![CDATA[当智能成为主要生产资料，硅基经济学引爆「AI+金融」]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-5</guid>
+      <title>An EPA rule change threatens to gut US climate regulations</title>
+      <link>https://www.technologyreview.com/2025/07/30/1120849/epa-endangerment-finding/</link>
+      <description>&lt;![CDATA[An EPA rule change threatens to gut US climate regulations]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/30/1120849/epa-endangerment-finding/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>SPIRAL：零和游戏自对弈成为语言模型推理训练的「免费午餐」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-30-4</link>
-      <description>&lt;![CDATA[SPIRAL：零和游戏自对弈成为语言模型推理训练的「免费午餐」]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-30-4</guid>
+      <title>Roundtables: Why It’s So Hard to Make Welfare AI Fair</title>
+      <link>https://www.technologyreview.com/2025/07/30/1120275/roundtables-why-its-so-hard-to-make-welfare-ai-fair/</link>
+      <description>&lt;![CDATA[Roundtables: Why It’s So Hard to Make Welfare AI Fair]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/30/1120275/roundtables-why-its-so-hard-to-make-welfare-ai-fair/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>1688全面AI化：推出“1688 AI版”App以及免费查企工具“88查”</title>
-      <link>https://www.qbitai.com/2025/07/315431.html</link>
-      <description>&lt;![CDATA[1688全面AI化：推出“1688 AI版”App以及免费查企工具“88查”]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 05:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315431.html</guid>
+      <title>The Download: a 30-year old baby, and OpenAI’s push into colleges</title>
+      <link>https://www.technologyreview.com/2025/07/30/1120823/the-download-a-30-year-old-baby-and-openais-push-into-colleges/</link>
+      <description>&lt;![CDATA[The Download: a 30-year old baby, and OpenAI’s push into colleges]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/30/1120823/the-download-a-30-year-old-baby-and-openais-push-into-colleges/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小扎天价offer创新高：10亿刀！但这支前OpenAI班底0人心动</title>
-      <link>https://www.qbitai.com/2025/07/315430.html</link>
-      <description>&lt;![CDATA[小扎天价offer创新高：10亿刀！但这支前OpenAI班底0人心动]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 05:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315430.html</guid>
+      <title>全国首个“AI+玩具”产业基地！由商汤科技与汕头市澄海区共建</title>
+      <link>https://www.qbitai.com/2025/07/315809.html</link>
+      <description>&lt;![CDATA[全国首个“AI+玩具”产业基地！由商汤科技与汕头市澄海区共建]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315809.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>火山引擎发布豆包最新图像编辑、同传模型，加速Agent开发落地</title>
-      <link>https://www.qbitai.com/2025/07/315433.html</link>
-      <description>&lt;![CDATA[火山引擎发布豆包最新图像编辑、同传模型，加速Agent开发落地]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 05:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315433.html</guid>
+      <title>感天下，智未来｜首届全球无线感知竞赛SSC 2025正式启动</title>
+      <link>https://www.qbitai.com/2025/07/315481.html</link>
+      <description>&lt;![CDATA[感天下，智未来｜首届全球无线感知竞赛SSC 2025正式启动]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315481.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>亿万打工人在用的WPS，未来可能要重塑你的工作流</title>
+      <link>https://www.qbitai.com/2025/07/315752.html</link>
+      <description>&lt;![CDATA[亿万打工人在用的WPS，未来可能要重塑你的工作流]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315752.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>特赞科技x同济设计人工智能实验室，“创意可计算性”产教实践亮相世界人工智能大会</title>
+      <link>https://www.qbitai.com/2025/07/315641.html</link>
+      <description>&lt;![CDATA[特赞科技x同济设计人工智能实验室，“创意可计算性”产教实践亮相世界人工智能大会]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315641.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>理想的AI司机，开始强化学习了</title>
+      <link>https://www.qbitai.com/2025/07/315628.html</link>
+      <description>&lt;![CDATA[理想的AI司机，开始强化学习了]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/315628.html</guid>
       <category>AI</category>
     </item>
   </channel>

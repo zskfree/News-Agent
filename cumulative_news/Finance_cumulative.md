@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-30 08:31
+**最后更新时间**: 2025-07-30 23:22
+
+---
+
+## 🆕 最新更新 (2025-07-30 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bessent calls MAGA baby bonds a ‘back door’ to privatize Social Security](https://www.marketwatch.com/bulletins/redirect/go?g=ddc14ab1-e608-43ce-bc1d-2047cdf5a6b0&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 23:12
+
+#### [Dollar heads for best week since 2022 after getting unexpected boost from Powell](https://www.marketwatch.com/bulletins/redirect/go?g=c1514875-bfad-458d-9f26-4f03d3d6b442&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 21:49
+
+#### [Talk of a bubble is making a comeback on Wall Street. Should investors worry?](https://www.marketwatch.com/bulletins/redirect/go?g=cebab514-c8e5-4008-a02b-4f17fd3dfe15&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 21:24
+
+#### [Ford warns its tariff hit will grow to $2 billion, offers downbeat guidance](https://www.marketwatch.com/bulletins/redirect/go?g=af0bfdf8-5ad6-4ba5-a13a-b913a124bc4e&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 21:22
+
+#### [Earnings Watch: Robinhood reports big jumps in profit and revenue](https://www.marketwatch.com/bulletins/redirect/go?g=35e6d6cd-d8f9-4e9d-964f-c2dbb1d42560&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 21:06
+
+#### [Opinion: Josh Hawley’s $600 rebates bill shows why Republicans win](https://www.marketwatch.com/bulletins/redirect/go?g=65010a89-9299-444c-a90f-469aebd98d03&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 20:46
+
+#### [Microsoft stock surges after earnings. Here's the biggest number from the report](https://www.marketwatch.com/bulletins/redirect/go?g=ab8d5d75-c17a-4060-beb8-2146335608ed&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 20:45
+
+#### [Meta earnings beat by a wide margin, and the stock is surging](https://www.marketwatch.com/bulletins/redirect/go?g=ac5b1e78-63df-41cf-81b3-e679a2769766&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 20:21
+
+#### [Live blog: Microsoft's stock surges after earnings show massive cloud growth](https://www.marketwatch.com/bulletins/redirect/go?g=329b8b68-3c22-4126-8a93-59a3c95516dc&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 20:11
+
+#### [Dow falls 170 points after Fed signals no decision made yet on September cut](https://www.marketwatch.com/bulletins/redirect/go?g=85c65fc6-557f-4456-b15d-1d2437c2c9b3&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-30 20:06
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security now says online-authentication rules will be encouraged — but ‘entirely optional’](https://www.marketwatch.com/story/social-security-now-says-online-authentication-rules-will-be-encouraged-but-entirely-optional-b85af234?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 23:06
+
+#### [Treasury secretary calls MAGA baby bonds a ‘back door’ to privatize Social Security](https://www.marketwatch.com/story/treasury-secretary-calls-maga-baby-bonds-a-back-door-to-privatize-social-security-a3c0bd44?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 22:57
+
+#### [Trump crypto group’s report skips strategic bitcoin reserve, but industry remains unfazed](https://www.marketwatch.com/story/trump-crypto-groups-report-skips-strategic-bitcoin-reserve-but-industry-remains-unfazed-969b1bdf?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 22:50
+
+#### [My salary is not keeping up with inflation. Is my company cheating me?](https://www.marketwatch.com/story/i-keep-getting-the-same-song-and-dance-my-salary-has-not-kept-up-with-inflation-is-my-company-cheating-me-ebcbfc53?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 22:45
+
+#### [Popular copper trade comes to a sudden stop as Trump’s import tariff won’t include refined copper](https://www.marketwatch.com/story/popular-copper-trade-comes-to-a-sudden-stop-as-trumps-import-tariff-wont-include-refined-copper-e03c65ad?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 22:37
+
+#### [These two online shopping platforms are rallying ahead of Amazon’s earnings](https://www.marketwatch.com/story/these-two-online-shopping-platforms-are-rallying-ahead-of-amazons-earnings-d4acf8f5?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 22:25
+
+#### [Federal Reserve leaves interest rates unchanged despite pressure from Trump](https://www.marketwatch.com/story/fed-leaves-interest-rates-unchanged-despite-pressure-from-trump-172204ba?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 22:13
+
+#### [U.S. dollar heads for best week since 2022 after getting an unexpected boost from Fed’s Powell](https://www.marketwatch.com/story/u-s-dollar-heads-for-best-week-since-2022-after-getting-an-unexpected-boost-from-feds-powell-8c8833fa?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 21:47
+
+#### [Robinhood takes ‘victory lap’ after big jumps in quarterly profit and revenue](https://www.marketwatch.com/story/robinhood-sets-record-for-trading-in-volatile-quarter-reports-profit-and-revenue-jumps-a04b70c8?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 21:42
 
 ---
 

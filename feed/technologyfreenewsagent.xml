@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Jul 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2025 08:32:00 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 23:22:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ChatGPT:危险的聪明</title>
-      <link>https://www.tmtpost.com/7642426.html</link>
-      <description>&lt;![CDATA[ChatGPT:危险的聪明]]&gt;</description>
+      <title>AI 的尽头是能源？能碳大模型正在改写能源管理逻辑</title>
+      <link>https://www.infoq.cn/article/BlF51amTds3EBMW1lHbZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 的尽头是能源？能碳大模型正在改写能源管理逻辑]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 19:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BlF51amTds3EBMW1lHbZ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Google’s Newest AI Model Acts like a Satellite to Track Climate Change</title>
+      <link>https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/</link>
+      <description>&lt;![CDATA[Google’s Newest AI Model Acts like a Satellite to Track Climate Change]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 18:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“比 Flink 更适合 Agent！”十五年老中间件转型做 Agentic AI：比 LangChain 快 70%，还能省 2/3 算力</title>
+      <link>https://www.infoq.cn/article/eLFe1OPlKxr5v5u8dxra?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“比 Flink 更适合 Agent！”十五年老中间件转型做 Agentic AI：比 LangChain 快 70%，还能省 2/3 算力]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eLFe1OPlKxr5v5u8dxra?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>双“雷”暴击！Trae 被曝资源黑洞、Claude背刺超级付费党，开发者们被“刀”惨了</title>
+      <link>https://www.infoq.cn/article/ogYpLdKb7PwdDFFY7IUv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[双“雷”暴击！Trae 被曝资源黑洞、Claude背刺超级付费党，开发者们被“刀”惨了]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ogYpLdKb7PwdDFFY7IUv?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Microsoft reports strong cloud earnings, with Windows and Xbox up too</title>
+      <link>https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface</link>
+      <description>&lt;![CDATA[Microsoft reports strong cloud earnings, with Windows and Xbox up too]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 20:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Everything You Wanted to Know About China’s Auto Industry Takeover</title>
+      <link>https://www.wired.com/story/electric-vehicles-china-takeover/</link>
+      <description>&lt;![CDATA[Everything You Wanted to Know About China’s Auto Industry Takeover]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/electric-vehicles-china-takeover/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Google is using AI age checks to lock down user accounts</title>
+      <link>https://www.theverge.com/news/716154/google-ai-age-estimation-under-18</link>
+      <description>&lt;![CDATA[Google is using AI age checks to lock down user accounts]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/716154/google-ai-age-estimation-under-18</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The Trump-Crypto Honeymoon Is Over</title>
+      <link>https://www.wired.com/story/trump-crypto-caucus-fracture/</link>
+      <description>&lt;![CDATA[The Trump-Crypto Honeymoon Is Over]]&gt;</description>
       <pubDate>Wed, 30 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642426.html</guid>
+      <guid isPermaLink="true">https://www.wired.com/story/trump-crypto-caucus-fracture/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2025WAIC：大厂回归，医疗AI爆火出圈！</title>
-      <link>https://www.tmtpost.com/7642777.html</link>
-      <description>&lt;![CDATA[2025WAIC：大厂回归，医疗AI爆火出圈！]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642777.html</guid>
+      <title>Trump Ends Tariff Exemption for Small Packages</title>
+      <link>https://www.wired.com/story/president-trump-suspends-de-minimis/</link>
+      <description>&lt;![CDATA[Trump Ends Tariff Exemption for Small Packages]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/president-trump-suspends-de-minimis/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软进军 AI 浏览器，维持巨头的平庸</title>
-      <link>https://www.tmtpost.com/7642391.html</link>
-      <description>&lt;![CDATA[微软进军 AI 浏览器，维持巨头的平庸]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642391.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Infinigence Unveils Next-Gen AI Infrastructure Suite, Aims to Lead China’s AI Deployment Revolution</title>
-      <link>https://www.tmtpost.com/7642903.html</link>
-      <description>&lt;![CDATA[Infinigence Unveils Next-Gen AI Infrastructure Suite, Aims to Lead China’s AI Deployment Revolution]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642903.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里云 CIO 蒋林泉确认出席 AICon 深圳，将分享阿里云大模型应用落地实践之路</title>
-      <link>https://www.infoq.cn/article/iEHOslKWHol5hNehCkgH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里云 CIO 蒋林泉确认出席 AICon 深圳，将分享阿里云大模型应用落地实践之路]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iEHOslKWHol5hNehCkgH?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Tiktok之后，又一款中国互联网产品炸场美国</title>
-      <link>https://www.tmtpost.com/7642699.html</link>
-      <description>&lt;![CDATA[Tiktok之后，又一款中国互联网产品炸场美国]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642699.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Mitsubishi's China Exit Marks End of an Era for Japanese Carmakers</title>
-      <link>https://www.tmtpost.com/7642994.html</link>
-      <description>&lt;![CDATA[Mitsubishi's China Exit Marks End of an Era for Japanese Carmakers]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642994.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>理想i8，抢谁的饭碗？</title>
-      <link>https://www.tmtpost.com/7642550.html</link>
-      <description>&lt;![CDATA[理想i8，抢谁的饭碗？]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642550.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>光伏不扩产了，那设备企业该如何过冬？</title>
-      <link>https://www.tmtpost.com/7642828.html</link>
-      <description>&lt;![CDATA[光伏不扩产了，那设备企业该如何过冬？]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642828.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Spotify: 涨价失灵，高估值还撑得住吗？</title>
-      <link>https://www.tmtpost.com/7642309.html</link>
-      <description>&lt;![CDATA[Spotify: 涨价失灵，高估值还撑得住吗？]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642309.html</guid>
+      <title>创始人拒绝投资13年、仅有几十人的开源项目斩获81k+ GitHub star，用户破百万！网友：他一个人拯救了PHP</title>
+      <link>https://www.infoq.cn/article/oMbIqHLJlcEvG6guqTPq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[创始人拒绝投资13年、仅有几十人的开源项目斩获81k+ GitHub star，用户破百万！网友：他一个人拯救了PHP]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 18:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oMbIqHLJlcEvG6guqTPq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
