@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-30 23:22
+**最后更新时间**: 2025-07-31 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-31 05:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is another S&P 500 change on the horizon? Here’s what to know.](https://www.marketwatch.com/story/is-another-s-p-500-change-on-the-horizon-heres-what-to-know-dacea437?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 01:44
+
+#### [Arm drops some clues about its future, but they’re not enough to help the stock](https://www.marketwatch.com/story/arm-drops-some-clues-about-its-future-but-theyre-not-enough-to-help-the-stock-43dbc5c6?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 01:15
+
+#### [Qualcomm’s stock falls after earnings. Here’s where investors may be disappointed.](https://www.marketwatch.com/story/qualcomms-stock-falls-after-earnings-heres-where-investors-may-be-disappointed-a7a56039?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 01:00
+
+#### [Why is Meta’s stock soaring after earnings? It’s about far more than the numbers.](https://www.marketwatch.com/story/why-is-metas-stock-soaring-after-earnings-its-about-far-more-than-the-numbers-174b1113?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 00:30
+
+#### [Ford warns its tariff hit will grow to $2 billion, offers downbeat  guidance](https://www.marketwatch.com/story/ford-warns-its-tariff-hit-will-grow-to-2-billion-offers-downbeat-guidance-48eabfca?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 00:20
+
+#### [Figma prices IPO at $33 a share, raising $1.2 billion](https://www.marketwatch.com/story/figma-prices-ipo-at-33-a-share-raising-1-2-billion-b8df6eca?mod=mw_rss_topstories)
+**发布时间**: 2025-07-30 23:58
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump to penalize India for buying Russian oil. Here’s how much it purchases.](https://www.marketwatch.com/bulletins/redirect/go?g=76f5f623-0bc4-42d6-81fd-4b9975b36edc&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 01:41
+
+#### [Why is Meta’s stock soaring after earnings? It’s about far more than the numbers](https://www.marketwatch.com/bulletins/redirect/go?g=ccef5491-579e-4373-ac5a-619477d7ebc4&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 00:32
+
+#### [Figma prices IPO at $33 a share, raising $1.2 billion](https://www.marketwatch.com/bulletins/redirect/go?g=cae6189f-b204-42b3-afd1-f5d578ba9992&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 00:01
 
 ---
 

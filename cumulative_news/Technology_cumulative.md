@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-30 23:22
+**最后更新时间**: 2025-07-31 05:28
+
+---
+
+## 🆕 最新更新 (2025-07-31 05:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [开天大模型与知识图谱在智能客服场景应用探索｜AICon 深圳](https://www.infoq.cn/article/oxE70BhRayiKAVYRHrCt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 13:00
+
+#### [Uno Platform 6.1引入CommandBarFlyout控件](https://www.infoq.cn/article/IyZUqSleuQZA0hIBX0dr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 11:54
+
+#### [AI进化论_01：智算时代操作系统的破局之路](https://www.infoq.cn/video/d03PtJgAL8CalpBKy9VE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 11:10
+
+#### [从制造业看大模型在企业如何落地 ｜AICon 深圳](https://www.infoq.cn/article/AARZ3Gxd2rDIRlJEqQSX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 10:22
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Trump Signs Order to Slaps Brazil with 50% Tariffs Starting Aug. 6](https://www.tmtpost.com/7644025.html)
+**发布时间**: 2025-07-31 12:55
+
+#### [00后开闪购店，三年翻身当老板](https://www.tmtpost.com/7643612.html)
+**发布时间**: 2025-07-31 11:51
+
+#### [Trump Announces Trade Deal Setting 15% Tariffs on South Korea](https://www.tmtpost.com/7643934.html)
+**发布时间**: 2025-07-31 11:11
+
+#### [抖音想学烂番茄，先过豆瓣这一关](https://www.tmtpost.com/7643714.html)
+**发布时间**: 2025-07-31 11:01
+
+#### [暑期档电影市场不够好，但还有救](https://www.tmtpost.com/7643747.html)
+**发布时间**: 2025-07-31 10:28
+
+#### [China's 'Vinegar Capital' Pairs Ancient Craft With AI to Build a 6.5 Billion Yuan Industry](https://www.tmtpost.com/7643814.html)
+**发布时间**: 2025-07-31 10:00
+
+#### [400亿72小时归零：复盘FTX骗局，所有“捷径”都通向深渊](https://www.tmtpost.com/7643480.html)
+**发布时间**: 2025-07-31 10:00
+
+#### [80%企业明年会消失，AI玩具的生死线不是“套娃”Labubu](https://www.tmtpost.com/7643661.html)
+**发布时间**: 2025-07-31 09:43
+
+#### [瞄准重卡客车三电难题，福田发布爱易科新能源重型超级电驱动](https://www.tmtpost.com/7643252.html)
+**发布时间**: 2025-07-31 09:42
+
+#### [爱美客和江苏吴中「童颜针」纠纷：一场关于利润与渠道的争夺战](https://www.tmtpost.com/7643537.html)
+**发布时间**: 2025-07-31 09:19
+
+#### [先导电科闪电对接衢州发展：国资与地方“投资大户”的隐秘联动｜并购一线](https://www.tmtpost.com/7643521.html)
+**发布时间**: 2025-07-31 09:11
+
+#### [蚊子之恶，被长期忽视](https://www.tmtpost.com/7643554.html)
+**发布时间**: 2025-07-31 08:40
+
+#### [科股早知道：AI赋能后交互性大幅提升，目前产业链正加速将传统产品AI化](https://www.tmtpost.com/7643644.html)
+**发布时间**: 2025-07-31 08:14
+
+#### [瑞幸： 小蓝杯 “狂飙”，“咖啡一哥” 一片坦途？](https://www.tmtpost.com/7643499.html)
+**发布时间**: 2025-07-31 08:00
+
+#### [【钛晨报】中央政治局会议重磅定调！事关宏观政策、资本市场；A股年内首只“10倍股”上纬新材今起停牌核查；京东三个月内完成五家机器人企业投资](https://www.tmtpost.com/7643481.html)
+**发布时间**: 2025-07-31 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派开箱 | Nothing Headphone (1) 无线降噪头戴耳机体验](https://sspai.com/post/101346)
+**发布时间**: 2025-07-31 11:14
+
+#### [派早报：Dropbox Password 将停止服务、PS 新增多项 AI 功能等](https://sspai.com/post/101480)
+**发布时间**: 2025-07-31 08:46
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 智能体，让每个人可以像科学家一样工作和思考](http://www.geekpark.net/news/352174)
+**发布时间**: 2025-07-31 10:32
+
+#### [没敲过代码的我，半小时「聊」出一个能用能分享的「小程序」](http://www.geekpark.net/news/352172)
+**发布时间**: 2025-07-31 10:25
+
+#### [32.18万起！理想i8正面「硬刚」特斯拉Model X](http://www.geekpark.net/news/352171)
+**发布时间**: 2025-07-31 10:23
+
+#### [智能驾驶最大的障碍，不是懂车帝](http://www.geekpark.net/news/352169)
+**发布时间**: 2025-07-31 10:20
+
+#### [小米青年公寓正式启用，1999 元/月；Meta AI 数据中心投入 720 亿美元；NBA 引入「AI 篮球」](http://www.geekpark.net/news/352162)
+**发布时间**: 2025-07-31 08:33
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [网红歌手频繁翻车，演唱会的本质是什么？](http://www.huxiu.com/article/4637128.html?f=wangzhan)
+**发布时间**: 2025-07-31 08:35
+
+#### [家电化，不是造SUV的首要任务](http://www.huxiu.com/article/4635492.html?f=wangzhan)
+**发布时间**: 2025-07-30 18:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Therabody Promo Code: 15% Off | August 2025](https://www.wired.com/story/therabody-promo-code/)
+**发布时间**: 2025-07-31 05:00
+
+#### [Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI](https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/)
+**发布时间**: 2025-07-30 23:41
+
+#### [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening to, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)
+**发布时间**: 2025-07-30 22:34
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Meta is playing the AI game with house money](https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg)
+**发布时间**: 2025-07-31 00:18
 
 ---
 
