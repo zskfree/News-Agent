@@ -1,7 +1,192 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-31 08:31
+**最后更新时间**: 2025-07-31 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-31 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [英伟达回应中国因“安全问题”约谈：芯片不存在“后门”，网络安全对我们至关重要](https://www.tmtpost.com/7644871.html)
+**发布时间**: 2025-08-01 07:00
+
+#### [净利飙升、股价下跌，宁德时代站上转型十字路口｜钛度车库](https://www.tmtpost.com/7644169.html)
+**发布时间**: 2025-07-31 22:41
+
+#### [新任总经理主动降薪“低保”履职，三雄极光内斗博弈暗涌加剧](https://www.tmtpost.com/7644619.html)
+**发布时间**: 2025-07-31 20:58
+
+#### [外卖大战，打肥瑞幸](https://www.tmtpost.com/7644463.html)
+**发布时间**: 2025-07-31 18:54
+
+#### [零食连锁被困愁城](https://www.tmtpost.com/7643622.html)
+**发布时间**: 2025-07-31 18:54
+
+#### [白酒在胖东来、山姆、盒马找到“新卖场”|行业风向标](https://www.tmtpost.com/7644469.html)
+**发布时间**: 2025-07-31 18:31
+
+#### [从流量到存量，留下客户是三大巨头下一道难题](https://www.tmtpost.com/7644297.html)
+**发布时间**: 2025-07-31 18:18
+
+#### [创·问｜PingCAP 刘松：AI 即将重塑数据库，未来为 Agent 而生](https://www.tmtpost.com/7644358.html)
+**发布时间**: 2025-07-31 18:10
+
+#### [一个铂爵倒了，无数个旅拍工作室还在苦熬](https://www.tmtpost.com/7644327.html)
+**发布时间**: 2025-07-31 17:59
+
+#### [Netflix开始试水AI？背后的商业逻辑不简单](https://www.tmtpost.com/7644083.html)
+**发布时间**: 2025-07-31 17:32
+
+#### [郎酒惊醒千亿梦](https://www.tmtpost.com/7644001.html)
+**发布时间**: 2025-07-31 17:32
+
+#### [贵金属行业反洗钱新规明起实施，现金交易超10万需上报](https://www.tmtpost.com/7644262.html)
+**发布时间**: 2025-07-31 17:31
+
+#### [人均100元，新晋餐饮排队“四大天王”挤占商场](https://www.tmtpost.com/7644119.html)
+**发布时间**: 2025-07-31 17:06
+
+#### [字节豆包大模型日均调用量飙升137倍，最新输入tokens价格低至0.15元](https://www.tmtpost.com/7642876.html)
+**发布时间**: 2025-07-31 17:00
+
+#### [对话王光熙：具身智能，下一个“汽车时代”？](https://www.tmtpost.com/7644319.html)
+**发布时间**: 2025-07-31 16:59
+
+#### [山姆开始“沃尔玛化”](https://www.tmtpost.com/7644129.html)
+**发布时间**: 2025-07-31 16:53
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [17.98 万的乐道 L90，有多少蔚来的诚意，就有多少李斌的「求生欲」](http://www.geekpark.net/news/352216)
+**发布时间**: 2025-07-31 23:51
+
+#### [XREAL One Pro 体验：AR 老炮的自我革命](http://www.geekpark.net/news/352189)
+**发布时间**: 2025-07-31 12:57
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple shipped its 3 billionth iPhone](https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone)
+**发布时间**: 2025-07-31 22:35
+
+#### [Apple says Trump’s tariffs are adding another $1 billion to its costs](https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost)
+**发布时间**: 2025-07-31 21:53
+
+#### [Tim Cook says Apple is ‘open to’ AI acquisitions](https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook)
+**发布时间**: 2025-07-31 21:16
+
+#### [Google&#8217;s Pixel Tablet is $190 off for a limited time](https://www.theverge.com/tech/717035/google-pixel-tablet-deal-sale)
+**发布时间**: 2025-07-31 21:10
+
+#### [Reddit wants to be a search engine now](https://www.theverge.com/news/717095/reddit-q2-2025-earnings-search-engine)
+**发布时间**: 2025-07-31 21:01
+
+#### [DJI won’t sell you an Osmo 360 in the US — but these retailers will](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
+**发布时间**: 2025-07-31 20:24
+
+#### [The Switch 2 is off to a speedy start for big third-party games](https://www.theverge.com/games/716859/nintendo-partner-direct-july-cronos-star-wars)
+**发布时间**: 2025-07-31 19:30
+
+#### [The Epic Games Store is bringing Fortnite back to Google Play](https://www.theverge.com/news/716914/fortnite-epic-games-store-android-google-play)
+**发布时间**: 2025-07-31 18:31
+
+#### [Aaron Sorkin’s Social Network sequel might recast Mark Zuckerberg](https://www.theverge.com/news/716927/meta-mark-zuckerberg-social-network-aaron-sorkin-recast)
+**发布时间**: 2025-07-31 18:10
+
+#### [Tesla’s ‘robotaxi’ rides in San Francisco have a human at the wheel](https://www.theverge.com/news/716867/tesla-robotaxi-san-francisco-launch)
+**发布时间**: 2025-07-31 17:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本月玩什么 | 咚奇刚 蕉力全开、改善：工厂物语、Wheel World](https://sspai.com/post/101503)
+**发布时间**: 2025-07-31 21:56
+
+#### [新玩意 216｜少数派的编辑们最近买了啥？](https://sspai.com/post/101485)
+**发布时间**: 2025-07-31 17:06
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [理想i8的发布会，办的好不好？](http://www.huxiu.com/article/4640339.html?f=wangzhan)
+**发布时间**: 2025-07-31 20:20
+
+#### [粪水喷涌引发全民狂欢？造谣者竟是公关鬼才？](http://www.huxiu.com/article/4639597.html?f=wangzhan)
+**发布时间**: 2025-07-31 18:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 28 Best Movies on Apple TV+ Right Now (August 2025)](https://www.wired.com/story/best-apple-tv-plus-movies/)
+**发布时间**: 2025-07-31 19:00
+
+#### [States Are Moving to Protect Access to Vaccines](https://www.wired.com/story/states-are-moving-to-protect-access-to-vaccines/)
+**发布时间**: 2025-07-31 18:53
+
+#### [Still Using Windows 10? Here's How to Get Another Year of Updates for Free](https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/)
+**发布时间**: 2025-07-31 18:15
+
+#### [The Grave Long-Term Effects of the Gaza Malnutrition Crisis](https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/)
+**发布时间**: 2025-07-31 17:22
+
+#### [The Kremlin's Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)
+**发布时间**: 2025-07-31 16:00
+
+#### [Donald Trump’s New Crypto Bible Is Everything the Industry Ever Wanted](https://www.wired.com/story/donald-trumps-new-crypto-bible-is-everything-the-industry-ever-wanted/)
+**发布时间**: 2025-07-31 15:30
+
+#### [Inside the Summit Where China Pitched Its AI Agenda to the World](https://www.wired.com/story/china-artificial-intelligence-policy-laws-race/)
+**发布时间**: 2025-07-31 15:04
+
+#### [A New ‘Katamari’ Game, ‘Octopath Traveler 0,’ and More Are Coming to Switch 2](https://www.wired.com/story/a-new-katamari-game-octopath-traveler-0-and-more-are-coming-to-switch-2/)
+**发布时间**: 2025-07-31 14:55
+
+#### [The Inside Story of Eric Trump’s American Bitcoin](https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/)
+**发布时间**: 2025-07-31 14:06
+
+#### [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)
+**发布时间**: 2025-07-31 13:16
+
+#### [8 Best Video Doorbell Cameras (2025): Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+**发布时间**: 2025-07-31 12:30
+
+#### [The Best Travel Strollers for All Your Family Adventures (2025)](https://www.wired.com/gallery/best-travel-stroller/)
+**发布时间**: 2025-07-31 12:06
+
+#### [The Best Cheap Headphones We’ve Tried](https://www.wired.com/gallery/best-headphones-under-100/)
+**发布时间**: 2025-07-31 12:00
+
+#### [Asus Chromebook CX14 Review: What You Get for $429](https://www.wired.com/review/asus-chromebook-cx14/)
+**发布时间**: 2025-07-31 11:30
+
+#### [How Apple’s New Spotlight Compares to Raycast](https://www.wired.com/story/how-new-macos-spotlight-compares-to-raycast/)
+**发布时间**: 2025-07-31 11:00
+
+#### [Measles Cases Are Soaring in Mexico](https://www.wired.com/story/measles-cases-are-soaring-in-mexico/)
+**发布时间**: 2025-07-31 10:58
+
+#### [8 Best Sexy Gifts for Lovers (2025)](https://www.wired.com/gallery/best-sexy-gift/)
+**发布时间**: 2025-07-31 09:33
+
+#### [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
+**发布时间**: 2025-07-31 08:30
+
+#### [Google’s Newest AI Model Acts Like a Satellite to Track Climate Change](https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/)
+**发布时间**: 2025-07-30 18:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯猛发一系列AI成果，开源混元3D世界模型、升级0代码智能体平台、10＋垂直Agent同时放送...](https://www.infoq.cn/article/4esxDH0dzqSlq8df6eAi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 18:53
+
+#### [构建会“说话”和“行动”的 AI：生成式数字人技术与 EchoMimic 实践](https://www.infoq.cn/article/SaIaBJ1gF8dbdcwJMvuh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 18:48
+
+#### [一个“蠢问题”改写模型规则！Anthropic联创亲曝：瞄准Claude 5开发爆款应用，最强模型的价值会让人忽略成本负担](https://www.infoq.cn/article/sjPY34VxklZjMWCjbTEw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 18:27
+
+#### [出货百万、销量领先，他们凭什么在AI硬件红海中“杀出血路”？| InfoQ《极客有约》](https://www.infoq.cn/video/2XeKRBFixZlYDORWQsZg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 18:25
+
+#### [DeepSeek V4 借实习生获奖论文“起飞”？梁文峰剑指上下文：处理速度提10倍、要“完美”准确率](https://www.infoq.cn/article/TduDBaS7CpibysCROoHt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 18:00
 
 ---
 

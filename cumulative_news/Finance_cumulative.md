@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-31 08:31
+**最后更新时间**: 2025-07-31 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-31 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Reddit’s stock is soaring after earnings. This is why.](https://www.marketwatch.com/story/reddits-stock-is-soaring-after-earnings-this-is-why-7086fff3?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 23:10
+
+#### [Here’s what’s worth streaming in August 2025 on Netflix, Hulu, HBO Max, Disney+ and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2025-on-netflix-hulu-hbo-max-disney-and-more-2654312a?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 23:02
+
+#### [My therapist said he was in-network. The insurer says he’s not. Am I obliged to pay full rates for all prior sessions?](https://www.marketwatch.com/story/my-therapist-said-he-was-in-network-hes-not-am-i-obliged-to-pay-out-of-network-rates-for-all-prior-sessions-ab570bed?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:38
+
+#### [‘I told him that wouldn’t fly’: My 90-year-old mother’s adviser pushed her to change her beneficiaries. What is going on?](https://www.marketwatch.com/story/i-told-him-that-wouldnt-fly-my-90-year-old-mothers-adviser-changed-the-beneficiaries-on-her-accounts-what-is-going-on-dbba0312?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:34
+
+#### [MicroStrategy just posted a huge profit. It’s the second time riding on an accounting rule change.](https://www.marketwatch.com/story/microstrategy-just-posted-a-huge-profit-its-the-second-time-riding-on-an-accounting-rule-change-9116302f?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:31
+
+#### [How Figma’s soaring stock made for a historic IPO — and what may come next](https://www.marketwatch.com/story/figma-prices-ipo-at-33-a-share-raising-1-2-billion-b8df6eca?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:21
+
+#### [Costs could soar next year for people with Obamacare. What you can do about it now.](https://www.marketwatch.com/story/costs-could-soar-next-year-for-people-with-obamacare-what-you-can-do-about-it-now-da9a56c7?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:16
+
+#### [Microsoft and Meta are pushing the stock market into even more overbought territory](https://www.marketwatch.com/story/microsoft-and-meta-are-pushing-the-stock-market-into-even-more-overbought-territory-b666c22b?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:14
+
+#### [Trump’s tariffs are a no-win for Americans. Here’s what needs to happen now.](https://www.marketwatch.com/story/trumps-tariffs-are-a-no-win-for-americans-heres-what-needs-to-happen-now-19f24b03?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 21:10
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [August is historically a bad month for Big Tech stocks. What to expect this year](https://www.marketwatch.com/bulletins/redirect/go?g=76058d06-8077-4922-ac51-1840b551f37f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 22:43
+
+#### [Reddit’s stock soars as Q2 results blow past Wall Street’s expectations](https://www.marketwatch.com/bulletins/redirect/go?g=27acbc27-6937-4cda-96a6-7d0ff9631b85&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 22:05
+
+#### [MicroStrategy just posted a huge profit, thanks to this accounting change](https://www.marketwatch.com/bulletins/redirect/go?g=c1ad319b-4710-4dae-808a-894c91c1884c&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 21:33
+
+#### [How's Apple managing the tariff situation? This number holds a clue.](https://www.marketwatch.com/bulletins/redirect/go?g=63e33c5c-16e8-46cf-ac93-9b3726c35505&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 21:01
+
+#### [Apple's stock is rising after a huge revenue beat. Did tariffs help?](https://www.marketwatch.com/bulletins/redirect/go?g=080965ba-6758-4c99-bd00-a94b064052b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 20:35
+
+#### [Live blog: Amazon extends streak of profit beats, but the stock pulls back](https://www.marketwatch.com/bulletins/redirect/go?g=b1b87d94-1c52-456b-9737-5cdbb77ce8cf&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 20:16
+
+#### [Stocks end mostly lower but book strong July gains](https://www.marketwatch.com/bulletins/redirect/go?g=79d705da-8433-4692-9d97-285fd57457b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 20:03
+
+#### [Heavily shorted stocks have been on a tear. But consider this before buying.](https://www.marketwatch.com/bulletins/redirect/go?g=e612c885-c831-43fe-b1de-6873c0d54872&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 19:47
+
+#### [Tesla starts ride-hailing service in the Bay Area. It’s not a robotaxi yet.](https://www.marketwatch.com/bulletins/redirect/go?g=e502ce55-4a63-4bee-a1b6-39d5174fc0de&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 19:31
+
+#### [Figma’s IPO triples in a ‘bellwether event.’ Here’s why investors want in.](https://www.marketwatch.com/bulletins/redirect/go?g=be1a4bf2-fffe-49d7-bae0-eed7329ea80f&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 18:54
 
 ---
 

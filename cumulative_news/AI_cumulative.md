@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-07-31 08:31
+**最后更新时间**: 2025-07-31 23:21
+
+---
+
+## 🆕 最新更新 (2025-07-31 23:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [ACL'25最佳论文独家解读：大模型有「抗改造」基因，现有后训练范式失灵预警](https://www.jiqizhixin.com/articles/2025-07-31-12)
+**发布时间**: 2025-07-31 18:15
+
+#### [当提示词优化器学会进化，竟能胜过强化学习](https://www.jiqizhixin.com/articles/2025-07-31-11)
+**发布时间**: 2025-07-31 17:59
+
+#### [ACL 2025主会论文 | TRIDENT：基于三维多样化红队数据合成的LLM安全增强方法](https://www.jiqizhixin.com/articles/2025-07-31-10)
+**发布时间**: 2025-07-31 17:54
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: OpenAI’s future research, and US climate regulation is under threat](https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/)
+**发布时间**: 2025-07-31 12:10
+
+#### [The two people shaping the future of OpenAI’s research](https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/)
+**发布时间**: 2025-07-31 09:06
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC 2025现场直击：看云深处科技如何将具身智能转化为实际生产力](https://www.qbitai.com/2025/07/316584.html)
+**发布时间**: 2025-07-31 11:07
+
+#### [Robotaxi营收同比增长836.7%，季度营收同比增长60.8% | 文远知行发布Q2财报](https://www.qbitai.com/2025/07/316529.html)
+**发布时间**: 2025-07-31 10:07
+
+#### [智慧医院“中国方案”走向全球](https://www.qbitai.com/2025/07/316511.html)
+**发布时间**: 2025-07-31 09:06
+
+#### [机器人终于能帮人洗衣服了](https://www.qbitai.com/2025/07/316500.html)
+**发布时间**: 2025-07-31 08:18
+
+#### [奔驰崩了！业绩新低利润暴跌68%，经销商转卖华为了](https://www.qbitai.com/2025/07/316367.html)
+**发布时间**: 2025-07-31 07:51
+
+#### [阿里安全揭示：恶意邮件可致macOS/iOS瞬间瘫痪！畸形证书发现密码库新漏洞](https://www.qbitai.com/2025/07/316366.html)
+**发布时间**: 2025-07-31 07:50
+
+#### [腾讯发布混元3D世界模型1.0：首个支持物理仿真的开源世界生成系统](https://www.qbitai.com/2025/07/316251.html)
+**发布时间**: 2025-07-31 07:27
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Simulating large systems with Regression Language Models](https://research.google/blog/simulating-large-systems-with-regression-language-models/)
+**发布时间**: 2025-07-29 23:24
 
 ---
 

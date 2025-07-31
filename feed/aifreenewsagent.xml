@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 31 Jul 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 31 Jul 2025 08:32:31 GMT</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 23:22:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌发布AlphaEarth基础模型：构建「地球版ChatGPT」，融合多源数据，实现10米级地球观测</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-9</link>
-      <description>&lt;![CDATA[谷歌发布AlphaEarth基础模型：构建「地球版ChatGPT」，融合多源数据，实现10米级地球观测]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 16:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-9</guid>
+      <title>ACL'25最佳论文独家解读：大模型有「抗改造」基因，现有后训练范式失灵预警</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-31-12</link>
+      <description>&lt;![CDATA[ACL'25最佳论文独家解读：大模型有「抗改造」基因，现有后训练范式失灵预警]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谢赛宁团队新作打破“多语言诅咒”！MetaCLIP 2支持300多种语言，英语性能反倒提升了</title>
-      <link>https://www.qbitai.com/2025/07/316168.html</link>
-      <description>&lt;![CDATA[谢赛宁团队新作打破“多语言诅咒”！MetaCLIP 2支持300多种语言，英语性能反倒提升了]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 06:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316168.html</guid>
+      <title>当提示词优化器学会进化，竟能胜过强化学习</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-31-11</link>
+      <description>&lt;![CDATA[当提示词优化器学会进化，竟能胜过强化学习]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 17:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里闪电入局Agent Infra！智能体新基建亮相WAIC，“超级大脑”开箱即用</title>
-      <link>https://www.qbitai.com/2025/07/316252.html</link>
-      <description>&lt;![CDATA[阿里闪电入局Agent Infra！智能体新基建亮相WAIC，“超级大脑”开箱即用]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 07:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316252.html</guid>
+      <title>ACL 2025主会论文 | TRIDENT：基于三维多样化红队数据合成的LLM安全增强方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-07-31-10</link>
+      <description>&lt;![CDATA[ACL 2025主会论文 | TRIDENT：基于三维多样化红队数据合成的LLM安全增强方法]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>VLA-OS：NUS邵林团队探究机器人VLA做任务推理的秘密</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-5</link>
-      <description>&lt;![CDATA[VLA-OS：NUS邵林团队探究机器人VLA做任务推理的秘密]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-5</guid>
+      <title>The Download: OpenAI’s future research, and US climate regulation is under threat</title>
+      <link>https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/</link>
+      <description>&lt;![CDATA[The Download: OpenAI’s future research, and US climate regulation is under threat]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI离职到估值千亿美元，Anthropic4年时间引硅谷巨头疯狂押注</title>
-      <link>https://www.qbitai.com/2025/07/316099.html</link>
-      <description>&lt;![CDATA[OpenAI离职到估值千亿美元，Anthropic4年时间引硅谷巨头疯狂押注]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 06:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316099.html</guid>
+      <title>The two people shaping the future of OpenAI’s research</title>
+      <link>https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/</link>
+      <description>&lt;![CDATA[The two people shaping the future of OpenAI’s research]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>定义科学智能2.0：在WAIC，复旦与上智院的答案是开放协作、科学家为中心，以及一个「合作伙伴」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-7</link>
-      <description>&lt;![CDATA[定义科学智能2.0：在WAIC，复旦与上智院的答案是开放协作、科学家为中心，以及一个「合作伙伴」]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-7</guid>
+      <title>WAIC 2025现场直击：看云深处科技如何将具身智能转化为实际生产力</title>
+      <link>https://www.qbitai.com/2025/07/316584.html</link>
+      <description>&lt;![CDATA[WAIC 2025现场直击：看云深处科技如何将具身智能转化为实际生产力]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316584.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>WAIC 2025落幕，AI硬件终于找到突破口</title>
-      <link>https://www.qbitai.com/2025/07/316198.html</link>
-      <description>&lt;![CDATA[WAIC 2025落幕，AI硬件终于找到突破口]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 07:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316198.html</guid>
+      <title>Robotaxi营收同比增长836.7%，季度营收同比增长60.8% | 文远知行发布Q2财报</title>
+      <link>https://www.qbitai.com/2025/07/316529.html</link>
+      <description>&lt;![CDATA[Robotaxi营收同比增长836.7%，季度营收同比增长60.8% | 文远知行发布Q2财报]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316529.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小扎改口不开源，Meta股价暴涨12%</title>
-      <link>https://www.qbitai.com/2025/07/316145.html</link>
-      <description>&lt;![CDATA[小扎改口不开源，Meta股价暴涨12%]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 06:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316145.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI提出的CLIP，被Meta联合谢赛宁、刘壮，扩展到全球300+语言</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-6</link>
-      <description>&lt;![CDATA[OpenAI提出的CLIP，被Meta联合谢赛宁、刘壮，扩展到全球300+语言]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>第三届世界科学智能大赛圆满收官！开放多项真实数据，1.6万人共探产业场景关键科学问题</title>
-      <link>https://www.qbitai.com/2025/07/316110.html</link>
-      <description>&lt;![CDATA[第三届世界科学智能大赛圆满收官！开放多项真实数据，1.6万人共探产业场景关键科学问题]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 06:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316110.html</guid>
+      <title>智慧医院“中国方案”走向全球</title>
+      <link>https://www.qbitai.com/2025/07/316511.html</link>
+      <description>&lt;![CDATA[智慧医院“中国方案”走向全球]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316511.html</guid>
       <category>AI</category>
     </item>
   </channel>
