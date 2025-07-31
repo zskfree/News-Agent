@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-31 05:28
+**最后更新时间**: 2025-07-31 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-31 08:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [重塑AI算力底座！阿里云服务器操作系统V4正式发布](https://www.infoq.cn/article/dH9J9L6zjyYpm5y1HsU8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 16:16
+
+#### [快手科技副总裁周国睿确认出席 AICon 深圳，分享生成式技术重构推荐系统的智能边界与效率标准](https://www.infoq.cn/article/oJCTgiyrkNoiHbwDLMTl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 15:00
+
+#### [餐饮服务与软件创新的融合：解析海底捞APP的Flutter鸿蒙开发之路](https://www.infoq.cn/article/TwiTYcgKFvxBsdcVay93?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 14:37
+
+#### [AI进化论丨第一期：智算时代操作系统的破局之路](https://www.infoq.cn/video/d03PtJgAL8CalpBKy9VE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-07-31 11:10
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [理想 i8，为何与理想 L8 同价起售？](https://www.tmtpost.com/7643918.html)
+**发布时间**: 2025-07-31 16:02
+
+#### [2025WAIC “启明创投·创业与投资论坛——创业投资开启AI技术与应用共振周期”成功举办](https://www.tmtpost.com/7643910.html)
+**发布时间**: 2025-07-31 15:57
+
+#### [7月31日A股分析：三大股指集体收跌，两市合计成交19360.35亿元，资金流出最多的行业板块为证券、小金属](https://www.tmtpost.com/7644181.html)
+**发布时间**: 2025-07-31 15:57
+
+#### [Chairman of Qianli Technology Warns Against 'Blind Leaps' in AI as Foundational Model Race Heats Up](https://www.tmtpost.com/7644179.html)
+**发布时间**: 2025-07-31 15:24
+
+#### [星巴克还能回到过去吗？](https://www.tmtpost.com/7643919.html)
+**发布时间**: 2025-07-31 15:08
+
+#### [Trump to Impose 50% Tariffs on Copper Products, Instead of Raw Material Itself](https://www.tmtpost.com/7644157.html)
+**发布时间**: 2025-07-31 15:08
+
+#### [卖掉或上市，消费企业的年中战事](https://www.tmtpost.com/7643838.html)
+**发布时间**: 2025-07-31 14:39
+
+#### [理想i8，能打响“纯电第二枪”吗?](https://www.tmtpost.com/7643805.html)
+**发布时间**: 2025-07-31 14:16
+
+#### [AI Toys Emerge as the Next Consumer Tech Frontier, But Bubble Risks Loom](https://www.tmtpost.com/7644091.html)
+**发布时间**: 2025-07-31 14:01
+
+#### [收购晶澳美国工厂的康宁，能靠光伏赚多少？ | 巴伦精选](https://www.tmtpost.com/7643737.html)
+**发布时间**: 2025-07-31 13:58
+
+#### [Trump Threatens India with "Penalty" On Top of  50% Tariffs over Trade with Russia](https://www.tmtpost.com/7644079.html)
+**发布时间**: 2025-07-31 13:58
+
+#### [35岁的印奇反思创业史：没有闭环的商业模式无法持续推动技术进步](https://www.tmtpost.com/7644000.html)
+**发布时间**: 2025-07-31 13:57
+
+#### [魏建军沾上贾跃亭，图什么？](https://www.tmtpost.com/7643885.html)
+**发布时间**: 2025-07-31 13:54
+
+#### [BeijingWest Smart Mobility Taps Off-Road Surge With Advanced Suspension Tech](https://www.tmtpost.com/7644066.html)
+**发布时间**: 2025-07-31 13:44
+
+#### [硅料价格直指6万，为什么组件价格涨不动？](https://www.tmtpost.com/7643631.html)
+**发布时间**: 2025-07-31 13:28
+
+#### [Trump Signs Order to Slap Brazil with 50% Tariffs Starting Aug. 6](https://www.tmtpost.com/7644025.html)
+**发布时间**: 2025-07-31 12:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [六年北漂，我想和你聊点关于租房的事](https://sspai.com/post/100829)
+**发布时间**: 2025-07-31 15:02
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Crescendo 2 Vibrator Review: Above the Curve](https://www.wired.com/review/crescendo-2-vibrator/)
+**发布时间**: 2025-07-31 08:00
 
 ---
 

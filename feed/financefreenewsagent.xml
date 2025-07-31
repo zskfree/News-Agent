@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 31 Jul 2025 05:28:00 GMT</pubDate>
-    <lastBuildDate>Thu, 31 Jul 2025 05:29:01 GMT</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 08:32:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,59 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Is another S&amp;P 500 change on the horizon? Here’s what to know.</title>
-      <link>https://www.marketwatch.com/story/is-another-s-p-500-change-on-the-horizon-heres-what-to-know-dacea437?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Is another S&amp;P 500 change on the horizon? Here’s what to know.]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 01:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/is-another-s-p-500-change-on-the-horizon-heres-what-to-know-dacea437?mod=mw_rss_topstories</guid>
+      <title>AB InBev shares suffer biggest drop since COVID as volumes tumble</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=cc1dd6ac-bde3-4048-9890-154a699e4142&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[AB InBev shares suffer biggest drop since COVID as volumes tumble]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 08:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=cc1dd6ac-bde3-4048-9890-154a699e4142&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Arm drops some clues about its future, but they’re not enough to help the stock</title>
-      <link>https://www.marketwatch.com/story/arm-drops-some-clues-about-its-future-but-theyre-not-enough-to-help-the-stock-43dbc5c6?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Arm drops some clues about its future, but they’re not enough to help the stock]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 01:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/arm-drops-some-clues-about-its-future-but-theyre-not-enough-to-help-the-stock-43dbc5c6?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Qualcomm’s stock falls after earnings. Here’s where investors may be disappointed.</title>
-      <link>https://www.marketwatch.com/story/qualcomms-stock-falls-after-earnings-heres-where-investors-may-be-disappointed-a7a56039?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Qualcomm’s stock falls after earnings. Here’s where investors may be disappointed.]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/qualcomms-stock-falls-after-earnings-heres-where-investors-may-be-disappointed-a7a56039?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why is Meta’s stock soaring after earnings? It’s about far more than the numbers.</title>
-      <link>https://www.marketwatch.com/story/why-is-metas-stock-soaring-after-earnings-its-about-far-more-than-the-numbers-174b1113?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why is Meta’s stock soaring after earnings? It’s about far more than the numbers.]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 00:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-is-metas-stock-soaring-after-earnings-its-about-far-more-than-the-numbers-174b1113?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Ford warns its tariff hit will grow to $2 billion, offers downbeat  guidance</title>
-      <link>https://www.marketwatch.com/story/ford-warns-its-tariff-hit-will-grow-to-2-billion-offers-downbeat-guidance-48eabfca?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Ford warns its tariff hit will grow to $2 billion, offers downbeat  guidance]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 00:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/ford-warns-its-tariff-hit-will-grow-to-2-billion-offers-downbeat-guidance-48eabfca?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Figma prices IPO at $33 a share, raising $1.2 billion</title>
-      <link>https://www.marketwatch.com/story/figma-prices-ipo-at-33-a-share-raising-1-2-billion-b8df6eca?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Figma prices IPO at $33 a share, raising $1.2 billion]]&gt;</description>
-      <pubDate>Wed, 30 Jul 2025 23:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/figma-prices-ipo-at-33-a-share-raising-1-2-billion-b8df6eca?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump to penalize India for buying Russian oil. Here’s how much it purchases.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=76f5f623-0bc4-42d6-81fd-4b9975b36edc&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Trump to penalize India for buying Russian oil. Here’s how much it purchases.]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 01:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=76f5f623-0bc4-42d6-81fd-4b9975b36edc&amp;mod=mw_rss_bulletins</guid>
+      <title>AB InBev stock sees worst day since COVID struck after volume miss</title>
+      <link>https://www.marketwatch.com/story/ab-inbev-stock-sees-worst-day-since-covid-struck-after-volume-miss-dc959b9d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AB InBev stock sees worst day since COVID struck after volume miss]]&gt;</description>
+      <pubDate>Thu, 31 Jul 2025 07:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ab-inbev-stock-sees-worst-day-since-covid-struck-after-volume-miss-dc959b9d?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

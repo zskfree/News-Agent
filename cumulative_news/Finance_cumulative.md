@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-31 05:28
+**最后更新时间**: 2025-07-31 08:31
+
+---
+
+## 🆕 最新更新 (2025-07-31 08:31)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [AB InBev shares suffer biggest drop since COVID as volumes tumble](https://www.marketwatch.com/bulletins/redirect/go?g=cc1dd6ac-bde3-4048-9890-154a699e4142&mod=mw_rss_bulletins)
+**发布时间**: 2025-07-31 08:23
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [AB InBev stock sees worst day since COVID struck after volume miss](https://www.marketwatch.com/story/ab-inbev-stock-sees-worst-day-since-covid-struck-after-volume-miss-dc959b9d?mod=mw_rss_topstories)
+**发布时间**: 2025-07-31 07:50
 
 ---
 

@@ -8094,6 +8094,84 @@
         "link": "https://arxiv.org/abs/2507.22187",
         "published_date": "Thu, 31 Jul 2025 00:00:00 GMT",
         "first_seen": "2025-07-31T05:28:41.449281"
+      },
+      "8cf2eb5c389ac5b52f6af58f6f48470aaf57bd38d4fa5e6a1d02c7a0c718b622": {
+        "title": "谷歌发布AlphaEarth基础模型：构建「地球版ChatGPT」，融合多源数据，实现10米级地球观测",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-31-9",
+        "published_date": "Thu, 31 Jul 2025 16:17:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120795"
+      },
+      "07c121c5024aba7670fdf261a717f1b57e4d03abb788847d73c90fdfaa99e3a1": {
+        "title": "微软花重金做的Copilot，居然被WPS一个按钮给秒了?",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-31-8",
+        "published_date": "Thu, 31 Jul 2025 14:40:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.666271"
+      },
+      "311b5ca9fa99c1dfff1a88c2075a61b7e7eb9ec48d157f2aab748bba16f1a542": {
+        "title": "定义科学智能2.0：在WAIC，复旦与上智院的答案是开放协作、科学家为中心，以及一个「合作伙伴」",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-31-7",
+        "published_date": "Thu, 31 Jul 2025 14:35:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120858"
+      },
+      "db2871bfcafc010a4f40d68f0cdbbf60e3ccc41939ee896a46af1cb4b3b93218": {
+        "title": "OpenAI提出的CLIP，被Meta联合谢赛宁、刘壮，扩展到全球300+语言",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-31-6",
+        "published_date": "Thu, 31 Jul 2025 14:23:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120885"
+      },
+      "5335644d3b11c109c01f865bef1c09f54537650163504462ef310797ffe754ce": {
+        "title": "VLA-OS：NUS邵林团队探究机器人VLA做任务推理的秘密",
+        "link": "https://www.jiqizhixin.com/articles/2025-07-31-5",
+        "published_date": "Thu, 31 Jul 2025 14:19:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120839"
+      },
+      "df6b3844bfea3d0878baa9a8e8b4aad8581560bea076c63cb84f5feb0c8532f0": {
+        "title": "阿里闪电入局Agent Infra！智能体新基建亮相WAIC，“超级大脑”开箱即用",
+        "link": "https://www.qbitai.com/2025/07/316252.html",
+        "published_date": "Thu, 31 Jul 2025 07:18:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120828"
+      },
+      "5f224e9c0aac6530a84177adcfdf55bf520cb6f68a6fb9fe9335d47c149f537b": {
+        "title": "WAIC 2025落幕，AI硬件终于找到突破口",
+        "link": "https://www.qbitai.com/2025/07/316198.html",
+        "published_date": "Thu, 31 Jul 2025 07:12:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120867"
+      },
+      "7b8680c3bb6ef1246539f73958ea2c567e1508cc391e44d93b0ba53ebba23054": {
+        "title": "谷歌把整个地球装进大模型！实时观测，按天更新",
+        "link": "https://www.qbitai.com/2025/07/316195.html",
+        "published_date": "Thu, 31 Jul 2025 07:10:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.668447"
+      },
+      "153ed2883851a4c55b48819ca18edce4ec78dc4d38c2d4b89582ae4de6d4c671": {
+        "title": "张朝阳对话理论物理学家汤大卫：我们来自量子涨落，也都是恒星的尘埃",
+        "link": "https://www.qbitai.com/2025/07/316185.html",
+        "published_date": "Thu, 31 Jul 2025 07:05:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.668913"
+      },
+      "40fc4c3a7169464e2fec5329a5ad0e4c30fbe32de24c94399ff6cd549ca47523": {
+        "title": "谢赛宁团队新作打破“多语言诅咒”！MetaCLIP 2支持300多种语言，英语性能反倒提升了",
+        "link": "https://www.qbitai.com/2025/07/316168.html",
+        "published_date": "Thu, 31 Jul 2025 06:54:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120815"
+      },
+      "cde73c35562e93b0e0dff887e6c2a5ee9f5c7360ea93049aaef9f4649dfb4541": {
+        "title": "小扎改口不开源，Meta股价暴涨12%",
+        "link": "https://www.qbitai.com/2025/07/316145.html",
+        "published_date": "Thu, 31 Jul 2025 06:35:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120875"
+      },
+      "d96a9350e0ae24560bc7e45cbbbf2252e3af0cbccd8748b893d87db242408846": {
+        "title": "第三届世界科学智能大赛圆满收官！开放多项真实数据，1.6万人共探产业场景关键科学问题",
+        "link": "https://www.qbitai.com/2025/07/316110.html",
+        "published_date": "Thu, 31 Jul 2025 06:29:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120893"
+      },
+      "f235aae8cec4252500e53bb5940d9db5cb671e8f89949021de41c4d957122459": {
+        "title": "OpenAI离职到估值千亿美元，Anthropic4年时间引硅谷巨头疯狂押注",
+        "link": "https://www.qbitai.com/2025/07/316099.html",
+        "published_date": "Thu, 31 Jul 2025 06:26:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.120848"
       }
     },
     "Technology": {
@@ -20444,6 +20522,138 @@
         "link": "https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg",
         "published_date": "Thu, 31 Jul 2025 00:18:00 GMT",
         "first_seen": "2025-07-31T05:28:17.116222"
+      },
+      "2c4703f3f194fdbb824b20370439ae9ba20ded9383af4ac583b02a2ab244655e": {
+        "title": "重塑AI算力底座！阿里云服务器操作系统V4正式发布",
+        "link": "https://www.infoq.cn/article/dH9J9L6zjyYpm5y1HsU8?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 31 Jul 2025 16:16:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618111"
+      },
+      "b75c7528389fc5a38df0cff459814fe6e1172f3a5eca522937d02642d46c0ca3": {
+        "title": "快手科技副总裁周国睿确认出席 AICon 深圳，分享生成式技术重构推荐系统的智能边界与效率标准",
+        "link": "https://www.infoq.cn/article/oJCTgiyrkNoiHbwDLMTl?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 31 Jul 2025 15:00:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618187"
+      },
+      "e9a7415c2416cac9aa2edb3bceb120774b669c0ff2803c949ef43155294502d2": {
+        "title": "餐饮服务与软件创新的融合：解析海底捞APP的Flutter鸿蒙开发之路",
+        "link": "https://www.infoq.cn/article/TwiTYcgKFvxBsdcVay93?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 31 Jul 2025 14:37:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618240"
+      },
+      "3f8c1b1edd40611a154cc622d5ba3bf799b3927c8bd04bf87735a12274169909": {
+        "title": "AI进化论丨第一期：智算时代操作系统的破局之路",
+        "link": "https://www.infoq.cn/video/d03PtJgAL8CalpBKy9VE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 31 Jul 2025 11:10:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618131"
+      },
+      "cd3c99873445884bccaa7b30af3e7501f62a6c9defb919af529ced07242e13ed": {
+        "title": "理想 i8，为何与理想 L8 同价起售？",
+        "link": "https://www.tmtpost.com/7643918.html",
+        "published_date": "Thu, 31 Jul 2025 16:02:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618251"
+      },
+      "71fe2fa5b3a3c78bffddd81b87fbcd1d942d05b4160e8d8d1c027d4ee3df2995": {
+        "title": "2025WAIC “启明创投·创业与投资论坛——创业投资开启AI技术与应用共振周期”成功举办",
+        "link": "https://www.tmtpost.com/7643910.html",
+        "published_date": "Thu, 31 Jul 2025 15:57:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618230"
+      },
+      "35d3d58125f07456c8aa844df8485ef832a9b10c2509df813a850b534bf04acb": {
+        "title": "7月31日A股分析：三大股指集体收跌，两市合计成交19360.35亿元，资金流出最多的行业板块为证券、小金属",
+        "link": "https://www.tmtpost.com/7644181.html",
+        "published_date": "Thu, 31 Jul 2025 15:57:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.907085"
+      },
+      "b4c3aa4aa19b625eefdc59f0938f4cf6b304042f2ed232a601a16f328e277f52": {
+        "title": "Chairman of Qianli Technology Warns Against 'Blind Leaps' in AI as Foundational Model Race Heats Up",
+        "link": "https://www.tmtpost.com/7644179.html",
+        "published_date": "Thu, 31 Jul 2025 15:24:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618151"
+      },
+      "5d97c8229deff090843b71624ec94663bb4d59a5147331acde373591465c2eb9": {
+        "title": "星巴克还能回到过去吗？",
+        "link": "https://www.tmtpost.com/7643919.html",
+        "published_date": "Thu, 31 Jul 2025 15:08:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.908331"
+      },
+      "7c0a8cf3b6cd8570c33585b3be4805be8f820ef2b74d91d2f4a688226e5ef9e7": {
+        "title": "Trump to Impose 50% Tariffs on Copper Products, Instead of Raw Material Itself",
+        "link": "https://www.tmtpost.com/7644157.html",
+        "published_date": "Thu, 31 Jul 2025 15:08:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.909439"
+      },
+      "18b85fdb38d25234ee7104777a1c5d9bb6642f4915e8a0f00a83cc87e733005a": {
+        "title": "卖掉或上市，消费企业的年中战事",
+        "link": "https://www.tmtpost.com/7643838.html",
+        "published_date": "Thu, 31 Jul 2025 14:39:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.909863"
+      },
+      "484d864eb5369284bde60ab0367349adca9fc5c7a99754451212b1f62b4aafcd": {
+        "title": "理想i8，能打响“纯电第二枪”吗?",
+        "link": "https://www.tmtpost.com/7643805.html",
+        "published_date": "Thu, 31 Jul 2025 14:16:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.910465"
+      },
+      "06cd33a93ff3967d9fb74b8611baf7d00a82b6e9a736df17a112fd657688b141": {
+        "title": "AI Toys Emerge as the Next Consumer Tech Frontier, But Bubble Risks Loom",
+        "link": "https://www.tmtpost.com/7644091.html",
+        "published_date": "Thu, 31 Jul 2025 14:01:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618198"
+      },
+      "a28682cffc6ac60d6489d3aca84b10f09c6722454a1ead47a978b17e6ab1ef0b": {
+        "title": "收购晶澳美国工厂的康宁，能靠光伏赚多少？ | 巴伦精选",
+        "link": "https://www.tmtpost.com/7643737.html",
+        "published_date": "Thu, 31 Jul 2025 13:58:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.912682"
+      },
+      "0431a7e5b36c87ff7e73231c0011183cd152a590a5e4bef2810904af342ae233": {
+        "title": "Trump Threatens India with \"Penalty\" On Top of  50% Tariffs over Trade with Russia",
+        "link": "https://www.tmtpost.com/7644079.html",
+        "published_date": "Thu, 31 Jul 2025 13:58:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.914405"
+      },
+      "ba58eb9adee396bf710dd7ee5dcb94362d86a8a612f0b175c26316dd006ab2e9": {
+        "title": "35岁的印奇反思创业史：没有闭环的商业模式无法持续推动技术进步",
+        "link": "https://www.tmtpost.com/7644000.html",
+        "published_date": "Thu, 31 Jul 2025 13:57:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618162"
+      },
+      "8fb03dcd1808568e81f0a36df0929c2582855622eaf0947aa2c81bb3af6a6d2a": {
+        "title": "魏建军沾上贾跃亭，图什么？",
+        "link": "https://www.tmtpost.com/7643885.html",
+        "published_date": "Thu, 31 Jul 2025 13:54:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.915781"
+      },
+      "7e7db3ad9c08a5b1434f73bd6f29932fd650817c72a72f4a5cb93ab1c93e7e9a": {
+        "title": "BeijingWest Smart Mobility Taps Off-Road Surge With Advanced Suspension Tech",
+        "link": "https://www.tmtpost.com/7644066.html",
+        "published_date": "Thu, 31 Jul 2025 13:44:00 GMT",
+        "first_seen": "2025-07-31T08:32:02.618261"
+      },
+      "5a49dd40f63680c85202b9846040f2d52ae074c4d7dcc1122133866853e13c5e": {
+        "title": "硅料价格直指6万，为什么组件价格涨不动？",
+        "link": "https://www.tmtpost.com/7643631.html",
+        "published_date": "Thu, 31 Jul 2025 13:28:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.918651"
+      },
+      "d54fa4e4ee3f3b0b52b0bf7f1c7df893d3efe338fcfa96ad4a6b6847b1e4d984": {
+        "title": "Trump Signs Order to Slap Brazil with 50% Tariffs Starting Aug. 6",
+        "link": "https://www.tmtpost.com/7644025.html",
+        "published_date": "Thu, 31 Jul 2025 12:55:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.920616"
+      },
+      "3272919252a5ea03be244e95cc867f1e41c7041e9cc01f90cc5c91ce3637d9a6": {
+        "title": "六年北漂，我想和你聊点关于租房的事",
+        "link": "https://sspai.com/post/100829",
+        "published_date": "Thu, 31 Jul 2025 15:02:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.921395"
+      },
+      "93ec1c1d94ecac467219a79be788407be1a7dcdadf23730348d66711ce7e04e5": {
+        "title": "Crescendo 2 Vibrator Review: Above the Curve",
+        "link": "https://www.wired.com/review/crescendo-2-vibrator/",
+        "published_date": "Thu, 31 Jul 2025 08:00:00 GMT",
+        "first_seen": "2025-07-31T08:31:36.923167"
       }
     },
     "Finance": {
@@ -23194,12 +23404,24 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76f5f623-0bc4-42d6-81fd-4b9975b36edc&mod=mw_rss_bulletins",
         "published_date": "Thu, 31 Jul 2025 01:41:00 GMT",
         "first_seen": "2025-07-31T05:29:01.379257"
+      },
+      "3790f755b6e00737080526bdb0cc8f1f16abbe5ee7fbe4f874d8a4d0fa36a2ea": {
+        "title": "AB InBev shares suffer biggest drop since COVID as volumes tumble",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cc1dd6ac-bde3-4048-9890-154a699e4142&mod=mw_rss_bulletins",
+        "published_date": "Thu, 31 Jul 2025 08:23:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.130514"
+      },
+      "2e460f8dc432bf198ac6e4ac7caa25fca08049a6b4f345b685b62dd1fccc84a7": {
+        "title": "AB InBev stock sees worst day since COVID struck after volume miss",
+        "link": "https://www.marketwatch.com/story/ab-inbev-stock-sees-worst-day-since-covid-struck-after-volume-miss-dc959b9d?mod=mw_rss_topstories",
+        "published_date": "Thu, 31 Jul 2025 07:50:00 GMT",
+        "first_seen": "2025-07-31T08:32:31.130742"
       }
     }
   },
   "last_update": {
-    "AI": "2025-07-31T05:29:01.366328",
-    "Technology": "2025-07-31T05:28:41.196629",
-    "Finance": "2025-07-31T05:29:01.388196"
+    "AI": "2025-07-31T08:32:31.123217",
+    "Technology": "2025-07-31T08:32:02.633640",
+    "Finance": "2025-07-31T08:32:31.137527"
   }
 }
