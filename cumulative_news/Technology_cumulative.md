@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-01 05:37
+**最后更新时间**: 2025-08-01 08:31
+
+---
+
+## 🆕 最新更新 (2025-08-01 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China Tightens Oversight of Precious Metals Market With New Anti-Money Laundering Rules](https://www.tmtpost.com/7645669.html)
+**发布时间**: 2025-08-01 16:27
+
+#### [新茶饮六小龙：2025上半年，谁赢麻了？](https://www.tmtpost.com/7644969.html)
+**发布时间**: 2025-08-01 16:16
+
+#### [Shaolin Temple Faces Scrutiny as Its Spiritual Leader Investigated for Financial Crimes](https://www.tmtpost.com/7645654.html)
+**发布时间**: 2025-08-01 16:16
+
+#### [从“丑拖鞋”卖到145美元，看1688如何借AI重构B2B电商](https://www.tmtpost.com/7645598.html)
+**发布时间**: 2025-08-01 16:10
+
+#### [上半年创投圈5大“怪象”｜暨2025年H1先锋榜发布](https://www.tmtpost.com/7645495.html)
+**发布时间**: 2025-08-01 16:09
+
+#### [Meta Stock Jumps 11% to Record on Huge Q2 Earnings Beat, Capex Outlook Higher](https://www.tmtpost.com/7645588.html)
+**发布时间**: 2025-08-01 15:48
+
+#### [腾讯、京东，争当具身智能的“大脑构建者”](https://www.tmtpost.com/7645329.html)
+**发布时间**: 2025-08-01 15:38
+
+#### [8月1日A股分析：沪指跌0.37%报3559.95点，两市合计成交15983.51亿元，资金流出最多的行业板块为半导体](https://www.tmtpost.com/7645525.html)
+**发布时间**: 2025-08-01 15:10
+
+#### [ByteDance's Volcano Engine Supercharges AI Offerings With Major Model Upgrades and New Agent Ecosystem](https://www.tmtpost.com/7645516.html)
+**发布时间**: 2025-08-01 15:01
+
+#### [海底捞想突破天花板](https://www.tmtpost.com/7644637.html)
+**发布时间**: 2025-08-01 15:00
+
+#### [Microsoft Market Value Tops $4 Trillion at Midday Following Blockbuster Earnings for June Quarter](https://www.tmtpost.com/7645501.html)
+**发布时间**: 2025-08-01 14:51
+
+#### [AI颠覆算力架构，绿色化和算网建设是关键丨ToB产业观察](https://www.tmtpost.com/7645435.html)
+**发布时间**: 2025-08-01 14:46
+
+#### [币圈大佬孙宇晨：豪赌纳斯达克，又转身飞向太空？](https://www.tmtpost.com/7645187.html)
+**发布时间**: 2025-08-01 14:34
+
+#### [从“老场景”的“新解法”下手，突破Agent落地难题| 2025 ITValue Summit前瞻WAIC现场版：AI落地指南系列](https://www.tmtpost.com/7644306.html)
+**发布时间**: 2025-08-01 14:33
+
+#### [如何在企业中大规模应用Agent？｜2025 ITValue Summit 前瞻对话「AI落地指南特别篇」②](https://www.tmtpost.com/7643756.html)
+**发布时间**: 2025-08-01 14:31
+
+#### [这场舆论战，爱康不得不赢](https://www.tmtpost.com/7645123.html)
+**发布时间**: 2025-08-01 13:56
+
+#### [外卖大战熄火了？底层逻辑与未来又是什么](https://www.tmtpost.com/7645193.html)
+**发布时间**: 2025-08-01 13:56
+
+#### [CATL Posts 33% Profit Jump, But Mixed Business Signals and Strategic Uncertainty Weigh on Market](https://www.tmtpost.com/7645420.html)
+**发布时间**: 2025-08-01 13:40
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [未来的弹幕会全是AI发的吗？我们做了个危险实验](http://www.huxiu.com/article/4642423.html?f=wangzhan)
+**发布时间**: 2025-08-01 15:10
+
+#### [国际乐园为何纷纷“落户”上海？](http://www.huxiu.com/article/4642456.html?f=wangzhan)
+**发布时间**: 2025-08-01 14:45
+
+#### [成为近现代最成功的僧人，释永信只差了最后一步？](http://www.huxiu.com/article/4639828.html?f=wangzhan)
+**发布时间**: 2025-08-01 10:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软亚洲研究院机器学习组首席研究员刘炜清确认出席 AICon 深圳，分享由生成式基础模型驱动的金融市场仿真引擎](https://www.infoq.cn/article/msHx9Qe5dQSMFk6CFBvN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [离职 10 年后，我又回到少数派了](https://sspai.com/post/101404)
+**发布时间**: 2025-08-01 14:29
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Best Sex Toys (2025), Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+**发布时间**: 2025-08-01 08:00
 
 ---
 

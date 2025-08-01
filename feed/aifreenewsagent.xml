@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 01 Aug 2025 05:32:00 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Aug 2025 05:38:14 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 08:32:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球首款通用AI科研智能体问世：我一个文科生用它写了份CRISPR基因编辑综述报告</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-8</link>
-      <description>&lt;![CDATA[全球首款通用AI科研智能体问世：我一个文科生用它写了份CRISPR基因编辑综述报告]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-8</guid>
+      <title>一次中稿10篇ACL25，通义实验室 代码智能&amp;对话智能团队 在研究什么</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-10</link>
+      <description>&lt;![CDATA[一次中稿10篇ACL25，通义实验室 代码智能&amp;对话智能团队 在研究什么]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians in a Real World Setting</title>
-      <link>https://arxiv.org/abs/2507.22902</link>
-      <description>&lt;![CDATA[Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians in a Real World Setting]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.22902</guid>
+      <title>联合三大蛋白质模型，仅需4~6周，定制癌细胞特效「识别器」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-9</link>
+      <description>&lt;![CDATA[联合三大蛋白质模型，仅需4~6周，定制癌细胞特效「识别器」]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Theoretical Foundations and Mitigation of Hallucination in Large Language Models</title>
-      <link>https://arxiv.org/abs/2507.22915</link>
-      <description>&lt;![CDATA[Theoretical Foundations and Mitigation of Hallucination in Large Language Models]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.22915</guid>
+      <title>GPT-4o遭越狱后指挥机器人做危险动作！全球首个具身智能体安全评测基准来了，大模型集体翻车</title>
+      <link>https://www.qbitai.com/2025/08/316742.html</link>
+      <description>&lt;![CDATA[GPT-4o遭越狱后指挥机器人做危险动作！全球首个具身智能体安全评测基准来了，大模型集体翻车]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316742.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中国在AI领域超越美国已是板上钉钉？吴恩达：美国无法保持领先</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-7</link>
-      <description>&lt;![CDATA[中国在AI领域超越美国已是板上钉钉？吴恩达：美国无法保持领先]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-7</guid>
+      <title>小红书提出首个社交大模型：八大社交任务平均提升14.02%</title>
+      <link>https://www.qbitai.com/2025/08/316723.html</link>
+      <description>&lt;![CDATA[小红书提出首个社交大模型：八大社交任务平均提升14.02%]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316723.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>机器人不只会抓和放！北京大学X银河通用「世界-动作模型」赋能全面泛化的非抓握技能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01</link>
-      <description>&lt;![CDATA[机器人不只会抓和放！北京大学X银河通用「世界-动作模型」赋能全面泛化的非抓握技能]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</title>
-      <link>https://arxiv.org/abs/2507.22920</link>
-      <description>&lt;![CDATA[Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.22920</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>驯服复杂表格：九天重磅开源，开启「人与表格对话」智能新时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-6</link>
-      <description>&lt;![CDATA[驯服复杂表格：九天重磅开源，开启「人与表格对话」智能新时代]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>思维链监督和强化的图表推理，7B模型媲美闭源大尺寸模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-5</link>
-      <description>&lt;![CDATA[思维链监督和强化的图表推理，7B模型媲美闭源大尺寸模型]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 13:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Manus大升级，100多个智能体并发给你做任务</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-4</link>
-      <description>&lt;![CDATA[Manus大升级，100多个智能体并发给你做任务]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model</title>
-      <link>https://arxiv.org/abs/2507.23773</link>
-      <description>&lt;![CDATA[SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.23773</guid>
+      <title>字节Seed发布扩散语言模型，推理速度达2146 tokens/s，比同规模自回归快5.4倍</title>
+      <link>https://www.qbitai.com/2025/08/316722.html</link>
+      <description>&lt;![CDATA[字节Seed发布扩散语言模型，推理速度达2146 tokens/s，比同规模自回归快5.4倍]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 06:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316722.html</guid>
       <category>AI</category>
     </item>
   </channel>

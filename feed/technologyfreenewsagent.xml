@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 01 Aug 2025 05:37:00 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Aug 2025 05:37:50 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 08:32:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>扎克伯格发文正式告别“默认开源”！网友：只剩中国 DeepSeek、通义和 Mistral 还在撑场面</title>
-      <link>https://www.infoq.cn/article/D0iiks7IDLIEQ5weh5cG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[扎克伯格发文正式告别“默认开源”！网友：只剩中国 DeepSeek、通义和 Mistral 还在撑场面]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/D0iiks7IDLIEQ5weh5cG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯、京东，争当具身智能的“大脑构建者”</title>
+      <link>https://www.tmtpost.com/7645329.html</link>
+      <description>&lt;![CDATA[腾讯、京东，争当具身智能的“大脑构建者”]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645329.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nvidia Denies Backdoors in H20 AI Chips in Response to Chinese Security Concerns</title>
-      <link>https://www.tmtpost.com/7645280.html</link>
-      <description>&lt;![CDATA[Nvidia Denies Backdoors in H20 AI Chips in Response to Chinese Security Concerns]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7645280.html</guid>
+      <title>ByteDance's Volcano Engine Supercharges AI Offerings With Major Model Upgrades and New Agent Ecosystem</title>
+      <link>https://www.tmtpost.com/7645516.html</link>
+      <description>&lt;![CDATA[ByteDance's Volcano Engine Supercharges AI Offerings With Major Model Upgrades and New Agent Ecosystem]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 15:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645516.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple's $3 Trillion Stall Signals Deeper Strategic Drift Amid AI Lag, Tariff Headwinds</title>
-      <link>https://www.tmtpost.com/7645200.html</link>
-      <description>&lt;![CDATA[Apple's $3 Trillion Stall Signals Deeper Strategic Drift Amid AI Lag, Tariff Headwinds]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7645200.html</guid>
+      <title>AI颠覆算力架构，绿色化和算网建设是关键丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/7645435.html</link>
+      <description>&lt;![CDATA[AI颠覆算力架构，绿色化和算网建设是关键丨ToB产业观察]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645435.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 元年，谁是应用爆发背后的基石？</title>
-      <link>http://www.geekpark.net/news/352227</link>
-      <description>&lt;![CDATA[Agent 元年，谁是应用爆发背后的基石？]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352227</guid>
+      <title>微软亚洲研究院机器学习组首席研究员刘炜清确认出席 AICon 深圳，分享由生成式基础模型驱动的金融市场仿真引擎</title>
+      <link>https://www.infoq.cn/article/msHx9Qe5dQSMFk6CFBvN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软亚洲研究院机器学习组首席研究员刘炜清确认出席 AICon 深圳，分享由生成式基础模型驱动的金融市场仿真引擎]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/msHx9Qe5dQSMFk6CFBvN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code唯一对手！？AI编程黑马AmpCode崛起的秘密：不设token上限，放手让AI自己死磕代码</title>
-      <link>https://www.infoq.cn/article/dJ2GEevuMlNEXAjYbuc0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code唯一对手！？AI编程黑马AmpCode崛起的秘密：不设token上限，放手让AI自己死磕代码]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 12:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dJ2GEevuMlNEXAjYbuc0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从“老场景”的“新解法”下手，突破Agent落地难题| 2025 ITValue Summit前瞻WAIC现场版：AI落地指南系列</title>
+      <link>https://www.tmtpost.com/7644306.html</link>
+      <description>&lt;![CDATA[从“老场景”的“新解法”下手，突破Agent落地难题| 2025 ITValue Summit前瞻WAIC现场版：AI落地指南系列]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7644306.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>秒改屎山代码、最高提效300%！AI代码审查工具会终结技术债务还是带来新危机？</title>
-      <link>https://www.infoq.cn/article/blBH3vkzWqyv0kXpm552?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[秒改屎山代码、最高提效300%！AI代码审查工具会终结技术债务还是带来新危机？]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/blBH3vkzWqyv0kXpm552?utm_source=rss&amp;utm_medium=article</guid>
+      <title>如何在企业中大规模应用Agent？｜2025 ITValue Summit 前瞻对话「AI落地指南特别篇」②</title>
+      <link>https://www.tmtpost.com/7643756.html</link>
+      <description>&lt;![CDATA[如何在企业中大规模应用Agent？｜2025 ITValue Summit 前瞻对话「AI落地指南特别篇」②]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7643756.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta业绩与股价齐飞背后的野心与隐忧</title>
-      <link>https://www.tmtpost.com/7645158.html</link>
-      <description>&lt;![CDATA[Meta业绩与股价齐飞背后的野心与隐忧]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7645158.html</guid>
+      <title>从“丑拖鞋”卖到145美元，看1688如何借AI重构B2B电商</title>
+      <link>https://www.tmtpost.com/7645598.html</link>
+      <description>&lt;![CDATA[从“丑拖鞋”卖到145美元，看1688如何借AI重构B2B电商]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645598.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI算力霸权与稳定币立法共同托举美股新高 | 巴伦菁英月谈会</title>
-      <link>https://www.tmtpost.com/7645078.html</link>
-      <description>&lt;![CDATA[AI算力霸权与稳定币立法共同托举美股新高 | 巴伦菁英月谈会]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7645078.html</guid>
+      <title>Microsoft Market Value Tops $4 Trillion at Midday Following Blockbuster Earnings for June Quarter</title>
+      <link>https://www.tmtpost.com/7645501.html</link>
+      <description>&lt;![CDATA[Microsoft Market Value Tops $4 Trillion at Midday Following Blockbuster Earnings for June Quarter]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645501.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从分钟级到秒级的运维管理，开源是企业降本增效的最佳路径么？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7645036.html</link>
-      <description>&lt;![CDATA[从分钟级到秒级的运维管理，开源是企业降本增效的最佳路径么？丨ToB产业观察]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7645036.html</guid>
+      <title>Meta Stock Jumps 11% to Record on Huge Q2 Earnings Beat, Capex Outlook Higher</title>
+      <link>https://www.tmtpost.com/7645588.html</link>
+      <description>&lt;![CDATA[Meta Stock Jumps 11% to Record on Huge Q2 Earnings Beat, Capex Outlook Higher]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645588.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kubernetes引入后量子支持的TLS</title>
-      <link>https://www.infoq.cn/article/ts9WguRw73Uf30t0mkjm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes引入后量子支持的TLS]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ts9WguRw73Uf30t0mkjm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>CATL Posts 33% Profit Jump, But Mixed Business Signals and Strategic Uncertainty Weigh on Market</title>
+      <link>https://www.tmtpost.com/7645420.html</link>
+      <description>&lt;![CDATA[CATL Posts 33% Profit Jump, But Mixed Business Signals and Strategic Uncertainty Weigh on Market]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645420.html</guid>
       <category>Technology</category>
     </item>
   </channel>
