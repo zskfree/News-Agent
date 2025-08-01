@@ -1,7 +1,181 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-01 08:31
+**最后更新时间**: 2025-08-01 23:26
+
+---
+
+## 🆕 最新更新 (2025-08-01 23:26)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Amazon eyes ads and upcharges for Alexa Plus](https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans)
+**发布时间**: 2025-08-01 22:29
+
+#### [Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash](https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages)
+**发布时间**: 2025-08-01 20:57
+
+#### [Fujifilm is raising camera prices by up to $800](https://www.theverge.com/cameras/717685/fujifilm-camera-price-hikes-tariffs-x100vi)
+**发布时间**: 2025-08-01 20:16
+
+#### [Bose&#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)
+**发布时间**: 2025-08-01 19:50
+
+#### [The biggest fighting game tournament is a little smaller this year — but still exciting](https://www.theverge.com/games/717660/how-to-watch-evo-2025-las-vegas)
+**发布时间**: 2025-08-01 19:09
+
+#### [Why Nintendo didn&#8217;t raise the price of the Switch 2 (yet)](https://www.theverge.com/nintendo/717611/nintendo-switch-price-increase-risk-safety)
+**发布时间**: 2025-08-01 19:00
+
+#### [Google backtracks on plans to deactivate shortened goo.gl links](https://www.theverge.com/news/717649/google-goo-gl-url-shortener-links-backtrack)
+**发布时间**: 2025-08-01 18:41
+
+#### [Anthropic studied what gives an AI system its ‘personality’ — and what makes it ‘evil’](https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil)
+**发布时间**: 2025-08-01 16:58
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Hong Kong Court Freezes US$1.8 Billion HSBC Account Amid Wahaha Family Inheritance Dispute](https://www.tmtpost.com/7646063.html)
+**发布时间**: 2025-08-01 21:52
+
+#### [瑞幸咖啡Q2总净收入同比增47%至123.59亿元；萨洛蒙小白楼「福郡」落地上海；M Stand海外首店落地日本京都｜消研所周报](https://www.tmtpost.com/7645552.html)
+**发布时间**: 2025-08-01 20:29
+
+#### [蕉下入驻美团闪购，运动鞋服加码即时零售 | 独家](https://www.tmtpost.com/7645877.html)
+**发布时间**: 2025-08-01 20:28
+
+#### [风电吹响复苏“冲锋号”，三重逻辑支撑上市公司业绩回暖](https://www.tmtpost.com/7645537.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [张兴海与朱华荣，竞争重庆汽车第一人](https://www.tmtpost.com/7645563.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [实验猴的“老龄化”困扰](https://www.tmtpost.com/7645240.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [赴港上市即将失效，尹同跃带领奇瑞“最后一跃”？](https://www.tmtpost.com/7645113.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [爱康国宾还能够救自己吗？](https://www.tmtpost.com/7645238.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [30 个问题，深度解析企业并购关键要点](https://www.tmtpost.com/7645398.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [2025，钢琴市场崩盘之后](https://www.tmtpost.com/7645237.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [4000亿，今年最大“拍卖式IPO”诞生](https://www.tmtpost.com/7645431.html)
+**发布时间**: 2025-08-01 18:54
+
+#### [排队200桌，年轻人狂打卡，网红茶火锅能火多久？](https://www.tmtpost.com/7645626.html)
+**发布时间**: 2025-08-01 18:38
+
+#### [光子盒研究院研报：2025年全球量子计算新进展深度分析](https://www.tmtpost.com/7645620.html)
+**发布时间**: 2025-08-01 18:38
+
+#### [始祖鸟平替们狂涨价，正在偷偷抛弃“穷鬼”](https://www.tmtpost.com/7645605.html)
+**发布时间**: 2025-08-01 18:38
+
+#### [少林寺的商业版图：一座千年古刹的财富密码](https://www.tmtpost.com/7645595.html)
+**发布时间**: 2025-08-01 18:38
+
+#### [净利暴跌96%！"鸡周期"失灵？益生股份陷转型困局 | 看财报](https://www.tmtpost.com/7645848.html)
+**发布时间**: 2025-08-01 18:27
+
+#### [光伏反“卷”初见成效，硅料、硅片价格月内飙涨30% | 巴伦精选](https://www.tmtpost.com/7645717.html)
+**发布时间**: 2025-08-01 18:09
+
+#### [美团进军折扣超市，外卖未平、超市大战再起？](https://www.tmtpost.com/7645773.html)
+**发布时间**: 2025-08-01 17:48
+
+#### [苹果：AI 难产，还得靠 iPhone 救场](https://www.tmtpost.com/7645000.html)
+**发布时间**: 2025-08-01 17:48
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Anthropic Revokes OpenAI's Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+**发布时间**: 2025-08-01 21:41
+
+#### [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
+**发布时间**: 2025-08-01 20:41
+
+#### [WIRED Roundup: ChatGPT Goes Full Demon Mode](https://www.wired.com/story/uncanny-valley-podcast-chatgpt-goes-full-demon-mode/)
+**发布时间**: 2025-08-01 17:02
+
+#### [Itch.io Is Restoring NSFW Games—as Long as They’re Free](https://www.wired.com/story/itchio-restoring-free-nsfw-games/)
+**发布时间**: 2025-08-01 16:24
+
+#### [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)
+**发布时间**: 2025-08-01 15:30
+
+#### [11 Best Laptops for College Students (2025), Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
+**发布时间**: 2025-08-01 13:30
+
+#### [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
+**发布时间**: 2025-08-01 13:19
+
+#### [Vivobarefoot's Sensus Shoes Are Like Gloves for Your Feet](https://www.wired.com/story/vivobarefoot-sensus-barefoot-rave/)
+**发布时间**: 2025-08-01 13:00
+
+#### [AC or DC: Which Is Better?](https://www.wired.com/story/ac-or-dc-which-is-better/)
+**发布时间**: 2025-08-01 12:30
+
+#### [Bike Friday All-Day Lightweight Electric Bike Review: It Comes in Purple](https://www.wired.com/review/bike-friday-all-day-lightweight-electric-bike/)
+**发布时间**: 2025-08-01 12:30
+
+#### [Best Fitness Trackers (2025), Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+**发布时间**: 2025-08-01 12:03
+
+#### [14 Best Couches We've Tested That You Can Buy Online (2025)](https://www.wired.com/gallery/best-couch/)
+**发布时间**: 2025-08-01 11:36
+
+#### [Confessions of a Recovering AI Porn Addict](https://www.wired.com/story/confessions-of-a-recovering-ai-porn-addict/)
+**发布时间**: 2025-08-01 11:00
+
+#### [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+**发布时间**: 2025-08-01 10:33
+
+#### [Palantir Is Extending Its Reach Even Further Into Government](https://www.wired.com/story/palantir-government-contracting-push/)
+**发布时间**: 2025-08-01 10:30
+
+#### [The Best Mouth Tape (2025)](https://www.wired.com/story/the-wired-guide-to-mouth-tape/)
+**发布时间**: 2025-08-01 10:02
+
+#### [Uber’s Drive to Become the Kleenex of Robotaxis](https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/)
+**发布时间**: 2025-08-01 10:00
+
+#### [Watch Our Livestream Replay: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)
+**发布时间**: 2025-07-31 18:43
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [一切竞争，都变成了「AI 竞争」](http://www.geekpark.net/news/352168)
+**发布时间**: 2025-08-01 20:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101524)
+**发布时间**: 2025-08-01 18:06
+
+#### [为什么我劝你不要练习正念冥想](https://sspai.com/post/101205)
+**发布时间**: 2025-08-01 17:00
+
+#### [我的信息角落——晒出安静里的 Quote/0 摘录](https://sspai.com/post/101517)
+**发布时间**: 2025-08-01 15:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Manus数月憋大招， 100个Agent并发只为选双鞋？肖弘放话：第一阶段就得先做超贵的AI！](https://www.infoq.cn/article/rhIyETMiF381cGwgGhco?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 17:38
+
+#### [施耐德电气全新生成式智能体上线 ，一线人员好评率高达90%](https://www.infoq.cn/article/zariUkDlVHXs6Nk6EJwS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 17:33
+
+#### [COLMO行业首推“可落地”家居AI智能体！背靠多个高性能推理框架，“基座模型重在通用和实用”](https://www.infoq.cn/article/eAGeUerBuTSTAgQaMB5q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 17:25
+
+#### [谷歌发布Firebase Studio重大更新，用于代理式AI开发](https://www.infoq.cn/article/6KyBH4kVmPRQvwlRd7aV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 17:00
 
 ---
 

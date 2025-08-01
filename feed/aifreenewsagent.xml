@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 01 Aug 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Aug 2025 08:32:07 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 23:27:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一次中稿10篇ACL25，通义实验室 代码智能&amp;对话智能团队 在研究什么</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-10</link>
-      <description>&lt;![CDATA[一次中稿10篇ACL25，通义实验室 代码智能&amp;对话智能团队 在研究什么]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-10</guid>
+      <title>模型共享、数据互通、设施互连，上海人工智能实验室上线「书生」科学发现平台</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-11</link>
+      <description>&lt;![CDATA[模型共享、数据互通、设施互连，上海人工智能实验室上线「书生」科学发现平台]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>联合三大蛋白质模型，仅需4~6周，定制癌细胞特效「识别器」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-01-9</link>
-      <description>&lt;![CDATA[联合三大蛋白质模型，仅需4~6周，定制癌细胞特效「识别器」]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-9</guid>
+      <title>Forcing LLMs to be evil during training can make them nicer in the long run</title>
+      <link>https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/</link>
+      <description>&lt;![CDATA[Forcing LLMs to be evil during training can make them nicer in the long run]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-4o遭越狱后指挥机器人做危险动作！全球首个具身智能体安全评测基准来了，大模型集体翻车</title>
-      <link>https://www.qbitai.com/2025/08/316742.html</link>
-      <description>&lt;![CDATA[GPT-4o遭越狱后指挥机器人做危险动作！全球首个具身智能体安全评测基准来了，大模型集体翻车]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316742.html</guid>
+      <title>大模型无法真正理解视频，GPT-4o正确率仅36%，南洋理工大团队提出新基准</title>
+      <link>https://www.qbitai.com/2025/08/317188.html</link>
+      <description>&lt;![CDATA[大模型无法真正理解视频，GPT-4o正确率仅36%，南洋理工大团队提出新基准]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317188.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小红书提出首个社交大模型：八大社交任务平均提升14.02%</title>
-      <link>https://www.qbitai.com/2025/08/316723.html</link>
-      <description>&lt;![CDATA[小红书提出首个社交大模型：八大社交任务平均提升14.02%]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316723.html</guid>
+      <title>MLE-STAR: A state-of-the-art machine learning engineering agent</title>
+      <link>https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/</link>
+      <description>&lt;![CDATA[MLE-STAR: A state-of-the-art machine learning engineering agent]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>字节Seed发布扩散语言模型，推理速度达2146 tokens/s，比同规模自回归快5.4倍</title>
-      <link>https://www.qbitai.com/2025/08/316722.html</link>
-      <description>&lt;![CDATA[字节Seed发布扩散语言模型，推理速度达2146 tokens/s，比同规模自回归快5.4倍]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 06:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316722.html</guid>
+      <title>收入暴涨836.7%！Robotaxi第一股Q2财报来了</title>
+      <link>https://www.qbitai.com/2025/08/316880.html</link>
+      <description>&lt;![CDATA[收入暴涨836.7%！Robotaxi第一股Q2财报来了]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/316880.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>超聚变亮相WAIC 2025 重构数智化平台，共建智能体时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-14</link>
+      <description>&lt;![CDATA[超聚变亮相WAIC 2025 重构数智化平台，共建智能体时代]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球8400+人才集结！2025腾讯算法大赛正式开赛，全球精英共逐AI之巅</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-13</link>
+      <description>&lt;![CDATA[全球8400+人才集结！2025腾讯算法大赛正式开赛，全球精英共逐AI之巅]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 18:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI回应ChatGPT用多了会变傻</title>
+      <link>https://www.qbitai.com/2025/08/317171.html</link>
+      <description>&lt;![CDATA[OpenAI回应ChatGPT用多了会变傻]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317171.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>途深智合推出旗下AI科研品牌--追梦AI</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-12</link>
+      <description>&lt;![CDATA[途深智合推出旗下AI科研品牌--追梦AI]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>凝聚开源共识，第三届杭州产投融生态大会在杭召开</title>
+      <link>https://www.qbitai.com/2025/08/317162.html</link>
+      <description>&lt;![CDATA[凝聚开源共识，第三届杭州产投融生态大会在杭召开]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317162.html</guid>
       <category>AI</category>
     </item>
   </channel>

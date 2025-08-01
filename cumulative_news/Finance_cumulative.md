@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-01 05:37
+**最后更新时间**: 2025-08-01 23:26
+
+---
+
+## 🆕 最新更新 (2025-08-01 23:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump sacks BLS chief after poor jobs report, as credibility of U.S. economic data comes under fire](https://www.marketwatch.com/story/trump-says-he-plans-to-fire-bls-chief-after-poor-u-s-jobs-report-7dce121b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 21:20
+
+#### [‘I have never been asked for money before’: My friend wants to borrow $1,600 to pay her rent. Do I say yes?](https://www.marketwatch.com/story/i-have-never-been-asked-for-money-before-my-friend-wants-to-borrow-1-600-to-pay-her-rent-do-i-say-yes-5c67148f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 21:08
+
+#### [Bonds and the dollar are sounding the alarm about the U.S. economy. Stock investors might want to heed the warning.](https://www.marketwatch.com/story/bonds-and-the-dollar-are-sounding-the-alarm-about-the-u-s-economy-equity-investors-might-want-to-listen-d9cef375?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 21:03
+
+#### [The world’s No. 2 crypto may hit a record high — here’s what’s driving it this summer](https://www.marketwatch.com/story/why-project-crypto-and-stablecoin-summer-could-see-ether-surpass-its-4-800-record-high-this-year-0f47bc76?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 20:59
+
+#### [Figma’s IPO success could push Canva and these other software companies to go public](https://www.marketwatch.com/story/figmas-ipo-success-could-push-canva-and-these-other-software-companies-to-go-public-8ceb08fb?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 20:51
+
+#### [Here’s where Trump’s tariffs stand after this week’s salvos](https://www.marketwatch.com/story/heres-where-trumps-tariffs-stand-after-this-weeks-salvos-dd438fc7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 20:27
+
+#### [Will your spouse automatically inherit your 401(k)?](https://www.marketwatch.com/story/will-your-spouse-automatically-inherit-your-401-k-59ac8126?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 20:26
+
+#### [‘The sky has not fallen — yet’: Is it time to start worrying about a recession?](https://www.marketwatch.com/story/the-sky-has-not-fallen-yet-a-recession-has-been-predicted-for-years-is-it-time-to-stop-worrying-46eac7db?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 20:24
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stocks close week lower as Trump's tariffs and a weak jobs report rattle market](https://www.marketwatch.com/bulletins/redirect/go?g=1e04b4ba-057a-463a-b2a6-8cb484a1241d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 21:05
+
+#### [Trump says he plans to fire BLS chief after poor U.S. jobs report](https://www.marketwatch.com/bulletins/redirect/go?g=0952909f-d712-4ad5-9422-7bf8230b00d6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 18:57
+
+#### [Where is Trump’s tariff money going? Here’s how much has come in.](https://www.marketwatch.com/bulletins/redirect/go?g=78be1608-6ca1-4574-b0e6-3a3d664099b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 16:31
+
+#### [DOGE's fingerprints are on July job weakness, economist says](https://www.marketwatch.com/bulletins/redirect/go?g=9a972d7a-9ba9-409f-9f3a-ec215fb6ae91&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 16:03
+
+#### [Amazon’s stock is falling, as this trend from earnings has investors worried](https://www.marketwatch.com/bulletins/redirect/go?g=afb7d26b-51b5-4145-b133-d39d13382e6b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 14:04
+
+#### [Dow drops 500 points, Treasury yields slide after weak July jobs report](https://www.marketwatch.com/bulletins/redirect/go?g=9294c819-c5c9-45f6-83bd-007328705792&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 13:37
+
+#### [July jobs report shows unemployment rising, jobs market eroding](https://www.marketwatch.com/bulletins/redirect/go?g=0f3bf1b7-2f54-426c-8b02-89a8d22cb6f6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 12:35
+
+#### [Investors will be watching the jobs report for signals about the Fed's next step](https://www.marketwatch.com/bulletins/redirect/go?g=ded14535-4646-4423-9b57-106596c82cb4&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 12:08
+
+#### [Exxon Mobil, Chevron say oil production is booming and they’re rolling in cash](https://www.marketwatch.com/bulletins/redirect/go?g=df85e09a-73d8-4166-b065-bff69a226d4e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 11:39
+
+#### [Trump says Fed board 'should assume control' as he again lambasts Powell](https://www.marketwatch.com/bulletins/redirect/go?g=01e003e7-8ab9-420a-a022-c902c5a2b2b4&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 10:56
 
 ---
 

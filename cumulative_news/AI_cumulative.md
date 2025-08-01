@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-01 08:31
+**最后更新时间**: 2025-08-01 23:21
+
+---
+
+## 🆕 最新更新 (2025-08-01 23:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [奕派科技重磅发布“未来之翼”战略，2026款东风奕派eπ008限时先享价17.36万元](https://www.jiqizhixin.com/articles/2025-08-01-15)
+**发布时间**: 2025-08-01 22:03
+
+#### [全球8400+人才集结！2025腾讯算法大赛正式开赛，全球精英共逐AI之巅](https://www.jiqizhixin.com/articles/2025-08-01-13)
+**发布时间**: 2025-08-01 18:39
+
+#### [途深智合推出旗下AI科研品牌--追梦AI](https://www.jiqizhixin.com/articles/2025-08-01-12)
+**发布时间**: 2025-08-01 18:34
+
+#### [模型共享、数据互通、设施互连，上海人工智能实验室上线「书生」科学发现平台](https://www.jiqizhixin.com/articles/2025-08-01-11)
+**发布时间**: 2025-08-01 17:22
+
+#### [超聚变亮相WAIC 2025 重构数智化平台，共建智能体时代](https://www.jiqizhixin.com/articles/2025-08-01-14)
+**发布时间**: 2025-08-01 12:56
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Forcing LLMs to be evil during training can make them nicer in the long run](https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/)
+**发布时间**: 2025-08-01 16:00
+
+#### [The Download: how fertility tech is changing families, and Trump’s latest tariffs](https://www.technologyreview.com/2025/08/01/1120918/the-download-how-fertility-tech-is-changing-families-and-trumps-latest-tariffs/)
+**发布时间**: 2025-08-01 12:10
+
+#### [How decades-old frozen embryos are changing the shape of families](https://www.technologyreview.com/2025/08/01/1120911/decades-old-frozen-embryos-are-changing-the-shape-of-families/)
+**发布时间**: 2025-08-01 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [大模型无法真正理解视频，GPT-4o正确率仅36%，南洋理工大团队提出新基准](https://www.qbitai.com/2025/08/317188.html)
+**发布时间**: 2025-08-01 10:23
+
+#### [OpenAI回应ChatGPT用多了会变傻](https://www.qbitai.com/2025/08/317171.html)
+**发布时间**: 2025-08-01 10:18
+
+#### [凝聚开源共识，第三届杭州产投融生态大会在杭召开](https://www.qbitai.com/2025/08/317162.html)
+**发布时间**: 2025-08-01 09:37
+
+#### [这个5亿播放的AI视频，邪乎得平平无奇](https://www.qbitai.com/2025/08/317075.html)
+**发布时间**: 2025-08-01 09:21
+
+#### [B站持续完善海外用户产品体验，用户可体验原汁原味多语种视频](https://www.qbitai.com/2025/08/317045.html)
+**发布时间**: 2025-08-01 09:08
+
+#### [收入暴涨836.7%！Robotaxi第一股Q2财报来了](https://www.qbitai.com/2025/08/316880.html)
+**发布时间**: 2025-08-01 08:36
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [MLE-STAR: A state-of-the-art machine learning engineering agent](https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/)
+**发布时间**: 2025-08-01 10:00
 
 ---
 
