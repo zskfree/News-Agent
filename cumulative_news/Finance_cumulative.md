@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-31 23:21
+**最后更新时间**: 2025-08-01 05:37
+
+---
+
+## 🆕 最新更新 (2025-08-01 05:37)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump hits dozens more countries with higher tariffs that start Aug. 7](https://www.marketwatch.com/bulletins/redirect/go?g=e787f082-c619-48f4-b92e-9f39d31a4676&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 01:57
+
+#### [Apple’s earnings were good, but initial stock move implies Wall Street is wary](https://www.marketwatch.com/bulletins/redirect/go?g=54376853-d2dd-409c-9300-98c21b8e40c3&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-01 00:18
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump hits dozens more countries with higher tariffs that start Aug. 7](https://www.marketwatch.com/story/trump-hits-dozens-more-countries-with-higher-tariffs-that-start-aug-7-33fb23f9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 01:54
+
+#### [Coinbase misses the mark on quarterly sales, including this all-important revenue stream](https://www.marketwatch.com/story/coinbase-misses-the-mark-on-quarterly-sales-including-this-all-important-revenue-stream-17418f3e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 00:38
+
+#### [Lumen says it has a new asset in tow as it chases more AI business](https://www.marketwatch.com/story/lumen-says-it-has-a-new-asset-in-tow-as-it-chases-more-ai-business-925ea5d6?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 00:36
+
+#### [Apple’s earnings were good, but the initial stock move implies Wall Street is wary](https://www.marketwatch.com/story/apples-earnings-were-good-but-the-initial-stock-move-implies-wall-street-is-wary-5e63f640?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 00:15
 
 ---
 

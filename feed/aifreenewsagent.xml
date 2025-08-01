@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 31 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 31 Jul 2025 23:22:14 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 05:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 05:38:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ACL'25最佳论文独家解读：大模型有「抗改造」基因，现有后训练范式失灵预警</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-12</link>
-      <description>&lt;![CDATA[ACL'25最佳论文独家解读：大模型有「抗改造」基因，现有后训练范式失灵预警]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-12</guid>
+      <title>全球首款通用AI科研智能体问世：我一个文科生用它写了份CRISPR基因编辑综述报告</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-8</link>
+      <description>&lt;![CDATA[全球首款通用AI科研智能体问世：我一个文科生用它写了份CRISPR基因编辑综述报告]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>当提示词优化器学会进化，竟能胜过强化学习</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-11</link>
-      <description>&lt;![CDATA[当提示词优化器学会进化，竟能胜过强化学习]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 17:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-11</guid>
+      <title>Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians in a Real World Setting</title>
+      <link>https://arxiv.org/abs/2507.22902</link>
+      <description>&lt;![CDATA[Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians in a Real World Setting]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.22902</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ACL 2025主会论文 | TRIDENT：基于三维多样化红队数据合成的LLM安全增强方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-07-31-10</link>
-      <description>&lt;![CDATA[ACL 2025主会论文 | TRIDENT：基于三维多样化红队数据合成的LLM安全增强方法]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-07-31-10</guid>
+      <title>Theoretical Foundations and Mitigation of Hallucination in Large Language Models</title>
+      <link>https://arxiv.org/abs/2507.22915</link>
+      <description>&lt;![CDATA[Theoretical Foundations and Mitigation of Hallucination in Large Language Models]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.22915</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: OpenAI’s future research, and US climate regulation is under threat</title>
-      <link>https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/</link>
-      <description>&lt;![CDATA[The Download: OpenAI’s future research, and US climate regulation is under threat]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/</guid>
+      <title>中国在AI领域超越美国已是板上钉钉？吴恩达：美国无法保持领先</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-7</link>
+      <description>&lt;![CDATA[中国在AI领域超越美国已是板上钉钉？吴恩达：美国无法保持领先]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The two people shaping the future of OpenAI’s research</title>
-      <link>https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/</link>
-      <description>&lt;![CDATA[The two people shaping the future of OpenAI’s research]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/</guid>
+      <title>机器人不只会抓和放！北京大学X银河通用「世界-动作模型」赋能全面泛化的非抓握技能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01</link>
+      <description>&lt;![CDATA[机器人不只会抓和放！北京大学X银河通用「世界-动作模型」赋能全面泛化的非抓握技能]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>WAIC 2025现场直击：看云深处科技如何将具身智能转化为实际生产力</title>
-      <link>https://www.qbitai.com/2025/07/316584.html</link>
-      <description>&lt;![CDATA[WAIC 2025现场直击：看云深处科技如何将具身智能转化为实际生产力]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316584.html</guid>
+      <title>Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</title>
+      <link>https://arxiv.org/abs/2507.22920</link>
+      <description>&lt;![CDATA[Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.22920</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Robotaxi营收同比增长836.7%，季度营收同比增长60.8% | 文远知行发布Q2财报</title>
-      <link>https://www.qbitai.com/2025/07/316529.html</link>
-      <description>&lt;![CDATA[Robotaxi营收同比增长836.7%，季度营收同比增长60.8% | 文远知行发布Q2财报]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316529.html</guid>
+      <title>驯服复杂表格：九天重磅开源，开启「人与表格对话」智能新时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-6</link>
+      <description>&lt;![CDATA[驯服复杂表格：九天重磅开源，开启「人与表格对话」智能新时代]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>智慧医院“中国方案”走向全球</title>
-      <link>https://www.qbitai.com/2025/07/316511.html</link>
-      <description>&lt;![CDATA[智慧医院“中国方案”走向全球]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/07/316511.html</guid>
+      <title>思维链监督和强化的图表推理，7B模型媲美闭源大尺寸模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-5</link>
+      <description>&lt;![CDATA[思维链监督和强化的图表推理，7B模型媲美闭源大尺寸模型]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Manus大升级，100多个智能体并发给你做任务</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-01-4</link>
+      <description>&lt;![CDATA[Manus大升级，100多个智能体并发给你做任务]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-01-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model</title>
+      <link>https://arxiv.org/abs/2507.23773</link>
+      <description>&lt;![CDATA[SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.23773</guid>
       <category>AI</category>
     </item>
   </channel>

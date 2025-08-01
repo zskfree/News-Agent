@@ -1,7 +1,138 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-07-31 23:21
+**最后更新时间**: 2025-08-01 05:37
+
+---
+
+## 🆕 最新更新 (2025-08-01 05:37)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Meta业绩与股价齐飞背后的野心与隐忧](https://www.tmtpost.com/7645158.html)
+**发布时间**: 2025-08-01 13:27
+
+#### [从分钟级到秒级的运维管理，开源是企业降本增效的最佳路径么？丨ToB产业观察](https://www.tmtpost.com/7645036.html)
+**发布时间**: 2025-08-01 13:24
+
+#### [乙肝“特效药”的千亿战局](https://www.tmtpost.com/7645194.html)
+**发布时间**: 2025-08-01 13:07
+
+#### [Trump Signs Order Formalizing Up to 41% Tariffs on Dozens of Countries Starting Aug. 7](https://www.tmtpost.com/7645372.html)
+**发布时间**: 2025-08-01 13:05
+
+#### [Trump Hikes Tariff on Canadian Goods to 35%, Citing Drug Concerns and Retaliation](https://www.tmtpost.com/7645353.html)
+**发布时间**: 2025-08-01 12:45
+
+#### [后“黑神话”时代，国产游戏靠什么来上分？](https://www.tmtpost.com/7644880.html)
+**发布时间**: 2025-08-01 11:51
+
+#### [午间谷电蔓延20余省，光伏被精准“猎杀”？](https://www.tmtpost.com/7643845.html)
+**发布时间**: 2025-08-01 11:36
+
+#### [Nvidia Denies Backdoors in H20 AI Chips in Response to Chinese Security Concerns](https://www.tmtpost.com/7645280.html)
+**发布时间**: 2025-08-01 11:26
+
+#### [Trump Grants 90-Day Tariff Reprieve for U.S.-Mexico Trade Talks](https://www.tmtpost.com/7645265.html)
+**发布时间**: 2025-08-01 11:20
+
+#### [胖改一年阵痛不减，永辉40亿定增遇信披拷问](https://www.tmtpost.com/7645138.html)
+**发布时间**: 2025-08-01 11:08
+
+#### [AI算力霸权与稳定币立法共同托举美股新高 | 巴伦菁英月谈会](https://www.tmtpost.com/7645078.html)
+**发布时间**: 2025-08-01 10:48
+
+#### [Apple's $3 Trillion Stall Signals Deeper Strategic Drift Amid AI Lag, Tariff Headwinds](https://www.tmtpost.com/7645200.html)
+**发布时间**: 2025-08-01 10:47
+
+#### [46亿，孙正义投资的“代遛狗”破产了](https://www.tmtpost.com/7643886.html)
+**发布时间**: 2025-08-01 10:45
+
+#### [年轻人找对象，已经开始看芝麻信用分了](https://www.tmtpost.com/7644625.html)
+**发布时间**: 2025-08-01 10:15
+
+#### [业绩失守、三期款悬停、对赌压顶，上药罗欣价值重估已“箭在弦上”？](https://www.tmtpost.com/7644893.html)
+**发布时间**: 2025-08-01 09:56
+
+#### [AI焦虑、关税大出血，iPhone大卖也给不了苹果安全感](https://www.tmtpost.com/7644999.html)
+**发布时间**: 2025-08-01 09:47
+
+#### [艺人经纪大洗牌：谁在囤积“明日之星”？](https://www.tmtpost.com/7644661.html)
+**发布时间**: 2025-08-01 09:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [面向DeepSeek的一念 LLM 分布式推理优化实践｜ AICon 深圳](https://www.infoq.cn/article/dXdsLal6hr5S6GkGuzXp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 13:00
+
+#### [AWS Lambda的无服务器开发：从控制台到集成开发环境（IDE）以及远程调试](https://www.infoq.cn/article/8ZKDZfbexgmJWYfy8Ggx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 13:00
+
+#### [Claude Code唯一对手！？AI编程黑马AmpCode崛起的秘密：不设token上限，放手让AI自己死磕代码](https://www.infoq.cn/article/dJ2GEevuMlNEXAjYbuc0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 12:32
+
+#### [扎克伯格发文正式告别“默认开源”！网友：只剩中国 DeepSeek、通义和 Mistral 还在撑场面](https://www.infoq.cn/article/D0iiks7IDLIEQ5weh5cG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 12:15
+
+#### [新手入门指南：如何策划技术会议议程](https://www.infoq.cn/article/JgPZvzar4cyZH0wXWDgg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 12:00
+
+#### [Figma成功上市，一分钟内市值飙到 450 亿美元](https://www.infoq.cn/article/aapavbZCFXYlTwrej5rC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 10:55
+
+#### [Mooncake：面向长上下文的 KVCache 中心化推理优化方案｜AICon 深圳](https://www.infoq.cn/article/0IbfMmqyHAp7I56cIpQR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 10:34
+
+#### [Vercel为可观察性平台新增外部API缓存分析功能](https://www.infoq.cn/article/dz9B1kXuo3mxLj827mV3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 10:30
+
+#### [秒改屎山代码、最高提效300%！AI代码审查工具会终结技术债务还是带来新危机？](https://www.infoq.cn/article/blBH3vkzWqyv0kXpm552?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 10:30
+
+#### [Kubernetes引入后量子支持的TLS](https://www.infoq.cn/article/ts9WguRw73Uf30t0mkjm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-01 09:54
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Agent 元年，谁是应用爆发背后的基石？](http://www.geekpark.net/news/352227)
+**发布时间**: 2025-08-01 10:48
+
+#### [火山引擎作为「AI 原生」基础设施，变得更强了](http://www.geekpark.net/news/352220)
+**发布时间**: 2025-08-01 08:49
+
+#### [英伟达回应「芯片后门」：不存在后门；大疆推 Osmo 360 全景相机，2999元；微软成第二家 4 万亿美元公司](http://www.geekpark.net/news/352219)
+**发布时间**: 2025-08-01 08:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：大疆发布首款全景相机 Osmo 360、乐道 L90 发布等](https://sspai.com/post/101509)
+**发布时间**: 2025-08-01 08:27
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
+**发布时间**: 2025-08-01 05:30
+
+#### [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)
+**发布时间**: 2025-08-01 05:00
+
+#### [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
+**发布时间**: 2025-08-01 05:00
+
+#### [Still Using Windows 10? Here’s How to Get Another Year of Updates for Free](https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/)
+**发布时间**: 2025-07-31 18:15
+
+#### [The Kremlin’s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)
+**发布时间**: 2025-07-31 16:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The LeapMove is a gamified camera designed to get kids off the couch](https://www.theverge.com/news/717018/leapfrog-leapmove-motion-detection-gaming)
+**发布时间**: 2025-08-01 04:01
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
+**发布时间**: 2025-08-01 00:06
 
 ---
 

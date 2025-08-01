@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 31 Jul 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 31 Jul 2025 23:22:14 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 05:37:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 05:37:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达回应中国因“安全问题”约谈：芯片不存在“后门”，网络安全对我们至关重要</title>
-      <link>https://www.tmtpost.com/7644871.html</link>
-      <description>&lt;![CDATA[英伟达回应中国因“安全问题”约谈：芯片不存在“后门”，网络安全对我们至关重要]]&gt;</description>
-      <pubDate>Fri, 01 Aug 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7644871.html</guid>
+      <title>扎克伯格发文正式告别“默认开源”！网友：只剩中国 DeepSeek、通义和 Mistral 还在撑场面</title>
+      <link>https://www.infoq.cn/article/D0iiks7IDLIEQ5weh5cG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[扎克伯格发文正式告别“默认开源”！网友：只剩中国 DeepSeek、通义和 Mistral 还在撑场面]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/D0iiks7IDLIEQ5weh5cG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节豆包大模型日均调用量飙升137倍，最新输入tokens价格低至0.15元</title>
-      <link>https://www.tmtpost.com/7642876.html</link>
-      <description>&lt;![CDATA[字节豆包大模型日均调用量飙升137倍，最新输入tokens价格低至0.15元]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7642876.html</guid>
+      <title>Nvidia Denies Backdoors in H20 AI Chips in Response to Chinese Security Concerns</title>
+      <link>https://www.tmtpost.com/7645280.html</link>
+      <description>&lt;![CDATA[Nvidia Denies Backdoors in H20 AI Chips in Response to Chinese Security Concerns]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645280.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯猛发一系列AI成果，开源混元3D世界模型、升级0代码智能体平台、10＋垂直Agent同时放送...</title>
-      <link>https://www.infoq.cn/article/4esxDH0dzqSlq8df6eAi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯猛发一系列AI成果，开源混元3D世界模型、升级0代码智能体平台、10＋垂直Agent同时放送...]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4esxDH0dzqSlq8df6eAi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Apple's $3 Trillion Stall Signals Deeper Strategic Drift Amid AI Lag, Tariff Headwinds</title>
+      <link>https://www.tmtpost.com/7645200.html</link>
+      <description>&lt;![CDATA[Apple's $3 Trillion Stall Signals Deeper Strategic Drift Amid AI Lag, Tariff Headwinds]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645200.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>创·问｜PingCAP 刘松：AI 即将重塑数据库，未来为 Agent 而生</title>
-      <link>https://www.tmtpost.com/7644358.html</link>
-      <description>&lt;![CDATA[创·问｜PingCAP 刘松：AI 即将重塑数据库，未来为 Agent 而生]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 18:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7644358.html</guid>
+      <title>Agent 元年，谁是应用爆发背后的基石？</title>
+      <link>http://www.geekpark.net/news/352227</link>
+      <description>&lt;![CDATA[Agent 元年，谁是应用爆发背后的基石？]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352227</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话王光熙：具身智能，下一个“汽车时代”？</title>
-      <link>https://www.tmtpost.com/7644319.html</link>
-      <description>&lt;![CDATA[对话王光熙：具身智能，下一个“汽车时代”？]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 16:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7644319.html</guid>
+      <title>Claude Code唯一对手！？AI编程黑马AmpCode崛起的秘密：不设token上限，放手让AI自己死磕代码</title>
+      <link>https://www.infoq.cn/article/dJ2GEevuMlNEXAjYbuc0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code唯一对手！？AI编程黑马AmpCode崛起的秘密：不设token上限，放手让AI自己死磕代码]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 12:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dJ2GEevuMlNEXAjYbuc0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Tim Cook says Apple is ‘open to’ AI acquisitions</title>
-      <link>https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook</link>
-      <description>&lt;![CDATA[Tim Cook says Apple is ‘open to’ AI acquisitions]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 21:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook</guid>
+      <title>秒改屎山代码、最高提效300%！AI代码审查工具会终结技术债务还是带来新危机？</title>
+      <link>https://www.infoq.cn/article/blBH3vkzWqyv0kXpm552?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[秒改屎山代码、最高提效300%！AI代码审查工具会终结技术债务还是带来新危机？]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/blBH3vkzWqyv0kXpm552?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Inside the Summit Where China Pitched Its AI Agenda to the World</title>
-      <link>https://www.wired.com/story/china-artificial-intelligence-policy-laws-race/</link>
-      <description>&lt;![CDATA[Inside the Summit Where China Pitched Its AI Agenda to the World]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/china-artificial-intelligence-policy-laws-race/</guid>
+      <title>Meta业绩与股价齐飞背后的野心与隐忧</title>
+      <link>https://www.tmtpost.com/7645158.html</link>
+      <description>&lt;![CDATA[Meta业绩与股价齐飞背后的野心与隐忧]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645158.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix开始试水AI？背后的商业逻辑不简单</title>
-      <link>https://www.tmtpost.com/7644083.html</link>
-      <description>&lt;![CDATA[Netflix开始试水AI？背后的商业逻辑不简单]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7644083.html</guid>
+      <title>AI算力霸权与稳定币立法共同托举美股新高 | 巴伦菁英月谈会</title>
+      <link>https://www.tmtpost.com/7645078.html</link>
+      <description>&lt;![CDATA[AI算力霸权与稳定币立法共同托举美股新高 | 巴伦菁英月谈会]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645078.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Tesla’s ‘robotaxi’ rides in San Francisco have a human at the wheel</title>
-      <link>https://www.theverge.com/news/716867/tesla-robotaxi-san-francisco-launch</link>
-      <description>&lt;![CDATA[Tesla’s ‘robotaxi’ rides in San Francisco have a human at the wheel]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/716867/tesla-robotaxi-san-francisco-launch</guid>
+      <title>从分钟级到秒级的运维管理，开源是企业降本增效的最佳路径么？丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/7645036.html</link>
+      <description>&lt;![CDATA[从分钟级到秒级的运维管理，开源是企业降本增效的最佳路径么？丨ToB产业观察]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645036.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Reddit wants to be a search engine now</title>
-      <link>https://www.theverge.com/news/717095/reddit-q2-2025-earnings-search-engine</link>
-      <description>&lt;![CDATA[Reddit wants to be a search engine now]]&gt;</description>
-      <pubDate>Thu, 31 Jul 2025 21:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/717095/reddit-q2-2025-earnings-search-engine</guid>
+      <title>Kubernetes引入后量子支持的TLS</title>
+      <link>https://www.infoq.cn/article/ts9WguRw73Uf30t0mkjm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes引入后量子支持的TLS]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ts9WguRw73Uf30t0mkjm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
