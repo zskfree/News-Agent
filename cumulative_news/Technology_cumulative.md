@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-02 08:27
+**最后更新时间**: 2025-08-02 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-02 23:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [周杰伦抖音首秀背后的资本局：巨星传奇配售超3亿，要学泡泡玛特？](https://www.tmtpost.com/7645994.html)
+**发布时间**: 2025-08-02 18:19
+
+#### [外卖大战尴尬收场，但巨头们仍在“窘境”中竞争AI](https://www.tmtpost.com/7646035.html)
+**发布时间**: 2025-08-02 16:47
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [10年10000倍？年化收益150%的奥数老师教你赚钱靠谱吗？](http://www.huxiu.com/article/4642391.html?f=wangzhan)
+**发布时间**: 2025-08-02 17:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Samsung’s Galaxy Watch 8 just came out and you can already save $50](https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale)
+**发布时间**: 2025-08-02 16:00
+
+#### [The enforcer that could break up Apple and Google is facing upheaval](https://www.theverge.com/policy/717303/justice-department-antitrust-division-slater-alford-rinner-firing)
+**发布时间**: 2025-08-02 15:00
+
+#### [The ‘Epstein files’ implosion bleeds into foreign policy](https://www.theverge.com/politics/717725/maga-epstein-israel-netanyahu-carlson-nelk-boys)
+**发布时间**: 2025-08-02 14:00
+
+#### [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
+**发布时间**: 2025-08-02 13:55
+
+#### [Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables)
+**发布时间**: 2025-08-02 13:00
+
+#### [I tried ‘Bricking’ my phone to fix my brain](https://www.theverge.com/column/717498/brick-phone-screen-time-apps)
+**发布时间**: 2025-08-02 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Peacock Feathers Are Stunning. They Can Also Emit Laser Beams](https://www.wired.com/story/peacock-feathers-laser-beams/)
+**发布时间**: 2025-08-02 13:00
+
+#### [9 Best Indoor Security Cameras (2025): For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+**发布时间**: 2025-08-02 12:00
+
+#### [The 45 Best Movies on Netflix Right Now (August 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-08-02 11:00
+
+#### [The 45 Best Shows on Netflix Right Now (August 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-08-02 11:00
+
+#### [Trump Promised to ‘Drill, Baby, Drill.’ The New Rigs Are Nowhere to Be Found](https://www.wired.com/story/trump-promised-to-drill-baby-drill-the-new-rigs-are-nowhere-to-be-found/)
+**发布时间**: 2025-08-02 11:00
+
+#### [Google Will Use AI to Guess People’s Ages Based on Search History](https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/)
+**发布时间**: 2025-08-02 10:30
+
+#### [11 Best Coolers WIRED Tested for Every Budget, Any Situation (2025)](https://www.wired.com/gallery/best-cooler/)
+**发布时间**: 2025-08-02 10:04
+
+#### [Gear News of the Week: Insta360 Debuts a Drone Company, and DJI Surprises With an 8K 360 Camera](https://www.wired.com/story/gear-news-of-the-week-insta360-debuts-a-drone-company-and-dji-surprises-with-an-8k-360-camera/)
+**发布时间**: 2025-08-02 09:30
 
 ---
 

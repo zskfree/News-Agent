@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-02 05:29
+**最后更新时间**: 2025-08-02 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-02 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I worked at 14, had an 8.8% mortgage rate and drove used cars’: Did boomers really have it easier than millennials?](https://www.marketwatch.com/story/i-worked-at-14-had-an-8-8-mortgage-rate-and-drove-used-cars-did-boomers-really-have-it-easier-than-millennials-bdc012a2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 23:11
+
+#### [Will my spouse automatically inherit my 401(k)?](https://www.marketwatch.com/story/will-your-spouse-automatically-inherit-your-401-k-59ac8126?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 22:03
+
+#### [The ‘great wealth transfer’ is coming. Many people will be rich — but they’re not ready.](https://www.marketwatch.com/story/the-great-wealth-transfer-is-coming-many-people-will-be-rich-but-theyre-not-ready-e206232f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 19:26
+
+#### [Are Trump’s tariffs helping or hurting America’s economy? 6 key facts about U.S. trade.](https://www.marketwatch.com/story/does-international-trade-hurt-the-u-s-as-trump-claims-6-things-to-know-about-tariffs-666def4d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 16:31
+
+#### [As the eldercare crisis escalates, families seek help from these coaches and consultants](https://www.marketwatch.com/story/who-you-gonna-call-for-eldercare-crises-or-insurance-questions-this-growing-group-of-consultants-e33a7af9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 16:14
+
+#### [Luxury cruise lines are relaxing their evening dress codes. But is denim at dinner too much?](https://www.marketwatch.com/story/luxury-cruise-lines-are-relaxing-their-evening-dress-codes-but-is-denim-at-dinner-too-much-1e28ab2b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 16:08
+
+#### [Weight-loss drugs may be covered by Medicare, Medicaid under experimental program](https://www.marketwatch.com/story/weight-loss-drugs-may-be-coming-to-medicare-medicaid-under-experimental-program-7a0632b9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 16:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Friday's market swoon wasn't the first sign of trouble for stocks](https://www.marketwatch.com/bulletins/redirect/go?g=80e37d26-070d-4370-a989-0adb7c48a8bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-02 17:32
+
+#### [Trapped in your job during a rocky economy? Here's how to thrive anyway.](https://www.marketwatch.com/bulletins/redirect/go?g=d4e2ac51-32e9-4d40-bc50-a9f4822874a5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-02 15:10
+
+#### [The shocking number of companies with no plan to stop workplace violence](https://www.marketwatch.com/bulletins/redirect/go?g=de7ba53e-391e-4fec-a967-9f32de44ccd4&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-02 13:46
+
+#### [Don't blame Powell--here's what's really driving the home affordability crisis](https://www.marketwatch.com/bulletins/redirect/go?g=a418e4e6-250f-4a77-9c82-3271c4c6a069&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-02 12:30
 
 ---
 
