@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 Aug 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 05:30:29 GMT</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 08:27:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI Coding如何重构开发，模型×IDE×Agent深度对话｜量子位AI沙龙</title>
-      <link>https://www.qbitai.com/2025/08/317231.html</link>
-      <description>&lt;![CDATA[AI Coding如何重构开发，模型×IDE×Agent深度对话｜量子位AI沙龙]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 04:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317231.html</guid>
+      <title>刷新3D生成上限！一键生成精细到毛发的3D资产</title>
+      <link>https://www.qbitai.com/2025/08/317416.html</link>
+      <description>&lt;![CDATA[刷新3D生成上限！一键生成精细到毛发的3D资产]]&gt;</description>
+      <pubDate>Sat, 02 Aug 2025 05:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317416.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI答IMO难题坦承“不会”，OpenAI：这就是自我意识</title>
-      <link>https://www.qbitai.com/2025/08/317220.html</link>
-      <description>&lt;![CDATA[AI答IMO难题坦承“不会”，OpenAI：这就是自我意识]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 04:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317220.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>谷歌IMO金牌模型可以用了！推理性能秒了o3、Grok 4</title>
-      <link>https://www.qbitai.com/2025/08/317199.html</link>
-      <description>&lt;![CDATA[谷歌IMO金牌模型可以用了！推理性能秒了o3、Grok 4]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 01:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317199.html</guid>
+      <title>仅用提示词工程摘下IMO金牌！清华校友强强联手新发现，学术界不靠砸钱也能比肩大厂</title>
+      <link>https://www.qbitai.com/2025/08/317400.html</link>
+      <description>&lt;![CDATA[仅用提示词工程摘下IMO金牌！清华校友强强联手新发现，学术界不靠砸钱也能比肩大厂]]&gt;</description>
+      <pubDate>Sat, 02 Aug 2025 05:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317400.html</guid>
       <category>AI</category>
     </item>
   </channel>
