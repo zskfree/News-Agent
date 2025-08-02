@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-01 23:26
+**最后更新时间**: 2025-08-02 05:29
+
+---
+
+## 🆕 最新更新 (2025-08-02 05:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AWS云计算还是亚马逊的“现金牛”吗？](https://www.tmtpost.com/7646025.html)
+**发布时间**: 2025-08-02 13:06
+
+#### [Amazon Stock Dives Over 8% on Cloud Growth Laggard, Soft Profit Outlook](https://www.tmtpost.com/7646284.html)
+**发布时间**: 2025-08-02 12:28
+
+#### [耐克回到起跑线](https://www.tmtpost.com/7645889.html)
+**发布时间**: 2025-08-02 11:06
+
+#### [游学不火了，小学生挤进攀岩馆](https://www.tmtpost.com/7645951.html)
+**发布时间**: 2025-08-02 09:54
+
+#### [香港高院披露信托存在，宗庆后最信任的还是宗馥莉](https://www.tmtpost.com/7646157.html)
+**发布时间**: 2025-08-02 09:24
+
+#### [汽车抬头显示的智能化旅程](https://www.tmtpost.com/7645342.html)
+**发布时间**: 2025-08-02 09:09
+
+#### [山姆的信任危机，不在于选品](https://www.tmtpost.com/7643540.html)
+**发布时间**: 2025-08-02 08:20
+
+#### [高德地图副总裁董振宁：未来5—10年，低空经济有希望实现千亿规模](https://www.tmtpost.com/7645902.html)
+**发布时间**: 2025-08-02 07:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌深夜放出IMO金牌模型，多项测试力压Grok 4、OpenAI o3！网友评论两极分化](https://www.infoq.cn/article/YW4H4Milzdr3SWkzqOdq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-02 11:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [库克打气苹果 AI：不拼首创，自信能主导市场；微信提现手续费下调至 0.01 元；Manus 推 Wide Research](http://www.geekpark.net/news/352260)
+**发布时间**: 2025-08-02 08:03
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI](https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race)
+**发布时间**: 2025-08-02 00:11
+
+#### [Delta&#8217;s dynamic AI pricing plan sounds different now](https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model)
+**发布时间**: 2025-08-01 23:46
+
+#### [Tim Cook says Apple ‘must’ figure out AI and ‘will make the investment to do it’](https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment)
+**发布时间**: 2025-08-01 23:35
 
 ---
 

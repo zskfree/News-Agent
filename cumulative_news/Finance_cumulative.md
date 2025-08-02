@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-01 23:26
+**最后更新时间**: 2025-08-02 05:29
+
+---
+
+## 🆕 最新更新 (2025-08-02 05:29)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump and the dollar are doing something we saw just before the October 1987 stock market crash](https://www.marketwatch.com/story/weve-seen-how-stocks-react-to-white-house-pressure-for-low-interest-rates-and-a-weak-dollar-in-october-1987-833d64b0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-01 23:38
 
 ---
 

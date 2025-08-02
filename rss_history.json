@@ -8640,6 +8640,24 @@
         "link": "https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/",
         "published_date": "Fri, 01 Aug 2025 10:00:00 GMT",
         "first_seen": "2025-08-01T23:27:20.741237"
+      },
+      "5ab47ad8c438b062125ac6e0d6fa3b158eb49775a33f29c6e3272a7b88dff191": {
+        "title": "AI Coding如何重构开发，模型×IDE×Agent深度对话｜量子位AI沙龙",
+        "link": "https://www.qbitai.com/2025/08/317231.html",
+        "published_date": "Sat, 02 Aug 2025 04:32:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.340796"
+      },
+      "96716b967e074e7c54f29373a76e37cc3e4aa2f3aef962ec8d5ed8969787ab31": {
+        "title": "AI答IMO难题坦承“不会”，OpenAI：这就是自我意识",
+        "link": "https://www.qbitai.com/2025/08/317220.html",
+        "published_date": "Sat, 02 Aug 2025 04:13:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.340918"
+      },
+      "b39548aae07a43801f46fafc65e381647e7427cf0d1026b3ad7e6b9ae40100ea": {
+        "title": "谷歌IMO金牌模型可以用了！推理性能秒了o3、Grok 4",
+        "link": "https://www.qbitai.com/2025/08/317199.html",
+        "published_date": "Sat, 02 Aug 2025 01:45:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.341151"
       }
     },
     "Technology": {
@@ -22076,6 +22094,84 @@
         "link": "https://www.infoq.cn/article/zariUkDlVHXs6Nk6EJwS?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 01 Aug 2025 17:33:00 GMT",
         "first_seen": "2025-08-01T23:26:41.428815"
+      },
+      "dc469cc4d209845ff800f85f1d58e378bbf7366f55f50881fdacccbfafd8acce": {
+        "title": "AWS云计算还是亚马逊的“现金牛”吗？",
+        "link": "https://www.tmtpost.com/7646025.html",
+        "published_date": "Sat, 02 Aug 2025 13:06:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286127"
+      },
+      "5c67f905505520ad763d7ff3dad4bfdfc7cc200c6cac4140fae998c6422097ec": {
+        "title": "Amazon Stock Dives Over 8% on Cloud Growth Laggard, Soft Profit Outlook",
+        "link": "https://www.tmtpost.com/7646284.html",
+        "published_date": "Sat, 02 Aug 2025 12:28:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286117"
+      },
+      "c633be7559a28b7c08f07df63321453710040f5567c08555dfe92f42ae3ad11f": {
+        "title": "耐克回到起跑线",
+        "link": "https://www.tmtpost.com/7645889.html",
+        "published_date": "Sat, 02 Aug 2025 11:06:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286154"
+      },
+      "b7105c90229f1da349a2fed6b265d8bf33d4bb15041ae680f6af23493ffa2058": {
+        "title": "游学不火了，小学生挤进攀岩馆",
+        "link": "https://www.tmtpost.com/7645951.html",
+        "published_date": "Sat, 02 Aug 2025 09:54:00 GMT",
+        "first_seen": "2025-08-02T05:29:55.033352"
+      },
+      "ef2b0b63425dfa04397ba73e7e69c40a96eabe7567391f6a1a20fad8bf5e886d": {
+        "title": "香港高院披露信托存在，宗庆后最信任的还是宗馥莉",
+        "link": "https://www.tmtpost.com/7646157.html",
+        "published_date": "Sat, 02 Aug 2025 09:24:00 GMT",
+        "first_seen": "2025-08-02T05:29:55.033536"
+      },
+      "d7932de4082e2abcf2b2cf2381448f95a8f85ecbdaa3d813d640843e6de2d48e": {
+        "title": "汽车抬头显示的智能化旅程",
+        "link": "https://www.tmtpost.com/7645342.html",
+        "published_date": "Sat, 02 Aug 2025 09:09:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286136"
+      },
+      "ca85cd2b154b51c3267e7d20b654a29e6e8d7685a3137ff0d3078de4c0b3a681": {
+        "title": "山姆的信任危机，不在于选品",
+        "link": "https://www.tmtpost.com/7643540.html",
+        "published_date": "Sat, 02 Aug 2025 08:20:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286161"
+      },
+      "87b0de0b40a3ba954115dbdbd92a1684614e62233084f6699386a54fc01909ad": {
+        "title": "高德地图副总裁董振宁：未来5—10年，低空经济有希望实现千亿规模",
+        "link": "https://www.tmtpost.com/7645902.html",
+        "published_date": "Sat, 02 Aug 2025 07:57:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286092"
+      },
+      "59cbccce61105dce07f062c148ae88efbf4cfee9254b318255ed9e071cbd09c3": {
+        "title": "谷歌深夜放出IMO金牌模型，多项测试力压Grok 4、OpenAI o3！网友评论两极分化",
+        "link": "https://www.infoq.cn/article/YW4H4Milzdr3SWkzqOdq?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 02 Aug 2025 11:00:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286054"
+      },
+      "aa5d1e1c0b3610a14cf80fe760a6f9a7e17f93dc366b710f7a7abe0c7e679008": {
+        "title": "库克打气苹果 AI：不拼首创，自信能主导市场；微信提现手续费下调至 0.01 元；Manus 推 Wide Research",
+        "link": "http://www.geekpark.net/news/352260",
+        "published_date": "Sat, 02 Aug 2025 08:03:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286105"
+      },
+      "b2cb44eea34739dca86825e8c9078729e009052494947ccc2fafaa2f0e0907d4": {
+        "title": "Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI",
+        "link": "https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race",
+        "published_date": "Sat, 02 Aug 2025 00:11:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286078"
+      },
+      "6f103f0d714e0426ac50ab73423625262aef5e1e6796f76409d3849f38040947": {
+        "title": "Delta&#8217;s dynamic AI pricing plan sounds different now",
+        "link": "https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model",
+        "published_date": "Fri, 01 Aug 2025 23:46:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.286146"
+      },
+      "0c1c84d849ccef3f871f5a7a56c9e0c7261f323ed852efe9efffeb1d262183b3": {
+        "title": "Tim Cook says Apple ‘must’ figure out AI and ‘will make the investment to do it’",
+        "link": "https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment",
+        "published_date": "Fri, 01 Aug 2025 23:35:00 GMT",
+        "first_seen": "2025-08-02T05:29:55.038948"
       }
     },
     "Finance": {
@@ -25084,12 +25180,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=01e003e7-8ab9-420a-a022-c902c5a2b2b4&mod=mw_rss_bulletins",
         "published_date": "Fri, 01 Aug 2025 10:56:00 GMT",
         "first_seen": "2025-08-01T23:27:39.846281"
+      },
+      "32de3bc4b78ac9b7bcb9843d6d13bea6060aad19d3b2d7b6799a58c3267d70b7": {
+        "title": "Trump and the dollar are doing something we saw just before the October 1987 stock market crash",
+        "link": "https://www.marketwatch.com/story/weve-seen-how-stocks-react-to-white-house-pressure-for-low-interest-rates-and-a-weak-dollar-in-october-1987-833d64b0?mod=mw_rss_topstories",
+        "published_date": "Fri, 01 Aug 2025 23:38:00 GMT",
+        "first_seen": "2025-08-02T05:30:29.355757"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-01T23:27:20.743650",
-    "Technology": "2025-08-01T23:27:00.262734",
-    "Finance": "2025-08-01T23:27:39.848670"
+    "AI": "2025-08-02T05:30:29.348341",
+    "Technology": "2025-08-02T05:30:29.305944",
+    "Finance": "2025-08-02T05:30:29.362607"
   }
 }
