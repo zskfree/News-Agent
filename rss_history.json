@@ -8748,6 +8748,48 @@
         "link": "https://www.qbitai.com/2025/08/317722.html",
         "published_date": "Sun, 03 Aug 2025 02:37:00 GMT",
         "first_seen": "2025-08-03T05:28:43.195992"
+      },
+      "92a399f5a8d760176fbd92754edf25d684132e5f365702dc427d654eccd9295a": {
+        "title": "全网苦等GPT-5，超级对齐团队遗作成重要线索，奥特曼发话「惊喜很多」",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-03-4",
+        "published_date": "Sun, 03 Aug 2025 14:37:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.647134"
+      },
+      "3d2138b7e68b147c1d906ca2d151ab26f2ef8fddf6f3d3740311a5976dfbbfde": {
+        "title": "图灵奖得主Sutton再突破：强化学习在控制问题上媲美深度强化学习？",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-03-3",
+        "published_date": "Sun, 03 Aug 2025 14:32:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.647266"
+      },
+      "88363249b8da4b6c5fbfba7a05ae399ac32566774445a5ed7e2fb091904b9647": {
+        "title": "GUI定位还在玩「非黑即白」？浙大团队提出GUI-G²，显著提升GUI智能体定位性能",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-03-2",
+        "published_date": "Sun, 03 Aug 2025 14:27:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.647489"
+      },
+      "3ec1667b31867e0a3f9566e26b8f3d4ad86310cb01f378fb94c143940c302be7": {
+        "title": "OpenAI IMO金牌团队爆料：AI拒绝作答第六题",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-03",
+        "published_date": "Sun, 03 Aug 2025 14:22:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.647721"
+      },
+      "fecb34eee221e6829d4b8213f0173134ba1ee8bafbb6bb7495c79e3b6c88c67e": {
+        "title": "实测Qwen-MT翻译模型，确实又快又好",
+        "link": "https://www.qbitai.com/2025/08/317888.html",
+        "published_date": "Sun, 03 Aug 2025 06:48:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.647977"
+      },
+      "3ca812c9108513887917245093998fc619be74eec3af196282308fadd9092da5": {
+        "title": "DeepMind哈萨比斯：AI能建模所有进化而来的事物",
+        "link": "https://www.qbitai.com/2025/08/317822.html",
+        "published_date": "Sun, 03 Aug 2025 06:24:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.648308"
+      },
+      "eddc205359a4939cba9ea87a5f221fc2b2b92dfbecff938cf7754c6b2947af1a": {
+        "title": "Hinton能重新坐下了，什么时候开始的？",
+        "link": "https://www.qbitai.com/2025/08/317778.html",
+        "published_date": "Sun, 03 Aug 2025 05:37:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.648644"
       }
     },
     "Technology": {
@@ -22442,6 +22484,30 @@
         "link": "https://www.theverge.com/gadgets/712844/today-im-toying-with",
         "published_date": "Sun, 03 Aug 2025 02:15:00 GMT",
         "first_seen": "2025-08-03T05:28:43.125905"
+      },
+      "95322b316c7ed3cfa84384ab81252a46f979f41ae6bba5fed5785887288c9813": {
+        "title": "理想的中场战事",
+        "link": "https://www.tmtpost.com/7646024.html",
+        "published_date": "Sun, 03 Aug 2025 15:57:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.591368"
+      },
+      "6601e8bec81e2ff11bb80ffc259685a9eb85e0357e56207a9794a3ac06877867": {
+        "title": "理想i8，撑得起李想的“纯电梦”吗？",
+        "link": "https://www.tmtpost.com/7646060.html",
+        "published_date": "Sun, 03 Aug 2025 14:45:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.591508"
+      },
+      "8af71696b625a846ac3ac9c402b019c17f9329f2e57082cae583e2e851f2ede3": {
+        "title": "在有限空间内装进更多可能：我的桌搭思路 & 好物分享",
+        "link": "https://sspai.com/post/101250",
+        "published_date": "Sun, 03 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.591665"
+      },
+      "31063952e3eeee3c23f27a0e8b607bace72f0b0275a9d6dd41bd196a7900d846": {
+        "title": "留给车企争夺排位的时间不多了",
+        "link": "http://www.huxiu.com/article/4649391.html?f=wangzhan",
+        "published_date": "Sun, 03 Aug 2025 14:59:00 GMT",
+        "first_seen": "2025-08-03T08:27:39.591807"
       }
     },
     "Finance": {
@@ -25532,8 +25598,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-03T05:28:43.202822",
-    "Technology": "2025-08-03T05:28:43.162889",
-    "Finance": "2025-08-03T05:28:43.216907"
+    "AI": "2025-08-03T08:27:39.655846",
+    "Technology": "2025-08-03T08:27:39.613324",
+    "Finance": "2025-08-03T08:27:39.669373"
   }
 }
