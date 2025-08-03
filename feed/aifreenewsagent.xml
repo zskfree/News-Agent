@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Aug 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2025 08:27:39 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 23:22:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全网苦等GPT-5，超级对齐团队遗作成重要线索，奥特曼发话「惊喜很多」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-03-4</link>
-      <description>&lt;![CDATA[全网苦等GPT-5，超级对齐团队遗作成重要线索，奥特曼发话「惊喜很多」]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-03-4</guid>
+      <title>AI Agent放贷款，获投4.3个亿</title>
+      <link>https://www.qbitai.com/2025/08/317962.html</link>
+      <description>&lt;![CDATA[AI Agent放贷款，获投4.3个亿]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317962.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>图灵奖得主Sutton再突破：强化学习在控制问题上媲美深度强化学习？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-03-3</link>
-      <description>&lt;![CDATA[图灵奖得主Sutton再突破：强化学习在控制问题上媲美深度强化学习？]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-03-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GUI定位还在玩「非黑即白」？浙大团队提出GUI-G²，显著提升GUI智能体定位性能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-03-2</link>
-      <description>&lt;![CDATA[GUI定位还在玩「非黑即白」？浙大团队提出GUI-G²，显著提升GUI智能体定位性能]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-03-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI IMO金牌团队爆料：AI拒绝作答第六题</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-03</link>
-      <description>&lt;![CDATA[OpenAI IMO金牌团队爆料：AI拒绝作答第六题]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-03</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>实测Qwen-MT翻译模型，确实又快又好</title>
-      <link>https://www.qbitai.com/2025/08/317888.html</link>
-      <description>&lt;![CDATA[实测Qwen-MT翻译模型，确实又快又好]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 06:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317888.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DeepMind哈萨比斯：AI能建模所有进化而来的事物</title>
-      <link>https://www.qbitai.com/2025/08/317822.html</link>
-      <description>&lt;![CDATA[DeepMind哈萨比斯：AI能建模所有进化而来的事物]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 06:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317822.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Hinton能重新坐下了，什么时候开始的？</title>
-      <link>https://www.qbitai.com/2025/08/317778.html</link>
-      <description>&lt;![CDATA[Hinton能重新坐下了，什么时候开始的？]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 05:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317778.html</guid>
+      <title>告别复杂提示词！蚂蚁新方式让AI自动理解你的个性化需求</title>
+      <link>https://www.qbitai.com/2025/08/317899.html</link>
+      <description>&lt;![CDATA[告别复杂提示词！蚂蚁新方式让AI自动理解你的个性化需求]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317899.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Aug 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2025 08:27:39 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 23:22:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>理想的中场战事</title>
-      <link>https://www.tmtpost.com/7646024.html</link>
-      <description>&lt;![CDATA[理想的中场战事]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 15:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7646024.html</guid>
+      <title>OpenAI杀入通用AI Agent背后：四大技术流派与下一个万亿流量之战</title>
+      <link>https://www.tmtpost.com/7646579.html</link>
+      <description>&lt;![CDATA[OpenAI杀入通用AI Agent背后：四大技术流派与下一个万亿流量之战]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7646579.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>理想i8，撑得起李想的“纯电梦”吗？</title>
-      <link>https://www.tmtpost.com/7646060.html</link>
-      <description>&lt;![CDATA[理想i8，撑得起李想的“纯电梦”吗？]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7646060.html</guid>
+      <title>AutoNavi Sets Sights on China's Low-Altitude Economy With Shenzhen Aerial Platform Push</title>
+      <link>https://www.tmtpost.com/7646792.html</link>
+      <description>&lt;![CDATA[AutoNavi Sets Sights on China's Low-Altitude Economy With Shenzhen Aerial Platform Push]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 23:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7646792.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在有限空间内装进更多可能：我的桌搭思路 &amp; 好物分享</title>
-      <link>https://sspai.com/post/101250</link>
-      <description>&lt;![CDATA[在有限空间内装进更多可能：我的桌搭思路 &amp; 好物分享]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101250</guid>
+      <title>AWS 没起色、零售有隐忧，亚马逊得先蹲下再起跳？</title>
+      <link>https://www.tmtpost.com/7645047.html</link>
+      <description>&lt;![CDATA[AWS 没起色、零售有隐忧，亚马逊得先蹲下再起跳？]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645047.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>留给车企争夺排位的时间不多了</title>
-      <link>http://www.huxiu.com/article/4649391.html?f=wangzhan</link>
-      <description>&lt;![CDATA[留给车企争夺排位的时间不多了]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4649391.html?f=wangzhan</guid>
+      <title>苹果走到了一个新拐点</title>
+      <link>https://www.tmtpost.com/7646568.html</link>
+      <description>&lt;![CDATA[苹果走到了一个新拐点]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7646568.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>毁灭性打击？“投流税”来了？游戏行业影响几何？如何应对？</title>
+      <link>https://www.tmtpost.com/7645164.html</link>
+      <description>&lt;![CDATA[毁灭性打击？“投流税”来了？游戏行业影响几何？如何应对？]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7645164.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>又一个万亿风口，电力央企集体争抢！</title>
+      <link>https://www.tmtpost.com/7646547.html</link>
+      <description>&lt;![CDATA[又一个万亿风口，电力央企集体争抢！]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 17:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7646547.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Brendan Carr declares victory over the First Amendment</title>
+      <link>https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech</link>
+      <description>&lt;![CDATA[Brendan Carr declares victory over the First Amendment]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>科技与二次元的生态跨界，汽车、机器人也来ChinaJoy“凑热闹”</title>
+      <link>https://www.tmtpost.com/7646647.html</link>
+      <description>&lt;![CDATA[科技与二次元的生态跨界，汽车、机器人也来ChinaJoy“凑热闹”]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 16:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7646647.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The Nintendo Switch 2’s Biggest Problem Is Already Storage</title>
+      <link>https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/</link>
+      <description>&lt;![CDATA[The Nintendo Switch 2’s Biggest Problem Is Already Storage]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Nintendo raises the Switch 1 price from $299 to $339</title>
+      <link>https://www.theverge.com/news/717610/nintendo-switch-original-price-increase</link>
+      <description>&lt;![CDATA[Nintendo raises the Switch 1 price from $299 to $339]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 13:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/717610/nintendo-switch-original-price-increase</guid>
       <category>Technology</category>
     </item>
   </channel>

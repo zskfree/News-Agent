@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-03 05:28
+**最后更新时间**: 2025-08-03 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-03 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Looking for something to watch? Here’s what’s worth streaming in August.](https://www.marketwatch.com/bulletins/redirect/go?g=6e21329c-ca1d-4e3f-acb3-9ecdb9eef049&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 23:08
+
+#### [U.S. stock futures dip; oil falls as OPEC+ extends output boost](https://www.marketwatch.com/bulletins/redirect/go?g=63795e69-1fe8-4eeb-9730-9f887b1d8dbe&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 22:24
+
+#### [Trump’s firing of labor-statistics commissioner decried as ‘groundless’](https://www.marketwatch.com/bulletins/redirect/go?g=65556ca8-f91e-4565-97e5-1579a598c499&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 20:46
+
+#### [Don’t blame Jerome Powell — or the Fed — if you can’t afford to buy a house now](https://www.marketwatch.com/bulletins/redirect/go?g=99b06c9a-e3f9-4bae-89f4-10cd69c53650&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 19:23
+
+#### [Trump's tariff policy faces a court reckoning. Taxpayers will feel the fallout.](https://www.marketwatch.com/bulletins/redirect/go?g=8af1d5ee-a5ae-4184-a3c4-3fa8d3ea6f98&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 16:48
+
+#### [Still waiting for the economy to collapse? Recession fears may be costing you.](https://www.marketwatch.com/bulletins/redirect/go?g=d0a82228-ac47-47ce-bfeb-1bbf83df93c2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 14:02
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise after Friday’s drop on Wall Street; oil falls as OPEC+ extends output boost](https://www.marketwatch.com/story/u-s-stock-futures-dip-after-fridays-drop-oil-falls-as-opec-extends-output-boost-18db0956?mod=mw_rss_topstories)
+**发布时间**: 2025-08-03 23:06
+
+#### [Trump’s firing of BLS commissioner decried as ‘groundless’ and ‘giving way to authoritarianism’](https://www.marketwatch.com/story/trumps-firing-of-bls-commissioner-decried-as-groundless-and-giving-way-to-authoritarianism-b814c81c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-03 21:54
+
+#### [As the elder-care crisis escalates, families seek help from these coaches and consultants](https://www.marketwatch.com/story/who-you-gonna-call-for-eldercare-crises-or-insurance-questions-this-growing-group-of-consultants-e33a7af9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-03 19:20
+
+#### [Top Fed officials unswayed by poor July jobs report, take wait-and-see approach to rate cuts](https://www.marketwatch.com/story/top-fed-officials-unswayed-by-poor-july-jobs-report-take-wait-and-see-approach-to-rate-cuts-6b88d5df?mod=mw_rss_topstories)
+**发布时间**: 2025-08-03 19:10
 
 ---
 

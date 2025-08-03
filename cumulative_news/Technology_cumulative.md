@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-03 08:27
+**最后更新时间**: 2025-08-03 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-03 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AutoNavi Sets Sights on China's Low-Altitude Economy With Shenzhen Aerial Platform Push](https://www.tmtpost.com/7646792.html)
+**发布时间**: 2025-08-03 23:03
+
+#### [爱康国宾董事长言论引质疑，当事律师：未告知查不出病风险涉及欺诈](https://www.tmtpost.com/7645754.html)
+**发布时间**: 2025-08-03 19:19
+
+#### [毁灭性打击？“投流税”来了？游戏行业影响几何？如何应对？](https://www.tmtpost.com/7645164.html)
+**发布时间**: 2025-08-03 19:19
+
+#### [商场追星记：圈明星的粉，做自己的生意](https://www.tmtpost.com/7645132.html)
+**发布时间**: 2025-08-03 19:18
+
+#### [AWS 没起色、零售有隐忧，亚马逊得先蹲下再起跳？](https://www.tmtpost.com/7645047.html)
+**发布时间**: 2025-08-03 19:18
+
+#### [宗馥莉，输了什么？](https://www.tmtpost.com/7646553.html)
+**发布时间**: 2025-08-03 19:15
+
+#### [OpenAI杀入通用AI Agent背后：四大技术流派与下一个万亿流量之战](https://www.tmtpost.com/7646579.html)
+**发布时间**: 2025-08-03 19:15
+
+#### [苹果走到了一个新拐点](https://www.tmtpost.com/7646568.html)
+**发布时间**: 2025-08-03 19:15
+
+#### [达利欧事了拂衣去，桥水的路到底该向何方？](https://www.tmtpost.com/7646581.html)
+**发布时间**: 2025-08-03 19:15
+
+#### [成为资深优秀并购专家，这36 项核心能力缺一不可](https://www.tmtpost.com/7646153.html)
+**发布时间**: 2025-08-03 19:15
+
+#### [又一个万亿风口，电力央企集体争抢！](https://www.tmtpost.com/7646547.html)
+**发布时间**: 2025-08-03 17:44
+
+#### [科技与二次元的生态跨界，汽车、机器人也来ChinaJoy“凑热闹”](https://www.tmtpost.com/7646647.html)
+**发布时间**: 2025-08-03 16:46
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Brendan Carr declares victory over the First Amendment](https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech)
+**发布时间**: 2025-08-03 14:00
+
+#### [Nintendo raises the Switch 1 price from $299 to $339](https://www.theverge.com/news/717610/nintendo-switch-original-price-increase)
+**发布时间**: 2025-08-03 13:46
+
+#### [Lenovo&#8217;s rollable laptop is the coolest computer I&#8217;ve used all year](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)
+**发布时间**: 2025-08-03 13:00
+
+#### [A webcam that’s almost like a real camera](https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer)
+**发布时间**: 2025-08-03 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Nintendo Switch 2’s Biggest Problem Is Already Storage](https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/)
+**发布时间**: 2025-08-03 13:00
+
+#### [19 Best Barefoot Shoes for Running or Walking (2025), Tested and Reviewed](https://www.wired.com/gallery/best-barefoot-shoes/)
+**发布时间**: 2025-08-03 12:00
+
+#### [What Happens to Your Data If You Stop Paying for Cloud Storage?](https://www.wired.com/story/what-happens-to-your-data-if-you-stop-paying-for-cloud-storage/)
+**发布时间**: 2025-08-03 11:30
+
+#### [Efforts to Ground Physics in Math Are Opening the Secrets of Time](https://www.wired.com/story/efforts-to-ground-physics-in-math-are-opening-the-secrets-of-time/)
+**发布时间**: 2025-08-03 11:00
+
+#### [12 Best Outdoor Security Cameras (2025): Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+**发布时间**: 2025-08-03 10:30
+
+#### [How to Clean Your Mattress (2025)](https://www.wired.com/story/how-to-clean-your-mattress/)
+**发布时间**: 2025-08-03 10:09
 
 ---
 
