@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-02 23:23
+**最后更新时间**: 2025-08-03 05:28
+
+---
+
+## 🆕 最新更新 (2025-08-03 05:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘The sky has not fallen — yet’: Is it time to start worrying about a U.S. recession?](https://www.marketwatch.com/story/the-sky-has-not-fallen-yet-a-recession-has-been-predicted-for-years-is-it-time-to-stop-worrying-46eac7db?mod=mw_rss_topstories)
+**发布时间**: 2025-08-02 23:37
 
 ---
 

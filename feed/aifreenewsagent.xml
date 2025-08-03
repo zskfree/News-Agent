@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 Aug 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 23:24:00 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 05:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 05:28:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，谷歌「IMO金牌」模型上线Gemini，数学家第一时间证明猜想</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02-3</link>
-      <description>&lt;![CDATA[刚刚，谷歌「IMO金牌」模型上线Gemini，数学家第一时间证明猜想]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 20:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02-3</guid>
+      <title>微软新研究：这40种工作最可能被AI取代</title>
+      <link>https://www.qbitai.com/2025/08/317748.html</link>
+      <description>&lt;![CDATA[微软新研究：这40种工作最可能被AI取代]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 02:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317748.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>6小时复刻AI IMO金牌成果，蚂蚁多智能体新进展已开源</title>
-      <link>https://www.qbitai.com/2025/08/317563.html</link>
-      <description>&lt;![CDATA[6小时复刻AI IMO金牌成果，蚂蚁多智能体新进展已开源]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317563.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GPT-5难产，外媒爆料：性能提升不大，OpenAI高管Slack上当众破防</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02-7</link>
-      <description>&lt;![CDATA[GPT-5难产，外媒爆料：性能提升不大，OpenAI高管Slack上当众破防]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 21:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>一个模型超了DeepSeek R1、V3，参数671B，成本不到350万美元</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02-2</link>
-      <description>&lt;![CDATA[一个模型超了DeepSeek R1、V3，参数671B，成本不到350万美元]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 20:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICCV 2025 | EPD-Solver:西湖大学发布并行加速扩散采样算法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02-4</link>
-      <description>&lt;![CDATA[ICCV 2025 | EPD-Solver:西湖大学发布并行加速扩散采样算法]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>多模态后训练反常识：长思维链SFT和RL的协同困境</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02</link>
-      <description>&lt;![CDATA[多模态后训练反常识：长思维链SFT和RL的协同困境]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>训练时间减半，性能不降反升！腾讯混元开源图像生成高效强化方案MixGRPO</title>
-      <link>https://www.qbitai.com/2025/08/317571.html</link>
-      <description>&lt;![CDATA[训练时间减半，性能不降反升！腾讯混元开源图像生成高效强化方案MixGRPO]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317571.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>通向L3的正确范式？理想i8全球首发VLA高阶辅助驾驶，我们帮你试了试</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02-5</link>
-      <description>&lt;![CDATA[通向L3的正确范式？理想i8全球首发VLA高阶辅助驾驶，我们帮你试了试]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>央企出手，让选大模型更容易了！中国移动发布MoMA聚合服务引擎</title>
-      <link>https://www.qbitai.com/2025/08/317521.html</link>
-      <description>&lt;![CDATA[央企出手，让选大模型更容易了！中国移动发布MoMA聚合服务引擎]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317521.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>19岁小哥伯克利辍学创业，获2800万美元融资，OpenAI投了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-02-6</link>
-      <description>&lt;![CDATA[19岁小哥伯克利辍学创业，获2800万美元融资，OpenAI投了]]&gt;</description>
-      <pubDate>Sat, 02 Aug 2025 21:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-02-6</guid>
+      <title>拒绝小扎6年15亿美元天价offer！网友：他是有多讨厌扎克伯格？？</title>
+      <link>https://www.qbitai.com/2025/08/317722.html</link>
+      <description>&lt;![CDATA[拒绝小扎6年15亿美元天价offer！网友：他是有多讨厌扎克伯格？？]]&gt;</description>
+      <pubDate>Sun, 03 Aug 2025 02:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317722.html</guid>
       <category>AI</category>
     </item>
   </channel>
