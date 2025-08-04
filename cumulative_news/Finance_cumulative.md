@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-04 05:37
+**最后更新时间**: 2025-08-04 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-04 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Mortgage rates plunge to 10-month low, opening window of opportunity for buyers](https://www.marketwatch.com/bulletins/redirect/go?g=af66141c-59bc-418d-ac24-bc916156b020&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 23:16
+
+#### [There’s no sure cure for the jobs report. Trump’s BLS firing may make it worse.](https://www.marketwatch.com/bulletins/redirect/go?g=6222b088-4d57-432a-b7a6-285b05f94bca&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 21:22
+
+#### [Palantir’s stock gains as ‘bombastic’ AI demand fuels an earnings milestone](https://www.marketwatch.com/bulletins/redirect/go?g=33f7c3b9-57f3-416d-b627-61dbbdd9f6aa&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 20:14
+
+#### [U.S. stocks end sharply higher, rebound from Friday selloff on rate-cut optimism](https://www.marketwatch.com/bulletins/redirect/go?g=06e9f321-b3d4-4a28-a82a-e9ac2122faed&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 20:02
+
+#### [It's tough to beat the market. That shouldn't scare you from active investing.](https://www.marketwatch.com/bulletins/redirect/go?g=f3bfa7c1-3e03-4ec3-8091-4ac56f21b308&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 19:42
+
+#### [Dow up 500 points as stocks rebound sharply from Friday's selloff — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=1492e66d-46a4-4ba4-8857-67bc04b5e5a2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 19:00
+
+#### [The case against a September rate cut — and why the Fed could wait until 2026](https://www.marketwatch.com/bulletins/redirect/go?g=c93a8fa2-ff39-45e7-9c85-7570ea7af605&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 18:20
+
+#### [Here’s how to know if the S&P 500 is in the midst of a boom or a bubble](https://www.marketwatch.com/bulletins/redirect/go?g=596aa891-a08f-4515-b231-8576ce1dcd40&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 16:29
+
+#### [Gold prices are soaring again. Here’s why a new record could be coming soon.](https://www.marketwatch.com/bulletins/redirect/go?g=d9ad52c4-48e2-4ca1-84a0-0b7b217f9743&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 14:59
+
+#### [AMD’s stock has more than doubled off its lows. Does that bring earnings risk?](https://www.marketwatch.com/bulletins/redirect/go?g=742cd695-0362-470e-b228-eaf4ca5be93a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 14:22
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hims & Hers sees ‘an exciting period of growth,’ but stock falls](https://www.marketwatch.com/story/hims-hers-sees-an-exciting-period-of-growth-but-stock-falls-3c8d9c43?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 22:51
+
+#### [‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?](https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 22:44
+
+#### [Denny’s offers mixed views on restaurant industry, as bigger rivals prepare to report earnings this week](https://www.marketwatch.com/story/dennys-offers-mixed-views-on-restaurant-industry-as-bigger-rivals-prepare-to-report-earnings-this-week-6ea89ee5?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 22:33
+
+#### [‘She lives alone’: My mother-in-law, 86, gets $1,300 in Social Security. Is that enough to live on?](https://www.marketwatch.com/story/she-lives-alone-my-mother-in-law-86-gets-1-300-in-social-security-is-that-enough-to-live-on-8c45dd3a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 22:32
+
+#### [There’s no sure cure for what ails the U.S. jobs report. Trump’s BLS firing could make matters worse.](https://www.marketwatch.com/story/theres-no-sure-cure-for-what-ails-the-u-s-jobs-report-trumps-bls-firing-could-make-matters-worse-86573d3a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 21:09
+
+#### [Trump’s budget law could widen the deficit by $718 billion more than previously estimated. Here’s why.](https://www.marketwatch.com/story/trumps-budget-law-could-widen-the-deficit-by-718-billion-more-than-previously-estimated-heres-why-523d28db?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 20:46
+
+#### [How a Biden-era law is helping this battery maker deal with Trump’s tariffs](https://www.marketwatch.com/story/how-a-biden-era-law-is-helping-this-battery-maker-deal-with-trumps-tariffs-5039ca14?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 20:41
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 Aug 2025 05:37:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 05:37:57 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 23:23:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures gain after Friday’s Wall Street selloff; oil falls as OPEC+ extends output boost</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-dip-after-fridays-drop-oil-falls-as-opec-extends-output-boost-18db0956?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures gain after Friday’s Wall Street selloff; oil falls as OPEC+ extends output boost]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 03:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-dip-after-fridays-drop-oil-falls-as-opec-extends-output-boost-18db0956?mod=mw_rss_topstories</guid>
+      <title>The case against a September rate cut — and why the Fed could wait until 2026</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=c93a8fa2-ff39-45e7-9c85-7570ea7af605&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[The case against a September rate cut — and why the Fed could wait until 2026]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=c93a8fa2-ff39-45e7-9c85-7570ea7af605&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>After 'dog days' of July, investors may not be ready for what comes next</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=bb36f2c1-505b-4e4e-945d-9748f2c66181&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[After 'dog days' of July, investors may not be ready for what comes next]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 01:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=bb36f2c1-505b-4e4e-945d-9748f2c66181&amp;mod=mw_rss_bulletins</guid>
+      <title>Trump’s budget law could widen the deficit by $718 billion more than previously estimated. Here’s why.</title>
+      <link>https://www.marketwatch.com/story/trumps-budget-law-could-widen-the-deficit-by-718-billion-more-than-previously-estimated-heres-why-523d28db?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump’s budget law could widen the deficit by $718 billion more than previously estimated. Here’s why.]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 20:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trumps-budget-law-could-widen-the-deficit-by-718-billion-more-than-previously-estimated-heres-why-523d28db?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Opinion: What happens if a court ruling strikes down Trump’s tariffs?</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=6c3cf033-6cbd-422b-bcc2-3baad644f2db&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Opinion: What happens if a court ruling strikes down Trump’s tariffs?]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=6c3cf033-6cbd-422b-bcc2-3baad644f2db&amp;mod=mw_rss_bulletins</guid>
+      <title>Here’s how to know if the S&amp;P 500 is in the midst of a boom or a bubble</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=596aa891-a08f-4515-b231-8576ce1dcd40&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Here’s how to know if the S&amp;P 500 is in the midst of a boom or a bubble]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=596aa891-a08f-4515-b231-8576ce1dcd40&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Stocks get hit as clouds gather — but history suggests it’s too soon to panic</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=398f7a15-9c5e-42bd-939b-50a19b043576&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Stocks get hit as clouds gather — but history suggests it’s too soon to panic]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 23:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=398f7a15-9c5e-42bd-939b-50a19b043576&amp;mod=mw_rss_bulletins</guid>
+      <title>Mortgage rates plunge to 10-month low, opening window of opportunity for buyers</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=af66141c-59bc-418d-ac24-bc916156b020&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Mortgage rates plunge to 10-month low, opening window of opportunity for buyers]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 23:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=af66141c-59bc-418d-ac24-bc916156b020&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold prices are soaring again. Here’s why a new record could be coming soon.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=d9ad52c4-48e2-4ca1-84a0-0b7b217f9743&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Gold prices are soaring again. Here’s why a new record could be coming soon.]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=d9ad52c4-48e2-4ca1-84a0-0b7b217f9743&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>It's tough to beat the market. That shouldn't scare you from active investing.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f3bfa7c1-3e03-4ec3-8091-4ac56f21b308&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[It's tough to beat the market. That shouldn't scare you from active investing.]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 19:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f3bfa7c1-3e03-4ec3-8091-4ac56f21b308&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Palantir’s stock gains as ‘bombastic’ AI demand fuels an earnings milestone</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=33f7c3b9-57f3-416d-b627-61dbbdd9f6aa&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Palantir’s stock gains as ‘bombastic’ AI demand fuels an earnings milestone]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 20:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=33f7c3b9-57f3-416d-b627-61dbbdd9f6aa&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AMD’s stock has more than doubled off its lows. Does that bring earnings risk?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=742cd695-0362-470e-b228-eaf4ca5be93a&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[AMD’s stock has more than doubled off its lows. Does that bring earnings risk?]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 14:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=742cd695-0362-470e-b228-eaf4ca5be93a&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>There’s no sure cure for what ails the U.S. jobs report. Trump’s BLS firing could make matters worse.</title>
+      <link>https://www.marketwatch.com/story/theres-no-sure-cure-for-what-ails-the-u-s-jobs-report-trumps-bls-firing-could-make-matters-worse-86573d3a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[There’s no sure cure for what ails the U.S. jobs report. Trump’s BLS firing could make matters worse.]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 21:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/theres-no-sure-cure-for-what-ails-the-u-s-jobs-report-trumps-bls-firing-could-make-matters-worse-86573d3a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How a Biden-era law is helping this battery maker deal with Trump’s tariffs</title>
+      <link>https://www.marketwatch.com/story/how-a-biden-era-law-is-helping-this-battery-maker-deal-with-trumps-tariffs-5039ca14?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[How a Biden-era law is helping this battery maker deal with Trump’s tariffs]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-a-biden-era-law-is-helping-this-battery-maker-deal-with-trumps-tariffs-5039ca14?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

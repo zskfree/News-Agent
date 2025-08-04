@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 Aug 2025 08:38:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 08:38:29 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 23:22:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【产业互联网周报】国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司，英伟达深夜回应；影石创始人刘靖康回应进入无人机市场，并谈及大疆</title>
-      <link>https://www.tmtpost.com/7647117.html</link>
-      <description>&lt;![CDATA[【产业互联网周报】国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司，英伟达深夜回应；影石创始人刘靖康回应进入无人机市场，并谈及大疆]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7647117.html</guid>
+      <title>马斯克挖不动的清华学霸，一年造出 “反内卷 AI”！0.027B参数硬刚思维链模型，推理完爆o3-mini-high</title>
+      <link>https://www.infoq.cn/article/1xL5UgVKQz5S2VV8R9La?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[马斯克挖不动的清华学霸，一年造出 “反内卷 AI”！0.027B参数硬刚思维链模型，推理完爆o3-mini-high]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1xL5UgVKQz5S2VV8R9La?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯混元开源4个小尺寸模型，主打Agent和长文</title>
-      <link>https://www.infoq.cn/article/pZU8D8gD3dNwqUHha7uK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯混元开源4个小尺寸模型，主打Agent和长文]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pZU8D8gD3dNwqUHha7uK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions</title>
+      <link>https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders</link>
+      <description>&lt;![CDATA[ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Xiaomi Debuts Open-Source Voice AI Model to Power Cars and Smart Homes</title>
-      <link>https://www.tmtpost.com/7647494.html</link>
-      <description>&lt;![CDATA[Xiaomi Debuts Open-Source Voice AI Model to Power Cars and Smart Homes]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7647494.html</guid>
+      <title>当AI成为“伴侣”，谁在靠“订阅制情感”吸金？</title>
+      <link>https://www.tmtpost.com/7647732.html</link>
+      <description>&lt;![CDATA[当AI成为“伴侣”，谁在靠“订阅制情感”吸金？]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 19:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647732.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agentic AI &amp; 软件开发在Amazon 的实践｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/HPb9IqtpQI92iQPJDOQJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agentic AI &amp; 软件开发在Amazon 的实践｜AICon 深圳]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HPb9IqtpQI92iQPJDOQJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从WAIC 2025透视银行AI三重门：走到哪？卡在哪？要去哪？</title>
+      <link>https://www.tmtpost.com/7647716.html</link>
+      <description>&lt;![CDATA[从WAIC 2025透视银行AI三重门：走到哪？卡在哪？要去哪？]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 19:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647716.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>游戏之外，芯片巨头不小心露出了第三增长曲线</title>
-      <link>http://www.geekpark.net/news/352258</link>
-      <description>&lt;![CDATA[游戏之外，芯片巨头不小心露出了第三增长曲线]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 13:42:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352258</guid>
+      <title>谁在往“DeepSeek们”的回答里塞广告？</title>
+      <link>https://www.tmtpost.com/7647715.html</link>
+      <description>&lt;![CDATA[谁在往“DeepSeek们”的回答里塞广告？]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 19:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647715.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开源基金会：使用Apache Iceberg和SparkSQL构建可复制的ML系统</title>
-      <link>https://www.infoq.cn/article/3kPK72zwaaixaMBulVY3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[开源基金会：使用Apache Iceberg和SparkSQL构建可复制的ML系统]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3kPK72zwaaixaMBulVY3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Sengled’s downfall shows the peril of relying on cloud connections for smart home control</title>
+      <link>https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting</link>
+      <description>&lt;![CDATA[Sengled’s downfall shows the peril of relying on cloud connections for smart home control]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>请回答 WAIC 2025 探展巡礼：京东的“数字员工”制造秘密</title>
-      <link>https://www.infoq.cn/video/8xfEQHXi6TlZ5wNMCd0E?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[请回答 WAIC 2025 探展巡礼：京东的“数字员工”制造秘密]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 13:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/8xfEQHXi6TlZ5wNMCd0E?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Amazon SQS公平队列：一种实现多租户弹性的新方法</title>
+      <link>https://www.infoq.cn/article/Ye7jbualpAFJBwzAYDAS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Amazon SQS公平队列：一种实现多租户弹性的新方法]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ye7jbualpAFJBwzAYDAS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Didi Relaunches Food Delivery in Brazil, Set to Face Off with Meituan in New Market Battle</title>
-      <link>https://www.tmtpost.com/7647360.html</link>
-      <description>&lt;![CDATA[Didi Relaunches Food Delivery in Brazil, Set to Face Off with Meituan in New Market Battle]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7647360.html</guid>
+      <title>A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet</title>
+      <link>https://www.wired.com/story/missing-hiker-ai-drone-recovery/</link>
+      <description>&lt;![CDATA[A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/missing-hiker-ai-drone-recovery/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>十年互联网发展，程序员如何面对时代的十字路口？|《十字路口》系列视频</title>
-      <link>https://www.infoq.cn/video/SUccZLDo09pkWo4rv3RI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[十年互联网发展，程序员如何面对时代的十字路口？|《十字路口》系列视频]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/SUccZLDo09pkWo4rv3RI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>百度推出的无代码工具「秒哒」到底怎么样？</title>
+      <link>https://www.infoq.cn/article/Zd5v6eRF3mb7PPcAXK7I?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百度推出的无代码工具「秒哒」到底怎么样？]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Zd5v6eRF3mb7PPcAXK7I?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【生态环境周观察】特斯拉与LG新能源达成合作；宁德时代发布半年报；全球最大单体绿氨装置投产</title>
-      <link>https://www.tmtpost.com/7646899.html</link>
-      <description>&lt;![CDATA[【生态环境周观察】特斯拉与LG新能源达成合作；宁德时代发布半年报；全球最大单体绿氨装置投产]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7646899.html</guid>
+      <title>廉价版Model Y，救不了特斯拉</title>
+      <link>http://www.geekpark.net/news/352318</link>
+      <description>&lt;![CDATA[廉价版Model Y，救不了特斯拉]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 23:02:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352318</guid>
       <category>Technology</category>
     </item>
   </channel>

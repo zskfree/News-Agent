@@ -1,7 +1,135 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-04 08:38
+**最后更新时间**: 2025-08-04 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-04 23:22)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [廉价版Model Y，救不了特斯拉](http://www.geekpark.net/news/352318)
+**发布时间**: 2025-08-04 23:02
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+**发布时间**: 2025-08-04 22:37
+
+#### [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://www.theverge.com/news/718692/ign-entertainment-layoffs-creators-guild-ziff-davis)
+**发布时间**: 2025-08-04 22:32
+
+#### [Sengled’s downfall shows the peril of relying on cloud connections for smart home control](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)
+**发布时间**: 2025-08-04 21:20
+
+#### [Valve founder Gabe Newell just purchased a superyacht company](https://www.theverge.com/news/718639/gabe-newell-valve-superyacht-oceanco)
+**发布时间**: 2025-08-04 21:20
+
+#### [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+**发布时间**: 2025-08-04 20:26
+
+#### [Amazon&#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)
+**发布时间**: 2025-08-04 20:25
+
+#### [ChatGPT will ‘better detect’ mental distress after reports of it feeding people&#8217;s delusions](https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders)
+**发布时间**: 2025-08-04 19:36
+
+#### [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+**发布时间**: 2025-08-04 18:01
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [理想汽车应该重塑新理想](https://www.tmtpost.com/7647189.html)
+**发布时间**: 2025-08-04 19:50
+
+#### [民营企业的家族传承路径](https://www.tmtpost.com/7646937.html)
+**发布时间**: 2025-08-04 19:50
+
+#### [宁波“并购王”王剑峰身家较高点下跌41.6亿元，旗下上市公司业绩面临挑战](https://www.tmtpost.com/7646785.html)
+**发布时间**: 2025-08-04 19:50
+
+#### [贵阳咖啡摘冠后，贵州菜为何能站稳北上广？](https://www.tmtpost.com/7647124.html)
+**发布时间**: 2025-08-04 19:50
+
+#### [4300亿美元“灰飞烟灭”，全球“药王”，跌下神坛](https://www.tmtpost.com/7646997.html)
+**发布时间**: 2025-08-04 19:50
+
+#### [HOKA失速VS昂跑狂奔：中产跑鞋战场格局生变](https://www.tmtpost.com/7647133.html)
+**发布时间**: 2025-08-04 19:49
+
+#### [京东下锅，美团上桌：巨头们都想重做一顿饭](https://www.tmtpost.com/7647510.html)
+**发布时间**: 2025-08-04 19:49
+
+#### [从WAIC 2025透视银行AI三重门：走到哪？卡在哪？要去哪？](https://www.tmtpost.com/7647716.html)
+**发布时间**: 2025-08-04 19:49
+
+#### [游戏行业哪些岗位容易被“优化”？](https://www.tmtpost.com/7647166.html)
+**发布时间**: 2025-08-04 19:30
+
+#### [中国音乐市场之困](https://www.tmtpost.com/7647339.html)
+**发布时间**: 2025-08-04 19:30
+
+#### [中国“海洋公园第一股”大连圣亚内斗终结](https://www.tmtpost.com/7647382.html)
+**发布时间**: 2025-08-04 19:30
+
+#### [现制咖啡2025：规模化为王，低价不能停](https://www.tmtpost.com/7647400.html)
+**发布时间**: 2025-08-04 19:30
+
+#### [谁在往“DeepSeek们”的回答里塞广告？](https://www.tmtpost.com/7647715.html)
+**发布时间**: 2025-08-04 19:30
+
+#### [当AI成为“伴侣”，谁在靠“订阅制情感”吸金？](https://www.tmtpost.com/7647732.html)
+**发布时间**: 2025-08-04 19:30
+
+#### [行业降温，加盟成本高，王牌单品缺失……爷爷不泡茶凭什么冲刺5000店？](https://www.tmtpost.com/7647787.html)
+**发布时间**: 2025-08-04 19:29
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [百度推出的无代码工具「秒哒」到底怎么样？](https://www.infoq.cn/article/Zd5v6eRF3mb7PPcAXK7I?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 18:48
+
+#### [马斯克挖不动的清华学霸，一年造出 “反内卷 AI”！0.027B参数硬刚思维链模型，推理完爆o3-mini-high](https://www.infoq.cn/article/1xL5UgVKQz5S2VV8R9La?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 18:24
+
+#### [Amazon SQS公平队列：一种实现多租户弹性的新方法](https://www.infoq.cn/article/Ye7jbualpAFJBwzAYDAS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/101576)
+**发布时间**: 2025-08-04 18:08
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [赵露思为啥当众发飙，网红艺人手撕经纪公司能赢吗？](http://www.huxiu.com/article/4650224.html?f=wangzhan)
+**发布时间**: 2025-08-04 17:48
+
+#### [音乐产业的黑色幽默：学的人比听的人多](http://www.huxiu.com/article/4652464.html?f=wangzhan)
+**发布时间**: 2025-08-04 15:35
+
+#### [比海底捞还贵，巴奴毛肚火锅凭啥那么火？](http://www.huxiu.com/article/4648470.html?f=wangzhan)
+**发布时间**: 2025-08-04 14:24
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)
+**发布时间**: 2025-08-04 15:43
+
+#### [8 Best Handheld Gaming Consoles (2025), Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)
+**发布时间**: 2025-08-04 14:00
+
+#### [What’s Inside the Tiny Miracle Food Pouches That Can Save the Lives of Starving Gazans](https://www.wired.com/story/whats-inside-the-tiny-miracle-food-pouches-that-can-save-the-lives-of-starving-gazans/)
+**发布时间**: 2025-08-04 11:00
+
+#### [The US Military Is Raking in Millions From On-Base Slot Machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
+**发布时间**: 2025-08-04 10:30
+
+#### [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)
+**发布时间**: 2025-08-04 10:02
+
+#### [A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet](https://www.wired.com/story/missing-hiker-ai-drone-recovery/)
+**发布时间**: 2025-08-04 09:30
 
 ---
 
