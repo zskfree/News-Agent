@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 Aug 2025 05:37:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 05:37:35 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 08:38:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 08:38:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>白宫发布国家级AI战略，聚焦创新、基础设施和全球领导力</title>
-      <link>https://www.infoq.cn/article/SzUqZmxytjLgDXPCkDKS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[白宫发布国家级AI战略，聚焦创新、基础设施和全球领导力]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SzUqZmxytjLgDXPCkDKS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【产业互联网周报】国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司，英伟达深夜回应；影石创始人刘靖康回应进入无人机市场，并谈及大疆</title>
+      <link>https://www.tmtpost.com/7647117.html</link>
+      <description>&lt;![CDATA[【产业互联网周报】国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司，英伟达深夜回应；影石创始人刘靖康回应进入无人机市场，并谈及大疆]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647117.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果分享iOS 26即将推出的AI基础模型的细节</title>
-      <link>https://www.infoq.cn/article/ZPMMEbTogFOS1CyAkTRI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[苹果分享iOS 26即将推出的AI基础模型的细节]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZPMMEbTogFOS1CyAkTRI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯混元开源4个小尺寸模型，主打Agent和长文</title>
+      <link>https://www.infoq.cn/article/pZU8D8gD3dNwqUHha7uK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯混元开源4个小尺寸模型，主打Agent和长文]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pZU8D8gD3dNwqUHha7uK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从工具到协作体，Agent 如何重构全球创作范式｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/Kzzw1oK8sBDdaNIsS4dM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从工具到协作体，Agent 如何重构全球创作范式｜AICon 深圳]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Kzzw1oK8sBDdaNIsS4dM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Xiaomi Debuts Open-Source Voice AI Model to Power Cars and Smart Homes</title>
+      <link>https://www.tmtpost.com/7647494.html</link>
+      <description>&lt;![CDATA[Xiaomi Debuts Open-Source Voice AI Model to Power Cars and Smart Homes]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647494.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WAIC2025：我们离AI时代的iPhone还有多远？</title>
-      <link>https://www.tmtpost.com/7646880.html</link>
-      <description>&lt;![CDATA[WAIC2025：我们离AI时代的iPhone还有多远？]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7646880.html</guid>
+      <title>Agentic AI &amp; 软件开发在Amazon 的实践｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/HPb9IqtpQI92iQPJDOQJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agentic AI &amp; 软件开发在Amazon 的实践｜AICon 深圳]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HPb9IqtpQI92iQPJDOQJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>a16z ：AI 投资不再看模型性能；中国汽研、理想汽车双双回应 i8 测试争议；万事达否认向平台施压下架成人游戏</title>
-      <link>http://www.geekpark.net/news/352269</link>
-      <description>&lt;![CDATA[a16z ：AI 投资不再看模型性能；中国汽研、理想汽车双双回应 i8 测试争议；万事达否认向平台施压下架成人游戏]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352269</guid>
+      <title>游戏之外，芯片巨头不小心露出了第三增长曲线</title>
+      <link>http://www.geekpark.net/news/352258</link>
+      <description>&lt;![CDATA[游戏之外，芯片巨头不小心露出了第三增长曲线]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352258</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5发布前，Anthropic对OpenAI封锁API；特斯拉被外媒曝拖欠账款致两小企破产；人均在职7个月？字节回应｜AI周报</title>
-      <link>https://www.infoq.cn/article/cAsIPAlQTXvC8FwUHC13?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT-5发布前，Anthropic对OpenAI封锁API；特斯拉被外媒曝拖欠账款致两小企破产；人均在职7个月？字节回应｜AI周报]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 09:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cAsIPAlQTXvC8FwUHC13?utm_source=rss&amp;utm_medium=article</guid>
+      <title>开源基金会：使用Apache Iceberg和SparkSQL构建可复制的ML系统</title>
+      <link>https://www.infoq.cn/article/3kPK72zwaaixaMBulVY3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源基金会：使用Apache Iceberg和SparkSQL构建可复制的ML系统]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3kPK72zwaaixaMBulVY3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>年度最大黑马出现了？一个为讲PPT临时造的语言，热度碾压Go、Python，直逼Rust，Stack Overflow特别点赞！</title>
-      <link>https://www.infoq.cn/article/BPGK2mVitKeYysIiq9UV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[年度最大黑马出现了？一个为讲PPT临时造的语言，热度碾压Go、Python，直逼Rust，Stack Overflow特别点赞！]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BPGK2mVitKeYysIiq9UV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>请回答 WAIC 2025 探展巡礼：京东的“数字员工”制造秘密</title>
+      <link>https://www.infoq.cn/video/8xfEQHXi6TlZ5wNMCd0E?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[请回答 WAIC 2025 探展巡礼：京东的“数字员工”制造秘密]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 13:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/8xfEQHXi6TlZ5wNMCd0E?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>此起彼伏的烧舱试验背后，是储能企业的集体安全焦虑……</title>
-      <link>https://www.tmtpost.com/7647011.html</link>
-      <description>&lt;![CDATA[此起彼伏的烧舱试验背后，是储能企业的集体安全焦虑……]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7647011.html</guid>
+      <title>Didi Relaunches Food Delivery in Brazil, Set to Face Off with Meituan in New Market Battle</title>
+      <link>https://www.tmtpost.com/7647360.html</link>
+      <description>&lt;![CDATA[Didi Relaunches Food Delivery in Brazil, Set to Face Off with Meituan in New Market Battle]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647360.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Pharma Unicorn METiS Technologies Raises $55 Million to Accelerate Nano-Delivery Platform and CGT Push</title>
-      <link>https://www.tmtpost.com/7647222.html</link>
-      <description>&lt;![CDATA[AI Pharma Unicorn METiS Technologies Raises $55 Million to Accelerate Nano-Delivery Platform and CGT Push]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7647222.html</guid>
+      <title>十年互联网发展，程序员如何面对时代的十字路口？|《十字路口》系列视频</title>
+      <link>https://www.infoq.cn/video/SUccZLDo09pkWo4rv3RI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[十年互联网发展，程序员如何面对时代的十字路口？|《十字路口》系列视频]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/SUccZLDo09pkWo4rv3RI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新能源业务落地15个智能体，百亿市值上市公司的智能体落地实践 | 创新场景</title>
-      <link>https://www.tmtpost.com/7646484.html</link>
-      <description>&lt;![CDATA[新能源业务落地15个智能体，百亿市值上市公司的智能体落地实践 | 创新场景]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 09:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7646484.html</guid>
+      <title>【生态环境周观察】特斯拉与LG新能源达成合作；宁德时代发布半年报；全球最大单体绿氨装置投产</title>
+      <link>https://www.tmtpost.com/7646899.html</link>
+      <description>&lt;![CDATA[【生态环境周观察】特斯拉与LG新能源达成合作；宁德时代发布半年报；全球最大单体绿氨装置投产]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7646899.html</guid>
       <category>Technology</category>
     </item>
   </channel>

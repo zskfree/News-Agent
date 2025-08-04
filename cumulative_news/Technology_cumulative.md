@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-04 05:37
+**最后更新时间**: 2025-08-04 08:38
+
+---
+
+## 🆕 最新更新 (2025-08-04 08:38)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [探秘史前海洋，火山引擎 x 北京天卓视创带你沉浸式“摸鱼”！](https://www.infoq.cn/article/y8ZBweKPgFwhFvfDWV8m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 16:18
+
+#### [腾讯混元开源4个小尺寸模型，主打Agent和长文](https://www.infoq.cn/article/pZU8D8gD3dNwqUHha7uK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 15:50
+
+#### [开源基金会：使用Apache Iceberg和SparkSQL构建可复制的ML系统](https://www.infoq.cn/article/3kPK72zwaaixaMBulVY3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 15:30
+
+#### [Agentic AI & 软件开发在Amazon 的实践｜AICon 深圳](https://www.infoq.cn/article/HPb9IqtpQI92iQPJDOQJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 15:00
+
+#### [十年互联网发展，程序员如何面对时代的十字路口？|《十字路口》系列视频](https://www.infoq.cn/video/SUccZLDo09pkWo4rv3RI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 14:12
+
+#### [请回答 WAIC 2025 探展巡礼：京东的“数字员工”制造秘密](https://www.infoq.cn/video/8xfEQHXi6TlZ5wNMCd0E?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 13:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Xiaomi Debuts Open-Source Voice AI Model to Power Cars and Smart Homes](https://www.tmtpost.com/7647494.html)
+**发布时间**: 2025-08-04 15:53
+
+#### [吴声2025年度演讲：场景革命十年，哲学生活方式到来](https://www.tmtpost.com/7647252.html)
+**发布时间**: 2025-08-04 15:41
+
+#### [8.4亿止血、8.8亿下注：东方雨虹一边“以资抵债”清收债务一边加速出海](https://www.tmtpost.com/7647327.html)
+**发布时间**: 2025-08-04 15:33
+
+#### [8月4日A股分析：沪指涨0.66%报3583.31点，两市合计成交14985.5亿元，资金流入最多的行业板块为银行](https://www.tmtpost.com/7647389.html)
+**发布时间**: 2025-08-04 15:17
+
+#### [【产业互联网周报】国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司，英伟达深夜回应；影石创始人刘靖康回应进入无人机市场，并谈及大疆](https://www.tmtpost.com/7647117.html)
+**发布时间**: 2025-08-04 15:05
+
+#### [【生态环境周观察】特斯拉与LG新能源达成合作；宁德时代发布半年报；全球最大单体绿氨装置投产](https://www.tmtpost.com/7646899.html)
+**发布时间**: 2025-08-04 14:49
+
+#### [Didi Relaunches Food Delivery in Brazil, Set to Face Off with Meituan in New Market Battle](https://www.tmtpost.com/7647360.html)
+**发布时间**: 2025-08-04 14:41
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [是的，在上海，我看见到处是好消息](http://www.geekpark.net/news/352306)
+**发布时间**: 2025-08-04 15:21
+
+#### [游戏之外，芯片巨头不小心露出了第三增长曲线](http://www.geekpark.net/news/352258)
+**发布时间**: 2025-08-04 13:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [守护孩子的天马行空：美术专业就能做好幼儿美育启蒙吗？](https://sspai.com/post/101488)
+**发布时间**: 2025-08-04 15:00
 
 ---
 

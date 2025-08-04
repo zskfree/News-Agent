@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 Aug 2025 05:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 05:37:57 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 08:38:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>奥特曼首晒GPT-5实测！被曝使用超级对齐团队“遗产”</title>
-      <link>https://www.qbitai.com/2025/08/317970.html</link>
-      <description>&lt;![CDATA[奥特曼首晒GPT-5实测！被曝使用超级对齐团队“遗产”]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 03:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317970.html</guid>
+      <title>刚刚，全球首个集成云端Agent团队的IDE登场，项目级开发「全程全自动」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04-7</link>
+      <description>&lt;![CDATA[刚刚，全球首个集成云端Agent团队的IDE登场，项目级开发「全程全自动」]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克：研究者不存在了，只有工程师；LeCun：大错特错</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-04</link>
-      <description>&lt;![CDATA[马斯克：研究者不存在了，只有工程师；LeCun：大错特错]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04</guid>
+      <title>机器人手画圆圈，怎么就成为了一大难题了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04-6</link>
+      <description>&lt;![CDATA[机器人手画圆圈，怎么就成为了一大难题了？]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning</title>
-      <link>https://arxiv.org/abs/2508.00271</link>
-      <description>&lt;![CDATA[MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00271</guid>
+      <title>在WAIC耳朵听出茧子的「智能体」，是时候系统学一下了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04-5</link>
+      <description>&lt;![CDATA[在WAIC耳朵听出茧子的「智能体」，是时候系统学一下了]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Thinking Machines: Mathematical Reasoning in the Age of LLMs</title>
-      <link>https://arxiv.org/abs/2508.00459</link>
-      <description>&lt;![CDATA[Thinking Machines: Mathematical Reasoning in the Age of LLMs]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00459</guid>
+      <title>ACM MM 2025 | 小红书AIGC团队提出风格迁移加速算法STD</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04-4</link>
+      <description>&lt;![CDATA[ACM MM 2025 | 小红书AIGC团队提出风格迁移加速算法STD]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Generative Logic: A New Computer Architecture for Deterministic Reasoning and Knowledge Generation</title>
-      <link>https://arxiv.org/abs/2508.00017</link>
-      <description>&lt;![CDATA[Generative Logic: A New Computer Architecture for Deterministic Reasoning and Knowledge Generation]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00017</guid>
+      <title>瞄准化学键，大卫·贝克团队提出通用蛋白质架构设计新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04-2</link>
+      <description>&lt;![CDATA[瞄准化学键，大卫·贝克团队提出通用蛋白质架构设计新范式]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training</title>
-      <link>https://arxiv.org/abs/2508.00414</link>
-      <description>&lt;![CDATA[Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00414</guid>
+      <title>Nature丨从基因组到田间，华中农业大学、中国科学院等提出融合生物技术与AI的育种新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04-3</link>
+      <description>&lt;![CDATA[Nature丨从基因组到田间，华中农业大学、中国科学院等提出融合生物技术与AI的育种新范式]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Rethinking Evidence Hierarchies in Medical Language Benchmarks: A Critical Evaluation of HealthBench</title>
-      <link>https://arxiv.org/abs/2508.00081</link>
-      <description>&lt;![CDATA[Rethinking Evidence Hierarchies in Medical Language Benchmarks: A Critical Evaluation of HealthBench]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00081</guid>
+      <title>离谱！增程车纯电续航450km+，快赶上Model Y了</title>
+      <link>https://www.qbitai.com/2025/08/318041.html</link>
+      <description>&lt;![CDATA[离谱！增程车纯电续航450km+，快赶上Model Y了]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 06:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318041.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>R1-ACT: Efficient Reasoning Model Safety Alignment by Activating Safety Knowledge</title>
-      <link>https://arxiv.org/abs/2508.00324</link>
-      <description>&lt;![CDATA[R1-ACT: Efficient Reasoning Model Safety Alignment by Activating Safety Knowledge]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00324</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Survey on Code Generation with LLM-based Agents</title>
-      <link>https://arxiv.org/abs/2508.00083</link>
-      <description>&lt;![CDATA[A Survey on Code Generation with LLM-based Agents]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00083</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Co-Producing AI: Toward an Augmented, Participatory Lifecycle</title>
-      <link>https://arxiv.org/abs/2508.00138</link>
-      <description>&lt;![CDATA[Co-Producing AI: Toward an Augmented, Participatory Lifecycle]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00138</guid>
+      <title>特斯拉在美被判17亿赔偿！Autopilot致命事故，车企和车主都有责任</title>
+      <link>https://www.qbitai.com/2025/08/318023.html</link>
+      <description>&lt;![CDATA[特斯拉在美被判17亿赔偿！Autopilot致命事故，车企和车主都有责任]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 06:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318023.html</guid>
       <category>AI</category>
     </item>
   </channel>

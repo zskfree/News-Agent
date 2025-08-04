@@ -9102,6 +9102,54 @@
         "link": "https://arxiv.org/abs/2508.00103",
         "published_date": "Mon, 04 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-04T05:37:35.718199"
+      },
+      "25c8532355acc168b457e98e0de102ec62d617b855a9e3e552a7494c16efa8eb": {
+        "title": "刚刚，全球首个集成云端Agent团队的IDE登场，项目级开发「全程全自动」",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-04-7",
+        "published_date": "Mon, 04 Aug 2025 16:04:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.267099"
+      },
+      "012daec596df6c133e4d7904a95c0369d09a10e04708428c5a94a833fe03405a": {
+        "title": "机器人手画圆圈，怎么就成为了一大难题了？",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-04-6",
+        "published_date": "Mon, 04 Aug 2025 15:51:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.267222"
+      },
+      "fcd39a3dba7e4dd0de65b4409a20dcc90f29e7fcd256b144950470331f315b88": {
+        "title": "在WAIC耳朵听出茧子的「智能体」，是时候系统学一下了",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-04-5",
+        "published_date": "Mon, 04 Aug 2025 15:45:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.267402"
+      },
+      "a504ef8473fc8fdbf376ece4c68777921d92d43b824f731fbb52aac8d0e6c6a9": {
+        "title": "ACM MM 2025 | 小红书AIGC团队提出风格迁移加速算法STD",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-04-4",
+        "published_date": "Mon, 04 Aug 2025 15:27:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.267615"
+      },
+      "a391c8728cf607296c092407b8d02e372915005cac1030e93e6a5aeddb87ddb1": {
+        "title": "瞄准化学键，大卫·贝克团队提出通用蛋白质架构设计新范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-04-2",
+        "published_date": "Mon, 04 Aug 2025 14:23:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.267850"
+      },
+      "4ac4a8effbaf827b9b625f9a82ff748f7f9af6bf6f8f4e8c3e61a6c597a6287f": {
+        "title": "Nature丨从基因组到田间，华中农业大学、中国科学院等提出融合生物技术与AI的育种新范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-04-3",
+        "published_date": "Mon, 04 Aug 2025 10:24:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.268287"
+      },
+      "27788d13d61dd4942c8b87c8c860a82de2f02bcef8f0a7d46794b707898ff506": {
+        "title": "离谱！增程车纯电续航450km+，快赶上Model Y了",
+        "link": "https://www.qbitai.com/2025/08/318041.html",
+        "published_date": "Mon, 04 Aug 2025 06:36:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.268641"
+      },
+      "dc1059b39c26d30afee7dddd19fe240562643479b2d2c7a6a254c88ec20fa253": {
+        "title": "特斯拉在美被判17亿赔偿！Autopilot致命事故，车企和车主都有责任",
+        "link": "https://www.qbitai.com/2025/08/318023.html",
+        "published_date": "Mon, 04 Aug 2025 06:29:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.269125"
       }
     },
     "Technology": {
@@ -23114,6 +23162,102 @@
         "link": "http://www.geekpark.net/news/352269",
         "published_date": "Mon, 04 Aug 2025 08:31:00 GMT",
         "first_seen": "2025-08-04T05:37:35.391211"
+      },
+      "a387aef760b85476cc616bc73c056ca68f74215d398afa0c2d63b57ae3a650c7": {
+        "title": "探秘史前海洋，火山引擎 x 北京天卓视创带你沉浸式“摸鱼”！",
+        "link": "https://www.infoq.cn/article/y8ZBweKPgFwhFvfDWV8m?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 Aug 2025 16:18:00 GMT",
+        "first_seen": "2025-08-04T08:38:11.778712"
+      },
+      "3adfe1853034409010d431e032482c879a6a46c901a67bea9c541dcbe3496223": {
+        "title": "腾讯混元开源4个小尺寸模型，主打Agent和长文",
+        "link": "https://www.infoq.cn/article/pZU8D8gD3dNwqUHha7uK?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 Aug 2025 15:50:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221658"
+      },
+      "6ed27c83fec2165e07ac27150c749681098b6ef058233019318d91ce3742f698": {
+        "title": "开源基金会：使用Apache Iceberg和SparkSQL构建可复制的ML系统",
+        "link": "https://www.infoq.cn/article/3kPK72zwaaixaMBulVY3?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 Aug 2025 15:30:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221704"
+      },
+      "75a487c816b03b9bb5870a117d8a2fc767e0bcbbeaf82720485df0ddaa6085c2": {
+        "title": "Agentic AI & 软件开发在Amazon 的实践｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/HPb9IqtpQI92iQPJDOQJ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221685"
+      },
+      "718870ffde655ca7f2767c12a30fc8dfe47b291b9d6a5784b696cd4ac8c4be39": {
+        "title": "十年互联网发展，程序员如何面对时代的十字路口？|《十字路口》系列视频",
+        "link": "https://www.infoq.cn/video/SUccZLDo09pkWo4rv3RI?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 Aug 2025 14:12:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221736"
+      },
+      "c3a52da4561af9c448fdde638a78e72a02386195c6cee46a098f13f3ed35e6c2": {
+        "title": "请回答 WAIC 2025 探展巡礼：京东的“数字员工”制造秘密",
+        "link": "https://www.infoq.cn/video/8xfEQHXi6TlZ5wNMCd0E?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 Aug 2025 13:49:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221716"
+      },
+      "059b601ef70e1c682019c0b080021be85b0a758c6b8cf78f8c9bcbf0a2bda6a2": {
+        "title": "Xiaomi Debuts Open-Source Voice AI Model to Power Cars and Smart Homes",
+        "link": "https://www.tmtpost.com/7647494.html",
+        "published_date": "Mon, 04 Aug 2025 15:53:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221672"
+      },
+      "456d3e85ab784e817e0131f50e86bf6f367d035940d4882cea45ea02df8eaafe": {
+        "title": "吴声2025年度演讲：场景革命十年，哲学生活方式到来",
+        "link": "https://www.tmtpost.com/7647252.html",
+        "published_date": "Mon, 04 Aug 2025 15:41:00 GMT",
+        "first_seen": "2025-08-04T08:38:11.781214"
+      },
+      "288d7b8961015c5f5994c8f98bf0aa9951951a3b5f8a6fc23e71b15464879c03": {
+        "title": "8.4亿止血、8.8亿下注：东方雨虹一边“以资抵债”清收债务一边加速出海",
+        "link": "https://www.tmtpost.com/7647327.html",
+        "published_date": "Mon, 04 Aug 2025 15:33:00 GMT",
+        "first_seen": "2025-08-04T08:38:11.781922"
+      },
+      "5b3dc81852d92261a0ba5f62950ebd317fd0fc02698f5fbf2ecb8a351206a995": {
+        "title": "8月4日A股分析：沪指涨0.66%报3583.31点，两市合计成交14985.5亿元，资金流入最多的行业板块为银行",
+        "link": "https://www.tmtpost.com/7647389.html",
+        "published_date": "Mon, 04 Aug 2025 15:17:00 GMT",
+        "first_seen": "2025-08-04T08:38:11.783031"
+      },
+      "c5caa2f1612d6828e8948342e2430971a6d31f07067053e509bc5c67148d59fb": {
+        "title": "【产业互联网周报】国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司，英伟达深夜回应；影石创始人刘靖康回应进入无人机市场，并谈及大疆",
+        "link": "https://www.tmtpost.com/7647117.html",
+        "published_date": "Mon, 04 Aug 2025 15:05:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221638"
+      },
+      "22c382735118e47af831f7e87fb1fc59453cea3b1ef3324e0302a263d28104d5": {
+        "title": "【生态环境周观察】特斯拉与LG新能源达成合作；宁德时代发布半年报；全球最大单体绿氨装置投产",
+        "link": "https://www.tmtpost.com/7646899.html",
+        "published_date": "Mon, 04 Aug 2025 14:49:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221746"
+      },
+      "ea7229b38fdd71e5978ad773de0d200b57e155516dc9c627501b3d497548290e": {
+        "title": "Didi Relaunches Food Delivery in Brazil, Set to Face Off with Meituan in New Market Battle",
+        "link": "https://www.tmtpost.com/7647360.html",
+        "published_date": "Mon, 04 Aug 2025 14:41:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221726"
+      },
+      "a3144a41012650735195bf9782f51ea28c5b437c679dae7404c15430a84cad21": {
+        "title": "是的，在上海，我看见到处是好消息",
+        "link": "http://www.geekpark.net/news/352306",
+        "published_date": "Mon, 04 Aug 2025 15:21:00 GMT",
+        "first_seen": "2025-08-04T08:38:11.787652"
+      },
+      "96b41a437bd6c1d663ba83eec8441bd9fc3764ae514f2b03b7139b09dfaa3bab": {
+        "title": "游戏之外，芯片巨头不小心露出了第三增长曲线",
+        "link": "http://www.geekpark.net/news/352258",
+        "published_date": "Mon, 04 Aug 2025 13:42:00 GMT",
+        "first_seen": "2025-08-04T08:38:29.221694"
+      },
+      "58cf01e20ee25008806da37419ad7641d39201d0aebe61eb3ca16420d90f3bad": {
+        "title": "守护孩子的天马行空：美术专业就能做好幼儿美育启蒙吗？",
+        "link": "https://sspai.com/post/101488",
+        "published_date": "Mon, 04 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-04T08:38:11.788963"
       }
     },
     "Finance": {
@@ -26288,8 +26432,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-04T05:37:57.783648",
-    "Technology": "2025-08-04T05:37:35.402136",
-    "Finance": "2025-08-04T05:37:57.801221"
+    "AI": "2025-08-04T08:38:29.276350",
+    "Technology": "2025-08-04T08:38:29.232568",
+    "Finance": "2025-08-04T08:38:29.290893"
   }
 }
