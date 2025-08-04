@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-03 23:22
+**最后更新时间**: 2025-08-04 05:37
+
+---
+
+## 🆕 最新更新 (2025-08-04 05:37)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从工具到协作体，Agent 如何重构全球创作范式｜AICon 深圳](https://www.infoq.cn/article/Kzzw1oK8sBDdaNIsS4dM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 13:00
+
+#### [白宫发布国家级AI战略，聚焦创新、基础设施和全球领导力](https://www.infoq.cn/article/SzUqZmxytjLgDXPCkDKS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 13:00
+
+#### [苹果分享iOS 26即将推出的AI基础模型的细节](https://www.infoq.cn/article/ZPMMEbTogFOS1CyAkTRI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 12:00
+
+#### [Storybook 发布 v9 版本，测试支持能力显著增强](https://www.infoq.cn/article/JCK7Pb5EYpO2iXMQzwHN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 11:05
+
+#### [火山引擎 AI 数据湖服务架构师琚克俭确认出席 AICon 深圳，分享LAS Daft 多模态数据引擎的架构与应用](https://www.infoq.cn/article/m0IgKjMzEKq7BXUtuThr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 10:41
+
+#### [GPT-5发布前，Anthropic对OpenAI封锁API；特斯拉被外媒曝拖欠账款致两小企破产；人均在职7个月？字节回应｜AI周报](https://www.infoq.cn/article/cAsIPAlQTXvC8FwUHC13?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 09:36
+
+#### [年度最大黑马出现了？一个为讲PPT临时造的语言，热度碾压Go、Python，直逼Rust，Stack Overflow特别点赞！](https://www.infoq.cn/article/BPGK2mVitKeYysIiq9UV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-04 09:34
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI Pharma Unicorn METiS Technologies Raises $55 Million to Accelerate Nano-Delivery Platform and CGT Push](https://www.tmtpost.com/7647222.html)
+**发布时间**: 2025-08-04 12:15
+
+#### [此起彼伏的烧舱试验背后，是储能企业的集体安全焦虑……](https://www.tmtpost.com/7647011.html)
+**发布时间**: 2025-08-04 10:51
+
+#### [12万元配激光雷达，零跑越卷越便宜了](https://www.tmtpost.com/7647050.html)
+**发布时间**: 2025-08-04 10:43
+
+#### [估值超350亿，星巴克中国确认要卖了](https://www.tmtpost.com/7647022.html)
+**发布时间**: 2025-08-04 10:25
+
+#### [“逃离”外卖大战](https://www.tmtpost.com/7646871.html)
+**发布时间**: 2025-08-04 10:15
+
+#### [WAIC2025：我们离AI时代的iPhone还有多远？](https://www.tmtpost.com/7646880.html)
+**发布时间**: 2025-08-04 10:15
+
+#### [“AI制药四小龙”剂泰科技完成4亿D轮融资，总募资额超20亿](https://www.tmtpost.com/7646970.html)
+**发布时间**: 2025-08-04 09:48
+
+#### [新能源业务落地15个智能体，百亿市值上市公司的智能体落地实践 | 创新场景](https://www.tmtpost.com/7646484.html)
+**发布时间**: 2025-08-04 09:43
+
+#### [ChinaJoy 2025: From Gaming Phones to AI Glasses, China's Digital Carnival Becomes a Tech Showcase](https://www.tmtpost.com/7646979.html)
+**发布时间**: 2025-08-04 09:40
+
+#### [特斯拉卖车，有Model Y就行了](https://www.tmtpost.com/7646874.html)
+**发布时间**: 2025-08-04 09:01
+
+#### [《封神》未封神，北京文化难翻身](https://www.tmtpost.com/7646883.html)
+**发布时间**: 2025-08-04 09:01
+
+#### [艾力斯的大单品依赖症](https://www.tmtpost.com/7646859.html)
+**发布时间**: 2025-08-04 08:47
+
+#### [科股早知道：人形机器人迅速发展将为该领域带来更广阔的发展空间](https://www.tmtpost.com/7646818.html)
+**发布时间**: 2025-08-04 08:14
+
+#### [【钛晨报】事关国补后续、整治内卷式竞争等，国家发改委最新发布会要点速览15条；理想汽车回应理想i8与乘龙卡车安全性碰撞测试；美关税政策致伯克希尔-哈撒韦利润下滑](https://www.tmtpost.com/7646705.html)
+**发布时间**: 2025-08-04 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 让 Notion 树状结构数据库的筛选功能更实用](https://sspai.com/post/101372)
+**发布时间**: 2025-08-04 11:43
+
+#### [派早报：新劳动争议司法解释回应竞业等热点问题](https://sspai.com/post/101564)
+**发布时间**: 2025-08-04 08:52
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [江浙沪已成往事？长三角迈入万亿共同体时代](http://www.huxiu.com/article/4644278.html?f=wangzhan)
+**发布时间**: 2025-08-04 11:30
+
+#### [充电一小时，连干八小时？机器人牛马解救打工人](http://www.huxiu.com/article/4640607.html?f=wangzhan)
+**发布时间**: 2025-08-04 10:01
+
+#### [暴打麦肯基，西安人藏了20年的秘密是什么？](http://www.huxiu.com/article/4643473.html?f=wangzhan)
+**发布时间**: 2025-08-04 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [a16z ：AI 投资不再看模型性能；中国汽研、理想汽车双双回应 i8 测试争议；万事达否认向平台施压下架成人游戏](http://www.geekpark.net/news/352269)
+**发布时间**: 2025-08-04 08:31
 
 ---
 

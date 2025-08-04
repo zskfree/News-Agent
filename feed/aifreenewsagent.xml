@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Aug 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2025 23:22:38 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 05:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 05:37:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI Agent放贷款，获投4.3个亿</title>
-      <link>https://www.qbitai.com/2025/08/317962.html</link>
-      <description>&lt;![CDATA[AI Agent放贷款，获投4.3个亿]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317962.html</guid>
+      <title>奥特曼首晒GPT-5实测！被曝使用超级对齐团队“遗产”</title>
+      <link>https://www.qbitai.com/2025/08/317970.html</link>
+      <description>&lt;![CDATA[奥特曼首晒GPT-5实测！被曝使用超级对齐团队“遗产”]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 03:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317970.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>告别复杂提示词！蚂蚁新方式让AI自动理解你的个性化需求</title>
-      <link>https://www.qbitai.com/2025/08/317899.html</link>
-      <description>&lt;![CDATA[告别复杂提示词！蚂蚁新方式让AI自动理解你的个性化需求]]&gt;</description>
-      <pubDate>Sun, 03 Aug 2025 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/317899.html</guid>
+      <title>马斯克：研究者不存在了，只有工程师；LeCun：大错特错</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-04</link>
+      <description>&lt;![CDATA[马斯克：研究者不存在了，只有工程师；LeCun：大错特错]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning</title>
+      <link>https://arxiv.org/abs/2508.00271</link>
+      <description>&lt;![CDATA[MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00271</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Thinking Machines: Mathematical Reasoning in the Age of LLMs</title>
+      <link>https://arxiv.org/abs/2508.00459</link>
+      <description>&lt;![CDATA[Thinking Machines: Mathematical Reasoning in the Age of LLMs]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00459</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Generative Logic: A New Computer Architecture for Deterministic Reasoning and Knowledge Generation</title>
+      <link>https://arxiv.org/abs/2508.00017</link>
+      <description>&lt;![CDATA[Generative Logic: A New Computer Architecture for Deterministic Reasoning and Knowledge Generation]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00017</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training</title>
+      <link>https://arxiv.org/abs/2508.00414</link>
+      <description>&lt;![CDATA[Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00414</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Rethinking Evidence Hierarchies in Medical Language Benchmarks: A Critical Evaluation of HealthBench</title>
+      <link>https://arxiv.org/abs/2508.00081</link>
+      <description>&lt;![CDATA[Rethinking Evidence Hierarchies in Medical Language Benchmarks: A Critical Evaluation of HealthBench]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00081</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>R1-ACT: Efficient Reasoning Model Safety Alignment by Activating Safety Knowledge</title>
+      <link>https://arxiv.org/abs/2508.00324</link>
+      <description>&lt;![CDATA[R1-ACT: Efficient Reasoning Model Safety Alignment by Activating Safety Knowledge]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00324</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A Survey on Code Generation with LLM-based Agents</title>
+      <link>https://arxiv.org/abs/2508.00083</link>
+      <description>&lt;![CDATA[A Survey on Code Generation with LLM-based Agents]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00083</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Co-Producing AI: Toward an Augmented, Participatory Lifecycle</title>
+      <link>https://arxiv.org/abs/2508.00138</link>
+      <description>&lt;![CDATA[Co-Producing AI: Toward an Augmented, Participatory Lifecycle]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00138</guid>
       <category>AI</category>
     </item>
   </channel>

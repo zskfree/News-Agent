@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-03 23:22
+**最后更新时间**: 2025-08-04 05:37
+
+---
+
+## 🆕 最新更新 (2025-08-04 05:37)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures gain after Friday’s Wall Street selloff; oil falls as OPEC+ extends output boost](https://www.marketwatch.com/story/u-s-stock-futures-dip-after-fridays-drop-oil-falls-as-opec-extends-output-boost-18db0956?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 03:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [After 'dog days' of July, investors may not be ready for what comes next](https://www.marketwatch.com/bulletins/redirect/go?g=bb36f2c1-505b-4e4e-945d-9748f2c66181&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 01:13
+
+#### [Opinion: What happens if a court ruling strikes down Trump’s tariffs?](https://www.marketwatch.com/bulletins/redirect/go?g=6c3cf033-6cbd-422b-bcc2-3baad644f2db&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-04 00:28
+
+#### [Stocks get hit as clouds gather — but history suggests it’s too soon to panic](https://www.marketwatch.com/bulletins/redirect/go?g=398f7a15-9c5e-42bd-939b-50a19b043576&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-03 23:50
 
 ---
 
