@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 Aug 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 23:22:56 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 05:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 05:36:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>浙大打造全球最大类脑计算机，拥有20亿个神经元，接近猕猴大脑规模，能运行DeepSeek</title>
-      <link>https://www.qbitai.com/2025/08/318370.html</link>
-      <description>&lt;![CDATA[浙大打造全球最大类脑计算机，拥有20亿个神经元，接近猕猴大脑规模，能运行DeepSeek]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318370.html</guid>
+      <title>南大周志华团队最新力作：一个算法通吃所有，在线学习迎来新范式？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05-3</link>
+      <description>&lt;![CDATA[南大周志华团队最新力作：一个算法通吃所有，在线学习迎来新范式？]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁集团联合中国人工智能学会发布AGI科研专项基金</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-04-13</link>
-      <description>&lt;![CDATA[蚂蚁集团联合中国人工智能学会发布AGI科研专项基金]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 20:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-13</guid>
+      <title>全球首个人形机器人通用视觉感知系统，Humanoid Occupancy建立多模态环境理解新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05-2</link>
+      <description>&lt;![CDATA[全球首个人形机器人通用视觉感知系统，Humanoid Occupancy建立多模态环境理解新范式]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>手机也能跑，腾讯混元一口气开源4款小模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-04-9</link>
-      <description>&lt;![CDATA[手机也能跑，腾讯混元一口气开源4款小模型]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 20:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-9</guid>
+      <title>Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens</title>
+      <link>https://arxiv.org/abs/2508.01191</link>
+      <description>&lt;![CDATA[Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.01191</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>6小时复刻AI IMO金牌成果，蚂蚁多智能体新进展已开源</title>
-      <link>https://www.qbitai.com/2025/08/318374.html</link>
-      <description>&lt;![CDATA[6小时复刻AI IMO金牌成果，蚂蚁多智能体新进展已开源]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318374.html</guid>
+      <title>Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework</title>
+      <link>https://arxiv.org/abs/2508.00844</link>
+      <description>&lt;![CDATA[Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00844</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>字节Seed数学新模型，SOTA了</title>
-      <link>https://www.qbitai.com/2025/08/318346.html</link>
-      <description>&lt;![CDATA[字节Seed数学新模型，SOTA了]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318346.html</guid>
+      <title>A Survey on Agent Workflow -- Status and Future</title>
+      <link>https://arxiv.org/abs/2508.01186</link>
+      <description>&lt;![CDATA[A Survey on Agent Workflow -- Status and Future]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.01186</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>These protocols will help AI agents navigate our messy lives</title>
-      <link>https://www.technologyreview.com/2025/08/04/1120996/protocols-help-agents-navigate-lives-mcp-a2a/</link>
-      <description>&lt;![CDATA[These protocols will help AI agents navigate our messy lives]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/04/1120996/protocols-help-agents-navigate-lives-mcp-a2a/</guid>
+      <title>ff4ERA: A new Fuzzy Framework for Ethical Risk Assessment in AI</title>
+      <link>https://arxiv.org/abs/2508.00899</link>
+      <description>&lt;![CDATA[ff4ERA: A new Fuzzy Framework for Ethical Risk Assessment in AI]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00899</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: fixing ‘evil’ AI, and the White House’s war on science</title>
-      <link>https://www.technologyreview.com/2025/08/04/1120978/the-download-fix-evil-ai-white-house-war-science/</link>
-      <description>&lt;![CDATA[The Download: fixing ‘evil’ AI, and the White House’s war on science]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/04/1120978/the-download-fix-evil-ai-white-house-war-science/</guid>
+      <title>Towards Evaluation for Real-World LLM Unlearning</title>
+      <link>https://arxiv.org/abs/2508.01324</link>
+      <description>&lt;![CDATA[Towards Evaluation for Real-World LLM Unlearning]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.01324</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MIT tool visualizes and edits “physically impossible” objects</title>
-      <link>https://news.mit.edu/2025/mit-meschers-tool-visualizes-edits-physically-impossible-objects-0804</link>
-      <description>&lt;![CDATA[MIT tool visualizes and edits “physically impossible” objects]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 16:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-meschers-tool-visualizes-edits-physically-impossible-objects-0804</guid>
+      <title>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</title>
+      <link>https://arxiv.org/abs/2508.01285</link>
+      <description>&lt;![CDATA[BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.01285</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>思辨会 | 量子模拟：技术路线激辩与产业化破局——WAIC思辨会顶尖学者共议发展路径</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-04-11</link>
-      <description>&lt;![CDATA[思辨会 | 量子模拟：技术路线激辩与产业化破局——WAIC思辨会顶尖学者共议发展路径]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-11</guid>
+      <title>技术岗位占比超90%，AI岗位占比近5成！淘天集团开启2026届秋招</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05</link>
+      <description>&lt;![CDATA[技术岗位占比超90%，AI岗位占比近5成！淘天集团开启2026届秋招]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 12:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>3D-R1：让AI理解3D世界的下一步</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-04-8</link>
-      <description>&lt;![CDATA[3D-R1：让AI理解3D世界的下一步]]&gt;</description>
-      <pubDate>Mon, 04 Aug 2025 20:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-04-8</guid>
+      <title>超百万奖金+Offer直通车，腾讯携手开放原子共推国家级开源大赛</title>
+      <link>https://www.qbitai.com/2025/08/318614.html</link>
+      <description>&lt;![CDATA[超百万奖金+Offer直通车，腾讯携手开放原子共推国家级开源大赛]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 03:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318614.html</guid>
       <category>AI</category>
     </item>
   </channel>

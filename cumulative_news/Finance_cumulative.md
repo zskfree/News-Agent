@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-04 23:22
+**最后更新时间**: 2025-08-05 05:35
+
+---
+
+## 🆕 最新更新 (2025-08-05 05:35)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Parents are draining money from retirement accounts and home equity to pay for college. They should do this for their kids instead.](https://www.marketwatch.com/story/parents-are-draining-money-from-retirement-accounts-and-home-equity-to-pay-for-college-they-should-do-this-for-their-kids-instead-fc2961a3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 03:59
+
+#### [AMD’s stock has more than doubled off its lows. Does that bring earnings risk?](https://www.marketwatch.com/story/amds-stock-has-more-than-doubled-off-its-lows-does-that-bring-earnings-risk-31716cb2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 02:43
+
+#### [Palantir’s stock gains as ‘bombastic’ AI demand fuels an earnings milestone](https://www.marketwatch.com/story/palantirs-stock-gains-as-bombastic-ai-demand-fuels-an-earnings-milestone-7528a9c8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 00:17
+
+#### [Did baby boomers really have it easier than millennials?](https://www.marketwatch.com/story/i-worked-at-14-had-an-8-8-mortgage-rate-and-drove-used-cars-did-boomers-really-have-it-easier-than-millennials-bdc012a2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-04 22:55
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [20 stocks of S&P 500 companies showing the fastest sales growth](https://www.marketwatch.com/bulletins/redirect/go?g=990fdcf9-f0f0-4ab4-9da2-5fbc2286df85&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 01:03
 
 ---
 
