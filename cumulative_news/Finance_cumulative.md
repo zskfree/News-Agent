@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-05 05:35
+**最后更新时间**: 2025-08-05 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-05 23:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Any of these 8 tech stocks could become a $5 trillion company before Nvidia does](https://www.marketwatch.com/story/any-of-these-8-tech-stocks-could-become-a-5-trillion-company-before-nvidia-does-1c3d00c3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 23:08
+
+#### [AMD’s stock falls despite strong earnings outlook. Is China the reason?](https://www.marketwatch.com/story/amds-stock-falls-despite-strong-earnings-outlook-is-china-the-reason-e502ced7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 22:51
+
+#### [This ‘genius’ hack has cleared my email inbox completely](https://www.marketwatch.com/story/this-genius-hack-has-cleared-my-email-inbox-completely-1905532a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 22:26
+
+#### [My late husband’s employer is forcing me to take 10% 401(k) distributions. Help!](https://www.marketwatch.com/story/my-late-husbands-employer-is-forcing-me-to-take-10-401-k-distributions-help-fe94579c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 22:12
+
+#### [Rivian expects deeper loss this year, amid ‘significant uncertainty’ over trade and EV policy](https://www.marketwatch.com/story/rivian-expects-deeper-loss-this-year-amid-significant-uncertainty-over-trade-and-ev-policy-157a5aa3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-05 21:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [As stocks stumble, these 4 charts suggest a deeper drop might be getting started](https://www.marketwatch.com/bulletins/redirect/go?g=17a4d3fa-3c6b-41ac-9fc5-9342f7fe5bcb&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 21:50
+
+#### [AMD’s stock falls despite strong earnings outlook. Is China the reason?](https://www.marketwatch.com/bulletins/redirect/go?g=b679a4c0-506f-411b-a556-8377de7f2663&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 21:13
+
+#### [Rivian expects deeper losses this year amid uncertainty over trade, EV policy](https://www.marketwatch.com/bulletins/redirect/go?g=b3fd9135-f2bb-4501-bde0-bd690d839f5e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 20:49
+
+#### [Super Micro backs away from lofty revenue goal. Its stock is sinking.](https://www.marketwatch.com/bulletins/redirect/go?g=9390f3c6-c242-4435-acaa-18827580563e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 20:28
+
+#### [Dow, S&P 500 and Nasdaq all end lower after weak services-sector economic data](https://www.marketwatch.com/bulletins/redirect/go?g=61281832-c683-404a-9b73-e0d81ae41fe2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 20:04
+
+#### [Stocks trading lower in final hour after weak ISM services data — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=e023a4fc-cac4-4da5-82dd-f5db4ad00e0c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 19:16
+
+#### [Any of these 8 tech stocks could become a $5 trillion company before Nvidia does](https://www.marketwatch.com/bulletins/redirect/go?g=6cfcd4dc-2185-4ba3-a7b0-5a9257efea23&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 18:48
+
+#### [The biggest part of the U.S. economy barely grew in July, ISM finds](https://www.marketwatch.com/bulletins/redirect/go?g=96a553b2-32f7-4ee3-93d6-e6bbf611087e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 14:31
+
+#### [Trump narrows Fed chair list: Here's who's out and who's rising](https://www.marketwatch.com/bulletins/redirect/go?g=2b465046-e9bc-4615-87ea-6fc57a38a411&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 13:07
+
+#### [Tesla’s run of rough European sales continues](https://www.marketwatch.com/bulletins/redirect/go?g=833b9f2a-1c62-43cb-b8ee-ccc8b4b323d2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-05 11:42
 
 ---
 

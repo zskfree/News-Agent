@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 Aug 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2025 08:32:18 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 23:22:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nature丨首个AI生成的基因编辑器，脱靶率更低、免疫更轻，兼容碱基编辑</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05-5</link>
-      <description>&lt;![CDATA[Nature丨首个AI生成的基因编辑器，脱靶率更低、免疫更轻，兼容碱基编辑]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-5</guid>
+      <title>刚刚，OpenAI开源2个推理模型：笔记本/手机就能跑，性能接近o4-mini</title>
+      <link>https://www.qbitai.com/2025/08/319141.html</link>
+      <description>&lt;![CDATA[刚刚，OpenAI开源2个推理模型：笔记本/手机就能跑，性能接近o4-mini]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 21:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319141.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌约战，DeepSeek、Kimi都要上，首届大模型对抗赛明天开战</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05-4</link>
-      <description>&lt;![CDATA[谷歌约战，DeepSeek、Kimi都要上，首届大模型对抗赛明天开战]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-4</guid>
+      <title>首批“数字员工”组团进大厂！7个岗位干爆KPI，提前锁定年度最佳企业级Agent</title>
+      <link>https://www.qbitai.com/2025/08/319116.html</link>
+      <description>&lt;![CDATA[首批“数字员工”组团进大厂！7个岗位干爆KPI，提前锁定年度最佳企业级Agent]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 17:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319116.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日</title>
-      <link>https://isc.360.com/new/2025.htm#new_tab</link>
-      <description>&lt;![CDATA[ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 07:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://isc.360.com/new/2025.htm#new_tab</guid>
+      <title>OpenAI has finally released open-weight language models</title>
+      <link>https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/</link>
+      <description>&lt;![CDATA[OpenAI has finally released open-weight language models]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>淘天集团2026届秋招：毕业生一次可投3个意向且不限次数</title>
-      <link>https://www.qbitai.com/2025/08/319096.html</link>
-      <description>&lt;![CDATA[淘天集团2026届秋招：毕业生一次可投3个意向且不限次数]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 06:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319096.html</guid>
+      <title>The Download: AI agent infrastructure, and OpenAI’s ambitions</title>
+      <link>https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/</link>
+      <description>&lt;![CDATA[The Download: AI agent infrastructure, and OpenAI’s ambitions]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A glimpse into OpenAI’s largest ambitions</title>
+      <link>https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/</link>
+      <description>&lt;![CDATA[A glimpse into OpenAI’s largest ambitions]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>电商上演「魔法对轰」：卖家用AI假图骗下单，买家拿AI烂水果骗退款</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05-7</link>
+      <description>&lt;![CDATA[电商上演「魔法对轰」：卖家用AI假图骗下单，买家拿AI烂水果骗退款]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 16:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>科研写作神器，超越Mathpix的科学公式提取工具已开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05-6</link>
+      <description>&lt;![CDATA[科研写作神器，超越Mathpix的科学公式提取工具已开源]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-6</guid>
       <category>AI</category>
     </item>
   </channel>

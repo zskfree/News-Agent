@@ -1,7 +1,169 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-05 08:31
+**最后更新时间**: 2025-08-05 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-05 23:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌搜索惊现4500条ChatGPT用户隐私记录，OpenAI紧急删除功能但甩锅给用户！网友：再也不相信AI了](https://www.infoq.cn/article/F1baql0f56TxPJZEPjgl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 07:00
+
+#### [AGICamp 第 006 周 AI 应用榜单发布：Deep Innovation、小鹿光年回忆录、才聚宝盒等应用上榜](https://www.infoq.cn/article/GoyeGIhEbqCl5xGwm73L?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 18:00
+
+#### [让‘创造’本身回归初心](https://www.infoq.cn/video/klZpEjluWI7RpJqb0XJR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 17:03
+
+#### [爱的本质，是被看见](https://www.infoq.cn/video/WOWWWLuFVZTZkZ0TWgjY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 17:01
+
+#### [具身智能 × 工程机械：挖掘机远控与端到端自动装车模型的矿山实践｜AICon 深圳](https://www.infoq.cn/article/KUwQWjlCglZ9bV4jmuHR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 17:00
+
+#### [所有的时刻，都是此刻](https://www.infoq.cn/video/90wUSf9SET8BSJ92A1ax?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 16:59
+
+#### [星尘智能Astribot Suite技术解读：让机器人帮你做家务的全身控制解决方案](https://www.infoq.cn/article/1WRLsk8T5IQBx9JQ1ckL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 16:52
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
+**发布时间**: 2025-08-05 22:17
+
+#### [The 48 Best Shows on HBO Max Right Now (August 2025)](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+**发布时间**: 2025-08-05 19:00
+
+#### [OpenAI Just Released Its First Open-Weight Models Since GPT-2](https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/)
+**发布时间**: 2025-08-05 17:00
+
+#### [Claude Fans Threw a Funeral for Anthropic’s Retired AI Model](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)
+**发布时间**: 2025-08-05 16:00
+
+#### [TikTok Promotes Stickers for Secretly Recording Meta Ray-Ban Video](https://www.wired.com/story/tiktok-promotes-stickers-for-secretly-recording-meta-ray-ban-video/)
+**发布时间**: 2025-08-05 15:25
+
+#### [The Best Samsung Galaxy S25 Cases (2025): S25, S25+, S25 Ultra, and S25 Edge](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
+**发布时间**: 2025-08-05 13:03
+
+#### [11 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+**发布时间**: 2025-08-05 12:30
+
+#### [The 9 Best Chef’s Knives (2025), Tested and Reviewed](https://www.wired.com/gallery/the-best-chefs-knives/)
+**发布时间**: 2025-08-05 12:06
+
+#### [14 Best Beauty Box Subscriptions, Tested for Months (2025)](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
+**发布时间**: 2025-08-05 10:31
+
+#### [How Supercomputing Will Evolve, According to Jack Dongarra](https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/)
+**发布时间**: 2025-08-05 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+**发布时间**: 2025-08-05 22:15
+
+#### [The best iPad deals you can get in August](https://www.theverge.com/tech/716470/best-ipad-deals)
+**发布时间**: 2025-08-05 21:08
+
+#### [Apple is suing Apple Cinemas](https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain)
+**发布时间**: 2025-08-05 20:58
+
+#### [TP-Link’s new travel router delivers Wi-Fi 7 speeds](https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn)
+**发布时间**: 2025-08-05 20:56
+
+#### [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+**发布时间**: 2025-08-05 20:23
+
+#### [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+**发布时间**: 2025-08-05 19:42
+
+#### [Google Gemini can now create AI-generated bedtime stories](https://www.theverge.com/news/719184/google-gemini-ai-storybook-bedtime-stories)
+**发布时间**: 2025-08-05 18:03
+
+#### [OpenAI releases a free GPT model that can run on your laptop](https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release)
+**发布时间**: 2025-08-05 17:00
+
+#### [Sony’s noise-canceling WH-1000XM6 are discounted to their Prime Day low](https://www.theverge.com/tech/718907/sony-wh-1000xm6-skylight-smart-calendar-deal-sale)
+**发布时间**: 2025-08-05 17:00
+
+#### [This retro camcorder upgrades Super 8 film cameras with modern conveniences](https://www.theverge.com/news/719103/camp-snap-cs8-digital-kodak-super-8-film-camer)
+**发布时间**: 2025-08-05 16:41
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [听劝后改价，理想重回性价比](http://www.huxiu.com/article/4657771.html?f=wangzhan)
+**发布时间**: 2025-08-05 21:10
+
+#### [特斯拉正在发生哪些转变？](http://www.huxiu.com/article/4657247.html?f=wangzhan)
+**发布时间**: 2025-08-05 20:28
+
+#### [要问电费为啥高？看看房东给你的五级能效空调吧](http://www.huxiu.com/article/4656296.html?f=wangzhan)
+**发布时间**: 2025-08-05 18:41
+
+#### [冷处理破坏公信力？幼儿中毒令人真相触目惊心](http://www.huxiu.com/article/4651709.html?f=wangzhan)
+**发布时间**: 2025-08-05 16:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [5.3亿豪赌半导体！主业失速的绿通科技，大摩半导体真是“救命稻草”？｜一线并购](https://www.tmtpost.com/7649155.html)
+**发布时间**: 2025-08-05 20:30
+
+#### [三超新材易主博达系：业绩承压催生资本变局，光伏资产持续盈利能力待考](https://www.tmtpost.com/7649121.html)
+**发布时间**: 2025-08-05 19:49
+
+#### [重组、易主轮番救场，永安行化债将成难逃低价定增拷问](https://www.tmtpost.com/7649032.html)
+**发布时间**: 2025-08-05 19:06
+
+#### [宇树机器人给周杰伦伴舞？王兴兴也想勇闯娱乐圈](https://www.tmtpost.com/7649022.html)
+**发布时间**: 2025-08-05 19:00
+
+#### [2025上半年人才供需洞察报告](https://www.tmtpost.com/7649015.html)
+**发布时间**: 2025-08-05 18:55
+
+#### [少林寺商业迷途与“寺庙经济”](https://www.tmtpost.com/7648848.html)
+**发布时间**: 2025-08-05 18:55
+
+#### [中企出海新叙事：AI成为“舞台真主角”](https://www.tmtpost.com/7648990.html)
+**发布时间**: 2025-08-05 18:55
+
+#### [AI教育风口下，有人乘风破浪，有人艰难求生](https://www.tmtpost.com/7649040.html)
+**发布时间**: 2025-08-05 18:55
+
+#### [加码控盘南孚电池背后，是苏州百亿富豪家族的资本“大棋局”……](https://www.tmtpost.com/7648401.html)
+**发布时间**: 2025-08-05 18:54
+
+#### [新能源二手车困局：三年贬值超 65%](https://www.tmtpost.com/7648546.html)
+**发布时间**: 2025-08-05 18:54
+
+#### [月活近5亿，中重度IAP品类消耗暴增，小游戏行业新方向浮现？](https://www.tmtpost.com/7648822.html)
+**发布时间**: 2025-08-05 18:54
+
+#### [“性感”输给了“自由”？中国内衣行业“狂飙”](https://www.tmtpost.com/7648397.html)
+**发布时间**: 2025-08-05 18:22
+
+#### [全球都在怀念“经济上行期”的美？](https://www.tmtpost.com/7648954.html)
+**发布时间**: 2025-08-05 18:22
+
+#### [对话爱慕创始人张荣明：内衣混战，消费分化，但价格战不是出路｜独家](https://www.tmtpost.com/7648893.html)
+**发布时间**: 2025-08-05 17:42
+
+#### [“县城文学”破产，中产的消费梦，为何在小城碎了一地？](https://www.tmtpost.com/7648668.html)
+**发布时间**: 2025-08-05 17:23
+
+#### [股价腰斩，跌落神坛的诺和诺德错在哪一步？](https://www.tmtpost.com/7648409.html)
+**发布时间**: 2025-08-05 17:23
+
+#### [AI眼镜：重塑人机交互与场景感知边界](https://www.tmtpost.com/7648699.html)
+**发布时间**: 2025-08-05 17:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 104 | 派友六月买了啥以及一周最热评、新玩意](https://sspai.com/post/101600)
+**发布时间**: 2025-08-05 17:20
 
 ---
 

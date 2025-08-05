@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-05 08:31
+**最后更新时间**: 2025-08-05 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-05 23:22)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，OpenAI开源2个推理模型：笔记本/手机就能跑，性能接近o4-mini](https://www.qbitai.com/2025/08/319141.html)
+**发布时间**: 2025-08-05 21:45
+
+#### [首批“数字员工”组团进大厂！7个岗位干爆KPI，提前锁定年度最佳企业级Agent](https://www.qbitai.com/2025/08/319116.html)
+**发布时间**: 2025-08-05 17:17
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [OpenAI has finally released open-weight language models](https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/)
+**发布时间**: 2025-08-05 17:00
+
+#### [The Download: AI agent infrastructure, and OpenAI’s ambitions](https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/)
+**发布时间**: 2025-08-05 12:00
+
+#### [A glimpse into OpenAI’s largest ambitions](https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/)
+**发布时间**: 2025-08-05 09:00
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [电商上演「魔法对轰」：卖家用AI假图骗下单，买家拿AI烂水果骗退款](https://www.jiqizhixin.com/articles/2025-08-05-7)
+**发布时间**: 2025-08-05 16:58
+
+#### [科研写作神器，超越Mathpix的科学公式提取工具已开源](https://www.jiqizhixin.com/articles/2025-08-05-6)
+**发布时间**: 2025-08-05 16:52
 
 ---
 
