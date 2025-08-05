@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 Aug 2025 05:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2025 05:36:20 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 08:32:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>南大周志华团队最新力作：一个算法通吃所有，在线学习迎来新范式？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05-3</link>
-      <description>&lt;![CDATA[南大周志华团队最新力作：一个算法通吃所有，在线学习迎来新范式？]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-3</guid>
+      <title>Nature丨首个AI生成的基因编辑器，脱靶率更低、免疫更轻，兼容碱基编辑</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05-5</link>
+      <description>&lt;![CDATA[Nature丨首个AI生成的基因编辑器，脱靶率更低、免疫更轻，兼容碱基编辑]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全球首个人形机器人通用视觉感知系统，Humanoid Occupancy建立多模态环境理解新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05-2</link>
-      <description>&lt;![CDATA[全球首个人形机器人通用视觉感知系统，Humanoid Occupancy建立多模态环境理解新范式]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-2</guid>
+      <title>谷歌约战，DeepSeek、Kimi都要上，首届大模型对抗赛明天开战</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-05-4</link>
+      <description>&lt;![CDATA[谷歌约战，DeepSeek、Kimi都要上，首届大模型对抗赛明天开战]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens</title>
-      <link>https://arxiv.org/abs/2508.01191</link>
-      <description>&lt;![CDATA[Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.01191</guid>
+      <title>ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日</title>
+      <link>https://isc.360.com/new/2025.htm#new_tab</link>
+      <description>&lt;![CDATA[ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://isc.360.com/new/2025.htm#new_tab</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework</title>
-      <link>https://arxiv.org/abs/2508.00844</link>
-      <description>&lt;![CDATA[Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00844</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Survey on Agent Workflow -- Status and Future</title>
-      <link>https://arxiv.org/abs/2508.01186</link>
-      <description>&lt;![CDATA[A Survey on Agent Workflow -- Status and Future]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.01186</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ff4ERA: A new Fuzzy Framework for Ethical Risk Assessment in AI</title>
-      <link>https://arxiv.org/abs/2508.00899</link>
-      <description>&lt;![CDATA[ff4ERA: A new Fuzzy Framework for Ethical Risk Assessment in AI]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.00899</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Evaluation for Real-World LLM Unlearning</title>
-      <link>https://arxiv.org/abs/2508.01324</link>
-      <description>&lt;![CDATA[Towards Evaluation for Real-World LLM Unlearning]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.01324</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</title>
-      <link>https://arxiv.org/abs/2508.01285</link>
-      <description>&lt;![CDATA[BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.01285</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>技术岗位占比超90%，AI岗位占比近5成！淘天集团开启2026届秋招</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05</link>
-      <description>&lt;![CDATA[技术岗位占比超90%，AI岗位占比近5成！淘天集团开启2026届秋招]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>超百万奖金+Offer直通车，腾讯携手开放原子共推国家级开源大赛</title>
-      <link>https://www.qbitai.com/2025/08/318614.html</link>
-      <description>&lt;![CDATA[超百万奖金+Offer直通车，腾讯携手开放原子共推国家级开源大赛]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 03:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/318614.html</guid>
+      <title>淘天集团2026届秋招：毕业生一次可投3个意向且不限次数</title>
+      <link>https://www.qbitai.com/2025/08/319096.html</link>
+      <description>&lt;![CDATA[淘天集团2026届秋招：毕业生一次可投3个意向且不限次数]]&gt;</description>
+      <pubDate>Tue, 05 Aug 2025 06:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319096.html</guid>
       <category>AI</category>
     </item>
   </channel>

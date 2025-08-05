@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-05 05:35
+**最后更新时间**: 2025-08-05 08:31
+
+---
+
+## 🆕 最新更新 (2025-08-05 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025Q2方便速食市场回顾](https://www.tmtpost.com/7648494.html)
+**发布时间**: 2025-08-05 16:01
+
+#### [China’s BrainCo Seeks Pre-IPO Funding at $1.3 Billion Valuation](https://www.tmtpost.com/7648796.html)
+**发布时间**: 2025-08-05 15:47
+
+#### [8月5日A股分析：沪指3617点收官，两市成交额逼近1.6万亿，银行证券保险三大金融板块集体获资金青睐](https://www.tmtpost.com/7648761.html)
+**发布时间**: 2025-08-05 15:37
+
+#### [破局HER2低表达困境，ADC只是开始](https://www.tmtpost.com/7648506.html)
+**发布时间**: 2025-08-05 15:26
+
+#### [Volcano Engine Leads AI Agent Boom as Enterprises Grapple with Large Model Integration in 2025](https://www.tmtpost.com/7648742.html)
+**发布时间**: 2025-08-05 15:12
+
+#### [“分裂”的脱口秀](https://www.tmtpost.com/7648415.html)
+**发布时间**: 2025-08-05 15:11
+
+#### [AI重构企业流程，如何构建“AI for Process”体系才能更好落地应用？丨ToB产业观察](https://www.tmtpost.com/7648572.html)
+**发布时间**: 2025-08-05 15:11
+
+#### [从“幻觉”到“可信”，漆远谈AI如何跨越“敢用”门槛](https://www.tmtpost.com/7646892.html)
+**发布时间**: 2025-08-05 15:11
+
+#### [都“百模大战”了，蚂蚁数科为何要发布金融推理大模型？](https://www.tmtpost.com/7646182.html)
+**发布时间**: 2025-08-05 14:53
+
+#### [Trump Warns of Substantial Tariff Hike over India's Purchase of Russia Oil](https://www.tmtpost.com/7648703.html)
+**发布时间**: 2025-08-05 14:53
+
+#### [理想i8“版型瘦身”，一次迟到的果断](https://www.tmtpost.com/7648670.html)
+**发布时间**: 2025-08-05 14:48
+
+#### [“后黑神话时代”的本土单机游戏，各有各的信任危机](https://www.tmtpost.com/7648556.html)
+**发布时间**: 2025-08-05 14:47
+
+#### [无印良品卖宠物用品，瞄准年轻人的钱包](https://www.tmtpost.com/7648577.html)
+**发布时间**: 2025-08-05 14:22
+
+#### [Ant Group and JD.com Face Uncertainty Over Hong Kong Stablecoin Licenses Amid Industry Speculation](https://www.tmtpost.com/7648641.html)
+**发布时间**: 2025-08-05 14:01
+
+#### [EU to Suspend Countermeasures Against U.S. by Six Months as Talks on Final Agreement Continues](https://www.tmtpost.com/7648628.html)
+**发布时间**: 2025-08-05 13:47
+
+#### [巴菲特谢幕前的答卷：减值与现金策略引深思](https://www.tmtpost.com/7648434.html)
+**发布时间**: 2025-08-05 13:43
+
+#### [Tianqiao and Chrissy Chen Institute and AAAS Launch $50,000 Global AI-Driven Science Prize to Accelerate Breakthrough Research](https://www.tmtpost.com/7648592.html)
+**发布时间**: 2025-08-05 13:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Apache Doris 是如何保障系统稳定性的？](https://www.infoq.cn/article/CDmIwu6AU5xpC16sfQ4N?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 15:47
+
+#### [Cloudflare选择PostgreSQL扩展而不是专用的OLAP来进行100K行/秒的分析](https://www.infoq.cn/article/voSkzhYWpg0VwpD7VuDq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 15:30
+
+#### [亚马逊如何在软件开发中使用护栏](https://www.infoq.cn/article/QGXBlpaoLGUSJdhDZcOo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-05 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Windows 视觉史 04（上）｜Longhorn：从「美学巅峰」到微软的「开发地狱」](https://sspai.com/post/89445)
+**发布时间**: 2025-08-05 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [谁在“逼疯”赵露思？](http://www.huxiu.com/article/4655276.html?f=wangzhan)
+**发布时间**: 2025-08-05 12:47
+
+#### [探展WAIC：“百事酷宝”引领人形机器人新体验](http://www.huxiu.com/article/4655247.html?f=wangzhan)
+**发布时间**: 2025-08-05 10:52
+
+#### [2025世界人工智能大会，把AI塞进你的生活](http://www.huxiu.com/article/4644300.html?f=wangzhan)
+**发布时间**: 2025-08-05 10:45
+
+#### [小米SU7超过特斯拉，拿下保值榜第一？](http://www.huxiu.com/article/4643452.html?f=wangzhan)
+**发布时间**: 2025-08-05 10:20
+
+#### [独家丨“宁王”猛砸超百亿，一场精密豪赌](http://www.huxiu.com/article/4591203.html?f=wangzhan)
+**发布时间**: 2025-08-05 06:48
 
 ---
 

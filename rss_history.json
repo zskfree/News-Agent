@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "934b798cd10b7867c89b6417c3803d52a6aac41f7df43986f813478cba8e44f1": {
-        "title": "谁是余家辉？“年薪1亿美元”AI研究员，吴永辉的嫡系弟子",
-        "link": "https://www.qbitai.com/2025/07/305141.html",
-        "published_date": "Sun, 06 Jul 2025 06:14:00 GMT",
-        "first_seen": "2025-07-06T08:25:41.086642"
-      },
-      "8e4024074cba9add4c3391f0f7cebf4bef76009dd69d4bcb83fcb04d5025aa3b": {
-        "title": "老黄再收95后华人才俊！4亿美元收购AI初创公司",
-        "link": "https://www.qbitai.com/2025/07/305092.html",
-        "published_date": "Sun, 06 Jul 2025 06:10:00 GMT",
-        "first_seen": "2025-07-06T08:25:41.086828"
-      },
       "2f849c2e0e02cf956e53aa6f5593e806a8f0e6de3849b53ffe406eed0fd7cbcc": {
         "title": "集成20+先进算法，优于GPT-4o，自主因果分析智能体来了",
         "link": "https://www.jiqizhixin.com/articles/2025-07-06-5",
@@ -9378,33 +9366,33 @@
         "link": "https://arxiv.org/abs/2508.01670",
         "published_date": "Tue, 05 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-05T05:35:58.564493"
+      },
+      "02197c7d81dc7f2036fe2469ac91af1015f63289d85afc00cfdbd3b69daf842a": {
+        "title": "Nature丨首个AI生成的基因编辑器，脱靶率更低、免疫更轻，兼容碱基编辑",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-05-5",
+        "published_date": "Tue, 05 Aug 2025 14:10:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.261365"
+      },
+      "9381b2cbb88223b8a7e0ac1ad69fef58017d12823bc153c96a0449e008179d6b": {
+        "title": "谷歌约战，DeepSeek、Kimi都要上，首届大模型对抗赛明天开战",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-05-4",
+        "published_date": "Tue, 05 Aug 2025 13:31:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.261516"
+      },
+      "f426b3632185cafbc19e6331e02d330c60b54c4f8ca14591245467abe980075c": {
+        "title": "ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日",
+        "link": "https://isc.360.com/new/2025.htm#new_tab",
+        "published_date": "Tue, 05 Aug 2025 07:26:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.261733"
+      },
+      "34ac87d0ee7a3f162db0bfbae7a596ac132f888c7e4573efa724c286aa319308": {
+        "title": "淘天集团2026届秋招：毕业生一次可投3个意向且不限次数",
+        "link": "https://www.qbitai.com/2025/08/319096.html",
+        "published_date": "Tue, 05 Aug 2025 06:09:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.261949"
       }
     },
     "Technology": {
-      "30223141a325fe9a81b518f4bf5a16f5c65b1646e2895550bb311bedfaf7a00c": {
-        "title": "投资问道：写给融资者的深度剖析",
-        "link": "https://www.tmtpost.com/7617385.html",
-        "published_date": "Sun, 06 Jul 2025 15:20:00 GMT",
-        "first_seen": "2025-07-06T08:25:41.100944"
-      },
-      "37e9e95bfbd96cbafd382f3b180731ca86f2b3366da58300243b25cdd9f0110b": {
-        "title": "上半年综艺市场有“七大信号”值得揣摩",
-        "link": "https://www.tmtpost.com/7617435.html",
-        "published_date": "Sun, 06 Jul 2025 14:20:00 GMT",
-        "first_seen": "2025-07-06T08:25:41.101046"
-      },
-      "7b859852896bd2a1c39561389730fdc21a0830ead9b24de0ee3a9dae565bce3f": {
-        "title": "星巴克中国急需最强外脑",
-        "link": "https://www.tmtpost.com/7617458.html",
-        "published_date": "Sun, 06 Jul 2025 13:20:00 GMT",
-        "first_seen": "2025-07-06T08:25:41.101142"
-      },
-      "75c079fcc6899cfb093198ad6741c4a0ebcaf021b5c97caacea1921458808856": {
-        "title": "How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime",
-        "link": "https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/",
-        "published_date": "Sun, 06 Jul 2025 06:00:00 GMT",
-        "first_seen": "2025-07-06T08:25:41.101367"
-      },
       "5b7c1eab92cd338dbb756e1a541b92197be88326d71d5418854f0e1f496cc2a7": {
         "title": "一场突如其来的“召回潮”，点燃中国制造的“灵魂拷问”",
         "link": "https://www.tmtpost.com/7617528.html",
@@ -23594,6 +23582,162 @@
         "link": "https://www.wired.com/story/hungryroot-promo-code/",
         "published_date": "Tue, 05 Aug 2025 05:00:00 GMT",
         "first_seen": "2025-08-05T05:35:35.592951"
+      },
+      "8647d731151e1a57f1962ecded99174aab39bdfe408eeda243260e3a63571cf4": {
+        "title": "2025Q2方便速食市场回顾",
+        "link": "https://www.tmtpost.com/7648494.html",
+        "published_date": "Tue, 05 Aug 2025 16:01:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.877840"
+      },
+      "7dd766737e04f0bf3eec086fe0186e094e047056ea59faeb44ebb9585badc86b": {
+        "title": "China’s BrainCo Seeks Pre-IPO Funding at $1.3 Billion Valuation",
+        "link": "https://www.tmtpost.com/7648796.html",
+        "published_date": "Tue, 05 Aug 2025 15:47:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202277"
+      },
+      "229be3fd6a4729cb7e5eee24824ad7ab2f82c4db520d52fbf590da05ccf5fa0b": {
+        "title": "8月5日A股分析：沪指3617点收官，两市成交额逼近1.6万亿，银行证券保险三大金融板块集体获资金青睐",
+        "link": "https://www.tmtpost.com/7648761.html",
+        "published_date": "Tue, 05 Aug 2025 15:37:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.878238"
+      },
+      "48403a729418d6a7e6991206941e4f9f67c5743b3d5f15997ce75be2d40a9e6e": {
+        "title": "破局HER2低表达困境，ADC只是开始",
+        "link": "https://www.tmtpost.com/7648506.html",
+        "published_date": "Tue, 05 Aug 2025 15:26:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.878430"
+      },
+      "597356d5021f9a7b28f1264e93cce322000466e1ba70a9264b76e1c7c1a428e6": {
+        "title": "Volcano Engine Leads AI Agent Boom as Enterprises Grapple with Large Model Integration in 2025",
+        "link": "https://www.tmtpost.com/7648742.html",
+        "published_date": "Tue, 05 Aug 2025 15:12:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202184"
+      },
+      "be06eb238f62e6e37d7b9479482d07f54d81d8a1a04f24b76794ddd03a63fd3d": {
+        "title": "“分裂”的脱口秀",
+        "link": "https://www.tmtpost.com/7648415.html",
+        "published_date": "Tue, 05 Aug 2025 15:11:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.879399"
+      },
+      "8ccbd2cfb5c2e71fc4e1b75a5fdabb9634a45cff175f95f12c2fe7b5bb514598": {
+        "title": "AI重构企业流程，如何构建“AI for Process”体系才能更好落地应用？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7648572.html",
+        "published_date": "Tue, 05 Aug 2025 15:11:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202209"
+      },
+      "91eefc3629b4ac43375330146da5ff89fc1597df216a61b7a8c1a5c4d81d7455": {
+        "title": "从“幻觉”到“可信”，漆远谈AI如何跨越“敢用”门槛",
+        "link": "https://www.tmtpost.com/7646892.html",
+        "published_date": "Tue, 05 Aug 2025 15:11:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202229"
+      },
+      "37a00adb19229a9d7a3437fd97beb233548b205203653687b457f54afafbe087": {
+        "title": "都“百模大战”了，蚂蚁数科为何要发布金融推理大模型？",
+        "link": "https://www.tmtpost.com/7646182.html",
+        "published_date": "Tue, 05 Aug 2025 14:53:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202240"
+      },
+      "109633711db999f3e54e791584732e4925d5ba6d1a32f86395869e8b7aecbdeb": {
+        "title": "Trump Warns of Substantial Tariff Hike over India's Purchase of Russia Oil",
+        "link": "https://www.tmtpost.com/7648703.html",
+        "published_date": "Tue, 05 Aug 2025 14:53:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.882228"
+      },
+      "f30ceeaeab59b63596a70f4613c1f3de99ad81185cfa5f4d46132bc71dbdcf8d": {
+        "title": "理想i8“版型瘦身”，一次迟到的果断",
+        "link": "https://www.tmtpost.com/7648670.html",
+        "published_date": "Tue, 05 Aug 2025 14:48:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.882743"
+      },
+      "9da620b64147f6584174fce921aec1cb7dc51949f45d414abd0adba243cb1dd7": {
+        "title": "“后黑神话时代”的本土单机游戏，各有各的信任危机",
+        "link": "https://www.tmtpost.com/7648556.html",
+        "published_date": "Tue, 05 Aug 2025 14:47:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.883303"
+      },
+      "56084afb233ab19a73080e573ad3525da0f5901abdd8e1741b9adf1fad18713e": {
+        "title": "无印良品卖宠物用品，瞄准年轻人的钱包",
+        "link": "https://www.tmtpost.com/7648577.html",
+        "published_date": "Tue, 05 Aug 2025 14:22:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.883778"
+      },
+      "614cb6989b6b2c561bba2043af48f44453847eb1e93c9081d9aa5fd385e0a713": {
+        "title": "Ant Group and JD.com Face Uncertainty Over Hong Kong Stablecoin Licenses Amid Industry Speculation",
+        "link": "https://www.tmtpost.com/7648641.html",
+        "published_date": "Tue, 05 Aug 2025 14:01:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202264"
+      },
+      "75c2c0d697fe25e7884d9f43fa5f5a75bbd88936900417873072dbd21285ec88": {
+        "title": "EU to Suspend Countermeasures Against U.S. by Six Months as Talks on Final Agreement Continues",
+        "link": "https://www.tmtpost.com/7648628.html",
+        "published_date": "Tue, 05 Aug 2025 13:47:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.888278"
+      },
+      "a51ee3a2afc4a18b01fbe35ac421e2b4b481dc925110f78f47d5fa4ee4c7f7dc": {
+        "title": "巴菲特谢幕前的答卷：减值与现金策略引深思",
+        "link": "https://www.tmtpost.com/7648434.html",
+        "published_date": "Tue, 05 Aug 2025 13:43:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.888911"
+      },
+      "f1f3f2f7bebda74e2a71ce500e5e841bebdd983c8cd5e71f47e9de39f1ebf25c": {
+        "title": "Tianqiao and Chrissy Chen Institute and AAAS Launch $50,000 Global AI-Driven Science Prize to Accelerate Breakthrough Research",
+        "link": "https://www.tmtpost.com/7648592.html",
+        "published_date": "Tue, 05 Aug 2025 13:04:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.892531"
+      },
+      "b63d51a79913746bf385e0c01fef47c8c594c709fcd35bf1021bfeb1e156208c": {
+        "title": "Apache Doris 是如何保障系统稳定性的？",
+        "link": "https://www.infoq.cn/article/CDmIwu6AU5xpC16sfQ4N?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 Aug 2025 15:47:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.893646"
+      },
+      "9e7a6eef8c365aa1e4a4fecd27886c0c34b40c99c8d9e7b7848da06ba499a3a8": {
+        "title": "Cloudflare选择PostgreSQL扩展而不是专用的OLAP来进行100K行/秒的分析",
+        "link": "https://www.infoq.cn/article/voSkzhYWpg0VwpD7VuDq?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 Aug 2025 15:30:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202287"
+      },
+      "7e3ab2e0e3a871d30979eb89cb0bc91962f6440d0807424349583eae5fb2b917": {
+        "title": "亚马逊如何在软件开发中使用护栏",
+        "link": "https://www.infoq.cn/article/QGXBlpaoLGUSJdhDZcOo?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202295"
+      },
+      "5c0d7af6fafc4e6477e80dee88df7e39197d45c487bc53f599d575a9ea10cdb2": {
+        "title": "Windows 视觉史 04（上）｜Longhorn：从「美学巅峰」到微软的「开发地狱」",
+        "link": "https://sspai.com/post/89445",
+        "published_date": "Tue, 05 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.897667"
+      },
+      "3e45d7e08d1d1c6512a76e38f58d209193221cd243988373f0e3835b6df0f3cc": {
+        "title": "谁在“逼疯”赵露思？",
+        "link": "http://www.huxiu.com/article/4655276.html?f=wangzhan",
+        "published_date": "Tue, 05 Aug 2025 12:47:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.898500"
+      },
+      "df88e4902945f90f474e2f1a818f7abcfd34dda130a9e0fb58eac108bc35de73": {
+        "title": "探展WAIC：“百事酷宝”引领人形机器人新体验",
+        "link": "http://www.huxiu.com/article/4655247.html?f=wangzhan",
+        "published_date": "Tue, 05 Aug 2025 10:52:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.899735"
+      },
+      "ea0501fa5b1d21428837f61221efef5c0e03bbce6a826527d7b45bc7c75ea2a4": {
+        "title": "2025世界人工智能大会，把AI塞进你的生活",
+        "link": "http://www.huxiu.com/article/4644300.html?f=wangzhan",
+        "published_date": "Tue, 05 Aug 2025 10:45:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202250"
+      },
+      "068cc460b3b4ed888307f6d57edd55f0638e2c5fce75a96855427d8b0ed0e145": {
+        "title": "小米SU7超过特斯拉，拿下保值榜第一？",
+        "link": "http://www.huxiu.com/article/4643452.html?f=wangzhan",
+        "published_date": "Tue, 05 Aug 2025 10:20:00 GMT",
+        "first_seen": "2025-08-05T08:32:00.901781"
+      },
+      "8bb484a44ceafa7b7c6b67c1747e0d9dcd8fb6a358cc439c2f9813dd2a191867": {
+        "title": "独家丨“宁王”猛砸超百亿，一场精密豪赌",
+        "link": "http://www.huxiu.com/article/4591203.html?f=wangzhan",
+        "published_date": "Tue, 05 Aug 2025 06:48:00 GMT",
+        "first_seen": "2025-08-05T08:32:18.202305"
       }
     },
     "Finance": {
@@ -26828,8 +26972,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-05T05:36:20.392214",
-    "Technology": "2025-08-05T05:35:58.289357",
-    "Finance": "2025-08-05T05:36:20.409720"
+    "AI": "2025-08-05T08:32:18.269427",
+    "Technology": "2025-08-05T08:32:18.223793",
+    "Finance": "2025-08-05T08:32:18.283375"
   }
 }

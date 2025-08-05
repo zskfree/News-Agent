@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-05 05:30
+**最后更新时间**: 2025-08-05 08:31
+
+---
+
+## 🆕 最新更新 (2025-08-05 08:31)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Nature丨首个AI生成的基因编辑器，脱靶率更低、免疫更轻，兼容碱基编辑](https://www.jiqizhixin.com/articles/2025-08-05-5)
+**发布时间**: 2025-08-05 14:10
+
+#### [谷歌约战，DeepSeek、Kimi都要上，首届大模型对抗赛明天开战](https://www.jiqizhixin.com/articles/2025-08-05-4)
+**发布时间**: 2025-08-05 13:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日](https://isc.360.com/new/2025.htm#new_tab)
+**发布时间**: 2025-08-05 07:26
+
+#### [淘天集团2026届秋招：毕业生一次可投3个意向且不限次数](https://www.qbitai.com/2025/08/319096.html)
+**发布时间**: 2025-08-05 06:09
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Building a Decoder-Only Transformer Model for Text Generation](https://machinelearningmastery.com/building-a-decoder-only-transformer-model-for-text-generation/)
+**发布时间**: 2025-08-04 16:02
+
+#### [Building a Transformer Model for Language Translation](https://machinelearningmastery.com/building-a-transformer-model-for-language-translation/)
+**发布时间**: 2025-08-02 02:57
+
+#### [How to Diagnose Why Your Regression Model Fails](https://machinelearningmastery.com/how-to-diagnose-why-your-regression-model-fails/)
+**发布时间**: 2025-07-31 16:27
+
+#### [Implementing Advanced Feature Scaling Techniques in Python Step-by-Step](https://machinelearningmastery.com/implementing-advanced-feature-scaling-techniques-in-python-step-by-step/)
+**发布时间**: 2025-07-30 13:16
+
+#### [Your First Containerized Machine Learning Deployment with Docker and FastAPI](https://machinelearningmastery.com/your-first-containerized-machine-learning-deployment-with-docker-and-fastapi/)
+**发布时间**: 2025-07-29 15:05
+
+#### [Building a Seq2Seq Model with Attention for Language Translation](https://machinelearningmastery.com/building-a-seq2seq-model-with-attention-for-language-translation/)
+**发布时间**: 2025-07-28 17:26
+
+#### [Beyond Pandas: 7 Advanced Data Manipulation Techniques for Large Datasets](https://machinelearningmastery.com/beyond-pandas-7-advanced-data-manipulation-techniques-for-large-datasets/)
+**发布时间**: 2025-07-28 14:43
+
+#### [Image Augmentation Techniques to Boost Your CV Model Performance](https://machinelearningmastery.com/image-augmentation-techniques-to-boost-your-cv-model-performance/)
+**发布时间**: 2025-07-25 14:23
+
+#### [10 Critical Mistakes that Silently Ruin Machine Learning Projects](https://machinelearningmastery.com/10-critical-mistakes-that-silently-ruin-machine-learning-projects/)
+**发布时间**: 2025-07-23 14:10
+
+#### [Zero-Shot and Few-Shot Classification with Scikit-LLM](https://machinelearningmastery.com/zero-shot-and-few-shot-classification-with-scikit-llm/)
+**发布时间**: 2025-07-22 12:00
 
 ---
 
