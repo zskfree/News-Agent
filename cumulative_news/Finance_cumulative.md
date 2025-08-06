@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-05 23:22
+**最后更新时间**: 2025-08-06 05:31
+
+---
+
+## 🆕 最新更新 (2025-08-06 05:31)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [High tariffs drive China imports down to a 16-year low. But U.S. trade deficits are still as big as ever.](https://www.marketwatch.com/story/high-tariffs-drive-china-imports-down-to-a-16-year-low-but-u-s-trade-deficits-are-still-as-big-as-ever-f68b04a7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 02:16
+
+#### [Corona’s parent is looking for more beer drinkers. Why Budweiser could be the buzzkill.](https://www.marketwatch.com/story/coronas-parent-is-looking-for-more-beer-drinkers-why-budweiser-could-be-the-buzzkill-c2b72cb0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 00:39
+
+#### [Super Micro backs away from a lofty goal, and its stock is sinking](https://www.marketwatch.com/story/super-micro-backs-away-from-a-lofty-goal-and-its-stock-is-sinking-5061eedf?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 00:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why some credit-card APRs are rising even as the Fed holds rates steady](https://www.marketwatch.com/bulletins/redirect/go?g=312268c0-0d14-4ecf-a53b-3b2195594bf6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 01:18
+
+#### [Chelsea Handler talks about her boozy lemonade and shares thoughts on money](https://www.marketwatch.com/bulletins/redirect/go?g=3042b208-79b8-4d2a-a275-931456f9a910&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 00:02
 
 ---
 

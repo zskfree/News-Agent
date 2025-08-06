@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 Aug 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2025 23:22:50 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 05:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 05:32:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI Just Released Its First Open-Weight Models Since GPT-2</title>
-      <link>https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/</link>
-      <description>&lt;![CDATA[OpenAI Just Released Its First Open-Weight Models Since GPT-2]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/</guid>
+      <title>OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道</title>
+      <link>http://www.geekpark.net/news/352373</link>
+      <description>&lt;![CDATA[OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 08:27:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352373</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>How Supercomputing Will Evolve, According to Jack Dongarra</title>
-      <link>https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/</link>
-      <description>&lt;![CDATA[How Supercomputing Will Evolve, According to Jack Dongarra]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/</guid>
+      <title>Trump Sees Phama Tariffs Up to 250%,  Chip Tariffs As Soon As Next Week</title>
+      <link>https://www.tmtpost.com/7649841.html</link>
+      <description>&lt;![CDATA[Trump Sees Phama Tariffs Up to 250%,  Chip Tariffs As Soon As Next Week]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649841.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能 × 工程机械：挖掘机远控与端到端自动装车模型的矿山实践｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/KUwQWjlCglZ9bV4jmuHR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[具身智能 × 工程机械：挖掘机远控与端到端自动装车模型的矿山实践｜AICon 深圳]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KUwQWjlCglZ9bV4jmuHR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AMD：CPU 强吃英特尔，AI GPU 何时能抗英伟达？</title>
+      <link>https://www.tmtpost.com/7649614.html</link>
+      <description>&lt;![CDATA[AMD：CPU 强吃英特尔，AI GPU 何时能抗英伟达？]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649614.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>星尘智能Astribot Suite技术解读：让机器人帮你做家务的全身控制解决方案</title>
-      <link>https://www.infoq.cn/article/1WRLsk8T5IQBx9JQ1ckL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[星尘智能Astribot Suite技术解读：让机器人帮你做家务的全身控制解决方案]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1WRLsk8T5IQBx9JQ1ckL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Ant Digital Unveils Financial AI Model as China’s LLM Race Reaches Banking Sector</title>
+      <link>https://www.tmtpost.com/7649657.html</link>
+      <description>&lt;![CDATA[Ant Digital Unveils Financial AI Model as China’s LLM Race Reaches Banking Sector]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649657.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI眼镜：重塑人机交互与场景感知边界</title>
-      <link>https://www.tmtpost.com/7648699.html</link>
-      <description>&lt;![CDATA[AI眼镜：重塑人机交互与场景感知边界]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7648699.html</guid>
+      <title>Agent重构生产力，腾讯云/商汤/彩讯专家揭秘企业降本增效密码</title>
+      <link>https://www.infoq.cn/article/xutQydzqHChrEetKXiey?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent重构生产力，腾讯云/商汤/彩讯专家揭秘企业降本增效密码]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xutQydzqHChrEetKXiey?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌搜索惊现4500条ChatGPT用户隐私记录，OpenAI紧急删除功能但甩锅给用户！网友：再也不相信AI了</title>
-      <link>https://www.infoq.cn/article/F1baql0f56TxPJZEPjgl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌搜索惊现4500条ChatGPT用户隐私记录，OpenAI紧急删除功能但甩锅给用户！网友：再也不相信AI了]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/F1baql0f56TxPJZEPjgl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>今年CJ，AI 成了游戏产业的「必答题」</title>
+      <link>http://www.geekpark.net/news/352375</link>
+      <description>&lt;![CDATA[今年CJ，AI 成了游戏产业的「必答题」]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 09:11:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352375</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI releases a free GPT model that can run on your laptop</title>
-      <link>https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release</link>
-      <description>&lt;![CDATA[OpenAI releases a free GPT model that can run on your laptop]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release</guid>
+      <title>特朗普的“大而美法案”要给Wi-Fi 7降速？</title>
+      <link>https://www.tmtpost.com/7649546.html</link>
+      <description>&lt;![CDATA[特朗普的“大而美法案”要给Wi-Fi 7降速？]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649546.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中企出海新叙事：AI成为“舞台真主角”</title>
-      <link>https://www.tmtpost.com/7648990.html</link>
-      <description>&lt;![CDATA[中企出海新叙事：AI成为“舞台真主角”]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7648990.html</guid>
+      <title>散户疯狂、科技巨头分化，AI推动的美股牛市到顶了吗？</title>
+      <link>https://www.tmtpost.com/7649714.html</link>
+      <description>&lt;![CDATA[散户疯狂、科技巨头分化，AI推动的美股牛市到顶了吗？]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649714.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush</title>
-      <link>https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/</link>
-      <description>&lt;![CDATA[US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 22:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/</guid>
+      <title>人形机器人来了，酒店又有一批人要下岗了？</title>
+      <link>https://www.tmtpost.com/7649719.html</link>
+      <description>&lt;![CDATA[人形机器人来了，酒店又有一批人要下岗了？]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649719.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>特斯拉正在发生哪些转变？</title>
-      <link>http://www.huxiu.com/article/4657247.html?f=wangzhan</link>
-      <description>&lt;![CDATA[特斯拉正在发生哪些转变？]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 20:28:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4657247.html?f=wangzhan</guid>
+      <title>Grok 新上的 AI 视频生成，自带「擦边」模式，马斯克靠「踩黄线」称霸 AI？</title>
+      <link>http://www.geekpark.net/news/352392</link>
+      <description>&lt;![CDATA[Grok 新上的 AI 视频生成，自带「擦边」模式，马斯克靠「踩黄线」称霸 AI？]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352392</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-05 23:22
+**最后更新时间**: 2025-08-06 05:31
+
+---
+
+## 🆕 最新更新 (2025-08-06 05:31)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Grok 新上的 AI 视频生成，自带「擦边」模式，马斯克靠「踩黄线」称霸 AI？](http://www.geekpark.net/news/352392)
+**发布时间**: 2025-08-06 13:26
+
+#### [Grok 新上的 AI 视频生成，自带「擦边」模式，马斯克靠「踩黄线」称霸 AI？](http://www.geekpark.net/news/352391)
+**发布时间**: 2025-08-06 12:36
+
+#### [今年CJ，AI 成了游戏产业的「必答题」](http://www.geekpark.net/news/352375)
+**发布时间**: 2025-08-06 09:11
+
+#### [OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道](http://www.geekpark.net/news/352373)
+**发布时间**: 2025-08-06 08:27
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [3倍军工大牛北方长龙：游资和机构击鼓传花，终止收购无碍股价狂飙](https://www.tmtpost.com/7649942.html)
+**发布时间**: 2025-08-06 13:19
+
+#### [权益类规模“腰斩”，混合型基金缩水1700亿，中欧基金能否突围？](https://www.tmtpost.com/7649515.html)
+**发布时间**: 2025-08-06 12:26
+
+#### [AI竞技场，归根到底只是一门生意](https://www.tmtpost.com/7649512.html)
+**发布时间**: 2025-08-06 12:20
+
+#### [特朗普的“大而美法案”要给Wi-Fi 7降速？](https://www.tmtpost.com/7649546.html)
+**发布时间**: 2025-08-06 12:15
+
+#### [3个月挤780+剧组，食宿全免、帮组团队、投资短剧，拍摄基地有多卷？](https://www.tmtpost.com/7649610.html)
+**发布时间**: 2025-08-06 12:09
+
+#### [AMD：CPU 强吃英特尔，AI GPU 何时能抗英伟达？](https://www.tmtpost.com/7649614.html)
+**发布时间**: 2025-08-06 12:04
+
+#### [Trump Sees Phama Tariffs Up to 250%,  Chip Tariffs As Soon As Next Week](https://www.tmtpost.com/7649841.html)
+**发布时间**: 2025-08-06 11:54
+
+#### [出海美国，解读瑞幸咖啡的开局打法](https://www.tmtpost.com/7649634.html)
+**发布时间**: 2025-08-06 11:54
+
+#### [上市路上绕不开的100 个核心问题](https://www.tmtpost.com/7649644.html)
+**发布时间**: 2025-08-06 11:45
+
+#### [狂揽7000万粉丝、“听劝”卖爆8万台，“霸总”赛道也卷起来了？](https://www.tmtpost.com/7649664.html)
+**发布时间**: 2025-08-06 11:37
+
+#### [记录快门下的离别，我成为了“离婚跟拍师”](https://www.tmtpost.com/7649677.html)
+**发布时间**: 2025-08-06 11:30
+
+#### [Li Auto Slashes i8 Variants in Post-Launch Overhaul to Streamline Offerings](https://www.tmtpost.com/7649813.html)
+**发布时间**: 2025-08-06 11:24
+
+#### [AI时代，算法挑拨离间所有人的关系](https://www.tmtpost.com/7649684.html)
+**发布时间**: 2025-08-06 11:24
+
+#### [散户疯狂、科技巨头分化，AI推动的美股牛市到顶了吗？](https://www.tmtpost.com/7649714.html)
+**发布时间**: 2025-08-06 11:19
+
+#### [人形机器人来了，酒店又有一批人要下岗了？](https://www.tmtpost.com/7649719.html)
+**发布时间**: 2025-08-06 11:18
+
+#### [诺和诺德被礼来干崩了](https://www.tmtpost.com/7649731.html)
+**发布时间**: 2025-08-06 11:18
+
+#### [Ant Digital Unveils Financial AI Model as China’s LLM Race Reaches Banking Sector](https://www.tmtpost.com/7649657.html)
+**发布时间**: 2025-08-06 10:17
+
+#### [Nvidia Denies Chinese Allegations of ‘Kill Switches’ in AI Chips Amid Rising Security Tensions](https://www.tmtpost.com/7649652.html)
+**发布时间**: 2025-08-06 10:15
+
+#### [转向拥抱本土开发者，团结引擎独立运营3年后的得与失](https://www.tmtpost.com/7649258.html)
+**发布时间**: 2025-08-06 09:42
+
+#### [药明康德，用半年报宣告「王者归来」？](https://www.tmtpost.com/7649269.html)
+**发布时间**: 2025-08-06 09:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 眼镜在线下社交场景中的多模态智能感知与主动交互｜AICon 深圳](https://www.infoq.cn/article/uMGLDTmDtisH2j2Rxt38?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 13:00
+
+#### [50+ 技术实践重磅汇聚，洞察 AI 原生时代的落地实践与技术进化](https://www.infoq.cn/article/bFUrvpjq6gRjzzJ7XO3Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 11:04
+
+#### [“Awaken Your Web 创新挑战赛”正式启动，邀全球开发者共创 Agent 新纪元](https://www.infoq.cn/article/OMhIV3hqMPrkzdUp8Lu1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 10:59
+
+#### [零门槛全栈开发，Rokid 智能眼镜AI应用开发实战指南｜AICon 深圳](https://www.infoq.cn/article/fdCx7LI2KtIyazbyd2LU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 10:19
+
+#### [技术岗位占比超90%，AI岗位占比近5成！淘天集团开启2026届秋招](https://www.infoq.cn/article/YupRN68tLjxk1mKYB8fS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 10:14
+
+#### [Java近期新闻：EclipseStore， Gradle， Hibernate候选版本，Piranha Cloud, LangChain4j](https://www.infoq.cn/article/sqlemPujF4qdKZBYYfJw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 09:58
+
+#### [Agent重构生产力，腾讯云/商汤/彩讯专家揭秘企业降本增效密码](https://www.infoq.cn/article/xutQydzqHChrEetKXiey?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 09:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一站式解决图片问题：我的 Obsidian+Hugo自动化发布流](https://sspai.com/post/101376)
+**发布时间**: 2025-08-06 11:31
+
+#### [派早报：AMD 推出 Radeon RX 9060 显卡等](https://sspai.com/post/101627)
+**发布时间**: 2025-08-06 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“星巴克祖师爷”，闷声赚大钱？](http://www.huxiu.com/article/4657205.html?f=wangzhan)
+**发布时间**: 2025-08-06 10:20
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Police Report: Edward ‘Big Balls’ Coristine Assaulted in Alleged Carjacking](https://www.wired.com/story/edward-coristine-big-balls-assaulted-alleged-carjacking/)
+**发布时间**: 2025-08-06 02:03
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Google is rolling out a fix for Pixel back button issues](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
+**发布时间**: 2025-08-05 23:48
 
 ---
 

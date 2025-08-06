@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 Aug 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2025 23:22:50 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 05:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 05:32:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI开源2个推理模型：笔记本/手机就能跑，性能接近o4-mini</title>
-      <link>https://www.qbitai.com/2025/08/319141.html</link>
-      <description>&lt;![CDATA[刚刚，OpenAI开源2个推理模型：笔记本/手机就能跑，性能接近o4-mini]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 21:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319141.html</guid>
+      <title>震撼，世界模型第一次超真实地模拟了真实世界：谷歌Genie 3昨晚抢了OpenAI风头</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-5</link>
+      <description>&lt;![CDATA[震撼，世界模型第一次超真实地模拟了真实世界：谷歌Genie 3昨晚抢了OpenAI风头]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首批“数字员工”组团进大厂！7个岗位干爆KPI，提前锁定年度最佳企业级Agent</title>
-      <link>https://www.qbitai.com/2025/08/319116.html</link>
-      <description>&lt;![CDATA[首批“数字员工”组团进大厂！7个岗位干爆KPI，提前锁定年度最佳企业级Agent]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319116.html</guid>
+      <title>OpenAI重新开源！深夜连发两个推理模型，o4-mini水平，笔记本、手机可跑</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-2</link>
+      <description>&lt;![CDATA[OpenAI重新开源！深夜连发两个推理模型，o4-mini水平，笔记本、手机可跑]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI has finally released open-weight language models</title>
-      <link>https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/</link>
-      <description>&lt;![CDATA[OpenAI has finally released open-weight language models]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/</guid>
+      <title>就是阻击OpenAI，Claude抢先数十分钟发布Claude Opus 4.1</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-4</link>
+      <description>&lt;![CDATA[就是阻击OpenAI，Claude抢先数十分钟发布Claude Opus 4.1]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: AI agent infrastructure, and OpenAI’s ambitions</title>
-      <link>https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/</link>
-      <description>&lt;![CDATA[The Download: AI agent infrastructure, and OpenAI’s ambitions]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/</guid>
+      <title>Discrete Tokenization：多模态大模型的关键基石，首个系统化综述发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06</link>
+      <description>&lt;![CDATA[Discrete Tokenization：多模态大模型的关键基石，首个系统化综述发布]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A glimpse into OpenAI’s largest ambitions</title>
-      <link>https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/</link>
-      <description>&lt;![CDATA[A glimpse into OpenAI’s largest ambitions]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/</guid>
+      <title>北大、蚂蚁三个维度解构高效隐私保护机器学习：前沿进展+发展方向</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-3</link>
+      <description>&lt;![CDATA[北大、蚂蚁三个维度解构高效隐私保护机器学习：前沿进展+发展方向]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>电商上演「魔法对轰」：卖家用AI假图骗下单，买家拿AI烂水果骗退款</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05-7</link>
-      <description>&lt;![CDATA[电商上演「魔法对轰」：卖家用AI假图骗下单，买家拿AI烂水果骗退款]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 16:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-7</guid>
+      <title>叫板英伟达RTX 5090！GPU初创公司做出13倍路径追踪性能的怪兽显卡</title>
+      <link>https://www.qbitai.com/2025/08/319306.html</link>
+      <description>&lt;![CDATA[叫板英伟达RTX 5090！GPU初创公司做出13倍路径追踪性能的怪兽显卡]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 04:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319306.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科研写作神器，超越Mathpix的科学公式提取工具已开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-05-6</link>
-      <description>&lt;![CDATA[科研写作神器，超越Mathpix的科学公式提取工具已开源]]&gt;</description>
-      <pubDate>Tue, 05 Aug 2025 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-05-6</guid>
+      <title>第十三届互联网安全大会：多智能体蜂群掀起安全与 AI 融合革命</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-6</link>
+      <description>&lt;![CDATA[第十三届互联网安全大会：多智能体蜂群掀起安全与 AI 融合革命]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Efficient Agents: Building Effective Agents While Reducing Cost</title>
+      <link>https://arxiv.org/abs/2508.02694</link>
+      <description>&lt;![CDATA[Efficient Agents: Building Effective Agents While Reducing Cost]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.02694</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>When AIs Judge AIs: The Rise of Agent-as-a-Judge Evaluation for LLMs</title>
+      <link>https://arxiv.org/abs/2508.02994</link>
+      <description>&lt;![CDATA[When AIs Judge AIs: The Rise of Agent-as-a-Judge Evaluation for LLMs]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.02994</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree</title>
+      <link>https://arxiv.org/abs/2508.03038</link>
+      <description>&lt;![CDATA[Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.03038</guid>
       <category>AI</category>
     </item>
   </channel>
