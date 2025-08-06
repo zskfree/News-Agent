@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-06 08:31
+**最后更新时间**: 2025-08-06 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-06 23:22)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Insulin resistance prediction from wearables and routine blood biomarkers](https://research.google/blog/insulin-resistance-prediction-from-wearables-and-routine-blood-biomarkers/)
+**发布时间**: 2025-08-06 20:02
+
+#### [Highly accurate genome polishing with DeepPolisher: Enhancing the foundation of genomic research](https://research.google/blog/highly-accurate-genome-polishing-with-deeppolisher-enhancing-the-foundation-of-genomic-research/)
+**发布时间**: 2025-08-06 16:13
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [一图读懂《上海市具身智能产业发展实施方案》](https://www.jiqizhixin.com/articles/2025-08-06-13)
+**发布时间**: 2025-08-06 17:21
+
+#### [ICML2025｜探索损失加权机制的本质以实现更好的LLM反学习](https://www.jiqizhixin.com/articles/2025-08-06-12)
+**发布时间**: 2025-08-06 17:03
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [School of Architecture and Planning welcomes new faculty for 2025](https://news.mit.edu/2025/school-architecture-planning-welcomes-new-faculty-0806)
+**发布时间**: 2025-08-06 16:10
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Five ways that AI is learning to improve itself](https://www.technologyreview.com/2025/08/06/1121193/five-ways-that-ai-is-learning-to-improve-itself/)
+**发布时间**: 2025-08-06 15:14
+
+#### [The Download: OpenAI’s open-weight models, and the future of internet search](https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/)
+**发布时间**: 2025-08-06 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [战报：马斯克Grok4笑傲AI象棋大赛，DeepSeek没干过o4-mini，Kimi K2被喊冤](https://www.qbitai.com/2025/08/319613.html)
+**发布时间**: 2025-08-06 09:31
+
+#### [OpenAI首席科学家访谈被紧急制止！有些名字现在不让说了……](https://www.qbitai.com/2025/08/319587.html)
+**发布时间**: 2025-08-06 08:55
+
+#### [“神经-符号”融合规划器性能显著超越o1：借鉴人类运动学习机制](https://www.qbitai.com/2025/08/319472.html)
+**发布时间**: 2025-08-06 08:52
+
+#### [六座Model Y L最新爆料：后排4座都可折叠，全部放倒可当“货厢”](https://www.qbitai.com/2025/08/319443.html)
+**发布时间**: 2025-08-06 08:47
+
+#### [全新360安全云重磅发布：AI智能体驱动「安全即服务」新未来](https://www.qbitai.com/2025/08/319637.html)
+**发布时间**: 2025-08-06 08:10
 
 ---
 

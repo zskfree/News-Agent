@@ -1,7 +1,199 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-06 08:31
+**最后更新时间**: 2025-08-06 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-06 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】《新一轮农村公路提升行动方案》印发，提出加强资金保障、创新投融资模式；台积电被曝2纳米商业秘密泄漏；马斯克：特斯拉正在训练新的FSD模型，若测试顺利或在下月底发布](https://www.tmtpost.com/7650674.html)
+**发布时间**: 2025-08-07 07:20
+
+#### [AMD二季度收入77亿美元，美国对华芯片禁令导致数据中心营收不及预期](https://www.tmtpost.com/7650632.html)
+**发布时间**: 2025-08-06 21:57
+
+#### [傅利叶发布陪伴式人形机器人GR-3，创始人顾捷：一年内行业发展加速3-5倍](https://www.tmtpost.com/7650333.html)
+**发布时间**: 2025-08-06 21:57
+
+#### [罗曼股份跨界算力：标的估值或暴涨18倍，频踩风口困局仍在｜并购一线](https://www.tmtpost.com/7650602.html)
+**发布时间**: 2025-08-06 21:07
+
+#### [客户“年降”致毛利率持续承压，豪恩汽电仍豪掷11亿定增扩产](https://www.tmtpost.com/7650592.html)
+**发布时间**: 2025-08-06 21:05
+
+#### [20cm涨停只是开始？矽睿科技“买壳”安车检测，年内翻倍风险水位已高](https://www.tmtpost.com/7650627.html)
+**发布时间**: 2025-08-06 21:01
+
+#### [周鸿祎：现阶段智能体竞争的唯一护城河是执行力](https://www.tmtpost.com/7650514.html)
+**发布时间**: 2025-08-06 19:31
+
+#### [谁在“逼疯”赵露思？](https://www.tmtpost.com/7648501.html)
+**发布时间**: 2025-08-06 19:14
+
+#### [大悦城拖后腿，中粮没能复制华润的成功](https://www.tmtpost.com/7650352.html)
+**发布时间**: 2025-08-06 19:13
+
+#### [AI接棒三电，成车企新战场](https://www.tmtpost.com/7650356.html)
+**发布时间**: 2025-08-06 19:13
+
+#### [盒马为什么学不会山姆？](https://www.tmtpost.com/7650434.html)
+**发布时间**: 2025-08-06 19:13
+
+#### [旅行社再不开门店，就被OTA玩死了](https://www.tmtpost.com/7650098.html)
+**发布时间**: 2025-08-06 19:04
+
+#### [媒体不再能为公关输送人才了](https://www.tmtpost.com/7649619.html)
+**发布时间**: 2025-08-06 19:04
+
+#### [内地大厂，抢滩香港](https://www.tmtpost.com/7650376.html)
+**发布时间**: 2025-08-06 19:03
+
+#### [贷款利息国家补，普通人该不该借这笔钱？](https://www.tmtpost.com/7650427.html)
+**发布时间**: 2025-08-06 18:45
+
+#### [逃离“中年危机”的金融人，转行涌入RWA市场](https://www.tmtpost.com/7650425.html)
+**发布时间**: 2025-08-06 18:45
+
+#### [“AI”之眼，一场视觉智能的进化 | 2025 ITValue Summit前瞻WAIC现场版：AI落地指南系列](https://www.tmtpost.com/7650156.html)
+**发布时间**: 2025-08-06 18:44
+
+#### [清洁能源“反内卷”，说到底还是为了绿色发展](https://www.tmtpost.com/7650422.html)
+**发布时间**: 2025-08-06 18:44
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+**发布时间**: 2025-08-06 22:40
+
+#### [Trump threatens 100 percent tariff on computer chips with a gigantic loophole](https://www.theverge.com/news/738172/trump-threatens-100-percent-tariff-on-computer-chips-with-a-gigantic-loophole)
+**发布时间**: 2025-08-06 22:25
+
+#### [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)
+**发布时间**: 2025-08-06 21:48
+
+#### [Google would like you to study with Gemini instead of cheat with it](https://www.theverge.com/news/732182/google-gemini-ai-guided-learning-education)
+**发布时间**: 2025-08-06 21:09
+
+#### [Apple announces $100 billion US manufacturing plan after pressure from Donald Trump](https://www.theverge.com/news/719929/apple-100-billion-investment-us-manufacturing-trump)
+**发布时间**: 2025-08-06 21:07
+
+#### [WB Games’ best PC titles are in this $12 Humble bundle](https://www.theverge.com/tech/720211/humble-bundle-wb-games-deal-sale)
+**发布时间**: 2025-08-06 20:39
+
+#### [The Jurassic Park islands and dinos are coming to Microsoft Flight Simulator 2024](https://www.theverge.com/news/720070/orbx-universal-jurassic-world-park-dinosaurs-microsoft-flight-simulator-2-024)
+**发布时间**: 2025-08-06 18:07
+
+#### [OpenAI teases GPT-5 launch event this Thursday](https://www.theverge.com/news/720114/openai-gpt-5-launch-event-tease)
+**发布时间**: 2025-08-06 18:04
+
+#### [I asked Grok’s Valentine sex chatbot to choke me and it (mostly) behaved](https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test)
+**发布时间**: 2025-08-06 17:34
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [李书福是保守，还是行险棋？](http://www.huxiu.com/article/4662329.html?f=wangzhan)
+**发布时间**: 2025-08-06 22:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI狂飙，先手上桌 |《十字路口》系列视频·第一期](https://www.infoq.cn/video/Ej8RAWV4gJiSg0s5laUm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 21:28
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
+**发布时间**: 2025-08-06 20:37
+
+#### [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
+**发布时间**: 2025-08-06 18:27
+
+#### [Inside the US Government's Unpublished Report on AI Safety](https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/)
+**发布时间**: 2025-08-06 18:00
+
+#### [OpenAI Announces Massive US Government Partnership](https://www.wired.com/story/openai-is-giving-chatgpt-federal-workers/)
+**发布时间**: 2025-08-06 16:48
+
+#### [Breath Work, Biohacking, and Cryotherapy: New Buzzwords for Modern Business Travelers](https://www.wired.com/story/the-new-wellness-buzzwords-for-modern-business-travelers/)
+**发布时间**: 2025-08-06 15:02
+
+#### [Trumpworld Knows Epstein Is a Problem. But They Can’t Solve It](https://www.wired.com/story/trumpworld-epstein-problem/)
+**发布时间**: 2025-08-06 15:00
+
+#### [9 Best Hotel Rewards Programs for Elevating Your Next Stay](https://www.wired.com/story/hotel-rewards-programs-guide/)
+**发布时间**: 2025-08-06 15:00
+
+#### [These Democrats Think the Party Needs AI to Win Elections](https://www.wired.com/story/democrats-midterm-elections-ai/)
+**发布时间**: 2025-08-06 14:52
+
+#### [The Business Traveler of Today Is Changing—and So Is Their Flight Map](https://www.wired.com/story/business-travel-flight-map/)
+**发布时间**: 2025-08-06 14:50
+
+#### [The Extravagant Rise of the Corporate Incentive Trip](https://www.wired.com/story/extravagant-rise-of-the-corporate-incentive-trip/)
+**发布时间**: 2025-08-06 14:40
+
+#### [16 Golden Rules That Business Travelers Swear By](https://www.wired.com/story/golden-rules-of-business-travel/)
+**发布时间**: 2025-08-06 14:30
+
+#### [How to Season a Griddle and Keep It From Rusting](https://www.wired.com/story/how-to-season-a-griddle/)
+**发布时间**: 2025-08-06 14:09
+
+#### [Combating Domestic Violent Extremism Is No Longer a FEMA Priority](https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/)
+**发布时间**: 2025-08-06 13:33
+
+#### [The Best TVs We’ve Reviewed from Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
+**发布时间**: 2025-08-06 13:33
+
+#### [The Best Apps for Managing Your Travel Expenses and Receipts](https://www.wired.com/story/best-apps-for-managing-travel-expenses-receipts/)
+**发布时间**: 2025-08-06 13:00
+
+#### [What to Know About Traveling to China for Business](https://www.wired.com/story/how-to-travel-to-china/)
+**发布时间**: 2025-08-06 13:00
+
+#### [The Tech That Keeps Planes Flying for Ultra-Long-Haul Flights](https://www.wired.com/story/tech-necessary-for-long-haul-flghts/)
+**发布时间**: 2025-08-06 13:00
+
+#### [Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home](https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/)
+**发布时间**: 2025-08-06 13:00
+
+#### [Want a Different Kind of Work Trip? Try a Robot Hotel](https://www.wired.com/story/inside-japan-henn-na-robot-hotel/)
+**发布时间**: 2025-08-06 13:00
+
+#### [The Internet’s Biggest Travel Nerd Shares Pointers on Points](https://www.wired.com/story/pointers-on-travel-points-view-from-the-wing/)
+**发布时间**: 2025-08-06 13:00
+
+#### [How Much Protein You Really Need, According to the Experts (2025)](https://www.wired.com/story/how-much-protein-do-i-need/)
+**发布时间**: 2025-08-06 12:30
+
+#### [See 6 Planets Align in the Night Sky This August](https://www.wired.com/story/see-6-planets-align-in-the-night-sky-this-august/)
+**发布时间**: 2025-08-06 12:14
+
+#### [Totem Compass Review: Find Your Friends, No Reception Required](https://www.wired.com/review/totem-labs-compass/)
+**发布时间**: 2025-08-06 12:06
+
+#### [16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
+**发布时间**: 2025-08-06 11:30
+
+#### [Charter Planes and Bidding Wars: How Bitcoin Miners Raced to Beat Trump’s Tariffs](https://www.wired.com/story/charter-planes-and-bidding-wars-how-bitcoin-miners-raced-to-beat-trumps-tariffs/)
+**发布时间**: 2025-08-06 11:00
+
+#### [Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable](https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/)
+**发布时间**: 2025-08-06 10:30
+
+#### [Life After the Atomic Blast, as Told by Hiroshima’s Survivors](https://www.wired.com/story/life-after-the-atomic-blast-as-told-by-hiroshimas-survivors/)
+**发布时间**: 2025-08-06 10:11
+
+#### [The History and Physics of the Atomic Bomb](https://www.wired.com/story/the-history-and-physics-of-the-atomic-bomb-hiroshima-80th-anniversary/)
+**发布时间**: 2025-08-06 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从零开始，改造一张可以用 Siri 控制的升降桌](https://sspai.com/prime/story/diy-a-siri-enabled-standing-desk)
+**发布时间**: 2025-08-06 17:32
+
+#### [日本浮生录 08：福岛三日，山路见远空](https://sspai.com/post/101579)
+**发布时间**: 2025-08-06 17:30
 
 ---
 

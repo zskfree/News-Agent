@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-06 05:31
+**最后更新时间**: 2025-08-06 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-06 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Nvidia and other chip stocks are shrugging off Trump’s latest tariff threat](https://www.marketwatch.com/bulletins/redirect/go?g=eaa4a64f-2c75-4223-ac81-2870f7ce28fd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 23:00
+
+#### [NFL RedZone gives fans a reason to buy ESPN’s new $29.99 streaming service](https://www.marketwatch.com/bulletins/redirect/go?g=23593d33-2e0e-4cd4-b463-32b4ba654aec&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 22:36
+
+#### [Lyft shares struggle to keep up with Uber following mixed quarterly results](https://www.marketwatch.com/bulletins/redirect/go?g=7f88b293-cf17-463b-bf85-366ca19ca6db&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 21:24
+
+#### [Airbnb is wading deeper into politics. It could weigh on profits.](https://www.marketwatch.com/bulletins/redirect/go?g=65946173-a282-4b69-b076-0ea02d6323f1&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 20:43
+
+#### [S&P 500 and Nasdaq close on strong gains, while Apple leads Dow higher](https://www.marketwatch.com/bulletins/redirect/go?g=8fb4e9f6-360e-4e02-bd46-00193572b52c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 20:05
+
+#### [Stocks rebounding from Tuesday's dip, with Apple, McDonald's leading Dow — live](https://www.marketwatch.com/bulletins/redirect/go?g=3f32b2a7-f967-4909-a5c3-ab3c200e646c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 19:07
+
+#### [A record $100B auction of Treasury bills is on Thursday. These are the risks.](https://www.marketwatch.com/bulletins/redirect/go?g=d13ea33f-c646-4655-9004-3b9bb05e5bef&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 17:59
+
+#### [Trump’s new tariffs start tomorrow. Here’s who’s getting hit, and by how much.](https://www.marketwatch.com/bulletins/redirect/go?g=fb289c80-3212-4411-9970-0c8d81849709&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 17:22
+
+#### [Apple’s stock gains as new announcement with Trump could help its tariff problem](https://www.marketwatch.com/bulletins/redirect/go?g=706a55d5-042d-43b5-9a55-f5986d214ab5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 15:34
+
+#### [AMD’s stock is down, but these new estimates have analysts feeling upbeat](https://www.marketwatch.com/bulletins/redirect/go?g=d02991f5-1852-4f01-95d6-78e689b03acd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-06 13:50
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Nvidia and other chip stocks are shrugging off Trump’s latest tariff threat](https://www.marketwatch.com/story/why-nvidia-and-other-chip-stocks-are-shrugging-off-trumps-latest-tariff-threat-11e104ba?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 22:58
+
+#### [Consumers are ordering more deliveries, says DoorDash. The stock is surging.](https://www.marketwatch.com/story/consumers-are-ordering-more-deliveries-says-doordash-the-stock-is-surging-08fa35fb?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 22:24
+
+#### [Lyft shares struggle to keep up with Uber following mixed results. ‘Comparison is the thief of joy,’ analyst says.](https://www.marketwatch.com/story/lyft-shares-struggle-to-keep-up-with-uber-following-mixed-quarterly-results-7e541a7d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 22:23
+
+#### [Airbnb is wading deeper into politics. It could weigh on profits.](https://www.marketwatch.com/story/airbnb-is-wading-deeper-into-politics-it-could-weigh-on-profits-01e68489?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 21:58
+
+#### [My relative, 80, was about to be scammed out of $40,000. Here’s how I stopped it.](https://www.marketwatch.com/story/heres-how-i-talked-my-80-year-old-relative-out-of-giving-40-000-to-scammers-in-the-nick-of-time-1fed265d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 21:50
+
+#### [These stock pickers just had their worst month of 2025 at trying to beat benchmarks](https://www.marketwatch.com/story/these-stock-pickers-just-had-their-worst-month-of-2025-at-trying-to-beat-benchmarks-78b0b931?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 21:44
+
+#### [DraftKings’ profit doubles expectations as people are betting — and losing — more](https://www.marketwatch.com/story/draftkings-profit-doubles-expectations-as-people-are-betting-and-losing-more-1e367723?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 21:42
+
+#### [Apple’s stock gains as new announcement with Trump could help its tariff problem](https://www.marketwatch.com/story/apples-stock-gains-as-new-announcement-with-trump-could-help-its-tariff-problem-a7d295d0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-06 21:41
 
 ---
 
