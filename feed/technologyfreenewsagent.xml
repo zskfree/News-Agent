@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 Aug 2025 05:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Aug 2025 05:32:26 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 08:32:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道</title>
-      <link>http://www.geekpark.net/news/352373</link>
-      <description>&lt;![CDATA[OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 08:27:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352373</guid>
+      <title>王炸组合！OpenAI首个开源模型已上线！</title>
+      <link>https://www.infoq.cn/article/3iJoCcM1zV4PkH25KgEx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[王炸组合！OpenAI首个开源模型已上线！]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3iJoCcM1zV4PkH25KgEx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump Sees Phama Tariffs Up to 250%,  Chip Tariffs As Soon As Next Week</title>
-      <link>https://www.tmtpost.com/7649841.html</link>
-      <description>&lt;![CDATA[Trump Sees Phama Tariffs Up to 250%,  Chip Tariffs As Soon As Next Week]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7649841.html</guid>
+      <title>Trump Said to Press TSMC to Buy 49% Stake in Intel Amid Tariff Talks with Taiwan</title>
+      <link>https://www.tmtpost.com/7650103.html</link>
+      <description>&lt;![CDATA[Trump Said to Press TSMC to Buy 49% Stake in Intel Amid Tariff Talks with Taiwan]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7650103.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AMD：CPU 强吃英特尔，AI GPU 何时能抗英伟达？</title>
-      <link>https://www.tmtpost.com/7649614.html</link>
-      <description>&lt;![CDATA[AMD：CPU 强吃英特尔，AI GPU 何时能抗英伟达？]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7649614.html</guid>
+      <title>【科股一线拆解】华为最新宣布，开源！</title>
+      <link>https://www.tmtpost.com/7649918.html</link>
+      <description>&lt;![CDATA[【科股一线拆解】华为最新宣布，开源！]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 12:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7649918.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Ant Digital Unveils Financial AI Model as China’s LLM Race Reaches Banking Sector</title>
-      <link>https://www.tmtpost.com/7649657.html</link>
-      <description>&lt;![CDATA[Ant Digital Unveils Financial AI Model as China’s LLM Race Reaches Banking Sector]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7649657.html</guid>
+      <title>拥抱 AGI 时代的中间层⼒量：AI 中间件的机遇与挑战</title>
+      <link>https://www.infoq.cn/article/KsiwcUOpVe7ehzDe0bod?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[拥抱 AGI 时代的中间层⼒量：AI 中间件的机遇与挑战]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KsiwcUOpVe7ehzDe0bod?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent重构生产力，腾讯云/商汤/彩讯专家揭秘企业降本增效密码</title>
-      <link>https://www.infoq.cn/article/xutQydzqHChrEetKXiey?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent重构生产力，腾讯云/商汤/彩讯专家揭秘企业降本增效密码]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xutQydzqHChrEetKXiey?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力市场再调整：垂类场景爆发，从数值为王，到锚定业务结果 | ToB产业观察</title>
+      <link>https://www.tmtpost.com/7647619.html</link>
+      <description>&lt;![CDATA[算力市场再调整：垂类场景爆发，从数值为王，到锚定业务结果 | ToB产业观察]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7647619.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>今年CJ，AI 成了游戏产业的「必答题」</title>
-      <link>http://www.geekpark.net/news/352375</link>
-      <description>&lt;![CDATA[今年CJ，AI 成了游戏产业的「必答题」]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 09:11:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352375</guid>
+      <title>谷歌实验室推出了Opal，一个用于创建AI迷你应用程序的可视化平台</title>
+      <link>https://www.infoq.cn/article/ZzT5rwYsOIoZeizCZKjR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌实验室推出了Opal，一个用于创建AI迷你应用程序的可视化平台]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZzT5rwYsOIoZeizCZKjR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>特朗普的“大而美法案”要给Wi-Fi 7降速？</title>
-      <link>https://www.tmtpost.com/7649546.html</link>
-      <description>&lt;![CDATA[特朗普的“大而美法案”要给Wi-Fi 7降速？]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7649546.html</guid>
+      <title>AI竞赛下半场：为什么说“超级工厂”是最优解？</title>
+      <link>https://www.infoq.cn/article/fvUo7IOf9u0mzG6juNI0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI竞赛下半场：为什么说“超级工厂”是最优解？]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fvUo7IOf9u0mzG6juNI0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>散户疯狂、科技巨头分化，AI推动的美股牛市到顶了吗？</title>
-      <link>https://www.tmtpost.com/7649714.html</link>
-      <description>&lt;![CDATA[散户疯狂、科技巨头分化，AI推动的美股牛市到顶了吗？]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7649714.html</guid>
+      <title>AI 落地实录：我们如何重构业务流程与组织协作</title>
+      <link>https://www.infoq.cn/article/cciaE4356ZhJ5WITROAT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 落地实录：我们如何重构业务流程与组织协作]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cciaE4356ZhJ5WITROAT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人形机器人来了，酒店又有一批人要下岗了？</title>
-      <link>https://www.tmtpost.com/7649719.html</link>
-      <description>&lt;![CDATA[人形机器人来了，酒店又有一批人要下岗了？]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7649719.html</guid>
+      <title>安全噩梦：Docker警告MCP工具链中存在的风险</title>
+      <link>https://www.infoq.cn/article/Zu1GTKHp8lNzcoQ591ZA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[安全噩梦：Docker警告MCP工具链中存在的风险]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Zu1GTKHp8lNzcoQ591ZA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grok 新上的 AI 视频生成，自带「擦边」模式，马斯克靠「踩黄线」称霸 AI？</title>
-      <link>http://www.geekpark.net/news/352392</link>
-      <description>&lt;![CDATA[Grok 新上的 AI 视频生成，自带「擦边」模式，马斯克靠「踩黄线」称霸 AI？]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352392</guid>
+      <title>微软发布了TypeScript 5.9，延迟导入并增强了开发者体验</title>
+      <link>https://www.infoq.cn/article/3MQ0T1534pzBdQpx6jd4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软发布了TypeScript 5.9，延迟导入并增强了开发者体验]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3MQ0T1534pzBdQpx6jd4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

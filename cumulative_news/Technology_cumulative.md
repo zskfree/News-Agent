@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-06 05:31
+**最后更新时间**: 2025-08-06 08:31
+
+---
+
+## 🆕 最新更新 (2025-08-06 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Trump Said to Press TSMC to Buy 49% Stake in Intel Amid Tariff Talks with Taiwan](https://www.tmtpost.com/7650103.html)
+**发布时间**: 2025-08-06 16:01
+
+#### [“闭店潮”席卷美国零售业，2025年或关15000家 | 「钛度号」作品月榜第129期](https://www.tmtpost.com/7650044.html)
+**发布时间**: 2025-08-06 15:26
+
+#### [IM Motors Bets on Large-Battery Range Extender to Revive Growth Amid Cooling EREV Market](https://www.tmtpost.com/7650066.html)
+**发布时间**: 2025-08-06 15:14
+
+#### [8月6日A股分析：三大股指集体收涨，两市合计成交17340.68亿元，资金流入最多的行业板块为通用设备、汽车零部件](https://www.tmtpost.com/7650053.html)
+**发布时间**: 2025-08-06 15:08
+
+#### [“低调掌舵者”福兰接棒雷诺：转型阵痛期的续航与突围](https://www.tmtpost.com/7649337.html)
+**发布时间**: 2025-08-06 14:58
+
+#### [Trump Warns EU Would Face Higher Tariffs if It Doesn't Fulfill Investment Pledge](https://www.tmtpost.com/7650032.html)
+**发布时间**: 2025-08-06 14:53
+
+#### [Trump Suggests Extra Tariffs on Buyers of Russia Energy following Threat Against India](https://www.tmtpost.com/7650028.html)
+**发布时间**: 2025-08-06 14:52
+
+#### [算力市场再调整：垂类场景爆发，从数值为王，到锚定业务结果 | ToB产业观察](https://www.tmtpost.com/7647619.html)
+**发布时间**: 2025-08-06 14:43
+
+#### [【科股一线拆解】华为最新宣布，开源！](https://www.tmtpost.com/7649918.html)
+**发布时间**: 2025-08-06 12:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [安全噩梦：Docker警告MCP工具链中存在的风险](https://www.infoq.cn/article/Zu1GTKHp8lNzcoQ591ZA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 16:00
+
+#### [微软发布了TypeScript 5.9，延迟导入并增强了开发者体验](https://www.infoq.cn/article/3MQ0T1534pzBdQpx6jd4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 15:30
+
+#### [拥抱 AGI 时代的中间层⼒量：AI 中间件的机遇与挑战](https://www.infoq.cn/article/KsiwcUOpVe7ehzDe0bod?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 15:28
+
+#### [快手资深架构师刘中兵确认出席 AICon 深圳，分享快手架构成熟度及 AI 辅助诊断与治理实践](https://www.infoq.cn/article/v1HyRub3DTRVwM2EQYOP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 15:00
+
+#### [王炸组合！OpenAI首个开源模型已上线！](https://www.infoq.cn/article/3iJoCcM1zV4PkH25KgEx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 14:54
+
+#### [AI 落地实录：我们如何重构业务流程与组织协作](https://www.infoq.cn/article/cciaE4356ZhJ5WITROAT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 14:24
+
+#### [新的开源工具Subtrace为容器环境带来网络分析功能](https://www.infoq.cn/article/Ff6aa3yvN6vcCYEP06cM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 14:00
+
+#### [AI竞赛下半场：为什么说“超级工厂”是最优解？](https://www.infoq.cn/article/fvUo7IOf9u0mzG6juNI0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 13:57
+
+#### [谷歌实验室推出了Opal，一个用于创建AI迷你应用程序的可视化平台](https://www.infoq.cn/article/ZzT5rwYsOIoZeizCZKjR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 13:39
+
+#### [70+ 技术大咖重磅汇聚，洞察 AI 原生时代的落地实践与技术进化](https://www.infoq.cn/article/bFUrvpjq6gRjzzJ7XO3Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-06 11:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [算不得工伤，至少能自救：浅谈人体工学鼠标](https://sspai.com/post/69064)
+**发布时间**: 2025-08-06 15:03
 
 ---
 

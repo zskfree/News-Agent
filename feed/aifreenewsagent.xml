@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 Aug 2025 05:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Aug 2025 05:32:46 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 08:32:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>震撼，世界模型第一次超真实地模拟了真实世界：谷歌Genie 3昨晚抢了OpenAI风头</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-5</link>
-      <description>&lt;![CDATA[震撼，世界模型第一次超真实地模拟了真实世界：谷歌Genie 3昨晚抢了OpenAI风头]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-5</guid>
+      <title>快270倍，精度超93%，浙大侯廷军、康玉团队等全新扩散生成模型，树立蛋白质-多肽对接新标准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-11</link>
+      <description>&lt;![CDATA[快270倍，精度超93%，浙大侯廷军、康玉团队等全新扩散生成模型，树立蛋白质-多肽对接新标准]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI重新开源！深夜连发两个推理模型，o4-mini水平，笔记本、手机可跑</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-2</link>
-      <description>&lt;![CDATA[OpenAI重新开源！深夜连发两个推理模型，o4-mini水平，笔记本、手机可跑]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-2</guid>
+      <title>群核科技InteriorGS数据集登顶全球开源榜首</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-10</link>
+      <description>&lt;![CDATA[群核科技InteriorGS数据集登顶全球开源榜首]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>就是阻击OpenAI，Claude抢先数十分钟发布Claude Opus 4.1</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-4</link>
-      <description>&lt;![CDATA[就是阻击OpenAI，Claude抢先数十分钟发布Claude Opus 4.1]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-4</guid>
+      <title>腾讯AI Lab开源可复现的深度研究智能体，最大限度降低外部依赖</title>
+      <link>https://www.qbitai.com/2025/08/319416.html</link>
+      <description>&lt;![CDATA[腾讯AI Lab开源可复现的深度研究智能体，最大限度降低外部依赖]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 07:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319416.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Discrete Tokenization：多模态大模型的关键基石，首个系统化综述发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06</link>
-      <description>&lt;![CDATA[Discrete Tokenization：多模态大模型的关键基石，首个系统化综述发布]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06</guid>
+      <title>腾讯2026校园招聘正式启动，将推出AI产品经理培训生项目</title>
+      <link>https://www.qbitai.com/2025/08/319407.html</link>
+      <description>&lt;![CDATA[腾讯2026校园招聘正式启动，将推出AI产品经理培训生项目]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319407.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>北大、蚂蚁三个维度解构高效隐私保护机器学习：前沿进展+发展方向</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-3</link>
-      <description>&lt;![CDATA[北大、蚂蚁三个维度解构高效隐私保护机器学习：前沿进展+发展方向]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-3</guid>
+      <title>AI时代硬核EMBA来了！交大高金「科技强国计划」全额奖学金等你来拿</title>
+      <link>https://www.qbitai.com/2025/08/319391.html</link>
+      <description>&lt;![CDATA[AI时代硬核EMBA来了！交大高金「科技强国计划」全额奖学金等你来拿]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319391.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>叫板英伟达RTX 5090！GPU初创公司做出13倍路径追踪性能的怪兽显卡</title>
-      <link>https://www.qbitai.com/2025/08/319306.html</link>
-      <description>&lt;![CDATA[叫板英伟达RTX 5090！GPU初创公司做出13倍路径追踪性能的怪兽显卡]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 04:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319306.html</guid>
+      <title>全球第一！群核科技InteriorGS数据集霸榜HuggingFace趋势榜</title>
+      <link>https://www.qbitai.com/2025/08/319390.html</link>
+      <description>&lt;![CDATA[全球第一！群核科技InteriorGS数据集霸榜HuggingFace趋势榜]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319390.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>第十三届互联网安全大会：多智能体蜂群掀起安全与 AI 融合革命</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-6</link>
-      <description>&lt;![CDATA[第十三届互联网安全大会：多智能体蜂群掀起安全与 AI 融合革命]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-6</guid>
+      <title>英伟达推理服务器被曝高危漏洞，云端AI模型被攻击直接裸奔</title>
+      <link>https://www.qbitai.com/2025/08/319370.html</link>
+      <description>&lt;![CDATA[英伟达推理服务器被曝高危漏洞，云端AI模型被攻击直接裸奔]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319370.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Efficient Agents: Building Effective Agents While Reducing Cost</title>
-      <link>https://arxiv.org/abs/2508.02694</link>
-      <description>&lt;![CDATA[Efficient Agents: Building Effective Agents While Reducing Cost]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.02694</guid>
+      <title>一个APP就能拍短片！人物、字幕、BGM……AI Agent统统自己搞定</title>
+      <link>https://www.qbitai.com/2025/08/319344.html</link>
+      <description>&lt;![CDATA[一个APP就能拍短片！人物、字幕、BGM……AI Agent统统自己搞定]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319344.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>When AIs Judge AIs: The Rise of Agent-as-a-Judge Evaluation for LLMs</title>
-      <link>https://arxiv.org/abs/2508.02994</link>
-      <description>&lt;![CDATA[When AIs Judge AIs: The Rise of Agent-as-a-Judge Evaluation for LLMs]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.02994</guid>
+      <title>AlphaGo开发者创业挑战DeepSeek，成立仅一年目标融资10亿美元</title>
+      <link>https://www.qbitai.com/2025/08/319343.html</link>
+      <description>&lt;![CDATA[AlphaGo开发者创业挑战DeepSeek，成立仅一年目标融资10亿美元]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319343.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree</title>
-      <link>https://arxiv.org/abs/2508.03038</link>
-      <description>&lt;![CDATA[Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.03038</guid>
+      <title>ChatGPT居然也推出防沉迷模式了</title>
+      <link>https://www.qbitai.com/2025/08/319334.html</link>
+      <description>&lt;![CDATA[ChatGPT居然也推出防沉迷模式了]]&gt;</description>
+      <pubDate>Wed, 06 Aug 2025 06:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319334.html</guid>
       <category>AI</category>
     </item>
   </channel>
