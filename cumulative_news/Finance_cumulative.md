@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-07 05:30
+**最后更新时间**: 2025-08-07 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-07 23:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Vistra sees electricity demand trending like it’s the 1990s, fueled by AI and crypto](https://www.marketwatch.com/story/vistra-sees-electricity-demand-trending-like-its-the-1990s-fueled-by-ai-and-crypto-f7bd73d9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 23:07
+
+#### [Moon-exploration company Firefly’s stock skyrockets as investors pile into the latest space IPO](https://www.marketwatch.com/story/moon-exploration-company-fireflys-ipo-pricing-shows-investor-demand-keeps-rising-14ae123f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 22:01
+
+#### [Miran tapped by Trump for Fed governor post. Why ‘he’s just a  seat warmer.’](https://www.marketwatch.com/story/miran-tapped-by-trump-for-fed-governor-post-but-its-just-temporary-heres-why-39d87e56?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 21:27
+
+#### [Instacart says its grocery partners are starting to ‘embrace more competitive pricing,’ as demand forecast tops estimates](https://www.marketwatch.com/story/instacart-says-its-grocery-partners-are-starting-to-embrace-more-competitive-pricing-as-demand-forecast-tops-estimates-fd30777a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 21:27
+
+#### [Trade Desk’s stock tumbles after earnings. Are investors being too harsh?](https://www.marketwatch.com/story/trade-desks-stock-tumbles-after-earnings-are-investors-being-too-harsh-2a5d621d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 21:07
+
+#### [How options trading in Palantir, Uber and Fortinet gave clues to the stocks’ postearnings moves](https://www.marketwatch.com/story/how-options-trading-in-palantir-uber-and-fortinet-offers-clues-to-the-stocks-postearnings-moves-8284a198?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 20:55
+
+#### [I’m ready to invest in crypto with my 401(k). So why can’t I do it yet?](https://www.marketwatch.com/story/im-ready-to-invest-in-crypto-with-my-401-k-so-why-cant-i-do-it-yet-ad248ee9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 20:50
+
+#### [Block’s stock pops after earnings, as its two financial engines reignite](https://www.marketwatch.com/story/blocks-stock-pops-after-earnings-as-its-two-financial-engines-reignite-2b71e1f3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 20:36
+
+#### [Why Fortinet’s stock just saw one of its worst drops on record](https://www.marketwatch.com/story/why-fortinets-stock-could-see-its-worst-drop-on-record-132b77e9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 20:31
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Is now a good time to refinance your car loan? Here’s how to tell.](https://www.marketwatch.com/bulletins/redirect/go?g=e606489a-8596-427b-b6a7-6218fefd81c3&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 23:05
+
+#### [All eyes on oil prices ahead of Trump’s Friday deadline for Russia-Ukraine deal](https://www.marketwatch.com/bulletins/redirect/go?g=f6e9007b-d838-4b0c-8bfd-4593324189f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 21:46
+
+#### [SoundHound's stock surges as earnings show a growing embrace of voice AI](https://www.marketwatch.com/bulletins/redirect/go?g=473502ed-978b-4aeb-8e49-02139f48dd22&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 20:39
+
+#### [Miran tapped by Trump for Fed governor — but it’s just temporary. Here's why.](https://www.marketwatch.com/bulletins/redirect/go?g=45f6fb47-8698-4e66-8ce9-f968e5c85481&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 20:14
+
+#### [Dow, S&P 500 end lower, Nasdaq ekes out record close as new tariffs take effect](https://www.marketwatch.com/bulletins/redirect/go?g=6a197ada-18cb-4842-9828-991523ee2d55&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 20:03
+
+#### [Is the economy as good as Wall Street says? How markets and the data differ.](https://www.marketwatch.com/bulletins/redirect/go?g=d98bc15d-ce3c-4621-a12a-676dc0da563c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 19:43
+
+#### [Dow down nearly 300 points as stocks head for losses in final hour — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=cc91b2c8-fee0-4e8f-a702-1c50cd4695ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 19:02
+
+#### [What Trump's tariffs mean for you — and which countries and sectors are next](https://www.marketwatch.com/bulletins/redirect/go?g=cab225a0-245d-47d8-ae98-d4dc33bf670d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 17:30
+
+#### [More Americans falling behind on both mortgage and student-loan payments](https://www.marketwatch.com/bulletins/redirect/go?g=a97bfc03-7f17-45a6-a23c-ca969a8ea484&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 16:39
+
+#### [Dow wobbles after triple-digit run-up at opening bell — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=edbc1f62-4399-4759-8aff-00c9cf01918a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 14:25
 
 ---
 

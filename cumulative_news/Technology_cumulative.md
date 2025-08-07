@@ -1,7 +1,172 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-07 08:36
+**最后更新时间**: 2025-08-07 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-07 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [架构化造车再进化，SMA才是沃尔沃新底牌？](https://www.tmtpost.com/7652466.html)
+**发布时间**: 2025-08-08 06:42
+
+#### [OpenAI Launches GPT-5, Its Most Advanced Model Yet](https://www.tmtpost.com/7652591.html)
+**发布时间**: 2025-08-08 02:09
+
+#### [溢价裸奔+数据打架+差异定价，分众传媒83亿并购的三个异常｜并购一线](https://www.tmtpost.com/7652367.html)
+**发布时间**: 2025-08-07 22:52
+
+#### [5年10倍增长，欧洲成新能源出海的福地？｜出海参考](https://www.tmtpost.com/7652213.html)
+**发布时间**: 2025-08-07 21:00
+
+#### [宁波前首富撤退，一家新公司接盘，河化股份再度易主](https://www.tmtpost.com/7652244.html)
+**发布时间**: 2025-08-07 20:18
+
+#### [中自科技股权激励设“超低门槛”背后：业绩“坐过山车”，IPO募资超64%补流](https://www.tmtpost.com/7652257.html)
+**发布时间**: 2025-08-07 20:16
+
+#### [亚信科技上半年收入26亿元，保利润加注AI大模型｜看财报](https://www.tmtpost.com/7651974.html)
+**发布时间**: 2025-08-07 19:27
+
+#### [大模型最强生态？今天有答案了](https://www.tmtpost.com/7652111.html)
+**发布时间**: 2025-08-07 19:21
+
+#### [蒙眼狂奔的紫金银行，应该想想怎么赚钱](https://www.tmtpost.com/7652027.html)
+**发布时间**: 2025-08-07 19:11
+
+#### [订阅服务涨价，小牛得了特斯拉的病？](https://www.tmtpost.com/7652060.html)
+**发布时间**: 2025-08-07 19:11
+
+#### [《世界之外》“暴雷”：撕开乙女游戏的遮羞布？](https://www.tmtpost.com/7652025.html)
+**发布时间**: 2025-08-07 19:11
+
+#### [字节的火山，撬走了阿里云的订单](https://www.tmtpost.com/7650463.html)
+**发布时间**: 2025-08-07 19:06
+
+#### [两轮车市大丰收，雅迪爱玛为何跑输九号？](https://www.tmtpost.com/7650579.html)
+**发布时间**: 2025-08-07 19:05
+
+#### [腾讯AI梦：克制的雄心](https://www.tmtpost.com/7652001.html)
+**发布时间**: 2025-08-07 19:05
+
+#### [花90万开家塔斯汀，能赚钱吗？](https://www.tmtpost.com/7652101.html)
+**发布时间**: 2025-08-07 19:05
+
+#### [海底捞求变：高端化与下沉市场能否兼得？](https://www.tmtpost.com/7652079.html)
+**发布时间**: 2025-08-07 19:05
+
+#### [想成为“巨人杀手”的卓驭](https://www.tmtpost.com/7652128.html)
+**发布时间**: 2025-08-07 19:05
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI GPT-5 发布：模型能力全面「屠榜」，构建「超级智能」的第一步](http://www.geekpark.net/news/352474)
+**发布时间**: 2025-08-08 02:50
+
+#### [从能展示到能顶岗，人形机器人的「上班时刻」到了吗？](http://www.geekpark.net/news/352472)
+**发布时间**: 2025-08-08 00:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/)
+**发布时间**: 2025-08-07 23:15
+
+#### [The Best Colored Noise for Sleep (2025)](https://www.wired.com/story/best-noise-for-sleep/)
+**发布时间**: 2025-08-07 21:12
+
+#### [The 35 Best Movies on HBO Max Right Now (August 2025)](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+**发布时间**: 2025-08-07 19:00
+
+#### [Mysterious Crime Spree Targeted National Guard Equipment Stashes](https://www.wired.com/story/mysterious-crime-spree-targeted-national-guard-equipment-stashes/)
+**发布时间**: 2025-08-07 18:21
+
+#### [Encryption Made for Police and Military Radios May Be Easily Cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
+**发布时间**: 2025-08-07 18:09
+
+#### [OpenAI Finally Launched GPT-5. Here's Everything You Need to Know](https://www.wired.com/story/openais-gpt-5-is-here/)
+**发布时间**: 2025-08-07 17:00
+
+#### [Why the US Is Racing to Build a Nuclear Reactor on the Moon](https://www.wired.com/story/why-the-us-is-racing-to-build-a-nuclear-reactor-on-the-moon/)
+**发布时间**: 2025-08-07 16:31
+
+#### [Age Verification Is Sweeping Gaming. Is It Ready for the Age of AI Fakes?](https://www.wired.com/story/age-verification-is-sweeping-gaming-is-it-ready-for-the-age-of-ai-fakes/)
+**发布时间**: 2025-08-07 16:30
+
+#### [Trump Is Undermining Trust in Official Economic Statistics. China Shows Where That Path Can Lead](https://www.wired.com/story/trump-labor-statistics-china-comparison-gdp-unemployment/)
+**发布时间**: 2025-08-07 15:11
+
+#### [Framework Desktop Review: A Delightful Surprise](https://www.wired.com/review/framework-desktop/)
+**发布时间**: 2025-08-07 15:00
+
+#### [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
+**发布时间**: 2025-08-07 14:00
+
+#### [The Best Golf Rangefinders (2025)](https://www.wired.com/gallery/best-golf-rangefinders/)
+**发布时间**: 2025-08-07 13:03
+
+#### [Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
+**发布时间**: 2025-08-07 12:30
+
+#### [10 Best Meal Delivery Services, Tested By an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
+**发布时间**: 2025-08-07 12:03
+
+#### [Ceretone Core One Pro Hearing Aids Review: A Blunt Instrument](https://www.wired.com/review/ceretone-core-one-pro-hearing-aids/)
+**发布时间**: 2025-08-07 11:30
+
+#### [Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results](https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/)
+**发布时间**: 2025-08-07 10:30
+
+#### [Best Mattress 2025: We’ve Tested 100+ so You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
+**发布时间**: 2025-08-07 10:03
+
+#### [NASA Rewrites the Rules for Developers of Private Space Stations](https://www.wired.com/story/nasas-new-chief-has-radically-rewritten-the-rules-for-private-space-stations/)
+**发布时间**: 2025-08-07 07:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [OpenAI gets caught vibe graphing](https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime)
+**发布时间**: 2025-08-07 21:33
+
+#### [The Browser Company’s AI browser now has a $20 subscription](https://www.theverge.com/news/756427/browser-company-dia-pro-ai-pricing)
+**发布时间**: 2025-08-07 21:30
+
+#### [The latest iPad Air is cheaper than ever](https://www.theverge.com/tech/756304/apple-m3-ipad-air-back-to-school-deal-sale)
+**发布时间**: 2025-08-07 20:18
+
+#### [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)
+**发布时间**: 2025-08-07 19:58
+
+#### [Friendslop is coming for the Switch 2](https://www.theverge.com/games/756236/content-warning-coop-games-nintendo-switch-2-lethal-company)
+**发布时间**: 2025-08-07 19:38
+
+#### [Paramount is now a Skydance Corporation](https://www.theverge.com/tv/756298/paramount-plus-skydance-merger-complete-david-ellison)
+**发布时间**: 2025-08-07 19:35
+
+#### [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)
+**发布时间**: 2025-08-07 18:32
+
+#### [Meta&#8217;s prototype headsets show off the future of mixed reality](https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025)
+**发布时间**: 2025-08-07 18:29
+
+#### [Weapons turns our deepest anxieties into a potent horror masterpiece](https://www.theverge.com/movie-reviews/719762/weapons-review)
+**发布时间**: 2025-08-07 17:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [第二届IOAI盛大启幕，网易有道提供独家翻译支持](https://www.infoq.cn/article/mJHJJMBWXqzO0B96J6I6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 21:04
+
+#### [金融智能体，真有那么神？| InfoQ《极客有约》](https://www.infoq.cn/video/UwtIBw04baOHbR84BODj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 19:02
+
+#### [AI 时代超级个体的做事方法论｜AICon 深圳](https://www.infoq.cn/article/6irSspYPp0vyo6YilpVF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 17:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [超越信息收集：从认知科学角度看笔记](https://sspai.com/post/101574)
+**发布时间**: 2025-08-07 17:27
 
 ---
 

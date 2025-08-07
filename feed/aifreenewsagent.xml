@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 Aug 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Aug 2025 08:37:11 GMT</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 23:22:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌开源DeepPolisher，基因组组装错误率减半，Jeff Dean：令人振奋！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-07-5</link>
-      <description>&lt;![CDATA[谷歌开源DeepPolisher，基因组组装错误率减半，Jeff Dean：令人振奋！]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-5</guid>
+      <title>GPT-5 is here. Now what?</title>
+      <link>https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/</link>
+      <description>&lt;![CDATA[GPT-5 is here. Now what?]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Achieving 10,000x training data reduction with high-fidelity labels</title>
+      <link>https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/</link>
+      <description>&lt;![CDATA[Achieving 10,000x training data reduction with high-fidelity labels]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>硬核拆解大模型，从 DeepSeek-V3 到 Kimi K2 ，一文看懂 LLM 主流架构</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-7</link>
+      <description>&lt;![CDATA[硬核拆解大模型，从 DeepSeek-V3 到 Kimi K2 ，一文看懂 LLM 主流架构]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 21:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>北大、字节跳动联手发布SWE-Swiss：一把修复代码Bug的「瑞士军刀」，完整配方直指开源SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08</link>
+      <description>&lt;![CDATA[北大、字节跳动联手发布SWE-Swiss：一把修复代码Bug的「瑞士军刀」，完整配方直指开源SOTA]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 07:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>颠覆互联网的下一波浪潮：Agentic Web来了！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-10</link>
+      <description>&lt;![CDATA[颠覆互联网的下一波浪潮：Agentic Web来了！]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>云计算一哥首度牵手OpenAI，大模型「选择」自由，才是终极胜利</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-11</link>
+      <description>&lt;![CDATA[云计算一哥首度牵手OpenAI，大模型「选择」自由，才是终极胜利]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 22:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek的GRPO会导致模型崩溃？看下Qwen3新范式GSPO</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-8</link>
+      <description>&lt;![CDATA[DeepSeek的GRPO会导致模型崩溃？看下Qwen3新范式GSPO]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 21:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>让AI读懂「言外之意」：AI4SG团队发布首个心理健康污名语料库，破解隐性偏见识别难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-6</link>
+      <description>&lt;![CDATA[让AI读懂「言外之意」：AI4SG团队发布首个心理健康污名语料库，破解隐性偏见识别难题]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 21:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球最大AI模型聚合平台诞生！不争冠军只做擂台</title>
+      <link>https://www.qbitai.com/2025/08/319773.html</link>
+      <description>&lt;![CDATA[全球最大AI模型聚合平台诞生！不争冠军只做擂台]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319773.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，奥特曼发布GPT-5！人人免费用「博士级」智能，基准图错误遭全网吐槽</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08-2</link>
+      <description>&lt;![CDATA[刚刚，奥特曼发布GPT-5！人人免费用「博士级」智能，基准图错误遭全网吐槽]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-2</guid>
       <category>AI</category>
     </item>
   </channel>
