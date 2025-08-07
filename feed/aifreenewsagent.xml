@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 Aug 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Aug 2025 23:23:16 GMT</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 05:29:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 05:30:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一图读懂《上海市具身智能产业发展实施方案》</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-13</link>
-      <description>&lt;![CDATA[一图读懂《上海市具身智能产业发展实施方案》]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 17:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-13</guid>
+      <title>Qwen紧追OpenAI开源4B端侧大模型，AIME25得分超越Claude 4 Opus</title>
+      <link>https://www.qbitai.com/2025/08/319667.html</link>
+      <description>&lt;![CDATA[Qwen紧追OpenAI开源4B端侧大模型，AIME25得分超越Claude 4 Opus]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 01:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319667.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: OpenAI’s open-weight models, and the future of internet search</title>
-      <link>https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/</link>
-      <description>&lt;![CDATA[The Download: OpenAI’s open-weight models, and the future of internet search]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/</guid>
+      <title>Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents</title>
+      <link>https://arxiv.org/abs/2508.03991</link>
+      <description>&lt;![CDATA[Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.03991</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI首席科学家访谈被紧急制止！有些名字现在不让说了……</title>
-      <link>https://www.qbitai.com/2025/08/319587.html</link>
-      <description>&lt;![CDATA[OpenAI首席科学家访谈被紧急制止！有些名字现在不让说了……]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319587.html</guid>
+      <title>LLM Collaboration With Multi-Agent Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2508.04652</link>
+      <description>&lt;![CDATA[LLM Collaboration With Multi-Agent Reinforcement Learning]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.04652</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML2025｜探索损失加权机制的本质以实现更好的LLM反学习</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-12</link>
-      <description>&lt;![CDATA[ICML2025｜探索损失加权机制的本质以实现更好的LLM反学习]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-12</guid>
+      <title>OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</title>
+      <link>https://arxiv.org/abs/2508.04482</link>
+      <description>&lt;![CDATA[OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.04482</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Five ways that AI is learning to improve itself</title>
-      <link>https://www.technologyreview.com/2025/08/06/1121193/five-ways-that-ai-is-learning-to-improve-itself/</link>
-      <description>&lt;![CDATA[Five ways that AI is learning to improve itself]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/06/1121193/five-ways-that-ai-is-learning-to-improve-itself/</guid>
+      <title>人大高瓴-华为诺亚：大语言模型智能体记忆机制的系列研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-3</link>
+      <description>&lt;![CDATA[人大高瓴-华为诺亚：大语言模型智能体记忆机制的系列研究]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>“神经-符号”融合规划器性能显著超越o1：借鉴人类运动学习机制</title>
-      <link>https://www.qbitai.com/2025/08/319472.html</link>
-      <description>&lt;![CDATA[“神经-符号”融合规划器性能显著超越o1：借鉴人类运动学习机制]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319472.html</guid>
+      <title>MI9 -- Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems</title>
+      <link>https://arxiv.org/abs/2508.03858</link>
+      <description>&lt;![CDATA[MI9 -- Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.03858</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Highly accurate genome polishing with DeepPolisher: Enhancing the foundation of genomic research</title>
-      <link>https://research.google/blog/highly-accurate-genome-polishing-with-deeppolisher-enhancing-the-foundation-of-genomic-research/</link>
-      <description>&lt;![CDATA[Highly accurate genome polishing with DeepPolisher: Enhancing the foundation of genomic research]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/highly-accurate-genome-polishing-with-deeppolisher-enhancing-the-foundation-of-genomic-research/</guid>
+      <title>Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety</title>
+      <link>https://arxiv.org/abs/2508.03864</link>
+      <description>&lt;![CDATA[Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.03864</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Insulin resistance prediction from wearables and routine blood biomarkers</title>
-      <link>https://research.google/blog/insulin-resistance-prediction-from-wearables-and-routine-blood-biomarkers/</link>
-      <description>&lt;![CDATA[Insulin resistance prediction from wearables and routine blood biomarkers]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 20:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/insulin-resistance-prediction-from-wearables-and-routine-blood-biomarkers/</guid>
+      <title>From &quot;Aha Moments&quot; to Controllable Thinking: Toward Meta-Cognitive Reasoning in Large Reasoning Models via Decoupled Reasoning and Control</title>
+      <link>https://arxiv.org/abs/2508.04460</link>
+      <description>&lt;![CDATA[From &quot;Aha Moments&quot; to Controllable Thinking: Toward Meta-Cognitive Reasoning in Large Reasoning Models via Decoupled Reasoning and Control]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.04460</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>战报：马斯克Grok4笑傲AI象棋大赛，DeepSeek没干过o4-mini，Kimi K2被喊冤</title>
-      <link>https://www.qbitai.com/2025/08/319613.html</link>
-      <description>&lt;![CDATA[战报：马斯克Grok4笑傲AI象棋大赛，DeepSeek没干过o4-mini，Kimi K2被喊冤]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319613.html</guid>
+      <title>Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</title>
+      <link>https://arxiv.org/abs/2508.03703</link>
+      <description>&lt;![CDATA[Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.03703</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>六座Model Y L最新爆料：后排4座都可折叠，全部放倒可当“货厢”</title>
-      <link>https://www.qbitai.com/2025/08/319443.html</link>
-      <description>&lt;![CDATA[六座Model Y L最新爆料：后排4座都可折叠，全部放倒可当“货厢”]]&gt;</description>
-      <pubDate>Wed, 06 Aug 2025 08:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319443.html</guid>
+      <title>傅利叶发布全新人形机器人“Care-bot”GR-3，定义&quot;有爱的&quot;交互新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07</link>
+      <description>&lt;![CDATA[傅利叶发布全新人形机器人“Care-bot”GR-3，定义&quot;有爱的&quot;交互新范式]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07</guid>
       <category>AI</category>
     </item>
   </channel>

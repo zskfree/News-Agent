@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-06 23:22
+**最后更新时间**: 2025-08-07 05:30
+
+---
+
+## 🆕 最新更新 (2025-08-07 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [731加上918，等于多少？](https://www.tmtpost.com/7650489.html)
+**发布时间**: 2025-08-07 13:17
+
+#### [和誉医药上半年利润大增59%，潜在“十亿美元分子”还在输出](https://www.tmtpost.com/7650695.html)
+**发布时间**: 2025-08-07 13:12
+
+#### [招商银行经典白，迎来两条坏消息](https://www.tmtpost.com/7651035.html)
+**发布时间**: 2025-08-07 13:07
+
+#### [收割二次元，小红书准备好了吗？](https://www.tmtpost.com/7651152.html)
+**发布时间**: 2025-08-07 13:01
+
+#### [Apple Remains Unaffected by New Tariffs on India, Adds $100 Billion Committed Investment in U.S.](https://www.tmtpost.com/7651515.html)
+**发布时间**: 2025-08-07 12:50
+
+#### [今年脱口秀、舞剧、音乐剧等市场杀疯了](https://www.tmtpost.com/7650558.html)
+**发布时间**: 2025-08-07 12:48
+
+#### [90%的企业都找错了灯塔客群](https://www.tmtpost.com/7651326.html)
+**发布时间**: 2025-08-07 12:44
+
+#### [重生之我在午休送外卖](https://www.tmtpost.com/7651339.html)
+**发布时间**: 2025-08-07 12:40
+
+#### [南长隆，北圣亚，老牌主题景区如何华丽“进化”？](https://www.tmtpost.com/7651340.html)
+**发布时间**: 2025-08-07 12:40
+
+#### [西部，风光电大崛起](https://www.tmtpost.com/7651363.html)
+**发布时间**: 2025-08-07 12:40
+
+#### [飞行汽车：开启规模化试飞](https://www.tmtpost.com/7651428.html)
+**发布时间**: 2025-08-07 12:40
+
+#### [Synchron Unveils World’s First Thought-Controlled iPad Using Apple's Brain Interface Protocol](https://www.tmtpost.com/7651372.html)
+**发布时间**: 2025-08-07 11:31
+
+#### [特朗普疯了！美国宣布将对芯片征收100%关税，全球产业链严阵以待](https://www.tmtpost.com/7651208.html)
+**发布时间**: 2025-08-07 11:27
+
+#### [More Countries May Face Secondary Tariffs after Trump Hits India with Extra 25% Tariffs over Russian Oil Purchases](https://www.tmtpost.com/7651322.html)
+**发布时间**: 2025-08-07 11:06
+
+#### [连锁酒店派系混战：从资本狂欢到存量博弈](https://www.tmtpost.com/7650920.html)
+**发布时间**: 2025-08-07 11:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [.NET Aspire 9.4发布了CLI GA、交互式仪表板和高级部署功能](https://www.infoq.cn/article/yGfSpsBHjw2OHkY6MJMX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 12:00
+
+#### [智能化转型如何落地？华润啤酒的架构治理体系落地探索｜AICon 深圳](https://www.infoq.cn/article/i6iAWMzYKr17f37qblRt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 11:30
+
+#### [后端FinOps：在云上打造成本效益高的微服务](https://www.infoq.cn/article/py1v606UHRpQyRc0eGVt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 10:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片](https://sspai.com/post/101521)
+**发布时间**: 2025-08-07 11:33
+
+#### [派早报：大疆正式发布扫拖一体机器人、OpenAI 推出两款开源模型等](https://sspai.com/post/101656)
+**发布时间**: 2025-08-07 08:18
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [GPT-5 发布时间定了；宝马 i 系列汽车设计主管 Kai Langer 宣布加入小米；消息称爱奇艺拟赴港上市融资 3 亿美元](http://www.geekpark.net/news/352424)
+**发布时间**: 2025-08-07 08:47
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“冷暴力”的恋与深空，迎来玩家律师函](http://www.huxiu.com/article/4662686.html?f=wangzhan)
+**发布时间**: 2025-08-07 07:48
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [LG Promo Codes: 20% Off | August 2025](https://www.wired.com/story/lg-promo-code/)
+**发布时间**: 2025-08-07 05:00
+
+#### [A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT](https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/)
+**发布时间**: 2025-08-06 23:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Sonos confirms tariffs will increase its prices this year](https://www.theverge.com/news/739106/sonos-price-hike-tariffs)
+**发布时间**: 2025-08-06 23:42
 
 ---
 

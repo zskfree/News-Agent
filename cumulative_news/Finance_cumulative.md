@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-06 23:22
+**最后更新时间**: 2025-08-07 05:30
+
+---
+
+## 🆕 最新更新 (2025-08-07 05:30)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump’s new tariffs start today. Here’s who’s getting hit, and by how much.](https://www.marketwatch.com/story/trumps-new-tariffs-start-tomorrow-heres-whos-getting-hit-and-by-how-much-3adc3dc4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 04:01
+
+#### [United Airlines sees massive delays after hundreds of U.S. flights grounded due to technical issue](https://www.marketwatch.com/story/united-airlines-sees-massive-delays-after-hundreds-of-flights-grounded-due-to-technical-issue-5a49820a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 03:31
+
+#### [Upstart’s stock takes a mysterious dive after earnings. What’s behind the move.](https://www.marketwatch.com/story/upstarts-stock-takes-a-mysterious-dive-after-earnings-whats-behind-the-move-c033d54e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 00:20
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [United Airlines sees massive delays after hundreds of U.S. flights grounded](https://www.marketwatch.com/bulletins/redirect/go?g=df504862-a4e5-4f6a-a817-757b85247082&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 02:33
+
+#### [My relative, 80, was about to be scammed out of $40,000. Here’s how I stopped it](https://www.marketwatch.com/bulletins/redirect/go?g=2ccd6226-8b55-45de-b99a-70f2981164b6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 01:04
+
+#### [Kids need hands-on money lessons. Why not let them ‘FAFO’?](https://www.marketwatch.com/bulletins/redirect/go?g=8cb1251d-1015-4dbc-8a0a-a5c9102565c0&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-07 00:01
 
 ---
 
