@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "e63d3152f87af51481e949d7aa5111df08ae97b763522787ea6808d99652a633": {
-        "title": "用隐藏指令诱导AI给论文打高分，谢赛宁合著论文被点名：认错，绝不鼓励",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-08-12",
-        "published_date": "Tue, 08 Jul 2025 15:13:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.204732"
-      },
-      "125bb1231ea3356c91bb0f02835401654bed8a2c584df14dcd421134cbff0e71": {
-        "title": "KAG-Thinker：「结构化」思考新范式，支持逻辑严谨的大模型复杂推理",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-08-11",
-        "published_date": "Tue, 08 Jul 2025 15:06:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.204934"
-      },
-      "154c892c46fc5c01e0d495708e64e77a969729a1899cd9438ad3f65d15ac59dc": {
-        "title": "AI药物发现再进化：分子之心、斯坦福开发SurfFlow系统，破解治疗性肽设计表面互补难题",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-08-10",
-        "published_date": "Tue, 08 Jul 2025 14:44:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.205175"
-      },
-      "5a1fd2a6fa3cfa1c5b52f8ab1176101b275744cfd3c332b32896ff14e31a6918": {
-        "title": "美国能源部关注的核物理逆问题求解：SAGIPS实现效率 80 倍提升",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-08-9",
-        "published_date": "Tue, 08 Jul 2025 14:41:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.205419"
-      },
-      "0331700b72a7eef6e269e5572dc113aa8141747cf3583720edf136eb1a297788": {
-        "title": "苹果开发者自曝用Claude完成95%开发，开发应用已上架",
-        "link": "https://www.qbitai.com/2025/07/305879.html",
-        "published_date": "Tue, 08 Jul 2025 07:26:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.205753"
-      },
-      "47504defc16329ab3c3adf91574539aced26f0401d7d7897b8ce78acb54e2bbe": {
-        "title": "DeepSeek推理最高提速6倍！开源研究：加装「思维进度条」，计算量减少30%",
-        "link": "https://www.qbitai.com/2025/07/305756.html",
-        "published_date": "Tue, 08 Jul 2025 06:23:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.206148"
-      },
       "5c9889203b89712553faf80cd736eee72780fc1a3ec688ae90b9286dc50eee24": {
         "title": "登《Cell》，中科院高彩霞等开发AiCE：一种AI蛋白质工程通用策略",
         "link": "https://www.jiqizhixin.com/articles/2025-07-08-15",
@@ -9678,111 +9642,15 @@
         "link": "https://arxiv.org/abs/2508.03715",
         "published_date": "Thu, 07 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-07T05:30:24.234416"
+      },
+      "52e41a188f2f948c7e5d3df45b74cc95201d6fcb80b062b9fb9616dd79f47587": {
+        "title": "谷歌开源DeepPolisher，基因组组装错误率减半，Jeff Dean：令人振奋！",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-07-5",
+        "published_date": "Thu, 07 Aug 2025 15:17:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.914149"
       }
     },
     "Technology": {
-      "5c76a27412e44767b27dfa1cb35205b99105cd9c94af71fcff68087ba7dcc33e": {
-        "title": "研究者尝试揭示扩散模型创造力的起源",
-        "link": "https://www.infoq.cn/article/UXqLxpqxXTlfQ6lg8Rmw?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 08 Jul 2025 16:00:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698211"
-      },
-      "dea70afa45bc81f1cd4ad7e8874822ebd3f8ccbbd0350d085825a051aebe64c1": {
-        "title": "LM Studio 0.3.17为工具集成LLM添加了模型上下文协议（MCP）支持",
-        "link": "https://www.infoq.cn/article/vV5yVOuSvJ4BMBRabvyK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 08 Jul 2025 15:00:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698234"
-      },
-      "8fb771f9e49b43ed902b4c5925d902bc2c63004f724dc66390ab49ff8545abb4": {
-        "title": "Grafana发布Tempo 2.8，优化内存并增强了TraceQL功能",
-        "link": "https://www.infoq.cn/article/r50ZCRbJWsdBvEZRAjxa?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 08 Jul 2025 14:00:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698245"
-      },
-      "56d4519e7b72bcb43b8831a97efb5e9928a7d461d23f43f0081aefa26a547545": {
-        "title": "被牛市遗忘的CXO，谁将凭“拐点基因”破局",
-        "link": "https://www.tmtpost.com/7619503.html",
-        "published_date": "Tue, 08 Jul 2025 15:55:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.226210"
-      },
-      "6404a3396f352d46b28f0f5dbae921b84c87a4a941f02b50152602d5d3333c47": {
-        "title": "South Korea, Japan, and South Africa React to U.S. Tariff Announcement",
-        "link": "https://www.tmtpost.com/7619826.html",
-        "published_date": "Tue, 08 Jul 2025 15:46:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.226707"
-      },
-      "a07d62d4dd3fc3152c79830ac40398a3d105dd2edb05b5ffdafdc63b5ee7e4c5": {
-        "title": "TikTok Shop Enters Japan, Sparking Fresh Competition in Global E-Commerce",
-        "link": "https://www.tmtpost.com/7619819.html",
-        "published_date": "Tue, 08 Jul 2025 15:41:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698257"
-      },
-      "cdb93165c9874a65123ca5a74ba37bc8e137dc76565bf24b1baa5cbec27857f1": {
-        "title": "7月8日A股分析：沪指涨0.7%报3497.48点，两市合计成交14539.49亿元，涨幅最多的行业板块为光伏设备",
-        "link": "https://www.tmtpost.com/7619785.html",
-        "published_date": "Tue, 08 Jul 2025 15:34:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698288"
-      },
-      "5031c98ff540bc9b2e1546b85036f072e7efeb3828b600d824792fd8699950d3": {
-        "title": "脑机接口一百年",
-        "link": "https://www.tmtpost.com/7619549.html",
-        "published_date": "Tue, 08 Jul 2025 15:32:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698221"
-      },
-      "dedf3e154ec3fd04aa1e794f6e1aea2884cdef22206b56ffdb23a0733774c14e": {
-        "title": "热血青年毕业，旅游业也燃起来了",
-        "link": "https://www.tmtpost.com/7619408.html",
-        "published_date": "Tue, 08 Jul 2025 15:20:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.228678"
-      },
-      "07ffc7734deecfb30830ddb6d4a4cc0faf664f1905ee9da344f788f2b3e53b49": {
-        "title": "7倍溢价赌10年业绩，欧普康视腾挪募资难掩转型焦虑｜并购一线",
-        "link": "https://www.tmtpost.com/7619701.html",
-        "published_date": "Tue, 08 Jul 2025 15:17:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698297"
-      },
-      "3a28a13d886831954b6dfabdcc0a7bdb05e064c42a21242e805134a4f291e934": {
-        "title": "玛仕度肽，巨头夹缝中求生存",
-        "link": "https://www.tmtpost.com/7619243.html",
-        "published_date": "Tue, 08 Jul 2025 15:00:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.229561"
-      },
-      "a957fcf5a724d44c1756f3d99231de5adc2abaf8e84596d55b53f2db4c8ad7d8": {
-        "title": "“大而美”法案落地，美元、黄金、美股将迎巨变",
-        "link": "https://www.tmtpost.com/7619280.html",
-        "published_date": "Tue, 08 Jul 2025 13:40:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.230146"
-      },
-      "571cadd6040fb4b7ed7d606ce4d6c663eb1112e43ce935ecbc09960d2276ddfe": {
-        "title": "【科股一线拆解】GB300正式出货，英伟达产业链公司业绩超预期，机构认为国产算力演进正出现新方向",
-        "link": "https://www.tmtpost.com/7619591.html",
-        "published_date": "Tue, 08 Jul 2025 12:44:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698193"
-      },
-      "db00a3e0a2434a85e885ba981658ea3461cf89ab43b018e957ea9722e965de9b": {
-        "title": "Apple Music 的自动过渡功能，会带来歌单的未来形态吗？",
-        "link": "https://sspai.com/post/100790",
-        "published_date": "Tue, 08 Jul 2025 15:00:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698267"
-      },
-      "30bda2a5731a4c07b7b4925594fa1b9ba9e623ad401880fecd6866c02435e363": {
-        "title": "印度AI离大谱，古法诈骗诓全球",
-        "link": "http://www.huxiu.com/article/4550292.html?f=wangzhan",
-        "published_date": "Tue, 08 Jul 2025 14:30:00 GMT",
-        "first_seen": "2025-07-08T08:29:57.698276"
-      },
-      "9b6deebeeea1f89e1a7fc351be3ce550c07e891b07aadff9c5a1e6e9c89ea18a": {
-        "title": "170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts",
-        "link": "https://www.wired.com/story/best-amazon-prime-day-deals-2025/",
-        "published_date": "Tue, 08 Jul 2025 08:01:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.233947"
-      },
-      "ba17ddf8887e8f44d74b0cc32221937852d555d3852431fd910685b98c793c32": {
-        "title": "KEF Xio Review: So Good, So Expensive",
-        "link": "https://www.wired.com/review/kef-xio/",
-        "published_date": "Tue, 08 Jul 2025 08:00:00 GMT",
-        "first_seen": "2025-07-08T08:29:28.235099"
-      },
       "15fddade616bd141fdbe7f7d5b8fb29d5fd6cdf7f23c01275c5ed1abe89920fe": {
         "title": "Confirmed: Nintendo’s Switch 2 can work with existing docks and webcams after replacing their firmware",
         "link": "https://www.theverge.com/nintendo/701381/confirmed-nintendos-switch-2-can-work-with-existing-docks-and-webcams-after-replacing-their-firmware",
@@ -24296,6 +24164,78 @@
         "link": "https://www.theverge.com/news/739106/sonos-price-hike-tariffs",
         "published_date": "Wed, 06 Aug 2025 23:42:00 GMT",
         "first_seen": "2025-08-07T05:30:09.411118"
+      },
+      "b62be8b437b7b60046322049c808788de8b8d3610bb99614812f7f8a9dae5f2d": {
+        "title": "8月7日A股分析：沪指涨0.16%报3639.67点，两市合计成交18254.9亿元，资金流入最多的行业板块为半导体",
+        "link": "https://www.tmtpost.com/7651815.html",
+        "published_date": "Thu, 07 Aug 2025 16:16:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.859002"
+      },
+      "e5db42aeff8164a08948cc4783ce36b8bc2d7f96e1a7147d6db1ec298b7ef8e0": {
+        "title": "Mid‑Career Finance Professionals Pivot to RWA Tokenization Boom in Hong Kong",
+        "link": "https://www.tmtpost.com/7651763.html",
+        "published_date": "Thu, 07 Aug 2025 15:32:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858989"
+      },
+      "4055a0a7af92d492f75512ce9d83022e0ab0c7c133de1417b7344ceedfa2373d": {
+        "title": "苹果向特朗普妥协，公布6000亿美元美国投资计划",
+        "link": "https://www.tmtpost.com/7651316.html",
+        "published_date": "Thu, 07 Aug 2025 15:27:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858954"
+      },
+      "bf1032dbdf1d84cf027bfdafc6eed50c7adb47d2fd24c2d00a877d4c4ebb345a": {
+        "title": "Fourier Launches First Humanoid Care Robot, Advancing Emotional AI in Robotics",
+        "link": "https://www.tmtpost.com/7651669.html",
+        "published_date": "Thu, 07 Aug 2025 14:29:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858943"
+      },
+      "a6223f06939ac00376e4a8fe09d819cade24f544a66307750d209032b21ac97c": {
+        "title": "Trump Says He Will Impose 100% Semiconductor Tariffs, Sparing Companies Building in U.S.",
+        "link": "https://www.tmtpost.com/7651579.html",
+        "published_date": "Thu, 07 Aug 2025 13:33:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858894"
+      },
+      "6504d16ae908786ebf8796f253f28756762d32f3fd44f143f704af1f1d5f4329": {
+        "title": "记账 3000 多天，我迭代出了哪些小心得？",
+        "link": "https://sspai.com/post/99311",
+        "published_date": "Thu, 07 Aug 2025 15:03:00 GMT",
+        "first_seen": "2025-08-07T08:36:46.552768"
+      },
+      "c9080ea67906114a606c70a615d97165978e56c07c585c4aa47cd16b5732c51a": {
+        "title": "一日一技｜一图两吃、加密通讯：如何将两种内容塞进一张图片",
+        "link": "https://sspai.com/post/101521",
+        "published_date": "Thu, 07 Aug 2025 11:33:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.859011"
+      },
+      "c3288791c2e38833358543f92a1870f75fc5a038bb6d291ab4dae58be14b4937": {
+        "title": "特斯拉如何基于 ClickHouse 构建千万亿级别的可观测性平台",
+        "link": "https://www.infoq.cn/article/leNei6uWAggpe6ihOdMa?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 Aug 2025 14:47:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858966"
+      },
+      "7edc79e08ac2939560ab1f96c87fa7cc64004c452648e5318ff18296f3e9ff64": {
+        "title": "AIOps 驱动下的 TME 腾讯音乐智能运维新范式｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/LhxvFPDND2wzrJFCEC9V?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 Aug 2025 13:30:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858978"
+      },
+      "fe0467f339234dd04dcef29bc87ba61b5a0e383add5d953756d90864da673ba4": {
+        "title": "AI 能造世界了？谷歌 DeepMind 的 Genie 3 分秒生成《死亡搁浅》",
+        "link": "http://www.geekpark.net/news/352449",
+        "published_date": "Thu, 07 Aug 2025 14:14:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858933"
+      },
+      "3b2ab25f5c324873674cbaa438a85bdd65e04fd50e516aae9362e72c3ade7fa9": {
+        "title": "一块钱的AI，开始审判人类",
+        "link": "http://www.geekpark.net/news/352441",
+        "published_date": "Thu, 07 Aug 2025 13:50:00 GMT",
+        "first_seen": "2025-08-07T08:36:46.555855"
+      },
+      "7eba6a6d746368afa912b922d903dc328055451fbf81fb9da980fa4517201538": {
+        "title": "OpenAI’s new GPT-5 models announced early by GitHub",
+        "link": "https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak",
+        "published_date": "Thu, 07 Aug 2025 07:29:00 GMT",
+        "first_seen": "2025-08-07T08:37:11.858918"
       }
     },
     "Finance": {
@@ -27536,8 +27476,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-07T05:30:57.075183",
-    "Technology": "2025-08-07T05:30:23.951081",
-    "Finance": "2025-08-07T05:30:57.094248"
+    "AI": "2025-08-07T08:37:11.921310",
+    "Technology": "2025-08-07T08:37:11.874031",
+    "Finance": "2025-08-07T08:37:11.935492"
   }
 }

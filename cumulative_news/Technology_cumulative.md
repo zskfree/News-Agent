@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-07 05:30
+**最后更新时间**: 2025-08-07 08:36
+
+---
+
+## 🆕 最新更新 (2025-08-07 08:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [8月7日A股分析：沪指涨0.16%报3639.67点，两市合计成交18254.9亿元，资金流入最多的行业板块为半导体](https://www.tmtpost.com/7651815.html)
+**发布时间**: 2025-08-07 16:16
+
+#### [Mid‑Career Finance Professionals Pivot to RWA Tokenization Boom in Hong Kong](https://www.tmtpost.com/7651763.html)
+**发布时间**: 2025-08-07 15:32
+
+#### [苹果向特朗普妥协，公布6000亿美元美国投资计划](https://www.tmtpost.com/7651316.html)
+**发布时间**: 2025-08-07 15:27
+
+#### [Fourier Launches First Humanoid Care Robot, Advancing Emotional AI in Robotics](https://www.tmtpost.com/7651669.html)
+**发布时间**: 2025-08-07 14:29
+
+#### [Trump Says He Will Impose 100% Semiconductor Tariffs, Sparing Companies Building in U.S.](https://www.tmtpost.com/7651579.html)
+**发布时间**: 2025-08-07 13:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [记账 3000 多天，我迭代出了哪些小心得？](https://sspai.com/post/99311)
+**发布时间**: 2025-08-07 15:03
+
+#### [一日一技｜一图两吃、加密通讯：如何将两种内容塞进一张图片](https://sspai.com/post/101521)
+**发布时间**: 2025-08-07 11:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [特斯拉如何基于 ClickHouse 构建千万亿级别的可观测性平台](https://www.infoq.cn/article/leNei6uWAggpe6ihOdMa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 14:47
+
+#### [AIOps 驱动下的 TME 腾讯音乐智能运维新范式｜AICon 深圳](https://www.infoq.cn/article/LhxvFPDND2wzrJFCEC9V?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-07 13:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 能造世界了？谷歌 DeepMind 的 Genie 3 分秒生成《死亡搁浅》](http://www.geekpark.net/news/352449)
+**发布时间**: 2025-08-07 14:14
+
+#### [一块钱的AI，开始审判人类](http://www.geekpark.net/news/352441)
+**发布时间**: 2025-08-07 13:50
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
+**发布时间**: 2025-08-07 07:29
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 Aug 2025 05:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Aug 2025 05:30:57 GMT</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 08:37:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Qwen紧追OpenAI开源4B端侧大模型，AIME25得分超越Claude 4 Opus</title>
-      <link>https://www.qbitai.com/2025/08/319667.html</link>
-      <description>&lt;![CDATA[Qwen紧追OpenAI开源4B端侧大模型，AIME25得分超越Claude 4 Opus]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/319667.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents</title>
-      <link>https://arxiv.org/abs/2508.03991</link>
-      <description>&lt;![CDATA[Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.03991</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM Collaboration With Multi-Agent Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2508.04652</link>
-      <description>&lt;![CDATA[LLM Collaboration With Multi-Agent Reinforcement Learning]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.04652</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</title>
-      <link>https://arxiv.org/abs/2508.04482</link>
-      <description>&lt;![CDATA[OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.04482</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>人大高瓴-华为诺亚：大语言模型智能体记忆机制的系列研究</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-07-3</link>
-      <description>&lt;![CDATA[人大高瓴-华为诺亚：大语言模型智能体记忆机制的系列研究]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MI9 -- Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems</title>
-      <link>https://arxiv.org/abs/2508.03858</link>
-      <description>&lt;![CDATA[MI9 -- Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.03858</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety</title>
-      <link>https://arxiv.org/abs/2508.03864</link>
-      <description>&lt;![CDATA[Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.03864</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>From &quot;Aha Moments&quot; to Controllable Thinking: Toward Meta-Cognitive Reasoning in Large Reasoning Models via Decoupled Reasoning and Control</title>
-      <link>https://arxiv.org/abs/2508.04460</link>
-      <description>&lt;![CDATA[From &quot;Aha Moments&quot; to Controllable Thinking: Toward Meta-Cognitive Reasoning in Large Reasoning Models via Decoupled Reasoning and Control]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.04460</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</title>
-      <link>https://arxiv.org/abs/2508.03703</link>
-      <description>&lt;![CDATA[Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.03703</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>傅利叶发布全新人形机器人“Care-bot”GR-3，定义&quot;有爱的&quot;交互新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-07</link>
-      <description>&lt;![CDATA[傅利叶发布全新人形机器人“Care-bot”GR-3，定义&quot;有爱的&quot;交互新范式]]&gt;</description>
-      <pubDate>Thu, 07 Aug 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07</guid>
+      <title>谷歌开源DeepPolisher，基因组组装错误率减半，Jeff Dean：令人振奋！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-07-5</link>
+      <description>&lt;![CDATA[谷歌开源DeepPolisher，基因组组装错误率减半，Jeff Dean：令人振奋！]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-07-5</guid>
       <category>AI</category>
     </item>
   </channel>
