@@ -1,7 +1,174 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-08 08:31
+**最后更新时间**: 2025-08-08 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-08 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [续航2100km、油耗2L，银河A7把“质价比”玩明白了](https://www.tmtpost.com/7653796.html)
+**发布时间**: 2025-08-09 06:11
+
+#### [Beijing Eases Housing Rules, Lifts Purchase Limits for Eligible Families Outside Fifth Ring Road](https://www.tmtpost.com/7653743.html)
+**发布时间**: 2025-08-08 21:40
+
+#### [分众与支付宝联手打造 「碰一下」新生态；幸运咖计划年内突破1万家；野人先生否认港股IPO传闻；喜茶海外门店超100家｜消研所周报](https://www.tmtpost.com/7653437.html)
+**发布时间**: 2025-08-08 21:38
+
+#### [腾讯领投乌兹别克斯坦电商平台；B站上线AI原声翻译功能扩展出海能力；AI助力创新药出海签百亿订单｜一周大公司出海动态](https://www.tmtpost.com/7653630.html)
+**发布时间**: 2025-08-08 21:38
+
+#### [GPT-5王座难坐稳，OpenAI想靠价格赢过一切](https://www.tmtpost.com/7653151.html)
+**发布时间**: 2025-08-08 19:42
+
+#### [为什么说大消费平台的关键基础设施是大会员体系？](https://www.tmtpost.com/7652440.html)
+**发布时间**: 2025-08-08 19:42
+
+#### [华汇智能：产品单一、客户高度集中，盈利质量更是堪忧｜IPO观察](https://www.tmtpost.com/7651659.html)
+**发布时间**: 2025-08-08 19:33
+
+#### [山姆最忠实的学徒，不开会员店了](https://www.tmtpost.com/7653543.html)
+**发布时间**: 2025-08-08 19:20
+
+#### [留美高材生干中医：毛利率60%，年入超2亿](https://www.tmtpost.com/7653339.html)
+**发布时间**: 2025-08-08 19:20
+
+#### [月活超过优酷后，红果为何无法躺平？](https://www.tmtpost.com/7653494.html)
+**发布时间**: 2025-08-08 19:20
+
+#### [“减脂”饮品的学费，年轻人交了无数遍](https://www.tmtpost.com/7653518.html)
+**发布时间**: 2025-08-08 19:20
+
+#### [股价一个月飙涨翻倍，东方甄选离“线上山姆”还有多远？](https://www.tmtpost.com/7653529.html)
+**发布时间**: 2025-08-08 18:57
+
+#### [我的总统不喜欢我，英特尔的天塌了](https://www.tmtpost.com/7653318.html)
+**发布时间**: 2025-08-08 18:23
+
+#### [2025年7月中国文旅集团发展报告](https://www.tmtpost.com/7653341.html)
+**发布时间**: 2025-08-08 18:23
+
+#### [苹果更赚钱了，也更平庸了](https://www.tmtpost.com/7653335.html)
+**发布时间**: 2025-08-08 18:23
+
+#### [任期超越乔布斯，库克给苹果留下的「三本账」](https://www.tmtpost.com/7653402.html)
+**发布时间**: 2025-08-08 18:23
+
+#### [宁德时代，为“第二曲线”发愁](https://www.tmtpost.com/7653342.html)
+**发布时间**: 2025-08-08 18:23
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Truth Social's New AI Chatbot Is Donald Trump's Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)
+**发布时间**: 2025-08-08 22:20
+
+#### [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)
+**发布时间**: 2025-08-08 20:20
+
+#### [The Vibes-Based Pricing of ‘Pro’ AI Software](https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/)
+**发布时间**: 2025-08-08 19:46
+
+#### [Join Our Next Livestream: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)
+**发布时间**: 2025-08-08 18:25
+
+#### [A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data](https://www.wired.com/story/corporate-livestreams-exposed-search-tool/)
+**发布时间**: 2025-08-08 17:00
+
+#### ['House of the Dragon' Actor's New Horror Game Skewers Hollywood](https://www.wired.com/story/house-of-the-dragon-actors-new-horror-game-skewers-hollywood/)
+**发布时间**: 2025-08-08 15:24
+
+#### [Inside Dylan Field’s Big IPO—and His Even Bigger Plans for Figma](https://www.wired.com/story/figma-ipo-dylan-field-interview/)
+**发布时间**: 2025-08-08 15:00
+
+#### [21 Best Festival Accessories and Gear (2025): The Essentials and the Fun Stuff](https://www.wired.com/gallery/best-festival-accessories/)
+**发布时间**: 2025-08-08 14:02
+
+#### [The Best OTC Hearing Aids (2025), Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
+**发布时间**: 2025-08-08 13:30
+
+#### [Hoto Snapbloq Tools Review: Attractive Power Tools](https://www.wired.com/review/hoto-snapbloq-tools/)
+**发布时间**: 2025-08-08 13:00
+
+#### [It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug](https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/)
+**发布时间**: 2025-08-08 13:00
+
+#### [Best Wireless Headphones (2025): Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
+**发布时间**: 2025-08-08 12:33
+
+#### [How Does an Electric Bicycle Work? (2025)](https://www.wired.com/story/how-does-an-electric-bicycle-work/)
+**发布时间**: 2025-08-08 12:00
+
+#### [WIRED Tested Dozens of Blenders. These Are Our 9 Favorites (2025)](https://www.wired.com/gallery/best-blender/)
+**发布时间**: 2025-08-08 11:32
+
+#### [The Song of the Summer Is Dead](https://www.wired.com/story/the-song-of-the-summer-is-dead/)
+**发布时间**: 2025-08-08 11:00
+
+#### [Donald Trump Orders Crackdown on Politically Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
+**发布时间**: 2025-08-08 07:02
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [理想i8砍掉中杯，就能热卖了吗？](http://www.huxiu.com/article/4670170.html?f=wangzhan)
+**发布时间**: 2025-08-08 21:48
+
+#### [新P7亮相，小鹏急于摆脱“性价比”](http://www.huxiu.com/article/4667273.html?f=wangzhan)
+**发布时间**: 2025-08-08 18:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [维他动力Vbot：当遥控器被丢掉，才是机器狗「有生命感」的第一步？](http://www.geekpark.net/news/352521)
+**发布时间**: 2025-08-08 21:43
+
+#### [上天入地，从内而外：大疆 DJI OSMO360 深度评测](http://www.geekpark.net/news/352510)
+**发布时间**: 2025-08-08 16:40
+
+#### [「贴地飞行」：大疆 ROMO 扫地机器人首发体验](http://www.geekpark.net/news/352507)
+**发布时间**: 2025-08-08 16:32
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [ChatGPT is bringing back 4o as an option because people missed it](https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o)
+**发布时间**: 2025-08-08 19:30
+
+#### [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+**发布时间**: 2025-08-08 18:50
+
+#### [A decade later, Windows is still bringing Control Panel features to the Settings app](https://www.theverge.com/news/756958/windows-11-settings-control-panel-update-mobile-app-notifications-start-menu)
+**发布时间**: 2025-08-08 18:31
+
+#### [How Wikipedia is fighting AI slop content](https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion)
+**发布时间**: 2025-08-08 18:30
+
+#### [Mini Ikea stores will be opening inside select Best Buy locations this year](https://www.theverge.com/news/756868/ikea-retail-experience-best-buy)
+**发布时间**: 2025-08-08 16:54
+
+#### [Instagram’s Map is here, and this is how you can turn your location off](https://www.theverge.com/news/756798/instagram-map-how-to-turn-it-off)
+**发布时间**: 2025-08-08 16:27
+
+#### [Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26](https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26)
+**发布时间**: 2025-08-08 15:42
+
+#### [This three-pack of fast Wi-Fi 7 routers is under $200 for the first time](https://www.theverge.com/tech/756663/tp-link-be25-wifi-routers-ring-battery-doorbell-deal-sale)
+**发布时间**: 2025-08-08 15:00
+
+#### [8BitDo’s Pro 3 is a super customizable controller that’s too limited on Switch 2](https://www.theverge.com/reviews/755307/8bitdo-pro-3-controller-review-pc-nintendo-switch-2)
+**发布时间**: 2025-08-08 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101710)
+**发布时间**: 2025-08-08 18:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI的开源，补全了亚马逊云科技模型生态的最后拼图](https://www.infoq.cn/article/8VAT7lVOtCNeo0jTYX26?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-08 17:04
+
+#### [OpenAI深夜祭出GPT-5，所有人能免费用！Altman：像和博士级专家对话](https://www.infoq.cn/article/Wt501TWszv3v794DWfGY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-08 16:27
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Aug 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2025 08:31:52 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 23:21:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tesla May Rely More on Nvidia as Dojo Supercomputer Team Said to be Shut Down</title>
-      <link>https://www.tmtpost.com/7653220.html</link>
-      <description>&lt;![CDATA[Tesla May Rely More on Nvidia as Dojo Supercomputer Team Said to be Shut Down]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7653220.html</guid>
+      <title>OpenAI深夜祭出GPT-5，所有人能免费用！Altman：像和博士级专家对话</title>
+      <link>https://www.infoq.cn/article/Wt501TWszv3v794DWfGY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI深夜祭出GPT-5，所有人能免费用！Altman：像和博士级专家对话]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Wt501TWszv3v794DWfGY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GLM-4.5发布，具有强大的推理、编码和代理能力</title>
-      <link>https://www.infoq.cn/article/YmbWMHI42jV45K6Q5Xec?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GLM-4.5发布，具有强大的推理、编码和代理能力]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YmbWMHI42jV45K6Q5Xec?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26</title>
+      <link>https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26</link>
+      <description>&lt;![CDATA[Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>空间智能技术 AI+3D 高斯泼溅应用于具身智能及自动驾驶仿真｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/mx9KeYmYR9FqGFD0Poec?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[空间智能技术 AI+3D 高斯泼溅应用于具身智能及自动驾驶仿真｜AICon 深圳]]&gt;</description>
+      <title>GPT-5王座难坐稳，OpenAI想靠价格赢过一切</title>
+      <link>https://www.tmtpost.com/7653151.html</link>
+      <description>&lt;![CDATA[GPT-5王座难坐稳，OpenAI想靠价格赢过一切]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 19:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7653151.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI的开源，补全了亚马逊云科技模型生态的最后拼图</title>
+      <link>https://www.infoq.cn/article/8VAT7lVOtCNeo0jTYX26?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI的开源，补全了亚马逊云科技模型生态的最后拼图]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8VAT7lVOtCNeo0jTYX26?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds</title>
+      <link>https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/</link>
+      <description>&lt;![CDATA[Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data</title>
+      <link>https://www.wired.com/story/corporate-livestreams-exposed-search-tool/</link>
+      <description>&lt;![CDATA[A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/corporate-livestreams-exposed-search-tool/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug</title>
+      <link>https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/</link>
+      <description>&lt;![CDATA[It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>任期超越乔布斯，库克给苹果留下的「三本账」</title>
+      <link>https://www.tmtpost.com/7653402.html</link>
+      <description>&lt;![CDATA[任期超越乔布斯，库克给苹果留下的「三本账」]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7653402.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Inside Dylan Field’s Big IPO—and His Even Bigger Plans for Figma</title>
+      <link>https://www.wired.com/story/figma-ipo-dylan-field-interview/</link>
+      <description>&lt;![CDATA[Inside Dylan Field’s Big IPO—and His Even Bigger Plans for Figma]]&gt;</description>
       <pubDate>Fri, 08 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mx9KeYmYR9FqGFD0Poec?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.wired.com/story/figma-ipo-dylan-field-interview/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple’s lock on iPhone browser engines gets a December deadline</title>
-      <link>https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers</link>
-      <description>&lt;![CDATA[Apple’s lock on iPhone browser engines gets a December deadline]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 08:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>百亿狂砸机器人，互联网巨头谁是赢家？</title>
-      <link>https://www.tmtpost.com/7647291.html</link>
-      <description>&lt;![CDATA[百亿狂砸机器人，互联网巨头谁是赢家？]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7647291.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Europe Emerges as Strategic Hub for Chinese New Energy Firms</title>
-      <link>https://www.tmtpost.com/7653199.html</link>
-      <description>&lt;![CDATA[Europe Emerges as Strategic Hub for Chinese New Energy Firms]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7653199.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>小鹏G9的学费，理想i8要重交一遍？</title>
-      <link>http://www.huxiu.com/article/4665948.html?f=wangzhan</link>
-      <description>&lt;![CDATA[小鹏G9的学费，理想i8要重交一遍？]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 07:33:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4665948.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>微信「已读」功能十年争议终结</title>
-      <link>https://www.tmtpost.com/7652994.html</link>
-      <description>&lt;![CDATA[微信「已读」功能十年争议终结]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 16:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7652994.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>用树莓派手搓家用伪 NAS(上）：系统的安装与配置</title>
-      <link>https://sspai.com/post/101622</link>
-      <description>&lt;![CDATA[用树莓派手搓家用伪 NAS(上）：系统的安装与配置]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101622</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>赛博算命“拿捏”年轻人</title>
-      <link>https://www.tmtpost.com/7652956.html</link>
-      <description>&lt;![CDATA[赛博算命“拿捏”年轻人]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7652956.html</guid>
+      <title>How Wikipedia is fighting AI slop content</title>
+      <link>https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion</link>
+      <description>&lt;![CDATA[How Wikipedia is fighting AI slop content]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion</guid>
       <category>Technology</category>
     </item>
   </channel>

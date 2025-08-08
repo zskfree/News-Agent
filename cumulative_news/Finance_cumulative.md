@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-08 08:31
+**最后更新时间**: 2025-08-08 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-08 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Gold and bitcoin are both vying for the safe-haven crown. Why gold is winning.](https://www.marketwatch.com/bulletins/redirect/go?g=d785ed66-6654-41da-b346-ffadbda36c0c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 22:56
+
+#### [Not every service worker will get ‘no tax on tips.’ What we know about who may.](https://www.marketwatch.com/bulletins/redirect/go?g=4b021e4a-c4d1-47da-b3d8-a49097858371&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 21:33
+
+#### [Why Trump’s Fed nominee Miran could give other officials more freedom to dissent](https://www.marketwatch.com/bulletins/redirect/go?g=20e92da4-51aa-48af-95d8-9f118d73e93f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 20:42
+
+#### [Nasdaq seals fresh record close, Dow and S&P 500 end higher to finish the week](https://www.marketwatch.com/bulletins/redirect/go?g=7e113f3e-1902-4c44-953f-1ae0d623502c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 20:04
+
+#### [Dow up, S&P and Nasdaq attempt fresh record highs in final hour — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=cfc0dbc6-b4be-413e-8217-ef3777dcddcd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 19:02
+
+#### [Trump’s clash with Intel’s CEO is a crucial test for U.S. chip making](https://www.marketwatch.com/bulletins/redirect/go?g=f874b9e6-f7bf-4bba-9dff-eeb3a0ce4026&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 17:56
+
+#### [Analyst frets Apple is now facing a ‘BlackBerry moment’](https://www.marketwatch.com/bulletins/redirect/go?g=eadcd03b-fa8f-45b9-aab3-73ebfc191d5c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 17:37
+
+#### [Viral way to teach kids to build and invest a nest egg — and more weekend reads](https://www.marketwatch.com/bulletins/redirect/go?g=f8180f65-033a-4419-b67c-c9c13d0cebf3&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 15:39
+
+#### [Magnitude of current confusion over student-loan repayment called ‘just crazy’](https://www.marketwatch.com/bulletins/redirect/go?g=56bbef8e-4cf3-447e-91e5-ff7bba43fdf0&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 15:00
+
+#### [CEO doesn’t like what Trump’s tariffs are doing to Under Armour’s profits](https://www.marketwatch.com/bulletins/redirect/go?g=1db73153-9146-4223-9694-7958ae5a1131&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 14:15
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This scam stuff is going to get worse’: A man approached me in my car — he had a crazy story](https://www.marketwatch.com/story/this-scam-stuff-is-going-to-get-worse-a-man-approached-me-in-my-car-he-had-a-crazy-story-ccd885d3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 21:58
+
+#### [Why investors are making a big mistake by not worrying more about tariffs](https://www.marketwatch.com/story/investors-are-now-less-concerned-about-tariffs-than-the-economy-says-bofa-survey-why-that-could-be-a-mistake-8798a2ac?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 21:08
+
+#### [Gold and bitcoin are both vying to be safe havens for investors. Why gold is winning so far this year.](https://www.marketwatch.com/story/gold-and-bitcoin-are-both-vying-to-be-safe-havens-for-investors-why-gold-is-winning-so-far-this-year-42e5fc9e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 20:51
+
+#### [Sweetgreen’s customers are cutting back on pricey salads. Will extra chicken help?](https://www.marketwatch.com/story/sweetgreens-customers-are-cutting-back-on-pricey-salads-will-extra-chicken-help-ccd79c31?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 20:45
+
+#### [Trade Desk’s stock sees its worst drop ever, and analysts wonder if Amazon is to blame](https://www.marketwatch.com/story/trade-desks-stock-may-see-its-worst-drop-ever-and-analysts-wonder-if-amazon-is-to-blame-e0f52f38?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 20:41
+
+#### [Trump nominee Miran could have a surprising effect on the Fed: giving officials more freedom to dissent](https://www.marketwatch.com/story/trump-nominee-miran-could-have-a-surprising-effect-on-the-fed-giving-officials-more-freedom-to-dissent-eccbb5fe?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 20:34
+
+#### [I plan to work until 80. Can I contribute to my IRA while taking RMDs?](https://www.marketwatch.com/story/i-plan-to-work-until-80-can-i-contribute-to-my-ira-while-taking-rmds-02362eda?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 20:24
+
+#### [‘I have a great mortgage rate’: I need $80K to buy my husband out of our home. Do I raid my $180K Roth IRA?](https://www.marketwatch.com/story/i-need-80k-to-buy-my-husband-out-of-our-home-do-i-raid-my-180k-roth-ira-73460355?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 19:40
+
+#### [‘I feel shaken’: A man offered to powerwash my patio for $50. He would not take no for an answer.](https://www.marketwatch.com/story/i-feel-shaken-a-man-offered-50-to-powerwash-my-patio-he-would-not-take-no-for-an-answer-9223ce12?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 19:37
+
+#### [The truth about ‘no tax on tips’ is not every service worker gets a break. Here’s what we know about who might make the list.](https://www.marketwatch.com/story/the-truth-about-no-tax-on-tips-is-not-every-service-worker-will-get-it-heres-what-we-know-about-who-could-make-the-list-a8f905a3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 18:58
 
 ---
 

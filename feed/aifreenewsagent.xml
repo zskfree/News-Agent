@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Aug 2025 05:29:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2025 05:35:36 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 23:21:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation</title>
-      <link>https://arxiv.org/abs/2508.05427</link>
-      <description>&lt;![CDATA[Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05427</guid>
+      <title>挤不动的世界机器人大会上，自变量秀出了真·通用具身智能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08-7</link>
+      <description>&lt;![CDATA[挤不动的世界机器人大会上，自变量秀出了真·通用具身智能]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 18:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Beyond Automation: Socratic AI, Epistemic Agency, and the Implications of the Emergence of Orchestrated Multi-Agent Learning Architectures</title>
-      <link>https://arxiv.org/abs/2508.05116</link>
-      <description>&lt;![CDATA[Beyond Automation: Socratic AI, Epistemic Agency, and the Implications of the Emergence of Orchestrated Multi-Agent Learning Architectures]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05116</guid>
+      <title>4比0横扫Grok 4，o3强势夺冠，首届大模型对抗赛结果出炉</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08-6</link>
+      <description>&lt;![CDATA[4比0横扫Grok 4，o3强势夺冠，首届大模型对抗赛结果出炉]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities</title>
-      <link>https://arxiv.org/abs/2508.05496</link>
-      <description>&lt;![CDATA[InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05496</guid>
+      <title>扩散LLM推理新范式：打破生成长度限制，实现动态自适应调节</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08-5</link>
+      <description>&lt;![CDATA[扩散LLM推理新范式：打破生成长度限制，实现动态自适应调节]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis</title>
-      <link>https://arxiv.org/abs/2508.04915</link>
-      <description>&lt;![CDATA[ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.04915</guid>
+      <title>GPT-5真的拉胯吗？机器之心一手实测，网友：还我4o、还我4.5</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08-4</link>
+      <description>&lt;![CDATA[GPT-5真的拉胯吗？机器之心一手实测，网友：还我4o、还我4.5]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning</title>
-      <link>https://arxiv.org/abs/2508.05405</link>
-      <description>&lt;![CDATA[DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05405</guid>
+      <title>从Debugger到Developer : 低代码时代新基准NoCode-bench，SWE-Bench作者力荐</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-08-3</link>
+      <description>&lt;![CDATA[从Debugger到Developer : 低代码时代新基准NoCode-bench，SWE-Bench作者力荐]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning</title>
-      <link>https://arxiv.org/abs/2508.05498</link>
-      <description>&lt;![CDATA[GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05498</guid>
+      <title>具身智能汹涌，激光雷达爆单：头部玩家600%年增长，出货超20万台</title>
+      <link>https://www.qbitai.com/2025/08/320206.html</link>
+      <description>&lt;![CDATA[具身智能汹涌，激光雷达爆单：头部玩家600%年增长，出货超20万台]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320206.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation</title>
-      <link>https://arxiv.org/abs/2508.05508</link>
-      <description>&lt;![CDATA[Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05508</guid>
+      <title>快来看看GPT-5第一波实测</title>
+      <link>https://www.qbitai.com/2025/08/320132.html</link>
+      <description>&lt;![CDATA[快来看看GPT-5第一波实测]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320132.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GeoFlow: Agentic Workflow Automation for Geospatial Tasks</title>
-      <link>https://arxiv.org/abs/2508.04719</link>
-      <description>&lt;![CDATA[GeoFlow: Agentic Workflow Automation for Geospatial Tasks]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.04719</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS</title>
-      <link>https://arxiv.org/abs/2508.04721</link>
-      <description>&lt;![CDATA[Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.04721</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Novel Architecture for Symbolic Reasoning with Decision Trees and LLM Agents</title>
-      <link>https://arxiv.org/abs/2508.05311</link>
-      <description>&lt;![CDATA[A Novel Architecture for Symbolic Reasoning with Decision Trees and LLM Agents]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05311</guid>
+      <title>The Download: GPT-5 is here, and Intel’s CEO drama</title>
+      <link>https://www.technologyreview.com/2025/08/08/1121330/the-download-gpt-5-is-here-and-intels-ceo-drama/</link>
+      <description>&lt;![CDATA[The Download: GPT-5 is here, and Intel’s CEO drama]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/08/1121330/the-download-gpt-5-is-here-and-intels-ceo-drama/</guid>
       <category>AI</category>
     </item>
   </channel>

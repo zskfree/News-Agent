@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Aug 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2025 08:31:53 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 23:21:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>It’s a new era of central-bank dissent with a whiff of stagflation in the air</title>
-      <link>https://www.marketwatch.com/story/its-a-new-era-of-central-bank-dissent-and-with-a-whiff-of-stagflation-in-the-air-thats-not-likely-to-change-aec43642?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[It’s a new era of central-bank dissent with a whiff of stagflation in the air]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 07:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/its-a-new-era-of-central-bank-dissent-and-with-a-whiff-of-stagflation-in-the-air-thats-not-likely-to-change-aec43642?mod=mw_rss_topstories</guid>
+      <title>Why Trump’s Fed nominee Miran could give other officials more freedom to dissent</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=20e92da4-51aa-48af-95d8-9f118d73e93f&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Why Trump’s Fed nominee Miran could give other officials more freedom to dissent]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 20:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=20e92da4-51aa-48af-95d8-9f118d73e93f&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why investors are making a big mistake by not worrying more about tariffs</title>
+      <link>https://www.marketwatch.com/story/investors-are-now-less-concerned-about-tariffs-than-the-economy-says-bofa-survey-why-that-could-be-a-mistake-8798a2ac?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why investors are making a big mistake by not worrying more about tariffs]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-are-now-less-concerned-about-tariffs-than-the-economy-says-bofa-survey-why-that-could-be-a-mistake-8798a2ac?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump’s clash with Intel’s CEO is a crucial test for U.S. chip making</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f874b9e6-f7bf-4bba-9dff-eeb3a0ce4026&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Trump’s clash with Intel’s CEO is a crucial test for U.S. chip making]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f874b9e6-f7bf-4bba-9dff-eeb3a0ce4026&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold and bitcoin are both vying for the safe-haven crown. Why gold is winning.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=d785ed66-6654-41da-b346-ffadbda36c0c&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Gold and bitcoin are both vying for the safe-haven crown. Why gold is winning.]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=d785ed66-6654-41da-b346-ffadbda36c0c&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Analyst frets Apple is now facing a ‘BlackBerry moment’</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=eadcd03b-fa8f-45b9-aab3-73ebfc191d5c&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Analyst frets Apple is now facing a ‘BlackBerry moment’]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 17:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=eadcd03b-fa8f-45b9-aab3-73ebfc191d5c&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>CEO doesn’t like what Trump’s tariffs are doing to Under Armour’s profits</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=1db73153-9146-4223-9694-7958ae5a1131&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[CEO doesn’t like what Trump’s tariffs are doing to Under Armour’s profits]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=1db73153-9146-4223-9694-7958ae5a1131&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trade Desk’s stock sees its worst drop ever, and analysts wonder if Amazon is to blame</title>
+      <link>https://www.marketwatch.com/story/trade-desks-stock-may-see-its-worst-drop-ever-and-analysts-wonder-if-amazon-is-to-blame-e0f52f38?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trade Desk’s stock sees its worst drop ever, and analysts wonder if Amazon is to blame]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trade-desks-stock-may-see-its-worst-drop-ever-and-analysts-wonder-if-amazon-is-to-blame-e0f52f38?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Magnitude of current confusion over student-loan repayment called ‘just crazy’</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=56bbef8e-4cf3-447e-91e5-ff7bba43fdf0&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Magnitude of current confusion over student-loan repayment called ‘just crazy’]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=56bbef8e-4cf3-447e-91e5-ff7bba43fdf0&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Not every service worker will get ‘no tax on tips.’ What we know about who may.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=4b021e4a-c4d1-47da-b3d8-a49097858371&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Not every service worker will get ‘no tax on tips.’ What we know about who may.]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 21:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=4b021e4a-c4d1-47da-b3d8-a49097858371&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>I plan to work until 80. Can I contribute to my IRA while taking RMDs?</title>
+      <link>https://www.marketwatch.com/story/i-plan-to-work-until-80-can-i-contribute-to-my-ira-while-taking-rmds-02362eda?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[I plan to work until 80. Can I contribute to my IRA while taking RMDs?]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 20:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-plan-to-work-until-80-can-i-contribute-to-my-ira-while-taking-rmds-02362eda?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

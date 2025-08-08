@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-08 08:31
+**最后更新时间**: 2025-08-08 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-08 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [挤不动的世界机器人大会上，自变量秀出了真·通用具身智能](https://www.jiqizhixin.com/articles/2025-08-08-7)
+**发布时间**: 2025-08-08 18:26
+
+#### [4比0横扫Grok 4，o3强势夺冠，首届大模型对抗赛结果出炉](https://www.jiqizhixin.com/articles/2025-08-08-6)
+**发布时间**: 2025-08-08 18:22
+
+#### [扩散LLM推理新范式：打破生成长度限制，实现动态自适应调节](https://www.jiqizhixin.com/articles/2025-08-08-5)
+**发布时间**: 2025-08-08 18:20
+
+#### [GPT-5真的拉胯吗？机器之心一手实测，网友：还我4o、还我4.5](https://www.jiqizhixin.com/articles/2025-08-08-4)
+**发布时间**: 2025-08-08 16:50
+
+#### [从Debugger到Developer : 低代码时代新基准NoCode-bench，SWE-Bench作者力荐](https://www.jiqizhixin.com/articles/2025-08-08-3)
+**发布时间**: 2025-08-08 16:41
+
+#### [行业唯一大电池旗舰性能机，iQOO Z10 Turbo+ 2199元起正式发布](https://www.jiqizhixin.com/articles/2025-08-07-15)
+**发布时间**: 2025-08-07 22:59
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [具身智能汹涌，激光雷达爆单：头部玩家600%年增长，出货超20万台](https://www.qbitai.com/2025/08/320206.html)
+**发布时间**: 2025-08-08 12:10
+
+#### [快来看看GPT-5第一波实测](https://www.qbitai.com/2025/08/320132.html)
+**发布时间**: 2025-08-08 10:37
+
+#### [优必选五大人形机器人亮相世界机器人大会，群体智能重塑新质生产力](https://www.qbitai.com/2025/08/320128.html)
+**发布时间**: 2025-08-08 08:08
+
+#### [哇塞，今天北京被机器人人人人人塞满了！](https://www.qbitai.com/2025/08/320115.html)
+**发布时间**: 2025-08-08 07:58
+
+#### [无需外部数据！AI自问自答实现推理能力进化](https://www.qbitai.com/2025/08/320095.html)
+**发布时间**: 2025-08-08 07:53
+
+#### [高中没毕业直接读博，17岁少女推翻40年数学猜想后的下一步](https://www.qbitai.com/2025/08/320075.html)
+**发布时间**: 2025-08-08 07:41
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: GPT-5 is here, and Intel’s CEO drama](https://www.technologyreview.com/2025/08/08/1121330/the-download-gpt-5-is-here-and-intels-ceo-drama/)
+**发布时间**: 2025-08-08 12:10
 
 ---
 
