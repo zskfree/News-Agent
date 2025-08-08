@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-08 05:34
+**最后更新时间**: 2025-08-08 08:31
+
+---
+
+## 🆕 最新更新 (2025-08-08 08:31)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [It’s a new era of central-bank dissent with a whiff of stagflation in the air](https://www.marketwatch.com/story/its-a-new-era-of-central-bank-dissent-and-with-a-whiff-of-stagflation-in-the-air-thats-not-likely-to-change-aec43642?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 07:40
 
 ---
 

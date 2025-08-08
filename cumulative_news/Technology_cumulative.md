@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-08 05:34
+**最后更新时间**: 2025-08-08 08:31
+
+---
+
+## 🆕 最新更新 (2025-08-08 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [半年净利同比增长5.33%，红旗连锁提质增效显成效 | 看财报](https://www.tmtpost.com/7653259.html)
+**发布时间**: 2025-08-08 16:07
+
+#### [微信「已读」功能十年争议终结](https://www.tmtpost.com/7652994.html)
+**发布时间**: 2025-08-08 16:07
+
+#### [Tesla May Rely More on Nvidia as Dojo Supercomputer Team Said to be Shut Down](https://www.tmtpost.com/7653220.html)
+**发布时间**: 2025-08-08 15:30
+
+#### [8月8日A股分析：沪指微跌0.12%，两市成交缩量超千亿，主力资金净流出500亿，雅下水电概念逆势吸金22亿领涨](https://www.tmtpost.com/7653174.html)
+**发布时间**: 2025-08-08 15:29
+
+#### [Europe Emerges as Strategic Hub for Chinese New Energy Firms](https://www.tmtpost.com/7653199.html)
+**发布时间**: 2025-08-08 15:17
+
+#### [下一个修美乐藏不住了](https://www.tmtpost.com/7652974.html)
+**发布时间**: 2025-08-08 15:11
+
+#### [百亿狂砸机器人，互联网巨头谁是赢家？](https://www.tmtpost.com/7647291.html)
+**发布时间**: 2025-08-08 14:40
+
+#### [India Reportedly Considers Concessions in the Face of Trump's 50% Tariffs](https://www.tmtpost.com/7653126.html)
+**发布时间**: 2025-08-08 14:34
+
+#### [“窝囊旅游”为啥开始流行？](https://www.tmtpost.com/7652787.html)
+**发布时间**: 2025-08-08 14:28
+
+#### [赛博算命“拿捏”年轻人](https://www.tmtpost.com/7652956.html)
+**发布时间**: 2025-08-08 13:43
+
+#### [U.S. Will Remove Tariff Overlapping and Cut Auto Duties:  Japan's Chief Negotiator](https://www.tmtpost.com/7652966.html)
+**发布时间**: 2025-08-08 11:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GLM-4.5发布，具有强大的推理、编码和代理能力](https://www.infoq.cn/article/YmbWMHI42jV45K6Q5Xec?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-08 16:00
+
+#### [空间智能技术 AI+3D 高斯泼溅应用于具身智能及自动驾驶仿真｜AICon 深圳](https://www.infoq.cn/article/mx9KeYmYR9FqGFD0Poec?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-08 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用树莓派手搓家用伪 NAS(上）：系统的安装与配置](https://sspai.com/post/101622)
+**发布时间**: 2025-08-08 15:11
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“冰杯”营销站上C位，与品牌场景卡位的阳谋](http://www.huxiu.com/article/4665391.html?f=wangzhan)
+**发布时间**: 2025-08-08 10:25
+
+#### [小鹏G9的学费，理想i8要重交一遍？](http://www.huxiu.com/article/4665948.html?f=wangzhan)
+**发布时间**: 2025-08-08 07:33
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)
+**发布时间**: 2025-08-08 08:15
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
+**发布时间**: 2025-08-08 07:02
 
 ---
 
