@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-07 23:22
+**最后更新时间**: 2025-08-08 05:34
+
+---
+
+## 🆕 最新更新 (2025-08-08 05:34)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Billions’ in Medicare waste? Read the fine print.](https://www.marketwatch.com/story/billions-in-medicare-waste-read-the-fine-print-826c0057?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 02:17
+
+#### [Trump’s order greenlights crypto in 401(k)s, so why isn’t my job on board yet?](https://www.marketwatch.com/story/im-ready-to-invest-in-crypto-with-my-401-k-so-why-cant-i-do-it-yet-ad248ee9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 01:42
+
+#### [SoundHound earnings show a growing embrace of voice AI, and the stock is surging](https://www.marketwatch.com/story/soundhound-earnings-show-a-growing-embrace-of-voice-ai-and-the-stock-is-surging-6fe6b515?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 00:20
+
+#### [Live Nation’s second quarter was mixed. It’s still hoping to ride massive shows, more upsells to a record year.](https://www.marketwatch.com/story/live-nations-second-quarter-was-mixed-its-still-hoping-to-ride-massive-shows-more-upsells-to-a-record-year-f206f4d8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-08 00:15
+
+#### [Good news for media companies is proving to be bad news for their stocks](https://www.marketwatch.com/story/good-news-for-media-companies-is-proving-to-be-bad-news-for-their-stocks-96a4a040?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 23:29
+
+#### [Krispy Kreme’s meme-stock ride is over. The stock is tumbling as losses widen.](https://www.marketwatch.com/story/krispy-kremes-meme-stock-ride-is-over-the-stock-is-tumbling-as-losses-widen-a68341b2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 23:25
+
+#### [Trump calls for Intel’s CEO to go. Lawmakers have focused on his ties to China.](https://www.marketwatch.com/story/trump-calls-for-intels-ceo-to-go-lawmakers-have-focused-on-his-ties-to-china-768390cc?mod=mw_rss_topstories)
+**发布时间**: 2025-08-07 23:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Is Gen Z really drinking less — or just being choosier about when they indulge?](https://www.marketwatch.com/bulletins/redirect/go?g=a4e7e227-f7c9-4f88-8e8d-1d46380f91dc&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-08 01:03
 
 ---
 
