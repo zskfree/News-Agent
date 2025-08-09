@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-08 23:20
+**最后更新时间**: 2025-08-09 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-09 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [他救了OpenAI、年赚过亿、三家明星CTO，却自曝跟不上AI发展了！硅谷大佬告诫：不是马斯克，就别碰大模型](https://www.infoq.cn/article/FsQ4a8vXUP96BmaMmTav?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-09 13:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China Defends Its Russian Oil Purchases after Trump Signals Possible New Tariffs](https://www.tmtpost.com/7653959.html)
+**发布时间**: 2025-08-09 12:17
+
+#### [ChatGPT-5 来了：从狂热赞美到理性质疑](https://www.tmtpost.com/7653859.html)
+**发布时间**: 2025-08-09 11:42
+
+#### [数字疗法迎来重大里程碑，首个监管政策发布](https://www.tmtpost.com/7653078.html)
+**发布时间**: 2025-08-09 11:11
+
+#### [巨头搅局具身智能，世界机器人大会看什么？](https://www.tmtpost.com/7653228.html)
+**发布时间**: 2025-08-09 09:58
+
+#### [宋春雨：下一代颠覆性巨头，不会出现在大模型里](https://www.tmtpost.com/7653137.html)
+**发布时间**: 2025-08-09 09:08
+
+#### [海尔空调，不能光知道「埋头」干技术](https://www.tmtpost.com/7651640.html)
+**发布时间**: 2025-08-09 07:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [石油需求萎缩怎么办？我国石油产业如何转型？一口气看懂石油产业链](http://www.huxiu.com/article/4669547.html?f=wangzhan)
+**发布时间**: 2025-08-09 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [李想称知道哪个品牌在黑理想；比亚迪：App 将继续使用「比亚迪」原名；世界机器人大会开幕 | 极客早知道](http://www.geekpark.net/news/352525)
+**发布时间**: 2025-08-09 08:18
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World](https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/)
+**发布时间**: 2025-08-08 23:21
+
+#### [Truth Social’s New AI Chatbot Is Donald Trump’s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)
+**发布时间**: 2025-08-08 22:20
 
 ---
 

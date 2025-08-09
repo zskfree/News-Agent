@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Aug 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2025 23:21:01 GMT</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 05:20:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>挤不动的世界机器人大会上，自变量秀出了真·通用具身智能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-08-7</link>
-      <description>&lt;![CDATA[挤不动的世界机器人大会上，自变量秀出了真·通用具身智能]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 18:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-7</guid>
+      <title>ICCV 2025 | 新型后门攻击直指Scaffold联邦学习，NTU联手0G Labs揭示中心化训练安全漏洞</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-09-4</link>
+      <description>&lt;![CDATA[ICCV 2025 | 新型后门攻击直指Scaffold联邦学习，NTU联手0G Labs揭示中心化训练安全漏洞]]&gt;</description>
+      <pubDate>Sat, 09 Aug 2025 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-09-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>4比0横扫Grok 4，o3强势夺冠，首届大模型对抗赛结果出炉</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-08-6</link>
-      <description>&lt;![CDATA[4比0横扫Grok 4，o3强势夺冠，首届大模型对抗赛结果出炉]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 18:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-6</guid>
+      <title>用户痛批GPT-5，哭诉「还我GPT-4o」，奥特曼妥协了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-09-3</link>
+      <description>&lt;![CDATA[用户痛批GPT-5，哭诉「还我GPT-4o」，奥特曼妥协了]]&gt;</description>
+      <pubDate>Sat, 09 Aug 2025 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-09-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>扩散LLM推理新范式：打破生成长度限制，实现动态自适应调节</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-08-5</link>
-      <description>&lt;![CDATA[扩散LLM推理新范式：打破生成长度限制，实现动态自适应调节]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-5</guid>
+      <title>上海AI Lab、浙大EagleLab等提出RRVF：利用「验证非对称性」，只输入图片学习视觉推理</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-09-2</link>
+      <description>&lt;![CDATA[上海AI Lab、浙大EagleLab等提出RRVF：利用「验证非对称性」，只输入图片学习视觉推理]]&gt;</description>
+      <pubDate>Sat, 09 Aug 2025 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-09-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-5真的拉胯吗？机器之心一手实测，网友：还我4o、还我4.5</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-08-4</link>
-      <description>&lt;![CDATA[GPT-5真的拉胯吗？机器之心一手实测，网友：还我4o、还我4.5]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-4</guid>
+      <title>银河通用亮相 2025 世界机器人大会，搭载英伟达最新 Thor 芯片，Galbot 全球首发震撼登场</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-09</link>
+      <description>&lt;![CDATA[银河通用亮相 2025 世界机器人大会，搭载英伟达最新 Thor 芯片，Galbot 全球首发震撼登场]]&gt;</description>
+      <pubDate>Sat, 09 Aug 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-09</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从Debugger到Developer : 低代码时代新基准NoCode-bench，SWE-Bench作者力荐</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-08-3</link>
-      <description>&lt;![CDATA[从Debugger到Developer : 低代码时代新基准NoCode-bench，SWE-Bench作者力荐]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-08-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>具身智能汹涌，激光雷达爆单：头部玩家600%年增长，出货超20万台</title>
-      <link>https://www.qbitai.com/2025/08/320206.html</link>
-      <description>&lt;![CDATA[具身智能汹涌，激光雷达爆单：头部玩家600%年增长，出货超20万台]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320206.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>快来看看GPT-5第一波实测</title>
-      <link>https://www.qbitai.com/2025/08/320132.html</link>
-      <description>&lt;![CDATA[快来看看GPT-5第一波实测]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320132.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Download: GPT-5 is here, and Intel’s CEO drama</title>
-      <link>https://www.technologyreview.com/2025/08/08/1121330/the-download-gpt-5-is-here-and-intels-ceo-drama/</link>
-      <description>&lt;![CDATA[The Download: GPT-5 is here, and Intel’s CEO drama]]&gt;</description>
-      <pubDate>Fri, 08 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/08/1121330/the-download-gpt-5-is-here-and-intels-ceo-drama/</guid>
+      <title>全球油耗最低智能车来了：8.18万开卖上热搜，27分钟大订破万</title>
+      <link>https://www.qbitai.com/2025/08/320238.html</link>
+      <description>&lt;![CDATA[全球油耗最低智能车来了：8.18万开卖上热搜，27分钟大订破万]]&gt;</description>
+      <pubDate>Sat, 09 Aug 2025 02:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320238.html</guid>
       <category>AI</category>
     </item>
   </channel>

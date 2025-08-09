@@ -9612,6 +9612,36 @@
         "link": "https://www.technologyreview.com/2025/08/08/1121330/the-download-gpt-5-is-here-and-intels-ceo-drama/",
         "published_date": "Fri, 08 Aug 2025 12:10:00 GMT",
         "first_seen": "2025-08-08T23:21:01.515706"
+      },
+      "d8690cb77e01497d44dc70f8034e65926d5fdfcb4186f30c6f182aa733ef3401": {
+        "title": "ICCV 2025 | 新型后门攻击直指Scaffold联邦学习，NTU联手0G Labs揭示中心化训练安全漏洞",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-09-4",
+        "published_date": "Sat, 09 Aug 2025 12:52:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.430460"
+      },
+      "0156ff480ab1cd1c3c5000b0f640903c80b57de8700fd0537783fa8382058abc": {
+        "title": "用户痛批GPT-5，哭诉「还我GPT-4o」，奥特曼妥协了",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-09-3",
+        "published_date": "Sat, 09 Aug 2025 12:44:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.430651"
+      },
+      "05728220c1dca9b0fa09970835fec7d41b678cf232af968f6d2ed6e41cf4d3c2": {
+        "title": "上海AI Lab、浙大EagleLab等提出RRVF：利用「验证非对称性」，只输入图片学习视觉推理",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-09-2",
+        "published_date": "Sat, 09 Aug 2025 12:41:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.430905"
+      },
+      "0b178713dea7e5bd845dcaa29861c54360293c711e7fea314d75a48a2a091db2": {
+        "title": "银河通用亮相 2025 世界机器人大会，搭载英伟达最新 Thor 芯片，Galbot 全球首发震撼登场",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-09",
+        "published_date": "Sat, 09 Aug 2025 12:34:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.431311"
+      },
+      "67d64a10a26a9f75c098456d559faa798b09c0c2858cb819b6af748eea7cecca": {
+        "title": "全球油耗最低智能车来了：8.18万开卖上热搜，27分钟大订破万",
+        "link": "https://www.qbitai.com/2025/08/320238.html",
+        "published_date": "Sat, 09 Aug 2025 02:02:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.431570"
       }
     },
     "Technology": {
@@ -24092,69 +24122,63 @@
         "link": "https://www.infoq.cn/article/Wt501TWszv3v794DWfGY?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 08 Aug 2025 16:27:00 GMT",
         "first_seen": "2025-08-08T23:21:43.657658"
+      },
+      "f74cd4294ae0d6d6c04f3af408e3d352f787bce035d32de681864094603b2cc4": {
+        "title": "他救了OpenAI、年赚过亿、三家明星CTO，却自曝跟不上AI发展了！硅谷大佬告诫：不是马斯克，就别碰大模型",
+        "link": "https://www.infoq.cn/article/FsQ4a8vXUP96BmaMmTav?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 09 Aug 2025 13:00:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.473284"
+      },
+      "fc51895032fe18b34d933340234b3db0c11c4a3f4b129ee9c02b26aa63babb21": {
+        "title": "China Defends Its Russian Oil Purchases after Trump Signals Possible New Tariffs",
+        "link": "https://www.tmtpost.com/7653959.html",
+        "published_date": "Sat, 09 Aug 2025 12:17:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.473570"
+      },
+      "48e7d9e39749bcc36658bf307768aef88f1d2cfdd9dcded9a77a13c77b29bfbd": {
+        "title": "ChatGPT-5 来了：从狂热赞美到理性质疑",
+        "link": "https://www.tmtpost.com/7653859.html",
+        "published_date": "Sat, 09 Aug 2025 11:42:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.473780"
+      },
+      "f1e81f5c336795cc59bcf7b83c1ba6082d839d1270527952b986d30b52c0316c": {
+        "title": "数字疗法迎来重大里程碑，首个监管政策发布",
+        "link": "https://www.tmtpost.com/7653078.html",
+        "published_date": "Sat, 09 Aug 2025 11:11:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.473968"
+      },
+      "6b784b6ffe409b7e4ba7566adeecea30518a1a4ed797bb1ea3587cb2969bdce5": {
+        "title": "巨头搅局具身智能，世界机器人大会看什么？",
+        "link": "https://www.tmtpost.com/7653228.html",
+        "published_date": "Sat, 09 Aug 2025 09:58:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.474192"
+      },
+      "36eabf9677ba7dd371909ff84dfcbf0caa65ce68329def852ccde1a77685765f": {
+        "title": "宋春雨：下一代颠覆性巨头，不会出现在大模型里",
+        "link": "https://www.tmtpost.com/7653137.html",
+        "published_date": "Sat, 09 Aug 2025 09:08:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.474481"
+      },
+      "d529179b140f4cf3b75e5b9a496d7da83f82381355c8112b1a5df25c5c6c31fd": {
+        "title": "海尔空调，不能光知道「埋头」干技术",
+        "link": "https://www.tmtpost.com/7651640.html",
+        "published_date": "Sat, 09 Aug 2025 07:30:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.474780"
+      },
+      "9a039412facb99dfe93a2228a2fd5871fc78dbf70b4564e2abd481a03046a434": {
+        "title": "石油需求萎缩怎么办？我国石油产业如何转型？一口气看懂石油产业链",
+        "link": "http://www.huxiu.com/article/4669547.html?f=wangzhan",
+        "published_date": "Sat, 09 Aug 2025 09:00:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.475171"
+      },
+      "748ef236ee08c2b79dba48cda4c7540c23c4adc36b28d5b054258707086786dc": {
+        "title": "李想称知道哪个品牌在黑理想；比亚迪：App 将继续使用「比亚迪」原名；世界机器人大会开幕 | 极客早知道",
+        "link": "http://www.geekpark.net/news/352525",
+        "published_date": "Sat, 09 Aug 2025 08:18:00 GMT",
+        "first_seen": "2025-08-09T05:20:48.475838"
       }
     },
     "Finance": {
-      "18630238c7383e99d837d9590f96b456359a49a9959ac7bb5c436399162d8787": {
-        "title": "Why investors need to stop obsessing over when the Fed is going to cut interest rates next",
-        "link": "https://www.marketwatch.com/story/why-interest-rate-cuts-wont-be-the-fuel-the-stock-market-needs-to-rocket-higher-622dca61?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Jul 2025 22:08:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828451"
-      },
-      "3975f45b70769a85ad9948a08a02a9e639522cb30e6348a08dcb99786c2d5725": {
-        "title": "Bitcoin hits record high. Why the crypto’s rally may lose steam after briefly topping $112,000.",
-        "link": "https://www.marketwatch.com/story/bitcoin-hits-record-high-why-the-cryptos-rally-may-lose-steam-after-briefly-topping-112-000-00941186?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Jul 2025 21:49:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828506"
-      },
-      "c86c7e01c52c2c805cc7ce0aa55fa5f84bb5370807e6eb23b3f0a4621af1ea8c": {
-        "title": "The SALT deduction is now much more generous. Here’s how to get the most out of the tax break.",
-        "link": "https://www.marketwatch.com/story/the-salt-deduction-is-now-much-more-generous-heres-how-to-get-the-most-out-of-the-tax-break-b7b2400e?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Jul 2025 21:45:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828529"
-      },
-      "cdb1343c2fdf2fbdf2e0583b6e04e4257eac8c2342902d5237180d2f531a4f03": {
-        "title": "Costco’s monthly sales growth accelerates, following slowdown earlier this year",
-        "link": "https://www.marketwatch.com/story/costcos-monthly-sales-growth-accelerates-following-slowdown-earlier-this-year-ff70fb09?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Jul 2025 21:18:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828541"
-      },
-      "2ca3ddeace682f569105fea5605b43c9b5f94461d5256a38d1eacf8dfd9c9b42": {
-        "title": "Eldercare is overtaking childcare. Governments and employers need to step up.",
-        "link": "https://www.marketwatch.com/story/more-older-people-than-children-now-need-caregiving-governments-and-employers-need-to-step-up-f4ce0f1b?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Jul 2025 21:16:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828517"
-      },
-      "47c86589c0d74082c91b2441bda2f833f87853ca8927021be7ff465bc9cb6b74": {
-        "title": "Trump releases 8 more tariff letters. Here’s how his new rates compare to ‘liberation day’ levels.",
-        "link": "https://www.marketwatch.com/story/trump-just-released-7-more-tariff-letters-heres-how-the-rates-compare-to-his-liberation-day-levels-1ef1cd77?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Jul 2025 20:53:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828492"
-      },
-      "79553351503843335757af97d67ee9b7b9d6cea3bfac200d3a0fee6f1798ccfc": {
-        "title": "Can Trump tap Bessent to head the Fed and the Treasury at the same time?",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=35b14822-0178-4add-9f9c-8a25e4bc5938&mod=mw_rss_bulletins",
-        "published_date": "Wed, 09 Jul 2025 21:56:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828463"
-      },
-      "632b3f40cd1c9959609509a54d7789f035f4325ebf30d49decbdfb0b661ff5b0": {
-        "title": "How Trump’s threat of 50% tariffs on copper could hurt America’s AI ambitions",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=496a9090-04b4-4e84-89bf-99ada07de620&mod=mw_rss_bulletins",
-        "published_date": "Wed, 09 Jul 2025 20:23:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828477"
-      },
-      "5bb3e64faf458ba9c037e274bbdf811ef87a6a1d02969b97f6bf21a217e71309": {
-        "title": "Nasdaq closes at new record as stocks rally after Fed minutes point to rate cuts",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bef2b5a9-6797-4809-8517-6fdf76d2af61&mod=mw_rss_bulletins",
-        "published_date": "Wed, 09 Jul 2025 20:05:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828440"
-      },
-      "92836942adeece521394c6a5dcad38d1adc97fc8a55ebbff9501705f816de32d": {
-        "title": "Door open for Fed to ease rates this year, minutes show",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=696f4f4d-1bb5-4c59-a16e-0d173cff1547&mod=mw_rss_bulletins",
-        "published_date": "Wed, 09 Jul 2025 18:43:00 GMT",
-        "first_seen": "2025-07-09T23:21:18.828420"
-      },
       "962333c0af1cf8159f951ad425cede953ec92b8c55c053d17ce7eaab9052dcb7": {
         "title": "Microsoft’s stock gets an upgrade. Why these analysts say it’s underappreciated in AI.",
         "link": "https://www.marketwatch.com/story/microsofts-stock-gets-an-upgrade-why-these-analysts-say-its-underappreciated-in-ai-2533bf48?mod=mw_rss_topstories",
@@ -27458,8 +27482,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-08T23:21:01.530359",
-    "Technology": "2025-08-08T23:21:43.660127",
-    "Finance": "2025-08-08T23:21:19.141330"
+    "AI": "2025-08-09T05:20:48.445971",
+    "Technology": "2025-08-09T05:20:48.483188",
+    "Finance": "2025-08-09T05:20:48.460318"
   }
 }
