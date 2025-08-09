@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-08 23:20
+**最后更新时间**: 2025-08-09 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-09 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Things are getting tougher’: I’m struggling with $145,000 in debt. Should I refinance my 3.5% mortgage?](https://www.marketwatch.com/story/things-are-getting-tougher-im-struggling-with-145-000-in-debt-should-i-refinance-my-3-5-mortgage-6a7962c9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-09 19:28
+
+#### [A voice breaking from the Fed ranks just heightened her push for cutting interest rates fast](https://www.marketwatch.com/story/a-voice-breaking-from-the-fed-ranks-just-heightened-her-push-for-cutting-interest-rates-fast-4bd935a9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-09 18:31
+
+#### [Stock buybacks are surging. Here’s why it matters to your portfolio.](https://www.marketwatch.com/story/dividends-rise-when-companies-have-confidence-about-earnings-but-this-is-happening-instead-c5ef7d9e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-09 18:13
+
+#### [Is booze making a comeback? The sober craze may have run its course.](https://www.marketwatch.com/story/is-gen-z-really-drinking-less-alcohol-or-just-being-choosier-about-when-they-indulge-i-love-a-good-mojito-388ae920?mod=mw_rss_topstories)
+**发布时间**: 2025-08-09 17:54
+
+#### [‘I’m tired of corporate America’: My wife and I have $1.65 million. I’m 61. Can I retire already?](https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-09 17:31
+
+#### [Chelsea Handler talks about her boozy lemonade, the meaning of turning 50 and why real estate is the best investment](https://www.marketwatch.com/story/chelsea-handler-talks-about-her-boozy-lemonade-the-meaning-of-turning-50-and-why-real-estate-is-the-best-investment-0fd521b9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-09 17:12
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [A voice breaking from Fed ranks just pushed for cutting interest rates faster](https://www.marketwatch.com/bulletins/redirect/go?g=31d51ba1-4a54-4f9a-8b64-8c6578ea61e9&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-09 18:39
+
+#### [Forget art and jewelry—this is the new target of high-profile heists](https://www.marketwatch.com/bulletins/redirect/go?g=f60e1132-e603-4018-a1f8-72986143c54d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-09 13:58
+
+#### [Trump wants private assets in 401(k)s—but how do everyday investors value them?](https://www.marketwatch.com/bulletins/redirect/go?g=940653a2-1719-46c3-b72f-b700b2368d99&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-09 13:26
 
 ---
 

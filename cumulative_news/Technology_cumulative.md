@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-09 08:31
+**最后更新时间**: 2025-08-09 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-09 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球首家专注于Web3及数字资产服务的私募投资公司C1 Fund美股上市，华兴资本担任亚洲唯一承销商](https://www.tmtpost.com/7654154.html)
+**发布时间**: 2025-08-09 21:17
+
+#### [对话桥介数物创始人尚阳星：近亿元融资后，希望机器人运控如组装电脑简易](https://www.tmtpost.com/7653805.html)
+**发布时间**: 2025-08-09 20:06
+
+#### [Unitree CEO Says Humanoid Robots 'ChatGPT Moment' Could Arrive in 3–5 Years, Annual Shipments May Hit 1 Million](https://www.tmtpost.com/7654124.html)
+**发布时间**: 2025-08-09 19:00
+
+#### [8大赛道与29起融资并购，拼出上半年广告业的新版图](https://www.tmtpost.com/7653930.html)
+**发布时间**: 2025-08-09 18:45
+
+#### [银发营销风起：取悦的不止中老年人，也在反向收割年轻人](https://www.tmtpost.com/7653946.html)
+**发布时间**: 2025-08-09 18:45
+
+#### [光伏专利大战：TOP10企业专利护城河深度解析](https://www.tmtpost.com/7653914.html)
+**发布时间**: 2025-08-09 17:11
+
+#### [GPT-5离“神级AI”还有多远？](https://www.tmtpost.com/7653664.html)
+**发布时间**: 2025-08-09 16:33
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [A Special Diamond Is the Key to a Fully Open Source Quantum Sensor](https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/)
+**发布时间**: 2025-08-09 18:40
+
+#### [3 Best Steam Mops, Tested for Months (2025)](https://www.wired.com/gallery/best-steam-mops/)
+**发布时间**: 2025-08-09 13:32
+
+#### [Best Open Earbuds, Tested and Reviewed (2025): Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
+**发布时间**: 2025-08-09 13:03
+
+#### [Sand and Deliver: We Raced Across Dunes to Find the Best Beach Wagon](https://www.wired.com/story/the-best-beach-wagons-tested/)
+**发布时间**: 2025-08-09 12:45
+
+#### [Why You Need an Outdoor Air Quality Monitor (2025)](https://www.wired.com/story/why-you-need-an-outdoor-air-quality-monitor/)
+**发布时间**: 2025-08-09 12:34
+
+#### [Matter and Form Three 3D Scanner Review: Easy Scans](https://www.wired.com/review/matter-and-form-three-3d-scanner/)
+**发布时间**: 2025-08-09 12:00
+
+#### [Private Companies Are Now Gathering Weather Data for NOAA](https://www.wired.com/story/private-companies-step-up-to-gather-weather-data-for-noaa-as-staffing-cuts-hobble-agency-forecasting/)
+**发布时间**: 2025-08-09 11:00
+
+#### [The 24 Best Shows on Amazon Prime Right Now (August 2025)](https://www.wired.com/story/best-shows-amazon-prime/)
+**发布时间**: 2025-08-09 11:00
+
+#### [The US Court Records System Has Been Hacked](https://www.wired.com/story/us-court-records-system-hacked/)
+**发布时间**: 2025-08-09 10:30
+
+#### [Gear News of the Week: iPhone 17 May Be a Month Away, and Sonos to Raise Prices](https://www.wired.com/story/gear-news-of-the-week-iphone-17-may-be-a-month-away-and-sonos-to-raise-prices/)
+**发布时间**: 2025-08-09 10:30
+
+#### [Here’s How to Buy the Best Used EV](https://www.wired.com/story/heres-how-to-buy-the-best-used-ev/)
+**发布时间**: 2025-08-09 10:00
+
+#### [What Even Is Instagram Now?](https://www.wired.com/story/what-even-is-instagram-now/)
+**发布时间**: 2025-08-09 09:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小米汽车在丢掉消费者信任吗？](http://www.huxiu.com/article/4673271.html?f=wangzhan)
+**发布时间**: 2025-08-09 16:24
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [RFK Jr. wants a wearable on every American — that future’s not as healthy as he thinks](https://www.theverge.com/analysis/756994/rfk-jr-wearables-maha-health-wearables-disordered-eating)
+**发布时间**: 2025-08-09 14:00
+
+#### [Aura’s Aspen impressive digital frame is the most affordable it’s been](https://www.theverge.com/tech/756979/aura-aspen-digital-photo-frame-garmin-inreach-mini-2-deal-sale)
+**发布时间**: 2025-08-09 13:35
+
+#### [Is This Seat Taken? makes seating fussy people fun](https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android)
+**发布时间**: 2025-08-09 13:00
+
+#### [I went camping in a heat dome, and these five gadgets saved my vacation](https://www.theverge.com/smart-home/717771/camping-heat-dome-and-these-gadgets-saved-my-vacation)
+**发布时间**: 2025-08-09 13:00
+
+#### [Why Donald Trump’s environmental data purge is so much worse this time](https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump)
+**发布时间**: 2025-08-09 13:00
+
+#### [What&#8217;s a smut peddler to do these days?](https://www.theverge.com/report/756841/itchio-adult-content-creator-backlash-steam-paypal)
+**发布时间**: 2025-08-09 12:00
 
 ---
 
