@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-09 23:20
+**最后更新时间**: 2025-08-10 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-10 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures inch higher ahead of inflation reports this week](https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-ahead-of-inflation-reports-this-week-6b24ec5d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-10 23:05
+
+#### [Nvidia and AMD reportedly will give U.S. government 15% of its China chip revenues](https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories)
+**发布时间**: 2025-08-10 22:31
+
+#### [Everyone’s worried about the economy, but executives have been talking less about a recession](https://www.marketwatch.com/story/everyones-worried-about-the-economy-but-executives-have-been-talking-less-about-a-recession-70cfae57?mod=mw_rss_topstories)
+**发布时间**: 2025-08-10 19:33
+
+#### [Stock-market rebound to be tested by inflation reports as stagflation threat emerges](https://www.marketwatch.com/story/stock-market-rebound-to-be-tested-by-inflation-reports-as-stagflation-threat-emerges-8309ee55?mod=mw_rss_topstories)
+**发布时间**: 2025-08-10 19:28
+
+#### [Workers do not need private equity in their 401(k) plans](https://www.marketwatch.com/story/workers-do-not-need-private-equity-in-their-401-k-plans-5bd8fd8c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-10 18:41
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures inch higher ahead of inflation reports this week](https://www.marketwatch.com/bulletins/redirect/go?g=c81c39ce-6520-4ecd-8a9e-f5f960f2ed9a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-10 22:23
+
+#### [Nvidia, AMD reportedly will give U.S. government 15% of its China chip revenues](https://www.marketwatch.com/bulletins/redirect/go?g=9f5ca0e1-b35c-479e-9e52-8c94313bac21&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-10 22:01
+
+#### [Opinion: Why workers don't need private equity in their 401(k) plans](https://www.marketwatch.com/bulletins/redirect/go?g=4d94fe47-d25a-4a9b-9c2f-5fe65a9935ff&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-10 19:58
+
+#### [Market's rebound to be tested by inflation reports as stagflation threat emerges](https://www.marketwatch.com/bulletins/redirect/go?g=5ed0b398-6784-44fa-9253-0b1e20b8a44b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-10 19:53
 
 ---
 

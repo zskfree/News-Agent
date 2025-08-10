@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-10 08:27
+**最后更新时间**: 2025-08-10 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-10 23:20)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小红书为什么要做“漫展”？](http://www.geekpark.net/news/352531)
+**发布时间**: 2025-08-10 21:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [优必选展出五大人形机器人，首发自主换电补能方案 | WRC 2025](https://www.tmtpost.com/7654353.html)
+**发布时间**: 2025-08-10 17:57
+
+#### [速腾聚创推出Active Camera平台，要为机器人造“眼睛” | WRC2025](https://www.tmtpost.com/7654357.html)
+**发布时间**: 2025-08-10 17:56
+
+#### [GPT-5 没有惊喜，但信号拉满](https://www.tmtpost.com/7654162.html)
+**发布时间**: 2025-08-10 17:39
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [7 password managers to help keep your apps safe](https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe)
+**发布时间**: 2025-08-10 15:00
+
+#### [We found stuff AI is pretty good at](https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast)
+**发布时间**: 2025-08-10 15:00
+
+#### [How big trucks and SUVs gobbled up the entire auto industry](https://www.theverge.com/the-stepback-newsletter/756967/giant-trucks-suvs-car-bloat)
+**发布时间**: 2025-08-10 14:15
+
+#### [Inside the automated warehouse where robots are packing your groceries](https://www.theverge.com/robot/719880/ocado-online-grocery-automation-krogers-luton-ogrp-robot-grid)
+**发布时间**: 2025-08-10 14:00
+
+#### [Ditching my phone for an LTE smartwatch was a humbling experience](https://www.theverge.com/gadgets/756945/smartwatch-lte-minimalist-phone)
+**发布时间**: 2025-08-10 13:00
+
+#### [Sex is getting scrubbed from the internet, but a billionaire can sell you AI nudes](https://www.theverge.com/internet-censorship/756831/grok-spicy-videos-nonconsensual-deepfakes-online-safety)
+**发布时间**: 2025-08-10 12:30
+
+#### [The next big AI model is here](https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer)
+**发布时间**: 2025-08-10 12:00
+
+#### [Aura’s impressive Aspen digital frame is the most affordable it’s been](https://www.theverge.com/tech/756979/aura-aspen-digital-photo-frame-garmin-inreach-mini-2-deal-sale)
+**发布时间**: 2025-08-09 13:35
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
+**发布时间**: 2025-08-10 13:00
+
+#### [Sena S1 Smart Cycling Helmet Review: Listen to Everything](https://www.wired.com/review/sena-s1-smart-cycling-helmet/)
+**发布时间**: 2025-08-10 12:30
+
+#### [5 Best Electric Toothbrushes, Backed by Dentists and Hygienists](https://www.wired.com/gallery/best-electric-toothbrushes/)
+**发布时间**: 2025-08-10 12:30
+
+#### [How to Use Parallels to Run Windows on a Mac](https://www.wired.com/story/how-to-use-parallels-to-run-windows-on-a-mac/)
+**发布时间**: 2025-08-10 11:30
+
+#### [This New Pyramid-Like Shape Always Lands With the Same Side Up](https://www.wired.com/story/a-new-pyramid-like-shape-always-lands-the-same-side-up/)
+**发布时间**: 2025-08-10 11:00
+
+#### [9 Best WIRED-Tested Cooling Mattresses (2025)](https://www.wired.com/gallery/best-cooling-mattress/)
+**发布时间**: 2025-08-10 10:32
+
+#### [How to Protect Yourself From Portable Point-of-Sale Scams](https://www.wired.com/story/portable-pos-thefts-how-to-protect-yourself-from-scams/)
+**发布时间**: 2025-08-10 10:00
 
 ---
 
