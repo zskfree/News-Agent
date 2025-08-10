@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 Aug 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2025 05:25:01 GMT</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2025 08:27:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯张正友：具身智能必须回答的三个「真问题」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-10-4</link>
-      <description>&lt;![CDATA[腾讯张正友：具身智能必须回答的三个「真问题」]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 13:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-10-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>token危机解决？扩散模型数据潜力3倍于自回归，重训480次性能仍攀升</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-10-3</link>
-      <description>&lt;![CDATA[token危机解决？扩散模型数据潜力3倍于自回归，重训480次性能仍攀升]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-10-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>联合理解生成的关键拼图？腾讯发布X-Omini：强化学习让离散自回归生成方法重焕生机，轻松渲染长文本图像</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-10-2</link>
-      <description>&lt;![CDATA[联合理解生成的关键拼图？腾讯发布X-Omini：强化学习让离散自回归生成方法重焕生机，轻松渲染长文本图像]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-10-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>40年后，Dijkstra算法极限再被突破，清华段然团队更快最短路径算法摘STOC最佳论文</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-10</link>
-      <description>&lt;![CDATA[40年后，Dijkstra算法极限再被突破，清华段然团队更快最短路径算法摘STOC最佳论文]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>即梦新升级了一个扶持计划，要让AI创作者不再“为爱发电”</title>
-      <link>https://www.qbitai.com/2025/08/320564.html</link>
-      <description>&lt;![CDATA[即梦新升级了一个扶持计划，要让AI创作者不再“为爱发电”]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 04:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320564.html</guid>
+      <title>又是王冠：27M小模型超越o3-mini！拒绝马斯克的00后果然不同</title>
+      <link>https://www.qbitai.com/2025/08/320598.html</link>
+      <description>&lt;![CDATA[又是王冠：27M小模型超越o3-mini！拒绝马斯克的00后果然不同]]&gt;</description>
+      <pubDate>Sun, 10 Aug 2025 05:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320598.html</guid>
       <category>AI</category>
     </item>
   </channel>
