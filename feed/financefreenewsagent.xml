@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 08:33:05 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 23:20:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nvidia, AMD shares lower on report to give U.S. a cut of China sales</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=74a340c1-564b-420b-8a60-70f631c4bc72&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Nvidia, AMD shares lower on report to give U.S. a cut of China sales]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=74a340c1-564b-420b-8a60-70f631c4bc72&amp;mod=mw_rss_bulletins</guid>
+      <title>Trump’s tax law is even better for rich people than originally thought. Here’s how much more the top 10% stand to gain.</title>
+      <link>https://www.marketwatch.com/story/trumps-tax-law-is-even-better-for-rich-people-than-originally-thought-heres-how-much-more-the-top-10-stand-to-gain-99d1d023?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump’s tax law is even better for rich people than originally thought. Here’s how much more the top 10% stand to gain.]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trumps-tax-law-is-even-better-for-rich-people-than-originally-thought-heres-how-much-more-the-top-10-stand-to-gain-99d1d023?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia and AMD said to strike unprecedented deal with White House for China access</title>
-      <link>https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia and AMD said to strike unprecedented deal with White House for China access]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 08:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories</guid>
+      <title>Trump extends trade truce with China another 90 days. What it means for tariffs.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=3cc580b4-3a2f-4aae-9684-5fba0a4a8ccf&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Trump extends trade truce with China another 90 days. What it means for tariffs.]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=3cc580b4-3a2f-4aae-9684-5fba0a4a8ccf&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Gold price tumbles on reports U.S. to clarify tariff plan on bullion</title>
-      <link>https://www.marketwatch.com/story/gold-price-tumbles-on-reports-u-s-to-clarify-tariff-plan-on-bullion-ba27df6a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Gold price tumbles on reports U.S. to clarify tariff plan on bullion]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 07:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/gold-price-tumbles-on-reports-u-s-to-clarify-tariff-plan-on-bullion-ba27df6a?mod=mw_rss_topstories</guid>
+      <title>Tomorrow's consumer-price index could show that tariff inflation is finally here</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7ddd512d-95c0-4f38-827a-30d89229e58c&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Tomorrow's consumer-price index could show that tariff inflation is finally here]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7ddd512d-95c0-4f38-827a-30d89229e58c&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>CPI manipulation isn’t an investor’s biggest concern. Watch this economic indicator instead.</title>
+      <link>https://www.marketwatch.com/story/cpi-manipulation-isnt-an-investors-biggest-concern-watch-this-economic-indicator-instead-95467865?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[CPI manipulation isn’t an investor’s biggest concern. Watch this economic indicator instead.]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/cpi-manipulation-isnt-an-investors-biggest-concern-watch-this-economic-indicator-instead-95467865?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tariff effects have spared consumers, says Goldman Sachs. So far, that is.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=20e9b34a-9175-4de4-a8bc-5d4d2142ec08&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Tariff effects have spared consumers, says Goldman Sachs. So far, that is.]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=20e9b34a-9175-4de4-a8bc-5d4d2142ec08&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The tech sector hasn’t been this top-heavy in decades. That could be an opportunity for investors hunting for bargains.</title>
+      <link>https://www.marketwatch.com/story/the-tech-sector-hasnt-been-this-top-heavy-in-decades-that-could-be-an-opportunity-for-investors-hunting-for-bargains-cc89f0ec?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The tech sector hasn’t been this top-heavy in decades. That could be an opportunity for investors hunting for bargains.]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 21:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-tech-sector-hasnt-been-this-top-heavy-in-decades-that-could-be-an-opportunity-for-investors-hunting-for-bargains-cc89f0ec?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Alphabet, Meta, Amazon and Microsoft share one thing that’s moving their stocks</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=cd35a691-70d8-4468-a189-0ab641022b1d&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Alphabet, Meta, Amazon and Microsoft share one thing that’s moving their stocks]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=cd35a691-70d8-4468-a189-0ab641022b1d&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Wall Street’s biggest bear is expecting a 14% stock-market pullback this year</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=830e4deb-990b-419f-8ea7-431df9ee83c0&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Wall Street’s biggest bear is expecting a 14% stock-market pullback this year]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=830e4deb-990b-419f-8ea7-431df9ee83c0&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Intel’s stock is rising as Trump suggests a path forward after CEO’s White House visit</title>
+      <link>https://www.marketwatch.com/story/intels-ceo-is-about-to-visit-trump-whats-at-stake-for-the-chip-maker-in-d-c-s-crosshairs-b317c066?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Intel’s stock is rising as Trump suggests a path forward after CEO’s White House visit]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 22:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/intels-ceo-is-about-to-visit-trump-whats-at-stake-for-the-chip-maker-in-d-c-s-crosshairs-b317c066?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘I don’t know anything about investing’: I’m inheriting a $150,000 IRA. What should I do with this money?</title>
+      <link>https://www.marketwatch.com/story/i-dont-know-anything-about-investing-im-inheriting-a-150-000-ira-what-should-i-do-with-this-money-c25d613c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I don’t know anything about investing’: I’m inheriting a $150,000 IRA. What should I do with this money?]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 23:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-dont-know-anything-about-investing-im-inheriting-a-150-000-ira-what-should-i-do-with-this-money-c25d613c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

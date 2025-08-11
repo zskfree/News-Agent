@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 08:33:05 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 23:19:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智谱终于发布GLM-4.5技术报告，从预训练到后训练，细节大公开</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-15</link>
-      <description>&lt;![CDATA[智谱终于发布GLM-4.5技术报告，从预训练到后训练，细节大公开]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-15</guid>
+      <title>「一只手有几根手指」，你的GPT-5答对了吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-19</link>
+      <description>&lt;![CDATA[「一只手有几根手指」，你的GPT-5答对了吗？]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 20:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-19</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>推理成本骤降75%！gpt-oss用新数据类型实现4倍推理速度，80GB显卡能跑1200亿参数大模型</title>
-      <link>https://www.qbitai.com/2025/08/321124.html</link>
-      <description>&lt;![CDATA[推理成本骤降75%！gpt-oss用新数据类型实现4倍推理速度，80GB显卡能跑1200亿参数大模型]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321124.html</guid>
+      <title>4D空间智能：AI如何一步步「看懂」时空结构？一篇综述解析通往四维世界的五大层次</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-18</link>
+      <description>&lt;![CDATA[4D空间智能：AI如何一步步「看懂」时空结构？一篇综述解析通往四维世界的五大层次]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-18</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>机器人上下文协议首次开源：阿里达摩院一口气放出具身智能「三大件」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-10</link>
-      <description>&lt;![CDATA[机器人上下文协议首次开源：阿里达摩院一口气放出具身智能「三大件」]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-10</guid>
+      <title>Sam Altman and the whale</title>
+      <link>https://www.technologyreview.com/2025/08/11/1121402/sam-altman-and-the-whale/</link>
+      <description>&lt;![CDATA[Sam Altman and the whale]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 18:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121402/sam-altman-and-the-whale/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Attention Sink产生的起点？清华&amp;美团首次揭秘MoE LLM中的超级专家机制</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-9</link>
-      <description>&lt;![CDATA[Attention Sink产生的起点？清华&amp;美团首次揭秘MoE LLM中的超级专家机制]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-9</guid>
+      <title>Meet the early-adopter judges using AI</title>
+      <link>https://www.technologyreview.com/2025/08/11/1121460/meet-the-early-adopter-judges-using-ai/</link>
+      <description>&lt;![CDATA[Meet the early-adopter judges using AI]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 15:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121460/meet-the-early-adopter-judges-using-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>宇树、银河通用都在用：英伟达「物理AI」技术亮相世界机器人大会</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-4</link>
-      <description>&lt;![CDATA[宇树、银河通用都在用：英伟达「物理AI」技术亮相世界机器人大会]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-4</guid>
+      <title>The Download: a quantum radar, and chipmakers’ deal with the US government</title>
+      <link>https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/</link>
+      <description>&lt;![CDATA[The Download: a quantum radar, and chipmakers’ deal with the US government]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ACL 2025 | 湖南大学、腾讯生命科学实验室等提出蛋白互作预测新方法，让LLM学会解读蛋白质网络</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-5</link>
-      <description>&lt;![CDATA[ACL 2025 | 湖南大学、腾讯生命科学实验室等提出蛋白互作预测新方法，让LLM学会解读蛋白质网络]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-5</guid>
+      <title>This quantum radar could image buried objects</title>
+      <link>https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/</link>
+      <description>&lt;![CDATA[This quantum radar could image buried objects]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>毒液抗菌搭配深度学习，千万级数据组中筛得386条备选，91.4%体外验证成功</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-6</link>
-      <description>&lt;![CDATA[毒液抗菌搭配深度学习，千万级数据组中筛得386条备选，91.4%体外验证成功]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 10:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-6</guid>
+      <title>让OpenAI只领先5天，百川发布推理新模型，掀翻医疗垂域开源天花板</title>
+      <link>https://www.qbitai.com/2025/08/321249.html</link>
+      <description>&lt;![CDATA[让OpenAI只领先5天，百川发布推理新模型，掀翻医疗垂域开源天花板]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321249.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从捍卫者到引路人，上交&amp;上海AI Lab提出LEGION：不仅是AI图像伪造克星，还能反哺生成模型进化？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-14</link>
-      <description>&lt;![CDATA[从捍卫者到引路人，上交&amp;上海AI Lab提出LEGION：不仅是AI图像伪造克星，还能反哺生成模型进化？]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 16:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-14</guid>
+      <title>以“具身智能基座”为核，睿尔曼携全产品矩阵及新品亮相2025 WRC</title>
+      <link>https://www.qbitai.com/2025/08/321183.html</link>
+      <description>&lt;![CDATA[以“具身智能基座”为核，睿尔曼携全产品矩阵及新品亮相2025 WRC]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 13:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321183.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>让64张卡像一张卡！浪潮信息发布新一代AI超节点，支持四大国产开源模型同时运行</title>
-      <link>https://www.qbitai.com/2025/08/321104.html</link>
-      <description>&lt;![CDATA[让64张卡像一张卡！浪潮信息发布新一代AI超节点，支持四大国产开源模型同时运行]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 07:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321104.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICCV 2025 | 机器人自主探索未知复杂空间？GLEAM破解主动探索建图的泛化难题</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-13</link>
-      <description>&lt;![CDATA[ICCV 2025 | 机器人自主探索未知复杂空间？GLEAM破解主动探索建图的泛化难题]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 15:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-13</guid>
+      <title>GPT-oss太离谱：无提示自行想象编程问题，还重复求解5000次</title>
+      <link>https://www.qbitai.com/2025/08/321167.html</link>
+      <description>&lt;![CDATA[GPT-oss太离谱：无提示自行想象编程问题，还重复求解5000次]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 08:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321167.html</guid>
       <category>AI</category>
     </item>
   </channel>

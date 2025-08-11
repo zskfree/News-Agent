@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-11 08:32
+**最后更新时间**: 2025-08-11 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-11 23:19)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [「一只手有几根手指」，你的GPT-5答对了吗？](https://www.jiqizhixin.com/articles/2025-08-11-19)
+**发布时间**: 2025-08-11 20:25
+
+#### [4D空间智能：AI如何一步步「看懂」时空结构？一篇综述解析通往四维世界的五大层次](https://www.jiqizhixin.com/articles/2025-08-11-18)
+**发布时间**: 2025-08-11 20:18
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Sam Altman and the whale](https://www.technologyreview.com/2025/08/11/1121402/sam-altman-and-the-whale/)
+**发布时间**: 2025-08-11 18:55
+
+#### [Meet the early-adopter judges using AI](https://www.technologyreview.com/2025/08/11/1121460/meet-the-early-adopter-judges-using-ai/)
+**发布时间**: 2025-08-11 15:16
+
+#### [The Download: a quantum radar, and chipmakers’ deal with the US government](https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/)
+**发布时间**: 2025-08-11 12:10
+
+#### [This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/)
+**发布时间**: 2025-08-11 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [让OpenAI只领先5天，百川发布推理新模型，掀翻医疗垂域开源天花板](https://www.qbitai.com/2025/08/321249.html)
+**发布时间**: 2025-08-11 14:17
+
+#### [以“具身智能基座”为核，睿尔曼携全产品矩阵及新品亮相2025 WRC](https://www.qbitai.com/2025/08/321183.html)
+**发布时间**: 2025-08-11 13:01
+
+#### [GPT-oss太离谱：无提示自行想象编程问题，还重复求解5000次](https://www.qbitai.com/2025/08/321167.html)
+**发布时间**: 2025-08-11 08:44
+
+#### [错信AI幻觉，一男子用溴化钠替代食用盐，真给自己吃出幻觉了](https://www.qbitai.com/2025/08/321158.html)
+**发布时间**: 2025-08-11 07:37
+
+#### [全球首只“机器藏羚羊”！云深处科技机器狗深入可可西里腹地](https://www.qbitai.com/2025/08/321138.html)
+**发布时间**: 2025-08-11 07:30
 
 ---
 

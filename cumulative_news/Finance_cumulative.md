@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-11 08:32
+**最后更新时间**: 2025-08-11 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-11 23:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I don’t know anything about investing’: I’m inheriting a $150,000 IRA. What should I do with this money?](https://www.marketwatch.com/story/i-dont-know-anything-about-investing-im-inheriting-a-150-000-ira-what-should-i-do-with-this-money-c25d613c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 23:05
+
+#### [My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?](https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 22:57
+
+#### [What is the worst financial decision you’ve ever made?](https://www.marketwatch.com/story/what-is-the-worst-financial-decision-youve-ever-made-02314556?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 22:49
+
+#### [Intel’s stock is rising as Trump suggests a path forward after CEO’s White House visit](https://www.marketwatch.com/story/intels-ceo-is-about-to-visit-trump-whats-at-stake-for-the-chip-maker-in-d-c-s-crosshairs-b317c066?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 22:39
+
+#### [BigBear.ai’s stock is sinking. Here’s the biggest problem from earnings.](https://www.marketwatch.com/story/bigbear-ais-stock-is-sinking-heres-the-biggest-problem-from-earnings-95e902f3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 22:24
+
+#### [Trump’s tax law is even better for rich people than originally thought. Here’s how much more the top 10% stand to gain.](https://www.marketwatch.com/story/trumps-tax-law-is-even-better-for-rich-people-than-originally-thought-heres-how-much-more-the-top-10-stand-to-gain-99d1d023?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 22:17
+
+#### [AMC sees moviegoers spending record amounts. ‘Choke on that!’ CEO says to naysayers.](https://www.marketwatch.com/story/amc-sees-moviegoers-spending-record-amounts-and-its-stock-surges-72b55800?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 21:57
+
+#### [CPI manipulation isn’t an investor’s biggest concern. Watch this economic indicator instead.](https://www.marketwatch.com/story/cpi-manipulation-isnt-an-investors-biggest-concern-watch-this-economic-indicator-instead-95467865?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 21:55
+
+#### [Kodak warns investors it might not be around much longer](https://www.marketwatch.com/story/kodak-warns-investors-it-might-not-be-around-much-longer-6d405420?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 21:33
+
+#### [The tech sector hasn’t been this top-heavy in decades. That could be an opportunity for investors hunting for bargains.](https://www.marketwatch.com/story/the-tech-sector-hasnt-been-this-top-heavy-in-decades-that-could-be-an-opportunity-for-investors-hunting-for-bargains-cc89f0ec?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 21:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump’s tax law is even better for the rich than originally thought. Here's why.](https://www.marketwatch.com/bulletins/redirect/go?g=7174e53b-7dac-4a22-ad65-c8522322ff61&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 23:00
+
+#### [Intel’s stock rises as Trump suggests path forward after CEO’s White House visit](https://www.marketwatch.com/bulletins/redirect/go?g=37d9e15e-7917-413f-acc0-7b4b72b1ac8e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 22:42
+
+#### [Should you use AI to buy a home? We asked Gemini these 4 mortgage questions.](https://www.marketwatch.com/bulletins/redirect/go?g=cbe62c2e-2075-4e23-9502-05f64e1aee01&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 21:30
+
+#### [Tomorrow's consumer-price index could show that tariff inflation is finally here](https://www.marketwatch.com/bulletins/redirect/go?g=7ddd512d-95c0-4f38-827a-30d89229e58c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 20:45
+
+#### [U.S. stocks end lower ahead of CPI despite Trump extending China trade truce](https://www.marketwatch.com/bulletins/redirect/go?g=4560cd10-9f58-4560-b056-edba528acd9d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 20:02
+
+#### [Trump extends trade truce with China another 90 days. What it means for tariffs.](https://www.marketwatch.com/bulletins/redirect/go?g=3cc580b4-3a2f-4aae-9684-5fba0a4a8ccf&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 19:29
+
+#### [Gold logs biggest daily price drop in months as Trump says it won’t face tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=b2003a45-f629-48bd-a30c-07683ddd0823&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 18:59
+
+#### [Wall Street’s biggest bear is expecting a 14% stock-market pullback this year](https://www.marketwatch.com/bulletins/redirect/go?g=830e4deb-990b-419f-8ea7-431df9ee83c0&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 17:50
+
+#### [Alphabet, Meta, Amazon and Microsoft share one thing that’s moving their stocks](https://www.marketwatch.com/bulletins/redirect/go?g=cd35a691-70d8-4468-a189-0ab641022b1d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 17:05
+
+#### [Tariff effects have spared consumers, says Goldman Sachs. So far, that is.](https://www.marketwatch.com/bulletins/redirect/go?g=20e9b34a-9175-4de4-a8bc-5d4d2142ec08&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 14:51
 
 ---
 

@@ -1,7 +1,171 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-11 08:32
+**最后更新时间**: 2025-08-11 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-11 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OpenAI CEO Says ‘AGI’ Term Losing Relevance](https://www.tmtpost.com/7655671.html)
+**发布时间**: 2025-08-12 03:42
+
+#### [“宁王”停产引锂狂飙，“反内卷”情绪发酵下的躁动能持续吗？｜行业风向标](https://www.tmtpost.com/7655622.html)
+**发布时间**: 2025-08-11 22:25
+
+#### [36万元起，坦克500用智能化和三架构挑战高端越野](https://www.tmtpost.com/7655617.html)
+**发布时间**: 2025-08-11 22:16
+
+#### [埃及计划到2030年绿色能源生产电力到24%；TikTok Shop日本首月GMV破2450万；上半年全球电视出货量同比增长2%｜一周「出海参考」](https://www.tmtpost.com/7655400.html)
+**发布时间**: 2025-08-11 19:44
+
+#### [接连两款国产新药获批，百亿“伟哥”市场要大变天？](https://www.tmtpost.com/7655077.html)
+**发布时间**: 2025-08-11 19:01
+
+#### [碰瓷YouTube，是我见过最愚蠢的事情之一](https://www.tmtpost.com/7654662.html)
+**发布时间**: 2025-08-11 19:00
+
+#### [单场狂揽千万，比短剧还猛的赛道，直逼2000亿](https://www.tmtpost.com/7654745.html)
+**发布时间**: 2025-08-11 18:59
+
+#### [从LABUBU到WAKUKU，谁在颠覆潮玩经济？](https://www.tmtpost.com/7655225.html)
+**发布时间**: 2025-08-11 18:58
+
+#### [AI对话，最先「伤害」老年人？](https://www.tmtpost.com/7655233.html)
+**发布时间**: 2025-08-11 18:58
+
+#### [全球医药史上最贵的教训](https://www.tmtpost.com/7654862.html)
+**发布时间**: 2025-08-11 18:40
+
+#### [2025世界机器人大会：时代喧哗造物忙](https://www.tmtpost.com/7654917.html)
+**发布时间**: 2025-08-11 18:40
+
+#### [AI SSD，热闹了起来](https://www.tmtpost.com/7654921.html)
+**发布时间**: 2025-08-11 18:40
+
+#### [淘宝闪购：用抖音的刀，割竞对的肉](https://www.tmtpost.com/7654724.html)
+**发布时间**: 2025-08-11 18:40
+
+#### [能装3T照片的夸克，装不下阿里的野心？](https://www.tmtpost.com/7655018.html)
+**发布时间**: 2025-08-11 18:29
+
+#### [上美影成就了《浪浪山》，还是《浪浪山》成就了上美影？](https://www.tmtpost.com/7654981.html)
+**发布时间**: 2025-08-11 18:29
+
+#### [欧洲光伏近十年首现负增长，绿电直连能否助力光伏闯出一片天？](https://www.tmtpost.com/7654961.html)
+**发布时间**: 2025-08-11 18:29
+
+#### [China's Baichuan Intelligence Launches Medical AI Model That Outperforms OpenAI in Key Benchmark](https://www.tmtpost.com/7655398.html)
+**发布时间**: 2025-08-11 18:27
+
+#### [品牌扎堆短剧：真有效，还是伪热闹？](https://www.tmtpost.com/7655190.html)
+**发布时间**: 2025-08-11 17:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [昆仑万维发布新模型 SkyReels-A3，开启五天技术发布周](http://www.geekpark.net/news/352587)
+**发布时间**: 2025-08-11 23:29
+
+#### [世界机器人大会：笨拙的今天，与狂奔的明天](http://www.geekpark.net/news/352586)
+**发布时间**: 2025-08-11 23:12
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [That viral video of a ‘deactivated’ Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+**发布时间**: 2025-08-11 22:03
+
+#### [Anthropic’s Claude chatbot can now remember your past conversations](https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats)
+**发布时间**: 2025-08-11 21:56
+
+#### [Even the lowly canister vacuum now wants access to your Wi-Fi network](https://www.theverge.com/news/757731/miele-guard-l1-electro-canister-vacuum-smart-wifi-mobile-app)
+**发布时间**: 2025-08-11 20:20
+
+#### [This see-thru Game Boy is a work of art — because she designed a transparent circuit board](https://www.theverge.com/games/757662/natalie-the-nerd-transparent-translucent-game-boy-pcb)
+**发布时间**: 2025-08-11 19:21
+
+#### [Revel shutters rideshare business, pivots to EV charging](https://www.theverge.com/news/757661/revel-shutters-rideshare-business-pivots-to-ev-charging)
+**发布时间**: 2025-08-11 19:04
+
+#### [You can save $30 on the OnePlus Watch 3, a great Galaxy Watch 8 alternative](https://www.theverge.com/tech/757554/oneplus-watch-3-2-back-to-school-deal-sale)
+**发布时间**: 2025-08-11 18:47
+
+#### [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
+**发布时间**: 2025-08-11 18:30
+
+#### [iRobot’s future isn’t looking up](https://www.theverge.com/news/757434/irobot-earnings-show-roomba-maker-still-struggling)
+**发布时间**: 2025-08-11 17:48
+
+#### [Meta makes conservative activist an AI bias advisor following lawsuit](https://www.theverge.com/news/757537/meta-robby-starbuck-conservative-activist-ai-bias-advisor)
+**发布时间**: 2025-08-11 17:04
+
+#### [Reddit will block the Internet Archive](https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit)
+**发布时间**: 2025-08-11 17:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [爆笑魔改三国、西游名场面，用即梦、可灵带你重看经典如何被我们玩 “重生〞｜AI的n次方](https://www.infoq.cn/video/1iakv7gdFIyxvX0aeCWL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 19:13
+
+#### [从烧光现金、裁掉一半员工，到 ARR 9 个月破亿：Replit用“全栈平台”反杀Cursor，赌赢“每层都赚钱”模式](https://www.infoq.cn/article/xB1DHZ3HGKmX3XFc9VI2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 18:57
+
+#### [谷歌推出LangExtract，一个用于从非结构化文本中提取结构化数据的Python库](https://www.infoq.cn/article/edLvOpkRKSFjMgwvxhKi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 17:10
+
+#### [百川开源医疗增强大模型Baichuan-M2：更符合中国临床诊疗场景，可4090单卡部署](https://www.infoq.cn/article/BWxDExaPBiqQZtqaL612?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 15:24
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Scrambles to Update GPT-5 After Users Revolt](https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/)
+**发布时间**: 2025-08-11 19:13
+
+#### [WIRED Roundup: Unpacking OpenAI’s Government Partnership](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/)
+**发布时间**: 2025-08-11 18:32
+
+#### [Ford’s Answer to China: A Completely New Way of Making Cars](https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/)
+**发布时间**: 2025-08-11 15:02
+
+#### [An AI Model for the Brain Is Coming to the ICU](https://www.wired.com/story/an-ai-model-for-the-brain-is-coming-to-the-icu-cleveland-clinic-piramidal/)
+**发布时间**: 2025-08-11 15:00
+
+#### [In 'Alien: Earth', the Future Is a Corporate Hellscape](https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/)
+**发布时间**: 2025-08-11 14:47
+
+#### [The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-invisible-hearing-aids/)
+**发布时间**: 2025-08-11 13:01
+
+#### [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
+**发布时间**: 2025-08-11 12:03
+
+#### [7 Best Tents (2025), Tested: Camping, Family, and Outdoor Palaces](https://www.wired.com/gallery/best-camping-tents/)
+**发布时间**: 2025-08-11 11:00
+
+#### [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
+**发布时间**: 2025-08-11 11:00
+
+#### [13 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)
+**发布时间**: 2025-08-11 10:00
+
+#### [Inside the Multimillion-Dollar Gray Market for Video Game Cheats](https://www.wired.com/story/inside-the-multimillion-dollar-grey-market-for-video-game-cheats/)
+**发布时间**: 2025-08-11 10:00
+
+#### [The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns](https://www.wired.com/story/black-market-for-fraudulent-science-growing-faster-than-legitimate-research/)
+**发布时间**: 2025-08-11 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/101767)
+**发布时间**: 2025-08-11 17:52
+
+#### [心动时刻，Quote/0 成双：七夕限定惊喜上线。](https://sspai.com/post/101762)
+**发布时间**: 2025-08-11 16:01
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [电车保值率逆袭？新能源车价值战再升级](http://www.huxiu.com/article/4679794.html?f=wangzhan)
+**发布时间**: 2025-08-11 16:30
 
 ---
 

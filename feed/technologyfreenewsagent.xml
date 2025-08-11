@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 08:33:28 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 23:20:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI开放gpt-oss-120b和gpt-oss-20b模型权重，可在本地部署</title>
-      <link>https://www.infoq.cn/article/KMZ7DE6pHo8LtMGxTMKw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI开放gpt-oss-120b和gpt-oss-20b模型权重，可在本地部署]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KMZ7DE6pHo8LtMGxTMKw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI CEO Says ‘AGI’ Term Losing Relevance</title>
+      <link>https://www.tmtpost.com/7655671.html</link>
+      <description>&lt;![CDATA[OpenAI CEO Says ‘AGI’ Term Losing Relevance]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 03:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7655671.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>达摩院开源具身智能“三大件” 机器人上下文协议首次开源</title>
-      <link>https://www.infoq.cn/article/tzOXf1oROOgeID9HazZR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[达摩院开源具身智能“三大件” 机器人上下文协议首次开源]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 13:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tzOXf1oROOgeID9HazZR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic’s Claude chatbot can now remember your past conversations</title>
+      <link>https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats</link>
+      <description>&lt;![CDATA[Anthropic’s Claude chatbot can now remember your past conversations]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 21:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>王小川的百川智能开源全新医疗增强大模型，部署成本降至DeepSeek的1/57</title>
-      <link>https://www.tmtpost.com/7654719.html</link>
-      <description>&lt;![CDATA[王小川的百川智能开源全新医疗增强大模型，部署成本降至DeepSeek的1/57]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 13:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654719.html</guid>
+      <title>OpenAI Scrambles to Update GPT-5 After Users Revolt</title>
+      <link>https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/</link>
+      <description>&lt;![CDATA[OpenAI Scrambles to Update GPT-5 After Users Revolt]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>RoboSense Unveils 'Active Camera' Vision Platform at 2025 World Robot Conference in Beijing</title>
-      <link>https://www.tmtpost.com/7655079.html</link>
-      <description>&lt;![CDATA[RoboSense Unveils 'Active Camera' Vision Platform at 2025 World Robot Conference in Beijing]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7655079.html</guid>
+      <title>China's Baichuan Intelligence Launches Medical AI Model That Outperforms OpenAI in Key Benchmark</title>
+      <link>https://www.tmtpost.com/7655398.html</link>
+      <description>&lt;![CDATA[China's Baichuan Intelligence Launches Medical AI Model That Outperforms OpenAI in Key Benchmark]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 18:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7655398.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国电子云成立AI产品线，黄锋：从平台能力向行业应用延伸</title>
-      <link>https://www.tmtpost.com/7655158.html</link>
-      <description>&lt;![CDATA[中国电子云成立AI产品线，黄锋：从平台能力向行业应用延伸]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7655158.html</guid>
+      <title>AI对话，最先「伤害」老年人？</title>
+      <link>https://www.tmtpost.com/7655233.html</link>
+      <description>&lt;![CDATA[AI对话，最先「伤害」老年人？]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7655233.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新声半导体完成近三亿元B+轮融资，持续巩固行业龙头地位</title>
-      <link>https://www.tmtpost.com/7655000.html</link>
-      <description>&lt;![CDATA[新声半导体完成近三亿元B+轮融资，持续巩固行业龙头地位]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7655000.html</guid>
+      <title>WIRED Roundup: Unpacking OpenAI’s Government Partnership</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/</link>
+      <description>&lt;![CDATA[WIRED Roundup: Unpacking OpenAI’s Government Partnership]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>荣耀副总裁李云鹏：AI手机不是无序叠加硬件，让用户付出额外成本</title>
-      <link>https://www.tmtpost.com/7653953.html</link>
-      <description>&lt;![CDATA[荣耀副总裁李云鹏：AI手机不是无序叠加硬件，让用户付出额外成本]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 13:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7653953.html</guid>
+      <title>从烧光现金、裁掉一半员工，到 ARR 9 个月破亿：Replit用“全栈平台”反杀Cursor，赌赢“每层都赚钱”模式</title>
+      <link>https://www.infoq.cn/article/xB1DHZ3HGKmX3XFc9VI2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从烧光现金、裁掉一半员工，到 ARR 9 个月破亿：Replit用“全栈平台”反杀Cursor，赌赢“每层都赚钱”模式]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 18:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xB1DHZ3HGKmX3XFc9VI2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 “智能问数” 到 “深度研究”，火山引擎 Data Agent 的智能进化之路｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/U5wcCZZHRuV3I39YOG4g?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 “智能问数” 到 “深度研究”，火山引擎 Data Agent 的智能进化之路｜AICon 深圳]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/U5wcCZZHRuV3I39YOG4g?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Reddit will block the Internet Archive</title>
+      <link>https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit</link>
+      <description>&lt;![CDATA[Reddit will block the Internet Archive]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>保持终端的相关性：AI智能体驱动的CLIs模式</title>
-      <link>https://www.infoq.cn/article/9BQ7YK8ODGgZgqyAtDvj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[保持终端的相关性：AI智能体驱动的CLIs模式]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9BQ7YK8ODGgZgqyAtDvj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Ford’s Answer to China: A Completely New Way of Making Cars</title>
+      <link>https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/</link>
+      <description>&lt;![CDATA[Ford’s Answer to China: A Completely New Way of Making Cars]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DoorDash引入了配置驱动的Badge徽章框架来解耦UI逻辑</title>
-      <link>https://www.infoq.cn/article/ljh2mKoPUzy4QV4MAyPF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DoorDash引入了配置驱动的Badge徽章框架来解耦UI逻辑]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ljh2mKoPUzy4QV4MAyPF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>世界机器人大会：笨拙的今天，与狂奔的明天</title>
+      <link>http://www.geekpark.net/news/352586</link>
+      <description>&lt;![CDATA[世界机器人大会：笨拙的今天，与狂奔的明天]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 23:12:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352586</guid>
       <category>Technology</category>
     </item>
   </channel>
