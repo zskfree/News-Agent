@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-11 05:33
+**最后更新时间**: 2025-08-11 08:32
+
+---
+
+## 🆕 最新更新 (2025-08-11 08:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Nvidia, AMD shares lower on report to give U.S. a cut of China sales](https://www.marketwatch.com/bulletins/redirect/go?g=74a340c1-564b-420b-8a60-70f631c4bc72&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 08:16
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia and AMD said to strike unprecedented deal with White House for China access](https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 08:13
+
+#### [Gold price tumbles on reports U.S. to clarify tariff plan on bullion](https://www.marketwatch.com/story/gold-price-tumbles-on-reports-u-s-to-clarify-tariff-plan-on-bullion-ba27df6a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 07:45
 
 ---
 

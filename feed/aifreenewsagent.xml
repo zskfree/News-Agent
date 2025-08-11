@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 05:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 05:34:08 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 08:33:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>A Framework for Inherently Safer AGI through Language-Mediated Active Inference</title>
-      <link>https://arxiv.org/abs/2508.05766</link>
-      <description>&lt;![CDATA[A Framework for Inherently Safer AGI through Language-Mediated Active Inference]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05766</guid>
+      <title>智谱终于发布GLM-4.5技术报告，从预训练到后训练，细节大公开</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-15</link>
+      <description>&lt;![CDATA[智谱终于发布GLM-4.5技术报告，从预训练到后训练，细节大公开]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-15</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>达摩院开源具身智能“三大件”，机器人上下文协议首次开源</title>
-      <link>https://www.qbitai.com/2025/08/320807.html</link>
-      <description>&lt;![CDATA[达摩院开源具身智能“三大件”，机器人上下文协议首次开源]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 03:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320807.html</guid>
+      <title>推理成本骤降75%！gpt-oss用新数据类型实现4倍推理速度，80GB显卡能跑1200亿参数大模型</title>
+      <link>https://www.qbitai.com/2025/08/321124.html</link>
+      <description>&lt;![CDATA[推理成本骤降75%！gpt-oss用新数据类型实现4倍推理速度，80GB显卡能跑1200亿参数大模型]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321124.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Whither symbols in the era of advanced neural networks?</title>
-      <link>https://arxiv.org/abs/2508.05776</link>
-      <description>&lt;![CDATA[Whither symbols in the era of advanced neural networks?]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.05776</guid>
+      <title>机器人上下文协议首次开源：阿里达摩院一口气放出具身智能「三大件」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-10</link>
+      <description>&lt;![CDATA[机器人上下文协议首次开源：阿里达摩院一口气放出具身智能「三大件」]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蛋白质基座的GPT时代来了？！</title>
-      <link>https://www.qbitai.com/2025/08/320695.html</link>
-      <description>&lt;![CDATA[蛋白质基座的GPT时代来了？！]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 01:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320695.html</guid>
+      <title>Attention Sink产生的起点？清华&amp;美团首次揭秘MoE LLM中的超级专家机制</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-9</link>
+      <description>&lt;![CDATA[Attention Sink产生的起点？清华&amp;美团首次揭秘MoE LLM中的超级专家机制]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>强化学习+MCP=王炸？开源框架教AI在MCP中玩转工具解决任务，实测效果超越GPT！</title>
-      <link>https://www.qbitai.com/2025/08/320730.html</link>
-      <description>&lt;![CDATA[强化学习+MCP=王炸？开源框架教AI在MCP中玩转工具解决任务，实测效果超越GPT！]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 01:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320730.html</guid>
+      <title>宇树、银河通用都在用：英伟达「物理AI」技术亮相世界机器人大会</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-4</link>
+      <description>&lt;![CDATA[宇树、银河通用都在用：英伟达「物理AI」技术亮相世界机器人大会]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>字节&amp;MAP重塑大模型推理算法优化重点，强化学习重在高效探索助力LLM提升上限</title>
-      <link>https://www.qbitai.com/2025/08/320750.html</link>
-      <description>&lt;![CDATA[字节&amp;MAP重塑大模型推理算法优化重点，强化学习重在高效探索助力LLM提升上限]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 01:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320750.html</guid>
+      <title>ACL 2025 | 湖南大学、腾讯生命科学实验室等提出蛋白互作预测新方法，让LLM学会解读蛋白质网络</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-5</link>
+      <description>&lt;![CDATA[ACL 2025 | 湖南大学、腾讯生命科学实验室等提出蛋白互作预测新方法，让LLM学会解读蛋白质网络]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A &quot;good regulator theorem&quot; for embodied agents</title>
-      <link>https://arxiv.org/abs/2508.06326</link>
-      <description>&lt;![CDATA[A &quot;good regulator theorem&quot; for embodied agents]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.06326</guid>
+      <title>毒液抗菌搭配深度学习，千万级数据组中筛得386条备选，91.4%体外验证成功</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-6</link>
+      <description>&lt;![CDATA[毒液抗菌搭配深度学习，千万级数据组中筛得386条备选，91.4%体外验证成功]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning</title>
-      <link>https://arxiv.org/abs/2508.06042</link>
-      <description>&lt;![CDATA[Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.06042</guid>
+      <title>从捍卫者到引路人，上交&amp;上海AI Lab提出LEGION：不仅是AI图像伪造克星，还能反哺生成模型进化？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-14</link>
+      <description>&lt;![CDATA[从捍卫者到引路人，上交&amp;上海AI Lab提出LEGION：不仅是AI图像伪造克星，还能反哺生成模型进化？]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Overconfidence in LLM-as-a-Judge: Diagnosis and Confidence-Driven Solution</title>
-      <link>https://arxiv.org/abs/2508.06225</link>
-      <description>&lt;![CDATA[Overconfidence in LLM-as-a-Judge: Diagnosis and Confidence-Driven Solution]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.06225</guid>
+      <title>让64张卡像一张卡！浪潮信息发布新一代AI超节点，支持四大国产开源模型同时运行</title>
+      <link>https://www.qbitai.com/2025/08/321104.html</link>
+      <description>&lt;![CDATA[让64张卡像一张卡！浪潮信息发布新一代AI超节点，支持四大国产开源模型同时运行]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 07:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321104.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>From Explainable to Explanatory Artificial Intelligence: Toward a New Paradigm for Human-Centered Explanations through Generative AI</title>
-      <link>https://arxiv.org/abs/2508.06352</link>
-      <description>&lt;![CDATA[From Explainable to Explanatory Artificial Intelligence: Toward a New Paradigm for Human-Centered Explanations through Generative AI]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.06352</guid>
+      <title>ICCV 2025 | 机器人自主探索未知复杂空间？GLEAM破解主动探索建图的泛化难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-11-13</link>
+      <description>&lt;![CDATA[ICCV 2025 | 机器人自主探索未知复杂空间？GLEAM破解主动探索建图的泛化难题]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-13</guid>
       <category>AI</category>
     </item>
   </channel>

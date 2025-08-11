@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 05:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 05:34:08 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 08:33:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Amazon doc exposes ‘neglect and pain’ in many nursing homes. What can be done?</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=ac25386f-a9ee-4948-a9b1-a1ca9e9c9f55&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Amazon doc exposes ‘neglect and pain’ in many nursing homes. What can be done?]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=ac25386f-a9ee-4948-a9b1-a1ca9e9c9f55&amp;mod=mw_rss_bulletins</guid>
+      <title>Nvidia, AMD shares lower on report to give U.S. a cut of China sales</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=74a340c1-564b-420b-8a60-70f631c4bc72&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Nvidia, AMD shares lower on report to give U.S. a cut of China sales]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 08:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=74a340c1-564b-420b-8a60-70f631c4bc72&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Market's rebound to be tested by inflation reports as stagflation threat emerges</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f6642f0f-1d38-4238-9ca8-ae6423c1b0be&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Market's rebound to be tested by inflation reports as stagflation threat emerges]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 23:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f6642f0f-1d38-4238-9ca8-ae6423c1b0be&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia and AMD reportedly will give U.S. government 15% of their China chip revenues</title>
+      <title>Nvidia and AMD said to strike unprecedented deal with White House for China access</title>
       <link>https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia and AMD reportedly will give U.S. government 15% of their China chip revenues]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 00:02:00 GMT</pubDate>
+      <description>&lt;![CDATA[Nvidia and AMD said to strike unprecedented deal with White House for China access]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 08:13:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold price tumbles on reports U.S. to clarify tariff plan on bullion</title>
+      <link>https://www.marketwatch.com/story/gold-price-tumbles-on-reports-u-s-to-clarify-tariff-plan-on-bullion-ba27df6a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Gold price tumbles on reports U.S. to clarify tariff plan on bullion]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 07:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/gold-price-tumbles-on-reports-u-s-to-clarify-tariff-plan-on-bullion-ba27df6a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

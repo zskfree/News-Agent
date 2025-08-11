@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-11 05:33
+**最后更新时间**: 2025-08-11 08:32
+
+---
+
+## 🆕 最新更新 (2025-08-11 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中国电子云成立AI产品线，黄锋：从平台能力向行业应用延伸](https://www.tmtpost.com/7655158.html)
+**发布时间**: 2025-08-11 16:04
+
+#### [我们正不可逆地进入“倍速社会”](https://www.tmtpost.com/7654629.html)
+**发布时间**: 2025-08-11 16:01
+
+#### [百果园不需要教育消费者](https://www.tmtpost.com/7654896.html)
+**发布时间**: 2025-08-11 16:01
+
+#### [瑞幸咖啡，没有对手？](https://www.tmtpost.com/7654758.html)
+**发布时间**: 2025-08-11 15:44
+
+#### [8月11日A股分析：创业板指大涨1.96%，两市成交额突破1.8万亿元，主力资金净流入76.53亿元，PEEK材料概念涨幅近6%](https://www.tmtpost.com/7655115.html)
+**发布时间**: 2025-08-11 15:22
+
+#### [皮爷咖啡华南首店关店，低价潮中的精品咖啡何去何从？](https://www.tmtpost.com/7653800.html)
+**发布时间**: 2025-08-11 14:37
+
+#### [RoboSense Unveils 'Active Camera' Vision Platform at 2025 World Robot Conference in Beijing](https://www.tmtpost.com/7655079.html)
+**发布时间**: 2025-08-11 14:35
+
+#### [新声半导体完成近三亿元B+轮融资，持续巩固行业龙头地位](https://www.tmtpost.com/7655000.html)
+**发布时间**: 2025-08-11 14:09
+
+#### [全球任期最长的上市公司CEO，给中国捐了6000多座楼](https://www.tmtpost.com/7654290.html)
+**发布时间**: 2025-08-11 14:00
+
+#### [王小川的百川智能开源全新医疗增强大模型，部署成本降至DeepSeek的1/57](https://www.tmtpost.com/7654719.html)
+**发布时间**: 2025-08-11 13:57
+
+#### [荣耀副总裁李云鹏：AI手机不是无序叠加硬件，让用户付出额外成本](https://www.tmtpost.com/7653953.html)
+**发布时间**: 2025-08-11 13:44
+
+#### [颠覆中创变，经济型酒店正在穿越新周期](https://www.tmtpost.com/7654721.html)
+**发布时间**: 2025-08-11 13:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DoorDash引入了配置驱动的Badge徽章框架来解耦UI逻辑](https://www.infoq.cn/article/ljh2mKoPUzy4QV4MAyPF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 16:00
+
+#### [百川开源大模型医疗Baichuan-M2：更符合中国临床诊疗场景，可4090单卡部署](https://www.infoq.cn/article/BWxDExaPBiqQZtqaL612?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 15:24
+
+#### [保持终端的相关性：AI智能体驱动的CLIs模式](https://www.infoq.cn/article/9BQ7YK8ODGgZgqyAtDvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 15:00
+
+#### [从 “智能问数” 到 “深度研究”，火山引擎 Data Agent 的智能进化之路｜AICon 深圳](https://www.infoq.cn/article/U5wcCZZHRuV3I39YOG4g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 15:00
+
+#### [OpenAI开放gpt-oss-120b和gpt-oss-20b模型权重，可在本地部署](https://www.infoq.cn/article/KMZ7DE6pHo8LtMGxTMKw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 14:55
+
+#### [同理心驱动的平台团队如何支持软件开发](https://www.infoq.cn/article/EaXJi7yx2GtBzX5dKFN4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 14:51
+
+#### [达摩院开源具身智能“三大件” 机器人上下文协议首次开源](https://www.infoq.cn/article/tzOXf1oROOgeID9HazZR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 13:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [讲你知，Apple 嘅粤语编年史](https://sspai.com/post/98053)
+**发布时间**: 2025-08-11 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [暑期档电影透心凉，票房被谁“偷家”了？](http://www.huxiu.com/article/4677196.html?f=wangzhan)
+**发布时间**: 2025-08-11 14:16
+
+#### [川普变脸背后，非农数据的罗生门](http://www.huxiu.com/article/4664190.html?f=wangzhan)
+**发布时间**: 2025-08-11 10:09
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [AOL is finally shutting down dial-up](https://www.theverge.com/news/757194/aol-dial-up-is-dead)
+**发布时间**: 2025-08-11 07:32
 
 ---
 

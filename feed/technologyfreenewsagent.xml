@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 05:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 05:34:29 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 08:33:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nvidia and AMD to Pay 15% of China Chip Sales Revenue to U.S. Government</title>
-      <link>https://www.tmtpost.com/7654859.html</link>
-      <description>&lt;![CDATA[Nvidia and AMD to Pay 15% of China Chip Sales Revenue to U.S. Government]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654859.html</guid>
+      <title>OpenAI开放gpt-oss-120b和gpt-oss-20b模型权重，可在本地部署</title>
+      <link>https://www.infoq.cn/article/KMZ7DE6pHo8LtMGxTMKw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI开放gpt-oss-120b和gpt-oss-20b模型权重，可在本地部署]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KMZ7DE6pHo8LtMGxTMKw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【产业互联网周报】  OpenAI推出GPT-5模型；OpenAI开源两款新模型；美国ITC正式对移动蜂窝通信设备启动337调查；阿里巴巴、腾讯开启2026届秋招</title>
-      <link>https://www.tmtpost.com/7654841.html</link>
-      <description>&lt;![CDATA[【产业互联网周报】  OpenAI推出GPT-5模型；OpenAI开源两款新模型；美国ITC正式对移动蜂窝通信设备启动337调查；阿里巴巴、腾讯开启2026届秋招]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654841.html</guid>
+      <title>达摩院开源具身智能“三大件” 机器人上下文协议首次开源</title>
+      <link>https://www.infoq.cn/article/tzOXf1oROOgeID9HazZR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[达摩院开源具身智能“三大件” 机器人上下文协议首次开源]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tzOXf1oROOgeID9HazZR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI浪潮下，具身智能的崛起与数据瓶颈</title>
-      <link>https://www.tmtpost.com/7654457.html</link>
-      <description>&lt;![CDATA[AI浪潮下，具身智能的崛起与数据瓶颈]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654457.html</guid>
+      <title>王小川的百川智能开源全新医疗增强大模型，部署成本降至DeepSeek的1/57</title>
+      <link>https://www.tmtpost.com/7654719.html</link>
+      <description>&lt;![CDATA[王小川的百川智能开源全新医疗增强大模型，部署成本降至DeepSeek的1/57]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7654719.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Entrepreneur Chen Tianqiao and Tsinghua AI Expert Launch Open-Source AGI Startup</title>
-      <link>https://www.tmtpost.com/7654847.html</link>
-      <description>&lt;![CDATA[Entrepreneur Chen Tianqiao and Tsinghua AI Expert Launch Open-Source AGI Startup]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654847.html</guid>
+      <title>RoboSense Unveils 'Active Camera' Vision Platform at 2025 World Robot Conference in Beijing</title>
+      <link>https://www.tmtpost.com/7655079.html</link>
+      <description>&lt;![CDATA[RoboSense Unveils 'Active Camera' Vision Platform at 2025 World Robot Conference in Beijing]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7655079.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>UBTECH Unveils Five Humanoid Robots at World Robot Conference, Secures Record Commercial Contract</title>
-      <link>https://www.tmtpost.com/7654785.html</link>
-      <description>&lt;![CDATA[UBTECH Unveils Five Humanoid Robots at World Robot Conference, Secures Record Commercial Contract]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654785.html</guid>
+      <title>中国电子云成立AI产品线，黄锋：从平台能力向行业应用延伸</title>
+      <link>https://www.tmtpost.com/7655158.html</link>
+      <description>&lt;![CDATA[中国电子云成立AI产品线，黄锋：从平台能力向行业应用延伸]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7655158.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克：可能失去特斯拉控制权；何小鹏：听雷军劝，全新 P7 做 24 小时耐力测试；传华为将发 AI 推理突破成果</title>
-      <link>http://www.geekpark.net/news/352532</link>
-      <description>&lt;![CDATA[马斯克：可能失去特斯拉控制权；何小鹏：听雷军劝，全新 P7 做 24 小时耐力测试；传华为将发 AI 推理突破成果]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 07:55:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352532</guid>
+      <title>新声半导体完成近三亿元B+轮融资，持续巩固行业龙头地位</title>
+      <link>https://www.tmtpost.com/7655000.html</link>
+      <description>&lt;![CDATA[新声半导体完成近三亿元B+轮融资，持续巩固行业龙头地位]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7655000.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI融资混战，最狠的一笔钱来自谁？</title>
-      <link>https://www.tmtpost.com/7653085.html</link>
-      <description>&lt;![CDATA[OpenAI融资混战，最狠的一笔钱来自谁？]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7653085.html</guid>
+      <title>荣耀副总裁李云鹏：AI手机不是无序叠加硬件，让用户付出额外成本</title>
+      <link>https://www.tmtpost.com/7653953.html</link>
+      <description>&lt;![CDATA[荣耀副总裁李云鹏：AI手机不是无序叠加硬件，让用户付出额外成本]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 13:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7653953.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>穿透GPT5，我们可以看到什么？</title>
-      <link>https://www.tmtpost.com/7654456.html</link>
-      <description>&lt;![CDATA[穿透GPT5，我们可以看到什么？]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654456.html</guid>
+      <title>从 “智能问数” 到 “深度研究”，火山引擎 Data Agent 的智能进化之路｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/U5wcCZZHRuV3I39YOG4g?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 “智能问数” 到 “深度研究”，火山引擎 Data Agent 的智能进化之路｜AICon 深圳]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/U5wcCZZHRuV3I39YOG4g?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5 为什么没有带来更多惊喜？</title>
-      <link>https://www.tmtpost.com/7654373.html</link>
-      <description>&lt;![CDATA[GPT-5 为什么没有带来更多惊喜？]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 09:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7654373.html</guid>
+      <title>保持终端的相关性：AI智能体驱动的CLIs模式</title>
+      <link>https://www.infoq.cn/article/9BQ7YK8ODGgZgqyAtDvj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[保持终端的相关性：AI智能体驱动的CLIs模式]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9BQ7YK8ODGgZgqyAtDvj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>云端一体的座舱智能全链路演进——大模型激活第三空间｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/sOwIpAdVbWbGgEsUaYR4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[云端一体的座舱智能全链路演进——大模型激活第三空间｜AICon 深圳]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sOwIpAdVbWbGgEsUaYR4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DoorDash引入了配置驱动的Badge徽章框架来解耦UI逻辑</title>
+      <link>https://www.infoq.cn/article/ljh2mKoPUzy4QV4MAyPF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DoorDash引入了配置驱动的Badge徽章框架来解耦UI逻辑]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ljh2mKoPUzy4QV4MAyPF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

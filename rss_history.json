@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "0363ec0f2b98b02832ee1ea31928a00616547d316bf48815b37e45c6948ae6db": {
-        "title": "人工智能创新创业大赛总决赛圆满收官",
-        "link": "https://www.qbitai.com/2025/07/308381.html",
-        "published_date": "Sat, 12 Jul 2025 06:42:00 GMT",
-        "first_seen": "2025-07-12T08:26:06.655480"
-      },
       "d782984b0e398dcb5e334cefdde70bbd01de85d9c133622fd745f869f9f46bfc": {
         "title": "第一作者必须是AI！首个面向AI作者的学术会议来了，斯坦福发起",
         "link": "https://www.jiqizhixin.com/articles/2025-07-12-10",
@@ -9150,27 +9144,105 @@
         "link": "https://arxiv.org/abs/2508.05664",
         "published_date": "Mon, 11 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-11T05:33:44.429381"
+      },
+      "5f08a13da3685f81aa4164b4c8d85f6023c9feb6fd44271e3271015ee33d394b": {
+        "title": "智谱终于发布GLM-4.5技术报告，从预训练到后训练，细节大公开",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-15",
+        "published_date": "Mon, 11 Aug 2025 16:15:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578744"
+      },
+      "f942d87dccfccf3edfde0dd2f05ed343091479d2195e57977f26826fbecf7074": {
+        "title": "从捍卫者到引路人，上交&上海AI Lab提出LEGION：不仅是AI图像伪造克星，还能反哺生成模型进化？",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-14",
+        "published_date": "Mon, 11 Aug 2025 16:09:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578832"
+      },
+      "d6a8863b9e89df0dbc727b6c4360d269e746d977f4471b2b1cb03b8870bda92e": {
+        "title": "ICCV 2025 | 机器人自主探索未知复杂空间？GLEAM破解主动探索建图的泛化难题",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-13",
+        "published_date": "Mon, 11 Aug 2025 15:51:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578851"
+      },
+      "f610916489426d75a98c9901f70f566327e3cdd3c1bd0985dc57220d3296c49c": {
+        "title": "脑子比不过AI，手也要沦陷了？这只灵巧手看得我有点慌",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-12",
+        "published_date": "Mon, 11 Aug 2025 15:26:00 GMT",
+        "first_seen": "2025-08-11T08:32:41.950762"
+      },
+      "d87de2eae95d1c2c5ef08cc9faa915d4686d8c31f89a426b84b23feebe5a9ccf": {
+        "title": "第二届 “兴智杯” 全国人工智能创新应用大赛专题活动明天开启，技术解析 + 资源对接一站式平台重磅来袭！",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-11",
+        "published_date": "Mon, 11 Aug 2025 15:19:00 GMT",
+        "first_seen": "2025-08-11T08:32:41.951166"
+      },
+      "5fe3f9d9ee142527aa6311b31420030cf2929dddd755b19764ea2b4b43c6e95b": {
+        "title": "机器人上下文协议首次开源：阿里达摩院一口气放出具身智能「三大件」",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-10",
+        "published_date": "Mon, 11 Aug 2025 14:52:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578779"
+      },
+      "5d46c5e4275894e6c9ce0b81a9a8776f1f5384264f037411c52000613194351a": {
+        "title": "Attention Sink产生的起点？清华&美团首次揭秘MoE LLM中的超级专家机制",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-9",
+        "published_date": "Mon, 11 Aug 2025 14:46:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578790"
+      },
+      "e1f4ac6f542b4fe1a37373278e8e728c5b7f94f5771f25c633c5aaeeb75d8599": {
+        "title": "具身智能技术与应用论坛圆满举行，北京人形公布多项创新成果",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-8",
+        "published_date": "Mon, 11 Aug 2025 14:32:00 GMT",
+        "first_seen": "2025-08-11T08:32:41.952444"
+      },
+      "24baefe3d9c1243771154e51265bbf4cdab101a9c9a6b2ef407ceec524b45ed7": {
+        "title": "ACL 2025 | 湖南大学、腾讯生命科学实验室等提出蛋白互作预测新方法，让LLM学会解读蛋白质网络",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-5",
+        "published_date": "Mon, 11 Aug 2025 14:04:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578812"
+      },
+      "cda9488e5f45c79ed2dbcc1f8c0754b065fb9071eea00c042206392bbf29f705": {
+        "title": "宇树、银河通用都在用：英伟达「物理AI」技术亮相世界机器人大会",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-4",
+        "published_date": "Mon, 11 Aug 2025 14:02:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578800"
+      },
+      "6f92f475698fcead5b7344c7f2af770117b42946b0e174169c2a2606c586e87c": {
+        "title": "毒液抗菌搭配深度学习，千万级数据组中筛得386条备选，91.4%体外验证成功",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-11-6",
+        "published_date": "Mon, 11 Aug 2025 10:05:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578821"
+      },
+      "b64ac35d616c36b4e95f29ef146d0e7f1fde1ad32dad1a65735388e99e5ec625": {
+        "title": "推理成本骤降75%！gpt-oss用新数据类型实现4倍推理速度，80GB显卡能跑1200亿参数大模型",
+        "link": "https://www.qbitai.com/2025/08/321124.html",
+        "published_date": "Mon, 11 Aug 2025 07:13:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578767"
+      },
+      "26b684b9bf71925e43246ed6269b567dbfa9db58dffa0f3a11cdc145eadecc82": {
+        "title": "让64张卡像一张卡！浪潮信息发布新一代AI超节点，支持四大国产开源模型同时运行",
+        "link": "https://www.qbitai.com/2025/08/321104.html",
+        "published_date": "Mon, 11 Aug 2025 07:11:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.578842"
+      },
+      "010d8dbc3ca1ff4a961693f6b4025af170956dc8e9d842e40f35fadccc1d5b28": {
+        "title": "VLA进化后降维打击！双手拣货，漂移操作，还能批量化秀舞，太空舱直接开上街，被银河通用卷到了",
+        "link": "https://www.qbitai.com/2025/08/321105.html",
+        "published_date": "Mon, 11 Aug 2025 07:09:00 GMT",
+        "first_seen": "2025-08-11T08:32:41.957499"
+      },
+      "26c4db57a9f0790e4feef34aff3cffba2c3aae734acddd021da5a7c151b173eb": {
+        "title": "一份报告看尽2025上半年AI核心趋势，应用、模型、技术、行业全覆盖｜ 量子位智库",
+        "link": "https://www.qbitai.com/2025/08/320903.html",
+        "published_date": "Mon, 11 Aug 2025 06:46:00 GMT",
+        "first_seen": "2025-08-11T08:32:41.958575"
+      },
+      "92ac9ea5d151db144280fc3937e20f598b05327b196efa0bb925f43bb5a114eb": {
+        "title": "连机器人都有4S店了|WRC 2025",
+        "link": "https://www.qbitai.com/2025/08/320844.html",
+        "published_date": "Mon, 11 Aug 2025 06:25:00 GMT",
+        "first_seen": "2025-08-11T08:32:41.959265"
       }
     },
     "Technology": {
-      "dce3de8e32629d6637a8336605c3e28a25f17cb34e9bc2b29cf96bc130aefbbc": {
-        "title": "萨莉亚闷声赚麻了",
-        "link": "https://www.tmtpost.com/7624272.html",
-        "published_date": "Sat, 12 Jul 2025 16:22:00 GMT",
-        "first_seen": "2025-07-12T08:26:06.613500"
-      },
-      "87a2fd864e5c128b4fef5f522461ab165468ae44b6157a672e50521951b349fa": {
-        "title": "U.S. Could Reach a Interim Deal to Lower India Tariffs below 20%",
-        "link": "https://www.tmtpost.com/7624247.html",
-        "published_date": "Sat, 12 Jul 2025 13:27:00 GMT",
-        "first_seen": "2025-07-12T08:26:06.613629"
-      },
-      "93633b21d292a5a42987ec85bf8bd5a9e23b4664edb2d1194a5d68c721cea1e2": {
-        "title": "美团、滴滴、字节等巨头数十亿入局，具身机器人行业迎来“修罗场”的一周",
-        "link": "https://www.tmtpost.com/7623919.html",
-        "published_date": "Sat, 12 Jul 2025 13:19:00 GMT",
-        "first_seen": "2025-07-12T08:26:06.613848"
-      },
       "613bf014358918a0fecfde8bf8c91fd4bd6897dee87b014b655f8251002b7127": {
         "title": "一个月重写三次代码库、三个月就换套写法！吴恩达：AI创业拼的是速度，代码不重要",
         "link": "https://www.infoq.cn/article/pm5uDuSIof8UvxdQHz5Z?utm_source=rss&utm_medium=article",
@@ -22838,6 +22910,144 @@
         "link": "http://www.geekpark.net/news/352532",
         "published_date": "Mon, 11 Aug 2025 07:55:00 GMT",
         "first_seen": "2025-08-11T05:34:29.947795"
+      },
+      "a5c3eb65f559b5c8c07db969cd201353bf4c29b8ae8b3f9dea2e5a87b9ccc7b1": {
+        "title": "中国电子云成立AI产品线，黄锋：从平台能力向行业应用延伸",
+        "link": "https://www.tmtpost.com/7655158.html",
+        "published_date": "Mon, 11 Aug 2025 16:04:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750181"
+      },
+      "00eef8cc15773b06423df8ace2c084fc10beab0a313f61dc17dc8dd0718055fc": {
+        "title": "我们正不可逆地进入“倍速社会”",
+        "link": "https://www.tmtpost.com/7654629.html",
+        "published_date": "Mon, 11 Aug 2025 16:01:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.618896"
+      },
+      "01d4a63cdbbacc6177749517fcda900a76728dd17530fa85f146d0653c9d8a7e": {
+        "title": "百果园不需要教育消费者",
+        "link": "https://www.tmtpost.com/7654896.html",
+        "published_date": "Mon, 11 Aug 2025 16:01:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.619001"
+      },
+      "f5255b1d6332781da84dd61d42afe002a6cc5846fb07494ba90cbb48b7c67f37": {
+        "title": "瑞幸咖啡，没有对手？",
+        "link": "https://www.tmtpost.com/7654758.html",
+        "published_date": "Mon, 11 Aug 2025 15:44:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.619123"
+      },
+      "0d564489fd0efd7ea161058ce50b2de9cf3d53f7651e347f46cc24352559c5b8": {
+        "title": "8月11日A股分析：创业板指大涨1.96%，两市成交额突破1.8万亿元，主力资金净流入76.53亿元，PEEK材料概念涨幅近6%",
+        "link": "https://www.tmtpost.com/7655115.html",
+        "published_date": "Mon, 11 Aug 2025 15:22:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.619420"
+      },
+      "020735e5e8b1610bdd2e407fa1c98bb2871efac051b744158e0fd42dc2ee0c82": {
+        "title": "皮爷咖啡华南首店关店，低价潮中的精品咖啡何去何从？",
+        "link": "https://www.tmtpost.com/7653800.html",
+        "published_date": "Mon, 11 Aug 2025 14:37:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.619674"
+      },
+      "4bddd9901db34e5dcabadfe5ed98bb698a0e4af0f556785db51f68d20bbe6710": {
+        "title": "RoboSense Unveils 'Active Camera' Vision Platform at 2025 World Robot Conference in Beijing",
+        "link": "https://www.tmtpost.com/7655079.html",
+        "published_date": "Mon, 11 Aug 2025 14:35:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750172"
+      },
+      "84efefce48921da473072d4ca7464eb9d257c5270de2448ff785c47b8393f116": {
+        "title": "新声半导体完成近三亿元B+轮融资，持续巩固行业龙头地位",
+        "link": "https://www.tmtpost.com/7655000.html",
+        "published_date": "Mon, 11 Aug 2025 14:09:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750190"
+      },
+      "6c9b6ef8745511a80e011bcdd9f005cc6c3bcf021a4aaf291fcdeaa10e8b6a5d": {
+        "title": "全球任期最长的上市公司CEO，给中国捐了6000多座楼",
+        "link": "https://www.tmtpost.com/7654290.html",
+        "published_date": "Mon, 11 Aug 2025 14:00:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.620974"
+      },
+      "fc159d50f34722555bd48927e399945b7b8bd70394455be9f830b4a28e95efe1": {
+        "title": "王小川的百川智能开源全新医疗增强大模型，部署成本降至DeepSeek的1/57",
+        "link": "https://www.tmtpost.com/7654719.html",
+        "published_date": "Mon, 11 Aug 2025 13:57:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750160"
+      },
+      "e1a4b22dae231a861acce9ea28972c86467c68bd877b4742e59f8b7a498125dd": {
+        "title": "荣耀副总裁李云鹏：AI手机不是无序叠加硬件，让用户付出额外成本",
+        "link": "https://www.tmtpost.com/7653953.html",
+        "published_date": "Mon, 11 Aug 2025 13:44:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750199"
+      },
+      "d06ec8bcf06473443a1d911b3dcab9844a71f72e0138788a9f87ce38e3440fd4": {
+        "title": "颠覆中创变，经济型酒店正在穿越新周期",
+        "link": "https://www.tmtpost.com/7654721.html",
+        "published_date": "Mon, 11 Aug 2025 13:44:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.622541"
+      },
+      "e2d083bdf4b51904c03bba71058a052135ef1cb320af0a5682e27b9829b1f878": {
+        "title": "DoorDash引入了配置驱动的Badge徽章框架来解耦UI逻辑",
+        "link": "https://www.infoq.cn/article/ljh2mKoPUzy4QV4MAyPF?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 16:00:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750227"
+      },
+      "8a9bbdb1f017cf8c981a645158c2901b3d3d33ac44d3820e131fb4fba3ad45dc": {
+        "title": "百川开源大模型医疗Baichuan-M2：更符合中国临床诊疗场景，可4090单卡部署",
+        "link": "https://www.infoq.cn/article/BWxDExaPBiqQZtqaL612?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 15:24:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.624029"
+      },
+      "281edcdc019b00bc903640cfcbeeb409031417e5b14cca173690dbc2ca46023d": {
+        "title": "保持终端的相关性：AI智能体驱动的CLIs模式",
+        "link": "https://www.infoq.cn/article/9BQ7YK8ODGgZgqyAtDvj?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750219"
+      },
+      "31e3732650122dcb548d9c9825b5729ec1eaea455424b602c7ccc5e2ec6856b6": {
+        "title": "从 “智能问数” 到 “深度研究”，火山引擎 Data Agent 的智能进化之路｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/U5wcCZZHRuV3I39YOG4g?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750211"
+      },
+      "b12bd29227c08c4b46f2358cf17df5578aa54ec884438a217cef5f2575f08889": {
+        "title": "OpenAI开放gpt-oss-120b和gpt-oss-20b模型权重，可在本地部署",
+        "link": "https://www.infoq.cn/article/KMZ7DE6pHo8LtMGxTMKw?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 14:55:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750128"
+      },
+      "adcfdd96f72bc4489351083986dbd4cff03a2a97683d06fa95b9c9ec9abc65ab": {
+        "title": "同理心驱动的平台团队如何支持软件开发",
+        "link": "https://www.infoq.cn/article/EaXJi7yx2GtBzX5dKFN4?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 14:51:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.627562"
+      },
+      "95d37c53e8d722b7ba22730c37ea206baa0d45bfb14d13ac7a7a3f4581ac0c1b": {
+        "title": "达摩院开源具身智能“三大件” 机器人上下文协议首次开源",
+        "link": "https://www.infoq.cn/article/tzOXf1oROOgeID9HazZR?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 Aug 2025 13:51:00 GMT",
+        "first_seen": "2025-08-11T08:33:28.750147"
+      },
+      "6ccabf22a34a63a17bff56bdb9113e88dd2e192c3834970e8bb82eb00526a6d0": {
+        "title": "讲你知，Apple 嘅粤语编年史",
+        "link": "https://sspai.com/post/98053",
+        "published_date": "Mon, 11 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.629180"
+      },
+      "2a35a997a75c30a86e009b3c4701a0f94e0cf6ad2555bb59109ad27837e5ad2c": {
+        "title": "暑期档电影透心凉，票房被谁“偷家”了？",
+        "link": "http://www.huxiu.com/article/4677196.html?f=wangzhan",
+        "published_date": "Mon, 11 Aug 2025 14:16:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.630037"
+      },
+      "ed91f4bc1620a6e04a9e77aa1c79a163267925b814c064d5bf13142daf739293": {
+        "title": "川普变脸背后，非农数据的罗生门",
+        "link": "http://www.huxiu.com/article/4664190.html?f=wangzhan",
+        "published_date": "Mon, 11 Aug 2025 10:09:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.630784"
+      },
+      "a997719447495bda6dfd005181f748918ed52efc3ee956b5b7bb41edb8aa8657": {
+        "title": "AOL is finally shutting down dial-up",
+        "link": "https://www.theverge.com/news/757194/aol-dial-up-is-dead",
+        "published_date": "Mon, 11 Aug 2025 07:32:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.632127"
       }
     },
     "Finance": {
@@ -25984,12 +26194,30 @@
         "link": "https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories",
         "published_date": "Mon, 11 Aug 2025 00:02:00 GMT",
         "first_seen": "2025-08-11T05:34:08.626202"
+      },
+      "228f252360c3297d5182c64223e3907f44153b76b9ab556722fb5d1c6929d0b1": {
+        "title": "Nvidia, AMD shares lower on report to give U.S. a cut of China sales",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=74a340c1-564b-420b-8a60-70f631c4bc72&mod=mw_rss_bulletins",
+        "published_date": "Mon, 11 Aug 2025 08:16:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.597607"
+      },
+      "5d309328673ab297ed0ff641c16467a25760beb9f8f4d6110967222f06312327": {
+        "title": "Nvidia and AMD said to strike unprecedented deal with White House for China access",
+        "link": "https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories",
+        "published_date": "Mon, 11 Aug 2025 08:13:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.598027"
+      },
+      "c1e14b7a846fc73fe7f42af3c75e4b55d375e305d6696607582a5d482dd6605b": {
+        "title": "Gold price tumbles on reports U.S. to clarify tariff plan on bullion",
+        "link": "https://www.marketwatch.com/story/gold-price-tumbles-on-reports-u-s-to-clarify-tariff-plan-on-bullion-ba27df6a?mod=mw_rss_topstories",
+        "published_date": "Mon, 11 Aug 2025 07:45:00 GMT",
+        "first_seen": "2025-08-11T08:33:05.598526"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-11T05:34:08.616995",
-    "Technology": "2025-08-11T05:34:29.950167",
-    "Finance": "2025-08-11T05:34:08.633324"
+    "AI": "2025-08-11T08:33:05.589308",
+    "Technology": "2025-08-11T08:33:28.752552",
+    "Finance": "2025-08-11T08:33:05.605482"
   }
 }
