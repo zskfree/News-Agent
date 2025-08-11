@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-10 23:20
+**最后更新时间**: 2025-08-11 05:33
+
+---
+
+## 🆕 最新更新 (2025-08-11 05:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [云端一体的座舱智能全链路演进——大模型激活第三空间｜AICon 深圳](https://www.infoq.cn/article/sOwIpAdVbWbGgEsUaYR4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 13:00
+
+#### [快手高级算法专家文彬确认出席 AICon 深圳，分享Keye-VL在多模态思维链领域的探索](https://www.infoq.cn/article/80GmY6YfisWUbdwdi5jz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 11:10
+
+#### [百度智能云千帆大模型平台赋能文曲智阅：让作文批改迈入智能高效新时代](https://www.infoq.cn/article/VPtybMQEU7YvUH4vCwrB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 10:33
+
+#### [英伟达“继承战”来了？黄仁勋子女入局；宇树王兴兴：我们啥都没有时客户就愿直接给钱；GPT-5 滑铁卢，奥特曼被要求下台|AI周报](https://www.infoq.cn/article/k4XmG7WZrSE0tsb7U7Z5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-11 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话肖风：在香港稳定币的沸腾时刻，一些回归常识的冷思考](https://www.tmtpost.com/7654166.html)
+**发布时间**: 2025-08-11 12:01
+
+#### [“成都造”机器人军团首次亮相2025世界机器人大会](https://www.tmtpost.com/7653503.html)
+**发布时间**: 2025-08-11 11:42
+
+#### [【产业互联网周报】  OpenAI推出GPT-5模型；OpenAI开源两款新模型；美国ITC正式对移动蜂窝通信设备启动337调查；阿里巴巴、腾讯开启2026届秋招](https://www.tmtpost.com/7654841.html)
+**发布时间**: 2025-08-11 11:37
+
+#### [China Requires Full Social Insurance Coverage, Upending Small Restaurant Labor Practices](https://www.tmtpost.com/7654909.html)
+**发布时间**: 2025-08-11 11:34
+
+#### [AI浪潮下，具身智能的崛起与数据瓶颈](https://www.tmtpost.com/7654457.html)
+**发布时间**: 2025-08-11 11:31
+
+#### [China Renaissance Acts as Sole Asian Underwriter for C1 Fund's $60 Million NYSE Debut](https://www.tmtpost.com/7654878.html)
+**发布时间**: 2025-08-11 11:08
+
+#### [穿透GPT5，我们可以看到什么？](https://www.tmtpost.com/7654456.html)
+**发布时间**: 2025-08-11 11:00
+
+#### [Nvidia and AMD to Pay 15% of China Chip Sales Revenue to U.S. Government](https://www.tmtpost.com/7654859.html)
+**发布时间**: 2025-08-11 10:54
+
+#### [Entrepreneur Chen Tianqiao and Tsinghua AI Expert Launch Open-Source AGI Startup](https://www.tmtpost.com/7654847.html)
+**发布时间**: 2025-08-11 10:42
+
+#### [UBTECH Unveils Five Humanoid Robots at World Robot Conference, Secures Record Commercial Contract](https://www.tmtpost.com/7654785.html)
+**发布时间**: 2025-08-11 10:23
+
+#### [高盛突然宣布不裁员了，金融业要有大变了吗？](https://www.tmtpost.com/7654444.html)
+**发布时间**: 2025-08-11 10:19
+
+#### [China's Bridgedp Robotics Raises Nearly $14 Million in Six Months for Robot Motion Control Systems](https://www.tmtpost.com/7654773.html)
+**发布时间**: 2025-08-11 10:16
+
+#### [最高法新规，餐饮店“不缴纳社保”的协议一律无效](https://www.tmtpost.com/7652977.html)
+**发布时间**: 2025-08-11 09:31
+
+#### [拼多多一路向B](https://www.tmtpost.com/7653687.html)
+**发布时间**: 2025-08-11 09:30
+
+#### [GPT-5 为什么没有带来更多惊喜？](https://www.tmtpost.com/7654373.html)
+**发布时间**: 2025-08-11 09:20
+
+#### [科股早知道：融资案例同比增近50%，产业链规模化发展态势渐显](https://www.tmtpost.com/7654578.html)
+**发布时间**: 2025-08-11 08:00
+
+#### [OpenAI融资混战，最狠的一笔钱来自谁？](https://www.tmtpost.com/7653085.html)
+**发布时间**: 2025-08-11 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [都是因为热爱：我与黑莓的十三年](https://sspai.com/post/101672)
+**发布时间**: 2025-08-11 11:09
+
+#### [派早报：面对批评，OpenAI 重新向 Plus 用户开放 4o 模型](https://sspai.com/post/101748)
+**发布时间**: 2025-08-11 08:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克：可能失去特斯拉控制权；何小鹏：听雷军劝，全新 P7 做 24 小时耐力测试；传华为将发 AI 推理突破成果](http://www.geekpark.net/news/352532)
+**发布时间**: 2025-08-11 07:55
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Tribit Stormbox Mini+ Review: A Great Cheap Portable Speaker](https://www.wired.com/review/tribit-stormbox-mini-plus/)
+**发布时间**: 2025-08-10 12:00
 
 ---
 

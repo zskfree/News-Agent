@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 Aug 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2025 23:20:24 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 05:28:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 05:34:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一文看尽世界机器人大会，不用去现场人挤人了</title>
-      <link>https://www.qbitai.com/2025/08/320620.html</link>
-      <description>&lt;![CDATA[一文看尽世界机器人大会，不用去现场人挤人了]]&gt;</description>
-      <pubDate>Sun, 10 Aug 2025 08:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320620.html</guid>
+      <title>A Framework for Inherently Safer AGI through Language-Mediated Active Inference</title>
+      <link>https://arxiv.org/abs/2508.05766</link>
+      <description>&lt;![CDATA[A Framework for Inherently Safer AGI through Language-Mediated Active Inference]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.05766</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>达摩院开源具身智能“三大件”，机器人上下文协议首次开源</title>
+      <link>https://www.qbitai.com/2025/08/320807.html</link>
+      <description>&lt;![CDATA[达摩院开源具身智能“三大件”，机器人上下文协议首次开源]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 03:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320807.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Whither symbols in the era of advanced neural networks?</title>
+      <link>https://arxiv.org/abs/2508.05776</link>
+      <description>&lt;![CDATA[Whither symbols in the era of advanced neural networks?]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.05776</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>蛋白质基座的GPT时代来了？！</title>
+      <link>https://www.qbitai.com/2025/08/320695.html</link>
+      <description>&lt;![CDATA[蛋白质基座的GPT时代来了？！]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 01:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320695.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>强化学习+MCP=王炸？开源框架教AI在MCP中玩转工具解决任务，实测效果超越GPT！</title>
+      <link>https://www.qbitai.com/2025/08/320730.html</link>
+      <description>&lt;![CDATA[强化学习+MCP=王炸？开源框架教AI在MCP中玩转工具解决任务，实测效果超越GPT！]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 01:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320730.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>字节&amp;MAP重塑大模型推理算法优化重点，强化学习重在高效探索助力LLM提升上限</title>
+      <link>https://www.qbitai.com/2025/08/320750.html</link>
+      <description>&lt;![CDATA[字节&amp;MAP重塑大模型推理算法优化重点，强化学习重在高效探索助力LLM提升上限]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 01:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/320750.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A &quot;good regulator theorem&quot; for embodied agents</title>
+      <link>https://arxiv.org/abs/2508.06326</link>
+      <description>&lt;![CDATA[A &quot;good regulator theorem&quot; for embodied agents]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.06326</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning</title>
+      <link>https://arxiv.org/abs/2508.06042</link>
+      <description>&lt;![CDATA[Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.06042</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Overconfidence in LLM-as-a-Judge: Diagnosis and Confidence-Driven Solution</title>
+      <link>https://arxiv.org/abs/2508.06225</link>
+      <description>&lt;![CDATA[Overconfidence in LLM-as-a-Judge: Diagnosis and Confidence-Driven Solution]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.06225</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>From Explainable to Explanatory Artificial Intelligence: Toward a New Paradigm for Human-Centered Explanations through Generative AI</title>
+      <link>https://arxiv.org/abs/2508.06352</link>
+      <description>&lt;![CDATA[From Explainable to Explanatory Artificial Intelligence: Toward a New Paradigm for Human-Centered Explanations through Generative AI]]&gt;</description>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.06352</guid>
       <category>AI</category>
     </item>
   </channel>

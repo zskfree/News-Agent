@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-10 23:20
+**最后更新时间**: 2025-08-11 05:33
+
+---
+
+## 🆕 最新更新 (2025-08-11 05:33)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Amazon doc exposes ‘neglect and pain’ in many nursing homes. What can be done?](https://www.marketwatch.com/bulletins/redirect/go?g=ac25386f-a9ee-4948-a9b1-a1ca9e9c9f55&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-11 01:01
+
+#### [Market's rebound to be tested by inflation reports as stagflation threat emerges](https://www.marketwatch.com/bulletins/redirect/go?g=f6642f0f-1d38-4238-9ca8-ae6423c1b0be&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-10 23:36
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia and AMD reportedly will give U.S. government 15% of their China chip revenues](https://www.marketwatch.com/story/nvidia-and-amd-reportedly-will-give-u-s-government-15-of-its-china-chip-revenues-a31ade78?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 00:02
 
 ---
 
