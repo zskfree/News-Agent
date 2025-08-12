@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-12 08:29
+**最后更新时间**: 2025-08-12 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-12 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These Eli Lilly executives have been scooping up stock after its big drop](https://www.marketwatch.com/story/these-eli-lilly-executives-have-been-scooping-up-stock-after-its-big-drop-73d2b767?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 23:07
+
+#### [CoreWeave’s mixed earnings fail to wow AI bulls, and the stock falls](https://www.marketwatch.com/story/coreweaves-mixed-earnings-fail-to-wow-ai-bulls-and-the-stock-falls-6bc57d8d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 22:29
+
+#### [​Trump is creating a perfect tax for corporate America — one it’ll pay. Here’s what to watch.](https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 22:09
+
+#### [Cava trims sales outlook, stock tumbles as CEO says consumers are navigating a ‘fog’](https://www.marketwatch.com/story/cava-trims-its-sales-outlook-and-shares-tumble-its-ceo-says-consumers-are-navigating-a-fog-8326ee19?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 22:06
+
+#### [Stocks too expensive for your taste? This bargain-hunting strategy can yield big returns with less risk.](https://www.marketwatch.com/story/stocks-too-expensive-for-your-taste-this-bargain-hunting-strategy-can-yield-big-returns-with-less-risk-02928810?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 21:42
+
+#### [‘I am a senior citizen’: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?](https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 21:35
+
+#### [‘Absolutely no one pays attention’: I could steal from my children’s trust fund without them having a clue](https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 21:30
+
+#### [Trump says the Fed should cut interest rates. Bessent says this is by how much.](https://www.marketwatch.com/story/trump-says-the-fed-should-cut-interest-rates-bessent-says-this-is-by-how-much-fa34c721?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 21:24
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump says the Fed should cut interest rates. Bessent says this is by how much.](https://www.marketwatch.com/bulletins/redirect/go?g=3dd60fc6-9c02-4f6f-8d7a-d646ba9f0534&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 22:38
+
+#### [As S&P 500 ends above 6,400 for first time, here are a few reasons for caution](https://www.marketwatch.com/bulletins/redirect/go?g=e1dce25f-e9fa-411b-b259-ef134b498efd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 21:49
+
+#### [CoreWeave’s mixed earnings fail to wow AI bulls, and the stock falls](https://www.marketwatch.com/bulletins/redirect/go?g=50a3c0ba-d178-46f6-9c22-17dc7c2db6a7&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 21:08
+
+#### [There’s ‘no evidence’ of tariff inflation, top Trump aide says. Is he right?](https://www.marketwatch.com/bulletins/redirect/go?g=63a881ed-315c-4215-90ec-25040dab4cee&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 20:45
+
+#### [S&P 500, Nasdaq score fresh records after July CPI report fuels rate-cut hopes](https://www.marketwatch.com/bulletins/redirect/go?g=94242bc3-a4c5-4144-bd9d-a8a8929e2d94&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 20:06
+
+#### [Trump’s DJing taunt at Goldman CEO sees tariff fight get personal](https://www.marketwatch.com/bulletins/redirect/go?g=3dcd250e-56d0-4de8-b19a-b0b8a22bdc73&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 19:43
+
+#### [Perplexity wants to buy Google Chrome. Why Wall Street doubts it will happen.](https://www.marketwatch.com/bulletins/redirect/go?g=658a2bfc-fd31-4e21-abda-5f070b8d7bab&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 19:14
+
+#### [Inflation data suggest tariff costs are finally filtering down to U.S. consumers](https://www.marketwatch.com/bulletins/redirect/go?g=623ff75f-71e0-4d6c-9521-c30ae623846a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 12:45
+
+#### [Stocks are perking up as CPI report aligns with economists’ consensus forecast](https://www.marketwatch.com/bulletins/redirect/go?g=87058c4b-d1e0-4f38-81c3-93db41c4321d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 12:42
+
+#### [How you might get access to private-company shares — including SpaceX and OpenAI](https://www.marketwatch.com/bulletins/redirect/go?g=702aa174-f54e-46a8-b3c1-7c1199a9b862&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 12:24
 
 ---
 

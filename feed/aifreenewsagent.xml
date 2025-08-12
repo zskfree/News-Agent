@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Aug 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 08:29:28 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 23:20:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SIGGRAPH上，英伟达发布物理AI开源新技术，更新RTX Pro产品线</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-11</link>
-      <description>&lt;![CDATA[SIGGRAPH上，英伟达发布物理AI开源新技术，更新RTX Pro产品线]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-11</guid>
+      <title>让强化学习快如闪电：FlashRL一条命令实现极速Rollout，已全部开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-14</link>
+      <description>&lt;![CDATA[让强化学习快如闪电：FlashRL一条命令实现极速Rollout，已全部开源]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>身家25亿刀，是四家公司创始人，这位伯克利教授还在给本科生上课</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-10</link>
-      <description>&lt;![CDATA[身家25亿刀，是四家公司创始人，这位伯克利教授还在给本科生上课]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 16:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-10</guid>
+      <title>从物竞天择到智能进化，首篇自进化智能体综述的ASI之路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-13</link>
+      <description>&lt;![CDATA[从物竞天择到智能进化，首篇自进化智能体综述的ASI之路]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>商汤王晓刚：世界模型将加快AI从数字空间进入物理世界，「悟能」想做那个桥梁</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-9</link>
-      <description>&lt;![CDATA[商汤王晓刚：世界模型将加快AI从数字空间进入物理世界，「悟能」想做那个桥梁]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-9</guid>
+      <title>破解效率与成本难题：华为UCM技术推动AI推理体验升级</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-12</link>
+      <description>&lt;![CDATA[破解效率与成本难题：华为UCM技术推动AI推理体验升级]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>聚焦前沿，见证未来!「X·创新』产品SHOW圆满举办!</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-3</link>
-      <description>&lt;![CDATA[聚焦前沿，见证未来!「X·创新』产品SHOW圆满举办!]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-3</guid>
+      <title>Enabling physician-centered oversight for AMIE</title>
+      <link>https://research.google/blog/enabling-physician-centered-oversight-for-amie/</link>
+      <description>&lt;![CDATA[Enabling physician-centered oversight for AMIE]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/enabling-physician-centered-oversight-for-amie/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>What you may have missed about GPT-5</title>
-      <link>https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/</link>
-      <description>&lt;![CDATA[What you may have missed about GPT-5]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 07:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/</guid>
+      <title>The Download: meet the judges using AI, and GPT-5’s health promises</title>
+      <link>https://www.technologyreview.com/2025/08/12/1121658/the-download-meet-the-judges-using-ai-and-gpt-5s-health-promises/</link>
+      <description>&lt;![CDATA[The Download: meet the judges using AI, and GPT-5’s health promises]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/12/1121658/the-download-meet-the-judges-using-ai-and-gpt-5s-health-promises/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>加盟智界再次联手余承东？赵明回应了</title>
-      <link>https://www.qbitai.com/2025/08/321450.html</link>
-      <description>&lt;![CDATA[加盟智界再次联手余承东？赵明回应了]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321450.html</guid>
+      <title>AI应用如何落地政企？首先不要卷通用大模型</title>
+      <link>https://www.qbitai.com/2025/08/321516.html</link>
+      <description>&lt;![CDATA[AI应用如何落地政企？首先不要卷通用大模型]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321516.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景</title>
-      <link>https://www.qbitai.com/2025/08/321401.html</link>
-      <description>&lt;![CDATA[拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 06:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321401.html</guid>
+      <title>商汤林达华万字长文回答AGI：4层破壁，3大挑战</title>
+      <link>https://www.qbitai.com/2025/08/321506.html</link>
+      <description>&lt;![CDATA[商汤林达华万字长文回答AGI：4层破壁，3大挑战]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321506.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，从基层做到英伟达高管</title>
-      <link>https://www.qbitai.com/2025/08/321375.html</link>
-      <description>&lt;![CDATA[黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，从基层做到英伟达高管]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 05:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321375.html</guid>
+      <title>英伟达为机器人推出懂推理的“大脑”！升级版Cosmos世界模型来了</title>
+      <link>https://www.qbitai.com/2025/08/321495.html</link>
+      <description>&lt;![CDATA[英伟达为机器人推出懂推理的“大脑”！升级版Cosmos世界模型来了]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321495.html</guid>
       <category>AI</category>
     </item>
   </channel>

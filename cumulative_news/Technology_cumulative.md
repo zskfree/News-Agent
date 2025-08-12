@@ -1,7 +1,170 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-12 08:29
+**最后更新时间**: 2025-08-12 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-12 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [热爆了！中国机器人企业近100万家、融资超240亿，但仍有三大具身智能“非共识”争论](https://www.tmtpost.com/7656311.html)
+**发布时间**: 2025-08-13 07:08
+
+#### [N7的“亲兄弟”来了，东风日产N6杀入插混红海](https://www.tmtpost.com/7657348.html)
+**发布时间**: 2025-08-12 22:33
+
+#### [万通发展再启跨界并购：争议“老剧情”重现，监管火速问询｜并购一线](https://www.tmtpost.com/7657312.html)
+**发布时间**: 2025-08-12 22:14
+
+#### [从关税乌龙到避险狂潮，黄金遭遇“惊魂18日”](https://www.tmtpost.com/7657254.html)
+**发布时间**: 2025-08-12 20:39
+
+#### [年轻流量驱动增长：京东金融基金新增用户58%，交易量同比翻倍](https://www.tmtpost.com/7657244.html)
+**发布时间**: 2025-08-12 20:38
+
+#### [王兴兴、银河通用王鹤与英伟达高管罕见同框：未来十年人形机器人产值将超千亿](https://www.tmtpost.com/7656485.html)
+**发布时间**: 2025-08-12 20:09
+
+#### [想教育消费者的百果园，自己要小心被趋势甩下车](https://www.tmtpost.com/7656975.html)
+**发布时间**: 2025-08-12 19:51
+
+#### [重庆“消费第一城”的双面答卷](https://www.tmtpost.com/7657087.html)
+**发布时间**: 2025-08-12 19:06
+
+#### [国内第一案，《王者荣耀》匹配错了？](https://www.tmtpost.com/7655826.html)
+**发布时间**: 2025-08-12 18:52
+
+#### [助贷新规大限临近，谁在借36%的“高”利贷？](https://www.tmtpost.com/7656598.html)
+**发布时间**: 2025-08-12 18:52
+
+#### [天坛生物“拒收”派林生物，难题给到国药集团](https://www.tmtpost.com/7656775.html)
+**发布时间**: 2025-08-12 18:51
+
+#### [阿那亚要从崇礼撤场？买房的小业主们懵了](https://www.tmtpost.com/7656994.html)
+**发布时间**: 2025-08-12 18:51
+
+#### [6000亿规模养不起一个APP，平安基金关停直销APP背后的固收之困](https://www.tmtpost.com/7657006.html)
+**发布时间**: 2025-08-12 18:51
+
+#### [透过2025年 WRC，看见具身智能的真实进度](https://www.tmtpost.com/7657070.html)
+**发布时间**: 2025-08-12 18:51
+
+#### [存储芯片Q2对局，谁是真赢家？](https://www.tmtpost.com/7657031.html)
+**发布时间**: 2025-08-12 18:38
+
+#### [林平发展IPO，顶着“反内卷”扩产百万吨](https://www.tmtpost.com/7656124.html)
+**发布时间**: 2025-08-12 17:19
+
+#### [理想车主风评被害，谁是最终受害者？](https://www.tmtpost.com/7656233.html)
+**发布时间**: 2025-08-12 17:15
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Russia might be responsible for the PACER hack](https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia)
+**发布时间**: 2025-08-12 23:18
+
+#### [Google posts an official look at the Pixel 10 Pro Fold](https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks)
+**发布时间**: 2025-08-12 22:14
+
+#### [League of Legends is testing a new WASD control scheme, 16 years in](https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games)
+**发布时间**: 2025-08-12 20:03
+
+#### [Krafton claims former Subnautica 2 devs ‘lost interest’ in developing game](https://www.theverge.com/news/758265/subnautica-2-lawsuit-response-krafton-unknown-worlds)
+**发布时间**: 2025-08-12 19:14
+
+#### [UK government suggests deleting files to save water](https://www.theverge.com/science/758275/drought-delete-files-email-data-center-water-uk)
+**发布时间**: 2025-08-12 19:11
+
+#### [Anthropic just made its latest move in the AI coding wars](https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars)
+**发布时间**: 2025-08-12 18:10
+
+#### [Ultimate Ears’ Wonderboom 4 speaker is cheaper than ever at 40 percent off](https://www.theverge.com/tech/757717/ultimate-ears-ue-wonderboom-4-bluetooth-speaker-deal-sale)
+**发布时间**: 2025-08-12 17:30
+
+#### [Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI](https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini)
+**发布时间**: 2025-08-12 16:58
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [AOL Will Shut Down Dial-Up Internet Access in September](https://www.wired.com/story/aol-shutting-down-dial-up-internet-access-in-september/)
+**发布时间**: 2025-08-12 22:55
+
+#### [Best Side-Sleeper Mattress 2025: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)
+**发布时间**: 2025-08-12 21:30
+
+#### [The 55 Best Shows on Disney+ Right Now (August 2025)](https://www.wired.com/story/best-shows-disney-plus/)
+**发布时间**: 2025-08-12 19:00
+
+#### [Trump Family–Backed World Liberty Financial Sets Up $1.5 Billion Crypto Treasury](https://www.wired.com/story/president-trump-crypto-treasury-world-liberty-financial/)
+**发布时间**: 2025-08-12 18:30
+
+#### [The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke](https://www.wired.com/story/trump-administration-dhs-white-house-deportations-meme/)
+**发布时间**: 2025-08-12 15:37
+
+#### [Character.AI Gave Up on AGI. Now It’s Selling Stories](https://www.wired.com/story/character-ai-ceo-chatbots-entertainment/)
+**发布时间**: 2025-08-12 15:30
+
+#### [Cloud vs. Local: What’s the Best for Security Camera Footage? (2025)](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)
+**发布时间**: 2025-08-12 14:00
+
+#### [Inside the ‘Whites Only’ Community in Arkansas](https://www.wired.com/story/whites-only-community-arkansas/)
+**发布时间**: 2025-08-12 13:50
+
+#### [11 Best Computer Speakers (2025), Tested and Reviewed](https://www.wired.com/gallery/best-computer-speakers/)
+**发布时间**: 2025-08-12 13:00
+
+#### [Data Brokers Are Hiding Their Opt-Out Pages From Google Search](https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/)
+**发布时间**: 2025-08-12 12:30
+
+#### [Best Kids Backpacks, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-kids-backpacks/)
+**发布时间**: 2025-08-12 12:03
+
+#### [The Rise of the US Military’s Clandestine Foreign War Apparatus](https://www.wired.com/story/the-fort-bragg-cartel-seth-harp-excerpt/)
+**发布时间**: 2025-08-12 11:00
+
+#### [What's Your Curl Type? (2025)](https://www.wired.com/story/whats-your-curl-type/)
+**发布时间**: 2025-08-12 11:00
+
+#### [Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals](https://www.wired.com/story/apples-ai-ambitions-leave-big-questions-over-its-climate-goals/)
+**发布时间**: 2025-08-12 10:30
+
+#### [Lisa Su Runs AMD—and Is Out for Nvidia’s Blood](https://www.wired.com/story/lisa-su-runs-amd-and-is-out-for-nvidias-blood/)
+**发布时间**: 2025-08-12 10:00
+
+#### [Central American Beaches Are Being Overrun With Local and Foreign Plastic](https://www.wired.com/story/the-plastic-bottles-we-throw-into-the-pacific-are-infesting-the-beaches-of-central-america/)
+**发布时间**: 2025-08-12 09:00
+
+#### [WIRED Roundup: What’s Behind OpenAI’s Government Partnership?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/)
+**发布时间**: 2025-08-11 18:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [长上下文不再难：KV Cache 全生命周期优化实战](https://www.infoq.cn/article/vVKdF9chrLQkQrTXqVxg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 22:00
+
+#### [从 MCP 到 Agent：构建可扩展的 AI 开发生态的工程实践](https://www.infoq.cn/article/1KwPWLxVc83Mj7hbCtk2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 19:01
+
+#### [“憋屈” CEO出走GitHub！自曝在微软受限干不下去、被开发者骂蠢喊冤，或押宝Agent反攻老东家？](https://www.infoq.cn/article/eYLdJxM31y7CNloFuQaA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 18:53
+
+#### [告别模板时代！妙多VP张昊然：生成式AI如何驱动UI设计的范式革命](https://www.infoq.cn/article/VfKsB33p3AaxHqZ8G2Lx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 18:33
+
+#### [AGICamp 第 007 周 AI 应用榜：长视频一键转化小红书爆款，晚间副业最佳效能工具？](https://www.infoq.cn/article/Jw8yJ7X7OZ5RQvdA8TbZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 18:31
+
+#### [Claude 小升级就赢了OpenAI 9年“开源神作”？高强度推理直接歇菜、幻觉率高达50%，写作还被Kimi 2吊锤？](https://www.infoq.cn/article/jkb2jJkNydeovWEdWRAu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 18:04
+
+#### [2025年最戳心的纪录片：程序员的变与不变，太真实了](https://www.infoq.cn/article/yjvI8IiLGzZVoKNUxtZh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 17:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 105 | 派友的桌面装备以及一周最热评、新玩意](https://sspai.com/post/101781)
+**发布时间**: 2025-08-12 17:47
 
 ---
 

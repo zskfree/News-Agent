@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Aug 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 08:29:47 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 23:21:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5亮相，“博士专家”是不是真的Agent？</title>
-      <link>https://www.tmtpost.com/7656495.html</link>
-      <description>&lt;![CDATA[GPT-5亮相，“博士专家”是不是真的Agent？]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656495.html</guid>
+      <title>Claude 小升级就赢了OpenAI 9年“开源神作”？高强度推理直接歇菜、幻觉率高达50%，写作还被Kimi 2吊锤？</title>
+      <link>https://www.infoq.cn/article/jkb2jJkNydeovWEdWRAu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude 小升级就赢了OpenAI 9年“开源神作”？高强度推理直接歇菜、幻觉率高达50%，写作还被Kimi 2吊锤？]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jkb2jJkNydeovWEdWRAu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软发布用于构建协作式 AI 代理的 A2A .NET SDK</title>
-      <link>https://www.infoq.cn/article/lB6UCHfOcKpIoXbpW5kC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软发布用于构建协作式 AI 代理的 A2A .NET SDK]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lB6UCHfOcKpIoXbpW5kC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>长上下文不再难：KV Cache 全生命周期优化实战</title>
+      <link>https://www.infoq.cn/article/vVKdF9chrLQkQrTXqVxg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[长上下文不再难：KV Cache 全生命周期优化实战]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vVKdF9chrLQkQrTXqVxg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>史亮：中国的人工智能物流机器人开启全球化时代 | 钛资本人工智能组</title>
-      <link>https://www.tmtpost.com/7656347.html</link>
-      <description>&lt;![CDATA[史亮：中国的人工智能物流机器人开启全球化时代 | 钛资本人工智能组]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656347.html</guid>
+      <title>从 MCP 到 Agent：构建可扩展的 AI 开发生态的工程实践</title>
+      <link>https://www.infoq.cn/article/1KwPWLxVc83Mj7hbCtk2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 MCP 到 Agent：构建可扩展的 AI 开发生态的工程实践]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1KwPWLxVc83Mj7hbCtk2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>胡峥：产业链视角下，低成本与高性价比是商业航天的核心趋势 | 钛资本航空航天组</title>
-      <link>https://www.tmtpost.com/7656342.html</link>
-      <description>&lt;![CDATA[胡峥：产业链视角下，低成本与高性价比是商业航天的核心趋势 | 钛资本航空航天组]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656342.html</guid>
+      <title>Anthropic just made its latest move in the AI coding wars</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars</link>
+      <description>&lt;![CDATA[Anthropic just made its latest move in the AI coding wars]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 18:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一家见过“大世面”的存储公司，如何理解 AI Infra？</title>
-      <link>https://www.infoq.cn/article/3f9NGrtd7k0D0kLCOmL2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一家见过“大世面”的存储公司，如何理解 AI Infra？]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3f9NGrtd7k0D0kLCOmL2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>热爆了！中国机器人企业近100万家、融资超240亿，但仍有三大具身智能“非共识”争论</title>
+      <link>https://www.tmtpost.com/7656311.html</link>
+      <description>&lt;![CDATA[热爆了！中国机器人企业近100万家、融资超240亿，但仍有三大具身智能“非共识”争论]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656311.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CodeArts Doer 全流程多 Agent 协同，驱动研发全流程效能跃升｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/tY8mFopYNrfjlZeJuFd4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CodeArts Doer 全流程多 Agent 协同，驱动研发全流程效能跃升｜AICon 深圳]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tY8mFopYNrfjlZeJuFd4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>王兴兴、银河通用王鹤与英伟达高管罕见同框：未来十年人形机器人产值将超千亿</title>
+      <link>https://www.tmtpost.com/7656485.html</link>
+      <description>&lt;![CDATA[王兴兴、银河通用王鹤与英伟达高管罕见同框：未来十年人形机器人产值将超千亿]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 20:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656485.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java近期新闻：JDK 25-RC1、Spring AI、WildFly 37、Payara Platform、LangChain4j、Grails</title>
-      <link>https://www.infoq.cn/article/mR31e0LQBfEE4JUhC9NE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java近期新闻：JDK 25-RC1、Spring AI、WildFly 37、Payara Platform、LangChain4j、Grails]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mR31e0LQBfEE4JUhC9NE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Lisa Su Runs AMD—and Is Out for Nvidia’s Blood</title>
+      <link>https://www.wired.com/story/lisa-su-runs-amd-and-is-out-for-nvidias-blood/</link>
+      <description>&lt;![CDATA[Lisa Su Runs AMD—and Is Out for Nvidia’s Blood]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/lisa-su-runs-amd-and-is-out-for-nvidias-blood/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Amazon DocumentDB Serverless：应对可变工作负载的自动扩展数据库解决方案</title>
-      <link>https://www.infoq.cn/article/sGDzo8izjaEItOm1Oyud?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Amazon DocumentDB Serverless：应对可变工作负载的自动扩展数据库解决方案]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sGDzo8izjaEItOm1Oyud?utm_source=rss&amp;utm_medium=article</guid>
+      <title>存储芯片Q2对局，谁是真赢家？</title>
+      <link>https://www.tmtpost.com/7657031.html</link>
+      <description>&lt;![CDATA[存储芯片Q2对局，谁是真赢家？]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7657031.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Hong Kong's Consumer Market Becomes New Battleground for Chinese Mainland Internet Giants</title>
-      <link>https://www.tmtpost.com/7656517.html</link>
-      <description>&lt;![CDATA[Hong Kong's Consumer Market Becomes New Battleground for Chinese Mainland Internet Giants]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656517.html</guid>
+      <title>Data Brokers Are Hiding Their Opt-Out Pages From Google Search</title>
+      <link>https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/</link>
+      <description>&lt;![CDATA[Data Brokers Are Hiding Their Opt-Out Pages From Google Search]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>印度光伏，前路仍踌躇</title>
-      <link>https://www.tmtpost.com/7656721.html</link>
-      <description>&lt;![CDATA[印度光伏，前路仍踌躇]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656721.html</guid>
+      <title>Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals</title>
+      <link>https://www.wired.com/story/apples-ai-ambitions-leave-big-questions-over-its-climate-goals/</link>
+      <description>&lt;![CDATA[Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/apples-ai-ambitions-leave-big-questions-over-its-climate-goals/</guid>
       <category>Technology</category>
     </item>
   </channel>

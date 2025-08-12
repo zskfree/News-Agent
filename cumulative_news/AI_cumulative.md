@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-12 08:29
+**最后更新时间**: 2025-08-12 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-12 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [让强化学习快如闪电：FlashRL一条命令实现极速Rollout，已全部开源](https://www.jiqizhixin.com/articles/2025-08-12-14)
+**发布时间**: 2025-08-12 18:36
+
+#### [从物竞天择到智能进化，首篇自进化智能体综述的ASI之路](https://www.jiqizhixin.com/articles/2025-08-12-13)
+**发布时间**: 2025-08-12 18:32
+
+#### [破解效率与成本难题：华为UCM技术推动AI推理体验升级](https://www.jiqizhixin.com/articles/2025-08-12-12)
+**发布时间**: 2025-08-12 17:24
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Enabling physician-centered oversight for AMIE](https://research.google/blog/enabling-physician-centered-oversight-for-amie/)
+**发布时间**: 2025-08-12 17:24
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: meet the judges using AI, and GPT-5’s health promises](https://www.technologyreview.com/2025/08/12/1121658/the-download-meet-the-judges-using-ai-and-gpt-5s-health-promises/)
+**发布时间**: 2025-08-12 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI应用如何落地政企？首先不要卷通用大模型](https://www.qbitai.com/2025/08/321516.html)
+**发布时间**: 2025-08-12 10:29
+
+#### [商汤林达华万字长文回答AGI：4层破壁，3大挑战](https://www.qbitai.com/2025/08/321506.html)
+**发布时间**: 2025-08-12 09:35
+
+#### [英伟达为机器人推出懂推理的“大脑”！升级版Cosmos世界模型来了](https://www.qbitai.com/2025/08/321495.html)
+**发布时间**: 2025-08-12 09:04
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Grok’s Share and Claude’s Leak: 5 Things We Can Learn From System Prompts](https://machinelearningmastery.com/groks-share-and-claudes-leak-5-things-we-can-learn-from-system-prompts/)
+**发布时间**: 2025-08-08 14:16
+
+#### [7 Pandas Tricks for Time-Series Feature Engineering](https://machinelearningmastery.com/7-pandas-tricks-for-time-series-feature-engineering/)
+**发布时间**: 2025-08-07 18:53
+
+#### [Time-Series Transformation Toolkit: Feature Engineering for Predictive Analytics](https://machinelearningmastery.com/time-series-transformation-toolkit-feature-engineering-for-predictive-analytics/)
+**发布时间**: 2025-08-06 12:00
+
+#### [A Gentle Introduction to Q-Learning](https://machinelearningmastery.com/a-gentle-introduction-to-q-learning/)
+**发布时间**: 2025-08-05 12:00
 
 ---
 
