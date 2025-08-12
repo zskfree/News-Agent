@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 05:21:21 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:29:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Why your stock portfolio may actually ‘feel’ depressed that summer's almost over</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=bcf28575-6798-41f9-b22a-e519e41a56b2&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Why your stock portfolio may actually ‘feel’ depressed that summer's almost over]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 01:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=bcf28575-6798-41f9-b22a-e519e41a56b2&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump extends trade truce with China. What it means for tariffs.</title>
-      <link>https://www.marketwatch.com/story/trump-hints-at-extending-trade-truce-with-china-what-it-would-mean-for-tariffs-3ffcfa33?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump extends trade truce with China. What it means for tariffs.]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 00:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-hints-at-extending-trade-truce-with-china-what-it-would-mean-for-tariffs-3ffcfa33?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump picks conservative economist E.J. Antoni to lead Bureau of Labor Statistics</title>
-      <link>https://www.marketwatch.com/story/trump-picks-conservative-economist-e-j-antoni-to-lead-bureau-of-labor-statistics-e4b9ba1f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump picks conservative economist E.J. Antoni to lead Bureau of Labor Statistics]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 23:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-picks-conservative-economist-e-j-antoni-to-lead-bureau-of-labor-statistics-e4b9ba1f?mod=mw_rss_topstories</guid>
+      <title>China may have put up another hurdle for Nvidia to overcome</title>
+      <link>https://www.marketwatch.com/story/china-may-have-put-up-another-hurdle-for-nvidia-to-overcome-c1ea8555?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[China may have put up another hurdle for Nvidia to overcome]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 07:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/china-may-have-put-up-another-hurdle-for-nvidia-to-overcome-c1ea8555?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

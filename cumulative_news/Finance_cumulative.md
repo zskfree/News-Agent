@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-12 05:20
+**最后更新时间**: 2025-08-12 08:29
+
+---
+
+## 🆕 最新更新 (2025-08-12 08:29)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [China may have put up another hurdle for Nvidia to overcome](https://www.marketwatch.com/story/china-may-have-put-up-another-hurdle-for-nvidia-to-overcome-c1ea8555?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 07:37
 
 ---
 

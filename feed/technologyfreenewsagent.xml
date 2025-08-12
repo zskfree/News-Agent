@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 05:21:42 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:29:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump Says He Originally Asked Nvidia to Pay 20% of China Chip Sales, Then Cut the Share to 15%</title>
-      <link>https://www.tmtpost.com/7656274.html</link>
-      <description>&lt;![CDATA[Trump Says He Originally Asked Nvidia to Pay 20% of China Chip Sales, Then Cut the Share to 15%]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656274.html</guid>
+      <title>GPT-5亮相，“博士专家”是不是真的Agent？</title>
+      <link>https://www.tmtpost.com/7656495.html</link>
+      <description>&lt;![CDATA[GPT-5亮相，“博士专家”是不是真的Agent？]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656495.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 2025：AI的窄门与宽路</title>
-      <link>https://www.tmtpost.com/7656246.html</link>
-      <description>&lt;![CDATA[Agent 2025：AI的窄门与宽路]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656246.html</guid>
+      <title>微软发布用于构建协作式 AI 代理的 A2A .NET SDK</title>
+      <link>https://www.infoq.cn/article/lB6UCHfOcKpIoXbpW5kC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软发布用于构建协作式 AI 代理的 A2A .NET SDK]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lB6UCHfOcKpIoXbpW5kC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高德地图携手通义实验室，深度共建全球首个AI原生出行智能体</title>
-      <link>https://www.tmtpost.com/7656354.html</link>
-      <description>&lt;![CDATA[高德地图携手通义实验室，深度共建全球首个AI原生出行智能体]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 12:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656354.html</guid>
+      <title>史亮：中国的人工智能物流机器人开启全球化时代 | 钛资本人工智能组</title>
+      <link>https://www.tmtpost.com/7656347.html</link>
+      <description>&lt;![CDATA[史亮：中国的人工智能物流机器人开启全球化时代 | 钛资本人工智能组]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656347.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【科股一线拆解】“数据资产”领域将举办高规格发布会，这一新应用方向正被市场广泛关注</title>
-      <link>https://www.tmtpost.com/7656307.html</link>
-      <description>&lt;![CDATA[【科股一线拆解】“数据资产”领域将举办高规格发布会，这一新应用方向正被市场广泛关注]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656307.html</guid>
+      <title>胡峥：产业链视角下，低成本与高性价比是商业航天的核心趋势 | 钛资本航空航天组</title>
+      <link>https://www.tmtpost.com/7656342.html</link>
+      <description>&lt;![CDATA[胡峥：产业链视角下，低成本与高性价比是商业航天的核心趋势 | 钛资本航空航天组]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656342.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI在ChatGPT中推出学习模式</title>
-      <link>https://www.infoq.cn/article/5fSIJWHNJBK2lSW33N0s?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI在ChatGPT中推出学习模式]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5fSIJWHNJBK2lSW33N0s?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一家见过“大世面”的存储公司，如何理解 AI Infra？</title>
+      <link>https://www.infoq.cn/article/3f9NGrtd7k0D0kLCOmL2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一家见过“大世面”的存储公司，如何理解 AI Infra？]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3f9NGrtd7k0D0kLCOmL2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯数据工程专家虎兴龙确认出席 AICon 深圳，分享腾讯云 WeData Agent 的落地思考与实践</title>
-      <link>https://www.infoq.cn/article/Gt8TxVisa7fJ3O3thL7F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯数据工程专家虎兴龙确认出席 AICon 深圳，分享腾讯云 WeData Agent 的落地思考与实践]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Gt8TxVisa7fJ3O3thL7F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>CodeArts Doer 全流程多 Agent 协同，驱动研发全流程效能跃升｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/tY8mFopYNrfjlZeJuFd4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[CodeArts Doer 全流程多 Agent 协同，驱动研发全流程效能跃升｜AICon 深圳]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tY8mFopYNrfjlZeJuFd4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智驾测评翻车，究竟谁在裸泳？</title>
-      <link>http://www.huxiu.com/article/4677172.html?f=wangzhan</link>
-      <description>&lt;![CDATA[智驾测评翻车，究竟谁在裸泳？]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4677172.html?f=wangzhan</guid>
+      <title>Java近期新闻：JDK 25-RC1、Spring AI、WildFly 37、Payara Platform、LangChain4j、Grails</title>
+      <link>https://www.infoq.cn/article/mR31e0LQBfEE4JUhC9NE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java近期新闻：JDK 25-RC1、Spring AI、WildFly 37、Payara Platform、LangChain4j、Grails]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mR31e0LQBfEE4JUhC9NE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Renault and Geely Deepen Partnership with New Energy SUV Targeting Overseas Markets</title>
-      <link>https://www.tmtpost.com/7656373.html</link>
-      <description>&lt;![CDATA[Renault and Geely Deepen Partnership with New Energy SUV Targeting Overseas Markets]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 12:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7656373.html</guid>
+      <title>Amazon DocumentDB Serverless：应对可变工作负载的自动扩展数据库解决方案</title>
+      <link>https://www.infoq.cn/article/sGDzo8izjaEItOm1Oyud?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Amazon DocumentDB Serverless：应对可变工作负载的自动扩展数据库解决方案]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sGDzo8izjaEItOm1Oyud?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Swift 6.2引入Approachable Concurrency以简化并发编程</title>
-      <link>https://www.infoq.cn/article/mUsz7T5hlVXjmU2c0ux2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Swift 6.2引入Approachable Concurrency以简化并发编程]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mUsz7T5hlVXjmU2c0ux2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Hong Kong's Consumer Market Becomes New Battleground for Chinese Mainland Internet Giants</title>
+      <link>https://www.tmtpost.com/7656517.html</link>
+      <description>&lt;![CDATA[Hong Kong's Consumer Market Becomes New Battleground for Chinese Mainland Internet Giants]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656517.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：微软将关闭 Microsoft Lens，智谱发布 GLM-4.5V 等</title>
-      <link>https://sspai.com/post/101772</link>
-      <description>&lt;![CDATA[派早报：微软将关闭 Microsoft Lens，智谱发布 GLM-4.5V 等]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/101772</guid>
+      <title>印度光伏，前路仍踌躇</title>
+      <link>https://www.tmtpost.com/7656721.html</link>
+      <description>&lt;![CDATA[印度光伏，前路仍踌躇]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7656721.html</guid>
       <category>Technology</category>
     </item>
   </channel>

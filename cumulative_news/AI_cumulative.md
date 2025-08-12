@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-12 05:20
+**最后更新时间**: 2025-08-12 08:29
+
+---
+
+## 🆕 最新更新 (2025-08-12 08:29)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [SIGGRAPH上，英伟达发布物理AI开源新技术，更新RTX Pro产品线](https://www.jiqizhixin.com/articles/2025-08-12-11)
+**发布时间**: 2025-08-12 16:19
+
+#### [身家25亿刀，是四家公司创始人，这位伯克利教授还在给本科生上课](https://www.jiqizhixin.com/articles/2025-08-12-10)
+**发布时间**: 2025-08-12 16:05
+
+#### [商汤王晓刚：世界模型将加快AI从数字空间进入物理世界，「悟能」想做那个桥梁](https://www.jiqizhixin.com/articles/2025-08-12-9)
+**发布时间**: 2025-08-12 16:00
+
+#### [聚焦前沿，见证未来!「X·创新』产品SHOW圆满举办!](https://www.jiqizhixin.com/articles/2025-08-12-3)
+**发布时间**: 2025-08-12 11:06
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [What you may have missed about GPT-5](https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/)
+**发布时间**: 2025-08-12 07:52
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [加盟智界再次联手余承东？赵明回应了](https://www.qbitai.com/2025/08/321450.html)
+**发布时间**: 2025-08-12 06:28
+
+#### [拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景](https://www.qbitai.com/2025/08/321401.html)
+**发布时间**: 2025-08-12 06:08
+
+#### [黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，从基层做到英伟达高管](https://www.qbitai.com/2025/08/321375.html)
+**发布时间**: 2025-08-12 05:46
 
 ---
 

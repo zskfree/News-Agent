@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "cb1a4430d105e3a21b6bde8466ea7fe7db0560c248144b242efa388a465e5e9b": {
-        "title": "别跟LLM太交心！斯坦福新研究：AI不能完全取代人类心理治疗师",
-        "link": "https://www.qbitai.com/2025/07/308566.html",
-        "published_date": "Sun, 13 Jul 2025 04:29:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.281272"
-      },
-      "59d425043457a7c7164290ad36d803f6ed4d46eb6035b6f2dc8dad5cecca58eb": {
-        "title": "ChatGPT破案！成功揭露500万美元遗产欺诈",
-        "link": "https://www.qbitai.com/2025/07/308567.html",
-        "published_date": "Sun, 13 Jul 2025 04:27:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.281401"
-      },
       "12d5de11c234ca6ec03b39f9c95736ae472bdbccf486ed2e8e0645089a2d9004": {
         "title": "AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%",
         "link": "https://www.jiqizhixin.com/articles/2025-07-13-3",
@@ -9528,81 +9516,57 @@
         "link": "https://arxiv.org/abs/2508.07407",
         "published_date": "Tue, 12 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-12T05:21:21.303961"
+      },
+      "1298962240097117c9f5a4609e8dc75758298c2cccdc85bee6d8aceaf39308ce": {
+        "title": "SIGGRAPH上，英伟达发布物理AI开源新技术，更新RTX Pro产品线",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-12-11",
+        "published_date": "Tue, 12 Aug 2025 16:19:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.551814"
+      },
+      "7c226cbab0de1560a3d04b22c7e9d747619cd98ef2081a387235bed944102b33": {
+        "title": "身家25亿刀，是四家公司创始人，这位伯克利教授还在给本科生上课",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-12-10",
+        "published_date": "Tue, 12 Aug 2025 16:05:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.551980"
+      },
+      "2f8c366e4a433faa0fcfd7103a7d36ff3bdc93c3720f318dd881b9e1d62e2bc3": {
+        "title": "商汤王晓刚：世界模型将加快AI从数字空间进入物理世界，「悟能」想做那个桥梁",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-12-9",
+        "published_date": "Tue, 12 Aug 2025 16:00:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.552185"
+      },
+      "dcff520a6410031b793ae7714e39f5cd2bb5b1ac739b35d043fa1df4ae4f06ba": {
+        "title": "聚焦前沿，见证未来!「X·创新』产品SHOW圆满举办!",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-12-3",
+        "published_date": "Tue, 12 Aug 2025 11:06:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.552438"
+      },
+      "a8d63981d08a115ff9fff391c347dc9a57021133bfa5328e015cf052e4355496": {
+        "title": "What you may have missed about GPT-5",
+        "link": "https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/",
+        "published_date": "Tue, 12 Aug 2025 07:52:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.552760"
+      },
+      "854b58e7dfc96f47c037ce30e54ad08b8aa32cc7f592f49cbf8299abd5a22219": {
+        "title": "加盟智界再次联手余承东？赵明回应了",
+        "link": "https://www.qbitai.com/2025/08/321450.html",
+        "published_date": "Tue, 12 Aug 2025 06:28:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.552997"
+      },
+      "31853d79e3309db04e44ee1c1a754d521f9667f091dda565318741e3624cbf5d": {
+        "title": "拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景",
+        "link": "https://www.qbitai.com/2025/08/321401.html",
+        "published_date": "Tue, 12 Aug 2025 06:08:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.553457"
+      },
+      "dee6a275e41cd529439a4279ceff2e99c6b343a36b22b345d74fcbd9f9a4cca2": {
+        "title": "黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，从基层做到英伟达高管",
+        "link": "https://www.qbitai.com/2025/08/321375.html",
+        "published_date": "Tue, 12 Aug 2025 05:46:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.553857"
       }
     },
     "Technology": {
-      "e06b46248504c09de4909b2bcab66fdccb90ed764f2683cff2f778f9129bc56f": {
-        "title": "全网首个爆料Manus裁员消息的人，如何看待其彻底撤出中国一事？",
-        "link": "https://www.tmtpost.com/7624382.html",
-        "published_date": "Sun, 13 Jul 2025 11:03:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.216629"
-      },
-      "388a90e7d695360e5fe22fcf0453e9102bce99f6c7078649d0912132452c062a": {
-        "title": "AI文艺复兴：一场由大脚怪引发的内容革命",
-        "link": "https://www.tmtpost.com/7624358.html",
-        "published_date": "Sun, 13 Jul 2025 08:24:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.216786"
-      },
-      "046ebd5f6a2b9d68a4f745738df06b12a7b6f97998ae7f25ba96687fb656d068": {
-        "title": "“0门店”闯美，茶颜悦色，不走蜜雪冰城老路",
-        "link": "https://www.tmtpost.com/7624364.html",
-        "published_date": "Sun, 13 Jul 2025 08:10:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.216931"
-      },
-      "353478148da1f4e1b36e6dab3b6357719f086c584956b81593909df18b33ea8d": {
-        "title": "荣耀要破局，还需狠练“站桩”",
-        "link": "https://www.tmtpost.com/7624372.html",
-        "published_date": "Sun, 13 Jul 2025 08:00:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.217108"
-      },
-      "e521dbba7d0e50f0403962921b12ba943c48b6aece2f86702f7f3797b103e23e": {
-        "title": "一日一技 | 用欧盟纯净版 Windows 11，享真正的数字选择权",
-        "link": "https://sspai.com/post/100943",
-        "published_date": "Sun, 13 Jul 2025 11:00:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.217382"
-      },
-      "4756bb62a299ebd653c6533c1cfe73be7cec9db990741cccfb5fc246802128e7": {
-        "title": "美团：本月超 40 万众包骑手日入超 500 元；SpaceX 将向 X.AI 投资 20 亿美元；谷歌 24 亿美元收编 Windsurf",
-        "link": "http://www.geekpark.net/news/351462",
-        "published_date": "Sun, 13 Jul 2025 08:48:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.217860"
-      },
-      "f2f1a2bd55a6cb9a0806eb0aa754a84901dae52d033eeaa18bd4884a20143525": {
-        "title": "AI 上新｜我让 AI「偷窥」了我的屏幕，它有机会变成我第二个大脑",
-        "link": "http://www.geekpark.net/news/351461",
-        "published_date": "Sun, 13 Jul 2025 02:26:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.218358"
-      },
-      "aa7fc4fa924f6ff44948d295e52d303355474e4bdeb16f9f5d0676f1b69b9950": {
-        "title": "20% Off HP Coupon Code | July 2025",
-        "link": "https://www.wired.com/story/hp-coupon-code/",
-        "published_date": "Sun, 13 Jul 2025 05:00:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.218864"
-      },
-      "69e78d1c73dd9c7633c9268921c49b87185d08675075ebe6b40cf34155d78205": {
-        "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars",
-        "link": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
-        "published_date": "Sun, 13 Jul 2025 00:54:00 GMT",
-        "first_seen": "2025-07-13T05:23:09.219896"
-      },
-      "2880e6c9ca841afa3a703c0d957027675ccdab62aff4e81225f28fc83b38cd62": {
-        "title": "从背背佳到小罐茶，「营销大师」杜国楹如何收割财富",
-        "link": "https://www.tmtpost.com/7624445.html",
-        "published_date": "Sun, 13 Jul 2025 15:16:00 GMT",
-        "first_seen": "2025-07-13T08:26:11.804933"
-      },
-      "53c346521d1ba9b1793064aef1138399b5c30cf4a998913351752759e27104f0": {
-        "title": "频繁换帅难挽市值缩水，良品铺子想“卖身”了",
-        "link": "https://www.tmtpost.com/7624469.html",
-        "published_date": "Sun, 13 Jul 2025 15:16:00 GMT",
-        "first_seen": "2025-07-13T08:26:11.805086"
-      },
-      "2e247bbeb5189d00072927bdf9e5ff09fc3ec37062560e1fd884c44d9f0bece5": {
-        "title": "李斌拼了｜车圈脉动 VOL.4",
-        "link": "http://www.huxiu.com/article/4573508.html?f=wangzhan",
-        "published_date": "Sun, 13 Jul 2025 14:48:00 GMT",
-        "first_seen": "2025-07-13T08:26:11.805232"
-      },
       "c40e9400e8b89f915aa577f67c3d24d8ccc436ff5e3d41dc00b5fb8d12179f46": {
         "title": "别光看Claude多厉害！Anthropic内部拉响警报：“AI的经济冲击比想象的更危险！”",
         "link": "https://www.infoq.cn/article/KVrHoJWDrdo8RERblOvG?utm_source=rss&utm_medium=article",
@@ -23678,6 +23642,132 @@
         "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
         "published_date": "Tue, 12 Aug 2025 05:10:00 GMT",
         "first_seen": "2025-08-12T05:21:21.365333"
+      },
+      "c8a8147e67b4b5edb947693dd432654586ce895200749b15a1abba7473885c41": {
+        "title": "华宝新能亮相2025上海别墅展，共探“光与墅”的融合边界",
+        "link": "https://www.tmtpost.com/7656578.html",
+        "published_date": "Tue, 12 Aug 2025 16:08:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.597248"
+      },
+      "693dad063a4752f1d3c8a3e8fa753c0f36a7fadf8ebaf99b9eb4483abc629993": {
+        "title": "印度光伏，前路仍踌躇",
+        "link": "https://www.tmtpost.com/7656721.html",
+        "published_date": "Tue, 12 Aug 2025 16:02:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.254023"
+      },
+      "b4636a10f49cc705cadf5454a7584ec48f1d815eabb616aa80f59a656885315d": {
+        "title": "8月12日A股分析：三大股指集体收涨，两市合计成交18815.2亿元，资金流入最多的行业板块为半导体、计算机设备",
+        "link": "https://www.tmtpost.com/7656643.html",
+        "published_date": "Tue, 12 Aug 2025 15:36:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.597589"
+      },
+      "7576f55ba8c96c6c4679eefa000ce58a760c2431ddab7757e2776acb44903d0c": {
+        "title": "燕京啤酒：高端化红利正“见顶”，双轮驱动尚未跑通｜看财报",
+        "link": "https://www.tmtpost.com/7656476.html",
+        "published_date": "Tue, 12 Aug 2025 14:43:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.597814"
+      },
+      "df085bf8b1f8efdce8dfda14b7ace5d45e5d2cecd00d6c7ba2a3cb4bbe9b9ad5": {
+        "title": "胡峥：产业链视角下，低成本与高性价比是商业航天的核心趋势 | 钛资本航空航天组",
+        "link": "https://www.tmtpost.com/7656342.html",
+        "published_date": "Tue, 12 Aug 2025 14:33:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253956"
+      },
+      "4c0d8bb8244d600d0253198e7943ddca372ab8c7e6be9268b5005bb6f565d754": {
+        "title": "香港人反向代购热潮越来越火",
+        "link": "https://www.tmtpost.com/7656344.html",
+        "published_date": "Tue, 12 Aug 2025 14:32:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.598309"
+      },
+      "77fdf9a591a47f5a90e04c20d7dfb6455b673aef041b28fb3c60d5fc2ce18f96": {
+        "title": "史亮：中国的人工智能物流机器人开启全球化时代 | 钛资本人工智能组",
+        "link": "https://www.tmtpost.com/7656347.html",
+        "published_date": "Tue, 12 Aug 2025 14:26:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253944"
+      },
+      "ae14d376dae0b6aa4193f854dc532d80da39ddaf2a60ebd63b6f0fe4f9929ab5": {
+        "title": "9块9喝咖啡的风，还是吹到了美利坚？",
+        "link": "https://www.tmtpost.com/7656338.html",
+        "published_date": "Tue, 12 Aug 2025 14:23:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.599005"
+      },
+      "83d81daf2536d9b54f44521dd3c0997c79592ac9adf62579b9b96890b4a5742a": {
+        "title": "资本市场，愿不愿意押宝“年轻二代”？",
+        "link": "https://www.tmtpost.com/7656493.html",
+        "published_date": "Tue, 12 Aug 2025 14:17:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.599343"
+      },
+      "9e9c5a3e0579a39be2fdfb583ec2c0f41ea79c5767fa9a3201a17678cfa82525": {
+        "title": "GPT-5亮相，“博士专家”是不是真的Agent？",
+        "link": "https://www.tmtpost.com/7656495.html",
+        "published_date": "Tue, 12 Aug 2025 14:17:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253909"
+      },
+      "b8361c5150648d2fc43b7d3cca747a7588bf17ce627edf5f885a5ebddc75b8cd": {
+        "title": "从Roadstar到元戎，周光还需要学学“做生意”",
+        "link": "https://www.tmtpost.com/7656512.html",
+        "published_date": "Tue, 12 Aug 2025 14:17:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.600282"
+      },
+      "d5b83b9a9110b314ae9ff2e50db60ee213cb5baa4c9ef9f8c86f9166b1536702": {
+        "title": "Hong Kong's Consumer Market Becomes New Battleground for Chinese Mainland Internet Giants",
+        "link": "https://www.tmtpost.com/7656517.html",
+        "published_date": "Tue, 12 Aug 2025 14:01:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.254014"
+      },
+      "034cd8613bcb80889ca16fb1e4243d5c78f81da7bc1f6184abb36a0acb1d8e51": {
+        "title": "JobRunr 8.0提供了碳感知作业、Kotlin序列化和仪表板通知中心",
+        "link": "https://www.infoq.cn/article/8B4dsGJr3SXzQCmyrJ1r?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 16:00:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.602219"
+      },
+      "3b2af0b6a2dc289ea7a94c450d2d918981d6d10d87b5607c24c749f7e5246e63": {
+        "title": "编程“学废”了？普渡毕业却只获烤肉店面试！美国IT失业创新高：AI面试成最大屈辱，网友怒称宁愿失业！",
+        "link": "https://www.infoq.cn/article/KpK4v3jGe7bgAyMjOmKP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 15:17:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.603404"
+      },
+      "4c89b8355c8c4dcacf626e12b6d953818faccfd656781f5bd95e61423dd1b9cf": {
+        "title": "一家见过“大世面”的存储公司，如何理解 AI Infra？",
+        "link": "https://www.infoq.cn/article/3f9NGrtd7k0D0kLCOmL2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 15:09:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253967"
+      },
+      "3d21c02497a42a357ee92b35804c664f99fcf13c4451d6309e79c81766cd973a": {
+        "title": "CodeArts Doer 全流程多 Agent 协同，驱动研发全流程效能跃升｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/tY8mFopYNrfjlZeJuFd4?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253978"
+      },
+      "20fa8bc8e8319531e7f34f2105755ccff06c632d5cf995ce01831ae5d571a430": {
+        "title": "Java近期新闻：JDK 25-RC1、Spring AI、WildFly 37、Payara Platform、LangChain4j、Grails",
+        "link": "https://www.infoq.cn/article/mR31e0LQBfEE4JUhC9NE?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 14:04:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253992"
+      },
+      "7ee51885c30c4efe6f4026332ec17e03e8f234ba3ae6f85bed20c7fac24aca8f": {
+        "title": "Amazon DocumentDB Serverless：应对可变工作负载的自动扩展数据库解决方案",
+        "link": "https://www.infoq.cn/article/sGDzo8izjaEItOm1Oyud?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 14:00:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.254002"
+      },
+      "d36e6876b73f6468163ff6cdfa9dcefea70e01bbb4af2fe2f3b76838ce387af1": {
+        "title": "微软发布用于构建协作式 AI 代理的 A2A .NET SDK",
+        "link": "https://www.infoq.cn/article/lB6UCHfOcKpIoXbpW5kC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 Aug 2025 13:30:00 GMT",
+        "first_seen": "2025-08-12T08:29:47.253931"
+      },
+      "c55706b5d18e908abd570ecdf67a3420b8f1271993e2a356f0e11f57fbcdfdbc": {
+        "title": "大鲨四代，降噪如一：Bose QuietComfort 消噪耳塞 Ultra II 体验",
+        "link": "https://sspai.com/post/101722",
+        "published_date": "Tue, 12 Aug 2025 15:04:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.611315"
+      },
+      "0bdaa45c3d26d2d3348edc5764bcbc318b3b2a4bddf8f3e87cfad5184e45100c": {
+        "title": "Newegg Promo Code: 10% Off August 2025",
+        "link": "https://www.wired.com/story/newegg-promo-code/",
+        "published_date": "Tue, 12 Aug 2025 05:30:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.612873"
       }
     },
     "Finance": {
@@ -26938,12 +27028,18 @@
         "link": "https://www.marketwatch.com/story/trump-picks-conservative-economist-e-j-antoni-to-lead-bureau-of-labor-statistics-e4b9ba1f?mod=mw_rss_topstories",
         "published_date": "Mon, 11 Aug 2025 23:23:00 GMT",
         "first_seen": "2025-08-12T05:21:21.323387"
+      },
+      "635ec40071566bfd3bb37a4e791f07bc864fd6103ddf13e032086069c1601171": {
+        "title": "China may have put up another hurdle for Nvidia to overcome",
+        "link": "https://www.marketwatch.com/story/china-may-have-put-up-another-hurdle-for-nvidia-to-overcome-c1ea8555?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 Aug 2025 07:37:00 GMT",
+        "first_seen": "2025-08-12T08:29:28.576832"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-12T05:21:21.314202",
-    "Technology": "2025-08-12T05:21:42.549279",
-    "Finance": "2025-08-12T05:21:21.330301"
+    "AI": "2025-08-12T08:29:28.568576",
+    "Technology": "2025-08-12T08:29:47.256347",
+    "Finance": "2025-08-12T08:29:28.583702"
   }
 }

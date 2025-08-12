@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 05:21:21 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:29:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI拿下IOI金牌，仅次于前五名人类选手！参赛推理模型才夺得IMO金牌</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-2</link>
-      <description>&lt;![CDATA[刚刚，OpenAI拿下IOI金牌，仅次于前五名人类选手！参赛推理模型才夺得IMO金牌]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-2</guid>
+      <title>SIGGRAPH上，英伟达发布物理AI开源新技术，更新RTX Pro产品线</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-11</link>
+      <description>&lt;![CDATA[SIGGRAPH上，英伟达发布物理AI开源新技术，更新RTX Pro产品线]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>是「福尔摩斯」，也是「列文虎克」，智谱把OpenAI藏着掖着的视觉推理能力开源了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-7</link>
-      <description>&lt;![CDATA[是「福尔摩斯」，也是「列文虎克」，智谱把OpenAI藏着掖着的视觉推理能力开源了]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-7</guid>
+      <title>身家25亿刀，是四家公司创始人，这位伯克利教授还在给本科生上课</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-10</link>
+      <description>&lt;![CDATA[身家25亿刀，是四家公司创始人，这位伯克利教授还在给本科生上课]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI全面挖掘微蛋白价值：首次引入合成负样本训练，剔除92%噪声，摆脱保守依赖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-8</link>
-      <description>&lt;![CDATA[AI全面挖掘微蛋白价值：首次引入合成负样本训练，剔除92%噪声，摆脱保守依赖]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-8</guid>
+      <title>商汤王晓刚：世界模型将加快AI从数字空间进入物理世界，「悟能」想做那个桥梁</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-9</link>
+      <description>&lt;![CDATA[商汤王晓刚：世界模型将加快AI从数字空间进入物理世界，「悟能」想做那个桥梁]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLM总是把简单任务复杂化，Karpathy无语：有些任务无需那么多思考</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12-5</link>
-      <description>&lt;![CDATA[LLM总是把简单任务复杂化，Karpathy无语：有些任务无需那么多思考]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-5</guid>
+      <title>聚焦前沿，见证未来!「X·创新』产品SHOW圆满举办!</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-3</link>
+      <description>&lt;![CDATA[聚焦前沿，见证未来!「X·创新』产品SHOW圆满举办!]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Lumina-mGPT 2.0：自回归模型华丽复兴，媲美顶尖扩散模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-12</link>
-      <description>&lt;![CDATA[Lumina-mGPT 2.0：自回归模型华丽复兴，媲美顶尖扩散模型]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12</guid>
+      <title>What you may have missed about GPT-5</title>
+      <link>https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/</link>
+      <description>&lt;![CDATA[What you may have missed about GPT-5]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 07:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems</title>
-      <link>https://arxiv.org/abs/2508.07407</link>
-      <description>&lt;![CDATA[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.07407</guid>
+      <title>加盟智界再次联手余承东？赵明回应了</title>
+      <link>https://www.qbitai.com/2025/08/321450.html</link>
+      <description>&lt;![CDATA[加盟智界再次联手余承东？赵明回应了]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321450.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Large Language Models Do Not Simulate Human Psychology</title>
-      <link>https://arxiv.org/abs/2508.06950</link>
-      <description>&lt;![CDATA[Large Language Models Do Not Simulate Human Psychology]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.06950</guid>
+      <title>拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景</title>
+      <link>https://www.qbitai.com/2025/08/321401.html</link>
+      <description>&lt;![CDATA[拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 06:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321401.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Hallucination as a Computational Boundary: A Hierarchy of Inevitability and the Oracle Escape</title>
-      <link>https://arxiv.org/abs/2508.07334</link>
-      <description>&lt;![CDATA[Hallucination as a Computational Boundary: A Hierarchy of Inevitability and the Oracle Escape]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.07334</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Safer AI Moderation: Evaluating LLM Moderators Through a Unified Benchmark Dataset and Advocating a Human-First Approach</title>
-      <link>https://arxiv.org/abs/2508.07063</link>
-      <description>&lt;![CDATA[Towards Safer AI Moderation: Evaluating LLM Moderators Through a Unified Benchmark Dataset and Advocating a Human-First Approach]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.07063</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Pushing the Envelope of LLM Inference on AI-PC</title>
-      <link>https://arxiv.org/abs/2508.06753</link>
-      <description>&lt;![CDATA[Pushing the Envelope of LLM Inference on AI-PC]]&gt;</description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.06753</guid>
+      <title>黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，从基层做到英伟达高管</title>
+      <link>https://www.qbitai.com/2025/08/321375.html</link>
+      <description>&lt;![CDATA[黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，从基层做到英伟达高管]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 05:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321375.html</guid>
       <category>AI</category>
     </item>
   </channel>
