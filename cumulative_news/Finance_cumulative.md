@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-11 23:19
+**最后更新时间**: 2025-08-12 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-12 05:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why your stock portfolio may actually ‘feel’ depressed that summer's almost over](https://www.marketwatch.com/bulletins/redirect/go?g=bcf28575-6798-41f9-b22a-e519e41a56b2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-12 01:17
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump extends trade truce with China. What it means for tariffs.](https://www.marketwatch.com/story/trump-hints-at-extending-trade-truce-with-china-what-it-would-mean-for-tariffs-3ffcfa33?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 00:33
+
+#### [Trump picks conservative economist E.J. Antoni to lead Bureau of Labor Statistics](https://www.marketwatch.com/story/trump-picks-conservative-economist-e-j-antoni-to-lead-bureau-of-labor-statistics-e4b9ba1f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-11 23:23
 
 ---
 

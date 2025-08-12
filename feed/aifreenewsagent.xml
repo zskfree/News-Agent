@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 Aug 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 23:19:55 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 05:21:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>「一只手有几根手指」，你的GPT-5答对了吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-19</link>
-      <description>&lt;![CDATA[「一只手有几根手指」，你的GPT-5答对了吗？]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 20:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-19</guid>
+      <title>刚刚，OpenAI拿下IOI金牌，仅次于前五名人类选手！参赛推理模型才夺得IMO金牌</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-2</link>
+      <description>&lt;![CDATA[刚刚，OpenAI拿下IOI金牌，仅次于前五名人类选手！参赛推理模型才夺得IMO金牌]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>4D空间智能：AI如何一步步「看懂」时空结构？一篇综述解析通往四维世界的五大层次</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-11-18</link>
-      <description>&lt;![CDATA[4D空间智能：AI如何一步步「看懂」时空结构？一篇综述解析通往四维世界的五大层次]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 20:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-11-18</guid>
+      <title>是「福尔摩斯」，也是「列文虎克」，智谱把OpenAI藏着掖着的视觉推理能力开源了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-7</link>
+      <description>&lt;![CDATA[是「福尔摩斯」，也是「列文虎克」，智谱把OpenAI藏着掖着的视觉推理能力开源了]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Sam Altman and the whale</title>
-      <link>https://www.technologyreview.com/2025/08/11/1121402/sam-altman-and-the-whale/</link>
-      <description>&lt;![CDATA[Sam Altman and the whale]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121402/sam-altman-and-the-whale/</guid>
+      <title>AI全面挖掘微蛋白价值：首次引入合成负样本训练，剔除92%噪声，摆脱保守依赖</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-8</link>
+      <description>&lt;![CDATA[AI全面挖掘微蛋白价值：首次引入合成负样本训练，剔除92%噪声，摆脱保守依赖]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Meet the early-adopter judges using AI</title>
-      <link>https://www.technologyreview.com/2025/08/11/1121460/meet-the-early-adopter-judges-using-ai/</link>
-      <description>&lt;![CDATA[Meet the early-adopter judges using AI]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 15:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121460/meet-the-early-adopter-judges-using-ai/</guid>
+      <title>LLM总是把简单任务复杂化，Karpathy无语：有些任务无需那么多思考</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12-5</link>
+      <description>&lt;![CDATA[LLM总是把简单任务复杂化，Karpathy无语：有些任务无需那么多思考]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: a quantum radar, and chipmakers’ deal with the US government</title>
-      <link>https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/</link>
-      <description>&lt;![CDATA[The Download: a quantum radar, and chipmakers’ deal with the US government]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/</guid>
+      <title>Lumina-mGPT 2.0：自回归模型华丽复兴，媲美顶尖扩散模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-12</link>
+      <description>&lt;![CDATA[Lumina-mGPT 2.0：自回归模型华丽复兴，媲美顶尖扩散模型]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>This quantum radar could image buried objects</title>
-      <link>https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/</link>
-      <description>&lt;![CDATA[This quantum radar could image buried objects]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/</guid>
+      <title>A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems</title>
+      <link>https://arxiv.org/abs/2508.07407</link>
+      <description>&lt;![CDATA[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.07407</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>让OpenAI只领先5天，百川发布推理新模型，掀翻医疗垂域开源天花板</title>
-      <link>https://www.qbitai.com/2025/08/321249.html</link>
-      <description>&lt;![CDATA[让OpenAI只领先5天，百川发布推理新模型，掀翻医疗垂域开源天花板]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321249.html</guid>
+      <title>Large Language Models Do Not Simulate Human Psychology</title>
+      <link>https://arxiv.org/abs/2508.06950</link>
+      <description>&lt;![CDATA[Large Language Models Do Not Simulate Human Psychology]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.06950</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>以“具身智能基座”为核，睿尔曼携全产品矩阵及新品亮相2025 WRC</title>
-      <link>https://www.qbitai.com/2025/08/321183.html</link>
-      <description>&lt;![CDATA[以“具身智能基座”为核，睿尔曼携全产品矩阵及新品亮相2025 WRC]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321183.html</guid>
+      <title>Hallucination as a Computational Boundary: A Hierarchy of Inevitability and the Oracle Escape</title>
+      <link>https://arxiv.org/abs/2508.07334</link>
+      <description>&lt;![CDATA[Hallucination as a Computational Boundary: A Hierarchy of Inevitability and the Oracle Escape]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.07334</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-oss太离谱：无提示自行想象编程问题，还重复求解5000次</title>
-      <link>https://www.qbitai.com/2025/08/321167.html</link>
-      <description>&lt;![CDATA[GPT-oss太离谱：无提示自行想象编程问题，还重复求解5000次]]&gt;</description>
-      <pubDate>Mon, 11 Aug 2025 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321167.html</guid>
+      <title>Towards Safer AI Moderation: Evaluating LLM Moderators Through a Unified Benchmark Dataset and Advocating a Human-First Approach</title>
+      <link>https://arxiv.org/abs/2508.07063</link>
+      <description>&lt;![CDATA[Towards Safer AI Moderation: Evaluating LLM Moderators Through a Unified Benchmark Dataset and Advocating a Human-First Approach]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.07063</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Pushing the Envelope of LLM Inference on AI-PC</title>
+      <link>https://arxiv.org/abs/2508.06753</link>
+      <description>&lt;![CDATA[Pushing the Envelope of LLM Inference on AI-PC]]&gt;</description>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.06753</guid>
       <category>AI</category>
     </item>
   </channel>

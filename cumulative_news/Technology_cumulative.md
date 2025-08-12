@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-11 23:19
+**最后更新时间**: 2025-08-12 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-12 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [U.S. Treasury Secretary Sees Most Trade Talks Wrapped up by October](https://www.tmtpost.com/7656461.html)
+**发布时间**: 2025-08-12 13:15
+
+#### [Agent 2025：AI的窄门与宽路](https://www.tmtpost.com/7656246.html)
+**发布时间**: 2025-08-12 13:14
+
+#### [三大MNC接连遇挫，千亿美金市场迎来剧变](https://www.tmtpost.com/7656282.html)
+**发布时间**: 2025-08-12 13:13
+
+#### [创始人要200万月薪，投资人：“这是在掏空公司！”](https://www.tmtpost.com/7656278.html)
+**发布时间**: 2025-08-12 13:13
+
+#### [造乘龙卡车的，是群狠人](https://www.tmtpost.com/7656272.html)
+**发布时间**: 2025-08-12 13:13
+
+#### [投资人：打造好投资事业部，靠“打游击”很难投到正宗项目](https://www.tmtpost.com/7656294.html)
+**发布时间**: 2025-08-12 13:13
+
+#### [Trump Says Gold Will Not Face U.S. Tariffs after Report Arouses Concerns over Levies](https://www.tmtpost.com/7656388.html)
+**发布时间**: 2025-08-12 12:52
+
+#### [高德地图携手通义实验室，深度共建全球首个AI原生出行智能体](https://www.tmtpost.com/7656354.html)
+**发布时间**: 2025-08-12 12:32
+
+#### [Renault and Geely Deepen Partnership with New Energy SUV Targeting Overseas Markets](https://www.tmtpost.com/7656373.html)
+**发布时间**: 2025-08-12 12:31
+
+#### [【科股一线拆解】“数据资产”领域将举办高规格发布会，这一新应用方向正被市场广泛关注](https://www.tmtpost.com/7656307.html)
+**发布时间**: 2025-08-12 12:23
+
+#### [2025上半年中国冷冻食品渠道发展报告](https://www.tmtpost.com/7655034.html)
+**发布时间**: 2025-08-12 11:59
+
+#### [500块的手机壳，谁在买单？](https://www.tmtpost.com/7655846.html)
+**发布时间**: 2025-08-12 11:54
+
+#### [即时零售，改变电商格局](https://www.tmtpost.com/7655828.html)
+**发布时间**: 2025-08-12 11:50
+
+#### [男频动画剧场版上院线，能撑起多少票房？](https://www.tmtpost.com/7655886.html)
+**发布时间**: 2025-08-12 11:44
+
+#### [酒旅业会重现“外卖大战”的盛况？想多了](https://www.tmtpost.com/7655897.html)
+**发布时间**: 2025-08-12 11:39
+
+#### [Trump Says He Originally Asked Nvidia to Pay 20% of China Chip Sales, Then Cut the Share to 15%](https://www.tmtpost.com/7656274.html)
+**发布时间**: 2025-08-12 11:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯数据工程专家虎兴龙确认出席 AICon 深圳，分享腾讯云 WeData Agent 的落地思考与实践](https://www.infoq.cn/article/Gt8TxVisa7fJ3O3thL7F?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 13:00
+
+#### [OpenAI在ChatGPT中推出学习模式](https://www.infoq.cn/article/5fSIJWHNJBK2lSW33N0s?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 12:00
+
+#### [Swift 6.2引入Approachable Concurrency以简化并发编程](https://www.infoq.cn/article/mUsz7T5hlVXjmU2c0ux2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 11:21
+
+#### [当 AI Agent 成为营销新引擎，破解流量困局与 ROI 迷局｜AICon 深圳](https://www.infoq.cn/article/kOHzAAobzNHucyJJChak?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-12 10:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [巧用 Notion 搭建运动健身记录看板](https://sspai.com/post/101688)
+**发布时间**: 2025-08-12 11:30
+
+#### [派早报：微软将关闭 Microsoft Lens，智谱发布 GLM-4.5V 等](https://sspai.com/post/101772)
+**发布时间**: 2025-08-12 08:49
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [智驾测评翻车，究竟谁在裸泳？](http://www.huxiu.com/article/4677172.html?f=wangzhan)
+**发布时间**: 2025-08-12 11:21
+
+#### [新晋饮品之王，为什么能够超越无糖茶？](http://www.huxiu.com/article/4680621.html?f=wangzhan)
+**发布时间**: 2025-08-12 10:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军：小米YU7改名，被误会是丐版；传淘宝闪购周末峰值超美团；低价 MacBook 或年底亮相，599 美元](http://www.geekpark.net/news/352588)
+**发布时间**: 2025-08-12 08:24
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [30% Off Tempur-Pedic Promo Codes | August 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
+**发布时间**: 2025-08-12 05:10
 
 ---
 
