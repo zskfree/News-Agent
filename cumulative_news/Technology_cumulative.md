@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-12 23:20
+**最后更新时间**: 2025-08-13 05:23
+
+---
+
+## 🆕 最新更新 (2025-08-13 05:23)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Native 应用的新范式，Trae在Coding Agent中的工程实践｜AICon 深圳](https://www.infoq.cn/article/A6mSqtblyrHSNRxdV8b5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 13:00
+
+#### [Amazon EVS为企业提供了VMware工作负载迁移的新途径](https://www.infoq.cn/article/Mp7GAYrCXKXBqUc0m7u6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 12:30
+
+#### [AI Agent + AI Profiling，构建高效智能运维双支柱｜AICon 深圳](https://www.infoq.cn/article/iEXovhQLPsCtMvYkLHKN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 12:00
+
+#### [新的Rust客户端致力于实现基于Aerospike的安全、高性能应用](https://www.infoq.cn/article/C7yEUQKlsJpfmcRvXTFB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 11:40
+
+#### [Cloudflare如何将Quicksilver迁移到多级缓存并处理数十亿个请求](https://www.infoq.cn/article/fLgdXrTZfWM0p77fyP3W?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 11:33
+
+#### [当未经检查的自动扩缩造成12万美元的云支出时](https://www.infoq.cn/article/4EaLblFQY68uKRABrQtp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 11:23
+
+#### [LLM + 安全修复实战，探索金融行业代码治理的新范式｜AICon 深圳](https://www.infoq.cn/article/Lz6gsyBXUUoeL6CzCbAy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 10:49
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [当人们怀念 GPT-4o，他们在「怀念」什么？](http://www.geekpark.net/news/352648)
+**发布时间**: 2025-08-13 12:51
+
+#### [破解AI创企的「不可能三角」，解药不止「大模型」](http://www.geekpark.net/news/352647)
+**发布时间**: 2025-08-13 12:08
+
+#### [传 DeepSeek-R2 8 月发布；微信测试信用借款功能；Perplexity 要 345 亿美元收购 Chrome](http://www.geekpark.net/news/352631)
+**发布时间**: 2025-08-13 07:59
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [HOKA于北京三里屯开设限时体验空间；onmygame三周年品牌大秀收官；利郎上半年营收同比增长7.9%｜消研所日报](https://www.tmtpost.com/7656940.html)
+**发布时间**: 2025-08-13 12:38
+
+#### [The Gold Market's Wild Ride: A Four-Act Drama of Rates, Tariffs, and Trump](https://www.tmtpost.com/7657871.html)
+**发布时间**: 2025-08-13 12:35
+
+#### [厨房里的寒冬](https://www.tmtpost.com/7657429.html)
+**发布时间**: 2025-08-13 12:15
+
+#### [仅12天消费贷贴息落地，多行业收益或将激活万亿级市场](https://www.tmtpost.com/7657735.html)
+**发布时间**: 2025-08-13 12:15
+
+#### [White House May Expand Nvidia's Chip Export Deal to More Companies](https://www.tmtpost.com/7657822.html)
+**发布时间**: 2025-08-13 11:55
+
+#### [华润“咽下”康佳](https://www.tmtpost.com/7657331.html)
+**发布时间**: 2025-08-13 11:52
+
+#### [宇树押“狗”，智元押“人”](https://www.tmtpost.com/7657319.html)
+**发布时间**: 2025-08-13 11:51
+
+#### [TikTok Shop刮起东南风](https://www.tmtpost.com/7657316.html)
+**发布时间**: 2025-08-13 11:51
+
+#### [教育消费者，老式企业家为何钟情于“爹味”发言？](https://www.tmtpost.com/7657285.html)
+**发布时间**: 2025-08-13 11:50
+
+#### [不足1亿元投入，撬动46亿元BD，复星医药的“呼吸印钞机”真要开动了？](https://www.tmtpost.com/7657268.html)
+**发布时间**: 2025-08-13 11:50
+
+#### [The $7 Trillion Question: Which Path Will Win China's Robot Race?](https://www.tmtpost.com/7657782.html)
+**发布时间**: 2025-08-13 11:27
+
+#### [即将开源！华为发布AI推理黑科技，已在中国银联落地](https://www.tmtpost.com/7657757.html)
+**发布时间**: 2025-08-13 11:23
+
+#### [Trump's U-Turn on Intel CEO Reflects Deepening Anxiety in the U.S. Chip Industry](https://www.tmtpost.com/7657738.html)
+**发布时间**: 2025-08-13 11:05
+
+#### [历险十年，二次元勇者走向「王座」](https://www.tmtpost.com/7657191.html)
+**发布时间**: 2025-08-13 11:03
+
+#### [宇树科技王兴兴发“暴论”，对智驾有什么参考？](https://www.tmtpost.com/7657196.html)
+**发布时间**: 2025-08-13 11:03
+
+#### [洗地机争夺战：谁狂飙？谁掉队？你的体验打几分？](https://www.tmtpost.com/7657650.html)
+**发布时间**: 2025-08-13 11:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Liquid Glass 继续调整，iOS 26 Beta 近期更新值得关注的变化](https://sspai.com/post/101792)
+**发布时间**: 2025-08-13 11:31
+
+#### [派早报：美光回应中国区业务调整、Matter 1.4.2 版本发布等](https://sspai.com/post/101795)
+**发布时间**: 2025-08-13 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)
+**发布时间**: 2025-08-13 00:04
 
 ---
 

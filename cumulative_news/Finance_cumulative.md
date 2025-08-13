@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-12 23:20
+**最后更新时间**: 2025-08-13 05:23
+
+---
+
+## 🆕 最新更新 (2025-08-13 05:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Taylor Swift’s last record made up more than 6% of all album sales in 2024. Will ‘The Life of a Showgirl’ do even better?](https://www.marketwatch.com/story/taylor-swifts-last-record-made-up-more-than-6-of-all-album-sales-in-2024-will-the-life-of-a-showgirl-do-even-better-3756ca28?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 02:01
+
+#### [Ford is readying a ‘compelling EV.’ Will that be enough for the stock?](https://www.marketwatch.com/story/ford-is-readying-a-compelling-ev-will-that-be-enough-for-the-stock-732626e3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 00:57
+
+#### [Intel’s CEO seems to have made nice with Trump. What comes next?](https://www.marketwatch.com/story/intels-ceo-seems-to-have-made-nice-with-trump-what-comes-next-1c9a69d0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 00:54
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Opinion: Retirees are now at risk from politicized inflation data](https://www.marketwatch.com/bulletins/redirect/go?g=46f02132-75ab-48f1-9a68-6522b39773df&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 01:02
 
 ---
 

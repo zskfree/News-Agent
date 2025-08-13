@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "12d5de11c234ca6ec03b39f9c95736ae472bdbccf486ed2e8e0645089a2d9004": {
-        "title": "AI编程「反直觉」调研引300万围观！开发者坚信提速20%，实测反慢19%",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-13-3",
-        "published_date": "Sun, 13 Jul 2025 21:59:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.045930"
-      },
-      "4b36d75d187f35cbe2248894a3061783ad6422b8d7626783314549d6219aa292": {
-        "title": "「流匹配」成ICML 2025超热门主题！网友：都说了学物理的不准转计算机",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-13-2",
-        "published_date": "Sun, 13 Jul 2025 21:56:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.046080"
-      },
-      "bcfeb120d556122812f245b88116455e0fa2648f4867ba0b79666b69467824b5": {
-        "title": "VLA 推理新范式！一致性模型 CEED-VLA 实现四倍加速！",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-13",
-        "published_date": "Sun, 13 Jul 2025 21:41:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.046296"
-      },
       "c812902f9064cd8e4bf813e8bc042dcaa302cc4b7e8b92f5542198f446806afe": {
         "title": "Windsurf交易内幕疯传：24亿美元被瓜分，背刺数百员工？",
         "link": "https://www.jiqizhixin.com/articles/2025-07-14-6",
@@ -9612,135 +9594,309 @@
         "link": "https://www.qbitai.com/2025/08/321495.html",
         "published_date": "Tue, 12 Aug 2025 09:04:00 GMT",
         "first_seen": "2025-08-12T23:20:32.258021"
+      },
+      "1c704c6fed155c07a46d18d117ef04677d6038a496518d8e1a65bf22538d95ba": {
+        "title": "Agent狂欢下的冷思考：为什么说Data&AI数据基础设施，才是AI时代Infra新范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-8",
+        "published_date": "Wed, 13 Aug 2025 13:12:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179918"
+      },
+      "8e9b15c364d4005708b855ab044de7a132af1989c2411377af082a8519428d60": {
+        "title": "AI顶会模式出了问题？ 「不发表，就出局」的恶性循环，正在压垮整个AI学界",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-7",
+        "published_date": "Wed, 13 Aug 2025 13:08:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179940"
+      },
+      "419cde342857ed85e27698875c0472375f3f6728880583517a7303809fcd9a02": {
+        "title": "研究者警告：强化学习暗藏「策略悬崖」危机，AI对齐的根本性挑战浮现",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-6",
+        "published_date": "Wed, 13 Aug 2025 13:01:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179953"
+      },
+      "599ce3bc57fd8c6d785189e244391b09e99fec098f0cb716e4a81fceccfdb62b": {
+        "title": "多模态大脑建模技术迈入新纪元：Meta 10亿参数模型获Algonauts 2025大脑建模竞赛冠军",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-5",
+        "published_date": "Wed, 13 Aug 2025 12:56:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179985"
+      },
+      "17be54aafc4c2e1ca1696ba4ff3a0587f69a03e915eb927ddb71f0cf8f2ae4b6": {
+        "title": "OpenAI没开源的gpt-oss基础模型，他去掉强化学习逆转出来了",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-4",
+        "published_date": "Wed, 13 Aug 2025 12:51:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179964"
+      },
+      "1748de12abaf616d687b5ca5d2241b63be5ce91e7a940ef8a8d32c3b71eb8fd0": {
+        "title": "6秒造一个「视频博主」，Pika让一切图片开口说话",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-3",
+        "published_date": "Wed, 13 Aug 2025 12:42:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179994"
+      },
+      "ec0d0522d4cd11812fe223594677fd547ed71d39e07a0beaff8bc8a6f6fdd480": {
+        "title": "OpenAI和奥特曼将投资一家脑机接口公司，直接与马斯克的Neuralink竞争",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13-2",
+        "published_date": "Wed, 13 Aug 2025 10:49:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.179974"
+      },
+      "1a8db5616d99a9badfbcb2fa5dd31885c85b304b0459a17b63374864e4777caa": {
+        "title": "大型语言模型稳定强化学习的新路径：几何平均策略优化GMPO",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-13",
+        "published_date": "Wed, 13 Aug 2025 10:46:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.180045"
+      },
+      "0b5fb8f5c8582ba07d83e493d39ea3dde20912367827f4e49c3d408691750ae6": {
+        "title": "Topos Theory for Generative AI and LLMs",
+        "link": "https://arxiv.org/abs/2508.08293",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.180035"
+      },
+      "0322c3f9f1c048a214dd38c255e3bdc3915d3e36b5a48378fc0c4d41d0d65837": {
+        "title": "Topos Causal Models",
+        "link": "https://arxiv.org/abs/2508.08295",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.059431"
+      },
+      "24e29cbc2d7271b355bf1f6a041759e64f4612af24c7e8b95f57b2d9253f4af3": {
+        "title": "An Efficient Application of Goal Programming to Tackle Multiobjective Problems with Recurring Fitness Landscapes",
+        "link": "https://arxiv.org/abs/2508.08297",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.061122"
+      },
+      "a72fae9874ae3ba54610b38745b776932a0f28c5abbd827c48165c1f7eee8658": {
+        "title": "LLM-BI: Towards Fully Automated Bayesian Inference with Large Language Models",
+        "link": "https://arxiv.org/abs/2508.08300",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.062614"
+      },
+      "8096f7a80f0572d8c078b38d5b24485fea62ce4d51f7079d55b6fe8e35ab6362": {
+        "title": "First Ask Then Answer: A Framework Design for AI Dialogue Based on Supplementary Questioning with Large Language Models",
+        "link": "https://arxiv.org/abs/2508.08308",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.064992"
+      },
+      "74cc4b014a65183bae39b1648dcd4c287b849cb3e03b0df8ce0f8d986aefb406": {
+        "title": "What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge",
+        "link": "https://arxiv.org/abs/2508.08344",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.067476"
+      },
+      "8f52dfcdf2c64a46bdfe34ba6ff15484bdd70da9a45c9a939c7927e43c3a0ccb": {
+        "title": "UrzaGPT: LoRA-Tuned Large Language Models for Card Selection in Collectible Card Games",
+        "link": "https://arxiv.org/abs/2508.08382",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.069707"
+      },
+      "6b51b8a06e8d02577c64c6aa75a574de2eeda0956752a4c8d24896a17a02c1d5": {
+        "title": "Bilevel MCTS for Amortized O(1) Node Selection in Classical Planning",
+        "link": "https://arxiv.org/abs/2508.08385",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.072096"
+      },
+      "777beeaba5ca63d03a139d94ada8818fbbf5f4f5500e27dd8eb8baccf6fa0973": {
+        "title": "Solver-Aided Expansion of Loops to Avoid Generate-and-Test",
+        "link": "https://arxiv.org/abs/2508.08442",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.074579"
+      },
+      "a197f96ce6dbdb1b551d322e6c8d873201a6e08622100007c52c0b43187ef36f": {
+        "title": "OverFill: Two-Stage Models for Efficient Language Model Decoding",
+        "link": "https://arxiv.org/abs/2508.08446",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.077027"
+      },
+      "5be8658021a4c49b714bdf442545bd28251ac2cfc4d555b929ebda52d74044f6": {
+        "title": "A Fast GRASP Metaheuristic for the Trigger Arc TSP with MIP-Based Construction and Multi-Neighborhood Local Search",
+        "link": "https://arxiv.org/abs/2508.08477",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.081465"
+      },
+      "27a0212873a7054125f9d1ac82cb3c956476eef439b2fd5ed8a370812d2d6eff": {
+        "title": "Beyond Ordinal Preferences: Why Alignment Needs Cardinal Human Feedback",
+        "link": "https://arxiv.org/abs/2508.08486",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.180025"
+      },
+      "d7942352c3e56b76d2100dd2df83c1d64ce010c579c3e39d793dd91091a7cde6": {
+        "title": "POMO+: Leveraging starting nodes in POMO for solving Capacitated Vehicle Routing Problem",
+        "link": "https://arxiv.org/abs/2508.08493",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.088491"
+      },
+      "56e5c376acbe741bd698ca0d7a954b185e38065b931c3d84b750bbabbb267493": {
+        "title": "Large Language Models as Oracles for Ontology Alignment",
+        "link": "https://arxiv.org/abs/2508.08500",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.091214"
+      },
+      "eda8c191060cca9ab832515f8b3d6b59a92190c86a25d2eff7bc4df7031bb36a": {
+        "title": "GVGAI-LLM: Evaluating Large Language Model Agents with Infinite Games",
+        "link": "https://arxiv.org/abs/2508.08501",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.094671"
+      },
+      "3f5f9e019d7c6538075416ac70c9b34a822ff53bb273cbec0c39856e1092da0c": {
+        "title": "SynLLM: A Comparative Analysis of Large Language Models for Medical Tabular Synthetic Data Generation via Prompt Engineering",
+        "link": "https://arxiv.org/abs/2508.08529",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.100663"
+      },
+      "10336266ce7ebe946448ddc8095ea02b573b2df40905ceb722bfc6bf974bd6b7": {
+        "title": "UGM2N: An Unsupervised and Generalizable Mesh Movement Network via M-Uniform Loss",
+        "link": "https://arxiv.org/abs/2508.08615",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.105358"
+      },
+      "f649f36cbce7b45fdc0505c23dcc4dd5cfc9efbcf7069a073813b0c366d1c2a9": {
+        "title": "AgriGPT: a Large Language Model Ecosystem for Agriculture",
+        "link": "https://arxiv.org/abs/2508.08632",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.108859"
+      },
+      "1c8c8154e8cab78c78a11a1595f5215e52c3b8a31542ead00b4ee2a12a271220": {
+        "title": "Diminution: On Reducing the Size of Grounding ASP Programs",
+        "link": "https://arxiv.org/abs/2508.08633",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.112736"
+      },
+      "fe6dd8a73c453c4de93dbd07f70fcc3370738c6a6851b4095375d87397f84cac": {
+        "title": "P-CAFE: Personalized Cost-Aware Incremental Feature Selection For Electronic Health Records",
+        "link": "https://arxiv.org/abs/2508.08646",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.119144"
+      },
+      "a80232d9db9cfaca2a1cbf82a3b9671f054c262bb58d71c6ab6e2cf7006b8a58": {
+        "title": "Prompt-and-Check: Using Large Language Models to Evaluate Communication Protocol Compliance in Simulation-Based Training",
+        "link": "https://arxiv.org/abs/2508.08652",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.126557"
+      },
+      "8ef0c7d4be09a72a65d3f8403686864041b36355f74b3832c603b3e9f45919c8": {
+        "title": "Hybrid Node-Destroyer Model with Large Neighborhood Search for Solving the Capacitated Vehicle Routing Problem",
+        "link": "https://arxiv.org/abs/2508.08659",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.134269"
+      },
+      "a90e45b63e3ae8d7c3d60f81947fc1e931530ffa6365ddcf650b15be0974b672": {
+        "title": "Aryabhata: An exam-focused language model for JEE Math",
+        "link": "https://arxiv.org/abs/2508.08665",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.138466"
+      },
+      "6246a9e612ded11e65f59f5dc6f6397393ea22d92fcd2cd2fcfd063a2c5319b2": {
+        "title": "STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision",
+        "link": "https://arxiv.org/abs/2508.08688",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.145025"
+      },
+      "4735eabe75ec401fe55d2c745169f70b5485c636ebc1d8a0bb100a1838a88dec": {
+        "title": "Simulating Generative Social Agents via Theory-Informed Workflow Design",
+        "link": "https://arxiv.org/abs/2508.08726",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.150861"
+      },
+      "4197a3e2bdd9dd71a2891389be75d1924267ac6cd53c6625ef13d041758a6ab4": {
+        "title": "Designing Memory-Augmented AR Agents for Spatiotemporal Reasoning in Personalized Task Assistance",
+        "link": "https://arxiv.org/abs/2508.08774",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.158792"
+      },
+      "4cc1adfc7a7205edfe1801bd0a7144384c823c4f8f68c0b1330fca3a37e08913": {
+        "title": "A Dual-Axis Taxonomy of Knowledge Editing for LLMs: From Mechanisms to Functions",
+        "link": "https://arxiv.org/abs/2508.08795",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.165660"
+      },
+      "b1030e824c5c81c757b5f6aad123144499db9d8e11d760513d1855a764ea5f67": {
+        "title": "GRainsaCK: a Comprehensive Software Library for Benchmarking Explanations of Link Prediction Tasks on Knowledge Graphs",
+        "link": "https://arxiv.org/abs/2508.08815",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.175969"
+      },
+      "a491865470c136903fbac59051fc0a812c8219758e3950308b513cf1e50407ac": {
+        "title": "Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation",
+        "link": "https://arxiv.org/abs/2508.08816",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.184403"
+      },
+      "d702c43900838f230b8a57f32e4b77188056766b8d503e630063017703dfe4cb": {
+        "title": "Silicon Minds versus Human Hearts: The Wisdom of Crowds Beats the Wisdom of AI in Emotion Recognition",
+        "link": "https://arxiv.org/abs/2508.08830",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.194433"
+      },
+      "aa5bf9c93be32f8bd4598d8c40a9dbad3b15c5cddcd59873d6f02bdf22aeb8d1": {
+        "title": "Reducing Cognitive Load in Multi-Agent Reinforcement Learning for Mathematical Problem Solving: Decoupling Reasoning and Code Generation",
+        "link": "https://arxiv.org/abs/2508.08882",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.207156"
+      },
+      "a31dc90c2494d017bbdb93238cd0b926723c31e3e529e7361255bb14320f00f6": {
+        "title": "Compass-Thinker-7B Technical Report",
+        "link": "https://arxiv.org/abs/2508.08909",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.211732"
+      },
+      "e289455e520f1319baf15ccc08158cb4b418e983d14cedc92592c809b111d2f9": {
+        "title": "Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models",
+        "link": "https://arxiv.org/abs/2508.08926",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.222374"
+      },
+      "4c2b395a86e7dac4ad34528305196b608c9fa7e07cd0ac1926698c1bc8326d46": {
+        "title": "Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty",
+        "link": "https://arxiv.org/abs/2508.08992",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.233359"
+      },
+      "be42eb31b17cb2f9f5dfc00cc35199e7f4c86772e4cf34de1cfc89ba342b4eb3": {
+        "title": "Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory",
+        "link": "https://arxiv.org/abs/2508.08997",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.244428"
+      },
+      "7915d6398e2190ff6279cd84a633cbaa648e5a65990c89bf5f36cedf1f6b4e2e": {
+        "title": "Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs",
+        "link": "https://arxiv.org/abs/2508.09019",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.253787"
+      },
+      "638dd03f4505635cfc534eb966bae4fe0d94e30b5da2daabcabf932d270fae17": {
+        "title": "A First Look at Predictability and Explainability of Pre-request Passenger Waiting Time in Ridesharing Systems",
+        "link": "https://arxiv.org/abs/2508.09027",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.267350"
+      },
+      "4e3bd0ae38bdd393390dbc96a508a23e5495acd065ddc69e8ed236564a6ed268": {
+        "title": "CVCM Track Circuits Pre-emptive Failure Diagnostics for Predictive Maintenance Using Deep Neural Networks",
+        "link": "https://arxiv.org/abs/2508.09054",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.280252"
+      },
+      "d85420b8554f34705c76cf0513335d9b6fbe8912b1d3695b76382199552f6b9f": {
+        "title": "SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling",
+        "link": "https://arxiv.org/abs/2508.09105",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.291177"
+      },
+      "e66ad4ff47931cceca61a8379945fc20d3436fd60f34c3a226d769c3c40e66b5": {
+        "title": "OpenCUA: Open Foundations for Computer-Use Agents",
+        "link": "https://arxiv.org/abs/2508.09123",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.298395"
+      },
+      "27b2d1fc2457e8650c953380a991cfd25097e591b9e2c00cafaf09bc71ee7f28": {
+        "title": "BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair",
+        "link": "https://arxiv.org/abs/2508.09129",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.310174"
+      },
+      "ff459a7f9e617423a495367ae9cd1e11ac349f6670faabf5096319de06df3dbb": {
+        "title": "A New Parallel Cooperative Landscape Smoothing Algorithm and Its Applications on TSP and UBQP",
+        "link": "https://arxiv.org/abs/2401.03237",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:24.323296"
       }
     },
     "Technology": {
-      "c40e9400e8b89f915aa577f67c3d24d8ccc436ff5e3d41dc00b5fb8d12179f46": {
-        "title": "别光看Claude多厉害！Anthropic内部拉响警报：“AI的经济冲击比想象的更危险！”",
-        "link": "https://www.infoq.cn/article/KVrHoJWDrdo8RERblOvG?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008557"
-      },
-      "382d0f54bfc2e44532a10fa4752510bf90b1397bcedf5dbe11d872abae88c6a8": {
-        "title": "微软发布Azure DevOps MCP服务器公开预览版",
-        "link": "https://www.infoq.cn/article/6T5SQjUSSRFAIpvpttia?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Jul 2025 17:51:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008634"
-      },
-      "7af10e1f666e371b8aba2431fd48b51d8d71f11dd50297521675217de8f1053b": {
-        "title": "Docker Desktop 4.42 发布，带来原生IPv6、集成的MCP工具包以及AI模型打包功能",
-        "link": "https://www.infoq.cn/article/KWgBWoIJVwaLLabdkiKN?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Jul 2025 17:33:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008591"
-      },
-      "3d6105ea10e2883d786f32c9a5892e1877a46f5ca1d27eef044feeaae306bf3d": {
-        "title": "OpenTofu 1.10发布了OCI注册表支持和一个用于AI基础架构即代码的MCP服务器",
-        "link": "https://www.infoq.cn/article/QFQ2SpuURjSGhMJFfCFG?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Jul 2025 17:30:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008602"
-      },
-      "a83c6a8093ef74aab9f17d9b17f417e275dad82f92805674d73975e3c8af2536": {
-        "title": "通过结对编程提升开发速度、专注度和心流状态",
-        "link": "https://www.infoq.cn/article/pFZSwSykwleS94jNrs6p?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Jul 2025 17:25:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008662"
-      },
-      "cde9b866ba944d687daaabeac36303049ed190361c2439bbd57dee8e07269d12": {
-        "title": "Meta将移动端消息基础设施从C迁移到Rust",
-        "link": "https://www.infoq.cn/article/DsrGEWp7O466J93imCy6?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Jul 2025 17:22:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008575"
-      },
-      "c83ac7045d182756f12893282a5001f2c058fa0e0448f23c7945686a818aa118": {
-        "title": "对话索尼中国：“One Sony”在华第一步，融入年轻世代与ACG社群",
-        "link": "https://www.tmtpost.com/7624672.html",
-        "published_date": "Sun, 13 Jul 2025 22:20:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.883344"
-      },
-      "21cde001ad5cb0decb0e01f02ef0f1997b9dc36da185ab3df58726366f31c6a7": {
-        "title": "华为撑腰，岚图出牌，21.99万的FREE+上桌了",
-        "link": "https://www.tmtpost.com/7624691.html",
-        "published_date": "Sun, 13 Jul 2025 22:17:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.883778"
-      },
-      "4e58a9dc148ce98ded6f199e70f27b251f307d3fb8b289f0d08c9d5b15da5964": {
-        "title": "节能环保装备“隐形龙头”跨界并购；元力股份拟并购实控人妹妹名下新三板公司【并购一线】",
-        "link": "https://www.tmtpost.com/7624671.html",
-        "published_date": "Sun, 13 Jul 2025 21:54:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.884324"
-      },
-      "a446bc1b9ae1093ae13b1f6efe73353db334f7a368d5f94030739c5aadff7aea": {
-        "title": "新加坡，挤满了“跳”向全球的AI创业者｜SEA Frontline",
-        "link": "https://www.tmtpost.com/7624626.html",
-        "published_date": "Sun, 13 Jul 2025 19:37:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008625"
-      },
-      "0039011d6c33ea7a26f26837ae2f3324592f6a75294e16485ebf21d107dbe0a4": {
-        "title": "科技创新赋能\"新质生产力\"，驱动新能源汽车产业可持续发展",
-        "link": "https://www.tmtpost.com/7624349.html",
-        "published_date": "Sun, 13 Jul 2025 19:32:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008653"
-      },
-      "7bbf5660bef04fa2dcb4a872170a8b12a6f3cad66cb98c9a058331225dba3d52": {
-        "title": "光伏电站资产“大流转”：央企民企后退，地方国资补位",
-        "link": "https://www.tmtpost.com/7624525.html",
-        "published_date": "Sun, 13 Jul 2025 19:32:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.886121"
-      },
-      "12a14de556cac2bea28496dc91c4dfbc2b06b175e0a65c9059f9426880f4033d": {
-        "title": "9 Best Electric Scooters (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/gallery/best-electric-scooters/",
-        "published_date": "Sun, 13 Jul 2025 14:01:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.887199"
-      },
-      "a8e0f6639846218bdd94f5745d6cb183e145d835883bf6c12ba1532c34bd7492": {
-        "title": "Garmin Forerunner 970 Review: A Very Extra Running Watch",
-        "link": "https://www.wired.com/review/garmin-forerunner-970/",
-        "published_date": "Sun, 13 Jul 2025 13:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.888486"
-      },
-      "e3278d8a2403dc72e2bf923517d52c50ab35d50f2741349e586863fa16f06eaa": {
-        "title": "LG Gram Pro 16 (2025) Review: Thin Is Still In",
-        "link": "https://www.wired.com/review/lg-gram-pro-16-2025/",
-        "published_date": "Sun, 13 Jul 2025 12:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.889726"
-      },
-      "115c764676bba1cf01da70703aec27af43270d3f4b6e328a47834df4072b6eb7": {
-        "title": "For Algorithms, Memory Is a Far More Powerful Resource Than Time",
-        "link": "https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/",
-        "published_date": "Sun, 13 Jul 2025 11:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008614"
-      },
-      "07b1fa662098f7321afa47390b3334920e2f41d0a1811d834ce378f12640a31a": {
-        "title": "What Makes a Car Lovable? It's Not the Tech, It's the Cup Holders",
-        "link": "https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/",
-        "published_date": "Sun, 13 Jul 2025 10:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.893262"
-      },
-      "433b2134bf8b5dcbd4ff57b72c7d6b05616c5dd6de1d8623cfde99d97da63e85": {
-        "title": "These LGBTQ+ Archives Defy Erasure, One Memory at a Time",
-        "link": "https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/",
-        "published_date": "Sun, 13 Jul 2025 09:30:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.895025"
-      },
-      "9adcef634ea7d06c6c59627bf5fe5cf059069283061d1dbb8900abf0b3d9b8e4": {
-        "title": "Everything We Know About the Interstellar Object 3I/ATLAS",
-        "link": "https://www.wired.com/story/heres-what-we-know-about-the-third-interstellar-object-in-history/",
-        "published_date": "Sun, 13 Jul 2025 09:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.896894"
-      },
-      "67f8a9d816e9f2ab8162731d74cc959aed7009ba002a5e1c12cb1918d1fe98d6": {
-        "title": "Foldables are in and suddenly really thin",
-        "link": "https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer",
-        "published_date": "Sun, 13 Jul 2025 12:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.008643"
-      },
-      "c82e19529c7dfa86facd5e189dbac4ba29ab7696060708e8cc5e094832fb49d3": {
-        "title": "Why GM’s CEO is still betting on electric vehicles (and racing)",
-        "link": "https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump",
-        "published_date": "Sun, 13 Jul 2025 11:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:20.901009"
-      },
       "2c8e192e1dddaffeade10591ac5644bcb848433eafaf4ca1d7eb385bd94d2545": {
         "title": "英伟达：从显卡巨头到AI霸主",
         "link": "https://www.tmtpost.com/7624742.html",
@@ -24110,63 +24266,183 @@
         "link": "https://sspai.com/post/101781",
         "published_date": "Tue, 12 Aug 2025 17:47:00 GMT",
         "first_seen": "2025-08-12T23:20:51.097020"
+      },
+      "f75ff7c6a6ce1b747405b35c0558b6b167bc2e07e086febc55977c4ebabcc878": {
+        "title": "AI Native 应用的新范式，Trae在Coding Agent中的工程实践｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/A6mSqtblyrHSNRxdV8b5?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 13:00:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833099"
+      },
+      "87a8c21747f301cfa2a782a0f8cdba93bbb7c8c53a155bbb16943da83eabb145": {
+        "title": "Amazon EVS为企业提供了VMware工作负载迁移的新途径",
+        "link": "https://www.infoq.cn/article/Mp7GAYrCXKXBqUc0m7u6?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 12:30:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.224039"
+      },
+      "0479748b42d40475bc5047e73659571b62745aaa78313b31432ba8bc0f94c068": {
+        "title": "AI Agent + AI Profiling，构建高效智能运维双支柱｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/iEXovhQLPsCtMvYkLHKN?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.224262"
+      },
+      "1b540bcefc6b9bbc183fc44668acf28775336505c36270a5ec2997ed92e6e694": {
+        "title": "新的Rust客户端致力于实现基于Aerospike的安全、高性能应用",
+        "link": "https://www.infoq.cn/article/C7yEUQKlsJpfmcRvXTFB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 11:40:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.224549"
+      },
+      "886e510f3ef78ca0a10c16422ac43108a4d8ed52e09a101175e1480a94bfe1b4": {
+        "title": "Cloudflare如何将Quicksilver迁移到多级缓存并处理数十亿个请求",
+        "link": "https://www.infoq.cn/article/fLgdXrTZfWM0p77fyP3W?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 11:33:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833119"
+      },
+      "6fc21b5f8bd63f8f59cb1a2df3073df534898a5a14bda15a74a50bcd683d4dc7": {
+        "title": "当未经检查的自动扩缩造成12万美元的云支出时",
+        "link": "https://www.infoq.cn/article/4EaLblFQY68uKRABrQtp?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 11:23:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833126"
+      },
+      "8d35f175f28023641a0c99517acae9d8bd935d0522d56522ed9270583b4be0ed": {
+        "title": "LLM + 安全修复实战，探索金融行业代码治理的新范式｜AICon 深圳",
+        "link": "https://www.infoq.cn/article/Lz6gsyBXUUoeL6CzCbAy?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 Aug 2025 10:49:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833110"
+      },
+      "37a5bfd1a9fed2b3a01b3bb0e3db5fc1cf37b90d993997bff4439bf4dc5b6c69": {
+        "title": "当人们怀念 GPT-4o，他们在「怀念」什么？",
+        "link": "http://www.geekpark.net/news/352648",
+        "published_date": "Wed, 13 Aug 2025 12:51:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.225944"
+      },
+      "1d134287296ec844a7f1fb27680e9ffa4339b63d5db210a2bf43578ae5ec081b": {
+        "title": "破解AI创企的「不可能三角」，解药不止「大模型」",
+        "link": "http://www.geekpark.net/news/352647",
+        "published_date": "Wed, 13 Aug 2025 12:08:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833087"
+      },
+      "ac4e44277a536e9479c98b59a110884521ed96003646d8c9046b09ba91bd4ab6": {
+        "title": "传 DeepSeek-R2 8 月发布；微信测试信用借款功能；Perplexity 要 345 亿美元收购 Chrome",
+        "link": "http://www.geekpark.net/news/352631",
+        "published_date": "Wed, 13 Aug 2025 07:59:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833137"
+      },
+      "a1e8d3d7a20aff750b8fa9db127405b4049298d42ff2a6d294372e1d43c63986": {
+        "title": "HOKA于北京三里屯开设限时体验空间；onmygame三周年品牌大秀收官；利郎上半年营收同比增长7.9%｜消研所日报",
+        "link": "https://www.tmtpost.com/7656940.html",
+        "published_date": "Wed, 13 Aug 2025 12:38:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.228372"
+      },
+      "cc0600687b49983cf3d551ce05440191a798817300cabd38353523466db660cf": {
+        "title": "The Gold Market's Wild Ride: A Four-Act Drama of Rates, Tariffs, and Trump",
+        "link": "https://www.tmtpost.com/7657871.html",
+        "published_date": "Wed, 13 Aug 2025 12:35:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.229646"
+      },
+      "1b6ca5e2fa4452893c70b0718b277747bd7c455fea1de0563c2b5cfb72f365b2": {
+        "title": "厨房里的寒冬",
+        "link": "https://www.tmtpost.com/7657429.html",
+        "published_date": "Wed, 13 Aug 2025 12:15:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.229984"
+      },
+      "20627db4cce31916bcc94ed1ea645dd9b6f6490ade9ffacda52ed1fac015f55f": {
+        "title": "仅12天消费贷贴息落地，多行业收益或将激活万亿级市场",
+        "link": "https://www.tmtpost.com/7657735.html",
+        "published_date": "Wed, 13 Aug 2025 12:15:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.230564"
+      },
+      "243f67bf310dba12b7b8bbea1cb7b5918711a7552b2ba88848c2943075812d92": {
+        "title": "White House May Expand Nvidia's Chip Export Deal to More Companies",
+        "link": "https://www.tmtpost.com/7657822.html",
+        "published_date": "Wed, 13 Aug 2025 11:55:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833052"
+      },
+      "e03b8395f3f2070074ec9a6f7933a905ab9d90d574a34743113ad19147339ea7": {
+        "title": "华润“咽下”康佳",
+        "link": "https://www.tmtpost.com/7657331.html",
+        "published_date": "Wed, 13 Aug 2025 11:52:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.232618"
+      },
+      "3a13cc58dd7df9d7e81fffb9792db6042ce8407065ca0252d4b8698b4b80d8d1": {
+        "title": "宇树押“狗”，智元押“人”",
+        "link": "https://www.tmtpost.com/7657319.html",
+        "published_date": "Wed, 13 Aug 2025 11:51:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.233304"
+      },
+      "aa3ac29a68ae4647166bd7915c6bd1b137339ef7028fc4c0ff4d69c781642b28": {
+        "title": "TikTok Shop刮起东南风",
+        "link": "https://www.tmtpost.com/7657316.html",
+        "published_date": "Wed, 13 Aug 2025 11:51:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.234054"
+      },
+      "f20b1badd7a2dadf56d14370264630a6211caa3a631dbe73f32208e789122e15": {
+        "title": "教育消费者，老式企业家为何钟情于“爹味”发言？",
+        "link": "https://www.tmtpost.com/7657285.html",
+        "published_date": "Wed, 13 Aug 2025 11:50:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.234909"
+      },
+      "e6f59939ef380b76db75618d2853a3972bdb2d62ee69256cb3ca270e8af48505": {
+        "title": "不足1亿元投入，撬动46亿元BD，复星医药的“呼吸印钞机”真要开动了？",
+        "link": "https://www.tmtpost.com/7657268.html",
+        "published_date": "Wed, 13 Aug 2025 11:50:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.236126"
+      },
+      "2733c90ec41c4cd4ea100052480d800f017352abc784189eb1eaccb3a6635231": {
+        "title": "The $7 Trillion Question: Which Path Will Win China's Robot Race?",
+        "link": "https://www.tmtpost.com/7657782.html",
+        "published_date": "Wed, 13 Aug 2025 11:27:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833076"
+      },
+      "2a6663e92d366c2ad2aa04b1663a259b1b73e9def35ef530680fb06fa1417f00": {
+        "title": "即将开源！华为发布AI推理黑科技，已在中国银联落地",
+        "link": "https://www.tmtpost.com/7657757.html",
+        "published_date": "Wed, 13 Aug 2025 11:23:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833031"
+      },
+      "083efb19034b9bb94a722d7a41df75eea2ce19de17131e36deb2c27db59c9e11": {
+        "title": "Trump's U-Turn on Intel CEO Reflects Deepening Anxiety in the U.S. Chip Industry",
+        "link": "https://www.tmtpost.com/7657738.html",
+        "published_date": "Wed, 13 Aug 2025 11:05:00 GMT",
+        "first_seen": "2025-08-13T05:24:18.833065"
+      },
+      "02e7ea70d380f42824ebe933d30d9ad3f728177ff07794fd58cb0c479b3e3513": {
+        "title": "历险十年，二次元勇者走向「王座」",
+        "link": "https://www.tmtpost.com/7657191.html",
+        "published_date": "Wed, 13 Aug 2025 11:03:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.242631"
+      },
+      "a5f53228ecd881ef4673c62fd7c7a172b0f1a3f48605cc5e73fa25e42f616e89": {
+        "title": "宇树科技王兴兴发“暴论”，对智驾有什么参考？",
+        "link": "https://www.tmtpost.com/7657196.html",
+        "published_date": "Wed, 13 Aug 2025 11:03:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.243643"
+      },
+      "ca348f37c7c64320cfc15e1501cf79a4b440b66a63d146a4185c7706abc0ed42": {
+        "title": "洗地机争夺战：谁狂飙？谁掉队？你的体验打几分？",
+        "link": "https://www.tmtpost.com/7657650.html",
+        "published_date": "Wed, 13 Aug 2025 11:03:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.244837"
+      },
+      "05b8b70ac2bf2c86fa093ca28666c3f1678cdb770ab5475d096b664b7116ce2f": {
+        "title": "Liquid Glass 继续调整，iOS 26 Beta 近期更新值得关注的变化",
+        "link": "https://sspai.com/post/101792",
+        "published_date": "Wed, 13 Aug 2025 11:31:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.247088"
+      },
+      "b0a9fdd06556bf58d418aa1427789c026a8f0e758dcee8276ca8bc36928545d4": {
+        "title": "派早报：美光回应中国区业务调整、Matter 1.4.2 版本发布等",
+        "link": "https://sspai.com/post/101795",
+        "published_date": "Wed, 13 Aug 2025 08:00:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.248973"
+      },
+      "ee34371d4a804dce0e8473fc61b1a735f41435ff22f697a999a0f62f02d303ff": {
+        "title": "Elon Musk says he’s suing Apple for rigging App Store rankings",
+        "link": "https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store",
+        "published_date": "Wed, 13 Aug 2025 00:04:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.252080"
       }
     },
     "Finance": {
-      "1483547fb8635ee59f32a15d67c0108a26a3a944a188b46b476179a19351560a": {
-        "title": "U.S. stock futures slip after Trump’s latest tariff threats; bitcoin hits new high",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-after-trumps-latest-tariff-threats-bitcoin-hits-new-high-4eb5ee8c?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 23:04:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.056326"
-      },
-      "e619d407e1792ab011210c70733031e371508f6bb7f2d608d1246b85f48626d1": {
-        "title": "How to keep your kid’s Roblox or ‘Fortnite’ habit from wrecking your credit-card bill",
-        "link": "https://www.marketwatch.com/story/how-to-keep-your-kids-roblox-or-fortnite-habit-from-wrecking-your-credit-card-bill-220ea139?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 21:22:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.056705"
-      },
-      "fed788496b4e679f2c81cdd17a0861840545c71d95cbae3ce2f1ba9288eda01e": {
-        "title": "Inflation is finally supposed to show a tariff-related increase. The Fed still might cut interest rates anyway.",
-        "link": "https://www.marketwatch.com/story/inflation-is-finally-supposed-to-show-a-tariff-related-increase-the-fed-still-might-cut-interest-rates-anyway-217232e8?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 19:43:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.057375"
-      },
-      "291cc8a0edbd755077f4654621d89ce834038ddf48a7c09109b971d381f21b2b": {
-        "title": "Where’s the inflation from tariffs? What stocks and earnings tell us about rising prices with June CPI on deck.",
-        "link": "https://www.marketwatch.com/story/wheres-the-inflation-from-tariffs-what-stocks-and-earnings-tell-us-about-rising-prices-with-june-cpi-on-deck-767f85d7?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 16:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.058516"
-      },
-      "a8d8a1ef1603967c7faba1311a3b2b3d3ebd58cac241f3fb28e789e8bdde0207": {
-        "title": "Ready for quail eggs, Dubai chocolate and $400 pineapples? 7 gourmet food trends to watch this year.",
-        "link": "https://www.marketwatch.com/story/a-400-pineapple-heres-whats-coming-for-grocery-shoppers-with-gourmet-tastes-c157ee27?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 15:16:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.059763"
-      },
-      "4a6556d9da2116fed0e47ce8aeece32854e645d79036cd554fb36ae1ff56ec87": {
-        "title": "McDonald’s is spicing up its McMuffins. Will hot-food loving Gen Z and millennials bite?",
-        "link": "https://www.marketwatch.com/story/can-mcdonalds-new-spicy-mcmuffin-cash-in-on-the-fiery-flavor-boom-or-is-it-just-a-peppery-gimmick-216f2139?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 15:12:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.061393"
-      },
-      "44d58980eb0864184bb3644dfa0767d7b4c2f139127d1d7b51f097c5f6509580": {
-        "title": "Earnings this week will be the first test of markets’ newfound trade-war nonchalance",
-        "link": "https://www.marketwatch.com/story/earnings-this-week-will-be-the-first-test-of-markets-newfound-trade-war-nonchalance-d28c127c?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Jul 2025 14:00:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.063033"
-      },
-      "ceff4b72d7be585cd7dce8235ff9835ec7279659b849f5a93ecc57cdb8078436": {
-        "title": "U.S. stock futures slip after Trump’s latest tariff threats",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c072c40-b0ad-4a1a-ad67-3eede6bf56cf&mod=mw_rss_bulletins",
-        "published_date": "Sun, 13 Jul 2025 22:16:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.064382"
-      },
-      "ea26ce852af80e0cec2f3e55b1d8618e27755fbd33cad52d578c10c100833311": {
-        "title": "Timing of Fed's rate cut may depend on this week's consumer-price report",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d88b83da-c656-4575-9d64-beabb325edc9&mod=mw_rss_bulletins",
-        "published_date": "Sun, 13 Jul 2025 20:28:00 GMT",
-        "first_seen": "2025-07-13T23:21:40.066401"
-      },
       "ec023b7ff2c57df7079540671e6d3c49aeb84fbe4646a922f4ef15cd723dc733": {
         "title": "‘Story’ stocks are smoking hot in 2025. This is how it could end badly for investors.",
         "link": "https://www.marketwatch.com/story/story-stocks-are-smoking-hot-in-2025-this-is-how-it-could-end-badly-for-investors-e12c64f4?mod=mw_rss_topstories",
@@ -27472,12 +27748,36 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=702aa174-f54e-46a8-b3c1-7c1199a9b862&mod=mw_rss_bulletins",
         "published_date": "Tue, 12 Aug 2025 12:24:00 GMT",
         "first_seen": "2025-08-12T23:20:50.970399"
+      },
+      "a0b549a74d7e811f53df1f79a3530374a9bd761ae46685b23527f0fe5b5a9688": {
+        "title": "Taylor Swift’s last record made up more than 6% of all album sales in 2024. Will ‘The Life of a Showgirl’ do even better?",
+        "link": "https://www.marketwatch.com/story/taylor-swifts-last-record-made-up-more-than-6-of-all-album-sales-in-2024-will-the-life-of-a-showgirl-do-even-better-3756ca28?mod=mw_rss_topstories",
+        "published_date": "Wed, 13 Aug 2025 02:01:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.200515"
+      },
+      "eb412dc05ffa4494e743879929327ddc87af6aadd3fcd884355b42d08cc19f56": {
+        "title": "Ford is readying a ‘compelling EV.’ Will that be enough for the stock?",
+        "link": "https://www.marketwatch.com/story/ford-is-readying-a-compelling-ev-will-that-be-enough-for-the-stock-732626e3?mod=mw_rss_topstories",
+        "published_date": "Wed, 13 Aug 2025 00:57:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.200860"
+      },
+      "b3b2d04e22431935d922186f1a536b43739bef849dde1ba8bbd82f7bb46a47ee": {
+        "title": "Intel’s CEO seems to have made nice with Trump. What comes next?",
+        "link": "https://www.marketwatch.com/story/intels-ceo-seems-to-have-made-nice-with-trump-what-comes-next-1c9a69d0?mod=mw_rss_topstories",
+        "published_date": "Wed, 13 Aug 2025 00:54:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.201431"
+      },
+      "bc371ba0840d9caf72470e1105019f17983d1f531171b805b2a363b55726de76": {
+        "title": "Opinion: Retirees are now at risk from politicized inflation data",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=46f02132-75ab-48f1-9a68-6522b39773df&mod=mw_rss_bulletins",
+        "published_date": "Wed, 13 Aug 2025 01:02:00 GMT",
+        "first_seen": "2025-08-13T05:23:49.202250"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-12T23:20:32.273074",
-    "Technology": "2025-08-12T23:21:24.270385",
-    "Finance": "2025-08-12T23:20:50.972794"
+    "AI": "2025-08-13T05:23:49.191899",
+    "Technology": "2025-08-13T05:24:18.835480",
+    "Finance": "2025-08-13T05:23:49.209590"
   }
 }
