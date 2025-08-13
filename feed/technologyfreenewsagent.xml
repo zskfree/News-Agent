@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 Aug 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 05:24:18 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 08:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 08:35:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>即将开源！华为发布AI推理黑科技，已在中国银联落地</title>
-      <link>https://www.tmtpost.com/7657757.html</link>
-      <description>&lt;![CDATA[即将开源！华为发布AI推理黑科技，已在中国银联落地]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7657757.html</guid>
+      <title>AI 时代操作系统的三重叙事：技术重构、国产化突围与生态共建</title>
+      <link>https://www.infoq.cn/article/mUKmzXsUfMt0f4wJ2K0K?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 时代操作系统的三重叙事：技术重构、国产化突围与生态共建]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mUKmzXsUfMt0f4wJ2K0K?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>White House May Expand Nvidia's Chip Export Deal to More Companies</title>
-      <link>https://www.tmtpost.com/7657822.html</link>
-      <description>&lt;![CDATA[White House May Expand Nvidia's Chip Export Deal to More Companies]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 11:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7657822.html</guid>
+      <title>从被动服务到主动任务，Agentic AI 在 B 端商业化的应用探索｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/DAzPq1G1vfDRtsTVmPjX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从被动服务到主动任务，Agentic AI 在 B 端商业化的应用探索｜AICon 深圳]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DAzPq1G1vfDRtsTVmPjX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump's U-Turn on Intel CEO Reflects Deepening Anxiety in the U.S. Chip Industry</title>
-      <link>https://www.tmtpost.com/7657738.html</link>
-      <description>&lt;![CDATA[Trump's U-Turn on Intel CEO Reflects Deepening Anxiety in the U.S. Chip Industry]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7657738.html</guid>
+      <title>Nvidia Bets on Humanoid Robots With Galbot, Unitree Partnerships to Tap Into Trillion-Dollar Robot Market</title>
+      <link>https://www.tmtpost.com/7658039.html</link>
+      <description>&lt;![CDATA[Nvidia Bets on Humanoid Robots With Galbot, Unitree Partnerships to Tap Into Trillion-Dollar Robot Market]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7658039.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The $7 Trillion Question: Which Path Will Win China's Robot Race?</title>
-      <link>https://www.tmtpost.com/7657782.html</link>
-      <description>&lt;![CDATA[The $7 Trillion Question: Which Path Will Win China's Robot Race?]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7657782.html</guid>
+      <title>Huawei Debuts AI Inference Tech With China UnionPay, Promises 90% Cut in First-Token Latency</title>
+      <link>https://www.tmtpost.com/7657966.html</link>
+      <description>&lt;![CDATA[Huawei Debuts AI Inference Tech With China UnionPay, Promises 90% Cut in First-Token Latency]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7657966.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>破解AI创企的「不可能三角」，解药不止「大模型」</title>
-      <link>http://www.geekpark.net/news/352647</link>
-      <description>&lt;![CDATA[破解AI创企的「不可能三角」，解药不止「大模型」]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352647</guid>
+      <title>AI Startup Perplexity Makes $34.5 Billion Bid for Google's Chrome</title>
+      <link>https://www.tmtpost.com/7658008.html</link>
+      <description>&lt;![CDATA[AI Startup Perplexity Makes $34.5 Billion Bid for Google's Chrome]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7658008.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Native 应用的新范式，Trae在Coding Agent中的工程实践｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/A6mSqtblyrHSNRxdV8b5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Native 应用的新范式，Trae在Coding Agent中的工程实践｜AICon 深圳]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/A6mSqtblyrHSNRxdV8b5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>ChatGPT won’t remove old models without warning after GPT-5 backlash</title>
+      <link>https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement</link>
+      <description>&lt;![CDATA[ChatGPT won’t remove old models without warning after GPT-5 backlash]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>LLM + 安全修复实战，探索金融行业代码治理的新范式｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/Lz6gsyBXUUoeL6CzCbAy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LLM + 安全修复实战，探索金融行业代码治理的新范式｜AICon 深圳]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Lz6gsyBXUUoeL6CzCbAy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Figma如何使用AI来支持而不是取代设计师</title>
+      <link>https://www.infoq.cn/article/o9yuaDEUFp11qQGKN7KS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Figma如何使用AI来支持而不是取代设计师]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/o9yuaDEUFp11qQGKN7KS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare如何将Quicksilver迁移到多级缓存并处理数十亿个请求</title>
-      <link>https://www.infoq.cn/article/fLgdXrTZfWM0p77fyP3W?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare如何将Quicksilver迁移到多级缓存并处理数十亿个请求]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fLgdXrTZfWM0p77fyP3W?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达帝国的继承者们：蛋糕、红酒和四万亿</title>
+      <link>https://www.tmtpost.com/7657637.html</link>
+      <description>&lt;![CDATA[英伟达帝国的继承者们：蛋糕、红酒和四万亿]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7657637.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当未经检查的自动扩缩造成12万美元的云支出时</title>
-      <link>https://www.infoq.cn/article/4EaLblFQY68uKRABrQtp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当未经检查的自动扩缩造成12万美元的云支出时]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4EaLblFQY68uKRABrQtp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>小马智行：增长9倍的业务不是重点，因为这项业务收入增3倍</title>
+      <link>https://www.tmtpost.com/7657898.html</link>
+      <description>&lt;![CDATA[小马智行：增长9倍的业务不是重点，因为这项业务收入增3倍]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7657898.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>传 DeepSeek-R2 8 月发布；微信测试信用借款功能；Perplexity 要 345 亿美元收购 Chrome</title>
-      <link>http://www.geekpark.net/news/352631</link>
-      <description>&lt;![CDATA[传 DeepSeek-R2 8 月发布；微信测试信用借款功能；Perplexity 要 345 亿美元收购 Chrome]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 07:59:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352631</guid>
+      <title>零跑、小米、问界都火了，下半年轮到谁？</title>
+      <link>https://www.tmtpost.com/7657582.html</link>
+      <description>&lt;![CDATA[零跑、小米、问界都火了，下半年轮到谁？]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 13:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7657582.html</guid>
       <category>Technology</category>
     </item>
   </channel>

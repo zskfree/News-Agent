@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-13 05:23
+**最后更新时间**: 2025-08-13 08:34
+
+---
+
+## 🆕 最新更新 (2025-08-13 08:34)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why ‘Big Short’ investor Steve Eisman remains a stubborn bull — and the next big trade he sees coming](https://www.marketwatch.com/story/why-big-short-investor-steve-eisman-remains-a-stubborn-bull-and-the-next-big-trade-he-sees-coming-92188c7b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 07:13
+
+#### [​Trump has perfected a tax on corporate America — just don’t call it a tax. Here’s how it could affect stocks.](https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-12 22:09
 
 ---
 

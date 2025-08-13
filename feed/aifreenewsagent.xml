@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 Aug 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 05:23:49 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 08:34:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent狂欢下的冷思考：为什么说Data&amp;AI数据基础设施，才是AI时代Infra新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-8</link>
-      <description>&lt;![CDATA[Agent狂欢下的冷思考：为什么说Data&amp;AI数据基础设施，才是AI时代Infra新范式]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-8</guid>
+      <title>偷数据的AI公司被抓到了</title>
+      <link>https://www.qbitai.com/2025/08/321623.html</link>
+      <description>&lt;![CDATA[偷数据的AI公司被抓到了]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321623.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI顶会模式出了问题？ 「不发表，就出局」的恶性循环，正在压垮整个AI学界</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-7</link>
-      <description>&lt;![CDATA[AI顶会模式出了问题？ 「不发表，就出局」的恶性循环，正在压垮整个AI学界]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-7</guid>
+      <title>DeepMind哈萨比斯：智能体可以在Genie实时生成的世界里运行</title>
+      <link>https://www.qbitai.com/2025/08/321609.html</link>
+      <description>&lt;![CDATA[DeepMind哈萨比斯：智能体可以在Genie实时生成的世界里运行]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321609.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>研究者警告：强化学习暗藏「策略悬崖」危机，AI对齐的根本性挑战浮现</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-6</link>
-      <description>&lt;![CDATA[研究者警告：强化学习暗藏「策略悬崖」危机，AI对齐的根本性挑战浮现]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-6</guid>
+      <title>倒反天罡！AI新贵345亿美元报价谷歌浏览器，此前碰瓷Tiktok未果</title>
+      <link>https://www.qbitai.com/2025/08/321594.html</link>
+      <description>&lt;![CDATA[倒反天罡！AI新贵345亿美元报价谷歌浏览器，此前碰瓷Tiktok未果]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 06:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321594.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI没开源的gpt-oss基础模型，他去掉强化学习逆转出来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-4</link>
-      <description>&lt;![CDATA[OpenAI没开源的gpt-oss基础模型，他去掉强化学习逆转出来了]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-4</guid>
+      <title>2025 Google 开发者大会：赋能开发者创新，全面助力开发提速</title>
+      <link>https://www.qbitai.com/2025/08/321579.html</link>
+      <description>&lt;![CDATA[2025 Google 开发者大会：赋能开发者创新，全面助力开发提速]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 06:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321579.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI和奥特曼将投资一家脑机接口公司，直接与马斯克的Neuralink竞争</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-2</link>
-      <description>&lt;![CDATA[OpenAI和奥特曼将投资一家脑机接口公司，直接与马斯克的Neuralink竞争]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-2</guid>
+      <title>靠AI破解癌症，初创公司融下3000万刀！新目标：建10亿单细胞数据集</title>
+      <link>https://www.qbitai.com/2025/08/321544.html</link>
+      <description>&lt;![CDATA[靠AI破解癌症，初创公司融下3000万刀！新目标：建10亿单细胞数据集]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 05:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321544.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多模态大脑建模技术迈入新纪元：Meta 10亿参数模型获Algonauts 2025大脑建模竞赛冠军</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-5</link>
-      <description>&lt;![CDATA[多模态大脑建模技术迈入新纪元：Meta 10亿参数模型获Algonauts 2025大脑建模竞赛冠军]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 12:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>6秒造一个「视频博主」，Pika让一切图片开口说话</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-3</link>
-      <description>&lt;![CDATA[6秒造一个「视频博主」，Pika让一切图片开口说话]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond Ordinal Preferences: Why Alignment Needs Cardinal Human Feedback</title>
-      <link>https://arxiv.org/abs/2508.08486</link>
-      <description>&lt;![CDATA[Beyond Ordinal Preferences: Why Alignment Needs Cardinal Human Feedback]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.08486</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Topos Theory for Generative AI and LLMs</title>
-      <link>https://arxiv.org/abs/2508.08293</link>
-      <description>&lt;![CDATA[Topos Theory for Generative AI and LLMs]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.08293</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>大型语言模型稳定强化学习的新路径：几何平均策略优化GMPO</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13</link>
-      <description>&lt;![CDATA[大型语言模型稳定强化学习的新路径：几何平均策略优化GMPO]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13</guid>
+      <title>26岁陶中恺教授，加盟法国数学象牙塔</title>
+      <link>https://www.qbitai.com/2025/08/321547.html</link>
+      <description>&lt;![CDATA[26岁陶中恺教授，加盟法国数学象牙塔]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 05:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321547.html</guid>
       <category>AI</category>
     </item>
   </channel>

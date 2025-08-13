@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-13 05:23
+**最后更新时间**: 2025-08-13 08:34
+
+---
+
+## 🆕 最新更新 (2025-08-13 08:34)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 时代操作系统的三重叙事：技术重构、国产化突围与生态共建](https://www.infoq.cn/article/mUKmzXsUfMt0f4wJ2K0K?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 16:22
+
+#### [Figma如何使用AI来支持而不是取代设计师](https://www.infoq.cn/article/o9yuaDEUFp11qQGKN7KS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 16:00
+
+#### [从被动服务到主动任务，Agentic AI 在 B 端商业化的应用探索｜AICon 深圳](https://www.infoq.cn/article/DAzPq1G1vfDRtsTVmPjX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 15:00
+
+#### [TRAE首场Meetup：8月16日，期待与你在北京相聚](https://www.infoq.cn/article/Zq9CUZNe2ucQxBqg4KKo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 14:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [突破安全性困局，国产新药逆袭这个MNC忽视的市场](https://www.tmtpost.com/7657794.html)
+**发布时间**: 2025-08-13 16:22
+
+#### [小马智行：增长9倍的业务不是重点，因为这项业务收入增3倍](https://www.tmtpost.com/7657898.html)
+**发布时间**: 2025-08-13 16:22
+
+#### [瑞幸咖啡兴奋不了自己人](https://www.tmtpost.com/7657786.html)
+**发布时间**: 2025-08-13 16:18
+
+#### [Nvidia Bets on Humanoid Robots With Galbot, Unitree Partnerships to Tap Into Trillion-Dollar Robot Market](https://www.tmtpost.com/7658039.html)
+**发布时间**: 2025-08-13 15:25
+
+#### [8月13日A股分析：沪指涨0.48%报3683.46点，两市合计成交21509.37亿元，资金流出最多的行业板块为半导体](https://www.tmtpost.com/7658018.html)
+**发布时间**: 2025-08-13 15:18
+
+#### [大厂离职后一个人做独游七年，45岁他终于找到自己的“桃花源”](https://www.tmtpost.com/7657669.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [酒店“湘军”龙头终于走出湖南市场](https://www.tmtpost.com/7657660.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [一个00后，接管400亿](https://www.tmtpost.com/7657649.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [英伟达帝国的继承者们：蛋糕、红酒和四万亿](https://www.tmtpost.com/7657637.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [帕金森病为何没有特效药？](https://www.tmtpost.com/7657749.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [暴涨14倍！2元“降温神器”火了，有商家半年卖5000万](https://www.tmtpost.com/7657631.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [黄仁勋的“亲密战友”，也想去香港敲钟了](https://www.tmtpost.com/7652817.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [AMD降速，“芯片女王”败给了川普？](https://www.tmtpost.com/7651320.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [潮玩风起，阅文更能赚钱了](https://www.tmtpost.com/7657878.html)
+**发布时间**: 2025-08-13 15:03
+
+#### [AI Startup Perplexity Makes $34.5 Billion Bid for Google's Chrome](https://www.tmtpost.com/7658008.html)
+**发布时间**: 2025-08-13 14:58
+
+#### [Huawei Debuts AI Inference Tech With China UnionPay, Promises 90% Cut in First-Token Latency](https://www.tmtpost.com/7657966.html)
+**发布时间**: 2025-08-13 14:31
+
+#### [Intel Stock Rises Over 5% as Trump Softens Tone on CEO, Touting His Success following Meeting](https://www.tmtpost.com/7657930.html)
+**发布时间**: 2025-08-13 13:57
+
+#### [零跑、小米、问界都火了，下半年轮到谁？](https://www.tmtpost.com/7657582.html)
+**发布时间**: 2025-08-13 13:47
+
+#### [“科技湘军”的AI新战事，万兴喵影成剪映“平替”？](https://www.tmtpost.com/7657443.html)
+**发布时间**: 2025-08-13 13:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [深入 Nothing Phone (3)：这是 2025 年最好玩的手机](https://sspai.com/post/101761)
+**发布时间**: 2025-08-13 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 上新｜在 Edge 浏览器里，我第一次感受到了 AI 的「人味」](http://www.geekpark.net/news/352656)
+**发布时间**: 2025-08-13 14:10
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [ChatGPT won’t remove old models without warning after GPT-5 backlash](https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement)
+**发布时间**: 2025-08-13 07:30
 
 ---
 
