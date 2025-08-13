@@ -1,7 +1,174 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-13 08:34
+**最后更新时间**: 2025-08-13 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-13 23:20)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 和海外游戏发力，腾讯重回 7000 亿美金](http://www.geekpark.net/news/352676)
+**发布时间**: 2025-08-13 23:44
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [光库科技拟收购安捷讯加码主业，频繁“买买买”背后大股东们集体“撤退”｜并购一线](https://www.tmtpost.com/7658486.html)
+**发布时间**: 2025-08-13 23:31
+
+#### [无刷直流电机：灵巧手“最后一毫米”的市场争夺战｜行业风向标](https://www.tmtpost.com/7657934.html)
+**发布时间**: 2025-08-13 22:45
+
+#### [FPS游戏大爆，腾讯计划将《和平精英》《王者荣耀》平台化](https://www.tmtpost.com/7658454.html)
+**发布时间**: 2025-08-13 22:34
+
+#### [贵州茅台：降速换挡，多元放量为“飞天”疏压｜看财报](https://www.tmtpost.com/7658342.html)
+**发布时间**: 2025-08-13 19:48
+
+#### [光伏系储能崛起路线图：收购闪电战、自建持久战、合资合纵战](https://www.tmtpost.com/7658306.html)
+**发布时间**: 2025-08-13 19:14
+
+#### [瑞士信息与通信科技公司Archlet研发AI驱动的电子采购软件，提升企业采购智能化水平 | 瑞士创新100强](https://www.tmtpost.com/7657929.html)
+**发布时间**: 2025-08-13 19:13
+
+#### [达美乐“30分钟必达”完美叙事下，暗藏裂痕](https://www.tmtpost.com/7657712.html)
+**发布时间**: 2025-08-13 19:13
+
+#### [超过上海，重庆冲成消费第一城](https://www.tmtpost.com/7657764.html)
+**发布时间**: 2025-08-13 19:13
+
+#### [独家：484个美妆品牌跌了！](https://www.tmtpost.com/7658092.html)
+**发布时间**: 2025-08-13 19:03
+
+#### [昆仑万维UniPic 2.0“小钢炮”模型炸场，一个模型搞定理解+生成+编辑](https://www.tmtpost.com/7658076.html)
+**发布时间**: 2025-08-13 19:03
+
+#### [孙正义再不出手，OpenAI就不带他玩了](https://www.tmtpost.com/7658114.html)
+**发布时间**: 2025-08-13 19:03
+
+#### [“稀土大王”倒在了2亿债务上](https://www.tmtpost.com/7644070.html)
+**发布时间**: 2025-08-13 19:03
+
+#### [万字讲透“日本茅台”獭祭的崛起之路：中国白酒破局启示样本](https://www.tmtpost.com/7658273.html)
+**发布时间**: 2025-08-13 19:03
+
+#### [A股：向上突破3674.4点后，踏空资金或主攻两大板块？](https://www.tmtpost.com/7658274.html)
+**发布时间**: 2025-08-13 19:03
+
+#### [L4级无人驾驶，在矿车上率先实现了......](https://www.tmtpost.com/7632654.html)
+**发布时间**: 2025-08-13 18:35
+
+#### [童颜针“局中局”](https://www.tmtpost.com/7658184.html)
+**发布时间**: 2025-08-13 18:35
+
+#### [推进新型显示产业高质量发展，成都高新区加快建设“世界柔谷”](https://www.tmtpost.com/7658050.html)
+**发布时间**: 2025-08-13 18:13
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs](https://www.wired.com/story/openai-gpt5-safety/)
+**发布时间**: 2025-08-13 23:06
+
+#### [RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines](https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/)
+**发布时间**: 2025-08-13 18:07
+
+#### [Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google](https://www.wired.com/story/hassan-data-broker-opt-out-letter/)
+**发布时间**: 2025-08-13 18:00
+
+#### [GPT-5 Doesn't Dislike You—It Might Just Need a Benchmark for Emotional Intelligence](https://www.wired.com/story/gpt-5-doesnt-dislike-you-it-might-just-need-a-benchmark-for-empathy/)
+**发布时间**: 2025-08-13 18:00
+
+#### [Best Organic Mattresses (2025): Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
+**发布时间**: 2025-08-13 17:55
+
+#### [James Talarico Is on the Run](https://www.wired.com/story/james-talarico-texas-democrats-gerrymandering/)
+**发布时间**: 2025-08-13 15:00
+
+#### [6 Best Coffee Grinders For All Budgets, Tested & Approved (2025)](https://www.wired.com/gallery/best-coffee-grinders/)
+**发布时间**: 2025-08-13 14:05
+
+#### ['War of the Worlds' Isn’t Just Bad. It’s Also Shameless Tech Propaganda](https://www.wired.com/story/war-of-the-worlds-isnt-just-bad-its-also-shameless-tech-propaganda/)
+**发布时间**: 2025-08-13 14:00
+
+#### [Coffee Grinders Used to Be a Mystery. A New Device Might Solve It](https://www.wired.com/story/particle-size-analysis-to-test-the-best-coffee-grinders/)
+**发布时间**: 2025-08-13 13:38
+
+#### [10 Best Computer Monitors (2025): Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
+**发布时间**: 2025-08-13 13:00
+
+#### [Best Workout Headphones (2025), Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)
+**发布时间**: 2025-08-13 12:33
+
+#### [What Is Creatine, and Should You Be Taking Most Studied Supplement (2025)](https://www.wired.com/story/what-is-creatine/)
+**发布时间**: 2025-08-13 12:00
+
+#### [The Fairphone (Gen. 6) Review: Better Than Ever](https://www.wired.com/review/fairphone-gen-6/)
+**发布时间**: 2025-08-13 11:30
+
+#### [Samsung Smart Monitor M9 M90SF Review: The 4K OLED Hybrid](https://www.wired.com/review/samsung-smart-monitor-m9-m90sf/)
+**发布时间**: 2025-08-13 10:30
+
+#### [This Might Be the Most Massive Black Hole Ever Discovered](https://www.wired.com/story/this-is-probably-the-most-massive-black-hole-in-history-gravitational-lens/)
+**发布时间**: 2025-08-13 09:47
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Tesla&#8217;s graphics are about to get Unreal](https://www.theverge.com/news/759016/tesla-in-car-graphics-unreal-engine)
+**发布时间**: 2025-08-13 22:28
+
+#### [Kodak says it’ll figure things out and won’t shut down](https://www.theverge.com/news/758982/kodak-debt-retirement-funds)
+**发布时间**: 2025-08-13 20:52
+
+#### [Stripe apologizes for customer service agents claiming LGBTQ products were banned](https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content)
+**发布时间**: 2025-08-13 20:39
+
+#### [Is Amazon testing a cheaper color Kindle?](https://www.theverge.com/news/758951/amazon-kindle-colorsoft-leak-eink)
+**发布时间**: 2025-08-13 20:26
+
+#### [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)
+**发布时间**: 2025-08-13 20:11
+
+#### [Apple&#8217;s plan for AI could make Siri the animated center of your smart home](https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera)
+**发布时间**: 2025-08-13 19:41
+
+#### [Another Pixel 10 leak points to wireless Qi2 charging](https://www.theverge.com/news/758906/pixel-10-qi2-charging-pixelsnap-case-leak)
+**发布时间**: 2025-08-13 19:32
+
+#### [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
+**发布时间**: 2025-08-13 18:09
+
+#### [New York claims Zelle&#8217;s shoddy security enabled a billion dollars in scams](https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit)
+**发布时间**: 2025-08-13 17:39
+
+#### [Insta360&#8217;s next ultra-compact action camera is getting a redesign](https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs)
+**发布时间**: 2025-08-13 17:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [基于 DiT 大模型与字体级分割的视频字幕无痕擦除方案，助力短剧出海](https://www.infoq.cn/article/IRZ9LWexmXv7OhTNT3zl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 19:03
+
+#### [妳很了不起|《十字路口》系列视频·第二期](https://www.infoq.cn/video/R1ctVBrPqSFyj8G0VTH6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-13 18:55
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [出差的苦，别再硬吃了](http://www.huxiu.com/article/4688942.html?f=wangzhan)
+**发布时间**: 2025-08-13 18:53
+
+#### [WRC2025探秘：机器人，会是银发族的“新伙伴”吗？](http://www.huxiu.com/article/4681426.html?f=wangzhan)
+**发布时间**: 2025-08-13 17:50
+
+#### [“穷人”最爱的西餐厅萨莉亚，终于也卖不动了？](http://www.huxiu.com/article/4683354.html?f=wangzhan)
+**发布时间**: 2025-08-13 09:54
+
+#### [一个让微软40年都不敢修的BUG](http://www.huxiu.com/article/4681976.html?f=wangzhan)
+**发布时间**: 2025-08-13 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 用 TLP 解锁 Linux 笔记本的长续航体验](https://sspai.com/post/101744)
+**发布时间**: 2025-08-13 17:06
 
 ---
 

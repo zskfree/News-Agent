@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-13 08:34
+**最后更新时间**: 2025-08-13 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-13 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m confused!’ Why does President Trump want a rate cut so badly?](https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 22:57
+
+#### [Cisco’s growing AI demand sparks earnings beat, but the stock is falling](https://www.marketwatch.com/story/ciscos-growing-ai-demand-sparks-earnings-beat-but-the-stock-is-falling-3f2f9558?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 22:13
+
+#### [Why Amazon’s ‘major’ grocery expansion is bad news for delivery apps and retailers](https://www.marketwatch.com/story/why-amazons-major-grocery-expansion-is-bad-news-for-delivery-apps-and-retailers-e3d9076a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 22:08
+
+#### [What’s driving ether’s ‘catch-up trade,’ as it nears record high after bitcoin’s streak of peaks](https://www.marketwatch.com/story/whats-driving-ethers-catch-up-trade-as-it-nears-record-high-after-bitcoins-streak-of-peaks-4aa6c21d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 21:55
+
+#### [I’m a senior who barely survives on $1,300 a month. No way could I live on $1,000.](https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 21:51
+
+#### [Paramount Skydance shares prompt meme-stock comparisons with record rally](https://www.marketwatch.com/story/paramount-skydance-shares-prompt-meme-stock-comparisons-with-sharp-rally-82dce4b8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 21:11
+
+#### [Trump-Putin meeting: Here’s what their summit in Alaska could mean for oil prices](https://www.marketwatch.com/story/trump-putin-meeting-heres-what-their-summit-in-alaska-could-mean-for-oil-prices-2bac382d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 21:06
+
+#### [Will Powell use Jackson Hole speech to push back on hopes for September rate cut?](https://www.marketwatch.com/story/will-powell-use-jackson-hole-speech-to-push-back-on-hopes-for-september-rate-cut-449cba14?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 20:42
+
+#### [How Nvidia CEO Jensen Huang has become Trump’s silent partner in trade with China](https://www.marketwatch.com/story/the-china-u-s-tariff-truce-lives-on-thanks-to-nvidia-6674c808?mod=mw_rss_topstories)
+**发布时间**: 2025-08-13 20:32
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The biggest winners of the Taylor Swift-Travis Kelce podcast](https://www.marketwatch.com/bulletins/redirect/go?g=9fb7a397-15fd-4fb2-b4ef-b99f80f6fdec&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 22:39
+
+#### [Here’s what the Trump-Putin summit in Alaska could mean for oil prices](https://www.marketwatch.com/bulletins/redirect/go?g=58832c42-7159-4e15-aa4c-8b5812b0c12a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 22:23
+
+#### [Will Powell use Jackson Hole speech to push back on September rate-cut hopes?](https://www.marketwatch.com/bulletins/redirect/go?g=a74582b2-bf1a-4f26-a0ae-29013752b16e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 21:39
+
+#### [Why a jumbo Fed interest-rate cut in September would ‘come across as panicky’](https://www.marketwatch.com/bulletins/redirect/go?g=5f437149-98f3-483e-8bde-21290a75058d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 20:29
+
+#### [Dow logs back-to-back gains, S&P and Nasdaq end at new records on rate-cut hopes](https://www.marketwatch.com/bulletins/redirect/go?g=41b8cd2b-61eb-4d67-bc8a-17c79edf8f86&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 20:02
+
+#### [These are the ‘affordable luxuries’ even people trying to save can’t resist](https://www.marketwatch.com/bulletins/redirect/go?g=441ec1ad-1c82-43c1-867d-5d8163e5d0dd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 19:14
+
+#### [Dow up 400 points in final hour as stocks rise on rate-cut hopes — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=f68db6f8-1ebe-4ab9-adf1-8488b70f9384&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 19:13
+
+#### [Shares of CoinDesk operator Bullish more than double in post-IPO debut on NYSE](https://www.marketwatch.com/bulletins/redirect/go?g=8129db11-9bd6-4f0c-ace2-64fafc673a3c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 17:27
+
+#### [Shares of CoinDesk operator Bullish poised to double in post-IPO debut session](https://www.marketwatch.com/bulletins/redirect/go?g=41aa545a-9af6-4da5-82c5-980592e29793&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 15:55
+
+#### [Monthly release of U.S. jobs data will continue, insists Treasury chief Bessent](https://www.marketwatch.com/bulletins/redirect/go?g=29ab25cf-caac-4383-b7ad-3cd3d6d2b24f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 14:57
 
 ---
 

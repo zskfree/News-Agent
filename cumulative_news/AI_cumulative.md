@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-13 08:29
+**最后更新时间**: 2025-08-13 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-13 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [ToB营收双位数增长 AI加速转化为业绩动能](https://www.jiqizhixin.com/articles/2025-08-13-11)
+**发布时间**: 2025-08-13 17:54
+
+#### [腾讯Q2财报：营销服务358亿！再创新高](https://www.jiqizhixin.com/articles/2025-08-13-10)
+**发布时间**: 2025-08-13 17:52
+
+#### [告别Transformer，重塑机器学习范式：上海交大首个「类人脑」大模型诞生](https://www.jiqizhixin.com/articles/2025-08-13-9)
+**发布时间**: 2025-08-13 17:50
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A new way to test how well AI systems classify text](https://news.mit.edu/2025/new-way-test-how-well-ai-systems-classify-text-0813)
+**发布时间**: 2025-08-13 15:00
+
+#### [MIT gears up to transform manufacturing](https://news.mit.edu/2025/mit-gears-transform-manufacturing-0813)
+**发布时间**: 2025-08-13 15:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [商汤多模态大模型赋能铁路勘察设计，让70年经验“活”起来](https://www.qbitai.com/2025/08/321699.html)
+**发布时间**: 2025-08-13 13:50
+
+#### [腾讯Q2财报：营销服务358亿！再创新高](https://www.qbitai.com/2025/08/321696.html)
+**发布时间**: 2025-08-13 12:57
+
+#### [腾讯Q2财报：ToB营收双位数增长 AI加速转化为业绩动能](https://www.qbitai.com/2025/08/321689.html)
+**发布时间**: 2025-08-13 12:53
+
+#### [华人团队终结Token危机：扩散模型数据潜力超自回归三倍](https://www.qbitai.com/2025/08/321648.html)
+**发布时间**: 2025-08-13 09:19
+
+#### [阿里AI TO C业务启动近千人招聘，加速多模态模型和前沿AI应用布局](https://www.qbitai.com/2025/08/321643.html)
+**发布时间**: 2025-08-13 08:18
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The road to artificial general intelligence](https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/)
+**发布时间**: 2025-08-13 13:30
+
+#### [The Download: Trump’s golden dome, and fueling AI with nuclear power](https://www.technologyreview.com/2025/08/13/1121722/the-download-trumps-golden-dome-and-fueling-ai-with-nuclear-power/)
+**发布时间**: 2025-08-13 12:10
+
+#### [Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies](https://www.technologyreview.com/2025/08/13/1121332/trump-golden-dome-missile-defense-national-security/)
+**发布时间**: 2025-08-13 10:00
 
 ---
 

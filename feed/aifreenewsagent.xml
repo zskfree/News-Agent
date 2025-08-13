@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 Aug 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 08:34:38 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 23:20:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>偷数据的AI公司被抓到了</title>
-      <link>https://www.qbitai.com/2025/08/321623.html</link>
-      <description>&lt;![CDATA[偷数据的AI公司被抓到了]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 07:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321623.html</guid>
+      <title>ToB营收双位数增长 AI加速转化为业绩动能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-13-11</link>
+      <description>&lt;![CDATA[ToB营收双位数增长 AI加速转化为业绩动能]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepMind哈萨比斯：智能体可以在Genie实时生成的世界里运行</title>
-      <link>https://www.qbitai.com/2025/08/321609.html</link>
-      <description>&lt;![CDATA[DeepMind哈萨比斯：智能体可以在Genie实时生成的世界里运行]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321609.html</guid>
+      <title>腾讯Q2财报：营销服务358亿！再创新高</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-13-10</link>
+      <description>&lt;![CDATA[腾讯Q2财报：营销服务358亿！再创新高]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>倒反天罡！AI新贵345亿美元报价谷歌浏览器，此前碰瓷Tiktok未果</title>
-      <link>https://www.qbitai.com/2025/08/321594.html</link>
-      <description>&lt;![CDATA[倒反天罡！AI新贵345亿美元报价谷歌浏览器，此前碰瓷Tiktok未果]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 06:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321594.html</guid>
+      <title>告别Transformer，重塑机器学习范式：上海交大首个「类人脑」大模型诞生</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-13-9</link>
+      <description>&lt;![CDATA[告别Transformer，重塑机器学习范式：上海交大首个「类人脑」大模型诞生]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025 Google 开发者大会：赋能开发者创新，全面助力开发提速</title>
-      <link>https://www.qbitai.com/2025/08/321579.html</link>
-      <description>&lt;![CDATA[2025 Google 开发者大会：赋能开发者创新，全面助力开发提速]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321579.html</guid>
+      <title>A new way to test how well AI systems classify text</title>
+      <link>https://news.mit.edu/2025/new-way-test-how-well-ai-systems-classify-text-0813</link>
+      <description>&lt;![CDATA[A new way to test how well AI systems classify text]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-way-test-how-well-ai-systems-classify-text-0813</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>靠AI破解癌症，初创公司融下3000万刀！新目标：建10亿单细胞数据集</title>
-      <link>https://www.qbitai.com/2025/08/321544.html</link>
-      <description>&lt;![CDATA[靠AI破解癌症，初创公司融下3000万刀！新目标：建10亿单细胞数据集]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 05:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321544.html</guid>
+      <title>MIT gears up to transform manufacturing</title>
+      <link>https://news.mit.edu/2025/mit-gears-transform-manufacturing-0813</link>
+      <description>&lt;![CDATA[MIT gears up to transform manufacturing]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/mit-gears-transform-manufacturing-0813</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>26岁陶中恺教授，加盟法国数学象牙塔</title>
-      <link>https://www.qbitai.com/2025/08/321547.html</link>
-      <description>&lt;![CDATA[26岁陶中恺教授，加盟法国数学象牙塔]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321547.html</guid>
+      <title>商汤多模态大模型赋能铁路勘察设计，让70年经验“活”起来</title>
+      <link>https://www.qbitai.com/2025/08/321699.html</link>
+      <description>&lt;![CDATA[商汤多模态大模型赋能铁路勘察设计，让70年经验“活”起来]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321699.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华人团队终结Token危机：扩散模型数据潜力超自回归三倍</title>
+      <link>https://www.qbitai.com/2025/08/321648.html</link>
+      <description>&lt;![CDATA[华人团队终结Token危机：扩散模型数据潜力超自回归三倍]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321648.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The road to artificial general intelligence</title>
+      <link>https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/</link>
+      <description>&lt;![CDATA[The road to artificial general intelligence]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: Trump’s golden dome, and fueling AI with nuclear power</title>
+      <link>https://www.technologyreview.com/2025/08/13/1121722/the-download-trumps-golden-dome-and-fueling-ai-with-nuclear-power/</link>
+      <description>&lt;![CDATA[The Download: Trump’s golden dome, and fueling AI with nuclear power]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/13/1121722/the-download-trumps-golden-dome-and-fueling-ai-with-nuclear-power/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies</title>
+      <link>https://www.technologyreview.com/2025/08/13/1121332/trump-golden-dome-missile-defense-national-security/</link>
+      <description>&lt;![CDATA[Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies]]&gt;</description>
+      <pubDate>Wed, 13 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/13/1121332/trump-golden-dome-missile-defense-national-security/</guid>
       <category>AI</category>
     </item>
   </channel>
