@@ -1,7 +1,175 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-14 08:30
+**最后更新时间**: 2025-08-14 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-14 23:20)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [3 分钟，我学会了像鸟儿一样飞行 | New Things](http://www.geekpark.net/news/352727)
+**发布时间**: 2025-08-14 23:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [营利均增长18.5%、第二曲线加速跑，卫龙凭什么拿下年轻人？](https://www.tmtpost.com/7659985.html)
+**发布时间**: 2025-08-14 22:57
+
+#### [股价暴下跌10%，快手的故事讲不动了？](https://www.tmtpost.com/7659140.html)
+**发布时间**: 2025-08-14 19:44
+
+#### [晚发的腾讯AI先摘桃，又一个“微信级”王炸？](https://www.tmtpost.com/7659433.html)
+**发布时间**: 2025-08-14 19:44
+
+#### [阿里想进，美团想停，京东想转](https://www.tmtpost.com/7659337.html)
+**发布时间**: 2025-08-14 19:41
+
+#### [外卖大战终局：可以重建的很少，走向消失的很多](https://www.tmtpost.com/7658453.html)
+**发布时间**: 2025-08-14 19:40
+
+#### [单月投放10亿、资本支出翻倍，腾讯元宝还没突围](https://www.tmtpost.com/7659799.html)
+**发布时间**: 2025-08-14 19:40
+
+#### [AI广告新周期起，AppLovin利润狂飙，涨的为何却是汇量科技？](https://www.tmtpost.com/7659664.html)
+**发布时间**: 2025-08-14 19:33
+
+#### [AI眼镜元年，小米阿里打响入口争夺战](https://www.tmtpost.com/7659845.html)
+**发布时间**: 2025-08-14 19:23
+
+#### [China Unveils First Homegrown Commercial Electron Beam Lithography Machine](https://www.tmtpost.com/7659832.html)
+**发布时间**: 2025-08-14 18:22
+
+#### [赌徒孙正义，瞄准巴菲特](https://www.tmtpost.com/7659434.html)
+**发布时间**: 2025-08-14 18:12
+
+#### [红果“剧本新政”下的编剧生态：头部狂欢，底层哀嚎？](https://www.tmtpost.com/7659539.html)
+**发布时间**: 2025-08-14 18:12
+
+#### [淘金中东，欲望永不眠](https://www.tmtpost.com/7659712.html)
+**发布时间**: 2025-08-14 18:12
+
+#### [AI该如何商业化落地](https://www.tmtpost.com/7659746.html)
+**发布时间**: 2025-08-14 18:05
+
+#### [具身智能Scaling Law缺失：机器人界的"摩尔定律"何时诞生？](https://www.tmtpost.com/7659570.html)
+**发布时间**: 2025-08-14 18:04
+
+#### [小红书要放下对赵露思们的执念](https://www.tmtpost.com/7659624.html)
+**发布时间**: 2025-08-14 18:04
+
+#### [死亡终局？爱马仕150亿美元股权离奇失踪案](https://www.tmtpost.com/7659615.html)
+**发布时间**: 2025-08-14 17:51
+
+#### [楼市和黄金，信仰资产的“乾坤大挪移”](https://www.tmtpost.com/7659658.html)
+**发布时间**: 2025-08-14 17:51
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill](https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/)
+**发布时间**: 2025-08-14 21:23
+
+#### [Why Trump Flip-Flopped on Nvidia Selling H20 Chips to China](https://www.wired.com/story/nvidia-chips-export-controls-trump-h20-security/)
+**发布时间**: 2025-08-14 19:56
+
+#### [Inside the Biden Administration's Gamble to Freeze China’s AI Future](https://www.wired.com/story/chips-china-artificial-intelligence-controls/)
+**发布时间**: 2025-08-14 19:13
+
+#### [A DOGE AI Tool Called SweetREX Is Coming to Slash US Government Regulation](https://www.wired.com/story/sweetrex-deregulation-ai-us-government-regulation-doge/)
+**发布时间**: 2025-08-14 19:00
+
+#### [The 65 Best Movies on Disney+ Right Now (August 2025)](https://www.wired.com/story/best-movies-disney-plus/)
+**发布时间**: 2025-08-14 19:00
+
+#### [Watch Our Livestream Replay: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)
+**发布时间**: 2025-08-14 18:56
+
+#### [xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)
+**发布时间**: 2025-08-14 17:34
+
+#### [The Apple Watch Is Finally Getting Blood Oxygen Sensing Back](https://www.wired.com/story/apple-watch-blood-oxygen-sensing-is-back/)
+**发布时间**: 2025-08-14 15:49
+
+#### [Christian Militants Are Using Instagram to Recruit—and Becoming Influencers in the Process](https://www.wired.com/story/christian-militias-instagram-recruit-influencers/)
+**发布时间**: 2025-08-14 15:08
+
+#### [Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns](https://www.wired.com/story/senators-probe-cantor-fitzgerald-tariffs/)
+**发布时间**: 2025-08-14 13:30
+
+#### [REI Co-op Base Camp 6 Review: All-Weather, All-Season Family Tent](https://www.wired.com/review/rei-co-op-base-camp-6-family-tent/)
+**发布时间**: 2025-08-14 13:00
+
+#### [Can I Drink Electrolyte Water Every Day? Experts Weigh In (2025)](https://www.wired.com/story/can-i-drink-electrolyte-water-every-day/)
+**发布时间**: 2025-08-14 12:32
+
+#### [LG B5 OLED Review: Subtle Luxury](https://www.wired.com/review/lg-b5/)
+**发布时间**: 2025-08-14 12:03
+
+#### [44 Must-Have Back-to-School College Dorm Room Essentials and Gear (2025)](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
+**发布时间**: 2025-08-14 11:39
+
+#### [I Replaced My Mac With an iPad for an Entire Week. It Went as Well as You’d Expect](https://www.wired.com/story/i-replaced-my-mac-with-an-ipad-for-an-entire-week-it-went-as-well-as-youd-expect/)
+**发布时间**: 2025-08-14 11:00
+
+#### [The Future of EV Charging Can Be Found at Your Local Gas Station](https://www.wired.com/story/the-future-of-ev-charging-gas-stations-rest-stops/)
+**发布时间**: 2025-08-14 10:30
+
+#### [The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived](https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/)
+**发布时间**: 2025-08-14 10:20
+
+#### [Why You Can’t Trust a Chatbot to Talk About Itself](https://www.wired.com/story/chatbot-llm-self-awareness/)
+**发布时间**: 2025-08-14 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Supreme Court opens door to social media age-gating in US](https://www.theverge.com/news/759769/supreme-court-mississippi-age-gating-social-media-ruling)
+**发布时间**: 2025-08-14 21:17
+
+#### [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+**发布时间**: 2025-08-14 20:30
+
+#### [China is about to launch SSDs so small you insert them like a SIM card](https://www.theverge.com/news/759624/china-is-about-to-launch-ssds-so-small-you-insert-them-like-a-sim-card)
+**发布时间**: 2025-08-14 19:41
+
+#### [Nanoleaf&#8217;s smart lights are cheaper than ever in its back-to-school sale](https://www.theverge.com/tech/759620/nanoleaf-back-to-school-deal-sale)
+**发布时间**: 2025-08-14 19:04
+
+#### [Airbnb now lets you ‘pay later’ on vacation rentals](https://www.theverge.com/news/759637/airbnb-reserve-now-pay-later-stays)
+**发布时间**: 2025-08-14 18:33
+
+#### [Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode](https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai)
+**发布时间**: 2025-08-14 17:37
+
+#### [Meta’s AI policies let chatbots get romantic with minors](https://www.theverge.com/news/759562/meta-ai-rules-chatbots-romantic-minors)
+**发布时间**: 2025-08-14 17:10
+
+#### [Stop using these ESR power banks that have been recalled for fire and explosion risks](https://www.theverge.com/news/759512/recall-esr-halolock-wireless-power-bank-2g520-2g505b-2g512b)
+**发布时间**: 2025-08-14 17:01
+
+#### [HyperX&#8217;s new gaming headset claims to last 250 hours on a single charge](https://www.theverge.com/news/759290/hyperxs-new-gaming-headset-claims-to-last-250-hours-on-a-single-charge)
+**发布时间**: 2025-08-14 17:00
+
+#### [Acura’s RSX prototype is a taste of what’s to come with Honda Zero](https://www.theverge.com/honda/759331/acura-rsx-prototype-monterey-honda-zero-asimo)
+**发布时间**: 2025-08-14 17:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [地铁涨价背后：城市和地产的转型之困](http://www.huxiu.com/article/4692421.html?f=wangzhan)
+**发布时间**: 2025-08-14 19:00
+
+#### [从万恶的地图炮到今天全民玩地域梗，这中间发生了什么？](http://www.huxiu.com/article/4692378.html?f=wangzhan)
+**发布时间**: 2025-08-14 18:00
+
+#### [比亚迪有一块被忽视的增长](http://www.huxiu.com/article/4687425.html?f=wangzhan)
+**发布时间**: 2025-08-14 17:04
+
+#### [折螺丝底下，八百年不评论的“好友”怎么都活了？](http://www.huxiu.com/article/4691542.html?f=wangzhan)
+**发布时间**: 2025-08-14 16:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 217｜少数派的编辑们最近买了啥？](https://sspai.com/post/101824)
+**发布时间**: 2025-08-14 17:00
 
 ---
 

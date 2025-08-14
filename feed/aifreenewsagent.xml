@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 Aug 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 08:30:32 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 23:20:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，全网最懂图文调研的智能体模型震撼上线，看完我直接卸了浏览器</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-7</link>
-      <description>&lt;![CDATA[刚刚，全网最懂图文调研的智能体模型震撼上线，看完我直接卸了浏览器]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-7</guid>
+      <title>从隐私计算迈向六大数据流通全栈技术，“隐语”开源社区升级</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-8</link>
+      <description>&lt;![CDATA[从隐私计算迈向六大数据流通全栈技术，“隐语”开源社区升级]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>千支队伍争锋！首届「启智杯」算法大赛圆满落幕，助推AI应用落地</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-6</link>
-      <description>&lt;![CDATA[千支队伍争锋！首届「启智杯」算法大赛圆满落幕，助推AI应用落地]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-6</guid>
+      <title>Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator</title>
+      <link>https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/</link>
+      <description>&lt;![CDATA[Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 19:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>雷鸟创新与蚂蚁集团宣布战略合作，发布全球首个全彩眼镜支付</title>
-      <link>https://www.qbitai.com/2025/08/321744.html</link>
-      <description>&lt;![CDATA[雷鸟创新与蚂蚁集团宣布战略合作，发布全球首个全彩眼镜支付]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321744.html</guid>
+      <title>The Download: affordable EV trucks, and Russia’s latest internet block</title>
+      <link>https://www.technologyreview.com/2025/08/14/1121839/the-download-affordable-ev-trucks-and-russias-latest-internet-block/</link>
+      <description>&lt;![CDATA[The Download: affordable EV trucks, and Russia’s latest internet block]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/14/1121839/the-download-affordable-ev-trucks-and-russias-latest-internet-block/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI图像水印失守！开源工具5分钟内抹除所有水印</title>
-      <link>https://www.qbitai.com/2025/08/321729.html</link>
-      <description>&lt;![CDATA[AI图像水印失守！开源工具5分钟内抹除所有水印]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 07:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321729.html</guid>
+      <title>The US could really use an affordable electric truck</title>
+      <link>https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/</link>
+      <description>&lt;![CDATA[The US could really use an affordable electric truck]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Using generative AI, researchers design compounds that can kill drug-resistant bacteria</title>
+      <link>https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814</link>
+      <description>&lt;![CDATA[Using generative AI, researchers design compounds that can kill drug-resistant bacteria]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>苹果发力AI硬件，结果就是小度智能屏？？桌宠机器人也要等到2027……</title>
+      <link>https://www.qbitai.com/2025/08/321954.html</link>
+      <description>&lt;![CDATA[苹果发力AI硬件，结果就是小度智能屏？？桌宠机器人也要等到2027……]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321954.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>潘建伟团队突破量子操控极限！AI助力2024个原子60毫秒精准重排</title>
+      <link>https://www.qbitai.com/2025/08/321955.html</link>
+      <description>&lt;![CDATA[潘建伟团队突破量子操控极限！AI助力2024个原子60毫秒精准重排]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321955.html</guid>
       <category>AI</category>
     </item>
   </channel>

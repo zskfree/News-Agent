@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-14 08:30
+**最后更新时间**: 2025-08-14 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-14 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [从隐私计算迈向六大数据流通全栈技术，“隐语”开源社区升级](https://www.jiqizhixin.com/articles/2025-08-14-8)
+**发布时间**: 2025-08-14 19:52
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator](https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/)
+**发布时间**: 2025-08-14 19:06
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: affordable EV trucks, and Russia’s latest internet block](https://www.technologyreview.com/2025/08/14/1121839/the-download-affordable-ev-trucks-and-russias-latest-internet-block/)
+**发布时间**: 2025-08-14 12:10
+
+#### [The US could really use an affordable electric truck](https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/)
+**发布时间**: 2025-08-14 10:00
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Using generative AI, researchers design compounds that can kill drug-resistant bacteria](https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814)
+**发布时间**: 2025-08-14 11:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [苹果发力AI硬件，结果就是小度智能屏？？桌宠机器人也要等到2027……](https://www.qbitai.com/2025/08/321954.html)
+**发布时间**: 2025-08-14 09:22
+
+#### [潘建伟团队突破量子操控极限！AI助力2024个原子60毫秒精准重排](https://www.qbitai.com/2025/08/321955.html)
+**发布时间**: 2025-08-14 09:21
+
+#### [7小时0接管！特斯拉发布史上最长FSD演示，马斯克承诺升级自动充电，开车还能像打游戏](https://www.qbitai.com/2025/08/321842.html)
+**发布时间**: 2025-08-14 08:26
+
+#### [被曝蒸馏DeepSeek还造假！欧版OpenAI塌方了](https://www.qbitai.com/2025/08/321843.html)
+**发布时间**: 2025-08-14 08:19
+
+#### [和GPT聊了21天，我差点成为陶哲轩](https://www.qbitai.com/2025/08/321813.html)
+**发布时间**: 2025-08-14 07:57
+
+#### [我们都错怪GPT-5了，路由统一算力，免费用户也能创造收益](https://www.qbitai.com/2025/08/321743.html)
+**发布时间**: 2025-08-14 07:47
+
+#### [反击AI论文！arXiv每年拒掉2%造假内容，自动化工具加入审核](https://www.qbitai.com/2025/08/321769.html)
+**发布时间**: 2025-08-14 07:45
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Making Sense of Text with Decision Trees](https://machinelearningmastery.com/making-sense-of-text-with-decision-trees/)
+**发布时间**: 2025-08-12 12:00
+
+#### [How to Interpret Your XGBoost Model: A Practical Guide to Feature Importance](https://machinelearningmastery.com/how-to-interpret-your-xgboost-model-a-practical-guide-to-feature-importance/)
+**发布时间**: 2025-08-11 12:00
+
+#### [Building a Decoder-Only Transformer Model Like Llama-2 and Llama-3](https://machinelearningmastery.com/building-a-decoder-only-transformer-model-for-text-generation/)
+**发布时间**: 2025-08-04 16:02
 
 ---
 

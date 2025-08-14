@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-14 05:22
+**最后更新时间**: 2025-08-14 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-14 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The stock market still has broad shoulders to support investors — even at record highs](https://www.marketwatch.com/story/the-stock-market-still-has-broad-shoulders-to-support-investors-even-at-record-highs-560aa266?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 23:11
+
+#### [Intel’s stock pops. Will Trump come to the rescue with unprecedented government help?](https://www.marketwatch.com/story/intels-stock-pops-will-trump-come-to-the-rescue-with-unprecedented-financial-help-27c6501b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 22:50
+
+#### [What has Trump done to save Social Security? Sadly, nothing.](https://www.marketwatch.com/story/what-has-done-trump-done-to-save-social-security-sadly-nothing-c110a264?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 22:36
+
+#### [Bullish’s stock is still rallying, as the IPO market refuses to take a summer break this year](https://www.marketwatch.com/story/bullishs-stock-is-still-rallying-as-the-ipo-market-refuses-to-take-a-summer-break-this-year-506e1a1b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 22:33
+
+#### [Google’s unlikely new ally in the AI race is a bitcoin miner](https://www.marketwatch.com/story/googles-unlikely-new-ally-in-the-ai-race-is-a-bitcoin-miner-f32a16dd?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 22:27
+
+#### [Soros, Appaloosa boost their Nvidia stake. They also bought this beaten-down stock, and it’s rallying.](https://www.marketwatch.com/story/soros-appaloosa-boost-their-holdings-in-this-mag-7-stock-amid-ai-spending-boom-514807d8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 22:05
+
+#### [One of America’s most respected investors says the ‘Magnificent Seven’ isn’t overvalued — the rest of the market is](https://www.marketwatch.com/story/one-of-americas-most-respected-investors-says-the-magnificent-seven-isnt-overvalued-the-rest-of-the-market-is-729bf71b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 21:25
+
+#### [Intel has 18 months to determine its future — or Qualcomm and Arm will](https://www.marketwatch.com/story/intel-has-18-months-to-determine-its-future-or-qualcomm-and-arm-will-6fc0098b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 21:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How Netflix struck gold on the Billboard charts with ‘KPop Demon Hunters’](https://www.marketwatch.com/bulletins/redirect/go?g=f60d53e3-93dd-48d9-8389-ea25a050fffe&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 23:00
+
+#### [These home buyers and sellers saved money by embracing new real-estate rules](https://www.marketwatch.com/bulletins/redirect/go?g=a670e211-0f89-4452-a0d1-593e284ebfec&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 22:59
+
+#### [Warren Buffett places new bets on UnitedHealth and a major homebuilder](https://www.marketwatch.com/bulletins/redirect/go?g=7e3c366f-2172-4350-9828-185a9b89a09d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 22:20
+
+#### [These home buyers and sellers saved money by embracing new real-estate rules](https://www.marketwatch.com/bulletins/redirect/go?g=82b3528f-21e8-42e9-9061-19af6b621538&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 21:59
+
+#### [Why stocks (mostly) shrugged off July's surprisingly hot PPI inflation reading](https://www.marketwatch.com/bulletins/redirect/go?g=d41aca74-2f5c-4c35-8533-9f83165202e0&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 21:23
+
+#### [Intel shares pop on report Trump could make unprecedented move for U.S. stake](https://www.marketwatch.com/bulletins/redirect/go?g=a91ae104-11d9-4ed7-aad3-3277b83c136f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 20:54
+
+#### [S&P 500 logs fresh record, Dow and Nasdaq end lower on hot PPI inflation reading](https://www.marketwatch.com/bulletins/redirect/go?g=e73f0ddb-51c4-44f1-b16e-2b6a0982f37e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 20:05
+
+#### [Stocks clawing back losses in final hour despite hot PPI inflation — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=53a9f339-144b-47f8-a820-64d57d7cd802&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 19:22
+
+#### [How Nvidia’s H20 chip found itself at the center of the U.S.-China trade war](https://www.marketwatch.com/bulletins/redirect/go?g=d1af08ee-bd33-4418-9a5c-78d9d11daae9&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 19:02
+
+#### [The IPO market isn’t taking its traditional summer break this year](https://www.marketwatch.com/bulletins/redirect/go?g=319bbe39-63dd-45de-870c-f8108bb13fb4&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 17:57
 
 ---
 
