@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 Aug 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 05:22:26 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 08:30:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ICCV 2025 | HERMES：首个统一3D场景理解与生成的世界模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-4</link>
-      <description>&lt;![CDATA[ICCV 2025 | HERMES：首个统一3D场景理解与生成的世界模型]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-4</guid>
+      <title>刚刚，全网最懂图文调研的智能体模型震撼上线，看完我直接卸了浏览器</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-7</link>
+      <description>&lt;![CDATA[刚刚，全网最懂图文调研的智能体模型震撼上线，看完我直接卸了浏览器]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>冗长响应缩减80%，DeepSeek GRPO获得颠覆性改进，微软GFPO问世</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-5</link>
-      <description>&lt;![CDATA[冗长响应缩减80%，DeepSeek GRPO获得颠覆性改进，微软GFPO问世]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-5</guid>
+      <title>千支队伍争锋！首届「启智杯」算法大赛圆满落幕，助推AI应用落地</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-6</link>
+      <description>&lt;![CDATA[千支队伍争锋！首届「启智杯」算法大赛圆满落幕，助推AI应用落地]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>破解「长程智能体」RL训练难题，腾讯提出RLVMR框架，让7B模型「思考」比肩GPT-4o</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14</link>
-      <description>&lt;![CDATA[破解「长程智能体」RL训练难题，腾讯提出RLVMR框架，让7B模型「思考」比肩GPT-4o]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14</guid>
+      <title>雷鸟创新与蚂蚁集团宣布战略合作，发布全球首个全彩眼镜支付</title>
+      <link>https://www.qbitai.com/2025/08/321744.html</link>
+      <description>&lt;![CDATA[雷鸟创新与蚂蚁集团宣布战略合作，发布全球首个全彩眼镜支付]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321744.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>港大联手月之暗面等开源OpenCUA：人人可造专属电脑智能体</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-2</link>
-      <description>&lt;![CDATA[港大联手月之暗面等开源OpenCUA：人人可造专属电脑智能体]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GNN+KAN，把三角函数当「激活」选项，山大、南洋理工让分子图更会读化学子结构</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-3</link>
-      <description>&lt;![CDATA[GNN+KAN，把三角函数当「激活」选项，山大、南洋理工让分子图更会读化学子结构]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?</title>
-      <link>https://arxiv.org/abs/2508.09762</link>
-      <description>&lt;![CDATA[The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.09762</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>UbiQTree: Uncertainty Quantification in XAI with Tree Ensembles</title>
-      <link>https://arxiv.org/abs/2508.09639</link>
-      <description>&lt;![CDATA[UbiQTree: Uncertainty Quantification in XAI with Tree Ensembles]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.09639</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Generative Artificial Intelligence in Medical Imaging: Foundations, Progress, and Clinical Translation</title>
-      <link>https://arxiv.org/abs/2508.09177</link>
-      <description>&lt;![CDATA[Generative Artificial Intelligence in Medical Imaging: Foundations, Progress, and Clinical Translation]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.09177</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks</title>
-      <link>https://arxiv.org/abs/2508.09190</link>
-      <description>&lt;![CDATA[Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.09190</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Multimodal RAG Enhanced Visual Description</title>
-      <link>https://arxiv.org/abs/2508.09170</link>
-      <description>&lt;![CDATA[Multimodal RAG Enhanced Visual Description]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.09170</guid>
+      <title>AI图像水印失守！开源工具5分钟内抹除所有水印</title>
+      <link>https://www.qbitai.com/2025/08/321729.html</link>
+      <description>&lt;![CDATA[AI图像水印失守！开源工具5分钟内抹除所有水印]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321729.html</guid>
       <category>AI</category>
     </item>
   </channel>

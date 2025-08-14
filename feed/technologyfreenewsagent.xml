@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 Aug 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 05:22:53 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 08:30:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Sonnet 4 支持百万 Tokens 上下文：容量提升 5 倍，支持7.5万行代码一键处理</title>
-      <link>https://www.infoq.cn/article/fEAHLivo2mrO4a4klY4Z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Sonnet 4 支持百万 Tokens 上下文：容量提升 5 倍，支持7.5万行代码一键处理]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fEAHLivo2mrO4a4klY4Z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI的GPT-5首次亮相，成本商品化，审查更严格</title>
+      <link>https://www.infoq.cn/article/THOsyU23oRfkPuc38SDL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI的GPT-5首次亮相，成本商品化，审查更严格]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/THOsyU23oRfkPuc38SDL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>U.S. Treasury Secretary Says Nvidia's Revenue-Sharing Deal Could Expand to Other Industries</title>
-      <link>https://www.tmtpost.com/7659339.html</link>
-      <description>&lt;![CDATA[U.S. Treasury Secretary Says Nvidia's Revenue-Sharing Deal Could Expand to Other Industries]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7659339.html</guid>
+      <title>4万星开源项目被指造假！MemGPT作者开撕Mem0：为营销随便造数据，净搞没有意义的测试！</title>
+      <link>https://www.infoq.cn/article/PRW438h0q11mgcRldE9E?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[4万星开源项目被指造假！MemGPT作者开撕Mem0：为营销随便造数据，净搞没有意义的测试！]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PRW438h0q11mgcRldE9E?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Tencent Says It Has Enough AI Chip Stockpile for Models and Many Options amid Security Concerns over Nvidia's H20</title>
-      <link>https://www.tmtpost.com/7659308.html</link>
-      <description>&lt;![CDATA[Tencent Says It Has Enough AI Chip Stockpile for Models and Many Options amid Security Concerns over Nvidia's H20]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7659308.html</guid>
+      <title>对话理想智驾负责人：撕掉「奶爸车」标签，智驶是理想的「新引擎」</title>
+      <link>http://www.geekpark.net/news/352707</link>
+      <description>&lt;![CDATA[对话理想智驾负责人：撕掉「奶爸车」标签，智驶是理想的「新引擎」]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352707</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果 AI 下半场：年底问世的新 Siri，要彻底改变 iPhone 的交互</title>
-      <link>http://www.geekpark.net/news/352693</link>
-      <description>&lt;![CDATA[苹果 AI 下半场：年底问世的新 Siri，要彻底改变 iPhone 的交互]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 12:52:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352693</guid>
+      <title>机器人，还当不了打工人</title>
+      <link>https://www.tmtpost.com/7659481.html</link>
+      <description>&lt;![CDATA[机器人，还当不了打工人]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659481.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>B 端智能体构建范式和 Context Engineering 最佳实践｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/bXj6bOxa5r6XeKwhLADm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[B 端智能体构建范式和 Context Engineering 最佳实践｜AICon 深圳]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bXj6bOxa5r6XeKwhLADm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“一个淘宝”的历史进程</title>
+      <link>https://www.tmtpost.com/7659387.html</link>
+      <description>&lt;![CDATA[“一个淘宝”的历史进程]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659387.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>纷享销客企业级 SaaS 服务 AI Agent 平台落地实践｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/Li0Ub1bNyGlFqos9zvFx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[纷享销客企业级 SaaS 服务 AI Agent 平台落地实践｜AICon 深圳]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Li0Ub1bNyGlFqos9zvFx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>新势力复活赛没有“时间的朋友”</title>
+      <link>https://www.tmtpost.com/7659430.html</link>
+      <description>&lt;![CDATA[新势力复活赛没有“时间的朋友”]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent开发挑战：如何在敏捷与可靠之间做到既要、又要、还要？｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/PlQ3PM18ww6NY6350hcB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent开发挑战：如何在敏捷与可靠之间做到既要、又要、还要？｜AICon 深圳]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PlQ3PM18ww6NY6350hcB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>新希望金科 AI 中心总经理王小东确认出席 AICon 深圳，分享智能体助力经营贷风控升级</title>
+      <link>https://www.infoq.cn/article/qGtgxMfU78cYAM5lKFgT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[新希望金科 AI 中心总经理王小东确认出席 AICon 深圳，分享智能体助力经营贷风控升级]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qGtgxMfU78cYAM5lKFgT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google Cloud发布Cloud Setup，简化基础设施搭建</title>
-      <link>https://www.infoq.cn/article/RQyhQmimUUeAwrjMqNoZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Google Cloud发布Cloud Setup，简化基础设施搭建]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RQyhQmimUUeAwrjMqNoZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>万字长谈王小川：不再迎合他人做学霸，我要解自己的命题</title>
+      <link>http://www.geekpark.net/news/352705</link>
+      <description>&lt;![CDATA[万字长谈王小川：不再迎合他人做学霸，我要解自己的命题]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352705</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>沙箱即服务：构建自动化AWS沙箱框架</title>
-      <link>https://www.infoq.cn/article/JkxMOL0E6AxD1J1jFUZV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[沙箱即服务：构建自动化AWS沙箱框架]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JkxMOL0E6AxD1J1jFUZV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>有赞终于盈利了</title>
+      <link>https://www.tmtpost.com/7659299.html</link>
+      <description>&lt;![CDATA[有赞终于盈利了]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659299.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>店仓网一体化才是中国零售业的未来</title>
-      <link>https://www.tmtpost.com/7659163.html</link>
-      <description>&lt;![CDATA[店仓网一体化才是中国零售业的未来]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 12:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7659163.html</guid>
+      <title>2025，耳机行业 “需求觉醒”</title>
+      <link>https://www.tmtpost.com/7658226.html</link>
+      <description>&lt;![CDATA[2025，耳机行业 “需求觉醒”]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7658226.html</guid>
       <category>Technology</category>
     </item>
   </channel>
