@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-13 23:20
+**最后更新时间**: 2025-08-14 05:21
+
+---
+
+## 🆕 最新更新 (2025-08-14 05:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [U.S. Treasury Secretary Says Nvidia's Revenue-Sharing Deal Could Expand to Other Industries](https://www.tmtpost.com/7659339.html)
+**发布时间**: 2025-08-14 13:19
+
+#### [物理断网、防火墙盒子…车主为拒深蓝汽车广告拼了](https://www.tmtpost.com/7658965.html)
+**发布时间**: 2025-08-14 13:18
+
+#### [《率土》十年，下载量同比增长100%，近日强势发文：「原创不止 捍卫不休」](https://www.tmtpost.com/7658808.html)
+**发布时间**: 2025-08-14 13:13
+
+#### [游戏未发仅靠DEMO刷爆全网，你可能想象不到开发团队竟是“草台班子”](https://www.tmtpost.com/7658830.html)
+**发布时间**: 2025-08-14 12:59
+
+#### [From Cocktail Bars and Pastry Kitchens to AI and Robotics: Jensen Huang’s Children Carve Their Own Path at Nvidia](https://www.tmtpost.com/7659320.html)
+**发布时间**: 2025-08-14 12:54
+
+#### [从悉尼妹代言AE广告风波，看美国的文化战争](https://www.tmtpost.com/7658927.html)
+**发布时间**: 2025-08-14 12:50
+
+#### [Tencent Says It Has Enough AI Chip Stockpile for Models and Many Options amid Security Concerns over Nvidia's H20](https://www.tmtpost.com/7659308.html)
+**发布时间**: 2025-08-14 12:45
+
+#### [半年狂开600家店，网红冰淇淋卷哭哈根达斯](https://www.tmtpost.com/7658930.html)
+**发布时间**: 2025-08-14 12:42
+
+#### [先导电科二度“卖身”：衢州发展“闪电”接盘的计算与隐忧｜并购一线](https://www.tmtpost.com/7659108.html)
+**发布时间**: 2025-08-14 12:40
+
+#### [AI焦虑的扎克伯格，盯上了华人天才少女](https://www.tmtpost.com/7658949.html)
+**发布时间**: 2025-08-14 12:35
+
+#### [地摊爆火，餐饮实体店老板急了？](https://www.tmtpost.com/7658974.html)
+**发布时间**: 2025-08-14 12:29
+
+#### [《披荆斩棘2025》：打团战牌，观众买账吗？](https://www.tmtpost.com/7659018.html)
+**发布时间**: 2025-08-14 12:24
+
+#### [许冉替刘强东回应了一切，但京东要打自己的仗](https://www.tmtpost.com/7659019.html)
+**发布时间**: 2025-08-14 12:20
+
+#### [刚刚，又一位千亿级首富大佬，走了](https://www.tmtpost.com/7659032.html)
+**发布时间**: 2025-08-14 12:16
+
+#### [佐力药业瞄准“C端”市场](https://www.tmtpost.com/7659058.html)
+**发布时间**: 2025-08-14 12:16
+
+#### [一线城市人旺财不旺，县城酒店闷声数钱](https://www.tmtpost.com/7659116.html)
+**发布时间**: 2025-08-14 12:16
+
+#### [快手入局外卖？上桌了，又没上](https://www.tmtpost.com/7659119.html)
+**发布时间**: 2025-08-14 12:16
+
+#### [店仓网一体化才是中国零售业的未来](https://www.tmtpost.com/7659163.html)
+**发布时间**: 2025-08-14 12:16
+
+#### [两年吸金50亿美元的大作，也地位不稳？这个细分品类的机会点来了？](https://www.tmtpost.com/7659188.html)
+**发布时间**: 2025-08-14 12:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [纷享销客企业级 SaaS 服务 AI Agent 平台落地实践｜AICon 深圳](https://www.infoq.cn/article/Li0Ub1bNyGlFqos9zvFx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 13:00
+
+#### [沙箱即服务：构建自动化AWS沙箱框架](https://www.infoq.cn/article/JkxMOL0E6AxD1J1jFUZV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 12:00
+
+#### [B 端智能体构建范式和 Context Engineering 最佳实践｜AICon 深圳](https://www.infoq.cn/article/bXj6bOxa5r6XeKwhLADm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 11:00
+
+#### [Google Cloud发布Cloud Setup，简化基础设施搭建](https://www.infoq.cn/article/RQyhQmimUUeAwrjMqNoZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 10:51
+
+#### [Visual Studio Code MSSQL扩展发布1.34.0版本](https://www.infoq.cn/article/vKRvSmjyZ8XSxQEgNDC4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 10:46
+
+#### [Agent开发挑战：如何在敏捷与可靠之间做到既要、又要、还要？｜AICon 深圳](https://www.infoq.cn/article/PlQ3PM18ww6NY6350hcB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 10:22
+
+#### [一年成爆款，狂斩 49.1k Star、200 万下载：Cline 不是开源 Cursor，却更胜一筹？！](https://www.infoq.cn/article/CXFD1a1X6DeALj1Ro2m8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 10:14
+
+#### [Claude Sonnet 4 支持百万 Tokens 上下文：容量提升 5 倍，支持7.5万行代码一键处理](https://www.infoq.cn/article/fEAHLivo2mrO4a4klY4Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 10:08
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果 AI 下半场：年底问世的新 Siri，要彻底改变 iPhone 的交互](http://www.geekpark.net/news/352693)
+**发布时间**: 2025-08-14 12:52
+
+#### [AI独角兽498家，估值2.7万亿美元；《王者荣耀》连续三年成全球最吸金手游；抖音测试「快递」服务｜极客早知道](http://www.geekpark.net/news/352674)
+**发布时间**: 2025-08-14 08:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一年来改错，越用错越多：HMD Skyline 一年主力使用评测](https://sspai.com/post/101718)
+**发布时间**: 2025-08-14 11:30
+
+#### [派早报：阿里小号暂缓停服、Perplexity 计划收购 Chrome 等](https://sspai.com/post/101819)
+**发布时间**: 2025-08-14 08:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [下半年全球资产配置主线，美国降息交易全攻略](http://www.huxiu.com/article/4688404.html?f=wangzhan)
+**发布时间**: 2025-08-14 07:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Blue Apron Coupon & Promo Codes: $25 Off | August 2025](https://www.wired.com/story/blue-apron-coupon/)
+**发布时间**: 2025-08-14 05:00
+
+#### [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/)
+**发布时间**: 2025-08-14 05:00
 
 ---
 

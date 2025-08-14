@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-13 23:20
+**最后更新时间**: 2025-08-14 05:22
+
+---
+
+## 🆕 最新更新 (2025-08-14 05:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The biggest winners of the Taylor Swift-Travis Kelce podcast](https://www.marketwatch.com/story/the-biggest-winners-of-the-taylor-swift-travis-kelce-podcast-0119459c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 02:55
+
+#### [Bitcoin extends rally, hits record high above $124,000](https://www.marketwatch.com/story/bitcoin-extends-rally-hits-record-high-above-124-000-677302d9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 02:26
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Most boomers, Gen X-ers are terrified about running out of money in retirement](https://www.marketwatch.com/bulletins/redirect/go?g=ccbb0d50-06d5-4662-a2eb-7720e6863b9f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 01:15
+
+#### [Bitcoin extends rally, hits record high above $124,000](https://www.marketwatch.com/bulletins/redirect/go?g=10e716f6-65fc-4e70-b2db-205b9e882f68&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-14 01:13
+
+#### [Three NFL teams are now worth over $10 billion](https://www.marketwatch.com/bulletins/redirect/go?g=b1124da1-001c-4e62-9894-13f96f47ff26&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-13 23:54
 
 ---
 

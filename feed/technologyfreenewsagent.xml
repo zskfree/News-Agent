@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 Aug 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 23:21:03 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 05:22:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>昆仑万维UniPic 2.0“小钢炮”模型炸场，一个模型搞定理解+生成+编辑</title>
-      <link>https://www.tmtpost.com/7658076.html</link>
-      <description>&lt;![CDATA[昆仑万维UniPic 2.0“小钢炮”模型炸场，一个模型搞定理解+生成+编辑]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 19:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7658076.html</guid>
+      <title>Claude Sonnet 4 支持百万 Tokens 上下文：容量提升 5 倍，支持7.5万行代码一键处理</title>
+      <link>https://www.infoq.cn/article/fEAHLivo2mrO4a4klY4Z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Sonnet 4 支持百万 Tokens 上下文：容量提升 5 倍，支持7.5万行代码一键处理]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fEAHLivo2mrO4a4klY4Z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs</title>
-      <link>https://www.wired.com/story/openai-gpt5-safety/</link>
-      <description>&lt;![CDATA[OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 23:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-gpt5-safety/</guid>
+      <title>U.S. Treasury Secretary Says Nvidia's Revenue-Sharing Deal Could Expand to Other Industries</title>
+      <link>https://www.tmtpost.com/7659339.html</link>
+      <description>&lt;![CDATA[U.S. Treasury Secretary Says Nvidia's Revenue-Sharing Deal Could Expand to Other Industries]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659339.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5 Doesn't Dislike You—It Might Just Need a Benchmark for Emotional Intelligence</title>
-      <link>https://www.wired.com/story/gpt-5-doesnt-dislike-you-it-might-just-need-a-benchmark-for-empathy/</link>
-      <description>&lt;![CDATA[GPT-5 Doesn't Dislike You—It Might Just Need a Benchmark for Emotional Intelligence]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/gpt-5-doesnt-dislike-you-it-might-just-need-a-benchmark-for-empathy/</guid>
+      <title>Tencent Says It Has Enough AI Chip Stockpile for Models and Many Options amid Security Concerns over Nvidia's H20</title>
+      <link>https://www.tmtpost.com/7659308.html</link>
+      <description>&lt;![CDATA[Tencent Says It Has Enough AI Chip Stockpile for Models and Many Options amid Security Concerns over Nvidia's H20]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659308.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home</title>
-      <link>https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera</link>
-      <description>&lt;![CDATA[Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 19:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera</guid>
+      <title>苹果 AI 下半场：年底问世的新 Siri，要彻底改变 iPhone 的交互</title>
+      <link>http://www.geekpark.net/news/352693</link>
+      <description>&lt;![CDATA[苹果 AI 下半场：年底问世的新 Siri，要彻底改变 iPhone 的交互]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352693</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L4级无人驾驶，在矿车上率先实现了......</title>
-      <link>https://www.tmtpost.com/7632654.html</link>
-      <description>&lt;![CDATA[L4级无人驾驶，在矿车上率先实现了......]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 18:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7632654.html</guid>
+      <title>B 端智能体构建范式和 Context Engineering 最佳实践｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/bXj6bOxa5r6XeKwhLADm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[B 端智能体构建范式和 Context Engineering 最佳实践｜AICon 深圳]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bXj6bOxa5r6XeKwhLADm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无刷直流电机：灵巧手“最后一毫米”的市场争夺战｜行业风向标</title>
-      <link>https://www.tmtpost.com/7657934.html</link>
-      <description>&lt;![CDATA[无刷直流电机：灵巧手“最后一毫米”的市场争夺战｜行业风向标]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 22:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7657934.html</guid>
+      <title>纷享销客企业级 SaaS 服务 AI Agent 平台落地实践｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/Li0Ub1bNyGlFqos9zvFx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[纷享销客企业级 SaaS 服务 AI Agent 平台落地实践｜AICon 深圳]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Li0Ub1bNyGlFqos9zvFx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WRC2025探秘：机器人，会是银发族的“新伙伴”吗？</title>
-      <link>http://www.huxiu.com/article/4681426.html?f=wangzhan</link>
-      <description>&lt;![CDATA[WRC2025探秘：机器人，会是银发族的“新伙伴”吗？]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4681426.html?f=wangzhan</guid>
+      <title>Agent开发挑战：如何在敏捷与可靠之间做到既要、又要、还要？｜AICon 深圳</title>
+      <link>https://www.infoq.cn/article/PlQ3PM18ww6NY6350hcB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent开发挑战：如何在敏捷与可靠之间做到既要、又要、还要？｜AICon 深圳]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PlQ3PM18ww6NY6350hcB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>光伏系储能崛起路线图：收购闪电战、自建持久战、合资合纵战</title>
-      <link>https://www.tmtpost.com/7658306.html</link>
-      <description>&lt;![CDATA[光伏系储能崛起路线图：收购闪电战、自建持久战、合资合纵战]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7658306.html</guid>
+      <title>Google Cloud发布Cloud Setup，简化基础设施搭建</title>
+      <link>https://www.infoq.cn/article/RQyhQmimUUeAwrjMqNoZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google Cloud发布Cloud Setup，简化基础设施搭建]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RQyhQmimUUeAwrjMqNoZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞士信息与通信科技公司Archlet研发AI驱动的电子采购软件，提升企业采购智能化水平 | 瑞士创新100强</title>
-      <link>https://www.tmtpost.com/7657929.html</link>
-      <description>&lt;![CDATA[瑞士信息与通信科技公司Archlet研发AI驱动的电子采购软件，提升企业采购智能化水平 | 瑞士创新100强]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7657929.html</guid>
+      <title>沙箱即服务：构建自动化AWS沙箱框架</title>
+      <link>https://www.infoq.cn/article/JkxMOL0E6AxD1J1jFUZV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[沙箱即服务：构建自动化AWS沙箱框架]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JkxMOL0E6AxD1J1jFUZV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google</title>
-      <link>https://www.wired.com/story/hassan-data-broker-opt-out-letter/</link>
-      <description>&lt;![CDATA[Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/hassan-data-broker-opt-out-letter/</guid>
+      <title>店仓网一体化才是中国零售业的未来</title>
+      <link>https://www.tmtpost.com/7659163.html</link>
+      <description>&lt;![CDATA[店仓网一体化才是中国零售业的未来]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 12:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659163.html</guid>
       <category>Technology</category>
     </item>
   </channel>

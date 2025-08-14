@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 Aug 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 23:20:22 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 05:22:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ToB营收双位数增长 AI加速转化为业绩动能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-11</link>
-      <description>&lt;![CDATA[ToB营收双位数增长 AI加速转化为业绩动能]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-11</guid>
+      <title>ICCV 2025 | HERMES：首个统一3D场景理解与生成的世界模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-4</link>
+      <description>&lt;![CDATA[ICCV 2025 | HERMES：首个统一3D场景理解与生成的世界模型]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 13:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>腾讯Q2财报：营销服务358亿！再创新高</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-10</link>
-      <description>&lt;![CDATA[腾讯Q2财报：营销服务358亿！再创新高]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-10</guid>
+      <title>冗长响应缩减80%，DeepSeek GRPO获得颠覆性改进，微软GFPO问世</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-5</link>
+      <description>&lt;![CDATA[冗长响应缩减80%，DeepSeek GRPO获得颠覆性改进，微软GFPO问世]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>告别Transformer，重塑机器学习范式：上海交大首个「类人脑」大模型诞生</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-13-9</link>
-      <description>&lt;![CDATA[告别Transformer，重塑机器学习范式：上海交大首个「类人脑」大模型诞生]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-13-9</guid>
+      <title>破解「长程智能体」RL训练难题，腾讯提出RLVMR框架，让7B模型「思考」比肩GPT-4o</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14</link>
+      <description>&lt;![CDATA[破解「长程智能体」RL训练难题，腾讯提出RLVMR框架，让7B模型「思考」比肩GPT-4o]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A new way to test how well AI systems classify text</title>
-      <link>https://news.mit.edu/2025/new-way-test-how-well-ai-systems-classify-text-0813</link>
-      <description>&lt;![CDATA[A new way to test how well AI systems classify text]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-way-test-how-well-ai-systems-classify-text-0813</guid>
+      <title>港大联手月之暗面等开源OpenCUA：人人可造专属电脑智能体</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-2</link>
+      <description>&lt;![CDATA[港大联手月之暗面等开源OpenCUA：人人可造专属电脑智能体]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MIT gears up to transform manufacturing</title>
-      <link>https://news.mit.edu/2025/mit-gears-transform-manufacturing-0813</link>
-      <description>&lt;![CDATA[MIT gears up to transform manufacturing]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-gears-transform-manufacturing-0813</guid>
+      <title>GNN+KAN，把三角函数当「激活」选项，山大、南洋理工让分子图更会读化学子结构</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-14-3</link>
+      <description>&lt;![CDATA[GNN+KAN，把三角函数当「激活」选项，山大、南洋理工让分子图更会读化学子结构]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>商汤多模态大模型赋能铁路勘察设计，让70年经验“活”起来</title>
-      <link>https://www.qbitai.com/2025/08/321699.html</link>
-      <description>&lt;![CDATA[商汤多模态大模型赋能铁路勘察设计，让70年经验“活”起来]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321699.html</guid>
+      <title>The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?</title>
+      <link>https://arxiv.org/abs/2508.09762</link>
+      <description>&lt;![CDATA[The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.09762</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>华人团队终结Token危机：扩散模型数据潜力超自回归三倍</title>
-      <link>https://www.qbitai.com/2025/08/321648.html</link>
-      <description>&lt;![CDATA[华人团队终结Token危机：扩散模型数据潜力超自回归三倍]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321648.html</guid>
+      <title>UbiQTree: Uncertainty Quantification in XAI with Tree Ensembles</title>
+      <link>https://arxiv.org/abs/2508.09639</link>
+      <description>&lt;![CDATA[UbiQTree: Uncertainty Quantification in XAI with Tree Ensembles]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.09639</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The road to artificial general intelligence</title>
-      <link>https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/</link>
-      <description>&lt;![CDATA[The road to artificial general intelligence]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/</guid>
+      <title>Generative Artificial Intelligence in Medical Imaging: Foundations, Progress, and Clinical Translation</title>
+      <link>https://arxiv.org/abs/2508.09177</link>
+      <description>&lt;![CDATA[Generative Artificial Intelligence in Medical Imaging: Foundations, Progress, and Clinical Translation]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.09177</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: Trump’s golden dome, and fueling AI with nuclear power</title>
-      <link>https://www.technologyreview.com/2025/08/13/1121722/the-download-trumps-golden-dome-and-fueling-ai-with-nuclear-power/</link>
-      <description>&lt;![CDATA[The Download: Trump’s golden dome, and fueling AI with nuclear power]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/13/1121722/the-download-trumps-golden-dome-and-fueling-ai-with-nuclear-power/</guid>
+      <title>Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks</title>
+      <link>https://arxiv.org/abs/2508.09190</link>
+      <description>&lt;![CDATA[Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.09190</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies</title>
-      <link>https://www.technologyreview.com/2025/08/13/1121332/trump-golden-dome-missile-defense-national-security/</link>
-      <description>&lt;![CDATA[Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies]]&gt;</description>
-      <pubDate>Wed, 13 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/13/1121332/trump-golden-dome-missile-defense-national-security/</guid>
+      <title>Multimodal RAG Enhanced Visual Description</title>
+      <link>https://arxiv.org/abs/2508.09170</link>
+      <description>&lt;![CDATA[Multimodal RAG Enhanced Visual Description]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.09170</guid>
       <category>AI</category>
     </item>
   </channel>
