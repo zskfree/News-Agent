@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-15 05:22
+**最后更新时间**: 2025-08-15 08:33
+
+---
+
+## 🆕 最新更新 (2025-08-15 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [半年研发、1周上线，1秒200行代码爆发？美团研发负责人：靠小团队奇袭，模型和工程能力突破是核心](https://www.infoq.cn/article/2H1FSFKx2vVxEf6R84Zf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 16:16
+
+#### [金融智能体真的是大模型落地“最后一公里”？](https://www.infoq.cn/article/jj6x9dm3AAdGbWpTLbqF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 15:27
+
+#### [Vercel发布用于React UI集成的AI Elements](https://www.infoq.cn/article/ydBOE9ibQZq5P2leuQjR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 15:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [26岁女儿买走一上市公司，王振华财富较巅峰缩水340多亿](https://www.tmtpost.com/7660124.html)
+**发布时间**: 2025-08-15 15:26
+
+#### [8月15日A股分析：三大指数集体上涨，两市合计成交22446.12亿元，资金流入最多的行业板块为证券、互联网服务](https://www.tmtpost.com/7660869.html)
+**发布时间**: 2025-08-15 15:08
+
+#### [对话杨元庆：关税没有对联想业绩造成很大冲击，AI PC销量已占PC市场1/3](https://www.tmtpost.com/7660726.html)
+**发布时间**: 2025-08-15 15:05
+
+#### [阅文集团的短期及长期未来之我见](https://www.tmtpost.com/7660546.html)
+**发布时间**: 2025-08-15 15:04
+
+#### [疯狂“倒挂”的酒旅专业…](https://www.tmtpost.com/7660602.html)
+**发布时间**: 2025-08-15 15:04
+
+#### [超充桩也有“鬼城”：规划算法与真实需求的断裂](https://www.tmtpost.com/7660831.html)
+**发布时间**: 2025-08-15 15:04
+
+#### [330亿，卖减肥药的外籍教授敲钟了](https://www.tmtpost.com/7660693.html)
+**发布时间**: 2025-08-15 14:49
+
+#### [“三座大山”、“外卖大战”下的餐饮业](https://www.tmtpost.com/7660615.html)
+**发布时间**: 2025-08-15 14:49
+
+#### [300岁老年团播，是“顶流”还是“牛马”？](https://www.tmtpost.com/7660639.html)
+**发布时间**: 2025-08-15 14:49
+
+#### [机器人零部件最高技术壁垒的行星滚柱丝杠，神秘在哪里？](https://www.tmtpost.com/7660750.html)
+**发布时间**: 2025-08-15 14:49
+
+#### [AI短剧狂飙，我们离“烂片”更近了吗？](https://www.tmtpost.com/7660760.html)
+**发布时间**: 2025-08-15 14:49
+
+#### [Trump May Impose Section 232 Tariffs on Pharma: White House Trade Adviser](https://www.tmtpost.com/7660751.html)
+**发布时间**: 2025-08-15 14:21
+
+#### [Chinese Scientists Harness AI to Build World's Largest Atom Array, Paving the Way for Quantum Computing](https://www.tmtpost.com/7660695.html)
+**发布时间**: 2025-08-15 13:40
+
+#### [灵巧智能CEO周晨：灵巧手的终局不是参数堆砌，而是真正解放人类双手](https://www.tmtpost.com/7660489.html)
+**发布时间**: 2025-08-15 13:34
+
+#### [【科股一线拆解】这一板块缺货涨价！](https://www.tmtpost.com/7660655.html)
+**发布时间**: 2025-08-15 13:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [游戏杂谈：聊聊游戏地图的美学张力](https://sspai.com/post/101806)
+**发布时间**: 2025-08-15 15:00
+
+#### [App+1｜出国旅游总得问价，如何让陌生货币变「直观」？\[送码\]](https://sspai.com/post/101678)
+**发布时间**: 2025-08-15 11:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Lelo Sona 3 Cruise Review: Stale Update](https://www.wired.com/review/lelo-sona-3-cruise/)
+**发布时间**: 2025-08-15 08:00
 
 ---
 

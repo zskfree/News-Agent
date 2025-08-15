@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 Aug 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2025 05:22:42 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 08:33:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Science封面：高效精准模拟构象变化，微软研究院用生成式AI重塑蛋白质功能研究</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-6</link>
-      <description>&lt;![CDATA[Science封面：高效精准模拟构象变化，微软研究院用生成式AI重塑蛋白质功能研究]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-6</guid>
+      <title>GPT-5超越人类医生！推理能力比专家高出24%，理解力强29%</title>
+      <link>https://www.qbitai.com/2025/08/322096.html</link>
+      <description>&lt;![CDATA[GPT-5超越人类医生！推理能力比专家高出24%，理解力强29%]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322096.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-7</link>
-      <description>&lt;![CDATA[多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-7</guid>
+      <title>谷歌版小钢炮开源！0.27B大模型，4个注意力头，专为终端而生</title>
+      <link>https://www.qbitai.com/2025/08/322095.html</link>
+      <description>&lt;![CDATA[谷歌版小钢炮开源！0.27B大模型，4个注意力头，专为终端而生]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 07:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322095.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Meta视觉基座DINOv3王者归来：自监督首次全面超越弱监督，商用开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-8</link>
-      <description>&lt;![CDATA[Meta视觉基座DINOv3王者归来：自监督首次全面超越弱监督，商用开源]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>谷歌开源Gemma 3 270M，性能超越Qwen 2.5同级模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-10</link>
-      <description>&lt;![CDATA[谷歌开源Gemma 3 270M，性能超越Qwen 2.5同级模型]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GPT-5、Grok 4、o3 Pro都零分，史上最难AI评测基准换它了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-11</link>
-      <description>&lt;![CDATA[GPT-5、Grok 4、o3 Pro都零分，史上最难AI评测基准换它了]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-11</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Agentic AI Frameworks: Architectures, Protocols, and Design Challenges</title>
-      <link>https://arxiv.org/abs/2508.10146</link>
-      <description>&lt;![CDATA[Agentic AI Frameworks: Architectures, Protocols, and Design Challenges]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.10146</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>链式思维是幻象吗？从数据分布视角重新审视大模型推理，马斯克回复，Grok破防</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15</link>
-      <description>&lt;![CDATA[链式思维是幻象吗？从数据分布视角重新审视大模型推理，马斯克回复，Grok破防]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model</title>
-      <link>https://arxiv.org/abs/2508.10492</link>
-      <description>&lt;![CDATA[Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.10492</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI 模特时代到来：字节x清华推出商用级视频换装模型DreamVVT，保真度显著领先SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-4</link>
-      <description>&lt;![CDATA[AI 模特时代到来：字节x清华推出商用级视频换装模型DreamVVT，保真度显著领先SOTA]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>一句话搞定多任务出行，高德用空间智能重新定义地图</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-15-12</link>
-      <description>&lt;![CDATA[一句话搞定多任务出行，高德用空间智能重新定义地图]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-12</guid>
+      <title>国家级AI创新应用赛事杀疯了！超200万元奖金池+全场景赛道，冲线团队速来</title>
+      <link>https://www.qbitai.com/2025/08/322066.html</link>
+      <description>&lt;![CDATA[国家级AI创新应用赛事杀疯了！超200万元奖金池+全场景赛道，冲线团队速来]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322066.html</guid>
       <category>AI</category>
     </item>
   </channel>
