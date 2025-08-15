@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-15 08:28
+**最后更新时间**: 2025-08-15 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-15 23:20)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep](https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/)
+**发布时间**: 2025-08-15 12:10
+
+#### [Why GPT-4o’s sudden shutdown left people grieving](https://www.technologyreview.com/2025/08/15/1121900/gpt4o-grief-ai-companion/)
+**发布时间**: 2025-08-15 10:34
+
+#### [Indigenous knowledge meets artificial intelligence](https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/)
+**发布时间**: 2025-08-15 10:00
+
+#### [Taiwan’s “silicon shield” could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/)
+**发布时间**: 2025-08-15 09:00
+
+#### [Why US federal health agencies are abandoning mRNA vaccines](https://www.technologyreview.com/2025/08/15/1121885/why-us-federal-health-agencies-are-abandoning-mrna-vaccines/)
+**发布时间**: 2025-08-15 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [文远知行获Grab投资数千万美元，双方将合作在东南亚大规模部署Robotaxi](https://www.qbitai.com/2025/08/322254.html)
+**发布时间**: 2025-08-15 11:10
+
+#### [百度AICA第9期开课：18大行业96位首席AI架构师齐探AI产业落地](https://www.qbitai.com/2025/08/322244.html)
+**发布时间**: 2025-08-15 09:11
+
+#### [吉利半年报喜人，但热搜是高管为“背刺车主”道歉](https://www.qbitai.com/2025/08/322141.html)
+**发布时间**: 2025-08-15 08:11
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How AI could speed the development of RNA vaccines and other RNA therapies](https://news.mit.edu/2025/how-ai-could-speed-development-rna-vaccines-and-other-rna-therapies-0815)
+**发布时间**: 2025-08-15 05:00
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [从隐私计算到六大数据流通全栈技术，「隐语」开源社区三周年之际再升级](https://www.jiqizhixin.com/articles/2025-08-14-8)
+**发布时间**: 2025-08-14 19:52
 
 ---
 

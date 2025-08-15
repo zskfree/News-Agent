@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-15 05:22
+**最后更新时间**: 2025-08-15 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-15 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Half of Gen Z spends $0 a month on dating thanks to a ‘romance recession’](https://www.marketwatch.com/bulletins/redirect/go?g=295388fe-c339-4601-95ba-6ce0c33de597&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 22:56
+
+#### [Opendoor bulls are getting what they want, and the stock is surging again](https://www.marketwatch.com/bulletins/redirect/go?g=d43c84f2-b5f3-45d6-af9c-6eb764378f4e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 22:05
+
+#### [Buffett gives Wall Street a boost as Dow touches new intraday record Friday](https://www.marketwatch.com/bulletins/redirect/go?g=3b0a416a-d41b-4890-b568-85c3bc424265&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 21:10
+
+#### [Dow misses record close, while S&P 500 and Nasdaq fall but tally weekly gains](https://www.marketwatch.com/bulletins/redirect/go?g=390de14c-3814-40dd-9e70-b1310584ed69&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 20:04
+
+#### [S&P 500, Nasdaq turn lower, but Dow eyes new record in final hour  — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=f2d6d195-74bd-4bc4-bc20-19e391e3a742&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 19:03
+
+#### [Could Oracle become a $1 trillion company? This analyst charts the course.](https://www.marketwatch.com/bulletins/redirect/go?g=f87e5301-acd8-4ed4-a9d0-dec351207226&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 18:00
+
+#### [New-car buyers revved up U.S. retail sales in July as they raced Trump’s tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=a4b07e5f-0383-437f-a062-43c49cf63a94&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 15:24
+
+#### [Americans are growing more worried about inflation and jobs: U. of Mich. data](https://www.marketwatch.com/bulletins/redirect/go?g=a30aa675-4527-4f39-a565-c4cc5c7360e6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 14:59
+
+#### [Dow up 200 points at open as blue-chip gauge hunts first record close this year](https://www.marketwatch.com/bulletins/redirect/go?g=64f8a5f9-155b-4fd7-b7b2-0303167f128c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 13:33
+
+#### [Dow industrials targeting 250-point advance after economic data — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=536d0992-37f2-4a26-a5f7-66405db06580&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 12:42
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Opendoor bulls are getting what they want, and the stock is surging again](https://www.marketwatch.com/story/opendoor-bulls-are-getting-what-they-want-and-the-stock-is-surging-again-b99dcea2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 21:49
+
+#### [My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?](https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 21:34
+
+#### [‘I’ve been kept in poverty’: Do I take a $70K job at 74 and lose my Section 8 housing allowance?](https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 21:22
+
+#### [This is how important Taylor Swift’s ‘The Life of a Showgirl’ is to an entire industry](https://www.marketwatch.com/story/this-is-how-important-taylor-swifts-the-life-of-a-showgirl-is-to-an-entire-industry-f5689ef3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 21:22
+
+#### [In this economy, here’s what it takes to get people to spend on summer fun](https://www.marketwatch.com/story/americans-who-make-over-100-000-are-still-propping-up-the-economy-but-how-long-can-they-keep-doing-it-b9535f3e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 21:09
+
+#### [The rich already know how private equity mints money — and it’s not from a 401(k)](https://www.marketwatch.com/story/the-rich-already-know-how-private-equity-mints-money-and-its-not-from-a-401-k-c9699cff?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 21:06
+
+#### [Dow ends just shy of record after touching new intraday high, as Buffett gives Wall Street a boost](https://www.marketwatch.com/story/dow-hits-fresh-record-high-as-warren-buffett-gives-wall-street-a-brief-upward-nudge-friday-17afb789?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 20:28
 
 ---
 

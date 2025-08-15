@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 Aug 2025 08:33:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2025 08:33:57 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 23:21:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chinese Scientists Harness AI to Build World's Largest Atom Array, Paving the Way for Quantum Computing</title>
-      <link>https://www.tmtpost.com/7660695.html</link>
-      <description>&lt;![CDATA[Chinese Scientists Harness AI to Build World's Largest Atom Array, Paving the Way for Quantum Computing]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 13:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660695.html</guid>
+      <title>脑机芯片迎来商业化元年</title>
+      <link>https://www.tmtpost.com/7661207.html</link>
+      <description>&lt;![CDATA[脑机芯片迎来商业化元年]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661207.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>半年研发、1周上线，1秒200行代码爆发？美团研发负责人：靠小团队奇袭，模型和工程能力突破是核心</title>
-      <link>https://www.infoq.cn/article/2H1FSFKx2vVxEf6R84Zf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[半年研发、1周上线，1秒200行代码爆发？美团研发负责人：靠小团队奇袭，模型和工程能力突破是核心]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2H1FSFKx2vVxEf6R84Zf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Developers Say GPT-5 Is a Mixed Bag</title>
+      <link>https://www.wired.com/story/gpt-5-coding-review-software-engineering/</link>
+      <description>&lt;![CDATA[Developers Say GPT-5 Is a Mixed Bag]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/gpt-5-coding-review-software-engineering/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人零部件最高技术壁垒的行星滚柱丝杠，神秘在哪里？</title>
-      <link>https://www.tmtpost.com/7660750.html</link>
-      <description>&lt;![CDATA[机器人零部件最高技术壁垒的行星滚柱丝杠，神秘在哪里？]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660750.html</guid>
+      <title>Anthropic has new rules for a more dangerous AI landscape</title>
+      <link>https://www.theverge.com/news/760080/anthropic-updated-usage-policy-dangerous-ai-landscape</link>
+      <description>&lt;![CDATA[Anthropic has new rules for a more dangerous AI landscape]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/760080/anthropic-updated-usage-policy-dangerous-ai-landscape</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超充桩也有“鬼城”：规划算法与真实需求的断裂</title>
-      <link>https://www.tmtpost.com/7660831.html</link>
-      <description>&lt;![CDATA[超充桩也有“鬼城”：规划算法与真实需求的断裂]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660831.html</guid>
+      <title>“偏执狂”而生的英特尔，这些年为什么「全错」？</title>
+      <link>https://www.tmtpost.com/7661244.html</link>
+      <description>&lt;![CDATA[“偏执狂”而生的英特尔，这些年为什么「全错」？]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661244.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>金融智能体真的是大模型落地“最后一公里”？</title>
-      <link>https://www.infoq.cn/article/jj6x9dm3AAdGbWpTLbqF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[金融智能体真的是大模型落地“最后一公里”？]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jj6x9dm3AAdGbWpTLbqF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Decoding Palantir, the Most Mysterious Company in Silicon Valley</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-palantir-most-mysterious-company-silicon-valley/</link>
+      <description>&lt;![CDATA[Decoding Palantir, the Most Mysterious Company in Silicon Valley]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-palantir-most-mysterious-company-silicon-valley/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话杨元庆：关税没有对联想业绩造成很大冲击，AI PC销量已占PC市场1/3</title>
-      <link>https://www.tmtpost.com/7660726.html</link>
-      <description>&lt;![CDATA[对话杨元庆：关税没有对联想业绩造成很大冲击，AI PC销量已占PC市场1/3]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660726.html</guid>
+      <title>微软在用 Office 文件格式蓄意破坏竞争吗？</title>
+      <link>https://sspai.com/prime/story/is-ooxml-artificially-complex</link>
+      <description>&lt;![CDATA[微软在用 Office 文件格式蓄意破坏竞争吗？]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/is-ooxml-artificially-complex</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel发布用于React UI集成的AI Elements</title>
-      <link>https://www.infoq.cn/article/ydBOE9ibQZq5P2leuQjR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel发布用于React UI集成的AI Elements]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ydBOE9ibQZq5P2leuQjR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>北京交通大学教授张向宏：具身机器人数据是世界级难题，仍需加入AI智能体技术</title>
+      <link>https://www.tmtpost.com/7659863.html</link>
+      <description>&lt;![CDATA[北京交通大学教授张向宏：具身机器人数据是世界级难题，仍需加入AI智能体技术]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7659863.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI短剧狂飙，我们离“烂片”更近了吗？</title>
-      <link>https://www.tmtpost.com/7660760.html</link>
-      <description>&lt;![CDATA[AI短剧狂飙，我们离“烂片”更近了吗？]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660760.html</guid>
+      <title>‘Cheapfake’ AI Celeb Videos Are Rage-Baiting People on YouTube</title>
+      <link>https://www.wired.com/story/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube/</link>
+      <description>&lt;![CDATA[‘Cheapfake’ AI Celeb Videos Are Rage-Baiting People on YouTube]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>灵巧智能CEO周晨：灵巧手的终局不是参数堆砌，而是真正解放人类双手</title>
-      <link>https://www.tmtpost.com/7660489.html</link>
-      <description>&lt;![CDATA[灵巧智能CEO周晨：灵巧手的终局不是参数堆砌，而是真正解放人类双手]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660489.html</guid>
+      <title>Louisiana sues Roblox for creating an environment where &amp;#8216;child predators thrive&amp;#8217;</title>
+      <link>https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety</link>
+      <description>&lt;![CDATA[Louisiana sues Roblox for creating an environment where &amp;#8216;child predators thrive&amp;#8217;]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阅文集团的短期及长期未来之我见</title>
-      <link>https://www.tmtpost.com/7660546.html</link>
-      <description>&lt;![CDATA[阅文集团的短期及长期未来之我见]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7660546.html</guid>
+      <title>统一、优化、可信：龙蜥智算联盟要把 AI 落地的“公共坑”变成“公共能力”</title>
+      <link>https://www.infoq.cn/article/2rzuFJTMsg6qu0OSJcz0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[统一、优化、可信：龙蜥智算联盟要把 AI 落地的“公共坑”变成“公共能力”]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2rzuFJTMsg6qu0OSJcz0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

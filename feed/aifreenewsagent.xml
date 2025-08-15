@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 Aug 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2025 08:33:35 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 23:20:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5超越人类医生！推理能力比专家高出24%，理解力强29%</title>
-      <link>https://www.qbitai.com/2025/08/322096.html</link>
-      <description>&lt;![CDATA[GPT-5超越人类医生！推理能力比专家高出24%，理解力强29%]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 07:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322096.html</guid>
+      <title>The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep</title>
+      <link>https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/</link>
+      <description>&lt;![CDATA[The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌版小钢炮开源！0.27B大模型，4个注意力头，专为终端而生</title>
-      <link>https://www.qbitai.com/2025/08/322095.html</link>
-      <description>&lt;![CDATA[谷歌版小钢炮开源！0.27B大模型，4个注意力头，专为终端而生]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 07:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322095.html</guid>
+      <title>Why GPT-4o’s sudden shutdown left people grieving</title>
+      <link>https://www.technologyreview.com/2025/08/15/1121900/gpt4o-grief-ai-companion/</link>
+      <description>&lt;![CDATA[Why GPT-4o’s sudden shutdown left people grieving]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121900/gpt4o-grief-ai-companion/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>国家级AI创新应用赛事杀疯了！超200万元奖金池+全场景赛道，冲线团队速来</title>
-      <link>https://www.qbitai.com/2025/08/322066.html</link>
-      <description>&lt;![CDATA[国家级AI创新应用赛事杀疯了！超200万元奖金池+全场景赛道，冲线团队速来]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 07:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322066.html</guid>
+      <title>Indigenous knowledge meets artificial intelligence</title>
+      <link>https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/</link>
+      <description>&lt;![CDATA[Indigenous knowledge meets artificial intelligence]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Taiwan’s “silicon shield” could be weakening</title>
+      <link>https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/</link>
+      <description>&lt;![CDATA[Taiwan’s “silicon shield” could be weakening]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Why US federal health agencies are abandoning mRNA vaccines</title>
+      <link>https://www.technologyreview.com/2025/08/15/1121885/why-us-federal-health-agencies-are-abandoning-mrna-vaccines/</link>
+      <description>&lt;![CDATA[Why US federal health agencies are abandoning mRNA vaccines]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121885/why-us-federal-health-agencies-are-abandoning-mrna-vaccines/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>文远知行获Grab投资数千万美元，双方将合作在东南亚大规模部署Robotaxi</title>
+      <link>https://www.qbitai.com/2025/08/322254.html</link>
+      <description>&lt;![CDATA[文远知行获Grab投资数千万美元，双方将合作在东南亚大规模部署Robotaxi]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322254.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百度AICA第9期开课：18大行业96位首席AI架构师齐探AI产业落地</title>
+      <link>https://www.qbitai.com/2025/08/322244.html</link>
+      <description>&lt;![CDATA[百度AICA第9期开课：18大行业96位首席AI架构师齐探AI产业落地]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 09:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322244.html</guid>
       <category>AI</category>
     </item>
   </channel>

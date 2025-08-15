@@ -1,7 +1,151 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-15 08:33
+**最后更新时间**: 2025-08-15 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-15 23:20)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [9 Best Pillows (2025) Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)
+**发布时间**: 2025-08-15 22:36
+
+#### [Best Early Labor Day Mattress Sales (2025)](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)
+**发布时间**: 2025-08-15 18:53
+
+#### [Decoding Palantir, the Most Mysterious Company in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-palantir-most-mysterious-company-silicon-valley/)
+**发布时间**: 2025-08-15 18:46
+
+#### [Developers Say GPT-5 Is a Mixed Bag](https://www.wired.com/story/gpt-5-coding-review-software-engineering/)
+**发布时间**: 2025-08-15 17:47
+
+#### [Best Apple Watch (2025): Buyer’s Guide to the Series 10 and SE](https://www.wired.com/gallery/best-apple-watch/)
+**发布时间**: 2025-08-15 17:00
+
+#### [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
+**发布时间**: 2025-08-15 16:17
+
+#### [Now You Can Get Your Flu Vaccine at Home](https://www.wired.com/story/now-you-can-get-your-flu-vaccine-at-home/)
+**发布时间**: 2025-08-15 12:00
+
+#### [Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have](https://www.wired.com/review/dyson-airwrap-co-anda2x/)
+**发布时间**: 2025-08-15 11:30
+
+#### [‘Cheapfake’ AI Celeb Videos Are Rage-Baiting People on YouTube](https://www.wired.com/story/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube/)
+**发布时间**: 2025-08-15 11:00
+
+#### [Best Mattresses for Sex (2025)](https://www.wired.com/gallery/best-mattress-for-sex/)
+**发布时间**: 2025-08-15 10:01
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [王源和马嘉祺，是如何成为“抽象符号”的？](http://www.huxiu.com/article/4697248.html?f=wangzhan)
+**发布时间**: 2025-08-15 22:00
+
+#### [浪浪山小妖怪IP的背后，有哪些品牌营销的启示？](http://www.huxiu.com/article/4696957.html?f=wangzhan)
+**发布时间**: 2025-08-15 16:25
+
+#### [吉利用比亚迪的方式打比亚迪](http://www.huxiu.com/article/4696995.html?f=wangzhan)
+**发布时间**: 2025-08-15 15:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [On昂跑Q2亚太市场净销售额同增101.3%；BENLAI开设香港首店；361度今年上半年收益同增11.0%｜消研所周报](https://www.tmtpost.com/7660705.html)
+**发布时间**: 2025-08-15 21:39
+
+#### [虎牙回春：瘦了里子，肥了面子？](https://www.tmtpost.com/7661102.html)
+**发布时间**: 2025-08-15 19:26
+
+#### [京东Q2财报：国补和外卖，两个关键影响因子](https://www.tmtpost.com/7661189.html)
+**发布时间**: 2025-08-15 19:26
+
+#### [这家公司豪掷80亿美元吞并派拉蒙，图什么？](https://www.tmtpost.com/7661204.html)
+**发布时间**: 2025-08-15 19:25
+
+#### [脑机芯片迎来商业化元年](https://www.tmtpost.com/7661207.html)
+**发布时间**: 2025-08-15 19:15
+
+#### [赴港IPO，万兴科技还缺一把“屠龙刀”](https://www.tmtpost.com/7661148.html)
+**发布时间**: 2025-08-15 19:15
+
+#### [“偏执狂”而生的英特尔，这些年为什么「全错」？](https://www.tmtpost.com/7661244.html)
+**发布时间**: 2025-08-15 19:15
+
+#### [AI新势力破解成长难题，影视行业迈入巨变前夜](https://www.tmtpost.com/7661263.html)
+**发布时间**: 2025-08-15 19:15
+
+#### [左手加码大麻，右手再押芯片，烟标龙头永吉股份跨界“狂飙”｜并购一线](https://www.tmtpost.com/7661008.html)
+**发布时间**: 2025-08-15 18:24
+
+#### [腾讯游戏，活在枪炮声里](https://www.tmtpost.com/7661143.html)
+**发布时间**: 2025-08-15 18:05
+
+#### [茅台业绩增速放缓，新品能否提升士气](https://www.tmtpost.com/7660900.html)
+**发布时间**: 2025-08-15 18:04
+
+#### [赛博厨师，不是餐饮老板们的救命稻草](https://www.tmtpost.com/7660936.html)
+**发布时间**: 2025-08-15 17:56
+
+#### [网易游戏“大迂回”](https://www.tmtpost.com/7661124.html)
+**发布时间**: 2025-08-15 17:56
+
+#### [北京交通大学教授张向宏：具身机器人数据是世界级难题，仍需加入AI智能体技术](https://www.tmtpost.com/7659863.html)
+**发布时间**: 2025-08-15 17:53
+
+#### [小红书攻入B站大本营](https://www.tmtpost.com/7661014.html)
+**发布时间**: 2025-08-15 17:49
+
+#### [头部国际酒店集团Q2财报出炉，大中华区又遇冷了](https://www.tmtpost.com/7661034.html)
+**发布时间**: 2025-08-15 17:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [统一、优化、可信：龙蜥智算联盟要把 AI 落地的“公共坑”变成“公共能力”](https://www.infoq.cn/article/2rzuFJTMsg6qu0OSJcz0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 19:04
+
+#### [贝壳商机平台：MCP 原理剖析及实践](https://www.infoq.cn/article/DP5cPSBAhKAHaqMJHdSv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 17:24
+
+#### [GPT-5最大市场在印度？Altman最新访谈：可以聊婚姻家庭，但回答不了GPT-5为何不及预期](https://www.infoq.cn/article/TSPjBU1RWcd5lbMcGtMp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 17:13
+
+#### [MCP神器！MCP-USE 一键部署连接任何MCP服务器](https://xie.infoq.cn/article/4d9942b815961d64344bae572?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-14 11:28
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Louisiana sues Roblox for creating an environment where &#8216;child predators thrive&#8217;](https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety)
+**发布时间**: 2025-08-15 18:38
+
+#### [What my first five Steam purchases say about me](https://www.theverge.com/games/760049/steam-first-five-purchases-meme-dragon-age)
+**发布时间**: 2025-08-15 18:27
+
+#### [PBS is slashing its budget in response to Trump&#8217;s attack on public media](https://www.theverge.com/news/760026/pbs-is-slashing-its-budget-in-response-to-trumps-attack-on-public-media)
+**发布时间**: 2025-08-15 18:01
+
+#### [Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low](https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale)
+**发布时间**: 2025-08-15 17:30
+
+#### [A treaty to end plastic pollution is still out of reach — that’s not necessarily a bad thing](https://www.theverge.com/news/760058/plastic-pollution-treaty-negotiations-end)
+**发布时间**: 2025-08-15 17:12
+
+#### [Anthropic has new rules for a more dangerous AI landscape](https://www.theverge.com/news/760080/anthropic-updated-usage-policy-dangerous-ai-landscape)
+**发布时间**: 2025-08-15 17:05
+
+#### [Lamborghini’s new plug-in hybrid is the fastest car its ever built](https://www.theverge.com/news/759581/lamborghini-fenomeno-phew-few-off-specs)
+**发布时间**: 2025-08-15 17:00
+
+#### [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+**发布时间**: 2025-08-15 15:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101852)
+**发布时间**: 2025-08-15 18:15
+
+#### [微软在用 Office 文件格式蓄意破坏竞争吗？](https://sspai.com/prime/story/is-ooxml-artificially-complex)
+**发布时间**: 2025-08-15 15:54
 
 ---
 
