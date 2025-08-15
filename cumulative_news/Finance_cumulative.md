@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-14 23:20
+**最后更新时间**: 2025-08-15 05:22
+
+---
+
+## 🆕 最新更新 (2025-08-15 05:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s what it’s like to invest in private equity — and why you don’t want it in your 401(k)](https://www.marketwatch.com/story/heres-what-its-like-to-invest-in-private-equity-and-why-you-dont-want-it-in-your-401-k-2df14f91?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 02:51
+
+#### [M&A is back and corporate earnings are up. Do America’s biggest companies need rate cuts?](https://www.marketwatch.com/story/m-a-is-back-and-corporate-earnings-are-up-do-americas-biggest-companies-need-rate-cuts-1fe11d40?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 02:13
+
+#### [Warren Buffett places new bets on UnitedHealth and a major homebuilder, sending their stocks soaring](https://www.marketwatch.com/story/warren-buffett-places-new-bets-on-unitedhealth-and-a-major-homebuilder-sending-their-stocks-soaring-7b49d7f5?mod=mw_rss_topstories)
+**发布时间**: 2025-08-15 00:17
+
+#### [Netflix, Alibaba and this financial-sector ETF are worth a closer look right now](https://www.marketwatch.com/story/the-stock-market-still-has-broad-shoulders-to-support-investors-even-at-record-highs-560aa266?mod=mw_rss_topstories)
+**发布时间**: 2025-08-14 23:20
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How Netflix struck gold on the Billboard charts with ‘KPop Demon Hunters’](https://www.marketwatch.com/bulletins/redirect/go?g=76b23e06-9a51-46fd-b94c-0ebc66ce43f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 01:04
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 Aug 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 23:20:45 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 05:22:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从隐私计算迈向六大数据流通全栈技术，“隐语”开源社区升级</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-14-8</link>
-      <description>&lt;![CDATA[从隐私计算迈向六大数据流通全栈技术，“隐语”开源社区升级]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 19:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-14-8</guid>
+      <title>Science封面：高效精准模拟构象变化，微软研究院用生成式AI重塑蛋白质功能研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-6</link>
+      <description>&lt;![CDATA[Science封面：高效精准模拟构象变化，微软研究院用生成式AI重塑蛋白质功能研究]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator</title>
-      <link>https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/</link>
-      <description>&lt;![CDATA[Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/</guid>
+      <title>多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-7</link>
+      <description>&lt;![CDATA[多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: affordable EV trucks, and Russia’s latest internet block</title>
-      <link>https://www.technologyreview.com/2025/08/14/1121839/the-download-affordable-ev-trucks-and-russias-latest-internet-block/</link>
-      <description>&lt;![CDATA[The Download: affordable EV trucks, and Russia’s latest internet block]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/14/1121839/the-download-affordable-ev-trucks-and-russias-latest-internet-block/</guid>
+      <title>Meta视觉基座DINOv3王者归来：自监督首次全面超越弱监督，商用开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-8</link>
+      <description>&lt;![CDATA[Meta视觉基座DINOv3王者归来：自监督首次全面超越弱监督，商用开源]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The US could really use an affordable electric truck</title>
-      <link>https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/</link>
-      <description>&lt;![CDATA[The US could really use an affordable electric truck]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/</guid>
+      <title>谷歌开源Gemma 3 270M，性能超越Qwen 2.5同级模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-10</link>
+      <description>&lt;![CDATA[谷歌开源Gemma 3 270M，性能超越Qwen 2.5同级模型]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Using generative AI, researchers design compounds that can kill drug-resistant bacteria</title>
-      <link>https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814</link>
-      <description>&lt;![CDATA[Using generative AI, researchers design compounds that can kill drug-resistant bacteria]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814</guid>
+      <title>GPT-5、Grok 4、o3 Pro都零分，史上最难AI评测基准换它了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-11</link>
+      <description>&lt;![CDATA[GPT-5、Grok 4、o3 Pro都零分，史上最难AI评测基准换它了]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苹果发力AI硬件，结果就是小度智能屏？？桌宠机器人也要等到2027……</title>
-      <link>https://www.qbitai.com/2025/08/321954.html</link>
-      <description>&lt;![CDATA[苹果发力AI硬件，结果就是小度智能屏？？桌宠机器人也要等到2027……]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321954.html</guid>
+      <title>Agentic AI Frameworks: Architectures, Protocols, and Design Challenges</title>
+      <link>https://arxiv.org/abs/2508.10146</link>
+      <description>&lt;![CDATA[Agentic AI Frameworks: Architectures, Protocols, and Design Challenges]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.10146</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>潘建伟团队突破量子操控极限！AI助力2024个原子60毫秒精准重排</title>
-      <link>https://www.qbitai.com/2025/08/321955.html</link>
-      <description>&lt;![CDATA[潘建伟团队突破量子操控极限！AI助力2024个原子60毫秒精准重排]]&gt;</description>
-      <pubDate>Thu, 14 Aug 2025 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/321955.html</guid>
+      <title>链式思维是幻象吗？从数据分布视角重新审视大模型推理，马斯克回复，Grok破防</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15</link>
+      <description>&lt;![CDATA[链式思维是幻象吗？从数据分布视角重新审视大模型推理，马斯克回复，Grok破防]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model</title>
+      <link>https://arxiv.org/abs/2508.10492</link>
+      <description>&lt;![CDATA[Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.10492</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI 模特时代到来：字节x清华推出商用级视频换装模型DreamVVT，保真度显著领先SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-4</link>
+      <description>&lt;![CDATA[AI 模特时代到来：字节x清华推出商用级视频换装模型DreamVVT，保真度显著领先SOTA]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一句话搞定多任务出行，高德用空间智能重新定义地图</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-15-12</link>
+      <description>&lt;![CDATA[一句话搞定多任务出行，高德用空间智能重新定义地图]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-15-12</guid>
       <category>AI</category>
     </item>
   </channel>

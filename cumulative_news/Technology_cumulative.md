@@ -1,7 +1,131 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-14 23:20
+**最后更新时间**: 2025-08-15 05:22
+
+---
+
+## 🆕 最新更新 (2025-08-15 05:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Intel Shares Jump Over 7% on Reported Possible U.S. Government Stake In](https://www.tmtpost.com/7660641.html)
+**发布时间**: 2025-08-15 13:11
+
+#### [你从媒体上看到的Palantir，不是真实的Palantir](https://www.tmtpost.com/7660236.html)
+**发布时间**: 2025-08-15 11:46
+
+#### [JD.com Stock Dips as Q2 Profit Halves, Weighed by Costly Food Delivery](https://www.tmtpost.com/7660594.html)
+**发布时间**: 2025-08-15 11:45
+
+#### [2000元/千字，微短剧IP成新焦点，平台多次发布剧本激励计划](https://www.tmtpost.com/7660387.html)
+**发布时间**: 2025-08-15 11:34
+
+#### [服务器OS迎来智能化升级时代，AI如何“for system”？丨ToB产业观察](https://www.tmtpost.com/7660562.html)
+**发布时间**: 2025-08-15 11:23
+
+#### [PCSK9第一个出局者出现了](https://www.tmtpost.com/7660442.html)
+**发布时间**: 2025-08-15 11:19
+
+#### [服务智能体如何重塑酒店服务？ | 2025 ITValue Summit 前瞻对话「AI落地指南特别篇」③](https://www.tmtpost.com/7659025.html)
+**发布时间**: 2025-08-15 11:17
+
+#### [AgiBot Launches World's First Unified Video-Generative Platform for Robotics](https://www.tmtpost.com/7660556.html)
+**发布时间**: 2025-08-15 11:17
+
+#### [零食品牌，集体「渡劫」](https://www.tmtpost.com/7660458.html)
+**发布时间**: 2025-08-15 11:09
+
+#### [贵阳酒店房价终于有点熄火的苗头了](https://www.tmtpost.com/7660480.html)
+**发布时间**: 2025-08-15 11:09
+
+#### [大学教授收废品，一年狂揽300亿](https://www.tmtpost.com/7660493.html)
+**发布时间**: 2025-08-15 11:09
+
+#### [汇源公开控诉大股东“空手套白狼”，一场价值8.5亿元的资本迷局](https://www.tmtpost.com/7659359.html)
+**发布时间**: 2025-08-15 10:59
+
+#### [AI创业圈又冲出一个288亿独角兽......](https://www.tmtpost.com/7660379.html)
+**发布时间**: 2025-08-15 10:52
+
+#### [雪王冲塔：6块9的幸运咖死磕上海滩](https://www.tmtpost.com/7660394.html)
+**发布时间**: 2025-08-15 10:51
+
+#### [卧龙电驱：“买买买”筑帝国，多赛道布局喜忧参半](https://www.tmtpost.com/7660397.html)
+**发布时间**: 2025-08-15 10:51
+
+#### [高端化就是涨价？“方便面刺客”吃不起也卖不动了](https://www.tmtpost.com/7660403.html)
+**发布时间**: 2025-08-15 10:51
+
+#### [人均六七十吃到扶墙出，自助餐凭啥开出近7万家店？](https://www.tmtpost.com/7660451.html)
+**发布时间**: 2025-08-15 10:51
+
+#### ['Godfather of AI' Warns Superintelligence May Wipe Out Humanity Without "Maternal Instincts"](https://www.tmtpost.com/7660424.html)
+**发布时间**: 2025-08-15 10:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [One Network：云无关的服务和面向策略的网络架构](https://www.infoq.cn/article/5HzXkkoviE56vdtxjYzv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 13:00
+
+#### [Manus联创亲述Agent“成功学”：如果模型进步是潮水上涨，我们希望是船](https://www.infoq.cn/article/yklW94q0gZ3FIOvTXttU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 12:16
+
+#### [AI 应用出海：开拓全球版图的实战指南](https://www.infoq.cn/minibook/c5Dqwhf6H0GcONbNXEvq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 12:10
+
+#### [欧洲云困境：创新与数字主权](https://www.infoq.cn/article/rYCMS5KeiMSiBmwtOtgY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 10:53
+
+#### [Jakarta EE 12将侧重于一致性和配置](https://www.infoq.cn/article/iRW0zrUMuOKBQh4XbAWF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 10:49
+
+#### [Pinterest在迁移到Kubernetes的过程中发现了罕见的搜索失败](https://www.infoq.cn/article/txN5hNw61ExFME0jcC4q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 10:44
+
+#### [创始人带团队十多人丢掉价值5千万产品“跑路”，Anthropic全“收编”：精准复刻谷歌抢人术！](https://www.infoq.cn/article/2K64G0dKWSqvOhRaBDse?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 10:14
+
+#### [智能体驱动信贷风险的动态感知到策略自迭代｜AICon 深圳](https://www.infoq.cn/article/Tz8LlvK3mZkVuohzx8Ij?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-15 09:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜出国旅游总得问价，如何让陌生货币变「直观」？](https://sspai.com/post/101678)
+**发布时间**: 2025-08-15 11:00
+
+#### [派早报：HTC 发布 AI 智能眼镜 VIVE Eagle等](https://sspai.com/post/101841)
+**发布时间**: 2025-08-15 08:28
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [国产创新药“狂飙”，是好事吗？](http://www.huxiu.com/article/4692823.html?f=wangzhan)
+**发布时间**: 2025-08-15 10:25
+
+#### [女强男弱的姐弟恋婚姻，总能为综艺节目输出热门话题](http://www.huxiu.com/article/4694156.html?f=wangzhan)
+**发布时间**: 2025-08-15 08:01
+
+#### [港股创新药今年涨了100%，背后的逻辑是什么？](http://www.huxiu.com/article/4688409.html?f=wangzhan)
+**发布时间**: 2025-08-15 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [李想：i8 反响不错，产品力没对手；库克暗示：苹果将推桌面机器人；中国日均消耗 30 万亿 Token，暴涨 300 倍](http://www.geekpark.net/news/352729)
+**发布时间**: 2025-08-15 08:31
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)
+**发布时间**: 2025-08-15 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Fortnite login is back after an outage](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
+**发布时间**: 2025-08-15 00:07
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
+**发布时间**: 2025-08-15 00:04
 
 ---
 
