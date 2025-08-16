@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-16 08:28
+**最后更新时间**: 2025-08-16 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-16 23:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [泡泡玛特和名创优品终究是撞上了](https://www.tmtpost.com/7661753.html)
+**发布时间**: 2025-08-16 16:49
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut](https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale)
+**发布时间**: 2025-08-16 14:23
+
+#### [Dead Take’s best scares come from real-life performances](https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr)
+**发布时间**: 2025-08-16 13:00
+
+#### [A brazen attack on air safety is underway — here’s what’s at stake](https://www.theverge.com/planes/758913/air-safety-regulation-faa-trump-bedford-sully)
+**发布时间**: 2025-08-16 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [I Tried the Best At-Home Pet DNA Test Kits on My Two Cats (2025)](https://www.wired.com/gallery/best-pet-dna-tests/)
+**发布时间**: 2025-08-16 14:05
+
+#### [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+**发布时间**: 2025-08-16 13:03
+
+#### [UN Plastics Treaty Talks Once Again End in Failure](https://www.wired.com/story/un-plastics-treaty-talks-once-again-end-in-failure/)
+**发布时间**: 2025-08-16 12:52
+
+#### [Acer Predator Helios 16S AI Review: Great Performance, Annoying Crashes](https://www.wired.com/review/acer-predator-helios-16s-ai/)
+**发布时间**: 2025-08-16 12:30
+
+#### [DJI Osmo 360 Review: A Strong Start](https://www.wired.com/review/dji-osmo-360/)
+**发布时间**: 2025-08-16 12:00
+
+#### [The 47 Best Movies on Netflix Right Now (August 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-08-16 11:00
+
+#### [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)
+**发布时间**: 2025-08-16 11:00
+
+#### [The 47 Best Shows on Netflix Right Now (August 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-08-16 11:00
+
+#### [Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV](https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/)
+**发布时间**: 2025-08-16 10:30
+
+#### [Russia Is Cracking Down on End-to-End Encrypted Calls](https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/)
+**发布时间**: 2025-08-16 10:30
+
+#### [19 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
+**发布时间**: 2025-08-16 10:02
+
+#### [WIRED’s Guide to Buying a Used Plug-In Hybrid](https://www.wired.com/story/the-guide-to-buying-a-used-plug-in-hybrid-phev/)
+**发布时间**: 2025-08-16 10:00
+
+#### [How One Wikipedia Editor Unraveled the ‘Single Largest Self-Promotion Operation’ in the Site's History](https://www.wired.com/story/wikipedia-editor-largest-self-promotion-operation/)
+**发布时间**: 2025-08-16 09:00
 
 ---
 

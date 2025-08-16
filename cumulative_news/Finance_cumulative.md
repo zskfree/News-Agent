@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-16 05:20
+**最后更新时间**: 2025-08-16 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-16 23:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [3 ways to make sure the ‘great wealth transfer’ enriches your family](https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 19:02
+
+#### [Most boomers and Gen X-ers are terrified about running out of money in retirement — even if they’re already retired](https://www.marketwatch.com/story/most-boomers-and-gen-x-ers-are-terrified-about-running-out-of-money-in-retirement-even-if-theyre-already-retired-43d52ed0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 18:22
+
+#### [Why your stock portfolio may actually ‘feel’ depressed that summer is almost over](https://www.marketwatch.com/story/summers-almost-over-and-the-return-of-pumpkin-spice-lattes-is-a-sign-that-your-stock-portfolio-may-fall-ac250c2e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 17:52
+
+#### [An obsession with avoiding the estate tax cost this top exec his marriage. Now his son is speaking out.](https://www.marketwatch.com/story/an-obsession-with-avoiding-the-estate-tax-cost-this-top-exec-his-marriage-now-his-son-is-speaking-out-2d4afbef?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 17:33
+
+#### [I have $140,000 in a 401(k) and earn $45,000 a year. Can I retire in 20 years?](https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 17:14
+
+#### [What is the worst financial mistake you’ve ever made?](https://www.marketwatch.com/story/what-is-the-worst-financial-decision-youve-ever-made-02314556?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 17:01
+
+#### [‘She has no immediate family’: Will my mother receive the contents of my aunt’s safe-deposit box after she dies?](https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 16:57
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The old software investing playbook is dead. Here’s where to put your money now.](https://www.marketwatch.com/bulletins/redirect/go?g=755bb9e5-4f78-46d3-b80a-23c9e09c2426&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-16 14:22
+
+#### [Inflation alarm bells went off again and prices are rising. How bad will it get?](https://www.marketwatch.com/bulletins/redirect/go?g=80f039cf-defe-4d93-9bcc-e180dd4482b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-16 13:48
+
+#### [Why turning stocks and bonds into crypto-style trades won’t be happening soon](https://www.marketwatch.com/bulletins/redirect/go?g=408ecbe8-a630-4084-aa51-9c7823008bf9&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-16 13:23
 
 ---
 
