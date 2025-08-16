@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-15 23:20
+**最后更新时间**: 2025-08-16 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-16 05:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump hints at higher semiconductor tariffs. How companies could dodge them.](https://www.marketwatch.com/bulletins/redirect/go?g=8715694e-0bf8-41df-8787-fd7b58e38dbe&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-16 02:23
+
+#### [Why the Trump-Putin summit is no ‘magic lever’ to unleash global oil supplies](https://www.marketwatch.com/bulletins/redirect/go?g=797bd0f4-e616-40e2-b0f6-590e752a9d84&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-16 00:34
+
+#### [Intel’s stock has best week in 25 years. But would Trump’s aid just be a waste?](https://www.marketwatch.com/bulletins/redirect/go?g=94ac8de1-b22c-4a19-b756-c3739585b0d5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-15 23:58
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the Trump-Putin summit is no ‘magic lever’ to unleash global oil supplies](https://www.marketwatch.com/story/why-the-trump-putin-summit-is-no-magic-lever-to-unleash-global-oil-supplies-cf589403?mod=mw_rss_topstories)
+**发布时间**: 2025-08-16 00:30
 
 ---
 
