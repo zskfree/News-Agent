@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 Aug 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2025 23:20:35 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 08:28:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep</title>
-      <link>https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/</link>
-      <description>&lt;![CDATA[The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Why GPT-4o’s sudden shutdown left people grieving</title>
-      <link>https://www.technologyreview.com/2025/08/15/1121900/gpt4o-grief-ai-companion/</link>
-      <description>&lt;![CDATA[Why GPT-4o’s sudden shutdown left people grieving]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121900/gpt4o-grief-ai-companion/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Indigenous knowledge meets artificial intelligence</title>
-      <link>https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/</link>
-      <description>&lt;![CDATA[Indigenous knowledge meets artificial intelligence]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Taiwan’s “silicon shield” could be weakening</title>
-      <link>https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/</link>
-      <description>&lt;![CDATA[Taiwan’s “silicon shield” could be weakening]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Why US federal health agencies are abandoning mRNA vaccines</title>
-      <link>https://www.technologyreview.com/2025/08/15/1121885/why-us-federal-health-agencies-are-abandoning-mrna-vaccines/</link>
-      <description>&lt;![CDATA[Why US federal health agencies are abandoning mRNA vaccines]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/15/1121885/why-us-federal-health-agencies-are-abandoning-mrna-vaccines/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>文远知行获Grab投资数千万美元，双方将合作在东南亚大规模部署Robotaxi</title>
-      <link>https://www.qbitai.com/2025/08/322254.html</link>
-      <description>&lt;![CDATA[文远知行获Grab投资数千万美元，双方将合作在东南亚大规模部署Robotaxi]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322254.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>百度AICA第9期开课：18大行业96位首席AI架构师齐探AI产业落地</title>
-      <link>https://www.qbitai.com/2025/08/322244.html</link>
-      <description>&lt;![CDATA[百度AICA第9期开课：18大行业96位首席AI架构师齐探AI产业落地]]&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 09:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322244.html</guid>
+      <title>宇树机器人“撞人逃逸”火到国外，王兴兴回应：下次不遥控了</title>
+      <link>https://www.qbitai.com/2025/08/322262.html</link>
+      <description>&lt;![CDATA[宇树机器人“撞人逃逸”火到国外，王兴兴回应：下次不遥控了]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 07:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322262.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 16 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Aug 2025 05:20:57 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 08:28:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LangChain推出开源异步编码智能体Open SWE</title>
-      <link>https://www.infoq.cn/article/ucQtx67807qs9B4ig5IS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LangChain推出开源异步编码智能体Open SWE]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ucQtx67807qs9B4ig5IS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>东方甄选想成为东方山姆</title>
+      <link>https://www.tmtpost.com/7661752.html</link>
+      <description>&lt;![CDATA[东方甄选想成为东方山姆]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661752.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>HashiCorp推出适用于Terraform和Vault的MCP服务器</title>
-      <link>https://www.infoq.cn/article/drfeIMmWTgz8eVw59Yc6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[HashiCorp推出适用于Terraform和Vault的MCP服务器]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/drfeIMmWTgz8eVw59Yc6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>魏则西离开后，医疗陷阱的100种方式</title>
+      <link>https://www.tmtpost.com/7661694.html</link>
+      <description>&lt;![CDATA[魏则西离开后，医疗陷阱的100种方式]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661694.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技通过ARC区域切换简化了多区域故障转移</title>
-      <link>https://www.infoq.cn/article/3w4YiEQdJ21LDmXdSW5s?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技通过ARC区域切换简化了多区域故障转移]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3w4YiEQdJ21LDmXdSW5s?utm_source=rss&amp;utm_medium=article</guid>
+      <title>视频号不再是全村的希望</title>
+      <link>https://www.tmtpost.com/7661430.html</link>
+      <description>&lt;![CDATA[视频号不再是全村的希望]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Sam Altman：AI存在泡沫；宇树机器人夺金，王兴兴：用遥控追求极致速度；蔡浩宇AI游戏上架，27.19元｜极客早知道</title>
-      <link>http://www.geekpark.net/news/352780</link>
-      <description>&lt;![CDATA[Sam Altman：AI存在泡沫；宇树机器人夺金，王兴兴：用遥控追求极致速度；蔡浩宇AI游戏上架，27.19元｜极客早知道]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352780</guid>
+      <title>北美倒车、中国高歌，Crocs能否续写“洞洞鞋之王”的传奇？</title>
+      <link>https://www.tmtpost.com/7661665.html</link>
+      <description>&lt;![CDATA[北美倒车、中国高歌，Crocs能否续写“洞洞鞋之王”的传奇？]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661665.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump Says He Will Unveil Semiconductor Tariffs Up to 300% in Weeks, Followed by Steel Levies</title>
-      <link>https://www.tmtpost.com/7661673.html</link>
-      <description>&lt;![CDATA[Trump Says He Will Unveil Semiconductor Tariffs Up to 300% in Weeks, Followed by Steel Levies]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661673.html</guid>
+      <title>GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢家</title>
+      <link>https://www.tmtpost.com/7661681.html</link>
+      <description>&lt;![CDATA[GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢家]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661681.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>寒武纪的“稀缺”真这么贵？</title>
-      <link>https://www.tmtpost.com/7661437.html</link>
-      <description>&lt;![CDATA[寒武纪的“稀缺”真这么贵？]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661437.html</guid>
+      <title>Trump Admin. Could Use Chips Act Funds for Intel Stake</title>
+      <link>https://www.tmtpost.com/7661695.html</link>
+      <description>&lt;![CDATA[Trump Admin. Could Use Chips Act Funds for Intel Stake]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661695.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 大模型混合架构驱动的金融产品创新实践｜AICon 深圳</title>
-      <link>https://www.infoq.cn/article/yb8zzNEKD9wUbFJwqimp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 大模型混合架构驱动的金融产品创新实践｜AICon 深圳]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yb8zzNEKD9wUbFJwqimp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼</title>
+      <link>https://sspai.com/post/101860</link>
+      <description>&lt;![CDATA[下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/101860</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话4K花园董事长吴懿：AI+5G重构万亿超高清产业</title>
-      <link>https://www.tmtpost.com/7661434.html</link>
-      <description>&lt;![CDATA[对话4K花园董事长吴懿：AI+5G重构万亿超高清产业]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 10:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661434.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>光伏的后路又断了，怎么办……</title>
-      <link>https://www.tmtpost.com/7661576.html</link>
-      <description>&lt;![CDATA[光伏的后路又断了，怎么办……]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 11:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661576.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>全民骑手时代，外卖不够送了</title>
-      <link>https://www.tmtpost.com/7661446.html</link>
-      <description>&lt;![CDATA[全民骑手时代，外卖不够送了]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661446.html</guid>
+      <title>Dev Proxy发布v1.0，具备AI故障模拟、Token速率限制和集成增强功能</title>
+      <link>https://www.infoq.cn/article/HIw5rVVm1T7OKEzy7MUP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Dev Proxy发布v1.0，具备AI故障模拟、Token速率限制和集成增强功能]]&gt;</description>
+      <pubDate>Sat, 16 Aug 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HIw5rVVm1T7OKEzy7MUP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

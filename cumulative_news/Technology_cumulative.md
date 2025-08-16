@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-16 05:20
+**最后更新时间**: 2025-08-16 08:28
+
+---
+
+## 🆕 最新更新 (2025-08-16 08:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [东方甄选想成为东方山姆](https://www.tmtpost.com/7661752.html)
+**发布时间**: 2025-08-16 16:12
+
+#### [魏则西离开后，医疗陷阱的100种方式](https://www.tmtpost.com/7661694.html)
+**发布时间**: 2025-08-16 15:00
+
+#### [视频号不再是全村的希望](https://www.tmtpost.com/7661430.html)
+**发布时间**: 2025-08-16 14:03
+
+#### [北美倒车、中国高歌，Crocs能否续写“洞洞鞋之王”的传奇？](https://www.tmtpost.com/7661665.html)
+**发布时间**: 2025-08-16 14:02
+
+#### [GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢家](https://www.tmtpost.com/7661681.html)
+**发布时间**: 2025-08-16 14:02
+
+#### [Trump Admin. Could Use Chips Act Funds for Intel Stake](https://www.tmtpost.com/7661695.html)
+**发布时间**: 2025-08-16 13:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼](https://sspai.com/post/101860)
+**发布时间**: 2025-08-16 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Dev Proxy发布v1.0，具备AI故障模拟、Token速率限制和集成增强功能](https://www.infoq.cn/article/HIw5rVVm1T7OKEzy7MUP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-16 14:00
 
 ---
 
