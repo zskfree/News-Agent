@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-17 08:27
+**最后更新时间**: 2025-08-17 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-17 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [理想的对手，家庭的新宠？风神L8的市场突围](https://www.tmtpost.com/7662205.html)
+**发布时间**: 2025-08-18 07:05
+
+#### [“中国游戏算法诉讼第一案”中的情绪与事实](https://www.tmtpost.com/7661898.html)
+**发布时间**: 2025-08-17 20:49
+
+#### [80亿跨界光伏留下11亿债务窟窿，“港机龙头”又奔向下一个热点……](https://www.tmtpost.com/7661976.html)
+**发布时间**: 2025-08-17 20:48
+
+#### [限制光伏超标，“新能源大省”山东遭遇电力系统大难题](https://www.tmtpost.com/7661979.html)
+**发布时间**: 2025-08-17 20:48
+
+#### [田佳树：小型模块化反应堆SMR技术发展和投资机会](https://www.tmtpost.com/7662067.html)
+**发布时间**: 2025-08-17 20:45
+
+#### [古钱币市场正在复刻文玩圈的泡沫？](https://www.tmtpost.com/7662034.html)
+**发布时间**: 2025-08-17 16:31
+
+#### [SOFC在“AI能源困局”下迎来产业化临界点，壹石通们竞逐全球新赛道](https://www.tmtpost.com/7661995.html)
+**发布时间**: 2025-08-17 16:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透｜「胡萝卜手指」选字难：Flyme 的 Aicy 识屏是怎么做的？](https://sspai.com/post/101567)
+**发布时间**: 2025-08-17 17:45
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [These 5 Posture Corrector Picks Will Straighten You Out (2025)](https://www.wired.com/gallery/posture-correctors/)
+**发布时间**: 2025-08-17 13:00
+
+#### [Camp Snap CS-8 Review: Simple Video Capture](https://www.wired.com/review/camp-snap-cs-8/)
+**发布时间**: 2025-08-17 12:00
+
+#### [Pebblebee Is Getting Serious About Personal Safety Tracking](https://www.wired.com/story/pebblebee-is-getting-serious-about-personal-safety-tracking/)
+**发布时间**: 2025-08-17 12:00
+
+#### [What Is the Electric Constant and Why Should You Care?](https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/)
+**发布时间**: 2025-08-17 11:00
+
+#### [The 7 Best Mattress Toppers (2025) Out of Dozens We've Tested: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)
+**发布时间**: 2025-08-17 10:31
+
+#### [The Best Pixel 9 Cases, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
+**发布时间**: 2025-08-17 10:03
+
+#### [AI Is Designing Bizarre New Physics Experiments That Actually Work](https://www.wired.com/story/ai-comes-up-with-bizarre-physics-experiments-but-they-work/)
+**发布时间**: 2025-08-16 23:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Why the former editor of Polygon is making a podcast for old gamers](https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon)
+**发布时间**: 2025-08-17 12:30
+
+#### [The one feature that keeps me from recommending flip phones](https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw)
+**发布时间**: 2025-08-17 12:00
+
+#### [Teenage Engineering did it again](https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer)
+**发布时间**: 2025-08-17 12:00
 
 ---
 

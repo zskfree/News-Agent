@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2025 05:20:42 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 23:20:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>卖酒的茅台要学AI了！和奔驰麦当劳一起拜师百度</title>
-      <link>https://www.qbitai.com/2025/08/322392.html</link>
-      <description>&lt;![CDATA[卖酒的茅台要学AI了！和奔驰麦当劳一起拜师百度]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 03:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322392.html</guid>
+      <title>400万人围观的分层推理模型，「分层架构」竟不起作用？性能提升另有隐情？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-17-3</link>
+      <description>&lt;![CDATA[400万人围观的分层推理模型，「分层架构」竟不起作用？性能提升另有隐情？]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-17-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小扎天价薪酬难动FAIR朱泽园！清华学霸放话：死守基础研究，捍卫大模型开源</title>
-      <link>https://www.qbitai.com/2025/08/322377.html</link>
-      <description>&lt;![CDATA[小扎天价薪酬难动FAIR朱泽园！清华学霸放话：死守基础研究，捍卫大模型开源]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 03:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322377.html</guid>
+      <title>CoRL 2025｜隐空间扩散世界模型LaDi-WM大幅提升机器人操作策略的成功率和跨场景泛化能力</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-17-2</link>
+      <description>&lt;![CDATA[CoRL 2025｜隐空间扩散世界模型LaDi-WM大幅提升机器人操作策略的成功率和跨场景泛化能力]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 19:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-17-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SEAgent：开启从实战经验中自我进化的GUI智能体新纪元</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-17</link>
+      <description>&lt;![CDATA[SEAgent：开启从实战经验中自我进化的GUI智能体新纪元]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-17</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一周六连发！昆仑万维将多模态AI卷到了新高度</title>
+      <link>https://www.qbitai.com/2025/08/322418.html</link>
+      <description>&lt;![CDATA[一周六连发！昆仑万维将多模态AI卷到了新高度]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322418.html</guid>
       <category>AI</category>
     </item>
   </channel>

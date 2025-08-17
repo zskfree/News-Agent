@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-16 23:18
+**最后更新时间**: 2025-08-17 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-17 23:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures inch higher following Trump-Putin summit; Wall Street awaits Fed’s Jackson Hole meeting](https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53?mod=mw_rss_topstories)
+**发布时间**: 2025-08-17 23:17
+
+#### [Walmart and rivals report earnings, for the clearest look yet at tariffs’ impact on consumers. Will CEOs talk about the elephant in the room?](https://www.marketwatch.com/story/walmart-and-rivals-report-for-the-clearest-look-at-the-consumer-yet-will-ceos-talk-about-the-elephant-in-the-room-c17d9f55?mod=mw_rss_topstories)
+**发布时间**: 2025-08-17 21:36
+
+#### [How safe are cruise-ship water slides? A recent incident on a Royal Caribbean sailing raises concerns.](https://www.marketwatch.com/story/how-safe-are-cruise-ship-water-slides-a-recent-incident-on-a-royal-caribbean-sailing-begs-the-question-7c565d82?mod=mw_rss_topstories)
+**发布时间**: 2025-08-17 20:06
+
+#### [Investors are plowing into homebuilder stocks. Will Jackson Hole prove them wrong?](https://www.marketwatch.com/story/investors-are-plowing-into-homebuilder-stocks-will-jackson-hole-prove-them-wrong-adff93ec?mod=mw_rss_topstories)
+**发布时间**: 2025-08-17 20:03
+
+#### [My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?](https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories)
+**发布时间**: 2025-08-17 19:22
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stock futures inch higher following Trump-Putin summit](https://www.marketwatch.com/bulletins/redirect/go?g=55a45409-0a47-4a85-b54f-3dccba58d8ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-17 22:26
+
+#### [Teachers buying classroom supplies will get more tax breaks, but there’s a catch](https://www.marketwatch.com/bulletins/redirect/go?g=d786a07c-61a5-4beb-a03b-08637dbdc77e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-17 20:18
 
 ---
 

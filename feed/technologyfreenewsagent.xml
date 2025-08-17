@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Aug 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2025 08:27:23 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 23:20:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌DeepMind开源了Aeneas，一个用于分析古代文本的AI模型</title>
-      <link>https://www.infoq.cn/article/ZxPzG5yeapHcqhoyoJN8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌DeepMind开源了Aeneas，一个用于分析古代文本的AI模型]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZxPzG5yeapHcqhoyoJN8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SOFC在“AI能源困局”下迎来产业化临界点，壹石通们竞逐全球新赛道</title>
+      <link>https://www.tmtpost.com/7661995.html</link>
+      <description>&lt;![CDATA[SOFC在“AI能源困局”下迎来产业化临界点，壹石通们竞逐全球新赛道]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661995.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic研究了大语言模型如何塑造性格</title>
-      <link>https://www.infoq.cn/article/7PTVR6vlXT0UIrukKvIP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic研究了大语言模型如何塑造性格]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7PTVR6vlXT0UIrukKvIP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>田佳树：小型模块化反应堆SMR技术发展和投资机会</title>
+      <link>https://www.tmtpost.com/7662067.html</link>
+      <description>&lt;![CDATA[田佳树：小型模块化反应堆SMR技术发展和投资机会]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7662067.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>金融科技生态网加速成型！九方智投控股旗下AI公司九方智擎扎根“模速空间”启新程</title>
-      <link>https://www.tmtpost.com/7662015.html</link>
-      <description>&lt;![CDATA[金融科技生态网加速成型！九方智投控股旗下AI公司九方智擎扎根“模速空间”启新程]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7662015.html</guid>
+      <title>限制光伏超标，“新能源大省”山东遭遇电力系统大难题</title>
+      <link>https://www.tmtpost.com/7661979.html</link>
+      <description>&lt;![CDATA[限制光伏超标，“新能源大省”山东遭遇电力系统大难题]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 20:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661979.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“中国游戏算法诉讼第一案”中的情绪与事实</title>
+      <link>https://www.tmtpost.com/7661898.html</link>
+      <description>&lt;![CDATA[“中国游戏算法诉讼第一案”中的情绪与事实]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 20:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661898.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>具透｜「胡萝卜手指」选字难：Flyme 的 Aicy 识屏是怎么做的？</title>
+      <link>https://sspai.com/post/101567</link>
+      <description>&lt;![CDATA[具透｜「胡萝卜手指」选字难：Flyme 的 Aicy 识屏是怎么做的？]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/101567</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Pebblebee Is Getting Serious About Personal Safety Tracking</title>
+      <link>https://www.wired.com/story/pebblebee-is-getting-serious-about-personal-safety-tracking/</link>
+      <description>&lt;![CDATA[Pebblebee Is Getting Serious About Personal Safety Tracking]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/pebblebee-is-getting-serious-about-personal-safety-tracking/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>What Is the Electric Constant and Why Should You Care?</title>
+      <link>https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/</link>
+      <description>&lt;![CDATA[What Is the Electric Constant and Why Should You Care?]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>80亿跨界光伏留下11亿债务窟窿，“港机龙头”又奔向下一个热点……</title>
+      <link>https://www.tmtpost.com/7661976.html</link>
+      <description>&lt;![CDATA[80亿跨界光伏留下11亿债务窟窿，“港机龙头”又奔向下一个热点……]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 20:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7661976.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>理想的对手，家庭的新宠？风神L8的市场突围</title>
+      <link>https://www.tmtpost.com/7662205.html</link>
+      <description>&lt;![CDATA[理想的对手，家庭的新宠？风神L8的市场突围]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 07:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7662205.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The one feature that keeps me from recommending flip phones</title>
+      <link>https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw</link>
+      <description>&lt;![CDATA[The one feature that keeps me from recommending flip phones]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw</guid>
       <category>Technology</category>
     </item>
   </channel>

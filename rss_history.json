@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "fe663f4a72266911922da6543375c18d7025ea2bede50fe883d4c09a92efdfa0": {
-        "title": "AI for Chemistry进入「配置即代码」时代，Chemia一键训练化学AI模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-18-9",
-        "published_date": "Fri, 18 Jul 2025 16:18:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.844674"
-      },
-      "9f68db9d7cf0219902aa2f662de7e60da0810f35a0f48608c6e3158c25df1f0b": {
-        "title": "快速、精准且可解释的通用药物发现工作流LeadDisFlow：中国团队推动候选药物进入临床Ⅱ期",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-18-8",
-        "published_date": "Fri, 18 Jul 2025 14:16:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.844846"
-      },
-      "b5419420160b9c30f125407a910cf15d2dd987254a397bd8084ab164ae99295a": {
-        "title": "Meta全新AI组织架构曝光，这范儿有点字节",
-        "link": "https://www.qbitai.com/2025/07/310433.html",
-        "published_date": "Fri, 18 Jul 2025 06:59:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.845031"
-      },
-      "960c26e819b19a160ce2e5e62ddf9dca790b4daa73e719f8f15390dcd6ff3e67": {
-        "title": "真热AI！米哈游5亿成立新公司",
-        "link": "https://www.qbitai.com/2025/07/310399.html",
-        "published_date": "Fri, 18 Jul 2025 05:43:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.845257"
-      },
       "b9c1c89e2de3f31b8cbe8026ede490331ff9e304363ebeed2d27796840c2b57a": {
         "title": "庞若鸣交班陈智峰，苹果发布2025基础模型技术报告",
         "link": "https://www.jiqizhixin.com/articles/2025-07-18-11",
@@ -8844,93 +8820,33 @@
         "link": "https://www.qbitai.com/2025/08/322377.html",
         "published_date": "Sun, 17 Aug 2025 03:52:00 GMT",
         "first_seen": "2025-08-17T05:20:42.758916"
+      },
+      "6989ee827eccba7a7767ddcedc14def7cb5fd9e71fd235f59ae789aa646737aa": {
+        "title": "400万人围观的分层推理模型，「分层架构」竟不起作用？性能提升另有隐情？",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-17-3",
+        "published_date": "Sun, 17 Aug 2025 20:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.436061"
+      },
+      "5a2a4e65634cf6f9383e16eaf93239bd7a7e0b11f236769e05edcd556c253a28": {
+        "title": "CoRL 2025｜隐空间扩散世界模型LaDi-WM大幅提升机器人操作策略的成功率和跨场景泛化能力",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-17-2",
+        "published_date": "Sun, 17 Aug 2025 19:49:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.436259"
+      },
+      "6588c0d30e59f579f20040e85c45574e7e7922cdb1dbaa502764395d535bb173": {
+        "title": "SEAgent：开启从实战经验中自我进化的GUI智能体新纪元",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-17",
+        "published_date": "Sun, 17 Aug 2025 19:45:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.436457"
+      },
+      "78ad5a3f8ca245a97f407160895eda788ed6591b83807a361a360287b7e2495c": {
+        "title": "一周六连发！昆仑万维将多模态AI卷到了新高度",
+        "link": "https://www.qbitai.com/2025/08/322418.html",
+        "published_date": "Sun, 17 Aug 2025 09:37:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.436663"
       }
     },
     "Technology": {
-      "d9bafe2037a3016b9102d48414c8da8493e06cfea1b01e3c0bd35d40c8f5c1f8": {
-        "title": "7月18日A股分析：三大指数集体上涨，沪指创年内收盘新高，主力资金净流出292亿，小金属与稀土板块逆势吸金",
-        "link": "https://www.tmtpost.com/7630570.html",
-        "published_date": "Fri, 18 Jul 2025 15:34:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807609"
-      },
-      "cb8e38f97714ef02f07a4beba402810e61100fc54ab034e46e7d9720086d764a": {
-        "title": "齐云山：产能利用率未超过80%，依旧大举扩产，申报前夕大举分红，却欠缴员工社保｜IPO观察",
-        "link": "https://www.tmtpost.com/7627998.html",
-        "published_date": "Fri, 18 Jul 2025 15:21:00 GMT",
-        "first_seen": "2025-07-18T08:30:06.087049"
-      },
-      "b611e1656b88ee9630d7e5058d0ff6353c9cd698dd302ebe182b770a5a47710c": {
-        "title": "国产AI芯片公司曦望融资近10亿元，2026年量产第三代多模推理算力卡",
-        "link": "https://www.tmtpost.com/7630475.html",
-        "published_date": "Fri, 18 Jul 2025 15:19:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807555"
-      },
-      "599e621258a1e2a0c560a30ab76b2c954822c50865779c8250a1de75f80c66f4": {
-        "title": "凯乐士：申报前夕，股权低价转让，公司每年亏损1.7亿元，经营性现金也长期“失血”｜IPO观察",
-        "link": "https://www.tmtpost.com/7628073.html",
-        "published_date": "Fri, 18 Jul 2025 15:18:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807596"
-      },
-      "1c95a0ca7587966601aa684335bf8f5f353c809bfce703e1c2390b1d23e9d89b": {
-        "title": "KKR Nears Completion of Dayao Soda Buyout in Rare Foreign Takeover of Chinese Beverage Brand",
-        "link": "https://www.tmtpost.com/7630554.html",
-        "published_date": "Fri, 18 Jul 2025 14:59:00 GMT",
-        "first_seen": "2025-07-18T08:30:06.088300"
-      },
-      "a0d5f5aef66b455f29086767b2a3f22f7f98d81e9afdc900d95f8146abb9b4e7": {
-        "title": "拼多多突然暂停信息流投放CID，原因没那么简单",
-        "link": "https://www.tmtpost.com/7630515.html",
-        "published_date": "Fri, 18 Jul 2025 14:55:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807584"
-      },
-      "8f7c76d5d73a0e3e71a7b4a879b70460ccd60b6cda2a6260225842d59e47c296": {
-        "title": "腾讯想让《王者荣耀》长青，玩家却想“减负”",
-        "link": "https://www.tmtpost.com/7630443.html",
-        "published_date": "Fri, 18 Jul 2025 14:55:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807575"
-      },
-      "1b3cbaa43d4c5bb97e61ebfcaa20102032083f793ab2bcae741e0e8ec3c74461": {
-        "title": "洽洽食品业绩亮红灯，实控人陈先保家族近年财富缩水",
-        "link": "https://www.tmtpost.com/7630427.html",
-        "published_date": "Fri, 18 Jul 2025 14:55:00 GMT",
-        "first_seen": "2025-07-18T08:30:06.089496"
-      },
-      "3ca343719ae984d2aac17ba98f80a5c500bb40765bba33f2d3e157fd2a94f63d": {
-        "title": "一大批土菜馆走红，餐饮业开始流行“野”路子",
-        "link": "https://www.tmtpost.com/7630472.html",
-        "published_date": "Fri, 18 Jul 2025 14:55:00 GMT",
-        "first_seen": "2025-07-18T08:30:06.089971"
-      },
-      "3570462a750cf0abf568bf116fab07b31ae9bd0ab0bfe625aa3f13b2a38e3c50": {
-        "title": "圆心科技智能体集群落地 智能化变革重构医疗价值生态",
-        "link": "https://www.tmtpost.com/7630484.html",
-        "published_date": "Fri, 18 Jul 2025 14:33:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807565"
-      },
-      "98e0c65bb26c2a2213d2025f897c5405ddda2369540122cd147b4e3e5dbf7d65": {
-        "title": "Trump Said to Sign Executive Orders Promoting Exports of U.S. Chips and AI Tools",
-        "link": "https://www.tmtpost.com/7630464.html",
-        "published_date": "Fri, 18 Jul 2025 14:06:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807508"
-      },
-      "0a51ade6e064a68107b5199f9a2979b2238388ccda132319b81e07d580888c02": {
-        "title": "OpenAI 组织内部，到底是如何运作的？",
-        "link": "http://www.geekpark.net/news/351668",
-        "published_date": "Fri, 18 Jul 2025 15:13:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807530"
-      },
-      "fa7290b21d357612ebdfd17f49b58f8472721f8d2bfbafefb7770270ba5b74fa": {
-        "title": "去伪存真：聊聊 AI 智能体的定义、工具选择与避坑",
-        "link": "https://sspai.com/post/101085",
-        "published_date": "Fri, 18 Jul 2025 14:44:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807543"
-      },
-      "14308c3c392efe2067312f032a84fe60d270a47dbbf7052950935ad64b379b6a": {
-        "title": "Lelo Ora 3 Review: A Tongue Stimulator",
-        "link": "https://www.wired.com/review/lelo-ora-3/",
-        "published_date": "Fri, 18 Jul 2025 08:00:00 GMT",
-        "first_seen": "2025-07-18T08:30:41.807618"
-      },
       "9d7946157dceb045bab4478855c609f511c60b7454b74ebc159a206f020a3486": {
         "title": "百度萝卜快跑牵手Uber出海；MiniMax入港上市；霸王茶姬重返越南；《哪吒2》阿联酋上映｜一周大公司出海动态",
         "link": "https://www.tmtpost.com/7631212.html",
@@ -23054,6 +22970,108 @@
         "link": "https://www.tmtpost.com/7662015.html",
         "published_date": "Sun, 17 Aug 2025 15:20:00 GMT",
         "first_seen": "2025-08-17T08:27:23.283707"
+      },
+      "dc55910effb3e067d4379d5160a268e300b2f4b08a6985dcc5319d1de926e3cb": {
+        "title": "理想的对手，家庭的新宠？风神L8的市场突围",
+        "link": "https://www.tmtpost.com/7662205.html",
+        "published_date": "Mon, 18 Aug 2025 07:05:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228259"
+      },
+      "ceb1a0ecaa84843d7e70214d8a3dff8fbb363c6fa275153d9c687801ea768f00": {
+        "title": "“中国游戏算法诉讼第一案”中的情绪与事实",
+        "link": "https://www.tmtpost.com/7661898.html",
+        "published_date": "Sun, 17 Aug 2025 20:49:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228206"
+      },
+      "16b32ace5e525982128bcafa5ff1c2eac428e687a69e92bec81b7b78002b4821": {
+        "title": "80亿跨界光伏留下11亿债务窟窿，“港机龙头”又奔向下一个热点……",
+        "link": "https://www.tmtpost.com/7661976.html",
+        "published_date": "Sun, 17 Aug 2025 20:48:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228249"
+      },
+      "cf9b701a0657622286d726edf7328876289e1cf47e8d13bc641553114f63c44a": {
+        "title": "限制光伏超标，“新能源大省”山东遭遇电力系统大难题",
+        "link": "https://www.tmtpost.com/7661979.html",
+        "published_date": "Sun, 17 Aug 2025 20:48:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228196"
+      },
+      "3fc39a54c163725562aca6c2cb0f6e94dd39435b68f7281a97ba25f98b1562ad": {
+        "title": "田佳树：小型模块化反应堆SMR技术发展和投资机会",
+        "link": "https://www.tmtpost.com/7662067.html",
+        "published_date": "Sun, 17 Aug 2025 20:45:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228185"
+      },
+      "cee29dba12a2b53c97e6c7bc7c1717a79081deec14406d0f17bcdd8ff1715362": {
+        "title": "古钱币市场正在复刻文玩圈的泡沫？",
+        "link": "https://www.tmtpost.com/7662034.html",
+        "published_date": "Sun, 17 Aug 2025 16:31:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.494368"
+      },
+      "ce9c22717656853250d0be624b3754f94f51e417c8a3fe9d704037fe1cd52cf3": {
+        "title": "SOFC在“AI能源困局”下迎来产业化临界点，壹石通们竞逐全球新赛道",
+        "link": "https://www.tmtpost.com/7661995.html",
+        "published_date": "Sun, 17 Aug 2025 16:31:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228165"
+      },
+      "3220507d543a1344c7e6eb30b10376dcf7aa72636e153a5d02cba535c11f3446": {
+        "title": "具透｜「胡萝卜手指」选字难：Flyme 的 Aicy 识屏是怎么做的？",
+        "link": "https://sspai.com/post/101567",
+        "published_date": "Sun, 17 Aug 2025 17:45:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228218"
+      },
+      "202475aa363112ddd317ce274fb518786d5e4f32a2442ef7b438628e35608ce0": {
+        "title": "These 5 Posture Corrector Picks Will Straighten You Out (2025)",
+        "link": "https://www.wired.com/gallery/posture-correctors/",
+        "published_date": "Sun, 17 Aug 2025 13:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.495801"
+      },
+      "9f93651fdc8cfd4f47d010406141fb23dd5f38dd5b3a0cf5dadcf32c380bab45": {
+        "title": "Camp Snap CS-8 Review: Simple Video Capture",
+        "link": "https://www.wired.com/review/camp-snap-cs-8/",
+        "published_date": "Sun, 17 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.496418"
+      },
+      "05d8189fd96a1ebd23e23f0e47084083d8d3960b508ea355ecf97c5cd8e67dec": {
+        "title": "Pebblebee Is Getting Serious About Personal Safety Tracking",
+        "link": "https://www.wired.com/story/pebblebee-is-getting-serious-about-personal-safety-tracking/",
+        "published_date": "Sun, 17 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228228"
+      },
+      "27c52679e90ca90c5578fa5d4c9c0c485097c6eb64bcf902b924f199e279ff92": {
+        "title": "What Is the Electric Constant and Why Should You Care?",
+        "link": "https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/",
+        "published_date": "Sun, 17 Aug 2025 11:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228238"
+      },
+      "08f549c0c08d6527e335e1548f729e0a71b34a4c59e9a6b7bc57128bb351a800": {
+        "title": "The 7 Best Mattress Toppers (2025) Out of Dozens We've Tested: Supportive, Plush, Memory Foam",
+        "link": "https://www.wired.com/gallery/best-mattress-toppers/",
+        "published_date": "Sun, 17 Aug 2025 10:31:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.499989"
+      },
+      "c404bd1df8f7099e129c6a7fa83c3e1731af92b580e7edf3c74a3ac7a6d1da7b": {
+        "title": "The Best Pixel 9 Cases, Tested and Reviewed (2025)",
+        "link": "https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/",
+        "published_date": "Sun, 17 Aug 2025 10:03:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.501229"
+      },
+      "020cf482f9523ecc219409e062e12b296feb898baa27cf780e87f95552932807": {
+        "title": "Why the former editor of Polygon is making a podcast for old gamers",
+        "link": "https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon",
+        "published_date": "Sun, 17 Aug 2025 12:30:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.503000"
+      },
+      "440c536d11afd705f8abdda102f3029381610f5e0412e212a6283ab5ebffc039": {
+        "title": "The one feature that keeps me from recommending flip phones",
+        "link": "https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw",
+        "published_date": "Sun, 17 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:27.228268"
+      },
+      "8e9090915b6dac6de34dbdbcb54f033d0ec84c4693f388e78b499b664265c1fb": {
+        "title": "Teenage Engineering did it again",
+        "link": "https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer",
+        "published_date": "Sun, 17 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.505954"
       }
     },
     "Finance": {
@@ -26260,12 +26278,54 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=408ecbe8-a630-4084-aa51-9c7823008bf9&mod=mw_rss_bulletins",
         "published_date": "Sat, 16 Aug 2025 13:23:00 GMT",
         "first_seen": "2025-08-16T23:19:00.278899"
+      },
+      "e9e1e6a25b37b27171e7a16bdc3ded3031acd519c82aaa48d3be5e5a42d7b7e0": {
+        "title": "U.S. stock futures inch higher following Trump-Putin summit; Wall Street awaits Fed’s Jackson Hole meeting",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 Aug 2025 23:17:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.464718"
+      },
+      "8b4b519f1b6ccc25f328d31b0527ee26cb096aee153c7b2e7df94db06f2f8a64": {
+        "title": "Walmart and rivals report earnings, for the clearest look yet at tariffs’ impact on consumers. Will CEOs talk about the elephant in the room?",
+        "link": "https://www.marketwatch.com/story/walmart-and-rivals-report-for-the-clearest-look-at-the-consumer-yet-will-ceos-talk-about-the-elephant-in-the-room-c17d9f55?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 Aug 2025 21:36:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.465326"
+      },
+      "59f984475bdd3a779d57b1fbff7e9fca8c668598e7b9da3663198eb1514554d4": {
+        "title": "How safe are cruise-ship water slides? A recent incident on a Royal Caribbean sailing raises concerns.",
+        "link": "https://www.marketwatch.com/story/how-safe-are-cruise-ship-water-slides-a-recent-incident-on-a-royal-caribbean-sailing-begs-the-question-7c565d82?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 Aug 2025 20:06:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.466200"
+      },
+      "70c7116574fadb463c379410c7b1aeba5f3fee3d41d3fef13f77f785bbaf237e": {
+        "title": "Investors are plowing into homebuilder stocks. Will Jackson Hole prove them wrong?",
+        "link": "https://www.marketwatch.com/story/investors-are-plowing-into-homebuilder-stocks-will-jackson-hole-prove-them-wrong-adff93ec?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 Aug 2025 20:03:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.467215"
+      },
+      "f886e49a888ac3695c2bde0793b51f80e29c7fc4c2131db9193b33d2489957b6": {
+        "title": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
+        "link": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 Aug 2025 19:22:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.468610"
+      },
+      "10ad75ec22e45d9dad230262f5b76f1d8bedee358bd3c350f6979bf88e8b6fa7": {
+        "title": "Stock futures inch higher following Trump-Putin summit",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55a45409-0a47-4a85-b54f-3dccba58d8ba&mod=mw_rss_bulletins",
+        "published_date": "Sun, 17 Aug 2025 22:26:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.469603"
+      },
+      "42fed3758c9ede25c597dbe312b5758698251ad6d7955215931364835263053b": {
+        "title": "Teachers buying classroom supplies will get more tax breaks, but there’s a catch",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d786a07c-61a5-4beb-a03b-08637dbdc77e&mod=mw_rss_bulletins",
+        "published_date": "Sun, 17 Aug 2025 20:18:00 GMT",
+        "first_seen": "2025-08-17T23:20:08.471372"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-17T08:27:23.253344",
-    "Technology": "2025-08-17T08:27:23.302648",
-    "Finance": "2025-08-17T08:27:23.268247"
+    "AI": "2025-08-17T23:20:08.456227",
+    "Technology": "2025-08-17T23:20:27.230552",
+    "Finance": "2025-08-17T23:20:08.478495"
   }
 }
