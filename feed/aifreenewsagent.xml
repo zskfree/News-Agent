@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 16 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Aug 2025 23:19:00 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 05:20:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型如何推理？斯坦福CS25重要一课，DeepMind首席科学家主讲</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-16-3</link>
-      <description>&lt;![CDATA[大模型如何推理？斯坦福CS25重要一课，DeepMind首席科学家主讲]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-16-3</guid>
+      <title>卖酒的茅台要学AI了！和奔驰麦当劳一起拜师百度</title>
+      <link>https://www.qbitai.com/2025/08/322392.html</link>
+      <description>&lt;![CDATA[卖酒的茅台要学AI了！和奔驰麦当劳一起拜师百度]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 03:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322392.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>当AI比我们更聪明：李飞飞和Hinton给出截然相反的生存指南</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-16-2</link>
-      <description>&lt;![CDATA[当AI比我们更聪明：李飞飞和Hinton给出截然相反的生存指南]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-16-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>简单即强大：全新生成模型「离散分布网络DDN」是如何做到原理简单，性质独特？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-16</link>
-      <description>&lt;![CDATA[简单即强大：全新生成模型「离散分布网络DDN」是如何做到原理简单，性质独特？]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-16</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>标准化3D生成质量榜单来了！首创层次化评价体系，告别“谁的demo更吸睛”主观评估</title>
-      <link>https://www.qbitai.com/2025/08/322347.html</link>
-      <description>&lt;![CDATA[标准化3D生成质量榜单来了！首创层次化评价体系，告别“谁的demo更吸睛”主观评估]]&gt;</description>
-      <pubDate>Sat, 16 Aug 2025 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322347.html</guid>
+      <title>小扎天价薪酬难动FAIR朱泽园！清华学霸放话：死守基础研究，捍卫大模型开源</title>
+      <link>https://www.qbitai.com/2025/08/322377.html</link>
+      <description>&lt;![CDATA[小扎天价薪酬难动FAIR朱泽园！清华学霸放话：死守基础研究，捍卫大模型开源]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 03:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322377.html</guid>
       <category>AI</category>
     </item>
   </channel>

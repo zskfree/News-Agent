@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-16 23:18
+**最后更新时间**: 2025-08-17 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-17 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Chrome引入了CSS的If函数，在CSS中原生支持条件样式](https://www.infoq.cn/article/wjJOG7BtLGokgAeeS1dW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 12:00
+
+#### [Data Agent 落地挑战：忽略技术框架、语义能力和运营体系，投入可能打水漂](https://www.infoq.cn/article/NECS5SsAb6BC482RbQAA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 10:06
+
+#### [腾讯算法专家欧阳天雄确认出席 AICon 深圳，分享大模型驱动下的智能风控落地实践](https://www.infoq.cn/article/h5LrDllVRpaymkl0UfGO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 10:00
+
+#### [微软Azure Storage Discovery进入预览版本，提供了增强的Blob存储分析功能](https://www.infoq.cn/article/8gc4CSE4m2sd3ql3KjJD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 10:00
+
+#### [Agoda通过自定义的双向同步功能来处理跨数据中心的Kafka消费者故障转移](https://www.infoq.cn/article/i6sAkCkQ5byREHbCuO80?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [利润塌方、份额断崖：日系车的光环还剩几分？｜钛度车库](https://www.tmtpost.com/7660611.html)
+**发布时间**: 2025-08-17 11:22
+
+#### [当二次元向世界“打直球”，互联网大厂与地方政府都想接住](https://www.tmtpost.com/7661924.html)
+**发布时间**: 2025-08-17 10:47
+
+#### [Meta用亿元薪酬发起「人才狙击」能否买来一个AI未来？](https://www.tmtpost.com/7661845.html)
+**发布时间**: 2025-08-17 10:42
+
+#### [九方智投牛市里涨了八倍，投顾大佬陈文彬身价已近百亿](https://www.tmtpost.com/7661827.html)
+**发布时间**: 2025-08-17 10:42
+
+#### [中东才是适合中国出海企业的第一站](https://www.tmtpost.com/7661837.html)
+**发布时间**: 2025-08-17 10:42
+
+#### [我为什么坚信，AI咨询是下一个万亿级赛道](https://www.tmtpost.com/7661834.html)
+**发布时间**: 2025-08-17 10:42
+
+#### [从修理铺走出的摩托车大王，宗申动力靠“碰瓷”营销？](https://www.tmtpost.com/7661796.html)
+**发布时间**: 2025-08-17 10:10
+
+#### [从安防老兵到AI新贵，周波带海清智元冲刺IPO，公司偿债压力激增](https://www.tmtpost.com/7661800.html)
+**发布时间**: 2025-08-17 10:10
+
+#### [存量时代，餐饮老板都该学“撒盐哥”的搞钱方法](https://www.tmtpost.com/7661807.html)
+**发布时间**: 2025-08-17 10:10
+
+#### [快手的“叛逆”期到了](https://www.tmtpost.com/7661835.html)
+**发布时间**: 2025-08-17 09:18
+
+#### [玄学复合被骗38万，“云迷信”狂割小红书姐妹](https://www.tmtpost.com/7661763.html)
+**发布时间**: 2025-08-17 09:18
+
+#### [英伟达的市值上限在哪里？｜财经峰评](https://www.tmtpost.com/7661879.html)
+**发布时间**: 2025-08-17 08:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [多地公交公司亏损加剧，我们出行会受影响吗？](http://www.huxiu.com/article/4692877.html?f=wangzhan)
+**发布时间**: 2025-08-17 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI估值达5000亿美元；「原道」联手小岛秀夫，推《死亡搁浅》耳机；苹果手表将「大幅重新设计」](http://www.geekpark.net/news/352696)
+**发布时间**: 2025-08-17 08:00
 
 ---
 
