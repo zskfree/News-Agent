@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-17 05:20
+**最后更新时间**: 2025-08-17 08:27
+
+---
+
+## 🆕 最新更新 (2025-08-17 08:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌DeepMind开源了Aeneas，一个用于分析古代文本的AI模型](https://www.infoq.cn/article/ZxPzG5yeapHcqhoyoJN8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 16:00
+
+#### [Anthropic研究了大语言模型如何塑造性格](https://www.infoq.cn/article/7PTVR6vlXT0UIrukKvIP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-17 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [金融科技生态网加速成型！九方智投控股旗下AI公司九方智擎扎根“模速空间”启新程](https://www.tmtpost.com/7662015.html)
+**发布时间**: 2025-08-17 15:20
 
 ---
 

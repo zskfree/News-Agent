@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2025 05:20:59 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 08:27:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI估值达5000亿美元；「原道」联手小岛秀夫，推《死亡搁浅》耳机；苹果手表将「大幅重新设计」</title>
-      <link>http://www.geekpark.net/news/352696</link>
-      <description>&lt;![CDATA[OpenAI估值达5000亿美元；「原道」联手小岛秀夫，推《死亡搁浅》耳机；苹果手表将「大幅重新设计」]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352696</guid>
+      <title>谷歌DeepMind开源了Aeneas，一个用于分析古代文本的AI模型</title>
+      <link>https://www.infoq.cn/article/ZxPzG5yeapHcqhoyoJN8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌DeepMind开源了Aeneas，一个用于分析古代文本的AI模型]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZxPzG5yeapHcqhoyoJN8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta用亿元薪酬发起「人才狙击」能否买来一个AI未来？</title>
-      <link>https://www.tmtpost.com/7661845.html</link>
-      <description>&lt;![CDATA[Meta用亿元薪酬发起「人才狙击」能否买来一个AI未来？]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661845.html</guid>
+      <title>Anthropic研究了大语言模型如何塑造性格</title>
+      <link>https://www.infoq.cn/article/7PTVR6vlXT0UIrukKvIP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic研究了大语言模型如何塑造性格]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7PTVR6vlXT0UIrukKvIP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达的市值上限在哪里？｜财经峰评</title>
-      <link>https://www.tmtpost.com/7661879.html</link>
-      <description>&lt;![CDATA[英伟达的市值上限在哪里？｜财经峰评]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661879.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Data Agent 落地挑战：忽略技术框架、语义能力和运营体系，投入可能打水漂</title>
-      <link>https://www.infoq.cn/article/NECS5SsAb6BC482RbQAA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Data Agent 落地挑战：忽略技术框架、语义能力和运营体系，投入可能打水漂]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NECS5SsAb6BC482RbQAA?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>我为什么坚信，AI咨询是下一个万亿级赛道</title>
-      <link>https://www.tmtpost.com/7661834.html</link>
-      <description>&lt;![CDATA[我为什么坚信，AI咨询是下一个万亿级赛道]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661834.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Chrome引入了CSS的If函数，在CSS中原生支持条件样式</title>
-      <link>https://www.infoq.cn/article/wjJOG7BtLGokgAeeS1dW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Chrome引入了CSS的If函数，在CSS中原生支持条件样式]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wjJOG7BtLGokgAeeS1dW?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Agoda通过自定义的双向同步功能来处理跨数据中心的Kafka消费者故障转移</title>
-      <link>https://www.infoq.cn/article/i6sAkCkQ5byREHbCuO80?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agoda通过自定义的双向同步功能来处理跨数据中心的Kafka消费者故障转移]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/i6sAkCkQ5byREHbCuO80?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>微软Azure Storage Discovery进入预览版本，提供了增强的Blob存储分析功能</title>
-      <link>https://www.infoq.cn/article/8gc4CSE4m2sd3ql3KjJD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软Azure Storage Discovery进入预览版本，提供了增强的Blob存储分析功能]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8gc4CSE4m2sd3ql3KjJD?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>腾讯算法专家欧阳天雄确认出席 AICon 深圳，分享大模型驱动下的智能风控落地实践</title>
-      <link>https://www.infoq.cn/article/h5LrDllVRpaymkl0UfGO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯算法专家欧阳天雄确认出席 AICon 深圳，分享大模型驱动下的智能风控落地实践]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h5LrDllVRpaymkl0UfGO?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从安防老兵到AI新贵，周波带海清智元冲刺IPO，公司偿债压力激增</title>
-      <link>https://www.tmtpost.com/7661800.html</link>
-      <description>&lt;![CDATA[从安防老兵到AI新贵，周波带海清智元冲刺IPO，公司偿债压力激增]]&gt;</description>
-      <pubDate>Sun, 17 Aug 2025 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7661800.html</guid>
+      <title>金融科技生态网加速成型！九方智投控股旗下AI公司九方智擎扎根“模速空间”启新程</title>
+      <link>https://www.tmtpost.com/7662015.html</link>
+      <description>&lt;![CDATA[金融科技生态网加速成型！九方智投控股旗下AI公司九方智擎扎根“模速空间”启新程]]&gt;</description>
+      <pubDate>Sun, 17 Aug 2025 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7662015.html</guid>
       <category>Technology</category>
     </item>
   </channel>
