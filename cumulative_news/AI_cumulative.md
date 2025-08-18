@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-18 08:31
+**最后更新时间**: 2025-08-18 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-18 23:19)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Researchers glimpse the inner workings of protein language models](https://news.mit.edu/2025/researchers-glimpse-inner-workings-protein-language-models-0818)
+**发布时间**: 2025-08-18 15:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: pigeons’ role in developing AI, and Native artists’ tech interpretations](https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/)
+**发布时间**: 2025-08-18 12:10
+
+#### [Why we should thank pigeons for our AI breakthroughs](https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/)
+**发布时间**: 2025-08-18 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [离谱！现在的Agent都卷成100个成团了？3分钟并行干完5个复杂任务，还能随时改需求](https://www.qbitai.com/2025/08/323152.html)
+**发布时间**: 2025-08-18 10:05
+
+#### [中国足球还是靠机器人吧！首届机器人运动会闭幕：票价终究保守了](https://www.qbitai.com/2025/08/322993.html)
+**发布时间**: 2025-08-18 09:29
+
+#### [蔚来CEO珠峰测新车，吸氧上热搜了](https://www.qbitai.com/2025/08/323007.html)
+**发布时间**: 2025-08-18 09:05
+
+#### [谷歌AI攻克亚洲语言难题，2300种语言数字化计划正在推进](https://www.qbitai.com/2025/08/322980.html)
+**发布时间**: 2025-08-18 08:38
+
+#### [字节Seed开源长线记忆多模态Agent，像人一样能听会看](https://www.qbitai.com/2025/08/322954.html)
+**发布时间**: 2025-08-18 08:04
 
 ---
 

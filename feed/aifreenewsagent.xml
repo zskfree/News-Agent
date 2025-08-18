@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Aug 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2025 08:36:30 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 23:19:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-8</link>
-      <description>&lt;![CDATA[机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 13:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-8</guid>
+      <title>Researchers glimpse the inner workings of protein language models</title>
+      <link>https://news.mit.edu/2025/researchers-glimpse-inner-workings-protein-language-models-0818</link>
+      <description>&lt;![CDATA[Researchers glimpse the inner workings of protein language models]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-glimpse-inner-workings-protein-language-models-0818</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-7</link>
-      <description>&lt;![CDATA[从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-7</guid>
+      <title>The Download: pigeons’ role in developing AI, and Native artists’ tech interpretations</title>
+      <link>https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/</link>
+      <description>&lt;![CDATA[The Download: pigeons’ role in developing AI, and Native artists’ tech interpretations]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NextStep-1：一次在图像生成上自回归范式的探索</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-6</link>
-      <description>&lt;![CDATA[NextStep-1：一次在图像生成上自回归范式的探索]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-6</guid>
+      <title>Why we should thank pigeons for our AI breakthroughs</title>
+      <link>https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/</link>
+      <description>&lt;![CDATA[Why we should thank pigeons for our AI breakthroughs]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁数科向全球开源180万深度伪造定位数据集，助力AI算法可解释</title>
-      <link>https://www.qbitai.com/2025/08/322946.html</link>
-      <description>&lt;![CDATA[蚂蚁数科向全球开源180万深度伪造定位数据集，助力AI算法可解释]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 07:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322946.html</guid>
+      <title>离谱！现在的Agent都卷成100个成团了？3分钟并行干完5个复杂任务，还能随时改需求</title>
+      <link>https://www.qbitai.com/2025/08/323152.html</link>
+      <description>&lt;![CDATA[离谱！现在的Agent都卷成100个成团了？3分钟并行干完5个复杂任务，还能随时改需求]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323152.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AMD苏姿丰公开怼扎克伯格！反对1亿年薪挖人，使命感比钞票更重要</title>
-      <link>https://www.qbitai.com/2025/08/322932.html</link>
-      <description>&lt;![CDATA[AMD苏姿丰公开怼扎克伯格！反对1亿年薪挖人，使命感比钞票更重要]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322932.html</guid>
+      <title>中国足球还是靠机器人吧！首届机器人运动会闭幕：票价终究保守了</title>
+      <link>https://www.qbitai.com/2025/08/322993.html</link>
+      <description>&lt;![CDATA[中国足球还是靠机器人吧！首届机器人运动会闭幕：票价终究保守了]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 09:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322993.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>蔚来CEO珠峰测新车，吸氧上热搜了</title>
+      <link>https://www.qbitai.com/2025/08/323007.html</link>
+      <description>&lt;![CDATA[蔚来CEO珠峰测新车，吸氧上热搜了]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 09:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323007.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谷歌AI攻克亚洲语言难题，2300种语言数字化计划正在推进</title>
+      <link>https://www.qbitai.com/2025/08/322980.html</link>
+      <description>&lt;![CDATA[谷歌AI攻克亚洲语言难题，2300种语言数字化计划正在推进]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 08:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322980.html</guid>
       <category>AI</category>
     </item>
   </channel>

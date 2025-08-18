@@ -1,7 +1,192 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-18 08:36
+**最后更新时间**: 2025-08-18 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-18 23:19)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么「游戏」是 AI 陪伴落地的好场景？](http://www.geekpark.net/news/352826)
+**发布时间**: 2025-08-19 01:15
+
+#### [新加坡 AI 办公系统 Agnes：200 个 Agent 并行研究，让 AI 主动「找茬」打磨设计](http://www.geekpark.net/news/352822)
+**发布时间**: 2025-08-18 18:18
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [东阳光半年报净利暴增170%背后：6万吨制冷剂配额“躺赢”，债务压力高悬｜看财报](https://www.tmtpost.com/7663799.html)
+**发布时间**: 2025-08-18 22:26
+
+#### [科华控股三谋易主，接盘方是旧相识还是新玩家？](https://www.tmtpost.com/7663731.html)
+**发布时间**: 2025-08-18 21:20
+
+#### [泰国政府增加税收抵免优惠以吸引投资；阿里国际站推出“海外现货”模式；上半年越南电摩销量飙升99.2%，跃居全球第三｜一周「出海参考」](https://www.tmtpost.com/7663417.html)
+**发布时间**: 2025-08-18 19:49
+
+#### [国内战火激烈，TikTok能否抢下海外本地生活的先机？｜ 出海参考](https://www.tmtpost.com/7663629.html)
+**发布时间**: 2025-08-18 19:47
+
+#### [未来机器人陶泽文：中国深海机器人的逆袭之路｜50x50](https://www.tmtpost.com/7662831.html)
+**发布时间**: 2025-08-18 19:01
+
+#### [体检江湖恩怨录](https://www.tmtpost.com/7662139.html)
+**发布时间**: 2025-08-18 18:56
+
+#### [科技巨头为何争抢AMC牌照？京东30亿收购青岛AMC背后的金融野心](https://www.tmtpost.com/7663569.html)
+**发布时间**: 2025-08-18 18:55
+
+#### [只讲单量，不提客单价就是耍流氓](https://www.tmtpost.com/7663223.html)
+**发布时间**: 2025-08-18 18:55
+
+#### [Robotaxi半年考：小马、文远贴身肉搏争抢“第三”宝座](https://www.tmtpost.com/7663273.html)
+**发布时间**: 2025-08-18 18:55
+
+#### [岚图知音预售开启，华为“全家桶”上车后能否撑起销量？](https://www.tmtpost.com/7663578.html)
+**发布时间**: 2025-08-18 18:53
+
+#### [机器人运动会让全世界笑了三天，但你不能忽视具身智能技术进步](https://www.tmtpost.com/7663450.html)
+**发布时间**: 2025-08-18 18:18
+
+#### [万店时代下的零食量贩店：扩张泡沫全靠加盟商承受？](https://www.tmtpost.com/7663406.html)
+**发布时间**: 2025-08-18 18:03
+
+#### [亚朵，贵有贵的理儿](https://www.tmtpost.com/7662477.html)
+**发布时间**: 2025-08-18 17:46
+
+#### [别只盯光刻机，光罩更关键](https://www.tmtpost.com/7663149.html)
+**发布时间**: 2025-08-18 17:38
+
+#### [腾讯游戏的内部赛马要回来了？](https://www.tmtpost.com/7663010.html)
+**发布时间**: 2025-08-18 17:34
+
+#### [欣旺达赴港上市，茂名首富的400亿之战](https://www.tmtpost.com/7662931.html)
+**发布时间**: 2025-08-18 17:30
+
+#### [火石创造十周年启动全面AI战略：从数智筑基到智能体革命](https://www.tmtpost.com/7663295.html)
+**发布时间**: 2025-08-18 17:29
+
+#### [千元票价与零适航证：低空“元年”的资本疑虑](https://www.tmtpost.com/7662885.html)
+**发布时间**: 2025-08-18 17:26
+
+#### [上万元的AI学习机，收割新一代韭菜家长？](https://www.tmtpost.com/7662882.html)
+**发布时间**: 2025-08-18 17:24
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)
+**发布时间**: 2025-08-18 21:25
+
+#### [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)
+**发布时间**: 2025-08-18 18:30
+
+#### [Jackery Explorer 1000 Deal: $350 Off Battery Bank Right Now](https://www.wired.com/story/jackery-explorer-1000-deal/)
+**发布时间**: 2025-08-18 18:06
+
+#### [WIRED Roundup: Why GPT-5 Flopped](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-why-gpt-5-flopped/)
+**发布时间**: 2025-08-18 18:01
+
+#### [9 Picks of the Best Gaming Mouse, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-gaming-mouse/)
+**发布时间**: 2025-08-18 12:00
+
+#### [WIRED Tests Dozens of Air Purifiers a Year. Here’s What We Look For (2025)](https://www.wired.com/story/how-we-test-air-purifiers/)
+**发布时间**: 2025-08-18 11:04
+
+#### [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)
+**发布时间**: 2025-08-18 10:00
+
+#### [How Microschools Became the Latest Tech Mogul Obsession](https://www.wired.com/story/silicon-valley-tech-moguls-microschools/)
+**发布时间**: 2025-08-18 10:00
+
+#### [Tech in the Classroom: A History of Hype and Hysteria](https://www.wired.com/story/photo-essay-school-tech-hysteria/)
+**发布时间**: 2025-08-18 10:00
+
+#### [The Tweens Down Under: Life Without Social Media in Australia](https://www.wired.com/story/kids-social-media-australia-ban/)
+**发布时间**: 2025-08-18 10:00
+
+#### [Teachers Are Trying to Make AI Work for Them](https://www.wired.com/story/teachers-using-ai-schools/)
+**发布时间**: 2025-08-18 10:00
+
+#### [WIRED Takes You Back to School](https://www.wired.com/generation-ipad/)
+**发布时间**: 2025-08-18 10:00
+
+#### [What Do Kids Actually Think About AI?](https://www.wired.com/story/what-kids-think-about-ai-schools/)
+**发布时间**: 2025-08-18 10:00
+
+#### [The End of Handwriting](https://www.wired.com/story/the-end-of-handwriting/)
+**发布时间**: 2025-08-18 10:00
+
+#### [Is Roblox Getting Worse?](https://www.wired.com/story/is-roblox-getting-worse/)
+**发布时间**: 2025-08-18 10:00
+
+#### [The Plan to Turn the Caribbean’s Glut of Sargassum Into Biofuel](https://www.wired.com/story/there-is-more-sargassum-than-ever-in-the-caribbean-and-they-want-to-turn-it-into-energy/)
+**发布时间**: 2025-08-18 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Nvidia’s GeForce Now is upgrading to RTX 5080 GPUs and opening a floodgate of new games](https://www.theverge.com/news/760219/nvidia-geforce-now-rtx-5080-cloud-gaming)
+**发布时间**: 2025-08-18 19:30
+
+#### [Nvidia gives fake Harrison Ford better hair using spheres](https://www.theverge.com/news/760479/nvidia-rtx-hair-indiana-jones-game)
+**发布时间**: 2025-08-18 19:30
+
+#### [Nvidia’s app gets global DLSS override and more control panel features](https://www.theverge.com/news/760488/nvidia-app-dlss-override-control-panel-features)
+**发布时间**: 2025-08-18 19:30
+
+#### [‘Play Instantly on Discord’: Fortnite will be Nvidia and Discord’s first instant game demo](https://www.theverge.com/news/760894/play-instantly-on-discord-fortnite-will-be-nvidia-try-before-you-buy-geforce-now)
+**发布时间**: 2025-08-18 19:30
+
+#### [YouTuber Mark Rober is getting a Netflix series](https://www.theverge.com/news/760907/mark-rober-netflix-series-youtube)
+**发布时间**: 2025-08-18 19:10
+
+#### [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+**发布时间**: 2025-08-18 19:00
+
+#### [Google Home adds scheduling for older Nest thermostats](https://www.theverge.com/news/760853/google-home-app-nest-learning-thermostat-e-3rd-gen-schedule-feature)
+**发布时间**: 2025-08-18 18:49
+
+#### [Microsoft hints at ‘more affordable’ Xbox Cloud Gaming plan](https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint)
+**发布时间**: 2025-08-18 18:21
+
+#### [Roblox is locking down sexual content and access to ‘adult’ locations after lawsuits](https://www.theverge.com/news/760805/roblox-sexual-content-lawsuit-age-verification)
+**发布时间**: 2025-08-18 17:56
+
+#### [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)
+**发布时间**: 2025-08-18 16:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国再次对我们的芯片开始了围剿，中国芯片的破局之路有多难？](http://www.huxiu.com/article/4707468.html?f=wangzhan)
+**发布时间**: 2025-08-18 19:00
+
+#### [年入200亿，星巴克却准备“卖身”？瑞幸大股东或将接手星巴克？](http://www.huxiu.com/article/4697284.html?f=wangzhan)
+**发布时间**: 2025-08-18 16:00
+
+#### [线上销量超越格力，小米空调真的要成了？](http://www.huxiu.com/article/4703831.html?f=wangzhan)
+**发布时间**: 2025-08-18 14:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [靠 AI起飞的千亿市值公司，如今要被AI“卷死”了？股价因GPT-5瞬间逆转、CEO亲承：我负有责任](https://www.infoq.cn/article/6czPjR8fUGrtSJeIUxTM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 18:28
+
+#### [Roblox开源AI系统，用于检测可能对儿童有害的对话](https://www.infoq.cn/article/NVjc2bMKN1l8KE8J2UG2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 17:00
+
+#### [开源点燃AI飞轮：谷歌高管谈开发者生态的下一个十年](https://www.infoq.cn/article/Z9F69mlfiWAMltmYTByc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 16:45
+
+#### [可灵AI技术部换将；宇树机器人“撞人逃逸”上热搜；邓紫棋自曝投资 AI 公司获10 倍收益 | AI周报](https://www.infoq.cn/article/qvHocFykNbrjtMIFYYvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 16:33
+
+#### [数据分析师，即将从工业领域“消失”？](https://www.infoq.cn/article/S5Nu2kXbErVs9srgdKV8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 16:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/101923)
+**发布时间**: 2025-08-18 17:42
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Aug 2025 08:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2025 08:36:52 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 23:20:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌推出 Jules：一款基于 Gemini 2.5 的异步编程智能体</title>
-      <link>https://www.infoq.cn/article/OCYkPyKgeVLKuSrbY3Mm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出 Jules：一款基于 Gemini 2.5 的异步编程智能体]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 13:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OCYkPyKgeVLKuSrbY3Mm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>美国再次对我们的芯片开始了围剿，中国芯片的破局之路有多难？</title>
+      <link>http://www.huxiu.com/article/4707468.html?f=wangzhan</link>
+      <description>&lt;![CDATA[美国再次对我们的芯片开始了围剿，中国芯片的破局之路有多难？]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4707468.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【产业互联网周报】美被曝偷装追踪器防止AI芯片转运到中国；DeepSeek-R2在8月内并无发布计划；英伟达和AMD与美政府达成特殊协议</title>
-      <link>https://www.tmtpost.com/7663038.html</link>
-      <description>&lt;![CDATA[【产业互联网周报】美被曝偷装追踪器防止AI芯片转运到中国；DeepSeek-R2在8月内并无发布计划；英伟达和AMD与美政府达成特殊协议]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663038.html</guid>
+      <title>别只盯光刻机，光罩更关键</title>
+      <link>https://www.tmtpost.com/7663149.html</link>
+      <description>&lt;![CDATA[别只盯光刻机，光罩更关键]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663149.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ExponTech创始人曹羽中：传统存储已触及天花板，统一通用架构重构AI存储</title>
-      <link>https://www.tmtpost.com/7663093.html</link>
-      <description>&lt;![CDATA[ExponTech创始人曹羽中：传统存储已触及天花板，统一通用架构重构AI存储]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 16:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663093.html</guid>
+      <title>未来机器人陶泽文：中国深海机器人的逆袭之路｜50x50</title>
+      <link>https://www.tmtpost.com/7662831.html</link>
+      <description>&lt;![CDATA[未来机器人陶泽文：中国深海机器人的逆袭之路｜50x50]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7662831.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百度文库网盘发布GenFlow2.0，支持同时调用超100个专家智能体</title>
-      <link>https://www.infoq.cn/article/PoFqWbDDpNQI8lB2Zz7e?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[百度文库网盘发布GenFlow2.0，支持同时调用超100个专家智能体]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PoFqWbDDpNQI8lB2Zz7e?utm_source=rss&amp;utm_medium=article</guid>
+      <title>机器人运动会让全世界笑了三天，但你不能忽视具身智能技术进步</title>
+      <link>https://www.tmtpost.com/7663450.html</link>
+      <description>&lt;![CDATA[机器人运动会让全世界笑了三天，但你不能忽视具身智能技术进步]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663450.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软推出Azure应用测试：一个用于负载测试和端到端测试的统一中心</title>
-      <link>https://www.infoq.cn/article/LqFmgKPk6dExzrSSatJq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软推出Azure应用测试：一个用于负载测试和端到端测试的统一中心]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LqFmgKPk6dExzrSSatJq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>新加坡 AI 办公系统 Agnes：200 个 Agent 并行研究，让 AI 主动「找茬」打磨设计</title>
+      <link>http://www.geekpark.net/news/352822</link>
+      <description>&lt;![CDATA[新加坡 AI 办公系统 Agnes：200 个 Agent 并行研究，让 AI 主动「找茬」打磨设计]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352822</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Pony.ai's Robotaxi Push Gains Momentum, But Profits Remain Elusive</title>
-      <link>https://www.tmtpost.com/7663014.html</link>
-      <description>&lt;![CDATA[Pony.ai's Robotaxi Push Gains Momentum, But Profits Remain Elusive]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663014.html</guid>
+      <title>为什么「游戏」是 AI 陪伴落地的好场景？</title>
+      <link>http://www.geekpark.net/news/352826</link>
+      <description>&lt;![CDATA[为什么「游戏」是 AI 陪伴落地的好场景？]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 01:15:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352826</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>困在产业落地的数据流通，开源会成为“破局点”吗？</title>
-      <link>https://www.infoq.cn/article/140E6M7JLBClj2cUzPov?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[困在产业落地的数据流通，开源会成为“破局点”吗？]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/140E6M7JLBClj2cUzPov?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Robotaxi半年考：小马、文远贴身肉搏争抢“第三”宝座</title>
+      <link>https://www.tmtpost.com/7663273.html</link>
+      <description>&lt;![CDATA[Robotaxi半年考：小马、文远贴身肉搏争抢“第三”宝座]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 18:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663273.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix采用RAW Hollow内存对象存储对Tudum的CQRS架构进行了重新设计</title>
-      <link>https://www.infoq.cn/article/FG2hhJw3QpZ9gadGtKKt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix采用RAW Hollow内存对象存储对Tudum的CQRS架构进行了重新设计]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FG2hhJw3QpZ9gadGtKKt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千元票价与零适航证：低空“元年”的资本疑虑</title>
+      <link>https://www.tmtpost.com/7662885.html</link>
+      <description>&lt;![CDATA[千元票价与零适航证：低空“元年”的资本疑虑]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7662885.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>NASA是如何测试航天飞机和猎户座MPCV的软件的</title>
-      <link>https://www.infoq.cn/article/ZGC9VZXX7GPxJQjzouGg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[NASA是如何测试航天飞机和猎户座MPCV的软件的]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZGC9VZXX7GPxJQjzouGg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>国内战火激烈，TikTok能否抢下海外本地生活的先机？｜ 出海参考</title>
+      <link>https://www.tmtpost.com/7663629.html</link>
+      <description>&lt;![CDATA[国内战火激烈，TikTok能否抢下海外本地生活的先机？｜ 出海参考]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663629.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【Fintech 周报】消费贷款贴息落地；微信“分付”灰度上线“借款”功能；银行业“反内卷”持续升级</title>
-      <link>https://www.tmtpost.com/7663185.html</link>
-      <description>&lt;![CDATA[【Fintech 周报】消费贷款贴息落地；微信“分付”灰度上线“借款”功能；银行业“反内卷”持续升级]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663185.html</guid>
+      <title>科技巨头为何争抢AMC牌照？京东30亿收购青岛AMC背后的金融野心</title>
+      <link>https://www.tmtpost.com/7663569.html</link>
+      <description>&lt;![CDATA[科技巨头为何争抢AMC牌照？京东30亿收购青岛AMC背后的金融野心]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 18:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663569.html</guid>
       <category>Technology</category>
     </item>
   </channel>

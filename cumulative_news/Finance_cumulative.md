@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-18 08:36
+**最后更新时间**: 2025-08-18 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-18 23:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How social media convinces investors they’re the next Warren Buffett, or smarter](https://www.marketwatch.com/bulletins/redirect/go?g=213b6218-52dd-45ce-bbe4-de34d0e35acb&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 23:03
+
+#### [Why a ‘wall of money’ is unlikely to flood into stocks when the Fed cuts rates](https://www.marketwatch.com/bulletins/redirect/go?g=759b51ab-7bae-4d47-9543-641f25a93264&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 21:38
+
+#### [As Palantir's stock slides, one short seller says even a $40 a share is too much](https://www.marketwatch.com/bulletins/redirect/go?g=e961857a-2b09-4f9c-8d16-18588b5fcf06&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 20:59
+
+#### [Stocks end mostly flat as Ukraine talks, Powell's Jackson Hole speech in focus](https://www.marketwatch.com/bulletins/redirect/go?g=16d6a131-d55b-4918-aa8f-5f99b7d7ae1d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 20:03
+
+#### [Stocks mixed in final hour, oil gains as Trump holds Ukraine talks — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=1a3007bd-cccb-4415-b505-cec15f759639&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 19:21
+
+#### [Stocks often rise the week of Fed’s Jackson Hole meeting. Don’t count on it now.](https://www.marketwatch.com/bulletins/redirect/go?g=aa157fd1-8aae-4b08-9322-2aa833a5909c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 18:53
+
+#### [The bull case for Nvidia just got stronger, according to these analysts](https://www.marketwatch.com/bulletins/redirect/go?g=d42a672c-76d8-45a5-9951-e7dd390519fc&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 18:06
+
+#### [Join Barron's for a conversation on what investors can expect this week](https://www.marketwatch.com/bulletins/redirect/go?g=fd29289d-2582-4b0d-9474-4c5de3b2b3e2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 15:37
+
+#### [Home builders boost sales incentives to 5-year high as they struggle to sell](https://www.marketwatch.com/bulletins/redirect/go?g=c1d2e744-fb14-42b8-a2f3-82141f3f810e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 14:04
+
+#### [Without this Jackson Hole signal, stocks could slide 15% in the fall](https://www.marketwatch.com/bulletins/redirect/go?g=d9913276-6a32-440f-96f8-a8e861e44af6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 12:33
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The bull case for Nvidia just got stronger, according to these Wall Street analysts](https://www.marketwatch.com/story/the-bull-case-for-nvidia-just-got-stronger-according-to-these-wall-street-analysts-79af8615?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 22:25
+
+#### [I’m single, 75, and living with kidney disease and a pacemaker. I’ve no long-term care insurance. Will I be OK?](https://www.marketwatch.com/story/im-single-75-and-living-with-kidney-disease-and-a-pacemaker-ive-no-long-term-care-insurance-will-i-be-ok-fcf4b87d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 22:00
+
+#### [Palo Alto Networks’ stock rises as earnings point to future sales boom](https://www.marketwatch.com/story/palo-alto-networks-stock-rises-as-earnings-point-to-future-sales-boom-58c56871?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 21:58
+
+#### [Why a ‘wall of money’ is unlikely to flood into stocks when the Fed cuts rates, this Goldman strategist says](https://www.marketwatch.com/story/why-a-wall-of-money-is-unlikely-to-flood-into-stocks-when-the-fed-cuts-rates-this-goldman-strategist-says-c38a8792?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 21:29
+
+#### [Palantir’s stock is sliding. Here’s why this short-seller thinks even a $40 price tag is ‘generous.’](https://www.marketwatch.com/story/palantirs-stock-is-sliding-heres-why-this-short-seller-thinks-even-a-40-price-tag-is-generous-35e041a0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 20:45
+
+#### [My friend’s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?](https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 20:31
+
+#### [Opendoor’s stock is rocketing again. What can make it keep going?](https://www.marketwatch.com/story/opendoors-stock-is-rocketing-again-what-can-make-it-keep-going-d1c4a01a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 20:03
 
 ---
 
