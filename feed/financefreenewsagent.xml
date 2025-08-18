@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Aug 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2025 05:25:28 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 08:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 08:36:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Powerball jackpot is now $605 million, but this man warns that playing the lottery can become an addiction</title>
-      <link>https://www.marketwatch.com/story/i-hit-the-worst-of-bottom-this-connecticut-man-lost-around-1-million-playing-the-lottery-and-has-no-plans-to-buy-a-powerball-ticket-11633373346?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The Powerball jackpot is now $605 million, but this man warns that playing the lottery can become an addiction]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 01:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/i-hit-the-worst-of-bottom-this-connecticut-man-lost-around-1-million-playing-the-lottery-and-has-no-plans-to-buy-a-powerball-ticket-11633373346?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why nearly 7 in 10 new college grads are looking for jobs close to family</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7840476c-1aa5-4350-8b85-6d917e16f61c&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Why nearly 7 in 10 new college grads are looking for jobs close to family]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 01:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7840476c-1aa5-4350-8b85-6d917e16f61c&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How safe are cruise-ship water slides? A recent incident raises concerns.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=425b65bc-0ba1-4ac6-8f17-90a453fff634&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[How safe are cruise-ship water slides? A recent incident raises concerns.]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=425b65bc-0ba1-4ac6-8f17-90a453fff634&amp;mod=mw_rss_bulletins</guid>
+      <title>Novo Nordisk shares are rising. The FDA approves another use for Wegovy.</title>
+      <link>https://www.marketwatch.com/story/novo-nordisk-shares-are-rising-the-fda-approves-another-use-for-wegovy-c33133ec?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Novo Nordisk shares are rising. The FDA approves another use for Wegovy.]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 08:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/novo-nordisk-shares-are-rising-the-fda-approves-another-use-for-wegovy-c33133ec?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

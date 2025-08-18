@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-18 05:25
+**最后更新时间**: 2025-08-18 08:36
+
+---
+
+## 🆕 最新更新 (2025-08-18 08:36)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Novo Nordisk shares are rising. The FDA approves another use for Wegovy.](https://www.marketwatch.com/story/novo-nordisk-shares-are-rising-the-fda-approves-another-use-for-wegovy-c33133ec?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 08:21
 
 ---
 

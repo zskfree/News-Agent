@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Aug 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2025 05:25:28 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 08:36:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI发现新物理定律：纠正等离子体理论多年错误假设</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-2</link>
-      <description>&lt;![CDATA[AI发现新物理定律：纠正等离子体理论多年错误假设]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-2</guid>
+      <title>机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-18-8</link>
+      <description>&lt;![CDATA[机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开源扩散大模型首次跑赢自回归！上交大联手UCSD推出D2F，吞吐量达LLaMA3的2.5倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-4</link>
-      <description>&lt;![CDATA[开源扩散大模型首次跑赢自回归！上交大联手UCSD推出D2F，吞吐量达LLaMA3的2.5倍]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-4</guid>
+      <title>从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-18-7</link>
+      <description>&lt;![CDATA[从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 13:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一张图，开启四维时空：4DNeX让动态世界 「活」起来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-3</link>
-      <description>&lt;![CDATA[一张图，开启四维时空：4DNeX让动态世界 「活」起来]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-3</guid>
+      <title>NextStep-1：一次在图像生成上自回归范式的探索</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-18-6</link>
+      <description>&lt;![CDATA[NextStep-1：一次在图像生成上自回归范式的探索]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多模态大模型在化学与材料学的「体检表」——哪些能力靠谱，哪些还差很远？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18</link>
-      <description>&lt;![CDATA[多模态大模型在化学与材料学的「体检表」——哪些能力靠谱，哪些还差很远？]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18</guid>
+      <title>蚂蚁数科向全球开源180万深度伪造定位数据集，助力AI算法可解释</title>
+      <link>https://www.qbitai.com/2025/08/322946.html</link>
+      <description>&lt;![CDATA[蚂蚁数科向全球开源180万深度伪造定位数据集，助力AI算法可解释]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322946.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>KDD 2025 | UoMo来了，首个无线网络流量预测模型，一个框架搞定三类任务</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-18-5</link>
-      <description>&lt;![CDATA[KDD 2025 | UoMo来了，首个无线网络流量预测模型，一个框架搞定三类任务]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 13:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-18-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps</title>
-      <link>https://arxiv.org/abs/2508.11452</link>
-      <description>&lt;![CDATA[Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11452</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Human-AI collaboration or obedient and often clueless AI in instruct, serve, repeat dynamics?</title>
-      <link>https://arxiv.org/abs/2508.10919</link>
-      <description>&lt;![CDATA[Human-AI collaboration or obedient and often clueless AI in instruct, serve, repeat dynamics?]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.10919</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AIM-Bench: Evaluating Decision-making Biases of Agentic LLM as Inventory Manager</title>
-      <link>https://arxiv.org/abs/2508.11416</link>
-      <description>&lt;![CDATA[AIM-Bench: Evaluating Decision-making Biases of Agentic LLM as Inventory Manager]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11416</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond Solving Math Quiz: Evaluating the Ability of Large Reasoning Models to Ask for Information</title>
-      <link>https://arxiv.org/abs/2508.11252</link>
-      <description>&lt;![CDATA[Beyond Solving Math Quiz: Evaluating the Ability of Large Reasoning Models to Ask for Information]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11252</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>From Individual to Multi-Agent Algorithmic Recourse: Minimizing the Welfare Gap via Capacitated Bipartite Matching</title>
-      <link>https://arxiv.org/abs/2508.11070</link>
-      <description>&lt;![CDATA[From Individual to Multi-Agent Algorithmic Recourse: Minimizing the Welfare Gap via Capacitated Bipartite Matching]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11070</guid>
+      <title>AMD苏姿丰公开怼扎克伯格！反对1亿年薪挖人，使命感比钞票更重要</title>
+      <link>https://www.qbitai.com/2025/08/322932.html</link>
+      <description>&lt;![CDATA[AMD苏姿丰公开怼扎克伯格！反对1亿年薪挖人，使命感比钞票更重要]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322932.html</guid>
       <category>AI</category>
     </item>
   </channel>

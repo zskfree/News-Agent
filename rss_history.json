@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "977025029b8eb23571d5d30b8c6175d6d5f0595e11be38f95bc3d091913f7b56": {
-        "title": "Karpathy都投的AI实时视频生成模型：直播立即转，无限时长零延迟",
-        "link": "https://www.qbitai.com/2025/07/310686.html",
-        "published_date": "Sat, 19 Jul 2025 06:13:00 GMT",
-        "first_seen": "2025-07-19T08:27:36.478663"
-      },
-      "cb3b163f6735394534ae4d733a8c7721db96ae485ea64315ae5724fac88a893d": {
-        "title": "宇树王兴兴，A股上市辅导公告了",
-        "link": "https://www.qbitai.com/2025/07/310628.html",
-        "published_date": "Sat, 19 Jul 2025 06:09:00 GMT",
-        "first_seen": "2025-07-19T08:27:36.478798"
-      },
       "1d07a1efdca96e5c91c4beec772467c31ffee37d133397972248a025804dd6a0": {
         "title": "在OpenAI上班有多卷？离职员工爆料：7周打造Codex，每天熬到凌晨",
         "link": "https://www.jiqizhixin.com/articles/2025-07-19-5",
@@ -9090,21 +9078,39 @@
         "link": "https://arxiv.org/abs/2508.11093",
         "published_date": "Mon, 18 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-18T05:25:05.321734"
+      },
+      "62e5261f4c6a6a83b1bd63f32fbb639fc422d3dac98ae8bc01c806c2bd1a3a00": {
+        "title": "机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-18-8",
+        "published_date": "Mon, 18 Aug 2025 13:41:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.461561"
+      },
+      "a33a25356efa05db6082b3825c3e613040bbb059ca72d668f075abf850bfd276": {
+        "title": "从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-18-7",
+        "published_date": "Mon, 18 Aug 2025 13:34:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.461766"
+      },
+      "4c8d4c954f65df73ea00e9f8a8bb3804d43bcc9f9728ed44a94db4937b5f8ea9": {
+        "title": "NextStep-1：一次在图像生成上自回归范式的探索",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-18-6",
+        "published_date": "Mon, 18 Aug 2025 13:26:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.461964"
+      },
+      "17000aecf440e381c924968c5005b49b40c62dbbe809289c1fa12bed189a5d8d": {
+        "title": "蚂蚁数科向全球开源180万深度伪造定位数据集，助力AI算法可解释",
+        "link": "https://www.qbitai.com/2025/08/322946.html",
+        "published_date": "Mon, 18 Aug 2025 07:59:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.462177"
+      },
+      "1825d9e9f190ab88943ad8b52ba7b6b27e1ae304e28a3143686e80f201781082": {
+        "title": "AMD苏姿丰公开怼扎克伯格！反对1亿年薪挖人，使命感比钞票更重要",
+        "link": "https://www.qbitai.com/2025/08/322932.html",
+        "published_date": "Mon, 18 Aug 2025 07:54:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.462439"
       }
     },
     "Technology": {
-      "a26671ffeab1cf0fe84385972c7bb572776ba823d5ddd6ad7a843e47cbaf5cf8": {
-        "title": "王兴兴，要去IPO了",
-        "link": "https://www.tmtpost.com/7631578.html",
-        "published_date": "Sat, 19 Jul 2025 16:08:00 GMT",
-        "first_seen": "2025-07-19T08:27:36.417049"
-      },
-      "2b3e936933d359c1fa7cec9d6540ded3c67e7fead7344943689feed869a0b4ac": {
-        "title": "山姆不再是中产的“好丽友”？",
-        "link": "https://www.tmtpost.com/7631528.html",
-        "published_date": "Sat, 19 Jul 2025 16:08:00 GMT",
-        "first_seen": "2025-07-19T08:27:36.417192"
-      },
       "0dc74a71aecaa86ddc18fa0e48bd526209c2588a9038915371a0a53e296e0e40": {
         "title": "星巴克中国联袂远景，驱动全链协同减碳",
         "link": "https://www.tmtpost.com/7631619.html",
@@ -23102,6 +23108,96 @@
         "link": "http://www.geekpark.net/news/352783",
         "published_date": "Mon, 18 Aug 2025 09:55:00 GMT",
         "first_seen": "2025-08-18T05:25:53.840934"
+      },
+      "a40a90c4f6a2d8b4ab830217088e51a69aad71b822e178844b1cee4146c9d684": {
+        "title": "【生态环境周观察】锂业协会发声“反内卷”；欧洲多国遭受极端高温侵扰；美国放宽清洁能源税收抵免要求",
+        "link": "https://www.tmtpost.com/7662081.html",
+        "published_date": "Mon, 18 Aug 2025 16:30:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.522283"
+      },
+      "3a0f44ae9f5df1fd76dbccad3b0edce78e32f2f0fc57c9ce801df729104ba95c": {
+        "title": "【Fintech 周报】消费贷款贴息落地；微信“分付”灰度上线“借款”功能；银行业“反内卷”持续升级",
+        "link": "https://www.tmtpost.com/7663185.html",
+        "published_date": "Mon, 18 Aug 2025 16:29:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323864"
+      },
+      "66c4808d7f0b432548ac9177e7414d5caa078a065fd9bfc69c5f4f27c4cfaa19": {
+        "title": "ExponTech创始人曹羽中：传统存储已触及天花板，统一通用架构重构AI存储",
+        "link": "https://www.tmtpost.com/7663093.html",
+        "published_date": "Mon, 18 Aug 2025 16:17:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323789"
+      },
+      "7c073c5ecf0e0e097bccb6ff8acb7cd3acc8dac89c1da68507fc8eefa7443441": {
+        "title": "海创药业：“抗癌神药”破冰仍亏损6185万元，“下半场”盈利焦虑仍存 | 看财报",
+        "link": "https://www.tmtpost.com/7663111.html",
+        "published_date": "Mon, 18 Aug 2025 16:13:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.522985"
+      },
+      "b9f62cb6ea9309dfe13db8559275c0ad3ca95856d08f634e7c450db85784e3f1": {
+        "title": "【产业互联网周报】美被曝偷装追踪器防止AI芯片转运到中国；DeepSeek-R2在8月内并无发布计划；英伟达和AMD与美政府达成特殊协议",
+        "link": "https://www.tmtpost.com/7663038.html",
+        "published_date": "Mon, 18 Aug 2025 16:12:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323777"
+      },
+      "d00c336246de08a7fd832f2625a8cc175b1eca1a0cf82d6218989e51dfffbb40": {
+        "title": "Pony.ai's Robotaxi Push Gains Momentum, But Profits Remain Elusive",
+        "link": "https://www.tmtpost.com/7663014.html",
+        "published_date": "Mon, 18 Aug 2025 15:29:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323822"
+      },
+      "bc3ffedae9ca9f1295129c32cc6cea3d16a3280b091343ff875c0dac70d6c7b2": {
+        "title": "8月18日A股分析：三大指数集体收涨，两市合计成交27641.63亿元，资金流入最多的行业板块为通信设备、电子元件",
+        "link": "https://www.tmtpost.com/7662978.html",
+        "published_date": "Mon, 18 Aug 2025 15:16:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.524780"
+      },
+      "25951cbc0941321346d654f0aa9c2825d29093b9c63ecce3a43c4977ad0f073f": {
+        "title": "百度文库网盘发布GenFlow2.0，支持同时调用超100个专家智能体",
+        "link": "https://www.infoq.cn/article/PoFqWbDDpNQI8lB2Zz7e?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 16:27:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323800"
+      },
+      "453dccf10f0cc23648ba59d561db1463c6ea8cad4bb376942274b77441f14296": {
+        "title": "微软推出Azure应用测试：一个用于负载测试和端到端测试的统一中心",
+        "link": "https://www.infoq.cn/article/LqFmgKPk6dExzrSSatJq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 16:00:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323810"
+      },
+      "2fc464d9c6d169f895624bba4cef1acef3fe21d7a4340bd43f86f56e4f1ee8f8": {
+        "title": "科技是什么？服务人类、连接温度、推动共生｜GTLC 上海站，我们就聊这个！",
+        "link": "https://www.infoq.cn/article/GeB4Pchuvpw5Bz5WIlEx?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 15:19:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.526755"
+      },
+      "af098f585f6c175070af908f6a79cef257d1f3fc51b63036f23f7398602097dd": {
+        "title": "Netflix采用RAW Hollow内存对象存储对Tudum的CQRS架构进行了重新设计",
+        "link": "https://www.infoq.cn/article/FG2hhJw3QpZ9gadGtKKt?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323843"
+      },
+      "2ac331eac23d18d5344e3b5fa948df57dd019023e5c41e7c60a37a2a3646b004": {
+        "title": "困在产业落地的数据流通，开源会成为“破局点”吗？",
+        "link": "https://www.infoq.cn/article/140E6M7JLBClj2cUzPov?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 14:45:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323832"
+      },
+      "b8e9a494ac634d31c7a5c96d319761be324929bbd85591dedf0836cb95e6ed83": {
+        "title": "NASA是如何测试航天飞机和猎户座MPCV的软件的",
+        "link": "https://www.infoq.cn/article/ZGC9VZXX7GPxJQjzouGg?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 14:15:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323852"
+      },
+      "ed00bb1cbf1ba5a88e4d26fde1c67063657e8ea4460bde443f254abbc28f3a41": {
+        "title": "谷歌推出 Jules：一款基于 Gemini 2.5 的异步编程智能体",
+        "link": "https://www.infoq.cn/article/OCYkPyKgeVLKuSrbY3Mm?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 Aug 2025 13:57:00 GMT",
+        "first_seen": "2025-08-18T08:36:52.323752"
+      },
+      "f84f3345a3e950b3d3bc1f42815661ea24179871cabcac3476d7bf9230975aa3": {
+        "title": "Setapp 车门焊死，你用的 app「平替」有哪些？",
+        "link": "https://sspai.com/post/101914",
+        "published_date": "Mon, 18 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.531168"
       }
     },
     "Finance": {
@@ -26272,12 +26368,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=425b65bc-0ba1-4ac6-8f17-90a453fff634&mod=mw_rss_bulletins",
         "published_date": "Mon, 18 Aug 2025 00:13:00 GMT",
         "first_seen": "2025-08-18T05:25:28.464853"
+      },
+      "e9c9bc8bd870aa3c1cfe541db99c5d139f05bb78aa7a6713e111817c4c92d3ea": {
+        "title": "Novo Nordisk shares are rising. The FDA approves another use for Wegovy.",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-shares-are-rising-the-fda-approves-another-use-for-wegovy-c33133ec?mod=mw_rss_topstories",
+        "published_date": "Mon, 18 Aug 2025 08:21:00 GMT",
+        "first_seen": "2025-08-18T08:36:30.500375"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-18T05:25:28.455029",
-    "Technology": "2025-08-18T05:25:53.843320",
-    "Finance": "2025-08-18T05:25:28.472008"
+    "AI": "2025-08-18T08:36:30.491638",
+    "Technology": "2025-08-18T08:36:52.326249",
+    "Finance": "2025-08-18T08:36:30.507229"
   }
 }

@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-18 05:24
+**最后更新时间**: 2025-08-18 08:36
+
+---
+
+## 🆕 最新更新 (2025-08-18 08:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【生态环境周观察】锂业协会发声“反内卷”；欧洲多国遭受极端高温侵扰；美国放宽清洁能源税收抵免要求](https://www.tmtpost.com/7662081.html)
+**发布时间**: 2025-08-18 16:30
+
+#### [【Fintech 周报】消费贷款贴息落地；微信“分付”灰度上线“借款”功能；银行业“反内卷”持续升级](https://www.tmtpost.com/7663185.html)
+**发布时间**: 2025-08-18 16:29
+
+#### [ExponTech创始人曹羽中：传统存储已触及天花板，统一通用架构重构AI存储](https://www.tmtpost.com/7663093.html)
+**发布时间**: 2025-08-18 16:17
+
+#### [海创药业：“抗癌神药”破冰仍亏损6185万元，“下半场”盈利焦虑仍存 | 看财报](https://www.tmtpost.com/7663111.html)
+**发布时间**: 2025-08-18 16:13
+
+#### [【产业互联网周报】美被曝偷装追踪器防止AI芯片转运到中国；DeepSeek-R2在8月内并无发布计划；英伟达和AMD与美政府达成特殊协议](https://www.tmtpost.com/7663038.html)
+**发布时间**: 2025-08-18 16:12
+
+#### [Pony.ai's Robotaxi Push Gains Momentum, But Profits Remain Elusive](https://www.tmtpost.com/7663014.html)
+**发布时间**: 2025-08-18 15:29
+
+#### [8月18日A股分析：三大指数集体收涨，两市合计成交27641.63亿元，资金流入最多的行业板块为通信设备、电子元件](https://www.tmtpost.com/7662978.html)
+**发布时间**: 2025-08-18 15:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [百度文库网盘发布GenFlow2.0，支持同时调用超100个专家智能体](https://www.infoq.cn/article/PoFqWbDDpNQI8lB2Zz7e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 16:27
+
+#### [微软推出Azure应用测试：一个用于负载测试和端到端测试的统一中心](https://www.infoq.cn/article/LqFmgKPk6dExzrSSatJq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 16:00
+
+#### [科技是什么？服务人类、连接温度、推动共生｜GTLC 上海站，我们就聊这个！](https://www.infoq.cn/article/GeB4Pchuvpw5Bz5WIlEx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 15:19
+
+#### [Netflix采用RAW Hollow内存对象存储对Tudum的CQRS架构进行了重新设计](https://www.infoq.cn/article/FG2hhJw3QpZ9gadGtKKt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 15:00
+
+#### [困在产业落地的数据流通，开源会成为“破局点”吗？](https://www.infoq.cn/article/140E6M7JLBClj2cUzPov?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 14:45
+
+#### [NASA是如何测试航天飞机和猎户座MPCV的软件的](https://www.infoq.cn/article/ZGC9VZXX7GPxJQjzouGg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 14:15
+
+#### [谷歌推出 Jules：一款基于 Gemini 2.5 的异步编程智能体](https://www.infoq.cn/article/OCYkPyKgeVLKuSrbY3Mm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-18 13:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Setapp 车门焊死，你用的 app「平替」有哪些？](https://sspai.com/post/101914)
+**发布时间**: 2025-08-18 15:00
 
 ---
 
