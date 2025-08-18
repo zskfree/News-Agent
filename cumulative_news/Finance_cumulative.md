@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-17 23:20
+**最后更新时间**: 2025-08-18 05:25
+
+---
+
+## 🆕 最新更新 (2025-08-18 05:25)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The Powerball jackpot is now $605 million, but this man warns that playing the lottery can become an addiction](https://www.marketwatch.com/story/i-hit-the-worst-of-bottom-this-connecticut-man-lost-around-1-million-playing-the-lottery-and-has-no-plans-to-buy-a-powerball-ticket-11633373346?mod=mw_rss_topstories)
+**发布时间**: 2025-08-18 01:08
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why nearly 7 in 10 new college grads are looking for jobs close to family](https://www.marketwatch.com/bulletins/redirect/go?g=7840476c-1aa5-4350-8b85-6d917e16f61c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 01:02
+
+#### [How safe are cruise-ship water slides? A recent incident raises concerns.](https://www.marketwatch.com/bulletins/redirect/go?g=425b65bc-0ba1-4ac6-8f17-90a453fff634&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-18 00:13
+
+#### [Investors are loving homebuilder stocks. Will Jackson Hole prove them wrong?](https://www.marketwatch.com/bulletins/redirect/go?g=8ff1ebcd-b4d5-4d2f-a2bd-6cea72c28f99&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-17 23:19
 
 ---
 

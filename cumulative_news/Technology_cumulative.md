@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-17 23:20
+**最后更新时间**: 2025-08-18 05:24
+
+---
+
+## 🆕 最新更新 (2025-08-18 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Shanghai's Key Stock Index Surge to 10-Year High as Investors Pile in Stock Market](https://www.tmtpost.com/7662835.html)
+**发布时间**: 2025-08-18 12:48
+
+#### [无锡高中毕业生逆袭专精特新，却倒在IPO门口](https://www.tmtpost.com/7662738.html)
+**发布时间**: 2025-08-18 12:37
+
+#### [“玩水人”买爆几块钱小东西，有新品牌年销千万](https://www.tmtpost.com/7662507.html)
+**发布时间**: 2025-08-18 12:32
+
+#### [卧龙电驱拟赴港上市加码新风口业务：机器人营收贡献不足3%，研发支出数据“打架”｜IPO观察](https://www.tmtpost.com/7662801.html)
+**发布时间**: 2025-08-18 12:28
+
+#### [拍一部剧最高奖励40万，望城发力微短剧赛道，剑指千亿产业新高地](https://www.tmtpost.com/7662681.html)
+**发布时间**: 2025-08-18 12:26
+
+#### [乘客付费涨三倍，小马智行 Robotaxi 能爆发吗？](https://www.tmtpost.com/7662750.html)
+**发布时间**: 2025-08-18 12:21
+
+#### [江西菜，变身“漂亮饭”之后爆了](https://www.tmtpost.com/7662726.html)
+**发布时间**: 2025-08-18 12:12
+
+#### [即时零售“爆发”，百果园“失算”](https://www.tmtpost.com/7662464.html)
+**发布时间**: 2025-08-18 12:00
+
+#### [伯克希尔投资棋局：押注联合健康能否复制当年美银奇迹？](https://www.tmtpost.com/7662471.html)
+**发布时间**: 2025-08-18 11:51
+
+#### [肿瘤疫苗的复兴](https://www.tmtpost.com/7662484.html)
+**发布时间**: 2025-08-18 11:42
+
+#### [8年营收增长77倍，“追杀”年轻人的“美国绿鸟”，创下百亿美元市值](https://www.tmtpost.com/7662490.html)
+**发布时间**: 2025-08-18 11:34
+
+#### [Talent Becomes One of the Key Challenges for Large-Scale Embodied Intelligence Applications, Says Founder of Realman Robotics](https://www.tmtpost.com/7662713.html)
+**发布时间**: 2025-08-18 11:33
+
+#### [梅卡曼德机器人邵天兰：具身智能没有“英雄主义”，只有“魔鬼细节”](https://www.tmtpost.com/7662678.html)
+**发布时间**: 2025-08-18 11:32
+
+#### [在游戏公司，“嫡系”意味着什么？](https://www.tmtpost.com/7662528.html)
+**发布时间**: 2025-08-18 11:21
+
+#### [店铺超low、却连续34年增长，营收千亿碾压无印良品，堂吉诃德做对了什么？](https://www.tmtpost.com/7662529.html)
+**发布时间**: 2025-08-18 11:16
+
+#### [无袖即反叛？拒绝羞耻还是资本陷阱](https://www.tmtpost.com/7662550.html)
+**发布时间**: 2025-08-18 11:16
+
+#### [进退维谷的新诺威](https://www.tmtpost.com/7662571.html)
+**发布时间**: 2025-08-18 11:16
+
+#### [AI 生成广告素材，30天推向全球市场 | 创新场景](https://www.tmtpost.com/7662496.html)
+**发布时间**: 2025-08-18 11:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 Mac 上爽玩游戏？我的折腾与收获](https://sspai.com/post/101506)
+**发布时间**: 2025-08-18 11:30
+
+#### [派早报：机场拦截充电宝回流市场](https://sspai.com/post/101913)
+**发布时间**: 2025-08-18 08:47
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Altman：希望 AGI 能提高生育率；与辉同行否认董宇辉年收入二三十亿元；今年国内智能眼镜市场同比增长121.1%](http://www.geekpark.net/news/352783)
+**发布时间**: 2025-08-18 09:55
 
 ---
 
