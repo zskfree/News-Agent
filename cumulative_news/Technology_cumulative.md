@@ -1,7 +1,165 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-19 08:34
+**最后更新时间**: 2025-08-19 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-19 23:23)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
+**发布时间**: 2025-08-19 21:48
+
+#### [Google announced the next step in its nuclear energy plans](https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility)
+**发布时间**: 2025-08-19 20:45
+
+#### [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
+**发布时间**: 2025-08-19 20:26
+
+#### [Microsoft employees occupy headquarters in protest of Israel contracts](https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid)
+**发布时间**: 2025-08-19 20:22
+
+#### [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+**发布时间**: 2025-08-19 19:45
+
+#### [Meta’s AI translation tool can dub your Instagram videos](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels)
+**发布时间**: 2025-08-19 18:28
+
+#### [The new Nissan Leaf is still one of the cheapest EVs in America](https://www.theverge.com/nissan/761633/nissan-leaf-starting-price-cheap-ev)
+**发布时间**: 2025-08-19 18:12
+
+#### [Apple is reportedly making more of its new iPhones in India instead of China](https://www.theverge.com/news/761582/apple-iphone-17-pro-max-air-india-china)
+**发布时间**: 2025-08-19 18:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [溢价超260%再跨界豪赌，梅雁吉祥遭监管机构火速问询 | 并购一线](https://www.tmtpost.com/7664966.html)
+**发布时间**: 2025-08-19 21:29
+
+#### [靠平价车“小赚”3000万，零跑汽车下一关要卖够百万辆｜钛度车库](https://www.tmtpost.com/7664403.html)
+**发布时间**: 2025-08-19 21:09
+
+#### [汽车平均售价达到28.7万元，卢伟冰：小米汽车已经成为高端车](https://www.tmtpost.com/7664926.html)
+**发布时间**: 2025-08-19 20:17
+
+#### [一箭7星发射成功，中科宇航的力箭一号已累计发射70颗卫星](https://www.tmtpost.com/7664747.html)
+**发布时间**: 2025-08-19 20:16
+
+#### [“雅江水电牛股”西藏天路上半年经营恶化，题材炒作难掩盈利短板｜看财报](https://www.tmtpost.com/7664904.html)
+**发布时间**: 2025-08-19 19:51
+
+#### [低门槛股权激励成最大拖累，内外交困下欧菲光再亏过亿｜看财报](https://www.tmtpost.com/7664857.html)
+**发布时间**: 2025-08-19 19:46
+
+#### [恒大退市留下的3500亿窟窿，恒大酒店能填多少?](https://www.tmtpost.com/7664182.html)
+**发布时间**: 2025-08-19 19:26
+
+#### [恒大“二号人物”夏海钧的财富黑洞：从天价薪酬到海外藏匿，他究竟卷走了多少？](https://www.tmtpost.com/7664298.html)
+**发布时间**: 2025-08-19 19:23
+
+#### [影石和大疆的双王之战，都想打对方的“七寸”](https://www.tmtpost.com/7664483.html)
+**发布时间**: 2025-08-19 19:23
+
+#### [4分钱的“战争”：央企要涨电价，地方要降电价，谁赢？](https://www.tmtpost.com/7664070.html)
+**发布时间**: 2025-08-19 19:23
+
+#### [光伏“卖铲人”助力之下，印度光伏正在抄我们的后路？](https://www.tmtpost.com/7663876.html)
+**发布时间**: 2025-08-19 19:22
+
+#### [退休返聘，你的酒店愿意吗?](https://www.tmtpost.com/7664447.html)
+**发布时间**: 2025-08-19 19:20
+
+#### [补贴退潮，暗战升级：2025，手机江湖进入硬核时刻](https://www.tmtpost.com/7664432.html)
+**发布时间**: 2025-08-19 19:20
+
+#### [人类距离下一次超级进化，还有8年](https://www.tmtpost.com/7664181.html)
+**发布时间**: 2025-08-19 19:00
+
+#### [撒钱撒出千亿市值，科技上行的美？](https://www.tmtpost.com/7663994.html)
+**发布时间**: 2025-08-19 19:00
+
+#### [宇树的“反转”之路](https://www.tmtpost.com/7664770.html)
+**发布时间**: 2025-08-19 19:00
+
+#### [零售巨头“守门”，谁能撕开固化的德国电商体系？](https://www.tmtpost.com/7664665.html)
+**发布时间**: 2025-08-19 19:00
+
+#### [李想需要学会打逆风局](https://www.tmtpost.com/7664243.html)
+**发布时间**: 2025-08-19 19:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 50 Best Shows on Hulu Right Now (August 2025)](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+**发布时间**: 2025-08-19 19:00
+
+#### [PNY’s Overclocked RTX 5070 Ti Is Finally Selling at Retail](https://www.wired.com/story/pny-rtx-5070-deal/)
+**发布时间**: 2025-08-19 18:17
+
+#### [Senate Probe Uncovers Allegations of Widespread Abuse in ICE Custody](https://www.wired.com/story/senate-probe-uncovers-widespread-abuse-in-ice-custody/)
+**发布时间**: 2025-08-19 17:15
+
+#### [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
+**发布时间**: 2025-08-19 16:14
+
+#### [OpenAI Is Poised to Become the Most Valuable Startup Ever. Should It Be?](https://www.wired.com/story/openai-valuation-500-billion-skepticism/)
+**发布时间**: 2025-08-19 16:00
+
+#### [“Kirby Air Riders” Is Coming to Switch 2, and It’s “Basically Like ‘Mario Kart’”](https://www.wired.com/story/kirby-air-riders-is-coming-to-switch-2-and-its-basically-like-mario-kart/)
+**发布时间**: 2025-08-19 15:05
+
+#### [The Global Car Reckoning Is Here. Far Too Many Auto Companies Don’t Have a Plan](https://www.wired.com/story/the-global-car-reckoning-is-here-auto-companies-dont-have-a-plan/)
+**发布时间**: 2025-08-19 14:56
+
+#### [Labubus Are on Track to Be a Billion-Dollar Business This Year](https://www.wired.com/story/labubu-pop-mart-earnings-2025/)
+**发布时间**: 2025-08-19 14:49
+
+#### [493 Cases of Sextortion Against Children Linked to Notorious Scam Compounds](https://www.wired.com/story/child-sextorition-scam-compounds-southeast-asia/)
+**发布时间**: 2025-08-19 14:11
+
+#### [Dell 14 Premium Review: Hello Old Friend](https://www.wired.com/review/dell-14-premium/)
+**发布时间**: 2025-08-19 14:00
+
+#### [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)
+**发布时间**: 2025-08-19 13:00
+
+#### [The Best Ergonomic Mouse (2025), Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)
+**发布时间**: 2025-08-19 13:00
+
+#### [The 15 Best Golf Gifts for Every Kind of Golfer (2024)](https://www.wired.com/gallery/gifts-for-golfers/)
+**发布时间**: 2025-08-19 12:03
+
+#### [The Best Cooling Sheets (2025): Brooklinen, Slumber Cloud, Buffy](https://www.wired.com/gallery/best-cooling-sheets/)
+**发布时间**: 2025-08-19 11:36
+
+#### [People Are Trying to ‘Deprogram’ Their MAGA Parents Through Book Clubs](https://www.wired.com/story/people-are-trying-to-deprogram-their-maga-parents-through-book-clubs/)
+**发布时间**: 2025-08-19 11:00
+
+#### [A Super-Energetic Neutrino That Reached Earth in 2023 Has Been Confirmed to Be Real. But Where Did It Come From?](https://www.wired.com/story/the-mysterious-origins-of-the-most-energetic-neutrino-ever-detected/)
+**发布时间**: 2025-08-19 11:00
+
+#### [Silicon Valley Is Panicking About Zohran Mamdani. NYC’s Tech Scene Is Not](https://www.wired.com/story/tech-executives-new-york-zohran-mamdani/)
+**发布时间**: 2025-08-19 11:00
+
+#### [An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon](https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/)
+**发布时间**: 2025-08-19 09:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AGICamp第 008 周 AI 应用榜：买榴莲不靠运气，出远门不怕忘带东西，AI应用全面接管生活是否可行？](https://www.infoq.cn/article/ohQohmcmsuY1GjLGj6Ip?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 18:00
+
+#### [AI 研发提效到底进行到哪儿了？｜InfoQ《极客有约》](https://www.infoq.cn/video/IUWcoddYO78zda0ZcyYS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 17:21
+
+#### [【上新啦】HarmonyOS官方模板优秀案例
+（第2期：新闻行业 · 综合新闻）](https://www.infoq.cn/article/dh435gKf1ATKBh3iHRQu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 14:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 106 | 派友的会员订阅选择与 Setapp 平替、新玩意](https://sspai.com/post/101948)
+**发布时间**: 2025-08-19 17:28
 
 ---
 

@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-19 08:34
+**最后更新时间**: 2025-08-19 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-19 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I can only rely on me’: How do I protect myself from my parents’ nursing-home bills?](https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 22:49
+
+#### [Venus Williams says she returned to tennis for the health insurance — even after earning $42 million](https://www.marketwatch.com/story/despite-42-million-in-earnings-venus-williams-couldnt-afford-to-stay-retired-d420b932?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 21:51
+
+#### [Home Depot says tariffs will lead to price increases, but they won’t be across the board](https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 21:35
+
+#### [Intel’s stock surges on SoftBank investment and potential U.S. government stake. Here’s why the rally could crumble.](https://www.marketwatch.com/story/intels-stock-surges-on-softbank-investment-and-potential-u-s-government-stake-heres-why-the-rally-could-crumble-82cb6944?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 21:01
+
+#### [My stepmother’s lawyer called us ‘greedy’ for fighting for our father’s estate. When will it end?](https://www.marketwatch.com/story/my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our-fathers-estate-when-will-it-end-cfd92065?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 21:00
+
+#### [Why small-cap stocks may be running out of ‘runway’ after recent outperformance](https://www.marketwatch.com/story/why-small-cap-stocks-may-be-running-out-of-runway-after-recent-outperformance-7a001b44?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 20:37
+
+#### [Why the Russell 2000 has a real chance to beat the S&P 500 — finally](https://www.marketwatch.com/story/why-the-russell-2000-has-a-real-chance-to-beat-the-s-p-500-finally-bd0c825b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 20:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. has 5 wealth classes. See where you fit in — and how much it takes to rise.](https://www.marketwatch.com/bulletins/redirect/go?g=bf172dcb-1952-4374-8127-0abf73e950e8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 22:07
+
+#### [Intel shares rise on SoftBank deal, talk of U.S stake. Why the rally could fade.](https://www.marketwatch.com/bulletins/redirect/go?g=d49eec09-7bdc-4e31-aafb-c952a6b54985&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 21:30
+
+#### [How Trump's TV-style search for new Fed chair is pressuring Powell to cut rates](https://www.marketwatch.com/bulletins/redirect/go?g=a432901a-e5c1-4291-8ee6-e03e23be1e50&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 20:50
+
+#### [Dow ends flat, Nasdaq and S&P 500 finish sharply lower as Big Tech stocks slide](https://www.marketwatch.com/bulletins/redirect/go?g=676e3098-f698-4561-99f3-d6788828f78d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 20:08
+
+#### [Stocks lower in final hour as Big Tech drags down Nasdaq, S&P 500 — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=6c8e6bf0-7d99-42a5-a0ff-e93a945b9d19&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 19:19
+
+#### [The jobs report has never been so under the gun. Why fixing it won’t be easy.](https://www.marketwatch.com/bulletins/redirect/go?g=cbc4029c-27ff-4132-ba47-7d8380cb38fd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 19:02
+
+#### [Nearly 50% of adults are now ordering kids’ meals](https://www.marketwatch.com/bulletins/redirect/go?g=48575865-a8e3-42bd-a372-e1ddf1d855d8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 15:45
+
+#### [Stocks open mixed as investors wait for updates from Fed's Jackson Hole meeting](https://www.marketwatch.com/bulletins/redirect/go?g=9824497e-eda8-489d-9ae2-6277eb499958&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 13:33
+
+#### [Home Depot misses earnings expectations as comp-store sales inched higher](https://www.marketwatch.com/bulletins/redirect/go?g=ae4a5fe7-deed-4168-bde3-ecd0713a74f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 10:18
 
 ---
 

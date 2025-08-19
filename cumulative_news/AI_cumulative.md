@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-19 08:27
+**最后更新时间**: 2025-08-19 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-19 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [强化学习之父Richard Sutton最新演讲揭示OaK架构：通向超级智能的八步愿景](https://www.jiqizhixin.com/articles/2025-08-19-8)
+**发布时间**: 2025-08-19 18:03
+
+#### [ICCV 2025 | RobustSplat: 解耦致密化与动态的抗瞬态3DGS三维重建](https://www.jiqizhixin.com/articles/2025-08-19-7)
+**发布时间**: 2025-08-19 17:52
+
+#### [医疗AI安全革命：全球首个医疗动态红队测试框架DAS，破解临床落地信任危机](https://www.jiqizhixin.com/articles/2025-08-19-6)
+**发布时间**: 2025-08-19 16:28
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: clean energy progress, and OpenAI’s trilemma](https://www.technologyreview.com/2025/08/19/1122041/the-download-clean-energy-progress-and-openais-trilemma/)
+**发布时间**: 2025-08-19 12:10
+
+#### [Apple AirPods : a gateway hearing aid](https://www.technologyreview.com/2025/08/19/1121384/apple-airpod-pro-2-hearing-aid/)
+**发布时间**: 2025-08-19 10:00
+
+#### [How churches use data and AI as engines of surveillance](https://www.technologyreview.com/2025/08/19/1121389/ai-data-church-surveillance-america/)
+**发布时间**: 2025-08-19 10:00
+
+#### [Should AI flatter us, fix us, or just inform us?](https://www.technologyreview.com/2025/08/19/1122021/should-ai-flatter-us-fix-us-or-just-inform-us/)
+**发布时间**: 2025-08-19 09:00
+
+#### [How to make clean energy progress under Trump in the states—blue and red alike](https://www.technologyreview.com/2025/08/19/1122023/how-to-make-clean-energy-progress-under-trump-in-the-states-blue-and-red-alike/)
+**发布时间**: 2025-08-19 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [突破Claude-4编程上限！自进化Agent框架拿下新SOTA，已开源](https://www.qbitai.com/2025/08/324007.html)
+**发布时间**: 2025-08-19 09:38
+
+#### [“现在读AI博士已经太晚了”](https://www.qbitai.com/2025/08/323711.html)
+**发布时间**: 2025-08-19 09:09
+
+#### [16岁炒马斯克鱿鱼，SpaceX天才转投北大数学校友赵鹏麾下](https://www.qbitai.com/2025/08/323975.html)
+**发布时间**: 2025-08-19 09:05
+
+#### [奥特曼：我承认GPT-5发布搞砸了](https://www.qbitai.com/2025/08/323709.html)
+**发布时间**: 2025-08-19 08:48
+
+#### [零跑最强半年报：Q2盈利1.63亿，月均销量冲刺7.6万台，年底上线城市NOA](https://www.qbitai.com/2025/08/323708.html)
+**发布时间**: 2025-08-19 08:48
+
+#### [凌晨战神Qwen又搞事情！新模型让图像编辑“哪里不对改哪里”](https://www.qbitai.com/2025/08/323675.html)
+**发布时间**: 2025-08-19 07:56
+
+#### [美国专家来中国转了一圈：AI比赛已经结束了](https://www.qbitai.com/2025/08/323553.html)
+**发布时间**: 2025-08-19 07:40
+
+#### [OpenAI总裁透露GPT-5改了推理范式，AGI实现要靠现实反馈](https://www.qbitai.com/2025/08/323554.html)
+**发布时间**: 2025-08-19 07:39
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A new model predicts how molecules will dissolve in different solvents](https://news.mit.edu/2025/new-model-predicts-how-molecules-will-dissolve-in-different-solvents-0819)
+**发布时间**: 2025-08-19 05:00
 
 ---
 
