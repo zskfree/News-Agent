@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 05:21:54 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 08:34:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>QuarkMed Medical Foundation Model Technical Report</title>
-      <link>https://arxiv.org/abs/2508.11894</link>
-      <description>&lt;![CDATA[QuarkMed Medical Foundation Model Technical Report]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11894</guid>
+      <title>7年了，OpenAI官方给出五代GPT对比，网友却怀念起「狂野」初代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-19-5</link>
+      <description>&lt;![CDATA[7年了，OpenAI官方给出五代GPT对比，网友却怀念起「狂野」初代]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting</title>
-      <link>https://arxiv.org/abs/2508.12260</link>
-      <description>&lt;![CDATA[Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.12260</guid>
+      <title>X-SAM：从「分割一切」到「任意分割」：统一图像分割多模态大模型，在20+个图像分割数据集上均达SoTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-19-4</link>
+      <description>&lt;![CDATA[X-SAM：从「分割一切」到「任意分割」：统一图像分割多模态大模型，在20+个图像分割数据集上均达SoTA]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开源版Genie 3世界模型来了：实时+长时间交互，单卡可跑，国内公司出品</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-19-3</link>
-      <description>&lt;![CDATA[开源版Genie 3世界模型来了：实时+长时间交互，单卡可跑，国内公司出品]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-3</guid>
+      <title>英伟达开源9B参数小模型，比Qwen3快6倍</title>
+      <link>https://www.qbitai.com/2025/08/323442.html</link>
+      <description>&lt;![CDATA[英伟达开源9B参数小模型，比Qwen3快6倍]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 06:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323442.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达新研究：小模型才是智能体的未来</title>
-      <link>https://www.qbitai.com/2025/08/323262.html</link>
-      <description>&lt;![CDATA[英伟达新研究：小模型才是智能体的未来]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323262.html</guid>
+      <title>超越RAG和DAPT！华人团队：一个小解码器让所有模型当上领域专家</title>
+      <link>https://www.qbitai.com/2025/08/323458.html</link>
+      <description>&lt;![CDATA[超越RAG和DAPT！华人团队：一个小解码器让所有模型当上领域专家]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 06:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323458.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants</title>
-      <link>https://arxiv.org/abs/2508.12754</link>
-      <description>&lt;![CDATA[Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.12754</guid>
+      <title>4o-mini华人领队也离职了，这次不怪小扎</title>
+      <link>https://www.qbitai.com/2025/08/323426.html</link>
+      <description>&lt;![CDATA[4o-mini华人领队也离职了，这次不怪小扎]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 06:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323426.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs</title>
-      <link>https://arxiv.org/abs/2508.11944</link>
-      <description>&lt;![CDATA[CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11944</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GTool: Graph Enhanced Tool Planning with Large Language Model</title>
-      <link>https://arxiv.org/abs/2508.12725</link>
-      <description>&lt;![CDATA[GTool: Graph Enhanced Tool Planning with Large Language Model]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.12725</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework</title>
-      <link>https://arxiv.org/abs/2508.11860</link>
-      <description>&lt;![CDATA[LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11860</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>妙笔生维：线稿驱动的三维场景视频自由编辑</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-19</link>
-      <description>&lt;![CDATA[妙笔生维：线稿驱动的三维场景视频自由编辑]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rigorous Feature Importance Scores based on Shapley Value and Banzhaf Index</title>
-      <link>https://arxiv.org/abs/2508.11959</link>
-      <description>&lt;![CDATA[Rigorous Feature Importance Scores based on Shapley Value and Banzhaf Index]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11959</guid>
+      <title>向医务工作者致敬！AQ上线PC专业版，为医生减负</title>
+      <link>https://www.qbitai.com/2025/08/323420.html</link>
+      <description>&lt;![CDATA[向医务工作者致敬！AQ上线PC专业版，为医生减负]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 05:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323420.html</guid>
       <category>AI</category>
     </item>
   </channel>

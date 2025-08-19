@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Aug 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 05:21:54 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 08:34:00 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 08:34:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Intel’s stock rallies after $2 billion investment by Japan’s SoftBank</title>
-      <link>https://www.marketwatch.com/story/intels-stock-rallies-after-2-billion-investment-by-japans-softbank-5313aa50?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Intel’s stock rallies after $2 billion investment by Japan’s SoftBank]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 02:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/intels-stock-rallies-after-2-billion-investment-by-japans-softbank-5313aa50?mod=mw_rss_topstories</guid>
+      <title>Chamath Palihapitiya warns ‘no crying in the casino’ as he launches another SPAC after a string of failures</title>
+      <link>https://www.marketwatch.com/story/chamath-palihapitiya-warns-no-crying-in-the-casino-as-he-launches-another-spac-after-a-string-of-failures-bc314892?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Chamath Palihapitiya warns ‘no crying in the casino’ as he launches another SPAC after a string of failures]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/chamath-palihapitiya-warns-no-crying-in-the-casino-as-he-launches-another-spac-after-a-string-of-failures-bc314892?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

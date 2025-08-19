@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-19 05:21
+**最后更新时间**: 2025-08-19 08:34
+
+---
+
+## 🆕 最新更新 (2025-08-19 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [瑞士工程科技公司Nanoleq研发智能纺织品关键组件，重塑基于智能纺织品的健康监测 | 瑞士创新100强](https://www.tmtpost.com/7664208.html)
+**发布时间**: 2025-08-19 16:22
+
+#### [卡牌狂热](https://www.tmtpost.com/7664362.html)
+**发布时间**: 2025-08-19 16:04
+
+#### [China's Shuangdeng Group Eyes Global Expansion With Landmark Hong Kong IPO](https://www.tmtpost.com/7664594.html)
+**发布时间**: 2025-08-19 16:02
+
+#### [中产妈妈们，买出一个IPO](https://www.tmtpost.com/7664345.html)
+**发布时间**: 2025-08-19 15:50
+
+#### [国产航空动力电池破解“不可达三角”，固定翼飞机迎来量产关键助力](https://www.tmtpost.com/7663817.html)
+**发布时间**: 2025-08-19 15:31
+
+#### [8月19日A股分析：沪指跌0.02%报3727.29点，两市合计成交25883.69亿元，涨幅最多的行业板块为汽车服务](https://www.tmtpost.com/7664520.html)
+**发布时间**: 2025-08-19 15:30
+
+#### [消费者翘首以盼，固态电池为何迟迟不来？](https://www.tmtpost.com/7664289.html)
+**发布时间**: 2025-08-19 15:27
+
+#### [Nvidia Developing New AI Chips for China That Surpass Current H20 Model](https://www.tmtpost.com/7664503.html)
+**发布时间**: 2025-08-19 15:16
+
+#### [Trump's Adviser Urges India to Stop Buying Russian Oil as Planned Trade Talks Said to Be Called Off](https://www.tmtpost.com/7664479.html)
+**发布时间**: 2025-08-19 15:02
+
+#### [海清智元隐忧：盈利质量承压，扩产、补流募投项目合理性存疑｜IPO观察](https://www.tmtpost.com/7663109.html)
+**发布时间**: 2025-08-19 14:54
+
+#### [汽车“大彩电”背后的头号推手，没想到是手机圈的老玩家｜供应链隐形冠军](https://www.tmtpost.com/7663906.html)
+**发布时间**: 2025-08-19 14:54
+
+#### [TikTok Expands Into U.S. Travel Market With Booking.com Partnership and Creator Monetization Push](https://www.tmtpost.com/7664448.html)
+**发布时间**: 2025-08-19 14:53
+
+#### [一年狂揽14亿，范冰冰杀入“最卷”行业，复购率超85%](https://www.tmtpost.com/7664125.html)
+**发布时间**: 2025-08-19 14:49
+
+#### [JD.com Makes $420 Million Bet on China's Personal Non-Performing Loan Market With AMC Acquisition](https://www.tmtpost.com/7664424.html)
+**发布时间**: 2025-08-19 14:42
+
+#### [快递集体涨价成趋势，“8毛发全国”成历史意味着什么？](https://www.tmtpost.com/7664214.html)
+**发布时间**: 2025-08-19 14:24
+
+#### [AI救了美图](https://www.tmtpost.com/7664086.html)
+**发布时间**: 2025-08-19 13:44
+
+#### [GLP-1闯入新大陆](https://www.tmtpost.com/7664073.html)
+**发布时间**: 2025-08-19 13:20
+
+#### [SoftBank to Invest $2 Billion in Intel as Trump Admin. Reportedly Considers Acquiring 10% Stake in Chipmaker](https://www.tmtpost.com/7664327.html)
+**发布时间**: 2025-08-19 13:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GPT-5被批过度炒作、性能落后，OpenAI联创揭秘其中原因：我们把它关在 “象牙塔”，和现实世界接触不够](https://www.infoq.cn/article/su5TLt4yNFb6vzpLbYCr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 16:12
+
+#### [HCP Terraform现在提供持有自有密钥 （HYOK）选项用于构件加密](https://www.infoq.cn/article/ZizbsINmz12zzRdzYIaR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 15:00
+
+#### [【上新啦】HarmonyOS官方模板优秀案例
+（第2期：新闻行业 · 综合新闻）](https://www.infoq.cn/article/dh435gKf1ATKBh3iHRQu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 14:13
+
+#### [Oracle将数据库服务直接引入AWS云服务](https://www.infoq.cn/article/kYxEpqZhEBaU0d05PiPI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 14:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [谷歌在上海办了场 AI 嘉年华，开发者们却说像逛「AI 基地」](http://www.geekpark.net/news/352851)
+**发布时间**: 2025-08-19 15:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 9 款](https://sspai.com/post/101936)
+**发布时间**: 2025-08-19 15:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [AT&T Promo Code: Get Up to $300 in August](https://www.wired.com/story/att-promo-code/)
+**发布时间**: 2025-08-19 05:30
 
 ---
 

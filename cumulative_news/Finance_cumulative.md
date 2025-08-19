@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-19 05:21
+**最后更新时间**: 2025-08-19 08:34
+
+---
+
+## 🆕 最新更新 (2025-08-19 08:34)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Chamath Palihapitiya warns ‘no crying in the casino’ as he launches another SPAC after a string of failures](https://www.marketwatch.com/story/chamath-palihapitiya-warns-no-crying-in-the-casino-as-he-launches-another-spac-after-a-string-of-failures-bc314892?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 08:29
 
 ---
 
