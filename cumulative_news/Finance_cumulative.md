@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-18 23:19
+**最后更新时间**: 2025-08-19 05:21
+
+---
+
+## 🆕 最新更新 (2025-08-19 05:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Intel’s stock rallies after $2 billion investment by Japan’s SoftBank](https://www.marketwatch.com/story/intels-stock-rallies-after-2-billion-investment-by-japans-softbank-5313aa50?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 02:41
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Intel’s stock rallies after $2 billion investment by Japan’s SoftBank](https://www.marketwatch.com/bulletins/redirect/go?g=99845e0f-43d8-4bae-95f0-5c5fcfc0cf13&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 01:27
 
 ---
 

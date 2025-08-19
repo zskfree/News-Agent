@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Aug 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2025 23:19:32 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 05:21:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Researchers glimpse the inner workings of protein language models</title>
-      <link>https://news.mit.edu/2025/researchers-glimpse-inner-workings-protein-language-models-0818</link>
-      <description>&lt;![CDATA[Researchers glimpse the inner workings of protein language models]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/researchers-glimpse-inner-workings-protein-language-models-0818</guid>
+      <title>QuarkMed Medical Foundation Model Technical Report</title>
+      <link>https://arxiv.org/abs/2508.11894</link>
+      <description>&lt;![CDATA[QuarkMed Medical Foundation Model Technical Report]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.11894</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: pigeons’ role in developing AI, and Native artists’ tech interpretations</title>
-      <link>https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/</link>
-      <description>&lt;![CDATA[The Download: pigeons’ role in developing AI, and Native artists’ tech interpretations]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/</guid>
+      <title>Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting</title>
+      <link>https://arxiv.org/abs/2508.12260</link>
+      <description>&lt;![CDATA[Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.12260</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Why we should thank pigeons for our AI breakthroughs</title>
-      <link>https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/</link>
-      <description>&lt;![CDATA[Why we should thank pigeons for our AI breakthroughs]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/</guid>
+      <title>开源版Genie 3世界模型来了：实时+长时间交互，单卡可跑，国内公司出品</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-19-3</link>
+      <description>&lt;![CDATA[开源版Genie 3世界模型来了：实时+长时间交互，单卡可跑，国内公司出品]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>离谱！现在的Agent都卷成100个成团了？3分钟并行干完5个复杂任务，还能随时改需求</title>
-      <link>https://www.qbitai.com/2025/08/323152.html</link>
-      <description>&lt;![CDATA[离谱！现在的Agent都卷成100个成团了？3分钟并行干完5个复杂任务，还能随时改需求]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 10:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323152.html</guid>
+      <title>英伟达新研究：小模型才是智能体的未来</title>
+      <link>https://www.qbitai.com/2025/08/323262.html</link>
+      <description>&lt;![CDATA[英伟达新研究：小模型才是智能体的未来]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323262.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中国足球还是靠机器人吧！首届机器人运动会闭幕：票价终究保守了</title>
-      <link>https://www.qbitai.com/2025/08/322993.html</link>
-      <description>&lt;![CDATA[中国足球还是靠机器人吧！首届机器人运动会闭幕：票价终究保守了]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322993.html</guid>
+      <title>Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants</title>
+      <link>https://arxiv.org/abs/2508.12754</link>
+      <description>&lt;![CDATA[Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.12754</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蔚来CEO珠峰测新车，吸氧上热搜了</title>
-      <link>https://www.qbitai.com/2025/08/323007.html</link>
-      <description>&lt;![CDATA[蔚来CEO珠峰测新车，吸氧上热搜了]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323007.html</guid>
+      <title>CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs</title>
+      <link>https://arxiv.org/abs/2508.11944</link>
+      <description>&lt;![CDATA[CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.11944</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌AI攻克亚洲语言难题，2300种语言数字化计划正在推进</title>
-      <link>https://www.qbitai.com/2025/08/322980.html</link>
-      <description>&lt;![CDATA[谷歌AI攻克亚洲语言难题，2300种语言数字化计划正在推进]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/322980.html</guid>
+      <title>GTool: Graph Enhanced Tool Planning with Large Language Model</title>
+      <link>https://arxiv.org/abs/2508.12725</link>
+      <description>&lt;![CDATA[GTool: Graph Enhanced Tool Planning with Large Language Model]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.12725</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework</title>
+      <link>https://arxiv.org/abs/2508.11860</link>
+      <description>&lt;![CDATA[LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.11860</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>妙笔生维：线稿驱动的三维场景视频自由编辑</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-19</link>
+      <description>&lt;![CDATA[妙笔生维：线稿驱动的三维场景视频自由编辑]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Rigorous Feature Importance Scores based on Shapley Value and Banzhaf Index</title>
+      <link>https://arxiv.org/abs/2508.11959</link>
+      <description>&lt;![CDATA[Rigorous Feature Importance Scores based on Shapley Value and Banzhaf Index]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.11959</guid>
       <category>AI</category>
     </item>
   </channel>

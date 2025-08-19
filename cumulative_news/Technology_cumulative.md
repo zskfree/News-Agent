@@ -1,7 +1,104 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-18 23:19
+**最后更新时间**: 2025-08-19 05:21
+
+---
+
+## 🆕 最新更新 (2025-08-19 05:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [双登股份启动全球招股：港股“AIDC 储能第一股”携技术与资本双轮驱动启航](https://www.tmtpost.com/7664272.html)
+**发布时间**: 2025-08-19 12:37
+
+#### [Trump Says He Won't Raise Tariffs on China over Russian Oil Purchases Immediately](https://www.tmtpost.com/7664306.html)
+**发布时间**: 2025-08-19 12:35
+
+#### [沪指剑指近10年新高，牛市呼声再起，机构：上车](https://www.tmtpost.com/7664084.html)
+**发布时间**: 2025-08-19 11:56
+
+#### [Future Robotics Powers China's Leap in Deep-Sea Exploration Tech](https://www.tmtpost.com/7664239.html)
+**发布时间**: 2025-08-19 11:39
+
+#### [从这个季度开始，市场不再质疑AI Capex了](https://www.tmtpost.com/7663970.html)
+**发布时间**: 2025-08-19 11:34
+
+#### [国货美妆百亿王座攻防战：珀莱雅守擂，上美狂飙 | 国潮风云](https://www.tmtpost.com/7663838.html)
+**发布时间**: 2025-08-19 11:01
+
+#### [威易发：低研发与超高毛利率并存，供应链数据 “打架” 引信披质疑｜IPO观察](https://www.tmtpost.com/7651636.html)
+**发布时间**: 2025-08-19 10:55
+
+#### [从“卖药”转向“卖健康”，负增长时代药店业如何穿越新周期？丨行业风向标](https://www.tmtpost.com/7663890.html)
+**发布时间**: 2025-08-19 10:39
+
+#### [2025Q2调味品市场回顾](https://www.tmtpost.com/7663215.html)
+**发布时间**: 2025-08-19 10:33
+
+#### [对话联想ISG黄山：异构算力融合将成为AI应用落地的关键丨ToB产业观察](https://www.tmtpost.com/7663459.html)
+**发布时间**: 2025-08-19 10:23
+
+#### [快手外卖的“轻”与“重”：流量买卖还是真入局？](https://www.tmtpost.com/7663696.html)
+**发布时间**: 2025-08-19 10:15
+
+#### [90后老板“撒钱”背后，影石“亮剑”大疆，迅雷“赚翻”](https://www.tmtpost.com/7663828.html)
+**发布时间**: 2025-08-19 10:00
+
+#### [半年内销售体系调三次，理想汽车图什么？](https://www.tmtpost.com/7663743.html)
+**发布时间**: 2025-08-19 09:26
+
+#### [科股早知道：头部大模型持续迭代，业内人士称该行业正加速爆发](https://www.tmtpost.com/7663917.html)
+**发布时间**: 2025-08-19 08:14
+
+#### [从中公到粉笔，流水的「考公第一股」们自己能“上岸”吗？](https://www.tmtpost.com/7663695.html)
+**发布时间**: 2025-08-19 08:00
+
+#### [【钛晨报】李强主持召开国务院第九次全体会议，强调持续激发消费潜力；阿里巴巴前合伙人蔡景现以技术合伙人身份加入创业公司贝联珠贯 | 独家；特斯拉官宣Model Y L车型即将登场](https://www.tmtpost.com/7663772.html)
+**发布时间**: 2025-08-19 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepMind推出Genie 3，一款文本到3D的交互式世界模型](https://www.infoq.cn/article/zvXRjcF176jNWGGv8qrY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 12:00
+
+#### [华为昇腾刘伟：上半年APN 芯片发货量增长1.2倍，下半年重点投入Atlas 300I A2和310模组](https://www.infoq.cn/article/MdoOgoMF0XxpGhtm6zHL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 10:34
+
+#### [大规模零停机关键云基础设施升级](https://www.infoq.cn/article/0wsLYdNFrpyh4YEx6jDa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 10:32
+
+#### [Java近期新闻：Spring Framework、Spring Data、Open Liberty、Hibernate Reactive、Quarkus、Gradle](https://www.infoq.cn/article/NKI6JUUmJcveXd27Uzlq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 10:21
+
+#### [Gemini 2.5 Deep Think并行创造性解决问题](https://www.infoq.cn/article/d6DTdKZNBZxbOjL1FzeG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 10:19
+
+#### [AI进化论丨第二期：重构专有云OS安全的信任基石](https://www.infoq.cn/video/oLAbpNDlwAbZoXhOFHKO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-19 09:23
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [水果刺客百果园，凭啥教育消费者？](http://www.huxiu.com/article/4709715.html?f=wangzhan)
+**发布时间**: 2025-08-19 11:30
+
+#### [《歌剧魅影》同人文影视化，晋江文学城为何挨骂？](http://www.huxiu.com/article/4708863.html?f=wangzhan)
+**发布时间**: 2025-08-19 10:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [初见喀什：恍惚闯入的「横店影视城」](https://sspai.com/post/100766)
+**发布时间**: 2025-08-19 11:12
+
+#### [派早报：微信支持部分引用等功能，金标联盟沙龙确认多项 Android 适配工作等](https://sspai.com/post/101930)
+**发布时间**: 2025-08-19 08:38
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [To B 领域第一批吃 AI 螃蟹的人，复盘了「AI落地」的真相和方法论](http://www.geekpark.net/news/352835)
+**发布时间**: 2025-08-19 10:20
+
+#### [特斯拉官宣 Model Y L 车型，9 月上市；快手辛巴宣布退网；阿里「扫地僧」多隆被曝加入老同事 AI 创企｜极客早知道](http://www.geekpark.net/news/352827)
+**发布时间**: 2025-08-19 08:47
 
 ---
 

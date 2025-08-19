@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Aug 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2025 23:20:16 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 05:22:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>美国再次对我们的芯片开始了围剿，中国芯片的破局之路有多难？</title>
-      <link>http://www.huxiu.com/article/4707468.html?f=wangzhan</link>
-      <description>&lt;![CDATA[美国再次对我们的芯片开始了围剿，中国芯片的破局之路有多难？]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4707468.html?f=wangzhan</guid>
+      <title>从这个季度开始，市场不再质疑AI Capex了</title>
+      <link>https://www.tmtpost.com/7663970.html</link>
+      <description>&lt;![CDATA[从这个季度开始，市场不再质疑AI Capex了]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 11:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663970.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别只盯光刻机，光罩更关键</title>
-      <link>https://www.tmtpost.com/7663149.html</link>
-      <description>&lt;![CDATA[别只盯光刻机，光罩更关键]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663149.html</guid>
+      <title>华为昇腾刘伟：上半年APN 芯片发货量增长1.2倍，下半年重点投入Atlas 300I A2和310模组</title>
+      <link>https://www.infoq.cn/article/MdoOgoMF0XxpGhtm6zHL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[华为昇腾刘伟：上半年APN 芯片发货量增长1.2倍，下半年重点投入Atlas 300I A2和310模组]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MdoOgoMF0XxpGhtm6zHL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>未来机器人陶泽文：中国深海机器人的逆袭之路｜50x50</title>
-      <link>https://www.tmtpost.com/7662831.html</link>
-      <description>&lt;![CDATA[未来机器人陶泽文：中国深海机器人的逆袭之路｜50x50]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 19:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7662831.html</guid>
+      <title>DeepMind推出Genie 3，一款文本到3D的交互式世界模型</title>
+      <link>https://www.infoq.cn/article/zvXRjcF176jNWGGv8qrY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepMind推出Genie 3，一款文本到3D的交互式世界模型]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zvXRjcF176jNWGGv8qrY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人运动会让全世界笑了三天，但你不能忽视具身智能技术进步</title>
-      <link>https://www.tmtpost.com/7663450.html</link>
-      <description>&lt;![CDATA[机器人运动会让全世界笑了三天，但你不能忽视具身智能技术进步]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663450.html</guid>
+      <title>Gemini 2.5 Deep Think并行创造性解决问题</title>
+      <link>https://www.infoq.cn/article/d6DTdKZNBZxbOjL1FzeG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Gemini 2.5 Deep Think并行创造性解决问题]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d6DTdKZNBZxbOjL1FzeG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新加坡 AI 办公系统 Agnes：200 个 Agent 并行研究，让 AI 主动「找茬」打磨设计</title>
-      <link>http://www.geekpark.net/news/352822</link>
-      <description>&lt;![CDATA[新加坡 AI 办公系统 Agnes：200 个 Agent 并行研究，让 AI 主动「找茬」打磨设计]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352822</guid>
+      <title>To B 领域第一批吃 AI 螃蟹的人，复盘了「AI落地」的真相和方法论</title>
+      <link>http://www.geekpark.net/news/352835</link>
+      <description>&lt;![CDATA[To B 领域第一批吃 AI 螃蟹的人，复盘了「AI落地」的真相和方法论]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352835</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么「游戏」是 AI 陪伴落地的好场景？</title>
-      <link>http://www.geekpark.net/news/352826</link>
-      <description>&lt;![CDATA[为什么「游戏」是 AI 陪伴落地的好场景？]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 01:15:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352826</guid>
+      <title>对话联想ISG黄山：异构算力融合将成为AI应用落地的关键丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/7663459.html</link>
+      <description>&lt;![CDATA[对话联想ISG黄山：异构算力融合将成为AI应用落地的关键丨ToB产业观察]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7663459.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Robotaxi半年考：小马、文远贴身肉搏争抢“第三”宝座</title>
-      <link>https://www.tmtpost.com/7663273.html</link>
-      <description>&lt;![CDATA[Robotaxi半年考：小马、文远贴身肉搏争抢“第三”宝座]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663273.html</guid>
+      <title>特斯拉官宣 Model Y L 车型，9 月上市；快手辛巴宣布退网；阿里「扫地僧」多隆被曝加入老同事 AI 创企｜极客早知道</title>
+      <link>http://www.geekpark.net/news/352827</link>
+      <description>&lt;![CDATA[特斯拉官宣 Model Y L 车型，9 月上市；快手辛巴宣布退网；阿里「扫地僧」多隆被曝加入老同事 AI 创企｜极客早知道]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352827</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千元票价与零适航证：低空“元年”的资本疑虑</title>
-      <link>https://www.tmtpost.com/7662885.html</link>
-      <description>&lt;![CDATA[千元票价与零适航证：低空“元年”的资本疑虑]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7662885.html</guid>
+      <title>Future Robotics Powers China's Leap in Deep-Sea Exploration Tech</title>
+      <link>https://www.tmtpost.com/7664239.html</link>
+      <description>&lt;![CDATA[Future Robotics Powers China's Leap in Deep-Sea Exploration Tech]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 11:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7664239.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国内战火激烈，TikTok能否抢下海外本地生活的先机？｜ 出海参考</title>
-      <link>https://www.tmtpost.com/7663629.html</link>
-      <description>&lt;![CDATA[国内战火激烈，TikTok能否抢下海外本地生活的先机？｜ 出海参考]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 19:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663629.html</guid>
+      <title>大规模零停机关键云基础设施升级</title>
+      <link>https://www.infoq.cn/article/0wsLYdNFrpyh4YEx6jDa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大规模零停机关键云基础设施升级]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0wsLYdNFrpyh4YEx6jDa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科技巨头为何争抢AMC牌照？京东30亿收购青岛AMC背后的金融野心</title>
-      <link>https://www.tmtpost.com/7663569.html</link>
-      <description>&lt;![CDATA[科技巨头为何争抢AMC牌照？京东30亿收购青岛AMC背后的金融野心]]&gt;</description>
-      <pubDate>Mon, 18 Aug 2025 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7663569.html</guid>
+      <title>双登股份启动全球招股：港股“AIDC 储能第一股”携技术与资本双轮驱动启航</title>
+      <link>https://www.tmtpost.com/7664272.html</link>
+      <description>&lt;![CDATA[双登股份启动全球招股：港股“AIDC 储能第一股”携技术与资本双轮驱动启航]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7664272.html</guid>
       <category>Technology</category>
     </item>
   </channel>
