@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-20 08:27
+**最后更新时间**: 2025-08-20 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-20 23:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Buy this stock as food inflation, demand for fresh produce looks set to last, analyst says](https://www.marketwatch.com/story/buy-this-stock-as-food-inflation-demand-for-fresh-produce-looks-set-to-last-analyst-says-04d08cf3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 23:07
+
+#### [Here’s how SoftBank could turn Intel’s fortunes around](https://www.marketwatch.com/story/heres-how-softbank-could-turn-intels-fortunes-around-f1e70e02?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 22:17
+
+#### [Stock market may be obscuring ‘important realities’ about the U.S. economy](https://www.marketwatch.com/story/stock-market-may-be-obscuring-important-realities-about-the-u-s-economy-bc0e9b41?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 22:15
+
+#### [Carvana’s stock is falling, and Amazon is to blame](https://www.marketwatch.com/story/carvanas-stock-is-falling-and-amazon-is-to-blame-8d74a023?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 22:14
+
+#### [Lowe’s tops Home Depot with an $8.8 billion buyout deal and an earnings beat](https://www.marketwatch.com/story/lowes-tops-home-depot-with-an-8-8-billion-buyout-deal-and-an-earnings-beat-9185635c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 22:11
+
+#### [Is pay-per-view dead? Jake Paul and UFC deals put the squeeze on PPV model.](https://www.marketwatch.com/story/is-pay-per-view-dead-jake-paul-and-ufc-deals-put-the-squeeze-on-ppv-model-d072149c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 21:55
+
+#### [Trump calls on Fed’s Cook to resign as administration heightens focus on mortgage fraud](https://www.marketwatch.com/story/trump-calls-on-feds-cook-to-resign-as-administration-heightens-focus-on-mortgage-fraud-37c33c6b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 21:51
+
+#### [As Nasdaq stumbles again, investors start to wonder: Have Big Tech stocks finally peaked?](https://www.marketwatch.com/story/as-nasdaq-stumbles-again-investors-start-to-wonder-have-big-tech-stocks-finally-peaked-50c590dc?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 21:34
+
+#### [I’m 65 and started saving at 23. Do I buy an annuity to protect against diminished Social Security?](https://www.marketwatch.com/story/i-consider-myself-pretty-lucky-im-65-with-4-million-do-i-buy-an-annuity-to-protect-against-social-securitys-demise-1ea407ca?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 21:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [S&P 500 is at its most expensive by this measure. These stocks buck the trend.](https://www.marketwatch.com/bulletins/redirect/go?g=446c7a9d-84a0-4239-84c7-77ae900d211d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 23:03
+
+#### [Here’s how SoftBank could turn Intel’s fortunes around](https://www.marketwatch.com/bulletins/redirect/go?g=184d01a9-a32f-4bdf-90fc-e1889160d422&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 21:37
+
+#### [Why does the Trump administration keep accusing officials of mortgage fraud?](https://www.marketwatch.com/bulletins/redirect/go?g=80a360ac-767a-4906-844f-a5c2477931df&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 20:34
+
+#### [Dow ekes out gain, Nasdaq and S&P 500 end lower as Fed frets over inflation](https://www.marketwatch.com/bulletins/redirect/go?g=1091a7d1-50bb-4f04-8b06-8cffa19ca721&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 20:06
+
+#### [Fed officials see inflation on the horizon, think consumers will bear the burden](https://www.marketwatch.com/bulletins/redirect/go?g=5077c07f-d788-4947-ac6d-7750e2f6abf2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 18:48
+
+#### [Nasdaq leading stocks lower as Fed minutes show officials' inflation concerns](https://www.marketwatch.com/bulletins/redirect/go?g=e971bb6f-83ef-4390-920b-e6aa1a8be774&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 18:13
+
+#### [Carvana’s stock is falling, and Amazon is to blame](https://www.marketwatch.com/bulletins/redirect/go?g=8903503b-946c-4297-8d23-b45caa3a9a25&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 17:07
+
+#### [Trump calls on Fed’s Cook to resign as DOJ urged to probe mortgage-fraud claim](https://www.marketwatch.com/bulletins/redirect/go?g=bd3476ea-5f5d-45d9-985b-6387773fea58&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 14:52
+
+#### [Stocks open mostly lower as investors digest retail earnings — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=a83b3822-9f96-4d43-976f-f273c312aab0&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 13:37
+
+#### [EVs put Ford and other automakers at a crossroads](https://www.marketwatch.com/bulletins/redirect/go?g=a7842b70-c156-445d-9ea9-bfe92ac0a705&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 13:29
 
 ---
 

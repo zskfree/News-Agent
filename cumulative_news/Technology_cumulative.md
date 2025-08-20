@@ -1,7 +1,207 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-20 08:27
+**最后更新时间**: 2025-08-20 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-20 23:19)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [成为「流量黑马」的老品牌，如何借拼多多秒懂 00 后？](http://www.geekpark.net/news/352914)
+**发布时间**: 2025-08-20 23:27
+
+#### [AI 的终点不是对话框，这家公司想让真实世界成为 AI 的提示词](http://www.geekpark.net/news/352913)
+**发布时间**: 2025-08-20 23:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI大厂搜索与全栈的赌局，百度比谷歌更激进](https://www.tmtpost.com/7666379.html)
+**发布时间**: 2025-08-20 22:25
+
+#### [频繁变化的小红书，如何才能突破商业化瓶颈？](https://www.tmtpost.com/7665260.html)
+**发布时间**: 2025-08-20 20:38
+
+#### [RoboNeo拿下百万MAU，净利润再次大涨70%，有AI加持的美图开挂了？](https://www.tmtpost.com/7666164.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [GPU王座动摇？ASIC改写规则](https://www.tmtpost.com/7666104.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [IPO半年后又配售融资近4亿港元，靠募资还债的多点数智发力稳定币](https://www.tmtpost.com/7666084.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [泡泡玛特暴涨，王宁身价超过马云](https://www.tmtpost.com/7665929.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [竞速与暗战，智能辅助驾驶迈入Next Level](https://www.tmtpost.com/7665719.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [30岁安徽留学生：用中国外卖打穿全球](https://www.tmtpost.com/7665576.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [亏钱的AI大厂们，养肥了吃播](https://www.tmtpost.com/7665855.html)
+**发布时间**: 2025-08-20 19:09
+
+#### [GPT-5，让多少年轻人集体“赛博失恋”？](https://www.tmtpost.com/7666030.html)
+**发布时间**: 2025-08-20 19:08
+
+#### [丹诺医药：11年“烧了”9亿元，何时迎来盈利拐点尚未可知｜IPO观察](https://www.tmtpost.com/7664564.html)
+**发布时间**: 2025-08-20 18:59
+
+#### [业绩腰斩，突围艰难，口子窖的十年坎怎么过？ | 看财报](https://www.tmtpost.com/7666145.html)
+**发布时间**: 2025-08-20 18:58
+
+#### [拥抱AI，从寻找“最优解”开始丨2025 ITValue Summit 前瞻对话「AI落地指南特别篇」⑨](https://www.tmtpost.com/7665921.html)
+**发布时间**: 2025-08-20 17:35
+
+#### [政策信号接踵而至，中美光伏股却迎来迥异走势](https://www.tmtpost.com/7665986.html)
+**发布时间**: 2025-08-20 17:15
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
+**发布时间**: 2025-08-20 22:09
+
+#### [Ricoh’s GR IV launches in September for a much steeper price than its predecessor](https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs)
+**发布时间**: 2025-08-20 22:00
+
+#### [Google&#8217;s Gemini Live AI assistant will show you what it&#8217;s talking about](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
+**发布时间**: 2025-08-20 21:58
+
+#### [The Made by Google event felt like being sucked into an episode of Wandavision](https://www.theverge.com/analysis/762891/made-by-google-pixel-10-jimmy-fallon)
+**发布时间**: 2025-08-20 21:40
+
+#### [Framework is teasing a ‘big’ update for August 26th — could it be Framework 16?](https://www.theverge.com/news/763037/framework-is-teasing-a-big-update-for-august-26th-could-it-be-framework-16)
+**发布时间**: 2025-08-20 21:14
+
+#### [The game studio building a new BioShock just had mass layoffs](https://www.theverge.com/news/762933/bioshock-cloud-chamber-take-two-2k-layoffs)
+**发布时间**: 2025-08-20 20:15
+
+#### [Analogue 3D gets yet another delay to later in 2025](https://www.theverge.com/news/762883/analogue-3d-delay-q4-2025)
+**发布时间**: 2025-08-20 19:59
+
+#### [Nothing’s retro-looking Headphone 1 are already $30 off](https://www.theverge.com/tech/762707/nothing-headphone-1-insta360-link-2-deal-sale)
+**发布时间**: 2025-08-20 19:26
+
+#### [Windows 11 test brings AI file search to the Copilot app](https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app)
+**发布时间**: 2025-08-20 18:54
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [横屏短剧，终究拿不下观众？](http://www.huxiu.com/article/4711732.html?f=wangzhan)
+**发布时间**: 2025-08-20 22:00
+
+#### [熊市安居乐业，牛市倾家荡产，牛市开启和结束的信号是什么？](http://www.huxiu.com/article/4712924.html?f=wangzhan)
+**发布时间**: 2025-08-20 15:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [21 Best Early Labor Day Sales on WIRED-Tested Gear (2025)](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
+**发布时间**: 2025-08-20 21:07
+
+#### [Best Student Discounts (2025): Laptops, Streaming Services, Shoes, and Software](https://www.wired.com/story/best-student-discounts/)
+**发布时间**: 2025-08-20 19:23
+
+#### [Do Large Language Models Dream of AI Agents?](https://www.wired.com/story/sleeptime-compute-chatbots-memory/)
+**发布时间**: 2025-08-20 18:00
+
+#### [Nothing Beats Our Editors' Favorite Office Chair, and It’s on Sale Now](https://www.wired.com/story/branch-deals-labor-day/)
+**发布时间**: 2025-08-20 17:29
+
+#### [The PlayStation 5 Is About to Get More Expensive](https://www.wired.com/story/the-playstation-5-is-about-to-get-more-expensive/)
+**发布时间**: 2025-08-20 17:11
+
+#### [The Fitbit App Is Turning Into an AI-Powered Personal Health Coach](https://www.wired.com/story/fitbit-app-ai-personal-health-coach/)
+**发布时间**: 2025-08-20 16:42
+
+#### [Phone Searches at the US Border Hit a Record High](https://www.wired.com/story/phone-searches-at-the-us-border-hit-a-record-high/)
+**发布时间**: 2025-08-20 16:01
+
+#### [An Exclusive Look at Reliability Labs, Where Google Stress-Tests Pixel Hardware](https://www.wired.com/story/google-reliability-labs-exclusive-look/)
+**发布时间**: 2025-08-20 16:00
+
+#### [Google Pixel 10 Series, Pixel Watch 4, Pixel Buds 2a: Specs, Features, Release Date](https://www.wired.com/story/google-pixel-10-series-pixel-watch-4-pixel-buds-2a/)
+**发布时间**: 2025-08-20 16:00
+
+#### [10 Crazy Features Powering Google's Pixel 10 Phones (and Watch)](https://www.wired.com/story/all-the-new-ai-features-in-google-pixel-10-phones/)
+**发布时间**: 2025-08-20 16:00
+
+#### [Exclusive: Google Pixel Watch 4 Teardown Shows Easy Repairability](https://www.wired.com/story/google-pixel-watch-4-is-finally-repairable/)
+**发布时间**: 2025-08-20 16:00
+
+#### [Arkansas Hosts the Planet’s Only Public Diamond Mine](https://www.wired.com/story/arkansas-hosts-the-planets-only-public-diamond-mine/)
+**发布时间**: 2025-08-20 14:29
+
+#### [Scientists Just Caught Human Embryo Implantation on Camera](https://www.wired.com/story/the-exact-moment-of-implantation-of-a-human-embryo-is-captured-on-video/)
+**发布时间**: 2025-08-20 14:18
+
+#### [The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
+**发布时间**: 2025-08-20 13:00
+
+#### [9 Best Planners of 2025: Weekly, Daily, and Monthly](https://www.wired.com/story/best-paper-planners/)
+**发布时间**: 2025-08-20 11:39
+
+#### [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)
+**发布时间**: 2025-08-20 11:00
+
+#### [FEMA Now Requires Disaster Victims to Have an Email Address](https://www.wired.com/story/fema-now-requires-disaster-victims-to-have-an-email-address/)
+**发布时间**: 2025-08-20 11:00
+
+#### [How DOGE Set Up a Shadow X Account for a Government Agency](https://www.wired.com/story/how-doge-set-up-a-shadow-x-account-for-a-government-agency/)
+**发布时间**: 2025-08-20 10:30
+
+#### [Government Staffing Cuts Have Fueled an Ant-Smuggling Boom](https://www.wired.com/story/usda-ant-smuggling-pets-illegal-wildlife/)
+**发布时间**: 2025-08-20 10:30
+
+#### [I Saw the Future of AI Film and It Was Empty](https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/)
+**发布时间**: 2025-08-20 10:30
+
+#### [AI Isn’t Coming for Hollywood. It's Already Arrived](https://www.wired.com/story/artificial-intelligence-hollywood-stability/)
+**发布时间**: 2025-08-20 10:00
+
+#### [It's the Economy, Donald](https://www.wired.com/story/its-the-economy-donald-no-panican/)
+**发布时间**: 2025-08-20 09:30
+
+#### [AT&T Promo Code: Get Up to $200 in August](https://www.wired.com/story/att-promo-code/)
+**发布时间**: 2025-08-19 05:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级](https://www.infoq.cn/article/yVIa68gtCRZtZ3Ay1RHF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 20:45
+
+#### [三十而立 35+而已](https://www.infoq.cn/video/c6raXE0QGbPdcPStfv6c?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 18:13
+
+#### [从OpenAI回国的90后姚班博导，打造了国内首个开源Agent训练框架：从OpenAI团队解散与重组，看智能体技术十年沉淀](https://www.infoq.cn/article/VlLeHW4JApCJVxUIsf3w?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 17:57
+
+#### [Wassette：微软基于Rust构建的Wasm与MCP之间的桥梁](https://www.infoq.cn/article/lTH284byaaSSCAi6swps?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 17:39
+
+#### [Remix 3终结以React为中心的架构](https://www.infoq.cn/article/1ffVPzgg6Vszks2bpZFG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 17:33
+
+#### [“这是我迄今见过的最大提速”：FFmpeg 开发者因手写汇编再提速 100 倍而自豪](https://www.infoq.cn/article/gUyuukYdFDmEHvNrRRil?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 17:22
+
+#### [Claude Code子代理使模块化AI工作流程能够在隔离的上下文中运行](https://www.infoq.cn/article/TQgjTJgGkVSE8bCXElDK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 17:10
+
+#### [跨越学术与产业：中英青年科学家共话AI落地挑战](https://www.infoq.cn/article/ecrmgKidvrs1vVQJVS9Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 16:54
+
+#### [GitHub 2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来](https://www.infoq.cn/article/KlhD0fT3L2u6ZJCA9lio?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-20 16:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 词迹：通过收集句子或段落来学英语](https://sspai.com/post/101029)
+**发布时间**: 2025-08-20 17:20
+
+#### [立秋过了蚊虫未走，选驱蚊产品请先认准成分](https://sspai.com/post/60304)
+**发布时间**: 2025-08-20 15:41
 
 ---
 

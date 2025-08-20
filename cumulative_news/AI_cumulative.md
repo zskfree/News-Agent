@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-20 08:27
+**最后更新时间**: 2025-08-20 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-20 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级](https://www.jiqizhixin.com/articles/2025-08-20-11)
+**发布时间**: 2025-08-20 20:47
+
+#### [报名开启｜中关村国际青年论坛：诚邀全球青年学者共探AI前沿](https://www.jiqizhixin.com/articles/2025-08-20-10)
+**发布时间**: 2025-08-20 17:27
+
+#### [Sora没做到的，LongVie框架给解决了，超长视频生成SOTA](https://www.jiqizhixin.com/articles/2025-08-20-9)
+**发布时间**: 2025-08-20 17:19
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Securing private data at scale with differentially private partition selection](https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/)
+**发布时间**: 2025-08-20 19:24
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Forging connections in space with cellular technology](https://www.technologyreview.com/2025/08/20/1121888/forging-connections-in-space-with-cellular-technology/)
+**发布时间**: 2025-08-20 16:02
+
+#### [NASA’s new AI model can predict when a solar storm may strike](https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/)
+**发布时间**: 2025-08-20 13:00
+
+#### [The Download: churches in the age of AI, and how to run an LLM at home](https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/)
+**发布时间**: 2025-08-20 12:10
+
+#### [Material Cultures looks to the past to build the future](https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/)
+**发布时间**: 2025-08-20 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [宇树180芭蕾机器人，究竟啥水平？](https://www.qbitai.com/2025/08/324533.html)
+**发布时间**: 2025-08-20 15:42
+
+#### [20个要点，看完李想4小时超长访谈](https://www.qbitai.com/2025/08/324424.html)
+**发布时间**: 2025-08-20 10:14
+
+#### [厉害了，智谱造了全球首个手机通用Agent！人人免费，APP甚至直接操控云电脑](https://www.qbitai.com/2025/08/324341.html)
+**发布时间**: 2025-08-20 08:27
+
+#### [黑神话宇宙开启！冯骥杨奇一拍即合不搞DLC，新作《钟馗》预告片直冲热搜第一](https://www.qbitai.com/2025/08/324248.html)
+**发布时间**: 2025-08-20 08:12
+
+#### [实测DeepSeek V3.1，不止拓展上下文长度](https://www.qbitai.com/2025/08/324282.html)
+**发布时间**: 2025-08-20 08:12
+
+#### [DiT突遭怒喷，谢赛宁淡定回应](https://www.qbitai.com/2025/08/324249.html)
+**发布时间**: 2025-08-20 08:05
 
 ---
 

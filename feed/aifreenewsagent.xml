@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Aug 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 08:27:56 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 23:19:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nature子刊 | 上智院统一框架RXNGraphormer，实现化学反应多任务精准预测，自发掌握分类规律</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-8</link>
-      <description>&lt;![CDATA[Nature子刊 | 上智院统一框架RXNGraphormer，实现化学反应多任务精准预测，自发掌握分类规律]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 14:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-8</guid>
+      <title>网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-11</link>
+      <description>&lt;![CDATA[网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 20:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首个面向肽分子设计的大模型平台：直接「读序列」出结合子，无需结构输入即可生成</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-7</link>
-      <description>&lt;![CDATA[首个面向肽分子设计的大模型平台：直接「读序列」出结合子，无需结构输入即可生成]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-7</guid>
+      <title>报名开启｜中关村国际青年论坛：诚邀全球青年学者共探AI前沿</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-10</link>
+      <description>&lt;![CDATA[报名开启｜中关村国际青年论坛：诚邀全球青年学者共探AI前沿]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>国产AI路由系统开源逆袭！仅用19%成本达到Gemini-2.5-Pro同等性能</title>
-      <link>https://www.qbitai.com/2025/08/324235.html</link>
-      <description>&lt;![CDATA[国产AI路由系统开源逆袭！仅用19%成本达到Gemini-2.5-Pro同等性能]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 07:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324235.html</guid>
+      <title>Sora没做到的，LongVie框架给解决了，超长视频生成SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-9</link>
+      <description>&lt;![CDATA[Sora没做到的，LongVie框架给解决了，超长视频生成SOTA]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>00后MIT华人女生辍学创业，已融1.5个亿</title>
-      <link>https://www.qbitai.com/2025/08/324217.html</link>
-      <description>&lt;![CDATA[00后MIT华人女生辍学创业，已融1.5个亿]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324217.html</guid>
+      <title>Securing private data at scale with differentially private partition selection</title>
+      <link>https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/</link>
+      <description>&lt;![CDATA[Securing private data at scale with differentially private partition selection]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Forging connections in space with cellular technology</title>
+      <link>https://www.technologyreview.com/2025/08/20/1121888/forging-connections-in-space-with-cellular-technology/</link>
+      <description>&lt;![CDATA[Forging connections in space with cellular technology]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1121888/forging-connections-in-space-with-cellular-technology/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>NASA’s new AI model can predict when a solar storm may strike</title>
+      <link>https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/</link>
+      <description>&lt;![CDATA[NASA’s new AI model can predict when a solar storm may strike]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: churches in the age of AI, and how to run an LLM at home</title>
+      <link>https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/</link>
+      <description>&lt;![CDATA[The Download: churches in the age of AI, and how to run an LLM at home]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Material Cultures looks to the past to build the future</title>
+      <link>https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/</link>
+      <description>&lt;![CDATA[Material Cultures looks to the past to build the future]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>宇树180芭蕾机器人，究竟啥水平？</title>
+      <link>https://www.qbitai.com/2025/08/324533.html</link>
+      <description>&lt;![CDATA[宇树180芭蕾机器人，究竟啥水平？]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324533.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>20个要点，看完李想4小时超长访谈</title>
+      <link>https://www.qbitai.com/2025/08/324424.html</link>
+      <description>&lt;![CDATA[20个要点，看完李想4小时超长访谈]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324424.html</guid>
       <category>AI</category>
     </item>
   </channel>
