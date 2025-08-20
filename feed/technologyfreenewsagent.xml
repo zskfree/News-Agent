@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Aug 2025 23:23:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 23:24:40 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 05:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 05:23:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google announced the next step in its nuclear energy plans</title>
-      <link>https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility</link>
-      <description>&lt;![CDATA[Google announced the next step in its nuclear energy plans]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 20:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility</guid>
+      <title>中美AI竞争加剧：OpenAI对手智谱发布智能体应用，奥尔特曼称美国低估中国AI威胁</title>
+      <link>https://www.tmtpost.com/7664941.html</link>
+      <description>&lt;![CDATA[中美AI竞争加剧：OpenAI对手智谱发布智能体应用，奥尔特曼称美国低估中国AI威胁]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7664941.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI Is Poised to Become the Most Valuable Startup Ever. Should It Be?</title>
-      <link>https://www.wired.com/story/openai-valuation-500-billion-skepticism/</link>
-      <description>&lt;![CDATA[OpenAI Is Poised to Become the Most Valuable Startup Ever. Should It Be?]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-valuation-500-billion-skepticism/</guid>
+      <title>Intel Shares Rally 7% as Trump Admin. Confirms Government In Talk over Chipmaker Stake, Signals More Deals Alike</title>
+      <link>https://www.tmtpost.com/7665441.html</link>
+      <description>&lt;![CDATA[Intel Shares Rally 7% as Trump Admin. Confirms Government In Talk over Chipmaker Stake, Signals More Deals Alike]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665441.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple is reportedly making more of its new iPhones in India instead of China</title>
-      <link>https://www.theverge.com/news/761582/apple-iphone-17-pro-max-air-india-china</link>
-      <description>&lt;![CDATA[Apple is reportedly making more of its new iPhones in India instead of China]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/761582/apple-iphone-17-pro-max-air-india-china</guid>
+      <title>Nvidia Stock Tumbles 3.5% Despite Reported New AI Chip for China Under Development</title>
+      <link>https://www.tmtpost.com/7665371.html</link>
+      <description>&lt;![CDATA[Nvidia Stock Tumbles 3.5% Despite Reported New AI Chip for China Under Development]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665371.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 研发提效到底进行到哪儿了？｜InfoQ《极客有约》</title>
-      <link>https://www.infoq.cn/video/IUWcoddYO78zda0ZcyYS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 研发提效到底进行到哪儿了？｜InfoQ《极客有约》]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 17:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/IUWcoddYO78zda0ZcyYS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI圈“爱马仕”Manus：裁员跑路，神话坍塌</title>
+      <link>https://www.tmtpost.com/7665291.html</link>
+      <description>&lt;![CDATA[AI圈“爱马仕”Manus：裁员跑路，神话坍塌]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665291.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The AI-Powered PDF Marks the End of an Era</title>
-      <link>https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/</link>
-      <description>&lt;![CDATA[The AI-Powered PDF Marks the End of an Era]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/</guid>
+      <title>智谱推出AutoGLM 2.0：手机 Agent 的「Manus 时刻」？</title>
+      <link>http://www.geekpark.net/news/352886</link>
+      <description>&lt;![CDATA[智谱推出AutoGLM 2.0：手机 Agent 的「Manus 时刻」？]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352886</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Microsoft employees occupy headquarters in protest of Israel contracts</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid</link>
-      <description>&lt;![CDATA[Microsoft employees occupy headquarters in protest of Israel contracts]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid</guid>
+      <title>通用AI智能体公司Manus首次公布财务数据：收入运行率超6亿元</title>
+      <link>https://www.tmtpost.com/7665541.html</link>
+      <description>&lt;![CDATA[通用AI智能体公司Manus首次公布财务数据：收入运行率超6亿元]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665541.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The Global Car Reckoning Is Here. Far Too Many Auto Companies Don’t Have a Plan</title>
-      <link>https://www.wired.com/story/the-global-car-reckoning-is-here-auto-companies-dont-have-a-plan/</link>
-      <description>&lt;![CDATA[The Global Car Reckoning Is Here. Far Too Many Auto Companies Don’t Have a Plan]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/the-global-car-reckoning-is-here-auto-companies-dont-have-a-plan/</guid>
+      <title>供应链安全：来源工具正在成为开发者平台的标准配置</title>
+      <link>https://www.infoq.cn/article/2o6QVN6CMU8DsiO6ZM4F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[供应链安全：来源工具正在成为开发者平台的标准配置]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2o6QVN6CMU8DsiO6ZM4F?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一箭7星发射成功，中科宇航的力箭一号已累计发射70颗卫星</title>
-      <link>https://www.tmtpost.com/7664747.html</link>
-      <description>&lt;![CDATA[一箭7星发射成功，中科宇航的力箭一号已累计发射70颗卫星]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 20:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7664747.html</guid>
+      <title>别了磁盘：ClickHouse Cloud 中无状态计算背后的架构</title>
+      <link>https://www.infoq.cn/article/HFuCgkp5kVowg6LFA5hL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[别了磁盘：ClickHouse Cloud 中无状态计算背后的架构]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HFuCgkp5kVowg6LFA5hL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google Gemini can now read your Docs aloud</title>
-      <link>https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud</link>
-      <description>&lt;![CDATA[Google Gemini can now read your Docs aloud]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud</guid>
+      <title>DeepSeek Unveils V3.1</title>
+      <link>https://www.tmtpost.com/7665437.html</link>
+      <description>&lt;![CDATA[DeepSeek Unveils V3.1]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665437.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta’s AI translation tool can dub your Instagram videos</title>
-      <link>https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels</link>
-      <description>&lt;![CDATA[Meta’s AI translation tool can dub your Instagram videos]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 18:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels</guid>
+      <title>Oxlint 1.0稳定版发布：基于Rust的JavaScript静态检查器</title>
+      <link>https://www.infoq.cn/article/qRUmRqzgExGNhekGB5i7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Oxlint 1.0稳定版发布：基于Rust的JavaScript静态检查器]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qRUmRqzgExGNhekGB5i7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

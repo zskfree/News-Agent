@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-19 23:23
+**最后更新时间**: 2025-08-20 05:22
+
+---
+
+## 🆕 最新更新 (2025-08-20 05:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nearly 50% of adults are now ordering kids’ meals. ‘It’s economical and it’s filling.’](https://www.marketwatch.com/story/nearly-50-of-adults-are-now-ordering-kids-meals-its-economical-and-its-filling-998387e3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 02:51
+
+#### [How restaurant chains are competing on in-store vibes to win back customers](https://www.marketwatch.com/story/restaurant-chains-are-competing-on-in-store-vibes-to-win-back-customers-6b4a1eb5?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 01:18
+
+#### [Are you willing to take big risks for big returns? You may be a newbie investor.](https://www.marketwatch.com/story/are-you-willing-to-take-big-risks-for-big-returns-you-may-be-a-newbie-investor-b54fdd33?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 01:16
+
+#### [Palo Alto Networks’ earnings beat sparks investor confidence in the cybersecurity industry](https://www.marketwatch.com/story/palo-alto-networks-earnings-beat-sparks-investor-confidence-in-the-cybersecurity-industry-81d9087d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 23:43
+
+#### [Nexstar-Tegna deal puts Trump move to eliminate broadcast ownership rules to the test](https://www.marketwatch.com/story/nexstar-tegna-deal-puts-trump-move-to-eliminate-broadcast-ownership-rules-to-the-test-9f301986?mod=mw_rss_topstories)
+**发布时间**: 2025-08-19 23:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [This economist misread bitcoin's future. Here’s what he says he got wrong.](https://www.marketwatch.com/bulletins/redirect/go?g=3c8cab40-6716-4ec8-a202-d5a7b8852c81&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-20 01:13
+
+#### [10 questions to ask if you want to move abroad when you retire](https://www.marketwatch.com/bulletins/redirect/go?g=7108e531-f324-4160-adcf-3cc0a26ac6a8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-19 23:51
 
 ---
 

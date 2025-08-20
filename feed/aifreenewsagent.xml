@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 23:24:00 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 05:23:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>强化学习之父Richard Sutton最新演讲揭示OaK架构：通向超级智能的八步愿景</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-19-8</link>
-      <description>&lt;![CDATA[强化学习之父Richard Sutton最新演讲揭示OaK架构：通向超级智能的八步愿景]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-8</guid>
+      <title>Meta超级智能实验室重组为四个部门，某些高管将离开</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-2</link>
+      <description>&lt;![CDATA[Meta超级智能实验室重组为四个部门，某些高管将离开]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>突破Claude-4编程上限！自进化Agent框架拿下新SOTA，已开源</title>
-      <link>https://www.qbitai.com/2025/08/324007.html</link>
-      <description>&lt;![CDATA[突破Claude-4编程上限！自进化Agent框架拿下新SOTA，已开源]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324007.html</guid>
+      <title>英伟达最新芯片B30A曝光</title>
+      <link>https://www.qbitai.com/2025/08/324033.html</link>
+      <description>&lt;![CDATA[英伟达最新芯片B30A曝光]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 02:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324033.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>医疗AI安全革命：全球首个医疗动态红队测试框架DAS，破解临床落地信任危机</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-19-6</link>
-      <description>&lt;![CDATA[医疗AI安全革命：全球首个医疗动态红队测试框架DAS，破解临床落地信任危机]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-6</guid>
+      <title>DiT在数学和形式上是错的？谢赛宁回应：不要在脑子里做科学</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-5</link>
+      <description>&lt;![CDATA[DiT在数学和形式上是错的？谢赛宁回应：不要在脑子里做科学]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 12:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>奥特曼：我承认GPT-5发布搞砸了</title>
-      <link>https://www.qbitai.com/2025/08/323709.html</link>
-      <description>&lt;![CDATA[奥特曼：我承认GPT-5发布搞砸了]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 08:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323709.html</guid>
+      <title>DeepSeek开源新基础模型，但不是V4，而是V3.1-Base</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-3</link>
+      <description>&lt;![CDATA[DeepSeek开源新基础模型，但不是V4，而是V3.1-Base]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: clean energy progress, and OpenAI’s trilemma</title>
-      <link>https://www.technologyreview.com/2025/08/19/1122041/the-download-clean-energy-progress-and-openais-trilemma/</link>
-      <description>&lt;![CDATA[The Download: clean energy progress, and OpenAI’s trilemma]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/19/1122041/the-download-clean-energy-progress-and-openais-trilemma/</guid>
+      <title>Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL</title>
+      <link>https://arxiv.org/abs/2508.13167</link>
+      <description>&lt;![CDATA[Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.13167</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Should AI flatter us, fix us, or just inform us?</title>
-      <link>https://www.technologyreview.com/2025/08/19/1122021/should-ai-flatter-us-fix-us-or-just-inform-us/</link>
-      <description>&lt;![CDATA[Should AI flatter us, fix us, or just inform us?]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/19/1122021/should-ai-flatter-us-fix-us-or-just-inform-us/</guid>
+      <title>Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context</title>
+      <link>https://arxiv.org/abs/2508.13171</link>
+      <description>&lt;![CDATA[Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.13171</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How churches use data and AI as engines of surveillance</title>
-      <link>https://www.technologyreview.com/2025/08/19/1121389/ai-data-church-surveillance-america/</link>
-      <description>&lt;![CDATA[How churches use data and AI as engines of surveillance]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/19/1121389/ai-data-church-surveillance-america/</guid>
+      <title>Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models</title>
+      <link>https://arxiv.org/abs/2508.13678</link>
+      <description>&lt;![CDATA[Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.13678</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICCV 2025 | RobustSplat: 解耦致密化与动态的抗瞬态3DGS三维重建</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-19-7</link>
-      <description>&lt;![CDATA[ICCV 2025 | RobustSplat: 解耦致密化与动态的抗瞬态3DGS三维重建]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-19-7</guid>
+      <title>CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning</title>
+      <link>https://arxiv.org/abs/2508.13721</link>
+      <description>&lt;![CDATA[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.13721</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>“现在读AI博士已经太晚了”</title>
-      <link>https://www.qbitai.com/2025/08/323711.html</link>
-      <description>&lt;![CDATA[“现在读AI博士已经太晚了”]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/323711.html</guid>
+      <title>dLLM的「Free Lunch」！浙大&amp;蚂蚁利用中间结果显著提升扩散语言模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-4</link>
+      <description>&lt;![CDATA[dLLM的「Free Lunch」！浙大&amp;蚂蚁利用中间结果显著提升扩散语言模型]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 12:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Apple AirPods : a gateway hearing aid</title>
-      <link>https://www.technologyreview.com/2025/08/19/1121384/apple-airpod-pro-2-hearing-aid/</link>
-      <description>&lt;![CDATA[Apple AirPods : a gateway hearing aid]]&gt;</description>
-      <pubDate>Tue, 19 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/19/1121384/apple-airpod-pro-2-hearing-aid/</guid>
+      <title>Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration</title>
+      <link>https://arxiv.org/abs/2508.13828</link>
+      <description>&lt;![CDATA[Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.13828</guid>
       <category>AI</category>
     </item>
   </channel>
