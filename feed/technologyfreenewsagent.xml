@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Aug 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 05:23:28 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 08:28:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中美AI竞争加剧：OpenAI对手智谱发布智能体应用，奥尔特曼称美国低估中国AI威胁</title>
-      <link>https://www.tmtpost.com/7664941.html</link>
-      <description>&lt;![CDATA[中美AI竞争加剧：OpenAI对手智谱发布智能体应用，奥尔特曼称美国低估中国AI威胁]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7664941.html</guid>
+      <title>Zhipu Unveils AI Agent Apps as OpenAI CEO Warns of China's Rapid Advances</title>
+      <link>https://www.tmtpost.com/7665807.html</link>
+      <description>&lt;![CDATA[Zhipu Unveils AI Agent Apps as OpenAI CEO Warns of China's Rapid Advances]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665807.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Intel Shares Rally 7% as Trump Admin. Confirms Government In Talk over Chipmaker Stake, Signals More Deals Alike</title>
-      <link>https://www.tmtpost.com/7665441.html</link>
-      <description>&lt;![CDATA[Intel Shares Rally 7% as Trump Admin. Confirms Government In Talk over Chipmaker Stake, Signals More Deals Alike]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7665441.html</guid>
+      <title>日均生成数十万 Web 应用！Vercel v0.app 推出最终可用版本，AI 全栈开发时代来临？</title>
+      <link>https://www.infoq.cn/article/IjAzkkA6oeVtaSOO1b0Q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[日均生成数十万 Web 应用！Vercel v0.app 推出最终可用版本，AI 全栈开发时代来临？]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IjAzkkA6oeVtaSOO1b0Q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nvidia Stock Tumbles 3.5% Despite Reported New AI Chip for China Under Development</title>
-      <link>https://www.tmtpost.com/7665371.html</link>
-      <description>&lt;![CDATA[Nvidia Stock Tumbles 3.5% Despite Reported New AI Chip for China Under Development]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7665371.html</guid>
+      <title>Kubernetes 2.0会是什么样子</title>
+      <link>https://www.infoq.cn/article/NfL8f1L9ZPLLGqWzrNX4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes 2.0会是什么样子]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NfL8f1L9ZPLLGqWzrNX4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI圈“爱马仕”Manus：裁员跑路，神话坍塌</title>
-      <link>https://www.tmtpost.com/7665291.html</link>
-      <description>&lt;![CDATA[AI圈“爱马仕”Manus：裁员跑路，神话坍塌]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 12:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7665291.html</guid>
+      <title>小鹏Q2财报「炸裂」：营收暴涨125%，毛利率反超特斯拉</title>
+      <link>http://www.geekpark.net/news/352894</link>
+      <description>&lt;![CDATA[小鹏Q2财报「炸裂」：营收暴涨125%，毛利率反超特斯拉]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352894</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱推出AutoGLM 2.0：手机 Agent 的「Manus 时刻」？</title>
-      <link>http://www.geekpark.net/news/352886</link>
-      <description>&lt;![CDATA[智谱推出AutoGLM 2.0：手机 Agent 的「Manus 时刻」？]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352886</guid>
+      <title>Xiaomi Q2 Profit Soars 75.4% to Record as High-Margin EV Business Offsets Weaker Smartphone</title>
+      <link>https://www.tmtpost.com/7665634.html</link>
+      <description>&lt;![CDATA[Xiaomi Q2 Profit Soars 75.4% to Record as High-Margin EV Business Offsets Weaker Smartphone]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665634.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>通用AI智能体公司Manus首次公布财务数据：收入运行率超6亿元</title>
-      <link>https://www.tmtpost.com/7665541.html</link>
-      <description>&lt;![CDATA[通用AI智能体公司Manus首次公布财务数据：收入运行率超6亿元]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7665541.html</guid>
+      <title>用友王文京：AI改变新一代企业软件，中国企业软件有机会领先全球</title>
+      <link>https://www.tmtpost.com/7665453.html</link>
+      <description>&lt;![CDATA[用友王文京：AI改变新一代企业软件，中国企业软件有机会领先全球]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665453.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>供应链安全：来源工具正在成为开发者平台的标准配置</title>
-      <link>https://www.infoq.cn/article/2o6QVN6CMU8DsiO6ZM4F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[供应链安全：来源工具正在成为开发者平台的标准配置]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2o6QVN6CMU8DsiO6ZM4F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AIRSAT Launches Seven Satellites With Lijian-1 Yao-10 Rocket</title>
+      <link>https://www.tmtpost.com/7665577.html</link>
+      <description>&lt;![CDATA[AIRSAT Launches Seven Satellites With Lijian-1 Yao-10 Rocket]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665577.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别了磁盘：ClickHouse Cloud 中无状态计算背后的架构</title>
-      <link>https://www.infoq.cn/article/HFuCgkp5kVowg6LFA5hL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[别了磁盘：ClickHouse Cloud 中无状态计算背后的架构]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HFuCgkp5kVowg6LFA5hL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智算浪潮下的专有云操作系统安全：范式跃迁与信任链重塑</title>
+      <link>https://www.infoq.cn/article/CFlQPDyjWiohVNrWPfxg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智算浪潮下的专有云操作系统安全：范式跃迁与信任链重塑]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CFlQPDyjWiohVNrWPfxg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek Unveils V3.1</title>
-      <link>https://www.tmtpost.com/7665437.html</link>
-      <description>&lt;![CDATA[DeepSeek Unveils V3.1]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7665437.html</guid>
+      <title>将AI注入Java应用程序</title>
+      <link>https://www.infoq.cn/article/v9i4XWoTqjUExISjTV81?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[将AI注入Java应用程序]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v9i4XWoTqjUExISjTV81?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Oxlint 1.0稳定版发布：基于Rust的JavaScript静态检查器</title>
-      <link>https://www.infoq.cn/article/qRUmRqzgExGNhekGB5i7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Oxlint 1.0稳定版发布：基于Rust的JavaScript静态检查器]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qRUmRqzgExGNhekGB5i7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Roblox狂飙背后：是元宇宙增长奇迹，还是儿童犯罪温床？</title>
+      <link>https://www.tmtpost.com/7665542.html</link>
+      <description>&lt;![CDATA[Roblox狂飙背后：是元宇宙增长奇迹，还是儿童犯罪温床？]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7665542.html</guid>
       <category>Technology</category>
     </item>
   </channel>

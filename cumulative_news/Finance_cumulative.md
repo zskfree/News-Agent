@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-20 05:22
+**最后更新时间**: 2025-08-20 08:27
+
+---
+
+## 🆕 最新更新 (2025-08-20 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tuesday was a key day, as momentum plays flopped while value stocks rallied. But was it a shift or a blip?](https://www.marketwatch.com/story/tuesday-was-a-key-day-for-the-markets-but-was-it-a-shift-or-a-blip-ba82d6f7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 08:13
 
 ---
 

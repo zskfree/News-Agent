@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 05:23:00 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 08:27:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta超级智能实验室重组为四个部门，某些高管将离开</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-2</link>
-      <description>&lt;![CDATA[Meta超级智能实验室重组为四个部门，某些高管将离开]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-2</guid>
+      <title>Nature子刊 | 上智院统一框架RXNGraphormer，实现化学反应多任务精准预测，自发掌握分类规律</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-8</link>
+      <description>&lt;![CDATA[Nature子刊 | 上智院统一框架RXNGraphormer，实现化学反应多任务精准预测，自发掌握分类规律]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达最新芯片B30A曝光</title>
-      <link>https://www.qbitai.com/2025/08/324033.html</link>
-      <description>&lt;![CDATA[英伟达最新芯片B30A曝光]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 02:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324033.html</guid>
+      <title>首个面向肽分子设计的大模型平台：直接「读序列」出结合子，无需结构输入即可生成</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-20-7</link>
+      <description>&lt;![CDATA[首个面向肽分子设计的大模型平台：直接「读序列」出结合子，无需结构输入即可生成]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DiT在数学和形式上是错的？谢赛宁回应：不要在脑子里做科学</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-5</link>
-      <description>&lt;![CDATA[DiT在数学和形式上是错的？谢赛宁回应：不要在脑子里做科学]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 12:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-5</guid>
+      <title>国产AI路由系统开源逆袭！仅用19%成本达到Gemini-2.5-Pro同等性能</title>
+      <link>https://www.qbitai.com/2025/08/324235.html</link>
+      <description>&lt;![CDATA[国产AI路由系统开源逆袭！仅用19%成本达到Gemini-2.5-Pro同等性能]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 07:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324235.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepSeek开源新基础模型，但不是V4，而是V3.1-Base</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-3</link>
-      <description>&lt;![CDATA[DeepSeek开源新基础模型，但不是V4，而是V3.1-Base]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL</title>
-      <link>https://arxiv.org/abs/2508.13167</link>
-      <description>&lt;![CDATA[Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.13167</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context</title>
-      <link>https://arxiv.org/abs/2508.13171</link>
-      <description>&lt;![CDATA[Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.13171</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models</title>
-      <link>https://arxiv.org/abs/2508.13678</link>
-      <description>&lt;![CDATA[Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.13678</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning</title>
-      <link>https://arxiv.org/abs/2508.13721</link>
-      <description>&lt;![CDATA[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.13721</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>dLLM的「Free Lunch」！浙大&amp;蚂蚁利用中间结果显著提升扩散语言模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-4</link>
-      <description>&lt;![CDATA[dLLM的「Free Lunch」！浙大&amp;蚂蚁利用中间结果显著提升扩散语言模型]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 12:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration</title>
-      <link>https://arxiv.org/abs/2508.13828</link>
-      <description>&lt;![CDATA[Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.13828</guid>
+      <title>00后MIT华人女生辍学创业，已融1.5个亿</title>
+      <link>https://www.qbitai.com/2025/08/324217.html</link>
+      <description>&lt;![CDATA[00后MIT华人女生辍学创业，已融1.5个亿]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324217.html</guid>
       <category>AI</category>
     </item>
   </channel>
