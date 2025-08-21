@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 21 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2025 05:21:30 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 08:27:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI的GPT-5现已在微软Azure AI Foundry上全面开放</title>
-      <link>https://www.infoq.cn/article/j7t3vOzFKXH0hq9PZifG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI的GPT-5现已在微软Azure AI Foundry上全面开放]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j7t3vOzFKXH0hq9PZifG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Pop Mart Surges 12% After Nearly Quadrupling Profit on Labubu Craze</title>
+      <link>https://www.tmtpost.com/7667445.html</link>
+      <description>&lt;![CDATA[Pop Mart Surges 12% After Nearly Quadrupling Profit on Labubu Craze]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667445.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 单月营收已经破 10 亿美元；马斯克的 Grok，超 37 万条用户聊天记录「裸奔」；谷歌发布 AI 手机</title>
-      <link>http://www.geekpark.net/news/352917</link>
-      <description>&lt;![CDATA[OpenAI 单月营收已经破 10 亿美元；马斯克的 Grok，超 37 万条用户聊天记录「裸奔」；谷歌发布 AI 手机]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 08:40:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352917</guid>
+      <title>8月21日A股分析：三大股指涨跌不一，两市合计成交24240.57亿元，资金流入最多的行业板块为软件开发、多元金融</title>
+      <link>https://www.tmtpost.com/7667388.html</link>
+      <description>&lt;![CDATA[8月21日A股分析：三大股指涨跌不一，两市合计成交24240.57亿元，资金流入最多的行业板块为软件开发、多元金融]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667388.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Arm推出业内首创的面向 GPU 的“神经技术”，为移动设备注入活力</title>
-      <link>https://www.infoq.cn/article/sFO5pekjqeHLH7oc8ucz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Arm推出业内首创的面向 GPU 的“神经技术”，为移动设备注入活力]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sFO5pekjqeHLH7oc8ucz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>拆解北方华创的“研发下降”，看它如何“花钱”</title>
+      <link>https://www.tmtpost.com/7667072.html</link>
+      <description>&lt;![CDATA[拆解北方华创的“研发下降”，看它如何“花钱”]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667072.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI CFO Teases Potential Listing as First $1 Billion Monthly Revenue Achieved</title>
-      <link>https://www.tmtpost.com/7667081.html</link>
-      <description>&lt;![CDATA[OpenAI CFO Teases Potential Listing as First $1 Billion Monthly Revenue Achieved]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7667081.html</guid>
+      <title>腾讯游戏，先尝到AI的甜</title>
+      <link>https://www.tmtpost.com/7666964.html</link>
+      <description>&lt;![CDATA[腾讯游戏，先尝到AI的甜]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7666964.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chinese Autonomous Driving Startup Rino.ai Raises Nearly $68 Million in Series B+ Round</title>
-      <link>https://www.tmtpost.com/7667011.html</link>
-      <description>&lt;![CDATA[Chinese Autonomous Driving Startup Rino.ai Raises Nearly $68 Million in Series B+ Round]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7667011.html</guid>
+      <title>港交所业绩“开挂”，如何看待背后的机遇与隐忧？</title>
+      <link>https://www.tmtpost.com/7666901.html</link>
+      <description>&lt;![CDATA[港交所业绩“开挂”，如何看待背后的机遇与隐忧？]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7666901.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>面向运维的大模型！中国信通院“智域”大模型开放下载，为系统“治未病、愈顽疾”！</title>
-      <link>https://www.infoq.cn/article/f4SS8VEQeuN4FhzdtamG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[面向运维的大模型！中国信通院“智域”大模型开放下载，为系统“治未病、愈顽疾”！]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/f4SS8VEQeuN4FhzdtamG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国最懂女人的男人：牵手林志玲，年入30亿</title>
+      <link>https://www.tmtpost.com/7667227.html</link>
+      <description>&lt;![CDATA[中国最懂女人的男人：牵手林志玲，年入30亿]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667227.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google Launches Pixel 10 Series With AI Upgrades, New Watch and Earbuds</title>
-      <link>https://www.tmtpost.com/7666953.html</link>
-      <description>&lt;![CDATA[Google Launches Pixel 10 Series With AI Upgrades, New Watch and Earbuds]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7666953.html</guid>
+      <title>Baidu Stock Slips Over 2% as Ad Drags Q2 Revenue Down by 4% Despite AI Push</title>
+      <link>https://www.tmtpost.com/7667229.html</link>
+      <description>&lt;![CDATA[Baidu Stock Slips Over 2% as Ad Drags Q2 Revenue Down by 4% Despite AI Push]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667229.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's Photovoltaic Industry Stands at Strategic Crossroad as India Ramps Up Solar Capacity</title>
-      <link>https://www.tmtpost.com/7667042.html</link>
-      <description>&lt;![CDATA[China's Photovoltaic Industry Stands at Strategic Crossroad as India Ramps Up Solar Capacity]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7667042.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>MCP C# SDK符合新协议规范，带来了安全性和工具更新</title>
-      <link>https://www.infoq.cn/article/zwMi7cRxYKEGbtPS43Cd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MCP C# SDK符合新协议规范，带来了安全性和工具更新]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zwMi7cRxYKEGbtPS43Cd?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>这家氛围编码公司赚翻了！从C端“杀出”重围，已帮用户构建超 1000 万个项目，团队仅有45人</title>
-      <link>https://www.infoq.cn/article/56UzMlxco3zkcl8sOsIk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[这家氛围编码公司赚翻了！从C端“杀出”重围，已帮用户构建超 1000 万个项目，团队仅有45人]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/56UzMlxco3zkcl8sOsIk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>影石“撒币”容易，“偷家”大疆很难</title>
+      <link>https://www.tmtpost.com/7666756.html</link>
+      <description>&lt;![CDATA[影石“撒币”容易，“偷家”大疆很难]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7666756.html</guid>
       <category>Technology</category>
     </item>
   </channel>

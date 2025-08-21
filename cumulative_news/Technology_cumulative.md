@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-21 05:20
+**最后更新时间**: 2025-08-21 08:27
+
+---
+
+## 🆕 最新更新 (2025-08-21 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Pop Mart Surges 12% After Nearly Quadrupling Profit on Labubu Craze](https://www.tmtpost.com/7667445.html)
+**发布时间**: 2025-08-21 15:57
+
+#### [8月21日A股分析：三大股指涨跌不一，两市合计成交24240.57亿元，资金流入最多的行业板块为软件开发、多元金融](https://www.tmtpost.com/7667388.html)
+**发布时间**: 2025-08-21 15:34
+
+#### [拆解北方华创的“研发下降”，看它如何“花钱”](https://www.tmtpost.com/7667072.html)
+**发布时间**: 2025-08-21 15:12
+
+#### [腾讯游戏，先尝到AI的甜](https://www.tmtpost.com/7666964.html)
+**发布时间**: 2025-08-21 15:12
+
+#### [港交所业绩“开挂”，如何看待背后的机遇与隐忧？](https://www.tmtpost.com/7666901.html)
+**发布时间**: 2025-08-21 15:12
+
+#### [中国最懂女人的男人：牵手林志玲，年入30亿](https://www.tmtpost.com/7667227.html)
+**发布时间**: 2025-08-21 15:05
+
+#### [Baidu Stock Slips Over 2% as Ad Drags Q2 Revenue Down by 4% Despite AI Push](https://www.tmtpost.com/7667229.html)
+**发布时间**: 2025-08-21 13:54
+
+#### [影石“撒币”容易，“偷家”大疆很难](https://www.tmtpost.com/7666756.html)
+**发布时间**: 2025-08-21 13:45
 
 ---
 

@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-21 05:20
+**最后更新时间**: 2025-08-21 08:27
+
+---
+
+## 🆕 最新更新 (2025-08-21 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Let them eat compute’ — AI is squeezing the housing market, this provocative take claims](https://www.marketwatch.com/story/let-them-eat-compute-ai-is-squeezing-the-housing-market-this-provocative-take-claims-29546d0c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 08:03
 
 ---
 
