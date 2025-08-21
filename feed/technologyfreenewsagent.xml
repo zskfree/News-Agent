@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Aug 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 23:19:50 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 05:21:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPU王座动摇？ASIC改写规则</title>
-      <link>https://www.tmtpost.com/7666104.html</link>
-      <description>&lt;![CDATA[GPU王座动摇？ASIC改写规则]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 19:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7666104.html</guid>
+      <title>OpenAI的GPT-5现已在微软Azure AI Foundry上全面开放</title>
+      <link>https://www.infoq.cn/article/j7t3vOzFKXH0hq9PZifG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI的GPT-5现已在微软Azure AI Foundry上全面开放]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/j7t3vOzFKXH0hq9PZifG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 的终点不是对话框，这家公司想让真实世界成为 AI 的提示词</title>
-      <link>http://www.geekpark.net/news/352913</link>
-      <description>&lt;![CDATA[AI 的终点不是对话框，这家公司想让真实世界成为 AI 的提示词]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 23:20:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352913</guid>
+      <title>OpenAI 单月营收已经破 10 亿美元；马斯克的 Grok，超 37 万条用户聊天记录「裸奔」；谷歌发布 AI 手机</title>
+      <link>http://www.geekpark.net/news/352917</link>
+      <description>&lt;![CDATA[OpenAI 单月营收已经破 10 亿美元；马斯克的 Grok，超 37 万条用户聊天记录「裸奔」；谷歌发布 AI 手机]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352917</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI大厂搜索与全栈的赌局，百度比谷歌更激进</title>
-      <link>https://www.tmtpost.com/7666379.html</link>
-      <description>&lt;![CDATA[AI大厂搜索与全栈的赌局，百度比谷歌更激进]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 22:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7666379.html</guid>
+      <title>Arm推出业内首创的面向 GPU 的“神经技术”，为移动设备注入活力</title>
+      <link>https://www.infoq.cn/article/sFO5pekjqeHLH7oc8ucz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Arm推出业内首创的面向 GPU 的“神经技术”，为移动设备注入活力]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sFO5pekjqeHLH7oc8ucz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>竞速与暗战，智能辅助驾驶迈入Next Level</title>
-      <link>https://www.tmtpost.com/7665719.html</link>
-      <description>&lt;![CDATA[竞速与暗战，智能辅助驾驶迈入Next Level]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 19:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7665719.html</guid>
+      <title>OpenAI CFO Teases Potential Listing as First $1 Billion Monthly Revenue Achieved</title>
+      <link>https://www.tmtpost.com/7667081.html</link>
+      <description>&lt;![CDATA[OpenAI CFO Teases Potential Listing as First $1 Billion Monthly Revenue Achieved]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 12:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667081.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Do Large Language Models Dream of AI Agents?</title>
-      <link>https://www.wired.com/story/sleeptime-compute-chatbots-memory/</link>
-      <description>&lt;![CDATA[Do Large Language Models Dream of AI Agents?]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/sleeptime-compute-chatbots-memory/</guid>
+      <title>Chinese Autonomous Driving Startup Rino.ai Raises Nearly $68 Million in Series B+ Round</title>
+      <link>https://www.tmtpost.com/7667011.html</link>
+      <description>&lt;![CDATA[Chinese Autonomous Driving Startup Rino.ai Raises Nearly $68 Million in Series B+ Round]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667011.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts</title>
-      <link>https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/</link>
-      <description>&lt;![CDATA[Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/</guid>
+      <title>面向运维的大模型！中国信通院“智域”大模型开放下载，为系统“治未病、愈顽疾”！</title>
+      <link>https://www.infoq.cn/article/f4SS8VEQeuN4FhzdtamG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面向运维的大模型！中国信通院“智域”大模型开放下载，为系统“治未病、愈顽疾”！]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/f4SS8VEQeuN4FhzdtamG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级</title>
-      <link>https://www.infoq.cn/article/yVIa68gtCRZtZ3Ay1RHF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 20:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yVIa68gtCRZtZ3Ay1RHF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Google Launches Pixel 10 Series With AI Upgrades, New Watch and Earbuds</title>
+      <link>https://www.tmtpost.com/7666953.html</link>
+      <description>&lt;![CDATA[Google Launches Pixel 10 Series With AI Upgrades, New Watch and Earbuds]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7666953.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google&amp;#8217;s Gemini Live AI assistant will show you what it&amp;#8217;s talking about</title>
-      <link>https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update</link>
-      <description>&lt;![CDATA[Google&amp;#8217;s Gemini Live AI assistant will show you what it&amp;#8217;s talking about]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 21:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update</guid>
+      <title>China's Photovoltaic Industry Stands at Strategic Crossroad as India Ramps Up Solar Capacity</title>
+      <link>https://www.tmtpost.com/7667042.html</link>
+      <description>&lt;![CDATA[China's Photovoltaic Industry Stands at Strategic Crossroad as India Ramps Up Solar Capacity]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667042.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Windows 11 test brings AI file search to the Copilot app</title>
-      <link>https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app</link>
-      <description>&lt;![CDATA[Windows 11 test brings AI file search to the Copilot app]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 18:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app</guid>
+      <title>MCP C# SDK符合新协议规范，带来了安全性和工具更新</title>
+      <link>https://www.infoq.cn/article/zwMi7cRxYKEGbtPS43Cd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MCP C# SDK符合新协议规范，带来了安全性和工具更新]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zwMi7cRxYKEGbtPS43Cd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Isn’t Coming for Hollywood. It's Already Arrived</title>
-      <link>https://www.wired.com/story/artificial-intelligence-hollywood-stability/</link>
-      <description>&lt;![CDATA[AI Isn’t Coming for Hollywood. It's Already Arrived]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/artificial-intelligence-hollywood-stability/</guid>
+      <title>这家氛围编码公司赚翻了！从C端“杀出”重围，已帮用户构建超 1000 万个项目，团队仅有45人</title>
+      <link>https://www.infoq.cn/article/56UzMlxco3zkcl8sOsIk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[这家氛围编码公司赚翻了！从C端“杀出”重围，已帮用户构建超 1000 万个项目，团队仅有45人]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/56UzMlxco3zkcl8sOsIk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

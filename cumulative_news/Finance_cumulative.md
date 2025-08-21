@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-20 23:19
+**最后更新时间**: 2025-08-21 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-21 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meta reportedly freezes its AI hiring spree amid wider restructuring](https://www.marketwatch.com/story/meta-reportedly-freezes-its-ai-hiring-spree-amid-wider-restructuring-06779695?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 03:03
+
+#### [The S&P 500 is at its most expensive by this measure. These stocks have bucked the trend.](https://www.marketwatch.com/story/the-s-p-500-is-at-its-most-expensive-by-this-measure-these-stocks-have-bucked-the-trend-16fac7be?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 00:51
+
+#### [What is mortgage fraud — and why does the Trump administration keep accusing officials of doing it?](https://www.marketwatch.com/story/what-is-mortgage-fraud-and-why-does-the-trump-administration-keep-accusing-officials-of-doing-it-a6f30eb9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 00:48
+
+#### [Investors overlook community bank stocks — but they’re the economy’s ‘first responders’ to Fed rate cuts](https://www.marketwatch.com/story/these-companies-are-the-economys-first-responders-to-fed-rate-cuts-yet-stock-investors-overlook-them-98d11095?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 00:19
+
+#### [Here’s the downside of index funds and ETFs](https://www.marketwatch.com/story/heres-the-downside-of-index-funds-and-etfs-e4a08156?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 23:58
+
+#### [Target hires a veteran as its new CEO, as it tries to turn itself around. Some say the move lacks ‘pop.’](https://www.marketwatch.com/story/targets-stock-drops-as-long-time-ceo-brian-cornells-planned-departure-overshadows-an-earnings-beat-e42dc63c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-20 23:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bank won’t lower your credit-card APR? Here’s how to fight back.](https://www.marketwatch.com/bulletins/redirect/go?g=273aafaa-d667-49de-a605-484c935c1566&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 01:08
 
 ---
 

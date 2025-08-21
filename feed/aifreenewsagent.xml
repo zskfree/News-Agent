@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 23:19:14 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 05:21:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-11</link>
-      <description>&lt;![CDATA[网易有道发布子曰教育大模型多款AI新品，定义教育AI应用能力L1-L5分级]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 20:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-11</guid>
+      <title>刚刚，字节开源Seed-OSS-36B模型，512k上下文</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-21-2</link>
+      <description>&lt;![CDATA[刚刚，字节开源Seed-OSS-36B模型，512k上下文]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>报名开启｜中关村国际青年论坛：诚邀全球青年学者共探AI前沿</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-10</link>
-      <description>&lt;![CDATA[报名开启｜中关村国际青年论坛：诚邀全球青年学者共探AI前沿]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-10</guid>
+      <title>上下文记忆力媲美Genie3，且问世更早：港大和可灵提出场景一致的交互式视频世界模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-21</link>
+      <description>&lt;![CDATA[上下文记忆力媲美Genie3，且问世更早：港大和可灵提出场景一致的交互式视频世界模型]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Sora没做到的，LongVie框架给解决了，超长视频生成SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-20-9</link>
-      <description>&lt;![CDATA[Sora没做到的，LongVie框架给解决了，超长视频生成SOTA]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-20-9</guid>
+      <title>The Agent Behavior: Model, Governance and Challenges in the AI Digital Age</title>
+      <link>https://arxiv.org/abs/2508.14415</link>
+      <description>&lt;![CDATA[The Agent Behavior: Model, Governance and Challenges in the AI Digital Age]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14415</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Securing private data at scale with differentially private partition selection</title>
-      <link>https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/</link>
-      <description>&lt;![CDATA[Securing private data at scale with differentially private partition selection]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 19:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/</guid>
+      <title>Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning</title>
+      <link>https://arxiv.org/abs/2508.14410</link>
+      <description>&lt;![CDATA[Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14410</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Forging connections in space with cellular technology</title>
-      <link>https://www.technologyreview.com/2025/08/20/1121888/forging-connections-in-space-with-cellular-technology/</link>
-      <description>&lt;![CDATA[Forging connections in space with cellular technology]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1121888/forging-connections-in-space-with-cellular-technology/</guid>
+      <title>MAHL: Multi-Agent LLM-Guided Hierarchical Chiplet Design with Adaptive Debugging</title>
+      <link>https://arxiv.org/abs/2508.14053</link>
+      <description>&lt;![CDATA[MAHL: Multi-Agent LLM-Guided Hierarchical Chiplet Design with Adaptive Debugging]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14053</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NASA’s new AI model can predict when a solar storm may strike</title>
-      <link>https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/</link>
-      <description>&lt;![CDATA[NASA’s new AI model can predict when a solar storm may strike]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/</guid>
+      <title>Assessing and Mitigating Data Memorization Risks in Fine-Tuned Large Language Models</title>
+      <link>https://arxiv.org/abs/2508.14062</link>
+      <description>&lt;![CDATA[Assessing and Mitigating Data Memorization Risks in Fine-Tuned Large Language Models]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14062</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: churches in the age of AI, and how to run an LLM at home</title>
-      <link>https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/</link>
-      <description>&lt;![CDATA[The Download: churches in the age of AI, and how to run an LLM at home]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/</guid>
+      <title>MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers</title>
+      <link>https://arxiv.org/abs/2508.14704</link>
+      <description>&lt;![CDATA[MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14704</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Material Cultures looks to the past to build the future</title>
-      <link>https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/</link>
-      <description>&lt;![CDATA[Material Cultures looks to the past to build the future]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/</guid>
+      <title>行业首个AI座舱：能唠嗑会办事儿，吉利银河M9率先搭载，杭州出品</title>
+      <link>https://www.qbitai.com/2025/08/324556.html</link>
+      <description>&lt;![CDATA[行业首个AI座舱：能唠嗑会办事儿，吉利银河M9率先搭载，杭州出品]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 02:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324556.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>宇树180芭蕾机器人，究竟啥水平？</title>
-      <link>https://www.qbitai.com/2025/08/324533.html</link>
-      <description>&lt;![CDATA[宇树180芭蕾机器人，究竟啥水平？]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324533.html</guid>
+      <title>Large Language Models are Highly Aligned with Human Ratings of Emotional Stimuli</title>
+      <link>https://arxiv.org/abs/2508.14214</link>
+      <description>&lt;![CDATA[Large Language Models are Highly Aligned with Human Ratings of Emotional Stimuli]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14214</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>20个要点，看完李想4小时超长访谈</title>
-      <link>https://www.qbitai.com/2025/08/324424.html</link>
-      <description>&lt;![CDATA[20个要点，看完李想4小时超长访谈]]&gt;</description>
-      <pubDate>Wed, 20 Aug 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324424.html</guid>
+      <title>Who Sees What? Structured Thought-Action Sequences for Epistemic Reasoning in LLMs</title>
+      <link>https://arxiv.org/abs/2508.14564</link>
+      <description>&lt;![CDATA[Who Sees What? Structured Thought-Action Sequences for Epistemic Reasoning in LLMs]]&gt;</description>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14564</guid>
       <category>AI</category>
     </item>
   </channel>
