@@ -1,7 +1,171 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-21 08:27
+**最后更新时间**: 2025-08-21 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-21 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [上海“临港科创城”推进大会举行，临港集团 “超级个体288行动”发布](https://www.tmtpost.com/7668094.html)
+**发布时间**: 2025-08-21 22:36
+
+#### [可灵AI计划进军游戏制作和专业影视制作](https://www.tmtpost.com/7668026.html)
+**发布时间**: 2025-08-21 21:35
+
+#### [股价飙涨的东方甄选，董宇辉已经成为“过去式”？](https://www.tmtpost.com/7666817.html)
+**发布时间**: 2025-08-21 21:29
+
+#### [对话智元王闯：机器人硬件不是“瓶颈”，未来1-2年人形机器人技术不会收敛](https://www.tmtpost.com/7667040.html)
+**发布时间**: 2025-08-21 20:56
+
+#### [沛城科技：业绩大幅下滑，被比亚迪“砍单”，资金充裕下分红与募资补流并行引关注｜IPO观察](https://www.tmtpost.com/7666703.html)
+**发布时间**: 2025-08-21 20:53
+
+#### [从“贴钱”买股，到“画饼”式承诺，通业科技的跨界重组疑云 ｜并购一线](https://www.tmtpost.com/7667838.html)
+**发布时间**: 2025-08-21 20:51
+
+#### [股东对分红狮子大张口，青农商行“前方吃紧后方紧吃”？](https://www.tmtpost.com/7667650.html)
+**发布时间**: 2025-08-21 19:40
+
+#### [上线外卖 7 年之后，喜茶为何突然放开外部渠道限制？](https://www.tmtpost.com/7667484.html)
+**发布时间**: 2025-08-21 19:39
+
+#### [苹果弃儿欧菲光，华为也带不动](https://www.tmtpost.com/7666197.html)
+**发布时间**: 2025-08-21 19:39
+
+#### [科沃斯半年报：“扫地茅”又回来了？](https://www.tmtpost.com/7667196.html)
+**发布时间**: 2025-08-21 19:39
+
+#### [辛巴“金蝉脱壳”，揭开了直播带货的“罪与罚”](https://www.tmtpost.com/7667778.html)
+**发布时间**: 2025-08-21 19:33
+
+#### [AI眼镜，这次能成吗？](https://www.tmtpost.com/7667802.html)
+**发布时间**: 2025-08-21 19:23
+
+#### [狂烧15亿，鱼泡能挤上白领招聘牌桌吗？](https://www.tmtpost.com/7667824.html)
+**发布时间**: 2025-08-21 19:23
+
+#### [美图，一个AI版的化妆品公司？](https://www.tmtpost.com/7667832.html)
+**发布时间**: 2025-08-21 19:23
+
+#### [2025年美国社交平台CPM预测报告：Meta、TikTok广告流量价格正在集体暴涨](https://www.tmtpost.com/7667068.html)
+**发布时间**: 2025-08-21 18:26
+
+#### [中国金王的“点金术”：再造千亿独角兽？](https://www.tmtpost.com/7667199.html)
+**发布时间**: 2025-08-21 18:26
+
+#### [斯坦福推开思维之门，人类最后的隐私边界告急](https://www.tmtpost.com/7667755.html)
+**发布时间**: 2025-08-21 18:26
+
+#### [汽车公司内卷进入暗战：“增配不加价”](https://www.tmtpost.com/7667758.html)
+**发布时间**: 2025-08-21 18:26
+
+#### [反内卷之下，究竟有多少新建光伏项目正在跑步前进？](https://www.tmtpost.com/7667760.html)
+**发布时间**: 2025-08-21 18:26
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)
+**发布时间**: 2025-08-21 22:20
+
+#### [Longtime Bungie head Pete Parsons steps down](https://www.theverge.com/news/763895/bungie-ceo-pete-parsons-steps-down-destiny)
+**发布时间**: 2025-08-21 21:05
+
+#### [Microsoft&#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)
+**发布时间**: 2025-08-21 20:59
+
+#### [Google reveals it isn&#8217;t making tablets, smart rings, flip phones, or glasses (yet)](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
+**发布时间**: 2025-08-21 19:40
+
+#### [Why I love my Le Creuset sauté pan](https://www.theverge.com/tech/763409/le-creuset-saute-pan-favorites)
+**发布时间**: 2025-08-21 19:00
+
+#### [2025 is turning into a good year for long-awaited games](https://www.theverge.com/games/763698/delayed-games-silksong-metroid-prime-4-2025)
+**发布时间**: 2025-08-21 17:30
+
+#### [How Google’s new Pixel 10 compares to the last-gen Pixel 9](https://www.theverge.com/tech/763600/google-pixel-9-vs-10-comparison-specs-price-features)
+**发布时间**: 2025-08-21 17:13
+
+#### [Microsoft’s Xbox handheld is a good first step toward a Windows gaming OS](https://www.theverge.com/notepad-microsoft-newsletter/763357/microsoft-asus-xbox-ally-handheld-hands-on-notepad)
+**发布时间**: 2025-08-21 17:00
+
+#### [YouTube Music turns 10 and adds new &#8216;taste match&#8217; playlists](https://www.theverge.com/news/763611/youtube-music-taste-match-10-anniversary)
+**发布时间**: 2025-08-21 16:40
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [要被阿里分拆上市的斑马，成色几何](http://www.huxiu.com/article/4720000.html?f=wangzhan)
+**发布时间**: 2025-08-21 21:28
+
+#### [经济最艰难的时刻过去了吗？复苏何时出现？](http://www.huxiu.com/article/4715151.html?f=wangzhan)
+**发布时间**: 2025-08-21 20:00
+
+#### [免费续面竟被骂到关门？不到200块毁灭一家店？](http://www.huxiu.com/article/4718870.html?f=wangzhan)
+**发布时间**: 2025-08-21 17:30
+
+#### [九三阅兵排练和发布会，透露了哪些新亮点？](http://www.huxiu.com/article/4716718.html?f=wangzhan)
+**发布时间**: 2025-08-21 16:30
+
+#### [本土汽水之王大窑，要卖给外国了？](http://www.huxiu.com/article/4716294.html?f=wangzhan)
+**发布时间**: 2025-08-21 15:40
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now](https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/)
+**发布时间**: 2025-08-21 19:13
+
+#### [Kanye West Said Memecoins ‘Prey On Fans.’ Then He Apparently Launched One](https://www.wired.com/story/kanye-west-memecoin/)
+**发布时间**: 2025-08-21 18:49
+
+#### [Trump Is Betting Big on Intel. Will the Chips Fall His Way?](https://www.wired.com/story/golden-shares-tsmc-micron-trump-equity-stake/)
+**发布时间**: 2025-08-21 17:04
+
+#### [Africa Is Buying a Record Number of Chinese Solar Panels](https://www.wired.com/story/african-imports-of-chinese-solar-panels-increase/)
+**发布时间**: 2025-08-21 15:00
+
+#### [7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
+**发布时间**: 2025-08-21 13:20
+
+#### [The Best Gaming Headsets for Xbox, PS5, and PC (2025)](https://www.wired.com/gallery/best-gaming-headsets/)
+**发布时间**: 2025-08-21 13:03
+
+#### [Meet Wukong, the AI Chatbot China Has Installed on Its Space Station](https://www.wired.com/story/meet-wukong-chinas-first-ai-chatbot-on-a-space-station/)
+**发布时间**: 2025-08-21 11:33
+
+#### [7 Best Shower Water Filters (2025), WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
+**发布时间**: 2025-08-21 11:30
+
+#### [A Brompton Reborn: How to Future-Proof a Decades-Old Foldable Bike](https://www.wired.com/story/a-brompton-reborn-how-to-future-proof-a-decades-old-foldable-bike/)
+**发布时间**: 2025-08-21 11:00
+
+#### [The Destruction of NASA Would Be a Blow to Our Collective Imagination](https://www.wired.com/story/the-destruction-of-nasa-would-be-a-blow-to-our-collective-imagination/)
+**发布时间**: 2025-08-21 10:30
+
+#### [Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It?](https://www.wired.com/story/why-did-a-10-billion-dollar-startup-let-me-vibe-code-for-them-and-why-did-i-love-it/)
+**发布时间**: 2025-08-21 10:00
+
+#### [9 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)
+**发布时间**: 2025-08-21 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 218｜少数派的编辑们最近买了啥？](https://sspai.com/post/102013)
+**发布时间**: 2025-08-21 18:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [汽车业务还没盈利，小米却已找到「第三曲线」](http://www.geekpark.net/news/352959)
+**发布时间**: 2025-08-21 18:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [通义APP上线知识库功能，支持官方与个人多库联合查询](https://www.infoq.cn/article/m0m4Xv5LVka8NRPu8xPk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-21 17:05
+
+#### [1 亿美元 ARR、不设AI硬件产品经理，Plaud 如何拿下全球百万用户？](https://www.infoq.cn/article/u9mTM5rTlCQHivBjs3ly?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-21 16:45
 
 ---
 

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-21 08:27
+**最后更新时间**: 2025-08-21 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-21 23:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I learned a hard lesson’: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?](https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 23:14
+
+#### [Powell’s Jackson Hole speech could be make-or-break moment for the summer stock-market rally](https://www.marketwatch.com/story/powells-jackson-hole-speech-could-be-make-or-break-moment-for-the-summer-stock-market-rally-70bdd5d6?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 22:55
+
+#### [Target might be having an ‘identity crisis,’ but some analysts are still standing by the stock](https://www.marketwatch.com/story/target-might-be-having-an-identity-crisis-but-some-analysts-are-still-standing-by-the-stock-89bbd403?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 22:39
+
+#### [As a nurse, I’ve seen people abuse their power of attorney — and ruthlessly trap their relatives](https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 22:33
+
+#### [Walmart says tariffs are raising costs, but it’s trying to avoid price increases — for now](https://www.marketwatch.com/story/walmarts-stock-falls-after-a-rare-profit-miss-even-as-sales-show-strength-and-margins-improve-4ad82b7b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 22:33
+
+#### [Bitcoin’s bull run could defy history and last until 2027, Bernstein analysts say. Why that may be too optimistic.](https://www.marketwatch.com/story/bitcoins-bull-run-could-defy-history-and-last-until-2027-bernstein-analyst-says-why-that-may-be-too-optimistic-b14df756?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 22:32
+
+#### [New ESPN and Fox streaming services raise the question of how much is too much for viewers](https://www.marketwatch.com/story/new-espn-and-fox-streaming-services-raise-the-question-of-how-much-is-too-much-for-viewers-7cf2426a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 22:29
+
+#### [Cracker Barrel stock falls 7% after new logo causes a stir](https://www.marketwatch.com/story/cracker-barrel-stock-falls-7-after-new-logo-causes-a-stir-3b6d0fe8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 21:36
+
+#### [Here’s the $863 billion secret Powell, Trump and Bessent aren’t telling us about gold and bitcoin](https://www.marketwatch.com/story/heres-the-secret-powell-trump-and-bessent-arent-telling-us-about-gold-and-bitcoin-762e33f6?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 21:20
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How oil and gold are sending an important message to stock-market bulls](https://www.marketwatch.com/bulletins/redirect/go?g=00c3dad7-4d05-4b28-bf45-6cafa14e2760&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 23:05
+
+#### [Stocks may need ‘tariff checks’ to keep rallying — but bonds wouldn’t like it](https://www.marketwatch.com/bulletins/redirect/go?g=46c898bf-4fa8-4a90-8ace-5fc393148c49&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 21:54
+
+#### [Rotation out of Big Tech sends S&P 500 skidding. How long will it last?](https://www.marketwatch.com/bulletins/redirect/go?g=d8bf64e3-aedc-46c4-9251-e8f890f05437&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 20:51
+
+#### [S&P 500 logs 5-day losing streak as investors await Powell's Jackson Hole speech](https://www.marketwatch.com/bulletins/redirect/go?g=4ef2c14b-b93d-44b7-81f7-b57a696e7c2b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 20:01
+
+#### [The critical detail that could unravel the AI trade: Nobody is paying for it](https://www.marketwatch.com/bulletins/redirect/go?g=f3ba3724-35ab-4cd5-985c-cb88732abe86&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 19:32
+
+#### [Wall Street short sellers have been crushed in 2025. Better days may be ahead.](https://www.marketwatch.com/bulletins/redirect/go?g=99b38bb2-eafe-4dd7-b4a1-b3697ab26224&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 19:07
+
+#### [Why Powell’s Jackson Hole speech could be a make-or-break moment for Wall Street](https://www.marketwatch.com/bulletins/redirect/go?g=f21afac9-fce5-499e-9026-224b018ac228&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 18:41
+
+#### [Powell’s Jackson Hole speech could be a make-or-break moment for Wall Street](https://www.marketwatch.com/bulletins/redirect/go?g=2ae4ab5e-1132-41ba-8d29-3d5148a1572a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 17:03
+
+#### [Home sellers get a reality check even as sales pace inches up](https://www.marketwatch.com/bulletins/redirect/go?g=c1741e51-b1b8-4bee-b627-d40f9ef15ec2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 14:19
+
+#### [Stocks open lower after jobless-claims data, Walmart results](https://www.marketwatch.com/bulletins/redirect/go?g=884fdfd0-1a06-4241-9ea8-af2f93a4169b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-21 13:35
 
 ---
 

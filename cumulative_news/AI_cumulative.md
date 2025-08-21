@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-21 08:27
+**最后更新时间**: 2025-08-21 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-21 23:19)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，好莱坞特效师展示AI生成的中文科幻大片，成本只有330元](https://www.jiqizhixin.com/articles/2025-08-21-11)
+**发布时间**: 2025-08-21 21:49
+
+#### [摆脱遥控器，波士顿动力人形机器人，开始「长脑子」干活了](https://www.jiqizhixin.com/articles/2025-08-21-10)
+**发布时间**: 2025-08-21 21:41
+
+#### [微软AI CEO警告：我们需要警惕「看似有意识的AI」](https://www.jiqizhixin.com/articles/2025-08-21-9)
+**发布时间**: 2025-08-21 21:36
+
+#### [ICCV 2025 | ECD：高质量合成图表数据集，提升开源MLLM图表理解能力](https://www.jiqizhixin.com/articles/2025-08-21-8)
+**发布时间**: 2025-08-21 21:22
+
+#### [通义APP上线官方知识库，首批覆盖教育、法律、金融等五大领域](https://www.jiqizhixin.com/articles/2025-08-21-7)
+**发布时间**: 2025-08-21 16:32
+
+#### [二十余名英国青年科学家在沪参与好望角科学沙龙活动](https://www.jiqizhixin.com/articles/2025-08-20-18)
+**发布时间**: 2025-08-20 20:08
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [From massive models to mobile magic: The tech behind YouTube real-time generative AI effects](https://research.google/blog/from-massive-models-to-mobile-magic-the-tech-behind-youtube-real-time-generative-ai-effects/)
+**发布时间**: 2025-08-21 18:05
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Ukraine’s Starlink repair shop, and predicting solar storms](https://www.technologyreview.com/2025/08/21/1122298/the-download-ukraines-starlink-repair-shop-and-predicting-solar-storms/)
+**发布时间**: 2025-08-21 12:10
+
+#### [In a first, Google has released data on how much energy an AI prompt uses](https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/)
+**发布时间**: 2025-08-21 12:00
+
+#### [Why recycling isn’t enough to address the plastic problem](https://www.technologyreview.com/2025/08/21/1122247/recycling-climate-emissions/)
+**发布时间**: 2025-08-21 10:00
+
+#### [On the ground in Ukraine’s largest Starlink repair shop](https://www.technologyreview.com/2025/08/21/1122035/ukraines-largest-starlink-repair-shop/)
+**发布时间**: 2025-08-21 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-5 Pro独立做数学研究！读论文后给出更精确边界，OpenAI总裁：这是生命迹象](https://www.qbitai.com/2025/08/324720.html)
+**发布时间**: 2025-08-21 09:25
+
+#### [1天能跑2.4万单，李彦宏低调透露萝卜快跑在武汉盈亏平衡了](https://www.qbitai.com/2025/08/324733.html)
+**发布时间**: 2025-08-21 09:12
 
 ---
 
