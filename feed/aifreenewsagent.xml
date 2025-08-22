@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 21 Aug 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2025 23:20:12 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 05:22:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5 Pro独立做数学研究！读论文后给出更精确边界，OpenAI总裁：这是生命迹象</title>
-      <link>https://www.qbitai.com/2025/08/324720.html</link>
-      <description>&lt;![CDATA[GPT-5 Pro独立做数学研究！读论文后给出更精确边界，OpenAI总裁：这是生命迹象]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324720.html</guid>
+      <title>R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling</title>
+      <link>https://arxiv.org/abs/2508.15204</link>
+      <description>&lt;![CDATA[R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15204</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，好莱坞特效师展示AI生成的中文科幻大片，成本只有330元</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-21-11</link>
-      <description>&lt;![CDATA[刚刚，好莱坞特效师展示AI生成的中文科幻大片，成本只有330元]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 21:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21-11</guid>
+      <title>Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training</title>
+      <link>https://arxiv.org/abs/2508.14904</link>
+      <description>&lt;![CDATA[Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14904</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>微软AI CEO警告：我们需要警惕「看似有意识的AI」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-21-9</link>
-      <description>&lt;![CDATA[微软AI CEO警告：我们需要警惕「看似有意识的AI」]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 21:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21-9</guid>
+      <title>Disentangling the Drivers of LLM Social Conformity: An Uncertainty-Moderated Dual-Process Mechanism</title>
+      <link>https://arxiv.org/abs/2508.14918</link>
+      <description>&lt;![CDATA[Disentangling the Drivers of LLM Social Conformity: An Uncertainty-Moderated Dual-Process Mechanism]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.14918</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICCV 2025 | ECD：高质量合成图表数据集，提升开源MLLM图表理解能力</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-21-8</link>
-      <description>&lt;![CDATA[ICCV 2025 | ECD：高质量合成图表数据集，提升开源MLLM图表理解能力]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 21:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21-8</guid>
+      <title>Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism</title>
+      <link>https://arxiv.org/abs/2508.15030</link>
+      <description>&lt;![CDATA[Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15030</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>From massive models to mobile magic: The tech behind YouTube real-time generative AI effects</title>
-      <link>https://research.google/blog/from-massive-models-to-mobile-magic-the-tech-behind-youtube-real-time-generative-ai-effects/</link>
-      <description>&lt;![CDATA[From massive models to mobile magic: The tech behind YouTube real-time generative AI effects]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 18:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/from-massive-models-to-mobile-magic-the-tech-behind-youtube-real-time-generative-ai-effects/</guid>
+      <title>Don't Think Twice! Over-Reasoning Impairs Confidence Calibration</title>
+      <link>https://arxiv.org/abs/2508.15050</link>
+      <description>&lt;![CDATA[Don't Think Twice! Over-Reasoning Impairs Confidence Calibration]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15050</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: Ukraine’s Starlink repair shop, and predicting solar storms</title>
-      <link>https://www.technologyreview.com/2025/08/21/1122298/the-download-ukraines-starlink-repair-shop-and-predicting-solar-storms/</link>
-      <description>&lt;![CDATA[The Download: Ukraine’s Starlink repair shop, and predicting solar storms]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/21/1122298/the-download-ukraines-starlink-repair-shop-and-predicting-solar-storms/</guid>
+      <title>Argumentation for Explainable Workforce Optimisation (with Appendix)</title>
+      <link>https://arxiv.org/abs/2508.15118</link>
+      <description>&lt;![CDATA[Argumentation for Explainable Workforce Optimisation (with Appendix)]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15118</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>In a first, Google has released data on how much energy an AI prompt uses</title>
-      <link>https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/</link>
-      <description>&lt;![CDATA[In a first, Google has released data on how much energy an AI prompt uses]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/</guid>
+      <title>aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists</title>
+      <link>https://arxiv.org/abs/2508.15126</link>
+      <description>&lt;![CDATA[aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15126</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>On the ground in Ukraine’s largest Starlink repair shop</title>
-      <link>https://www.technologyreview.com/2025/08/21/1122035/ukraines-largest-starlink-repair-shop/</link>
-      <description>&lt;![CDATA[On the ground in Ukraine’s largest Starlink repair shop]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/21/1122035/ukraines-largest-starlink-repair-shop/</guid>
+      <title>LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support</title>
+      <link>https://arxiv.org/abs/2508.15192</link>
+      <description>&lt;![CDATA[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15192</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>摆脱遥控器，波士顿动力人形机器人，开始「长脑子」干活了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-21-10</link>
-      <description>&lt;![CDATA[摆脱遥控器，波士顿动力人形机器人，开始「长脑子」干活了]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 21:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21-10</guid>
+      <title>Coarse-to-Fine Grounded Memory for LLM Agent Planning</title>
+      <link>https://arxiv.org/abs/2508.15305</link>
+      <description>&lt;![CDATA[Coarse-to-Fine Grounded Memory for LLM Agent Planning]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15305</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>通义APP上线官方知识库，首批覆盖教育、法律、金融等五大领域</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-21-7</link>
-      <description>&lt;![CDATA[通义APP上线官方知识库，首批覆盖教育、法律、金融等五大领域]]&gt;</description>
-      <pubDate>Thu, 21 Aug 2025 16:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-21-7</guid>
+      <title>RETAIL: Towards Real-world Travel Planning for Large Language Models</title>
+      <link>https://arxiv.org/abs/2508.15335</link>
+      <description>&lt;![CDATA[RETAIL: Towards Real-world Travel Planning for Large Language Models]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15335</guid>
       <category>AI</category>
     </item>
   </channel>

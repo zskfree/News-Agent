@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-21 23:19
+**最后更新时间**: 2025-08-22 05:21
+
+---
+
+## 🆕 最新更新 (2025-08-22 05:21)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Jackson Hole live blog: Powell set to discuss Fed's plans for strategy changes](https://www.marketwatch.com/bulletins/redirect/go?g=9296bdf9-d124-4d26-9ca9-f886e79f061f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 02:51
+
+#### [ESPN and Fox roll out streaming services. But how much is too much for viewers?](https://www.marketwatch.com/bulletins/redirect/go?g=d298d954-d80e-43ec-97ed-da2a878a42d2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 01:12
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Off-price retailer Ross flashes another sign that consumers are seeking discounts this fall](https://www.marketwatch.com/story/ross-stores-flash-another-sign-that-consumers-are-seeking-discounts-this-fall-3697b70f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 00:15
+
+#### [The good news is we got an $800K windfall. The bad news is it came after a layoff. What do we do with it?](https://www.marketwatch.com/story/the-good-news-is-we-got-an-800k-windfall-the-bad-news-is-it-came-after-a-layoff-what-do-we-do-with-it-234fdcf8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 23:44
+
+#### [‘The money went into his account’: Is my father trying to swindle me out of my grandparents’ $800K home?](https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories)
+**发布时间**: 2025-08-21 23:37
 
 ---
 
