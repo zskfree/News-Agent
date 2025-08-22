@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-22 05:21
+**最后更新时间**: 2025-08-22 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-22 23:23)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Suze Orman reveals her favorite stocks — and her biggest investing mistake](https://www.marketwatch.com/bulletins/redirect/go?g=7e5af212-c787-44b4-8fa3-78d433bd75fa&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 22:50
+
+#### [Furniture companies’ stocks fall as Trump promises tariffs for the sector](https://www.marketwatch.com/bulletins/redirect/go?g=41a565aa-6b5d-4361-9eac-9720411351c5&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 21:45
+
+#### [Stocks soared after Powell’s speech. Why it might just be a ‘late-summer rally.’](https://www.marketwatch.com/bulletins/redirect/go?g=9c10413f-a01e-4e97-9382-b04500b5ff67&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 20:39
+
+#### [Stocks end sharply higher after Powell opens door to rate cut in Jackson Hole](https://www.marketwatch.com/bulletins/redirect/go?g=6cbd6756-cc8c-4405-97e0-39cbac332b86&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 20:03
+
+#### [Intel agrees to U.S. government stake, Trump says. It may not be the last.](https://www.marketwatch.com/bulletins/redirect/go?g=b8b9f7da-e0fb-4ff7-98ff-a6e91154a561&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 18:57
+
+#### [VIX plunges after Powell sparks optimism for September rate cut](https://www.marketwatch.com/bulletins/redirect/go?g=3435fe14-be28-4384-8dae-48baff920e82&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 17:12
+
+#### [Trump says he’ll fire Lisa Cook. Here's why that might not happen.](https://www.marketwatch.com/bulletins/redirect/go?g=6ecaa71d-ac1e-4034-aa86-b81c3ef11603&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 14:59
+
+#### [Watch live: Powell speaks at Jackson Hole as Fed's interest-rate decision looms](https://www.marketwatch.com/bulletins/redirect/go?g=530f0c47-7c35-4a60-b8ed-8fae8276da90&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 13:59
+
+#### [Stocks open with modest gains ahead of Powell's speech in Jackson Hole](https://www.marketwatch.com/bulletins/redirect/go?g=0e51f272-6083-4af7-89f9-d49c39c01770&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 13:37
+
+#### [Target is getting crushed by Walmart. Here are the reasons why.](https://www.marketwatch.com/bulletins/redirect/go?g=84bf2456-61d4-437d-8231-0d5fa953aad2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 12:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are you middle class? No, you’re not. Here’s why.](https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 22:39
+
+#### [Furniture companies’ stocks fall as Trump promises tariffs for the sector](https://www.marketwatch.com/story/furniture-companies-stocks-fall-as-trump-promises-tariffs-for-the-sector-01aeff10?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 21:41
+
+#### [Intel agrees to 10% U.S. government stake. It may not be the last chip company to do so.](https://www.marketwatch.com/story/intel-agrees-to-u-s-government-stake-trump-says-why-it-may-not-be-the-last-chip-company-to-do-so-ed824ca0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 21:32
+
+#### [Retirees: The news from Jackson Hole is ominous for you](https://www.marketwatch.com/story/retirees-the-news-from-jackson-hole-is-ominous-for-you-9ca906f0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 21:28
+
+#### [I’m a widow living off Social Security. I have $200K invested. Why does my broker ignore me?](https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 21:00
+
+#### [As a nurse, I’ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.](https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 20:29
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Aug 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 08:33:28 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 23:23:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>究竟会花落谁家？DeepSeek最新大模型瞄准了下一代国产AI芯片</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-2</link>
-      <description>&lt;![CDATA[究竟会花落谁家？DeepSeek最新大模型瞄准了下一代国产AI芯片]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 13:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-2</guid>
+      <title>NASA、IBM打造日地物理学首个开放式 AI 基础模型，用九年观测训练提升约16%耀斑预测准确率</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-11</link>
+      <description>&lt;![CDATA[NASA、IBM打造日地物理学首个开放式 AI 基础模型，用九年观测训练提升约16%耀斑预测准确率]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>球首款AI原生游戏引擎再进化：GTA6再不来，我们就AI一个</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-10</link>
-      <description>&lt;![CDATA[球首款AI原生游戏引擎再进化：GTA6再不来，我们就AI一个]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-10</guid>
+      <title>The Download: Google’s AI energy expenditure, and handing over DNA data to the police</title>
+      <link>https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/</link>
+      <description>&lt;![CDATA[The Download: Google’s AI energy expenditure, and handing over DNA data to the police]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>即梦推出“智能多帧”功能 突破AI视频长镜头创作瓶颈</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-8</link>
-      <description>&lt;![CDATA[即梦推出“智能多帧”功能 突破AI视频长镜头创作瓶颈]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-8</guid>
+      <title>Meet the researcher hosting a scientific conference by and for AI</title>
+      <link>https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/</link>
+      <description>&lt;![CDATA[Meet the researcher hosting a scientific conference by and for AI]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从繁杂技巧到极简方案：ROLL团队带来RL4LLM新实践</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-3</link>
-      <description>&lt;![CDATA[从繁杂技巧到极简方案：ROLL团队带来RL4LLM新实践]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-3</guid>
+      <title>The case against humans in space</title>
+      <link>https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/</link>
+      <description>&lt;![CDATA[The case against humans in space]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌技术报告披露大模型能耗：响应一次相当于微波炉叮一秒</title>
-      <link>https://www.qbitai.com/2025/08/325035.html</link>
-      <description>&lt;![CDATA[谷歌技术报告披露大模型能耗：响应一次相当于微波炉叮一秒]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 06:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325035.html</guid>
+      <title>I gave the police access to my DNA—and maybe some of yours</title>
+      <link>https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/</link>
+      <description>&lt;![CDATA[I gave the police access to my DNA—and maybe some of yours]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里全新AI IDE现在免费用：超强上下文理解，覆盖整个代码库</title>
-      <link>https://www.qbitai.com/2025/08/324871.html</link>
-      <description>&lt;![CDATA[阿里全新AI IDE现在免费用：超强上下文理解，覆盖整个代码库]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 06:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324871.html</guid>
+      <title>只有5%AI项目在挣钱！MIT最新报告印证奥特曼警告</title>
+      <link>https://www.qbitai.com/2025/08/325147.html</link>
+      <description>&lt;![CDATA[只有5%AI项目在挣钱！MIT最新报告印证奥特曼警告]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 09:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325147.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>KDD 2025 Best Paper Runner-Up | EI-BERT：超紧凑语言模型压缩框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-9</link>
-      <description>&lt;![CDATA[KDD 2025 Best Paper Runner-Up | EI-BERT：超紧凑语言模型压缩框架]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-9</guid>
+      <title>“智元机器人收购A股上市公司是创新需要…现金流能撑三年”</title>
+      <link>https://www.qbitai.com/2025/08/325139.html</link>
+      <description>&lt;![CDATA[“智元机器人收购A股上市公司是创新需要…现金流能撑三年”]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325139.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从实验室到餐桌：Robert Langer团队杨昕博士用新材料破解全球「隐性饥饿」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-7</link>
-      <description>&lt;![CDATA[从实验室到餐桌：Robert Langer团队杨昕博士用新材料破解全球「隐性饥饿」]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>那些让你「活人微死」的工作日，终于有救了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-6</link>
-      <description>&lt;![CDATA[那些让你「活人微死」的工作日，终于有救了]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Cursor为Blackwell从零构建MXFP8内核，MoE层提速3.5倍，端到端训练提速1.5倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-5</link>
-      <description>&lt;![CDATA[Cursor为Blackwell从零构建MXFP8内核，MoE层提速3.5倍，端到端训练提速1.5倍]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-5</guid>
+      <title>突破Agent长程推理效率瓶颈！MIT&amp;NUS联合推出强化学习新训练方法</title>
+      <link>https://www.qbitai.com/2025/08/325129.html</link>
+      <description>&lt;![CDATA[突破Agent长程推理效率瓶颈！MIT&amp;NUS联合推出强化学习新训练方法]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 08:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325129.html</guid>
       <category>AI</category>
     </item>
   </channel>

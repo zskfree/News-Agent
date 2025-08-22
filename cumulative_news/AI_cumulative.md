@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-22 08:27
+**最后更新时间**: 2025-08-22 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-22 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [NASA、IBM打造日地物理学首个开放式 AI 基础模型，用九年观测训练提升约16%耀斑预测准确率](https://www.jiqizhixin.com/articles/2025-08-22-11)
+**发布时间**: 2025-08-22 17:04
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Google’s AI energy expenditure, and handing over DNA data to the police](https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/)
+**发布时间**: 2025-08-22 12:10
+
+#### [Meet the researcher hosting a scientific conference by and for AI](https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/)
+**发布时间**: 2025-08-22 11:00
+
+#### [The case against humans in space](https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/)
+**发布时间**: 2025-08-22 10:00
+
+#### [I gave the police access to my DNA—and maybe some of yours](https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/)
+**发布时间**: 2025-08-22 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [只有5%AI项目在挣钱！MIT最新报告印证奥特曼警告](https://www.qbitai.com/2025/08/325147.html)
+**发布时间**: 2025-08-22 09:27
+
+#### [“智元机器人收购A股上市公司是创新需要…现金流能撑三年”](https://www.qbitai.com/2025/08/325139.html)
+**发布时间**: 2025-08-22 09:12
+
+#### [突破Agent长程推理效率瓶颈！MIT&NUS联合推出强化学习新训练方法](https://www.qbitai.com/2025/08/325129.html)
+**发布时间**: 2025-08-22 08:35
+
+#### [OpenAI头号叛徒，竟然是自学的AI?](https://www.qbitai.com/2025/08/325107.html)
+**发布时间**: 2025-08-22 08:09
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Seeing Images Through the Eyes of Decision Trees](https://machinelearningmastery.com/seeing-images-through-the-eyes-of-decision-trees/)
+**发布时间**: 2025-08-21 13:59
+
+#### [7 Pandas Tricks to Improve Your Machine Learning Model Development](https://machinelearningmastery.com/7-pandas-tricks-to-improve-your-machine-learning-model-development/)
+**发布时间**: 2025-08-21 12:00
+
+#### [A Practical Guide to Handling Out-of-Memory Data in Python](https://machinelearningmastery.com/a-practical-guide-to-handling-out-of-memory-data-in-python/)
+**发布时间**: 2025-08-20 12:00
+
+#### [The Bias-Variance Trade-Off: A Visual Explainer](https://machinelearningmastery.com/the-bias-variance-trade-off-a-visual-explainer/)
+**发布时间**: 2025-08-19 12:00
+
+#### [How to Diagnose Why Your Classification Model Fails](https://machinelearningmastery.com/how-to-diagnose-why-your-classification-model-fails/)
+**发布时间**: 2025-08-18 13:59
+
+#### [7 NumPy Tricks You Didn’t Know You Needed](https://machinelearningmastery.com/7-numpy-tricks-you-didnt-know-you-needed/)
+**发布时间**: 2025-08-18 12:00
+
+#### [7 Matplotlib Tricks to Better Visualize Your Machine Learning Models](https://machinelearningmastery.com/7-matplotlib-tricks-to-better-visualize-your-machine-learning-models/)
+**发布时间**: 2025-08-14 15:11
 
 ---
 

@@ -1,7 +1,175 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-22 08:32
+**最后更新时间**: 2025-08-22 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-22 23:23)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MIT报告称95%的AI投资“零回报”，Meta随即叫停AI招聘！网友：砸钱抢人的是你，说有泡沫的还是你！](https://www.infoq.cn/article/psG3fNXJWHUPA6OOcBE0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-23 07:00
+
+#### [创始人跑路一年后，员工接盘把这家AI公司干到年入破亿！如今想含泪甩卖：真的“难以承受”](https://www.infoq.cn/article/8J1JB9HRLjUzkXSVrTJC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-22 18:00
+
+#### [Container Use：一种用于独立的并行编码代理的新工具](https://www.infoq.cn/article/CMqJsVDoZvqSr4BiG2JQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-22 16:57
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)
+**发布时间**: 2025-08-22 22:20
+
+#### [US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
+**发布时间**: 2025-08-22 21:45
+
+#### [Netflix wants its partners to follow these rules when using gen AI](https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines)
+**发布时间**: 2025-08-22 21:22
+
+#### [Bluesky blocks Mississippi under new age verification law](https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law)
+**发布时间**: 2025-08-22 21:09
+
+#### [Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)
+**发布时间**: 2025-08-22 21:07
+
+#### [The power shift inside OpenAI](https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift)
+**发布时间**: 2025-08-22 20:30
+
+#### [The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+**发布时间**: 2025-08-22 20:03
+
+#### [Workers need better protections from the heat](https://www.theverge.com/news/764463/heat-stress-health-work-protections)
+**发布时间**: 2025-08-22 19:03
+
+#### [Abxylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/abxylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)
+**发布时间**: 2025-08-22 18:24
+
+#### [Microsoft tests letting you resume Android apps on Windows 11](https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11)
+**发布时间**: 2025-08-22 18:09
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Bluesky Goes Dark in Mississippi Over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
+**发布时间**: 2025-08-22 22:16
+
+#### [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)
+**发布时间**: 2025-08-22 21:54
+
+#### [The Best Big Screen Chromebook Is on Sale Now](https://www.wired.com/story/acer-cx15-deal/)
+**发布时间**: 2025-08-22 17:55
+
+#### [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+**发布时间**: 2025-08-22 17:00
+
+#### [Join Our Next Livestream: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
+**发布时间**: 2025-08-22 16:53
+
+#### [At This Point, It’s Impossible to Know What the Trump Phone Looks Like](https://www.wired.com/story/trump-phone-t1-samsung-spigen/)
+**发布时间**: 2025-08-22 15:08
+
+#### [Astronomer’s New CEO Speaks—Yes, About That](https://www.wired.com/story/astronomers-new-ceo-speaks-coldplay/)
+**发布时间**: 2025-08-22 15:00
+
+#### [Best Massagers for When You’d Rather Not Pay Spa Prices (2025)](https://www.wired.com/gallery/the-best-massagers/)
+**发布时间**: 2025-08-22 14:00
+
+#### [Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever](https://www.wired.com/review/rad-power-bikes-radrunner-max/)
+**发布时间**: 2025-08-22 13:00
+
+#### [The Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+**发布时间**: 2025-08-22 12:30
+
+#### [This Extremely Cute Bean Wants to Help You Stop Doomscrolling](https://www.wired.com/story/this-extremely-cute-bean-wants-to-help-you-stop-doomscrolling/)
+**发布时间**: 2025-08-22 11:00
+
+#### [Lenovo ThinkBook Plus Gen 6 Rollable Review: Like Magic](https://www.wired.com/review/lenovo-thinkbook-plus-gen-6-rollable/)
+**发布时间**: 2025-08-22 11:00
+
+#### [What Is Down Alternative and Who Should Buy It? Experts Explain (2025)](https://www.wired.com/story/what-is-down-alternative/)
+**发布时间**: 2025-08-22 10:38
+
+#### [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)
+**发布时间**: 2025-08-22 10:00
+
+#### [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
+**发布时间**: 2025-08-22 10:00
+
+#### [Automaker Geely Launched Its Own Satellites Into Space, Highlighting China’s Ambitions](https://www.wired.com/story/geely-satellites-china-auto-ambitions/)
+**发布时间**: 2025-08-22 10:00
+
+#### [Scientists Find a New Moon Orbiting Uranus](https://www.wired.com/story/new-moon-identified-on-uranus-orbiting-close-to-its-ring-system/)
+**发布时间**: 2025-08-22 09:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [天域半导体：业绩断崖式崩塌，毛利率骤跌至-72%，大客户订单急缩隐忧重重｜IPO观察](https://www.tmtpost.com/7665750.html)
+**发布时间**: 2025-08-22 21:48
+
+#### [麦济生物：8年“烧”8亿元，仍未有产品商业化，公司早已资不抵债｜IPO观察](https://www.tmtpost.com/7665771.html)
+**发布时间**: 2025-08-22 21:47
+
+#### [疫苗收入“膝盖斩”、九价上市即内卷，万泰生物“第二曲线”倒计时丨看财报](https://www.tmtpost.com/7669411.html)
+**发布时间**: 2025-08-22 21:44
+
+#### [股价吹“妖风”难掩盈利困局，吉视传媒2.3亿巨亏拷问转型成色 | 看财报](https://www.tmtpost.com/7669296.html)
+**发布时间**: 2025-08-22 20:24
+
+#### [安必平：陷集采泥潭由盈转亏，转型三箭齐发难阻原始股东“用脚投票”｜看财报](https://www.tmtpost.com/7669232.html)
+**发布时间**: 2025-08-22 19:56
+
+#### [通宝光电：业绩高度依赖上汽通用五菱，高毛利率逆势反超同行，低研发投入背后逻辑待解｜IPO观察](https://www.tmtpost.com/7666676.html)
+**发布时间**: 2025-08-22 19:41
+
+#### [自动驾驶商业化破局，为何物流领域率先“跑通”？](https://www.tmtpost.com/7669021.html)
+**发布时间**: 2025-08-22 19:37
+
+#### [国行iPhone 17不是印度造，果粉悬着的心终于放下了](https://www.tmtpost.com/7668912.html)
+**发布时间**: 2025-08-22 19:34
+
+#### [从标配到取消，行政酒廊“不香”了么？](https://www.tmtpost.com/7668553.html)
+**发布时间**: 2025-08-22 19:33
+
+#### [国产半导体设备，动作频频](https://www.tmtpost.com/7669161.html)
+**发布时间**: 2025-08-22 19:25
+
+#### [机器人爆发、汽车下降，速腾聚创开始讲新故事](https://www.tmtpost.com/7668800.html)
+**发布时间**: 2025-08-22 19:25
+
+#### [美股指数持续繁荣，下半年如何布局？| 巴伦菁英月谈会](https://www.tmtpost.com/7669198.html)
+**发布时间**: 2025-08-22 19:11
+
+#### [外卖混战中的宿迁餐饮业：泡沫是如何破灭的](https://www.tmtpost.com/7668886.html)
+**发布时间**: 2025-08-22 19:10
+
+#### [小红书名媛捧红的BeBeBus：正被闲鱼和代工厂“拆台”](https://www.tmtpost.com/7668885.html)
+**发布时间**: 2025-08-22 19:10
+
+#### [阿里上汽"养大"的斑马智行，要赴港单飞了](https://www.tmtpost.com/7669178.html)
+**发布时间**: 2025-08-22 19:10
+
+#### [高端消费遇冷，火爆的Crocs也开始玩不转了？](https://www.tmtpost.com/7668890.html)
+**发布时间**: 2025-08-22 19:10
+
+#### [“失宠”多年的硬科技，又成了资本的“小甜甜”](https://www.tmtpost.com/7669168.html)
+**发布时间**: 2025-08-22 19:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「霞鹜」系列字体作者都装了啥？](https://sspai.com/prime/story/zhuanglesha-250822)
+**发布时间**: 2025-08-22 19:37
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/102041)
+**发布时间**: 2025-08-22 18:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [可灵AI单季营收超2.5亿，快手财报里的「AI含金量」有多高？](http://www.geekpark.net/news/353005)
+**发布时间**: 2025-08-22 19:32
+
+#### [1 个月，2 场胜仗，李斌从「斌子」变成「斌神」](http://www.geekpark.net/news/352997)
+**发布时间**: 2025-08-22 16:50
 
 ---
 
