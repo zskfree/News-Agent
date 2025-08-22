@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Aug 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 05:22:57 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 08:34:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek V3.1 发布：更强的 Agent ，更贵的 API；多家网约车平台集体降抽成；影石发布 4K 画质「口袋相机」｜极客早知道</title>
-      <link>http://www.geekpark.net/news/352962</link>
-      <description>&lt;![CDATA[DeepSeek V3.1 发布：更强的 Agent ，更贵的 API；多家网约车平台集体降抽成；影石发布 4K 画质「口袋相机」｜极客早知道]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352962</guid>
+      <title>拆解途虎中报：逆势增长背后，技术复利造就最强护城河</title>
+      <link>https://www.tmtpost.com/7668033.html</link>
+      <description>&lt;![CDATA[拆解途虎中报：逆势增长背后，技术复利造就最强护城河]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668033.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计</title>
-      <link>http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html</link>
-      <description>&lt;![CDATA[科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:17:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html</guid>
+      <title>对话小米 AI 眼镜负责人：20 天卖光库存，但属于产品的「长跑」才刚开始</title>
+      <link>http://www.geekpark.net/news/352979</link>
+      <description>&lt;![CDATA[对话小米 AI 眼镜负责人：20 天卖光库存，但属于产品的「长跑」才刚开始]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 12:21:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/352979</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>桂林银子岩景区发布全球首款AI伴游财神，开创中国文旅产业AI深度应用新样本</title>
-      <link>https://www.tmtpost.com/7668353.html</link>
-      <description>&lt;![CDATA[桂林银子岩景区发布全球首款AI伴游财神，开创中国文旅产业AI深度应用新样本]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7668353.html</guid>
+      <title>East Buy Stock Pulls Back Amid Rumors, Despite Strong Growth from Self-Operated Business</title>
+      <link>https://www.tmtpost.com/7668925.html</link>
+      <description>&lt;![CDATA[East Buy Stock Pulls Back Amid Rumors, Despite Strong Growth from Self-Operated Business]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668925.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>抵制AI，CEO炒掉了80%的员工！老板亲自面试新人，自曝工程师可不懂语言但4天就能交付产品</title>
-      <link>https://www.infoq.cn/article/4qHettXZUuWh4S9hGxZ3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[抵制AI，CEO炒掉了80%的员工！老板亲自面试新人，自曝工程师可不懂语言但4天就能交付产品]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4qHettXZUuWh4S9hGxZ3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI反哺：富了腾讯，救了百度</title>
+      <link>https://www.tmtpost.com/7668482.html</link>
+      <description>&lt;![CDATA[AI反哺：富了腾讯，救了百度]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668482.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里官宣编程平台 Qoder：可一次检索10万个代码文件，10分钟完成网站前后端开发</title>
-      <link>https://www.infoq.cn/article/aAyB3TvfhJedxVUkqSMC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里官宣编程平台 Qoder：可一次检索10万个代码文件，10分钟完成网站前后端开发]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aAyB3TvfhJedxVUkqSMC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>8月22日A股分析：沪指涨1.45%报3825.76点，两市合计成交25467.1亿元，资金流入最多的行业板块为半导体</title>
+      <link>https://www.tmtpost.com/7668858.html</link>
+      <description>&lt;![CDATA[8月22日A股分析：沪指涨1.45%报3825.76点，两市合计成交25467.1亿元，资金流入最多的行业板块为半导体]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668858.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：荣耀发布小折叠屏手机 Magic V Flip2 等</title>
-      <link>https://sspai.com/post/102019</link>
-      <description>&lt;![CDATA[派早报：荣耀发布小折叠屏手机 Magic V Flip2 等]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102019</guid>
+      <title>Hong Kong Stocks Rally as HKEX Posts Record First-Half Performance</title>
+      <link>https://www.tmtpost.com/7668851.html</link>
+      <description>&lt;![CDATA[Hong Kong Stocks Rally as HKEX Posts Record First-Half Performance]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668851.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Manus 最新对话全文：尝试 Agent 支付，公司 RRR 近 1 亿美元</title>
-      <link>http://www.geekpark.net/news/352981</link>
-      <description>&lt;![CDATA[Manus 最新对话全文：尝试 Agent 支付，公司 RRR 近 1 亿美元]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/352981</guid>
+      <title>市值重回4000亿，但恒瑞医药还没有赢</title>
+      <link>https://www.tmtpost.com/7668284.html</link>
+      <description>&lt;![CDATA[市值重回4000亿，但恒瑞医药还没有赢]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668284.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TSMC Said to Discuss Returning Government Subsidies if Trump Admin. Seeks Stake In</title>
-      <link>https://www.tmtpost.com/7668674.html</link>
-      <description>&lt;![CDATA[TSMC Said to Discuss Returning Government Subsidies if Trump Admin. Seeks Stake In]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7668674.html</guid>
+      <title>AI上市公司集体瞄向盈利：第四范式又吸金27亿，出门问问仅亏290万</title>
+      <link>https://www.tmtpost.com/7667988.html</link>
+      <description>&lt;![CDATA[AI上市公司集体瞄向盈利：第四范式又吸金27亿，出门问问仅亏290万]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7667988.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>South Korea Denies Possible U.S. Government's Stake Acquiring in Exchange for CHIPS Act Funds</title>
-      <link>https://www.tmtpost.com/7668659.html</link>
-      <description>&lt;![CDATA[South Korea Denies Possible U.S. Government's Stake Acquiring in Exchange for CHIPS Act Funds]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 12:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7668659.html</guid>
+      <title>阿特斯，为何能在今年第二季度实现绝地反击？</title>
+      <link>https://www.tmtpost.com/7668256.html</link>
+      <description>&lt;![CDATA[阿特斯，为何能在今年第二季度实现绝地反击？]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668256.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>还清债务后，罗永浩为什么还要在B站“抛头露面”？</title>
-      <link>https://www.tmtpost.com/7668498.html</link>
-      <description>&lt;![CDATA[还清债务后，罗永浩为什么还要在B站“抛头露面”？]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7668498.html</guid>
+      <title>AgiBot Unveils Next-Generation Humanoid Robots and Accelerates Global Expansion</title>
+      <link>https://www.tmtpost.com/7668746.html</link>
+      <description>&lt;![CDATA[AgiBot Unveils Next-Generation Humanoid Robots and Accelerates Global Expansion]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7668746.html</guid>
       <category>Technology</category>
     </item>
   </channel>

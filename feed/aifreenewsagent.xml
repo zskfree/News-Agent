@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 05:22:09 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 08:33:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling</title>
-      <link>https://arxiv.org/abs/2508.15204</link>
-      <description>&lt;![CDATA[R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15204</guid>
+      <title>究竟会花落谁家？DeepSeek最新大模型瞄准了下一代国产AI芯片</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-2</link>
+      <description>&lt;![CDATA[究竟会花落谁家？DeepSeek最新大模型瞄准了下一代国产AI芯片]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training</title>
-      <link>https://arxiv.org/abs/2508.14904</link>
-      <description>&lt;![CDATA[Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.14904</guid>
+      <title>球首款AI原生游戏引擎再进化：GTA6再不来，我们就AI一个</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-10</link>
+      <description>&lt;![CDATA[球首款AI原生游戏引擎再进化：GTA6再不来，我们就AI一个]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Disentangling the Drivers of LLM Social Conformity: An Uncertainty-Moderated Dual-Process Mechanism</title>
-      <link>https://arxiv.org/abs/2508.14918</link>
-      <description>&lt;![CDATA[Disentangling the Drivers of LLM Social Conformity: An Uncertainty-Moderated Dual-Process Mechanism]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.14918</guid>
+      <title>即梦推出“智能多帧”功能 突破AI视频长镜头创作瓶颈</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-8</link>
+      <description>&lt;![CDATA[即梦推出“智能多帧”功能 突破AI视频长镜头创作瓶颈]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism</title>
-      <link>https://arxiv.org/abs/2508.15030</link>
-      <description>&lt;![CDATA[Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15030</guid>
+      <title>从繁杂技巧到极简方案：ROLL团队带来RL4LLM新实践</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-3</link>
+      <description>&lt;![CDATA[从繁杂技巧到极简方案：ROLL团队带来RL4LLM新实践]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Don't Think Twice! Over-Reasoning Impairs Confidence Calibration</title>
-      <link>https://arxiv.org/abs/2508.15050</link>
-      <description>&lt;![CDATA[Don't Think Twice! Over-Reasoning Impairs Confidence Calibration]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15050</guid>
+      <title>谷歌技术报告披露大模型能耗：响应一次相当于微波炉叮一秒</title>
+      <link>https://www.qbitai.com/2025/08/325035.html</link>
+      <description>&lt;![CDATA[谷歌技术报告披露大模型能耗：响应一次相当于微波炉叮一秒]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 06:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325035.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Argumentation for Explainable Workforce Optimisation (with Appendix)</title>
-      <link>https://arxiv.org/abs/2508.15118</link>
-      <description>&lt;![CDATA[Argumentation for Explainable Workforce Optimisation (with Appendix)]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15118</guid>
+      <title>阿里全新AI IDE现在免费用：超强上下文理解，覆盖整个代码库</title>
+      <link>https://www.qbitai.com/2025/08/324871.html</link>
+      <description>&lt;![CDATA[阿里全新AI IDE现在免费用：超强上下文理解，覆盖整个代码库]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 06:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/324871.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists</title>
-      <link>https://arxiv.org/abs/2508.15126</link>
-      <description>&lt;![CDATA[aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15126</guid>
+      <title>KDD 2025 Best Paper Runner-Up | EI-BERT：超紧凑语言模型压缩框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-9</link>
+      <description>&lt;![CDATA[KDD 2025 Best Paper Runner-Up | EI-BERT：超紧凑语言模型压缩框架]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support</title>
-      <link>https://arxiv.org/abs/2508.15192</link>
-      <description>&lt;![CDATA[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15192</guid>
+      <title>从实验室到餐桌：Robert Langer团队杨昕博士用新材料破解全球「隐性饥饿」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-7</link>
+      <description>&lt;![CDATA[从实验室到餐桌：Robert Langer团队杨昕博士用新材料破解全球「隐性饥饿」]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Coarse-to-Fine Grounded Memory for LLM Agent Planning</title>
-      <link>https://arxiv.org/abs/2508.15305</link>
-      <description>&lt;![CDATA[Coarse-to-Fine Grounded Memory for LLM Agent Planning]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15305</guid>
+      <title>那些让你「活人微死」的工作日，终于有救了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-6</link>
+      <description>&lt;![CDATA[那些让你「活人微死」的工作日，终于有救了]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>RETAIL: Towards Real-world Travel Planning for Large Language Models</title>
-      <link>https://arxiv.org/abs/2508.15335</link>
-      <description>&lt;![CDATA[RETAIL: Towards Real-world Travel Planning for Large Language Models]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.15335</guid>
+      <title>Cursor为Blackwell从零构建MXFP8内核，MoE层提速3.5倍，端到端训练提速1.5倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-22-5</link>
+      <description>&lt;![CDATA[Cursor为Blackwell从零构建MXFP8内核，MoE层提速3.5倍，端到端训练提速1.5倍]]&gt;</description>
+      <pubDate>Fri, 22 Aug 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-5</guid>
       <category>AI</category>
     </item>
   </channel>
