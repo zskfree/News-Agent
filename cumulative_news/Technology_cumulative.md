@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-23 08:24
+**最后更新时间**: 2025-08-23 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-23 23:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠 AI 年入千万了](https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-24 07:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave](https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/)
+**发布时间**: 2025-08-23 22:49
+
+#### [Best Hair Dryer: Rigorous Testing in Real Apartments (2025)](https://www.wired.com/gallery/best-hair-dryers/)
+**发布时间**: 2025-08-23 14:30
+
+#### [Best GoPro Camera (2025): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+**发布时间**: 2025-08-23 14:30
+
+#### [How to Build a PC (2025): Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
+**发布时间**: 2025-08-23 13:03
+
+#### [9 Best Keyboards (2025), Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
+**发布时间**: 2025-08-23 12:30
+
+#### [25 Best Early Labor Day Sales on WIRED-Tested Gear (2025)](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
+**发布时间**: 2025-08-23 11:44
+
+#### [Climate Change Is Bringing Legionnaire’s Disease to a Town Near You](https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/)
+**发布时间**: 2025-08-23 11:00
+
+#### [US Government Seeks Medical Records of Trans Youth](https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/)
+**发布时间**: 2025-08-23 10:30
+
+#### [I Can’t Stop Playing Duolingo Chess](https://www.wired.com/story/duolingo-chess/)
+**发布时间**: 2025-08-23 10:30
+
+#### [Gear News of the Week: Always-Recording Smart Glasses, and Google Teases a New Nest Speaker](https://www.wired.com/story/gear-news-of-the-week-always-recording-smart-glasses-and-google-teases-a-new-nest-speaker/)
+**发布时间**: 2025-08-23 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中慧生物登陆港股一周翻三倍，350元一针的流感疫苗成“印钞机”](https://www.tmtpost.com/7669234.html)
+**发布时间**: 2025-08-23 20:00
+
+#### [全球算力第二，市值却只值一半：灿谷的错位行情还能持续多久？](https://www.tmtpost.com/7669488.html)
+**发布时间**: 2025-08-23 20:00
+
+#### [人才缺口大，无人机配送不再是“概念秀”](https://www.tmtpost.com/7669796.html)
+**发布时间**: 2025-08-23 18:43
+
+#### [“不过包退”的中公教育，为什么上不了岸？](https://www.tmtpost.com/7669497.html)
+**发布时间**: 2025-08-23 17:06
+
+#### [稳中求变，吉比特又一次过山车成功](https://www.tmtpost.com/7669503.html)
+**发布时间**: 2025-08-23 17:06
+
+#### [友邦保险受益港险热，但泰国动荡亏了7.5亿美元](https://www.tmtpost.com/7669505.html)
+**发布时间**: 2025-08-23 17:06
+
+#### [IO+ADC拓荒第一人，Padcev大进击](https://www.tmtpost.com/7669689.html)
+**发布时间**: 2025-08-23 17:06
+
+#### [周期有起伏，人无再少年，怎么解？](https://www.tmtpost.com/7669722.html)
+**发布时间**: 2025-08-23 16:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年轻的朋友，咱们不要太心急：关于耐心的 3 点思考](https://sspai.com/post/101302)
+**发布时间**: 2025-08-23 17:42
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Bose’s compact TV Speaker is more than $100 off right now](https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale)
+**发布时间**: 2025-08-23 16:41
+
+#### [What&#8217;s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)
+**发布时间**: 2025-08-23 15:00
+
+#### [The Fairphone 6 no longer feels like a compromise (except in the US)](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)
+**发布时间**: 2025-08-23 13:30
+
+#### [Ninja Gaiden: Ragebound is a perfect reimagining of the classic series](https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc)
+**发布时间**: 2025-08-23 13:00
+
+#### [Will Trump help 4Chan escape the UK’s internet police?](https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump)
+**发布时间**: 2025-08-23 12:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [日本中年返贫史，中年危机遇上失业潮，他们如何度过？](http://www.huxiu.com/article/4715143.html?f=wangzhan)
+**发布时间**: 2025-08-23 16:00
 
 ---
 

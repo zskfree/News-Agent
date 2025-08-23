@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Aug 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Aug 2025 08:24:09 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 23:18:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI首个蛋白质模型披露更多细节，改进诺奖研究成果，表达量提升50倍</title>
-      <link>https://www.qbitai.com/2025/08/325292.html</link>
-      <description>&lt;![CDATA[OpenAI首个蛋白质模型披露更多细节，改进诺奖研究成果，表达量提升50倍]]&gt;</description>
-      <pubDate>Sat, 23 Aug 2025 05:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325292.html</guid>
+      <title>「只参与，不参赛」奖牌数却仅次于宇树，这个幕后玩家如何做到的？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-23-5</link>
+      <description>&lt;![CDATA[「只参与，不参赛」奖牌数却仅次于宇树，这个幕后玩家如何做到的？]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-23-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>让AI作画自己纠错！随机丢模块就能提升生成质量，告别塑料感废片</title>
-      <link>https://www.qbitai.com/2025/08/325171.html</link>
-      <description>&lt;![CDATA[让AI作画自己纠错！随机丢模块就能提升生成质量，告别塑料感废片]]&gt;</description>
-      <pubDate>Sat, 23 Aug 2025 05:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325171.html</guid>
+      <title>OpenAI重大发现：GPT-4b micro改造诺奖研究，山中因子重编程效率提高50倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-23-4</link>
+      <description>&lt;![CDATA[OpenAI重大发现：GPT-4b micro改造诺奖研究，山中因子重编程效率提高50倍]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 19:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-23-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>第一名方案公开，代码智能体安全竞赛，普渡大学拿下90%攻击成功率</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-23-3</link>
+      <description>&lt;![CDATA[第一名方案公开，代码智能体安全竞赛，普渡大学拿下90%攻击成功率]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-23-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Coinbase强制全员上手AI工具，拒绝者直接开除</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-23-2</link>
+      <description>&lt;![CDATA[Coinbase强制全员上手AI工具，拒绝者直接开除]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-23-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Chain-of-Agents: OPPO推出通用智能体模型新范式，多榜单SOTA，模型代码数据全开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-23</link>
+      <description>&lt;![CDATA[Chain-of-Agents: OPPO推出通用智能体模型新范式，多榜单SOTA，模型代码数据全开源]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-23</guid>
       <category>AI</category>
     </item>
   </channel>

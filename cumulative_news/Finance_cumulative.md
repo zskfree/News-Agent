@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-23 05:32
+**最后更新时间**: 2025-08-23 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-23 23:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As a nurse, I’ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.](https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 20:38
+
+#### [‘I’ve struggled in every way’: My brother passed away and I’m $28,000 in debt. How do I get out of this mess?](https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 20:12
+
+#### [Do you have a lottery addiction? With the Powerball jackpot now at $700 million, this man’s story may be telling.](https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 18:51
+
+#### [How social media convinces investors they’re the next Warren Buffett — or smarter](https://www.marketwatch.com/story/how-social-media-convinces-investors-theyre-the-next-warren-buffett-or-smarter-a1f258c6?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 18:28
+
+#### [Suze Orman reveals her favorite stock right now and the investing mistake that shaped her strategy](https://www.marketwatch.com/story/suze-orman-is-known-for-money-advice-now-shes-sharing-her-stock-picks-and-biggest-investing-mistake-62fcebbc?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 18:09
+
+#### [Here’s how much you’d pay to get Social Security’s inflation protection on your own](https://www.marketwatch.com/story/this-inflation-adjusted-annuity-beats-anything-insurance-companies-offer-11bde5cf?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 17:32
+
+#### [Why you can lose a lot of money from Tech’s AI splurge](https://www.marketwatch.com/story/why-you-can-lose-a-lot-of-money-from-techs-ai-splurge-485abfa4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-23 17:27
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Here's how some first-time home buyers were able to achieve the American dream](https://www.marketwatch.com/bulletins/redirect/go?g=efc8db1f-9a99-43c6-9880-974910ad6e8a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-23 14:41
+
+#### [Fast-food chains are pressuring their margins to stay below a $10 price point](https://www.marketwatch.com/bulletins/redirect/go?g=41b666ff-f9df-4eaf-a001-044d6d84307b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-23 13:40
 
 ---
 

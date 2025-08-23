@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Aug 2025 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Aug 2025 08:24:09 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 23:19:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump Admin. Takes 10% Stakes in Intel In Exchange For $11.1 Billion CHIPS Act Funds</title>
-      <link>https://www.tmtpost.com/7669780.html</link>
-      <description>&lt;![CDATA[Trump Admin. Takes 10% Stakes in Intel In Exchange For $11.1 Billion CHIPS Act Funds]]&gt;</description>
-      <pubDate>Sat, 23 Aug 2025 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7669780.html</guid>
+      <title>月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠 AI 年入千万了</title>
+      <link>https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠 AI 年入千万了]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave</title>
+      <link>https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/</link>
+      <description>&lt;![CDATA[Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 22:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Best Hair Dryer: Rigorous Testing in Real Apartments (2025)</title>
+      <link>https://www.wired.com/gallery/best-hair-dryers/</link>
+      <description>&lt;![CDATA[Best Hair Dryer: Rigorous Testing in Real Apartments (2025)]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/gallery/best-hair-dryers/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Best GoPro Camera (2025): Compact, Budget, Accessories</title>
+      <link>https://www.wired.com/gallery/best-gopro-hero-camera/</link>
+      <description>&lt;![CDATA[Best GoPro Camera (2025): Compact, Budget, Accessories]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/gallery/best-gopro-hero-camera/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>How to Build a PC (2025): Hardware Suggestions, Instructions, and More</title>
+      <link>https://www.wired.com/story/how-to-build-a-pc/</link>
+      <description>&lt;![CDATA[How to Build a PC (2025): Hardware Suggestions, Instructions, and More]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/how-to-build-a-pc/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>9 Best Keyboards (2025), Tested and Reviewed</title>
+      <link>https://www.wired.com/gallery/best-keyboards/</link>
+      <description>&lt;![CDATA[9 Best Keyboards (2025), Tested and Reviewed]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/gallery/best-keyboards/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>25 Best Early Labor Day Sales on WIRED-Tested Gear (2025)</title>
+      <link>https://www.wired.com/story/best-labor-day-sales-deals-2025/</link>
+      <description>&lt;![CDATA[25 Best Early Labor Day Sales on WIRED-Tested Gear (2025)]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 11:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/best-labor-day-sales-deals-2025/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Climate Change Is Bringing Legionnaire’s Disease to a Town Near You</title>
+      <link>https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/</link>
+      <description>&lt;![CDATA[Climate Change Is Bringing Legionnaire’s Disease to a Town Near You]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>US Government Seeks Medical Records of Trans Youth</title>
+      <link>https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/</link>
+      <description>&lt;![CDATA[US Government Seeks Medical Records of Trans Youth]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>I Can’t Stop Playing Duolingo Chess</title>
+      <link>https://www.wired.com/story/duolingo-chess/</link>
+      <description>&lt;![CDATA[I Can’t Stop Playing Duolingo Chess]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/duolingo-chess/</guid>
       <category>Technology</category>
     </item>
   </channel>
