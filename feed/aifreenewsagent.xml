@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 23:23:39 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 08:23:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 08:24:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NASA、IBM打造日地物理学首个开放式 AI 基础模型，用九年观测训练提升约16%耀斑预测准确率</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-22-11</link>
-      <description>&lt;![CDATA[NASA、IBM打造日地物理学首个开放式 AI 基础模型，用九年观测训练提升约16%耀斑预测准确率]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-22-11</guid>
+      <title>OpenAI首个蛋白质模型披露更多细节，改进诺奖研究成果，表达量提升50倍</title>
+      <link>https://www.qbitai.com/2025/08/325292.html</link>
+      <description>&lt;![CDATA[OpenAI首个蛋白质模型披露更多细节，改进诺奖研究成果，表达量提升50倍]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 05:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325292.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: Google’s AI energy expenditure, and handing over DNA data to the police</title>
-      <link>https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/</link>
-      <description>&lt;![CDATA[The Download: Google’s AI energy expenditure, and handing over DNA data to the police]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Meet the researcher hosting a scientific conference by and for AI</title>
-      <link>https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/</link>
-      <description>&lt;![CDATA[Meet the researcher hosting a scientific conference by and for AI]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The case against humans in space</title>
-      <link>https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/</link>
-      <description>&lt;![CDATA[The case against humans in space]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>I gave the police access to my DNA—and maybe some of yours</title>
-      <link>https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/</link>
-      <description>&lt;![CDATA[I gave the police access to my DNA—and maybe some of yours]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>只有5%AI项目在挣钱！MIT最新报告印证奥特曼警告</title>
-      <link>https://www.qbitai.com/2025/08/325147.html</link>
-      <description>&lt;![CDATA[只有5%AI项目在挣钱！MIT最新报告印证奥特曼警告]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 09:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325147.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>“智元机器人收购A股上市公司是创新需要…现金流能撑三年”</title>
-      <link>https://www.qbitai.com/2025/08/325139.html</link>
-      <description>&lt;![CDATA[“智元机器人收购A股上市公司是创新需要…现金流能撑三年”]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325139.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>突破Agent长程推理效率瓶颈！MIT&amp;NUS联合推出强化学习新训练方法</title>
-      <link>https://www.qbitai.com/2025/08/325129.html</link>
-      <description>&lt;![CDATA[突破Agent长程推理效率瓶颈！MIT&amp;NUS联合推出强化学习新训练方法]]&gt;</description>
-      <pubDate>Fri, 22 Aug 2025 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325129.html</guid>
+      <title>让AI作画自己纠错！随机丢模块就能提升生成质量，告别塑料感废片</title>
+      <link>https://www.qbitai.com/2025/08/325171.html</link>
+      <description>&lt;![CDATA[让AI作画自己纠错！随机丢模块就能提升生成质量，告别塑料感废片]]&gt;</description>
+      <pubDate>Sat, 23 Aug 2025 05:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325171.html</guid>
       <category>AI</category>
     </item>
   </channel>

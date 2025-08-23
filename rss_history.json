@@ -9282,6 +9282,18 @@
         "link": "https://www.qbitai.com/2025/08/325129.html",
         "published_date": "Fri, 22 Aug 2025 08:35:00 GMT",
         "first_seen": "2025-08-22T23:23:39.233183"
+      },
+      "b18ba7383504bafdb85592c4b56aabe38adbce6ebe81829f563db8e1083e13ae": {
+        "title": "OpenAI首个蛋白质模型披露更多细节，改进诺奖研究成果，表达量提升50倍",
+        "link": "https://www.qbitai.com/2025/08/325292.html",
+        "published_date": "Sat, 23 Aug 2025 05:56:00 GMT",
+        "first_seen": "2025-08-23T08:24:09.159039"
+      },
+      "47c8e9dd2d4afc7cde041e5e99d1e755a6d87ccc7900f91dfb3c5ba4365fbe74": {
+        "title": "让AI作画自己纠错！随机丢模块就能提升生成质量，告别塑料感废片",
+        "link": "https://www.qbitai.com/2025/08/325171.html",
+        "published_date": "Sat, 23 Aug 2025 05:47:00 GMT",
+        "first_seen": "2025-08-23T08:24:09.159221"
       }
     },
     "Technology": {
@@ -23888,6 +23900,12 @@
         "link": "https://www.wired.com/story/lenovo-coupon-code/",
         "published_date": "Sat, 23 Aug 2025 05:00:00 GMT",
         "first_seen": "2025-08-23T05:32:48.088746"
+      },
+      "ef75fc86278aa57bf77c449b65fcc668ec9f58374892722d5d1c447a90473c9c": {
+        "title": "Trump Admin. Takes 10% Stakes in Intel In Exchange For $11.1 Billion CHIPS Act Funds",
+        "link": "https://www.tmtpost.com/7669780.html",
+        "published_date": "Sat, 23 Aug 2025 14:04:00 GMT",
+        "first_seen": "2025-08-23T08:24:09.205956"
       }
     },
     "Finance": {
@@ -27224,8 +27242,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-23T05:32:48.038459",
-    "Technology": "2025-08-23T05:33:36.434657",
-    "Finance": "2025-08-23T05:32:48.062711"
+    "AI": "2025-08-23T08:24:09.174060",
+    "Technology": "2025-08-23T08:24:09.213146",
+    "Finance": "2025-08-23T08:24:09.189421"
   }
 }
