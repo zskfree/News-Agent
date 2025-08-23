@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-22 23:23
+**最后更新时间**: 2025-08-23 05:32
+
+---
+
+## 🆕 最新更新 (2025-08-23 05:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Fed Chair Powell's Jackson Hole speech struck an ominous tone for retirees](https://www.marketwatch.com/bulletins/redirect/go?g=d376a5df-1e94-44ec-918e-a4ac80ebd8ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 23:59
+
+#### [Bond market rallies after Powell ‘walked a fine line’ with Jackson Hole speech](https://www.marketwatch.com/bulletins/redirect/go?g=35a31f8b-5ce4-4df8-952f-4b8ba6b37b2a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-22 23:28
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bond market rallies after Powell ‘walked a fine line’ with Jackson Hole speech](https://www.marketwatch.com/story/bond-market-rallies-after-powell-walked-a-fine-line-with-jackson-hole-speech-5ca81fab?mod=mw_rss_topstories)
+**发布时间**: 2025-08-22 23:25
 
 ---
 
