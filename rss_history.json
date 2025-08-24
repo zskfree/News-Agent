@@ -1,84 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3ebe096de55d0bc582e9d2d3b568d97d4d947e55f2b76f85335b8b1b20db4125": {
-        "title": "Trump’s AI Action Plan is a distraction",
-        "link": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/",
-        "published_date": "Thu, 24 Jul 2025 20:15:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038483"
-      },
-      "6d0b604b11aa6b78513b594e66fe95e58fbcae446847522ba6b0a61a9d916df6": {
-        "title": "America’s AI watchdog is losing its bite",
-        "link": "https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/",
-        "published_date": "Thu, 24 Jul 2025 18:59:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038493"
-      },
-      "5f063a1348dd4e56ccae6eaebc1ec53671a4393f34d3ae8264028b2084961e64": {
-        "title": "The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin",
-        "link": "https://www.technologyreview.com/2025/07/24/1120597/the-download-gas-and-oils-role-in-climate-tech-and-using-ai-to-decipher-ancient-latin/",
-        "published_date": "Thu, 24 Jul 2025 12:10:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038526"
-      },
-      "62a4d0a64440f491ee7047bec55fb7cfdc6a76ca3890164dbecc17b31bdeec90": {
-        "title": "What role should oil and gas companies play in climate tech?",
-        "link": "https://www.technologyreview.com/2025/07/24/1120590/oil-gas-climate-tech/",
-        "published_date": "Thu, 24 Jul 2025 10:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.281421"
-      },
-      "59c5e5c9215285cdb0d1486a970606afc10f65ff4fd5698397b1a789457a8e44": {
-        "title": "倒计时3天！锁定直播，共赴2025 WAIC云帆奖颁奖典礼&挚友之夜！",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-24-17",
-        "published_date": "Thu, 24 Jul 2025 17:53:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.281856"
-      },
-      "5d756afe887f38114170d845da2836b2ea622b5d1085e04d7ae87ed513c016fd": {
-        "title": "MeanFlow再下一城，北大提出机器人学习新范式MP1，实现速度与成功率双SOTA",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-24-16",
-        "published_date": "Thu, 24 Jul 2025 17:52:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038451"
-      },
-      "d9e92580314ecddf31d200644f179ec251669f343e7e5e747bdac6fee762cf9c": {
-        "title": "九章云极DataCanvas智算普惠中国行上海首发 推出企业级智能体",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-24-15",
-        "published_date": "Thu, 24 Jul 2025 17:02:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038513"
-      },
-      "134fcb13a023481d061cfdaff2dfba219e1189d162e25304266ffcecd23ddc19": {
-        "title": "Robot, know thyself: New vision-based system teaches machines to understand their bodies",
-        "link": "https://news.mit.edu/2025/vision-based-system-teaches-machines-understand-their-bodies-0724",
-        "published_date": "Thu, 24 Jul 2025 15:30:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038464"
-      },
-      "47325acb3db04149cd660329f9da1ec0c2324d6068bd88af02258f70aa127c85": {
-        "title": "Pedestrians now walk faster and linger less, researchers find",
-        "link": "https://news.mit.edu/2025/pedestrians-now-walk-faster-and-linger-less-researchers-find-0724",
-        "published_date": "Thu, 24 Jul 2025 13:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.285342"
-      },
-      "a0d3a3faa10206fb1ca4f24477ba0faeb09a61dcc9da96c94518ebda3ba7fc5a": {
-        "title": "New machine-learning application to help researchers predict chemical properties",
-        "link": "https://news.mit.edu/2025/chemxploreml-app-helps-predict-chemical-properties-0724",
-        "published_date": "Thu, 24 Jul 2025 13:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038503"
-      },
-      "ec55b081507ccf147cd5374b06fb7a6f9c3906a6cd112f5c17c76905a5cf7d33": {
-        "title": "OpenAI资金链告急！紧急启动300亿美金融资，星际之门岌岌可危",
-        "link": "https://www.qbitai.com/2025/07/312400.html",
-        "published_date": "Thu, 24 Jul 2025 10:38:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038421"
-      },
-      "cd37cba8682fa56a87f096eb93aa9727cb6204e9943b39d1676da8b77fc22ac3": {
-        "title": "突破单token预测局限！南洋理工首次将多token预测引入微调",
-        "link": "https://www.qbitai.com/2025/07/312348.html",
-        "published_date": "Thu, 24 Jul 2025 10:34:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038473"
-      },
-      "81074693c0e5b533d9d93bf2f5f54c63d7eac9adc8c62ba4ffbb16b64f34aef7": {
-        "title": "老黄刚走，全球最强算力Robotaxi方案落地中国",
-        "link": "https://www.qbitai.com/2025/07/312196.html",
-        "published_date": "Thu, 24 Jul 2025 10:32:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.038439"
-      },
       "153d20bb959eed4717f9b9614d34dc76b5cad96cf889f854d80699cf07a71964": {
         "title": "解道奥赛题成本5000美元？陶哲轩警告，AI下一步要规模化的「更便宜」",
         "link": "https://www.jiqizhixin.com/articles/2025-07-25-6",
@@ -9258,309 +9180,15 @@
         "link": "https://www.jiqizhixin.com/articles/2025-08-23",
         "published_date": "Sat, 23 Aug 2025 19:14:00 GMT",
         "first_seen": "2025-08-23T23:18:48.925703"
+      },
+      "5eb0f13460eb27f0d36a1340cc34cea02d2afc292c4a40dc348eaf99d6755853": {
+        "title": "刚刚，马斯克开源Grok 2.5：中国公司才是xAI最大对手",
+        "link": "https://www.qbitai.com/2025/08/325328.html",
+        "published_date": "Sun, 24 Aug 2025 01:31:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.080076"
       }
     },
     "Technology": {
-      "bd48aa66d9c53bd11515d1538692ed1f736ec1b2688789ecafa4f45e42b8bcc9": {
-        "title": "Paramount Has a $1.5 Billion 'South Park' Problem",
-        "link": "https://www.wired.com/story/paramount-has-a-south-park-problem/",
-        "published_date": "Thu, 24 Jul 2025 23:13:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.407790"
-      },
-      "33923607c7b07fe832b989785b35fc94bcada6798a1f8de8b9f52f9a30f6ae0a": {
-        "title": "Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It's a Slippery Slope to More Censorship",
-        "link": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/",
-        "published_date": "Thu, 24 Jul 2025 22:52:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242167"
-      },
-      "dca6d201b95c1d23cf55d193922a0e60ad6c7a29c44a2e1f9dc2780454a523fb": {
-        "title": "The 40 Best Movies on Hulu This Week (August 2025)",
-        "link": "https://www.wired.com/story/best-movies-hulu-right-now/",
-        "published_date": "Thu, 24 Jul 2025 19:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.408505"
-      },
-      "909b35e5a3d882f97c4cba8b073218141902e6978cb99eff947b073feb8092d4": {
-        "title": "The Very Real Case for Brain-Computer Implants",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-the-very-real-case-for-brain-computer-implants/",
-        "published_date": "Thu, 24 Jul 2025 18:38:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242108"
-      },
-      "b3f7f05ef7d7d523fd5e6c445a52dae3e41ea98e08177775d8f802cab81a3e90": {
-        "title": "The ICJ Rules That Failing to Combat Climate Change Could Violate International Law",
-        "link": "https://www.wired.com/story/the-icj-rules-failing-to-combat-climate-could-be-a-violation-of-international-law/",
-        "published_date": "Thu, 24 Jul 2025 16:31:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.409908"
-      },
-      "f633133bdf0deba418b92142bdb489eabfabe8c737c63ef7476cb5718b04e7a2": {
-        "title": "A Premium Luggage Service’s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats",
-        "link": "https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/",
-        "published_date": "Thu, 24 Jul 2025 16:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242132"
-      },
-      "bb0e918abbe84b77a9681c671d56e4ddbab80bcd168a8d3fcacc79b5cf0c2ef6": {
-        "title": "An Inventor Is Injecting Bleach Into Cancerous Tumors—and Wants to Bring the Treatment to the US",
-        "link": "https://www.wired.com/story/dangerous-bleach-injecting-cancer-treatment/",
-        "published_date": "Thu, 24 Jul 2025 15:28:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.412486"
-      },
-      "26be2fde387c33f60338d8b05fd7f6249e48a50ecc97163ba7d1755ef0227b6b": {
-        "title": "Cursor’s New Bugbot Is Designed to Save Vibe Coders From Themselves",
-        "link": "https://www.wired.com/story/cursor-releases-new-ai-tool-for-debugging-code/",
-        "published_date": "Thu, 24 Jul 2025 15:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.413970"
-      },
-      "05069c22137d2a0adc35aabe1790340f4811dd48da954a58d6afe5cc56a7f675": {
-        "title": "No, of Course You Can’t Actually Play the New Lego Game Boy",
-        "link": "https://www.wired.com/story/no-of-course-you-cant-actually-play-the-new-lego-game-boy/",
-        "published_date": "Thu, 24 Jul 2025 14:31:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.415420"
-      },
-      "7bdadaeddd7f43b04b0feda426e68c2d93be9d2511c8d7341b56dad9322b41d2": {
-        "title": "Zenbivy Light Bed Review: Still the Best Backcountry Sleep System",
-        "link": "https://www.wired.com/review/zenbivy-light-bed-2025/",
-        "published_date": "Thu, 24 Jul 2025 13:32:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.417058"
-      },
-      "1a3a580e03e5909d28e255016a62e76fdf433efe7a7d53fb46079ac0135f0678": {
-        "title": "The Kindle Colorsoft Just Got Two More Models",
-        "link": "https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/",
-        "published_date": "Thu, 24 Jul 2025 13:01:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.418491"
-      },
-      "1c9cb65874bca59d97e6d45c7e5b5d7c14237040128a750a2c237e6ffb0058a4": {
-        "title": "SteelSeries Rival 3 Gen 2 Review: Good Budget Gaming Mice",
-        "link": "https://www.wired.com/review/steelseries-rival-3-gen-2/",
-        "published_date": "Thu, 24 Jul 2025 12:30:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.420435"
-      },
-      "1442c14aa1bf4bdc694fbc3dcef7d32e8acbead5a7fb8d5e4bda6750665b4e2b": {
-        "title": "Dynabook Portégé Z40L-N Review: Replaceable Batteries, High Price",
-        "link": "https://www.wired.com/review/dynabook-portege-z40l-n/",
-        "published_date": "Thu, 24 Jul 2025 12:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.422402"
-      },
-      "4a455c78c76fe1429ae688709bea7ce77ecc10712ef73cb8224de554d712cb58": {
-        "title": "4 Best Folding Phones (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/gallery/best-folding-phones/",
-        "published_date": "Thu, 24 Jul 2025 11:33:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.424176"
-      },
-      "185339ab217584bd243686e8430f84579f378f92d86211142b0fc2aa7ef15d4f": {
-        "title": "Samsung Galaxy Z Fold7 and Galaxy Z Flip7 Review: A Promising Update",
-        "link": "https://www.wired.com/review/samsung-galaxy-z-fold7-and-galaxy-z-flip7/",
-        "published_date": "Thu, 24 Jul 2025 11:03:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.426463"
-      },
-      "66691c1c747839ccce8e872cb107c929e38a0ae5779ec76bf97fca644626f965": {
-        "title": "7 Best Coffee Makers (2025): Drip Is Drippin'",
-        "link": "https://www.wired.com/gallery/best-coffee-makers/",
-        "published_date": "Thu, 24 Jul 2025 10:34:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.428276"
-      },
-      "166cab756d8c14b7d3d6f718e66f5c88de3a07a05fb887aa152881b8655f616c": {
-        "title": "Florida Is Now a Haven for Unproven Stem-Cell Treatments",
-        "link": "https://www.wired.com/story/florida-is-now-a-haven-for-unproven-stem-cell-treatments/",
-        "published_date": "Thu, 24 Jul 2025 10:30:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.431177"
-      },
-      "383d3ed15f1928275e06350d3a0388927ef6901f5eb047dea1873be63533223e": {
-        "title": "Starlink’s satellite internet is back online after a massive outage",
-        "link": "https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline",
-        "published_date": "Thu, 24 Jul 2025 22:53:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.434509"
-      },
-      "33365ca1ff218888cd74e942d434b6587a3e7dfb1152ed06381581279948fbfb": {
-        "title": "No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’",
-        "link": "https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk",
-        "published_date": "Thu, 24 Jul 2025 21:04:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.438163"
-      },
-      "6083efb13ae775305d9e762eb184983ff56f665b60aeff3f3c1fa36fb889edfb": {
-        "title": "Intel reveals it will shed 24,000 employees this year and retreat in Germany, Poland, and Costa Rica",
-        "link": "https://www.theverge.com/news/713388/intel-q2-2025-leave-germany-poland-costa-rica",
-        "published_date": "Thu, 24 Jul 2025 20:29:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242098"
-      },
-      "f25d6b0e7f071ba0fdfd3f08253f55e0813841c7611828dddd97356a6dfa6b05": {
-        "title": "VTuber agency VShojo shuts down after talent exodus",
-        "link": "https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations",
-        "published_date": "Thu, 24 Jul 2025 19:49:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.446327"
-      },
-      "34646761ceb38bc81eff7218ec65a8cffec8271b4208012cfba71fbe9074d8b7": {
-        "title": "Google rethinks search results with its new AI-curated &#8216;Web Guide&#8217;",
-        "link": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test",
-        "published_date": "Thu, 24 Jul 2025 19:44:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242072"
-      },
-      "4afb1666d4ce105c6b0b49d3239a308f3596db65ccb3e6a02158b1131d48f353": {
-        "title": "The best budget smartphone you can buy",
-        "link": "https://www.theverge.com/21420196/best-budget-smartphone-cheap",
-        "published_date": "Thu, 24 Jul 2025 19:24:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.453086"
-      },
-      "4e5bb1a95a597966b4c8b4feab774b5627eddea2104dac09d901e91b7eff823f": {
-        "title": "The White House orders tech companies to make AI bigoted again",
-        "link": "https://www.theverge.com/policy/713222/trump-woke-ai-executive-order-chatbots-llms",
-        "published_date": "Thu, 24 Jul 2025 19:18:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242154"
-      },
-      "2cfdbcc0e4c37d18c9ac5ac8ca4c686a900c74fb9ecdca8b0265ec7b6e2d2e04": {
-        "title": "The best Nintendo Switch controllers to buy right now",
-        "link": "https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad",
-        "published_date": "Thu, 24 Jul 2025 18:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.460990"
-      },
-      "b153ec5e8de7159efa4efb323bccda25162c1e5fd8e5fa6b73fc2e7dee5c3916": {
-        "title": "How to install the iOS 26 public beta",
-        "link": "https://www.theverge.com/695230/ios-26-beta-install-how-to",
-        "published_date": "Thu, 24 Jul 2025 17:35:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.463750"
-      },
-      "7309a3ad71bbc3846e1b07e0085901aa30668222d405be0f64dbebb829873fab": {
-        "title": "How can Tesla make a cheaper Model Y?",
-        "link": "https://www.theverge.com/tesla/713026/tesla-cheaper-model-y-stripped-down",
-        "published_date": "Thu, 24 Jul 2025 17:34:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.466759"
-      },
-      "345d133aa12577869937bbc11fb83fe426e1bf5a729ead95de50162f38c161f3": {
-        "title": "8.98 万元的 B01，零跑推了一辆「半价 Model3」！",
-        "link": "http://www.geekpark.net/news/351886",
-        "published_date": "Thu, 24 Jul 2025 22:39:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.469403"
-      },
-      "65529f5bbea7a79311ad823e289e2c3e2d68b6666309a41e3d4d41d623cfa2fc": {
-        "title": "小米和比亚迪，终于成了特斯拉的心腹大患",
-        "link": "http://www.geekpark.net/news/351885",
-        "published_date": "Thu, 24 Jul 2025 20:03:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242118"
-      },
-      "4aa18ba5445560a2356a0cc599ab5ffc4bb28e32589b6db4afa92c32cb232c55": {
-        "title": "永利股份收购子公司少数股权；元力股份拟购实控人胞妹企业100%股权【并购一线】",
-        "link": "https://www.tmtpost.com/7637449.html",
-        "published_date": "Thu, 24 Jul 2025 22:39:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.472589"
-      },
-      "e4214ae0ab60a4c0a58dab0b8cfe3a4d6942ed2e401059fb32139c62329944d3": {
-        "title": "锦龙股份22亿落袋即闯算力：深圳报业坚守标的四年，IPO “梦碎”离场",
-        "link": "https://www.tmtpost.com/7637454.html",
-        "published_date": "Thu, 24 Jul 2025 21:07:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.474893"
-      },
-      "fc98643f4581ac3d64afad8018a3467d80e005b1cb9af1b852ee782b181741ec": {
-        "title": "保住最后的尊严，广汽需要挺过三重关",
-        "link": "https://www.tmtpost.com/7636952.html",
-        "published_date": "Thu, 24 Jul 2025 19:06:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.476060"
-      },
-      "53e42f4e0f2e9ab4f43133199ec6e798a2d35fa9c57c7d4ffb9b7b9eee0cd453": {
-        "title": "星级酒店摆地摊：丢下体面后的高端餐饮，能打赢生存角力战吗？",
-        "link": "https://www.tmtpost.com/7635684.html",
-        "published_date": "Thu, 24 Jul 2025 19:05:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.477795"
-      },
-      "5878defe3ce1d06c7c1f65b8b90fc6a7580280b19210c4de355f63dda1985fe5": {
-        "title": "自营会是京东外卖的“良药”吗？",
-        "link": "https://www.tmtpost.com/7637310.html",
-        "published_date": "Thu, 24 Jul 2025 19:05:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.479220"
-      },
-      "42a5d4f94eb9b9be5b7ecab4844020f4ce9d13d139b1a1920a3078e405efe2b3": {
-        "title": "阅文的“爆款焦虑”：撒种容易，收割太难",
-        "link": "https://www.tmtpost.com/7636725.html",
-        "published_date": "Thu, 24 Jul 2025 19:05:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.481098"
-      },
-      "02d763b870d42e2c3f6df88a319f8b7c983736e6d27b3468007ce6db9b47432a": {
-        "title": "HBM芯片，要降价？",
-        "link": "https://www.tmtpost.com/7637236.html",
-        "published_date": "Thu, 24 Jul 2025 19:04:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242084"
-      },
-      "787ca8543906fe5100c654b1cbb3b60e3b5a534a16db80de317bdbc3a90313a2": {
-        "title": "《原神》幕后行业龙头冲IPO，海马云获巨人网络投资，3年亏6.5亿",
-        "link": "https://www.tmtpost.com/7635850.html",
-        "published_date": "Thu, 24 Jul 2025 18:57:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.485251"
-      },
-      "9db9ffea26d73d2d98dba54eb6bcc01c1f0a6ce290e58597c722355290c40ce4": {
-        "title": "0元奶茶终结后，外卖大战还会怎么打?",
-        "link": "https://www.tmtpost.com/7637151.html",
-        "published_date": "Thu, 24 Jul 2025 18:57:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.486666"
-      },
-      "a829f9f834d5af5574649f1bb68ef6a29c4c7e14d362328e362c99902cce9720": {
-        "title": "前山东首富姜滨筹划近百亿收购，身家较巅峰缩水300亿",
-        "link": "https://www.tmtpost.com/7637162.html",
-        "published_date": "Thu, 24 Jul 2025 18:57:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.488282"
-      },
-      "605aa91aaa3f1862232bfd0c54e43a9c8c7b4c2a34726b081002f5334d21d7b9": {
-        "title": "营收连续三年上涨，聚焦北美市场，聚智科技的赴港梦能否如愿？",
-        "link": "https://www.tmtpost.com/7637252.html",
-        "published_date": "Thu, 24 Jul 2025 18:57:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.490344"
-      },
-      "184f23683fa0c084c1d6cc6fc464978532bfe99de8844128e22e890db14420cb": {
-        "title": "被“搁置”的盒马，出路在哪儿？",
-        "link": "https://www.tmtpost.com/7636744.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.492388"
-      },
-      "7a90e766487c90d8b3cefb8054599672ab177c6b39cf4d45752743688f0c8695": {
-        "title": "风波不断，“奶粉第一股”贝因美渡劫",
-        "link": "https://www.tmtpost.com/7636851.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.494175"
-      },
-      "d4910f7150499e265d61dc95fa4afcea9f8dcaec72f1c3a014da6e07be022793": {
-        "title": "短剧“围猎”老年人：情感荒漠化下的资本狂欢与人性挣扎",
-        "link": "https://www.tmtpost.com/7637126.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.496711"
-      },
-      "aea12d97cec87cb9c464241312babf1d762d6aeaaf5257bb561ab92ee0613e15": {
-        "title": "直击2025光伏行业半年会：硅料去产能，应该怎么去？",
-        "link": "https://www.tmtpost.com/7637178.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.498904"
-      },
-      "e0c36183cc6635f5119cd4338b430e004cea491089135a332b239c6c43051c64": {
-        "title": "从规模狂奔到精细运营：理财子2025上半年穿越监管、人才与费率“深水区”",
-        "link": "https://www.tmtpost.com/7637179.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.501755"
-      },
-      "3238ad14f219b4c3d85b2122ea2ffd86b1237cdbf10a28ec7341d8fd8c1449b4": {
-        "title": "京东拟收购香港佳宝超市背后，香港本地商超要急了",
-        "link": "https://www.tmtpost.com/7637187.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.503567"
-      },
-      "e3091035c3e1aa3400e4dd653c340546ec0fe8719411ed61e395db077e65a70f": {
-        "title": "从“炼丹”到“开店”：大模型应用商店，能否解开国产AI的“商业化焦虑”？",
-        "link": "https://www.tmtpost.com/7637220.html",
-        "published_date": "Thu, 24 Jul 2025 18:45:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242145"
-      },
-      "7b6b5567cfe374425f69cce429b550747ed4ff0241d725f0028b6b1a9ee7b384": {
-        "title": "特斯拉进入黑暗隧道",
-        "link": "http://www.huxiu.com/article/4614752.html?f=wangzhan",
-        "published_date": "Thu, 24 Jul 2025 20:58:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.509145"
-      },
-      "fffd54047d54b79926f0b75991393486ba518fce3f9b65b462f0d3f8039354a5": {
-        "title": "车企顶级公关：一句话，让700万网红沦为过街老鼠？",
-        "link": "http://www.huxiu.com/article/4612818.html?f=wangzhan",
-        "published_date": "Thu, 24 Jul 2025 16:30:00 GMT",
-        "first_seen": "2025-07-24T23:22:19.511486"
-      },
-      "e944ef976eee193167466cdb1016405cd624d5fae4d358501f173f3abd5cd94e": {
-        "title": "“连我也要被GPT-5踹了!”Altman再发暴论：写款软件就花7毛钱，大批高级程序员岗也说没就没",
-        "link": "https://www.infoq.cn/article/wIM3WjWhPVcrhhO1gdyz?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 24 Jul 2025 18:55:00 GMT",
-        "first_seen": "2025-07-24T23:22:41.242044"
-      },
       "6f54401bc321d040820416831e8296b8929e652dc2c2c0ad62a7935c3f4d336a": {
         "title": "AI Startup LynAI Mines Secures Angel Round to Fuel Global Expansion of Smart Mineral Exploration",
         "link": "https://www.tmtpost.com/7637955.html",
@@ -23906,105 +23534,51 @@
         "link": "http://www.huxiu.com/article/4715143.html?f=wangzhan",
         "published_date": "Sat, 23 Aug 2025 16:00:00 GMT",
         "first_seen": "2025-08-23T23:18:49.024592"
+      },
+      "6e334bec1001b8e4d86cc6bc923c83b60ec853578736217bc336c3693b32dd55": {
+        "title": "单场打赏超千万，团播的流量生意和被看见的粉丝",
+        "link": "https://www.tmtpost.com/7669915.html",
+        "published_date": "Sun, 24 Aug 2025 09:20:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.133617"
+      },
+      "6cab17148d5626cbe88480b301f14e8369ff6366a0cd1bf047a73ae2d945005f": {
+        "title": "对亲密关系的焦虑，催生出了多少商业风口？",
+        "link": "https://www.tmtpost.com/7669966.html",
+        "published_date": "Sun, 24 Aug 2025 08:43:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.133762"
+      },
+      "a7fd493cff83257ec7a422f4e0aee942006d41cec63c7edeca0e5b611ad3acd9": {
+        "title": "快手走完AI长征第一步",
+        "link": "https://www.tmtpost.com/7669987.html",
+        "published_date": "Sun, 24 Aug 2025 08:43:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.133869"
+      },
+      "7f019925d6be719d9d2740dfecdaa45ae636e7511278d32853df2126b96fd38c": {
+        "title": "“价格屠夫”零跑首次半年度盈利，朱江明可以高枕无忧了吗？",
+        "link": "https://www.tmtpost.com/7669988.html",
+        "published_date": "Sun, 24 Aug 2025 08:40:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.134034"
+      },
+      "0a115a66caabea2732f8f815a972e090de2e9ed7b2912b08619f3467b77a2238": {
+        "title": "曾轶可巡演票房被“公开处刑”，主办方何以至此？",
+        "link": "https://www.tmtpost.com/7670020.html",
+        "published_date": "Sun, 24 Aug 2025 08:40:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.134216"
+      },
+      "0d5b0ce3725aa2fa0b7db5c29d66424ffc331487ca11af5b24acefcc7f8a64c4": {
+        "title": "华润入主，打通康佳任督二脉",
+        "link": "https://www.tmtpost.com/7670025.html",
+        "published_date": "Sun, 24 Aug 2025 08:31:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.134422"
+      },
+      "d81547ff21de52c21ea547d248bd256c30e6f1624c6050b451992aa22330c324": {
+        "title": "小米YU7遭逆行水泥罐车撞击，车主平安；马斯克开源Grok 2.5模型；黑悟空因未公布新DLC遭玩家刷差评",
+        "link": "http://www.geekpark.net/news/353010",
+        "published_date": "Sun, 24 Aug 2025 08:33:00 GMT",
+        "first_seen": "2025-08-24T05:19:48.134800"
       }
     },
     "Finance": {
-      "838b44edcb339a3043944d626ab8bb0e1875b444f073a3f8236f75c7bdfb19d0": {
-        "title": "Homeowners in these states will win if Trump ends capital-gains taxes on houses",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ef1dea30-02a5-4792-ba5c-5a6c5d096144&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 22:34:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995078"
-      },
-      "c10d36a6984e0eb7b910da5e41ca60b68ce3eecf5e85fc9f94c60b4b8eb0ceee": {
-        "title": "Trump went to the Fed to pressure Powell. Did he 'chicken out' instead?",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6a173f9c-0e0e-4d61-8caf-36354c7ec423&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 21:50:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995174"
-      },
-      "d0d81238c8eeeb0d4d58b493ba3c37565a7930f46125c51a4cd014f46e33969f": {
-        "title": "Intel earnings tell two stories, as sales impress but restructuring losses swell",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5f8ccf4f-9995-4183-b084-58fe5a4e078c&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 21:13:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995097"
-      },
-      "37435ed8afc208e6463ff2069e46a112900dac219b8a23eb70b3be3e478915db": {
-        "title": "As the latest meme-stock drama unfolds, one thing is different this time around",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c185041f-7f10-4beb-bb78-a995edb07268&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 20:35:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995108"
-      },
-      "4b2d312bd2f5ea0c332310b0d49774dbc4d41e5511ad31f8e36765429ac9da01": {
-        "title": "Dow ends lower, S&P 500 and Nasdaq notch fresh records despite Tesla's slide",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=175f14f3-1b01-4282-9593-240d1f31a87a&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 20:03:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995118"
-      },
-      "2e458be03f4156c39f497cbed77f27edaa9c8a97f052b9e09f803af7761b1b5c": {
-        "title": "Inflation and a historic cattle shortage haven’t dented beef demand. Here’s why.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18fd95b6-443c-468b-8b22-1ac2984007f5&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 19:27:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995164"
-      },
-      "e000bb0c991836b5ce69a5675fb1c4b5ebdf1aa319f1244ca3777621c951feb3": {
-        "title": "Dow falling, S&P 500 and Nasdaq pare gains as Tesla shares slide — follow live",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2115df45-0722-4518-b0a5-860659fcbf03&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 19:06:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.053463"
-      },
-      "45760fc7429174e35da2263e53e837d367d3d4a23b239fdd93439945ee3f42c4": {
-        "title": "How Hulk Hogan helped transform pro wrestling from a sideshow to the main event",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aaccd1fc-7dda-4879-98bd-4d0026793eed&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 18:31:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.055019"
-      },
-      "fcac723dc2b8455f72b528900e821aa0e62c1f28070db7bfa0eadae300598909": {
-        "title": "IBM’s stock is dragging down the Dow. Why analysts see an opportunity to buy.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9a2bb26a-48d8-44d0-8050-6d2978687832&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 17:53:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995132"
-      },
-      "3433f90d1aebf93faf18061501b9ba768f2fe03efa90741ac294d70628d8aefe": {
-        "title": "As Tesla shares slide, why analysts are upbeat on earnings but investors aren't",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d516bcd1-e60c-4e71-8ebc-2bdb0df48b0c&mod=mw_rss_bulletins",
-        "published_date": "Thu, 24 Jul 2025 16:16:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995142"
-      },
-      "6bb799841262b6d4d26c559f90d9db8491ec94516ad0f3d779eff7f8263f06cf": {
-        "title": "Intel earnings tell two stories, as revenue impresses but losses pile up from restructuring",
-        "link": "https://www.marketwatch.com/story/intel-earnings-tell-two-stories-as-revenue-impresses-but-losses-pile-up-from-restructuring-d05b348a?mod=mw_rss_topstories",
-        "published_date": "Thu, 24 Jul 2025 22:29:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.061210"
-      },
-      "db15e693f6e013b1631736d1263699d2357244d4beeea8d09741573054042926": {
-        "title": "Homeowners in these states are the winners if Trump ends capital-gains taxes for home sellers",
-        "link": "https://www.marketwatch.com/story/homeowners-in-these-states-are-the-winners-if-trump-ends-capital-gains-taxes-for-home-sellers-7884bf19?mod=mw_rss_topstories",
-        "published_date": "Thu, 24 Jul 2025 22:19:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.064020"
-      },
-      "f29a7611c3be28835377c03ae78a61c7864f40508f0999b7a434363d389e5458": {
-        "title": "Will the WNBA expanding to 18 teams help or hurt the players saying ‘Pay Us What You Owe Us’?",
-        "link": "https://www.marketwatch.com/story/will-the-wnba-expanding-to-18-teams-help-or-hurt-the-players-saying-pay-us-what-you-owe-us-747f8539?mod=mw_rss_topstories",
-        "published_date": "Thu, 24 Jul 2025 21:48:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.067508"
-      },
-      "b1fa858fc61ce40bc43d6e28d490c47fc9d33b597e290f3703735eaebdd2644a": {
-        "title": "‘I finally paid off my student loans’: I’m moving to the U.K. Should I invest my $30K savings or pay down my mortgage?",
-        "link": "https://www.marketwatch.com/story/im-considering-giving-up-my-u-s-citizenship-im-moving-to-the-u-k-what-should-i-do-with-30-000-cash-34913ce9?mod=mw_rss_topstories",
-        "published_date": "Thu, 24 Jul 2025 21:44:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995190"
-      },
-      "2e8dcc7ee67a5b1bbcc732be97c5e764c4a1f2f6ab624199947a563faa292297": {
-        "title": "Venus Williams returned to tennis for the health insurance — even after earning $42 million",
-        "link": "https://www.marketwatch.com/story/despite-42-million-in-earnings-venus-williams-couldnt-afford-to-stay-retired-d420b932?mod=mw_rss_topstories",
-        "published_date": "Thu, 24 Jul 2025 21:00:00 GMT",
-        "first_seen": "2025-07-24T23:22:58.075615"
-      },
-      "b6ec96dedad93f7d5856baf33a9d0c1c620beccc31c6bddfb913c7f0854fd6e7": {
-        "title": "Deckers shares rally, as some fog clears on year ahead for maker of Hoka, Ugg shoes",
-        "link": "https://www.marketwatch.com/story/deckers-shares-rally-as-some-of-the-fog-clears-on-the-year-ahead-48900f07?mod=mw_rss_topstories",
-        "published_date": "Thu, 24 Jul 2025 20:54:00 GMT",
-        "first_seen": "2025-07-24T23:23:15.995152"
-      },
       "03eb3991ae06aa37f9e437aab514f44c5758b0a736c60179b3b9c8222c576221": {
         "title": "I asked AI and my financial planner the same questions. Here’s how they compared",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bf912958-3037-4788-9190-4be8c39a7331&mod=mw_rss_bulletins",
@@ -27278,8 +26852,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-23T23:18:48.949531",
-    "Technology": "2025-08-23T23:19:37.411220",
-    "Finance": "2025-08-23T23:18:48.977647"
+    "AI": "2025-08-24T05:19:48.101712",
+    "Technology": "2025-08-24T05:19:48.142287",
+    "Finance": "2025-08-24T05:19:48.116983"
   }
 }
