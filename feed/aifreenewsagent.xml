@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 24 Aug 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2025 05:19:48 GMT</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 08:23:00 GMT</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 08:24:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，马斯克开源Grok 2.5：中国公司才是xAI最大对手</title>
-      <link>https://www.qbitai.com/2025/08/325328.html</link>
-      <description>&lt;![CDATA[刚刚，马斯克开源Grok 2.5：中国公司才是xAI最大对手]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 01:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325328.html</guid>
+      <title>老黄刚投了无人配送，复旦校友创办的</title>
+      <link>https://www.qbitai.com/2025/08/325344.html</link>
+      <description>&lt;![CDATA[老黄刚投了无人配送，复旦校友创办的]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325344.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>告别“炼丹玄学”：上海AI实验室推出首个大模型数据竞技场OpenDataArena</title>
+      <link>https://www.qbitai.com/2025/08/325393.html</link>
+      <description>&lt;![CDATA[告别“炼丹玄学”：上海AI实验室推出首个大模型数据竞技场OpenDataArena]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 06:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325393.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>和图灵机相关的这个数字，已经大到整个宇宙原子都容不下了</title>
+      <link>https://www.qbitai.com/2025/08/325374.html</link>
+      <description>&lt;![CDATA[和图灵机相关的这个数字，已经大到整个宇宙原子都容不下了]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 06:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325374.html</guid>
       <category>AI</category>
     </item>
   </channel>
