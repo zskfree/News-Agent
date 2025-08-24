@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-23 23:18
+**最后更新时间**: 2025-08-24 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-24 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Keurig Dr Pepper reportedly near $18 billion deal to buy coffee company JDE Peet’s](https://www.marketwatch.com/story/keurig-dr-pepper-reportedly-near-18-billion-deal-to-buy-coffee-company-jde-peets-a36ac577?mod=mw_rss_topstories)
+**发布时间**: 2025-08-24 23:21
+
+#### [U.S. stock futures flat following Friday’s Fed-fueled rally](https://www.marketwatch.com/story/u-s-stock-futures-flat-following-fridays-fed-fueled-rally-138badbf?mod=mw_rss_topstories)
+**发布时间**: 2025-08-24 22:18
+
+#### [Low expectations for retailers and ever-rising expectations for Nvidia in this week’s round of earnings](https://www.marketwatch.com/story/low-expectations-for-retailers-and-ever-rising-expectations-for-nvidia-in-this-weeks-round-of-earnings-e24f4764?mod=mw_rss_topstories)
+**发布时间**: 2025-08-24 20:31
+
+#### [After 9 months on hold, the Fed could cut rates in September. Why the long pause may extend stocks’ rally.](https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012?mod=mw_rss_topstories)
+**发布时间**: 2025-08-24 20:28
+
+#### [I’m getting a $100K personal-injury settlement. Will my estranged wife get any of it?](https://www.marketwatch.com/story/im-getting-a-100k-personal-injury-settlement-will-my-estranged-wife-get-any-of-it-6bd723ba?mod=mw_rss_topstories)
+**发布时间**: 2025-08-24 20:12
+
+#### [I’m 65 and retiring next year. Should I buy an annuity to protect against diminished Social Security?](https://www.marketwatch.com/story/i-consider-myself-pretty-lucky-im-65-with-4-million-do-i-buy-an-annuity-to-protect-against-social-securitys-demise-1ea407ca?mod=mw_rss_topstories)
+**发布时间**: 2025-08-24 19:43
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures flat following Friday’s Fed-fueled rally](https://www.marketwatch.com/bulletins/redirect/go?g=8bb76bbe-91e0-4663-8176-373bfde0e9b4&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-24 22:19
+
+#### [Earnings Watch: Low bar for retailers, but ever-rising expectations for Nvidia](https://www.marketwatch.com/bulletins/redirect/go?g=0250ddd5-8e86-46e9-b33e-461a358631ee&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-24 20:34
 
 ---
 

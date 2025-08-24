@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 24 Aug 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2025 08:24:16 GMT</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 23:23:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>老黄刚投了无人配送，复旦校友创办的</title>
-      <link>https://www.qbitai.com/2025/08/325344.html</link>
-      <description>&lt;![CDATA[老黄刚投了无人配送，复旦校友创办的]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 07:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325344.html</guid>
+      <title>三个月、零基础手搓一块TPU，能推理能训练，还是开源的</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-24-3</link>
+      <description>&lt;![CDATA[三个月、零基础手搓一块TPU，能推理能训练，还是开源的]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 20:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-24-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>告别“炼丹玄学”：上海AI实验室推出首个大模型数据竞技场OpenDataArena</title>
-      <link>https://www.qbitai.com/2025/08/325393.html</link>
-      <description>&lt;![CDATA[告别“炼丹玄学”：上海AI实验室推出首个大模型数据竞技场OpenDataArena]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 06:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325393.html</guid>
+      <title>超越宇宙极限：第六位海狸数再次突破，无法用常规数学符号表达</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-24-2</link>
+      <description>&lt;![CDATA[超越宇宙极限：第六位海狸数再次突破，无法用常规数学符号表达]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 20:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-24-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>和图灵机相关的这个数字，已经大到整个宇宙原子都容不下了</title>
-      <link>https://www.qbitai.com/2025/08/325374.html</link>
-      <description>&lt;![CDATA[和图灵机相关的这个数字，已经大到整个宇宙原子都容不下了]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325374.html</guid>
+      <title>仅靠5000+样本，全新强化学习范式让30B轻松击败671B的DeepSeek V3</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-24</link>
+      <description>&lt;![CDATA[仅靠5000+样本，全新强化学习范式让30B轻松击败671B的DeepSeek V3]]&gt;</description>
+      <pubDate>Sun, 24 Aug 2025 19:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-24</guid>
       <category>AI</category>
     </item>
   </channel>

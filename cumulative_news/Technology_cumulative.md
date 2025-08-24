@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-24 08:24
+**最后更新时间**: 2025-08-24 23:23
+
+---
+
+## 🆕 最新更新 (2025-08-24 23:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Global Postal Services Suspend U.S. Shipments as End of Tariff Loophole Sparks Shipping Chaos](https://www.tmtpost.com/7670327.html)
+**发布时间**: 2025-08-24 20:23
+
+#### [股票代币化时代，揭秘Robinhood商业模式与加密野心](https://www.tmtpost.com/7670106.html)
+**发布时间**: 2025-08-24 19:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [官方「数据库」上线，Obsidian 可以替代 Notion 了吗？](https://sspai.com/post/102002)
+**发布时间**: 2025-08-24 17:06
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best 360 Cameras (2025), Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
+**发布时间**: 2025-08-24 14:00
+
+#### [The Best Cheap TVs (2025): TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
+**发布时间**: 2025-08-24 13:03
+
+#### [Best Heart Rate Monitors (2025), WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)
+**发布时间**: 2025-08-24 12:30
+
+#### [8BitDo 64 Bluetooth Controller Review: For Human Hands](https://www.wired.com/review/8bitdo-64-bluetooth-controller/)
+**发布时间**: 2025-08-24 12:00
+
+#### [15 Best White Noise Machines (2025): Lectrofan, Snooz, Hatch, and More](https://www.wired.com/gallery/best-white-noise-machines/)
+**发布时间**: 2025-08-24 11:34
+
+#### [The Hidden Ingredients Behind AI’s Creativity](https://www.wired.com/story/researchers-uncover-hidden-ingredients-behind-ai-creativity/)
+**发布时间**: 2025-08-24 11:00
+
+#### [Is It Ever Legal—or Ethical—to Remove DRM?](https://www.wired.com/story/is-it-ever-legal-to-remove-drm/)
+**发布时间**: 2025-08-24 10:30
+
+#### [What Is the Magnetic Constant and Why Does It Matter?](https://www.wired.com/story/what-is-the-magnetic-constant-and-why-does-it-matter/)
+**发布时间**: 2025-08-24 10:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Framework Desktop and Linux have shown me the path to PC gaming in the living room](https://www.theverge.com/games/761025/framework-desktop-bazzite-linux-steam-machine-pc-game-console-impressions)
+**发布时间**: 2025-08-24 13:00
+
+#### [They’re trying to make deep-sea mining happen](https://www.theverge.com/the-stepback-newsletter/763871/deep-sea-mining-happening-again)
+**发布时间**: 2025-08-24 12:00
+
+#### [The most fun way to look through old photos](https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer)
+**发布时间**: 2025-08-24 12:00
 
 ---
 
