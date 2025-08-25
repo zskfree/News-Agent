@@ -1,7 +1,192 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-25 08:29
+**最后更新时间**: 2025-08-25 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-25 23:19)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [回望那段血火交织的岁月，为什么说中国战场改变世界历史？](http://www.huxiu.com/article/4731589.html?f=wangzhan)
+**发布时间**: 2025-08-25 22:30
+
+#### [美元越贬值，A股越新高？美元汇率如何影响大盘走向？](http://www.huxiu.com/article/4732823.html?f=wangzhan)
+**发布时间**: 2025-08-25 17:30
+
+#### [一个综艺理想主义者的幻灭](http://www.huxiu.com/article/4733873.html?f=wangzhan)
+**发布时间**: 2025-08-25 16:07
+
+#### [每天赚老外2个亿，腾讯游戏做了什么？](http://www.huxiu.com/article/4733874.html?f=wangzhan)
+**发布时间**: 2025-08-25 15:31
+
+#### [斯坦福精英最深的恐惧：不是失败，而是从未为自己活过](http://www.huxiu.com/article/4725383.html?f=wangzhan)
+**发布时间**: 2025-08-25 15:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
+**发布时间**: 2025-08-25 22:00
+
+#### [The 58 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+**发布时间**: 2025-08-25 20:16
+
+#### [Google Nest Camera and Doorbell leak shows off new colors and 2K video recording](https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini)
+**发布时间**: 2025-08-25 18:54
+
+#### [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)
+**发布时间**: 2025-08-25 16:38
+
+#### [Elon Musk&#8217;s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)
+**发布时间**: 2025-08-25 16:15
+
+#### [This new delivery robot will bring the entire grocery store to you](https://www.theverge.com/news/765167/robomart-autonomous-food-delivery-locker-rm5)
+**发布时间**: 2025-08-25 16:04
+
+#### [Trump told a major offshore wind project to stop construction just before it reached the finish line](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)
+**发布时间**: 2025-08-25 15:45
+
+#### [The new Fi Mini pet tracker has GPS, and it&#8217;s barely bigger than an AirTag](https://www.theverge.com/news/765132/fi-mini-gps-pet-lost-dog-cat-location-tracking)
+**发布时间**: 2025-08-25 15:13
+
+#### [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+**发布时间**: 2025-08-25 14:30
+
+#### [AI doesn’t belong in journaling](https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app)
+**发布时间**: 2025-08-25 14:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [WIRED Roundup: The US Chip Manufacturers’ Bonanza](https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/)
+**发布时间**: 2025-08-25 20:25
+
+#### [Best Discounts for Teachers (2025): Deals on School Supplies, Tech, and More](https://www.wired.com/story/best-teacher-discounts/)
+**发布时间**: 2025-08-25 19:02
+
+#### [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+**发布时间**: 2025-08-25 18:26
+
+#### [Take 20 Percent Off Ooni’s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)
+**发布时间**: 2025-08-25 18:24
+
+#### [16 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
+**发布时间**: 2025-08-25 17:25
+
+#### [Elon Musk’s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)
+**发布时间**: 2025-08-25 16:57
+
+#### [WIRED Might Have Found a New Best Bag in the World](https://www.wired.com/story/wired-might-have-found-a-new-best-bag-in-the-world/)
+**发布时间**: 2025-08-25 16:56
+
+#### [25 Best Power Banks (2025), I've Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+**发布时间**: 2025-08-25 13:00
+
+#### [LG S95AR Review: A Hassle-Free Dolby Atmos Soundbar](https://www.wired.com/review/lg-s95ar/)
+**发布时间**: 2025-08-25 12:03
+
+#### [Pro by Déesse Pro Review: Mostly a Gimmick](https://www.wired.com/review/pro-by-deesse-pro/)
+**发布时间**: 2025-08-25 11:30
+
+#### [Meta Has Already Won the Smart Glasses Race](https://www.wired.com/story/meta-has-already-won-the-smart-glasses-race/)
+**发布时间**: 2025-08-25 11:00
+
+#### [A New Reality Show About Virgins Highlights Why Gen Z Isn't Having Sex](https://www.wired.com/story/virgins-are-reality-tvs-latest-darlings-reasons-for-abstaining/)
+**发布时间**: 2025-08-25 10:30
+
+#### [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/)
+**发布时间**: 2025-08-25 10:00
+
+#### [IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms](https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/)
+**发布时间**: 2025-08-25 09:00
+
+#### [What Is the Magnetic Constant, and Why Does It Matter?](https://www.wired.com/story/what-is-the-magnetic-constant-and-why-does-it-matter/)
+**发布时间**: 2025-08-24 10:30
+
+#### [Scientists Have Identified the Origin of an Extraordinarily Powerful Outer-Space Radio Wave](https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/)
+**发布时间**: 2025-08-23 22:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [腾讯网易，开打“长青游戏”大战](https://www.tmtpost.com/7670902.html)
+**发布时间**: 2025-08-25 19:15
+
+#### [【Fintech 周报】信用卡三个月少600万张；银行密集发声：信用卡资金不得流入股市](https://www.tmtpost.com/7671383.html)
+**发布时间**: 2025-08-25 19:03
+
+#### [万字深度长文：消费者去哪了？](https://www.tmtpost.com/7671101.html)
+**发布时间**: 2025-08-25 18:44
+
+#### [特朗普要干掉光伏的天真想法，离失败还有多远？](https://www.tmtpost.com/7670880.html)
+**发布时间**: 2025-08-25 18:42
+
+#### [五年十年后，新能源车能够进化到什么程度？](https://www.tmtpost.com/7670945.html)
+**发布时间**: 2025-08-25 18:42
+
+#### [比RoboTaxi更疯狂，无人物流车的“极限战场”](https://www.tmtpost.com/7671326.html)
+**发布时间**: 2025-08-25 18:42
+
+#### [前首富陈天桥AGI豪赌：高薪挖角清华大牛，剑指下一个Deepseek?](https://www.tmtpost.com/7671010.html)
+**发布时间**: 2025-08-25 18:42
+
+#### [【生态环境周观察】六部委召开光伏“反内卷”座谈会；特朗普称将不再批准光伏、风电项目](https://www.tmtpost.com/7670604.html)
+**发布时间**: 2025-08-25 18:16
+
+#### [对话盛趣游戏CEO彭程：当一个“盛斗士”再次决定去战斗｜独家](https://www.tmtpost.com/7671272.html)
+**发布时间**: 2025-08-25 18:04
+
+#### [为了这个6000亿市场，互联网大厂又“打起来”了](https://www.tmtpost.com/7670777.html)
+**发布时间**: 2025-08-25 17:49
+
+#### [为什么我觉得Gemini才是最适合普通人的Ai大模型](https://www.tmtpost.com/7671097.html)
+**发布时间**: 2025-08-25 17:49
+
+#### [谁在“半价”扫货中国核心资产？](https://www.tmtpost.com/7670944.html)
+**发布时间**: 2025-08-25 17:49
+
+#### [国货香水混战升级：昔日TOP1败退，跨界玩家GMV翻倍](https://www.tmtpost.com/7671116.html)
+**发布时间**: 2025-08-25 17:49
+
+#### [暑期伴读，家长与大学生在社交平台互相避雷](https://www.tmtpost.com/7671266.html)
+**发布时间**: 2025-08-25 17:49
+
+#### [杨幂凭《生万物》翻身，年代剧能救市吗？](https://www.tmtpost.com/7671137.html)
+**发布时间**: 2025-08-25 17:49
+
+#### [MLED产业长坡厚雪，诺瓦星云强者恒强｜看财报](https://www.tmtpost.com/7671066.html)
+**发布时间**: 2025-08-25 17:35
+
+#### [Cash, Drones, and Vacuums: DJI, Insta360, and Dreame Open a New Front in China's Tech Wars](https://www.tmtpost.com/7671268.html)
+**发布时间**: 2025-08-25 17:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [vivo Vision 探索版发布：开启三十而立的新篇章](http://www.geekpark.net/news/353066)
+**发布时间**: 2025-08-25 18:55
+
+#### [10 岁的钉钉，想用「更主动」的 AI，重构工作本身](http://www.geekpark.net/news/353059)
+**发布时间**: 2025-08-25 16:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [作为软件工程师，如何在晋升过程中不断提升自我](https://www.infoq.cn/article/zHGfgO8xPlYHgSzvrrw2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-25 18:00
+
+#### [.NET 10 第七预览版通过 XAML 源生成器加速 .NET MAUI 开发](https://www.infoq.cn/article/exB5dDpQ4Wotm51pDYyu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-25 17:15
+
+#### [Zod v4 正式发布：性能大幅提升并推出 Zod Mini](https://www.infoq.cn/article/cor8g7TGtJ4sqw9e8LLB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-25 17:00
+
+#### [亚马逊云科技发布CCAPI MCP Server，使用自然语言来简化基础设施管理](https://www.infoq.cn/article/1iLAbZrwMh9tEtMhMKCJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-25 16:30
+
+#### [直播预告| 三大顶会被「中国技术」霸屏，国产数据库的领跑密码是什么？](https://www.infoq.cn/article/gHLF5HkRUDPrasp9mie3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-21 22:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评｜近期值得关注的 App](https://sspai.com/post/102085)
+**发布时间**: 2025-08-25 17:57
 
 ---
 

@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-25 08:29
+**最后更新时间**: 2025-08-25 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-25 23:19)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [全球开源大模型，前十五名全是中国的](https://www.jiqizhixin.com/articles/2025-08-25-13)
+**发布时间**: 2025-08-25 18:31
+
+#### [唯快不破：上海AI Lab 82页综述带你感受LLM高效架构的魅力](https://www.jiqizhixin.com/articles/2025-08-25-12)
+**发布时间**: 2025-08-25 18:26
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New technologies tackle brain health assessment for the military](https://news.mit.edu/2025/new-technologies-tackle-brain-health-assessment-for-military-0825)
+**发布时间**: 2025-08-25 17:00
+
+#### [Can large language models figure out the real world?](https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825)
+**发布时间**: 2025-08-25 16:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [最高提效8倍！腾讯游戏发布专业游戏AI大模型，美术师做动画不用辣么“肝”了](https://www.qbitai.com/2025/08/325680.html)
+**发布时间**: 2025-08-25 16:03
+
+#### [东风“腾笼换鸟”，岚图港股上市，细节全在这了](https://www.qbitai.com/2025/08/325604.html)
+**发布时间**: 2025-08-25 09:33
+
+#### [群核科技升级空间智能战略，发布两款空间开源模型](https://www.qbitai.com/2025/08/325603.html)
+**发布时间**: 2025-08-25 08:59
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [How lidar measures the cost of climate disasters](https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/)
+**发布时间**: 2025-08-25 10:00
 
 ---
 

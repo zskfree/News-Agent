@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 25 Aug 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 08:29:59 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 23:19:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WAIC创作新纪元：通义万相WAIC美好奇妙世界</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-11</link>
-      <description>&lt;![CDATA[WAIC创作新纪元：通义万相WAIC美好奇妙世界]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-11</guid>
+      <title>全球开源大模型，前十五名全是中国的</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-25-13</link>
+      <description>&lt;![CDATA[全球开源大模型，前十五名全是中国的]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>超97万：Yoshua Bengio成历史被引用最高学者，何恺明进总榜前五</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-10</link>
-      <description>&lt;![CDATA[超97万：Yoshua Bengio成历史被引用最高学者，何恺明进总榜前五]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-10</guid>
+      <title>唯快不破：上海AI Lab 82页综述带你感受LLM高效架构的魅力</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-25-12</link>
+      <description>&lt;![CDATA[唯快不破：上海AI Lab 82页综述带你感受LLM高效架构的魅力]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 18:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>突破长视频生成瓶颈：南大、TeleAI推出全新AI生成范式MMPL，让创意一镜到底</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-9</link>
-      <description>&lt;![CDATA[突破长视频生成瓶颈：南大、TeleAI推出全新AI生成范式MMPL，让创意一镜到底]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-9</guid>
+      <title>New technologies tackle brain health assessment for the military</title>
+      <link>https://news.mit.edu/2025/new-technologies-tackle-brain-health-assessment-for-military-0825</link>
+      <description>&lt;![CDATA[New technologies tackle brain health assessment for the military]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-technologies-tackle-brain-health-assessment-for-military-0825</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>夸克发布健康大模型技术报告，公开AI“主任医师”技术细节</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-8</link>
-      <description>&lt;![CDATA[夸克发布健康大模型技术报告，公开AI“主任医师”技术细节]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-8</guid>
+      <title>Can large language models figure out the real world?</title>
+      <link>https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825</link>
+      <description>&lt;![CDATA[Can large language models figure out the real world?]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从头开始设计全新分子结构，AI构建化合物成功对抗超级细菌</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-7</link>
-      <description>&lt;![CDATA[从头开始设计全新分子结构，AI构建化合物成功对抗超级细菌]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-7</guid>
+      <title>最高提效8倍！腾讯游戏发布专业游戏AI大模型，美术师做动画不用辣么“肝”了</title>
+      <link>https://www.qbitai.com/2025/08/325680.html</link>
+      <description>&lt;![CDATA[最高提效8倍！腾讯游戏发布专业游戏AI大模型，美术师做动画不用辣么“肝”了]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325680.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，2025年科学探索奖出炉，复旦姜育刚、清华吴嘉敏等获奖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-6</link>
-      <description>&lt;![CDATA[刚刚，2025年科学探索奖出炉，复旦姜育刚、清华吴嘉敏等获奖]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-6</guid>
+      <title>东风“腾笼换鸟”，岚图港股上市，细节全在这了</title>
+      <link>https://www.qbitai.com/2025/08/325604.html</link>
+      <description>&lt;![CDATA[东风“腾笼换鸟”，岚图港股上市，细节全在这了]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 09:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325604.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>这就是大厂的AI「氛围编程」：老工程师现身说法后，大家绷不住了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-5</link>
-      <description>&lt;![CDATA[这就是大厂的AI「氛围编程」：老工程师现身说法后，大家绷不住了]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 13:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-5</guid>
+      <title>群核科技升级空间智能战略，发布两款空间开源模型</title>
+      <link>https://www.qbitai.com/2025/08/325603.html</link>
+      <description>&lt;![CDATA[群核科技升级空间智能战略，发布两款空间开源模型]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325603.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科学界论文高引第一人易主！AI站上历史巅峰</title>
-      <link>https://www.qbitai.com/2025/08/325585.html</link>
-      <description>&lt;![CDATA[科学界论文高引第一人易主！AI站上历史巅峰]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325585.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>人均300万的青年科学家大奖“男女条件不平等”？颜宁解释了</title>
-      <link>https://www.qbitai.com/2025/08/325539.html</link>
-      <description>&lt;![CDATA[人均300万的青年科学家大奖“男女条件不平等”？颜宁解释了]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 06:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325539.html</guid>
+      <title>How lidar measures the cost of climate disasters</title>
+      <link>https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/</link>
+      <description>&lt;![CDATA[How lidar measures the cost of climate disasters]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/</guid>
       <category>AI</category>
     </item>
   </channel>

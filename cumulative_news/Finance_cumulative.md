@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-25 05:23
+**最后更新时间**: 2025-08-25 23:19
+
+---
+
+## 🆕 最新更新 (2025-08-25 23:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [TikTok calls her ‘32 pizzas mom.’ What her videos can teach us about spending.](https://www.marketwatch.com/bulletins/redirect/go?g=632d4dbe-b940-40fb-92dc-fe57d024c36f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 23:10
+
+#### [Robinhood misses out on yet another S&P 500 rebalance. Here's who will be added.](https://www.marketwatch.com/bulletins/redirect/go?g=36f82d05-cc73-4df4-9f7f-d99d32ca6c38&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 22:05
+
+#### [Market braces for Nvidia results as stocks struggle to extend Jackson Hole rally](https://www.marketwatch.com/bulletins/redirect/go?g=db532db7-7239-4344-a8c7-bb194761554c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 21:31
+
+#### [Fed Chair Powell just gambled big in Jackson Hole. Will it pay off?](https://www.marketwatch.com/bulletins/redirect/go?g=00983348-d95c-4f29-b139-18392bddc553&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 20:28
+
+#### [Dow sheds nearly 350 points, Nasdaq gives up gains as U.S. stocks close lower](https://www.marketwatch.com/bulletins/redirect/go?g=4a4d8830-4f3b-4b99-abb4-eb0b5e23dde8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 20:03
+
+#### [Dow and S&P 500 falling, Nasdaq ticks up as Nvidia results loom — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=21ce864f-f251-40a5-beb4-a79d3b5a4b5d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 19:03
+
+#### [Stocks kick off week in consolidation mode after Friday's Powell-inspired rally](https://www.marketwatch.com/bulletins/redirect/go?g=269de82c-25cb-45ad-8ca0-39fe5f8ad962&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 13:34
+
+#### [Dow, S&P 500 and Nasdaq set to drop after 846-point blue-chip rally](https://www.marketwatch.com/bulletins/redirect/go?g=f6c801d9-e0c7-4bf5-8f1d-bbc480d6843d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 12:29
+
+#### [Shares of Keurig Dr Pepper drop after announcing $18 billion JDE Peet's deal](https://www.marketwatch.com/bulletins/redirect/go?g=e98a8cb3-4f2f-4a30-bc8d-1655c5d88742&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 11:24
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I am a 65-year old single woman with 25 credit cards. How do I cancel them without hurting my credit score?](https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 22:30
+
+#### [American Eagle needs more than Sydney Sweeney to turn itself around, analysts say](https://www.marketwatch.com/story/american-eagle-needs-more-than-sydney-sweeney-to-turn-itself-around-analysts-say-f5fb74a2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 22:17
+
+#### [AI stocks are in a bubble. Why are so many investors refusing to believe it?](https://www.marketwatch.com/story/ai-stocks-are-in-a-bubble-why-are-so-many-investors-refusing-to-believe-it-cf6e1624?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 22:08
+
+#### [Robinhood misses out on yet another S&P 500 rebalance. This fintech company will soon join instead.](https://www.marketwatch.com/story/robinhood-misses-out-on-yet-another-s-p-500-rebalance-this-fintech-company-will-soon-join-instead-fb20fc90?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 21:55
+
+#### [I’m a widow with $200,000 in a brokerage account. So why am I treated so poorly?](https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 21:45
+
+#### [‘My brother found God in recovery’: How do you save for retirement when ‘God will provide’ is your core value?](https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 21:45
+
+#### [TikTok calls her ‘32 pizzas mom.’ What her videos can teach us about how we spend money.](https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 20:51
+
+#### [Stock market braces for Nvidia earnings as S&P 500 struggles to extend Jackson Hole rally](https://www.marketwatch.com/story/stock-market-braces-for-nvidia-earnings-as-s-p-500-struggles-to-extend-jackson-hole-rally-3da76254?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 20:40
+
+#### [Powell just gambled big in Jackson Hole. Will it pay off?](https://www.marketwatch.com/story/powell-just-gambled-big-in-jackson-hole-will-it-pay-off-ab1b64a4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 20:24
 
 ---
 
