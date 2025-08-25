@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-24 23:23
+**最后更新时间**: 2025-08-25 05:23
+
+---
+
+## 🆕 最新更新 (2025-08-25 05:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures slip following Friday’s Fed-fueled rally](https://www.marketwatch.com/story/u-s-stock-futures-flat-following-fridays-fed-fueled-rally-138badbf?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 02:34
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Best man: I’ve spent $4,400 on one wedding and can’t afford it anymore](https://www.marketwatch.com/bulletins/redirect/go?g=a9a1b0d5-bec8-49a7-898e-0e178b5f41a4&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 01:16
+
+#### [Fed may cut rates in September. Why the long pause may extend stocks’ rally.](https://www.marketwatch.com/bulletins/redirect/go?g=965483f3-004e-4499-a7b9-fb9fe404edcc&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-25 00:08
+
+#### [Keurig Dr Pepper reportedly near $18B deal to buy coffee company JDE Peet's](https://www.marketwatch.com/bulletins/redirect/go?g=0afbc50d-23ea-4490-bed2-3bf315d06c46&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-24 23:22
 
 ---
 

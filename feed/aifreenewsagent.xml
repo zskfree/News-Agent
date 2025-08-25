@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 24 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2025 23:23:34 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 05:24:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>三个月、零基础手搓一块TPU，能推理能训练，还是开源的</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-24-3</link>
-      <description>&lt;![CDATA[三个月、零基础手搓一块TPU，能推理能训练，还是开源的]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 20:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-24-3</guid>
+      <title>DAIQ: Auditing Demographic Attribute Inference from Question in LLMs</title>
+      <link>https://arxiv.org/abs/2508.15830</link>
+      <description>&lt;![CDATA[DAIQ: Auditing Demographic Attribute Inference from Question in LLMs]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15830</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>超越宇宙极限：第六位海狸数再次突破，无法用常规数学符号表达</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-24-2</link>
-      <description>&lt;![CDATA[超越宇宙极限：第六位海狸数再次突破，无法用常规数学符号表达]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 20:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-24-2</guid>
+      <title>Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration</title>
+      <link>https://arxiv.org/abs/2508.15809</link>
+      <description>&lt;![CDATA[Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.15809</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>仅靠5000+样本，全新强化学习范式让30B轻松击败671B的DeepSeek V3</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-24</link>
-      <description>&lt;![CDATA[仅靠5000+样本，全新强化学习范式让30B轻松击败671B的DeepSeek V3]]&gt;</description>
-      <pubDate>Sun, 24 Aug 2025 19:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-24</guid>
+      <title>用原子制作薛定谔的猫，AI助力组装未来量子计算机的「大脑」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-25-4</link>
+      <description>&lt;![CDATA[用原子制作薛定谔的猫，AI助力组装未来量子计算机的「大脑」]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI智能体加持，爆款视频产出速度提升了10倍，全民导演时代已来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-25-3</link>
+      <description>&lt;![CDATA[AI智能体加持，爆款视频产出速度提升了10倍，全民导演时代已来]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球百万网友迷上赛博「养鱼」，我也被这群AI小丑鱼拿捏了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-25-2</link>
+      <description>&lt;![CDATA[全球百万网友迷上赛博「养鱼」，我也被这群AI小丑鱼拿捏了]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型能否为不同硬件平台生成高性能内核？南大、浙大提出跨平台内核生成评测框架MultiKernelBench</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-25</link>
+      <description>&lt;![CDATA[大模型能否为不同硬件平台生成高性能内核？南大、浙大提出跨平台内核生成评测框架MultiKernelBench]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克成立新公司「巨硬」：用AI把微软产品重做一遍</title>
+      <link>https://www.qbitai.com/2025/08/325516.html</link>
+      <description>&lt;![CDATA[马斯克成立新公司「巨硬」：用AI把微软产品重做一遍]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 01:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325516.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CoFE: A Framework Generating Counterfactual ECG for Explainable Cardiac AI-Diagnostics</title>
+      <link>https://arxiv.org/abs/2508.16033</link>
+      <description>&lt;![CDATA[CoFE: A Framework Generating Counterfactual ECG for Explainable Cardiac AI-Diagnostics]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.16033</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles</title>
+      <link>https://arxiv.org/abs/2508.16072</link>
+      <description>&lt;![CDATA[InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.16072</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>IR-Agent: Expert-Inspired LLM Agents for Structure Elucidation from Infrared Spectra</title>
+      <link>https://arxiv.org/abs/2508.16112</link>
+      <description>&lt;![CDATA[IR-Agent: Expert-Inspired LLM Agents for Structure Elucidation from Infrared Spectra]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.16112</guid>
       <category>AI</category>
     </item>
   </channel>
