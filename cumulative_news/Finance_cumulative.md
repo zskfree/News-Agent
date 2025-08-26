@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-25 23:19
+**最后更新时间**: 2025-08-26 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-26 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says he’s fired Fed governor Lisa Cook, in move to control U.S. central bank’s board](https://www.marketwatch.com/story/trump-says-he-has-fired-federal-reserve-governor-lisa-cook-9a032f11?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 03:27
+
+#### [Netflix expands its live-sports reach, wins Japanese rights to 2026 World Baseball Classic](https://www.marketwatch.com/story/netflix-expands-its-live-sports-reach-wins-japanese-rights-to-2026-world-baseball-classic-273ecf6d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 00:14
+
+#### [Apple no longer innovates — it waits. And with AI, anyone playing it safe will get left behind.](https://www.marketwatch.com/story/apple-is-blowing-its-chance-for-ai-leadership-but-what-else-would-you-expect-88bc1ed2?mod=mw_rss_topstories)
+**发布时间**: 2025-08-25 23:56
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump says he’s fired Fed governor Lisa Cook, in move to control central bank](https://www.marketwatch.com/bulletins/redirect/go?g=79e1f254-e647-410c-af40-01d62c105507&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 02:10
+
+#### [Trump says he has fired Federal Reserve governor Lisa Cook](https://www.marketwatch.com/bulletins/redirect/go?g=cc916705-a65f-43a6-9f23-2e935b47a748&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 00:43
 
 ---
 

@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-25 23:19
+**最后更新时间**: 2025-08-26 05:20
+
+---
+
+## 🆕 最新更新 (2025-08-26 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Docker内容信任退役，替代方案蓬勃发展](https://www.infoq.cn/article/Abe27fT6OvRpVIGWt4aB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 13:00
+
+#### [尺寸更小、性能更强，阿里国际升级开源多模态大模型Ovis2.5](https://www.infoq.cn/article/EdmdFq46hZdBjGu2HLdb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 11:30
+
+#### [AWS Lambda 新增 GitHub Actions 支持](https://www.infoq.cn/article/Jv3cKQSB2QsSWPr0yZ9j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 11:00
+
+#### [.NET 10预览版7增强ASP.NET Core、Blazor和MAUI，并实现C# 14的全部功能](https://www.infoq.cn/article/oD0MPefi9F0X1eY8WbqN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 10:38
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [特朗普“趁火打劫”英特尔、英伟达](https://www.tmtpost.com/7672066.html)
+**发布时间**: 2025-08-26 12:51
+
+#### [Vivo Unveils Vision Explorer Edition, Sets Sights on Mixed Reality and Home Robotics](https://www.tmtpost.com/7672236.html)
+**发布时间**: 2025-08-26 12:48
+
+#### [从Salesforce切换至中国CRM，这家投中OpenAI的澳洲资管看上了哪些在华机会？](https://www.tmtpost.com/7671503.html)
+**发布时间**: 2025-08-26 12:00
+
+#### [大规模甩卖分布式光伏后，电力央企集体转向“大基地”](https://www.tmtpost.com/7671995.html)
+**发布时间**: 2025-08-26 11:56
+
+#### [继超市经理、猫咪之后，监狱逃脱模拟器或成下一个爆款？模拟器游戏题材选择标准正向下发展](https://www.tmtpost.com/7671890.html)
+**发布时间**: 2025-08-26 11:33
+
+#### [高奢酒店业主群中，挤满了各地国资](https://www.tmtpost.com/7672076.html)
+**发布时间**: 2025-08-26 11:33
+
+#### [“前老板娘”火力全开，炮轰可靠股份不可靠](https://www.tmtpost.com/7672077.html)
+**发布时间**: 2025-08-26 11:33
+
+#### [Nvidia Stock Gains 1% after New "Robot Brain" Jetson Thor Released](https://www.tmtpost.com/7672117.html)
+**发布时间**: 2025-08-26 11:30
+
+#### [Trump Vows to Cut Drug Prices by Up to 1500% as  Deadline Looms](https://www.tmtpost.com/7672061.html)
+**发布时间**: 2025-08-26 10:48
+
+#### [AI+微恐+美女，华南厂商又跑出一批小游戏](https://www.tmtpost.com/7671908.html)
+**发布时间**: 2025-08-26 10:37
+
+#### [半导体设备龙头拟收购北京为准控制权；西北畜牧龙头再扩张：拟收购羌都畜牧；【并购一线】](https://www.tmtpost.com/7671578.html)
+**发布时间**: 2025-08-26 10:31
+
+#### [两大巨头被传“卖身”，全球咖啡市场格局生变](https://www.tmtpost.com/7671938.html)
+**发布时间**: 2025-08-26 10:29
+
+#### [Z 世代更喜欢吃辣了，品牌要做点啥？](https://www.tmtpost.com/7671933.html)
+**发布时间**: 2025-08-26 10:29
+
+#### [阿里“亲儿子”闯港股，斑马智行流血自救？](https://www.tmtpost.com/7671939.html)
+**发布时间**: 2025-08-26 10:29
+
+#### [长视频平台，天生命不好](https://www.tmtpost.com/7671974.html)
+**发布时间**: 2025-08-26 10:29
+
+#### [2025夏季雪糕/冰淇淋发展趋势及竞争观察](https://www.tmtpost.com/7671209.html)
+**发布时间**: 2025-08-26 10:15
+
+#### [Trump Threatens to Impose "Substantial" New Tariffs on Countries with Digital Taxes and Law](https://www.tmtpost.com/7671911.html)
+**发布时间**: 2025-08-26 10:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [打工人留学的现实成本与结局](https://sspai.com/post/101882)
+**发布时间**: 2025-08-26 11:35
+
+#### [派早报：鸿蒙智行举办秋季新品发布会，钉钉推出首款 AI 硬件等](https://sspai.com/post/102095)
+**发布时间**: 2025-08-26 08:46
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [短剧出圈｜盘一盘短剧营销的机会与泡沫](http://www.huxiu.com/article/4724024.html?f=wangzhan)
+**发布时间**: 2025-08-26 07:45
+
+#### [马斯克救不了特斯拉](http://www.huxiu.com/article/4730067.html?f=wangzhan)
+**发布时间**: 2025-08-26 07:28
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)
+**发布时间**: 2025-08-26 05:14
+
+#### [20% Off LG Promo Codes & Coupons](https://www.wired.com/story/lg-promo-code/)
+**发布时间**: 2025-08-26 05:00
+
+#### [KitchenAid Promo Code: 25% Off in August 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+**发布时间**: 2025-08-26 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [YouTube TV could lose Fox channels this week](https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute)
+**发布时间**: 2025-08-26 00:26
 
 ---
 

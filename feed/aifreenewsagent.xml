@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 25 Aug 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 23:19:33 GMT</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 05:21:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球开源大模型，前十五名全是中国的</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-13</link>
-      <description>&lt;![CDATA[全球开源大模型，前十五名全是中国的]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 18:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-13</guid>
+      <title>刚刚，马斯克将OpenAI和苹果告上法庭：指控ChatGPT垄断iPhone，自家Grok被打压</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-26-2</link>
+      <description>&lt;![CDATA[刚刚，马斯克将OpenAI和苹果告上法庭：指控ChatGPT垄断iPhone，自家Grok被打压]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>唯快不破：上海AI Lab 82页综述带你感受LLM高效架构的魅力</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-25-12</link>
-      <description>&lt;![CDATA[唯快不破：上海AI Lab 82页综述带你感受LLM高效架构的魅力]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 18:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-25-12</guid>
+      <title>英伟达通用机器人芯片来了：AI算力提升7.5倍，宇树、银河通用已搭载</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-26-5</link>
+      <description>&lt;![CDATA[英伟达通用机器人芯片来了：AI算力提升7.5倍，宇树、银河通用已搭载]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>New technologies tackle brain health assessment for the military</title>
-      <link>https://news.mit.edu/2025/new-technologies-tackle-brain-health-assessment-for-military-0825</link>
-      <description>&lt;![CDATA[New technologies tackle brain health assessment for the military]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-technologies-tackle-brain-health-assessment-for-military-0825</guid>
+      <title>AI+分子动力学，6.3万条轨迹重塑药物亲和力预测，超大规模蛋白-配体亲和力数据集来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-26-3</link>
+      <description>&lt;![CDATA[AI+分子动力学，6.3万条轨迹重塑药物亲和力预测，超大规模蛋白-配体亲和力数据集来了]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 12:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Can large language models figure out the real world?</title>
-      <link>https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825</link>
-      <description>&lt;![CDATA[Can large language models figure out the real world?]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825</guid>
+      <title>ChatGPT到底学了多少「污言秽语」？清华团队首提大语言模型中文语料污染治理技术</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-26</link>
+      <description>&lt;![CDATA[ChatGPT到底学了多少「污言秽语」？清华团队首提大语言模型中文语料污染治理技术]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>最高提效8倍！腾讯游戏发布专业游戏AI大模型，美术师做动画不用辣么“肝”了</title>
-      <link>https://www.qbitai.com/2025/08/325680.html</link>
-      <description>&lt;![CDATA[最高提效8倍！腾讯游戏发布专业游戏AI大模型，美术师做动画不用辣么“肝”了]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325680.html</guid>
+      <title>售价2万5！英伟达推出机器人“最强大脑”：AI算力飙升750%配128GB大内存，宇树已经用上了</title>
+      <link>https://www.qbitai.com/2025/08/325709.html</link>
+      <description>&lt;![CDATA[售价2万5！英伟达推出机器人“最强大脑”：AI算力飙升750%配128GB大内存，宇树已经用上了]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325709.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>东风“腾笼换鸟”，岚图港股上市，细节全在这了</title>
-      <link>https://www.qbitai.com/2025/08/325604.html</link>
-      <description>&lt;![CDATA[东风“腾笼换鸟”，岚图港股上市，细节全在这了]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325604.html</guid>
+      <title>Evaluation and LLM-Guided Learning of ICD Coding Rationales</title>
+      <link>https://arxiv.org/abs/2508.16777</link>
+      <description>&lt;![CDATA[Evaluation and LLM-Guided Learning of ICD Coding Rationales]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.16777</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>群核科技升级空间智能战略，发布两款空间开源模型</title>
-      <link>https://www.qbitai.com/2025/08/325603.html</link>
-      <description>&lt;![CDATA[群核科技升级空间智能战略，发布两款空间开源模型]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325603.html</guid>
+      <title>Quantifying Sycophancy as Deviations from Bayesian Rationality in LLMs</title>
+      <link>https://arxiv.org/abs/2508.16846</link>
+      <description>&lt;![CDATA[Quantifying Sycophancy as Deviations from Bayesian Rationality in LLMs]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.16846</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How lidar measures the cost of climate disasters</title>
-      <link>https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/</link>
-      <description>&lt;![CDATA[How lidar measures the cost of climate disasters]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/</guid>
+      <title>RADAR: A Reasoning-Guided Attribution Framework for Explainable Visual Data Analysis</title>
+      <link>https://arxiv.org/abs/2508.16850</link>
+      <description>&lt;![CDATA[RADAR: A Reasoning-Guided Attribution Framework for Explainable Visual Data Analysis]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.16850</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>PowerChain: Automating Distribution Grid Analysis with Agentic AI Workflows</title>
+      <link>https://arxiv.org/abs/2508.17094</link>
+      <description>&lt;![CDATA[PowerChain: Automating Distribution Grid Analysis with Agentic AI Workflows]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.17094</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Rethinking How AI Embeds and Adapts to Human Values: Challenges and Opportunities</title>
+      <link>https://arxiv.org/abs/2508.17104</link>
+      <description>&lt;![CDATA[Rethinking How AI Embeds and Adapts to Human Values: Challenges and Opportunities]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.17104</guid>
       <category>AI</category>
     </item>
   </channel>
