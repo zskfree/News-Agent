@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-26 05:20
+**最后更新时间**: 2025-08-26 08:29
+
+---
+
+## 🆕 最新更新 (2025-08-26 08:29)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Billions wiped off value of French banks with Bayrou-led government on verge of collapse](https://www.marketwatch.com/story/billions-wiped-off-value-of-french-banks-with-bayrou-led-government-on-verge-of-collapse-b6ef0d84?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 08:12
 
 ---
 

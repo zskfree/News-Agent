@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 Aug 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 05:22:21 GMT</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 08:30:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>长视频平台，天生命不好</title>
-      <link>https://www.tmtpost.com/7671974.html</link>
-      <description>&lt;![CDATA[长视频平台，天生命不好]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7671974.html</guid>
+      <title>AI Agent：开创新质生产力新篇章</title>
+      <link>https://www.tmtpost.com/7672067.html</link>
+      <description>&lt;![CDATA[AI Agent：开创新质生产力新篇章]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7672067.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：鸿蒙智行举办秋季新品发布会，钉钉推出首款 AI 硬件等</title>
-      <link>https://sspai.com/post/102095</link>
-      <description>&lt;![CDATA[派早报：鸿蒙智行举办秋季新品发布会，钉钉推出首款 AI 硬件等]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102095</guid>
+      <title>“教医养”生态协同发力，东软睿新科技集团2025年上半年营收9.25亿</title>
+      <link>https://www.tmtpost.com/7672354.html</link>
+      <description>&lt;![CDATA[“教医养”生态协同发力，东软睿新科技集团2025年上半年营收9.25亿]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7672354.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker内容信任退役，替代方案蓬勃发展</title>
-      <link>https://www.infoq.cn/article/Abe27fT6OvRpVIGWt4aB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker内容信任退役，替代方案蓬勃发展]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Abe27fT6OvRpVIGWt4aB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>最佳实践征文｜用 TRAE SOLO 5 分钟复刻童年《坦克大战》</title>
+      <link>https://www.infoq.cn/article/di47X7Sv7A73di8qTwRQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[最佳实践征文｜用 TRAE SOLO 5 分钟复刻童年《坦克大战》]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/di47X7Sv7A73di8qTwRQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>尺寸更小、性能更强，阿里国际升级开源多模态大模型Ovis2.5</title>
-      <link>https://www.infoq.cn/article/EdmdFq46hZdBjGu2HLdb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[尺寸更小、性能更强，阿里国际升级开源多模态大模型Ovis2.5]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EdmdFq46hZdBjGu2HLdb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cloudflare在GCP中断后重构了Workers KV，实现了40倍的性能提升</title>
+      <link>https://www.infoq.cn/article/04oCUGUZaq3BwrPY9jf7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare在GCP中断后重构了Workers KV，实现了40倍的性能提升]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/04oCUGUZaq3BwrPY9jf7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AWS Lambda 新增 GitHub Actions 支持</title>
-      <link>https://www.infoq.cn/article/Jv3cKQSB2QsSWPr0yZ9j?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AWS Lambda 新增 GitHub Actions 支持]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Jv3cKQSB2QsSWPr0yZ9j?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Unsloth教程致力于简化LLM的对比和微调</title>
+      <link>https://www.infoq.cn/article/Uw6PAdx9qqLIT9p8ZFmB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Unsloth教程致力于简化LLM的对比和微调]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Uw6PAdx9qqLIT9p8ZFmB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>.NET 10预览版7增强ASP.NET Core、Blazor和MAUI，并实现C# 14的全部功能</title>
-      <link>https://www.infoq.cn/article/oD0MPefi9F0X1eY8WbqN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[.NET 10预览版7增强ASP.NET Core、Blazor和MAUI，并实现C# 14的全部功能]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oD0MPefi9F0X1eY8WbqN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>8月26日A股分析：沪指微跌0.39%，创业板指下挫0.75%，主力资金大幅净流出776亿，LED与虚拟现实板块逆势吸金</title>
+      <link>https://www.tmtpost.com/7672478.html</link>
+      <description>&lt;![CDATA[8月26日A股分析：沪指微跌0.39%，创业板指下挫0.75%，主力资金大幅净流出776亿，LED与虚拟现实板块逆势吸金]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7672478.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>特朗普“趁火打劫”英特尔、英伟达</title>
-      <link>https://www.tmtpost.com/7672066.html</link>
-      <description>&lt;![CDATA[特朗普“趁火打劫”英特尔、英伟达]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7672066.html</guid>
+      <title>BOE and JD.com Double Down on Consumer-Centric Innovation With &quot;Shuangjing Empowerment&quot; Push</title>
+      <link>https://www.tmtpost.com/7672503.html</link>
+      <description>&lt;![CDATA[BOE and JD.com Double Down on Consumer-Centric Innovation With &quot;Shuangjing Empowerment&quot; Push]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7672503.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vivo Unveils Vision Explorer Edition, Sets Sights on Mixed Reality and Home Robotics</title>
-      <link>https://www.tmtpost.com/7672236.html</link>
-      <description>&lt;![CDATA[Vivo Unveils Vision Explorer Edition, Sets Sights on Mixed Reality and Home Robotics]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7672236.html</guid>
+      <title>拼多多：重回摇钱树？国内平稳，国外受冲击但也不差</title>
+      <link>https://www.tmtpost.com/7671548.html</link>
+      <description>&lt;![CDATA[拼多多：重回摇钱树？国内平稳，国外受冲击但也不差]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7671548.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从Salesforce切换至中国CRM，这家投中OpenAI的澳洲资管看上了哪些在华机会？</title>
-      <link>https://www.tmtpost.com/7671503.html</link>
-      <description>&lt;![CDATA[从Salesforce切换至中国CRM，这家投中OpenAI的澳洲资管看上了哪些在华机会？]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7671503.html</guid>
+      <title>快手前高管涉贪1.4亿，创下大厂贪腐新纪录</title>
+      <link>https://www.tmtpost.com/7671427.html</link>
+      <description>&lt;![CDATA[快手前高管涉贪1.4亿，创下大厂贪腐新纪录]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7671427.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大规模甩卖分布式光伏后，电力央企集体转向“大基地”</title>
-      <link>https://www.tmtpost.com/7671995.html</link>
-      <description>&lt;![CDATA[大规模甩卖分布式光伏后，电力央企集体转向“大基地”]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7671995.html</guid>
+      <title>老铺黄金年内二次提价，奢品之路能走多远？</title>
+      <link>https://www.tmtpost.com/7672056.html</link>
+      <description>&lt;![CDATA[老铺黄金年内二次提价，奢品之路能走多远？]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7672056.html</guid>
       <category>Technology</category>
     </item>
   </channel>
