@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 Aug 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 08:30:00 GMT</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 23:21:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Karpathy氛围编程最新指南！三层AI编程结构：顺境Cursor，逆境Claude，绝境GPT-5 Pro</title>
-      <link>https://www.qbitai.com/2025/08/325870.html</link>
-      <description>&lt;![CDATA[Karpathy氛围编程最新指南！三层AI编程结构：顺境Cursor，逆境Claude，绝境GPT-5 Pro]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 06:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325870.html</guid>
+      <title>Fix damaged art in hours with AI</title>
+      <link>https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/</link>
+      <description>&lt;![CDATA[Fix damaged art in hours with AI]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>清华辍学、斯坦福睡地板，华人小哥用AI社交挑战Meta，融资数千万美元</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-26-6</link>
-      <description>&lt;![CDATA[清华辍学、斯坦福睡地板，华人小哥用AI社交挑战Meta，融资数千万美元]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-6</guid>
+      <title>‘Bubbles’ turn air into drinkable water</title>
+      <link>https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/</link>
+      <description>&lt;![CDATA[‘Bubbles’ turn air into drinkable water]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>粉笔事业单位AI刷题班上线，AI产品矩阵全面落地，商业化进程加速</title>
-      <link>https://www.qbitai.com/2025/08/325954.html</link>
-      <description>&lt;![CDATA[粉笔事业单位AI刷题班上线，AI产品矩阵全面落地，商业化进程加速]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 07:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325954.html</guid>
+      <title>ICML 2025 | 作业帮团队提出基于能量的偏好模型(EBM)，攻克LLM对齐痛点，性能超越主流方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-26-10</link>
+      <description>&lt;![CDATA[ICML 2025 | 作业帮团队提出基于能量的偏好模型(EBM)，攻克LLM对齐痛点，性能超越主流方法]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 17:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一天之内，Meta痛失两员大将，小扎钞能力失效？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-26-9</link>
-      <description>&lt;![CDATA[一天之内，Meta痛失两员大将，小扎钞能力失效？]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-9</guid>
+      <title>GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！</title>
+      <link>https://www.qbitai.com/2025/08/326166.html</link>
+      <description>&lt;![CDATA[GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 09:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326166.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌偷偷搞了个神秘模型Nano-Banana？实测：强到离谱，但有3大硬伤</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-26-8</link>
-      <description>&lt;![CDATA[谷歌偷偷搞了个神秘模型Nano-Banana？实测：强到离谱，但有3大硬伤]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 15:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-8</guid>
+      <title>阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投</title>
+      <link>https://www.qbitai.com/2025/08/326119.html</link>
+      <description>&lt;![CDATA[阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 08:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326119.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>热议！DeepSeek V3.1惊现神秘「极」字Bug，模型故障了？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-26-7</link>
-      <description>&lt;![CDATA[热议！DeepSeek V3.1惊现神秘「极」字Bug，模型故障了？]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-7</guid>
+      <title>Reimagining sound and space</title>
+      <link>https://www.technologyreview.com/2025/08/26/1120984/reimagining-sound-and-space/</link>
+      <description>&lt;![CDATA[Reimagining sound and space]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1120984/reimagining-sound-and-space/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>物理学又一乌云消散，希格斯玻色子衰变为μ子新证据出现，或超越标准模型</title>
-      <link>https://www.qbitai.com/2025/08/325981.html</link>
-      <description>&lt;![CDATA[物理学又一乌云消散，希格斯玻色子衰变为μ子新证据出现，或超越标准模型]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 07:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325981.html</guid>
+      <title>Junior Peña, neutrino hunter</title>
+      <link>https://www.technologyreview.com/2025/08/26/1120988/junior-pena-neutrino-hunter/</link>
+      <description>&lt;![CDATA[Junior Peña, neutrino hunter]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1120988/junior-pena-neutrino-hunter/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克最新暴论：激光雷达和雷达让自动驾驶更不安全</title>
-      <link>https://www.qbitai.com/2025/08/325902.html</link>
-      <description>&lt;![CDATA[马斯克最新暴论：激光雷达和雷达让自动驾驶更不安全]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 07:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325902.html</guid>
+      <title>MIT is worth fighting for</title>
+      <link>https://www.technologyreview.com/2025/08/26/1120999/mit-is-worth-fighting-for/</link>
+      <description>&lt;![CDATA[MIT is worth fighting for]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1120999/mit-is-worth-fighting-for/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苹果折叠屏最新爆料：Touch ID正式回归，4摄系统首次亮相！</title>
-      <link>https://www.qbitai.com/2025/08/325901.html</link>
-      <description>&lt;![CDATA[苹果折叠屏最新爆料：Touch ID正式回归，4摄系统首次亮相！]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325901.html</guid>
+      <title>Infinite Threads</title>
+      <link>https://www.technologyreview.com/2025/08/26/1121004/infinite-threads/</link>
+      <description>&lt;![CDATA[Infinite Threads]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121004/infinite-threads/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>世界首例！中国团队将基因编辑猪肺成功移植人体</title>
-      <link>https://www.qbitai.com/2025/08/325882.html</link>
-      <description>&lt;![CDATA[世界首例！中国团队将基因编辑猪肺成功移植人体]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 06:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/325882.html</guid>
+      <title>Emergency help for low blood sugar</title>
+      <link>https://www.technologyreview.com/2025/08/26/1121014/emergency-help-for-low-blood-sugar/</link>
+      <description>&lt;![CDATA[Emergency help for low blood sugar]]&gt;</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121014/emergency-help-for-low-blood-sugar/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,172 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-26 08:29
+**最后更新时间**: 2025-08-26 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-26 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [疫苗寒冬研发砍半，沃森生物净利仍降75%｜看财报](https://www.tmtpost.com/7673242.html)
+**发布时间**: 2025-08-26 23:46
+
+#### [电源芯片龙头拟以2.95亿元现金收购上海兴感半导体；风电龙头拟1.1亿元收购河北风场；【并购一线】](https://www.tmtpost.com/7673235.html)
+**发布时间**: 2025-08-26 23:41
+
+#### [投5000万套现7亿，豫园股份中报藏着老铺黄金的造富神话｜看财报](https://www.tmtpost.com/7673116.html)
+**发布时间**: 2025-08-26 22:46
+
+#### [酒企如何破局调整期？国台酒厂商携手成立平台公司开新局](https://www.tmtpost.com/7673001.html)
+**发布时间**: 2025-08-26 20:13
+
+#### [对话元戎启行CEO周光：VLA模型主要成本是AI芯片，已实现近10万辆辅助驾驶方案交付](https://www.tmtpost.com/7670755.html)
+**发布时间**: 2025-08-26 20:11
+
+#### [深圳经济特区45年：从杀出血路到创出新路](https://www.tmtpost.com/7672855.html)
+**发布时间**: 2025-08-26 19:03
+
+#### [服务器CPU，变局已至](https://www.tmtpost.com/7672881.html)
+**发布时间**: 2025-08-26 19:03
+
+#### [折腾一年后负增长，蓝月亮做错了什么？](https://www.tmtpost.com/7671559.html)
+**发布时间**: 2025-08-26 18:52
+
+#### [内斗激化，利润腰斩，可靠股份“爱情”与业绩皆难可靠 | 看财报](https://www.tmtpost.com/7672760.html)
+**发布时间**: 2025-08-26 18:33
+
+#### [锂电行业洗牌加速：跨界者退场，巨头赴港融资｜钛度车库](https://www.tmtpost.com/7670355.html)
+**发布时间**: 2025-08-26 18:15
+
+#### [21家新能源制造商集体赴港IPO，这项业务最能赚到钱](https://www.tmtpost.com/7672806.html)
+**发布时间**: 2025-08-26 18:13
+
+#### [瑞士生物科技公司Anaveon研发IL-2受体激动剂，突破基于IL-2的癌症免疫疗法限制 | 瑞士创新100强](https://www.tmtpost.com/7672736.html)
+**发布时间**: 2025-08-26 18:10
+
+#### [“苏超”爆火也带不动销量，Q2净利骤降37%，今世缘“黑马”失速｜看财报](https://www.tmtpost.com/7672780.html)
+**发布时间**: 2025-08-26 18:09
+
+#### [铂科新材中报：业绩增长失速，产能扩张能否解增长焦虑？| 看财报](https://www.tmtpost.com/7672748.html)
+**发布时间**: 2025-08-26 18:05
+
+#### [无招回归钉钉145天，想用表格卷「死」对手](https://www.tmtpost.com/7672658.html)
+**发布时间**: 2025-08-26 17:43
+
+#### [邪修马斯克，只能靠中国回血了](https://www.tmtpost.com/7672661.html)
+**发布时间**: 2025-08-26 17:43
+
+#### [福瑞达增长动能“断档”：瑷尔博士失速，线下拓展与新业务尚难扛大旗 | 看财报](https://www.tmtpost.com/7672612.html)
+**发布时间**: 2025-08-26 17:34
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Google Will Make All Android App Developers Verify Their Identity Starting Next Year](https://www.wired.com/story/google-will-prevent-sideloading-of-unverified-android-apps-from-next-year/)
+**发布时间**: 2025-08-26 21:17
+
+#### [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
+**发布时间**: 2025-08-26 19:31
+
+#### [The 39 Best Shows on Apple TV+ Right Now (September 2025)](https://www.wired.com/story/best-apple-tv-plus-shows/)
+**发布时间**: 2025-08-26 19:00
+
+#### [Looking to Buy a Window Air Conditioner? Read This First](https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/)
+**发布时间**: 2025-08-26 18:08
+
+#### [Sonos Era 300 Sale: The Big Sonos Speaker Is 20 Percent Off](https://www.wired.com/story/sonos-era-300-deal/)
+**发布时间**: 2025-08-26 18:05
+
+#### [Researchers Are Already Leaving Meta’s New Superintelligence Lab](https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/)
+**发布时间**: 2025-08-26 18:00
+
+#### [31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
+**发布时间**: 2025-08-26 17:59
+
+#### [Best Bird Feeders With Cameras, Tested and Reviewed (2025)](https://www.wired.com/story/best-smart-bird-feeders/)
+**发布时间**: 2025-08-26 16:35
+
+#### [The Framework Laptop 16 Can Now Be Upgraded to an RTX 5070](https://www.wired.com/story/framework-laptop-16-nvidia-rtx-5070/)
+**发布时间**: 2025-08-26 15:05
+
+#### [14 Best Soundbars We’ve Tested and Reviewed (2025): Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+**发布时间**: 2025-08-26 14:03
+
+#### [Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By](https://www.wired.com/review/lenovo-ideapad-5i-2-in-1/)
+**发布时间**: 2025-08-26 12:30
+
+#### [Matter Is Finally Ready to Deliver the Smart Home It Promised](https://www.wired.com/story/matter-is-finally-on-track-to-deliver-the-smart-home-it-promised/)
+**发布时间**: 2025-08-26 11:00
+
+#### [How They Make the Mario Kart-Style 'Ghost Car' for Auto Racing Broadcasts](https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/)
+**发布时间**: 2025-08-26 10:30
+
+#### [US EV Sales Are Booming—for Now](https://www.wired.com/story/us-ev-sales-are-booming-not-great-for-evs/)
+**发布时间**: 2025-08-26 10:00
+
+#### [Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole](https://www.wired.com/story/uncanny-valley-podcast-big-interview-alexis-ohanian/)
+**发布时间**: 2025-08-26 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft locks down a building after protesters get inside president&#8217;s office](https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office)
+**发布时间**: 2025-08-26 21:14
+
+#### [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)
+**发布时间**: 2025-08-26 20:39
+
+#### [Anthropic settles AI book piracy lawsuit](https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement)
+**发布时间**: 2025-08-26 20:38
+
+#### [Looks like nuclear fusion is picking up steam](https://www.theverge.com/news/766269/nuclear-fusion-project-map)
+**发布时间**: 2025-08-26 20:22
+
+#### [KPop Demon Hunters is Netflix’s most popular movie of all time](https://www.theverge.com/netflix/766280/kpop-demon-hunters-netflix-record)
+**发布时间**: 2025-08-26 20:21
+
+#### [AI super PACs, the hottest investment in tech](https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments)
+**发布时间**: 2025-08-26 20:14
+
+#### [The winners and losers of Taylor Swift’s engagement announcement](https://www.theverge.com/news/766173/taylor-swift-travis-kelce-engagement-announcement-instagram-threads)
+**发布时间**: 2025-08-26 19:04
+
+#### [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)
+**发布时间**: 2025-08-26 18:46
+
+#### [CRKD’s $99 Peak Design clone is great for handhelds](https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review)
+**发布时间**: 2025-08-26 17:10
+
+#### [Dish gives up on becoming the fourth major wireless carrier](https://www.theverge.com/report/766038/dish-echostar-spectrum-att-sale-fourth-carrier)
+**发布时间**: 2025-08-26 16:14
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [把豪车卖爆了的华为，瞄上了比亚迪们 10 万市场的「大蛋糕」](http://www.geekpark.net/news/353110)
+**发布时间**: 2025-08-26 20:58
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [娱乐圈已经没有黄种人了？](http://www.huxiu.com/article/4734401.html?f=wangzhan)
+**发布时间**: 2025-08-26 20:00
+
+#### [一口气深入了解中国如何撬动世界反法西斯战局](http://www.huxiu.com/article/4733372.html?f=wangzhan)
+**发布时间**: 2025-08-26 20:00
+
+#### [中国空间站有个太上老君的“炼丹炉”，它是干嘛用的？](http://www.huxiu.com/article/4735621.html?f=wangzhan)
+**发布时间**: 2025-08-26 19:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场·AGICamp 第 009 周 AI 应用榜单发布：上班效率神器，下班哄娃法宝，本周榜单生活效率+创意力双开挂！](https://www.infoq.cn/article/TkeLgBx7EuGoBiWSfOvy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 18:49
+
+#### [AI 正当时，实践正落地：2025 AICon 深圳站圆满收官](https://www.infoq.cn/article/pA5ulSYSadFbvtsbO2h0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 18:09
+
+#### [从私域知识到智能 Agent：构建智能运维知识库](https://www.infoq.cn/article/aW2smrHbNbf2hx19aRo9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 18:06
+
+#### [更适合“中国体质”的AI芯片、小米和宇树都冲了！英伟达Jetson Thor现已发售，2万块批发价但半年交货](https://www.infoq.cn/article/bbXRoi5WuOBR7wMto6qu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-26 17:25
 
 ---
 

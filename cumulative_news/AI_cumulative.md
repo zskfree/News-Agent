@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-26 08:28
+**最后更新时间**: 2025-08-26 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-26 23:18)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Reimagining sound and space](https://www.technologyreview.com/2025/08/26/1120984/reimagining-sound-and-space/)
+**发布时间**: 2025-08-26 21:00
+
+#### [Junior Peña, neutrino hunter](https://www.technologyreview.com/2025/08/26/1120988/junior-pena-neutrino-hunter/)
+**发布时间**: 2025-08-26 21:00
+
+#### [MIT is worth fighting for](https://www.technologyreview.com/2025/08/26/1120999/mit-is-worth-fighting-for/)
+**发布时间**: 2025-08-26 21:00
+
+#### [Infinite Threads](https://www.technologyreview.com/2025/08/26/1121004/infinite-threads/)
+**发布时间**: 2025-08-26 21:00
+
+#### [Fix damaged art in hours with AI](https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/)
+**发布时间**: 2025-08-26 21:00
+
+#### [‘Bubbles’ turn air into drinkable water](https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/)
+**发布时间**: 2025-08-26 21:00
+
+#### [Emergency help for low blood sugar](https://www.technologyreview.com/2025/08/26/1121014/emergency-help-for-low-blood-sugar/)
+**发布时间**: 2025-08-26 21:00
+
+#### [One-shot vaccines for HIV and covid](https://www.technologyreview.com/2025/08/26/1121017/one-shot-vaccines-for-hiv-and-covid/)
+**发布时间**: 2025-08-26 21:00
+
+#### [Chandrakasan named provost](https://www.technologyreview.com/2025/08/26/1121020/chandrakasan-named-provost/)
+**发布时间**: 2025-08-26 21:00
+
+#### [Recent books from the MIT community](https://www.technologyreview.com/2025/08/26/1121024/recent-books-from-the-mit-community-24/)
+**发布时间**: 2025-08-26 21:00
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [FlashAttention-4震撼来袭，原生支持Blackwell GPU，英伟达的护城河更深了？](https://www.jiqizhixin.com/articles/2025-08-26-13)
+**发布时间**: 2025-08-26 18:13
+
+#### [英伟达再出手！新型混合架构模型问世，两大创新实现53.6倍吞吐提速](https://www.jiqizhixin.com/articles/2025-08-26-12)
+**发布时间**: 2025-08-26 18:09
+
+#### [将数据优势发挥到极致：「杭州六小龙」开源搭建空间智能的第一步](https://www.jiqizhixin.com/articles/2025-08-26-11)
+**发布时间**: 2025-08-26 18:03
+
+#### [ICML 2025 | 作业帮团队提出基于能量的偏好模型(EBM)，攻克LLM对齐痛点，性能超越主流方法](https://www.jiqizhixin.com/articles/2025-08-26-10)
+**发布时间**: 2025-08-26 17:17
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [A scalable framework for evaluating health language models](https://research.google/blog/a-scalable-framework-for-evaluating-health-language-models/)
+**发布时间**: 2025-08-26 12:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [英伟达韩松团队新作：具有后神经架构搜索的高效语言模型](https://www.qbitai.com/2025/08/326237.html)
+**发布时间**: 2025-08-26 11:43
+
+#### [业界首次！跨越1300公里，云深处科技联手当虹科技实现超远程操控机器狗直播](https://www.qbitai.com/2025/08/326229.html)
+**发布时间**: 2025-08-26 10:39
+
+#### [英伟达咽喉上的苏州女人](https://www.qbitai.com/2025/08/326062.html)
+**发布时间**: 2025-08-26 10:19
+
+#### [GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！](https://www.qbitai.com/2025/08/326166.html)
+**发布时间**: 2025-08-26 09:32
+
+#### [商汤元萝卜联动疯狂动物城发布朱迪系列新品](https://www.qbitai.com/2025/08/326152.html)
+**发布时间**: 2025-08-26 09:09
+
+#### [阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投](https://www.qbitai.com/2025/08/326119.html)
+**发布时间**: 2025-08-26 08:32
+
+#### [大模型开发生态还有哪些新机遇？9月13日来外滩找答案 | 报名开启](https://www.qbitai.com/2025/08/326121.html)
+**发布时间**: 2025-08-26 08:27
+
+#### [首个接入GPT-5的视频Agent！一句话生成广告大片，分镜配音全包了](https://www.qbitai.com/2025/08/326063.html)
+**发布时间**: 2025-08-26 08:21
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Simpler models can outperform deep learning at climate prediction](https://news.mit.edu/2025/simpler-models-can-outperform-deep-learning-climate-prediction-0826)
+**发布时间**: 2025-08-26 09:00
 
 ---
 

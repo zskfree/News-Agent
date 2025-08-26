@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-26 08:29
+**最后更新时间**: 2025-08-26 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-26 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Your Social Security number is at risk, thanks to DOGE, whistleblower says](https://www.marketwatch.com/bulletins/redirect/go?g=995e013a-2de8-4a02-97fb-e89b34c4b3df&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 23:01
+
+#### [Why mortgage rates may not fall as fast as you think — even if the Fed cuts soon](https://www.marketwatch.com/bulletins/redirect/go?g=1b8570d2-768a-4fe5-8b2f-82793063f500&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 22:03
+
+#### [Trump’s challenge to Fed’s independence may make gold the ‘safe haven of choice'](https://www.marketwatch.com/bulletins/redirect/go?g=55eb83f5-a48b-4b34-88b5-32e76c97a27e&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 21:10
+
+#### [Dow, Nasdaq and S&P 500 close higher despite Trump's attempt to fire Fed's Cook](https://www.marketwatch.com/bulletins/redirect/go?g=6b7f26e6-7972-4c2c-a967-e51fdcc42396&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 20:06
+
+#### [Dow recovering losses as stocks brush off Trump’s bid to fire Fed’s Cook — live](https://www.marketwatch.com/bulletins/redirect/go?g=1781e185-4c1b-48af-8c1a-75831e711448&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 19:06
+
+#### [Wall Street is more focused on Nvidia than on threat posed to Fed independence](https://www.marketwatch.com/bulletins/redirect/go?g=42d87a5a-c9c7-40ab-a515-8e978a1b9439&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 17:31
+
+#### [Watch for Starbucks and Dunkin’ to enjoy a pumpkin-spice halo effect](https://www.marketwatch.com/bulletins/redirect/go?g=5d0e7714-026f-41e6-8f72-1f66a0bb2fe2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 17:05
+
+#### [Consumers’ view of the U.S. job market has deteriorated](https://www.marketwatch.com/bulletins/redirect/go?g=ee822577-d759-4a9e-a375-851dca5453ef&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 14:14
+
+#### [U.S. stocks mixed at opening bell even after Trump’s play for Fed influence](https://www.marketwatch.com/bulletins/redirect/go?g=3b13525a-373f-4711-bfc5-7c4362400aae&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 13:36
+
+#### [Boeing cited in U.S. durable-goods-orders retreat last month](https://www.marketwatch.com/bulletins/redirect/go?g=8c1180af-d38d-4b3a-ac59-f10a6a97027f&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 12:39
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Everyone was grieving’: Did my wife’s brothers cheat her out of her inheritance? There’s a condo and $550K at stake.](https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 23:00
+
+#### [Lilly obesity-pill trial results find a warmer reception on Wall Street this time around](https://www.marketwatch.com/story/lilly-obesity-pill-trial-results-find-a-warmer-reception-on-wall-street-this-time-around-ebffcf94?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 22:38
+
+#### [AMD’s stock is rising as the competitive battle with Nvidia enters a new dimension](https://www.marketwatch.com/story/amds-stock-is-rising-as-the-competitive-battle-with-nvidia-hits-a-new-dimension-16fe37ef?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 22:33
+
+#### [‘They knocked her down and started biting’: My mother, 84, was viciously attacked by her neighbor’s two dogs. Do we sue?](https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 22:22
+
+#### [I’m the co-CEO of an $800 billion investment firm. Here’s why I need a financial adviser.](https://www.marketwatch.com/story/im-the-co-ceo-of-an-800-billion-investment-firm-heres-why-i-need-a-financial-adviser-2c42f015?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 22:07
+
+#### [This may slow the decline of mortgage rates — even if the Fed soon cuts interest rates](https://www.marketwatch.com/story/this-may-slow-the-decline-of-mortgage-rates-even-if-the-fed-soon-cuts-interest-rates-511926e3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 21:23
+
+#### [Tommy Hilfiger parent says it still expects 2025 to be a comeback year, even as tariffs upend clothing industry](https://www.marketwatch.com/story/tommy-hilfiger-parent-says-it-still-expects-2025-to-be-a-comeback-year-even-as-tariffs-upend-clothing-industry-c50d7793?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 21:14
+
+#### [Lisa Cook, take the money and run](https://www.marketwatch.com/story/lisa-cook-take-the-money-and-run-a8edfea4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 21:08
+
+#### [Why Trump’s challenge to Fed’s independence may make gold the ‘safe haven of choice’ for investors](https://www.marketwatch.com/story/why-trumps-challenge-to-feds-independence-may-make-gold-the-safe-haven-of-choice-for-investors-67be0898?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 21:06
 
 ---
 

@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "037db59beb78d11277b0510a5e44d12a95aa565caa53ef1fa369e8b40ba73409": {
-        "title": "中科闻歌发布决策智能操作系统DIOS Infra，从数据到决策，打造企业级AI全栈技术基础设施",
-        "link": "https://www.qbitai.com/2025/07/313457.html",
-        "published_date": "Sun, 27 Jul 2025 07:26:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.804143"
-      },
-      "8305c972adc9d1a839022a8c8023c88ce32e0b4f9cdc9cdd8f354f857e69d835": {
-        "title": "比亚迪14万开卖全能家用SUV：配齐冰箱大沙发，智能泊车兜底“三不限”",
-        "link": "https://www.qbitai.com/2025/07/312970.html",
-        "published_date": "Sun, 27 Jul 2025 07:25:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.804284"
-      },
       "7ec0c8660f4e293d81fc3eeeb0c31bcd8d6812623de9ecf25132700a6b9a203f": {
         "title": "菲尔兹奖得主深度参与，WAIC全方位探讨「AI for Math」",
         "link": "https://www.jiqizhixin.com/articles/2025-07-27-9",
@@ -9426,51 +9414,141 @@
         "link": "https://www.qbitai.com/2025/08/325859.html",
         "published_date": "Tue, 26 Aug 2025 05:52:00 GMT",
         "first_seen": "2025-08-26T08:29:12.105210"
+      },
+      "0bacb531fb4f0aef96d625c5c9cf4bdd022f2e014505bda3ae740ff6f2ae1f6f": {
+        "title": "Reimagining sound and space",
+        "link": "https://www.technologyreview.com/2025/08/26/1120984/reimagining-sound-and-space/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.957022"
+      },
+      "0c1beef6a5b48892573794a73fb58e192d850781658484b08d50d9fe238de651": {
+        "title": "Junior Peña, neutrino hunter",
+        "link": "https://www.technologyreview.com/2025/08/26/1120988/junior-pena-neutrino-hunter/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.957034"
+      },
+      "6e8b21d0220f0672da954404f33c417aebed1cce4c1662ae630116333e2f3cb9": {
+        "title": "MIT is worth fighting for",
+        "link": "https://www.technologyreview.com/2025/08/26/1120999/mit-is-worth-fighting-for/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.957043"
+      },
+      "8277f6b2aaaf3b351899218c01c87f3c99d13051fd604e69482db12db129ae80": {
+        "title": "Infinite Threads",
+        "link": "https://www.technologyreview.com/2025/08/26/1121004/infinite-threads/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.957051"
+      },
+      "bb952a993201bf66729e5e72736c8557d70e31d79e0655a0f8d8b1842e5bdfe8": {
+        "title": "Fix damaged art in hours with AI",
+        "link": "https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.956936"
+      },
+      "c545c501526e87322960968d7be5cef656c686504f2820aab1260096a9e61c47": {
+        "title": "‘Bubbles’ turn air into drinkable water",
+        "link": "https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.956966"
+      },
+      "ee43b684e72f58ece439ac69e7baab4759c8b50b2d81af87d37db8f846ab6466": {
+        "title": "Emergency help for low blood sugar",
+        "link": "https://www.technologyreview.com/2025/08/26/1121014/emergency-help-for-low-blood-sugar/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.957060"
+      },
+      "a1e3ad36b56cd4675762facdda636ca5f6631954d6dd37f63d59c1b959114ee8": {
+        "title": "One-shot vaccines for HIV and covid",
+        "link": "https://www.technologyreview.com/2025/08/26/1121017/one-shot-vaccines-for-hiv-and-covid/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.594051"
+      },
+      "578cfa2e4a29676b69522965c2a1c95d00ae373aea01f2bd04d0e52fc37e6b27": {
+        "title": "Chandrakasan named provost",
+        "link": "https://www.technologyreview.com/2025/08/26/1121020/chandrakasan-named-provost/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.594595"
+      },
+      "f213c440cf5497583d2784c5ef802e0f5ca8fd88b684db8bcca056de9569e876": {
+        "title": "Recent books from the MIT community",
+        "link": "https://www.technologyreview.com/2025/08/26/1121024/recent-books-from-the-mit-community-24/",
+        "published_date": "Tue, 26 Aug 2025 21:00:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.595298"
+      },
+      "8c1e091c47e34eb2387194d76fd9549bc2cf347db36ad2a9d2a6f7a8ca9a4e5e": {
+        "title": "FlashAttention-4震撼来袭，原生支持Blackwell GPU，英伟达的护城河更深了？",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-26-13",
+        "published_date": "Tue, 26 Aug 2025 18:13:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.596255"
+      },
+      "8924e6e3c6f63966925ea7852425663517f3954a972b8ebc222f715e2b55c851": {
+        "title": "英伟达再出手！新型混合架构模型问世，两大创新实现53.6倍吞吐提速",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-26-12",
+        "published_date": "Tue, 26 Aug 2025 18:09:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.596933"
+      },
+      "e49136bff65ed14933d0c4a5891c8c1e9c584bb0b1817d43dcda73e867926984": {
+        "title": "将数据优势发挥到极致：「杭州六小龙」开源搭建空间智能的第一步",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-26-11",
+        "published_date": "Tue, 26 Aug 2025 18:03:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.597561"
+      },
+      "cef58dc7d6f70a99d523fd2ea2ae9a157d498cb50ee4ce8a8f5b34fd0f1ce0bc": {
+        "title": "ICML 2025 | 作业帮团队提出基于能量的偏好模型(EBM)，攻克LLM对齐痛点，性能超越主流方法",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-26-10",
+        "published_date": "Tue, 26 Aug 2025 17:17:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.956985"
+      },
+      "8a179f2c9c80af6bda471975efea2dd5fc699d7c899bdc7a9303e1e1a916cbce": {
+        "title": "A scalable framework for evaluating health language models",
+        "link": "https://research.google/blog/a-scalable-framework-for-evaluating-health-language-models/",
+        "published_date": "Tue, 26 Aug 2025 12:34:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.600383"
+      },
+      "7edb8f7b50bcb68b39e58300a3168cb971d4ebb40a871f72eaa41deecd22f961": {
+        "title": "英伟达韩松团队新作：具有后神经架构搜索的高效语言模型",
+        "link": "https://www.qbitai.com/2025/08/326237.html",
+        "published_date": "Tue, 26 Aug 2025 11:43:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.601026"
+      },
+      "049d18fcaae750c089d75a648ac667430dda1c635b6fd0cf2ad224006ad19891": {
+        "title": "业界首次！跨越1300公里，云深处科技联手当虹科技实现超远程操控机器狗直播",
+        "link": "https://www.qbitai.com/2025/08/326229.html",
+        "published_date": "Tue, 26 Aug 2025 10:39:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.601965"
+      },
+      "b84d5f9361010d7315c69baa70479d9caff69e33ca695117c87348d9515bf8d5": {
+        "title": "英伟达咽喉上的苏州女人",
+        "link": "https://www.qbitai.com/2025/08/326062.html",
+        "published_date": "Tue, 26 Aug 2025 10:19:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.602411"
+      },
+      "41a0a6ef1f909f2382045e33a0075b19b24ed551c8867448fa617d40e8a07132": {
+        "title": "GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！",
+        "link": "https://www.qbitai.com/2025/08/326166.html",
+        "published_date": "Tue, 26 Aug 2025 09:32:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.956999"
+      },
+      "03c618a3944bd91cdb8b809a83be7f4e60170b679518f1794657ada0dc03ec8e": {
+        "title": "商汤元萝卜联动疯狂动物城发布朱迪系列新品",
+        "link": "https://www.qbitai.com/2025/08/326152.html",
+        "published_date": "Tue, 26 Aug 2025 09:09:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.604368"
+      },
+      "8bfd94763659b120cacbbb4e2453365fd1bdbd819f5e6ab8df029015d174b2a6": {
+        "title": "阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投",
+        "link": "https://www.qbitai.com/2025/08/326119.html",
+        "published_date": "Tue, 26 Aug 2025 08:32:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.957011"
+      },
+      "8a0e28d9d91a89660d00f0bb739b3e9c6afa08dd150306dbaff6442374a8accb": {
+        "title": "Simpler models can outperform deep learning at climate prediction",
+        "link": "https://news.mit.edu/2025/simpler-models-can-outperform-deep-learning-climate-prediction-0826",
+        "published_date": "Tue, 26 Aug 2025 09:00:00 GMT",
+        "first_seen": "2025-08-26T23:20:43.607537"
       }
     },
     "Technology": {
-      "2c5b4ca48ec7756be2c4d46c6366f75f079f17aa062866db0f87357f577a99a8": {
-        "title": "“你的下一台电脑何必是电脑”，华为领先苹果半步？",
-        "link": "https://www.tmtpost.com/7639261.html",
-        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.759979"
-      },
-      "4ee08b647fc8819ed5458c6ead8f4b93c916209fc1ef9f438e6b7e51905c9bc4": {
-        "title": "协议转让+要约收购：A股控制权交易的主流进化",
-        "link": "https://www.tmtpost.com/7639309.html",
-        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.760143"
-      },
-      "64fa87975cfd8c20861a07ff3441c691d7aecf3ddb1160bcf792e232c68eeec3": {
-        "title": "我看广告公司的数字化转型：阳狮的教科书和WPP的错题集",
-        "link": "https://www.tmtpost.com/7639328.html",
-        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.760311"
-      },
-      "c885b3e3990119ae673c0eb9435d92055e550af94b414b58817058398c51a277": {
-        "title": "啤酒巨头中年危机，1300亿精酿围城，谁能破局同质化内卷？",
-        "link": "https://www.tmtpost.com/7639369.html",
-        "published_date": "Sun, 27 Jul 2025 16:02:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.760499"
-      },
-      "bfe4c7efa703af6378bbf7c35f383e0fba875685dc51315c261521305eee3004": {
-        "title": "训练效率提升25%、成本降23%！上海期智研究院、算秩未来联合推出MegatronApp：专为万亿参数大模型训练打造的系统工具包",
-        "link": "https://www.infoq.cn/article/Rhi9BEBzoNEJte8o6x6X?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 27 Jul 2025 16:00:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.760891"
-      },
-      "1322fbf9cf436999afd5e166e77ea86f15ab183752c5d2ffba1e3b72353e5c8e": {
-        "title": "在海外构建一个能够立即商业化的AI  应用，至少需要多少IT成本？",
-        "link": "https://www.infoq.cn/article/slRcQYlF9WVcwrTlkNrQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 27 Jul 2025 15:53:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.761204"
-      },
-      "981b44e98b55c1796569e3a3a0a8056538900cfbf6fa3108e0b0fc4ab003d5eb": {
-        "title": "从京东内部走出的开源Agent，能成为标准定义者吗？",
-        "link": "https://www.infoq.cn/article/dkAAijdgJwo8ipM2juyg?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 27 Jul 2025 15:47:00 GMT",
-        "first_seen": "2025-07-27T08:32:15.761547"
-      },
       "aa673c1edd1c1658c80546c163833538827e2d86c84c21381cf5cc0798b68747": {
         "title": "MiniMax创始人闫俊杰：AI 强大无尽头难被一家垄断，以后研发都不烧钱了？",
         "link": "https://www.infoq.cn/article/ROASwHu2fHkaosLmAhZb?utm_source=rss&utm_medium=article",
@@ -23918,6 +23996,306 @@
         "link": "https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/",
         "published_date": "Tue, 26 Aug 2025 07:00:00 GMT",
         "first_seen": "2025-08-26T08:30:00.504950"
+      },
+      "3b35dbb5c34e7e9ee5278b342e930008597dc8f2b1af82e6e8f418d4031d4ef1": {
+        "title": "疫苗寒冬研发砍半，沃森生物净利仍降75%｜看财报",
+        "link": "https://www.tmtpost.com/7673242.html",
+        "published_date": "Tue, 26 Aug 2025 23:46:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819243"
+      },
+      "410c49e9e379c4e392cc61ca4b7af7f011e23894bd68528a7f36a3ceef158c06": {
+        "title": "电源芯片龙头拟以2.95亿元现金收购上海兴感半导体；风电龙头拟1.1亿元收购河北风场；【并购一线】",
+        "link": "https://www.tmtpost.com/7673235.html",
+        "published_date": "Tue, 26 Aug 2025 23:41:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819260"
+      },
+      "5249d67d53c4e3d5cc50941bf424523ea70343001289e21b2793f5d35a0df261": {
+        "title": "投5000万套现7亿，豫园股份中报藏着老铺黄金的造富神话｜看财报",
+        "link": "https://www.tmtpost.com/7673116.html",
+        "published_date": "Tue, 26 Aug 2025 22:46:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819377"
+      },
+      "2c34a23ccac8d93eb04394202543ce31ef4eb3a7e07270e220534d01afbe5cce": {
+        "title": "酒企如何破局调整期？国台酒厂商携手成立平台公司开新局",
+        "link": "https://www.tmtpost.com/7673001.html",
+        "published_date": "Tue, 26 Aug 2025 20:13:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819273"
+      },
+      "97c5ef0e057fb2a35985c3046d3d3b0bdf3f9748015a64732b03619d6240336b": {
+        "title": "对话元戎启行CEO周光：VLA模型主要成本是AI芯片，已实现近10万辆辅助驾驶方案交付",
+        "link": "https://www.tmtpost.com/7670755.html",
+        "published_date": "Tue, 26 Aug 2025 20:11:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819328"
+      },
+      "136a2d88ca234f43566120cc573973452985714b5615263e2b065a873c7db6cb": {
+        "title": "深圳经济特区45年：从杀出血路到创出新路",
+        "link": "https://www.tmtpost.com/7672855.html",
+        "published_date": "Tue, 26 Aug 2025 19:03:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819388"
+      },
+      "0daeb2bab2afd41d8466b51aa2361d80c97ab90ab469976e155c14acce1e3956": {
+        "title": "服务器CPU，变局已至",
+        "link": "https://www.tmtpost.com/7672881.html",
+        "published_date": "Tue, 26 Aug 2025 19:03:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819395"
+      },
+      "cd8aacda8bf88acff7fefa5cdd03ed080763c0ef79b33971febfc0fc6a6cc46a": {
+        "title": "折腾一年后负增长，蓝月亮做错了什么？",
+        "link": "https://www.tmtpost.com/7671559.html",
+        "published_date": "Tue, 26 Aug 2025 18:52:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.360990"
+      },
+      "44810616154f183ef289cc7af1affe777bea1fd30c87f19b070e25b199c92640": {
+        "title": "内斗激化，利润腰斩，可靠股份“爱情”与业绩皆难可靠 | 看财报",
+        "link": "https://www.tmtpost.com/7672760.html",
+        "published_date": "Tue, 26 Aug 2025 18:33:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.361458"
+      },
+      "74928fd70b009d08a99db07d03c8e4401f050e52bd6fd6b498466342253883f9": {
+        "title": "锂电行业洗牌加速：跨界者退场，巨头赴港融资｜钛度车库",
+        "link": "https://www.tmtpost.com/7670355.html",
+        "published_date": "Tue, 26 Aug 2025 18:15:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.361910"
+      },
+      "336745e7c595cbd3d249e203a4c342d5be7f460e757e3816e84659d0c0dc0a91": {
+        "title": "21家新能源制造商集体赴港IPO，这项业务最能赚到钱",
+        "link": "https://www.tmtpost.com/7672806.html",
+        "published_date": "Tue, 26 Aug 2025 18:13:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.362390"
+      },
+      "0b9c03bf5d455a1d3f16323a8587d9bfb125408af21df42d1226a446b1366713": {
+        "title": "瑞士生物科技公司Anaveon研发IL-2受体激动剂，突破基于IL-2的癌症免疫疗法限制 | 瑞士创新100强",
+        "link": "https://www.tmtpost.com/7672736.html",
+        "published_date": "Tue, 26 Aug 2025 18:10:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819212"
+      },
+      "59ff2dbeec35578ba705c10b66b24b93b05b2c2630bb8b59c1f9f83e124ab423": {
+        "title": "“苏超”爆火也带不动销量，Q2净利骤降37%，今世缘“黑马”失速｜看财报",
+        "link": "https://www.tmtpost.com/7672780.html",
+        "published_date": "Tue, 26 Aug 2025 18:09:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.363983"
+      },
+      "7416e9c93a936cb3878c5d728744524f154b0a5dcb24709f51fa074a901db43b": {
+        "title": "铂科新材中报：业绩增长失速，产能扩张能否解增长焦虑？| 看财报",
+        "link": "https://www.tmtpost.com/7672748.html",
+        "published_date": "Tue, 26 Aug 2025 18:05:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.364715"
+      },
+      "d5d3e63de53af4fe45b2ced311a95ce2d8bd4f75ae9fa62587ec0afcfb4f4a2e": {
+        "title": "无招回归钉钉145天，想用表格卷「死」对手",
+        "link": "https://www.tmtpost.com/7672658.html",
+        "published_date": "Tue, 26 Aug 2025 17:43:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.365382"
+      },
+      "44a2d63f8816ce581587ec0e75abda62966237d5a74edd0564522fb97368e590": {
+        "title": "邪修马斯克，只能靠中国回血了",
+        "link": "https://www.tmtpost.com/7672661.html",
+        "published_date": "Tue, 26 Aug 2025 17:43:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.365934"
+      },
+      "a20fa96d594ec8e0a5667148ff8f0d84bfde9f84e105ec0d9aa699b8dc5cd947": {
+        "title": "福瑞达增长动能“断档”：瑷尔博士失速，线下拓展与新业务尚难扛大旗 | 看财报",
+        "link": "https://www.tmtpost.com/7672612.html",
+        "published_date": "Tue, 26 Aug 2025 17:34:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.366978"
+      },
+      "a9b9111630992470babdc9db017fba5637e8096d161634bb3ac62477450753ba": {
+        "title": "Google Will Make All Android App Developers Verify Their Identity Starting Next Year",
+        "link": "https://www.wired.com/story/google-will-prevent-sideloading-of-unverified-android-apps-from-next-year/",
+        "published_date": "Tue, 26 Aug 2025 21:17:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.368732"
+      },
+      "d71819cae81184c567ea3f94612782b780ea57de767d2aba2ecb5e5f160ae10c": {
+        "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors",
+        "link": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
+        "published_date": "Tue, 26 Aug 2025 19:31:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.370625"
+      },
+      "e549b36e46bc90f3cfee7dfc65f5087eef02da555394b4624ea07f827b108da3": {
+        "title": "The 39 Best Shows on Apple TV+ Right Now (September 2025)",
+        "link": "https://www.wired.com/story/best-apple-tv-plus-shows/",
+        "published_date": "Tue, 26 Aug 2025 19:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.372402"
+      },
+      "9cd9178225bab1774bf4f2122aa0b460b135464a50d88d4803926ded5805bfe5": {
+        "title": "Looking to Buy a Window Air Conditioner? Read This First",
+        "link": "https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/",
+        "published_date": "Tue, 26 Aug 2025 18:08:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.374134"
+      },
+      "467574406afa05b97cdf282ec01372d05c66a31beb8aafdf6936f16f3bb9853f": {
+        "title": "Sonos Era 300 Sale: The Big Sonos Speaker Is 20 Percent Off",
+        "link": "https://www.wired.com/story/sonos-era-300-deal/",
+        "published_date": "Tue, 26 Aug 2025 18:05:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.376161"
+      },
+      "69a964c918a6e387ca277125dbb5789ecae377d46093d98747646d28f208f6a3": {
+        "title": "Researchers Are Already Leaving Meta’s New Superintelligence Lab",
+        "link": "https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/",
+        "published_date": "Tue, 26 Aug 2025 18:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.378505"
+      },
+      "7227ff8759733546e110249b42003f98589b1e2444b210a8a9d5d70c1a5abe3b": {
+        "title": "31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)",
+        "link": "https://www.wired.com/story/best-labor-day-sales-deals-2025/",
+        "published_date": "Tue, 26 Aug 2025 17:59:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.380721"
+      },
+      "29f4405539256ecc5a22f058f43bacd3c89848124bec0e105352a25daa834913": {
+        "title": "Best Bird Feeders With Cameras, Tested and Reviewed (2025)",
+        "link": "https://www.wired.com/story/best-smart-bird-feeders/",
+        "published_date": "Tue, 26 Aug 2025 16:35:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.383173"
+      },
+      "84fb57ed4b8efa45a2c10bab7db373166eecd7f001fd1d3c13f7aaebfd39437e": {
+        "title": "The Framework Laptop 16 Can Now Be Upgraded to an RTX 5070",
+        "link": "https://www.wired.com/story/framework-laptop-16-nvidia-rtx-5070/",
+        "published_date": "Tue, 26 Aug 2025 15:05:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.385889"
+      },
+      "d2445a5f65e65886895241cab4d7d43eaa9ce42d1e550a6818757252f10da04a": {
+        "title": "14 Best Soundbars We’ve Tested and Reviewed (2025): Sonos, Sony, Bose",
+        "link": "https://www.wired.com/gallery/best-soundbars/",
+        "published_date": "Tue, 26 Aug 2025 14:03:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.388987"
+      },
+      "a81ec28ee2a05a7e406d66ead5caa6a2c0b221a4088fcc6e3dbb73a1bb0e1428": {
+        "title": "Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By",
+        "link": "https://www.wired.com/review/lenovo-ideapad-5i-2-in-1/",
+        "published_date": "Tue, 26 Aug 2025 12:30:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.391674"
+      },
+      "2d5d2365d789f7724ddc02193bd2b90042d2ea2db039e53889b3f5933e71d0f7": {
+        "title": "Matter Is Finally Ready to Deliver the Smart Home It Promised",
+        "link": "https://www.wired.com/story/matter-is-finally-on-track-to-deliver-the-smart-home-it-promised/",
+        "published_date": "Tue, 26 Aug 2025 11:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.394864"
+      },
+      "435e73429ba7058f07d64d985d9c1d090f9736d60c344948f3f7087adbe0f042": {
+        "title": "How They Make the Mario Kart-Style 'Ghost Car' for Auto Racing Broadcasts",
+        "link": "https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/",
+        "published_date": "Tue, 26 Aug 2025 10:30:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.398795"
+      },
+      "ec337ff29bfbdd6bbdce057b665b630f7dcd555a79c4e30022a1f5deb834bc0f": {
+        "title": "US EV Sales Are Booming—for Now",
+        "link": "https://www.wired.com/story/us-ev-sales-are-booming-not-great-for-evs/",
+        "published_date": "Tue, 26 Aug 2025 10:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.401086"
+      },
+      "ce8c9ddba3e81592045c63b7289fa62e3ad8b270bba4450d834c446186a56099": {
+        "title": "Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-big-interview-alexis-ohanian/",
+        "published_date": "Tue, 26 Aug 2025 09:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.405858"
+      },
+      "55274f652683d4f555dfc21fd70685d6325335318c4bf61c234978c07c25f85c": {
+        "title": "Microsoft locks down a building after protesters get inside president&#8217;s office",
+        "link": "https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office",
+        "published_date": "Tue, 26 Aug 2025 21:14:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.410640"
+      },
+      "ebc552465585c73a0aaec9035c67971ded9a94b66604cd7bd6952cc1dac993ad": {
+        "title": "Here are 30 of our favorite deals from REI’s ongoing Labor Day sale",
+        "link": "https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025",
+        "published_date": "Tue, 26 Aug 2025 20:39:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.415271"
+      },
+      "b849a3238f501e7d41782105b7880019750aa8c881fe4981aafce79518caea6f": {
+        "title": "Anthropic settles AI book piracy lawsuit",
+        "link": "https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement",
+        "published_date": "Tue, 26 Aug 2025 20:38:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.418430"
+      },
+      "598dfbdb96f3de253d6c9c6f6c73ee81c732ac9e4911b3d1f3cff5cc7270d647": {
+        "title": "Looks like nuclear fusion is picking up steam",
+        "link": "https://www.theverge.com/news/766269/nuclear-fusion-project-map",
+        "published_date": "Tue, 26 Aug 2025 20:22:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.421682"
+      },
+      "656ad4fa2faa9fe5b05de97c52ccc1deefe505dfd33410e6bea3a3c1d0472af7": {
+        "title": "KPop Demon Hunters is Netflix’s most popular movie of all time",
+        "link": "https://www.theverge.com/netflix/766280/kpop-demon-hunters-netflix-record",
+        "published_date": "Tue, 26 Aug 2025 20:21:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.426391"
+      },
+      "bcabb8a9a33e0ebf9649cbf72f763ce4b85efbbfafc56dcea51e20d398d4b594": {
+        "title": "AI super PACs, the hottest investment in tech",
+        "link": "https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments",
+        "published_date": "Tue, 26 Aug 2025 20:14:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.430066"
+      },
+      "1b4dc5b852d74fad9f071e8bba43901bb4ce1487d287c352a30130752688ae2b": {
+        "title": "The winners and losers of Taylor Swift’s engagement announcement",
+        "link": "https://www.theverge.com/news/766173/taylor-swift-travis-kelce-engagement-announcement-instagram-threads",
+        "published_date": "Tue, 26 Aug 2025 19:04:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.435188"
+      },
+      "e4f703057d079ed3113b5f5c511609400bd8140e786a7f4b25e392c3bc6d736c": {
+        "title": "Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops",
+        "link": "https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub",
+        "published_date": "Tue, 26 Aug 2025 18:46:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.441772"
+      },
+      "3778c338d824eb667b3e70e6fc43bc3e3cecb68da5894a02caf0ec66ff3f3dbf": {
+        "title": "CRKD’s $99 Peak Design clone is great for handhelds",
+        "link": "https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review",
+        "published_date": "Tue, 26 Aug 2025 17:10:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.446452"
+      },
+      "e96f0a87a1291e1a3178e9da0dc4be44d044f2df53886e93227897242e7b392d": {
+        "title": "Dish gives up on becoming the fourth major wireless carrier",
+        "link": "https://www.theverge.com/report/766038/dish-echostar-spectrum-att-sale-fourth-carrier",
+        "published_date": "Tue, 26 Aug 2025 16:14:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.451645"
+      },
+      "dfb70cbc796a1ed5c95338dccefa245299bc7146b0e2dd8bc8b722db768fa174": {
+        "title": "把豪车卖爆了的华为，瞄上了比亚迪们 10 万市场的「大蛋糕」",
+        "link": "http://www.geekpark.net/news/353110",
+        "published_date": "Tue, 26 Aug 2025 20:58:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.454368"
+      },
+      "96ffc31dfc23467f7ebda5dd2667fb4681450dff4a4cc20e730236a1f26bf588": {
+        "title": "娱乐圈已经没有黄种人了？",
+        "link": "http://www.huxiu.com/article/4734401.html?f=wangzhan",
+        "published_date": "Tue, 26 Aug 2025 20:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.455416"
+      },
+      "1dd9cc79a35353497258d3bad4e22e133ed17f4148ffd05230b013cfe46ba602": {
+        "title": "一口气深入了解中国如何撬动世界反法西斯战局",
+        "link": "http://www.huxiu.com/article/4733372.html?f=wangzhan",
+        "published_date": "Tue, 26 Aug 2025 20:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.456674"
+      },
+      "90bf68443cf2a6b21809934ec77c760f6b5073b43359461ac338cd30fbb8fd33": {
+        "title": "中国空间站有个太上老君的“炼丹炉”，它是干嘛用的？",
+        "link": "http://www.huxiu.com/article/4735621.html?f=wangzhan",
+        "published_date": "Tue, 26 Aug 2025 19:00:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.458751"
+      },
+      "bbfe6b21703f7a3eea1cd4c276c6c1efd6c6f5f32d9b40d518906135c0077701": {
+        "title": "模力工场·AGICamp 第 009 周 AI 应用榜单发布：上班效率神器，下班哄娃法宝，本周榜单生活效率+创意力双开挂！",
+        "link": "https://www.infoq.cn/article/TkeLgBx7EuGoBiWSfOvy?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 Aug 2025 18:49:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819348"
+      },
+      "09295203089a939c64b7d70bf97b07e1e3d3ff74f25166f870bd40bcaab09ca7": {
+        "title": "AI 正当时，实践正落地：2025 AICon 深圳站圆满收官",
+        "link": "https://www.infoq.cn/article/pA5ulSYSadFbvtsbO2h0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 Aug 2025 18:09:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.467563"
+      },
+      "b090da3442a67df67f973ec9fcb5a6deb2fb1d285693f3e829a275de6906eda0": {
+        "title": "从私域知识到智能 Agent：构建智能运维知识库",
+        "link": "https://www.infoq.cn/article/aW2smrHbNbf2hx19aRo9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 Aug 2025 18:06:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.469999"
+      },
+      "336be6eaff6310a6b893205128dc604f5e723a13af3e12401cbc6fdfd3d3f0b7": {
+        "title": "更适合“中国体质”的AI芯片、小米和宇树都冲了！英伟达Jetson Thor现已发售，2万块批发价但半年交货",
+        "link": "https://www.infoq.cn/article/bbXRoi5WuOBR7wMto6qu?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 Aug 2025 17:25:00 GMT",
+        "first_seen": "2025-08-26T23:23:08.819365"
       }
     },
     "Finance": {
@@ -27202,12 +27580,120 @@
         "link": "https://www.marketwatch.com/story/billions-wiped-off-value-of-french-banks-with-bayrou-led-government-on-verge-of-collapse-b6ef0d84?mod=mw_rss_topstories",
         "published_date": "Tue, 26 Aug 2025 08:12:00 GMT",
         "first_seen": "2025-08-26T08:30:00.459680"
+      },
+      "f66a9fc35a5ac95fdd89abfd1ec883f981af41f55506d8701ec0814ea79ea758": {
+        "title": "Your Social Security number is at risk, thanks to DOGE, whistleblower says",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=995e013a-2de8-4a02-97fb-e89b34c4b3df&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 23:01:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337406"
+      },
+      "ea0c615518b0de7f1efb64a4bd1b627bfafcdfcaad3cfa3f0dc52a18f66ee5b8": {
+        "title": "Why mortgage rates may not fall as fast as you think — even if the Fed cuts soon",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b8570d2-768a-4fe5-8b2f-82793063f500&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 22:03:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337438"
+      },
+      "8d8a05aad582141e608cbaf37a69b30aabb466eb2cfd13685430b3b8b119c7dd": {
+        "title": "Trump’s challenge to Fed’s independence may make gold the ‘safe haven of choice'",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55eb83f5-a48b-4b34-88b5-32e76c97a27e&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 21:10:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337455"
+      },
+      "ad5f9673a0364a11a5f44757dfd758125e36d7a6644505f7ad8bb9964c7ee78f": {
+        "title": "Dow, Nasdaq and S&P 500 close higher despite Trump's attempt to fire Fed's Cook",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6b7f26e6-7972-4c2c-a967-e51fdcc42396&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 20:06:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337469"
+      },
+      "59777c98162c78c8c5c338f41fa0c02a6c581abb003100bc9d3ed46b286d075e": {
+        "title": "Dow recovering losses as stocks brush off Trump’s bid to fire Fed’s Cook — live",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1781e185-4c1b-48af-8c1a-75831e711448&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 19:06:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337483"
+      },
+      "9cb1b7b6f8868979fd85624c41dec8f6812d87d826b596293bf5fc5e930e8eee": {
+        "title": "Wall Street is more focused on Nvidia than on threat posed to Fed independence",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42d87a5a-c9c7-40ab-a515-8e978a1b9439&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 17:31:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337493"
+      },
+      "db83c26b1692f418b57047c1ba53e7ea2a85352fd307b6f696066926112ba4db": {
+        "title": "Watch for Starbucks and Dunkin’ to enjoy a pumpkin-spice halo effect",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d0e7714-026f-41e6-8f72-1f66a0bb2fe2&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 17:05:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337507"
+      },
+      "8d1a0a1448e37e8055d59efbcea12d5db598260a0a5b1d633fc2a5d3f86b492d": {
+        "title": "Consumers’ view of the U.S. job market has deteriorated",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ee822577-d759-4a9e-a375-851dca5453ef&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 14:14:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337519"
+      },
+      "a37c634d5d9cba9431a75c6df1908cb47376108d73863333d510f20d666091ed": {
+        "title": "U.S. stocks mixed at opening bell even after Trump’s play for Fed influence",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3b13525a-373f-4711-bfc5-7c4362400aae&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 13:36:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337532"
+      },
+      "b30f2944792e6c8a836ac8c5f3f91fab55ab2725ad88ca9279c43c5e22e992d5": {
+        "title": "Boeing cited in U.S. durable-goods-orders retreat last month",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8c1180af-d38d-4b3a-ac59-f10a6a97027f&mod=mw_rss_bulletins",
+        "published_date": "Tue, 26 Aug 2025 12:39:00 GMT",
+        "first_seen": "2025-08-26T23:22:20.337545"
+      },
+      "d9741c282aa3b59866fccb1d7faca2fe19434f78d27508f25fd3aadfbe784901": {
+        "title": "‘Everyone was grieving’: Did my wife’s brothers cheat her out of her inheritance? There’s a condo and $550K at stake.",
+        "link": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 23:00:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.989826"
+      },
+      "0f13bc91fc3a0a3d85d8e7f283cc4f8801adc93719abe277ba5b3a519d8a9d69": {
+        "title": "Lilly obesity-pill trial results find a warmer reception on Wall Street this time around",
+        "link": "https://www.marketwatch.com/story/lilly-obesity-pill-trial-results-find-a-warmer-reception-on-wall-street-this-time-around-ebffcf94?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 22:38:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.992580"
+      },
+      "a1eac6e9e2da8e29441f684def81228618d0c4bbaa021c7fb7636bde66a7002a": {
+        "title": "AMD’s stock is rising as the competitive battle with Nvidia enters a new dimension",
+        "link": "https://www.marketwatch.com/story/amds-stock-is-rising-as-the-competitive-battle-with-nvidia-hits-a-new-dimension-16fe37ef?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 22:33:00 GMT",
+        "first_seen": "2025-08-26T23:21:31.995683"
+      },
+      "401312a31de19edc2609abd4665603fd4b17029924f6998d792d9dabefaef640": {
+        "title": "‘They knocked her down and started biting’: My mother, 84, was viciously attacked by her neighbor’s two dogs. Do we sue?",
+        "link": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 22:22:00 GMT",
+        "first_seen": "2025-08-26T23:21:32.000157"
+      },
+      "2ed2996bb8348658d4f57e2692cf4547e6bb7e44dff0fea017367313f06736d4": {
+        "title": "I’m the co-CEO of an $800 billion investment firm. Here’s why I need a financial adviser.",
+        "link": "https://www.marketwatch.com/story/im-the-co-ceo-of-an-800-billion-investment-firm-heres-why-i-need-a-financial-adviser-2c42f015?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 22:07:00 GMT",
+        "first_seen": "2025-08-26T23:21:32.003712"
+      },
+      "588150cdb02519e6549909a6adb0e83c6a95ad1250412251ed4e08a58f916cc1": {
+        "title": "This may slow the decline of mortgage rates — even if the Fed soon cuts interest rates",
+        "link": "https://www.marketwatch.com/story/this-may-slow-the-decline-of-mortgage-rates-even-if-the-fed-soon-cuts-interest-rates-511926e3?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 21:23:00 GMT",
+        "first_seen": "2025-08-26T23:21:32.007822"
+      },
+      "99621a9784afd436a843e76d0a390d7161c2d0a3d41546f31127e9a9714580e7": {
+        "title": "Tommy Hilfiger parent says it still expects 2025 to be a comeback year, even as tariffs upend clothing industry",
+        "link": "https://www.marketwatch.com/story/tommy-hilfiger-parent-says-it-still-expects-2025-to-be-a-comeback-year-even-as-tariffs-upend-clothing-industry-c50d7793?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 21:14:00 GMT",
+        "first_seen": "2025-08-26T23:21:32.012900"
+      },
+      "12969dd0482ddaf85a9cb3a5766cb02d46c98c207321772281ea8fda70bcf337": {
+        "title": "Lisa Cook, take the money and run",
+        "link": "https://www.marketwatch.com/story/lisa-cook-take-the-money-and-run-a8edfea4?mod=mw_rss_topstories",
+        "published_date": "Tue, 26 Aug 2025 21:08:00 GMT",
+        "first_seen": "2025-08-26T23:21:32.014955"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-26T08:30:00.449651",
-    "Technology": "2025-08-26T08:30:48.762123",
-    "Finance": "2025-08-26T08:30:00.466798"
+    "AI": "2025-08-26T23:21:31.966796",
+    "Technology": "2025-08-26T23:23:08.822806",
+    "Finance": "2025-08-26T23:22:20.338867"
   }
 }
