@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-27 05:24
+**最后更新时间**: 2025-08-27 08:27
+
+---
+
+## 🆕 最新更新 (2025-08-27 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [IVD集采风暴下的“万孚韧性”：技术纵深为盾、全球化为矛、数智化为翼](https://www.tmtpost.com/7673785.html)
+**发布时间**: 2025-08-27 15:44
+
+#### [China AI Chip Leader Cambricon Posts Record Profit as DeepSeek Drives Demand](https://www.tmtpost.com/7673812.html)
+**发布时间**: 2025-08-27 15:31
+
+#### [8月27日A股分析：三大指数今日集体下跌，两市合计成交31655.65亿元，资金流入最多的行业板块为小金属、造纸印刷](https://www.tmtpost.com/7673775.html)
+**发布时间**: 2025-08-27 15:25
+
+#### [Indian PM Said to Refuses Trump's Call Four Times as U.S. Moves Forward Additional 25% Tariffs](https://www.tmtpost.com/7673731.html)
+**发布时间**: 2025-08-27 14:40
+
+#### [Trump Admin. Considers Expanding  Stake Deal with Intel to Defense Contractors](https://www.tmtpost.com/7673712.html)
+**发布时间**: 2025-08-27 14:28
+
+#### [快递反内卷大幕拉开，“9块9全国包邮”要重新算账了](https://www.tmtpost.com/7673614.html)
+**发布时间**: 2025-08-27 14:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [货拉拉大数据存储实践与 AI 时代的应对](https://www.infoq.cn/video/t2x5SEC3l571EvqvhuNz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 15:32
+
+#### [OOM 杀进程 or 应用卡顿？该如何抉择](https://www.infoq.cn/article/Trs6TW9mBVmB8xcGx0NF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 15:24
+
+#### [QAnything：大模型驱动下的知识库问答体系革新与实践](https://www.infoq.cn/video/TmhIJAcItiGZ07rXjk1h?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 15:08
+
+#### [TRAE MCP 实践：让 AI 在 Minecraft 里盖房子](https://www.infoq.cn/article/M0wPNxmFm5kwtmMOVp7i?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 15:00
+
+#### [勒索软件防御型存储：高风险网络战中的新前线防御](https://www.infoq.cn/article/XzkqieR0S8vdZpa6CO41?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 15:00
+
+#### [能源行业基于大模型的数据治理和人工智能应用实践](https://www.infoq.cn/video/1IeB17Np6xGlFcWhByuM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 14:57
+
+#### [盘古大模型等部门被裁撤；马斯克刚刚开源 Grok 2.5；法裔女CEO接管OpenAI，奥特曼退居幕后？| AI 周报](https://www.infoq.cn/article/xDwRfVolfOQA8T0ba4c9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 14:49
+
+#### [性能提升6倍！Apache Doris + Apache Paimon 在小米集团的技术实践](https://www.infoq.cn/article/0hwxNR3qeBJqOdgJuYxj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 14:19
+
+#### [“开箱即用”内部开发者平台 KubriX 正式发布](https://www.infoq.cn/article/DYBhlfDMb7tNvX52xLPb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
+**发布时间**: 2025-08-27 15:06
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [九三阅兵前，日本又作妖？各国如何站队？谁又在拆台？](http://www.huxiu.com/article/4740070.html?f=wangzhan)
+**发布时间**: 2025-08-27 14:43
+
+#### [让必胜客都眼红的达美乐，它到底凭啥？](http://www.huxiu.com/article/4741349.html?f=wangzhan)
+**发布时间**: 2025-08-27 12:10
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Review: Google Pixel 10 Series](https://www.wired.com/gallery/review-google-pixel-10-series/)
+**发布时间**: 2025-08-27 07:10
 
 ---
 

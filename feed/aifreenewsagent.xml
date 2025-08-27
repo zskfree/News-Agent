@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 Aug 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 05:25:11 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 08:27:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI LLM Proof of Self-Consciousness and User-Specific Attractors</title>
-      <link>https://arxiv.org/abs/2508.18302</link>
-      <description>&lt;![CDATA[AI LLM Proof of Self-Consciousness and User-Specific Attractors]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.18302</guid>
+      <title>美图全能修复发布：AI让「电子包浆」秒变「高清无损」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-10</link>
+      <description>&lt;![CDATA[美图全能修复发布：AI让「电子包浆」秒变「高清无损」]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The AI in the Mirror: LLM Self-Recognition in an Iterated Public Goods Game</title>
-      <link>https://arxiv.org/abs/2508.18467</link>
-      <description>&lt;![CDATA[The AI in the Mirror: LLM Self-Recognition in an Iterated Public Goods Game]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.18467</guid>
+      <title>拒稿警告，靠大模型「偷摸水论文」被堵死，ICLR最严新规来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-9</link>
+      <description>&lt;![CDATA[拒稿警告，靠大模型「偷摸水论文」被堵死，ICLR最严新规来了]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Reasoning LLMs in the Medical Domain: A Literature Survey</title>
-      <link>https://arxiv.org/abs/2508.19097</link>
-      <description>&lt;![CDATA[Reasoning LLMs in the Medical Domain: A Literature Survey]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19097</guid>
+      <title>打破瓶颈，让RAG学会思考：中科大、智源等发布推理检索框架BGE-Reasoner</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-8</link>
+      <description>&lt;![CDATA[打破瓶颈，让RAG学会思考：中科大、智源等发布推理检索框架BGE-Reasoner]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>打磨7年，李航新书《机器学习方法（第2版）》发布，有了强化学习，赠书20本</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-4</link>
-      <description>&lt;![CDATA[打磨7年，李航新书《机器学习方法（第2版）》发布，有了强化学习，赠书20本]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-4</guid>
+      <title>国家定调「人工智能+」：中国AI十年三步走，战略解读来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-7</link>
+      <description>&lt;![CDATA[国家定调「人工智能+」：中国AI十年三步走，战略解读来了]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>「开发者私下更喜欢用GPT-5写代码」，Claude还坐得稳编程王座吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-3</link>
-      <description>&lt;![CDATA[「开发者私下更喜欢用GPT-5写代码」，Claude还坐得稳编程王座吗？]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 11:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-3</guid>
+      <title>Agentic Deep Research新范式，推理能力再突破，可信度增加，蚂蚁安全团队出品</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-6</link>
+      <description>&lt;![CDATA[Agentic Deep Research新范式，推理能力再突破，可信度增加，蚂蚁安全团队出品]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌nano banana正式上线：单图成本不到3毛钱，比OpenAI便宜95%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-2</link>
-      <description>&lt;![CDATA[谷歌nano banana正式上线：单图成本不到3毛钱，比OpenAI便宜95%]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-2</guid>
+      <title>ICML 2025 | AI虚拟细胞落地重大进展：清华AIR，水木分子等首创并开源多尺度空间转录组学基础大模型SToFM</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-5</link>
+      <description>&lt;![CDATA[ICML 2025 | AI虚拟细胞落地重大进展：清华AIR，水木分子等首创并开源多尺度空间转录组学基础大模型SToFM]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Generic Guard AI in Stealth Game with Composite Potential Fields</title>
-      <link>https://arxiv.org/abs/2508.18527</link>
-      <description>&lt;![CDATA[Generic Guard AI in Stealth Game with Composite Potential Fields]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.18527</guid>
+      <title>谷歌认领最强AI版Photoshop！现在人人可用，效果确实强悍</title>
+      <link>https://www.qbitai.com/2025/08/326412.html</link>
+      <description>&lt;![CDATA[谷歌认领最强AI版Photoshop！现在人人可用，效果确实强悍]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 07:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326412.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A Database-Driven Framework for 3D Level Generation with LLMs</title>
-      <link>https://arxiv.org/abs/2508.18533</link>
-      <description>&lt;![CDATA[A Database-Driven Framework for 3D Level Generation with LLMs]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.18533</guid>
+      <title>新iPhone的AI怎么样，得看苹果最近的收购了</title>
+      <link>https://www.qbitai.com/2025/08/326413.html</link>
+      <description>&lt;![CDATA[新iPhone的AI怎么样，得看苹果最近的收购了]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 07:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326413.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap</title>
-      <link>https://arxiv.org/abs/2508.18646</link>
-      <description>&lt;![CDATA[Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.18646</guid>
+      <title>Claude for Chrome来了！可作为浏览器扩展程序直接使用</title>
+      <link>https://www.qbitai.com/2025/08/326388.html</link>
+      <description>&lt;![CDATA[Claude for Chrome来了！可作为浏览器扩展程序直接使用]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326388.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval</title>
-      <link>https://arxiv.org/abs/2508.18724</link>
-      <description>&lt;![CDATA[Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.18724</guid>
+      <title>数字技术工人已到岗！时序大模型+Agent已掌握了工厂生产管控技术</title>
+      <link>https://www.qbitai.com/2025/08/326325.html</link>
+      <description>&lt;![CDATA[数字技术工人已到岗！时序大模型+Agent已掌握了工厂生产管控技术]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326325.html</guid>
       <category>AI</category>
     </item>
   </channel>
