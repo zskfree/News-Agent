@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-26 23:20
+**最后更新时间**: 2025-08-27 05:24
+
+---
+
+## 🆕 最新更新 (2025-08-27 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [EchoStar’s stock is surging. Why AT&T just struck a $23 billion spectrum deal with the company.](https://www.marketwatch.com/story/echostars-stock-is-surging-why-at-t-just-struck-a-23-billion-spectrum-deal-with-the-company-6ac87d75?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 03:03
+
+#### [Customers are rushing to coffee shops like Starbucks and Dunkin’ thanks to the pumpkin-spice latte ‘halo effect’](https://www.marketwatch.com/story/customers-are-rushing-to-coffee-shops-like-starbucks-dunkin-thanks-to-the-pumpkin-spice-latte-halo-effect-1867e34b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 02:58
+
+#### [Cracker Barrel dumps new logo after backlash, and its stock rallies](https://www.marketwatch.com/story/cracker-barrel-dumps-new-logo-after-backlash-and-its-stock-rallies-710c5ed8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-26 23:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Opinion: The small-cap rally is real. Here are 5 stocks to consider owning now.](https://www.marketwatch.com/bulletins/redirect/go?g=55aaffb3-5088-4ee7-8e05-ae4fcb9c7957&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 01:06
+
+#### [Cracker Barrel dumps new logo after backlash, and its stock rallies](https://www.marketwatch.com/bulletins/redirect/go?g=46824941-8e30-418a-ae9e-c045d0f26da1&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-26 23:47
 
 ---
 

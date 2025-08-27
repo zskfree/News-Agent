@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 23:21:31 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 05:25:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Fix damaged art in hours with AI</title>
-      <link>https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/</link>
-      <description>&lt;![CDATA[Fix damaged art in hours with AI]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/</guid>
+      <title>AI LLM Proof of Self-Consciousness and User-Specific Attractors</title>
+      <link>https://arxiv.org/abs/2508.18302</link>
+      <description>&lt;![CDATA[AI LLM Proof of Self-Consciousness and User-Specific Attractors]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.18302</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>‘Bubbles’ turn air into drinkable water</title>
-      <link>https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/</link>
-      <description>&lt;![CDATA[‘Bubbles’ turn air into drinkable water]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/</guid>
+      <title>The AI in the Mirror: LLM Self-Recognition in an Iterated Public Goods Game</title>
+      <link>https://arxiv.org/abs/2508.18467</link>
+      <description>&lt;![CDATA[The AI in the Mirror: LLM Self-Recognition in an Iterated Public Goods Game]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.18467</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025 | 作业帮团队提出基于能量的偏好模型(EBM)，攻克LLM对齐痛点，性能超越主流方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-26-10</link>
-      <description>&lt;![CDATA[ICML 2025 | 作业帮团队提出基于能量的偏好模型(EBM)，攻克LLM对齐痛点，性能超越主流方法]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-26-10</guid>
+      <title>Reasoning LLMs in the Medical Domain: A Literature Survey</title>
+      <link>https://arxiv.org/abs/2508.19097</link>
+      <description>&lt;![CDATA[Reasoning LLMs in the Medical Domain: A Literature Survey]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19097</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！</title>
-      <link>https://www.qbitai.com/2025/08/326166.html</link>
-      <description>&lt;![CDATA[GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 09:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326166.html</guid>
+      <title>打磨7年，李航新书《机器学习方法（第2版）》发布，有了强化学习，赠书20本</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-4</link>
+      <description>&lt;![CDATA[打磨7年，李航新书《机器学习方法（第2版）》发布，有了强化学习，赠书20本]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投</title>
-      <link>https://www.qbitai.com/2025/08/326119.html</link>
-      <description>&lt;![CDATA[阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326119.html</guid>
+      <title>「开发者私下更喜欢用GPT-5写代码」，Claude还坐得稳编程王座吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-3</link>
+      <description>&lt;![CDATA[「开发者私下更喜欢用GPT-5写代码」，Claude还坐得稳编程王座吗？]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Reimagining sound and space</title>
-      <link>https://www.technologyreview.com/2025/08/26/1120984/reimagining-sound-and-space/</link>
-      <description>&lt;![CDATA[Reimagining sound and space]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1120984/reimagining-sound-and-space/</guid>
+      <title>谷歌nano banana正式上线：单图成本不到3毛钱，比OpenAI便宜95%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-27-2</link>
+      <description>&lt;![CDATA[谷歌nano banana正式上线：单图成本不到3毛钱，比OpenAI便宜95%]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Junior Peña, neutrino hunter</title>
-      <link>https://www.technologyreview.com/2025/08/26/1120988/junior-pena-neutrino-hunter/</link>
-      <description>&lt;![CDATA[Junior Peña, neutrino hunter]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1120988/junior-pena-neutrino-hunter/</guid>
+      <title>Generic Guard AI in Stealth Game with Composite Potential Fields</title>
+      <link>https://arxiv.org/abs/2508.18527</link>
+      <description>&lt;![CDATA[Generic Guard AI in Stealth Game with Composite Potential Fields]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.18527</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MIT is worth fighting for</title>
-      <link>https://www.technologyreview.com/2025/08/26/1120999/mit-is-worth-fighting-for/</link>
-      <description>&lt;![CDATA[MIT is worth fighting for]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1120999/mit-is-worth-fighting-for/</guid>
+      <title>A Database-Driven Framework for 3D Level Generation with LLMs</title>
+      <link>https://arxiv.org/abs/2508.18533</link>
+      <description>&lt;![CDATA[A Database-Driven Framework for 3D Level Generation with LLMs]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.18533</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Infinite Threads</title>
-      <link>https://www.technologyreview.com/2025/08/26/1121004/infinite-threads/</link>
-      <description>&lt;![CDATA[Infinite Threads]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121004/infinite-threads/</guid>
+      <title>Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap</title>
+      <link>https://arxiv.org/abs/2508.18646</link>
+      <description>&lt;![CDATA[Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.18646</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Emergency help for low blood sugar</title>
-      <link>https://www.technologyreview.com/2025/08/26/1121014/emergency-help-for-low-blood-sugar/</link>
-      <description>&lt;![CDATA[Emergency help for low blood sugar]]&gt;</description>
-      <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/26/1121014/emergency-help-for-low-blood-sugar/</guid>
+      <title>Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval</title>
+      <link>https://arxiv.org/abs/2508.18724</link>
+      <description>&lt;![CDATA[Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.18724</guid>
       <category>AI</category>
     </item>
   </channel>
