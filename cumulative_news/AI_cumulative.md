@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-27 08:26
+**最后更新时间**: 2025-08-27 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-27 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [从1920TPS到2400TPS，华为云Tokens服务全面接入384超节点](https://www.jiqizhixin.com/articles/2025-08-27-14)
+**发布时间**: 2025-08-27 21:47
+
+#### [DeepSeek刚提到FP8，英伟达就把FP4精度推向预训练，更快、更便宜](https://www.jiqizhixin.com/articles/2025-08-27-13)
+**发布时间**: 2025-08-27 20:52
+
+#### [入职不到30天，OpenAI员工闪辞Meta回归，赵晟佳也反悔过](https://www.jiqizhixin.com/articles/2025-08-27-12)
+**发布时间**: 2025-08-27 20:48
+
+#### [We-Math 2.0：全新多模态数学推理数据集 × 首个综合数学知识体系](https://www.jiqizhixin.com/articles/2025-08-27-11)
+**发布时间**: 2025-08-27 20:46
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How Google’s AI can help transform health professions education](https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/)
+**发布时间**: 2025-08-27 17:19
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The AI Hype Index: AI-designed antibiotics show promise](https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/)
+**发布时间**: 2025-08-27 14:07
+
+#### [Unlocking enterprise agility in the API economy](https://www.technologyreview.com/2025/08/27/1121532/unlocking-enterprise-agility-in-the-api-economy/)
+**发布时间**: 2025-08-27 14:00
+
+#### [The Download: introducing: the Security issue](https://www.technologyreview.com/2025/08/27/1122632/the-download-introducing-the-security-issue/)
+**发布时间**: 2025-08-27 12:10
+
+#### [India is still working on sewer robots](https://www.technologyreview.com/2025/08/27/1121423/india-sewer-robots-sanitation/)
+**发布时间**: 2025-08-27 10:00
+
+#### [AI comes for the job market, security, and prosperity: The Debrief](https://www.technologyreview.com/2025/08/27/1121475/editors-letter-security-issue-mat-honan/)
+**发布时间**: 2025-08-27 10:00
+
+#### [Job titles of the future: Satellite streak astronomer](https://www.technologyreview.com/2025/08/27/1121482/satellite-streak-astronomer-sunlight-future-jobs/)
+**发布时间**: 2025-08-27 10:00
+
+#### [3 Things James O’Donnell is into right now](https://www.technologyreview.com/2025/08/27/1121503/james-odonnell-three-things/)
+**发布时间**: 2025-08-27 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [元戎率先供应VLA方案！打掉车企数亿自研预算，下探至10万级车型](https://www.qbitai.com/2025/08/326604.html)
+**发布时间**: 2025-08-27 09:34
+
+#### [L3级AI服务智能体落地！联想百应智能体2.0重磅升级，打造中小企业创新生产力](https://www.qbitai.com/2025/08/326566.html)
+**发布时间**: 2025-08-27 08:58
+
+#### [北大南开数学家解决著名“十杯马天尼”问题：更统一、更优雅的证明](https://www.qbitai.com/2025/08/326551.html)
+**发布时间**: 2025-08-27 08:47
 
 ---
 

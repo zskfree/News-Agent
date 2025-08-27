@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-27 05:24
+**最后更新时间**: 2025-08-27 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-27 23:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We’re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?](https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 23:06
+
+#### [Urban Outfitters stock is selling off despite a strong quarter. Some analysts wonder what’s left in the tank.](https://www.marketwatch.com/story/urban-outfitters-stock-is-selling-off-despite-a-strong-quarter-some-analysts-wonder-whats-left-in-the-tank-ea9a2196?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 23:00
+
+#### [Snowflake wows investors with AI momentum, and the stock rallies after earnings beat](https://www.marketwatch.com/story/snowflake-wows-investors-with-ai-momentum-and-the-stock-rallies-after-earnings-beat-6b616265?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 22:34
+
+#### [My friend, 61, signed a $20K contract for dental implants. She can’t afford it. Can she fight it?](https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 22:06
+
+#### [Taylor Swift doesn’t need your prenup advice — so why do so many lawyers still give it?](https://www.marketwatch.com/story/taylor-swift-doesnt-need-our-financial-advice-so-why-does-she-get-so-much-of-it-ef0aefa8?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 22:06
+
+#### [Retail coffee prices have spiked 30% year over year. Can the JDE Peet’s-Keurig Dr Pepper merger bring consumers some relief?](https://www.marketwatch.com/story/retail-coffee-prices-have-spiked-30-year-over-year-can-the-jde-peets-keurig-dr-pepper-merger-bring-consumers-some-relief-782796de?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 21:55
+
+#### [Five Below raises its full-year outlook, despite ‘ever-changing tariff environment’](https://www.marketwatch.com/story/five-below-raises-its-full-year-outlook-despite-ever-changing-tariff-environment-7f287614?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 21:21
+
+#### [Suze Orman spills the biggest mistakes keeping you from financial independence](https://www.marketwatch.com/story/suze-orman-shares-her-secret-to-financial-independence-and-how-you-can-get-there-1e20ecaa?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 21:02
+
+#### [Ether’s summer surge may be slowing, but here’s why $7,000 is still possible this year](https://www.marketwatch.com/story/ethers-summer-surge-may-be-pausing-but-this-analyst-sees-a-path-to-7-000-by-year-end-874fb15b?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 20:32
+
+#### [Is the stock-market tide turning in favor of small caps?](https://www.marketwatch.com/story/is-the-stock-market-tide-turning-in-favor-of-small-caps-824de2aa?mod=mw_rss_topstories)
+**发布时间**: 2025-08-27 20:16
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Nvidia's forecast didn't wow Wall Street, but here are some silver linings](https://www.marketwatch.com/bulletins/redirect/go?g=48a91f28-5c39-441d-b1c1-628ee0704fd2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 23:02
+
+#### [Live: Jensen Huang thinks Nvidia has big growth opportunities through the decade](https://www.marketwatch.com/bulletins/redirect/go?g=488bad6d-a664-46bc-aa74-d1f019c34c45&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 22:36
+
+#### [A $400B bonanza? As AI spending estimates go higher, so do stakes for investors](https://www.marketwatch.com/bulletins/redirect/go?g=54810cca-7caf-4f08-b530-8641c5770919&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 22:07
+
+#### [Nvidia is boosting its stock-buyback program by a record $60 billion](https://www.marketwatch.com/bulletins/redirect/go?g=b6229dac-a194-4dda-9765-319343e74386&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 21:25
+
+#### [Trump-Fed feud heightens fear Treasurys, dollar face emerging-market-style risks](https://www.marketwatch.com/bulletins/redirect/go?g=5833bc17-ce1c-4f9f-9eb7-2a656acdfb26&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 21:23
+
+#### [Nvidia's stock falls as sales growth slows, profit margins fade — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=095b6824-11cc-46b4-8ea5-07ef588b8b7a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 20:52
+
+#### [Nvidia's earnings are out. Here are the key numbers driving the stock lower.](https://www.marketwatch.com/bulletins/redirect/go?g=38e167e3-0fdc-4683-aa3c-e4eb224120be&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 20:24
+
+#### [S&P 500 books fresh record close as stocks rise ahead of Nvidia earnings](https://www.marketwatch.com/bulletins/redirect/go?g=9119799d-9c6c-4973-a67b-0a6a755c5f35&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 20:03
+
+#### [S&P 500 inches toward record close as stocks rise ahead of Nvidia results — live](https://www.marketwatch.com/bulletins/redirect/go?g=6ba8d3e5-d558-408e-b71c-98665f4f0bc6&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 19:02
+
+#### [Nvidia sales have been beating analyst estimates by less and less. Stay tuned.](https://www.marketwatch.com/bulletins/redirect/go?g=b1b5a297-eaf2-4f24-8d00-22e83618a14d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 18:34
 
 ---
 

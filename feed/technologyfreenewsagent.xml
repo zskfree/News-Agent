@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 Aug 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 08:27:58 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 23:19:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“开箱即用”内部开发者平台 KubriX 正式发布</title>
-      <link>https://www.infoq.cn/article/DYBhlfDMb7tNvX52xLPb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“开箱即用”内部开发者平台 KubriX 正式发布]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DYBhlfDMb7tNvX52xLPb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>贝壳商机平台：基于NL2SQL 实现指标查询实践</title>
+      <link>https://www.infoq.cn/article/TZfeOJOBCtyh5fW5Xg8N?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[贝壳商机平台：基于NL2SQL 实现指标查询实践]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TZfeOJOBCtyh5fW5Xg8N?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IVD集采风暴下的“万孚韧性”：技术纵深为盾、全球化为矛、数智化为翼</title>
-      <link>https://www.tmtpost.com/7673785.html</link>
-      <description>&lt;![CDATA[IVD集采风暴下的“万孚韧性”：技术纵深为盾、全球化为矛、数智化为翼]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7673785.html</guid>
+      <title>下沉、出海、卷技术，国产手术机器人等待价值回归</title>
+      <link>https://www.tmtpost.com/7673858.html</link>
+      <description>&lt;![CDATA[下沉、出海、卷技术，国产手术机器人等待价值回归]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7673858.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>性能提升6倍！Apache Doris + Apache Paimon 在小米集团的技术实践</title>
-      <link>https://www.infoq.cn/article/0hwxNR3qeBJqOdgJuYxj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[性能提升6倍！Apache Doris + Apache Paimon 在小米集团的技术实践]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0hwxNR3qeBJqOdgJuYxj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 上新 | 谷歌最新「香蕉」AI 图像模型，让网友疯玩「Vibe Photoshoping」</title>
+      <link>http://www.geekpark.net/news/353149</link>
+      <description>&lt;![CDATA[AI 上新 | 谷歌最新「香蕉」AI 图像模型，让网友疯玩「Vibe Photoshoping」]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 06:15:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/353149</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China AI Chip Leader Cambricon Posts Record Profit as DeepSeek Drives Demand</title>
-      <link>https://www.tmtpost.com/7673812.html</link>
-      <description>&lt;![CDATA[China AI Chip Leader Cambricon Posts Record Profit as DeepSeek Drives Demand]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7673812.html</guid>
+      <title>出海人的“逆旅”与乘风|《十字路口》系列纪录片·第四期</title>
+      <link>https://www.infoq.cn/video/iKguYBAzwB6hm4m7ezWs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[出海人的“逆旅”与乘风|《十字路口》系列纪录片·第四期]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/iKguYBAzwB6hm4m7ezWs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Indian PM Said to Refuses Trump's Call Four Times as U.S. Moves Forward Additional 25% Tariffs</title>
-      <link>https://www.tmtpost.com/7673731.html</link>
-      <description>&lt;![CDATA[Indian PM Said to Refuses Trump's Call Four Times as U.S. Moves Forward Additional 25% Tariffs]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7673731.html</guid>
+      <title>构建面向大模型的安全治理体系和应用实践</title>
+      <link>https://www.infoq.cn/video/K9moeuk7H4aQzNVS8VzZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建面向大模型的安全治理体系和应用实践]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 18:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/K9moeuk7H4aQzNVS8VzZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump Admin. Considers Expanding  Stake Deal with Intel to Defense Contractors</title>
-      <link>https://www.tmtpost.com/7673712.html</link>
-      <description>&lt;![CDATA[Trump Admin. Considers Expanding  Stake Deal with Intel to Defense Contractors]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7673712.html</guid>
+      <title>万卡竞赛背后：容器正在成为AI时代的调度大脑</title>
+      <link>https://www.infoq.cn/article/4y7jNK3RQaSFeFJ4tHlC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[万卡竞赛背后：容器正在成为AI时代的调度大脑]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4y7jNK3RQaSFeFJ4tHlC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快递反内卷大幕拉开，“9块9全国包邮”要重新算账了</title>
-      <link>https://www.tmtpost.com/7673614.html</link>
-      <description>&lt;![CDATA[快递反内卷大幕拉开，“9块9全国包邮”要重新算账了]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7673614.html</guid>
+      <title>苹果为追 AI 赛道洽谈收购两大AI玩家，却仍卡壳在 “不敢大手笔”</title>
+      <link>https://www.infoq.cn/article/UIJYGOyQSiVpJfavUJ1a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[苹果为追 AI 赛道洽谈收购两大AI玩家，却仍卡壳在 “不敢大手笔”]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UIJYGOyQSiVpJfavUJ1a?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>货拉拉大数据存储实践与 AI 时代的应对</title>
-      <link>https://www.infoq.cn/video/t2x5SEC3l571EvqvhuNz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[货拉拉大数据存储实践与 AI 时代的应对]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/t2x5SEC3l571EvqvhuNz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Samsung is Unpacking again in early September</title>
+      <link>https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september</link>
+      <description>&lt;![CDATA[Samsung is Unpacking again in early September]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 23:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OOM 杀进程 or 应用卡顿？该如何抉择</title>
-      <link>https://www.infoq.cn/article/Trs6TW9mBVmB8xcGx0NF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OOM 杀进程 or 应用卡顿？该如何抉择]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 15:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Trs6TW9mBVmB8xcGx0NF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>4Chan and Kiwi Farms file joint lawsuit against the UK</title>
+      <link>https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom</link>
+      <description>&lt;![CDATA[4Chan and Kiwi Farms file joint lawsuit against the UK]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 21:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>QAnything：大模型驱动下的知识库问答体系革新与实践</title>
-      <link>https://www.infoq.cn/video/TmhIJAcItiGZ07rXjk1h?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[QAnything：大模型驱动下的知识库问答体系革新与实践]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/TmhIJAcItiGZ07rXjk1h?utm_source=rss&amp;utm_medium=article</guid>
+      <title>The 75 best Labor Day deals we’ve found so far</title>
+      <link>https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025</link>
+      <description>&lt;![CDATA[The 75 best Labor Day deals we’ve found so far]]&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 19:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025</guid>
       <category>Technology</category>
     </item>
   </channel>

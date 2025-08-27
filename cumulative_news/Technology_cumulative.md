@@ -1,7 +1,189 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-27 08:27
+**最后更新时间**: 2025-08-27 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-27 23:18)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 上新 | 谷歌最新「香蕉」AI 图像模型，让网友疯玩「Vibe Photoshoping」](http://www.geekpark.net/news/353149)
+**发布时间**: 2025-08-28 06:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [贝壳商机平台：基于NL2SQL 实现指标查询实践](https://www.infoq.cn/article/TZfeOJOBCtyh5fW5Xg8N?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 00:00
+
+#### [出海人的“逆旅”与乘风|《十字路口》系列纪录片·第四期](https://www.infoq.cn/video/iKguYBAzwB6hm4m7ezWs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 19:10
+
+#### [构建面向大模型的安全治理体系和应用实践](https://www.infoq.cn/video/K9moeuk7H4aQzNVS8VzZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 18:26
+
+#### [万卡竞赛背后：容器正在成为AI时代的调度大脑](https://www.infoq.cn/article/4y7jNK3RQaSFeFJ4tHlC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 18:24
+
+#### [苹果为追 AI 赛道洽谈收购两大AI玩家，却仍卡壳在 “不敢大手笔”](https://www.infoq.cn/article/UIJYGOyQSiVpJfavUJ1a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 17:53
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
+**发布时间**: 2025-08-27 23:00
+
+#### [4Chan and Kiwi Farms file joint lawsuit against the UK](https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom)
+**发布时间**: 2025-08-27 21:11
+
+#### [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+**发布时间**: 2025-08-27 19:22
+
+#### [Microsoft&#8217;s Copilot AI is now inside Samsung TVs and monitors](https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch)
+**发布时间**: 2025-08-27 18:48
+
+#### [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)
+**发布时间**: 2025-08-27 18:37
+
+#### [Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations](https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review)
+**发布时间**: 2025-08-27 18:30
+
+#### [Brisk It’s beginner-friendly smart smoker is more than $100 off for Labor Day](https://www.theverge.com/tech/766558/brisk-it-zelos-450-smart-grill-labor-day-deal-sale)
+**发布时间**: 2025-08-27 17:30
+
+#### [Microsoft’s employee protests have reached a boiling point](https://www.theverge.com/notepad-microsoft-newsletter/766683/microsoft-employee-protests-boiling-point-notepad)
+**发布时间**: 2025-08-27 17:30
+
+#### [Google Pixel 10 Pro review: AI, Qi2, and a spec bump too](https://www.theverge.com/reviews/766613/google-pixel-10-pro-review-ai-magic-cue-camera-pro-res-zoom)
+**发布时间**: 2025-08-27 17:00
+
+#### [Disney sues Sling TV over its one-day cable passes](https://www.theverge.com/news/766933/disney-sling-tv-streaming-cable-passes-lawsuit)
+**发布时间**: 2025-08-27 16:25
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [无招放出胜负手](https://www.tmtpost.com/7674299.html)
+**发布时间**: 2025-08-27 21:33
+
+#### [天邑股份经营极速萎缩，专利减少却“蒙眼”称增多？ | 看财报](https://www.tmtpost.com/7674264.html)
+**发布时间**: 2025-08-27 20:05
+
+#### [连亏两年再启并购，必易微逆势“抄底”的盘算与隐忧｜并购一线](https://www.tmtpost.com/7674280.html)
+**发布时间**: 2025-08-27 20:04
+
+#### [农夫山泉，走出踉跄](https://www.tmtpost.com/7674175.html)
+**发布时间**: 2025-08-27 19:12
+
+#### [飞鹿股份易主：章卫国套现1.39亿元“撤退”，神秘资本玩家杨奕骁接盘](https://www.tmtpost.com/7674198.html)
+**发布时间**: 2025-08-27 19:05
+
+#### [138亿营收背后：泡泡玛特正在杀死“泡泡玛特”](https://www.tmtpost.com/7674127.html)
+**发布时间**: 2025-08-27 18:57
+
+#### [加入会员前，消费者在想什么？](https://www.tmtpost.com/7674140.html)
+**发布时间**: 2025-08-27 18:57
+
+#### [盛京银行十年上市路终结，借给泰禾的40亿还没要回来](https://www.tmtpost.com/7674145.html)
+**发布时间**: 2025-08-27 18:57
+
+#### [“反无人机”龙头业绩变脸：净利润下降758.03%，现金流失血加剧 | 看财报](https://www.tmtpost.com/7674152.html)
+**发布时间**: 2025-08-27 18:37
+
+#### [预调酒失速、烈酒待熟，百润股份上半年营利双降｜看财报](https://www.tmtpost.com/7674055.html)
+**发布时间**: 2025-08-27 18:36
+
+#### [2025上半年，中国企业在全球刷出了新副本](https://www.tmtpost.com/7674036.html)
+**发布时间**: 2025-08-27 18:04
+
+#### [China's Stock Market Looks to Shed Casino Image as Investors Mature](https://www.tmtpost.com/7674079.html)
+**发布时间**: 2025-08-27 17:45
+
+#### [Circle能否成为下一个英伟达？巨大潜力还是巨大泡沫](https://www.tmtpost.com/7674076.html)
+**发布时间**: 2025-08-27 17:44
+
+#### [效率捷径的代价：AI 正在让你的大脑变笨](https://www.tmtpost.com/7674010.html)
+**发布时间**: 2025-08-27 17:42
+
+#### [下沉、出海、卷技术，国产手术机器人等待价值回归](https://www.tmtpost.com/7673858.html)
+**发布时间**: 2025-08-27 17:27
+
+#### [高瓴与隆基的周期课](https://www.tmtpost.com/7673892.html)
+**发布时间**: 2025-08-27 17:27
+
+#### [阿那亚和中产的“天下第一好”碎了？](https://www.tmtpost.com/7673899.html)
+**发布时间**: 2025-08-27 17:27
+
+#### [族兴新材：业绩持续变脸引可持续盈利能力拷问，多次行政处罚添合规隐忧｜IPO观察](https://www.tmtpost.com/7670961.html)
+**发布时间**: 2025-08-27 17:02
+
+#### [平安银行2025年中报：夯实可持续发展基础，整体经营保持稳健](https://www.tmtpost.com/7673882.html)
+**发布时间**: 2025-08-27 17:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [新一轮智驾PK，迈入实战时刻](http://www.huxiu.com/article/4742364.html?f=wangzhan)
+**发布时间**: 2025-08-27 18:35
+
+#### [三分糖五分糖微甜少甜少少甜，奶茶糖度怎么这么玄？](http://www.huxiu.com/article/4738247.html?f=wangzhan)
+**发布时间**: 2025-08-27 16:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [四万块组建入门级全屋智能，我买了哪些称心如意的好物](https://sspai.com/post/101818)
+**发布时间**: 2025-08-27 17:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Save 20 Percent on Our Favorite Android Earbuds](https://www.wired.com/story/nothing-ear-a-deal/)
+**发布时间**: 2025-08-27 17:29
+
+#### [This Is the Group That's Been Swatting US Universities](https://www.wired.com/story/purgatory-gores-swatting-us-universities/)
+**发布时间**: 2025-08-27 17:09
+
+#### [Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL Review](https://www.wired.com/review/google-pixel-10-pixel-10-pro-and-pixel-10-pro-xl/)
+**发布时间**: 2025-08-27 17:00
+
+#### [Best Window Air Conditioners 2025: 11 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+**发布时间**: 2025-08-27 15:29
+
+#### [The Magic Phrase Behind Donald Trump’s Power Grab](https://www.wired.com/story/president-donald-trump-priorities/)
+**发布时间**: 2025-08-27 15:00
+
+#### [7 Best OLED TVs (2025): Sony, LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
+**发布时间**: 2025-08-27 14:03
+
+#### [SpaceX Starship Finally Pulls Off a Successful Test Flight](https://www.wired.com/story/spacex-starship-successful-test-flight/)
+**发布时间**: 2025-08-27 13:52
+
+#### [PopSockets PopCase Kindle Hands-On (2025): Easy Reading](https://www.wired.com/story/popsocket-popcase-kindle-hands-on/)
+**发布时间**: 2025-08-27 13:09
+
+#### [Elehear Beyond Pro Review: Big Hearing Aids](https://www.wired.com/review/elehear-beyond-pro/)
+**发布时间**: 2025-08-27 13:00
+
+#### [The Era of AI-Generated Ransomware Has Arrived](https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/)
+**发布时间**: 2025-08-27 12:36
+
+#### [Wahoo Kickr Run Review: a (Mostly) Screen-Free Treadmill](https://www.wired.com/review/wahoo-kickr-run/)
+**发布时间**: 2025-08-27 12:32
+
+#### [How to Brush Your Pet's Teeth—Veterinarians Weigh In (2025)](https://www.wired.com/story/do-you-really-need-to-brush-your-pets-teeth/)
+**发布时间**: 2025-08-27 12:07
+
+#### [NASA’s Largest Satellite Antenna Ever Has Just Unfurled in Space](https://www.wired.com/story/the-largest-satellite-antenna-ever-has-just-unfurled-in-space/)
+**发布时间**: 2025-08-27 11:13
+
+#### [What It's Like to Work at a Body Farm](https://www.wired.com/story/your-next-job-body-farm/)
+**发布时间**: 2025-08-27 11:00
+
+#### [What’s the Best Hair Straightener for You? It Depends (2025)](https://www.wired.com/gallery/best-hair-straighteners/)
+**发布时间**: 2025-08-27 10:30
+
+#### [Worried About Losing Your Job? Pack a Digital Go Bag](https://www.wired.com/story/whats-in-your-digital-go-bag/)
+**发布时间**: 2025-08-27 10:30
+
+#### [A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
+**发布时间**: 2025-08-27 10:00
 
 ---
 
