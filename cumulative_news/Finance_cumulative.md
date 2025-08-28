@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-28 05:19
+**最后更新时间**: 2025-08-28 08:38
+
+---
+
+## 🆕 最新更新 (2025-08-28 08:38)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Buffett’s Berkshire Hathaway boosted Mitsubishi and Mitsui stakes. Why he’s enamored with Japan.](https://www.marketwatch.com/story/buffetts-berkshire-hathaway-boosted-mitsubishi-and-mitsui-stakes-why-hes-enamored-with-japan-0cda66be?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 08:35
+
+#### [Record levels of margin debt aren’t a red flag but long-term inflation is, says this fund manager](https://www.marketwatch.com/story/record-levels-of-margin-debt-arent-a-red-flag-but-long-term-inflation-is-says-this-fund-manager-0ad24ca5?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 07:03
 
 ---
 

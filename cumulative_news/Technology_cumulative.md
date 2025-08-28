@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-28 05:19
+**最后更新时间**: 2025-08-28 08:38
+
+---
+
+## 🆕 最新更新 (2025-08-28 08:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“政策暖风”劲吹，爱奇艺多维布局迎发展新周期](https://www.tmtpost.com/7675203.html)
+**发布时间**: 2025-08-28 16:17
+
+#### [海辰储能高举“质量牌”，不拼速度也能赢？](https://www.tmtpost.com/7675092.html)
+**发布时间**: 2025-08-28 16:14
+
+#### [Lenovo Bets Big on 'Super Intelligent Agents' as China Unveils Sweeping Ai+ Initiative](https://www.tmtpost.com/7675327.html)
+**发布时间**: 2025-08-28 16:04
+
+#### [Hollyland Unifies Brand, Bets on Global Growth as Wireless Microphone Market Booms](https://www.tmtpost.com/7675307.html)
+**发布时间**: 2025-08-28 15:58
+
+#### [Meituan's Loss Warning Sparks $27 Billion Rout Across China Internet Sector](https://www.tmtpost.com/7675303.html)
+**发布时间**: 2025-08-28 15:55
+
+#### [8月28日A股分析：沪指涨1.14%报3843.6点，两市合计成交29708.03亿元，涨幅最多的行业板块为半导体](https://www.tmtpost.com/7675250.html)
+**发布时间**: 2025-08-28 15:38
+
+#### [和你吵架的，或许不是人](https://www.tmtpost.com/7674953.html)
+**发布时间**: 2025-08-28 15:30
+
+#### [两轮电动智能化的新竞争，从操作系统开始](https://www.tmtpost.com/7674872.html)
+**发布时间**: 2025-08-28 15:07
+
+#### [深化全球布局，猛玛宣布品牌战略升级并发布多款新品｜科技前线](https://www.tmtpost.com/7674998.html)
+**发布时间**: 2025-08-28 14:34
+
+#### [联想推出近200项AI产品与解决方案，AI PC销量占比达30% | 科技前线](https://www.tmtpost.com/7674942.html)
+**发布时间**: 2025-08-28 14:32
+
+#### [U.S. Treasury Secretary Signals Shipbuilding Firms Could be Next Target following Government Stake in Intel](https://www.tmtpost.com/7675170.html)
+**发布时间**: 2025-08-28 14:30
+
+#### [这个被垄断20年的高端设备赛道，国产即将大爆发？](https://www.tmtpost.com/7674958.html)
+**发布时间**: 2025-08-28 14:14
+
+#### [Jensen Huang Floats Potential Blackwell AI Chips Sold in China as Tepid Nvidia Q3 Guidance Excludes H20 Sales](https://www.tmtpost.com/7675130.html)
+**发布时间**: 2025-08-28 13:57
+
+#### [霉霉官宣订婚，带火拉夫劳伦](https://www.tmtpost.com/7674774.html)
+**发布时间**: 2025-08-28 13:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [共创栏目预览 | 久坐一族如何缓解腰背酸痛](https://sspai.com/post/102102)
+**发布时间**: 2025-08-28 15:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Instacart将搜索基础设施迁移至PostgreSQL，并逐步淘汰Elasticsearch](https://www.infoq.cn/article/3bsJd2fpYGhDtMUW9JFk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 15:00
+
+#### [面向数据库参数调优的负载压缩](https://www.infoq.cn/video/XPfsi5xWX4E4urvUkpbQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 14:37
+
+#### [跨域数据的压缩技术: 从数据库存储到大语言模型优化](https://www.infoq.cn/video/m1PE5FQhEg4hp9IpU193?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 14:37
 
 ---
 

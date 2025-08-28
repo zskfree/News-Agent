@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 Aug 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 05:21:26 GMT</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 08:37:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 08:39:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding</title>
-      <link>https://arxiv.org/abs/2508.19576</link>
-      <description>&lt;![CDATA[ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19576</guid>
+      <title>华为云张平安：打造算力黑土地，繁荣AI百花园，加速行业智能跃迁</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-9</link>
+      <description>&lt;![CDATA[华为云张平安：打造算力黑土地，繁荣AI百花园，加速行业智能跃迁]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series</title>
-      <link>https://arxiv.org/abs/2508.19279</link>
-      <description>&lt;![CDATA[FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19279</guid>
+      <title>阿里AI旗舰应用夸克上线AI会员</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-8</link>
+      <description>&lt;![CDATA[阿里AI旗舰应用夸克上线AI会员]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>拍我AI搭载PixVerse V5：AI视频从专业工具迈向大众创作应用</title>
-      <link>https://www.qbitai.com/2025/08/326773.html</link>
-      <description>&lt;![CDATA[拍我AI搭载PixVerse V5：AI视频从专业工具迈向大众创作应用]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 04:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326773.html</guid>
+      <title>AAAI-26投稿量爆炸：近3万篇论文，2万来自中国，评审系统都快崩了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-7</link>
+      <description>&lt;![CDATA[AAAI-26投稿量爆炸：近3万篇论文，2万来自中国，评审系统都快崩了]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI技术驱动文旅产业升级，马蜂窝携全栈AI产品矩阵亮相2025数博会</title>
-      <link>https://www.qbitai.com/2025/08/326762.html</link>
-      <description>&lt;![CDATA[AI技术驱动文旅产业升级，马蜂窝携全栈AI产品矩阵亮相2025数博会]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 04:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326762.html</guid>
+      <title>当心，你运行的AI可能变成内奸，会帮攻击者劫持你的电脑</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-6</link>
+      <description>&lt;![CDATA[当心，你运行的AI可能变成内奸，会帮攻击者劫持你的电脑]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>空间智能卡脖子难题被杭州攻克！难倒GPT-5后，六小龙企业出手了</title>
-      <link>https://www.qbitai.com/2025/08/326375.html</link>
-      <description>&lt;![CDATA[空间智能卡脖子难题被杭州攻克！难倒GPT-5后，六小龙企业出手了]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 02:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326375.html</guid>
+      <title>EMNLP 2025 | 动态压缩CoT推理新方法LightThinker来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-5</link>
+      <description>&lt;![CDATA[EMNLP 2025 | 动态压缩CoT推理新方法LightThinker来了]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Sycophancy as compositions of Atomic Psychometric Traits</title>
-      <link>https://arxiv.org/abs/2508.19316</link>
-      <description>&lt;![CDATA[Sycophancy as compositions of Atomic Psychometric Traits]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19316</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs</title>
-      <link>https://arxiv.org/abs/2508.19432</link>
-      <description>&lt;![CDATA[Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19432</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reliable Weak-to-Strong Monitoring of LLM Agents</title>
-      <link>https://arxiv.org/abs/2508.19461</link>
-      <description>&lt;![CDATA[Reliable Weak-to-Strong Monitoring of LLM Agents]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19461</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities</title>
-      <link>https://arxiv.org/abs/2508.19562</link>
-      <description>&lt;![CDATA[Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19562</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties</title>
-      <link>https://arxiv.org/abs/2508.19611</link>
-      <description>&lt;![CDATA[Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.19611</guid>
+      <title>AI加持气候模拟：华盛顿大学等12小时跑出一千年模拟，快了数千倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-4</link>
+      <description>&lt;![CDATA[AI加持气候模拟：华盛顿大学等12小时跑出一千年模拟，快了数千倍]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-4</guid>
       <category>AI</category>
     </item>
   </channel>
