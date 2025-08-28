@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-28 08:37
+**最后更新时间**: 2025-08-28 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-28 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [谷歌又赢了，nano banana「被迫」改名后，网友搞出7种神仙玩法](https://www.jiqizhixin.com/articles/2025-08-28-17)
+**发布时间**: 2025-08-28 19:02
+
+#### [杜克大学、Zoom推出LiveMCP‑101：GPT‑5表现最佳但未破60%，闭源模型Token效率对数规律引关注](https://www.jiqizhixin.com/articles/2025-08-28-16)
+**发布时间**: 2025-08-28 18:53
+
+#### [来和数字员工「AI吴彦祖」聊聊天，百度智能云重磅升级百舸5.0、千帆4.0](https://www.jiqizhixin.com/articles/2025-08-28-15)
+**发布时间**: 2025-08-28 18:22
+
+#### [元石科技正式发布问小白5，性能直追GPT-5](https://www.jiqizhixin.com/articles/2025-08-28-13)
+**发布时间**: 2025-08-28 17:54
+
+#### [刚刚更新，全球AI百强：中国五款产品进前20，ChatGPT背腹受敌，氛围编程成黑马](https://www.jiqizhixin.com/articles/2025-08-28-12)
+**发布时间**: 2025-08-28 17:49
+
+#### [万用科研助手：浙大推出SciToolAgent构建多工具协同科研平台](https://www.jiqizhixin.com/articles/2025-08-28-10)
+**发布时间**: 2025-08-28 17:24
+
+#### [奇点灵智获数千万元天使轮融资，打造儿童AI英语伴学新起点](https://www.jiqizhixin.com/articles/2025-08-28-11)
+**发布时间**: 2025-08-28 13:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [SuperCLUE多模态视觉评测榜：文心4.5 Turbo总分并列国内第一](https://www.qbitai.com/2025/08/327146.html)
+**发布时间**: 2025-08-28 13:15
+
+#### [一帮人All in AI，让搞体育的先赚到钱了](https://www.qbitai.com/2025/08/327097.html)
+**发布时间**: 2025-08-28 11:37
+
+#### [全新岚图知音正式上市，20.29万元起](https://www.qbitai.com/2025/08/327089.html)
+**发布时间**: 2025-08-28 10:56
+
+#### [33.5万，「车位到车位」上车坦克500，硬派越野标杆也可家用](https://www.qbitai.com/2025/08/327076.html)
+**发布时间**: 2025-08-28 09:37
+
+#### [奇点灵智获数千万元天使轮融资，打造儿童AI英语伴学新起点](https://www.qbitai.com/2025/08/327067.html)
+**发布时间**: 2025-08-28 09:24
+
+#### [啊？猫猫也会老年痴呆](https://www.qbitai.com/2025/08/327024.html)
+**发布时间**: 2025-08-28 09:14
+
+#### [PPIO姚欣出席首届AI国际人才峰会：打造智能体基石，赋能全球AI创业者](https://www.qbitai.com/2025/08/327013.html)
+**发布时间**: 2025-08-28 09:13
+
+#### [ChatGPT后遗症来了！人类日常聊天越来越AI化](https://www.qbitai.com/2025/08/326528.html)
+**发布时间**: 2025-08-28 08:55
+
+#### [AI人才争夺战加大薪资差距，OpenAI前副总裁：能留住人才是最重要的](https://www.qbitai.com/2025/08/326992.html)
+**发布时间**: 2025-08-28 08:34
+
+#### [AI搜索MCP服务来了，Agent直接链接实时信息！刚刚，百度智能云打出了张“王牌”](https://www.qbitai.com/2025/08/326951.html)
+**发布时间**: 2025-08-28 07:43
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: Google’s AI energy use, and the AI Hype Index](https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/)
+**发布时间**: 2025-08-28 12:10
+
+#### [Creating a qubit fit for a quantum future](https://www.technologyreview.com/2025/08/28/1121890/creating-a-qubit-fit-for-a-quantum-future/)
+**发布时间**: 2025-08-28 11:00
+
+#### [From pilot to scale: Making agentic AI work in health care](https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/)
+**发布时间**: 2025-08-28 10:09
+
+#### [Google’s still not giving us the full picture on AI energy use](https://www.technologyreview.com/2025/08/28/1122685/ai-energy-use-gemini/)
+**发布时间**: 2025-08-28 10:00
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT researchers develop AI tool to improve flu vaccine strain selection](https://news.mit.edu/2025/vaxseer-ai-tool-to-improve-flu-vaccine-strain-selection-0828)
+**发布时间**: 2025-08-28 11:50
 
 ---
 

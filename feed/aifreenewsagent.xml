@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 Aug 2025 08:37:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 08:39:08 GMT</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 23:21:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为云张平安：打造算力黑土地，繁荣AI百花园，加速行业智能跃迁</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-9</link>
-      <description>&lt;![CDATA[华为云张平安：打造算力黑土地，繁荣AI百花园，加速行业智能跃迁]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-9</guid>
+      <title>刚刚更新，全球AI百强：中国五款产品进前20，ChatGPT背腹受敌，氛围编程成黑马</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-12</link>
+      <description>&lt;![CDATA[刚刚更新，全球AI百强：中国五款产品进前20，ChatGPT背腹受敌，氛围编程成黑马]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里AI旗舰应用夸克上线AI会员</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-8</link>
-      <description>&lt;![CDATA[阿里AI旗舰应用夸克上线AI会员]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-8</guid>
+      <title>ChatGPT后遗症来了！人类日常聊天越来越AI化</title>
+      <link>https://www.qbitai.com/2025/08/326528.html</link>
+      <description>&lt;![CDATA[ChatGPT后遗症来了！人类日常聊天越来越AI化]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326528.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AAAI-26投稿量爆炸：近3万篇论文，2万来自中国，评审系统都快崩了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-7</link>
-      <description>&lt;![CDATA[AAAI-26投稿量爆炸：近3万篇论文，2万来自中国，评审系统都快崩了]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-7</guid>
+      <title>杜克大学、Zoom推出LiveMCP‑101：GPT‑5表现最佳但未破60%，闭源模型Token效率对数规律引关注</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-16</link>
+      <description>&lt;![CDATA[杜克大学、Zoom推出LiveMCP‑101：GPT‑5表现最佳但未破60%，闭源模型Token效率对数规律引关注]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-16</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>当心，你运行的AI可能变成内奸，会帮攻击者劫持你的电脑</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-6</link>
-      <description>&lt;![CDATA[当心，你运行的AI可能变成内奸，会帮攻击者劫持你的电脑]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-6</guid>
+      <title>来和数字员工「AI吴彦祖」聊聊天，百度智能云重磅升级百舸5.0、千帆4.0</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-15</link>
+      <description>&lt;![CDATA[来和数字员工「AI吴彦祖」聊聊天，百度智能云重磅升级百舸5.0、千帆4.0]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-15</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>EMNLP 2025 | 动态压缩CoT推理新方法LightThinker来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-5</link>
-      <description>&lt;![CDATA[EMNLP 2025 | 动态压缩CoT推理新方法LightThinker来了]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-5</guid>
+      <title>元石科技正式发布问小白5，性能直追GPT-5</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-13</link>
+      <description>&lt;![CDATA[元石科技正式发布问小白5，性能直追GPT-5]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI加持气候模拟：华盛顿大学等12小时跑出一千年模拟，快了数千倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-4</link>
-      <description>&lt;![CDATA[AI加持气候模拟：华盛顿大学等12小时跑出一千年模拟，快了数千倍]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-4</guid>
+      <title>奇点灵智获数千万元天使轮融资，打造儿童AI英语伴学新起点</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-28-11</link>
+      <description>&lt;![CDATA[奇点灵智获数千万元天使轮融资，打造儿童AI英语伴学新起点]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 13:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一帮人All in AI，让搞体育的先赚到钱了</title>
+      <link>https://www.qbitai.com/2025/08/327097.html</link>
+      <description>&lt;![CDATA[一帮人All in AI，让搞体育的先赚到钱了]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327097.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>PPIO姚欣出席首届AI国际人才峰会：打造智能体基石，赋能全球AI创业者</title>
+      <link>https://www.qbitai.com/2025/08/327013.html</link>
+      <description>&lt;![CDATA[PPIO姚欣出席首届AI国际人才峰会：打造智能体基石，赋能全球AI创业者]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 09:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327013.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: Google’s AI energy use, and the AI Hype Index</title>
+      <link>https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/</link>
+      <description>&lt;![CDATA[The Download: Google’s AI energy use, and the AI Hype Index]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>From pilot to scale: Making agentic AI work in health care</title>
+      <link>https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/</link>
+      <description>&lt;![CDATA[From pilot to scale: Making agentic AI work in health care]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/</guid>
       <category>AI</category>
     </item>
   </channel>

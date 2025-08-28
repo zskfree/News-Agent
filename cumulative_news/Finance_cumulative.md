@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-28 08:38
+**最后更新时间**: 2025-08-28 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-28 23:20)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump is closing a shipping loophole. Etsy and eBay shares are tumbling.](https://www.marketwatch.com/bulletins/redirect/go?g=5993b052-07c5-4122-815d-29af3e82a4ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 23:08
+
+#### [Fed’s Waller backs a series of interest-rate cuts over the next six months](https://www.marketwatch.com/bulletins/redirect/go?g=e5a94335-651b-4ff0-acf8-a97e8564571b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 22:48
+
+#### [As S&P 500 hits new peak, are U.S. stocks catching up to the rest of the world?](https://www.marketwatch.com/bulletins/redirect/go?g=67e6926a-234d-479a-825d-5778beee493a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 21:59
+
+#### [Marvell’s stock is falling after its earnings didn’t live up to the AI hype](https://www.marketwatch.com/bulletins/redirect/go?g=6c417d89-a540-4eb9-b029-618034837c44&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 21:36
+
+#### [Trump’s push for lower rates is on a collision course with government bonds](https://www.marketwatch.com/bulletins/redirect/go?g=0b818f7e-3c78-4b6d-bb67-b5a17017941b&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 20:54
+
+#### [Dow, S&P 500 close at all-time highs while Nasdaq narrowly misses record finish](https://www.marketwatch.com/bulletins/redirect/go?g=9ade9903-509b-47d9-b447-8cf105fb95dd&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 20:07
+
+#### [This old-school retailer has outrun even Nvidia over the past five years](https://www.marketwatch.com/bulletins/redirect/go?g=85200ad5-170f-495f-b064-3faffee5a3ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 19:11
+
+#### [Hormel shares face worst day on record as pork and other costs surge](https://www.marketwatch.com/bulletins/redirect/go?g=f79425fa-d5ba-4b52-b21c-50f483d21229&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 18:28
+
+#### [What every parent should know about funding college while protecting retirement](https://www.marketwatch.com/bulletins/redirect/go?g=28a65884-8ca8-433b-ab2d-cd0ced752682&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 17:29
+
+#### [Nvidia’s decline is a headwind as the Dow pushes into positive territory](https://www.marketwatch.com/bulletins/redirect/go?g=858072b2-bdaa-486d-b803-7aafa138e4fb&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 16:26
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Marvell’s stock is falling as its earnings didn’t live up to the AI hype](https://www.marketwatch.com/story/marvells-stock-is-falling-as-its-earnings-didnt-live-up-to-the-ai-hype-61c72ff9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 22:51
+
+#### [Fed’s Waller backs a series of interest-rate cuts over the next six months](https://www.marketwatch.com/story/feds-waller-backs-a-series-of-interest-rate-cuts-over-the-next-six-months-f1f730bb?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 22:46
+
+#### [‘My blood pressure is sky high’: I’m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?](https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 22:11
+
+#### [‘I have almost no retirement savings’: I’m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?](https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 21:45
+
+#### [Affirm swings to profit as people flocked to its 0% APR loans and other offers](https://www.marketwatch.com/story/affirm-swings-to-profit-as-people-flocked-to-its-0-apr-loans-and-other-offers-e35eaf1e?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 21:40
+
+#### [S&P 500 scores new peak. Are U.S. stocks ‘catching up’ to the rest of the world?](https://www.marketwatch.com/story/s-p-500-scores-new-peak-are-u-s-stocks-catching-up-to-the-rest-of-the-world-971015a3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 21:23
+
+#### [I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?](https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 21:12
+
+#### [Trump is closing a shipping loophole. Etsy and eBay shares are tumbling.](https://www.marketwatch.com/story/trump-is-closing-a-shipping-loophole-shares-in-etsy-and-ebay-are-tumbling-baffd57f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 21:04
 
 ---
 

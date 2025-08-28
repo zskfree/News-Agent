@@ -1,7 +1,160 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-28 08:38
+**最后更新时间**: 2025-08-28 23:20
+
+---
+
+## 🆕 最新更新 (2025-08-28 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [浦发银行2025中报透视：业绩高歌背后的“韧性”与“隐忧”](https://www.tmtpost.com/7675906.html)
+**发布时间**: 2025-08-29 06:45
+
+#### [中国太保2025中报：NBV高增32%亮眼，中期不分红，投资承压](https://www.tmtpost.com/7675900.html)
+**发布时间**: 2025-08-29 06:45
+
+#### [当国家成为股东，英特尔的「芯」不由己](https://www.tmtpost.com/7675254.html)
+**发布时间**: 2025-08-28 23:07
+
+#### [财务费用狂飙吞噬利润，奥飞数据举债扩张隐忧不减 | 看财报](https://www.tmtpost.com/7674845.html)
+**发布时间**: 2025-08-28 20:43
+
+#### [京东、美团、盒马的“硬折扣”博弈](https://www.tmtpost.com/7675226.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [肯德基卖炸鸡，百胜中国搞突围？](https://www.tmtpost.com/7675473.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [买量素材出海史：国产游戏如何用AI和热点打穿海外市场？](https://www.tmtpost.com/7675302.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [“AI应用元年”赛程过半，DeepSeek流量红利殆尽，国产头部AI应用现状与挑战](https://www.tmtpost.com/7674747.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [Air一出，Plus退场：苹果第四款iPhone，能翻身吗？](https://www.tmtpost.com/7674908.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [赵露思为何要换槽口恰饭？](https://www.tmtpost.com/7674992.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [AR眼镜的四大核心痛点，未来的爆发式增长路径在哪里？](https://www.tmtpost.com/7675320.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [“人造肉第一股”要破产了？](https://www.tmtpost.com/7675149.html)
+**发布时间**: 2025-08-28 19:17
+
+#### [聚焦户外作业装备领域，鑫源智造上半年盈利增长284% | 看财报](https://www.tmtpost.com/7675590.html)
+**发布时间**: 2025-08-28 18:57
+
+#### [金种子酒总经理离任、半年亏损7200万元，华润“啤白”战略首战遇挫｜看财报](https://www.tmtpost.com/7675481.html)
+**发布时间**: 2025-08-28 18:28
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft fires two more employees for participating in Palestine protests on campus](https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid)
+**发布时间**: 2025-08-28 22:51
+
+#### [Microsoft AI launches its first in-house models](https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai)
+**发布时间**: 2025-08-28 21:13
+
+#### [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)
+**发布时间**: 2025-08-28 18:24
+
+#### [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
+**发布时间**: 2025-08-28 18:19
+
+#### [Xbox&#8217;s cross-device play history syncs your recently played games on every  screen](https://www.theverge.com/news/767697/xbox-cross-device-play-history-cloud-gaming)
+**发布时间**: 2025-08-28 18:09
+
+#### [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+**发布时间**: 2025-08-28 18:09
+
+#### [GM’s new adapters reflect the increasingly confused reality of EV charging](https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging)
+**发布时间**: 2025-08-28 17:25
+
+#### [Star Wars: Starfighter is going to be star-studded](https://www.theverge.com/film/767588/star-wars-starfighter-cast)
+**发布时间**: 2025-08-28 17:04
+
+#### [Battlefield 6 PC requirements are pretty chill — if you don&#8217;t mind 30fps](https://www.theverge.com/news/767582/battlefield-6-pc-requirements-are-pretty-chill-if-you-dont-mind-30fps)
+**发布时间**: 2025-08-28 16:48
+
+#### [Fubo Sports is a $55.99 / month streaming bundle made for watching football](https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming)
+**发布时间**: 2025-08-28 16:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [英伟达的增长战车，只有一个轮子](http://www.geekpark.net/news/353205)
+**发布时间**: 2025-08-28 22:47
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
+**发布时间**: 2025-08-28 21:28
+
+#### [The Duty-Free Loophole Is Closing. What That Means for You—and Your Packages](https://www.wired.com/story/de-minimis-exemption-ending-what-that-means-for-you/)
+**发布时间**: 2025-08-28 21:19
+
+#### [Our Favorite GoPro Is $150 Off](https://www.wired.com/story/gopro-hero-black-deal/)
+**发布时间**: 2025-08-28 20:33
+
+#### [The 29 Best Movies on Apple TV+ Right Now (September 2025)](https://www.wired.com/story/best-apple-tv-plus-movies/)
+**发布时间**: 2025-08-28 19:00
+
+#### [This Is How You Log Off](https://www.wired.com/story/uncanny-valley-podcast-this-is-how-you-log-off/)
+**发布时间**: 2025-08-28 17:47
+
+#### [The 48 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+**发布时间**: 2025-08-28 15:40
+
+#### [Scientists Are Flocking to Bluesky](https://www.wired.com/story/bluesky-now-platform-of-choice-for-science-community/)
+**发布时间**: 2025-08-28 15:26
+
+#### [Why China Builds Faster Than the Rest of the World](https://www.wired.com/story/dan-wang-china-breakneck-book-interview/)
+**发布时间**: 2025-08-28 15:00
+
+#### [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+**发布时间**: 2025-08-28 13:30
+
+#### [Samsung S95F QD-OLED Review: The Best Looking TV Screen of 2025](https://www.wired.com/review/samsung-s95f/)
+**发布时间**: 2025-08-28 13:06
+
+#### [Kindle Colorsoft Kids Review (2025): Great for All Ages](https://www.wired.com/review/kindle-colorsoft-kids-2025/)
+**发布时间**: 2025-08-28 11:37
+
+#### [Honest Review of the New Tiami Mattress (2025)](https://www.wired.com/review/tiami-mattress-review/)
+**发布时间**: 2025-08-28 10:32
+
+#### [China Is Building a Brain-Computer Interface Industry](https://www.wired.com/story/china-is-getting-serious-about-brain-computer-interfaces/)
+**发布时间**: 2025-08-28 10:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [人人可用、真能落地，阿里用Agent掀翻了数据分析的牌桌](https://www.infoq.cn/article/GkvTLrdBUOE1gEF3j0WK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 19:43
+
+#### [80%美国AI初创靠中国开源模型“吃饭”！a16z投资人震惊，全球开源榜前16名全被中国包揽](https://www.infoq.cn/article/aj3fHc3SP3vUG1h9W5aK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:29
+
+#### [圆桌讨论](https://www.infoq.cn/video/CHr5gQKBLRkgp3NdxBVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:25
+
+#### [数据库事务一致性验证问题： 前沿技术与发展趋势探讨](https://www.infoq.cn/video/t3Tx1WEEwRRI6oX3kpJT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:18
+
+#### [SIGMOD 25’TXSQL内核热点更新优化](https://www.infoq.cn/video/YKrlloboH7eCjGPvhHwN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:13
+
+#### [查询生成与查询优化技术： 人工智能赋能视角](https://www.infoq.cn/video/4cppdtJMjUYjggOEjlgZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:00
+
+#### [DeepMind公布全球制图模型AlphaEarth Foundations](https://www.infoq.cn/article/vs0QD8ZCvNqkKZaFidoD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 219｜少数派的编辑们最近买了啥？](https://sspai.com/post/102159)
+**发布时间**: 2025-08-28 17:30
 
 ---
 
