@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-27 23:18
+**最后更新时间**: 2025-08-28 05:19
+
+---
+
+## 🆕 最新更新 (2025-08-28 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Think the S&P 500 is too expensive? Check out these ETFs instead.](https://www.marketwatch.com/story/think-the-s-p-500-is-too-expensive-check-out-these-etfs-instead-b58f22d3?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 01:49
+
+#### [CoreWeave’s stock has slumped. Here’s how the company can prove the bears wrong.](https://www.marketwatch.com/story/coreweaves-stock-has-slumped-heres-how-the-company-can-prove-the-bears-wrong-62e237b4?mod=mw_rss_topstories)
+**发布时间**: 2025-08-28 01:17
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Suze Orman spills the biggest mistakes keeping you from financial independence](https://www.marketwatch.com/bulletins/redirect/go?g=e52345ef-10a8-475d-bbd7-427811f72f3a&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-28 01:04
+
+#### [As coffee prices spike 30%, can this corporate merger bring relief to consumers?](https://www.marketwatch.com/bulletins/redirect/go?g=2cac0b8f-c6c0-4479-8c3f-fc59bde0fb25&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-27 23:21
 
 ---
 

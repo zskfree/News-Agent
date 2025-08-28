@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 23:20:01 GMT</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 05:21:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>入职不到30天，OpenAI员工闪辞Meta回归，赵晟佳也反悔过</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-12</link>
-      <description>&lt;![CDATA[入职不到30天，OpenAI员工闪辞Meta回归，赵晟佳也反悔过]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 20:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-12</guid>
+      <title>ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding</title>
+      <link>https://arxiv.org/abs/2508.19576</link>
+      <description>&lt;![CDATA[ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19576</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How Google’s AI can help transform health professions education</title>
-      <link>https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/</link>
-      <description>&lt;![CDATA[How Google’s AI can help transform health professions education]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/</guid>
+      <title>FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series</title>
+      <link>https://arxiv.org/abs/2508.19279</link>
+      <description>&lt;![CDATA[FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19279</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The AI Hype Index: AI-designed antibiotics show promise</title>
-      <link>https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/</link>
-      <description>&lt;![CDATA[The AI Hype Index: AI-designed antibiotics show promise]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/</guid>
+      <title>拍我AI搭载PixVerse V5：AI视频从专业工具迈向大众创作应用</title>
+      <link>https://www.qbitai.com/2025/08/326773.html</link>
+      <description>&lt;![CDATA[拍我AI搭载PixVerse V5：AI视频从专业工具迈向大众创作应用]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 04:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326773.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI comes for the job market, security, and prosperity: The Debrief</title>
-      <link>https://www.technologyreview.com/2025/08/27/1121475/editors-letter-security-issue-mat-honan/</link>
-      <description>&lt;![CDATA[AI comes for the job market, security, and prosperity: The Debrief]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/27/1121475/editors-letter-security-issue-mat-honan/</guid>
+      <title>AI技术驱动文旅产业升级，马蜂窝携全栈AI产品矩阵亮相2025数博会</title>
+      <link>https://www.qbitai.com/2025/08/326762.html</link>
+      <description>&lt;![CDATA[AI技术驱动文旅产业升级，马蜂窝携全栈AI产品矩阵亮相2025数博会]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 04:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326762.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>L3级AI服务智能体落地！联想百应智能体2.0重磅升级，打造中小企业创新生产力</title>
-      <link>https://www.qbitai.com/2025/08/326566.html</link>
-      <description>&lt;![CDATA[L3级AI服务智能体落地！联想百应智能体2.0重磅升级，打造中小企业创新生产力]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326566.html</guid>
+      <title>空间智能卡脖子难题被杭州攻克！难倒GPT-5后，六小龙企业出手了</title>
+      <link>https://www.qbitai.com/2025/08/326375.html</link>
+      <description>&lt;![CDATA[空间智能卡脖子难题被杭州攻克！难倒GPT-5后，六小龙企业出手了]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 02:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326375.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从1920TPS到2400TPS，华为云Tokens服务全面接入384超节点</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-14</link>
-      <description>&lt;![CDATA[从1920TPS到2400TPS，华为云Tokens服务全面接入384超节点]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 21:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-14</guid>
+      <title>Sycophancy as compositions of Atomic Psychometric Traits</title>
+      <link>https://arxiv.org/abs/2508.19316</link>
+      <description>&lt;![CDATA[Sycophancy as compositions of Atomic Psychometric Traits]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19316</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepSeek刚提到FP8，英伟达就把FP4精度推向预训练，更快、更便宜</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-13</link>
-      <description>&lt;![CDATA[DeepSeek刚提到FP8，英伟达就把FP4精度推向预训练，更快、更便宜]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 20:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-13</guid>
+      <title>Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs</title>
+      <link>https://arxiv.org/abs/2508.19432</link>
+      <description>&lt;![CDATA[Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19432</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>We-Math 2.0：全新多模态数学推理数据集 × 首个综合数学知识体系</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-27-11</link>
-      <description>&lt;![CDATA[We-Math 2.0：全新多模态数学推理数据集 × 首个综合数学知识体系]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 20:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-27-11</guid>
+      <title>Reliable Weak-to-Strong Monitoring of LLM Agents</title>
+      <link>https://arxiv.org/abs/2508.19461</link>
+      <description>&lt;![CDATA[Reliable Weak-to-Strong Monitoring of LLM Agents]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19461</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Unlocking enterprise agility in the API economy</title>
-      <link>https://www.technologyreview.com/2025/08/27/1121532/unlocking-enterprise-agility-in-the-api-economy/</link>
-      <description>&lt;![CDATA[Unlocking enterprise agility in the API economy]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/27/1121532/unlocking-enterprise-agility-in-the-api-economy/</guid>
+      <title>Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities</title>
+      <link>https://arxiv.org/abs/2508.19562</link>
+      <description>&lt;![CDATA[Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19562</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: introducing: the Security issue</title>
-      <link>https://www.technologyreview.com/2025/08/27/1122632/the-download-introducing-the-security-issue/</link>
-      <description>&lt;![CDATA[The Download: introducing: the Security issue]]&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/27/1122632/the-download-introducing-the-security-issue/</guid>
+      <title>Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties</title>
+      <link>https://arxiv.org/abs/2508.19611</link>
+      <description>&lt;![CDATA[Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties]]&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.19611</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-27 23:18
+**最后更新时间**: 2025-08-28 05:19
+
+---
+
+## 🆕 最新更新 (2025-08-28 05:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [PNG规范第三版发布，增加HDR和APNG官方支持](https://www.infoq.cn/article/1l9VGEVH9QwRvDtzYMxw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 13:00
+
+#### [TRAE Rules 实践：为项目配置 6A 工作流](https://www.infoq.cn/article/3os5lzveazelbwMecccl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 11:48
+
+#### [阿里巴巴发布首个数据分析Agent，让人人都可拥有AI分析师](https://www.infoq.cn/article/Z2RarXNpfMj4FYui0BNS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 11:29
+
+#### [当AI接管70%代码审查工作，剩下的30%才是 “地狱模式”](https://www.infoq.cn/article/XCGwofidsTyvAQaakP2z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 11:15
+
+#### [从1920TPS到2400TPS，华为云Tokens服务全面接入384超节点](https://www.infoq.cn/article/6vtTGVhhTfQDiMkr7t2E?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 11:13
+
+#### [Netflix如何重新定义视频、音频和文本的数据工程](https://www.infoq.cn/article/JBt7w9Qf5UJdrjomw0L3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 11:00
+
+#### [谷歌开源秘钥扫描工具Veles](https://www.infoq.cn/article/DfrCVv5ofTPJDBRqQXxs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 10:10
+
+#### [出海人的“逆旅”与乘风|《十字路口》系列视频·第四期](https://www.infoq.cn/video/iKguYBAzwB6hm4m7ezWs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-27 19:10
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [联想发布超级智能体，聚焦混合式AI战略](https://www.tmtpost.com/7674764.html)
+**发布时间**: 2025-08-28 12:51
+
+#### [Meituan Q2 Profit Nosedives 97% amid China's Food Delivery War](https://www.tmtpost.com/7675004.html)
+**发布时间**: 2025-08-28 12:17
+
+#### [英伟达：宇宙第一股，不够炸裂就是罪？](https://www.tmtpost.com/7674721.html)
+**发布时间**: 2025-08-28 12:00
+
+#### [After a 335% Surge, Is There Still Room to Get In on Crypto Concept Stocks?](https://www.tmtpost.com/7674923.html)
+**发布时间**: 2025-08-28 11:19
+
+#### [2025暑期档：影剧综后半程爆发，文娱市场有惊无险](https://www.tmtpost.com/7674675.html)
+**发布时间**: 2025-08-28 11:05
+
+#### [英伟达Q2营收利润增超55%，但中国区收入暴降24%，市值蒸发9300亿](https://www.tmtpost.com/7674568.html)
+**发布时间**: 2025-08-28 10:42
+
+#### [A股破十年新高，一场资金面的接力赛](https://www.tmtpost.com/7674689.html)
+**发布时间**: 2025-08-28 10:38
+
+#### [逻辑比特科技团队在Nature发表论文，实现新型“热”拓扑边缘态](https://www.tmtpost.com/7674706.html)
+**发布时间**: 2025-08-28 09:42
+
+#### [播客不是喜马拉雅的解药](https://www.tmtpost.com/7674461.html)
+**发布时间**: 2025-08-28 09:20
+
+#### [从恋爱经济到关系经济，七夕营销，品牌如何谈「爱」？](https://www.tmtpost.com/7674213.html)
+**发布时间**: 2025-08-28 09:00
+
+#### [中国消费的真相，藏在线上品牌指数里](https://www.tmtpost.com/7674439.html)
+**发布时间**: 2025-08-28 08:40
+
+#### [科股早知道：前7月融资额超240亿，机构称人形机器人有望迎来量产落地时点](https://www.tmtpost.com/7674596.html)
+**发布时间**: 2025-08-28 08:25
+
+#### [【钛晨报】事关生物医药产业创新发展，商务部、江苏省联合发布；英特尔后盯上洛马，美政府或入股军工企业；美团将于年底全面取消超时扣款](https://www.tmtpost.com/7674393.html)
+**发布时间**: 2025-08-28 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [老车主、新视角：小鹏 MONA M03 Max 随行体验](https://sspai.com/post/102094)
+**发布时间**: 2025-08-28 10:54
+
+#### [派早报：Google 发布图像生成模型 nano banana、华为公开三折叠新品等](https://sspai.com/post/102141)
+**发布时间**: 2025-08-28 08:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [市值超越贵州茅台，A股芯片之王终于起飞](http://www.huxiu.com/article/4742949.html?f=wangzhan)
+**发布时间**: 2025-08-28 10:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美团王兴：坚决反内卷，补贴非长计；靳玉志：华为智驾不走 VLA 路径；全新小鹏P7，21.98万起](http://www.geekpark.net/news/353150)
+**发布时间**: 2025-08-28 08:07
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft fires two employee protesters who occupied its president&#8217;s office](https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest)
+**发布时间**: 2025-08-28 01:48
+
+#### [FDA approves updated covid vaccines, but with severe new limits](https://www.theverge.com/news/767208/fda-covid-vaccine-approval-rfk-cdc-director-susan-monarez)
+**发布时间**: 2025-08-28 00:10
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Top CDC Officials Resign After Director Is Pushed Out](https://www.wired.com/story/centers-for-disease-control-prevention-cdc-resignations/)
+**发布时间**: 2025-08-28 01:08
 
 ---
 
