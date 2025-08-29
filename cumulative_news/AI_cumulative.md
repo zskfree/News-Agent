@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-29 08:26
+**最后更新时间**: 2025-08-29 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-29 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [谢赛宁回忆七年前OpenAI面试：白板编程、五小时会议，面完天都黑了](https://www.jiqizhixin.com/articles/2025-08-29-9)
+**发布时间**: 2025-08-29 17:09
+
+#### [具身智能下一站在哪？来外滩大会这场论坛带你拨云见日！](https://www.jiqizhixin.com/articles/2025-08-29-8)
+**发布时间**: 2025-08-29 17:06
+
+#### [无需微调就超越临床医生？埃默里大学系统评估GPT-5医疗决策支持能力：潜力巨大](https://www.jiqizhixin.com/articles/2025-08-29-7)
+**发布时间**: 2025-08-29 16:37
+
+#### [劈弯不晕车、爆胎能稳行 秦L EV云辇型是来给同级车上强度的吗？](https://www.jiqizhixin.com/articles/2025-08-29-10)
+**发布时间**: 2025-08-29 11:07
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: humans in space, and India’s thorium ambitions](https://www.technologyreview.com/2025/08/29/1122843/the-download-humans-in-space-and-indias-thorium-ambitions/)
+**发布时间**: 2025-08-29 12:10
+
+#### [This American nuclear company could help India’s thorium dream](https://www.technologyreview.com/2025/08/29/1122839/this-american-nuclear-company-could-help-indias-thorium-dream/)
+**发布时间**: 2025-08-29 09:56
+
+#### [RFK Jr’s plan to improve America’s diet is missing the point](https://www.technologyreview.com/2025/08/29/1122733/rfk-jrs-plan-to-improve-americas-diet-is-missing-the-point/)
+**发布时间**: 2025-08-29 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [港股AGI第一股“云知声”首战告捷：大模型贡献1亿收入，单客价直线提升116.2%，AI保险业务暴涨1386.8%](https://www.qbitai.com/2025/08/327464.html)
+**发布时间**: 2025-08-29 11:55
+
+#### [10年前押中英伟达：这位复旦学霸如何用AI Agent重新定义投资](https://www.qbitai.com/2025/08/327444.html)
+**发布时间**: 2025-08-29 09:03
+
+#### [老黄又投了一个核电站](https://www.qbitai.com/2025/08/327436.html)
+**发布时间**: 2025-08-29 07:35
 
 ---
 

@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-29 05:19
+**最后更新时间**: 2025-08-29 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-29 23:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump’s global tariffs rejected by appeals court. Here's why, and what's next.](https://www.marketwatch.com/bulletins/redirect/go?g=3d39f36c-c405-4e4d-b5bc-bb3b8a701ceb&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 22:58
+
+#### [To fuel AI’s insatiable appetite, Nvidia and Big Tech double down on nuclear](https://www.marketwatch.com/bulletins/redirect/go?g=3ef67c03-6ef7-4c6d-823f-9414ce430825&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 21:43
+
+#### [Spirit Airlines files for bankruptcy again, says Labor Day flights not impacted](https://www.marketwatch.com/bulletins/redirect/go?g=008a6d22-f675-49f8-be1c-1b25e942a9ac&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 21:07
+
+#### [Travelers may pay the cheapest Labor Day gas prices in 5 years. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=d15226dd-8f69-4592-a887-5d7da4ec3f1d&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 20:48
+
+#### [U.S. stocks close lower ahead of Labor Day weekend but still book August gains](https://www.marketwatch.com/bulletins/redirect/go?g=00e22344-53ee-405e-9eb9-cb1b85af8fb8&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 20:04
+
+#### [Caterpillar warns of tariff-linked price increases. Watch for others to follow.](https://www.marketwatch.com/bulletins/redirect/go?g=1e32163c-81ac-481a-9e46-ed43f7388224&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 19:14
+
+#### [No ruling Friday on Trump’s attempt to fire Fed official](https://www.marketwatch.com/bulletins/redirect/go?g=c20eaefe-f5b0-445f-a5f2-a83fc6cee21c&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 17:53
+
+#### [Tech-stock skid sends Nasdaq sharply lower — live stock-market updates](https://www.marketwatch.com/bulletins/redirect/go?g=fb100641-131d-42fb-8294-98284e416d57&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 17:45
+
+#### [The Powerball jackpot just hit $1 billion. This lottery addict offers a warning.](https://www.marketwatch.com/bulletins/redirect/go?g=6a93c80d-faa3-4836-87e2-61ee56532b91&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 15:49
+
+#### [Americans spent a lot more last month on cars — but not much else](https://www.marketwatch.com/bulletins/redirect/go?g=1e4e4ae4-54f6-4bfb-83eb-9d7a938964f2&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 13:06
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Trump’s global tariffs were rejected in court — and what comes next](https://www.marketwatch.com/story/why-trumps-global-tariffs-were-rejected-in-court-and-what-comes-next-237207e9?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 22:54
+
+#### [‘I’m asking for a friend’: Will the IRS write off $60,000 lost in a romance phishing scam?](https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 21:32
+
+#### [My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?](https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 21:23
+
+#### [Spirit Airlines files for bankruptcy again, has this to say about its Labor Day flights](https://www.marketwatch.com/story/spirit-airlines-files-for-bankruptcy-but-has-this-to-say-about-its-labor-day-flights-e5d5e168?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 21:04
+
+#### [Why I don’t want to add private equity to my 401(k)](https://www.marketwatch.com/story/why-you-should-think-twice-before-buying-private-equity-in-your-401-k-bcd06060?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 20:57
+
+#### [Travelers may pay the cheapest Labor Day gas prices in 5 years. Here’s the reason why.](https://www.marketwatch.com/story/travelers-may-pay-the-cheapest-labor-day-gas-prices-in-5-years-heres-the-reason-why-951738b5?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 20:41
+
+#### [If Taylor Swift gets a prenup, she joins a ‘generational shift’ of millennial women demanding one before marriage](https://www.marketwatch.com/story/if-taylor-swift-asks-travis-kelce-for-a-prenup-shell-have-plenty-of-company-among-millennial-women-8f348ea5?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 20:39
 
 ---
 

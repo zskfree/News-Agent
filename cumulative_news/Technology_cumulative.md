@@ -1,7 +1,163 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-29 08:27
+**最后更新时间**: 2025-08-29 23:18
+
+---
+
+## 🆕 最新更新 (2025-08-29 23:18)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes](https://www.wired.com/story/charles-borges-resignation-email-disappearance/)
+**发布时间**: 2025-08-29 22:49
+
+#### [41 Best Labor Day Sales on WIRED-Tested Gear (2025)](https://www.wired.com/story/best-labor-day-sales-deals-2025-1/)
+**发布时间**: 2025-08-29 17:06
+
+#### [FEMA’s Chaotic Summer Has Gone From Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
+**发布时间**: 2025-08-29 14:23
+
+#### [The White House Apparently Ordered Federal Workers to Roll Out Grok ‘ASAP’](https://www.wired.com/story/white-house-elon-musk-xai-grok/)
+**发布时间**: 2025-08-29 13:22
+
+#### [Insta360 Go Ultra Review: Better Video, but Bigger Package](https://www.wired.com/review/insta360-go-ultra/)
+**发布时间**: 2025-08-29 13:00
+
+#### [12 Best Laptops for College Students (2025), Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
+**发布时间**: 2025-08-29 12:30
+
+#### [Eero Pro 7 Review: Smooth Sailing](https://www.wired.com/review/eero-pro-7/)
+**发布时间**: 2025-08-29 12:00
+
+#### [The 11 Best Greens Powders, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-greens-powders/)
+**发布时间**: 2025-08-29 11:31
+
+#### [The Wild, Citywide Scavenger Hunt That Ate San Francisco](https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco/)
+**发布时间**: 2025-08-29 11:00
+
+#### [How Much Melatonin Should You Be Taking? (2025)](https://www.wired.com/story/how-much-melatonin-should-i-take/)
+**发布时间**: 2025-08-29 10:33
+
+#### [The Internet Revolutionized Porn. Age Verification Could Upend Everything](https://www.wired.com/story/the-internet-revolutionized-porn-age-verification-could-upend-everything/)
+**发布时间**: 2025-08-29 10:30
+
+#### [DJI Mic 3 Review: The Best Wireless Mic Gets Better](https://www.wired.com/review/dji-mic-3/)
+**发布时间**: 2025-08-29 10:00
+
+#### [DOGE Operatives Are Joining Donald Trump’s New National Design Studio](https://www.wired.com/story/doge-operatives-joining-national-design-studio/)
+**发布时间**: 2025-08-29 09:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [安踏集团上半年收入超385亿元，同增14.3%；小红书电商“市集”成为一级入口；蜜雪集团全球门店数超5.3 万家｜消研所周报](https://www.tmtpost.com/7676780.html)
+**发布时间**: 2025-08-29 22:32
+
+#### [靠投资泰凌微扮靓业绩，华胜天成股价走妖难掩盈利困局 | 看财报](https://www.tmtpost.com/7677328.html)
+**发布时间**: 2025-08-29 19:31
+
+#### [美团不相信眼泪](https://www.tmtpost.com/7675788.html)
+**发布时间**: 2025-08-29 19:11
+
+#### [宇宙第一股英伟达，业绩又爆表了？](https://www.tmtpost.com/7677163.html)
+**发布时间**: 2025-08-29 19:11
+
+#### [一亩田的疯狂14年：高光、泡沫与纳斯达克之门](https://www.tmtpost.com/7677206.html)
+**发布时间**: 2025-08-29 18:59
+
+#### [国内芯片厂商，业绩大洗牌](https://www.tmtpost.com/7677218.html)
+**发布时间**: 2025-08-29 18:59
+
+#### [跃升千亿交易规模，滴滴在拉美瞄准外卖](https://www.tmtpost.com/7677205.html)
+**发布时间**: 2025-08-29 18:51
+
+#### [全新P7上市热销，但销量已经不是小鹏的最大问题](https://www.tmtpost.com/7677249.html)
+**发布时间**: 2025-08-29 18:51
+
+#### [寒武纪让皮衣老黄慌了](https://www.tmtpost.com/7677254.html)
+**发布时间**: 2025-08-29 18:51
+
+#### [网约车降佣金，无人受益？](https://www.tmtpost.com/7677289.html)
+**发布时间**: 2025-08-29 18:51
+
+#### [用AI做动画，他们如何把24个月压缩到45天？｜“抓住下一个Z一鸣”速访](https://www.tmtpost.com/7676813.html)
+**发布时间**: 2025-08-29 17:36
+
+#### [Streaming Market in Southeast Asia Heats Up as Netflix Faces Aggressive Chinese Rivals](https://www.tmtpost.com/7677168.html)
+**发布时间**: 2025-08-29 17:25
+
+#### [群兴玩具：算力跨界首获突破反亏更多，AI重组引牛散扎堆入驻｜看财报](https://www.tmtpost.com/7677059.html)
+**发布时间**: 2025-08-29 17:18
+
+#### [深圳硬科技双雄，互攻腹地](https://www.tmtpost.com/7677092.html)
+**发布时间**: 2025-08-29 17:11
+
+#### [老牌酒店，怎么“年轻化”？](https://www.tmtpost.com/7677108.html)
+**发布时间**: 2025-08-29 17:11
+
+#### [盘点现在谁还在买燃油车？](https://www.tmtpost.com/7677053.html)
+**发布时间**: 2025-08-29 17:09
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [轮到理想打逆风局了](http://www.huxiu.com/article/4751132.html?f=wangzhan)
+**发布时间**: 2025-08-29 21:34
+
+#### [中国拆迁史奇迹：上海核心老小区，0钉子户0人反对，谁出的钱？](http://www.huxiu.com/article/4738244.html?f=wangzhan)
+**发布时间**: 2025-08-29 18:00
+
+#### [九三阅兵，看看谁来谁不来，说明了什么？](http://www.huxiu.com/article/4747399.html?f=wangzhan)
+**发布时间**: 2025-08-29 15:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Showrunner wants to turn you into a happy little content prompter for the &#8216;Netflix of AI&#8217;](https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview)
+**发布时间**: 2025-08-29 20:07
+
+#### [TikTok is now letting everyone DM each other with voice memos and pictures](https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures)
+**发布时间**: 2025-08-29 19:53
+
+#### [Microsoft’s next annual update for Windows 11 is in Release Preview testing](https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test)
+**发布时间**: 2025-08-29 19:21
+
+#### [Leak suggests new Philips Hue lights will have direct Matter support](https://www.theverge.com/news/768232/leak-philips-hue-lights-matter-over-thread)
+**发布时间**: 2025-08-29 19:08
+
+#### [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+**发布时间**: 2025-08-29 18:22
+
+#### [Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes](https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes)
+**发布时间**: 2025-08-29 16:09
+
+#### [Tesla asks court to toss wrongful death verdict that cost it $243 million](https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss)
+**发布时间**: 2025-08-29 15:32
+
+#### [The future of AI hardware isn&#8217;t one device — it&#8217;s an entire ecosystem](https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing)
+**发布时间**: 2025-08-29 15:30
+
+#### [Hisense&#8217;s take on the Samsung Frame TV is $300 off](https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale)
+**发布时间**: 2025-08-29 15:15
+
+#### [KPop Demon Hunters was this year’s biggest surprise, but can Netflix do it again?](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)
+**发布时间**: 2025-08-29 14:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [比Claude效果更好、且便宜近 100 倍？xAI祭出“白菜价”AI编码模型掀桌子！网友：便宜没好货](https://www.infoq.cn/article/GOSkL8WtKcvBTQFfeMxc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 20:00
+
+#### [我们正在找一批人，让Agent真正“活”起来](https://www.infoq.cn/article/dN0HtiyhZC9Ce5NKr2BG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 18:58
+
+#### [TRAE MCP 实践：基于 Figma 设计稿的 iOS 原生 UI 自动生成](https://www.infoq.cn/article/SfvGPhvXhD5TeSuB1H3v?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 18:26
+
+#### [代码里插广告，腾讯 Codebuddy 们 “背锅”？DeepSeek “极你太美”事件，其他模型也逃不掉？](https://www.infoq.cn/article/WNivPaiW5QMBmDkzWZ04?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 17:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102187)
+**发布时间**: 2025-08-29 17:58
 
 ---
 
