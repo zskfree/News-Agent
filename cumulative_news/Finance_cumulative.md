@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-28 23:20
+**最后更新时间**: 2025-08-29 05:19
+
+---
+
+## 🆕 最新更新 (2025-08-29 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Lisa Cook’s Trump lawsuit opens new chapter in showdown over Fed independence](https://www.marketwatch.com/story/lisa-cooks-trump-lawsuit-opens-new-chapter-in-showdown-over-fed-independence-86dcae53?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 02:43
+
+#### [Trump’s push for lower interest rates is on a collision course with government bonds](https://www.marketwatch.com/story/trumps-push-for-lower-interest-rates-is-on-a-collision-course-with-government-bonds-5be52f3a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 02:37
+
+#### [This under-the-radar storage stock is cashing in on Meta’s AI spending](https://www.marketwatch.com/story/this-under-the-radar-storage-stock-is-cashing-in-on-metas-ai-spending-34f8ac2a?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 00:38
+
+#### [Dell’s AI business is booming. So why is the stock falling?](https://www.marketwatch.com/story/dells-ai-business-is-booming-so-why-is-the-stock-falling-ea8059cb?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 00:33
+
+#### [Gap insists it’s ‘getting its vibe back.’ But Wall Street’s tariff worries got in the way.](https://www.marketwatch.com/story/gap-tried-to-temper-expectations-for-its-quarterly-results-wall-street-was-still-disappointed-4ea688f6?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 00:31
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Time’s running out to use the EV tax credit. How to shop for one right now](https://www.marketwatch.com/bulletins/redirect/go?g=d00612b1-fbe9-4f61-94c4-de3c906d6b73&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-29 01:07
 
 ---
 

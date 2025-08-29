@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-28 23:20
+**最后更新时间**: 2025-08-29 05:19
+
+---
+
+## 🆕 最新更新 (2025-08-29 05:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Remix重新定义：V3将用Preact的一个分支替代React](https://www.infoq.cn/article/tqixot5t0cZLSqBSGDHK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 13:00
+
+#### [基于 Elasticsearch 创建企业 AI 搜索应用实践](https://www.infoq.cn/article/Ne6N4VhCw0avPKHT8ym9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 12:14
+
+#### [云知声发布2025年中期业绩：大模型收入飙涨457%](https://www.infoq.cn/article/uO0Op5m8B4vZX1flNtkG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 11:12
+
+#### [千问团队开源图像基础模型Qwen-Image](https://www.infoq.cn/article/U7YjhTw43haNAauACm9C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 11:00
+
+#### [Zemlin在欧洲开源峰会：即使在AI时代，软件的未来依旧是开源](https://www.infoq.cn/article/a567NKA7aJTN6LRFKJY1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 10:43
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [75岁的光伏还不想做“老登”：阳光新能源“科技追光之旅”，追寻光伏来时路](https://www.tmtpost.com/7676464.html)
+**发布时间**: 2025-08-29 12:13
+
+#### [有了青少年和女性关注，高尔夫服饰的春天即将到来？](https://www.tmtpost.com/7675259.html)
+**发布时间**: 2025-08-29 12:07
+
+#### [佛山首富，又要去IPO了](https://www.tmtpost.com/7676482.html)
+**发布时间**: 2025-08-29 12:03
+
+#### [零工市场，拯救被嫌弃的“暑假工”？](https://www.tmtpost.com/7676326.html)
+**发布时间**: 2025-08-29 12:02
+
+#### [稳定币的火终于烧到了医疗圈](https://www.tmtpost.com/7676519.html)
+**发布时间**: 2025-08-29 12:02
+
+#### [飞鹤2025半年报：全渠道销量及市场份额稳居第一，营收91.5亿筑牢基本盘](https://www.tmtpost.com/7675762.html)
+**发布时间**: 2025-08-29 12:02
+
+#### [大主播单飞带货“千万首秀”，东方甄选业绩“重挫”股价](https://www.tmtpost.com/7676452.html)
+**发布时间**: 2025-08-29 11:56
+
+#### [AI智能医疗：数据为钥，AI开道，全球竞跑](https://www.tmtpost.com/7676493.html)
+**发布时间**: 2025-08-29 11:56
+
+#### [Japan's Chief Tariff Negotiator Cancels U.S. Trip Over Trade Deal Issues](https://www.tmtpost.com/7676520.html)
+**发布时间**: 2025-08-29 11:52
+
+#### [昆仑芯超节点上线百度公有云，沈抖：AI云正从成本中心转向利润中心](https://www.tmtpost.com/7676290.html)
+**发布时间**: 2025-08-29 11:41
+
+#### [Huawei Launches Ultra-Large SSDs to Meet Soaring AI Data Demands](https://www.tmtpost.com/7676478.html)
+**发布时间**: 2025-08-29 11:22
+
+#### [专利药贡献31亿，现金流大涨215%，以岭药业中报“双优” | 看财报](https://www.tmtpost.com/7675121.html)
+**发布时间**: 2025-08-29 11:21
+
+#### [李想拯救理想](https://www.tmtpost.com/7675990.html)
+**发布时间**: 2025-08-29 11:08
+
+#### [卫龙启示录：一根辣条的中国式进化](https://www.tmtpost.com/7676300.html)
+**发布时间**: 2025-08-29 11:03
+
+#### [非洲卫生巾之王，来自中国广州？](https://www.tmtpost.com/7676346.html)
+**发布时间**: 2025-08-29 10:59
+
+#### [6000亿寒武纪，可以开香槟了吗？](https://www.tmtpost.com/7676298.html)
+**发布时间**: 2025-08-29 10:56
+
+#### [国漫剧场版，离《鬼灭之刃》还有多远？](https://www.tmtpost.com/7676349.html)
+**发布时间**: 2025-08-29 10:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [门票 145 块还要爬 900 级台阶，赛里木湖值不值？](https://sspai.com/post/102157)
+**发布时间**: 2025-08-29 11:08
+
+#### [派早报：小米发布澎湃 OS3 系统、Chipolo 发布两款可充电跟踪器等](https://sspai.com/post/102174)
+**发布时间**: 2025-08-29 08:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [迷你版 Labubu 开售秒光，二手翻倍；华为新问界 M7 内饰曝光；马斯克「星链」用户超 700 万](http://www.geekpark.net/news/353206)
+**发布时间**: 2025-08-29 08:31
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
+**发布时间**: 2025-08-29 05:10
+
+#### [HP Coupon Codes and Deals: Up to 60% Off | September 2025](https://www.wired.com/story/hp-coupon-code/)
+**发布时间**: 2025-08-29 05:10
+
+#### [40% Home Depot Promo Codes & Coupons | September 2025](https://www.wired.com/story/home-depot-promo-code/)
+**发布时间**: 2025-08-29 05:00
+
+#### [Newegg Promo Code: 10% Off in September 2025](https://www.wired.com/story/newegg-promo-code/)
+**发布时间**: 2025-08-29 05:00
+
+#### [How to See the Total Lunar Eclipse and Blood Moon on September 7](https://www.wired.com/story/how-to-see-the-total-lunar-eclipse-and-blood-moon-on-september-7/)
+**发布时间**: 2025-08-29 04:00
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
+**发布时间**: 2025-08-29 00:11
 
 ---
 

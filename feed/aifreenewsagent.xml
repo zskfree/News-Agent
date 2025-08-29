@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 23:21:45 GMT</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 05:20:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚更新，全球AI百强：中国五款产品进前20，ChatGPT背腹受敌，氛围编程成黑马</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-12</link>
-      <description>&lt;![CDATA[刚刚更新，全球AI百强：中国五款产品进前20，ChatGPT背腹受敌，氛围编程成黑马]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-12</guid>
+      <title>IJCAI 2025 | 化学不是单向路：ChemDual大模型用拆分与重组，优化化学反应与分子逆合成预测</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-29-3</link>
+      <description>&lt;![CDATA[IJCAI 2025 | 化学不是单向路：ChemDual大模型用拆分与重组，优化化学反应与分子逆合成预测]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ChatGPT后遗症来了！人类日常聊天越来越AI化</title>
-      <link>https://www.qbitai.com/2025/08/326528.html</link>
-      <description>&lt;![CDATA[ChatGPT后遗症来了！人类日常聊天越来越AI化]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/326528.html</guid>
+      <title>Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study</title>
+      <link>https://arxiv.org/abs/2508.20244</link>
+      <description>&lt;![CDATA[Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20244</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>杜克大学、Zoom推出LiveMCP‑101：GPT‑5表现最佳但未破60%，闭源模型Token效率对数规律引关注</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-16</link>
-      <description>&lt;![CDATA[杜克大学、Zoom推出LiveMCP‑101：GPT‑5表现最佳但未破60%，闭源模型Token效率对数规律引关注]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-16</guid>
+      <title>Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM</title>
+      <link>https://arxiv.org/abs/2508.20384</link>
+      <description>&lt;![CDATA[Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20384</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>来和数字员工「AI吴彦祖」聊聊天，百度智能云重磅升级百舸5.0、千帆4.0</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-15</link>
-      <description>&lt;![CDATA[来和数字员工「AI吴彦祖」聊聊天，百度智能云重磅升级百舸5.0、千帆4.0]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 18:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-15</guid>
+      <title>Artificial Intelligence for CRISPR Guide RNA Design: Explainable Models and Off-Target Safety</title>
+      <link>https://arxiv.org/abs/2508.20130</link>
+      <description>&lt;![CDATA[Artificial Intelligence for CRISPR Guide RNA Design: Explainable Models and Off-Target Safety]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20130</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>元石科技正式发布问小白5，性能直追GPT-5</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-13</link>
-      <description>&lt;![CDATA[元石科技正式发布问小白5，性能直追GPT-5]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-13</guid>
+      <title>打工人出差又烦又累？阿里商旅推出了一个AI“行政助理”</title>
+      <link>https://www.qbitai.com/2025/08/327324.html</link>
+      <description>&lt;![CDATA[打工人出差又烦又累？阿里商旅推出了一个AI“行政助理”]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 03:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327324.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>奇点灵智获数千万元天使轮融资，打造儿童AI英语伴学新起点</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-28-11</link>
-      <description>&lt;![CDATA[奇点灵智获数千万元天使轮融资，打造儿童AI英语伴学新起点]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-28-11</guid>
+      <title>马斯克入局AI编程！新模型限时免费用：256K上下文，主打一个速度快</title>
+      <link>https://www.qbitai.com/2025/08/327157.html</link>
+      <description>&lt;![CDATA[马斯克入局AI编程！新模型限时免费用：256K上下文，主打一个速度快]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 01:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327157.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一帮人All in AI，让搞体育的先赚到钱了</title>
-      <link>https://www.qbitai.com/2025/08/327097.html</link>
-      <description>&lt;![CDATA[一帮人All in AI，让搞体育的先赚到钱了]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327097.html</guid>
+      <title>ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation</title>
+      <link>https://arxiv.org/abs/2508.20131</link>
+      <description>&lt;![CDATA[ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20131</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>PPIO姚欣出席首届AI国际人才峰会：打造智能体基石，赋能全球AI创业者</title>
-      <link>https://www.qbitai.com/2025/08/327013.html</link>
-      <description>&lt;![CDATA[PPIO姚欣出席首届AI国际人才峰会：打造智能体基石，赋能全球AI创业者]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327013.html</guid>
+      <title>QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming</title>
+      <link>https://arxiv.org/abs/2508.20134</link>
+      <description>&lt;![CDATA[QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20134</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: Google’s AI energy use, and the AI Hype Index</title>
-      <link>https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/</link>
-      <description>&lt;![CDATA[The Download: Google’s AI energy use, and the AI Hype Index]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/</guid>
+      <title>AI-AI Esthetic Collaboration with Explicit Semiotic Awareness and Emergent Grammar Development</title>
+      <link>https://arxiv.org/abs/2508.20195</link>
+      <description>&lt;![CDATA[AI-AI Esthetic Collaboration with Explicit Semiotic Awareness and Emergent Grammar Development]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20195</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>From pilot to scale: Making agentic AI work in health care</title>
-      <link>https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/</link>
-      <description>&lt;![CDATA[From pilot to scale: Making agentic AI work in health care]]&gt;</description>
-      <pubDate>Thu, 28 Aug 2025 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/</guid>
+      <title>AI reasoning effort mirrors human decision time on content moderation tasks</title>
+      <link>https://arxiv.org/abs/2508.20262</link>
+      <description>&lt;![CDATA[AI reasoning effort mirrors human decision time on content moderation tasks]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20262</guid>
       <category>AI</category>
     </item>
   </channel>
