@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-29 05:19
+**最后更新时间**: 2025-08-29 08:27
+
+---
+
+## 🆕 最新更新 (2025-08-29 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智飞生物首亏，一个时代的落幕](https://www.tmtpost.com/7676492.html)
+**发布时间**: 2025-08-29 15:41
+
+#### [每年2000万“新老人”入场，银发经济风口来了？](https://www.tmtpost.com/7676723.html)
+**发布时间**: 2025-08-29 15:41
+
+#### [外资在华“卖身”真相](https://www.tmtpost.com/7676814.html)
+**发布时间**: 2025-08-29 15:41
+
+#### [8月29日A股分析：创业板指大涨2.23%领跑，市场成交额约2.8万亿元，主力资金净流出794亿，锂矿与固态电池逆势吸金](https://www.tmtpost.com/7676802.html)
+**发布时间**: 2025-08-29 15:38
+
+#### [英伟达推出“Thor”，谁赚了？](https://www.tmtpost.com/7676739.html)
+**发布时间**: 2025-08-29 15:37
+
+#### [员工爆料：King暴力裁员200人，背后资本推动AI取代员工](https://www.tmtpost.com/7676782.html)
+**发布时间**: 2025-08-29 15:37
+
+#### [Tesla Rival Li Auto Stock Gains as AI Push Outweighs Q2 Earnings and Guidance Miss](https://www.tmtpost.com/7676857.html)
+**发布时间**: 2025-08-29 15:28
+
+#### [U.S. Ends Low-Value Package Tariff Exemption, Raising Costs for Shippers and Consumers](https://www.tmtpost.com/7676844.html)
+**发布时间**: 2025-08-29 15:25
+
+#### [第三届中国上市公司产业发展论坛9月21日上海开幕，聚焦未来产业与国有资本](https://www.tmtpost.com/7676787.html)
+**发布时间**: 2025-08-29 15:24
+
+#### [“数智化+流水化”双涡轮下，迈瑞医疗新一轮增长引擎全速点火](https://www.tmtpost.com/7676673.html)
+**发布时间**: 2025-08-29 14:04
+
+#### [过气K-Pop爱豆，扎堆中国当网红](https://www.tmtpost.com/7676646.html)
+**发布时间**: 2025-08-29 13:57
+
+#### [EU Proposes to Remove Some U.S. Tariffs to Push for Auto Duty Cuts](https://www.tmtpost.com/7676675.html)
+**发布时间**: 2025-08-29 13:45
+
+#### [SenseTime Reports Strong H1 2025 Results, Generative AI Drives Growth Amid Strategic Restructuring](https://www.tmtpost.com/7676643.html)
+**发布时间**: 2025-08-29 13:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CentOS停服安全告急！腾讯云TencentOS 原地替换，重启即生效](https://www.infoq.cn/video/uXb8TkdZK23aTp2IsSS4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 15:12
+
+#### [AWS Lambda 响应流能力提升，默认最大 Payload 限制增至 200 MB](https://www.infoq.cn/article/9II5V5JJ4R0JdJNoeHzf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 15:00
+
+#### [企业落地 NL2SQL，需要的是「AI-ready Data」和「小模型」](https://www.infoq.cn/article/iM38UwbOGpAQKMRa6jKe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 14:56
+
+#### [AI编程智能体开放格式AGENTS.md正在兴起](https://www.infoq.cn/article/FwKI8tObvIDwdkBxJoxf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-29 14:00
+
+#### [圆桌研讨：《共话数据库发展新路径：人才、产业与技术研讨》| 腾讯云数据库 DBTalk](https://www.infoq.cn/video/CHr5gQKBLRkgp3NdxBVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-28 17:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [有研究等于有效？了解护眼保健品背后的秘密](https://sspai.com/post/102176)
+**发布时间**: 2025-08-29 15:02
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+**发布时间**: 2025-08-29 05:30
 
 ---
 

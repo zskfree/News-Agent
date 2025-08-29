@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 29 Aug 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 29 Aug 2025 05:20:59 GMT</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 08:27:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>IJCAI 2025 | 化学不是单向路：ChemDual大模型用拆分与重组，优化化学反应与分子逆合成预测</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-29-3</link>
-      <description>&lt;![CDATA[IJCAI 2025 | 化学不是单向路：ChemDual大模型用拆分与重组，优化化学反应与分子逆合成预测]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-3</guid>
+      <title>时代2025 AI百人榜出炉：任正非、梁文锋、王兴兴、彭军、薛澜等入选，华人影响力爆棚</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-29-6</link>
+      <description>&lt;![CDATA[时代2025 AI百人榜出炉：任正非、梁文锋、王兴兴、彭军、薛澜等入选，华人影响力爆棚]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study</title>
-      <link>https://arxiv.org/abs/2508.20244</link>
-      <description>&lt;![CDATA[Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20244</guid>
+      <title>谷歌Nano Banana全网刷屏，起底背后团队</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-29-5</link>
+      <description>&lt;![CDATA[谷歌Nano Banana全网刷屏，起底背后团队]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM</title>
-      <link>https://arxiv.org/abs/2508.20384</link>
-      <description>&lt;![CDATA[Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20384</guid>
+      <title>AI Agent组团搞事：在你常刷的App里，舆论操纵、电商欺诈正悄然上演</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-29-4</link>
+      <description>&lt;![CDATA[AI Agent组团搞事：在你常刷的App里，舆论操纵、电商欺诈正悄然上演]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Artificial Intelligence for CRISPR Guide RNA Design: Explainable Models and Off-Target Safety</title>
-      <link>https://arxiv.org/abs/2508.20130</link>
-      <description>&lt;![CDATA[Artificial Intelligence for CRISPR Guide RNA Design: Explainable Models and Off-Target Safety]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20130</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>打工人出差又烦又累？阿里商旅推出了一个AI“行政助理”</title>
-      <link>https://www.qbitai.com/2025/08/327324.html</link>
-      <description>&lt;![CDATA[打工人出差又烦又累？阿里商旅推出了一个AI“行政助理”]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 03:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327324.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>马斯克入局AI编程！新模型限时免费用：256K上下文，主打一个速度快</title>
-      <link>https://www.qbitai.com/2025/08/327157.html</link>
-      <description>&lt;![CDATA[马斯克入局AI编程！新模型限时免费用：256K上下文，主打一个速度快]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 01:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327157.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation</title>
-      <link>https://arxiv.org/abs/2508.20131</link>
-      <description>&lt;![CDATA[ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20131</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming</title>
-      <link>https://arxiv.org/abs/2508.20134</link>
-      <description>&lt;![CDATA[QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20134</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI-AI Esthetic Collaboration with Explicit Semiotic Awareness and Emergent Grammar Development</title>
-      <link>https://arxiv.org/abs/2508.20195</link>
-      <description>&lt;![CDATA[AI-AI Esthetic Collaboration with Explicit Semiotic Awareness and Emergent Grammar Development]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20195</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI reasoning effort mirrors human decision time on content moderation tasks</title>
-      <link>https://arxiv.org/abs/2508.20262</link>
-      <description>&lt;![CDATA[AI reasoning effort mirrors human decision time on content moderation tasks]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20262</guid>
+      <title>蚂蚁专用模型超越o3！仅用2K训练样本刷新医疗AI榜单纪录</title>
+      <link>https://www.qbitai.com/2025/08/327423.html</link>
+      <description>&lt;![CDATA[蚂蚁专用模型超越o3！仅用2K训练样本刷新医疗AI榜单纪录]]&gt;</description>
+      <pubDate>Fri, 29 Aug 2025 05:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327423.html</guid>
       <category>AI</category>
     </item>
   </channel>

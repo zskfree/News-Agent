@@ -1,306 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "bd69a00e405b3de9798917020abbaa940a606f9026244f343b7e80c9a106ffa3": {
-        "title": "刚刚，OpenAI推出学习模式，AI教师真来了，系统提示词已泄露",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-30-3",
-        "published_date": "Wed, 30 Jul 2025 10:28:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301710"
-      },
-      "2f861db7c94068104b5d5f209b8dbdede47a2e46730b918cdf60721d8adb9c46": {
-        "title": "凌晨，Qwen又更新了，3090就能跑，3B激活媲美GPT-4o",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-30-2",
-        "published_date": "Wed, 30 Jul 2025 10:20:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301734"
-      },
-      "03d03daf08878fbc026da364f9c1f59f737ab3d79600045fd21d01ae9d0cfc86": {
-        "title": "AI安全上，开源仍胜闭源，Meta、UCB防御LLM提示词注入攻击",
-        "link": "https://www.jiqizhixin.com/articles/2025-07-30",
-        "published_date": "Wed, 30 Jul 2025 10:14:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301749"
-      },
-      "d87594d6e7f14bfbbea07dca75ebaeeec0c5958debbb2b010ee6a3a7d9e7a482": {
-        "title": "ChatGPT大更新推出学习模式！“一夜之间1000个套壳应用又死了”",
-        "link": "https://www.qbitai.com/2025/07/315318.html",
-        "published_date": "Wed, 30 Jul 2025 00:56:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.200137"
-      },
-      "3c65b80544ad0184bd46643235d8b31cc96cf4ed1dba045ba0fb64f7c39e86fd": {
-        "title": "New algorithms enable efficient machine learning with symmetric data",
-        "link": "https://news.mit.edu/2025/new-algorithms-enable-efficient-machine-learning-with-symmetric-data-0730",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.200624"
-      },
-      "dcd7bdba007f6e3cdf194a71312771ef27cc38b615baa64fb272f5f9de4a8d2e": {
-        "title": "SynLang and Symbiotic Epistemology: A Manifesto for Conscious Human-AI Collaboration",
-        "link": "https://arxiv.org/abs/2507.21067",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.201368"
-      },
-      "f6b670d24cce2245c89c2e42aec89882ec5ea5a4bdc80e2a2f88cdd05e7f8acb": {
-        "title": "Artificial intelligence for sustainable wine industry: AI-driven management in viticulture, wine production and enotourism",
-        "link": "https://arxiv.org/abs/2507.21098",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.202710"
-      },
-      "55e3fa1bf238eaf50852b8c75ec97e29516349292557297ee667f0844e345e16": {
-        "title": "Leveraging Generative AI to Enhance Synthea Module Development",
-        "link": "https://arxiv.org/abs/2507.21123",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.203679"
-      },
-      "50589b8b7ac8779b750270a1614cf2bad265d37b0ddc32866972655e37244ed3": {
-        "title": "Measuring and Analyzing Intelligence via Contextual Uncertainty in Large Language Models using Information-Theoretic Metrics",
-        "link": "https://arxiv.org/abs/2507.21129",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301763"
-      },
-      "d629a4d7e3398639e9c5fb370d7e0f4edc509d5f810dc72165024512342aa65d": {
-        "title": "INTEGRALBENCH: Benchmarking LLMs with Definite Integral Problems",
-        "link": "https://arxiv.org/abs/2507.21130",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.207356"
-      },
-      "f6f2bc6f9171e548a9312d927e7b6fdbd01eb134ae9e08a64541e6128d9fd93c": {
-        "title": "NPO: Learning Alignment and Meta-Alignment through Structured Human Feedback",
-        "link": "https://arxiv.org/abs/2507.21131",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301784"
-      },
-      "89b4635ebb8dc9ee2c5ec0c18f556fbdcf2cf452006d455311e383fb224298fa": {
-        "title": "Can You Trust an LLM with Your Life-Changing Decision? An Investigation into AI High-Stakes Responses",
-        "link": "https://arxiv.org/abs/2507.21132",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.211754"
-      },
-      "343a67de04e42144ba644195479d78d6cdb8ffebdb15b1a5605cb68e73959b0a": {
-        "title": "Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?",
-        "link": "https://arxiv.org/abs/2507.21137",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.215025"
-      },
-      "ad866701d67fc455afb3ffa998633e1c206bddada91715f7c04f2cb7d42b2174": {
-        "title": "The Geometry of Harmfulness in LLMs through Subconcept Probing",
-        "link": "https://arxiv.org/abs/2507.21141",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.217151"
-      },
-      "17f9f2e6f2b54e9f8eba5e43b2828d7997a62c7b36e2c87a2504ab05a4169636": {
-        "title": "Adaptive XAI in High Stakes Environments: Modeling Swift Trust with Multimodal Feedback in Human AI Teams",
-        "link": "https://arxiv.org/abs/2507.21158",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.220796"
-      },
-      "fa6b8e7e34ccd73cbe1deb2781f06e197db660bd88ddd72cbfacded8cea26b44": {
-        "title": "Adaptive Cluster Collaborativeness Boosts LLMs Medical Decision Support Capacity",
-        "link": "https://arxiv.org/abs/2507.21159",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.223899"
-      },
-      "503326151ac93db4aeb29f2154ae3af8b205da766681d6ae3d50941fdf573d42": {
-        "title": "Large Language Model Powered Automated Modeling and Optimization of Active Distribution Network Dispatch Problems",
-        "link": "https://arxiv.org/abs/2507.21162",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.228390"
-      },
-      "72566422fe1a3181bba45e7650c03ea4097592a2f982d20bb032a82001f93868": {
-        "title": "An ontological analysis of risk in Basic Formal Ontology",
-        "link": "https://arxiv.org/abs/2507.21171",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.231325"
-      },
-      "380db34c69c0d4fb6e84ad3ff540c642d0a3f7b1262fc9dad635b6af17d543f0": {
-        "title": "Ontological Foundations of State Sovereignty",
-        "link": "https://arxiv.org/abs/2507.21172",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.233689"
-      },
-      "12f163e3f084e4b6a2cec08b205dba927391e9d6884e1c8dbf42d1253ac35281": {
-        "title": "Tell Me You're Biased Without Telling Me You're Biased -- Toward Revealing Implicit Biases in Medical LLMs",
-        "link": "https://arxiv.org/abs/2507.21176",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.239118"
-      },
-      "30a3d5a5bda01d0a4e3ee7fcaf83f5c068314e6af0b4bf36b3d44efe72d33878": {
-        "title": "Agentic Web: Weaving the Next Web with AI Agents",
-        "link": "https://arxiv.org/abs/2507.21206",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301773"
-      },
-      "07e812fae2719295de392294330c0f6ff627e37f1cbcc0e85715cd2fec5e9285": {
-        "title": "CompoST: A Benchmark for Analyzing the Ability of LLMs To Compositionally Interpret Questions in a QALD Setting",
-        "link": "https://arxiv.org/abs/2507.21257",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.248282"
-      },
-      "f95be9fde0dde93350bf6da4e74ae1d60ecc8fa536653e5ba4d16c4c853992c0": {
-        "title": "LeMix: Unified Scheduling for LLM Training and Inference on Multi-GPU Systems",
-        "link": "https://arxiv.org/abs/2507.21276",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301815"
-      },
-      "ddb71a1fe431f38b539f417b5970411762f8aca3eb2c27d332965bd9faef3729": {
-        "title": "Curiosity by Design: An LLM-based Coding Assistant Asking Clarification Questions",
-        "link": "https://arxiv.org/abs/2507.21285",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.258031"
-      },
-      "eadaa122c35eae67c6a6a3cb9d6f6d7fd4e543a37463ac2ef57a3863bac123d5": {
-        "title": "Structured Relevance Assessment for Robust Retrieval-Augmented Language Models",
-        "link": "https://arxiv.org/abs/2507.21287",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.262813"
-      },
-      "1998d6d3af46b818091f6bf72f5253e4668e799618cf120f7d4e716d5715db51": {
-        "title": "Games Agents Play: Towards Transactional Analysis in LLM-based Multi-Agent Systems",
-        "link": "https://arxiv.org/abs/2507.21354",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.268431"
-      },
-      "5225afd9465cd6f372e40b67283ca15071c72a8c508b68773631c40899952ac1": {
-        "title": "Efficacy of AI RAG Tools for Complex Information Extraction and Data Annotation Tasks: A Case Study Using Banks Public Disclosures",
-        "link": "https://arxiv.org/abs/2507.21360",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.277226"
-      },
-      "5f959e3917c62c325a45ce026ea0908d5253c3b1935b748eb74a4c1e82cef959": {
-        "title": "Optimizing Multi-Tier Supply Chain Ordering with LNN+XGBoost: Mitigating the Bullwhip Effect",
-        "link": "https://arxiv.org/abs/2507.21383",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.284105"
-      },
-      "43b6e6429569aae70a87bf3ea21a4bfbb2b5ed0e2e846df6caa572e0813502f1": {
-        "title": "Teaching Language Models To Gather Information Proactively",
-        "link": "https://arxiv.org/abs/2507.21389",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.289073"
-      },
-      "ebb6d77dba05689604a396346cbde6402cbfae263407f39cd378cc41a3ecfd1e": {
-        "title": "Shapley Uncertainty in Natural Language Generation",
-        "link": "https://arxiv.org/abs/2507.21406",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.293388"
-      },
-      "3c7358878ee0e36470c6b9840023550da763316b6712a5aa0189699781d5a976": {
-        "title": "Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects",
-        "link": "https://arxiv.org/abs/2507.21407",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.299481"
-      },
-      "8feddea47ed345239d70e7a915cd98a0208a12f4bbb4f7cd2c287ddc5f403cc9": {
-        "title": "GovRelBench:A Benchmark for Government Domain Relevance",
-        "link": "https://arxiv.org/abs/2507.21419",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.304462"
-      },
-      "ab409fa8c9c3b6831527e65e15ca58756a713cd04375c228a409fa50868db501": {
-        "title": "Evo-DKD: Dual-Knowledge Decoding for Autonomous Ontology Evolution in Large Language Models",
-        "link": "https://arxiv.org/abs/2507.21438",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.311751"
-      },
-      "bdd7606df403d898103d6c9fb8cf927bd9815913c9b1e3d2f8fcc3ba688d77a5": {
-        "title": "Validating Pharmacogenomics Generative Artificial Intelligence Query Prompts Using Retrieval-Augmented Generation (RAG)",
-        "link": "https://arxiv.org/abs/2507.21453",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.321776"
-      },
-      "ea08b42d7623496a3684ae91822f616f4d68f452c8361ad39b58c20b6c17860b": {
-        "title": "An LLM Driven Agent Framework for Automated Infrared Spectral Multi Task Reasoning",
-        "link": "https://arxiv.org/abs/2507.21471",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.329402"
-      },
-      "03cbcde1acedcea8919875e938d0e40239fe801054e9eef177b51cd660ae10da": {
-        "title": "Learning to Imitate with Less: Efficient Individual Behavior Modeling in Chess",
-        "link": "https://arxiv.org/abs/2507.21488",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.337294"
-      },
-      "a7ba36ea679413646b0138921c4815eff40f67bcaae1910830b7aaeac6ca0a4a": {
-        "title": "Large Language Models for Supply Chain Decisions",
-        "link": "https://arxiv.org/abs/2507.21502",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.342514"
-      },
-      "54a3d1b34b884517dd3cdae66423d101662e35d20740da555faf1a865daabebd": {
-        "title": "MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions",
-        "link": "https://arxiv.org/abs/2507.21503",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.351983"
-      },
-      "df1342fdb25a8fb9c85fd85d2e214e960be9ccc735840edab26768fbd2d14172": {
-        "title": "What Does it Mean for a Neural Network to Learn a \"World Model\"?",
-        "link": "https://arxiv.org/abs/2507.21513",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301794"
-      },
-      "f87b776ec2d46ec802c4caf0210e2f56c0dab0972e19bf0447008b9ab6d7246f": {
-        "title": "ST-GDance: Long-Term and Collision-Free Group Choreography from Music",
-        "link": "https://arxiv.org/abs/2507.21518",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.366672"
-      },
-      "e33cf05ad9c0c0272a386b3fdec84019bd151dac1f6e186ca40822621eafa483": {
-        "title": "Large Language Models for Wireless Communications: From Adaptation to Autonomy",
-        "link": "https://arxiv.org/abs/2507.21524",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.374767"
-      },
-      "f433cdc3c73119c86fdce0c076c308f6bf90f9a58400f54178ae2503cd6f070d": {
-        "title": "Finding Uncommon Ground: A Human-Centered Model for Extrospective Explanations",
-        "link": "https://arxiv.org/abs/2507.21571",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.383146"
-      },
-      "3ca9ef41a83f319141320b3d4769b82a048c644f727ba8efac0d06cd3cfc7538": {
-        "title": "SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation",
-        "link": "https://arxiv.org/abs/2507.21585",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.394654"
-      },
-      "44f457379051e7b1ae7236dfcfee11183b7b7bcbf453119e698a2536418c1488": {
-        "title": "Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning",
-        "link": "https://arxiv.org/abs/2507.21588",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.406107"
-      },
-      "0b895c9475b0bdc17f4e557f7f930353abe02f068c4620b27a741b8b7d99ad0c": {
-        "title": "Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems",
-        "link": "https://arxiv.org/abs/2507.21589",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301805"
-      },
-      "9505a4142c115d9b1611a7bcca0f55185836dfbddf0e30551d6f2502bed89431": {
-        "title": "\"Teammates, Am I Clear?\": Analysing Legible Behaviours in Teams",
-        "link": "https://arxiv.org/abs/2507.21631",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.428495"
-      },
-      "9c867f98c282a7d9ac7c04b4628cbe6dcec7784c5f3f675f9c3d974c73112572": {
-        "title": "StaffPro: an LLM Agent for Joint Staffing and Profiling",
-        "link": "https://arxiv.org/abs/2507.21636",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.435750"
-      },
-      "c0a82f6259e1857dd91189a284138bd77413c88c8459c607fd05d35bb753b4a1": {
-        "title": "Self-Aware Safety Augmentation: Leveraging Internal Semantic Understanding to Enhance Safety in Vision-Language Models",
-        "link": "https://arxiv.org/abs/2507.21637",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.449405"
-      },
-      "aee9b70be252e38c41765499570fe1b3b73a1ea96377a9be50d0d43d254df83d": {
-        "title": "Assistax: A Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics",
-        "link": "https://arxiv.org/abs/2507.21638",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.460636"
-      },
-      "db32ea6882c0586b3fd6733cab23e7e23fec795ece0a1d012d39973d61a23902": {
-        "title": "Can the current trends of AI handle a full course of mathematics?",
-        "link": "https://arxiv.org/abs/2507.21664",
-        "published_date": "Wed, 30 Jul 2025 00:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.301824"
-      },
       "1a19af3344c40b9e2a7d31aeb29aee30144615a61db16338457177d0dbcc814a": {
         "title": "P图手残党有救了，豆包·图像编辑模型3.0上线，一个对话框搞定「增删改替」",
         "link": "https://www.jiqizhixin.com/articles/2025-07-30-7",
@@ -9750,225 +9450,33 @@
         "link": "https://arxiv.org/abs/2508.20224",
         "published_date": "Fri, 29 Aug 2025 00:00:00 GMT",
         "first_seen": "2025-08-29T05:20:10.934657"
+      },
+      "3f68a4e7bf11ddbe3b787db3b9912b9c8e7db8fb9bf85e3ad2d603865e1aa875": {
+        "title": "时代2025 AI百人榜出炉：任正非、梁文锋、王兴兴、彭军、薛澜等入选，华人影响力爆棚",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-29-6",
+        "published_date": "Fri, 29 Aug 2025 13:42:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.918493"
+      },
+      "7e5294755d3a7a57af4ea65c74876e214d2e041bda4a02ac8cb4eeac5a1bbbac": {
+        "title": "谷歌Nano Banana全网刷屏，起底背后团队",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-29-5",
+        "published_date": "Fri, 29 Aug 2025 13:37:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.918646"
+      },
+      "f7d8c78f1226eb83e367c18a1a1c3c5b3b52469907b5f7949654d66da33aed62": {
+        "title": "AI Agent组团搞事：在你常刷的App里，舆论操纵、电商欺诈正悄然上演",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-29-4",
+        "published_date": "Fri, 29 Aug 2025 13:31:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.918903"
+      },
+      "4f9c6d16af80d783a887c90fc1ca4da10be8483588a967d48e063df072282136": {
+        "title": "蚂蚁专用模型超越o3！仅用2K训练样本刷新医疗AI榜单纪录",
+        "link": "https://www.qbitai.com/2025/08/327423.html",
+        "published_date": "Fri, 29 Aug 2025 05:27:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.919106"
       }
     },
     "Technology": {
-      "8b150120bfa6fdfd2de0439fd73242fb780a17220cc042f7d4e81376b962d890": {
-        "title": "70亿参数做到百毫秒推理延迟！蘑菇车联首发物理世界AI大模型，承包Robotaxi、机器人所有“智能体”？",
-        "link": "https://www.infoq.cn/article/JtOXyCgSms6zryFOIKkg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 13:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151454"
-      },
-      "9e014bc1a31c2519d008e03f965267fe2570b3c8a7f6b72b6e7f03454ae7f914": {
-        "title": "腾讯文档 AI 基础设施建设与业务重塑之路｜AICon 深圳",
-        "link": "https://www.infoq.cn/article/0ZL9r7XOkPSLxevIhphV?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 13:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.513793"
-      },
-      "84fb3d0fcc38c0670e5855345a74e7aff387bdf5dc901a5f01ccc7f2c309a747": {
-        "title": "苹果开源扩散编码模型DiffuCoder",
-        "link": "https://www.infoq.cn/article/y7jzBQflM6QNaYloXJBh?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 13:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151376"
-      },
-      "08fa4f8af0aed509eba95f1a004b29daf73518a41dfe81466361f9807858b348": {
-        "title": "Anthropic提出透明度框架以保障前沿AI发展",
-        "link": "https://www.infoq.cn/article/ad1kfOyY8jSflQ0WO4Cj?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 12:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151394"
-      },
-      "3f604d96528d1d9c3be929a97efde7e7ab82a7f6f74106aed7837cb9e0da61b8": {
-        "title": "WAIC 2025：斑马智行联合通义及高通发布主动智能AI新技术",
-        "link": "https://www.infoq.cn/article/9SdNQDAlvpsJl4H8dW2P?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 11:19:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.514445"
-      },
-      "208b16ed1f145ba9017d379b572db7ec0ec662bbd727cd64aaa532c555a7c3e3": {
-        "title": "Databricks Agent Bricks使用TAO和ALHF方法自动化企业AI开发",
-        "link": "https://www.infoq.cn/article/jThh4wjDQxgoAoedkZad?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 11:09:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151464"
-      },
-      "e9c4e759ed93b4a1d77198fa092e0291f84956e3a2035f53d20bff0b0b698ca5": {
-        "title": "“老中间件”自救：曾经的并发王者、十五年开源老将全力押注Agentic AI找活路，转型做 Java 版 LangChain",
-        "link": "https://www.infoq.cn/article/eLFe1OPlKxr5v5u8dxra?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 11:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151476"
-      },
-      "dbe46a81b8af59cbede0b55312dd2b2690234d4e4197d5010f7fe487b7611396": {
-        "title": "想实现AGI，得先建好“AI工厂”",
-        "link": "https://www.infoq.cn/article/dfLgGbuxtRIiaLvEEEZo?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 10:49:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151420"
-      },
-      "a95c23fcdf27ff4b96580339ef75aa75ae0c5d64bbb0c7acd4de40e862546522": {
-        "title": "WAIC上的GMI Cloud：出海企业，能够平衡成本与效率吗？",
-        "link": "https://www.infoq.cn/article/qyzeYe5YY8VD2bzNCc1k?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 10:41:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.516347"
-      },
-      "6104829deff164bb02a5eb36cb29a05c0c49355d04e57c5b03219389ddcf674e": {
-        "title": "Java近期新闻：Quarkus MCP CLI工具、Groovy 5.0里程碑、JHipster、GraalVM",
-        "link": "https://www.infoq.cn/article/XK2jD0KOUWDcUcoZ98xC?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 10:32:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.517328"
-      },
-      "84634f7dd42757fd4827fb2229fb2ff98a0aeeee48dde4257b6556e4ed75e3c1": {
-        "title": "Spring近期新闻：Boot、Security、Auth Server、GraphQL、Kafka、Pulsar的里程碑版本发布",
-        "link": "https://www.infoq.cn/article/qlrPlLvCQwTidV2yBi1j?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 10:30:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.518518"
-      },
-      "7d6775de5fa9137a239a44724e3681c9281bdc4231dae56b9ab9d65d96593e1c": {
-        "title": "AI 赋能游戏研发：从工具创新到规模化应用｜AICon 深圳",
-        "link": "https://www.infoq.cn/article/h8JUqceXwFP6j7N2X7fx?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Jul 2025 10:13:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.519231"
-      },
-      "72d466555a2961d12de3cf7e11967295f9fc0f978e4a3d4daa65492112381b4c": {
-        "title": "对话无问芯穹CEO夏立雪：模型和芯片是两条驱动路径，不可能分开发展｜独家",
-        "link": "https://www.tmtpost.com/7642781.html",
-        "published_date": "Wed, 30 Jul 2025 12:26:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151409"
-      },
-      "b72834d3c693216d7484be65d7b54037adaa38a171571e0e0702fb1a03fd35ae": {
-        "title": "从精度到速度，自动化如何支撑潮玩的百万级量产？ | 产业链观察",
-        "link": "https://www.tmtpost.com/7642548.html",
-        "published_date": "Wed, 30 Jul 2025 11:46:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.520898"
-      },
-      "88418c57c84dccb804c16efa98408f2b51d2f355cd2202cd06a0f8ddd9297de5": {
-        "title": "推动AI落地，最不能忽视的10个问题是什么？",
-        "link": "https://www.tmtpost.com/7641687.html",
-        "published_date": "Wed, 30 Jul 2025 11:33:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151485"
-      },
-      "08e6f1bbf1fb422a22eb3bc0514ac9cc86c43ac71b2477e9b1aaf6e6f6ddb57e": {
-        "title": "英飞凌潘大伟：AI与机器人将带来新的增长机会",
-        "link": "https://www.tmtpost.com/7642649.html",
-        "published_date": "Wed, 30 Jul 2025 11:31:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.522332"
-      },
-      "9ade55987bb52026d34df3d7a85761cadc405528295313fb4a6c31830f2083d8": {
-        "title": "创始人套现5亿离场，中产家庭抛弃上万元的“贵族玩具”",
-        "link": "https://www.tmtpost.com/7642611.html",
-        "published_date": "Wed, 30 Jul 2025 11:31:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.523143"
-      },
-      "2a9bdb706cd32427abbb1177072dfbe26fbb9b463bf1ce83202217b21c7ecc82": {
-        "title": "人形机器人的一次重大拐点",
-        "link": "https://www.tmtpost.com/7642592.html",
-        "published_date": "Wed, 30 Jul 2025 11:31:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151442"
-      },
-      "7e4ddff651898e0524e8d21f9f0d5bf6fab3aa12dec5fbdb18e1444e999204ff": {
-        "title": "第一次做硬件，阿里先稳一手",
-        "link": "https://www.tmtpost.com/7642212.html",
-        "published_date": "Wed, 30 Jul 2025 11:31:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.524261"
-      },
-      "2850be8a6ef0ecb9bbf76168f115c1d9e117c0e2ace3ae990884dd669947eba5": {
-        "title": "《南京照相馆》，拯救暑期档？",
-        "link": "https://www.tmtpost.com/7642161.html",
-        "published_date": "Wed, 30 Jul 2025 11:31:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.524857"
-      },
-      "f77275c024ffd1c37ef80870dd4fc3bc63c808f19fb3b839f022b769409dad97": {
-        "title": "折叠车龙头再冲IPO，83岁老翁带大行科工年入4.5亿，产品依赖代工",
-        "link": "https://www.tmtpost.com/7642265.html",
-        "published_date": "Wed, 30 Jul 2025 11:31:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.526096"
-      },
-      "92d2e8c95190e194dcc58c7e2ccea05ee568438d008dd47e66a3fea060f985a9": {
-        "title": "释永信：无畏因果",
-        "link": "https://www.tmtpost.com/7642596.html",
-        "published_date": "Wed, 30 Jul 2025 11:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.526720"
-      },
-      "738339c46ef4c7ad7ee959dd9757d46d015494c8fc21543062c580fdc120d7d4": {
-        "title": "全国每5瓶醋就有1瓶来自这里！山西清徐靠什么“酿”出65亿大产业？",
-        "link": "https://www.tmtpost.com/7642253.html",
-        "published_date": "Wed, 30 Jul 2025 11:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.527872"
-      },
-      "e6f9c7624fc98614555f7be4b73b0ef88ac1aca3ce258eae5daec89ccf115909": {
-        "title": "瑞士食品科技公司xFarm Technologies研发智慧农田管理应用程序，推动农业数字化转型 | 瑞士创新100强",
-        "link": "https://www.tmtpost.com/7642290.html",
-        "published_date": "Wed, 30 Jul 2025 10:59:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.529627"
-      },
-      "4e5b9b99b822e7977dc107412806426e6dded41a71ccf5d3948774cd6b27a7d9": {
-        "title": "恒瑞医药5亿美元落袋，这次没被中间商赚差价",
-        "link": "https://www.tmtpost.com/7642081.html",
-        "published_date": "Wed, 30 Jul 2025 10:59:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.530541"
-      },
-      "11d491e8711b1f22b6968db89a706334f222705d0a138431c5985eb3da2a4573": {
-        "title": "智元机器人“被上市”样本：算计与失算，三方博弈“难题卷” |深度观察",
-        "link": "https://www.tmtpost.com/7642636.html",
-        "published_date": "Wed, 30 Jul 2025 10:54:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.532106"
-      },
-      "cb1d34f2655200636c24318d3ad51762a591f7d4341234e3596eda2be2bd04c8": {
-        "title": "穿什么lululemon，“棉绸”才是夏天的神",
-        "link": "https://www.tmtpost.com/7642138.html",
-        "published_date": "Wed, 30 Jul 2025 10:35:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.533274"
-      },
-      "6e2e34faac338294b67329d956e93b0f9cb6c8e7261abbf1ac0b48fba85f3f8c": {
-        "title": "China's Sensor Pioneer Taps Humanoid Robot Boom With 'Electronic Skin'",
-        "link": "https://www.tmtpost.com/7642561.html",
-        "published_date": "Wed, 30 Jul 2025 09:53:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.535763"
-      },
-      "f471fa34ebc304f006b377d6ba6d6cef991fee20665e7823b14eb3be22d9b14f": {
-        "title": "China's Robotics Industry Eyes \"Android Moment\" as Open-Source OS Gains Traction",
-        "link": "https://www.tmtpost.com/7642553.html",
-        "published_date": "Wed, 30 Jul 2025 09:46:00 GMT",
-        "first_seen": "2025-07-30T05:30:55.151433"
-      },
-      "1d267a219fca0d38c5385c6573d72ba653f4ad68178dec2fffd5ff02a778709a": {
-        "title": "本田大撤退，日系的崩溃",
-        "link": "https://www.tmtpost.com/7642087.html",
-        "published_date": "Wed, 30 Jul 2025 09:03:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.539810"
-      },
-      "cb412f208ce4fb197facffce039db82d18b221b8495f08c0677919cad8431c78": {
-        "title": "在WAIC 2025，寻找未来的确定性",
-        "link": "https://www.tmtpost.com/7642133.html",
-        "published_date": "Wed, 30 Jul 2025 08:39:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.541145"
-      },
-      "e6179b3a05444bcc71de969908283cb912f7e26db74e8de42f1aa08c39a29b23": {
-        "title": "Apple Music 更新：借 iOS 26「东风」，向好看、好用更进一步",
-        "link": "https://sspai.com/post/101408",
-        "published_date": "Wed, 30 Jul 2025 11:27:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.543395"
-      },
-      "fff481541b2e3dbdbe07dd2345c6baa77b1300d27b6af7c08bd038618353e9ba": {
-        "title": "派早报：理想 i8 正式发布等",
-        "link": "https://sspai.com/post/101452",
-        "published_date": "Wed, 30 Jul 2025 08:38:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.544840"
-      },
-      "568297e07b96ee02514607661af4ba4153ef6c72c6916e13d5ce9d4eb4813e8b": {
-        "title": "“比亚迪的资源不支持搞内部 ‘赛马’，只能去跟外部竞赛”",
-        "link": "http://www.huxiu.com/article/4632353.html?f=wangzhan",
-        "published_date": "Wed, 30 Jul 2025 10:38:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.546350"
-      },
-      "499552331edd6aec7b9491a560301b9a2ac860b5e62e35714446319ae1f094e2": {
-        "title": "字节辟谣「豆包汽车」：无造车计划；英伟达市值突破4.3 万亿美元；传特斯拉将推「低价赛博皮卡」",
-        "link": "http://www.geekpark.net/news/352109",
-        "published_date": "Wed, 30 Jul 2025 07:46:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.549084"
-      },
-      "163032cad0c814a219208461cb1acb694e8111bfb57d5795f446317d1488a3e3": {
-        "title": "Top Verizon Promo Codes & Deals | August 2025",
-        "link": "https://www.wired.com/story/verizon-promo-code/",
-        "published_date": "Wed, 30 Jul 2025 05:00:00 GMT",
-        "first_seen": "2025-07-30T05:30:29.551606"
-      },
       "bcf8f73284b2b445ee4fe9037e46e0bf0755de6d073ba2b8898dbb337cde7219": {
         "title": "京西智行陈伟刚：让搭载在路虎揽胜上的技术适配更多车型",
         "link": "https://www.tmtpost.com/7643031.html",
@@ -24524,33 +24032,123 @@
         "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html",
         "published_date": "Fri, 29 Aug 2025 00:11:00 GMT",
         "first_seen": "2025-08-29T05:20:10.571986"
+      },
+      "e45b56c217ba890d02991448daac7c0c976e3d75d3b5cc0328528446a1b018eb": {
+        "title": "智飞生物首亏，一个时代的落幕",
+        "link": "https://www.tmtpost.com/7676492.html",
+        "published_date": "Fri, 29 Aug 2025 15:41:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831192"
+      },
+      "bb3e359745fc083575635e477105a421b56df8107bc472e7ad5158aca15f681d": {
+        "title": "每年2000万“新老人”入场，银发经济风口来了？",
+        "link": "https://www.tmtpost.com/7676723.html",
+        "published_date": "Fri, 29 Aug 2025 15:41:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831224"
+      },
+      "752f517487cd8649ea8ec2ba609b1bab62ec08bdd58b9a2b34301c4e3c3a4d9c": {
+        "title": "外资在华“卖身”真相",
+        "link": "https://www.tmtpost.com/7676814.html",
+        "published_date": "Fri, 29 Aug 2025 15:41:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831238"
+      },
+      "e9dc9fa3aafb863a10440adb6d9cc5e5cb20665c38c3a4a6b52d47899aa7abcd": {
+        "title": "8月29日A股分析：创业板指大涨2.23%领跑，市场成交额约2.8万亿元，主力资金净流出794亿，锂矿与固态电池逆势吸金",
+        "link": "https://www.tmtpost.com/7676802.html",
+        "published_date": "Fri, 29 Aug 2025 15:38:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831253"
+      },
+      "84e4cdb70eac6636cfa2a0107831df8acae18957d51d3068073dc9c3633df496": {
+        "title": "英伟达推出“Thor”，谁赚了？",
+        "link": "https://www.tmtpost.com/7676739.html",
+        "published_date": "Fri, 29 Aug 2025 15:37:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831263"
+      },
+      "2e58c1e65e7fe8e103edb07d5a273baf71af5b2b4a673b549b4eb504fa7e69e0": {
+        "title": "员工爆料：King暴力裁员200人，背后资本推动AI取代员工",
+        "link": "https://www.tmtpost.com/7676782.html",
+        "published_date": "Fri, 29 Aug 2025 15:37:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831275"
+      },
+      "be4f94acdf02767700b96e517d4f4e9c666d775522db5f4abf1d0c0c8ce84841": {
+        "title": "Tesla Rival Li Auto Stock Gains as AI Push Outweighs Q2 Earnings and Guidance Miss",
+        "link": "https://www.tmtpost.com/7676857.html",
+        "published_date": "Fri, 29 Aug 2025 15:28:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831287"
+      },
+      "02f3c27ba07ec45eb7eea09249d77d1a026c976f28a69911d8a70ba7c9aaa255": {
+        "title": "U.S. Ends Low-Value Package Tariff Exemption, Raising Costs for Shippers and Consumers",
+        "link": "https://www.tmtpost.com/7676844.html",
+        "published_date": "Fri, 29 Aug 2025 15:25:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831301"
+      },
+      "6e57cfa45e9934e549421655afbea581ecf58e11b33ebeda7316dc4e5abb5892": {
+        "title": "第三届中国上市公司产业发展论坛9月21日上海开幕，聚焦未来产业与国有资本",
+        "link": "https://www.tmtpost.com/7676787.html",
+        "published_date": "Fri, 29 Aug 2025 15:24:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831312"
+      },
+      "a99488b6cbc2f5b3f4c4bc79c0a1a8d9a850efcd9025139ddb1a51e5a02d9466": {
+        "title": "“数智化+流水化”双涡轮下，迈瑞医疗新一轮增长引擎全速点火",
+        "link": "https://www.tmtpost.com/7676673.html",
+        "published_date": "Fri, 29 Aug 2025 14:04:00 GMT",
+        "first_seen": "2025-08-29T08:27:54.831323"
+      },
+      "0c865bd9e7159e54dec203124b2dfb9d6a4632e12e3f8e577f80337e6f33fa94": {
+        "title": "过气K-Pop爱豆，扎堆中国当网红",
+        "link": "https://www.tmtpost.com/7676646.html",
+        "published_date": "Fri, 29 Aug 2025 13:57:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.524903"
+      },
+      "930f84fd7e4be271f9410cf1ca36fabdc354adb645007294c13dd4f001c6daf6": {
+        "title": "EU Proposes to Remove Some U.S. Tariffs to Push for Auto Duty Cuts",
+        "link": "https://www.tmtpost.com/7676675.html",
+        "published_date": "Fri, 29 Aug 2025 13:45:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.526199"
+      },
+      "f7cf35671c3de08e8f10553b6305ec5761dc058eeefd7a3a900bbdd3095e3ff3": {
+        "title": "SenseTime Reports Strong H1 2025 Results, Generative AI Drives Growth Amid Strategic Restructuring",
+        "link": "https://www.tmtpost.com/7676643.html",
+        "published_date": "Fri, 29 Aug 2025 13:22:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.527968"
+      },
+      "aeb5a4b423619c54868bfe6f0ccdf2160cd77d8a88d5a85536c17c997d838c59": {
+        "title": "CentOS停服安全告急！腾讯云TencentOS 原地替换，重启即生效",
+        "link": "https://www.infoq.cn/video/uXb8TkdZK23aTp2IsSS4?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 Aug 2025 15:12:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.528989"
+      },
+      "c07c4642acdc6a5c0e11c59dded3cc745df29e34ab179df17b8ac76b7f48c26b": {
+        "title": "AWS Lambda 响应流能力提升，默认最大 Payload 限制增至 200 MB",
+        "link": "https://www.infoq.cn/article/9II5V5JJ4R0JdJNoeHzf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.530200"
+      },
+      "153f71ef55c5b2c4b3765360a5a902e327a0716daaa5273026a780c564eb842e": {
+        "title": "企业落地 NL2SQL，需要的是「AI-ready Data」和「小模型」",
+        "link": "https://www.infoq.cn/article/iM38UwbOGpAQKMRa6jKe?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 Aug 2025 14:56:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.531527"
+      },
+      "d17f2560d0e81e9f90169110c2194f7bc7af89b1eefd81d8d317c9015314e3c8": {
+        "title": "AI编程智能体开放格式AGENTS.md正在兴起",
+        "link": "https://www.infoq.cn/article/FwKI8tObvIDwdkBxJoxf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 Aug 2025 14:00:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.532378"
+      },
+      "917cc89afcb6ddc99ace0b31f3cda743421a39c3cc0ff66d663316399bbab7b4": {
+        "title": "有研究等于有效？了解护眼保健品背后的秘密",
+        "link": "https://sspai.com/post/102176",
+        "published_date": "Fri, 29 Aug 2025 15:02:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.533071"
+      },
+      "458caf9327d68581d051e2519a23afb4ba3135c35d9e890cf8c67b3bc715a8d3": {
+        "title": "Dyson Promo Codes: 20% Off | September 2025",
+        "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+        "published_date": "Fri, 29 Aug 2025 05:30:00 GMT",
+        "first_seen": "2025-08-29T08:27:06.534557"
       }
     },
     "Finance": {
-      "6fbcd198fedc1fe0b316d2f254d205f6c3352c732a25f44e977db48bfc440f26": {
-        "title": "Here’s how much today’s 65-year-olds will spend on healthcare in retirement",
-        "link": "https://www.marketwatch.com/story/heres-how-much-todays-65-year-olds-will-spend-on-healthcare-in-retirement-21dd0e0a?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Jul 2025 04:01:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.312569"
-      },
-      "f082bd0c07f27caef85a3d92521d0250904724677d5abb7ef8a41ce12567e1e5": {
-        "title": "Why a California law to protect office workers could resonate nationally after the NYC shooting",
-        "link": "https://www.marketwatch.com/story/could-new-laws-protect-office-workers-from-violent-incidents-like-the-midtown-manhattan-shooting-0f5ebb77?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Jul 2025 02:19:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.312923"
-      },
-      "d34294394fb256594abf1b8751995a9da0320a7c4c44ff4590863f69c699c0c3": {
-        "title": "Visa says spending is growing at a healthy rate, but its stock dips after earnings",
-        "link": "https://www.marketwatch.com/story/visa-says-spending-is-growing-at-a-healthy-rate-but-its-stock-dips-after-earnings-2be9de59?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Jul 2025 00:21:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.313505"
-      },
-      "e3bc1fc45a4b09ed90e24de8bb5bfc1a65057f31aff8d0b264b9d874f0cafca1": {
-        "title": "The stock market’s worst month is coming up. Should you sell in August?",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bf10adb7-6a77-4d40-99fe-a0600a7e5375&mod=mw_rss_bulletins",
-        "published_date": "Wed, 30 Jul 2025 01:00:00 GMT",
-        "first_seen": "2025-07-30T05:31:25.314276"
-      },
       "6e10045bf5a2355eb659960cb815427a6080690c5509324ba05cca12aa463bc8": {
         "title": "UBS profit beats forecasts, says Credit Suisse deal savings up to $9.1 billion",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=83e321f3-c71b-4f9c-b43f-05b5ee194b06&mod=mw_rss_bulletins",
@@ -27914,8 +27512,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-08-29T05:20:59.277168",
-    "Technology": "2025-08-29T05:20:10.639864",
-    "Finance": "2025-08-29T05:20:59.298068"
+    "AI": "2025-08-29T08:27:54.926635",
+    "Technology": "2025-08-29T08:27:54.853529",
+    "Finance": "2025-08-29T08:27:54.942540"
   }
 }
