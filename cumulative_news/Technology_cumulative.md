@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-30 08:23
+**最后更新时间**: 2025-08-30 23:17
+
+---
+
+## 🆕 最新更新 (2025-08-30 23:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智谱 GLM-4.5 团队深夜爆料：上下文要扩、小模型在路上，还承诺尽快发新模型！](https://www.infoq.cn/article/Xio27Fad3E973hyO203u?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-31 07:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [吴泳铭的阿里新局：押注 AI 与消费，再次创业](http://www.geekpark.net/news/353305)
+**发布时间**: 2025-08-30 23:48
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Verizon&#8217;s &#8216;software issue&#8217; has disconnected many wireless customers across the US](https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue)
+**发布时间**: 2025-08-30 21:54
+
+#### [No, a Windows update probably didn’t brick your SSD](https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd)
+**发布时间**: 2025-08-30 16:57
+
+#### [The 20 best Labor Day deals you can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
+**发布时间**: 2025-08-30 14:37
+
+#### [Discounty adds some bite to cozy life sims](https://www.theverge.com/games-review/768145/discounty-review-switch-ps5-xbox-steam)
+**发布时间**: 2025-08-30 13:00
+
+#### [Why do Waymos keep loitering in front of my house?](https://www.theverge.com/google-waymo/766002/waymo-la-loiter-parking-robotaxi-ai-public-space)
+**发布时间**: 2025-08-30 12:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [虞书欣与她的家族，到底发生了什么？](http://www.huxiu.com/article/4741918.html?f=wangzhan)
+**发布时间**: 2025-08-30 20:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科技不再是唯一武器，小鹏P7靠什么闯进纯电前三？](https://www.tmtpost.com/7677731.html)
+**发布时间**: 2025-08-30 18:19
+
+#### [深度分化、“高端化”爆发力熄火，啤酒企业转战“场景带扩张”|行业风向标](https://www.tmtpost.com/7677923.html)
+**发布时间**: 2025-08-30 17:24
+
+#### [U.S. Appeals Court Rules Most of Trump's Tariffs Unlawful, Sets Stage for Supreme Court Battle](https://www.tmtpost.com/7677928.html)
+**发布时间**: 2025-08-30 17:20
+
+#### [双线作战，阿里烧了几百亿](https://www.tmtpost.com/7677832.html)
+**发布时间**: 2025-08-30 17:12
+
+#### [阿里巴巴蒋凡首谈淘宝闪购：不能离开规模谈效率](https://www.tmtpost.com/7677826.html)
+**发布时间**: 2025-08-30 15:14
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 59 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+**发布时间**: 2025-08-30 16:06
+
+#### [13 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+**发布时间**: 2025-08-30 14:03
+
+#### [How to Back Up Your Android Phone (2025)](https://www.wired.com/story/how-to-backup-your-android/)
+**发布时间**: 2025-08-30 13:30
+
+#### [Your Body Ages Faster Because of Extreme Heat](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)
+**发布时间**: 2025-08-30 12:30
+
+#### [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)
+**发布时间**: 2025-08-30 12:00
+
+#### [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://www.wired.com/story/how-to-avoid-google-forms-scams/)
+**发布时间**: 2025-08-30 11:30
+
+#### [Antarctica Is Changing Rapidly. The Consequences Could Be Dire](https://www.wired.com/story/antarctica-is-changing-rapidly-with-dire-consequences-for-the-world/)
+**发布时间**: 2025-08-30 11:00
+
+#### [What to Look for When Buying a Sleep Mask (2025)](https://www.wired.com/story/how-to-buy-a-sleep-mask-2025/)
+**发布时间**: 2025-08-30 10:33
+
+#### [DOGE Put Everyone’s Social Security Data at Risk, Whistleblower Claims](https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/)
+**发布时间**: 2025-08-30 10:30
+
+#### [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)
+**发布时间**: 2025-08-30 10:00
+
+#### [Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker](https://www.wired.com/story/gear-news-of-the-week-apples-iphone-event-gets-a-date-and-plaud-upgrades-its-ai-note-taker/)
+**发布时间**: 2025-08-30 09:30
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 29 Aug 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 29 Aug 2025 23:19:20 GMT</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 23:18:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谢赛宁回忆七年前OpenAI面试：白板编程、五小时会议，面完天都黑了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-29-9</link>
-      <description>&lt;![CDATA[谢赛宁回忆七年前OpenAI面试：白板编程、五小时会议，面完天都黑了]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 17:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-9</guid>
+      <title>吴恩达最新来信：是时候关注并行智能体了</title>
+      <link>https://www.qbitai.com/2025/08/327627.html</link>
+      <description>&lt;![CDATA[吴恩达最新来信：是时候关注并行智能体了]]&gt;</description>
+      <pubDate>Sat, 30 Aug 2025 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327627.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>具身智能下一站在哪？来外滩大会这场论坛带你拨云见日！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-29-8</link>
-      <description>&lt;![CDATA[具身智能下一站在哪？来外滩大会这场论坛带你拨云见日！]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>无需微调就超越临床医生？埃默里大学系统评估GPT-5医疗决策支持能力：潜力巨大</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-29-7</link>
-      <description>&lt;![CDATA[无需微调就超越临床医生？埃默里大学系统评估GPT-5医疗决策支持能力：潜力巨大]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>劈弯不晕车、爆胎能稳行 秦L EV云辇型是来给同级车上强度的吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-29-10</link>
-      <description>&lt;![CDATA[劈弯不晕车、爆胎能稳行 秦L EV云辇型是来给同级车上强度的吗？]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-29-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Download: humans in space, and India’s thorium ambitions</title>
-      <link>https://www.technologyreview.com/2025/08/29/1122843/the-download-humans-in-space-and-indias-thorium-ambitions/</link>
-      <description>&lt;![CDATA[The Download: humans in space, and India’s thorium ambitions]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/29/1122843/the-download-humans-in-space-and-indias-thorium-ambitions/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>This American nuclear company could help India’s thorium dream</title>
-      <link>https://www.technologyreview.com/2025/08/29/1122839/this-american-nuclear-company-could-help-indias-thorium-dream/</link>
-      <description>&lt;![CDATA[This American nuclear company could help India’s thorium dream]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/29/1122839/this-american-nuclear-company-could-help-indias-thorium-dream/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>RFK Jr’s plan to improve America’s diet is missing the point</title>
-      <link>https://www.technologyreview.com/2025/08/29/1122733/rfk-jrs-plan-to-improve-americas-diet-is-missing-the-point/</link>
-      <description>&lt;![CDATA[RFK Jr’s plan to improve America’s diet is missing the point]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/08/29/1122733/rfk-jrs-plan-to-improve-americas-diet-is-missing-the-point/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>港股AGI第一股“云知声”首战告捷：大模型贡献1亿收入，单客价直线提升116.2%，AI保险业务暴涨1386.8%</title>
-      <link>https://www.qbitai.com/2025/08/327464.html</link>
-      <description>&lt;![CDATA[港股AGI第一股“云知声”首战告捷：大模型贡献1亿收入，单客价直线提升116.2%，AI保险业务暴涨1386.8%]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 11:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327464.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>10年前押中英伟达：这位复旦学霸如何用AI Agent重新定义投资</title>
-      <link>https://www.qbitai.com/2025/08/327444.html</link>
-      <description>&lt;![CDATA[10年前押中英伟达：这位复旦学霸如何用AI Agent重新定义投资]]&gt;</description>
-      <pubDate>Fri, 29 Aug 2025 09:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327444.html</guid>
+      <title>不愧是中国机器人，乒乓打得太6了</title>
+      <link>https://www.qbitai.com/2025/08/327590.html</link>
+      <description>&lt;![CDATA[不愧是中国机器人，乒乓打得太6了]]&gt;</description>
+      <pubDate>Sat, 30 Aug 2025 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327590.html</guid>
       <category>AI</category>
     </item>
   </channel>

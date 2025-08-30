@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-30 05:22
+**最后更新时间**: 2025-08-30 23:17
+
+---
+
+## 🆕 最新更新 (2025-08-30 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Feeling Powerball fever as the jackpot hits $1 billion? This former lottery addict who lost around $1 million has a warning for you.](https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-30 18:55
+
+#### [I just spent $4,400 as the best man at a wedding. It’s not just bridesmaids who pay a fortune.](https://www.marketwatch.com/story/please-stop-asking-me-to-be-your-best-man-ive-spent-4-400-on-one-wedding-and-cant-afford-it-anymore-2001b192?mod=mw_rss_topstories)
+**发布时间**: 2025-08-30 18:47
+
+#### [This healthcare benefit provides a triple tax advantage — but many employees don’t use it](https://www.marketwatch.com/story/this-healthcare-benefit-offers-a-triple-tax-advantage-but-many-employees-dont-use-it-87e942f0?mod=mw_rss_topstories)
+**发布时间**: 2025-08-30 18:16
+
+#### [What’s next in the legal fight between Fed governor Lisa Cook and President Trump](https://www.marketwatch.com/story/whats-next-in-the-legal-fight-between-fed-governor-lisa-cook-and-president-trump-1f11f058?mod=mw_rss_topstories)
+**发布时间**: 2025-08-30 17:49
+
+#### [Why do so many investors think the stock market is forming a bubble?](https://www.marketwatch.com/story/why-do-so-many-investors-think-the-stock-market-is-forming-a-bubble-ebefa529?mod=mw_rss_topstories)
+**发布时间**: 2025-08-30 17:46
+
+#### [The small-cap rally is real. Here are five stocks to consider owning right now.](https://www.marketwatch.com/story/why-small-caps-just-might-be-the-stock-markets-new-magnificent-seven-a9b57b32?mod=mw_rss_topstories)
+**发布时间**: 2025-08-30 16:41
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Nvidia has $57 billion in cash. Wall Street has ideas about what to do with it.](https://www.marketwatch.com/bulletins/redirect/go?g=0bd904c5-272c-460d-9057-4ef7d9e3f2d7&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-30 13:42
+
+#### [Does the hot IPO market mean we’re in a stock-market bubble?](https://www.marketwatch.com/bulletins/redirect/go?g=f5e9e6e7-d67d-45a1-95ba-5bb597036469&mod=mw_rss_bulletins)
+**发布时间**: 2025-08-30 13:16
 
 ---
 
