@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-29 23:18
+**最后更新时间**: 2025-08-30 05:22
+
+---
+
+## 🆕 最新更新 (2025-08-30 05:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Equal-weight S&P 500 sees longest winning streak since 2021 amid September rate-cut expectations](https://www.marketwatch.com/story/equal-weight-s-p-500-sees-longest-winning-streak-since-2021-amid-september-rate-cut-expectations-79f7ca92?mod=mw_rss_topstories)
+**发布时间**: 2025-08-29 23:49
 
 ---
 
