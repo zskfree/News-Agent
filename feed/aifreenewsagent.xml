@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 Aug 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Sat, 30 Aug 2025 23:18:27 GMT</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 23:23:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>吴恩达最新来信：是时候关注并行智能体了</title>
-      <link>https://www.qbitai.com/2025/08/327627.html</link>
-      <description>&lt;![CDATA[吴恩达最新来信：是时候关注并行智能体了]]&gt;</description>
-      <pubDate>Sat, 30 Aug 2025 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327627.html</guid>
+      <title>那天，AI大模型想起了，被「失忆」所束缚的枷锁</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-8</link>
+      <description>&lt;![CDATA[那天，AI大模型想起了，被「失忆」所束缚的枷锁]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>不愧是中国机器人，乒乓打得太6了</title>
-      <link>https://www.qbitai.com/2025/08/327590.html</link>
-      <description>&lt;![CDATA[不愧是中国机器人，乒乓打得太6了]]&gt;</description>
-      <pubDate>Sat, 30 Aug 2025 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/08/327590.html</guid>
+      <title>LLM也具有身份认同？当LLM发现博弈对手是自己时，行为变化了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-7</link>
+      <description>&lt;![CDATA[LLM也具有身份认同？当LLM发现博弈对手是自己时，行为变化了]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-6</link>
+      <description>&lt;![CDATA[AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-5</link>
+      <description>&lt;![CDATA[混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 17:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>这个荒诞网站藏着30个AI「鬼点子」，但我觉得它活不长</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-4</link>
+      <description>&lt;![CDATA[这个荒诞网站藏着30个AI「鬼点子」，但我觉得它活不长]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>R-Zero 深度解析：无需人类数据，AI 如何实现自我进化？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-3</link>
+      <description>&lt;![CDATA[R-Zero 深度解析：无需人类数据，AI 如何实现自我进化？]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek、GPT-5带头转向混合推理，一个token也不能浪费</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31-2</link>
+      <description>&lt;![CDATA[DeepSeek、GPT-5带头转向混合推理，一个token也不能浪费]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>CodeAgent 2.0 时代开启｜GitTaskBench，颠覆性定义代码智能体实战交付新标准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-31</link>
+      <description>&lt;![CDATA[CodeAgent 2.0 时代开启｜GitTaskBench，颠覆性定义代码智能体实战交付新标准]]&gt;</description>
+      <pubDate>Sun, 31 Aug 2025 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-31</guid>
       <category>AI</category>
     </item>
   </channel>

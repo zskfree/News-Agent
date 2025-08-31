@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "4e07c8a967397811b72f3bac53f4e1e78849c34ddb752e9ce5392e4a36e6812a": {
-        "title": "一次中稿10篇ACL25，通义实验室 代码智能&对话智能团队 在研究什么",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-01-10",
-        "published_date": "Fri, 01 Aug 2025 15:58:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.681171"
-      },
-      "5893931b3f4bb11e3cff263d7e6412a73cac71e8dbeefc41090912b5c062d2c6": {
-        "title": "联合三大蛋白质模型，仅需4~6周，定制癌细胞特效「识别器」",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-01-9",
-        "published_date": "Fri, 01 Aug 2025 15:22:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.681333"
-      },
-      "e597aa1c1e7e6f450b19f4c49eb4ecb8c575b9911b15ab060707a4d2fd67a3a7": {
-        "title": "GPT-4o遭越狱后指挥机器人做危险动作！全球首个具身智能体安全评测基准来了，大模型集体翻车",
-        "link": "https://www.qbitai.com/2025/08/316742.html",
-        "published_date": "Fri, 01 Aug 2025 06:30:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.681563"
-      },
-      "d396e73b7dc4853b0075a8f59b8fb802558c2149520b1d5f36dc0959f63b1a46": {
-        "title": "小红书提出首个社交大模型：八大社交任务平均提升14.02%",
-        "link": "https://www.qbitai.com/2025/08/316723.html",
-        "published_date": "Fri, 01 Aug 2025 06:28:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.681787"
-      },
-      "15930313e0363ee2f4bd145e24da630abb1a503b0678df7f5368fbabba582128": {
-        "title": "字节Seed发布扩散语言模型，推理速度达2146 tokens/s，比同规模自回归快5.4倍",
-        "link": "https://www.qbitai.com/2025/08/316722.html",
-        "published_date": "Fri, 01 Aug 2025 06:15:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.682131"
-      },
       "9b2a082e53bb635ba906752c3d9c6de5e369ee6cb0447a04aaeb71cef81493ae": {
         "title": "奕派科技重磅发布“未来之翼”战略，2026款东风奕派eπ008限时先享价17.36万元",
         "link": "https://www.jiqizhixin.com/articles/2025-08-01-15",
@@ -8712,153 +8682,57 @@
         "link": "https://www.qbitai.com/2025/08/327590.html",
         "published_date": "Sat, 30 Aug 2025 08:57:00 GMT",
         "first_seen": "2025-08-30T23:18:27.404672"
+      },
+      "8c98337a9da99ccdfe104e283bdb47c3114efab70fd59641bafc4e1a67cad132": {
+        "title": "那天，AI大模型想起了，被「失忆」所束缚的枷锁",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-8",
+        "published_date": "Sun, 31 Aug 2025 18:19:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.886562"
+      },
+      "caa88b0c4ea49e983a6721eb852d3b1f0645d6f4c60a780919705544ba1c0063": {
+        "title": "LLM也具有身份认同？当LLM发现博弈对手是自己时，行为变化了",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-7",
+        "published_date": "Sun, 31 Aug 2025 18:08:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.886706"
+      },
+      "87620b587c1a7a5c5e28e07857a51842be3cdd3e523b3c71bff5ef8dad0a5605": {
+        "title": "AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-6",
+        "published_date": "Sun, 31 Aug 2025 18:03:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.886903"
+      },
+      "b65694cd01a0e69186c8d0b846e3b2238dc278c817adc2bbc107a860aa3160ff": {
+        "title": "混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-5",
+        "published_date": "Sun, 31 Aug 2025 17:59:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.887100"
+      },
+      "c9efe634b9fae163c78abf93a23da68603a02ef991d5b86e50f5f7231040ad96": {
+        "title": "这个荒诞网站藏着30个AI「鬼点子」，但我觉得它活不长",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-4",
+        "published_date": "Sun, 31 Aug 2025 17:56:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.887332"
+      },
+      "221241eb9db4e4448dc796d797e543085fa15c93346e5583909204596bf4a7bf": {
+        "title": "R-Zero 深度解析：无需人类数据，AI 如何实现自我进化？",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-3",
+        "published_date": "Sun, 31 Aug 2025 17:51:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.887663"
+      },
+      "d133a26bcc564eb0feccb41dea43e282abd1e3320289badfcce456b8337f0d1a": {
+        "title": "DeepSeek、GPT-5带头转向混合推理，一个token也不能浪费",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31-2",
+        "published_date": "Sun, 31 Aug 2025 17:43:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.888123"
+      },
+      "b1b246223abfc8aa9a0dcad22c8c102b5ec91e1255ed830f3fafc9afe0e383f4": {
+        "title": "CodeAgent 2.0 时代开启｜GitTaskBench，颠覆性定义代码智能体实战交付新标准",
+        "link": "https://www.jiqizhixin.com/articles/2025-08-31",
+        "published_date": "Sun, 31 Aug 2025 17:34:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.888744"
       }
     },
     "Technology": {
-      "875eeb0b4b343e0bd05c2b1c212fba446cb741f9392b2b7b3791c645123ab1c7": {
-        "title": "China Tightens Oversight of Precious Metals Market With New Anti-Money Laundering Rules",
-        "link": "https://www.tmtpost.com/7645669.html",
-        "published_date": "Fri, 01 Aug 2025 16:27:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.868447"
-      },
-      "bda8ce72e84e118dcee46affe8e7de82907cc3138219e4767ba674090d42803c": {
-        "title": "新茶饮六小龙：2025上半年，谁赢麻了？",
-        "link": "https://www.tmtpost.com/7644969.html",
-        "published_date": "Fri, 01 Aug 2025 16:16:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.868641"
-      },
-      "08691763fc01d248b3c45bd1dc8b4e13f9974941802744394e94ab4ce0b8d8b7": {
-        "title": "Shaolin Temple Faces Scrutiny as Its Spiritual Leader Investigated for Financial Crimes",
-        "link": "https://www.tmtpost.com/7645654.html",
-        "published_date": "Fri, 01 Aug 2025 16:16:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.869165"
-      },
-      "b24aa28a8dda0294e321e259cb6783896b8252fefcae6d48fe63d7a099ed0217": {
-        "title": "从“丑拖鞋”卖到145美元，看1688如何借AI重构B2B电商",
-        "link": "https://www.tmtpost.com/7645598.html",
-        "published_date": "Fri, 01 Aug 2025 16:10:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634982"
-      },
-      "88fd4322666601cd41b968347600cdbcc3cb5382e46f304f2ad2d1e7322d1124": {
-        "title": "上半年创投圈5大“怪象”｜暨2025年H1先锋榜发布",
-        "link": "https://www.tmtpost.com/7645495.html",
-        "published_date": "Fri, 01 Aug 2025 16:09:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.869775"
-      },
-      "85bf4243f5a9a9242f7369464c9b545bb5e3745cd4d441372924bb4797e562ac": {
-        "title": "Meta Stock Jumps 11% to Record on Huge Q2 Earnings Beat, Capex Outlook Higher",
-        "link": "https://www.tmtpost.com/7645588.html",
-        "published_date": "Fri, 01 Aug 2025 15:48:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.635003"
-      },
-      "4e6d246e0322cd0eca25b3641bd5c42dce3d3f561b5a67d98d6d5a8bcc4e7b09": {
-        "title": "腾讯、京东，争当具身智能的“大脑构建者”",
-        "link": "https://www.tmtpost.com/7645329.html",
-        "published_date": "Fri, 01 Aug 2025 15:38:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634897"
-      },
-      "86fb314235bbed21f1dcae2dbbbd77753eced0a0e494f64015832908b0f9d72e": {
-        "title": "8月1日A股分析：沪指跌0.37%报3559.95点，两市合计成交15983.51亿元，资金流出最多的行业板块为半导体",
-        "link": "https://www.tmtpost.com/7645525.html",
-        "published_date": "Fri, 01 Aug 2025 15:10:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.871889"
-      },
-      "275d985f0f75e1b760c84595e06289ac67f6a1fdc85044818d5b9f3dca84d9a1": {
-        "title": "ByteDance's Volcano Engine Supercharges AI Offerings With Major Model Upgrades and New Agent Ecosystem",
-        "link": "https://www.tmtpost.com/7645516.html",
-        "published_date": "Fri, 01 Aug 2025 15:01:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634920"
-      },
-      "630a9f07bdb9849b936c1802c7f88ae209f49fc1e6464a26ad545c049cc876a0": {
-        "title": "海底捞想突破天花板",
-        "link": "https://www.tmtpost.com/7644637.html",
-        "published_date": "Fri, 01 Aug 2025 15:00:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.873808"
-      },
-      "f4e3d9e62eaebcec38078fdc52a837003bf99cd7d168ab2fbe7af64a8e5c2fc2": {
-        "title": "Microsoft Market Value Tops $4 Trillion at Midday Following Blockbuster Earnings for June Quarter",
-        "link": "https://www.tmtpost.com/7645501.html",
-        "published_date": "Fri, 01 Aug 2025 14:51:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634993"
-      },
-      "7b0d7b13df009a3ee8f712ed1ee175e669de50b0d65e1dca5a67f739dde68cf0": {
-        "title": "AI颠覆算力架构，绿色化和算网建设是关键丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7645435.html",
-        "published_date": "Fri, 01 Aug 2025 14:46:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634932"
-      },
-      "e297dc275f03919767324e1f7711e150005d60db8c03cb727e8b3025244af370": {
-        "title": "币圈大佬孙宇晨：豪赌纳斯达克，又转身飞向太空？",
-        "link": "https://www.tmtpost.com/7645187.html",
-        "published_date": "Fri, 01 Aug 2025 14:34:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.877079"
-      },
-      "d321285cc02783c27e5c5bc51cff155f8d48ffc2ae3a4d91945156bcdbd7135e": {
-        "title": "从“老场景”的“新解法”下手，突破Agent落地难题| 2025 ITValue Summit前瞻WAIC现场版：AI落地指南系列",
-        "link": "https://www.tmtpost.com/7644306.html",
-        "published_date": "Fri, 01 Aug 2025 14:33:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634960"
-      },
-      "0cc1d87b342ffe3d8b4c51a74358678e9078caa4c68560d67fa589532e1d18c6": {
-        "title": "如何在企业中大规模应用Agent？｜2025 ITValue Summit 前瞻对话「AI落地指南特别篇」②",
-        "link": "https://www.tmtpost.com/7643756.html",
-        "published_date": "Fri, 01 Aug 2025 14:31:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634971"
-      },
-      "b4ffee4500df1b7463f8395f871986a03295ce29abdd0dc901f0be7bbbb1d998": {
-        "title": "这场舆论战，爱康不得不赢",
-        "link": "https://www.tmtpost.com/7645123.html",
-        "published_date": "Fri, 01 Aug 2025 13:56:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.880800"
-      },
-      "94cba5e516da843a43edb825cde093d9259d1f569db0067cd0626f492262b447": {
-        "title": "外卖大战熄火了？底层逻辑与未来又是什么",
-        "link": "https://www.tmtpost.com/7645193.html",
-        "published_date": "Fri, 01 Aug 2025 13:56:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.881468"
-      },
-      "3a1e4c30787e052847badfb1de650731a4b6ef5dcde5f7c3b7ebf37874187959": {
-        "title": "CATL Posts 33% Profit Jump, But Mixed Business Signals and Strategic Uncertainty Weigh on Market",
-        "link": "https://www.tmtpost.com/7645420.html",
-        "published_date": "Fri, 01 Aug 2025 13:40:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.635013"
-      },
-      "491771957d801c0adfb5be4f3215e976b0c5e6925313edf0d88d194beb292f08": {
-        "title": "未来的弹幕会全是AI发的吗？我们做了个危险实验",
-        "link": "http://www.huxiu.com/article/4642423.html?f=wangzhan",
-        "published_date": "Fri, 01 Aug 2025 15:10:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.885085"
-      },
-      "b0926f529298840b224fd45641011cdb311dde3460978c91422c565b5b3dc108": {
-        "title": "国际乐园为何纷纷“落户”上海？",
-        "link": "http://www.huxiu.com/article/4642456.html?f=wangzhan",
-        "published_date": "Fri, 01 Aug 2025 14:45:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.885896"
-      },
-      "f6817f089203a946616394c55a3ef4eafe387fb603d544e7cef5fb5258725be6": {
-        "title": "成为近现代最成功的僧人，释永信只差了最后一步？",
-        "link": "http://www.huxiu.com/article/4639828.html?f=wangzhan",
-        "published_date": "Fri, 01 Aug 2025 10:39:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.886737"
-      },
-      "96cca573aa21a2dfe14fae4b1ca3607d376ee08b39224280c26c7dc1bb198fea": {
-        "title": "微软亚洲研究院机器学习组首席研究员刘炜清确认出席 AICon 深圳，分享由生成式基础模型驱动的金融市场仿真引擎",
-        "link": "https://www.infoq.cn/article/msHx9Qe5dQSMFk6CFBvN?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 01 Aug 2025 15:00:00 GMT",
-        "first_seen": "2025-08-01T08:32:07.634946"
-      },
-      "994c2f70f2fc9c33a7bfd08ae283e5a9a86af1df15093ae44a804a59378a8df7": {
-        "title": "离职 10 年后，我又回到少数派了",
-        "link": "https://sspai.com/post/101404",
-        "published_date": "Fri, 01 Aug 2025 14:29:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.889378"
-      },
-      "eefe2410a7eb4cf9a78a896963df3ed8847c1e7c9ab8c8b4313c162efb63bf67": {
-        "title": "The Best Sex Toys (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/gallery/best-sex-toys-and-tech/",
-        "published_date": "Fri, 01 Aug 2025 08:00:00 GMT",
-        "first_seen": "2025-08-01T08:31:41.891413"
-      },
       "cbcc3abd02a949b600e1d5191acb8cac15c672f18be6afa982bd15252f1c71c3": {
         "title": "Amazon eyes ads and upcharges for Alexa Plus",
         "link": "https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans",
@@ -22802,6 +22676,102 @@
         "link": "https://sspai.com/post/102195",
         "published_date": "Sun, 31 Aug 2025 15:00:00 GMT",
         "first_seen": "2025-08-31T08:23:13.299038"
+      },
+      "e53d9374069bf760db38efdb3d278f5e3ca60f1cbc75b6efda3564d545fe102d": {
+        "title": "Best Labor Day Mattress Sales (2025)",
+        "link": "https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/",
+        "published_date": "Sun, 31 Aug 2025 22:06:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785009"
+      },
+      "3cbcc0b46b62644d9253b81b3eb55f2abaadac3245f0ffbf911134900fd9dccf": {
+        "title": "The 71 Best Deals From REI’s 2025 Labor Day Sale",
+        "link": "https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/",
+        "published_date": "Sun, 31 Aug 2025 14:11:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785026"
+      },
+      "06a6b5d1e72f49b05de62973f7458eb6d9b2a36a7eae0183e461763dc61351b5": {
+        "title": "Key Pixel Settings to Change on Your Google Phone",
+        "link": "https://www.wired.com/story/key-pixel-settings-to-change-on-your-google-phone/",
+        "published_date": "Sun, 31 Aug 2025 14:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785038"
+      },
+      "1c907bf11dd898f98d8e98330115fbaaaabe91dcf1ac5edb756b713c8983b2cc": {
+        "title": "Best Handheld Fan and Wearable Fan (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-handheld-fans/",
+        "published_date": "Sun, 31 Aug 2025 14:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785051"
+      },
+      "48fba272d0294ca1002e7a632a51e949aee6016c674cad9384cd7ff420a43a0d": {
+        "title": "How to Set Up Your New Android Phone (2025)",
+        "link": "https://www.wired.com/story/how-to-set-up-your-new-android-phone/",
+        "published_date": "Sun, 31 Aug 2025 13:30:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785061"
+      },
+      "f89a5261664e426a23f07edfd8de3b3a4e3d738714a5bbace235658a3f2b1b29": {
+        "title": "How to Clean a TV Screen or Computer Monitor",
+        "link": "https://www.wired.com/story/how-to-clean-a-tv-screen/",
+        "published_date": "Sun, 31 Aug 2025 13:06:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785070"
+      },
+      "3c5d3388518ceac399813ddcb44b88d28315a527a72a0977f8c0be1893d071da": {
+        "title": "These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks",
+        "link": "https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/",
+        "published_date": "Sun, 31 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785081"
+      },
+      "06f402ccc6265631f47014db78c7d358fe2e5fe4878145b965f7c4a7bccd3669": {
+        "title": "These Newly Discovered Cells Breathe in Two Ways",
+        "link": "https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/",
+        "published_date": "Sun, 31 Aug 2025 11:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785090"
+      },
+      "a0efcccf69bbc64b1c0294435ec3b3a996ab86ec6543a011c44eb2c6614eb5a8": {
+        "title": "Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act",
+        "link": "https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/",
+        "published_date": "Sun, 31 Aug 2025 10:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.785101"
+      },
+      "755298d89df3d1a17d11fd50b446db8da5b58357ae701c5a8d8f30fc931da331": {
+        "title": "Chatbots can be manipulated through flattery and peer pressure",
+        "link": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
+        "published_date": "Sun, 31 Aug 2025 21:06:00 GMT",
+        "first_seen": "2025-08-31T23:22:57.484576"
+      },
+      "ae09192b4ea35b601b0eb4e6a6d3331a96d620a6ad4d26d11975d591d410a289": {
+        "title": "The Verge’s favorite gifts for book lovers",
+        "link": "https://www.theverge.com/tech/761931/book-lovers-gadgets-tech-gift-guide-ideas-unique-holiday",
+        "published_date": "Sun, 31 Aug 2025 15:00:00 GMT",
+        "first_seen": "2025-08-31T23:22:57.485756"
+      },
+      "a0dae9971d788d02540b2807b61c2be0af469699a2c0403b863726da7efa2661": {
+        "title": "Meta is struggling to rein in its AI chatbots",
+        "link": "https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors",
+        "published_date": "Sun, 31 Aug 2025 14:17:00 GMT",
+        "first_seen": "2025-08-31T23:22:57.487050"
+      },
+      "755dc16f5f5197b6c49475dddf4578b03d28b6382514a255e5d42df3492a890b": {
+        "title": "AI agents are science fiction not yet ready for primetime",
+        "link": "https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do",
+        "published_date": "Sun, 31 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-31T23:22:57.488890"
+      },
+      "1706511f517fd05b34e1083e15821909b8c11564a596bf1fa4d2d4820c42b7f4": {
+        "title": "十年足球梦断后，星辉娱乐游戏“赔本赚吆喝”几时休？ | 看财报",
+        "link": "https://www.tmtpost.com/7678293.html",
+        "published_date": "Sun, 31 Aug 2025 21:02:00 GMT",
+        "first_seen": "2025-08-31T23:22:57.489859"
+      },
+      "fd4ebf6766ac7a2144761c51a728082fae4e3b6e9aaa4728e3e09ca2ac6ee3fe": {
+        "title": "宝济药业再闯港交所：业绩亏损但高管大涨薪，关键产品遭合作方“退货”",
+        "link": "https://www.tmtpost.com/7678232.html",
+        "published_date": "Sun, 31 Aug 2025 20:40:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.784977"
+      },
+      "e32fbfc26a353c5abc5d1f01b84c29876f237cbcee87722878579ffabcd9e523": {
+        "title": "比 996 还狠！让面试者8小时复刻出自家Devin，创始人直言：受不了高强度就别来",
+        "link": "https://www.infoq.cn/article/C1Y2Je2jHRpvZxPQ4oX6?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 31 Aug 2025 18:00:00 GMT",
+        "first_seen": "2025-08-31T23:22:57.492299"
       }
     },
     "Finance": {
@@ -26008,12 +25978,36 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f5e9e6e7-d67d-45a1-95ba-5bb597036469&mod=mw_rss_bulletins",
         "published_date": "Sat, 30 Aug 2025 13:16:00 GMT",
         "first_seen": "2025-08-30T23:18:27.428690"
+      },
+      "6857fe02881f84c015aba1b9c9564aba822307d09ffd8662140e9791e912a0a8": {
+        "title": "Feeling Powerball fever as the jackpot hits $1.1 billion? This former lottery addict who lost around $1 million has a warning for you.",
+        "link": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
+        "published_date": "Sun, 31 Aug 2025 16:19:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.906244"
+      },
+      "da38dd98d764edb87428ac77a32e53246ba0d3824b6d4204b749b32507599aef": {
+        "title": "Why investors should brace for ‘extreme sensitivity’ in the stock market around this week’s jobs data",
+        "link": "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779?mod=mw_rss_topstories",
+        "published_date": "Sun, 31 Aug 2025 16:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.906764"
+      },
+      "367d7f9a9e7618f3ca4405d14666c071bbfd13981672b98901db0085ba9b5097": {
+        "title": "Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?",
+        "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
+        "published_date": "Sun, 31 Aug 2025 12:27:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.907441"
+      },
+      "93853aa8ac81eda280d39afe8f084a71f04d4ef954de24dd8ab87792af2f61d6": {
+        "title": "Here’s what’s worth streaming in September 2025 on Netflix, Hulu, HBO Max and more",
+        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories",
+        "published_date": "Sun, 31 Aug 2025 12:00:00 GMT",
+        "first_seen": "2025-08-31T23:23:45.908529"
       }
     }
   },
   "last_update": {
-    "AI": "2025-08-31T08:23:13.407834",
-    "Technology": "2025-08-31T08:23:13.343495",
-    "Finance": "2025-08-31T08:23:13.423547"
+    "AI": "2025-08-31T23:23:45.896337",
+    "Technology": "2025-08-31T23:23:45.825048",
+    "Finance": "2025-08-31T23:23:45.915824"
   }
 }

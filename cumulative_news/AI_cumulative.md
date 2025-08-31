@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-08-31 08:22
+**最后更新时间**: 2025-08-31 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-31 23:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [那天，AI大模型想起了，被「失忆」所束缚的枷锁](https://www.jiqizhixin.com/articles/2025-08-31-8)
+**发布时间**: 2025-08-31 18:19
+
+#### [LLM也具有身份认同？当LLM发现博弈对手是自己时，行为变化了](https://www.jiqizhixin.com/articles/2025-08-31-7)
+**发布时间**: 2025-08-31 18:08
+
+#### [AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准](https://www.jiqizhixin.com/articles/2025-08-31-6)
+**发布时间**: 2025-08-31 18:03
+
+#### [混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头](https://www.jiqizhixin.com/articles/2025-08-31-5)
+**发布时间**: 2025-08-31 17:59
+
+#### [这个荒诞网站藏着30个AI「鬼点子」，但我觉得它活不长](https://www.jiqizhixin.com/articles/2025-08-31-4)
+**发布时间**: 2025-08-31 17:56
+
+#### [R-Zero 深度解析：无需人类数据，AI 如何实现自我进化？](https://www.jiqizhixin.com/articles/2025-08-31-3)
+**发布时间**: 2025-08-31 17:51
+
+#### [DeepSeek、GPT-5带头转向混合推理，一个token也不能浪费](https://www.jiqizhixin.com/articles/2025-08-31-2)
+**发布时间**: 2025-08-31 17:43
+
+#### [CodeAgent 2.0 时代开启｜GitTaskBench，颠覆性定义代码智能体实战交付新标准](https://www.jiqizhixin.com/articles/2025-08-31)
+**发布时间**: 2025-08-31 17:34
 
 ---
 

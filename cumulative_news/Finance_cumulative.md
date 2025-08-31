@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-30 23:17
+**最后更新时间**: 2025-08-31 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-31 23:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Feeling Powerball fever as the jackpot hits $1.1 billion? This former lottery addict who lost around $1 million has a warning for you.](https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories)
+**发布时间**: 2025-08-31 16:19
+
+#### [Why investors should brace for ‘extreme sensitivity’ in the stock market around this week’s jobs data](https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779?mod=mw_rss_topstories)
+**发布时间**: 2025-08-31 16:00
+
+#### [Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories)
+**发布时间**: 2025-08-31 12:27
+
+#### [Here’s what’s worth streaming in September 2025 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories)
+**发布时间**: 2025-08-31 12:00
 
 ---
 

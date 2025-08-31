@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-31 08:23
+**最后更新时间**: 2025-08-31 23:22
+
+---
+
+## 🆕 最新更新 (2025-08-31 23:22)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Best Labor Day Mattress Sales (2025)](https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/)
+**发布时间**: 2025-08-31 22:06
+
+#### [The 71 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+**发布时间**: 2025-08-31 14:11
+
+#### [Key Pixel Settings to Change on Your Google Phone](https://www.wired.com/story/key-pixel-settings-to-change-on-your-google-phone/)
+**发布时间**: 2025-08-31 14:00
+
+#### [Best Handheld Fan and Wearable Fan (2025), Tested and Reviewed](https://www.wired.com/gallery/best-handheld-fans/)
+**发布时间**: 2025-08-31 14:00
+
+#### [How to Set Up Your New Android Phone (2025)](https://www.wired.com/story/how-to-set-up-your-new-android-phone/)
+**发布时间**: 2025-08-31 13:30
+
+#### [How to Clean a TV Screen or Computer Monitor](https://www.wired.com/story/how-to-clean-a-tv-screen/)
+**发布时间**: 2025-08-31 13:06
+
+#### [These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks](https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/)
+**发布时间**: 2025-08-31 12:00
+
+#### [These Newly Discovered Cells Breathe in Two Ways](https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/)
+**发布时间**: 2025-08-31 11:00
+
+#### [Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act](https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/)
+**发布时间**: 2025-08-31 10:00
+
+#### [Extreme Heat Makes Your Body Age Faster](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)
+**发布时间**: 2025-08-30 12:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Chatbots can be manipulated through flattery and peer pressure](https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure)
+**发布时间**: 2025-08-31 21:06
+
+#### [The Verge’s favorite gifts for book lovers](https://www.theverge.com/tech/761931/book-lovers-gadgets-tech-gift-guide-ideas-unique-holiday)
+**发布时间**: 2025-08-31 15:00
+
+#### [Meta is struggling to rein in its AI chatbots](https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors)
+**发布时间**: 2025-08-31 14:17
+
+#### [AI agents are science fiction not yet ready for primetime](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do)
+**发布时间**: 2025-08-31 12:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [十年足球梦断后，星辉娱乐游戏“赔本赚吆喝”几时休？ | 看财报](https://www.tmtpost.com/7678293.html)
+**发布时间**: 2025-08-31 21:02
+
+#### [宝济药业再闯港交所：业绩亏损但高管大涨薪，关键产品遭合作方“退货”](https://www.tmtpost.com/7678232.html)
+**发布时间**: 2025-08-31 20:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [比 996 还狠！让面试者8小时复刻出自家Devin，创始人直言：受不了高强度就别来](https://www.infoq.cn/article/C1Y2Je2jHRpvZxPQ4oX6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-31 18:00
 
 ---
 
