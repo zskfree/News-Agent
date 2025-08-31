@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-30 23:17
+**最后更新时间**: 2025-08-31 05:18
+
+---
+
+## 🆕 最新更新 (2025-08-31 05:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当FDA超级加倍重视OS](https://www.tmtpost.com/7678109.html)
+**发布时间**: 2025-08-31 12:11
+
+#### [华为大战三星，苹果慢跑入场，折叠屏“软件定义硬件”时代要来了](https://www.tmtpost.com/7678059.html)
+**发布时间**: 2025-08-31 10:12
+
+#### [60+AI创新领袖新加坡论剑，三大维度突围构造全球AI新格局](https://www.tmtpost.com/7676846.html)
+**发布时间**: 2025-08-31 09:58
+
+#### [为何市场愿为淘宝闪购买单？一份远超财报的路线图](https://www.tmtpost.com/7678017.html)
+**发布时间**: 2025-08-31 09:57
+
+#### [阿里抬了京东一把](https://www.tmtpost.com/7677976.html)
+**发布时间**: 2025-08-31 09:33
+
+#### [自有品牌，正把传统商超推进“火坑”](https://www.tmtpost.com/7677981.html)
+**发布时间**: 2025-08-31 09:33
+
+#### [程序员创业，雷军投资上亿，招聘界“拼多多”瞄准4亿打工人](https://www.tmtpost.com/7677956.html)
+**发布时间**: 2025-08-31 09:04
+
+#### [美团想熄火，阿里不答应](https://www.tmtpost.com/7677963.html)
+**发布时间**: 2025-08-31 09:04
+
+#### [阿里填弹，蒋凡瞄准](https://www.tmtpost.com/7677949.html)
+**发布时间**: 2025-08-31 08:46
+
+#### [蔚来和梵高，在“星夜”下共鸣](https://www.tmtpost.com/7678040.html)
+**发布时间**: 2025-08-31 08:17
+
+#### [诺基亚的剧本，BBA在中国接着演？｜钛度车库](https://www.tmtpost.com/7677721.html)
+**发布时间**: 2025-08-31 08:13
+
+#### [亚朵Q2：枕头卖爆之后，酒店还香吗？](https://www.tmtpost.com/7677916.html)
+**发布时间**: 2025-08-31 08:12
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [小红书 FinOps 实践：云成本优化与资源效率提升之道](https://www.infoq.cn/article/vr33DgXBguYXO0NooUYU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-31 11:59
+
+#### [极客邦科技霍太稳荣膺 “中国企业培训行业 20 年特别贡献人物”：以 AI 人才培养破局企业数智化转型](https://www.infoq.cn/article/oXWlAafoTygIk0lWwOaB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-31 08:50
+
+#### [Crossplane 2.0 发布：在云基础设施之上全面支持应用管理](https://www.infoq.cn/article/04iDCNX58mCLQo2NRezg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-08-31 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [李斌：用户不买蔚来40%原因怕倒闭；SpaceX 首个「30 手」火箭诞生；地平线征程智驾芯片突破 1000 万套](http://www.geekpark.net/news/353265)
+**发布时间**: 2025-08-31 07:56
 
 ---
 
