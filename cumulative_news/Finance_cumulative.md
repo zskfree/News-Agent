@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-01 08:29
+**最后更新时间**: 2025-09-01 23:23
+
+---
+
+## 🆕 最新更新 (2025-09-01 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold prices hit all-time high on rising uncertainty, while U.S. stock futures little changed](https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 23:16
+
+#### [September is historically the worst month of the year for stocks. Why this time could be different.](https://www.marketwatch.com/story/september-is-historically-the-worst-month-of-the-year-for-stocks-why-this-time-could-be-different-cd7260f5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 21:50
+
+#### [Nestlé fires CEO Laurent Freixe after less than a year over workplace affair](https://www.marketwatch.com/story/nestle-fires-ceo-laurent-freixe-after-less-than-a-year-over-workplace-affair-977566b4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 20:11
+
+#### [This Wall Street heavyweight predicts interest rates could go even lower than markets think](https://www.marketwatch.com/story/this-wall-st-heavyweight-predicts-interest-rates-could-go-even-lower-than-markets-think-879a4748?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 19:22
+
+#### [This ‘twice in a lifetime’ opportunity means the S&P 500 can hit 7,750 by end of next year](https://www.marketwatch.com/story/this-twice-in-a-lifetime-opportunity-means-the-s-p-500-can-hit-7-750-by-end-of-next-year-0c3a8957?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 19:15
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Here’s what’s worth streaming in September on Netflix, Hulu, HBO Max & more](https://www.marketwatch.com/bulletins/redirect/go?g=70832fc2-039f-4ef9-b502-871329a20537&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-01 23:11
+
+#### [Gold prices hit all-time high on rising uncertainty; U.S. stock futures flat](https://www.marketwatch.com/bulletins/redirect/go?g=c7e63ad4-b486-444a-90c2-cb0338537329&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-01 22:22
+
+#### [September is historically bad for stocks. Why this time could be different.](https://www.marketwatch.com/bulletins/redirect/go?g=dd5dabe5-4374-4b0e-a8f8-d0942a007612&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-01 21:40
+
+#### [Why this strategist thinks the S&P 500 can hit 7,750 by end of next year](https://www.marketwatch.com/bulletins/redirect/go?g=b4a88f1a-0dc9-4b2a-b49f-6de996c4efd3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-01 19:24
 
 ---
 

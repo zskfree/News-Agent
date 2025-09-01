@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Sep 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2025 08:30:31 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 23:24:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-01-6</link>
-      <description>&lt;![CDATA[NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-6</guid>
+      <title>开学了：入门AI，可以从这第一课开始</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-01-8</link>
+      <description>&lt;![CDATA[开学了：入门AI，可以从这第一课开始]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-01-5</link>
-      <description>&lt;![CDATA[DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-5</guid>
+      <title>OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-01-7</link>
+      <description>&lt;![CDATA[OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>把实验与计算「缝」到一张「地图」上：AI让材料发现路线更直观、可解释</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-01-4</link>
-      <description>&lt;![CDATA[把实验与计算「缝」到一张「地图」上：AI让材料发现路线更直观、可解释]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-4</guid>
+      <title>The Download: AI doppelgängers in the workplace, and using lidar to measure climate disasters</title>
+      <link>https://www.technologyreview.com/2025/09/01/1122863/the-download-ai-doppelgangers-in-the-workplace-and-using-lidar-to-measure-climate-disasters/</link>
+      <description>&lt;![CDATA[The Download: AI doppelgängers in the workplace, and using lidar to measure climate disasters]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/01/1122863/the-download-ai-doppelgangers-in-the-workplace-and-using-lidar-to-measure-climate-disasters/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Meta和Scale AI闹翻！砸143亿买的高管跑路，业务也合作不下去</title>
-      <link>https://www.qbitai.com/2025/09/327884.html</link>
-      <description>&lt;![CDATA[Meta和Scale AI闹翻！砸143亿买的高管跑路，业务也合作不下去]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 06:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327884.html</guid>
+      <title>Here’s how we picked this year’s Innovators Under 35</title>
+      <link>https://www.technologyreview.com/2025/09/01/1122458/innovators-under-35-2025/</link>
+      <description>&lt;![CDATA[Here’s how we picked this year’s Innovators Under 35]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/01/1122458/innovators-under-35-2025/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>连赛力斯营收都下滑了</title>
+      <link>https://www.qbitai.com/2025/09/327994.html</link>
+      <description>&lt;![CDATA[连赛力斯营收都下滑了]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327994.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Claude翻车：Opus 4.1白天退化，Anthropic承认并回滚更新</title>
+      <link>https://www.qbitai.com/2025/09/327960.html</link>
+      <description>&lt;![CDATA[Claude翻车：Opus 4.1白天退化，Anthropic承认并回滚更新]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327960.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一句“吴恩达说的”，就能让GPT-4o mini言听计从</title>
+      <link>https://www.qbitai.com/2025/09/327962.html</link>
+      <description>&lt;![CDATA[一句“吴恩达说的”，就能让GPT-4o mini言听计从]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 09:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327962.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-01 08:29
+**最后更新时间**: 2025-09-01 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-01 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [开学了：入门AI，可以从这第一课开始](https://www.jiqizhixin.com/articles/2025-09-01-8)
+**发布时间**: 2025-09-01 17:08
+
+#### [OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论](https://www.jiqizhixin.com/articles/2025-09-01-7)
+**发布时间**: 2025-09-01 16:55
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: AI doppelgängers in the workplace, and using lidar to measure climate disasters](https://www.technologyreview.com/2025/09/01/1122863/the-download-ai-doppelgangers-in-the-workplace-and-using-lidar-to-measure-climate-disasters/)
+**发布时间**: 2025-09-01 12:10
+
+#### [Here’s how we picked this year’s Innovators Under 35](https://www.technologyreview.com/2025/09/01/1122458/innovators-under-35-2025/)
+**发布时间**: 2025-09-01 11:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [连赛力斯营收都下滑了](https://www.qbitai.com/2025/09/327994.html)
+**发布时间**: 2025-09-01 10:19
+
+#### [Claude翻车：Opus 4.1白天退化，Anthropic承认并回滚更新](https://www.qbitai.com/2025/09/327960.html)
+**发布时间**: 2025-09-01 09:19
+
+#### [一句“吴恩达说的”，就能让GPT-4o mini言听计从](https://www.qbitai.com/2025/09/327962.html)
+**发布时间**: 2025-09-01 09:15
+
+#### [GPT-5“变笨”实锤，退休教授出了道井字棋送分题，结果它真送了](https://www.qbitai.com/2025/09/327943.html)
+**发布时间**: 2025-09-01 07:54
 
 ---
 

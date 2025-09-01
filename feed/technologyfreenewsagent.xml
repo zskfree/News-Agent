@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Sep 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2025 08:30:31 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 23:23:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 23:24:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>美团自研大模型开源；百亿级半导体项目正式宣告破产；微信：发布AI生成的内容，用户需主动声明 | AI周报</title>
-      <link>https://www.infoq.cn/article/YRZLdPX0wmL9djd7MuJr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[美团自研大模型开源；百亿级半导体项目正式宣告破产；微信：发布AI生成的内容，用户需主动声明 | AI周报]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YRZLdPX0wmL9djd7MuJr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>The 28 best Labor Day deals you still can grab for $100 or less</title>
+      <link>https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025</link>
+      <description>&lt;![CDATA[The 28 best Labor Day deals you still can grab for $100 or less]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超越氛围编程：亚马逊云科技推出规范驱动的代理AI IDE Kiro</title>
-      <link>https://www.infoq.cn/article/h1uM3VvZZqKo0BPKmWjR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超越氛围编程：亚马逊云科技推出规范驱动的代理AI IDE Kiro]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h1uM3VvZZqKo0BPKmWjR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>The 95 best Labor Day sales happening now</title>
+      <link>https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025</link>
+      <description>&lt;![CDATA[The 95 best Labor Day sales happening now]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何在浏览器内构建一个具身智能平台｜QCon 上海</title>
-      <link>https://www.infoq.cn/article/T3K3XtFWNbqa8L3sgbYC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何在浏览器内构建一个具身智能平台｜QCon 上海]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/T3K3XtFWNbqa8L3sgbYC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Is AI the end of software engineering or the next step in its evolution?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution</link>
+      <description>&lt;![CDATA[Is AI the end of software engineering or the next step in its evolution?]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>技术投入加码高端化战略兑现 赛力斯上半年净利29.4亿！</title>
-      <link>https://www.tmtpost.com/7679120.html</link>
-      <description>&lt;![CDATA[技术投入加码高端化战略兑现 赛力斯上半年净利29.4亿！]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 15:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679120.html</guid>
+      <title>Silksong is only $19.99</title>
+      <link>https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing</link>
+      <description>&lt;![CDATA[Silksong is only $19.99]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AWS 推出搭载定制版 Intel Xeon 6 处理器的内存优化型 EC2 R8i 与 R8i-flex 实例</title>
-      <link>https://www.infoq.cn/article/sooZZZbKBrTxMaMgNMI5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AWS 推出搭载定制版 Intel Xeon 6 处理器的内存优化型 EC2 R8i 与 R8i-flex 实例]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sooZZZbKBrTxMaMgNMI5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>沙特中小企业数量达到1.2万家；Temu登顶巴西电商访问量榜首；义乌文具出口火爆，海外市场订单激增｜一周「出海参考」</title>
+      <link>https://www.tmtpost.com/7679434.html</link>
+      <description>&lt;![CDATA[沙特中小企业数量达到1.2万家；Temu登顶巴西电商访问量榜首；义乌文具出口火爆，海外市场订单激增｜一周「出海参考」]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679434.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>今天起正式施行，AI生成合成内容必须“贴标签”</title>
-      <link>https://www.infoq.cn/article/8WZk1M2cWc4pAWDfCmX7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[今天起正式施行，AI生成合成内容必须“贴标签”]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8WZk1M2cWc4pAWDfCmX7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>洽洽的“成本龙卷风”与渠道断层</title>
+      <link>https://www.tmtpost.com/7679117.html</link>
+      <description>&lt;![CDATA[洽洽的“成本龙卷风”与渠道断层]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679117.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>虚拟智库：运用大语言模型获取多元视角</title>
-      <link>https://www.infoq.cn/article/qspuVD5fWmgq0v3CHrKj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[虚拟智库：运用大语言模型获取多元视角]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qspuVD5fWmgq0v3CHrKj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>股东博弈，岚图上市后能走多远？</title>
+      <link>https://www.tmtpost.com/7679017.html</link>
+      <description>&lt;![CDATA[股东博弈，岚图上市后能走多远？]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679017.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Opus 4.1 上线，SWE-bench 验证率 74.5%，重构可靠性与安全性全面升级</title>
-      <link>https://www.infoq.cn/article/QsYmF8B6vTyY9u0KBFQT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Opus 4.1 上线，SWE-bench 验证率 74.5%，重构可靠性与安全性全面升级]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QsYmF8B6vTyY9u0KBFQT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>丁世忠的“大冒险”：激进并购、出海承压、李宁夹击</title>
+      <link>https://www.tmtpost.com/7678988.html</link>
+      <description>&lt;![CDATA[丁世忠的“大冒险”：激进并购、出海承压、李宁夹击]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7678988.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>JDK 25和JDK 26的最新进展</title>
-      <link>https://www.infoq.cn/article/4cxHYvAurH0xOpmw3dzt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[JDK 25和JDK 26的最新进展]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4cxHYvAurH0xOpmw3dzt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中报再度亏损，揭秘“AI第一股”科大讯飞利润消失之谜</title>
+      <link>https://www.tmtpost.com/7679128.html</link>
+      <description>&lt;![CDATA[中报再度亏损，揭秘“AI第一股”科大讯飞利润消失之谜]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679128.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>外卖专营店占餐饮门店总量仅5.78%，主要集中高线城市</title>
-      <link>https://www.tmtpost.com/7679071.html</link>
-      <description>&lt;![CDATA[外卖专营店占餐饮门店总量仅5.78%，主要集中高线城市]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679071.html</guid>
+      <title>幽灵外卖店，用AI门头照撑门面</title>
+      <link>https://www.tmtpost.com/7679338.html</link>
+      <description>&lt;![CDATA[幽灵外卖店，用AI门头照撑门面]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679338.html</guid>
       <category>Technology</category>
     </item>
   </channel>

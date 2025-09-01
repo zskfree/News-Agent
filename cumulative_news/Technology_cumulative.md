@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-01 08:29
+**最后更新时间**: 2025-09-01 23:23
+
+---
+
+## 🆕 最新更新 (2025-09-01 23:23)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
+**发布时间**: 2025-09-01 20:17
+
+#### [The 95 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+**发布时间**: 2025-09-01 18:47
+
+#### [Is AI the end of software engineering or the next step in its evolution?](https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution)
+**发布时间**: 2025-09-01 11:00
+
+#### [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)
+**发布时间**: 2025-09-01 09:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [沙特中小企业数量达到1.2万家；Temu登顶巴西电商访问量榜首；义乌文具出口火爆，海外市场订单激增｜一周「出海参考」](https://www.tmtpost.com/7679434.html)
+**发布时间**: 2025-09-01 20:06
+
+#### [洽洽的“成本龙卷风”与渠道断层](https://www.tmtpost.com/7679117.html)
+**发布时间**: 2025-09-01 19:04
+
+#### [股东博弈，岚图上市后能走多远？](https://www.tmtpost.com/7679017.html)
+**发布时间**: 2025-09-01 19:03
+
+#### [丁世忠的“大冒险”：激进并购、出海承压、李宁夹击](https://www.tmtpost.com/7678988.html)
+**发布时间**: 2025-09-01 18:59
+
+#### [中报再度亏损，揭秘“AI第一股”科大讯飞利润消失之谜](https://www.tmtpost.com/7679128.html)
+**发布时间**: 2025-09-01 18:51
+
+#### [幽灵外卖店，用AI门头照撑门面](https://www.tmtpost.com/7679338.html)
+**发布时间**: 2025-09-01 18:51
+
+#### [舍得“老酒”，何时“飘香”?](https://www.tmtpost.com/7679364.html)
+**发布时间**: 2025-09-01 18:51
+
+#### [亚马逊持续猛攻广告业](https://www.tmtpost.com/7679415.html)
+**发布时间**: 2025-09-01 18:51
+
+#### [【生态环境周观察】中央首份碳市场文件出炉；阳光电源拟赴港上市；宁德时代与中石油联合成立储能公司](https://www.tmtpost.com/7678605.html)
+**发布时间**: 2025-09-01 17:37
+
+#### [优必选上半年营收超6亿元，全年人形机器人产能预计超1000台](https://www.tmtpost.com/7678255.html)
+**发布时间**: 2025-09-01 17:34
+
+#### [即时零售巨头鏖战，抖音旁观？](https://www.tmtpost.com/7679250.html)
+**发布时间**: 2025-09-01 17:09
+
+#### [三大国货美妆品牌冲刺10亿](https://www.tmtpost.com/7679241.html)
+**发布时间**: 2025-09-01 17:05
+
+#### [滴滴做会员，为什么难？](https://www.tmtpost.com/7679249.html)
+**发布时间**: 2025-09-01 17:05
+
+#### [工厂成新晋网红景点，传统景区慌不慌？](https://www.tmtpost.com/7679266.html)
+**发布时间**: 2025-09-01 17:05
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [快手的 2025：一个4亿人社区的新陈代谢，与2600万人的变现之路](http://www.geekpark.net/news/353367)
+**发布时间**: 2025-09-01 20:04
+
+#### [中国电竞，已经是 Next Level！](http://www.geekpark.net/news/353342)
+**发布时间**: 2025-09-01 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里云 CIO 蒋林泉：AI 大模型时代，我们如何用 RIDE 实现 RaaS 的首次落地？](https://www.infoq.cn/article/MvIkcD33hQ1ICV95I0oT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 19:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/102228)
+**发布时间**: 2025-09-01 18:03
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 79 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+**发布时间**: 2025-09-01 14:47
+
+#### [62 Best Labor Day Sales on Gear We've Tested—Just a Few Hours Left](https://www.wired.com/story/best-labor-day-sales-deals-2025-2/)
+**发布时间**: 2025-09-01 14:45
+
+#### [Urban Arrow FamilyNext Pro Review: The Perfect Family Bike](https://www.wired.com/review/urban-arrow-familynext-pro/)
+**发布时间**: 2025-09-01 12:00
+
+#### [Magnesium Supplements Crash Course: Benefits and Side Effects](https://www.wired.com/story/what-are-magnesium-supplements-good-for/)
+**发布时间**: 2025-09-01 12:00
+
+#### [Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America](https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/)
+**发布时间**: 2025-09-01 11:00
+
+#### [China Is About to Show Off Its New High-Tech Weapons to the World](https://www.wired.com/story/china-victory-day-parade-weapons/)
+**发布时间**: 2025-09-01 10:30
+
+#### [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)
+**发布时间**: 2025-09-01 10:00
 
 ---
 
