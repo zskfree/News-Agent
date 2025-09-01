@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-01 05:20
+**最后更新时间**: 2025-09-01 08:29
+
+---
+
+## 🆕 最新更新 (2025-09-01 08:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [美团自研大模型开源；百亿级半导体项目正式宣告破产；微信：发布AI生成的内容，用户需主动声明 | AI周报](https://www.infoq.cn/article/YRZLdPX0wmL9djd7MuJr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 16:22
+
+#### [AWS 推出搭载定制版 Intel Xeon 6 处理器的内存优化型 EC2 R8i 与 R8i-flex 实例](https://www.infoq.cn/article/sooZZZbKBrTxMaMgNMI5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 16:00
+
+#### [今天起正式施行，AI生成合成内容必须“贴标签”](https://www.infoq.cn/article/8WZk1M2cWc4pAWDfCmX7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 15:34
+
+#### [虚拟智库：运用大语言模型获取多元视角](https://www.infoq.cn/article/qspuVD5fWmgq0v3CHrKj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 15:30
+
+#### [Claude Opus 4.1 上线，SWE-bench 验证率 74.5%，重构可靠性与安全性全面升级](https://www.infoq.cn/article/QsYmF8B6vTyY9u0KBFQT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 15:00
+
+#### [JDK 25和JDK 26的最新进展](https://www.infoq.cn/article/4cxHYvAurH0xOpmw3dzt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 14:30
+
+#### [超越氛围编程：亚马逊云科技推出规范驱动的代理AI IDE Kiro](https://www.infoq.cn/article/h1uM3VvZZqKo0BPKmWjR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 14:03
+
+#### [如何在浏览器内构建一个具身智能平台｜QCon 上海](https://www.infoq.cn/article/T3K3XtFWNbqa8L3sgbYC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-01 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [外卖专营店占餐饮门店总量仅5.78%，主要集中高线城市](https://www.tmtpost.com/7679071.html)
+**发布时间**: 2025-09-01 16:00
+
+#### [Reelshort做短剧恋综：40人“恋爱配对”，拆CP赚＄2000，短剧+综艺红果也在布局，新市场？](https://www.tmtpost.com/7679087.html)
+**发布时间**: 2025-09-01 15:59
+
+#### [一群清华人，与具身智能的四十年](https://www.tmtpost.com/7679181.html)
+**发布时间**: 2025-09-01 15:59
+
+#### [9月1日A股分析：沪指涨0.46%，两市成交缩量至2.75万亿，贵金属板块单日涨幅近9%成最大亮点](https://www.tmtpost.com/7679123.html)
+**发布时间**: 2025-09-01 15:30
+
+#### [海底数据中心，AI时代的能耗最优解？丨ToB产业观察](https://www.tmtpost.com/7678622.html)
+**发布时间**: 2025-09-01 15:30
+
+#### [技术投入加码高端化战略兑现 赛力斯上半年净利29.4亿！](https://www.tmtpost.com/7679120.html)
+**发布时间**: 2025-09-01 15:16
+
+#### [人均40+元，有品牌半年开出200+店，鲜切烤肉要火？](https://www.tmtpost.com/7679073.html)
+**发布时间**: 2025-09-01 15:00
+
+#### [东北烘焙品牌扎堆进京：人均40元，主攻中高端商场](https://www.tmtpost.com/7679072.html)
+**发布时间**: 2025-09-01 14:59
+
+#### [开学账单刷屏，但最让家长肉疼的却不是补习班…](https://www.tmtpost.com/7678997.html)
+**发布时间**: 2025-09-01 14:53
+
+#### [中国儿童餐崛起](https://www.tmtpost.com/7678969.html)
+**发布时间**: 2025-09-01 14:53
+
+#### [让口子窖失速的人，是不是大商](https://www.tmtpost.com/7678972.html)
+**发布时间**: 2025-09-01 14:53
+
+#### [国潮探店：4毛6一个鸡蛋，物美超值，这场赌局值不值？](https://www.tmtpost.com/7679008.html)
+**发布时间**: 2025-09-01 14:53
+
+#### [AI² Robotics Raises Multi-Million-Dollar Series A to Expand Humanoid Robot Production](https://www.tmtpost.com/7679068.html)
+**发布时间**: 2025-09-01 14:53
+
+#### [百度欲从瑞士开启欧洲无人驾驶业务；比亚迪宣布马来西亚建厂并加大印尼投资；京东拟在新加坡设立REIT｜一周大公司出海动态](https://www.tmtpost.com/7677085.html)
+**发布时间**: 2025-09-01 13:52
+
+#### [Apple Set to Join Foldable Market, Challenging Samsung and Huawei](https://www.tmtpost.com/7678965.html)
+**发布时间**: 2025-09-01 13:39
+
+#### [方风雷，携中东PE基金归来，中金入局](https://www.tmtpost.com/7678796.html)
+**发布时间**: 2025-09-01 13:38
+
+#### [俞浩，要像雷军一样造车](https://www.tmtpost.com/7678817.html)
+**发布时间**: 2025-09-01 13:38
+
+#### [半年49笔并购，这个领域凭什么成最火赛道？](https://www.tmtpost.com/7678833.html)
+**发布时间**: 2025-09-01 13:38
+
+#### [2025数博会观察：数据价值已赋能千行百业](https://www.tmtpost.com/7678896.html)
+**发布时间**: 2025-09-01 13:37
+
+#### [Apple与Masimo专利战重开，医疗器械出海需高度警惕](https://www.tmtpost.com/7678837.html)
+**发布时间**: 2025-09-01 13:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [共创 | 深度使用 Notion 七年，这是我的经验、技巧与建议](https://sspai.com/post/102031)
+**发布时间**: 2025-09-01 14:41
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)
+**发布时间**: 2025-09-01 08:00
 
 ---
 

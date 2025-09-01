@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "5ab47ad8c438b062125ac6e0d6fa3b158eb49775a33f29c6e3272a7b88dff191": {
-        "title": "AI Coding如何重构开发，模型×IDE×Agent深度对话｜量子位AI沙龙",
-        "link": "https://www.qbitai.com/2025/08/317231.html",
-        "published_date": "Sat, 02 Aug 2025 04:32:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.340796"
-      },
-      "96716b967e074e7c54f29373a76e37cc3e4aa2f3aef962ec8d5ed8969787ab31": {
-        "title": "AI答IMO难题坦承“不会”，OpenAI：这就是自我意识",
-        "link": "https://www.qbitai.com/2025/08/317220.html",
-        "published_date": "Sat, 02 Aug 2025 04:13:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.340918"
-      },
-      "b39548aae07a43801f46fafc65e381647e7427cf0d1026b3ad7e6b9ae40100ea": {
-        "title": "谷歌IMO金牌模型可以用了！推理性能秒了o3、Grok 4",
-        "link": "https://www.qbitai.com/2025/08/317199.html",
-        "published_date": "Sat, 02 Aug 2025 01:45:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.341151"
-      },
-      "ab4073997ad7e068e7eca3a822d16d00bffd5c311abec5b59701f70e2c7529d9": {
-        "title": "刷新3D生成上限！一键生成精细到毛发的3D资产",
-        "link": "https://www.qbitai.com/2025/08/317416.html",
-        "published_date": "Sat, 02 Aug 2025 05:50:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.744163"
-      },
-      "40e76759bce2d1b073d00fd68eae7453292f47c6f2f5d6c2c49106a7c79e69c9": {
-        "title": "仅用提示词工程摘下IMO金牌！清华校友强强联手新发现，学术界不靠砸钱也能比肩大厂",
-        "link": "https://www.qbitai.com/2025/08/317400.html",
-        "published_date": "Sat, 02 Aug 2025 05:45:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.744309"
-      },
       "956d3f6c0df2f7f058a11d8c2f5a873e268389d810fc852de491968f2c54e3b3": {
         "title": "GPT-5难产，外媒爆料：性能提升不大，OpenAI高管Slack上当众破防",
         "link": "https://www.jiqizhixin.com/articles/2025-08-02-7",
@@ -8940,141 +8910,33 @@
         "link": "https://arxiv.org/abs/2508.21181",
         "published_date": "Mon, 01 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-01T05:21:41.730230"
+      },
+      "fcb9fbbbbf65c4c352f4b9025f914589edf538b76a8358fb2cb55b2f0f5fce70": {
+        "title": "NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-01-6",
+        "published_date": "Mon, 01 Sep 2025 14:23:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.951704"
+      },
+      "83479a46d692bc908196468fae8777063f0e8091858df7f6c2b2f21da2fd7c05": {
+        "title": "DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-01-5",
+        "published_date": "Mon, 01 Sep 2025 14:14:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.951891"
+      },
+      "3e62a3e86b72bcfd37f35fe74241f99d7912f3ff8ba211f9f2f05240abc49f02": {
+        "title": "把实验与计算「缝」到一张「地图」上：AI让材料发现路线更直观、可解释",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-01-4",
+        "published_date": "Mon, 01 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.952122"
+      },
+      "f60178ff8b07a5dd4a5be75e1a20bfdb10c8741aad7046b19c36438b7dc9773a": {
+        "title": "Meta和Scale AI闹翻！砸143亿买的高管跑路，业务也合作不下去",
+        "link": "https://www.qbitai.com/2025/09/327884.html",
+        "published_date": "Mon, 01 Sep 2025 06:51:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.952455"
       }
     },
     "Technology": {
-      "dc469cc4d209845ff800f85f1d58e378bbf7366f55f50881fdacccbfafd8acce": {
-        "title": "AWS云计算还是亚马逊的“现金牛”吗？",
-        "link": "https://www.tmtpost.com/7646025.html",
-        "published_date": "Sat, 02 Aug 2025 13:06:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286127"
-      },
-      "5c67f905505520ad763d7ff3dad4bfdfc7cc200c6cac4140fae998c6422097ec": {
-        "title": "Amazon Stock Dives Over 8% on Cloud Growth Laggard, Soft Profit Outlook",
-        "link": "https://www.tmtpost.com/7646284.html",
-        "published_date": "Sat, 02 Aug 2025 12:28:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286117"
-      },
-      "c633be7559a28b7c08f07df63321453710040f5567c08555dfe92f42ae3ad11f": {
-        "title": "耐克回到起跑线",
-        "link": "https://www.tmtpost.com/7645889.html",
-        "published_date": "Sat, 02 Aug 2025 11:06:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286154"
-      },
-      "b7105c90229f1da349a2fed6b265d8bf33d4bb15041ae680f6af23493ffa2058": {
-        "title": "游学不火了，小学生挤进攀岩馆",
-        "link": "https://www.tmtpost.com/7645951.html",
-        "published_date": "Sat, 02 Aug 2025 09:54:00 GMT",
-        "first_seen": "2025-08-02T05:29:55.033352"
-      },
-      "ef2b0b63425dfa04397ba73e7e69c40a96eabe7567391f6a1a20fad8bf5e886d": {
-        "title": "香港高院披露信托存在，宗庆后最信任的还是宗馥莉",
-        "link": "https://www.tmtpost.com/7646157.html",
-        "published_date": "Sat, 02 Aug 2025 09:24:00 GMT",
-        "first_seen": "2025-08-02T05:29:55.033536"
-      },
-      "d7932de4082e2abcf2b2cf2381448f95a8f85ecbdaa3d813d640843e6de2d48e": {
-        "title": "汽车抬头显示的智能化旅程",
-        "link": "https://www.tmtpost.com/7645342.html",
-        "published_date": "Sat, 02 Aug 2025 09:09:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286136"
-      },
-      "ca85cd2b154b51c3267e7d20b654a29e6e8d7685a3137ff0d3078de4c0b3a681": {
-        "title": "山姆的信任危机，不在于选品",
-        "link": "https://www.tmtpost.com/7643540.html",
-        "published_date": "Sat, 02 Aug 2025 08:20:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286161"
-      },
-      "87b0de0b40a3ba954115dbdbd92a1684614e62233084f6699386a54fc01909ad": {
-        "title": "高德地图副总裁董振宁：未来5—10年，低空经济有希望实现千亿规模",
-        "link": "https://www.tmtpost.com/7645902.html",
-        "published_date": "Sat, 02 Aug 2025 07:57:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286092"
-      },
-      "59cbccce61105dce07f062c148ae88efbf4cfee9254b318255ed9e071cbd09c3": {
-        "title": "谷歌深夜放出IMO金牌模型，多项测试力压Grok 4、OpenAI o3！网友评论两极分化",
-        "link": "https://www.infoq.cn/article/YW4H4Milzdr3SWkzqOdq?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 02 Aug 2025 11:00:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286054"
-      },
-      "aa5d1e1c0b3610a14cf80fe760a6f9a7e17f93dc366b710f7a7abe0c7e679008": {
-        "title": "库克打气苹果 AI：不拼首创，自信能主导市场；微信提现手续费下调至 0.01 元；Manus 推 Wide Research",
-        "link": "http://www.geekpark.net/news/352260",
-        "published_date": "Sat, 02 Aug 2025 08:03:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286105"
-      },
-      "b2cb44eea34739dca86825e8c9078729e009052494947ccc2fafaa2f0e0907d4": {
-        "title": "Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI",
-        "link": "https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race",
-        "published_date": "Sat, 02 Aug 2025 00:11:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286078"
-      },
-      "6f103f0d714e0426ac50ab73423625262aef5e1e6796f76409d3849f38040947": {
-        "title": "Delta&#8217;s dynamic AI pricing plan sounds different now",
-        "link": "https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model",
-        "published_date": "Fri, 01 Aug 2025 23:46:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.286146"
-      },
-      "0c1c84d849ccef3f871f5a7a56c9e0c7261f323ed852efe9efffeb1d262183b3": {
-        "title": "Tim Cook says Apple ‘must’ figure out AI and ‘will make the investment to do it’",
-        "link": "https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment",
-        "published_date": "Fri, 01 Aug 2025 23:35:00 GMT",
-        "first_seen": "2025-08-02T05:29:55.038948"
-      },
-      "8d897f9573638757ec0ceea269edd516d486d8f752ce3c893e6890f306ae204a": {
-        "title": "娃哈哈案现新转折：宗庆后手写指令和委托书曝光，宗馥莉未按《委托书》设立信托",
-        "link": "https://www.tmtpost.com/7646017.html",
-        "published_date": "Sat, 02 Aug 2025 16:08:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.689086"
-      },
-      "53e4bcc90bc658abf062f33f2ad74ee656f4792010f9c2705b2749ecaaf8f162": {
-        "title": "当体检机构开始“教育”消费者：爱康国宾的信任塌房",
-        "link": "https://www.tmtpost.com/7645937.html",
-        "published_date": "Sat, 02 Aug 2025 16:08:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.689311"
-      },
-      "6e0da6a0912ec1ae195fd1d05f3920dc663157f0a92d43dff6ec376981f47e7e": {
-        "title": "Apple Sees $1.1 Billion Tariff Cost This Quarter after Blowout Earnings Driven by Tariff-Fears",
-        "link": "https://www.tmtpost.com/7646334.html",
-        "published_date": "Sat, 02 Aug 2025 15:08:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.689669"
-      },
-      "8e09e3170a038959a180de10a60235dc7b7557c50b32fdaefc6bf8aca86a2fcc": {
-        "title": "Zong Qinghou’s Will Casts Long Shadow as Hong Kong Court Affirms Key Facts in Wahaha Inheritance Dispute",
-        "link": "https://www.tmtpost.com/7646328.html",
-        "published_date": "Sat, 02 Aug 2025 14:56:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.690414"
-      },
-      "2ac5432ae7172d8a1ab70f05ac202b7e23228cc12dd65334bd816b6f4c16955a": {
-        "title": "东风汽车整合出新，奕派科技正式登场",
-        "link": "https://www.tmtpost.com/7646319.html",
-        "published_date": "Sat, 02 Aug 2025 14:18:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.690641"
-      },
-      "b821582f6566efee5bb8cc0ba1fbd951386770628a0a8858ce6692dd06f1d8cb": {
-        "title": "体系力再战智能化，比亚迪的新胜负手",
-        "link": "https://www.tmtpost.com/7646117.html",
-        "published_date": "Sat, 02 Aug 2025 13:46:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.690897"
-      },
-      "8db490a76a5ea52362708b522650738b6c2c5f9932bc68587a59366566f185a5": {
-        "title": "短剧有了造星能力，更要避免重蹈长剧覆辙",
-        "link": "https://www.tmtpost.com/7646134.html",
-        "published_date": "Sat, 02 Aug 2025 13:46:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.691174"
-      },
-      "d37118d23578e069a5754bcdcbc1087712201e64cdde3a86650f6b77182c28ca": {
-        "title": "笔记系统实战：以奖学金之名，我如何用 Obsidian 备考数学",
-        "link": "https://sspai.com/post/101375",
-        "published_date": "Sat, 02 Aug 2025 14:30:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.691725"
-      },
-      "b602c67a460f9a3ea0da228853793cc66ff4308ca2e78f521f4dc324a3fce241": {
-        "title": "BougeRV’s portable solar fridge is quietly annoying",
-        "link": "https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge",
-        "published_date": "Sat, 02 Aug 2025 07:02:00 GMT",
-        "first_seen": "2025-08-02T08:27:43.692548"
-      },
       "8b690623f27635e954d92df4f678da05bdee6e56fdd63baf4ec977a90d865dd9": {
         "title": "周杰伦抖音首秀背后的资本局：巨星传奇配售超3亿，要学泡泡玛特？",
         "link": "https://www.tmtpost.com/7645994.html",
@@ -22826,15 +22688,189 @@
         "link": "https://sspai.com/post/102217",
         "published_date": "Mon, 01 Sep 2025 08:54:00 GMT",
         "first_seen": "2025-09-01T05:20:53.059263"
+      },
+      "343185ce4fba837973c07c616eade419a7035fd8cbe63543855a48bf846a9e6e": {
+        "title": "美团自研大模型开源；百亿级半导体项目正式宣告破产；微信：发布AI生成的内容，用户需主动声明 | AI周报",
+        "link": "https://www.infoq.cn/article/YRZLdPX0wmL9djd7MuJr?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 16:22:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858599"
+      },
+      "0482e87233d91db9e4b1bd8a6d38c6bdcdaa4a4854b6cda56a8612e6d6304f45": {
+        "title": "AWS 推出搭载定制版 Intel Xeon 6 处理器的内存优化型 EC2 R8i 与 R8i-flex 实例",
+        "link": "https://www.infoq.cn/article/sooZZZbKBrTxMaMgNMI5?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 16:00:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858672"
+      },
+      "14f0968f5d2a916970444a43dce3a067c5358200dd0701658e4e46b1e4caf17f": {
+        "title": "今天起正式施行，AI生成合成内容必须“贴标签”",
+        "link": "https://www.infoq.cn/article/8WZk1M2cWc4pAWDfCmX7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 15:34:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858683"
+      },
+      "a61be0e8e04c93af030456f7360561dceb933398fc05cdb169ef5967ca20cd00": {
+        "title": "虚拟智库：运用大语言模型获取多元视角",
+        "link": "https://www.infoq.cn/article/qspuVD5fWmgq0v3CHrKj?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 15:30:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858693"
+      },
+      "e31724e8d68ae1d3e2331e907786e0913983a574075c0a07e24a87b6023b4eaf": {
+        "title": "Claude Opus 4.1 上线，SWE-bench 验证率 74.5%，重构可靠性与安全性全面升级",
+        "link": "https://www.infoq.cn/article/QsYmF8B6vTyY9u0KBFQT?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858707"
+      },
+      "8de0d1f4c5df63faab9dd79c8c552add112530e59806f01f8f7a6a8409a0a386": {
+        "title": "JDK 25和JDK 26的最新进展",
+        "link": "https://www.infoq.cn/article/4cxHYvAurH0xOpmw3dzt?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 14:30:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858717"
+      },
+      "054d24e1648c1356724a23072c953ce54145fdc3089739b38bccacc485c06e48": {
+        "title": "超越氛围编程：亚马逊云科技推出规范驱动的代理AI IDE Kiro",
+        "link": "https://www.infoq.cn/article/h1uM3VvZZqKo0BPKmWjR?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 14:03:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858628"
+      },
+      "040d3242e5adbb4d0974a28cfd81f5772fad97c0ec4573b113c3ba0b328e1724": {
+        "title": "如何在浏览器内构建一个具身智能平台｜QCon 上海",
+        "link": "https://www.infoq.cn/article/T3K3XtFWNbqa8L3sgbYC?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858642"
+      },
+      "e129a6605d16f9999c39c0915b62537ebb9e2fc19d98f0d9b4a9925ed05e8cd5": {
+        "title": "外卖专营店占餐饮门店总量仅5.78%，主要集中高线城市",
+        "link": "https://www.tmtpost.com/7679071.html",
+        "published_date": "Mon, 01 Sep 2025 16:00:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858728"
+      },
+      "d4d163b34586ca6d19e18ffe076c668ca0c511816e6fa94607a3fad39ed7685e": {
+        "title": "Reelshort做短剧恋综：40人“恋爱配对”，拆CP赚＄2000，短剧+综艺红果也在布局，新市场？",
+        "link": "https://www.tmtpost.com/7679087.html",
+        "published_date": "Mon, 01 Sep 2025 15:59:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.378995"
+      },
+      "90031ba2a208a906be8f7ad8bfa6e66f95b7d7a0dbf8eee97c527d0594134bef": {
+        "title": "一群清华人，与具身智能的四十年",
+        "link": "https://www.tmtpost.com/7679181.html",
+        "published_date": "Mon, 01 Sep 2025 15:59:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.379407"
+      },
+      "3d7e0dfe0a39fa52588510123977c1611807628de197137b7636c91073e8f5e4": {
+        "title": "9月1日A股分析：沪指涨0.46%，两市成交缩量至2.75万亿，贵金属板块单日涨幅近9%成最大亮点",
+        "link": "https://www.tmtpost.com/7679123.html",
+        "published_date": "Mon, 01 Sep 2025 15:30:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.380368"
+      },
+      "2844aea0e416c6680ca2dbfca4088356af966dd2fc5a74e8995bfa6495442109": {
+        "title": "海底数据中心，AI时代的能耗最优解？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7678622.html",
+        "published_date": "Mon, 01 Sep 2025 15:30:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.381022"
+      },
+      "b25fcd7955c9bd4b04971a4bdac80517f0637ab6ef43f578349c8e218fb92dfd": {
+        "title": "技术投入加码高端化战略兑现 赛力斯上半年净利29.4亿！",
+        "link": "https://www.tmtpost.com/7679120.html",
+        "published_date": "Mon, 01 Sep 2025 15:16:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.858656"
+      },
+      "e641af253a2c1b39a7f72d15c26ec4074c4fe357d8d23df25d8bfdc61caa60d6": {
+        "title": "人均40+元，有品牌半年开出200+店，鲜切烤肉要火？",
+        "link": "https://www.tmtpost.com/7679073.html",
+        "published_date": "Mon, 01 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.382656"
+      },
+      "daf53b0d9e111d2a20af69ece32ea1380f93bd1c00c7df1492790f838714e95a": {
+        "title": "东北烘焙品牌扎堆进京：人均40元，主攻中高端商场",
+        "link": "https://www.tmtpost.com/7679072.html",
+        "published_date": "Mon, 01 Sep 2025 14:59:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.383395"
+      },
+      "5a81096ee4dc08c57ee246f6340482493cc7b75fec136d0af5fb5420002acfa1": {
+        "title": "开学账单刷屏，但最让家长肉疼的却不是补习班…",
+        "link": "https://www.tmtpost.com/7678997.html",
+        "published_date": "Mon, 01 Sep 2025 14:53:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.384106"
+      },
+      "dcc2277eee2f20591e25c69e3c51c1ecc3eb81278151e36a8e40a1b359c6bf29": {
+        "title": "中国儿童餐崛起",
+        "link": "https://www.tmtpost.com/7678969.html",
+        "published_date": "Mon, 01 Sep 2025 14:53:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.384516"
+      },
+      "583769ad530681403e8d174a60a7fd9e21d86888c44eec6db04888e31f45d5f3": {
+        "title": "让口子窖失速的人，是不是大商",
+        "link": "https://www.tmtpost.com/7678972.html",
+        "published_date": "Mon, 01 Sep 2025 14:53:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.385161"
+      },
+      "7d9829ccaa9a7c6447f1058c19419ca07e7b7cd494b5265309227a92418d667e": {
+        "title": "国潮探店：4毛6一个鸡蛋，物美超值，这场赌局值不值？",
+        "link": "https://www.tmtpost.com/7679008.html",
+        "published_date": "Mon, 01 Sep 2025 14:53:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.386172"
+      },
+      "0640e462364427149a71bf670f2b1dea4dc0860ae78aa4f1810e56258016d688": {
+        "title": "AI² Robotics Raises Multi-Million-Dollar Series A to Expand Humanoid Robot Production",
+        "link": "https://www.tmtpost.com/7679068.html",
+        "published_date": "Mon, 01 Sep 2025 14:53:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.388439"
+      },
+      "cd41e975307dfd5db5885c958b02279e8312424f871c9b6818d5dc878367ce67": {
+        "title": "百度欲从瑞士开启欧洲无人驾驶业务；比亚迪宣布马来西亚建厂并加大印尼投资；京东拟在新加坡设立REIT｜一周大公司出海动态",
+        "link": "https://www.tmtpost.com/7677085.html",
+        "published_date": "Mon, 01 Sep 2025 13:52:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.390150"
+      },
+      "dcb6d0c1fb170c4f744a32abc154b50cd05de2ec893d54da3ee7c00b861d146a": {
+        "title": "Apple Set to Join Foldable Market, Challenging Samsung and Huawei",
+        "link": "https://www.tmtpost.com/7678965.html",
+        "published_date": "Mon, 01 Sep 2025 13:39:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.392135"
+      },
+      "5aa45361b3eaf9e946c0ca18f97e2a777f7380594630cd157c6fe6fca56f6a34": {
+        "title": "方风雷，携中东PE基金归来，中金入局",
+        "link": "https://www.tmtpost.com/7678796.html",
+        "published_date": "Mon, 01 Sep 2025 13:38:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.393209"
+      },
+      "8c7f1ee1b4b67370cb30efa921a2e8ccd6b758da212a1dc6ea6514db6845d08f": {
+        "title": "俞浩，要像雷军一样造车",
+        "link": "https://www.tmtpost.com/7678817.html",
+        "published_date": "Mon, 01 Sep 2025 13:38:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.393996"
+      },
+      "d4dd7a85c957f41d944f6addbd1780d8925ce17d0f8eb0bf93ae122b51a25fe3": {
+        "title": "半年49笔并购，这个领域凭什么成最火赛道？",
+        "link": "https://www.tmtpost.com/7678833.html",
+        "published_date": "Mon, 01 Sep 2025 13:38:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.395012"
+      },
+      "f406352e91152551ff0e74b8b4924701b7103768b696e10de1857a911e73d2f4": {
+        "title": "2025数博会观察：数据价值已赋能千行百业",
+        "link": "https://www.tmtpost.com/7678896.html",
+        "published_date": "Mon, 01 Sep 2025 13:37:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.396040"
+      },
+      "d65d016ac856fb507a89ed22e898fb1a27aeba336f80741f5e3779d99dca3d51": {
+        "title": "Apple与Masimo专利战重开，医疗器械出海需高度警惕",
+        "link": "https://www.tmtpost.com/7678837.html",
+        "published_date": "Mon, 01 Sep 2025 13:33:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.397409"
+      },
+      "13c98a5786a45aaf9b834b4f44ba4e594ef4c97c8b77a67beb798a1c71f19311": {
+        "title": "共创 | 深度使用 Notion 七年，这是我的经验、技巧与建议",
+        "link": "https://sspai.com/post/102031",
+        "published_date": "Mon, 01 Sep 2025 14:41:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.399223"
+      },
+      "e7baff72656273c59fb9d509f68d679715ec4ae75ad30766ab7e3e6ddb8033ba": {
+        "title": "Hell Is Us is a cryptic and ambitious meditation on the horrors of war",
+        "link": "https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam",
+        "published_date": "Mon, 01 Sep 2025 08:00:00 GMT",
+        "first_seen": "2025-09-01T08:29:43.402065"
       }
     },
     "Finance": {
-      "32de3bc4b78ac9b7bcb9843d6d13bea6060aad19d3b2d7b6799a58c3267d70b7": {
-        "title": "Trump and the dollar are doing something we saw just before the October 1987 stock market crash",
-        "link": "https://www.marketwatch.com/story/weve-seen-how-stocks-react-to-white-house-pressure-for-low-interest-rates-and-a-weak-dollar-in-october-1987-833d64b0?mod=mw_rss_topstories",
-        "published_date": "Fri, 01 Aug 2025 23:38:00 GMT",
-        "first_seen": "2025-08-02T05:30:29.355757"
-      },
       "fc0ce9a7cb1186898d0723d2547b91e338071bfd0fd4317cc08c023ee8b93b63": {
         "title": "‘I worked at 14, had an 8.8% mortgage rate and drove used cars’: Did boomers really have it easier than millennials?",
         "link": "https://www.marketwatch.com/story/i-worked-at-14-had-an-8-8-mortgage-rate-and-drove-used-cars-did-boomers-really-have-it-easier-than-millennials-bdc012a2?mod=mw_rss_topstories",
@@ -25948,12 +25984,24 @@
         "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories",
         "published_date": "Sun, 31 Aug 2025 12:00:00 GMT",
         "first_seen": "2025-08-31T23:23:45.908529"
+      },
+      "2970257bdb840b6420098160f17ea64d659d79795b9888545a98a0dfa089bb7e": {
+        "title": "BYD’s shares sharply lower after China EV maker’s earnings miss",
+        "link": "https://www.marketwatch.com/story/byd-s-shares-sharply-lower-after-earnings-miss-3df796c9?mod=mw_rss_topstories",
+        "published_date": "Mon, 01 Sep 2025 07:23:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.969436"
+      },
+      "bd4219b52595a51393c5043afccb7a45cd073fb44153a98ae038caf6f449cb71": {
+        "title": "Indonesia’s political unrest roils stock, currency markets",
+        "link": "https://www.marketwatch.com/story/indonesia-s-political-unrest-roils-stock-currency-markets-2e173ed7?mod=mw_rss_topstories",
+        "published_date": "Mon, 01 Sep 2025 06:56:00 GMT",
+        "first_seen": "2025-09-01T08:30:31.969768"
       }
     }
   },
   "last_update": {
-    "AI": "2025-09-01T05:22:30.030847",
-    "Technology": "2025-09-01T05:21:41.388087",
-    "Finance": "2025-09-01T05:22:30.046733"
+    "AI": "2025-09-01T08:30:31.959731",
+    "Technology": "2025-09-01T08:30:31.892150",
+    "Finance": "2025-09-01T08:30:31.976740"
   }
 }

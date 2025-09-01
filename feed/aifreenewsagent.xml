@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Sep 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2025 05:22:30 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 08:30:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>HealthProcessAI: A Technical Framework and Proof-of-Concept for LLM-Enhanced Healthcare Process Mining</title>
-      <link>https://arxiv.org/abs/2508.21540</link>
-      <description>&lt;![CDATA[HealthProcessAI: A Technical Framework and Proof-of-Concept for LLM-Enhanced Healthcare Process Mining]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21540</guid>
+      <title>NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-01-6</link>
+      <description>&lt;![CDATA[NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科普向：一文解构大模型后训练，GRPO和它的继任者们的前世今生</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-01-2</link>
-      <description>&lt;![CDATA[科普向：一文解构大模型后训练，GRPO和它的继任者们的前世今生]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-2</guid>
+      <title>DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-01-5</link>
+      <description>&lt;![CDATA[DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI Coding玩家图谱：谁在押注，谁在突围？| 量子位智库报告</title>
-      <link>https://www.qbitai.com/2025/09/327729.html</link>
-      <description>&lt;![CDATA[AI Coding玩家图谱：谁在押注，谁在突围？| 量子位智库报告]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 02:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327729.html</guid>
+      <title>把实验与计算「缝」到一张「地图」上：AI让材料发现路线更直观、可解释</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-01-4</link>
+      <description>&lt;![CDATA[把实验与计算「缝」到一张「地图」上：AI让材料发现路线更直观、可解释]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Fuzzy, Symbolic, and Contextual: Enhancing LLM Instruction via Cognitive Scaffolding</title>
-      <link>https://arxiv.org/abs/2508.21204</link>
-      <description>&lt;![CDATA[Fuzzy, Symbolic, and Contextual: Enhancing LLM Instruction via Cognitive Scaffolding]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21204</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MultiFluxAI Enhancing Platform Engineering with Advanced Agent-Orchestrated Retrieval Systems</title>
-      <link>https://arxiv.org/abs/2508.21307</link>
-      <description>&lt;![CDATA[MultiFluxAI Enhancing Platform Engineering with Advanced Agent-Orchestrated Retrieval Systems]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21307</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI Compute Architecture and Evolution Trends</title>
-      <link>https://arxiv.org/abs/2508.21394</link>
-      <description>&lt;![CDATA[AI Compute Architecture and Evolution Trends]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21394</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Leveraging Imperfection with MEDLEY A Multi-Model Approach Harnessing Bias in Medical AI</title>
-      <link>https://arxiv.org/abs/2508.21648</link>
-      <description>&lt;![CDATA[Leveraging Imperfection with MEDLEY A Multi-Model Approach Harnessing Bias in Medical AI]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21648</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI</title>
-      <link>https://arxiv.org/abs/2508.21101</link>
-      <description>&lt;![CDATA[Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21101</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Dynamic Low-rank Approximation of Full-Matrix Preconditioner for Training Generalized Linear Models</title>
-      <link>https://arxiv.org/abs/2508.21106</link>
-      <description>&lt;![CDATA[Dynamic Low-rank Approximation of Full-Matrix Preconditioner for Training Generalized Linear Models]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21106</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control</title>
-      <link>https://arxiv.org/abs/2508.21112</link>
-      <description>&lt;![CDATA[EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.21112</guid>
+      <title>Meta和Scale AI闹翻！砸143亿买的高管跑路，业务也合作不下去</title>
+      <link>https://www.qbitai.com/2025/09/327884.html</link>
+      <description>&lt;![CDATA[Meta和Scale AI闹翻！砸143亿买的高管跑路，业务也合作不下去]]&gt;</description>
+      <pubDate>Mon, 01 Sep 2025 06:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327884.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-08-31 23:22
+**最后更新时间**: 2025-09-01 08:29
+
+---
+
+## 🆕 最新更新 (2025-09-01 08:29)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [BYD’s shares sharply lower after China EV maker’s earnings miss](https://www.marketwatch.com/story/byd-s-shares-sharply-lower-after-earnings-miss-3df796c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 07:23
+
+#### [Indonesia’s political unrest roils stock, currency markets](https://www.marketwatch.com/story/indonesia-s-political-unrest-roils-stock-currency-markets-2e173ed7?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 06:56
 
 ---
 
