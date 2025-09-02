@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-01 23:18
+**最后更新时间**: 2025-09-02 05:20
+
+---
+
+## 🆕 最新更新 (2025-09-02 05:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [冲上热搜！美团大模型，靠「快」火了](https://www.jiqizhixin.com/articles/2025-09-02-7)
+**发布时间**: 2025-09-02 13:10
+
+#### [DeepMind爆火论文：向量嵌入模型存在数学上限，Scaling laws放缓实锤？](https://www.jiqizhixin.com/articles/2025-09-02-6)
+**发布时间**: 2025-09-02 13:02
+
+#### [AI读网页，这次真不一样了，谷歌Gemini解锁「详解网页」新技能](https://www.jiqizhixin.com/articles/2025-09-02-5)
+**发布时间**: 2025-09-02 12:01
+
+#### [性能逼近闭源最强，通义实验室开源Mobile-Agent-v3刷新10项GUI基准SOTA](https://www.jiqizhixin.com/articles/2025-09-02-4)
+**发布时间**: 2025-09-02 11:56
+
+#### [14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1](https://www.jiqizhixin.com/articles/2025-09-02-3)
+**发布时间**: 2025-09-02 10:22
+
+#### [自搜索强化学习SSRL：Agentic RL的Sim2Real时刻](https://www.jiqizhixin.com/articles/2025-09-02-2)
+**发布时间**: 2025-09-02 10:15
+
+#### [全球机器翻译比赛拿下30个语种第1名，腾讯混元翻译模型开源](https://www.jiqizhixin.com/articles/2025-09-02)
+**发布时间**: 2025-09-02 09:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [大模型开始打王者荣耀了](https://www.qbitai.com/2025/09/328161.html)
+**发布时间**: 2025-09-02 04:27
+
+#### [智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%](https://www.qbitai.com/2025/09/328145.html)
+**发布时间**: 2025-09-02 03:49
+
+#### [对话吉利技术一号位：VLA大模型打底，冲刺全球最大机器人公司](https://www.qbitai.com/2025/09/328034.html)
+**发布时间**: 2025-09-02 00:49
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [5 Key Ways LLMs Can Supercharge Your Machine Learning Workflow](https://machinelearningmastery.com/5-key-ways-llms-can-supercharge-your-machine-learning-workflow/)
+**发布时间**: 2025-08-29 12:56
+
+#### [7 Pandas Tricks for Efficient Data Merging](https://machinelearningmastery.com/7-pandas-tricks-for-efficient-data-merging/)
+**发布时间**: 2025-08-28 12:00
+
+#### [How to Decide Between Random Forests and Gradient Boosting](https://machinelearningmastery.com/how-to-decide-between-random-forests-and-gradient-boosting/)
+**发布时间**: 2025-08-28 02:00
+
+#### [A Gentle Introduction to Bayesian Regression](https://machinelearningmastery.com/a-gentle-introduction-to-bayesian-regression/)
+**发布时间**: 2025-08-27 12:00
+
+#### [10 Useful NumPy One-Liners for Time Series Analysis](https://machinelearningmastery.com/10-useful-numpy-one-liners-for-time-series-analysis/)
+**发布时间**: 2025-08-26 12:00
 
 ---
 

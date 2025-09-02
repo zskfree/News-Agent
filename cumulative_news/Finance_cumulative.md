@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-01 23:23
+**最后更新时间**: 2025-09-02 05:20
+
+---
+
+## 🆕 最新更新 (2025-09-02 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold hits new high on rising uncertainty, while U.S. stock futures little changed](https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 03:01
+
+#### [Only a really big jobs report might stop the Fed from cutting interest rates. Don’t count on it.](https://www.marketwatch.com/story/only-a-really-big-jobs-report-might-stop-the-fed-from-cutting-interest-rates-dont-count-on-it-451eb83f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-01 23:56
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How this week's jobs data could affect the stock market's rally](https://www.marketwatch.com/bulletins/redirect/go?g=4e0c2766-3cf7-4c05-9147-40319c92c9b2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 01:08
 
 ---
 

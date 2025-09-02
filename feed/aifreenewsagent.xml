@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Sep 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2025 23:24:01 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 05:21:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>开学了：入门AI，可以从这第一课开始</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-01-8</link>
-      <description>&lt;![CDATA[开学了：入门AI，可以从这第一课开始]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-8</guid>
+      <title>冲上热搜！美团大模型，靠「快」火了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02-7</link>
+      <description>&lt;![CDATA[冲上热搜！美团大模型，靠「快」火了]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-01-7</link>
-      <description>&lt;![CDATA[OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-01-7</guid>
+      <title>DeepMind爆火论文：向量嵌入模型存在数学上限，Scaling laws放缓实锤？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02-6</link>
+      <description>&lt;![CDATA[DeepMind爆火论文：向量嵌入模型存在数学上限，Scaling laws放缓实锤？]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: AI doppelgängers in the workplace, and using lidar to measure climate disasters</title>
-      <link>https://www.technologyreview.com/2025/09/01/1122863/the-download-ai-doppelgangers-in-the-workplace-and-using-lidar-to-measure-climate-disasters/</link>
-      <description>&lt;![CDATA[The Download: AI doppelgängers in the workplace, and using lidar to measure climate disasters]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/01/1122863/the-download-ai-doppelgangers-in-the-workplace-and-using-lidar-to-measure-climate-disasters/</guid>
+      <title>AI读网页，这次真不一样了，谷歌Gemini解锁「详解网页」新技能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02-5</link>
+      <description>&lt;![CDATA[AI读网页，这次真不一样了，谷歌Gemini解锁「详解网页」新技能]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Here’s how we picked this year’s Innovators Under 35</title>
-      <link>https://www.technologyreview.com/2025/09/01/1122458/innovators-under-35-2025/</link>
-      <description>&lt;![CDATA[Here’s how we picked this year’s Innovators Under 35]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/01/1122458/innovators-under-35-2025/</guid>
+      <title>性能逼近闭源最强，通义实验室开源Mobile-Agent-v3刷新10项GUI基准SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02-4</link>
+      <description>&lt;![CDATA[性能逼近闭源最强，通义实验室开源Mobile-Agent-v3刷新10项GUI基准SOTA]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>连赛力斯营收都下滑了</title>
-      <link>https://www.qbitai.com/2025/09/327994.html</link>
-      <description>&lt;![CDATA[连赛力斯营收都下滑了]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327994.html</guid>
+      <title>14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02-3</link>
+      <description>&lt;![CDATA[14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Claude翻车：Opus 4.1白天退化，Anthropic承认并回滚更新</title>
-      <link>https://www.qbitai.com/2025/09/327960.html</link>
-      <description>&lt;![CDATA[Claude翻车：Opus 4.1白天退化，Anthropic承认并回滚更新]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327960.html</guid>
+      <title>自搜索强化学习SSRL：Agentic RL的Sim2Real时刻</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02-2</link>
+      <description>&lt;![CDATA[自搜索强化学习SSRL：Agentic RL的Sim2Real时刻]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一句“吴恩达说的”，就能让GPT-4o mini言听计从</title>
-      <link>https://www.qbitai.com/2025/09/327962.html</link>
-      <description>&lt;![CDATA[一句“吴恩达说的”，就能让GPT-4o mini言听计从]]&gt;</description>
-      <pubDate>Mon, 01 Sep 2025 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/327962.html</guid>
+      <title>全球机器翻译比赛拿下30个语种第1名，腾讯混元翻译模型开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-02</link>
+      <description>&lt;![CDATA[全球机器翻译比赛拿下30个语种第1名，腾讯混元翻译模型开源]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型开始打王者荣耀了</title>
+      <link>https://www.qbitai.com/2025/09/328161.html</link>
+      <description>&lt;![CDATA[大模型开始打王者荣耀了]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 04:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328161.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%</title>
+      <link>https://www.qbitai.com/2025/09/328145.html</link>
+      <description>&lt;![CDATA[智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 03:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328145.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>对话吉利技术一号位：VLA大模型打底，冲刺全球最大机器人公司</title>
+      <link>https://www.qbitai.com/2025/09/328034.html</link>
+      <description>&lt;![CDATA[对话吉利技术一号位：VLA大模型打底，冲刺全球最大机器人公司]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 00:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328034.html</guid>
       <category>AI</category>
     </item>
   </channel>
