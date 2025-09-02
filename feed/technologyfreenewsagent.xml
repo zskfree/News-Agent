@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Sep 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2025 05:21:19 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 08:29:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当一群技术狂人决定造车</title>
-      <link>https://www.tmtpost.com/7679609.html</link>
-      <description>&lt;![CDATA[当一群技术狂人决定造车]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679609.html</guid>
+      <title>AI 研发提效进行到哪儿，谁来守住质量底线？</title>
+      <link>https://www.infoq.cn/article/xf6NoCbQdxRFQ90LMMHF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 研发提效进行到哪儿，谁来守住质量底线？]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xf6NoCbQdxRFQ90LMMHF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科股早知道：巴斯夫电池材料旗下公司在新一代电池技术取得重大成果</title>
-      <link>https://www.tmtpost.com/7679773.html</link>
-      <description>&lt;![CDATA[科股早知道：巴斯夫电池材料旗下公司在新一代电池技术取得重大成果]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 08:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679773.html</guid>
+      <title>当AI遇上规章制度，彩智科技帮你排除幻觉｜“抓住下一个Z一鸣”速访</title>
+      <link>https://www.tmtpost.com/7679389.html</link>
+      <description>&lt;![CDATA[当AI遇上规章制度，彩智科技帮你排除幻觉｜“抓住下一个Z一鸣”速访]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679389.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>A股中报透视：AI驱动科技股百花齐放，传统行业借势破局 ｜看财报</title>
-      <link>https://www.tmtpost.com/7679647.html</link>
-      <description>&lt;![CDATA[A股中报透视：AI驱动科技股百花齐放，传统行业借势破局 ｜看财报]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679647.html</guid>
+      <title>项目笔记｜设计师的第一个微信小程序开发记录</title>
+      <link>https://www.infoq.cn/article/1ttiFpxM8j1AA509Sali?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[项目笔记｜设计师的第一个微信小程序开发记录]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1ttiFpxM8j1AA509Sali?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】王毅介绍上合组织天津峰会八大成果；新势力8月成绩单出炉，“零小蔚”创新高；品牌黄金饰品每克金价超千元</title>
-      <link>https://www.tmtpost.com/7679621.html</link>
-      <description>&lt;![CDATA[【钛晨报】王毅介绍上合组织天津峰会八大成果；新势力8月成绩单出炉，“零小蔚”创新高；品牌黄金饰品每克金价超千元]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679621.html</guid>
+      <title>高级自动扩展功能助力企业降低70%的AWS成本</title>
+      <link>https://www.infoq.cn/article/sL5d6dSPMG7upHP4HQD8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[高级自动扩展功能助力企业降低70%的AWS成本]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sL5d6dSPMG7upHP4HQD8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TanStack DB发布Beta版本，支持反应式查询、乐观变更和本地优先同步</title>
-      <link>https://www.infoq.cn/article/c6tTPtOMh0aIVE1BdgPi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TanStack DB发布Beta版本，支持反应式查询、乐观变更和本地优先同步]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/c6tTPtOMh0aIVE1BdgPi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从 0 到 1 构建知识工程 ：协同需求 Agent 的落地实战｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/Uetcx1ri8f2yBaffNgDl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 0 到 1 构建知识工程 ：协同需求 Agent 的落地实战｜QCon 上海]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Uetcx1ri8f2yBaffNgDl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google 发布了Nano Banana编写最佳提示词，提供了10种场景</title>
-      <link>https://xie.infoq.cn/article/41d80c048845e0de5113a2988?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Google 发布了Nano Banana编写最佳提示词，提供了10种场景]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://xie.infoq.cn/article/41d80c048845e0de5113a2988?utm_source=rss&amp;utm_medium=article</guid>
+      <title>半年减员2.6万，日赚37亿：六大行中报里的A面与B面 | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7680365.html</link>
+      <description>&lt;![CDATA[半年减员2.6万，日赚37亿：六大行中报里的A面与B面 | 巴伦精选]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7680365.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>广深「超燃」：来线下，与少数派一起看 Apple 发布会</title>
-      <link>https://sspai.com/post/102221</link>
-      <description>&lt;![CDATA[广深「超燃」：来线下，与少数派一起看 Apple 发布会]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102221</guid>
+      <title>Global Data Centers Enter Liquid Cooling Era as AI Demand Surges</title>
+      <link>https://www.tmtpost.com/7680320.html</link>
+      <description>&lt;![CDATA[Global Data Centers Enter Liquid Cooling Era as AI Demand Surges]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 15:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7680320.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：vivo Y500 发布，91 助手宣布关停时间等</title>
-      <link>https://sspai.com/post/102236</link>
-      <description>&lt;![CDATA[派早报：vivo Y500 发布，91 助手宣布关停时间等]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 08:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102236</guid>
+      <title>9月2日A股分析：三大股指集体收跌，两市合计成交28749.91亿元，资金流出最多的行业板块为通信设备、互联网服务</title>
+      <link>https://www.tmtpost.com/7680295.html</link>
+      <description>&lt;![CDATA[9月2日A股分析：三大股指集体收跌，两市合计成交28749.91亿元，资金流出最多的行业板块为通信设备、互联网服务]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 15:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7680295.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Huawei's First-Half Profit Falls 32% Amid Record R&amp;D Outlays</title>
-      <link>https://www.tmtpost.com/7680085.html</link>
-      <description>&lt;![CDATA[Huawei's First-Half Profit Falls 32% Amid Record R&amp;D Outlays]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 12:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7680085.html</guid>
+      <title>AI赋能热梗、表情包创作App翻红，“傻瓜式”AI应用迎来发展机遇</title>
+      <link>https://www.tmtpost.com/7679882.html</link>
+      <description>&lt;![CDATA[AI赋能热梗、表情包创作App翻红，“傻瓜式”AI应用迎来发展机遇]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7679882.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>水变油已经满足不了机器人行业了，它还要生孩子？</title>
-      <link>https://www.tmtpost.com/7679556.html</link>
-      <description>&lt;![CDATA[水变油已经满足不了机器人行业了，它还要生孩子？]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7679556.html</guid>
+      <title>【Fintech 周报】六大行上半年营收超1.8万亿；五险企半年净赚1782亿元</title>
+      <link>https://www.tmtpost.com/7680209.html</link>
+      <description>&lt;![CDATA[【Fintech 周报】六大行上半年营收超1.8万亿；五险企半年净赚1782亿元]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7680209.html</guid>
       <category>Technology</category>
     </item>
   </channel>

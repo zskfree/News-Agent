@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-02 05:20
+**最后更新时间**: 2025-09-02 08:28
+
+---
+
+## 🆕 最新更新 (2025-09-02 08:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 研发提效进行到哪儿，谁来守住质量底线？](https://www.infoq.cn/article/xf6NoCbQdxRFQ90LMMHF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 16:23
+
+#### [项目笔记｜设计师的第一个微信小程序开发记录](https://www.infoq.cn/article/1ttiFpxM8j1AA509Sali?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 15:34
+
+#### [高级自动扩展功能助力企业降低70%的AWS成本](https://www.infoq.cn/article/sL5d6dSPMG7upHP4HQD8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 15:00
+
+#### [从 0 到 1 构建知识工程 ：协同需求 Agent 的落地实战｜QCon 上海](https://www.infoq.cn/article/Uetcx1ri8f2yBaffNgDl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 13:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [半年减员2.6万，日赚37亿：六大行中报里的A面与B面 | 巴伦精选](https://www.tmtpost.com/7680365.html)
+**发布时间**: 2025-09-02 16:17
+
+#### [Global Data Centers Enter Liquid Cooling Era as AI Demand Surges](https://www.tmtpost.com/7680320.html)
+**发布时间**: 2025-09-02 15:39
+
+#### [9月2日A股分析：三大股指集体收跌，两市合计成交28749.91亿元，资金流出最多的行业板块为通信设备、互联网服务](https://www.tmtpost.com/7680295.html)
+**发布时间**: 2025-09-02 15:31
+
+#### [AI赋能热梗、表情包创作App翻红，“傻瓜式”AI应用迎来发展机遇](https://www.tmtpost.com/7679882.html)
+**发布时间**: 2025-09-02 15:28
+
+#### [【Fintech 周报】六大行上半年营收超1.8万亿；五险企半年净赚1782亿元](https://www.tmtpost.com/7680209.html)
+**发布时间**: 2025-09-02 15:02
+
+#### [实体书店的死与生](https://www.tmtpost.com/7679994.html)
+**发布时间**: 2025-09-02 15:00
+
+#### [8月销量大洗牌：“零问鹏”前三，理想下跌、蔚来回归](https://www.tmtpost.com/7679887.html)
+**发布时间**: 2025-09-02 14:30
+
+#### [关于当前的消费，我的一些观察和感想](https://www.tmtpost.com/7679992.html)
+**发布时间**: 2025-09-02 14:00
+
+#### [智能、豪华、越野全都要，坦克500能否撑住三面战线？](https://www.tmtpost.com/7680057.html)
+**发布时间**: 2025-09-02 13:30
+
+#### [如何实现乳业“价值向上”？从特仑苏“独属生态密码”开始](https://www.tmtpost.com/7678971.html)
+**发布时间**: 2025-09-02 13:24
+
+#### [当AI遇上规章制度，彩智科技帮你排除幻觉｜“抓住下一个Z一鸣”速访](https://www.tmtpost.com/7679389.html)
+**发布时间**: 2025-09-02 13:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我的桌面我的战场：优质桌搭精选辑](https://sspai.com/post/102125)
+**发布时间**: 2025-09-02 14:58
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [用甲方思维选大学社团？这样做背调才能不踩坑](http://www.huxiu.com/article/4761587.html?f=wangzhan)
+**发布时间**: 2025-09-02 13:50
 
 ---
 
