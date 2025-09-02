@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-02 08:27
+**最后更新时间**: 2025-09-02 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-02 23:16)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [开学&教师节双重豪礼，英博云算力低至8毛8/卡时，赶紧薅起来](https://www.jiqizhixin.com/articles/2025-09-02-12)
+**发布时间**: 2025-09-02 17:49
+
+#### [苹果新研究：不微调、不重训，如何让AI提问效率暴增6.5倍？](https://www.jiqizhixin.com/articles/2025-09-02-11)
+**发布时间**: 2025-09-02 17:44
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [3 Questions: On biology and medicine’s “data revolution”](https://news.mit.edu/2025/3-questions-caroline-uhler-biology-medicine-data-revolution-0902)
+**发布时间**: 2025-09-02 17:45
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: therapists secretly using AI, and Apple AirPods’ hearing aid potential](https://www.technologyreview.com/2025/09/02/1122877/the-download-therapists-secretly-using-ai-and-apple-airpods-hearing-aid-potential/)
+**发布时间**: 2025-09-02 12:10
+
+#### [What health care providers actually want from AI](https://www.technologyreview.com/2025/09/02/1122688/what-health-care-providers-actually-want-from-ai/)
+**发布时间**: 2025-09-02 12:00
+
+#### [How healthcare accelerator programs are changing care](https://www.technologyreview.com/2025/09/02/1122698/how-healthcare-accelerator-programs-are-changing-care/)
+**发布时间**: 2025-09-02 12:00
+
+#### [Can an AI doppelgänger help me do my job?](https://www.technologyreview.com/2025/09/02/1122856/can-an-ai-doppelganger-help-me-do-my-job/)
+**发布时间**: 2025-09-02 09:00
+
+#### [Therapists are secretly using ChatGPT. Clients are triggered.](https://www.technologyreview.com/2025/09/02/1122871/therapists-using-chatgpt-secretly/)
+**发布时间**: 2025-09-02 08:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [LeCun今后发论文得亚历山大王批准！Meta搞出大无语操作](https://www.qbitai.com/2025/09/328266.html)
+**发布时间**: 2025-09-02 10:25
+
+#### [7个AI玩狼人杀，GPT-5获断崖式MVP，Kimi手段激进](https://www.qbitai.com/2025/09/328239.html)
+**发布时间**: 2025-09-02 09:25
+
+#### [神盾金砖电池成功挑战行业首个“整车+整包”带电六大极端测试](https://www.qbitai.com/2025/09/328228.html)
+**发布时间**: 2025-09-02 08:59
 
 ---
 

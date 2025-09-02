@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-02 05:20
+**最后更新时间**: 2025-09-02 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-02 23:16)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Activist Elliott wants PepsiCo to emulate Coke’s playbook. This is why.](https://www.marketwatch.com/story/activist-elliott-wants-pepsico-to-emulate-cokes-playbook-this-is-why-b09b6fc1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 23:12
+
+#### [Treasury market comes under fire as September bond supply gives investors choices](https://www.marketwatch.com/story/treasury-market-comes-under-fire-as-september-bond-supply-gives-investors-choices-ab6c1d80?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 22:05
+
+#### [Is your job among the ‘no tax on tips’ winners? Here’s how to make sure you qualify.](https://www.marketwatch.com/story/is-your-job-among-the-no-tax-on-tips-winners-heres-how-to-make-sure-you-qualify-4081df66?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 21:46
+
+#### [Alphabet’s stock is rising after Google antitrust ruling avoids the worst-case scenario](https://www.marketwatch.com/story/alphabets-stock-is-rising-after-google-antitrust-ruling-avoids-the-worst-case-scenario-39d1c284?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 21:21
+
+#### [CoreWeave’s stock slides as insider selling sparks investor concerns](https://www.marketwatch.com/story/coreweaves-stock-slides-as-insider-selling-sparks-investor-concerns-fef032fe?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 21:21
+
+#### [Intel’s management must now make decisive changes — or Trump will do it for them](https://www.marketwatch.com/story/intels-management-must-now-make-decisive-changes-or-trump-will-do-it-for-them-2f22df42?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 20:38
+
+#### [Stock investors’ favorite AI tools are faring much worse than the S&P 500](https://www.marketwatch.com/story/ai-can-do-a-lot-of-things-like-tearing-down-your-stock-portfolio-and-adding-risk-795d37cb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 20:36
+
+#### [This one move could give Trump a win on global tariffs — and calm the bond market](https://www.marketwatch.com/story/this-one-move-could-give-trump-a-win-on-global-tariffs-and-calm-the-bond-market-23bc9675?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 20:29
+
+#### [Dr. Oz is saving the government more money than Elon Musk and ‘DOGE’ ever did](https://www.marketwatch.com/story/dr-oz-is-saving-the-government-more-money-than-elon-musk-and-doge-ever-did-385f9a59?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 20:28
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Is the $1.3B Powerball lottery worth playing? What an MIT math professor says.](https://www.marketwatch.com/bulletins/redirect/go?g=3487c66b-c92c-42d9-a4c7-b71cc59a825b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 23:04
+
+#### [Treasury market pressured as September bond supply gives investors choices](https://www.marketwatch.com/bulletins/redirect/go?g=aab01db9-9dfb-4586-899f-4edf6b909ed3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 22:12
+
+#### [Alphabet’s stock rising after Google antitrust ruling avoids worst-case scenario](https://www.marketwatch.com/bulletins/redirect/go?g=22aeb8de-b28e-49e2-94e9-2eed2c16e6a4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 21:22
+
+#### [Here’s why Trump’s tariffs could persist despite the latest court ruling](https://www.marketwatch.com/bulletins/redirect/go?g=dd96a05f-4b26-42b6-bb29-c9282f052513&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 21:01
+
+#### [Stocks end lower to kick off September on tariff uncertainty, bond jitters](https://www.marketwatch.com/bulletins/redirect/go?g=86b47e1e-fad6-4461-88dd-ea60e087965e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 20:04
+
+#### [Stocks end lower to kick off September thanks to tariff uncertainy, bond jitters](https://www.marketwatch.com/bulletins/redirect/go?g=7d6e1acc-a11b-4cd3-83c6-792ac649bb67&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 20:02
+
+#### [Should stock-market bulls sit out September slumps? Here’s one way to play it.](https://www.marketwatch.com/bulletins/redirect/go?g=726a2dbd-bef2-4f3a-b87f-1c2a7034bbc4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 19:06
+
+#### [Fintech company Klarna seeks $14 billion valuation in planned IPO](https://www.marketwatch.com/bulletins/redirect/go?g=ff3d1fea-3865-4eda-be52-0a1a4b8ae89b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 18:22
+
+#### [Government shutdown on Oct. 1 seen as increasingly likely](https://www.marketwatch.com/bulletins/redirect/go?g=c48caf73-2c3d-4b62-968d-19a3939baae6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 18:04
+
+#### [Warren Buffett calls the Kraft Heinz breakup disappointing](https://www.marketwatch.com/bulletins/redirect/go?g=21e1d729-99f1-4496-bf73-7bc0eb667fe9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-02 15:07
 
 ---
 

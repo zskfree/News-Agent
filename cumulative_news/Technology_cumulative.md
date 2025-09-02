@@ -1,7 +1,156 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-02 08:28
+**最后更新时间**: 2025-09-02 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-02 23:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [九鼎投资的“求生欲”：遭问询后大改交易条款，提级审议人形机器人并购 ｜并购一线](https://www.tmtpost.com/7680822.html)
+**发布时间**: 2025-09-02 22:11
+
+#### [云界汽车成立，野马破产重整中的“资质博弈”｜钛度车库](https://www.tmtpost.com/7680459.html)
+**发布时间**: 2025-09-02 21:40
+
+#### [半年内两起收购，高溢价下杰华特能否赌对信号链未来？| 并购一线](https://www.tmtpost.com/7680756.html)
+**发布时间**: 2025-09-02 21:04
+
+#### [“假光刻机”拟5亿收购真光刻机，苏大维格连亏四年再谋跨界并购 ｜并购一线](https://www.tmtpost.com/7680730.html)
+**发布时间**: 2025-09-02 20:17
+
+#### [边缘AI，何以成为大厂角逐的新沃土？](https://www.tmtpost.com/7680592.html)
+**发布时间**: 2025-09-02 19:06
+
+#### [扎克伯格鼓动起欧美数字贸易战](https://www.tmtpost.com/7680548.html)
+**发布时间**: 2025-09-02 18:55
+
+#### [Meta越来越需要信仰了](https://www.tmtpost.com/7680509.html)
+**发布时间**: 2025-09-02 18:54
+
+#### [长城汽车启动超豪华车项目招标，国产车做超豪车有机会吗？](https://www.tmtpost.com/7680311.html)
+**发布时间**: 2025-09-02 18:54
+
+#### [中文在线再推短剧APP，“AI+出海”能否撑起第二增长曲线？](https://www.tmtpost.com/7679956.html)
+**发布时间**: 2025-09-02 18:52
+
+#### [印尼现在安全吗？](https://www.tmtpost.com/7680194.html)
+**发布时间**: 2025-09-02 18:52
+
+#### [抢先Meta量产！前锤子科技CTO创业的AI眼镜已交付数百万元订单｜独家](https://www.tmtpost.com/7680490.html)
+**发布时间**: 2025-09-02 18:25
+
+#### [欧洲人省钱，省出个新市场](https://www.tmtpost.com/7680263.html)
+**发布时间**: 2025-09-02 18:05
+
+#### [背刺首发大定车主是一种蠢](https://www.tmtpost.com/7679974.html)
+**发布时间**: 2025-09-02 18:05
+
+#### [站上固态电池风口股价已翻倍，600亿新能源装备龙头冲向港交所](https://www.tmtpost.com/7680033.html)
+**发布时间**: 2025-09-02 18:05
+
+#### [饿了么是时候更名淘宝闪购了](https://www.tmtpost.com/7680206.html)
+**发布时间**: 2025-09-02 18:04
+
+#### [DataEye海外微短剧热榜：“隐藏大佬”题材新剧冲进前四，新短剧APP增投突围](https://www.tmtpost.com/7679906.html)
+**发布时间**: 2025-09-02 18:04
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+**发布时间**: 2025-09-02 21:19
+
+#### [Google and Apple&#8217;s $20 billion search deal survives](https://www.theverge.com/news/769599/google-apple-search-deal-us-doj-antitrust-case-remedies)
+**发布时间**: 2025-09-02 21:10
+
+#### [Amazon&#8217;s Lens Live AI shops for anything you can see](https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping)
+**发布时间**: 2025-09-02 21:01
+
+#### [Google gets to keep Chrome, judge rules in search antitrust case](https://www.theverge.com/policy/717087/google-search-remedies-ruling-chrome)
+**发布时间**: 2025-09-02 20:57
+
+#### [Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)
+**发布时间**: 2025-09-02 20:24
+
+#### [How the Democrats keep copying the MAGA influencer playbook (and failing)](https://www.theverge.com/regulator-newsletter/769232/democrats-chorus-influencer-program-regulator)
+**发布时间**: 2025-09-02 20:00
+
+#### [Trump is moving Space Command to Alabama](https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters)
+**发布时间**: 2025-09-02 19:44
+
+#### [The tariff apocalypse is here](https://www.theverge.com/analysis/769427/trump-tariffs-online-shopping-shipping-suspended-de-minimis)
+**发布时间**: 2025-09-02 19:34
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Concept C Is the All-Electric Sports Car Kick-Starting Audi’s Design Future](https://www.wired.com/story/audis-concept-c-electric-sports-car-announced/)
+**发布时间**: 2025-09-02 19:00
+
+#### [The 50 Best Shows on HBO Max Right Now (September 2025)](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+**发布时间**: 2025-09-02 19:00
+
+#### [Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships](https://www.wired.com/story/sony-wh-1000xm5-deal/)
+**发布时间**: 2025-09-02 17:52
+
+#### [How to Make Light Roast Espresso, According to Chemists (2025)](https://www.wired.com/story/how-i-learned-to-stop-worrying-and-love-light-roast-espresso/)
+**发布时间**: 2025-09-02 15:58
+
+#### [How to Clean Your Dog's Ears and Clip Your Cat's Nails—Experts Weigh In (2025)](https://www.wired.com/story/how-to-clean-your-pet/)
+**发布时间**: 2025-09-02 15:04
+
+#### [Do You Need a Satellite Messenger?](https://www.wired.com/story/do-you-need-a-satellite-messenger/)
+**发布时间**: 2025-09-02 14:00
+
+#### [The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance](https://www.wired.com/story/final-fantasy-tactics-refresh/)
+**发布时间**: 2025-09-02 13:00
+
+#### [9 Best Electric Cargo Bikes for Families (2025), Tested and Reviewed](https://www.wired.com/gallery/best-electric-cargo-bikes/)
+**发布时间**: 2025-09-02 11:30
+
+#### [Hungry Worms Could Help Solve Plastic Pollution](https://www.wired.com/story/could-plastic-eating-moth-larvae-be-a-solution-to-environmental-pollution/)
+**发布时间**: 2025-09-02 11:30
+
+#### [Onion CEO Ben Collins Hasn't Given Up on Print—or Buying Infowars](https://www.wired.com/story/uncanny-valley-podcast-big-interview-ben-collins-onion/)
+**发布时间**: 2025-09-02 11:00
+
+#### [Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries](https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/)
+**发布时间**: 2025-09-02 10:30
+
+#### [No, Trump Can’t Legally Federalize US Elections](https://www.wired.com/story/trump-federalize-election-unconstitutional/)
+**发布时间**: 2025-09-02 10:20
+
+#### [Meet the Guys Betting Big on AI Gambling Agents](https://www.wired.com/story/sports-betting-crypto-artificial-intelligence-agents/)
+**发布时间**: 2025-09-02 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么在小红书里的「电商」，长成了「市集」的模样](http://www.geekpark.net/news/353416)
+**发布时间**: 2025-09-02 18:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场010周AI应用榜：AI编程平台Qoder、全端智能体GenFlow、零门槛AI设计平台Seede AI等](https://www.infoq.cn/article/3qgEYUp1AWSyUkFAiLMG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 18:00
+
+#### [Git for Data: 像 Git 一样管理你的数据](https://www.infoq.cn/article/8qJZ1TQEN5qNgX3g8OFU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 17:52
+
+#### [以数生智，以智驭数：GenAI新常态下的企业数据之道 | 矩阵起源产品发布会重磅启幕](https://www.infoq.cn/article/DmttpseQsQAAlVziC2lR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 17:18
+
+#### [AI公司创始人现跑路迪拜！80%收入烧广告、假账骗投资人，微软都被坑：硅谷的第一个AI大泡沫出现了！](https://www.infoq.cn/article/rKMEkmkODPaYufGrtrco?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-02 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 108 | 量大管饱的派友七月剁手清单、一周热评和最新文章](https://sspai.com/post/102247)
+**发布时间**: 2025-09-02 16:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [管制五年，中国芯片产能却暴涨7倍？](http://www.huxiu.com/article/4761962.html?f=wangzhan)
+**发布时间**: 2025-09-02 16:10
 
 ---
 
