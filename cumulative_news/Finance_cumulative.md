@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-02 23:16
+**最后更新时间**: 2025-09-03 05:18
+
+---
+
+## 🆕 最新更新 (2025-09-03 05:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why you need to save more cash right now — even if the Fed cuts rates](https://www.marketwatch.com/bulletins/redirect/go?g=070fcbd2-c33f-43bb-9590-6ddcb091dce8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 00:44
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [With the traditional mix of stocks and bonds now riskier, here are ways to diversify, says BlackRock](https://www.marketwatch.com/story/with-the-traditional-mix-of-stocks-and-bonds-now-riskier-here-are-ways-to-diversify-says-blackrock-b3c06314?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 00:22
+
+#### [Alphabet and Apple stocks rally after Google antitrust ruling avoids the worst-case scenario](https://www.marketwatch.com/story/alphabets-stock-is-rising-after-google-antitrust-ruling-avoids-the-worst-case-scenario-39d1c284?mod=mw_rss_topstories)
+**发布时间**: 2025-09-02 23:28
 
 ---
 

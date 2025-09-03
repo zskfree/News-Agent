@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Sep 2025 23:16:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2025 23:18:24 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 05:20:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>7个AI玩狼人杀，GPT-5获断崖式MVP，Kimi手段激进</title>
-      <link>https://www.qbitai.com/2025/09/328239.html</link>
-      <description>&lt;![CDATA[7个AI玩狼人杀，GPT-5获断崖式MVP，Kimi手段激进]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328239.html</guid>
+      <title>Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2509.00125</link>
+      <description>&lt;![CDATA[Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00125</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苹果新研究：不微调、不重训，如何让AI提问效率暴增6.5倍？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-02-11</link>
-      <description>&lt;![CDATA[苹果新研究：不微调、不重训，如何让AI提问效率暴增6.5倍？]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-11</guid>
+      <title>LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain</title>
+      <link>https://arxiv.org/abs/2509.00510</link>
+      <description>&lt;![CDATA[LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00510</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: therapists secretly using AI, and Apple AirPods’ hearing aid potential</title>
-      <link>https://www.technologyreview.com/2025/09/02/1122877/the-download-therapists-secretly-using-ai-and-apple-airpods-hearing-aid-potential/</link>
-      <description>&lt;![CDATA[The Download: therapists secretly using AI, and Apple AirPods’ hearing aid potential]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/02/1122877/the-download-therapists-secretly-using-ai-and-apple-airpods-hearing-aid-potential/</guid>
+      <title>3 Questions: The pros and cons of synthetic data in AI</title>
+      <link>https://news.mit.edu/2025/3-questions-pros-cons-synthetic-data-ai-kalyan-veeramachaneni-0903</link>
+      <description>&lt;![CDATA[3 Questions: The pros and cons of synthetic data in AI]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/3-questions-pros-cons-synthetic-data-ai-kalyan-veeramachaneni-0903</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>What health care providers actually want from AI</title>
-      <link>https://www.technologyreview.com/2025/09/02/1122688/what-health-care-providers-actually-want-from-ai/</link>
-      <description>&lt;![CDATA[What health care providers actually want from AI]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/02/1122688/what-health-care-providers-actually-want-from-ai/</guid>
+      <title>Entropy-Guided Loop: Achieving Reasoning through Uncertainty-Aware Generation</title>
+      <link>https://arxiv.org/abs/2509.00079</link>
+      <description>&lt;![CDATA[Entropy-Guided Loop: Achieving Reasoning through Uncertainty-Aware Generation]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00079</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Can an AI doppelgänger help me do my job?</title>
-      <link>https://www.technologyreview.com/2025/09/02/1122856/can-an-ai-doppelganger-help-me-do-my-job/</link>
-      <description>&lt;![CDATA[Can an AI doppelgänger help me do my job?]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/02/1122856/can-an-ai-doppelganger-help-me-do-my-job/</guid>
+      <title>Ensemble Debates with Local Large Language Models for AI Alignment</title>
+      <link>https://arxiv.org/abs/2509.00091</link>
+      <description>&lt;![CDATA[Ensemble Debates with Local Large Language Models for AI Alignment]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00091</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Therapists are secretly using ChatGPT. Clients are triggered.</title>
-      <link>https://www.technologyreview.com/2025/09/02/1122871/therapists-using-chatgpt-secretly/</link>
-      <description>&lt;![CDATA[Therapists are secretly using ChatGPT. Clients are triggered.]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/02/1122871/therapists-using-chatgpt-secretly/</guid>
+      <title>Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems</title>
+      <link>https://arxiv.org/abs/2509.00115</link>
+      <description>&lt;![CDATA[Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00115</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开学&amp;教师节双重豪礼，英博云算力低至8毛8/卡时，赶紧薅起来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-02-12</link>
-      <description>&lt;![CDATA[开学&amp;教师节双重豪礼，英博云算力低至8毛8/卡时，赶紧薅起来]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-02-12</guid>
+      <title>Instruction-Level Weight Shaping: A Framework for Self-Improving AI Agents</title>
+      <link>https://arxiv.org/abs/2509.00251</link>
+      <description>&lt;![CDATA[Instruction-Level Weight Shaping: A Framework for Self-Improving AI Agents]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00251</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>3 Questions: On biology and medicine’s “data revolution”</title>
-      <link>https://news.mit.edu/2025/3-questions-caroline-uhler-biology-medicine-data-revolution-0902</link>
-      <description>&lt;![CDATA[3 Questions: On biology and medicine’s “data revolution”]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/3-questions-caroline-uhler-biology-medicine-data-revolution-0902</guid>
+      <title>Artificial Intelligence-Based Analysis of Ice Cream Melting Behavior Under Various Ingredients</title>
+      <link>https://arxiv.org/abs/2509.00507</link>
+      <description>&lt;![CDATA[Artificial Intelligence-Based Analysis of Ice Cream Melting Behavior Under Various Ingredients]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00507</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How healthcare accelerator programs are changing care</title>
-      <link>https://www.technologyreview.com/2025/09/02/1122698/how-healthcare-accelerator-programs-are-changing-care/</link>
-      <description>&lt;![CDATA[How healthcare accelerator programs are changing care]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/02/1122698/how-healthcare-accelerator-programs-are-changing-care/</guid>
+      <title>Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs</title>
+      <link>https://arxiv.org/abs/2509.00543</link>
+      <description>&lt;![CDATA[Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00543</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LeCun今后发论文得亚历山大王批准！Meta搞出大无语操作</title>
-      <link>https://www.qbitai.com/2025/09/328266.html</link>
-      <description>&lt;![CDATA[LeCun今后发论文得亚历山大王批准！Meta搞出大无语操作]]&gt;</description>
-      <pubDate>Tue, 02 Sep 2025 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328266.html</guid>
+      <title>BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting</title>
+      <link>https://arxiv.org/abs/2509.00622</link>
+      <description>&lt;![CDATA[BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.00622</guid>
       <category>AI</category>
     </item>
   </channel>
