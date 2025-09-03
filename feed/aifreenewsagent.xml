@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 03 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2025 05:20:01 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 08:26:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2509.00125</link>
-      <description>&lt;![CDATA[Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00125</guid>
+      <title>ICLR 2025｜KGExplainer：让新知识的发现“有理可循”</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-9</link>
+      <description>&lt;![CDATA[ICLR 2025｜KGExplainer：让新知识的发现“有理可循”]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain</title>
-      <link>https://arxiv.org/abs/2509.00510</link>
-      <description>&lt;![CDATA[LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00510</guid>
+      <title>入局AI4S？CPO宣布「OpenAI for Science」计划：打造下一代科学工具</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-8</link>
+      <description>&lt;![CDATA[入局AI4S？CPO宣布「OpenAI for Science」计划：打造下一代科学工具]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>3 Questions: The pros and cons of synthetic data in AI</title>
-      <link>https://news.mit.edu/2025/3-questions-pros-cons-synthetic-data-ai-kalyan-veeramachaneni-0903</link>
-      <description>&lt;![CDATA[3 Questions: The pros and cons of synthetic data in AI]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/3-questions-pros-cons-synthetic-data-ai-kalyan-veeramachaneni-0903</guid>
+      <title>2025外滩大会下周开幕 16位院士、图灵奖得主领衔40多场思想盛宴</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-7</link>
+      <description>&lt;![CDATA[2025外滩大会下周开幕 16位院士、图灵奖得主领衔40多场思想盛宴]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Entropy-Guided Loop: Achieving Reasoning through Uncertainty-Aware Generation</title>
-      <link>https://arxiv.org/abs/2509.00079</link>
-      <description>&lt;![CDATA[Entropy-Guided Loop: Achieving Reasoning through Uncertainty-Aware Generation]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00079</guid>
+      <title>从复刻魔术开始，RoboMirage打开了机器人仿真的新世界</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-6</link>
+      <description>&lt;![CDATA[从复刻魔术开始，RoboMirage打开了机器人仿真的新世界]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Ensemble Debates with Local Large Language Models for AI Alignment</title>
-      <link>https://arxiv.org/abs/2509.00091</link>
-      <description>&lt;![CDATA[Ensemble Debates with Local Large Language Models for AI Alignment]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00091</guid>
+      <title>宇树科技官宣：年内提交IPO，或将冲刺科创板</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-5</link>
+      <description>&lt;![CDATA[宇树科技官宣：年内提交IPO，或将冲刺科创板]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems</title>
-      <link>https://arxiv.org/abs/2509.00115</link>
-      <description>&lt;![CDATA[Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00115</guid>
+      <title>其实，扩散语言模型在最终解码之前很久，就已确定最终答案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-4</link>
+      <description>&lt;![CDATA[其实，扩散语言模型在最终解码之前很久，就已确定最终答案]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Instruction-Level Weight Shaping: A Framework for Self-Improving AI Agents</title>
-      <link>https://arxiv.org/abs/2509.00251</link>
-      <description>&lt;![CDATA[Instruction-Level Weight Shaping: A Framework for Self-Improving AI Agents]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00251</guid>
+      <title>语音分离最全综述来了！清华等团队深度分析200+文章，系统解析「鸡尾酒会问题」研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-03-3</link>
+      <description>&lt;![CDATA[语音分离最全综述来了！清华等团队深度分析200+文章，系统解析「鸡尾酒会问题」研究]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-03-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Artificial Intelligence-Based Analysis of Ice Cream Melting Behavior Under Various Ingredients</title>
-      <link>https://arxiv.org/abs/2509.00507</link>
-      <description>&lt;![CDATA[Artificial Intelligence-Based Analysis of Ice Cream Melting Behavior Under Various Ingredients]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00507</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs</title>
-      <link>https://arxiv.org/abs/2509.00543</link>
-      <description>&lt;![CDATA[Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00543</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting</title>
-      <link>https://arxiv.org/abs/2509.00622</link>
-      <description>&lt;![CDATA[BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.00622</guid>
+      <title>GPT-5又帮陶哲轩解决了一个难题</title>
+      <link>https://www.qbitai.com/2025/09/328419.html</link>
+      <description>&lt;![CDATA[GPT-5又帮陶哲轩解决了一个难题]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 07:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328419.html</guid>
       <category>AI</category>
     </item>
   </channel>

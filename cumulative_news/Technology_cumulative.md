@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-03 05:18
+**最后更新时间**: 2025-09-03 08:26
+
+---
+
+## 🆕 最新更新 (2025-09-03 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [卷疯了！字节、阿里等大厂发力AI智能体，全球96%企业正部署AI模型](https://www.tmtpost.com/7678190.html)
+**发布时间**: 2025-09-03 16:09
+
+#### [NIO Shares Rise as Second-Quarter Loss Narrows](https://www.tmtpost.com/7681477.html)
+**发布时间**: 2025-09-03 15:50
+
+#### [Transatlantic Tech Tensions Flare as EU Digital Laws Clash With U.S. Trade Pressure](https://www.tmtpost.com/7681471.html)
+**发布时间**: 2025-09-03 15:48
+
+#### [China's Big Six Banks Post Solid H1 2025 Results, but Margin Pressure and Retail Risks Loom](https://www.tmtpost.com/7681455.html)
+**发布时间**: 2025-09-03 15:41
+
+#### [大行科工闯关港交所，行业跑出46%增速的“隐形冠军”样本](https://www.tmtpost.com/7681259.html)
+**发布时间**: 2025-09-03 15:35
+
+#### [销量重回增长轨道，但蔚来翻身仗才打到一半｜钛度车库](https://www.tmtpost.com/7681287.html)
+**发布时间**: 2025-09-03 15:30
+
+#### [Trump Says He'll Seek Supreme Court's Expedited Ruling after Appeals Court Shots Down Global Tariffs](https://www.tmtpost.com/7681432.html)
+**发布时间**: 2025-09-03 15:25
+
+#### [9月3日A股分析：沪指跌1.16%报3813.56点，两市合计成交23640.86亿元，资金流入最多的行业板块为光伏设备](https://www.tmtpost.com/7681398.html)
+**发布时间**: 2025-09-03 15:14
+
+#### [Alibaba Reported to Develop New AI Chip after Backup Plan Confirmed at Earnings Call](https://www.tmtpost.com/7681372.html)
+**发布时间**: 2025-09-03 14:48
+
+#### [一场豪赌，阿里美团双人跳水](https://www.tmtpost.com/7681108.html)
+**发布时间**: 2025-09-03 14:32
+
+#### [猛开 5.3 万家门店后，蜜雪冰城将狂奔向何处？](https://www.tmtpost.com/7681092.html)
+**发布时间**: 2025-09-03 14:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [代理AI扩展到SecOps领域，减轻了人的负担](https://www.infoq.cn/article/r1jg3O87DAJRUj8h0Kx9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 16:00
+
+#### [宇树科技最新官宣：年内提交IPO，最快下个月](https://www.infoq.cn/article/sYfzvc7QCvQcgkrKFPoT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 15:48
+
+#### [从钢铁洪流到 AI+方阵：见证一场强国复兴的“数智跃迁”](https://www.infoq.cn/article/evATfbA1HSUAwTasjhW8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 15:32
+
+#### [Kotlin Multiplatform评估：跨平台开发中的优势与权衡](https://www.infoq.cn/article/umVYk70mHHLyEbiQiFqd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 15:00
+
+#### [XTransfer开源XRN框架：基于React Native的跨三端开发实践与鸿蒙NEXT攻坚](https://www.infoq.cn/article/cXCSVatEG1HiROplBHLH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 14:48
+
+#### [Node.js 迈向稳定的 TypeScript 支持：Amaro 1.0 发布](https://www.infoq.cn/article/oSOVRv9jQVu2oJKVRffL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 14:15
+
+#### [IBM和NASA联合训练出首个太阳物理学基础模型](https://www.infoq.cn/article/J27zzl3Zl7lP4DoNZuGq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 13:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [看什么·特别篇 | 看完阅兵看历史：影视作品中的战争岁月](https://sspai.com/post/102246)
+**发布时间**: 2025-09-03 15:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Ooni’s newest pizza oven adds AI to your slice](https://www.theverge.com/news/768542/ooni-volt-2-pizza-oven-ai-pizza-intelligence)
+**发布时间**: 2025-09-03 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [今起 AI 生成内容必须亮明身份；微信公号留言广告上线](http://www.geekpark.net/news/353308)
+**发布时间**: 2025-09-01 08:06
 
 ---
 
