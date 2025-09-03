@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-03 05:18
+**最后更新时间**: 2025-09-03 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-03 23:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 70 and have $2.6 million for retirement. Is 80% in equities too risky?](https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 23:00
+
+#### [American Eagle says Sydney Sweeney ad campaign ‘is not going anywhere’ after uptick in demand](https://www.marketwatch.com/story/american-eagle-says-sydney-sweeney-and-travis-kelce-campaigns-helping-fall-demand-as-shares-skyrocket-26e2c9d7?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 22:58
+
+#### [Figma’s revenue jumps 41%, but that’s not enough to lift the stock](https://www.marketwatch.com/story/figmas-revenue-jumps-41-but-thats-not-enough-to-lift-the-stock-cace7a67?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 22:54
+
+#### [Bitcoin firm backed by Trump brothers jumps 110% in debut before pulling back. Is it a buy?](https://www.marketwatch.com/story/bitcoin-firm-backed-by-trump-brothers-jumps-110-on-debut-before-pulling-back-is-it-a-buy-43280a21?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 22:35
+
+#### [‘Her kids will have no inheritance’: Will my friend lose her house to Medicaid if she goes into a nursing home?](https://www.marketwatch.com/story/her-kids-will-have-no-inheritance-will-my-friend-lose-her-house-to-medicaid-if-she-goes-into-a-nursing-home-e65e2ce4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 22:30
+
+#### [Salesforce posts an earnings beat — but stock drop shows investors are still wary of AI adoption](https://www.marketwatch.com/story/salesforce-posts-an-earnings-beat-but-stock-drop-shows-investors-are-still-wary-of-ai-adoption-aebe8f28?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 22:22
+
+#### [Rising prices upset shoppers. Do retailers dare tell the truth about who’s to blame?](https://www.marketwatch.com/story/tariff-triggered-price-hikes-upset-consumers-but-who-gets-the-blame-2dc8d454?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 21:16
+
+#### [After my father died, my stepsister transferred assets into her name. Do I have any legal recourse?](https://www.marketwatch.com/story/after-my-father-died-my-stepsister-transferred-assets-into-her-name-do-i-have-any-legal-recourse-9d7bb6ff?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 21:15
+
+#### [Fed officials struggle to explain slowing economy, adding to the sense a rate cut is coming](https://www.marketwatch.com/story/fed-officials-struggle-to-explain-slowing-economy-adding-to-the-sense-a-rate-cut-is-coming-fa9896ef?mod=mw_rss_topstories)
+**发布时间**: 2025-09-03 21:04
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Figma’s revenue jumps 41%, but that’s not enough to lift the stock](https://www.marketwatch.com/bulletins/redirect/go?g=6733c90a-5bb7-464b-82d7-c95a00482879&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 22:42
+
+#### [5 money moves to make if you win tonight's $1.4 billion Powerball jackpot](https://www.marketwatch.com/bulletins/redirect/go?g=f753446a-eeba-426d-b283-8f804d7ff275&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 21:57
+
+#### [Fed officials struggle to explain slowing economy, adding to rate-cut prospects](https://www.marketwatch.com/bulletins/redirect/go?g=becd90d8-52e6-4073-a7b9-3272a7ff49a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 21:35
+
+#### [Salesforce posts earnings beat, but stock's drop shows investors' AI concerns](https://www.marketwatch.com/bulletins/redirect/go?g=96480c7d-5002-43a3-8abe-05bde0a40357&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 20:37
+
+#### [Nasdaq, S&P 500 end higher on Big Tech rally, while Dow lags and closes lower](https://www.marketwatch.com/bulletins/redirect/go?g=f84025a1-a5be-4f10-8e9c-c233de0ad87b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 20:05
+
+#### [Markets entering a new ‘postmodern’ era, Goldman says. How investors can win.](https://www.marketwatch.com/bulletins/redirect/go?g=b89540be-1c36-481c-96f0-2d702ec8de6d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 19:54
+
+#### [Slower hiring, wary consumers: Fed’s beige book points to sluggish U.S. economy](https://www.marketwatch.com/bulletins/redirect/go?g=658945e7-9d64-4d8a-a2b0-5cd2a0b8379d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 19:21
+
+#### [Polymarket authorized for U.S. return days after Trump Jr. joins as advisor](https://www.marketwatch.com/bulletins/redirect/go?g=8dc5b513-80a8-4d51-b7bf-a1093dbe46b0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 18:24
+
+#### [Chevron and Boeing are sharpest decliners as Dow falls 150 points](https://www.marketwatch.com/bulletins/redirect/go?g=0058b354-9de0-4c24-a838-523e0e73b41f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 15:31
+
+#### [Job-openings data provide new evidence of weakening U.S. labor market](https://www.marketwatch.com/bulletins/redirect/go?g=fbd3810e-4cb5-4f07-bb6a-b546e998ccca&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 14:25
 
 ---
 

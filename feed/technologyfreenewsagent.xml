@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 03 Sep 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2025 08:26:55 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 23:19:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>宇树科技最新官宣：年内提交IPO，最快下个月</title>
-      <link>https://www.infoq.cn/article/sYfzvc7QCvQcgkrKFPoT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[宇树科技最新官宣：年内提交IPO，最快下个月]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sYfzvc7QCvQcgkrKFPoT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>郭台铭狂飙成首富，手握A股首只万亿科技股</title>
+      <link>https://www.tmtpost.com/7681043.html</link>
+      <description>&lt;![CDATA[郭台铭狂飙成首富，手握A股首只万亿科技股]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7681043.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kotlin Multiplatform评估：跨平台开发中的优势与权衡</title>
-      <link>https://www.infoq.cn/article/umVYk70mHHLyEbiQiFqd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kotlin Multiplatform评估：跨平台开发中的优势与权衡]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/umVYk70mHHLyEbiQiFqd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>下一个市值千亿的创新药企业是谁？</title>
+      <link>https://www.tmtpost.com/7681039.html</link>
+      <description>&lt;![CDATA[下一个市值千亿的创新药企业是谁？]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7681039.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Node.js 迈向稳定的 TypeScript 支持：Amaro 1.0 发布</title>
-      <link>https://www.infoq.cn/article/oSOVRv9jQVu2oJKVRffL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Node.js 迈向稳定的 TypeScript 支持：Amaro 1.0 发布]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oSOVRv9jQVu2oJKVRffL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>20+ 项目即将亮相外滩大会开源嘉年华，沉浸体验前沿科技</title>
+      <link>https://www.infoq.cn/article/md6TQB7iwDiJ7CO6Z6kb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[20+ 项目即将亮相外滩大会开源嘉年华，沉浸体验前沿科技]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 19:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/md6TQB7iwDiJ7CO6Z6kb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卷疯了！字节、阿里等大厂发力AI智能体，全球96%企业正部署AI模型</title>
-      <link>https://www.tmtpost.com/7678190.html</link>
-      <description>&lt;![CDATA[卷疯了！字节、阿里等大厂发力AI智能体，全球96%企业正部署AI模型]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 16:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7678190.html</guid>
+      <title>秒级集群翻转、分钟级IDC故障止损 | 同程大规模Elasticsearch平台架构设计与实践</title>
+      <link>https://www.infoq.cn/article/8iXpRvhNerah8iZzD7Q9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[秒级集群翻转、分钟级IDC故障止损 | 同程大规模Elasticsearch平台架构设计与实践]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8iXpRvhNerah8iZzD7Q9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>NIO Shares Rise as Second-Quarter Loss Narrows</title>
-      <link>https://www.tmtpost.com/7681477.html</link>
-      <description>&lt;![CDATA[NIO Shares Rise as Second-Quarter Loss Narrows]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7681477.html</guid>
+      <title>Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn</title>
+      <link>https://www.wired.com/story/stealerium-infostealer-porn-sextortion/</link>
+      <description>&lt;![CDATA[Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/stealerium-infostealer-porn-sextortion/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Transatlantic Tech Tensions Flare as EU Digital Laws Clash With U.S. Trade Pressure</title>
-      <link>https://www.tmtpost.com/7681471.html</link>
-      <description>&lt;![CDATA[Transatlantic Tech Tensions Flare as EU Digital Laws Clash With U.S. Trade Pressure]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7681471.html</guid>
+      <title>How 'Hollow Knight: Silksong' Fans Turned Waiting for Its Release Into a Game</title>
+      <link>https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/</link>
+      <description>&lt;![CDATA[How 'Hollow Knight: Silksong' Fans Turned Waiting for Its Release Into a Game]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's Big Six Banks Post Solid H1 2025 Results, but Margin Pressure and Retail Risks Loom</title>
-      <link>https://www.tmtpost.com/7681455.html</link>
-      <description>&lt;![CDATA[China's Big Six Banks Post Solid H1 2025 Results, but Margin Pressure and Retail Risks Loom]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7681455.html</guid>
+      <title>The Best Bluetooth Speaker Is $20 Off</title>
+      <link>https://www.wired.com/story/jbl-flip-7-speaker-deal/</link>
+      <description>&lt;![CDATA[The Best Bluetooth Speaker Is $20 Off]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/jbl-flip-7-speaker-deal/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大行科工闯关港交所，行业跑出46%增速的“隐形冠军”样本</title>
-      <link>https://www.tmtpost.com/7681259.html</link>
-      <description>&lt;![CDATA[大行科工闯关港交所，行业跑出46%增速的“隐形冠军”样本]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7681259.html</guid>
+      <title>This Robot Only Needs a Single AI Model to Master Humanlike Movements</title>
+      <link>https://www.wired.com/story/this-humanoid-robot-is-showing-signs-of-generalized-learning/</link>
+      <description>&lt;![CDATA[This Robot Only Needs a Single AI Model to Master Humanlike Movements]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/this-humanoid-robot-is-showing-signs-of-generalized-learning/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>销量重回增长轨道，但蔚来翻身仗才打到一半｜钛度车库</title>
-      <link>https://www.tmtpost.com/7681287.html</link>
-      <description>&lt;![CDATA[销量重回增长轨道，但蔚来翻身仗才打到一半｜钛度车库]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7681287.html</guid>
+      <title>The Instagram iPad App Is Finally Here</title>
+      <link>https://www.wired.com/story/instagram-ipad-app-is-finally-here/</link>
+      <description>&lt;![CDATA[The Instagram iPad App Is Finally Here]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/instagram-ipad-app-is-finally-here/</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump Says He'll Seek Supreme Court's Expedited Ruling after Appeals Court Shots Down Global Tariffs</title>
-      <link>https://www.tmtpost.com/7681432.html</link>
-      <description>&lt;![CDATA[Trump Says He'll Seek Supreme Court's Expedited Ruling after Appeals Court Shots Down Global Tariffs]]&gt;</description>
-      <pubDate>Wed, 03 Sep 2025 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7681432.html</guid>
+      <title>How Disinformation About the Minnesota Shooting Spread Like Wildfire on X</title>
+      <link>https://www.wired.com/story/disinformation-minnesota-shooting-x/</link>
+      <description>&lt;![CDATA[How Disinformation About the Minnesota Shooting Spread Like Wildfire on X]]&gt;</description>
+      <pubDate>Wed, 03 Sep 2025 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/disinformation-minnesota-shooting-x/</guid>
       <category>Technology</category>
     </item>
   </channel>

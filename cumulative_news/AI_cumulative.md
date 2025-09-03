@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-03 08:25
+**最后更新时间**: 2025-09-03 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-03 23:17)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，谷歌放出Nano Banana六大正宗Prompt玩法，手残党速来](https://www.jiqizhixin.com/articles/2025-09-03-12)
+**发布时间**: 2025-09-03 16:49
+
+#### [Anthropic承认模型降智后仍放任其偷懒？Claude Code用户信任崩塌中](https://www.jiqizhixin.com/articles/2025-09-03-11)
+**发布时间**: 2025-09-03 16:38
+
+#### [ICCV 2025 | 基于时序增强关系敏感知识迁移的弱监督动态场景图生成](https://www.jiqizhixin.com/articles/2025-09-03-10)
+**发布时间**: 2025-09-03 16:30
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A new generative AI approach to predicting chemical reactions](https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903)
+**发布时间**: 2025-09-03 15:55
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: sustainable architecture, and DeepSeek’s success](https://www.technologyreview.com/2025/09/03/1122955/the-download-sustainable-architecture-and-deepseeks-success/)
+**发布时间**: 2025-09-03 12:10
+
+#### [The connected customer](https://www.technologyreview.com/2025/09/03/1121441/the-connected-customer/)
+**发布时间**: 2025-09-03 08:46
+
+#### [Building the AI-enabled enterprise of the future](https://www.technologyreview.com/2025/09/03/1122367/building-the-ai-enabled-enterprise-of-the-future/)
+**发布时间**: 2025-09-03 08:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [大模型“记性差一点”反而更聪明！金鱼损失随机剔除token，让AI不再死记硬背](https://www.qbitai.com/2025/09/328429.html)
+**发布时间**: 2025-09-03 09:36
 
 ---
 

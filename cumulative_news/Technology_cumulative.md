@@ -1,7 +1,187 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-03 08:26
+**最后更新时间**: 2025-09-03 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-03 23:18)
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn](https://www.wired.com/story/stealerium-infostealer-porn-sextortion/)
+**发布时间**: 2025-09-03 21:04
+
+#### [How 'Hollow Knight: Silksong' Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)
+**发布时间**: 2025-09-03 19:00
+
+#### [The Best Bluetooth Speaker Is $20 Off](https://www.wired.com/story/jbl-flip-7-speaker-deal/)
+**发布时间**: 2025-09-03 18:11
+
+#### [This Robot Only Needs a Single AI Model to Master Humanlike Movements](https://www.wired.com/story/this-humanoid-robot-is-showing-signs-of-generalized-learning/)
+**发布时间**: 2025-09-03 18:00
+
+#### [The Instagram iPad App Is Finally Here](https://www.wired.com/story/instagram-ipad-app-is-finally-here/)
+**发布时间**: 2025-09-03 16:00
+
+#### [How Disinformation About the Minnesota Shooting Spread Like Wildfire on X](https://www.wired.com/story/disinformation-minnesota-shooting-x/)
+**发布时间**: 2025-09-03 15:28
+
+#### [Best Smokeless Firepits (2025), Tested for Fun and Fresh Air](https://www.wired.com/gallery/best-smokeless-fire-pit/)
+**发布时间**: 2025-09-03 15:01
+
+#### [Best Action Cameras (2025), Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
+**发布时间**: 2025-09-03 14:00
+
+#### [How to Switch From iPhone to Android (2025)](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)
+**发布时间**: 2025-09-03 13:00
+
+#### [Dolby Atmos FlexConnect Lets You Place Speakers Anywhere](https://www.wired.com/story/dolby-atmost-flex-connect-tcl/)
+**发布时间**: 2025-09-03 12:03
+
+#### [ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook](https://www.wired.com/review/remarkable-paper-pro-move/)
+**发布时间**: 2025-09-03 12:00
+
+#### [What Is a Passkey? Here’s How to Set Up and Use Them (2025)](https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/)
+**发布时间**: 2025-09-03 11:30
+
+#### [The Loophole Turning Stablecoins Into a Trillion-Dollar Fight](https://www.wired.com/story/genius-act-loophole-stablecoins-banks/)
+**发布时间**: 2025-09-03 11:00
+
+#### [Puffy Cloud Mattress Review: Soft but Supportive](https://www.wired.com/review/puffy-cloud-mattress/)
+**发布时间**: 2025-09-03 10:35
+
+#### [The Baby Died. Whose Fault Is It?](https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/)
+**发布时间**: 2025-09-03 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple&#8217;s rumored AI search tool for Siri could rely on Google](https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini)
+**发布时间**: 2025-09-03 20:47
+
+#### [I tried Jsaux’s new anti-glare Switch 2 screen protector, and it revealed a glaring bug](https://www.theverge.com/games/770667/i-tried-jsauxs-new-anti-glare-switch-2-screen-protector-and-it-revealed-a-glaring-bug)
+**发布时间**: 2025-09-03 20:39
+
+#### [Switzerland releases its own AI model trained on public data](https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus)
+**发布时间**: 2025-09-03 20:32
+
+#### [007 First Light looks like a hit, man](https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025)
+**发布时间**: 2025-09-03 18:59
+
+#### [Anker&#8217;s power bank with built-in USB-C cables is a great deal at $25 off](https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale)
+**发布时间**: 2025-09-03 18:08
+
+#### [More Pixel phones are getting Google’s new look for Android](https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive)
+**发布时间**: 2025-09-03 18:00
+
+#### [Pixel phones can now stream music for you and a friend at the same time](https://www.theverge.com/news/770233/google-android-bluetooth-audio-le-multiple-headphones)
+**发布时间**: 2025-09-03 18:00
+
+#### [Scale AI still exists and it’s suing an ex-employee over corporate espionage](https://www.theverge.com/ai-artificial-intelligence/770410/scale-ai-corporate-espionage-data-labeling-mercor-meta)
+**发布时间**: 2025-09-03 17:54
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [出货 1000 万台硬件后，我们和「凯叔讲故事」聊了聊「AI玩具」的核心](http://www.geekpark.net/news/353437)
+**发布时间**: 2025-09-03 19:59
+
+#### [他不懂代码，却用 AI 黑掉 17 家医院和机构，Vibe Hacking 让全世界变成缅北](http://www.geekpark.net/news/353436)
+**发布时间**: 2025-09-03 18:15
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [神州数码半年报：AI软件及服务营收翻倍，将更聚焦AI战略 | 看财报](https://www.tmtpost.com/7681522.html)
+**发布时间**: 2025-09-03 19:19
+
+#### [2.87亿接盘“中植系”资产，厦门舍德入主*ST天山的“保壳”与资本腾挪猜想](https://www.tmtpost.com/7681663.html)
+**发布时间**: 2025-09-03 19:04
+
+#### [苹果“铁幕”：当机器人成为准入门槛，库克在下什么大棋？](https://www.tmtpost.com/7681654.html)
+**发布时间**: 2025-09-03 18:48
+
+#### [线下美妆，被谁“吞噬”？](https://www.tmtpost.com/7681553.html)
+**发布时间**: 2025-09-03 18:44
+
+#### [重注AI眼镜，歌尔要从苹果“解套”](https://www.tmtpost.com/7681564.html)
+**发布时间**: 2025-09-03 18:44
+
+#### [AI基建赛道，液冷已领跑](https://www.tmtpost.com/7681645.html)
+**发布时间**: 2025-09-03 18:44
+
+#### [奥特曼赌印度，输在缺电](https://www.tmtpost.com/7681646.html)
+**发布时间**: 2025-09-03 18:44
+
+#### [明星不够用了，网红「接管」演唱会](https://www.tmtpost.com/7681655.html)
+**发布时间**: 2025-09-03 18:44
+
+#### [中国商超三大革命：裸采、自有品牌、宽类窄品](https://www.tmtpost.com/7681346.html)
+**发布时间**: 2025-09-03 17:52
+
+#### [【独家】香港议员吴杰庄：明年初或核发一张稳定币牌照，数字资产必是趋势](https://www.tmtpost.com/7681589.html)
+**发布时间**: 2025-09-03 17:46
+
+#### [华大基因：布局银发经济的万亿消费新蓝海](https://www.tmtpost.com/7681572.html)
+**发布时间**: 2025-09-03 17:39
+
+#### [藏在飞书里的出海“增长密码”](https://www.tmtpost.com/7680769.html)
+**发布时间**: 2025-09-03 17:22
+
+#### [跨界造车背后，一场被业绩增长与资本焦虑绑架的冒险](https://www.tmtpost.com/7681490.html)
+**发布时间**: 2025-09-03 17:22
+
+#### [酒店迷你吧怎么就成了“钱包刺客”？](https://www.tmtpost.com/7681071.html)
+**发布时间**: 2025-09-03 17:22
+
+#### [PD- L1 ADC，下一个超重磅BD领域？](https://www.tmtpost.com/7681059.html)
+**发布时间**: 2025-09-03 17:22
+
+#### [郭台铭狂飙成首富，手握A股首只万亿科技股](https://www.tmtpost.com/7681043.html)
+**发布时间**: 2025-09-03 17:22
+
+#### [下一个市值千亿的创新药企业是谁？](https://www.tmtpost.com/7681039.html)
+**发布时间**: 2025-09-03 17:22
+
+#### [把ADIZERO写进财报，阿迪达斯在想什么](https://www.tmtpost.com/7680859.html)
+**发布时间**: 2025-09-03 16:44
+
+#### [从职场社畜到齐天大圣：一部让1.2亿打工人泪崩的动画凭什么爆火？](https://www.tmtpost.com/7681309.html)
+**发布时间**: 2025-09-03 16:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [20+ 项目即将亮相外滩大会开源嘉年华，沉浸体验前沿科技](https://www.infoq.cn/article/md6TQB7iwDiJ7CO6Z6kb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 19:16
+
+#### [厌倦了JavaScript框架的复杂性？可以看下Still.js](https://www.infoq.cn/article/hl79xFQVzvyNu23zEGML?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 18:59
+
+#### [过时的Python版本会让公司损失数百万美元](https://www.infoq.cn/article/cl38ASFbBeGb2WTT0E8a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 18:48
+
+#### [GPT-5：前端开发者的“选择自己的冒险路线”](https://www.infoq.cn/article/ImPSISU8WvUPI2grhmgV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 18:38
+
+#### [Rust 天花板级大神公开发帖找工作：3000 次核心提交，不敌 “会调 OpenAI API、用 Cursor”？](https://www.infoq.cn/article/HvUJ1P9EARZ0rgsWMza9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 18:32
+
+#### [秒级集群翻转、分钟级IDC故障止损 | 同程大规模Elasticsearch平台架构设计与实践](https://www.infoq.cn/article/8iXpRvhNerah8iZzD7Q9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 18:20
+
+#### [11亿美元豪赌！OpenAI 收购 Statsig，并任命印裔创始人接管 ChatGPT 核心工程](https://www.infoq.cn/article/pdDsHj6KipJQCaNLtRib?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 17:53
+
+#### [从 “被动安全” 到 “主动验证”，CMaaS 如何守住企业核心数据？](https://www.infoq.cn/article/jRLjVktf0W8w66veSkEp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 17:52
+
+#### [LinkedIn重新架构了边缘构建系统，以支持多样化的推理工作流](https://www.infoq.cn/article/0vd9OYkZWVuKMmbNucCx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 17:00
+
+#### [地瓜机器人算法副总裁隋伟博士确认出席 QCon 上海，分享具身智能中的 VLA 技术及其应用](https://www.infoq.cn/article/ku8uucbwIs6zV3655CFW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 16:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜无需跳转、深度集成，沉浸式 iOS 翻译工具：Para 翻译](https://sspai.com/post/102214)
+**发布时间**: 2025-09-03 17:30
 
 ---
 
