@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 05:20:41 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 08:26:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全奖读AI！人工智能专业排名全球前10的MBZUAI启动本硕博项目招生</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-04-4</link>
-      <description>&lt;![CDATA[全奖读AI！人工智能专业排名全球前10的MBZUAI启动本硕博项目招生]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 12:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-4</guid>
+      <title>Claude Code凭什么牛？大模型团队天天用自家产品，发现bug直接就改了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-04-8</link>
+      <description>&lt;![CDATA[Claude Code凭什么牛？大模型团队天天用自家产品，发现bug直接就改了]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>奥特曼给ChatGPT空降高管，11亿美元收购独角兽创始人加入OpenAI…好熟悉的剧情</title>
-      <link>https://www.qbitai.com/2025/09/328350.html</link>
-      <description>&lt;![CDATA[奥特曼给ChatGPT空降高管，11亿美元收购独角兽创始人加入OpenAI…好熟悉的剧情]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328350.html</guid>
+      <title>刚刚，OpenAI发布白皮书：如何在AI时代保持领先</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-04-7</link>
+      <description>&lt;![CDATA[刚刚，OpenAI发布白皮书：如何在AI时代保持领先]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS)</title>
-      <link>https://arxiv.org/abs/2509.02661</link>
-      <description>&lt;![CDATA[The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS)]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02661</guid>
+      <title>科研AI的进化论！系统梳理600+数据集与模型，上海AI Lab等发布科学大语言模型全景式综述</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-04-6</link>
+      <description>&lt;![CDATA[科研AI的进化论！系统梳理600+数据集与模型，上海AI Lab等发布科学大语言模型全景式综述]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries</title>
-      <link>https://arxiv.org/abs/2509.02594</link>
-      <description>&lt;![CDATA[OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02594</guid>
+      <title>AI也邪修！Qwen3改Bug测试直接搜GitHub，太拟人了</title>
+      <link>https://www.qbitai.com/2025/09/328496.html</link>
+      <description>&lt;![CDATA[AI也邪修！Qwen3改Bug测试直接搜GitHub，太拟人了]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 06:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328496.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>BioBlue: Notable runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format</title>
-      <link>https://arxiv.org/abs/2509.02655</link>
-      <description>&lt;![CDATA[BioBlue: Notable runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02655</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>长视频AI数字人来了！字节×浙大推出商用级音频驱动数字人模型InfinityHuman</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-04-5</link>
-      <description>&lt;![CDATA[长视频AI数字人来了！字节×浙大推出商用级音频驱动数字人模型InfinityHuman]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI搜索引擎，苹果决定自研！代号WKA</title>
-      <link>https://www.qbitai.com/2025/09/328461.html</link>
-      <description>&lt;![CDATA[AI搜索引擎，苹果决定自研！代号WKA]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 01:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328461.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Can Media Act as a Soft Regulator of Safe AI Development? A Game Theoretical Analysis</title>
-      <link>https://arxiv.org/abs/2509.02650</link>
-      <description>&lt;![CDATA[Can Media Act as a Soft Regulator of Safe AI Development? A Game Theoretical Analysis]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02650</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Deep Research is the New Analytics System: Towards Building the Runtime for AI-Driven Analytics</title>
-      <link>https://arxiv.org/abs/2509.02751</link>
-      <description>&lt;![CDATA[Deep Research is the New Analytics System: Towards Building the Runtime for AI-Driven Analytics]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02751</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Do LLM Modules Generalize? A Study on Motion Generation for Autonomous Driving</title>
-      <link>https://arxiv.org/abs/2509.02754</link>
-      <description>&lt;![CDATA[Do LLM Modules Generalize? A Study on Motion Generation for Autonomous Driving]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02754</guid>
+      <title>Hinton突然对AGI乐观了！“Ilya让他看到了什么吧…”</title>
+      <link>https://www.qbitai.com/2025/09/328475.html</link>
+      <description>&lt;![CDATA[Hinton突然对AGI乐观了！“Ilya让他看到了什么吧…”]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 06:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328475.html</guid>
       <category>AI</category>
     </item>
   </channel>

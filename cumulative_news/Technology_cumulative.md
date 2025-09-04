@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-04 05:19
+**最后更新时间**: 2025-09-04 08:25
+
+---
+
+## 🆕 最新更新 (2025-09-04 08:25)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「一句话生成爆款视频」，这款 AI 流量神器有点东西｜AI 上新](http://www.geekpark.net/news/353477)
+**发布时间**: 2025-09-04 16:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI重构出行：从地面到空中，智能物流生态的“破界”时刻](https://www.tmtpost.com/7682461.html)
+**发布时间**: 2025-09-04 16:13
+
+#### [播放破14亿，男频爆款短剧背后：游戏化、系列化、长线化](https://www.tmtpost.com/7682470.html)
+**发布时间**: 2025-09-04 16:12
+
+#### [小红书电商，一直在找答案](https://www.tmtpost.com/7682511.html)
+**发布时间**: 2025-09-04 16:11
+
+#### [大疆、影石、追觅互相“偷家”，千亿无人机市场上演“三国杀”](https://www.tmtpost.com/7681894.html)
+**发布时间**: 2025-09-04 16:10
+
+#### [阿洛酮糖即将上市，新晋“代糖明星”能否复制赤鲜糖醇的商业奇迹？](https://www.tmtpost.com/7680535.html)
+**发布时间**: 2025-09-04 16:10
+
+#### [开学了，儿童指纹水杯爆单了](https://www.tmtpost.com/7682340.html)
+**发布时间**: 2025-09-04 16:10
+
+#### [短剧风口下的现实：掌阅、中文在线、昆仑万维的业绩启示](https://www.tmtpost.com/7682377.html)
+**发布时间**: 2025-09-04 16:05
+
+#### [乒乓德甲俱乐部的商业困境与破局 | 欧洲观察](https://www.tmtpost.com/7681846.html)
+**发布时间**: 2025-09-04 16:04
+
+#### [稚晖君和他的投资人，搞了家创投公司](https://www.tmtpost.com/7682452.html)
+**发布时间**: 2025-09-04 16:02
+
+#### [抢演员、囤版权，短剧行业资源战白热化，头部平台如何破局？](https://www.tmtpost.com/7682468.html)
+**发布时间**: 2025-09-04 15:59
+
+#### [最难出海赛道，闯进欧美高端医疗市场](https://www.tmtpost.com/7682781.html)
+**发布时间**: 2025-09-04 15:55
+
+#### [游戏传媒板块“涨”声依旧，完美世界的增长确定能延续吗？](https://www.tmtpost.com/7682795.html)
+**发布时间**: 2025-09-04 15:52
+
+#### [九识、新石器博弈无人配送路权生死劫](https://www.tmtpost.com/7682800.html)
+**发布时间**: 2025-09-04 15:52
+
+#### [腾讯、红杉押注的数据智能独角兽，港股备案已过，明略这回稳了吗？](https://www.tmtpost.com/7682869.html)
+**发布时间**: 2025-09-04 15:52
+
+#### [宇树IPO提速，但并不顺利](https://www.tmtpost.com/7682878.html)
+**发布时间**: 2025-09-04 15:52
+
+#### [9月4日A股分析：深度回调！沪指跌1.25%失守3800点，主力资金出逃超千亿，半导体、通信设备成重灾区](https://www.tmtpost.com/7682918.html)
+**发布时间**: 2025-09-04 15:34
+
+#### [高度酒库存积压，低度酒预售秒空，白酒企业要靠“降度”突围？](https://www.tmtpost.com/7682492.html)
+**发布时间**: 2025-09-04 15:25
+
+#### [15年送2000多位逝者远行，年轻“白事管家”的生死笔记](https://www.tmtpost.com/7682838.html)
+**发布时间**: 2025-09-04 15:25
+
+#### [为什么在2025年，大厂必须下注世界模型？](https://www.tmtpost.com/7682845.html)
+**发布时间**: 2025-09-04 15:25
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [对话李斌：5%的人相信蔚来四季度能盈利，以前是1%](http://www.huxiu.com/article/4762982.html?f=wangzhan)
+**发布时间**: 2025-09-04 15:24
+
+#### [不会AI编程就要被开除？Coinbase放狠招](http://www.huxiu.com/article/4762611.html?f=wangzhan)
+**发布时间**: 2025-09-04 13:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Amazon EKS支持每个集群10万节点的超大规模AI/ML工作负载](https://www.infoq.cn/article/AhTMGaclHZB65JHGgXVC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 15:00
+
+#### [智能推荐新纪元：快手生成式技术对系统边界的消融与重建](https://xie.infoq.cn/article/563871ab37a519d4c0c2733f3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-03 20:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/102267)
+**发布时间**: 2025-09-04 14:58
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Aqara announces Apple-friendly doorbell, outdoor camera, video hub, and more](https://www.theverge.com/news/771071/aqara-announces-apple-friendly-doorbell-outdoor-camera-video-hub-and-more)
+**发布时间**: 2025-09-04 08:16
+
+#### [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
+**发布时间**: 2025-09-04 08:00
+
+#### [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)
+**发布时间**: 2025-09-04 08:00
+
+#### [Philips Hue responds to cheaper competitors with major product overhaul](https://www.theverge.com/smart-home/768554/philips-hue-essentials-smart-lighting-cheaper-support-matter-thread)
+**发布时间**: 2025-09-04 07:30
+
+#### [Inside Philips Hue’s plans to make all your lights motion sensors](https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani)
+**发布时间**: 2025-09-04 07:30
+
+#### [Your Sonos speakers can now control your Hue lights](https://www.theverge.com/smart-home/768604/your-sonos-speakers-control-hue-lights)
+**发布时间**: 2025-09-04 07:30
+
+#### [Hue launches its first video doorbell](https://www.theverge.com/news/769914/hue-video-doorbell-pricing-release-date)
+**发布时间**: 2025-09-04 07:30
+
+#### [Philips Hue lights get bigger, brighter, and cheaper with a major product refresh](https://www.theverge.com/ifa-berlin/769934/philips-hue-essentials-bridge-pro-light-strip-matter-ifa-launch)
+**发布时间**: 2025-09-04 07:30
+
+#### [Aukey&#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)
+**发布时间**: 2025-09-04 06:00
 
 ---
 

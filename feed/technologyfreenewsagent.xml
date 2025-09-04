@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 05:19:53 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 08:26:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek V3.1发布，采用了混合推理架构</title>
-      <link>https://www.infoq.cn/article/9Y8qGo3izA5R78JEgYl2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek V3.1发布，采用了混合推理架构]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9Y8qGo3izA5R78JEgYl2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>抢演员、囤版权，短剧行业资源战白热化，头部平台如何破局？</title>
+      <link>https://www.tmtpost.com/7682468.html</link>
+      <description>&lt;![CDATA[抢演员、囤版权，短剧行业资源战白热化，头部平台如何破局？]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682468.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gartner解读：AI浪潮下的基础设施战略，企业如何平衡创新与韧性</title>
-      <link>https://www.infoq.cn/article/5eUzLfevReLE5d8xUZMt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gartner解读：AI浪潮下的基础设施战略，企业如何平衡创新与韧性]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5eUzLfevReLE5d8xUZMt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>「一句话生成爆款视频」，这款 AI 流量神器有点东西｜AI 上新</title>
+      <link>http://www.geekpark.net/news/353477</link>
+      <description>&lt;![CDATA[「一句话生成爆款视频」，这款 AI 流量神器有点东西｜AI 上新]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/353477</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出Gemini 2.5 Flash Image，具备高级编辑和一致性功能</title>
-      <link>https://www.infoq.cn/article/55EpwclxUdl6jC0Juk0p?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出Gemini 2.5 Flash Image，具备高级编辑和一致性功能]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/55EpwclxUdl6jC0Juk0p?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI重构出行：从地面到空中，智能物流生态的“破界”时刻</title>
+      <link>https://www.tmtpost.com/7682461.html</link>
+      <description>&lt;![CDATA[AI重构出行：从地面到空中，智能物流生态的“破界”时刻]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682461.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Hugging Face推出轻量级开源实验跟踪库Trackio</title>
-      <link>https://www.infoq.cn/article/llmtESiXjtKArK9IbLdm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Hugging Face推出轻量级开源实验跟踪库Trackio]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/llmtESiXjtKArK9IbLdm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>播放破14亿，男频爆款短剧背后：游戏化、系列化、长线化</title>
+      <link>https://www.tmtpost.com/7682470.html</link>
+      <description>&lt;![CDATA[播放破14亿，男频爆款短剧背后：游戏化、系列化、长线化]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682470.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>趣丸运维 AI Agent：从 1.0 到 2.0 的自学习进化实战｜QCon 上海</title>
-      <link>https://www.infoq.cn/article/uCRGuVOCHJu6Ia922kwc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[趣丸运维 AI Agent：从 1.0 到 2.0 的自学习进化实战｜QCon 上海]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uCRGuVOCHJu6Ia922kwc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>小红书电商，一直在找答案</title>
+      <link>https://www.tmtpost.com/7682511.html</link>
+      <description>&lt;![CDATA[小红书电商，一直在找答案]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682511.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's Commercial Space Industry Poised for Takeoff in 2025</title>
-      <link>https://www.tmtpost.com/7682673.html</link>
-      <description>&lt;![CDATA[China's Commercial Space Industry Poised for Takeoff in 2025]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 12:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7682673.html</guid>
+      <title>大疆、影石、追觅互相“偷家”，千亿无人机市场上演“三国杀”</title>
+      <link>https://www.tmtpost.com/7681894.html</link>
+      <description>&lt;![CDATA[大疆、影石、追觅互相“偷家”，千亿无人机市场上演“三国杀”]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7681894.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>女频独大之后，民俗能否改写短剧版图？</title>
-      <link>https://www.tmtpost.com/7682504.html</link>
-      <description>&lt;![CDATA[女频独大之后，民俗能否改写短剧版图？]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7682504.html</guid>
+      <title>阿洛酮糖即将上市，新晋“代糖明星”能否复制赤鲜糖醇的商业奇迹？</title>
+      <link>https://www.tmtpost.com/7680535.html</link>
+      <description>&lt;![CDATA[阿洛酮糖即将上市，新晋“代糖明星”能否复制赤鲜糖醇的商业奇迹？]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7680535.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Salesforce：AI 到底是 “救星” 还是 “丧钟”？</title>
-      <link>https://www.tmtpost.com/7682530.html</link>
-      <description>&lt;![CDATA[Salesforce：AI 到底是 “救星” 还是 “丧钟”？]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7682530.html</guid>
+      <title>开学了，儿童指纹水杯爆单了</title>
+      <link>https://www.tmtpost.com/7682340.html</link>
+      <description>&lt;![CDATA[开学了，儿童指纹水杯爆单了]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682340.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超大制作的失利启示：《蛟龙行动（特别版）》上映</title>
-      <link>https://www.tmtpost.com/7682481.html</link>
-      <description>&lt;![CDATA[超大制作的失利启示：《蛟龙行动（特别版）》上映]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 12:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7682481.html</guid>
+      <title>短剧风口下的现实：掌阅、中文在线、昆仑万维的业绩启示</title>
+      <link>https://www.tmtpost.com/7682377.html</link>
+      <description>&lt;![CDATA[短剧风口下的现实：掌阅、中文在线、昆仑万维的业绩启示]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682377.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长视频“邪修”百人厨综：好多金主啊</title>
-      <link>https://www.tmtpost.com/7682515.html</link>
-      <description>&lt;![CDATA[长视频“邪修”百人厨综：好多金主啊]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7682515.html</guid>
+      <title>乒乓德甲俱乐部的商业困境与破局 | 欧洲观察</title>
+      <link>https://www.tmtpost.com/7681846.html</link>
+      <description>&lt;![CDATA[乒乓德甲俱乐部的商业困境与破局 | 欧洲观察]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7681846.html</guid>
       <category>Technology</category>
     </item>
   </channel>
