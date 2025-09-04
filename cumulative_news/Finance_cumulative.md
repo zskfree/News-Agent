@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-04 05:19
+**最后更新时间**: 2025-09-04 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-04 23:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [NFL fans can stream all games this season for the first time — and may pay less](https://www.marketwatch.com/bulletins/redirect/go?g=388ca772-d183-475d-bac5-d79c2975c72f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 23:03
+
+#### [‘Cult stock’ Opendoor has hit a 3-year high. And this is why.](https://www.marketwatch.com/bulletins/redirect/go?g=d53dce1b-cf4f-4024-b7fd-95c4acdc0e43&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 22:12
+
+#### [Broadcom shares rise as it sees 63% growth in AI sales and gives a rosy forecast](https://www.marketwatch.com/bulletins/redirect/go?g=ecf2ce25-3947-4368-ba83-1f7db84d85d1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 21:21
+
+#### [Trump’s ‘Apprentice’-style competition for Fed chief starts now. What to know.](https://www.marketwatch.com/bulletins/redirect/go?g=d1e9e38d-cc4e-4127-bc0e-64758c57d575&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 20:58
+
+#### [S&P 500 scores new record close as stocks climb ahead of Friday’s jobs report](https://www.marketwatch.com/bulletins/redirect/go?g=41fece3f-8424-478b-b5f4-c1882ddbcdf6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 20:03
+
+#### [It will take a doozy of a jobs report to derail investors' rate-cut expectations](https://www.marketwatch.com/bulletins/redirect/go?g=e7bd907e-bca9-4d6f-92e1-b3134c28d01f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 19:32
+
+#### [How the Fed could lower mortgage rates nearly overnight. (It’s not a rate cut.)](https://www.marketwatch.com/bulletins/redirect/go?g=c79f1b5b-8bbe-4faa-a61d-19d7fbb1886a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 18:59
+
+#### [More people with six-figure incomes are shopping at Dollar General, Dollar Tree](https://www.marketwatch.com/bulletins/redirect/go?g=e34ca108-d317-437c-bdbe-c8d0db543768&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 16:20
+
+#### [Has Honeywell suddenly become a quantum-computing powerhouse?](https://www.marketwatch.com/bulletins/redirect/go?g=e34dbb4c-c2ee-4a27-8dd2-e36382f40510&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 15:32
+
+#### [Stocks little changed as Wall Street grows more concerned about U.S. job market](https://www.marketwatch.com/bulletins/redirect/go?g=eb57f4ff-8990-4f41-9326-fe49ed22cc2d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 14:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Broadcom gives Wall Street plenty of reason to cheer, and its stock moves higher](https://www.marketwatch.com/story/broadcom-sees-63-growth-in-ai-sales-and-gives-a-rosy-forecast-why-isnt-its-stock-rising-more-e2c79ebe?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 22:50
+
+#### [Lululemon says it has gotten ‘too predictable,’ as tariffs, outlook sink its stock](https://www.marketwatch.com/story/lululemons-shares-slide-as-retailer-cuts-outlook-amid-industry-wide-challenges-b84253c5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 22:31
+
+#### [I’m about to inherit a lot of money. How do I make sure my husband doesn’t get any of it?](https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 22:30
+
+#### [‘She’s a very proud woman:’ My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?](https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 22:13
+
+#### [S&P 500 books record as falling rates bring ‘relief’ — but beware the ‘tale of two bond markets’](https://www.marketwatch.com/story/s-p-500-books-record-as-falling-rates-bring-relief-but-beware-the-tale-of-two-bond-markets-73165c57?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 22:10
+
+#### [5 ways the Trump administration could use declaring a national housing emergency to help home buyers](https://www.marketwatch.com/story/5-ways-the-trump-administration-could-use-declaring-a-national-housing-emergency-to-help-home-buyers-4543abbe?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 21:03
+
+#### [Costco’s monthly sales are on a roll, thanks to surge in online orders](https://www.marketwatch.com/story/costcos-monthly-sales-are-on-a-roll-thanks-to-surge-in-online-orders-483ac7b1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 20:58
+
+#### [Meta is paying a 24-year old AI researcher $250 million — echoing the dot-com bubble](https://www.marketwatch.com/story/paying-an-ai-engineer-more-than-nba-superstar-stephen-curry-thats-a-bubble-ready-to-pop-6426ecbd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 20:50
 
 ---
 

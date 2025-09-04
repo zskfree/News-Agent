@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Sep 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 08:26:47 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 23:19:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Code凭什么牛？大模型团队天天用自家产品，发现bug直接就改了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-04-8</link>
-      <description>&lt;![CDATA[Claude Code凭什么牛？大模型团队天天用自家产品，发现bug直接就改了]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-8</guid>
+      <title>又多了一个哄孩子AI神器，一张破涂鸦竟能秒变迪士尼动画</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-04-10</link>
+      <description>&lt;![CDATA[又多了一个哄孩子AI神器，一张破涂鸦竟能秒变迪士尼动画]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 17:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，OpenAI发布白皮书：如何在AI时代保持领先</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-04-7</link>
-      <description>&lt;![CDATA[刚刚，OpenAI发布白皮书：如何在AI时代保持领先]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 15:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-7</guid>
+      <title>Imagining the future of banking with agentic AI</title>
+      <link>https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/</link>
+      <description>&lt;![CDATA[Imagining the future of banking with agentic AI]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科研AI的进化论！系统梳理600+数据集与模型，上海AI Lab等发布科学大语言模型全景式综述</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-04-6</link>
-      <description>&lt;![CDATA[科研AI的进化论！系统梳理600+数据集与模型，上海AI Lab等发布科学大语言模型全景式综述]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 14:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-6</guid>
+      <title>The Download: unnerving AI avatars, and Trump’s climate gift to China</title>
+      <link>https://www.technologyreview.com/2025/09/04/1123066/the-download-unnerving-ai-avatars-and-trumps-climate-gift-to-china/</link>
+      <description>&lt;![CDATA[The Download: unnerving AI avatars, and Trump’s climate gift to China]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/04/1123066/the-download-unnerving-ai-avatars-and-trumps-climate-gift-to-china/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI也邪修！Qwen3改Bug测试直接搜GitHub，太拟人了</title>
-      <link>https://www.qbitai.com/2025/09/328496.html</link>
-      <description>&lt;![CDATA[AI也邪修！Qwen3改Bug测试直接搜GitHub，太拟人了]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 06:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328496.html</guid>
+      <title>Synthesia’s AI clones are more expressive than ever. Soon they’ll be able to talk back.</title>
+      <link>https://www.technologyreview.com/2025/09/04/1123054/synthesias-ai-clones-are-more-expressive-than-ever-soon-theyll-be-able-to-talk-back/</link>
+      <description>&lt;![CDATA[Synthesia’s AI clones are more expressive than ever. Soon they’ll be able to talk back.]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/04/1123054/synthesias-ai-clones-are-more-expressive-than-ever-soon-theyll-be-able-to-talk-back/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Hinton突然对AGI乐观了！“Ilya让他看到了什么吧…”</title>
-      <link>https://www.qbitai.com/2025/09/328475.html</link>
-      <description>&lt;![CDATA[Hinton突然对AGI乐观了！“Ilya让他看到了什么吧…”]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 06:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328475.html</guid>
+      <title>9.16-9.17来腾讯全球数字生态大会，与行业大咖「智者见智」共话AI增益新机</title>
+      <link>https://www.qbitai.com/2025/09/328646.html</link>
+      <description>&lt;![CDATA[9.16-9.17来腾讯全球数字生态大会，与行业大咖「智者见智」共话AI增益新机]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328646.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>港科广×腾讯联手打造《我的世界》神操作，400张截图就能让AI挖矿通关，成本降至5%｜EMNLP 2025</title>
+      <link>https://www.qbitai.com/2025/09/328632.html</link>
+      <description>&lt;![CDATA[港科广×腾讯联手打造《我的世界》神操作，400张截图就能让AI挖矿通关，成本降至5%｜EMNLP 2025]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328632.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Q2学习机出货量增46%！IDC：科大讯飞AI学习机登顶市场销售额第一</title>
+      <link>https://www.qbitai.com/2025/09/328513.html</link>
+      <description>&lt;![CDATA[Q2学习机出货量增46%！IDC：科大讯飞AI学习机登顶市场销售额第一]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328513.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，李飞飞主讲的斯坦福经典CV课「2025 CS231n」免费可看了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-04-11</link>
+      <description>&lt;![CDATA[刚刚，李飞飞主讲的斯坦福经典CV课「2025 CS231n」免费可看了]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>PosterGen：告别学术海报制作烦恼，从PDF一键生成「演示级」可编辑PPTX学术海报</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-04-9</link>
+      <description>&lt;![CDATA[PosterGen：告别学术海报制作烦恼，从PDF一键生成「演示级」可编辑PPTX学术海报]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-04-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>A greener way to 3D print stronger stuff</title>
+      <link>https://news.mit.edu/2025/greener-way-3d-print-stronger-stuff-0904</link>
+      <description>&lt;![CDATA[A greener way to 3D print stronger stuff]]&gt;</description>
+      <pubDate>Thu, 04 Sep 2025 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/greener-way-3d-print-stronger-stuff-0904</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-04 08:25
+**最后更新时间**: 2025-09-04 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-04 23:17)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，李飞飞主讲的斯坦福经典CV课「2025 CS231n」免费可看了](https://www.jiqizhixin.com/articles/2025-09-04-11)
+**发布时间**: 2025-09-04 17:57
+
+#### [又多了一个哄孩子AI神器，一张破涂鸦竟能秒变迪士尼动画](https://www.jiqizhixin.com/articles/2025-09-04-10)
+**发布时间**: 2025-09-04 17:55
+
+#### [PosterGen：告别学术海报制作烦恼，从PDF一键生成「演示级」可编辑PPTX学术海报](https://www.jiqizhixin.com/articles/2025-09-04-9)
+**发布时间**: 2025-09-04 17:47
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A greener way to 3D print stronger stuff](https://news.mit.edu/2025/greener-way-3d-print-stronger-stuff-0904)
+**发布时间**: 2025-09-04 16:30
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Imagining the future of banking with agentic AI](https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/)
+**发布时间**: 2025-09-04 16:21
+
+#### [The Download: unnerving AI avatars, and Trump’s climate gift to China](https://www.technologyreview.com/2025/09/04/1123066/the-download-unnerving-ai-avatars-and-trumps-climate-gift-to-china/)
+**发布时间**: 2025-09-04 12:10
+
+#### [Transforming CX with embedded real-time analytics](https://www.technologyreview.com/2025/09/04/1122669/transforming-cx-with-embedded-real-time-analytics/)
+**发布时间**: 2025-09-04 11:40
+
+#### [Synthesia’s AI clones are more expressive than ever. Soon they’ll be able to talk back.](https://www.technologyreview.com/2025/09/04/1123054/synthesias-ai-clones-are-more-expressive-than-ever-soon-theyll-be-able-to-talk-back/)
+**发布时间**: 2025-09-04 10:05
+
+#### [How Trump is helping China extend its massive lead in clean energy](https://www.technologyreview.com/2025/09/04/1123014/how-trump-is-helping-china-extend-its-massive-lead-in-clean-energy/)
+**发布时间**: 2025-09-04 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [9.16-9.17来腾讯全球数字生态大会，与行业大咖「智者见智」共话AI增益新机](https://www.qbitai.com/2025/09/328646.html)
+**发布时间**: 2025-09-04 10:48
+
+#### [港科广×腾讯联手打造《我的世界》神操作，400张截图就能让AI挖矿通关，成本降至5%｜EMNLP 2025](https://www.qbitai.com/2025/09/328632.html)
+**发布时间**: 2025-09-04 10:43
+
+#### [不藏了！华为麒麟9020芯片高调加持，三折叠只卖1万8](https://www.qbitai.com/2025/09/328598.html)
+**发布时间**: 2025-09-04 09:56
+
+#### [中国最赚钱的三大车企加一起，利润勉强追上宁德时代](https://www.qbitai.com/2025/09/328568.html)
+**发布时间**: 2025-09-04 09:38
+
+#### [人形机器人终于学会洗碗了](https://www.qbitai.com/2025/09/328517.html)
+**发布时间**: 2025-09-04 09:25
+
+#### [Q2学习机出货量增46%！IDC：科大讯飞AI学习机登顶市场销售额第一](https://www.qbitai.com/2025/09/328513.html)
+**发布时间**: 2025-09-04 08:36
 
 ---
 

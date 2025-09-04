@@ -1,7 +1,189 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-04 08:25
+**最后更新时间**: 2025-09-04 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-04 23:18)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
+**发布时间**: 2025-09-04 21:49
+
+#### [Tech companies pledge to ready Americans for an AI-dominated world](https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education)
+**发布时间**: 2025-09-04 21:28
+
+#### [The new Street Fighter movie Hadokens into theaters in October 2026](https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast)
+**发布时间**: 2025-09-04 20:04
+
+#### [Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now](https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale)
+**发布时间**: 2025-09-04 19:55
+
+#### [Why it’s so hard to make a ‘safer’ football helmet](https://www.theverge.com/design/771771/design-safer-helmets-nfl)
+**发布时间**: 2025-09-04 18:30
+
+#### [Stardew Valley’s creator is in Silksong](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)
+**发布时间**: 2025-09-04 18:11
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now](https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/)
+**发布时间**: 2025-09-04 21:27
+
+#### [US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers](https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/)
+**发布时间**: 2025-09-04 19:50
+
+#### [Should AI Get Legal Rights?](https://www.wired.com/story/model-welfare-artificial-intelligence-sentience/)
+**发布时间**: 2025-09-04 19:05
+
+#### [The 35 Best Movies on HBO Max Right Now (September 2025)](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+**发布时间**: 2025-09-04 19:00
+
+#### [Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues](https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/)
+**发布时间**: 2025-09-04 18:47
+
+#### [Anti-Vaxxers Rejoice at Florida’s Scheme to End Vaccine Mandates for Kids and Everyone Else](https://www.wired.com/story/anti-vaxxers-rejoice-florida-plan-end-vaccine-mandate/)
+**发布时间**: 2025-09-04 17:05
+
+#### [‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash](https://www.wired.com/story/hollow-knight-silksong-is-already-causing-online-gaming-stores-to-crash/)
+**发布时间**: 2025-09-04 16:10
+
+#### [State Department Agents Are Now Working With ICE on Immigration](https://www.wired.com/story/state-department-dss-agents-ice-immigration/)
+**发布时间**: 2025-09-04 15:51
+
+#### [Should the Company Trucks Go Electric? Depends on When You Charge](https://www.wired.com/story/managed-charging-evs-ford-southern-company/)
+**发布时间**: 2025-09-04 15:30
+
+#### [The Unexpected Winners of Trump’s Trade War](https://www.wired.com/story/shein-temu-winners-trade-war-trump/)
+**发布时间**: 2025-09-04 15:19
+
+#### [It’s Possible to Remove the Forever Chemicals in Drinking Water. Will It Happen?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)
+**发布时间**: 2025-09-04 15:05
+
+#### [3 Best Robot Lawn Mowers (2025), Tested and Reviewed](https://www.wired.com/gallery/best-robot-lawn-mowers/)
+**发布时间**: 2025-09-04 14:30
+
+#### [How Often Should You Vacuum to Get Rid of Microplastics and Other Particulates? (2025)](https://www.wired.com/story/how-often-should-you-vacuum/)
+**发布时间**: 2025-09-04 14:04
+
+#### [How to Prevent Tech Neck and Sit Properly With Your Laptop (2025)](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)
+**发布时间**: 2025-09-04 13:00
+
+#### [A Labubu Rave Offers a Salve for the Darkest Timeline](https://www.wired.com/story/a-labubu-rave-offers-a-salve-for-the-darkest-timeline/)
+**发布时间**: 2025-09-04 11:00
+
+#### [Is Congestion Pricing Working? The MTA’s Revamped Data Team Is Figuring It Out](https://www.wired.com/story/nyc-mta-data-team-congestion-pricing/)
+**发布时间**: 2025-09-04 10:00
+
+#### [Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price](https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/)
+**发布时间**: 2025-09-04 09:33
+
+#### [This Blood Thinner Is More Effective Than Aspirin at Preventing Heart Attacks](https://www.wired.com/story/anticoagulant-shown-to-be-more-effective-than-aspirin-in-preventing-heart-attacks/)
+**发布时间**: 2025-09-04 09:00
+
+#### [How ‘Hollow Knight: Silksong’ Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)
+**发布时间**: 2025-09-03 19:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [24999 元！华为推了一个「最大」的 Mate！](http://www.geekpark.net/news/353492)
+**发布时间**: 2025-09-04 21:11
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [54岁华润老将接班侯孝海，延续 “啤白双线”，白酒业务亏损成首要挑战](https://www.tmtpost.com/7683226.html)
+**发布时间**: 2025-09-04 20:43
+
+#### [分红潮“逆行者”郑州银行：距离监管红线只差0.1%](https://www.tmtpost.com/7682498.html)
+**发布时间**: 2025-09-04 19:22
+
+#### [李飞飞的答案：大模型之后，Agent 向何处去？](https://www.tmtpost.com/7683053.html)
+**发布时间**: 2025-09-04 19:22
+
+#### [营收增20%，净利跌近七成，彩电“旧王”创维陷入“增收不增利”死局](https://www.tmtpost.com/7683069.html)
+**发布时间**: 2025-09-04 19:22
+
+#### [两大指数成分股调整：寒王与“易中天”应声下跌，投资者咋办？](https://www.tmtpost.com/7683194.html)
+**发布时间**: 2025-09-04 19:21
+
+#### [智能眼镜“烧”内容生态，一场无谓的豪赌](https://www.tmtpost.com/7683388.html)
+**发布时间**: 2025-09-04 19:21
+
+#### [“清华系”VS“阿里系”：中国大模型创业的“隐形门派”之争](https://www.tmtpost.com/7683311.html)
+**发布时间**: 2025-09-04 19:21
+
+#### [海外第二大短剧市场：有人$10万成本赚$500万](https://www.tmtpost.com/7683390.html)
+**发布时间**: 2025-09-04 19:21
+
+#### [从市值60亿到不足1亿：车车科技遭遇现实困境与规模增长挑战](https://www.tmtpost.com/7683392.html)
+**发布时间**: 2025-09-04 19:21
+
+#### [Apple Grapples With AI Talent Exodus as Tech Giants Compete for Top Researchers](https://www.tmtpost.com/7683395.html)
+**发布时间**: 2025-09-04 18:24
+
+#### [国产车布局超豪华，一场向上突围的持久战](https://www.tmtpost.com/7683319.html)
+**发布时间**: 2025-09-04 18:09
+
+#### [西餐发展报告2025：市场规模逼近千亿，“漂亮饭”、美式慢烤火爆](https://www.tmtpost.com/7683235.html)
+**发布时间**: 2025-09-04 18:09
+
+#### [2025智驾 “大逃杀”，谁会被VLA“绞杀”？](https://www.tmtpost.com/7683290.html)
+**发布时间**: 2025-09-04 18:09
+
+#### [业绩下滑后股权激励放水，前次募投延期的福莱新材欲再募7亿](https://www.tmtpost.com/7683252.html)
+**发布时间**: 2025-09-04 17:57
+
+#### [8 人团队，闯出 DataAgent 新赛道｜“抓住下一个Z一鸣”速访](https://www.tmtpost.com/7682986.html)
+**发布时间**: 2025-09-04 17:16
+
+#### [淘宝闪购 5 万家闪电仓追平美团？即时零售闪电仓争夺战才刚开始](https://www.tmtpost.com/7682527.html)
+**发布时间**: 2025-09-04 16:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [佩通坦被解职，一家出三个总理却无一善终，泰国权力架构有多复杂？](http://www.huxiu.com/article/4760988.html?f=wangzhan)
+**发布时间**: 2025-09-04 19:00
+
+#### [打农药的一千四百年，农民值得被看见](http://www.huxiu.com/article/4762912.html?f=wangzhan)
+**发布时间**: 2025-09-04 15:30
+
+#### [对话李斌：最初 1%的人相信蔚来四季度能盈利，现在不一样了！](http://www.huxiu.com/article/4762982.html?f=wangzhan)
+**发布时间**: 2025-09-04 15:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [直击调参痛点！负载压缩加速调参落地](https://www.infoq.cn/video/ijVdqhv4EulY3Jud6yi4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:58
+
+#### [提升事务处理效率新招：“热点感知”+“组锁模式”！](https://www.infoq.cn/video/H6ABTtFfTyR9OqVmhPYB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:57
+
+#### [隔离级别事务 bug 捕获率 91.4%！WSS 成利器，串行比对判错超直接](https://www.infoq.cn/video/hYBwtGMhDVxb0OFxotu1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:56
+
+#### [颠覆认知：大模型训练过程的本质就是数据压缩！](https://www.infoq.cn/video/GQaCN1mR95DO9RJGsgEl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:55
+
+#### [戳中智能查询生成痛点！真实性 + 覆盖性不足催生新需求，大模型入场仍有挑战](https://www.infoq.cn/video/kgo0t5DLarcOuxhC6Dy9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:54
+
+#### [不小心养了只Al宠物： FUzozo测评 | AI 的 n 次方](https://www.infoq.cn/video/ZVmg4t7sCaYVogy0WYOf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:50
+
+#### [相信持续精进的力量|《十字路口》系列视频·第五期](https://www.infoq.cn/video/oRtymHpzAj4pPYedu0Mm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 18:33
+
+#### [抱上Meta“大腿”后，自家公司要搞黄了？Scale AI狂丢大客户，又遭6年老员工“背刺”](https://www.infoq.cn/article/YbHOtxCKmpfkKLMdImjt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 17:10
+
+#### [我又创业啦](https://www.infoq.cn/article/FxWOsiORK4szBxJRgdRe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-04 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 220｜少数派的编辑们最近买了啥？](https://sspai.com/post/102287)
+**发布时间**: 2025-09-04 17:01
 
 ---
 
