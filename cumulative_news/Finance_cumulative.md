@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-03 23:18
+**最后更新时间**: 2025-09-04 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-04 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [401(k) millionaires reach an all-time high. Here’s the No. 1 thing most Gen Xers and boomers did to get there.](https://www.marketwatch.com/story/401-k-millionaires-reach-an-all-time-high-heres-the-no-1-thing-most-gen-xers-and-boomers-did-to-get-there-6935ea47?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 04:01
+
+#### [5 money moves to make if you win the $1.4 billion Powerball jackpot — or get any kind of financial windfall](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 03:20
+
+#### [NBA to investigate alleged $28 million payment to Kawhi Leonard. Here’s what the punishment could be.](https://www.marketwatch.com/story/nba-star-kawhi-leonard-allegedly-received-28-million-outside-the-salary-cap-heres-what-the-punishment-could-be-if-its-true-7ab0f60c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 01:31
+
+#### [HPE books record revenue — and shows off an attractive growth driver](https://www.marketwatch.com/story/hpe-books-record-revenue-and-shows-off-an-attractive-growth-driver-4886948e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 00:13
+
+#### [C3.ai’s stock has been deservedly ‘battered,’ its former CEO says. Can a new leader right the ship?](https://www.marketwatch.com/story/c3-ais-stock-has-been-deservedly-battered-its-former-ceo-says-can-a-new-leader-right-the-ship-204d67f9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 00:13
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Opinion: Bonds are a disaster. Why you may want to buy more.](https://www.marketwatch.com/bulletins/redirect/go?g=2f7a6046-c5bc-4a7c-bff8-456798b70746&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-04 01:07
+
+#### [Why Nvidia and these other chip stocks were just deemed hot plays](https://www.marketwatch.com/bulletins/redirect/go?g=3a45129c-c766-44b8-9978-df01531925b5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-03 23:23
 
 ---
 
