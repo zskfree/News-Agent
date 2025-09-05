@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-05 05:19
+**最后更新时间**: 2025-09-05 08:31
+
+---
+
+## 🆕 最新更新 (2025-09-05 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Multi-Agent架构赋能传媒领域“策、采、编、发”｜创新场景](https://www.tmtpost.com/7683097.html)
+**发布时间**: 2025-09-05 22:10
+
+#### [2025上半年消费图鉴：情绪、性价比与钱的流向](https://www.tmtpost.com/7684198.html)
+**发布时间**: 2025-09-05 16:10
+
+#### [China's Sweetener Market Heats Up as Allulose Emerges as the Next Big Sugar Substitute](https://www.tmtpost.com/7684381.html)
+**发布时间**: 2025-09-05 15:49
+
+#### [Ex-Meizu CEO Launches Astraux, a New Startup Betting on Micro EVs and AI Hardware](https://www.tmtpost.com/7684375.html)
+**发布时间**: 2025-09-05 15:45
+
+#### [华发冰雪热雪奇迹即将启幕，再添文体旅融合新地标](https://www.tmtpost.com/7684314.html)
+**发布时间**: 2025-09-05 15:32
+
+#### [The Commercial Dilemma and Breakthrough of German Table Tennis Bundesliga Clubs](https://www.tmtpost.com/7684346.html)
+**发布时间**: 2025-09-05 15:30
+
+#### [企业IT资产AI化改造解决方案，模型幻觉问题解决率达100% | 创新场景](https://www.tmtpost.com/7665661.html)
+**发布时间**: 2025-09-05 15:30
+
+#### [小米、格力，谁是第二？](https://www.tmtpost.com/7684009.html)
+**发布时间**: 2025-09-05 15:25
+
+#### [郭芙蓉今日走出同福客栈](https://www.tmtpost.com/7683968.html)
+**发布时间**: 2025-09-05 15:25
+
+#### [9月5日A股分析：三大指数集体上涨，两市合计成交23046.59亿元，资金流入最多的行业板块为电池、电子元件](https://www.tmtpost.com/7684306.html)
+**发布时间**: 2025-09-05 15:17
+
+#### [从Perplexity对Chrome发起收购要约，深聊新一轮AI浏览器大战](https://www.tmtpost.com/7683776.html)
+**发布时间**: 2025-09-05 14:23
+
+#### [智能体+全量数据处理中枢，证券行业大模型合规质检准确率提升40% | 创新场景](https://www.tmtpost.com/7662576.html)
+**发布时间**: 2025-09-05 13:53
+
+#### [38毫米机身、14万转马达，戴森推出铅笔吸尘器等多款新品｜IFA 2025](https://www.tmtpost.com/7684139.html)
+**发布时间**: 2025-09-05 13:33
+
+#### [英伟达、AMD 寡淡？博通霸气接棒 AI 扛旗手](https://www.tmtpost.com/7683915.html)
+**发布时间**: 2025-09-05 13:32
+
+#### [钛媒体首届硅谷峰会炸裂开启，超强阵容深入科技与投资最前沿](https://www.tmtpost.com/7684148.html)
+**发布时间**: 2025-09-05 13:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从计算到存储，阿里云打通AI落地的“任督二脉”](https://www.infoq.cn/article/lu9Ell74pNmzMKCigwSo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 15:43
+
+#### [如何用社会技术设计改善架构决策](https://www.infoq.cn/article/Eza17SbmJcpgj4o3NC9J?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 15:37
+
+#### [如何破解海量内容审核难题？快手安全大模型技术探索与应用实践](https://www.infoq.cn/article/6R251b2U2bDaQMgbIsFA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 15:13
+
+#### [北京邮电大学副教授、博士生导师徐梦炜博士确认出席 QCon 上海，分享终端大模型操作系统的架构、优化与展望](https://www.infoq.cn/article/QjjqEx7JdVgoyu7uYiar?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 14:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [前作广受好评，新作备受期待：《空洞骑士：丝之歌》试玩体验](https://sspai.com/post/102303)
+**发布时间**: 2025-09-05 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [第一家 AI 浏览器公司，卖了 43 亿！](http://www.geekpark.net/news/353533)
+**发布时间**: 2025-09-05 13:57
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [This robot lawnmower is designed to pick fruit and throw your dog a ball](https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower)
+**发布时间**: 2025-09-05 07:30
+
+#### [Timekettle’s new translation earbuds are made for sharing](https://www.theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction)
+**发布时间**: 2025-09-05 07:00
+
+#### [Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up](https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost)
+**发布时间**: 2025-09-05 06:00
+
+#### [Lenovo updates its beefiest and bulkiest laptops](https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa)
+**发布时间**: 2025-09-05 06:00
+
+#### [Lenovo’s new concept laptop has a rotating screen that’s perfect for doomscrolling](https://www.theverge.com/news/771907/lenovo-thinkbook-vertiflex-concept-laptop-vertical-screen-specs)
+**发布时间**: 2025-09-05 06:00
+
+#### [This stand can automatically lift, tilt, and turn your laptop toward you](https://www.theverge.com/news/772033/this-stand-can-automatically-lift-tilt-and-turn-your-laptop-towards-you)
+**发布时间**: 2025-09-05 06:00
+
+#### [Better get used to your smart lights having built-in microphones](https://www.theverge.com/news/772038/lepro-smart-light-built-in-microphone-ifa)
+**发布时间**: 2025-09-05 06:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Lenovo's ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen](https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/)
+**发布时间**: 2025-09-05 06:00
 
 ---
 

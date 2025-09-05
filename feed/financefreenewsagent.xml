@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2025 05:21:07 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 08:32:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>This group could put a stop to crypto and private equity in your 401(k)</title>
-      <link>https://www.marketwatch.com/story/401-k-plans-are-opening-to-private-equity-and-crypto-but-this-group-could-put-a-stop-to-it-8602693a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This group could put a stop to crypto and private equity in your 401(k)]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 02:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/401-k-plans-are-opening-to-private-equity-and-crypto-but-this-group-could-put-a-stop-to-it-8602693a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>NFL fans can stream all games this season for the first time — and could end up paying less to do so</title>
-      <link>https://www.marketwatch.com/story/nfl-fans-can-stream-all-games-this-season-for-the-first-time-and-could-end-up-paying-less-to-do-so-5fbe6a42?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[NFL fans can stream all games this season for the first time — and could end up paying less to do so]]&gt;</description>
-      <pubDate>Thu, 04 Sep 2025 23:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nfl-fans-can-stream-all-games-this-season-for-the-first-time-and-could-end-up-paying-less-to-do-so-5fbe6a42?mod=mw_rss_topstories</guid>
+      <title>Crunch time for Argentina as local elections this weekend represent referendum on Milei</title>
+      <link>https://www.marketwatch.com/story/crunch-time-for-argentina-as-local-elections-this-weekend-represent-referendum-on-milei-23c32dba?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Crunch time for Argentina as local elections this weekend represent referendum on Milei]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/crunch-time-for-argentina-as-local-elections-this-weekend-represent-referendum-on-milei-23c32dba?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

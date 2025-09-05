@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2025 05:21:07 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 08:32:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Leveraging LLM-Based Agents for Intelligent Supply Chain Planning</title>
-      <link>https://arxiv.org/abs/2509.03811</link>
-      <description>&lt;![CDATA[Leveraging LLM-Based Agents for Intelligent Supply Chain Planning]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.03811</guid>
+      <title>被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-05-8</link>
+      <description>&lt;![CDATA[被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多模态大模型持续学习系列研究，综述+Benchmark+方法+Codebase一网打尽！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05-3</link>
-      <description>&lt;![CDATA[多模态大模型持续学习系列研究，综述+Benchmark+方法+Codebase一网打尽！]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-3</guid>
+      <title>不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-05-7</link>
+      <description>&lt;![CDATA[不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>拓展天文学认知边界，Google DeepMind用AI助力LIGO，填补宇宙演化史缺失环节</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05-2</link>
-      <description>&lt;![CDATA[拓展天文学认知边界，Google DeepMind用AI助力LIGO，填补宇宙演化史缺失环节]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>拍我AI限时免费6天！手办、宠物、奇幻创意随你生成不限次！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05</link>
-      <description>&lt;![CDATA[拍我AI限时免费6天！手办、宠物、奇幻创意随你生成不限次！]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ChatGPT新功能，又干掉一批创业项目</title>
-      <link>https://www.qbitai.com/2025/09/328741.html</link>
-      <description>&lt;![CDATA[ChatGPT新功能，又干掉一批创业项目]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 04:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328741.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method</title>
-      <link>https://arxiv.org/abs/2509.03550</link>
-      <description>&lt;![CDATA[Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.03550</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents</title>
-      <link>https://arxiv.org/abs/2509.03581</link>
-      <description>&lt;![CDATA[Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.03581</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE</title>
-      <link>https://arxiv.org/abs/2509.03626</link>
-      <description>&lt;![CDATA[Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.03626</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2509.03646</link>
-      <description>&lt;![CDATA[Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.03646</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PersonaTeaming: Exploring How Introducing Personas Can Improve Automated AI Red-Teaming</title>
-      <link>https://arxiv.org/abs/2509.03728</link>
-      <description>&lt;![CDATA[PersonaTeaming: Exploring How Introducing Personas Can Improve Automated AI Red-Teaming]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.03728</guid>
+      <title>外滩大会主论坛阵容揭幕！顶级学者、产业领袖和青年创新力量共话未来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-05-6</link>
+      <description>&lt;![CDATA[外滩大会主论坛阵容揭幕！顶级学者、产业领袖和青年创新力量共话未来]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-6</guid>
       <category>AI</category>
     </item>
   </channel>

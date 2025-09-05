@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-05 05:19
+**最后更新时间**: 2025-09-05 08:31
+
+---
+
+## 🆕 最新更新 (2025-09-05 08:31)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Crunch time for Argentina as local elections this weekend represent referendum on Milei](https://www.marketwatch.com/story/crunch-time-for-argentina-as-local-elections-this-weekend-represent-referendum-on-milei-23c32dba?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 07:14
 
 ---
 
