@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-05 08:26
+**最后更新时间**: 2025-09-05 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-05 23:17)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [抢先看｜2025外滩大会精华亮点，一图信息全Get！](https://www.jiqizhixin.com/articles/2025-09-05-9)
+**发布时间**: 2025-09-05 16:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [视频理解新标杆，快手多模态推理模型开源：128k上下文+0.1秒级视频定位+跨模态推理](https://www.qbitai.com/2025/09/328898.html)
+**发布时间**: 2025-09-05 13:39
+
+#### [小米真把保时捷Taycan设计师挖来了](https://www.qbitai.com/2025/09/328857.html)
+**发布时间**: 2025-09-05 08:19
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: longevity myths, and sewer-cleaning robots](https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/)
+**发布时间**: 2025-09-05 12:10
+
+#### [Putin says organ transplants could grant immortality. Not quite.](https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/)
+**发布时间**: 2025-09-05 09:00
 
 ---
 

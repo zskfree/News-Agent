@@ -1,7 +1,148 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-05 08:31
+**最后更新时间**: 2025-09-05 23:22
+
+---
+
+## 🆕 最新更新 (2025-09-05 23:22)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai)
+**发布时间**: 2025-09-05 23:05
+
+#### [Classic Sesame Street episodes are coming to YouTube](https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix)
+**发布时间**: 2025-09-05 21:11
+
+#### [Anthropic to pay $1.5 billion to authors in landmark AI settlement](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement)
+**发布时间**: 2025-09-05 20:29
+
+#### [Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic](https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons)
+**发布时间**: 2025-09-05 19:00
+
+#### [The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)
+**发布时间**: 2025-09-05 16:54
+
+#### [Google fined $3.5 billion by EU for ad tech abuse](https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine)
+**发布时间**: 2025-09-05 16:51
+
+#### [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
+**发布时间**: 2025-09-05 16:32
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [熊猫文化、顶级赛事与ESG实践，IFA展上看见长虹“出海”新叙事](https://www.tmtpost.com/7684973.html)
+**发布时间**: 2025-09-05 22:56
+
+#### [2.6亿补偿悬空、陕西友帮停产止血，康惠制药“无缝切入”AI新叙事](https://www.tmtpost.com/7684978.html)
+**发布时间**: 2025-09-05 22:55
+
+#### [宝馨科技半年内两度跨界：机器人、半导体能否拯救光伏“失意者”？｜并购一线](https://www.tmtpost.com/7684865.html)
+**发布时间**: 2025-09-05 21:38
+
+#### [方便食品突围：深挖需求提价值，技术创新破“内卷”丨行业风向标](https://www.tmtpost.com/7684878.html)
+**发布时间**: 2025-09-05 21:36
+
+#### [创业板芯片公司国科微披露并购进展；“氢能第一股”终止重大资产重组【并购一线】](https://www.tmtpost.com/7684879.html)
+**发布时间**: 2025-09-05 21:32
+
+#### [端侧AI如何破解智能座舱的三大难题？| 创新场景](https://www.tmtpost.com/7682290.html)
+**发布时间**: 2025-09-05 21:05
+
+#### [蔚来还没盈利，但更多人开始相信李斌了](https://www.tmtpost.com/7684812.html)
+**发布时间**: 2025-09-05 20:36
+
+#### [AI驱动的智能招聘生态系统，人岗匹配精度提升60% | 创新场景](https://www.tmtpost.com/7669310.html)
+**发布时间**: 2025-09-05 20:30
+
+#### [Multi-Agent框架如何破解汽车金融业务流程难题？| 创新场景](https://www.tmtpost.com/7669119.html)
+**发布时间**: 2025-09-05 19:35
+
+#### [无招拥抱了陈立武](https://www.tmtpost.com/7684062.html)
+**发布时间**: 2025-09-05 19:22
+
+#### [重磅，中企赴美上市生变，纳斯达克新规要求最低募资2500万](https://www.tmtpost.com/7684028.html)
+**发布时间**: 2025-09-05 19:22
+
+#### [8月AI月报：全球AI下载3.7亿，字节3款AI暴涨](https://www.tmtpost.com/7684657.html)
+**发布时间**: 2025-09-05 19:21
+
+#### [美团的中东战事：一年狂飙，Keeta冲进沙特前二](https://www.tmtpost.com/7684558.html)
+**发布时间**: 2025-09-05 19:21
+
+#### [Mate TV推出，GPMI火了](https://www.tmtpost.com/7684682.html)
+**发布时间**: 2025-09-05 19:21
+
+#### [叶国富的豪赌，已付出代价？](https://www.tmtpost.com/7683878.html)
+**发布时间**: 2025-09-05 19:21
+
+#### [知乎等待下一个拐点](https://www.tmtpost.com/7684025.html)
+**发布时间**: 2025-09-05 19:21
+
+#### [基于工业大模型、Agent构建电子产品工业AI智能装备解决方案，每年节省百万级资源损耗 | 创新场景](https://www.tmtpost.com/7634905.html)
+**发布时间**: 2025-09-05 18:53
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Tesla Proposes a Trillion-Dollar Bet That It's More Than Just Cars](https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/)
+**发布时间**: 2025-09-05 22:26
+
+#### [Defense Department Scrambles to Pretend It’s Called the War Department](https://www.wired.com/story/department-of-defense-department-of-war/)
+**发布时间**: 2025-09-05 22:22
+
+#### [Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement](https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/)
+**发布时间**: 2025-09-05 19:14
+
+#### [Top Spec Razer Blade Laptops Are Average 14 Percent Off Right Now](https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/)
+**发布时间**: 2025-09-05 17:52
+
+#### [The Doomers Who Insist AI Will Kill Us All](https://www.wired.com/story/the-doomers-who-insist-ai-will-kill-us-all/)
+**发布时间**: 2025-09-05 15:08
+
+#### [Tech CEOs Praise Donald Trump at White House Dinner](https://www.wired.com/story/tech-ceos-donald-trump-white-house/)
+**发布时间**: 2025-09-05 14:16
+
+#### [7 Best Password Managers (2025), Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
+**发布时间**: 2025-09-05 13:00
+
+#### [The 29 Best Energy Drinks, Tested and Reviewed (2025)](https://www.wired.com/story/best-energy-drinks/)
+**发布时间**: 2025-09-05 12:39
+
+#### [All the Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)
+**发布时间**: 2025-09-05 12:00
+
+#### [‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings](https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/)
+**发布时间**: 2025-09-05 10:00
+
+#### [Lenovo’s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen](https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/)
+**发布时间**: 2025-09-05 06:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [突发！Anthropic “封杀”中国控股公司，禁止他们Claude等AI服务](https://www.infoq.cn/article/4IpOKeq7lJmFMkGjjbUW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 21:00
+
+#### [刚刚，智谱推出“Claude API 用户特别搬家计划”，包月价格仅为 Claude 1/7！](https://www.infoq.cn/article/j3Z7TBmCRfEWF4KXZ6ye?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 18:06
+
+#### [粗糙赶工 6 周，卖出 43.6 亿！抛弃数百万用户被骂“作死”的 AI 浏览器 85 天反转](https://www.infoq.cn/article/k9UbwIzBVjmuTFIgdM3C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 17:42
+
+#### [Android Studio 新功能上线，Compose 预览可调，开发者：终于不用盯着屏幕傻调尺寸了](https://www.infoq.cn/article/iZP2K9FOdKoURfY6Bmjc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-05 17:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [追觅给洗地机，加了一双「灵巧手」](http://www.geekpark.net/news/353560)
+**发布时间**: 2025-09-05 18:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102306)
+**发布时间**: 2025-09-05 17:40
+
+#### [技术语境中那些熟悉又陌生的英语动词（一）](https://sspai.com/prime/story/interesting-verbs-in-computing)
+**发布时间**: 2025-09-05 17:31
 
 ---
 

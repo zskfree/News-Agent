@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Sep 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2025 08:32:01 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 23:23:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05-8</link>
-      <description>&lt;![CDATA[被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-8</guid>
+      <title>抢先看｜2025外滩大会精华亮点，一图信息全Get！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-05-9</link>
+      <description>&lt;![CDATA[抢先看｜2025外滩大会精华亮点，一图信息全Get！]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05-7</link>
-      <description>&lt;![CDATA[不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-7</guid>
+      <title>视频理解新标杆，快手多模态推理模型开源：128k上下文+0.1秒级视频定位+跨模态推理</title>
+      <link>https://www.qbitai.com/2025/09/328898.html</link>
+      <description>&lt;![CDATA[视频理解新标杆，快手多模态推理模型开源：128k上下文+0.1秒级视频定位+跨模态推理]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328898.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>外滩大会主论坛阵容揭幕！顶级学者、产业领袖和青年创新力量共话未来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05-6</link>
-      <description>&lt;![CDATA[外滩大会主论坛阵容揭幕！顶级学者、产业领袖和青年创新力量共话未来]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-6</guid>
+      <title>The Download: longevity myths, and sewer-cleaning robots</title>
+      <link>https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/</link>
+      <description>&lt;![CDATA[The Download: longevity myths, and sewer-cleaning robots]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Putin says organ transplants could grant immortality. Not quite.</title>
+      <link>https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/</link>
+      <description>&lt;![CDATA[Putin says organ transplants could grant immortality. Not quite.]]&gt;</description>
+      <pubDate>Fri, 05 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/</guid>
       <category>AI</category>
     </item>
   </channel>

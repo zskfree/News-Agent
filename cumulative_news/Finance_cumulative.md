@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-05 08:31
+**最后更新时间**: 2025-09-05 23:22
+
+---
+
+## 🆕 最新更新 (2025-09-05 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Bessent's essay against the Fed is a bid for 'control' over the central bank](https://www.marketwatch.com/bulletins/redirect/go?g=55e7e83b-4136-402c-b3a4-8f5d541684fa&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 23:07
+
+#### [Kenvue fights back against RFK Jr.’s Tylenol safety concerns as its stock sinks](https://www.marketwatch.com/bulletins/redirect/go?g=e2cc86d5-1de6-4ee9-b18a-23e30c562f2b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 22:52
+
+#### [Why AMD’s stock just saw one of the worst drops in the S&P 500 on Friday](https://www.marketwatch.com/bulletins/redirect/go?g=d0498b41-0981-4453-8409-006016eb8c42&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 22:32
+
+#### [Robinhood finally gets a place in the S&P 500. These other stocks to also join.](https://www.marketwatch.com/bulletins/redirect/go?g=70f71d4d-ac48-433e-8775-3f51c0924443&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 21:40
+
+#### [U.S. stocks lose ground Friday after anemic employment-growth data](https://www.marketwatch.com/bulletins/redirect/go?g=57ae2cb2-9486-4633-8f09-bda40a35f3f7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 20:08
+
+#### [S&P 500 component changes are expected after the closing bell](https://www.marketwatch.com/bulletins/redirect/go?g=027257d1-107a-49a4-a3be-24891c11b177&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 19:40
+
+#### [Bond yields tumble as job-market frailty puts half-point Fed rate cut on table](https://www.marketwatch.com/bulletins/redirect/go?g=fe85de25-8ffb-4fc6-b975-a98470fae211&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 18:13
+
+#### [The U.S. economy had added jobs every month since 2020. Till this summer.](https://www.marketwatch.com/bulletins/redirect/go?g=a76702e3-3c80-4139-a86b-4c9a31ce3609&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 16:19
+
+#### [Stocks turn lower — and bond yields, dollar tumble — as jobs data jolt investors](https://www.marketwatch.com/bulletins/redirect/go?g=48da86ad-6603-4600-acc3-4396c7ee347f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 14:49
+
+#### [U.S. unemployment rate near four-year high as economy adds 22,000 jobs in August](https://www.marketwatch.com/bulletins/redirect/go?g=aa547fce-aff6-44a0-ac0d-31e7df5af519&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 12:38
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Robinhood finally gets a place in the S&P 500. These other stocks will join as well.](https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-and-this-could-be-a-big-update-7dfb8e8b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 22:42
+
+#### [Kenvue fights back against RFK Jr.’s Tylenol safety concerns as its stock tumbles](https://www.marketwatch.com/story/kenvue-fights-back-against-tylenol-safety-concerns-as-its-stock-tumbles-236cdbe1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 21:37
+
+#### [How you can still get a refund for a delayed or canceled flight even as Trump scraps Biden’s airline compensation proposal](https://www.marketwatch.com/story/how-you-can-still-get-a-refund-for-a-delayed-or-canceled-flight-even-as-trump-scraps-bidens-airline-compensation-proposal-38b28011?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 21:36
+
+#### [Treasury bonds aren’t the safe haven they’ve been in the past — and taxpayers will pay a price](https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 21:06
+
+#### [OPEC+ meets this weekend at a precarious time for crude oil. Here’s what’s at stake.](https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 20:30
+
+#### [10-year Treasury tumbles to early April low as weak jobs report raises chances of a half-point Fed rate cut](https://www.marketwatch.com/story/bond-yields-tumble-as-weak-jobs-report-raises-chances-of-a-half-point-fed-rate-cut-996d8abb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 20:19
+
+#### [Why AMD’s stock just saw one of the worst drops in the S&P 500 on Friday](https://www.marketwatch.com/story/why-amds-stock-is-seeing-one-of-the-worst-drops-in-the-s-p-500-today-55cded85?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 20:09
+
+#### [Lululemon’s style refresh is met with Wall Street skepticism. ‘It’s going to get worse,’ analyst says.](https://www.marketwatch.com/story/lululemons-style-refresh-is-met-with-wall-street-skepticism-its-going-to-get-worse-analyst-says-9c60c0a8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 19:52
+
+#### [‘This is to gain control of the most powerful agency in government’: A look at Treasury Secretary Bessent’s essay against the Fed](https://www.marketwatch.com/story/this-is-to-gain-control-of-the-most-powerful-agency-in-government-a-look-at-treasury-secretary-bessents-essay-against-the-fed-7a964a92?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 19:14
 
 ---
 
