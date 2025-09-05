@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-04 23:18
+**最后更新时间**: 2025-09-05 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-05 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This group could put a stop to crypto and private equity in your 401(k)](https://www.marketwatch.com/story/401-k-plans-are-opening-to-private-equity-and-crypto-but-this-group-could-put-a-stop-to-it-8602693a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-05 02:23
+
+#### [NFL fans can stream all games this season for the first time — and could end up paying less to do so](https://www.marketwatch.com/story/nfl-fans-can-stream-all-games-this-season-for-the-first-time-and-could-end-up-paying-less-to-do-so-5fbe6a42?mod=mw_rss_topstories)
+**发布时间**: 2025-09-04 23:28
 
 ---
 
