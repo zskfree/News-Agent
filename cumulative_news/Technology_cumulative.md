@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-06 05:17
+**最后更新时间**: 2025-09-06 08:22
+
+---
+
+## 🆕 最新更新 (2025-09-06 08:22)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [日本浮生录 09：睡魔花灯列阵，穿越夏夜青森](https://sspai.com/post/102173)
+**发布时间**: 2025-09-06 15:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中企出海一站式全球联络中心解决方案：客户满意度提升至92%，处理效率提升120% | 创新场景](https://www.tmtpost.com/7662937.html)
+**发布时间**: 2025-09-06 14:30
+
+#### [Trump Threatens EU with New Tariffs after Google Fined Almost €3 Billion for Abusing Ad Tech](https://www.tmtpost.com/7685287.html)
+**发布时间**: 2025-09-06 14:27
+
+#### [Trump Signs Order for Possible Reciprocal Tariff Exemptions as Lutnick Says Trade Deal to Stay amid Legal Battles](https://www.tmtpost.com/7685278.html)
+**发布时间**: 2025-09-06 13:22
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Lovense Ferri Panty Vibrator Review: Super Comfy](https://www.wired.com/review/lovense-ferri-panty-vibrator/)
+**发布时间**: 2025-09-06 08:00
+
+#### [The Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)
+**发布时间**: 2025-09-06 06:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [First look: Dyson’s Spot+Scrub Ai robot seeks out stains](https://www.theverge.com/ifa-berlin/772423/dyson-spot-scrub-ai-robot-vacuum-mop-multifunction-dock-first-look)
+**发布时间**: 2025-09-06 07:00
 
 ---
 
