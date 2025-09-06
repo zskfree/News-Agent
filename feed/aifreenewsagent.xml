@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2025 23:23:39 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 05:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 05:18:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>抢先看｜2025外滩大会精华亮点，一图信息全Get！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-05-9</link>
-      <description>&lt;![CDATA[抢先看｜2025外滩大会精华亮点，一图信息全Get！]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-05-9</guid>
+      <title>拜拜Claude！阿里最强万亿模型编程秒了Opus4，实测在此</title>
+      <link>https://www.qbitai.com/2025/09/329047.html</link>
+      <description>&lt;![CDATA[拜拜Claude！阿里最强万亿模型编程秒了Opus4，实测在此]]&gt;</description>
+      <pubDate>Sat, 06 Sep 2025 04:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329047.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>视频理解新标杆，快手多模态推理模型开源：128k上下文+0.1秒级视频定位+跨模态推理</title>
-      <link>https://www.qbitai.com/2025/09/328898.html</link>
-      <description>&lt;![CDATA[视频理解新标杆，快手多模态推理模型开源：128k上下文+0.1秒级视频定位+跨模态推理]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 13:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/328898.html</guid>
+      <title>调整训练数据出场顺序大模型就能变聪明！无需扩大模型/数据规模</title>
+      <link>https://www.qbitai.com/2025/09/329067.html</link>
+      <description>&lt;![CDATA[调整训练数据出场顺序大模型就能变聪明！无需扩大模型/数据规模]]&gt;</description>
+      <pubDate>Sat, 06 Sep 2025 04:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329067.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: longevity myths, and sewer-cleaning robots</title>
-      <link>https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/</link>
-      <description>&lt;![CDATA[The Download: longevity myths, and sewer-cleaning robots]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Putin says organ transplants could grant immortality. Not quite.</title>
-      <link>https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/</link>
-      <description>&lt;![CDATA[Putin says organ transplants could grant immortality. Not quite.]]&gt;</description>
-      <pubDate>Fri, 05 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/</guid>
+      <title>字节发了个机器人全能大模型，带队人李航</title>
+      <link>https://www.qbitai.com/2025/09/329014.html</link>
+      <description>&lt;![CDATA[字节发了个机器人全能大模型，带队人李航]]&gt;</description>
+      <pubDate>Sat, 06 Sep 2025 03:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329014.html</guid>
       <category>AI</category>
     </item>
   </channel>

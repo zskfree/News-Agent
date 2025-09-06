@@ -1,72 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "224097bb5dac9f8f731ec064f49fab6a7780b55396f2a54da848133cd0885bce": {
-        "title": "Insulin resistance prediction from wearables and routine blood biomarkers",
-        "link": "https://research.google/blog/insulin-resistance-prediction-from-wearables-and-routine-blood-biomarkers/",
-        "published_date": "Wed, 06 Aug 2025 20:02:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305495"
-      },
-      "10b962d67ac339bc842332b15a6bbc612a3aed134af36f5bdc1a914be100811d": {
-        "title": "Highly accurate genome polishing with DeepPolisher: Enhancing the foundation of genomic research",
-        "link": "https://research.google/blog/highly-accurate-genome-polishing-with-deeppolisher-enhancing-the-foundation-of-genomic-research/",
-        "published_date": "Wed, 06 Aug 2025 16:13:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305486"
-      },
-      "d27e85e6ca66e292fb80494028b63da586934f566f8f18082aa76380cd48fd45": {
-        "title": "一图读懂《上海市具身智能产业发展实施方案》",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-06-13",
-        "published_date": "Wed, 06 Aug 2025 17:21:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305412"
-      },
-      "41c1cae5b7f309efc09e7bf6dba171489b212326b043fdaa21517823cf575341": {
-        "title": "ICML2025｜探索损失加权机制的本质以实现更好的LLM反学习",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-06-12",
-        "published_date": "Wed, 06 Aug 2025 17:03:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305457"
-      },
-      "9558669aa998c70d7de0efe98f1430794f6a382ed24662035c86abaf98720ff0": {
-        "title": "School of Architecture and Planning welcomes new faculty for 2025",
-        "link": "https://news.mit.edu/2025/school-architecture-planning-welcomes-new-faculty-0806",
-        "published_date": "Wed, 06 Aug 2025 16:10:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.146721"
-      },
-      "9baf119e38218dcb0d9f18745def85664727b90eba5b1067d4d5e27d67c9ffe2": {
-        "title": "Five ways that AI is learning to improve itself",
-        "link": "https://www.technologyreview.com/2025/08/06/1121193/five-ways-that-ai-is-learning-to-improve-itself/",
-        "published_date": "Wed, 06 Aug 2025 15:14:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305466"
-      },
-      "a92a31b41cfd8ce1a53654d14ae9ebdcace6d49cd80ec57f26861b5f0fa2a01b": {
-        "title": "The Download: OpenAI’s open-weight models, and the future of internet search",
-        "link": "https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/",
-        "published_date": "Wed, 06 Aug 2025 12:10:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305435"
-      },
-      "9c0d6045a1c6350549b313f9f1e20843176c17b796aadb7225bb391f7cae62c7": {
-        "title": "战报：马斯克Grok4笑傲AI象棋大赛，DeepSeek没干过o4-mini，Kimi K2被喊冤",
-        "link": "https://www.qbitai.com/2025/08/319613.html",
-        "published_date": "Wed, 06 Aug 2025 09:31:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305506"
-      },
-      "fad5010c8da2e342474ccdbe02a8699be14ee1ffb47ef533244f33f4ae9594a0": {
-        "title": "OpenAI首席科学家访谈被紧急制止！有些名字现在不让说了……",
-        "link": "https://www.qbitai.com/2025/08/319587.html",
-        "published_date": "Wed, 06 Aug 2025 08:55:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305447"
-      },
-      "5e5325adfa271a73b47db37d9d41a3b6cd15e836e79b516c9714aa5042a6fe96": {
-        "title": "“神经-符号”融合规划器性能显著超越o1：借鉴人类运动学习机制",
-        "link": "https://www.qbitai.com/2025/08/319472.html",
-        "published_date": "Wed, 06 Aug 2025 08:52:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305476"
-      },
-      "f9240e96daf4184a14856e2ca46c39584a17190c05f682e0de3b1092b5113769": {
-        "title": "六座Model Y L最新爆料：后排4座都可折叠，全部放倒可当“货厢”",
-        "link": "https://www.qbitai.com/2025/08/319443.html",
-        "published_date": "Wed, 06 Aug 2025 08:47:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.305516"
-      },
       "3e3ce9e2844100b351b67200b5ea758d4d57fc944dc4d6f4bd8993fd47e37805": {
         "title": "您猜怎么着？Grok 4进决赛，大模型对抗赛Gemini全军覆没，马斯克「装」起来了",
         "link": "https://www.jiqizhixin.com/articles/2025-08-07-4",
@@ -8988,69 +8922,27 @@
         "link": "https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/",
         "published_date": "Fri, 05 Sep 2025 09:00:00 GMT",
         "first_seen": "2025-09-05T23:23:39.652396"
+      },
+      "35b09732fe24d2ffd818334e1d37858d9290609b49ccee77fcfb3917fcd47234": {
+        "title": "拜拜Claude！阿里最强万亿模型编程秒了Opus4，实测在此",
+        "link": "https://www.qbitai.com/2025/09/329047.html",
+        "published_date": "Sat, 06 Sep 2025 04:04:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.878498"
+      },
+      "24b04e60a216ec1d25ff784c2ef8cc16ffd20e8f420e46a501d74f14e4a38c85": {
+        "title": "调整训练数据出场顺序大模型就能变聪明！无需扩大模型/数据规模",
+        "link": "https://www.qbitai.com/2025/09/329067.html",
+        "published_date": "Sat, 06 Sep 2025 04:02:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.878634"
+      },
+      "36a8be86e6f38c7b11997b7fce5ec7b9c28911bd079234164c37485db1bc2d1f": {
+        "title": "字节发了个机器人全能大模型，带队人李航",
+        "link": "https://www.qbitai.com/2025/09/329014.html",
+        "published_date": "Sat, 06 Sep 2025 03:55:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.878777"
       }
     },
     "Technology": {
-      "ce3e095f75857a2b5f5688f4cbd9bfb391f82f5c20c88bbfcea29f780efad9e3": {
-        "title": "【钛晨报】《新一轮农村公路提升行动方案》印发，提出加强资金保障、创新投融资模式；台积电被曝2纳米商业秘密泄漏；马斯克：特斯拉正在训练新的FSD模型，若测试顺利或在下月底发布",
-        "link": "https://www.tmtpost.com/7650674.html",
-        "published_date": "Thu, 07 Aug 2025 07:20:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096238"
-      },
-      "470c2d8af0b8d171d0b5de973357e7b10bd4af76b6a546f435e2727206847ef0": {
-        "title": "AMD二季度收入77亿美元，美国对华芯片禁令导致数据中心营收不及预期",
-        "link": "https://www.tmtpost.com/7650632.html",
-        "published_date": "Wed, 06 Aug 2025 21:57:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096249"
-      },
-      "c04c4f22beb004beee7ad98c19a210b032311dae691a8f108a5e444788bbdb47": {
-        "title": "傅利叶发布陪伴式人形机器人GR-3，创始人顾捷：一年内行业发展加速3-5倍",
-        "link": "https://www.tmtpost.com/7650333.html",
-        "published_date": "Wed, 06 Aug 2025 21:57:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096283"
-      },
-      "b69ea90af33df089251a0f0ac2b5f83614cbc9d541d44ae054c295644fe5922f": {
-        "title": "AI接棒三电，成车企新战场",
-        "link": "https://www.tmtpost.com/7650356.html",
-        "published_date": "Wed, 06 Aug 2025 19:13:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096309"
-      },
-      "27063e4cfaf5459393cb88304d56cb4211495a2ae742f77e7b63842ec176fb79": {
-        "title": "Trump threatens 100 percent tariff on computer chips with a gigantic loophole",
-        "link": "https://www.theverge.com/news/738172/trump-threatens-100-percent-tariff-on-computer-chips-with-a-gigantic-loophole",
-        "published_date": "Wed, 06 Aug 2025 22:25:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096260"
-      },
-      "dbeaefeca7b68ecd1f4bc58a8ab5b2552cb87077b6990cb5d6aff84e2a86c5d6": {
-        "title": "Apple announces $100 billion US manufacturing plan after pressure from Donald Trump",
-        "link": "https://www.theverge.com/news/719929/apple-100-billion-investment-us-manufacturing-trump",
-        "published_date": "Wed, 06 Aug 2025 21:07:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096271"
-      },
-      "45bc887a21507c64e701174a715d5097f51bbf2359369970c47ace8434d3c3b6": {
-        "title": "OpenAI teases GPT-5 launch event this Thursday",
-        "link": "https://www.theverge.com/news/720114/openai-gpt-5-launch-event-tease",
-        "published_date": "Wed, 06 Aug 2025 18:04:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096188"
-      },
-      "1dc200ddd64396109785adfc59f2b49dfbb111a038ef760865c15e7b44844e8d": {
-        "title": "Inside the US Government's Unpublished Report on AI Safety",
-        "link": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
-        "published_date": "Wed, 06 Aug 2025 18:00:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096220"
-      },
-      "553b4c759782f51d762defd76635b3356fcb50c0363e1dc4ea773cd3ba38846b": {
-        "title": "OpenAI Announces Massive US Government Partnership",
-        "link": "https://www.wired.com/story/openai-is-giving-chatgpt-federal-workers/",
-        "published_date": "Wed, 06 Aug 2025 16:48:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096208"
-      },
-      "23f90e1e2365ddf8d3ebbaffd9ac66a461ed6a404a29824b932c7984f8b9d45d": {
-        "title": "Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home",
-        "link": "https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/",
-        "published_date": "Wed, 06 Aug 2025 13:00:00 GMT",
-        "first_seen": "2025-08-06T23:22:55.096325"
-      },
       "5d3217b08a3784e611ce33611fc6882e146d001a4b0a79e35b0e3c7c6976d133": {
         "title": "731加上918，等于多少？",
         "link": "https://www.tmtpost.com/7650489.html",
@@ -23480,99 +23372,129 @@
         "link": "https://sspai.com/prime/story/interesting-verbs-in-computing",
         "published_date": "Fri, 05 Sep 2025 17:31:00 GMT",
         "first_seen": "2025-09-05T23:23:39.543693"
+      },
+      "f7fefba2660fae403bd1e64755e25778ff35dfe30ee68321cdfa71c548ea0169": {
+        "title": "珀莱雅拟赴港上市；麦瑞克推AI健身私教Mia2.0；lululemonQ2中国大陆净营收同增25%；百雀羚官宣王曼昱代言｜消研所周报",
+        "link": "https://www.tmtpost.com/7684635.html",
+        "published_date": "Sat, 06 Sep 2025 12:00:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746117"
+      },
+      "b74354f839bd955bf7120dcdaa24eae47da9313383c93e843b2ac93f9e960b23": {
+        "title": "应世生物IPO：研发大砍，靠一款预备商业化产品来撑门面，资本会买账吗？",
+        "link": "https://www.tmtpost.com/7685195.html",
+        "published_date": "Sat, 06 Sep 2025 11:47:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.745995"
+      },
+      "0899c855303a52d2ce4665a73243c286279fc9bf684a736af0df2d0faf428776": {
+        "title": "内测长图文功能，抖音内容生态边界再扩张",
+        "link": "https://www.tmtpost.com/7685201.html",
+        "published_date": "Sat, 06 Sep 2025 11:47:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746128"
+      },
+      "124857defabbff2599a0503b758ac75dcc2c079ff7a3e8310b41ce59521dbc0f": {
+        "title": "东诚药业分拆子公司上市：收入增幅仅0.78%的核药业务需提速了",
+        "link": "https://www.tmtpost.com/7685183.html",
+        "published_date": "Sat, 06 Sep 2025 11:47:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746139"
+      },
+      "d12633e34a56e3327f7b1c6e0b3309af5e4fb345f0b99a969e3c8e36f41b61c2": {
+        "title": "月收入提升9w+，零售业用大模型实现AI商品出清 | 创新场景",
+        "link": "https://www.tmtpost.com/7648833.html",
+        "published_date": "Sat, 06 Sep 2025 11:15:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746024"
+      },
+      "baecb8ab1ac0892f0765655738a55baad7ecd92cda1289a71bc0f937550f2e7a": {
+        "title": "中国品牌“挤爆”IFA 2025：以AI重构家电，征服欧洲市场",
+        "link": "https://www.tmtpost.com/7685061.html",
+        "published_date": "Sat, 06 Sep 2025 10:19:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746150"
+      },
+      "5f4ca1306f4e0ca3627f7dec85a4ba12f781695fb3b33dbb4aaa6b4b71ca0f26": {
+        "title": "宠物鲜食火了，但谁能解决消费者的选购焦虑",
+        "link": "https://www.tmtpost.com/7684754.html",
+        "published_date": "Sat, 06 Sep 2025 10:18:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746159"
+      },
+      "129dca2b6b1509e546a00bc51fb28a06fc9c894cf01bc288976468ea8903e575": {
+        "title": "理想的攻守抉择：要盈利还是要销量？",
+        "link": "https://www.tmtpost.com/7685131.html",
+        "published_date": "Sat, 06 Sep 2025 10:17:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.428637"
+      },
+      "49beb97b10ddc74167c172ddd73e4097669db7b0c7efb890778288e67ea7f292": {
+        "title": "智慧交通AI决策运营解决方案：年运营成本降低超3000万元 | 创新场景",
+        "link": "https://www.tmtpost.com/7633091.html",
+        "published_date": "Sat, 06 Sep 2025 09:30:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746077"
+      },
+      "7d7f0d303c85f95aa0b7fd9496c978b4af6dd4085924204807d33afdea4e989b": {
+        "title": "躺不平的企业微信",
+        "link": "https://www.tmtpost.com/7684785.html",
+        "published_date": "Sat, 06 Sep 2025 09:25:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.429418"
+      },
+      "197f276f335fadadac6fe3ef4eac6bebac62e66d9f48e15847619de221add3ea": {
+        "title": "“茅五汾”时代，山西汾酒重新排兵布阵",
+        "link": "https://www.tmtpost.com/7684805.html",
+        "published_date": "Sat, 06 Sep 2025 09:25:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.429860"
+      },
+      "3b943b76f0cbba8d54f330a04d7cd6592db5b5a84d9b6db11d442065abf3ff2c": {
+        "title": "扭亏为盈，创梦天地调转车头",
+        "link": "https://www.tmtpost.com/7684996.html",
+        "published_date": "Sat, 06 Sep 2025 09:25:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.430247"
+      },
+      "0fcd075ce275ba048c2c1aaf2d8b06ea2a25bd31cb594ce4593c72477e4459b3": {
+        "title": "欧洲家电江湖，中国市场的“老套路”不灵了？",
+        "link": "https://www.tmtpost.com/7684535.html",
+        "published_date": "Sat, 06 Sep 2025 09:00:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.430791"
+      },
+      "0b3fefcda2ae96eb64147be445c74210d2f66b8bcb12989a5aaf8af1f1a17644": {
+        "title": "蔚来找到“鹏式”拐点",
+        "link": "https://www.tmtpost.com/7684803.html",
+        "published_date": "Sat, 06 Sep 2025 08:53:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.431265"
+      },
+      "a2ec8f6e73847a7f06ae44b883402ea8b7a1c0a2bec068d9c46e8dcbfe8a4c67": {
+        "title": "“吞金巨兽”开始反哺：上市科技公司都怎么靠AI赚钱？",
+        "link": "https://www.tmtpost.com/7684811.html",
+        "published_date": "Sat, 06 Sep 2025 08:46:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746091"
+      },
+      "5604b9b6b39af88f75670a029a1474c209e4551c6ba2071a4f77666f85b74c21": {
+        "title": "市值较高点蒸发300多亿，80后老板携极米科技冲刺港交所",
+        "link": "https://www.tmtpost.com/7684910.html",
+        "published_date": "Sat, 06 Sep 2025 08:35:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.746102"
+      },
+      "1a9165c3e334ca4f6fbf50ffaabb46eb0a4543ef8e4167ed75af58377bc59883": {
+        "title": "城商行冠季军同出一城，江苏银行和南京银行何以凶猛？",
+        "link": "https://www.tmtpost.com/7684995.html",
+        "published_date": "Sat, 06 Sep 2025 08:27:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.433218"
+      },
+      "d97bda6c21b4203fbacd6483b22af67848256e73c75aff3079823a815dcb9a16": {
+        "title": "理想、比亚迪降速，8月国产新能源全面乱战",
+        "link": "https://www.tmtpost.com/7684998.html",
+        "published_date": "Sat, 06 Sep 2025 08:18:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.433973"
+      },
+      "7034247d27aa5f79dbe9b6e8859d43a822e9c2b401352252abc9a6730714e3d9": {
+        "title": "哔哩哔哩资深测试开发工程师严宽确认出席 QCon 上海，分享 AI CodeReview 实践：代码变更阶段的风险识别与阻断",
+        "link": "https://www.infoq.cn/article/0A5oSiS0526HKC283u6J?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 06 Sep 2025 10:00:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.435364"
+      },
+      "d5075b428746d4adaeb69d0c9d9f72dbaa9fe91a2faa78ac88801190593494b1": {
+        "title": "华为新问界 M7，6 小时订单破 13 万；等 eSIM，iPhone17 Air 首发无国行；特斯拉拟给马斯克 1 万亿薪酬",
+        "link": "http://www.geekpark.net/news/353562",
+        "published_date": "Sat, 06 Sep 2025 08:24:00 GMT",
+        "first_seen": "2025-09-06T05:17:43.437006"
       }
     },
     "Finance": {
-      "b4862c1385e01ad2eb4d95e2256bd82dd8f8cfb732b8a517ed8b555e49344a6c": {
-        "title": "Why Nvidia and other chip stocks are shrugging off Trump’s latest tariff threat",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eaa4a64f-2c75-4223-ac81-2870f7ce28fd&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 23:00:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706320"
-      },
-      "03efb33fb2a1d0601026bd3cc73672377a378811f50f673dc12194d3081e5032": {
-        "title": "NFL RedZone gives fans a reason to buy ESPN’s new $29.99 streaming service",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=23593d33-2e0e-4cd4-b463-32b4ba654aec&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 22:36:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.316081"
-      },
-      "db890b6edae329c4a7d277e6cfccb6207aefa19a28b9c35c85d9157800900c10": {
-        "title": "Lyft shares struggle to keep up with Uber following mixed quarterly results",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f88b293-cf17-463b-bf85-366ca19ca6db&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 21:24:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706353"
-      },
-      "af592893a87f21060a22dc1c8c839ce343a8024ac4ba5d924450df9f61732b89": {
-        "title": "Airbnb is wading deeper into politics. It could weigh on profits.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=65946173-a282-4b69-b076-0ea02d6323f1&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 20:43:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706332"
-      },
-      "81677848842a3e454b1d265c689d42e6048304af3d13170bf1a3bfe9ecf0eb9e": {
-        "title": "S&P 500 and Nasdaq close on strong gains, while Apple leads Dow higher",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8fb4e9f6-360e-4e02-bd46-00193572b52c&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 20:05:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.318048"
-      },
-      "ce6454d08ecac2c8985e47fbd4199ef138bfadf00ef8f535c7d4b73c1728dbef": {
-        "title": "Stocks rebounding from Tuesday's dip, with Apple, McDonald's leading Dow — live",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3f32b2a7-f967-4909-a5c3-ab3c200e646c&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 19:07:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.319087"
-      },
-      "775bee1d8e689367f6dd90c5d2eb712789910f070175c3053475d6292911e4a2": {
-        "title": "A record $100B auction of Treasury bills is on Thursday. These are the risks.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d13ea33f-c646-4655-9004-3b9bb05e5bef&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 17:59:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706265"
-      },
-      "4abdc5d462fc19f8f48a439b120a649b2359c64934724e140f78cc66d4368fda": {
-        "title": "Trump’s new tariffs start tomorrow. Here’s who’s getting hit, and by how much.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb289c80-3212-4411-9970-0c8d81849709&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 17:22:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706288"
-      },
-      "2bd242e16c035fd9e10b893cae2972439e5b0bc00254217e2e5a10cade7b29ac": {
-        "title": "Apple’s stock gains as new announcement with Trump could help its tariff problem",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=706a55d5-042d-43b5-9a55-f5986d214ab5&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 15:34:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706344"
-      },
-      "68cf70e0bf48877b672321d626a2b26370258b25d6a402853d52066a1d4d092c": {
-        "title": "AMD’s stock is down, but these new estimates have analysts feeling upbeat",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d02991f5-1852-4f01-95d6-78e689b03acd&mod=mw_rss_bulletins",
-        "published_date": "Wed, 06 Aug 2025 13:50:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706375"
-      },
-      "1b1f34b0088e395c9491e05cdd424fb6d1d9f935602e0f5ba8b07ab74a259947": {
-        "title": "Consumers are ordering more deliveries, says DoorDash. The stock is surging.",
-        "link": "https://www.marketwatch.com/story/consumers-are-ordering-more-deliveries-says-doordash-the-stock-is-surging-08fa35fb?mod=mw_rss_topstories",
-        "published_date": "Wed, 06 Aug 2025 22:24:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706398"
-      },
-      "ab69456536be2383b6dceb2c714f64517d02c82822904f2a171c906a165506d9": {
-        "title": "Lyft shares struggle to keep up with Uber following mixed results. ‘Comparison is the thief of joy,’ analyst says.",
-        "link": "https://www.marketwatch.com/story/lyft-shares-struggle-to-keep-up-with-uber-following-mixed-quarterly-results-7e541a7d?mod=mw_rss_topstories",
-        "published_date": "Wed, 06 Aug 2025 22:23:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.335207"
-      },
-      "908dfbc2008220b180d8658dd829eacb6d13a9a46d34ce12cccd8ba16e527947": {
-        "title": "My relative, 80, was about to be scammed out of $40,000. Here’s how I stopped it.",
-        "link": "https://www.marketwatch.com/story/heres-how-i-talked-my-80-year-old-relative-out-of-giving-40-000-to-scammers-in-the-nick-of-time-1fed265d?mod=mw_rss_topstories",
-        "published_date": "Wed, 06 Aug 2025 21:50:00 GMT",
-        "first_seen": "2025-08-06T23:23:16.338497"
-      },
-      "d1e9c1b75980c2d8b239f50d1a03a04af5bdbc01a6f95d779e0be0754b768dc2": {
-        "title": "These stock pickers just had their worst month of 2025 at trying to beat benchmarks",
-        "link": "https://www.marketwatch.com/story/these-stock-pickers-just-had-their-worst-month-of-2025-at-trying-to-beat-benchmarks-78b0b931?mod=mw_rss_topstories",
-        "published_date": "Wed, 06 Aug 2025 21:44:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706364"
-      },
-      "655eb422ec618924b78c6e00550ebedfcee50a86536c01550e116e48919fbdd6": {
-        "title": "DraftKings’ profit doubles expectations as people are betting — and losing — more",
-        "link": "https://www.marketwatch.com/story/draftkings-profit-doubles-expectations-as-people-are-betting-and-losing-more-1e367723?mod=mw_rss_topstories",
-        "published_date": "Wed, 06 Aug 2025 21:42:00 GMT",
-        "first_seen": "2025-08-06T23:23:31.706387"
-      },
       "9dfad5f6df29617510ea4782133eb68924b85b6dd3c5c16f0c0db3a767a85a60": {
         "title": "Trump’s new tariffs start today. Here’s who’s getting hit, and by how much.",
         "link": "https://www.marketwatch.com/story/trumps-new-tariffs-start-tomorrow-heres-whos-getting-hit-and-by-how-much-3adc3dc4?mod=mw_rss_topstories",
@@ -26776,12 +26698,24 @@
         "link": "https://www.marketwatch.com/story/this-is-to-gain-control-of-the-most-powerful-agency-in-government-a-look-at-treasury-secretary-bessents-essay-against-the-fed-7a964a92?mod=mw_rss_topstories",
         "published_date": "Fri, 05 Sep 2025 19:14:00 GMT",
         "first_seen": "2025-09-05T23:23:39.704570"
+      },
+      "db52db41aff734c4b6576970739e8268fa62678984b3b1d509f30427fc5310f9": {
+        "title": "‘Job-hugging’ in this economy? What it is, and how it could cost you.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7639df26-71f9-47de-9e11-f2474158248f&mod=mw_rss_bulletins",
+        "published_date": "Sat, 06 Sep 2025 00:47:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.896054"
+      },
+      "42debada508186203d3cb7c7b1a973190d695fbf5103f09151c95ae37eda4f75": {
+        "title": "OPEC+ meets this weekend at a precarious time for crude oil. What's at stake.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=425397a0-5b22-4c93-94ec-a9b4dea9a803&mod=mw_rss_bulletins",
+        "published_date": "Fri, 05 Sep 2025 23:54:00 GMT",
+        "first_seen": "2025-09-06T05:18:31.896334"
       }
     }
   },
   "last_update": {
-    "AI": "2025-09-05T23:23:39.659636",
-    "Technology": "2025-09-05T23:23:39.584536",
-    "Finance": "2025-09-05T23:24:28.023268"
+    "AI": "2025-09-06T05:18:31.885970",
+    "Technology": "2025-09-06T05:18:31.812789",
+    "Finance": "2025-09-06T05:18:31.903276"
   }
 }

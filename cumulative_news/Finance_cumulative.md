@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-05 23:22
+**最后更新时间**: 2025-09-06 05:17
+
+---
+
+## 🆕 最新更新 (2025-09-06 05:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [‘Job-hugging’ in this economy? What it is, and how it could cost you.](https://www.marketwatch.com/bulletins/redirect/go?g=7639df26-71f9-47de-9e11-f2474158248f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-06 00:47
+
+#### [OPEC+ meets this weekend at a precarious time for crude oil. What's at stake.](https://www.marketwatch.com/bulletins/redirect/go?g=425397a0-5b22-4c93-94ec-a9b4dea9a803&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-05 23:54
 
 ---
 
