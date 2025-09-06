@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-06 08:22
+**最后更新时间**: 2025-09-06 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-06 23:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025慕尼黑车展前瞻：德系主场坐镇下，中国汽车新能源与智能化之战](https://www.tmtpost.com/7684194.html)
+**发布时间**: 2025-09-06 21:06
+
+#### [安克创新，如何从“浅海”游向深海](https://www.tmtpost.com/7684822.html)
+**发布时间**: 2025-09-06 19:06
+
+#### [增程换纯电，蔚来们苦等的拐点来了？](https://www.tmtpost.com/7685368.html)
+**发布时间**: 2025-09-06 19:06
+
+#### [实测阿里万亿参数大模型：开源路线跑通了吗？](https://www.tmtpost.com/7685358.html)
+**发布时间**: 2025-09-06 19:06
+
+#### [NEX-T Summit 2025 to Spotlight What's Next in Tech and Capital](https://www.tmtpost.com/7685379.html)
+**发布时间**: 2025-09-06 18:47
+
+#### [运用Agentic AI破解商业分析4大痛点，复杂研究可在20分钟内完成 | 创新场景](https://www.tmtpost.com/7663032.html)
+**发布时间**: 2025-09-06 18:15
+
+#### [盒马的社区自提梦彻底醒了](https://www.tmtpost.com/7685285.html)
+**发布时间**: 2025-09-06 16:39
+
+#### [T-Mobile也要自己做创意了，品牌不需要代理公司吗？](https://www.tmtpost.com/7685322.html)
+**发布时间**: 2025-09-06 16:39
+
+#### [生成式AI应用破解跨境电商本地化翻译难题：1个月上线，翻译成本减少40% | 创新场景](https://www.tmtpost.com/7662963.html)
+**发布时间**: 2025-09-06 16:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Google Spanner 再出新招：单库同时处理事务和分析，效果如何？](https://www.infoq.cn/article/A8tlKTdFr9WCBh3iZmJM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-06 20:02
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music)
+**发布时间**: 2025-09-06 16:00
+
+#### [Park Chan-wook&#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews)
+**发布时间**: 2025-09-06 15:00
+
+#### [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti)
+**发布时间**: 2025-09-06 14:00
+
+#### [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2)
+**发布时间**: 2025-09-06 14:00
+
+#### [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox)
+**发布时间**: 2025-09-06 13:00
+
+#### [Google Pixel 10 review: perfectly fine](https://www.theverge.com/reviews/772813/google-pixel-10-review)
+**发布时间**: 2025-09-06 12:30
+
+#### [MAGA populists call for holy war against Big Tech](https://www.theverge.com/politics/773154/maga-tech-right-ai-natcon)
+**发布时间**: 2025-09-06 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Best Pixel 10 Cases and Accessories (2025)](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
+**发布时间**: 2025-09-06 13:00
+
+#### [How to Babyproof Your Home (2025)](https://www.wired.com/story/how-to-babyproof-your-home/)
+**发布时间**: 2025-09-06 11:33
+
+#### [Meraki Espresso Machine Review: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
+**发布时间**: 2025-09-06 11:32
+
+#### [The 49 Best Movies on Netflix Right Now (September 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-09-06 11:00
+
+#### [The 21 Best Movies on Amazon Prime Right Now (September 2025)](https://www.wired.com/story/best-amazon-prime-movies/)
+**发布时间**: 2025-09-06 11:00
+
+#### [Real Estate Speculators Are Swooping In to Buy Disaster-Hit Homes](https://www.wired.com/story/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/)
+**发布时间**: 2025-09-06 11:00
+
+#### [How to Watch Apple’s iPhone 17 Announcement, and What to Expect](https://www.wired.com/story/apple-iphone-17-event-how-to-watch-what-to-expect/)
+**发布时间**: 2025-09-06 11:00
+
+#### [The 49 Best Shows on Netflix Right Now (September 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-09-06 11:00
+
+#### [ICE Has Spyware Now](https://www.wired.com/story/ice-has-spyware-now/)
+**发布时间**: 2025-09-06 10:30
+
+#### [Where's the Fun in AI Gambling?](https://www.wired.com/story/uncanny-valley-podcast-wheres-the-fun-in-ai-gambling/)
+**发布时间**: 2025-09-06 10:00
+
+#### [Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch](https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/)
+**发布时间**: 2025-09-06 10:00
 
 ---
 

@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-06 05:17
+**最后更新时间**: 2025-09-06 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-06 23:16)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?](https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories)
+**发布时间**: 2025-09-06 23:04
+
+#### [My friend married for a second time. Will the kids from her first marriage lose their inheritance?](https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories)
+**发布时间**: 2025-09-06 22:01
+
+#### [‘Fun came before paying bills’: My brother-in-law is in his 70s and homeless. Are we responsible for him?](https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories)
+**发布时间**: 2025-09-06 19:06
+
+#### [5 money moves to make if you win the $1.8 billion Powerball jackpot — or get any kind of financial windfall](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-09-06 18:59
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [There's another big jobs report coming up — and it probably won’t look good](https://www.marketwatch.com/bulletins/redirect/go?g=56659ce5-bdb9-4420-b976-0810e72824e1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-06 14:13
+
+#### [Apple’s iPhone events have been flat lately. Will this year be the exception?](https://www.marketwatch.com/bulletins/redirect/go?g=a2c99c60-48b5-430a-8cf5-46af7da5f505&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-06 13:17
 
 ---
 
