@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-07 05:17
+**最后更新时间**: 2025-09-07 08:21
+
+---
+
+## 🆕 最新更新 (2025-09-07 08:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动](https://www.jiqizhixin.com/articles/2025-09-07)
+**发布时间**: 2025-09-07 16:19
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [A Gentle Introduction to Batch Normalization](https://machinelearningmastery.com/a-gentle-introduction-to-batch-normalization/)
+**发布时间**: 2025-09-05 12:00
+
+#### [Small Language Models are the Future of Agentic AI](https://machinelearningmastery.com/small-language-models-are-the-future-of-agentic-ai/)
+**发布时间**: 2025-09-04 12:00
+
+#### [10 Python One-Liners Every Machine Learning Practitioner Should Know](https://machinelearningmastery.com/10-python-one-liners-every-machine-learning-practitioner-should-know/)
+**发布时间**: 2025-09-03 12:00
+
+#### [3 Ways to Speed Up and Improve Your XGBoost Models](https://machinelearningmastery.com/3-ways-to-speed-up-and-improve-your-xgboost-models/)
+**发布时间**: 2025-09-02 12:00
 
 ---
 

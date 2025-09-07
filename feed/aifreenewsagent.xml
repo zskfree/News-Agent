@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Sep 2025 05:17:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2025 05:17:52 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 08:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 08:22:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI and machine learning for engineering design</title>
-      <link>https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907</link>
-      <description>&lt;![CDATA[AI and machine learning for engineering design]]&gt;</description>
-      <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907</guid>
+      <title>字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-07</link>
+      <description>&lt;![CDATA[字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-07</guid>
       <category>AI</category>
     </item>
   </channel>
