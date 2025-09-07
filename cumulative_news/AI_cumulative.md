@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-06 23:16
+**最后更新时间**: 2025-09-07 05:17
+
+---
+
+## 🆕 最新更新 (2025-09-07 05:17)
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI and machine learning for engineering design](https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907)
+**发布时间**: 2025-09-07 00:00
 
 ---
 

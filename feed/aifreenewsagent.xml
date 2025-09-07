@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Sep 2025 23:16:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 23:17:25 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 05:17:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 05:17:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic被作家告了，违规下载700万本书，15亿美元和解了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-06-5</link>
-      <description>&lt;![CDATA[Anthropic被作家告了，违规下载700万本书，15亿美元和解了]]&gt;</description>
-      <pubDate>Sat, 06 Sep 2025 21:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-06-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>英伟达的局：狂撒15亿美元，从Lambda那租到了搭载自家AI芯片的GPU服务器</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-06-4</link>
-      <description>&lt;![CDATA[英伟达的局：狂撒15亿美元，从Lambda那租到了搭载自家AI芯片的GPU服务器]]&gt;</description>
-      <pubDate>Sat, 06 Sep 2025 21:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-06-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI罕见发论文：我们找到了AI幻觉的罪魁祸首</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-06-3</link>
-      <description>&lt;![CDATA[OpenAI罕见发论文：我们找到了AI幻觉的罪魁祸首]]&gt;</description>
-      <pubDate>Sat, 06 Sep 2025 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-06-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>00后以1.1亿美金「掀桌」，硅谷AI将书写影视新传奇 终结制片旧时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-06-2</link>
-      <description>&lt;![CDATA[00后以1.1亿美金「掀桌」，硅谷AI将书写影视新传奇 终结制片旧时代]]&gt;</description>
-      <pubDate>Sat, 06 Sep 2025 21:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-06-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>任意骨骼系统的模型都能驱动？AnimaX提出基于世界模型的3D动画生成新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-06</link>
-      <description>&lt;![CDATA[任意骨骼系统的模型都能驱动？AnimaX提出基于世界模型的3D动画生成新范式]]&gt;</description>
-      <pubDate>Sat, 06 Sep 2025 21:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-06</guid>
+      <title>AI and machine learning for engineering design</title>
+      <link>https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907</link>
+      <description>&lt;![CDATA[AI and machine learning for engineering design]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907</guid>
       <category>AI</category>
     </item>
   </channel>

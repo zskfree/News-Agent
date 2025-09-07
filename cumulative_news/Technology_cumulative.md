@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-06 23:16
+**最后更新时间**: 2025-09-07 05:17
+
+---
+
+## 🆕 最新更新 (2025-09-07 05:17)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [九三阅兵：4款新鹰击导弹“反舰天团”盘点解读](http://www.huxiu.com/article/4764031.html?f=wangzhan)
+**发布时间**: 2025-09-07 11:31
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [破局终端算力墙：支付宝 xNN-LLM 的端侧大模型实践｜QCon 上海](https://www.infoq.cn/article/IREZ9pwklCoyKeNUOMiU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-07 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [亏损潮蔓延到集中式电站，光伏项目面临极速市场化考验](https://www.tmtpost.com/7685385.html)
+**发布时间**: 2025-09-07 09:15
+
+#### [上半年收入暴涨251%，老铺黄金给卡地亚上了一课](https://www.tmtpost.com/7685456.html)
+**发布时间**: 2025-09-07 09:15
+
+#### [集成40+大模型、预置100+场景，AI助手重塑出版编辑工作流 | 创新场景](https://www.tmtpost.com/7674552.html)
+**发布时间**: 2025-09-07 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果 iPhone 17 系列规格已全被曝光；Anthropic 全面封杀中国公司接入；今夜将迎来「血月」月全食｜极客早知道](http://www.geekpark.net/news/353568)
+**发布时间**: 2025-09-07 08:16
 
 ---
 
