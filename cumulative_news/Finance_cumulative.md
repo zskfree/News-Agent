@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-06 23:16
+**最后更新时间**: 2025-09-07 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-07 23:16)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Stock-market bulls are banking on rate cuts — upcoming CPI inflation data is key](https://www.marketwatch.com/bulletins/redirect/go?g=da91450d-4fe7-4ece-aaf7-2378c9b809c4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-07 23:05
+
+#### [Stock futures dip ahead of inflation reports, oil gains after OPEC+ ups output](https://www.marketwatch.com/bulletins/redirect/go?g=825c94f7-c760-46b1-bd69-eab2bc38c1e1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-07 22:27
+
+#### [Bessent says U.S. would have to give huge refunds if tariffs overturned](https://www.marketwatch.com/bulletins/redirect/go?g=7b08b9b4-1601-4cff-bde7-edb797358e0e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-07 21:09
+
+#### [OPEC+ agrees to another oil production boost in October](https://www.marketwatch.com/bulletins/redirect/go?g=32fb4510-2ca4-439a-8bac-1b905f9ec051&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-07 19:34
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures edge higher ahead of inflation reports, oil gains after OPEC+ raises output](https://www.marketwatch.com/story/stock-futures-dip-ahead-of-inflation-reports-oil-gains-after-opec-raises-output-6b4f90dd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-07 22:59
+
+#### [Bessent dismisses costs of tariffs, but says U.S. would have to give huge refunds if they’re overturned](https://www.marketwatch.com/story/bessent-dismisses-costs-of-tariffs-but-says-u-s-would-have-to-give-huge-refunds-if-theyre-overturned-ba6a93b9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-07 22:55
+
+#### [OPEC+ agrees to another oil production boost in October](https://www.marketwatch.com/story/opec-agrees-to-another-oil-production-boost-in-october-f06413fb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-07 21:58
+
+#### [‘I am my mother’s caregiver’: My mom, 93, added my name to her bank and retirement accounts. Will she qualify for Medicaid?](https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories)
+**发布时间**: 2025-09-07 21:14
+
+#### [Playboy secures big legal victory in China as it seeks to turn its fortunes around](https://www.marketwatch.com/story/playboy-secures-big-legal-victory-in-china-as-it-seeks-to-turn-its-fortunes-around-ef3734b9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-07 20:33
+
+#### [I’m a teacher, and fees are eating up my retirement savings so much that I don’t want to contribute anymore](https://www.marketwatch.com/story/im-a-teacher-and-fees-are-eating-up-my-retirement-savings-so-much-that-i-dont-want-to-contribute-anymore-1ba9a958?mod=mw_rss_topstories)
+**发布时间**: 2025-09-07 17:00
 
 ---
 

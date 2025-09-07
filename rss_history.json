@@ -8274,117 +8274,33 @@
         "link": "https://www.jiqizhixin.com/articles/2025-09-07",
         "published_date": "Sun, 07 Sep 2025 16:19:00 GMT",
         "first_seen": "2025-09-07T08:22:14.065943"
+      },
+      "65d64feabda5fc0fe8b81be84b3902d0f2453dff859ac53ba59b8f141bd77b68": {
+        "title": "Claude不让我们用！国产平替能顶上吗？",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-07-5",
+        "published_date": "Sun, 07 Sep 2025 16:45:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.345136"
+      },
+      "f77b028bbf45003f1a165d0af77c104b50191fd08ac24fcf762f44cf56cef4ca": {
+        "title": "SceneSplat: 基于3DGS的场景理解和视觉语言预训练，让3D高斯「听懂人话」的一跃",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-07-4",
+        "published_date": "Sun, 07 Sep 2025 16:40:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.345285"
+      },
+      "4da3cdab61f7058dc0a1058e901cec42474171d882d19062efc684137d72b989": {
+        "title": "国内外AI大厂重押，初创梭哈，谁能凭「记忆」成为下一个「DeepSeek」？",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-07-3",
+        "published_date": "Sun, 07 Sep 2025 16:28:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.345513"
+      },
+      "1bb38e2332921057086dc6ba012603bf0d049d73e3998fc5b73585f9f38426a6": {
+        "title": "斯坦福：优化器「诸神之战」？AdamW 凭「稳定」胜出",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-07-2",
+        "published_date": "Sun, 07 Sep 2025 16:23:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.345767"
       }
     },
     "Technology": {
-      "976b6d3581069d65654a23f071250e447e59f04b1b519895ea595b87a446e3a5": {
-        "title": "半年净利同比增长5.33%，红旗连锁提质增效显成效 | 看财报",
-        "link": "https://www.tmtpost.com/7653259.html",
-        "published_date": "Fri, 08 Aug 2025 16:07:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.286711"
-      },
-      "1533083329c6b445cc229dd9b9c75a1ab77c31ccf5d56c8ef088209ffdb19740": {
-        "title": "微信「已读」功能十年争议终结",
-        "link": "https://www.tmtpost.com/7652994.html",
-        "published_date": "Fri, 08 Aug 2025 16:07:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930322"
-      },
-      "ed4aca0e385af08e2726f444d26d6db1bababa11abe84582a7bc65ff42efde92": {
-        "title": "Tesla May Rely More on Nvidia as Dojo Supercomputer Team Said to be Shut Down",
-        "link": "https://www.tmtpost.com/7653220.html",
-        "published_date": "Fri, 08 Aug 2025 15:30:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930230"
-      },
-      "700954ee6b27c05270dbf00015dfe5e988ca694c1732729127c065ac692b2fa8": {
-        "title": "8月8日A股分析：沪指微跌0.12%，两市成交缩量超千亿，主力资金净流出500亿，雅下水电概念逆势吸金22亿领涨",
-        "link": "https://www.tmtpost.com/7653174.html",
-        "published_date": "Fri, 08 Aug 2025 15:29:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.287519"
-      },
-      "77c552806ff806259e62c0b6f0e133e3b0afffb7614ca99abdb4d3f092b8d0a9": {
-        "title": "Europe Emerges as Strategic Hub for Chinese New Energy Firms",
-        "link": "https://www.tmtpost.com/7653199.html",
-        "published_date": "Fri, 08 Aug 2025 15:17:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930302"
-      },
-      "f3b61e53f4176518aac9100857498710a2be776272013f10b0c6450a18f1d7f0": {
-        "title": "下一个修美乐藏不住了",
-        "link": "https://www.tmtpost.com/7652974.html",
-        "published_date": "Fri, 08 Aug 2025 15:11:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.288264"
-      },
-      "fd852d62c267fea022603afea635d40355622e69a7294f39d72a921cc5494da4": {
-        "title": "百亿狂砸机器人，互联网巨头谁是赢家？",
-        "link": "https://www.tmtpost.com/7647291.html",
-        "published_date": "Fri, 08 Aug 2025 14:40:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930293"
-      },
-      "3f69fe47b872c0e63d8e0698b2dd7cb711c2dbab59594b86984c4a5e1095495f": {
-        "title": "India Reportedly Considers Concessions in the Face of Trump's 50% Tariffs",
-        "link": "https://www.tmtpost.com/7653126.html",
-        "published_date": "Fri, 08 Aug 2025 14:34:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.289424"
-      },
-      "a39e504911df3661b4b3bc0561b933486ed86683af6e5115a4fb0ff8e221a26e": {
-        "title": "“窝囊旅游”为啥开始流行？",
-        "link": "https://www.tmtpost.com/7652787.html",
-        "published_date": "Fri, 08 Aug 2025 14:28:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.289756"
-      },
-      "50376c81d88a7c5e10ce262e5e4ef71144fe9600b5e37fdd42a2226203f7ef6c": {
-        "title": "赛博算命“拿捏”年轻人",
-        "link": "https://www.tmtpost.com/7652956.html",
-        "published_date": "Fri, 08 Aug 2025 13:43:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930340"
-      },
-      "1d20e8a367de54684caa18654f383b951a264c982ef4b51e512551ccd466201f": {
-        "title": "U.S. Will Remove Tariff Overlapping and Cut Auto Duties:  Japan's Chief Negotiator",
-        "link": "https://www.tmtpost.com/7652966.html",
-        "published_date": "Fri, 08 Aug 2025 11:40:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.291405"
-      },
-      "0e19e5b676d442a11b2244b46bca7f98401c38498caf1c09bef9b52e39b3fa6d": {
-        "title": "GLM-4.5发布，具有强大的推理、编码和代理能力",
-        "link": "https://www.infoq.cn/article/YmbWMHI42jV45K6Q5Xec?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 08 Aug 2025 16:00:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930254"
-      },
-      "f10adca61ac8f0405cad9204c4530e4ca6c03ed02646045c60d8b2ca8a584b56": {
-        "title": "空间智能技术 AI+3D 高斯泼溅应用于具身智能及自动驾驶仿真｜AICon 深圳",
-        "link": "https://www.infoq.cn/article/mx9KeYmYR9FqGFD0Poec?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 08 Aug 2025 15:00:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930268"
-      },
-      "a5f7717641f5c6beb60a0a387f5115cf61089be16dfe66e86dbf8fb2544b41a4": {
-        "title": "用树莓派手搓家用伪 NAS(上）：系统的安装与配置",
-        "link": "https://sspai.com/post/101622",
-        "published_date": "Fri, 08 Aug 2025 15:11:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930332"
-      },
-      "9a00e8696525b6e17db01b9e7c35852603390b52988a19590dd9a29f80bece53": {
-        "title": "“冰杯”营销站上C位，与品牌场景卡位的阳谋",
-        "link": "http://www.huxiu.com/article/4665391.html?f=wangzhan",
-        "published_date": "Fri, 08 Aug 2025 10:25:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.294422"
-      },
-      "9727a8e4f214a474a3a17a9f11645d96f3577195d96bf0871a7a9d94f20049c3": {
-        "title": "小鹏G9的学费，理想i8要重交一遍？",
-        "link": "http://www.huxiu.com/article/4665948.html?f=wangzhan",
-        "published_date": "Fri, 08 Aug 2025 07:33:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930312"
-      },
-      "79d6635d3fee2098f0537ce73691c36464b4ab61b3e26f21babaf4c0d3d698f1": {
-        "title": "Apple’s lock on iPhone browser engines gets a December deadline",
-        "link": "https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers",
-        "published_date": "Fri, 08 Aug 2025 08:15:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.930282"
-      },
-      "0ae705fd066d03a742d9d5275cbcee2c51fa68c8784c2f39fea8e5261104625d": {
-        "title": "Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’",
-        "link": "https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/",
-        "published_date": "Fri, 08 Aug 2025 07:02:00 GMT",
-        "first_seen": "2025-08-08T08:31:34.298707"
-      },
       "2664acb55971030ec6b70a6452ddd0d4a1b344ce3f38ff46ca5773865152455a": {
         "title": "续航2100km、油耗2L，银河A7把“质价比”玩明白了",
         "link": "https://www.tmtpost.com/7653796.html",
@@ -22412,15 +22328,87 @@
         "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
         "published_date": "Sun, 07 Sep 2025 06:00:00 GMT",
         "first_seen": "2025-09-07T08:22:13.978494"
+      },
+      "667f31e57808c9f02146c64907efc80c5d428ce39b389a354dc85a70b025ae75": {
+        "title": "将推出超过150款更低价格产品，宜家中国本土化转型再深化",
+        "link": "https://www.tmtpost.com/7682271.html",
+        "published_date": "Sun, 07 Sep 2025 21:02:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236306"
+      },
+      "501660b9f539da226ef75da06590f639ead6b909ac3589e6fad08087e12aad08": {
+        "title": "方建华：固态电池“概念狂欢”下，“产业+资本”更应关注SOFC产业化变局",
+        "link": "https://www.tmtpost.com/7685166.html",
+        "published_date": "Sun, 07 Sep 2025 19:47:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236350"
+      },
+      "89a9c682c910d02511ada74aa1b929dae82d58f69e1fd69356fbdfa4307d9b2b": {
+        "title": "Google finally details Gemini usage limits",
+        "link": "https://www.theverge.com/news/773496/google-gemini-usage-limits",
+        "published_date": "Sun, 07 Sep 2025 19:51:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236364"
+      },
+      "18b07a3127148136d78b5cad65d6640faf22ea37becd76511918fe74de9749bd": {
+        "title": "GM slows EV production as tax credit nears expiration",
+        "link": "https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit",
+        "published_date": "Sun, 07 Sep 2025 17:27:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236375"
+      },
+      "9f831d54b94f805737034e0994cccda87bef6c18b5d13e9d2398ab8b1b9eaadf": {
+        "title": "TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto",
+        "link": "https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews",
+        "published_date": "Sun, 07 Sep 2025 15:30:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236389"
+      },
+      "9dde4a7a6fb5595b9806075ef59186c055ac829fcb54664f0d2448050e480193": {
+        "title": "Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept",
+        "link": "https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept",
+        "published_date": "Sun, 07 Sep 2025 14:46:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236400"
+      },
+      "9093114bdb35ed106f56a7652ac696941ba919bbc029ea93369ebbfe07471223": {
+        "title": "Wake Up Dead Man adds a delightfully dark twist to Knives Out",
+        "link": "https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review",
+        "published_date": "Sun, 07 Sep 2025 13:00:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236410"
+      },
+      "ba69ff64cde5c208d807f297d2dd737e24c4a4e1a824ebd1ba9835508a515b15": {
+        "title": "Computer chips, with a side of forever chemicals",
+        "link": "https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals",
+        "published_date": "Sun, 07 Sep 2025 12:00:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236421"
+      },
+      "c378b37db646142be9820d214e9b95053bd31ce04056825045a164d29b85a266": {
+        "title": "A really cheap way to get really smart lights",
+        "link": "https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer",
+        "published_date": "Sun, 07 Sep 2025 12:00:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236430"
+      },
+      "b8e2296752b90778a3414c951bdb93538d6e4e81b19c6b44ebb08da3729a15d3": {
+        "title": "慕尼黑车展 2025前瞻：中国队组团出海，BBA 走向「新」时代",
+        "link": "http://www.geekpark.net/news/353564",
+        "published_date": "Sun, 07 Sep 2025 16:33:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.236443"
+      },
+      "eaa6fe754332905dc97a1df6d1f5c7555492a9c526234daecfe9bdb578435e3c": {
+        "title": "How to Add WIRED as a Preferred Source on Google (2025)",
+        "link": "https://www.wired.com/story/wired-google-preferred-source/",
+        "published_date": "Sun, 07 Sep 2025 14:04:00 GMT",
+        "first_seen": "2025-09-07T23:16:53.830416"
+      },
+      "eed0869a46d52ab31a9c78a40378bf9118505e90d3b6c5647e7803efd5ee369f": {
+        "title": "The New Math of Quantum Cryptography",
+        "link": "https://www.wired.com/story/the-new-math-of-quantum-cryptography/",
+        "published_date": "Sun, 07 Sep 2025 11:00:00 GMT",
+        "first_seen": "2025-09-07T23:16:53.831496"
+      },
+      "9aa720a6ebd15a71872c9ec7436fd585dc0c5c91bd02e8797c0a4f5bebc39c9c": {
+        "title": "Psychological Tricks Can Get AI to Break the Rules",
+        "link": "https://www.wired.com/story/psychological-tricks-can-get-ai-to-break-the-rules/",
+        "published_date": "Sun, 07 Sep 2025 10:00:00 GMT",
+        "first_seen": "2025-09-07T23:16:53.832888"
       }
     },
     "Finance": {
-      "73fde0914e91366d4a6d96e6dffc489eb0be5ea42f6188689152c1dacf901b62": {
-        "title": "It’s a new era of central-bank dissent with a whiff of stagflation in the air",
-        "link": "https://www.marketwatch.com/story/its-a-new-era-of-central-bank-dissent-and-with-a-whiff-of-stagflation-in-the-air-thats-not-likely-to-change-aec43642?mod=mw_rss_topstories",
-        "published_date": "Fri, 08 Aug 2025 07:40:00 GMT",
-        "first_seen": "2025-08-08T08:31:52.998148"
-      },
       "b822f61a59c87637acb8d0670179a71d405c0719fa2a506a913663adf0bafa11": {
         "title": "Gold and bitcoin are both vying for the safe-haven crown. Why gold is winning.",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d785ed66-6654-41da-b346-ffadbda36c0c&mod=mw_rss_bulletins",
@@ -25480,12 +25468,60 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a2c99c60-48b5-430a-8cf5-46af7da5f505&mod=mw_rss_bulletins",
         "published_date": "Sat, 06 Sep 2025 13:17:00 GMT",
         "first_seen": "2025-09-06T23:17:25.497335"
+      },
+      "ab22533e872a4d023a86d56b1f6d58bdb50d15780cdad91e1c1fd5a8a9d2be4a": {
+        "title": "Stock-market bulls are banking on rate cuts — upcoming CPI inflation data is key",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da91450d-4fe7-4ece-aaf7-2378c9b809c4&mod=mw_rss_bulletins",
+        "published_date": "Sun, 07 Sep 2025 23:05:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.363115"
+      },
+      "e4a8454405acd70aa64d9a1f2e1b7898f87272c8957a7da109818512059aaca7": {
+        "title": "Stock futures dip ahead of inflation reports, oil gains after OPEC+ ups output",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=825c94f7-c760-46b1-bd69-eab2bc38c1e1&mod=mw_rss_bulletins",
+        "published_date": "Sun, 07 Sep 2025 22:27:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.363394"
+      },
+      "3d5101fefb872a3d3221ddace91a5cb434a704bbcd7a0a00324cbda5aa0c7d27": {
+        "title": "Bessent says U.S. would have to give huge refunds if tariffs overturned",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7b08b9b4-1601-4cff-bde7-edb797358e0e&mod=mw_rss_bulletins",
+        "published_date": "Sun, 07 Sep 2025 21:09:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.363946"
+      },
+      "5476e9870ac757fddb75e962802140a10fdb0a036413bfc40761daeadfb88e73": {
+        "title": "OPEC+ agrees to another oil production boost in October",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=32fb4510-2ca4-439a-8bac-1b905f9ec051&mod=mw_rss_bulletins",
+        "published_date": "Sun, 07 Sep 2025 19:34:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.364505"
+      },
+      "220c08dbdbb5052151098a11f318bea53ef4d85c2cb1d06946e976649508ef3e": {
+        "title": "Bessent dismisses costs of tariffs, but says U.S. would have to give huge refunds if they’re overturned",
+        "link": "https://www.marketwatch.com/story/bessent-dismisses-costs-of-tariffs-but-says-u-s-would-have-to-give-huge-refunds-if-theyre-overturned-ba6a93b9?mod=mw_rss_topstories",
+        "published_date": "Sun, 07 Sep 2025 22:55:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.365965"
+      },
+      "251befa1ead7549e9dbb93f8813d3f639531d455baf3e3b8c6f18080f4cd53ef": {
+        "title": "‘I am my mother’s caregiver’: My mom, 93, added my name to her bank and retirement accounts. Will she qualify for Medicaid?",
+        "link": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
+        "published_date": "Sun, 07 Sep 2025 21:14:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.368227"
+      },
+      "d2a45b3a12d935de8053a4a02586ce94bdb53536408ad3cb32eb65bc3d9564c3": {
+        "title": "Playboy secures big legal victory in China as it seeks to turn its fortunes around",
+        "link": "https://www.marketwatch.com/story/playboy-secures-big-legal-victory-in-china-as-it-seeks-to-turn-its-fortunes-around-ef3734b9?mod=mw_rss_topstories",
+        "published_date": "Sun, 07 Sep 2025 20:33:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.369837"
+      },
+      "eaeaeb6376c88cf8d5c69966737af94bce0b7141768f802bca1fa8c0180e47e7": {
+        "title": "I’m a teacher, and fees are eating up my retirement savings so much that I don’t want to contribute anymore",
+        "link": "https://www.marketwatch.com/story/im-a-teacher-and-fees-are-eating-up-my-retirement-savings-so-much-that-i-dont-want-to-contribute-anymore-1ba9a958?mod=mw_rss_topstories",
+        "published_date": "Sun, 07 Sep 2025 17:00:00 GMT",
+        "first_seen": "2025-09-07T23:17:42.372198"
       }
     }
   },
   "last_update": {
-    "AI": "2025-09-07T08:22:14.072828",
-    "Technology": "2025-09-07T08:22:14.002495",
-    "Finance": "2025-09-07T08:22:14.088583"
+    "AI": "2025-09-07T23:17:42.352986",
+    "Technology": "2025-09-07T23:17:42.277172",
+    "Finance": "2025-09-07T23:17:42.379465"
   }
 }

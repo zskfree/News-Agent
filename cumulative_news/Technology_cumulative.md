@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-07 08:22
+**最后更新时间**: 2025-09-07 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-07 23:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [将推出超过150款更低价格产品，宜家中国本土化转型再深化](https://www.tmtpost.com/7682271.html)
+**发布时间**: 2025-09-07 21:02
+
+#### [方建华：固态电池“概念狂欢”下，“产业+资本”更应关注SOFC产业化变局](https://www.tmtpost.com/7685166.html)
+**发布时间**: 2025-09-07 19:47
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)
+**发布时间**: 2025-09-07 19:51
+
+#### [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit)
+**发布时间**: 2025-09-07 17:27
+
+#### [TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto](https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews)
+**发布时间**: 2025-09-07 15:30
+
+#### [Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept](https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept)
+**发布时间**: 2025-09-07 14:46
+
+#### [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)
+**发布时间**: 2025-09-07 13:00
+
+#### [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals)
+**发布时间**: 2025-09-07 12:00
+
+#### [A really cheap way to get really smart lights](https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer)
+**发布时间**: 2025-09-07 12:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [慕尼黑车展 2025前瞻：中国队组团出海，BBA 走向「新」时代](http://www.geekpark.net/news/353564)
+**发布时间**: 2025-09-07 16:33
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How to Add WIRED as a Preferred Source on Google (2025)](https://www.wired.com/story/wired-google-preferred-source/)
+**发布时间**: 2025-09-07 14:04
+
+#### [The New Math of Quantum Cryptography](https://www.wired.com/story/the-new-math-of-quantum-cryptography/)
+**发布时间**: 2025-09-07 11:00
+
+#### [Psychological Tricks Can Get AI to Break the Rules](https://www.wired.com/story/psychological-tricks-can-get-ai-to-break-the-rules/)
+**发布时间**: 2025-09-07 10:00
 
 ---
 

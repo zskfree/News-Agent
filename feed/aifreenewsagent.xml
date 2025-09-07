@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Sep 2025 08:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2025 08:22:14 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 23:17:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-07</link>
-      <description>&lt;![CDATA[字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动]]&gt;</description>
-      <pubDate>Sun, 07 Sep 2025 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-07</guid>
+      <title>Claude不让我们用！国产平替能顶上吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-07-5</link>
+      <description>&lt;![CDATA[Claude不让我们用！国产平替能顶上吗？]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-07-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SceneSplat: 基于3DGS的场景理解和视觉语言预训练，让3D高斯「听懂人话」的一跃</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-07-4</link>
+      <description>&lt;![CDATA[SceneSplat: 基于3DGS的场景理解和视觉语言预训练，让3D高斯「听懂人话」的一跃]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-07-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>国内外AI大厂重押，初创梭哈，谁能凭「记忆」成为下一个「DeepSeek」？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-07-3</link>
+      <description>&lt;![CDATA[国内外AI大厂重押，初创梭哈，谁能凭「记忆」成为下一个「DeepSeek」？]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-07-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>斯坦福：优化器「诸神之战」？AdamW 凭「稳定」胜出</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-07-2</link>
+      <description>&lt;![CDATA[斯坦福：优化器「诸神之战」？AdamW 凭「稳定」胜出]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-07-2</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Sep 2025 08:22:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2025 08:22:13 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 23:17:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>小红书估值达310亿美元市值，商业化策略需要新支点</title>
-      <link>https://www.tmtpost.com/7685442.html</link>
-      <description>&lt;![CDATA[小红书估值达310亿美元市值，商业化策略需要新支点]]&gt;</description>
-      <pubDate>Sun, 07 Sep 2025 14:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7685442.html</guid>
+      <title>将推出超过150款更低价格产品，宜家中国本土化转型再深化</title>
+      <link>https://www.tmtpost.com/7682271.html</link>
+      <description>&lt;![CDATA[将推出超过150款更低价格产品，宜家中国本土化转型再深化]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7682271.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一次 vibe designing 实验：我如何从零开始设计「摸鱼计时器」</title>
-      <link>https://sspai.com/post/102164</link>
-      <description>&lt;![CDATA[一次 vibe designing 实验：我如何从零开始设计「摸鱼计时器」]]&gt;</description>
-      <pubDate>Sun, 07 Sep 2025 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102164</guid>
+      <title>方建华：固态电池“概念狂欢”下，“产业+资本”更应关注SOFC产业化变局</title>
+      <link>https://www.tmtpost.com/7685166.html</link>
+      <description>&lt;![CDATA[方建华：固态电池“概念狂欢”下，“产业+资本”更应关注SOFC产业化变局]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7685166.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed</title>
-      <link>https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/</link>
-      <description>&lt;![CDATA[6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed]]&gt;</description>
-      <pubDate>Sun, 07 Sep 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/</guid>
+      <title>Google finally details Gemini usage limits</title>
+      <link>https://www.theverge.com/news/773496/google-gemini-usage-limits</link>
+      <description>&lt;![CDATA[Google finally details Gemini usage limits]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 19:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/773496/google-gemini-usage-limits</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>GM slows EV production as tax credit nears expiration</title>
+      <link>https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit</link>
+      <description>&lt;![CDATA[GM slows EV production as tax credit nears expiration]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto</title>
+      <link>https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews</link>
+      <description>&lt;![CDATA[TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept</title>
+      <link>https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept</link>
+      <description>&lt;![CDATA[Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Wake Up Dead Man adds a delightfully dark twist to Knives Out</title>
+      <link>https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review</link>
+      <description>&lt;![CDATA[Wake Up Dead Man adds a delightfully dark twist to Knives Out]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Computer chips, with a side of forever chemicals</title>
+      <link>https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals</link>
+      <description>&lt;![CDATA[Computer chips, with a side of forever chemicals]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>A really cheap way to get really smart lights</title>
+      <link>https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer</link>
+      <description>&lt;![CDATA[A really cheap way to get really smart lights]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>慕尼黑车展 2025前瞻：中国队组团出海，BBA 走向「新」时代</title>
+      <link>http://www.geekpark.net/news/353564</link>
+      <description>&lt;![CDATA[慕尼黑车展 2025前瞻：中国队组团出海，BBA 走向「新」时代]]&gt;</description>
+      <pubDate>Sun, 07 Sep 2025 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/353564</guid>
       <category>Technology</category>
     </item>
   </channel>
