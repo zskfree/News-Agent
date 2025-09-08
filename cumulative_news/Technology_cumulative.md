@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-07 23:16
+**最后更新时间**: 2025-09-08 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-08 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025 Munich Auto Show Preview: Chinese Automakers Take on German Giants in New Energy and Smart Vehicle Race](https://www.tmtpost.com/7686215.html)
+**发布时间**: 2025-09-08 13:07
+
+#### [Lightelligence Raises Over $210 Million in Series C Round to Accelerate Hybrid Optoelectronic Computing](https://www.tmtpost.com/7686104.html)
+**发布时间**: 2025-09-08 11:39
+
+#### [小红书加速商业化，商家先绷不住了](https://www.tmtpost.com/7685757.html)
+**发布时间**: 2025-09-08 11:28
+
+#### [锂电最近怎么支棱起来了？](https://www.tmtpost.com/7685823.html)
+**发布时间**: 2025-09-08 11:28
+
+#### [Integration of AI and DePIN Can Solve the "Zero-sum Game" Dilemma in Decentralized Networks: Beamable’s VP](https://www.tmtpost.com/7686047.html)
+**发布时间**: 2025-09-08 11:23
+
+#### [Alibaba Cloud Backs X Square Robot in Nearly $140 Million Funding to Advance Embodied Intelligence](https://www.tmtpost.com/7686028.html)
+**发布时间**: 2025-09-08 11:08
+
+#### [内容生命力：成为一名职业脱口秀演员，向上走，讲下去](https://www.tmtpost.com/7685759.html)
+**发布时间**: 2025-09-08 10:45
+
+#### [【产业互联网周报】 《上海合作组织成员国元首理事会关于进一步深化人工智能国际合作的声明》发布；工信部：前7个月软件业务收入83246亿元，同比增长12.3%；OpenAI斥资11亿美元收购Statsig](https://www.tmtpost.com/7685907.html)
+**发布时间**: 2025-09-08 10:38
+
+#### [阿里云首次投资具身智能，自变量获近10亿元融资](https://www.tmtpost.com/7685946.html)
+**发布时间**: 2025-09-08 10:37
+
+#### [芯片独角兽曦智科技获超15亿融资，中国移动、上海国投参投](https://www.tmtpost.com/7683202.html)
+**发布时间**: 2025-09-08 10:18
+
+#### [江瓷电子完成数千万元pre-A轮融资，加速高端压电材料研发与产业化](https://www.tmtpost.com/7684210.html)
+**发布时间**: 2025-09-08 10:17
+
+#### [暑期档长剧之痛：爱优腾没有赢家，好端端坏起来了](https://www.tmtpost.com/7685859.html)
+**发布时间**: 2025-09-08 09:55
+
+#### [通用人工智能（AGI）已经来了](https://www.tmtpost.com/7685743.html)
+**发布时间**: 2025-09-08 09:19
+
+#### [产线质检判定数字员工，异常提报准确率超95% | 创新场景](https://www.tmtpost.com/7627909.html)
+**发布时间**: 2025-09-08 09:06
+
+#### [基于人工智能的信息资产保护系统，解决传统灾备成本问题 | 创新场景](https://www.tmtpost.com/7627512.html)
+**发布时间**: 2025-09-08 09:06
+
+#### [基于Deepseek的银行客户经理实战陪练AI解决方案，日均节省客户1.5小时精力 | 创新场景](https://www.tmtpost.com/7626554.html)
+**发布时间**: 2025-09-08 09:06
+
+#### [中医大模型“下乡”，辨证准确率达88%以上 | 创新场景](https://www.tmtpost.com/7623458.html)
+**发布时间**: 2025-09-08 09:06
+
+#### [大模型接入智能客服，实现7×24小时不间断响应 | 创新场景](https://www.tmtpost.com/7682241.html)
+**发布时间**: 2025-09-08 09:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特朗普把“国防部”更名“战争部”，有何野心？](http://www.huxiu.com/article/4763752.html?f=wangzhan)
+**发布时间**: 2025-09-08 11:45
+
+#### [MCN吃女护士人血馒头？为保合作反败光路人缘？](http://www.huxiu.com/article/4764073.html?f=wangzhan)
+**发布时间**: 2025-09-08 11:00
+
+#### [你是谁不重要，重要的是，你和谁一起出现......](http://www.huxiu.com/article/4764163.html?f=wangzhan)
+**发布时间**: 2025-09-08 09:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [飞书项目将发布整车研发解决方案，直击复杂研发管理挑战](https://www.infoq.cn/article/2a6DmLUoQc4W4RmmWY3f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 11:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [马来西亚：穿梭于城市和自然的东西马之旅](https://sspai.com/post/101894)
+**发布时间**: 2025-09-08 11:00
+
+#### [派早报：美国科技公司 CEO 在白宫晚宴轮番称赞特朗普](https://sspai.com/post/102363)
+**发布时间**: 2025-09-08 09:10
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [国行版苹果 AI 推迟至年底上线；视频平台广告被曝「偷时间」；美国计划限制进口中国无人机和重型载具 | 极客早知道｜极客早知道](http://www.geekpark.net/news/353572)
+**发布时间**: 2025-09-08 08:45
 
 ---
 

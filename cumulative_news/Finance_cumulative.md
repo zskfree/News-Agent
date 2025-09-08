@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-07 23:16
+**最后更新时间**: 2025-09-08 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-08 05:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Playboy secures big legal victory in China as it seeks to reverse its fortunes](https://www.marketwatch.com/bulletins/redirect/go?g=0b7cbadd-e02d-40a4-a4dc-28647614d6ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 01:25
 
 ---
 
