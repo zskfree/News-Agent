@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 05:21:26 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 23:24:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 23:26:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Playboy secures big legal victory in China as it seeks to reverse its fortunes</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=0b7cbadd-e02d-40a4-a4dc-28647614d6ba&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Playboy secures big legal victory in China as it seeks to reverse its fortunes]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 01:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=0b7cbadd-e02d-40a4-a4dc-28647614d6ba&amp;mod=mw_rss_bulletins</guid>
+      <title>Nebius’ stock is surging. Why Microsoft just inked a deal with the cloud company</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=62777cc0-0c4e-466e-b3cb-35c7fb705b3b&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Nebius’ stock is surging. Why Microsoft just inked a deal with the cloud company]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 23:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=62777cc0-0c4e-466e-b3cb-35c7fb705b3b&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Opendoor’s stock flashes ‘bearish engulfing’ chart pattern. Is the rally over?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f01462c2-0fc7-47c2-9b2d-661dcdd242d0&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Opendoor’s stock flashes ‘bearish engulfing’ chart pattern. Is the rally over?]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f01462c2-0fc7-47c2-9b2d-661dcdd242d0&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Fed set to cut rates after months of debate. Why are so many unhappy with that?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=22547583-6fa1-45cc-9a71-4bc9fe8594f8&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Fed set to cut rates after months of debate. Why are so many unhappy with that?]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=22547583-6fa1-45cc-9a71-4bc9fe8594f8&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nasdaq closes at record as stocks rise to kick off big week of economic data</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=fb00a813-f66f-4e0d-aef2-ab185d726ee9&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Nasdaq closes at record as stocks rise to kick off big week of economic data]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 20:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=fb00a813-f66f-4e0d-aef2-ab185d726ee9&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the 10-year Treasury yield’s big 2025 drop could be a recession indicator</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=069ffe09-943b-4ee7-af88-afa8f4f7e951&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Why the 10-year Treasury yield’s big 2025 drop could be a recession indicator]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 19:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=069ffe09-943b-4ee7-af88-afa8f4f7e951&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Mortgage rates dive on reports of worsening economy, spurring refinance queries</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=64fdd00a-df0e-4871-95b9-8420ffa0df1d&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Mortgage rates dive on reports of worsening economy, spurring refinance queries]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=64fdd00a-df0e-4871-95b9-8420ffa0df1d&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nasdaq, S&amp;P eye records in final hour, Dow reverses early decline — follow live</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=a51012e2-102e-40eb-8cdc-03f4244d9677&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Nasdaq, S&amp;P eye records in final hour, Dow reverses early decline — follow live]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=a51012e2-102e-40eb-8cdc-03f4244d9677&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why streaming looks like a winner in Howard Stern contract battle with SiriusXM</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5fd9819b-9de7-41e6-b440-eda6e7778a5a&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Why streaming looks like a winner in Howard Stern contract battle with SiriusXM]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5fd9819b-9de7-41e6-b440-eda6e7778a5a&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nvidia leads way as Dow industrials reverse nearly all of early decline</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=e3b857c1-6eb0-4b07-9a1e-a1ff928ccfa8&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Nvidia leads way as Dow industrials reverse nearly all of early decline]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 14:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=e3b857c1-6eb0-4b07-9a1e-a1ff928ccfa8&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Robinhood shares jump 14% early Monday after finally winning S&amp;P 500 nod</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=769766e0-f5b5-4669-aacc-a79f21f2fad3&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Robinhood shares jump 14% early Monday after finally winning S&amp;P 500 nod]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=769766e0-f5b5-4669-aacc-a79f21f2fad3&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

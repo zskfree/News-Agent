@@ -1,7 +1,143 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-08 08:28
+**最后更新时间**: 2025-09-08 23:24
+
+---
+
+## 🆕 最新更新 (2025-09-08 23:24)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [刚刚，光刻机霸主ASML成为Mistral最大股东！网友怒斥：ASML的钱将打水漂](https://www.infoq.cn/article/vEaYx0WHA0tlXVZIavmb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 07:00
+
+#### [公司用了Agent，4000个员工丢了工作！CEO 大刀砍研发：让人和AI协作，各干一半的活儿](https://www.infoq.cn/article/JqOYXNxHX5RZFmBuIGfY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 17:37
+
+#### [Kimi、Minimax跟进期权激励，非算法岗也有？AI岗月薪下限均值达4.7万元；OpenAI今年或烧掉80亿美元 | AI周报](https://www.infoq.cn/article/Bk5Kdq5Dbj8obYwQD1sX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 17:31
+
+#### [FerretDB Cloud：MongoDB Atlas的开源替代方案](https://www.infoq.cn/article/NW5YrrqJsBUAmltcxBiN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 17:30
+
+#### [拒绝招聘、产品粗糙，却成史上最快增长软件公司！4个00后“整顿”创业圈：大家都不信，才是我们的机会](https://www.infoq.cn/article/xRR5kxvfuUZBzwYEDLkA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 17:28
+
+#### [马斯克 xAI 再出手，对标 OpenAI 和 Anthropic！Grok Code Fast 1 押注速度与工具集成](https://www.infoq.cn/article/A5daTaxuDLlsBa40u7dK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 17:00
+
+#### [花椒直播首次开源推流器组件为鸿蒙开发者提供高性能推流解决方案](https://www.infoq.cn/article/QzZyZDBHciCi9VRIaBRP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 16:38
+
+#### [【汇总贴】HarmonyOS官方模板优秀案例  （持续更新中 · 收藏不迷路）](https://www.infoq.cn/article/pcKVNATjmKwpPKjyaili?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 16:37
+
+#### [《云栖来了——AI大模型时代的CIO》金句抢先看](https://www.infoq.cn/video/2FlJNCrxKsQ5WizHacBN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-08 16:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [左手稳医药、右手搏赛道，“战略摇摆”的向日葵又看上了半导体](https://www.tmtpost.com/7686976.html)
+**发布时间**: 2025-09-09 00:05
+
+#### [特斯拉TeslaAI官方微博发布首条微博展示其人形机器人，工信部向中国联通颁发卫星移动通信业务经营许可｜科股一线拆解](https://www.tmtpost.com/7686855.html)
+**发布时间**: 2025-09-08 20:15
+
+#### [索尼2000万卖掉的IP，Netflix赚翻了，《猎魔女团》背后是万亿虚拟偶像市场](https://www.tmtpost.com/7686038.html)
+**发布时间**: 2025-09-08 20:07
+
+#### [美国SEC成立跨境反欺诈特别工作组，孙宇晨会被立案调查吗？｜链得得独家](https://www.tmtpost.com/7686731.html)
+**发布时间**: 2025-09-08 20:06
+
+#### [沙特发起4亿美元计划，向中小企业退费；约764家中国企业参加2025IFA；TikTok欧洲用户数约占欧洲人口的三分之一｜一周「出海参考」](https://www.tmtpost.com/7686787.html)
+**发布时间**: 2025-09-08 19:46
+
+#### [亿华通产业链突围梦碎：收购终止、核心技术人员离职，连亏阴霾难散](https://www.tmtpost.com/7686771.html)
+**发布时间**: 2025-09-08 19:31
+
+#### [盘点汽车座椅黑科技](https://www.tmtpost.com/7686418.html)
+**发布时间**: 2025-09-08 19:23
+
+#### [品牌失格：当广告也成了一种公共表达](https://www.tmtpost.com/7686416.html)
+**发布时间**: 2025-09-08 19:23
+
+#### [山姆们卖爆了，代工厂们赚麻了](https://www.tmtpost.com/7686552.html)
+**发布时间**: 2025-09-08 19:23
+
+#### [养「AI宠物」一个月，我发现这门生意充满泡沫](https://www.tmtpost.com/7686341.html)
+**发布时间**: 2025-09-08 19:23
+
+#### [美国内陆腹地，何以成为零售巨头“心脏地带”？](https://www.tmtpost.com/7686576.html)
+**发布时间**: 2025-09-08 19:23
+
+#### [优衣库又有大动作：中国市场加码新零售](https://www.tmtpost.com/7685643.html)
+**发布时间**: 2025-09-08 19:04
+
+#### [零跑Lafa5进军欧洲腹地，中国新势力开始“反向收割”｜一线车讯](https://www.tmtpost.com/7686718.html)
+**发布时间**: 2025-09-08 19:00
+
+#### [超1300亿，“星巴克祖师爷”被卖了](https://www.tmtpost.com/7685941.html)
+**发布时间**: 2025-09-08 18:31
+
+#### [2025上半年文旅集团财务分析报告](https://www.tmtpost.com/7686661.html)
+**发布时间**: 2025-09-08 18:31
+
+#### [医疗江湖来了位AI医生](https://www.tmtpost.com/7686198.html)
+**发布时间**: 2025-09-08 18:31
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [AMD&#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)
+**发布时间**: 2025-09-08 22:10
+
+#### [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)
+**发布时间**: 2025-09-08 20:40
+
+#### [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
+**发布时间**: 2025-09-08 19:14
+
+#### [Signal&#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)
+**发布时间**: 2025-09-08 18:59
+
+#### [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
+**发布时间**: 2025-09-08 18:00
+
+#### [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android)
+**发布时间**: 2025-09-08 17:45
+
+#### [The best stuff announced at IFA](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
+**发布时间**: 2025-09-08 17:14
+
+#### [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
+**发布时间**: 2025-09-08 16:50
+
+#### [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
+**发布时间**: 2025-09-08 16:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评｜近期值得关注的 App](https://sspai.com/post/102380)
+**发布时间**: 2025-09-08 17:55
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today](https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/)
+**发布时间**: 2025-09-08 17:52
+
+#### [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)
+**发布时间**: 2025-09-08 13:00
+
+#### [The iPhone 17 Air Could Use a Silicon-Carbon Battery. What Is It?](https://www.wired.com/story/iphone-17-air-silicon-carbon-battery-what-is-it/)
+**发布时间**: 2025-09-08 11:00
+
+#### [Why Former NFL All-Pros Are Turning to Psychedelics](https://www.wired.com/story/can-psychedelics-reduce-traumatic-brain-injury-one-nfl-all-pro-thinks-so/)
+**发布时间**: 2025-09-08 11:00
+
+#### [I Hate My AI Friend](https://www.wired.com/story/i-hate-my-ai-friend/)
+**发布时间**: 2025-09-08 10:30
+
+#### [Bose QuietComfort Ultra Earbuds (2nd Gen): Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)
+**发布时间**: 2025-09-08 10:01
 
 ---
 

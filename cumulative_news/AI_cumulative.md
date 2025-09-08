@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-08 08:28
+**最后更新时间**: 2025-09-08 23:19
+
+---
+
+## 🆕 最新更新 (2025-09-08 23:19)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」](https://www.jiqizhixin.com/articles/2025-09-08-10)
+**发布时间**: 2025-09-08 19:27
+
+#### [从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述](https://www.jiqizhixin.com/articles/2025-09-08-9)
+**发布时间**: 2025-09-08 19:25
+
+#### [字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法](https://www.jiqizhixin.com/articles/2025-09-08-8)
+**发布时间**: 2025-09-08 17:26
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: introducing our 35 Innovators Under 35 list for 2025](https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/)
+**发布时间**: 2025-09-08 12:10
+
+#### [How Trump’s policies are affecting early-career scientists—in their own words](https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/)
+**发布时间**: 2025-09-08 10:45
+
+#### [Why basic science deserves our boldest investment](https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/)
+**发布时间**: 2025-09-08 10:45
+
+#### [2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology](https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/)
+**发布时间**: 2025-09-08 10:30
+
+#### [Meet the Ethiopian entrepreneur who is reinventing ammonia production](https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/)
+**发布时间**: 2025-09-08 10:30
+
+#### [How Yichao “Peak” Ji became a global AI app hitmaker](https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/)
+**发布时间**: 2025-09-08 10:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [奇瑞汽车通过港股聆讯，估值直指千亿](https://www.qbitai.com/2025/09/329341.html)
+**发布时间**: 2025-09-08 09:10
+
+#### [马斯克xAI自研推理芯片曝光！代号X1、台积电3纳米工艺、明年就量产](https://www.qbitai.com/2025/09/329391.html)
+**发布时间**: 2025-09-08 08:54
+
+#### [Hinton万万没想到，前女友用ChatGPT跟他闹分手](https://www.qbitai.com/2025/09/329340.html)
+**发布时间**: 2025-09-08 08:48
+
+#### [Meta超级智能实验室首篇论文：重新定义RAG](https://www.qbitai.com/2025/09/329342.html)
+**发布时间**: 2025-09-08 08:46
 
 ---
 

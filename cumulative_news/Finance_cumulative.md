@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-08 05:19
+**最后更新时间**: 2025-09-08 23:24
+
+---
+
+## 🆕 最新更新 (2025-09-08 23:24)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Nebius’ stock is surging. Why Microsoft just inked a deal with the cloud company](https://www.marketwatch.com/bulletins/redirect/go?g=62777cc0-0c4e-466e-b3cb-35c7fb705b3b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 23:21
+
+#### [Opendoor’s stock flashes ‘bearish engulfing’ chart pattern. Is the rally over?](https://www.marketwatch.com/bulletins/redirect/go?g=f01462c2-0fc7-47c2-9b2d-661dcdd242d0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 22:38
+
+#### [Fed set to cut rates after months of debate. Why are so many unhappy with that?](https://www.marketwatch.com/bulletins/redirect/go?g=22547583-6fa1-45cc-9a71-4bc9fe8594f8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 21:00
+
+#### [Nasdaq closes at record as stocks rise to kick off big week of economic data](https://www.marketwatch.com/bulletins/redirect/go?g=fb00a813-f66f-4e0d-aef2-ab185d726ee9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 20:03
+
+#### [Why the 10-year Treasury yield’s big 2025 drop could be a recession indicator](https://www.marketwatch.com/bulletins/redirect/go?g=069ffe09-943b-4ee7-af88-afa8f4f7e951&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 19:43
+
+#### [Mortgage rates dive on reports of worsening economy, spurring refinance queries](https://www.marketwatch.com/bulletins/redirect/go?g=64fdd00a-df0e-4871-95b9-8420ffa0df1d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 19:03
+
+#### [Nasdaq, S&P eye records in final hour, Dow reverses early decline — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=a51012e2-102e-40eb-8cdc-03f4244d9677&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 19:01
+
+#### [Why streaming looks like a winner in Howard Stern contract battle with SiriusXM](https://www.marketwatch.com/bulletins/redirect/go?g=5fd9819b-9de7-41e6-b440-eda6e7778a5a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 18:20
+
+#### [Nvidia leads way as Dow industrials reverse nearly all of early decline](https://www.marketwatch.com/bulletins/redirect/go?g=e3b857c1-6eb0-4b07-9a1e-a1ff928ccfa8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 14:37
+
+#### [Robinhood shares jump 14% early Monday after finally winning S&P 500 nod](https://www.marketwatch.com/bulletins/redirect/go?g=769766e0-f5b5-4669-aacc-a79f21f2fad3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 14:09
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 43 with $450K in my 401(k) and $270K in one company’s stock. Is this a risky plan?](https://www.marketwatch.com/story/im-43-with-450k-in-my-401-k-and-270k-in-one-companys-stock-is-this-a-risky-plan-21d1edde?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:20
+
+#### [Nebius’ stock is surging. Why Microsoft just inked a deal with the cloud company.](https://www.marketwatch.com/story/nebius-stock-is-surging-why-microsoft-just-inked-a-deal-with-the-cloud-company-ec97b00a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:19
+
+#### [What investors should expect from stocks after the Fed’s September meeting](https://www.marketwatch.com/story/what-investors-should-expect-from-stocks-after-the-feds-september-meeting-68af2876?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:05
+
+#### [My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?](https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:04
+
+#### [Worried about Nvidia’s stock? This analyst has a $2 trillion reason to remain calm.](https://www.marketwatch.com/story/worried-about-nvidias-stock-this-analyst-has-a-2-trillion-reason-to-remain-calm-07463ae2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:57
+
+#### [GameStop earnings are coming, as bitcoin looms ever larger for the OG meme stock](https://www.marketwatch.com/story/gamestop-earnings-are-coming-as-bitcoin-looms-ever-larger-for-the-og-meme-stock-32c244c2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:55
+
+#### [Why U.S. companies could see closed markets and higher costs as globalization ends](https://www.marketwatch.com/story/this-growing-risk-to-your-stock-portfolio-is-new-volatile-and-here-to-stay-2bbb5150?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:55
+
+#### [SpaceX deal sends EchoStar’s stock soaring. Why Elon Musk is buying $17 billion in wireless spectrum.](https://www.marketwatch.com/story/echostar-clinches-a-17-billion-spectrum-deal-with-elon-musks-spacex-and-the-stock-soars-again-fdf3962d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:31
+
+#### [Opendoor’s stock flashes ‘bearish engulfing’ chart pattern. Is the rally over?](https://www.marketwatch.com/story/opendoors-stock-flashes-bearish-engulfing-chart-pattern-is-the-rally-over-1276f0da?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:31
 
 ---
 

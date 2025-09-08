@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Sep 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 08:29:39 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 23:25:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-7</link>
-      <description>&lt;![CDATA[全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-7</guid>
+      <title>Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-10</link>
+      <description>&lt;![CDATA[Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 19:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-6</link>
-      <description>&lt;![CDATA[扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-6</guid>
+      <title>从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-9</link>
+      <description>&lt;![CDATA[从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 19:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-5</link>
-      <description>&lt;![CDATA[具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-5</guid>
+      <title>字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-8</link>
+      <description>&lt;![CDATA[字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>上海AI Lab重磅综述：AI实现自主科学发现时代已经到来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-4</link>
-      <description>&lt;![CDATA[上海AI Lab重磅综述：AI实现自主科学发现时代已经到来]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-4</guid>
+      <title>How Yichao “Peak” Ji became a global AI app hitmaker</title>
+      <link>https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/</link>
+      <description>&lt;![CDATA[How Yichao “Peak” Ji became a global AI app hitmaker]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>华为手机老将，加盟深蓝任CEO</title>
-      <link>https://www.qbitai.com/2025/09/329204.html</link>
-      <description>&lt;![CDATA[华为手机老将，加盟深蓝任CEO]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 07:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329204.html</guid>
+      <title>马斯克xAI自研推理芯片曝光！代号X1、台积电3纳米工艺、明年就量产</title>
+      <link>https://www.qbitai.com/2025/09/329391.html</link>
+      <description>&lt;![CDATA[马斯克xAI自研推理芯片曝光！代号X1、台积电3纳米工艺、明年就量产]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329391.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达推出通用深度研究系统，可接入任何LLM，支持个人定制</title>
-      <link>https://www.qbitai.com/2025/09/329183.html</link>
-      <description>&lt;![CDATA[英伟达推出通用深度研究系统，可接入任何LLM，支持个人定制]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329183.html</guid>
+      <title>Hinton万万没想到，前女友用ChatGPT跟他闹分手</title>
+      <link>https://www.qbitai.com/2025/09/329340.html</link>
+      <description>&lt;![CDATA[Hinton万万没想到，前女友用ChatGPT跟他闹分手]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 08:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329340.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: introducing our 35 Innovators Under 35 list for 2025</title>
+      <link>https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/</link>
+      <description>&lt;![CDATA[The Download: introducing our 35 Innovators Under 35 list for 2025]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How Trump’s policies are affecting early-career scientists—in their own words</title>
+      <link>https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/</link>
+      <description>&lt;![CDATA[How Trump’s policies are affecting early-career scientists—in their own words]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Why basic science deserves our boldest investment</title>
+      <link>https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/</link>
+      <description>&lt;![CDATA[Why basic science deserves our boldest investment]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology</title>
+      <link>https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/</link>
+      <description>&lt;![CDATA[2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/</guid>
       <category>AI</category>
     </item>
   </channel>
