@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d8690cb77e01497d44dc70f8034e65926d5fdfcb4186f30c6f182aa733ef3401": {
-        "title": "ICCV 2025 | 新型后门攻击直指Scaffold联邦学习，NTU联手0G Labs揭示中心化训练安全漏洞",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-09-4",
-        "published_date": "Sat, 09 Aug 2025 12:52:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.430460"
-      },
-      "0156ff480ab1cd1c3c5000b0f640903c80b57de8700fd0537783fa8382058abc": {
-        "title": "用户痛批GPT-5，哭诉「还我GPT-4o」，奥特曼妥协了",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-09-3",
-        "published_date": "Sat, 09 Aug 2025 12:44:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.430651"
-      },
-      "05728220c1dca9b0fa09970835fec7d41b678cf232af968f6d2ed6e41cf4d3c2": {
-        "title": "上海AI Lab、浙大EagleLab等提出RRVF：利用「验证非对称性」，只输入图片学习视觉推理",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-09-2",
-        "published_date": "Sat, 09 Aug 2025 12:41:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.430905"
-      },
-      "0b178713dea7e5bd845dcaa29861c54360293c711e7fea314d75a48a2a091db2": {
-        "title": "银河通用亮相 2025 世界机器人大会，搭载英伟达最新 Thor 芯片，Galbot 全球首发震撼登场",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-09",
-        "published_date": "Sat, 09 Aug 2025 12:34:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.431311"
-      },
-      "67d64a10a26a9f75c098456d559faa798b09c0c2858cb819b6af748eea7cecca": {
-        "title": "全球油耗最低智能车来了：8.18万开卖上热搜，27分钟大订破万",
-        "link": "https://www.qbitai.com/2025/08/320238.html",
-        "published_date": "Sat, 09 Aug 2025 02:02:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.431570"
-      },
       "ff672896fbc47695b8e7c3fc3f7f252b681f28ec1c3f5abd497d6513146dee46": {
         "title": "本科必学Dijkstra算法被超越！清华段然团队打破图灵奖得主证明的普遍最优性",
         "link": "https://www.qbitai.com/2025/08/320333.html",
@@ -8550,63 +8520,45 @@
         "link": "https://arxiv.org/abs/2509.04497",
         "published_date": "Mon, 08 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-08T05:20:38.452586"
+      },
+      "3e9c939901dc865d3dfaaf156087c1b89879ae79cfe9642b4d1c827fa2aee219": {
+        "title": "全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-08-7",
+        "published_date": "Mon, 08 Sep 2025 14:55:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.761945"
+      },
+      "0fc276d67cc952cd1ac722dc2509b438bf7b8f6e18b81a59fac7efdbb7584cac": {
+        "title": "扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-08-6",
+        "published_date": "Mon, 08 Sep 2025 14:45:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.762072"
+      },
+      "6c6c190b0e85feaa8cbfe130961b6870b45fb58dfed46546aeca3280231ad63a": {
+        "title": "具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-08-5",
+        "published_date": "Mon, 08 Sep 2025 14:35:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.762255"
+      },
+      "9db6dd1e3846896a57fed6a8c184297e59dda2bace767e6e4887409709f4afce": {
+        "title": "上海AI Lab重磅综述：AI实现自主科学发现时代已经到来",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-08-4",
+        "published_date": "Mon, 08 Sep 2025 14:02:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.762469"
+      },
+      "020497d6c01ee77ac59b996972d41c24e1fd9d6c07d767bd956d24184c5b5caa": {
+        "title": "华为手机老将，加盟深蓝任CEO",
+        "link": "https://www.qbitai.com/2025/09/329204.html",
+        "published_date": "Mon, 08 Sep 2025 07:11:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.762669"
+      },
+      "672280be13cfaa795eb67e8ebaacad056712078861859af3c28c991bfca91618": {
+        "title": "英伟达推出通用深度研究系统，可接入任何LLM，支持个人定制",
+        "link": "https://www.qbitai.com/2025/09/329183.html",
+        "published_date": "Mon, 08 Sep 2025 05:39:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.762954"
       }
     },
     "Technology": {
-      "f74cd4294ae0d6d6c04f3af408e3d352f787bce035d32de681864094603b2cc4": {
-        "title": "他救了OpenAI、年赚过亿、三家明星CTO，却自曝跟不上AI发展了！硅谷大佬告诫：不是马斯克，就别碰大模型",
-        "link": "https://www.infoq.cn/article/FsQ4a8vXUP96BmaMmTav?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 09 Aug 2025 13:00:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.473284"
-      },
-      "fc51895032fe18b34d933340234b3db0c11c4a3f4b129ee9c02b26aa63babb21": {
-        "title": "China Defends Its Russian Oil Purchases after Trump Signals Possible New Tariffs",
-        "link": "https://www.tmtpost.com/7653959.html",
-        "published_date": "Sat, 09 Aug 2025 12:17:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.473570"
-      },
-      "48e7d9e39749bcc36658bf307768aef88f1d2cfdd9dcded9a77a13c77b29bfbd": {
-        "title": "ChatGPT-5 来了：从狂热赞美到理性质疑",
-        "link": "https://www.tmtpost.com/7653859.html",
-        "published_date": "Sat, 09 Aug 2025 11:42:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.473780"
-      },
-      "f1e81f5c336795cc59bcf7b83c1ba6082d839d1270527952b986d30b52c0316c": {
-        "title": "数字疗法迎来重大里程碑，首个监管政策发布",
-        "link": "https://www.tmtpost.com/7653078.html",
-        "published_date": "Sat, 09 Aug 2025 11:11:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.473968"
-      },
-      "6b784b6ffe409b7e4ba7566adeecea30518a1a4ed797bb1ea3587cb2969bdce5": {
-        "title": "巨头搅局具身智能，世界机器人大会看什么？",
-        "link": "https://www.tmtpost.com/7653228.html",
-        "published_date": "Sat, 09 Aug 2025 09:58:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.474192"
-      },
-      "36eabf9677ba7dd371909ff84dfcbf0caa65ce68329def852ccde1a77685765f": {
-        "title": "宋春雨：下一代颠覆性巨头，不会出现在大模型里",
-        "link": "https://www.tmtpost.com/7653137.html",
-        "published_date": "Sat, 09 Aug 2025 09:08:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.474481"
-      },
-      "d529179b140f4cf3b75e5b9a496d7da83f82381355c8112b1a5df25c5c6c31fd": {
-        "title": "海尔空调，不能光知道「埋头」干技术",
-        "link": "https://www.tmtpost.com/7651640.html",
-        "published_date": "Sat, 09 Aug 2025 07:30:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.474780"
-      },
-      "9a039412facb99dfe93a2228a2fd5871fc78dbf70b4564e2abd481a03046a434": {
-        "title": "石油需求萎缩怎么办？我国石油产业如何转型？一口气看懂石油产业链",
-        "link": "http://www.huxiu.com/article/4669547.html?f=wangzhan",
-        "published_date": "Sat, 09 Aug 2025 09:00:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.475171"
-      },
-      "748ef236ee08c2b79dba48cda4c7540c23c4adc36b28d5b054258707086786dc": {
-        "title": "李想称知道哪个品牌在黑理想；比亚迪：App 将继续使用「比亚迪」原名；世界机器人大会开幕 | 极客早知道",
-        "link": "http://www.geekpark.net/news/352525",
-        "published_date": "Sat, 09 Aug 2025 08:18:00 GMT",
-        "first_seen": "2025-08-09T05:20:48.475838"
-      },
       "e6ac00e21a198f27a42af1545a764a3450aa4ed4ab086c07332f1fedbebb59e5": {
         "title": "对话宇树科技王兴兴：全球人形机器人出货量，未来将保持每年翻一番",
         "link": "https://www.tmtpost.com/7654047.html",
@@ -22514,6 +22466,126 @@
         "link": "http://www.geekpark.net/news/353572",
         "published_date": "Mon, 08 Sep 2025 08:45:00 GMT",
         "first_seen": "2025-09-08T05:19:49.707027"
+      },
+      "f1687d763841228818a99751a72a7f6dc9d87610493da26203d9cfbd50bb6ff5": {
+        "title": "When DeepSeek is Your Stock Advisor",
+        "link": "https://www.tmtpost.com/7686445.html",
+        "published_date": "Mon, 08 Sep 2025 16:07:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.677986"
+      },
+      "d8a26b3867488824571b5f7de8b43a13df6b44b3cfbb321da99307ae49d81c37": {
+        "title": "烘焙行业还能不能做出品牌？",
+        "link": "https://www.tmtpost.com/7685896.html",
+        "published_date": "Mon, 08 Sep 2025 15:57:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.677995"
+      },
+      "2bff0b6baabc0be364efb346213e7fd2b805ce22f2df444204e6fe0ffeffce13": {
+        "title": "纳斯达克抬高上市门槛，港交所机会来了？",
+        "link": "https://www.tmtpost.com/7685936.html",
+        "published_date": "Mon, 08 Sep 2025 15:57:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.678006"
+      },
+      "68faf40e49b4016bc9f24d5fe43793f5bbfbb55607ddfe469ab44d4b07219d4d": {
+        "title": "AI眼镜正在改写科技消费新格局",
+        "link": "https://www.tmtpost.com/7685993.html",
+        "published_date": "Mon, 08 Sep 2025 15:28:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.677944"
+      },
+      "10c9c2b91adc329ac0cc3426f4a962d45847457709ab48b5003273f5f65c4375": {
+        "title": "北美奶茶局：新茶饮“烧钱”开店",
+        "link": "https://www.tmtpost.com/7686012.html",
+        "published_date": "Mon, 08 Sep 2025 15:28:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.678017"
+      },
+      "e73bb044dec8a82a59be6b952e68a76da184232445c0a8b38c0e34c908182274": {
+        "title": "9月8日A股分析：三大指数涨跌不一，两市合计成交24187.3亿元，资金流入最多的行业板块为化学制品、酿酒行业",
+        "link": "https://www.tmtpost.com/7686357.html",
+        "published_date": "Mon, 08 Sep 2025 15:18:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.678029"
+      },
+      "42aaa26c91d75cca38cda13f535d9cfbf79b6556497e72426e99685a1b7e738f": {
+        "title": "IKEA Accelerates Localization in China with New Brand Positioning and Expanded Product Offerings",
+        "link": "https://www.tmtpost.com/7686355.html",
+        "published_date": "Mon, 08 Sep 2025 15:04:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.678041"
+      },
+      "f637c573802114f27e4cfe1facf9f650a64c6cd55f29a95f41820096ff6564e9": {
+        "title": "闷声搞钱的联想，正面临AI大考",
+        "link": "https://www.tmtpost.com/7685972.html",
+        "published_date": "Mon, 08 Sep 2025 14:40:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.169420"
+      },
+      "3a4aac646653b2e1b636a110dde6530cec5f9fece692fca4a9cca4145ae71660": {
+        "title": "从「跟随」到「被跟随」，中国科技力量引爆全球",
+        "link": "https://www.tmtpost.com/7686079.html",
+        "published_date": "Mon, 08 Sep 2025 14:10:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.677959"
+      },
+      "9ef98bdeecf506262b17918b7ac7b4ef768da5e3400953c55e20ac0f9c962af1": {
+        "title": "8月红果热度微增超百亿、付费热力值18亿跌9%，听花岛、番茄、河马等领跑",
+        "link": "https://www.tmtpost.com/7686037.html",
+        "published_date": "Mon, 08 Sep 2025 13:45:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.170447"
+      },
+      "f360ff860c88810109f35dd292df5b4a9370b3083e4d077fd56ac304b0a78368": {
+        "title": "蓝色光标、分众传媒、引力传媒、利欧股份、省广集团2025年H1财报：谁是赢家？谁最尴尬？",
+        "link": "https://www.tmtpost.com/7684625.html",
+        "published_date": "Mon, 08 Sep 2025 13:36:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.171247"
+      },
+      "083c03f86d8cd467a7d4a887bfe5e2983727680152d174b11a8f75c61290df5c": {
+        "title": "2025 慕尼黑 InfoQ 开发者峰会：通过深度实践指导掌握“如何实现”",
+        "link": "https://www.infoq.cn/article/Zv1sv8JM58XyLIwNudDq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Sep 2025 16:00:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.172035"
+      },
+      "6bf61b818bb3ac629187ee6427e4fb3fca568006038e18771aa43e26af07cd8f": {
+        "title": "Pogocache：开源缓存软件实现低延迟并支持多传输协议",
+        "link": "https://www.infoq.cn/article/yXIuzyArDBTgaC6GhPKO?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Sep 2025 15:45:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.172653"
+      },
+      "45a790769b14cc2ead982a7c57604196089d2d64acf6c9c4e9ee3a8a13ae3092": {
+        "title": "前端工程3.0：企业级智能研发与 Agent 系统落地｜ QCon上海",
+        "link": "https://www.infoq.cn/article/5FGYxWQXF09yS1KXJRie?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Sep 2025 15:19:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.677917"
+      },
+      "8b0bfc27d3f26881761d2a0250f5b43de6c5206e11693b0f42b1f65287e24710": {
+        "title": "2025 的企业 AI 市场， Data &AI 占据主流视野",
+        "link": "https://www.infoq.cn/article/HR8BvzxlBabrLDiyTJms?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Sep 2025 14:39:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.174530"
+      },
+      "9eba33055741998971323da1f4e56d11ff2574e5e4a66e219fc9cb179fcb8293": {
+        "title": "自变量机器人完成近10亿元A+轮融资，阿里云、国科、国开、红杉、渶策出手！",
+        "link": "https://www.infoq.cn/article/WhQDfYIiBg8buRjXppyH?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Sep 2025 13:28:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.175631"
+      },
+      "fef652a60361ef1144c969f9c187a54e94dda78cc548fa7f6899c3de8e3dbeca": {
+        "title": "iPhone 摄影风格使用指南",
+        "link": "https://sspai.com/post/102293",
+        "published_date": "Mon, 08 Sep 2025 14:35:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.176264"
+      },
+      "321939f7e178208e726944ed9c457a765f4668223e2e8d5a1f5bf05dbe3c3150": {
+        "title": "小鹏全新P7正式上市，能打败小鹏的只有小鹏自己？",
+        "link": "http://www.huxiu.com/article/4764121.html?f=wangzhan",
+        "published_date": "Mon, 08 Sep 2025 14:30:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.177012"
+      },
+      "0c313004353490cd742806018e3b8a6f82825168a1744ab0723db0889fb8a0f9": {
+        "title": "6 个月估值暴涨 5 倍突破 100 亿美元，三个「00后」逼急 Scale AI",
+        "link": "http://www.geekpark.net/news/353602",
+        "published_date": "Mon, 08 Sep 2025 13:43:00 GMT",
+        "first_seen": "2025-09-08T08:29:39.677974"
+      },
+      "eff651d28170749e4dc9a44e04e49ff3e39b4f0b6786445fab363f44c997f67a": {
+        "title": "Uber and Momenta will test fully driverless cars in Germany",
+        "link": "https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi",
+        "published_date": "Mon, 08 Sep 2025 06:00:00 GMT",
+        "first_seen": "2025-09-08T08:28:51.180207"
       }
     },
     "Finance": {
@@ -25514,8 +25586,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-09-08T05:21:26.776160",
-    "Technology": "2025-09-08T05:20:38.100037",
-    "Finance": "2025-09-08T05:21:26.793663"
+    "AI": "2025-09-08T08:29:39.770223",
+    "Technology": "2025-09-08T08:29:39.695492",
+    "Finance": "2025-09-08T08:29:39.786783"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 05:21:26 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 08:29:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Efficient Training-Free Online Routing for High-Volume Multi-LLM Serving</title>
-      <link>https://arxiv.org/abs/2509.02718</link>
-      <description>&lt;![CDATA[Efficient Training-Free Online Routing for High-Volume Multi-LLM Serving]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.02718</guid>
+      <title>全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-7</link>
+      <description>&lt;![CDATA[全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Can Multiple Responses from an LLM Reveal the Sources of Its Uncertainty?</title>
-      <link>https://arxiv.org/abs/2509.04464</link>
-      <description>&lt;![CDATA[Can Multiple Responses from an LLM Reveal the Sources of Its Uncertainty?]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04464</guid>
+      <title>扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-6</link>
+      <description>&lt;![CDATA[扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DecMetrics: Structured Claim Decomposition Scoring for Factually Consistent LLM Outputs</title>
-      <link>https://arxiv.org/abs/2509.04483</link>
-      <description>&lt;![CDATA[DecMetrics: Structured Claim Decomposition Scoring for Factually Consistent LLM Outputs]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04483</guid>
+      <title>具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-5</link>
+      <description>&lt;![CDATA[具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>空间智能新高度：港科大谭平团队SAIL-Recon突破万帧级图像大规模3D场景重建Transformer</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08</link>
-      <description>&lt;![CDATA[空间智能新高度：港科大谭平团队SAIL-Recon突破万帧级图像大规模3D场景重建Transformer]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08</guid>
+      <title>上海AI Lab重磅综述：AI实现自主科学发现时代已经到来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-08-4</link>
+      <description>&lt;![CDATA[上海AI Lab重磅综述：AI实现自主科学发现时代已经到来]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Maestro: Joint Graph &amp; Config Optimization for Reliable AI Agents</title>
-      <link>https://arxiv.org/abs/2509.04642</link>
-      <description>&lt;![CDATA[Maestro: Joint Graph &amp; Config Optimization for Reliable AI Agents]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04642</guid>
+      <title>华为手机老将，加盟深蓝任CEO</title>
+      <link>https://www.qbitai.com/2025/09/329204.html</link>
+      <description>&lt;![CDATA[华为手机老将，加盟深蓝任CEO]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 07:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329204.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>An Approach to Grounding AI Model Evaluations in Human-derived Criteria</title>
-      <link>https://arxiv.org/abs/2509.04676</link>
-      <description>&lt;![CDATA[An Approach to Grounding AI Model Evaluations in Human-derived Criteria]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04676</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales</title>
-      <link>https://arxiv.org/abs/2509.04871</link>
-      <description>&lt;![CDATA[Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04871</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OSC: Cognitive Orchestration through Dynamic Knowledge Alignment in Multi-Agent LLM Collaboration</title>
-      <link>https://arxiv.org/abs/2509.04876</link>
-      <description>&lt;![CDATA[OSC: Cognitive Orchestration through Dynamic Knowledge Alignment in Multi-Agent LLM Collaboration]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04876</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Benchmarking GPT-5 for biomedical natural language processing</title>
-      <link>https://arxiv.org/abs/2509.04462</link>
-      <description>&lt;![CDATA[Benchmarking GPT-5 for biomedical natural language processing]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04462</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Enhancing LLM Efficiency: Targeted Pruning for Prefill-Decode Disaggregation in Inference</title>
-      <link>https://arxiv.org/abs/2509.04467</link>
-      <description>&lt;![CDATA[Enhancing LLM Efficiency: Targeted Pruning for Prefill-Decode Disaggregation in Inference]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.04467</guid>
+      <title>英伟达推出通用深度研究系统，可接入任何LLM，支持个人定制</title>
+      <link>https://www.qbitai.com/2025/09/329183.html</link>
+      <description>&lt;![CDATA[英伟达推出通用深度研究系统，可接入任何LLM，支持个人定制]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 05:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329183.html</guid>
       <category>AI</category>
     </item>
   </channel>
