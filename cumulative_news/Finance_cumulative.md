@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-08 23:24
+**最后更新时间**: 2025-09-09 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-09 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Obamacare tax breaks could get extended in government-shutdown fight. Here’s why.](https://www.marketwatch.com/story/obamacare-tax-breaks-could-get-extended-in-a-government-shutdown-fight-heres-why-9fe96daa?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 01:09
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Opinion: Protect your money from the turmoil at the Federal Reserve](https://www.marketwatch.com/bulletins/redirect/go?g=e2ccff19-79d3-46b4-8a5e-e6e84291763d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 01:05
 
 ---
 

@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-08 23:24
+**最后更新时间**: 2025-09-09 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-09 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [U.S. SEC Reinforces Actions Against Securities Fraud Involving Foreign Companies, Singles China Out](https://www.tmtpost.com/7687689.html)
+**发布时间**: 2025-09-09 13:08
+
+#### [Hyra Network Pushes for a 'Sovereign AI Future' Amid Global Expansion](https://www.tmtpost.com/7687671.html)
+**发布时间**: 2025-09-09 12:42
+
+#### [U.S. Could Refund Half of Tariff Revenue if Supreme Court Rules Against Trump's Global Tariffs, Treasury Chief Warns](https://www.tmtpost.com/7687662.html)
+**发布时间**: 2025-09-09 12:31
+
+#### [地方旅企，悄悄押注度假](https://www.tmtpost.com/7687262.html)
+**发布时间**: 2025-09-09 11:52
+
+#### [超2000人同时在线，港科大AI小镇创下热度神话，负责人：“AI游戏将真正爆发”](https://www.tmtpost.com/7687328.html)
+**发布时间**: 2025-09-09 11:52
+
+#### [没有数据化，还能做人效管理吗？](https://www.tmtpost.com/7687440.html)
+**发布时间**: 2025-09-09 11:52
+
+#### [90后接班人要消化万辰的万店雄心](https://www.tmtpost.com/7687489.html)
+**发布时间**: 2025-09-09 11:52
+
+#### [小米王腾违规泄密，雷军挥泪「斩」爱将](https://www.tmtpost.com/7687525.html)
+**发布时间**: 2025-09-09 11:52
+
+#### [动辄破万、累积超5000万，汽车公司小订有多水？](https://www.tmtpost.com/7686782.html)
+**发布时间**: 2025-09-09 11:51
+
+#### [“北上养老”，十万港人的新选择](https://www.tmtpost.com/7687431.html)
+**发布时间**: 2025-09-09 11:51
+
+#### [Dify、Trae和ClackyAI，这些Agentic AI企业如何在云上出海](https://www.tmtpost.com/7687516.html)
+**发布时间**: 2025-09-09 11:49
+
+#### [FCC Revokes Certification of Chinese Electronics Labs, Citing National Security Risks](https://www.tmtpost.com/7687534.html)
+**发布时间**: 2025-09-09 11:27
+
+#### [万亿芯片巨头收购预案出炉！明日复牌；“大而美法案”下，A股钴化学巨头拟1.21亿美元出售BCM公司25%股权；【并购一线】](https://www.tmtpost.com/7687014.html)
+**发布时间**: 2025-09-09 10:29
+
+#### [美国FCC撤销许可，将禁止信通院等10家中国实验室测试美国电子产品](https://www.tmtpost.com/7687337.html)
+**发布时间**: 2025-09-09 09:59
+
+#### [可乐2块3、AD钙奶8毛8，赵一鸣、零食很忙、好想来能赚钱吗？](https://www.tmtpost.com/7686983.html)
+**发布时间**: 2025-09-09 09:58
+
+#### [Optimus真的能创造特斯拉未来80%的价值吗？](https://www.tmtpost.com/7686912.html)
+**发布时间**: 2025-09-09 09:48
+
+#### [新帅改革百日，华夏银行何以实现“V型”反弹 | 巴伦精选](https://www.tmtpost.com/7687320.html)
+**发布时间**: 2025-09-09 09:42
+
+#### [2025年上半年方便面市场回顾与趋势洞察](https://www.tmtpost.com/7686043.html)
+**发布时间**: 2025-09-09 09:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Native的崛起：当“人机共生”变成职场默认设置](https://www.infoq.cn/article/f0fXKbhEOiKti9LyoDyN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 11:50
+
+#### [从云入端，CANN & Ascend C 助力大模型端侧部署｜QCon 上海](https://www.infoq.cn/article/LmtHgc3wweU3krEqVMGS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 11:50
+
+#### [制造企业如何实现 AI 产品经理“能力复制”？](https://www.infoq.cn/article/c1CYbBdFeO4AVEqjrm95?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 10:35
+
+#### [Java近期新闻：Groovy 5.0、Leyden项目、Helidon MCP、JReleaserLangChain4j和Open Liberty](https://www.infoq.cn/article/iQhVDSUc8cDtSR2xQoif?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [当月亮去过“红浪漫”，罕见“血月”如何形成？](http://www.huxiu.com/article/4765011.html?f=wangzhan)
+**发布时间**: 2025-09-09 11:46
+
+#### [豪车退场，国产霸屏，成都车展变天记](http://www.huxiu.com/article/4764576.html?f=wangzhan)
+**发布时间**: 2025-09-09 11:01
+
+#### [上海房市松绑，意味着啥？是一阵好风吗？](http://www.huxiu.com/article/4764579.html?f=wangzhan)
+**发布时间**: 2025-09-09 10:27
+
+#### [从“河北女子家暴去世”案，看家庭暴力的法律应对与社会防治](http://www.huxiu.com/article/4763707.html?f=wangzhan)
+**发布时间**: 2025-09-08 22:00
+
+#### [宁德时代，给欧洲人上了一剂“猛药”](http://www.huxiu.com/article/4764625.html?f=wangzhan)
+**发布时间**: 2025-09-08 21:01
+
+#### [稳定币到底是什么？小白也能看懂的动画解读](http://www.huxiu.com/article/4763785.html?f=wangzhan)
+**发布时间**: 2025-09-08 20:30
+
+#### [快餐黑马米村拌饭，为啥跑不动了？](http://www.huxiu.com/article/4764017.html?f=wangzhan)
+**发布时间**: 2025-09-08 16:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [漫步台湾（上）：历史在城，烟火在人](https://sspai.com/post/102296)
+**发布时间**: 2025-09-09 11:03
+
+#### [派早报：工信部向中国联通颁发卫星移动通信业务经营许可等](https://sspai.com/post/102384)
+**发布时间**: 2025-09-09 08:06
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米通报王腾因泄密被辞退，本人发微博回应；传 IPO 估值 500 亿，宇树回应 ；辛顿自曝被女友用 AI 分手 | 极客早知道](http://www.geekpark.net/news/353641)
+**发布时间**: 2025-09-09 08:46
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [KitchenAid Promo Code: 50% Off in September 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+**发布时间**: 2025-09-09 05:00
+
+#### [Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World](https://www.wired.com/story/geedge-networks-mass-censorship-leak/)
+**发布时间**: 2025-09-09 03:00
 
 ---
 

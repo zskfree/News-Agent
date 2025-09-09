@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Sep 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 23:25:40 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 05:21:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-10</link>
-      <description>&lt;![CDATA[Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 19:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-10</guid>
+      <title>Science | 西奈山伊坎医学院新AI算法为1600种变异定量「风险」，解析疾病外显率难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-09-4</link>
+      <description>&lt;![CDATA[Science | 西奈山伊坎医学院新AI算法为1600种变异定量「风险」，解析疾病外显率难题]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-9</link>
-      <description>&lt;![CDATA[从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 19:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-9</guid>
+      <title>From Long to Short: LLMs Excel at Trimming Own Reasoning Chains</title>
+      <link>https://arxiv.org/abs/2509.06174</link>
+      <description>&lt;![CDATA[From Long to Short: LLMs Excel at Trimming Own Reasoning Chains]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.06174</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-08-8</link>
-      <description>&lt;![CDATA[字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-08-8</guid>
+      <title>Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agent</title>
+      <link>https://arxiv.org/abs/2509.06341</link>
+      <description>&lt;![CDATA[Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agent]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.06341</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How Yichao “Peak” Ji became a global AI app hitmaker</title>
-      <link>https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/</link>
-      <description>&lt;![CDATA[How Yichao “Peak” Ji became a global AI app hitmaker]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/</guid>
+      <title>Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts</title>
+      <link>https://arxiv.org/abs/2509.05323</link>
+      <description>&lt;![CDATA[Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.05323</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克xAI自研推理芯片曝光！代号X1、台积电3纳米工艺、明年就量产</title>
-      <link>https://www.qbitai.com/2025/09/329391.html</link>
-      <description>&lt;![CDATA[马斯克xAI自研推理芯片曝光！代号X1、台积电3纳米工艺、明年就量产]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329391.html</guid>
+      <title>Benchmarking Large Language Models for Personalized Guidance in AI-Enhanced Learning</title>
+      <link>https://arxiv.org/abs/2509.05346</link>
+      <description>&lt;![CDATA[Benchmarking Large Language Models for Personalized Guidance in AI-Enhanced Learning]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.05346</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Hinton万万没想到，前女友用ChatGPT跟他闹分手</title>
-      <link>https://www.qbitai.com/2025/09/329340.html</link>
-      <description>&lt;![CDATA[Hinton万万没想到，前女友用ChatGPT跟他闹分手]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 08:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329340.html</guid>
+      <title>SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis</title>
+      <link>https://arxiv.org/abs/2509.05363</link>
+      <description>&lt;![CDATA[SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.05363</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: introducing our 35 Innovators Under 35 list for 2025</title>
-      <link>https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/</link>
-      <description>&lt;![CDATA[The Download: introducing our 35 Innovators Under 35 list for 2025]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/</guid>
+      <title>Murphys Laws of AI Alignment: Why the Gap Always Wins</title>
+      <link>https://arxiv.org/abs/2509.05381</link>
+      <description>&lt;![CDATA[Murphys Laws of AI Alignment: Why the Gap Always Wins]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.05381</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How Trump’s policies are affecting early-career scientists—in their own words</title>
-      <link>https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/</link>
-      <description>&lt;![CDATA[How Trump’s policies are affecting early-career scientists—in their own words]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/</guid>
+      <title>Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs</title>
+      <link>https://arxiv.org/abs/2509.05714</link>
+      <description>&lt;![CDATA[Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.05714</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Why basic science deserves our boldest investment</title>
-      <link>https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/</link>
-      <description>&lt;![CDATA[Why basic science deserves our boldest investment]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/</guid>
+      <title>DRF: LLM-AGENT Dynamic Reputation Filtering Framework</title>
+      <link>https://arxiv.org/abs/2509.05764</link>
+      <description>&lt;![CDATA[DRF: LLM-AGENT Dynamic Reputation Filtering Framework]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.05764</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology</title>
-      <link>https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/</link>
-      <description>&lt;![CDATA[2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology]]&gt;</description>
-      <pubDate>Mon, 08 Sep 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/</guid>
+      <title>Rethinking Reasoning Quality in Large Language Models through Enhanced Chain-of-Thought via RL</title>
+      <link>https://arxiv.org/abs/2509.06024</link>
+      <description>&lt;![CDATA[Rethinking Reasoning Quality in Large Language Models through Enhanced Chain-of-Thought via RL]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.06024</guid>
       <category>AI</category>
     </item>
   </channel>
