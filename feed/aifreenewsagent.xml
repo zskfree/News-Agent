@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Sep 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Sep 2025 08:29:12 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 23:19:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Altman亲自发博客点赞，这两大杰出人才是谁？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-09-5</link>
-      <description>&lt;![CDATA[Altman亲自发博客点赞，这两大杰出人才是谁？]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-5</guid>
+      <title>发自 凹非寺量子位 | 公众号 QbitAI  奥特曼点名表扬了两个波兰人。  没有他们，OpenAI就不是今天的样子。  他们是OpenAI首席科学家Jakub Pachocki以及头衔为“Technical Fellow”的Szymon Sidor。  △左：Jakub Pachocki，右：Szymon Sidor  两人不仅是波兰老乡，而且是高中同学，读博时分别选择了计算机科学和机器人，后来又在OpenAI重聚。  在ChatGPT风靡全球、每天服务数亿用户的今天，奥特曼感慨大多数人永远不会想到背后那些付出心血的人，这两位波兰科学家，正是其中的关键角色。  他们在OpenAI的贡献从Dota项目大规模扩展了强化学习，到领导了GPT-4的预训练，还与 Ilya和Lukasz共同推动了导致推理突破的最初想法。  当然，奥特曼对他们如此高评价或许还有另一个原因：  在2023年OpenAI内乱事件中，他俩也是带头站出来宣布辞职，要追随奥特曼离开的。  从高中同窗到OpenAI重聚  故事还要从波兰的一所学校说起，格丁尼亚第三高中。  在那里两人跟随同一位老师学习计算机，接受的教育深度远超普通高中课程，涉及图论等内容。  两人第一次相遇是在编程夏令营，每年他们要在夏令营做两个月高强度训练。  不过后来他们回忆，两人在高中时关系还没那么好，只算学业上的同伴。离开高中后一同在美国闯荡，才让他们建立深厚友谊。  先说Pachocki（以下简称帕哥）这边。  15岁的时候，他像很多少年一样还不确定自己未来想做什么。  父亲给了他一本书，是YC联合创始人保罗·格雷厄姆散文集《黑客与画家》的波兰语译本。  给帕哥触动最深的是书中这样的描写：黑客和画家的共同点在于，他们都是创造者。  与作曲家、建筑师和作家一样，黑客和画家努力做的是创造美好的事物。他们本质上并非在进行研究，但如果在尝试创造美好事物的过程中发现了一些新技术，那就更好了。  帕哥很幸运，不仅发现自己对计算机有兴趣，不久后还发现自己在这方面是真的有天赋：高中时期拿过国际信息学奥林匹克竞赛IOI的银牌。  话说回来，奥特曼本曼的职业道路也是受到格雷厄姆影响很深，不过是创投事业的那一面。  在8月份的OpenAI播客节目中，帕哥表示现在想想整件事还挺好笑的，当时真的没有把这些联系起来。  高中毕业后，帕哥来到波兰华沙大学读计算机专业，在本科期间又拿过许多竞赛奖项。  2012年ICM-ICPC的金牌和Google Code Jam，至今仍然能搜到他在ICPC的获奖感言片段。  △中：Jakub Pachocki  本科毕业后他来到卡耐基梅隆大学攻读计算机科学博士学位。  对于AI，他原以为真正能做到推理的AI需要很长时间才能开发出来，需要更大的计算机和非常扎实的数学基础。  但2016年的AlphaGo改变了一切。  围棋的搜索空间太大了，我们的算法根本无法应对。但他们用深度学习解决了这个问题，这迫使我重新思考。  毕业后帕哥先在哈佛大学做了一年博士后之后，2017年2月就加入了OpenAI。  再来看Sidor（以下简称西哥）这边，让他坚定研究强化学习的也是AplphaGo，不过青少年时期给他启发最大的是《钢铁侠》电影。  高中毕业后，他本科先去的英国读剑桥大学，博士就读于MIT。  但不是他主动选择了MIT，而是他当时申请了很多美国学校，只有MIT没有拒绝他，因为MIT不考英语，而他的英语很差（允悲）。  一开始他选择的是机器人专业，不过很快他就对现实中的机器人并没有电影里那么炫酷感到失望了，转而学习深度学习和强化学习。  最终毕业时他的论文课题是“自然语言处理中多阶段推理的强化学习方法”，这个题目拿到现在当成最新的大模型研究题目都没问题。  只不过当时西哥的研究对象是LSTM模型、Deep Q-learning强化学习算法，多阶段推理任务指的是句子打乱重排序问题。  博士毕业后，他受AlphaGo影响，先申请的DeepMind岗位，不过面试时被问到很多理论机器学习问题，他一个都不会就挂掉了。  尽管当时OpenAI还是个名不见经传的小公司，但看起来对做强化学习这件事很认真，西哥就加入了。  2017年，两个波兰人在OpenAI重聚。  加入OpenAI后不久，两人投入到Dota 2项目中，目标是让AI在复杂的电子竞技游戏中击败人类职业选手。  △Dota项目早期访谈，右：Szymon SIdor  他们原本想通过这个项目找到强化学习的极限在哪里，到什么程度会失效，结果却大获成功，击败人类职业选手队伍创造了历史。  代价是两人都失去了发际线。  在这个项目中，帕哥专注于大规模强化学习与优化，而西哥参与开发了分布式训练系统和持续训练工具。  两人的合作模式在这个项目中逐渐成型。  帕哥会在办公室或公寓里走来走去，深入思考应该如何研究一个现象。而西哥更倾向于直接开干，先整出一些数据再说。  这种一个深度思考、一个动手实验的组合，成为他们的制胜法宝。  到了GPT-4的开发阶段，帕哥已经成为项目的领导者。奥特曼曾公开表示：”如果没有他的贡献，我们无法取得今天的成就。”  西哥的角色非常灵活，他将自己定位为“独立贡献者”，只是偶尔承担领导职责，核心是去做最有价值的事。  危机时刻见真章  2023年11月的OpenAI内乱危机，让这对搭档的分量彻底显现出来。  11月17日中午，正在吃午饭的两人收到了奥特曼被解职的消息。  西哥回忆到，当时他正在走廊里思考问题，收到消息马上去找帕哥。帕哥正在与别人讨论一个一个很深入问题。西哥很粗鲁地打断了他们，给他们看公告内容。  帕哥的反应非常果断，立即走出大楼给奥特曼打电话询问到底发生了什么，电话那头的奥特曼同样困惑。  后来两人步调一致，与Aleksander Madry一起率先宣布辞职，要追随奥特曼一起加入微软，也正是他们坚定的支持成为促使Altman回归的关键因素之一。  这次危机给两人带来了深刻的教训。帕哥感慨：  直到那一刻，我才真正意识到治理结构有多重要。我们建设了近十年的东西，突然间就可能面临剧变。  对此西哥也有同感，“当初设立这些治理结构时，感觉像是杀鸡用牛刀”，而现在他得到的教训是“在公司早期做出的决策，即使当时看起来微不足道，也可能在未来产生深远影响”。  后来事情暂告一段落之后，帕哥正式接棒Ilya成为首席科学家，主要职责是为公司制定研究路线图，并确立长期的技术愿景。  他认为深度学习尽管基于数学，但更像是一门自然科学，研究者需要通过实验去理解其内在现象。  他未来的目标是构建能够进行自主科学研究的AI系统，认为这种系统将在不远的将来成为”持久的实体”，并有望解决AI对齐等行业难题。  西哥继续保持着独立贡献者的角色，他的社交媒体签名是“一行一行代码地构建AGI”。  对他俩的搭档关系，奥特曼有感而发：  我听说过一些两个人能够完美互补的合作关系，但能够见证这种合作关系多年来的演变，真的非常特别。  而奥特曼给他们的最新评价是：OpenAI还没有遇到过他们无法解决的问题。  这里面或许既指研究上的问题，也暗含管理上的问题。  参考链接：[1]https://blog.samaltman.com/jakub-and-szymon[2]https://www.youtube.com/watch?v=yBzStBK6Z8c[3]https://www.youtube.com/watch?v=LauSf7HoxwM</title>
+      <link>https://www.qbitai.com/2025/09/329767.html</link>
+      <description>&lt;![CDATA[发自 凹非寺量子位 | 公众号 QbitAI  奥特曼点名表扬了两个波兰人。  没有他们，OpenAI就不是今天的样子。  他们是OpenAI首席科学家Jakub Pachocki以及头衔为“Technical Fellow”的Szymon Sidor。  △左：Jakub Pachocki，右：Szymon Sidor  两人不仅是波兰老乡，而且是高中同学，读博时分别选择了计算机科学和机器人，后来又在OpenAI重聚。  在ChatGPT风靡全球、每天服务数亿用户的今天，奥特曼感慨大多数人永远不会想到背后那些付出心血的人，这两位波兰科学家，正是其中的关键角色。  他们在OpenAI的贡献从Dota项目大规模扩展了强化学习，到领导了GPT-4的预训练，还与 Ilya和Lukasz共同推动了导致推理突破的最初想法。  当然，奥特曼对他们如此高评价或许还有另一个原因：  在2023年OpenAI内乱事件中，他俩也是带头站出来宣布辞职，要追随奥特曼离开的。  从高中同窗到OpenAI重聚  故事还要从波兰的一所学校说起，格丁尼亚第三高中。  在那里两人跟随同一位老师学习计算机，接受的教育深度远超普通高中课程，涉及图论等内容。  两人第一次相遇是在编程夏令营，每年他们要在夏令营做两个月高强度训练。  不过后来他们回忆，两人在高中时关系还没那么好，只算学业上的同伴。离开高中后一同在美国闯荡，才让他们建立深厚友谊。  先说Pachocki（以下简称帕哥）这边。  15岁的时候，他像很多少年一样还不确定自己未来想做什么。  父亲给了他一本书，是YC联合创始人保罗·格雷厄姆散文集《黑客与画家》的波兰语译本。  给帕哥触动最深的是书中这样的描写：黑客和画家的共同点在于，他们都是创造者。  与作曲家、建筑师和作家一样，黑客和画家努力做的是创造美好的事物。他们本质上并非在进行研究，但如果在尝试创造美好事物的过程中发现了一些新技术，那就更好了。  帕哥很幸运，不仅发现自己对计算机有兴趣，不久后还发现自己在这方面是真的有天赋：高中时期拿过国际信息学奥林匹克竞赛IOI的银牌。  话说回来，奥特曼本曼的职业道路也是受到格雷厄姆影响很深，不过是创投事业的那一面。  在8月份的OpenAI播客节目中，帕哥表示现在想想整件事还挺好笑的，当时真的没有把这些联系起来。  高中毕业后，帕哥来到波兰华沙大学读计算机专业，在本科期间又拿过许多竞赛奖项。  2012年ICM-ICPC的金牌和Google Code Jam，至今仍然能搜到他在ICPC的获奖感言片段。  △中：Jakub Pachocki  本科毕业后他来到卡耐基梅隆大学攻读计算机科学博士学位。  对于AI，他原以为真正能做到推理的AI需要很长时间才能开发出来，需要更大的计算机和非常扎实的数学基础。  但2016年的AlphaGo改变了一切。  围棋的搜索空间太大了，我们的算法根本无法应对。但他们用深度学习解决了这个问题，这迫使我重新思考。  毕业后帕哥先在哈佛大学做了一年博士后之后，2017年2月就加入了OpenAI。  再来看Sidor（以下简称西哥）这边，让他坚定研究强化学习的也是AplphaGo，不过青少年时期给他启发最大的是《钢铁侠》电影。  高中毕业后，他本科先去的英国读剑桥大学，博士就读于MIT。  但不是他主动选择了MIT，而是他当时申请了很多美国学校，只有MIT没有拒绝他，因为MIT不考英语，而他的英语很差（允悲）。  一开始他选择的是机器人专业，不过很快他就对现实中的机器人并没有电影里那么炫酷感到失望了，转而学习深度学习和强化学习。  最终毕业时他的论文课题是“自然语言处理中多阶段推理的强化学习方法”，这个题目拿到现在当成最新的大模型研究题目都没问题。  只不过当时西哥的研究对象是LSTM模型、Deep Q-learning强化学习算法，多阶段推理任务指的是句子打乱重排序问题。  博士毕业后，他受AlphaGo影响，先申请的DeepMind岗位，不过面试时被问到很多理论机器学习问题，他一个都不会就挂掉了。  尽管当时OpenAI还是个名不见经传的小公司，但看起来对做强化学习这件事很认真，西哥就加入了。  2017年，两个波兰人在OpenAI重聚。  加入OpenAI后不久，两人投入到Dota 2项目中，目标是让AI在复杂的电子竞技游戏中击败人类职业选手。  △Dota项目早期访谈，右：Szymon SIdor  他们原本想通过这个项目找到强化学习的极限在哪里，到什么程度会失效，结果却大获成功，击败人类职业选手队伍创造了历史。  代价是两人都失去了发际线。  在这个项目中，帕哥专注于大规模强化学习与优化，而西哥参与开发了分布式训练系统和持续训练工具。  两人的合作模式在这个项目中逐渐成型。  帕哥会在办公室或公寓里走来走去，深入思考应该如何研究一个现象。而西哥更倾向于直接开干，先整出一些数据再说。  这种一个深度思考、一个动手实验的组合，成为他们的制胜法宝。  到了GPT-4的开发阶段，帕哥已经成为项目的领导者。奥特曼曾公开表示：”如果没有他的贡献，我们无法取得今天的成就。”  西哥的角色非常灵活，他将自己定位为“独立贡献者”，只是偶尔承担领导职责，核心是去做最有价值的事。  危机时刻见真章  2023年11月的OpenAI内乱危机，让这对搭档的分量彻底显现出来。  11月17日中午，正在吃午饭的两人收到了奥特曼被解职的消息。  西哥回忆到，当时他正在走廊里思考问题，收到消息马上去找帕哥。帕哥正在与别人讨论一个一个很深入问题。西哥很粗鲁地打断了他们，给他们看公告内容。  帕哥的反应非常果断，立即走出大楼给奥特曼打电话询问到底发生了什么，电话那头的奥特曼同样困惑。  后来两人步调一致，与Aleksander Madry一起率先宣布辞职，要追随奥特曼一起加入微软，也正是他们坚定的支持成为促使Altman回归的关键因素之一。  这次危机给两人带来了深刻的教训。帕哥感慨：  直到那一刻，我才真正意识到治理结构有多重要。我们建设了近十年的东西，突然间就可能面临剧变。  对此西哥也有同感，“当初设立这些治理结构时，感觉像是杀鸡用牛刀”，而现在他得到的教训是“在公司早期做出的决策，即使当时看起来微不足道，也可能在未来产生深远影响”。  后来事情暂告一段落之后，帕哥正式接棒Ilya成为首席科学家，主要职责是为公司制定研究路线图，并确立长期的技术愿景。  他认为深度学习尽管基于数学，但更像是一门自然科学，研究者需要通过实验去理解其内在现象。  他未来的目标是构建能够进行自主科学研究的AI系统，认为这种系统将在不远的将来成为”持久的实体”，并有望解决AI对齐等行业难题。  西哥继续保持着独立贡献者的角色，他的社交媒体签名是“一行一行代码地构建AGI”。  对他俩的搭档关系，奥特曼有感而发：  我听说过一些两个人能够完美互补的合作关系，但能够见证这种合作关系多年来的演变，真的非常特别。  而奥特曼给他们的最新评价是：OpenAI还没有遇到过他们无法解决的问题。  这里面或许既指研究上的问题，也暗含管理上的问题。  参考链接：[1]https://blog.samaltman.com/jakub-and-szymon[2]https://www.youtube.com/watch?v=yBzStBK6Z8c[3]https://www.youtube.com/watch?v=LauSf7HoxwM]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329767.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苏州AI公司德国落地Robotaxi，美国Uber一夜大涨472亿</title>
-      <link>https://www.qbitai.com/2025/09/329594.html</link>
-      <description>&lt;![CDATA[苏州AI公司德国落地Robotaxi，美国Uber一夜大涨472亿]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 06:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329594.html</guid>
+      <title>9.16-9.17来腾讯全球数字生态大会，解锁AI技术应用落地场景与产品实践</title>
+      <link>https://www.qbitai.com/2025/09/329906.html</link>
+      <description>&lt;![CDATA[9.16-9.17来腾讯全球数字生态大会，解锁AI技术应用落地场景与产品实践]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329906.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>18岁女孩做养老机器人，上线2天卖爆了</title>
-      <link>https://www.qbitai.com/2025/09/329560.html</link>
-      <description>&lt;![CDATA[18岁女孩做养老机器人，上线2天卖爆了]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 05:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329560.html</guid>
+      <title>求职者用AI写简历，HR用AI筛简历，陷入「无人录用」死循环</title>
+      <link>https://www.qbitai.com/2025/09/329891.html</link>
+      <description>&lt;![CDATA[求职者用AI写简历，HR用AI筛简历，陷入「无人录用」死循环]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329891.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>文心新出的推理大模型，给了我们信心</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-09-12</link>
+      <description>&lt;![CDATA[文心新出的推理大模型，给了我们信心]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 20:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SFT远不如RL？永不过时的剃刀原则打开「终身学习」大模型训练的大门</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-09-11</link>
+      <description>&lt;![CDATA[SFT远不如RL？永不过时的剃刀原则打开「终身学习」大模型训练的大门]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>硅谷也996实锤了？AI的火，烧掉了硅谷的周末</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-09-7</link>
+      <description>&lt;![CDATA[硅谷也996实锤了？AI的火，烧掉了硅谷的周末]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Accelerating scientific discovery with AI-powered empirical software</title>
+      <link>https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/</link>
+      <description>&lt;![CDATA[Accelerating scientific discovery with AI-powered empirical software]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: meet our AI innovators, and what happens when therapists use AI covertly</title>
+      <link>https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/</link>
+      <description>&lt;![CDATA[The Download: meet our AI innovators, and what happens when therapists use AI covertly]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Help! My therapist is secretly using ChatGPT</title>
+      <link>https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/</link>
+      <description>&lt;![CDATA[Help! My therapist is secretly using ChatGPT]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI is changing the grid. Could it help more than it harms?</title>
+      <link>https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/</link>
+      <description>&lt;![CDATA[AI is changing the grid. Could it help more than it harms?]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/</guid>
       <category>AI</category>
     </item>
   </channel>

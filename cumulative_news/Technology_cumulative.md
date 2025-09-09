@@ -1,7 +1,204 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-09 08:28
+**最后更新时间**: 2025-09-09 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-09 23:17)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一图流 | 一张图带你看完 2025 Apple 秋季发布会](https://sspai.com/post/102410)
+**发布时间**: 2025-09-10 05:59
+
+#### [最轻的 iPhone 亮相，还有这些惊喜：Apple 发布会看点回顾](https://sspai.com/post/102413)
+**发布时间**: 2025-09-10 05:47
+
+#### [社区速递 109 | 发布会前，先看派友的预定购物车和超 mini 电纸书](https://sspai.com/post/102396)
+**发布时间**: 2025-09-09 17:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [最薄 iPhone 登场，eSIM 正式落地｜苹果秋季发布会新品回顾](http://www.geekpark.net/news/353702)
+**发布时间**: 2025-09-10 05:49
+
+#### [击败多个行业巨头，优必选自研人形机器人最强大脑 Thinker 斩获全球四项第一](http://www.geekpark.net/news/353697)
+**发布时间**: 2025-09-09 17:55
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
+**发布时间**: 2025-09-09 21:53
+
+#### [Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights](https://www.wired.com/story/eff-cindy-cohn-stepping-down/)
+**发布时间**: 2025-09-09 21:00
+
+#### [Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3](https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/)
+**发布时间**: 2025-09-09 20:00
+
+#### [The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years](https://www.wired.com/story/apple-iphone-17-iphone-air-and-iphone-17-pro/)
+**发布时间**: 2025-09-09 19:18
+
+#### [Apple Watch Series 11, Ultra 3, SE: Specs, Price, Release Date](https://www.wired.com/story/apple-watch-series-11-se-ultra-3/)
+**发布时间**: 2025-09-09 19:05
+
+#### [The 55 Best Shows on Disney+ Right Now (September 2025)](https://www.wired.com/story/best-shows-disney-plus/)
+**发布时间**: 2025-09-09 19:00
+
+#### [Just One Lonely Product Still Uses Apple’s Lightning Connector—Can You Guess Which One?](https://www.wired.com/story/just-one-lonely-product-still-uses-apples-lightning-connector-can-you-guess-which-one/)
+**发布时间**: 2025-09-09 18:23
+
+#### [Our Favorite Budget TV Is Only $264 at Walmart](https://www.wired.com/story/vizio-tv-deal/)
+**发布时间**: 2025-09-09 17:48
+
+#### [Right-Wing Influencers Are Turning to Foreign Affairs](https://www.wired.com/story/right-wing-influencers-are-turning-to-foreign-affairs/)
+**发布时间**: 2025-09-09 16:43
+
+#### [Inside the Man vs. Machine Hackathon](https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/)
+**发布时间**: 2025-09-09 16:00
+
+#### [Is AI the New Frontier of Women’s Oppression?](https://www.wired.com/story/is-ai-the-new-frontier-of-female-oppression/)
+**发布时间**: 2025-09-09 15:56
+
+#### [US Taxpayers Will Pay Billions in New Fossil Fuel Subsidies Thanks to the Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
+**发布时间**: 2025-09-09 15:50
+
+#### [All the Dyson Hair Tools You’ll Ever Need (2025)](https://www.wired.com/gallery/best-dyson-hair-tools/)
+**发布时间**: 2025-09-09 14:00
+
+#### [The 15 Best Fans to Cool You Year Round (2025)](https://www.wired.com/gallery/best-fans/)
+**发布时间**: 2025-09-09 13:00
+
+#### [The United Arab Emirates Releases a Tiny But Powerful AI Model](https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/)
+**发布时间**: 2025-09-09 12:33
+
+#### [6 Best Baby Monitors We've Tested and Reviewed (2025)](https://www.wired.com/gallery/best-baby-monitors/)
+**发布时间**: 2025-09-09 12:09
+
+#### [Hasan Piker Will Never Run for Office](https://www.wired.com/story/uncanny-valley-podcast-big-interview-hasan-piker/)
+**发布时间**: 2025-09-09 11:00
+
+#### [A New Platform Offers Privacy Tools to Millions of Public Servants](https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/)
+**发布时间**: 2025-09-09 10:00
+
+#### [Apple Event Live Blog: Updates on iPhone 17, iPhone Air, Apple Watch 11, AirPods Pro 3](https://www.wired.com/live/apple-event-iphone-17-iphone-air/)
+**发布时间**: 2025-09-09 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected)
+**发布时间**: 2025-09-09 21:45
+
+#### [Apple&#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)
+**发布时间**: 2025-09-09 21:32
+
+#### [Verge staffers react to the iPhone Air: what we love and don’t love](https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera)
+**发布时间**: 2025-09-09 21:18
+
+#### [The iPhone 17 Pro’s orange is good — and well-timed](https://www.theverge.com/apple/775186/apple-iphone-17-pro-cosmic-orange-color-good)
+**发布时间**: 2025-09-09 21:12
+
+#### [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
+**发布时间**: 2025-09-09 21:00
+
+#### [Here&#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
+**发布时间**: 2025-09-09 20:46
+
+#### [The iPhone Air’s battery pack is slim, but not as slim as the iPhone Air](https://www.theverge.com/apple-event/775048/iphone-air-magsafe-battery-pack-hands-on-photos)
+**发布时间**: 2025-09-09 20:43
+
+#### [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)
+**发布时间**: 2025-09-09 19:56
+
+#### [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
+**发布时间**: 2025-09-09 19:15
+
+#### [The iPhone 17 comes with Apple’s new in-house networking chip](https://www.theverge.com/news/774941/apple-iphone-17-n1-wi-fi-bluetooth-thread-networking-chip)
+**发布时间**: 2025-09-09 19:10
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [*ST苏吴的“父子”连环劫：17%股权全冻、2400万骗税罚没、9次退市警报，退市几成定局](https://www.tmtpost.com/7688409.html)
+**发布时间**: 2025-09-09 21:44
+
+#### [至正股份35亿重组获批，实控人谋划五年的资本棋局迎终局｜并购一线](https://www.tmtpost.com/7688320.html)
+**发布时间**: 2025-09-09 20:04
+
+#### [中国“蔡司”耐德佳完成C3轮融资，石景山区产业基金投资](https://www.tmtpost.com/7688249.html)
+**发布时间**: 2025-09-09 19:26
+
+#### [国潮风云：超4000家门店，县城精致女孩撑起一个IPO](https://www.tmtpost.com/7687462.html)
+**发布时间**: 2025-09-09 19:13
+
+#### [珀莱雅冲击“A+H”，资本市场是否买账？](https://www.tmtpost.com/7688086.html)
+**发布时间**: 2025-09-09 19:10
+
+#### [低研发却高产4000多项专利？海辰储能的迷之操作](https://www.tmtpost.com/7688110.html)
+**发布时间**: 2025-09-09 19:06
+
+#### [免签后的俄罗斯，成了东北老铁的后花园](https://www.tmtpost.com/7688120.html)
+**发布时间**: 2025-09-09 19:05
+
+#### [苹果“平替”这条路，在MR头显上可能走不通](https://www.tmtpost.com/7688144.html)
+**发布时间**: 2025-09-09 19:05
+
+#### [局面有些复杂，中年人都开始看电影了](https://www.tmtpost.com/7688167.html)
+**发布时间**: 2025-09-09 19:05
+
+#### [上半年成绩单亮眼，AI电源芯片的增长图谱](https://www.tmtpost.com/7688210.html)
+**发布时间**: 2025-09-09 19:05
+
+#### [地方层面楼市新政相继出台，稳楼市动作不停歇｜精华研报](https://www.tmtpost.com/7688240.html)
+**发布时间**: 2025-09-09 18:49
+
+#### [毛利率四连降、研发人员锐减超3成，掉队的汇宇制药何解？｜直击业绩会](https://www.tmtpost.com/7688154.html)
+**发布时间**: 2025-09-09 17:56
+
+#### [6.65亿元收购或生变数，青岛啤酒业绩会上却“避而不谈”|直击业绩会](https://www.tmtpost.com/7688121.html)
+**发布时间**: 2025-09-09 17:52
+
+#### [陈红天：李嘉诚算不了什么，不如我身边很多朋友](https://www.tmtpost.com/7687497.html)
+**发布时间**: 2025-09-09 17:22
+
+#### [白酒中报“急刹车”，谁能“漂移过弯”？](https://www.tmtpost.com/7687815.html)
+**发布时间**: 2025-09-09 17:17
+
+#### [影视股回暖，估值逻辑悄悄变了](https://www.tmtpost.com/7687557.html)
+**发布时间**: 2025-09-09 17:11
+
+#### [黑胶唱片卷土重来](https://www.tmtpost.com/7687645.html)
+**发布时间**: 2025-09-09 17:06
+
+#### [小红书，不妨学学苹果](https://www.tmtpost.com/7687876.html)
+**发布时间**: 2025-09-09 17:03
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [手游如此发达，网吧靠什么活着？](http://www.huxiu.com/article/4765289.html?f=wangzhan)
+**发布时间**: 2025-09-09 19:00
+
+#### [李想还有三根救命毫毛](http://www.huxiu.com/article/4765329.html?f=wangzhan)
+**发布时间**: 2025-09-09 18:44
+
+#### [AI碾压酱香，A股信仰开始转移了？](http://www.huxiu.com/article/4764553.html?f=wangzhan)
+**发布时间**: 2025-09-09 15:45
+
+#### [普通手机可以直连太空了？联通已获“牌照” 卫星，互联网将走入生活？](http://www.huxiu.com/article/4764982.html?f=wangzhan)
+**发布时间**: 2025-09-09 15:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [项目笔记｜从古诗 APP 到多模态应用的 10 个开发心得](https://www.infoq.cn/article/mbkgNMD4mkWrWO2s7Npb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 18:57
+
+#### [AI 时代一码多端的现实与幻象 | InfoQ《极客有约》](https://www.infoq.cn/video/zeKDVDUCRdVoO9JMNp8g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 18:46
+
+#### [被低估的「通用算力」：为什么AI时代更离不开CPU？](https://www.infoq.cn/video/pjXF37Ro2BFexYtiaezJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 17:58
+
+#### [Windsurf快被Devin搞垮了！bug 不断、官方“装死”，百万用户要“跑”了？](https://www.infoq.cn/article/Io9v84dIXNrqJtoZLtZ9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-09 17:09
 
 ---
 

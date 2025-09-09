@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-09 08:28
+**最后更新时间**: 2025-09-09 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-09 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump aims to curb direct-to-consumer ads for drugs; Hims & Hers may be a target](https://www.marketwatch.com/bulletins/redirect/go?g=362aadc9-4e7f-4410-9578-2ce358c29359&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 23:15
+
+#### [Apple's iPhone 17 offered enough to spark a wave of upgrades, Wedbush predicts](https://www.marketwatch.com/bulletins/redirect/go?g=39a8085f-4c1a-4ae4-b22d-3f2151e1743a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:52
+
+#### [Nvidia and its Big Tech peers have $1 trillion to spend. What should they do?](https://www.marketwatch.com/bulletins/redirect/go?g=a275aab7-a96b-4eae-bcaf-e585d719a2ea&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:49
+
+#### [GameStop posts 5th straight quarterly profit, thanks to a big sales jump](https://www.marketwatch.com/bulletins/redirect/go?g=6a19d6e9-0669-4e9f-a2d2-0f5d8fa279b7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:17
+
+#### [Oracle’s stock surges toward best day in years. These huge numbers explain why.](https://www.marketwatch.com/bulletins/redirect/go?g=71fb7d1f-87ae-45d5-b3f2-39bb4cb735ae&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:00
+
+#### [Dow, S&P and Nasdaq book new record highs despite downward revision to jobs data](https://www.marketwatch.com/bulletins/redirect/go?g=7a56deb3-3516-44b6-aa76-d39577481b1b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 20:08
+
+#### [Why crude-oil prices didn’t rally much after Israel’s attack in Qatar](https://www.marketwatch.com/bulletins/redirect/go?g=5affa995-d2fb-4873-81a0-046c5f2cc23a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 19:43
+
+#### [Think the S&P 500 is looking pricey? Here are 20 stocks to consider instead.](https://www.marketwatch.com/bulletins/redirect/go?g=ca4b7096-5d1a-4e77-838b-1be35ed27ee3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 19:06
+
+#### [Job-market news has taken a turn for the worse. Will inflation data do the same?](https://www.marketwatch.com/bulletins/redirect/go?g=766ff92b-eda5-4b21-ac82-c49041d3dd86&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 18:48
+
+#### [Apple’s iPhone event is about to begin. Watch it live.](https://www.marketwatch.com/bulletins/redirect/go?g=b9ab253e-23a2-4100-ad0d-0db2c52f8493&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 17:00
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump aims to curb direct-to-consumer ads for drugs. Hims & Hers Health could be targeted.](https://www.marketwatch.com/story/trump-aims-to-curb-direct-to-consumer-ads-for-drugs-hims-hers-health-could-be-targeted-1ce5ba53?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 23:12
+
+#### [These companies could be to self-driving trucks and tractors what Tesla is to cars](https://www.marketwatch.com/story/the-next-vehicles-to-go-driverless-may-shock-you-and-could-be-a-great-investment-b5dfc4f3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:59
+
+#### [UnitedHealth makes investors like Warren Buffett happy by saying business is fine](https://www.marketwatch.com/story/unitedhealth-makes-investors-like-warren-buffett-happy-by-saying-business-is-fine-c86d9050?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:50
+
+#### [GameStop posts 5th straight quarterly profit, thanks to a big sales jump](https://www.marketwatch.com/story/gamestop-posts-fifth-straight-quarterly-profit-thanks-to-a-big-sales-jump-48df93df?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:45
+
+#### [Cracker Barrel is halting remodels. An analyst now sees even ‘less visibility’ on the path forward.](https://www.marketwatch.com/story/cracker-barrel-is-halting-remodels-an-analyst-now-sees-even-less-visibility-on-the-path-forward-4ad7a72b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:43
+
+#### [Oracle’s stock surges toward its best day since 1999. These huge numbers explain why.](https://www.marketwatch.com/story/oracles-stock-surges-toward-best-day-in-years-these-huge-numbers-explain-why-4a7e95ab?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:23
+
+#### [Billions of dollars in Trump tariffs at stake as Wall Street awaits Supreme Court decision](https://www.marketwatch.com/story/wall-street-sees-upside-for-stocks-if-supreme-court-rules-against-trump-on-tariffs-9d2c071b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:11
+
+#### [‘He is increasingly angry’: My troubled son lives with me. How do I ensure he is financially secure after I die?](https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 20:30
+
+#### [Emma Heming Willis on moving husband Bruce Willis into a second home for dementia care: ‘I know it raises eyebrows…you have to do what’s right’](https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 20:25
+
+#### [Nvidia and its Big Tech peers have $1 trillion to spend. What should they do with it?](https://www.marketwatch.com/story/nvidia-and-its-big-tech-peers-have-1-trillion-to-spend-what-should-they-do-with-it-047ebdb3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 19:32
 
 ---
 
