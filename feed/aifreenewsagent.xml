@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Sep 2025 05:21:20 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 08:29:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Science | 西奈山伊坎医学院新AI算法为1600种变异定量「风险」，解析疾病外显率难题</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-09-4</link>
-      <description>&lt;![CDATA[Science | 西奈山伊坎医学院新AI算法为1600种变异定量「风险」，解析疾病外显率难题]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-4</guid>
+      <title>Altman亲自发博客点赞，这两大杰出人才是谁？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-09-5</link>
+      <description>&lt;![CDATA[Altman亲自发博客点赞，这两大杰出人才是谁？]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-09-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>From Long to Short: LLMs Excel at Trimming Own Reasoning Chains</title>
-      <link>https://arxiv.org/abs/2509.06174</link>
-      <description>&lt;![CDATA[From Long to Short: LLMs Excel at Trimming Own Reasoning Chains]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.06174</guid>
+      <title>苏州AI公司德国落地Robotaxi，美国Uber一夜大涨472亿</title>
+      <link>https://www.qbitai.com/2025/09/329594.html</link>
+      <description>&lt;![CDATA[苏州AI公司德国落地Robotaxi，美国Uber一夜大涨472亿]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 06:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329594.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agent</title>
-      <link>https://arxiv.org/abs/2509.06341</link>
-      <description>&lt;![CDATA[Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agent]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.06341</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts</title>
-      <link>https://arxiv.org/abs/2509.05323</link>
-      <description>&lt;![CDATA[Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.05323</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Benchmarking Large Language Models for Personalized Guidance in AI-Enhanced Learning</title>
-      <link>https://arxiv.org/abs/2509.05346</link>
-      <description>&lt;![CDATA[Benchmarking Large Language Models for Personalized Guidance in AI-Enhanced Learning]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.05346</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis</title>
-      <link>https://arxiv.org/abs/2509.05363</link>
-      <description>&lt;![CDATA[SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.05363</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Murphys Laws of AI Alignment: Why the Gap Always Wins</title>
-      <link>https://arxiv.org/abs/2509.05381</link>
-      <description>&lt;![CDATA[Murphys Laws of AI Alignment: Why the Gap Always Wins]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.05381</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs</title>
-      <link>https://arxiv.org/abs/2509.05714</link>
-      <description>&lt;![CDATA[Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.05714</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DRF: LLM-AGENT Dynamic Reputation Filtering Framework</title>
-      <link>https://arxiv.org/abs/2509.05764</link>
-      <description>&lt;![CDATA[DRF: LLM-AGENT Dynamic Reputation Filtering Framework]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.05764</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rethinking Reasoning Quality in Large Language Models through Enhanced Chain-of-Thought via RL</title>
-      <link>https://arxiv.org/abs/2509.06024</link>
-      <description>&lt;![CDATA[Rethinking Reasoning Quality in Large Language Models through Enhanced Chain-of-Thought via RL]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.06024</guid>
+      <title>18岁女孩做养老机器人，上线2天卖爆了</title>
+      <link>https://www.qbitai.com/2025/09/329560.html</link>
+      <description>&lt;![CDATA[18岁女孩做养老机器人，上线2天卖爆了]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 05:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/329560.html</guid>
       <category>AI</category>
     </item>
   </channel>

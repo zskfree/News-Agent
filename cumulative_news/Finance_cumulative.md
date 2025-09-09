@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-09 05:19
+**最后更新时间**: 2025-09-09 08:28
+
+---
+
+## 🆕 最新更新 (2025-09-09 08:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Frenzied as ever’ — the Dan Ives-led Worldcoin treasury purchase is only latest example of market madness](https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 08:03
 
 ---
 

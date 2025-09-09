@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Sep 2025 05:21:20 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 08:29:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Obamacare tax breaks could get extended in government-shutdown fight. Here’s why.</title>
-      <link>https://www.marketwatch.com/story/obamacare-tax-breaks-could-get-extended-in-a-government-shutdown-fight-heres-why-9fe96daa?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Obamacare tax breaks could get extended in government-shutdown fight. Here’s why.]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 01:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/obamacare-tax-breaks-could-get-extended-in-a-government-shutdown-fight-heres-why-9fe96daa?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Opinion: Protect your money from the turmoil at the Federal Reserve</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=e2ccff19-79d3-46b4-8a5e-e6e84291763d&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Opinion: Protect your money from the turmoil at the Federal Reserve]]&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 01:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=e2ccff19-79d3-46b4-8a5e-e6e84291763d&amp;mod=mw_rss_bulletins</guid>
+      <title>‘Frenzied as ever’ — the Dan Ives-led Worldcoin treasury purchase is only latest example of market madness</title>
+      <link>https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘Frenzied as ever’ — the Dan Ives-led Worldcoin treasury purchase is only latest example of market madness]]&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 08:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-09 05:19
+**最后更新时间**: 2025-09-09 08:28
+
+---
+
+## 🆕 最新更新 (2025-09-09 08:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [《背影》里的浦口火车站，藏着南京江北新区的关键密码](https://www.tmtpost.com/7687680.html)
+**发布时间**: 2025-09-09 15:59
+
+#### [2025暑期档，短剧交出了怎样的答卷？](https://www.tmtpost.com/7687794.html)
+**发布时间**: 2025-09-09 15:59
+
+#### [餐饮“四大金刚”，挤满全国商场](https://www.tmtpost.com/7687838.html)
+**发布时间**: 2025-09-09 15:59
+
+#### [9月9日A股分析：沪指跌0.51%报3807.29点，两市合计成交21185.24亿元，资金流入最多的概念板块为黄金概念](https://www.tmtpost.com/7687851.html)
+**发布时间**: 2025-09-09 15:43
+
+#### [Xiaomi Fires Marketing GM Over Leak of Confidential Information](https://www.tmtpost.com/7687854.html)
+**发布时间**: 2025-09-09 15:26
+
+#### [Apple Said to Delay iPhone 17 Air and Apple Intelligence Launch in China](https://www.tmtpost.com/7687807.html)
+**发布时间**: 2025-09-09 14:47
+
+#### [下沉市场依然很香，蜜雪冰城和古茗上演双雄争霸](https://www.tmtpost.com/7681297.html)
+**发布时间**: 2025-09-09 14:24
+
+#### [From Follower to Leader, China's Tech Power Shines at IFA 2025](https://www.tmtpost.com/7687757.html)
+**发布时间**: 2025-09-09 14:10
+
+#### [Mistral AI Raises US$ 2 Billion as ASML Becomes Its Top Shareholder](https://www.tmtpost.com/7687748.html)
+**发布时间**: 2025-09-09 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用 Termux + Syncthing 自动定时备份 Android 媒体文件](https://sspai.com/post/102337)
+**发布时间**: 2025-09-09 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [苹果华为带头“干掉”卡槽，eSIM要终结实体卡时代？](http://www.huxiu.com/article/4764715.html?f=wangzhan)
+**发布时间**: 2025-09-09 14:30
+
+#### [玛莎拉味利刃，三哥反向收割意呆利](http://www.huxiu.com/article/4764450.html?f=wangzhan)
+**发布时间**: 2025-09-09 14:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [自变量机器人完成近 10 亿元 A+ 轮融资，多元资本押注共同布局具身智能未来](http://www.geekpark.net/news/353671)
+**发布时间**: 2025-09-09 13:53
+
+#### [时空壶发布 W4：用「硬核」技术，打赢一场 AI 翻译的「标准」之战](http://www.geekpark.net/news/353669)
+**发布时间**: 2025-09-09 13:35
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Windows 11 SSD issues blamed on reviewers using &#8216;early versions of firmware&#8217;](https://www.theverge.com/report/774201/phison-windows-11-ssd-issues-early-firmware)
+**发布时间**: 2025-09-09 08:27
+
+#### [It’s time to change your Plex password again](https://www.theverge.com/news/774188/plex-breach-change-password-email)
+**发布时间**: 2025-09-09 07:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [50% Off LG Promo Codes & Coupons](https://www.wired.com/story/lg-promo-code/)
+**发布时间**: 2025-09-09 06:00
+
+#### [Lenovo Coupon Codes and Deals: Up to $890 Off](https://www.wired.com/story/lenovo-coupon-code/)
+**发布时间**: 2025-09-09 05:20
 
 ---
 

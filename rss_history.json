@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "af31d22291ad215da4610a0b28050db92baf3fef8daf0b42f4392b548d746a0f": {
-        "title": "腾讯张正友：具身智能必须回答的三个「真问题」",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-10-4",
-        "published_date": "Sun, 10 Aug 2025 13:17:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.511321"
-      },
-      "e2a2157a3036cb49c38cb52856845ae1935dc514ee5da247202a24b9f419cd4e": {
-        "title": "token危机解决？扩散模型数据潜力3倍于自回归，重训480次性能仍攀升",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-10-3",
-        "published_date": "Sun, 10 Aug 2025 13:12:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.511508"
-      },
-      "41b15659307b41a97d246461517c83c1725ea345723ceada1b5265f99da1b698": {
-        "title": "联合理解生成的关键拼图？腾讯发布X-Omini：强化学习让离散自回归生成方法重焕生机，轻松渲染长文本图像",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-10-2",
-        "published_date": "Sun, 10 Aug 2025 13:07:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.511762"
-      },
-      "e438496ad304f4117ba161b1951ecfee7868a393b46c3c1fb6107af1bb4e0adb": {
-        "title": "40年后，Dijkstra算法极限再被突破，清华段然团队更快最短路径算法摘STOC最佳论文",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-10",
-        "published_date": "Sun, 10 Aug 2025 13:01:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.512037"
-      },
-      "178fcd5b6db97a05f83216208947c00bfde47dc9cd67a39babc63ee670983d6f": {
-        "title": "即梦新升级了一个扶持计划，要让AI创作者不再“为爱发电”",
-        "link": "https://www.qbitai.com/2025/08/320564.html",
-        "published_date": "Sun, 10 Aug 2025 04:19:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.512319"
-      },
-      "4219cc4f01ced78c8793e65fa8a6b211198a3207ee5da2bbe52242440f108552": {
-        "title": "又是王冠：27M小模型超越o3-mini！拒绝马斯克的00后果然不同",
-        "link": "https://www.qbitai.com/2025/08/320598.html",
-        "published_date": "Sun, 10 Aug 2025 05:34:00 GMT",
-        "first_seen": "2025-08-10T08:27:25.376966"
-      },
       "113c1e77baf0581781dc4186ebd70843ce805bc8f0430cbcb7f40c93a654d83d": {
         "title": "一文看尽世界机器人大会，不用去现场人挤人了",
         "link": "https://www.qbitai.com/2025/08/320620.html",
@@ -8904,63 +8868,27 @@
         "link": "https://arxiv.org/abs/2509.06822",
         "published_date": "Tue, 09 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-09T05:20:32.237307"
+      },
+      "f3eb47d782528783549a83cf87a41559f47a10260bc9cca86ee154249596d34e": {
+        "title": "Altman亲自发博客点赞，这两大杰出人才是谁？",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-09-5",
+        "published_date": "Tue, 09 Sep 2025 14:50:00 GMT",
+        "first_seen": "2025-09-09T08:29:12.041372"
+      },
+      "d84666c219c5e8c1cdfa4d878e75c5ae64c929e538b2692be431c980e9ad0b62": {
+        "title": "苏州AI公司德国落地Robotaxi，美国Uber一夜大涨472亿",
+        "link": "https://www.qbitai.com/2025/09/329594.html",
+        "published_date": "Tue, 09 Sep 2025 06:01:00 GMT",
+        "first_seen": "2025-09-09T08:29:12.041527"
+      },
+      "e15dc1027f11f11c269114c922f585011e04e0a8988914a7f56e68957a4bce1b": {
+        "title": "18岁女孩做养老机器人，上线2天卖爆了",
+        "link": "https://www.qbitai.com/2025/09/329560.html",
+        "published_date": "Tue, 09 Sep 2025 05:29:00 GMT",
+        "first_seen": "2025-09-09T08:29:12.041668"
       }
     },
     "Technology": {
-      "6e7e515a59366afedff6afa014587673b88027b8a1ac8979ba7c233f41b19bc1": {
-        "title": "用户集体大逃亡！Cursor“自杀式策略”致口碑崩塌：“补贴”换来的王座，正被反噬撕碎",
-        "link": "https://www.infoq.cn/article/06ov3mEaQskNgP6gM9od?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 10 Aug 2025 13:00:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.555641"
-      },
-      "204e08d7b04273916a6b92f1e990f996ef4b8dc4fbcebc29405cf8b849539282": {
-        "title": "取钱难，金融服务何时适老？",
-        "link": "https://www.tmtpost.com/7654139.html",
-        "published_date": "Sun, 10 Aug 2025 12:51:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.555770"
-      },
-      "2bd5153b2a50cec2b60dbc7f9dfba9427a70fa6d844b516c45b72fd67a9da556": {
-        "title": "盒马CEO用10分钟复盘十年，新零售不死仍旧在路上",
-        "link": "https://www.tmtpost.com/7654247.html",
-        "published_date": "Sun, 10 Aug 2025 10:40:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.555928"
-      },
-      "d696ffad09eec72ff56dfc3eba6eb96e86269dc96a3454f973fe4e5934ab8b7c": {
-        "title": "当雪王爬上东方明珠，茶饮品牌的战争，早已不仅仅是卖产品",
-        "link": "https://www.tmtpost.com/7654026.html",
-        "published_date": "Sun, 10 Aug 2025 09:51:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.556104"
-      },
-      "88deb6455aafb1e4e014fb4c01b118b22df2de67b68e6a89566f67ac208a8f33": {
-        "title": "如何与外卖大战共存，餐饮商家也给不出标准答案",
-        "link": "https://www.tmtpost.com/7654150.html",
-        "published_date": "Sun, 10 Aug 2025 09:00:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.556336"
-      },
-      "f6cc17d70ca661223ada5a0067eeb35768f8ea1bdffa7e19da0c3dac87aa5362": {
-        "title": "韩国人涌入中国股市，开赌中国国运？",
-        "link": "http://www.huxiu.com/article/4669123.html?f=wangzhan",
-        "published_date": "Sun, 10 Aug 2025 09:00:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.556551"
-      },
-      "f830c31d411fe97614e75119e53782f4994b799e6424507229cd30a61e7ff39d": {
-        "title": "GPT-5 发布后遭用户吐槽，GPT-4o 重新上线；苹果创五年多来最大单周涨幅；暑期档电影总票房破 80 亿元：《南京照相馆》超 20 亿｜极客早知道",
-        "link": "http://www.geekpark.net/news/352528",
-        "published_date": "Sun, 10 Aug 2025 08:21:00 GMT",
-        "first_seen": "2025-08-10T05:25:01.557186"
-      },
-      "163e8ccd106d5668fa973549ff4f0be7b7dd3563e94b59eea271b039378a7a55": {
-        "title": "云巅之上——六天五晚川西之旅（上）",
-        "link": "https://sspai.com/post/101669",
-        "published_date": "Sun, 10 Aug 2025 15:19:00 GMT",
-        "first_seen": "2025-08-10T08:27:25.419211"
-      },
-      "8db6e8bf89e5f3aded37e159d18217625a33e6009d869e00ac7f68cf32390521": {
-        "title": "Lovense Gemini Nipple Clamps Review: New Sensations",
-        "link": "https://www.wired.com/review/lovense-gemini-nipple-clamps/",
-        "published_date": "Sun, 10 Aug 2025 08:00:00 GMT",
-        "first_seen": "2025-08-10T08:27:25.419364"
-      },
       "24c1fe9682906b8ddd7927131870302bf45d619b74803b244b9916472dbf43c1": {
         "title": "小红书为什么要做“漫展”？",
         "link": "http://www.geekpark.net/news/352531",
@@ -23156,6 +23084,108 @@
         "link": "https://www.wired.com/story/geedge-networks-mass-censorship-leak/",
         "published_date": "Tue, 09 Sep 2025 03:00:00 GMT",
         "first_seen": "2025-09-09T05:19:43.595434"
+      },
+      "4bdb6a1cb11b379c67ec128080c9822cf11fcea0774d201fa204ad4b5675dc7b": {
+        "title": "《背影》里的浦口火车站，藏着南京江北新区的关键密码",
+        "link": "https://www.tmtpost.com/7687680.html",
+        "published_date": "Tue, 09 Sep 2025 15:59:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917020"
+      },
+      "10a161a63688740c220ff86510a0951f2da9fa980ef338ba3cf18a47831c67dd": {
+        "title": "2025暑期档，短剧交出了怎样的答卷？",
+        "link": "https://www.tmtpost.com/7687794.html",
+        "published_date": "Tue, 09 Sep 2025 15:59:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917034"
+      },
+      "ef60ec91ea14573253a0c8468382dd20fe22db4e4455663d0a00f963e4b4794c": {
+        "title": "餐饮“四大金刚”，挤满全国商场",
+        "link": "https://www.tmtpost.com/7687838.html",
+        "published_date": "Tue, 09 Sep 2025 15:59:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917046"
+      },
+      "408d81bc243c9171249580da192f221808cc2dab139e34b43fa045b0532860cd": {
+        "title": "9月9日A股分析：沪指跌0.51%报3807.29点，两市合计成交21185.24亿元，资金流入最多的概念板块为黄金概念",
+        "link": "https://www.tmtpost.com/7687851.html",
+        "published_date": "Tue, 09 Sep 2025 15:43:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917060"
+      },
+      "b7bed9a7ab9049308f16d3570a17100e4e53f25d1cd788cf23c3073d19c1fbf3": {
+        "title": "Xiaomi Fires Marketing GM Over Leak of Confidential Information",
+        "link": "https://www.tmtpost.com/7687854.html",
+        "published_date": "Tue, 09 Sep 2025 15:26:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917073"
+      },
+      "b1622d23f36b8521691051e791b870b9e33dfb183390a96821c15df753fd9502": {
+        "title": "Apple Said to Delay iPhone 17 Air and Apple Intelligence Launch in China",
+        "link": "https://www.tmtpost.com/7687807.html",
+        "published_date": "Tue, 09 Sep 2025 14:47:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917084"
+      },
+      "4bef5fb02ac543c2fc3b496b9b6ea1b3372d2f2eaf871f0a11a1a857479cf194": {
+        "title": "下沉市场依然很香，蜜雪冰城和古茗上演双雄争霸",
+        "link": "https://www.tmtpost.com/7681297.html",
+        "published_date": "Tue, 09 Sep 2025 14:24:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917094"
+      },
+      "a5908bb4bb8b01e81c8320584102abc8e1dc1360b5764092ec0b94c48808c44c": {
+        "title": "From Follower to Leader, China's Tech Power Shines at IFA 2025",
+        "link": "https://www.tmtpost.com/7687757.html",
+        "published_date": "Tue, 09 Sep 2025 14:10:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917107"
+      },
+      "f236906e6ff1f33524d4218ce57decd6bf70fec8396f352fd66ea56621ab3712": {
+        "title": "Mistral AI Raises US$ 2 Billion as ASML Becomes Its Top Shareholder",
+        "link": "https://www.tmtpost.com/7687748.html",
+        "published_date": "Tue, 09 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.917118"
+      },
+      "9e28ddb8f4a1bcafb58ea6c36947fc247b467ad052ab6396466a1622485a23f8": {
+        "title": "用 Termux + Syncthing 自动定时备份 Android 媒体文件",
+        "link": "https://sspai.com/post/102337",
+        "published_date": "Tue, 09 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.454114"
+      },
+      "44705cd2ad4746ab5098eb6db8be58c13d909964593d4e6bf1a212c2e9f7144e": {
+        "title": "苹果华为带头“干掉”卡槽，eSIM要终结实体卡时代？",
+        "link": "http://www.huxiu.com/article/4764715.html?f=wangzhan",
+        "published_date": "Tue, 09 Sep 2025 14:30:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.454814"
+      },
+      "1771eba0b66ceadf2b96417e8d3c98fbe20bf5de641c0787de29c6229ab11d56": {
+        "title": "玛莎拉味利刃，三哥反向收割意呆利",
+        "link": "http://www.huxiu.com/article/4764450.html?f=wangzhan",
+        "published_date": "Tue, 09 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.455273"
+      },
+      "2eb3664a090eb3fdb8d38ff8b83ae088ffdc78da0b36530df7879f93bff470ac": {
+        "title": "自变量机器人完成近 10 亿元 A+ 轮融资，多元资本押注共同布局具身智能未来",
+        "link": "http://www.geekpark.net/news/353671",
+        "published_date": "Tue, 09 Sep 2025 13:53:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.456224"
+      },
+      "bbc1c0b9362e63b3253a1c93bbfbd579ea90e12316e0b7427e11899f6f68b88f": {
+        "title": "时空壶发布 W4：用「硬核」技术，打赢一场 AI 翻译的「标准」之战",
+        "link": "http://www.geekpark.net/news/353669",
+        "published_date": "Tue, 09 Sep 2025 13:35:00 GMT",
+        "first_seen": "2025-09-09T08:29:11.916991"
+      },
+      "80f747f4c9fa1a1896db77505c41aa9d1b4e6282ccd659610ac70853d32f49e0": {
+        "title": "Windows 11 SSD issues blamed on reviewers using &#8216;early versions of firmware&#8217;",
+        "link": "https://www.theverge.com/report/774201/phison-windows-11-ssd-issues-early-firmware",
+        "published_date": "Tue, 09 Sep 2025 08:27:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.459538"
+      },
+      "9aab5f9d17b4c5bc896b5ff661f5341ba0712c3de28ae4fb8989d624b9c7ae5d": {
+        "title": "It’s time to change your Plex password again",
+        "link": "https://www.theverge.com/news/774188/plex-breach-change-password-email",
+        "published_date": "Tue, 09 Sep 2025 07:44:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.461234"
+      },
+      "71eddb4020498dbb3e45bf2a6d0b8c56d7b90d62ecf592353664938601438a54": {
+        "title": "50% Off LG Promo Codes & Coupons",
+        "link": "https://www.wired.com/story/lg-promo-code/",
+        "published_date": "Tue, 09 Sep 2025 06:00:00 GMT",
+        "first_seen": "2025-09-09T08:28:23.462500"
       }
     },
     "Finance": {
@@ -26218,12 +26248,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e2ccff19-79d3-46b4-8a5e-e6e84291763d&mod=mw_rss_bulletins",
         "published_date": "Tue, 09 Sep 2025 01:05:00 GMT",
         "first_seen": "2025-09-09T05:21:20.543148"
+      },
+      "385ac9813897f0a0dbbcda1f0a2352f8b33bbe931baaca0f03511ab4b8cd89eb": {
+        "title": "‘Frenzied as ever’ — the Dan Ives-led Worldcoin treasury purchase is only latest example of market madness",
+        "link": "https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories",
+        "published_date": "Tue, 09 Sep 2025 08:03:00 GMT",
+        "first_seen": "2025-09-09T08:29:12.059976"
       }
     }
   },
   "last_update": {
-    "AI": "2025-09-09T05:21:20.532658",
-    "Technology": "2025-09-09T05:20:31.918691",
-    "Finance": "2025-09-09T05:21:20.549968"
+    "AI": "2025-09-09T08:29:12.049445",
+    "Technology": "2025-09-09T08:29:11.970424",
+    "Finance": "2025-09-09T08:29:12.067362"
   }
 }
