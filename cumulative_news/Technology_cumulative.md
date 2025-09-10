@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-09 23:17
+**最后更新时间**: 2025-09-10 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-10 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [美国50%关税加身，正在大扩产的印度光伏究竟还行不行？](https://www.tmtpost.com/7688485.html)
+**发布时间**: 2025-09-10 12:52
+
+#### [瑞士生物科技公司Bright Peak研发蛋白质化学合成技术，精确定制治疗性细胞因子 | 瑞士创新100强](https://www.tmtpost.com/7688503.html)
+**发布时间**: 2025-09-10 12:52
+
+#### [寒武纪：5000亿市值与50亿营收背后的国产AI芯片博弈](https://www.tmtpost.com/7688509.html)
+**发布时间**: 2025-09-10 12:52
+
+#### [禾赛科技杀回香港，冲刺激光雷达第一股](https://www.tmtpost.com/7688626.html)
+**发布时间**: 2025-09-10 12:52
+
+#### [追觅，追得上造车的红利？](https://www.tmtpost.com/7688627.html)
+**发布时间**: 2025-09-10 12:52
+
+#### [火锅进入“70元时代”，品牌靠什么赚钱？](https://www.tmtpost.com/7688818.html)
+**发布时间**: 2025-09-10 12:52
+
+#### [Apple Stock Dips Despite the Thinnest iPhone with Breakthrough Design Unveiled](https://www.tmtpost.com/7688998.html)
+**发布时间**: 2025-09-10 12:17
+
+#### [iPhone 17倒反天罡！Pro竟给标准版和Air做“配角”？](https://www.tmtpost.com/7688518.html)
+**发布时间**: 2025-09-10 10:26
+
+#### [独家 | 抖音生活服务调整：涂晴接管市场和达人运营，旭凯担任北部大区负责人](https://www.tmtpost.com/7688758.html)
+**发布时间**: 2025-09-10 10:26
+
+#### [对话索尼互娱江口达雄：后“黑悟空”时代，索尼在华商业叙事的转折｜独家](https://www.tmtpost.com/7688421.html)
+**发布时间**: 2025-09-10 09:41
+
+#### [小小椪柑卖全球，泸溪一县拿下20国市场，一年创收超4亿](https://www.tmtpost.com/7688339.html)
+**发布时间**: 2025-09-10 09:28
+
+#### [微信搜一搜，彻底AI化](https://www.tmtpost.com/7688359.html)
+**发布时间**: 2025-09-10 09:28
+
+#### [宇树值不值 500 亿？](https://www.tmtpost.com/7688360.html)
+**发布时间**: 2025-09-10 09:28
+
+#### [中场哨响：即时零售大战的真真假假](https://www.tmtpost.com/7688356.html)
+**发布时间**: 2025-09-10 09:28
+
+#### [科股早知道：苹果多款新品齐发，iPhone Air仅可通过eSIM激活，国行版当前仅该运营商支持相关服务](https://www.tmtpost.com/7688553.html)
+**发布时间**: 2025-09-10 09:09
+
+#### [消费力狂飙的东南亚，正成为商家“出海”的首站](https://www.tmtpost.com/7688253.html)
+**发布时间**: 2025-09-10 08:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude封锁中国，腾讯带着国产AI编程工具CodeBuddy来了](https://www.infoq.cn/article/sOadSrAIOYT8ckqHIJx5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 12:33
+
+#### [3天赚2万！开发者的梦想也可以掷地有声！](https://www.infoq.cn/article/CApKYGXpi7mxQNA6CSFe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 12:30
+
+#### [5%付费率背后，鸿蒙成独立开发者的“商业理想国”](https://www.infoq.cn/article/LNW12EjXZJdH6ii6PXvI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 11:20
+
+#### [鸿蒙，下一个iPhone时刻？](https://www.infoq.cn/article/y7h8FXJexfKqpT6VoRcb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 10:04
+
+#### [开源明星易主，群雄逐鹿今谁强？大模型开源开发全景与趋势 2.0 发布倒计时](https://www.infoq.cn/article/0EkRlIcdSbU4dCBHxzG2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 09:56
+
+#### [阿里云算法专家李也博士确认出席 QCon 上海，分享阿里云智能运维 Agent 评测体系实践](https://www.infoq.cn/article/qd4meUY93T7gFGNXYioD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 09:25
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [法国政府又垮台了？一条视频看透法国危机](http://www.huxiu.com/article/4765584.html?f=wangzhan)
+**发布时间**: 2025-09-10 12:05
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [史上最贵「打工皇帝」！马斯克解锁1万亿美金工资，拢共分几步？](http://www.geekpark.net/news/353727)
+**发布时间**: 2025-09-10 11:27
+
+#### [500 块的「电子宠物」，治好了我的「路怒症」｜New Things](http://www.geekpark.net/news/353725)
+**发布时间**: 2025-09-10 11:22
+
+#### [5999 元起，苹果发布eSIM、超薄 iPhone；王腾再辟谣离职原因谣言；反恶性补贴，主要外卖平台被约谈｜极客早知道](http://www.geekpark.net/news/353703)
+**发布时间**: 2025-09-10 08:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 发布 iPhone 17 系列等](https://sspai.com/post/102414)
+**发布时间**: 2025-09-10 07:58
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
+**发布时间**: 2025-09-10 03:30
+
+#### [Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years](https://www.wired.com/story/apple-call-screening-ios-26-has-been-on-pixel-for-years/)
+**发布时间**: 2025-09-09 23:53
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security)
+**发布时间**: 2025-09-10 00:05
+
+#### [Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free)
+**发布时间**: 2025-09-09 23:38
+
+#### [The iPhone 17 Pro’s orange is good — and well timed](https://www.theverge.com/apple/775186/apple-iphone-17-pro-cosmic-orange-color-good)
+**发布时间**: 2025-09-09 21:12
 
 ---
 

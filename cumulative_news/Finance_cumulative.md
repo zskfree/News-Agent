@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-09 23:17
+**最后更新时间**: 2025-09-10 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-10 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Judge rules Lisa Cook can stay at the Fed, for now. She’ll likely vote at this month’s rate-setting meeting.](https://www.marketwatch.com/story/judge-rules-lisa-cook-can-stay-at-the-fed-shell-vote-at-this-months-rate-setting-meeting-d47b67cf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 03:02
+
+#### [Incomes rose and poverty fell last year — so why do so many Americans feel ‘tapped out’?](https://www.marketwatch.com/story/incomes-rose-and-poverty-fell-last-year-so-why-do-so-many-americans-feel-tapped-out-6d259e15?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 02:01
+
+#### [Klarna prices IPO well above expected range, raising $1.37 billion](https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 00:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Judge rules Lisa Cook can stay at the Fed. She’ll vote at this month’s meeting.](https://www.marketwatch.com/bulletins/redirect/go?g=714ad1ef-e9a6-4bb4-bc28-1bc4242ec354&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 02:16
+
+#### [Klarna prices IPO well above expected range, raising $1.37 billion](https://www.marketwatch.com/bulletins/redirect/go?g=13e240db-d1a3-4d7a-9aa1-1ea1849af50b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 00:42
 
 ---
 
