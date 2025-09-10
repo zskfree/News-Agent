@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 05:21:03 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 08:33:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use</title>
-      <link>https://arxiv.org/abs/2509.06980</link>
-      <description>&lt;![CDATA[RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.06980</guid>
+      <title>当人工智能「看见」量子世界：AI如何改变对复杂量子系统的认知，南洋理工、上交等发布量子系统学习综述</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-5</link>
+      <description>&lt;![CDATA[当人工智能「看见」量子世界：AI如何改变对复杂量子系统的认知，南洋理工、上交等发布量子系统学习综述]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苹果发布会：耳机测心率、手表听音乐、iPhone Air超级薄</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10</link>
-      <description>&lt;![CDATA[苹果发布会：耳机测心率、手表听音乐、iPhone Air超级薄]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10</guid>
+      <title>AI应用元年，这场标杆赛事见证了中国创新速度与野心</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-4</link>
+      <description>&lt;![CDATA[AI应用元年，这场标杆赛事见证了中国创新速度与野心]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Statistical Methods in Generative AI</title>
-      <link>https://arxiv.org/abs/2509.07054</link>
-      <description>&lt;![CDATA[Statistical Methods in Generative AI]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07054</guid>
+      <title>AI胡说八道这事，终于有人管了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-3</link>
+      <description>&lt;![CDATA[AI胡说八道这事，终于有人管了？]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>BlendedNet: A Blended Wing Body Aircraft Dataset and Surrogate Model for Aerodynamic Predictions</title>
-      <link>https://arxiv.org/abs/2509.07209</link>
-      <description>&lt;![CDATA[BlendedNet: A Blended Wing Body Aircraft Dataset and Surrogate Model for Aerodynamic Predictions]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07209</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OmniAcc: Personalized Accessibility Assistant Using Generative AI</title>
-      <link>https://arxiv.org/abs/2509.07220</link>
-      <description>&lt;![CDATA[OmniAcc: Personalized Accessibility Assistant Using Generative AI]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07220</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Language Self-Play For Data-Free Training</title>
-      <link>https://arxiv.org/abs/2509.07414</link>
-      <description>&lt;![CDATA[Language Self-Play For Data-Free Training]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07414</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards explainable decision support using hybrid neural models for logistic terminal automation</title>
-      <link>https://arxiv.org/abs/2509.07577</link>
-      <description>&lt;![CDATA[Towards explainable decision support using hybrid neural models for logistic terminal automation]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07577</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DeepGraphLog for Layered Neurosymbolic AI</title>
-      <link>https://arxiv.org/abs/2509.07665</link>
-      <description>&lt;![CDATA[DeepGraphLog for Layered Neurosymbolic AI]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07665</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach</title>
-      <link>https://arxiv.org/abs/2509.07820</link>
-      <description>&lt;![CDATA[Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07820</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study</title>
-      <link>https://arxiv.org/abs/2509.07846</link>
-      <description>&lt;![CDATA[Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.07846</guid>
+      <title>人人都能炼专属Agent，上海交大开源端侧Agent全栈工具链，真实场景性能超GPT-5！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-2</link>
+      <description>&lt;![CDATA[人人都能炼专属Agent，上海交大开源端侧Agent全栈工具链，真实场景性能超GPT-5！]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-2</guid>
       <category>AI</category>
     </item>
   </channel>
