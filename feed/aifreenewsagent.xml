@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 08:33:20 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 23:24:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当人工智能「看见」量子世界：AI如何改变对复杂量子系统的认知，南洋理工、上交等发布量子系统学习综述</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-5</link>
-      <description>&lt;![CDATA[当人工智能「看见」量子世界：AI如何改变对复杂量子系统的认知，南洋理工、上交等发布量子系统学习综述]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-5</guid>
+      <title>谷歌AI新里程碑：一个能「做研究」的系统诞生了，用LLM+树搜索编写专家级软件</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-7</link>
+      <description>&lt;![CDATA[谷歌AI新里程碑：一个能「做研究」的系统诞生了，用LLM+树搜索编写专家级软件]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 17:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI应用元年，这场标杆赛事见证了中国创新速度与野心</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-4</link>
-      <description>&lt;![CDATA[AI应用元年，这场标杆赛事见证了中国创新速度与野心]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-4</guid>
+      <title>00后挑大梁！近20国选手激战外滩大会，AI科创赛三赛道冠军诞生</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-10</link>
+      <description>&lt;![CDATA[00后挑大梁！近20国选手激战外滩大会，AI科创赛三赛道冠军诞生]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI胡说八道这事，终于有人管了？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-3</link>
-      <description>&lt;![CDATA[AI胡说八道这事，终于有人管了？]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-3</guid>
+      <title>CoRL 2025 | 港大InfoBodied AI团队首发具身表征新范式，构建任务自适应的感知框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-9</link>
+      <description>&lt;![CDATA[CoRL 2025 | 港大InfoBodied AI团队首发具身表征新范式，构建任务自适应的感知框架]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 20:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>人人都能炼专属Agent，上海交大开源端侧Agent全栈工具链，真实场景性能超GPT-5！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-2</link>
-      <description>&lt;![CDATA[人人都能炼专属Agent，上海交大开源端侧Agent全栈工具链，真实场景性能超GPT-5！]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-2</guid>
+      <title>爱诗科技完成6000万美元B轮融资，阿里巴巴领投，达晨财智、深创投、北京市AI基金、巨人网络、Antler等跟投</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-6</link>
+      <description>&lt;![CDATA[爱诗科技完成6000万美元B轮融资，阿里巴巴领投，达晨财智、深创投、北京市AI基金、巨人网络、Antler等跟投]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: AI’s energy future</title>
+      <link>https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/</link>
+      <description>&lt;![CDATA[The Download: AI’s energy future]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>真·博士水平！GPT-5首次给出第四矩定理显式收敛率，数学教授只点拨了一下</title>
+      <link>https://www.qbitai.com/2025/09/330237.html</link>
+      <description>&lt;![CDATA[真·博士水平！GPT-5首次给出第四矩定理显式收敛率，数学教授只点拨了一下]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330237.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>小猿亮相2025服贸会  全系智能软硬件引领“教育AI”融合新路径</title>
+      <link>https://www.qbitai.com/2025/09/330229.html</link>
+      <description>&lt;![CDATA[小猿亮相2025服贸会  全系智能软硬件引领“教育AI”融合新路径]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330229.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>商汤「日日新V6.5」登顶OpenCompass全球多模态大模型榜单</title>
+      <link>https://www.qbitai.com/2025/09/330223.html</link>
+      <description>&lt;![CDATA[商汤「日日新V6.5」登顶OpenCompass全球多模态大模型榜单]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 08:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330223.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英伟达下一代GPU登场，Rubin CPX一次推理数百万Token，网友：这是头野兽</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-10-8</link>
+      <description>&lt;![CDATA[英伟达下一代GPU登场，Rubin CPX一次推理数百万Token，网友：这是头野兽]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 17:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>【立即预约】2025腾讯全球数字生态大会定档，锁定9月16-17日!</title>
+      <link>https://www.qbitai.com/2025/09/330303.html</link>
+      <description>&lt;![CDATA[【立即预约】2025腾讯全球数字生态大会定档，锁定9月16-17日!]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330303.html</guid>
       <category>AI</category>
     </item>
   </channel>

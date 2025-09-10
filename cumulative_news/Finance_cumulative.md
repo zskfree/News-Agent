@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-10 05:19
+**最后更新时间**: 2025-09-10 23:23
+
+---
+
+## 🆕 最新更新 (2025-09-10 23:23)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [I’m 80 and my RMD is $300,000. What am I supposed to do about my huge tax bill?](https://www.marketwatch.com/bulletins/redirect/go?g=3dad0e35-da00-46b9-aac9-8cd5c33d4d96&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 23:14
+
+#### [August's CPI is this week's most crucial data for stock investors. What to know.](https://www.marketwatch.com/bulletins/redirect/go?g=22e65074-c47f-4160-9fe3-664fb48c3fcd&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 22:00
+
+#### [Why Broadcom’s stock led the chip sector’s rally on Wednesday](https://www.marketwatch.com/bulletins/redirect/go?g=29287703-692c-4d15-9e13-85b02a7761fe&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 21:10
+
+#### [S&P 500, Nasdaq eke out record closing highs after weak PPI inflation data](https://www.marketwatch.com/bulletins/redirect/go?g=2861a9a2-2cfd-4eca-84a9-a9081a3303bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 20:08
+
+#### [S&P 500 eyes new record in final hour on Oracle’s rally, Dow lags — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=a325fcb1-1ace-4c88-bead-a3a51afa649a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 19:04
+
+#### [Here’s the opportunity as investors chase bond yields ahead of Fed decision](https://www.marketwatch.com/bulletins/redirect/go?g=dff285d2-c6a0-464f-a284-7f30eeb94cba&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 18:02
+
+#### [Klarna’s stock rockets in its first trades after IPO, but it’s losing some steam](https://www.marketwatch.com/bulletins/redirect/go?g=fe8b2c05-a814-4e87-9376-cbb2ab335e5d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 17:26
+
+#### [Homeowners have been rushing to refinance as mortgage rates dive](https://www.marketwatch.com/bulletins/redirect/go?g=417c7505-ada3-49d3-a433-45c5d4b100b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 16:52
+
+#### [Insurance is meant to safeguard your finances. Is it undermining them instead?](https://www.marketwatch.com/bulletins/redirect/go?g=be186ce0-4e51-4b76-966b-38d520e09f07&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 16:46
+
+#### [Apple and Amazon are sharpest decliners as Dow falls nearly 300 points](https://www.marketwatch.com/bulletins/redirect/go?g=1e960a7d-0474-4b50-b0c5-3d5942d03ee2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 16:43
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My husband sold his IRA without my knowledge prior to our divorce. Is this legal?](https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 22:56
+
+#### [Nio’s stock dives as EV maker raises $1 billion at shareholders’ expense](https://www.marketwatch.com/story/nios-stock-dives-as-ev-maker-raises-1-billion-at-shareholders-expense-28b2e763?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 22:35
+
+#### [Don’t let Apple’s stock dip fool you. The iPhone 17 could power a big rally.](https://www.marketwatch.com/story/dont-let-apples-stock-dip-fool-you-the-iphone-17-could-power-a-big-rally-ea1ba9b8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 22:31
+
+#### [Oxford Industries says new Lilly Pulitzer offerings are winning over shoppers, but its Tommy Bahama line is lagging](https://www.marketwatch.com/story/oxford-industries-says-new-lilly-pulitzer-offerings-are-winning-over-shoppers-but-its-tommy-bahama-line-is-lagging-56d20321?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 21:57
+
+#### [Why Broadcom’s stock led the chip sector’s rally on Wednesday](https://www.marketwatch.com/story/why-broadcoms-stock-is-leading-the-chip-sectors-rally-on-wednesday-549ba49a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:47
+
+#### [Oracle’s stock just did something never before seen on Wall Street. Inside that historic move.](https://www.marketwatch.com/story/oracles-stock-is-doing-something-never-seen-before-on-wall-street-inside-the-historic-move-ab2453f6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:35
+
+#### [Klarna’s stock loses some steam in post-IPO debut, as traders gain access to fresh play on fintech](https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:34
+
+#### [I’m 80 and my RMD is $300,000. What the heck am I supposed to do about my huge tax bill?](https://www.marketwatch.com/story/im-80-and-my-rmd-is-300-000-what-the-heck-am-i-supposed-to-do-about-my-huge-tax-bill-d9ffb18c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:30
+
+#### [Stablecoins could help the dollar remain the world’s No. 1 reserve currency — but not through Treasury-bill buying](https://www.marketwatch.com/story/stablecoins-could-help-the-dollar-remain-the-worlds-no-1-reserve-currency-but-not-through-treasury-bill-buying-f659d6eb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:28
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 05:21:03 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 23:23:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 23:25:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Judge rules Lisa Cook can stay at the Fed, for now. She’ll likely vote at this month’s rate-setting meeting.</title>
-      <link>https://www.marketwatch.com/story/judge-rules-lisa-cook-can-stay-at-the-fed-shell-vote-at-this-months-rate-setting-meeting-d47b67cf?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Judge rules Lisa Cook can stay at the Fed, for now. She’ll likely vote at this month’s rate-setting meeting.]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 03:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/judge-rules-lisa-cook-can-stay-at-the-fed-shell-vote-at-this-months-rate-setting-meeting-d47b67cf?mod=mw_rss_topstories</guid>
+      <title>Klarna’s stock rockets in its first trades after IPO, but it’s losing some steam</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=fe8b2c05-a814-4e87-9376-cbb2ab335e5d&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Klarna’s stock rockets in its first trades after IPO, but it’s losing some steam]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=fe8b2c05-a814-4e87-9376-cbb2ab335e5d&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Incomes rose and poverty fell last year — so why do so many Americans feel ‘tapped out’?</title>
-      <link>https://www.marketwatch.com/story/incomes-rose-and-poverty-fell-last-year-so-why-do-so-many-americans-feel-tapped-out-6d259e15?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Incomes rose and poverty fell last year — so why do so many Americans feel ‘tapped out’?]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 02:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/incomes-rose-and-poverty-fell-last-year-so-why-do-so-many-americans-feel-tapped-out-6d259e15?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Klarna prices IPO well above expected range, raising $1.37 billion</title>
+      <title>Klarna’s stock loses some steam in post-IPO debut, as traders gain access to fresh play on fintech</title>
       <link>https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Klarna prices IPO well above expected range, raising $1.37 billion]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 00:39:00 GMT</pubDate>
+      <description>&lt;![CDATA[Klarna’s stock loses some steam in post-IPO debut, as traders gain access to fresh play on fintech]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 20:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Judge rules Lisa Cook can stay at the Fed. She’ll vote at this month’s meeting.</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=714ad1ef-e9a6-4bb4-bc28-1bc4242ec354&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Judge rules Lisa Cook can stay at the Fed. She’ll vote at this month’s meeting.]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 02:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=714ad1ef-e9a6-4bb4-bc28-1bc4242ec354&amp;mod=mw_rss_bulletins</guid>
+      <title>I’m 80 and my RMD is $300,000. What am I supposed to do about my huge tax bill?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=3dad0e35-da00-46b9-aac9-8cd5c33d4d96&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[I’m 80 and my RMD is $300,000. What am I supposed to do about my huge tax bill?]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 23:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=3dad0e35-da00-46b9-aac9-8cd5c33d4d96&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>August's CPI is this week's most crucial data for stock investors. What to know.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=22e65074-c47f-4160-9fe3-664fb48c3fcd&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[August's CPI is this week's most crucial data for stock investors. What to know.]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=22e65074-c47f-4160-9fe3-664fb48c3fcd&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Broadcom’s stock led the chip sector’s rally on Wednesday</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=29287703-692c-4d15-9e13-85b02a7761fe&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Why Broadcom’s stock led the chip sector’s rally on Wednesday]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=29287703-692c-4d15-9e13-85b02a7761fe&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500, Nasdaq eke out record closing highs after weak PPI inflation data</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=2861a9a2-2cfd-4eca-84a9-a9081a3303bd&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[S&amp;P 500, Nasdaq eke out record closing highs after weak PPI inflation data]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 20:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=2861a9a2-2cfd-4eca-84a9-a9081a3303bd&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500 eyes new record in final hour on Oracle’s rally, Dow lags — follow live</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=a325fcb1-1ace-4c88-bead-a3a51afa649a&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[S&amp;P 500 eyes new record in final hour on Oracle’s rally, Dow lags — follow live]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=a325fcb1-1ace-4c88-bead-a3a51afa649a&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Here’s the opportunity as investors chase bond yields ahead of Fed decision</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=dff285d2-c6a0-464f-a284-7f30eeb94cba&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Here’s the opportunity as investors chase bond yields ahead of Fed decision]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=dff285d2-c6a0-464f-a284-7f30eeb94cba&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Homeowners have been rushing to refinance as mortgage rates dive</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=417c7505-ada3-49d3-a433-45c5d4b100b1&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Homeowners have been rushing to refinance as mortgage rates dive]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=417c7505-ada3-49d3-a433-45c5d4b100b1&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Insurance is meant to safeguard your finances. Is it undermining them instead?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=be186ce0-4e51-4b76-966b-38d520e09f07&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Insurance is meant to safeguard your finances. Is it undermining them instead?]]&gt;</description>
+      <pubDate>Wed, 10 Sep 2025 16:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=be186ce0-4e51-4b76-966b-38d520e09f07&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

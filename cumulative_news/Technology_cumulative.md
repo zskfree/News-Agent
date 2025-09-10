@@ -1,7 +1,170 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-10 08:32
+**最后更新时间**: 2025-09-10 23:23
+
+---
+
+## 🆕 最新更新 (2025-09-10 23:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [放下身段，拥抱主流：方程豹钛7的“务实”转型](https://www.tmtpost.com/7688897.html)
+**发布时间**: 2025-09-11 05:17
+
+#### [“400万辆是生死线”，零跑出海给中国车企指了一条新路｜钛度车库](https://www.tmtpost.com/7689739.html)
+**发布时间**: 2025-09-11 05:17
+
+#### [AI Godfather Reveals ChatGPT's Involvement in his Breakup With Ex-girlfriend](https://www.tmtpost.com/7689854.html)
+**发布时间**: 2025-09-11 05:04
+
+#### [东珠生态巨亏下“跃进”：从战投AI，到跨界并购“太空”标的｜并购一线](https://www.tmtpost.com/7689641.html)
+**发布时间**: 2025-09-10 21:33
+
+#### [独家对话海信副总裁李炜：RGB Mini LED电视，将保持每年10%—20%的降价空间](https://www.tmtpost.com/7688322.html)
+**发布时间**: 2025-09-10 20:58
+
+#### [曾经被炒到20万一只的实验猴，即将“下岗失业”？](https://www.tmtpost.com/7688984.html)
+**发布时间**: 2025-09-10 20:11
+
+#### [上半年日本最赚钱的AI产品Top10，近一半来自中国？](https://www.tmtpost.com/7689466.html)
+**发布时间**: 2025-09-10 20:06
+
+#### [英伟达：Rubin CPX 登场！要和博通 ASIC“掰掰手腕”](https://www.tmtpost.com/7689410.html)
+**发布时间**: 2025-09-10 18:17
+
+#### [AI抢饭碗还是送外挂？好莱坞大咖们吵翻了！（深度观察）](https://www.tmtpost.com/7689401.html)
+**发布时间**: 2025-09-10 17:44
+
+#### [风口上的AI玩具：创业蓝海还是资本赌局？](https://www.tmtpost.com/7689385.html)
+**发布时间**: 2025-09-10 17:44
+
+#### [大宗进口量价齐跌，新产业图景在向谁招手？](https://www.tmtpost.com/7688178.html)
+**发布时间**: 2025-09-10 17:31
+
+#### [老铺黄金，为什么总想跟黄金划清关系？](https://www.tmtpost.com/7689293.html)
+**发布时间**: 2025-09-10 17:31
+
+#### [圣火科技：上市前夕惊现“清仓式”分红，一口气将11年沉淀的利润“清空”｜IPO观察](https://www.tmtpost.com/7686113.html)
+**发布时间**: 2025-09-10 17:07
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
+**发布时间**: 2025-09-10 23:13
+
+#### [OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle](https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate)
+**发布时间**: 2025-09-10 23:01
+
+#### [Amazon drivers could be wearing AR glasses with a built-in display next year](https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors)
+**发布时间**: 2025-09-10 22:30
+
+#### [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)
+**发布时间**: 2025-09-10 21:25
+
+#### [Trump is slowing — but not stopping — US greenhouse gas reductions](https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group)
+**发布时间**: 2025-09-10 20:22
+
+#### [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+**发布时间**: 2025-09-10 18:31
+
+#### [You can preorder the AirPods Pro 3 right now](https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart)
+**发布时间**: 2025-09-10 18:29
+
+#### [Apple isn&#8217;t packing a charging cable in with the AirPods Pro 3](https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box)
+**发布时间**: 2025-09-10 18:17
+
+#### [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)
+**发布时间**: 2025-09-10 17:43
+
+#### [Bluesky brings age verification to South Dakota and Wyoming](https://www.theverge.com/news/775901/bluesky-age-verification-us-south-dakota-wyoming)
+**发布时间**: 2025-09-10 17:40
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Right-Wing Activist Charlie Kirk Dead at 31](https://www.wired.com/story/charlie-kirk-obituary/)
+**发布时间**: 2025-09-10 22:43
+
+#### [Charlie Kirk Is Dead After Utah Valley University Shooting](https://www.wired.com/story/charlie-kirk-shot-at-utah-valley-university-event/)
+**发布时间**: 2025-09-10 19:13
+
+#### [SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026](https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/)
+**发布时间**: 2025-09-10 18:30
+
+#### [Our Favorite Earbuds for Working Out Are Cheaper Than Ever](https://www.wired.com/story/beats-powerbeats-pro-deal/)
+**发布时间**: 2025-09-10 18:14
+
+#### [Microsoft’s AI Chief Says Machine Consciousness Is an 'Illusion'](https://www.wired.com/story/microsofts-ai-chief-says-machine-consciousness-is-an-illusion/)
+**发布时间**: 2025-09-10 18:04
+
+#### [3 Exciting Camera Features on Apple’s New iPhone 17 Lineup](https://www.wired.com/story/exciting-camera-features-on-apples-new-iphone-17-lineup/)
+**发布时间**: 2025-09-10 17:17
+
+#### [Melania Trump’s AI Era Is Upon Us](https://www.wired.com/story/melania-trumps-ai-era-is-upon-us/)
+**发布时间**: 2025-09-10 15:00
+
+#### [The Best Meta Quest Games You Can Play Right Now (2025)](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
+**发布时间**: 2025-09-10 14:30
+
+#### [Here’s What to Know About Poland Shooting Down Russian Drones](https://www.wired.com/story/poland-shoots-down-russian-drones/)
+**发布时间**: 2025-09-10 13:58
+
+#### [13 Best Electrolyte Powders (2025): Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
+**发布时间**: 2025-09-10 13:38
+
+#### [Here Come the Robotaxis: Zoox and Lyft Both Launch Driverless Ride Sharing](https://www.wired.com/story/here-come-the-robotaxis-zoox-lyft-may-mobility/)
+**发布时间**: 2025-09-10 13:00
+
+#### [Garmin’s Top Training Features, Explained](https://www.wired.com/story/garmins-top-training-features-explained/)
+**发布时间**: 2025-09-10 12:30
+
+#### [Hypochlorous Acid Mists Have Entered the Chat (2025)](https://www.wired.com/story/hypochlorous-acid-sprays-are-they-worth-it/)
+**发布时间**: 2025-09-10 12:00
+
+#### [Philips Norelco i9000 Shaver Review (2025): A Close Shave](https://www.wired.com/review/philips-norelco-i9000-prestige-ultra-shaver/)
+**发布时间**: 2025-09-10 11:37
+
+#### [US Investment in Spyware Is Skyrocketing](https://www.wired.com/story/us-spyware-investment/)
+**发布时间**: 2025-09-10 11:00
+
+#### [How eSIMs Work, and How to Switch to One From a Standard SIM](https://www.wired.com/story/how-esims-work-and-how-to-switch-from-standard-sim/)
+**发布时间**: 2025-09-10 11:00
+
+#### [Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2025)](https://www.wired.com/gallery/japanese-joinery-bed-frames/)
+**发布时间**: 2025-09-10 10:36
+
+#### [The Untold Story of Mike Lynch’s Tragic Boat Sinking](https://www.wired.com/story/mike-lynch-sinking-disaster/)
+**发布时间**: 2025-09-10 10:00
+
+#### [Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation](https://www.wired.com/story/researchers-create-3d-printed-artificial-skin-that-allows-blood-circulation/)
+**发布时间**: 2025-09-10 09:30
+
+#### [This Is the First Time Scientists Have Seen Decisionmaking in a Brain](https://www.wired.com/story/this-is-the-first-time-scientists-have-seen-decision-making-in-a-brain/)
+**发布时间**: 2025-09-10 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [复杂业务场景下AIGC赋能安全运营的实践](https://www.infoq.cn/article/YtLwJIZ7fapDsV30rSEz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 20:00
+
+#### [重构开发体验：CodeFuse 智能代码助手的设计与实践](https://www.infoq.cn/article/1Zydd95okbwCqRtVPk02?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 19:54
+
+#### [苹果不吹 AI，反而成功了？](https://www.infoq.cn/article/Nq6iWks9teN8iwZli0CU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 19:00
+
+#### [AI Agent技术创新与企业级智能体快速落地路径](https://www.infoq.cn/video/Pd7y5EkGFke1KVrWwMiD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 18:22
+
+#### [2025腾讯全球数字生态大会定档9月16日，解码全球科技、产业发展新趋势](https://www.infoq.cn/article/fHo3b4wRMmbaajc67Moh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 18:06
+
+#### [解密硬核黑科技如何让企业低成本+低门槛搭建 AI 应用](https://www.infoq.cn/video/j93Y519pZ0rluRmeQGQm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-10 17:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Nova Launcher 前途未卜？你也可以用它给手机换个「门面」](https://sspai.com/post/65279)
+**发布时间**: 2025-09-10 16:30
 
 ---
 
