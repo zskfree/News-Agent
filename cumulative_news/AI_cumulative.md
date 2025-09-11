@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-11 08:26
+**最后更新时间**: 2025-09-11 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-11 23:18)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Speculative cascades — A hybrid approach for smarter, faster LLM inference](https://research.google/blog/speculative-cascades-a-hybrid-approach-for-smarter-faster-llm-inference/)
+**发布时间**: 2025-09-11 22:01
+
+#### [Smarter nucleic acid design with NucleoBench and AdaBeam](https://research.google/blog/smarter-nucleic-acid-design-with-nucleobench-and-adabeam/)
+**发布时间**: 2025-09-11 17:18
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [We can’t “make American children healthy again” without tackling the gun crisis](https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/)
+**发布时间**: 2025-09-11 16:57
+
+#### [Partnering with generative AI in the finance function](https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/)
+**发布时间**: 2025-09-11 13:00
+
+#### [The Download: Trump’s impact on science, and meet our climate and energy honorees](https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/)
+**发布时间**: 2025-09-11 12:10
+
+#### [Texas banned lab-grown meat. What’s next for the industry?](https://www.technologyreview.com/2025/09/11/1123512/texas-lab-grown-meat/)
+**发布时间**: 2025-09-11 08:00
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [继首创“AI打赏”服务之后，支付宝再推国内首个“AI付”](https://www.jiqizhixin.com/articles/2025-09-11-12)
+**发布时间**: 2025-09-11 16:54
+
+#### [蚂蚁百宝箱新品Tbox超级智能体亮相外滩大会，5分钟即可完成专业教学素材](https://www.jiqizhixin.com/articles/2025-09-11-11)
+**发布时间**: 2025-09-11 16:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [19.79万起！智己LS6换代登场，纯电续航450km，卷出同级新高度](https://www.qbitai.com/2025/09/330613.html)
+**发布时间**: 2025-09-11 10:41
+
+#### [开源即登顶！文心思考模型ERNIE-4.5-21B-A3B-Thinking登顶HuggingFace全球模型趋势榜](https://www.qbitai.com/2025/09/330625.html)
+**发布时间**: 2025-09-11 10:04
+
+#### [腾讯会议打通腾讯元宝，“AI托管”当你的听会助手](https://www.qbitai.com/2025/09/330614.html)
+**发布时间**: 2025-09-11 09:48
+
+#### [又被李斌融到钱了：到账70亿](https://www.qbitai.com/2025/09/330582.html)
+**发布时间**: 2025-09-11 09:19
+
+#### [2025人工智能年度评选启动！3大维度5类奖项，正在寻找AI+时代领航者](https://www.qbitai.com/2025/09/330518.html)
+**发布时间**: 2025-09-11 08:32
+
+#### [支付宝推出全国第一个智能体支付服务“AI付”](https://www.qbitai.com/2025/09/330506.html)
+**发布时间**: 2025-09-11 08:30
+
+#### [3年1000台！全球半导体显示产业首次迎来具身智能机器人](https://www.qbitai.com/2025/09/330498.html)
+**发布时间**: 2025-09-11 08:14
 
 ---
 

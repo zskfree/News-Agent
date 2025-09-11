@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-11 05:20
+**最后更新时间**: 2025-09-11 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-11 23:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Adobe’s earnings beat shows investors that AI is finally paying off, and the stock rises](https://www.marketwatch.com/story/adobes-stock-has-fallen-after-the-last-four-earnings-calls-can-ai-finally-deliver-cb3242ec?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 23:07
+
+#### [‘My income is not enough’: I’m a single parent in my early 50s. Should I add my kids, 23 and 29, to my mortgage application?](https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 22:37
+
+#### [Super Micro’s stock is getting an Nvidia bump. Here’s the latest update.](https://www.marketwatch.com/story/super-micros-stock-is-getting-an-nvidia-bump-heres-the-latest-update-96f74aa7?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 22:37
+
+#### [I’m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won’t be around forever.](https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 22:29
+
+#### [Gold keeps setting records — but its September performance history could be a roadblock](https://www.marketwatch.com/story/gold-has-a-september-trading-pattern-that-could-surprise-investors-this-time-e8baafcc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:56
+
+#### [Cheap pharmaceuticals from China and India put Americans at risk. Here’s the cure.](https://www.marketwatch.com/story/cheap-pharmaceuticals-from-china-and-india-put-americans-at-risk-heres-the-antidote-3f9061f2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:54
+
+#### [RH CEO: ‘Significant inflation’ to hit this year, and gather speed in 2026 and beyond](https://www.marketwatch.com/story/rh-ceo-significant-inflation-to-hit-this-year-and-gather-speed-in-2026-and-beyond-86f68282?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:52
+
+#### [Klarna goes public as more people say buy-now-pay-later is the only way they can afford to buy things](https://www.marketwatch.com/story/klarna-goes-public-as-more-people-say-buy-now-pay-later-is-the-only-way-they-can-afford-to-buy-things-fcca828d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:25
+
+#### [Gemini’s IPO rides the crypto craze to further the fortunes of the Winklevoss twins](https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:10
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Super Micro’s stock is getting an Nvidia bump. Here’s the latest update.](https://www.marketwatch.com/bulletins/redirect/go?g=7e27944e-95c2-4578-86e9-ac7ef4259cfa&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 22:42
+
+#### [Gemini’s IPO rides the crypto craze to further the Winklevoss twins' fortune](https://www.marketwatch.com/bulletins/redirect/go?g=c828191c-b61d-48f2-9d0e-e3742b0de065&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 21:58
+
+#### [Adobe’s stock rises as earnings beat shows that AI is finally paying off](https://www.marketwatch.com/bulletins/redirect/go?g=b4326000-a5fd-4660-b15d-75a180d20ac4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 21:17
+
+#### [Stocks and bonds are sending very different messages about recession risks](https://www.marketwatch.com/bulletins/redirect/go?g=7b7ed9bd-f299-47e2-ae14-9a28ddacde6e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 20:38
+
+#### [Dow closes over 46K for first time, joins S&P and Nasdaq in booking new records](https://www.marketwatch.com/bulletins/redirect/go?g=5cfa6344-e04b-480d-bcff-1fad2c8af5d7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 20:02
+
+#### [Adobe’s stock has fallen after its last four earnings. Can AI finally deliver?](https://www.marketwatch.com/bulletins/redirect/go?g=451b9d72-3f08-4386-82b0-6c36860f46be&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 19:10
+
+#### [Figure's IPO sizzles as investors stay hungry for crypto deals](https://www.marketwatch.com/bulletins/redirect/go?g=8d2d9a29-af2a-4b79-b56b-4475569fbe34&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 17:05
+
+#### [Dow industrials on pace to close atop 46,000 level for first time — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=99f2e524-73ca-4e74-871c-fc68d9f60cb1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 15:30
+
+#### [What JPMorgan thinks of S&P 500 rebuff of company formerly called MicroStrategy](https://www.marketwatch.com/bulletins/redirect/go?g=25606514-f6b8-48b8-9d65-a21658e648c9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 14:48
+
+#### [Why one bullish Apple analyst has just thrown in the towel](https://www.marketwatch.com/bulletins/redirect/go?g=ef5d7222-f575-4f6a-a204-a9f724119d7c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 13:23
 
 ---
 

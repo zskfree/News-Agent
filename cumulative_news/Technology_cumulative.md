@@ -1,7 +1,204 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-11 08:27
+**最后更新时间**: 2025-09-11 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-11 23:18)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [慕尼黑车展，当冷静遇上冷静](http://www.geekpark.net/news/353750)
+**发布时间**: 2025-09-12 01:06
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft and OpenAI have a new deal that could clear the way for an IPO](https://www.theverge.com/news/776884/openai-microsoft-mou)
+**发布时间**: 2025-09-11 23:00
+
+#### [Microsoft is making &#8216;significant investments&#8217; in training its own AI models](https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models)
+**发布时间**: 2025-09-11 22:21
+
+#### [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning)
+**发布时间**: 2025-09-11 22:15
+
+#### [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)
+**发布时间**: 2025-09-11 21:43
+
+#### [Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter](https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter)
+**发布时间**: 2025-09-11 21:26
+
+#### [Aligning those who align AI, one satirical website at a time](https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers)
+**发布时间**: 2025-09-11 20:24
+
+#### [Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever](https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale)
+**发布时间**: 2025-09-11 20:08
+
+#### [Amazon&#8217;s Thursday Night Football broadcasts add more AI to the NFL](https://www.theverge.com/news/776697/amazon-thursday-night-football-ai-games)
+**发布时间**: 2025-09-11 19:49
+
+#### [NASA found clues of life on Mars, but budget cuts threaten future missions](https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts)
+**发布时间**: 2025-09-11 18:47
+
+#### [Baseus&#8217; solar-powered dash cam keeps an eye on your parked car for up to two weeks](https://www.theverge.com/news/776613/baseus-primetrip-vd1-pro-dashcam-solar-power-two-week-standby)
+**发布时间**: 2025-09-11 18:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [支付宝推出国内首个智能体支付服务“AI付”，说话就能点单并支付](https://www.infoq.cn/article/JSJVWfJHs6pcDoW52uss?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 22:41
+
+#### [宇树IPO后，王兴兴现身外滩大会首次发声：现在AI干活还是一片荒漠，挑战来自数据和算法](https://www.infoq.cn/article/pUO8jFOHmVtgH2fiWuRq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 22:09
+
+#### [AI竞争已“卷”到了太空！王坚外滩大会最新分享：人类去火星不能没有计算和AI](https://www.infoq.cn/article/H0yVVedkqOSGvCbSzcHz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 21:48
+
+#### [2025腾讯全球数字生态大会，大咖「智者见智」云上增效有解法](https://www.infoq.cn/article/BFPAdHUueTA0iETcTcrr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 18:02
+
+#### [我来召集 1000 名热爱 AI 的合伙人啦](https://www.infoq.cn/article/iCQhKCTXDqg3zB0tY1QN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 18:00
+
+#### [AI进化论丨第四期：数据 × 模型 × 软件：自动驾驶的协同进化之路](https://www.infoq.cn/video/wQdgdJmUBF6GZmO9V79w?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 17:50
+
+#### [AI低质代码泛滥、API经济盛行，老牌科技厂商 F5 如何应对大模型应用“后遗症”？](https://www.infoq.cn/article/05tcbldQvbFfHXUm6Glt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 17:25
+
+#### [种地吧，“合伙人”！拼多多与全球新农人的创业故事](https://www.infoq.cn/article/JzWCTUugRphAimmD5DST?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 17:25
+
+#### [81岁老板一边狂赚1000亿成全球首富，一边公司大裁员！老员工自嘲：“我们被 GPU 替代了”](https://www.infoq.cn/article/oo9jDOAvrtkYFiNXiu59?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 16:53
+
+#### [蚂蚁百宝箱Tbox超级智能体亮相外滩大会，超20个专家智能体协同可一键交付专业软件](https://www.infoq.cn/article/E8JjfDibBFOIGNKDHxcx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 16:26
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
+**发布时间**: 2025-09-11 21:43
+
+#### [How China’s Propaganda and Surveillance Systems Really Operate](https://www.wired.com/story/made-in-china-how-chinas-surveillance-industry-actually-works/)
+**发布时间**: 2025-09-11 19:59
+
+#### [The 65 Best Movies on Disney+ Right Now (September 2025)](https://www.wired.com/story/best-movies-disney-plus/)
+**发布时间**: 2025-09-11 19:00
+
+#### [Charlie Kirk Was Shot and Killed in a Post-Content-Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)
+**发布时间**: 2025-09-11 18:16
+
+#### [Right-Wing Activists Are Targeting People for Allegedly Celebrating Charlie Kirk’s Death](https://www.wired.com/story/right-wing-activists-are-targeting-people-for-allegedly-celebrating-charlie-kirks-death/)
+**发布时间**: 2025-09-11 18:05
+
+#### [Save Big on Our Favorite Outdoor Security Cam](https://www.wired.com/story/arlo-deal-september-2025/)
+**发布时间**: 2025-09-11 17:39
+
+#### [Nvidia GeForce Now RTX 5080 (Blackwell) Review: RTX 5080 in a MacBook](https://www.wired.com/review/nvidia-geforce-now-rtx-5080-blackwell/)
+**发布时间**: 2025-09-11 15:30
+
+#### [Best Travel Cameras (2025), Tested and Reviewed](https://www.wired.com/gallery/best-travel-cameras/)
+**发布时间**: 2025-09-11 14:00
+
+#### [Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities](https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/)
+**发布时间**: 2025-09-11 13:59
+
+#### [All-Clad Gas Pizza Oven Review (2025): A Pie That Rotates Itself](https://www.wired.com/review/all-clad-gas-pizza-oven/)
+**发布时间**: 2025-09-11 13:07
+
+#### [The 7 Best WIRED-Tested Handheld Vacuums (2025)](https://www.wired.com/gallery/best-handheld-vacuum/)
+**发布时间**: 2025-09-11 13:05
+
+#### [DreamCloud Hybrid Mattress Review: Support and Value](https://www.wired.com/review/dreamcloud-hybrid-mattress/)
+**发布时间**: 2025-09-11 12:01
+
+#### [Best Reusable Water Bottles of 2025, Tested & Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
+**发布时间**: 2025-09-11 11:30
+
+#### [Status Audio Pro X Review: The Best High-End Earbuds?](https://www.wired.com/review/status-audio-pro-x/)
+**发布时间**: 2025-09-11 11:00
+
+#### [Crispr Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
+**发布时间**: 2025-09-11 09:00
+
+#### [SpaceX Targets 2026 to Test Orbital Flight for Next-Gen Starship Vehicle](https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/)
+**发布时间**: 2025-09-10 18:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [控股股东折价20%卖股救急，康芝药业封关前夜或“轻装回血”](https://www.tmtpost.com/7690942.html)
+**发布时间**: 2025-09-11 21:30
+
+#### [从规模扩张到效能之争，量贩零食的供应链与资本暗战](https://www.tmtpost.com/7690757.html)
+**发布时间**: 2025-09-11 20:23
+
+#### [「一页纸」讲透美股公司之：Circle](https://www.tmtpost.com/7690237.html)
+**发布时间**: 2025-09-11 19:13
+
+#### [文化战争的隐秘角落：苹果税一年吃掉10个《哪吒》](https://www.tmtpost.com/7690640.html)
+**发布时间**: 2025-09-11 19:13
+
+#### [大众点评失去“大众”，高德扫街榜精准“点穴”美团](https://www.tmtpost.com/7690624.html)
+**发布时间**: 2025-09-11 19:10
+
+#### [谁在暗中驯化大模型？](https://www.tmtpost.com/7690479.html)
+**发布时间**: 2025-09-11 19:10
+
+#### [影视公司“卷”短剧：有人赚麻了，有人哭晕了](https://www.tmtpost.com/7690523.html)
+**发布时间**: 2025-09-11 19:10
+
+#### [新茶饮半年大考：有人吃饱，有人跌倒](https://www.tmtpost.com/7690460.html)
+**发布时间**: 2025-09-11 19:10
+
+#### [高德的对手是大众点评，还是服务业信任赤字？](https://www.tmtpost.com/7690403.html)
+**发布时间**: 2025-09-11 19:10
+
+#### [WAKUKU，抢着当LABUBU平替](https://www.tmtpost.com/7690563.html)
+**发布时间**: 2025-09-11 19:10
+
+#### [广农糖业再定增偿债：高负债压顶，二期仓储项目现产能消化疑云](https://www.tmtpost.com/7690722.html)
+**发布时间**: 2025-09-11 19:04
+
+#### [无底线的老歌翻唱，正在榨干华语乐坛](https://www.tmtpost.com/7690315.html)
+**发布时间**: 2025-09-11 18:54
+
+#### [iPhone 17打价格战，苹果迎来“翻身”时刻？](https://www.tmtpost.com/7690658.html)
+**发布时间**: 2025-09-11 18:54
+
+#### [宇树王兴兴：我最后悔的是过去没学AI技术，机器人数据和模型都是核心问题](https://www.tmtpost.com/7690596.html)
+**发布时间**: 2025-09-11 17:38
+
+#### [应世生物陷双重困境：7 年累计亏超 8 亿，员工架构与费用披露矛盾待解｜IPO观察](https://www.tmtpost.com/7686077.html)
+**发布时间**: 2025-09-11 17:35
+
+#### [重新定义“用脚投票”，阿里用高德投石问路](https://www.tmtpost.com/7690561.html)
+**发布时间**: 2025-09-11 17:27
+
+#### [医疗器械BD也疯狂](https://www.tmtpost.com/7690253.html)
+**发布时间**: 2025-09-11 17:17
+
+#### [亚朵对加盟商的让利还不够](https://www.tmtpost.com/7690366.html)
+**发布时间**: 2025-09-11 17:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [也许是最适合普通人的「弹唱」入门设备：Musspark AI 随弹吉他 S1 mini 体验](https://sspai.com/post/102420)
+**发布时间**: 2025-09-11 17:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国出兵委内瑞拉 ，8艘军舰严阵以待，美国究竟要干什么？](http://www.huxiu.com/article/4765935.html?f=wangzhan)
+**发布时间**: 2025-09-11 17:00
+
+#### [苹果突改祖传配方，iPhone 17挤爆牙膏？](http://www.huxiu.com/article/4765902.html?f=wangzhan)
+**发布时间**: 2025-09-11 16:20
+
+#### [王腾泄密背刺小米？光速被辞竟是雷军过度仁慈？](http://www.huxiu.com/article/4766294.html?f=wangzhan)
+**发布时间**: 2025-09-11 16:00
+
+#### [无底线的老歌翻唱，正在榨干华语乐坛](http://www.huxiu.com/article/4766343.html?f=wangzhan)
+**发布时间**: 2025-09-11 15:11
 
 ---
 
