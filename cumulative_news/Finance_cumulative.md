@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-10 23:23
+**最后更新时间**: 2025-09-11 05:20
+
+---
+
+## 🆕 最新更新 (2025-09-11 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors are chasing bond yields ahead of the Fed’s rate decision. Here’s the opportunity.](https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 01:11
+
+#### [Elon Musk is still top dog, but Oracle’s Larry Ellison is now just $1 billion behind](https://www.marketwatch.com/story/elon-musk-still-leads-the-billionaires-but-larry-ellison-is-coming-up-fast-a962edaf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 00:22
+
+#### [After SpaceX and AT&T deals, EchoStar could be set for another wireless spectrum windfall](https://www.marketwatch.com/story/after-spacex-and-at-t-deals-echostar-could-be-set-for-another-wireless-spectrum-windfall-087f5653?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 23:26
 
 ---
 

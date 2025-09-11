@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 23:24:42 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 05:21:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌AI新里程碑：一个能「做研究」的系统诞生了，用LLM+树搜索编写专家级软件</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-7</link>
-      <description>&lt;![CDATA[谷歌AI新里程碑：一个能「做研究」的系统诞生了，用LLM+树搜索编写专家级软件]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-7</guid>
+      <title>刚刚，Thinking Machines Lab首次发长文，揭开LLM推理不确定性真相</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-4</link>
+      <description>&lt;![CDATA[刚刚，Thinking Machines Lab首次发长文，揭开LLM推理不确定性真相]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>00后挑大梁！近20国选手激战外滩大会，AI科创赛三赛道冠军诞生</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-10</link>
-      <description>&lt;![CDATA[00后挑大梁！近20国选手激战外滩大会，AI科创赛三赛道冠军诞生]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 21:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-10</guid>
+      <title>英伟达的AI已经开始接管整个项目了？SATLUTION自主进化代码库登顶SAT竞赛</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-3</link>
+      <description>&lt;![CDATA[英伟达的AI已经开始接管整个项目了？SATLUTION自主进化代码库登顶SAT竞赛]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>CoRL 2025 | 港大InfoBodied AI团队首发具身表征新范式，构建任务自适应的感知框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-9</link>
-      <description>&lt;![CDATA[CoRL 2025 | 港大InfoBodied AI团队首发具身表征新范式，构建任务自适应的感知框架]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 20:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-9</guid>
+      <title>大模型智能体不止能写代码，还能被训练成白帽黑客</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-2</link>
+      <description>&lt;![CDATA[大模型智能体不止能写代码，还能被训练成白帽黑客]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>爱诗科技完成6000万美元B轮融资，阿里巴巴领投，达晨财智、深创投、北京市AI基金、巨人网络、Antler等跟投</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-6</link>
-      <description>&lt;![CDATA[爱诗科技完成6000万美元B轮融资，阿里巴巴领投，达晨财智、深创投、北京市AI基金、巨人网络、Antler等跟投]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-6</guid>
+      <title>她们估值840亿，刚发了第一个AI成果</title>
+      <link>https://www.qbitai.com/2025/09/330325.html</link>
+      <description>&lt;![CDATA[她们估值840亿，刚发了第一个AI成果]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 02:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330325.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: AI’s energy future</title>
-      <link>https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/</link>
-      <description>&lt;![CDATA[The Download: AI’s energy future]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/</guid>
+      <title>EnvX: Agentize Everything with Agentic AI</title>
+      <link>https://arxiv.org/abs/2509.08088</link>
+      <description>&lt;![CDATA[EnvX: Agentize Everything with Agentic AI]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.08088</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>真·博士水平！GPT-5首次给出第四矩定理显式收敛率，数学教授只点拨了一下</title>
-      <link>https://www.qbitai.com/2025/09/330237.html</link>
-      <description>&lt;![CDATA[真·博士水平！GPT-5首次给出第四矩定理显式收敛率，数学教授只点拨了一下]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330237.html</guid>
+      <title>Trust Semantics Distillation for Collaborator Selection via Memory-Augmented Agentic AI</title>
+      <link>https://arxiv.org/abs/2509.08151</link>
+      <description>&lt;![CDATA[Trust Semantics Distillation for Collaborator Selection via Memory-Augmented Agentic AI]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.08151</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小猿亮相2025服贸会  全系智能软硬件引领“教育AI”融合新路径</title>
-      <link>https://www.qbitai.com/2025/09/330229.html</link>
-      <description>&lt;![CDATA[小猿亮相2025服贸会  全系智能软硬件引领“教育AI”融合新路径]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330229.html</guid>
+      <title>Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies</title>
+      <link>https://arxiv.org/abs/2509.08312</link>
+      <description>&lt;![CDATA[Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.08312</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>商汤「日日新V6.5」登顶OpenCompass全球多模态大模型榜单</title>
-      <link>https://www.qbitai.com/2025/09/330223.html</link>
-      <description>&lt;![CDATA[商汤「日日新V6.5」登顶OpenCompass全球多模态大模型榜单]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330223.html</guid>
+      <title>Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives</title>
+      <link>https://arxiv.org/abs/2509.08380</link>
+      <description>&lt;![CDATA[Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.08380</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达下一代GPU登场，Rubin CPX一次推理数百万Token，网友：这是头野兽</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-10-8</link>
-      <description>&lt;![CDATA[英伟达下一代GPU登场，Rubin CPX一次推理数百万Token，网友：这是头野兽]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-10-8</guid>
+      <title>No-Knowledge Alarms for Misaligned LLMs-as-Judges</title>
+      <link>https://arxiv.org/abs/2509.08593</link>
+      <description>&lt;![CDATA[No-Knowledge Alarms for Misaligned LLMs-as-Judges]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.08593</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>【立即预约】2025腾讯全球数字生态大会定档，锁定9月16-17日!</title>
-      <link>https://www.qbitai.com/2025/09/330303.html</link>
-      <description>&lt;![CDATA[【立即预约】2025腾讯全球数字生态大会定档，锁定9月16-17日!]]&gt;</description>
-      <pubDate>Wed, 10 Sep 2025 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330303.html</guid>
+      <title>The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems</title>
+      <link>https://arxiv.org/abs/2509.08713</link>
+      <description>&lt;![CDATA[The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.08713</guid>
       <category>AI</category>
     </item>
   </channel>

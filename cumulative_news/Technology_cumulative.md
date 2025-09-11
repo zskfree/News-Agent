@@ -1,7 +1,138 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-10 23:23
+**最后更新时间**: 2025-09-11 05:20
+
+---
+
+## 🆕 最新更新 (2025-09-11 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [优步分享了在单体仓库中进行影响超过3000个微服务变更时控制风险的策略](https://www.infoq.cn/article/SobVxdYgXf57xxjGQCcj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 13:00
+
+#### [模力工场 011 周 AI 应用榜：AI 嵌入群体活动成为工作社交场景“第三人”， 从 “工具时代”走向“生态时代”？](https://www.infoq.cn/article/tNizUpqavsOP7ULTVYVx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 11:15
+
+#### [刚成立1个月，这家具身大脑公司就吸金2亿，智元机器人也出手了](https://www.infoq.cn/article/4OqZUXCwJroFYYxupwi9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:58
+
+#### [长安福特引入阿里云ClickHouse构建CDP平台，降本40%实现精准营销](https://www.infoq.cn/article/SeeyF2ZmlJh95eSpyf9v?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:55
+
+#### [MCP：构建更智能、模块化AI代理的通用连接器](https://www.infoq.cn/article/gGzM88bFa2obywlwodM4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:45
+
+#### [百度发布文心大模型X1.1、开源新模型，王海峰：飞桨文心生态开发者达2333万](https://www.infoq.cn/article/IKlqb65QLRYzFkrgpMvc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:43
+
+#### [编程界新巨头诞生：Replit 年收入暴增 53 倍，抱上谷歌大腿、估值直接飙到30亿美元！](https://www.infoq.cn/article/VTFrH9yoqpmUxfSC2OJc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:14
+
+#### [不会编程也能体验的 AI 魔法，外滩大会代码原生地等你解锁](https://www.infoq.cn/article/2hG6mRNhDh4ieg52Xqeq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:10
+
+#### [云栖来了 ——AI 大模型时代的 CIO（下）](https://www.infoq.cn/video/GYOz1BrjcvS8Ja43XbtB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-11 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [开创美国金融新纪元：SEC主席谈加密资产与人工智能的融合与监管](https://www.tmtpost.com/7690141.html)
+**发布时间**: 2025-09-11 12:42
+
+#### [十大女装上市企业2025年H1财报：业绩分化加剧，数字化转型成竞争关键](https://www.tmtpost.com/7690031.html)
+**发布时间**: 2025-09-11 12:09
+
+#### [Oracle Stock Rockets 36% to Best Day Since 1992 on Rosy Cloud Business Outlook Driven by AI](https://www.tmtpost.com/7690246.html)
+**发布时间**: 2025-09-11 11:41
+
+#### [钼市观察：一矿复产，难解全球饥渴](https://www.tmtpost.com/7690128.html)
+**发布时间**: 2025-09-11 11:24
+
+#### [阿里领投爱诗科技4.3亿新融资，今年阿里已投资超7个AI初创项目](https://www.tmtpost.com/7689875.html)
+**发布时间**: 2025-09-11 11:03
+
+#### [深化“快递进村”“快递进厂”，韵达差异化战略破局内卷](https://www.tmtpost.com/7690113.html)
+**发布时间**: 2025-09-11 10:53
+
+#### [A股重新抱团新能源](https://www.tmtpost.com/7690037.html)
+**发布时间**: 2025-09-11 10:50
+
+#### [豪华品牌的最后阵地：新能源反击战能否改写格局？](https://www.tmtpost.com/7687294.html)
+**发布时间**: 2025-09-11 10:25
+
+#### [套路营销托不起电影高票房](https://www.tmtpost.com/7689625.html)
+**发布时间**: 2025-09-11 10:21
+
+#### [这支00后团队想做AI Native的无限游戏｜“抓住下一个Z一鸣”速访](https://www.tmtpost.com/7690055.html)
+**发布时间**: 2025-09-11 09:56
+
+#### [高德发布扫街榜，要拿捏美团“钱袋子”？](https://www.tmtpost.com/7689717.html)
+**发布时间**: 2025-09-11 09:40
+
+#### [Leapmotor Bets on Long-Term Global Push as Chinese EVs Eye 100,000 Monthly Sales by 2026](https://www.tmtpost.com/7690001.html)
+**发布时间**: 2025-09-11 09:28
+
+#### [小米“王腾大帝”，祸从口出](https://www.tmtpost.com/7689702.html)
+**发布时间**: 2025-09-11 09:20
+
+#### [阿里携高德扫街榜破局，本地生活“三国杀”升级](https://www.tmtpost.com/7689700.html)
+**发布时间**: 2025-09-11 08:40
+
+#### [科股早知道：上半年销售收入创历史新高，机构称游戏行业基本面强势](https://www.tmtpost.com/7689871.html)
+**发布时间**: 2025-09-11 07:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [14家汉庭全盈利，县城开酒店两年就能回本？](http://www.huxiu.com/article/4765904.html?f=wangzhan)
+**发布时间**: 2025-09-11 12:05
+
+#### [标注120秒实际123秒，视频平台“鬼表”泛滥](http://www.huxiu.com/article/4765352.html?f=wangzhan)
+**发布时间**: 2025-09-11 10:40
+
+#### [奇瑞，长舒一口气](http://www.huxiu.com/article/4764753.html?f=wangzhan)
+**发布时间**: 2025-09-11 06:35
+
+#### [迟到21年的IPO，奇瑞错失了太多](http://www.huxiu.com/article/4766082.html?f=wangzhan)
+**发布时间**: 2025-09-10 21:23
+
+#### [以色列轰炸卡塔尔，内胡已“封魔”，懂王忙“甩锅”，世界秩序要变天？](http://www.huxiu.com/article/4765828.html?f=wangzhan)
+**发布时间**: 2025-09-10 18:15
+
+#### [国产技术扛大旗，苹果17首次“加量不加价”的秘密](http://www.huxiu.com/article/4765748.html?f=wangzhan)
+**发布时间**: 2025-09-10 15:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [地表最强补剂？你可能需要这篇维生素 D 的「说明书」](https://sspai.com/post/102388)
+**发布时间**: 2025-09-11 11:30
+
+#### [派早报：Spotify 推出无损音质、三大运营商回应 eSIM 手机业务进展等](https://sspai.com/post/102430)
+**发布时间**: 2025-09-11 08:36
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [高德扫街榜，能不能做成中国的「Google Map」？](http://www.geekpark.net/news/353805)
+**发布时间**: 2025-09-11 10:39
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [TopResume Free Review, Discounts & Packages for September 2025](https://www.wired.com/story/topresume-discount-code/)
+**发布时间**: 2025-09-11 05:00
+
+#### [1Password Coupon: Score a Free Trial in September](https://www.wired.com/story/1password-coupon/)
+**发布时间**: 2025-09-11 05:00
+
+#### [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)
+**发布时间**: 2025-09-11 00:23
+
+#### [Microsoft’s AI Chief Says Machine Consciousness Is an ‘Illusion’](https://www.wired.com/story/microsofts-ai-chief-says-machine-consciousness-is-an-illusion/)
+**发布时间**: 2025-09-10 18:04
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)
+**发布时间**: 2025-09-10 23:31
 
 ---
 
