@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Sep 2025 05:21:44 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 08:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，Thinking Machines Lab首次发长文，揭开LLM推理不确定性真相</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-11-4</link>
-      <description>&lt;![CDATA[刚刚，Thinking Machines Lab首次发长文，揭开LLM推理不确定性真相]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-4</guid>
+      <title>量子宇宙模拟竞赛开启：量子计算机可以模拟并阐明复杂物理现象</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-10</link>
+      <description>&lt;![CDATA[量子宇宙模拟竞赛开启：量子计算机可以模拟并阐明复杂物理现象]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达的AI已经开始接管整个项目了？SATLUTION自主进化代码库登顶SAT竞赛</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-11-3</link>
-      <description>&lt;![CDATA[英伟达的AI已经开始接管整个项目了？SATLUTION自主进化代码库登顶SAT竞赛]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-3</guid>
+      <title>3000亿美元OpenAI大单，让世界首富位置换人了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-9</link>
+      <description>&lt;![CDATA[3000亿美元OpenAI大单，让世界首富位置换人了]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型智能体不止能写代码，还能被训练成白帽黑客</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-11-2</link>
-      <description>&lt;![CDATA[大模型智能体不止能写代码，还能被训练成白帽黑客]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-2</guid>
+      <title>攻克大模型「表格盲区」！ST-Raptor框架发布，实现复杂半结构化表格的精准理解与信息抽取</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-8</link>
+      <description>&lt;![CDATA[攻克大模型「表格盲区」！ST-Raptor框架发布，实现复杂半结构化表格的精准理解与信息抽取]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>她们估值840亿，刚发了第一个AI成果</title>
-      <link>https://www.qbitai.com/2025/09/330325.html</link>
-      <description>&lt;![CDATA[她们估值840亿，刚发了第一个AI成果]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330325.html</guid>
+      <title>港大马毅外滩大会演讲：人工智能应从“黑箱”走向“白箱”</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-7</link>
+      <description>&lt;![CDATA[港大马毅外滩大会演讲：人工智能应从“黑箱”走向“白箱”]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>EnvX: Agentize Everything with Agentic AI</title>
-      <link>https://arxiv.org/abs/2509.08088</link>
-      <description>&lt;![CDATA[EnvX: Agentize Everything with Agentic AI]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08088</guid>
+      <title>兼顾准确率与可解释性，DeepSEA实现抗生素耐药蛋白注释范式转变</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-6</link>
+      <description>&lt;![CDATA[兼顾准确率与可解释性，DeepSEA实现抗生素耐药蛋白注释范式转变]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Trust Semantics Distillation for Collaborator Selection via Memory-Augmented Agentic AI</title>
-      <link>https://arxiv.org/abs/2509.08151</link>
-      <description>&lt;![CDATA[Trust Semantics Distillation for Collaborator Selection via Memory-Augmented Agentic AI]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08151</guid>
+      <title>交互扩展时代来临:创智复旦字节重磅发布AgentGym-RL，昇腾加持，开创智能体训练新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-11-5</link>
+      <description>&lt;![CDATA[交互扩展时代来临:创智复旦字节重磅发布AgentGym-RL，昇腾加持，开创智能体训练新范式]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-11-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies</title>
-      <link>https://arxiv.org/abs/2509.08312</link>
-      <description>&lt;![CDATA[Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08312</guid>
+      <title>Kimi开源又放大招！20秒更新万亿参数的中间件来了</title>
+      <link>https://www.qbitai.com/2025/09/330474.html</link>
+      <description>&lt;![CDATA[Kimi开源又放大招！20秒更新万亿参数的中间件来了]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 06:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330474.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives</title>
-      <link>https://arxiv.org/abs/2509.08380</link>
-      <description>&lt;![CDATA[Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08380</guid>
+      <title>李飞飞一年前究竟说了啥？怎么又火了</title>
+      <link>https://www.qbitai.com/2025/09/330454.html</link>
+      <description>&lt;![CDATA[李飞飞一年前究竟说了啥？怎么又火了]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 06:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330454.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>No-Knowledge Alarms for Misaligned LLMs-as-Judges</title>
-      <link>https://arxiv.org/abs/2509.08593</link>
-      <description>&lt;![CDATA[No-Knowledge Alarms for Misaligned LLMs-as-Judges]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08593</guid>
+      <title>首个Data Agent基准测试来了！2007个测试任务将数据库、PDF、视频、音频异构数据源一网打尽</title>
+      <link>https://www.qbitai.com/2025/09/330230.html</link>
+      <description>&lt;![CDATA[首个Data Agent基准测试来了！2007个测试任务将数据库、PDF、视频、音频异构数据源一网打尽]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 05:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330230.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems</title>
-      <link>https://arxiv.org/abs/2509.08713</link>
-      <description>&lt;![CDATA[The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems]]&gt;</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08713</guid>
+      <title>81岁甲骨文创始人冲上首富！难怪马斯克念念不忘OpenAI</title>
+      <link>https://www.qbitai.com/2025/09/330431.html</link>
+      <description>&lt;![CDATA[81岁甲骨文创始人冲上首富！难怪马斯克念念不忘OpenAI]]&gt;</description>
+      <pubDate>Thu, 11 Sep 2025 05:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330431.html</guid>
       <category>AI</category>
     </item>
   </channel>
