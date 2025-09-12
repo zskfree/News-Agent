@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-12 05:18
+**最后更新时间**: 2025-09-12 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-12 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [As Fed nears rate cut, why the market ‘really hinges’ on the 10-year Treasury](https://www.marketwatch.com/bulletins/redirect/go?g=f0657d77-b31e-44fd-8ebc-fbfa922b4a06&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 22:25
+
+#### [Gold keeps hitting record after record. Is it time to think about selling?](https://www.marketwatch.com/bulletins/redirect/go?g=525a6dea-3e86-4641-96ac-66399188b72f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 20:55
+
+#### [Big Tech lifts Nasdaq to record close, while Dow ends 270 points lower](https://www.marketwatch.com/bulletins/redirect/go?g=daa26ff2-cf38-4198-ac8a-b895006b68a0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 20:03
+
+#### [Big Tech lifting S&P and Nasdaq in final hour, while Dow retreats — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=bf6edd43-8fab-4989-bb09-d31c23ca5d40&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 19:14
+
+#### [Demand strong ahead of Nasdaq debut of Winklevoss twins’ crypto platform Gemini](https://www.marketwatch.com/bulletins/redirect/go?g=21df7a02-81e9-4ebf-aa7c-5dfb0e39d194&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 16:24
+
+#### [Your burning real-estate questions asked and answered — live Q&A at 1 p.m.](https://www.marketwatch.com/bulletins/redirect/go?g=3b1c9c80-6ba6-4afd-9a25-ce247f9fb1d9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 13:04
+
+#### [Economic calendar: Consumer-sentiment report rounds out the week](https://www.marketwatch.com/bulletins/redirect/go?g=7ead736b-2f2e-4e06-9902-4035707bcf9e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 12:27
+
+#### [Fund managers on cusp of ‘extreme bull sentiment’ — and that’s often a red flag](https://www.marketwatch.com/bulletins/redirect/go?g=44bff31f-c190-47fd-848f-c98382184413&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 11:45
+
+#### [Lifting gold target a fifth time this year, these strategists are eyeing $3,800](https://www.marketwatch.com/bulletins/redirect/go?g=8f4bc2de-5ff4-4418-827f-1e421a88461d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 10:04
+
+#### [Morgan Stanley is now predicting four consecutive Fed rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=d4dc0459-1cab-4321-9c90-283f115b1d64&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 08:33
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Winklevoss twins grow $3 billion richer as crypto-trading company Gemini’s stock trades higher](https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 22:04
+
+#### [As Fed nears highly anticipated rate cut, the market ‘really hinges’ on 10-year Treasury yield](https://www.marketwatch.com/story/as-fed-nears-highly-anticipated-rate-cut-the-market-really-hinges-on-10-year-treasury-yield-a7509df4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 22:00
+
+#### [Yes, stock-market valuations are high. But this Wall Street veteran outlines 4 scenarios that could keep the rally going anyway.](https://www.marketwatch.com/story/yes-stock-market-valuations-are-high-but-this-wall-street-veteran-outlines-2-scenarios-that-could-keep-the-rally-going-anyway-bda40dfc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:39
+
+#### [Moderna, Pfizer stocks fall as Trump officials reportedly link COVID shots to child deaths](https://www.marketwatch.com/story/covid-vaccine-makers-shares-fall-as-trump-officials-to-link-shots-to-child-deaths-report-says-4e584de6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:22
+
+#### [Private equity in your 401(k): Who is the big winner? Probably not you.](https://www.marketwatch.com/story/private-equity-in-your-401-k-who-is-the-big-winner-probably-not-you-9ad5e02a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:15
+
+#### [Don’t ignore this upcoming Medicare update — it could be the most important message of the year](https://www.marketwatch.com/story/dont-ignore-this-upcoming-medicare-update-it-could-be-the-most-important-message-of-the-year-92604e48?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:05
 
 ---
 

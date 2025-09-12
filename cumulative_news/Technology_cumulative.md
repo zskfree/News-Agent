@@ -1,7 +1,159 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-12 08:25
+**最后更新时间**: 2025-09-12 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-12 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [成都才是真正的奶茶之都](https://www.tmtpost.com/7692210.html)
+**发布时间**: 2025-09-12 23:33
+
+#### [对话哈啰CEO杨磊：希望用8年时间，让Robotaxi的运营规模达到100万辆](https://www.tmtpost.com/7692335.html)
+**发布时间**: 2025-09-12 22:49
+
+#### [经手1.4万亿美元的公司，将透露AI时代的出海增长机密 ｜ 出海参考](https://www.tmtpost.com/7692348.html)
+**发布时间**: 2025-09-12 18:50
+
+#### [端侧AI成为智能手机“刚需”后，下一代芯片架构会如何演进？](https://www.tmtpost.com/7691913.html)
+**发布时间**: 2025-09-12 18:48
+
+#### [消费贷贴息满月调查：谁在享受3000元贴息红利？ | 巴伦精选](https://www.tmtpost.com/7692373.html)
+**发布时间**: 2025-09-12 18:40
+
+#### [贵州茅台回应拆股诉求：股东观点分歧待探讨，茅台1935基酒无占用问题｜直击业绩会](https://www.tmtpost.com/7692312.html)
+**发布时间**: 2025-09-12 18:30
+
+#### [Solid-State Batteries and Humanoid Robots Drive China's Next Tech Frontier](https://www.tmtpost.com/7692327.html)
+**发布时间**: 2025-09-12 18:09
+
+#### [西贝，给罗永浩上了一课](https://www.tmtpost.com/7692254.html)
+**发布时间**: 2025-09-12 17:51
+
+#### [北极光创投林路：从AI教育看AI创业](https://www.tmtpost.com/7692199.html)
+**发布时间**: 2025-09-12 17:27
+
+#### [重回线下重回线下重回线下！零售行业再次站在了1999年 | 巴伦精选](https://www.tmtpost.com/7692238.html)
+**发布时间**: 2025-09-12 17:26
+
+#### [人形机器人+固态电池，能打开多少想象空间？ | 巴伦精选](https://www.tmtpost.com/7692230.html)
+**发布时间**: 2025-09-12 17:23
+
+#### [西贝根本就赢不了罗永浩](https://www.tmtpost.com/7692129.html)
+**发布时间**: 2025-09-12 16:34
+
+#### [迈威生物的回购“迷局”](https://www.tmtpost.com/7691654.html)
+**发布时间**: 2025-09-12 16:23
+
+#### [立体车库龙头“囧途”：实控人两谋“退位”，东莞模具商贷款入主五洋自控](https://www.tmtpost.com/7691860.html)
+**发布时间**: 2025-09-12 16:22
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean](https://www.wired.com/story/charlie-kirk-bullet-memes/)
+**发布时间**: 2025-09-12 22:34
+
+#### [Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’](https://www.wired.com/story/lee-pace-foundation-interview/)
+**发布时间**: 2025-09-12 20:38
+
+#### [Extremist Groups Hated Charlie Kirk. They’re Using His Death to Radicalize Others](https://www.wired.com/story/extremists-hated-charlie-kirk-now-radicalizing-others/)
+**发布时间**: 2025-09-12 20:24
+
+#### [Save $70 on One of Our Favorite Android Tablets](https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/)
+**发布时间**: 2025-09-12 18:19
+
+#### ['Hades II' Is Coming to Nintendo Switch This Month](https://www.wired.com/story/hades-ii-is-coming-to-nintendo-switch-this-month/)
+**发布时间**: 2025-09-12 17:30
+
+#### [Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’](https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/)
+**发布时间**: 2025-09-12 15:19
+
+#### [Nissan Leaf 2026 Review: Superb Steering, Competitive Pricing](https://www.wired.com/review/nissan-leaf-2026/)
+**发布时间**: 2025-09-12 15:00
+
+#### [I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now](https://www.wired.com/story/anthropic-settlement-books-copyright/)
+**发布时间**: 2025-09-12 15:00
+
+#### [Charlie Kirk Shooting Suspect Identified as 22-Year-Old Utah Man](https://www.wired.com/story/charlie-kirk-shooting-suspect-identified-as-22-year-old-utah-man-tyler-robinson/)
+**发布时间**: 2025-09-12 14:36
+
+#### [The Best Gifts for Newlyweds They’ll Actually Use (2025)](https://www.wired.com/gallery/best-gifts-for-newlyweds/)
+**发布时间**: 2025-09-12 14:09
+
+#### [Wi-Fi Router Vs Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
+**发布时间**: 2025-09-12 13:00
+
+#### [Best Merino Wool T-Shirts (2025), Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+**发布时间**: 2025-09-12 12:30
+
+#### [A Modular Couch Is Worth It. Here’s Why](https://www.wired.com/story/modular-couch-rave/)
+**发布时间**: 2025-09-12 12:01
+
+#### [VPNs and Age-Verification Laws: What You Need to Know](https://www.wired.com/story/vpns-and-age-verification-laws/)
+**发布时间**: 2025-09-12 11:30
+
+#### [8 Best Espresso Machines for Home (2025), Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
+**发布时间**: 2025-09-12 10:32
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)
+**发布时间**: 2025-09-12 22:03
+
+#### [Congress Republicans want to target liberal donors after Charlie Kirk&#8217;s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee)
+**发布时间**: 2025-09-12 21:52
+
+#### [Discord is distancing itself from the Charlie Kirk shooting suspect](https://www.theverge.com/news/777614/discord-charlie-kirk-shooting-tyler-robinson)
+**发布时间**: 2025-09-12 21:12
+
+#### [Stellantis cancels Ram 1500 REV as electric truck demand dims](https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger)
+**发布时间**: 2025-09-12 20:17
+
+#### [GameHub fixed its Silksong save game uploads and now I&#8217;m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)
+**发布时间**: 2025-09-12 20:13
+
+#### [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)
+**发布时间**: 2025-09-12 17:23
+
+#### [Charlie Kirk&#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme)
+**发布时间**: 2025-09-12 15:50
+
+#### [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale)
+**发布时间**: 2025-09-12 15:35
+
+#### [The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26](https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26)
+**发布时间**: 2025-09-12 15:20
+
+#### [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer)
+**发布时间**: 2025-09-12 14:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [被低估的“通用算力”：为什么 AI 时代CPU 的需求“不降反增”?](https://www.infoq.cn/video/ZRK5yut9RciUPk9Vk0xz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-12 21:45
+
+#### [陶哲轩团队1年半项目，被他3周搞定！曾与LeCun吵翻天，如今AI大佬创业用智能体震惊整个学界？](https://www.infoq.cn/article/UPDT9JcXUi3csCAO8CzX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-12 18:00
+
+#### [终于！OpenAI获微软放行：允许重组营利性公司，或将「换壳」IPO上市](https://www.infoq.cn/article/99sIhm3V5eVvgU6ECh9t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-12 16:44
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [我苦寻的「库乐队」，叫 MiniMax Music 1.5](http://www.geekpark.net/news/353925)
+**发布时间**: 2025-09-12 19:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102474)
+**发布时间**: 2025-09-12 17:39
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [不停翻车的辛巴，靠什么让粉丝死心塌地？](http://www.huxiu.com/article/4766498.html?f=wangzhan)
+**发布时间**: 2025-09-12 17:30
 
 ---
 

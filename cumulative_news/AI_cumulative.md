@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-12 08:24
+**最后更新时间**: 2025-09-12 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-12 23:16)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [扩散语言模型也有MoE版本了！蚂蚁&人大从头训练LLaDA-MoE，即将完全开源](https://www.jiqizhixin.com/articles/2025-09-12-15)
+**发布时间**: 2025-09-12 21:34
+
+#### [如何为LLM智能体编写工具？Anthropic官方教程来了](https://www.jiqizhixin.com/articles/2025-09-12-14)
+**发布时间**: 2025-09-12 21:26
+
+#### [腾讯优图重磅开源Youtu-GraphRAG，实现图检索增强技术新突破](https://www.jiqizhixin.com/articles/2025-09-12-13)
+**发布时间**: 2025-09-12 21:21
+
+#### [Science Advances | AI for Earth：聆听海洋的「脉搏」，新一代AI大模型精准预测十年气候脉动](https://www.jiqizhixin.com/articles/2025-09-12-12)
+**发布时间**: 2025-09-12 17:57
+
+#### [外滩大会嘉宾锐评AGI即将“撞墙”，正在向数字与物理世界进化](https://www.jiqizhixin.com/articles/2025-09-12-10)
+**发布时间**: 2025-09-12 17:17
+
+#### [港科大 X MiniMax：高质量数据、小模型挑战复杂网络搜索难题](https://www.jiqizhixin.com/articles/2025-09-12-9)
+**发布时间**: 2025-09-12 16:54
+
+#### [蚂蚁集团加码AGI等青年人才培育，2025蚂蚁InTech奖在外滩大会揭晓](https://www.jiqizhixin.com/articles/2025-09-12-11)
+**发布时间**: 2025-09-12 14:36
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [高德AI出行智能体“小高老师”月活突破4亿](https://www.qbitai.com/2025/09/330799.html)
+**发布时间**: 2025-09-12 12:49
+
+#### [清华首次提出数据驱动控制新形式，算法效率直翻三倍](https://www.qbitai.com/2025/09/330773.html)
+**发布时间**: 2025-09-12 09:03
+
+#### [倒计时1天 | 来服贸会参加一场贯穿AI与算力全景生态的活动](https://www.qbitai.com/2025/09/330775.html)
+**发布时间**: 2025-09-12 09:00
+
+#### [实测！Qwen下一代基础架构突袭！秒解AIME数学竞赛题，提速10倍+性价比提升10倍](https://www.qbitai.com/2025/09/330736.html)
+**发布时间**: 2025-09-12 08:51
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: America’s gun crisis, and how AI video models work](https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/)
+**发布时间**: 2025-09-12 12:10
+
+#### [How do AI models generate videos?](https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/)
+**发布时间**: 2025-09-12 10:01
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [VaultGemma: The world's most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
+**发布时间**: 2025-09-12 08:14
 
 ---
 
