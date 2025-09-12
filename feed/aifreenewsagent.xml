@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2025 05:20:20 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 08:24:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 08:25:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Global Constraint LLM Agents for Text-to-Model Translation</title>
-      <link>https://arxiv.org/abs/2509.08970</link>
-      <description>&lt;![CDATA[Global Constraint LLM Agents for Text-to-Model Translation]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08970</guid>
+      <title>蚂蚁集团数字蚂力首批专家级“AI数字员工团队”亮相外滩大会</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-12-8</link>
+      <description>&lt;![CDATA[蚂蚁集团数字蚂力首批专家级“AI数字员工团队”亮相外滩大会]]&gt;</description>
+      <pubDate>Fri, 12 Sep 2025 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>PromptGuard: An Orchestrated Prompting Framework for Principled Synthetic Text Generation for Vulnerable Populations using LLMs with Enhanced Safety, Fairness, and Controllability</title>
-      <link>https://arxiv.org/abs/2509.08910</link>
-      <description>&lt;![CDATA[PromptGuard: An Orchestrated Prompting Framework for Principled Synthetic Text Generation for Vulnerable Populations using LLMs with Enhanced Safety, Fairness, and Controllability]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08910</guid>
+      <title>“IIFAA数字卡包”上线支付宝：目前已支持多类身份申领</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-12-7</link>
+      <description>&lt;![CDATA[“IIFAA数字卡包”上线支付宝：目前已支持多类身份申领]]&gt;</description>
+      <pubDate>Fri, 12 Sep 2025 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>姚顺雨离职OpenAI，「亿元入职腾讯」传闻引爆AI圈，鹅厂辟谣了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-12-3</link>
-      <description>&lt;![CDATA[姚顺雨离职OpenAI，「亿元入职腾讯」传闻引爆AI圈，鹅厂辟谣了]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-3</guid>
+      <title>重塑药物研发，哈佛医学院等开源全新AI模型，用「图神经网络」破解疾病驱动因素多元难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-12-6</link>
+      <description>&lt;![CDATA[重塑药物研发，哈佛医学院等开源全新AI模型，用「图神经网络」破解疾病驱动因素多元难题]]&gt;</description>
+      <pubDate>Fri, 12 Sep 2025 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>央企怎么做超级智能体？对谈中电信天翼AI：自研模型为底座，自主规划是必须，能适应千行百业才行</title>
-      <link>https://www.qbitai.com/2025/09/330698.html</link>
-      <description>&lt;![CDATA[央企怎么做超级智能体？对谈中电信天翼AI：自研模型为底座，自主规划是必须，能适应千行百业才行]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 04:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330698.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>外滩大会今年太AI了！王坚暴论：OpenAI确实站在了历史错误的一边</title>
-      <link>https://www.qbitai.com/2025/09/330663.html</link>
-      <description>&lt;![CDATA[外滩大会今年太AI了！王坚暴论：OpenAI确实站在了历史错误的一边]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 03:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330663.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Transformer作者：DeepSeek才有搞头，OpenAI指望不上了</title>
-      <link>https://www.qbitai.com/2025/09/330647.html</link>
-      <description>&lt;![CDATA[Transformer作者：DeepSeek才有搞头，OpenAI指望不上了]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 03:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330647.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Automated Unity Game Template Generation from GDDs via NLP and Multi-Modal LLMs</title>
-      <link>https://arxiv.org/abs/2509.08847</link>
-      <description>&lt;![CDATA[Automated Unity Game Template Generation from GDDs via NLP and Multi-Modal LLMs]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08847</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ForTIFAI: Fending Off Recursive Training Induced Failure for AI Models</title>
-      <link>https://arxiv.org/abs/2509.08972</link>
-      <description>&lt;![CDATA[ForTIFAI: Fending Off Recursive Training Induced Failure for AI Models]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.08972</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users</title>
-      <link>https://arxiv.org/abs/2509.09066</link>
-      <description>&lt;![CDATA[Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.09066</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Understanding Economic Tradeoffs Between Human and AI Agents in Bargaining Games</title>
-      <link>https://arxiv.org/abs/2509.09071</link>
-      <description>&lt;![CDATA[Understanding Economic Tradeoffs Between Human and AI Agents in Bargaining Games]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.09071</guid>
+      <title>全球最懂智能体的创业者齐聚外滩大会，未来三年怎么做聊透了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-12-5</link>
+      <description>&lt;![CDATA[全球最懂智能体的创业者齐聚外滩大会，未来三年怎么做聊透了]]&gt;</description>
+      <pubDate>Fri, 12 Sep 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-5</guid>
       <category>AI</category>
     </item>
   </channel>
