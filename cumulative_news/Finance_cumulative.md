@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-11 23:18
+**最后更新时间**: 2025-09-12 05:18
+
+---
+
+## 🆕 最新更新 (2025-09-12 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Low-cost index funds are best for investors, right? Not so fast.](https://www.marketwatch.com/story/low-cost-index-funds-are-best-for-investors-right-not-so-fast-264537de?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 04:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Crypto firm Gemini prices its IPO well above expected range](https://www.marketwatch.com/bulletins/redirect/go?g=12c7eb16-089c-4dd3-be27-e19cc02a95b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 02:36
+
+#### [What Klarna's IPO means about the state of American consumers](https://www.marketwatch.com/bulletins/redirect/go?g=19116ce8-683e-4f93-a03a-8f5d2b238970&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 01:12
+
+#### [This Midwestern hub for beer and Harleys has the hottest housing market in U.S.](https://www.marketwatch.com/bulletins/redirect/go?g=65e81242-add6-44dc-adc4-505a0f260694&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 23:48
 
 ---
 
