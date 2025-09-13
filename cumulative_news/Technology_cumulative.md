@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-13 08:22
+**最后更新时间**: 2025-09-13 23:21
+
+---
+
+## 🆕 最新更新 (2025-09-13 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [H&M中国首个品牌体验中心落地上海；鸣鸣很忙门店数破2万；usmile笑容加官宣品牌代言人樊振东｜消研所周报](https://www.tmtpost.com/7692346.html)
+**发布时间**: 2025-09-13 21:04
+
+#### [西贝VS罗永浩：一场赢了法理却输了人心的品牌危机公关](https://www.tmtpost.com/7693015.html)
+**发布时间**: 2025-09-13 17:33
+
+#### [吵不过罗老师没关系，我们给西贝贾老板支了两招](https://www.tmtpost.com/7693020.html)
+**发布时间**: 2025-09-13 17:33
+
+#### [西贝不无辜，老罗懂拿捏](https://www.tmtpost.com/7692672.html)
+**发布时间**: 2025-09-13 17:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [把抖音的研发管理搬到车企，跑得动吗？](https://www.infoq.cn/article/q1TJFR0cauwIiMixQLs7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-13 20:42
+
+#### [AI 本地跑？Google 新开源模型上线，本地量化后占用不到 200MB 内存，支持百余语言](https://www.infoq.cn/article/Jc2FMrHXXqpgk4g2BgPm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-13 17:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为什么下载不能立刻到达最快速度——从一个现象看拥塞控制算法](https://sspai.com/prime/story/download-speed-and-congestion-control-algo)
+**发布时间**: 2025-09-13 19:23
+
+#### [手机会偷听？重建互联网隐私从改变认知开始](https://sspai.com/post/102268)
+**发布时间**: 2025-09-13 17:26
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How a 2020 Rolex Collection Changed the Face of Watch Design](https://www.wired.com/story/how-a-2020-rolex-collection-changed-the-face-of-watch-design/)
+**发布时间**: 2025-09-13 16:27
+
+#### [6 Best Digital Notebooks, Tablets, and Smart Pens (2025)](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+**发布时间**: 2025-09-13 14:01
+
+#### [What Are Ebike ‘Classes’ and What Do They Mean?](https://www.wired.com/story/guide-to-ebike-classes/)
+**发布时间**: 2025-09-13 13:30
+
+#### [Dell 27 Plus 4K Review (S2725QS): The Monitor Almost Everyone Should Buy](https://www.wired.com/review/dell-27-plus-4k-monitor-s2725qs/)
+**发布时间**: 2025-09-13 12:00
+
+#### [How Often Should You Replace Your Mattress and Bedding?](https://www.wired.com/story/how-often-should-you-replace-your-mattress-and-bedding/)
+**发布时间**: 2025-09-13 11:39
+
+#### [Big Businesses Are Doing Carbon Dioxide Removal All Wrong](https://www.wired.com/story/big-businesses-are-doing-carbon-dioxide-removal-all-wrong/)
+**发布时间**: 2025-09-13 11:00
+
+#### [The 25 Best Shows on Amazon Prime Right Now (September 2025)](https://www.wired.com/story/best-shows-amazon-prime/)
+**发布时间**: 2025-09-13 11:00
+
+#### [Jeffrey Epstein’s Yahoo Inbox Revealed](https://www.wired.com/story/jeffrey-epsteins-yahoo-inbox-revealed/)
+**发布时间**: 2025-09-13 10:30
+
+#### [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)
+**发布时间**: 2025-09-13 10:00
+
+#### [The Free Ride for EVs in the Carpool Lane Is Coming to an End](https://www.wired.com/story/the-free-ride-for-evs-in-the-carpool-lane-is-coming-to-an-end/)
+**发布时间**: 2025-09-13 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale)
+**发布时间**: 2025-09-13 16:00
+
+#### [Spotify Lossless is an inconvenient improvement](https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement)
+**发布时间**: 2025-09-13 15:00
+
+#### [Adult Swim&#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview)
+**发布时间**: 2025-09-13 14:00
+
+#### [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview)
+**发布时间**: 2025-09-13 13:00
 
 ---
 

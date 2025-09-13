@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Sep 2025 08:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Sep 2025 08:22:26 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Sep 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Sep 2025 23:22:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌DeepMind用AI探测引力波，登上Science了</title>
-      <link>https://www.qbitai.com/2025/09/330971.html</link>
-      <description>&lt;![CDATA[谷歌DeepMind用AI探测引力波，登上Science了]]&gt;</description>
-      <pubDate>Sat, 13 Sep 2025 06:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330971.html</guid>
+      <title>Arm拥抱AI：五倍性能，三倍能效</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-13-5</link>
+      <description>&lt;![CDATA[Arm拥抱AI：五倍性能，三倍能效]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 20:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-13-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>前谷歌X团队靠AI电影锁定戛纳！创立AI原生版皮克斯，公司预售已超1亿美元</title>
-      <link>https://www.qbitai.com/2025/09/330951.html</link>
-      <description>&lt;![CDATA[前谷歌X团队靠AI电影锁定戛纳！创立AI原生版皮克斯，公司预售已超1亿美元]]&gt;</description>
-      <pubDate>Sat, 13 Sep 2025 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330951.html</guid>
+      <title>Meta开源MobileLLM-R1模型，不到1B参数，用1/10的训练就超越了Qwen3</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-13-4</link>
+      <description>&lt;![CDATA[Meta开源MobileLLM-R1模型，不到1B参数，用1/10的训练就超越了Qwen3]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-13-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI水论文还得AI治：西湖大学首次模拟人类专家思考链，AI审稿分钟级给出全面反馈</title>
-      <link>https://www.qbitai.com/2025/09/330923.html</link>
-      <description>&lt;![CDATA[AI水论文还得AI治：西湖大学首次模拟人类专家思考链，AI审稿分钟级给出全面反馈]]&gt;</description>
-      <pubDate>Sat, 13 Sep 2025 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330923.html</guid>
+      <title>清华、上海AI Lab等顶级团队发布推理模型RL超全综述，探索通往超级智能之路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-13-3</link>
+      <description>&lt;![CDATA[清华、上海AI Lab等顶级团队发布推理模型RL超全综述，探索通往超级智能之路]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-13-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>快手可灵团队提出MIDAS：压缩比64倍、延迟低于500ms，多模态互动数字人框架实现交互生成新突破</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-13-2</link>
+      <description>&lt;![CDATA[快手可灵团队提出MIDAS：压缩比64倍、延迟低于500ms，多模态互动数字人框架实现交互生成新突破]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 18:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-13-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>数据与AI双引擎驱动智能未来，2025外滩大会论数据进化之道</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-13</link>
+      <description>&lt;![CDATA[数据与AI双引擎驱动智能未来，2025外滩大会论数据进化之道]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>2025北京文化论坛AI沙龙重磅举办！海淀率先破「百模」规模，105款大模型占全国五分之一</title>
+      <link>https://www.qbitai.com/2025/09/331022.html</link>
+      <description>&lt;![CDATA[2025北京文化论坛AI沙龙重磅举办！海淀率先破「百模」规模，105款大模型占全国五分之一]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331022.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>攻克强化学习「最慢一环」！交大字节联手，RL训练速度飙升2.6倍</title>
+      <link>https://www.qbitai.com/2025/09/331008.html</link>
+      <description>&lt;![CDATA[攻克强化学习「最慢一环」！交大字节联手，RL训练速度飙升2.6倍]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331008.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>他同时参与创办OpenAI/DeepMind，还写了哈利波特同人小说</title>
+      <link>https://www.qbitai.com/2025/09/330989.html</link>
+      <description>&lt;![CDATA[他同时参与创办OpenAI/DeepMind，还写了哈利波特同人小说]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330989.html</guid>
       <category>AI</category>
     </item>
   </channel>

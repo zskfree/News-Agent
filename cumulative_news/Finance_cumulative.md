@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-13 05:17
+**最后更新时间**: 2025-09-13 23:21
+
+---
+
+## 🆕 最新更新 (2025-09-13 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?](https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 23:00
+
+#### [‘It’s keeping me up at night’: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.](https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 22:30
+
+#### [Fed governor Cook declared second residence as ‘vacation home,’ countering Trump’s claims](https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 21:54
+
+#### [My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won’t do yard work. What should I do?](https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 21:44
+
+#### [The FIFA World Cup ticket presale is live. What to know about dynamic pricing, lotteries and sale dates while trying to score seats.](https://www.marketwatch.com/story/the-fifa-world-cup-ticket-presale-is-live-what-to-know-about-dynamic-pricing-lotteries-and-sale-dates-while-trying-to-score-seats-cd1121c8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 17:00
+
+#### [Stock market’s relentless rally threatens to turn into a ‘melt-up’. What’s next.](https://www.marketwatch.com/story/stock-markets-relentless-rally-threatens-to-turn-into-a-melt-up-whats-next-f4dac854?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 16:39
+
+#### [The AI trade will make or break your stock portfolio. Here’s how to win in 2025.](https://www.marketwatch.com/story/the-ai-trade-will-make-or-break-your-stock-portfolio-heres-how-to-win-in-2025-cfc12ac6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 16:00
+
+#### [What it was like at Robinhood’s Hood Summit: DJs, go-karts and invite-only parties for active traders](https://www.marketwatch.com/story/what-it-was-like-at-robinhoods-hood-summit-djs-go-karts-and-invite-only-parties-for-active-traders-57271062?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 15:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fed’s Cook declared second residence as ‘vacation home,’ countering Trump claims](https://www.marketwatch.com/bulletins/redirect/go?g=d26cc54e-a874-4cdb-b8c3-18685a892f34&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 22:15
+
+#### [Stock market’s relentless rally threatens to turn into a ‘melt-up’. What’s next.](https://www.marketwatch.com/bulletins/redirect/go?g=58256e50-7da7-48d9-bd8c-463dd18f24a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 21:00
+
+#### [This crypto investor called bitcoin at $120K by 2025. Here's what he now thinks.](https://www.marketwatch.com/bulletins/redirect/go?g=58863df6-39e1-4e1c-a155-c19d29aeb882&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 19:59
+
+#### [The AI trade will make or break your stock portfolio. Here’s how to win in 2025.](https://www.marketwatch.com/bulletins/redirect/go?g=da4fc228-13c4-42c5-8d82-cc83f5f17899&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 18:00
+
+#### [Donald Trump Jr.’s new career: Advising companies](https://www.marketwatch.com/bulletins/redirect/go?g=5fdfcc81-51a1-4b77-969e-06d1cc50ef37&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 16:52
+
+#### [Inside Robinhood’s Hood Summit: DJs, go-karts and parties for active traders](https://www.marketwatch.com/bulletins/redirect/go?g=09c26921-d429-42da-b403-a312ebcb2b6e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 16:20
+
+#### [Oracle’s not-so-secret weapon that’s helped it quickly take on the cloud giants](https://www.marketwatch.com/bulletins/redirect/go?g=33ee264e-04e8-434a-bc95-1a7c4435d32a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 14:45
+
+#### [Trump looks set to delay TikTok ban again. Why there’s no U.S. buyout deal yet.](https://www.marketwatch.com/bulletins/redirect/go?g=49aee6a1-1ef8-48da-b44e-c3f4cf74b46c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 13:51
 
 ---
 
