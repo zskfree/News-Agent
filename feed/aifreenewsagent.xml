@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Sep 2025 23:16:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2025 23:18:51 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Sep 2025 05:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Sep 2025 05:18:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Science Advances | AI for Earth：聆听海洋的「脉搏」，新一代AI大模型精准预测十年气候脉动</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-12-12</link>
-      <description>&lt;![CDATA[Science Advances | AI for Earth：聆听海洋的「脉搏」，新一代AI大模型精准预测十年气候脉动]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-12</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>如何为LLM智能体编写工具？Anthropic官方教程来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-12-14</link>
-      <description>&lt;![CDATA[如何为LLM智能体编写工具？Anthropic官方教程来了]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-14</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>高德AI出行智能体“小高老师”月活突破4亿</title>
-      <link>https://www.qbitai.com/2025/09/330799.html</link>
-      <description>&lt;![CDATA[高德AI出行智能体“小高老师”月活突破4亿]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 12:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330799.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>清华首次提出数据驱动控制新形式，算法效率直翻三倍</title>
-      <link>https://www.qbitai.com/2025/09/330773.html</link>
-      <description>&lt;![CDATA[清华首次提出数据驱动控制新形式，算法效率直翻三倍]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 09:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330773.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>倒计时1天 | 来服贸会参加一场贯穿AI与算力全景生态的活动</title>
-      <link>https://www.qbitai.com/2025/09/330775.html</link>
-      <description>&lt;![CDATA[倒计时1天 | 来服贸会参加一场贯穿AI与算力全景生态的活动]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330775.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>实测！Qwen下一代基础架构突袭！秒解AIME数学竞赛题，提速10倍+性价比提升10倍</title>
-      <link>https://www.qbitai.com/2025/09/330736.html</link>
-      <description>&lt;![CDATA[实测！Qwen下一代基础架构突袭！秒解AIME数学竞赛题，提速10倍+性价比提升10倍]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330736.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Download: America’s gun crisis, and how AI video models work</title>
-      <link>https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/</link>
-      <description>&lt;![CDATA[The Download: America’s gun crisis, and how AI video models work]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>How do AI models generate videos?</title>
-      <link>https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/</link>
-      <description>&lt;![CDATA[How do AI models generate videos?]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 10:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>扩散语言模型也有MoE版本了！蚂蚁&amp;人大从头训练LLaDA-MoE，即将完全开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-12-15</link>
-      <description>&lt;![CDATA[扩散语言模型也有MoE版本了！蚂蚁&amp;人大从头训练LLaDA-MoE，即将完全开源]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 21:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-15</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>腾讯优图重磅开源Youtu-GraphRAG，实现图检索增强技术新突破</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-12-13</link>
-      <description>&lt;![CDATA[腾讯优图重磅开源Youtu-GraphRAG，实现图检索增强技术新突破]]&gt;</description>
-      <pubDate>Fri, 12 Sep 2025 21:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-12-13</guid>
+      <title>小而美的生活秘书！美团Agent落地生活服务</title>
+      <link>https://www.qbitai.com/2025/09/330905.html</link>
+      <description>&lt;![CDATA[小而美的生活秘书！美团Agent落地生活服务]]&gt;</description>
+      <pubDate>Sat, 13 Sep 2025 04:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/330905.html</guid>
       <category>AI</category>
     </item>
   </channel>

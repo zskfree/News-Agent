@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-12 23:17
+**最后更新时间**: 2025-09-13 05:17
+
+---
+
+## 🆕 最新更新 (2025-09-13 05:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The important upcoming Medicare update you won't want to ignore](https://www.marketwatch.com/bulletins/redirect/go?g=dc89ba4a-8587-4253-ba52-446290a7d370&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 01:42
+
+#### [These 4 scenarios could see an expensive stock market get even pricier](https://www.marketwatch.com/bulletins/redirect/go?g=b1828c9d-dde9-4d79-b111-3be29ccfda35&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 01:13
+
+#### [Don’t expect mortgage rates to fall after the Fed cuts. What borrowers can do.](https://www.marketwatch.com/bulletins/redirect/go?g=1f38c4b4-8929-4dd2-adc6-865d508206f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 23:58
 
 ---
 
