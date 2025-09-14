@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-14 08:27
+**最后更新时间**: 2025-09-14 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-14 23:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI解雇潮后的反噬：老板正招回被开掉的程序员收拾“Vibe-Code”烂摊子](https://www.infoq.cn/article/RNmOtwd1X2w4Hm4Tmbw8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-14 22:21
+
+#### [OpenAI 推出 gpt-realtime：语音智能体进入“秒回”时代，开发者直呼交互更自然](https://www.infoq.cn/article/StKZmQHOZpUBO0RsVGlv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-14 17:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [慧博云通关联方计划拿下宝德计算控制权；天华新能拟12.5亿元收购实控人名下公司【并购一线】](https://www.tmtpost.com/7693371.html)
+**发布时间**: 2025-09-14 22:03
+
+#### [出口量第一自主汽车品牌奇瑞通过港交所聆讯；MiniMax全球发布音乐生成模型；追觅汽车德国建厂寻址｜一周大公司出海动态](https://www.tmtpost.com/7693318.html)
+**发布时间**: 2025-09-14 20:55
+
+#### [AI时代入口竞争的巨变：从场景心智到角色心智](https://www.tmtpost.com/7693344.html)
+**发布时间**: 2025-09-14 20:21
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [为什么说黄岩岛国家级自然保护区成立，是大局已定？](http://www.huxiu.com/article/4766698.html?f=wangzhan)
+**发布时间**: 2025-09-14 21:00
+
+#### [零跑冲向年销400万辆？](http://www.huxiu.com/article/4765925.html?f=wangzhan)
+**发布时间**: 2025-09-14 14:08
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [What’s next for Apple after the iPhone 17?](https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro)
+**发布时间**: 2025-09-14 19:18
+
+#### [Rolling Stone’s parent company sues Google over AI Overviews](https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews)
+**发布时间**: 2025-09-14 16:49
+
+#### [The Helldivers community is coping with a spotlight it doesn’t want](https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk)
+**发布时间**: 2025-09-14 15:00
+
+#### [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value)
+**发布时间**: 2025-09-14 14:00
+
+#### [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool)
+**发布时间**: 2025-09-14 13:00
+
+#### [Phone batteries are getting more compact, but the US is missing out](https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones)
+**发布时间**: 2025-09-14 12:00
+
+#### [The iPhone to get this year](https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer)
+**发布时间**: 2025-09-14 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [云巅之上——六天五晚川西之旅（下）](https://sspai.com/post/102182)
+**发布时间**: 2025-09-14 16:02
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [11 Best Protein Powders, According to Years of Testing (2025)](https://www.wired.com/gallery/best-protein-powders/)
+**发布时间**: 2025-09-14 14:00
+
+#### [Hypershell Pro X Series Review: An Exoskeleton You Can Actually Buy](https://www.wired.com/review/hypershell-pro-x-series-review/)
+**发布时间**: 2025-09-14 13:00
+
+#### [Razer BlackShark V3 Pro Review: High-End Gaming Audio](https://www.wired.com/review/razer-blackshark-v3-pro/)
+**发布时间**: 2025-09-14 12:33
+
+#### [How to Switch to Google Fi (2025): Plans, Tips, and Advice](https://www.wired.com/story/how-to-switch-to-google-fi/)
+**发布时间**: 2025-09-14 12:00
+
+#### [The Best Mushroom Coffee, WIRED Tested and Reviewed (2025)](https://www.wired.com/gallery/best-mushroom-coffee/)
+**发布时间**: 2025-09-14 11:35
+
+#### [The Quest to Find the Longest-Running Simple Computer Program](https://www.wired.com/story/the-quest-to-find-the-longest-running-simple-computer-program/)
+**发布时间**: 2025-09-14 11:00
+
+#### [Plant Care Tips for the Winter, According to Experts (2025)](https://www.wired.com/story/how-to-keep-plants-alive-in-winter/)
+**发布时间**: 2025-09-14 10:39
+
+#### [From  'Orwell 2+2=5’ to 'Frankenstein’: TIFF's Films on Power, Creation, and Survival Are a Warning](https://www.wired.com/story/from-orwell-225-to-frankenstein-tiffs-films-on-power-creation-and-survival-are-a-warning/)
+**发布时间**: 2025-09-14 10:30
 
 ---
 

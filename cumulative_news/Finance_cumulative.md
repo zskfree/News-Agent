@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-13 23:21
+**最后更新时间**: 2025-09-14 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-14 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat ahead of this week’s big Fed meeting](https://www.marketwatch.com/story/u-s-stock-futures-flat-ahead-of-this-weeks-big-fed-meeting-85e83580?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 23:08
+
+#### [Fed governor Cook reportedly declared second residence as vacation home, contrary to Trump claim](https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 22:52
+
+#### [Donald Trump Jr.’s new career: advising companies](https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 21:55
+
+#### [A divided Fed is expected to settle on a 25-basis-point rate cut this week. The key question is, what comes next?](https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 20:52
+
+#### [This crypto investor correctly predicted bitcoin would hit $120K in 2025. He now expects it to double in the next year.](https://www.marketwatch.com/story/this-crypto-investor-correctly-predicted-bitcoin-would-hit-120k-in-2025-he-now-expects-it-to-double-in-the-next-year-250b5ab4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 19:56
+
+#### [Your retirement plan is missing this one thing](https://www.marketwatch.com/story/your-retirement-plan-is-missing-this-one-thing-a4b0255f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 18:00
+
+#### [Why the Fed’s first rate cut in 9 months could derail the stock-market rally — and how investors can prepare](https://www.marketwatch.com/story/why-the-feds-first-rate-cut-in-9-months-could-derail-the-stock-market-rally-and-how-investors-can-prepare-fed25009?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 16:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures flat ahead of this week’s big Fed meeting](https://www.marketwatch.com/bulletins/redirect/go?g=137012b8-d06b-4f79-9816-68f1b0201a59&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-14 22:18
+
+#### [Why the Fed’s first rate cut in 9 months could derail the stock-market rally](https://www.marketwatch.com/bulletins/redirect/go?g=a942a9b6-e2cd-4d5c-ab37-eb187ee1958d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-14 20:45
+
+#### [Increasingly divided Fed expected to settle on quarter-point rate cut this week](https://www.marketwatch.com/bulletins/redirect/go?g=0fe06a5c-31cd-4f23-a67c-0d5ba74227c3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-14 13:52
 
 ---
 

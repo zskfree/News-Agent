@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Sep 2025 08:22:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2025 08:28:18 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2025 23:17:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>将KV Cache预算降至1.5%！他们用进化算法把大模型内存占用砍下来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14-5</link>
-      <description>&lt;![CDATA[将KV Cache预算降至1.5%！他们用进化算法把大模型内存占用砍下来了]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-5</guid>
+      <title>全景呈现大模型开源技术路线和生态，蚂蚁开源在2025外滩大会发布全新报告</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-14-7</link>
+      <description>&lt;![CDATA[全景呈现大模型开源技术路线和生态，蚂蚁开源在2025外滩大会发布全新报告]]&gt;</description>
+      <pubDate>Sun, 14 Sep 2025 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI新幻觉论文惹争议！GPT-5拉胯是测试基准有问题？？</title>
-      <link>https://www.qbitai.com/2025/09/331291.html</link>
-      <description>&lt;![CDATA[OpenAI新幻觉论文惹争议！GPT-5拉胯是测试基准有问题？？]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 06:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331291.html</guid>
+      <title>一文看尽35万人围观的智博会</title>
+      <link>https://www.qbitai.com/2025/09/331501.html</link>
+      <description>&lt;![CDATA[一文看尽35万人围观的智博会]]&gt;</description>
+      <pubDate>Sun, 14 Sep 2025 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331501.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>抢先实测美团首个AI Agent，让我体验一把「懒人点餐」的快乐</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14-6</link>
-      <description>&lt;![CDATA[抢先实测美团首个AI Agent，让我体验一把「懒人点餐」的快乐]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 13:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-6</guid>
+      <title>机器人入职洗衣房，开始打工挣钱！苹果前AI高管打造</title>
+      <link>https://www.qbitai.com/2025/09/331484.html</link>
+      <description>&lt;![CDATA[机器人入职洗衣房，开始打工挣钱！苹果前AI高管打造]]&gt;</description>
+      <pubDate>Sun, 14 Sep 2025 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331484.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLaSO 横空出世：逻辑智能推出全球首个完全开源语音大模型框架，定义 LSLM 研究新基准</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14-4</link>
-      <description>&lt;![CDATA[LLaSO 横空出世：逻辑智能推出全球首个完全开源语音大模型框架，定义 LSLM 研究新基准]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 13:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>小红书智创音频技术团队：SOTA对话生成模型FireRedTTS-2来了，轻松做出AI播客！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14-2</link>
-      <description>&lt;![CDATA[小红书智创音频技术团队：SOTA对话生成模型FireRedTTS-2来了，轻松做出AI播客！]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 13:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>大模型碰到真难题了，测了500道，o3 Pro仅通过15%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14</link>
-      <description>&lt;![CDATA[大模型碰到真难题了，测了500道，o3 Pro仅通过15%]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>姚顺雨离职OpenAI，开启下半场</title>
-      <link>https://www.qbitai.com/2025/09/331194.html</link>
-      <description>&lt;![CDATA[姚顺雨离职OpenAI，开启下半场]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331194.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI解数学题只靠最后一个token</title>
-      <link>https://www.qbitai.com/2025/09/331052.html</link>
-      <description>&lt;![CDATA[AI解数学题只靠最后一个token]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 05:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331052.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>啥？陶哲轩18个月没搞定的数学挑战，被这个“AI高斯”三周完成了</title>
-      <link>https://www.qbitai.com/2025/09/331038.html</link>
-      <description>&lt;![CDATA[啥？陶哲轩18个月没搞定的数学挑战，被这个“AI高斯”三周完成了]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 05:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331038.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>为这一个Tab键，我愿意单独付费：Cursor用在线强化学习优化代码建议，护城河有了？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14-3</link>
-      <description>&lt;![CDATA[为这一个Tab键，我愿意单独付费：Cursor用在线强化学习优化代码建议，护城河有了？]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-3</guid>
+      <title>科研学术，现在可以百度AI一下了</title>
+      <link>https://www.qbitai.com/2025/09/331407.html</link>
+      <description>&lt;![CDATA[科研学术，现在可以百度AI一下了]]&gt;</description>
+      <pubDate>Sun, 14 Sep 2025 09:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331407.html</guid>
       <category>AI</category>
     </item>
   </channel>
