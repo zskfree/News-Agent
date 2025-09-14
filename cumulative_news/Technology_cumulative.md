@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-13 23:21
+**最后更新时间**: 2025-09-14 05:17
+
+---
+
+## 🆕 最新更新 (2025-09-14 05:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [无脑反对预制菜就是在与工业文明作对 | 马上评](https://www.tmtpost.com/7693260.html)
+**发布时间**: 2025-09-14 12:58
+
+#### [加拿大留子回国买iPhone，“反向海淘”的苹果，有多香？](https://www.tmtpost.com/7693075.html)
+**发布时间**: 2025-09-14 12:51
+
+#### [你相信罗永浩，那就不要再去购物中心吃饭](https://www.tmtpost.com/7693235.html)
+**发布时间**: 2025-09-14 11:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [享从人工到 AI 驱动：快手广告流量全链路观测实践｜QCon 上海](https://www.infoq.cn/article/XhOYofMbOai6S8uNfIao?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-14 10:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [《思想殖民》报告：吹响“反攻”美国号角](http://www.huxiu.com/article/4767374.html?f=wangzhan)
+**发布时间**: 2025-09-14 09:54
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iPhone 17 全系上线拼多多，5099 起；「罗西大战」后续，传「预制菜国标」过审；小米蔚来小鹏抵制「车圈黑公关」](http://www.geekpark.net/news/353935)
+**发布时间**: 2025-09-14 08:07
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Dyson Promo Codes: 20% Off in September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+**发布时间**: 2025-09-14 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)
+**发布时间**: 2025-09-14 01:30
 
 ---
 
