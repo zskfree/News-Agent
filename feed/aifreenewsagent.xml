@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2025 08:27:32 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 23:18:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>召回率达99%，牛津大学等开发AI工具助天文学家快准识别超新星，从亿万星海中秒抓宇宙烟火</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-15-4</link>
-      <description>&lt;![CDATA[召回率达99%，牛津大学等开发AI工具助天文学家快准识别超新星，从亿万星海中秒抓宇宙烟火]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-4</guid>
+      <title>从「对口型」到「会表演」，刚进化的可灵AI数字人，技术公开了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-15-7</link>
+      <description>&lt;![CDATA[从「对口型」到「会表演」，刚进化的可灵AI数字人，技术公开了]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>腾讯混元升级AI绘画微调范式，在整个扩散轨迹上优化，人工评估分数提升300%</title>
-      <link>https://www.qbitai.com/2025/09/331952.html</link>
-      <description>&lt;![CDATA[腾讯混元升级AI绘画微调范式，在整个扩散轨迹上优化，人工评估分数提升300%]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 06:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331952.html</guid>
+      <title>数字生活的原生入口：蚂蚁集团发布AI眼镜全新技术框架gPass</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-15-6</link>
+      <description>&lt;![CDATA[数字生活的原生入口：蚂蚁集团发布AI眼镜全新技术框架gPass]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>昔日王者TensorFlow，已死</title>
-      <link>https://www.qbitai.com/2025/09/331953.html</link>
-      <description>&lt;![CDATA[昔日王者TensorFlow，已死]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 06:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331953.html</guid>
+      <title>OpenVision 2：大道至简的生成式预训练视觉编码器</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-15-5</link>
+      <description>&lt;![CDATA[OpenVision 2：大道至简的生成式预训练视觉编码器]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>海信集团携手飞书，共创AI时代“新智造”</title>
-      <link>https://www.qbitai.com/2025/09/331946.html</link>
-      <description>&lt;![CDATA[海信集团携手飞书，共创AI时代“新智造”]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331946.html</guid>
+      <title>32.99万起！2026款岚图梦想家正式上市，充电5分钟续航百公里</title>
+      <link>https://www.qbitai.com/2025/09/332420.html</link>
+      <description>&lt;![CDATA[32.99万起！2026款岚图梦想家正式上市，充电5分钟续航百公里]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332420.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: computing’s bright young minds, and cleaning up satellite streaks</title>
+      <link>https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/</link>
+      <description>&lt;![CDATA[The Download: computing’s bright young minds, and cleaning up satellite streaks]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Machine-learning tool gives doctors a more detailed 3D picture of fetal health</title>
+      <link>https://news.mit.edu/2025/machine-learning-tool-gives-doctors-more-detailed-3d-picture-fetal-health-0915</link>
+      <description>&lt;![CDATA[Machine-learning tool gives doctors a more detailed 3D picture of fetal health]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/machine-learning-tool-gives-doctors-more-detailed-3d-picture-fetal-health-0915</guid>
       <category>AI</category>
     </item>
   </channel>

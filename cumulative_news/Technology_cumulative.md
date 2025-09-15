@@ -1,7 +1,181 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-15 08:27
+**最后更新时间**: 2025-09-15 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-15 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“美国BD黑拳”VS“30天审批通关”：中国创新药赛道的时间之战丨行业风向标](https://www.tmtpost.com/7694757.html)
+**发布时间**: 2025-09-15 22:29
+
+#### [价格暴涨，产品稀缺：黄金投资的中国式难题](https://www.tmtpost.com/7694722.html)
+**发布时间**: 2025-09-15 21:28
+
+#### [关联方抢先锁定标的控制权，慧博云通重组“补丁计划”浮出 ｜并购一线](https://www.tmtpost.com/7694632.html)
+**发布时间**: 2025-09-15 21:07
+
+#### [罗永浩“爆锤”西贝后概念股大涨，二级市场的预制菜更香？| 行业风向标](https://www.tmtpost.com/7694652.html)
+**发布时间**: 2025-09-15 20:43
+
+#### [12年来首次被单独“约谈”，小红书难以抉择的十字“露”口](https://www.tmtpost.com/7694512.html)
+**发布时间**: 2025-09-15 19:10
+
+#### [创新药归创新药，政治归政治](https://www.tmtpost.com/7694147.html)
+**发布时间**: 2025-09-15 19:10
+
+#### [反倾销落地，国产模拟芯片迎转机](https://www.tmtpost.com/7694161.html)
+**发布时间**: 2025-09-15 19:10
+
+#### [预制菜大讨论](https://www.tmtpost.com/7694033.html)
+**发布时间**: 2025-09-15 19:09
+
+#### [过敏鼻炎患者，将一款创新药买成网红药](https://www.tmtpost.com/7694039.html)
+**发布时间**: 2025-09-15 19:08
+
+#### [禾赛：特斯拉 “弃子”？挡不住激光雷达的 “华丽逆袭”](https://www.tmtpost.com/7693616.html)
+**发布时间**: 2025-09-15 19:08
+
+#### [这一战，谷歌准备了十年](https://www.tmtpost.com/7694456.html)
+**发布时间**: 2025-09-15 19:08
+
+#### [AI顶级人才的天价薪酬，大厂都挖不起了](https://www.tmtpost.com/7694411.html)
+**发布时间**: 2025-09-15 19:08
+
+#### [阿里百度芯片代替英伟达？国产算力朋友圈加速扩张](https://www.tmtpost.com/7694444.html)
+**发布时间**: 2025-09-15 19:08
+
+#### [美团阿里，将成为中国的美国运通？](https://www.tmtpost.com/7694463.html)
+**发布时间**: 2025-09-15 19:08
+
+#### [Wahaha Heiress Rolls Out New Brand "Wa Xiao Zong" as Family Feud Continues](https://www.tmtpost.com/7694516.html)
+**发布时间**: 2025-09-15 18:58
+
+#### [MINI特别版全球首秀：双重叙事与差异化生存逻辑](https://www.tmtpost.com/7694493.html)
+**发布时间**: 2025-09-15 18:44
+
+#### [科锐国际曾诚：AI闹人才荒？根源是人才战略没跟上｜2025 ITValue Summit 数字价值年会](https://www.tmtpost.com/7694405.html)
+**发布时间**: 2025-09-15 18:25
+
+#### [易鑫首席科技官贾志峰：易鑫有责任自研大模型，赋能汽车金融全行业](https://www.tmtpost.com/7694437.html)
+**发布时间**: 2025-09-15 18:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从日本新首相候选人，看中日的未来](http://www.huxiu.com/article/4766731.html?f=wangzhan)
+**发布时间**: 2025-09-15 22:00
+
+#### [西贝道歉了，但是老板并不知道自己错哪了](http://www.huxiu.com/article/4780051.html?f=wangzhan)
+**发布时间**: 2025-09-15 20:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How AI Is Upending Politics, Tech, the Media, and More](https://www.wired.com/story/wired-ai-summit-tech-politics-media/)
+**发布时间**: 2025-09-15 21:54
+
+#### [Save $40 on a Handmade Dutch Coffeemaker That's Built for Life](https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/)
+**发布时间**: 2025-09-15 20:48
+
+#### [WIRED Roundup: How Charlie Kirk Changed Conservative Media](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-how-charlie-kirk-changed-conservative-media/)
+**发布时间**: 2025-09-15 20:26
+
+#### [Apple MacOS Tahoe 26: Top New Features to Try Today](https://www.wired.com/story/macos-26-tahoe-top-features/)
+**发布时间**: 2025-09-15 20:22
+
+#### [The Top New Features in Apple WatchOS 26](https://www.wired.com/story/top-new-features-in-watchos-26/)
+**发布时间**: 2025-09-15 20:00
+
+#### [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)
+**发布时间**: 2025-09-15 18:17
+
+#### [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
+**发布时间**: 2025-09-15 17:51
+
+#### [Russia Tests Hypersonic Missile at NATO’s Doorstep—and Shares the Video](https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/)
+**发布时间**: 2025-09-15 17:49
+
+#### [Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions](https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/)
+**发布时间**: 2025-09-15 16:42
+
+#### [USA Today Enters Its Gen AI Era With a Chatbot](https://www.wired.com/story/usa-today-enters-its-gen-ai-era-with-a-chatbot/)
+**发布时间**: 2025-09-15 16:01
+
+#### [11 Best Computer Monitors (2025): Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
+**发布时间**: 2025-09-15 13:00
+
+#### [7 Best Automatic Litter Boxes (2025), Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
+**发布时间**: 2025-09-15 12:02
+
+#### [DEXA Scan Deep Dive, With Insights From the Experts (2025)](https://www.wired.com/story/do-you-need-a-dexa-scan/)
+**发布时间**: 2025-09-15 11:30
+
+#### [Whole-Genome Sequencing Will Change Pregnancy](https://www.wired.com/story/whole-genome-sequencing-will-change-pregnancy/)
+**发布时间**: 2025-09-15 11:00
+
+#### [Liquid Glass Could Be One of Apple's Most Divisive System Designs Yet](https://www.wired.com/story/liquid-glass-could-be-one-of-apples-most-divisive-system-designs-yet/)
+**发布时间**: 2025-09-15 10:00
+
+#### [OpenAI Ramps Up Robotics Work in Race Toward AGI](https://www.wired.com/story/openai-ramps-up-robotics-work-in-race-toward-agi/)
+**发布时间**: 2025-09-15 10:00
+
+#### [The Next Era of Gene Editing Will Be Disease Agnostic](https://www.wired.com/story/the-next-era-of-gene-editing-will-be-disease-agnostic/)
+**发布时间**: 2025-09-15 09:30
+
+#### [WIRED Health Recap: Cancer Vaccines, Crispr Breakthroughs, and More](https://www.wired.com/story/wired-health-recap-cancer-vaccines-crispr-breakthroughs-and-more/)
+**发布时间**: 2025-09-15 09:30
+
+#### [MAHA Wants Action on Pesticides. It’s Not Going to Get It From Trump’s Corporate-Friendly EPA](https://www.wired.com/story/the-epas-closeness-to-industry-stands-in-the-way-of-it-helping-maha/)
+**发布时间**: 2025-09-15 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36)
+**发布时间**: 2025-09-15 20:59
+
+#### [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court)
+**发布时间**: 2025-09-15 19:56
+
+#### [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)
+**发布时间**: 2025-09-15 19:13
+
+#### [Trump says foreign workers are &#8216;welcome&#8217; after ICE raid in Georgia targets hundreds of South Koreans](https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers)
+**发布时间**: 2025-09-15 18:39
+
+#### [Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit)
+**发布时间**: 2025-09-15 18:05
+
+#### [Microsoft’s Office apps now have free Copilot Chat features](https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat)
+**发布时间**: 2025-09-15 17:32
+
+#### [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+**发布时间**: 2025-09-15 17:14
+
+#### [I&#8217;ve been using macOS Tahoe 26 since June and here are the eight best things about it](https://www.theverge.com/apple-mac-os/777936/apple-macos-tahoe-26-final-release-testing-impressions-liquid-glass)
+**发布时间**: 2025-09-15 17:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [既能「听见心跳」，又可「如影随形」：AirPods Pro 3 首发上手体验](https://sspai.com/post/102533)
+**发布时间**: 2025-09-15 20:00
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/102544)
+**发布时间**: 2025-09-15 18:43
+
+#### [缝合相差 12 岁的两台 Apple 设备：iPod mini 改造小记](https://sspai.com/prime/story/ipod-mini-mod)
+**发布时间**: 2025-09-15 17:37
+
+#### [看看八月大家都通过  Quote/0 摘录发了啥？暨九月份活动启动](https://sspai.com/post/102458)
+**发布时间**: 2025-09-15 15:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [数智时代的安全操盘手：AI安全可控，风控增效无忧](https://www.infoq.cn/video/FCd29mVdmZOBcXu0Wulg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 18:54
+
+#### [Next.js 15.5交付了Turbopack生产构建、Node.js中间件和更紧凑的Typescript DX](https://www.infoq.cn/article/UfblR0pseIShUqdsoGEo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 18:00
 
 ---
 

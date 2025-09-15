@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-15 08:27
+**最后更新时间**: 2025-09-15 23:16
+
+---
+
+## 🆕 最新更新 (2025-09-15 23:16)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [从「对口型」到「会表演」，刚进化的可灵AI数字人，技术公开了](https://www.jiqizhixin.com/articles/2025-09-15-7)
+**发布时间**: 2025-09-15 20:49
+
+#### [数字生活的原生入口：蚂蚁集团发布AI眼镜全新技术框架gPass](https://www.jiqizhixin.com/articles/2025-09-15-6)
+**发布时间**: 2025-09-15 20:42
+
+#### [OpenVision 2：大道至简的生成式预训练视觉编码器](https://www.jiqizhixin.com/articles/2025-09-15-5)
+**发布时间**: 2025-09-15 20:39
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [32.99万起！2026款岚图梦想家正式上市，充电5分钟续航百公里](https://www.qbitai.com/2025/09/332420.html)
+**发布时间**: 2025-09-15 14:11
+
+#### [谷歌靠Nano Banana超越ChatGPT！登顶苹果App Store第一，玩疯了](https://www.qbitai.com/2025/09/332356.html)
+**发布时间**: 2025-09-15 08:15
+
+#### [DeepMind哈萨比斯最新认知都在这里了](https://www.qbitai.com/2025/09/332346.html)
+**发布时间**: 2025-09-15 07:57
+
+#### [只要科学任务能打分，AI就能实现SOTA结果 | 谷歌最新论文](https://www.qbitai.com/2025/09/332180.html)
+**发布时间**: 2025-09-15 07:51
+
+#### [全新开源模型复现o3视觉推理，无需大量训练即可实现深度思考](https://www.qbitai.com/2025/09/332156.html)
+**发布时间**: 2025-09-15 07:46
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: computing’s bright young minds, and cleaning up satellite streaks](https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/)
+**发布时间**: 2025-09-15 12:10
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Machine-learning tool gives doctors a more detailed 3D picture of fetal health](https://news.mit.edu/2025/machine-learning-tool-gives-doctors-more-detailed-3d-picture-fetal-health-0915)
+**发布时间**: 2025-09-15 10:00
 
 ---
 

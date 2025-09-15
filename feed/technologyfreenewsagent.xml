@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2025 08:27:32 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 23:18:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hugging Face推出零代码数据集转换工具AI Sheets</title>
-      <link>https://www.infoq.cn/article/aeVlJ86sBmJckRf8DG9X?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Hugging Face推出零代码数据集转换工具AI Sheets]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aeVlJ86sBmJckRf8DG9X?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“美国BD黑拳”VS“30天审批通关”：中国创新药赛道的时间之战丨行业风向标</title>
+      <link>https://www.tmtpost.com/7694757.html</link>
+      <description>&lt;![CDATA[“美国BD黑拳”VS“30天审批通关”：中国创新药赛道的时间之战丨行业风向标]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694757.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>研究发现，GitHub的“oops commits”中包含了数千条已泄露的秘密信息</title>
-      <link>https://www.infoq.cn/article/jHweHFy8xgyCsFJWAIqd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[研究发现，GitHub的“oops commits”中包含了数千条已泄露的秘密信息]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jHweHFy8xgyCsFJWAIqd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>价格暴涨，产品稀缺：黄金投资的中国式难题</title>
+      <link>https://www.tmtpost.com/7694722.html</link>
+      <description>&lt;![CDATA[价格暴涨，产品稀缺：黄金投资的中国式难题]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 21:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694722.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从被动存储到主动决策：AI如何驱动数据库与大数据智能进化</title>
-      <link>https://www.infoq.cn/video/8SOET0sY3huapapqEMbK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从被动存储到主动决策：AI如何驱动数据库与大数据智能进化]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/8SOET0sY3huapapqEMbK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>创新药归创新药，政治归政治</title>
+      <link>https://www.tmtpost.com/7694147.html</link>
+      <description>&lt;![CDATA[创新药归创新药，政治归政治]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694147.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>RAG管道架构的高效实践</title>
-      <link>https://www.infoq.cn/article/Mk3Ngs9CTaPaRIZx31cl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[RAG管道架构的高效实践]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Mk3Ngs9CTaPaRIZx31cl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>反倾销落地，国产模拟芯片迎转机</title>
+      <link>https://www.tmtpost.com/7694161.html</link>
+      <description>&lt;![CDATA[反倾销落地，国产模拟芯片迎转机]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694161.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitLab发布公测版的Duo Agent Platform，引入了基于Agent编排的DevSecOps</title>
-      <link>https://www.infoq.cn/article/fDZfbOrKJ88WurxjKeJQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitLab发布公测版的Duo Agent Platform，引入了基于Agent编排的DevSecOps]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fDZfbOrKJ88WurxjKeJQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>过敏鼻炎患者，将一款创新药买成网红药</title>
+      <link>https://www.tmtpost.com/7694039.html</link>
+      <description>&lt;![CDATA[过敏鼻炎患者，将一款创新药买成网红药]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694039.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>法院“撑腰”，诬告零成本？详解成都地铁案五大“维权”要点</title>
-      <link>http://www.huxiu.com/article/4767468.html?f=wangzhan</link>
-      <description>&lt;![CDATA[法院“撑腰”，诬告零成本？详解成都地铁案五大“维权”要点]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4767468.html?f=wangzhan</guid>
+      <title>阿里百度芯片代替英伟达？国产算力朋友圈加速扩张</title>
+      <link>https://www.tmtpost.com/7694444.html</link>
+      <description>&lt;![CDATA[阿里百度芯片代替英伟达？国产算力朋友圈加速扩张]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694444.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>50万电车过保，修一次电池=加10年油？</title>
-      <link>http://www.huxiu.com/article/4767883.html?f=wangzhan</link>
-      <description>&lt;![CDATA[50万电车过保，修一次电池=加10年油？]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4767883.html?f=wangzhan</guid>
+      <title>易鑫首席科技官贾志峰：易鑫有责任自研大模型，赋能汽车金融全行业</title>
+      <link>https://www.tmtpost.com/7694437.html</link>
+      <description>&lt;![CDATA[易鑫首席科技官贾志峰：易鑫有责任自研大模型，赋能汽车金融全行业]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 18:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694437.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曾经的酸菜鱼霸主，开始爆改自救？</title>
-      <link>http://www.huxiu.com/article/4767862.html?f=wangzhan</link>
-      <description>&lt;![CDATA[曾经的酸菜鱼霸主，开始爆改自救？]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 12:55:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4767862.html?f=wangzhan</guid>
+      <title>关联方抢先锁定标的控制权，慧博云通重组“补丁计划”浮出 ｜并购一线</title>
+      <link>https://www.tmtpost.com/7694632.html</link>
+      <description>&lt;![CDATA[关联方抢先锁定标的控制权，慧博云通重组“补丁计划”浮出 ｜并购一线]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694632.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么说现在所有的 AI Agent，都像 3D 打印机？｜AI 上新</title>
-      <link>http://www.geekpark.net/news/353969</link>
-      <description>&lt;![CDATA[为什么说现在所有的 AI Agent，都像 3D 打印机？｜AI 上新]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/353969</guid>
+      <title>罗永浩“爆锤”西贝后概念股大涨，二级市场的预制菜更香？| 行业风向标</title>
+      <link>https://www.tmtpost.com/7694652.html</link>
+      <description>&lt;![CDATA[罗永浩“爆锤”西贝后概念股大涨，二级市场的预制菜更香？| 行业风向标]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694652.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple’s new iPhone charger is a first of its kind</title>
-      <link>https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic</link>
-      <description>&lt;![CDATA[Apple’s new iPhone charger is a first of its kind]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic</guid>
+      <title>12年来首次被单独“约谈”，小红书难以抉择的十字“露”口</title>
+      <link>https://www.tmtpost.com/7694512.html</link>
+      <description>&lt;![CDATA[12年来首次被单独“约谈”，小红书难以抉择的十字“露”口]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7694512.html</guid>
       <category>Technology</category>
     </item>
   </channel>

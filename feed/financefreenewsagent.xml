@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2025 08:27:32 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 23:18:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit</title>
-      <link>https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 07:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories</guid>
+      <title>What CoreWeave’s new $6.3 billion contract with Nvidia says about the AI trade</title>
+      <link>https://www.marketwatch.com/story/what-coreweaves-new-6-3-billion-contract-with-nvidia-says-about-the-ai-trade-086b98bb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[What CoreWeave’s new $6.3 billion contract with Nvidia says about the AI trade]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/what-coreweaves-new-6-3-billion-contract-with-nvidia-says-about-the-ai-trade-086b98bb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nvidia is dealt an antitrust setback in China. What it means for the stock.</title>
+      <link>https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nvidia is dealt an antitrust setback in China. What it means for the stock.]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Your financial plan looks like a winner. Do you really need a second opinion?</title>
+      <link>https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Your financial plan looks like a winner. Do you really need a second opinion?]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why banks are afraid you’re going to ditch them for stablecoins</title>
+      <link>https://www.marketwatch.com/story/this-digital-cash-pays-you-enough-interest-to-worry-your-bank-412f5d0b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why banks are afraid you’re going to ditch them for stablecoins]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-digital-cash-pays-you-enough-interest-to-worry-your-bank-412f5d0b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This Treasury-bond investment has only one winner — and it’s not you</title>
+      <link>https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This Treasury-bond investment has only one winner — and it’s not you]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This long-shot move could get the 30-year mortgage rate to 5% next year, says BofA Global</title>
+      <link>https://www.marketwatch.com/story/this-long-shot-move-could-get-the-30-year-mortgage-rate-to-5-next-year-says-bofa-global-2ab2dbc5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This long-shot move could get the 30-year mortgage rate to 5% next year, says BofA Global]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 21:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-long-shot-move-could-get-the-30-year-mortgage-rate-to-5-next-year-says-bofa-global-2ab2dbc5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>BlackRock turns ‘neutral’ on long-term Treasurys ahead of potential Fed rate cuts</title>
+      <link>https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[BlackRock turns ‘neutral’ on long-term Treasurys ahead of potential Fed rate cuts]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Alphabet’s stock was an AI loser. Now it’s beaten out Nvidia on the year.</title>
+      <link>https://www.marketwatch.com/story/alphabets-stock-was-an-ai-loser-now-its-beaten-out-nvidia-on-the-year-c4100fa6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Alphabet’s stock was an AI loser. Now it’s beaten out Nvidia on the year.]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/alphabets-stock-was-an-ai-loser-now-its-beaten-out-nvidia-on-the-year-c4100fa6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the 10-year Treasury yield’s bounce back above 4% should be a warning for investors</title>
+      <link>https://www.marketwatch.com/story/why-the-10-year-treasury-yields-bounce-back-above-4-should-be-a-warning-for-investors-ed20092e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why the 10-year Treasury yield’s bounce back above 4% should be a warning for investors]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-the-10-year-treasury-yields-bounce-back-above-4-should-be-a-warning-for-investors-ed20092e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These amateur traders won big as metals prices boomed in 2025. Here’s how.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=29a70a36-62a7-42df-8880-98f021d56b65&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[These amateur traders won big as metals prices boomed in 2025. Here’s how.]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 22:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=29a70a36-62a7-42df-8880-98f021d56b65&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-15 08:27
+**最后更新时间**: 2025-09-15 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-15 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What CoreWeave’s new $6.3 billion contract with Nvidia says about the AI trade](https://www.marketwatch.com/story/what-coreweaves-new-6-3-billion-contract-with-nvidia-says-about-the-ai-trade-086b98bb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:37
+
+#### [Nvidia is dealt an antitrust setback in China. What it means for the stock.](https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:35
+
+#### [Your financial plan looks like a winner. Do you really need a second opinion?](https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:20
+
+#### [Why banks are afraid you’re going to ditch them for stablecoins](https://www.marketwatch.com/story/this-digital-cash-pays-you-enough-interest-to-worry-your-bank-412f5d0b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:19
+
+#### [This Treasury-bond investment has only one winner — and it’s not you](https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:17
+
+#### [This long-shot move could get the 30-year mortgage rate to 5% next year, says BofA Global](https://www.marketwatch.com/story/this-long-shot-move-could-get-the-30-year-mortgage-rate-to-5-next-year-says-bofa-global-2ab2dbc5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 21:26
+
+#### [Investors eyeing a Fed rate cut this week: Beware the unintended fallout for U.S. markets and the economy](https://www.marketwatch.com/story/investors-eyeing-a-fed-rate-cut-this-week-beware-the-unintended-fallout-for-u-s-markets-and-the-economy-c8218c82?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:49
+
+#### [BlackRock turns ‘neutral’ on long-term Treasurys ahead of potential Fed rate cuts](https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:41
+
+#### [Alphabet’s stock was an AI loser. Now it’s beaten out Nvidia on the year.](https://www.marketwatch.com/story/alphabets-stock-was-an-ai-loser-now-its-beaten-out-nvidia-on-the-year-c4100fa6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:35
+
+#### [Why the 10-year Treasury yield’s bounce back above 4% should be a warning for investors](https://www.marketwatch.com/story/why-the-10-year-treasury-yields-bounce-back-above-4-should-be-a-warning-for-investors-ed20092e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These amateur traders won big as metals prices boomed in 2025. Here’s how.](https://www.marketwatch.com/bulletins/redirect/go?g=29a70a36-62a7-42df-8880-98f021d56b65&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 22:27
+
+#### [Investors eyeing a Fed rate cut should beware of this unintended fallout](https://www.marketwatch.com/bulletins/redirect/go?g=56324838-063a-481d-a271-d481135ba6e5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 21:38
+
+#### [Alphabet’s stock was an AI loser. Now it’s beaten out Nvidia on the year.](https://www.marketwatch.com/bulletins/redirect/go?g=73c6708f-149b-4d50-96ba-168fed31c464&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 21:07
+
+#### [Why the 10-year Treasury yield’s move above 4% should be a warning for investors](https://www.marketwatch.com/bulletins/redirect/go?g=ec82e595-3948-4aab-ae30-6b73b645ddb4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 20:28
+
+#### [S&P 500, Nasdaq end at record highs after U.S.-China 'framework' on TikTok deal](https://www.marketwatch.com/bulletins/redirect/go?g=91389663-c2d9-46bd-b926-6d31eb9f925c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 20:00
+
+#### [11 fast-growing small-cap stocks that could get a boost from the Fed’s next move](https://www.marketwatch.com/bulletins/redirect/go?g=eec795ad-1a32-40d2-97ac-abbebbc5aee2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 19:26
+
+#### [Nvidia is dealt an antitrust setback in China. What it means for the stock.](https://www.marketwatch.com/bulletins/redirect/go?g=30243753-83bc-427d-b7f6-d37e71260440&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 18:50
+
+#### [The devil is in the details when it comes to a TikTok deal](https://www.marketwatch.com/bulletins/redirect/go?g=1ef603b3-bed4-41f6-bc51-40e0c42dd217&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 17:13
+
+#### [What you should know about China’s 2025 stock-market surge — live event at noon](https://www.marketwatch.com/bulletins/redirect/go?g=11184a14-85f4-4b6f-9c1d-7da0f0dc067c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 14:33
+
+#### [Trump says company earnings reports should be semiannual instead of quarterly](https://www.marketwatch.com/bulletins/redirect/go?g=842c36a6-b97a-47db-8d59-ffd8c6f96ad8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 14:20
 
 ---
 
