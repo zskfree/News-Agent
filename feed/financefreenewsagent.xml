@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2025 05:21:28 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 08:27:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Your retirement plan is missing this one thing</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f9d52c7e-5cb1-4a9c-a5ad-13fd4f30c57f&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Your retirement plan is missing this one thing]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f9d52c7e-5cb1-4a9c-a5ad-13fd4f30c57f&amp;mod=mw_rss_bulletins</guid>
+      <title>Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit</title>
+      <link>https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

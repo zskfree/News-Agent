@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-15 05:19
+**最后更新时间**: 2025-09-15 08:27
+
+---
+
+## 🆕 最新更新 (2025-09-15 08:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Hugging Face推出零代码数据集转换工具AI Sheets](https://www.infoq.cn/article/aeVlJ86sBmJckRf8DG9X?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 15:30
+
+#### [研究发现，GitHub的“oops commits”中包含了数千条已泄露的秘密信息](https://www.infoq.cn/article/jHweHFy8xgyCsFJWAIqd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 15:00
+
+#### [从被动存储到主动决策：AI如何驱动数据库与大数据智能进化](https://www.infoq.cn/video/8SOET0sY3huapapqEMbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 14:56
+
+#### [RAG管道架构的高效实践](https://www.infoq.cn/article/Mk3Ngs9CTaPaRIZx31cl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 14:30
+
+#### [GitLab发布公测版的Duo Agent Platform，引入了基于Agent编排的DevSecOps](https://www.infoq.cn/article/fDZfbOrKJ88WurxjKeJQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 13:48
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [法院“撑腰”，诬告零成本？详解成都地铁案五大“维权”要点](http://www.huxiu.com/article/4767468.html?f=wangzhan)
+**发布时间**: 2025-09-15 15:00
+
+#### [50万电车过保，修一次电池=加10年油？](http://www.huxiu.com/article/4767883.html?f=wangzhan)
+**发布时间**: 2025-09-15 14:30
+
+#### [曾经的酸菜鱼霸主，开始爆改自救？](http://www.huxiu.com/article/4767862.html?f=wangzhan)
+**发布时间**: 2025-09-15 12:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么说现在所有的 AI Agent，都像 3D 打印机？｜AI 上新](http://www.geekpark.net/news/353969)
+**发布时间**: 2025-09-15 14:34
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic)
+**发布时间**: 2025-09-15 08:14
 
 ---
 

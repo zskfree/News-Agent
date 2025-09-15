@@ -8754,135 +8754,33 @@
         "link": "https://arxiv.org/abs/2509.09712",
         "published_date": "Mon, 15 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-15T05:20:40.048540"
+      },
+      "421e95d17612564f4f9e005887b447d9a94fc326763ec7d7855b2b51422fd7fb": {
+        "title": "召回率达99%，牛津大学等开发AI工具助天文学家快准识别超新星，从亿万星海中秒抓宇宙烟火",
+        "link": "https://www.jiqizhixin.com/articles/2025-09-15-4",
+        "published_date": "Mon, 15 Sep 2025 14:12:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.567814"
+      },
+      "a64a49bf50db4f8ad1a57cb0f33e25fd60f8a3d0e2325f1310ff737d9528fe8e": {
+        "title": "腾讯混元升级AI绘画微调范式，在整个扩散轨迹上优化，人工评估分数提升300%",
+        "link": "https://www.qbitai.com/2025/09/331952.html",
+        "published_date": "Mon, 15 Sep 2025 06:39:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.567966"
+      },
+      "0a1e2dfc3a991e34641c99304d65fcb1f7c121996a341f974d6daae326c686ca": {
+        "title": "昔日王者TensorFlow，已死",
+        "link": "https://www.qbitai.com/2025/09/331953.html",
+        "published_date": "Mon, 15 Sep 2025 06:31:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.568087"
+      },
+      "3484325b39ba4f160601c3d777bf332afcd28a7c88726c384ad7a4a7cb291cf3": {
+        "title": "海信集团携手飞书，共创AI时代“新智造”",
+        "link": "https://www.qbitai.com/2025/09/331946.html",
+        "published_date": "Mon, 15 Sep 2025 05:39:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.568257"
       }
     },
     "Technology": {
-      "da34577aec26e17a9cf1ab06e0f853d8b65cf462a31444ba5cd2421446ce05df": {
-        "title": "Trump Says He Will Unveil Semiconductor Tariffs Up to 300% in Weeks, Followed by Steel Levies",
-        "link": "https://www.tmtpost.com/7661673.html",
-        "published_date": "Sat, 16 Aug 2025 12:07:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372417"
-      },
-      "ce75cff06b518f56713603f5cc0a39a3baa3c1c4cd1c3bb2781a6015cfc4a746": {
-        "title": "光伏的后路又断了，怎么办……",
-        "link": "https://www.tmtpost.com/7661576.html",
-        "published_date": "Sat, 16 Aug 2025 11:34:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372457"
-      },
-      "87b3d60c361436a52ff274025a78cb2fe6f41c078dd00459a752ee6b734b64ce": {
-        "title": "皈依洞门的信徒，夏天快被忽悠瘸了",
-        "link": "https://www.tmtpost.com/7661645.html",
-        "published_date": "Sat, 16 Aug 2025 11:34:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.007274"
-      },
-      "90a547a35c4bc5da3922b35944e8a6b28e36071542a24171f8dfa3d12eb84926": {
-        "title": "年轻人“抛弃”煌上煌？半年净闭店762家，徐桂芬家族2年分红上亿",
-        "link": "https://www.tmtpost.com/7661507.html",
-        "published_date": "Sat, 16 Aug 2025 11:33:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.007509"
-      },
-      "8d9a9cb73e472b1e8a1ed220471a11c6b292f143cb629c6ef960ff2bc79bef8a": {
-        "title": "没有“董宇辉们”，东方甄选又“行”了？",
-        "link": "https://www.tmtpost.com/7661500.html",
-        "published_date": "Sat, 16 Aug 2025 10:56:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.007766"
-      },
-      "4cc3fc4dadef864ffb928121bebec92decb674a10c2338262e6caec8c7d520f3": {
-        "title": "新茶饮老板：今年的外卖大战，无人怀念",
-        "link": "https://www.tmtpost.com/7661489.html",
-        "published_date": "Sat, 16 Aug 2025 10:56:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.008019"
-      },
-      "8b23538df32375849965c645f59ff11dec19d7e0fdafad7963e4054f1a93f9a0": {
-        "title": "这场外卖大战，活脱脱一部反智爽剧",
-        "link": "https://www.tmtpost.com/7661458.html",
-        "published_date": "Sat, 16 Aug 2025 10:55:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.008288"
-      },
-      "b361c18e4037ef1bdec8140d709d5b0c7ae4ed4263ee39aa5a8eafb8c656abc0": {
-        "title": "全民骑手时代，外卖不够送了",
-        "link": "https://www.tmtpost.com/7661446.html",
-        "published_date": "Sat, 16 Aug 2025 10:55:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372465"
-      },
-      "530bff454ccc1a38eafa49df44afb38ba1db346153d7db517855a5fa7a3cc4c7": {
-        "title": "寒武纪的“稀缺”真这么贵？",
-        "link": "https://www.tmtpost.com/7661437.html",
-        "published_date": "Sat, 16 Aug 2025 10:55:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372427"
-      },
-      "93e668e48a223b994946506c60902e0363e9eeb468ef53e8d0d0e3398b0fbd20": {
-        "title": "对话4K花园董事长吴懿：AI+5G重构万亿超高清产业",
-        "link": "https://www.tmtpost.com/7661434.html",
-        "published_date": "Sat, 16 Aug 2025 10:39:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372448"
-      },
-      "0998093e96344c9f64611e6d409f4b906668a129a1974358e4302c7fab016fd4": {
-        "title": "《浪浪山》请傅首尔参加观影会，怎么就惹出了大麻烦？",
-        "link": "https://www.tmtpost.com/7661395.html",
-        "published_date": "Sat, 16 Aug 2025 10:03:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.009816"
-      },
-      "3b7c13ae5625e6fd3eb1faeddb250b781a8dc2c92786555a6f86fc31e7e282a2": {
-        "title": "东方雨虹老板李卫国，为什么总是缺钱？",
-        "link": "https://www.tmtpost.com/7661361.html",
-        "published_date": "Sat, 16 Aug 2025 09:48:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.010242"
-      },
-      "57cc2c79c6463bbd8e27e87d629789399efad45e0b67bece419c9b23d3727925": {
-        "title": "7-ELEVEn便利店正在向“超级全品类”进化",
-        "link": "https://www.tmtpost.com/7661519.html",
-        "published_date": "Sat, 16 Aug 2025 09:48:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.010794"
-      },
-      "8c1a9ffd4f59d58d5a12886fb99b28cf3e9e7c30335d4e8a85ce65b2b5eb852f": {
-        "title": "1.2亿只猫狗，养得出多家上市公司，却养不出一家国民品牌",
-        "link": "https://www.tmtpost.com/7661462.html",
-        "published_date": "Sat, 16 Aug 2025 09:36:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.011491"
-      },
-      "c841e4f9834b1ae26984cd9b9f07c56233e51c3fa710ff2b0515cd6dc1614a9c": {
-        "title": "7月房价出炉：七月流火刚至，地产寒意渐深",
-        "link": "https://www.tmtpost.com/7661381.html",
-        "published_date": "Sat, 16 Aug 2025 09:11:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.012087"
-      },
-      "b55601815dc570f335a070d52a43d134357aac5d7a4a9068ea6e45598d98c9c2": {
-        "title": "LangChain推出开源异步编码智能体Open SWE",
-        "link": "https://www.infoq.cn/article/ucQtx67807qs9B4ig5IS?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 16 Aug 2025 12:00:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372356"
-      },
-      "1d17df5d3dd09095816d9c5390bc18ff4964cffdb02633dfad0f99ac77a898f8": {
-        "title": "HashiCorp推出适用于Terraform和Vault的MCP服务器",
-        "link": "https://www.infoq.cn/article/drfeIMmWTgz8eVw59Yc6?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 16 Aug 2025 10:00:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372376"
-      },
-      "3a332d41826b339e373cf9166a70d98d56ab1cafae1f8712fdbe9a7b2bf3c52d": {
-        "title": "AI 大模型混合架构驱动的金融产品创新实践｜AICon 深圳",
-        "link": "https://www.infoq.cn/article/yb8zzNEKD9wUbFJwqimp?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 16 Aug 2025 10:00:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372438"
-      },
-      "7e167f0abc48c2d5f889dfc327faadb6c33a28cf063e68b918667de261c4621d": {
-        "title": "亚马逊云科技通过ARC区域切换简化了多区域故障转移",
-        "link": "https://www.infoq.cn/article/3w4YiEQdJ21LDmXdSW5s?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 16 Aug 2025 08:00:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372388"
-      },
-      "61f394e67f71604cb3827b632a72ea0af4a5fd8e069476bbbd8e64e3f6b4ff92": {
-        "title": "Sam Altman：AI存在泡沫；宇树机器人夺金，王兴兴：用遥控追求极致速度；蔡浩宇AI游戏上架，27.19元｜极客早知道",
-        "link": "http://www.geekpark.net/news/352780",
-        "published_date": "Sat, 16 Aug 2025 08:16:00 GMT",
-        "first_seen": "2025-08-16T05:20:57.372404"
-      },
-      "62100ca81bea0b1da7baac1bf9ad8cbb55338ddd5e2ee4bc5af337b29ca3b14a": {
-        "title": "Laura Loomer and the limits of posting everything",
-        "link": "https://www.theverge.com/politics/760269/laura-loomer-deposition",
-        "published_date": "Fri, 15 Aug 2025 23:36:00 GMT",
-        "first_seen": "2025-08-16T05:20:35.018096"
-      },
       "df18a71c1af24afdfec94412eca43fc91a6d9465d987af8cd9b078647a76ee83": {
         "title": "东方甄选想成为东方山姆",
         "link": "https://www.tmtpost.com/7661752.html",
@@ -22712,27 +22610,69 @@
         "link": "http://www.geekpark.net/news/353937",
         "published_date": "Mon, 15 Sep 2025 08:19:00 GMT",
         "first_seen": "2025-09-15T05:20:39.676098"
+      },
+      "6e6eed09d34d91f294324188af383307c661c78372b82fa225b002a902e0847b": {
+        "title": "Hugging Face推出零代码数据集转换工具AI Sheets",
+        "link": "https://www.infoq.cn/article/aeVlJ86sBmJckRf8DG9X?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Sep 2025 15:30:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.469437"
+      },
+      "420288dd18c99b283b2c115419703f031037ff2d7ace746a45fdfaabb295fd17": {
+        "title": "研究发现，GitHub的“oops commits”中包含了数千条已泄露的秘密信息",
+        "link": "https://www.infoq.cn/article/jHweHFy8xgyCsFJWAIqd?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.469631"
+      },
+      "9d3d36486744eed9da6f9cdfcc12e0555acd46e1a7e427d9513a8d80bfdbe1a8": {
+        "title": "从被动存储到主动决策：AI如何驱动数据库与大数据智能进化",
+        "link": "https://www.infoq.cn/video/8SOET0sY3huapapqEMbK?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Sep 2025 14:56:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.469817"
+      },
+      "88924442e62b6a8edd4dc5c929faa5b4cf6e8f00e7a12699293d633d98614559": {
+        "title": "RAG管道架构的高效实践",
+        "link": "https://www.infoq.cn/article/Mk3Ngs9CTaPaRIZx31cl?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Sep 2025 14:30:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.469975"
+      },
+      "50b227cdc27557e89b52a268400452c66dc3ef6078926ce2addada6ef99def01": {
+        "title": "GitLab发布公测版的Duo Agent Platform，引入了基于Agent编排的DevSecOps",
+        "link": "https://www.infoq.cn/article/fDZfbOrKJ88WurxjKeJQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Sep 2025 13:48:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.470325"
+      },
+      "487a634f3caeb54bdcf4f98e940feb580ce5aa41f1edefa49a7bd2be02022428": {
+        "title": "法院“撑腰”，诬告零成本？详解成都地铁案五大“维权”要点",
+        "link": "http://www.huxiu.com/article/4767468.html?f=wangzhan",
+        "published_date": "Mon, 15 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.470675"
+      },
+      "760075e7a82a5d2dd3c736109e8f873d8f11d0c754611866c04c39087c2b5447": {
+        "title": "50万电车过保，修一次电池=加10年油？",
+        "link": "http://www.huxiu.com/article/4767883.html?f=wangzhan",
+        "published_date": "Mon, 15 Sep 2025 14:30:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.470962"
+      },
+      "6a7080c642f4f0e5f8ce2ea0327c9ad67b80a20346778f3dbcd55523a801858c": {
+        "title": "曾经的酸菜鱼霸主，开始爆改自救？",
+        "link": "http://www.huxiu.com/article/4767862.html?f=wangzhan",
+        "published_date": "Mon, 15 Sep 2025 12:55:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.471260"
+      },
+      "71c4aff10f8e3eadbffbf43bba2b5c93a2406a2c9662a58692551d57e4b6bbd3": {
+        "title": "为什么说现在所有的 AI Agent，都像 3D 打印机？｜AI 上新",
+        "link": "http://www.geekpark.net/news/353969",
+        "published_date": "Mon, 15 Sep 2025 14:34:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.471829"
+      },
+      "31a1e47089f371d6ba868ce49891d459730225d0c9c64c15b2dcb8e28b499094": {
+        "title": "Apple’s new iPhone charger is a first of its kind",
+        "link": "https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic",
+        "published_date": "Mon, 15 Sep 2025 08:14:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.472629"
       }
     },
     "Finance": {
-      "5a160cb7322f13220bc87d77b5387f2bc31fc9c193e6ba5f7239ff250b4750f4": {
-        "title": "Trump hints at higher semiconductor tariffs. How companies could dodge them.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8715694e-0bf8-41df-8787-fd7b58e38dbe&mod=mw_rss_bulletins",
-        "published_date": "Sat, 16 Aug 2025 02:23:00 GMT",
-        "first_seen": "2025-08-16T05:20:34.970731"
-      },
-      "1742ed122126db803bd438c35f7fdcbd8cf8f6a77d789dd2b2dcd22758006092": {
-        "title": "Why the Trump-Putin summit is no ‘magic lever’ to unleash global oil supplies",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=797bd0f4-e616-40e2-b0f6-590e752a9d84&mod=mw_rss_bulletins",
-        "published_date": "Sat, 16 Aug 2025 00:34:00 GMT",
-        "first_seen": "2025-08-16T05:20:34.971113"
-      },
-      "26a8c1bdda5e9d0db20ec018c7a4eba12e34a7419c7e4dfab65c1f7d50083192": {
-        "title": "Intel’s stock has best week in 25 years. But would Trump’s aid just be a waste?",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=94ac8de1-b22c-4a19-b756-c3739585b0d5&mod=mw_rss_bulletins",
-        "published_date": "Fri, 15 Aug 2025 23:58:00 GMT",
-        "first_seen": "2025-08-16T05:20:34.971566"
-      },
       "ee5f17cf609026cf9d94f34b0c65b670dc81901f0b9d60201d24e75ac80bca1f": {
         "title": "3 ways to make sure the ‘great wealth transfer’ enriches your family",
         "link": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
@@ -25732,12 +25672,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f9d52c7e-5cb1-4a9c-a5ad-13fd4f30c57f&mod=mw_rss_bulletins",
         "published_date": "Mon, 15 Sep 2025 01:01:00 GMT",
         "first_seen": "2025-09-15T05:21:28.442383"
+      },
+      "5dd653c2d244c6d35d6a558819bbc95cb022ae53a26936b6529209895ceb23f2": {
+        "title": "Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit",
+        "link": "https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Sep 2025 07:30:00 GMT",
+        "first_seen": "2025-09-15T08:27:32.585784"
       }
     }
   },
   "last_update": {
-    "AI": "2025-09-15T05:21:28.431612",
-    "Technology": "2025-09-15T05:20:39.711232",
-    "Finance": "2025-09-15T05:21:28.449116"
+    "AI": "2025-09-15T08:27:32.575418",
+    "Technology": "2025-09-15T08:27:32.497798",
+    "Finance": "2025-09-15T08:27:32.592216"
   }
 }
