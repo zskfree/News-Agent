@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Sep 2025 23:16:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2025 23:17:55 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 05:21:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全景呈现大模型开源技术路线和生态，蚂蚁开源在2025外滩大会发布全新报告</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-14-7</link>
-      <description>&lt;![CDATA[全景呈现大模型开源技术路线和生态，蚂蚁开源在2025外滩大会发布全新报告]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-14-7</guid>
+      <title>The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis</title>
+      <link>https://arxiv.org/abs/2509.10297</link>
+      <description>&lt;![CDATA[The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.10297</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一文看尽35万人围观的智博会</title>
-      <link>https://www.qbitai.com/2025/09/331501.html</link>
-      <description>&lt;![CDATA[一文看尽35万人围观的智博会]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331501.html</guid>
+      <title>现货来了！火出圈！钉钉首款AI硬件DingTalk A1正式开售</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-15</link>
+      <description>&lt;![CDATA[现货来了！火出圈！钉钉首款AI硬件DingTalk A1正式开售]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>机器人入职洗衣房，开始打工挣钱！苹果前AI高管打造</title>
-      <link>https://www.qbitai.com/2025/09/331484.html</link>
-      <description>&lt;![CDATA[机器人入职洗衣房，开始打工挣钱！苹果前AI高管打造]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331484.html</guid>
+      <title>从陪伴到巴甫洛夫的狗、再到尼亚加拉瀑布，一场贯穿AI与算力全景生态的“数字开物·奇点π对”亮相2025服贸会！</title>
+      <link>https://www.qbitai.com/2025/09/331545.html</link>
+      <description>&lt;![CDATA[从陪伴到巴甫洛夫的狗、再到尼亚加拉瀑布，一场贯穿AI与算力全景生态的“数字开物·奇点π对”亮相2025服贸会！]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 02:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331545.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科研学术，现在可以百度AI一下了</title>
-      <link>https://www.qbitai.com/2025/09/331407.html</link>
-      <description>&lt;![CDATA[科研学术，现在可以百度AI一下了]]&gt;</description>
-      <pubDate>Sun, 14 Sep 2025 09:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/331407.html</guid>
+      <title>Human-AI Collaboration Increases Efficiency in Regulatory Writing</title>
+      <link>https://arxiv.org/abs/2509.09738</link>
+      <description>&lt;![CDATA[Human-AI Collaboration Increases Efficiency in Regulatory Writing]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.09738</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How well can LLMs provide planning feedback in grounded environments?</title>
+      <link>https://arxiv.org/abs/2509.09790</link>
+      <description>&lt;![CDATA[How well can LLMs provide planning feedback in grounded environments?]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.09790</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Towards an AI-based knowledge assistant for goat farmers based on Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2509.09848</link>
+      <description>&lt;![CDATA[Towards an AI-based knowledge assistant for goat farmers based on Retrieval-Augmented Generation]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.09848</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LLMs as Agentic Cooperative Players in Multiplayer UNO</title>
+      <link>https://arxiv.org/abs/2509.09867</link>
+      <description>&lt;![CDATA[LLMs as Agentic Cooperative Players in Multiplayer UNO]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.09867</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The (R)evolution of Scientific Workflows in the Agentic AI Era: Towards Autonomous Science</title>
+      <link>https://arxiv.org/abs/2509.09915</link>
+      <description>&lt;![CDATA[The (R)evolution of Scientific Workflows in the Agentic AI Era: Towards Autonomous Science]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.09915</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Evaluation of Black-Box XAI Approaches for Predictors of Values of Boolean Formulae</title>
+      <link>https://arxiv.org/abs/2509.09982</link>
+      <description>&lt;![CDATA[Evaluation of Black-Box XAI Approaches for Predictors of Values of Boolean Formulae]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.09982</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI Harmonics: a human-centric and harms severity-adaptive AI risk assessment framework</title>
+      <link>https://arxiv.org/abs/2509.10104</link>
+      <description>&lt;![CDATA[AI Harmonics: a human-centric and harms severity-adaptive AI risk assessment framework]]&gt;</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.10104</guid>
       <category>AI</category>
     </item>
   </channel>
