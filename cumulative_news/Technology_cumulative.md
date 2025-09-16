@@ -1,7 +1,126 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-15 23:17
+**最后更新时间**: 2025-09-16 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-16 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [U.S. Cut Auto Tariffs on Japan to 15%, Starting Tuesday](https://www.tmtpost.com/7695385.html)
+**发布时间**: 2025-09-16 13:18
+
+#### [精致餐饮风潮之下，如何以“美食+”“线上化”实现飞跃式增长？](https://www.tmtpost.com/7695285.html)
+**发布时间**: 2025-09-16 12:25
+
+#### [Chinese Households Pull Cash From Banks as Savers Rotate Money Into Stock Market](https://www.tmtpost.com/7695286.html)
+**发布时间**: 2025-09-16 11:41
+
+#### [HydoTech Secures Major Global Investment to Expand Green Hydrogen Technology and Market Reach](https://www.tmtpost.com/7695257.html)
+**发布时间**: 2025-09-16 11:27
+
+#### [上线15天全球吸金900万刀，网易PVE新品情况如何？](https://www.tmtpost.com/7695031.html)
+**发布时间**: 2025-09-16 11:17
+
+#### [并购股权到手就质押贷款，这家“光伏银浆龙头”资金压力不是一般的大](https://www.tmtpost.com/7695065.html)
+**发布时间**: 2025-09-16 11:17
+
+#### [微软暗藏后门，只针对中国用户，意欲何为？](https://www.tmtpost.com/7695037.html)
+**发布时间**: 2025-09-16 11:15
+
+#### [亚马逊Q2财报：零售巨头真正的生意不在“卖货”？](https://www.tmtpost.com/7695169.html)
+**发布时间**: 2025-09-16 11:15
+
+#### [酒店餐饮有没有被预制菜拉下水？](https://www.tmtpost.com/7694989.html)
+**发布时间**: 2025-09-16 11:15
+
+#### [China Confirms Chinese and U.S. Officials Clinches a Framework Agreement on TikTok in Their Talks in Spain](https://www.tmtpost.com/7695219.html)
+**发布时间**: 2025-09-16 11:13
+
+#### [Safety and Scenario Adaptation Are Key to Unlocking Humanoid Robot Mass Production, Says DroidUp CEO](https://www.tmtpost.com/7695179.html)
+**发布时间**: 2025-09-16 10:56
+
+#### [西贝错过了为预制菜正名的良机](https://www.tmtpost.com/7695074.html)
+**发布时间**: 2025-09-16 10:44
+
+#### [宝藏玩法出圈，巨头入场半年狂赚3亿美元，它究竟香在哪？](https://www.tmtpost.com/7695079.html)
+**发布时间**: 2025-09-16 10:44
+
+#### [罗永浩帮西贝找回了一点“锅气”](https://www.tmtpost.com/7694918.html)
+**发布时间**: 2025-09-16 10:26
+
+#### [2025Q2鸡肉零食、瓜子类目品类洞察报告](https://www.tmtpost.com/7694945.html)
+**发布时间**: 2025-09-16 10:26
+
+#### [AI投资，走到哪了？](https://www.tmtpost.com/7694964.html)
+**发布时间**: 2025-09-16 10:26
+
+#### [账上仅剩1500多万，40余万车主等待哪吒汽车“重生”](https://www.tmtpost.com/7694776.html)
+**发布时间**: 2025-09-16 10:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [抢回 50% 的值班时间：字节跳动 SRE Agent 从 0 到 1 的降噪与排障实践｜QCon上海](https://www.infoq.cn/article/yATTwCXco4EaEeM4CNEm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 13:00
+
+#### [Cloudflare为影子AI风险评估提供了自动评分系统](https://www.infoq.cn/article/A77BpAfOpvBdg5azU9Cz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 12:00
+
+#### [腾讯汤道生：全面开放AI能力，助力产业增长](https://www.infoq.cn/article/SbsNj7SkqP8hA2Sit0xz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 11:20
+
+#### [Java近期新闻：OpenJDK、TornadoVM、Payara平台、Apache Kafka、Grails和Micronaut](https://www.infoq.cn/article/6EFYGjakh9qlT5sa7Y3c?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 11:15
+
+#### [Vercel为多模型集成推出AI网关](https://www.infoq.cn/article/OzrJ4Wa82yf9XNSKzA7h?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 11:06
+
+#### [GenAI 退烧后，这家企业正在用 “数据平台” 重构AI2B的底层逻辑](https://www.infoq.cn/article/iSVf9ogAYiRPkI32KQLF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 10:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [最新披露，骑手收入真实情况揭晓](http://www.geekpark.net/news/353997)
+**发布时间**: 2025-09-16 11:44
+
+#### [雷军：小米 17 全面对标 iPhone，罗永浩邀贾国龙直播；中美就 TikTok 达成基本共识｜极客早知道](http://www.geekpark.net/news/353986)
+**发布时间**: 2025-09-16 09:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [2025，你还折腾刷机吗？](https://sspai.com/post/102151)
+**发布时间**: 2025-09-16 11:31
+
+#### [派早报：魅族举办新品发布会，高通公布新移动平台并梳理产品代际等](https://sspai.com/post/102551)
+**发布时间**: 2025-09-16 08:16
+
+#### [看看八月大家通过  Quote/0 摘录发了啥？暨九月份活动启动](https://sspai.com/post/102458)
+**发布时间**: 2025-09-15 15:43
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [预制菜风波再升级，“网络黑社会”老罗正式宣战？](http://www.huxiu.com/article/4780217.html?f=wangzhan)
+**发布时间**: 2025-09-16 10:40
+
+#### [学会情绪沟通，品牌如何成为情绪的落脚点？](http://www.huxiu.com/article/4768016.html?f=wangzhan)
+**发布时间**: 2025-09-16 09:30
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How to Shop Like a Pro During Amazon Prime Day (2025)](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)
+**发布时间**: 2025-09-16 05:01
+
+#### [Lenovo Coupon Codes and Deals: $800+ Off](https://www.wired.com/story/lenovo-coupon-code/)
+**发布时间**: 2025-09-16 05:00
+
+#### [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
+**发布时间**: 2025-09-16 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Amazon’s next Prime Day sale is happening on October 7th](https://www.theverge.com/news/774151/amazon-october-prime-day-fall-dates-2025)
+**发布时间**: 2025-09-16 05:00
 
 ---
 

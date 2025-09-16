@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-15 23:17
+**最后更新时间**: 2025-09-16 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-16 05:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump administration orders Delta to unwind joint venture with Aeromexico](https://www.marketwatch.com/bulletins/redirect/go?g=2fa4dfe1-3080-45c7-89ad-d52f17287093&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 03:38
+
+#### [Miran set to vote at this week’s Fed meeting. Here’s what to expect on Wednesday](https://www.marketwatch.com/bulletins/redirect/go?g=578f7dd3-cce5-4340-b1ea-d57096361af8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 00:34
+
+#### [This long-shot move could get the 30-year mortgage rate to 5% next year](https://www.marketwatch.com/bulletins/redirect/go?g=bb57e640-c6e4-4dd4-869f-c5ca1c4b1484&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 23:58
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump administration orders Delta to unwind joint venture with Aeromexico](https://www.marketwatch.com/story/trump-administration-orders-delta-to-unwind-joint-venture-with-aeromexico-b5a8fba3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 03:36
+
+#### [Miran set to vote at this week’s Fed meeting. Here’s what to expect on Wednesday.](https://www.marketwatch.com/story/miran-set-to-vote-at-this-weeks-fed-meeting-heres-what-to-expect-on-wednesday-2639cf05?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 01:41
 
 ---
 

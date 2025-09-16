@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Sep 2025 23:16:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2025 23:18:07 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 05:20:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从「对口型」到「会表演」，刚进化的可灵AI数字人，技术公开了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-15-7</link>
-      <description>&lt;![CDATA[从「对口型」到「会表演」，刚进化的可灵AI数字人，技术公开了]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 20:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-7</guid>
+      <title>刚刚，OpenAI发布GPT-5-Codex：可独立工作超7小时，还能审查、重构大型项目</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-2</link>
+      <description>&lt;![CDATA[刚刚，OpenAI发布GPT-5-Codex：可独立工作超7小时，还能审查、重构大型项目]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>数字生活的原生入口：蚂蚁集团发布AI眼镜全新技术框架gPass</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-15-6</link>
-      <description>&lt;![CDATA[数字生活的原生入口：蚂蚁集团发布AI眼镜全新技术框架gPass]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 20:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-6</guid>
+      <title>每周7亿人都在如何用ChatGPT？OpenAI最全报告来了</title>
+      <link>https://www.qbitai.com/2025/09/332431.html</link>
+      <description>&lt;![CDATA[每周7亿人都在如何用ChatGPT？OpenAI最全报告来了]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 01:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332431.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenVision 2：大道至简的生成式预训练视觉编码器</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-15-5</link>
-      <description>&lt;![CDATA[OpenVision 2：大道至简的生成式预训练视觉编码器]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 20:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-15-5</guid>
+      <title>Understanding AI Evaluation Patterns: How Different GPT Models Assess Vision-Language Descriptions</title>
+      <link>https://arxiv.org/abs/2509.10707</link>
+      <description>&lt;![CDATA[Understanding AI Evaluation Patterns: How Different GPT Models Assess Vision-Language Descriptions]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.10707</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>32.99万起！2026款岚图梦想家正式上市，充电5分钟续航百公里</title>
-      <link>https://www.qbitai.com/2025/09/332420.html</link>
-      <description>&lt;![CDATA[32.99万起！2026款岚图梦想家正式上市，充电5分钟续航百公里]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332420.html</guid>
+      <title>Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding</title>
+      <link>https://arxiv.org/abs/2509.10931</link>
+      <description>&lt;![CDATA[Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.10931</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: computing’s bright young minds, and cleaning up satellite streaks</title>
-      <link>https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/</link>
-      <description>&lt;![CDATA[The Download: computing’s bright young minds, and cleaning up satellite streaks]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/</guid>
+      <title>LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering</title>
+      <link>https://arxiv.org/abs/2509.10818</link>
+      <description>&lt;![CDATA[LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.10818</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Machine-learning tool gives doctors a more detailed 3D picture of fetal health</title>
-      <link>https://news.mit.edu/2025/machine-learning-tool-gives-doctors-more-detailed-3d-picture-fetal-health-0915</link>
-      <description>&lt;![CDATA[Machine-learning tool gives doctors a more detailed 3D picture of fetal health]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/machine-learning-tool-gives-doctors-more-detailed-3d-picture-fetal-health-0915</guid>
+      <title>多模态BUG修复新SOTA：慕尼黑工大GUIRepair登上SWE-bench Multimodal榜单第一</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16</link>
+      <description>&lt;![CDATA[多模态BUG修复新SOTA：慕尼黑工大GUIRepair登上SWE-bench Multimodal榜单第一]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>宇树：开源机器人世界大模型！</title>
+      <link>https://www.qbitai.com/2025/09/332582.html</link>
+      <description>&lt;![CDATA[宇树：开源机器人世界大模型！]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 04:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332582.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克的最快AI模型来了</title>
+      <link>https://www.qbitai.com/2025/09/332546.html</link>
+      <description>&lt;![CDATA[马斯克的最快AI模型来了]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 03:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332546.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>首款激光雷达合资混动轿车！全球首发Momenta R6飞轮大模型，首创不停车一键泊入</title>
+      <link>https://www.qbitai.com/2025/09/332438.html</link>
+      <description>&lt;![CDATA[首款激光雷达合资混动轿车！全球首发Momenta R6飞轮大模型，首创不停车一键泊入]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 01:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332438.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ZapGPT: Free-form Language Prompting for Simulated Cellular Control</title>
+      <link>https://arxiv.org/abs/2509.10660</link>
+      <description>&lt;![CDATA[ZapGPT: Free-form Language Prompting for Simulated Cellular Control]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.10660</guid>
       <category>AI</category>
     </item>
   </channel>
