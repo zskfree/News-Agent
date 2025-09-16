@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-16 08:27
+**最后更新时间**: 2025-09-16 23:14
+
+---
+
+## 🆕 最新更新 (2025-09-16 23:14)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [高阶程序，让AI从技术可行到商业可信的最后一公里](https://www.jiqizhixin.com/articles/2025-09-16-13)
+**发布时间**: 2025-09-16 21:18
+
+#### [网络顶会获奖！华为提出端网协同RDMA传输架构，解决大规模AI集群网络可扩展性问题](https://www.jiqizhixin.com/articles/2025-09-16-12)
+**发布时间**: 2025-09-16 21:06
+
+#### [具身智能能力狂飙，安全却严重滞后？首个安全可信EAI框架与路线图出炉！](https://www.jiqizhixin.com/articles/2025-09-16-11)
+**发布时间**: 2025-09-16 21:00
+
+#### [火山引擎发布PromptPilot，推动大模型应用高效落地](https://www.jiqizhixin.com/articles/2025-09-16-10)
+**发布时间**: 2025-09-16 16:52
+
+#### [在「外滩大会·具身智能：从泛化到行动，重塑产业未来」上，这些大牛都说了什么？](https://www.jiqizhixin.com/articles/2025-09-16-9)
+**发布时间**: 2025-09-16 16:44
+
+#### [旗舰手机、AI 拍摄眼镜、Flyme ，魅族 22 「归航」终极生态](https://www.jiqizhixin.com/articles/2025-09-15-24)
+**发布时间**: 2025-09-15 19:04
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Learn Your Way: Reimagining textbooks with generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
+**发布时间**: 2025-09-16 17:01
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [De-risking investment in AI agents](https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/)
+**发布时间**: 2025-09-16 13:00
+
+#### [The Download: regulators are coming for AI companions, and meet our Innovator of 2025](https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/)
+**发布时间**: 2025-09-16 12:10
+
+#### [The looming crackdown on AI companionship](https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/)
+**发布时间**: 2025-09-16 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [人工智能计算大会将于9月26日在京举行](https://www.qbitai.com/2025/09/332819.html)
+**发布时间**: 2025-09-16 12:01
+
+#### [2025大模型服务性能排行榜：PPIO吞吐测试排名第一](https://www.qbitai.com/2025/09/332814.html)
+**发布时间**: 2025-09-16 09:23
+
+#### [腾讯汤道生：打造智能化、全球化双引擎，助力企业稳增长](https://www.qbitai.com/2025/09/332799.html)
+**发布时间**: 2025-09-16 08:13
+
+#### [首次人体实验成功！基因编辑胰岛细胞“隐身”植入，可正常分泌胰岛素](https://www.qbitai.com/2025/09/332778.html)
+**发布时间**: 2025-09-16 07:59
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How to build AI scaling laws for efficient LLM training and budget maximization](https://news.mit.edu/2025/how-build-ai-scaling-laws-efficient-llm-training-budget-maximization-0916)
+**发布时间**: 2025-09-16 11:00
 
 ---
 

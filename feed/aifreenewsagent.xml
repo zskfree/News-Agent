@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 08:28:30 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 23:14:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 23:16:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国内首个！夸克公开覆盖全阶段医师考试的健康大模型测试集</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-8</link>
-      <description>&lt;![CDATA[国内首个！夸克公开覆盖全阶段医师考试的健康大模型测试集]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 15:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-8</guid>
+      <title>How to build AI scaling laws for efficient LLM training and budget maximization</title>
+      <link>https://news.mit.edu/2025/how-build-ai-scaling-laws-efficient-llm-training-budget-maximization-0916</link>
+      <description>&lt;![CDATA[How to build AI scaling laws for efficient LLM training and budget maximization]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/how-build-ai-scaling-laws-efficient-llm-training-budget-maximization-0916</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Kiro 发布智能代理与全新定价，助力开发者高效构建 AI 应用</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-7</link>
-      <description>&lt;![CDATA[Kiro 发布智能代理与全新定价，助力开发者高效构建 AI 应用]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-7</guid>
+      <title>高阶程序，让AI从技术可行到商业可信的最后一公里</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-13</link>
+      <description>&lt;![CDATA[高阶程序，让AI从技术可行到商业可信的最后一公里]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 21:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁百灵开源轻量级MoE语言模型Ling-mini-2.0，1.4B激活性能比肩大规模模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-6</link>
-      <description>&lt;![CDATA[蚂蚁百灵开源轻量级MoE语言模型Ling-mini-2.0，1.4B激活性能比肩大规模模型]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-6</guid>
+      <title>网络顶会获奖！华为提出端网协同RDMA传输架构，解决大规模AI集群网络可扩展性问题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-12</link>
+      <description>&lt;![CDATA[网络顶会获奖！华为提出端网协同RDMA传输架构，解决大规模AI集群网络可扩展性问题]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 21:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>浙大侯廷军团队联合IIT等发布系统综述：全景解析机器学习加持下的「增强采样」方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-5</link>
-      <description>&lt;![CDATA[浙大侯廷军团队联合IIT等发布系统综述：全景解析机器学习加持下的「增强采样」方法]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-5</guid>
+      <title>具身智能能力狂飙，安全却严重滞后？首个安全可信EAI框架与路线图出炉！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-11</link>
+      <description>&lt;![CDATA[具身智能能力狂飙，安全却严重滞后？首个安全可信EAI框架与路线图出炉！]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-4</link>
-      <description>&lt;![CDATA[谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-4</guid>
+      <title>火山引擎发布PromptPilot，推动大模型应用高效落地</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-10</link>
+      <description>&lt;![CDATA[火山引擎发布PromptPilot，推动大模型应用高效落地]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从少样本到千样本！MachineLearningLM给大模型上下文学习装上「机器学习引擎」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-3</link>
-      <description>&lt;![CDATA[从少样本到千样本！MachineLearningLM给大模型上下文学习装上「机器学习引擎」]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-3</guid>
+      <title>Learn Your Way: Reimagining textbooks with generative AI</title>
+      <link>https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/</link>
+      <description>&lt;![CDATA[Learn Your Way: Reimagining textbooks with generative AI]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>魅族AI眼镜1999元起售：拍照翻译付款全都会，39g重</title>
-      <link>https://www.qbitai.com/2025/09/332724.html</link>
-      <description>&lt;![CDATA[魅族AI眼镜1999元起售：拍照翻译付款全都会，39g重]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 07:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332724.html</guid>
+      <title>De-risking investment in AI agents</title>
+      <link>https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/</link>
+      <description>&lt;![CDATA[De-risking investment in AI agents]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌DeepMind：AI独立创造价值的经济层正在形成</title>
-      <link>https://www.qbitai.com/2025/09/332708.html</link>
-      <description>&lt;![CDATA[谷歌DeepMind：AI独立创造价值的经济层正在形成]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 06:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332708.html</guid>
+      <title>The Download: regulators are coming for AI companions, and meet our Innovator of 2025</title>
+      <link>https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/</link>
+      <description>&lt;![CDATA[The Download: regulators are coming for AI companions, and meet our Innovator of 2025]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The looming crackdown on AI companionship</title>
+      <link>https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/</link>
+      <description>&lt;![CDATA[The looming crackdown on AI companionship]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>人工智能计算大会将于9月26日在京举行</title>
+      <link>https://www.qbitai.com/2025/09/332819.html</link>
+      <description>&lt;![CDATA[人工智能计算大会将于9月26日在京举行]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332819.html</guid>
       <category>AI</category>
     </item>
   </channel>

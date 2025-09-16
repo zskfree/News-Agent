@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-16 08:27
+**最后更新时间**: 2025-09-16 23:14
+
+---
+
+## 🆕 最新更新 (2025-09-16 23:14)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s a mess’: My unmarried friends bought a house together. What’s the best way for one to buy the other out?](https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 23:13
+
+#### [‘I am my mother’s caregiver’: My mom, 93, added my name to her retirement accounts. Will she qualify for Medicaid?](https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 23:02
+
+#### [Markets are pricing in three rate cuts by year-end. Here’s where to put your money.](https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:47
+
+#### [Why the Fed’s rate cut might not boost the economy](https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:29
+
+#### [What stocks may need to rise in ‘a market for only the most bright-eyed optimists’](https://www.marketwatch.com/story/what-stocks-may-need-to-rise-in-a-market-for-only-the-most-bright-eyed-optimists-eda86071?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:23
+
+#### [Does Palantir face a new threat from Salesforce? Software giants clash over lucrative government contracts.](https://www.marketwatch.com/story/does-palantir-face-a-new-threat-from-salesforce-software-giants-clash-over-lucrative-government-contracts-22ccef39?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:10
+
+#### [The end of ‘de minimis’ has hit Temu and Shein. Now it’s a problem for bigger companies like FedEx.](https://www.marketwatch.com/story/the-end-of-de-minimis-has-hit-temu-and-shein-now-its-a-problem-for-bigger-companies-like-fedex-e91f9016?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 21:35
+
+#### [StubHub’s stock starts trading Wednesday. The IPO is a bet on the polarizing practice of ticket resale.](https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 21:10
+
+#### [Investors are in for a wild week — and the Fed meeting is just the beginning](https://www.marketwatch.com/story/investors-are-in-for-a-wild-week-and-the-fed-meeting-is-just-the-beginning-1ac815fe?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 21:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Salesforce ramps up rivalry with Palantir with eye on government contracts](https://www.marketwatch.com/bulletins/redirect/go?g=783d2c0a-2444-4028-9625-32a5b1fc67fb&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 22:41
+
+#### [Investors are in for a wild week — and the Fed meeting is just the beginning](https://www.marketwatch.com/bulletins/redirect/go?g=d3830682-8eaf-48cf-8ca2-fb5083cf2e6c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 21:39
+
+#### [Could your employer take away your 401(k) match? Sherwin-Williams just did it.](https://www.marketwatch.com/bulletins/redirect/go?g=1de775c2-2667-4bc9-91c5-b6cbb78020d7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 20:39
+
+#### [Dow, S&P 500 and Nasdaq all close lower as investors await Fed’s rate decision](https://www.marketwatch.com/bulletins/redirect/go?g=23a6816d-f33b-4d94-aa54-60c303627d29&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 20:02
+
+#### [Dow slipping, S&P and Nasdaq struggle for gains ahead of Fed decision — live](https://www.marketwatch.com/bulletins/redirect/go?g=5d7d1bde-6d1a-47d5-b27f-289e3bd87092&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 19:03
+
+#### [Investors on high alert for any signs of political interference in Fed decision](https://www.marketwatch.com/bulletins/redirect/go?g=ea054e07-ba0d-4a0f-9dbc-add6f4999e51&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 18:32
+
+#### [How Apple and its stock can still emerge as AI winners](https://www.marketwatch.com/bulletins/redirect/go?g=1b64d12c-aee4-4517-8f2d-14530f4b3541&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 17:23
+
+#### [Builders haven’t cut home prices like this in years. Will Fed come to rescue?](https://www.marketwatch.com/bulletins/redirect/go?g=4fb07a30-2592-44e2-8561-6427ddd91182&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 17:07
+
+#### [Oracle’s stock higher amid speculation about prospective role in a TikTok deal](https://www.marketwatch.com/bulletins/redirect/go?g=da9f17d6-e643-4bcc-9308-5e228745d8ff&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 16:36
+
+#### [How Robert Redford and Sundance transformed the business of Hollywood](https://www.marketwatch.com/bulletins/redirect/go?g=37dc4e6d-2480-49aa-b74f-5fe6d56b535a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 15:55
 
 ---
 

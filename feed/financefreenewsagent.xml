@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 08:28:30 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 23:14:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 23:17:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize</title>
-      <link>https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 07:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories</guid>
+      <title>StubHub’s stock starts trading Wednesday. The IPO is a bet on the polarizing practice of ticket resale.</title>
+      <link>https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[StubHub’s stock starts trading Wednesday. The IPO is a bet on the polarizing practice of ticket resale.]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Markets are pricing in three rate cuts by year-end. Here’s where to put your money.</title>
+      <link>https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Markets are pricing in three rate cuts by year-end. Here’s where to put your money.]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 22:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the Fed’s rate cut might not boost the economy</title>
+      <link>https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why the Fed’s rate cut might not boost the economy]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 22:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What stocks may need to rise in ‘a market for only the most bright-eyed optimists’</title>
+      <link>https://www.marketwatch.com/story/what-stocks-may-need-to-rise-in-a-market-for-only-the-most-bright-eyed-optimists-eda86071?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[What stocks may need to rise in ‘a market for only the most bright-eyed optimists’]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 22:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/what-stocks-may-need-to-rise-in-a-market-for-only-the-most-bright-eyed-optimists-eda86071?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The end of ‘de minimis’ has hit Temu and Shein. Now it’s a problem for bigger companies like FedEx.</title>
+      <link>https://www.marketwatch.com/story/the-end-of-de-minimis-has-hit-temu-and-shein-now-its-a-problem-for-bigger-companies-like-fedex-e91f9016?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The end of ‘de minimis’ has hit Temu and Shein. Now it’s a problem for bigger companies like FedEx.]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-end-of-de-minimis-has-hit-temu-and-shein-now-its-a-problem-for-bigger-companies-like-fedex-e91f9016?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors are in for a wild week — and the Fed meeting is just the beginning</title>
+      <link>https://www.marketwatch.com/story/investors-are-in-for-a-wild-week-and-the-fed-meeting-is-just-the-beginning-1ac815fe?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors are in for a wild week — and the Fed meeting is just the beginning]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-are-in-for-a-wild-week-and-the-fed-meeting-is-just-the-beginning-1ac815fe?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Salesforce ramps up rivalry with Palantir with eye on government contracts</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=783d2c0a-2444-4028-9625-32a5b1fc67fb&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Salesforce ramps up rivalry with Palantir with eye on government contracts]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 22:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=783d2c0a-2444-4028-9625-32a5b1fc67fb&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Could your employer take away your 401(k) match? Sherwin-Williams just did it.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=1de775c2-2667-4bc9-91c5-b6cbb78020d7&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Could your employer take away your 401(k) match? Sherwin-Williams just did it.]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=1de775c2-2667-4bc9-91c5-b6cbb78020d7&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dow, S&amp;P 500 and Nasdaq all close lower as investors await Fed’s rate decision</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=23a6816d-f33b-4d94-aa54-60c303627d29&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Dow, S&amp;P 500 and Nasdaq all close lower as investors await Fed’s rate decision]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 20:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=23a6816d-f33b-4d94-aa54-60c303627d29&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dow slipping, S&amp;P and Nasdaq struggle for gains ahead of Fed decision — live</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=5d7d1bde-6d1a-47d5-b27f-289e3bd87092&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Dow slipping, S&amp;P and Nasdaq struggle for gains ahead of Fed decision — live]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=5d7d1bde-6d1a-47d5-b27f-289e3bd87092&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

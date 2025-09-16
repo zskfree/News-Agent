@@ -1,7 +1,186 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-16 08:27
+**最后更新时间**: 2025-09-16 23:14
+
+---
+
+## 🆕 最新更新 (2025-09-16 23:14)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem)
+**发布时间**: 2025-09-16 22:08
+
+#### [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens)
+**发布时间**: 2025-09-16 20:36
+
+#### [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator)
+**发布时间**: 2025-09-16 20:02
+
+#### [Consumer Reports asks Microsoft to keep supporting Windows 10](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft)
+**发布时间**: 2025-09-16 19:49
+
+#### [Microsoft trumps Google with $30 billion investment in the UK](https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer)
+**发布时间**: 2025-09-16 19:30
+
+#### [Waymo gets green light for airport service in San Francisco](https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi)
+**发布时间**: 2025-09-16 18:18
+
+#### [Wyze’s new palm-scanning door lock has a second, backup battery](https://www.theverge.com/news/779046/wyze-palm-scanning-door-smart-lock)
+**发布时间**: 2025-09-16 18:14
+
+#### [The right wing is creating a society of snitches](https://www.theverge.com/policy/778972/right-wing-harassment-firings-charlie-kirk)
+**发布时间**: 2025-09-16 18:00
+
+#### [Tesla under investigation for door handles that trap people inside](https://www.theverge.com/news/778980/tesla-nhtsa-investigation-door-handles-trap)
+**发布时间**: 2025-09-16 17:12
+
+#### [Google&#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)
+**发布时间**: 2025-09-16 16:32
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [瑞尔竞达的三个异常：业绩与同行相悖、产能产量与耗电矛盾、低研发却有高毛利｜IPO观察](https://www.tmtpost.com/7689053.html)
+**发布时间**: 2025-09-16 21:52
+
+#### [听力熊：让1亿10后拥有“随身智能体”丨创新场景](https://www.tmtpost.com/7695594.html)
+**发布时间**: 2025-09-16 21:25
+
+#### [新大航海时代，车企出海的“云”选择丨创新场景](https://www.tmtpost.com/7695801.html)
+**发布时间**: 2025-09-16 21:24
+
+#### [元空智能：AI 工具创业，如何抓住新时代的出海机遇丨创新场景](https://www.tmtpost.com/7695573.html)
+**发布时间**: 2025-09-16 20:24
+
+#### [闪极科技人事“大地震”，AI眼镜产销成谜](https://www.tmtpost.com/7695253.html)
+**发布时间**: 2025-09-16 19:06
+
+#### [内卷下的零食量贩：万辰225亿营收背后，加盟商的回本“生死线”](https://www.tmtpost.com/7695839.html)
+**发布时间**: 2025-09-16 19:06
+
+#### [液态奶不振，奶粉奶酪“小而美”，乳企们延续「难熬的一年」？](https://www.tmtpost.com/7696061.html)
+**发布时间**: 2025-09-16 19:06
+
+#### [阿里难舍本地生活](https://www.tmtpost.com/7696120.html)
+**发布时间**: 2025-09-16 19:05
+
+#### [塑新科技完成数千万元pre-A轮融资，金鼎资本领投](https://www.tmtpost.com/7696184.html)
+**发布时间**: 2025-09-16 19:05
+
+#### [汽车行业如此卷，为什么还有新人要进来？](https://www.tmtpost.com/7696006.html)
+**发布时间**: 2025-09-16 18:54
+
+#### [台积电、三星3nm之争，再现工艺突破的制胜法宝](https://www.tmtpost.com/7696084.html)
+**发布时间**: 2025-09-16 18:54
+
+#### [从《南方公园》到《伟大的安巴逊》，这个AI平台正在"偷走"整个好莱坞](https://www.tmtpost.com/7695921.html)
+**发布时间**: 2025-09-16 18:54
+
+#### [雷军预判了苹果的所有预判](https://www.tmtpost.com/7695944.html)
+**发布时间**: 2025-09-16 18:53
+
+#### [增程车“移情”大电池](https://www.tmtpost.com/7695993.html)
+**发布时间**: 2025-09-16 18:53
+
+#### [雅迪：下山路上，如何向对手学习](https://www.tmtpost.com/7696022.html)
+**发布时间**: 2025-09-16 18:44
+
+#### [月入2万的“吃货”，吃爆“苍蝇馆子”](https://www.tmtpost.com/7696040.html)
+**发布时间**: 2025-09-16 18:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [US Tech Giants Race to Spend Billions in UK AI Push](https://www.wired.com/story/microsoft-nvidia-uk-investment-trump/)
+**发布时间**: 2025-09-16 21:30
+
+#### [OpenAI's Teen Safety Features Will Walk a Thin Line](https://www.wired.com/story/openai-launches-teen-safety-features/)
+**发布时间**: 2025-09-16 20:53
+
+#### [The 50 Best Shows on Hulu Right Now (September 2025)](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+**发布时间**: 2025-09-16 19:00
+
+#### [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)
+**发布时间**: 2025-09-16 18:53
+
+#### ['Baby Steps' Is a Hiking Game That Trolls ‘Slightly Problematic’ Men](https://www.wired.com/story/baby-steps-is-a-hiking-game-that-trolls-slightly-problematic-men/)
+**发布时间**: 2025-09-16 17:57
+
+#### [A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users](https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/)
+**发布时间**: 2025-09-16 17:07
+
+#### [How to Set Up and Use a Burner Phone](https://www.wired.com/story/how-to-set-up-use-burner-phone/)
+**发布时间**: 2025-09-16 15:44
+
+#### [5 Best VPN Services (2025), Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
+**发布时间**: 2025-09-16 14:00
+
+#### [How to Clean AirPods (and Other Earbuds)](https://www.wired.com/story/how-to-clean-earbuds-and-airpods/)
+**发布时间**: 2025-09-16 13:36
+
+#### [The Best Ventless Fireplaces for Cozy Vibes (2025)](https://www.wired.com/gallery/the-best-ventless-fireplaces/)
+**发布时间**: 2025-09-16 13:02
+
+#### [Apple Watch Series 11 Review: Finally, the Watch Lives Longer](https://www.wired.com/review/apple-watch-series-11/)
+**发布时间**: 2025-09-16 12:00
+
+#### [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)
+**发布时间**: 2025-09-16 10:30
+
+#### [Matthew Prince Wants AI Companies to Pay for Their Sins](https://www.wired.com/story/big-interview-podcast-matthew-prince-cloudflare/)
+**发布时间**: 2025-09-16 10:00
+
+#### [One Vigilante, 22 Cell Tower Fires, and a World of Conspiracies](https://www.wired.com/story/22-cell-towers-one-vigilante-world-of-conspiracies/)
+**发布时间**: 2025-09-16 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [在端侧 AI 时代正式到来之前，联想想先做好硬件「杀手锏」](http://www.geekpark.net/news/354022)
+**发布时间**: 2025-09-16 19:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake AI+数据2025年十大预测（上） | 技术趋势](https://www.infoq.cn/article/cZxpls7T7XHJRlYGUJCP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 18:48
+
+#### [OpenAI与微软分成曝新料！这家印度老厂哭晕：10年前白捐了10亿美元](https://www.infoq.cn/article/0mAZfyw81M13lofkh7v5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 18:47
+
+#### [枫清科技高雪峰：亲历几次技术变革后，我洞察到了企业全域智能化的五大驱动力](https://www.infoq.cn/article/VWu0Acm7e9lDdAd9WMr5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 18:35
+
+#### [三个华人在美国搞机器人，黄仁勋砸大笔投资，公司半年估值狂翻 6 倍](https://www.infoq.cn/article/OV2CJ2usOJpDOWjpLyQI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 18:28
+
+#### [【AI 技术周-第五期】解码AI时代的实时交互秘籍：万物互联，实时互动](https://www.infoq.cn/video/2k0OtvTEeH6FdvvNoZCU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 18:24
+
+#### [Snowflake 中的数据概况：在清理之前发现数据中的混乱 | 技术实践](https://www.infoq.cn/article/upLDzpbVasJ4iUBlNSBZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 17:57
+
+#### [直击3D内容创作痛点-火山引擎多媒体实验室首次主持 SIGGRAPH Workshop，用前沿技术降低沉浸式内容生成门槛](https://www.infoq.cn/article/0qj3fRV4c8RsCSJUUBcv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 17:20
+
+#### [火山引擎多媒体实验室重要突破！LiveGS 技术登榜 SIGGRAPH，重新定义移动端自由视角视频直播](https://www.infoq.cn/article/jOoJWK4VtDftuVHTCpMM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 17:19
+
+#### [逆向工程不再慢吞吞，Thoughtworks 仅 3 周还原功能蓝图](https://www.infoq.cn/article/3H3BXw77bMhkFFu3ey07?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 17:17
+
+#### [OpenAI发布新模型硬刚Anthropic！Claude Code刚火，就被GPT-5-Codex拍在沙滩上？](https://www.infoq.cn/article/sbVk1yctfb7R9dgylvhy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 16:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一线城市压力大，县城又没机会？不如看看这些二线城市……](http://www.huxiu.com/article/4780370.html?f=wangzhan)
+**发布时间**: 2025-09-16 18:00
+
+#### [零跑造了辆让我既陌生又熟悉的车？](http://www.huxiu.com/article/4767746.html?f=wangzhan)
+**发布时间**: 2025-09-16 15:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 110 | 派友们都用什么开机工具，以及尝尝「老罗泡面」](https://sspai.com/post/102570)
+**发布时间**: 2025-09-16 17:02
 
 ---
 
