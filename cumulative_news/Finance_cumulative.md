@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-16 05:19
+**最后更新时间**: 2025-09-16 08:27
+
+---
+
+## 🆕 最新更新 (2025-09-16 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize](https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 07:43
 
 ---
 

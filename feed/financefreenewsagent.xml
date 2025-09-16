@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 05:20:48 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 08:28:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump administration orders Delta to unwind joint venture with Aeromexico</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=2fa4dfe1-3080-45c7-89ad-d52f17287093&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Trump administration orders Delta to unwind joint venture with Aeromexico]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 03:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=2fa4dfe1-3080-45c7-89ad-d52f17287093&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Miran set to vote at this week’s Fed meeting. Here’s what to expect on Wednesday</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=578f7dd3-cce5-4340-b1ea-d57096361af8&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Miran set to vote at this week’s Fed meeting. Here’s what to expect on Wednesday]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 00:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=578f7dd3-cce5-4340-b1ea-d57096361af8&amp;mod=mw_rss_bulletins</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>This long-shot move could get the 30-year mortgage rate to 5% next year</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=bb57e640-c6e4-4dd4-869f-c5ca1c4b1484&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[This long-shot move could get the 30-year mortgage rate to 5% next year]]&gt;</description>
-      <pubDate>Mon, 15 Sep 2025 23:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=bb57e640-c6e4-4dd4-869f-c5ca1c4b1484&amp;mod=mw_rss_bulletins</guid>
+      <title>This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize</title>
+      <link>https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 07:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

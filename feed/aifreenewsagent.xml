@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 05:20:48 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 08:28:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI发布GPT-5-Codex：可独立工作超7小时，还能审查、重构大型项目</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16-2</link>
-      <description>&lt;![CDATA[刚刚，OpenAI发布GPT-5-Codex：可独立工作超7小时，还能审查、重构大型项目]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-2</guid>
+      <title>国内首个！夸克公开覆盖全阶段医师考试的健康大模型测试集</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-8</link>
+      <description>&lt;![CDATA[国内首个！夸克公开覆盖全阶段医师考试的健康大模型测试集]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>每周7亿人都在如何用ChatGPT？OpenAI最全报告来了</title>
-      <link>https://www.qbitai.com/2025/09/332431.html</link>
-      <description>&lt;![CDATA[每周7亿人都在如何用ChatGPT？OpenAI最全报告来了]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332431.html</guid>
+      <title>Kiro 发布智能代理与全新定价，助力开发者高效构建 AI 应用</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-7</link>
+      <description>&lt;![CDATA[Kiro 发布智能代理与全新定价，助力开发者高效构建 AI 应用]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Understanding AI Evaluation Patterns: How Different GPT Models Assess Vision-Language Descriptions</title>
-      <link>https://arxiv.org/abs/2509.10707</link>
-      <description>&lt;![CDATA[Understanding AI Evaluation Patterns: How Different GPT Models Assess Vision-Language Descriptions]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.10707</guid>
+      <title>蚂蚁百灵开源轻量级MoE语言模型Ling-mini-2.0，1.4B激活性能比肩大规模模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-6</link>
+      <description>&lt;![CDATA[蚂蚁百灵开源轻量级MoE语言模型Ling-mini-2.0，1.4B激活性能比肩大规模模型]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding</title>
-      <link>https://arxiv.org/abs/2509.10931</link>
-      <description>&lt;![CDATA[Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.10931</guid>
+      <title>浙大侯廷军团队联合IIT等发布系统综述：全景解析机器学习加持下的「增强采样」方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-5</link>
+      <description>&lt;![CDATA[浙大侯廷军团队联合IIT等发布系统综述：全景解析机器学习加持下的「增强采样」方法]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering</title>
-      <link>https://arxiv.org/abs/2509.10818</link>
-      <description>&lt;![CDATA[LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.10818</guid>
+      <title>谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-4</link>
+      <description>&lt;![CDATA[谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>多模态BUG修复新SOTA：慕尼黑工大GUIRepair登上SWE-bench Multimodal榜单第一</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-16</link>
-      <description>&lt;![CDATA[多模态BUG修复新SOTA：慕尼黑工大GUIRepair登上SWE-bench Multimodal榜单第一]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16</guid>
+      <title>从少样本到千样本！MachineLearningLM给大模型上下文学习装上「机器学习引擎」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-16-3</link>
+      <description>&lt;![CDATA[从少样本到千样本！MachineLearningLM给大模型上下文学习装上「机器学习引擎」]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-16-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>宇树：开源机器人世界大模型！</title>
-      <link>https://www.qbitai.com/2025/09/332582.html</link>
-      <description>&lt;![CDATA[宇树：开源机器人世界大模型！]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 04:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332582.html</guid>
+      <title>魅族AI眼镜1999元起售：拍照翻译付款全都会，39g重</title>
+      <link>https://www.qbitai.com/2025/09/332724.html</link>
+      <description>&lt;![CDATA[魅族AI眼镜1999元起售：拍照翻译付款全都会，39g重]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332724.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克的最快AI模型来了</title>
-      <link>https://www.qbitai.com/2025/09/332546.html</link>
-      <description>&lt;![CDATA[马斯克的最快AI模型来了]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332546.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>首款激光雷达合资混动轿车！全球首发Momenta R6飞轮大模型，首创不停车一键泊入</title>
-      <link>https://www.qbitai.com/2025/09/332438.html</link>
-      <description>&lt;![CDATA[首款激光雷达合资混动轿车！全球首发Momenta R6飞轮大模型，首创不停车一键泊入]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 01:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332438.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ZapGPT: Free-form Language Prompting for Simulated Cellular Control</title>
-      <link>https://arxiv.org/abs/2509.10660</link>
-      <description>&lt;![CDATA[ZapGPT: Free-form Language Prompting for Simulated Cellular Control]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.10660</guid>
+      <title>谷歌DeepMind：AI独立创造价值的经济层正在形成</title>
+      <link>https://www.qbitai.com/2025/09/332708.html</link>
+      <description>&lt;![CDATA[谷歌DeepMind：AI独立创造价值的经济层正在形成]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 06:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332708.html</guid>
       <category>AI</category>
     </item>
   </channel>

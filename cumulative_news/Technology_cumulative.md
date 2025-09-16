@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-16 05:19
+**最后更新时间**: 2025-09-16 08:27
+
+---
+
+## 🆕 最新更新 (2025-09-16 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [方建华：“合肥模式”还是“合肥现象”？](https://www.tmtpost.com/7695542.html)
+**发布时间**: 2025-09-16 16:22
+
+#### [看不见的需求](https://www.tmtpost.com/7695549.html)
+**发布时间**: 2025-09-16 16:22
+
+#### [瑞士食品科技公司KITRO研发厨余垃圾数据收集和分析技术，帮助酒店餐饮业减少食物浪费 | 瑞士创新100强](https://www.tmtpost.com/7695621.html)
+**发布时间**: 2025-09-16 16:22
+
+#### [Netflix发新片单：韩综为何总能玩出“世界级”？](https://www.tmtpost.com/7695655.html)
+**发布时间**: 2025-09-16 16:22
+
+#### [餐饮老板打响堂食“保卫战”](https://www.tmtpost.com/7695656.html)
+**发布时间**: 2025-09-16 16:22
+
+#### [固态电池太早，钠电赛道正好 | 巴伦精选](https://www.tmtpost.com/7695668.html)
+**发布时间**: 2025-09-16 16:13
+
+#### [Intel China Sees Leadership Shift as Chairperson Retires During Global Overhaul](https://www.tmtpost.com/7695633.html)
+**发布时间**: 2025-09-16 15:55
+
+#### [9月16日A股分析：创业板领涨0.68%，两市成交额突破2.3万亿，小单净流入462亿对冲主力撤离，机器人概念吸金居前](https://www.tmtpost.com/7695619.html)
+**发布时间**: 2025-09-16 15:50
+
+#### [Chinese Lawn-Mowing Robots Gain Ground in Europe and North America](https://www.tmtpost.com/7695597.html)
+**发布时间**: 2025-09-16 15:33
+
+#### [GPU大厂拟3.16亿元收购亏损企业；重庆物业服务企业拟收购嘉信立恒；【并购一线】](https://www.tmtpost.com/7695531.html)
+**发布时间**: 2025-09-16 14:48
+
+#### [阿里到店无大将，高德地图作先锋](https://www.tmtpost.com/7695388.html)
+**发布时间**: 2025-09-16 14:30
+
+#### [谁在妖魔化预制菜？](https://www.tmtpost.com/7695040.html)
+**发布时间**: 2025-09-16 14:25
+
+#### [都是华与华的甲方，西贝为什么没像蜜雪冰城一样逆转危机？](https://www.tmtpost.com/7694577.html)
+**发布时间**: 2025-09-16 14:19
+
+#### [TCL发布SQD-Mini LED技术，宣称亮度、色彩和寿命上超越OLED｜科技前线](https://www.tmtpost.com/7695346.html)
+**发布时间**: 2025-09-16 14:12
+
+#### [独家对话MOVA割草机CTO秦岭：何为智能割草机的真正未来？](https://www.tmtpost.com/7695377.html)
+**发布时间**: 2025-09-16 14:11
+
+#### [苹果iPhone 17价格破发，黄牛还能赚到钱吗？](https://www.tmtpost.com/7695302.html)
+**发布时间**: 2025-09-16 14:10
+
+#### [月销5亿的IgA肾病市场蓝海泛红](https://www.tmtpost.com/7695299.html)
+**发布时间**: 2025-09-16 14:07
+
+#### [全国人均10枝，云南鲜花为何依然被卡脖子？](https://www.tmtpost.com/7695250.html)
+**发布时间**: 2025-09-16 14:05
+
+#### [高德上线扫街榜，不能全靠“导航”](https://www.tmtpost.com/7695121.html)
+**发布时间**: 2025-09-16 14:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [夸克公开国内首个覆盖全阶段医师考试的健康大模型测试集](https://www.infoq.cn/article/tQmXprp1UvwlS8Js9fuW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 15:23
+
+#### [腾讯云开发者嘉年华 AI CAN DO IT！](https://www.infoq.cn/video/i60Q49MAkgOMDYefQxAC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 15:16
+
+#### [PayPal 中国升级一体化收付平台，聚焦 Agentic AI 落地](https://www.infoq.cn/article/iNrZMWi7prVGWFtdj4s2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 15:12
+
+#### [腾讯云智能体战略全景图发布，汤道生：全面开放AI能力，打通C端和B端的技术与场景](https://www.infoq.cn/article/5IRRlOJ17ykjlSggFhs7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 14:57
+
+#### [Arm发布面向智能终端AI新平台Lumex CSS：搭载SME2技术，解锁100亿TOPS端侧算力潜能](https://www.infoq.cn/article/9EWB7NHussBvQQgBG00e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 14:07
+
+#### [Pinterest推出新平台Pinconsole，统一工程工具](https://www.infoq.cn/article/NGmQGjNaRgAVbjtrCw3O?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 14:00
+
+#### [从社区数据出发，再看大模型开源开发生态全景与趋势](https://www.infoq.cn/article/ksgcPAymqkbk0UaGQNZk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 13:59
+
+#### [大模型开源生态激荡：Vibe Coding 重构人机协作，AI Agent 迈向多智体协同｜外滩大会见解论坛专家观点回顾](https://www.infoq.cn/article/WwgjyML6v0kyeiHTKvK4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-16 13:59
+
+#### [【AI 技术周-第四期】数智时代的安全操盘手：AI安全可控，风控增效无忧](https://www.infoq.cn/video/FCd29mVdmZOBcXu0Wulg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 18:54
+
+#### [【AI 技术周-第三期】从被动存储到主动决策：AI如何驱动数据库与大数据智能进化](https://www.infoq.cn/video/8SOET0sY3huapapqEMbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-15 14:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 新面貌、上手更奇妙，iOS 26 中值得关注的新特性](https://sspai.com/post/102372)
+**发布时间**: 2025-09-16 15:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Up to $2,000 Off LG Promo Codes & Coupons](https://www.wired.com/story/lg-promo-code/)
+**发布时间**: 2025-09-16 05:30
 
 ---
 

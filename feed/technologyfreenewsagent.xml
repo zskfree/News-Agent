@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 05:20:00 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 08:28:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>派早报：魅族举办新品发布会，高通公布新移动平台并梳理产品代际等</title>
-      <link>https://sspai.com/post/102551</link>
-      <description>&lt;![CDATA[派早报：魅族举办新品发布会，高通公布新移动平台并梳理产品代际等]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102551</guid>
+      <title>瑞士食品科技公司KITRO研发厨余垃圾数据收集和分析技术，帮助酒店餐饮业减少食物浪费 | 瑞士创新100强</title>
+      <link>https://www.tmtpost.com/7695621.html</link>
+      <description>&lt;![CDATA[瑞士食品科技公司KITRO研发厨余垃圾数据收集和分析技术，帮助酒店餐饮业减少食物浪费 | 瑞士创新100强]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7695621.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare为影子AI风险评估提供了自动评分系统</title>
-      <link>https://www.infoq.cn/article/A77BpAfOpvBdg5azU9Cz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare为影子AI风险评估提供了自动评分系统]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/A77BpAfOpvBdg5azU9Cz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>TCL发布SQD-Mini LED技术，宣称亮度、色彩和寿命上超越OLED｜科技前线</title>
+      <link>https://www.tmtpost.com/7695346.html</link>
+      <description>&lt;![CDATA[TCL发布SQD-Mini LED技术，宣称亮度、色彩和寿命上超越OLED｜科技前线]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7695346.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java近期新闻：OpenJDK、TornadoVM、Payara平台、Apache Kafka、Grails和Micronaut</title>
-      <link>https://www.infoq.cn/article/6EFYGjakh9qlT5sa7Y3c?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java近期新闻：OpenJDK、TornadoVM、Payara平台、Apache Kafka、Grails和Micronaut]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6EFYGjakh9qlT5sa7Y3c?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Arm发布面向智能终端AI新平台Lumex CSS：搭载SME2技术，解锁100亿TOPS端侧算力潜能</title>
+      <link>https://www.infoq.cn/article/9EWB7NHussBvQQgBG00e?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Arm发布面向智能终端AI新平台Lumex CSS：搭载SME2技术，解锁100亿TOPS端侧算力潜能]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9EWB7NHussBvQQgBG00e?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GenAI 退烧后，这家企业正在用 “数据平台” 重构AI2B的底层逻辑</title>
-      <link>https://www.infoq.cn/article/iSVf9ogAYiRPkI32KQLF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GenAI 退烧后，这家企业正在用 “数据平台” 重构AI2B的底层逻辑]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iSVf9ogAYiRPkI32KQLF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯云智能体战略全景图发布，汤道生：全面开放AI能力，打通C端和B端的技术与场景</title>
+      <link>https://www.infoq.cn/article/5IRRlOJ17ykjlSggFhs7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云智能体战略全景图发布，汤道生：全面开放AI能力，打通C端和B端的技术与场景]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5IRRlOJ17ykjlSggFhs7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>U.S. Cut Auto Tariffs on Japan to 15%, Starting Tuesday</title>
-      <link>https://www.tmtpost.com/7695385.html</link>
-      <description>&lt;![CDATA[U.S. Cut Auto Tariffs on Japan to 15%, Starting Tuesday]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7695385.html</guid>
+      <title>9月16日A股分析：创业板领涨0.68%，两市成交额突破2.3万亿，小单净流入462亿对冲主力撤离，机器人概念吸金居前</title>
+      <link>https://www.tmtpost.com/7695619.html</link>
+      <description>&lt;![CDATA[9月16日A股分析：创业板领涨0.68%，两市成交额突破2.3万亿，小单净流入462亿对冲主力撤离，机器人概念吸金居前]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7695619.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>精致餐饮风潮之下，如何以“美食+”“线上化”实现飞跃式增长？</title>
-      <link>https://www.tmtpost.com/7695285.html</link>
-      <description>&lt;![CDATA[精致餐饮风潮之下，如何以“美食+”“线上化”实现飞跃式增长？]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 12:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7695285.html</guid>
+      <title>PayPal 中国升级一体化收付平台，聚焦 Agentic AI 落地</title>
+      <link>https://www.infoq.cn/article/iNrZMWi7prVGWFtdj4s2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[PayPal 中国升级一体化收付平台，聚焦 Agentic AI 落地]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iNrZMWi7prVGWFtdj4s2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chinese Households Pull Cash From Banks as Savers Rotate Money Into Stock Market</title>
-      <link>https://www.tmtpost.com/7695286.html</link>
-      <description>&lt;![CDATA[Chinese Households Pull Cash From Banks as Savers Rotate Money Into Stock Market]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7695286.html</guid>
+      <title>Pinterest推出新平台Pinconsole，统一工程工具</title>
+      <link>https://www.infoq.cn/article/NGmQGjNaRgAVbjtrCw3O?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pinterest推出新平台Pinconsole，统一工程工具]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NGmQGjNaRgAVbjtrCw3O?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>HydoTech Secures Major Global Investment to Expand Green Hydrogen Technology and Market Reach</title>
-      <link>https://www.tmtpost.com/7695257.html</link>
-      <description>&lt;![CDATA[HydoTech Secures Major Global Investment to Expand Green Hydrogen Technology and Market Reach]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7695257.html</guid>
+      <title>方建华：“合肥模式”还是“合肥现象”？</title>
+      <link>https://www.tmtpost.com/7695542.html</link>
+      <description>&lt;![CDATA[方建华：“合肥模式”还是“合肥现象”？]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7695542.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上线15天全球吸金900万刀，网易PVE新品情况如何？</title>
-      <link>https://www.tmtpost.com/7695031.html</link>
-      <description>&lt;![CDATA[上线15天全球吸金900万刀，网易PVE新品情况如何？]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7695031.html</guid>
+      <title>Netflix发新片单：韩综为何总能玩出“世界级”？</title>
+      <link>https://www.tmtpost.com/7695655.html</link>
+      <description>&lt;![CDATA[Netflix发新片单：韩综为何总能玩出“世界级”？]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7695655.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>并购股权到手就质押贷款，这家“光伏银浆龙头”资金压力不是一般的大</title>
-      <link>https://www.tmtpost.com/7695065.html</link>
-      <description>&lt;![CDATA[并购股权到手就质押贷款，这家“光伏银浆龙头”资金压力不是一般的大]]&gt;</description>
-      <pubDate>Tue, 16 Sep 2025 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7695065.html</guid>
+      <title>餐饮老板打响堂食“保卫战”</title>
+      <link>https://www.tmtpost.com/7695656.html</link>
+      <description>&lt;![CDATA[餐饮老板打响堂食“保卫战”]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7695656.html</guid>
       <category>Technology</category>
     </item>
   </channel>
