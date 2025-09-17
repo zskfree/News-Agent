@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-17 05:19
+**最后更新时间**: 2025-09-17 08:26
+
+---
+
+## 🆕 最新更新 (2025-09-17 08:26)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [华为发布4+10+N中小企业智能化方案，打通迈向智能世界「最后一公里」](https://www.jiqizhixin.com/articles/2025-09-17-5)
+**发布时间**: 2025-09-17 15:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解](https://www.qbitai.com/2025/09/333037.html)
+**发布时间**: 2025-09-17 06:58
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [7 NumPy Tricks for Faster Numerical Computations](https://machinelearningmastery.com/7-numpy-tricks-for-faster-numerical-computations/)
+**发布时间**: 2025-09-16 12:00
+
+#### [5 Lesser-Known Visualization Libraries for Impactful Machine Learning Storytelling](https://machinelearningmastery.com/5-lesser-known-visualization-libraries-for-impactful-machine-learning-storytelling/)
+**发布时间**: 2025-09-15 12:00
+
+#### [The Roadmap for Mastering AI-Assisted Coding in 2025](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/)
+**发布时间**: 2025-09-11 13:42
 
 ---
 

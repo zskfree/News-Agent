@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Sep 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2025 05:24:57 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2025 08:27:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>蚂蚁集团支付宝体验技术部算法负责人杨颢确认出席 QCon 上海，分享前端领域知识库构建与辅助代码研发中的创新实践</title>
-      <link>https://www.infoq.cn/article/4R8zJjTJwbbreFhlrjaW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁集团支付宝体验技术部算法负责人杨颢确认出席 QCon 上海，分享前端领域知识库构建与辅助代码研发中的创新实践]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4R8zJjTJwbbreFhlrjaW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>3年研发烧掉24亿现金流告急，迈威生物顶着合规风波再赴港股</title>
+      <link>https://www.tmtpost.com/7696425.html</link>
+      <description>&lt;![CDATA[3年研发烧掉24亿现金流告急，迈威生物顶着合规风波再赴港股]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7696425.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【AI技术周-第六期】AI DevOps工具如何破解企业研发效能瓶颈？</title>
-      <link>https://www.infoq.cn/video/jc3Ax5ANGiG3AfpiJd8I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[【AI技术周-第六期】AI DevOps工具如何破解企业研发效能瓶颈？]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/jc3Ax5ANGiG3AfpiJd8I?utm_source=rss&amp;utm_medium=article</guid>
+      <title>元创股份：增收不增利，扩产补流合理性存疑｜IPO观察</title>
+      <link>https://www.tmtpost.com/7697236.html</link>
+      <description>&lt;![CDATA[元创股份：增收不增利，扩产补流合理性存疑｜IPO观察]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 16:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7697236.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人工智能热潮再度推动股市接近高位，但部分科技公司仍在观望</title>
-      <link>https://www.tmtpost.com/7696899.html</link>
-      <description>&lt;![CDATA[人工智能热潮再度推动股市接近高位，但部分科技公司仍在观望]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7696899.html</guid>
+      <title>为什么小米16改名小米17？</title>
+      <link>https://www.tmtpost.com/7696798.html</link>
+      <description>&lt;![CDATA[为什么小米16改名小米17？]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7696798.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>云迹科技谢云鹏：智能时代如何协同“AI同事”重构服务生态</title>
-      <link>https://www.tmtpost.com/7696314.html</link>
-      <description>&lt;![CDATA[云迹科技谢云鹏：智能时代如何协同“AI同事”重构服务生态]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 10:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7696314.html</guid>
+      <title>29元一晚的“县城招待所”巨头，如今估值570亿</title>
+      <link>https://www.tmtpost.com/7696698.html</link>
+      <description>&lt;![CDATA[29元一晚的“县城招待所”巨头，如今估值570亿]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7696698.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Hugging Face 发布 FinePDFs：基于 PDF 文档构建的 3 万亿 Token 数据集</title>
-      <link>https://www.infoq.cn/article/CIbzkseeah3fqygPcb0q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Hugging Face 发布 FinePDFs：基于 PDF 文档构建的 3 万亿 Token 数据集]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CIbzkseeah3fqygPcb0q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>China Accelerates Innovative Drug Approvals to Counter U.S. Sanctions</title>
+      <link>https://www.tmtpost.com/7697329.html</link>
+      <description>&lt;![CDATA[China Accelerates Innovative Drug Approvals to Counter U.S. Sanctions]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7697329.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java 25 正式发布</title>
-      <link>https://www.infoq.cn/article/ltMjfdol1fW1vfahqtCz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java 25 正式发布]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ltMjfdol1fW1vfahqtCz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>9月17日A股分析：深成指、创业板指创阶段新高，两市合计成交23767.46亿元，资金流入最多的行业板块为多元金融、光学光电子</title>
+      <link>https://www.tmtpost.com/7697310.html</link>
+      <description>&lt;![CDATA[9月17日A股分析：深成指、创业板指创阶段新高，两市合计成交23767.46亿元，资金流入最多的行业板块为多元金融、光学光电子]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7697310.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 Copilot 到 Autopilot：Multi-Agent 系统的思考与实践｜QCon 上海</title>
-      <link>https://www.infoq.cn/article/uERz9aJsfTTTua9tseVO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 Copilot 到 Autopilot：Multi-Agent 系统的思考与实践｜QCon 上海]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uERz9aJsfTTTua9tseVO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中式梦核，Z世代的电子乡愁</title>
+      <link>https://www.tmtpost.com/7696500.html</link>
+      <description>&lt;![CDATA[中式梦核，Z世代的电子乡愁]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7696500.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：真我 15T 正式发布、Nothing 完成 2 亿美元 C 轮融资等</title>
-      <link>https://sspai.com/post/102578</link>
-      <description>&lt;![CDATA[派早报：真我 15T 正式发布、Nothing 完成 2 亿美元 C 轮融资等]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102578</guid>
+      <title>激光雷达，为什么赚钱难？</title>
+      <link>https://www.tmtpost.com/7696754.html</link>
+      <description>&lt;![CDATA[激光雷达，为什么赚钱难？]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7696754.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当奥迪率先放下身段，这一刻BBA已没有退路</title>
-      <link>https://www.tmtpost.com/7696640.html</link>
-      <description>&lt;![CDATA[当奥迪率先放下身段，这一刻BBA已没有退路]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7696640.html</guid>
+      <title>「一页纸」讲透RWA第一股：Figure</title>
+      <link>https://www.tmtpost.com/7696465.html</link>
+      <description>&lt;![CDATA[「一页纸」讲透RWA第一股：Figure]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7696465.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>0元收购？四川燃企收购奇台恒拓90%股权，增资4.45亿元拓展新疆风电业务；教培龙头拟8万英镑出售英国私校；【并购一线】</title>
-      <link>https://www.tmtpost.com/7696549.html</link>
-      <description>&lt;![CDATA[0元收购？四川燃企收购奇台恒拓90%股权，增资4.45亿元拓展新疆风电业务；教培龙头拟8万英镑出售英国私校；【并购一线】]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7696549.html</guid>
+      <title>属地管委会接盘澳洋健康，90后国资操盘手直面造血难题</title>
+      <link>https://www.tmtpost.com/7697167.html</link>
+      <description>&lt;![CDATA[属地管委会接盘澳洋健康，90后国资操盘手直面造血难题]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7697167.html</guid>
       <category>Technology</category>
     </item>
   </channel>

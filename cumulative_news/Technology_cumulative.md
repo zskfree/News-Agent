@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-17 05:24
+**最后更新时间**: 2025-09-17 08:26
+
+---
+
+## 🆕 最新更新 (2025-09-17 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [元创股份：增收不增利，扩产补流合理性存疑｜IPO观察](https://www.tmtpost.com/7697236.html)
+**发布时间**: 2025-09-17 16:07
+
+#### [为什么小米16改名小米17？](https://www.tmtpost.com/7696798.html)
+**发布时间**: 2025-09-17 16:05
+
+#### [29元一晚的“县城招待所”巨头，如今估值570亿](https://www.tmtpost.com/7696698.html)
+**发布时间**: 2025-09-17 16:05
+
+#### [China Accelerates Innovative Drug Approvals to Counter U.S. Sanctions](https://www.tmtpost.com/7697329.html)
+**发布时间**: 2025-09-17 15:14
+
+#### [9月17日A股分析：深成指、创业板指创阶段新高，两市合计成交23767.46亿元，资金流入最多的行业板块为多元金融、光学光电子](https://www.tmtpost.com/7697310.html)
+**发布时间**: 2025-09-17 15:12
+
+#### [汇源果汁，战端再起](https://www.tmtpost.com/7696651.html)
+**发布时间**: 2025-09-17 15:08
+
+#### [中式梦核，Z世代的电子乡愁](https://www.tmtpost.com/7696500.html)
+**发布时间**: 2025-09-17 15:08
+
+#### [激光雷达，为什么赚钱难？](https://www.tmtpost.com/7696754.html)
+**发布时间**: 2025-09-17 15:08
+
+#### [3年研发烧掉24亿现金流告急，迈威生物顶着合规风波再赴港股](https://www.tmtpost.com/7696425.html)
+**发布时间**: 2025-09-17 15:08
+
+#### [「一页纸」讲透RWA第一股：Figure](https://www.tmtpost.com/7696465.html)
+**发布时间**: 2025-09-17 15:08
+
+#### [属地管委会接盘澳洋健康，90后国资操盘手直面造血难题](https://www.tmtpost.com/7697167.html)
+**发布时间**: 2025-09-17 15:07
+
+#### [Xpeng eVTOLs Collide During Changchun Air Show Rehearsal, One Passenger Injured](https://www.tmtpost.com/7697209.html)
+**发布时间**: 2025-09-17 14:21
+
+#### [Tongwei Solar Meishan Named World's First Photovoltaic "Lighthouse Factory" by WEF](https://www.tmtpost.com/7697190.html)
+**发布时间**: 2025-09-17 14:09
+
+#### [谁在“梯”醒广告主？AI正在重构电梯媒体的价值边界](https://www.tmtpost.com/7693933.html)
+**发布时间**: 2025-09-17 13:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 自动过渡、歌词翻译…… Apple Music 值得关注的新特性](https://sspai.com/post/102591)
+**发布时间**: 2025-09-17 14:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [5000万成本，狂揽16亿！《浪浪山》如何逆袭成影史第二？](http://www.huxiu.com/article/4780604.html?f=wangzhan)
+**发布时间**: 2025-09-17 11:20
+
+#### [中美马德里谈判，为啥TikTok成破局者？](http://www.huxiu.com/article/4780823.html?f=wangzhan)
+**发布时间**: 2025-09-17 11:00
+
+#### [8秒出餐，横扫全球，取代星巴克指日可待？](http://www.huxiu.com/article/4768062.html?f=wangzhan)
+**发布时间**: 2025-09-17 08:30
 
 ---
 

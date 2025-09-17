@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2025 05:25:46 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2025 08:27:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LLM开源2.0大洗牌：60个出局，39个上桌，AI Coding疯魔，TensorFlow已死</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-4</link>
-      <description>&lt;![CDATA[LLM开源2.0大洗牌：60个出局，39个上桌，AI Coding疯魔，TensorFlow已死]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-4</guid>
+      <title>华为发布4+10+N中小企业智能化方案，打通迈向智能世界「最后一公里」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-17-5</link>
+      <description>&lt;![CDATA[华为发布4+10+N中小企业智能化方案，打通迈向智能世界「最后一公里」]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Empowering Clinical Trial Design through AI: A Randomized Evaluation of PowerGPT</title>
-      <link>https://arxiv.org/abs/2509.12471</link>
-      <description>&lt;![CDATA[Empowering Clinical Trial Design through AI: A Randomized Evaluation of PowerGPT]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.12471</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy</title>
-      <link>https://arxiv.org/abs/2509.13234</link>
-      <description>&lt;![CDATA[Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13234</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Cell丨谷歌AI co-scientist联合帝国理工揭开谜团：提出并验证细菌基因转移机制假说</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-3</link>
-      <description>&lt;![CDATA[Cell丨谷歌AI co-scientist联合帝国理工揭开谜团：提出并验证细菌基因转移机制假说]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>奇点智能研究院出席GOSIM杭州2025：以AI开源推动治理创新，共建可信智能未来</title>
-      <link>https://www.qbitai.com/2025/09/333030.html</link>
-      <description>&lt;![CDATA[奇点智能研究院出席GOSIM杭州2025：以AI开源推动治理创新，共建可信智能未来]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 04:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333030.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>腾讯混元开源AI绘画新框架：24维度对齐人类意图，让AI读懂复杂指令</title>
-      <link>https://www.qbitai.com/2025/09/332825.html</link>
-      <description>&lt;![CDATA[腾讯混元开源AI绘画新框架：24维度对齐人类意图，让AI读懂复杂指令]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 02:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/332825.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DISPLIB: a library of train dispatching problems</title>
-      <link>https://arxiv.org/abs/2509.12254</link>
-      <description>&lt;![CDATA[DISPLIB: a library of train dispatching problems]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.12254</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences</title>
-      <link>https://arxiv.org/abs/2509.12273</link>
-      <description>&lt;![CDATA[LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.12273</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction</title>
-      <link>https://arxiv.org/abs/2509.12464</link>
-      <description>&lt;![CDATA[Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.12464</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A Dimensionality-Reduced XAI Framework for Roundabout Crash Severity Insights</title>
-      <link>https://arxiv.org/abs/2509.12524</link>
-      <description>&lt;![CDATA[A Dimensionality-Reduced XAI Framework for Roundabout Crash Severity Insights]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.12524</guid>
+      <title>首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解</title>
+      <link>https://www.qbitai.com/2025/09/333037.html</link>
+      <description>&lt;![CDATA[首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 06:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333037.html</guid>
       <category>AI</category>
     </item>
   </channel>
