@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-16 23:14
+**最后更新时间**: 2025-09-17 05:24
+
+---
+
+## 🆕 最新更新 (2025-09-17 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当奥迪率先放下身段，这一刻BBA已没有退路](https://www.tmtpost.com/7696640.html)
+**发布时间**: 2025-09-17 13:12
+
+#### [0元收购？四川燃企收购奇台恒拓90%股权，增资4.45亿元拓展新疆风电业务；教培龙头拟8万英镑出售英国私校；【并购一线】](https://www.tmtpost.com/7696549.html)
+**发布时间**: 2025-09-17 12:45
+
+#### [对话星纪魅族CEO黄质潘：不画饼，留在牌桌上才能谈以后](https://www.tmtpost.com/7696506.html)
+**发布时间**: 2025-09-17 12:09
+
+#### [一站式服务和生态，助力中企无忧出海](https://www.tmtpost.com/7697031.html)
+**发布时间**: 2025-09-17 12:08
+
+#### [AI+云，双轮驱动中企扬帆出海](https://www.tmtpost.com/7697010.html)
+**发布时间**: 2025-09-17 12:07
+
+#### [Trump Hints Openness to Trade Concessions as Britain Said to Shelf Plan to Remove U.S. Steel Tariffs](https://www.tmtpost.com/7696962.html)
+**发布时间**: 2025-09-17 11:32
+
+#### [“华为系”切入旅行车市场，享界S9T想打破小众魔咒](https://www.tmtpost.com/7696790.html)
+**发布时间**: 2025-09-17 11:20
+
+#### [AI天才再出发！图森未来联创的新公司Bot Auto在美国实现卡车的无人驾驶验证](https://www.tmtpost.com/7696611.html)
+**发布时间**: 2025-09-17 11:19
+
+#### [人工智能热潮再度推动股市接近高位，但部分科技公司仍在观望](https://www.tmtpost.com/7696899.html)
+**发布时间**: 2025-09-17 11:09
+
+#### [准备好，行动起来：我们认为在美联储决议日将大涨的8只股票](https://www.tmtpost.com/7696877.html)
+**发布时间**: 2025-09-17 11:05
+
+#### [华与华继续发财，罗永浩阻挡不了](https://www.tmtpost.com/7696513.html)
+**发布时间**: 2025-09-17 10:29
+
+#### [甲骨文“一树梨花压海棠”](https://www.tmtpost.com/7696289.html)
+**发布时间**: 2025-09-17 10:29
+
+#### [浙商二代接盘中国算力顶流](https://www.tmtpost.com/7696345.html)
+**发布时间**: 2025-09-17 10:29
+
+#### [云迹科技谢云鹏：智能时代如何协同“AI同事”重构服务生态](https://www.tmtpost.com/7696314.html)
+**发布时间**: 2025-09-17 10:02
+
+#### [用"任务"识人，不万能，但管用](https://www.tmtpost.com/7696688.html)
+**发布时间**: 2025-09-17 09:36
+
+#### [贾国龙错在太老了](https://www.tmtpost.com/7696393.html)
+**发布时间**: 2025-09-17 09:36
+
+#### [两轮股东询价转让均折价三成，科兴制药“补血又摊薄”直指港股IPO](https://www.tmtpost.com/7696466.html)
+**发布时间**: 2025-09-17 09:24
+
+#### [抗抑郁药物，卖爆了](https://www.tmtpost.com/7696511.html)
+**发布时间**: 2025-09-17 09:17
+
+#### [方建华：SOFC何以成为破解AI能源困局的"六边形战士"​？](https://www.tmtpost.com/7691848.html)
+**发布时间**: 2025-09-17 09:17
+
+#### [高德为阿里铺好了到店之路](https://www.tmtpost.com/7696208.html)
+**发布时间**: 2025-09-17 09:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [蚂蚁集团支付宝体验技术部算法负责人杨颢确认出席 QCon 上海，分享前端领域知识库构建与辅助代码研发中的创新实践](https://www.infoq.cn/article/4R8zJjTJwbbreFhlrjaW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 13:00
+
+#### [Hugging Face 发布 FinePDFs：基于 PDF 文档构建的 3 万亿 Token 数据集](https://www.infoq.cn/article/CIbzkseeah3fqygPcb0q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 11:30
+
+#### [Java 25 正式发布](https://www.infoq.cn/article/ltMjfdol1fW1vfahqtCz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 10:53
+
+#### [【AI技术周-第六期】AI DevOps工具如何破解企业研发效能瓶颈？](https://www.infoq.cn/video/jc3Ax5ANGiG3AfpiJd8I?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 10:51
+
+#### [2025腾讯全球数字生态大会开启！与行业大咖「智者见智」共话 AI 增益新机](https://www.infoq.cn/video/gGkadJ9O0fZd97DA9Bkm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 10:26
+
+#### [从 Copilot 到 Autopilot：Multi-Agent 系统的思考与实践｜QCon 上海](https://www.infoq.cn/article/uERz9aJsfTTTua9tseVO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [华为首款旅行车 1 小时订单破 5000，余承东再次「封神」？](http://www.geekpark.net/news/354049)
+**发布时间**: 2025-09-17 11:54
+
+#### [刘强东喊话王兴：尊重兴哥，不应是仇人；美机器人公司估值暴涨至390亿美元；iOS 微信支持聊天发实况图｜极客早知道](http://www.geekpark.net/news/354023)
+**发布时间**: 2025-09-17 08:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 样样拿手、事事顺，iPadOS 26 升级后一定要试试的新功能](https://sspai.com/post/102568)
+**发布时间**: 2025-09-17 11:30
+
+#### [派早报：真我 15T 正式发布、Nothing 完成 2 亿美元 C 轮融资等](https://sspai.com/post/102578)
+**发布时间**: 2025-09-17 07:36
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)
+**发布时间**: 2025-09-17 05:10
+
+#### [Mac Mini Sale: Get Into MacOS for Less Than $500 Today](https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/)
+**发布时间**: 2025-09-16 23:17
 
 ---
 

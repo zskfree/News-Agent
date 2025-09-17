@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-16 23:14
+**最后更新时间**: 2025-09-17 05:24
+
+---
+
+## 🆕 最新更新 (2025-09-17 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bloom Energy’s stock is surging — and could ride Oracle’s growth to even more gains](https://www.marketwatch.com/story/bloom-energys-stock-is-surging-and-could-ride-oracles-growth-to-even-more-gains-25c30ff3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 01:39
+
+#### [‘I am highly alarmed by the proposed changes to retirement accounts’: I don’t want bitcoin or private equity in my 401(k). What can I do?](https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 23:24
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [StubHub prices IPO at $23.50, raising about $800 million](https://www.marketwatch.com/bulletins/redirect/go?g=2befa874-a689-47e0-826c-1037ba703aea&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 00:08
+
+#### [10 bargain stocks of companies that can increase profits faster than the S&P 500](https://www.marketwatch.com/bulletins/redirect/go?g=8f7062fe-db4a-4963-a28e-b1d5ddcf4862&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 23:28
 
 ---
 
