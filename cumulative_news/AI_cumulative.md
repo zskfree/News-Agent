@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-17 08:26
+**最后更新时间**: 2025-09-17 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-17 23:17)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [没想到，音频大模型开源最彻底的，居然是小红书](https://www.jiqizhixin.com/articles/2025-09-17-10)
+**发布时间**: 2025-09-17 18:11
+
+#### [6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0](https://www.jiqizhixin.com/articles/2025-09-17-9)
+**发布时间**: 2025-09-17 18:06
+
+#### [「AI助手」真来了？谷歌牵头推进Agent支付协议AP2](https://www.jiqizhixin.com/articles/2025-09-17-8)
+**发布时间**: 2025-09-17 17:56
+
+#### [腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」](https://www.jiqizhixin.com/articles/2025-09-17-7)
+**发布时间**: 2025-09-17 17:49
+
+#### [阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型](https://www.jiqizhixin.com/articles/2025-09-17-6)
+**发布时间**: 2025-09-17 17:12
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Making LLMs more accurate by using all of their layers](https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/)
+**发布时间**: 2025-09-17 17:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [AI-designed viruses are here and already killing bacteria](https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/)
+**发布时间**: 2025-09-17 15:14
+
+#### [The Download: measuring returns on R&D, and AI’s creative potential](https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/)
+**发布时间**: 2025-09-17 12:10
+
+#### [How to measure the returns on R&D spending](https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/)
+**发布时间**: 2025-09-17 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [绚星破局AI落地困境，四大业务重构企业智能生产力新范式](https://www.qbitai.com/2025/09/333087.html)
+**发布时间**: 2025-09-17 10:12
+
+#### [马斯克周末血裁xAI 500人](https://www.qbitai.com/2025/09/333071.html)
+**发布时间**: 2025-09-17 09:31
 
 ---
 

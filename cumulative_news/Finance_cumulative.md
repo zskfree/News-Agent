@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-17 05:24
+**最后更新时间**: 2025-09-17 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-17 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My mother’s lawyer stole $400K after she moved to a nursing home. How can we get justice?](https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 23:10
+
+#### [Nvidia’s stock falls on China fears. How much should investors worry?](https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 23:05
+
+#### [This Fed move can help job seekers even more than the latest interest-rate cut](https://www.marketwatch.com/story/this-fed-move-can-help-job-seekers-even-more-than-the-latest-interest-rate-cut-7481498e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 22:29
+
+#### [‘Am I the biggest loser with the Fed rate cut?’ I’m 68, retired and live off IRAs and Social Security](https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 22:10
+
+#### [Bots make buying concert tickets a nightmare. Could the FTC’s Ticketmaster probe help?](https://www.marketwatch.com/story/bots-make-buying-concert-tickets-a-nightmare-could-the-ftcs-ticketmaster-probe-help-4607ae08?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 22:05
+
+#### [Inflation fears surge to their highest levels since ‘liberation day’ as Fed cuts rates](https://www.marketwatch.com/story/inflation-fears-surge-to-highest-since-liberation-day-as-fed-cuts-rates-abe9778f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 21:21
+
+#### [Markets didn’t know which way to go after Wednesday’s Fed rate cut. Expect more volatility ahead.](https://www.marketwatch.com/story/markets-didnt-know-which-way-to-go-after-wednesdays-fed-rate-cut-expect-more-volatility-ahead-58153795?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:49
+
+#### [StubHub’s stock dips in a mixed reaction to the polarizing practice of ticket resales and signals of a softer economy](https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:47
+
+#### [Cracker Barrel tried to win back customers by abandoning its logo and remodels. But it still sees fewer diners up ahead.](https://www.marketwatch.com/story/cracker-barrel-tried-to-win-back-customers-by-abandoning-its-logo-and-remodels-but-it-still-sees-fewer-diners-up-ahead-0c9f9b1d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:42
+
+#### [Protein snacks are getting more popular thanks to weight-loss drugs, says General Mills](https://www.marketwatch.com/story/protein-snacks-are-getting-more-popular-thanks-to-weight-loss-drugs-says-general-mills-7455a04f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:35
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bots make buying concert tickets a nightmare. Can FTC’s Ticketmaster probe help?](https://www.marketwatch.com/bulletins/redirect/go?g=391278b1-dc70-4e74-947e-ca31506bbf28&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 22:17
+
+#### [Why this $1.6B deal shows the worst of the office real-estate crisis is over](https://www.marketwatch.com/bulletins/redirect/go?g=01682753-a85e-454a-bef9-d9902cb3838b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 21:48
+
+#### [Markets didn’t know which way to go after Fed rate cut. Expect more volatility.](https://www.marketwatch.com/bulletins/redirect/go?g=074cfd5a-a585-4e8b-8693-5ea48fcb5b40&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 20:53
+
+#### [Tesla’s stock keeps winning streak alive — making Elon Musk $40 billion richer](https://www.marketwatch.com/bulletins/redirect/go?g=6afea678-d882-40e6-83af-ee385890798a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 20:29
+
+#### [Dow ends higher, S&P 500 and Nasdaq fall as Fed rate cut triggers volatile trade](https://www.marketwatch.com/bulletins/redirect/go?g=ec07867d-68f1-4526-b668-9c0f8e4e5ac7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 20:04
+
+#### [Powell, Fed officials less worried about tariff inflation, see longer path to 2%](https://www.marketwatch.com/bulletins/redirect/go?g=b77a5287-d6fb-43b2-9459-0d4c5e09e4ec&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 19:52
+
+#### [U.S. stocks seesaw, Treasury yields rise as Powell discusses Fed rate cut — live](https://www.marketwatch.com/bulletins/redirect/go?g=9527d306-c0bd-470d-bc1f-3f65837a97b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 19:20
+
+#### [Dow pulls back from intraday record after Fed rate cut; S&P 500 and Nasdaq slide](https://www.marketwatch.com/bulletins/redirect/go?g=c7d15882-434c-42c2-abe2-08080263bad8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 18:41
+
+#### [Fed lowers key interest rate by quarter-point and signals two further 2025 cuts](https://www.marketwatch.com/bulletins/redirect/go?g=0cccef18-8252-406e-a716-3ef915539ae7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 18:03
+
+#### [Have questions about today’s Fed decision? Post them here. We’ll answer live.](https://www.marketwatch.com/bulletins/redirect/go?g=c08267c2-0a14-43fa-bbd3-bda6df9fd28d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 17:49
 
 ---
 

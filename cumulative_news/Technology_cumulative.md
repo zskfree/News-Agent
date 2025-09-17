@@ -1,7 +1,177 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-17 08:26
+**最后更新时间**: 2025-09-17 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-17 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Fed Cuts 25 BPs Amid a Weakening Labor Market](https://www.tmtpost.com/7697912.html)
+**发布时间**: 2025-09-18 04:02
+
+#### [Microsoft to Pour $30 Billion in Britain's AI Infrastructure, Joining U.S. Tech Giants Pledging Over $40 Billion Investment](https://www.tmtpost.com/7697773.html)
+**发布时间**: 2025-09-17 20:40
+
+#### [产业资本逆势增持银行股，用真金白银传递信心](https://www.tmtpost.com/7697739.html)
+**发布时间**: 2025-09-17 20:02
+
+#### [剑南春股权再生变：国资重返，“债权转股”背后现商标纠纷疑云｜焦点](https://www.tmtpost.com/7697674.html)
+**发布时间**: 2025-09-17 19:40
+
+#### [屡教不改！微软在华产品又双叒被曝留后门](https://www.tmtpost.com/7696985.html)
+**发布时间**: 2025-09-17 19:07
+
+#### [“新加坡前首富”的中国压力](https://www.tmtpost.com/7697688.html)
+**发布时间**: 2025-09-17 19:05
+
+#### [国产半导体设备，冰火两重天](https://www.tmtpost.com/7697617.html)
+**发布时间**: 2025-09-17 19:00
+
+#### [富贵就在眼前，英伟达真的给英特尔机会了](https://www.tmtpost.com/7697491.html)
+**发布时间**: 2025-09-17 18:51
+
+#### [现炒美味，藏在那些不做外卖的餐厅？](https://www.tmtpost.com/7697039.html)
+**发布时间**: 2025-09-17 18:40
+
+#### [眼科飞秒激光进口垄断再升级，国产何时上桌？](https://www.tmtpost.com/7696998.html)
+**发布时间**: 2025-09-17 18:39
+
+#### [靠流量“赚钱”，小红书太急了？](https://www.tmtpost.com/7697065.html)
+**发布时间**: 2025-09-17 18:39
+
+#### [“大消费”时代，不要低估外卖生意的“厚度”](https://www.tmtpost.com/7697382.html)
+**发布时间**: 2025-09-17 18:39
+
+#### [优迅股份：增收不增利，低研发却有高毛利，补流项目蹊跷取消｜IPO观察](https://www.tmtpost.com/7697269.html)
+**发布时间**: 2025-09-17 18:38
+
+#### [储能板块迎来爆发，摩根大通看好的“V型反转”能否成为现实？](https://www.tmtpost.com/7697611.html)
+**发布时间**: 2025-09-17 18:03
+
+#### [三股势力，抢食5万亿餐饮市场](https://www.tmtpost.com/7696872.html)
+**发布时间**: 2025-09-17 17:46
+
+#### [拉美版 “阿里” Meli： “假” 电商、“真” 放贷？](https://www.tmtpost.com/7696813.html)
+**发布时间**: 2025-09-17 17:45
+
+#### [瑞立科密冲刺上市：政策市场双轮驱动，核心技术填补国内空白](https://www.tmtpost.com/7697054.html)
+**发布时间**: 2025-09-17 17:37
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)
+**发布时间**: 2025-09-17 22:06
+
+#### [Microsoft Paint is getting its own Photoshop-like project files](https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd)
+**发布时间**: 2025-09-17 20:01
+
+#### [&#8216;Ask Gemini&#8217; AI will tell you what you missed during a Google Meet call](https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant)
+**发布时间**: 2025-09-17 19:29
+
+#### [Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger](https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc)
+**发布时间**: 2025-09-17 18:01
+
+#### [Americans want AI to stay out of their personal lives](https://www.theverge.com/ai-artificial-intelligence/780184/pew-research-americans-want-ai-out-of-their-personal-lives)
+**发布时间**: 2025-09-17 18:00
+
+#### [The Astro A20 X headset was made for multi-console homes](https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features)
+**发布时间**: 2025-09-17 18:00
+
+#### [Garmin’s Venu 4 adds an LED flashlight and accessibility upgrades](https://www.theverge.com/news/780138/garmin-venu-4-smartwatch-accessibility-flashlight-color-blindness)
+**发布时间**: 2025-09-17 17:08
+
+#### [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)
+**发布时间**: 2025-09-17 17:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 RDBMS 到 Snowflake 的复制 | 技术实践](https://www.infoq.cn/article/kwCe7BDhYwTTjBuJZttx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 22:00
+
+#### [Snowflake 上的智能体 RAG | 技术实践](https://www.infoq.cn/article/gFIMpcXhw3aE655w4AUJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 22:00
+
+#### [情境丰富型 AI 智能体的一键式解决方案：Snowflake Intelligence 与 Cortex 知识扩展 | 技术趋势](https://www.infoq.cn/article/8IbBBrgGDcQ5mZcDXFuJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 21:59
+
+#### [Learn to Reason _ The way of Baichuan-M1-ClinicReasoning](https://www.infoq.cn/article/sbpvzNX2uOAH969fPvyd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 20:30
+
+#### [模力工场 012 周 AI 应用榜：AI 简历优化或能不再千篇一律？本周榜单展现效率与情绪价值双重趋势](https://www.infoq.cn/article/PCPGs3eGjs9ExWD3KgM8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 20:01
+
+#### [【AI 技术周-第七期】从协同到增长：AI 如何驱动企业效能跃升](https://www.infoq.cn/video/CJQItY7ZQQw2rUqAhYmq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 19:51
+
+#### [Snowflake AI+ 数据 2025 年十大预测（下） | 技术趋势](https://www.infoq.cn/article/8WEZ3zJI726dVEyVvKPx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 19:27
+
+#### [速度飙升30%、成本砍一半！蘑菇车联搭腾讯云，物理世界AI大模型MogoMind规模化商用加速](https://www.infoq.cn/article/QVqCmR2E80wtesPxWWAh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 18:46
+
+#### [AI准确率下滑？聊天AI「胡说八道」现象激增，连OpenAI也被「幻觉」困扰](https://www.infoq.cn/article/YkQW0xv5m52Ic5FH3wus?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 17:50
+
+#### [下棋比智商！8 大 AI 模型上演棋盘大战，谁能称王？](https://www.infoq.cn/article/PDUDYogiGfd6AQEYihqO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-17 16:59
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The DOGE Subcommittee Hearing on Weather Modification Was a Nest of Conspiracy Theorizing](https://www.wired.com/story/the-doge-subcommittee-hearing-on-weather-modification-was-a-nest-of-conspiracy-theorizing/)
+**发布时间**: 2025-09-17 21:10
+
+#### [Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off](https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/)
+**发布时间**: 2025-09-17 20:46
+
+#### [Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes](https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/)
+**发布时间**: 2025-09-17 18:57
+
+#### [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More (2025)](https://www.wired.com/story/how-to-change-kindle-language/)
+**发布时间**: 2025-09-17 17:17
+
+#### [Inside Trumpworld’s Reality Distortion Field](https://www.wired.com/story/inside-trumpworlds-reality-distortion-field/)
+**发布时间**: 2025-09-17 15:04
+
+#### [Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)
+**发布时间**: 2025-09-17 13:53
+
+#### [Samsung HW-Q990F Soundbar System Review: Glorious Atmos](https://www.wired.com/review/samsung-hw-q990f/)
+**发布时间**: 2025-09-17 13:09
+
+#### [Apple iPhone 17 Pro and iPhone 17 Pro Max Review: Level Up](https://www.wired.com/review/apple-iphone-17-pro-and-iphone-17-pro-max/)
+**发布时间**: 2025-09-17 12:00
+
+#### [Apple iPhone Air Review: Better Than Expected](https://www.wired.com/review/apple-iphone-air/)
+**发布时间**: 2025-09-17 12:00
+
+#### [WIRED’s Best E-Readers, Tested and Reviewed (2025): Kindle, Kobo, Boox](https://www.wired.com/gallery/best-ereaders/)
+**发布时间**: 2025-09-17 10:31
+
+#### [This Giant Subterranean Neutrino Detector Is Taking On the Mysteries of Physics](https://www.wired.com/story/this-giant-subterranean-neutrino-detector-is-taking-on-the-mysteries-of-physics/)
+**发布时间**: 2025-09-17 10:30
+
+#### [Meta Is Debuting New Smart Glasses Today. Here’s How to Watch](https://www.wired.com/story/meta-connect-2025-how-to-watch/)
+**发布时间**: 2025-09-17 10:30
+
+#### [Mushroom Supplements Are the Biohackers’ Latest Fix (2025)](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
+**发布时间**: 2025-09-17 10:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国对我们的芯片策略：高端封锁，低端倾销！这回终于到我们反击了](http://www.huxiu.com/article/4781145.html?f=wangzhan)
+**发布时间**: 2025-09-17 20:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [具身智能还需要一个「五年耐心」](http://www.geekpark.net/news/354082)
+**发布时间**: 2025-09-17 17:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [先学会骑车，再在 AI 的帮助下写个骑行记录 App](https://sspai.com/post/101981)
+**发布时间**: 2025-09-17 17:25
 
 ---
 

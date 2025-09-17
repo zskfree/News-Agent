@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Sep 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2025 08:27:37 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2025 23:19:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为发布4+10+N中小企业智能化方案，打通迈向智能世界「最后一公里」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-5</link>
-      <description>&lt;![CDATA[华为发布4+10+N中小企业智能化方案，打通迈向智能世界「最后一公里」]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-5</guid>
+      <title>腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-17-7</link>
+      <description>&lt;![CDATA[腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解</title>
-      <link>https://www.qbitai.com/2025/09/333037.html</link>
-      <description>&lt;![CDATA[首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 06:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333037.html</guid>
+      <title>没想到，音频大模型开源最彻底的，居然是小红书</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-17-10</link>
+      <description>&lt;![CDATA[没想到，音频大模型开源最彻底的，居然是小红书]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>「AI助手」真来了？谷歌牵头推进Agent支付协议AP2</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-17-8</link>
+      <description>&lt;![CDATA[「AI助手」真来了？谷歌牵头推进Agent支付协议AP2]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-17-6</link>
+      <description>&lt;![CDATA[阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 17:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Making LLMs more accurate by using all of their layers</title>
+      <link>https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/</link>
+      <description>&lt;![CDATA[Making LLMs more accurate by using all of their layers]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI-designed viruses are here and already killing bacteria</title>
+      <link>https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/</link>
+      <description>&lt;![CDATA[AI-designed viruses are here and already killing bacteria]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: measuring returns on R&amp;D, and AI’s creative potential</title>
+      <link>https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/</link>
+      <description>&lt;![CDATA[The Download: measuring returns on R&amp;D, and AI’s creative potential]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>绚星破局AI落地困境，四大业务重构企业智能生产力新范式</title>
+      <link>https://www.qbitai.com/2025/09/333087.html</link>
+      <description>&lt;![CDATA[绚星破局AI落地困境，四大业务重构企业智能生产力新范式]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333087.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克周末血裁xAI 500人</title>
+      <link>https://www.qbitai.com/2025/09/333071.html</link>
+      <description>&lt;![CDATA[马斯克周末血裁xAI 500人]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333071.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-17-9</link>
+      <description>&lt;![CDATA[6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0]]&gt;</description>
+      <pubDate>Wed, 17 Sep 2025 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-9</guid>
       <category>AI</category>
     </item>
   </channel>
