@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2025 23:19:06 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 05:20:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-7</link>
-      <description>&lt;![CDATA[腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-7</guid>
+      <title>豆包大模型开始上车了！上汽荣威率先进入AI智舱新拐点</title>
+      <link>https://www.qbitai.com/2025/09/333094.html</link>
+      <description>&lt;![CDATA[豆包大模型开始上车了！上汽荣威率先进入AI智舱新拐点]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333094.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>没想到，音频大模型开源最彻底的，居然是小红书</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-10</link>
-      <description>&lt;![CDATA[没想到，音频大模型开源最彻底的，居然是小红书]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-10</guid>
+      <title>Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning</title>
+      <link>https://arxiv.org/abs/2509.13351</link>
+      <description>&lt;![CDATA[Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13351</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>「AI助手」真来了？谷歌牵头推进Agent支付协议AP2</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-8</link>
-      <description>&lt;![CDATA[「AI助手」真来了？谷歌牵头推进Agent支付协议AP2]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-8</guid>
+      <title>MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation</title>
+      <link>https://arxiv.org/abs/2509.13773</link>
+      <description>&lt;![CDATA[MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13773</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-6</link>
-      <description>&lt;![CDATA[阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 17:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-6</guid>
+      <title>通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-18-3</link>
+      <description>&lt;![CDATA[通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Making LLMs more accurate by using all of their layers</title>
-      <link>https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/</link>
-      <description>&lt;![CDATA[Making LLMs more accurate by using all of their layers]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/</guid>
+      <title>FRIT: Using Causal Importance to Improve Chain-of-Thought Faithfulness</title>
+      <link>https://arxiv.org/abs/2509.13334</link>
+      <description>&lt;![CDATA[FRIT: Using Causal Importance to Improve Chain-of-Thought Faithfulness]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13334</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI-designed viruses are here and already killing bacteria</title>
-      <link>https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/</link>
-      <description>&lt;![CDATA[AI-designed viruses are here and already killing bacteria]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/</guid>
+      <title>Position: AI Safety Must Embrace an Antifragile Perspective</title>
+      <link>https://arxiv.org/abs/2509.13339</link>
+      <description>&lt;![CDATA[Position: AI Safety Must Embrace an Antifragile Perspective]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13339</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: measuring returns on R&amp;D, and AI’s creative potential</title>
-      <link>https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/</link>
-      <description>&lt;![CDATA[The Download: measuring returns on R&amp;D, and AI’s creative potential]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/</guid>
+      <title>Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning</title>
+      <link>https://arxiv.org/abs/2509.13352</link>
+      <description>&lt;![CDATA[Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13352</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>绚星破局AI落地困境，四大业务重构企业智能生产力新范式</title>
-      <link>https://www.qbitai.com/2025/09/333087.html</link>
-      <description>&lt;![CDATA[绚星破局AI落地困境，四大业务重构企业智能生产力新范式]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333087.html</guid>
+      <title>The Art of Saying &quot;Maybe&quot;: A Conformal Lens for Uncertainty Benchmarking in VLMs</title>
+      <link>https://arxiv.org/abs/2509.13379</link>
+      <description>&lt;![CDATA[The Art of Saying &quot;Maybe&quot;: A Conformal Lens for Uncertainty Benchmarking in VLMs]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13379</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克周末血裁xAI 500人</title>
-      <link>https://www.qbitai.com/2025/09/333071.html</link>
-      <description>&lt;![CDATA[马斯克周末血裁xAI 500人]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333071.html</guid>
+      <title>SteeringControl: Holistic Evaluation of Alignment Steering in LLMs</title>
+      <link>https://arxiv.org/abs/2509.13450</link>
+      <description>&lt;![CDATA[SteeringControl: Holistic Evaluation of Alignment Steering in LLMs]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13450</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-17-9</link>
-      <description>&lt;![CDATA[6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0]]&gt;</description>
-      <pubDate>Wed, 17 Sep 2025 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-17-9</guid>
+      <title>AI Agents with Human-Like Collaborative Tools: Adaptive Strategies for Enhanced Problem-Solving</title>
+      <link>https://arxiv.org/abs/2509.13547</link>
+      <description>&lt;![CDATA[AI Agents with Human-Like Collaborative Tools: Adaptive Strategies for Enhanced Problem-Solving]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.13547</guid>
       <category>AI</category>
     </item>
   </channel>

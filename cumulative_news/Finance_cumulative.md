@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-17 23:17
+**最后更新时间**: 2025-09-18 05:18
+
+---
+
+## 🆕 最新更新 (2025-09-18 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security could change eligibility rules for disability — blocking benefits for 750,000 disabled Americans](https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 04:01
+
+#### [Hot IPO market continues, as cybersecurity-software company Netskope raises $908 million](https://www.marketwatch.com/story/hot-ipo-market-continues-as-cybersecurity-software-company-netskope-raises-908-million-ac0e368a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 02:52
+
+#### [This $1.6 billion deal is a sign that the worst of the crisis in office real estate is in the past](https://www.marketwatch.com/story/this-1-6-billion-deal-is-a-sign-that-theworst-ofthe-crisis-in-office-real-estate-is-in-the-past-bf7fbb45?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 02:15
+
+#### [ABC pulls Jimmy Kimmel  following government pushback over Charlie Kirk comments](https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 00:53
+
+#### [Cracker Barrel now expects fewer diners in the months ahead, and the stock is plunging](https://www.marketwatch.com/story/cracker-barrel-tried-to-win-back-customers-by-abandoning-its-logo-and-remodels-but-it-still-sees-fewer-diners-up-ahead-0c9f9b1d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 00:48
+
+#### [My fiancée and I are 61. I’m moving into her home. How do we divide the expenses fairly?](https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 00:11
+
+#### [Fed likely to cut rates again in October, and 3 other things we learned from Powell’s press conference](https://www.marketwatch.com/story/fed-likely-to-cut-rates-again-in-october-and-3-other-things-we-learned-from-powells-press-conference-a03fb5ae?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 23:50
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Another Fed rate cut likely, and 3 other things we learned from Powell today](https://www.marketwatch.com/bulletins/redirect/go?g=ab56e8b5-bfed-4b76-bfaa-84de34a9530d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 01:05
+
+#### [Jimmy Kimmel pulled by ABC amid affiliate revolt following Charlie Kirk remarks](https://www.marketwatch.com/bulletins/redirect/go?g=d9248a54-4d4d-4b0d-8ec7-feae1f2ac061&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 23:57
 
 ---
 

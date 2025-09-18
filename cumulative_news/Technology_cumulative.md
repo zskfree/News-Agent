@@ -1,7 +1,159 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-17 23:17
+**最后更新时间**: 2025-09-18 05:18
+
+---
+
+## 🆕 最新更新 (2025-09-18 05:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [万字长文 | AI落地的十大问题](https://www.tmtpost.com/7693819.html)
+**发布时间**: 2025-09-18 13:09
+
+#### [禾赛“回港”，预料之中的资本转身](https://www.tmtpost.com/7698268.html)
+**发布时间**: 2025-09-18 13:07
+
+#### [中国企业出海迎来新通道，明日城市·上海大会全球合作伙伴签约规模超10亿美元](https://www.tmtpost.com/7692964.html)
+**发布时间**: 2025-09-18 13:02
+
+#### [Trump Eyes Higher Tariffs on Chip and Drugs as U.S. Mulls Extra Auto Levies](https://www.tmtpost.com/7698410.html)
+**发布时间**: 2025-09-18 13:01
+
+#### [自洽的“半成品”，Meta首款AI+AR眼镜初登场便翻车](https://www.tmtpost.com/7698302.html)
+**发布时间**: 2025-09-18 12:07
+
+#### [白牌围攻、赛道跨界，中国服饰行业迎来最卷时代](https://www.tmtpost.com/7698343.html)
+**发布时间**: 2025-09-18 11:58
+
+#### [串谋涨价，强制分润……电价“战争”缘何多发频发？](https://www.tmtpost.com/7698226.html)
+**发布时间**: 2025-09-18 11:39
+
+#### [餐饮商家，集体上演“擦边餐”](https://www.tmtpost.com/7698232.html)
+**发布时间**: 2025-09-18 11:39
+
+#### [中国茶饮，「占领」华尔街](https://www.tmtpost.com/7698297.html)
+**发布时间**: 2025-09-18 11:39
+
+#### [Dongfeng to Launch New NEV Brand with Huawei in Strategic "HI Plus" Partnership](https://www.tmtpost.com/7698299.html)
+**发布时间**: 2025-09-18 11:26
+
+#### [绚星发布四套智能生产力解决方案，以可量化ROI助力企业AI落地 | 科技前线](https://www.tmtpost.com/7697845.html)
+**发布时间**: 2025-09-18 10:39
+
+#### [又一家AI公司，惹怒好莱坞](https://www.tmtpost.com/7698131.html)
+**发布时间**: 2025-09-18 10:32
+
+#### [集团管控，要警惕“平西王”](https://www.tmtpost.com/7698152.html)
+**发布时间**: 2025-09-18 10:28
+
+#### [小核酸的风，继续吹](https://www.tmtpost.com/7698153.html)
+**发布时间**: 2025-09-18 10:21
+
+#### [月流水环比增长高达251%，FunPlus新游上线，直接对标《寒霜启示录》？表现如何？](https://www.tmtpost.com/7698154.html)
+**发布时间**: 2025-09-18 10:21
+
+#### [微综艺打响“小而美”大战](https://www.tmtpost.com/7698166.html)
+**发布时间**: 2025-09-18 10:21
+
+#### [夹在罗永浩和西贝中间的华与华哥俩，“惹了一身骚”](https://www.tmtpost.com/7697842.html)
+**发布时间**: 2025-09-18 10:01
+
+#### [资产负债率达65.88%，“第三个十年”专注投资孵化，百洋医药刀尖起舞？](https://www.tmtpost.com/7697795.html)
+**发布时间**: 2025-09-18 09:55
+
+#### [华为也来凑热闹，杭州的发布会扎堆了](https://www.tmtpost.com/7697732.html)
+**发布时间**: 2025-09-18 09:46
+
+#### [华熙生物裁员“止血”，“玻尿酸女王”豪赌减肥新赛道](https://www.tmtpost.com/7697838.html)
+**发布时间**: 2025-09-18 09:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亿级用户背后的智能诊断：多模态数据融合与实时诊断实践｜QCon 上海](https://www.infoq.cn/article/egTS107FekOp9LILikRx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 13:00
+
+#### [梁文锋执笔的R1论文登上Nature封面！首次回应外界三大质疑](https://www.infoq.cn/article/15q2ERACZNMYcc7QdNfh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 13:00
+
+#### [7 小时连续重构不掉线！一骑绝尘的Claude 终于遇到对手：Greg Brockman亲自解读AI编程重大突破](https://www.infoq.cn/article/rFreiEDkvxxjqkPLi8IR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 12:49
+
+#### [向英伟达发起挑战的AI芯片初创公司，估值快五百亿了！](https://www.infoq.cn/article/xbFOxi9fedzGdYA9Pd3F?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 10:35
+
+#### [ARMO研究揭示：io_uring Rootkit技术可绕过Linux安全工具](https://www.infoq.cn/article/5ylSCOXagxxsVUtpvQRM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 10:03
+
+#### [PagerDuty的Kafka故障导致数千家公司无法收到报警](https://www.infoq.cn/article/aJ45Ri34bajTh0zlwxHF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 09:59
+
+#### [250 个岗位换两亿“求生”资金？巅峰781 亿市值巨头节流押注 AI，CEO急踩 “创业模式” 刹车](https://www.infoq.cn/article/PxOtw9ITpiqJzMeBoAId?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 09:54
+
+#### [端侧大模型：是噱头还是未来？｜InfoQ《极客有约》](https://www.infoq.cn/video/THRB0qAfk8oUojVMsd4J?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 09:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [先舔后凶，自锤自爆，西贝公关竟是搞笑顶流？](http://www.huxiu.com/article/4781250.html?f=wangzhan)
+**发布时间**: 2025-09-18 12:10
+
+#### [奥迪的一次“关键反击”](http://www.huxiu.com/article/4732816.html?f=wangzhan)
+**发布时间**: 2025-09-18 09:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 新形象、续写 Mac 经典，macOS Tahoe 26 中的亮点功能](https://sspai.com/post/102583)
+**发布时间**: 2025-09-18 11:30
+
+#### [派早报：TikTok 美国业务将出售、Google 推出 Windows 版搜索应用等](https://sspai.com/post/102609)
+**发布时间**: 2025-09-18 08:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [腾讯 AI 的新叙事](http://www.geekpark.net/news/354095)
+**发布时间**: 2025-09-18 09:36
+
+#### [传小米 YU7 新车型曝光纽北；李飞飞放出 3D AI 新成果； 49.2%，火山引擎大模型调用份额占半壁江山](http://www.geekpark.net/news/354087)
+**发布时间**: 2025-09-18 07:51
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)
+**发布时间**: 2025-09-18 01:00
+
+#### [Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)
+**发布时间**: 2025-09-18 01:00
+
+#### [Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets](https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming)
+**发布时间**: 2025-09-18 00:42
+
+#### [Meta is making the metaverse look better](https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio)
+**发布时间**: 2025-09-18 00:39
+
+#### [Meta will let you use a Quest VR headset to turn your real-world space into a virtual world](https://www.theverge.com/news/780044/meta-quest-metaverse-hyperscape-capture-vr)
+**发布时间**: 2025-09-18 00:38
+
+#### [I sat down with Mark Zuckerberg to try Meta’s impressive new Ray-Ban Display glasses](https://www.theverge.com/tech/780539/meta-ray-ban-display-mark-zuckerberg-interview)
+**发布时间**: 2025-09-18 00:21
+
+#### [I regret to inform you Meta’s new smart glasses are the best I’ve ever tried](https://www.theverge.com/tech/779566/meta-ray-ban-display-hands-on-smart-glasses-price-battery-specs)
+**发布时间**: 2025-09-18 00:20
+
+#### [The new Oakley Meta glasses are what athletes actually want](https://www.theverge.com/tech/779452/oakley-meta-vanguard-hands-on-smart-glasses-wearables)
+**发布时间**: 2025-09-18 00:14
+
+#### [Meta’s new Ray-Ban smart glasses have twice the battery life](https://www.theverge.com/news/780012/meta-ray-ban-gen-2-smart-glasses-connect-2025)
+**发布时间**: 2025-09-18 00:07
+
+#### [Here&#8217;s the Jimmy Kimmel clip that got him pulled off the air](https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air)
+**发布时间**: 2025-09-17 23:46
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Meta Goes Even Harder Into Smart Glasses With 3 New Models](https://www.wired.com/story/meta-smart-glasses-ray-ban-display-ray-ban-gen-2-oakley-vanguard/)
+**发布时间**: 2025-09-18 00:21
 
 ---
 
