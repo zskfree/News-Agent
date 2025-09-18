@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 05:19:27 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 08:27:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>绚星发布四套智能生产力解决方案，以可量化ROI助力企业AI落地 | 科技前线</title>
-      <link>https://www.tmtpost.com/7697845.html</link>
-      <description>&lt;![CDATA[绚星发布四套智能生产力解决方案，以可量化ROI助力企业AI落地 | 科技前线]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 10:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7697845.html</guid>
+      <title>GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025全球机器学习技术大会全日程官宣！</title>
+      <link>https://www.tmtpost.com/7698696.html</link>
+      <description>&lt;![CDATA[GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025全球机器学习技术大会全日程官宣！]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698696.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为也来凑热闹，杭州的发布会扎堆了</title>
-      <link>https://www.tmtpost.com/7697732.html</link>
-      <description>&lt;![CDATA[华为也来凑热闹，杭州的发布会扎堆了]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 09:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7697732.html</guid>
+      <title>首次进入收费目录，这款精准放疗产品释放百亿市场</title>
+      <link>https://www.tmtpost.com/7698510.html</link>
+      <description>&lt;![CDATA[首次进入收费目录，这款精准放疗产品释放百亿市场]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698510.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7 小时连续重构不掉线！一骑绝尘的Claude 终于遇到对手：Greg Brockman亲自解读AI编程重大突破</title>
-      <link>https://www.infoq.cn/article/rFreiEDkvxxjqkPLi8IR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[7 小时连续重构不掉线！一骑绝尘的Claude 终于遇到对手：Greg Brockman亲自解读AI编程重大突破]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 12:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rFreiEDkvxxjqkPLi8IR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>倒闭、亏损与收缩，跨境电商迎来大洗牌</title>
+      <link>https://www.tmtpost.com/7698596.html</link>
+      <description>&lt;![CDATA[倒闭、亏损与收缩，跨境电商迎来大洗牌]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698596.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>向英伟达发起挑战的AI芯片初创公司，估值快五百亿了！</title>
-      <link>https://www.infoq.cn/article/xbFOxi9fedzGdYA9Pd3F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[向英伟达发起挑战的AI芯片初创公司，估值快五百亿了！]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xbFOxi9fedzGdYA9Pd3F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>零食量贩出海避坑指南：我亲历的12个惨痛教训</title>
+      <link>https://www.tmtpost.com/7698600.html</link>
+      <description>&lt;![CDATA[零食量贩出海避坑指南：我亲历的12个惨痛教训]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698600.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ARMO研究揭示：io_uring Rootkit技术可绕过Linux安全工具</title>
-      <link>https://www.infoq.cn/article/5ylSCOXagxxsVUtpvQRM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ARMO研究揭示：io_uring Rootkit技术可绕过Linux安全工具]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5ylSCOXagxxsVUtpvQRM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>脱口秀无力解困长视频</title>
+      <link>https://www.tmtpost.com/7698605.html</link>
+      <description>&lt;![CDATA[脱口秀无力解困长视频]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698605.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>万字长文 | AI落地的十大问题</title>
-      <link>https://www.tmtpost.com/7693819.html</link>
-      <description>&lt;![CDATA[万字长文 | AI落地的十大问题]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7693819.html</guid>
+      <title>途家换个姿势剑指木鸟美团</title>
+      <link>https://www.tmtpost.com/7698620.html</link>
+      <description>&lt;![CDATA[途家换个姿势剑指木鸟美团]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698620.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>禾赛“回港”，预料之中的资本转身</title>
-      <link>https://www.tmtpost.com/7698268.html</link>
-      <description>&lt;![CDATA[禾赛“回港”，预料之中的资本转身]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7698268.html</guid>
+      <title>哪吒汽车陷断网危机，智能汽车的网费到底该由谁来交？</title>
+      <link>https://www.tmtpost.com/7698668.html</link>
+      <description>&lt;![CDATA[哪吒汽车陷断网危机，智能汽车的网费到底该由谁来交？]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698668.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国企业出海迎来新通道，明日城市·上海大会全球合作伙伴签约规模超10亿美元</title>
-      <link>https://www.tmtpost.com/7692964.html</link>
-      <description>&lt;![CDATA[中国企业出海迎来新通道，明日城市·上海大会全球合作伙伴签约规模超10亿美元]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7692964.html</guid>
+      <title>从“人拉肩扛”到“数据驱动”：供应链为何成为数字化的关键战场？｜2025 ITValue Summit 数字价值年会</title>
+      <link>https://www.tmtpost.com/7698378.html</link>
+      <description>&lt;![CDATA[从“人拉肩扛”到“数据驱动”：供应链为何成为数字化的关键战场？｜2025 ITValue Summit 数字价值年会]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698378.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump Eyes Higher Tariffs on Chip and Drugs as U.S. Mulls Extra Auto Levies</title>
-      <link>https://www.tmtpost.com/7698410.html</link>
-      <description>&lt;![CDATA[Trump Eyes Higher Tariffs on Chip and Drugs as U.S. Mulls Extra Auto Levies]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7698410.html</guid>
+      <title>霸王茶姬马来西亚迎200店里程碑，北美市场再落一子</title>
+      <link>https://www.tmtpost.com/7698662.html</link>
+      <description>&lt;![CDATA[霸王茶姬马来西亚迎200店里程碑，北美市场再落一子]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698662.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自洽的“半成品”，Meta首款AI+AR眼镜初登场便翻车</title>
-      <link>https://www.tmtpost.com/7698302.html</link>
-      <description>&lt;![CDATA[自洽的“半成品”，Meta首款AI+AR眼镜初登场便翻车]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7698302.html</guid>
+      <title>9月18日A股分析：沪指跌1.15%报3831.66点，两市合计成交31351.71亿元，涨幅最多的行业板块为汽车服务</title>
+      <link>https://www.tmtpost.com/7698634.html</link>
+      <description>&lt;![CDATA[9月18日A股分析：沪指跌1.15%报3831.66点，两市合计成交31351.71亿元，涨幅最多的行业板块为汽车服务]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698634.html</guid>
       <category>Technology</category>
     </item>
   </channel>

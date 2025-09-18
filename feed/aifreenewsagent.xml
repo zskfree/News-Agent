@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 05:20:16 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 08:27:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>豆包大模型开始上车了！上汽荣威率先进入AI智舱新拐点</title>
-      <link>https://www.qbitai.com/2025/09/333094.html</link>
-      <description>&lt;![CDATA[豆包大模型开始上车了！上汽荣威率先进入AI智舱新拐点]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333094.html</guid>
+      <title>Nature | 20年后你会患上哪些疾病？AI准确预测超1000种疾病患病风险，助力预防</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-18-9</link>
+      <description>&lt;![CDATA[Nature | 20年后你会患上哪些疾病？AI准确预测超1000种疾病患病风险，助力预防]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning</title>
-      <link>https://arxiv.org/abs/2509.13351</link>
-      <description>&lt;![CDATA[Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13351</guid>
+      <title>OneSearch，揭开快手电商搜索「一步到位」的秘技</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-18-8</link>
+      <description>&lt;![CDATA[OneSearch，揭开快手电商搜索「一步到位」的秘技]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation</title>
-      <link>https://arxiv.org/abs/2509.13773</link>
-      <description>&lt;![CDATA[MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13773</guid>
+      <title>刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-18-7</link>
+      <description>&lt;![CDATA[刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-18-3</link>
-      <description>&lt;![CDATA[通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-3</guid>
+      <title>从一个公众号智能体说起：好用的Agent，究竟需要什么?</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-18-6</link>
+      <description>&lt;![CDATA[从一个公众号智能体说起：好用的Agent，究竟需要什么?]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>FRIT: Using Causal Importance to Improve Chain-of-Thought Faithfulness</title>
-      <link>https://arxiv.org/abs/2509.13334</link>
-      <description>&lt;![CDATA[FRIT: Using Causal Importance to Improve Chain-of-Thought Faithfulness]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13334</guid>
+      <title>GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025 全球机器学习技术大会全日程官宣！</title>
+      <link>https://www.qbitai.com/2025/09/333269.html</link>
+      <description>&lt;![CDATA[GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025 全球机器学习技术大会全日程官宣！]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 07:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333269.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Position: AI Safety Must Embrace an Antifragile Perspective</title>
-      <link>https://arxiv.org/abs/2509.13339</link>
-      <description>&lt;![CDATA[Position: AI Safety Must Embrace an Antifragile Perspective]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13339</guid>
+      <title>剂泰科技发布全球首个AI纳米递送平台NanoForge</title>
+      <link>https://www.qbitai.com/2025/09/333260.html</link>
+      <description>&lt;![CDATA[剂泰科技发布全球首个AI纳米递送平台NanoForge]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 05:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333260.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning</title>
-      <link>https://arxiv.org/abs/2509.13352</link>
-      <description>&lt;![CDATA[Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13352</guid>
+      <title>开源Agent模型榜第一名，现在是阿里通义DeepResearch</title>
+      <link>https://www.qbitai.com/2025/09/333245.html</link>
+      <description>&lt;![CDATA[开源Agent模型榜第一名，现在是阿里通义DeepResearch]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 05:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333245.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Art of Saying &quot;Maybe&quot;: A Conformal Lens for Uncertainty Benchmarking in VLMs</title>
-      <link>https://arxiv.org/abs/2509.13379</link>
-      <description>&lt;![CDATA[The Art of Saying &quot;Maybe&quot;: A Conformal Lens for Uncertainty Benchmarking in VLMs]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13379</guid>
+      <title>腾讯披露元宝已是TOP3应用</title>
+      <link>https://www.qbitai.com/2025/09/333191.html</link>
+      <description>&lt;![CDATA[腾讯披露元宝已是TOP3应用]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 05:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333191.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>SteeringControl: Holistic Evaluation of Alignment Steering in LLMs</title>
-      <link>https://arxiv.org/abs/2509.13450</link>
-      <description>&lt;![CDATA[SteeringControl: Holistic Evaluation of Alignment Steering in LLMs]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13450</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI Agents with Human-Like Collaborative Tools: Adaptive Strategies for Enhanced Problem-Solving</title>
-      <link>https://arxiv.org/abs/2509.13547</link>
-      <description>&lt;![CDATA[AI Agents with Human-Like Collaborative Tools: Adaptive Strategies for Enhanced Problem-Solving]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.13547</guid>
+      <title>稚晖君机器人炸场：全球首秀“真男人必会的韦伯斯特空翻”</title>
+      <link>https://www.qbitai.com/2025/09/333204.html</link>
+      <description>&lt;![CDATA[稚晖君机器人炸场：全球首秀“真男人必会的韦伯斯特空翻”]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 05:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333204.html</guid>
       <category>AI</category>
     </item>
   </channel>
