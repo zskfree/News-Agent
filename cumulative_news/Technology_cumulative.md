@@ -1,7 +1,185 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-18 08:26
+**最后更新时间**: 2025-09-18 23:22
+
+---
+
+## 🆕 最新更新 (2025-09-18 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】每年一次性发放，育儿补贴制度管理规范发布；英伟达以50亿美元入股英特尔，并达成芯片合作；房车新国标发布：行车“禁卧”“禁浴”，明年3月1日起实施](https://www.tmtpost.com/7699229.html)
+**发布时间**: 2025-09-19 07:20
+
+#### [大六座SUV的价格防线，被银河M9撕开了口子｜钛度车库](https://www.tmtpost.com/7698996.html)
+**发布时间**: 2025-09-19 00:03
+
+#### [海澜之家即将赴港IPO，海外市场能够成为新增量吗？](https://www.tmtpost.com/7698282.html)
+**发布时间**: 2025-09-18 21:30
+
+#### [“A+H”第五次冲击上市，八马茶业能否打破“上市即巅峰”诅咒？](https://www.tmtpost.com/7693148.html)
+**发布时间**: 2025-09-18 21:21
+
+#### [高管反目、发布延期，“对标” 苹果的魅族 22 能引领复兴吗？](https://www.tmtpost.com/7697779.html)
+**发布时间**: 2025-09-18 19:01
+
+#### [苹果也学会内卷了](https://www.tmtpost.com/7699032.html)
+**发布时间**: 2025-09-18 19:00
+
+#### [暴涨200%的美股SOFC龙头：Bloom Energy，AI Infra隐形受益标的](https://www.tmtpost.com/7699076.html)
+**发布时间**: 2025-09-18 19:00
+
+#### [Lululemon摔倒，alo在中国也吃不饱](https://www.tmtpost.com/7699085.html)
+**发布时间**: 2025-09-18 19:00
+
+#### [2025现制饮品新品策略研究：近2000款新品，茶饮、咖饮品牌上新方向全揭秘](https://www.tmtpost.com/7698945.html)
+**发布时间**: 2025-09-18 18:29
+
+#### [嘉信理财：“平民” 的逆袭，靠什么卷出金融红海？](https://www.tmtpost.com/7697730.html)
+**发布时间**: 2025-09-18 18:29
+
+#### [3年20亿押注30家新店，朗廷为何偏爱中国市场？](https://www.tmtpost.com/7698960.html)
+**发布时间**: 2025-09-18 18:29
+
+#### [CIS三巨头半年报透视，增长密码藏在哪？](https://www.tmtpost.com/7698989.html)
+**发布时间**: 2025-09-18 18:29
+
+#### [China's Didi, Meituan Double Down on Brazil's Food Delivery Market With Billions in New Investment](https://www.tmtpost.com/7698990.html)
+**发布时间**: 2025-09-18 18:14
+
+#### [顺丰京东菜鸟鏖战东南亚：极兔王座不稳？](https://www.tmtpost.com/7698927.html)
+**发布时间**: 2025-09-18 17:34
+
+#### [4.88亿买“壳”到手，常州富豪父子的上市梦近了](https://www.tmtpost.com/7698863.html)
+**发布时间**: 2025-09-18 17:34
+
+#### [FOF基金八年“涅槃”：多资产配置成共识，最新规模超1650亿元](https://www.tmtpost.com/7698784.html)
+**发布时间**: 2025-09-18 17:28
+
+#### [三季度倒计时，酒店资产疯狂“甩卖”](https://www.tmtpost.com/7698790.html)
+**发布时间**: 2025-09-18 17:27
+
+#### [餐饮加盟商，不再为“大牌”买单？](https://www.tmtpost.com/7698819.html)
+**发布时间**: 2025-09-18 17:27
+
+#### [预制菜的困局与出路：一场来自业内的真实对话](https://www.tmtpost.com/7698830.html)
+**发布时间**: 2025-09-18 17:27
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [These Are the 15 New York Officials ICE and NYPD Arrested in Manhattan](https://www.wired.com/story/ice-mass-arrests-new-york-officials/)
+**发布时间**: 2025-09-18 23:18
+
+#### [You Can Save $200 on Samsung’s Elite Gaming Monitor Today](https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/)
+**发布时间**: 2025-09-18 20:45
+
+#### [Brendan Carr Isn't Going to Stop Until Someone Makes Him](https://www.wired.com/story/brendan-carr-isnt-going-to-stop-until-someone-makes-him/)
+**发布时间**: 2025-09-18 20:18
+
+#### [No One Knows What ‘Terminally Online’ Means Anymore](https://www.wired.com/story/no-one-knows-what-being-terminally-online-means-anymore-thats-a-problem/)
+**发布时间**: 2025-09-18 20:07
+
+#### [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)
+**发布时间**: 2025-09-18 19:45
+
+#### [Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal](https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/)
+**发布时间**: 2025-09-18 19:44
+
+#### [The 44 Best Movies on Hulu This Week (September 2025)](https://www.wired.com/story/best-movies-hulu-right-now/)
+**发布时间**: 2025-09-18 19:00
+
+#### [Google Injects Gemini Into Chrome as AI Browsers Go Mainstream](https://www.wired.com/story/google-gemini-ai-chrome-browser/)
+**发布时间**: 2025-09-18 17:00
+
+#### [This Microsoft Entra ID Vulnerability Could Have Been Catastrophic](https://www.wired.com/story/microsoft-entra-id-vulnerability-digital-catastrophe/)
+**发布时间**: 2025-09-18 15:09
+
+#### [China Turns Legacy Chips Into a Trade Weapon](https://www.wired.com/story/china-probe-us-chip-makers-tiktok-deal/)
+**发布时间**: 2025-09-18 15:00
+
+#### [Political Influencers Are Ramping Up Security—and Posting Through It](https://www.wired.com/story/political-influencers-are-ramping-up-security-and-posting-through-it/)
+**发布时间**: 2025-09-18 14:40
+
+#### [25 Amazon Prime Perks You Might Not Be Using (2025)](https://www.wired.com/story/amazon-prime-perks/)
+**发布时间**: 2025-09-18 14:32
+
+#### [How to Trade In or Sell Your iPhone (2025)](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
+**发布时间**: 2025-09-18 14:00
+
+#### [Best Apple Watch (2025): Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
+**发布时间**: 2025-09-18 13:30
+
+#### [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)
+**发布时间**: 2025-09-18 13:00
+
+#### [How to Back Up Your iPhone to iCloud, MacOS, or Windows (2025)](https://www.wired.com/story/how-to-backup-your-iphone/)
+**发布时间**: 2025-09-18 12:30
+
+#### [What’s the Best iPhone to Buy or Avoid Right Now? (2025)](https://www.wired.com/gallery/iphone-buying-guide/)
+**发布时间**: 2025-09-18 12:00
+
+#### [The Home Depot Deals During the 2025 Decor Days Sales Event](https://www.wired.com/story/home-depot-decor-days-deals-2025/)
+**发布时间**: 2025-09-18 11:02
+
+#### [Cybercriminals Have a Weird New Way to Target You With Scam Texts](https://www.wired.com/story/sms-blasters-scam-texts/)
+**发布时间**: 2025-09-18 11:00
+
+#### [Anti-Trump Protesters Take Aim at ‘Naive’ US-UK AI Deal](https://www.wired.com/story/climate-activists-unite-in-london-to-protest-trump-visit-uk/)
+**发布时间**: 2025-09-18 10:49
+
+#### [AI Psychosis Is Rarely Psychosis at All](https://www.wired.com/story/ai-psychosis-is-rarely-psychosis-at-all/)
+**发布时间**: 2025-09-18 10:30
+
+#### [Meta’s New Smart Glasses Got a Subtle Name Change. It Speaks Volumes About What’s Wrong With Them](https://www.wired.com/story/metas-new-smart-glasses-got-a-subtle-name-change-it-speaks-volumes-about-whats-wrong-with-them/)
+**发布时间**: 2025-09-18 10:00
+
+#### [A Collision With Another Planet Could Have Allowed for Life on Earth](https://www.wired.com/story/a-collision-with-another-planet-could-have-allowed-for-life-on-earth/)
+**发布时间**: 2025-09-18 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Intel says Arc GPUs will live on after Nvidia deal](https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal)
+**发布时间**: 2025-09-18 22:23
+
+#### [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+**发布时间**: 2025-09-18 22:07
+
+#### [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
+**发布时间**: 2025-09-18 21:47
+
+#### [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
+**发布时间**: 2025-09-18 20:15
+
+#### [Hyundai CEO distances company from ICE raid: ‘not our facility’](https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump)
+**发布时间**: 2025-09-18 20:12
+
+#### [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)
+**发布时间**: 2025-09-18 19:35
+
+#### [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+**发布时间**: 2025-09-18 19:30
+
+#### [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
+**发布时间**: 2025-09-18 19:02
+
+#### [Ubiquiti’s new desktop NAS looks more like a wireless router](https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup)
+**发布时间**: 2025-09-18 18:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 引领的企业级智能分析架构演进与行业实践](https://www.infoq.cn/article/0F6EidxIFUmGNsSx3V2o?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 17:34
+
+#### [2025 AICon 收官站正式启动！诚邀优秀实践者提交议题](https://www.infoq.cn/article/xVVcTavj6ZHB0K8G4qEr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 17:24
+
+#### [在先进工艺背景受限下，华为继续以“超节点”解答算力可持续性挑战](https://www.infoq.cn/article/Ck7a4WDdiK2Wf4MzI4c4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-18 16:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 221｜少数派的编辑们最近买了啥？](https://sspai.com/post/102616)
+**发布时间**: 2025-09-18 17:00
 
 ---
 

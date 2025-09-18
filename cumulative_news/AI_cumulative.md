@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-18 08:26
+**最后更新时间**: 2025-09-18 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-18 23:17)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Sensible Agent: A framework for unobtrusive interaction with proactive AR agents](https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/)
+**发布时间**: 2025-09-18 20:10
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [科大讯飞发布面向东盟的多语言大模型及系列产品，布局中国—东盟AI生态大未来](https://www.jiqizhixin.com/articles/2025-09-18-10)
+**发布时间**: 2025-09-18 18:03
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed](https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/)
+**发布时间**: 2025-09-18 16:21
+
+#### [The Download: AI-designed viruses, and bad news for the hydrogen industry](https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/)
+**发布时间**: 2025-09-18 12:10
+
+#### [Clean hydrogen is facing a big reality check](https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/)
+**发布时间**: 2025-09-18 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [科大讯飞赋能史上最“AI”东博会：打造全场景无障碍沟通体验，发布东盟系列产品](https://www.qbitai.com/2025/09/333551.html)
+**发布时间**: 2025-09-18 11:10
+
+#### [2025人工智能年度评选启动！3大维度5类奖项，正在寻找AI+时代领航者](https://www.qbitai.com/2025/09/333499.html)
+**发布时间**: 2025-09-18 08:52
+
+#### [量子位「MEET2026智能未来大会」启动！年度榜单征集中](https://www.qbitai.com/2025/09/333291.html)
+**发布时间**: 2025-09-18 08:24
 
 ---
 

@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-18 05:18
+**最后更新时间**: 2025-09-18 23:22
+
+---
+
+## 🆕 最新更新 (2025-09-18 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Treasury yields rise after Fed rate cut; Powell in no ‘sprint’ to loosen policy](https://www.marketwatch.com/bulletins/redirect/go?g=b7b0a23c-090a-4726-bcf5-d1e8bee0dd4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 23:20
+
+#### [Why the $300 billion Oracle-OpenAI deal could be fueling an AI bubble](https://www.marketwatch.com/bulletins/redirect/go?g=6c961013-55e1-403d-a7a8-0a5d035641c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 23:19
+
+#### [Is AMD in trouble as Nvidia and Intel pair up? Not so fast, analysts say.](https://www.marketwatch.com/bulletins/redirect/go?g=5daf4857-9632-40ef-bb9c-751d7c35f250&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 22:04
+
+#### [As Russell 2000 scores record high, why the small-cap rally has room to run](https://www.marketwatch.com/bulletins/redirect/go?g=4a0be4df-8801-45e2-bcc2-435e26b7fe03&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 21:42
+
+#### [The bureaucratic mess facing disabled student-loan borrowers seeking debt relief](https://www.marketwatch.com/bulletins/redirect/go?g=e0f4988f-c619-456b-bb17-3d29b5ee708e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 21:10
+
+#### [Disney faces boycott after pulling Kimmel. Why it would fare better than Tesla.](https://www.marketwatch.com/bulletins/redirect/go?g=7d10946c-5aef-4bfe-8848-092df9da2514&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 20:21
+
+#### [Russell 2000 books first record close in 4 years as U.S. stocks end higher](https://www.marketwatch.com/bulletins/redirect/go?g=e63a8a00-e7b8-4887-aa1d-fcdb880b3186&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 20:03
+
+#### [Why mortgage rates are actually going up after the Fed cut interest rates](https://www.marketwatch.com/bulletins/redirect/go?g=eb14577e-bfd7-4e0e-896d-07457ae39411&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 19:04
+
+#### [This seasonal stock-market trading pattern is coming up — and worth observing](https://www.marketwatch.com/bulletins/redirect/go?g=3a57ad10-ddeb-427c-b5c2-820249a7607f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 16:48
+
+#### [This hedge-fund billionaire is ‘miserable’ about the big year he’s having](https://www.marketwatch.com/bulletins/redirect/go?g=580b1a1f-4936-45c9-a77e-4663a2d4bb22&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 16:06
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Treasury yields rise after Fed rate cut, with Powell in no ‘sprint’ to loosen policy](https://www.marketwatch.com/story/treasury-yields-rise-after-fed-rate-cut-with-powell-in-no-sprint-to-loosen-policy-5fbcfc3d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 23:12
+
+#### [One reason NBA star Kevin Durant is holding onto his bitcoin: He can’t get into his Coinbase account](https://www.marketwatch.com/story/one-reason-nba-star-kevin-durant-is-holding-onto-his-bitcoin-he-cant-get-into-his-coinbase-account-fcb5b58f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:37
+
+#### [One big takeaway from Fed rate cuts: Bulk up on these two investments](https://www.marketwatch.com/story/this-fed-has-its-head-in-the-sand-but-at-least-now-we-know-where-to-invest-a039fdb8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:26
+
+#### [FedEx offers this number in an early sign that trade uncertainty is easing](https://www.marketwatch.com/story/fedex-just-gave-investors-a-reason-to-be-more-optimistic-812ae005?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:26
+
+#### [Ditch quarterly earnings like Trump says? What’s needed is better reporting — not less.](https://www.marketwatch.com/story/ditch-quarterly-earnings-like-trump-says-whats-needed-is-better-reporting-not-less-7780011e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:23
+
+#### [The Fed has no problem with rate cuts — and neither does the stock market](https://www.marketwatch.com/story/the-fed-has-no-problem-with-rate-cuts-and-neither-does-the-stock-market-8605788a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:14
+
+#### [I’m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?](https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:07
+
+#### [My friends bought a house together. How do they untangle themselves from this mess?](https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:04
 
 ---
 

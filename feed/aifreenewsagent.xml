@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Sep 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 08:27:05 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 23:23:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nature | 20年后你会患上哪些疾病？AI准确预测超1000种疾病患病风险，助力预防</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-18-9</link>
-      <description>&lt;![CDATA[Nature | 20年后你会患上哪些疾病？AI准确预测超1000种疾病患病风险，助力预防]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 15:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-9</guid>
+      <title>Sensible Agent: A framework for unobtrusive interaction with proactive AR agents</title>
+      <link>https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/</link>
+      <description>&lt;![CDATA[Sensible Agent: A framework for unobtrusive interaction with proactive AR agents]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 20:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OneSearch，揭开快手电商搜索「一步到位」的秘技</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-18-8</link>
-      <description>&lt;![CDATA[OneSearch，揭开快手电商搜索「一步到位」的秘技]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-8</guid>
+      <title>科大讯飞发布面向东盟的多语言大模型及系列产品，布局中国—东盟AI生态大未来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-18-10</link>
+      <description>&lt;![CDATA[科大讯飞发布面向东盟的多语言大模型及系列产品，布局中国—东盟AI生态大未来]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-18-7</link>
-      <description>&lt;![CDATA[刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-7</guid>
+      <title>A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed</title>
+      <link>https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/</link>
+      <description>&lt;![CDATA[A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从一个公众号智能体说起：好用的Agent，究竟需要什么?</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-18-6</link>
-      <description>&lt;![CDATA[从一个公众号智能体说起：好用的Agent，究竟需要什么?]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-6</guid>
+      <title>The Download: AI-designed viruses, and bad news for the hydrogen industry</title>
+      <link>https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/</link>
+      <description>&lt;![CDATA[The Download: AI-designed viruses, and bad news for the hydrogen industry]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025 全球机器学习技术大会全日程官宣！</title>
-      <link>https://www.qbitai.com/2025/09/333269.html</link>
-      <description>&lt;![CDATA[GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025 全球机器学习技术大会全日程官宣！]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 07:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333269.html</guid>
+      <title>Clean hydrogen is facing a big reality check</title>
+      <link>https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/</link>
+      <description>&lt;![CDATA[Clean hydrogen is facing a big reality check]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>剂泰科技发布全球首个AI纳米递送平台NanoForge</title>
-      <link>https://www.qbitai.com/2025/09/333260.html</link>
-      <description>&lt;![CDATA[剂泰科技发布全球首个AI纳米递送平台NanoForge]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 05:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333260.html</guid>
+      <title>科大讯飞赋能史上最“AI”东博会：打造全场景无障碍沟通体验，发布东盟系列产品</title>
+      <link>https://www.qbitai.com/2025/09/333551.html</link>
+      <description>&lt;![CDATA[科大讯飞赋能史上最“AI”东博会：打造全场景无障碍沟通体验，发布东盟系列产品]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333551.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开源Agent模型榜第一名，现在是阿里通义DeepResearch</title>
-      <link>https://www.qbitai.com/2025/09/333245.html</link>
-      <description>&lt;![CDATA[开源Agent模型榜第一名，现在是阿里通义DeepResearch]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 05:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333245.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>腾讯披露元宝已是TOP3应用</title>
-      <link>https://www.qbitai.com/2025/09/333191.html</link>
-      <description>&lt;![CDATA[腾讯披露元宝已是TOP3应用]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 05:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333191.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>稚晖君机器人炸场：全球首秀“真男人必会的韦伯斯特空翻”</title>
-      <link>https://www.qbitai.com/2025/09/333204.html</link>
-      <description>&lt;![CDATA[稚晖君机器人炸场：全球首秀“真男人必会的韦伯斯特空翻”]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 05:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333204.html</guid>
+      <title>2025人工智能年度评选启动！3大维度5类奖项，正在寻找AI+时代领航者</title>
+      <link>https://www.qbitai.com/2025/09/333499.html</link>
+      <description>&lt;![CDATA[2025人工智能年度评选启动！3大维度5类奖项，正在寻找AI+时代领航者]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333499.html</guid>
       <category>AI</category>
     </item>
   </channel>
