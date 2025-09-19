@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-19 05:18
+**最后更新时间**: 2025-09-19 08:26
+
+---
+
+## 🆕 最新更新 (2025-09-19 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从2499到3299：Rokid还要收割几次信任？](https://www.tmtpost.com/7699831.html)
+**发布时间**: 2025-09-19 16:19
+
+#### [9月19日A股分析：沪指微跌0.3%，两市成交超2.3万亿元，机器人概念遭主力抛售275亿，锂矿概念逆势吸金33亿领涨](https://www.tmtpost.com/7699910.html)
+**发布时间**: 2025-09-19 15:36
+
+#### [iPhone 17 Launch Sparks Frenzy Across China as Fans and Scalpers Flock to Apple Stores](https://www.tmtpost.com/7699957.html)
+**发布时间**: 2025-09-19 15:36
+
+#### [沃尔玛想再造一个沃尔玛](https://www.tmtpost.com/7699810.html)
+**发布时间**: 2025-09-19 15:20
+
+#### [阿维塔发布Vision Xpectra概念车，剑指全球高端市场](https://www.tmtpost.com/7699905.html)
+**发布时间**: 2025-09-19 15:04
+
+#### [临上市的MiniMax，惹怒了迪士尼](https://www.tmtpost.com/7699684.html)
+**发布时间**: 2025-09-19 14:44
+
+#### [Nvidia-Intel Deal Won't Affect TSMC's AI Chip Orders: Analyst](https://www.tmtpost.com/7699871.html)
+**发布时间**: 2025-09-19 14:40
+
+#### [Nvidia CEO Denies Trump Admin.'s Involvement in $5 Billion Investment in Intel](https://www.tmtpost.com/7699840.html)
+**发布时间**: 2025-09-19 13:57
+
+#### [腾讯把自己挣钱的AI开放了](https://www.tmtpost.com/7699610.html)
+**发布时间**: 2025-09-19 13:50
+
+#### [外卖战火，烧向全球](https://www.tmtpost.com/7699475.html)
+**发布时间**: 2025-09-19 13:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [.NET 10 RC 1：Blazor引入持久化状态、增强验证功能及生产就绪工具](https://www.infoq.cn/article/MyyaVZJhUt5tSAXmyqpB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 16:00
+
+#### [史诗级和解：英特尔获宿敌英伟达超350亿投资，股价创38年最大单日涨幅](https://www.infoq.cn/article/kM9JAgIZbJo7ZvpRgH7g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 15:54
+
+#### [从预测到增效：蚂蚁数科升级推出能源时序大模型EnergyTS 2.0](https://www.infoq.cn/article/VolzpeIzFho9xhNyeOek?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 15:35
+
+#### [Dify：Memory Engineering 如何与人类认知对齐｜QCon 上海](https://www.infoq.cn/article/CyN0xPMQbzpLNsp0kxUZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 15:15
+
+#### [AI Coding正在重塑大前端！一码多端如何破局？](https://www.infoq.cn/article/tPSk2VDGP5K9P9R978y7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 15:03
+
+#### [模型测试不再跳来跳去，VS Code + Hugging Face = 真香](https://www.infoq.cn/article/TUjGZ9YfGIp8WO7OcCEA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 14:30
+
+#### [Azure 服务组公开预览上线：推出资源管理新抽象层](https://www.infoq.cn/article/Nb80S1vUf5h4ch0i34hm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 14:00
+
+#### [智能体时代：AI 应用架构、交付与基础设施全景指南](https://www.infoq.cn/article/qLx1oHCkcH49uJZSo5Ux?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 13:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 知你懂你、任你全力奔赴，watchOS 26 中值得尝鲜的新功能](https://sspai.com/post/102436)
+**发布时间**: 2025-09-19 15:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Nothing’s charging case ‘Super Mic’ is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
+**发布时间**: 2025-09-18 21:47
 
 ---
 
