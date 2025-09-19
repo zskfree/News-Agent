@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-18 23:22
+**最后更新时间**: 2025-09-19 05:18
+
+---
+
+## 🆕 最新更新 (2025-09-19 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Google searches for ‘help with mortgage’ haven’t been this high since 2009](https://www.marketwatch.com/story/google-searches-for-help-with-mortgage-havent-been-this-high-since-2009-7e0354cf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 02:50
+
+#### [Why mortgage rates are actually going up after the Fed cut interest rates](https://www.marketwatch.com/story/why-mortgage-rates-are-actually-going-up-after-the-fed-cut-interest-rates-87c712bd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 02:05
+
+#### [How much money will you get in the Facebook settlement? Here’s how class-action suits work.](https://www.marketwatch.com/story/filing-a-claim-as-part-of-the-at-t-177-million-settlement-that-could-just-be-the-start-of-your-class-action-journey-a4d33066?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 00:50
+
+#### [‘I spend 5 hours a day on my portfolio’: I’m 70 and received $300K in a lawsuit. Here’s my foolproof financial plan.](https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 00:15
+
+#### [Netskope leaps into a hot IPO market, and the cybersecurity stock jumps 18% in its debut](https://www.marketwatch.com/story/hot-ipo-market-continues-as-cybersecurity-software-company-netskope-raises-908-million-ac0e368a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 00:02
+
+#### [Boycott Disney over pulling Jimmy Kimmel? Why the company will likely fare better than Tesla and Bud Light did.](https://www.marketwatch.com/story/boycott-disney-over-pulling-jimmy-kimmel-why-the-company-will-likely-fare-better-than-tesla-and-bud-light-did-ae6d7759?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 23:44
+
+#### [Intel’s stock is soaring. Here’s why Nvidia is investing $5 billion in the chip maker.](https://www.marketwatch.com/story/intels-stock-is-soaring-why-nvidia-is-investing-5-billion-in-the-chip-maker-e1296651?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 23:42
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fans hate dynamic pricing -- but here's why ticket scalpers do too](https://www.marketwatch.com/bulletins/redirect/go?g=c87da26b-e899-4530-ba60-209ad67b797b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 01:04
 
 ---
 

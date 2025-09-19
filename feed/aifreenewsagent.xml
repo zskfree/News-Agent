@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 23:23:25 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Sep 2025 05:20:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sensible Agent: A framework for unobtrusive interaction with proactive AR agents</title>
-      <link>https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/</link>
-      <description>&lt;![CDATA[Sensible Agent: A framework for unobtrusive interaction with proactive AR agents]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 20:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/</guid>
+      <title>生物学迎来「ChatGPT时刻」：Evo构建首个AI生成的「基因组」，开启生成式基因设计时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-19-3</link>
+      <description>&lt;![CDATA[生物学迎来「ChatGPT时刻」：Evo构建首个AI生成的「基因组」，开启生成式基因设计时代]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科大讯飞发布面向东盟的多语言大模型及系列产品，布局中国—东盟AI生态大未来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-18-10</link>
-      <description>&lt;![CDATA[科大讯飞发布面向东盟的多语言大模型及系列产品，布局中国—东盟AI生态大未来]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-18-10</guid>
+      <title>DetectAnyLLM: Towards Generalizable and Robust Detection of Machine-Generated Text Across Domains and Models</title>
+      <link>https://arxiv.org/abs/2509.14268</link>
+      <description>&lt;![CDATA[DetectAnyLLM: Towards Generalizable and Robust Detection of Machine-Generated Text Across Domains and Models]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.14268</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed</title>
-      <link>https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/</link>
-      <description>&lt;![CDATA[A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/</guid>
+      <title>千禧年大奖难题有望突破？AI为流体动力学提供新思路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-19-4</link>
+      <description>&lt;![CDATA[千禧年大奖难题有望突破？AI为流体动力学提供新思路]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: AI-designed viruses, and bad news for the hydrogen industry</title>
-      <link>https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/</link>
-      <description>&lt;![CDATA[The Download: AI-designed viruses, and bad news for the hydrogen industry]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/</guid>
+      <title>华为发布AI超节点服务器Atlas 850，支持128台1024卡超节点集群</title>
+      <link>https://www.qbitai.com/2025/09/333834.html</link>
+      <description>&lt;![CDATA[华为发布AI超节点服务器Atlas 850，支持128台1024卡超节点集群]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 02:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333834.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Clean hydrogen is facing a big reality check</title>
-      <link>https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/</link>
-      <description>&lt;![CDATA[Clean hydrogen is facing a big reality check]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/</guid>
+      <title>生数科技再获数亿元大额融资，Vidu领跑多模态大模型赛道</title>
+      <link>https://www.qbitai.com/2025/09/333820.html</link>
+      <description>&lt;![CDATA[生数科技再获数亿元大额融资，Vidu领跑多模态大模型赛道]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 01:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333820.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>科大讯飞赋能史上最“AI”东博会：打造全场景无障碍沟通体验，发布东盟系列产品</title>
-      <link>https://www.qbitai.com/2025/09/333551.html</link>
-      <description>&lt;![CDATA[科大讯飞赋能史上最“AI”东博会：打造全场景无障碍沟通体验，发布东盟系列产品]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333551.html</guid>
+      <title>华为全联接大会2025：华为云以AI新引擎，重塑千行万业智能跃升</title>
+      <link>https://www.qbitai.com/2025/09/333777.html</link>
+      <description>&lt;![CDATA[华为全联接大会2025：华为云以AI新引擎，重塑千行万业智能跃升]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 01:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333777.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025人工智能年度评选启动！3大维度5类奖项，正在寻找AI+时代领航者</title>
-      <link>https://www.qbitai.com/2025/09/333499.html</link>
-      <description>&lt;![CDATA[2025人工智能年度评选启动！3大维度5类奖项，正在寻找AI+时代领航者]]&gt;</description>
-      <pubDate>Thu, 18 Sep 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333499.html</guid>
+      <title>找ChatGPT谈恋爱多是“日久生情”？！MIT&amp;哈佛正经研究</title>
+      <link>https://www.qbitai.com/2025/09/333596.html</link>
+      <description>&lt;![CDATA[找ChatGPT谈恋爱多是“日久生情”？！MIT&amp;哈佛正经研究]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 01:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333596.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>时隔多年，AI芯片又是华为发布会主角了</title>
+      <link>https://www.qbitai.com/2025/09/333577.html</link>
+      <description>&lt;![CDATA[时隔多年，AI芯片又是华为发布会主角了]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 01:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/333577.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>What does the future hold for generative AI?</title>
+      <link>https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919</link>
+      <description>&lt;![CDATA[What does the future hold for generative AI?]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents</title>
+      <link>https://arxiv.org/abs/2509.14382</link>
+      <description>&lt;![CDATA[Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents]]&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.14382</guid>
       <category>AI</category>
     </item>
   </channel>
