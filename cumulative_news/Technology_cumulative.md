@@ -1,7 +1,175 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-19 08:26
+**最后更新时间**: 2025-09-19 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-19 23:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 上岗：大模型能否接管 SRE 的值班？](https://www.infoq.cn/article/X2TgjBWrDhtad74ul0KL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 23:59
+
+#### [华为云加码AI云服务，从算力到Agent的全景布局](https://www.infoq.cn/article/xUI4xQQ6eJ9Z0VHaE0mz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 21:21
+
+#### [遍历100篇核心文献，北大这篇综述全景解析「代码智能体」技术演进](https://www.infoq.cn/article/j6JrMqCNxviz7lyGkuJG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 17:31
+
+#### [用Nano Banana复现Al视频，最后要靠即梦 “擦屁股〞？｜AI的n次方](https://www.infoq.cn/video/2UgV2UqpKXSYtZ4eZ6e2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 17:17
+
+#### [搜狐架构演进技术实践：我们如何用MCP Registry根治AI Agent的“千具之灾”](https://www.infoq.cn/article/9R91ct7t1zhldXE6sLrX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 17:09
+
+#### [字节跳动 Trae 架构师张聪确认出席 QCon 上海，分享Trae Agent 架构演进](https://www.infoq.cn/article/j4Iv0tAbkblL7me2b8Vd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-19 16:50
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china)
+**发布时间**: 2025-09-19 23:13
+
+#### [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
+**发布时间**: 2025-09-19 22:12
+
+#### [Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation)
+**发布时间**: 2025-09-19 22:01
+
+#### [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
+**发布时间**: 2025-09-19 19:12
+
+#### [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi)
+**发布时间**: 2025-09-19 18:04
+
+#### [It&#8217;s new iPhone day, so grab some screen protectors for just $4.49](https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale)
+**发布时间**: 2025-09-19 18:03
+
+#### [Ugreen’s new super slim wallet tracker has 5 years of battery life](https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life)
+**发布时间**: 2025-09-19 17:47
+
+#### [So… is there a TikTok deal or not?](https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous)
+**发布时间**: 2025-09-19 17:35
+
+#### [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)
+**发布时间**: 2025-09-19 15:50
+
+#### [ESPN and Fox One net one million signups in under two weeks](https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups)
+**发布时间**: 2025-09-19 15:32
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 51 Best Shows on Netflix Right Now (September 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-09-19 22:50
+
+#### [RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots](https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/)
+**发布时间**: 2025-09-19 21:39
+
+#### [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)
+**发布时间**: 2025-09-19 19:02
+
+#### [10 Best Smartwatches (2025): Apple, Wear OS, Hybrid & Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
+**发布时间**: 2025-09-19 17:28
+
+#### [The 9 Best Grills of 2025](https://www.wired.com/gallery/best-grills-and-smokers/)
+**发布时间**: 2025-09-19 15:33
+
+#### [YouTube Thinks AI Is Its Next Big Bang](https://www.wired.com/story/youtube-thinks-ai-is-its-next-big-bang/)
+**发布时间**: 2025-09-19 15:00
+
+#### [What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors](https://www.wired.com/story/high-refresh-rate-explained/)
+**发布时间**: 2025-09-19 14:00
+
+#### [8 Best Alexa Speakers and Amazon Echo Devices We’ve Tested (2025)](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+**发布时间**: 2025-09-19 13:31
+
+#### [How to Switch iPhones or iPads and Transfer Data (2025)](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
+**发布时间**: 2025-09-19 13:00
+
+#### [11 Best Hoodies for Style, Comfort, and Warmth (2025)](https://www.wired.com/gallery/best-hoodies/)
+**发布时间**: 2025-09-19 12:00
+
+#### [16 Best Apple Watch Accessories (2025): Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+**发布时间**: 2025-09-19 11:30
+
+#### [How Energy-Generating Sidewalks Work](https://www.wired.com/story/how-energy-generating-sidewalks-work/)
+**发布时间**: 2025-09-19 11:00
+
+#### [EVs Have Gotten Too Powerful](https://www.wired.com/story/evs-have-gotten-too-powerful/)
+**发布时间**: 2025-09-19 11:00
+
+#### [Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’](https://www.wired.com/story/meta-lawsuit-strike-3-porn-copyright-ai/)
+**发布时间**: 2025-09-19 10:30
+
+#### [How to Avoid Scams and Shoddy Wares on Amazon (2025)](https://www.wired.com/story/how-shop-safe-amazon/)
+**发布时间**: 2025-09-19 10:06
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [收集“龙珠”，亚马逊云科技要召唤什么？](https://www.tmtpost.com/7700516.html)
+**发布时间**: 2025-09-19 22:16
+
+#### [从清仓套利超1.6亿到变身战投，天阳科技对首都在线的角色突变之谜](https://www.tmtpost.com/7700485.html)
+**发布时间**: 2025-09-19 21:43
+
+#### [传音控股控股股东折价套现18亿，非洲之王遭遇成长“烦恼期”](https://www.tmtpost.com/7700336.html)
+**发布时间**: 2025-09-19 21:39
+
+#### [关税还不够？美国盯上中国卖家“钱包”](https://www.tmtpost.com/7699968.html)
+**发布时间**: 2025-09-19 19:33
+
+#### [星巴克中国创新科技中心发布数字化成果；喜茶「超级植物茶」一周年卖出1亿杯；始祖鸟运动员刘洋携团队成功完攀卓木拉日三峰｜消研所周报](https://www.tmtpost.com/7700058.html)
+**发布时间**: 2025-09-19 19:32
+
+#### [WAKUKU盲盒一年爆火，量子之歌预计2026年潮玩收入达1亿元](https://www.tmtpost.com/7699252.html)
+**发布时间**: 2025-09-19 19:32
+
+#### [从抖音的“大甲方”，到线下的“大乙方”：转转的2.0生存法则 | 巴伦精选](https://www.tmtpost.com/7700378.html)
+**发布时间**: 2025-09-19 19:31
+
+#### [「一页纸」讲透美股公司之：Opendoor，困境反转带来的十倍弹性](https://www.tmtpost.com/7700127.html)
+**发布时间**: 2025-09-19 19:31
+
+#### [正在“国退民进”的三亚高星酒店…](https://www.tmtpost.com/7699792.html)
+**发布时间**: 2025-09-19 19:31
+
+#### [潮玩的舞台天然国际化](https://www.tmtpost.com/7699781.html)
+**发布时间**: 2025-09-19 19:31
+
+#### [TikTok在美国稳了，它居然是最大赢家](https://www.tmtpost.com/7699749.html)
+**发布时间**: 2025-09-19 19:29
+
+#### [马云、刘强东“重出江湖”，大厂发力新生意](https://www.tmtpost.com/7700301.html)
+**发布时间**: 2025-09-19 19:29
+
+#### [支棱起来的哈尔滨酒店业，值不值得投资？](https://www.tmtpost.com/7699899.html)
+**发布时间**: 2025-09-19 18:52
+
+#### [大涨337.66%，支撑工业富联的只有“头雁效应”吗](https://www.tmtpost.com/7700229.html)
+**发布时间**: 2025-09-19 18:52
+
+#### [国产人形机器人，用的哪家处理器？](https://www.tmtpost.com/7700280.html)
+**发布时间**: 2025-09-19 18:52
+
+#### [白菜价智驾：宝骏10万级城市领航能跑顺吗？](https://www.tmtpost.com/7700256.html)
+**发布时间**: 2025-09-19 18:45
+
+#### [中国人民抗日战争暨世界反法西斯战争胜利80周年、中国工业合作协会成立87周年纪念大会在京召开](https://www.tmtpost.com/7700174.html)
+**发布时间**: 2025-09-19 18:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [地图APP混战20年：赢于简洁、败在臃肿](http://www.huxiu.com/article/4782412.html?f=wangzhan)
+**发布时间**: 2025-09-19 22:04
+
+#### [娃哈哈更名，宗馥莉能重新掌控一切吗？](http://www.huxiu.com/article/4782281.html?f=wangzhan)
+**发布时间**: 2025-09-19 18:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/102640)
+**发布时间**: 2025-09-19 17:42
 
 ---
 

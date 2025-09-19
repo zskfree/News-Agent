@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-19 05:18
+**最后更新时间**: 2025-09-19 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-19 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Can Taylor Swift save the movie industry again with her ‘Showgirl’ film release?](https://www.marketwatch.com/bulletins/redirect/go?g=a2d73b09-87e2-452c-b331-8a801f39dee3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 22:41
+
+#### [Stocks often suffer in late September. Why the bears may be kept away this time.](https://www.marketwatch.com/bulletins/redirect/go?g=f9902fe9-e916-46e7-8ced-6fecbfec551b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 21:56
+
+#### [People say Apple’s new iPhone scratches easily; analysts say it won't hurt sales](https://www.marketwatch.com/bulletins/redirect/go?g=94145ee5-9dab-47b7-8bae-026d3f379bd3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 21:04
+
+#### [Dow, S&P 500 and Nasdaq close at fresh records as U.S. stocks score weekly gains](https://www.marketwatch.com/bulletins/redirect/go?g=4f2c376e-53fe-4fa7-87fb-f24083935e7a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 20:01
+
+#### [Trump touts TikTok deal — but doesn’t address fear that China ‘retains a veto’](https://www.marketwatch.com/bulletins/redirect/go?g=b4e2dbbd-9177-4356-ab27-36a367e73984&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 19:41
+
+#### [Dow, S&P 500 and Nasdaq all on track for records in final hour — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=c13ba303-62c5-4158-8263-2132551c89e0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 19:02
+
+#### [Analysts offer theories as to why Microsoft's stock has fallen out of favor](https://www.marketwatch.com/bulletins/redirect/go?g=ba5143c8-d642-450c-996e-c31546d6bed4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 18:30
+
+#### [A government shutdown looms as the Senate rejects the latest spending bill](https://www.marketwatch.com/bulletins/redirect/go?g=8b573b3a-ceae-4556-8d45-dcdbcda24567&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 17:58
+
+#### [How Nexstar became the tip of the spear in a free-speech fight over Jimmy Kimmel](https://www.marketwatch.com/bulletins/redirect/go?g=97f01324-47ec-410d-af21-1a2fe792df26&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 17:23
+
+#### [Small-cap Russell 2000 steps back as other equity indexes rise — live coverage](https://www.marketwatch.com/bulletins/redirect/go?g=12006e0d-1436-482d-b104-632237c4ef40&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 16:44
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers — and not her fans](https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 22:27
+
+#### [Taylor Swift tries to save the movie industry again with ‘Showgirl’ film release](https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 21:47
+
+#### [Trump touts TikTok deal but doesn’t address fear that China ‘retains a veto’](https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 21:08
+
+#### [Stocks tend to suffer in the second half of September — but the Fed’s rate cut might keep bears at bay](https://www.marketwatch.com/story/stocks-tend-to-suffer-in-the-second-half-of-september-but-the-feds-rate-cut-might-keep-bears-at-bay-6aa7d63b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 21:00
+
+#### [Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.](https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:54
+
+#### [People are complaining that Apple’s new iPhone 17 scratches easily — but these Wall Street analysts say it won’t hurt sales](https://www.marketwatch.com/story/people-are-complaining-that-apples-new-iphone-17-scratches-easily-but-these-wall-street-analysts-say-it-wont-hurt-sales-9890ade2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:45
+
+#### [COVID-19 vaccine recommendations dropped by panel, shots won’t require a prescription](https://www.marketwatch.com/story/covid-19-vaccine-wont-require-a-prescription-according-to-hhs-panel-vote-c68d7d94?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:38
+
+#### [Social Security is on track to be insolvent in less than 10 years — but its commissioner says there’s ‘plenty of time’ to find a solution](https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:21
 
 ---
 
