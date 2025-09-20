@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Sep 2025 23:18:28 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 05:18:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>星巴克中国创新科技中心发布数字化成果；喜茶「超级植物茶」一周年卖出1亿杯；始祖鸟运动员刘洋携团队成功完攀卓木拉日三峰｜消研所周报</title>
-      <link>https://www.tmtpost.com/7700058.html</link>
-      <description>&lt;![CDATA[星巴克中国创新科技中心发布数字化成果；喜茶「超级植物茶」一周年卖出1亿杯；始祖鸟运动员刘洋携团队成功完攀卓木拉日三峰｜消研所周报]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 19:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7700058.html</guid>
+      <title>“拜把子”的英伟达英特尔，开启“芯片大战”序幕</title>
+      <link>https://www.tmtpost.com/7700348.html</link>
+      <description>&lt;![CDATA[“拜把子”的英伟达英特尔，开启“芯片大战”序幕]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700348.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>遍历100篇核心文献，北大这篇综述全景解析「代码智能体」技术演进</title>
-      <link>https://www.infoq.cn/article/j6JrMqCNxviz7lyGkuJG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[遍历100篇核心文献，北大这篇综述全景解析「代码智能体」技术演进]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j6JrMqCNxviz7lyGkuJG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>赓续世博叙事，五粮液创新白酒出海新表达</title>
+      <link>https://www.tmtpost.com/7700681.html</link>
+      <description>&lt;![CDATA[赓续世博叙事，五粮液创新白酒出海新表达]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700681.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>搜狐架构演进技术实践：我们如何用MCP Registry根治AI Agent的“千具之灾”</title>
-      <link>https://www.infoq.cn/article/9R91ct7t1zhldXE6sLrX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[搜狐架构演进技术实践：我们如何用MCP Registry根治AI Agent的“千具之灾”]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 17:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9R91ct7t1zhldXE6sLrX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>数据与大语言模型（LLM）安全融合的核心要素 | 技术实践</title>
+      <link>https://www.infoq.cn/article/YRHSSlXWjOevN9ISatWj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[数据与大语言模型（LLM）安全融合的核心要素 | 技术实践]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YRHSSlXWjOevN9ISatWj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>收集“龙珠”，亚马逊云科技要召唤什么？</title>
-      <link>https://www.tmtpost.com/7700516.html</link>
-      <description>&lt;![CDATA[收集“龙珠”，亚马逊云科技要召唤什么？]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 22:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7700516.html</guid>
+      <title>Snowflake 云数据仓库原生语义视图：为企业解锁轻松、高效、可信的 AI 驱动商业智能 | 技术趋势</title>
+      <link>https://www.infoq.cn/article/mwQ5SA2sXWNkMANJEVy0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake 云数据仓库原生语义视图：为企业解锁轻松、高效、可信的 AI 驱动商业智能 | 技术趋势]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mwQ5SA2sXWNkMANJEVy0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从清仓套利超1.6亿到变身战投，天阳科技对首都在线的角色突变之谜</title>
-      <link>https://www.tmtpost.com/7700485.html</link>
-      <description>&lt;![CDATA[从清仓套利超1.6亿到变身战投，天阳科技对首都在线的角色突变之谜]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 21:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7700485.html</guid>
+      <title>OpenAI联手立讯精密开发AI硬件，此前疯狂挖角苹果骨干</title>
+      <link>https://www.tmtpost.com/7700716.html</link>
+      <description>&lt;![CDATA[OpenAI联手立讯精密开发AI硬件，此前疯狂挖角苹果骨干]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 12:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700716.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 上岗：大模型能否接管 SRE 的值班？</title>
-      <link>https://www.infoq.cn/article/X2TgjBWrDhtad74ul0KL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 上岗：大模型能否接管 SRE 的值班？]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 23:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/X2TgjBWrDhtad74ul0KL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>独立后的一汽捷达，打响生存战</title>
+      <link>https://www.tmtpost.com/7700445.html</link>
+      <description>&lt;![CDATA[独立后的一汽捷达，打响生存战]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700445.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为云加码AI云服务，从算力到Agent的全景布局</title>
-      <link>https://www.infoq.cn/article/xUI4xQQ6eJ9Z0VHaE0mz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[华为云加码AI云服务，从算力到Agent的全景布局]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 21:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xUI4xQQ6eJ9Z0VHaE0mz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>今天的品牌，急需补上「平等对话」这门课</title>
+      <link>https://www.tmtpost.com/7700343.html</link>
+      <description>&lt;![CDATA[今天的品牌，急需补上「平等对话」这门课]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700343.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>用Nano Banana复现Al视频，最后要靠即梦 “擦屁股〞？｜AI的n次方</title>
-      <link>https://www.infoq.cn/video/2UgV2UqpKXSYtZ4eZ6e2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[用Nano Banana复现Al视频，最后要靠即梦 “擦屁股〞？｜AI的n次方]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/2UgV2UqpKXSYtZ4eZ6e2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英特尔：抱上英伟达 “大肉腿”，谁是真赢家？</title>
+      <link>https://www.tmtpost.com/7700316.html</link>
+      <description>&lt;![CDATA[英特尔：抱上英伟达 “大肉腿”，谁是真赢家？]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700316.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节跳动 Trae 架构师张聪确认出席 QCon 上海，分享Trae Agent 架构演进</title>
-      <link>https://www.infoq.cn/article/j4Iv0tAbkblL7me2b8Vd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[字节跳动 Trae 架构师张聪确认出席 QCon 上海，分享Trae Agent 架构演进]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j4Iv0tAbkblL7me2b8Vd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>被约谈的携程，走“新路”的京东，OTA市场风云再起</title>
+      <link>https://www.tmtpost.com/7699248.html</link>
+      <description>&lt;![CDATA[被约谈的携程，走“新路”的京东，OTA市场风云再起]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7699248.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Trump claims the US is about to get a tremendous fee for taking TikTok out of China</title>
-      <link>https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china</link>
-      <description>&lt;![CDATA[Trump claims the US is about to get a tremendous fee for taking TikTok out of China]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 23:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china</guid>
+      <title>地图APP混战20年：赢于简洁、败在臃肿</title>
+      <link>https://www.tmtpost.com/7700501.html</link>
+      <description>&lt;![CDATA[地图APP混战20年：赢于简洁、败在臃肿]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700501.html</guid>
       <category>Technology</category>
     </item>
   </channel>

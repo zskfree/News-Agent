@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Sep 2025 23:18:28 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 05:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 05:18:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为超节点：用「一台机器」的逻辑，驱动AI万卡集群</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-19-9</link>
-      <description>&lt;![CDATA[华为超节点：用「一台机器」的逻辑，驱动AI万卡集群]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 22:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-9</guid>
+      <title>含“华”量超高的奥迪，卖爆了</title>
+      <link>https://www.qbitai.com/2025/09/334127.html</link>
+      <description>&lt;![CDATA[含“华”量超高的奥迪，卖爆了]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 02:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334127.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>5555被拒稿，AC接收但PC强拒，NeurIPS揭榜引争议</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-19-8</link>
-      <description>&lt;![CDATA[5555被拒稿，AC接收但PC强拒，NeurIPS揭榜引争议]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>超强开源模型Qwen3、DeepSeek-V3.1，都被云计算一哥「收」了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-19-7</link>
-      <description>&lt;![CDATA[超强开源模型Qwen3、DeepSeek-V3.1，都被云计算一哥「收」了]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>攻克大模型训推差异难题，蚂蚁开源新一代推理模型Ring-flash-2.0</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-19-6</link>
-      <description>&lt;![CDATA[攻克大模型训推差异难题，蚂蚁开源新一代推理模型Ring-flash-2.0]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>给大模型「精准手术」：美团智能客服提出逆向学习技术精准纠偏，风险控制提升38%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-19-5</link>
-      <description>&lt;![CDATA[给大模型「精准手术」：美团智能客服提出逆向学习技术精准纠偏，风险控制提升38%]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-19-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Deep researcher with test-time diffusion</title>
-      <link>https://research.google/blog/deep-researcher-with-test-time-diffusion/</link>
-      <description>&lt;![CDATA[Deep researcher with test-time diffusion]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 20:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/deep-researcher-with-test-time-diffusion/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>The Download: the CDC’s vaccine chaos</title>
-      <link>https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/</link>
-      <description>&lt;![CDATA[The Download: the CDC’s vaccine chaos]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>IDC：2025年上半年大模型公有云市场，火山引擎占比49.2%排名第一</title>
-      <link>https://www.qbitai.com/2025/09/334030.html</link>
-      <description>&lt;![CDATA[IDC：2025年上半年大模型公有云市场，火山引擎占比49.2%排名第一]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334030.html</guid>
+      <title>小扎把马斯克机器人一号位挖走了</title>
+      <link>https://www.qbitai.com/2025/09/334038.html</link>
+      <description>&lt;![CDATA[小扎把马斯克机器人一号位挖走了]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 02:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334038.html</guid>
       <category>AI</category>
     </item>
     <item>
@@ -83,18 +35,18 @@
 
 ---
 
-## 🆕 最新更新 (2025-09-19 08:26)
-### 📰 来源: [量子位</title>
-      <link>https://www.qbitai.com/feed</link>
+## 🆕 最新更新 (2025-09-19 23:17)
+### 📰 来源: [机器之心</title>
+      <link>https://www.jiqizhixin.com/rss</link>
       <description>&lt;![CDATA[](https://www.qbitai.com/2025/09/333864.html)
 **发布时间**: 2025-09-19 07:42
 
 ---
 
-## 🆕 最新更新 (2025-09-19 08:26)
-### 📰 来源: [量子位]]&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 23:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/feed</guid>
+## 🆕 最新更新 (2025-09-19 23:17)
+### 📰 来源: [机器之心]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 05:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/rss</guid>
       <category>AI</category>
     </item>
   </channel>
