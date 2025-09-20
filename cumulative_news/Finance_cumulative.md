@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-19 23:17
+**最后更新时间**: 2025-09-20 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-20 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My in-laws, 95, are leaving us $250K. What’s the smart way to invest this money?](https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 20:01
+
+#### [Social Security’s dead people and Medicare’s fraudsters are real. But stopping them won’t rescue the federal budget.](https://www.marketwatch.com/story/social-securitys-dead-people-and-medicares-fraudsters-real-but-stopping-them-wont-save-the-budget-ed7c89b0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 18:43
+
+#### [$1,525 for a ‘Hamilton’ ticket? Why premium seats on Broadway are getting so expensive.](https://www.marketwatch.com/story/have-a-spare-1-525-thats-what-the-top-ticket-to-hamilton-now-costs-on-broadway-dde2bcb2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 17:14
+
+#### [Should we drain our $200,000 savings for Roth conversions on $2.3 million in our 60s?](https://www.marketwatch.com/story/should-we-drain-our-200-000-savings-for-roth-conversions-on-2-3-million-in-our-60s-4d710f5d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 16:54
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.](https://www.marketwatch.com/bulletins/redirect/go?g=06ac0b67-72ff-4f53-ab0c-20a63e009e17&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-20 14:25
+
+#### [Forget chips: The next battleground in the U.S.-China AI race is nuclear power](https://www.marketwatch.com/bulletins/redirect/go?g=594b999f-d9a0-49fb-8751-3d6e9d7261ef&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-20 13:45
+
+#### [Why the bull market for stocks may now hinge on the 10-year Treasury yield](https://www.marketwatch.com/bulletins/redirect/go?g=28f6935b-681f-4d6a-b3a3-b6f40203b1ef&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-20 13:14
 
 ---
 

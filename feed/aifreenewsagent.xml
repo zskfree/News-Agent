@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 20 Sep 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Sep 2025 08:23:44 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 23:18:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,47 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>陈天桥旗下AI公司MiroMind打造全球顶尖预测型大模型，性能登顶行业基准</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-20-3</link>
-      <description>&lt;![CDATA[陈天桥旗下AI公司MiroMind打造全球顶尖预测型大模型，性能登顶行业基准]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 14:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-20-3</guid>
+      <title>敢和刘慈欣叫板的AI诞生了</title>
+      <link>https://www.qbitai.com/2025/09/334365.html</link>
+      <description>&lt;![CDATA[敢和刘慈欣叫板的AI诞生了]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334365.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI从苹果挖了20多人搞硬件，知情人士：苹果创新缓慢、官僚主义令人厌倦</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-20-2</link>
-      <description>&lt;![CDATA[OpenAI从苹果挖了20多人搞硬件，知情人士：苹果创新缓慢、官僚主义令人厌倦]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-20-2</guid>
+      <title>OpenAI硬件，也选了中国“果链”公司立讯精密</title>
+      <link>https://www.qbitai.com/2025/09/334349.html</link>
+      <description>&lt;![CDATA[OpenAI硬件，也选了中国“果链”公司立讯精密]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334349.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Mini-Omni-Reasoner：实时推理，定义下一代端到端对话模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-20</link>
-      <description>&lt;![CDATA[Mini-Omni-Reasoner：实时推理，定义下一代端到端对话模型]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-20</guid>
+      <title>任少卿在中科大招生了！硕博都可，推免学生下周一紧急面试</title>
+      <link>https://www.qbitai.com/2025/09/334336.html</link>
+      <description>&lt;![CDATA[任少卿在中科大招生了！硕博都可，推免学生下周一紧急面试]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334336.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>](https://www.qbitai.com/2025/09/333864.html)
-**发布时间**: 2025-09-19 07:42
-
----
-
-## 🆕 最新更新 (2025-09-20 05:17)
-### 📰 来源: [量子位</title>
-      <link>https://www.qbitai.com/feed</link>
-      <description>&lt;![CDATA[](https://www.qbitai.com/2025/09/333864.html)
-**发布时间**: 2025-09-19 07:42
-
----
-
-## 🆕 最新更新 (2025-09-20 05:17)
-### 📰 来源: [量子位]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/feed</guid>
+      <title>华为云再掀算力风暴：CloudMatrix384超节点将升级，Tokens服务性能最大可超H20四倍</title>
+      <link>https://www.qbitai.com/2025/09/334302.html</link>
+      <description>&lt;![CDATA[华为云再掀算力风暴：CloudMatrix384超节点将升级，Tokens服务性能最大可超H20四倍]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334302.html</guid>
       <category>AI</category>
     </item>
   </channel>

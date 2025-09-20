@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 20 Sep 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Sep 2025 08:23:44 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 23:18:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>农货直播间，硬控中年男人</title>
-      <link>https://www.tmtpost.com/7700530.html</link>
-      <description>&lt;![CDATA[农货直播间，硬控中年男人]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7700530.html</guid>
+      <title>AI 项目总踩坑？小团队、渐进研讨带你找到正确打开方式</title>
+      <link>https://www.infoq.cn/article/YN248O0WiQ6aoCm6fIrt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 项目总踩坑？小团队、渐进研讨带你找到正确打开方式]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 20:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YN248O0WiQ6aoCm6fIrt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“推土机一哥”IPO：山推股份拟募资还债，没钱先延长供应商付款</title>
-      <link>https://www.tmtpost.com/7700481.html</link>
-      <description>&lt;![CDATA[“推土机一哥”IPO：山推股份拟募资还债，没钱先延长供应商付款]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7700481.html</guid>
+      <title>变革之下，AI与出海成车企竞争新高地？| 钛媒体刘湘明×中国长安汽车赵非</title>
+      <link>https://www.tmtpost.com/7698781.html</link>
+      <description>&lt;![CDATA[变革之下，AI与出海成车企竞争新高地？| 钛媒体刘湘明×中国长安汽车赵非]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 20:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7698781.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>网约车“十四弟”再闯IPO，阿里旅行力挺，盛威时代因事故被罚百万</title>
-      <link>https://www.tmtpost.com/7700488.html</link>
-      <description>&lt;![CDATA[网约车“十四弟”再闯IPO，阿里旅行力挺，盛威时代因事故被罚百万]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7700488.html</guid>
+      <title>背背佳翻红背后，可孚医疗寻求「A+H」上市突围</title>
+      <link>https://www.tmtpost.com/7700778.html</link>
+      <description>&lt;![CDATA[背背佳翻红背后，可孚医疗寻求「A+H」上市突围]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700778.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5G 与 AI 数据云平台融合赋能企业 | 技术实践</title>
-      <link>https://www.infoq.cn/article/GGplsHim1YyYbC2sxPLc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[5G 与 AI 数据云平台融合赋能企业 | 技术实践]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GGplsHim1YyYbC2sxPLc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当AI开始闹情绪，打工人反向共情</title>
+      <link>https://www.tmtpost.com/7700723.html</link>
+      <description>&lt;![CDATA[当AI开始闹情绪，打工人反向共情]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700723.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anker’s latest sleep buds can silence snoring</title>
-      <link>https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30</link>
-      <description>&lt;![CDATA[Anker’s latest sleep buds can silence snoring]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 07:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30</guid>
+      <title>“K金之王”潮宏基，面向港股“告别”K金｜国潮风云</title>
+      <link>https://www.tmtpost.com/7700718.html</link>
+      <description>&lt;![CDATA[“K金之王”潮宏基，面向港股“告别”K金｜国潮风云]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700718.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>绝对权谋-01：被架空后，如何绝地反击？</title>
+      <link>https://www.tmtpost.com/7700636.html</link>
+      <description>&lt;![CDATA[绝对权谋-01：被架空后，如何绝地反击？]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700636.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>商场的排队王，为什么是三家日料店</title>
+      <link>https://www.tmtpost.com/7700577.html</link>
+      <description>&lt;![CDATA[商场的排队王，为什么是三家日料店]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7700577.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Amazon, Google, and Microsoft warn employees to rush back to the US</title>
+      <link>https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us</link>
+      <description>&lt;![CDATA[Amazon, Google, and Microsoft warn employees to rush back to the US]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 20:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Trump announces skilled worker visas will now cost $100,000</title>
+      <link>https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000</link>
+      <description>&lt;![CDATA[Trump announces skilled worker visas will now cost $100,000]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Prime members can get three months of Kindle Unlimited for free</title>
+      <link>https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale</link>
+      <description>&lt;![CDATA[Prime members can get three months of Kindle Unlimited for free]]&gt;</description>
+      <pubDate>Sat, 20 Sep 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale</guid>
       <category>Technology</category>
     </item>
   </channel>

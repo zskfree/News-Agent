@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-20 08:23
+**最后更新时间**: 2025-09-20 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-20 23:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 项目总踩坑？小团队、渐进研讨带你找到正确打开方式](https://www.infoq.cn/article/YN248O0WiQ6aoCm6fIrt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-20 20:44
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [变革之下，AI与出海成车企竞争新高地？| 钛媒体刘湘明×中国长安汽车赵非](https://www.tmtpost.com/7698781.html)
+**发布时间**: 2025-09-20 20:37
+
+#### [背背佳翻红背后，可孚医疗寻求「A+H」上市突围](https://www.tmtpost.com/7700778.html)
+**发布时间**: 2025-09-20 18:00
+
+#### [当AI开始闹情绪，打工人反向共情](https://www.tmtpost.com/7700723.html)
+**发布时间**: 2025-09-20 17:00
+
+#### [“K金之王”潮宏基，面向港股“告别”K金｜国潮风云](https://www.tmtpost.com/7700718.html)
+**发布时间**: 2025-09-20 17:00
+
+#### [绝对权谋-01：被架空后，如何绝地反击？](https://www.tmtpost.com/7700636.html)
+**发布时间**: 2025-09-20 17:00
+
+#### [商场的排队王，为什么是三家日料店](https://www.tmtpost.com/7700577.html)
+**发布时间**: 2025-09-20 16:29
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)
+**发布时间**: 2025-09-20 20:13
+
+#### [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000)
+**发布时间**: 2025-09-20 17:20
+
+#### [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)
+**发布时间**: 2025-09-20 16:00
+
+#### [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)
+**发布时间**: 2025-09-20 14:36
+
+#### [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks)
+**发布时间**: 2025-09-20 14:30
+
+#### [The US government is taking a second stab at breaking up Google](https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up)
+**发布时间**: 2025-09-20 13:27
+
+#### [Henry Halfhead is full of heart](https://www.theverge.com/games-review/776873/henry-halfhead-review-pc-ps5-switch)
+**发布时间**: 2025-09-20 13:00
+
+#### [An ICE raid at an EV factory raises fears about US instability](https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling)
+**发布时间**: 2025-09-20 12:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [区块链是什么？小白也能看懂的动画解读](http://www.huxiu.com/article/4782268.html?f=wangzhan)
+**发布时间**: 2025-09-20 20:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜重要信息放「桌边」，信息流聚合只需一瞥：SideCalendar](https://sspai.com/post/102198)
+**发布时间**: 2025-09-20 18:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [当大厂「卷」Agent，腾讯选择「下产线」](http://www.geekpark.net/news/354215)
+**发布时间**: 2025-09-20 17:46
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)](https://www.wired.com/gallery/best-hybrid-mattress/)
+**发布时间**: 2025-09-20 14:39
+
+#### [Best Dog Beds (2025): For All Kinds of Dogs in All Kinds of Spaces](https://www.wired.com/gallery/best-dog-bed/)
+**发布时间**: 2025-09-20 14:07
+
+#### [How to Properly Clean a Kid’s. Car Seat (2025)](https://www.wired.com/story/how-to-clean-a-kids-car-seat/)
+**发布时间**: 2025-09-20 13:04
+
+#### [1Password Review (2025): Gold Standard Security](https://www.wired.com/review/1password-2025/)
+**发布时间**: 2025-09-20 13:00
+
+#### [How to Set Up Your New iPhone (2025)](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
+**发布时间**: 2025-09-20 12:30
+
+#### [17 Best iPhone 17 Cases and Accessories (2025)](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
+**发布时间**: 2025-09-20 11:30
+
+#### [Big Tech Dreams of Putting Data Centers in Space](https://www.wired.com/story/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/)
+**发布时间**: 2025-09-20 11:00
+
+#### [Diminish Distractions by Setting Your iPhone to Gray Scale When You're Home](https://www.wired.com/story/set-your-iphone-to-gray-scale-when-youre-home-shortcuts/)
+**发布时间**: 2025-09-20 11:00
+
+#### [The 51 Best Movies on Netflix Right Now (September 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-09-20 11:00
+
+#### [Distillation Can Make AI Models Smaller and Cheaper](https://www.wired.com/story/how-distillation-makes-ai-models-smaller-and-cheaper/)
+**发布时间**: 2025-09-20 11:00
+
+#### [A Dangerous Worm Is Eating Its Way Through Software Packages](https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/)
+**发布时间**: 2025-09-20 10:30
+
+#### [Gear News of the Week: Nothing’s Latest Earbuds, Amazon’s Hardware Event, and a New Free VPN](https://www.wired.com/story/gear-news-of-the-week-nothings-latest-earbuds-amazons-hardware-event-and-a-new-free-vpn/)
+**发布时间**: 2025-09-20 10:30
+
+#### [Say Hello to the 2025 Ig Nobel Prize Winners](https://www.wired.com/story/say-hello-to-the-2025-ig-nobel-prize-winners/)
+**发布时间**: 2025-09-20 10:00
+
+#### [Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward](https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/)
+**发布时间**: 2025-09-20 10:00
+
+#### [Apple’s Small but Powerful iPad Mini Is 20% Off Today](https://www.wired.com/story/save-dollar100-on-apples-small-but-mighty-ipad-mini/)
+**发布时间**: 2025-09-19 19:58
 
 ---
 
