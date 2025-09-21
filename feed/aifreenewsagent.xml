@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 20 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Sep 2025 23:18:21 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 05:18:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>敢和刘慈欣叫板的AI诞生了</title>
-      <link>https://www.qbitai.com/2025/09/334365.html</link>
-      <description>&lt;![CDATA[敢和刘慈欣叫板的AI诞生了]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334365.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI硬件，也选了中国“果链”公司立讯精密</title>
-      <link>https://www.qbitai.com/2025/09/334349.html</link>
-      <description>&lt;![CDATA[OpenAI硬件，也选了中国“果链”公司立讯精密]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334349.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>任少卿在中科大招生了！硕博都可，推免学生下周一紧急面试</title>
-      <link>https://www.qbitai.com/2025/09/334336.html</link>
-      <description>&lt;![CDATA[任少卿在中科大招生了！硕博都可，推免学生下周一紧急面试]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334336.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>华为云再掀算力风暴：CloudMatrix384超节点将升级，Tokens服务性能最大可超H20四倍</title>
-      <link>https://www.qbitai.com/2025/09/334302.html</link>
-      <description>&lt;![CDATA[华为云再掀算力风暴：CloudMatrix384超节点将升级，Tokens服务性能最大可超H20四倍]]&gt;</description>
-      <pubDate>Sat, 20 Sep 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334302.html</guid>
+      <title>老黄刚投的具身智能公司：三个华人创办</title>
+      <link>https://www.qbitai.com/2025/09/334387.html</link>
+      <description>&lt;![CDATA[老黄刚投的具身智能公司：三个华人创办]]&gt;</description>
+      <pubDate>Sun, 21 Sep 2025 02:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334387.html</guid>
       <category>AI</category>
     </item>
   </channel>
