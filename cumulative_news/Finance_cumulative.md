@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-20 23:17
+**最后更新时间**: 2025-09-21 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-21 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat after Friday’s record highs, as ‘market has learned to thrive in ambiguity’](https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 23:00
+
+#### [‘I feel overwhelmed’: I’m a widow in my early 40s with 3 children. My IRAs are worth $330K. Will we be OK?](https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 22:26
+
+#### [Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.](https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 21:30
+
+#### [Bad news for coffee drinkers: The record-high prices you’re paying will go even higher when tariffs take their toll](https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 19:20
+
+#### [Now that the Fed has cut rates, investors can focus on what really matters for markets](https://www.marketwatch.com/story/now-that-the-fed-has-cut-rates-investors-can-focus-on-what-really-matters-for-markets-7e09cae2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 19:12
+
+#### [My mother’s lawyer stole $400K after she moved to a nursing home. How do we get our money back?](https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 13:00
+
+#### [Are your parents afraid of investing in crypto? How to talk with them so they’ll actually listen.](https://www.marketwatch.com/story/i-was-fearful-how-this-father-learned-to-take-crypto-advice-from-his-adult-child-c6b85826?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 12:07
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures little changed following Friday’s record highs](https://www.marketwatch.com/bulletins/redirect/go?g=89466d15-614b-4dd9-8b00-41f721b3804b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 22:17
+
+#### [Forget chips: The next battleground in the U.S.-China AI race is nuclear power](https://www.marketwatch.com/bulletins/redirect/go?g=799c1214-e24c-4e43-bc7e-3f204b3afd11&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 20:13
+
+#### [Why the record-high prices you’re paying for coffee will go even higher](https://www.marketwatch.com/bulletins/redirect/go?g=5e9b87b6-5f8c-43aa-837e-246f8f706a32&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 18:49
 
 ---
 

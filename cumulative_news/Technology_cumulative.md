@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-21 08:22
+**最后更新时间**: 2025-09-21 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-21 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [重磅！陈天桥创立的AI公司MiroMind打造出全球顶尖预测型大模型，性能领先行业基准](https://www.tmtpost.com/7701110.html)
+**发布时间**: 2025-09-21 23:36
+
+#### [对话徐直军：华为最大的杀招，不是AI芯片](https://www.tmtpost.com/7701062.html)
+**发布时间**: 2025-09-21 19:14
+
+#### [AI 站上桥头堡，美团阿里做“导购”](https://www.tmtpost.com/7701125.html)
+**发布时间**: 2025-09-21 18:35
+
+#### [百元餐饮品牌的困境](https://www.tmtpost.com/7701042.html)
+**发布时间**: 2025-09-21 17:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [李斌可以喘口气了](http://www.huxiu.com/article/4782972.html?f=wangzhan)
+**发布时间**: 2025-09-21 22:33
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown)
+**发布时间**: 2025-09-21 20:49
+
+#### [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors)
+**发布时间**: 2025-09-21 18:20
+
+#### [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)
+**发布时间**: 2025-09-21 16:27
+
+#### [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)
+**发布时间**: 2025-09-21 16:00
+
+#### [Trump&#8217;s H-1B visa fee isn&#8217;t just about immigration, it&#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty)
+**发布时间**: 2025-09-21 14:20
+
+#### [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console)
+**发布时间**: 2025-09-21 12:00
+
+#### [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer)
+**发布时间**: 2025-09-21 12:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [开源开放提速，昇腾公布全量开源时间表](https://www.infoq.cn/article/WDLlzdhI7BROjiwOy7Ew?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-21 19:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [越过群山追斜阳，川西小环线 5 天自驾攻略](https://sspai.com/post/102567)
+**发布时间**: 2025-09-21 17:40
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [14 Best Fitness Trackers (2025), Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+**发布时间**: 2025-09-21 14:00
+
+#### [The Best Mushroom Gummies on the Market, Lab-Approved (2025)](https://www.wired.com/gallery/best-mushroom-gummies/)
+**发布时间**: 2025-09-21 13:30
+
+#### [25 Key iPhone Settings to Change (2025)](https://www.wired.com/story/key-iphone-settings-to-change/)
+**发布时间**: 2025-09-21 12:30
+
+#### [Best Bamboo Sheets (2025): WIRED’s Brand-New Top Pick](https://www.wired.com/gallery/best-bamboo-sheets/)
+**发布时间**: 2025-09-21 10:35
+
+#### [The NFL Goes MrBeast Mode](https://www.wired.com/story/the-nfl-goes-mrbeast-mode/)
+**发布时间**: 2025-09-21 10:00
 
 ---
 

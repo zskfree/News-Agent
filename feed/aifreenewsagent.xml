@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Sep 2025 08:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Sep 2025 08:22:19 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 23:18:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>鸿蒙的全面进击：“天工计划”十亿重磅加码，打造AI全场景新生态</title>
-      <link>https://www.qbitai.com/2025/09/334502.html</link>
-      <description>&lt;![CDATA[鸿蒙的全面进击：“天工计划”十亿重磅加码，打造AI全场景新生态]]&gt;</description>
-      <pubDate>Sun, 21 Sep 2025 06:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334502.html</guid>
+      <title>全球双榜SOTA！明略科技专有大模型 Mano开启GUI智能操作新时代</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-21-4</link>
+      <description>&lt;![CDATA[全球双榜SOTA！明略科技专有大模型 Mano开启GUI智能操作新时代]]&gt;</description>
+      <pubDate>Sun, 21 Sep 2025 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谷歌Gemini IMO和ICPC夺金功臣之一被xAI挖走，马斯克直呼：起飞</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-21-3</link>
+      <description>&lt;![CDATA[谷歌Gemini IMO和ICPC夺金功臣之一被xAI挖走，马斯克直呼：起飞]]&gt;</description>
+      <pubDate>Sun, 21 Sep 2025 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>工业级3D世界构建提速90倍！全新框架LatticeWorld让虚拟世界「一句话成真」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-21-2</link>
+      <description>&lt;![CDATA[工业级3D世界构建提速90倍！全新框架LatticeWorld让虚拟世界「一句话成真」]]&gt;</description>
+      <pubDate>Sun, 21 Sep 2025 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>集合通信库VCCL释放GPU极致算力，创智、基流、智谱、联通、北航、清华、东南重磅开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-21</link>
+      <description>&lt;![CDATA[集合通信库VCCL释放GPU极致算力，创智、基流、智谱、联通、北航、清华、东南重磅开源]]&gt;</description>
+      <pubDate>Sun, 21 Sep 2025 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>离谱！不到30万开走蔚来ES8，准车主找李斌“哭惨”：App崩了，7分钟才锁上单</title>
+      <link>https://www.qbitai.com/2025/09/334704.html</link>
+      <description>&lt;![CDATA[离谱！不到30万开走蔚来ES8，准车主找李斌“哭惨”：App崩了，7分钟才锁上单]]&gt;</description>
+      <pubDate>Sun, 21 Sep 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334704.html</guid>
       <category>AI</category>
     </item>
   </channel>
