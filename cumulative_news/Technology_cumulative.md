@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-22 05:19
+**最后更新时间**: 2025-09-22 08:28
+
+---
+
+## 🆕 最新更新 (2025-09-22 08:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [市场开始对碳化硅“刮目相看”](https://www.tmtpost.com/7701561.html)
+**发布时间**: 2025-09-22 16:15
+
+#### [Huawei and GAC Join Forces to Launch Premium EV Brand 'Qijing'](https://www.tmtpost.com/7701917.html)
+**发布时间**: 2025-09-22 16:08
+
+#### [市场高位运行，建议考虑为你的投资组合降低风险](https://www.tmtpost.com/7701912.html)
+**发布时间**: 2025-09-22 16:03
+
+#### [特斯拉股价下跌，但创下历史新高指日可待](https://www.tmtpost.com/7701886.html)
+**发布时间**: 2025-09-22 15:49
+
+#### [新一轮科技泡沫才刚刚开始的五大理由](https://www.tmtpost.com/7701883.html)
+**发布时间**: 2025-09-22 15:48
+
+#### [“八爪鱼”美团，盯上地铁里的5元生意](https://www.tmtpost.com/7701458.html)
+**发布时间**: 2025-09-22 15:41
+
+#### [双面柬埔寨](https://www.tmtpost.com/7701390.html)
+**发布时间**: 2025-09-22 15:11
+
+#### [Silicon Valley Startup TetherIA.ai Unveils Next-Gen AI-Powered Dexterous Hand for Robotics Market](https://www.tmtpost.com/7701816.html)
+**发布时间**: 2025-09-22 15:08
+
+#### [不止三折叠，中国给高端屏立标杆｜供应链隐形冠军](https://www.tmtpost.com/7700955.html)
+**发布时间**: 2025-09-22 15:00
+
+#### [小说、短剧新风向？“流产流”霸榜TOP 2，女频爆款新密码？](https://www.tmtpost.com/7701393.html)
+**发布时间**: 2025-09-22 14:37
+
+#### [AI眼镜的痛，Meta也治不了](https://www.tmtpost.com/7701350.html)
+**发布时间**: 2025-09-22 14:25
+
+#### [「一页纸」吃透产业链之：人形机器人，Figure链与特斯拉Optimus链](https://www.tmtpost.com/7701202.html)
+**发布时间**: 2025-09-22 13:44
+
+#### [国产存储，“黄金窗口” 已至](https://www.tmtpost.com/7701559.html)
+**发布时间**: 2025-09-22 13:22
+
+#### [Huawei’s Ultimate Weapon is not AI Chips, Says Huawei’s Rotating Chair](https://www.tmtpost.com/7701659.html)
+**发布时间**: 2025-09-22 13:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [创始人自曝让儿子辍学用AI上课、水平超同龄人！俞敏洪最先押注的“AI学校”，负债9亿不垮、现在要开到美国了](https://www.infoq.cn/article/dUdDbjGyYaJ1cLIv9kME?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 15:54
+
+#### [绿色 IT 实践：如何系统性减少信息技术行业的环境足迹](https://www.infoq.cn/article/AsD2wq6rraijMi4f6DFd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派 1024 程序员节征文：码上，与鸿蒙一起进击！](https://sspai.com/post/102635)
+**发布时间**: 2025-09-22 15:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [不到两千块，我拍到了专业级别的月全食｜New Things](http://www.geekpark.net/news/354267)
+**发布时间**: 2025-09-22 14:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam)
+**发布时间**: 2025-09-22 07:01
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
+**发布时间**: 2025-09-22 06:00
 
 ---
 

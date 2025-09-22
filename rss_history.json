@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b18ba7383504bafdb85592c4b56aabe38adbce6ebe81829f563db8e1083e13ae": {
-        "title": "OpenAI首个蛋白质模型披露更多细节，改进诺奖研究成果，表达量提升50倍",
-        "link": "https://www.qbitai.com/2025/08/325292.html",
-        "published_date": "Sat, 23 Aug 2025 05:56:00 GMT",
-        "first_seen": "2025-08-23T08:24:09.159039"
-      },
-      "47c8e9dd2d4afc7cde041e5e99d1e755a6d87ccc7900f91dfb3c5ba4365fbe74": {
-        "title": "让AI作画自己纠错！随机丢模块就能提升生成质量，告别塑料感废片",
-        "link": "https://www.qbitai.com/2025/08/325171.html",
-        "published_date": "Sat, 23 Aug 2025 05:47:00 GMT",
-        "first_seen": "2025-08-23T08:24:09.159221"
-      },
       "027a7e70da5ead3da3ae530e72b016e8f590e8b64320a268c64f959a1c10e028": {
         "title": "「只参与，不参赛」奖牌数却仅次于宇树，这个幕后玩家如何做到的？",
         "link": "https://www.jiqizhixin.com/articles/2025-08-23-5",
@@ -8685,120 +8673,6 @@
       }
     },
     "Technology": {
-      "a0c91e818f198ac19814e8c84ad5adc71e9a26dc00a145a96e0d52ff15d8c9be": {
-        "title": "马斯克沉迷的「刷刷刷」游戏，要来中国了",
-        "link": "http://www.geekpark.net/news/353008",
-        "published_date": "Sat, 23 Aug 2025 12:18:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431083"
-      },
-      "764db66d0a8a5eb34888d2e9cd2a7381b4b27fd4bf58e89f1fb6b9fb13efa35e": {
-        "title": "Anthropic 寻求 100 亿美元新融资；《恋与深空》获科隆展最佳移动游戏奖；脑瘫司机靠特斯拉 FSD 开车养家",
-        "link": "http://www.geekpark.net/news/353007",
-        "published_date": "Sat, 23 Aug 2025 09:05:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431101"
-      },
-      "48a4a41a89eb362160f65e4ea5f83b7bd8e5ce45965309b173ebc68ba56291b1": {
-        "title": "Canada to Roll Back Some Retaliatory Tariffs on U.S to Push for Further Trade Talks",
-        "link": "https://www.tmtpost.com/7669728.html",
-        "published_date": "Sat, 23 Aug 2025 12:16:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431118"
-      },
-      "d93d0b4cf2f603b58b3d6aef36714c49dfc547316976be476075f080344ba49f": {
-        "title": "时代的源码，和它的进退两难",
-        "link": "https://www.tmtpost.com/7669631.html",
-        "published_date": "Sat, 23 Aug 2025 10:26:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431130"
-      },
-      "be360d693c1d807494bb63fab05c96fd7c4833cc9634881447927cdc760eaa9c": {
-        "title": "B站依旧“年轻”，但外界压力不可忽视",
-        "link": "https://www.tmtpost.com/7669313.html",
-        "published_date": "Sat, 23 Aug 2025 09:44:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431142"
-      },
-      "ffa39939d24a5d96137239f248bf81e6698f00f0f5d952435d5dbdbd1d806337": {
-        "title": "三大运营商的“钱袋子”也变瘪了",
-        "link": "https://www.tmtpost.com/7669555.html",
-        "published_date": "Sat, 23 Aug 2025 09:44:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431152"
-      },
-      "4e9f07427c2341108060b88befe578330c4e237217d84a7088253825af3ad37a": {
-        "title": "前高管公开吐槽，斑马智行为何急于上市“找钱”？",
-        "link": "https://www.tmtpost.com/7669499.html",
-        "published_date": "Sat, 23 Aug 2025 09:39:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431163"
-      },
-      "7dc6c00568c4b51aa95b4f8ad291ee9e7bd29440a84ddfba31128d40fd9a2b75": {
-        "title": "2000亿江阴银行中报解析：投资收益激增81%拉动利润增长，现金流量净额大降621.51%",
-        "link": "https://www.tmtpost.com/7669317.html",
-        "published_date": "Sat, 23 Aug 2025 09:39:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431176"
-      },
-      "61be062cb2f28443e1d1360e9b5522fe7e7ee87bb68e7139d0fa731abae35e52": {
-        "title": "“魔芋爽”们狂飙，坚果礼盒滞销——四张半年报撕开零食行业生死线",
-        "link": "https://www.tmtpost.com/7669329.html",
-        "published_date": "Sat, 23 Aug 2025 09:39:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431188"
-      },
-      "4b0117b772cac3a5826c9b6304ab1acc27aa141b61e4ee67721e1fb51c1e29ac": {
-        "title": "半年赚超8亿元，都用来分红，东阿阿胶究竟是如何进化成“不差钱的主儿”？",
-        "link": "https://www.tmtpost.com/7669413.html",
-        "published_date": "Sat, 23 Aug 2025 09:39:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.082539"
-      },
-      "76816a4f8ee0b61956bf361315c6715bd3fed29bb7ef88bf7f74b3acd7afa8c8": {
-        "title": "李宁2025上半年营收增3.3%至148.2亿；优衣库发布2025秋冬新品；BabycareX郭碧婷开启柔软育儿时代｜消研所周报",
-        "link": "https://www.tmtpost.com/7668899.html",
-        "published_date": "Sat, 23 Aug 2025 09:16:00 GMT",
-        "first_seen": "2025-08-23T05:33:36.431053"
-      },
-      "2aa71a8095952c2bb258a16663cfaf9f068102a4cc3e6597cef1e0e8d782464f": {
-        "title": "县城的零食集合店，会被淘汰出局吗？",
-        "link": "https://www.tmtpost.com/7669240.html",
-        "published_date": "Sat, 23 Aug 2025 08:55:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.084013"
-      },
-      "20d45a887549bfc9ecbc014a8d712cd5472e32afa4d420cf220f86e5220b2569": {
-        "title": "独闯港股IPO，阿里动物园跑出一匹“斑马”",
-        "link": "https://www.tmtpost.com/7669315.html",
-        "published_date": "Sat, 23 Aug 2025 08:45:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.084610"
-      },
-      "86764ce7beb1860e8c1da4b11417d24ec3fc1745988f69d5e6580ffc447a8f92": {
-        "title": "永辉超市亏惨了，沃尔玛却靠山姆赚麻了",
-        "link": "https://www.tmtpost.com/7669309.html",
-        "published_date": "Sat, 23 Aug 2025 08:38:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.085105"
-      },
-      "dd6456b7f78bcdd3ebdb1c53ee6e4aef1c41a4fe697763ab5adc17654fb6000c": {
-        "title": "账号更名为初瑞雪，辛巴这次真要“退网”了？",
-        "link": "https://www.tmtpost.com/7669346.html",
-        "published_date": "Sat, 23 Aug 2025 08:12:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.085816"
-      },
-      "2cc2c7e6031fd9bf26b841c91b1b740547e33080af96bfff96b0a3d49a45ef5d": {
-        "title": "智元机器人的“野心”，能否撑得起150亿？",
-        "link": "https://www.tmtpost.com/7669482.html",
-        "published_date": "Sat, 23 Aug 2025 08:11:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.086530"
-      },
-      "c0de7660927eb7d30ede9b1767d0f1c45b5b0fe30e7cb4054902c534e9587c57": {
-        "title": "邵东独占全球70%份额，贵州岑巩这个小县凭何突围，改写全球打火机产业格局？",
-        "link": "https://www.tmtpost.com/7669335.html",
-        "published_date": "Sat, 23 Aug 2025 08:01:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.087548"
-      },
-      "5ee2762681bc2ced17dc4b07c94bae27d69232e96520251f3d5972f6155943fb": {
-        "title": "Lenovo Coupon Codes and Deals: Up to $100 Off PCs",
-        "link": "https://www.wired.com/story/lenovo-coupon-code/",
-        "published_date": "Sat, 23 Aug 2025 05:00:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.088746"
-      },
-      "ef75fc86278aa57bf77c449b65fcc668ec9f58374892722d5d1c447a90473c9c": {
-        "title": "Trump Admin. Takes 10% Stakes in Intel In Exchange For $11.1 Billion CHIPS Act Funds",
-        "link": "https://www.tmtpost.com/7669780.html",
-        "published_date": "Sat, 23 Aug 2025 14:04:00 GMT",
-        "first_seen": "2025-08-23T08:24:09.205956"
-      },
       "d940fba8e960beaf14285378b089f1fa4ab3bada3adc3d2de09dfbf182aa9e6a": {
         "title": "月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠 AI 年入千万了",
         "link": "https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt?utm_source=rss&utm_medium=article",
@@ -22886,21 +22760,129 @@
         "link": "http://www.geekpark.net/news/354228",
         "published_date": "Mon, 22 Sep 2025 08:32:00 GMT",
         "first_seen": "2025-09-22T05:19:56.671625"
+      },
+      "26006570b251c02de342a1e8a645f105d955e7fd001777ddced7c7794005e470": {
+        "title": "市场开始对碳化硅“刮目相看”",
+        "link": "https://www.tmtpost.com/7701561.html",
+        "published_date": "Mon, 22 Sep 2025 16:15:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039122"
+      },
+      "af6e9368c5adfed9fbe76410c7f2018296f030d6d88d4fbaf56f7229049c54ae": {
+        "title": "Huawei and GAC Join Forces to Launch Premium EV Brand 'Qijing'",
+        "link": "https://www.tmtpost.com/7701917.html",
+        "published_date": "Mon, 22 Sep 2025 16:08:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039138"
+      },
+      "c49591a3e8cb9876c553f82f880e69c16533c50ef626bb3ce7eee640d6cdab5c": {
+        "title": "市场高位运行，建议考虑为你的投资组合降低风险",
+        "link": "https://www.tmtpost.com/7701912.html",
+        "published_date": "Mon, 22 Sep 2025 16:03:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039150"
+      },
+      "67cfc46a3108004c7ead9c230ff630e29fb8ba95f658be129de8ebc2e7eedc7b": {
+        "title": "特斯拉股价下跌，但创下历史新高指日可待",
+        "link": "https://www.tmtpost.com/7701886.html",
+        "published_date": "Mon, 22 Sep 2025 15:49:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039160"
+      },
+      "40bd72e7d6807ae5b68ddf43012749943730617b166834d31015f247b8a0b8a5": {
+        "title": "新一轮科技泡沫才刚刚开始的五大理由",
+        "link": "https://www.tmtpost.com/7701883.html",
+        "published_date": "Mon, 22 Sep 2025 15:48:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039109"
+      },
+      "a24ac6f9c23c3c2af2ec40c4572cfd6818f74e0fa12cf5a51658c28acb941e8f": {
+        "title": "“八爪鱼”美团，盯上地铁里的5元生意",
+        "link": "https://www.tmtpost.com/7701458.html",
+        "published_date": "Mon, 22 Sep 2025 15:41:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039170"
+      },
+      "c2a5b9471d625e7da97e421e6db95ee6490d829a1ce9d44dd6e74d1e82db4876": {
+        "title": "双面柬埔寨",
+        "link": "https://www.tmtpost.com/7701390.html",
+        "published_date": "Mon, 22 Sep 2025 15:11:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.680388"
+      },
+      "d2cb68d4a9604f757ab820099a5660a71b590b84b46c46b8c08f1aeb48f4576a": {
+        "title": "Silicon Valley Startup TetherIA.ai Unveils Next-Gen AI-Powered Dexterous Hand for Robotics Market",
+        "link": "https://www.tmtpost.com/7701816.html",
+        "published_date": "Mon, 22 Sep 2025 15:08:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039184"
+      },
+      "6b02d14d64af1703b6af5a3ddd1ba27aef69a674eec4cd156120f1171fe88fa7": {
+        "title": "不止三折叠，中国给高端屏立标杆｜供应链隐形冠军",
+        "link": "https://www.tmtpost.com/7700955.html",
+        "published_date": "Mon, 22 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039194"
+      },
+      "071d8ea2fe51453d8aa05577e6ae137e1c88970061c2b0a2b5988433f36757ed": {
+        "title": "小说、短剧新风向？“流产流”霸榜TOP 2，女频爆款新密码？",
+        "link": "https://www.tmtpost.com/7701393.html",
+        "published_date": "Mon, 22 Sep 2025 14:37:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039206"
+      },
+      "8d06437b8010b62b69f2c7b10346b3b5241f950213ac3cea94262c3017de04f1": {
+        "title": "AI眼镜的痛，Meta也治不了",
+        "link": "https://www.tmtpost.com/7701350.html",
+        "published_date": "Mon, 22 Sep 2025 14:25:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.682259"
+      },
+      "b41f6274265d00cff174e17b4036fb91820b3591ab4e86c8b2726d8d72ea8371": {
+        "title": "「一页纸」吃透产业链之：人形机器人，Figure链与特斯拉Optimus链",
+        "link": "https://www.tmtpost.com/7701202.html",
+        "published_date": "Mon, 22 Sep 2025 13:44:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.682950"
+      },
+      "d5315cf1fcf3cc962b73be8da9901a2cdcb863478eac8c9d27b9f294d95639db": {
+        "title": "国产存储，“黄金窗口” 已至",
+        "link": "https://www.tmtpost.com/7701559.html",
+        "published_date": "Mon, 22 Sep 2025 13:22:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.683407"
+      },
+      "e83088d0a93f75fe8156429d8977be207c7f8fc0ec94324ae565d60acc633e21": {
+        "title": "Huawei’s Ultimate Weapon is not AI Chips, Says Huawei’s Rotating Chair",
+        "link": "https://www.tmtpost.com/7701659.html",
+        "published_date": "Mon, 22 Sep 2025 13:19:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.684759"
+      },
+      "bf3d9bd80907b6255dc6d13f1b2f2f9274cf9aaba44018ea1e6fb860dfabe229": {
+        "title": "创始人自曝让儿子辍学用AI上课、水平超同龄人！俞敏洪最先押注的“AI学校”，负债9亿不垮、现在要开到美国了",
+        "link": "https://www.infoq.cn/article/dUdDbjGyYaJ1cLIv9kME?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Sep 2025 15:54:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.685862"
+      },
+      "3d32f3a5068a198452aa07aa41c74befbb0c0556a5d306dd2d5f8d44daf1584c": {
+        "title": "绿色 IT 实践：如何系统性减少信息技术行业的环境足迹",
+        "link": "https://www.infoq.cn/article/AsD2wq6rraijMi4f6DFd?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-22T08:28:58.039082"
+      },
+      "635a00328bec5c601e793d3c930bf266c6a7628c0853b6f018f033a4e14e669e": {
+        "title": "少数派 1024 程序员节征文：码上，与鸿蒙一起进击！",
+        "link": "https://sspai.com/post/102635",
+        "published_date": "Mon, 22 Sep 2025 15:02:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.687593"
+      },
+      "47ad5e254668c00ae509dc49d2a109aa43ed4f4cc4aedfac0e11ac0d4eed488a": {
+        "title": "不到两千块，我拍到了专业级别的月全食｜New Things",
+        "link": "http://www.geekpark.net/news/354267",
+        "published_date": "Mon, 22 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.688618"
+      },
+      "9bf7c6836b69a39436b57272fa5927722a8e0ab8cc20d1657384abc2c4b8eef9": {
+        "title": "Silent Hill F has two killer ingredients: mystery and rage",
+        "link": "https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam",
+        "published_date": "Mon, 22 Sep 2025 07:01:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.690241"
+      },
+      "3c8c8e58b5003184f4fac2b5a92de9433069eb912f18b1480454360d2f78a177": {
+        "title": "A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster",
+        "link": "https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/",
+        "published_date": "Mon, 22 Sep 2025 06:00:00 GMT",
+        "first_seen": "2025-09-22T08:28:09.692193"
       }
     },
     "Finance": {
-      "e34df4c9ed920a0ca8895488a26b01ea8d911db2b8b856b51c2e6cf7a2ce3431": {
-        "title": "Why Fed Chair Powell's Jackson Hole speech struck an ominous tone for retirees",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d376a5df-1e94-44ec-918e-a4ac80ebd8ac&mod=mw_rss_bulletins",
-        "published_date": "Fri, 22 Aug 2025 23:59:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.047515"
-      },
-      "4491aeeeeeb9b9b9fb4186b9e6739861b2ec536d2de7cfefeb2ee907cdcecf7c": {
-        "title": "Bond market rallies after Powell ‘walked a fine line’ with Jackson Hole speech",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=35a31f8b-5ce4-4df8-952f-4b8ba6b37b2a&mod=mw_rss_bulletins",
-        "published_date": "Fri, 22 Aug 2025 23:28:00 GMT",
-        "first_seen": "2025-08-23T05:32:48.047800"
-      },
       "49de8989cbdb459960e2862cd50abb29012f6694185d95e7547d8b536cc31690": {
         "title": "As a nurse, I’ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
         "link": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
@@ -25922,8 +25904,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-09-22T05:21:34.063480",
-    "Technology": "2025-09-22T05:20:45.241312",
-    "Finance": "2025-09-22T05:21:34.082684"
+    "AI": "2025-09-22T08:28:58.151688",
+    "Technology": "2025-09-22T08:28:58.065149",
+    "Finance": "2025-09-22T08:28:58.169125"
   }
 }
