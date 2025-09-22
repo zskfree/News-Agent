@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-22 05:19
+**最后更新时间**: 2025-09-22 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-22 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple’s stock surges to a 2025 high on hot iPhone 17 demand. Can the rally continue?](https://www.marketwatch.com/story/apples-stock-surges-to-a-2025-high-on-hot-iphone-17-demand-can-the-rally-continue-56afe428?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:16
+
+#### [The small-business hiring engine is sputtering. Why that’s a red flag for the economy.](https://www.marketwatch.com/story/the-small-business-hiring-engine-is-sputtering-thats-a-red-flag-for-the-economy-12428cce?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:09
+
+#### [Kenvue says Tylenol is safe, but stock hits record low as Trump makes unproven link to autism](https://www.marketwatch.com/story/kenvue-says-tylenol-is-safe-but-stock-hits-record-low-ahead-of-trump-speech-c56b8d29?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:39
+
+#### [Fed chief Powell is talking about the U.S. economy again. And Wall Street is all ears.](https://www.marketwatch.com/story/fed-chief-powell-is-talking-about-the-u-s-economy-again-and-wall-street-is-all-ears-af470c24?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:04
+
+#### [Here’s what matters most for Micron’s stock going into earnings](https://www.marketwatch.com/story/heres-what-matters-most-for-microns-stock-going-into-earnings-777ebe32?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:04
+
+#### [I’m in the U.S. on an H-1B work visa and worried about my job status. What should I do now?](https://www.marketwatch.com/story/im-in-the-u-s-on-an-h-1b-work-visa-and-worried-about-my-job-status-what-should-i-do-now-8e57de40?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:04
+
+#### [‘My grief makes decisions difficult’: My daughter has a financially reckless spouse. How do I protect her?](https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 21:30
+
+#### [‘I changed my will to deter vultures’: I’m in my 60s and disabled. Do I spend down my assets to qualify for Medicaid?](https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 21:00
+
+#### [My former mother-in-law left a $1 million estate. Can I sue my ex-husband for a share of it?](https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 20:53
+
+#### [Lam Research’s stock is having a historic rally. Now a crucial test looms.](https://www.marketwatch.com/story/lam-researchs-stock-is-having-a-historic-rally-now-a-crucial-test-looms-a1ded880?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 20:37
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These are the top 22 stocks pushing the S&P 500 into record territory](https://www.marketwatch.com/bulletins/redirect/go?g=b0931121-9bdb-406a-a825-e4445b7f7041&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 23:00
+
+#### [Oracle’s stock leaps on TikTok deal, but a major concern persists](https://www.marketwatch.com/bulletins/redirect/go?g=3bc11be4-02a3-4768-8b4b-04fa2bfd9998&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 21:15
+
+#### [Jimmy Kimmel show to return after ABC pulled it over Charlie Kirk comments](https://www.marketwatch.com/bulletins/redirect/go?g=befa0502-93e6-4f0d-a96a-3ccabd87dc00&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 20:20
+
+#### [Dow, S&P and Nasdaq end at all-time highs; gold books 36th record close of 2025](https://www.marketwatch.com/bulletins/redirect/go?g=46b0bb9d-1878-46ae-8227-cbb362769d29&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 20:03
+
+#### [Gold hit another record high. Has it formed a bubble yet?](https://www.marketwatch.com/bulletins/redirect/go?g=ab9f3a89-a995-42dc-9309-71aad266000b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 19:51
+
+#### [Kenvue says Tylenol is safe, but stock hits record low ahead of Trump speech](https://www.marketwatch.com/bulletins/redirect/go?g=60c9199f-11fd-49b2-a01c-2b1966e6c965&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 19:14
+
+#### [Here’s why Nvidia is investing $100 billion in OpenAI](https://www.marketwatch.com/bulletins/redirect/go?g=c7b345c4-6595-4c0e-8116-feb0334d6445&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 16:56
+
+#### [Gold extends record run as Dow erases loss to follow S&P into positive territory](https://www.marketwatch.com/bulletins/redirect/go?g=5d31bd8e-fdab-4f54-be7e-bbddeea7abb6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 15:32
+
+#### [Where do U.S. stocks rank as global markets soar in 2025?](https://www.marketwatch.com/bulletins/redirect/go?g=7aa9da86-b83e-4c5f-bce7-9063d8f2ba2c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 14:04
+
+#### [There’s a new red flag for the economy from the U.S.’s small businesses](https://www.marketwatch.com/bulletins/redirect/go?g=d2892c68-c9be-47a4-971d-d827ad6be710&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 12:24
 
 ---
 

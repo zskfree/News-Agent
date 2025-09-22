@@ -1,7 +1,165 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-22 08:28
+**最后更新时间**: 2025-09-22 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-22 23:17)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为了千元机用户的「流畅权」，OPPO 为安卓换了个「引擎」](http://www.geekpark.net/news/354295)
+**发布时间**: 2025-09-23 01:35
+
+#### [​一年卖出 10 个亿，这是年轻人真正的「户外神器」](http://www.geekpark.net/news/354294)
+**发布时间**: 2025-09-22 23:32
+
+#### [Teable 宣布完成数百万美元天使轮融资，让数据库「长出耳朵和手」](http://www.geekpark.net/news/354293)
+**发布时间**: 2025-09-22 22:24
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report)
+**发布时间**: 2025-09-22 23:12
+
+#### [Steam game removed after cryptostealer takes over $150K](https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware)
+**发布时间**: 2025-09-22 20:23
+
+#### [Jimmy Kimmel’s show will return after censorship outrage](https://www.theverge.com/news/782970/jimmy-kimmel-live-return-disney-charlie-kirk)
+**发布时间**: 2025-09-22 20:17
+
+#### [Facebook Dating tries using AI to end ‘swipe fatigue’](https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue)
+**发布时间**: 2025-09-22 18:59
+
+#### [A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy](https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations)
+**发布时间**: 2025-09-22 18:33
+
+#### [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+**发布时间**: 2025-09-22 18:14
+
+#### [The Steam Deck LCD is 20 percent off through October 6th](https://www.theverge.com/tech/782737/the-steam-deck-lcd-is-20-percent-off-through-october-6th)
+**发布时间**: 2025-09-22 18:03
+
+#### [This is part of Disney&#8217;s legacy now](https://www.theverge.com/policy/781960/disney-jimmy-kimmel-disney-boycott-bob-iger-dana-walden)
+**发布时间**: 2025-09-22 17:45
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小米汽车的“必修课”迎来大考](http://www.huxiu.com/article/4783464.html?f=wangzhan)
+**发布时间**: 2025-09-22 21:34
+
+#### [如果她成为日本新首相，对我们是好事还是坏事？](http://www.huxiu.com/article/4782879.html?f=wangzhan)
+**发布时间**: 2025-09-22 20:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当虹科技战略升级 迈向“AI多模态+空间视频+行业”全新发展阶段](https://www.tmtpost.com/7702297.html)
+**发布时间**: 2025-09-22 20:45
+
+#### [极致产品参数vs降低创作门槛：大疆和影石谁能赢得未来](https://www.tmtpost.com/7702180.html)
+**发布时间**: 2025-09-22 19:32
+
+#### [在中国做关系必须理解江湖](https://www.tmtpost.com/7702177.html)
+**发布时间**: 2025-09-22 19:32
+
+#### [金种子酒：正研发适合啤酒渠道的专用产品｜直击业绩会](https://www.tmtpost.com/7702192.html)
+**发布时间**: 2025-09-22 19:18
+
+#### [留给石头科技的赛道不多了](https://www.tmtpost.com/7701820.html)
+**发布时间**: 2025-09-22 18:24
+
+#### [外卖大战如火如荼，同城配送行业集中度加速提升](https://www.tmtpost.com/7701824.html)
+**发布时间**: 2025-09-22 18:24
+
+#### [售价数万、毛利超90%，AI玩具跑出下一个泡泡玛特？](https://www.tmtpost.com/7701876.html)
+**发布时间**: 2025-09-22 18:24
+
+#### [MNC败走英国](https://www.tmtpost.com/7701461.html)
+**发布时间**: 2025-09-22 17:26
+
+#### [英伟达50亿投英特尔，图啥？](https://www.tmtpost.com/7701420.html)
+**发布时间**: 2025-09-22 17:26
+
+#### [世纪杨振宁：弦断有谁听](https://www.tmtpost.com/7701490.html)
+**发布时间**: 2025-09-22 17:26
+
+#### [9月22日A股分析：沪指微涨0.22%，两市成交额缩量至2.12万亿，主力资金净流出251亿，消费电子与半导体成资金避风港](https://www.tmtpost.com/7701815.html)
+**发布时间**: 2025-09-22 16:54
+
+#### [康弘药业，差一点就曾走到了创新药舞台的中央](https://www.tmtpost.com/7701535.html)
+**发布时间**: 2025-09-22 16:45
+
+#### [Outdoor Brand Arc'teryx Faces Backlash for Fireworks Display in the Himalayas](https://www.tmtpost.com/7701972.html)
+**发布时间**: 2025-09-22 16:43
+
+#### [【生态环境周观察】阳光电源计划在埃及建厂；两大光伏龙头隆基、晶科达成专利诉讼和解；中东主权基金注资协鑫科技](https://www.tmtpost.com/7701306.html)
+**发布时间**: 2025-09-22 16:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [不止于快！美团新推理模型正在重新定义「实用主义AI」](https://www.infoq.cn/article/Wihe9jpBjQPmHyDlVX0Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 19:35
+
+#### [MediaTek 发布天玑 9500，强悍冷劲算力革新旗舰体验](https://www.infoq.cn/article/FBWXHWIb2ojOWccE39ML?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 19:09
+
+#### [字节跳动 Developer AI 负责人朱元硕确认出席 QCon 上海，分享自主规划Agent在字节跳动的落地实践](https://www.infoq.cn/article/IVP0C12QRUTi9yqxOvsI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 18:21
+
+#### [百度智能云Qianfan-VL系列模型重磅开源：使用昆仑芯计算，多尺寸领域能力增强](https://www.infoq.cn/article/r09Lf5uKo5UQF3DNetvF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 18:19
+
+#### [黄仁勋又投了个机器人公司：浙大校友领衔，全华人团队](https://www.infoq.cn/article/OXYUTirSHSaMWhRvvEUz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 18:00
+
+#### [硅基流动力推企业级MaaS，多行业大模型落地效果超预期！联合创始人：未来将占一半市场](https://www.infoq.cn/article/gJ2AoHq9IqUOZIjjAeOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 17:49
+
+#### [Temporal 联手 OpenAI 推出 AI Agent 持久化方案，现已开放公开预览](https://www.infoq.cn/article/dLEP0OfOTS18WPvOCLYb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 17:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Save $36 on a Cool, Compact Hall Effect Keyboard](https://www.wired.com/story/keychron-q1-he-deal/)
+**发布时间**: 2025-09-22 18:10
+
+#### [WIRED Roundup: The Right Embraces Cancel Culture](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/)
+**发布时间**: 2025-09-22 17:14
+
+#### [$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers](https://www.wired.com/story/dollar3800-flights-and-aborted-takeoffs-how-trumps-h-1b-announcement-panicked-tech-workers/)
+**发布时间**: 2025-09-22 14:55
+
+#### [Should You Subscribe to Garmin Connect+? (2025)](https://www.wired.com/story/should-you-subscribe-to-garmin-connect/)
+**发布时间**: 2025-09-22 13:00
+
+#### [The Best Cat Litter Depends on Your Cat and Type of Litter Box](https://www.wired.com/story/what-type-of-cat-litter-should-you-use/)
+**发布时间**: 2025-09-22 12:01
+
+#### [Louisiana Hands Meta a Tax Break and Power for Its Biggest Data Center](https://www.wired.com/story/louisiana-hands-meta-a-tax-break-and-power-for-its-biggest-data-center/)
+**发布时间**: 2025-09-22 11:00
+
+#### [Best Sheets for Every Bed and Budget (2025): Cotton, Linen, Bamboo](https://www.wired.com/story/best-bedsheets/)
+**发布时间**: 2025-09-22 10:38
+
+#### [Livestream: Tech Went All In on Trump. Now What?](https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/)
+**发布时间**: 2025-09-22 10:28
+
+#### [I Thought I Knew Silicon Valley. I Was Wrong](https://www.wired.com/story/silicon-valley-politics-shift/)
+**发布时间**: 2025-09-22 10:00
+
+#### [Palantir Wants to Be a Lifestyle Brand](https://www.wired.com/story/palantir-wants-to-be-a-lifestyle-brand/)
+**发布时间**: 2025-09-22 10:00
+
+#### [WIRED’s Politics Issue Cover Is Coming to a City Near You](https://www.wired.com/story/wired-politics-cover-search/)
+**发布时间**: 2025-09-22 10:00
+
+#### [Elon Musk Is Out to Rule Space. Can Anyone Stop Him?](https://www.wired.com/story/elon-musk-emperor-of-space/)
+**发布时间**: 2025-09-22 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/102693)
+**发布时间**: 2025-09-22 17:45
 
 ---
 

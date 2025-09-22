@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Sep 2025 05:21:34 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2025 23:18:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>EMNLP2025 | SFT与RL的结合，vivo AI Lab提出新的后训练方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-22</link>
-      <description>&lt;![CDATA[EMNLP2025 | SFT与RL的结合，vivo AI Lab提出新的后训练方法]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-22</guid>
+      <title>百度开源视觉理解模型Qianfan-VL！全尺寸领域增强+全自研芯片计算</title>
+      <link>https://www.qbitai.com/2025/09/335378.html</link>
+      <description>&lt;![CDATA[百度开源视觉理解模型Qianfan-VL！全尺寸领域增强+全自研芯片计算]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335378.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Data＋AI驱动技术服务升级，腾讯云智能顾问和腾讯云可观测发布全新AI能力，助力客户高效用云</title>
-      <link>https://www.qbitai.com/2025/09/334929.html</link>
-      <description>&lt;![CDATA[Data＋AI驱动技术服务升级，腾讯云智能顾问和腾讯云可观测发布全新AI能力，助力客户高效用云]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 03:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334929.html</guid>
+      <title>首创双NPU架构一鸣惊人！联发科天玑9500重磅加码主动式AI体验</title>
+      <link>https://www.qbitai.com/2025/09/335342.html</link>
+      <description>&lt;![CDATA[首创双NPU架构一鸣惊人！联发科天玑9500重磅加码主动式AI体验]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335342.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>华为云：做厚算力“黑土地”，成就行业AI先锋</title>
-      <link>https://www.qbitai.com/2025/09/334839.html</link>
-      <description>&lt;![CDATA[华为云：做厚算力“黑土地”，成就行业AI先锋]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334839.html</guid>
+      <title>一键秒变免费学习机！百度搜索正式推出AI伴学、AI精准练</title>
+      <link>https://www.qbitai.com/2025/09/334962.html</link>
+      <description>&lt;![CDATA[一键秒变免费学习机！百度搜索正式推出AI伴学、AI精准练]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334962.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>基于华为云Token服务的稿定AI上线，一站式解决设计难题</title>
-      <link>https://www.qbitai.com/2025/09/334835.html</link>
-      <description>&lt;![CDATA[基于华为云Token服务的稿定AI上线，一站式解决设计难题]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334835.html</guid>
+      <title>MIT affiliates win AI for Math grants to accelerate mathematical discovery</title>
+      <link>https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922</link>
+      <description>&lt;![CDATA[MIT affiliates win AI for Math grants to accelerate mathematical discovery]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How are MIT entrepreneurs using AI?</title>
-      <link>https://news.mit.edu/2025/how-are-mit-entrepreneurs-using-ai-0922</link>
-      <description>&lt;![CDATA[How are MIT entrepreneurs using AI?]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/how-are-mit-entrepreneurs-using-ai-0922</guid>
+      <title>The Download: the LLM will see you now, and a new fusion power deal</title>
+      <link>https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</link>
+      <description>&lt;![CDATA[The Download: the LLM will see you now, and a new fusion power deal]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Distribution Shift Problem in Transportation Networks using Reinforcement Learning and AI</title>
-      <link>https://arxiv.org/abs/2509.15291</link>
-      <description>&lt;![CDATA[The Distribution Shift Problem in Transportation Networks using Reinforcement Learning and AI]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.15291</guid>
+      <title>An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems</title>
+      <link>https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/</link>
+      <description>&lt;![CDATA[An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>An Artificial Intelligence Driven Semantic Similarity-Based Pipeline for Rapid Literature</title>
-      <link>https://arxiv.org/abs/2509.15292</link>
-      <description>&lt;![CDATA[An Artificial Intelligence Driven Semantic Similarity-Based Pipeline for Rapid Literature]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.15292</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Stress Testing Deliberative Alignment for Anti-Scheming Training</title>
-      <link>https://arxiv.org/abs/2509.15541</link>
-      <description>&lt;![CDATA[Stress Testing Deliberative Alignment for Anti-Scheming Training]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.15541</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Synthetic bootstrapped pretraining</title>
-      <link>https://arxiv.org/abs/2509.15248</link>
-      <description>&lt;![CDATA[Synthetic bootstrapped pretraining]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.15248</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model</title>
-      <link>https://arxiv.org/abs/2509.15258</link>
-      <description>&lt;![CDATA[Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.15258</guid>
+      <title>This medical startup uses LLMs to run appointments and make diagnoses</title>
+      <link>https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/</link>
+      <description>&lt;![CDATA[This medical startup uses LLMs to run appointments and make diagnoses]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 09:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/</guid>
       <category>AI</category>
     </item>
   </channel>

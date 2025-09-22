@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-22 05:19
+**最后更新时间**: 2025-09-22 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-22 23:17)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百度开源视觉理解模型Qianfan-VL！全尺寸领域增强+全自研芯片计算](https://www.qbitai.com/2025/09/335378.html)
+**发布时间**: 2025-09-22 17:23
+
+#### [首创双NPU架构一鸣惊人！联发科天玑9500重磅加码主动式AI体验](https://www.qbitai.com/2025/09/335342.html)
+**发布时间**: 2025-09-22 13:56
+
+#### [一键秒变免费学习机！百度搜索正式推出AI伴学、AI精准练](https://www.qbitai.com/2025/09/334962.html)
+**发布时间**: 2025-09-22 09:09
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT affiliates win AI for Math grants to accelerate mathematical discovery](https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922)
+**发布时间**: 2025-09-22 15:15
+
+#### [New tool makes generative AI models more likely to create breakthrough materials](https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922)
+**发布时间**: 2025-09-22 05:00
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: the LLM will see you now, and a new fusion power deal](https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/)
+**发布时间**: 2025-09-22 12:10
+
+#### [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/)
+**发布时间**: 2025-09-22 11:00
+
+#### [This medical startup uses LLMs to run appointments and make diagnoses](https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/)
+**发布时间**: 2025-09-22 09:10
 
 ---
 
