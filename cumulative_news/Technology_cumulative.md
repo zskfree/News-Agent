@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-21 23:17
+**最后更新时间**: 2025-09-22 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-22 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [始祖鸟高原“炸山”，中产愤怒了](https://www.tmtpost.com/7701506.html)
+**发布时间**: 2025-09-22 12:55
+
+#### [关于户晨风被封，我所想到的二三事](https://www.tmtpost.com/7701438.html)
+**发布时间**: 2025-09-22 12:31
+
+#### [OpenAI Teams Up with Luxshare Precision to Build Innovative AI Device](https://www.tmtpost.com/7701612.html)
+**发布时间**: 2025-09-22 12:17
+
+#### [始祖鸟品牌的绿色谎言](https://www.tmtpost.com/7701252.html)
+**发布时间**: 2025-09-22 11:51
+
+#### [Tianqiao Chen's MiroMind Tops Global AI Predictive Benchmark](https://www.tmtpost.com/7701543.html)
+**发布时间**: 2025-09-22 11:29
+
+#### [Tetheria.ai完成数百万美元天使轮融资，特斯拉系团队入局灵巧手赛道](https://www.tmtpost.com/7701519.html)
+**发布时间**: 2025-09-22 11:17
+
+#### [AI助推美股盈利，如何掘金科技板块？| 巴伦菁英月谈会](https://www.tmtpost.com/7701431.html)
+**发布时间**: 2025-09-22 10:53
+
+#### [给制造业做Agent开发平台，这家公司年收入增长500%｜“抓住下一个Z一鸣”速访](https://www.tmtpost.com/7701473.html)
+**发布时间**: 2025-09-22 10:46
+
+#### [AI是中小企业最后的机会](https://www.tmtpost.com/7701200.html)
+**发布时间**: 2025-09-22 10:44
+
+#### [一年涨15倍，估值390亿，Figure是真金还是泡沫？](https://www.tmtpost.com/7701161.html)
+**发布时间**: 2025-09-22 09:54
+
+#### [China Calls on U.S. to Provide Open and Fair Environment for TikTok after Xi-Trump Call](https://www.tmtpost.com/7701366.html)
+**发布时间**: 2025-09-22 09:30
+
+#### [“周杰伦概念股”入股鸟巢背后的资本局](https://www.tmtpost.com/7701232.html)
+**发布时间**: 2025-09-22 09:16
+
+#### [科股早知道：中国已成为全球最大的储能市场，新型储能装机近五年增20倍](https://www.tmtpost.com/7701249.html)
+**发布时间**: 2025-09-22 08:00
+
+#### [【钛晨报】国家医保局：第十一批药品集采遵循稳临床、保质量、防围标、反内卷原则；国务院食安办等部门积极推进预制菜国家标准制定和餐饮环节使用明示；摩尔线程科创板IPO将于9月26日上会](https://www.tmtpost.com/7701143.html)
+**发布时间**: 2025-09-22 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Code Optimizations通过自动识别.NET性能瓶颈提升应用程序的洞察力](https://www.infoq.cn/article/8gYD0oBYfYlSK2s0acJ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 12:30
+
+#### [打破数据孤岛：使用 Snowflake ML 大规模构建、部署和服务模型 | 技术实践](https://www.infoq.cn/article/NsQhQM7wpPb3rHZ8iWhP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 11:53
+
+#### [核心 IT 外包印度惹祸，捷豹路虎全线停摆：上亿英镑蒸发，3.3万员工“被迫”休假](https://www.infoq.cn/article/7aFiLaLzubdeYhq07YXR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 11:37
+
+#### [“别再碰我代码！”明星AI工具成瘟神，用户怒斥：一周七千块，修不好bug还删我关键文件！](https://www.infoq.cn/article/A88djWeFTXy7vcYhGziU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 11:31
+
+#### [MCP注册中心简介](https://www.infoq.cn/article/GxD2kl30FpwrMywK5dMj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 11:30
+
+#### [LinkedIn使用现有的消息基础设施构建了企业级的多Agent AI](https://www.infoq.cn/article/09vAM1z1zOoqBWcrvvOq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 10:45
+
+#### [Claude 急了！模型降智，官方长文用 bug 搪塞？开发者怒怼“太晚了”：承认不达标为何不退钱？](https://www.infoq.cn/article/KLHX3gHLDTkjYJ02tpgP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 10:31
+
+#### [字节跳动深夜回应TikTok进展；清华学霸在小红书晒 1.67 亿元年薪引调查；特朗普对H-1B签证加征10万美元引恐慌 | AI周报](https://www.infoq.cn/article/vUYrrZ9aeRhydARmexYt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-22 10:21
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [西贝1.8万人竟不敌一个罗永浩？如何三句话反杀？](http://www.huxiu.com/article/4782605.html?f=wangzhan)
+**发布时间**: 2025-09-22 12:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性](https://sspai.com/post/102678)
+**发布时间**: 2025-09-22 11:03
+
+#### [派早报：中美宣布 TikTok 问题进展](https://sspai.com/post/102639)
+**发布时间**: 2025-09-22 08:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [黄仁勋出手，50 亿美元入股英特尔，英伟达一统「GPU+x86」生态](http://www.geekpark.net/news/354257)
+**发布时间**: 2025-09-22 10:47
+
+#### [巴菲特清仓比亚迪，期间股价上涨 38 倍；苹果折叠屏手机细节曝光；雷军年度演讲定档 9 月 25 日](http://www.geekpark.net/news/354228)
+**发布时间**: 2025-09-22 08:32
 
 ---
 

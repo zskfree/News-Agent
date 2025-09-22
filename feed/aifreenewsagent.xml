@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Sep 2025 23:18:30 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2025 05:21:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球双榜SOTA！明略科技专有大模型 Mano开启GUI智能操作新时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-21-4</link>
-      <description>&lt;![CDATA[全球双榜SOTA！明略科技专有大模型 Mano开启GUI智能操作新时代]]&gt;</description>
-      <pubDate>Sun, 21 Sep 2025 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21-4</guid>
+      <title>EMNLP2025 | SFT与RL的结合，vivo AI Lab提出新的后训练方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-09-22</link>
+      <description>&lt;![CDATA[EMNLP2025 | SFT与RL的结合，vivo AI Lab提出新的后训练方法]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-22</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌Gemini IMO和ICPC夺金功臣之一被xAI挖走，马斯克直呼：起飞</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-21-3</link>
-      <description>&lt;![CDATA[谷歌Gemini IMO和ICPC夺金功臣之一被xAI挖走，马斯克直呼：起飞]]&gt;</description>
-      <pubDate>Sun, 21 Sep 2025 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21-3</guid>
+      <title>Data＋AI驱动技术服务升级，腾讯云智能顾问和腾讯云可观测发布全新AI能力，助力客户高效用云</title>
+      <link>https://www.qbitai.com/2025/09/334929.html</link>
+      <description>&lt;![CDATA[Data＋AI驱动技术服务升级，腾讯云智能顾问和腾讯云可观测发布全新AI能力，助力客户高效用云]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 03:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334929.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>工业级3D世界构建提速90倍！全新框架LatticeWorld让虚拟世界「一句话成真」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-21-2</link>
-      <description>&lt;![CDATA[工业级3D世界构建提速90倍！全新框架LatticeWorld让虚拟世界「一句话成真」]]&gt;</description>
-      <pubDate>Sun, 21 Sep 2025 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21-2</guid>
+      <title>华为云：做厚算力“黑土地”，成就行业AI先锋</title>
+      <link>https://www.qbitai.com/2025/09/334839.html</link>
+      <description>&lt;![CDATA[华为云：做厚算力“黑土地”，成就行业AI先锋]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334839.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>集合通信库VCCL释放GPU极致算力，创智、基流、智谱、联通、北航、清华、东南重磅开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-09-21</link>
-      <description>&lt;![CDATA[集合通信库VCCL释放GPU极致算力，创智、基流、智谱、联通、北航、清华、东南重磅开源]]&gt;</description>
-      <pubDate>Sun, 21 Sep 2025 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-09-21</guid>
+      <title>基于华为云Token服务的稿定AI上线，一站式解决设计难题</title>
+      <link>https://www.qbitai.com/2025/09/334835.html</link>
+      <description>&lt;![CDATA[基于华为云Token服务的稿定AI上线，一站式解决设计难题]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334835.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>离谱！不到30万开走蔚来ES8，准车主找李斌“哭惨”：App崩了，7分钟才锁上单</title>
-      <link>https://www.qbitai.com/2025/09/334704.html</link>
-      <description>&lt;![CDATA[离谱！不到30万开走蔚来ES8，准车主找李斌“哭惨”：App崩了，7分钟才锁上单]]&gt;</description>
-      <pubDate>Sun, 21 Sep 2025 10:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334704.html</guid>
+      <title>How are MIT entrepreneurs using AI?</title>
+      <link>https://news.mit.edu/2025/how-are-mit-entrepreneurs-using-ai-0922</link>
+      <description>&lt;![CDATA[How are MIT entrepreneurs using AI?]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/how-are-mit-entrepreneurs-using-ai-0922</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Distribution Shift Problem in Transportation Networks using Reinforcement Learning and AI</title>
+      <link>https://arxiv.org/abs/2509.15291</link>
+      <description>&lt;![CDATA[The Distribution Shift Problem in Transportation Networks using Reinforcement Learning and AI]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.15291</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>An Artificial Intelligence Driven Semantic Similarity-Based Pipeline for Rapid Literature</title>
+      <link>https://arxiv.org/abs/2509.15292</link>
+      <description>&lt;![CDATA[An Artificial Intelligence Driven Semantic Similarity-Based Pipeline for Rapid Literature]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.15292</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Stress Testing Deliberative Alignment for Anti-Scheming Training</title>
+      <link>https://arxiv.org/abs/2509.15541</link>
+      <description>&lt;![CDATA[Stress Testing Deliberative Alignment for Anti-Scheming Training]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.15541</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Synthetic bootstrapped pretraining</title>
+      <link>https://arxiv.org/abs/2509.15248</link>
+      <description>&lt;![CDATA[Synthetic bootstrapped pretraining]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.15248</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model</title>
+      <link>https://arxiv.org/abs/2509.15258</link>
+      <description>&lt;![CDATA[Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model]]&gt;</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.15258</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-21 23:17
+**最后更新时间**: 2025-09-22 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-22 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures dip after Friday’s record highs, even as ‘the market has learned to thrive in ambiguity’](https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 02:13
+
+#### [Why the bull market for stocks may now hinge on the 10-year Treasury yield](https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 00:33
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Now that the Fed has cut rates, investors can focus on what really matters](https://www.marketwatch.com/bulletins/redirect/go?g=04147b52-630f-4691-937f-210071aa5b70&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 01:01
+
+#### [This seasonal stock-market trading pattern is coming up — and worth observing](https://www.marketwatch.com/bulletins/redirect/go?g=55d9c062-47e0-45fb-9814-0684db6fbd02&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 23:46
 
 ---
 
