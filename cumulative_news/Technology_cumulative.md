@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-23 05:24
+**最后更新时间**: 2025-09-23 08:26
+
+---
+
+## 🆕 最新更新 (2025-09-23 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从“苗苗酸汤”看锅圈“三产融合”的助农新范式](https://www.tmtpost.com/7702183.html)
+**发布时间**: 2025-09-23 16:18
+
+#### [如何正确理解Token经济学？](https://www.tmtpost.com/7703368.html)
+**发布时间**: 2025-09-23 16:09
+
+#### [Joybuy扛起出海大旗，刘强东在欧洲明牌了](https://www.tmtpost.com/7703399.html)
+**发布时间**: 2025-09-23 16:09
+
+#### [实探信誉楼超市：73亿销售额稳坐河北商超第二，直面盒马山姆挑战](https://www.tmtpost.com/7702601.html)
+**发布时间**: 2025-09-23 16:03
+
+#### [始祖鸟“炸山”，伤及安踏](https://www.tmtpost.com/7702654.html)
+**发布时间**: 2025-09-23 16:03
+
+#### [IL-6加速开辟新战场](https://www.tmtpost.com/7702756.html)
+**发布时间**: 2025-09-23 16:02
+
+#### [黄金暴涨背后的赢家与陷阱](https://www.tmtpost.com/7702768.html)
+**发布时间**: 2025-09-23 16:02
+
+#### [一群“数贸新生代”即将从义乌搅动全球](https://www.tmtpost.com/7702861.html)
+**发布时间**: 2025-09-23 16:02
+
+#### [象牙塔下的“金融帝国”：美国大学何以成为“一门生意”？ | 「钛度号」作品月榜第130期](https://www.tmtpost.com/7702090.html)
+**发布时间**: 2025-09-23 16:01
+
+#### [弃用复原乳背后](https://www.tmtpost.com/7703025.html)
+**发布时间**: 2025-09-23 15:45
+
+#### [巴菲特转身背后：新能源赛道的港股机会在哪？](https://www.tmtpost.com/7702844.html)
+**发布时间**: 2025-09-23 15:45
+
+#### [人力资源效率？人力资源效能！](https://www.tmtpost.com/7703117.html)
+**发布时间**: 2025-09-23 15:45
+
+#### [瑞士工程科技公司Qnami研发纳米级量子成像探针，推动量子传感技术商业化 | 瑞士创新100强](https://www.tmtpost.com/7703263.html)
+**发布时间**: 2025-09-23 15:45
+
+#### [安踏市值开盘蒸发125亿，一场营销活动为啥会闯这么大祸？](https://www.tmtpost.com/7702869.html)
+**发布时间**: 2025-09-23 15:44
+
+#### [大单品开发，不是拍着脑袋就能干的事](https://www.tmtpost.com/7703109.html)
+**发布时间**: 2025-09-23 15:44
+
+#### [娃哈哈改名，宗馥莉太想进步了](https://www.tmtpost.com/7703111.html)
+**发布时间**: 2025-09-23 15:44
+
+#### [友升股份冲A：首秀暴涨80%，为特斯拉、吉利、广汽“轻量搭档”](https://www.tmtpost.com/7703239.html)
+**发布时间**: 2025-09-23 15:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从技能到机遇：Snowflake 免费培训，帮你抢占 AI 数据人才快车道](https://www.infoq.cn/article/Xc1pH6JxKvgK7zFI8wFy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-23 15:13
+
+#### [新版 Android 插件登场，应用能瘦身 50%，Google 把代码优化和资源压缩合二为一](https://www.infoq.cn/article/9vCicLxJ0bTZktgLCx0G?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-23 14:21
+
+#### [诸神之战！谁是 Al 视频真王？｜AI的n次方](https://www.infoq.cn/video/LASXfdfQpiJjNlpXBMYG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-23 13:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从零打造可行、可用的产品：Dify AI 工作流上手指南](https://sspai.com/post/102434)
+**发布时间**: 2025-09-23 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [长春航展又出了啥新科技？让老美又加班点披萨？](http://www.huxiu.com/article/4783577.html?f=wangzhan)
+**发布时间**: 2025-09-23 14:00
+
+#### [贾国龙硬刚消费者自毁西贝？最大敌人竟是他自己？](http://www.huxiu.com/article/4783232.html?f=wangzhan)
+**发布时间**: 2025-09-23 13:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer)
+**发布时间**: 2025-09-23 05:52
 
 ---
 

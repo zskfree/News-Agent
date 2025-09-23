@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Sep 2025 05:25:41 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 08:27:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots</title>
-      <link>https://arxiv.org/abs/2509.16444</link>
-      <description>&lt;![CDATA[Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16444</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>全是套路！英伟达千亿美元投OpenAI，奥特曼拿钱买卡还让甲骨文赚差价</title>
-      <link>https://www.qbitai.com/2025/09/335390.html</link>
-      <description>&lt;![CDATA[全是套路！英伟达千亿美元投OpenAI，奥特曼拿钱买卡还让甲骨文赚差价]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 01:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335390.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A global view of diverse construction methods of fuzzy implication functions rooted on F-chains</title>
-      <link>https://arxiv.org/abs/2509.16298</link>
-      <description>&lt;![CDATA[A global view of diverse construction methods of fuzzy implication functions rooted on F-chains]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16298</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping</title>
-      <link>https://arxiv.org/abs/2509.16399</link>
-      <description>&lt;![CDATA[VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16399</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GPO: Learning from Critical Steps to Improve LLM Reasoning</title>
-      <link>https://arxiv.org/abs/2509.16456</link>
-      <description>&lt;![CDATA[GPO: Learning from Critical Steps to Improve LLM Reasoning]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16456</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Question Answering with LLMs and Learning from Answer Sets</title>
-      <link>https://arxiv.org/abs/2509.16590</link>
-      <description>&lt;![CDATA[Question Answering with LLMs and Learning from Answer Sets]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16590</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs</title>
-      <link>https://arxiv.org/abs/2509.16648</link>
-      <description>&lt;![CDATA[FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16648</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Automated Procedural Analysis via Video-Language Models for AI-assisted Nursing Skills Assessment</title>
-      <link>https://arxiv.org/abs/2509.16810</link>
-      <description>&lt;![CDATA[Automated Procedural Analysis via Video-Language Models for AI-assisted Nursing Skills Assessment]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16810</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs</title>
-      <link>https://arxiv.org/abs/2509.16866</link>
-      <description>&lt;![CDATA[seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16866</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLMs as Layout Designers: A Spatial Reasoning Perspective</title>
-      <link>https://arxiv.org/abs/2509.16891</link>
-      <description>&lt;![CDATA[LLMs as Layout Designers: A Spatial Reasoning Perspective]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.16891</guid>
+      <title>大疆系智能车公司，一汽刚成了最大股东</title>
+      <link>https://www.qbitai.com/2025/09/335416.html</link>
+      <description>&lt;![CDATA[大疆系智能车公司，一汽刚成了最大股东]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335416.html</guid>
       <category>AI</category>
     </item>
   </channel>

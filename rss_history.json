@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "90b5ddb5d8fb6db52b814558306cdca0e8c233290e4530721fe0c077d9c8b4d7": {
-        "title": "老黄刚投了无人配送，复旦校友创办的",
-        "link": "https://www.qbitai.com/2025/08/325344.html",
-        "published_date": "Sun, 24 Aug 2025 07:08:00 GMT",
-        "first_seen": "2025-08-24T08:24:16.163888"
-      },
-      "8f8a6b4c3c15f94d31c6aab927fa55535227635b902fd3ba9d7de44feb17a299": {
-        "title": "告别“炼丹玄学”：上海AI实验室推出首个大模型数据竞技场OpenDataArena",
-        "link": "https://www.qbitai.com/2025/08/325393.html",
-        "published_date": "Sun, 24 Aug 2025 06:31:00 GMT",
-        "first_seen": "2025-08-24T08:24:16.164049"
-      },
-      "7888ad48aabce08eebca29fb61284a210c672cb0bd20895a3ac79217dc0e9cd8": {
-        "title": "和图灵机相关的这个数字，已经大到整个宇宙原子都容不下了",
-        "link": "https://www.qbitai.com/2025/08/325374.html",
-        "published_date": "Sun, 24 Aug 2025 06:23:00 GMT",
-        "first_seen": "2025-08-24T08:24:16.164204"
-      },
       "e5b7df5715a928fa9cc4726adc1084e03d6e6c6f432c266adb493529c645ba8f": {
         "title": "三个月、零基础手搓一块TPU，能推理能训练，还是开源的",
         "link": "https://www.jiqizhixin.com/articles/2025-08-24-3",
@@ -8976,27 +8958,15 @@
         "link": "https://arxiv.org/abs/2509.17544",
         "published_date": "Tue, 23 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-23T05:24:53.614957"
+      },
+      "37055f0e517db1e639c04d9c1ae8d78cf74369b53542fa8b2521f4548c07ec6f": {
+        "title": "大疆系智能车公司，一汽刚成了最大股东",
+        "link": "https://www.qbitai.com/2025/09/335416.html",
+        "published_date": "Tue, 23 Sep 2025 06:30:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.163886"
       }
     },
     "Technology": {
-      "eb70d008a05e06f3d809528c7e69a48e3fb33b14aa3895fb9cb7cd79829d6126": {
-        "title": "东风“腾笼换鸟”，岚图单飞港股｜钛度车库",
-        "link": "https://www.tmtpost.com/7669880.html",
-        "published_date": "Sun, 24 Aug 2025 13:55:00 GMT",
-        "first_seen": "2025-08-24T08:24:16.212295"
-      },
-      "326aed819c773101fa5dac4b285dc9b5cc97369807b4760cc188d44a004e19b2": {
-        "title": "Manus收入营收率达 9000万美元；美团旗下外卖品牌Keeta在卡塔尔上线；长城汽车巴西工厂竣工投产｜一周大公司出海动态",
-        "link": "https://www.tmtpost.com/7669259.html",
-        "published_date": "Sun, 24 Aug 2025 13:35:00 GMT",
-        "first_seen": "2025-08-24T08:24:16.212485"
-      },
-      "cfe390a6284f3fd3957ac7786a9d78a96eb62f93d1180613d68642e7c71aaa74": {
-        "title": "曾轶可巡演票房被“公开处刑”，主办方何以至此？",
-        "link": "http://www.huxiu.com/article/4729136.html?f=wangzhan",
-        "published_date": "Sun, 24 Aug 2025 07:57:00 GMT",
-        "first_seen": "2025-08-24T08:24:16.212932"
-      },
       "7d87c93cd1596a99628f3b5ab50c8bc9197c2377f9760d9ceb7effc832c2240f": {
         "title": "Global Postal Services Suspend U.S. Shipments as End of Tariff Loophole Sparks Shipping Chaos",
         "link": "https://www.tmtpost.com/7670327.html",
@@ -23444,6 +23414,150 @@
         "link": "https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump",
         "published_date": "Mon, 22 Sep 2025 23:27:00 GMT",
         "first_seen": "2025-09-23T05:24:04.864807"
+      },
+      "43b9ab3441808d0c6e8bd6250ef8617c4492a7f3698d83b2ffe8713aa494b1c8": {
+        "title": "从“苗苗酸汤”看锅圈“三产融合”的助农新范式",
+        "link": "https://www.tmtpost.com/7702183.html",
+        "published_date": "Tue, 23 Sep 2025 16:18:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052260"
+      },
+      "668ec0a603888be85fdb1fc84e6c1d2ab07a6bb428a843df6afd561e0bcb9f5e": {
+        "title": "如何正确理解Token经济学？",
+        "link": "https://www.tmtpost.com/7703368.html",
+        "published_date": "Tue, 23 Sep 2025 16:09:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052271"
+      },
+      "070c717cac2a54954896f8b0d86b45a6bbbe77ee6fbe670f749c08c2008700ec": {
+        "title": "Joybuy扛起出海大旗，刘强东在欧洲明牌了",
+        "link": "https://www.tmtpost.com/7703399.html",
+        "published_date": "Tue, 23 Sep 2025 16:09:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052281"
+      },
+      "b3b7c05d5a0ac5cf21edbe3053e2ac59f062df6c6a8e9adb9885fb3a4cd736bf": {
+        "title": "实探信誉楼超市：73亿销售额稳坐河北商超第二，直面盒马山姆挑战",
+        "link": "https://www.tmtpost.com/7702601.html",
+        "published_date": "Tue, 23 Sep 2025 16:03:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052293"
+      },
+      "683cbbf1546d847c2b2e40202073ab457f1fe6abdaabef8a29004326b3e01a22": {
+        "title": "始祖鸟“炸山”，伤及安踏",
+        "link": "https://www.tmtpost.com/7702654.html",
+        "published_date": "Tue, 23 Sep 2025 16:03:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052303"
+      },
+      "04c5b3c8cbd0483ea88ea2d59b85654431da369d92038baa0e73ac86cb58b22f": {
+        "title": "IL-6加速开辟新战场",
+        "link": "https://www.tmtpost.com/7702756.html",
+        "published_date": "Tue, 23 Sep 2025 16:02:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052312"
+      },
+      "d21c4d959701c3ce16a17875e355fce19e75610e8895fb48d134af9b78ee664b": {
+        "title": "黄金暴涨背后的赢家与陷阱",
+        "link": "https://www.tmtpost.com/7702768.html",
+        "published_date": "Tue, 23 Sep 2025 16:02:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052322"
+      },
+      "7eb3094836fac1270ec44fdf1dd206bc2e5b2a5e9ed93d0ef505ace74a7b508d": {
+        "title": "一群“数贸新生代”即将从义乌搅动全球",
+        "link": "https://www.tmtpost.com/7702861.html",
+        "published_date": "Tue, 23 Sep 2025 16:02:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.736833"
+      },
+      "ba1b364d9479f3d8eb777b1a743f475a5ed29fde2ca13b6d15ae84aa260ecf52": {
+        "title": "象牙塔下的“金融帝国”：美国大学何以成为“一门生意”？ | 「钛度号」作品月榜第130期",
+        "link": "https://www.tmtpost.com/7702090.html",
+        "published_date": "Tue, 23 Sep 2025 16:01:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.737282"
+      },
+      "fceead3bfc2f1ee20e3355cee066fd5c65988aa1a2b91e7facdca0afb59b42e2": {
+        "title": "弃用复原乳背后",
+        "link": "https://www.tmtpost.com/7703025.html",
+        "published_date": "Tue, 23 Sep 2025 15:45:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.737491"
+      },
+      "9564c3ab7451b371be13f689c3daec2e2922cbffb6d9c2968e01ed3165aa88ca": {
+        "title": "巴菲特转身背后：新能源赛道的港股机会在哪？",
+        "link": "https://www.tmtpost.com/7702844.html",
+        "published_date": "Tue, 23 Sep 2025 15:45:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.737866"
+      },
+      "8836c4a12d37c1b9889fcedd9933a59bf9962a43caef50e8c3fe0c90e53175ab": {
+        "title": "人力资源效率？人力资源效能！",
+        "link": "https://www.tmtpost.com/7703117.html",
+        "published_date": "Tue, 23 Sep 2025 15:45:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.738211"
+      },
+      "579b48ca9b77b5b1f41e4d9abacdd12bf2d726486959ff40bbd93cc782a99ad0": {
+        "title": "瑞士工程科技公司Qnami研发纳米级量子成像探针，推动量子传感技术商业化 | 瑞士创新100强",
+        "link": "https://www.tmtpost.com/7703263.html",
+        "published_date": "Tue, 23 Sep 2025 15:45:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052201"
+      },
+      "87a58e5ce6b86b43eb46b5bfe3fa79668644cc2fab7969de5b0c244d11bbb632": {
+        "title": "安踏市值开盘蒸发125亿，一场营销活动为啥会闯这么大祸？",
+        "link": "https://www.tmtpost.com/7702869.html",
+        "published_date": "Tue, 23 Sep 2025 15:44:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.739397"
+      },
+      "44c2db59dc2a23bb6ad1e95e2793f9b4890f2f0fe765a0ce8357ff2b6e04d7ff": {
+        "title": "大单品开发，不是拍着脑袋就能干的事",
+        "link": "https://www.tmtpost.com/7703109.html",
+        "published_date": "Tue, 23 Sep 2025 15:44:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.739881"
+      },
+      "428a196f752f396d7eb504f1d2b736c4775b436058cde99cb9952c2b8304b979": {
+        "title": "娃哈哈改名，宗馥莉太想进步了",
+        "link": "https://www.tmtpost.com/7703111.html",
+        "published_date": "Tue, 23 Sep 2025 15:44:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.740332"
+      },
+      "370aadd71d1f82ce637bdaac282bfe53d2c62e1ed3db465fce1a2f15a315c0af": {
+        "title": "友升股份冲A：首秀暴涨80%，为特斯拉、吉利、广汽“轻量搭档”",
+        "link": "https://www.tmtpost.com/7703239.html",
+        "published_date": "Tue, 23 Sep 2025 15:44:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.741070"
+      },
+      "5cd7850b7639af0dc3c06610920bdbc8dc4764d00d8737e1dd907a004e017f08": {
+        "title": "从技能到机遇：Snowflake 免费培训，帮你抢占 AI 数据人才快车道",
+        "link": "https://www.infoq.cn/article/Xc1pH6JxKvgK7zFI8wFy?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Sep 2025 15:13:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.741951"
+      },
+      "588ce29544f91b42a6273af6842630e6b8c31d0cc5772942b937b8a0f67c4cd8": {
+        "title": "新版 Android 插件登场，应用能瘦身 50%，Google 把代码优化和资源压缩合二为一",
+        "link": "https://www.infoq.cn/article/9vCicLxJ0bTZktgLCx0G?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Sep 2025 14:21:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.743060"
+      },
+      "484f12af0ae45efe00dfa6827d5210bb1ffe6843fd39de40ed3392369e669927": {
+        "title": "诸神之战！谁是 Al 视频真王？｜AI的n次方",
+        "link": "https://www.infoq.cn/video/LASXfdfQpiJjNlpXBMYG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Sep 2025 13:43:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.744010"
+      },
+      "f5a179fb257b890b772b50d383039ce226cb276f5efdbc4c8e4fb72017ff1818": {
+        "title": "从零打造可行、可用的产品：Dify AI 工作流上手指南",
+        "link": "https://sspai.com/post/102434",
+        "published_date": "Tue, 23 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052232"
+      },
+      "36aa6ccf44450046bade3e94729bec76ab39415ad63e1bd89bd7265cc8f8d24f": {
+        "title": "长春航展又出了啥新科技？让老美又加班点披萨？",
+        "link": "http://www.huxiu.com/article/4783577.html?f=wangzhan",
+        "published_date": "Tue, 23 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-23T08:27:15.052247"
+      },
+      "2a79c8fa20147b1d1755af01db5e84bca53e7ac4e6f29cea513008c2b586176f": {
+        "title": "贾国龙硬刚消费者自毁西贝？最大敌人竟是他自己？",
+        "link": "http://www.huxiu.com/article/4783232.html?f=wangzhan",
+        "published_date": "Tue, 23 Sep 2025 13:00:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.746520"
+      },
+      "c28a37df83c3076b5c84b2d793fc3c80cade42498deb6ad67d8306e18dcac51b": {
+        "title": "A first look at Kojima’s OD Xbox game",
+        "link": "https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer",
+        "published_date": "Tue, 23 Sep 2025 05:52:00 GMT",
+        "first_seen": "2025-09-23T08:26:26.747767"
       }
     },
     "Finance": {
@@ -26582,8 +26696,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-09-23T05:25:41.941675",
-    "Technology": "2025-09-23T05:24:53.242898",
-    "Finance": "2025-09-23T05:25:41.967805"
+    "AI": "2025-09-23T08:27:15.171107",
+    "Technology": "2025-09-23T08:27:15.078467",
+    "Finance": "2025-09-23T08:27:15.189088"
   }
 }
