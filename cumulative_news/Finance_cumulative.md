@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-22 23:17
+**最后更新时间**: 2025-09-23 05:24
+
+---
+
+## 🆕 最新更新 (2025-09-23 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oracle’s stock leaps on TikTok deal, but a major concern persists](https://www.marketwatch.com/story/oracles-stock-leaps-on-tiktok-deal-but-a-major-concern-persists-da0682eb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 01:55
+
+#### [Jimmy Kimmel supporters who pushed for Disney boycott take victory lap over his return to ABC](https://www.marketwatch.com/story/jimmy-kimmel-supporters-who-pushed-for-disney-boycott-take-victory-lap-over-his-return-to-abc-91a84c4d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 00:59
+
+#### [You’re just getting scraps from the stock market. Here’s where the big money is made.](https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:53
+
+#### [Jimmy Kimmel show returning after ABC pulled it in response to blowback from White House](https://www.marketwatch.com/story/jimmy-kimmel-show-returning-after-abc-pulled-it-in-response-to-blowback-from-white-house-e7e793f0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:38
+
+#### [When the world’s largest asset manager and the ‘bond king’ both agree — run to gold, silver and bitcoin](https://www.marketwatch.com/story/when-the-worlds-largest-asset-manager-and-the-bond-king-both-agree-run-to-gold-silver-and-bitcoin-07affec3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:22
+
+#### [Oracle is getting two new CEOs. Why that’s good news for the stock.](https://www.marketwatch.com/story/oracle-is-getting-two-new-ceos-what-does-that-mean-for-the-stock-02e0e846?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:20
+
+#### [Palantir has ‘main-character energy.’ Here’s how that can help its stock power higher.](https://www.marketwatch.com/story/palantir-has-main-character-energy-heres-how-that-can-help-its-stock-power-higher-065aed80?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Jimmy Kimmel returns, supporters who pushed for Disney boycott take victory lap](https://www.marketwatch.com/bulletins/redirect/go?g=fe1e94b2-96b9-4fd9-b010-96eb8090aff2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 01:09
+
+#### [Opinion: How to plan around Trump policies that put your retirement at risk](https://www.marketwatch.com/bulletins/redirect/go?g=4ddac1c7-12b1-47a6-97f9-33a009dbec5c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 01:03
 
 ---
 

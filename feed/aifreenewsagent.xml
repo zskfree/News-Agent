@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Sep 2025 23:18:41 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 05:25:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>百度开源视觉理解模型Qianfan-VL！全尺寸领域增强+全自研芯片计算</title>
-      <link>https://www.qbitai.com/2025/09/335378.html</link>
-      <description>&lt;![CDATA[百度开源视觉理解模型Qianfan-VL！全尺寸领域增强+全自研芯片计算]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335378.html</guid>
+      <title>Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots</title>
+      <link>https://arxiv.org/abs/2509.16444</link>
+      <description>&lt;![CDATA[Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16444</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首创双NPU架构一鸣惊人！联发科天玑9500重磅加码主动式AI体验</title>
-      <link>https://www.qbitai.com/2025/09/335342.html</link>
-      <description>&lt;![CDATA[首创双NPU架构一鸣惊人！联发科天玑9500重磅加码主动式AI体验]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 13:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335342.html</guid>
+      <title>全是套路！英伟达千亿美元投OpenAI，奥特曼拿钱买卡还让甲骨文赚差价</title>
+      <link>https://www.qbitai.com/2025/09/335390.html</link>
+      <description>&lt;![CDATA[全是套路！英伟达千亿美元投OpenAI，奥特曼拿钱买卡还让甲骨文赚差价]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 01:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335390.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一键秒变免费学习机！百度搜索正式推出AI伴学、AI精准练</title>
-      <link>https://www.qbitai.com/2025/09/334962.html</link>
-      <description>&lt;![CDATA[一键秒变免费学习机！百度搜索正式推出AI伴学、AI精准练]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/334962.html</guid>
+      <title>A global view of diverse construction methods of fuzzy implication functions rooted on F-chains</title>
+      <link>https://arxiv.org/abs/2509.16298</link>
+      <description>&lt;![CDATA[A global view of diverse construction methods of fuzzy implication functions rooted on F-chains]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16298</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MIT affiliates win AI for Math grants to accelerate mathematical discovery</title>
-      <link>https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922</link>
-      <description>&lt;![CDATA[MIT affiliates win AI for Math grants to accelerate mathematical discovery]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922</guid>
+      <title>VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping</title>
+      <link>https://arxiv.org/abs/2509.16399</link>
+      <description>&lt;![CDATA[VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16399</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: the LLM will see you now, and a new fusion power deal</title>
-      <link>https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</link>
-      <description>&lt;![CDATA[The Download: the LLM will see you now, and a new fusion power deal]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</guid>
+      <title>GPO: Learning from Critical Steps to Improve LLM Reasoning</title>
+      <link>https://arxiv.org/abs/2509.16456</link>
+      <description>&lt;![CDATA[GPO: Learning from Critical Steps to Improve LLM Reasoning]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16456</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems</title>
-      <link>https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/</link>
-      <description>&lt;![CDATA[An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/</guid>
+      <title>Question Answering with LLMs and Learning from Answer Sets</title>
+      <link>https://arxiv.org/abs/2509.16590</link>
+      <description>&lt;![CDATA[Question Answering with LLMs and Learning from Answer Sets]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16590</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>This medical startup uses LLMs to run appointments and make diagnoses</title>
-      <link>https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/</link>
-      <description>&lt;![CDATA[This medical startup uses LLMs to run appointments and make diagnoses]]&gt;</description>
-      <pubDate>Mon, 22 Sep 2025 09:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/</guid>
+      <title>FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs</title>
+      <link>https://arxiv.org/abs/2509.16648</link>
+      <description>&lt;![CDATA[FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16648</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Automated Procedural Analysis via Video-Language Models for AI-assisted Nursing Skills Assessment</title>
+      <link>https://arxiv.org/abs/2509.16810</link>
+      <description>&lt;![CDATA[Automated Procedural Analysis via Video-Language Models for AI-assisted Nursing Skills Assessment]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16810</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs</title>
+      <link>https://arxiv.org/abs/2509.16866</link>
+      <description>&lt;![CDATA[seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16866</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LLMs as Layout Designers: A Spatial Reasoning Perspective</title>
+      <link>https://arxiv.org/abs/2509.16891</link>
+      <description>&lt;![CDATA[LLMs as Layout Designers: A Spatial Reasoning Perspective]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.16891</guid>
       <category>AI</category>
     </item>
   </channel>
