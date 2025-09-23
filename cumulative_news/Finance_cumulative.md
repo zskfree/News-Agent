@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-23 05:24
+**最后更新时间**: 2025-09-23 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-23 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These top U.S. universities produce the most multimillionaires and billionaires](https://www.marketwatch.com/bulletins/redirect/go?g=f0caa9d6-1104-492a-8dad-84666893518a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 23:09
+
+#### [Why the rally in stocks may only see a ‘pause’ heading into year's end](https://www.marketwatch.com/bulletins/redirect/go?g=91c45f44-8861-4dc0-9662-52e99a78aa2d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 23:07
+
+#### [Another Lululemon bull jumps ship. Here’s why the troubles are far from over.](https://www.marketwatch.com/bulletins/redirect/go?g=408c64d3-71fa-4807-bf15-2a65b6e5fa0e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 22:10
+
+#### [Amazon’s stock is Big Tech’s biggest loser in 2025 as the cloud race heats up](https://www.marketwatch.com/bulletins/redirect/go?g=b8640035-7cd7-4860-8f16-6727677b8a6c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 21:17
+
+#### [Micron’s stock gains as the memory-chip maker clears a high bar](https://www.marketwatch.com/bulletins/redirect/go?g=eca2ce85-ffc6-4e2c-bfa3-1e2e9bde9dac&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 20:41
+
+#### [S&P 500 snaps 3-day win streak, Nasdaq tumbles 1% as AI frenzy fizzles](https://www.marketwatch.com/bulletins/redirect/go?g=6da5af83-895a-44cc-b9b3-071bb167e31d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 20:05
+
+#### [The AI boom has turned this age-old investing rule on its head](https://www.marketwatch.com/bulletins/redirect/go?g=7d9a832e-f2a1-4d8c-bce8-71aff6519c4a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 19:20
+
+#### [Why what Jimmy Kimmel says or doesn’t say tonight is of little import to Disney](https://www.marketwatch.com/bulletins/redirect/go?g=73667d53-1131-4df7-aba1-0b28eb42ff64&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 18:22
+
+#### [Dow joins Nasdaq and S&P 500 in negative territory as AI frenzy fizzles](https://www.marketwatch.com/bulletins/redirect/go?g=661de984-5103-4160-a335-f32ea8d87956&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 17:46
+
+#### [U.S. economy still struggling to adjust to tariffs, S&P Global finds](https://www.marketwatch.com/bulletins/redirect/go?g=b16e90d8-c93c-41c0-8e2b-18047bac2da1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 14:50
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This overlooked group of stocks might be your portfolio’s missing piece](https://www.marketwatch.com/story/this-overlooked-group-of-stocks-might-be-your-portfolios-missing-piece-dd00f96c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 23:05
+
+#### [Why the rally in stocks may only ‘pause’ into year-end despite a ‘stretched’ market](https://www.marketwatch.com/story/why-the-rally-in-stocks-may-see-just-a-pause-into-year-end-despite-a-stretched-market-ba718e0a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 23:00
+
+#### [‘I am mentally stuck’: My daughter has a financially reckless spouse. How do I protect her?](https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 22:48
+
+#### [‘I want to live in a place that I can enjoy’: I’m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?](https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 22:47
+
+#### [Micron’s stock gains as the memory-chip maker clears a high bar](https://www.marketwatch.com/story/microns-stock-gains-as-the-memory-chip-maker-clears-a-high-bar-d4c13a92?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 21:55
+
+#### [I’m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?](https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 21:48
+
+#### [How China could claim a much bigger slice of the world’s gold-trading business](https://www.marketwatch.com/story/how-china-could-claim-a-much-bigger-slice-of-the-worlds-gold-trading-business-41313186?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 21:06
+
+#### [Another Lululemon bull jumps ship. Here’s why the troubles are far from over.](https://www.marketwatch.com/story/another-lululemon-bull-jumps-ship-heres-why-the-troubles-are-far-from-over-fde88b9e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 20:53
+
+#### [‘I changed my will to deter vultures’: I’m in my 60s and disabled. Do I impoverish myself to qualify for Medicaid?](https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 20:41
+
+#### [Amazon’s stock is now Big Tech’s biggest loser in 2025 as the cloud race heats up](https://www.marketwatch.com/story/amazons-stock-is-now-big-techs-biggest-loser-in-2025-as-the-cloud-race-heats-up-030f8358?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 20:40
 
 ---
 

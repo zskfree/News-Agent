@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-23 08:26
+**最后更新时间**: 2025-09-23 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-23 23:17)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Roundtables: Meet the 2025 Innovator of the Year](https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/)
+**发布时间**: 2025-09-23 19:12
+
+#### [The Download: AI’s retracted papers problem](https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/)
+**发布时间**: 2025-09-23 12:10
+
+#### [AI models are using material from retracted scientific papers](https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/)
+**发布时间**: 2025-09-23 09:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Time series foundation models can be few-shot learners](https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/)
+**发布时间**: 2025-09-23 18:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从技术闭环到场景落地：商汤大装置的AI Agent Infra实践](https://www.qbitai.com/2025/09/335455.html)
+**发布时间**: 2025-09-23 09:27
 
 ---
 

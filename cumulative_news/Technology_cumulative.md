@@ -1,7 +1,183 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-23 08:26
+**最后更新时间**: 2025-09-23 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-23 23:17)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Switch 2 version of Borderlands 4 has been delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)
+**发布时间**: 2025-09-23 22:46
+
+#### [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
+**发布时间**: 2025-09-23 21:58
+
+#### [Apple TV Plus has quietly pulled its new show about domestic extremism](https://www.theverge.com/entertainment/784185/apple-tv-plus-the-savant-domestic-terrorism)
+**发布时间**: 2025-09-23 21:10
+
+#### [No, Apple isn’t trying to buy up all the 13 Pro Maxes](https://www.theverge.com/news/783963/apple-iphone-13-pro-max-trade-in-offer)
+**发布时间**: 2025-09-23 21:03
+
+#### [MLB will use robot umpires beginning next season](https://www.theverge.com/news/783982/mlb-baseball-robot-umpires-abs)
+**发布时间**: 2025-09-23 20:58
+
+#### [Google&#8217;s Mixboard is an AI moodboard builder](https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas)
+**发布时间**: 2025-09-23 20:30
+
+#### [Here are 25 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
+**发布时间**: 2025-09-23 19:19
+
+#### [Alien: Earth&#8217;s beefy tablets were inspired by Sony&#8217;s classic Watchman](https://www.theverge.com/entertainment/782939/alien-earth-andy-nicholson-interview)
+**发布时间**: 2025-09-23 18:55
+
+#### [Microsoft&#8217;s AI CEO on the future of the browser](https://www.theverge.com/tech/783795/microsoft-ai-ceo-mustafa-suleyman-future-of-browser-interview-notepad)
+**发布时间**: 2025-09-23 18:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [千金药业低价增发收编旗下“西药双子”，“保守”对赌能否破行业承压困局？](https://www.tmtpost.com/7704073.html)
+**发布时间**: 2025-09-23 22:14
+
+#### [超越美国 “老登”后，50亿跨境大卖谈未来十年红利 ｜ Global AI  Booming](https://www.tmtpost.com/7703089.html)
+**发布时间**: 2025-09-23 20:37
+
+#### [可灵AI升级模型降价30%，视频大模型会卷入价格战吗？](https://www.tmtpost.com/7703960.html)
+**发布时间**: 2025-09-23 20:36
+
+#### [3人团队掌管300亿保费？保险业高管的生死减法](https://www.tmtpost.com/7703972.html)
+**发布时间**: 2025-09-23 20:21
+
+#### [小米汽车的“必修课”迎来大考](https://www.tmtpost.com/7702291.html)
+**发布时间**: 2025-09-23 19:29
+
+#### [火山引擎终于押中了MaaS的爆发](https://www.tmtpost.com/7702597.html)
+**发布时间**: 2025-09-23 19:29
+
+#### [PP-OCRv5「Hugging Face 破圈时刻」：AI大模型进入新基建时代](https://www.tmtpost.com/7702824.html)
+**发布时间**: 2025-09-23 19:28
+
+#### [山姆救不了太二酸菜鱼](https://www.tmtpost.com/7703444.html)
+**发布时间**: 2025-09-23 19:28
+
+#### [营收连续三年增长，博泰车联正式招股，开始冲刺智能座舱第一股](https://www.tmtpost.com/7703463.html)
+**发布时间**: 2025-09-23 19:28
+
+#### [始祖鸟营销翻车，安踏撞上“烟花墙”](https://www.tmtpost.com/7703483.html)
+**发布时间**: 2025-09-23 19:28
+
+#### [「藏富」5年，绝味食品突遭ST](https://www.tmtpost.com/7703634.html)
+**发布时间**: 2025-09-23 19:28
+
+#### [金帝股份拟购日系汽车零部件公司，一场协同效应与资金压力的双重考量](https://www.tmtpost.com/7703698.html)
+**发布时间**: 2025-09-23 19:14
+
+#### [预制菜风波背后：西贝与海底捞们的副牌焦虑](https://www.tmtpost.com/7703682.html)
+**发布时间**: 2025-09-23 19:05
+
+#### [AI狂潮下的云计算变局](https://www.tmtpost.com/7703683.html)
+**发布时间**: 2025-09-23 19:05
+
+#### [AI Agent 暗战，大厂电商如何排兵布阵？](https://www.tmtpost.com/7703751.html)
+**发布时间**: 2025-09-23 19:05
+
+#### [淘宝与高德同时发力团购，威胁的不仅是美团](https://www.tmtpost.com/7703761.html)
+**发布时间**: 2025-09-23 19:04
+
+#### [Meta收手吧，AI眼镜连雷军都带不动](https://www.tmtpost.com/7703767.html)
+**发布时间**: 2025-09-23 19:04
+
+#### [3人团队，如何创造超千万销量的独游神话？](https://www.tmtpost.com/7703527.html)
+**发布时间**: 2025-09-23 18:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [6A 工作流实战｜TRAE + Figma 产品设计自动化解决方案](https://www.infoq.cn/article/Rpo4r7TOlBUmYbjdcJGq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-23 22:05
+
+#### [TRAE Rules 实践：两套规则，实现从设计图到代码的全自动化流程](https://www.infoq.cn/article/Aq1oicKcavGRLPUbpVqj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-23 22:00
+
+#### [“FutureBOT未来引力”2025北京机器人文化节暨iCAN未来机器人创业挑战赛启动，全面推进打造北部机器人产研示范区](https://www.infoq.cn/article/8ig0wmKlah93DNqqbBqQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-23 18:11
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [年轻一代创作者，学会与 AI 共舞](http://www.geekpark.net/news/354350)
+**发布时间**: 2025-09-23 21:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [谁在喂养美国的毒瘾？药企的止痛片，还是美军的自产自销？](http://www.huxiu.com/article/4782523.html?f=wangzhan)
+**发布时间**: 2025-09-23 21:00
+
+#### [隐藏式门把手，特斯拉也要放弃了？](http://www.huxiu.com/article/4783911.html?f=wangzhan)
+**发布时间**: 2025-09-23 18:54
+
+#### [造车失去敬畏之心：烧光百亿后还剩什么？](http://www.huxiu.com/article/4783334.html?f=wangzhan)
+**发布时间**: 2025-09-23 17:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers](https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/)
+**发布时间**: 2025-09-23 21:00
+
+#### [Trump’s Tylenol Directive Could Actually Increase Autism Rates, Researchers Warn](https://www.wired.com/story/trumps-tylenol-directive-could-actually-increase-autism-rates-researchers-warn/)
+**发布时间**: 2025-09-23 20:34
+
+#### [The 39 Best Shows on Apple TV+ Right Now (October 2025)](https://www.wired.com/story/best-apple-tv-plus-shows/)
+**发布时间**: 2025-09-23 19:00
+
+#### [‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say](https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/)
+**发布时间**: 2025-09-23 18:09
+
+#### [Watch Our Livestream Replay: Tech Went All In on Trump. Now What?](https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/)
+**发布时间**: 2025-09-23 18:01
+
+#### [The Best Roku for Most People Is Under $30 on Sale](https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/)
+**发布时间**: 2025-09-23 17:42
+
+#### [Why One VC Thinks Quantum Is a Bigger Unlock Than AGI](https://www.wired.com/story/alexa-von-tobel-quantum-venture-capital/)
+**发布时间**: 2025-09-23 16:00
+
+#### [DHS Has Been Collecting US Citizens’ DNA for Years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
+**发布时间**: 2025-09-23 15:06
+
+#### [Best External Hard Drive (2025): SSD to Store Data, Video & More](https://www.wired.com/story/best-portable-external-storage-drives/)
+**发布时间**: 2025-09-23 15:00
+
+#### [10 Best MagSafe Wallets (2025), Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
+**发布时间**: 2025-09-23 13:00
+
+#### [8 Best Vegan Meal Delivery Services and Kits (2025), Tested, Tasted, and Reviewed](https://www.wired.com/gallery/best-vegan-meal-kit-service/)
+**发布时间**: 2025-09-23 12:08
+
+#### [How to Use 1Password's Travel Mode at the Border (2025)](https://www.wired.com/story/1password-travel-mode/)
+**发布时间**: 2025-09-23 11:30
+
+#### [How Signal’s Meredith Whittaker Remembers SignalGate: ‘No Fucking Way’](https://www.wired.com/story/the-big-interview-podcast-meredith-whittaker-signal/)
+**发布时间**: 2025-09-23 11:00
+
+#### [Confessions of a Black Looksmaxxer](https://www.wired.com/story/confessions-of-a-black-looksmaxxer/)
+**发布时间**: 2025-09-23 11:00
+
+#### [WIRED Tested the Best Organic Sheets (2025): Coyuchi, The Citizenry](https://www.wired.com/gallery/best-organic-sheets/)
+**发布时间**: 2025-09-23 10:31
+
+#### [She Fought the Far Right Online for Years. Now She Wants to Do It in Congress](https://www.wired.com/story/kat-abughazaleh-youtuber-for-congress/)
+**发布时间**: 2025-09-23 10:00
+
+#### [Nick Fuentes’ Plan to Conquer America](https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/)
+**发布时间**: 2025-09-23 09:30
+
+#### [Apple iPhone 17 Review: Close to Perfect](https://www.wired.com/review/apple-iphone-17/)
+**发布时间**: 2025-09-23 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 111 | 派友的 iOS 26 桌面长啥样，以及 500 元投影仪体验](https://sspai.com/post/102712)
+**发布时间**: 2025-09-23 17:24
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Sep 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Sep 2025 08:27:15 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 23:18:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大疆系智能车公司，一汽刚成了最大股东</title>
-      <link>https://www.qbitai.com/2025/09/335416.html</link>
-      <description>&lt;![CDATA[大疆系智能车公司，一汽刚成了最大股东]]&gt;</description>
-      <pubDate>Tue, 23 Sep 2025 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335416.html</guid>
+      <title>Roundtables: Meet the 2025 Innovator of the Year</title>
+      <link>https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</link>
+      <description>&lt;![CDATA[Roundtables: Meet the 2025 Innovator of the Year]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: AI’s retracted papers problem</title>
+      <link>https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</link>
+      <description>&lt;![CDATA[The Download: AI’s retracted papers problem]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI models are using material from retracted scientific papers</title>
+      <link>https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</link>
+      <description>&lt;![CDATA[AI models are using material from retracted scientific papers]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Time series foundation models can be few-shot learners</title>
+      <link>https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/</link>
+      <description>&lt;![CDATA[Time series foundation models can be few-shot learners]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从技术闭环到场景落地：商汤大装置的AI Agent Infra实践</title>
+      <link>https://www.qbitai.com/2025/09/335455.html</link>
+      <description>&lt;![CDATA[从技术闭环到场景落地：商汤大装置的AI Agent Infra实践]]&gt;</description>
+      <pubDate>Tue, 23 Sep 2025 09:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335455.html</guid>
       <category>AI</category>
     </item>
   </channel>
