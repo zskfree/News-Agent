@@ -1,7 +1,130 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-23 23:17
+**最后更新时间**: 2025-09-24 05:23
+
+---
+
+## 🆕 最新更新 (2025-09-24 05:23)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“灵感闪现”到“一键种草”：小红书大模型的创新与落地｜QCon 上海](https://www.infoq.cn/article/cFc8tx5h8YOg0OK6yGK6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 13:00
+
+#### [在阿里云，我们看见了面向Agent的全栈能力体系](https://www.infoq.cn/article/YA6ZMl7irki6PH3c56hR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 12:59
+
+#### [微软公开预览可充当MCP服务器的Logic Apps](https://www.infoq.cn/article/FTKSgPu1quHIzkyDaT4r?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 12:30
+
+#### [OpenAI豪掷千亿美元，打造“算力备胎计划”，让AI永不掉线！](https://www.infoq.cn/article/QMkEjetPwcJ9kBvO1zGQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 12:08
+
+#### [谷歌云可观测性采用OpenTelemetry协议进行原生追踪数据摄取](https://www.infoq.cn/article/imqCPXlMcIpptBBQByhY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:53
+
+#### [阿里通义旗舰模型Qwen3-Max亮相](https://www.infoq.cn/article/2iskHLzL4vDNcwf2mZwZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:49
+
+#### [同济子豪兄：当 AIGC 遇上烟花与画笔，人人都是 AI 魔法师](https://www.infoq.cn/article/gqP8zVEPKVq1acYNU0kJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:46
+
+#### [银海：AI Agent 落地商业，解密电商行业效率革命](https://www.infoq.cn/article/XHNbL7gPSv8aeqOq7QaG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:46
+
+#### [Jack-cui：用 Qwen 秒搭数字人，Agent 创客开启“造物”新纪元](https://www.infoq.cn/article/FtUk4PbwFmtmgwg37DUu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:46
+
+#### [Lakehouse 之后，Agent Ready 成了数据 Infra 的新标配？](https://www.infoq.cn/article/1zGOeTBfz5oOX4B0lRQy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:40
+
+#### [阿里吴泳铭：AI终极目标不是AGI，我们正通往ASI](https://www.infoq.cn/article/Da7a5caUL75cqvmmZtKg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 11:30
+
+#### [上百篇AI“著作”登期刊！ChatGPT 和 Gemini靠重写论文搞出的仿作，全冒充新研究成功了](https://www.infoq.cn/article/Nj32xp0TtPaeMqRxWW64?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 10:37
+
+#### [AI浪潮之下：存储来到聚光灯下](https://www.infoq.cn/article/PPmP3uEyi0Yuhyj43AV3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 10:36
+
+#### [奇富科技费浩峻：AI 赋能小微金融新趋势](https://www.infoq.cn/article/qd0fF11FAUHdFo1RTumX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 10:22
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [巴西投资340万雷亚尔推动电商发展；TikTok美国出售期限第四次被延长；京东物流“杀入”美国尾程配送市场｜一周出海参考](https://www.tmtpost.com/7704404.html)
+**发布时间**: 2025-09-24 12:57
+
+#### [OpenAI's Stargate Plans Five New AI Datacenters in U.S., Set to Meet $500 Billion Commitment by Year-End](https://www.tmtpost.com/7704493.html)
+**发布时间**: 2025-09-24 12:49
+
+#### [Alibaba Ramps Up AI Investment, Sees AGI as Starting Point](https://www.tmtpost.com/7704461.html)
+**发布时间**: 2025-09-24 12:02
+
+#### [Avatr Bets on "Fully Loaded" EV Strategy as New Chairman Takes Helm Amid Fierce Price War](https://www.tmtpost.com/7704454.html)
+**发布时间**: 2025-09-24 11:55
+
+#### [为什么品牌要「真的」有价值观](https://www.tmtpost.com/7703841.html)
+**发布时间**: 2025-09-24 11:44
+
+#### [小学生口述：家长看不到的小天才社交圈](https://www.tmtpost.com/7703925.html)
+**发布时间**: 2025-09-24 10:45
+
+#### [宗馥莉的第二次“自伤式袭击”](https://www.tmtpost.com/7703959.html)
+**发布时间**: 2025-09-24 10:45
+
+#### [中东社交出海，从土豪区走向“五环外”](https://www.tmtpost.com/7704077.html)
+**发布时间**: 2025-09-24 10:09
+
+#### [转转要从「小闲鱼」变成「二手京东」](https://www.tmtpost.com/7703985.html)
+**发布时间**: 2025-09-24 09:30
+
+#### [“924”一周年，“牛市发动机”中国平安、中国人寿们走到哪了？](https://www.tmtpost.com/7704198.html)
+**发布时间**: 2025-09-24 09:30
+
+#### [无法“续保”的短期健康险，先抛弃脆皮打工人](https://www.tmtpost.com/7703997.html)
+**发布时间**: 2025-09-24 08:56
+
+#### [科股早知道：AI应用普及拐点已至，海内外算力需求持续景气](https://www.tmtpost.com/7704144.html)
+**发布时间**: 2025-09-24 08:11
+
+#### [朱华荣卸任、王辉接棒，阿维塔还有“三场硬仗”要打｜钛度车库](https://www.tmtpost.com/7702983.html)
+**发布时间**: 2025-09-24 07:53
+
+#### [496.22km/h：仰望U9X刷新记录，但燃油车领地真的崩塌了吗？](https://www.tmtpost.com/7704153.html)
+**发布时间**: 2025-09-24 07:26
+
+#### [【钛晨报】中证指数发布中证全球算力主题指数等20条指数；英伟达将向OpenAI投资千亿美元共建数据中心；智元机器人正式入主上纬新材，邓泰华成实控人](https://www.tmtpost.com/7704026.html)
+**发布时间**: 2025-09-24 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [乐趣值千金：一个开发者的「电子相册」折腾记录](https://sspai.com/post/100286)
+**发布时间**: 2025-09-24 11:30
+
+#### [派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等](https://sspai.com/post/102718)
+**发布时间**: 2025-09-24 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [华为问界新 M7，1 小时大定 3 万；李想：iPhone 17 顶配太丑，不买；防台风，腾讯「捆绑」QQ 企鹅塑像](http://www.geekpark.net/news/354351)
+**发布时间**: 2025-09-24 08:30
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)
+**发布时间**: 2025-09-24 02:19
+
+#### [Pokémon lawyers won&#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts)
+**发布时间**: 2025-09-24 01:03
+
+#### [YouTube will let creators who spread covid misinformation back on the site](https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal)
+**发布时间**: 2025-09-23 23:43
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [For One Glorious Morning, a Website Saved San Francisco From Parking Tickets](https://www.wired.com/story/san-francisco-find-my-parking-cops/)
+**发布时间**: 2025-09-24 00:43
 
 ---
 
