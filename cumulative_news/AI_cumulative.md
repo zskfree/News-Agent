@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-24 08:27
+**最后更新时间**: 2025-09-24 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-24 23:17)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Roundtables: The Future of Birth Control](https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/)
+**发布时间**: 2025-09-24 20:09
+
+#### [The Download: accidental AI relationships, and the future of contraception](https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/)
+**发布时间**: 2025-09-24 12:10
+
+#### [Trump is pushing leucovorin as a new treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/)
+**发布时间**: 2025-09-24 11:56
+
+#### [The AI Hype Index: Cracking the chatbot code](https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/)
+**发布时间**: 2025-09-24 09:40
+
+#### [It’s surprisingly easy to stumble into a relationship with an AI chatbot](https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/)
+**发布时间**: 2025-09-24 09:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [AfriMed-QA: Benchmarking large language models for global health](https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/)
+**发布时间**: 2025-09-24 19:11
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [2025骁龙峰会·中国开幕，高通携手生态伙伴发布“AI加速计划”](https://www.qbitai.com/2025/09/335901.html)
+**发布时间**: 2025-09-24 12:28
+
+#### [开幕在即！2025人工智能计算大会精彩前瞻](https://www.qbitai.com/2025/09/335902.html)
+**发布时间**: 2025-09-24 09:24
+
+#### [中国AI高速路，华为给出开源开放方案](https://www.qbitai.com/2025/09/335890.html)
+**发布时间**: 2025-09-24 09:01
+
+#### [GPT-5编程测评大反转！表面不及格，实际63.1%的任务没交卷，全算上成绩比Claude高一倍](https://www.qbitai.com/2025/09/335869.html)
+**发布时间**: 2025-09-24 08:55
+
+#### [2025云栖大会直击：云深处科技机器人矩阵亮相，多场景展示行业引领性！](https://www.qbitai.com/2025/09/335855.html)
+**发布时间**: 2025-09-24 08:37
+
+#### [慧灵科技亮相工博会：打造“具身智能产业基座”，推动智能体落地](https://www.qbitai.com/2025/09/335838.html)
+**发布时间**: 2025-09-24 07:56
 
 ---
 

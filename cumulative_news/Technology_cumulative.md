@@ -1,7 +1,186 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-24 08:27
+**最后更新时间**: 2025-09-24 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-24 23:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [干货满载！腾讯云AI技术周圆满收官，回顾如何利用AI增效创收](https://www.infoq.cn/article/XzPKo9cZb8xd9Wo5B3sZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 22:51
+
+#### [上任两年，吴泳铭为阿里 AI 定调：终局是 ASI](https://www.infoq.cn/article/75mLkB95G8688rbvXiU1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 22:49
+
+#### [智元机器人首次披露合伙人名单，背后的掌舵人们有多少华为系？](https://www.infoq.cn/article/2HwEzD1QzPX9lFs4zZ5U?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 18:55
+
+#### [十问阿里云CTO周靖人：关于为何如此高频率更新、Agent与模型的关系、实现ASI的关键点、MaaS架构差异点等](https://www.infoq.cn/article/Qra6GTJpgBMyeJQZZPUB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-24 17:25
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025)
+**发布时间**: 2025-09-24 22:20
+
+#### [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)
+**发布时间**: 2025-09-24 22:15
+
+#### [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect)
+**发布时间**: 2025-09-24 22:10
+
+#### [Pokémon and Theo Von agree on one thing: they shouldn&#8217;t be in DHS videos](https://www.theverge.com/news/785288/pokemon-theo-von-dhs-ice)
+**发布时间**: 2025-09-24 22:03
+
+#### [Qualcomm announces the Snapdragon 8 Elite Gen 5](https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5)
+**发布时间**: 2025-09-24 21:56
+
+#### [PlayStation&#8217;s new wireless speakers are for your desktop](https://www.theverge.com/news/785282/sony-playstation-pulse-elevate-wireless-speakers)
+**发布时间**: 2025-09-24 21:46
+
+#### [Wolverine looks bloody good in first gameplay trailer](https://www.theverge.com/news/611201/sony-playstation-5-ps5-wolverine-gameplay-trailer)
+**发布时间**: 2025-09-24 21:42
+
+#### [Haunting PS5 shooter Saros launches in March](https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque)
+**发布时间**: 2025-09-24 21:19
+
+#### [Microsoft Flight Simulator 2024 is coming to PS5 in December](https://www.theverge.com/tech/785181/microsoft-flight-simulator-2024-ps5-release-date)
+**发布时间**: 2025-09-24 21:16
+
+#### [Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs](https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs)
+**发布时间**: 2025-09-24 21:03
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球资管格局生变，上海凭科技与资产优势跃居全球第五](https://www.tmtpost.com/7705139.html)
+**发布时间**: 2025-09-24 21:45
+
+#### [从战略到落地，吴泳铭如何让阿里AI跑出加速度？](https://www.tmtpost.com/7704851.html)
+**发布时间**: 2025-09-24 20:33
+
+#### [华为更新穿戴线：智能手表续航最高21天，耳夹耳机算力提升10倍 | 科技前线](https://www.tmtpost.com/7705019.html)
+**发布时间**: 2025-09-24 19:16
+
+#### [速冻有机西兰花为何更贵？“冷冻”背后藏着的万亿生意经](https://www.tmtpost.com/7704893.html)
+**发布时间**: 2025-09-24 19:14
+
+#### [又一匹小核酸黑马，诞生了](https://www.tmtpost.com/7704976.html)
+**发布时间**: 2025-09-24 19:05
+
+#### [印尼镍业变局：一纸查封，难抚全球焦虑](https://www.tmtpost.com/7704961.html)
+**发布时间**: 2025-09-24 19:02
+
+#### [贵研铂业抛13亿元定增扩产：全产业链梦背后，债务与盈利困局如何破？](https://www.tmtpost.com/7704949.html)
+**发布时间**: 2025-09-24 18:58
+
+#### [2025，老登溃败](https://www.tmtpost.com/7704438.html)
+**发布时间**: 2025-09-24 18:52
+
+#### [中美TikTok纠纷背后：算法即政治，代码即意识形态](https://www.tmtpost.com/7704180.html)
+**发布时间**: 2025-09-24 18:52
+
+#### [中产陪读父母，带着孩子逃离东南亚](https://www.tmtpost.com/7701637.html)
+**发布时间**: 2025-09-24 18:51
+
+#### [转转向左，闲鱼向右](https://www.tmtpost.com/7704942.html)
+**发布时间**: 2025-09-24 18:45
+
+#### [从带货到卖人脉，399元真能买到明星的朋友圈？](https://www.tmtpost.com/7704898.html)
+**发布时间**: 2025-09-24 18:42
+
+#### [逢低买入这只股票，股价有望上涨近40%](https://www.tmtpost.com/7704953.html)
+**发布时间**: 2025-09-24 18:18
+
+#### [阿里速卖通正面挑战亚马逊，希望帮助品牌“一半成本，更高成交”](https://www.tmtpost.com/7704760.html)
+**发布时间**: 2025-09-24 18:15
+
+#### [请别做“老登品牌”](https://www.tmtpost.com/7704360.html)
+**发布时间**: 2025-09-24 17:14
+
+#### [拖鞋反复使用这事，酒店方委屈不委屈？](https://www.tmtpost.com/7704617.html)
+**发布时间**: 2025-09-24 17:13
+
+#### [一年两谋跨界收购，华菱线缆押注机器人是“第二曲线”还是估值故事？ | 并购一线](https://www.tmtpost.com/7704830.html)
+**发布时间**: 2025-09-24 17:06
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一些“课程”，正在把千万人拖入深渊](http://www.huxiu.com/article/4784356.html?f=wangzhan)
+**发布时间**: 2025-09-24 21:00
+
+#### [股票涨的时候买，还是跌的时候买？](http://www.huxiu.com/article/4784363.html?f=wangzhan)
+**发布时间**: 2025-09-24 16:30
+
+#### [长视频会员，越来越像加油站的玻璃水](http://www.huxiu.com/article/4784338.html?f=wangzhan)
+**发布时间**: 2025-09-24 15:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [3 天卖完今年所有产能，蔚来全新 ES8 如何实现逆风翻盘？](http://www.geekpark.net/news/354411)
+**发布时间**: 2025-09-24 20:42
+
+#### [超越 AGI，阿里剑指「超级智能」](http://www.geekpark.net/news/354409)
+**发布时间**: 2025-09-24 20:06
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips](https://www.wired.com/story/qualcomm-snapdragon-x2-chips-2025/)
+**发布时间**: 2025-09-24 20:30
+
+#### [Save $50 on Our Favorite Budget Graphics Card](https://www.wired.com/story/nvidia-gpu-deal-september-2025/)
+**发布时间**: 2025-09-24 19:20
+
+#### [This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw](https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/)
+**发布时间**: 2025-09-24 18:00
+
+#### [The 15 Best Tried and Tested Gifts for Bird Lovers (2025)](https://www.wired.com/gallery/gifts-for-bird-lovers/)
+**发布时间**: 2025-09-24 17:30
+
+#### [Larry Ellison Is a ‘Shadow President’ in Donald Trump’s America](https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/)
+**发布时间**: 2025-09-24 17:00
+
+#### [A Former Apple Luminary Sets Out to Create the Ultimate GPU Software](https://www.wired.com/story/semiconductor-software-startups-chips/)
+**发布时间**: 2025-09-24 16:00
+
+#### [Best Backpacking Stove (2025): MSR, Jetboil, Firebox](https://www.wired.com/gallery/best-backpacking-stoves/)
+**发布时间**: 2025-09-24 15:30
+
+#### [13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
+**发布时间**: 2025-09-24 14:00
+
+#### [17 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+**发布时间**: 2025-09-24 13:30
+
+#### [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
+**发布时间**: 2025-09-24 13:00
+
+#### [What Is YouTube Premium Lite—and Should You Subscribe to It?](https://www.wired.com/story/youtube-premium-lite-should-you-subscribe/)
+**发布时间**: 2025-09-24 12:00
+
+#### [10 Best Natural Deodorants I Tested Day to Day (2025)](https://www.wired.com/gallery/best-natural-deodorants/)
+**发布时间**: 2025-09-24 11:36
+
+#### [Coke Designed a Plastic Bottle to Sell Us All More Soda](https://www.wired.com/story/consumed-book-excerpt-coca-cola-plastic-bottles/)
+**发布时间**: 2025-09-24 11:00
+
+#### [The Best Sheets on Amazon, Tested by WIRED (2025)](https://www.wired.com/gallery/best-sheets-on-amazon/)
+**发布时间**: 2025-09-24 10:31
+
+#### [The 22 Very Online Upstarts Changing the Face of Politics](https://www.wired.com/story/wired-2025-political-power-users/)
+**发布时间**: 2025-09-24 10:00
+
+#### [The World’s Oceans Are Hurtling Toward a Breaking Point](https://www.wired.com/story/human-impact-on-oceans-to-double-by-2050-study/)
+**发布时间**: 2025-09-24 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜免解锁、免 root，为 Google Pixel 开启国内 5G 网络支持](https://sspai.com/post/96068)
+**发布时间**: 2025-09-24 17:33
+
+#### [如何实现低成本的自动化家务管理](https://sspai.com/prime/story/automated-housework-management)
+**发布时间**: 2025-09-24 16:13
 
 ---
 

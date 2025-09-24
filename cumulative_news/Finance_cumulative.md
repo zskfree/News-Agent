@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-24 05:23
+**最后更新时间**: 2025-09-24 23:18
+
+---
+
+## 🆕 最新更新 (2025-09-24 23:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Now that 401(k) catch-ups for high earners have to be in a Roth, is it worth it?](https://www.marketwatch.com/bulletins/redirect/go?g=0ce36358-4b30-475a-b9a0-fb08d4bcf57b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 23:04
+
+#### [Will Apple deliver Intel its next lifeline? Why a deal would make sense.](https://www.marketwatch.com/bulletins/redirect/go?g=2df748d7-da1b-4f15-ab5f-d9984d0c835c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 22:04
+
+#### [Why employer-sponsored emergency-savings accounts are becoming a hot job perk](https://www.marketwatch.com/bulletins/redirect/go?g=e9b09052-a4b3-4f92-abd5-b17d493c9dc1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 21:39
+
+#### [Here's how stocks have fared after Fed rate cuts when trading near record highs](https://www.marketwatch.com/bulletins/redirect/go?g=64234bd6-17b3-42ae-b937-57aded4fc25d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 20:47
+
+#### [Dow, S&P 500 and Nasdaq book back-to-back losses as stocks extend pullback](https://www.marketwatch.com/bulletins/redirect/go?g=87c3f470-1b61-499e-90e4-381e8f5de92d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 20:02
+
+#### [Fed’s Powell says stocks are ‘highly valued.’ These 3 charts show he’s right.](https://www.marketwatch.com/bulletins/redirect/go?g=6a48017f-a4d4-43cb-bcf7-bdcc34a343f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 18:57
+
+#### [U.S. plans $20 billion lifeline for Argentina amid fiscal crisis: Bessent](https://www.marketwatch.com/bulletins/redirect/go?g=5870528c-4cf8-4695-98a7-0c6bd178297f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 17:22
+
+#### [Lithium Americas shares double on report White House seeks stake](https://www.marketwatch.com/bulletins/redirect/go?g=decdf9a3-7ad9-49f4-8595-c46ddb33c47e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 15:20
+
+#### [Discounting cited as U.S. new-home sales spike to three-year high](https://www.marketwatch.com/bulletins/redirect/go?g=e10d61ce-1f3c-45cd-8d4c-2f3b0ef421b5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 14:28
+
+#### [Economic calendar: New-home sales to offer the latest U.S. economy snapshot](https://www.marketwatch.com/bulletins/redirect/go?g=8c8d4dd8-972c-46a4-82a0-72a12406098f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 12:24
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [IRS rules now say 401(k) catch-ups for high earners have to be in a Roth. Is it still worth it?](https://www.marketwatch.com/story/irs-rules-now-say-401-k-catchups-for-high-earners-have-to-be-in-a-roth-is-it-still-worth-it-4b2f07bd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 23:02
+
+#### [Alibaba stock is flying higher, two days after Cathie Wood’s first purchase since 2021](https://www.marketwatch.com/story/alibaba-stock-is-flying-higher-two-days-after-cathie-woods-first-purchase-since-2021-fd2c842f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 22:30
+
+#### [Is Marvell’s stock cheap? This $1 billion move shows the company seems to think so.](https://www.marketwatch.com/story/is-marvells-stock-cheap-this-1-billion-move-shows-the-company-seems-to-think-so-0af85c3c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 22:28
+
+#### [Micron gave Wall Street more than it wanted. Why isn’t the stock higher?](https://www.marketwatch.com/story/micron-gave-wall-street-more-than-it-wanted-why-isnt-the-stock-higher-dc157ffa?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 22:26
+
+#### [Will Apple deliver Intel its next lifeline? Here’s why analysts think a deal would make sense.](https://www.marketwatch.com/story/will-apple-deliver-intel-its-next-lifeline-heres-why-analysts-think-a-deal-would-make-sense-378cbb64?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 21:59
+
+#### [Social Security’s new commissioner, rule reversals and cost cuts: Here’s everything that’s happening at the agency](https://www.marketwatch.com/story/social-security-under-pressure-heres-whats-happening-now-f0c4b44a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 21:49
+
+#### [Why it’s time to sell Bloom Energy’s stock after its AI-fueled rally](https://www.marketwatch.com/story/why-its-time-to-sell-bloom-energys-stock-after-its-ai-fueled-rally-c8134e71?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:59
+
+#### [Should you still invest in small-cap stocks after their big gains?](https://www.marketwatch.com/story/should-you-still-invest-in-small-cap-stocks-after-their-big-gains-90b45196?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:57
+
+#### [Here’s why biotech UniQure’s stock just tripled, and brought ClearPoint shares up with it](https://www.marketwatch.com/story/heres-why-biotech-uniqures-stock-just-tripled-and-brought-clearpoint-shares-up-with-it-d10766d2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:37
+
+#### [Here’s how stocks historically perform after Fed rate cuts when trading near record highs](https://www.marketwatch.com/story/heres-how-stocks-historically-perform-after-fed-rate-cuts-when-trading-near-record-highs-6bb0fa9a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:17
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 08:28:35 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 23:19:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>1688AI矩阵亮相云栖大会 跨境智能体“遨虾”启动内测</title>
-      <link>https://www.qbitai.com/2025/09/335835.html</link>
-      <description>&lt;![CDATA[1688AI矩阵亮相云栖大会 跨境智能体“遨虾”启动内测]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335835.html</guid>
+      <title>The Download: accidental AI relationships, and the future of contraception</title>
+      <link>https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/</link>
+      <description>&lt;![CDATA[The Download: accidental AI relationships, and the future of contraception]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里云与英伟达联合推动具身智能应用落地</title>
-      <link>https://www.qbitai.com/2025/09/335831.html</link>
-      <description>&lt;![CDATA[阿里云与英伟达联合推动具身智能应用落地]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 07:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335831.html</guid>
+      <title>The AI Hype Index: Cracking the chatbot code</title>
+      <link>https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/</link>
+      <description>&lt;![CDATA[The AI Hype Index: Cracking the chatbot code]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁数科提出隐私保护AI新算法，可将推理效率提升超过100倍</title>
-      <link>https://www.qbitai.com/2025/09/335755.html</link>
-      <description>&lt;![CDATA[蚂蚁数科提出隐私保护AI新算法，可将推理效率提升超过100倍]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 07:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335755.html</guid>
+      <title>It’s surprisingly easy to stumble into a relationship with an AI chatbot</title>
+      <link>https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/</link>
+      <description>&lt;![CDATA[It’s surprisingly easy to stumble into a relationship with an AI chatbot]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AIME’25满分炸场！Qwen一波七连发，全家桶大更新</title>
-      <link>https://www.qbitai.com/2025/09/335756.html</link>
-      <description>&lt;![CDATA[AIME’25满分炸场！Qwen一波七连发，全家桶大更新]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 07:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335756.html</guid>
+      <title>2025骁龙峰会·中国开幕，高通携手生态伙伴发布“AI加速计划”</title>
+      <link>https://www.qbitai.com/2025/09/335901.html</link>
+      <description>&lt;![CDATA[2025骁龙峰会·中国开幕，高通携手生态伙伴发布“AI加速计划”]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 12:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335901.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>可灵2.5 Turbo太凶残：30%成本暴降+效果飞跃，生成体操动作可去参赛</title>
-      <link>https://www.qbitai.com/2025/09/335694.html</link>
-      <description>&lt;![CDATA[可灵2.5 Turbo太凶残：30%成本暴降+效果飞跃，生成体操动作可去参赛]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335694.html</guid>
+      <title>开幕在即！2025人工智能计算大会精彩前瞻</title>
+      <link>https://www.qbitai.com/2025/09/335902.html</link>
+      <description>&lt;![CDATA[开幕在即！2025人工智能计算大会精彩前瞻]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335902.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Nano Banana首款官方应用，谷歌全新AI画板工具来了</title>
-      <link>https://www.qbitai.com/2025/09/335664.html</link>
-      <description>&lt;![CDATA[Nano Banana首款官方应用，谷歌全新AI画板工具来了]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 06:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335664.html</guid>
+      <title>中国AI高速路，华为给出开源开放方案</title>
+      <link>https://www.qbitai.com/2025/09/335890.html</link>
+      <description>&lt;![CDATA[中国AI高速路，华为给出开源开放方案]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335890.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>GPT-5编程测评大反转！表面不及格，实际63.1%的任务没交卷，全算上成绩比Claude高一倍</title>
+      <link>https://www.qbitai.com/2025/09/335869.html</link>
+      <description>&lt;![CDATA[GPT-5编程测评大反转！表面不及格，实际63.1%的任务没交卷，全算上成绩比Claude高一倍]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335869.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Roundtables: The Future of Birth Control</title>
+      <link>https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/</link>
+      <description>&lt;![CDATA[Roundtables: The Future of Birth Control]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 20:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Trump is pushing leucovorin as a new treatment for autism. What is it?</title>
+      <link>https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/</link>
+      <description>&lt;![CDATA[Trump is pushing leucovorin as a new treatment for autism. What is it?]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AfriMed-QA: Benchmarking large language models for global health</title>
+      <link>https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/</link>
+      <description>&lt;![CDATA[AfriMed-QA: Benchmarking large language models for global health]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/</guid>
       <category>AI</category>
     </item>
   </channel>
