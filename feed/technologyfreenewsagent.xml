@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Sep 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 05:24:48 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 08:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从“灵感闪现”到“一键种草”：小红书大模型的创新与落地｜QCon 上海</title>
-      <link>https://www.infoq.cn/article/cFc8tx5h8YOg0OK6yGK6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从“灵感闪现”到“一键种草”：小红书大模型的创新与落地｜QCon 上海]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cFc8tx5h8YOg0OK6yGK6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>默认选择React，等于是在扼杀前端创新</title>
+      <link>https://www.infoq.cn/article/dvbuARQxl3hOPmyov7Ry?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[默认选择React，等于是在扼杀前端创新]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dvbuARQxl3hOPmyov7Ry?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>奇富科技费浩峻：AI 赋能小微金融新趋势</title>
-      <link>https://www.infoq.cn/article/qd0fF11FAUHdFo1RTumX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[奇富科技费浩峻：AI 赋能小微金融新趋势]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qd0fF11FAUHdFo1RTumX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>前阿里CEO卫哲入局圣湘生物，传统检测厂商变身“科技成长股”？</title>
+      <link>https://www.tmtpost.com/7704140.html</link>
+      <description>&lt;![CDATA[前阿里CEO卫哲入局圣湘生物，传统检测厂商变身“科技成长股”？]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7704140.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】中证指数发布中证全球算力主题指数等20条指数；英伟达将向OpenAI投资千亿美元共建数据中心；智元机器人正式入主上纬新材，邓泰华成实控人</title>
-      <link>https://www.tmtpost.com/7704026.html</link>
-      <description>&lt;![CDATA[【钛晨报】中证指数发布中证全球算力主题指数等20条指数；英伟达将向OpenAI投资千亿美元共建数据中心；智元机器人正式入主上纬新材，邓泰华成实控人]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7704026.html</guid>
+      <title>忘了法拉利，一辆中国车正在改写游戏规则</title>
+      <link>http://www.geekpark.net/news/354390</link>
+      <description>&lt;![CDATA[忘了法拉利，一辆中国车正在改写游戏规则]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354390</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等</title>
-      <link>https://sspai.com/post/102718</link>
-      <description>&lt;![CDATA[派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102718</guid>
+      <title>40亿投进去，换回了什么？全新问界M7的「值得」哲学</title>
+      <link>http://www.geekpark.net/news/354389</link>
+      <description>&lt;![CDATA[40亿投进去，换回了什么？全新问界M7的「值得」哲学]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354389</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在阿里云，我们看见了面向Agent的全栈能力体系</title>
-      <link>https://www.infoq.cn/article/YA6ZMl7irki6PH3c56hR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在阿里云，我们看见了面向Agent的全栈能力体系]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YA6ZMl7irki6PH3c56hR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>HTML优先，框架次之：JavaScript终于成长起来了吗？</title>
+      <link>https://www.infoq.cn/article/jPHA7sgLjroF3foeNl4P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[HTML优先，框架次之：JavaScript终于成长起来了吗？]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jPHA7sgLjroF3foeNl4P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软公开预览可充当MCP服务器的Logic Apps</title>
-      <link>https://www.infoq.cn/article/FTKSgPu1quHIzkyDaT4r?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软公开预览可充当MCP服务器的Logic Apps]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FTKSgPu1quHIzkyDaT4r?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Java 25：甲骨文又酷起来了</title>
+      <link>https://www.infoq.cn/article/sQlPeKrvxl2YSxRjaoi4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java 25：甲骨文又酷起来了]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sQlPeKrvxl2YSxRjaoi4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI豪掷千亿美元，打造“算力备胎计划”，让AI永不掉线！</title>
-      <link>https://www.infoq.cn/article/QMkEjetPwcJ9kBvO1zGQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI豪掷千亿美元，打造“算力备胎计划”，让AI永不掉线！]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QMkEjetPwcJ9kBvO1zGQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta CTO打脸扎克伯格：首秀翻车全因致命bug，AI智商捉急、语音交互全面崩盘</title>
+      <link>https://www.infoq.cn/article/8jtHL6WWW2oXpyHtB9XJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta CTO打脸扎克伯格：首秀翻车全因致命bug，AI智商捉急、语音交互全面崩盘]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8jtHL6WWW2oXpyHtB9XJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌云可观测性采用OpenTelemetry协议进行原生追踪数据摄取</title>
-      <link>https://www.infoq.cn/article/imqCPXlMcIpptBBQByhY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云可观测性采用OpenTelemetry协议进行原生追踪数据摄取]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/imqCPXlMcIpptBBQByhY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>9月24日A股分析：沪指涨0.83%报3853.64点，两市合计成交23267.91亿元，涨幅最多的板块为中芯概念</title>
+      <link>https://www.tmtpost.com/7704688.html</link>
+      <description>&lt;![CDATA[9月24日A股分析：沪指涨0.83%报3853.64点，两市合计成交23267.91亿元，涨幅最多的板块为中芯概念]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7704688.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里通义旗舰模型Qwen3-Max亮相</title>
-      <link>https://www.infoq.cn/article/2iskHLzL4vDNcwf2mZwZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里通义旗舰模型Qwen3-Max亮相]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2iskHLzL4vDNcwf2mZwZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>国美遇困，黄光裕“追氢”</title>
+      <link>https://www.tmtpost.com/7704235.html</link>
+      <description>&lt;![CDATA[国美遇困，黄光裕“追氢”]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7704235.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>同济子豪兄：当 AIGC 遇上烟花与画笔，人人都是 AI 魔法师</title>
-      <link>https://www.infoq.cn/article/gqP8zVEPKVq1acYNU0kJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[同济子豪兄：当 AIGC 遇上烟花与画笔，人人都是 AI 魔法师]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gqP8zVEPKVq1acYNU0kJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI认知革命：从Ilya的“超级智能对齐”到智能体“不完备定理”</title>
+      <link>https://www.tmtpost.com/7704208.html</link>
+      <description>&lt;![CDATA[AI认知革命：从Ilya的“超级智能对齐”到智能体“不完备定理”]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7704208.html</guid>
       <category>Technology</category>
     </item>
   </channel>

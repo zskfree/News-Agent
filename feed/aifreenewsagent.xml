@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 05:25:37 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 08:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs</title>
-      <link>https://arxiv.org/abs/2509.18058</link>
-      <description>&lt;![CDATA[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18058</guid>
+      <title>1688AI矩阵亮相云栖大会 跨境智能体“遨虾”启动内测</title>
+      <link>https://www.qbitai.com/2025/09/335835.html</link>
+      <description>&lt;![CDATA[1688AI矩阵亮相云栖大会 跨境智能体“遨虾”启动内测]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 07:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335835.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Sparse Training Scheme for Multimodal LLM</title>
-      <link>https://arxiv.org/abs/2509.18150</link>
-      <description>&lt;![CDATA[Sparse Training Scheme for Multimodal LLM]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18150</guid>
+      <title>阿里云与英伟达联合推动具身智能应用落地</title>
+      <link>https://www.qbitai.com/2025/09/335831.html</link>
+      <description>&lt;![CDATA[阿里云与英伟达联合推动具身智能应用落地]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335831.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe</title>
-      <link>https://arxiv.org/abs/2509.18154</link>
-      <description>&lt;![CDATA[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18154</guid>
+      <title>蚂蚁数科提出隐私保护AI新算法，可将推理效率提升超过100倍</title>
+      <link>https://www.qbitai.com/2025/09/335755.html</link>
+      <description>&lt;![CDATA[蚂蚁数科提出隐私保护AI新算法，可将推理效率提升超过100倍]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335755.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Vibe之下，AI之上：海淀创新生态的“社区”引力法则</title>
-      <link>https://www.qbitai.com/2025/09/335591.html</link>
-      <description>&lt;![CDATA[Vibe之下，AI之上：海淀创新生态的“社区”引力法则]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 03:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335591.html</guid>
+      <title>AIME’25满分炸场！Qwen一波七连发，全家桶大更新</title>
+      <link>https://www.qbitai.com/2025/09/335756.html</link>
+      <description>&lt;![CDATA[AIME’25满分炸场！Qwen一波七连发，全家桶大更新]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 07:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335756.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Virtual Arc Consistency for Linear Constraints in Cost Function Networks</title>
-      <link>https://arxiv.org/abs/2509.17706</link>
-      <description>&lt;![CDATA[Virtual Arc Consistency for Linear Constraints in Cost Function Networks]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.17706</guid>
+      <title>可灵2.5 Turbo太凶残：30%成本暴降+效果飞跃，生成体操动作可去参赛</title>
+      <link>https://www.qbitai.com/2025/09/335694.html</link>
+      <description>&lt;![CDATA[可灵2.5 Turbo太凶残：30%成本暴降+效果飞跃，生成体操动作可去参赛]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 06:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335694.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Machine Learning-Based Classification of Vessel Types in Straits Using AIS Tracks</title>
-      <link>https://arxiv.org/abs/2509.18109</link>
-      <description>&lt;![CDATA[Machine Learning-Based Classification of Vessel Types in Straits Using AIS Tracks]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18109</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Decentor-V: Lightweight ML Training on Low-Power RISC-V Edge Devices</title>
-      <link>https://arxiv.org/abs/2509.18118</link>
-      <description>&lt;![CDATA[Decentor-V: Lightweight ML Training on Low-Power RISC-V Edge Devices]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18118</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Self-Evolving LLMs via Continual Instruction Tuning</title>
-      <link>https://arxiv.org/abs/2509.18133</link>
-      <description>&lt;![CDATA[Self-Evolving LLMs via Continual Instruction Tuning]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18133</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>From Parameters to Performance: A Data-Driven Study on LLM Structure and Development</title>
-      <link>https://arxiv.org/abs/2509.18136</link>
-      <description>&lt;![CDATA[From Parameters to Performance: A Data-Driven Study on LLM Structure and Development]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18136</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rank-Induced PL Mirror Descent: A Rank-Faithful Second-Order Algorithm for Sleeping Experts</title>
-      <link>https://arxiv.org/abs/2509.18138</link>
-      <description>&lt;![CDATA[Rank-Induced PL Mirror Descent: A Rank-Faithful Second-Order Algorithm for Sleeping Experts]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18138</guid>
+      <title>Nano Banana首款官方应用，谷歌全新AI画板工具来了</title>
+      <link>https://www.qbitai.com/2025/09/335664.html</link>
+      <description>&lt;![CDATA[Nano Banana首款官方应用，谷歌全新AI画板工具来了]]&gt;</description>
+      <pubDate>Wed, 24 Sep 2025 06:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335664.html</guid>
       <category>AI</category>
     </item>
   </channel>
