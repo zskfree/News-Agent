@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 05:21:13 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 08:27:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain</title>
-      <link>https://arxiv.org/abs/2509.19925</link>
-      <description>&lt;![CDATA[CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.19925</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Embodied AI: From LLMs to World Models</title>
-      <link>https://arxiv.org/abs/2509.20021</link>
-      <description>&lt;![CDATA[Embodied AI: From LLMs to World Models]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20021</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>New AI system could accelerate clinical research</title>
-      <link>https://news.mit.edu/2025/new-ai-system-could-accelerate-clinical-research-0925</link>
-      <description>&lt;![CDATA[New AI system could accelerate clinical research]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/new-ai-system-could-accelerate-clinical-research-0925</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Estimating the Self-Consistency of LLMs</title>
-      <link>https://arxiv.org/abs/2509.19489</link>
-      <description>&lt;![CDATA[Estimating the Self-Consistency of LLMs]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.19489</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>What Does Your Benchmark Really Measure? A Framework for Robust Inference of AI Capabilities</title>
-      <link>https://arxiv.org/abs/2509.19590</link>
-      <description>&lt;![CDATA[What Does Your Benchmark Really Measure? A Framework for Robust Inference of AI Capabilities]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.19590</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>UserRL: Training Interactive User-Centric Agent via Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2509.19736</link>
-      <description>&lt;![CDATA[UserRL: Training Interactive User-Centric Agent via Reinforcement Learning]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.19736</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM</title>
-      <link>https://arxiv.org/abs/2509.20067</link>
-      <description>&lt;![CDATA[MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20067</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>PEPS: Quantum-Inspired Reinforcement Learning for Coherent Reasoning Traces in LLMs</title>
-      <link>https://arxiv.org/abs/2509.20105</link>
-      <description>&lt;![CDATA[PEPS: Quantum-Inspired Reinforcement Learning for Coherent Reasoning Traces in LLMs]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20105</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI</title>
-      <link>https://arxiv.org/abs/2509.20175</link>
-      <description>&lt;![CDATA[Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20175</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLMs as verification oracles for Solidity</title>
-      <link>https://arxiv.org/abs/2509.19153</link>
-      <description>&lt;![CDATA[LLMs as verification oracles for Solidity]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.19153</guid>
+      <title>你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能</title>
+      <link>https://www.qbitai.com/2025/09/335986.html</link>
+      <description>&lt;![CDATA[你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 07:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335986.html</guid>
       <category>AI</category>
     </item>
   </channel>

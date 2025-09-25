@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 05:21:13 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 08:27:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years instead.</title>
-      <link>https://www.marketwatch.com/story/trump-wanted-jimmy-kimmel-cancelled-he-gave-him-his-highest-ratings-in-10-years-instead-497f9b4f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years instead.]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 02:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-wanted-jimmy-kimmel-cancelled-he-gave-him-his-highest-ratings-in-10-years-instead-497f9b4f?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Costco’s earnings are due. The bar for growth is higher this time around.</title>
-      <link>https://www.marketwatch.com/story/costcos-earnings-are-due-the-bar-for-growth-is-higher-this-time-around-8947c118?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Costco’s earnings are due. The bar for growth is higher this time around.]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 01:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/costcos-earnings-are-due-the-bar-for-growth-is-higher-this-time-around-8947c118?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s how much you should give as a wedding gift</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=4d04cae2-cf09-438b-b16f-487abbc671ce&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Here’s how much you should give as a wedding gift]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 01:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=4d04cae2-cf09-438b-b16f-487abbc671ce&amp;mod=mw_rss_bulletins</guid>
+      <title>Quantum-computing stocks have been red hot. HSBC has just claimed a major trading breakthrough using the technology.</title>
+      <link>https://www.marketwatch.com/story/quantum-computing-stocks-have-been-red-hot-hsbc-has-just-claimed-a-major-trading-breakthrough-using-the-technology-1497922d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Quantum-computing stocks have been red hot. HSBC has just claimed a major trading breakthrough using the technology.]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/quantum-computing-stocks-have-been-red-hot-hsbc-has-just-claimed-a-major-trading-breakthrough-using-the-technology-1497922d?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

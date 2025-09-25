@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-25 05:19
+**最后更新时间**: 2025-09-25 08:27
+
+---
+
+## 🆕 最新更新 (2025-09-25 08:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [重塑动画生产力：AniSora 动画视频生成技术与应用｜QCon 上海](https://www.infoq.cn/article/Rf7hutKZxpUfcoNYCdhZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 16:05
+
+#### [Copilot用户狂欢！微软宣布引入 Claude 模型，OpenAI不再被“独宠”](https://www.infoq.cn/article/atec6lQ4e3b992W2kiM3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 15:29
+
+#### [中国信通院：2024年我国人工智能产业规模超9000亿元](https://www.infoq.cn/article/s4rlgOQKP5fzuZGcbaxH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 15:17
+
+#### [Java现代化改造：长文梳理switch结构的前世今生](https://www.infoq.cn/article/DckyfcpmmuF5Y5wrOqGR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 14:53
+
+#### [蚂蚁数科提出隐私保护AI算法训练新框架Gibbon，训练速度提升4倍](https://www.infoq.cn/article/dOwxuNIiROyl1BlcrACA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 14:23
+
+#### [擎朗智能发布自研VLA模型KOM2.0，构建端到端具身行动智能的核心引擎](https://www.infoq.cn/article/GoRihf49smDa24d72kFi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 14:12
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [9月25日A股分析：三大指数涨跌不一，两市成交额超2.37万亿，主力资金净流出373亿，充电桩与数字经济板块逆势吸金](https://www.tmtpost.com/7706020.html)
+**发布时间**: 2025-09-25 15:49
+
+#### [宗馥莉想再造一个娃哈哈](https://www.tmtpost.com/7705972.html)
+**发布时间**: 2025-09-25 15:39
+
+#### [王薇：生成式人工智能，开启法律专业服务的新时代 | 钛资本人工智能组](https://www.tmtpost.com/7705721.html)
+**发布时间**: 2025-09-25 15:24
+
+#### [Huawei Unveils WATCH GT 6 Series and FreeClip 2 Ear-Clip Headphones](https://www.tmtpost.com/7706015.html)
+**发布时间**: 2025-09-25 15:08
+
+#### [高通“转身”押注AI智能体，还把“王兴兴们”拉进自己的朋友圈](https://www.tmtpost.com/7705939.html)
+**发布时间**: 2025-09-25 15:06
+
+#### [小红书做团播，晚了吗？](https://www.tmtpost.com/7705391.html)
+**发布时间**: 2025-09-25 15:02
+
+#### [娃小宗对娃哈哈发动商标政变](https://www.tmtpost.com/7705363.html)
+**发布时间**: 2025-09-25 14:11
+
+#### [Microsoft 365 Copilot First Integrates OpenAI Rival Anthropic's Models](https://www.tmtpost.com/7705932.html)
+**发布时间**: 2025-09-25 13:56
+
+#### [AI不付费就是“废品”，海外卖爆的AI硬件Plaud带着新品杀回国内](https://www.tmtpost.com/7705141.html)
+**发布时间**: 2025-09-25 13:55
+
+#### [MiniMax Faces Hollywood Lawsuit Amid Rapid Global Expansion, IPO Ambitions](https://www.tmtpost.com/7705920.html)
+**发布时间**: 2025-09-25 13:54
+
+#### [谷歌广告跌倒，亚马逊吃饱](https://www.tmtpost.com/7705740.html)
+**发布时间**: 2025-09-25 13:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple AirPods Pro 3 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/102744)
+**发布时间**: 2025-09-25 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [AI遇上老师傅，鲁班来了都迷糊](http://www.huxiu.com/article/4784839.html?f=wangzhan)
+**发布时间**: 2025-09-25 14:50
+
+#### [小红书做团播，晚了吗？](http://www.huxiu.com/article/4784739.html?f=wangzhan)
+**发布时间**: 2025-09-25 14:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [三款骁龙芯片曝光，高通谷歌联手打造「安卓 PC」时代](http://www.geekpark.net/news/354449)
+**发布时间**: 2025-09-25 14:46
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Nothing spins off its budget brand CMF](https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india)
+**发布时间**: 2025-09-25 07:58
 
 ---
 
