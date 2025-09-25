@@ -1,7 +1,173 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-25 08:27
+**最后更新时间**: 2025-09-25 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-25 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [雷军：跟苹果竞争是漫长且痛苦的过程，时间越长小米越强大](https://www.tmtpost.com/7706754.html)
+**发布时间**: 2025-09-26 02:14
+
+#### [NikeSKIMS上线；TANBOER坦博尔打造户外冰雪趋势大秀；lululemon发布2025年中国人幸福感报告｜消研所周报](https://www.tmtpost.com/7706224.html)
+**发布时间**: 2025-09-25 21:19
+
+#### [控股股东资产注入再“流产”，羸弱的西藏旅游靠什么支撑翻倍股价？](https://www.tmtpost.com/7706540.html)
+**发布时间**: 2025-09-25 20:21
+
+#### [无息借款与密集减持并行，蒙泰高新陷家族资本博弈与经营挑战](https://www.tmtpost.com/7706437.html)
+**发布时间**: 2025-09-25 19:27
+
+#### [中产开始抢购散装奢侈品，奢侈品散装化意味着什么？](https://www.tmtpost.com/7706426.html)
+**发布时间**: 2025-09-25 19:17
+
+#### [真正的「国产英伟达」来了](https://www.tmtpost.com/7706289.html)
+**发布时间**: 2025-09-25 18:42
+
+#### [抱上OpenAI的大腿，立讯精密还是代工命](https://www.tmtpost.com/7706152.html)
+**发布时间**: 2025-09-25 18:42
+
+#### [台风过境，深圳停摆的26小时](https://www.tmtpost.com/7705962.html)
+**发布时间**: 2025-09-25 18:42
+
+#### [长达16年新药空白，失眠新药电商爆卖](https://www.tmtpost.com/7705983.html)
+**发布时间**: 2025-09-25 18:36
+
+#### [巴菲特的天神之眼究竟是什么](https://www.tmtpost.com/7705891.html)
+**发布时间**: 2025-09-25 18:36
+
+#### [钛媒体首届硅谷峰会门票提前火爆售罄，顶级阵容完整议程公布｜NEX-T Summit 2025 硅谷未来峰会](https://www.tmtpost.com/7705459.html)
+**发布时间**: 2025-09-25 18:25
+
+#### [万亿规模生态！京东AI亮底牌](https://www.tmtpost.com/7706034.html)
+**发布时间**: 2025-09-25 18:20
+
+#### [“中国迪士尼”梦碎，华谊兄弟电影小镇正被清算](https://www.tmtpost.com/7706016.html)
+**发布时间**: 2025-09-25 18:18
+
+#### [酒店“入侵”博物馆](https://www.tmtpost.com/7705598.html)
+**发布时间**: 2025-09-25 18:18
+
+#### [聊一聊我对张雪峰的若干感想](https://www.tmtpost.com/7706296.html)
+**发布时间**: 2025-09-25 18:18
+
+#### [这个世界毕竟属于疯子、怪人、偏执狂](https://www.tmtpost.com/7706288.html)
+**发布时间**: 2025-09-25 18:18
+
+#### [华为鲲鹏助力南光集团构建AI时代算力新底座](https://www.tmtpost.com/7704582.html)
+**发布时间**: 2025-09-25 18:10
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Amazon Might Owe You $51. Here’s How to Find Out if You’re Eligible](https://www.wired.com/story/amazon-might-owe-you-find-out-if-youre-eligible/)
+**发布时间**: 2025-09-25 21:32
+
+#### [Trump Executive Order Will Hand TikTok Over to US Investors](https://www.wired.com/story/president-trump-signs-tiktok-deal/)
+**发布时间**: 2025-09-25 21:05
+
+#### [Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups](https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/)
+**发布时间**: 2025-09-25 20:20
+
+#### [This Asus Gaming Laptop Is on Sale for Under $1,000](https://www.wired.com/story/asus-laptop-deal-september-2025/)
+**发布时间**: 2025-09-25 20:14
+
+#### [WIRED’s Politics Issue Cover Is in a City Near You](https://www.wired.com/story/wired-politics-cover-search/)
+**发布时间**: 2025-09-25 19:15
+
+#### [25 Best MagSafe Accessories (2025): Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
+**发布时间**: 2025-09-25 14:00
+
+#### [Chromebooks vs. PC: The Differences Between Chrome OS and Windows](https://www.wired.com/story/chromebooks-vs-windows-laptops/)
+**发布时间**: 2025-09-25 13:00
+
+#### [AllTrails Hiking App Review: Outdoor Planning and Navigation](https://www.wired.com/review/alltrails-hiking-app/)
+**发布时间**: 2025-09-25 12:30
+
+#### [12 Best Cheap Laptops (2025), Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
+**发布时间**: 2025-09-25 12:00
+
+#### [9 Best Down Comforters (2025), Tested in Our Homes in Every Season](https://www.wired.com/gallery/best-down-comforters/)
+**发布时间**: 2025-09-25 11:39
+
+#### [How to (Mostly) Get Rid of Liquid Glass](https://www.wired.com/story/how-to-mostly-get-rid-of-liquid-glass/)
+**发布时间**: 2025-09-25 11:00
+
+#### [13 Best Bed Frames (2025), Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)
+**发布时间**: 2025-09-25 10:37
+
+#### [Google’s Conversational Photo Editor Is the Rare AI Feature People Will Actually Use](https://www.wired.com/story/google-photos-conversational-photo-editor/)
+**发布时间**: 2025-09-25 10:30
+
+#### [Memecoins Are Coming to the Stock Market](https://www.wired.com/story/memecoins-are-coming-to-the-stock-market/)
+**发布时间**: 2025-09-25 10:21
+
+#### [Astronomers Have Found 6,000 Planets Outside the Solar System](https://www.wired.com/story/6000-planets-have-been-found-outside-the-solar-system/)
+**发布时间**: 2025-09-25 10:16
+
+#### [The Onion Made an Absolutely Unhinged Jeffrey Epstein Mockumentary](https://www.wired.com/story/the-onion-made-an-absolutely-unhinged-jeffrey-epstein-mockumentary/)
+**发布时间**: 2025-09-25 10:00
+
+#### [The Story of DOGE, as Told by Federal Workers](https://www.wired.com/story/oral-history-doge-federal-workers/)
+**发布时间**: 2025-09-25 10:00
+
+#### [30 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)](https://www.wired.com/story/early-prime-day-deals-october-2025/)
+**发布时间**: 2025-09-25 09:01
+
+#### [Armed Guards and Muscle Milk: Senate Investigation Reveals DOGE Takeover Details](https://www.wired.com/story/armed-guards-muscle-milk-senate-investigation-doge-takeover-details/)
+**发布时间**: 2025-09-25 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Nintendo of America boss Doug Bowser is retiring](https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement)
+**发布时间**: 2025-09-25 21:21
+
+#### [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source)
+**发布时间**: 2025-09-25 21:16
+
+#### [Trump signs &#8216;Saving TikTok&#8217; order to start resolving its big ban problem](https://www.theverge.com/news/640745/tiktok-deal-trump-us-china-bytedance)
+**发布时间**: 2025-09-25 21:13
+
+#### [Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist](https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation)
+**发布时间**: 2025-09-25 20:49
+
+#### [Microsoft says this new cooling method could enable more powerful chips and efficient data centers](https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency)
+**发布时间**: 2025-09-25 20:23
+
+#### [A number of great chargers are already on sale ahead of October Prime Day](https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal)
+**发布时间**: 2025-09-25 19:00
+
+#### [This Energizer laptop claims to have a battery that keeps going and going and going](https://www.theverge.com/news/785857/this-energizer-laptop-claims-to-have-a-battery-that-keeps-going-and-going-and-going)
+**发布时间**: 2025-09-25 18:58
+
+#### [Twitch is making it easy to rewind streams](https://www.theverge.com/news/785973/twitch-livestream-rewind-easy)
+**发布时间**: 2025-09-25 18:43
+
+#### [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula)
+**发布时间**: 2025-09-25 18:20
+
+#### [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright)
+**发布时间**: 2025-09-25 17:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里云无影Agentic Computer云栖大会首秀：一台跨模态、跨终端的超级PC](https://www.infoq.cn/article/VMxh85MRxwwAJhPdPejY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 20:49
+
+#### [被质疑架空、边缘化后，Yann LeCun带着开源代码世界模型“杀回来了”：320 亿参数，能像程序员一样思考](https://www.infoq.cn/article/WVNzqWy6qhb74ltVopgQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 20:00
+
+#### [Spring近期新闻：Boot第三个里程碑版本、 Security、GraphQL、Integration和Modulith](https://www.infoq.cn/article/2uaV6hfbxZGSTWEBY8mc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 19:39
+
+#### [神秘“赚钱APP”突然走红！付你钱录通话、年付数千美元，转头就把音频卖给 AI公司](https://www.infoq.cn/article/BbUkYMu3YpCDKmVoPdAz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 18:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple 高校优惠活动即将结束，这是你最后的入手机会](https://sspai.com/post/100935)
+**发布时间**: 2025-09-25 17:00
 
 ---
 

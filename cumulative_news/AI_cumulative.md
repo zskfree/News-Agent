@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-25 08:27
+**最后更新时间**: 2025-09-25 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-25 23:17)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [Shoplifters could soon be chased down by drones](https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/)
+**发布时间**: 2025-09-25 17:34
+
+#### [The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims](https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/)
+**发布时间**: 2025-09-25 12:10
+
+#### [Fusion power plants don’t exist yet, but they’re making money anyway](https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/)
+**发布时间**: 2025-09-25 10:00
+
+#### [How AI and Wikipedia have sent vulnerable languages into a doom spiral](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/)
+**发布时间**: 2025-09-25 09:00
+
+#### [Trump is pushing leucovorin as a treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/)
+**发布时间**: 2025-09-24 11:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI宋飏被Meta挖跑了！扩散模型崛起关键人物，加入MSL再会师清华校友赵晟佳](https://www.qbitai.com/2025/09/336212.html)
+**发布时间**: 2025-09-25 13:16
+
+#### [京东AI一揽子开源！超多核心项目全开源，GitHub万star项目也有新进展了](https://www.qbitai.com/2025/09/336101.html)
+**发布时间**: 2025-09-25 11:56
+
+#### [中国团队重新定义“星际之门”！全球首个太空计算星座已实现常态化商用](https://www.qbitai.com/2025/09/336100.html)
+**发布时间**: 2025-09-25 11:52
+
+#### [技术、场景、生态共振：京东健康发起“AI普惠医疗加速计划”](https://www.qbitai.com/2025/09/336087.html)
+**发布时间**: 2025-09-25 10:52
+
+#### [38.98万元起！2026款腾势N9正式上市](https://www.qbitai.com/2025/09/336013.html)
+**发布时间**: 2025-09-25 07:37
+
+### 📰 来源: [MIT News - Artificial Intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI system learns from many types of scientific information and runs experiments to discover new materials](https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925)
+**发布时间**: 2025-09-25 11:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini](https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/)
+**发布时间**: 2025-09-25 10:33
 
 ---
 

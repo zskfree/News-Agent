@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 08:27:31 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 23:18:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能</title>
-      <link>https://www.qbitai.com/2025/09/335986.html</link>
-      <description>&lt;![CDATA[你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 07:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335986.html</guid>
+      <title>Shoplifters could soon be chased down by drones</title>
+      <link>https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/</link>
+      <description>&lt;![CDATA[Shoplifters could soon be chased down by drones]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims</title>
+      <link>https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/</link>
+      <description>&lt;![CDATA[The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Fusion power plants don’t exist yet, but they’re making money anyway</title>
+      <link>https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/</link>
+      <description>&lt;![CDATA[Fusion power plants don’t exist yet, but they’re making money anyway]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>How AI and Wikipedia have sent vulnerable languages into a doom spiral</title>
+      <link>https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/</link>
+      <description>&lt;![CDATA[How AI and Wikipedia have sent vulnerable languages into a doom spiral]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI宋飏被Meta挖跑了！扩散模型崛起关键人物，加入MSL再会师清华校友赵晟佳</title>
+      <link>https://www.qbitai.com/2025/09/336212.html</link>
+      <description>&lt;![CDATA[OpenAI宋飏被Meta挖跑了！扩散模型崛起关键人物，加入MSL再会师清华校友赵晟佳]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336212.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>京东AI一揽子开源！超多核心项目全开源，GitHub万star项目也有新进展了</title>
+      <link>https://www.qbitai.com/2025/09/336101.html</link>
+      <description>&lt;![CDATA[京东AI一揽子开源！超多核心项目全开源，GitHub万star项目也有新进展了]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336101.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中国团队重新定义“星际之门”！全球首个太空计算星座已实现常态化商用</title>
+      <link>https://www.qbitai.com/2025/09/336100.html</link>
+      <description>&lt;![CDATA[中国团队重新定义“星际之门”！全球首个太空计算星座已实现常态化商用]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336100.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>技术、场景、生态共振：京东健康发起“AI普惠医疗加速计划”</title>
+      <link>https://www.qbitai.com/2025/09/336087.html</link>
+      <description>&lt;![CDATA[技术、场景、生态共振：京东健康发起“AI普惠医疗加速计划”]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336087.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI system learns from many types of scientific information and runs experiments to discover new materials</title>
+      <link>https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925</link>
+      <description>&lt;![CDATA[AI system learns from many types of scientific information and runs experiments to discover new materials]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini</title>
+      <link>https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/</link>
+      <description>&lt;![CDATA[Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/</guid>
       <category>AI</category>
     </item>
   </channel>

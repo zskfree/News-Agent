@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-25 08:27
+**最后更新时间**: 2025-09-25 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-25 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [DOGE operates ‘unchecked’ at multiple agencies, Senate report finds. Here’s what it recommends to protect Americans’ data.](https://www.marketwatch.com/story/doge-operates-unchecked-at-multiple-agencies-senate-report-finds-heres-what-it-recommends-to-protect-americans-data-5febfd5c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 23:03
+
+#### [I’m 70 and have Alzheimer’s. My son’s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?](https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 22:15
+
+#### [IBD and MarketWatch’s sixth annual survey honors most trusted financial companies](https://www.marketwatch.com/story/ibd-and-marketwatchs-sixth-annual-survey-honors-most-trusted-financial-companies-20b89393?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 22:00
+
+#### [I’m 70 and received $300K in a lawsuit. Here’s my foolproof financial plan.](https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:47
+
+#### [I inherited $600,000 in Apple shares. Am I crazy if I don’t sell them now?](https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:43
+
+#### [I’m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?](https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:42
+
+#### [Why Oracle’s ‘jumbo’ AI-fueled bond deal is so unusual](https://www.marketwatch.com/story/why-oracles-jumbo-ai-fueled-bond-deal-is-so-unusual-84569b24?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:27
+
+#### [Costco’s stock slips despite profit beat, as same-store sales miss estimates again](https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:23
+
+#### [‘I haven’t filed taxes in 20 years’: I’m 55 and about to get laid off. I’ve $1 million in crypto. Am I in big trouble?](https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:00
+
+#### [Demand for investment-grade bond ETFs surges as Oracle pushes up supply of new debt](https://www.marketwatch.com/story/demand-for-investment-grade-bond-etfs-surges-as-oracle-pushes-up-supply-of-new-debt-f6ff4d0c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 20:56
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How badly could mass layoffs during a government shutdown hurt the stock market?](https://www.marketwatch.com/bulletins/redirect/go?g=986be1eb-bba6-4f5e-aa1c-bc023b0b8761&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 21:03
+
+#### [Dow, S&P and Nasdaq end lower for 3rd straight day amid rethink on Fed rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=feed2347-fce0-43c5-984e-683c69a946e3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 20:06
+
+#### [With stocks falling for the third day in a row, is a deeper pullback commencing?](https://www.marketwatch.com/bulletins/redirect/go?g=1db1f172-30a4-4b95-a1e5-b7faeddc9fe4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 19:01
+
+#### [Could the Fed skip a rate cut next month?](https://www.marketwatch.com/bulletins/redirect/go?g=757cb197-e758-4c76-9cea-ebc63cb8c1e1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 16:41
+
+#### [All living former Fed chairs petition Supreme Court on Lisa Cook’s behalf](https://www.marketwatch.com/bulletins/redirect/go?g=f53ec981-29a3-40d6-9592-94e43268f3c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 16:02
+
+#### [She inherited $600,000 in Apple shares and wants to know if it’s safe to hang on](https://www.marketwatch.com/bulletins/redirect/go?g=b2f71334-1584-4d23-b6e4-8aec72ab5dd7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 15:38
+
+#### [Consumers credited as second-quarter U.S. growth rate is revised up to 3.8%](https://www.marketwatch.com/bulletins/redirect/go?g=9fede3d7-58c5-4ffa-87f0-fc6bac96dcbb&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 15:05
+
+#### [U.S. stock-market indexes facing first joint three-day losing streak in months](https://www.marketwatch.com/bulletins/redirect/go?g=fbd62233-305c-4429-b5e7-a6ff288d86bc&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 14:39
+
+#### [Starbucks is closing locations and cutting jobs in billion-dollar restructuring](https://www.marketwatch.com/bulletins/redirect/go?g=964106ae-1caf-4a6e-a824-7d281b8d52b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 13:20
+
+#### [CarMax shares head for 5-year low after unexpected used-car-sales decline](https://www.marketwatch.com/bulletins/redirect/go?g=1250bd47-0db3-41fa-ade1-5cdd4b1ff2e0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 13:12
 
 ---
 
