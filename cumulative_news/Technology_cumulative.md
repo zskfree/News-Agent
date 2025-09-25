@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-24 23:18
+**最后更新时间**: 2025-09-25 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-25 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [淘宝闪购最大的对手是双11](https://www.tmtpost.com/7705539.html)
+**发布时间**: 2025-09-25 13:06
+
+#### [Intel Said to Seek Investment from Apple following Nvidia](https://www.tmtpost.com/7705826.html)
+**发布时间**: 2025-09-25 13:05
+
+#### [2025（第六届）未来大会在成都举行，川商全球数字发展地图正式发布](https://www.tmtpost.com/7705552.html)
+**发布时间**: 2025-09-25 12:49
+
+#### [Alibaba Stock Surges Over 8% on Spending Boost and AI Partnership with Nvidia](https://www.tmtpost.com/7705767.html)
+**发布时间**: 2025-09-25 12:04
+
+#### [Upcoming NEX-T Summit: Where Tomorrow's Tech Industry is Shaped Today](https://www.tmtpost.com/7705750.html)
+**发布时间**: 2025-09-25 11:56
+
+#### [懂代码不懂金融，懂金融不会建模：应届生秋招如何破局？](https://www.tmtpost.com/7705747.html)
+**发布时间**: 2025-09-25 11:55
+
+#### [机构预计该领域四季度将进入装置招标密集期，包括偏滤器、包层和电源等｜科股一线拆解](https://www.tmtpost.com/7705733.html)
+**发布时间**: 2025-09-25 11:46
+
+#### [微短剧蓝海暗流涌动：446款APP，用户渗透率不足10%，短剧出海又有新模式？](https://www.tmtpost.com/7704868.html)
+**发布时间**: 2025-09-25 11:19
+
+#### [逃避催婚的年轻人们，正忙着帮宠物相亲](https://www.tmtpost.com/7705455.html)
+**发布时间**: 2025-09-25 10:45
+
+#### [Chery Automobile Soars 11% in $1.2 Billion Hong Kong IPO Debut](https://www.tmtpost.com/7705564.html)
+**发布时间**: 2025-09-25 10:42
+
+#### [张一鸣老乡姚雄杰再秀资本绝技，盛新锂能豪掷14.56亿收购](https://www.tmtpost.com/7705177.html)
+**发布时间**: 2025-09-25 10:30
+
+#### [Shanghai Cracks Global Top Five Asset Management Hubs for First Time](https://www.tmtpost.com/7705531.html)
+**发布时间**: 2025-09-25 10:28
+
+#### [Chinese Premier Li Expects Gates Foundation to Boost U.S.-China Cooperation](https://www.tmtpost.com/7705527.html)
+**发布时间**: 2025-09-25 10:26
+
+#### [智元机器人要约收购15倍大牛股；西安半导体企业筹划购买华羿微电股权；【并购一线】](https://www.tmtpost.com/7705499.html)
+**发布时间**: 2025-09-25 10:23
+
+#### [EU Seeks Restarting Metal Talks as U.S. Cuts Auto Tariffs to 15% Retroactive to Aug. 1](https://www.tmtpost.com/7705487.html)
+**发布时间**: 2025-09-25 10:12
+
+#### [影石挥刀砍向大疆：是勇士屠龙？还是以卵击石？](https://www.tmtpost.com/7705106.html)
+**发布时间**: 2025-09-25 09:40
+
+#### [海南海药二股东1.24亿股流拍即现“股价倒挂”，国资接盘五年积弊难消](https://www.tmtpost.com/7705281.html)
+**发布时间**: 2025-09-25 09:22
+
+#### [「一页纸」讲透美股公司之：AppLovin](https://www.tmtpost.com/7705158.html)
+**发布时间**: 2025-09-25 09:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国为何死保以色列？以色列到底捏着美国什么命门？](http://www.huxiu.com/article/4784809.html?f=wangzhan)
+**发布时间**: 2025-09-25 12:07
+
+#### [1400+全球科创项目里，藏着下一个风口？](http://www.huxiu.com/article/4784391.html?f=wangzhan)
+**发布时间**: 2025-09-25 10:40
+
+#### [始祖鸟烟花事件，怎么就烧穿了奢侈品的虚伪营销？](http://www.huxiu.com/article/4784510.html?f=wangzhan)
+**发布时间**: 2025-09-25 09:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 应用开发的破局之路：字节跳动 Eino 框架实践](https://www.infoq.cn/article/g1owAQLkxG5Ehg52mfGf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 12:01
+
+#### [前端福利！Preact 11 Beta 改进 Hydration，API 更友好](https://www.infoq.cn/article/r6gDag9uyEdwu75CjGJE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-25 09:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 巧用 Notion 自动化添加周期性提醒](https://sspai.com/post/102644)
+**发布时间**: 2025-09-25 11:00
+
+#### [派早报：华为发布多款智能硬件新品、领英将使用用户数据训练 AI 等](https://sspai.com/post/102742)
+**发布时间**: 2025-09-25 08:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Instagram 月活破 30 亿，靠“短视频”和“私信”；2027款iPhone曝光；女子用ChatGPT选号中百万大奖，全部捐出](http://www.geekpark.net/news/354413)
+**发布时间**: 2025-09-25 08:15
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Groupon Promo Codes: 50% Off in September 2025](https://www.wired.com/story/groupon-promo-code/)
+**发布时间**: 2025-09-25 05:00
+
+#### [Meta Poaches OpenAI Scientist to Help Lead AI Lab](https://www.wired.com/story/meta-poaches-openai-researcher-yang-song/)
+**发布时间**: 2025-09-25 04:26
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive)
+**发布时间**: 2025-09-25 04:00
+
+#### [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)
+**发布时间**: 2025-09-25 00:53
+
+#### [Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us)
+**发布时间**: 2025-09-24 23:49
 
 ---
 

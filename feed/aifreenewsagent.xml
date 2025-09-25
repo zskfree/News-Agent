@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 23:19:41 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 05:21:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Download: accidental AI relationships, and the future of contraception</title>
-      <link>https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/</link>
-      <description>&lt;![CDATA[The Download: accidental AI relationships, and the future of contraception]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/</guid>
+      <title>CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain</title>
+      <link>https://arxiv.org/abs/2509.19925</link>
+      <description>&lt;![CDATA[CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.19925</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The AI Hype Index: Cracking the chatbot code</title>
-      <link>https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/</link>
-      <description>&lt;![CDATA[The AI Hype Index: Cracking the chatbot code]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/</guid>
+      <title>Embodied AI: From LLMs to World Models</title>
+      <link>https://arxiv.org/abs/2509.20021</link>
+      <description>&lt;![CDATA[Embodied AI: From LLMs to World Models]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20021</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>It’s surprisingly easy to stumble into a relationship with an AI chatbot</title>
-      <link>https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/</link>
-      <description>&lt;![CDATA[It’s surprisingly easy to stumble into a relationship with an AI chatbot]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/</guid>
+      <title>New AI system could accelerate clinical research</title>
+      <link>https://news.mit.edu/2025/new-ai-system-could-accelerate-clinical-research-0925</link>
+      <description>&lt;![CDATA[New AI system could accelerate clinical research]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/new-ai-system-could-accelerate-clinical-research-0925</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025骁龙峰会·中国开幕，高通携手生态伙伴发布“AI加速计划”</title>
-      <link>https://www.qbitai.com/2025/09/335901.html</link>
-      <description>&lt;![CDATA[2025骁龙峰会·中国开幕，高通携手生态伙伴发布“AI加速计划”]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335901.html</guid>
+      <title>Estimating the Self-Consistency of LLMs</title>
+      <link>https://arxiv.org/abs/2509.19489</link>
+      <description>&lt;![CDATA[Estimating the Self-Consistency of LLMs]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.19489</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开幕在即！2025人工智能计算大会精彩前瞻</title>
-      <link>https://www.qbitai.com/2025/09/335902.html</link>
-      <description>&lt;![CDATA[开幕在即！2025人工智能计算大会精彩前瞻]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335902.html</guid>
+      <title>What Does Your Benchmark Really Measure? A Framework for Robust Inference of AI Capabilities</title>
+      <link>https://arxiv.org/abs/2509.19590</link>
+      <description>&lt;![CDATA[What Does Your Benchmark Really Measure? A Framework for Robust Inference of AI Capabilities]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.19590</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中国AI高速路，华为给出开源开放方案</title>
-      <link>https://www.qbitai.com/2025/09/335890.html</link>
-      <description>&lt;![CDATA[中国AI高速路，华为给出开源开放方案]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335890.html</guid>
+      <title>UserRL: Training Interactive User-Centric Agent via Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2509.19736</link>
+      <description>&lt;![CDATA[UserRL: Training Interactive User-Centric Agent via Reinforcement Learning]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.19736</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-5编程测评大反转！表面不及格，实际63.1%的任务没交卷，全算上成绩比Claude高一倍</title>
-      <link>https://www.qbitai.com/2025/09/335869.html</link>
-      <description>&lt;![CDATA[GPT-5编程测评大反转！表面不及格，实际63.1%的任务没交卷，全算上成绩比Claude高一倍]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/335869.html</guid>
+      <title>MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM</title>
+      <link>https://arxiv.org/abs/2509.20067</link>
+      <description>&lt;![CDATA[MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20067</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Roundtables: The Future of Birth Control</title>
-      <link>https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/</link>
-      <description>&lt;![CDATA[Roundtables: The Future of Birth Control]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 20:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/</guid>
+      <title>PEPS: Quantum-Inspired Reinforcement Learning for Coherent Reasoning Traces in LLMs</title>
+      <link>https://arxiv.org/abs/2509.20105</link>
+      <description>&lt;![CDATA[PEPS: Quantum-Inspired Reinforcement Learning for Coherent Reasoning Traces in LLMs]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20105</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Trump is pushing leucovorin as a new treatment for autism. What is it?</title>
-      <link>https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/</link>
-      <description>&lt;![CDATA[Trump is pushing leucovorin as a new treatment for autism. What is it?]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/</guid>
+      <title>Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI</title>
+      <link>https://arxiv.org/abs/2509.20175</link>
+      <description>&lt;![CDATA[Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20175</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AfriMed-QA: Benchmarking large language models for global health</title>
-      <link>https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/</link>
-      <description>&lt;![CDATA[AfriMed-QA: Benchmarking large language models for global health]]&gt;</description>
-      <pubDate>Wed, 24 Sep 2025 19:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/</guid>
+      <title>LLMs as verification oracles for Solidity</title>
+      <link>https://arxiv.org/abs/2509.19153</link>
+      <description>&lt;![CDATA[LLMs as verification oracles for Solidity]]&gt;</description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.19153</guid>
       <category>AI</category>
     </item>
   </channel>

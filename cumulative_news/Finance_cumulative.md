@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-24 23:18
+**最后更新时间**: 2025-09-25 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-25 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years instead.](https://www.marketwatch.com/story/trump-wanted-jimmy-kimmel-cancelled-he-gave-him-his-highest-ratings-in-10-years-instead-497f9b4f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 02:47
+
+#### [Costco’s earnings are due. The bar for growth is higher this time around.](https://www.marketwatch.com/story/costcos-earnings-are-due-the-bar-for-growth-is-higher-this-time-around-8947c118?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 01:19
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Here’s how much you should give as a wedding gift](https://www.marketwatch.com/bulletins/redirect/go?g=4d04cae2-cf09-438b-b16f-487abbc671ce&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 01:11
+
+#### [Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years](https://www.marketwatch.com/bulletins/redirect/go?g=91e97ec9-ddfe-4bc4-85b6-d93e3800e72f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 00:19
 
 ---
 
