@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-25 23:17
+**最后更新时间**: 2025-09-26 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-26 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump announces 100% tariffs on pharmaceuticals unless drug makers are building U.S. factories](https://www.marketwatch.com/story/trump-announces-100-tariffs-on-pharmaceuticals-unless-drug-makers-are-building-u-s-factories-a233958a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 02:06
+
+#### [Trump floats using tariff money to help farmers hurt by trade wars](https://www.marketwatch.com/story/trump-floats-using-tariff-money-to-help-farmers-hurt-by-trade-wars-74323f1b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 02:02
+
+#### [Should Apple buy Intel’s stock? These analysts suggest a better investment.](https://www.marketwatch.com/story/should-apple-buy-intels-stock-these-analysts-suggest-a-better-investment-3301c7d6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 00:54
+
+#### [Costco’s same-store sales miss again, but it sees benefits from extra hours, Instacart deals](https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 00:06
+
+#### [Opendoor’s stock soars after Jane Street’s ‘validation.’ What comes next?](https://www.marketwatch.com/story/opendoors-stock-soars-after-jane-streets-validation-what-comes-next-9fc3cdb6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 23:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Amazon stock is trading at a historic discount. Is it the bargain of the decade?](https://www.marketwatch.com/bulletins/redirect/go?g=1e0b3d10-a6b7-46c6-a71d-8398ea9cdbaf&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 01:03
+
+#### [Trump announces new tariffs on pharmaceuticals, kitchen cabinets, heavy trucks](https://www.marketwatch.com/bulletins/redirect/go?g=d11f8d4f-72a6-44ca-a308-2ef59f0fde84&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 00:07
+
+#### [Inside the zero-revenue nuclear stock whose 1,500% rally is shaking up AI trade](https://www.marketwatch.com/bulletins/redirect/go?g=58813f62-40a3-49ba-a645-442d789bf09f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 23:24
 
 ---
 

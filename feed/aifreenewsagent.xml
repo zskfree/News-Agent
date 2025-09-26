@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 23:18:40 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 05:20:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Shoplifters could soon be chased down by drones</title>
-      <link>https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/</link>
-      <description>&lt;![CDATA[Shoplifters could soon be chased down by drones]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 17:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/</guid>
+      <title>京东物流发布“超脑大模型2.0”和“异狼”，加速构建“人工智能+”应用生态圈</title>
+      <link>https://www.qbitai.com/2025/09/336656.html</link>
+      <description>&lt;![CDATA[京东物流发布“超脑大模型2.0”和“异狼”，加速构建“人工智能+”应用生态圈]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 04:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336656.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims</title>
-      <link>https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/</link>
-      <description>&lt;![CDATA[The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/</guid>
+      <title>ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective</title>
+      <link>https://arxiv.org/abs/2509.21134</link>
+      <description>&lt;![CDATA[ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.21134</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Fusion power plants don’t exist yet, but they’re making money anyway</title>
-      <link>https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/</link>
-      <description>&lt;![CDATA[Fusion power plants don’t exist yet, but they’re making money anyway]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/</guid>
+      <title>AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant</title>
+      <link>https://arxiv.org/abs/2509.20369</link>
+      <description>&lt;![CDATA[AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20369</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How AI and Wikipedia have sent vulnerable languages into a doom spiral</title>
-      <link>https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/</link>
-      <description>&lt;![CDATA[How AI and Wikipedia have sent vulnerable languages into a doom spiral]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/</guid>
+      <title>缺数据也能拿SOTA？清华&amp;上海AI Lab破解机器人RL两大瓶颈</title>
+      <link>https://www.qbitai.com/2025/09/336588.html</link>
+      <description>&lt;![CDATA[缺数据也能拿SOTA？清华&amp;上海AI Lab破解机器人RL两大瓶颈]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 02:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336588.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI宋飏被Meta挖跑了！扩散模型崛起关键人物，加入MSL再会师清华校友赵晟佳</title>
-      <link>https://www.qbitai.com/2025/09/336212.html</link>
-      <description>&lt;![CDATA[OpenAI宋飏被Meta挖跑了！扩散模型崛起关键人物，加入MSL再会师清华校友赵晟佳]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336212.html</guid>
+      <title>超10万亿Tokens的高质量数据集是怎么炼成的？专访中国电信天翼AI阮宜龙</title>
+      <link>https://www.qbitai.com/2025/09/336479.html</link>
+      <description>&lt;![CDATA[超10万亿Tokens的高质量数据集是怎么炼成的？专访中国电信天翼AI阮宜龙]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 02:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336479.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>京东AI一揽子开源！超多核心项目全开源，GitHub万star项目也有新进展了</title>
-      <link>https://www.qbitai.com/2025/09/336101.html</link>
-      <description>&lt;![CDATA[京东AI一揽子开源！超多核心项目全开源，GitHub万star项目也有新进展了]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336101.html</guid>
+      <title>ChatGPT新功能，抢占你早上第一个打开的App</title>
+      <link>https://www.qbitai.com/2025/09/336478.html</link>
+      <description>&lt;![CDATA[ChatGPT新功能，抢占你早上第一个打开的App]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 02:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336478.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中国团队重新定义“星际之门”！全球首个太空计算星座已实现常态化商用</title>
-      <link>https://www.qbitai.com/2025/09/336100.html</link>
-      <description>&lt;![CDATA[中国团队重新定义“星际之门”！全球首个太空计算星座已实现常态化商用]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 11:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336100.html</guid>
+      <title>你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能</title>
+      <link>https://www.qbitai.com/2025/09/336421.html</link>
+      <description>&lt;![CDATA[你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 01:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336421.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>技术、场景、生态共振：京东健康发起“AI普惠医疗加速计划”</title>
-      <link>https://www.qbitai.com/2025/09/336087.html</link>
-      <description>&lt;![CDATA[技术、场景、生态共振：京东健康发起“AI普惠医疗加速计划”]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336087.html</guid>
+      <title>InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature</title>
+      <link>https://arxiv.org/abs/2509.20493</link>
+      <description>&lt;![CDATA[InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20493</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI system learns from many types of scientific information and runs experiments to discover new materials</title>
-      <link>https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925</link>
-      <description>&lt;![CDATA[AI system learns from many types of scientific information and runs experiments to discover new materials]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925</guid>
+      <title>Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems</title>
+      <link>https://arxiv.org/abs/2509.20513</link>
+      <description>&lt;![CDATA[Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20513</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini</title>
-      <link>https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/</link>
-      <description>&lt;![CDATA[Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini]]&gt;</description>
-      <pubDate>Thu, 25 Sep 2025 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/</guid>
+      <title>Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI</title>
+      <link>https://arxiv.org/abs/2509.20640</link>
+      <description>&lt;![CDATA[Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20640</guid>
       <category>AI</category>
     </item>
   </channel>
