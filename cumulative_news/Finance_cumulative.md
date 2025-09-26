@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-26 05:19
+**最后更新时间**: 2025-09-26 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-26 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why AI spending at Microsoft and Oracle is even higher than it appears](https://www.marketwatch.com/bulletins/redirect/go?g=5defa4ac-d11f-4b27-b735-d520bfb62056&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 22:35
+
+#### [Amazon is quietly building a $35B business that’s changing how companies operate](https://www.marketwatch.com/bulletins/redirect/go?g=f24f6277-26e0-4e2a-982f-13692e61abf2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 21:39
+
+#### [The AI trade hinges on OpenAI. That’s a big risk for the entire market.](https://www.marketwatch.com/bulletins/redirect/go?g=7a5fe328-0206-472a-b709-7374700be6f0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 20:57
+
+#### [U.S. stocks end higher Friday to snap 3-day losing run, but book weekly losses](https://www.marketwatch.com/bulletins/redirect/go?g=d9d1c932-bb83-42cb-9ea1-d87cb709d810&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 20:03
+
+#### [Sinclair ends Kimmel boycott, putting pressure on Nexstar to bring program back](https://www.marketwatch.com/bulletins/redirect/go?g=d5f5512d-f2a6-4f0c-92b8-fd5239d0714e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 19:48
+
+#### [Videogame maker Electronic Arts’ stock jumps on news of take-private deal](https://www.marketwatch.com/bulletins/redirect/go?g=5a341833-407e-4504-b0b5-5b074a9c233a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 19:25
+
+#### [How Trump’s new tariffs could make your kitchen renovation more of a headache](https://www.marketwatch.com/bulletins/redirect/go?g=85eeac08-eadf-4736-b648-10248ec7343f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 19:04
+
+#### [Day trading is about to get a lot easier for beginners. Things could get ugly.](https://www.marketwatch.com/bulletins/redirect/go?g=b5c64d7c-2730-43f6-addf-599c119e12d3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 16:54
+
+#### [A reason to delay retirement: keeping kids on health insurance till they’re 26](https://www.marketwatch.com/bulletins/redirect/go?g=7a4d0634-7c98-4bc6-b3ba-db4da8e3bd88&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 15:33
+
+#### [Boeing’s stock in ascent as 737 Max restrictions look set to be eased](https://www.marketwatch.com/bulletins/redirect/go?g=2c5de7ad-a663-47a4-a5a6-85641e988821&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 14:41
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [People keep pushing bitcoin on me, but it crashes regularly. What am I missing?](https://www.marketwatch.com/story/people-have-predicted-dollar-doom-for-decades-what-makes-this-time-actually-different-c3521a9d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 22:09
+
+#### [The new bill tweaking Social Security’s retirement-age language may be fixing the wrong problem](https://www.marketwatch.com/story/the-new-bill-tweaking-social-securitys-retirement-age-language-may-be-fixing-the-wrong-problem-05cffc04?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 21:52
+
+#### [Sinclair, Nexstar end boycott of Jimmy Kimmel show](https://www.marketwatch.com/story/sinclair-ends-boycott-of-jimmy-kimmel-show-putting-pressure-on-nexstar-to-bring-program-back-b40d0ec0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 21:33
+
+#### [Boeing’s stock takes off as some 737 Max restrictions set to ease](https://www.marketwatch.com/story/boeings-stock-takes-off-as-max-737-restrictions-look-set-to-ease-276ee3f4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:53
+
+#### [Videogame maker Electronic Arts’ stock jumps on news of take-private deal](https://www.marketwatch.com/story/videogame-maker-electronic-arts-stock-jumps-on-news-of-take-private-deal-ce173e9c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:52
+
+#### [The AI trade increasingly hinges on OpenAI — and that’s a big risk for the entire market](https://www.marketwatch.com/story/the-ai-trade-increasingly-hinges-on-openai-and-thats-a-big-risk-for-the-entire-market-aef0cf3c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:48
+
+#### [Who is Howie Rubin, the money manager charged with sex trafficking and torturing women?](https://www.marketwatch.com/story/who-is-howie-rubin-the-money-manager-charged-with-sex-trafficking-and-torturing-women-ef5699c7?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:47
 
 ---
 

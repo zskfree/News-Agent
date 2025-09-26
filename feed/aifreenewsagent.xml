@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 08:27:35 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 23:18:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>地平线募资58亿杀入Robotaxi</title>
-      <link>https://www.qbitai.com/2025/09/336914.html</link>
-      <description>&lt;![CDATA[地平线募资58亿杀入Robotaxi]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336914.html</guid>
+      <title>US investigators are using AI to detect child abuse images made by AI</title>
+      <link>https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/</link>
+      <description>&lt;![CDATA[US investigators are using AI to detect child abuse images made by AI]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谁是最强“打工AI”？OpenAI亲自测试，结果第一不是自己</title>
-      <link>https://www.qbitai.com/2025/09/336858.html</link>
-      <description>&lt;![CDATA[谁是最强“打工AI”？OpenAI亲自测试，结果第一不是自己]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336858.html</guid>
+      <title>The Download: shoplifter-chasing drones, and Trump’s TikTok deal</title>
+      <link>https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/</link>
+      <description>&lt;![CDATA[The Download: shoplifter-chasing drones, and Trump’s TikTok deal]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 12:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>“零人”搞医学研究：清华AI智能体从灵感到论文全程自主</title>
-      <link>https://www.qbitai.com/2025/09/336867.html</link>
-      <description>&lt;![CDATA[“零人”搞医学研究：清华AI智能体从灵感到论文全程自主]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336867.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>多模态推理最高加速3.2倍！华为诺亚新算法入选NeurIPS 2025</title>
-      <link>https://www.qbitai.com/2025/09/336851.html</link>
-      <description>&lt;![CDATA[多模态推理最高加速3.2倍！华为诺亚新算法入选NeurIPS 2025]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 06:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336851.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI两位首席最新采访信息量好大！终极目标是“自动化研究员”，招人并非寻找“最出圈”的人</title>
-      <link>https://www.qbitai.com/2025/09/336764.html</link>
-      <description>&lt;![CDATA[OpenAI两位首席最新采访信息量好大！终极目标是“自动化研究员”，招人并非寻找“最出圈”的人]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 05:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336764.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>顶级学术会议MICCAI最高奖项披露，华人科学家首次获奖！</title>
-      <link>https://www.qbitai.com/2025/09/336756.html</link>
-      <description>&lt;![CDATA[顶级学术会议MICCAI最高奖项披露，华人科学家首次获奖！]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 05:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336756.html</guid>
+      <title>华为第一「境」CEO官宣：广汽神车操盘手</title>
+      <link>https://www.qbitai.com/2025/09/337055.html</link>
+      <description>&lt;![CDATA[华为第一「境」CEO官宣：广汽神车操盘手]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337055.html</guid>
       <category>AI</category>
     </item>
   </channel>

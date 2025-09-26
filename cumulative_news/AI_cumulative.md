@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-26 08:27
+**最后更新时间**: 2025-09-26 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-26 23:17)
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [US investigators are using AI to detect child abuse images made by AI](https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/)
+**发布时间**: 2025-09-26 19:03
+
+#### [The Download: shoplifter-chasing drones, and Trump’s TikTok deal](https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/)
+**发布时间**: 2025-09-26 12:12
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [华为第一「境」CEO官宣：广汽神车操盘手](https://www.qbitai.com/2025/09/337055.html)
+**发布时间**: 2025-09-26 09:02
+
+#### [北汽自主电驱技术取得重大突破，海纳川电机单转子挑战超高转速成功](https://www.qbitai.com/2025/09/337048.html)
+**发布时间**: 2025-09-26 08:25
+
+#### [马斯克新模型背后算法来自英伟达？？？](https://www.qbitai.com/2025/09/336980.html)
+**发布时间**: 2025-09-26 08:21
+
+#### [独家合作通义及高通，斑马智行全球首发全模态端侧大模型实车方案](https://www.qbitai.com/2025/09/336947.html)
+**发布时间**: 2025-09-26 08:07
+
+#### [海信RGB-Mini LED双旗舰电视发布，首发售价15999元起](https://www.qbitai.com/2025/09/337080.html)
+**发布时间**: 2025-09-26 08:00
 
 ---
 
