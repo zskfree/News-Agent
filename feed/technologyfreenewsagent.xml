@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Sep 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 05:20:52 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 08:28:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>储能出海迎爆单潮！海辰储能“技术大单”领跑，招股书更新在即</title>
-      <link>https://www.tmtpost.com/7706205.html</link>
-      <description>&lt;![CDATA[储能出海迎爆单潮！海辰储能“技术大单”领跑，招股书更新在即]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7706205.html</guid>
+      <title>XTransfer发布自研外贸金融大模型TradePilot 2.0，技术架构全面升级</title>
+      <link>https://www.infoq.cn/article/p4KZuF7DxwslejJeKDa8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[XTransfer发布自研外贸金融大模型TradePilot 2.0，技术架构全面升级]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/p4KZuF7DxwslejJeKDa8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里ASI时代下，首个影像智算一体机发布</title>
-      <link>https://www.tmtpost.com/7707019.html</link>
-      <description>&lt;![CDATA[阿里ASI时代下，首个影像智算一体机发布]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7707019.html</guid>
+      <title>曙光网络发布新一代工业边缘 AI 计算平台：以智控一体解锁工业大模型边缘落地</title>
+      <link>https://www.infoq.cn/article/NcEofSRALjIDurz5j4g4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[曙光网络发布新一代工业边缘 AI 计算平台：以智控一体解锁工业大模型边缘落地]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NcEofSRALjIDurz5j4g4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>基于开源技术打造一个时间序列数据库：用Apache Arrow和Rust重构InfluxDB 3</title>
-      <link>https://www.infoq.cn/article/EYGQCy1sML4FlBpby8ju?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[基于开源技术打造一个时间序列数据库：用Apache Arrow和Rust重构InfluxDB 3]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EYGQCy1sML4FlBpby8ju?utm_source=rss&amp;utm_medium=article</guid>
+      <title>亚马逊云科技将LocalStack集成到VSCode的Toolkit中，提升无服务器开发效率</title>
+      <link>https://www.infoq.cn/article/2tc4jbFLFsDy1x0JjIpA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技将LocalStack集成到VSCode的Toolkit中，提升无服务器开发效率]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2tc4jbFLFsDy1x0JjIpA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：高通发布多款全新 SoC、小米发布多款新品等</title>
-      <link>https://sspai.com/post/102775</link>
-      <description>&lt;![CDATA[派早报：高通发布多款全新 SoC、小米发布多款新品等]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102775</guid>
+      <title>中国浮空发电破局，技术碾压美国登顶全球第一</title>
+      <link>http://www.huxiu.com/article/4785256.html?f=wangzhan</link>
+      <description>&lt;![CDATA[中国浮空发电破局，技术碾压美国登顶全球第一]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4785256.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米 17 系列发布，4499 起；追觅「库里南」图片曝光；YU7 Max 成「百万最速」车</title>
-      <link>http://www.geekpark.net/news/354476</link>
-      <description>&lt;![CDATA[小米 17 系列发布，4499 起；追觅「库里南」图片曝光；YU7 Max 成「百万最速」车]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/354476</guid>
+      <title>阶跃星辰语音模型负责人杨学锐确认出席QCon上海，分享从语音表征到模型架构的端到端语音模型实践</title>
+      <link>https://www.infoq.cn/article/kTKyzx7IJZSUKtRNISCf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阶跃星辰语音模型负责人杨学锐确认出席QCon上海，分享从语音表征到模型架构的端到端语音模型实践]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kTKyzx7IJZSUKtRNISCf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用</title>
-      <link>http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html</link>
-      <description>&lt;![CDATA[科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 00:08:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html</guid>
+      <title>Agent+Code，打开AI开发新范式</title>
+      <link>https://www.infoq.cn/article/PpPT38RyuPxR7uqvbe2F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent+Code，打开AI开发新范式]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PpPT38RyuPxR7uqvbe2F?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI劳动力冲击招聘平台根基，BOSS直聘终要转型？ | 巴伦精选</title>
-      <link>https://www.tmtpost.com/7707401.html</link>
-      <description>&lt;![CDATA[AI劳动力冲击招聘平台根基，BOSS直聘终要转型？ | 巴伦精选]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7707401.html</guid>
+      <title>找人不求人？Lessie 让「人脉玄学」变成算法游戏｜AI 上新</title>
+      <link>http://www.geekpark.net/news/354516</link>
+      <description>&lt;![CDATA[找人不求人？Lessie 让「人脉玄学」变成算法游戏｜AI 上新]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354516</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Figure Secures $1 Billion in Series C Funding with $39 Billion Valuation</title>
-      <link>https://www.tmtpost.com/7707433.html</link>
-      <description>&lt;![CDATA[Figure Secures $1 Billion in Series C Funding with $39 Billion Valuation]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7707433.html</guid>
+      <title>Duolingo Expands in China with New Features, Eyes Next Wave of Growth</title>
+      <link>https://www.tmtpost.com/7707729.html</link>
+      <description>&lt;![CDATA[Duolingo Expands in China with New Features, Eyes Next Wave of Growth]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7707729.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Voodoo又一爆款案例：玩法不变，30天IAP收入暴涨137%，怎么做的？</title>
-      <link>https://www.tmtpost.com/7707094.html</link>
-      <description>&lt;![CDATA[Voodoo又一爆款案例：玩法不变，30天IAP收入暴涨137%，怎么做的？]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7707094.html</guid>
+      <title>TGS首曝，卖出1亿销量的超级IP，腾讯还是忘不了TA？</title>
+      <link>https://www.tmtpost.com/7707082.html</link>
+      <description>&lt;![CDATA[TGS首曝，卖出1亿销量的超级IP，腾讯还是忘不了TA？]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7707082.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>做副业的年轻人破防了：卖盗版课赚2元，被索赔5万元</title>
-      <link>https://www.tmtpost.com/7706571.html</link>
-      <description>&lt;![CDATA[做副业的年轻人破防了：卖盗版课赚2元，被索赔5万元]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7706571.html</guid>
+      <title>「叔圈天菜」比音勒芬，疯狂攻略年轻人</title>
+      <link>https://www.tmtpost.com/7707191.html</link>
+      <description>&lt;![CDATA[「叔圈天菜」比音勒芬，疯狂攻略年轻人]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7707191.html</guid>
       <category>Technology</category>
     </item>
   </channel>

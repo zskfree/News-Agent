@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Sep 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 05:20:03 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 08:27:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>京东物流发布“超脑大模型2.0”和“异狼”，加速构建“人工智能+”应用生态圈</title>
-      <link>https://www.qbitai.com/2025/09/336656.html</link>
-      <description>&lt;![CDATA[京东物流发布“超脑大模型2.0”和“异狼”，加速构建“人工智能+”应用生态圈]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 04:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336656.html</guid>
+      <title>地平线募资58亿杀入Robotaxi</title>
+      <link>https://www.qbitai.com/2025/09/336914.html</link>
+      <description>&lt;![CDATA[地平线募资58亿杀入Robotaxi]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 06:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336914.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective</title>
-      <link>https://arxiv.org/abs/2509.21134</link>
-      <description>&lt;![CDATA[ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.21134</guid>
+      <title>谁是最强“打工AI”？OpenAI亲自测试，结果第一不是自己</title>
+      <link>https://www.qbitai.com/2025/09/336858.html</link>
+      <description>&lt;![CDATA[谁是最强“打工AI”？OpenAI亲自测试，结果第一不是自己]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336858.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant</title>
-      <link>https://arxiv.org/abs/2509.20369</link>
-      <description>&lt;![CDATA[AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20369</guid>
+      <title>“零人”搞医学研究：清华AI智能体从灵感到论文全程自主</title>
+      <link>https://www.qbitai.com/2025/09/336867.html</link>
+      <description>&lt;![CDATA[“零人”搞医学研究：清华AI智能体从灵感到论文全程自主]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336867.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>缺数据也能拿SOTA？清华&amp;上海AI Lab破解机器人RL两大瓶颈</title>
-      <link>https://www.qbitai.com/2025/09/336588.html</link>
-      <description>&lt;![CDATA[缺数据也能拿SOTA？清华&amp;上海AI Lab破解机器人RL两大瓶颈]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 02:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336588.html</guid>
+      <title>多模态推理最高加速3.2倍！华为诺亚新算法入选NeurIPS 2025</title>
+      <link>https://www.qbitai.com/2025/09/336851.html</link>
+      <description>&lt;![CDATA[多模态推理最高加速3.2倍！华为诺亚新算法入选NeurIPS 2025]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 06:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336851.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>超10万亿Tokens的高质量数据集是怎么炼成的？专访中国电信天翼AI阮宜龙</title>
-      <link>https://www.qbitai.com/2025/09/336479.html</link>
-      <description>&lt;![CDATA[超10万亿Tokens的高质量数据集是怎么炼成的？专访中国电信天翼AI阮宜龙]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 02:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336479.html</guid>
+      <title>OpenAI两位首席最新采访信息量好大！终极目标是“自动化研究员”，招人并非寻找“最出圈”的人</title>
+      <link>https://www.qbitai.com/2025/09/336764.html</link>
+      <description>&lt;![CDATA[OpenAI两位首席最新采访信息量好大！终极目标是“自动化研究员”，招人并非寻找“最出圈”的人]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 05:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336764.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ChatGPT新功能，抢占你早上第一个打开的App</title>
-      <link>https://www.qbitai.com/2025/09/336478.html</link>
-      <description>&lt;![CDATA[ChatGPT新功能，抢占你早上第一个打开的App]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 02:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336478.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能</title>
-      <link>https://www.qbitai.com/2025/09/336421.html</link>
-      <description>&lt;![CDATA[你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 01:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336421.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature</title>
-      <link>https://arxiv.org/abs/2509.20493</link>
-      <description>&lt;![CDATA[InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20493</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems</title>
-      <link>https://arxiv.org/abs/2509.20513</link>
-      <description>&lt;![CDATA[Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20513</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI</title>
-      <link>https://arxiv.org/abs/2509.20640</link>
-      <description>&lt;![CDATA[Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI]]&gt;</description>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.20640</guid>
+      <title>顶级学术会议MICCAI最高奖项披露，华人科学家首次获奖！</title>
+      <link>https://www.qbitai.com/2025/09/336756.html</link>
+      <description>&lt;![CDATA[顶级学术会议MICCAI最高奖项披露，华人科学家首次获奖！]]&gt;</description>
+      <pubDate>Fri, 26 Sep 2025 05:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/336756.html</guid>
       <category>AI</category>
     </item>
   </channel>
