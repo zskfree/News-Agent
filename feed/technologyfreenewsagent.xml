@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Sep 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2025 08:23:13 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2025 23:18:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国的“气电迷思”：新能源第一大国能否绕过“最清洁”的化石燃料</title>
-      <link>https://www.tmtpost.com/7708538.html</link>
-      <description>&lt;![CDATA[中国的“气电迷思”：新能源第一大国能否绕过“最清洁”的化石燃料]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7708538.html</guid>
+      <title>自动驾驶进入大模型时代，主机厂寻找「联合创始人」</title>
+      <link>http://www.geekpark.net/news/354555</link>
+      <description>&lt;![CDATA[自动驾驶进入大模型时代，主机厂寻找「联合创始人」]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 22:51:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354555</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「一页纸」讲透美股公司之：Duolingo，学习的外衣，游戏的内核</title>
-      <link>https://www.tmtpost.com/7708304.html</link>
-      <description>&lt;![CDATA[「一页纸」讲透美股公司之：Duolingo，学习的外衣，游戏的内核]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7708304.html</guid>
+      <title>银行杀入科创债战场，抢先切分2600亿增量蛋糕 | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7708649.html</link>
+      <description>&lt;![CDATA[银行杀入科创债战场，抢先切分2600亿增量蛋糕 | 巴伦精选]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 21:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7708649.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Raleigh One e-bike review: redemption tour</title>
-      <link>https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco</link>
-      <description>&lt;![CDATA[Raleigh One e-bike review: redemption tour]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco</guid>
+      <title>多晶硅连涨三个月后，去产能的“大杀招”终于出现</title>
+      <link>https://www.tmtpost.com/7708537.html</link>
+      <description>&lt;![CDATA[多晶硅连涨三个月后，去产能的“大杀招”终于出现]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7708537.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>反光、曲面、微米痕：AI如何打赢汽车质检这场硬仗？｜产业链观察</title>
+      <link>https://www.tmtpost.com/7703705.html</link>
+      <description>&lt;![CDATA[反光、曲面、微米痕：AI如何打赢汽车质检这场硬仗？｜产业链观察]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7703705.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>无人配送迈过“万台门槛”，新石器的考题才刚开始</title>
+      <link>https://www.tmtpost.com/7708578.html</link>
+      <description>&lt;![CDATA[无人配送迈过“万台门槛”，新石器的考题才刚开始]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 17:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7708578.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>禾赛的未来，在于让“机器觉醒”</title>
+      <link>https://www.tmtpost.com/7708256.html</link>
+      <description>&lt;![CDATA[禾赛的未来，在于让“机器觉醒”]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7708256.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>华盛顿正在搅动医疗行业，圆桌专家看好的16只有望胜出的股票</title>
+      <link>https://www.tmtpost.com/7708569.html</link>
+      <description>&lt;![CDATA[华盛顿正在搅动医疗行业，圆桌专家看好的16只有望胜出的股票]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7708569.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record</title>
+      <link>https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record</link>
+      <description>&lt;![CDATA[Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 21:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week</title>
+      <link>https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale</link>
+      <description>&lt;![CDATA[Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The strangest game of the year is a channel-surfing simulator</title>
+      <link>https://www.theverge.com/games/785848/blippo-plus-review-switch-steam</link>
+      <description>&lt;![CDATA[The strangest game of the year is a channel-surfing simulator]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/785848/blippo-plus-review-switch-steam</guid>
       <category>Technology</category>
     </item>
   </channel>

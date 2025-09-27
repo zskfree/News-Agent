@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-27 08:23
+**最后更新时间**: 2025-09-27 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-27 23:17)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [自动驾驶进入大模型时代，主机厂寻找「联合创始人」](http://www.geekpark.net/news/354555)
+**发布时间**: 2025-09-27 22:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行杀入科创债战场，抢先切分2600亿增量蛋糕 | 巴伦精选](https://www.tmtpost.com/7708649.html)
+**发布时间**: 2025-09-27 21:38
+
+#### [多晶硅连涨三个月后，去产能的“大杀招”终于出现](https://www.tmtpost.com/7708537.html)
+**发布时间**: 2025-09-27 18:00
+
+#### [反光、曲面、微米痕：AI如何打赢汽车质检这场硬仗？｜产业链观察](https://www.tmtpost.com/7703705.html)
+**发布时间**: 2025-09-27 17:49
+
+#### [无人配送迈过“万台门槛”，新石器的考题才刚开始](https://www.tmtpost.com/7708578.html)
+**发布时间**: 2025-09-27 17:40
+
+#### [禾赛的未来，在于让“机器觉醒”](https://www.tmtpost.com/7708256.html)
+**发布时间**: 2025-09-27 16:21
+
+#### [华盛顿正在搅动医疗行业，圆桌专家看好的16只有望胜出的股票](https://www.tmtpost.com/7708569.html)
+**发布时间**: 2025-09-27 09:45
+
+#### [华尔街担心市场泡沫，如何应对泡沫行情？](https://www.tmtpost.com/7708571.html)
+**发布时间**: 2025-09-27 08:08
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record)
+**发布时间**: 2025-09-27 21:27
+
+#### [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale)
+**发布时间**: 2025-09-27 16:09
+
+#### [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam)
+**发布时间**: 2025-09-27 13:00
+
+#### [Can Google be trusted without a break up?](https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust)
+**发布时间**: 2025-09-27 13:00
+
+#### [When this EV maker collapsed, its customers became the car company](https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall)
+**发布时间**: 2025-09-27 12:00
+
+#### [What to expect from Amazon’s big fall hardware event on Tuesday](https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle)
+**发布时间**: 2025-09-27 12:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Factor Protein Plus Meals Review (2025): Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)
+**发布时间**: 2025-09-27 21:09
+
+#### [The Best Body Pillow, Tested and Reviewed (2025)](https://www.wired.com/gallery/best-body-pillow/)
+**发布时间**: 2025-09-27 14:32
+
+#### [An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead](https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/)
+**发布时间**: 2025-09-27 14:25
+
+#### [Ultrahuman Home Review: Overpriced and Underbaked](https://www.wired.com/review/ultrahuman-home/)
+**发布时间**: 2025-09-27 14:00
+
+#### [Samsung Galaxy Buds3 FE Review: Better AirPods for Android](https://www.wired.com/review/samsung-galaxy-buds3-fe/)
+**发布时间**: 2025-09-27 13:33
+
+#### [Lenovo Legion 7i Gen 10 Review: An All-White Wonder](https://www.wired.com/review/lenovo-legion-7i-gen-10/)
+**发布时间**: 2025-09-27 13:00
+
+#### [Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers](https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/)
+**发布时间**: 2025-09-27 12:00
+
+#### [Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)](https://www.wired.com/gallery/best-stand-mixer/)
+**发布时间**: 2025-09-27 11:33
+
+#### [The LA Fires Spewed Out Toxic Nanoparticles. He Made It His Mission to Trace Them](https://www.wired.com/story/the-la-fires-spewed-out-toxic-nanoparticles-he-made-it-his-mission-to-trace-them/)
+**发布时间**: 2025-09-27 11:00
+
+#### [The 24 Best Movies on Amazon Prime Right Now (October 2025)](https://www.wired.com/story/best-amazon-prime-movies/)
+**发布时间**: 2025-09-27 11:00
+
+#### [Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV](https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/)
+**发布时间**: 2025-09-27 10:30
+
+#### [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)
+**发布时间**: 2025-09-27 10:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [超越黄金只是开始？比特币的终局是星际通用货币](http://www.huxiu.com/article/4785599.html?f=wangzhan)
+**发布时间**: 2025-09-27 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
+**发布时间**: 2025-09-27 15:39
 
 ---
 
