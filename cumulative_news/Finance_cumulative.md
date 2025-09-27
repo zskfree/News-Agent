@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-26 23:17
+**最后更新时间**: 2025-09-27 05:23
+
+---
+
+## 🆕 最新更新 (2025-09-27 05:23)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Trump wants to help Argentina despite his ‘America First’ agenda](https://www.marketwatch.com/bulletins/redirect/go?g=f6a660d3-6611-4fdc-9478-04a6e2725a35&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-27 00:23
+
+#### [Why a bill tweaking Social Security's retirement-age language misses the point](https://www.marketwatch.com/bulletins/redirect/go?g=bfa81bbb-1515-448e-a796-79cd6348a18b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 23:27
 
 ---
 
