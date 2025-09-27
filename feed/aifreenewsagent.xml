@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Sep 2025 05:17:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2025 05:23:05 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 08:22:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2025 08:23:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型“精细化”对齐，真实性提升25.8%刷新SOTA！token级精准编辑，无需训练即插即用</title>
-      <link>https://www.qbitai.com/2025/09/337231.html</link>
-      <description>&lt;![CDATA[大模型“精细化”对齐，真实性提升25.8%刷新SOTA！token级精准编辑，无需训练即插即用]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 04:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337231.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>首款推理具身模型，谷歌DeepMind造！自主理解/规划/执行复杂任务，打破一机一训，还能互相0样本迁移技能</title>
-      <link>https://www.qbitai.com/2025/09/337202.html</link>
-      <description>&lt;![CDATA[首款推理具身模型，谷歌DeepMind造！自主理解/规划/执行复杂任务，打破一机一训，还能互相0样本迁移技能]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 04:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337202.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>首个开源实现100%可复现的稳定RL训练框架来了！2次结果完全重合</title>
-      <link>https://www.qbitai.com/2025/09/337185.html</link>
-      <description>&lt;![CDATA[首个开源实现100%可复现的稳定RL训练框架来了！2次结果完全重合]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 03:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337185.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>实测Kimi全新Agent模型「OK Computer」，很OK</title>
-      <link>https://www.qbitai.com/2025/09/337099.html</link>
-      <description>&lt;![CDATA[实测Kimi全新Agent模型「OK Computer」，很OK]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 03:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337099.html</guid>
+      <title>暴走东京电玩展，Game Show也AI上了</title>
+      <link>https://www.qbitai.com/2025/09/337317.html</link>
+      <description>&lt;![CDATA[暴走东京电玩展，Game Show也AI上了]]&gt;</description>
+      <pubDate>Sat, 27 Sep 2025 07:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337317.html</guid>
       <category>AI</category>
     </item>
   </channel>
