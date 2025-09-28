@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Sep 2025 08:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2025 08:23:13 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Sep 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Sep 2025 05:18:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>暴走东京电玩展，Game Show也AI上了</title>
-      <link>https://www.qbitai.com/2025/09/337317.html</link>
-      <description>&lt;![CDATA[暴走东京电玩展，Game Show也AI上了]]&gt;</description>
-      <pubDate>Sat, 27 Sep 2025 07:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337317.html</guid>
+      <title>DeepMind率先提出CoF：视频模型有自己的思维链</title>
+      <link>https://www.qbitai.com/2025/09/337513.html</link>
+      <description>&lt;![CDATA[DeepMind率先提出CoF：视频模型有自己的思维链]]&gt;</description>
+      <pubDate>Sun, 28 Sep 2025 03:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337513.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI教练GameSkill，首次助力职业战队备战国际电竞赛事</title>
+      <link>https://www.qbitai.com/2025/09/337505.html</link>
+      <description>&lt;![CDATA[AI教练GameSkill，首次助力职业战队备战国际电竞赛事]]&gt;</description>
+      <pubDate>Sun, 28 Sep 2025 03:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337505.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Robotaxi「眼睛」革命：三次激光雷达换代潮，无人车从0走向100000</title>
+      <link>https://www.qbitai.com/2025/09/337411.html</link>
+      <description>&lt;![CDATA[Robotaxi「眼睛」革命：三次激光雷达换代潮，无人车从0走向100000]]&gt;</description>
+      <pubDate>Sun, 28 Sep 2025 02:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337411.html</guid>
       <category>AI</category>
     </item>
   </channel>

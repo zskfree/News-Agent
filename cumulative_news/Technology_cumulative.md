@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-27 23:17
+**最后更新时间**: 2025-09-28 05:18
+
+---
+
+## 🆕 最新更新 (2025-09-28 05:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Coding 全新范式：NES 模型的推理、训练与评测实践｜QCon 上海](https://www.infoq.cn/article/9oHeidTYi95kLbG5hMyb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 13:00
+
+#### [Datadog发布统一的基于Rust的实时度量指标引擎Monocle](https://www.infoq.cn/article/C3Du3qqBUbxSWmjuaFII?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 10:30
+
+#### [字节跳动多媒体实验室联合 ISCAS 举办第五届神经网络视频编码竞赛](https://www.infoq.cn/article/sx0uUzG8RLJaNAV4R5QY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 09:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [24.98万的理想i6，在特斯拉、小米、蔚来「后院」放了一把火](http://www.geekpark.net/news/354593)
+**发布时间**: 2025-09-28 11:53
+
+#### [小米 17 开售 5 分钟，破国产机销售纪录；Meta 研发机器人项目；国内发布「脑机接口标准」](http://www.geekpark.net/news/354556)
+**发布时间**: 2025-09-28 08:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Why Robots Fail in the Real World: Cambridge Professor Advocates Team-Based Intelligence](https://www.tmtpost.com/7708877.html)
+**发布时间**: 2025-09-28 11:46
+
+#### [游戏巨头艺电或被近500亿美元私有化，将成全球最大规模杠杆收购 | 巴伦精选](https://www.tmtpost.com/7708875.html)
+**发布时间**: 2025-09-28 11:42
+
+#### [“国民女神”全智贤塌房，“限韩令”该升级了？](https://www.tmtpost.com/7708516.html)
+**发布时间**: 2025-09-28 11:38
+
+#### [AI-Driven Transformation of China's Travel Market as 'Super Golden Week' Appraoch](https://www.tmtpost.com/7708787.html)
+**发布时间**: 2025-09-28 10:28
+
+#### [起底中国演唱会主办江湖：核心壁垒到底是什么？](https://www.tmtpost.com/7708519.html)
+**发布时间**: 2025-09-28 09:23
+
+#### [无人配送车市场刚爆发，就卷成了红海？](https://www.tmtpost.com/7705961.html)
+**发布时间**: 2025-09-28 08:41
+
+#### [谷歌“香蕉”爆火启示：国产垂类AI的危机还是转机？](https://www.tmtpost.com/7708479.html)
+**发布时间**: 2025-09-28 08:02
+
+#### [【钛晨报】央行例会最新定调：抓好政策执行，加力支持小微、外贸等；开源鸿蒙新进展：未来可支持全尺寸类人型机器人；零跑汽车回应成失信被执行人](https://www.tmtpost.com/7708573.html)
+**发布时间**: 2025-09-28 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [主干已成、枝叶未盛：从微信适配看鸿蒙 NEXT 生态](https://sspai.com/post/102590)
+**发布时间**: 2025-09-28 11:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [给对手打广告？转转这波“自杀式营销”，其实是顶级阳谋](http://www.huxiu.com/article/4785617.html?f=wangzhan)
+**发布时间**: 2025-09-28 11:26
 
 ---
 
