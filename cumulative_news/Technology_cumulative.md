@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-28 05:18
+**最后更新时间**: 2025-09-28 08:23
+
+---
+
+## 🆕 最新更新 (2025-09-28 08:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [小米大家电进军欧洲；美团Keeta将在迪拜上线；泡泡玛特美国网站访问量翻番 ｜一周大公司出海动态](https://www.tmtpost.com/7708953.html)
+**发布时间**: 2025-09-28 16:03
+
+#### [爆品之后，如何长红？中国出海品牌的长效增长之路 ｜ 出海参考](https://www.tmtpost.com/7708850.html)
+**发布时间**: 2025-09-28 15:51
+
+#### [Electronic Arts Nears World's Largest Leveraged Buyout in $48 Billion Deal](https://www.tmtpost.com/7709085.html)
+**发布时间**: 2025-09-28 15:32
+
+#### [宜家，走进了低价“误区”](https://www.tmtpost.com/7708802.html)
+**发布时间**: 2025-09-28 15:30
+
+#### [「一页纸」讲透美股公司之：Broadcom](https://www.tmtpost.com/7708684.html)
+**发布时间**: 2025-09-28 14:13
+
+#### [中康科技“天宫一号健康产业AI应用能力中枢”发布，以卓越医学理解力重塑行业格局](https://www.tmtpost.com/7708946.html)
+**发布时间**: 2025-09-28 14:07
+
+#### [万辰集团赴港IPO，零食巨头“好想来”的下一站驶向IP经济？](https://www.tmtpost.com/7708611.html)
+**发布时间**: 2025-09-28 14:03
+
+#### [琻捷电子：三年半合计亏损超10亿，经营现金流失血4.65亿，现金储备告急｜IPO观察](https://www.tmtpost.com/7701714.html)
+**发布时间**: 2025-09-28 13:48
+
+#### [永大股份：压力容器撑99%业绩，核心客户订单骤减与募投争议成待解难题｜IPO观察](https://www.tmtpost.com/7701732.html)
+**发布时间**: 2025-09-28 13:46
+
+#### [新元素：关键节点股东零价差转让股权，公司持续亏损｜IPO观察](https://www.tmtpost.com/7703586.html)
+**发布时间**: 2025-09-28 13:45
+
+#### [名酒价格微涨难掩“旺季不旺”，“双节”后白酒行情仍承压｜行业风向标](https://www.tmtpost.com/7708796.html)
+**发布时间**: 2025-09-28 13:43
+
+#### [AI-Driven Transformation of China's Travel Market as 'Super Golden Week' Approach](https://www.tmtpost.com/7708787.html)
+**发布时间**: 2025-09-28 10:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Redis 到 Valkey：开源社区的力量和未来 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/QxDS3cBlbKbK2Kk9STYX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 15:43
+
+#### [揭晓腾讯云Redis水平扩缩容如丝般顺滑的秘密：slot原子化搬迁 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/GpCV3KH5Y0ev7zC5bbtp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 15:31
+
+#### [实战指南：Redis 三大客户端框架宕机后的快速恢复策略 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/KafBBz3lttIVr9bboY3z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 15:24
+
+#### [Gitpod更名为Ona，旨在成为人工智能驱动的软件开发中心](https://www.infoq.cn/article/blOhJfs8ItIXzmWixAXD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 14:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [迪拜华人开车完全指南](http://www.huxiu.com/article/4786318.html?f=wangzhan)
+**发布时间**: 2025-09-28 14:35
+
+#### [高速遭遇行人，理想的主动安全能力又进化了？](http://www.huxiu.com/article/4785864.html?f=wangzhan)
+**发布时间**: 2025-09-28 14:00
+
+#### [不与特斯拉对标、却和奔驰奥迪对比，尚界H5要进行降维打击？](http://www.huxiu.com/article/4786136.html?f=wangzhan)
+**发布时间**: 2025-09-28 12:50
 
 ---
 
