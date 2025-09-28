@@ -1,7 +1,159 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-28 08:23
+**最后更新时间**: 2025-09-28 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-28 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [慕思X鸿蒙智选联合发布智能床新品；FILA发布品牌网球战略并官宣小布；甜啦啦联名《茶啊二中》｜消研所周报](https://www.tmtpost.com/7708906.html)
+**发布时间**: 2025-09-28 23:44
+
+#### [地平线配股融资58亿港元，加码Robotaxi与全球化布局](https://www.tmtpost.com/7709366.html)
+**发布时间**: 2025-09-28 23:43
+
+#### [3000亿天价算力协议背后：OpenAI的“资本大戏”与AGI的泡沫边界](https://www.tmtpost.com/7709197.html)
+**发布时间**: 2025-09-28 22:29
+
+#### [高德拿了谷歌剧本，餐饮商家想当主角](https://www.tmtpost.com/7709188.html)
+**发布时间**: 2025-09-28 22:29
+
+#### [两大千亿能源巨头筹划重组，河南能源格局15年后再重构](https://www.tmtpost.com/7708632.html)
+**发布时间**: 2025-09-28 22:26
+
+#### [先进封装中介层，正在起变化](https://www.tmtpost.com/7709231.html)
+**发布时间**: 2025-09-28 22:25
+
+#### [二手江湖变天：转转退场，小红书补位，闲鱼守城](https://www.tmtpost.com/7709025.html)
+**发布时间**: 2025-09-28 22:25
+
+#### [地图成了本地生活的“萨拉热窝”](https://www.tmtpost.com/7709216.html)
+**发布时间**: 2025-09-28 22:25
+
+#### [全面对标苹果，雷军的自卑与自信](https://www.tmtpost.com/7709184.html)
+**发布时间**: 2025-09-28 22:25
+
+#### [药明康德还能“超预期”多久？](https://www.tmtpost.com/7709181.html)
+**发布时间**: 2025-09-28 22:25
+
+#### [上市15年首并购，银河磁体拟全资收购京都龙泰寻新增长点 | 并购一线](https://www.tmtpost.com/7709306.html)
+**发布时间**: 2025-09-28 21:14
+
+#### [“十一”长假将至，抖音推出新政加码酒旅业 | 巴伦精选](https://www.tmtpost.com/7709238.html)
+**发布时间**: 2025-09-28 18:49
+
+#### [藏在华强北深处的“奢侈品帝国”](https://www.tmtpost.com/7708921.html)
+**发布时间**: 2025-09-28 18:30
+
+#### [盒马不吃回头草](https://www.tmtpost.com/7709078.html)
+**发布时间**: 2025-09-28 18:01
+
+#### [NIPT下滑超30%，两大龙头如何突围](https://www.tmtpost.com/7708873.html)
+**发布时间**: 2025-09-28 18:00
+
+#### [谁在为AI的狂欢埋单？](https://www.tmtpost.com/7708854.html)
+**发布时间**: 2025-09-28 17:20
+
+#### [主打“现做”的路边摊也越来越贵了](https://www.tmtpost.com/7708747.html)
+**发布时间**: 2025-09-28 17:00
+
+#### [被低估的传感器市场，潜力显现](https://www.tmtpost.com/7708740.html)
+**发布时间**: 2025-09-28 17:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [云与AI，如何托举 Z 世代的创新野心](http://www.geekpark.net/news/354628)
+**发布时间**: 2025-09-28 22:15
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)
+**发布时间**: 2025-09-28 21:01
+
+#### [Larry Ellison’s quest to run the world](https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world)
+**发布时间**: 2025-09-28 19:32
+
+#### [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy)
+**发布时间**: 2025-09-28 15:44
+
+#### [I spent three months with Telly, the free TV that&#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)
+**发布时间**: 2025-09-28 13:00
+
+#### [Good news: TechWoven is fine](https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro)
+**发布时间**: 2025-09-28 13:00
+
+#### [How the voice of Silksong&#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish)
+**发布时间**: 2025-09-28 12:30
+
+#### [How generative AI boosters are trying to break into Hollywood](https://www.theverge.com/column/785975/hollywood-ai-stepback)
+**发布时间**: 2025-09-28 12:00
+
+#### [I need a life cool enough for the new GoPro](https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer)
+**发布时间**: 2025-09-28 12:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2025人工智能计算大会：超节点智算应用“北京方案”发布，智能体时代的算力底座正在成型](https://www.infoq.cn/article/6CyNDMIotzqHyY6l3YL0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 20:28
+
+#### [华为算力“公共事业”：“超节点+全栈开源”如何撬动AI未来？](https://www.infoq.cn/article/GJh7Qy46ITF76NfIu9TX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 19:23
+
+#### [有奖问卷！Data+AI / 出海从业者，让 Snowflake 听见你的需求](https://www.infoq.cn/article/yRmvlDdZXbydITams4xh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 18:54
+
+#### [用 AI 重塑电商，京东零售发布电商创新 AI 架构体系 Oxygen](https://www.infoq.cn/article/Zg0xSIocswc4Br74V3y8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 18:50
+
+#### [具身智能落地物流行业的最大难题，被京东物流撕开一道裂缝](https://www.infoq.cn/article/H9Rct10Di1P5emVJvKcN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-28 16:23
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [失眠速来，关于5分钟内入睡的几个方法](http://www.huxiu.com/article/4783418.html?f=wangzhan)
+**发布时间**: 2025-09-28 20:00
+
+#### [儿童套餐竟成后妈严选？黑公关单图爆杀西贝](http://www.huxiu.com/article/4786079.html?f=wangzhan)
+**发布时间**: 2025-09-28 19:00
+
+#### [在直播如此火爆的今天，为什么明星们不敢搞线上演唱会直播？](http://www.huxiu.com/article/4785866.html?f=wangzhan)
+**发布时间**: 2025-09-28 19:00
+
+#### [威马“复活”归来，老车主的信任还在吗？](http://www.huxiu.com/article/4786323.html?f=wangzhan)
+**发布时间**: 2025-09-28 15:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [三款机型齐更新，各种需求都好挑：新款 Apple Watch 选购指南](https://sspai.com/post/102803)
+**发布时间**: 2025-09-28 16:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How to Choose the Right Gaming Laptop (2025): What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
+**发布时间**: 2025-09-28 15:00
+
+#### [How a Travel YouTuber Captured Nepal’s Revolution for the World](https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/)
+**发布时间**: 2025-09-28 14:40
+
+#### [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
+**发布时间**: 2025-09-28 14:02
+
+#### [Proton Pass Review (2025): Finally Standing Tall](https://www.wired.com/review/proton-pass-2025/)
+**发布时间**: 2025-09-28 12:00
+
+#### [Keep Your Old Laptop Alive by Installing ChromeOS Flex](https://www.wired.com/story/how-to-install-chromeos-flex/)
+**发布时间**: 2025-09-28 11:30
+
+#### [3 Years Later, Playdate Is Still Gaming’s Best-Kept Secret](https://www.wired.com/story/three-years-on-playdate-is-still-gamings-best-kept-secret/)
+**发布时间**: 2025-09-28 11:00
+
+#### [What Is Thirst?](https://www.wired.com/story/what-does-it-mean-to-be-thirsty/)
+**发布时间**: 2025-09-28 11:00
+
+#### [20 Best iPhone 17 Cases and Accessories (2025)](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
+**发布时间**: 2025-09-28 10:00
 
 ---
 

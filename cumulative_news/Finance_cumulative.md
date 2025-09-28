@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-27 23:17
+**最后更新时间**: 2025-09-28 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-28 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures little changed as investors eye possible government shutdown](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 23:10
+
+#### [Tesla is about to show a snapshot of its global sales. Is recent optimism deserved?](https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 19:54
+
+#### [The last thing the stock market wants right now is a government shutdown. Here’s why.](https://www.marketwatch.com/story/the-last-thing-the-stock-market-wants-right-now-is-a-government-shutdown-heres-why-7bac216e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 19:42
+
+#### [‘He can’t afford payments to the IRS’: My friend’s $19,000 loan was written off. The IRS charged him $3,000. What can he do?](https://www.marketwatch.com/story/my-brother-in-laws-19-000-truck-loan-was-written-off-but-the-irs-charged-him-3-300-in-taxes-this-seems-unfair-f09f6d6c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 19:22
+
+#### [My wife and I are in our 40s. We have a $600K mortgage and $500K income. Can we afford a vacation home?](https://www.marketwatch.com/story/my-wife-and-i-are-in-our-40s-we-have-a-600k-mortgage-and-500k-annual-income-can-we-afford-a-vacation-home-d4b3c479?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 16:22
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures little changed as investors eye possible government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=294ae586-1e7f-45ef-88f4-4db23e66e5b9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-28 22:21
+
+#### [The AI hype is starting to fade on Wall Street. What investors need to know.](https://www.marketwatch.com/bulletins/redirect/go?g=fad4f1a5-c335-4c46-9e7c-3aecf1653262&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-28 20:01
 
 ---
 
