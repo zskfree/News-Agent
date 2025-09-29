@@ -8298,129 +8298,27 @@
         "link": "https://arxiv.org/abs/2509.22516",
         "published_date": "Mon, 29 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-29T05:20:57.108171"
+      },
+      "22f359fcf0a25c037eeff06cbf52885c23059fef07f809977032f2dc657a333b": {
+        "title": "机器人感知大升级！轻量化注入几何先验，成功率提升31%",
+        "link": "https://www.qbitai.com/2025/09/338259.html",
+        "published_date": "Mon, 29 Sep 2025 06:15:00 GMT",
+        "first_seen": "2025-09-29T08:29:51.898938"
+      },
+      "a7c33106cf9c94e2774b61cde1ec6fd6dbe8212ae7730d1ebf8565b005fc786c": {
+        "title": "Flash Attention作者最新播客：英伟达GPU统治三年内将终结",
+        "link": "https://www.qbitai.com/2025/09/338251.html",
+        "published_date": "Mon, 29 Sep 2025 06:03:00 GMT",
+        "first_seen": "2025-09-29T08:29:51.899108"
+      },
+      "f835d1693e1806dd1ced11a192c2b98846d9adb94e61c33bd99f3eaf9ccb263e": {
+        "title": "8.9ms，推理速度新纪录！1块钱百万token，浪潮信息AI服务器加速智能体产业化",
+        "link": "https://www.qbitai.com/2025/09/338205.html",
+        "published_date": "Mon, 29 Sep 2025 05:54:00 GMT",
+        "first_seen": "2025-09-29T08:29:51.899349"
       }
     },
     "Technology": {
-      "019c5bf63e8ba57dbe5ae0fd53c701018675ba93a0571964e46d25b77ecfa147": {
-        "title": "烧钱百亿、增收16亿，阿里图什么？",
-        "link": "https://www.tmtpost.com/7677785.html",
-        "published_date": "Sat, 30 Aug 2025 12:34:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559255"
-      },
-      "8e6f5b23b2afe5e0de5f179f737e23c8716c858fb48fdd258f7b75997a94e635": {
-        "title": "七夕消费观察：理性主导下的消费共性与新趋势",
-        "link": "https://www.tmtpost.com/7677705.html",
-        "published_date": "Sat, 30 Aug 2025 12:34:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559290"
-      },
-      "41cf80e0960bae8c2ff10ee91894ff5385c86d6f331a65f80391c963d73c046c": {
-        "title": "财报交出淘宝闪购成绩单：理性竞争的胜利",
-        "link": "https://www.tmtpost.com/7677658.html",
-        "published_date": "Sat, 30 Aug 2025 12:34:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559304"
-      },
-      "1aba59c300862f4b34d30ab393b0f6e583ad07520586231613060df3b469863b": {
-        "title": "米哈游新作首曝，一个微妙的转折点",
-        "link": "https://www.tmtpost.com/7677657.html",
-        "published_date": "Sat, 30 Aug 2025 12:34:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559316"
-      },
-      "f1a17539a52c76b41c966fb74ae8fd0bff30871f990340fc6f2ab045e4c7e917": {
-        "title": "泰格医药上半年净利大跌22.22%：CXO复苏中还有尚未被照亮的地方",
-        "link": "https://www.tmtpost.com/7677541.html",
-        "published_date": "Sat, 30 Aug 2025 11:37:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559328"
-      },
-      "33851e0cfdac3ee12fe4f27ba0eeaa2cb45124b10b68675bf5d3364fd8750784": {
-        "title": "4年砸243亿营销，“999感冒灵们”难提振华润三九的利润",
-        "link": "https://www.tmtpost.com/7677437.html",
-        "published_date": "Sat, 30 Aug 2025 11:37:00 GMT",
-        "first_seen": "2025-08-30T05:22:34.235066"
-      },
-      "56bd1cb6ec7adffb54616505dd73cc5896dbe6fca77978de47beb4ec7a1940a5": {
-        "title": "狼性回归！ “迷失” 阿里，从头再来",
-        "link": "https://www.tmtpost.com/7677665.html",
-        "published_date": "Sat, 30 Aug 2025 10:04:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559341"
-      },
-      "b2605abcd2d6cd45d20d37a6ad5a2abe82682f5de497c3746877c4774cde2311": {
-        "title": "赚钱能力在线，增长承压，理想加速出牌｜钛度车库",
-        "link": "https://www.tmtpost.com/7676495.html",
-        "published_date": "Sat, 30 Aug 2025 09:23:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559353"
-      },
-      "0a697a1cb8c2908f2466144be600dcdb6910e295c9eb682a9f4db5f3c5573662": {
-        "title": "TRAE 规则（Rules）配置指南：个人习惯、团队规范与最佳实践",
-        "link": "https://www.infoq.cn/article/AOYRwbIr3jDJ5w7XDeeT?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 30 Aug 2025 10:00:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559367"
-      },
-      "670a72d989a16e99e1c733d559d24416ea26a1f88c9c88514ec93de834349cbc": {
-        "title": "谷歌云推出预览版数据安全态势管理新功能",
-        "link": "https://www.infoq.cn/article/edas2xPM0jq45DrwqjSY?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 30 Aug 2025 08:00:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559377"
-      },
-      "8fa4a99c975847af6891298afc6b60c94626a9813154c90359e9f21c07afd804": {
-        "title": "任正非王兴兴梁文锋入选「时代 AI 百人」；小米主动召回充电宝；阿里蒋凡：淘宝闪购规模+心智超预期｜极客早知道",
-        "link": "http://www.geekpark.net/news/353293",
-        "published_date": "Sat, 30 Aug 2025 09:03:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.559393"
-      },
-      "7b13f41ae6d7e36016ead6736b87267039b5f2273ae34ca626000b9146f4fa78": {
-        "title": "长城汽车的长期胜利法则：不是爆款刺激，是体系进化",
-        "link": "https://www.tmtpost.com/7677839.html",
-        "published_date": "Sat, 30 Aug 2025 15:40:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.094198"
-      },
-      "07df99a3a821fb9c6b2abd0d651ceeab3293ef8ac35d4bd7fbffec932273b7ef": {
-        "title": "集采压力下，药企如何差异化破局？",
-        "link": "https://www.tmtpost.com/7677860.html",
-        "published_date": "Sat, 30 Aug 2025 15:35:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.094340"
-      },
-      "be2a915d5ef790e650288b1391b6bdab161abaddbccf4f9cb89753eeee02a8f6": {
-        "title": "真我展示两款黑科技概念机，副总裁徐起：要用产品力兑现野心",
-        "link": "https://www.tmtpost.com/7677786.html",
-        "published_date": "Sat, 30 Aug 2025 15:21:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.094501"
-      },
-      "91aef83f20f89fe74cde9fd3f69db3b9d922916336478d7682f118d82d6d293a": {
-        "title": "阿里蒋凡首谈淘宝闪购：不能离开规模谈效率",
-        "link": "https://www.tmtpost.com/7677826.html",
-        "published_date": "Sat, 30 Aug 2025 15:14:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.094658"
-      },
-      "b1356e8bbc94c270c491fe498763ad848b5667fce1eb219709e4730ec96839d2": {
-        "title": "星巴克们为什么需要新的“中国合伙人”",
-        "link": "https://www.tmtpost.com/7676874.html",
-        "published_date": "Sat, 30 Aug 2025 14:09:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.094865"
-      },
-      "aa72a5134721b5d8274e18e27cee26b0ef66e7323cc974713486e650337f2b8d": {
-        "title": "用 Mac 打造智能化餐厅，这是海底捞给出的答案",
-        "link": "https://sspai.com/post/102160",
-        "published_date": "Sat, 30 Aug 2025 15:00:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.095133"
-      },
-      "a8e7c9e3ef5cef864488f85d16ad0584563937f74306579697f8cbb9d8ee702e": {
-        "title": "理想也到了「十字路口」",
-        "link": "http://www.geekpark.net/news/353296",
-        "published_date": "Sat, 30 Aug 2025 14:38:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.095348"
-      },
-      "574060d7360957344fc084ea5c0f54dfabda08260aaff9a752faa24c8cf32844": {
-        "title": "21.98万起！小鹏P7要让Model 3和小米SU7睡不着觉",
-        "link": "http://www.geekpark.net/news/353295",
-        "published_date": "Sat, 30 Aug 2025 14:34:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.095731"
-      },
-      "f7aae93a2b3c97a173cdabbebddbd399f7abebbae908ab9118e47cd43e3eb3df": {
-        "title": "靠卖纸片居然能年入100亿，卡游到底凭啥？",
-        "link": "http://www.huxiu.com/article/4748992.html?f=wangzhan",
-        "published_date": "Sat, 30 Aug 2025 12:00:00 GMT",
-        "first_seen": "2025-08-30T08:23:19.096074"
-      },
       "44fbd758cbd8b5ec3274940ec8f841e175634862e23b0a88d1d2baad048248ba": {
         "title": "智谱 GLM-4.5 团队深夜爆料：上下文要扩、小模型在路上，还承诺尽快发新模型！",
         "link": "https://www.infoq.cn/article/Xio27Fad3E973hyO203u?utm_source=rss&utm_medium=article",
@@ -23066,15 +22964,87 @@
         "link": "https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/",
         "published_date": "Mon, 29 Sep 2025 04:00:00 GMT",
         "first_seen": "2025-09-29T05:21:45.638419"
+      },
+      "70d43e44b4ccd24a53ab593e33923db661ef9c4df9e919b7fda329a6054f4726": {
+        "title": "9月29日A股分析：三大股指集体收涨，两市合计成交21614.66亿元，资金流入最多的行业板块为证券、互联网服务",
+        "link": "https://www.tmtpost.com/7710217.html",
+        "published_date": "Mon, 29 Sep 2025 15:54:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360823"
+      },
+      "9865c2bf4da11e7d3bbd2c8c3e9bed9c66c5b8b2e997e38e3cb6714574848c8e": {
+        "title": "县城酒店，也开始卷起来了",
+        "link": "https://www.tmtpost.com/7709938.html",
+        "published_date": "Mon, 29 Sep 2025 14:39:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360834"
+      },
+      "cf8f2810f0255f1c30b09eab06c776fc0fe2d41801196a67564983bd5d5f5943": {
+        "title": "自动驾驶的流派纷争史",
+        "link": "https://www.tmtpost.com/7709988.html",
+        "published_date": "Mon, 29 Sep 2025 14:31:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360843"
+      },
+      "dddc537f368e9aa78521a24b17b041f3d0ffc8c4b5a28a8873ac45c807798d98": {
+        "title": "谁够资格扛起“中国英伟达”大旗？",
+        "link": "https://www.tmtpost.com/7709991.html",
+        "published_date": "Mon, 29 Sep 2025 14:31:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360854"
+      },
+      "3c206e001b80d3ee3f9c7e261dd73d40f56de10dc9d5685a0221405d7190d197": {
+        "title": "昂立教育：教培的尽头是“养老”？",
+        "link": "https://www.tmtpost.com/7709999.html",
+        "published_date": "Mon, 29 Sep 2025 14:31:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360863"
+      },
+      "54f6ad63d32018c8763d44698cc9dcf9001f01f1dd2460f682e69d8885b3a786": {
+        "title": "大多老板都会撒的三个谎",
+        "link": "https://www.tmtpost.com/7710051.html",
+        "published_date": "Mon, 29 Sep 2025 14:31:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360873"
+      },
+      "f07d23a26bb58afc6bb01a2ed5b57ed8e24edf59c5254f9307684859a4ac4e91": {
+        "title": "产业资本加入，高端控制系统装备服务商航星传动宣布完成数千万元A++轮融资 | 融资动态",
+        "link": "https://www.tmtpost.com/7708784.html",
+        "published_date": "Mon, 29 Sep 2025 14:07:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360773"
+      },
+      "2107b5db55774b9618f7676a03a2f5343b3fface66763794711d049c2e325023": {
+        "title": "宜宾以 169 亿文旅机会场景 + 36.5 亿签约项目，按下国际旅游城市建设 “加速键”",
+        "link": "https://www.tmtpost.com/7709892.html",
+        "published_date": "Mon, 29 Sep 2025 13:54:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360887"
+      },
+      "ec86cb8fa3d1a1c8da6eb0d7e597e45ce0947b5a7983e27f7b62c48a88a1039d": {
+        "title": "Global Stablecoin Market Faces Regulatory Crackdowns and Strategic Competition",
+        "link": "https://www.tmtpost.com/7710081.html",
+        "published_date": "Mon, 29 Sep 2025 13:45:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360899"
+      },
+      "9272b8978382ee7af5a6a94f959de6174b04adf88bbf3c688e816519106bcc73": {
+        "title": "所有知识型岗都要被AI “吞了！清华大学教授刘嘉：未来大学分化猛烈，软件公司靠 “几人 + Agent” 就够",
+        "link": "https://www.infoq.cn/article/4qyJ4uy0UZv9FEDXZq2b?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Sep 2025 15:38:00 GMT",
+        "first_seen": "2025-09-29T08:29:51.951747"
+      },
+      "11ebb03e979498f881720300bf23446521624e71aac343e3e13c53752701153a": {
+        "title": ". NET Aspire 9.5发布：新增CLI更新命令，仪表板AI可视化工具，以及扩展的集成。",
+        "link": "https://www.infoq.cn/article/aRGQz6QBStAZLt6vfyu1?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-29T08:30:40.360805"
+      },
+      "1d5c754dd760b478d1892cde071a693c72107c2604cd077ee8cd038bf73b26fb": {
+        "title": "这家国产GPU公司，凭什么拳打AMD，脚踢英伟达？",
+        "link": "http://www.huxiu.com/article/4786287.html?f=wangzhan",
+        "published_date": "Mon, 29 Sep 2025 15:00:00 GMT",
+        "first_seen": "2025-09-29T08:29:51.953215"
+      },
+      "c679474b5c614f16e1f5917780453110838a8efaf0df8459e311f38152865798": {
+        "title": "在云栖，我们遇见了最会玩的「AI 原住民」",
+        "link": "http://www.geekpark.net/news/354661",
+        "published_date": "Mon, 29 Sep 2025 14:04:00 GMT",
+        "first_seen": "2025-09-29T08:29:51.953831"
       }
     },
     "Finance": {
-      "b80949f6afbbd31103cf3af60af31c6266cf324bc775461b316767a970b78dfd": {
-        "title": "Equal-weight S&P 500 sees longest winning streak since 2021 amid September rate-cut expectations",
-        "link": "https://www.marketwatch.com/story/equal-weight-s-p-500-sees-longest-winning-streak-since-2021-amid-september-rate-cut-expectations-79f7ca92?mod=mw_rss_topstories",
-        "published_date": "Fri, 29 Aug 2025 23:49:00 GMT",
-        "first_seen": "2025-08-30T05:23:22.652318"
-      },
       "9fbdb380283767dcd49a3e4bd4b496c5ed61c449258f074a1d9a7d290bb23b01": {
         "title": "Feeling Powerball fever as the jackpot hits $1 billion? This former lottery addict who lost around $1 million has a warning for you.",
         "link": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
@@ -26132,8 +26102,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-09-29T05:21:45.577733",
-    "Technology": "2025-09-29T05:22:34.026617",
-    "Finance": "2025-09-29T05:20:56.767315"
+    "AI": "2025-09-29T08:29:51.921795",
+    "Technology": "2025-09-29T08:30:40.362463",
+    "Finance": "2025-09-29T08:29:51.810898"
   }
 }

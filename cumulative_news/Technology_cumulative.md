@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-29 05:20
+**最后更新时间**: 2025-09-29 08:29
+
+---
+
+## 🆕 最新更新 (2025-09-29 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [9月29日A股分析：三大股指集体收涨，两市合计成交21614.66亿元，资金流入最多的行业板块为证券、互联网服务](https://www.tmtpost.com/7710217.html)
+**发布时间**: 2025-09-29 15:54
+
+#### [县城酒店，也开始卷起来了](https://www.tmtpost.com/7709938.html)
+**发布时间**: 2025-09-29 14:39
+
+#### [自动驾驶的流派纷争史](https://www.tmtpost.com/7709988.html)
+**发布时间**: 2025-09-29 14:31
+
+#### [谁够资格扛起“中国英伟达”大旗？](https://www.tmtpost.com/7709991.html)
+**发布时间**: 2025-09-29 14:31
+
+#### [昂立教育：教培的尽头是“养老”？](https://www.tmtpost.com/7709999.html)
+**发布时间**: 2025-09-29 14:31
+
+#### [大多老板都会撒的三个谎](https://www.tmtpost.com/7710051.html)
+**发布时间**: 2025-09-29 14:31
+
+#### [产业资本加入，高端控制系统装备服务商航星传动宣布完成数千万元A++轮融资 | 融资动态](https://www.tmtpost.com/7708784.html)
+**发布时间**: 2025-09-29 14:07
+
+#### [宜宾以 169 亿文旅机会场景 + 36.5 亿签约项目，按下国际旅游城市建设 “加速键”](https://www.tmtpost.com/7709892.html)
+**发布时间**: 2025-09-29 13:54
+
+#### [Global Stablecoin Market Faces Regulatory Crackdowns and Strategic Competition](https://www.tmtpost.com/7710081.html)
+**发布时间**: 2025-09-29 13:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [所有知识型岗都要被AI “吞了！清华大学教授刘嘉：未来大学分化猛烈，软件公司靠 “几人 + Agent” 就够](https://www.infoq.cn/article/4qyJ4uy0UZv9FEDXZq2b?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 15:38
+
+#### [. NET Aspire 9.5发布：新增CLI更新命令，仪表板AI可视化工具，以及扩展的集成。](https://www.infoq.cn/article/aRGQz6QBStAZLt6vfyu1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 14:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [这家国产GPU公司，凭什么拳打AMD，脚踢英伟达？](http://www.huxiu.com/article/4786287.html?f=wangzhan)
+**发布时间**: 2025-09-29 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [在云栖，我们遇见了最会玩的「AI 原住民」](http://www.geekpark.net/news/354661)
+**发布时间**: 2025-09-29 14:04
 
 ---
 
