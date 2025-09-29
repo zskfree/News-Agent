@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-29 05:20
+**最后更新时间**: 2025-09-29 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-29 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These TikTok and Instagram financial influencers aren’t your father’s investment advisers](https://www.marketwatch.com/story/these-tiktok-and-instagram-financial-influencers-arent-your-fathers-investment-advisers-0188438e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 23:11
+
+#### [The biggest risk to Fed independence is a divided Congress — not Trump](https://www.marketwatch.com/story/the-biggest-risk-to-fed-independence-is-a-divided-congress-not-trump-badc18df?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 23:10
+
+#### [Kroger’s delivery expansion with DoorDash is bad news for Instacart, analysts say](https://www.marketwatch.com/story/krogers-delivery-expansion-with-doordash-is-bad-news-for-instacart-analysts-say-5ce24b6f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 22:40
+
+#### [Intel is one of the hottest chip stocks this year. Here’s where things stand now.](https://www.marketwatch.com/story/intel-is-one-of-the-hottest-chip-stocks-this-year-heres-where-things-stand-now-e61eda45?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 22:33
+
+#### [Electronic Arts sees a record buyout deal. But should shareholders be happy?](https://www.marketwatch.com/story/electronic-arts-sees-a-record-buyout-deal-but-should-shareholders-be-happy-fc0bba76?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 22:30
+
+#### [You’ve got less than 5 years to rescue your money from AI and stablecoins. Here’s what to do.](https://www.marketwatch.com/story/ai-and-digital-dollars-are-coming-for-your-job-and-maybe-your-wealth-3aa34515?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:52
+
+#### [Here’s what a government shutdown means for markets — and your wallet](https://www.marketwatch.com/story/heres-what-a-government-shutdown-means-for-markets-and-your-wallet-e631bbe2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:51
+
+#### [The S&P 500 is about to enter its strongest quarter of the year historically, this chart shows](https://www.marketwatch.com/story/the-s-p-500-is-about-to-enter-its-strongest-quarter-of-the-year-historically-this-chart-shows-ad234790?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:50
+
+#### [Nike earnings are due. The results could be a ‘turning point’ after recent struggles.](https://www.marketwatch.com/story/nike-earnings-are-due-the-results-could-be-a-turning-point-after-recent-struggles-db8271f4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:49
+
+#### [What to know about October’s market-crash potential — and what you can ignore](https://www.marketwatch.com/story/october-is-typically-volatile-for-stocks-but-will-you-be-needing-a-seat-belt-or-a-crash-helmet-486f50af?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [When is the best time to do a Roth IRA conversion?](https://www.marketwatch.com/bulletins/redirect/go?g=7eddfec3-c32b-45a2-a9d3-f7578dbd0701&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 22:24
+
+#### [This chart shows the job market is running on fumes. Investors should take note.](https://www.marketwatch.com/bulletins/redirect/go?g=b31cde9a-e59b-414a-a74b-deaffce37074&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 20:47
+
+#### [Dow, S&P and Nasdaq book back-to-back gains despite looming government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=46ffefab-9e43-4136-aafe-7084de00e485&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 20:01
+
+#### [Why investors are brushing aside the threat of a government shutdown this week](https://www.marketwatch.com/bulletins/redirect/go?g=629be7f2-0d5a-4eca-af52-47c62850e71a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 19:37
+
+#### [How a government shutdown could hurt a housing market now showing signs of life](https://www.marketwatch.com/bulletins/redirect/go?g=4fccefbe-ad26-4199-842d-60bc95a8ad74&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 19:03
+
+#### [Here’s what a government shutdown means for markets — and your wallet](https://www.marketwatch.com/bulletins/redirect/go?g=4897f774-b98f-4e0f-ab13-306298234f60&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 17:45
+
+#### [Generation X is about to face its biggest Social Security decision](https://www.marketwatch.com/bulletins/redirect/go?g=46d0c864-26dc-48f5-a9b7-0136c19b4f89&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 16:53
+
+#### [Nasdaq powers higher as tech-stock investors look past government-shutdown fears](https://www.marketwatch.com/bulletins/redirect/go?g=7eaa669f-4c13-4bc3-ae12-e1a29dac190b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 14:00
+
+#### [Economic calendar: Three Fed speeches and pending-home-sales data on agenda](https://www.marketwatch.com/bulletins/redirect/go?g=19093926-889b-49e6-8282-15c1a1f73f54&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 12:12
+
+#### [Morgan Stanley slashes rating on Novo Nordisk, says Alzheimer trial will fail](https://www.marketwatch.com/bulletins/redirect/go?g=d8a481c4-41cc-46ac-a090-ad986b32b974&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 09:54
 
 ---
 

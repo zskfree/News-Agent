@@ -1,7 +1,166 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-29 08:29
+**最后更新时间**: 2025-09-29 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-29 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [白云山“旧路新走”：一心堂减值余波未消，旗下基金撒7.5亿再押医药流通](https://www.tmtpost.com/7710882.html)
+**发布时间**: 2025-09-29 23:38
+
+#### [鸿星科技撤回 IPO：注册制下的理性适配与主业深耕的长远布局](https://www.tmtpost.com/7710904.html)
+**发布时间**: 2025-09-29 22:37
+
+#### [福达合金“父买子”并购后续：交易性质反转，高溢价面临低补偿｜并购一线](https://www.tmtpost.com/7710349.html)
+**发布时间**: 2025-09-29 22:25
+
+#### [10万亿智能汽车的未来，被千里科技用 AI 画出来了](https://www.tmtpost.com/7705196.html)
+**发布时间**: 2025-09-29 20:45
+
+#### [比亚迪储能新帅上任烧起“第一把火”，核弹级新品猛烈砸向整个行业](https://www.tmtpost.com/7709578.html)
+**发布时间**: 2025-09-29 19:20
+
+#### [国内二次元东京斗法，米哈游怂了](https://www.tmtpost.com/7710216.html)
+**发布时间**: 2025-09-29 19:19
+
+#### [从IO到后IO时代：BMS肿瘤战略的沿袭与演进](https://www.tmtpost.com/7710599.html)
+**发布时间**: 2025-09-29 19:19
+
+#### [坦克撤出、专卖魏牌，长城直营启动变革](https://www.tmtpost.com/7710626.html)
+**发布时间**: 2025-09-29 19:19
+
+#### [以精选口碑商家切入本地生活，小红书用“9折”追随阿里和美团的脚步？](https://www.tmtpost.com/7710615.html)
+**发布时间**: 2025-09-29 18:39
+
+#### [中宣部等七部门发布：微短剧被列入“重点任务”，出现了低成本100亿播放的新赛道？](https://www.tmtpost.com/7710269.html)
+**发布时间**: 2025-09-29 18:11
+
+#### [名创优品版“泡泡玛特”，要上市了](https://www.tmtpost.com/7710058.html)
+**发布时间**: 2025-09-29 18:11
+
+#### [价格战凶猛，“美的们”靠什么硬撑？](https://www.tmtpost.com/7710388.html)
+**发布时间**: 2025-09-29 18:11
+
+#### [新能源车最后的疯狂？补贴退坡的末班车经济学](https://www.tmtpost.com/7710372.html)
+**发布时间**: 2025-09-29 18:11
+
+#### [手机AI新局：Google、苹果、三星顶流斗法](https://www.tmtpost.com/7710436.html)
+**发布时间**: 2025-09-29 18:11
+
+#### [现下是投资体育科技的好时候么？ | 欧洲观察](https://www.tmtpost.com/7709364.html)
+**发布时间**: 2025-09-29 18:04
+
+#### [盘古智库发布《中国算力与能耗研究报告暨2030年发展预测》报告](https://www.tmtpost.com/7710236.html)
+**发布时间**: 2025-09-29 17:51
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)
+**发布时间**: 2025-09-29 23:16
+
+#### [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california)
+**发布时间**: 2025-09-29 23:01
+
+#### [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
+**发布时间**: 2025-09-29 22:07
+
+#### [Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)
+**发布时间**: 2025-09-29 22:03
+
+#### [What EA’s buyout might mean for its future](https://www.theverge.com/games/787723/ea-private-deal-buyout-future-games-layoffs)
+**发布时间**: 2025-09-29 21:21
+
+#### [PlayStation is getting a big, fancy art book full of unused designs](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)
+**发布时间**: 2025-09-29 21:00
+
+#### [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+**发布时间**: 2025-09-29 20:00
+
+#### [Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months](https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale)
+**发布时间**: 2025-09-29 18:30
+
+#### [RidePods is the first iPhone game you control with AirPods](https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls)
+**发布时间**: 2025-09-29 18:16
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [印奇：市场上主流厂商的“含模量”可能不到50%](http://www.huxiu.com/article/4787142.html?f=wangzhan)
+**发布时间**: 2025-09-29 22:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [节前DeepSeek又突击了！大方开源V3.2实验版，API 价格降低 50%+](https://www.infoq.cn/article/oTzcByfgXxNu6kK5kI17?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 20:30
+
+#### [这家“小众”赛道的无人驾驶公司，刚刚融了两亿](https://www.infoq.cn/article/Oz8KxOjlJhRgr2CRsVyW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 20:00
+
+#### [徐峥首次AI智驾城市实景真人秀！千里科技端到端模型闯过重庆“8D”考验，18 个月要打通 Robotaxi 全链路](https://www.infoq.cn/article/lHX5IjRgCfvHb0RMyB88?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 19:00
+
+#### [云栖大会丨奇富科技费浩峻深度解构金融大模型四步破局路径](https://www.infoq.cn/article/Tp0T1F8IeW5MKm1GD1jz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 18:31
+
+#### [小众语言再难出头！写代码靠和 AI 聊天、连用啥都不在乎了，开发者感叹：等我们不在了，AI 智能体会接手](https://www.infoq.cn/article/1foQI9HXoBucYBM4s0KL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 18:00
+
+#### [金融行业用好大模型，只有“垂直”一个解](https://www.infoq.cn/article/Q2Lg89Vq2HVZDEj6iEHh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 16:53
+
+#### [学生开发者经验｜豆包大模型 + TRAE，让 AI 应用快速落地](https://www.infoq.cn/article/bjQi4VGmRaj2VfsK0E8E?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 16:47
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Is Preparing to Launch a Social App for AI-Generated Videos](https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/)
+**发布时间**: 2025-09-29 19:32
+
+#### [Lenovo's Latest Gaming Laptop Is $200 Off Right Now](https://www.wired.com/story/lenovo-legion-7i-gen-10-deal/)
+**发布时间**: 2025-09-29 17:39
+
+#### [Everything You Need to Know About USB Ports and Speeds (2025)](https://www.wired.com/story/usb-ports-speeds-generations-and-thunderbolt-explained/)
+**发布时间**: 2025-09-29 14:00
+
+#### [This Is Why You Should Try Ultralight Backpacking (2025)](https://www.wired.com/story/what-is-ultralight-backpacking/)
+**发布时间**: 2025-09-29 13:53
+
+#### [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
+**发布时间**: 2025-09-29 13:00
+
+#### [The 3 Best Coffee Subscription Deals for National Coffee Day 2025](https://www.wired.com/story/national-coffee-day-deals-2025/)
+**发布时间**: 2025-09-29 11:01
+
+#### [How to Use a Password Manager to Share Your Logins After You Die (2025)](https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/)
+**发布时间**: 2025-09-29 11:00
+
+#### [Should You Freeze Coffee Beans? Only if You Do It the Right Way](https://www.wired.com/story/how-to-freeze-coffee-beans/)
+**发布时间**: 2025-09-29 10:32
+
+#### [Marissa Mayer Is Dissolving Her Sunshine Startup Lab](https://www.wired.com/story/marissa-mayer-sunshine-startup-shut-down/)
+**发布时间**: 2025-09-29 10:30
+
+#### [11 Best Coffee Subscriptions (2025), Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
+**发布时间**: 2025-09-29 10:04
+
+#### [OpenAI Adds Parental Safety Controls for Teen ChatGPT Users. Here’s What to Expect](https://www.wired.com/story/openai-teen-safety-tools-chatgpt-parents-suicidal-ideation/)
+**发布时间**: 2025-09-29 10:00
+
+#### [Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say](https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/)
+**发布时间**: 2025-09-29 09:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [技术语境中那些熟悉又陌生的英语动词（二）](https://sspai.com/prime/story/interesting-verbs-in-computing-02)
+**发布时间**: 2025-09-29 17:57
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/102836)
+**发布时间**: 2025-09-29 17:35
+
+#### [想克服拖延症，这份「不要做」清单你也许用得上](https://sspai.com/post/102316)
+**发布时间**: 2025-09-29 16:25
 
 ---
 

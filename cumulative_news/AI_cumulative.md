@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-09-29 08:29
+**最后更新时间**: 2025-09-29 23:17
+
+---
+
+## 🆕 最新更新 (2025-09-29 23:17)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek-V3.2-Exp第一时间上线华为云](https://www.qbitai.com/2025/09/338375.html)
+**发布时间**: 2025-09-29 15:38
+
+#### [DeepSeek新模型上线！引入DSA新稀疏注意力，还又狙了CUDA一枪](https://www.qbitai.com/2025/09/338291.html)
+**发布时间**: 2025-09-29 10:52
+
+#### [前馈3D高斯泼溅新方法，浙大团队提出“体素对齐”，直接在三维空间融合多视角2D信息](https://www.qbitai.com/2025/09/338270.html)
+**发布时间**: 2025-09-29 08:45
+
+### 📰 来源: [MIT Technology Review - AI](https://www.technologyreview.com/feed/)
+
+#### [The Download: AI to detect child abuse images, and what to expect from our 2025 Climate Tech Companies to Watch list](https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/)
+**发布时间**: 2025-09-29 12:10
+
+#### [Coming soon: Our 2025 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/)
+**发布时间**: 2025-09-29 10:00
+
+### 📰 来源: [Machine Learning Mastery](https://machinelearningmastery.com/blog/feed/)
+
+#### [Why and When to Use Sentence Embeddings Over Word Embeddings](https://machinelearningmastery.com/why-and-when-to-use-sentence-embeddings-over-word-embeddings/)
+**发布时间**: 2025-09-26 12:00
+
+#### [5 AI Agent Projects for Beginners](https://machinelearningmastery.com/5-ai-agent-projects-for-beginners/)
+**发布时间**: 2025-09-25 12:00
+
+#### [Beyond Vector Search: 5 Next-Gen RAG Retrieval Strategies](https://machinelearningmastery.com/beyond-vector-search-5-next-gen-rag-retrieval-strategies/)
+**发布时间**: 2025-09-24 12:00
+
+#### [Bagging vs Boosting vs Stacking: Which Ensemble Method Wins in 2025?](https://machinelearningmastery.com/bagging-vs-boosting-vs-stacking-which-ensemble-method-wins-in-2025/)
+**发布时间**: 2025-09-23 16:04
+
+#### [10 Machine Learning Newsletters to Stay Informed](https://machinelearningmastery.com/10-machine-learning-newsletters-to-stay-informed/)
+**发布时间**: 2025-09-22 12:00
+
+#### [A Hands-On Introduction to cuML for GPU-Accelerated Machine Learning Workflows](https://machinelearningmastery.com/a-hands-on-introduction-to-cuml-for-gpu-accelerated-machine-learning-workflows/)
+**发布时间**: 2025-09-18 12:03
+
+#### [A Hands-On Introduction to cuDF for GPU-Accelerated Data Workflows](https://machinelearningmastery.com/a-hands-on-introduction-to-cudf-for-gpu-accelerated-data-workflows/)
+**发布时间**: 2025-09-18 12:03
+
+#### [Feature Scaling in Practice: What Works and What Doesn’t](https://machinelearningmastery.com/feature-scaling-in-practice-what-works-and-what-doesnt/)
+**发布时间**: 2025-09-17 14:08
 
 ---
 
