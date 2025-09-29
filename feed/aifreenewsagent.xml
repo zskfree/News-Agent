@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Sep 2025 23:17:44 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 05:21:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>合资醒了！别克「最强增程豪华轿车」17万开卖，盲订就破2万台</title>
-      <link>https://www.qbitai.com/2025/09/337881.html</link>
-      <description>&lt;![CDATA[合资醒了！别克「最强增程豪华轿车」17万开卖，盲订就破2万台]]&gt;</description>
-      <pubDate>Sun, 28 Sep 2025 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337881.html</guid>
+      <title>GPT-5为量子计算提供关键思路！大牛盛赞：不到半小时给出“灵魂一击”</title>
+      <link>https://www.qbitai.com/2025/09/338140.html</link>
+      <description>&lt;![CDATA[GPT-5为量子计算提供关键思路！大牛盛赞：不到半小时给出“灵魂一击”]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 04:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338140.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯研究院最新报告揭示：生成式AI在中国近乎全面普及，网民心态呈现“效率赋能”与“职业焦虑”的双重奏</title>
+      <link>https://www.qbitai.com/2025/09/338137.html</link>
+      <description>&lt;![CDATA[腾讯研究院最新报告揭示：生成式AI在中国近乎全面普及，网民心态呈现“效率赋能”与“职业焦虑”的双重奏]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 03:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338137.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>HLE首次突破60分！Eigen-1基于DeepSeek V3.1领先GPT-5</title>
+      <link>https://www.qbitai.com/2025/09/337921.html</link>
+      <description>&lt;![CDATA[HLE首次突破60分！Eigen-1基于DeepSeek V3.1领先GPT-5]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/337921.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AutoClimDS: Climate Data Science Agentic AI -- A Knowledge Graph is All You Need</title>
+      <link>https://arxiv.org/abs/2509.21553</link>
+      <description>&lt;![CDATA[AutoClimDS: Climate Data Science Agentic AI -- A Knowledge Graph is All You Need]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.21553</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Semantic F1 Scores: Fair Evaluation Under Fuzzy Class Boundaries</title>
+      <link>https://arxiv.org/abs/2509.21633</link>
+      <description>&lt;![CDATA[Semantic F1 Scores: Fair Evaluation Under Fuzzy Class Boundaries]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.21633</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Can AI Perceive Physical Danger and Intervene?</title>
+      <link>https://arxiv.org/abs/2509.21651</link>
+      <description>&lt;![CDATA[Can AI Perceive Physical Danger and Intervene?]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.21651</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety</title>
+      <link>https://arxiv.org/abs/2509.21782</link>
+      <description>&lt;![CDATA[Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.21782</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Thinking Spectrum: An Emperical Study of Tunable Reasoning in LLMs through Model Merging</title>
+      <link>https://arxiv.org/abs/2509.22034</link>
+      <description>&lt;![CDATA[The Thinking Spectrum: An Emperical Study of Tunable Reasoning in LLMs through Model Merging]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22034</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements</title>
+      <link>https://arxiv.org/abs/2509.22092</link>
+      <description>&lt;![CDATA[Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22092</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Clinical Uncertainty Impacts Machine Learning Evaluations</title>
+      <link>https://arxiv.org/abs/2509.22242</link>
+      <description>&lt;![CDATA[Clinical Uncertainty Impacts Machine Learning Evaluations]]&gt;</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22242</guid>
       <category>AI</category>
     </item>
   </channel>

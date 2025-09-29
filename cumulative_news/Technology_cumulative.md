@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-28 23:17
+**最后更新时间**: 2025-09-29 05:20
+
+---
+
+## 🆕 最新更新 (2025-09-29 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [提前涨停，复牌暴跌，新大正转型并购中信系资产疑云难解 | 并购一线](https://www.tmtpost.com/7710019.html)
+**发布时间**: 2025-09-29 13:01
+
+#### [刘强东的“资本版图”再下一城](https://www.tmtpost.com/7707026.html)
+**发布时间**: 2025-09-29 12:26
+
+#### [市值重回1000亿，华友钴业，熬过“至暗时刻”](https://www.tmtpost.com/7709929.html)
+**发布时间**: 2025-09-29 12:08
+
+#### [高尔夫品牌扎堆入华：“老登最爱”如何破圈？](https://www.tmtpost.com/7709914.html)
+**发布时间**: 2025-09-29 12:02
+
+#### [比寒武纪还离谱，主营收入0，市值炒到2700亿](https://www.tmtpost.com/7707349.html)
+**发布时间**: 2025-09-29 11:59
+
+#### [红杉资本投了，AI玩具界的“泡泡玛特”｜融资动态](https://www.tmtpost.com/7709215.html)
+**发布时间**: 2025-09-29 11:58
+
+#### [一短剧渠道持续爆发，日均变现千万级，头部平台纷纷入场](https://www.tmtpost.com/7709825.html)
+**发布时间**: 2025-09-29 11:51
+
+#### [狂生炸山之后](https://www.tmtpost.com/7709838.html)
+**发布时间**: 2025-09-29 11:42
+
+#### [毛利率92%，营销费率60%，万兴科技IPO的喜与忧](https://www.tmtpost.com/7709682.html)
+**发布时间**: 2025-09-29 11:39
+
+#### [瘦成皮包骨的王健林，不能坐飞机了](https://www.tmtpost.com/7709524.html)
+**发布时间**: 2025-09-29 11:31
+
+#### [TGS2025，繁荣的切片](https://www.tmtpost.com/7709547.html)
+**发布时间**: 2025-09-29 11:20
+
+#### [拼车拼好饭之后，国内酒店开始流行“拼楼”](https://www.tmtpost.com/7709554.html)
+**发布时间**: 2025-09-29 11:13
+
+#### [市值较高点缩水超250亿，“松鼠老爹”跨界能否重返创富榜？](https://www.tmtpost.com/7709558.html)
+**发布时间**: 2025-09-29 11:07
+
+#### [《阿凡达3》，将冲击全球30亿美元](https://www.tmtpost.com/7709564.html)
+**发布时间**: 2025-09-29 10:58
+
+#### [Horizon Robotics Raises $2 Billion in Hong Kong Amid Deepening Losses](https://www.tmtpost.com/7709860.html)
+**发布时间**: 2025-09-29 10:57
+
+#### [影石和大疆都想成为对方](https://www.tmtpost.com/7709567.html)
+**发布时间**: 2025-09-29 10:38
+
+#### [大专学历，还有机会做制作人吗？](https://www.tmtpost.com/7709570.html)
+**发布时间**: 2025-09-29 10:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [无问芯穹总经理曾书霖博士已确认出席QCon 上海站，分享AI 2.0 时代的大模型推理：从模型到硬件的协同优化](https://www.infoq.cn/article/vF12TM1suOBkzGeOG6v0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 13:00
+
+#### [AI算力提升的最大阻碍，竟源自数十年前的架构决策？](https://www.infoq.cn/article/d8Az1Dc2jmKoVy4hqjiY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 12:53
+
+#### [谷歌推出实验性私有模型 VaultGemma：主打差分隐私技术](https://www.infoq.cn/article/uju8dickMXPyOjkPGFps?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 12:00
+
+#### [OpenAI 发布 GPT-5-Codex：专注复杂代码重构与代码评审优化](https://www.infoq.cn/article/7g2NqRIEtv3tvd8ADcrp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 11:30
+
+#### [50 万奖金池，学生党狂喜！2025 深圳国际金融科技大赛启动报名啦！](https://www.infoq.cn/article/zhizRJjomadT5vai81Ne?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 11:15
+
+#### [企业级消息系统构建指南](https://www.infoq.cn/article/p9XQ7muHFR1ZSBZdNsPp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 10:00
+
+#### [2025 京东全球科技探索者大会：京东健康发布“AI 医院”、升级“京医千询 2.0”](https://www.infoq.cn/article/CizYL0mWKKDvqGvxvzNI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 10:00
+
+#### [从“氛围编程”到“效能编程”，来自一线研发团队的企业最佳实践](https://www.infoq.cn/article/zmlwcvpmjiu5GkjOEufp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 09:57
+
+#### [4 人起步，Next.js 之父带队冲出Agent爆款：开发者用户一年超过去十年，一秒生成 7 个应用！](https://www.infoq.cn/article/KEGhiTcFGR5uxPIEZDyh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 09:47
+
+#### [Rails 创始人遭社区逼宫，金主立马撑腰，核心维护者被“血洗”出局！10 年了，DHH 还是 Ruby 社区的最大问题？](https://www.infoq.cn/article/gjq6havcbmsbUtm0O5Lp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-29 09:41
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [做 AI 陪伴收获 1000 万用户后，前微信 AI 产品负责人，要重新定义生活里的 AI](http://www.geekpark.net/news/354653)
+**发布时间**: 2025-09-29 12:07
+
+#### [透视阿里云产品生态团队：AI 落地的「关键通道」](http://www.geekpark.net/news/354651)
+**发布时间**: 2025-09-29 11:58
+
+#### [OpenAI「降配门」发酵，偷换模型遭全网实锤；小米 SU7 在日本首秀；苹果内部测试类 ChatGPT 应用｜极客早知道](http://www.geekpark.net/news/354629)
+**发布时间**: 2025-09-29 08:33
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [全面取消高速公路收费的时代逐渐来临](http://www.huxiu.com/article/4786689.html?f=wangzhan)
+**发布时间**: 2025-09-29 11:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [你的大脑已上线：让这份「欺诈智斗」片单点燃你的智商](https://sspai.com/post/102699)
+**发布时间**: 2025-09-29 11:30
+
+#### [派早报：携程、去哪儿等回应「抢票加速包是噱头」](https://sspai.com/post/102823)
+**发布时间**: 2025-09-29 08:56
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Microplastics Could Be Weakening Your Bones, Research Suggests](https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/)
+**发布时间**: 2025-09-29 04:00
 
 ---
 

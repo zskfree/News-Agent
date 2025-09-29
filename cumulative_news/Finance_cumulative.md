@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-28 23:17
+**最后更新时间**: 2025-09-29 05:20
+
+---
+
+## 🆕 最新更新 (2025-09-29 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures edge higher as investors eye possible government shutdown](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 03:04
+
+#### [Even smaller tech stocks are getting expensive. But these sectors could be your next big win.](https://www.marketwatch.com/story/even-smaller-tech-stocks-are-getting-expensive-but-these-sectors-could-be-your-next-big-win-544e5289?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 00:43
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Day trading is about to get a lot easier for beginners. Things could get ugly.](https://www.marketwatch.com/bulletins/redirect/go?g=7aec7223-e7ca-43fe-a2fc-1c47ae972152&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 01:21
+
+#### [Why the last thing the stock market wants right now is a government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=fb87ad63-6ab6-4186-803c-a297402a921d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 00:09
 
 ---
 
