@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-29 23:17
+**最后更新时间**: 2025-09-30 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-30 05:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [小红书 AI 搜索负责人高龑确认出席 QCon 上海，分享从“搜内容”到“问 AI ”：小红书搜索的 LLM 进化之路](https://www.infoq.cn/article/wjDCCStUcPRbP3d1T11D?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 13:00
+
+#### [研究发现大模型尚不足以在事件管理中取代SRE工程师](https://www.infoq.cn/article/6vfDUQ3hb78oxO1v3o5j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 11:00
+
+#### [京东的“他她它” App 藏不住了！实测后：这个 AI 产品暴露了京东的野心](https://www.infoq.cn/article/DBf45wgAh42fuZ3vdQRi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 10:42
+
+#### [为了AI，谷歌将于 2026 年合并安卓系统和 ChromeOS](https://www.infoq.cn/article/N9vgaKeuMMh6ryPgMLss?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 09:58
+
+#### [GPT-5：姗姗来迟，被过度炒作，却又令人失望，但这还不是最糟糕的](https://www.infoq.cn/article/VFe1cIx7NoUc2SKPiQAX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 09:57
+
+#### [2025年InfoQ趋势报告：AI、ML和数据工程](https://www.infoq.cn/article/CKLUT7rzduwKg4kRFfjX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 09:40
+
+#### [Anthropic深夜祭出Claude Sonnet 4.5，能自主连续工作30小时！CEO：它更像你的同事](https://www.infoq.cn/article/lmmA59zAwoPfITY5vIGb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 09:19
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [整改后的西贝：不再承诺上菜时间，强调门店现炒现做](https://www.tmtpost.com/7710949.html)
+**发布时间**: 2025-09-30 11:50
+
+#### [Qianli Technology Drives the AI + Car Era Forward, Pioneering Intelligent Vehicles and Robotaxis](https://www.tmtpost.com/7711301.html)
+**发布时间**: 2025-09-30 11:22
+
+#### [艺电确认以550亿美元私有化，大型游戏公司收购潮要来了？ | 巴伦精选](https://www.tmtpost.com/7711270.html)
+**发布时间**: 2025-09-30 10:59
+
+#### [年轻人“整顿”月饼](https://www.tmtpost.com/7711072.html)
+**发布时间**: 2025-09-30 10:55
+
+#### [【产业互联网周报】阿里巴巴宣布与英伟达开展Physical AI合作；甲骨文换帅；2024年中国人工智能产业规模超9000亿元，同比增长24%](https://www.tmtpost.com/7710790.html)
+**发布时间**: 2025-09-30 10:04
+
+#### [从共识转向价值深耕，AI推动数字化转型新范式](https://www.tmtpost.com/7710783.html)
+**发布时间**: 2025-09-30 10:03
+
+#### [拼过、赢过、输了，刚成为老赖的王健林和我们一样在周期里浮沉](https://www.tmtpost.com/7709143.html)
+**发布时间**: 2025-09-30 10:00
+
+#### [从亳州到世界：古井贡酒的“世博情缘”与全球表达](https://www.tmtpost.com/7711104.html)
+**发布时间**: 2025-09-30 09:43
+
+#### [“鸭脖大王”陷入“ST危机”](https://www.tmtpost.com/7710832.html)
+**发布时间**: 2025-09-30 09:30
+
+#### [西安奕材：科技自立，加速突围 ，国产硅片龙头叩响科创板大门](https://www.tmtpost.com/7708903.html)
+**发布时间**: 2025-09-30 09:07
+
+#### [“重拾信心”的玻璃基板，离商业化更近了](https://www.tmtpost.com/7710674.html)
+**发布时间**: 2025-09-30 08:56
+
+#### [荣威的“求生式突围”，能否从边缘回到主流赛道？ | 巴伦精选](https://www.tmtpost.com/7711051.html)
+**发布时间**: 2025-09-30 08:41
+
+#### [高德“杀入”餐饮业：会边缘化预制菜吗？](https://www.tmtpost.com/7710814.html)
+**发布时间**: 2025-09-30 08:30
+
+#### [科股早知道：AI终端爆发指日可待，SoC芯片迎来新的市场发展机遇](https://www.tmtpost.com/7710993.html)
+**发布时间**: 2025-09-30 08:00
+
+#### [南模生物“内战”警示录：“双话事人”失衡，治理撕裂下的反噬 | 深度](https://www.tmtpost.com/7710339.html)
+**发布时间**: 2025-09-30 08:00
+
+#### [王健林差点被赶下“牌桌”](https://www.tmtpost.com/7710739.html)
+**发布时间**: 2025-09-30 07:55
+
+#### [【钛晨报】国家税务总局：平台企业不得以任何形式将自身涉税义务转嫁给平台内从业人员；特朗普称对境外制作电影征100%关税；DeepSeek-V3.2-Exp发布并开源，开发者调用API的成本将降低50%以上](https://www.tmtpost.com/7710817.html)
+**发布时间**: 2025-09-30 07:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [三星美光疯狂涨价，中国存储如何杀出重围？](http://www.huxiu.com/article/4787185.html?f=wangzhan)
+**发布时间**: 2025-09-30 11:10
+
+#### [欧洲车企，走上一条偏裂之路](http://www.huxiu.com/article/4787193.html?f=wangzhan)
+**发布时间**: 2025-09-30 07:39
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek V3.2 发布，API 成本减半；特斯拉员工被机器人打伤，索赔 5100 万美元；Claude 新模型登场](http://www.geekpark.net/news/354695)
+**发布时间**: 2025-09-30 08:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等](https://sspai.com/post/102843)
+**发布时间**: 2025-09-30 08:14
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)
+**发布时间**: 2025-09-30 05:10
+
+#### [Groupon Promo Codes: 50% Off in October 2025](https://www.wired.com/story/groupon-promo-code/)
+**发布时间**: 2025-09-30 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
+**发布时间**: 2025-09-29 23:46
 
 ---
 

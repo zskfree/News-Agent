@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 29 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2025 23:18:46 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2025 05:20:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek-V3.2-Exp第一时间上线华为云</title>
-      <link>https://www.qbitai.com/2025/09/338375.html</link>
-      <description>&lt;![CDATA[DeepSeek-V3.2-Exp第一时间上线华为云]]&gt;</description>
-      <pubDate>Mon, 29 Sep 2025 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338375.html</guid>
+      <title>MathBode: Frequency-Domain Fingerprints of LLM Mathematical Reasoning</title>
+      <link>https://arxiv.org/abs/2509.23143</link>
+      <description>&lt;![CDATA[MathBode: Frequency-Domain Fingerprints of LLM Mathematical Reasoning]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.23143</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>DeepSeek新模型上线！引入DSA新稀疏注意力，还又狙了CUDA一枪</title>
-      <link>https://www.qbitai.com/2025/09/338291.html</link>
-      <description>&lt;![CDATA[DeepSeek新模型上线！引入DSA新稀疏注意力，还又狙了CUDA一枪]]&gt;</description>
-      <pubDate>Mon, 29 Sep 2025 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338291.html</guid>
+      <title>Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2509.23558</link>
+      <description>&lt;![CDATA[Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.23558</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>前馈3D高斯泼溅新方法，浙大团队提出“体素对齐”，直接在三维空间融合多视角2D信息</title>
-      <link>https://www.qbitai.com/2025/09/338270.html</link>
-      <description>&lt;![CDATA[前馈3D高斯泼溅新方法，浙大团队提出“体素对齐”，直接在三维空间融合多视角2D信息]]&gt;</description>
-      <pubDate>Mon, 29 Sep 2025 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338270.html</guid>
+      <title>Responding to the climate impact of generative AI</title>
+      <link>https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930</link>
+      <description>&lt;![CDATA[Responding to the climate impact of generative AI]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: AI to detect child abuse images, and what to expect from our 2025 Climate Tech Companies to Watch list</title>
-      <link>https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/</link>
-      <description>&lt;![CDATA[The Download: AI to detect child abuse images, and what to expect from our 2025 Climate Tech Companies to Watch list]]&gt;</description>
-      <pubDate>Mon, 29 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/</guid>
+      <title>Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research</title>
+      <link>https://arxiv.org/abs/2509.22831</link>
+      <description>&lt;![CDATA[Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22831</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Coming soon: Our 2025 list of Climate Tech Companies to Watch</title>
-      <link>https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/</link>
-      <description>&lt;![CDATA[Coming soon: Our 2025 list of Climate Tech Companies to Watch]]&gt;</description>
-      <pubDate>Mon, 29 Sep 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/</guid>
+      <title>JE-IRT: A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory</title>
+      <link>https://arxiv.org/abs/2509.22888</link>
+      <description>&lt;![CDATA[JE-IRT: A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22888</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Not only a helper, but also a teacher: Interactive LLM Cascade</title>
+      <link>https://arxiv.org/abs/2509.22984</link>
+      <description>&lt;![CDATA[Not only a helper, but also a teacher: Interactive LLM Cascade]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22984</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents</title>
+      <link>https://arxiv.org/abs/2509.23045</link>
+      <description>&lt;![CDATA[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.23045</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Risk Profiling and Modulation for LLMs</title>
+      <link>https://arxiv.org/abs/2509.23058</link>
+      <description>&lt;![CDATA[Risk Profiling and Modulation for LLMs]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.23058</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Exploring LLM-based Frameworks for Fault Diagnosis</title>
+      <link>https://arxiv.org/abs/2509.23113</link>
+      <description>&lt;![CDATA[Exploring LLM-based Frameworks for Fault Diagnosis]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.23113</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems</title>
+      <link>https://arxiv.org/abs/2509.23130</link>
+      <description>&lt;![CDATA[SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.23130</guid>
       <category>AI</category>
     </item>
   </channel>

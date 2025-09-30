@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-29 23:17
+**最后更新时间**: 2025-09-30 05:19
+
+---
+
+## 🆕 最新更新 (2025-09-30 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The EV tax credit expires today — and time’s running out to save money on these other green upgrades. Here’s what to do.](https://www.marketwatch.com/story/the-ev-tax-credit-expires-today-and-times-running-out-to-save-money-on-these-other-green-upgrades-heres-what-to-do-d615f422?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 04:01
+
+#### [This chart shows the U.S. labor market is running on fumes. Why that’s a risk for the stock market.](https://www.marketwatch.com/story/this-chart-shows-the-u-s-labor-market-is-running-on-fumes-why-thats-a-risk-for-the-stock-market-82f89a5d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 01:43
+
+#### [You won’t get a paper Social Security check in October — or ever again. Here’s how you’ll be paid instead.](https://www.marketwatch.com/story/you-wont-get-a-paper-social-security-check-in-october-or-ever-again-heres-how-youll-be-paid-instead-4ee76185?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 00:50
+
+#### [This stock and bond strategy is so disliked — and it’s probably your best investment move for the next 10 years](https://www.marketwatch.com/story/this-stock-and-bond-strategy-is-so-disliked-and-its-probably-your-best-investment-move-for-the-next-10-years-3759fdf2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 00:28
+
+#### [Throwing money at our broken healthcare system won’t fix it — but this solution might](https://www.marketwatch.com/story/if-healthcare-doesnt-heal-itself-soon-the-next-pandemic-could-break-the-system-174c85c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 23:44
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Gen X is facing its biggest Social Security decision. Here's what's at stake.](https://www.marketwatch.com/bulletins/redirect/go?g=c35c1e16-0b88-4581-a98a-7c6a037ab51e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 00:54
+
+#### [The S&P 500 is about to enter its strongest quarter of the year historically](https://www.marketwatch.com/bulletins/redirect/go?g=3be80e1e-238d-4875-989c-4d4d33e9568f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 00:14
 
 ---
 
