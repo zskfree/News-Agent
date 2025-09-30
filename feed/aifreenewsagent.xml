@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Sep 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2025 08:28:17 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2025 23:23:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Delivering a digital sixth sense with next-generation networks</title>
-      <link>https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/</link>
-      <description>&lt;![CDATA[Delivering a digital sixth sense with next-generation networks]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/</guid>
+      <title>AI as a research partner: Advancing theoretical computer science with AlphaEvolve</title>
+      <link>https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/</link>
+      <description>&lt;![CDATA[AI as a research partner: Advancing theoretical computer science with AlphaEvolve]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ChatGPT可以下单买买买了</title>
-      <link>https://www.qbitai.com/2025/09/338533.html</link>
-      <description>&lt;![CDATA[ChatGPT可以下单买买买了]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 05:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338533.html</guid>
+      <title>The anatomy of a personal health agent</title>
+      <link>https://research.google/blog/the-anatomy-of-a-personal-health-agent/</link>
+      <description>&lt;![CDATA[The anatomy of a personal health agent]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/the-anatomy-of-a-personal-health-agent/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Designing CPUs for next-generation supercomputing</title>
+      <link>https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/</link>
+      <description>&lt;![CDATA[Designing CPUs for next-generation supercomputing]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Powering HPC with next-generation CPUs</title>
+      <link>https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/</link>
+      <description>&lt;![CDATA[Powering HPC with next-generation CPUs]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 13:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The Download: our thawing permafrost, and a drone-filled future</title>
+      <link>https://www.technologyreview.com/2025/09/30/1124579/the-download-our-thawing-permafrost-and-a-drone-filled-future/</link>
+      <description>&lt;![CDATA[The Download: our thawing permafrost, and a drone-filled future]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124579/the-download-our-thawing-permafrost-and-a-drone-filled-future/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>The US may be heading toward a drone-filled future</title>
+      <link>https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/</link>
+      <description>&lt;![CDATA[The US may be heading toward a drone-filled future]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Scientists can see Earth’s permafrost thawing from space</title>
+      <link>https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/</link>
+      <description>&lt;![CDATA[Scientists can see Earth’s permafrost thawing from space]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>可能是目前效果最好的开源生图模型，混元生图3.0来了</title>
+      <link>https://www.qbitai.com/2025/09/338952.html</link>
+      <description>&lt;![CDATA[可能是目前效果最好的开源生图模型，混元生图3.0来了]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338952.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>打车像点单？实测滴滴AI助手，打车也能“私人订制”了</title>
+      <link>https://www.qbitai.com/2025/09/338683.html</link>
+      <description>&lt;![CDATA[打车像点单？实测滴滴AI助手，打车也能“私人订制”了]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338683.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>真够卷的！DeepSeek更完智谱更：GLM-4.6，代码国内最强</title>
+      <link>https://www.qbitai.com/2025/09/338660.html</link>
+      <description>&lt;![CDATA[真够卷的！DeepSeek更完智谱更：GLM-4.6，代码国内最强]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338660.html</guid>
       <category>AI</category>
     </item>
   </channel>

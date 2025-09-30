@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-30 05:19
+**最后更新时间**: 2025-09-30 23:22
+
+---
+
+## 🆕 最新更新 (2025-09-30 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Here’s what’s worth streaming in October on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/bulletins/redirect/go?g=af7798ec-fb69-42fa-88c9-bf92767977c4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 23:19
+
+#### [As stocks soar, investors see little choice but to keep riding the bull market](https://www.marketwatch.com/bulletins/redirect/go?g=30c41f23-7c9d-45cb-877e-bc54bc634911&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 21:55
+
+#### [Nike’s results top expectations, but company warns recovery won't be 'linear'](https://www.marketwatch.com/bulletins/redirect/go?g=e6a91992-d842-4046-bac2-c6c08839e47d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 21:07
+
+#### [S&P 500 and Nasdaq score best September in over 15 years. Can the momentum last?](https://www.marketwatch.com/bulletins/redirect/go?g=81e77525-f94d-4ae3-970e-c3960b9161e5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 20:38
+
+#### [Dow closes at new record as U.S. stocks gain despite looming government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=54bc1e56-516c-44f0-b2ab-d2bdf5eae604&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 20:08
+
+#### [How Trump’s son-in-law Jared Kushner became part of the biggest buyout ever](https://www.marketwatch.com/bulletins/redirect/go?g=cad1ac83-5536-42f1-b7ea-71fbbc1f8da5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 19:31
+
+#### [Here’s the latest sign that Boeing is going on the offensive against Airbus](https://www.marketwatch.com/bulletins/redirect/go?g=7f7dea68-af77-49ab-bc17-ba821cb2a526&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 17:42
+
+#### [Businesses are now hiring workers at the slowest pace since the pandemic era](https://www.marketwatch.com/bulletins/redirect/go?g=42f4fe16-d130-4d63-a0db-262535bc70c2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 14:21
+
+#### [U.S. consumer confidence falls to lowest level since April](https://www.marketwatch.com/bulletins/redirect/go?g=84217ec7-a201-4b72-9ad1-8de404d1556e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 14:12
+
+#### [Top artificial-intelligence researcher sees 2026 as a tipping point](https://www.marketwatch.com/bulletins/redirect/go?g=c91d91e7-1d19-403d-adef-bed32ea550dc&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 12:24
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pfizer found a way to boost its ailing stock — agree on drug pricing with TrumpRx](https://www.marketwatch.com/story/pfizer-found-a-way-to-boost-its-ailing-stock-agree-with-trump-on-drug-pricing-219908fa?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:10
+
+#### [Marvell has ‘huge potential,’ these analysts say. Here’s why they downgraded the stock anyway.](https://www.marketwatch.com/story/marvell-has-huge-potential-these-analysts-say-heres-why-they-downgraded-the-stock-anyway-ac13f435?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 22:27
+
+#### [Here’s how much your health insurance could go up next year — whether there’s a government shutdown or not](https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 22:16
+
+#### [Alphabet’s stock just had its best quarter in two decades thanks to AI](https://www.marketwatch.com/story/alphabets-stock-just-had-its-best-quarter-in-two-decades-thanks-to-ai-8a8f1273?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 22:11
+
+#### [Why Warren Buffett’s Berkshire Hathaway may be placing another bet in petrochemicals](https://www.marketwatch.com/story/why-warren-buffetts-berkshire-hathaway-may-be-placing-another-bet-in-petrochemicals-681c4534?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 21:22
+
+#### [As stocks power higher, investors see little choice but to keep riding the bull market](https://www.marketwatch.com/story/as-stocks-power-higher-investors-see-little-choice-but-to-keep-riding-the-bull-market-8e4acd91?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:58
+
+#### [Qualcomm promises it can be an AI winner. What does it know that Nvidia and Intel don’t?](https://www.marketwatch.com/story/qualcomm-promises-it-can-be-an-ai-winner-but-does-it-know-what-nvidia-and-intel-do-7f6a3155?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:58
+
+#### [Two Social Security problems that seem almost impossible to fix](https://www.marketwatch.com/story/two-social-security-problems-that-seem-almost-impossible-to-fix-c3253e1a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:46
+
+#### [Nike’s results top expectations, but company warns its recovery ‘will not be linear’](https://www.marketwatch.com/story/nikes-results-top-expectations-but-company-warns-its-recovery-will-not-be-linear-e9ea7fab?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:41
+
+#### [Here’s what’s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-october-2025-on-netflix-hulu-hbo-max-and-more-6b2875b5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:19
 
 ---
 

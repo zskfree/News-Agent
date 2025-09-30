@@ -1,7 +1,184 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-30 08:28
+**最后更新时间**: 2025-09-30 23:22
+
+---
+
+## 🆕 最新更新 (2025-09-30 23:22)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 刚刚发布了属于 AI 的抖音，还有 Sora 2](http://www.geekpark.net/news/354764)
+**发布时间**: 2025-10-01 03:09
+
+#### [从 Pulse 的出现， 聊聊「履约飞轮」 和「代理经济」](http://www.geekpark.net/news/354762)
+**发布时间**: 2025-09-30 18:23
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [博泰车联港股上市，200亿市值是低估还是泡沫？ | 巴伦精选](https://www.tmtpost.com/7712059.html)
+**发布时间**: 2025-09-30 23:35
+
+#### [五大领域AI落地实践，他们这么说](https://www.tmtpost.com/7711964.html)
+**发布时间**: 2025-09-30 21:10
+
+#### [瑞士医疗科技公司Hemotune研发血液磁性吸附珠，高效治疗败血症 | 瑞士创新100强](https://www.tmtpost.com/7711253.html)
+**发布时间**: 2025-09-30 19:27
+
+#### [三星电子，动起来了](https://www.tmtpost.com/7711770.html)
+**发布时间**: 2025-09-30 19:27
+
+#### [「一页纸」吃透产业链之：创新药，License-out BD进军全球市场](https://www.tmtpost.com/7710957.html)
+**发布时间**: 2025-09-30 19:26
+
+#### [广电严管霸总：短剧要被“严打”了？](https://www.tmtpost.com/7710934.html)
+**发布时间**: 2025-09-30 19:26
+
+#### [中东资本，加速融入中国](https://www.tmtpost.com/7710899.html)
+**发布时间**: 2025-09-30 19:26
+
+#### [沙特阿拉伯或将取消外资持股上限规则；TikTok美国新方案：或将成立新合资公司；巴西零售商将重心由黑五转向圣诞季｜一周出海参考](https://www.tmtpost.com/7711475.html)
+**发布时间**: 2025-09-30 19:24
+
+#### [打了半年多，外卖江湖定局“三分天下”](https://www.tmtpost.com/7711495.html)
+**发布时间**: 2025-09-30 19:22
+
+#### [AI股和黄金同涨不止是“杠铃交易”](https://www.tmtpost.com/7711774.html)
+**发布时间**: 2025-09-30 19:22
+
+#### [怕跑路的健身人士，拥抱“次卡制”健身房](https://www.tmtpost.com/7711688.html)
+**发布时间**: 2025-09-30 19:22
+
+#### [联姻国资、锚定蓝海，解码运达科技加码自动驾驶物流的危与机](https://www.tmtpost.com/7711680.html)
+**发布时间**: 2025-09-30 19:13
+
+#### [帝奥微并购荣湃半导体：隔离芯片能否解汽车电子饥渴？｜并购一线](https://www.tmtpost.com/7711757.html)
+**发布时间**: 2025-09-30 19:10
+
+#### [英伟达回归遇阻，谁能替代H20？](https://www.tmtpost.com/7711472.html)
+**发布时间**: 2025-09-30 18:55
+
+#### [从深夜炸场到凌晨跑路：Manus败退新加坡，“镀金”回来就能赢？](https://www.tmtpost.com/7711461.html)
+**发布时间**: 2025-09-30 18:55
+
+#### [车载SOC芯片战局复盘：国产替代到底打到了哪一关？](https://www.tmtpost.com/7711398.html)
+**发布时间**: 2025-09-30 18:55
+
+#### [亿道信息双并购背后，一场AIoT赛道的时间竞赛与战略豪赌](https://www.tmtpost.com/7711672.html)
+**发布时间**: 2025-09-30 18:48
+
+#### [小米最近的境遇，让我想起一则古老寓言](https://www.tmtpost.com/7711049.html)
+**发布时间**: 2025-09-30 18:17
+
+#### [万达之殇](https://www.tmtpost.com/7711043.html)
+**发布时间**: 2025-09-30 18:17
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Google is blocking AI searches for Trump and dementia](https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden)
+**发布时间**: 2025-09-30 21:17
+
+#### [TikTok, #freedom edition](https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator)
+**发布时间**: 2025-09-30 21:00
+
+#### [Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now](https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale)
+**发布时间**: 2025-09-30 18:28
+
+#### [You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000](https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder)
+**发布时间**: 2025-09-30 18:27
+
+#### [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)
+**发布时间**: 2025-09-30 17:40
+
+#### [Microsoft is giving Copilot AI faces you can chat with](https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar)
+**发布时间**: 2025-09-30 17:12
+
+#### [Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure](https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort)
+**发布时间**: 2025-09-30 17:10
+
+#### [OpenAI’s new social video app will let you deepfake your friends](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends)
+**发布时间**: 2025-09-30 17:06
+
+#### [Microsoft’s Windows 11 2025 update is available now](https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta)
+**发布时间**: 2025-09-30 17:00
+
+#### [Apple’s M5 iPad Pro might have leaked in Russia](https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom)
+**发布时间**: 2025-09-30 16:44
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)](https://www.wired.com/story/early-prime-day-deals-october-2025-1/)
+**发布时间**: 2025-09-30 19:55
+
+#### [The 50 Best Shows on HBO Max Right Now (October 2025)](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+**发布时间**: 2025-09-30 19:00
+
+#### [The Apple Watch Series 10 Is $170 Off](https://www.wired.com/story/apple-watch-series-10-deal-1025/)
+**发布时间**: 2025-09-30 17:57
+
+#### [11 Best White Noise Machines (2025): Lectrofan, Snooz, Hatch, and More](https://www.wired.com/gallery/best-white-noise-machine/)
+**发布时间**: 2025-09-30 16:58
+
+#### [Everything Amazon Announced Today at Its Fall Hardware Event (2025)](https://www.wired.com/story/everything-amazon-announced-today-at-its-fall-hardware-event/)
+**发布时间**: 2025-09-30 16:36
+
+#### [The Real Stakes, and Real Story, of Peter Thiel’s Antichrist Obsession](https://www.wired.com/story/the-real-stakes-real-story-peter-thiels-antichrist-obsession/)
+**发布时间**: 2025-09-30 16:05
+
+#### [The Blink Arc Can Merge Two Security Cameras for a 180-Degree View](https://www.wired.com/story/amazon-blink-arc-mini-2k/)
+**发布时间**: 2025-09-30 15:30
+
+#### [Scientists Made Human Eggs From Skin Cells and Used Them to Form Embryos](https://www.wired.com/story/scientists-made-human-eggs-from-skin-cells-and-used-them-to-make-embryos/)
+**发布时间**: 2025-09-30 15:00
+
+#### [Google’s Latest AI Ransomware Defense Only Goes So Far](https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/)
+**发布时间**: 2025-09-30 13:44
+
+#### [Subaru Crosstrek Hybrid 2026 Review: Smooth, Efficient](https://www.wired.com/review/subaru-crosstrek-hybrid-2026/)
+**发布时间**: 2025-09-30 13:00
+
+#### [DoorDash’s New Delivery Robot Rolls Out Into the Big, Cruel World](https://www.wired.com/story/doordash-dot-delivery-robot/)
+**发布时间**: 2025-09-30 13:00
+
+#### [Asus TUF Gaming T500 PC Review: Great for New PC Gamers](https://www.wired.com/review/asus-tuf-gaming-t500/)
+**发布时间**: 2025-09-30 12:00
+
+#### [How to Use Passkeys With Google Password Manager (2025)](https://www.wired.com/story/how-to-use-google-passkeys/)
+**发布时间**: 2025-09-30 11:30
+
+#### [How K-Pop Stans Set the Stage for the US TikTok Ban](https://www.wired.com/story/book-excerpt-tiktok-ban-trump-kpop-stans/)
+**发布时间**: 2025-09-30 11:00
+
+#### [We Asked Audio Pros to Blind Test Headphones. The Results Were Surprising](https://www.wired.com/story/we-asked-audio-pros-to-blind-test-headphones-the-results-were-surprising/)
+**发布时间**: 2025-09-30 11:00
+
+#### [The Best Over-the-Counter Sleep Aids (2025), Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
+**发布时间**: 2025-09-30 10:33
+
+#### [Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out](https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/)
+**发布时间**: 2025-09-30 10:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [最高500万补贴等你拿，云谷杯·2025人工智能应用创新创业大赛报名中](https://www.infoq.cn/article/6p9RFNUJCURVboDY72ml?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 19:27
+
+#### [深耕 Valkey 社区：腾讯云以集群深度优化方案破解云上运维的故障恢复难题](https://www.infoq.cn/video/grDqkGsve3yK3Z0brw5j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 19:27
+
+#### [Redis 最佳实践干货：拆解网络耗时陷阱，规避用法雷区](https://www.infoq.cn/video/mvJ8N0eq5iZLt8RG1gOY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 19:25
+
+#### [拒绝低可用、弱健壮、高成本！基于 slot 原子化迁移方案的水平扩缩容难题破局](https://www.infoq.cn/video/6z6JExPRpzds2O9M0lL4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 19:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [变化最大的不只是外观：iPhone 17 Pro 使用体验](https://sspai.com/post/102815)
+**发布时间**: 2025-09-30 17:51
+
+#### [社区速递 112 | 量大管饱的派友八月剁手清单、一周热评和最新文章](https://sspai.com/post/102857)
+**发布时间**: 2025-09-30 15:54
 
 ---
 

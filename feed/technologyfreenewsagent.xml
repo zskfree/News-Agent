@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Sep 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2025 08:29:05 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2025 23:24:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ChatGPT能购物了，电商平台股价暴涨！OpenAI官宣支持“即时结账”，免费用、不影响商品定价</title>
-      <link>https://www.infoq.cn/article/9esL1EmIOZawTU7JHimD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ChatGPT能购物了，电商平台股价暴涨！OpenAI官宣支持“即时结账”，免费用、不影响商品定价]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9esL1EmIOZawTU7JHimD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>瑞士医疗科技公司Hemotune研发血液磁性吸附珠，高效治疗败血症 | 瑞士创新100强</title>
+      <link>https://www.tmtpost.com/7711253.html</link>
+      <description>&lt;![CDATA[瑞士医疗科技公司Hemotune研发血液磁性吸附珠，高效治疗败血症 | 瑞士创新100强]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 19:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7711253.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人的“最后一公里”：深聊灵巧手的“不可能三角”与六大技术门派</title>
-      <link>https://www.tmtpost.com/7711328.html</link>
-      <description>&lt;![CDATA[机器人的“最后一公里”：深聊灵巧手的“不可能三角”与六大技术门派]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7711328.html</guid>
+      <title>OpenAI 刚刚发布了属于 AI 的抖音，还有 Sora 2</title>
+      <link>http://www.geekpark.net/news/354764</link>
+      <description>&lt;![CDATA[OpenAI 刚刚发布了属于 AI 的抖音，还有 Sora 2]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 03:09:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354764</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 被爆将推出独立应用狙击 TikTok，由 Sora 2 提供支持</title>
-      <link>https://www.infoq.cn/article/JSyRrjrrXReUmPwvvkU2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 被爆将推出独立应用狙击 TikTok，由 Sora 2 提供支持]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JSyRrjrrXReUmPwvvkU2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>「一页纸」吃透产业链之：创新药，License-out BD进军全球市场</title>
+      <link>https://www.tmtpost.com/7710957.html</link>
+      <description>&lt;![CDATA[「一页纸」吃透产业链之：创新药，License-out BD进军全球市场]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7710957.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对 MCP 的批判性审视</title>
-      <link>https://www.infoq.cn/article/T6C39f5lZKI1hW0MR7dM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[对 MCP 的批判性审视]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/T6C39f5lZKI1hW0MR7dM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>联姻国资、锚定蓝海，解码运达科技加码自动驾驶物流的危与机</title>
+      <link>https://www.tmtpost.com/7711680.html</link>
+      <description>&lt;![CDATA[联姻国资、锚定蓝海，解码运达科技加码自动驾驶物流的危与机]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7711680.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>vLLM 社区原生支持 HAMi，实现推理效率飞跃</title>
-      <link>https://www.infoq.cn/article/ALLvm7bCIVrXSqKuE4db?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[vLLM 社区原生支持 HAMi，实现推理效率飞跃]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ALLvm7bCIVrXSqKuE4db?utm_source=rss&amp;utm_medium=article</guid>
+      <title>帝奥微并购荣湃半导体：隔离芯片能否解汽车电子饥渴？｜并购一线</title>
+      <link>https://www.tmtpost.com/7711757.html</link>
+      <description>&lt;![CDATA[帝奥微并购荣湃半导体：隔离芯片能否解汽车电子饥渴？｜并购一线]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7711757.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>知名机器人专家喊话：投人形机器人初创公司的数十亿美元，正在打水漂</title>
-      <link>https://www.infoq.cn/article/4mCcZv4Us4zJbzRuCiC8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[知名机器人专家喊话：投人形机器人初创公司的数十亿美元，正在打水漂]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4mCcZv4Us4zJbzRuCiC8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>车载SOC芯片战局复盘：国产替代到底打到了哪一关？</title>
+      <link>https://www.tmtpost.com/7711398.html</link>
+      <description>&lt;![CDATA[车载SOC芯片战局复盘：国产替代到底打到了哪一关？]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 18:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7711398.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apache Doris 在岚图汽车的应用实践</title>
-      <link>https://www.infoq.cn/article/fk7dbjEVGabmrsgXuEeX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Apache Doris 在岚图汽车的应用实践]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fk7dbjEVGabmrsgXuEeX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>最高500万补贴等你拿，云谷杯·2025人工智能应用创新创业大赛报名中</title>
+      <link>https://www.infoq.cn/article/6p9RFNUJCURVboDY72ml?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[最高500万补贴等你拿，云谷杯·2025人工智能应用创新创业大赛报名中]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 19:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6p9RFNUJCURVboDY72ml?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>多模态方法无法实现AGI</title>
-      <link>https://www.infoq.cn/article/m4usZ8lgF26JpOcN448e?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[多模态方法无法实现AGI]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/m4usZ8lgF26JpOcN448e?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从 Pulse 的出现， 聊聊「履约飞轮」 和「代理经济」</title>
+      <link>http://www.geekpark.net/news/354762</link>
+      <description>&lt;![CDATA[从 Pulse 的出现， 聊聊「履约飞轮」 和「代理经济」]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354762</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>White House Says EU and Japan Spared from Trump's 100% Pharma Tariffs</title>
-      <link>https://www.tmtpost.com/7711554.html</link>
-      <description>&lt;![CDATA[White House Says EU and Japan Spared from Trump's 100% Pharma Tariffs]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7711554.html</guid>
+      <title>博泰车联港股上市，200亿市值是低估还是泡沫？ | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7712059.html</link>
+      <description>&lt;![CDATA[博泰车联港股上市，200亿市值是低估还是泡沫？ | 巴伦精选]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 23:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7712059.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>资本新锐靳春平主导冠中生态“控制权转让+AI收购”连环局​</title>
-      <link>https://www.tmtpost.com/7711521.html</link>
-      <description>&lt;![CDATA[资本新锐靳春平主导冠中生态“控制权转让+AI收购”连环局​]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7711521.html</guid>
+      <title>五大领域AI落地实践，他们这么说</title>
+      <link>https://www.tmtpost.com/7711964.html</link>
+      <description>&lt;![CDATA[五大领域AI落地实践，他们这么说]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7711964.html</guid>
       <category>Technology</category>
     </item>
   </channel>
