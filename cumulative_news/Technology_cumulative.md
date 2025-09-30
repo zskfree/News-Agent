@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-30 05:19
+**最后更新时间**: 2025-09-30 08:28
+
+---
+
+## 🆕 最新更新 (2025-09-30 08:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 被爆将推出独立应用狙击 TikTok，由 Sora 2 提供支持](https://www.infoq.cn/article/JSyRrjrrXReUmPwvvkU2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 16:16
+
+#### [对 MCP 的批判性审视](https://www.infoq.cn/article/T6C39f5lZKI1hW0MR7dM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 16:00
+
+#### [vLLM 社区原生支持 HAMi，实现推理效率飞跃](https://www.infoq.cn/article/ALLvm7bCIVrXSqKuE4db?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 15:58
+
+#### [知名机器人专家喊话：投人形机器人初创公司的数十亿美元，正在打水漂](https://www.infoq.cn/article/4mCcZv4Us4zJbzRuCiC8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 15:50
+
+#### [Apache Doris 在岚图汽车的应用实践](https://www.infoq.cn/article/fk7dbjEVGabmrsgXuEeX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 14:55
+
+#### [多模态方法无法实现AGI](https://www.infoq.cn/article/m4usZ8lgF26JpOcN448e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 14:00
+
+#### [ChatGPT能购物了，电商平台股价暴涨！OpenAI官宣支持“即时结账”，免费用、不影响商品定价](https://www.infoq.cn/article/9esL1EmIOZawTU7JHimD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-09-30 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [机器人的“最后一公里”：深聊灵巧手的“不可能三角”与六大技术门派](https://www.tmtpost.com/7711328.html)
+**发布时间**: 2025-09-30 15:55
+
+#### [White House Says EU and Japan Spared from Trump's 100% Pharma Tariffs](https://www.tmtpost.com/7711554.html)
+**发布时间**: 2025-09-30 15:49
+
+#### [资本新锐靳春平主导冠中生态“控制权转让+AI收购”连环局​](https://www.tmtpost.com/7711521.html)
+**发布时间**: 2025-09-30 15:43
+
+#### [千万粉丝网红蓝战非账号被封禁，游戏合作影响几何？](https://www.tmtpost.com/7711123.html)
+**发布时间**: 2025-09-30 15:15
+
+#### [耗时四年、历经两次延期，野马电池5亿元募投终迎结项](https://www.tmtpost.com/7710785.html)
+**发布时间**: 2025-09-30 14:48
+
+#### [富邦系入主三年造假余波未平，亚太药业退市阴影下再觅新主](https://www.tmtpost.com/7711299.html)
+**发布时间**: 2025-09-30 14:34
+
+#### [新旧豪华的交接：理想汽车与易烊千玺的时代注脚](https://www.tmtpost.com/7711349.html)
+**发布时间**: 2025-09-30 14:13
+
+#### [千元CPU之争正式打响，谁才是你的夺冠利器？](https://www.tmtpost.com/7710948.html)
+**发布时间**: 2025-09-30 13:49
+
+#### [亏损泥潭难自拔，实控人6年终退场，亿晶光电陷“无主”状态](https://www.tmtpost.com/7710770.html)
+**发布时间**: 2025-09-30 13:36
+
+#### [A股第一大智驾并购案！地图龙头拟18亿收购鉴智机器人股权；“活塞第一股”拟27亿元收购海纳川旗下4家公司+14亿元募资；【并购一线】](https://www.tmtpost.com/7711121.html)
+**发布时间**: 2025-09-30 10:04
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Seko AI 想要重新定义短片创作这件事](http://www.geekpark.net/news/354722)
+**发布时间**: 2025-09-30 14:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜我做了一款鸿蒙独占应用，希望成为真正懂你的「路线神器」](https://sspai.com/post/102720)
+**发布时间**: 2025-09-30 14:21
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Opera launches its AI browser, but you&#8217;ll have to pay to try it](https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost)
+**发布时间**: 2025-09-30 08:00
+
+#### [Logitech’s MX Master 4 adds haptic feedback, mostly just for fun](https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price)
+**发布时间**: 2025-09-30 07:01
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Logitech MX Master 4 Review: Productivity Pro](https://www.wired.com/review/logitech-mx-master-4/)
+**发布时间**: 2025-09-30 07:01
 
 ---
 

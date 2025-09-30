@@ -8634,27 +8634,21 @@
         "link": "https://arxiv.org/abs/2509.23589",
         "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
         "first_seen": "2025-09-30T05:19:48.106173"
+      },
+      "b81b0b4bb547ecce325b348b046eca4e4dede459c78908fffd26f92b8813aeb8": {
+        "title": "Delivering a digital sixth sense with next-generation networks",
+        "link": "https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/",
+        "published_date": "Tue, 30 Sep 2025 08:00:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.126510"
+      },
+      "c878e25c85a8fa38b68a5cfba65840f55f761c86a65c3772dec4844098c0217a": {
+        "title": "ChatGPT可以下单买买买了",
+        "link": "https://www.qbitai.com/2025/09/338533.html",
+        "published_date": "Tue, 30 Sep 2025 05:24:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.126702"
       }
     },
     "Technology": {
-      "c30607bd66c6ae411a2453c4eacb0cf439b1f11a29c427b6607c815a55d57bb8": {
-        "title": "为什么越用软件“管理”员工，效率反而越低？",
-        "link": "https://www.tmtpost.com/7678132.html",
-        "published_date": "Sun, 31 Aug 2025 15:29:00 GMT",
-        "first_seen": "2025-08-31T08:23:13.298738"
-      },
-      "3ae19a8d79a119d0b91240dbd65e071a04e519e618629de054d86b6b179dfaff": {
-        "title": "国测量子完成超亿元A+轮融资，国新基金领投",
-        "link": "https://www.tmtpost.com/7677910.html",
-        "published_date": "Sun, 31 Aug 2025 13:25:00 GMT",
-        "first_seen": "2025-08-31T08:23:13.298896"
-      },
-      "dd4f41a030fa73768d5539bf2bd7d08b4596b969a1811c6ec7ec992bdfd7c70f": {
-        "title": "多花的钱花在哪里：看硬参数读懂鼠标性能好坏",
-        "link": "https://sspai.com/post/102195",
-        "published_date": "Sun, 31 Aug 2025 15:00:00 GMT",
-        "first_seen": "2025-08-31T08:23:13.299038"
-      },
       "e53d9374069bf760db38efdb3d278f5e3ca60f1cbc75b6efda3564d545fe102d": {
         "title": "Best Labor Day Mattress Sales (2025)",
         "link": "https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/",
@@ -23594,6 +23588,138 @@
         "link": "https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025",
         "published_date": "Mon, 29 Sep 2025 23:46:00 GMT",
         "first_seen": "2025-09-30T05:20:36.714900"
+      },
+      "ded2fa17b2e2766cab8f5d5c63eb4d5b91c0addd438df723d87ff4ceebf5baaf": {
+        "title": "OpenAI 被爆将推出独立应用狙击 TikTok，由 Sora 2 提供支持",
+        "link": "https://www.infoq.cn/article/JSyRrjrrXReUmPwvvkU2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 16:16:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512885"
+      },
+      "a8b3e6fdcea9ed7f26506d4af2a5c2755de1e286991b215866fd963310aa3a35": {
+        "title": "对 MCP 的批判性审视",
+        "link": "https://www.infoq.cn/article/T6C39f5lZKI1hW0MR7dM?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 16:00:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512897"
+      },
+      "d6769a472031023ff0a87d741aabdc35fc263d8674c52c08e6e6e7f878fec367": {
+        "title": "vLLM 社区原生支持 HAMi，实现推理效率飞跃",
+        "link": "https://www.infoq.cn/article/ALLvm7bCIVrXSqKuE4db?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 15:58:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512908"
+      },
+      "2fc54c7c57e23f3d2dca40265cb72c3c2a66181af4e09834e6182e725e4d4364": {
+        "title": "知名机器人专家喊话：投人形机器人初创公司的数十亿美元，正在打水漂",
+        "link": "https://www.infoq.cn/article/4mCcZv4Us4zJbzRuCiC8?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 15:50:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512919"
+      },
+      "caa766832874831c8a6c0c91d8f144bf2f5e95e424426f50c475300701951c8f": {
+        "title": "Apache Doris 在岚图汽车的应用实践",
+        "link": "https://www.infoq.cn/article/fk7dbjEVGabmrsgXuEeX?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 14:55:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512929"
+      },
+      "16c007563d67584fc54a642434d282318e5eb41df59539a298ee5d538872132b": {
+        "title": "多模态方法无法实现AGI",
+        "link": "https://www.infoq.cn/article/m4usZ8lgF26JpOcN448e?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512937"
+      },
+      "652d6ff94a27a19fe82b21f080f1bbbfaaa07dac4864e2293b29e879c6dd64d4": {
+        "title": "ChatGPT能购物了，电商平台股价暴涨！OpenAI官宣支持“即时结账”，免费用、不影响商品定价",
+        "link": "https://www.infoq.cn/article/9esL1EmIOZawTU7JHimD?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Sep 2025 14:00:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512836"
+      },
+      "ac50dea2aa6be47931bcdcd3e243718bdb07ce83b0218f9a9432167692f30fa7": {
+        "title": "机器人的“最后一公里”：深聊灵巧手的“不可能三角”与六大技术门派",
+        "link": "https://www.tmtpost.com/7711328.html",
+        "published_date": "Tue, 30 Sep 2025 15:55:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512867"
+      },
+      "6fef98b4259c81bec6c56c33840049e5977e62f3f56cc4eb36b60c06a3f5fe83": {
+        "title": "White House Says EU and Japan Spared from Trump's 100% Pharma Tariffs",
+        "link": "https://www.tmtpost.com/7711554.html",
+        "published_date": "Tue, 30 Sep 2025 15:49:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512951"
+      },
+      "c4d57c3254e4c65b294f23ee5a0a2837c0992c8020f4f1e339343d6d31783612": {
+        "title": "资本新锐靳春平主导冠中生态“控制权转让+AI收购”连环局​",
+        "link": "https://www.tmtpost.com/7711521.html",
+        "published_date": "Tue, 30 Sep 2025 15:43:00 GMT",
+        "first_seen": "2025-09-30T08:29:05.512962"
+      },
+      "6126cda6c374643ceea13ca60af31b28155fd820e0235f1646763a3f3949406d": {
+        "title": "千万粉丝网红蓝战非账号被封禁，游戏合作影响几何？",
+        "link": "https://www.tmtpost.com/7711123.html",
+        "published_date": "Tue, 30 Sep 2025 15:15:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.171370"
+      },
+      "03e968325be3d7974d9486f452824dc95a9d0d4cceba26e97ae224eb74511c67": {
+        "title": "耗时四年、历经两次延期，野马电池5亿元募投终迎结项",
+        "link": "https://www.tmtpost.com/7710785.html",
+        "published_date": "Tue, 30 Sep 2025 14:48:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.171944"
+      },
+      "41aa2fff45e2ea5c3b0f347a4eab2ab920f705e9b7f02d4bbdc3204e6da7ab4d": {
+        "title": "富邦系入主三年造假余波未平，亚太药业退市阴影下再觅新主",
+        "link": "https://www.tmtpost.com/7711299.html",
+        "published_date": "Tue, 30 Sep 2025 14:34:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.172474"
+      },
+      "f66d5015afefe678e9f0101925238ffa986bd071ae90b93bdb0ef8b4e0f21ef0": {
+        "title": "新旧豪华的交接：理想汽车与易烊千玺的时代注脚",
+        "link": "https://www.tmtpost.com/7711349.html",
+        "published_date": "Tue, 30 Sep 2025 14:13:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.173037"
+      },
+      "034fac5c16e1efa44d9bcbe126b645d5c7c3130617b2fb54479edcdfc3ded4df": {
+        "title": "千元CPU之争正式打响，谁才是你的夺冠利器？",
+        "link": "https://www.tmtpost.com/7710948.html",
+        "published_date": "Tue, 30 Sep 2025 13:49:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.173698"
+      },
+      "eb563b358148e2e3f0c5d88e81f8310e3a1a0d4f7ccf7761acfe22dfaa08c775": {
+        "title": "亏损泥潭难自拔，实控人6年终退场，亿晶光电陷“无主”状态",
+        "link": "https://www.tmtpost.com/7710770.html",
+        "published_date": "Tue, 30 Sep 2025 13:36:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.174529"
+      },
+      "cf8badb4cf1d803d629c0199fab7036ca6d6e4ec01dde8cd915a839f4f832c63": {
+        "title": "A股第一大智驾并购案！地图龙头拟18亿收购鉴智机器人股权；“活塞第一股”拟27亿元收购海纳川旗下4家公司+14亿元募资；【并购一线】",
+        "link": "https://www.tmtpost.com/7711121.html",
+        "published_date": "Tue, 30 Sep 2025 10:04:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.176045"
+      },
+      "71e19e49459dd2fb1bfbad87c555e0eeada0d617fddf14aace9944ab9b8c987d": {
+        "title": "Seko AI 想要重新定义短片创作这件事",
+        "link": "http://www.geekpark.net/news/354722",
+        "published_date": "Tue, 30 Sep 2025 14:25:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.176873"
+      },
+      "caa7c951df094d1f93ffff9e42f74daba0be9111efe1fd8f57e6f1c70a4d1032": {
+        "title": "鸿蒙 1024｜我做了一款鸿蒙独占应用，希望成为真正懂你的「路线神器」",
+        "link": "https://sspai.com/post/102720",
+        "published_date": "Tue, 30 Sep 2025 14:21:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.178013"
+      },
+      "5844cdcdcb44dbee8b9df7d39930d049da12fa10bf912e530e4f32dcf9644749": {
+        "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
+        "link": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
+        "published_date": "Tue, 30 Sep 2025 08:00:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.179927"
+      },
+      "177516821f61f1505ac59a1ef42a41210bdc000a49b97ddba7cb7e6ce4fce1d6": {
+        "title": "Logitech’s MX Master 4 adds haptic feedback, mostly just for fun",
+        "link": "https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price",
+        "published_date": "Tue, 30 Sep 2025 07:01:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.181865"
+      },
+      "da33e6ab3771a7647292507318211acbf89cdcfeb7601dce12f286c8bc830c61": {
+        "title": "Logitech MX Master 4 Review: Productivity Pro",
+        "link": "https://www.wired.com/review/logitech-mx-master-4/",
+        "published_date": "Tue, 30 Sep 2025 07:01:00 GMT",
+        "first_seen": "2025-09-30T08:28:17.183511"
       }
     },
     "Finance": {
@@ -26762,8 +26888,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-09-30T05:20:36.655137",
-    "Technology": "2025-09-30T05:21:25.192699",
-    "Finance": "2025-09-30T05:19:47.750188"
+    "AI": "2025-09-30T08:28:17.141704",
+    "Technology": "2025-09-30T08:29:05.516603",
+    "Finance": "2025-09-30T08:28:17.036204"
   }
 }
