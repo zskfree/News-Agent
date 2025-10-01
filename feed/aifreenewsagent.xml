@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Sep 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2025 23:23:24 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 05:26:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI as a research partner: Advancing theoretical computer science with AlphaEvolve</title>
-      <link>https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/</link>
-      <description>&lt;![CDATA[AI as a research partner: Advancing theoretical computer science with AlphaEvolve]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/</guid>
+      <title>RL in the Wild: Characterizing RLVR Training in LLM Deployment</title>
+      <link>https://arxiv.org/abs/2509.25279</link>
+      <description>&lt;![CDATA[RL in the Wild: Characterizing RLVR Training in LLM Deployment]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25279</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The anatomy of a personal health agent</title>
-      <link>https://research.google/blog/the-anatomy-of-a-personal-health-agent/</link>
-      <description>&lt;![CDATA[The anatomy of a personal health agent]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/the-anatomy-of-a-personal-health-agent/</guid>
+      <title>Where LLM Agents Fail and How They can Learn From Failures</title>
+      <link>https://arxiv.org/abs/2509.25370</link>
+      <description>&lt;![CDATA[Where LLM Agents Fail and How They can Learn From Failures]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25370</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Designing CPUs for next-generation supercomputing</title>
-      <link>https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/</link>
-      <description>&lt;![CDATA[Designing CPUs for next-generation supercomputing]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/</guid>
+      <title>RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes Labeling at Scale</title>
+      <link>https://arxiv.org/abs/2509.25540</link>
+      <description>&lt;![CDATA[RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes Labeling at Scale]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25540</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Powering HPC with next-generation CPUs</title>
-      <link>https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/</link>
-      <description>&lt;![CDATA[Powering HPC with next-generation CPUs]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 13:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/</guid>
+      <title>OpenAI突然发布Sora 2：好一个“AI版抖音”！</title>
+      <link>https://www.qbitai.com/2025/10/339008.html</link>
+      <description>&lt;![CDATA[OpenAI突然发布Sora 2：好一个“AI版抖音”！]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 02:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339008.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: our thawing permafrost, and a drone-filled future</title>
-      <link>https://www.technologyreview.com/2025/09/30/1124579/the-download-our-thawing-permafrost-and-a-drone-filled-future/</link>
-      <description>&lt;![CDATA[The Download: our thawing permafrost, and a drone-filled future]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124579/the-download-our-thawing-permafrost-and-a-drone-filled-future/</guid>
+      <title>Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models</title>
+      <link>https://arxiv.org/abs/2509.25229</link>
+      <description>&lt;![CDATA[Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25229</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The US may be heading toward a drone-filled future</title>
-      <link>https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/</link>
-      <description>&lt;![CDATA[The US may be heading toward a drone-filled future]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/</guid>
+      <title>A Formal Comparison Between Chain-of-Thought and Latent Thought</title>
+      <link>https://arxiv.org/abs/2509.25239</link>
+      <description>&lt;![CDATA[A Formal Comparison Between Chain-of-Thought and Latent Thought]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25239</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Scientists can see Earth’s permafrost thawing from space</title>
-      <link>https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/</link>
-      <description>&lt;![CDATA[Scientists can see Earth’s permafrost thawing from space]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/</guid>
+      <title>Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents</title>
+      <link>https://arxiv.org/abs/2509.25302</link>
+      <description>&lt;![CDATA[Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25302</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>可能是目前效果最好的开源生图模型，混元生图3.0来了</title>
-      <link>https://www.qbitai.com/2025/09/338952.html</link>
-      <description>&lt;![CDATA[可能是目前效果最好的开源生图模型，混元生图3.0来了]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338952.html</guid>
+      <title>RADAR: Reasoning-Ability and Difficulty-Aware Routing for Reasoning LLMs</title>
+      <link>https://arxiv.org/abs/2509.25426</link>
+      <description>&lt;![CDATA[RADAR: Reasoning-Ability and Difficulty-Aware Routing for Reasoning LLMs]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25426</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>打车像点单？实测滴滴AI助手，打车也能“私人订制”了</title>
-      <link>https://www.qbitai.com/2025/09/338683.html</link>
-      <description>&lt;![CDATA[打车像点单？实测滴滴AI助手，打车也能“私人订制”了]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 12:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338683.html</guid>
+      <title>A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction</title>
+      <link>https://arxiv.org/abs/2509.25558</link>
+      <description>&lt;![CDATA[A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25558</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>真够卷的！DeepSeek更完智谱更：GLM-4.6，代码国内最强</title>
-      <link>https://www.qbitai.com/2025/09/338660.html</link>
-      <description>&lt;![CDATA[真够卷的！DeepSeek更完智谱更：GLM-4.6，代码国内最强]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/09/338660.html</guid>
+      <title>ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning</title>
+      <link>https://arxiv.org/abs/2509.25586</link>
+      <description>&lt;![CDATA[ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25586</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-30 23:22
+**最后更新时间**: 2025-10-01 05:25
+
+---
+
+## 🆕 最新更新 (2025-10-01 05:25)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As government shuts down, here’s how much your health insurance could go up next year](https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 04:11
+
+#### [The U.S. federal government just shut down. Here’s what it means for you and your money.](https://www.marketwatch.com/story/the-u-s-federal-government-just-shut-down-heres-what-it-means-for-you-and-your-money-6952e209?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 04:02
+
+#### [Tesla deliveries should see a positive breakout and fuel a stock rally, analyst says](https://www.marketwatch.com/story/tesla-deliveries-should-see-a-positive-breakout-and-fuel-a-stock-rally-analyst-says-c4de4f54?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 01:56
+
+#### [Nike warns turnaround ‘won’t be linear,’ but sees signs of life at retail chains](https://www.marketwatch.com/story/nikes-results-top-expectations-but-company-warns-its-recovery-will-not-be-linear-e9ea7fab?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 00:21
+
+#### [AI power-generation and Trump play Fermi sees strong demand for its IPO](https://www.marketwatch.com/story/ai-power-generation-and-trump-play-fermi-sees-strong-demand-for-its-ipo-1cfbcd09?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:58
+
+#### [A government shutdown at midnight looks likely. What it means for Social Security and unemployment checks, the IRS, markets and more.](https://www.marketwatch.com/story/a-government-shutdown-at-midnight-looks-likely-what-it-means-for-social-security-and-unemployment-checks-the-irs-markets-and-more-3663b191?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:38
+
+#### [Does Meta want to compete with Nvidia? Here’s a sign of its growing ambition in chips.](https://www.marketwatch.com/story/does-meta-want-to-compete-with-nvidia-heres-a-sign-of-its-growing-ambition-in-chips-2ecdaf8b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:29
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The government just shut down. Here’s what it means for you and your money.](https://www.marketwatch.com/bulletins/redirect/go?g=97d133f3-0099-41a0-9b94-b2b496b0e32b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 04:04
+
+#### [What a shutdown means for Social Security, unemployment checks, markets and more](https://www.marketwatch.com/bulletins/redirect/go?g=c5060d85-d35f-4343-b55c-4eeb39c92f36&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 00:10
+
+#### [AI power-generation and Trump play Fermi sees strong demand for its IPO](https://www.marketwatch.com/bulletins/redirect/go?g=0f6a6101-7cce-4072-90e3-908b93a5049d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 00:00
 
 ---
 
