@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Oct 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 08:27:46 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 23:19:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CoreWeave Signs $14 Billion with Meta Days after $6.5 Billion OpenAI Deal</title>
-      <link>https://www.tmtpost.com/7712275.html</link>
-      <description>&lt;![CDATA[CoreWeave Signs $14 Billion with Meta Days after $6.5 Billion OpenAI Deal]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712275.html</guid>
+      <title>Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites</title>
+      <link>https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats</link>
+      <description>&lt;![CDATA[Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 22:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>U.S. Government to Take Stakes in Lithium Americas and Its JV with GM</title>
-      <link>https://www.tmtpost.com/7712253.html</link>
-      <description>&lt;![CDATA[U.S. Government to Take Stakes in Lithium Americas and Its JV with GM]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712253.html</guid>
+      <title>Apple sidelines lighter Vision Pro to prioritize smart glasses</title>
+      <link>https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro</link>
+      <description>&lt;![CDATA[Apple sidelines lighter Vision Pro to prioritize smart glasses]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 22:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Pfizer Stock Jump Nearly 7% on Agreement with Trump Admin. Granting Drug Tariff Exemptions</title>
-      <link>https://www.tmtpost.com/7712235.html</link>
-      <description>&lt;![CDATA[Pfizer Stock Jump Nearly 7% on Agreement with Trump Admin. Granting Drug Tariff Exemptions]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712235.html</guid>
+      <title>Amazon says its AI will let NBA fans track brand-new stats</title>
+      <link>https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats</link>
+      <description>&lt;![CDATA[Amazon says its AI will let NBA fans track brand-new stats]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 22:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Roland’s TR-1000 is its first analog drum machine in over 40 years</title>
-      <link>https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909</link>
-      <description>&lt;![CDATA[Roland’s TR-1000 is its first analog drum machine in over 40 years]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909</guid>
+      <title>Instagram tests opening right onto Reels</title>
+      <link>https://www.theverge.com/news/790255/instagram-test-reels-home-tab</link>
+      <description>&lt;![CDATA[Instagram tests opening right onto Reels]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 21:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790255/instagram-test-reels-home-tab</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>How to Watch the Orionids Meteor Shower</title>
-      <link>https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/</link>
-      <description>&lt;![CDATA[How to Watch the Orionids Meteor Shower]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/</guid>
+      <title>Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx</title>
+      <link>https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer</link>
+      <description>&lt;![CDATA[Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Behold: The Lego Game Boy has already been modded to play games for real</title>
+      <link>https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd</link>
+      <description>&lt;![CDATA[Behold: The Lego Game Boy has already been modded to play games for real]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Plenty of robot vacuums are already discounted ahead of October Prime Day</title>
+      <link>https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025</link>
+      <description>&lt;![CDATA[Plenty of robot vacuums are already discounted ahead of October Prime Day]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>US government takes equity stake in one of the world’s largest lithium mines</title>
+      <link>https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass</link>
+      <description>&lt;![CDATA[US government takes equity stake in one of the world’s largest lithium mines]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions</title>
+      <link>https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri</link>
+      <description>&lt;![CDATA[Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The UK&amp;#8217;s war on Apple encryption is back</title>
+      <link>https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor</link>
+      <description>&lt;![CDATA[The UK&amp;#8217;s war on Apple encryption is back]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor</guid>
       <category>Technology</category>
     </item>
   </channel>

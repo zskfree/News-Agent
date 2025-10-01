@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Oct 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 05:26:04 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 23:18:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RL in the Wild: Characterizing RLVR Training in LLM Deployment</title>
-      <link>https://arxiv.org/abs/2509.25279</link>
-      <description>&lt;![CDATA[RL in the Wild: Characterizing RLVR Training in LLM Deployment]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25279</guid>
+      <title>Roundtables: Trump’s Impact on the Next Generation of Innovators</title>
+      <link>https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/</link>
+      <description>&lt;![CDATA[Roundtables: Trump’s Impact on the Next Generation of Innovators]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Where LLM Agents Fail and How They can Learn From Failures</title>
-      <link>https://arxiv.org/abs/2509.25370</link>
-      <description>&lt;![CDATA[Where LLM Agents Fail and How They can Learn From Failures]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25370</guid>
+      <title>Unlocking AI’s full potential requires operational excellence</title>
+      <link>https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/</link>
+      <description>&lt;![CDATA[Unlocking AI’s full potential requires operational excellence]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes Labeling at Scale</title>
-      <link>https://arxiv.org/abs/2509.25540</link>
-      <description>&lt;![CDATA[RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes Labeling at Scale]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25540</guid>
+      <title>The Download: OpenAI’s caste bias problem, and how AI videos are made</title>
+      <link>https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/</link>
+      <description>&lt;![CDATA[The Download: OpenAI’s caste bias problem, and how AI videos are made]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI突然发布Sora 2：好一个“AI版抖音”！</title>
-      <link>https://www.qbitai.com/2025/10/339008.html</link>
-      <description>&lt;![CDATA[OpenAI突然发布Sora 2：好一个“AI版抖音”！]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 02:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339008.html</guid>
+      <title>OpenAI is huge in India. Its models are steeped in caste bias.</title>
+      <link>https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/</link>
+      <description>&lt;![CDATA[OpenAI is huge in India. Its models are steeped in caste bias.]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models</title>
-      <link>https://arxiv.org/abs/2509.25229</link>
-      <description>&lt;![CDATA[Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25229</guid>
+      <title>Introducing interactive on-device segmentation in Snapseed</title>
+      <link>https://research.google/blog/introducing-interactive-on-device-segmentation-in-snapseed/</link>
+      <description>&lt;![CDATA[Introducing interactive on-device segmentation in Snapseed]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/introducing-interactive-on-device-segmentation-in-snapseed/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A Formal Comparison Between Chain-of-Thought and Latent Thought</title>
-      <link>https://arxiv.org/abs/2509.25239</link>
-      <description>&lt;![CDATA[A Formal Comparison Between Chain-of-Thought and Latent Thought]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25239</guid>
+      <title>字节Seed发布PXDesign：蛋白设计效率提升十倍，进入实用新阶段</title>
+      <link>https://www.qbitai.com/2025/10/339061.html</link>
+      <description>&lt;![CDATA[字节Seed发布PXDesign：蛋白设计效率提升十倍，进入实用新阶段]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339061.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents</title>
-      <link>https://arxiv.org/abs/2509.25302</link>
-      <description>&lt;![CDATA[Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25302</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>RADAR: Reasoning-Ability and Difficulty-Aware Routing for Reasoning LLMs</title>
-      <link>https://arxiv.org/abs/2509.25426</link>
-      <description>&lt;![CDATA[RADAR: Reasoning-Ability and Difficulty-Aware Routing for Reasoning LLMs]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25426</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction</title>
-      <link>https://arxiv.org/abs/2509.25558</link>
-      <description>&lt;![CDATA[A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25558</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning</title>
-      <link>https://arxiv.org/abs/2509.25586</link>
-      <description>&lt;![CDATA[ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25586</guid>
+      <title>全新合成框架SOTA：强化学习当引擎，任务合成当燃料，蚂蚁港大联合出品</title>
+      <link>https://www.qbitai.com/2025/10/339049.html</link>
+      <description>&lt;![CDATA[全新合成框架SOTA：强化学习当引擎，任务合成当燃料，蚂蚁港大联合出品]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339049.html</guid>
       <category>AI</category>
     </item>
   </channel>

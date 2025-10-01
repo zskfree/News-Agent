@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-01 08:27
+**最后更新时间**: 2025-10-01 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-01 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This Nvidia move has sparked criticism, but it could help the stock, one analyst says](https://www.marketwatch.com/story/this-nvidia-move-has-sparked-criticism-but-it-could-help-the-stock-one-analyst-says-406c5234?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 23:14
+
+#### [AT&T’s stock trades at a notable premium to Verizon’s. Should you still buy?](https://www.marketwatch.com/story/at-ts-stock-trades-at-a-notable-premium-to-verizons-should-you-still-buy-db419904?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 23:10
+
+#### [Does Elon Musk’s call for a Netflix boycott signal a new front in the culture wars?](https://www.marketwatch.com/story/does-elon-musks-call-for-a-netflix-boycott-signal-a-new-front-in-the-culture-wars-ad4c1a2f?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 23:07
+
+#### [Why Nvidia, Broadcom and other high-flying stocks are especially risky now](https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-highflying-stocks-are-especially-risky-now-ff1e5de5?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 22:54
+
+#### [Stocks and bitcoin are running on fumes and FOMO — but here’s how the market can steer clear of a selloff](https://www.marketwatch.com/story/the-gold-market-is-rarely-wrong-why-stocks-and-bitcoin-are-in-a-danger-zone-2a13c688?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 22:03
+
+#### [I’m 80. Is this a good or bad time to dip into my $650K retirement fund to remodel my bathroom?](https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 22:00
+
+#### [Intel’s stock extends its gains on hopes AMD could go from rival to partner](https://www.marketwatch.com/story/intels-stock-extends-its-gains-on-hopes-amd-could-go-from-rival-to-partner-dafbafbd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:37
+
+#### [Running shoes and retail gains are helping Nike’s turnaround — and cranking up the heat on rivals](https://www.marketwatch.com/story/running-shoes-and-retail-gains-are-helping-nikes-turnaround-and-cranking-up-the-heat-on-rivals-af48f8e0?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:18
+
+#### [How much could the government shutdown cost? These numbers show the potential economic hit.](https://www.marketwatch.com/story/whats-the-economic-damage-from-a-government-shutdown-these-numbers-tell-the-tale-77136e25?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:14
+
+#### [I’m 44. I have $400K in cash. I’m worried about a stock-market crash. Do I dare invest?](https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Amazon, Palo Alto Networks — and 36 more hot stock picks from Deutsche Bank](https://www.marketwatch.com/bulletins/redirect/go?g=56b88393-b82e-4ea0-b92c-6ecb38be6525&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 22:14
+
+#### [Government shutdown means Fed lacks crucial data as it considers rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=17844ce3-3733-4649-ae0c-f2a74783ca5c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 20:26
+
+#### [Dow, S&P 500 carve out new record closing highs despite government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=4d23270d-ad36-4b66-aa80-b479c8a1a263&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 20:03
+
+#### [Why stocks and bitcoin are in a danger zone](https://www.marketwatch.com/bulletins/redirect/go?g=809c4e4e-1601-46a7-98eb-a06c14ee4455&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 17:07
+
+#### [Lisa Cook to remain at Fed as Supreme Court weighs Trump bid to fire her](https://www.marketwatch.com/bulletins/redirect/go?g=801efe78-de3c-4886-8e49-cd95f71fd61e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 15:22
+
+#### [ADP revision shows loss of jobs in August vs. previously reported gain](https://www.marketwatch.com/bulletins/redirect/go?g=2af02241-97a5-4941-b07f-b5733e33eb5a&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 14:14
+
+#### [Stocks move lower as U.S. government shuts down and private-sector jobs decline](https://www.marketwatch.com/bulletins/redirect/go?g=be6a7e4d-c50c-4a52-a4bb-24a29b687c28&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 13:45
+
+#### [Private-sector jobs fell for the third time in four months, ADP reports](https://www.marketwatch.com/bulletins/redirect/go?g=d9777843-b729-4628-8075-54daadadc938&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 12:26
+
+#### [Economic calendar: Payrolls, construction and factory data on morning agenda](https://www.marketwatch.com/bulletins/redirect/go?g=8f2989eb-ca14-4b94-96b1-5ac2ae04d474&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 12:18
+
+#### [One trader says Wall Street’s big money is still scared. That's a good thing.](https://www.marketwatch.com/bulletins/redirect/go?g=dcc8bd84-df19-4058-b56d-5a5c29e3740b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 11:59
 
 ---
 

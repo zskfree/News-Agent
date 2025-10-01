@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-01 08:27
+**最后更新时间**: 2025-10-01 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-01 23:17)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)
+**发布时间**: 2025-10-01 22:23
+
+#### [Apple sidelines lighter Vision Pro to prioritize smart glasses](https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro)
+**发布时间**: 2025-10-01 22:22
+
+#### [Amazon says its AI will let NBA fans track brand-new stats](https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats)
+**发布时间**: 2025-10-01 22:21
+
+#### [Instagram tests opening right onto Reels](https://www.theverge.com/news/790255/instagram-test-reels-home-tab)
+**发布时间**: 2025-10-01 21:39
+
+#### [Trump&#8217;s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
+**发布时间**: 2025-10-01 19:45
+
+#### [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)
+**发布时间**: 2025-10-01 19:36
+
+#### [Plenty of robot vacuums are already discounted ahead of October Prime Day](https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025)
+**发布时间**: 2025-10-01 19:20
+
+#### [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
+**发布时间**: 2025-10-01 18:31
+
+#### [Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions](https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri)
+**发布时间**: 2025-10-01 17:13
+
+#### [The UK&#8217;s war on Apple encryption is back](https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor)
+**发布时间**: 2025-10-01 17:13
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)
+**发布时间**: 2025-10-01 18:40
+
+#### [OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)
+**发布时间**: 2025-10-01 18:21
+
+#### [Chatbots Play With Your Emotions to Avoid Saying Goodbye](https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/)
+**发布时间**: 2025-10-01 18:00
+
+#### [Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product](https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/)
+**发布时间**: 2025-10-01 18:00
+
+#### [Our Favorite Automatic Latte Maker Is $200 Off](https://www.wired.com/story/delonghi-rivelia-deal-1025/)
+**发布时间**: 2025-10-01 17:48
+
+#### [Federal Workers Are Being Told to Blame Democrats for the Shutdown](https://www.wired.com/story/government-employees-out-of-office-email-replies/)
+**发布时间**: 2025-10-01 16:03
+
+#### [The Post-Chuck Schumer Era](https://www.wired.com/story/chuck-schumer-government-shutdown/)
+**发布时间**: 2025-10-01 15:00
+
+#### [15 Best Coolers WIRED Tested for Every Budget, Any Situation (2025)](https://www.wired.com/gallery/best-cooler/)
+**发布时间**: 2025-10-01 14:32
+
+#### [Petlibro Scout Smart Camera: Filled With Both Features and Kinks](https://www.wired.com/review/petlibro-scout-smart-camera/)
+**发布时间**: 2025-10-01 13:39
+
+#### [6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+**发布时间**: 2025-10-01 13:21
+
+#### [4 Best Google Assistant Speakers (2025): Speakers, Displays, Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
+**发布时间**: 2025-10-01 13:14
+
+#### [Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell](https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/)
+**发布时间**: 2025-10-01 13:00
+
+#### [This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro](https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/)
+**发布时间**: 2025-10-01 13:00
+
+#### [Oura Debuts a Ceramic Collection for Its Smart Ring and a $99 Charging Case](https://www.wired.com/story/oura-ceramic-collection-and-charging-case/)
+**发布时间**: 2025-10-01 12:00
+
+#### [Peloton Is Having Its Biggest Hardware Launch in Years](https://www.wired.com/story/peloton-iq-lineup-specs-prices/)
+**发布时间**: 2025-10-01 11:00
+
+#### [Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You](https://www.wired.com/story/gear-for-good-20-eco-friendly-items/)
+**发布时间**: 2025-10-01 10:30
+
+#### [A Journey Into the Heart of Labubu](https://www.wired.com/story/labubu-pop-mart-journey/)
+**发布时间**: 2025-10-01 10:00
+
+#### [The EPA Is Ending Greenhouse Gas Data Collection. Who Will Step Up to Fill the Gap?](https://www.wired.com/story/the-epa-is-ending-greenhouse-gas-data-collection-who-will-step-up-to-fill-the-gap/)
+**发布时间**: 2025-10-01 09:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [叶国富的泡泡玛特梦，又近了一步](https://www.tmtpost.com/7712285.html)
+**发布时间**: 2025-10-01 16:26
+
+#### [从行业视角，看美国广告市场的几个变化](https://www.tmtpost.com/7712217.html)
+**发布时间**: 2025-10-01 16:26
+
+#### [Oklo和NuScale股票被下调评级，分析师担忧什么？](https://www.tmtpost.com/7712272.html)
+**发布时间**: 2025-10-01 15:44
+
+#### [DraftKings和Flutter股价下跌，预测市场正逐渐升温](https://www.tmtpost.com/7712269.html)
+**发布时间**: 2025-10-01 15:43
+
+#### [Visa最新消息显示其已成为“稳定币赢家”](https://www.tmtpost.com/7712267.html)
+**发布时间**: 2025-10-01 15:43
+
+#### [Fermi公司IPO：一场押注人工智能算力的高风险投资，股票即将开始交易](https://www.tmtpost.com/7712264.html)
+**发布时间**: 2025-10-01 15:42
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
+**发布时间**: 2025-10-01 11:05
 
 ---
 
