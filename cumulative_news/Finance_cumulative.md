@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-01 05:25
+**最后更新时间**: 2025-10-01 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-01 08:27)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Tate & Lyle warns revenue and EBITDA to fall this year](https://www.marketwatch.com/bulletins/redirect/go?g=d65d7a16-3e4d-4478-8c2e-ab7d1a5785f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 07:16
 
 ---
 

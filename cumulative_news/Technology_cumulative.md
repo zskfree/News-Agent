@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-01 05:25
+**最后更新时间**: 2025-10-01 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-01 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [CoreWeave Signs $14 Billion with Meta Days after $6.5 Billion OpenAI Deal](https://www.tmtpost.com/7712275.html)
+**发布时间**: 2025-10-01 15:49
+
+#### [U.S. Government to Take Stakes in Lithium Americas and Its JV with GM](https://www.tmtpost.com/7712253.html)
+**发布时间**: 2025-10-01 15:00
+
+#### [Pfizer Stock Jump Nearly 7% on Agreement with Trump Admin. Granting Drug Tariff Exemptions](https://www.tmtpost.com/7712235.html)
+**发布时间**: 2025-10-01 13:54
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Roland’s TR-1000 is its first analog drum machine in over 40 years](https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909)
+**发布时间**: 2025-10-01 07:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [How to Watch the Orionids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+**发布时间**: 2025-10-01 06:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [国产电影，为何总是撤档？](http://www.huxiu.com/article/4786273.html?f=wangzhan)
+**发布时间**: 2025-09-30 21:00
+
+#### [今年十一，年轻人扎堆去东北](http://www.huxiu.com/article/4787563.html?f=wangzhan)
+**发布时间**: 2025-09-30 20:41
 
 ---
 

@@ -23918,6 +23918,36 @@
         "link": "https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date",
         "published_date": "Wed, 01 Oct 2025 00:15:00 GMT",
         "first_seen": "2025-10-01T05:26:04.964288"
+      },
+      "7ada6256966d3f4b10ecce49f5b172a6757bf0a7c8adf3e15c42a25b511f1ea6": {
+        "title": "CoreWeave Signs $14 Billion with Meta Days after $6.5 Billion OpenAI Deal",
+        "link": "https://www.tmtpost.com/7712275.html",
+        "published_date": "Wed, 01 Oct 2025 15:49:00 GMT",
+        "first_seen": "2025-10-01T08:27:46.181527"
+      },
+      "16c1ba84538223e4a6d063a5df230d76feb953e3a16d670d17f056489244a253": {
+        "title": "U.S. Government to Take Stakes in Lithium Americas and Its JV with GM",
+        "link": "https://www.tmtpost.com/7712253.html",
+        "published_date": "Wed, 01 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-01T08:27:46.181854"
+      },
+      "067aa6450fa5fa7cdc96c89b679da8fa21b1811c2f95aad43fb1350546eff245": {
+        "title": "Pfizer Stock Jump Nearly 7% on Agreement with Trump Admin. Granting Drug Tariff Exemptions",
+        "link": "https://www.tmtpost.com/7712235.html",
+        "published_date": "Wed, 01 Oct 2025 13:54:00 GMT",
+        "first_seen": "2025-10-01T08:27:46.182350"
+      },
+      "1a157a246b4c2b89ad2049b2ee72a497d5f2d2f4cb89b5102e775c57b768622a": {
+        "title": "Roland’s TR-1000 is its first analog drum machine in over 40 years",
+        "link": "https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909",
+        "published_date": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "first_seen": "2025-10-01T08:27:46.183056"
+      },
+      "da2baad8048f8695838336881d6dd8c655a7e7a7cb2fe8a4942e40a817fc041c": {
+        "title": "How to Watch the Orionids Meteor Shower",
+        "link": "https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/",
+        "published_date": "Wed, 01 Oct 2025 06:00:00 GMT",
+        "first_seen": "2025-10-01T08:27:46.183641"
       }
     },
     "Finance": {
@@ -27208,12 +27238,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c5060d85-d35f-4343-b55c-4eeb39c92f36&mod=mw_rss_bulletins",
         "published_date": "Wed, 01 Oct 2025 00:10:00 GMT",
         "first_seen": "2025-10-01T05:25:16.116628"
+      },
+      "e2a532fdfa7e637ca43cf8215b83ca0bb697ae65e4079620511782a450290336": {
+        "title": "Tate & Lyle warns revenue and EBITDA to fall this year",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d65d7a16-3e4d-4478-8c2e-ab7d1a5785f5&mod=mw_rss_bulletins",
+        "published_date": "Wed, 01 Oct 2025 07:16:00 GMT",
+        "first_seen": "2025-10-01T08:27:46.026101"
       }
     }
   },
   "last_update": {
-    "AI": "2025-10-01T05:26:04.926127",
-    "Technology": "2025-10-01T05:26:53.250884",
-    "Finance": "2025-10-01T05:25:16.132299"
+    "AI": "2025-10-01T08:27:46.155829",
+    "Technology": "2025-10-01T08:27:46.191373",
+    "Finance": "2025-10-01T08:27:46.055392"
   }
 }

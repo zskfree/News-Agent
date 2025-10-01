@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Oct 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 05:26:53 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 08:27:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>高性能全闪并行文件系统的设计和实践</title>
-      <link>https://www.infoq.cn/article/9bVzTqrTO0OG5ktmINGk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[高性能全闪并行文件系统的设计和实践]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 09:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9bVzTqrTO0OG5ktmINGk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>CoreWeave Signs $14 Billion with Meta Days after $6.5 Billion OpenAI Deal</title>
+      <link>https://www.tmtpost.com/7712275.html</link>
+      <description>&lt;![CDATA[CoreWeave Signs $14 Billion with Meta Days after $6.5 Billion OpenAI Deal]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7712275.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 深夜重磅推出新视频模型和独立 App；英伟达市值突破4.5万亿美元；特斯拉预计推出第三代人形机器人 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/354765</link>
-      <description>&lt;![CDATA[OpenAI 深夜重磅推出新视频模型和独立 App；英伟达市值突破4.5万亿美元；特斯拉预计推出第三代人形机器人 | 极客早知道]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/354765</guid>
+      <title>U.S. Government to Take Stakes in Lithium Americas and Its JV with GM</title>
+      <link>https://www.tmtpost.com/7712253.html</link>
+      <description>&lt;![CDATA[U.S. Government to Take Stakes in Lithium Americas and Its JV with GM]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7712253.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国庆档预售胜负已分，谁能成为“救市之作”？</title>
-      <link>https://www.tmtpost.com/7711836.html</link>
-      <description>&lt;![CDATA[国庆档预售胜负已分，谁能成为“救市之作”？]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7711836.html</guid>
+      <title>Pfizer Stock Jump Nearly 7% on Agreement with Trump Admin. Granting Drug Tariff Exemptions</title>
+      <link>https://www.tmtpost.com/7712235.html</link>
+      <description>&lt;![CDATA[Pfizer Stock Jump Nearly 7% on Agreement with Trump Admin. Granting Drug Tariff Exemptions]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7712235.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>iPhone 17 Pro Max真实使用体验报告：变化剧烈、提升显著，依旧是最为值得购买的高端旗舰</title>
-      <link>https://www.tmtpost.com/7712205.html</link>
-      <description>&lt;![CDATA[iPhone 17 Pro Max真实使用体验报告：变化剧烈、提升显著，依旧是最为值得购买的高端旗舰]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 12:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712205.html</guid>
+      <title>Roland’s TR-1000 is its first analog drum machine in over 40 years</title>
+      <link>https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909</link>
+      <description>&lt;![CDATA[Roland’s TR-1000 is its first analog drum machine in over 40 years]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手逃离“死亡螺旋”</title>
-      <link>https://www.tmtpost.com/7712057.html</link>
-      <description>&lt;![CDATA[快手逃离“死亡螺旋”]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712057.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>破解人心算法：“炸山始祖鸟”为啥搞不过“鸡排主理人”？</title>
-      <link>https://www.tmtpost.com/7712154.html</link>
-      <description>&lt;![CDATA[破解人心算法：“炸山始祖鸟”为啥搞不过“鸡排主理人”？]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712154.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Sora 2的玩法很吸睛！但想持续赚钱，还有很多阻力</title>
-      <link>https://www.tmtpost.com/7712165.html</link>
-      <description>&lt;![CDATA[Sora 2的玩法很吸睛！但想持续赚钱，还有很多阻力]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712165.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>「一页纸」讲透产业趋势之：储能</title>
-      <link>https://www.tmtpost.com/7712051.html</link>
-      <description>&lt;![CDATA[「一页纸」讲透产业趋势之：储能]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712051.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>人形机器人「朋友圈」的明牌和暗战</title>
-      <link>https://www.tmtpost.com/7712029.html</link>
-      <description>&lt;![CDATA[人形机器人「朋友圈」的明牌和暗战]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7712029.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>十年营收翻十倍，净利率却仅4.49%，芭薇股份藏着美妆代工的残酷真相</title>
-      <link>https://www.tmtpost.com/7711954.html</link>
-      <description>&lt;![CDATA[十年营收翻十倍，净利率却仅4.49%，芭薇股份藏着美妆代工的残酷真相]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7711954.html</guid>
+      <title>How to Watch the Orionids Meteor Shower</title>
+      <link>https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/</link>
+      <description>&lt;![CDATA[How to Watch the Orionids Meteor Shower]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/</guid>
       <category>Technology</category>
     </item>
   </channel>
