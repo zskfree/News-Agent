@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 23:18:20 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 05:19:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Roundtables: Trump’s Impact on the Next Generation of Innovators</title>
-      <link>https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/</link>
-      <description>&lt;![CDATA[Roundtables: Trump’s Impact on the Next Generation of Innovators]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 20:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/</guid>
+      <title>Learning to Lead Themselves: Agentic AI in MAS using MARL</title>
+      <link>https://arxiv.org/abs/2510.00022</link>
+      <description>&lt;![CDATA[Learning to Lead Themselves: Agentic AI in MAS using MARL]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00022</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Unlocking AI’s full potential requires operational excellence</title>
-      <link>https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/</link>
-      <description>&lt;![CDATA[Unlocking AI’s full potential requires operational excellence]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/</guid>
+      <title>ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools</title>
+      <link>https://arxiv.org/abs/2510.00023</link>
+      <description>&lt;![CDATA[ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00023</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: OpenAI’s caste bias problem, and how AI videos are made</title>
-      <link>https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/</link>
-      <description>&lt;![CDATA[The Download: OpenAI’s caste bias problem, and how AI videos are made]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/</guid>
+      <title>NeurIPS should lead scientific consensus on AI policy</title>
+      <link>https://arxiv.org/abs/2510.00075</link>
+      <description>&lt;![CDATA[NeurIPS should lead scientific consensus on AI policy]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00075</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI is huge in India. Its models are steeped in caste bias.</title>
-      <link>https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/</link>
-      <description>&lt;![CDATA[OpenAI is huge in India. Its models are steeped in caste bias.]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/</guid>
+      <title>Towards a Framework for Supporting the Ethical and Regulatory Certification of AI Systems</title>
+      <link>https://arxiv.org/abs/2510.00084</link>
+      <description>&lt;![CDATA[Towards a Framework for Supporting the Ethical and Regulatory Certification of AI Systems]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00084</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Introducing interactive on-device segmentation in Snapseed</title>
-      <link>https://research.google/blog/introducing-interactive-on-device-segmentation-in-snapseed/</link>
-      <description>&lt;![CDATA[Introducing interactive on-device segmentation in Snapseed]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/introducing-interactive-on-device-segmentation-in-snapseed/</guid>
+      <title>Judging by Appearances? Auditing and Intervening Vision-Language Models for Bail Prediction</title>
+      <link>https://arxiv.org/abs/2510.00088</link>
+      <description>&lt;![CDATA[Judging by Appearances? Auditing and Intervening Vision-Language Models for Bail Prediction]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00088</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>字节Seed发布PXDesign：蛋白设计效率提升十倍，进入实用新阶段</title>
-      <link>https://www.qbitai.com/2025/10/339061.html</link>
-      <description>&lt;![CDATA[字节Seed发布PXDesign：蛋白设计效率提升十倍，进入实用新阶段]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339061.html</guid>
+      <title>Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI</title>
+      <link>https://arxiv.org/abs/2510.00167</link>
+      <description>&lt;![CDATA[Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00167</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全新合成框架SOTA：强化学习当引擎，任务合成当燃料，蚂蚁港大联合出品</title>
-      <link>https://www.qbitai.com/2025/10/339049.html</link>
-      <description>&lt;![CDATA[全新合成框架SOTA：强化学习当引擎，任务合成当燃料，蚂蚁港大联合出品]]&gt;</description>
-      <pubDate>Wed, 01 Oct 2025 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339049.html</guid>
+      <title>Semantic-Driven AI Agent Communications: Challenges and Solutions</title>
+      <link>https://arxiv.org/abs/2510.00381</link>
+      <description>&lt;![CDATA[Semantic-Driven AI Agent Communications: Challenges and Solutions]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00381</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Rethinking Reward Models for Multi-Domain Test-Time Scaling</title>
+      <link>https://arxiv.org/abs/2510.00492</link>
+      <description>&lt;![CDATA[Rethinking Reward Models for Multi-Domain Test-Time Scaling]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00492</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ACON: Optimizing Context Compression for Long-horizon LLM Agents</title>
+      <link>https://arxiv.org/abs/2510.00615</link>
+      <description>&lt;![CDATA[ACON: Optimizing Context Compression for Long-horizon LLM Agents]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00615</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AttentionDep: Domain-Aware Attention for Explainable Depression Severity Assessment</title>
+      <link>https://arxiv.org/abs/2510.00706</link>
+      <description>&lt;![CDATA[AttentionDep: Domain-Aware Attention for Explainable Depression Severity Assessment]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.00706</guid>
       <category>AI</category>
     </item>
   </channel>

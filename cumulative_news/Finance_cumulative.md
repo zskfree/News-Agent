@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-01 23:17
+**最后更新时间**: 2025-10-02 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-02 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon, Palo Alto Networks — and 36 more hot stock picks from Deutsche Bank](https://www.marketwatch.com/story/amazon-palo-alto-networks-and-36-more-hot-stock-picks-from-deutsche-bank-caef0627?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 02:29
+
+#### [Government shutdown means Fed lacks crucial data as it considers rate cuts](https://www.marketwatch.com/story/government-shutdown-means-fed-lacks-crucial-data-as-it-considers-rate-cuts-5a347773?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 00:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Could canceling my pricey American Express Platinum card hurt my credit score?](https://www.marketwatch.com/bulletins/redirect/go?g=3a457a22-a54e-498e-acf7-bd9fcd71a665&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 01:08
+
+#### [Here’s what’s worth streaming in October on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/bulletins/redirect/go?g=b819020e-ebc5-4cf2-9cde-a6609c0c74cf&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 23:19
 
 ---
 

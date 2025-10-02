@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-01 23:17
+**最后更新时间**: 2025-10-02 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-02 05:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [.NET MAUI RC1 带来了诊断功能以及Android CoreCLR的实验性支持](https://www.infoq.cn/article/oLk2AQ1iCyxdLNXdsSST?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-02 10:00
+
+#### [AI 模型评分有标准了！Google Stax 当“裁判”，作弊也难逃“量化法眼”](https://www.infoq.cn/article/wk3gggWkIL2PdMfSHdMW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-02 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
+**发布时间**: 2025-10-02 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [疲软的就业数据难挡火热经济，这三只ETF值得买入](https://www.tmtpost.com/7712583.html)
+**发布时间**: 2025-10-02 09:51
+
+#### [特朗普引发了医药股上涨，但这波行情或难以持续](https://www.tmtpost.com/7712581.html)
+**发布时间**: 2025-10-02 09:51
+
+#### [一文讲透美股公司之：IREN，从加密矿工到AI Infra](https://www.tmtpost.com/7712420.html)
+**发布时间**: 2025-10-02 09:20
+
+#### [摩根士丹利将台积电台股目标价上调至1588新台币](https://www.tmtpost.com/7712492.html)
+**发布时间**: 2025-10-02 09:05
+
+#### [小鹏汽车交付新车 41,581 台，同比增长 95%](https://www.tmtpost.com/7712490.html)
+**发布时间**: 2025-10-02 09:04
+
+#### [造车新势力9月交付数据出炉，多家车企创历史新高](https://www.tmtpost.com/7712488.html)
+**发布时间**: 2025-10-02 09:03
+
+#### [政府关门引发避险交易，但美元并未成为避险资产](https://www.tmtpost.com/7712481.html)
+**发布时间**: 2025-10-02 08:20
+
+#### [ASML在财报公布前备受追捧，以下是其被看好的两大理由](https://www.tmtpost.com/7712479.html)
+**发布时间**: 2025-10-02 08:20
+
+#### [蔚来、理想和小鹏销量增长，特斯拉在中国的销量却未见增长](https://www.tmtpost.com/7712477.html)
+**发布时间**: 2025-10-02 08:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [历史首位，马斯克身家突破 5000 亿美元；王腾注销、清空多个社媒账号；美国演员工会抵制 AI 演员](http://www.geekpark.net/news/354767)
+**发布时间**: 2025-10-02 08:13
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Visible Promo Code: Save Up to $300 in October 2025](https://www.wired.com/story/visible-promo-code/)
+**发布时间**: 2025-10-02 05:00
 
 ---
 
