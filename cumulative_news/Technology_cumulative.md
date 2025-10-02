@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-02 08:26
+**最后更新时间**: 2025-10-02 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-02 23:17)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
+**发布时间**: 2025-10-02 21:53
+
+#### [Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price)
+**发布时间**: 2025-10-02 21:03
+
+#### [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)
+**发布时间**: 2025-10-02 20:35
+
+#### [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out)
+**发布时间**: 2025-10-02 20:16
+
+#### [Google is destroying independent websites, and one sees no choice but to defend it anyway](https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web)
+**发布时间**: 2025-10-02 20:00
+
+#### [Strava sues Garmin over alleged patent infringement](https://www.theverge.com/news/790922/strava-garmin-patent-infringement-lawsuit)
+**发布时间**: 2025-10-02 19:37
+
+#### [Here are 65 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
+**发布时间**: 2025-10-02 18:59
+
+#### [It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow](https://www.theverge.com/tech/790768/xbox-series-x-s-kirby-air-riders-deal-sale)
+**发布时间**: 2025-10-02 17:50
+
+#### [Amazon now lets Prime members add items to completed orders](https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store)
+**发布时间**: 2025-10-02 17:36
+
+#### [Elon Musk is leading a pressure campaign to make Netflix un-woke](https://www.theverge.com/news/790740/elon-musk-netflix-pressure-campaign-woke)
+**发布时间**: 2025-10-02 17:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [IPO双城记：港股“量”压美股，美股“概念”为王](https://www.tmtpost.com/7712606.html)
+**发布时间**: 2025-10-02 21:10
+
+#### [西贝大降价，中产宝妈会买单吗？](https://www.tmtpost.com/7712807.html)
+**发布时间**: 2025-10-02 21:10
+
+#### [Intel May Make Chips for AMD as Trump Admin. Reported to Consider New Tariffs to Boost U.S. Manufacturing](https://www.tmtpost.com/7712817.html)
+**发布时间**: 2025-10-02 19:28
+
+#### [战略与产品，到底是什么关系？](https://www.tmtpost.com/7712534.html)
+**发布时间**: 2025-10-02 18:06
+
+#### [Xiaomi and Chinese EV Competitors Set Delivery Records in September](https://www.tmtpost.com/7712748.html)
+**发布时间**: 2025-10-02 16:48
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The 36 Best Movies on HBO Max Right Now (October 2025)](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+**发布时间**: 2025-10-02 19:00
+
+#### [Our Favorite All-in-One Printer and Scanner Is $50 Off](https://www.wired.com/story/epson-ecotank-et2980-deal-1025/)
+**发布时间**: 2025-10-02 18:10
+
+#### [Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown](https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/)
+**发布时间**: 2025-10-02 17:44
+
+#### [China Rolls Out Its First Talent Visa as the US Retreats on H-1Bs](https://www.wired.com/story/china-talent-immigration-visa-h1-b-policy/)
+**发布时间**: 2025-10-02 14:59
+
+#### [Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters](https://www.wired.com/story/former-google-ceo-will-fund-boat-drones-to-explore-rough-antarctic-waters/)
+**发布时间**: 2025-10-02 13:00
+
+#### [The Trump Administration Is Coming for Nonprofits. They're Getting Ready](https://www.wired.com/story/the-trump-administration-is-coming-for-nonprofits-theyre-getting-ready/)
+**发布时间**: 2025-10-02 12:30
+
+#### [13 Best Carry-On Luggage (2025): Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
+**发布时间**: 2025-10-02 12:01
+
+#### [The Best USB-C Cables (2025): For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+**发布时间**: 2025-10-02 11:30
+
+#### [There’s Never Been a Worse Time to Be Authentic at Work](https://www.wired.com/story/theres-never-been-a-worse-time-to-be-authentic-at-work/)
+**发布时间**: 2025-10-02 11:00
+
+#### [The Best Linen Sheets for Cool and Comfy Sleeping (2025)](https://www.wired.com/gallery/best-linen-sheets/)
+**发布时间**: 2025-10-02 10:36
+
+#### [Jeff Bezos’ Blue Origin Wins Contract to Take NASA Rover to the Moon](https://www.wired.com/story/jeff-bezos-blue-origin-wins-contract-to-take-nasa-rover-to-the-moon/)
+**发布时间**: 2025-10-02 09:00
 
 ---
 

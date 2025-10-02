@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-02 08:26
+**最后更新时间**: 2025-10-02 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-02 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla delivers a big sales beat, and the end of EV tax credits may not be the only reason](https://www.marketwatch.com/story/tesla-delivers-a-big-sales-beat-and-the-end-of-ev-tax-credits-may-not-be-the-only-reason-cd701bac?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 23:10
+
+#### [Alphabet’s stock is now beloved on Wall Street. Here’s what matters next for Google.](https://www.marketwatch.com/story/alphabets-stock-is-now-beloved-on-wall-street-heres-what-matters-next-for-google-41b20848?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 23:07
+
+#### [WNBA players want more money — and a growing roster of stars like Napheesa Collier and Caitlin Clark are calling out the league commissioner to get it](https://www.marketwatch.com/story/wnba-players-want-more-money-and-a-growing-roster-of-stars-like-napheesa-collier-and-caitlin-clark-are-calling-out-the-league-commissioner-to-get-it-d18d0ee8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 22:57
+
+#### [Cracker Barrel drops marketing firm behind disastrous logo refresh, raising further questions about future plans](https://www.marketwatch.com/story/cracker-barrel-drops-marketing-firm-behind-disastrous-logo-refresh-raising-further-questions-about-future-plans-1b76567c?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 22:36
+
+#### [Humana provides a peek into its Medicare Advantage plan ratings, and the stock jumps](https://www.marketwatch.com/story/humana-provides-a-peak-into-its-medicare-advantage-plan-ratings-and-the-stock-jumps-9c8a2676?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 22:02
+
+#### [What FICO’s credit-score shake-up really means for home buyers](https://www.marketwatch.com/story/what-ficos-credit-score-shakeup-really-means-for-home-buyers-edae75c4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 21:54
+
+#### [This S&P 500 sector gauge points to ‘excessive’ confidence and imminent pullback](https://www.marketwatch.com/story/this-s-p-500-sector-gauge-points-to-excessive-confidence-and-imminent-pullback-8b6ae740?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 20:33
+
+#### [As Warren Buffett nears retirement, he’s making his biggest purchase in years](https://www.marketwatch.com/story/as-buffett-nears-retirement-hes-making-his-biggest-purchase-in-years-ef2cc42c?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 20:26
+
+#### [No jobs report on Friday. But that may not be the worst data delay due to the federal shutdown.](https://www.marketwatch.com/story/no-jobs-report-on-friday-but-that-may-not-be-the-worst-data-delay-due-to-federal-shutdown-e43e09bc?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 20:25
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [S&P 500 sector gauge points to ‘excessive’ confidence and an imminent pullback](https://www.marketwatch.com/bulletins/redirect/go?g=f283c7a1-d5a1-4620-bc17-4fa5aa3fccc2&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 22:03
+
+#### [No jobs report Friday due to shutdown. Why that may not be the worst data delay.](https://www.marketwatch.com/bulletins/redirect/go?g=3e1f8582-a3fa-416c-8c8d-63512e83c5e6&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 21:10
+
+#### [Dow, S&P 500 and Nasdaq all end at record highs after 5th straight day of gains](https://www.marketwatch.com/bulletins/redirect/go?g=1caa409e-2444-4e92-a8a3-dc49d9b0aad8&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 20:04
+
+#### [Why a government shutdown lasting 10 days or more would unnerve investors](https://www.marketwatch.com/bulletins/redirect/go?g=db535873-8387-4a8b-aa1b-08c65509d710&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 19:30
+
+#### [Stocks gaining in final hour as Nasdaq sets sights on record close — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=7f53611c-d9e4-467f-853f-f67f41aef3a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 19:03
+
+#### [China hasn’t ‘bought a bushel’ of soybeans from U.S. farmers this year](https://www.marketwatch.com/bulletins/redirect/go?g=96174b0c-8ad3-49fe-8dfa-3209340310f3&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 17:09
+
+#### [OpenAI has just joined the $500 billion–valuation club. Now, the hard part.](https://www.marketwatch.com/bulletins/redirect/go?g=38eec29b-0f38-4cce-88e5-c51059a3daae&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 16:48
+
+#### [Tesla third-quarter deliveries outpace even the most optimistic analyst forecast](https://www.marketwatch.com/bulletins/redirect/go?g=fec24d19-39b7-4b34-af42-b3acf2e65c39&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 14:26
+
+#### [S&P 500 poised for longest win streak since July — shutdown notwithstanding](https://www.marketwatch.com/bulletins/redirect/go?g=67c130af-73ad-412d-9220-1debc5f4aec8&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 12:59
+
+#### [Economic calendar: Jobless-claims and factory-orders data postponed by shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=b6400396-100b-4256-a963-8e76bb758f4e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 12:22
 
 ---
 
