@@ -1,66 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "76a13df75fd7dde3215fc8289f8dbcbe0aba15022adba74b693f7d9084aa369a": {
-        "title": "冲上热搜！美团大模型，靠「快」火了",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02-7",
-        "published_date": "Tue, 02 Sep 2025 13:10:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.576092"
-      },
-      "39f4f84a8e7238012cb90f8d1ed88df2c7e98a82173eb99f537963438a5f419a": {
-        "title": "DeepMind爆火论文：向量嵌入模型存在数学上限，Scaling laws放缓实锤？",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02-6",
-        "published_date": "Tue, 02 Sep 2025 13:02:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.576264"
-      },
-      "16a15702a8977596a4ee7323a2dc059468f7c26b8900e741e3f2b8e7ff41413d": {
-        "title": "AI读网页，这次真不一样了，谷歌Gemini解锁「详解网页」新技能",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02-5",
-        "published_date": "Tue, 02 Sep 2025 12:01:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.576449"
-      },
-      "f82ff6c1b1c647a1414ab58e22e0790978e7a868e07c056f38563eda049a0379": {
-        "title": "性能逼近闭源最强，通义实验室开源Mobile-Agent-v3刷新10项GUI基准SOTA",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02-4",
-        "published_date": "Tue, 02 Sep 2025 11:56:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.576735"
-      },
-      "a33d14a4cecf43c4315c33243705c1ab6551baa8547a9653b382aa3a292831ee": {
-        "title": "14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02-3",
-        "published_date": "Tue, 02 Sep 2025 10:22:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.577054"
-      },
-      "b488976a4afc9b65b8d87ecc5787332ade554e64e9b43386d89d759b4f92c68f": {
-        "title": "自搜索强化学习SSRL：Agentic RL的Sim2Real时刻",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02-2",
-        "published_date": "Tue, 02 Sep 2025 10:15:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.577461"
-      },
-      "ab8bba5eacb23f3b724a998e8ec1db8fda0ce5e7e10359d253648ba7a7b9d979": {
-        "title": "全球机器翻译比赛拿下30个语种第1名，腾讯混元翻译模型开源",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-02",
-        "published_date": "Tue, 02 Sep 2025 09:54:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.577784"
-      },
-      "2754c623f5f8cc2053e678104e392376c015488dc408a2ac1b135bd305aceecb": {
-        "title": "大模型开始打王者荣耀了",
-        "link": "https://www.qbitai.com/2025/09/328161.html",
-        "published_date": "Tue, 02 Sep 2025 04:27:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.578024"
-      },
-      "07fe86377f2c72f0bf29f8cea94513fd6a2101596d1d94ece461b0a90542c07f": {
-        "title": "智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%",
-        "link": "https://www.qbitai.com/2025/09/328145.html",
-        "published_date": "Tue, 02 Sep 2025 03:49:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.578632"
-      },
-      "2170b0959766b467fe1cd6960b2a731fef01dc0174f83cfe16a95c0a73df084b": {
-        "title": "对话吉利技术一号位：VLA大模型打底，冲刺全球最大机器人公司",
-        "link": "https://www.qbitai.com/2025/09/328034.html",
-        "published_date": "Tue, 02 Sep 2025 00:49:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.579123"
-      },
       "09ad213d68cdc634d20405ac30a04696cc40d9976ec6f8df4983822cec24d168": {
         "title": "Scaling Laws起源于1993年？OpenAI总裁：深度学习的根本已揭秘",
         "link": "https://www.jiqizhixin.com/articles/2025-09-02-10",
@@ -8934,147 +8874,15 @@
         "link": "https://arxiv.org/abs/2510.01006",
         "published_date": "Thu, 02 Oct 2025 00:00:00 GMT",
         "first_seen": "2025-10-02T05:18:38.696272"
+      },
+      "9f532f6a93a7f61af38b833a8b2e5c3bc181f64e4d7dfba352730a10fff4da7a": {
+        "title": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
+        "link": "https://www.qbitai.com/2025/10/339125.html",
+        "published_date": "Thu, 02 Oct 2025 07:22:00 GMT",
+        "first_seen": "2025-10-02T08:26:06.106596"
       }
     },
     "Technology": {
-      "5e833f3124bf1001fb433a95bc358b33605ebd017d85cbf856dfe2be5a12b997": {
-        "title": "UBTECH Reports 27.5% Revenue Growth in H1 2025, Secures $1 Billion Strategic Financing to Accelerate Humanoid Robot Expansion",
-        "link": "https://www.tmtpost.com/7680109.html",
-        "published_date": "Tue, 02 Sep 2025 13:01:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.150155"
-      },
-      "f4c2120d9dadcf712289dbf1d15321d1ab2547c3be70753cdeddba6d6f54c0f7": {
-        "title": "Huawei's First-Half Profit Falls 32% Amid Record R&D Outlays",
-        "link": "https://www.tmtpost.com/7680085.html",
-        "published_date": "Tue, 02 Sep 2025 12:25:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475704"
-      },
-      "989250107c5150a3914d29c7b63366eb6957778fe6e90c52a5475cd1cfbfb564": {
-        "title": "水变油已经满足不了机器人行业了，它还要生孩子？",
-        "link": "https://www.tmtpost.com/7679556.html",
-        "published_date": "Tue, 02 Sep 2025 10:54:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475714"
-      },
-      "a60e0b72735ee4b0dd4253bc122a54e6902eb868531430b86e6bdc38de299702": {
-        "title": "当一群技术狂人决定造车",
-        "link": "https://www.tmtpost.com/7679609.html",
-        "published_date": "Tue, 02 Sep 2025 09:30:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475582"
-      },
-      "2cd8a49bd6c0f6b5e50d39af37451bf1c0cee20b7b70abf888e064c5c3ef3efe": {
-        "title": "今年暑期档，为何很反常？",
-        "link": "https://www.tmtpost.com/7679535.html",
-        "published_date": "Tue, 02 Sep 2025 09:01:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.151037"
-      },
-      "2bd7bc0c7c2cf9dcbadd5b960d4f97f598d62cd15ec7d61ef31ddeddb0e3adf4": {
-        "title": "以互联网为师，线下业态为何热衷搞“擦边”经济？",
-        "link": "https://www.tmtpost.com/7679559.html",
-        "published_date": "Tue, 02 Sep 2025 08:30:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.151343"
-      },
-      "c4b9999b537d6ed0460b9fe0dd4ba54a932299a2b69f4a0174bd98e1941a48f3": {
-        "title": "科股早知道：巴斯夫电池材料旗下公司在新一代电池技术取得重大成果",
-        "link": "https://www.tmtpost.com/7679773.html",
-        "published_date": "Tue, 02 Sep 2025 08:07:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475612"
-      },
-      "d38b649add3bfb7188ca92ebd4cd40c6b7962b0f6bb552cbe52883f45d2e3807": {
-        "title": "A股中报透视：AI驱动科技股百花齐放，传统行业借势破局 ｜看财报",
-        "link": "https://www.tmtpost.com/7679647.html",
-        "published_date": "Tue, 02 Sep 2025 08:00:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475626"
-      },
-      "ff1b662ab9ec7c3b52f9599486136457edb5827c7daa533ebd5cd1cd74efa18d": {
-        "title": "段永平门徒，祸从衣出",
-        "link": "https://www.tmtpost.com/7679447.html",
-        "published_date": "Tue, 02 Sep 2025 08:00:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.152435"
-      },
-      "d91b36e7d250e94a9fa380ab5afe6c595fe9af0c0cf53448617f8864b54c7fa2": {
-        "title": "【钛晨报】王毅介绍上合组织天津峰会八大成果；新势力8月成绩单出炉，“零小蔚”创新高；品牌黄金饰品每克金价超千元",
-        "link": "https://www.tmtpost.com/7679621.html",
-        "published_date": "Tue, 02 Sep 2025 07:20:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475642"
-      },
-      "86f7bd4c868800fb445cf00091b58507c78ee4755a6d761f9687e07e6e6e4171": {
-        "title": "TanStack DB发布Beta版本，支持反应式查询、乐观变更和本地优先同步",
-        "link": "https://www.infoq.cn/article/c6tTPtOMh0aIVE1BdgPi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 13:00:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475656"
-      },
-      "79a9dd2aa4ff42e54ee55db4adac10d5d63de5735cdc3db0dc75199085c38659": {
-        "title": "项目笔记｜Dogtor 颈椎健康插件开发全记录",
-        "link": "https://www.infoq.cn/article/fmFvzk0caTjRSV5t9Efo?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 11:48:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.154410"
-      },
-      "f5cfb7954b19322f31b89e750c9bf22e85497ef259664026b40f2fbd8579cbfa": {
-        "title": "Spring近期新闻：Boot、Security、Auth Server、Session和Integration的第二个里程碑版本",
-        "link": "https://www.infoq.cn/article/B9yp8iXxXWdmNN7NR8fl?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 10:24:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.155630"
-      },
-      "143d761562479e6cd1b099be2a87ac92ac34bd8af971b30d41caf95d278f8ec3": {
-        "title": "CNCF孵化用于Kubernetes边缘计算的OpenYurt项目",
-        "link": "https://www.infoq.cn/article/8zkq9lyjPcyVXf3OuCfo?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 10:15:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.156259"
-      },
-      "0d6502062d0d234b4aa71de00f80987d68da482256c8a90883d16d75b111a639": {
-        "title": "入职仅一年，套现5000多万后背刺马斯克搬走 Grok 核心代码库！专家：拥有菜谱不等于能做出同样的菜",
-        "link": "https://www.infoq.cn/article/Hby7QMd9WPF4GMVoAqUi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 10:06:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.157369"
-      },
-      "af4e8e816661684332135db07f191aff4b8ef1210d8132e00f1b27aecee7b3eb": {
-        "title": "Uber Eats推出INCA，将目录管理从餐厅扩展到零售",
-        "link": "https://www.infoq.cn/article/9dXz3wZ8kRLIHB8Th7DA?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 10:05:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.158282"
-      },
-      "25e0fe83f4513a7b95e830bc8f5eacb4391334049905309f8152b3059bd0ce9a": {
-        "title": "Argo CD v3.1 引入 OCI 支持并增强用户界面",
-        "link": "https://www.infoq.cn/article/xzdFGfkB7dbUVy0dE3cT?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 09:52:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.159328"
-      },
-      "55e319c6464924019cde7ca4b822435fa478bbba57ab46d62f7658729b0a15d4": {
-        "title": "Google 发布了Nano Banana编写最佳提示词，提供了10种场景",
-        "link": "https://xie.infoq.cn/article/41d80c048845e0de5113a2988?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Sep 2025 09:44:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475667"
-      },
-      "221826ada55484c8e25a401fbfb8159f2550c9189e65c94599465816a8291e23": {
-        "title": "广告，救不了 AI 搜索",
-        "link": "http://www.geekpark.net/news/353381",
-        "published_date": "Tue, 02 Sep 2025 11:37:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.161287"
-      },
-      "7e22a63507f159e13aca52e017b2257f5fed166d3a675c306fc73f22678840fd": {
-        "title": "腾讯回应米哈游起诉：QQ用户资料不能随便给；特斯拉首曝Cyber SUV；外卖「小电驴」须装北斗定位｜极客早知道",
-        "link": "http://www.geekpark.net/news/353370",
-        "published_date": "Tue, 02 Sep 2025 08:22:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.162936"
-      },
-      "b44f7b323fc78ec09af28a0d5c7c4f90c6b82ff399d12bcc61d5fe51832b0f0d": {
-        "title": "曾经的奶茶巨头书亦烧仙草，为啥掉队了？",
-        "link": "http://www.huxiu.com/article/4761559.html?f=wangzhan",
-        "published_date": "Tue, 02 Sep 2025 11:35:00 GMT",
-        "first_seen": "2025-09-02T05:20:31.163687"
-      },
-      "cafb1b2f537c777cc6c8cc7d7fb98c3b4284ae9f57bac9926a4a8642062768cb": {
-        "title": "广深「超燃」：来线下，与少数派一起看 Apple 发布会",
-        "link": "https://sspai.com/post/102221",
-        "published_date": "Tue, 02 Sep 2025 11:16:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475680"
-      },
-      "8bb3ba4736cba8f2d4089a0088e17ebabad62fe38842895339f3adf31190f21f": {
-        "title": "派早报：vivo Y500 发布，91 助手宣布关停时间等",
-        "link": "https://sspai.com/post/102236",
-        "published_date": "Tue, 02 Sep 2025 08:12:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.475691"
-      },
       "88b654ba402e0ef8bc59fb0c12c5a029b7e5980c6a758879869bcdf76046bb91": {
         "title": "AI 研发提效进行到哪儿，谁来守住质量底线？",
         "link": "https://www.infoq.cn/article/xf6NoCbQdxRFQ90LMMHF?utm_source=rss&utm_medium=article",
@@ -24164,27 +23972,39 @@
         "link": "https://www.wired.com/story/visible-promo-code/",
         "published_date": "Thu, 02 Oct 2025 05:00:00 GMT",
         "first_seen": "2025-10-02T05:19:27.022233"
+      },
+      "09475f353952646f7bd969c581c25b802ea6e6f38b035aaefc565d0b67241ea8": {
+        "title": "自律争议漩涡：弘元澄清与行业传言的拉锯战",
+        "link": "https://www.tmtpost.com/7712639.html",
+        "published_date": "Thu, 02 Oct 2025 13:36:00 GMT",
+        "first_seen": "2025-10-02T08:26:06.139770"
+      },
+      "5978fc09d6120a12582955a27c1e2a1eabe8d62be9a52ac8fea144bcaaba8467": {
+        "title": "《盛世天下》爆火，真人影游狂飙",
+        "link": "https://www.tmtpost.com/7712614.html",
+        "published_date": "Thu, 02 Oct 2025 13:36:00 GMT",
+        "first_seen": "2025-10-02T08:26:06.139909"
+      },
+      "798e4e505a703fa6e71df5c74da0ed34c8d9592093fdea93e407aab01c3144e6": {
+        "title": "宁波能源估值迷局：上市20余年股价困守4元，增长悖论如何破解？",
+        "link": "https://www.tmtpost.com/7712638.html",
+        "published_date": "Thu, 02 Oct 2025 13:36:00 GMT",
+        "first_seen": "2025-10-02T08:26:06.140086"
+      },
+      "8e6b4741b45200e3b21a76f0b81789d070bc91f0e6e08dd37963c0b7f45432a1": {
+        "title": "9月新势力销量：零跑6万，“鹏界米”4万",
+        "link": "https://www.tmtpost.com/7712586.html",
+        "published_date": "Thu, 02 Oct 2025 13:36:00 GMT",
+        "first_seen": "2025-10-02T08:26:06.140265"
+      },
+      "7c287358e866a71b2a94d54d879204146ada97c618c7d05c58d22725a326e284": {
+        "title": "Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds",
+        "link": "https://www.wired.com/review/jimmyjane-hello-touch-pro/",
+        "published_date": "Thu, 02 Oct 2025 08:00:00 GMT",
+        "first_seen": "2025-10-02T08:26:06.140622"
       }
     },
     "Finance": {
-      "d87c2ef2f12b6724d4c40a70ca92bb85ceb34ca8215aa37a3edd0720dd9a7f3b": {
-        "title": "Gold hits new high on rising uncertainty, while U.S. stock futures little changed",
-        "link": "https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories",
-        "published_date": "Tue, 02 Sep 2025 03:01:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.596437"
-      },
-      "56abd1997ae76bac80158618fa9d0794c343f636668e8f0c370948179c460ffd": {
-        "title": "Only a really big jobs report might stop the Fed from cutting interest rates. Don’t count on it.",
-        "link": "https://www.marketwatch.com/story/only-a-really-big-jobs-report-might-stop-the-fed-from-cutting-interest-rates-dont-count-on-it-451eb83f?mod=mw_rss_topstories",
-        "published_date": "Mon, 01 Sep 2025 23:56:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.596853"
-      },
-      "25f3442d6a1f9dbf8ae590bf80b0d2b18a96ccd4dff310539d81419fedb15d4a": {
-        "title": "How this week's jobs data could affect the stock market's rally",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4e0c2766-3cf7-4c05-9147-40319c92c9b2&mod=mw_rss_bulletins",
-        "published_date": "Tue, 02 Sep 2025 01:08:00 GMT",
-        "first_seen": "2025-09-02T05:21:19.597334"
-      },
       "5505c7bcbbde1c0f28047f8b046aaf3a51b28e44f09a58da685a399a9be699a9": {
         "title": "Activist Elliott wants PepsiCo to emulate Coke’s playbook. This is why.",
         "link": "https://www.marketwatch.com/story/activist-elliott-wants-pepsico-to-emulate-cokes-playbook-this-is-why-b09b6fc1?mod=mw_rss_topstories",
@@ -27538,12 +27358,18 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a457a22-a54e-498e-acf7-bd9fcd71a665&mod=mw_rss_bulletins",
         "published_date": "Thu, 02 Oct 2025 01:08:00 GMT",
         "first_seen": "2025-10-02T05:18:38.286089"
+      },
+      "c7a6713ed8359d8bbaf4ceb0eff3be723d7bd2de7741a6919452d04ef86114b8": {
+        "title": "Elon Musk is richer now than John Rockefeller was — and it still might not be enough for his ambitions",
+        "link": "https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories",
+        "published_date": "Thu, 02 Oct 2025 08:22:00 GMT",
+        "first_seen": "2025-10-02T08:26:05.989138"
       }
     }
   },
   "last_update": {
-    "AI": "2025-10-02T05:19:26.990966",
-    "Technology": "2025-10-02T05:20:15.253819",
-    "Finance": "2025-10-02T05:18:38.313019"
+    "AI": "2025-10-02T08:26:06.113747",
+    "Technology": "2025-10-02T08:26:06.148127",
+    "Finance": "2025-10-02T08:26:06.012141"
   }
 }

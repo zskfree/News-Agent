@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-02 05:18
+**最后更新时间**: 2025-10-02 08:26
+
+---
+
+## 🆕 最新更新 (2025-10-02 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [自律争议漩涡：弘元澄清与行业传言的拉锯战](https://www.tmtpost.com/7712639.html)
+**发布时间**: 2025-10-02 13:36
+
+#### [《盛世天下》爆火，真人影游狂飙](https://www.tmtpost.com/7712614.html)
+**发布时间**: 2025-10-02 13:36
+
+#### [宁波能源估值迷局：上市20余年股价困守4元，增长悖论如何破解？](https://www.tmtpost.com/7712638.html)
+**发布时间**: 2025-10-02 13:36
+
+#### [9月新势力销量：零跑6万，“鹏界米”4万](https://www.tmtpost.com/7712586.html)
+**发布时间**: 2025-10-02 13:36
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
+**发布时间**: 2025-10-02 08:00
 
 ---
 

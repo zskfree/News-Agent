@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-02 05:18
+**最后更新时间**: 2025-10-02 08:26
+
+---
+
+## 🆕 最新更新 (2025-10-02 08:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk is richer now than John Rockefeller was — and it still might not be enough for his ambitions](https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 08:22
 
 ---
 

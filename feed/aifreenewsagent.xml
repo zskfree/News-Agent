@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Oct 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Oct 2025 05:19:26 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 08:26:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Learning to Lead Themselves: Agentic AI in MAS using MARL</title>
-      <link>https://arxiv.org/abs/2510.00022</link>
-      <description>&lt;![CDATA[Learning to Lead Themselves: Agentic AI in MAS using MARL]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00022</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools</title>
-      <link>https://arxiv.org/abs/2510.00023</link>
-      <description>&lt;![CDATA[ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00023</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeurIPS should lead scientific consensus on AI policy</title>
-      <link>https://arxiv.org/abs/2510.00075</link>
-      <description>&lt;![CDATA[NeurIPS should lead scientific consensus on AI policy]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00075</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Towards a Framework for Supporting the Ethical and Regulatory Certification of AI Systems</title>
-      <link>https://arxiv.org/abs/2510.00084</link>
-      <description>&lt;![CDATA[Towards a Framework for Supporting the Ethical and Regulatory Certification of AI Systems]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00084</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Judging by Appearances? Auditing and Intervening Vision-Language Models for Bail Prediction</title>
-      <link>https://arxiv.org/abs/2510.00088</link>
-      <description>&lt;![CDATA[Judging by Appearances? Auditing and Intervening Vision-Language Models for Bail Prediction]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00088</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI</title>
-      <link>https://arxiv.org/abs/2510.00167</link>
-      <description>&lt;![CDATA[Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00167</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Semantic-Driven AI Agent Communications: Challenges and Solutions</title>
-      <link>https://arxiv.org/abs/2510.00381</link>
-      <description>&lt;![CDATA[Semantic-Driven AI Agent Communications: Challenges and Solutions]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00381</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Rethinking Reward Models for Multi-Domain Test-Time Scaling</title>
-      <link>https://arxiv.org/abs/2510.00492</link>
-      <description>&lt;![CDATA[Rethinking Reward Models for Multi-Domain Test-Time Scaling]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00492</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ACON: Optimizing Context Compression for Long-horizon LLM Agents</title>
-      <link>https://arxiv.org/abs/2510.00615</link>
-      <description>&lt;![CDATA[ACON: Optimizing Context Compression for Long-horizon LLM Agents]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00615</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AttentionDep: Domain-Aware Attention for Explainable Depression Severity Assessment</title>
-      <link>https://arxiv.org/abs/2510.00706</link>
-      <description>&lt;![CDATA[AttentionDep: Domain-Aware Attention for Explainable Depression Severity Assessment]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.00706</guid>
+      <title>机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了</title>
+      <link>https://www.qbitai.com/2025/10/339125.html</link>
+      <description>&lt;![CDATA[机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339125.html</guid>
       <category>AI</category>
     </item>
   </channel>

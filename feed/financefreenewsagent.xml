@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Oct 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Oct 2025 05:18:38 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 08:26:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Amazon, Palo Alto Networks — and 36 more hot stock picks from Deutsche Bank</title>
-      <link>https://www.marketwatch.com/story/amazon-palo-alto-networks-and-36-more-hot-stock-picks-from-deutsche-bank-caef0627?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Amazon, Palo Alto Networks — and 36 more hot stock picks from Deutsche Bank]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 02:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/amazon-palo-alto-networks-and-36-more-hot-stock-picks-from-deutsche-bank-caef0627?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Government shutdown means Fed lacks crucial data as it considers rate cuts</title>
-      <link>https://www.marketwatch.com/story/government-shutdown-means-fed-lacks-crucial-data-as-it-considers-rate-cuts-5a347773?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Government shutdown means Fed lacks crucial data as it considers rate cuts]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 00:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/government-shutdown-means-fed-lacks-crucial-data-as-it-considers-rate-cuts-5a347773?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Could canceling my pricey American Express Platinum card hurt my credit score?</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=3a457a22-a54e-498e-acf7-bd9fcd71a665&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[Could canceling my pricey American Express Platinum card hurt my credit score?]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 01:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=3a457a22-a54e-498e-acf7-bd9fcd71a665&amp;mod=mw_rss_bulletins</guid>
+      <title>Elon Musk is richer now than John Rockefeller was — and it still might not be enough for his ambitions</title>
+      <link>https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Elon Musk is richer now than John Rockefeller was — and it still might not be enough for his ambitions]]&gt;</description>
+      <pubDate>Thu, 02 Oct 2025 08:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
