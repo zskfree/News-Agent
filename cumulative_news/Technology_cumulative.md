@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-02 23:17
+**最后更新时间**: 2025-10-03 05:23
+
+---
+
+## 🆕 最新更新 (2025-10-03 05:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [盘点AI黄金周：Sora 2引爆AI视频、蚂蚁冲进万亿参数俱乐部](https://www.tmtpost.com/7712837.html)
+**发布时间**: 2025-10-03 10:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米 17 系列销量超百万；苹果新产品泄密源头疑为越南工厂；低价版 model Y 现身官网代码｜极客早知道](http://www.geekpark.net/news/354770)
+**发布时间**: 2025-10-03 10:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java近期新闻：新JEP、Liberica NIK、Spring AI里程碑、Open Liberty、JobRunr、LangChain4j](https://www.infoq.cn/article/6QScAJU344t2pkkds0tx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-03 08:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)
+**发布时间**: 2025-10-03 05:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
+**发布时间**: 2025-10-03 01:57
+
+#### [NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network](https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn)
+**发布时间**: 2025-10-02 23:20
 
 ---
 

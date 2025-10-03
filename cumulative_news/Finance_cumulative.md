@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-02 23:17
+**最后更新时间**: 2025-10-03 05:23
+
+---
+
+## 🆕 最新更新 (2025-10-03 05:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon’s ‘crown jewel’ is this business that doesn’t get nearly enough attention](https://www.marketwatch.com/story/amazons-crown-jewel-is-this-business-that-doesnt-get-nearly-enough-attention-d76a627d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 01:27
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [10 stocks that not only beat the S&P 500 but also grew their dividends the most](https://www.marketwatch.com/bulletins/redirect/go?g=e140c078-92f5-4cfd-8381-19fa88158b7d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 01:05
+
+#### [What FICO’s credit-score shake-up really means for home buyers](https://www.marketwatch.com/bulletins/redirect/go?g=fa9b10b5-35ed-4e44-85b7-43a058e1ba09&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 23:24
 
 ---
 

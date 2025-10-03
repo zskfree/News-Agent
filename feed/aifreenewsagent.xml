@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Oct 2025 23:18:09 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Oct 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Oct 2025 05:24:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Microsoft says AI can create “zero day” threats in biology</title>
-      <link>https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/</link>
-      <description>&lt;![CDATA[Microsoft says AI can create “zero day” threats in biology]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/</guid>
+      <title>RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems</title>
+      <link>https://arxiv.org/abs/2510.02263</link>
+      <description>&lt;![CDATA[RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02263</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: RIP EV tax credits, and OpenAI’s new valuation</title>
-      <link>https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/</link>
-      <description>&lt;![CDATA[The Download: RIP EV tax credits, and OpenAI’s new valuation]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/</guid>
+      <title>The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation</title>
+      <link>https://arxiv.org/abs/2510.01295</link>
+      <description>&lt;![CDATA[The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01295</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>EV tax credits are dead in the US. Now what?</title>
-      <link>https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/</link>
-      <description>&lt;![CDATA[EV tax credits are dead in the US. Now what?]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/</guid>
+      <title>Retrieval-Augmented Framework for LLM-Based Clinical Decision Support</title>
+      <link>https://arxiv.org/abs/2510.01363</link>
+      <description>&lt;![CDATA[Retrieval-Augmented Framework for LLM-Based Clinical Decision Support]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01363</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Turning migration into modernization</title>
-      <link>https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/</link>
-      <description>&lt;![CDATA[Turning migration into modernization]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/</guid>
+      <title>Fine-tuning with RAG for Improving LLM Learning of New Skills</title>
+      <link>https://arxiv.org/abs/2510.01375</link>
+      <description>&lt;![CDATA[Fine-tuning with RAG for Improving LLM Learning of New Skills]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01375</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>A collaborative approach to image generation</title>
-      <link>https://research.google/blog/a-collaborative-approach-to-image-generation/</link>
-      <description>&lt;![CDATA[A collaborative approach to image generation]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-collaborative-approach-to-image-generation/</guid>
+      <title>A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining</title>
+      <link>https://arxiv.org/abs/2510.01427</link>
+      <description>&lt;![CDATA[A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01427</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Martin Trust Center for MIT Entrepreneurship welcomes Ana Bakshi as new executive director</title>
-      <link>https://news.mit.edu/2025/martin-trust-center-mit-entrepreneurship-ana-bakshi-executive-director-1002</link>
-      <description>&lt;![CDATA[Martin Trust Center for MIT Entrepreneurship welcomes Ana Bakshi as new executive director]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/martin-trust-center-mit-entrepreneurship-ana-bakshi-executive-director-1002</guid>
+      <title>On the Role of Domain Experts in Creating Effective Tutoring Systems</title>
+      <link>https://arxiv.org/abs/2510.01432</link>
+      <description>&lt;![CDATA[On the Role of Domain Experts in Creating Effective Tutoring Systems]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01432</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Lincoln Lab unveils the most powerful AI supercomputer at any US university</title>
-      <link>https://news.mit.edu/2025/lincoln-lab-unveils-most-powerful-ai-supercomputer-at-any-us-university-1002</link>
-      <description>&lt;![CDATA[Lincoln Lab unveils the most powerful AI supercomputer at any US university]]&gt;</description>
-      <pubDate>Thu, 02 Oct 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/lincoln-lab-unveils-most-powerful-ai-supercomputer-at-any-us-university-1002</guid>
+      <title>VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning</title>
+      <link>https://arxiv.org/abs/2510.01444</link>
+      <description>&lt;![CDATA[VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01444</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AIReg-Bench: Benchmarking Language Models That Assess AI Regulation Compliance</title>
+      <link>https://arxiv.org/abs/2510.01474</link>
+      <description>&lt;![CDATA[AIReg-Bench: Benchmarking Language Models That Assess AI Regulation Compliance]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01474</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LOGicalThought: Logic-Based Ontological Grounding of LLMs for High-Assurance Reasoning</title>
+      <link>https://arxiv.org/abs/2510.01530</link>
+      <description>&lt;![CDATA[LOGicalThought: Logic-Based Ontological Grounding of LLMs for High-Assurance Reasoning]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01530</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>InvThink: Towards AI Safety via Inverse Reasoning</title>
+      <link>https://arxiv.org/abs/2510.01569</link>
+      <description>&lt;![CDATA[InvThink: Towards AI Safety via Inverse Reasoning]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.01569</guid>
       <category>AI</category>
     </item>
   </channel>
