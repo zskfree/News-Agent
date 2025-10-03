@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Oct 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Oct 2025 08:25:30 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Oct 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Oct 2025 23:18:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球资产估值逻辑生变，谁是王者？</title>
-      <link>https://www.tmtpost.com/7713008.html</link>
-      <description>&lt;![CDATA[全球资产估值逻辑生变，谁是王者？]]&gt;</description>
-      <pubDate>Fri, 03 Oct 2025 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7713008.html</guid>
+      <title>Swift 6.2 发布，改进了并发性、更安全的原始内存访问、Wasm 支持等</title>
+      <link>https://www.infoq.cn/article/lMCbwlK118KD3Ql9oHbA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Swift 6.2 发布，改进了并发性、更安全的原始内存访问、Wasm 支持等]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 22:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lMCbwlK118KD3Ql9oHbA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这把猛火终究烧到了公募行业</title>
-      <link>http://www.huxiu.com/article/4788165.html?f=wangzhan</link>
-      <description>&lt;![CDATA[这把猛火终究烧到了公募行业]]&gt;</description>
-      <pubDate>Fri, 03 Oct 2025 13:17:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4788165.html?f=wangzhan</guid>
+      <title>Apollo GraphQL Client 4.0发布，提供更精简的打包功能并强化了TypeScript的安全性</title>
+      <link>https://www.infoq.cn/article/N5ATgDLr2F05BKuB2MWp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Apollo GraphQL Client 4.0发布，提供更精简的打包功能并强化了TypeScript的安全性]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 22:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/N5ATgDLr2F05BKuB2MWp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“大电池”的天快塌了</title>
-      <link>http://www.huxiu.com/article/4786606.html?f=wangzhan</link>
-      <description>&lt;![CDATA[“大电池”的天快塌了]]&gt;</description>
-      <pubDate>Fri, 03 Oct 2025 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4786606.html?f=wangzhan</guid>
+      <title>Replit 推出 Agent 3，拓展自主编程与自动化新边界</title>
+      <link>https://www.infoq.cn/article/1AAvDxcT6xeD4kRNXAkV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Replit 推出 Agent 3，拓展自主编程与自动化新边界]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1AAvDxcT6xeD4kRNXAkV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star</title>
-      <link>https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/</link>
-      <description>&lt;![CDATA[At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star]]&gt;</description>
-      <pubDate>Fri, 03 Oct 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/</guid>
+      <title>xAI 推出低成本推理模型 Grok 4 Fast</title>
+      <link>https://www.infoq.cn/article/uBwTq0TCcK6gvuAtPv0e?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[xAI 推出低成本推理模型 Grok 4 Fast]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 22:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uBwTq0TCcK6gvuAtPv0e?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>$25 Off DoorDash Promo Code | October 2025</title>
-      <link>https://www.wired.com/story/doordash-promo-code/</link>
-      <description>&lt;![CDATA[$25 Off DoorDash Promo Code | October 2025]]&gt;</description>
-      <pubDate>Fri, 03 Oct 2025 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/doordash-promo-code/</guid>
+      <title>Innovation and Responsibility Must Move Forward Together, Says NextFin CEO at NEX-T Summit</title>
+      <link>https://www.tmtpost.com/7713182.html</link>
+      <description>&lt;![CDATA[Innovation and Responsibility Must Move Forward Together, Says NextFin CEO at NEX-T Summit]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 21:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7713182.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>光伏“反内卷”，“反”出三年来最强一季</title>
+      <link>https://www.tmtpost.com/7713136.html</link>
+      <description>&lt;![CDATA[光伏“反内卷”，“反”出三年来最强一季]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7713136.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>财务的逻辑和会计的人设</title>
+      <link>https://www.tmtpost.com/7712936.html</link>
+      <description>&lt;![CDATA[财务的逻辑和会计的人设]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7712936.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The Lenovo Go S Is $120 Off</title>
+      <link>https://www.wired.com/story/legion-go-s-deal-1025/</link>
+      <description>&lt;![CDATA[The Lenovo Go S Is $120 Off]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 20:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/legion-go-s-deal-1025/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Bad Bunny Has MAGA All Worked Up</title>
+      <link>https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/</link>
+      <description>&lt;![CDATA[Bad Bunny Has MAGA All Worked Up]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>China Is Leading the World in the Clean Energy Transition. Here's What That Looks Like</title>
+      <link>https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/</link>
+      <description>&lt;![CDATA[China Is Leading the World in the Clean Energy Transition. Here's What That Looks Like]]&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/</guid>
       <category>Technology</category>
     </item>
   </channel>

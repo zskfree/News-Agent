@@ -1,7 +1,104 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-03 08:25
+**最后更新时间**: 2025-10-03 23:16
+
+---
+
+## 🆕 最新更新 (2025-10-03 23:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Swift 6.2 发布，改进了并发性、更安全的原始内存访问、Wasm 支持等](https://www.infoq.cn/article/lMCbwlK118KD3Ql9oHbA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-03 22:08
+
+#### [Replit 推出 Agent 3，拓展自主编程与自动化新边界](https://www.infoq.cn/article/1AAvDxcT6xeD4kRNXAkV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-03 22:06
+
+#### [xAI 推出低成本推理模型 Grok 4 Fast](https://www.infoq.cn/article/uBwTq0TCcK6gvuAtPv0e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-03 22:04
+
+#### [Apollo GraphQL Client 4.0发布，提供更精简的打包功能并强化了TypeScript的安全性](https://www.infoq.cn/article/N5ATgDLr2F05BKuB2MWp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-03 22:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Innovation and Responsibility Must Move Forward Together, Says NextFin CEO at NEX-T Summit](https://www.tmtpost.com/7713182.html)
+**发布时间**: 2025-10-03 21:13
+
+#### [The Explicability of AI Models is a Key Challenge in High-Impact Fields, Says Alphabet Chair at NEX-T Summit](https://www.tmtpost.com/7713176.html)
+**发布时间**: 2025-10-03 21:06
+
+#### [光伏“反内卷”，“反”出三年来最强一季](https://www.tmtpost.com/7713136.html)
+**发布时间**: 2025-10-03 19:20
+
+#### [财务的逻辑和会计的人设](https://www.tmtpost.com/7712936.html)
+**发布时间**: 2025-10-03 17:10
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Lenovo Go S Is $120 Off](https://www.wired.com/story/legion-go-s-deal-1025/)
+**发布时间**: 2025-10-03 20:04
+
+#### [Bad Bunny Has MAGA All Worked Up](https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/)
+**发布时间**: 2025-10-03 19:36
+
+#### [China Is Leading the World in the Clean Energy Transition. Here's What That Looks Like](https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/)
+**发布时间**: 2025-10-03 17:19
+
+#### [Your Delivery Robot Is Here](https://www.wired.com/story/uncanny-valley-podcast-your-delivery-robot-is-here/)
+**发布时间**: 2025-10-03 15:04
+
+#### [Sam Altman Says the GPT-5 Haters Got It All Wrong](https://www.wired.com/story/sam-altman-says-the-gpt-5-haters-got-it-all-wrong/)
+**发布时间**: 2025-10-03 15:00
+
+#### [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
+**发布时间**: 2025-10-03 13:21
+
+#### [Why Are Car Software Updates Still So Bad?](https://www.wired.com/story/why-are-car-software-updates-still-so-bad/)
+**发布时间**: 2025-10-03 11:00
+
+#### [Inside the Contentious World of Luigi Mangione Supporters](https://www.wired.com/story/inside-the-contentious-world-of-luigi-mangione-supporters/)
+**发布时间**: 2025-10-03 10:00
+
+#### [A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo](https://www.wired.com/story/a-newly-discovered-einsteins-cross-reveals-the-existence-of-a-giant-dark-matter-halo/)
+**发布时间**: 2025-10-03 09:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Tales from the AI hiring frenzy](https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges)
+**发布时间**: 2025-10-03 19:30
+
+#### [Unity discloses a years-old security exploit and urges developers to update their games](https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games)
+**发布时间**: 2025-10-03 19:23
+
+#### [Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
+**发布时间**: 2025-10-03 19:09
+
+#### [Amazon’s Fire TV Stick 4K is getting a new name soon](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
+**发布时间**: 2025-10-03 18:44
+
+#### [Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons](https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller)
+**发布时间**: 2025-10-03 18:10
+
+#### [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)
+**发布时间**: 2025-10-03 18:00
+
+#### [I’ve fallen into Sora’s slippery slop](https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on)
+**发布时间**: 2025-10-03 17:08
+
+#### [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom)
+**发布时间**: 2025-10-03 16:52
+
+#### [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
+**发布时间**: 2025-10-03 15:39
+
+#### [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)
+**发布时间**: 2025-10-03 15:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [这次一定：iPhone 17 标准版使用体验](https://sspai.com/post/102893)
+**发布时间**: 2025-10-03 17:02
 
 ---
 

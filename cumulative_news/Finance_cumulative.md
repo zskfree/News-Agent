@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-03 05:23
+**最后更新时间**: 2025-10-03 23:16
+
+---
+
+## 🆕 最新更新 (2025-10-03 23:16)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why OPEC+ will likely hike its oil-output quota — even as prices post steep drop](https://www.marketwatch.com/bulletins/redirect/go?g=4809b219-906c-467e-b61f-1d43bfef73e3&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 22:47
+
+#### [How this Wall Street skeptic is investing to combat inflation and a weak dollar](https://www.marketwatch.com/bulletins/redirect/go?g=a66190c0-6ad2-43f6-a12d-0e7b5e31b46e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 21:57
+
+#### [Stock market’s march higher has fueled a record rush of bullish options trading](https://www.marketwatch.com/bulletins/redirect/go?g=9f416c15-742d-4baa-af63-3edffd7eab69&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 20:30
+
+#### [Dow closes at fresh record high, Nasdaq ends lower as tech stocks struggle](https://www.marketwatch.com/bulletins/redirect/go?g=c1adc1cf-7c15-4b61-b7dd-eb7bc1c0b814&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 20:06
+
+#### [How investors can get around the government shutdown's economic-data void](https://www.marketwatch.com/bulletins/redirect/go?g=ff274176-7e48-48ef-9ed8-da01424efe02&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 19:47
+
+#### [Dow paring gains, Nasdaq lower in final hour as tech stocks lag — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=53fd8a76-2c0b-4330-afa3-a98d8b40167f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 19:03
+
+#### [Why Microsoft’s stock now looks like 'free money,' according to one analyst](https://www.marketwatch.com/bulletins/redirect/go?g=82fdfb70-a294-4e09-99d7-600bc4443e9e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 17:34
+
+#### [Dow up nearly 500 points as 4 most-watched indexes shoot for 6-session streaks](https://www.marketwatch.com/bulletins/redirect/go?g=bad9fa12-c5c9-47eb-97d3-c77f0bade9cb&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 16:00
+
+#### [A sustainable Apple rebound is more complicated than you’d think. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=18e30cf3-fac8-4a07-8596-86beccaa33b4&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 15:26
+
+#### [U.S. job market contracted for a fourth straight month in September: ISM](https://www.marketwatch.com/bulletins/redirect/go?g=318d517f-5f1a-45e9-86ad-cb4bc4f2eef7&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 14:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The monthly BLS employment report is the gold standard. But investors have other options.](https://www.marketwatch.com/story/how-to-read-the-economy-during-a-government-shutdown-so-you-can-invest-wisely-46e54084?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:36
+
+#### [More famous than Warren Buffett in decades past, Peter Lynch of Fidelity says it’s still all about investing in what you know](https://www.marketwatch.com/story/more-famous-than-warren-buffett-in-decades-past-peter-lynch-of-fidelity-says-its-still-all-about-investing-in-what-you-know-808a7f8f?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:32
+
+#### [‘We’re in a market bubble’: I’m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?](https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:20
+
+#### [How this Wall Street skeptic is investing to combat a weaker dollar and higher inflation](https://www.marketwatch.com/story/how-this-paranoid-columnist-is-defending-his-money-against-a-weaker-dollar-and-higher-inflation-f2e469cf?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:20
+
+#### [‘I won’t let the government walk all over me’: The IRS says I owe $14,000 for not declaring my Social Security. What now?](https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:00
+
+#### [Does it seem like more restaurants are charging $100 per person? Chef Bobby Flay says the cost should be even higher.](https://www.marketwatch.com/story/does-it-seem-like-more-restaurants-are-charging-100-per-person-chef-bobby-flay-says-the-cost-should-be-even-higher-63fb3aba?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 20:21
+
+#### [‘I don’t come from money’: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?](https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 20:16
+
+#### [The stock market’s relentless march higher has fueled a record rush of bullish options trading](https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 20:02
 
 ---
 
