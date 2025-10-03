@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-03 05:23
+**最后更新时间**: 2025-10-03 08:25
+
+---
+
+## 🆕 最新更新 (2025-10-03 08:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球资产估值逻辑生变，谁是王者？](https://www.tmtpost.com/7713008.html)
+**发布时间**: 2025-10-03 14:08
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [这把猛火终究烧到了公募行业](http://www.huxiu.com/article/4788165.html?f=wangzhan)
+**发布时间**: 2025-10-03 13:17
+
+#### [“大电池”的天快塌了](http://www.huxiu.com/article/4786606.html?f=wangzhan)
+**发布时间**: 2025-10-03 08:31
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star](https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/)
+**发布时间**: 2025-10-03 06:00
+
+#### [$25 Off DoorDash Promo Code | October 2025](https://www.wired.com/story/doordash-promo-code/)
+**发布时间**: 2025-10-03 05:30
 
 ---
 
