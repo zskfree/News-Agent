@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-04 05:18
+**最后更新时间**: 2025-10-04 23:22
+
+---
+
+## 🆕 最新更新 (2025-10-04 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI Won't Replace Doctors, But Redefine Their Tasks, Say Industry Experts](https://www.tmtpost.com/7713512.html)
+**发布时间**: 2025-10-04 23:15
+
+#### [警惕韩国资本“抄底”中国文旅，是过度阴谋论吗？](https://www.tmtpost.com/7713416.html)
+**发布时间**: 2025-10-04 19:07
+
+#### [一天1500元，中产出游，住上“移动的房子”](https://www.tmtpost.com/7713435.html)
+**发布时间**: 2025-10-04 19:07
+
+#### [不「爽」也能爆的《盛夏芬德拉》，走向风格化的短剧厂牌们](https://www.tmtpost.com/7713437.html)
+**发布时间**: 2025-10-04 19:06
+
+#### [顺势而为的淘宝闪购，终于要做到店生意了](https://www.tmtpost.com/7713301.html)
+**发布时间**: 2025-10-04 16:54
+
+#### [一文讲透美股公司之：Fermi，零营收170亿估值的“川普电站”](https://www.tmtpost.com/7713317.html)
+**发布时间**: 2025-10-04 16:54
+
+#### [快手商业化变动：大一统的开始，大扩张的终结](https://www.tmtpost.com/7713407.html)
+**发布时间**: 2025-10-04 16:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Pulumi 发布 Neo：面向多云基础设施的智能 AI 平台工程师](https://www.infoq.cn/article/h5f4BUcOQxhV5urSji4M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-04 20:03
+
+#### [AWS CDK 重构功能：安全的“基础设施即代码”重命名](https://www.infoq.cn/article/ILhkB5slhUjEi2YDbhLS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-04 19:58
+
+#### [Oracle推出MySQL AI](https://www.infoq.cn/article/7OaIz3ZTLtbjkwrFgpgF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-04 19:55
+
+#### [Kubernetes 1.34发布，提供了KYAML和流量路由控制并改进了可观测性](https://www.infoq.cn/article/WLMlHAe077JwcJU8Y8cM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-04 19:52
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)](https://www.wired.com/story/early-prime-day-deals-october-2025-2/)
+**发布时间**: 2025-10-04 17:07
+
+#### [7 Best MagSafe Phone Grips (2025), Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
+**发布时间**: 2025-10-04 13:00
+
+#### [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+**发布时间**: 2025-10-04 12:00
+
+#### [14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)](https://www.wired.com/gallery/best-toiletry-bags/)
+**发布时间**: 2025-10-04 11:30
+
+#### [The 53 Best Shows on Netflix Right Now (October 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+**发布时间**: 2025-10-04 11:00
+
+#### [Why US Power Bills Are Surging](https://www.wired.com/story/power-bills-in-the-us-are-soaring-and-will-rise-further-still/)
+**发布时间**: 2025-10-04 11:00
+
+#### [The 53 Best Movies on Netflix Right Now (October 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+**发布时间**: 2025-10-04 11:00
+
+#### [8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery (2025)](https://www.wired.com/gallery/best-pod-coffee-makers/)
+**发布时间**: 2025-10-04 10:32
+
+#### [Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure](https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/)
+**发布时间**: 2025-10-04 10:30
+
+#### [Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets](https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/)
+**发布时间**: 2025-10-04 10:00
+
+#### [The Vision Pro Was An Expensive Misstep. Now Apple Has to Catch Up With Smart Glasses](https://www.wired.com/story/the-vision-pro-was-an-expensive-misstep-now-apple-has-to-catch-up-with-smart-glasses/)
+**发布时间**: 2025-10-04 10:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [This week&#8217;s best deal is a &#8216;kids&#8217; Kindle Paperwhite that&#8217;s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale)
+**发布时间**: 2025-10-04 17:00
+
+#### [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify)
+**发布时间**: 2025-10-04 16:00
+
+#### [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price](https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale)
+**发布时间**: 2025-10-04 14:41
+
+#### [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content)
+**发布时间**: 2025-10-04 14:00
+
+#### [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden)
+**发布时间**: 2025-10-04 14:00
+
+#### [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)
+**发布时间**: 2025-10-04 13:00
+
+#### [Breaking up (Google) is hard to do](https://www.theverge.com/policy/792055/google-doj-ad-tech-remedies-trial-defense)
+**发布时间**: 2025-10-04 13:00
+
+#### [Acer&#8217;s latest Spin 514 is so close to Chromebook greatness](https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review)
+**发布时间**: 2025-10-04 12:00
 
 ---
 

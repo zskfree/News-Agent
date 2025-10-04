@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-04 05:18
+**最后更新时间**: 2025-10-04 23:22
+
+---
+
+## 🆕 最新更新 (2025-10-04 23:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He thinks nothing of spending $40K on a new car’: My husband gives me the silent treatment. How can we agree on finances?](https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 19:30
+
+#### [I want to escape the U.S. political climate and be a ‘digital nomad’ abroad. I’m 46 and earn $98,000 — how can I do this?](https://www.marketwatch.com/story/i-want-to-escape-the-u-s-political-climate-and-be-a-digital-nomad-abroad-im-46-and-earn-98-000-how-can-i-do-this-18a9e5cd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 18:49
+
+#### [‘He’s the breadwinner’: Does my husband take Social Security at 66 — or get $800 extra at 70?](https://www.marketwatch.com/story/hes-the-breadwinner-does-my-husband-take-social-security-at-66-or-wait-to-get-800-extra-at-70-33b0ed85?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 18:33
+
+#### [Why fewer seniors are expected to enroll in Medicare Advantage next year — and opt for original Medicare instead](https://www.marketwatch.com/story/why-fewer-seniors-are-expected-to-enroll-in-medicare-advantage-next-year-and-opt-for-original-medicare-instead-c1419888?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 18:33
+
+#### [I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?](https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 17:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Think AI is a bubble? These 3 strategies can help you protect your portfolio.](https://www.marketwatch.com/bulletins/redirect/go?g=85783a8a-c6f4-4f71-9e2d-cf239b19636b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-04 13:44
+
+#### [Are we in a recession? Yes — if you live in one of these 22 states.](https://www.marketwatch.com/bulletins/redirect/go?g=fc4be344-c166-4970-b3b9-f45f1266bbd8&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-04 13:10
 
 ---
 
