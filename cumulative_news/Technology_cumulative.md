@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-03 23:16
+**最后更新时间**: 2025-10-04 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-04 05:18)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜鸿蒙，我的独家记忆](https://sspai.com/post/102833)
+**发布时间**: 2025-10-04 10:46
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [分析师称，这家量子计算股票有望上涨86%](https://www.tmtpost.com/7713319.html)
+**发布时间**: 2025-10-04 09:54
+
+#### [黑马“争座位”，国庆档的宣发逻辑换了？](https://www.tmtpost.com/7713205.html)
+**发布时间**: 2025-10-04 09:35
+
+#### [不接亲、不主持、不喝酒，年轻人“改造”婚礼](https://www.tmtpost.com/7713291.html)
+**发布时间**: 2025-10-04 09:35
+
+#### [一文讲透美股公司之：Moderna](https://www.tmtpost.com/7712910.html)
+**发布时间**: 2025-10-04 08:52
+
+#### [又到双十一， 阿里抖音拼讲电商新故事](https://www.tmtpost.com/7713171.html)
+**发布时间**: 2025-10-04 08:50
+
+#### [国庆档差到被《731》抢戏](https://www.tmtpost.com/7713208.html)
+**发布时间**: 2025-10-04 08:50
+
+#### [谈「AI抖音」尚早，Sora 2们会先改变影视行业](https://www.tmtpost.com/7713234.html)
+**发布时间**: 2025-10-04 08:43
+
+#### [从"避卷"，到"用卷"](https://www.tmtpost.com/7713245.html)
+**发布时间**: 2025-10-04 08:43
+
+#### [The Explicability of AI Models is a Key Challenge in High-Impact Fields, Says Turing Award Laureate at NEX-T Summit](https://www.tmtpost.com/7713176.html)
+**发布时间**: 2025-10-03 21:06
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [网红挑战特斯拉FSD穿越美国出车祸；小米回应「小米汽车突然自己开走」；Sora 登顶美区苹果商城免费榜](http://www.geekpark.net/news/354771)
+**发布时间**: 2025-10-04 08:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [你给AI智能体的权限，正被黑客利用，OWASP警告：真正的危机才刚刚开始](https://www.infoq.cn/article/BHHI1AeJYVPIEwYYPkir?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-04 08:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)
+**发布时间**: 2025-10-04 00:22
+
+#### [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+**发布时间**: 2025-10-03 23:52
 
 ---
 
