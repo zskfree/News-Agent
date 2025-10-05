@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-04 23:22
+**最后更新时间**: 2025-10-05 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-05 05:18)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [流量艺人，“绑架”音乐节？](http://www.huxiu.com/article/4788508.html?f=wangzhan)
+**发布时间**: 2025-10-05 11:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 更新 GPT-5 Instant 模型：保持理性的同时更具同理心](https://www.infoq.cn/article/bMXrxqdHeEbxGWmeOJtJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 11:00
+
+#### [5个月内失败十几次，几人团队在压力下做出爆款App！网友：AI时代懂人性比懂技术更重要](https://www.infoq.cn/article/zYz0h5ygZd1M3cuWfUam?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 09:38
+
+#### [700 美金买“真情”？AI情感类产品爆火背后：卖的不止是陪伴，而是年轻人的孤独](https://www.infoq.cn/article/dXWBiD5qIy22tpZL1lcz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 09:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [流量艺人，“绑架”音乐节？](https://www.tmtpost.com/7713532.html)
+**发布时间**: 2025-10-05 10:36
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [微软下架「炉石」等多款游戏；华为云：华为算力效能超英伟达芯片 3 倍；马斯克回应特斯拉机器人打拳：并非遥控](http://www.geekpark.net/news/354772)
+**发布时间**: 2025-10-05 08:19
 
 ---
 
