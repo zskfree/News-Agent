@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Oct 2025 05:17:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Oct 2025 05:18:15 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Oct 2025 08:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Oct 2025 08:22:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工</title>
-      <link>https://www.qbitai.com/2025/10/339453.html</link>
-      <description>&lt;![CDATA[OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工]]&gt;</description>
-      <pubDate>Sat, 04 Oct 2025 04:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339453.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI花17小时写了篇30页论文！自主选题，包含实验，还符合APA格式</title>
-      <link>https://www.qbitai.com/2025/10/339387.html</link>
-      <description>&lt;![CDATA[AI花17小时写了篇30页论文！自主选题，包含实验，还符合APA格式]]&gt;</description>
-      <pubDate>Sat, 04 Oct 2025 04:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339387.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>陶哲轩用GPT-5解决数学难题：仅29行Python代码</title>
-      <link>https://www.qbitai.com/2025/10/339310.html</link>
-      <description>&lt;![CDATA[陶哲轩用GPT-5解决数学难题：仅29行Python代码]]&gt;</description>
-      <pubDate>Sat, 04 Oct 2025 04:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339310.html</guid>
+      <title>刚刚，全球AI生图新王诞生！腾讯混元图像3.0登顶了</title>
+      <link>https://www.qbitai.com/2025/10/339468.html</link>
+      <description>&lt;![CDATA[刚刚，全球AI生图新王诞生！腾讯混元图像3.0登顶了]]&gt;</description>
+      <pubDate>Sun, 05 Oct 2025 06:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339468.html</guid>
       <category>AI</category>
     </item>
   </channel>
