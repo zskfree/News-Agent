@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Oct 2025 08:22:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2025 08:22:50 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Oct 2025 23:15:00 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Oct 2025 23:16:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，全球AI生图新王诞生！腾讯混元图像3.0登顶了</title>
-      <link>https://www.qbitai.com/2025/10/339468.html</link>
-      <description>&lt;![CDATA[刚刚，全球AI生图新王诞生！腾讯混元图像3.0登顶了]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 06:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339468.html</guid>
+      <title>推理token减少46%！Meta新方法缩短思维链，告别重复推导</title>
+      <link>https://www.qbitai.com/2025/10/339545.html</link>
+      <description>&lt;![CDATA[推理token减少46%！Meta新方法缩短思维链，告别重复推导]]&gt;</description>
+      <pubDate>Sun, 05 Oct 2025 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339545.html</guid>
       <category>AI</category>
     </item>
   </channel>

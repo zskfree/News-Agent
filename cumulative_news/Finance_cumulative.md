@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-04 23:22
+**最后更新时间**: 2025-10-05 23:16
+
+---
+
+## 🆕 最新更新 (2025-10-05 23:16)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures gain, while oil and bitcoin prices rise amid uncertainties](https://www.marketwatch.com/story/u-s-stock-futures-flat-while-oil-and-bitcoin-prices-rise-amid-uncertainties-49083305?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 22:42
+
+#### [The release of Taylor Swift’s ‘The Life of a Showgirl’ is like Super Bowl Sunday for the music industry](https://www.marketwatch.com/story/the-release-of-taylor-swifts-the-life-of-a-showgirl-is-like-super-bowl-sunday-for-the-music-industry-2adddbd9?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 21:58
+
+#### [‘I don’t wish to be petty’: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?](https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 21:00
+
+#### [Bitcoin hits new high above $125,000 as investors seek safety](https://www.marketwatch.com/story/bitcoin-hits-new-high-above-125-000-as-investors-seek-safety-8013d33a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 20:28
+
+#### [How one of 2025’s most popular trades is boosting gold and bitcoin — and may keep going during the government shutdown](https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 20:08
+
+#### [‘My monthly expenses are $6,500’: I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?](https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 19:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures flat, while oil and bitcoin prices rise amid uncertainties](https://www.marketwatch.com/bulletins/redirect/go?g=e6299f4c-5da9-4b9c-9472-f4cf0b15324d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 22:18
+
+#### [Bitcoin hits new high above $125,000 as investors seek safety](https://www.marketwatch.com/bulletins/redirect/go?g=299bb759-8a47-4c6d-aaac-61260360744f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 20:29
+
+#### [OPEC+ agrees to another output hike in November despite growing concerns of glut](https://www.marketwatch.com/bulletins/redirect/go?g=d19908db-c46a-4447-a6e2-df6f02c70a76&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 19:48
 
 ---
 

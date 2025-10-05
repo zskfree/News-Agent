@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "79de41310118f66fa0961c0d9947b166b585a5c470f1fb788046e88bb1d18349": {
-        "title": "被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-05-8",
-        "published_date": "Fri, 05 Sep 2025 15:30:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.378097"
-      },
-      "1a099c1a354fdc270dee777f1e5e7d7e67b921c39fa7c52e2d05a77bb22d659f": {
-        "title": "不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-05-7",
-        "published_date": "Fri, 05 Sep 2025 15:22:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.378267"
-      },
-      "d01b60429898c1e5293daf2dc2521e4543f24c368217ec2c4a6f4538663656fd": {
-        "title": "外滩大会主论坛阵容揭幕！顶级学者、产业领袖和青年创新力量共话未来",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-05-6",
-        "published_date": "Fri, 05 Sep 2025 14:32:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.378443"
-      },
       "18d7d1967e07585fd66da19ece89a0d6b8b5d4728b74f75e23d572d1ea2a0b2e": {
         "title": "抢先看｜2025外滩大会精华亮点，一图信息全Get！",
         "link": "https://www.jiqizhixin.com/articles/2025-09-05-9",
@@ -8058,183 +8040,15 @@
         "link": "https://www.qbitai.com/2025/10/339468.html",
         "published_date": "Sun, 05 Oct 2025 06:49:00 GMT",
         "first_seen": "2025-10-05T08:22:50.003731"
+      },
+      "a301f7df720a35a819379a9326e5edf9d4841e86c977360a9fa9ee95f6dd54af": {
+        "title": "推理token减少46%！Meta新方法缩短思维链，告别重复推导",
+        "link": "https://www.qbitai.com/2025/10/339545.html",
+        "published_date": "Sun, 05 Oct 2025 08:59:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.197971"
       }
     },
     "Technology": {
-      "00d6e883e154273c9cbac06d8a9f01b62ffb5a701827e6589212a766b7419ecf": {
-        "title": "Multi-Agent架构赋能传媒领域“策、采、编、发”｜创新场景",
-        "link": "https://www.tmtpost.com/7683097.html",
-        "published_date": "Fri, 05 Sep 2025 22:10:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278249"
-      },
-      "d37fc360bd4fe66b12ba8597c35dae287dedc362378c385d62a6a6c3f6a959cb": {
-        "title": "2025上半年消费图鉴：情绪、性价比与钱的流向",
-        "link": "https://www.tmtpost.com/7684198.html",
-        "published_date": "Fri, 05 Sep 2025 16:10:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278354"
-      },
-      "240da2624ec653c2efa14fa889053f39bf11a1e5cfcc3cd933c53b854820d9f5": {
-        "title": "China's Sweetener Market Heats Up as Allulose Emerges as the Next Big Sugar Substitute",
-        "link": "https://www.tmtpost.com/7684381.html",
-        "published_date": "Fri, 05 Sep 2025 15:49:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278368"
-      },
-      "5f3bd0198561e0c178a9395546d515babecca11d0f2e53953b69c96cd0f310d3": {
-        "title": "Ex-Meizu CEO Launches Astraux, a New Startup Betting on Micro EVs and AI Hardware",
-        "link": "https://www.tmtpost.com/7684375.html",
-        "published_date": "Fri, 05 Sep 2025 15:45:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278382"
-      },
-      "03e43e7f83b62614c13bb636b6eae9536214cfde7891367e73386fc3c4d6609f": {
-        "title": "华发冰雪热雪奇迹即将启幕，再添文体旅融合新地标",
-        "link": "https://www.tmtpost.com/7684314.html",
-        "published_date": "Fri, 05 Sep 2025 15:32:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.909551"
-      },
-      "2cf175b67f0bfc6416f11b2acadd52ccc6a3f4fde329e90288e707a49c418868": {
-        "title": "The Commercial Dilemma and Breakthrough of German Table Tennis Bundesliga Clubs",
-        "link": "https://www.tmtpost.com/7684346.html",
-        "published_date": "Fri, 05 Sep 2025 15:30:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.910351"
-      },
-      "75b312ffda761bcb6fdbbcb4232488ff5c353b0c7ee4cdcbe16675e27d5f0194": {
-        "title": "企业IT资产AI化改造解决方案，模型幻觉问题解决率达100% | 创新场景",
-        "link": "https://www.tmtpost.com/7665661.html",
-        "published_date": "Fri, 05 Sep 2025 15:30:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278278"
-      },
-      "c419132785e8d484e077a876ca8b81da6dc7386913446db620da1a78af843570": {
-        "title": "小米、格力，谁是第二？",
-        "link": "https://www.tmtpost.com/7684009.html",
-        "published_date": "Fri, 05 Sep 2025 15:25:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.911161"
-      },
-      "946ea072501e1c8f4029ef7d93c13f0c19d331e161fabf8e35fddd18eb67bad4": {
-        "title": "郭芙蓉今日走出同福客栈",
-        "link": "https://www.tmtpost.com/7683968.html",
-        "published_date": "Fri, 05 Sep 2025 15:25:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.911392"
-      },
-      "399bc110ba1bdcc1a0496575a0940524009ce4fe120ef7b352d6360f0a489df6": {
-        "title": "9月5日A股分析：三大指数集体上涨，两市合计成交23046.59亿元，资金流入最多的行业板块为电池、电子元件",
-        "link": "https://www.tmtpost.com/7684306.html",
-        "published_date": "Fri, 05 Sep 2025 15:17:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.912399"
-      },
-      "c553fc5c9504e212b47b335e6a39744fd56d906d6c0777b87f0597a770a3136a": {
-        "title": "从Perplexity对Chrome发起收购要约，深聊新一轮AI浏览器大战",
-        "link": "https://www.tmtpost.com/7683776.html",
-        "published_date": "Fri, 05 Sep 2025 14:23:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.913142"
-      },
-      "cd06fd14ab3cee006f364b168d015010488d90c8d893a93333a9050843ad57ca": {
-        "title": "智能体+全量数据处理中枢，证券行业大模型合规质检准确率提升40% | 创新场景",
-        "link": "https://www.tmtpost.com/7662576.html",
-        "published_date": "Fri, 05 Sep 2025 13:53:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278295"
-      },
-      "3a157da5899c8bb514bed47e29f85b37e3eafccfa4512c227efd3bf711a0a506": {
-        "title": "38毫米机身、14万转马达，戴森推出铅笔吸尘器等多款新品｜IFA 2025",
-        "link": "https://www.tmtpost.com/7684139.html",
-        "published_date": "Fri, 05 Sep 2025 13:33:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.914788"
-      },
-      "071925303775adddc621f218a620aaa6afaf7785ab0a52603df3f8133778a52f": {
-        "title": "英伟达、AMD 寡淡？博通霸气接棒 AI 扛旗手",
-        "link": "https://www.tmtpost.com/7683915.html",
-        "published_date": "Fri, 05 Sep 2025 13:32:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.915621"
-      },
-      "42edccc6aeed8b65d2128e146dd716e2995ec7433d31e26325ec0488cb52282a": {
-        "title": "钛媒体首届硅谷峰会炸裂开启，超强阵容深入科技与投资最前沿",
-        "link": "https://www.tmtpost.com/7684148.html",
-        "published_date": "Fri, 05 Sep 2025 13:28:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278308"
-      },
-      "07edab2b19ebc45967ee6ca2b028c6486aa4fcbc0e4427f62616b01f8196bda0": {
-        "title": "从计算到存储，阿里云打通AI落地的“任督二脉”",
-        "link": "https://www.infoq.cn/article/lu9Ell74pNmzMKCigwSo?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Sep 2025 15:43:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.917084"
-      },
-      "96233186999680a7f05dd593778eae453944827cef59773ef607759ff37f2eda": {
-        "title": "如何用社会技术设计改善架构决策",
-        "link": "https://www.infoq.cn/article/Eza17SbmJcpgj4o3NC9J?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Sep 2025 15:37:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278318"
-      },
-      "704c2aa410e088258012ce0d7007fd09a02940fc6279d6cb0d8de6f2b1d629ec": {
-        "title": "如何破解海量内容审核难题？快手安全大模型技术探索与应用实践",
-        "link": "https://www.infoq.cn/article/6R251b2U2bDaQMgbIsFA?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Sep 2025 15:13:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278330"
-      },
-      "f4e2278f05ba940535515f738734e295696bf8122d6f06376daff252463ab2d0": {
-        "title": "北京邮电大学副教授、博士生导师徐梦炜博士确认出席 QCon 上海，分享终端大模型操作系统的架构、优化与展望",
-        "link": "https://www.infoq.cn/article/QjjqEx7JdVgoyu7uYiar?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Sep 2025 14:01:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.278343"
-      },
-      "1dc8c21f820fd07b6faea89aa552777dc9492f183cbf30c9c9805cc026640eeb": {
-        "title": "前作广受好评，新作备受期待：《空洞骑士：丝之歌》试玩体验",
-        "link": "https://sspai.com/post/102303",
-        "published_date": "Fri, 05 Sep 2025 15:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.920896"
-      },
-      "6abf59107d949be2b212d4fa2839cfb117eb391a74529cb698a8fd7f624d5ace": {
-        "title": "第一家 AI 浏览器公司，卖了 43 亿！",
-        "link": "http://www.geekpark.net/news/353533",
-        "published_date": "Fri, 05 Sep 2025 13:57:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.921942"
-      },
-      "34034c186a0859a4730d196c3dd8190635907d87aa03dd7c50164fcca736c811": {
-        "title": "This robot lawnmower is designed to pick fruit and throw your dog a ball",
-        "link": "https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower",
-        "published_date": "Fri, 05 Sep 2025 07:30:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.924427"
-      },
-      "c413f38863508cf6d74f9d2597268436905e1e93b1f470d43b4ab98146d8901c": {
-        "title": "Timekettle’s new translation earbuds are made for sharing",
-        "link": "https://www.theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction",
-        "published_date": "Fri, 05 Sep 2025 07:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.926689"
-      },
-      "d17a1a4f4427ff096a3fd0547ba2b7ad7f6c7e5e628e8e8c2ef2b858071476ee": {
-        "title": "Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up",
-        "link": "https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost",
-        "published_date": "Fri, 05 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.929416"
-      },
-      "07527e82ac78712f3bec1a0d108aa7e8346efca05cc148de71574bf2e8cfcf31": {
-        "title": "Lenovo updates its beefiest and bulkiest laptops",
-        "link": "https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa",
-        "published_date": "Fri, 05 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.931557"
-      },
-      "cb78cbbb84d4540aec973ec400b4b4ea916c934bb0599060b68a4f8fd2e16d56": {
-        "title": "Lenovo’s new concept laptop has a rotating screen that’s perfect for doomscrolling",
-        "link": "https://www.theverge.com/news/771907/lenovo-thinkbook-vertiflex-concept-laptop-vertical-screen-specs",
-        "published_date": "Fri, 05 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.935130"
-      },
-      "a9ca5b3d99422cdc625a3ddaeab03f93f5cc3644d52340f24e504b641d19fa7d": {
-        "title": "This stand can automatically lift, tilt, and turn your laptop toward you",
-        "link": "https://www.theverge.com/news/772033/this-stand-can-automatically-lift-tilt-and-turn-your-laptop-towards-you",
-        "published_date": "Fri, 05 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.938561"
-      },
-      "2fbc60bd356bc7594db4e8e3007404b38d1908fcf4dda73e04652a5dab786952": {
-        "title": "Better get used to your smart lights having built-in microphones",
-        "link": "https://www.theverge.com/news/772038/lepro-smart-light-built-in-microphone-ifa",
-        "published_date": "Fri, 05 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.942095"
-      },
-      "e71d5ca8dc6f77d8f864df8955f5190b82fad602103a6db7e365ee491d4c015e": {
-        "title": "Lenovo's ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen",
-        "link": "https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/",
-        "published_date": "Fri, 05 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-05T08:31:12.945402"
-      },
       "d618c80bb0c4b95807d95de05454f9f1ef95f272c83c269884e04623fe31843c": {
         "title": "Silicon Valley’s most powerful alliance just got stronger",
         "link": "https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai",
@@ -22058,15 +21872,141 @@
         "link": "https://www.tmtpost.com/7713532.html",
         "published_date": "Sun, 05 Oct 2025 10:36:00 GMT",
         "first_seen": "2025-10-05T08:22:50.053945"
+      },
+      "22a2ab0da032c91c9470e71f9a088c65b29ceaf9253d23d26684b026b6173b22": {
+        "title": "Cursor 1.7 新增 Agent 生命周期管控钩子函数",
+        "link": "https://www.infoq.cn/article/mAZg2SP7UuUdvY1omk6g?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Oct 2025 21:24:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.551857"
+      },
+      "c3d6e850dd3f84f5946639016403ec86e9926a2fda3b6bf0e74e2e6fe76b7109": {
+        "title": "Perplexity 推出搜索 API，助力下一代 AI 应用开发",
+        "link": "https://www.infoq.cn/article/lGhZkVqlmpkfzScGMOdA?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Oct 2025 21:21:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.551888"
+      },
+      "10a2f41ff3f881df9e8845da34884966a5a6ebe0aab3798faee3521a9d75fb94": {
+        "title": "VS Code MSSQL Extension v1.35 GA版本提供了模式匹配、设计器和本地容器",
+        "link": "https://www.infoq.cn/article/Mu6Dd8dPqRyVeY84xYg2?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Oct 2025 21:18:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.551903"
+      },
+      "82f36f23f8d613c78fdc0be92cf7e9f48e787b7c35b9d0849e35ab20a21efc8f": {
+        "title": "大语言模型的解耦：人工智能基础设施的下一轮进化",
+        "link": "https://www.infoq.cn/article/ViFEG6YOJR5WY2OTkux9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Oct 2025 21:15:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.551915"
+      },
+      "22a8eabf3360451177f5f3a9a54a32a7953d5dd840f57e655337adb319d71b81": {
+        "title": "Jane Goodall’s death triggered the premiere of Netflix’s new show",
+        "link": "https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words",
+        "published_date": "Sun, 05 Oct 2025 20:34:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.551930"
+      },
+      "5d9a3f4bcc5110bb14c2237de32de340221b0de37f0e8177e05d294ba89bb219": {
+        "title": "If you can get past the terrible logo, Audacity 4 looks pretty great",
+        "link": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
+        "published_date": "Sun, 05 Oct 2025 17:37:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.551992"
+      },
+      "3170bd831b43af385ba93b406bb09c9b42af85a552eaadc83e16aacb158840d3": {
+        "title": "Roland is finally honoring its legacy instead of just cashing in on it",
+        "link": "https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000",
+        "published_date": "Sun, 05 Oct 2025 16:00:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.552009"
+      },
+      "3551968194ff58c9dc42490814f7e9cc8e23b4bad4536961a0afcf911ad88f9c": {
+        "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+        "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+        "published_date": "Sun, 05 Oct 2025 14:00:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.552024"
+      },
+      "e8c75382c55f181bb8d6221d5c31e03c8239470d617cfb482e56b298144cd01e": {
+        "title": "The developers behind a hit sausage-dueling game hope Steam launch will take it furter",
+        "link": "https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview",
+        "published_date": "Sun, 05 Oct 2025 13:00:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.552036"
+      },
+      "d2c4905c454814bef54f4d2410596ecc6e52eb8c14240430ea5abb4f54f631eb": {
+        "title": "Version History is live — here’s how to find it",
+        "link": "https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards",
+        "published_date": "Sun, 05 Oct 2025 12:30:00 GMT",
+        "first_seen": "2025-10-05T23:17:10.552050"
+      },
+      "a7e963d9e7949976efe2ba4a7b076bbe9cb4f6ba4ab3c03f3127ece026d5df40": {
+        "title": "Can tap-to-pay save public transportation?",
+        "link": "https://www.theverge.com/column/789127/tap-to-pay-public-transportation",
+        "published_date": "Sun, 05 Oct 2025 12:00:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.238824"
+      },
+      "c725f3f6f553f0f7e7bfdd439bab31e0a98d0734b065f16e4e0a419ad9221f26": {
+        "title": "The best lists to keep — and the best ways to keep them",
+        "link": "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer",
+        "published_date": "Sun, 05 Oct 2025 12:00:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.240470"
+      },
+      "dbac7a4949ce55e6e8b69aef933f4a9c2dd53c405f48caf10539d0db1e974d6a": {
+        "title": "基于人的教育可能解决不了AI带来的问题",
+        "link": "https://www.tmtpost.com/7713561.html",
+        "published_date": "Sun, 05 Oct 2025 18:57:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.240999"
+      },
+      "9f494a7e3ba927a59f55cc5b566153daff167cf7d1cd60f7f40dcfe80db550e3": {
+        "title": "Apple Vision Pro 可以看自己拍的沉浸式视频了，但效果可能没你想得那么好",
+        "link": "https://sspai.com/post/102896",
+        "published_date": "Sun, 05 Oct 2025 17:03:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.242330"
+      },
+      "69b89147a5ada6a3edb3b1be47099512c879927f6dff917325e676669cc0e5b5": {
+        "title": "Our Favorite Humidifiers for Home, Travel & More (2025)",
+        "link": "https://www.wired.com/gallery/the-best-humidifier/",
+        "published_date": "Sun, 05 Oct 2025 14:08:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.244232"
+      },
+      "2234cdb6cd7a85539bad2696e55ff3784030ec6ad06c99f8c49726d1cbe88ffc": {
+        "title": "The Best Tech Gear for Work Trips (2025)",
+        "link": "https://www.wired.com/story/best-tech-business-travelers/",
+        "published_date": "Sun, 05 Oct 2025 12:00:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.245756"
+      },
+      "ac0cf452d898514876950e945b71bf5f8c745b182e856718a1b3243df916a21e": {
+        "title": "Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025",
+        "link": "https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/",
+        "published_date": "Sun, 05 Oct 2025 11:36:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.248130"
+      },
+      "df84c07ebc1797e85878571e831d8f5d0a13d800946c1e166116fb75d7a20106": {
+        "title": "8 Best Space Heaters (2025): Tested, Measured, and Mistreated",
+        "link": "https://www.wired.com/gallery/the-best-space-heaters/",
+        "published_date": "Sun, 05 Oct 2025 11:34:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.250393"
+      },
+      "08f6bf75aef3bb1ac362ac7884bbd7a0abadd4bb3cd300ac14ddeb2396678ed1": {
+        "title": "Best iPad to Buy (and Some to Avoid) in 2025",
+        "link": "https://www.wired.com/gallery/the-best-ipad/",
+        "published_date": "Sun, 05 Oct 2025 11:33:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.252463"
+      },
+      "559a1fdc05de3a6558976dc3d7d1ee57f585d5d64ab0d7e4593cef1ed2f99b96": {
+        "title": "The Mystery of How Quasicrystals Form",
+        "link": "https://www.wired.com/story/quasicrystals-spill-secrets-of-their-formation/",
+        "published_date": "Sun, 05 Oct 2025 11:00:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.254414"
+      },
+      "5d8033d04d8c54c80e3b9cb732263268074d6b97b9fcbe66a5d10e2ae17c12a2": {
+        "title": "Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-packing-cubes/",
+        "published_date": "Sun, 05 Oct 2025 10:30:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.257466"
+      },
+      "cff5f712eac7d46ce4730514d7e5042e13eb063f4a4dc7a7de7735de8a50c5ca": {
+        "title": "7 Best Dehumidifiers for Cool and Dry Home Air (2025)",
+        "link": "https://www.wired.com/gallery/best-dehumidifier/",
+        "published_date": "Sun, 05 Oct 2025 10:07:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.259980"
       }
     },
     "Finance": {
-      "7e8f9a158edc08397cf7b179f0d381d92db39ab3915df40a4477418f71d902d3": {
-        "title": "Crunch time for Argentina as local elections this weekend represent referendum on Milei",
-        "link": "https://www.marketwatch.com/story/crunch-time-for-argentina-as-local-elections-this-weekend-represent-referendum-on-milei-23c32dba?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Sep 2025 07:14:00 GMT",
-        "first_seen": "2025-09-05T08:32:01.395729"
-      },
       "f19416f8d6dea246740a54b8a65515639444e166955a70d6cf8f0a0d7fffeff8": {
         "title": "Why Bessent's essay against the Fed is a bid for 'control' over the central bank",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55e7e83b-4136-402c-b3a4-8f5d541684fa&mod=mw_rss_bulletins",
@@ -25318,12 +25258,54 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fc4be344-c166-4970-b3b9-f45f1266bbd8&mod=mw_rss_bulletins",
         "published_date": "Sat, 04 Oct 2025 13:10:00 GMT",
         "first_seen": "2025-10-04T23:22:20.164482"
+      },
+      "545ec45e1937a2a29c68f625d17baafaa076f97573c4324ab82c5bfe9a28e9b8": {
+        "title": "U.S. stock futures gain, while oil and bitcoin prices rise amid uncertainties",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-while-oil-and-bitcoin-prices-rise-amid-uncertainties-49083305?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Oct 2025 22:42:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.062684"
+      },
+      "8b615dd0cf4462282ccb0b4c9f8b07d161c2af717cbacae39860613666f1d263": {
+        "title": "The release of Taylor Swift’s ‘The Life of a Showgirl’ is like Super Bowl Sunday for the music industry",
+        "link": "https://www.marketwatch.com/story/the-release-of-taylor-swifts-the-life-of-a-showgirl-is-like-super-bowl-sunday-for-the-music-industry-2adddbd9?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Oct 2025 21:58:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.063055"
+      },
+      "bdd59c98934085db9791eacf19a11ac0aeb1c03055a3dfece3a42a1374fa6a3a": {
+        "title": "‘I don’t wish to be petty’: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
+        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Oct 2025 21:00:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.063958"
+      },
+      "27bf36c6718acef9030c29745922625036eee0cb40d756a06281d244258af9a5": {
+        "title": "Bitcoin hits new high above $125,000 as investors seek safety",
+        "link": "https://www.marketwatch.com/story/bitcoin-hits-new-high-above-125-000-as-investors-seek-safety-8013d33a?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Oct 2025 20:28:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.064715"
+      },
+      "5c6a8130a7dc13e6ea59b5858420dae99f650d687673ee73b0cc263d598bdbad": {
+        "title": "How one of 2025’s most popular trades is boosting gold and bitcoin — and may keep going during the government shutdown",
+        "link": "https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Oct 2025 20:08:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.066089"
+      },
+      "496c19b23a7b06aa80fe9315de806ba545fa70d704ef3e7930be7a89e8e03356": {
+        "title": "‘My monthly expenses are $6,500’: I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
+        "link": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Oct 2025 19:45:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.068087"
+      },
+      "9c7c9d8327983c5fe5119d3cbc4d10b897d194f9ea64c0928abaf6fb18371a3c": {
+        "title": "OPEC+ agrees to another output hike in November despite growing concerns of glut",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d19908db-c46a-4447-a6e2-df6f02c70a76&mod=mw_rss_bulletins",
+        "published_date": "Sun, 05 Oct 2025 19:48:00 GMT",
+        "first_seen": "2025-10-05T23:16:22.070738"
       }
     }
   },
   "last_update": {
-    "AI": "2025-10-05T08:22:50.027784",
-    "Technology": "2025-10-05T08:22:50.060969",
-    "Finance": "2025-10-05T08:22:49.910884"
+    "AI": "2025-10-05T23:16:22.205155",
+    "Technology": "2025-10-05T23:17:10.555835",
+    "Finance": "2025-10-05T23:16:22.098160"
   }
 }

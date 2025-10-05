@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-05 08:22
+**最后更新时间**: 2025-10-05 23:16
+
+---
+
+## 🆕 最新更新 (2025-10-05 23:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cursor 1.7 新增 Agent 生命周期管控钩子函数](https://www.infoq.cn/article/mAZg2SP7UuUdvY1omk6g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 21:24
+
+#### [Perplexity 推出搜索 API，助力下一代 AI 应用开发](https://www.infoq.cn/article/lGhZkVqlmpkfzScGMOdA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 21:21
+
+#### [VS Code MSSQL Extension v1.35 GA版本提供了模式匹配、设计器和本地容器](https://www.infoq.cn/article/Mu6Dd8dPqRyVeY84xYg2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 21:18
+
+#### [大语言模型的解耦：人工智能基础设施的下一轮进化](https://www.infoq.cn/article/ViFEG6YOJR5WY2OTkux9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-05 21:15
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words)
+**发布时间**: 2025-10-05 20:34
+
+#### [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
+**发布时间**: 2025-10-05 17:37
+
+#### [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000)
+**发布时间**: 2025-10-05 16:00
+
+#### [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+**发布时间**: 2025-10-05 14:00
+
+#### [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
+**发布时间**: 2025-10-05 13:00
+
+#### [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)
+**发布时间**: 2025-10-05 12:30
+
+#### [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation)
+**发布时间**: 2025-10-05 12:00
+
+#### [The best lists to keep — and the best ways to keep them](https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer)
+**发布时间**: 2025-10-05 12:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [基于人的教育可能解决不了AI带来的问题](https://www.tmtpost.com/7713561.html)
+**发布时间**: 2025-10-05 18:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple Vision Pro 可以看自己拍的沉浸式视频了，但效果可能没你想得那么好](https://sspai.com/post/102896)
+**发布时间**: 2025-10-05 17:03
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Our Favorite Humidifiers for Home, Travel & More (2025)](https://www.wired.com/gallery/the-best-humidifier/)
+**发布时间**: 2025-10-05 14:08
+
+#### [The Best Tech Gear for Work Trips (2025)](https://www.wired.com/story/best-tech-business-travelers/)
+**发布时间**: 2025-10-05 12:00
+
+#### [Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025](https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/)
+**发布时间**: 2025-10-05 11:36
+
+#### [8 Best Space Heaters (2025): Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
+**发布时间**: 2025-10-05 11:34
+
+#### [Best iPad to Buy (and Some to Avoid) in 2025](https://www.wired.com/gallery/the-best-ipad/)
+**发布时间**: 2025-10-05 11:33
+
+#### [The Mystery of How Quasicrystals Form](https://www.wired.com/story/quasicrystals-spill-secrets-of-their-formation/)
+**发布时间**: 2025-10-05 11:00
+
+#### [Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
+**发布时间**: 2025-10-05 10:30
+
+#### [7 Best Dehumidifiers for Cool and Dry Home Air (2025)](https://www.wired.com/gallery/best-dehumidifier/)
+**发布时间**: 2025-10-05 10:07
 
 ---
 
