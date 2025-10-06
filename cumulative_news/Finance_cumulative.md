@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-05 23:16
+**最后更新时间**: 2025-10-06 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-06 05:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Taylor Swift’s new album is such a big deal for the music industry](https://www.marketwatch.com/bulletins/redirect/go?g=5c7c91b5-9795-4fa7-8581-f78442c918d4&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 01:09
+
+#### [Here’s what’s worth streaming in October on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/bulletins/redirect/go?g=054148b4-4bf9-4b6c-868d-1997e614f305&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 00:37
+
+#### [How one of 2025’s most popular trades is boosting gold and bitcoin](https://www.marketwatch.com/bulletins/redirect/go?g=a3f6c5ed-ec83-423a-ad9a-20d989808f45&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 23:33
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This shutdown is making me nervous’: I need to take RMDs from an inherited IRA. Is it a bad time to reinvest them?](https://www.marketwatch.com/story/this-shutdown-is-making-me-nervous-i-need-to-take-rmds-from-an-inherited-ira-is-it-a-bad-time-to-reinvest-them-844317bd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 00:29
 
 ---
 

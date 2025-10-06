@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-05 23:16
+**最后更新时间**: 2025-10-06 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-06 05:19)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国造了台“时空压缩机”，它是干嘛用的？](http://www.huxiu.com/article/4787721.html?f=wangzhan)
+**发布时间**: 2025-10-06 10:00
+
+#### [一口气看懂花江峡谷大桥的战略价值](http://www.huxiu.com/article/4788003.html?f=wangzhan)
+**发布时间**: 2025-10-06 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [「好久不见」，金城武](https://www.tmtpost.com/7713691.html)
+**发布时间**: 2025-10-06 09:35
+
+#### [格力急于突围](https://www.tmtpost.com/7713699.html)
+**发布时间**: 2025-10-06 09:30
+
+#### [一边被业主起诉，一边追讨欠款，这家光伏EPC龙头33亿官司缠身](https://www.tmtpost.com/7713701.html)
+**发布时间**: 2025-10-06 09:30
+
+#### [一文讲透产业趋势之：绿醇](https://www.tmtpost.com/7713710.html)
+**发布时间**: 2025-10-06 09:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [今日迎本世纪「最晚中秋月圆」；雷军：小米17 五天销量破百万；ChatGPT 或添私信聊天功能](http://www.geekpark.net/news/354774)
+**发布时间**: 2025-10-06 08:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java近期新闻：JDK 25、GraalVM for JDK 25、OpenJDK JEP、LangChain4j、JBang和Gradle](https://www.infoq.cn/article/xeNe1UVaFAp8UdV10LdO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-06 08:00
 
 ---
 

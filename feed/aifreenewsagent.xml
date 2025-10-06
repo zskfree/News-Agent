@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Oct 2025 23:15:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2025 23:16:22 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 05:20:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>推理token减少46%！Meta新方法缩短思维链，告别重复推导</title>
-      <link>https://www.qbitai.com/2025/10/339545.html</link>
-      <description>&lt;![CDATA[推理token减少46%！Meta新方法缩短思维链，告别重复推导]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339545.html</guid>
+      <title>$\texttt{BluePrint}$: A Social Media User Dataset for LLM Persona Evaluation and Training</title>
+      <link>https://arxiv.org/abs/2510.02343</link>
+      <description>&lt;![CDATA[$\texttt{BluePrint}$: A Social Media User Dataset for LLM Persona Evaluation and Training]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02343</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks</title>
+      <link>https://arxiv.org/abs/2510.02418</link>
+      <description>&lt;![CDATA[BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02418</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Orchestrating Human-AI Teams: The Manager Agent as a Unifying Research Challenge</title>
+      <link>https://arxiv.org/abs/2510.02557</link>
+      <description>&lt;![CDATA[Orchestrating Human-AI Teams: The Manager Agent as a Unifying Research Challenge]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02557</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks</title>
+      <link>https://arxiv.org/abs/2510.02677</link>
+      <description>&lt;![CDATA[ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02677</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Take Goodhart Seriously: Principled Limit on General-Purpose AI Optimization</title>
+      <link>https://arxiv.org/abs/2510.02840</link>
+      <description>&lt;![CDATA[Take Goodhart Seriously: Principled Limit on General-Purpose AI Optimization]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02840</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Onto-Epistemological Analysis of AI Explanations</title>
+      <link>https://arxiv.org/abs/2510.02996</link>
+      <description>&lt;![CDATA[Onto-Epistemological Analysis of AI Explanations]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02996</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Improving Cooperation in Collaborative Embodied AI</title>
+      <link>https://arxiv.org/abs/2510.03153</link>
+      <description>&lt;![CDATA[Improving Cooperation in Collaborative Embodied AI]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.03153</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Modeling the Attack: Detecting AI-Generated Text by Quantifying Adversarial Perturbations</title>
+      <link>https://arxiv.org/abs/2510.02319</link>
+      <description>&lt;![CDATA[Modeling the Attack: Detecting AI-Generated Text by Quantifying Adversarial Perturbations]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02319</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents</title>
+      <link>https://arxiv.org/abs/2510.02325</link>
+      <description>&lt;![CDATA[Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02325</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI</title>
+      <link>https://arxiv.org/abs/2510.02327</link>
+      <description>&lt;![CDATA[KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02327</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Oct 2025 23:16:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2025 23:17:10 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 05:20:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cursor 1.7 新增 Agent 生命周期管控钩子函数</title>
-      <link>https://www.infoq.cn/article/mAZg2SP7UuUdvY1omk6g?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor 1.7 新增 Agent 生命周期管控钩子函数]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 21:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mAZg2SP7UuUdvY1omk6g?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国造了台“时空压缩机”，它是干嘛用的？</title>
+      <link>http://www.huxiu.com/article/4787721.html?f=wangzhan</link>
+      <description>&lt;![CDATA[中国造了台“时空压缩机”，它是干嘛用的？]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4787721.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Perplexity 推出搜索 API，助力下一代 AI 应用开发</title>
-      <link>https://www.infoq.cn/article/lGhZkVqlmpkfzScGMOdA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Perplexity 推出搜索 API，助力下一代 AI 应用开发]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 21:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lGhZkVqlmpkfzScGMOdA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一口气看懂花江峡谷大桥的战略价值</title>
+      <link>http://www.huxiu.com/article/4788003.html?f=wangzhan</link>
+      <description>&lt;![CDATA[一口气看懂花江峡谷大桥的战略价值]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4788003.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>VS Code MSSQL Extension v1.35 GA版本提供了模式匹配、设计器和本地容器</title>
-      <link>https://www.infoq.cn/article/Mu6Dd8dPqRyVeY84xYg2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[VS Code MSSQL Extension v1.35 GA版本提供了模式匹配、设计器和本地容器]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 21:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Mu6Dd8dPqRyVeY84xYg2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>「好久不见」，金城武</title>
+      <link>https://www.tmtpost.com/7713691.html</link>
+      <description>&lt;![CDATA[「好久不见」，金城武]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7713691.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大语言模型的解耦：人工智能基础设施的下一轮进化</title>
-      <link>https://www.infoq.cn/article/ViFEG6YOJR5WY2OTkux9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大语言模型的解耦：人工智能基础设施的下一轮进化]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 21:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ViFEG6YOJR5WY2OTkux9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>格力急于突围</title>
+      <link>https://www.tmtpost.com/7713699.html</link>
+      <description>&lt;![CDATA[格力急于突围]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7713699.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Jane Goodall’s death triggered the premiere of Netflix’s new show</title>
-      <link>https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words</link>
-      <description>&lt;![CDATA[Jane Goodall’s death triggered the premiere of Netflix’s new show]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 20:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words</guid>
+      <title>一边被业主起诉，一边追讨欠款，这家光伏EPC龙头33亿官司缠身</title>
+      <link>https://www.tmtpost.com/7713701.html</link>
+      <description>&lt;![CDATA[一边被业主起诉，一边追讨欠款，这家光伏EPC龙头33亿官司缠身]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7713701.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>If you can get past the terrible logo, Audacity 4 looks pretty great</title>
-      <link>https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</link>
-      <description>&lt;![CDATA[If you can get past the terrible logo, Audacity 4 looks pretty great]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</guid>
+      <title>一文讲透产业趋势之：绿醇</title>
+      <link>https://www.tmtpost.com/7713710.html</link>
+      <description>&lt;![CDATA[一文讲透产业趋势之：绿醇]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7713710.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Roland is finally honoring its legacy instead of just cashing in on it</title>
-      <link>https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000</link>
-      <description>&lt;![CDATA[Roland is finally honoring its legacy instead of just cashing in on it]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000</guid>
+      <title>今日迎本世纪「最晚中秋月圆」；雷军：小米17 五天销量破百万；ChatGPT 或添私信聊天功能</title>
+      <link>http://www.geekpark.net/news/354774</link>
+      <description>&lt;![CDATA[今日迎本世纪「最晚中秋月圆」；雷军：小米17 五天销量破百万；ChatGPT 或添私信聊天功能]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/354774</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>I’ve tested the latest Switch 2 controllers, and this one is the best</title>
-      <link>https://www.theverge.com/tech/791574/best-switch-2-controllers</link>
-      <description>&lt;![CDATA[I’ve tested the latest Switch 2 controllers, and this one is the best]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/791574/best-switch-2-controllers</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>The developers behind a hit sausage-dueling game hope Steam launch will take it furter</title>
-      <link>https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview</link>
-      <description>&lt;![CDATA[The developers behind a hit sausage-dueling game hope Steam launch will take it furter]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Version History is live — here’s how to find it</title>
-      <link>https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards</link>
-      <description>&lt;![CDATA[Version History is live — here’s how to find it]]&gt;</description>
-      <pubDate>Sun, 05 Oct 2025 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards</guid>
+      <title>Java近期新闻：JDK 25、GraalVM for JDK 25、OpenJDK JEP、LangChain4j、JBang和Gradle</title>
+      <link>https://www.infoq.cn/article/xeNe1UVaFAp8UdV10LdO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java近期新闻：JDK 25、GraalVM for JDK 25、OpenJDK JEP、LangChain4j、JBang和Gradle]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xeNe1UVaFAp8UdV10LdO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
