@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f5fbc07676c00dbe70a4c3fd8cf367d46b80bde25e4a00d1cb36d340b8ec8b92": {
-        "title": "Anthropic被作家告了，违规下载700万本书，15亿美元和解了",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-06-5",
-        "published_date": "Sat, 06 Sep 2025 21:31:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.474415"
-      },
-      "ea3eb7b47cbd5a068e02ee549b3fed06abe0edfe63656e160a4506bb1aadd5e3": {
-        "title": "英伟达的局：狂撒15亿美元，从Lambda那租到了搭载自家AI芯片的GPU服务器",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-06-4",
-        "published_date": "Sat, 06 Sep 2025 21:28:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.474559"
-      },
-      "b36c6b3e12828e40373e9c5d168480e4e0d8ffbf1dabebd844af2ce88c3c4db2": {
-        "title": "OpenAI罕见发论文：我们找到了AI幻觉的罪魁祸首",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-06-3",
-        "published_date": "Sat, 06 Sep 2025 21:26:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.474733"
-      },
-      "130ad05db54e6ca7ac697f5d239eabab8bde4d42ae2f7f05dc22306454bc2c6f": {
-        "title": "00后以1.1亿美金「掀桌」，硅谷AI将书写影视新传奇 终结制片旧时代",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-06-2",
-        "published_date": "Sat, 06 Sep 2025 21:21:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.475009"
-      },
-      "1acf1f6dd1c73bf1ef8bddda9a651c6f80181a7fe18ac96929da649b8e10803b": {
-        "title": "任意骨骼系统的模型都能驱动？AnimaX提出基于世界模型的3D动画生成新范式",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-06",
-        "published_date": "Sat, 06 Sep 2025 21:17:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.475315"
-      },
       "1e91d5e54881f2695a128b164997d6d3ab8c151f11d1d13ac351012078195ee0": {
         "title": "AI and machine learning for engineering design",
         "link": "https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907",
@@ -8322,171 +8292,69 @@
         "link": "https://www.qbitai.com/2025/10/339556.html",
         "published_date": "Mon, 06 Oct 2025 06:12:00 GMT",
         "first_seen": "2025-10-06T08:32:31.457938"
+      },
+      "3a305d6bb7b7ffe97b4a92a3fb5a3fc3297df7e8e235bad4ddf7198ac3f8e28f": {
+        "title": "The Download: introducing the 10 climate tech companies to watch for 2025",
+        "link": "https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/",
+        "published_date": "Mon, 06 Oct 2025 12:10:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.776785"
+      },
+      "0307f740168475629d0fc9a17317e70ef8f3c126d31fc58f6ffc31eafbabf67c": {
+        "title": "2025 Climate Tech Companies to Watch",
+        "link": "https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.776931"
+      },
+      "08d99d3471a6a34ca974d8d853d62046f93a1ab4544db744510b0df65aad4fab": {
+        "title": "Bill Gates: Our best weapon against climate change is ingenuity",
+        "link": "https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.777273"
+      },
+      "455234bc92f7d56b007e1b4056c027f02b307c472734f1683f3dac7864156746": {
+        "title": "2025 Climate Tech Companies to Watch: HiNa Battery Technology and its effort to commercialize salt cells",
+        "link": "https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.777862"
+      },
+      "fb29affcf1fd2267551dbaa26c819ed82e2ac59b2dc3ca41e917c1d0e2775178": {
+        "title": "How we picked promising climate tech companies in an especially unsettling year",
+        "link": "https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.778634"
+      },
+      "ea39a259a48815cbac7e82a469264d9f388cbac77f2af0bda107e67550d1cd0d": {
+        "title": "2025 Climate Tech Companies to Watch: Pairwise and its climate-adapted crops",
+        "link": "https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.779532"
+      },
+      "bab3ac4b4fa75a0659b0f22a7f18e2dcc00ee3036d1e7457c4054b470c9e43f0": {
+        "title": "2025 Climate Tech Companies to Watch: Cemvision and its low-emissions cement",
+        "link": "https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.780572"
+      },
+      "aa94bad1c6a49b17eca30af21c78fd34e6c643100ec83926533e3db99cb8c01f": {
+        "title": "2025 Climate Tech Companies to Watch: Traton and its electric trucks",
+        "link": "https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.781626"
+      },
+      "5f4309b0c493b141ee8399bcefdc3c94e549d5db8427293c3f22e135305abebb": {
+        "title": "2025 Climate Tech Companies to Watch: Ather Energy and its premium e-scooters",
+        "link": "https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.782986"
+      },
+      "85001200d92f12ac94b837744e9dc57c80b5e86311ebbb6a13077fd6f30aa607": {
+        "title": "2025 Climate Tech Companies to Watch: Cyclic Materials and its rare earth recycling tech",
+        "link": "https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/",
+        "published_date": "Mon, 06 Oct 2025 10:45:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.784758"
       }
     },
     "Technology": {
-      "b8b6fcaa7fb31ca3d695c56ace6bdb07b6494ae326f9fa30c100aeaa04853c85": {
-        "title": "2025慕尼黑车展前瞻：德系主场坐镇下，中国汽车新能源与智能化之战",
-        "link": "https://www.tmtpost.com/7684194.html",
-        "published_date": "Sat, 06 Sep 2025 21:06:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392159"
-      },
-      "060bba2ff0d3069988f6f893c2b569fb052726c932f20a70fa3e5a0ea97cc935": {
-        "title": "安克创新，如何从“浅海”游向深海",
-        "link": "https://www.tmtpost.com/7684822.html",
-        "published_date": "Sat, 06 Sep 2025 19:06:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392104"
-      },
-      "8266f1632a60d42e6b7671dd441a406bd2f603750a340efc21df9879068f1de3": {
-        "title": "增程换纯电，蔚来们苦等的拐点来了？",
-        "link": "https://www.tmtpost.com/7685368.html",
-        "published_date": "Sat, 06 Sep 2025 19:06:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392169"
-      },
-      "4e1f22995701791f77032d24534629a542257b1cd01a635e1a66bdfd3e836698": {
-        "title": "实测阿里万亿参数大模型：开源路线跑通了吗？",
-        "link": "https://www.tmtpost.com/7685358.html",
-        "published_date": "Sat, 06 Sep 2025 19:06:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392178"
-      },
-      "9b035a7d465a612b7a1dbd7c11bdd298c651936c4b6f4aa9b16c635f44a079a6": {
-        "title": "NEX-T Summit 2025 to Spotlight What's Next in Tech and Capital",
-        "link": "https://www.tmtpost.com/7685379.html",
-        "published_date": "Sat, 06 Sep 2025 18:47:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392191"
-      },
-      "df6e663ef83d865084b2a486d36a9e61b543b815cb30e08f3b7bc656fc5ebb95": {
-        "title": "运用Agentic AI破解商业分析4大痛点，复杂研究可在20分钟内完成 | 创新场景",
-        "link": "https://www.tmtpost.com/7663032.html",
-        "published_date": "Sat, 06 Sep 2025 18:15:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392133"
-      },
-      "a7da3964dc7d98705faeb2cadfbd5e2975cfeb27f94d2edcb51a3e208488f9d4": {
-        "title": "盒马的社区自提梦彻底醒了",
-        "link": "https://www.tmtpost.com/7685285.html",
-        "published_date": "Sat, 06 Sep 2025 16:39:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392200"
-      },
-      "00bc1bb6230280e4d378a520799a51e68c065e53756eae04cb989327b199e60c": {
-        "title": "T-Mobile也要自己做创意了，品牌不需要代理公司吗？",
-        "link": "https://www.tmtpost.com/7685322.html",
-        "published_date": "Sat, 06 Sep 2025 16:39:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392209"
-      },
-      "26a2763c28eac9123bf1652b5d601f9cb66e09b7b4f934a978c63e8a24bfca7f": {
-        "title": "生成式AI应用破解跨境电商本地化翻译难题：1个月上线，翻译成本减少40% | 创新场景",
-        "link": "https://www.tmtpost.com/7662963.html",
-        "published_date": "Sat, 06 Sep 2025 16:30:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392148"
-      },
-      "f9848b5c8d15f403a8d1d6a26409fee32178afc54d89a20e02d79bf52510d119": {
-        "title": "Google Spanner 再出新招：单库同时处理事务和分析，效果如何？",
-        "link": "https://www.infoq.cn/article/A8tlKTdFr9WCBh3iZmJM?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 06 Sep 2025 20:02:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.392222"
-      },
-      "f0c5f6f4e78001aabd86d7f05ae4c2093c6bcccd2ab7d63a877c5eead350e786": {
-        "title": "Pocket Scion is a synth you play with plants",
-        "link": "https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music",
-        "published_date": "Sat, 06 Sep 2025 16:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.011343"
-      },
-      "80f07bf6c510bae8de9fc166d3f740d88daad80013b7af688fef8cec3714481c": {
-        "title": "Park Chan-wook&#8217;s No Other Choice is as bleak as it is hilarious",
-        "link": "https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews",
-        "published_date": "Sat, 06 Sep 2025 15:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.012574"
-      },
-      "c93b6496187daac8b0500bdef9e94fb97b4a605c38be10f2683fda2f5af3d955": {
-        "title": "Bluetti says it can reduce vanlife power installations to ‘30 minutes’",
-        "link": "https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti",
-        "published_date": "Sat, 06 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.014011"
-      },
-      "1a7594678f056a177a44417d14a6c98f52344cacdf6d0e0f059ba42183c5bb8a": {
-        "title": "Super Robot Wars Y plays just like a kid’s giant robo fanfiction",
-        "link": "https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2",
-        "published_date": "Sat, 06 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.015485"
-      },
-      "f2ed1e58502654ffc28433fb81e6b2aa9116cc60f32bc9cbc6188a53c973de6b": {
-        "title": "Herdling is a serene and adorable way to unwind",
-        "link": "https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox",
-        "published_date": "Sat, 06 Sep 2025 13:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.016870"
-      },
-      "b4b212162415181beb34d48d64d5803cb8520034c8705a9becfd266153debdd2": {
-        "title": "Google Pixel 10 review: perfectly fine",
-        "link": "https://www.theverge.com/reviews/772813/google-pixel-10-review",
-        "published_date": "Sat, 06 Sep 2025 12:30:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.018063"
-      },
-      "34d7352a209b3171312a43868f0b5d81a1d31bf0f39fda8862de31189e20e334": {
-        "title": "MAGA populists call for holy war against Big Tech",
-        "link": "https://www.theverge.com/politics/773154/maga-tech-right-ai-natcon",
-        "published_date": "Sat, 06 Sep 2025 12:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.019660"
-      },
-      "7a6399bb5039fa7346c232b161a01b32924b546cba14d4d2b062b37d618e274e": {
-        "title": "The Best Pixel 10 Cases and Accessories (2025)",
-        "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
-        "published_date": "Sat, 06 Sep 2025 13:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.021281"
-      },
-      "5e2906ea672a4a045459d21c07a284324fb0edcadcbe0bcab898721b38c36591": {
-        "title": "How to Babyproof Your Home (2025)",
-        "link": "https://www.wired.com/story/how-to-babyproof-your-home/",
-        "published_date": "Sat, 06 Sep 2025 11:33:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.022497"
-      },
-      "d2ab6f4441f6c7d0cbcd34cb92193e8a77124e9db1751d45a23d1f902601d317": {
-        "title": "Meraki Espresso Machine Review: Fine Grind, Loose Fit",
-        "link": "https://www.wired.com/review/meraki-espresso-maker/",
-        "published_date": "Sat, 06 Sep 2025 11:32:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.024582"
-      },
-      "afc5d0d6da520d796986cda1124c9efcd17845108086a8363ce0b75a48858ae8": {
-        "title": "The 49 Best Movies on Netflix Right Now (September 2025)",
-        "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
-        "published_date": "Sat, 06 Sep 2025 11:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.026761"
-      },
-      "98a937fa56c7b0a7702a6f1b8a8496ed50683be1bfd4acad0fc7ce8a40e4478f": {
-        "title": "The 21 Best Movies on Amazon Prime Right Now (September 2025)",
-        "link": "https://www.wired.com/story/best-amazon-prime-movies/",
-        "published_date": "Sat, 06 Sep 2025 11:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.029164"
-      },
-      "cee3433d3d838c2f403a33b26641a84cc99ade59e5e4a0feaf7ca52d1558468d": {
-        "title": "Real Estate Speculators Are Swooping In to Buy Disaster-Hit Homes",
-        "link": "https://www.wired.com/story/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/",
-        "published_date": "Sat, 06 Sep 2025 11:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.032165"
-      },
-      "9f7422d85553095275293aaefafb3f0f19c1f05084f95a0fb5ffda932fbb4c77": {
-        "title": "How to Watch Apple’s iPhone 17 Announcement, and What to Expect",
-        "link": "https://www.wired.com/story/apple-iphone-17-event-how-to-watch-what-to-expect/",
-        "published_date": "Sat, 06 Sep 2025 11:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.035057"
-      },
-      "9822a975fcd46d0db8489ab9d2a8a070e389f310ef6be0de3c1f8f78d105f97c": {
-        "title": "ICE Has Spyware Now",
-        "link": "https://www.wired.com/story/ice-has-spyware-now/",
-        "published_date": "Sat, 06 Sep 2025 10:30:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.038756"
-      },
-      "6da5b175e0c6191e97ed0419848441ceb3b2c0a363c40f03ab0827b03fcab3dc": {
-        "title": "Where's the Fun in AI Gambling?",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-wheres-the-fun-in-ai-gambling/",
-        "published_date": "Sat, 06 Sep 2025 10:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.040654"
-      },
-      "8801ca943f696cdd4e73a9560f35acc0bbed7de05fd9c094850a3991c4f01d1f": {
-        "title": "Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch",
-        "link": "https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/",
-        "published_date": "Sat, 06 Sep 2025 10:00:00 GMT",
-        "first_seen": "2025-09-06T23:16:37.045160"
-      },
       "652d44cb94c00c738f0d8beb87966f3a26a655ada84d3f54fff77e78fa5013e4": {
         "title": "九三阅兵：4款新鹰击导弹“反舰天团”盘点解读",
         "link": "http://www.huxiu.com/article/4764031.html?f=wangzhan",
@@ -21926,45 +21794,219 @@
         "link": "https://sspai.com/post/100790",
         "published_date": "Mon, 06 Oct 2025 15:03:00 GMT",
         "first_seen": "2025-10-06T08:32:31.491658"
+      },
+      "c666fc9b1698c44d350527a6c321e02625619cb45d83f9770ffe023109f600d4": {
+        "title": "Microsoft is plugging more holes that let you use Windows 11 without an online account",
+        "link": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+        "published_date": "Mon, 06 Oct 2025 22:37:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220489"
+      },
+      "c14e2a235ff2035c1ff9e37b17e5ef350ba7c5d34a40534af227a0441270eae0": {
+        "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+        "link": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
+        "published_date": "Mon, 06 Oct 2025 22:10:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220511"
+      },
+      "85fe6238d9d28e5771387068c78908414eac7deaec47d93b63a73f909c79ef7f": {
+        "title": "ChatGPT apps are live: Here are the first ones you can try",
+        "link": "https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai",
+        "published_date": "Mon, 06 Oct 2025 21:51:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220524"
+      },
+      "40aa036a01cf00928c1c093d43b523a3d0e58f7a124f520da41d234ee3b9a8dc": {
+        "title": "The judge tasked with deciding Google’s fate would rather not",
+        "link": "https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up",
+        "published_date": "Mon, 06 Oct 2025 21:41:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220538"
+      },
+      "551d19f3b772a1dffa9b2ea87618c2e986041514c5bf267a60a8a4831db8dfeb": {
+        "title": "What’s going on with this Instagram promotion?",
+        "link": "https://www.theverge.com/news/793410/meta-instagram-rings-the-ring-creators-movie",
+        "published_date": "Mon, 06 Oct 2025 21:03:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220550"
+      },
+      "84a616b93e14b32c9fb995da202f54416a3d26d550341322a60dd970ce9e151a": {
+        "title": "Google&#8217;s AI bounty program pays bug hunters up to $30K",
+        "link": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
+        "published_date": "Mon, 06 Oct 2025 20:24:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220562"
+      },
+      "87093f92de7df01f8225de763bae93860143ea5da12af6315edbcf5a770cd8e1": {
+        "title": "Google Japan’s concept keyboard is inspired by rotary phones",
+        "link": "https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone",
+        "published_date": "Mon, 06 Oct 2025 20:20:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220573"
+      },
+      "d78d843e548c22b498efbbec304aa5a5c37336779a4e1b0584ac38d1df18e465": {
+        "title": "US v. Google redux: all the news from the ad tech trial",
+        "link": "https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search",
+        "published_date": "Mon, 06 Oct 2025 17:55:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220584"
+      },
+      "87c7414a99eacafe704e11cfb024f9d2e69d53f72cd0c9a919f7cb1a74a90c2d": {
+        "title": "OpenAI will let developers build apps that work inside ChatGPT",
+        "link": "https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025",
+        "published_date": "Mon, 06 Oct 2025 17:48:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220594"
+      },
+      "577711b32fdb95ba7dcc996bf742595788440afcaa010288517ea8479307b1f5": {
+        "title": "Lexar’s new SSD sticks to your iPhone and can survive nearly a 10-foot drop",
+        "link": "https://www.theverge.com/news/793032/lexar-es5-magnetic-magsafe-portable-ssd-apple-prores-4k",
+        "published_date": "Mon, 06 Oct 2025 17:21:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.827627"
+      },
+      "7d16c888a197cbc303f80b14a5e1eaf586ed56d6e409cd96f869398291283835": {
+        "title": "微软测试微流控技术，用于下一代人工智能芯片",
+        "link": "https://www.infoq.cn/article/DZV847Gdit45Bk4SMzfp?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Oct 2025 21:04:00 GMT",
+        "first_seen": "2025-10-06T23:24:16.220460"
+      },
+      "8f72636becc5f7eb4296635f46fc92fdc1f3167092368ff7760734e2405f8454": {
+        "title": "语言迁移的管道方法",
+        "link": "https://www.infoq.cn/article/UUK9wmyMfaMja4eu8xK2?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Oct 2025 20:59:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.828429"
+      },
+      "1c6f3e7336e5a9c29ae3cebb7708c5a65dfe436b2c6b0e6d4cae30c889ebbcf6": {
+        "title": "谷歌 DeepMind 推出具身推理模型 Gemini Robotics-ER 1.5",
+        "link": "https://www.infoq.cn/article/SM9upjHY0CW39lvfBVpo?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Oct 2025 20:57:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.829870"
+      },
+      "18c3698d77f43f20e92c1dedb1d72e310c0a596ea4784971e0ca128b3ce08cdb": {
+        "title": "Nuqs添加了防抖、标准模式集成和键隔离",
+        "link": "https://www.infoq.cn/article/CMkW3KPr9XGRKAMbOUb9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Oct 2025 20:51:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.830608"
+      },
+      "2fb75839c965a4c2fa98f51a5a6a0e5286224a2a5dd30c0ed1ff51d2f32d9d01": {
+        "title": "谷歌Java代理开发工具包新增LangChain4j集成",
+        "link": "https://www.infoq.cn/article/gtd7oH4q36UTxEiooyuK?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Oct 2025 20:48:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.831476"
+      },
+      "2040b506aa336f09f0198bce4b18a0481415f5d1745cb4eb32439f2a225a1fe6": {
+        "title": "OpenAI Wants ChatGPT to Be Your Future Operating System",
+        "link": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/",
+        "published_date": "Mon, 06 Oct 2025 19:34:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.833457"
+      },
+      "4c591349071610694ecead6a0f08a369c6655372d8099a50d0cb1b2cc3ac1c0d": {
+        "title": "This 16-Inch Laptop Just Won Best Buy's Techtober Sale",
+        "link": "https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/",
+        "published_date": "Mon, 06 Oct 2025 18:48:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.835530"
+      },
+      "968237c2f9d08bde2d2f8fa4bec1f6b75899ecc13b413e9f1117df798186ebaf": {
+        "title": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+        "link": "https://www.wired.com/story/openai-amd-deal-data-center-chips/",
+        "published_date": "Mon, 06 Oct 2025 18:31:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.838290"
+      },
+      "898dfc4aa045f82d487fc26914f1479baf40819b5a3bce4696abbc19568aa71a": {
+        "title": "Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half",
+        "link": "https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/",
+        "published_date": "Mon, 06 Oct 2025 17:22:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.841217"
+      },
+      "7ca08897941390bb77190fe96c22594b405bd1936a4a052cb8123ce014284f07": {
+        "title": "WIRED Roundup: The New Fake World of OpenAI’s Social Video App",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-new-fake-world-of-openais-social-video-app/",
+        "published_date": "Mon, 06 Oct 2025 16:43:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.843747"
+      },
+      "991dbe7e45ddc71d060f11db5bfb3c3166e65f0316c9e0cf72731b174bbbb166": {
+        "title": "6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer's Home",
+        "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
+        "published_date": "Mon, 06 Oct 2025 13:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.846855"
+      },
+      "44887d67843149afa2d31d860da4b87fa1a0352b133704ad38ac0d1d59f8d152": {
+        "title": "16 Best Camera Bags, Slings, Straps, and Backpacks (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/",
+        "published_date": "Mon, 06 Oct 2025 12:30:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.850475"
+      },
+      "6ccd1e2446291d0461bb5ebcda931560f71691d4a497ca7456e5a9adb2929b19": {
+        "title": "13 Best Travel Adapters (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-travel-adapters/",
+        "published_date": "Mon, 06 Oct 2025 12:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.853263"
+      },
+      "24f0a5ae81f9ae93fe62bf47497e4208fa21bf1100f0e728d264c51b3bae9f9e": {
+        "title": "Best Bike Helmets (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-bike-helmets/",
+        "published_date": "Mon, 06 Oct 2025 11:30:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.855778"
+      },
+      "6c39cf830329552d804c1160445d8884f1abc6eda33a6efc91418d9f3545283d": {
+        "title": "How to Get Your Kids Into STEM Even When Its Future Is Uncertain",
+        "link": "https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/",
+        "published_date": "Mon, 06 Oct 2025 11:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.859577"
+      },
+      "04a483bb904dfec4c90982233f36dceee36822f60ed679b5baaa61cb9ed23273": {
+        "title": "Autism Is Not a Single Condition and Has No Single Cause, Scientists Conclude",
+        "link": "https://www.wired.com/story/autism-is-not-a-single-condition-and-has-no-single-cause-scientists-conclude/",
+        "published_date": "Mon, 06 Oct 2025 11:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.863892"
+      },
+      "6e6d24ed96506283c05a39c5bb0c8c5748cfd157fd5c7e152ec8700cff3898a3": {
+        "title": "As the Right Leans Into ‘Warrior’ Culture, Some Leftist Gym Bros Are Pushing Back",
+        "link": "https://www.wired.com/story/as-the-right-leans-into-warrior-culture-some-leftist-gym-bros-are-pushing-back/",
+        "published_date": "Mon, 06 Oct 2025 11:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.868580"
+      },
+      "14658bbc1da07f3fa6bcbcbeb40cdb296dc2800a44604dca6c982360d4e8134c": {
+        "title": "The 7 Best Milk Frothers for Your Home Espresso Setup (2025)",
+        "link": "https://www.wired.com/gallery/best-milk-frothers/",
+        "published_date": "Mon, 06 Oct 2025 10:39:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.872582"
+      },
+      "395accbbacfaf34259507793eddd184cd5b24bce3b1340470e5f9f789a1771e5": {
+        "title": "Vibe Coding Is the New Open Source—in the Worst Way Possible",
+        "link": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+        "published_date": "Mon, 06 Oct 2025 10:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.877015"
+      },
+      "0b286058847dfb432d42630c9f6f09f8521beb1ffc356c52f9e73410f69144d2": {
+        "title": "浪漫在田间地头",
+        "link": "https://www.tmtpost.com/7713846.html",
+        "published_date": "Mon, 06 Oct 2025 19:20:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.877694"
+      },
+      "c9686266cd273effe5219f180ea3d6df413a23f8298d9e91e4c5d10fc1f2fe3a": {
+        "title": "新货盘“革命”，牵动义乌市场大变局",
+        "link": "https://www.tmtpost.com/7713810.html",
+        "published_date": "Mon, 06 Oct 2025 19:19:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.878990"
+      },
+      "50a5f4f7b5f5a28b6577f55f58584bd41afa2794bb911d53c3499db3c727d0e7": {
+        "title": "宜家困在低价里",
+        "link": "https://www.tmtpost.com/7713843.html",
+        "published_date": "Mon, 06 Oct 2025 19:19:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.879675"
+      },
+      "665aaca8a32630ed2c38297649a4b16db69ebf34575d92f3871034ea831c732c": {
+        "title": "不去5A景区的年轻人，爱上进山打卡",
+        "link": "https://www.tmtpost.com/7713914.html",
+        "published_date": "Mon, 06 Oct 2025 19:19:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.881003"
+      },
+      "59a57098902ca1825aabe359f565261707973f68fc23070485b07f1ac346a351": {
+        "title": "月饼人的“超级大年”没有到来",
+        "link": "https://www.tmtpost.com/7713922.html",
+        "published_date": "Mon, 06 Oct 2025 19:19:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.882336"
+      },
+      "cb50065e432e725c985408d0d29297abc2450ee4876d5729a9b492113aaf06fc": {
+        "title": "Beats Fit Pro 新升级，更完善的小改款：Powerbeats Fit 体验",
+        "link": "https://sspai.com/post/102913",
+        "published_date": "Mon, 06 Oct 2025 17:44:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.886071"
       }
     },
     "Finance": {
-      "09d17c5e38435d980235414cbb27d74c5697ed78a1064cbed4258d64ee344098": {
-        "title": "My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?",
-        "link": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Sep 2025 23:04:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.492689"
-      },
-      "c2a0bea473fe07b094f2bf3e71dc97b43ec16bd39043cc57fa11b9f50dd322ed": {
-        "title": "My friend married for a second time. Will the kids from her first marriage lose their inheritance?",
-        "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Sep 2025 22:01:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.493052"
-      },
-      "fcae8e83aa7784722e5c237e8ea2841de08b9d810aa1f155e22f5787749aac42": {
-        "title": "‘Fun came before paying bills’: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
-        "link": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Sep 2025 19:06:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.493668"
-      },
-      "0c86d2a93099f797b2c2473346f9d7f4ab46a42a94a2f113f5f1c6a67711286e": {
-        "title": "5 money moves to make if you win the $1.8 billion Powerball jackpot — or get any kind of financial windfall",
-        "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Sep 2025 18:59:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.494721"
-      },
-      "403664bb75a20398a987e4f5b7f1e676be4ec2c35e6b746a1333d2e25fd96e0d": {
-        "title": "There's another big jobs report coming up — and it probably won’t look good",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=56659ce5-bdb9-4420-b976-0810e72824e1&mod=mw_rss_bulletins",
-        "published_date": "Sat, 06 Sep 2025 14:13:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.495914"
-      },
-      "3399c482d3bafe607912b929d40fa09075db4aea499bc1b03741f4d055cb9539": {
-        "title": "Apple’s iPhone events have been flat lately. Will this year be the exception?",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a2c99c60-48b5-430a-8cf5-46af7da5f505&mod=mw_rss_bulletins",
-        "published_date": "Sat, 06 Sep 2025 13:17:00 GMT",
-        "first_seen": "2025-09-06T23:17:25.497335"
-      },
       "ab22533e872a4d023a86d56b1f6d58bdb50d15780cdad91e1c1fd5a8a9d2be4a": {
         "title": "Stock-market bulls are banking on rate cuts — upcoming CPI inflation data is key",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da91450d-4fe7-4ece-aaf7-2378c9b809c4&mod=mw_rss_bulletins",
@@ -25138,12 +25180,114 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f6cc01b1-1c8a-4953-a7d8-1c4b6b4d4b18&mod=mw_rss_bulletins",
         "published_date": "Mon, 06 Oct 2025 08:30:00 GMT",
         "first_seen": "2025-10-06T08:32:31.332281"
+      },
+      "5aae28db32c7eeb60b39c2577f45e3b18d44e97001d933a9199dd96afb22fc4b": {
+        "title": "Bari Weiss’s getting top job at CBS News may signal rightward lurch across media",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f1e1a26-6d06-4493-90a4-9f4b05a1e546&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 23:10:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656360"
+      },
+      "8ba4761bcc7f9257efe77ed3d856a98235a655bd0d8610e8fa3ab4d869cf2781": {
+        "title": "AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8a752642-a15c-4390-b649-9647ddb64a4f&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 22:14:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656387"
+      },
+      "0e513ffc070696cd7c4e7dfab8e5b26dd8e20f8e670f2fcdfd4eeaac95d70954": {
+        "title": "Goodbye Zillow surfing? How real-estate megamergers could impact home buyers.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=29570f01-4660-49b2-9b64-05faba16f077&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 21:29:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656400"
+      },
+      "67d08d3cb20a604d43c051f29f7497c0cc6c74f39c98be55164c842f4a2c1af7": {
+        "title": "AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ffbcd042-f416-4647-8dfa-f2904ec0c829&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 20:38:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656411"
+      },
+      "2326fa8fa7861790b0524dc77e9e5b3c2d22fdf45c99d25949ed820cbcc64096": {
+        "title": "S&P 500 logs 4th straight record close, while Dow snaps win streak",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1d250ea7-2b80-420c-a97f-456d4f516033&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 20:03:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656422"
+      },
+      "f8737771aeb96926424860f3880259e4122deba80e9f26e4e364325de1ddb212": {
+        "title": "S&P 500 aims for longest win streak since May, gold approaches $4K — follow live",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=402b083d-314a-4055-a6ff-fc036bab43c6&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 19:05:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656435"
+      },
+      "56874cac20037b7b375ea0335e4b0d31c1086bf9da61cb3dc17d84c149989eb4": {
+        "title": "Gold is on the verge of reaching $4,000. What’s behind its unstoppable rally.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c789632d-7ef6-46db-8b46-3f7fc8f076ee&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 18:00:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656446"
+      },
+      "875f0731c6c670a23d457eb0f7807b5ba84ebd89b15eb598d191b43e280c0935": {
+        "title": "Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ba6ccd94-96d6-448f-940b-f90d9bef2853&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 17:15:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656458"
+      },
+      "92b43dc3a3dd479404d1de4e1634bf89dc3ea70e59dcb533f2f8b46dff127f4c": {
+        "title": "Are S&P 500 index funds riskier today than at the height of the dot-com bubble?",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a83600e6-fd95-4304-983b-6b0ca4ad078c&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 16:34:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656468"
+      },
+      "96a1ffe4c84b81c651147228ef91078f42e59595e37d3e07a404c6bd11265993": {
+        "title": "Janus tech-fund manager’s view on where the AI trade goes next — live at noon",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6ecb146d-cef0-4c77-913d-8168c36dff7c&mod=mw_rss_bulletins",
+        "published_date": "Mon, 06 Oct 2025 14:39:00 GMT",
+        "first_seen": "2025-10-06T23:23:27.656479"
+      },
+      "cc7f9d2bb69821c403ae643ea9c9c3c6ad06bcb00972a97b1499209623fb5332": {
+        "title": "Figma and these stocks are up after OpenAI showed AI might not eat software after all",
+        "link": "https://www.marketwatch.com/story/figma-and-these-stocks-are-up-after-openai-showed-ai-might-not-eat-software-after-all-c053bf2b?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 21:32:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.292178"
+      },
+      "15f0b3f2dd60709066816db9af397c4488c7d46b8f9425347302367cf2700ff8": {
+        "title": "‘People need to be more concerned with outliving inflation than Social Security’: I retired at 61, but went back to work. Was I right?",
+        "link": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 21:15:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.296265"
+      },
+      "3cd77aca5a32f0c9f2f744c328e1089fdfbfc8a034a99ca0f651f61e2abb430d": {
+        "title": "Constellation Brands’ results lift stock, but executives warn consumers remain ‘depressed’",
+        "link": "https://www.marketwatch.com/story/constellation-brands-results-lift-stock-but-executives-warn-consumers-remain-depressed-df834c81?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 21:06:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.299280"
+      },
+      "b9e1e4f1c0f07efe106a75ea75429c460ea146f8562c6aebb996f98154ec1697": {
+        "title": "Oracle’s stock surged on billions in new cloud contracts. Can it fund its AI promise?",
+        "link": "https://www.marketwatch.com/story/oracles-stock-surged-on-billions-in-new-cloud-contracts-can-it-fund-its-ai-promise-ba60a6c6?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 21:04:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.302719"
+      },
+      "7f2e9542eb50b38ee664da11d4db13de1b526fe863f1a12f57272cc4b500ad81": {
+        "title": "Goodbye Zillow surfing? How megamergers in the real-estate industry could impact home buyers.",
+        "link": "https://www.marketwatch.com/story/goodbye-zillow-surfing-how-megamergers-in-the-real-estate-industry-could-impact-home-buyers-508e8669?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 21:03:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.306391"
+      },
+      "3b661047a679383daa33c44a53a2c839f5156e603b1743775592b5e3312b2c56": {
+        "title": "Gen X is about to face the biggest Social Security decision — and a lot of money is on the line",
+        "link": "https://www.marketwatch.com/story/generation-x-is-about-to-face-the-biggest-social-security-decision-and-tens-of-thousands-of-dollars-are-at-stake-for-each-person-9793bb77?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 20:35:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.311496"
+      },
+      "bb74bab80167be0b2ce4a3d58d6d9f098ebc8930324a402ca53a2983b7322ea2": {
+        "title": "Japan ETFs rally sharply as election of party leader Takaichi signals ‘fiscal taps may stay open’",
+        "link": "https://www.marketwatch.com/story/japan-etfs-rally-sharply-as-election-of-party-leader-takaichi-signals-fiscal-taps-may-stay-open-a92d6307?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Oct 2025 20:33:00 GMT",
+        "first_seen": "2025-10-06T23:22:39.316242"
       }
     }
   },
   "last_update": {
-    "AI": "2025-10-06T08:32:31.465024",
-    "Technology": "2025-10-06T08:32:31.498751",
-    "Finance": "2025-10-06T08:32:31.361200"
+    "AI": "2025-10-06T23:23:27.792124",
+    "Technology": "2025-10-06T23:24:16.224173",
+    "Finance": "2025-10-06T23:23:27.680799"
   }
 }

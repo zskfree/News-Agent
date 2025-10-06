@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-06 08:32
+**最后更新时间**: 2025-10-06 23:22
+
+---
+
+## 🆕 最新更新 (2025-10-06 23:22)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
+**发布时间**: 2025-10-06 22:37
+
+#### [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman)
+**发布时间**: 2025-10-06 22:10
+
+#### [ChatGPT apps are live: Here are the first ones you can try](https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai)
+**发布时间**: 2025-10-06 21:51
+
+#### [The judge tasked with deciding Google’s fate would rather not](https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up)
+**发布时间**: 2025-10-06 21:41
+
+#### [What’s going on with this Instagram promotion?](https://www.theverge.com/news/793410/meta-instagram-rings-the-ring-creators-movie)
+**发布时间**: 2025-10-06 21:03
+
+#### [Google&#8217;s AI bounty program pays bug hunters up to $30K](https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards)
+**发布时间**: 2025-10-06 20:24
+
+#### [Google Japan’s concept keyboard is inspired by rotary phones](https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone)
+**发布时间**: 2025-10-06 20:20
+
+#### [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+**发布时间**: 2025-10-06 17:55
+
+#### [OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)
+**发布时间**: 2025-10-06 17:48
+
+#### [Lexar’s new SSD sticks to your iPhone and can survive nearly a 10-foot drop](https://www.theverge.com/news/793032/lexar-es5-magnetic-magsafe-portable-ssd-apple-prores-4k)
+**发布时间**: 2025-10-06 17:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软测试微流控技术，用于下一代人工智能芯片](https://www.infoq.cn/article/DZV847Gdit45Bk4SMzfp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-06 21:04
+
+#### [语言迁移的管道方法](https://www.infoq.cn/article/UUK9wmyMfaMja4eu8xK2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-06 20:59
+
+#### [谷歌 DeepMind 推出具身推理模型 Gemini Robotics-ER 1.5](https://www.infoq.cn/article/SM9upjHY0CW39lvfBVpo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-06 20:57
+
+#### [Nuqs添加了防抖、标准模式集成和键隔离](https://www.infoq.cn/article/CMkW3KPr9XGRKAMbOUb9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-06 20:51
+
+#### [谷歌Java代理开发工具包新增LangChain4j集成](https://www.infoq.cn/article/gtd7oH4q36UTxEiooyuK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-06 20:48
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [OpenAI Wants ChatGPT to Be Your Future Operating System](https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/)
+**发布时间**: 2025-10-06 19:34
+
+#### [This 16-Inch Laptop Just Won Best Buy's Techtober Sale](https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/)
+**发布时间**: 2025-10-06 18:48
+
+#### [OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI](https://www.wired.com/story/openai-amd-deal-data-center-chips/)
+**发布时间**: 2025-10-06 18:31
+
+#### [Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half](https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/)
+**发布时间**: 2025-10-06 17:22
+
+#### [WIRED Roundup: The New Fake World of OpenAI’s Social Video App](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-new-fake-world-of-openais-social-video-app/)
+**发布时间**: 2025-10-06 16:43
+
+#### [6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer's Home](https://www.wired.com/story/best-mesh-wifi-routers/)
+**发布时间**: 2025-10-06 13:00
+
+#### [16 Best Camera Bags, Slings, Straps, and Backpacks (2025), Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
+**发布时间**: 2025-10-06 12:30
+
+#### [13 Best Travel Adapters (2025), Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
+**发布时间**: 2025-10-06 12:00
+
+#### [Best Bike Helmets (2025), Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)
+**发布时间**: 2025-10-06 11:30
+
+#### [How to Get Your Kids Into STEM Even When Its Future Is Uncertain](https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/)
+**发布时间**: 2025-10-06 11:00
+
+#### [Autism Is Not a Single Condition and Has No Single Cause, Scientists Conclude](https://www.wired.com/story/autism-is-not-a-single-condition-and-has-no-single-cause-scientists-conclude/)
+**发布时间**: 2025-10-06 11:00
+
+#### [As the Right Leans Into ‘Warrior’ Culture, Some Leftist Gym Bros Are Pushing Back](https://www.wired.com/story/as-the-right-leans-into-warrior-culture-some-leftist-gym-bros-are-pushing-back/)
+**发布时间**: 2025-10-06 11:00
+
+#### [The 7 Best Milk Frothers for Your Home Espresso Setup (2025)](https://www.wired.com/gallery/best-milk-frothers/)
+**发布时间**: 2025-10-06 10:39
+
+#### [Vibe Coding Is the New Open Source—in the Worst Way Possible](https://www.wired.com/story/vibe-coding-is-the-new-open-source/)
+**发布时间**: 2025-10-06 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [浪漫在田间地头](https://www.tmtpost.com/7713846.html)
+**发布时间**: 2025-10-06 19:20
+
+#### [新货盘“革命”，牵动义乌市场大变局](https://www.tmtpost.com/7713810.html)
+**发布时间**: 2025-10-06 19:19
+
+#### [宜家困在低价里](https://www.tmtpost.com/7713843.html)
+**发布时间**: 2025-10-06 19:19
+
+#### [不去5A景区的年轻人，爱上进山打卡](https://www.tmtpost.com/7713914.html)
+**发布时间**: 2025-10-06 19:19
+
+#### [月饼人的“超级大年”没有到来](https://www.tmtpost.com/7713922.html)
+**发布时间**: 2025-10-06 19:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Beats Fit Pro 新升级，更完善的小改款：Powerbeats Fit 体验](https://sspai.com/post/102913)
+**发布时间**: 2025-10-06 17:44
 
 ---
 

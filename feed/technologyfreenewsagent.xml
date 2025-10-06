@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Oct 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2025 08:32:31 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 23:24:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>模拟 DJ 的自动过渡功能，会带来歌单的未来形态吗？</title>
-      <link>https://sspai.com/post/100790</link>
-      <description>&lt;![CDATA[模拟 DJ 的自动过渡功能，会带来歌单的未来形态吗？]]&gt;</description>
-      <pubDate>Mon, 06 Oct 2025 15:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/100790</guid>
+      <title>微软测试微流控技术，用于下一代人工智能芯片</title>
+      <link>https://www.infoq.cn/article/DZV847Gdit45Bk4SMzfp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软测试微流控技术，用于下一代人工智能芯片]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DZV847Gdit45Bk4SMzfp?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Microsoft is plugging more holes that let you use Windows 11 without an online account</title>
+      <link>https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</link>
+      <description>&lt;![CDATA[Microsoft is plugging more holes that let you use Windows 11 without an online account]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out</title>
+      <link>https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman</link>
+      <description>&lt;![CDATA[Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 22:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ChatGPT apps are live: Here are the first ones you can try</title>
+      <link>https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai</link>
+      <description>&lt;![CDATA[ChatGPT apps are live: Here are the first ones you can try]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>The judge tasked with deciding Google’s fate would rather not</title>
+      <link>https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up</link>
+      <description>&lt;![CDATA[The judge tasked with deciding Google’s fate would rather not]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 21:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>What’s going on with this Instagram promotion?</title>
+      <link>https://www.theverge.com/news/793410/meta-instagram-rings-the-ring-creators-movie</link>
+      <description>&lt;![CDATA[What’s going on with this Instagram promotion?]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 21:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793410/meta-instagram-rings-the-ring-creators-movie</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Google&amp;#8217;s AI bounty program pays bug hunters up to $30K</title>
+      <link>https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards</link>
+      <description>&lt;![CDATA[Google&amp;#8217;s AI bounty program pays bug hunters up to $30K]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 20:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Google Japan’s concept keyboard is inspired by rotary phones</title>
+      <link>https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone</link>
+      <description>&lt;![CDATA[Google Japan’s concept keyboard is inspired by rotary phones]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>US v. Google redux: all the news from the ad tech trial</title>
+      <link>https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search</link>
+      <description>&lt;![CDATA[US v. Google redux: all the news from the ad tech trial]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 17:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI will let developers build apps that work inside ChatGPT</title>
+      <link>https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025</link>
+      <description>&lt;![CDATA[OpenAI will let developers build apps that work inside ChatGPT]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Oct 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2025 08:32:31 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 23:23:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>French stocks and bonds falter after prime minister resigns</title>
-      <link>https://www.marketwatch.com/bulletins/redirect/go?g=f6cc01b1-1c8a-4953-a7d8-1c4b6b4d4b18&amp;mod=mw_rss_bulletins</link>
-      <description>&lt;![CDATA[French stocks and bonds falter after prime minister resigns]]&gt;</description>
-      <pubDate>Mon, 06 Oct 2025 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=f6cc01b1-1c8a-4953-a7d8-1c4b6b4d4b18&amp;mod=mw_rss_bulletins</guid>
+      <title>Bari Weiss’s getting top job at CBS News may signal rightward lurch across media</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7f1e1a26-6d06-4493-90a4-9f4b05a1e546&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Bari Weiss’s getting top job at CBS News may signal rightward lurch across media]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 23:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7f1e1a26-6d06-4493-90a4-9f4b05a1e546&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=8a752642-a15c-4390-b649-9647ddb64a4f&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling.]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 22:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=8a752642-a15c-4390-b649-9647ddb64a4f&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Goodbye Zillow surfing? How real-estate megamergers could impact home buyers.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=29570f01-4660-49b2-9b64-05faba16f077&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Goodbye Zillow surfing? How real-estate megamergers could impact home buyers.]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 21:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=29570f01-4660-49b2-9b64-05faba16f077&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=ffbcd042-f416-4647-8dfa-f2904ec0c829&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 20:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=ffbcd042-f416-4647-8dfa-f2904ec0c829&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500 logs 4th straight record close, while Dow snaps win streak</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=1d250ea7-2b80-420c-a97f-456d4f516033&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[S&amp;P 500 logs 4th straight record close, while Dow snaps win streak]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 20:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=1d250ea7-2b80-420c-a97f-456d4f516033&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500 aims for longest win streak since May, gold approaches $4K — follow live</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=402b083d-314a-4055-a6ff-fc036bab43c6&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[S&amp;P 500 aims for longest win streak since May, gold approaches $4K — follow live]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=402b083d-314a-4055-a6ff-fc036bab43c6&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold is on the verge of reaching $4,000. What’s behind its unstoppable rally.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=c789632d-7ef6-46db-8b46-3f7fc8f076ee&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Gold is on the verge of reaching $4,000. What’s behind its unstoppable rally.]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=c789632d-7ef6-46db-8b46-3f7fc8f076ee&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=ba6ccd94-96d6-448f-940b-f90d9bef2853&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=ba6ccd94-96d6-448f-940b-f90d9bef2853&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Are S&amp;P 500 index funds riskier today than at the height of the dot-com bubble?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=a83600e6-fd95-4304-983b-6b0ca4ad078c&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Are S&amp;P 500 index funds riskier today than at the height of the dot-com bubble?]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=a83600e6-fd95-4304-983b-6b0ca4ad078c&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Janus tech-fund manager’s view on where the AI trade goes next — live at noon</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=6ecb146d-cef0-4c77-913d-8168c36dff7c&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Janus tech-fund manager’s view on where the AI trade goes next — live at noon]]&gt;</description>
+      <pubDate>Mon, 06 Oct 2025 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=6ecb146d-cef0-4c77-913d-8168c36dff7c&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

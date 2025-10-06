@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-06 08:32
+**最后更新时间**: 2025-10-06 23:22
+
+---
+
+## 🆕 最新更新 (2025-10-06 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bari Weiss’s getting top job at CBS News may signal rightward lurch across media](https://www.marketwatch.com/bulletins/redirect/go?g=7f1e1a26-6d06-4493-90a4-9f4b05a1e546&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 23:10
+
+#### [AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling.](https://www.marketwatch.com/bulletins/redirect/go?g=8a752642-a15c-4390-b649-9647ddb64a4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 22:14
+
+#### [Goodbye Zillow surfing? How real-estate megamergers could impact home buyers.](https://www.marketwatch.com/bulletins/redirect/go?g=29570f01-4660-49b2-9b64-05faba16f077&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 21:29
+
+#### [AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.](https://www.marketwatch.com/bulletins/redirect/go?g=ffbcd042-f416-4647-8dfa-f2904ec0c829&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 20:38
+
+#### [S&P 500 logs 4th straight record close, while Dow snaps win streak](https://www.marketwatch.com/bulletins/redirect/go?g=1d250ea7-2b80-420c-a97f-456d4f516033&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 20:03
+
+#### [S&P 500 aims for longest win streak since May, gold approaches $4K — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=402b083d-314a-4055-a6ff-fc036bab43c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 19:05
+
+#### [Gold is on the verge of reaching $4,000. What’s behind its unstoppable rally.](https://www.marketwatch.com/bulletins/redirect/go?g=c789632d-7ef6-46db-8b46-3f7fc8f076ee&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 18:00
+
+#### [Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.](https://www.marketwatch.com/bulletins/redirect/go?g=ba6ccd94-96d6-448f-940b-f90d9bef2853&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 17:15
+
+#### [Are S&P 500 index funds riskier today than at the height of the dot-com bubble?](https://www.marketwatch.com/bulletins/redirect/go?g=a83600e6-fd95-4304-983b-6b0ca4ad078c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 16:34
+
+#### [Janus tech-fund manager’s view on where the AI trade goes next — live at noon](https://www.marketwatch.com/bulletins/redirect/go?g=6ecb146d-cef0-4c77-913d-8168c36dff7c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 14:39
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling today.](https://www.marketwatch.com/story/applovin-has-been-one-of-the-years-hottest-stocks-heres-why-its-tumbling-today-b39baf99?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 22:06
+
+#### [Figma and these stocks are up after OpenAI showed AI might not eat software after all](https://www.marketwatch.com/story/figma-and-these-stocks-are-up-after-openai-showed-ai-might-not-eat-software-after-all-c053bf2b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:32
+
+#### [‘People need to be more concerned with outliving inflation than Social Security’: I retired at 61, but went back to work. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:15
+
+#### [Constellation Brands’ results lift stock, but executives warn consumers remain ‘depressed’](https://www.marketwatch.com/story/constellation-brands-results-lift-stock-but-executives-warn-consumers-remain-depressed-df834c81?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:06
+
+#### [Oracle’s stock surged on billions in new cloud contracts. Can it fund its AI promise?](https://www.marketwatch.com/story/oracles-stock-surged-on-billions-in-new-cloud-contracts-can-it-fund-its-ai-promise-ba60a6c6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:04
+
+#### [Goodbye Zillow surfing? How megamergers in the real-estate industry could impact home buyers.](https://www.marketwatch.com/story/goodbye-zillow-surfing-how-megamergers-in-the-real-estate-industry-could-impact-home-buyers-508e8669?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:03
+
+#### [AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.](https://www.marketwatch.com/story/amds-stock-soars-25-heres-why-openai-wants-a-stake-in-it-7958979b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 20:37
+
+#### [Gen X is about to face the biggest Social Security decision — and a lot of money is on the line](https://www.marketwatch.com/story/generation-x-is-about-to-face-the-biggest-social-security-decision-and-tens-of-thousands-of-dollars-are-at-stake-for-each-person-9793bb77?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 20:35
+
+#### [Japan ETFs rally sharply as election of party leader Takaichi signals ‘fiscal taps may stay open’](https://www.marketwatch.com/story/japan-etfs-rally-sharply-as-election-of-party-leader-takaichi-signals-fiscal-taps-may-stay-open-a92d6307?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 20:33
 
 ---
 
