@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-07 05:23
+**最后更新时间**: 2025-10-07 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-07 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Hitachi Joins Hands with OpenAI on Datacenters as Fujitsu Expands Partnership with Nvidia to Build AI Infrastructure](https://www.tmtpost.com/7714220.html)
+**发布时间**: 2025-10-07 15:41
+
+#### [OpenAI CEO Sam Altman Said to Hold Low-Profile Meetings with Foxconn and TSMC amid Stargate Expansion](https://www.tmtpost.com/7714207.html)
+**发布时间**: 2025-10-07 14:48
+
+#### [OpenAI Inks Partnership with Samsung and SK for Stargate Expansion](https://www.tmtpost.com/7714199.html)
+**发布时间**: 2025-10-07 14:18
+
+#### [Access to Cutting-Edge Models and the Democratization of Innovation Mean Opportunities for Entrepreneurs in AI Era, Say Startup Executives](https://www.tmtpost.com/7714197.html)
+**发布时间**: 2025-10-07 14:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用 AI 帮我改善口吃：一段关于自我和解的旅程](https://sspai.com/post/102860)
+**发布时间**: 2025-10-07 15:00
+
+#### [Apple Vision Pro 可以看自己拍的沉浸式视频了，看起来效果怎么样？](https://sspai.com/post/102896)
+**发布时间**: 2025-10-05 17:03
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [151 Best Prime Day Deals 2025: Kindles, Apple Watch, Discounts](https://www.wired.com/story/prime-day-deals-october-2025/)
+**发布时间**: 2025-10-07 08:21
 
 ---
 

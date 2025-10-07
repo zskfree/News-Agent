@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "c41ca8434b5d193930fc3134a97038a49c5cf33d5136ce64625b4baae8c2c0a3": {
-        "title": "字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-07",
-        "published_date": "Sun, 07 Sep 2025 16:19:00 GMT",
-        "first_seen": "2025-09-07T08:22:14.065943"
-      },
       "65d64feabda5fc0fe8b81be84b3902d0f2453dff859ac53ba59b8f141bd77b68": {
         "title": "Claude不让我们用！国产平替能顶上吗？",
         "link": "https://www.jiqizhixin.com/articles/2025-09-07-5",
@@ -8649,24 +8643,6 @@
       }
     },
     "Technology": {
-      "5dadd30c7676ab5ed9dad56a3102b40a7b9817823da8fbc0ab11022e127eee45": {
-        "title": "小红书估值达310亿美元市值，商业化策略需要新支点",
-        "link": "https://www.tmtpost.com/7685442.html",
-        "published_date": "Sun, 07 Sep 2025 14:51:00 GMT",
-        "first_seen": "2025-09-07T08:22:13.978039"
-      },
-      "0b7f55c37e951baead94de718babf647e9b2a328ae92b213455f61407a9379e7": {
-        "title": "一次 vibe designing 实验：我如何从零开始设计「摸鱼计时器」",
-        "link": "https://sspai.com/post/102164",
-        "published_date": "Sun, 07 Sep 2025 14:10:00 GMT",
-        "first_seen": "2025-09-07T08:22:13.978196"
-      },
-      "20b03de0e82b314a0216af97efdc34e674eaeeed79c121d90f8fec7c749d28d9": {
-        "title": "6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
-        "published_date": "Sun, 07 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-07T08:22:13.978494"
-      },
       "667f31e57808c9f02146c64907efc80c5d428ce39b389a354dc85a70b025ae75": {
         "title": "将推出超过150款更低价格产品，宜家中国本土化转型再深化",
         "link": "https://www.tmtpost.com/7682271.html",
@@ -22298,6 +22274,42 @@
         "link": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
         "published_date": "Mon, 06 Oct 2025 23:28:00 GMT",
         "first_seen": "2025-10-07T05:24:53.948623"
+      },
+      "ce18f07e4b3e78b6e3d03a2b49f4a8d7990d6ce56e6260df24b039dbd47bc6bf": {
+        "title": "Hitachi Joins Hands with OpenAI on Datacenters as Fujitsu Expands Partnership with Nvidia to Build AI Infrastructure",
+        "link": "https://www.tmtpost.com/7714220.html",
+        "published_date": "Tue, 07 Oct 2025 15:41:00 GMT",
+        "first_seen": "2025-10-07T08:27:31.263488"
+      },
+      "3dcdaf01685dd7f601f0e64322cb7a059ea170c4910234c928c3a9a4c322dd33": {
+        "title": "OpenAI CEO Sam Altman Said to Hold Low-Profile Meetings with Foxconn and TSMC amid Stargate Expansion",
+        "link": "https://www.tmtpost.com/7714207.html",
+        "published_date": "Tue, 07 Oct 2025 14:48:00 GMT",
+        "first_seen": "2025-10-07T08:27:31.264099"
+      },
+      "77212802f0a907f541292283928eb9514a713efa369afde922480a95a423ace4": {
+        "title": "OpenAI Inks Partnership with Samsung and SK for Stargate Expansion",
+        "link": "https://www.tmtpost.com/7714199.html",
+        "published_date": "Tue, 07 Oct 2025 14:18:00 GMT",
+        "first_seen": "2025-10-07T08:27:31.264647"
+      },
+      "dc50982a0516bb6b90a591afc44621ea94122646a52af510461c56fec3ff4a2c": {
+        "title": "Access to Cutting-Edge Models and the Democratization of Innovation Mean Opportunities for Entrepreneurs in AI Era, Say Startup Executives",
+        "link": "https://www.tmtpost.com/7714197.html",
+        "published_date": "Tue, 07 Oct 2025 14:10:00 GMT",
+        "first_seen": "2025-10-07T08:27:31.265923"
+      },
+      "bb1260cb411cf14645a88768c2a5160faa7b5e1f3c150e0bfae15baa861fea77": {
+        "title": "用 AI 帮我改善口吃：一段关于自我和解的旅程",
+        "link": "https://sspai.com/post/102860",
+        "published_date": "Tue, 07 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-07T08:27:31.266225"
+      },
+      "99c7e183e603d95ab673bb9a7f82b12853f030b387a636943b4837c8a6271d8a": {
+        "title": "151 Best Prime Day Deals 2025: Kindles, Apple Watch, Discounts",
+        "link": "https://www.wired.com/story/prime-day-deals-october-2025/",
+        "published_date": "Tue, 07 Oct 2025 08:21:00 GMT",
+        "first_seen": "2025-10-07T08:27:31.267227"
       }
     },
     "Finance": {
@@ -25604,8 +25616,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-07T05:24:53.920453",
-    "Technology": "2025-10-07T05:24:53.955905",
-    "Finance": "2025-10-07T05:24:05.259492"
+    "AI": "2025-10-07T08:27:31.237379",
+    "Technology": "2025-10-07T08:27:31.294264",
+    "Finance": "2025-10-07T08:27:31.132046"
   }
 }
