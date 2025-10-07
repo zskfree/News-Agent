@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Oct 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 05:24:53 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 23:18:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Rainbow Padding: Mitigating Early Termination in Instruction-Tuned Diffusion LLMs</title>
-      <link>https://arxiv.org/abs/2510.03680</link>
-      <description>&lt;![CDATA[Rainbow Padding: Mitigating Early Termination in Instruction-Tuned Diffusion LLMs]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03680</guid>
+      <title>The Trump administration may cut funding for two major direct-air capture plants</title>
+      <link>https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/</link>
+      <description>&lt;![CDATA[The Trump administration may cut funding for two major direct-air capture plants]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Decoding Emotion in the Deep: A Systematic Study of How LLMs Represent, Retain, and Express Emotion</title>
-      <link>https://arxiv.org/abs/2510.04064</link>
-      <description>&lt;![CDATA[Decoding Emotion in the Deep: A Systematic Study of How LLMs Represent, Retain, and Express Emotion]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.04064</guid>
+      <title>AI toys are all the rage in China—and now they’re appearing on shelves in the US too</title>
+      <link>https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/</link>
+      <description>&lt;![CDATA[AI toys are all the rage in China—and now they’re appearing on shelves in the US too]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Adaptive and Explainable AI Agents for Anomaly Detection in Critical IoT Infrastructure using LLM-Enhanced Contextual Reasoning</title>
-      <link>https://arxiv.org/abs/2510.03859</link>
-      <description>&lt;![CDATA[Adaptive and Explainable AI Agents for Anomaly Detection in Critical IoT Infrastructure using LLM-Enhanced Contextual Reasoning]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03859</guid>
+      <title>The Download: extracting lithium, and what we still don’t know about Sora</title>
+      <link>https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/</link>
+      <description>&lt;![CDATA[The Download: extracting lithium, and what we still don’t know about Sora]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Printable aluminum alloy sets strength records, may enable lighter aircraft parts</title>
-      <link>https://news.mit.edu/2025/printable-aluminum-alloy-sets-strength-records-may-enable-lighter-aircraft-parts-1007</link>
-      <description>&lt;![CDATA[Printable aluminum alloy sets strength records, may enable lighter aircraft parts]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/printable-aluminum-alloy-sets-strength-records-may-enable-lighter-aircraft-parts-1007</guid>
+      <title>The three big unanswered questions about Sora</title>
+      <link>https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/</link>
+      <description>&lt;![CDATA[The three big unanswered questions about Sora]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Refined Iterated Pareto Greedy for Energy-aware Hybrid Flowshop Scheduling with Blocking Constraints</title>
-      <link>https://arxiv.org/abs/2510.03377</link>
-      <description>&lt;![CDATA[Refined Iterated Pareto Greedy for Energy-aware Hybrid Flowshop Scheduling with Blocking Constraints]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03377</guid>
+      <title>This company is planning a lithium empire from the shores of the Great Salt Lake</title>
+      <link>https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/</link>
+      <description>&lt;![CDATA[This company is planning a lithium empire from the shores of the Great Salt Lake]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Know Thyself? On the Incapability and Implications of AI Self-Recognition</title>
-      <link>https://arxiv.org/abs/2510.03399</link>
-      <description>&lt;![CDATA[Know Thyself? On the Incapability and Implications of AI Self-Recognition]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03399</guid>
+      <title>Fighting for the health of the planet with AI</title>
+      <link>https://news.mit.edu/2025/fighting-health-planet-ai-priya-donti-1007</link>
+      <description>&lt;![CDATA[Fighting for the health of the planet with AI]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2025/fighting-health-planet-ai-priya-donti-1007</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification</title>
-      <link>https://arxiv.org/abs/2510.03469</link>
-      <description>&lt;![CDATA[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03469</guid>
+      <title>​​Speech-to-Retrieval (S2R): A new approach to voice search</title>
+      <link>https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/</link>
+      <description>&lt;![CDATA[​​Speech-to-Retrieval (S2R): A new approach to voice search]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Towards Policy-Compliant Agents: Learning Efficient Guardrails For Policy Violation Detection</title>
-      <link>https://arxiv.org/abs/2510.03485</link>
-      <description>&lt;![CDATA[Towards Policy-Compliant Agents: Learning Efficient Guardrails For Policy Violation Detection]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03485</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Understanding the Role of Training Data in Test-Time Scaling</title>
-      <link>https://arxiv.org/abs/2510.03605</link>
-      <description>&lt;![CDATA[Understanding the Role of Training Data in Test-Time Scaling]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03605</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information</title>
-      <link>https://arxiv.org/abs/2510.03632</link>
-      <description>&lt;![CDATA[MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.03632</guid>
+      <title>2025诺贝尔物理学奖颁给了谷歌量子计算机打造者</title>
+      <link>https://www.qbitai.com/2025/10/339842.html</link>
+      <description>&lt;![CDATA[2025诺贝尔物理学奖颁给了谷歌量子计算机打造者]]&gt;</description>
+      <pubDate>Tue, 07 Oct 2025 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339842.html</guid>
       <category>AI</category>
     </item>
   </channel>

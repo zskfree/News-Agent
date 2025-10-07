@@ -1,7 +1,220 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-07 08:27
+**最后更新时间**: 2025-10-07 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-07 23:17)
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Philips Hue customizable string lights are $50 off for October Prime Day](https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale)
+**发布时间**: 2025-10-07 23:00
+
+#### [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator)
+**发布时间**: 2025-10-07 22:52
+
+#### [Google&#8217;s latest AI model uses a web browser like you do](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
+**发布时间**: 2025-10-07 22:43
+
+#### [The 190 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+**发布时间**: 2025-10-07 22:00
+
+#### [We handpicked 30 October Prime Day deals you can get for under $25](https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025)
+**发布时间**: 2025-10-07 21:30
+
+#### [Nobel Prize in Physics goes to early research that led to today&#8217;s quantum computers](https://www.theverge.com/news/795295/nobel-prize-phyics-quantum-computers)
+**发布时间**: 2025-10-07 21:09
+
+#### [Former Apple bosses slam decision to take down ICEBlock](https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism)
+**发布时间**: 2025-10-07 20:38
+
+#### [Bose&#8217;s boldest QuietComfort Ultra headphones are cheaper than ever](https://www.theverge.com/tech/792224/amazon-october-prime-day-bose-quietcomfort-ultra-headphones-deal-sale-2025)
+**发布时间**: 2025-10-07 20:30
+
+#### [AltStore&#8217;s alternative iPhone app store is coming to more countries](https://www.theverge.com/news/795173/altstore-alternative-ios-iphone-app-store-more-countries-fediverse-social-web)
+**发布时间**: 2025-10-07 19:57
+
+#### [Amazon&#8217;s latest Kindle Paperwhite just got its first price drop of the year](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)
+**发布时间**: 2025-10-07 19:56
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Solawave Wand Is the Best LED Device Prime Day Deal Right Now](https://www.wired.com/story/solawave-wand-deal-prime-day-october-2025/)
+**发布时间**: 2025-10-07 22:23
+
+#### [Best Amazon Prime Day Kindle Deals (October 2025): Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
+**发布时间**: 2025-10-07 22:14
+
+#### [75 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
+**发布时间**: 2025-10-07 21:52
+
+#### [The Tesla Model Y and Model 3 Standard Are Cheaper—but Still Not Cheap](https://www.wired.com/story/tesla-model-y-and-model-3-standard-are-cheaper-but-still-not-cheap/)
+**发布时间**: 2025-10-07 21:51
+
+#### [26 Best Prime Day Tech Deals: Tablets, Accessories, and More](https://www.wired.com/story/best-prime-day-tech-deals-october-2025/)
+**发布时间**: 2025-10-07 21:34
+
+#### [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
+**发布时间**: 2025-10-07 21:23
+
+#### [Ted Cruz Targets Wikipedia Over ‘Ideological Bias’](https://www.wired.com/story/ted-cruz-targets-wikipedia-over-ideological-bias/)
+**发布时间**: 2025-10-07 21:17
+
+#### [The Best Anti-Prime Day Deals for Amazon Haters (2025): Sheets, Sex Tech, and Fire Pits](https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/)
+**发布时间**: 2025-10-07 21:08
+
+#### [6 Best Dehumidifiers for Cool and Dry Home Air (2025)](https://www.wired.com/gallery/best-dehumidifier/)
+**发布时间**: 2025-10-07 20:15
+
+#### [The Petkit PuraMax 2 Is $150 Off Right Now](https://www.wired.com/story/petkit-puramax-2-prime-big-deal-day-deal/)
+**发布时间**: 2025-10-07 19:23
+
+#### [Ultrahuman's Tracker Ring Requires No Subscription, and It’s Under $300 for Prime Day](https://www.wired.com/story/ultrahuman-prime-day-2025/)
+**发布时间**: 2025-10-07 19:11
+
+#### [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+**发布时间**: 2025-10-07 19:08
+
+#### [We Found the 214 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025/)
+**发布时间**: 2025-10-07 19:02
+
+#### [The Best Prime Day TV Deals (2025)](https://www.wired.com/story/prime-day-tv-deals-october-2025/)
+**发布时间**: 2025-10-07 19:00
+
+#### [The 55 Best Shows on Disney+ Right Now (October 2025)](https://www.wired.com/story/best-shows-disney-plus/)
+**发布时间**: 2025-10-07 19:00
+
+#### [The Petcube Cam 360 Is $16 Off for Prime Day](https://www.wired.com/story/petcube-360-cam-prime-big-deal-day-deal/)
+**发布时间**: 2025-10-07 18:35
+
+#### [Cozy Earth's Prime Day Sale (2025): Sheets, Pajamas, Socks and More on Deep Discount](https://www.wired.com/story/cozy-earth-prime-day-sale-october-2025/)
+**发布时间**: 2025-10-07 18:29
+
+#### [Best Prime Day Apple iPad Deals](https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/)
+**发布时间**: 2025-10-07 18:26
+
+#### [The Best Prime Day Apple Deals, From Watches to iPads (2025)](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025/)
+**发布时间**: 2025-10-07 18:24
+
+#### [The Best Prime Day Vacuum Deals (2025): Dyson, Bissell, Black + Decker](https://www.wired.com/story/prime-day-vacuum-deals-october-2025/)
+**发布时间**: 2025-10-07 18:18
+
+#### [You Can Save Big on Apple's AirPods Pro 2 for Prime Day](https://www.wired.com/story/airpods-pro-prime-day-sale-october-2025/)
+**发布时间**: 2025-10-07 17:08
+
+#### [Save 25 Percent on This Sonos Prime Day Soundbar Deal](https://www.wired.com/story/prime-day-soundbar-deal-october-2025/)
+**发布时间**: 2025-10-07 16:34
+
+#### [Dyson's Best Vacuum Is on Sale for $180 Off Its Regular Price](https://www.wired.com/story/dyson-v15-detect-plus-sale-prime-day-october-2025/)
+**发布时间**: 2025-10-07 16:29
+
+#### [This Sleep Mask Changed My Life and It's on Sale (2025)](https://www.wired.com/story/manta-sleep-mask-amazon-prime-day-sale/)
+**发布时间**: 2025-10-07 16:28
+
+#### [OpenAI Sneezes, and Software Firms Catch a Cold](https://www.wired.com/story/openai-chatgpt-docusign-saas-market/)
+**发布时间**: 2025-10-07 16:00
+
+#### [Chaos, Confusion, and Conspiracies: Inside a Facebook Group for RFK Jr.’s Autism ‘Cure’](https://www.wired.com/story/chaos-confusion-conspiracies-facebook-group-rfk-autism-cure/)
+**发布时间**: 2025-10-07 15:58
+
+#### [HyperSpace Trackpad Pro Hands-On: A Windows Answer to Apple’s Magic Trackpad](https://www.wired.com/story/hyper-hyperspace-trackpad-pro/)
+**发布时间**: 2025-10-07 15:00
+
+#### [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025/)
+**发布时间**: 2025-10-07 14:51
+
+#### [The Best Prime Day Pet Deals (October 2025)](https://www.wired.com/story/prime-day-pet-deals-october-2025/)
+**发布时间**: 2025-10-07 14:37
+
+#### [I'm a Certified Sleep Coach, and My Favorite Pillow Is $20 Off Right Now for Prime Day (2025)](https://www.wired.com/story/lagoon-pillow-prime-day-sale-2025/)
+**发布时间**: 2025-10-07 14:26
+
+#### [Google Pixel 10 and Pixel 10 Pro Are on Sale for Prime Big Deal Days](https://www.wired.com/story/google-pixel-10-sale-amazon-prime-big-deal-days-october-2025/)
+**发布时间**: 2025-10-07 14:23
+
+#### [The Best Wi-Fi 7 Mesh Router for Most People Hits Its Lowest Price Ever](https://www.wired.com/story/netgear-orbi-770-series-prime-day-2025/)
+**发布时间**: 2025-10-07 13:57
+
+#### [12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
+**发布时间**: 2025-10-07 13:00
+
+#### [You Can Buy This Amazing Alienware QD-OLED Monitor for a Third of What I Paid During Prime Day](https://www.wired.com/story/dell-alienware-aw3423dw-prime-day-2025/)
+**发布时间**: 2025-10-07 12:26
+
+#### [The Best Discounts We've Found From the Walmart Deals Sale (2025)](https://www.wired.com/story/best-walmart-deals-october-2025/)
+**发布时间**: 2025-10-07 12:21
+
+#### [Best Prime Day Fitness Tracker Deals (2025): Ultrahuman, Fitbit, Amazfit, and More](https://www.wired.com/story/best-prime-day-fitness-trackers-2025/)
+**发布时间**: 2025-10-07 12:10
+
+#### [Google Pixel 9a Sees Its First Major Discount for Prime Big Deal Days](https://www.wired.com/story/google-pixel-9a-prime-day-october-2025/)
+**发布时间**: 2025-10-07 12:08
+
+#### [The Best Deals on Amazon Fire Tablets (2025)](https://www.wired.com/story/prime-day-fire-tablet-deals-october-2025/)
+**发布时间**: 2025-10-07 11:54
+
+#### [The 10 Best Power Bank Prime Day Deals](https://www.wired.com/story/power-banks-prime-big-deal-days-2025/)
+**发布时间**: 2025-10-07 11:50
+
+#### [Patreon CEO Jack Conte Wants You to Get Off of Your Phone](https://www.wired.com/story/the-big-interview-podcast-jack-conte-patreon/)
+**发布时间**: 2025-10-07 10:30
+
+#### [The World's Best Air Fryer Is 40 Percent Off](https://www.wired.com/story/typhur-dome-2-october-2025-prime-day-deal/)
+**发布时间**: 2025-10-07 10:02
+
+#### [The Future of AI Isn't Just Slop](https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/)
+**发布时间**: 2025-10-07 10:00
+
+#### [The Best Cheap Asus Chromebook Has Dropped Below $250](https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/)
+**发布时间**: 2025-10-07 09:55
+
+#### [These Are the Best Packing Cubes on Amazon This Prime Day (2025)](https://www.wired.com/story/best-packing-cubes-on-amazon-october-2025/)
+**发布时间**: 2025-10-07 09:43
+
+#### [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025/)
+**发布时间**: 2025-10-07 09:22
+
+#### [Best Amazon Prime Day Mattress Deals (2025): Casper, Helix, Birch](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals/)
+**发布时间**: 2025-10-07 08:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Self-Leadership Is the Foundation for Broader Impact, Says TCCI Co-founder](https://www.tmtpost.com/7714326.html)
+**发布时间**: 2025-10-07 20:48
+
+#### [亲历苏北县城金店的“黄金周”，店员手都搓冒烟](https://www.tmtpost.com/7714238.html)
+**发布时间**: 2025-10-07 20:32
+
+#### [「一页纸」讲透美股公司之：HIMS](https://www.tmtpost.com/7714012.html)
+**发布时间**: 2025-10-07 20:32
+
+#### [销量暴涨107%却难进寻常家，AR眼镜真火还是虚火？](https://www.tmtpost.com/7714232.html)
+**发布时间**: 2025-10-07 20:31
+
+#### [滨化股份14亿跨界新能源，是转型捷径还是冒险赌注？](https://www.tmtpost.com/7714158.html)
+**发布时间**: 2025-10-07 19:41
+
+#### [「Sora 2」发布，工具、玩具、还是行业杀手？](https://www.tmtpost.com/7714205.html)
+**发布时间**: 2025-10-07 19:41
+
+#### [不拼价格拼脑洞，“月饼大战”的风向变了](https://www.tmtpost.com/7714237.html)
+**发布时间**: 2025-10-07 19:41
+
+#### [Trump Sees 25% Tariffs on Trucks Starting November 1](https://www.tmtpost.com/7714260.html)
+**发布时间**: 2025-10-07 18:00
+
+#### [AMD Stock Soars Almost 24% on Deal with OpenAI to Deliver 6GW Chips](https://www.tmtpost.com/7714252.html)
+**发布时间**: 2025-10-07 17:54
+
+#### [EU Plans to Cut Steel Quotas by Nearly a Half and Hike Tariffs to 50%](https://www.tmtpost.com/7714244.html)
+**发布时间**: 2025-10-07 17:16
+
+#### [暴涨背后，铜将成为AI时代的“新石油”](https://www.tmtpost.com/7714161.html)
+**发布时间**: 2025-10-07 16:56
+
+#### [怎样才能提前2年看穿OpenAI的发展路径](https://www.tmtpost.com/7714160.html)
+**发布时间**: 2025-10-07 16:56
 
 ---
 

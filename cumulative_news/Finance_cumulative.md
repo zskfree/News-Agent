@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-07 05:24
+**最后更新时间**: 2025-10-07 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-07 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Corona seized on a spring-break trend to win back Gen Z beer drinkers](https://www.marketwatch.com/story/how-corona-seized-on-a-spring-break-trend-to-win-back-gen-z-beer-drinkers-05841c40?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:52
+
+#### [AMD gets upgrade after stock’s 24% one-day surge. ‘We rarely do this,’ says chagrined analyst.](https://www.marketwatch.com/story/amd-gets-upgrade-after-24-surge-we-rarely-do-this-says-chagrinned-analyst-565f3cdf?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:48
+
+#### [Is Netflix’s stock ready to catch up to its business momentum? This analyst thinks so.](https://www.marketwatch.com/story/is-netflixs-momentum-moving-faster-than-its-stock-price-this-analyst-thinks-so-45fa58d1?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:45
+
+#### [I’m 58, divorced and will retire at 60 with $5,300 a month. Is now a good time to buy a house?](https://www.marketwatch.com/story/im-58-divorced-and-will-retire-at-60-with-5-300-a-month-is-now-a-good-time-to-buy-a-house-845f27f6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:00
+
+#### [My mother has dementia. If I put her into a facility without a conservatorship, would that be considered kidnapping?](https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:00
+
+#### [Why two Rust Belt towns have the fastest-growing home prices in the U.S.](https://www.marketwatch.com/story/why-two-rust-belt-towns-have-the-fastest-growing-home-prices-in-the-u-s-9886626f?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:55
+
+#### [How this Middle East oil giant got a nuclear big brother — and why your portfolio will feel the heat](https://www.marketwatch.com/story/this-middle-east-oil-giant-just-got-a-nuclear-big-brother-and-your-portfolio-will-feel-the-heat-480d995a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:48
+
+#### [Furloughed by the government shutdown? Take these 4 steps to protect your financial future.](https://www.marketwatch.com/story/furloughed-by-the-government-shutdown-take-these-4-steps-to-protect-your-financial-future-7eda150c?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:31
+
+#### [‘Be more concerned with outliving inflation than Social Security’: I went back to work at 61. I’m now 66. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why record-high gold prices aren’t scaring away first-time investors](https://www.marketwatch.com/bulletins/redirect/go?g=e3d40cff-ddf0-4b44-962d-123c622d3d0a&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 20:54
+
+#### [S&P 500 snaps 7-day win streak as stocks' record-setting rally takes a pause](https://www.marketwatch.com/bulletins/redirect/go?g=39434e9f-150e-42b8-94b0-8cc4eebeb79e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 20:05
+
+#### [Tesla just unveiled a cheaper Model Y and Model 3. Why the stock is falling.](https://www.marketwatch.com/bulletins/redirect/go?g=1e06f0a4-b0e6-4755-8430-28f50751b154&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 19:18
+
+#### [S&P 500 on pace to end 7-day win streak, as gold eclipses $4,000 — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=dd65c425-57e6-4f22-824e-74d182557ed3&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 19:04
+
+#### [These banks might be next to pair up, following the Comerica deal](https://www.marketwatch.com/bulletins/redirect/go?g=7ca60815-0287-48a7-a9b3-3112f82cb1d5&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 17:37
+
+#### [Carlyle and B. of A. shutdown workarounds produce feeble jobs data](https://www.marketwatch.com/bulletins/redirect/go?g=88e1159b-8d5a-441c-bf33-94cd536491dd&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 16:27
+
+#### [AMD upgraded the morning after a 24% stock surge: ‘We rarely do this’](https://www.marketwatch.com/bulletins/redirect/go?g=4b5a58c2-a5df-4637-b43f-81bfa6f668f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 14:10
+
+#### [Correction: Goldman Sachs sees gold on path to $5,000. Ken Griffin is alarmed.](https://www.marketwatch.com/bulletins/redirect/go?g=9e367f96-09e1-43c8-bbae-2481cd19f657&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 13:30
+
+#### [Goldman thinks gold is headed toward $5,000. Ken Griffin has doubts. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=29cfaf6d-5289-486a-84ba-a6bb85b23c95&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 12:58
+
+#### [Economic calendar: Five Fed speeches and consumer-credit data on day’s agenda](https://www.marketwatch.com/bulletins/redirect/go?g=4e4a1740-731b-4ea7-b488-74981e562ac4&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 12:16
 
 ---
 
