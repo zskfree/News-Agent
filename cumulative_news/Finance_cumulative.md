@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-06 23:22
+**最后更新时间**: 2025-10-07 05:24
+
+---
+
+## 🆕 最新更新 (2025-10-07 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s how much shorter your life is if you’re poor in America](https://www.marketwatch.com/story/heres-how-much-shorter-your-life-is-if-youre-poor-in-america-4efe3b27?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 05:00
+
+#### [Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.](https://www.marketwatch.com/story/is-tesla-unveiling-a-cheaper-model-y-soon-heres-what-to-know-about-it-6980cf13?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 00:00
+
+#### [Plug Power’s stock has been swept up in the AI mania. Can it continue?](https://www.marketwatch.com/story/plug-powers-stock-has-been-swept-up-in-the-ai-mania-can-it-continue-2802c935?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 23:58
+
+#### [This holiday season, online deals might be ‘a little weaker,’ as sales slow and shoppers navigate tariff fears](https://www.marketwatch.com/story/this-holiday-season-online-deals-might-be-a-little-weaker-as-sales-slow-and-shoppers-navigate-tariff-fears-99876c65?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 23:23
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why analysts are as excited for McDonald’s Monopoly as customers are](https://www.marketwatch.com/bulletins/redirect/go?g=fef44ea0-054a-4a56-87f0-b29025123427&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 01:05
 
 ---
 

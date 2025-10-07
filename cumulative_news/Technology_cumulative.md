@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-06 23:22
+**最后更新时间**: 2025-10-07 05:23
+
+---
+
+## 🆕 最新更新 (2025-10-07 05:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【生态环境周观察】美国能源部终止75.6亿美元清洁能源补贴；阳光电源递表港交所；腾讯入股碳生万物](https://www.tmtpost.com/7714176.html)
+**发布时间**: 2025-10-07 13:18
+
+#### [成为「水果第一大国」，中国用了60年](https://www.tmtpost.com/7713996.html)
+**发布时间**: 2025-10-07 11:56
+
+#### [十一假期，中式儿女有必过的“孝心收费站”](https://www.tmtpost.com/7714009.html)
+**发布时间**: 2025-10-07 10:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 与 AMD 签百亿美元协议，后者股价暴涨；特斯拉廉价 Model Y 将于 7 日发布；知名旅行、听歌应用入住 ChatGPT](http://www.geekpark.net/news/354775)
+**发布时间**: 2025-10-07 08:23
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
+**发布时间**: 2025-10-07 01:19
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Supreme Court didn’t save Google from Epic, and now the clock is ticking](https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied)
+**发布时间**: 2025-10-06 23:28
 
 ---
 
