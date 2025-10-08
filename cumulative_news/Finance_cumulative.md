@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-08 05:25
+**最后更新时间**: 2025-10-08 08:28
+
+---
+
+## 🆕 最新更新 (2025-10-08 08:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SoftBank to pay $5.4 billion for robotics producer, one of four areas it’s investing to realize ‘artificial super intelligence.’](https://www.marketwatch.com/story/softbank-to-pay-5-4-billion-for-robotics-producer-one-of-four-areas-its-investing-to-realize-artificial-super-intelligence-df5b737b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 07:50
 
 ---
 

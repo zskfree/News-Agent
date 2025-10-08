@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-08 05:25
+**最后更新时间**: 2025-10-08 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-08 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Trilogy Metals Stock Pops 211% after Trump Admin. Confirms Stake in amid Investment Spree](https://www.tmtpost.com/7714586.html)
+**发布时间**: 2025-10-08 15:18
+
+#### [AI Could Reduce Wars and Diseases in the Future, Argue Next-Gen AI Users at NEX-T Summit](https://www.tmtpost.com/7714564.html)
+**发布时间**: 2025-10-08 14:33
+
+#### [Oracle Shares Tumble on Reported Slim AI Cloud Margins, Weighed by Nvidia Blackwell Chips](https://www.tmtpost.com/7714559.html)
+**发布时间**: 2025-10-08 14:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic 公布 Claude 性能问题根源：三大基础设施漏洞](https://www.infoq.cn/article/HmTHVVKjO12hHrmiPpCm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-08 14:26
+
+#### [软件工程师如何成长为高级员工](https://www.infoq.cn/article/jZk1lPGDoZs7iByHszFb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-08 14:06
+
+#### [微软开源智能体框架，简化 AI 智能体开发](https://www.infoq.cn/article/o3iff3Y7MIcbUHN2Juho?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-08 14:02
+
+#### [Linkerd在Imagine Learning公司云原生扩展和成本节省中发挥了关键作用](https://www.infoq.cn/article/T7kx0mFP5wyHwuKCCxcK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-08 13:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 学习模式：让 ChatGPT 当导师，究竟是「邪修」破局还是暗藏陷阱？](https://sspai.com/post/102377)
+**发布时间**: 2025-10-08 14:13
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [21元馒头换套房，西贝为何越洗越黑？](http://www.huxiu.com/article/4788417.html?f=wangzhan)
+**发布时间**: 2025-10-08 14:00
+
+#### [不想国庆出行人挤人，企业错峰放假到底能不能行？](http://www.huxiu.com/article/4788056.html?f=wangzhan)
+**发布时间**: 2025-10-08 12:49
+
+#### [员工少加班，才是提升人效？](http://www.huxiu.com/article/4787460.html?f=wangzhan)
+**发布时间**: 2025-10-08 08:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
+**发布时间**: 2025-10-08 08:12
 
 ---
 
