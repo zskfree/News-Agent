@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 23:18:40 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 05:26:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Trump administration may cut funding for two major direct-air capture plants</title>
-      <link>https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/</link>
-      <description>&lt;![CDATA[The Trump administration may cut funding for two major direct-air capture plants]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/</guid>
+      <title>Vul-R2: A Reasoning LLM for Automated Vulnerability Repair</title>
+      <link>https://arxiv.org/abs/2510.05480</link>
+      <description>&lt;![CDATA[Vul-R2: A Reasoning LLM for Automated Vulnerability Repair]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05480</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI toys are all the rage in China—and now they’re appearing on shelves in the US too</title>
-      <link>https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/</link>
-      <description>&lt;![CDATA[AI toys are all the rage in China—and now they’re appearing on shelves in the US too]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/</guid>
+      <title>ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming</title>
+      <link>https://arxiv.org/abs/2510.05774</link>
+      <description>&lt;![CDATA[ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05774</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: extracting lithium, and what we still don’t know about Sora</title>
-      <link>https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/</link>
-      <description>&lt;![CDATA[The Download: extracting lithium, and what we still don’t know about Sora]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/</guid>
+      <title>Training-Free Time Series Classification via In-Context Reasoning with LLM Agents</title>
+      <link>https://arxiv.org/abs/2510.05950</link>
+      <description>&lt;![CDATA[Training-Free Time Series Classification via In-Context Reasoning with LLM Agents]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05950</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The three big unanswered questions about Sora</title>
-      <link>https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/</link>
-      <description>&lt;![CDATA[The three big unanswered questions about Sora]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/</guid>
+      <title>Constraint-Aware Route Recommendation from Natural Language via Hierarchical LLM Agents</title>
+      <link>https://arxiv.org/abs/2510.06078</link>
+      <description>&lt;![CDATA[Constraint-Aware Route Recommendation from Natural Language via Hierarchical LLM Agents]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06078</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>This company is planning a lithium empire from the shores of the Great Salt Lake</title>
-      <link>https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/</link>
-      <description>&lt;![CDATA[This company is planning a lithium empire from the shores of the Great Salt Lake]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/</guid>
+      <title>Large Language Model-Based Uncertainty-Adjusted Label Extraction for Artificial Intelligence Model Development in Upper Extremity Radiography</title>
+      <link>https://arxiv.org/abs/2510.05664</link>
+      <description>&lt;![CDATA[Large Language Model-Based Uncertainty-Adjusted Label Extraction for Artificial Intelligence Model Development in Upper Extremity Radiography]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05664</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Fighting for the health of the planet with AI</title>
-      <link>https://news.mit.edu/2025/fighting-health-planet-ai-priya-donti-1007</link>
-      <description>&lt;![CDATA[Fighting for the health of the planet with AI]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/fighting-health-planet-ai-priya-donti-1007</guid>
+      <title>Graph-based LLM over Semi-Structured Population Data for Dynamic Policy Response</title>
+      <link>https://arxiv.org/abs/2510.05196</link>
+      <description>&lt;![CDATA[Graph-based LLM over Semi-Structured Population Data for Dynamic Policy Response]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05196</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>​​Speech-to-Retrieval (S2R): A new approach to voice search</title>
-      <link>https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/</link>
-      <description>&lt;![CDATA[​​Speech-to-Retrieval (S2R): A new approach to voice search]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/</guid>
+      <title>Beyond Monolithic Rewards: A Hybrid and Multi-Aspect Reward Optimization for MLLM Alignment</title>
+      <link>https://arxiv.org/abs/2510.05283</link>
+      <description>&lt;![CDATA[Beyond Monolithic Rewards: A Hybrid and Multi-Aspect Reward Optimization for MLLM Alignment]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05283</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025诺贝尔物理学奖颁给了谷歌量子计算机打造者</title>
-      <link>https://www.qbitai.com/2025/10/339842.html</link>
-      <description>&lt;![CDATA[2025诺贝尔物理学奖颁给了谷歌量子计算机打造者]]&gt;</description>
-      <pubDate>Tue, 07 Oct 2025 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339842.html</guid>
+      <title>AInstein: Assessing the Feasibility of AI-Generated Approaches to Research Problems</title>
+      <link>https://arxiv.org/abs/2510.05432</link>
+      <description>&lt;![CDATA[AInstein: Assessing the Feasibility of AI-Generated Approaches to Research Problems]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05432</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Decade-long Emission Forecasting with an Ensemble Model in Taiwan</title>
+      <link>https://arxiv.org/abs/2510.05548</link>
+      <description>&lt;![CDATA[Decade-long Emission Forecasting with an Ensemble Model in Taiwan]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05548</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption</title>
+      <link>https://arxiv.org/abs/2510.05580</link>
+      <description>&lt;![CDATA[MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05580</guid>
       <category>AI</category>
     </item>
   </channel>

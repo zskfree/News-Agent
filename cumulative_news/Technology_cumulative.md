@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-07 23:17
+**最后更新时间**: 2025-10-08 05:25
+
+---
+
+## 🆕 最新更新 (2025-10-08 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Tesla Launches Cheaper Model Y after Q3 Deliveries Hits Record as End of EV Tax Credit](https://www.tmtpost.com/7714529.html)
+**发布时间**: 2025-10-08 12:56
+
+#### [两月暴涨500%！东方甄选，股价惨遭“腰斩”](https://www.tmtpost.com/7714445.html)
+**发布时间**: 2025-10-08 09:54
+
+#### [挣扎的万科](https://www.tmtpost.com/7714422.html)
+**发布时间**: 2025-10-08 09:52
+
+#### [花知晓拿下海外美妆成熟市场背后，是4个行业反常识](https://www.tmtpost.com/7714337.html)
+**发布时间**: 2025-10-08 09:46
+
+#### [投资逻辑「红宝书」之：铜](https://www.tmtpost.com/7714304.html)
+**发布时间**: 2025-10-08 09:46
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [最便宜 Model 3/Y 亮相，26.4 万；Ive 揭秘 AI 硬件，和 iPhone 完全不同；诺贝尔物理学奖授予量子力学科学家｜极客早知道](http://www.geekpark.net/news/354777)
+**发布时间**: 2025-10-08 08:36
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The 207 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+**发布时间**: 2025-10-08 04:11
+
+#### [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
+**发布时间**: 2025-10-08 03:04
+
+#### [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+**发布时间**: 2025-10-08 02:56
+
+#### [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
+**发布时间**: 2025-10-08 02:42
+
+#### [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
+**发布时间**: 2025-10-08 02:39
+
+#### [We dug through thousands of Prime Day deals to find 60 standouts for $50 or less](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
+**发布时间**: 2025-10-08 02:01
+
+#### [The electric screwdriver I use for DIY projects is 40 percent off right now](https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025)
+**发布时间**: 2025-10-08 00:53
+
+#### [Some of our favorite gadgets are cheaper than ever for fall Prime Day](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
+**发布时间**: 2025-10-07 23:35
+
+#### [Jimmy Fallon wants to turn Wordle into a TV show](https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc)
+**发布时间**: 2025-10-07 23:21
+
+#### [Philips Hue customizable string lights are up to $125 off for October Prime Day](https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale)
+**发布时间**: 2025-10-07 23:00
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [The Best Budget Headphone Deals on Prime Day](https://www.wired.com/story/best-prime-day-budget-headphone-deals-october-2025/)
+**发布时间**: 2025-10-08 01:53
+
+#### [Prime Day 2025 Gets A Hot Start With the Best Sonos Era 100 Deal Yet](https://www.wired.com/story/prime-day-sonos-era-100-deal-october-25/)
+**发布时间**: 2025-10-08 00:12
+
+#### [We Found the 283 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025/)
+**发布时间**: 2025-10-08 00:03
+
+#### [Our Favorite Prime Day Deals on Cold-Weather Home Essentials (2025)](https://www.wired.com/story/prime-day-household-cold-weather-gear-2025/)
+**发布时间**: 2025-10-07 23:40
 
 ---
 
