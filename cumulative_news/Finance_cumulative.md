@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-08 08:28
+**最后更新时间**: 2025-10-08 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-08 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Inflation angst lingers for investors even as Treasury yields are little moved by Fed minutes](https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:50
+
+#### [Can you be a DIY investor after you retire? Yes — and here’s what it takes.](https://www.marketwatch.com/story/can-you-be-a-diy-investor-after-you-retire-yes-and-heres-what-it-takes-8717028a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:25
+
+#### [My uncle’s widow is threatening to sue me. She wants money from my grandmother’s estate. Should I be worried?](https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:24
+
+#### [This stock and bond portfolio won’t give you bragging rights — but it does make you money](https://www.marketwatch.com/story/this-boring-stock-and-bond-portfolio-wont-give-you-bragging-rights-but-it-does-make-you-money-0e2a82ef?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:22
+
+#### [Be ready with these portfolio changes if the shutdown damages the Fed’s credibility](https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:21
+
+#### [Costco stock runs higher after yet another monthly sales gain, helped by digital demand](https://www.marketwatch.com/story/costco-sales-run-higher-after-yet-another-monthly-sales-gain-helped-by-digital-demand-2b908a7e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:58
+
+#### [‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?](https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:26
+
+#### [Higher costs, smaller dogs and more cat adoptions are all hitting Freshpet’s sales, analysts say](https://www.marketwatch.com/story/higher-costs-smaller-dogs-and-more-cat-adoptions-are-all-hitting-freshpets-sales-analysts-say-9066a8e9?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:23
+
+#### [‘I have no retirement savings’: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?](https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:22
+
+#### [AMD’s stock builds on its historic rally as the AI trade heats up again](https://www.marketwatch.com/story/amds-stock-builds-on-its-historic-rally-as-the-ai-trade-heats-up-again-a956f050?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:15
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Move over, DraftKings: Wall Street is going all in on Polymarket and Kalshi](https://www.marketwatch.com/bulletins/redirect/go?g=8f7a1e3a-d4a5-4456-9f99-0f4036b0efda&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 21:13
+
+#### [Gold’s surge shows it’s more than just a hedge for the stock market’s record run](https://www.marketwatch.com/bulletins/redirect/go?g=d6b1066c-730d-4d2f-be77-253f08074960&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 20:37
+
+#### [Dow ends flat, S&P 500 and Nasdaq close at records after release of Fed minutes](https://www.marketwatch.com/bulletins/redirect/go?g=b0c355b4-7a9b-4243-941a-855d01fe416d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 20:04
+
+#### [Dow trims gains, S&P and Nasdaq set for records as Fed releases minutes — live](https://www.marketwatch.com/bulletins/redirect/go?g=2f7bacae-014d-4423-98c7-b8317d903136&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 19:03
+
+#### [The Fed minutes are out. ‘Most’ officials backed lower interest rates this year.](https://www.marketwatch.com/bulletins/redirect/go?g=63ce1fa2-f1b3-4e5d-8eff-82683072a8ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 18:35
+
+#### [These 4 things could spark the end of the government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=080edb4a-d892-46b2-b493-b04c05bb2523&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 17:23
+
+#### [U.S. stock indexes poised just below record highs with Fed minutes due today](https://www.marketwatch.com/bulletins/redirect/go?g=09aeca75-98c3-48d7-a750-577ee8902622&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 14:26
+
+#### [The shutdown is starting to undermine airlines’ on-time-performance improvement](https://www.marketwatch.com/bulletins/redirect/go?g=d4d760e4-206a-4f27-9bcc-e4d2aea02d0d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 14:06
+
+#### [Economic calendar: Market awaits minutes from the Fed’s September meeting](https://www.marketwatch.com/bulletins/redirect/go?g=e8e8db3c-162f-438e-8722-2dae400c4b98&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 11:35
+
+#### [Bank of England says stock-market valuations look stretched](https://www.marketwatch.com/bulletins/redirect/go?g=ff78ccb2-b429-44fb-b87b-13b22e01f8c2&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 10:17
 
 ---
 

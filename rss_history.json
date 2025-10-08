@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3e9c939901dc865d3dfaaf156087c1b89879ae79cfe9642b4d1c827fa2aee219": {
-        "title": "全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-08-7",
-        "published_date": "Mon, 08 Sep 2025 14:55:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.761945"
-      },
-      "0fc276d67cc952cd1ac722dc2509b438bf7b8f6e18b81a59fac7efdbb7584cac": {
-        "title": "扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-08-6",
-        "published_date": "Mon, 08 Sep 2025 14:45:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.762072"
-      },
-      "6c6c190b0e85feaa8cbfe130961b6870b45fb58dfed46546aeca3280231ad63a": {
-        "title": "具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-08-5",
-        "published_date": "Mon, 08 Sep 2025 14:35:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.762255"
-      },
-      "9db6dd1e3846896a57fed6a8c184297e59dda2bace767e6e4887409709f4afce": {
-        "title": "上海AI Lab重磅综述：AI实现自主科学发现时代已经到来",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-08-4",
-        "published_date": "Mon, 08 Sep 2025 14:02:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.762469"
-      },
-      "020497d6c01ee77ac59b996972d41c24e1fd9d6c07d767bd956d24184c5b5caa": {
-        "title": "华为手机老将，加盟深蓝任CEO",
-        "link": "https://www.qbitai.com/2025/09/329204.html",
-        "published_date": "Mon, 08 Sep 2025 07:11:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.762669"
-      },
-      "672280be13cfaa795eb67e8ebaacad056712078861859af3c28c991bfca91618": {
-        "title": "英伟达推出通用深度研究系统，可接入任何LLM，支持个人定制",
-        "link": "https://www.qbitai.com/2025/09/329183.html",
-        "published_date": "Mon, 08 Sep 2025 05:39:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.762954"
-      },
       "fc63f50445bb616618f870dbb5ec818a9362b765f5e0b9cf295030b8861fdb11": {
         "title": "Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」",
         "link": "https://www.jiqizhixin.com/articles/2025-09-08-10",
@@ -8664,129 +8628,39 @@
         "link": "https://arxiv.org/abs/2510.06078",
         "published_date": "Wed, 08 Oct 2025 00:00:00 GMT",
         "first_seen": "2025-10-08T05:26:03.959121"
+      },
+      "b49452fd2c505ba0ba2763747a3a3f89b1c006809a41261a4a2c874548dfe9f5": {
+        "title": "MIT Schwarzman College of Computing and MBZUAI launch international collaboration to shape the future of AI",
+        "link": "https://news.mit.edu/2025/mit-schwarzman-college-computing-mbzuai-launch-collaboration-shape-future-ai-1008",
+        "published_date": "Wed, 08 Oct 2025 15:10:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.642274"
+      },
+      "8e0880ef6861cd98bf77703c182c027a238295d4b70e85977b17e6bf9492db95": {
+        "title": "Using generative AI to diversify virtual training grounds for robots",
+        "link": "https://news.mit.edu/2025/using-generative-ai-diversify-virtual-training-grounds-robots-1008",
+        "published_date": "Wed, 08 Oct 2025 13:45:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.642643"
+      },
+      "71aa3719a4f6dab600ffe7a2333a26a7ce3305a3352b04fc8f2c77affa6f5a9a": {
+        "title": "The Download: carbon removal factories’ funding cuts, and AI toys",
+        "link": "https://www.technologyreview.com/2025/10/08/1125301/the-download-carbon-removal-factories-funding-cuts-and-ai-toys/",
+        "published_date": "Wed, 08 Oct 2025 12:10:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.643118"
+      },
+      "abc1ced56c26a2a35471c00dc1e78faa51c794f061a96234cd1e068d5c7210f6": {
+        "title": "直播预告：光轮智能 × NVIDIA带来Sim2Real关键突破",
+        "link": "https://www.qbitai.com/2025/10/339901.html",
+        "published_date": "Wed, 08 Oct 2025 11:28:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.643508"
+      },
+      "65d3db1155187b496fd93bc6542064480552abbe76c42aa41073aa4d9015bbe0": {
+        "title": "首个全自动AI科学家诞生！西湖大学最新成果：性能超越人类SOTA基线183.7%",
+        "link": "https://www.qbitai.com/2025/10/339884.html",
+        "published_date": "Wed, 08 Oct 2025 11:24:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.643953"
       }
     },
     "Technology": {
-      "f1687d763841228818a99751a72a7f6dc9d87610493da26203d9cfbd50bb6ff5": {
-        "title": "When DeepSeek is Your Stock Advisor",
-        "link": "https://www.tmtpost.com/7686445.html",
-        "published_date": "Mon, 08 Sep 2025 16:07:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.677986"
-      },
-      "d8a26b3867488824571b5f7de8b43a13df6b44b3cfbb321da99307ae49d81c37": {
-        "title": "烘焙行业还能不能做出品牌？",
-        "link": "https://www.tmtpost.com/7685896.html",
-        "published_date": "Mon, 08 Sep 2025 15:57:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.677995"
-      },
-      "2bff0b6baabc0be364efb346213e7fd2b805ce22f2df444204e6fe0ffeffce13": {
-        "title": "纳斯达克抬高上市门槛，港交所机会来了？",
-        "link": "https://www.tmtpost.com/7685936.html",
-        "published_date": "Mon, 08 Sep 2025 15:57:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.678006"
-      },
-      "68faf40e49b4016bc9f24d5fe43793f5bbfbb55607ddfe469ab44d4b07219d4d": {
-        "title": "AI眼镜正在改写科技消费新格局",
-        "link": "https://www.tmtpost.com/7685993.html",
-        "published_date": "Mon, 08 Sep 2025 15:28:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.677944"
-      },
-      "10c9c2b91adc329ac0cc3426f4a962d45847457709ab48b5003273f5f65c4375": {
-        "title": "北美奶茶局：新茶饮“烧钱”开店",
-        "link": "https://www.tmtpost.com/7686012.html",
-        "published_date": "Mon, 08 Sep 2025 15:28:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.678017"
-      },
-      "e73bb044dec8a82a59be6b952e68a76da184232445c0a8b38c0e34c908182274": {
-        "title": "9月8日A股分析：三大指数涨跌不一，两市合计成交24187.3亿元，资金流入最多的行业板块为化学制品、酿酒行业",
-        "link": "https://www.tmtpost.com/7686357.html",
-        "published_date": "Mon, 08 Sep 2025 15:18:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.678029"
-      },
-      "42aaa26c91d75cca38cda13f535d9cfbf79b6556497e72426e99685a1b7e738f": {
-        "title": "IKEA Accelerates Localization in China with New Brand Positioning and Expanded Product Offerings",
-        "link": "https://www.tmtpost.com/7686355.html",
-        "published_date": "Mon, 08 Sep 2025 15:04:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.678041"
-      },
-      "f637c573802114f27e4cfe1facf9f650a64c6cd55f29a95f41820096ff6564e9": {
-        "title": "闷声搞钱的联想，正面临AI大考",
-        "link": "https://www.tmtpost.com/7685972.html",
-        "published_date": "Mon, 08 Sep 2025 14:40:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.169420"
-      },
-      "3a4aac646653b2e1b636a110dde6530cec5f9fece692fca4a9cca4145ae71660": {
-        "title": "从「跟随」到「被跟随」，中国科技力量引爆全球",
-        "link": "https://www.tmtpost.com/7686079.html",
-        "published_date": "Mon, 08 Sep 2025 14:10:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.677959"
-      },
-      "9ef98bdeecf506262b17918b7ac7b4ef768da5e3400953c55e20ac0f9c962af1": {
-        "title": "8月红果热度微增超百亿、付费热力值18亿跌9%，听花岛、番茄、河马等领跑",
-        "link": "https://www.tmtpost.com/7686037.html",
-        "published_date": "Mon, 08 Sep 2025 13:45:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.170447"
-      },
-      "f360ff860c88810109f35dd292df5b4a9370b3083e4d077fd56ac304b0a78368": {
-        "title": "蓝色光标、分众传媒、引力传媒、利欧股份、省广集团2025年H1财报：谁是赢家？谁最尴尬？",
-        "link": "https://www.tmtpost.com/7684625.html",
-        "published_date": "Mon, 08 Sep 2025 13:36:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.171247"
-      },
-      "083c03f86d8cd467a7d4a887bfe5e2983727680152d174b11a8f75c61290df5c": {
-        "title": "2025 慕尼黑 InfoQ 开发者峰会：通过深度实践指导掌握“如何实现”",
-        "link": "https://www.infoq.cn/article/Zv1sv8JM58XyLIwNudDq?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Sep 2025 16:00:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.172035"
-      },
-      "6bf61b818bb3ac629187ee6427e4fb3fca568006038e18771aa43e26af07cd8f": {
-        "title": "Pogocache：开源缓存软件实现低延迟并支持多传输协议",
-        "link": "https://www.infoq.cn/article/yXIuzyArDBTgaC6GhPKO?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Sep 2025 15:45:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.172653"
-      },
-      "45a790769b14cc2ead982a7c57604196089d2d64acf6c9c4e9ee3a8a13ae3092": {
-        "title": "前端工程3.0：企业级智能研发与 Agent 系统落地｜ QCon上海",
-        "link": "https://www.infoq.cn/article/5FGYxWQXF09yS1KXJRie?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Sep 2025 15:19:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.677917"
-      },
-      "8b0bfc27d3f26881761d2a0250f5b43de6c5206e11693b0f42b1f65287e24710": {
-        "title": "2025 的企业 AI 市场， Data &AI 占据主流视野",
-        "link": "https://www.infoq.cn/article/HR8BvzxlBabrLDiyTJms?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Sep 2025 14:39:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.174530"
-      },
-      "9eba33055741998971323da1f4e56d11ff2574e5e4a66e219fc9cb179fcb8293": {
-        "title": "自变量机器人完成近10亿元A+轮融资，阿里云、国科、国开、红杉、渶策出手！",
-        "link": "https://www.infoq.cn/article/WhQDfYIiBg8buRjXppyH?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Sep 2025 13:28:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.175631"
-      },
-      "fef652a60361ef1144c969f9c187a54e94dda78cc548fa7f6899c3de8e3dbeca": {
-        "title": "iPhone 摄影风格使用指南",
-        "link": "https://sspai.com/post/102293",
-        "published_date": "Mon, 08 Sep 2025 14:35:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.176264"
-      },
-      "321939f7e178208e726944ed9c457a765f4668223e2e8d5a1f5bf05dbe3c3150": {
-        "title": "小鹏全新P7正式上市，能打败小鹏的只有小鹏自己？",
-        "link": "http://www.huxiu.com/article/4764121.html?f=wangzhan",
-        "published_date": "Mon, 08 Sep 2025 14:30:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.177012"
-      },
-      "0c313004353490cd742806018e3b8a6f82825168a1744ab0723db0889fb8a0f9": {
-        "title": "6 个月估值暴涨 5 倍突破 100 亿美元，三个「00后」逼急 Scale AI",
-        "link": "http://www.geekpark.net/news/353602",
-        "published_date": "Mon, 08 Sep 2025 13:43:00 GMT",
-        "first_seen": "2025-09-08T08:29:39.677974"
-      },
-      "eff651d28170749e4dc9a44e04e49ff3e39b4f0b6786445fab363f44c997f67a": {
-        "title": "Uber and Momenta will test fully driverless cars in Germany",
-        "link": "https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi",
-        "published_date": "Mon, 08 Sep 2025 06:00:00 GMT",
-        "first_seen": "2025-09-08T08:28:51.180207"
-      },
       "9e62025ecb5d20eaf1e97dc41f5d97cf5568824e8e93721a5674f9dcaae7cb67": {
         "title": "刚刚，光刻机霸主ASML成为Mistral最大股东！网友怒斥：ASML的钱将打水漂",
         "link": "https://www.infoq.cn/article/vEaYx0WHA0tlXVZIavmb?utm_source=rss&utm_medium=article",
@@ -22592,6 +22466,306 @@
         "link": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
         "published_date": "Wed, 08 Oct 2025 08:12:00 GMT",
         "first_seen": "2025-10-08T08:28:02.661354"
+      },
+      "f568b582a5381aeecb40d2eb63aedf4f32be5a481290366e1374b66b34060749": {
+        "title": "100 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
+        "link": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 23:03:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188818"
+      },
+      "6477573baf02b81c3987e7eea6d4e124cfa8cdddd2856022db009a7745e5c7bd": {
+        "title": "The Dell 14 Plus Is Now Only $650",
+        "link": "https://www.wired.com/story/dell-14-plus-prime-day-2025/",
+        "published_date": "Wed, 08 Oct 2025 22:46:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188885"
+      },
+      "bebc337e523445261e1bd92f3d9203c276bd987a06fb21e189fbad66cf718d59": {
+        "title": "Sony’s System 6 Offers Cinematic Sound for a Massive Prime Day Discount",
+        "link": "https://www.wired.com/story/prime-day-sony-bravia-theater-system-6-deal-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 21:39:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188907"
+      },
+      "c41a39353e56881d8fcff7d0210e51005cd0be5a519560a82655a859b79c01a8": {
+        "title": "The Best Anti-Prime Day Deals for Amazon Haters (2025): Sheets, Sex Tech, and Fire Pits",
+        "link": "https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 21:16:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188921"
+      },
+      "d598131fb87d151a38783c68b94d6c72ddf5f54d39ac541fc256023c0e3db36d": {
+        "title": "The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More",
+        "link": "https://www.wired.com/story/amazon-prime-day-baby-deals-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 20:59:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188934"
+      },
+      "ca824778e3295e30c0e16dcf3cca26a378d8eac94deadffb3e98807bcc77784b": {
+        "title": "Fans Call on Taylor Swift to ‘Do Better’ After Accusations of Using AI for Promo Videos",
+        "link": "https://www.wired.com/story/taylor-swift-swifties-against-ai-viral/",
+        "published_date": "Wed, 08 Oct 2025 20:53:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188948"
+      },
+      "f97a976dd317d25a49c77c53ca5ac677394b7f57653a9adaa42bd30ab3470a67": {
+        "title": "We Found 217 of the Best Prime Day Deals Still on for 2025: Up To 55% Off",
+        "link": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 20:48:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188960"
+      },
+      "7f58227dfa6bb9ef059e6b1e60aacb61cd2f3ada9e0b0e3dfaf4da8dc1e4da78": {
+        "title": "The Petkit Eversweet Max 2 Is $23 Off Right Now",
+        "link": "https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/",
+        "published_date": "Wed, 08 Oct 2025 20:12:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188970"
+      },
+      "19bbddd360a34817832f1eadd062486c058e6b3c6e8e882f620766b6dbc9ebdf": {
+        "title": "This Is the Best Smart Hummingbird Feeder I've Tested, and It's $50 off Right Now",
+        "link": "https://www.wired.com/story/bird-buddy-pro-hummingbird-prime-day-sale-2025/",
+        "published_date": "Wed, 08 Oct 2025 20:01:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188982"
+      },
+      "6ffb34e93a8a7b24f4807cc833349708591d834d8291d8b1ebf0d5b8212eebad": {
+        "title": "Scientist Who Was Offline 'Living His Best Life' Stunned by Nobel Prize Win",
+        "link": "https://www.wired.com/story/nobel-prize-medicine-immunology-2025/",
+        "published_date": "Wed, 08 Oct 2025 19:39:00 GMT",
+        "first_seen": "2025-10-08T23:19:31.188992"
+      },
+      "7bf15d459c2774c430d3429cc19456ed36745e05efddb03cf343c8ba75e28e77": {
+        "title": "This LG C4 OLED Sale Is the Best Prime Day TV Deal",
+        "link": "https://www.wired.com/story/lg-c4-oled-prime-day-deal-oct-2025/",
+        "published_date": "Wed, 08 Oct 2025 19:27:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.688794"
+      },
+      "d450739e87a6c235872521d7681cbc679fb4eb840fa36a1e5dfeff1fcf0e269b": {
+        "title": "This Startup Wants to Spark a US DeepSeek Moment",
+        "link": "https://www.wired.com/story/prime-intellect-startup-us-deepseek-moment/",
+        "published_date": "Wed, 08 Oct 2025 18:30:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.690502"
+      },
+      "47aeebb59e9d68b99cec0e85e5dd342df50823b6e9840872bb73b0eec58b3e8d": {
+        "title": "This Is the MacBook I'd Buy For Amazon Prime Day Right Now",
+        "link": "https://www.wired.com/story/macbook-to-buy-amazon-prime-day/",
+        "published_date": "Wed, 08 Oct 2025 18:15:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.692439"
+      },
+      "b475292c0b19b711c0fa4f191fdad52b8fa1871606820299f6e8da89c1ab8edb": {
+        "title": "13 Prime Day Toy Deals on Stuff Our Kids Love (2025)",
+        "link": "https://www.wired.com/story/amazon-prime-day-toy-deals-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 18:06:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.694173"
+      },
+      "7669bc36ab8fdadd716ba6c0eaf96ba526df2fdebb1afa79d63f8798ab5000fe": {
+        "title": "Google Pixel Watch 4 vs. Apple Watch Ultra 3: Surprisingly Close",
+        "link": "https://www.wired.com/story/google-pixel-watch-4-vs-apple-watch-ultra-3/",
+        "published_date": "Wed, 08 Oct 2025 17:00:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.696502"
+      },
+      "85d9c844d6ae74e07d89b649af221a70639b64ee2219b797eddf409f4fdf152d": {
+        "title": "Google Pixel Watch 4 Review: The Best Smartwatch for Android",
+        "link": "https://www.wired.com/review/google-pixel-watch-4/",
+        "published_date": "Wed, 08 Oct 2025 17:00:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.698764"
+      },
+      "4e9d0558d1dde4a5caaca57a0336c8e04e85ee4bab9aa6889f5304abe943fa83": {
+        "title": "Google Pixel 10 Pro Fold Review: Missing Pro Features",
+        "link": "https://www.wired.com/review/google-pixel-10-pro-fold/",
+        "published_date": "Wed, 08 Oct 2025 17:00:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.701225"
+      },
+      "2668def335bb2c98bc0a3947296fdcfe520021da49cf55efc2e36bf6c1cddeb4": {
+        "title": "Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines",
+        "link": "https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 16:49:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.704537"
+      },
+      "99c825881d7605aadd44892cb9e345f199026d7fe97d58affacb9c9214a7b485": {
+        "title": "It's Prime Day, and WIRED is Live-Blogging The Best and Worst Of It",
+        "link": "https://www.wired.com/live/amazon-prime-day-deals-october-25/",
+        "published_date": "Wed, 08 Oct 2025 15:41:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.707883"
+      },
+      "43fcc405ba4250a2b587baa2c65136f50a8debcd8719b3a1a766586eae586423": {
+        "title": "11 Best Amazon Deals on Qi2 and MagSafe Accessories",
+        "link": "https://www.wired.com/story/magsafe-accessory-deals-amazon-prime-big-deal-days-2025/",
+        "published_date": "Wed, 08 Oct 2025 15:35:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.710488"
+      },
+      "6034b578e5489bad30f370a14f2125a7fb179f3f14fde6269ff5ccb5305e14ce": {
+        "title": "The GoPro Hero 13 Camera Is on Sale for Prime Day (October 2025)",
+        "link": "https://www.wired.com/story/prime-day-gopro-hero-deal-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 15:23:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.713770"
+      },
+      "20545684004d31e518eade4e525dea414ca178a0266146df433245a350fbd345": {
+        "title": "19 Best Prime Day Outdoor Deals (October 2025)",
+        "link": "https://www.wired.com/story/best-prime-day-outdoor-deals-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 15:02:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.716212"
+      },
+      "0b47e49483373838a0fd6601606a5f68bba024e2ef1cbf2ef0e01d3421d2d148": {
+        "title": "A Surprise Deal on Fellow Aiden—WIRED's Favorite Coffee Maker",
+        "link": "https://www.wired.com/story/fellow-aiden-amazon-prime-deal-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 15:02:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.719796"
+      },
+      "630ee207895ec1120416c12602d61a544cce73f7dbe3781a48e49489c2c6512c": {
+        "title": "Trumpworld's Least Favorite Cabinet Secretaries",
+        "link": "https://www.wired.com/story/trump-least-favorite-cabinet-secretaries/",
+        "published_date": "Wed, 08 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.722913"
+      },
+      "317b2b995206d3c5d352bb01face2c7dd910e53d55253e076322be5317be3b40": {
+        "title": "TAG Heuer's New Smartwatch Ditches Google's Wear OS to Be Apple Friendly",
+        "link": "https://www.wired.com/story/tag-heuer-connected-calibre-e5/",
+        "published_date": "Wed, 08 Oct 2025 14:00:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.727362"
+      },
+      "dbde6c2c77608cdca2ff0ea01d9c3b9895984db3269295b22d56c5451258fdd1": {
+        "title": "The Best Discounts We've Found From the Walmart Deals Sale (2025)",
+        "link": "https://www.wired.com/story/best-walmart-deals-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 13:57:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.731640"
+      },
+      "237e6744150b3a247d00d62e77b99aeb58d3cdac57bf357d93bed47696f01467": {
+        "title": "The Moto G Power 5G Is Down to Just $200 Right Now",
+        "link": "https://www.wired.com/story/moto-g-power-5g-2025-prime-big-deal-days/",
+        "published_date": "Wed, 08 Oct 2025 13:44:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.735256"
+      },
+      "678ec7d332e8ca8e2f6b07c02d956795eea27078eed6abc182790d5f58f86a28": {
+        "title": "Get a Prime Day Discount on Belkin’s Best 3-in-1 Apple Wireless Charger",
+        "link": "https://www.wired.com/story/belkin-3-in-1-wireless-charger-prime-day-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 12:49:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.740444"
+      },
+      "172e1a77a8a85c3de0f9799f89cf97b6eb7418ee1cccd635be8305a8628c02a6": {
+        "title": "My Most Trusted Jumpstarter Is Nearly Half Off Today",
+        "link": "https://www.wired.com/story/gooloo-a3-jumpstarter-october-2025-prime-day/",
+        "published_date": "Wed, 08 Oct 2025 12:18:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.744554"
+      },
+      "a3938263ad713f1add7c4542e1c9737816940c62a519cdc8f06041f8a74d82c2": {
+        "title": "30 Best Prime Day Tech Deals: Tablets, Accessories, and More",
+        "link": "https://www.wired.com/story/best-prime-day-tech-deals-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 11:10:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.749015"
+      },
+      "05622f325591e2aedb9ca5247f4feb363cc170b670d0299cdef149034477a9c8": {
+        "title": "The 13 Best Power Bank Prime Day Deals",
+        "link": "https://www.wired.com/story/power-banks-prime-big-deal-days-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 10:01:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.752096"
+      },
+      "92c56e01a8bec33c745016c486c0130f09fc6cd38bc11962ef76f0c6626916b8": {
+        "title": "The Sony WH-1000XM6 Get a Price Cut During Amazon's 2025 Prime Day Sales Event",
+        "link": "https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 09:58:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.757777"
+      },
+      "c8ff6283930c22e1edcdf2ea9f15b5f1112b24c2116f5addb1a68c53f91ba794": {
+        "title": "The Best Amazon Echo Deal for Prime Day (October 2025): The Echo Spot",
+        "link": "https://www.wired.com/story/this-is-the-only-amazon-speaker-worth-buying-on-prime-day/",
+        "published_date": "Wed, 08 Oct 2025 09:47:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.763166"
+      },
+      "54be659a948518d133d36eba03c4d04b602c31529442f17071cb08ebc0996c1f": {
+        "title": "Bulk Up On Prime Day Protein Powder Deals From Optimum, Orgain, More",
+        "link": "https://www.wired.com/story/protein-powder-prime-day-2025/",
+        "published_date": "Wed, 08 Oct 2025 09:28:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.768585"
+      },
+      "fd5c0e037f2ed5fd671c7df76ab0881630656833d3f7dd040a7c9293f1e0a31b": {
+        "title": "I Found the Best Amazon Prime Day Hair Tool Deals (October 2025)",
+        "link": "https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2025/",
+        "published_date": "Wed, 08 Oct 2025 09:17:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.773835"
+      },
+      "e86576ee750378c41d76a8f5923a5a083de95fa567b243368e1945250a4bca14": {
+        "title": "Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More",
+        "link": "https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 09:06:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.779805"
+      },
+      "89fb8eed72dd74fa6b1805ce3222fd84857dc2793a686e164ebbcd999dd9dee3": {
+        "title": "The Best Prime Day Apple Deals, From Watches to iPads (2025)",
+        "link": "https://www.wired.com/story/best-prime-day-apple-deals-oct-2025-1/",
+        "published_date": "Wed, 08 Oct 2025 08:38:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.785026"
+      },
+      "217a08c363d603bdbb4b49a981205405e285cbdd35dcb8b0caa8c071f7760b37": {
+        "title": "These 63 October Prime Day deals under $50 are still available",
+        "link": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
+        "published_date": "Wed, 08 Oct 2025 22:58:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.790502"
+      },
+      "f9041d576cd467602e5c52eeb26fc9016ce0bcf5ac196c289e9322028642f3ec": {
+        "title": "Our favorite batteries and chargers are on sale for October Prime Day",
+        "link": "https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025",
+        "published_date": "Wed, 08 Oct 2025 22:46:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.796786"
+      },
+      "a3da9e137dddc3526ade3676f9ce8b40b02ae38c308ca9886d07ab37e9db2b1f": {
+        "title": "You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
+        "link": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
+        "published_date": "Wed, 08 Oct 2025 22:43:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.804409"
+      },
+      "410a73aa6fee6f022a6665e83cb119077d3cb01f2c51fbee5b5dd4c4795ca789": {
+        "title": "We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
+        "link": "https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025",
+        "published_date": "Wed, 08 Oct 2025 22:37:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.812007"
+      },
+      "3cd974a631c687e0986f23fa66159fb6e042ceb2f91207dcbebab96373de05ac": {
+        "title": "Several Apple products are cheaper than usual now that fall Prime Day&#8217;s almost over",
+        "link": "https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025",
+        "published_date": "Wed, 08 Oct 2025 22:29:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.820087"
+      },
+      "8ea6c49a91ba1f2477dba37a9339eb43b45490d0da535eee150888c88d49a8a9": {
+        "title": "We found 30-odd October Prime Day deals we love for $100 or less",
+        "link": "https://www.theverge.com/tech/795989/amazon-october-prime-day-best-cheap-tech-deals-under-100-2025",
+        "published_date": "Wed, 08 Oct 2025 22:15:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.826726"
+      },
+      "f793fa393545d7b5804f29b25120c7c7253ea969a83748f24ed6f8e555b65caa": {
+        "title": "The 222 best October Prime Day deals",
+        "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+        "published_date": "Wed, 08 Oct 2025 22:01:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.830833"
+      },
+      "3d1843508a816c3ffdfd9b8c00d5dc0f174395a25d1307b560a5ead49d3fa08d": {
+        "title": "Discord says 70,000 users may have had their government IDs leaked in breach",
+        "link": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+        "published_date": "Wed, 08 Oct 2025 21:34:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.839151"
+      },
+      "5c02e25014b830a63c837888105be55b26e190b019c74c4daa27c9735faa7308": {
+        "title": "Spending on game consoles is up because of the Switch 2 and tariffs",
+        "link": "https://www.theverge.com/news/797023/circana-video-game-consoles-switch-2-tariffs",
+        "published_date": "Wed, 08 Oct 2025 21:14:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.846981"
+      },
+      "57c9152e416689e3dfb902923c2cdf780dad90417760993d8da8abb92a4a11bc": {
+        "title": "Samsung’s Frame Pro has hit a new all-time low for Prime Day",
+        "link": "https://www.theverge.com/tech/796826/amazon-october-prime-day-samsung-frame-pro-tv-deal-sale-2025",
+        "published_date": "Wed, 08 Oct 2025 21:10:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.854184"
+      },
+      "5d16d74ad444b99992e0a282b59167912995f5a872da4eeef92af9737d37121a": {
+        "title": "海宁国资接盘，“新材料”龙头拟3852万元“卖子回血”；转型光伏4年连亏，“玻璃器皿第一股”易主；【并购一线】",
+        "link": "https://www.tmtpost.com/7714797.html",
+        "published_date": "Wed, 08 Oct 2025 22:55:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.860581"
+      },
+      "f3975e5d31b1f0adde2183099272aa01828df5d85d934f879852df838f29cb3d": {
+        "title": "国庆出游带火“摄影神器”，从买到租都“爆单”了",
+        "link": "https://www.tmtpost.com/7714705.html",
+        "published_date": "Wed, 08 Oct 2025 21:27:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.863894"
+      },
+      "80241f5197ef0e3c59414fb2ec4384f3e2704a900498e2b81109fd114c93904f": {
+        "title": "Globalization Not An Option But A Must for Today's Entrepreneurs, Say Industry Veterans at NEX-T Summit",
+        "link": "https://www.tmtpost.com/7714739.html",
+        "published_date": "Wed, 08 Oct 2025 20:26:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.875917"
       }
     },
     "Finance": {
@@ -25990,12 +26164,132 @@
         "link": "https://www.marketwatch.com/story/softbank-to-pay-5-4-billion-for-robotics-producer-one-of-four-areas-its-investing-to-realize-artificial-super-intelligence-df5b737b?mod=mw_rss_topstories",
         "published_date": "Wed, 08 Oct 2025 07:50:00 GMT",
         "first_seen": "2025-10-08T08:28:02.495126"
+      },
+      "49e60f563339f89f71a998feb5cd79d0119217f0e47065751800d40b92988f87": {
+        "title": "Inflation angst lingers for investors even as Treasury yields are little moved by Fed minutes",
+        "link": "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 22:50:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517271"
+      },
+      "a7e77fc5746ea659fa26e37c79a6dad80142a6f5620c951aeda2d19050f02cc8": {
+        "title": "Can you be a DIY investor after you retire? Yes — and here’s what it takes.",
+        "link": "https://www.marketwatch.com/story/can-you-be-a-diy-investor-after-you-retire-yes-and-heres-what-it-takes-8717028a?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 22:25:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517305"
+      },
+      "6ffeb060a47850cefdc32b762f609a2c3ed64a0d9a8191f5824295e9443564c9": {
+        "title": "My uncle’s widow is threatening to sue me. She wants money from my grandmother’s estate. Should I be worried?",
+        "link": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 22:24:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.116161"
+      },
+      "ad5ed7c4ad9fb463d39efd12e514150295d230229ef8b09d85decbac5a212222": {
+        "title": "This stock and bond portfolio won’t give you bragging rights — but it does make you money",
+        "link": "https://www.marketwatch.com/story/this-boring-stock-and-bond-portfolio-wont-give-you-bragging-rights-but-it-does-make-you-money-0e2a82ef?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 22:22:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517322"
+      },
+      "6c11bbda9829bd6966a721287ce61ce02a9f553a3351f8d8a8f0c4a05cdd4ed5": {
+        "title": "Be ready with these portfolio changes if the shutdown damages the Fed’s credibility",
+        "link": "https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 22:21:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517337"
+      },
+      "3d79e0aa1d145f4ada309d30e85d9279daeaf6394108d4f5f92f2e420af172dc": {
+        "title": "Costco stock runs higher after yet another monthly sales gain, helped by digital demand",
+        "link": "https://www.marketwatch.com/story/costco-sales-run-higher-after-yet-another-monthly-sales-gain-helped-by-digital-demand-2b908a7e?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 21:58:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517350"
+      },
+      "6ed4475b746de1c7e588ec3f551e00df056ff2ca574713db0a0b4aac22fe8b48": {
+        "title": "‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+        "link": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 21:26:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.122208"
+      },
+      "64a88764a532348efe70ba1c55825bed1b55ffb6eca52dd8822ed75e5f0120fd": {
+        "title": "Higher costs, smaller dogs and more cat adoptions are all hitting Freshpet’s sales, analysts say",
+        "link": "https://www.marketwatch.com/story/higher-costs-smaller-dogs-and-more-cat-adoptions-are-all-hitting-freshpets-sales-analysts-say-9066a8e9?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 21:23:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517363"
+      },
+      "80216d9be363f0e8a647f329b87b19bfaeb30ab20d907b8dde6d2b4853920d33": {
+        "title": "‘I have no retirement savings’: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
+        "link": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 21:22:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.127832"
+      },
+      "a08ccf3bbe8bbd7c160dfdc56b4a54a11296545bb358c5507ff1ef0a3bf45643": {
+        "title": "AMD’s stock builds on its historic rally as the AI trade heats up again",
+        "link": "https://www.marketwatch.com/story/amds-stock-builds-on-its-historic-rally-as-the-ai-trade-heats-up-again-a956f050?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Oct 2025 21:15:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517376"
+      },
+      "a1555e1d3c6d1daaee39c5ad6474f4b22608cc4da3b23aff7e7b73769b5d2834": {
+        "title": "Move over, DraftKings: Wall Street is going all in on Polymarket and Kalshi",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f7a1e3a-d4a5-4456-9f99-0f4036b0efda&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 21:13:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517389"
+      },
+      "0312e36acdb109059c2e9b57b2a811326b28c3ea19df81f9e5f3dfd08c5ab8b2": {
+        "title": "Gold’s surge shows it’s more than just a hedge for the stock market’s record run",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6b1066c-730d-4d2f-be77-253f08074960&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 20:37:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517403"
+      },
+      "e6759e24280ecf245c4ea9cfc86335d7f2de197b4e7108d004d87a0db6d595c4": {
+        "title": "Dow ends flat, S&P 500 and Nasdaq close at records after release of Fed minutes",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b0c355b4-7a9b-4243-941a-855d01fe416d&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 20:04:00 GMT",
+        "first_seen": "2025-10-08T23:18:42.517414"
+      },
+      "3a4b25fc2cbfaba2c87e14c433a441738cdcae661791015ec33d5331c6d2b55c": {
+        "title": "Dow trims gains, S&P and Nasdaq set for records as Fed releases minutes — live",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2f7bacae-014d-4423-98c7-b8317d903136&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 19:03:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.142473"
+      },
+      "04dd33880f4f3761493cc92de5accc3b6b90d8f8397f9dbd34ad26760cd4687a": {
+        "title": "The Fed minutes are out. ‘Most’ officials backed lower interest rates this year.",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=63ce1fa2-f1b3-4e5d-8eff-82683072a8ba&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 18:35:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.145516"
+      },
+      "d14d08dc325c3926cfb97743d0c9a0502025fd1ee4fc036224136aacc97acc2e": {
+        "title": "These 4 things could spark the end of the government shutdown",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=080edb4a-d892-46b2-b493-b04c05bb2523&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 17:23:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.148649"
+      },
+      "53233f993a656c2da0b360d439541003e27cd8c0ef67993e1452006c9a432e54": {
+        "title": "U.S. stock indexes poised just below record highs with Fed minutes due today",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=09aeca75-98c3-48d7-a750-577ee8902622&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 14:26:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.152257"
+      },
+      "1750625598da82179f8daa5e446943f4fd1b9ff5f773a0daeb485799d6e41e0b": {
+        "title": "The shutdown is starting to undermine airlines’ on-time-performance improvement",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4d760e4-206a-4f27-9bcc-e4d2aea02d0d&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 14:06:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.156258"
+      },
+      "d83a6abfb612445b2d599e9da395fa45722823a1a184de8b32d37265f51023ee": {
+        "title": "Economic calendar: Market awaits minutes from the Fed’s September meeting",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e8e8db3c-162f-438e-8722-2dae400c4b98&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 11:35:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.160365"
+      },
+      "b26fe7cda12175c7726d86abbf345791fac601f6f5e6b8f2e324d8b28d2b103e": {
+        "title": "Bank of England says stock-market valuations look stretched",
+        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff78ccb2-b429-44fb-b87b-13b22e01f8c2&mod=mw_rss_bulletins",
+        "published_date": "Wed, 08 Oct 2025 10:17:00 GMT",
+        "first_seen": "2025-10-08T23:17:54.164024"
       }
     }
   },
   "last_update": {
-    "AI": "2025-10-08T08:28:02.629048",
-    "Technology": "2025-10-08T08:28:50.954673",
-    "Finance": "2025-10-08T08:28:02.520646"
+    "AI": "2025-10-08T23:18:42.651256",
+    "Technology": "2025-10-08T23:19:31.192609",
+    "Finance": "2025-10-08T23:18:42.536281"
   }
 }
