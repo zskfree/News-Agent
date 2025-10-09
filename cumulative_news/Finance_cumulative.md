@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-09 08:32
+**最后更新时间**: 2025-10-09 23:23
+
+---
+
+## 🆕 最新更新 (2025-10-09 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why rare-earth stocks are rallying as China gears up for Trump meeting on trade](https://www.marketwatch.com/story/why-rare-earth-stocks-are-rallying-as-china-gears-up-for-trump-meeting-on-trade-b078e1a8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 23:09
+
+#### [Inflation was eating me alive in retirement, so I went back to work. I’m still working at 66. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 23:07
+
+#### [This stock turned $10,000 into $10 million tax-free in 25 years — and it’s still going strong](https://www.marketwatch.com/story/this-stock-turned-10-000-into-10-million-tax-free-in-25-years-and-its-still-going-strong-8b3b27f1?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:42
+
+#### [I’m having brain surgery. Will my heirs or the creditors get my money if I die?](https://www.marketwatch.com/story/im-having-brain-surgery-will-my-heirs-or-the-creditors-get-my-money-if-i-die-b0a73913?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:34
+
+#### [‘I watch antenna TV’: I’m 66. Will I lose my disability benefits if Social Security goes belly up?](https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:33
+
+#### [Levi’s expects better yearly sales despite tougher tariff backdrop. Investors aren’t buying it.](https://www.marketwatch.com/story/levis-raises-outlook-despite-tougher-tariff-outlook-but-the-stock-falls-9000a4a2?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:25
+
+#### [Stablecoins aren’t the threat to your money that the banking industry would have you believe](https://www.marketwatch.com/story/stablecoins-arent-the-threat-to-your-money-that-the-banking-industry-would-have-you-believe-3f90f3e3?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 20:31
+
+#### [Delta’s stock jumps as travel demand accelerates, leading to record revenue](https://www.marketwatch.com/story/deltas-stock-rises-as-a-recent-acceleration-in-demand-leads-to-record-revenue-f8ef0708?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 20:31
+
+#### [The new IRS tax brackets for 2026 are here. See where you fit in.](https://www.marketwatch.com/story/the-irs-just-released-its-2026-tax-brackets-despite-the-government-shutdown-find-out-where-you-fit-in-ddbc3842?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 20:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The bull market is turning 3 years old. Here’s where stocks are likely headed.](https://www.marketwatch.com/bulletins/redirect/go?g=6c3cc1e1-4e90-4114-a153-9b07c9ebd1a1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 23:01
+
+#### [Dow ends over 240 points lower, S&P 500 and Nasdaq pull back from record levels](https://www.marketwatch.com/bulletins/redirect/go?g=4d26f735-9658-4386-9c1a-dd7f90c4fe04&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 20:08
+
+#### [People pay a lot for insurance. It doesn't always protect them from disaster.](https://www.marketwatch.com/bulletins/redirect/go?g=af71e486-4029-4f6a-a0a5-82eff9804a0b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 19:45
+
+#### [Dow, S&P, Nasdaq all lower in final hour amid questions around AI trade — live](https://www.marketwatch.com/bulletins/redirect/go?g=f6719058-7fee-4ea6-b57d-7d65aa542214&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 19:21
+
+#### [Social Security’s cost-of-living adjustment isn’t enough for retirees to get by](https://www.marketwatch.com/bulletins/redirect/go?g=55f565fd-4be2-49c1-8aa3-5b07d46b52c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 17:25
+
+#### [These are the IRS’s new capital-gains-tax rates for each income level](https://www.marketwatch.com/bulletins/redirect/go?g=a51d64da-a853-45df-b9bb-b9c58665ae25&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 16:30
+
+#### [The IRS just released its 2026 tax brackets despite the government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=fa4693ca-5e07-4be2-9d35-7724e957e269&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 15:18
+
+#### [Jobless claims and layoffs remain at low levels. (Unofficially, of course.)](https://www.marketwatch.com/bulletins/redirect/go?g=c054082c-a839-4b19-8c4b-4aff3df0df14&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 14:24
+
+#### [Stock indexes join gold in taking a breather after record runs — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=c82b87d9-fb4c-4ee0-ab1d-b8d498b414fb&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 14:05
+
+#### [Economic calendar: Fed chief Powell set to deliver remarks at banking conference](https://www.marketwatch.com/bulletins/redirect/go?g=57ee259b-0da2-4814-810c-22dfab611814&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 11:49
 
 ---
 

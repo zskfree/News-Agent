@@ -1,7 +1,149 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-09 08:32
+**最后更新时间**: 2025-10-09 23:23
+
+---
+
+## 🆕 最新更新 (2025-10-09 23:23)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [劝人退学、庆幸没读博浪费5年，26岁DeepMind“传奇人物”：大厂内部分散，AI研究很低效](https://www.infoq.cn/article/VH5Ul5Xi43jf33UoA39Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 07:00
+
+#### [AI产品能不能火，全看创始人会不会当“网红”？这届AI大佬不拼代码了，个个都是隐藏的社交媒体达人](https://www.infoq.cn/article/2ZL1mmmSXRoZTlZA34Gi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 18:00
+
+#### [2025（第七届）深圳国际金融科技大赛启动，激发高校学生AI创新潜力](https://www.infoq.cn/article/HSu9qQYplomYpjjxeLj8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 17:32
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [诺诚健华放弃巨头背书，奥布替尼二次出海换2.8亿美元“首付+股权绑定”](https://www.tmtpost.com/7716169.html)
+**发布时间**: 2025-10-09 22:32
+
+#### [众泰汽车债务风波升级，复产停摆卖资抵债](https://www.tmtpost.com/7716140.html)
+**发布时间**: 2025-10-09 22:08
+
+#### [固态电池再受吹捧，这次不是“狼来了”？](https://www.tmtpost.com/7715734.html)
+**发布时间**: 2025-10-09 21:40
+
+#### [A Company Not Using AI is the Slow Deer in Finance, Says Former SEC Chair](https://www.tmtpost.com/7715960.html)
+**发布时间**: 2025-10-09 19:12
+
+#### [大厂竞业限制协议「七宗罪」](https://www.tmtpost.com/7715602.html)
+**发布时间**: 2025-10-09 19:06
+
+#### [做手机的OPPO，悄悄改写了中国精密制造](https://www.tmtpost.com/7715159.html)
+**发布时间**: 2025-10-09 19:05
+
+#### [巴菲特抛的不是比亚迪，是汽车](https://www.tmtpost.com/7715386.html)
+**发布时间**: 2025-10-09 19:05
+
+#### [苹果“低头”，堵死了国产品牌靠AI手机逆袭的路？](https://www.tmtpost.com/7715787.html)
+**发布时间**: 2025-10-09 19:04
+
+#### [蜜雪冰城想让年轻人微醺](https://www.tmtpost.com/7715730.html)
+**发布时间**: 2025-10-09 19:04
+
+#### [Biotech不做研发靠买卖管线净利润翻10倍](https://www.tmtpost.com/7715417.html)
+**发布时间**: 2025-10-09 19:04
+
+#### [关于高市早苗，以及女性政治家，我的一些有趣的观察](https://www.tmtpost.com/7714974.html)
+**发布时间**: 2025-10-09 19:03
+
+#### [一边千元刺客，一边零加价，国庆酒店价差这么大？](https://www.tmtpost.com/7715707.html)
+**发布时间**: 2025-10-09 19:03
+
+#### [迎接PD-1激动剂的热潮](https://www.tmtpost.com/7715090.html)
+**发布时间**: 2025-10-09 18:51
+
+#### [AI究竟能否真正替代人工服务和SaaS？｜ NEX-T Summit 2025](https://www.tmtpost.com/7715621.html)
+**发布时间**: 2025-10-09 18:15
+
+#### [黄金周“榜单三国杀”，巨头在争什么？](https://www.tmtpost.com/7715684.html)
+**发布时间**: 2025-10-09 18:11
+
+#### [国庆“奔县”潮又爆了，民宿2000元+仍抢疯](https://www.tmtpost.com/7715496.html)
+**发布时间**: 2025-10-09 18:11
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)
+**发布时间**: 2025-10-09 21:20
+
+#### [The Vision Pro is getting its first live ‘immersive’ sports](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
+**发布时间**: 2025-10-09 21:00
+
+#### [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus)
+**发布时间**: 2025-10-09 18:33
+
+#### [512GB microSD Express cards for Switch 2 are cheaper than ever right now](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale)
+**发布时间**: 2025-10-09 18:15
+
+#### [YouTube opens &#8216;second chance&#8217; program to creators banned for misinformation](https://www.theverge.com/news/797848/youtube-banned-creators-second-chance-program-covid-election-misinformation-new-channel)
+**发布时间**: 2025-10-09 18:11
+
+#### [Belkin’s new power bank gives your smartphone a camera grip for $80](https://www.theverge.com/news/797749/belkin-stage-powergrip-camera-photography-wireless-qi-power-bank)
+**发布时间**: 2025-10-09 17:34
+
+#### [HBO&#8217;s next Game of Thrones spinoff premieres in January](https://www.theverge.com/entertainment/797762/hbo-a-knight-of-seven-kingdoms-trailer-release-date)
+**发布时间**: 2025-10-09 17:05
+
+#### [Cruz wants to make it easier for Americans to get damages for government censorship](https://www.theverge.com/news/797766/cruz-government-censorship-kimmel-carr-first-amendment)
+**发布时间**: 2025-10-09 17:01
+
+#### [Apple shows off the unsettling world of Pluribus in first trailer](https://www.theverge.com/tech/797754/pluribus-trailer-apple-tv-plus)
+**发布时间**: 2025-10-09 16:44
+
+#### [OpenAI’s Sora has already hit more than 1 million downloads](https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads)
+**发布时间**: 2025-10-09 16:38
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [Our Favorite Motorola Smartphone Is $100 Off](https://www.wired.com/story/motorola-razr-deal-1025/)
+**发布时间**: 2025-10-09 21:11
+
+#### [How China Is Hoping to Attract Tech Talent](https://www.wired.com/story/uncanny-valley-podcast-how-china-is-hoping-to-attract-tech-talent/)
+**发布时间**: 2025-10-09 20:39
+
+#### [The 65 Best Movies on Disney+ Right Now (October 2025)](https://www.wired.com/story/best-movies-disney-plus/)
+**发布时间**: 2025-10-09 19:00
+
+#### [Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up](https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/)
+**发布时间**: 2025-10-09 17:22
+
+#### [We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-2/)
+**发布时间**: 2025-10-09 16:29
+
+#### [Europe Pledges $600 Billion for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)
+**发布时间**: 2025-10-09 16:05
+
+#### [He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US](https://www.wired.com/story/mark-bray-book-antifa-death-threats/)
+**发布时间**: 2025-10-09 15:55
+
+#### [How Hong Kong Gave Rise to Labubu](https://www.wired.com/story/made-in-china-why-labubus-come-from-hong-kong/)
+**发布时间**: 2025-10-09 15:40
+
+#### [Covid Shots Are About to Be Widely Available Again](https://www.wired.com/story/covid-shots-are-about-to-be-widely-available-again-vaccines-cdc/)
+**发布时间**: 2025-10-09 14:24
+
+#### [Inside Intel's Hail Mary to Reclaim Chip Dominance](https://www.wired.com/story/intel-arizona-fabrication-chips-trump-manufacturing/)
+**发布时间**: 2025-10-09 13:00
+
+#### [6 Best Smart Locks (2025) for Front Doors, Slider Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
+**发布时间**: 2025-10-09 10:32
+
+#### [The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits](https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/)
+**发布时间**: 2025-10-09 10:00
+
+#### [Ferrari Reveals Its Electric Powerhouse, and What Could Finally Be Real EV Sound](https://www.wired.com/story/ferrari-reveals-its-electric-powerhouse-and-what-could-finally-be-real-ev-sound/)
+**发布时间**: 2025-10-09 08:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 222｜少数派的编辑们入手 Apple 新品之后还买了啥？](https://sspai.com/post/102963)
+**发布时间**: 2025-10-09 17:23
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Oct 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 08:32:28 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 23:24:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>更高智商更快思考！蚂蚁开源最新万亿语言模型，多项复杂推理SOTA</title>
-      <link>https://www.qbitai.com/2025/10/339932.html</link>
-      <description>&lt;![CDATA[更高智商更快思考！蚂蚁开源最新万亿语言模型，多项复杂推理SOTA]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 06:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339932.html</guid>
+      <title>The Download: mysteries of the immunome, and how to choose a climate tech pioneer</title>
+      <link>https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/</link>
+      <description>&lt;![CDATA[The Download: mysteries of the immunome, and how to choose a climate tech pioneer]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>黄仁勋回应AMD送股OpenAI：很高明的交易，OpenAI没钱给我付账</title>
-      <link>https://www.qbitai.com/2025/10/339923.html</link>
-      <description>&lt;![CDATA[黄仁勋回应AMD送股OpenAI：很高明的交易，OpenAI没钱给我付账]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 05:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339923.html</guid>
+      <title>3 takeaways about climate tech right now</title>
+      <link>https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/</link>
+      <description>&lt;![CDATA[3 takeaways about climate tech right now]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>备受Meta折磨，LeCun依旧猛发论文！新作：JEPAs不只学特征，还能精准感知数据密度</title>
-      <link>https://www.qbitai.com/2025/10/339906.html</link>
-      <description>&lt;![CDATA[备受Meta折磨，LeCun依旧猛发论文！新作：JEPAs不只学特征，还能精准感知数据密度]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 05:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339906.html</guid>
+      <title>How healthy am I? My immunome knows the score.</title>
+      <link>https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/</link>
+      <description>&lt;![CDATA[How healthy am I? My immunome knows the score.]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球首款！云深处发布全天候人形机器人重塑行业应用！</title>
+      <link>https://www.qbitai.com/2025/10/340071.html</link>
+      <description>&lt;![CDATA[全球首款！云深处发布全天候人形机器人重塑行业应用！]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340071.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>XR Blocks: Accelerating AI + XR innovation</title>
+      <link>https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/</link>
+      <description>&lt;![CDATA[XR Blocks: Accelerating AI + XR innovation]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/</guid>
       <category>AI</category>
     </item>
   </channel>
