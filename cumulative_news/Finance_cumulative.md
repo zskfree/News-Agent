@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-08 23:17
+**最后更新时间**: 2025-10-09 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-09 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s a new, flexible way to work that can ease your fears about retirement](https://www.marketwatch.com/story/heres-a-new-flexible-way-to-work-that-can-ease-your-fears-about-retirement-296e76c3?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 03:03
+
+#### [Here’s why Wall Street is betting against DraftKings and FanDuel — and going all in on Polymarket and Kalshi](https://www.marketwatch.com/story/heres-why-wall-street-is-betting-against-draftkings-and-fanduel-and-going-all-in-on-polymarket-and-kalshi-9fbf5486?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 02:41
+
+#### [History says bitcoin could peak soon, but here’s the case for it to keep climbing](https://www.marketwatch.com/story/history-says-bitcoin-could-peak-soon-but-heres-the-case-for-it-to-keep-climbing-f9a3f9f8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 01:04
+
+#### [Tariffs and GLP-1s are keeping people from dining out. An analyst tries to find the positives.](https://www.marketwatch.com/story/tariffs-and-glp-1s-are-keeping-people-from-dining-out-an-analyst-tries-to-find-the-positives-17d79d97?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 23:47
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Am I a jerk for wanting my next partner to make more money than me?](https://www.marketwatch.com/bulletins/redirect/go?g=3015e462-5f8b-449a-a7eb-793b136af95c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 01:01
+
+#### [6 steps to avoid delayed flights and ruined trips during the shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=1f122780-2118-4e66-9d20-4ba7365409bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 23:29
 
 ---
 

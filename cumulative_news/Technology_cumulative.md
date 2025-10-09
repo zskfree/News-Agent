@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-08 23:17
+**最后更新时间**: 2025-10-09 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-09 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Alibaba Builds Robot AI Team as SoftBank Acquires ABB's Robotics Unit for $5.4 Billion](https://www.tmtpost.com/7715229.html)
+**发布时间**: 2025-10-09 12:30
+
+#### [蚂蚁、OpenAI、DeepSeek卷疯了！国产最强万亿参数旗舰模型Ling-1T开源](https://www.tmtpost.com/7715213.html)
+**发布时间**: 2025-10-09 12:03
+
+#### [我们去鲜啤福鹿家看了看，蜜雪冰城怎么卖啤酒](https://www.tmtpost.com/7714750.html)
+**发布时间**: 2025-10-09 12:00
+
+#### [这个十一假期，AI又变天了](https://www.tmtpost.com/7714942.html)
+**发布时间**: 2025-10-09 11:40
+
+#### [「一页纸」讲透美股公司之：MP Materials](https://www.tmtpost.com/7714774.html)
+**发布时间**: 2025-10-09 11:00
+
+#### [Sora 2 实战：从官方提示词指南精解，到用 n8n 在飞书多维表格里批量生成视频](https://www.tmtpost.com/7714704.html)
+**发布时间**: 2025-10-09 10:42
+
+#### [AI会革ERP的命么？](https://www.tmtpost.com/7714911.html)
+**发布时间**: 2025-10-09 10:30
+
+#### [【产业互联网周报】 OpenAI上半年销售额43亿美元；蚂蚁加入万亿参数大模型阵营，开源1T推理大模型；OpenAI据称将发布新版Sora 2，并准备推出独立应用程序；DeepSeek-V3.2-Exp发布并开源](https://www.tmtpost.com/7715001.html)
+**发布时间**: 2025-10-09 10:11
+
+#### [新加坡探路智能陪伴新纪元：千亿市场的全球化起点｜SEA Frontline](https://www.tmtpost.com/7713833.html)
+**发布时间**: 2025-10-09 09:29
+
+#### [“鸡排哥”黄金周流量变“留量”，情绪经济是下一个万亿赛道？](https://www.tmtpost.com/7714751.html)
+**发布时间**: 2025-10-09 09:00
+
+#### [牛市“造富”潮起，千亿富豪扩容与新贵崛起](https://www.tmtpost.com/7714733.html)
+**发布时间**: 2025-10-09 08:00
+
+#### [科股早知道：可控核聚变撬动万亿蓝海市场，推动中上游环节产业化提速](https://www.tmtpost.com/7714877.html)
+**发布时间**: 2025-10-09 07:46
+
+#### [【钛晨报】世贸组织大幅下调2026年全球货物贸易增长预期；马斯克旗下的xAI有望融资200亿美元，英伟达是股权投资者之一；特斯拉推出售价39990美元的新版Model Y](https://www.tmtpost.com/7714766.html)
+**发布时间**: 2025-10-09 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vercel 推出 Drains 功能：实现统一数据导出](https://www.infoq.cn/article/MyY0IhVq5lvNZ0b00stT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 12:01
+
+#### [Agoda 在 CICD 流程中利用 ChatGPT 优化 SQL 存储过程](https://www.infoq.cn/article/cuu94IXoxxAYtlyjhajf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 11:10
+
+#### [Microsoft将.NET STS支持周期从18个月延长到24个月](https://www.infoq.cn/article/RhvBoLpNZkrrxOmLz0DR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 11:06
+
+#### [辍学潮来了？19、20岁年轻人“逃离”教室去AI创业，20多年创业大佬断言：他们的机会比大厂大](https://www.infoq.cn/article/rsC6jK3Ceqg6FEOuTDR6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 10:52
+
+#### [谷歌又赢麻了！两位灵魂人物斩获2025诺贝尔物理学奖，“量子霸权”玩真的？](https://www.infoq.cn/article/9wmi1DkYcfR8osraqzke?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 10:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [谈谈西贝：权力带来的脑损伤](http://www.huxiu.com/article/4787846.html?f=wangzhan)
+**发布时间**: 2025-10-09 11:50
+
+#### [王健林解除限高，但万达的危机真的过去了吗？](http://www.huxiu.com/article/4787847.html?f=wangzhan)
+**发布时间**: 2025-10-09 10:20
+
+#### [大国工程又出新品？这个“双塔一机”光热储能到底是啥？](http://www.huxiu.com/article/4788485.html?f=wangzhan)
+**发布时间**: 2025-10-09 07:10
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [把我的第一次日本旅行，完全交给 AI 是什么体验？](http://www.geekpark.net/news/354806)
+**发布时间**: 2025-10-09 11:47
+
+#### [英伟达将投资马斯克的 xAI；低价版Model 3/Y 「阉割」智驾功能；微信推出批量撤回信息功能](http://www.geekpark.net/news/354778)
+**发布时间**: 2025-10-09 08:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [伊犁寻草记：恰西的彩虹与库尔德宁的云杉](https://sspai.com/post/102585)
+**发布时间**: 2025-10-09 11:35
+
+#### [派早报：亚马逊发布 2025 秋季新品、特斯拉推出「标准款」车型等](https://sspai.com/post/102945)
+**发布时间**: 2025-10-09 08:17
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+**发布时间**: 2025-10-09 04:25
+
+#### [Sony&#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off](https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025)
+**发布时间**: 2025-10-09 03:04
+
+#### [Prime Day ends soon, but these deals are still going at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
+**发布时间**: 2025-10-09 01:15
+
+#### [Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off](https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale)
+**发布时间**: 2025-10-09 01:15
+
+#### [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
+**发布时间**: 2025-10-09 01:05
+
+#### [My go-to Switch 2 accessories are still available for October Prime Day](https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day)
+**发布时间**: 2025-10-09 00:03
+
+#### [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
+**发布时间**: 2025-10-08 23:58
+
+#### [I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now](https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025)
+**发布时间**: 2025-10-08 23:24
+
+#### [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
+**发布时间**: 2025-10-08 23:21
+
+#### [There’s still time to stock up on Blu-ray deals before the end of Prime Day](https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025)
+**发布时间**: 2025-10-08 23:20
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [We Found 265 of the Best Prime Day Deals Still on for 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
+**发布时间**: 2025-10-09 00:55
 
 ---
 

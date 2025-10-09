@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Oct 2025 23:18:42 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 05:20:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MIT Schwarzman College of Computing and MBZUAI launch international collaboration to shape the future of AI</title>
-      <link>https://news.mit.edu/2025/mit-schwarzman-college-computing-mbzuai-launch-collaboration-shape-future-ai-1008</link>
-      <description>&lt;![CDATA[MIT Schwarzman College of Computing and MBZUAI launch international collaboration to shape the future of AI]]&gt;</description>
-      <pubDate>Wed, 08 Oct 2025 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/mit-schwarzman-college-computing-mbzuai-launch-collaboration-shape-future-ai-1008</guid>
+      <title>Scalable multilingual PII annotation for responsible AI in LLMs</title>
+      <link>https://arxiv.org/abs/2510.06250</link>
+      <description>&lt;![CDATA[Scalable multilingual PII annotation for responsible AI in LLMs]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06250</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Using generative AI to diversify virtual training grounds for robots</title>
-      <link>https://news.mit.edu/2025/using-generative-ai-diversify-virtual-training-grounds-robots-1008</link>
-      <description>&lt;![CDATA[Using generative AI to diversify virtual training grounds for robots]]&gt;</description>
-      <pubDate>Wed, 08 Oct 2025 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2025/using-generative-ai-diversify-virtual-training-grounds-robots-1008</guid>
+      <title>LLM-Driven Rubric-Based Assessment of Algebraic Competence in Multi-Stage Block Coding Tasks with Design and Field Evaluation</title>
+      <link>https://arxiv.org/abs/2510.06253</link>
+      <description>&lt;![CDATA[LLM-Driven Rubric-Based Assessment of Algebraic Competence in Multi-Stage Block Coding Tasks with Design and Field Evaluation]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06253</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: carbon removal factories’ funding cuts, and AI toys</title>
-      <link>https://www.technologyreview.com/2025/10/08/1125301/the-download-carbon-removal-factories-funding-cuts-and-ai-toys/</link>
-      <description>&lt;![CDATA[The Download: carbon removal factories’ funding cuts, and AI toys]]&gt;</description>
-      <pubDate>Wed, 08 Oct 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/08/1125301/the-download-carbon-removal-factories-funding-cuts-and-ai-toys/</guid>
+      <title>Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?</title>
+      <link>https://arxiv.org/abs/2510.06410</link>
+      <description>&lt;![CDATA[Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06410</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>直播预告：光轮智能 × NVIDIA带来Sim2Real关键突破</title>
-      <link>https://www.qbitai.com/2025/10/339901.html</link>
-      <description>&lt;![CDATA[直播预告：光轮智能 × NVIDIA带来Sim2Real关键突破]]&gt;</description>
-      <pubDate>Wed, 08 Oct 2025 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339901.html</guid>
+      <title>Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them</title>
+      <link>https://arxiv.org/abs/2510.06534</link>
+      <description>&lt;![CDATA[Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06534</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首个全自动AI科学家诞生！西湖大学最新成果：性能超越人类SOTA基线183.7%</title>
-      <link>https://www.qbitai.com/2025/10/339884.html</link>
-      <description>&lt;![CDATA[首个全自动AI科学家诞生！西湖大学最新成果：性能超越人类SOTA基线183.7%]]&gt;</description>
-      <pubDate>Wed, 08 Oct 2025 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339884.html</guid>
+      <title>Auto-Prompt Ensemble for LLM Judge</title>
+      <link>https://arxiv.org/abs/2510.06538</link>
+      <description>&lt;![CDATA[Auto-Prompt Ensemble for LLM Judge]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06538</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Fine-Grained Emotion Recognition via In-Context Learning</title>
+      <link>https://arxiv.org/abs/2510.06600</link>
+      <description>&lt;![CDATA[Fine-Grained Emotion Recognition via In-Context Learning]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06600</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support</title>
+      <link>https://arxiv.org/abs/2510.06674</link>
+      <description>&lt;![CDATA[Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06674</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs</title>
+      <link>https://arxiv.org/abs/2510.06878</link>
+      <description>&lt;![CDATA[TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06878</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>LLM-Assisted Modeling of Semantic Web-Enabled Multi-Agents Systems with AJAN</title>
+      <link>https://arxiv.org/abs/2510.06911</link>
+      <description>&lt;![CDATA[LLM-Assisted Modeling of Semantic Web-Enabled Multi-Agents Systems with AJAN]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06911</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Revisiting the Uniform Information Density Hypothesis in LLM Reasoning Traces</title>
+      <link>https://arxiv.org/abs/2510.06953</link>
+      <description>&lt;![CDATA[Revisiting the Uniform Information Density Hypothesis in LLM Reasoning Traces]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.06953</guid>
       <category>AI</category>
     </item>
   </channel>
