@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-09 05:19
+**最后更新时间**: 2025-10-09 08:32
+
+---
+
+## 🆕 最新更新 (2025-10-09 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI创业浪潮席卷全球，如何避免陷阱，抓住机遇？｜ NEX-T Summit 2025](https://www.tmtpost.com/7715582.html)
+**发布时间**: 2025-10-09 16:12
+
+#### [大涨开启四季度，光伏板块今年能否“翻盘”？](https://www.tmtpost.com/7715572.html)
+**发布时间**: 2025-10-09 16:04
+
+#### [“追求正义时的温和不是美德”](https://www.tmtpost.com/7714973.html)
+**发布时间**: 2025-10-09 16:00
+
+#### [10月9日A股分析：放量上涨！沪指站稳3900点续创10年新高，中单小单抄底168亿，稀土永磁板块吸金超60亿](https://www.tmtpost.com/7715482.html)
+**发布时间**: 2025-10-09 15:33
+
+#### [金价新高引爆满屏涨停，四川黄金5.1亿押注新疆金矿，并购热潮再升温](https://www.tmtpost.com/7715477.html)
+**发布时间**: 2025-10-09 15:05
+
+#### [今年双11，节奏和思路都变了](https://www.tmtpost.com/7715197.html)
+**发布时间**: 2025-10-09 15:00
+
+#### [Jensen Huang Confirms Investment in xAI after Nvidia Reported to Pour $2 Billion in Musk's Startup](https://www.tmtpost.com/7715433.html)
+**发布时间**: 2025-10-09 14:40
+
+#### [番茄小说的AI难题](https://www.tmtpost.com/7714759.html)
+**发布时间**: 2025-10-09 14:30
+
+#### [阿里上线内容创作AI，对标即梦、可灵三国杀？](https://www.tmtpost.com/7715004.html)
+**发布时间**: 2025-10-09 14:00
+
+#### [AI+原生鸿蒙，会是国产系统软件替代的更好答案吗？](https://www.tmtpost.com/7715379.html)
+**发布时间**: 2025-10-09 13:43
+
+#### [华谊兄弟的成与败](https://www.tmtpost.com/7714884.html)
+**发布时间**: 2025-10-09 13:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“杀死每家AI初创、造超级OS”？奥特曼的野望惊现缺口：资深人士曝出三大瓶颈](https://www.infoq.cn/article/pOa6rOS5Ux3u2oMUJLrQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-09 15:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 用 ExposurePlot 找出最适合自己的拍照焦段](https://sspai.com/post/102861)
+**发布时间**: 2025-10-09 15:01
 
 ---
 

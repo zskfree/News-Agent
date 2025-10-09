@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 05:20:29 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 08:32:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Scalable multilingual PII annotation for responsible AI in LLMs</title>
-      <link>https://arxiv.org/abs/2510.06250</link>
-      <description>&lt;![CDATA[Scalable multilingual PII annotation for responsible AI in LLMs]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06250</guid>
+      <title>更高智商更快思考！蚂蚁开源最新万亿语言模型，多项复杂推理SOTA</title>
+      <link>https://www.qbitai.com/2025/10/339932.html</link>
+      <description>&lt;![CDATA[更高智商更快思考！蚂蚁开源最新万亿语言模型，多项复杂推理SOTA]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339932.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LLM-Driven Rubric-Based Assessment of Algebraic Competence in Multi-Stage Block Coding Tasks with Design and Field Evaluation</title>
-      <link>https://arxiv.org/abs/2510.06253</link>
-      <description>&lt;![CDATA[LLM-Driven Rubric-Based Assessment of Algebraic Competence in Multi-Stage Block Coding Tasks with Design and Field Evaluation]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06253</guid>
+      <title>黄仁勋回应AMD送股OpenAI：很高明的交易，OpenAI没钱给我付账</title>
+      <link>https://www.qbitai.com/2025/10/339923.html</link>
+      <description>&lt;![CDATA[黄仁勋回应AMD送股OpenAI：很高明的交易，OpenAI没钱给我付账]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 05:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339923.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?</title>
-      <link>https://arxiv.org/abs/2510.06410</link>
-      <description>&lt;![CDATA[Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06410</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them</title>
-      <link>https://arxiv.org/abs/2510.06534</link>
-      <description>&lt;![CDATA[Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06534</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Auto-Prompt Ensemble for LLM Judge</title>
-      <link>https://arxiv.org/abs/2510.06538</link>
-      <description>&lt;![CDATA[Auto-Prompt Ensemble for LLM Judge]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06538</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Fine-Grained Emotion Recognition via In-Context Learning</title>
-      <link>https://arxiv.org/abs/2510.06600</link>
-      <description>&lt;![CDATA[Fine-Grained Emotion Recognition via In-Context Learning]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06600</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support</title>
-      <link>https://arxiv.org/abs/2510.06674</link>
-      <description>&lt;![CDATA[Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06674</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs</title>
-      <link>https://arxiv.org/abs/2510.06878</link>
-      <description>&lt;![CDATA[TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06878</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>LLM-Assisted Modeling of Semantic Web-Enabled Multi-Agents Systems with AJAN</title>
-      <link>https://arxiv.org/abs/2510.06911</link>
-      <description>&lt;![CDATA[LLM-Assisted Modeling of Semantic Web-Enabled Multi-Agents Systems with AJAN]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06911</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Revisiting the Uniform Information Density Hypothesis in LLM Reasoning Traces</title>
-      <link>https://arxiv.org/abs/2510.06953</link>
-      <description>&lt;![CDATA[Revisiting the Uniform Information Density Hypothesis in LLM Reasoning Traces]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.06953</guid>
+      <title>备受Meta折磨，LeCun依旧猛发论文！新作：JEPAs不只学特征，还能精准感知数据密度</title>
+      <link>https://www.qbitai.com/2025/10/339906.html</link>
+      <description>&lt;![CDATA[备受Meta折磨，LeCun依旧猛发论文！新作：JEPAs不只学特征，还能精准感知数据密度]]&gt;</description>
+      <pubDate>Thu, 09 Oct 2025 05:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/339906.html</guid>
       <category>AI</category>
     </item>
   </channel>

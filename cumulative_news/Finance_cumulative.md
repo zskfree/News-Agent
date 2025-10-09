@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-09 05:19
+**最后更新时间**: 2025-10-09 08:32
+
+---
+
+## 🆕 最新更新 (2025-10-09 08:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [HSBC shares weaken after $14 billion to fully absorb Hang Seng Bank](https://www.marketwatch.com/bulletins/redirect/go?g=6f22b95d-c630-4139-b7c6-91045d734a85&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 07:52
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [HSBC stock slumps after $14 billion bet on Hong Kong — at a hefty premium](https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 07:40
 
 ---
 
