@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-10 05:19
+**最后更新时间**: 2025-10-10 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-10 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [股价暴涨30倍，新易盛实控人37亿高位套现，"易中天"三巨头年内减持超60亿](https://www.tmtpost.com/7717104.html)
+**发布时间**: 2025-10-10 16:16
+
+#### [Is Now The Right Timing For Sports Tech Investment?](https://www.tmtpost.com/7717175.html)
+**发布时间**: 2025-10-10 16:08
+
+#### [10月10日A股分析：沪指跌0.94%报3897.03点，两市合计成交25156.2亿元，资金流出最多的行业板块为半导体](https://www.tmtpost.com/7717123.html)
+**发布时间**: 2025-10-10 15:37
+
+#### [3.2亿美元，2025年基因疗法最大融资金额诞生](https://www.tmtpost.com/7716986.html)
+**发布时间**: 2025-10-10 15:32
+
+#### [Microsoft Reportedly Sees Datacenter Shortage to Stretch longer than Expected](https://www.tmtpost.com/7717118.html)
+**发布时间**: 2025-10-10 15:19
+
+#### [国内的健康数据交易卡在了哪里？](https://www.tmtpost.com/7716999.html)
+**发布时间**: 2025-10-10 14:58
+
+#### [跨境并购交割落定，中国医疗器械龙头能否开启新周期？](https://www.tmtpost.com/7716993.html)
+**发布时间**: 2025-10-10 14:32
+
+#### [中国不想再当“卑微甲方”](https://www.tmtpost.com/7716974.html)
+**发布时间**: 2025-10-10 14:32
+
+#### [电信、字节跑步进场，AI制药又迎来一批新“追求者”](https://www.tmtpost.com/7717004.html)
+**发布时间**: 2025-10-10 14:32
+
+#### [这届零食，越贵越高端？](https://www.tmtpost.com/7716603.html)
+**发布时间**: 2025-10-10 14:19
+
+#### [Ant Group Unveils World’s Latest Trillion-Parameter Open-Source Language Model](https://www.tmtpost.com/7717017.html)
+**发布时间**: 2025-10-10 14:15
+
+#### [万辰集团闯进“硬折扣”的新战场，破局之路并不好走](https://www.tmtpost.com/7716759.html)
+**发布时间**: 2025-10-10 14:12
+
+#### [Sam Altman Says OpenAI to Secure More Mega Deals following Tie-Ups with Nvidia and AMD](https://www.tmtpost.com/7717001.html)
+**发布时间**: 2025-10-10 14:05
+
+#### [iPhone的广告语也学坏了](https://www.tmtpost.com/7716565.html)
+**发布时间**: 2025-10-10 14:05
+
+#### [加剧的老龄化，救不了殡葬业？](https://www.tmtpost.com/7716660.html)
+**发布时间**: 2025-10-10 14:01
+
+#### [36.9亿算力订单突遭终止，原实控人急转增持，海南华铁算力转型迷雾重重](https://www.tmtpost.com/7716413.html)
+**发布时间**: 2025-10-10 13:56
+
+#### [美元基金VS传统药企，“抗生素第一股”争夺战](https://www.tmtpost.com/7716783.html)
+**发布时间**: 2025-10-10 13:56
+
+#### [The Real Measure of AI's Power Lies in Not Automation, but Augmentation, Say Industry Experts](https://www.tmtpost.com/7716973.html)
+**发布时间**: 2025-10-10 13:50
+
+#### [Huawei and ByteDance-Affiliated Firms Join Forces on Embodied Intelligence and Robotics](https://www.tmtpost.com/7716971.html)
+**发布时间**: 2025-10-10 13:48
+
+#### [终于，短剧向经典IP出手了](https://www.tmtpost.com/7716792.html)
+**发布时间**: 2025-10-10 13:48
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [社交媒体的黄金时代，结束了](http://www.geekpark.net/news/354839)
+**发布时间**: 2025-10-10 16:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [逆势降本：云上数据平台年复削减30%的治理实践](https://www.infoq.cn/article/lgHiav5blTU6Sa8yaF7l?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 15:37
+
+#### [“微信这类App在美国未必行得通！”Sam 最新访谈：ChatGPT 是超级AI助手，不是全能应用](https://www.infoq.cn/article/Ix4qCHwEaerhLvHIx45P?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 14:49
+
+#### [北大&作业帮团队提出 Text-to-SQL 新框架 Interactive-T2S，攻克宽表处理与低资源对齐难题](https://www.infoq.cn/article/I40ffseVrfXEDmeXG1d8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 14:46
+
+#### [Dreamer 4：通过想象训练，学习从线下数据中实现目标](https://www.infoq.cn/article/F3VhoycRlj5WtTpmxcAc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 14:03
+
+#### [清华大学副教授艾清遥博士将出席QCon上海，分享动态化与参数化 RAG 技术探索](https://www.infoq.cn/article/JqYKbNH4UJ8sWqtmxo1s?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 13:55
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [王健林首富变首负，被限高割肉还债？](http://www.huxiu.com/article/4789099.html?f=wangzhan)
+**发布时间**: 2025-10-10 15:00
+
+#### [无人驾驶会是租车公司们的第二曲线么？](http://www.huxiu.com/article/4789925.html?f=wangzhan)
+**发布时间**: 2025-10-10 14:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [直播｜MeetCard 正式上线](https://sspai.com/post/102977)
+**发布时间**: 2025-10-10 15:00
 
 ---
 

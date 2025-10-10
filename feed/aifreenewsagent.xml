@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2025 05:20:13 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2025 08:27:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation</title>
-      <link>https://arxiv.org/abs/2510.07762</link>
-      <description>&lt;![CDATA[From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07762</guid>
+      <title>1300000000000000！谷歌每月Tokens消耗量曝光（别数了是千万亿）</title>
+      <link>https://www.qbitai.com/2025/10/340270.html</link>
+      <description>&lt;![CDATA[1300000000000000！谷歌每月Tokens消耗量曝光（别数了是千万亿）]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340270.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Evaluation of LLMs for Process Model Analysis and Optimization</title>
-      <link>https://arxiv.org/abs/2510.07489</link>
-      <description>&lt;![CDATA[Evaluation of LLMs for Process Model Analysis and Optimization]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07489</guid>
+      <title>终于有人解决机器人洗手洗澡问题了</title>
+      <link>https://www.qbitai.com/2025/10/340260.html</link>
+      <description>&lt;![CDATA[终于有人解决机器人洗手洗澡问题了]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340260.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Optimizing Ethical Risk Reduction for Medical Intelligent Systems with Constraint Programming</title>
-      <link>https://arxiv.org/abs/2510.07491</link>
-      <description>&lt;![CDATA[Optimizing Ethical Risk Reduction for Medical Intelligent Systems with Constraint Programming]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07491</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>CompassLLM: A Multi-Agent Approach toward Geo-Spatial Reasoning for Popular Path Query</title>
-      <link>https://arxiv.org/abs/2510.07516</link>
-      <description>&lt;![CDATA[CompassLLM: A Multi-Agent Approach toward Geo-Spatial Reasoning for Popular Path Query]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07516</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Benchmarking is Broken - Don't Let AI be its Own Judge</title>
-      <link>https://arxiv.org/abs/2510.07575</link>
-      <description>&lt;![CDATA[Benchmarking is Broken - Don't Let AI be its Own Judge]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07575</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines</title>
-      <link>https://arxiv.org/abs/2510.07614</link>
-      <description>&lt;![CDATA[Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07614</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning</title>
-      <link>https://arxiv.org/abs/2510.07731</link>
-      <description>&lt;![CDATA[oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07731</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An approach for systematic decomposition of complex llm tasks</title>
-      <link>https://arxiv.org/abs/2510.07772</link>
-      <description>&lt;![CDATA[An approach for systematic decomposition of complex llm tasks]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07772</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GCPO: When Contrast Fails, Go Gold</title>
-      <link>https://arxiv.org/abs/2510.07790</link>
-      <description>&lt;![CDATA[GCPO: When Contrast Fails, Go Gold]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07790</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation</title>
-      <link>https://arxiv.org/abs/2510.07825</link>
-      <description>&lt;![CDATA[An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.07825</guid>
+      <title>Sora2五天下载量破百万！超越ChatGPT增长，iOS免费榜霸榜第一</title>
+      <link>https://www.qbitai.com/2025/10/340235.html</link>
+      <description>&lt;![CDATA[Sora2五天下载量破百万！超越ChatGPT增长，iOS免费榜霸榜第一]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 06:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340235.html</guid>
       <category>AI</category>
     </item>
   </channel>

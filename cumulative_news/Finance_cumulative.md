@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-10 05:19
+**最后更新时间**: 2025-10-10 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-10 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Follow the government money: the strategy that keeps working for UBS Wealth](https://www.marketwatch.com/story/follow-the-government-money-the-strategy-that-keeps-working-for-ubs-wealth-5f4453af?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 07:20
 
 ---
 
