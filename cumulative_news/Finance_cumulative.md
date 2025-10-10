@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-09 23:23
+**最后更新时间**: 2025-10-10 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-10 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Private equity and private credit may fit your 401(k) retirement plan — but here’s what you need to know](https://www.marketwatch.com/story/private-equity-and-private-credit-may-fit-your-401-k-retirement-plan-but-heres-what-you-need-to-know-b6ef2f10?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 02:41
+
+#### [Paramount has its eyes on Warner Bros. — but the big question is how to pay for it](https://www.marketwatch.com/story/paramount-has-its-eyes-on-warner-bros-but-the-big-question-is-how-to-pay-for-it-c207becf?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 00:46
+
+#### [The stock market keeps on giving — and investors aren’t questioning a good thing](https://www.marketwatch.com/story/the-stock-market-keeps-on-giving-and-investors-arent-questioning-a-good-thing-0a8d2176?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 23:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [I’m having brain surgery. Will my heirs or the creditors get my money if I die?](https://www.marketwatch.com/bulletins/redirect/go?g=17b5d423-fbf2-49bf-8355-85e3d174c506&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 01:02
 
 ---
 

@@ -1,7 +1,135 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-09 23:23
+**最后更新时间**: 2025-10-10 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-10 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [U.S.-Listed Rare Earth and Critical Mineral Stocks Surge as China Tightens Export Controls](https://www.tmtpost.com/7716869.html)
+**发布时间**: 2025-10-10 13:03
+
+#### [国内酒店迎来高饱和强内卷时代](https://www.tmtpost.com/7716422.html)
+**发布时间**: 2025-10-10 12:33
+
+#### [失去辛巴的“第一个”双11，让快手有点急](https://www.tmtpost.com/7716054.html)
+**发布时间**: 2025-10-10 12:17
+
+#### [阿里投资、田栩宁代言、日销4千万，潮玩赛道又跑出新公司](https://www.tmtpost.com/7716105.html)
+**发布时间**: 2025-10-10 12:12
+
+#### [心动最赚钱游戏或将易主？《伊瑟》上线东亚6大T1市场，12天吸金超3700万](https://www.tmtpost.com/7716447.html)
+**发布时间**: 2025-10-10 12:07
+
+#### [易鹏 ：AI与资本市场——从共识到机会](https://www.tmtpost.com/7716520.html)
+**发布时间**: 2025-10-10 12:03
+
+#### [魅族啊，不如放下做手机的执念](https://www.tmtpost.com/7716530.html)
+**发布时间**: 2025-10-10 12:00
+
+#### [板块分化明显，第四批国补落地，家电股能否乘风而起？](https://www.tmtpost.com/7716561.html)
+**发布时间**: 2025-10-10 11:55
+
+#### [AI内存新秀，SOCAMM2登场](https://www.tmtpost.com/7716564.html)
+**发布时间**: 2025-10-10 11:46
+
+#### [抖音高德的“榜单革命”，能否打碎小红书的“滤镜”？](https://www.tmtpost.com/7716574.html)
+**发布时间**: 2025-10-10 11:38
+
+#### [酒店，怎么成了中年人的避风港？](https://www.tmtpost.com/7716577.html)
+**发布时间**: 2025-10-10 11:31
+
+#### [被嫌弃的AAV病毒递送系统](https://www.tmtpost.com/7716586.html)
+**发布时间**: 2025-10-10 11:25
+
+#### [华尔街新「造王者」，OpenAI如何一言「指挥」美股？](https://www.tmtpost.com/7716053.html)
+**发布时间**: 2025-10-10 11:25
+
+#### [反向旅游，一言难尽](https://www.tmtpost.com/7716600.html)
+**发布时间**: 2025-10-10 11:20
+
+#### [跨越温差：中美创业图景的现实、重构与韧性 | NEX-T Summit 2025](https://www.tmtpost.com/7716601.html)
+**发布时间**: 2025-10-10 11:17
+
+#### [振奋人心的2035气候目标：开启中国新能源“新黄金十年”](https://www.tmtpost.com/7716602.html)
+**发布时间**: 2025-10-10 11:15
+
+#### [山东大叔苦战15年，硬改全球第三代芯片格局](https://www.tmtpost.com/7716625.html)
+**发布时间**: 2025-10-10 11:15
+
+#### [OpenAI玩锁单，奥特曼也玩双十一](https://www.tmtpost.com/7716641.html)
+**发布时间**: 2025-10-10 11:15
+
+#### [网文、短剧新趋势：自建内容生态成必然？](https://www.tmtpost.com/7716668.html)
+**发布时间**: 2025-10-10 11:15
+
+#### [华为系公司赛力斯与字节合作具身智能，问界要开发人形机器人？](https://www.tmtpost.com/7716633.html)
+**发布时间**: 2025-10-10 10:56
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国要建太空发电站？“无限能源”方案已进入2.0研发阶段](http://www.huxiu.com/article/4789197.html?f=wangzhan)
+**发布时间**: 2025-10-10 12:00
+
+#### [文旅消费升级，靠大爷大妈](http://www.huxiu.com/article/4789521.html?f=wangzhan)
+**发布时间**: 2025-10-10 11:30
+
+#### [雷军密友，扶不起的阿斗？](http://www.huxiu.com/article/4789199.html?f=wangzhan)
+**发布时间**: 2025-10-10 10:50
+
+#### [10 分钟看懂《志愿军3》的历史背景](http://www.huxiu.com/article/4788631.html?f=wangzhan)
+**发布时间**: 2025-10-10 10:00
+
+#### [高市早苗上台后对我们会有什么影响？要警惕哪些风险？](http://www.huxiu.com/article/4788714.html?f=wangzhan)
+**发布时间**: 2025-10-10 07:00
+
+#### [BBA最后的堡垒，快守不住了](http://www.huxiu.com/article/4789494.html?f=wangzhan)
+**发布时间**: 2025-10-09 20:15
+
+#### [美以设局夺加沙，哈马斯缓兵之计还是真怂了？](http://www.huxiu.com/article/4788603.html?f=wangzhan)
+**发布时间**: 2025-10-09 19:30
+
+#### [巴菲特抛的不是比亚迪，是汽车](http://www.huxiu.com/article/4789432.html?f=wangzhan)
+**发布时间**: 2025-10-09 16:40
+
+#### [零食折扣店遍地开花，这么便宜啥套路？](http://www.huxiu.com/article/4788905.html?f=wangzhan)
+**发布时间**: 2025-10-09 16:20
+
+#### [绝世昏招！从对标到寄生，米冲高怎么越冲越low？](http://www.huxiu.com/article/4788246.html?f=wangzhan)
+**发布时间**: 2025-10-09 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜在一起，就可以——在华为实习的七个月](https://sspai.com/post/102853)
+**发布时间**: 2025-10-10 10:49
+
+#### [派早报：Alphabet 反垄断案新进展、Intel 发布多项新品等](https://sspai.com/post/102974)
+**发布时间**: 2025-10-10 08:43
+
+#### [新玩意 222｜少数派的编辑们入手 Apple 新品之后还买了啥配件？](https://sspai.com/post/102963)
+**发布时间**: 2025-10-09 17:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MOGOBUS三年内跑遍狮城？蘑菇车联中标新加坡首个L4级自动驾驶巴士项目](https://www.infoq.cn/article/1miWV8dmP2lNGQ1GDFRr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 09:54
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Sora 下载量破 100 万次；国庆中秋假期国内游总花费超过 8000 亿元；智驾多位核心高管离职，蔚来回应｜极客早知道](http://www.geekpark.net/news/354826)
+**发布时间**: 2025-10-10 08:17
+
+### 📰 来源: [阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)
+
+#### [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
+**发布时间**: 2025-10-10 00:08
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)
+**发布时间**: 2025-10-09 23:36
 
 ---
 

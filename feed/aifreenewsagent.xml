@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 23:24:00 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2025 05:20:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Download: mysteries of the immunome, and how to choose a climate tech pioneer</title>
-      <link>https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/</link>
-      <description>&lt;![CDATA[The Download: mysteries of the immunome, and how to choose a climate tech pioneer]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/</guid>
+      <title>From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation</title>
+      <link>https://arxiv.org/abs/2510.07762</link>
+      <description>&lt;![CDATA[From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07762</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>3 takeaways about climate tech right now</title>
-      <link>https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/</link>
-      <description>&lt;![CDATA[3 takeaways about climate tech right now]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/</guid>
+      <title>Evaluation of LLMs for Process Model Analysis and Optimization</title>
+      <link>https://arxiv.org/abs/2510.07489</link>
+      <description>&lt;![CDATA[Evaluation of LLMs for Process Model Analysis and Optimization]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07489</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How healthy am I? My immunome knows the score.</title>
-      <link>https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/</link>
-      <description>&lt;![CDATA[How healthy am I? My immunome knows the score.]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/</guid>
+      <title>Optimizing Ethical Risk Reduction for Medical Intelligent Systems with Constraint Programming</title>
+      <link>https://arxiv.org/abs/2510.07491</link>
+      <description>&lt;![CDATA[Optimizing Ethical Risk Reduction for Medical Intelligent Systems with Constraint Programming]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07491</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全球首款！云深处发布全天候人形机器人重塑行业应用！</title>
-      <link>https://www.qbitai.com/2025/10/340071.html</link>
-      <description>&lt;![CDATA[全球首款！云深处发布全天候人形机器人重塑行业应用！]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340071.html</guid>
+      <title>CompassLLM: A Multi-Agent Approach toward Geo-Spatial Reasoning for Popular Path Query</title>
+      <link>https://arxiv.org/abs/2510.07516</link>
+      <description>&lt;![CDATA[CompassLLM: A Multi-Agent Approach toward Geo-Spatial Reasoning for Popular Path Query]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07516</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>XR Blocks: Accelerating AI + XR innovation</title>
-      <link>https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/</link>
-      <description>&lt;![CDATA[XR Blocks: Accelerating AI + XR innovation]]&gt;</description>
-      <pubDate>Thu, 09 Oct 2025 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/</guid>
+      <title>Benchmarking is Broken - Don't Let AI be its Own Judge</title>
+      <link>https://arxiv.org/abs/2510.07575</link>
+      <description>&lt;![CDATA[Benchmarking is Broken - Don't Let AI be its Own Judge]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07575</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines</title>
+      <link>https://arxiv.org/abs/2510.07614</link>
+      <description>&lt;![CDATA[Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07614</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning</title>
+      <link>https://arxiv.org/abs/2510.07731</link>
+      <description>&lt;![CDATA[oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07731</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>An approach for systematic decomposition of complex llm tasks</title>
+      <link>https://arxiv.org/abs/2510.07772</link>
+      <description>&lt;![CDATA[An approach for systematic decomposition of complex llm tasks]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07772</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>GCPO: When Contrast Fails, Go Gold</title>
+      <link>https://arxiv.org/abs/2510.07790</link>
+      <description>&lt;![CDATA[GCPO: When Contrast Fails, Go Gold]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07790</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation</title>
+      <link>https://arxiv.org/abs/2510.07825</link>
+      <description>&lt;![CDATA[An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.07825</guid>
       <category>AI</category>
     </item>
   </channel>
