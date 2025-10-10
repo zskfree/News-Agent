@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-10 08:27
+**最后更新时间**: 2025-10-10 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-10 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Silver prices are on track for a historic breakout. Why it has taken 45 years.](https://www.marketwatch.com/bulletins/redirect/go?g=fb33c6f3-edb4-4efd-8b87-b22a6a9b0490&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 22:50
+
+#### [Crypto bulls were amped for solana ETF approvals. Then the shutdown happened.](https://www.marketwatch.com/bulletins/redirect/go?g=b618eb0e-8ccf-40bb-b258-3ecbff23500c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 22:17
+
+#### [Morgan Stanley opens crypto investments to all clients. How much should you buy?](https://www.marketwatch.com/bulletins/redirect/go?g=7cae40fb-4092-4f19-8cd2-3124e0beb319&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 21:08
+
+#### [Dow ends nearly 880 points lower as stocks sink on Trump threat of China tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=9fd4cbaf-c266-446c-a6be-d2bb23a013af&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 20:04
+
+#### [Dow shedding 650 points as stocks sell off on Trump's China tariff threat — live](https://www.marketwatch.com/bulletins/redirect/go?g=54728b0b-d893-4a19-a370-c9bca1359af7&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 19:03
+
+#### [Trump’s ‘Apprentice’-style competition for Fed chair is down to 5 finalists](https://www.marketwatch.com/bulletins/redirect/go?g=a88ce94f-77c8-4932-98b1-03333d0c4f60&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 18:00
+
+#### [Bond market expressing worry over shutdown damage to economy](https://www.marketwatch.com/bulletins/redirect/go?g=a608c3d3-8934-4835-bc89-db3c167cfa4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 17:00
+
+#### [Trump appears to call off Xi meeting via social-media post](https://www.marketwatch.com/bulletins/redirect/go?g=20944649-c5c5-46f4-a69b-c84028998361&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 15:45
+
+#### [Winning week in jeopardy for stocks as Treasury market gauges shutdown damage](https://www.marketwatch.com/bulletins/redirect/go?g=72a252f8-96a2-4442-8ca7-d121711f6268&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 15:30
+
+#### [Inflation and job scarcity leave Americans increasingly frustrated with economy](https://www.marketwatch.com/bulletins/redirect/go?g=2c22d08a-333f-49b8-b7b7-1220855067c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 14:51
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Crypto bulls were amped for potential solana ETF approvals this week. But the government shutdown threw it into limbo.](https://www.marketwatch.com/story/crypto-bulls-were-amped-for-potential-solana-etf-approvals-this-week-but-the-government-shutdown-threw-it-into-limbo-7bde37a8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 22:10
+
+#### [AstraZeneca becomes latest drugmaker to strike deal with Trump. Its stock is climbing after hours.](https://www.marketwatch.com/story/astrazeneca-to-become-latest-drugmaker-to-strike-deal-with-trump-its-stock-is-down-but-outperforming-the-market-6f3fbe0e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 22:09
+
+#### [Morgan Stanley is opening cryptocurrency investments to all clients. Here’s what percentage of your portfolio should be in crypto.](https://www.marketwatch.com/story/morgan-stanley-is-opening-cryptocurrency-investments-to-all-clients-heres-what-percentage-of-your-portfolio-should-be-in-crypto-8252b361?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 21:01
+
+#### [‘I can’t stop thinking about money’: I’m struggling with guilt over my $135K in financial mistakes. How do I move on?](https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 20:56
+
+#### [My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?](https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 20:55
+
+#### [Bond market flashes signs of worry over shutdown-induced economic damage](https://www.marketwatch.com/story/bond-market-flashes-signs-of-worry-over-shutdown-induced-economic-damage-2b17760e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 20:02
+
+#### [What to expect in the stock market after a three-year bull run](https://www.marketwatch.com/story/what-to-expect-in-the-stock-market-after-a-three-year-bull-run-11f987df?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 19:24
 
 ---
 

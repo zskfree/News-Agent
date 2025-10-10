@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Oct 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2025 08:27:25 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2025 23:18:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150806458867930112</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Follow the government money: the strategy that keeps working for UBS Wealth</title>
-      <link>https://www.marketwatch.com/story/follow-the-government-money-the-strategy-that-keeps-working-for-ubs-wealth-5f4453af?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Follow the government money: the strategy that keeps working for UBS Wealth]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/follow-the-government-money-the-strategy-that-keeps-working-for-ubs-wealth-5f4453af?mod=mw_rss_topstories</guid>
+      <title>Silver prices are on track for a historic breakout. Why it has taken 45 years.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=fb33c6f3-edb4-4efd-8b87-b22a6a9b0490&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Silver prices are on track for a historic breakout. Why it has taken 45 years.]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 22:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=fb33c6f3-edb4-4efd-8b87-b22a6a9b0490&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Crypto bulls were amped for solana ETF approvals. Then the shutdown happened.</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=b618eb0e-8ccf-40bb-b258-3ecbff23500c&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Crypto bulls were amped for solana ETF approvals. Then the shutdown happened.]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=b618eb0e-8ccf-40bb-b258-3ecbff23500c&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Morgan Stanley opens crypto investments to all clients. How much should you buy?</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=7cae40fb-4092-4f19-8cd2-3124e0beb319&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Morgan Stanley opens crypto investments to all clients. How much should you buy?]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=7cae40fb-4092-4f19-8cd2-3124e0beb319&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dow ends nearly 880 points lower as stocks sink on Trump threat of China tariffs</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=9fd4cbaf-c266-446c-a6be-d2bb23a013af&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Dow ends nearly 880 points lower as stocks sink on Trump threat of China tariffs]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 20:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=9fd4cbaf-c266-446c-a6be-d2bb23a013af&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dow shedding 650 points as stocks sell off on Trump's China tariff threat — live</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=54728b0b-d893-4a19-a370-c9bca1359af7&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Dow shedding 650 points as stocks sell off on Trump's China tariff threat — live]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=54728b0b-d893-4a19-a370-c9bca1359af7&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump’s ‘Apprentice’-style competition for Fed chair is down to 5 finalists</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=a88ce94f-77c8-4932-98b1-03333d0c4f60&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Trump’s ‘Apprentice’-style competition for Fed chair is down to 5 finalists]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=a88ce94f-77c8-4932-98b1-03333d0c4f60&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Bond market expressing worry over shutdown damage to economy</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=a608c3d3-8934-4835-bc89-db3c167cfa4f&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Bond market expressing worry over shutdown damage to economy]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=a608c3d3-8934-4835-bc89-db3c167cfa4f&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump appears to call off Xi meeting via social-media post</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=20944649-c5c5-46f4-a69b-c84028998361&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Trump appears to call off Xi meeting via social-media post]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=20944649-c5c5-46f4-a69b-c84028998361&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Winning week in jeopardy for stocks as Treasury market gauges shutdown damage</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=72a252f8-96a2-4442-8ca7-d121711f6268&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Winning week in jeopardy for stocks as Treasury market gauges shutdown damage]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=72a252f8-96a2-4442-8ca7-d121711f6268&amp;mod=mw_rss_bulletins</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Inflation and job scarcity leave Americans increasingly frustrated with economy</title>
+      <link>https://www.marketwatch.com/bulletins/redirect/go?g=2c22d08a-333f-49b8-b7b7-1220855067c1&amp;mod=mw_rss_bulletins</link>
+      <description>&lt;![CDATA[Inflation and job scarcity leave Americans increasingly frustrated with economy]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/bulletins/redirect/go?g=2c22d08a-333f-49b8-b7b7-1220855067c1&amp;mod=mw_rss_bulletins</guid>
       <category>Finance</category>
     </item>
   </channel>

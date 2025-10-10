@@ -1,7 +1,192 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-10 08:27
+**最后更新时间**: 2025-10-10 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-10 23:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [承认自己开源不行？转型“美国DeepSeek”后，两个谷歌研究员的AI初创公司融到20亿美元，估值暴涨15倍！](https://www.infoq.cn/article/hONb3o2CK2teIiip6gcu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 07:00
+
+#### [模力工场 013 周 AI 应用榜：腾讯双子星登场，Planori、秘塔 AI 搜索领跑](https://www.infoq.cn/article/D5pjPSyDECSRl3XLpYMe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 21:22
+
+#### [AI 安全新范式：京东 JoySafety 开源项目深度解析](https://www.infoq.cn/article/hvF0NL5ZmpeXc9mSy1v4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 20:12
+
+#### [AI 落地的深水区：100+ 实战案例，解码工程化真问题](https://www.infoq.cn/article/TLsfbCEJ5FXWCatDbKxv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 18:08
+
+#### [Fluss 湖流一体：Lakehouse 架构实时化演进](https://www.infoq.cn/article/o2F4ZfMBZOEA4Rg4Tl46?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-10 17:51
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Hollywood has no idea what to do about AI](https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner)
+**发布时间**: 2025-10-10 23:00
+
+#### [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police)
+**发布时间**: 2025-10-10 21:31
+
+#### [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down)
+**发布时间**: 2025-10-10 21:27
+
+#### [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)
+**发布时间**: 2025-10-10 20:11
+
+#### [You can still snag LG’s C4 OLED TV at half the price](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale)
+**发布时间**: 2025-10-10 17:34
+
+#### [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)
+**发布时间**: 2025-10-10 17:00
+
+#### [Boox’s new smartphone-sized e-readers come with a steep price hike](https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card)
+**发布时间**: 2025-10-10 16:34
+
+#### [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter)
+**发布时间**: 2025-10-10 16:25
+
+#### [Apple&#8217;s executive reshuffling isn&#8217;t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)
+**发布时间**: 2025-10-10 15:18
+
+#### [So much for Ford and GM’s scheme to extend the EV tax credit](https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel)
+**发布时间**: 2025-10-10 14:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“抢跑式”并购遭到反垄断调查，高通罚款金额或达17.9亿美元](https://www.tmtpost.com/7717687.html)
+**发布时间**: 2025-10-10 22:47
+
+#### [奥乐齐中国换帅；MUJI无印良品2025财年营收创历史新高；波司登大师泡芙亮相巴黎时装周｜消研所周报](https://www.tmtpost.com/7717430.html)
+**发布时间**: 2025-10-10 20:19
+
+#### [时空科技闪电重组：易主未果改道“追芯”，股价两度“抢跑”成谜｜并购一线](https://www.tmtpost.com/7717543.html)
+**发布时间**: 2025-10-10 19:20
+
+#### [罚单大砍 95% 后金城医药实控人再申诉，其父立案前套现4000多万](https://www.tmtpost.com/7717506.html)
+**发布时间**: 2025-10-10 19:17
+
+#### [双输结局：佳创视讯盈利困局难破，瑞能股份上市梦再碎](https://www.tmtpost.com/7717444.html)
+**发布时间**: 2025-10-10 18:42
+
+#### [白酒“上车”即时零售，千亿风口下的狂欢与隐忧｜行业风向标](https://www.tmtpost.com/7717465.html)
+**发布时间**: 2025-10-10 18:41
+
+#### [股东「热捧」背后：南京银行的三道考题](https://www.tmtpost.com/7715985.html)
+**发布时间**: 2025-10-10 18:41
+
+#### [科沃斯“最贵”的高管，又要套现3000万？](https://www.tmtpost.com/7717170.html)
+**发布时间**: 2025-10-10 18:40
+
+#### [百度再战高德，还拉来了两大“帮手”](https://www.tmtpost.com/7717452.html)
+**发布时间**: 2025-10-10 18:40
+
+#### [稀土已成为半导体产业“命门”](https://www.tmtpost.com/7717481.html)
+**发布时间**: 2025-10-10 18:40
+
+#### [HashKey集团计划递交上市申请，冲刺香港加密资产第一股](https://www.tmtpost.com/7717449.html)
+**发布时间**: 2025-10-10 18:34
+
+#### [7万亿的体育大蛋糕要怎么做](https://www.tmtpost.com/7717073.html)
+**发布时间**: 2025-10-10 18:26
+
+#### [最直男的手机品牌，也想吃女性用户这碗饭了](https://www.tmtpost.com/7717210.html)
+**发布时间**: 2025-10-10 18:19
+
+#### [插混MPV的困境](https://www.tmtpost.com/7717216.html)
+**发布时间**: 2025-10-10 18:13
+
+#### [新政落地，稀土“攻防战”愈演愈烈](https://www.tmtpost.com/7717268.html)
+**发布时间**: 2025-10-10 18:08
+
+#### [信用卡“退潮”，年轻人却被“月付”套牢](https://www.tmtpost.com/7717295.html)
+**发布时间**: 2025-10-10 18:04
+
+#### [ChatGPT做电商，攻入亚马逊的腹地](https://www.tmtpost.com/7717144.html)
+**发布时间**: 2025-10-10 18:00
+
+#### [格力失速小米紧追，传统制造与智能生态的一哥之争](https://www.tmtpost.com/7717041.html)
+**发布时间**: 2025-10-10 17:56
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [和两位 CEO 聊 Sora： 应用层爆发的里程碑事件，创业者的机会来了](http://www.geekpark.net/news/354851)
+**发布时间**: 2025-10-10 20:15
+
+#### [新一代短剧人，涌向郑州「淘金」](http://www.geekpark.net/news/354850)
+**发布时间**: 2025-10-10 18:51
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [WIRED Roundup: Are We In An AI Bubble?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/)
+**发布时间**: 2025-10-10 19:50
+
+#### [These SteelSeries Earbuds Are Great for Gaming and Are 35% Off Right Now](https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/)
+**发布时间**: 2025-10-10 18:04
+
+#### [The Shutdown Is Pushing Air Safety Workers to the Limit](https://www.wired.com/story/shutdown-pushing-air-safety-workers/)
+**发布时间**: 2025-10-10 16:45
+
+#### [The Best Google Pixel Phones of 2025, Tested and Reviewed](https://www.wired.com/story/best-google-pixel-phone/)
+**发布时间**: 2025-10-10 15:20
+
+#### [Google Search Could Change Forever in the UK](https://www.wired.com/story/uk-watchdog-targets-google-search-in-competition-crackdown/)
+**发布时间**: 2025-10-10 14:16
+
+#### [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best (2025)](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+**发布时间**: 2025-10-10 14:06
+
+#### [5 Best Folding Phones (2025), Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
+**发布时间**: 2025-10-10 13:30
+
+#### [Proton VPN Review (2025): The Best VPN for Most People](https://www.wired.com/review/proton-vpn/)
+**发布时间**: 2025-10-10 11:30
+
+#### [Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’](https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/)
+**发布时间**: 2025-10-10 11:00
+
+#### [Men Are Betting on WNBA Players' Menstrual Cycles](https://www.wired.com/story/men-are-betting-on-wnba-players-menstrual-cycles/)
+**发布时间**: 2025-10-10 10:45
+
+#### [Best Latex Mattress Options for Natural Support (2025)](https://www.wired.com/gallery/best-latex-mattresses/)
+**发布时间**: 2025-10-10 10:39
+
+#### [‘Tron: Ares’ Wants to Gaslight You About the Future of AI](https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/)
+**发布时间**: 2025-10-10 10:30
+
+#### [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)
+**发布时间**: 2025-10-10 10:00
+
+#### [Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits](https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/)
+**发布时间**: 2025-10-10 09:15
+
+#### [North Korean Scammers Are Doing Architectural Design Now](https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/)
+**发布时间**: 2025-10-10 09:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [靠举报交通违规，就能月入过万？](http://www.huxiu.com/article/4789116.html?f=wangzhan)
+**发布时间**: 2025-10-10 18:00
+
+#### [车企讨好女性，女性不买账了？](http://www.huxiu.com/article/4789520.html?f=wangzhan)
+**发布时间**: 2025-10-10 16:00
+
+#### [三角洲删共享家园：当游戏运营开始与玩家为敌](http://www.huxiu.com/article/4789229.html?f=wangzhan)
+**发布时间**: 2025-10-10 15:30
+
+#### [无人驾驶，救不了租车公司](http://www.huxiu.com/article/4789925.html?f=wangzhan)
+**发布时间**: 2025-10-10 14:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/102996)
+**发布时间**: 2025-10-10 17:50
+
+#### [狗牛：一段幽默史](https://sspai.com/prime/story/dogcow-a-history)
+**发布时间**: 2025-10-10 15:54
 
 ---
 
