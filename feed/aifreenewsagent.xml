@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Oct 2025 08:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Oct 2025 08:23:21 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 23:17:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>找出iPhone漏洞，库克给你200万美元</title>
-      <link>https://www.qbitai.com/2025/10/340638.html</link>
-      <description>&lt;![CDATA[找出iPhone漏洞，库克给你200万美元]]&gt;</description>
-      <pubDate>Sat, 11 Oct 2025 06:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340638.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>超越ZIP的无损压缩来了！华盛顿大学让大模型成为无损文本压缩器</title>
-      <link>https://www.qbitai.com/2025/10/340634.html</link>
-      <description>&lt;![CDATA[超越ZIP的无损压缩来了！华盛顿大学让大模型成为无损文本压缩器]]&gt;</description>
-      <pubDate>Sat, 11 Oct 2025 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340634.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>斯坦福新论文：微调已死，自主上下文当立</title>
-      <link>https://www.qbitai.com/2025/10/340612.html</link>
-      <description>&lt;![CDATA[斯坦福新论文：微调已死，自主上下文当立]]&gt;</description>
-      <pubDate>Sat, 11 Oct 2025 06:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340612.html</guid>
+      <title>告别AI“乱画图表”！港中文团队发布首个结构化图像生成编辑系统</title>
+      <link>https://www.qbitai.com/2025/10/340648.html</link>
+      <description>&lt;![CDATA[告别AI“乱画图表”！港中文团队发布首个结构化图像生成编辑系统]]&gt;</description>
+      <pubDate>Sat, 11 Oct 2025 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340648.html</guid>
       <category>AI</category>
     </item>
   </channel>

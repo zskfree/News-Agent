@@ -1,7 +1,137 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-11 08:23
+**最后更新时间**: 2025-10-11 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-11 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [猪价狂跌、融资收紧，猪企能否熬过这个寒冬？| 行业风向标](https://www.tmtpost.com/7718399.html)
+**发布时间**: 2025-10-11 22:17
+
+#### [主投电影国庆档失利，果麦文化股价“腰斩”背后的转型阵痛](https://www.tmtpost.com/7718371.html)
+**发布时间**: 2025-10-11 20:49
+
+#### [大恒科技“无主”：新股东高息举债接棒“徐翔系”，火速跨界埋风险](https://www.tmtpost.com/7718350.html)
+**发布时间**: 2025-10-11 20:35
+
+#### [还能直播互动？日本厂商将AI陪伴卷出新高度](https://www.tmtpost.com/7718294.html)
+**发布时间**: 2025-10-11 18:48
+
+#### [康泰医学收FDA警告信：美国市场准入临时“断档”，两成营收来源告急](https://www.tmtpost.com/7718266.html)
+**发布时间**: 2025-10-11 18:25
+
+#### [AI女演员勇闯好莱坞，却遭全行业怒怼！他们在害怕什么？（深度观察）](https://www.tmtpost.com/7718271.html)
+**发布时间**: 2025-10-11 18:04
+
+#### [英国前首相“跳槽”美国硅谷，欧洲AI可能真没救了](https://www.tmtpost.com/7718258.html)
+**发布时间**: 2025-10-11 18:04
+
+#### [In a First, MIT Rejects Trump’s Proposal Linking Federal Funding to Campus Reforms](https://www.tmtpost.com/7718286.html)
+**发布时间**: 2025-10-11 17:56
+
+#### [AI出海东南亚，EDTech落先手](https://www.tmtpost.com/7717140.html)
+**发布时间**: 2025-10-11 17:54
+
+#### [弃900亿江山，宗馥莉能带娃小宗躲开内外绞杀？](https://www.tmtpost.com/7718230.html)
+**发布时间**: 2025-10-11 17:28
+
+#### [雷鸟不想只性价比，但活成了TCL的影子](https://www.tmtpost.com/7718158.html)
+**发布时间**: 2025-10-11 17:28
+
+#### [宗馥莉的疯狂380天：700亿娃哈哈容不下女首富](https://www.tmtpost.com/7718176.html)
+**发布时间**: 2025-10-11 17:28
+
+#### [苹果沦落到要对标小米了](https://www.tmtpost.com/7718216.html)
+**发布时间**: 2025-10-11 17:28
+
+#### [一场蒙超，怎么把半个中国都卷进了战场？](https://www.tmtpost.com/7718224.html)
+**发布时间**: 2025-10-11 17:28
+
+#### [Didi Autonomous Driving Raises 2 Billion Yuan in Series D, Pushing Toward L4 Rollout](https://www.tmtpost.com/7718243.html)
+**发布时间**: 2025-10-11 17:22
+
+#### [大女主高开低走，宗馥莉挂印辞职，娃哈哈自此“失宗”](https://www.tmtpost.com/7718029.html)
+**发布时间**: 2025-10-11 17:07
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [看展女孩，消失在朋友圈？](http://www.huxiu.com/article/4790109.html?f=wangzhan)
+**发布时间**: 2025-10-11 20:00
+
+#### [Z世代新人设：反内卷顶级玩家](http://www.huxiu.com/article/4790520.html?f=wangzhan)
+**发布时间**: 2025-10-11 17:59
+
+#### [懂王要印250美元钞票，还印自己头像，他意欲何为？](http://www.huxiu.com/article/4790005.html?f=wangzhan)
+**发布时间**: 2025-10-11 17:00
+
+#### [万亿级市场引大佬争夺，比外卖大战还要精彩，酒旅为啥这么赚钱？](http://www.huxiu.com/article/4790032.html?f=wangzhan)
+**发布时间**: 2025-10-11 16:00
+
+### 📰 来源: [The Verge](https://www.theverge.com/rss/index.xml)
+
+#### [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app)
+**发布时间**: 2025-10-11 19:35
+
+#### [How Verge readers, and writers, are managing our kids&#8217; screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time)
+**发布时间**: 2025-10-11 17:00
+
+#### [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
+**发布时间**: 2025-10-11 15:01
+
+#### [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard)
+**发布时间**: 2025-10-11 14:00
+
+#### [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc)
+**发布时间**: 2025-10-11 13:00
+
+#### [Is the Coros Nomad really an adventure watch?](https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking)
+**发布时间**: 2025-10-11 12:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TRAE MCP 实践：智能人情账本系统开发](https://www.infoq.cn/article/5TBDQ4234L7921lW9rKT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 19:06
+
+#### [第一批吃上Agentic AI “螃蟹”的人，是如何坐上餐桌的？](https://www.infoq.cn/article/7oQSKAGNoQZwL4SBgYN6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 17:08
+
+#### [AI 进化论丨第五期：推理革命——Mooncake 如何破解成本、吞吐与长上下文困局](https://www.infoq.cn/video/vUNUp9tkjBHxGqaO33WK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 17:04
+
+#### [突发！特朗普对华加征 100% 额外关税、“锁死”所有关键软件，美股一夜蒸发1.65万亿美元](https://www.infoq.cn/article/oOYigD85ds31QWLCrCpc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 17:00
+
+#### [AI 编程实战：用 TRAE 开发一个写作助手（前端篇）](https://www.infoq.cn/article/hcYl9j0wYdWf44GqOZUw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 16:57
+
+### 📰 来源: [WIRED](https://www.wired.com/feed/rss)
+
+#### [6 Best Carpet Cleaners (2025), Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)
+**发布时间**: 2025-10-11 15:04
+
+#### [Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn't Work](https://www.wired.com/review/amazfit-t-rex-3-pro/)
+**发布时间**: 2025-10-11 14:00
+
+#### [Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?](https://www.wired.com/review/lenovo-yoga-pro-9i-16/)
+**发布时间**: 2025-10-11 12:00
+
+#### [The 26 Best Shows on Amazon Prime Right Now (October 2025)](https://www.wired.com/story/best-shows-amazon-prime/)
+**发布时间**: 2025-10-11 11:00
+
+#### [Australia’s March Toward 100 Percent Clean Energy](https://www.wired.com/story/as-coal-fades-australia-looks-to-realize-dream-of-100-renewable-energy/)
+**发布时间**: 2025-10-11 11:00
+
+#### ['Happy Gilmore' Producer Buys Spyware Maker NSO Group](https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/)
+**发布时间**: 2025-10-11 10:30
+
+#### [Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month](https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/)
+**发布时间**: 2025-10-11 10:00
+
+#### [Europe Pledges $600 Million for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)
+**发布时间**: 2025-10-09 16:05
 
 ---
 

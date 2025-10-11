@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-11 05:18
+**最后更新时间**: 2025-10-11 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-11 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the stock market open on Columbus Day/Indigenous Peoples’ Day? Does the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 18:19
+
+#### [Inflation was out of control in retirement, so I went back to work. I’m still working at 66. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 17:15
+
+#### [‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?](https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 16:47
+
+#### [Ray Dalio wants investors to have 15% of their portfolios in gold. Here’s what others think of his advice.](https://www.marketwatch.com/story/ray-dalio-says-investors-should-have-15-of-their-portfolios-in-gold-heres-what-others-think-of-his-advice-bb3d2852?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 16:44
+
+#### [Why your S&P 500 index fund might be more risky than the internet bubble](https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 14:52
+
+#### [McDonald’s to give away free food and $1 million with its Monopoly game — and analysts say it could lift sales](https://www.marketwatch.com/story/mcdonalds-is-bringing-back-its-popular-monopoly-game-and-analysts-say-it-could-lift-sales-52bb55c4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 14:27
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [This dividend-paying 'vending machine' just keeps on rewarding shareholders](https://www.marketwatch.com/bulletins/redirect/go?g=0d2627b9-fc02-4eb3-b28d-4481c3ce50b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 14:26
+
+#### [The entire U.S. economy could hinge on these 2 states: So how are they doing?](https://www.marketwatch.com/bulletins/redirect/go?g=8b9f44ce-b5a2-40d6-a216-0b4943fed76b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 13:49
+
+#### [How can Anthropic stand out in the AI wars? I went to a NYC pop-up to find out.](https://www.marketwatch.com/bulletins/redirect/go?g=083f2fc9-73fd-4c62-a5b5-deafadd3df73&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 13:11
 
 ---
 
