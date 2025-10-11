@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-10 23:17
+**最后更新时间**: 2025-10-11 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-11 05:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中式奇幻，请停止“为醋包饺子”](https://www.tmtpost.com/7717703.html)
+**发布时间**: 2025-10-11 12:01
+
+#### [京东MALL明年拓店至40家，刘强东的“野心”藏不住了](https://www.tmtpost.com/7717573.html)
+**发布时间**: 2025-10-11 12:01
+
+#### [东鹏饮料再次递表港交所：海外能否成为第二增长曲线？](https://www.tmtpost.com/7717983.html)
+**发布时间**: 2025-10-11 11:33
+
+#### [商业航天爆发前夜，大运力火箭走到台前](https://www.tmtpost.com/7717971.html)
+**发布时间**: 2025-10-11 11:24
+
+#### [一篇搞懂：飞书多维表格、n8n、Dify 等自动化工作流里的 Webhook 到底是个啥](https://www.tmtpost.com/7717682.html)
+**发布时间**: 2025-10-11 11:16
+
+#### [现在流行来中国看赛博朋克](https://www.tmtpost.com/7717665.html)
+**发布时间**: 2025-10-11 11:16
+
+#### [突发！宗馥莉辞职，“大女主”剧本难演](https://www.tmtpost.com/7717708.html)
+**发布时间**: 2025-10-11 11:16
+
+#### [关于数字资产“高级持续性威胁（APT）”及“链上防火墙”多智能体协同的思考](https://www.tmtpost.com/7717611.html)
+**发布时间**: 2025-10-11 11:16
+
+#### [错付拼多多这五年](https://www.tmtpost.com/7717667.html)
+**发布时间**: 2025-10-11 10:56
+
+#### [完整的假期该如何定义？](https://www.tmtpost.com/7717632.html)
+**发布时间**: 2025-10-11 10:56
+
+#### [高德“起”榜30天](https://www.tmtpost.com/7717670.html)
+**发布时间**: 2025-10-11 10:45
+
+#### [亚马逊广告接盘微软](https://www.tmtpost.com/7717691.html)
+**发布时间**: 2025-10-11 10:35
+
+#### [AI诈骗，围猎空巢老人](https://www.tmtpost.com/7717671.html)
+**发布时间**: 2025-10-11 10:35
+
+#### [「一页纸」讲透美股公司之：Palantir](https://www.tmtpost.com/7717696.html)
+**发布时间**: 2025-10-11 10:34
+
+#### [Airwallex用十年时间，重塑金融业的未来](https://www.tmtpost.com/7717782.html)
+**发布时间**: 2025-10-11 09:00
+
+#### [【钛晨报】事关政务领域人工智能大模型部署，两部门最新发声；娃哈哈回应宗馥莉辞职：属实；高通公司涉嫌违反反垄断法，市场监管总局依法决定立案调查](https://www.tmtpost.com/7717664.html)
+**发布时间**: 2025-10-11 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [利用残余理论构建更好的软件架构](https://www.infoq.cn/article/AO5Zc3T4VSM4ykE3HQ3d?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 12:00
+
+#### [Thinking Machines发布Tinker API，实现灵活的模型微调](https://www.infoq.cn/article/yPaKIf3Y3YLoUxzHPEOf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 11:00
+
+#### [AI Agent 编码助手实战：面向 KMP 原生跨端实现研发提效｜QCon 上海](https://www.infoq.cn/article/X7C3azRcJ7v13IogFQ6l?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 10:30
+
+#### [用户被通知烦到关掉 Instagram？Meta：我们反思了，用 AI 给自己“限流”](https://www.infoq.cn/article/FKpNCFbdTzMpvBUXzEsx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 10:27
+
+#### [开源审计工具 Petri 评定 Claude Sonnet 4.5 为最安全的 LLM](https://www.infoq.cn/article/JLYUTi3VAlwUK3qHJ8fG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 09:42
+
+#### [AI 时代的传统车企转型：广汽的“双核”战略、组织裂变与自研之路（下）｜行知数字中国](https://www.infoq.cn/video/4bXADEdDxIlQi8HLBphQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 08:34
+
+#### [AI 时代的传统车企转型：广汽的“双核”战略、组织裂变与自研之路（上）｜行知数字中国](https://www.infoq.cn/video/IoqbiY6T09Bma4VUu0bi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 08:30
+
+#### [AI时代的传统车企转型：广汽的“双核”战略、组织裂变与自研之路｜行知数字中国](https://www.infoq.cn/article/uJeOpcZSZ2QRaovBjwRp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-11 08:22
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「丐中丐」版特斯拉来了，Model 3/Y降价超3.5万元](http://www.geekpark.net/news/354862)
+**发布时间**: 2025-10-11 11:56
+
+#### [高德扫街榜的 23 天奇袭](http://www.geekpark.net/news/354857)
+**发布时间**: 2025-10-11 10:46
+
+#### [张一鸣近年来首次公开亮相；微软上海开始新一轮裁员，补偿N+4；罗永浩锐评 iPhone 17](http://www.geekpark.net/news/354852)
+**发布时间**: 2025-10-11 08:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 用 Karakeep 搭建你的个人收藏夹](https://sspai.com/post/102935)
+**发布时间**: 2025-10-11 10:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [韩国电影也不行了](http://www.huxiu.com/article/4790218.html?f=wangzhan)
+**发布时间**: 2025-10-11 08:05
+
+#### [一口气看懂固态电池两大新突破](http://www.huxiu.com/article/4789755.html?f=wangzhan)
+**发布时间**: 2025-10-11 08:00
 
 ---
 

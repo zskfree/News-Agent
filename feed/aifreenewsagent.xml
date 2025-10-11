@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2025 23:18:22 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 05:18:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Building connected data ecosystems for AI at scale</title>
-      <link>https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/</link>
-      <description>&lt;![CDATA[Building connected data ecosystems for AI at scale]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/</guid>
+      <title>陶哲轩用GPT5-Pro跨界挑战！3年无解的难题，11分钟出完整证明</title>
+      <link>https://www.qbitai.com/2025/10/340468.html</link>
+      <description>&lt;![CDATA[陶哲轩用GPT5-Pro跨界挑战！3年无解的难题，11分钟出完整证明]]&gt;</description>
+      <pubDate>Sat, 11 Oct 2025 04:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340468.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>The Download: our bodies’ memories, and Traton’s electric trucks</title>
-      <link>https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/</link>
-      <description>&lt;![CDATA[The Download: our bodies’ memories, and Traton’s electric trucks]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/</guid>
+      <title>库克虎口夺食：马斯克盯上的北大校友AI公司被苹果抢走</title>
+      <link>https://www.qbitai.com/2025/10/340467.html</link>
+      <description>&lt;![CDATA[库克虎口夺食：马斯克盯上的北大校友AI公司被苹果抢走]]&gt;</description>
+      <pubDate>Sat, 11 Oct 2025 04:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340467.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>How do our bodies remember?</title>
-      <link>https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/</link>
-      <description>&lt;![CDATA[How do our bodies remember?]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>This test could reveal the health of your immune system</title>
-      <link>https://www.technologyreview.com/2025/10/10/1125559/test-health-immune-system/</link>
-      <description>&lt;![CDATA[This test could reveal the health of your immune system]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.technologyreview.com/2025/10/10/1125559/test-health-immune-system/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>当Sora2遇上国产 Vidu Q2，国产参考生真的更香了！一手亲测</title>
-      <link>https://www.qbitai.com/2025/10/340347.html</link>
-      <description>&lt;![CDATA[当Sora2遇上国产 Vidu Q2，国产参考生真的更香了！一手亲测]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340347.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>元戎启行9月交付超3万台城区NOA车型</title>
-      <link>https://www.qbitai.com/2025/10/340311.html</link>
-      <description>&lt;![CDATA[元戎启行9月交付超3万台城区NOA车型]]&gt;</description>
-      <pubDate>Fri, 10 Oct 2025 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340311.html</guid>
+      <title>李飞飞发起机器人家务挑战赛！老黄第一时间批钱赞助</title>
+      <link>https://www.qbitai.com/2025/10/340456.html</link>
+      <description>&lt;![CDATA[李飞飞发起机器人家务挑战赛！老黄第一时间批钱赞助]]&gt;</description>
+      <pubDate>Sat, 11 Oct 2025 01:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340456.html</guid>
       <category>AI</category>
     </item>
   </channel>

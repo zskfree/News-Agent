@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-10 23:17
+**最后更新时间**: 2025-10-11 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-11 05:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [What the new 2026 tax brackets mean for Roth IRA conversions](https://www.marketwatch.com/bulletins/redirect/go?g=e3dad76f-050e-49a0-9777-d8a5087bba5e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 00:00
+
+#### [Why this is the 'dumbest' stock market in history](https://www.marketwatch.com/bulletins/redirect/go?g=d4cf46cb-54a2-4f1e-9d86-ddbf01f58394&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 23:56
 
 ---
 
