@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Oct 2025 05:18:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 05:18:26 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2025 08:27:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全</title>
-      <link>https://www.infoq.cn/article/DjZt0gwspcxmtKGXHGFP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全]]&gt;</description>
-      <pubDate>Sun, 12 Oct 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DjZt0gwspcxmtKGXHGFP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>特朗普新一轮高额关税背后：从贸易摩擦，到经济战争</title>
+      <link>https://www.tmtpost.com/7718550.html</link>
+      <description>&lt;![CDATA[特朗普新一轮高额关税背后：从贸易摩擦，到经济战争]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7718550.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大疆VS影石，天才的烦恼</title>
+      <link>https://www.tmtpost.com/7718532.html</link>
+      <description>&lt;![CDATA[大疆VS影石，天才的烦恼]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7718532.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>靠“克隆地球”吸金8亿！五一视界闯港交所：4年累亏5亿，2024年研发接近腰斩</title>
+      <link>https://www.tmtpost.com/7718440.html</link>
+      <description>&lt;![CDATA[靠“克隆地球”吸金8亿！五一视界闯港交所：4年累亏5亿，2024年研发接近腰斩]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7718440.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>年入800亿的“直男品牌”，“背刺”小红书女孩？</title>
+      <link>https://www.tmtpost.com/7718536.html</link>
+      <description>&lt;![CDATA[年入800亿的“直男品牌”，“背刺”小红书女孩？]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7718536.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>我的 Logseq 标签化本地电子书库管理方案</title>
+      <link>https://sspai.com/post/102883</link>
+      <description>&lt;![CDATA[我的 Logseq 标签化本地电子书库管理方案]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/102883</guid>
       <category>Technology</category>
     </item>
   </channel>
