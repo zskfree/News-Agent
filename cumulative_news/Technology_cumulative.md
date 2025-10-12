@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-12 12:49
+**最后更新时间**: 2025-10-12 05:18
+
+---
+
+## 🆕 最新更新 (2025-10-12 05:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全](https://www.infoq.cn/article/DjZt0gwspcxmtKGXHGFP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-12 13:00
 
 ---
 

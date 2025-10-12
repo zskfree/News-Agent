@@ -21230,6 +21230,12 @@
         "link": "http://www.geekpark.net/news/354883",
         "published_date": "Sun, 12 Oct 2025 08:59:00 GMT",
         "first_seen": "2025-10-12T12:50:45.411868"
+      },
+      "23890d2f3d8707d305625c51ba98472850f25d660bf9dda898b1ae40c012f98f": {
+        "title": "GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全",
+        "link": "https://www.infoq.cn/article/DjZt0gwspcxmtKGXHGFP?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Oct 2025 13:00:00 GMT",
+        "first_seen": "2025-10-12T05:18:26.388126"
       }
     },
     "Finance": {
@@ -24620,8 +24626,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-12T12:49:55.527978",
-    "Technology": "2025-10-12T12:50:45.422313",
-    "Finance": "2025-10-12T12:49:55.549977"
+    "AI": "2025-10-12T05:18:26.360635",
+    "Technology": "2025-10-12T05:18:26.414310",
+    "Finance": "2025-10-12T05:18:26.251652"
   }
 }
