@@ -1,7 +1,2587 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-09-08 05:19
+**最后更新时间**: 2025-10-11 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-11 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the stock market open on Columbus Day/Indigenous Peoples’ Day? Does the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 18:19
+
+#### [Inflation was out of control in retirement, so I went back to work. I’m still working at 66. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 17:15
+
+#### [‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?](https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 16:47
+
+#### [Ray Dalio wants investors to have 15% of their portfolios in gold. Here’s what others think of his advice.](https://www.marketwatch.com/story/ray-dalio-says-investors-should-have-15-of-their-portfolios-in-gold-heres-what-others-think-of-his-advice-bb3d2852?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 16:44
+
+#### [Why your S&P 500 index fund might be more risky than the internet bubble](https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 14:52
+
+#### [McDonald’s to give away free food and $1 million with its Monopoly game — and analysts say it could lift sales](https://www.marketwatch.com/story/mcdonalds-is-bringing-back-its-popular-monopoly-game-and-analysts-say-it-could-lift-sales-52bb55c4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-11 14:27
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [This dividend-paying 'vending machine' just keeps on rewarding shareholders](https://www.marketwatch.com/bulletins/redirect/go?g=0d2627b9-fc02-4eb3-b28d-4481c3ce50b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 14:26
+
+#### [The entire U.S. economy could hinge on these 2 states: So how are they doing?](https://www.marketwatch.com/bulletins/redirect/go?g=8b9f44ce-b5a2-40d6-a216-0b4943fed76b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 13:49
+
+#### [How can Anthropic stand out in the AI wars? I went to a NYC pop-up to find out.](https://www.marketwatch.com/bulletins/redirect/go?g=083f2fc9-73fd-4c62-a5b5-deafadd3df73&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 13:11
+
+---
+
+## 🆕 最新更新 (2025-10-11 05:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [What the new 2026 tax brackets mean for Roth IRA conversions](https://www.marketwatch.com/bulletins/redirect/go?g=e3dad76f-050e-49a0-9777-d8a5087bba5e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-11 00:00
+
+#### [Why this is the 'dumbest' stock market in history](https://www.marketwatch.com/bulletins/redirect/go?g=d4cf46cb-54a2-4f1e-9d86-ddbf01f58394&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 23:56
+
+---
+
+## 🆕 最新更新 (2025-10-10 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Silver prices are on track for a historic breakout. Why it has taken 45 years.](https://www.marketwatch.com/bulletins/redirect/go?g=fb33c6f3-edb4-4efd-8b87-b22a6a9b0490&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 22:50
+
+#### [Crypto bulls were amped for solana ETF approvals. Then the shutdown happened.](https://www.marketwatch.com/bulletins/redirect/go?g=b618eb0e-8ccf-40bb-b258-3ecbff23500c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 22:17
+
+#### [Morgan Stanley opens crypto investments to all clients. How much should you buy?](https://www.marketwatch.com/bulletins/redirect/go?g=7cae40fb-4092-4f19-8cd2-3124e0beb319&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 21:08
+
+#### [Dow ends nearly 880 points lower as stocks sink on Trump threat of China tariffs](https://www.marketwatch.com/bulletins/redirect/go?g=9fd4cbaf-c266-446c-a6be-d2bb23a013af&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 20:04
+
+#### [Dow shedding 650 points as stocks sell off on Trump's China tariff threat — live](https://www.marketwatch.com/bulletins/redirect/go?g=54728b0b-d893-4a19-a370-c9bca1359af7&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 19:03
+
+#### [Trump’s ‘Apprentice’-style competition for Fed chair is down to 5 finalists](https://www.marketwatch.com/bulletins/redirect/go?g=a88ce94f-77c8-4932-98b1-03333d0c4f60&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 18:00
+
+#### [Bond market expressing worry over shutdown damage to economy](https://www.marketwatch.com/bulletins/redirect/go?g=a608c3d3-8934-4835-bc89-db3c167cfa4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 17:00
+
+#### [Trump appears to call off Xi meeting via social-media post](https://www.marketwatch.com/bulletins/redirect/go?g=20944649-c5c5-46f4-a69b-c84028998361&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 15:45
+
+#### [Winning week in jeopardy for stocks as Treasury market gauges shutdown damage](https://www.marketwatch.com/bulletins/redirect/go?g=72a252f8-96a2-4442-8ca7-d121711f6268&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 15:30
+
+#### [Inflation and job scarcity leave Americans increasingly frustrated with economy](https://www.marketwatch.com/bulletins/redirect/go?g=2c22d08a-333f-49b8-b7b7-1220855067c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 14:51
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Crypto bulls were amped for potential solana ETF approvals this week. But the government shutdown threw it into limbo.](https://www.marketwatch.com/story/crypto-bulls-were-amped-for-potential-solana-etf-approvals-this-week-but-the-government-shutdown-threw-it-into-limbo-7bde37a8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 22:10
+
+#### [AstraZeneca becomes latest drugmaker to strike deal with Trump. Its stock is climbing after hours.](https://www.marketwatch.com/story/astrazeneca-to-become-latest-drugmaker-to-strike-deal-with-trump-its-stock-is-down-but-outperforming-the-market-6f3fbe0e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 22:09
+
+#### [Morgan Stanley is opening cryptocurrency investments to all clients. Here’s what percentage of your portfolio should be in crypto.](https://www.marketwatch.com/story/morgan-stanley-is-opening-cryptocurrency-investments-to-all-clients-heres-what-percentage-of-your-portfolio-should-be-in-crypto-8252b361?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 21:01
+
+#### [‘I can’t stop thinking about money’: I’m struggling with guilt over my $135K in financial mistakes. How do I move on?](https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 20:56
+
+#### [My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?](https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 20:55
+
+#### [Bond market flashes signs of worry over shutdown-induced economic damage](https://www.marketwatch.com/story/bond-market-flashes-signs-of-worry-over-shutdown-induced-economic-damage-2b17760e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 20:02
+
+#### [What to expect in the stock market after a three-year bull run](https://www.marketwatch.com/story/what-to-expect-in-the-stock-market-after-a-three-year-bull-run-11f987df?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 19:24
+
+---
+
+## 🆕 最新更新 (2025-10-10 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Follow the government money: the strategy that keeps working for UBS Wealth](https://www.marketwatch.com/story/follow-the-government-money-the-strategy-that-keeps-working-for-ubs-wealth-5f4453af?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 07:20
+
+---
+
+## 🆕 最新更新 (2025-10-10 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Private equity and private credit may fit your 401(k) retirement plan — but here’s what you need to know](https://www.marketwatch.com/story/private-equity-and-private-credit-may-fit-your-401-k-retirement-plan-but-heres-what-you-need-to-know-b6ef2f10?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 02:41
+
+#### [Paramount has its eyes on Warner Bros. — but the big question is how to pay for it](https://www.marketwatch.com/story/paramount-has-its-eyes-on-warner-bros-but-the-big-question-is-how-to-pay-for-it-c207becf?mod=mw_rss_topstories)
+**发布时间**: 2025-10-10 00:46
+
+#### [The stock market keeps on giving — and investors aren’t questioning a good thing](https://www.marketwatch.com/story/the-stock-market-keeps-on-giving-and-investors-arent-questioning-a-good-thing-0a8d2176?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 23:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [I’m having brain surgery. Will my heirs or the creditors get my money if I die?](https://www.marketwatch.com/bulletins/redirect/go?g=17b5d423-fbf2-49bf-8355-85e3d174c506&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-10 01:02
+
+---
+
+## 🆕 最新更新 (2025-10-09 23:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why rare-earth stocks are rallying as China gears up for Trump meeting on trade](https://www.marketwatch.com/story/why-rare-earth-stocks-are-rallying-as-china-gears-up-for-trump-meeting-on-trade-b078e1a8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 23:09
+
+#### [Inflation was eating me alive in retirement, so I went back to work. I’m still working at 66. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 23:07
+
+#### [This stock turned $10,000 into $10 million tax-free in 25 years — and it’s still going strong](https://www.marketwatch.com/story/this-stock-turned-10-000-into-10-million-tax-free-in-25-years-and-its-still-going-strong-8b3b27f1?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:42
+
+#### [I’m having brain surgery. Will my heirs or the creditors get my money if I die?](https://www.marketwatch.com/story/im-having-brain-surgery-will-my-heirs-or-the-creditors-get-my-money-if-i-die-b0a73913?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:34
+
+#### [‘I watch antenna TV’: I’m 66. Will I lose my disability benefits if Social Security goes belly up?](https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:33
+
+#### [Levi’s expects better yearly sales despite tougher tariff backdrop. Investors aren’t buying it.](https://www.marketwatch.com/story/levis-raises-outlook-despite-tougher-tariff-outlook-but-the-stock-falls-9000a4a2?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 22:25
+
+#### [Stablecoins aren’t the threat to your money that the banking industry would have you believe](https://www.marketwatch.com/story/stablecoins-arent-the-threat-to-your-money-that-the-banking-industry-would-have-you-believe-3f90f3e3?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 20:31
+
+#### [Delta’s stock jumps as travel demand accelerates, leading to record revenue](https://www.marketwatch.com/story/deltas-stock-rises-as-a-recent-acceleration-in-demand-leads-to-record-revenue-f8ef0708?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 20:31
+
+#### [The new IRS tax brackets for 2026 are here. See where you fit in.](https://www.marketwatch.com/story/the-irs-just-released-its-2026-tax-brackets-despite-the-government-shutdown-find-out-where-you-fit-in-ddbc3842?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 20:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The bull market is turning 3 years old. Here’s where stocks are likely headed.](https://www.marketwatch.com/bulletins/redirect/go?g=6c3cc1e1-4e90-4114-a153-9b07c9ebd1a1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 23:01
+
+#### [Dow ends over 240 points lower, S&P 500 and Nasdaq pull back from record levels](https://www.marketwatch.com/bulletins/redirect/go?g=4d26f735-9658-4386-9c1a-dd7f90c4fe04&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 20:08
+
+#### [People pay a lot for insurance. It doesn't always protect them from disaster.](https://www.marketwatch.com/bulletins/redirect/go?g=af71e486-4029-4f6a-a0a5-82eff9804a0b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 19:45
+
+#### [Dow, S&P, Nasdaq all lower in final hour amid questions around AI trade — live](https://www.marketwatch.com/bulletins/redirect/go?g=f6719058-7fee-4ea6-b57d-7d65aa542214&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 19:21
+
+#### [Social Security’s cost-of-living adjustment isn’t enough for retirees to get by](https://www.marketwatch.com/bulletins/redirect/go?g=55f565fd-4be2-49c1-8aa3-5b07d46b52c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 17:25
+
+#### [These are the IRS’s new capital-gains-tax rates for each income level](https://www.marketwatch.com/bulletins/redirect/go?g=a51d64da-a853-45df-b9bb-b9c58665ae25&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 16:30
+
+#### [The IRS just released its 2026 tax brackets despite the government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=fa4693ca-5e07-4be2-9d35-7724e957e269&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 15:18
+
+#### [Jobless claims and layoffs remain at low levels. (Unofficially, of course.)](https://www.marketwatch.com/bulletins/redirect/go?g=c054082c-a839-4b19-8c4b-4aff3df0df14&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 14:24
+
+#### [Stock indexes join gold in taking a breather after record runs — live updates](https://www.marketwatch.com/bulletins/redirect/go?g=c82b87d9-fb4c-4ee0-ab1d-b8d498b414fb&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 14:05
+
+#### [Economic calendar: Fed chief Powell set to deliver remarks at banking conference](https://www.marketwatch.com/bulletins/redirect/go?g=57ee259b-0da2-4814-810c-22dfab611814&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 11:49
+
+---
+
+## 🆕 最新更新 (2025-10-09 08:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [HSBC shares weaken after $14 billion to fully absorb Hang Seng Bank](https://www.marketwatch.com/bulletins/redirect/go?g=6f22b95d-c630-4139-b7c6-91045d734a85&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 07:52
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [HSBC stock slumps after $14 billion bet on Hong Kong — at a hefty premium](https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 07:40
+
+---
+
+## 🆕 最新更新 (2025-10-09 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s a new, flexible way to work that can ease your fears about retirement](https://www.marketwatch.com/story/heres-a-new-flexible-way-to-work-that-can-ease-your-fears-about-retirement-296e76c3?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 03:03
+
+#### [Here’s why Wall Street is betting against DraftKings and FanDuel — and going all in on Polymarket and Kalshi](https://www.marketwatch.com/story/heres-why-wall-street-is-betting-against-draftkings-and-fanduel-and-going-all-in-on-polymarket-and-kalshi-9fbf5486?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 02:41
+
+#### [History says bitcoin could peak soon, but here’s the case for it to keep climbing](https://www.marketwatch.com/story/history-says-bitcoin-could-peak-soon-but-heres-the-case-for-it-to-keep-climbing-f9a3f9f8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-09 01:04
+
+#### [Tariffs and GLP-1s are keeping people from dining out. An analyst tries to find the positives.](https://www.marketwatch.com/story/tariffs-and-glp-1s-are-keeping-people-from-dining-out-an-analyst-tries-to-find-the-positives-17d79d97?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 23:47
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Am I a jerk for wanting my next partner to make more money than me?](https://www.marketwatch.com/bulletins/redirect/go?g=3015e462-5f8b-449a-a7eb-793b136af95c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-09 01:01
+
+#### [6 steps to avoid delayed flights and ruined trips during the shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=1f122780-2118-4e66-9d20-4ba7365409bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 23:29
+
+---
+
+## 🆕 最新更新 (2025-10-08 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Inflation angst lingers for investors even as Treasury yields are little moved by Fed minutes](https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:50
+
+#### [Can you be a DIY investor after you retire? Yes — and here’s what it takes.](https://www.marketwatch.com/story/can-you-be-a-diy-investor-after-you-retire-yes-and-heres-what-it-takes-8717028a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:25
+
+#### [My uncle’s widow is threatening to sue me. She wants money from my grandmother’s estate. Should I be worried?](https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:24
+
+#### [This stock and bond portfolio won’t give you bragging rights — but it does make you money](https://www.marketwatch.com/story/this-boring-stock-and-bond-portfolio-wont-give-you-bragging-rights-but-it-does-make-you-money-0e2a82ef?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:22
+
+#### [Be ready with these portfolio changes if the shutdown damages the Fed’s credibility](https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 22:21
+
+#### [Costco stock runs higher after yet another monthly sales gain, helped by digital demand](https://www.marketwatch.com/story/costco-sales-run-higher-after-yet-another-monthly-sales-gain-helped-by-digital-demand-2b908a7e?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:58
+
+#### [‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?](https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:26
+
+#### [Higher costs, smaller dogs and more cat adoptions are all hitting Freshpet’s sales, analysts say](https://www.marketwatch.com/story/higher-costs-smaller-dogs-and-more-cat-adoptions-are-all-hitting-freshpets-sales-analysts-say-9066a8e9?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:23
+
+#### [‘I have no retirement savings’: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?](https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:22
+
+#### [AMD’s stock builds on its historic rally as the AI trade heats up again](https://www.marketwatch.com/story/amds-stock-builds-on-its-historic-rally-as-the-ai-trade-heats-up-again-a956f050?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 21:15
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Move over, DraftKings: Wall Street is going all in on Polymarket and Kalshi](https://www.marketwatch.com/bulletins/redirect/go?g=8f7a1e3a-d4a5-4456-9f99-0f4036b0efda&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 21:13
+
+#### [Gold’s surge shows it’s more than just a hedge for the stock market’s record run](https://www.marketwatch.com/bulletins/redirect/go?g=d6b1066c-730d-4d2f-be77-253f08074960&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 20:37
+
+#### [Dow ends flat, S&P 500 and Nasdaq close at records after release of Fed minutes](https://www.marketwatch.com/bulletins/redirect/go?g=b0c355b4-7a9b-4243-941a-855d01fe416d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 20:04
+
+#### [Dow trims gains, S&P and Nasdaq set for records as Fed releases minutes — live](https://www.marketwatch.com/bulletins/redirect/go?g=2f7bacae-014d-4423-98c7-b8317d903136&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 19:03
+
+#### [The Fed minutes are out. ‘Most’ officials backed lower interest rates this year.](https://www.marketwatch.com/bulletins/redirect/go?g=63ce1fa2-f1b3-4e5d-8eff-82683072a8ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 18:35
+
+#### [These 4 things could spark the end of the government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=080edb4a-d892-46b2-b493-b04c05bb2523&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 17:23
+
+#### [U.S. stock indexes poised just below record highs with Fed minutes due today](https://www.marketwatch.com/bulletins/redirect/go?g=09aeca75-98c3-48d7-a750-577ee8902622&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 14:26
+
+#### [The shutdown is starting to undermine airlines’ on-time-performance improvement](https://www.marketwatch.com/bulletins/redirect/go?g=d4d760e4-206a-4f27-9bcc-e4d2aea02d0d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 14:06
+
+#### [Economic calendar: Market awaits minutes from the Fed’s September meeting](https://www.marketwatch.com/bulletins/redirect/go?g=e8e8db3c-162f-438e-8722-2dae400c4b98&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 11:35
+
+#### [Bank of England says stock-market valuations look stretched](https://www.marketwatch.com/bulletins/redirect/go?g=ff78ccb2-b429-44fb-b87b-13b22e01f8c2&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 10:17
+
+---
+
+## 🆕 最新更新 (2025-10-08 08:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SoftBank to pay $5.4 billion for robotics producer, one of four areas it’s investing to realize ‘artificial super intelligence.’](https://www.marketwatch.com/story/softbank-to-pay-5-4-billion-for-robotics-producer-one-of-four-areas-its-investing-to-realize-artificial-super-intelligence-df5b737b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 07:50
+
+---
+
+## 🆕 最新更新 (2025-10-08 05:25)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Musk’s xAI may be the next AI firm to do a creative financing deal with Nvidia](https://www.marketwatch.com/bulletins/redirect/go?g=4acc88bd-9f39-4eb7-80d9-3c8f4dd784ba&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 02:54
+
+#### [Furloughed by the shutdown? Take these 4 steps to protect your financial future.](https://www.marketwatch.com/bulletins/redirect/go?g=c3687c15-2de0-4f66-b966-9a24885d94af&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-08 00:55
+
+#### [Why two Rust Belt towns have the fastest-growing home prices in the U.S.](https://www.marketwatch.com/bulletins/redirect/go?g=d6060e34-968e-4b4c-b826-49b14a6d47af&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 23:31
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk’s xAI may be the next AI company to do a creative financing deal involving Nvidia](https://www.marketwatch.com/story/elon-musks-xai-may-be-the-next-ai-company-to-do-a-creative-financing-deal-involving-nvidia-2d2705c0?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 02:48
+
+#### [Tesla just unveiled a cheaper Model Y and Model 3. Why the stock is falling.](https://www.marketwatch.com/story/tesla-just-unveiled-a-cheaper-model-y-and-model-3-why-the-stock-is-falling-fb2287c9?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 00:31
+
+#### [These banks might be next to pair up, says analyst who called the $11 billion Comerica sale](https://www.marketwatch.com/story/these-banks-might-be-next-to-pair-up-says-analyst-who-called-the-11-billion-comerica-sale-fb4c7521?mod=mw_rss_topstories)
+**发布时间**: 2025-10-08 00:16
+
+---
+
+## 🆕 最新更新 (2025-10-07 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Corona seized on a spring-break trend to win back Gen Z beer drinkers](https://www.marketwatch.com/story/how-corona-seized-on-a-spring-break-trend-to-win-back-gen-z-beer-drinkers-05841c40?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:52
+
+#### [AMD gets upgrade after stock’s 24% one-day surge. ‘We rarely do this,’ says chagrined analyst.](https://www.marketwatch.com/story/amd-gets-upgrade-after-24-surge-we-rarely-do-this-says-chagrinned-analyst-565f3cdf?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:48
+
+#### [Is Netflix’s stock ready to catch up to its business momentum? This analyst thinks so.](https://www.marketwatch.com/story/is-netflixs-momentum-moving-faster-than-its-stock-price-this-analyst-thinks-so-45fa58d1?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:45
+
+#### [I’m 58, divorced and will retire at 60 with $5,300 a month. Is now a good time to buy a house?](https://www.marketwatch.com/story/im-58-divorced-and-will-retire-at-60-with-5-300-a-month-is-now-a-good-time-to-buy-a-house-845f27f6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:00
+
+#### [My mother has dementia. If I put her into a facility without a conservatorship, would that be considered kidnapping?](https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 22:00
+
+#### [Why two Rust Belt towns have the fastest-growing home prices in the U.S.](https://www.marketwatch.com/story/why-two-rust-belt-towns-have-the-fastest-growing-home-prices-in-the-u-s-9886626f?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:55
+
+#### [How this Middle East oil giant got a nuclear big brother — and why your portfolio will feel the heat](https://www.marketwatch.com/story/this-middle-east-oil-giant-just-got-a-nuclear-big-brother-and-your-portfolio-will-feel-the-heat-480d995a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:48
+
+#### [Furloughed by the government shutdown? Take these 4 steps to protect your financial future.](https://www.marketwatch.com/story/furloughed-by-the-government-shutdown-take-these-4-steps-to-protect-your-financial-future-7eda150c?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:31
+
+#### [‘Be more concerned with outliving inflation than Social Security’: I went back to work at 61. I’m now 66. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 21:30
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why record-high gold prices aren’t scaring away first-time investors](https://www.marketwatch.com/bulletins/redirect/go?g=e3d40cff-ddf0-4b44-962d-123c622d3d0a&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 20:54
+
+#### [S&P 500 snaps 7-day win streak as stocks' record-setting rally takes a pause](https://www.marketwatch.com/bulletins/redirect/go?g=39434e9f-150e-42b8-94b0-8cc4eebeb79e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 20:05
+
+#### [Tesla just unveiled a cheaper Model Y and Model 3. Why the stock is falling.](https://www.marketwatch.com/bulletins/redirect/go?g=1e06f0a4-b0e6-4755-8430-28f50751b154&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 19:18
+
+#### [S&P 500 on pace to end 7-day win streak, as gold eclipses $4,000 — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=dd65c425-57e6-4f22-824e-74d182557ed3&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 19:04
+
+#### [These banks might be next to pair up, following the Comerica deal](https://www.marketwatch.com/bulletins/redirect/go?g=7ca60815-0287-48a7-a9b3-3112f82cb1d5&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 17:37
+
+#### [Carlyle and B. of A. shutdown workarounds produce feeble jobs data](https://www.marketwatch.com/bulletins/redirect/go?g=88e1159b-8d5a-441c-bf33-94cd536491dd&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 16:27
+
+#### [AMD upgraded the morning after a 24% stock surge: ‘We rarely do this’](https://www.marketwatch.com/bulletins/redirect/go?g=4b5a58c2-a5df-4637-b43f-81bfa6f668f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 14:10
+
+#### [Correction: Goldman Sachs sees gold on path to $5,000. Ken Griffin is alarmed.](https://www.marketwatch.com/bulletins/redirect/go?g=9e367f96-09e1-43c8-bbae-2481cd19f657&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 13:30
+
+#### [Goldman thinks gold is headed toward $5,000. Ken Griffin has doubts. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=29cfaf6d-5289-486a-84ba-a6bb85b23c95&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 12:58
+
+#### [Economic calendar: Five Fed speeches and consumer-credit data on day’s agenda](https://www.marketwatch.com/bulletins/redirect/go?g=4e4a1740-731b-4ea7-b488-74981e562ac4&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 12:16
+
+---
+
+## 🆕 最新更新 (2025-10-07 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s how much shorter your life is if you’re poor in America](https://www.marketwatch.com/story/heres-how-much-shorter-your-life-is-if-youre-poor-in-america-4efe3b27?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 05:00
+
+#### [Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.](https://www.marketwatch.com/story/is-tesla-unveiling-a-cheaper-model-y-soon-heres-what-to-know-about-it-6980cf13?mod=mw_rss_topstories)
+**发布时间**: 2025-10-07 00:00
+
+#### [Plug Power’s stock has been swept up in the AI mania. Can it continue?](https://www.marketwatch.com/story/plug-powers-stock-has-been-swept-up-in-the-ai-mania-can-it-continue-2802c935?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 23:58
+
+#### [This holiday season, online deals might be ‘a little weaker,’ as sales slow and shoppers navigate tariff fears](https://www.marketwatch.com/story/this-holiday-season-online-deals-might-be-a-little-weaker-as-sales-slow-and-shoppers-navigate-tariff-fears-99876c65?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 23:23
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why analysts are as excited for McDonald’s Monopoly as customers are](https://www.marketwatch.com/bulletins/redirect/go?g=fef44ea0-054a-4a56-87f0-b29025123427&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-07 01:05
+
+---
+
+## 🆕 最新更新 (2025-10-06 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bari Weiss’s getting top job at CBS News may signal rightward lurch across media](https://www.marketwatch.com/bulletins/redirect/go?g=7f1e1a26-6d06-4493-90a4-9f4b05a1e546&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 23:10
+
+#### [AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling.](https://www.marketwatch.com/bulletins/redirect/go?g=8a752642-a15c-4390-b649-9647ddb64a4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 22:14
+
+#### [Goodbye Zillow surfing? How real-estate megamergers could impact home buyers.](https://www.marketwatch.com/bulletins/redirect/go?g=29570f01-4660-49b2-9b64-05faba16f077&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 21:29
+
+#### [AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.](https://www.marketwatch.com/bulletins/redirect/go?g=ffbcd042-f416-4647-8dfa-f2904ec0c829&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 20:38
+
+#### [S&P 500 logs 4th straight record close, while Dow snaps win streak](https://www.marketwatch.com/bulletins/redirect/go?g=1d250ea7-2b80-420c-a97f-456d4f516033&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 20:03
+
+#### [S&P 500 aims for longest win streak since May, gold approaches $4K — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=402b083d-314a-4055-a6ff-fc036bab43c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 19:05
+
+#### [Gold is on the verge of reaching $4,000. What’s behind its unstoppable rally.](https://www.marketwatch.com/bulletins/redirect/go?g=c789632d-7ef6-46db-8b46-3f7fc8f076ee&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 18:00
+
+#### [Is Tesla unveiling a cheaper Model Y soon? Here’s what to know about it.](https://www.marketwatch.com/bulletins/redirect/go?g=ba6ccd94-96d6-448f-940b-f90d9bef2853&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 17:15
+
+#### [Are S&P 500 index funds riskier today than at the height of the dot-com bubble?](https://www.marketwatch.com/bulletins/redirect/go?g=a83600e6-fd95-4304-983b-6b0ca4ad078c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 16:34
+
+#### [Janus tech-fund manager’s view on where the AI trade goes next — live at noon](https://www.marketwatch.com/bulletins/redirect/go?g=6ecb146d-cef0-4c77-913d-8168c36dff7c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 14:39
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling today.](https://www.marketwatch.com/story/applovin-has-been-one-of-the-years-hottest-stocks-heres-why-its-tumbling-today-b39baf99?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 22:06
+
+#### [Figma and these stocks are up after OpenAI showed AI might not eat software after all](https://www.marketwatch.com/story/figma-and-these-stocks-are-up-after-openai-showed-ai-might-not-eat-software-after-all-c053bf2b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:32
+
+#### [‘People need to be more concerned with outliving inflation than Social Security’: I retired at 61, but went back to work. Was I right?](https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:15
+
+#### [Constellation Brands’ results lift stock, but executives warn consumers remain ‘depressed’](https://www.marketwatch.com/story/constellation-brands-results-lift-stock-but-executives-warn-consumers-remain-depressed-df834c81?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:06
+
+#### [Oracle’s stock surged on billions in new cloud contracts. Can it fund its AI promise?](https://www.marketwatch.com/story/oracles-stock-surged-on-billions-in-new-cloud-contracts-can-it-fund-its-ai-promise-ba60a6c6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:04
+
+#### [Goodbye Zillow surfing? How megamergers in the real-estate industry could impact home buyers.](https://www.marketwatch.com/story/goodbye-zillow-surfing-how-megamergers-in-the-real-estate-industry-could-impact-home-buyers-508e8669?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 21:03
+
+#### [AMD’s stock soars to its best day in a year. Here’s why OpenAI wants a stake.](https://www.marketwatch.com/story/amds-stock-soars-25-heres-why-openai-wants-a-stake-in-it-7958979b?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 20:37
+
+#### [Gen X is about to face the biggest Social Security decision — and a lot of money is on the line](https://www.marketwatch.com/story/generation-x-is-about-to-face-the-biggest-social-security-decision-and-tens-of-thousands-of-dollars-are-at-stake-for-each-person-9793bb77?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 20:35
+
+#### [Japan ETFs rally sharply as election of party leader Takaichi signals ‘fiscal taps may stay open’](https://www.marketwatch.com/story/japan-etfs-rally-sharply-as-election-of-party-leader-takaichi-signals-fiscal-taps-may-stay-open-a92d6307?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 20:33
+
+---
+
+## 🆕 最新更新 (2025-10-06 08:32)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [French stocks and bonds falter after prime minister resigns](https://www.marketwatch.com/bulletins/redirect/go?g=f6cc01b1-1c8a-4953-a7d8-1c4b6b4d4b18&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 08:30
+
+---
+
+## 🆕 最新更新 (2025-10-06 05:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Taylor Swift’s new album is such a big deal for the music industry](https://www.marketwatch.com/bulletins/redirect/go?g=5c7c91b5-9795-4fa7-8581-f78442c918d4&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 01:09
+
+#### [Here’s what’s worth streaming in October on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/bulletins/redirect/go?g=054148b4-4bf9-4b6c-868d-1997e614f305&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-06 00:37
+
+#### [How one of 2025’s most popular trades is boosting gold and bitcoin](https://www.marketwatch.com/bulletins/redirect/go?g=a3f6c5ed-ec83-423a-ad9a-20d989808f45&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 23:33
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This shutdown is making me nervous’: I need to take RMDs from an inherited IRA. Is it a bad time to reinvest them?](https://www.marketwatch.com/story/this-shutdown-is-making-me-nervous-i-need-to-take-rmds-from-an-inherited-ira-is-it-a-bad-time-to-reinvest-them-844317bd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-06 00:29
+
+---
+
+## 🆕 最新更新 (2025-10-05 23:16)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures gain, while oil and bitcoin prices rise amid uncertainties](https://www.marketwatch.com/story/u-s-stock-futures-flat-while-oil-and-bitcoin-prices-rise-amid-uncertainties-49083305?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 22:42
+
+#### [The release of Taylor Swift’s ‘The Life of a Showgirl’ is like Super Bowl Sunday for the music industry](https://www.marketwatch.com/story/the-release-of-taylor-swifts-the-life-of-a-showgirl-is-like-super-bowl-sunday-for-the-music-industry-2adddbd9?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 21:58
+
+#### [‘I don’t wish to be petty’: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?](https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 21:00
+
+#### [Bitcoin hits new high above $125,000 as investors seek safety](https://www.marketwatch.com/story/bitcoin-hits-new-high-above-125-000-as-investors-seek-safety-8013d33a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 20:28
+
+#### [How one of 2025’s most popular trades is boosting gold and bitcoin — and may keep going during the government shutdown](https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 20:08
+
+#### [‘My monthly expenses are $6,500’: I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?](https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-05 19:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures flat, while oil and bitcoin prices rise amid uncertainties](https://www.marketwatch.com/bulletins/redirect/go?g=e6299f4c-5da9-4b9c-9472-f4cf0b15324d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 22:18
+
+#### [Bitcoin hits new high above $125,000 as investors seek safety](https://www.marketwatch.com/bulletins/redirect/go?g=299bb759-8a47-4c6d-aaac-61260360744f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 20:29
+
+#### [OPEC+ agrees to another output hike in November despite growing concerns of glut](https://www.marketwatch.com/bulletins/redirect/go?g=d19908db-c46a-4447-a6e2-df6f02c70a76&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-05 19:48
+
+---
+
+## 🆕 最新更新 (2025-10-04 23:22)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He thinks nothing of spending $40K on a new car’: My husband gives me the silent treatment. How can we agree on finances?](https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 19:30
+
+#### [I want to escape the U.S. political climate and be a ‘digital nomad’ abroad. I’m 46 and earn $98,000 — how can I do this?](https://www.marketwatch.com/story/i-want-to-escape-the-u-s-political-climate-and-be-a-digital-nomad-abroad-im-46-and-earn-98-000-how-can-i-do-this-18a9e5cd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 18:49
+
+#### [‘He’s the breadwinner’: Does my husband take Social Security at 66 — or get $800 extra at 70?](https://www.marketwatch.com/story/hes-the-breadwinner-does-my-husband-take-social-security-at-66-or-wait-to-get-800-extra-at-70-33b0ed85?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 18:33
+
+#### [Why fewer seniors are expected to enroll in Medicare Advantage next year — and opt for original Medicare instead](https://www.marketwatch.com/story/why-fewer-seniors-are-expected-to-enroll-in-medicare-advantage-next-year-and-opt-for-original-medicare-instead-c1419888?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 18:33
+
+#### [I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?](https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-04 17:45
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Think AI is a bubble? These 3 strategies can help you protect your portfolio.](https://www.marketwatch.com/bulletins/redirect/go?g=85783a8a-c6f4-4f71-9e2d-cf239b19636b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-04 13:44
+
+#### [Are we in a recession? Yes — if you live in one of these 22 states.](https://www.marketwatch.com/bulletins/redirect/go?g=fc4be344-c166-4970-b3b9-f45f1266bbd8&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-04 13:10
+
+---
+
+## 🆕 最新更新 (2025-10-04 05:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Could Nvidia become a $10 trillion company? These analysts see a path.](https://www.marketwatch.com/bulletins/redirect/go?g=5afe3687-a887-43e5-a06b-9b469f134736&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 23:32
+
+#### [Beyond the 'Magnificent Seven': The stock market's next generation of AI winners](https://www.marketwatch.com/bulletins/redirect/go?g=ece83fb2-de4b-4003-902a-4f936173b2e9&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 23:21
+
+---
+
+## 🆕 最新更新 (2025-10-03 23:16)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why OPEC+ will likely hike its oil-output quota — even as prices post steep drop](https://www.marketwatch.com/bulletins/redirect/go?g=4809b219-906c-467e-b61f-1d43bfef73e3&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 22:47
+
+#### [How this Wall Street skeptic is investing to combat inflation and a weak dollar](https://www.marketwatch.com/bulletins/redirect/go?g=a66190c0-6ad2-43f6-a12d-0e7b5e31b46e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 21:57
+
+#### [Stock market’s march higher has fueled a record rush of bullish options trading](https://www.marketwatch.com/bulletins/redirect/go?g=9f416c15-742d-4baa-af63-3edffd7eab69&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 20:30
+
+#### [Dow closes at fresh record high, Nasdaq ends lower as tech stocks struggle](https://www.marketwatch.com/bulletins/redirect/go?g=c1adc1cf-7c15-4b61-b7dd-eb7bc1c0b814&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 20:06
+
+#### [How investors can get around the government shutdown's economic-data void](https://www.marketwatch.com/bulletins/redirect/go?g=ff274176-7e48-48ef-9ed8-da01424efe02&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 19:47
+
+#### [Dow paring gains, Nasdaq lower in final hour as tech stocks lag — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=53fd8a76-2c0b-4330-afa3-a98d8b40167f&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 19:03
+
+#### [Why Microsoft’s stock now looks like 'free money,' according to one analyst](https://www.marketwatch.com/bulletins/redirect/go?g=82fdfb70-a294-4e09-99d7-600bc4443e9e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 17:34
+
+#### [Dow up nearly 500 points as 4 most-watched indexes shoot for 6-session streaks](https://www.marketwatch.com/bulletins/redirect/go?g=bad9fa12-c5c9-47eb-97d3-c77f0bade9cb&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 16:00
+
+#### [A sustainable Apple rebound is more complicated than you’d think. Here’s why.](https://www.marketwatch.com/bulletins/redirect/go?g=18e30cf3-fac8-4a07-8596-86beccaa33b4&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 15:26
+
+#### [U.S. job market contracted for a fourth straight month in September: ISM](https://www.marketwatch.com/bulletins/redirect/go?g=318d517f-5f1a-45e9-86ad-cb4bc4f2eef7&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 14:21
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The monthly BLS employment report is the gold standard. But investors have other options.](https://www.marketwatch.com/story/how-to-read-the-economy-during-a-government-shutdown-so-you-can-invest-wisely-46e54084?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:36
+
+#### [More famous than Warren Buffett in decades past, Peter Lynch of Fidelity says it’s still all about investing in what you know](https://www.marketwatch.com/story/more-famous-than-warren-buffett-in-decades-past-peter-lynch-of-fidelity-says-its-still-all-about-investing-in-what-you-know-808a7f8f?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:32
+
+#### [‘We’re in a market bubble’: I’m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?](https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:20
+
+#### [How this Wall Street skeptic is investing to combat a weaker dollar and higher inflation](https://www.marketwatch.com/story/how-this-paranoid-columnist-is-defending-his-money-against-a-weaker-dollar-and-higher-inflation-f2e469cf?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:20
+
+#### [‘I won’t let the government walk all over me’: The IRS says I owe $14,000 for not declaring my Social Security. What now?](https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 21:00
+
+#### [Does it seem like more restaurants are charging $100 per person? Chef Bobby Flay says the cost should be even higher.](https://www.marketwatch.com/story/does-it-seem-like-more-restaurants-are-charging-100-per-person-chef-bobby-flay-says-the-cost-should-be-even-higher-63fb3aba?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 20:21
+
+#### [‘I don’t come from money’: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?](https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 20:16
+
+#### [The stock market’s relentless march higher has fueled a record rush of bullish options trading](https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 20:02
+
+---
+
+## 🆕 最新更新 (2025-10-03 05:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon’s ‘crown jewel’ is this business that doesn’t get nearly enough attention](https://www.marketwatch.com/story/amazons-crown-jewel-is-this-business-that-doesnt-get-nearly-enough-attention-d76a627d?mod=mw_rss_topstories)
+**发布时间**: 2025-10-03 01:27
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [10 stocks that not only beat the S&P 500 but also grew their dividends the most](https://www.marketwatch.com/bulletins/redirect/go?g=e140c078-92f5-4cfd-8381-19fa88158b7d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-03 01:05
+
+#### [What FICO’s credit-score shake-up really means for home buyers](https://www.marketwatch.com/bulletins/redirect/go?g=fa9b10b5-35ed-4e44-85b7-43a058e1ba09&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 23:24
+
+---
+
+## 🆕 最新更新 (2025-10-02 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla delivers a big sales beat, and the end of EV tax credits may not be the only reason](https://www.marketwatch.com/story/tesla-delivers-a-big-sales-beat-and-the-end-of-ev-tax-credits-may-not-be-the-only-reason-cd701bac?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 23:10
+
+#### [Alphabet’s stock is now beloved on Wall Street. Here’s what matters next for Google.](https://www.marketwatch.com/story/alphabets-stock-is-now-beloved-on-wall-street-heres-what-matters-next-for-google-41b20848?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 23:07
+
+#### [WNBA players want more money — and a growing roster of stars like Napheesa Collier and Caitlin Clark are calling out the league commissioner to get it](https://www.marketwatch.com/story/wnba-players-want-more-money-and-a-growing-roster-of-stars-like-napheesa-collier-and-caitlin-clark-are-calling-out-the-league-commissioner-to-get-it-d18d0ee8?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 22:57
+
+#### [Cracker Barrel drops marketing firm behind disastrous logo refresh, raising further questions about future plans](https://www.marketwatch.com/story/cracker-barrel-drops-marketing-firm-behind-disastrous-logo-refresh-raising-further-questions-about-future-plans-1b76567c?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 22:36
+
+#### [Humana provides a peek into its Medicare Advantage plan ratings, and the stock jumps](https://www.marketwatch.com/story/humana-provides-a-peak-into-its-medicare-advantage-plan-ratings-and-the-stock-jumps-9c8a2676?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 22:02
+
+#### [What FICO’s credit-score shake-up really means for home buyers](https://www.marketwatch.com/story/what-ficos-credit-score-shakeup-really-means-for-home-buyers-edae75c4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 21:54
+
+#### [This S&P 500 sector gauge points to ‘excessive’ confidence and imminent pullback](https://www.marketwatch.com/story/this-s-p-500-sector-gauge-points-to-excessive-confidence-and-imminent-pullback-8b6ae740?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 20:33
+
+#### [As Warren Buffett nears retirement, he’s making his biggest purchase in years](https://www.marketwatch.com/story/as-buffett-nears-retirement-hes-making-his-biggest-purchase-in-years-ef2cc42c?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 20:26
+
+#### [No jobs report on Friday. But that may not be the worst data delay due to the federal shutdown.](https://www.marketwatch.com/story/no-jobs-report-on-friday-but-that-may-not-be-the-worst-data-delay-due-to-federal-shutdown-e43e09bc?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 20:25
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [S&P 500 sector gauge points to ‘excessive’ confidence and an imminent pullback](https://www.marketwatch.com/bulletins/redirect/go?g=f283c7a1-d5a1-4620-bc17-4fa5aa3fccc2&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 22:03
+
+#### [No jobs report Friday due to shutdown. Why that may not be the worst data delay.](https://www.marketwatch.com/bulletins/redirect/go?g=3e1f8582-a3fa-416c-8c8d-63512e83c5e6&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 21:10
+
+#### [Dow, S&P 500 and Nasdaq all end at record highs after 5th straight day of gains](https://www.marketwatch.com/bulletins/redirect/go?g=1caa409e-2444-4e92-a8a3-dc49d9b0aad8&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 20:04
+
+#### [Why a government shutdown lasting 10 days or more would unnerve investors](https://www.marketwatch.com/bulletins/redirect/go?g=db535873-8387-4a8b-aa1b-08c65509d710&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 19:30
+
+#### [Stocks gaining in final hour as Nasdaq sets sights on record close — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=7f53611c-d9e4-467f-853f-f67f41aef3a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 19:03
+
+#### [China hasn’t ‘bought a bushel’ of soybeans from U.S. farmers this year](https://www.marketwatch.com/bulletins/redirect/go?g=96174b0c-8ad3-49fe-8dfa-3209340310f3&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 17:09
+
+#### [OpenAI has just joined the $500 billion–valuation club. Now, the hard part.](https://www.marketwatch.com/bulletins/redirect/go?g=38eec29b-0f38-4cce-88e5-c51059a3daae&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 16:48
+
+#### [Tesla third-quarter deliveries outpace even the most optimistic analyst forecast](https://www.marketwatch.com/bulletins/redirect/go?g=fec24d19-39b7-4b34-af42-b3acf2e65c39&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 14:26
+
+#### [S&P 500 poised for longest win streak since July — shutdown notwithstanding](https://www.marketwatch.com/bulletins/redirect/go?g=67c130af-73ad-412d-9220-1debc5f4aec8&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 12:59
+
+#### [Economic calendar: Jobless-claims and factory-orders data postponed by shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=b6400396-100b-4256-a963-8e76bb758f4e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 12:22
+
+---
+
+## 🆕 最新更新 (2025-10-02 08:26)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk is richer now than John Rockefeller was — and it still might not be enough for his ambitions](https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 08:22
+
+---
+
+## 🆕 最新更新 (2025-10-02 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon, Palo Alto Networks — and 36 more hot stock picks from Deutsche Bank](https://www.marketwatch.com/story/amazon-palo-alto-networks-and-36-more-hot-stock-picks-from-deutsche-bank-caef0627?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 02:29
+
+#### [Government shutdown means Fed lacks crucial data as it considers rate cuts](https://www.marketwatch.com/story/government-shutdown-means-fed-lacks-crucial-data-as-it-considers-rate-cuts-5a347773?mod=mw_rss_topstories)
+**发布时间**: 2025-10-02 00:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Could canceling my pricey American Express Platinum card hurt my credit score?](https://www.marketwatch.com/bulletins/redirect/go?g=3a457a22-a54e-498e-acf7-bd9fcd71a665&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-02 01:08
+
+#### [Here’s what’s worth streaming in October on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/bulletins/redirect/go?g=b819020e-ebc5-4cf2-9cde-a6609c0c74cf&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 23:19
+
+---
+
+## 🆕 最新更新 (2025-10-01 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This Nvidia move has sparked criticism, but it could help the stock, one analyst says](https://www.marketwatch.com/story/this-nvidia-move-has-sparked-criticism-but-it-could-help-the-stock-one-analyst-says-406c5234?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 23:14
+
+#### [AT&T’s stock trades at a notable premium to Verizon’s. Should you still buy?](https://www.marketwatch.com/story/at-ts-stock-trades-at-a-notable-premium-to-verizons-should-you-still-buy-db419904?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 23:10
+
+#### [Does Elon Musk’s call for a Netflix boycott signal a new front in the culture wars?](https://www.marketwatch.com/story/does-elon-musks-call-for-a-netflix-boycott-signal-a-new-front-in-the-culture-wars-ad4c1a2f?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 23:07
+
+#### [Why Nvidia, Broadcom and other high-flying stocks are especially risky now](https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-highflying-stocks-are-especially-risky-now-ff1e5de5?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 22:54
+
+#### [Stocks and bitcoin are running on fumes and FOMO — but here’s how the market can steer clear of a selloff](https://www.marketwatch.com/story/the-gold-market-is-rarely-wrong-why-stocks-and-bitcoin-are-in-a-danger-zone-2a13c688?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 22:03
+
+#### [I’m 80. Is this a good or bad time to dip into my $650K retirement fund to remodel my bathroom?](https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 22:00
+
+#### [Intel’s stock extends its gains on hopes AMD could go from rival to partner](https://www.marketwatch.com/story/intels-stock-extends-its-gains-on-hopes-amd-could-go-from-rival-to-partner-dafbafbd?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:37
+
+#### [Running shoes and retail gains are helping Nike’s turnaround — and cranking up the heat on rivals](https://www.marketwatch.com/story/running-shoes-and-retail-gains-are-helping-nikes-turnaround-and-cranking-up-the-heat-on-rivals-af48f8e0?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:18
+
+#### [How much could the government shutdown cost? These numbers show the potential economic hit.](https://www.marketwatch.com/story/whats-the-economic-damage-from-a-government-shutdown-these-numbers-tell-the-tale-77136e25?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:14
+
+#### [I’m 44. I have $400K in cash. I’m worried about a stock-market crash. Do I dare invest?](https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 21:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Amazon, Palo Alto Networks — and 36 more hot stock picks from Deutsche Bank](https://www.marketwatch.com/bulletins/redirect/go?g=56b88393-b82e-4ea0-b92c-6ecb38be6525&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 22:14
+
+#### [Government shutdown means Fed lacks crucial data as it considers rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=17844ce3-3733-4649-ae0c-f2a74783ca5c&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 20:26
+
+#### [Dow, S&P 500 carve out new record closing highs despite government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=4d23270d-ad36-4b66-aa80-b479c8a1a263&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 20:03
+
+#### [Why stocks and bitcoin are in a danger zone](https://www.marketwatch.com/bulletins/redirect/go?g=809c4e4e-1601-46a7-98eb-a06c14ee4455&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 17:07
+
+#### [Lisa Cook to remain at Fed as Supreme Court weighs Trump bid to fire her](https://www.marketwatch.com/bulletins/redirect/go?g=801efe78-de3c-4886-8e49-cd95f71fd61e&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 15:22
+
+#### [ADP revision shows loss of jobs in August vs. previously reported gain](https://www.marketwatch.com/bulletins/redirect/go?g=2af02241-97a5-4941-b07f-b5733e33eb5a&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 14:14
+
+#### [Stocks move lower as U.S. government shuts down and private-sector jobs decline](https://www.marketwatch.com/bulletins/redirect/go?g=be6a7e4d-c50c-4a52-a4bb-24a29b687c28&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 13:45
+
+#### [Private-sector jobs fell for the third time in four months, ADP reports](https://www.marketwatch.com/bulletins/redirect/go?g=d9777843-b729-4628-8075-54daadadc938&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 12:26
+
+#### [Economic calendar: Payrolls, construction and factory data on morning agenda](https://www.marketwatch.com/bulletins/redirect/go?g=8f2989eb-ca14-4b94-96b1-5ac2ae04d474&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 12:18
+
+#### [One trader says Wall Street’s big money is still scared. That's a good thing.](https://www.marketwatch.com/bulletins/redirect/go?g=dcc8bd84-df19-4058-b56d-5a5c29e3740b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 11:59
+
+---
+
+## 🆕 最新更新 (2025-10-01 08:27)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Tate & Lyle warns revenue and EBITDA to fall this year](https://www.marketwatch.com/bulletins/redirect/go?g=d65d7a16-3e4d-4478-8c2e-ab7d1a5785f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 07:16
+
+---
+
+## 🆕 最新更新 (2025-10-01 05:25)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As government shuts down, here’s how much your health insurance could go up next year](https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 04:11
+
+#### [The U.S. federal government just shut down. Here’s what it means for you and your money.](https://www.marketwatch.com/story/the-u-s-federal-government-just-shut-down-heres-what-it-means-for-you-and-your-money-6952e209?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 04:02
+
+#### [Tesla deliveries should see a positive breakout and fuel a stock rally, analyst says](https://www.marketwatch.com/story/tesla-deliveries-should-see-a-positive-breakout-and-fuel-a-stock-rally-analyst-says-c4de4f54?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 01:56
+
+#### [Nike warns turnaround ‘won’t be linear,’ but sees signs of life at retail chains](https://www.marketwatch.com/story/nikes-results-top-expectations-but-company-warns-its-recovery-will-not-be-linear-e9ea7fab?mod=mw_rss_topstories)
+**发布时间**: 2025-10-01 00:21
+
+#### [AI power-generation and Trump play Fermi sees strong demand for its IPO](https://www.marketwatch.com/story/ai-power-generation-and-trump-play-fermi-sees-strong-demand-for-its-ipo-1cfbcd09?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:58
+
+#### [A government shutdown at midnight looks likely. What it means for Social Security and unemployment checks, the IRS, markets and more.](https://www.marketwatch.com/story/a-government-shutdown-at-midnight-looks-likely-what-it-means-for-social-security-and-unemployment-checks-the-irs-markets-and-more-3663b191?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:38
+
+#### [Does Meta want to compete with Nvidia? Here’s a sign of its growing ambition in chips.](https://www.marketwatch.com/story/does-meta-want-to-compete-with-nvidia-heres-a-sign-of-its-growing-ambition-in-chips-2ecdaf8b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:29
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The government just shut down. Here’s what it means for you and your money.](https://www.marketwatch.com/bulletins/redirect/go?g=97d133f3-0099-41a0-9b94-b2b496b0e32b&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 04:04
+
+#### [What a shutdown means for Social Security, unemployment checks, markets and more](https://www.marketwatch.com/bulletins/redirect/go?g=c5060d85-d35f-4343-b55c-4eeb39c92f36&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 00:10
+
+#### [AI power-generation and Trump play Fermi sees strong demand for its IPO](https://www.marketwatch.com/bulletins/redirect/go?g=0f6a6101-7cce-4072-90e3-908b93a5049d&mod=mw_rss_bulletins)
+**发布时间**: 2025-10-01 00:00
+
+---
+
+## 🆕 最新更新 (2025-09-30 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Here’s what’s worth streaming in October on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/bulletins/redirect/go?g=af7798ec-fb69-42fa-88c9-bf92767977c4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 23:19
+
+#### [As stocks soar, investors see little choice but to keep riding the bull market](https://www.marketwatch.com/bulletins/redirect/go?g=30c41f23-7c9d-45cb-877e-bc54bc634911&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 21:55
+
+#### [Nike’s results top expectations, but company warns recovery won't be 'linear'](https://www.marketwatch.com/bulletins/redirect/go?g=e6a91992-d842-4046-bac2-c6c08839e47d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 21:07
+
+#### [S&P 500 and Nasdaq score best September in over 15 years. Can the momentum last?](https://www.marketwatch.com/bulletins/redirect/go?g=81e77525-f94d-4ae3-970e-c3960b9161e5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 20:38
+
+#### [Dow closes at new record as U.S. stocks gain despite looming government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=54bc1e56-516c-44f0-b2ab-d2bdf5eae604&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 20:08
+
+#### [How Trump’s son-in-law Jared Kushner became part of the biggest buyout ever](https://www.marketwatch.com/bulletins/redirect/go?g=cad1ac83-5536-42f1-b7ea-71fbbc1f8da5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 19:31
+
+#### [Here’s the latest sign that Boeing is going on the offensive against Airbus](https://www.marketwatch.com/bulletins/redirect/go?g=7f7dea68-af77-49ab-bc17-ba821cb2a526&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 17:42
+
+#### [Businesses are now hiring workers at the slowest pace since the pandemic era](https://www.marketwatch.com/bulletins/redirect/go?g=42f4fe16-d130-4d63-a0db-262535bc70c2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 14:21
+
+#### [U.S. consumer confidence falls to lowest level since April](https://www.marketwatch.com/bulletins/redirect/go?g=84217ec7-a201-4b72-9ad1-8de404d1556e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 14:12
+
+#### [Top artificial-intelligence researcher sees 2026 as a tipping point](https://www.marketwatch.com/bulletins/redirect/go?g=c91d91e7-1d19-403d-adef-bed32ea550dc&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 12:24
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pfizer found a way to boost its ailing stock — agree on drug pricing with TrumpRx](https://www.marketwatch.com/story/pfizer-found-a-way-to-boost-its-ailing-stock-agree-with-trump-on-drug-pricing-219908fa?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 23:10
+
+#### [Marvell has ‘huge potential,’ these analysts say. Here’s why they downgraded the stock anyway.](https://www.marketwatch.com/story/marvell-has-huge-potential-these-analysts-say-heres-why-they-downgraded-the-stock-anyway-ac13f435?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 22:27
+
+#### [Here’s how much your health insurance could go up next year — whether there’s a government shutdown or not](https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 22:16
+
+#### [Alphabet’s stock just had its best quarter in two decades thanks to AI](https://www.marketwatch.com/story/alphabets-stock-just-had-its-best-quarter-in-two-decades-thanks-to-ai-8a8f1273?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 22:11
+
+#### [Why Warren Buffett’s Berkshire Hathaway may be placing another bet in petrochemicals](https://www.marketwatch.com/story/why-warren-buffetts-berkshire-hathaway-may-be-placing-another-bet-in-petrochemicals-681c4534?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 21:22
+
+#### [As stocks power higher, investors see little choice but to keep riding the bull market](https://www.marketwatch.com/story/as-stocks-power-higher-investors-see-little-choice-but-to-keep-riding-the-bull-market-8e4acd91?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:58
+
+#### [Qualcomm promises it can be an AI winner. What does it know that Nvidia and Intel don’t?](https://www.marketwatch.com/story/qualcomm-promises-it-can-be-an-ai-winner-but-does-it-know-what-nvidia-and-intel-do-7f6a3155?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:58
+
+#### [Two Social Security problems that seem almost impossible to fix](https://www.marketwatch.com/story/two-social-security-problems-that-seem-almost-impossible-to-fix-c3253e1a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:46
+
+#### [Nike’s results top expectations, but company warns its recovery ‘will not be linear’](https://www.marketwatch.com/story/nikes-results-top-expectations-but-company-warns-its-recovery-will-not-be-linear-e9ea7fab?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:41
+
+#### [Here’s what’s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-october-2025-on-netflix-hulu-hbo-max-and-more-6b2875b5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 20:19
+
+---
+
+## 🆕 最新更新 (2025-09-30 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The EV tax credit expires today — and time’s running out to save money on these other green upgrades. Here’s what to do.](https://www.marketwatch.com/story/the-ev-tax-credit-expires-today-and-times-running-out-to-save-money-on-these-other-green-upgrades-heres-what-to-do-d615f422?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 04:01
+
+#### [This chart shows the U.S. labor market is running on fumes. Why that’s a risk for the stock market.](https://www.marketwatch.com/story/this-chart-shows-the-u-s-labor-market-is-running-on-fumes-why-thats-a-risk-for-the-stock-market-82f89a5d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 01:43
+
+#### [You won’t get a paper Social Security check in October — or ever again. Here’s how you’ll be paid instead.](https://www.marketwatch.com/story/you-wont-get-a-paper-social-security-check-in-october-or-ever-again-heres-how-youll-be-paid-instead-4ee76185?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 00:50
+
+#### [This stock and bond strategy is so disliked — and it’s probably your best investment move for the next 10 years](https://www.marketwatch.com/story/this-stock-and-bond-strategy-is-so-disliked-and-its-probably-your-best-investment-move-for-the-next-10-years-3759fdf2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-30 00:28
+
+#### [Throwing money at our broken healthcare system won’t fix it — but this solution might](https://www.marketwatch.com/story/if-healthcare-doesnt-heal-itself-soon-the-next-pandemic-could-break-the-system-174c85c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 23:44
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Gen X is facing its biggest Social Security decision. Here's what's at stake.](https://www.marketwatch.com/bulletins/redirect/go?g=c35c1e16-0b88-4581-a98a-7c6a037ab51e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 00:54
+
+#### [The S&P 500 is about to enter its strongest quarter of the year historically](https://www.marketwatch.com/bulletins/redirect/go?g=3be80e1e-238d-4875-989c-4d4d33e9568f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-30 00:14
+
+---
+
+## 🆕 最新更新 (2025-09-29 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These TikTok and Instagram financial influencers aren’t your father’s investment advisers](https://www.marketwatch.com/story/these-tiktok-and-instagram-financial-influencers-arent-your-fathers-investment-advisers-0188438e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 23:11
+
+#### [The biggest risk to Fed independence is a divided Congress — not Trump](https://www.marketwatch.com/story/the-biggest-risk-to-fed-independence-is-a-divided-congress-not-trump-badc18df?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 23:10
+
+#### [Kroger’s delivery expansion with DoorDash is bad news for Instacart, analysts say](https://www.marketwatch.com/story/krogers-delivery-expansion-with-doordash-is-bad-news-for-instacart-analysts-say-5ce24b6f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 22:40
+
+#### [Intel is one of the hottest chip stocks this year. Here’s where things stand now.](https://www.marketwatch.com/story/intel-is-one-of-the-hottest-chip-stocks-this-year-heres-where-things-stand-now-e61eda45?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 22:33
+
+#### [Electronic Arts sees a record buyout deal. But should shareholders be happy?](https://www.marketwatch.com/story/electronic-arts-sees-a-record-buyout-deal-but-should-shareholders-be-happy-fc0bba76?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 22:30
+
+#### [You’ve got less than 5 years to rescue your money from AI and stablecoins. Here’s what to do.](https://www.marketwatch.com/story/ai-and-digital-dollars-are-coming-for-your-job-and-maybe-your-wealth-3aa34515?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:52
+
+#### [Here’s what a government shutdown means for markets — and your wallet](https://www.marketwatch.com/story/heres-what-a-government-shutdown-means-for-markets-and-your-wallet-e631bbe2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:51
+
+#### [The S&P 500 is about to enter its strongest quarter of the year historically, this chart shows](https://www.marketwatch.com/story/the-s-p-500-is-about-to-enter-its-strongest-quarter-of-the-year-historically-this-chart-shows-ad234790?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:50
+
+#### [Nike earnings are due. The results could be a ‘turning point’ after recent struggles.](https://www.marketwatch.com/story/nike-earnings-are-due-the-results-could-be-a-turning-point-after-recent-struggles-db8271f4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:49
+
+#### [What to know about October’s market-crash potential — and what you can ignore](https://www.marketwatch.com/story/october-is-typically-volatile-for-stocks-but-will-you-be-needing-a-seat-belt-or-a-crash-helmet-486f50af?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 20:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [When is the best time to do a Roth IRA conversion?](https://www.marketwatch.com/bulletins/redirect/go?g=7eddfec3-c32b-45a2-a9d3-f7578dbd0701&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 22:24
+
+#### [This chart shows the job market is running on fumes. Investors should take note.](https://www.marketwatch.com/bulletins/redirect/go?g=b31cde9a-e59b-414a-a74b-deaffce37074&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 20:47
+
+#### [Dow, S&P and Nasdaq book back-to-back gains despite looming government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=46ffefab-9e43-4136-aafe-7084de00e485&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 20:01
+
+#### [Why investors are brushing aside the threat of a government shutdown this week](https://www.marketwatch.com/bulletins/redirect/go?g=629be7f2-0d5a-4eca-af52-47c62850e71a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 19:37
+
+#### [How a government shutdown could hurt a housing market now showing signs of life](https://www.marketwatch.com/bulletins/redirect/go?g=4fccefbe-ad26-4199-842d-60bc95a8ad74&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 19:03
+
+#### [Here’s what a government shutdown means for markets — and your wallet](https://www.marketwatch.com/bulletins/redirect/go?g=4897f774-b98f-4e0f-ab13-306298234f60&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 17:45
+
+#### [Generation X is about to face its biggest Social Security decision](https://www.marketwatch.com/bulletins/redirect/go?g=46d0c864-26dc-48f5-a9b7-0136c19b4f89&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 16:53
+
+#### [Nasdaq powers higher as tech-stock investors look past government-shutdown fears](https://www.marketwatch.com/bulletins/redirect/go?g=7eaa669f-4c13-4bc3-ae12-e1a29dac190b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 14:00
+
+#### [Economic calendar: Three Fed speeches and pending-home-sales data on agenda](https://www.marketwatch.com/bulletins/redirect/go?g=19093926-889b-49e6-8282-15c1a1f73f54&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 12:12
+
+#### [Morgan Stanley slashes rating on Novo Nordisk, says Alzheimer trial will fail](https://www.marketwatch.com/bulletins/redirect/go?g=d8a481c4-41cc-46ac-a090-ad986b32b974&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 09:54
+
+---
+
+## 🆕 最新更新 (2025-09-29 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures edge higher as investors eye possible government shutdown](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 03:04
+
+#### [Even smaller tech stocks are getting expensive. But these sectors could be your next big win.](https://www.marketwatch.com/story/even-smaller-tech-stocks-are-getting-expensive-but-these-sectors-could-be-your-next-big-win-544e5289?mod=mw_rss_topstories)
+**发布时间**: 2025-09-29 00:43
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Day trading is about to get a lot easier for beginners. Things could get ugly.](https://www.marketwatch.com/bulletins/redirect/go?g=7aec7223-e7ca-43fe-a2fc-1c47ae972152&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 01:21
+
+#### [Why the last thing the stock market wants right now is a government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=fb87ad63-6ab6-4186-803c-a297402a921d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-29 00:09
+
+---
+
+## 🆕 最新更新 (2025-09-28 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures little changed as investors eye possible government shutdown](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 23:10
+
+#### [Tesla is about to show a snapshot of its global sales. Is recent optimism deserved?](https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 19:54
+
+#### [The last thing the stock market wants right now is a government shutdown. Here’s why.](https://www.marketwatch.com/story/the-last-thing-the-stock-market-wants-right-now-is-a-government-shutdown-heres-why-7bac216e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 19:42
+
+#### [‘He can’t afford payments to the IRS’: My friend’s $19,000 loan was written off. The IRS charged him $3,000. What can he do?](https://www.marketwatch.com/story/my-brother-in-laws-19-000-truck-loan-was-written-off-but-the-irs-charged-him-3-300-in-taxes-this-seems-unfair-f09f6d6c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 19:22
+
+#### [My wife and I are in our 40s. We have a $600K mortgage and $500K income. Can we afford a vacation home?](https://www.marketwatch.com/story/my-wife-and-i-are-in-our-40s-we-have-a-600k-mortgage-and-500k-annual-income-can-we-afford-a-vacation-home-d4b3c479?mod=mw_rss_topstories)
+**发布时间**: 2025-09-28 16:22
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures little changed as investors eye possible government shutdown](https://www.marketwatch.com/bulletins/redirect/go?g=294ae586-1e7f-45ef-88f4-4db23e66e5b9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-28 22:21
+
+#### [The AI hype is starting to fade on Wall Street. What investors need to know.](https://www.marketwatch.com/bulletins/redirect/go?g=fad4f1a5-c335-4c46-9e7c-3aecf1653262&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-28 20:01
+
+---
+
+## 🆕 最新更新 (2025-09-27 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I thought she was honest’: My ex-wife hid stocks during our divorce. Can I sue her?](https://www.marketwatch.com/story/i-thought-she-was-honest-my-ex-wife-hid-her-stocks-during-our-divorce-can-i-sue-her-e75cab43?mod=mw_rss_topstories)
+**发布时间**: 2025-09-27 21:05
+
+#### [‘I feel overwhelmed’: I’m a widow in my early 40s with 3 children. I have $330K in IRAs. Will be OK?](https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories)
+**发布时间**: 2025-09-27 17:58
+
+#### [I inherited $600K in Apple stock. It now makes up 50% of my portfolio. Is that too risky?](https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories)
+**发布时间**: 2025-09-27 17:45
+
+#### [Banking on ‘Sit at the Bar September’ to find love? How to get the best romantic return on your investment.](https://www.marketwatch.com/story/banking-on-sit-at-the-bar-september-to-find-love-how-to-get-the-best-romantic-return-on-your-investment-a64a78bc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-27 17:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Want to invest in gold? Here’s how to plan for—or avoid—potential tax headaches](https://www.marketwatch.com/bulletins/redirect/go?g=e5a12701-7fe6-401c-b7ed-5ad75f4c0fdb&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-27 14:04
+
+#### [Recession seems far off, but the economy is also far from trouble free](https://www.marketwatch.com/bulletins/redirect/go?g=b3340887-0ae8-456d-8208-d6673d63344f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-27 13:44
+
+#### [Smaller tech stocks are getting pricey, but these sectors could be next big win](https://www.marketwatch.com/bulletins/redirect/go?g=3f8a5324-9133-4fe9-b8d2-c54e8855e490&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-27 13:12
+
+---
+
+## 🆕 最新更新 (2025-09-27 05:23)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why Trump wants to help Argentina despite his ‘America First’ agenda](https://www.marketwatch.com/bulletins/redirect/go?g=f6a660d3-6611-4fdc-9478-04a6e2725a35&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-27 00:23
+
+#### [Why a bill tweaking Social Security's retirement-age language misses the point](https://www.marketwatch.com/bulletins/redirect/go?g=bfa81bbb-1515-448e-a796-79cd6348a18b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 23:27
+
+---
+
+## 🆕 最新更新 (2025-09-26 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Why AI spending at Microsoft and Oracle is even higher than it appears](https://www.marketwatch.com/bulletins/redirect/go?g=5defa4ac-d11f-4b27-b735-d520bfb62056&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 22:35
+
+#### [Amazon is quietly building a $35B business that’s changing how companies operate](https://www.marketwatch.com/bulletins/redirect/go?g=f24f6277-26e0-4e2a-982f-13692e61abf2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 21:39
+
+#### [The AI trade hinges on OpenAI. That’s a big risk for the entire market.](https://www.marketwatch.com/bulletins/redirect/go?g=7a5fe328-0206-472a-b709-7374700be6f0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 20:57
+
+#### [U.S. stocks end higher Friday to snap 3-day losing run, but book weekly losses](https://www.marketwatch.com/bulletins/redirect/go?g=d9d1c932-bb83-42cb-9ea1-d87cb709d810&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 20:03
+
+#### [Sinclair ends Kimmel boycott, putting pressure on Nexstar to bring program back](https://www.marketwatch.com/bulletins/redirect/go?g=d5f5512d-f2a6-4f0c-92b8-fd5239d0714e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 19:48
+
+#### [Videogame maker Electronic Arts’ stock jumps on news of take-private deal](https://www.marketwatch.com/bulletins/redirect/go?g=5a341833-407e-4504-b0b5-5b074a9c233a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 19:25
+
+#### [How Trump’s new tariffs could make your kitchen renovation more of a headache](https://www.marketwatch.com/bulletins/redirect/go?g=85eeac08-eadf-4736-b648-10248ec7343f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 19:04
+
+#### [Day trading is about to get a lot easier for beginners. Things could get ugly.](https://www.marketwatch.com/bulletins/redirect/go?g=b5c64d7c-2730-43f6-addf-599c119e12d3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 16:54
+
+#### [A reason to delay retirement: keeping kids on health insurance till they’re 26](https://www.marketwatch.com/bulletins/redirect/go?g=7a4d0634-7c98-4bc6-b3ba-db4da8e3bd88&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 15:33
+
+#### [Boeing’s stock in ascent as 737 Max restrictions look set to be eased](https://www.marketwatch.com/bulletins/redirect/go?g=2c5de7ad-a663-47a4-a5a6-85641e988821&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 14:41
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [People keep pushing bitcoin on me, but it crashes regularly. What am I missing?](https://www.marketwatch.com/story/people-have-predicted-dollar-doom-for-decades-what-makes-this-time-actually-different-c3521a9d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 22:09
+
+#### [The new bill tweaking Social Security’s retirement-age language may be fixing the wrong problem](https://www.marketwatch.com/story/the-new-bill-tweaking-social-securitys-retirement-age-language-may-be-fixing-the-wrong-problem-05cffc04?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 21:52
+
+#### [Sinclair, Nexstar end boycott of Jimmy Kimmel show](https://www.marketwatch.com/story/sinclair-ends-boycott-of-jimmy-kimmel-show-putting-pressure-on-nexstar-to-bring-program-back-b40d0ec0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 21:33
+
+#### [Boeing’s stock takes off as some 737 Max restrictions set to ease](https://www.marketwatch.com/story/boeings-stock-takes-off-as-max-737-restrictions-look-set-to-ease-276ee3f4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:53
+
+#### [Videogame maker Electronic Arts’ stock jumps on news of take-private deal](https://www.marketwatch.com/story/videogame-maker-electronic-arts-stock-jumps-on-news-of-take-private-deal-ce173e9c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:52
+
+#### [The AI trade increasingly hinges on OpenAI — and that’s a big risk for the entire market](https://www.marketwatch.com/story/the-ai-trade-increasingly-hinges-on-openai-and-thats-a-big-risk-for-the-entire-market-aef0cf3c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:48
+
+#### [Who is Howie Rubin, the money manager charged with sex trafficking and torturing women?](https://www.marketwatch.com/story/who-is-howie-rubin-the-money-manager-charged-with-sex-trafficking-and-torturing-women-ef5699c7?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 20:47
+
+---
+
+## 🆕 最新更新 (2025-09-26 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump announces 100% tariffs on pharmaceuticals unless drug makers are building U.S. factories](https://www.marketwatch.com/story/trump-announces-100-tariffs-on-pharmaceuticals-unless-drug-makers-are-building-u-s-factories-a233958a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 02:06
+
+#### [Trump floats using tariff money to help farmers hurt by trade wars](https://www.marketwatch.com/story/trump-floats-using-tariff-money-to-help-farmers-hurt-by-trade-wars-74323f1b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 02:02
+
+#### [Should Apple buy Intel’s stock? These analysts suggest a better investment.](https://www.marketwatch.com/story/should-apple-buy-intels-stock-these-analysts-suggest-a-better-investment-3301c7d6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 00:54
+
+#### [Costco’s same-store sales miss again, but it sees benefits from extra hours, Instacart deals](https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories)
+**发布时间**: 2025-09-26 00:06
+
+#### [Opendoor’s stock soars after Jane Street’s ‘validation.’ What comes next?](https://www.marketwatch.com/story/opendoors-stock-soars-after-jane-streets-validation-what-comes-next-9fc3cdb6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 23:21
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Amazon stock is trading at a historic discount. Is it the bargain of the decade?](https://www.marketwatch.com/bulletins/redirect/go?g=1e0b3d10-a6b7-46c6-a71d-8398ea9cdbaf&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 01:03
+
+#### [Trump announces new tariffs on pharmaceuticals, kitchen cabinets, heavy trucks](https://www.marketwatch.com/bulletins/redirect/go?g=d11f8d4f-72a6-44ca-a308-2ef59f0fde84&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-26 00:07
+
+#### [Inside the zero-revenue nuclear stock whose 1,500% rally is shaking up AI trade](https://www.marketwatch.com/bulletins/redirect/go?g=58813f62-40a3-49ba-a645-442d789bf09f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 23:24
+
+---
+
+## 🆕 最新更新 (2025-09-25 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [DOGE operates ‘unchecked’ at multiple agencies, Senate report finds. Here’s what it recommends to protect Americans’ data.](https://www.marketwatch.com/story/doge-operates-unchecked-at-multiple-agencies-senate-report-finds-heres-what-it-recommends-to-protect-americans-data-5febfd5c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 23:03
+
+#### [I’m 70 and have Alzheimer’s. My son’s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?](https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 22:15
+
+#### [IBD and MarketWatch’s sixth annual survey honors most trusted financial companies](https://www.marketwatch.com/story/ibd-and-marketwatchs-sixth-annual-survey-honors-most-trusted-financial-companies-20b89393?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 22:00
+
+#### [I’m 70 and received $300K in a lawsuit. Here’s my foolproof financial plan.](https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:47
+
+#### [I inherited $600,000 in Apple shares. Am I crazy if I don’t sell them now?](https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:43
+
+#### [I’m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?](https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:42
+
+#### [Why Oracle’s ‘jumbo’ AI-fueled bond deal is so unusual](https://www.marketwatch.com/story/why-oracles-jumbo-ai-fueled-bond-deal-is-so-unusual-84569b24?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:27
+
+#### [Costco’s stock slips despite profit beat, as same-store sales miss estimates again](https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:23
+
+#### [‘I haven’t filed taxes in 20 years’: I’m 55 and about to get laid off. I’ve $1 million in crypto. Am I in big trouble?](https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 21:00
+
+#### [Demand for investment-grade bond ETFs surges as Oracle pushes up supply of new debt](https://www.marketwatch.com/story/demand-for-investment-grade-bond-etfs-surges-as-oracle-pushes-up-supply-of-new-debt-f6ff4d0c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 20:56
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [How badly could mass layoffs during a government shutdown hurt the stock market?](https://www.marketwatch.com/bulletins/redirect/go?g=986be1eb-bba6-4f5e-aa1c-bc023b0b8761&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 21:03
+
+#### [Dow, S&P and Nasdaq end lower for 3rd straight day amid rethink on Fed rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=feed2347-fce0-43c5-984e-683c69a946e3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 20:06
+
+#### [With stocks falling for the third day in a row, is a deeper pullback commencing?](https://www.marketwatch.com/bulletins/redirect/go?g=1db1f172-30a4-4b95-a1e5-b7faeddc9fe4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 19:01
+
+#### [Could the Fed skip a rate cut next month?](https://www.marketwatch.com/bulletins/redirect/go?g=757cb197-e758-4c76-9cea-ebc63cb8c1e1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 16:41
+
+#### [All living former Fed chairs petition Supreme Court on Lisa Cook’s behalf](https://www.marketwatch.com/bulletins/redirect/go?g=f53ec981-29a3-40d6-9592-94e43268f3c1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 16:02
+
+#### [She inherited $600,000 in Apple shares and wants to know if it’s safe to hang on](https://www.marketwatch.com/bulletins/redirect/go?g=b2f71334-1584-4d23-b6e4-8aec72ab5dd7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 15:38
+
+#### [Consumers credited as second-quarter U.S. growth rate is revised up to 3.8%](https://www.marketwatch.com/bulletins/redirect/go?g=9fede3d7-58c5-4ffa-87f0-fc6bac96dcbb&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 15:05
+
+#### [U.S. stock-market indexes facing first joint three-day losing streak in months](https://www.marketwatch.com/bulletins/redirect/go?g=fbd62233-305c-4429-b5e7-a6ff288d86bc&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 14:39
+
+#### [Starbucks is closing locations and cutting jobs in billion-dollar restructuring](https://www.marketwatch.com/bulletins/redirect/go?g=964106ae-1caf-4a6e-a824-7d281b8d52b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 13:20
+
+#### [CarMax shares head for 5-year low after unexpected used-car-sales decline](https://www.marketwatch.com/bulletins/redirect/go?g=1250bd47-0db3-41fa-ade1-5cdd4b1ff2e0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 13:12
+
+---
+
+## 🆕 最新更新 (2025-09-25 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Quantum-computing stocks have been red hot. HSBC has just claimed a major trading breakthrough using the technology.](https://www.marketwatch.com/story/quantum-computing-stocks-have-been-red-hot-hsbc-has-just-claimed-a-major-trading-breakthrough-using-the-technology-1497922d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 07:30
+
+---
+
+## 🆕 最新更新 (2025-09-25 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years instead.](https://www.marketwatch.com/story/trump-wanted-jimmy-kimmel-cancelled-he-gave-him-his-highest-ratings-in-10-years-instead-497f9b4f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 02:47
+
+#### [Costco’s earnings are due. The bar for growth is higher this time around.](https://www.marketwatch.com/story/costcos-earnings-are-due-the-bar-for-growth-is-higher-this-time-around-8947c118?mod=mw_rss_topstories)
+**发布时间**: 2025-09-25 01:19
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Here’s how much you should give as a wedding gift](https://www.marketwatch.com/bulletins/redirect/go?g=4d04cae2-cf09-438b-b16f-487abbc671ce&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 01:11
+
+#### [Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years](https://www.marketwatch.com/bulletins/redirect/go?g=91e97ec9-ddfe-4bc4-85b6-d93e3800e72f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-25 00:19
+
+---
+
+## 🆕 最新更新 (2025-09-24 23:18)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Now that 401(k) catch-ups for high earners have to be in a Roth, is it worth it?](https://www.marketwatch.com/bulletins/redirect/go?g=0ce36358-4b30-475a-b9a0-fb08d4bcf57b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 23:04
+
+#### [Will Apple deliver Intel its next lifeline? Why a deal would make sense.](https://www.marketwatch.com/bulletins/redirect/go?g=2df748d7-da1b-4f15-ab5f-d9984d0c835c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 22:04
+
+#### [Why employer-sponsored emergency-savings accounts are becoming a hot job perk](https://www.marketwatch.com/bulletins/redirect/go?g=e9b09052-a4b3-4f92-abd5-b17d493c9dc1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 21:39
+
+#### [Here's how stocks have fared after Fed rate cuts when trading near record highs](https://www.marketwatch.com/bulletins/redirect/go?g=64234bd6-17b3-42ae-b937-57aded4fc25d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 20:47
+
+#### [Dow, S&P 500 and Nasdaq book back-to-back losses as stocks extend pullback](https://www.marketwatch.com/bulletins/redirect/go?g=87c3f470-1b61-499e-90e4-381e8f5de92d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 20:02
+
+#### [Fed’s Powell says stocks are ‘highly valued.’ These 3 charts show he’s right.](https://www.marketwatch.com/bulletins/redirect/go?g=6a48017f-a4d4-43cb-bcf7-bdcc34a343f5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 18:57
+
+#### [U.S. plans $20 billion lifeline for Argentina amid fiscal crisis: Bessent](https://www.marketwatch.com/bulletins/redirect/go?g=5870528c-4cf8-4695-98a7-0c6bd178297f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 17:22
+
+#### [Lithium Americas shares double on report White House seeks stake](https://www.marketwatch.com/bulletins/redirect/go?g=decdf9a3-7ad9-49f4-8595-c46ddb33c47e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 15:20
+
+#### [Discounting cited as U.S. new-home sales spike to three-year high](https://www.marketwatch.com/bulletins/redirect/go?g=e10d61ce-1f3c-45cd-8d4c-2f3b0ef421b5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 14:28
+
+#### [Economic calendar: New-home sales to offer the latest U.S. economy snapshot](https://www.marketwatch.com/bulletins/redirect/go?g=8c8d4dd8-972c-46a4-82a0-72a12406098f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 12:24
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [IRS rules now say 401(k) catch-ups for high earners have to be in a Roth. Is it still worth it?](https://www.marketwatch.com/story/irs-rules-now-say-401-k-catchups-for-high-earners-have-to-be-in-a-roth-is-it-still-worth-it-4b2f07bd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 23:02
+
+#### [Alibaba stock is flying higher, two days after Cathie Wood’s first purchase since 2021](https://www.marketwatch.com/story/alibaba-stock-is-flying-higher-two-days-after-cathie-woods-first-purchase-since-2021-fd2c842f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 22:30
+
+#### [Is Marvell’s stock cheap? This $1 billion move shows the company seems to think so.](https://www.marketwatch.com/story/is-marvells-stock-cheap-this-1-billion-move-shows-the-company-seems-to-think-so-0af85c3c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 22:28
+
+#### [Micron gave Wall Street more than it wanted. Why isn’t the stock higher?](https://www.marketwatch.com/story/micron-gave-wall-street-more-than-it-wanted-why-isnt-the-stock-higher-dc157ffa?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 22:26
+
+#### [Will Apple deliver Intel its next lifeline? Here’s why analysts think a deal would make sense.](https://www.marketwatch.com/story/will-apple-deliver-intel-its-next-lifeline-heres-why-analysts-think-a-deal-would-make-sense-378cbb64?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 21:59
+
+#### [Social Security’s new commissioner, rule reversals and cost cuts: Here’s everything that’s happening at the agency](https://www.marketwatch.com/story/social-security-under-pressure-heres-whats-happening-now-f0c4b44a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 21:49
+
+#### [Why it’s time to sell Bloom Energy’s stock after its AI-fueled rally](https://www.marketwatch.com/story/why-its-time-to-sell-bloom-energys-stock-after-its-ai-fueled-rally-c8134e71?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:59
+
+#### [Should you still invest in small-cap stocks after their big gains?](https://www.marketwatch.com/story/should-you-still-invest-in-small-cap-stocks-after-their-big-gains-90b45196?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:57
+
+#### [Here’s why biotech UniQure’s stock just tripled, and brought ClearPoint shares up with it](https://www.marketwatch.com/story/heres-why-biotech-uniqures-stock-just-tripled-and-brought-clearpoint-shares-up-with-it-d10766d2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:37
+
+#### [Here’s how stocks historically perform after Fed rate cuts when trading near record highs](https://www.marketwatch.com/story/heres-how-stocks-historically-perform-after-fed-rate-cuts-when-trading-near-record-highs-6bb0fa9a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 20:17
+
+---
+
+## 🆕 最新更新 (2025-09-24 05:23)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What Jimmy Kimmel said in his first show back may not matter. Disney has already been hammered by the culture wars.](https://www.marketwatch.com/story/what-jimmy-kimmel-says-in-his-first-show-back-may-not-matter-disney-has-already-been-hammered-by-the-culture-wars-7083876a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 04:11
+
+#### [Here’s Palantir’s ‘secret sauce,’ which these analysts say can boost the stock even more](https://www.marketwatch.com/story/heres-palantirs-secret-sauce-which-these-analysts-say-can-boost-the-stock-even-more-8d827f11?mod=mw_rss_topstories)
+**发布时间**: 2025-09-24 02:16
+
+#### [Nvidia’s OpenAI deal adds to a brewing concern. But will that actually hurt the stock?](https://www.marketwatch.com/story/nvidias-openai-deal-adds-to-a-brewing-concern-but-will-that-actually-hurt-the-stock-3bc3a015?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 23:34
+
+#### [Why the rally in stocks may only pause into year-end despite a ‘stretched’ market](https://www.marketwatch.com/story/why-the-rally-in-stocks-may-see-just-a-pause-into-year-end-despite-a-stretched-market-ba718e0a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 23:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The case against Roth conversions: Most early retirees won’t see the benefit](https://www.marketwatch.com/bulletins/redirect/go?g=e775229e-6eab-4c19-9c51-c1633a827cfc&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-24 01:06
+
+---
+
+## 🆕 最新更新 (2025-09-23 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These top U.S. universities produce the most multimillionaires and billionaires](https://www.marketwatch.com/bulletins/redirect/go?g=f0caa9d6-1104-492a-8dad-84666893518a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 23:09
+
+#### [Why the rally in stocks may only see a ‘pause’ heading into year's end](https://www.marketwatch.com/bulletins/redirect/go?g=91c45f44-8861-4dc0-9662-52e99a78aa2d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 23:07
+
+#### [Another Lululemon bull jumps ship. Here’s why the troubles are far from over.](https://www.marketwatch.com/bulletins/redirect/go?g=408c64d3-71fa-4807-bf15-2a65b6e5fa0e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 22:10
+
+#### [Amazon’s stock is Big Tech’s biggest loser in 2025 as the cloud race heats up](https://www.marketwatch.com/bulletins/redirect/go?g=b8640035-7cd7-4860-8f16-6727677b8a6c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 21:17
+
+#### [Micron’s stock gains as the memory-chip maker clears a high bar](https://www.marketwatch.com/bulletins/redirect/go?g=eca2ce85-ffc6-4e2c-bfa3-1e2e9bde9dac&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 20:41
+
+#### [S&P 500 snaps 3-day win streak, Nasdaq tumbles 1% as AI frenzy fizzles](https://www.marketwatch.com/bulletins/redirect/go?g=6da5af83-895a-44cc-b9b3-071bb167e31d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 20:05
+
+#### [The AI boom has turned this age-old investing rule on its head](https://www.marketwatch.com/bulletins/redirect/go?g=7d9a832e-f2a1-4d8c-bce8-71aff6519c4a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 19:20
+
+#### [Why what Jimmy Kimmel says or doesn’t say tonight is of little import to Disney](https://www.marketwatch.com/bulletins/redirect/go?g=73667d53-1131-4df7-aba1-0b28eb42ff64&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 18:22
+
+#### [Dow joins Nasdaq and S&P 500 in negative territory as AI frenzy fizzles](https://www.marketwatch.com/bulletins/redirect/go?g=661de984-5103-4160-a335-f32ea8d87956&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 17:46
+
+#### [U.S. economy still struggling to adjust to tariffs, S&P Global finds](https://www.marketwatch.com/bulletins/redirect/go?g=b16e90d8-c93c-41c0-8e2b-18047bac2da1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 14:50
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This overlooked group of stocks might be your portfolio’s missing piece](https://www.marketwatch.com/story/this-overlooked-group-of-stocks-might-be-your-portfolios-missing-piece-dd00f96c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 23:05
+
+#### [Why the rally in stocks may only ‘pause’ into year-end despite a ‘stretched’ market](https://www.marketwatch.com/story/why-the-rally-in-stocks-may-see-just-a-pause-into-year-end-despite-a-stretched-market-ba718e0a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 23:00
+
+#### [‘I am mentally stuck’: My daughter has a financially reckless spouse. How do I protect her?](https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 22:48
+
+#### [‘I want to live in a place that I can enjoy’: I’m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?](https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 22:47
+
+#### [Micron’s stock gains as the memory-chip maker clears a high bar](https://www.marketwatch.com/story/microns-stock-gains-as-the-memory-chip-maker-clears-a-high-bar-d4c13a92?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 21:55
+
+#### [I’m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?](https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 21:48
+
+#### [How China could claim a much bigger slice of the world’s gold-trading business](https://www.marketwatch.com/story/how-china-could-claim-a-much-bigger-slice-of-the-worlds-gold-trading-business-41313186?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 21:06
+
+#### [Another Lululemon bull jumps ship. Here’s why the troubles are far from over.](https://www.marketwatch.com/story/another-lululemon-bull-jumps-ship-heres-why-the-troubles-are-far-from-over-fde88b9e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 20:53
+
+#### [‘I changed my will to deter vultures’: I’m in my 60s and disabled. Do I impoverish myself to qualify for Medicaid?](https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 20:41
+
+#### [Amazon’s stock is now Big Tech’s biggest loser in 2025 as the cloud race heats up](https://www.marketwatch.com/story/amazons-stock-is-now-big-techs-biggest-loser-in-2025-as-the-cloud-race-heats-up-030f8358?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 20:40
+
+---
+
+## 🆕 最新更新 (2025-09-23 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oracle’s stock leaps on TikTok deal, but a major concern persists](https://www.marketwatch.com/story/oracles-stock-leaps-on-tiktok-deal-but-a-major-concern-persists-da0682eb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 01:55
+
+#### [Jimmy Kimmel supporters who pushed for Disney boycott take victory lap over his return to ABC](https://www.marketwatch.com/story/jimmy-kimmel-supporters-who-pushed-for-disney-boycott-take-victory-lap-over-his-return-to-abc-91a84c4d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-23 00:59
+
+#### [You’re just getting scraps from the stock market. Here’s where the big money is made.](https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:53
+
+#### [Jimmy Kimmel show returning after ABC pulled it in response to blowback from White House](https://www.marketwatch.com/story/jimmy-kimmel-show-returning-after-abc-pulled-it-in-response-to-blowback-from-white-house-e7e793f0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:38
+
+#### [When the world’s largest asset manager and the ‘bond king’ both agree — run to gold, silver and bitcoin](https://www.marketwatch.com/story/when-the-worlds-largest-asset-manager-and-the-bond-king-both-agree-run-to-gold-silver-and-bitcoin-07affec3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:22
+
+#### [Oracle is getting two new CEOs. Why that’s good news for the stock.](https://www.marketwatch.com/story/oracle-is-getting-two-new-ceos-what-does-that-mean-for-the-stock-02e0e846?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:20
+
+#### [Palantir has ‘main-character energy.’ Here’s how that can help its stock power higher.](https://www.marketwatch.com/story/palantir-has-main-character-energy-heres-how-that-can-help-its-stock-power-higher-065aed80?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Jimmy Kimmel returns, supporters who pushed for Disney boycott take victory lap](https://www.marketwatch.com/bulletins/redirect/go?g=fe1e94b2-96b9-4fd9-b010-96eb8090aff2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 01:09
+
+#### [Opinion: How to plan around Trump policies that put your retirement at risk](https://www.marketwatch.com/bulletins/redirect/go?g=4ddac1c7-12b1-47a6-97f9-33a009dbec5c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-23 01:03
+
+---
+
+## 🆕 最新更新 (2025-09-22 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple’s stock surges to a 2025 high on hot iPhone 17 demand. Can the rally continue?](https://www.marketwatch.com/story/apples-stock-surges-to-a-2025-high-on-hot-iphone-17-demand-can-the-rally-continue-56afe428?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:16
+
+#### [The small-business hiring engine is sputtering. Why that’s a red flag for the economy.](https://www.marketwatch.com/story/the-small-business-hiring-engine-is-sputtering-thats-a-red-flag-for-the-economy-12428cce?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 23:09
+
+#### [Kenvue says Tylenol is safe, but stock hits record low as Trump makes unproven link to autism](https://www.marketwatch.com/story/kenvue-says-tylenol-is-safe-but-stock-hits-record-low-ahead-of-trump-speech-c56b8d29?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:39
+
+#### [Fed chief Powell is talking about the U.S. economy again. And Wall Street is all ears.](https://www.marketwatch.com/story/fed-chief-powell-is-talking-about-the-u-s-economy-again-and-wall-street-is-all-ears-af470c24?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:04
+
+#### [Here’s what matters most for Micron’s stock going into earnings](https://www.marketwatch.com/story/heres-what-matters-most-for-microns-stock-going-into-earnings-777ebe32?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:04
+
+#### [I’m in the U.S. on an H-1B work visa and worried about my job status. What should I do now?](https://www.marketwatch.com/story/im-in-the-u-s-on-an-h-1b-work-visa-and-worried-about-my-job-status-what-should-i-do-now-8e57de40?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 22:04
+
+#### [‘My grief makes decisions difficult’: My daughter has a financially reckless spouse. How do I protect her?](https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 21:30
+
+#### [‘I changed my will to deter vultures’: I’m in my 60s and disabled. Do I spend down my assets to qualify for Medicaid?](https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 21:00
+
+#### [My former mother-in-law left a $1 million estate. Can I sue my ex-husband for a share of it?](https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 20:53
+
+#### [Lam Research’s stock is having a historic rally. Now a crucial test looms.](https://www.marketwatch.com/story/lam-researchs-stock-is-having-a-historic-rally-now-a-crucial-test-looms-a1ded880?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 20:37
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These are the top 22 stocks pushing the S&P 500 into record territory](https://www.marketwatch.com/bulletins/redirect/go?g=b0931121-9bdb-406a-a825-e4445b7f7041&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 23:00
+
+#### [Oracle’s stock leaps on TikTok deal, but a major concern persists](https://www.marketwatch.com/bulletins/redirect/go?g=3bc11be4-02a3-4768-8b4b-04fa2bfd9998&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 21:15
+
+#### [Jimmy Kimmel show to return after ABC pulled it over Charlie Kirk comments](https://www.marketwatch.com/bulletins/redirect/go?g=befa0502-93e6-4f0d-a96a-3ccabd87dc00&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 20:20
+
+#### [Dow, S&P and Nasdaq end at all-time highs; gold books 36th record close of 2025](https://www.marketwatch.com/bulletins/redirect/go?g=46b0bb9d-1878-46ae-8227-cbb362769d29&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 20:03
+
+#### [Gold hit another record high. Has it formed a bubble yet?](https://www.marketwatch.com/bulletins/redirect/go?g=ab9f3a89-a995-42dc-9309-71aad266000b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 19:51
+
+#### [Kenvue says Tylenol is safe, but stock hits record low ahead of Trump speech](https://www.marketwatch.com/bulletins/redirect/go?g=60c9199f-11fd-49b2-a01c-2b1966e6c965&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 19:14
+
+#### [Here’s why Nvidia is investing $100 billion in OpenAI](https://www.marketwatch.com/bulletins/redirect/go?g=c7b345c4-6595-4c0e-8116-feb0334d6445&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 16:56
+
+#### [Gold extends record run as Dow erases loss to follow S&P into positive territory](https://www.marketwatch.com/bulletins/redirect/go?g=5d31bd8e-fdab-4f54-be7e-bbddeea7abb6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 15:32
+
+#### [Where do U.S. stocks rank as global markets soar in 2025?](https://www.marketwatch.com/bulletins/redirect/go?g=7aa9da86-b83e-4c5f-bce7-9063d8f2ba2c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 14:04
+
+#### [There’s a new red flag for the economy from the U.S.’s small businesses](https://www.marketwatch.com/bulletins/redirect/go?g=d2892c68-c9be-47a4-971d-d827ad6be710&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 12:24
+
+---
+
+## 🆕 最新更新 (2025-09-22 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures dip after Friday’s record highs, even as ‘the market has learned to thrive in ambiguity’](https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 02:13
+
+#### [Why the bull market for stocks may now hinge on the 10-year Treasury yield](https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-22 00:33
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Now that the Fed has cut rates, investors can focus on what really matters](https://www.marketwatch.com/bulletins/redirect/go?g=04147b52-630f-4691-937f-210071aa5b70&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-22 01:01
+
+#### [This seasonal stock-market trading pattern is coming up — and worth observing](https://www.marketwatch.com/bulletins/redirect/go?g=55d9c062-47e0-45fb-9814-0684db6fbd02&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 23:46
+
+---
+
+## 🆕 最新更新 (2025-09-21 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat after Friday’s record highs, as ‘market has learned to thrive in ambiguity’](https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 23:00
+
+#### [‘I feel overwhelmed’: I’m a widow in my early 40s with 3 children. My IRAs are worth $330K. Will we be OK?](https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 22:26
+
+#### [Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.](https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 21:30
+
+#### [Bad news for coffee drinkers: The record-high prices you’re paying will go even higher when tariffs take their toll](https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 19:20
+
+#### [Now that the Fed has cut rates, investors can focus on what really matters for markets](https://www.marketwatch.com/story/now-that-the-fed-has-cut-rates-investors-can-focus-on-what-really-matters-for-markets-7e09cae2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 19:12
+
+#### [My mother’s lawyer stole $400K after she moved to a nursing home. How do we get our money back?](https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 13:00
+
+#### [Are your parents afraid of investing in crypto? How to talk with them so they’ll actually listen.](https://www.marketwatch.com/story/i-was-fearful-how-this-father-learned-to-take-crypto-advice-from-his-adult-child-c6b85826?mod=mw_rss_topstories)
+**发布时间**: 2025-09-21 12:07
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures little changed following Friday’s record highs](https://www.marketwatch.com/bulletins/redirect/go?g=89466d15-614b-4dd9-8b00-41f721b3804b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 22:17
+
+#### [Forget chips: The next battleground in the U.S.-China AI race is nuclear power](https://www.marketwatch.com/bulletins/redirect/go?g=799c1214-e24c-4e43-bc7e-3f204b3afd11&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 20:13
+
+#### [Why the record-high prices you’re paying for coffee will go even higher](https://www.marketwatch.com/bulletins/redirect/go?g=5e9b87b6-5f8c-43aa-837e-246f8f706a32&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-21 18:49
+
+---
+
+## 🆕 最新更新 (2025-09-20 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My in-laws, 95, are leaving us $250K. What’s the smart way to invest this money?](https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 20:01
+
+#### [Social Security’s dead people and Medicare’s fraudsters are real. But stopping them won’t rescue the federal budget.](https://www.marketwatch.com/story/social-securitys-dead-people-and-medicares-fraudsters-real-but-stopping-them-wont-save-the-budget-ed7c89b0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 18:43
+
+#### [$1,525 for a ‘Hamilton’ ticket? Why premium seats on Broadway are getting so expensive.](https://www.marketwatch.com/story/have-a-spare-1-525-thats-what-the-top-ticket-to-hamilton-now-costs-on-broadway-dde2bcb2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 17:14
+
+#### [Should we drain our $200,000 savings for Roth conversions on $2.3 million in our 60s?](https://www.marketwatch.com/story/should-we-drain-our-200-000-savings-for-roth-conversions-on-2-3-million-in-our-60s-4d710f5d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-20 16:54
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.](https://www.marketwatch.com/bulletins/redirect/go?g=06ac0b67-72ff-4f53-ab0c-20a63e009e17&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-20 14:25
+
+#### [Forget chips: The next battleground in the U.S.-China AI race is nuclear power](https://www.marketwatch.com/bulletins/redirect/go?g=594b999f-d9a0-49fb-8751-3d6e9d7261ef&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-20 13:45
+
+#### [Why the bull market for stocks may now hinge on the 10-year Treasury yield](https://www.marketwatch.com/bulletins/redirect/go?g=28f6935b-681f-4d6a-b3a3-b6f40203b1ef&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-20 13:14
+
+---
+
+## 🆕 最新更新 (2025-09-19 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Can Taylor Swift save the movie industry again with her ‘Showgirl’ film release?](https://www.marketwatch.com/bulletins/redirect/go?g=a2d73b09-87e2-452c-b331-8a801f39dee3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 22:41
+
+#### [Stocks often suffer in late September. Why the bears may be kept away this time.](https://www.marketwatch.com/bulletins/redirect/go?g=f9902fe9-e916-46e7-8ced-6fecbfec551b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 21:56
+
+#### [People say Apple’s new iPhone scratches easily; analysts say it won't hurt sales](https://www.marketwatch.com/bulletins/redirect/go?g=94145ee5-9dab-47b7-8bae-026d3f379bd3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 21:04
+
+#### [Dow, S&P 500 and Nasdaq close at fresh records as U.S. stocks score weekly gains](https://www.marketwatch.com/bulletins/redirect/go?g=4f2c376e-53fe-4fa7-87fb-f24083935e7a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 20:01
+
+#### [Trump touts TikTok deal — but doesn’t address fear that China ‘retains a veto’](https://www.marketwatch.com/bulletins/redirect/go?g=b4e2dbbd-9177-4356-ab27-36a367e73984&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 19:41
+
+#### [Dow, S&P 500 and Nasdaq all on track for records in final hour — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=c13ba303-62c5-4158-8263-2132551c89e0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 19:02
+
+#### [Analysts offer theories as to why Microsoft's stock has fallen out of favor](https://www.marketwatch.com/bulletins/redirect/go?g=ba5143c8-d642-450c-996e-c31546d6bed4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 18:30
+
+#### [A government shutdown looms as the Senate rejects the latest spending bill](https://www.marketwatch.com/bulletins/redirect/go?g=8b573b3a-ceae-4556-8d45-dcdbcda24567&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 17:58
+
+#### [How Nexstar became the tip of the spear in a free-speech fight over Jimmy Kimmel](https://www.marketwatch.com/bulletins/redirect/go?g=97f01324-47ec-410d-af21-1a2fe792df26&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 17:23
+
+#### [Small-cap Russell 2000 steps back as other equity indexes rise — live coverage](https://www.marketwatch.com/bulletins/redirect/go?g=12006e0d-1436-482d-b104-632237c4ef40&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 16:44
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers — and not her fans](https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 22:27
+
+#### [Taylor Swift tries to save the movie industry again with ‘Showgirl’ film release](https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 21:47
+
+#### [Trump touts TikTok deal but doesn’t address fear that China ‘retains a veto’](https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 21:08
+
+#### [Stocks tend to suffer in the second half of September — but the Fed’s rate cut might keep bears at bay](https://www.marketwatch.com/story/stocks-tend-to-suffer-in-the-second-half-of-september-but-the-feds-rate-cut-might-keep-bears-at-bay-6aa7d63b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 21:00
+
+#### [Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.](https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:54
+
+#### [People are complaining that Apple’s new iPhone 17 scratches easily — but these Wall Street analysts say it won’t hurt sales](https://www.marketwatch.com/story/people-are-complaining-that-apples-new-iphone-17-scratches-easily-but-these-wall-street-analysts-say-it-wont-hurt-sales-9890ade2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:45
+
+#### [COVID-19 vaccine recommendations dropped by panel, shots won’t require a prescription](https://www.marketwatch.com/story/covid-19-vaccine-wont-require-a-prescription-according-to-hhs-panel-vote-c68d7d94?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:38
+
+#### [Social Security is on track to be insolvent in less than 10 years — but its commissioner says there’s ‘plenty of time’ to find a solution](https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 20:21
+
+---
+
+## 🆕 最新更新 (2025-09-19 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Google searches for ‘help with mortgage’ haven’t been this high since 2009](https://www.marketwatch.com/story/google-searches-for-help-with-mortgage-havent-been-this-high-since-2009-7e0354cf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 02:50
+
+#### [Why mortgage rates are actually going up after the Fed cut interest rates](https://www.marketwatch.com/story/why-mortgage-rates-are-actually-going-up-after-the-fed-cut-interest-rates-87c712bd?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 02:05
+
+#### [How much money will you get in the Facebook settlement? Here’s how class-action suits work.](https://www.marketwatch.com/story/filing-a-claim-as-part-of-the-at-t-177-million-settlement-that-could-just-be-the-start-of-your-class-action-journey-a4d33066?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 00:50
+
+#### [‘I spend 5 hours a day on my portfolio’: I’m 70 and received $300K in a lawsuit. Here’s my foolproof financial plan.](https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 00:15
+
+#### [Netskope leaps into a hot IPO market, and the cybersecurity stock jumps 18% in its debut](https://www.marketwatch.com/story/hot-ipo-market-continues-as-cybersecurity-software-company-netskope-raises-908-million-ac0e368a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-19 00:02
+
+#### [Boycott Disney over pulling Jimmy Kimmel? Why the company will likely fare better than Tesla and Bud Light did.](https://www.marketwatch.com/story/boycott-disney-over-pulling-jimmy-kimmel-why-the-company-will-likely-fare-better-than-tesla-and-bud-light-did-ae6d7759?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 23:44
+
+#### [Intel’s stock is soaring. Here’s why Nvidia is investing $5 billion in the chip maker.](https://www.marketwatch.com/story/intels-stock-is-soaring-why-nvidia-is-investing-5-billion-in-the-chip-maker-e1296651?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 23:42
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fans hate dynamic pricing -- but here's why ticket scalpers do too](https://www.marketwatch.com/bulletins/redirect/go?g=c87da26b-e899-4530-ba60-209ad67b797b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-19 01:04
+
+---
+
+## 🆕 最新更新 (2025-09-18 23:22)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Treasury yields rise after Fed rate cut; Powell in no ‘sprint’ to loosen policy](https://www.marketwatch.com/bulletins/redirect/go?g=b7b0a23c-090a-4726-bcf5-d1e8bee0dd4f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 23:20
+
+#### [Why the $300 billion Oracle-OpenAI deal could be fueling an AI bubble](https://www.marketwatch.com/bulletins/redirect/go?g=6c961013-55e1-403d-a7a8-0a5d035641c6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 23:19
+
+#### [Is AMD in trouble as Nvidia and Intel pair up? Not so fast, analysts say.](https://www.marketwatch.com/bulletins/redirect/go?g=5daf4857-9632-40ef-bb9c-751d7c35f250&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 22:04
+
+#### [As Russell 2000 scores record high, why the small-cap rally has room to run](https://www.marketwatch.com/bulletins/redirect/go?g=4a0be4df-8801-45e2-bcc2-435e26b7fe03&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 21:42
+
+#### [The bureaucratic mess facing disabled student-loan borrowers seeking debt relief](https://www.marketwatch.com/bulletins/redirect/go?g=e0f4988f-c619-456b-bb17-3d29b5ee708e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 21:10
+
+#### [Disney faces boycott after pulling Kimmel. Why it would fare better than Tesla.](https://www.marketwatch.com/bulletins/redirect/go?g=7d10946c-5aef-4bfe-8848-092df9da2514&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 20:21
+
+#### [Russell 2000 books first record close in 4 years as U.S. stocks end higher](https://www.marketwatch.com/bulletins/redirect/go?g=e63a8a00-e7b8-4887-aa1d-fcdb880b3186&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 20:03
+
+#### [Why mortgage rates are actually going up after the Fed cut interest rates](https://www.marketwatch.com/bulletins/redirect/go?g=eb14577e-bfd7-4e0e-896d-07457ae39411&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 19:04
+
+#### [This seasonal stock-market trading pattern is coming up — and worth observing](https://www.marketwatch.com/bulletins/redirect/go?g=3a57ad10-ddeb-427c-b5c2-820249a7607f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 16:48
+
+#### [This hedge-fund billionaire is ‘miserable’ about the big year he’s having](https://www.marketwatch.com/bulletins/redirect/go?g=580b1a1f-4936-45c9-a77e-4663a2d4bb22&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 16:06
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Treasury yields rise after Fed rate cut, with Powell in no ‘sprint’ to loosen policy](https://www.marketwatch.com/story/treasury-yields-rise-after-fed-rate-cut-with-powell-in-no-sprint-to-loosen-policy-5fbcfc3d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 23:12
+
+#### [One reason NBA star Kevin Durant is holding onto his bitcoin: He can’t get into his Coinbase account](https://www.marketwatch.com/story/one-reason-nba-star-kevin-durant-is-holding-onto-his-bitcoin-he-cant-get-into-his-coinbase-account-fcb5b58f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:37
+
+#### [One big takeaway from Fed rate cuts: Bulk up on these two investments](https://www.marketwatch.com/story/this-fed-has-its-head-in-the-sand-but-at-least-now-we-know-where-to-invest-a039fdb8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:26
+
+#### [FedEx offers this number in an early sign that trade uncertainty is easing](https://www.marketwatch.com/story/fedex-just-gave-investors-a-reason-to-be-more-optimistic-812ae005?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:26
+
+#### [Ditch quarterly earnings like Trump says? What’s needed is better reporting — not less.](https://www.marketwatch.com/story/ditch-quarterly-earnings-like-trump-says-whats-needed-is-better-reporting-not-less-7780011e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:23
+
+#### [The Fed has no problem with rate cuts — and neither does the stock market](https://www.marketwatch.com/story/the-fed-has-no-problem-with-rate-cuts-and-neither-does-the-stock-market-8605788a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:14
+
+#### [I’m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?](https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:07
+
+#### [My friends bought a house together. How do they untangle themselves from this mess?](https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 22:04
+
+---
+
+## 🆕 最新更新 (2025-09-18 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security could change eligibility rules for disability — blocking benefits for 750,000 disabled Americans](https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 04:01
+
+#### [Hot IPO market continues, as cybersecurity-software company Netskope raises $908 million](https://www.marketwatch.com/story/hot-ipo-market-continues-as-cybersecurity-software-company-netskope-raises-908-million-ac0e368a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 02:52
+
+#### [This $1.6 billion deal is a sign that the worst of the crisis in office real estate is in the past](https://www.marketwatch.com/story/this-1-6-billion-deal-is-a-sign-that-theworst-ofthe-crisis-in-office-real-estate-is-in-the-past-bf7fbb45?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 02:15
+
+#### [ABC pulls Jimmy Kimmel  following government pushback over Charlie Kirk comments](https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 00:53
+
+#### [Cracker Barrel now expects fewer diners in the months ahead, and the stock is plunging](https://www.marketwatch.com/story/cracker-barrel-tried-to-win-back-customers-by-abandoning-its-logo-and-remodels-but-it-still-sees-fewer-diners-up-ahead-0c9f9b1d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 00:48
+
+#### [My fiancée and I are 61. I’m moving into her home. How do we divide the expenses fairly?](https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories)
+**发布时间**: 2025-09-18 00:11
+
+#### [Fed likely to cut rates again in October, and 3 other things we learned from Powell’s press conference](https://www.marketwatch.com/story/fed-likely-to-cut-rates-again-in-october-and-3-other-things-we-learned-from-powells-press-conference-a03fb5ae?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 23:50
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Another Fed rate cut likely, and 3 other things we learned from Powell today](https://www.marketwatch.com/bulletins/redirect/go?g=ab56e8b5-bfed-4b76-bfaa-84de34a9530d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-18 01:05
+
+#### [Jimmy Kimmel pulled by ABC amid affiliate revolt following Charlie Kirk remarks](https://www.marketwatch.com/bulletins/redirect/go?g=d9248a54-4d4d-4b0d-8ec7-feae1f2ac061&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 23:57
+
+---
+
+## 🆕 最新更新 (2025-09-17 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My mother’s lawyer stole $400K after she moved to a nursing home. How can we get justice?](https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 23:10
+
+#### [Nvidia’s stock falls on China fears. How much should investors worry?](https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 23:05
+
+#### [This Fed move can help job seekers even more than the latest interest-rate cut](https://www.marketwatch.com/story/this-fed-move-can-help-job-seekers-even-more-than-the-latest-interest-rate-cut-7481498e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 22:29
+
+#### [‘Am I the biggest loser with the Fed rate cut?’ I’m 68, retired and live off IRAs and Social Security](https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 22:10
+
+#### [Bots make buying concert tickets a nightmare. Could the FTC’s Ticketmaster probe help?](https://www.marketwatch.com/story/bots-make-buying-concert-tickets-a-nightmare-could-the-ftcs-ticketmaster-probe-help-4607ae08?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 22:05
+
+#### [Inflation fears surge to their highest levels since ‘liberation day’ as Fed cuts rates](https://www.marketwatch.com/story/inflation-fears-surge-to-highest-since-liberation-day-as-fed-cuts-rates-abe9778f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 21:21
+
+#### [Markets didn’t know which way to go after Wednesday’s Fed rate cut. Expect more volatility ahead.](https://www.marketwatch.com/story/markets-didnt-know-which-way-to-go-after-wednesdays-fed-rate-cut-expect-more-volatility-ahead-58153795?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:49
+
+#### [StubHub’s stock dips in a mixed reaction to the polarizing practice of ticket resales and signals of a softer economy](https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:47
+
+#### [Cracker Barrel tried to win back customers by abandoning its logo and remodels. But it still sees fewer diners up ahead.](https://www.marketwatch.com/story/cracker-barrel-tried-to-win-back-customers-by-abandoning-its-logo-and-remodels-but-it-still-sees-fewer-diners-up-ahead-0c9f9b1d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:42
+
+#### [Protein snacks are getting more popular thanks to weight-loss drugs, says General Mills](https://www.marketwatch.com/story/protein-snacks-are-getting-more-popular-thanks-to-weight-loss-drugs-says-general-mills-7455a04f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 20:35
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Bots make buying concert tickets a nightmare. Can FTC’s Ticketmaster probe help?](https://www.marketwatch.com/bulletins/redirect/go?g=391278b1-dc70-4e74-947e-ca31506bbf28&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 22:17
+
+#### [Why this $1.6B deal shows the worst of the office real-estate crisis is over](https://www.marketwatch.com/bulletins/redirect/go?g=01682753-a85e-454a-bef9-d9902cb3838b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 21:48
+
+#### [Markets didn’t know which way to go after Fed rate cut. Expect more volatility.](https://www.marketwatch.com/bulletins/redirect/go?g=074cfd5a-a585-4e8b-8693-5ea48fcb5b40&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 20:53
+
+#### [Tesla’s stock keeps winning streak alive — making Elon Musk $40 billion richer](https://www.marketwatch.com/bulletins/redirect/go?g=6afea678-d882-40e6-83af-ee385890798a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 20:29
+
+#### [Dow ends higher, S&P 500 and Nasdaq fall as Fed rate cut triggers volatile trade](https://www.marketwatch.com/bulletins/redirect/go?g=ec07867d-68f1-4526-b668-9c0f8e4e5ac7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 20:04
+
+#### [Powell, Fed officials less worried about tariff inflation, see longer path to 2%](https://www.marketwatch.com/bulletins/redirect/go?g=b77a5287-d6fb-43b2-9459-0d4c5e09e4ec&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 19:52
+
+#### [U.S. stocks seesaw, Treasury yields rise as Powell discusses Fed rate cut — live](https://www.marketwatch.com/bulletins/redirect/go?g=9527d306-c0bd-470d-bc1f-3f65837a97b8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 19:20
+
+#### [Dow pulls back from intraday record after Fed rate cut; S&P 500 and Nasdaq slide](https://www.marketwatch.com/bulletins/redirect/go?g=c7d15882-434c-42c2-abe2-08080263bad8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 18:41
+
+#### [Fed lowers key interest rate by quarter-point and signals two further 2025 cuts](https://www.marketwatch.com/bulletins/redirect/go?g=0cccef18-8252-406e-a716-3ef915539ae7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 18:03
+
+#### [Have questions about today’s Fed decision? Post them here. We’ll answer live.](https://www.marketwatch.com/bulletins/redirect/go?g=c08267c2-0a14-43fa-bbd3-bda6df9fd28d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 17:49
+
+---
+
+## 🆕 最新更新 (2025-09-17 05:24)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bloom Energy’s stock is surging — and could ride Oracle’s growth to even more gains](https://www.marketwatch.com/story/bloom-energys-stock-is-surging-and-could-ride-oracles-growth-to-even-more-gains-25c30ff3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-17 01:39
+
+#### [‘I am highly alarmed by the proposed changes to retirement accounts’: I don’t want bitcoin or private equity in my 401(k). What can I do?](https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 23:24
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [StubHub prices IPO at $23.50, raising about $800 million](https://www.marketwatch.com/bulletins/redirect/go?g=2befa874-a689-47e0-826c-1037ba703aea&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-17 00:08
+
+#### [10 bargain stocks of companies that can increase profits faster than the S&P 500](https://www.marketwatch.com/bulletins/redirect/go?g=8f7062fe-db4a-4963-a28e-b1d5ddcf4862&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 23:28
+
+---
+
+## 🆕 最新更新 (2025-09-16 23:14)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s a mess’: My unmarried friends bought a house together. What’s the best way for one to buy the other out?](https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 23:13
+
+#### [‘I am my mother’s caregiver’: My mom, 93, added my name to her retirement accounts. Will she qualify for Medicaid?](https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 23:02
+
+#### [Markets are pricing in three rate cuts by year-end. Here’s where to put your money.](https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:47
+
+#### [Why the Fed’s rate cut might not boost the economy](https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:29
+
+#### [What stocks may need to rise in ‘a market for only the most bright-eyed optimists’](https://www.marketwatch.com/story/what-stocks-may-need-to-rise-in-a-market-for-only-the-most-bright-eyed-optimists-eda86071?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:23
+
+#### [Does Palantir face a new threat from Salesforce? Software giants clash over lucrative government contracts.](https://www.marketwatch.com/story/does-palantir-face-a-new-threat-from-salesforce-software-giants-clash-over-lucrative-government-contracts-22ccef39?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 22:10
+
+#### [The end of ‘de minimis’ has hit Temu and Shein. Now it’s a problem for bigger companies like FedEx.](https://www.marketwatch.com/story/the-end-of-de-minimis-has-hit-temu-and-shein-now-its-a-problem-for-bigger-companies-like-fedex-e91f9016?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 21:35
+
+#### [StubHub’s stock starts trading Wednesday. The IPO is a bet on the polarizing practice of ticket resale.](https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 21:10
+
+#### [Investors are in for a wild week — and the Fed meeting is just the beginning](https://www.marketwatch.com/story/investors-are-in-for-a-wild-week-and-the-fed-meeting-is-just-the-beginning-1ac815fe?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 21:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Salesforce ramps up rivalry with Palantir with eye on government contracts](https://www.marketwatch.com/bulletins/redirect/go?g=783d2c0a-2444-4028-9625-32a5b1fc67fb&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 22:41
+
+#### [Investors are in for a wild week — and the Fed meeting is just the beginning](https://www.marketwatch.com/bulletins/redirect/go?g=d3830682-8eaf-48cf-8ca2-fb5083cf2e6c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 21:39
+
+#### [Could your employer take away your 401(k) match? Sherwin-Williams just did it.](https://www.marketwatch.com/bulletins/redirect/go?g=1de775c2-2667-4bc9-91c5-b6cbb78020d7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 20:39
+
+#### [Dow, S&P 500 and Nasdaq all close lower as investors await Fed’s rate decision](https://www.marketwatch.com/bulletins/redirect/go?g=23a6816d-f33b-4d94-aa54-60c303627d29&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 20:02
+
+#### [Dow slipping, S&P and Nasdaq struggle for gains ahead of Fed decision — live](https://www.marketwatch.com/bulletins/redirect/go?g=5d7d1bde-6d1a-47d5-b27f-289e3bd87092&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 19:03
+
+#### [Investors on high alert for any signs of political interference in Fed decision](https://www.marketwatch.com/bulletins/redirect/go?g=ea054e07-ba0d-4a0f-9dbc-add6f4999e51&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 18:32
+
+#### [How Apple and its stock can still emerge as AI winners](https://www.marketwatch.com/bulletins/redirect/go?g=1b64d12c-aee4-4517-8f2d-14530f4b3541&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 17:23
+
+#### [Builders haven’t cut home prices like this in years. Will Fed come to rescue?](https://www.marketwatch.com/bulletins/redirect/go?g=4fb07a30-2592-44e2-8561-6427ddd91182&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 17:07
+
+#### [Oracle’s stock higher amid speculation about prospective role in a TikTok deal](https://www.marketwatch.com/bulletins/redirect/go?g=da9f17d6-e643-4bcc-9308-5e228745d8ff&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 16:36
+
+#### [How Robert Redford and Sundance transformed the business of Hollywood](https://www.marketwatch.com/bulletins/redirect/go?g=37dc4e6d-2480-49aa-b74f-5fe6d56b535a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 15:55
+
+---
+
+## 🆕 最新更新 (2025-09-16 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize](https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 07:43
+
+---
+
+## 🆕 最新更新 (2025-09-16 05:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump administration orders Delta to unwind joint venture with Aeromexico](https://www.marketwatch.com/bulletins/redirect/go?g=2fa4dfe1-3080-45c7-89ad-d52f17287093&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 03:38
+
+#### [Miran set to vote at this week’s Fed meeting. Here’s what to expect on Wednesday](https://www.marketwatch.com/bulletins/redirect/go?g=578f7dd3-cce5-4340-b1ea-d57096361af8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-16 00:34
+
+#### [This long-shot move could get the 30-year mortgage rate to 5% next year](https://www.marketwatch.com/bulletins/redirect/go?g=bb57e640-c6e4-4dd4-869f-c5ca1c4b1484&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 23:58
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump administration orders Delta to unwind joint venture with Aeromexico](https://www.marketwatch.com/story/trump-administration-orders-delta-to-unwind-joint-venture-with-aeromexico-b5a8fba3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 03:36
+
+#### [Miran set to vote at this week’s Fed meeting. Here’s what to expect on Wednesday.](https://www.marketwatch.com/story/miran-set-to-vote-at-this-weeks-fed-meeting-heres-what-to-expect-on-wednesday-2639cf05?mod=mw_rss_topstories)
+**发布时间**: 2025-09-16 01:41
+
+---
+
+## 🆕 最新更新 (2025-09-15 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What CoreWeave’s new $6.3 billion contract with Nvidia says about the AI trade](https://www.marketwatch.com/story/what-coreweaves-new-6-3-billion-contract-with-nvidia-says-about-the-ai-trade-086b98bb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:37
+
+#### [Nvidia is dealt an antitrust setback in China. What it means for the stock.](https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:35
+
+#### [Your financial plan looks like a winner. Do you really need a second opinion?](https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:20
+
+#### [Why banks are afraid you’re going to ditch them for stablecoins](https://www.marketwatch.com/story/this-digital-cash-pays-you-enough-interest-to-worry-your-bank-412f5d0b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:19
+
+#### [This Treasury-bond investment has only one winner — and it’s not you](https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 22:17
+
+#### [This long-shot move could get the 30-year mortgage rate to 5% next year, says BofA Global](https://www.marketwatch.com/story/this-long-shot-move-could-get-the-30-year-mortgage-rate-to-5-next-year-says-bofa-global-2ab2dbc5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 21:26
+
+#### [Investors eyeing a Fed rate cut this week: Beware the unintended fallout for U.S. markets and the economy](https://www.marketwatch.com/story/investors-eyeing-a-fed-rate-cut-this-week-beware-the-unintended-fallout-for-u-s-markets-and-the-economy-c8218c82?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:49
+
+#### [BlackRock turns ‘neutral’ on long-term Treasurys ahead of potential Fed rate cuts](https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:41
+
+#### [Alphabet’s stock was an AI loser. Now it’s beaten out Nvidia on the year.](https://www.marketwatch.com/story/alphabets-stock-was-an-ai-loser-now-its-beaten-out-nvidia-on-the-year-c4100fa6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:35
+
+#### [Why the 10-year Treasury yield’s bounce back above 4% should be a warning for investors](https://www.marketwatch.com/story/why-the-10-year-treasury-yields-bounce-back-above-4-should-be-a-warning-for-investors-ed20092e?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 20:18
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [These amateur traders won big as metals prices boomed in 2025. Here’s how.](https://www.marketwatch.com/bulletins/redirect/go?g=29a70a36-62a7-42df-8880-98f021d56b65&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 22:27
+
+#### [Investors eyeing a Fed rate cut should beware of this unintended fallout](https://www.marketwatch.com/bulletins/redirect/go?g=56324838-063a-481d-a271-d481135ba6e5&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 21:38
+
+#### [Alphabet’s stock was an AI loser. Now it’s beaten out Nvidia on the year.](https://www.marketwatch.com/bulletins/redirect/go?g=73c6708f-149b-4d50-96ba-168fed31c464&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 21:07
+
+#### [Why the 10-year Treasury yield’s move above 4% should be a warning for investors](https://www.marketwatch.com/bulletins/redirect/go?g=ec82e595-3948-4aab-ae30-6b73b645ddb4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 20:28
+
+#### [S&P 500, Nasdaq end at record highs after U.S.-China 'framework' on TikTok deal](https://www.marketwatch.com/bulletins/redirect/go?g=91389663-c2d9-46bd-b926-6d31eb9f925c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 20:00
+
+#### [11 fast-growing small-cap stocks that could get a boost from the Fed’s next move](https://www.marketwatch.com/bulletins/redirect/go?g=eec795ad-1a32-40d2-97ac-abbebbc5aee2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 19:26
+
+#### [Nvidia is dealt an antitrust setback in China. What it means for the stock.](https://www.marketwatch.com/bulletins/redirect/go?g=30243753-83bc-427d-b7f6-d37e71260440&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 18:50
+
+#### [The devil is in the details when it comes to a TikTok deal](https://www.marketwatch.com/bulletins/redirect/go?g=1ef603b3-bed4-41f6-bc51-40e0c42dd217&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 17:13
+
+#### [What you should know about China’s 2025 stock-market surge — live event at noon](https://www.marketwatch.com/bulletins/redirect/go?g=11184a14-85f4-4b6f-9c1d-7da0f0dc067c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 14:33
+
+#### [Trump says company earnings reports should be semiannual instead of quarterly](https://www.marketwatch.com/bulletins/redirect/go?g=842c36a6-b97a-47db-8d59-ffd8c6f96ad8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 14:20
+
+---
+
+## 🆕 最新更新 (2025-09-15 08:27)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit](https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-15 07:30
+
+---
+
+## 🆕 最新更新 (2025-09-15 05:19)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Your retirement plan is missing this one thing](https://www.marketwatch.com/bulletins/redirect/go?g=f9d52c7e-5cb1-4a9c-a5ad-13fd4f30c57f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-15 01:01
+
+---
+
+## 🆕 最新更新 (2025-09-14 23:17)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat ahead of this week’s big Fed meeting](https://www.marketwatch.com/story/u-s-stock-futures-flat-ahead-of-this-weeks-big-fed-meeting-85e83580?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 23:08
+
+#### [Fed governor Cook reportedly declared second residence as vacation home, contrary to Trump claim](https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 22:52
+
+#### [Donald Trump Jr.’s new career: advising companies](https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 21:55
+
+#### [A divided Fed is expected to settle on a 25-basis-point rate cut this week. The key question is, what comes next?](https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 20:52
+
+#### [This crypto investor correctly predicted bitcoin would hit $120K in 2025. He now expects it to double in the next year.](https://www.marketwatch.com/story/this-crypto-investor-correctly-predicted-bitcoin-would-hit-120k-in-2025-he-now-expects-it-to-double-in-the-next-year-250b5ab4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 19:56
+
+#### [Your retirement plan is missing this one thing](https://www.marketwatch.com/story/your-retirement-plan-is-missing-this-one-thing-a4b0255f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 18:00
+
+#### [Why the Fed’s first rate cut in 9 months could derail the stock-market rally — and how investors can prepare](https://www.marketwatch.com/story/why-the-feds-first-rate-cut-in-9-months-could-derail-the-stock-market-rally-and-how-investors-can-prepare-fed25009?mod=mw_rss_topstories)
+**发布时间**: 2025-09-14 16:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [U.S. stock futures flat ahead of this week’s big Fed meeting](https://www.marketwatch.com/bulletins/redirect/go?g=137012b8-d06b-4f79-9816-68f1b0201a59&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-14 22:18
+
+#### [Why the Fed’s first rate cut in 9 months could derail the stock-market rally](https://www.marketwatch.com/bulletins/redirect/go?g=a942a9b6-e2cd-4d5c-ab37-eb187ee1958d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-14 20:45
+
+#### [Increasingly divided Fed expected to settle on quarter-point rate cut this week](https://www.marketwatch.com/bulletins/redirect/go?g=0fe06a5c-31cd-4f23-a67c-0d5ba74227c3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-14 13:52
+
+---
+
+## 🆕 最新更新 (2025-09-13 23:21)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?](https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 23:00
+
+#### [‘It’s keeping me up at night’: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.](https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 22:30
+
+#### [Fed governor Cook declared second residence as ‘vacation home,’ countering Trump’s claims](https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 21:54
+
+#### [My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won’t do yard work. What should I do?](https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 21:44
+
+#### [The FIFA World Cup ticket presale is live. What to know about dynamic pricing, lotteries and sale dates while trying to score seats.](https://www.marketwatch.com/story/the-fifa-world-cup-ticket-presale-is-live-what-to-know-about-dynamic-pricing-lotteries-and-sale-dates-while-trying-to-score-seats-cd1121c8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 17:00
+
+#### [Stock market’s relentless rally threatens to turn into a ‘melt-up’. What’s next.](https://www.marketwatch.com/story/stock-markets-relentless-rally-threatens-to-turn-into-a-melt-up-whats-next-f4dac854?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 16:39
+
+#### [The AI trade will make or break your stock portfolio. Here’s how to win in 2025.](https://www.marketwatch.com/story/the-ai-trade-will-make-or-break-your-stock-portfolio-heres-how-to-win-in-2025-cfc12ac6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 16:00
+
+#### [What it was like at Robinhood’s Hood Summit: DJs, go-karts and invite-only parties for active traders](https://www.marketwatch.com/story/what-it-was-like-at-robinhoods-hood-summit-djs-go-karts-and-invite-only-parties-for-active-traders-57271062?mod=mw_rss_topstories)
+**发布时间**: 2025-09-13 15:00
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Fed’s Cook declared second residence as ‘vacation home,’ countering Trump claims](https://www.marketwatch.com/bulletins/redirect/go?g=d26cc54e-a874-4cdb-b8c3-18685a892f34&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 22:15
+
+#### [Stock market’s relentless rally threatens to turn into a ‘melt-up’. What’s next.](https://www.marketwatch.com/bulletins/redirect/go?g=58256e50-7da7-48d9-bd8c-463dd18f24a6&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 21:00
+
+#### [This crypto investor called bitcoin at $120K by 2025. Here's what he now thinks.](https://www.marketwatch.com/bulletins/redirect/go?g=58863df6-39e1-4e1c-a155-c19d29aeb882&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 19:59
+
+#### [The AI trade will make or break your stock portfolio. Here’s how to win in 2025.](https://www.marketwatch.com/bulletins/redirect/go?g=da4fc228-13c4-42c5-8d82-cc83f5f17899&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 18:00
+
+#### [Donald Trump Jr.’s new career: Advising companies](https://www.marketwatch.com/bulletins/redirect/go?g=5fdfcc81-51a1-4b77-969e-06d1cc50ef37&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 16:52
+
+#### [Inside Robinhood’s Hood Summit: DJs, go-karts and parties for active traders](https://www.marketwatch.com/bulletins/redirect/go?g=09c26921-d429-42da-b403-a312ebcb2b6e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 16:20
+
+#### [Oracle’s not-so-secret weapon that’s helped it quickly take on the cloud giants](https://www.marketwatch.com/bulletins/redirect/go?g=33ee264e-04e8-434a-bc95-1a7c4435d32a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 14:45
+
+#### [Trump looks set to delay TikTok ban again. Why there’s no U.S. buyout deal yet.](https://www.marketwatch.com/bulletins/redirect/go?g=49aee6a1-1ef8-48da-b44e-c3f4cf74b46c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 13:51
+
+---
+
+## 🆕 最新更新 (2025-09-13 05:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [The important upcoming Medicare update you won't want to ignore](https://www.marketwatch.com/bulletins/redirect/go?g=dc89ba4a-8587-4253-ba52-446290a7d370&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 01:42
+
+#### [These 4 scenarios could see an expensive stock market get even pricier](https://www.marketwatch.com/bulletins/redirect/go?g=b1828c9d-dde9-4d79-b111-3be29ccfda35&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-13 01:13
+
+#### [Don’t expect mortgage rates to fall after the Fed cuts. What borrowers can do.](https://www.marketwatch.com/bulletins/redirect/go?g=1f38c4b4-8929-4dd2-adc6-865d508206f9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 23:58
+
+---
+
+## 🆕 最新更新 (2025-09-12 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [As Fed nears rate cut, why the market ‘really hinges’ on the 10-year Treasury](https://www.marketwatch.com/bulletins/redirect/go?g=f0657d77-b31e-44fd-8ebc-fbfa922b4a06&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 22:25
+
+#### [Gold keeps hitting record after record. Is it time to think about selling?](https://www.marketwatch.com/bulletins/redirect/go?g=525a6dea-3e86-4641-96ac-66399188b72f&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 20:55
+
+#### [Big Tech lifts Nasdaq to record close, while Dow ends 270 points lower](https://www.marketwatch.com/bulletins/redirect/go?g=daa26ff2-cf38-4198-ac8a-b895006b68a0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 20:03
+
+#### [Big Tech lifting S&P and Nasdaq in final hour, while Dow retreats — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=bf6edd43-8fab-4989-bb09-d31c23ca5d40&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 19:14
+
+#### [Demand strong ahead of Nasdaq debut of Winklevoss twins’ crypto platform Gemini](https://www.marketwatch.com/bulletins/redirect/go?g=21df7a02-81e9-4ebf-aa7c-5dfb0e39d194&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 16:24
+
+#### [Your burning real-estate questions asked and answered — live Q&A at 1 p.m.](https://www.marketwatch.com/bulletins/redirect/go?g=3b1c9c80-6ba6-4afd-9a25-ce247f9fb1d9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 13:04
+
+#### [Economic calendar: Consumer-sentiment report rounds out the week](https://www.marketwatch.com/bulletins/redirect/go?g=7ead736b-2f2e-4e06-9902-4035707bcf9e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 12:27
+
+#### [Fund managers on cusp of ‘extreme bull sentiment’ — and that’s often a red flag](https://www.marketwatch.com/bulletins/redirect/go?g=44bff31f-c190-47fd-848f-c98382184413&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 11:45
+
+#### [Lifting gold target a fifth time this year, these strategists are eyeing $3,800](https://www.marketwatch.com/bulletins/redirect/go?g=8f4bc2de-5ff4-4418-827f-1e421a88461d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 10:04
+
+#### [Morgan Stanley is now predicting four consecutive Fed rate cuts](https://www.marketwatch.com/bulletins/redirect/go?g=d4dc0459-1cab-4321-9c90-283f115b1d64&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 08:33
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Winklevoss twins grow $3 billion richer as crypto-trading company Gemini’s stock trades higher](https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 22:04
+
+#### [As Fed nears highly anticipated rate cut, the market ‘really hinges’ on 10-year Treasury yield](https://www.marketwatch.com/story/as-fed-nears-highly-anticipated-rate-cut-the-market-really-hinges-on-10-year-treasury-yield-a7509df4?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 22:00
+
+#### [Yes, stock-market valuations are high. But this Wall Street veteran outlines 4 scenarios that could keep the rally going anyway.](https://www.marketwatch.com/story/yes-stock-market-valuations-are-high-but-this-wall-street-veteran-outlines-2-scenarios-that-could-keep-the-rally-going-anyway-bda40dfc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:39
+
+#### [Moderna, Pfizer stocks fall as Trump officials reportedly link COVID shots to child deaths](https://www.marketwatch.com/story/covid-vaccine-makers-shares-fall-as-trump-officials-to-link-shots-to-child-deaths-report-says-4e584de6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:22
+
+#### [Private equity in your 401(k): Who is the big winner? Probably not you.](https://www.marketwatch.com/story/private-equity-in-your-401-k-who-is-the-big-winner-probably-not-you-9ad5e02a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:15
+
+#### [Don’t ignore this upcoming Medicare update — it could be the most important message of the year](https://www.marketwatch.com/story/dont-ignore-this-upcoming-medicare-update-it-could-be-the-most-important-message-of-the-year-92604e48?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 20:05
+
+---
+
+## 🆕 最新更新 (2025-09-12 05:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Low-cost index funds are best for investors, right? Not so fast.](https://www.marketwatch.com/story/low-cost-index-funds-are-best-for-investors-right-not-so-fast-264537de?mod=mw_rss_topstories)
+**发布时间**: 2025-09-12 04:01
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Crypto firm Gemini prices its IPO well above expected range](https://www.marketwatch.com/bulletins/redirect/go?g=12c7eb16-089c-4dd3-be27-e19cc02a95b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 02:36
+
+#### [What Klarna's IPO means about the state of American consumers](https://www.marketwatch.com/bulletins/redirect/go?g=19116ce8-683e-4f93-a03a-8f5d2b238970&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-12 01:12
+
+#### [This Midwestern hub for beer and Harleys has the hottest housing market in U.S.](https://www.marketwatch.com/bulletins/redirect/go?g=65e81242-add6-44dc-adc4-505a0f260694&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 23:48
+
+---
+
+## 🆕 最新更新 (2025-09-11 23:18)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Adobe’s earnings beat shows investors that AI is finally paying off, and the stock rises](https://www.marketwatch.com/story/adobes-stock-has-fallen-after-the-last-four-earnings-calls-can-ai-finally-deliver-cb3242ec?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 23:07
+
+#### [‘My income is not enough’: I’m a single parent in my early 50s. Should I add my kids, 23 and 29, to my mortgage application?](https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 22:37
+
+#### [Super Micro’s stock is getting an Nvidia bump. Here’s the latest update.](https://www.marketwatch.com/story/super-micros-stock-is-getting-an-nvidia-bump-heres-the-latest-update-96f74aa7?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 22:37
+
+#### [I’m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won’t be around forever.](https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 22:29
+
+#### [Gold keeps setting records — but its September performance history could be a roadblock](https://www.marketwatch.com/story/gold-has-a-september-trading-pattern-that-could-surprise-investors-this-time-e8baafcc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:56
+
+#### [Cheap pharmaceuticals from China and India put Americans at risk. Here’s the cure.](https://www.marketwatch.com/story/cheap-pharmaceuticals-from-china-and-india-put-americans-at-risk-heres-the-antidote-3f9061f2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:54
+
+#### [RH CEO: ‘Significant inflation’ to hit this year, and gather speed in 2026 and beyond](https://www.marketwatch.com/story/rh-ceo-significant-inflation-to-hit-this-year-and-gather-speed-in-2026-and-beyond-86f68282?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:52
+
+#### [Klarna goes public as more people say buy-now-pay-later is the only way they can afford to buy things](https://www.marketwatch.com/story/klarna-goes-public-as-more-people-say-buy-now-pay-later-is-the-only-way-they-can-afford-to-buy-things-fcca828d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:25
+
+#### [Gemini’s IPO rides the crypto craze to further the fortunes of the Winklevoss twins](https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 21:10
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Super Micro’s stock is getting an Nvidia bump. Here’s the latest update.](https://www.marketwatch.com/bulletins/redirect/go?g=7e27944e-95c2-4578-86e9-ac7ef4259cfa&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 22:42
+
+#### [Gemini’s IPO rides the crypto craze to further the Winklevoss twins' fortune](https://www.marketwatch.com/bulletins/redirect/go?g=c828191c-b61d-48f2-9d0e-e3742b0de065&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 21:58
+
+#### [Adobe’s stock rises as earnings beat shows that AI is finally paying off](https://www.marketwatch.com/bulletins/redirect/go?g=b4326000-a5fd-4660-b15d-75a180d20ac4&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 21:17
+
+#### [Stocks and bonds are sending very different messages about recession risks](https://www.marketwatch.com/bulletins/redirect/go?g=7b7ed9bd-f299-47e2-ae14-9a28ddacde6e&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 20:38
+
+#### [Dow closes over 46K for first time, joins S&P and Nasdaq in booking new records](https://www.marketwatch.com/bulletins/redirect/go?g=5cfa6344-e04b-480d-bcff-1fad2c8af5d7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 20:02
+
+#### [Adobe’s stock has fallen after its last four earnings. Can AI finally deliver?](https://www.marketwatch.com/bulletins/redirect/go?g=451b9d72-3f08-4386-82b0-6c36860f46be&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 19:10
+
+#### [Figure's IPO sizzles as investors stay hungry for crypto deals](https://www.marketwatch.com/bulletins/redirect/go?g=8d2d9a29-af2a-4b79-b56b-4475569fbe34&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 17:05
+
+#### [Dow industrials on pace to close atop 46,000 level for first time — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=99f2e524-73ca-4e74-871c-fc68d9f60cb1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 15:30
+
+#### [What JPMorgan thinks of S&P 500 rebuff of company formerly called MicroStrategy](https://www.marketwatch.com/bulletins/redirect/go?g=25606514-f6b8-48b8-9d65-a21658e648c9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 14:48
+
+#### [Why one bullish Apple analyst has just thrown in the towel](https://www.marketwatch.com/bulletins/redirect/go?g=ef5d7222-f575-4f6a-a204-a9f724119d7c&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-11 13:23
+
+---
+
+## 🆕 最新更新 (2025-09-11 05:20)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors are chasing bond yields ahead of the Fed’s rate decision. Here’s the opportunity.](https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 01:11
+
+#### [Elon Musk is still top dog, but Oracle’s Larry Ellison is now just $1 billion behind](https://www.marketwatch.com/story/elon-musk-still-leads-the-billionaires-but-larry-ellison-is-coming-up-fast-a962edaf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-11 00:22
+
+#### [After SpaceX and AT&T deals, EchoStar could be set for another wireless spectrum windfall](https://www.marketwatch.com/story/after-spacex-and-at-t-deals-echostar-could-be-set-for-another-wireless-spectrum-windfall-087f5653?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 23:26
+
+---
+
+## 🆕 最新更新 (2025-09-10 23:23)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [I’m 80 and my RMD is $300,000. What am I supposed to do about my huge tax bill?](https://www.marketwatch.com/bulletins/redirect/go?g=3dad0e35-da00-46b9-aac9-8cd5c33d4d96&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 23:14
+
+#### [August's CPI is this week's most crucial data for stock investors. What to know.](https://www.marketwatch.com/bulletins/redirect/go?g=22e65074-c47f-4160-9fe3-664fb48c3fcd&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 22:00
+
+#### [Why Broadcom’s stock led the chip sector’s rally on Wednesday](https://www.marketwatch.com/bulletins/redirect/go?g=29287703-692c-4d15-9e13-85b02a7761fe&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 21:10
+
+#### [S&P 500, Nasdaq eke out record closing highs after weak PPI inflation data](https://www.marketwatch.com/bulletins/redirect/go?g=2861a9a2-2cfd-4eca-84a9-a9081a3303bd&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 20:08
+
+#### [S&P 500 eyes new record in final hour on Oracle’s rally, Dow lags — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=a325fcb1-1ace-4c88-bead-a3a51afa649a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 19:04
+
+#### [Here’s the opportunity as investors chase bond yields ahead of Fed decision](https://www.marketwatch.com/bulletins/redirect/go?g=dff285d2-c6a0-464f-a284-7f30eeb94cba&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 18:02
+
+#### [Klarna’s stock rockets in its first trades after IPO, but it’s losing some steam](https://www.marketwatch.com/bulletins/redirect/go?g=fe8b2c05-a814-4e87-9376-cbb2ab335e5d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 17:26
+
+#### [Homeowners have been rushing to refinance as mortgage rates dive](https://www.marketwatch.com/bulletins/redirect/go?g=417c7505-ada3-49d3-a433-45c5d4b100b1&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 16:52
+
+#### [Insurance is meant to safeguard your finances. Is it undermining them instead?](https://www.marketwatch.com/bulletins/redirect/go?g=be186ce0-4e51-4b76-966b-38d520e09f07&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 16:46
+
+#### [Apple and Amazon are sharpest decliners as Dow falls nearly 300 points](https://www.marketwatch.com/bulletins/redirect/go?g=1e960a7d-0474-4b50-b0c5-3d5942d03ee2&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 16:43
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My husband sold his IRA without my knowledge prior to our divorce. Is this legal?](https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 22:56
+
+#### [Nio’s stock dives as EV maker raises $1 billion at shareholders’ expense](https://www.marketwatch.com/story/nios-stock-dives-as-ev-maker-raises-1-billion-at-shareholders-expense-28b2e763?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 22:35
+
+#### [Don’t let Apple’s stock dip fool you. The iPhone 17 could power a big rally.](https://www.marketwatch.com/story/dont-let-apples-stock-dip-fool-you-the-iphone-17-could-power-a-big-rally-ea1ba9b8?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 22:31
+
+#### [Oxford Industries says new Lilly Pulitzer offerings are winning over shoppers, but its Tommy Bahama line is lagging](https://www.marketwatch.com/story/oxford-industries-says-new-lilly-pulitzer-offerings-are-winning-over-shoppers-but-its-tommy-bahama-line-is-lagging-56d20321?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 21:57
+
+#### [Why Broadcom’s stock led the chip sector’s rally on Wednesday](https://www.marketwatch.com/story/why-broadcoms-stock-is-leading-the-chip-sectors-rally-on-wednesday-549ba49a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:47
+
+#### [Oracle’s stock just did something never before seen on Wall Street. Inside that historic move.](https://www.marketwatch.com/story/oracles-stock-is-doing-something-never-seen-before-on-wall-street-inside-the-historic-move-ab2453f6?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:35
+
+#### [Klarna’s stock loses some steam in post-IPO debut, as traders gain access to fresh play on fintech](https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:34
+
+#### [I’m 80 and my RMD is $300,000. What the heck am I supposed to do about my huge tax bill?](https://www.marketwatch.com/story/im-80-and-my-rmd-is-300-000-what-the-heck-am-i-supposed-to-do-about-my-huge-tax-bill-d9ffb18c?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:30
+
+#### [Stablecoins could help the dollar remain the world’s No. 1 reserve currency — but not through Treasury-bill buying](https://www.marketwatch.com/story/stablecoins-could-help-the-dollar-remain-the-worlds-no-1-reserve-currency-but-not-through-treasury-bill-buying-f659d6eb?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 20:28
+
+---
+
+## 🆕 最新更新 (2025-09-10 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Judge rules Lisa Cook can stay at the Fed, for now. She’ll likely vote at this month’s rate-setting meeting.](https://www.marketwatch.com/story/judge-rules-lisa-cook-can-stay-at-the-fed-shell-vote-at-this-months-rate-setting-meeting-d47b67cf?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 03:02
+
+#### [Incomes rose and poverty fell last year — so why do so many Americans feel ‘tapped out’?](https://www.marketwatch.com/story/incomes-rose-and-poverty-fell-last-year-so-why-do-so-many-americans-feel-tapped-out-6d259e15?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 02:01
+
+#### [Klarna prices IPO well above expected range, raising $1.37 billion](https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories)
+**发布时间**: 2025-09-10 00:39
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Judge rules Lisa Cook can stay at the Fed. She’ll vote at this month’s meeting.](https://www.marketwatch.com/bulletins/redirect/go?g=714ad1ef-e9a6-4bb4-bc28-1bc4242ec354&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 02:16
+
+#### [Klarna prices IPO well above expected range, raising $1.37 billion](https://www.marketwatch.com/bulletins/redirect/go?g=13e240db-d1a3-4d7a-9aa1-1ea1849af50b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-10 00:42
+
+---
+
+## 🆕 最新更新 (2025-09-09 23:17)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Trump aims to curb direct-to-consumer ads for drugs; Hims & Hers may be a target](https://www.marketwatch.com/bulletins/redirect/go?g=362aadc9-4e7f-4410-9578-2ce358c29359&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 23:15
+
+#### [Apple's iPhone 17 offered enough to spark a wave of upgrades, Wedbush predicts](https://www.marketwatch.com/bulletins/redirect/go?g=39a8085f-4c1a-4ae4-b22d-3f2151e1743a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:52
+
+#### [Nvidia and its Big Tech peers have $1 trillion to spend. What should they do?](https://www.marketwatch.com/bulletins/redirect/go?g=a275aab7-a96b-4eae-bcaf-e585d719a2ea&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:49
+
+#### [GameStop posts 5th straight quarterly profit, thanks to a big sales jump](https://www.marketwatch.com/bulletins/redirect/go?g=6a19d6e9-0669-4e9f-a2d2-0f5d8fa279b7&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:17
+
+#### [Oracle’s stock surges toward best day in years. These huge numbers explain why.](https://www.marketwatch.com/bulletins/redirect/go?g=71fb7d1f-87ae-45d5-b3f2-39bb4cb735ae&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 21:00
+
+#### [Dow, S&P and Nasdaq book new record highs despite downward revision to jobs data](https://www.marketwatch.com/bulletins/redirect/go?g=7a56deb3-3516-44b6-aa76-d39577481b1b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 20:08
+
+#### [Why crude-oil prices didn’t rally much after Israel’s attack in Qatar](https://www.marketwatch.com/bulletins/redirect/go?g=5affa995-d2fb-4873-81a0-046c5f2cc23a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 19:43
+
+#### [Think the S&P 500 is looking pricey? Here are 20 stocks to consider instead.](https://www.marketwatch.com/bulletins/redirect/go?g=ca4b7096-5d1a-4e77-838b-1be35ed27ee3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 19:06
+
+#### [Job-market news has taken a turn for the worse. Will inflation data do the same?](https://www.marketwatch.com/bulletins/redirect/go?g=766ff92b-eda5-4b21-ac82-c49041d3dd86&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 18:48
+
+#### [Apple’s iPhone event is about to begin. Watch it live.](https://www.marketwatch.com/bulletins/redirect/go?g=b9ab253e-23a2-4100-ad0d-0db2c52f8493&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 17:00
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump aims to curb direct-to-consumer ads for drugs. Hims & Hers Health could be targeted.](https://www.marketwatch.com/story/trump-aims-to-curb-direct-to-consumer-ads-for-drugs-hims-hers-health-could-be-targeted-1ce5ba53?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 23:12
+
+#### [These companies could be to self-driving trucks and tractors what Tesla is to cars](https://www.marketwatch.com/story/the-next-vehicles-to-go-driverless-may-shock-you-and-could-be-a-great-investment-b5dfc4f3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:59
+
+#### [UnitedHealth makes investors like Warren Buffett happy by saying business is fine](https://www.marketwatch.com/story/unitedhealth-makes-investors-like-warren-buffett-happy-by-saying-business-is-fine-c86d9050?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:50
+
+#### [GameStop posts 5th straight quarterly profit, thanks to a big sales jump](https://www.marketwatch.com/story/gamestop-posts-fifth-straight-quarterly-profit-thanks-to-a-big-sales-jump-48df93df?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:45
+
+#### [Cracker Barrel is halting remodels. An analyst now sees even ‘less visibility’ on the path forward.](https://www.marketwatch.com/story/cracker-barrel-is-halting-remodels-an-analyst-now-sees-even-less-visibility-on-the-path-forward-4ad7a72b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:43
+
+#### [Oracle’s stock surges toward its best day since 1999. These huge numbers explain why.](https://www.marketwatch.com/story/oracles-stock-surges-toward-best-day-in-years-these-huge-numbers-explain-why-4a7e95ab?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:23
+
+#### [Billions of dollars in Trump tariffs at stake as Wall Street awaits Supreme Court decision](https://www.marketwatch.com/story/wall-street-sees-upside-for-stocks-if-supreme-court-rules-against-trump-on-tariffs-9d2c071b?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 22:11
+
+#### [‘He is increasingly angry’: My troubled son lives with me. How do I ensure he is financially secure after I die?](https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 20:30
+
+#### [Emma Heming Willis on moving husband Bruce Willis into a second home for dementia care: ‘I know it raises eyebrows…you have to do what’s right’](https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 20:25
+
+#### [Nvidia and its Big Tech peers have $1 trillion to spend. What should they do with it?](https://www.marketwatch.com/story/nvidia-and-its-big-tech-peers-have-1-trillion-to-spend-what-should-they-do-with-it-047ebdb3?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 19:32
+
+---
+
+## 🆕 最新更新 (2025-09-09 08:28)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Frenzied as ever’ — the Dan Ives-led Worldcoin treasury purchase is only latest example of market madness](https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 08:03
+
+---
+
+## 🆕 最新更新 (2025-09-09 05:19)
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Obamacare tax breaks could get extended in government-shutdown fight. Here’s why.](https://www.marketwatch.com/story/obamacare-tax-breaks-could-get-extended-in-a-government-shutdown-fight-heres-why-9fe96daa?mod=mw_rss_topstories)
+**发布时间**: 2025-09-09 01:09
+
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Opinion: Protect your money from the turmoil at the Federal Reserve](https://www.marketwatch.com/bulletins/redirect/go?g=e2ccff19-79d3-46b4-8a5e-e6e84291763d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-09 01:05
+
+---
+
+## 🆕 最新更新 (2025-09-08 23:24)
+### 📰 来源: [MarketWatch Breaking News Bulletins](https://feeds.content.dowjones.io/public/rss/mw_bulletins)
+
+#### [Nebius’ stock is surging. Why Microsoft just inked a deal with the cloud company](https://www.marketwatch.com/bulletins/redirect/go?g=62777cc0-0c4e-466e-b3cb-35c7fb705b3b&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 23:21
+
+#### [Opendoor’s stock flashes ‘bearish engulfing’ chart pattern. Is the rally over?](https://www.marketwatch.com/bulletins/redirect/go?g=f01462c2-0fc7-47c2-9b2d-661dcdd242d0&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 22:38
+
+#### [Fed set to cut rates after months of debate. Why are so many unhappy with that?](https://www.marketwatch.com/bulletins/redirect/go?g=22547583-6fa1-45cc-9a71-4bc9fe8594f8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 21:00
+
+#### [Nasdaq closes at record as stocks rise to kick off big week of economic data](https://www.marketwatch.com/bulletins/redirect/go?g=fb00a813-f66f-4e0d-aef2-ab185d726ee9&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 20:03
+
+#### [Why the 10-year Treasury yield’s big 2025 drop could be a recession indicator](https://www.marketwatch.com/bulletins/redirect/go?g=069ffe09-943b-4ee7-af88-afa8f4f7e951&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 19:43
+
+#### [Mortgage rates dive on reports of worsening economy, spurring refinance queries](https://www.marketwatch.com/bulletins/redirect/go?g=64fdd00a-df0e-4871-95b9-8420ffa0df1d&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 19:03
+
+#### [Nasdaq, S&P eye records in final hour, Dow reverses early decline — follow live](https://www.marketwatch.com/bulletins/redirect/go?g=a51012e2-102e-40eb-8cdc-03f4244d9677&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 19:01
+
+#### [Why streaming looks like a winner in Howard Stern contract battle with SiriusXM](https://www.marketwatch.com/bulletins/redirect/go?g=5fd9819b-9de7-41e6-b440-eda6e7778a5a&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 18:20
+
+#### [Nvidia leads way as Dow industrials reverse nearly all of early decline](https://www.marketwatch.com/bulletins/redirect/go?g=e3b857c1-6eb0-4b07-9a1e-a1ff928ccfa8&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 14:37
+
+#### [Robinhood shares jump 14% early Monday after finally winning S&P 500 nod](https://www.marketwatch.com/bulletins/redirect/go?g=769766e0-f5b5-4669-aacc-a79f21f2fad3&mod=mw_rss_bulletins)
+**发布时间**: 2025-09-08 14:09
+
+### 📰 来源: [MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 43 with $450K in my 401(k) and $270K in one company’s stock. Is this a risky plan?](https://www.marketwatch.com/story/im-43-with-450k-in-my-401-k-and-270k-in-one-companys-stock-is-this-a-risky-plan-21d1edde?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:20
+
+#### [Nebius’ stock is surging. Why Microsoft just inked a deal with the cloud company.](https://www.marketwatch.com/story/nebius-stock-is-surging-why-microsoft-just-inked-a-deal-with-the-cloud-company-ec97b00a?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:19
+
+#### [What investors should expect from stocks after the Fed’s September meeting](https://www.marketwatch.com/story/what-investors-should-expect-from-stocks-after-the-feds-september-meeting-68af2876?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:05
+
+#### [My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?](https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 23:04
+
+#### [Worried about Nvidia’s stock? This analyst has a $2 trillion reason to remain calm.](https://www.marketwatch.com/story/worried-about-nvidias-stock-this-analyst-has-a-2-trillion-reason-to-remain-calm-07463ae2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:57
+
+#### [GameStop earnings are coming, as bitcoin looms ever larger for the OG meme stock](https://www.marketwatch.com/story/gamestop-earnings-are-coming-as-bitcoin-looms-ever-larger-for-the-og-meme-stock-32c244c2?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:55
+
+#### [Why U.S. companies could see closed markets and higher costs as globalization ends](https://www.marketwatch.com/story/this-growing-risk-to-your-stock-portfolio-is-new-volatile-and-here-to-stay-2bbb5150?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:55
+
+#### [SpaceX deal sends EchoStar’s stock soaring. Why Elon Musk is buying $17 billion in wireless spectrum.](https://www.marketwatch.com/story/echostar-clinches-a-17-billion-spectrum-deal-with-elon-musks-spacex-and-the-stock-soars-again-fdf3962d?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:31
+
+#### [Opendoor’s stock flashes ‘bearish engulfing’ chart pattern. Is the rally over?](https://www.marketwatch.com/story/opendoors-stock-flashes-bearish-engulfing-chart-pattern-is-the-rally-over-1276f0da?mod=mw_rss_topstories)
+**发布时间**: 2025-09-08 22:31
 
 ---
 
