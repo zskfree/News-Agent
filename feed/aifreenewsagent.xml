@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Oct 2025 23:17:28 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 12:49:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2025 12:49:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>告别AI“乱画图表”！港中文团队发布首个结构化图像生成编辑系统</title>
-      <link>https://www.qbitai.com/2025/10/340648.html</link>
-      <description>&lt;![CDATA[告别AI“乱画图表”！港中文团队发布首个结构化图像生成编辑系统]]&gt;</description>
-      <pubDate>Sat, 11 Oct 2025 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340648.html</guid>
+      <title>Hinton暴论：AI已经有意识，它自己不知道而已</title>
+      <link>https://www.qbitai.com/2025/10/340674.html</link>
+      <description>&lt;![CDATA[Hinton暴论：AI已经有意识，它自己不知道而已]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 04:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340674.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>拒绝小扎15亿美元offer的大佬，还是加入Meta了</title>
+      <link>https://www.qbitai.com/2025/10/340662.html</link>
+      <description>&lt;![CDATA[拒绝小扎15亿美元offer的大佬，还是加入Meta了]]&gt;</description>
+      <pubDate>Sun, 12 Oct 2025 02:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340662.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-11 23:17
+**最后更新时间**: 2025-10-12 12:49
+
+---
+
+## 🆕 最新更新 (2025-10-12 12:49)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [萝卜快跑，赢得比赛的最后一块拼图](https://www.tmtpost.com/7718424.html)
+**发布时间**: 2025-10-12 11:48
+
+#### [“有病去医院”，王老吉被加多宝整“破防”了](https://www.tmtpost.com/7718487.html)
+**发布时间**: 2025-10-12 11:48
+
+#### [四个关键问题，拆解宗馥莉二次请辞](https://www.tmtpost.com/7718480.html)
+**发布时间**: 2025-10-12 11:08
+
+#### [一个娃哈哈正变成娃多多](https://www.tmtpost.com/7718476.html)
+**发布时间**: 2025-10-12 11:00
+
+#### [湖南“最牛”的长沙银行，也到了必须“换活法”的时候](https://www.tmtpost.com/7718432.html)
+**发布时间**: 2025-10-12 10:51
+
+#### [金力永磁Q3净利狂飙217%：稀土永磁龙头的“逆周期”突围与三重暗礁](https://www.tmtpost.com/7718359.html)
+**发布时间**: 2025-10-12 10:26
+
+#### [投资逻辑「红宝书」之：稀土](https://www.tmtpost.com/7718421.html)
+**发布时间**: 2025-10-12 10:25
+
+#### [小红书终于到了满地捡钱的阶段](https://www.tmtpost.com/7718344.html)
+**发布时间**: 2025-10-12 10:08
+
+#### [这个假期，烟火小店反杀连锁餐饮](https://www.tmtpost.com/7718324.html)
+**发布时间**: 2025-10-12 09:55
+
+#### [字节跳动入局锂电赛道：一场科技巨头与能源革命的碰撞](https://www.tmtpost.com/7718364.html)
+**发布时间**: 2025-10-12 09:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软AKS Automatic向公众开放](https://www.infoq.cn/article/TIT8vMP92108PptyiasK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-12 10:00
+
+#### [零代码部署工业数据平台：TRAE + TDengine IDMP 实践](https://www.infoq.cn/article/DxT4xurhk0151KdyrBoV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-12 10:00
+
+#### [客户端 AI Coding 实践：从 PRD 到代码直出｜QCon 上海](https://www.infoq.cn/article/y42vK1CIJrSNeBmsTBYJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-12 09:52
+
+#### [Java近期新闻：JDK 26发布时间表、GlassFish、Spring AI、Helidon、Mandrel 25、Seed4j](https://www.infoq.cn/article/CbKEiHvakYe35cb7lp6k?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-12 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [巨头们“合纵连横”，企图锁死我们科技发展？](http://www.huxiu.com/article/4789210.html?f=wangzhan)
+**发布时间**: 2025-10-12 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克脑机公司展示脑机控制机械臂；三星中国发布折叠屏新机，16999 元起售；滴滴自动驾驶获 20 亿元融资 | 极客早知道](http://www.geekpark.net/news/354883)
+**发布时间**: 2025-10-12 08:59
 
 ---
 
