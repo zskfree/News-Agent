@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Oct 2025 12:49:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 12:49:55 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 05:25:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hinton暴论：AI已经有意识，它自己不知道而已</title>
-      <link>https://www.qbitai.com/2025/10/340674.html</link>
-      <description>&lt;![CDATA[Hinton暴论：AI已经有意识，它自己不知道而已]]&gt;</description>
-      <pubDate>Sun, 12 Oct 2025 04:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340674.html</guid>
+      <title>Meta「分割一切」3.0曝光！技能语义分割加入概念提示，好好玩，要爆了</title>
+      <link>https://www.qbitai.com/2025/10/340783.html</link>
+      <description>&lt;![CDATA[Meta「分割一切」3.0曝光！技能语义分割加入概念提示，好好玩，要爆了]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 03:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340783.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>拒绝小扎15亿美元offer的大佬，还是加入Meta了</title>
-      <link>https://www.qbitai.com/2025/10/340662.html</link>
-      <description>&lt;![CDATA[拒绝小扎15亿美元offer的大佬，还是加入Meta了]]&gt;</description>
-      <pubDate>Sun, 12 Oct 2025 02:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340662.html</guid>
+      <title>马斯克从英伟达挖人做AI游戏！第一步：研发世界模型</title>
+      <link>https://www.qbitai.com/2025/10/340762.html</link>
+      <description>&lt;![CDATA[马斯克从英伟达挖人做AI游戏！第一步：研发世界模型]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 01:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340762.html</guid>
       <category>AI</category>
     </item>
   </channel>

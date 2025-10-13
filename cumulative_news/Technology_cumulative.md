@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-12 23:17
+**最后更新时间**: 2025-10-13 05:25
+
+---
+
+## 🆕 最新更新 (2025-10-13 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China Mobile Plans Largest Domestic AI Computing Infrastructure and to Double Investment by 2028](https://www.tmtpost.com/7719344.html)
+**发布时间**: 2025-10-13 13:08
+
+#### [电动车@2025：AI是底气还是噱头？](https://www.tmtpost.com/7719063.html)
+**发布时间**: 2025-10-13 13:08
+
+#### [独立融资已超100亿，滴滴继续豪赌自动驾驶](https://www.tmtpost.com/7719131.html)
+**发布时间**: 2025-10-13 13:01
+
+#### [1566亿，光掩模赛道，第二大IPO来了](https://www.tmtpost.com/7719234.html)
+**发布时间**: 2025-10-13 12:58
+
+#### [尚美雅高“二婚”，能否打开本土高端酒店新局面？](https://www.tmtpost.com/7719113.html)
+**发布时间**: 2025-10-13 12:55
+
+#### [高德放“榜”30天：百度携程“硬杠”，抖音小红书“包抄”](https://www.tmtpost.com/7719133.html)
+**发布时间**: 2025-10-13 12:47
+
+#### [提前完成全年开店目标，国际餐饮巨头血拼下沉市场](https://www.tmtpost.com/7719140.html)
+**发布时间**: 2025-10-13 12:40
+
+#### [餐饮品牌想做长久的生意，就做地方菜](https://www.tmtpost.com/7719141.html)
+**发布时间**: 2025-10-13 12:34
+
+#### [黄金周酒店乱象：1千多一晚亚朵、全季，他们选择在景区扎帐篷](https://www.tmtpost.com/7719145.html)
+**发布时间**: 2025-10-13 12:34
+
+#### [蓝桥杯出局，少儿编程的价值祛魅时刻？](https://www.tmtpost.com/7719162.html)
+**发布时间**: 2025-10-13 12:34
+
+#### [AI芯片：两种赌注，一个棋局](https://www.tmtpost.com/7719169.html)
+**发布时间**: 2025-10-13 12:34
+
+#### [新能源销量狂飙77.1%，奇瑞新引擎重塑增长格局](https://www.tmtpost.com/7719137.html)
+**发布时间**: 2025-10-13 12:14
+
+#### [On-Device AI is the Real Challenge While Cloud-Based Large Models are Manageable, Says Vivo AI Global Research Institute Director](https://www.tmtpost.com/7719205.html)
+**发布时间**: 2025-10-13 11:56
+
+#### [中国移动欲建国内规模最大智算基础设施，2028年底前AI投入翻倍](https://www.tmtpost.com/7719190.html)
+**发布时间**: 2025-10-13 11:36
+
+#### [From Nvidia to DeepSeek: How AI Chips Are Shaping the U.S.-China Tech Rivalry](https://www.tmtpost.com/7719105.html)
+**发布时间**: 2025-10-13 10:55
+
+#### [2025快餐消费决策链研究：位置与口碑影响进店率，价格影响外卖决策](https://www.tmtpost.com/7717894.html)
+**发布时间**: 2025-10-13 10:21
+
+#### [河北女首富周超男：亏损10年，靠AI狂赚870亿](https://www.tmtpost.com/7718944.html)
+**发布时间**: 2025-10-13 10:21
+
+#### [年入4.5亿，莆田大佬造出“国产劳力士”，上市首日大涨258％](https://www.tmtpost.com/7718988.html)
+**发布时间**: 2025-10-13 10:21
+
+#### [立项只是FIC，已经不够用了？](https://www.tmtpost.com/7719004.html)
+**发布时间**: 2025-10-13 10:21
+
+#### [AI时代，重做ERP](https://www.tmtpost.com/7713388.html)
+**发布时间**: 2025-10-13 10:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [新的DNS Armor服务帮助Google Cloud工作负载未雨绸缪地阻止网络威胁](https://www.infoq.cn/article/ZpSltWeE6ChAlpBbQ4DM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 13:00
+
+#### [亚马逊云科技发布M4和M4 Pro Mac实例以加快苹果应用开发](https://www.infoq.cn/article/Ock1ZiSqhN7sCfm5gyb0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 12:00
+
+#### [从稳定到共情：对话式 AI 与硬件交互的技术探索｜QCon 上海](https://www.infoq.cn/article/q8bjljtpT3romd7GJccF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 11:33
+
+#### [“你的Agent，我一周末就能做出来！” AI时代的护城河：Cursor 卷每日迭代速度，DeepSeek 用技术撕大厂规模优势](https://www.infoq.cn/article/4LSMl3Tx3jzxJqD56eKe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 10:26
+
+#### [一块电池，烧瘫韩国：数据中心失火 22 小时，647 套系统因缺失“双活”集体宕机](https://www.infoq.cn/article/w0D3CLa5TaUMEVo1YYCS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 10:17
+
+#### [他在 10 天内拼出 ChatGPT，如今影响 7 亿人：ChatGPT 负责人的第一次讲述](https://www.infoq.cn/article/iCCug8ywqd079fXfWDNx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 10:02
+
+#### [Python新版本去GIL刷屏，Karpathy 点赞敢死队，Python 之父：冷静，别神话并发](https://www.infoq.cn/article/EfxY5LDEyr8DRjjAgllG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 09:50
+
+#### [TRAE MCP 实践：用高德地图搭建旅游攻略系统](https://www.infoq.cn/article/91BPOAsXj3dXNov8YOPN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜沽酒家 × 鸿蒙：何以诗天下？](https://sspai.com/post/102738)
+**发布时间**: 2025-10-13 11:06
+
+#### [派早报：网易云回应新手机号注册意外登录已故明星账号](https://sspai.com/post/103038)
+**发布时间**: 2025-10-13 08:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军亲自测试，小米YU9实车谍照曝光；宇树获「秧歌机器人」专利；微团开卖「Win XP」蓝天白云拖鞋](http://www.geekpark.net/news/354891)
+**发布时间**: 2025-10-13 08:54
 
 ---
 
