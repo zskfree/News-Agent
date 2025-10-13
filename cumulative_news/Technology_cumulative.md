@@ -1,7 +1,119 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-13 08:34
+**最后更新时间**: 2025-10-13 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-13 23:17)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小米，再不反思就晚了](http://www.huxiu.com/article/4791228.html?f=wangzhan)
+**发布时间**: 2025-10-14 04:06
+
+#### [卷上天的新能源厂商，销量却被燃油车背刺了](http://www.huxiu.com/article/4791319.html?f=wangzhan)
+**发布时间**: 2025-10-13 22:07
+
+#### [15分钟掌握黄金的分析思路，金价为何屡创新高？](http://www.huxiu.com/article/4790003.html?f=wangzhan)
+**发布时间**: 2025-10-13 20:00
+
+#### [一口气搞懂：黄金这轮疯涨背后的逻辑](http://www.huxiu.com/article/4790217.html?f=wangzhan)
+**发布时间**: 2025-10-13 17:00
+
+#### [特斯拉新车“换汤不换药”，马斯克能否突破自我？](http://www.huxiu.com/article/4791171.html?f=wangzhan)
+**发布时间**: 2025-10-13 16:44
+
+#### [网约车大战背后，有什么样的资本博弈？](http://www.huxiu.com/article/4790140.html?f=wangzhan)
+**发布时间**: 2025-10-13 16:30
+
+#### [白羽鸡一生只有40多天，真的能吃吗？](http://www.huxiu.com/article/4789107.html?f=wangzhan)
+**发布时间**: 2025-10-13 15:00
+
+#### [“美国宇树”Figure三代机器人发布，机器人进家庭只有一步之遥？](http://www.huxiu.com/article/4791021.html?f=wangzhan)
+**发布时间**: 2025-10-13 14:40
+
+#### [孟加拉为啥要买20架歼-10CE？准备干什么？](http://www.huxiu.com/article/4790479.html?f=wangzhan)
+**发布时间**: 2025-10-13 14:00
+
+#### [中国AI心脏，为什么选在新疆？](http://www.huxiu.com/article/4790750.html?f=wangzhan)
+**发布时间**: 2025-10-13 13:35
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [创新药出海双面镜：“一次性”BD不少，但里程碑付款也渐入收获期丨行业风向标](https://www.tmtpost.com/7720092.html)
+**发布时间**: 2025-10-13 21:55
+
+#### [国研新能完成3000万元B轮融资，加速布局智能穿戴电池赛道｜融资首发](https://www.tmtpost.com/7720140.html)
+**发布时间**: 2025-10-13 21:19
+
+#### [AI原生架构，正在重塑企业AI战略落地的底层逻辑](https://www.tmtpost.com/7719211.html)
+**发布时间**: 2025-10-13 20:37
+
+#### [突发，宗馥莉再次辞职，娃哈哈陷入家族企业传承之困](https://www.tmtpost.com/7719937.html)
+**发布时间**: 2025-10-13 19:04
+
+#### [分立器件，迎来“关键一天”](https://www.tmtpost.com/7719910.html)
+**发布时间**: 2025-10-13 19:04
+
+#### [蜜雪冰城跨界啤酒，2.97亿收购福鹿家背后的“酒局”野心](https://www.tmtpost.com/7719948.html)
+**发布时间**: 2025-10-13 19:04
+
+#### [年轻人返工，“银发族”接棒2.7万亿文旅消费新动能](https://www.tmtpost.com/7719849.html)
+**发布时间**: 2025-10-13 18:53
+
+#### [奥士康的“豪赌”：18亿押注高端PCB，能否破解“增收不增利”魔咒？](https://www.tmtpost.com/7719881.html)
+**发布时间**: 2025-10-13 18:51
+
+#### [AI会革了百度的命吗？](https://www.tmtpost.com/7719600.html)
+**发布时间**: 2025-10-13 18:43
+
+#### [何明科“空降”，平安好医生又变天了？](https://www.tmtpost.com/7719130.html)
+**发布时间**: 2025-10-13 18:42
+
+#### [“躺赚”的企查查，是个苦生意？](https://www.tmtpost.com/7718940.html)
+**发布时间**: 2025-10-13 18:41
+
+#### [高通的好日子，怕是到头了](https://www.tmtpost.com/7719488.html)
+**发布时间**: 2025-10-13 18:38
+
+#### [闻泰科技遭荷兰“背刺”，半导体枭雄陷资本迷局](https://www.tmtpost.com/7719682.html)
+**发布时间**: 2025-10-13 18:38
+
+#### [53亿美元拿下ABB机器人，只是孙正义豪赌AI的开始](https://www.tmtpost.com/7719808.html)
+**发布时间**: 2025-10-13 18:37
+
+#### [“爱优腾B”如何打赢新一轮动漫竞速赛？](https://www.tmtpost.com/7719833.html)
+**发布时间**: 2025-10-13 18:37
+
+#### [赚钱能力不够，奥联还有上市幻想](https://www.tmtpost.com/7719841.html)
+**发布时间**: 2025-10-13 18:37
+
+#### [【Fintech 周报】三季度金融机构被罚没超10亿；汇丰控股拟私有化恒生银行；助贷新规落地](https://www.tmtpost.com/7719798.html)
+**发布时间**: 2025-10-13 18:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从投资到影响：释放数据和人工智能的商业价值 | 技术趋势](https://www.infoq.cn/article/wqTV61JFXvAjcTKIeaTj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 19:33
+
+#### [火山引擎多媒体实验室画质理解大模型 Q-Insight 入选 NeurIPS 2025 Spotlight](https://www.infoq.cn/article/fZVo6tjvtshQkrNiUGAp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 18:46
+
+#### [推理性能提升10倍！蚂蚁集团开源业内首个高性能扩散语言模型推理框架dInfer](https://www.infoq.cn/article/9zx1qyNzi0mItJ6QJmZw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 16:38
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么谷歌搜不到「没有条纹的衬衫」｜AI 上新](http://www.geekpark.net/news/354928)
+**发布时间**: 2025-10-13 18:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/103067)
+**发布时间**: 2025-10-13 18:06
+
+#### [陌生而有趣的训练伙伴——滑行盘和 TRX 训练带使用指南](https://sspai.com/prime/story/gliding-discs-trx-exercise-band-training-guide)
+**发布时间**: 2025-10-13 17:45
 
 ---
 

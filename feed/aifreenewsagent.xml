@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Oct 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2025 05:25:41 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 23:17:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta「分割一切」3.0曝光！技能语义分割加入概念提示，好好玩，要爆了</title>
-      <link>https://www.qbitai.com/2025/10/340783.html</link>
-      <description>&lt;![CDATA[Meta「分割一切」3.0曝光！技能语义分割加入概念提示，好好玩，要爆了]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 03:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340783.html</guid>
+      <title>官宣定档11月13日！百度世界2025将于北京举办</title>
+      <link>https://www.qbitai.com/2025/10/340993.html</link>
+      <description>&lt;![CDATA[官宣定档11月13日！百度世界2025将于北京举办]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340993.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克从英伟达挖人做AI游戏！第一步：研发世界模型</title>
-      <link>https://www.qbitai.com/2025/10/340762.html</link>
-      <description>&lt;![CDATA[马斯克从英伟达挖人做AI游戏！第一步：研发世界模型]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 01:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340762.html</guid>
+      <title>网约车元老入局自动驾驶：川大校友，前滴滴SVP</title>
+      <link>https://www.qbitai.com/2025/10/340982.html</link>
+      <description>&lt;![CDATA[网约车元老入局自动驾驶：川大校友，前滴滴SVP]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340982.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>拒绝“熵崩塌”和“熵爆炸”！这项研究让大模型推理成绩飙升</title>
+      <link>https://www.qbitai.com/2025/10/340944.html</link>
+      <description>&lt;![CDATA[拒绝“熵崩塌”和“熵爆炸”！这项研究让大模型推理成绩飙升]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340944.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Sora2“复活”已故名人，家属强烈反对</title>
+      <link>https://www.qbitai.com/2025/10/340882.html</link>
+      <description>&lt;![CDATA[Sora2“复活”已故名人，家属强烈反对]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340882.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>推理性能提升10倍！蚂蚁集团开源业内首个高性能扩散语言模型推理框架dInfer</title>
+      <link>https://www.qbitai.com/2025/10/340924.html</link>
+      <description>&lt;![CDATA[推理性能提升10倍！蚂蚁集团开源业内首个高性能扩散语言模型推理框架dInfer]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340924.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>真正的AI竞争力，藏在大模型“后训练”这一步</title>
+      <link>https://www.qbitai.com/2025/10/340883.html</link>
+      <description>&lt;![CDATA[真正的AI竞争力，藏在大模型“后训练”这一步]]&gt;</description>
+      <pubDate>Mon, 13 Oct 2025 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340883.html</guid>
       <category>AI</category>
     </item>
   </channel>
