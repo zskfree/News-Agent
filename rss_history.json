@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "e64caa08023a6cf461ffc7c8a8d28194b8f2af5902efeb9f639f3866cc5185ad": {
-        "title": "谷歌DeepMind用AI探测引力波，登上Science了",
-        "link": "https://www.qbitai.com/2025/09/330971.html",
-        "published_date": "Sat, 13 Sep 2025 06:24:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.299471"
-      },
-      "df95ccb4298ae6266a8faae0726202804d82c393f02f51812d066ec388a63815": {
-        "title": "前谷歌X团队靠AI电影锁定戛纳！创立AI原生版皮克斯，公司预售已超1亿美元",
-        "link": "https://www.qbitai.com/2025/09/330951.html",
-        "published_date": "Sat, 13 Sep 2025 06:20:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.299640"
-      },
-      "8de5d62fe202923fdf097da0008b267ec0f34238721e2e19b3ff2b97cbf5437a": {
-        "title": "AI水论文还得AI治：西湖大学首次模拟人类专家思考链，AI审稿分钟级给出全面反馈",
-        "link": "https://www.qbitai.com/2025/09/330923.html",
-        "published_date": "Sat, 13 Sep 2025 06:10:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.299836"
-      },
       "2db6854e451eb7e5b45bad4fd785e84e8e27111ba52669bebc9bb0b75910d811": {
         "title": "Arm拥抱AI：五倍性能，三倍能效",
         "link": "https://www.jiqizhixin.com/articles/2025-09-13-5",
@@ -7665,36 +7647,6 @@
       }
     },
     "Technology": {
-      "a3c6259386bacb6b65110d47166df18f7d191c19c7c53a05ed0fb4b5b7bd5bc2": {
-        "title": "CIO 的技术判断力：在超前与观望间寻找最优解",
-        "link": "https://www.infoq.cn/article/VHBcNedoicv3DVQKZ05a?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Sep 2025 16:09:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.206233"
-      },
-      "3269d4c108bfdd688742a07185b02f14aa3ce8eb89041d9b83e830b59b1a067c": {
-        "title": "皮卡战争下半场：奇瑞威麟用“油电平权”挑战全球产业规则",
-        "link": "https://www.tmtpost.com/7692555.html",
-        "published_date": "Sat, 13 Sep 2025 14:53:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.206393"
-      },
-      "e22190a065bcd9deaa2a4a6eecbcb8d8ea4ff9de063b520189ee933f48acb358": {
-        "title": "「创新场景50」年度最佳场景实践TOP 15榜单重磅发布",
-        "link": "https://www.tmtpost.com/7692838.html",
-        "published_date": "Sat, 13 Sep 2025 14:52:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.206574"
-      },
-      "d9145e40e2e00ce2878bd922319102cc883abf03cfefbe30478b7e60469c72e2": {
-        "title": "改行做团播：年轻人的一种新职业选择",
-        "link": "https://www.tmtpost.com/7692665.html",
-        "published_date": "Sat, 13 Sep 2025 14:30:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.206744"
-      },
-      "c242212fb98aaee07d06769ca4f3ceeef7d5ca93d0cfe6971aafdcd9f36575ff": {
-        "title": "光伏卖铲人，能否找到第二春？",
-        "link": "https://www.tmtpost.com/7692767.html",
-        "published_date": "Sat, 13 Sep 2025 13:39:00 GMT",
-        "first_seen": "2025-09-13T08:22:26.206925"
-      },
       "590a695d33ab7edcdde70f4646fb68aef9558f721a99f5c26b5ca720f4f159ba": {
         "title": "H&M中国首个品牌体验中心落地上海；鸣鸣很忙门店数破2万；usmile笑容加官宣品牌代言人樊振东｜消研所周报",
         "link": "https://www.tmtpost.com/7692346.html",
@@ -21050,6 +21002,90 @@
         "link": "http://www.geekpark.net/news/354891",
         "published_date": "Mon, 13 Oct 2025 08:54:00 GMT",
         "first_seen": "2025-10-13T05:25:41.532750"
+      },
+      "48d228786ece2e8ebe5f62bcf0d189776aaad165eeed38a9bae967ef140b8d3a": {
+        "title": "【产业互联网周报】《时代》公布年度发明榜单，宇树、DeepSeek上榜；AI相关债券已达1.2万亿美元，超越银行成投资级市场最大板块；AMD和OpenAI正在启动大规模AI算力扩建计划",
+        "link": "https://www.tmtpost.com/7719534.html",
+        "published_date": "Mon, 13 Oct 2025 15:55:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540949"
+      },
+      "792dc70c236aa9fd3ac99e474e608112272240c534baae59bf375509395c6234": {
+        "title": "10亿，又一投资美妆的基金来了",
+        "link": "https://www.tmtpost.com/7719527.html",
+        "published_date": "Mon, 13 Oct 2025 15:46:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540961"
+      },
+      "440efa93c19a5ddf5ec4671813382414214cea4ddb6c5436fe1217c779741a6f": {
+        "title": "10月13日A股分析：沪指微跌0.19%，两市成交额缩量1608亿，主力资金净流出460亿，小金属与贵金属成避风港",
+        "link": "https://www.tmtpost.com/7719476.html",
+        "published_date": "Mon, 13 Oct 2025 15:36:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540975"
+      },
+      "9d66bfdc3c09be9d3c907195518f1fab0830565548645d0f5f05673771c8181f": {
+        "title": "辉瑞首家妥协，美国降药价将如何影响全球创新药市场？",
+        "link": "https://www.tmtpost.com/7719439.html",
+        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540881"
+      },
+      "5d4dae127c3259de34841f386ada452d28be2467d83784a793ce17bc17897666": {
+        "title": "9块9成过去时，咖啡价格战卷到2块9",
+        "link": "https://www.tmtpost.com/7719475.html",
+        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540986"
+      },
+      "bdd23ccbc8df7819aae6a65831e78f8898057c163f51b8904c999d246032666d": {
+        "title": "滴普科技通过聆讯，驶入企业级AI蓝海暗流",
+        "link": "https://www.tmtpost.com/7719474.html",
+        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540910"
+      },
+      "d7030e0247af3a1d8482d54196340f8b996a311c305d6a4fc5d6aa06f1f08373": {
+        "title": "王老吉加多宝隔空互怼，凉茶争夺战蔓延至海外市场",
+        "link": "https://www.tmtpost.com/7719467.html",
+        "published_date": "Mon, 13 Oct 2025 14:52:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540996"
+      },
+      "3a34faa1fbe107d287101968660fe6165de49fa3a3a96649414669cb145f5ba5": {
+        "title": "Silicon Valley’s Secret to Innovation is Transfer of People: Says Former Stanford President",
+        "link": "https://www.tmtpost.com/7719445.html",
+        "published_date": "Mon, 13 Oct 2025 14:31:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.541011"
+      },
+      "16449fac46a514bb8d39c74a1735a596b876a250ab30c4f2c62dac52a116f883": {
+        "title": "在投漫剧近2000部，超6成播放量不足100万？",
+        "link": "https://www.tmtpost.com/7719329.html",
+        "published_date": "Mon, 13 Oct 2025 13:44:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.541022"
+      },
+      "ea081443865b339682e4b3b2d47aa1e55c68733f233b21378280c4e070ec569f": {
+        "title": "GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全.",
+        "link": "https://www.infoq.cn/article/T1ZlDBzusarjiDqKMaUe?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-13T08:34:53.164825"
+      },
+      "98652d3b8707d6b4076ef9980b6d8e2b974378b5939851c355bb05bde6da45dd": {
+        "title": "为何底层数据湖决定了 AI Agent 的上限？",
+        "link": "https://www.infoq.cn/article/79ENi9gGC2JzoZBIrbaY?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Oct 2025 14:58:00 GMT",
+        "first_seen": "2025-10-13T08:34:53.165330"
+      },
+      "25379cb1c90acc6c277d586da40ed2d34f981ea13c08602517814192e377bafd": {
+        "title": "从 “鬼探头惊魂”到“城市自由行”：自动驾驶如何靠数据、模型、软件破局？",
+        "link": "https://www.infoq.cn/article/UH1YXtF43XXw58EC9Oq8?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Oct 2025 14:23:00 GMT",
+        "first_seen": "2025-10-13T08:34:53.166162"
+      },
+      "443542ad6974e29a90e34a7ef730fadd17b44a6cb000dada93e19a1c044f11e1": {
+        "title": "Meta发布了React 19.2，包括Activity API、Cache Signals和SSR增强特性",
+        "link": "https://www.infoq.cn/article/fGECiMZRNftJTES3wzbF?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Oct 2025 14:06:00 GMT",
+        "first_seen": "2025-10-13T08:35:41.540929"
+      },
+      "6ee5ddfc53a64514b4d404a44fcf46b09063000a19d3a3f38a2c975a432ca8e6": {
+        "title": "为捕捉新视角提供更多可能：摄影师 Austin Mann 评 iPhone 17 Pro",
+        "link": "https://sspai.com/post/102934",
+        "published_date": "Mon, 13 Oct 2025 14:39:00 GMT",
+        "first_seen": "2025-10-13T08:34:53.168304"
       }
     },
     "Finance": {
@@ -24326,8 +24362,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-13T05:25:41.475590",
-    "Technology": "2025-10-13T05:26:29.913433",
-    "Finance": "2025-10-13T05:25:41.349876"
+    "AI": "2025-10-13T08:34:53.133879",
+    "Technology": "2025-10-13T08:35:41.564021",
+    "Finance": "2025-10-13T08:34:53.023910"
   }
 }

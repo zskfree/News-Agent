@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-13 05:25
+**最后更新时间**: 2025-10-13 08:34
+
+---
+
+## 🆕 最新更新 (2025-10-13 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【产业互联网周报】《时代》公布年度发明榜单，宇树、DeepSeek上榜；AI相关债券已达1.2万亿美元，超越银行成投资级市场最大板块；AMD和OpenAI正在启动大规模AI算力扩建计划](https://www.tmtpost.com/7719534.html)
+**发布时间**: 2025-10-13 15:55
+
+#### [10亿，又一投资美妆的基金来了](https://www.tmtpost.com/7719527.html)
+**发布时间**: 2025-10-13 15:46
+
+#### [10月13日A股分析：沪指微跌0.19%，两市成交额缩量1608亿，主力资金净流出460亿，小金属与贵金属成避风港](https://www.tmtpost.com/7719476.html)
+**发布时间**: 2025-10-13 15:36
+
+#### [辉瑞首家妥协，美国降药价将如何影响全球创新药市场？](https://www.tmtpost.com/7719439.html)
+**发布时间**: 2025-10-13 15:14
+
+#### [9块9成过去时，咖啡价格战卷到2块9](https://www.tmtpost.com/7719475.html)
+**发布时间**: 2025-10-13 15:14
+
+#### [滴普科技通过聆讯，驶入企业级AI蓝海暗流](https://www.tmtpost.com/7719474.html)
+**发布时间**: 2025-10-13 15:14
+
+#### [王老吉加多宝隔空互怼，凉茶争夺战蔓延至海外市场](https://www.tmtpost.com/7719467.html)
+**发布时间**: 2025-10-13 14:52
+
+#### [Silicon Valley’s Secret to Innovation is Transfer of People: Says Former Stanford President](https://www.tmtpost.com/7719445.html)
+**发布时间**: 2025-10-13 14:31
+
+#### [在投漫剧近2000部，超6成播放量不足100万？](https://www.tmtpost.com/7719329.html)
+**发布时间**: 2025-10-13 13:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全.](https://www.infoq.cn/article/T1ZlDBzusarjiDqKMaUe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 15:00
+
+#### [为何底层数据湖决定了 AI Agent 的上限？](https://www.infoq.cn/article/79ENi9gGC2JzoZBIrbaY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 14:58
+
+#### [从 “鬼探头惊魂”到“城市自由行”：自动驾驶如何靠数据、模型、软件破局？](https://www.infoq.cn/article/UH1YXtF43XXw58EC9Oq8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 14:23
+
+#### [Meta发布了React 19.2，包括Activity API、Cache Signals和SSR增强特性](https://www.infoq.cn/article/fGECiMZRNftJTES3wzbF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-13 14:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为捕捉新视角提供更多可能：摄影师 Austin Mann 评 iPhone 17 Pro](https://sspai.com/post/102934)
+**发布时间**: 2025-10-13 14:39
 
 ---
 
