@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-14 08:25
+**最后更新时间**: 2025-10-14 23:23
+
+---
+
+## 🆕 最新更新 (2025-10-14 23:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】李强主持召开经济形势专家和企业家座谈会；入局造车？京东：联合宁德时代、广汽，新车将于11.11期间发布；沃尔玛与OpenAI合作，将在ChatGPT上提供购物功能](https://www.tmtpost.com/7721326.html)
+**发布时间**: 2025-10-15 07:20
+
+#### [证监会原发审委一姐投案，当代系余波未平](https://www.tmtpost.com/7720818.html)
+**发布时间**: 2025-10-14 22:38
+
+#### [中央出手调控牛肉价格，牛肉产业要变天？](https://www.tmtpost.com/7721157.html)
+**发布时间**: 2025-10-14 22:36
+
+#### [2025Q3线下零售速报](https://www.tmtpost.com/7721053.html)
+**发布时间**: 2025-10-14 22:35
+
+#### [短剧出海在AI时代等风来？](https://www.tmtpost.com/7721033.html)
+**发布时间**: 2025-10-14 21:04
+
+#### [为什么简装版Model Y只能降5000美元？](https://www.tmtpost.com/7721099.html)
+**发布时间**: 2025-10-14 21:04
+
+#### [安世半导体遇荷兰罕见“夺权”风暴，闻泰科技转型“命脉”遭重创](https://www.tmtpost.com/7721223.html)
+**发布时间**: 2025-10-14 20:57
+
+#### [AutoOmni:智能座舱新物种，让功能自由涌现](https://www.tmtpost.com/7721295.html)
+**发布时间**: 2025-10-14 20:57
+
+#### [亚太药业16亿易主：新主重金谋创新药翻身，原股东“清仓”获益近翻倍](https://www.tmtpost.com/7721224.html)
+**发布时间**: 2025-10-14 20:42
+
+#### [网约护士，4500万失能失智老人的等待](https://www.tmtpost.com/7720821.html)
+**发布时间**: 2025-10-14 20:23
+
+#### [汇丰的千亿资本棋局：私有化恒生用意何在？](https://www.tmtpost.com/7720496.html)
+**发布时间**: 2025-10-14 20:15
+
+#### [酒店集团终于对国内老地标物业下手了](https://www.tmtpost.com/7720445.html)
+**发布时间**: 2025-10-14 20:15
+
+#### [稀土再涨价：一棋落子，满盘生变](https://www.tmtpost.com/7720523.html)
+**发布时间**: 2025-10-14 20:15
+
+#### [500亿福建富豪圈，跑出来一个“香港茶王”](https://www.tmtpost.com/7720491.html)
+**发布时间**: 2025-10-14 20:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从技术狂欢到企业落地，智能编程的全球破局战](https://www.infoq.cn/article/2sMSIhCPUOQHv05K6Pqg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 19:08
+
+#### [4小时喜提专属 ChatGPT、卡帕西又整活！自曝Agent帮倒忙、手搓八千行代码，网友：跑完就当上机器学习工程师](https://www.infoq.cn/article/DgWjNbbwXbqzW270ZFTv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 18:26
+
+#### [年入195亿芯片公司“失控”？中国CEO一夜遭裁、99股东权尽失，决定性投票旁落](https://www.infoq.cn/article/Lzl0lAN8PF80xu8lhbcT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 18:20
+
+#### [Al Agent，如何重塑软件研发的「质」与「效」 ｜InfoQ《极客有约》](https://www.infoq.cn/video/kKZYkVU4T2QJQ9fjkZmv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 16:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 113 | 派友热议 AI 浏览器、作者的新玩意和一周热评](https://sspai.com/post/103079)
+**发布时间**: 2025-10-14 16:32
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [vivo X300 Pro：以「水桶旗舰」之躯，重登旗舰山巅](http://www.geekpark.net/news/354972)
+**发布时间**: 2025-10-14 16:13
 
 ---
 

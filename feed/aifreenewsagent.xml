@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Oct 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2025 08:25:33 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2025 23:23:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>别Claude Code了，一个国产免费命令行就够了</title>
-      <link>https://www.qbitai.com/2025/10/341545.html</link>
-      <description>&lt;![CDATA[别Claude Code了，一个国产免费命令行就够了]]&gt;</description>
-      <pubDate>Tue, 14 Oct 2025 07:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341545.html</guid>
+      <title>谢赛宁新作：VAE退役，RAE当立</title>
+      <link>https://www.qbitai.com/2025/10/341609.html</link>
+      <description>&lt;![CDATA[谢赛宁新作：VAE退役，RAE当立]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341609.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>从无图到轻图，大模型时代，图商的新角逐</title>
-      <link>https://www.qbitai.com/2025/10/341514.html</link>
-      <description>&lt;![CDATA[从无图到轻图，大模型时代，图商的新角逐]]&gt;</description>
-      <pubDate>Tue, 14 Oct 2025 07:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341514.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>量子位「MEET2026智能未来大会」启动！年度榜单征集中</title>
-      <link>https://www.qbitai.com/2025/10/341478.html</link>
-      <description>&lt;![CDATA[量子位「MEET2026智能未来大会」启动！年度榜单征集中]]&gt;</description>
-      <pubDate>Tue, 14 Oct 2025 06:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341478.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI自研芯片内幕曝光！18个月前开始用AI优化芯片设计</title>
-      <link>https://www.qbitai.com/2025/10/341421.html</link>
-      <description>&lt;![CDATA[OpenAI自研芯片内幕曝光！18个月前开始用AI优化芯片设计]]&gt;</description>
-      <pubDate>Tue, 14 Oct 2025 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341421.html</guid>
+      <title>不用跟AI客气了！新研究：语气越粗鲁回答正确率越高</title>
+      <link>https://www.qbitai.com/2025/10/341586.html</link>
+      <description>&lt;![CDATA[不用跟AI客气了！新研究：语气越粗鲁回答正确率越高]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341586.html</guid>
       <category>AI</category>
     </item>
   </channel>
