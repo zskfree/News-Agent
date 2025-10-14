@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2025 23:17:33 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2025 05:19:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>官宣定档11月13日！百度世界2025将于北京举办</title>
-      <link>https://www.qbitai.com/2025/10/340993.html</link>
-      <description>&lt;![CDATA[官宣定档11月13日！百度世界2025将于北京举办]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340993.html</guid>
+      <title>将科研脏活累活真·丢给AI！上海AI Lab推出科研智能体FlowSearch</title>
+      <link>https://www.qbitai.com/2025/10/341385.html</link>
+      <description>&lt;![CDATA[将科研脏活累活真·丢给AI！上海AI Lab推出科研智能体FlowSearch]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 04:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341385.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>网约车元老入局自动驾驶：川大校友，前滴滴SVP</title>
-      <link>https://www.qbitai.com/2025/10/340982.html</link>
-      <description>&lt;![CDATA[网约车元老入局自动驾驶：川大校友，前滴滴SVP]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340982.html</guid>
+      <title>抖音&amp;LV-NUS开源多模态新模，以小博大刷新SOTA，8B推理比肩GPT-4o</title>
+      <link>https://www.qbitai.com/2025/10/341365.html</link>
+      <description>&lt;![CDATA[抖音&amp;LV-NUS开源多模态新模，以小博大刷新SOTA，8B推理比肩GPT-4o]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 03:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341365.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>拒绝“熵崩塌”和“熵爆炸”！这项研究让大模型推理成绩飙升</title>
-      <link>https://www.qbitai.com/2025/10/340944.html</link>
-      <description>&lt;![CDATA[拒绝“熵崩塌”和“熵爆炸”！这项研究让大模型推理成绩飙升]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340944.html</guid>
+      <title>OpenAI奥特曼：能被ChatGPT消灭的工作不是真正的工作</title>
+      <link>https://www.qbitai.com/2025/10/341378.html</link>
+      <description>&lt;![CDATA[OpenAI奥特曼：能被ChatGPT消灭的工作不是真正的工作]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 03:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341378.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Sora2“复活”已故名人，家属强烈反对</title>
-      <link>https://www.qbitai.com/2025/10/340882.html</link>
-      <description>&lt;![CDATA[Sora2“复活”已故名人，家属强烈反对]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340882.html</guid>
+      <title>人类遗忘的难题解法，被GPT-5重新找出来了</title>
+      <link>https://www.qbitai.com/2025/10/341103.html</link>
+      <description>&lt;![CDATA[人类遗忘的难题解法，被GPT-5重新找出来了]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 03:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341103.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>推理性能提升10倍！蚂蚁集团开源业内首个高性能扩散语言模型推理框架dInfer</title>
-      <link>https://www.qbitai.com/2025/10/340924.html</link>
-      <description>&lt;![CDATA[推理性能提升10倍！蚂蚁集团开源业内首个高性能扩散语言模型推理框架dInfer]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340924.html</guid>
+      <title>蚂蚁发布并开源万亿参数思考模型Ring-1T，综合能力逼近GPT-5</title>
+      <link>https://www.qbitai.com/2025/10/341349.html</link>
+      <description>&lt;![CDATA[蚂蚁发布并开源万亿参数思考模型Ring-1T，综合能力逼近GPT-5]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/341349.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>真正的AI竞争力，藏在大模型“后训练”这一步</title>
-      <link>https://www.qbitai.com/2025/10/340883.html</link>
-      <description>&lt;![CDATA[真正的AI竞争力，藏在大模型“后训练”这一步]]&gt;</description>
-      <pubDate>Mon, 13 Oct 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340883.html</guid>
+      <title>卡帕西8000行代码手搓ChatGPT，成本仅100美元，训练12小时CORE表现超越GPT-2，手把手教程来了</title>
+      <link>https://www.qbitai.com/2025/10/340998.html</link>
+      <description>&lt;![CDATA[卡帕西8000行代码手搓ChatGPT，成本仅100美元，训练12小时CORE表现超越GPT-2，手把手教程来了]]&gt;</description>
+      <pubDate>Tue, 14 Oct 2025 02:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/340998.html</guid>
       <category>AI</category>
     </item>
   </channel>

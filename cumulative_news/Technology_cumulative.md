@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-13 23:17
+**最后更新时间**: 2025-10-14 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-14 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [刚买就“亏”千元，大疆消费者成“大冤种”？影石却来道歉](https://www.tmtpost.com/7720189.html)
+**发布时间**: 2025-10-14 13:07
+
+#### [China Starts Charging Special Port Fees on U.S. Ships, Urges U.S. to Address Concerns Over Through Dialogue](https://www.tmtpost.com/7720684.html)
+**发布时间**: 2025-10-14 12:41
+
+#### [Dutch Government Takes Control of Chinese-Owned Chipmaker Nexperia in "Highly Exceptional" Move](https://www.tmtpost.com/7720682.html)
+**发布时间**: 2025-10-14 12:40
+
+#### [Volant Aerotech Secures Multi-Million Dollar Series B to Accelerate eVTOL Commercialization](https://www.tmtpost.com/7720674.html)
+**发布时间**: 2025-10-14 12:26
+
+#### [Sritpower Secures $4.2 Million Series B to Expand Miniature Steel-Shell Battery Production for Smart Wearables](https://www.tmtpost.com/7720657.html)
+**发布时间**: 2025-10-14 12:10
+
+#### [华映资本领投，低空经济头部企业「沃兰特航空」完成数亿元B轮融资，加速载人试飞与适航进程 | 融资首发](https://www.tmtpost.com/7720599.html)
+**发布时间**: 2025-10-14 11:44
+
+#### [OpenAI预告了AI时代「Windows系统」的诞生](https://www.tmtpost.com/7720191.html)
+**发布时间**: 2025-10-14 11:16
+
+#### [OpenAI Taps Broadcom in $1 Trillion AI Chip Alliance, Expanding 'Circular Trading' Ecosystem with Nvidia](https://www.tmtpost.com/7720554.html)
+**发布时间**: 2025-10-14 10:55
+
+#### [不能将中国经济困境类比日本失去的三十年](https://www.tmtpost.com/7720361.html)
+**发布时间**: 2025-10-14 10:45
+
+#### [「荆华密算」宣布完成数千万种子轮融资，推动高性能密态计算产业落地 | 融资首发](https://www.tmtpost.com/7720470.html)
+**发布时间**: 2025-10-14 10:11
+
+#### [情绪价值，天价账单，首形科技卖「情感」能成吗？](https://www.tmtpost.com/7720039.html)
+**发布时间**: 2025-10-14 10:09
+
+#### [OpenAI官宣自研AI芯片！博通股价大涨近10%，英伟达与中美企业构建AI工厂](https://www.tmtpost.com/7720480.html)
+**发布时间**: 2025-10-14 10:02
+
+#### [启明创投独家领投造物时代Pre-A轮融资 开启精密数控工具大众化新纪元 | 融资首发](https://www.tmtpost.com/7720038.html)
+**发布时间**: 2025-10-14 09:50
+
+#### [AI养老，一场针对空巢老人的「精准骗局」？](https://www.tmtpost.com/7720074.html)
+**发布时间**: 2025-10-14 09:40
+
+#### [医疗行业成AI应用沃土，医疗机构应如何落地？](https://www.tmtpost.com/7710432.html)
+**发布时间**: 2025-10-14 09:31
+
+#### [腾讯、拳头、索尼都在押注的赛道，会是下一个风口吗？](https://www.tmtpost.com/7720199.html)
+**发布时间**: 2025-10-14 09:20
+
+#### [B站抖音小红书齐入视频播客，结果还是大佬们的“局”](https://www.tmtpost.com/7720078.html)
+**发布时间**: 2025-10-14 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [IBM 推出紧凑型视觉语言模型 Granite-Docling-258M，助力精准文档转换](https://www.infoq.cn/article/vGvIOQYSmgVuFIbLISJ3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 13:00
+
+#### [优步凭借CacheFront的改进实现每秒1.5亿次的读取操作](https://www.infoq.cn/article/0x8V0bo0UPR4RioViK5O?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 12:00
+
+#### [微软AKS Automatic向公众开放](https://www.infoq.cn/article/auZq5YRgz8j528LqpqVf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 11:04
+
+#### [Speech Graphics CEO Gregor Hofer 博士确认出席QCon 上海，分享The Rise of Visual Conversational AI](https://www.infoq.cn/article/SmfPb48T8BNU5oYMWL7o?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-14 10:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测 | 邀你一同探索模块化迷你主机 Khadas Mind 2](https://sspai.com/post/103074)
+**发布时间**: 2025-10-14 11:28
+
+#### [派早报：vivo 发布 X300 系列等新品，iPhone Air 发售定档等](https://sspai.com/post/103071)
+**发布时间**: 2025-10-14 08:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [库克抖音带货 iPhone 17 Air，22 日开售；小米客服回应「SU7 门把手」；「丐版」特斯拉明年国内投产](http://www.geekpark.net/news/354931)
+**发布时间**: 2025-10-14 08:31
 
 ---
 
