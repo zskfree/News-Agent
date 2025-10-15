@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-15 08:33
+**最后更新时间**: 2025-10-15 23:17
+
+---
+
+## 🆕 最新更新 (2025-10-15 23:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [使用 Snowflake Workload Identity Federation 进行保密 | 技术实践](https://www.infoq.cn/article/CBQg8GvG4kj2i1evosIe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 22:31
+
+#### [模力工场 015 周 AI 应用榜：科研人狂喜！AIspire一键帮你读文献，学而思九章大模型登榜](https://www.infoq.cn/article/UcHpiND4mSQgRDRgIEHe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 18:00
+
+#### [效率提升 45%！TRAE 辅助下的 uni-app 跨端小程序工程化开发实践](https://www.infoq.cn/article/sEBV1wKJNoKXIZjrjZBV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:40
+
+#### [让“好用的 AI”加速落地，腾讯云发布 2025 全球数字生态大会特辑](https://www.infoq.cn/article/GIX61HmPj5XzPUNR3NCV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:39
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI浪潮下，中企闯中东](https://www.tmtpost.com/7722413.html)
+**发布时间**: 2025-10-15 20:55
+
+#### [皇庭国际重组梦碎，深圳皇庭广场遭以物抵债，净资产转负恐触发退市风险](https://www.tmtpost.com/7722430.html)
+**发布时间**: 2025-10-15 20:06
+
+#### [啤酒行业，迎来真正的“野蛮人”](https://www.tmtpost.com/7722365.html)
+**发布时间**: 2025-10-15 19:18
+
+#### [自由职业“伴游”也卷起来了，现在流行“技能+伴游”](https://www.tmtpost.com/7722357.html)
+**发布时间**: 2025-10-15 19:13
+
+#### [直播间的红利，终于轮到品牌方了](https://www.tmtpost.com/7722343.html)
+**发布时间**: 2025-10-15 19:13
+
+#### [头部玩家开始结盟，消费机器人的“iphone时刻”来了？](https://www.tmtpost.com/7722325.html)
+**发布时间**: 2025-10-15 19:13
+
+#### [闻泰惊醒梦中人](https://www.tmtpost.com/7722363.html)
+**发布时间**: 2025-10-15 19:13
+
+#### [阿斯麦 ASML：AI Capex 加 buff，最坏时期已过！](https://www.tmtpost.com/7722276.html)
+**发布时间**: 2025-10-15 18:56
+
+#### [从付费到分账，独立APP撑起短剧新时代](https://www.tmtpost.com/7722252.html)
+**发布时间**: 2025-10-15 18:56
+
+#### [爱优腾芒为何总“招骂”？](https://www.tmtpost.com/7722277.html)
+**发布时间**: 2025-10-15 18:56
+
+#### [iPhone Air国行上市，手机进入无卡时代](https://www.tmtpost.com/7722278.html)
+**发布时间**: 2025-10-15 18:56
+
+#### [杠杆、垄断和泡沫：解析硅谷万亿资本闭环](https://www.tmtpost.com/7722294.html)
+**发布时间**: 2025-10-15 18:56
+
+#### [鸿蒙用户终于不矮人一头了](https://www.tmtpost.com/7722275.html)
+**发布时间**: 2025-10-15 18:56
+
+#### [低空经济降温，宗申动力航发子公司IPO折戟，引爆6亿对赌回购](https://www.tmtpost.com/7722336.html)
+**发布时间**: 2025-10-15 18:38
+
+#### [“隐形冠军”长江能科：以自主技术破局能源装备国产替代，冲刺上市锚定双碳增量](https://www.tmtpost.com/7721858.html)
+**发布时间**: 2025-10-15 17:59
+
+#### [江阴银行高管动荡，投资收益“靠天吃饭”](https://www.tmtpost.com/7722205.html)
+**发布时间**: 2025-10-15 17:34
+
+#### [成都路桥签债务重组协议：让利于政府加速回款，“折价”拿回1.77亿元旧账](https://www.tmtpost.com/7722229.html)
+**发布时间**: 2025-10-15 17:31
+
+#### [潮玩品牌，从拼“上架”到抢“上市”](https://www.tmtpost.com/7722212.html)
+**发布时间**: 2025-10-15 17:22
+
+#### [大女主宗馥莉，走不出宗庆后的“阴影”](https://www.tmtpost.com/7722206.html)
+**发布时间**: 2025-10-15 17:22
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [花时间陪别人玩，成了一群人的工作](http://www.huxiu.com/article/4792413.html?f=wangzhan)
+**发布时间**: 2025-10-15 20:09
+
+#### [出走娃哈哈，宗馥莉玩砸了吗？](http://www.huxiu.com/article/4791605.html?f=wangzhan)
+**发布时间**: 2025-10-15 17:00
+
+#### [许家印的信托神话破灭，给其他中国富豪提了个什么醒？](http://www.huxiu.com/article/4791725.html?f=wangzhan)
+**发布时间**: 2025-10-15 16:30
+
+#### [上市却不融资，岚图图什么？](http://www.huxiu.com/article/4792092.html?f=wangzhan)
+**发布时间**: 2025-10-15 13:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [来自中国的年度 iPhone 游戏大奖，Tim Cook 拜访《剑与远征》开发商](https://sspai.com/post/103120)
+**发布时间**: 2025-10-15 17:49
 
 ---
 
