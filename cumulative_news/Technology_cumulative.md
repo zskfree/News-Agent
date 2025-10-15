@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-14 23:23
+**最后更新时间**: 2025-10-15 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-15 05:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 研究探讨大语言模型幻觉的成因及潜在解决方案](https://www.infoq.cn/article/bDPhFBfAXURBdxdPIyil?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 13:00
+
+#### [蚂蚁开源万亿参数思考模型Ring-1T，综合能力逼近GPT-5、数学能力对标IMO银牌](https://www.infoq.cn/article/c83uUqDugaBXfGHJtgDZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 11:18
+
+#### [谷歌DeepMind推出Gemini 2.5计算机使用模型，实现可操作UI的智能体](https://www.infoq.cn/article/olNjEOA88PwKadejMmLc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 11:00
+
+#### [蚂蚁 DeepInsight 智能分析 Agent 在业务场景的落地实践｜QCon 上海](https://www.infoq.cn/article/zrOiITAsrb0HSOOSGN3y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 10:12
+
+#### [Azure Container Storage v2.0.0正式发布，性能大幅提升](https://www.infoq.cn/article/s5Ey7OWilrwmRpwasTd4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 09:53
+
+#### [不只是行业Know-How，营销类Agent 工程化落地难题有何解？｜对话瓴羊副总裁、友盟+总经理毛波](https://www.infoq.cn/article/z1EhVoNVCAC1vYgPOoL0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全年闭店超40家，初代网红85度C大撤退](https://www.tmtpost.com/7721836.html)
+**发布时间**: 2025-10-15 12:59
+
+#### [“我们不要怜悯，只要被看见”](https://www.tmtpost.com/7721679.html)
+**发布时间**: 2025-10-15 12:16
+
+#### [艾伯森公司股价因业绩上涨，数字销售大幅增长的驱动力是什么？](https://www.tmtpost.com/7721779.html)
+**发布时间**: 2025-10-15 11:57
+
+#### [牛马们都在用的App，要去上海IPO了](https://www.tmtpost.com/7721715.html)
+**发布时间**: 2025-10-15 11:57
+
+#### [China Tightens Rare Earth Export Controls, Sending Shockwaves Through Global Tech Supply Chains](https://www.tmtpost.com/7721755.html)
+**发布时间**: 2025-10-15 11:41
+
+#### [遭大疆退股的FJD冲刺IPO，留洋博士押注农业机器人，3年半累亏12.88亿](https://www.tmtpost.com/7721234.html)
+**发布时间**: 2025-10-15 11:35
+
+#### [消费显现疲软，美银荐两只“抗压”航空股](https://www.tmtpost.com/7721708.html)
+**发布时间**: 2025-10-15 11:13
+
+#### [Millrose Properties为住宅建筑商提供土地储备，年收益率达9%，具备潜在增值空间](https://www.tmtpost.com/7721706.html)
+**发布时间**: 2025-10-15 11:13
+
+#### [特斯拉正在“始祖鸟化”](https://www.tmtpost.com/7721247.html)
+**发布时间**: 2025-10-15 10:57
+
+#### [瑞士医疗科技公司Sleepiz研发非接触式睡眠监测设备，筛查睡眠呼吸暂停及其他慢性呼吸系统疾病 | 瑞士创新100强](https://www.tmtpost.com/7721643.html)
+**发布时间**: 2025-10-15 10:51
+
+#### [5000亿并购潮席卷三省！省级能源集团“大整合”，改写中国能源版图](https://www.tmtpost.com/7721324.html)
+**发布时间**: 2025-10-15 10:51
+
+#### [非洲“淘金”潮再起！能源金属龙头拟13.5亿收购刚果黄金资产；核心条款未达成一致，厦门SaaS企业收购兴储世纪告吹；【并购一线】](https://www.tmtpost.com/7721412.html)
+**发布时间**: 2025-10-15 10:23
+
+#### [降价不是大疆最主要的问题](https://www.tmtpost.com/7721363.html)
+**发布时间**: 2025-10-15 09:46
+
+#### [德赖登·彭斯： 为何我看好小盘股、国防股与AI板块？](https://www.tmtpost.com/7721586.html)
+**发布时间**: 2025-10-15 09:42
+
+#### [铜价“狂飙”下，铜铝复合材料已成激活金属产业效能的关键力量](https://www.tmtpost.com/7721466.html)
+**发布时间**: 2025-10-15 09:35
+
+#### [不再去KTV的年轻人，涌进了商场30元一小时的台球厅](https://www.tmtpost.com/7721437.html)
+**发布时间**: 2025-10-15 09:29
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从监听宇宙到找外星人，“中国天眼”为何能断层领先？](http://www.huxiu.com/article/4791436.html?f=wangzhan)
+**发布时间**: 2025-10-15 11:00
+
+#### [告别野蛮生长，官方出手整治车企OTA乱象](http://www.huxiu.com/article/4791841.html?f=wangzhan)
+**发布时间**: 2025-10-15 10:39
+
+#### [多头血流成河，稳定币脱锚，10·11爆仓日发生了什么？](http://www.huxiu.com/article/4791646.html?f=wangzhan)
+**发布时间**: 2025-10-15 09:00
+
+#### [特斯拉正在“始祖鸟化”](http://www.huxiu.com/article/4791919.html?f=wangzhan)
+**发布时间**: 2025-10-15 08:30
+
+#### [3600元育儿金背后，有怎样的万亿谋局？](http://www.huxiu.com/article/4791645.html?f=wangzhan)
+**发布时间**: 2025-10-15 07:15
+
+#### [以太坊到底是什么？](http://www.huxiu.com/article/4790570.html?f=wangzhan)
+**发布时间**: 2025-10-14 20:00
+
+#### [我们为什么连出5个反制措施？弄得对面万税爷都懵了](http://www.huxiu.com/article/4790690.html?f=wangzhan)
+**发布时间**: 2025-10-14 19:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜在鸿蒙建一间美术馆，我也登上了更大的舞台](https://sspai.com/post/102951)
+**发布时间**: 2025-10-15 11:00
+
+#### [派早报：ChatGPT 将放开成人内容限制、GrapheneOS 已与主流 OEM 厂商达成合作等](https://sspai.com/post/103104)
+**发布时间**: 2025-10-15 07:42
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Altman：ChatGPT将支持成人内容；港版iPhone Air无法用内地eSIM；传雷军一夜掉粉30万｜极客早知道](http://www.geekpark.net/news/354978)
+**发布时间**: 2025-10-15 08:21
 
 ---
 
