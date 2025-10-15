@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-15 05:19
+**最后更新时间**: 2025-10-15 08:33
+
+---
+
+## 🆕 最新更新 (2025-10-15 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI帮科研成果从实验室走进工厂，最快要几步？](https://www.infoq.cn/article/M2dfdE4gfjQ8G4k5LyNM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:33
+
+#### [Sigtica X 飞桨文心：以AI赋能法律研究，打造智能文档新范式](https://www.infoq.cn/article/XYQ2Fd1ioVwyoY6ftMpx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:32
+
+#### [一场“垃圾堆积问题”的AI数据漂流](https://www.infoq.cn/article/xPRIKgsUSCHzUbzY1Xz9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:32
+
+#### [实战 ClickPy（1.8 万亿行）：OpenTelemetry + ClickStack 如何实现秒级排障与会话回放](https://www.infoq.cn/article/zyNcNZpeO7f0wIoky0Rw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:30
+
+#### [大模型在工业场景中的落地实践、挑战与未来机遇｜QCon 上海](https://www.infoq.cn/article/UO0HvgIXkKRYx4FaXxGX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 16:17
+
+#### [老黄亲送马斯克“雷神之锤”！英伟达个人超算今日开售，2万多元买个“本地OpenAI”回家？](https://www.infoq.cn/article/ov4OFacpvlI642jCtrmL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 15:56
+
+#### [IDC：AI 原生云 / 新型云厂商重构 Agentic 基础设施](https://www.infoq.cn/minibook/fQRodO3b2d1XePXOG137?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 15:34
+
+#### [PlanetScale将数据库平台扩展至PostgreSQL](https://www.infoq.cn/article/4e64yRy4ZY2QlU87YLxS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 15:00
+
+#### [Windows 10 停服引发全球热议，国产OS迎来窗口期？专家：技术迭代是残酷的，也是必然过程](https://www.infoq.cn/article/3BYyXjpmwPsvduaUXD2m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 14:59
+
+#### [云计算启蒙者Jeff Barr 重返 QCon，带你看透 AI 如何重塑软件开发](https://www.infoq.cn/article/2lTFklr5ACgqmibCMI9f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-15 14:23
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [高德掀桌后，大众点评开始捍卫“真实”](https://www.tmtpost.com/7722106.html)
+**发布时间**: 2025-10-15 16:18
+
+#### [小熊电器：最甜的营销，最烫的教训](https://www.tmtpost.com/7722107.html)
+**发布时间**: 2025-10-15 16:18
+
+#### [购买猎装车的都是百里挑一的人？](https://www.tmtpost.com/7721995.html)
+**发布时间**: 2025-10-15 16:12
+
+#### [U.S. Probe and Power Bank Recalls Hit Anker Innovations](https://www.tmtpost.com/7722089.html)
+**发布时间**: 2025-10-15 15:37
+
+#### [10月15日A股分析：沪指涨1.22%报3912.21点，两市合计成交20728.59亿元，涨幅最多的板块为重组蛋白](https://www.tmtpost.com/7722046.html)
+**发布时间**: 2025-10-15 15:13
+
+#### [储能“芯荒”风暴：万亿订单下的产业困局与破局](https://www.tmtpost.com/7721314.html)
+**发布时间**: 2025-10-15 15:04
+
+#### [房价不是经济指标，强制因果论都是胡说八道](https://www.tmtpost.com/7721493.html)
+**发布时间**: 2025-10-15 14:58
+
+#### [“老登股”列传I：海天味业，匆匆忙忙跌跌撞撞这五年](https://www.tmtpost.com/7721545.html)
+**发布时间**: 2025-10-15 14:56
+
+#### [汽车减税门槛重新出牌，哪些车企将遭受冲击？](https://www.tmtpost.com/7721621.html)
+**发布时间**: 2025-10-15 14:53
+
+#### [永辉新CEO首次亮相，调改要神似而不是“形似”](https://www.tmtpost.com/7721914.html)
+**发布时间**: 2025-10-15 14:42
+
+#### [China's MIIT Chief Meets Apple CEO Tim Cook, Promises Favorable Business Climate for Foreign Firms](https://www.tmtpost.com/7721981.html)
+**发布时间**: 2025-10-15 14:36
+
+#### [手机品牌冲高端的难题，还得看联发科和vivo的答案](https://www.tmtpost.com/7721794.html)
+**发布时间**: 2025-10-15 14:22
+
+#### [Broadcom Launches Nvidia Rivaling Networking Chip as $10 Billion Customer Remains a Mystery](https://www.tmtpost.com/7721944.html)
+**发布时间**: 2025-10-15 14:20
+
+#### [东北老板即将干出一个IPO，年入46亿，剑指“中国第一”](https://www.tmtpost.com/7721611.html)
+**发布时间**: 2025-10-15 14:18
+
+#### [全球最大豪华酒店业主，8年痛失70家酒店](https://www.tmtpost.com/7721564.html)
+**发布时间**: 2025-10-15 14:18
+
+#### [刘强东下场造车？是京东要像卖手机一样卖车](https://www.tmtpost.com/7721543.html)
+**发布时间**: 2025-10-15 14:18
+
+#### [库克再度访华、向清华捐赠，苹果AI能落地中国吗？](https://www.tmtpost.com/7721515.html)
+**发布时间**: 2025-10-15 14:18
+
+#### [二线瓶装水反击，泉阳泉、润田、5100都不甘心](https://www.tmtpost.com/7721498.html)
+**发布时间**: 2025-10-15 14:18
+
+#### [美国调查、产品召回双击，安克创新浅海迷航](https://www.tmtpost.com/7721554.html)
+**发布时间**: 2025-10-15 14:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [黑苹果的黄昏：我用一台七年老本，为它举行最后的葬礼](https://sspai.com/post/102899)
+**发布时间**: 2025-10-15 15:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [不到1 年卖出 40 万台，吉利星愿做对了什么？](http://www.geekpark.net/news/354884)
+**发布时间**: 2025-10-12 15:02
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2025 05:20:43 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 08:34:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>瑞士医疗科技公司Sleepiz研发非接触式睡眠监测设备，筛查睡眠呼吸暂停及其他慢性呼吸系统疾病 | 瑞士创新100强</title>
-      <link>https://www.tmtpost.com/7721643.html</link>
-      <description>&lt;![CDATA[瑞士医疗科技公司Sleepiz研发非接触式睡眠监测设备，筛查睡眠呼吸暂停及其他慢性呼吸系统疾病 | 瑞士创新100强]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7721643.html</guid>
+      <title>美国调查、产品召回双击，安克创新浅海迷航</title>
+      <link>https://www.tmtpost.com/7721554.html</link>
+      <description>&lt;![CDATA[美国调查、产品召回双击，安克创新浅海迷航]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7721554.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Azure Container Storage v2.0.0正式发布，性能大幅提升</title>
-      <link>https://www.infoq.cn/article/s5Ey7OWilrwmRpwasTd4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Azure Container Storage v2.0.0正式发布，性能大幅提升]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/s5Ey7OWilrwmRpwasTd4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>PlanetScale将数据库平台扩展至PostgreSQL</title>
+      <link>https://www.infoq.cn/article/4e64yRy4ZY2QlU87YLxS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[PlanetScale将数据库平台扩展至PostgreSQL]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4e64yRy4ZY2QlU87YLxS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 研究探讨大语言模型幻觉的成因及潜在解决方案</title>
-      <link>https://www.infoq.cn/article/bDPhFBfAXURBdxdPIyil?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 研究探讨大语言模型幻觉的成因及潜在解决方案]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bDPhFBfAXURBdxdPIyil?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Windows 10 停服引发全球热议，国产OS迎来窗口期？专家：技术迭代是残酷的，也是必然过程</title>
+      <link>https://www.infoq.cn/article/3BYyXjpmwPsvduaUXD2m?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Windows 10 停服引发全球热议，国产OS迎来窗口期？专家：技术迭代是残酷的，也是必然过程]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3BYyXjpmwPsvduaUXD2m?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蚂蚁开源万亿参数思考模型Ring-1T，综合能力逼近GPT-5、数学能力对标IMO银牌</title>
-      <link>https://www.infoq.cn/article/c83uUqDugaBXfGHJtgDZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁开源万亿参数思考模型Ring-1T，综合能力逼近GPT-5、数学能力对标IMO银牌]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/c83uUqDugaBXfGHJtgDZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI帮科研成果从实验室走进工厂，最快要几步？</title>
+      <link>https://www.infoq.cn/article/M2dfdE4gfjQ8G4k5LyNM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI帮科研成果从实验室走进工厂，最快要几步？]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M2dfdE4gfjQ8G4k5LyNM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌DeepMind推出Gemini 2.5计算机使用模型，实现可操作UI的智能体</title>
-      <link>https://www.infoq.cn/article/olNjEOA88PwKadejMmLc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌DeepMind推出Gemini 2.5计算机使用模型，实现可操作UI的智能体]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/olNjEOA88PwKadejMmLc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Sigtica X 飞桨文心：以AI赋能法律研究，打造智能文档新范式</title>
+      <link>https://www.infoq.cn/article/XYQ2Fd1ioVwyoY6ftMpx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Sigtica X 飞桨文心：以AI赋能法律研究，打造智能文档新范式]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XYQ2Fd1ioVwyoY6ftMpx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蚂蚁 DeepInsight 智能分析 Agent 在业务场景的落地实践｜QCon 上海</title>
-      <link>https://www.infoq.cn/article/zrOiITAsrb0HSOOSGN3y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁 DeepInsight 智能分析 Agent 在业务场景的落地实践｜QCon 上海]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zrOiITAsrb0HSOOSGN3y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一场“垃圾堆积问题”的AI数据漂流</title>
+      <link>https://www.infoq.cn/article/xPRIKgsUSCHzUbzY1Xz9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一场“垃圾堆积问题”的AI数据漂流]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xPRIKgsUSCHzUbzY1Xz9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全年闭店超40家，初代网红85度C大撤退</title>
-      <link>https://www.tmtpost.com/7721836.html</link>
-      <description>&lt;![CDATA[全年闭店超40家，初代网红85度C大撤退]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7721836.html</guid>
+      <title>实战 ClickPy（1.8 万亿行）：OpenTelemetry + ClickStack 如何实现秒级排障与会话回放</title>
+      <link>https://www.infoq.cn/article/zyNcNZpeO7f0wIoky0Rw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[实战 ClickPy（1.8 万亿行）：OpenTelemetry + ClickStack 如何实现秒级排障与会话回放]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zyNcNZpeO7f0wIoky0Rw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“我们不要怜悯，只要被看见”</title>
-      <link>https://www.tmtpost.com/7721679.html</link>
-      <description>&lt;![CDATA[“我们不要怜悯，只要被看见”]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 12:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7721679.html</guid>
+      <title>大模型在工业场景中的落地实践、挑战与未来机遇｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/UO0HvgIXkKRYx4FaXxGX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型在工业场景中的落地实践、挑战与未来机遇｜QCon 上海]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UO0HvgIXkKRYx4FaXxGX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>艾伯森公司股价因业绩上涨，数字销售大幅增长的驱动力是什么？</title>
-      <link>https://www.tmtpost.com/7721779.html</link>
-      <description>&lt;![CDATA[艾伯森公司股价因业绩上涨，数字销售大幅增长的驱动力是什么？]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7721779.html</guid>
+      <title>IDC：AI 原生云 / 新型云厂商重构 Agentic 基础设施</title>
+      <link>https://www.infoq.cn/minibook/fQRodO3b2d1XePXOG137?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[IDC：AI 原生云 / 新型云厂商重构 Agentic 基础设施]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/minibook/fQRodO3b2d1XePXOG137?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>牛马们都在用的App，要去上海IPO了</title>
-      <link>https://www.tmtpost.com/7721715.html</link>
-      <description>&lt;![CDATA[牛马们都在用的App，要去上海IPO了]]&gt;</description>
-      <pubDate>Wed, 15 Oct 2025 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7721715.html</guid>
+      <title>云计算启蒙者Jeff Barr 重返 QCon，带你看透 AI 如何重塑软件开发</title>
+      <link>https://www.infoq.cn/article/2lTFklr5ACgqmibCMI9f?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[云计算启蒙者Jeff Barr 重返 QCon，带你看透 AI 如何重塑软件开发]]&gt;</description>
+      <pubDate>Wed, 15 Oct 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2lTFklr5ACgqmibCMI9f?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
