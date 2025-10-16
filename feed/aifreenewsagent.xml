@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2025 05:20:24 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 08:33:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“2025骁龙人工智能创新应用大赛” 正式启动，寻找最具想象力的AI创意开发者！</title>
-      <link>https://www.qbitai.com/2025/10/342252.html</link>
-      <description>&lt;![CDATA[“2025骁龙人工智能创新应用大赛” 正式启动，寻找最具想象力的AI创意开发者！]]&gt;</description>
-      <pubDate>Thu, 16 Oct 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342252.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>库克人在北京，安卓AiPhone 4499元贴脸开卖！</title>
-      <link>https://www.qbitai.com/2025/10/342134.html</link>
-      <description>&lt;![CDATA[库克人在北京，安卓AiPhone 4499元贴脸开卖！]]&gt;</description>
-      <pubDate>Thu, 16 Oct 2025 03:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342134.html</guid>
+      <title>新豆包模型让郭德纲喊出发疯文学：(这班)不上了！不上了！不上了！！！</title>
+      <link>https://www.qbitai.com/2025/10/342259.html</link>
+      <description>&lt;![CDATA[新豆包模型让郭德纲喊出发疯文学：(这班)不上了！不上了！不上了！！！]]&gt;</description>
+      <pubDate>Thu, 16 Oct 2025 06:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342259.html</guid>
       <category>AI</category>
     </item>
   </channel>

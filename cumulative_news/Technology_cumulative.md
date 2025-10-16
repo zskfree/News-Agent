@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-16 05:20
+**最后更新时间**: 2025-10-16 08:33
+
+---
+
+## 🆕 最新更新 (2025-10-16 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI新“蜀”光将如何点亮西部科创高地？10月25日成都揭晓答案](https://www.infoq.cn/article/WSXZ04Yqm2Euf7X8Poup?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-16 16:21
+
+#### [全球计算机系统领域“奥运会”SOSP公布最佳论文，“星绽”OS入选](https://www.infoq.cn/article/bOTukY8TQ35BlfUddb9Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-16 16:08
+
+#### [关于就业，年轻人找到了与 AI 的“共生模式”](https://www.infoq.cn/article/bpUzYYb7iRlTqwwKNHKz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-16 15:45
+
+#### [若架构能言，定会引述你的老板](https://www.infoq.cn/article/NVJEIis8tOteQtvT6HfQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-16 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China's Leading Service Robot Maker Yunji Technology Surges on Hong Kong Debut](https://www.tmtpost.com/7725158.html)
+**发布时间**: 2025-10-16 15:58
+
+#### [这届老年人，把错峰游玩玩成了“抄底局”](https://www.tmtpost.com/7723048.html)
+**发布时间**: 2025-10-16 15:48
+
+#### [8轮融12亿，“酒店机器人”去IPO了](https://www.tmtpost.com/7724615.html)
+**发布时间**: 2025-10-16 15:41
+
+#### [FDA力推的类器官芯片，国内进展到哪了？](https://www.tmtpost.com/7724694.html)
+**发布时间**: 2025-10-16 15:35
+
+#### [Microsoft Fuels AI Frenzy with $14 Billion Infrastructure Deal, Joins in Purchase of Aligned Data Centers for $40 Billion](https://www.tmtpost.com/7725129.html)
+**发布时间**: 2025-10-16 15:30
+
+#### [AI越流行，广告人越应该当网红](https://www.tmtpost.com/7724747.html)
+**发布时间**: 2025-10-16 15:30
+
+#### [一场三年半的私有化拉锯战，博实乐大股东“收割”小股东](https://www.tmtpost.com/7724644.html)
+**发布时间**: 2025-10-16 15:29
+
+#### [王老吉和加多宝都上火了](https://www.tmtpost.com/7724752.html)
+**发布时间**: 2025-10-16 15:25
+
+#### [马斯克称OpenAI估值过高，人工智能有多少泡沫？](https://www.tmtpost.com/7724797.html)
+**发布时间**: 2025-10-16 15:25
+
+#### [网瘾中老年，成为最容易受骗的一群人](https://www.tmtpost.com/7724991.html)
+**发布时间**: 2025-10-16 15:25
+
+#### [亚马逊正式通知，将报送所有中国卖家涉税信息](https://www.tmtpost.com/7725027.html)
+**发布时间**: 2025-10-16 15:25
+
+#### [“流拍”的股权与“失联”的股东：富滇银行资本信心从何重建？](https://www.tmtpost.com/7725059.html)
+**发布时间**: 2025-10-16 15:25
+
+#### [谁导演了“1011”加密货币大崩盘？ | 巴伦精选](https://www.tmtpost.com/7725070.html)
+**发布时间**: 2025-10-16 15:13
+
+#### [全球机器人服务智能体领军企业云迹科技 成功登陆港交所 | 被投动态](https://www.tmtpost.com/7724744.html)
+**发布时间**: 2025-10-16 14:52
+
+#### [Velotric完成B轮融资，加速渗透北美市场 | 融资首发](https://www.tmtpost.com/7722958.html)
+**发布时间**: 2025-10-16 14:29
 
 ---
 
