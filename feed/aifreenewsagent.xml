@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Oct 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2025 08:33:47 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 23:22:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>新豆包模型让郭德纲喊出发疯文学：(这班)不上了！不上了！不上了！！！</title>
-      <link>https://www.qbitai.com/2025/10/342259.html</link>
-      <description>&lt;![CDATA[新豆包模型让郭德纲喊出发疯文学：(这班)不上了！不上了！不上了！！！]]&gt;</description>
-      <pubDate>Thu, 16 Oct 2025 06:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342259.html</guid>
+      <title>Using AI to identify genetic variants in tumors with DeepSomatic</title>
+      <link>https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/</link>
+      <description>&lt;![CDATA[Using AI to identify genetic variants in tumors with DeepSomatic]]&gt;</description>
+      <pubDate>Thu, 16 Oct 2025 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>黄仁勋女儿直播亮相，聊了具身智能</title>
+      <link>https://www.qbitai.com/2025/10/342649.html</link>
+      <description>&lt;![CDATA[黄仁勋女儿直播亮相，聊了具身智能]]&gt;</description>
+      <pubDate>Thu, 16 Oct 2025 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342649.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>雷军公开发言了！呼吁抵制水军黑公关，资源集中技术研发</title>
+      <link>https://www.qbitai.com/2025/10/342428.html</link>
+      <description>&lt;![CDATA[雷军公开发言了！呼吁抵制水军黑公关，资源集中技术研发]]&gt;</description>
+      <pubDate>Thu, 16 Oct 2025 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342428.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里发布Qoder CLI，可在终端一键实现AI编程</title>
+      <link>https://www.qbitai.com/2025/10/342420.html</link>
+      <description>&lt;![CDATA[阿里发布Qoder CLI，可在终端一键实现AI编程]]&gt;</description>
+      <pubDate>Thu, 16 Oct 2025 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342420.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球计算机系统领域“奥运会”SOSP公布最佳论文 “星绽”OS入选</title>
+      <link>https://www.qbitai.com/2025/10/342415.html</link>
+      <description>&lt;![CDATA[全球计算机系统领域“奥运会”SOSP公布最佳论文 “星绽”OS入选]]&gt;</description>
+      <pubDate>Thu, 16 Oct 2025 08:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342415.html</guid>
       <category>AI</category>
     </item>
   </channel>
