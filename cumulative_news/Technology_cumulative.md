@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-16 23:22
+**最后更新时间**: 2025-10-17 05:25
+
+---
+
+## 🆕 最新更新 (2025-10-17 05:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌 DeepMind 推出 CodeMender：自动修复代码的智能代理](https://www.infoq.cn/article/IKRjkledRZfzI1OK2IOl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 13:00
+
+#### [来自“万亿Token俱乐部”的启示：以AI为核心的员工考评框架](https://www.infoq.cn/article/VhDQrOLYYtkT6ovTtpJg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 12:05
+
+#### [Claude Sonnet 4.5 在 SWE-Bench Verified 测试中夺冠，编程专注力突破 30 小时大关](https://www.infoq.cn/article/U1PzakZYGceQ2iUGor1i?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 12:00
+
+#### [火山 HTTPDNS Cache2.0：网段级精准调度驱动核心业务收益](https://www.infoq.cn/article/4ypRyCzGQHstgKmjr51S?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 11:28
+
+#### [Genkit 扩展为 Gemini CLI 终端带来框架感知的 AI 辅助功能](https://www.infoq.cn/article/IMNr898s2wqKEYc9XsyV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 10:31
+
+#### [研究先行：通往 PMF 的最短路径｜QCon 上海](https://www.infoq.cn/article/QVtermII9GyrY42wxFiP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [TSMC Q3 Profit Rises 39% to Record, Upgrades Annual Outlook with Confidence in Strong AI Demand](https://www.tmtpost.com/7726324.html)
+**发布时间**: 2025-10-17 12:49
+
+#### [别再用小字游戏，消耗用户的信任](https://www.tmtpost.com/7726052.html)
+**发布时间**: 2025-10-17 12:26
+
+#### [从借手产业基金到控股收购：依依股份的宠物食品“野心”浮出水面｜并购一线](https://www.tmtpost.com/7721271.html)
+**发布时间**: 2025-10-17 12:25
+
+#### ["Glass King" Cao Dewang Cao Dewang Steps Down at Fuyao Glass, Expands Billion-Yuan Educational Philanthropy](https://www.tmtpost.com/7726272.html)
+**发布时间**: 2025-10-17 11:59
+
+#### [从「扫腿」到「上车」，团播火了几支舞](https://www.tmtpost.com/7725814.html)
+**发布时间**: 2025-10-17 11:39
+
+#### [武汉新芯“利润休克症”透视：特晶龙头，困于“重资产魔咒” |深度](https://www.tmtpost.com/7726167.html)
+**发布时间**: 2025-10-17 11:33
+
+#### [3年市值缩水近八成，如今重回千亿，“钴爷”杀回来了](https://www.tmtpost.com/7725977.html)
+**发布时间**: 2025-10-17 11:15
+
+#### [AI Pioneer Fei-Fei Li Unveils Real-Time Generative 'World Model' Capable of Rendering 3D Scenes from 2D Images](https://www.tmtpost.com/7726181.html)
+**发布时间**: 2025-10-17 11:04
+
+#### [以视频提取破解具身数据困境，枢途科技获数千万元融资，领跑视频具身数采蓝海 | 融资首发](https://www.tmtpost.com/7726084.html)
+**发布时间**: 2025-10-17 11:00
+
+#### [vivo重返第一、华为苹果争第二，OPPO荣耀危险了？](https://www.tmtpost.com/7725982.html)
+**发布时间**: 2025-10-17 10:56
+
+#### [Tim Cook Tells Chinese Commerce Minister Apple Ready to Help Promote China-U.S. Cooperation](https://www.tmtpost.com/7726099.html)
+**发布时间**: 2025-10-17 10:42
+
+#### [“AI教母”李飞飞的全新世界模型问世！一张英伟达AI芯片就能生成无限3D世界](https://www.tmtpost.com/7726093.html)
+**发布时间**: 2025-10-17 10:39
+
+#### [AI重构财务，我们离“无需报销”还有多远？丨ToB产业观察](https://www.tmtpost.com/7726062.html)
+**发布时间**: 2025-10-17 10:33
+
+#### [投资逻辑「红宝书」之：TACO交易](https://www.tmtpost.com/7725812.html)
+**发布时间**: 2025-10-17 10:20
+
+#### [东鹏饮料二度闯关港股：不缺钱的功能饮料龙头，在谋划什么？](https://www.tmtpost.com/7725507.html)
+**发布时间**: 2025-10-17 10:04
+
+#### [索菲亚 699 套餐：流量狂欢下的隐忧](https://www.tmtpost.com/7725615.html)
+**发布时间**: 2025-10-17 09:40
+
+#### [12年的汉服老店，倒在双11前夕](https://www.tmtpost.com/7725519.html)
+**发布时间**: 2025-10-17 09:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [线下活动｜她的家，邀请你来「共创」？](https://sspai.com/post/103132)
+**发布时间**: 2025-10-17 10:30
+
+#### [派早报：OPPO 发布 Find X9 系列新品、Google 推出四项新功能保护 Android 用户等](https://sspai.com/post/103156)
+**发布时间**: 2025-10-17 08:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [蔚来回应外国基金投诉：无事实依据；零跑推D19旗舰SUV，配超大电池；卡西欧推《回到未来》40周年联名表](http://www.geekpark.net/news/355077)
+**发布时间**: 2025-10-17 08:25
 
 ---
 
