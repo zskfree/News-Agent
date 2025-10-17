@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Oct 2025 05:25:14 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 08:27:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>李飞飞发布全新世界模型，单GPU就能跑！</title>
-      <link>https://www.qbitai.com/2025/10/342735.html</link>
-      <description>&lt;![CDATA[李飞飞发布全新世界模型，单GPU就能跑！]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 04:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342735.html</guid>
+      <title>400元遥操95%机械臂！上海交大推出开源项目U-Arm，打造通用、低成本的人机遥操作接口</title>
+      <link>https://www.qbitai.com/2025/10/342796.html</link>
+      <description>&lt;![CDATA[400元遥操95%机械臂！上海交大推出开源项目U-Arm，打造通用、低成本的人机遥操作接口]]&gt;</description>
+      <pubDate>Fri, 17 Oct 2025 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342796.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>日产找到了爆款密码：华为技术，中国主导</title>
-      <link>https://www.qbitai.com/2025/10/342714.html</link>
-      <description>&lt;![CDATA[日产找到了爆款密码：华为技术，中国主导]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 04:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342714.html</guid>
+      <title>爱诗科技完成B+轮1亿元融资，ARR突破4000万美金</title>
+      <link>https://www.qbitai.com/2025/10/342786.html</link>
+      <description>&lt;![CDATA[爱诗科技完成B+轮1亿元融资，ARR突破4000万美金]]&gt;</description>
+      <pubDate>Fri, 17 Oct 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342786.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全球创业比赛，139个国家和地区参加，中国具身机器人公司获奖！</title>
-      <link>https://www.qbitai.com/2025/10/342709.html</link>
-      <description>&lt;![CDATA[全球创业比赛，139个国家和地区参加，中国具身机器人公司获奖！]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342709.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>北京清华长庚医院与北电数智签署战略合作，赋能药学创新和睡眠医学研究</title>
-      <link>https://www.qbitai.com/2025/10/342701.html</link>
-      <description>&lt;![CDATA[北京清华长庚医院与北电数智签署战略合作，赋能药学创新和睡眠医学研究]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342701.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NEURA Robotics落子杭州，为“物理AI”架设全球桥梁</title>
-      <link>https://www.qbitai.com/2025/10/342696.html</link>
-      <description>&lt;![CDATA[NEURA Robotics落子杭州，为“物理AI”架设全球桥梁]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 02:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342696.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI最新业务：找了个黑洞物理科学家</title>
-      <link>https://www.qbitai.com/2025/10/342661.html</link>
-      <description>&lt;![CDATA[OpenAI最新业务：找了个黑洞物理科学家]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 01:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342661.html</guid>
+      <title>AGI今天起有了量化标准！Bengio牵头定义，当前进度条58%</title>
+      <link>https://www.qbitai.com/2025/10/342761.html</link>
+      <description>&lt;![CDATA[AGI今天起有了量化标准！Bengio牵头定义，当前进度条58%]]&gt;</description>
+      <pubDate>Fri, 17 Oct 2025 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342761.html</guid>
       <category>AI</category>
     </item>
   </channel>

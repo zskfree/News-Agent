@@ -1,78 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "530314b407b331b3f80bc263de38847391fccc0a67ba290bcf9fe9706dd8f9e0": {
-        "title": "LLM开源2.0大洗牌：60个出局，39个上桌，AI Coding疯魔，TensorFlow已死",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-17-4",
-        "published_date": "Wed, 17 Sep 2025 13:09:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423309"
-      },
-      "85da8ccaee23de1deddd168299db160b7d6ad3d0b1fbb947d050da87a085732e": {
-        "title": "Cell丨谷歌AI co-scientist联合帝国理工揭开谜团：提出并验证细菌基因转移机制假说",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-17-3",
-        "published_date": "Wed, 17 Sep 2025 12:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423372"
-      },
-      "bcf436b2f495f033d2299620e3e6006ed3d7b8ef584d8733bf1eaa036f70e8b8": {
-        "title": "奇点智能研究院出席GOSIM杭州2025：以AI开源推动治理创新，共建可信智能未来",
-        "link": "https://www.qbitai.com/2025/09/333030.html",
-        "published_date": "Wed, 17 Sep 2025 04:40:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423384"
-      },
-      "7fa340103d18812a0bac50e80cf460373d1e62a2a51ee73feba0c5a1d921d9b5": {
-        "title": "腾讯混元开源AI绘画新框架：24维度对齐人类意图，让AI读懂复杂指令",
-        "link": "https://www.qbitai.com/2025/09/332825.html",
-        "published_date": "Wed, 17 Sep 2025 02:02:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423396"
-      },
-      "9352bcd9f9ab03d0a09c5b6b9d9e77b805974274ae7444e9deb63b68af7d2f49": {
-        "title": "DISPLIB: a library of train dispatching problems",
-        "link": "https://arxiv.org/abs/2509.12254",
-        "published_date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423407"
-      },
-      "5512bcdbdf0d92fe94e558e68de5932a57363bb976bce2343f11ae4a76bee0dc": {
-        "title": "LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences",
-        "link": "https://arxiv.org/abs/2509.12273",
-        "published_date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423419"
-      },
-      "765f67ace9a6bae731aa9ef4463fa3da88af01c4aa68ddcbf0f41d3556337836": {
-        "title": "Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction",
-        "link": "https://arxiv.org/abs/2509.12464",
-        "published_date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423430"
-      },
-      "8d0479127559b19d54ab06a6090e1159e3153829ba2b27d7d30503f1f7731970": {
-        "title": "Empowering Clinical Trial Design through AI: A Randomized Evaluation of PowerGPT",
-        "link": "https://arxiv.org/abs/2509.12471",
-        "published_date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423340"
-      },
-      "de714dfd88130aba3005726149dcd5efd0bcc28f073bd81cfba774dd5efe82e2": {
-        "title": "A Dimensionality-Reduced XAI Framework for Roundabout Crash Severity Insights",
-        "link": "https://arxiv.org/abs/2509.12524",
-        "published_date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423441"
-      },
-      "265b94144b0a6e25d670698e2718800852065857e9c1409d85d550d8e75f4272": {
-        "title": "Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy",
-        "link": "https://arxiv.org/abs/2509.13234",
-        "published_date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.423357"
-      },
-      "c7d4098134bee245af7e0c89b2306619ada168563fbe0659b05759b59e3fd687": {
-        "title": "华为发布4+10+N中小企业智能化方案，打通迈向智能世界「最后一公里」",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-17-5",
-        "published_date": "Wed, 17 Sep 2025 15:56:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.736001"
-      },
-      "aa8e6a11fa36a25e11ef830099cf5fb612c5774cd08ff844587dd18455e7fc2e": {
-        "title": "首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解",
-        "link": "https://www.qbitai.com/2025/09/333037.html",
-        "published_date": "Wed, 17 Sep 2025 06:58:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.736179"
-      },
       "171c2eda7f0951cbb08f53f42abd6c0d511e144c9694bc5330eb43c74a869547": {
         "title": "没想到，音频大模型开源最彻底的，居然是小红书",
         "link": "https://www.jiqizhixin.com/articles/2025-09-17-10",
@@ -6732,117 +6660,27 @@
         "link": "https://www.qbitai.com/2025/10/342661.html",
         "published_date": "Fri, 17 Oct 2025 01:23:00 GMT",
         "first_seen": "2025-10-17T05:25:14.010319"
+      },
+      "01fb0f0fe37ebcc04e837f290ef8fee3b9ef819ccb1b8df1fca7bc1392717f00": {
+        "title": "400元遥操95%机械臂！上海交大推出开源项目U-Arm，打造通用、低成本的人机遥操作接口",
+        "link": "https://www.qbitai.com/2025/10/342796.html",
+        "published_date": "Fri, 17 Oct 2025 07:18:00 GMT",
+        "first_seen": "2025-10-17T08:27:58.938837"
+      },
+      "04c1d8cd00823cac78e8aa9694aaab3a0ff80a7c24b8b91e8faaa0f290b0ee0d": {
+        "title": "爱诗科技完成B+轮1亿元融资，ARR突破4000万美金",
+        "link": "https://www.qbitai.com/2025/10/342786.html",
+        "published_date": "Fri, 17 Oct 2025 07:08:00 GMT",
+        "first_seen": "2025-10-17T08:27:58.939017"
+      },
+      "fb4fbb4212b092ace3370969a85aa72fd13e205081a6644fcf58330e42105cdf": {
+        "title": "AGI今天起有了量化标准！Bengio牵头定义，当前进度条58%",
+        "link": "https://www.qbitai.com/2025/10/342761.html",
+        "published_date": "Fri, 17 Oct 2025 06:11:00 GMT",
+        "first_seen": "2025-10-17T08:27:58.939202"
       }
     },
     "Technology": {
-      "6cb821ec75879f90e17b7bd0c17542e1608363e7be7815de9a12bc04824d2ee2": {
-        "title": "元创股份：增收不增利，扩产补流合理性存疑｜IPO观察",
-        "link": "https://www.tmtpost.com/7697236.html",
-        "published_date": "Wed, 17 Sep 2025 16:07:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632440"
-      },
-      "c261f4d5560c0135e7c304cfee9cf913cec20d8f5f9b5580479436b6895663da": {
-        "title": "为什么小米16改名小米17？",
-        "link": "https://www.tmtpost.com/7696798.html",
-        "published_date": "Wed, 17 Sep 2025 16:05:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632453"
-      },
-      "7965c61187772612f56bb38165cf49abd1c97a860e7f00dd9d7b049cfafbff73": {
-        "title": "29元一晚的“县城招待所”巨头，如今估值570亿",
-        "link": "https://www.tmtpost.com/7696698.html",
-        "published_date": "Wed, 17 Sep 2025 16:05:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632465"
-      },
-      "3fac0000aa570d5a7a09b137ef69a09fb9ccc6afdf0ab269e4e5195a04cac176": {
-        "title": "China Accelerates Innovative Drug Approvals to Counter U.S. Sanctions",
-        "link": "https://www.tmtpost.com/7697329.html",
-        "published_date": "Wed, 17 Sep 2025 15:14:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632478"
-      },
-      "707867d4772b29719d20d6c8d766e28f9d5098197c9fb1228891e458984955e3": {
-        "title": "9月17日A股分析：深成指、创业板指创阶段新高，两市合计成交23767.46亿元，资金流入最多的行业板块为多元金融、光学光电子",
-        "link": "https://www.tmtpost.com/7697310.html",
-        "published_date": "Wed, 17 Sep 2025 15:12:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632492"
-      },
-      "781b6f06e83a4c5234981578a4a782d0734d0eaab19be9b3d37e46fb5ab1b0a9": {
-        "title": "汇源果汁，战端再起",
-        "link": "https://www.tmtpost.com/7696651.html",
-        "published_date": "Wed, 17 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.336716"
-      },
-      "4b152e665b806402468f14666267975a49ec16163e1b7d1cc777a2387f9136d7": {
-        "title": "中式梦核，Z世代的电子乡愁",
-        "link": "https://www.tmtpost.com/7696500.html",
-        "published_date": "Wed, 17 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632502"
-      },
-      "3e4e111357293256168e96ea44015507fc29406401ea00ad4d3e316615c1a7b4": {
-        "title": "激光雷达，为什么赚钱难？",
-        "link": "https://www.tmtpost.com/7696754.html",
-        "published_date": "Wed, 17 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632511"
-      },
-      "15990801db02db3b62e3610ebea4e5cded08a10b9c4f5f6653fb7c624242f0e1": {
-        "title": "3年研发烧掉24亿现金流告急，迈威生物顶着合规风波再赴港股",
-        "link": "https://www.tmtpost.com/7696425.html",
-        "published_date": "Wed, 17 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632411"
-      },
-      "93d25a41a13035136e9d517f88134edeaeef9949e4b8470036c12337cba00d8a": {
-        "title": "「一页纸」讲透RWA第一股：Figure",
-        "link": "https://www.tmtpost.com/7696465.html",
-        "published_date": "Wed, 17 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632521"
-      },
-      "ccd18256e1e5f2119d247604f42f30e87dfa1dc184c9f30dc2ed605c4dd7de16": {
-        "title": "属地管委会接盘澳洋健康，90后国资操盘手直面造血难题",
-        "link": "https://www.tmtpost.com/7697167.html",
-        "published_date": "Wed, 17 Sep 2025 15:07:00 GMT",
-        "first_seen": "2025-09-17T08:27:37.632531"
-      },
-      "a5d3adc4c37c1e2aa8a48b711b9b2edc65c75677f373be0b6e6114f22946915a": {
-        "title": "Xpeng eVTOLs Collide During Changchun Air Show Rehearsal, One Passenger Injured",
-        "link": "https://www.tmtpost.com/7697209.html",
-        "published_date": "Wed, 17 Sep 2025 14:21:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.339528"
-      },
-      "7ca83589821a12aa0155eac308e16f125db26c5641c1c23bcad11c1dda74eb0b": {
-        "title": "Tongwei Solar Meishan Named World's First Photovoltaic \"Lighthouse Factory\" by WEF",
-        "link": "https://www.tmtpost.com/7697190.html",
-        "published_date": "Wed, 17 Sep 2025 14:09:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.340702"
-      },
-      "be9616499be27702f0fe47efb472addec0de95c8ab7bcb716350d6001fb8fa1a": {
-        "title": "谁在“梯”醒广告主？AI正在重构电梯媒体的价值边界",
-        "link": "https://www.tmtpost.com/7693933.html",
-        "published_date": "Wed, 17 Sep 2025 13:25:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.341409"
-      },
-      "59948dfdb7457c0d5e877e1ad49cbb0b8d9e982810958ec4a7ec790d37df6564": {
-        "title": "具透 | 自动过渡、歌词翻译…… Apple Music 值得关注的新特性",
-        "link": "https://sspai.com/post/102591",
-        "published_date": "Wed, 17 Sep 2025 14:42:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.342387"
-      },
-      "27442b9c4c211db72965e9ce572b3c9b9c4b886da65e58c6e9ef3058c1d4745b": {
-        "title": "5000万成本，狂揽16亿！《浪浪山》如何逆袭成影史第二？",
-        "link": "http://www.huxiu.com/article/4780604.html?f=wangzhan",
-        "published_date": "Wed, 17 Sep 2025 11:20:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.343205"
-      },
-      "f366f79e8b2bf8e6fe99f881fe07fd900d49283b58aaecc59c6f8ac2baf457d7": {
-        "title": "中美马德里谈判，为啥TikTok成破局者？",
-        "link": "http://www.huxiu.com/article/4780823.html?f=wangzhan",
-        "published_date": "Wed, 17 Sep 2025 11:00:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.343867"
-      },
-      "876caf0a6b76b36b8eebc71585a02faf1a558503ee3198e92db969b1398fae54": {
-        "title": "8秒出餐，横扫全球，取代星巴克指日可待？",
-        "link": "http://www.huxiu.com/article/4768062.html?f=wangzhan",
-        "published_date": "Wed, 17 Sep 2025 08:30:00 GMT",
-        "first_seen": "2025-09-17T08:26:49.344598"
-      },
       "e038e6504e0c2e6a80ef8db35406a5198c01b1c9f179c704471bc86f1a98f56a": {
         "title": "Fed Cuts 25 BPs Amid a Weakening Labor Market",
         "link": "https://www.tmtpost.com/7697912.html",
@@ -20198,33 +20036,117 @@
         "link": "http://www.geekpark.net/news/355077",
         "published_date": "Fri, 17 Oct 2025 08:25:00 GMT",
         "first_seen": "2025-10-17T05:25:14.092659"
+      },
+      "5bcfc72b461aee487323de7bbd67df026020c0481e47a868cee8f6dc052495eb": {
+        "title": "Nio Shares Tumble After Singapore Sovereign Wealth Fund Sues Over Battery Revenue Claims",
+        "link": "https://www.tmtpost.com/7729889.html",
+        "published_date": "Fri, 17 Oct 2025 15:54:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293672"
+      },
+      "55cedf1c58e354f1ad1a9e02ba3f66040d9f0ade54eca19d94d36f7b7a927570": {
+        "title": "当AI与老人相爱，谁来为“爱”买单？",
+        "link": "https://www.tmtpost.com/7726008.html",
+        "published_date": "Fri, 17 Oct 2025 15:25:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293689"
+      },
+      "52025665985c0bb24029572dd2abaf5085477b6ee66ea7dc5324e33dec099d73": {
+        "title": "康斯特雷莱能源公司拥有人工智能所需的动力，首席执行官正充分利用这一优势",
+        "link": "https://www.tmtpost.com/7729842.html",
+        "published_date": "Fri, 17 Oct 2025 15:21:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293700"
+      },
+      "0ce9b3332e0ddb75f0abe2208451f59e5e392285bd978b7a622d5b56aaaf338d": {
+        "title": "一个“社会人”会买什么？阿里双11发动AI和即时零售一起看一看",
+        "link": "https://www.tmtpost.com/7726463.html",
+        "published_date": "Fri, 17 Oct 2025 14:54:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293712"
+      },
+      "6cc805a78614cdce495823dfe49ce765817a52d91328346e2cfcb29db6cff7eb": {
+        "title": "短剧新资源战打响：无“IP”不爆款",
+        "link": "https://www.tmtpost.com/7726135.html",
+        "published_date": "Fri, 17 Oct 2025 14:39:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293725"
+      },
+      "799b1edf883782c8720703d614680e8f3680fcb632e9c583b44ae716bab32e65": {
+        "title": "单月超70款新车炸场，车市四季度压力上架",
+        "link": "https://www.tmtpost.com/7725933.html",
+        "published_date": "Fri, 17 Oct 2025 14:09:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293735"
+      },
+      "34c4a331a5f0d9d6815a4075dcdb0d7898fd90459ace88694cf2b08b011b8bb4": {
+        "title": "从小镇开到魔都，背包十年的扩张之道……",
+        "link": "https://www.tmtpost.com/7725449.html",
+        "published_date": "Fri, 17 Oct 2025 14:09:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293745"
+      },
+      "641190507abe2c28b60cf3709e37c0786cef6001909b6ddc8ecd164e7ae0c253": {
+        "title": "Oracle Confirms Deal with Meat, Sees AI Cloud Margin Up to 40% to Reassure Investors",
+        "link": "https://www.tmtpost.com/7726413.html",
+        "published_date": "Fri, 17 Oct 2025 14:05:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293759"
+      },
+      "cbf9ed2c87284602a1c1230af54e61c49cda26849aca6900be6e59535635cfc0": {
+        "title": "健信超导：毛利率远落后同行，“硬科技”定位引质疑，客户集中且关联交易存疑｜IPO观察",
+        "link": "https://www.tmtpost.com/7726383.html",
+        "published_date": "Fri, 17 Oct 2025 14:01:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293585"
+      },
+      "5b9a66ae93e6b4d63db685efd5f80735755986d49a651206af55cc708108934e": {
+        "title": "沐曦 MetaX 团队联合 HAMi 推出统一调度方案：实现 sGPU 共享、三档 QoS、拓扑智能调度与 WebUI 全面适配",
+        "link": "https://www.infoq.cn/article/CJSEIXxKzO9QYRoHShrT?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Oct 2025 15:38:00 GMT",
+        "first_seen": "2025-10-17T08:27:58.997703"
+      },
+      "af0fad99b37f17d069ff26caf9d5d238e9834b5582ecaadc0b71535178327eea": {
+        "title": "AI 时代可观测性的“智”变与“智”控 ｜InfoQ《极客有约》",
+        "link": "https://www.infoq.cn/video/YOTeVHta0A3Xqq2l4Bbp?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Oct 2025 14:57:00 GMT",
+        "first_seen": "2025-10-17T08:27:58.998490"
+      },
+      "163b191fad9a1cbf8e9412164b397140763aebbed1cc330bbd091890095d3dd9": {
+        "title": "不到半年就传解散！两轮数亿融资刚落地，这家机器人公司就“无”了？",
+        "link": "https://www.infoq.cn/article/5xAfQsAESr7khmBzBdLP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Oct 2025 14:42:00 GMT",
+        "first_seen": "2025-10-17T08:27:58.999308"
+      },
+      "0c4fdbadcf1fe7cfcb4e3d29449e5923cc95c4f250f0c86258d87d083c3803d5": {
+        "title": "明星AI编码助手涨价10倍惹怒开发者！CEO 回应：有人花千元薅了我们10多万，不挣钱不可持续",
+        "link": "https://www.infoq.cn/article/8vgeCKpQ5E7XsT9NmS1Q?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Oct 2025 14:34:00 GMT",
+        "first_seen": "2025-10-17T08:27:59.000365"
+      },
+      "b231d27d2f92bbf23d7f6195abdbc480da4d53cda1db2d7259f64ba85e1dac4c": {
+        "title": "Mobvista蔡超：多智能体不是“可选项”，而是软件未来的“必答题”",
+        "link": "https://www.infoq.cn/article/EkgbOFf2QOp3QKMDIIpJ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Oct 2025 14:30:00 GMT",
+        "first_seen": "2025-10-17T08:27:59.001410"
+      },
+      "5372e04b0045416f12ff6b7b62978fb4adf08792e274844c1fe20d7a7256f873": {
+        "title": "HashiCorp 警告称传统密钥扫描工具日渐落伍",
+        "link": "https://www.infoq.cn/article/vOery4TH4723K8FQuEQ7?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Oct 2025 14:00:00 GMT",
+        "first_seen": "2025-10-17T08:27:59.002260"
+      },
+      "d90ef2b2eadf2cb187b8d80741c28f3aee0842be405dc4f0cdab7def1dad4509": {
+        "title": "我做了一个有趣的实验，在二维坐标上画下我的 3000+ 笔记",
+        "link": "https://sspai.com/post/103035",
+        "published_date": "Fri, 17 Oct 2025 15:03:00 GMT",
+        "first_seen": "2025-10-17T08:27:59.003219"
+      },
+      "30886375e71167a9a6cc63d14aeebacc71a22518529b6d6ea7c2940317dedb90": {
+        "title": "我的手机高像素难道是“假”的？",
+        "link": "http://www.huxiu.com/article/4793057.html?f=wangzhan",
+        "published_date": "Fri, 17 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-17T08:27:59.003965"
+      },
+      "d17b1b38dbecef676501fe76af6208ae9191cb19e643b8334751c4f22bf18e7c": {
+        "title": "一口气解读新凯来两大关键突破，意味着什么？",
+        "link": "http://www.huxiu.com/article/4792535.html?f=wangzhan",
+        "published_date": "Fri, 17 Oct 2025 14:10:00 GMT",
+        "first_seen": "2025-10-17T08:28:47.293651"
       }
     },
     "Finance": {
-      "bebdc52f3e12e26a0a1cd4d2d6883403fce58d58ef8aaebe96363733c4654faa": {
-        "title": "Bloom Energy’s stock is surging — and could ride Oracle’s growth to even more gains",
-        "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-surging-and-could-ride-oracles-growth-to-even-more-gains-25c30ff3?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Sep 2025 01:39:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.438349"
-      },
-      "d8d28759ae2c0ad70d21a83b202c55673ce9283a363bfbfbc126d747cb2ebf03": {
-        "title": "‘I am highly alarmed by the proposed changes to retirement accounts’: I don’t want bitcoin or private equity in my 401(k). What can I do?",
-        "link": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
-        "published_date": "Tue, 16 Sep 2025 23:24:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.438814"
-      },
-      "9caa3cd5ba5a2987f1c163aebb8fd4f1392e28dc3a55f0b1976593f900355c26": {
-        "title": "StubHub prices IPO at $23.50, raising about $800 million",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2befa874-a689-47e0-826c-1037ba703aea&mod=mw_rss_bulletins",
-        "published_date": "Wed, 17 Sep 2025 00:08:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.439284"
-      },
-      "aabe32e36eefccfe92864961d8eef13a994dd1409bf3bb6c8b9f4a5459d9a530": {
-        "title": "10 bargain stocks of companies that can increase profits faster than the S&P 500",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f7062fe-db4a-4963-a28e-b1d5ddcf4862&mod=mw_rss_bulletins",
-        "published_date": "Tue, 16 Sep 2025 23:28:00 GMT",
-        "first_seen": "2025-09-17T05:25:46.440093"
-      },
       "e125d459ff4c25128106f2ae5d1afd4c4273c6a084d43b4e81caa03b2fdbc439": {
         "title": "My mother’s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
         "link": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
@@ -23096,8 +23018,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-17T05:25:14.036191",
-    "Technology": "2025-10-17T05:26:02.389539",
-    "Finance": "2025-10-17T05:25:13.907231"
+    "AI": "2025-10-17T08:27:58.965136",
+    "Technology": "2025-10-17T08:28:47.295344",
+    "Finance": "2025-10-17T08:27:58.834340"
   }
 }

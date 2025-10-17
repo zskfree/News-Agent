@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-17 05:25
+**最后更新时间**: 2025-10-17 08:27
+
+---
+
+## 🆕 最新更新 (2025-10-17 08:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Nio Shares Tumble After Singapore Sovereign Wealth Fund Sues Over Battery Revenue Claims](https://www.tmtpost.com/7729889.html)
+**发布时间**: 2025-10-17 15:54
+
+#### [当AI与老人相爱，谁来为“爱”买单？](https://www.tmtpost.com/7726008.html)
+**发布时间**: 2025-10-17 15:25
+
+#### [康斯特雷莱能源公司拥有人工智能所需的动力，首席执行官正充分利用这一优势](https://www.tmtpost.com/7729842.html)
+**发布时间**: 2025-10-17 15:21
+
+#### [一个“社会人”会买什么？阿里双11发动AI和即时零售一起看一看](https://www.tmtpost.com/7726463.html)
+**发布时间**: 2025-10-17 14:54
+
+#### [短剧新资源战打响：无“IP”不爆款](https://www.tmtpost.com/7726135.html)
+**发布时间**: 2025-10-17 14:39
+
+#### [单月超70款新车炸场，车市四季度压力上架](https://www.tmtpost.com/7725933.html)
+**发布时间**: 2025-10-17 14:09
+
+#### [从小镇开到魔都，背包十年的扩张之道……](https://www.tmtpost.com/7725449.html)
+**发布时间**: 2025-10-17 14:09
+
+#### [Oracle Confirms Deal with Meat, Sees AI Cloud Margin Up to 40% to Reassure Investors](https://www.tmtpost.com/7726413.html)
+**发布时间**: 2025-10-17 14:05
+
+#### [健信超导：毛利率远落后同行，“硬科技”定位引质疑，客户集中且关联交易存疑｜IPO观察](https://www.tmtpost.com/7726383.html)
+**发布时间**: 2025-10-17 14:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [沐曦 MetaX 团队联合 HAMi 推出统一调度方案：实现 sGPU 共享、三档 QoS、拓扑智能调度与 WebUI 全面适配](https://www.infoq.cn/article/CJSEIXxKzO9QYRoHShrT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 15:38
+
+#### [AI 时代可观测性的“智”变与“智”控 ｜InfoQ《极客有约》](https://www.infoq.cn/video/YOTeVHta0A3Xqq2l4Bbp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 14:57
+
+#### [不到半年就传解散！两轮数亿融资刚落地，这家机器人公司就“无”了？](https://www.infoq.cn/article/5xAfQsAESr7khmBzBdLP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 14:42
+
+#### [明星AI编码助手涨价10倍惹怒开发者！CEO 回应：有人花千元薅了我们10多万，不挣钱不可持续](https://www.infoq.cn/article/8vgeCKpQ5E7XsT9NmS1Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 14:34
+
+#### [Mobvista蔡超：多智能体不是“可选项”，而是软件未来的“必答题”](https://www.infoq.cn/article/EkgbOFf2QOp3QKMDIIpJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 14:30
+
+#### [HashiCorp 警告称传统密钥扫描工具日渐落伍](https://www.infoq.cn/article/vOery4TH4723K8FQuEQ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 14:00
+
+#### [【欢迎提报】2025 龙蜥操作系统大会正式启动议题征集](https://www.infoq.cn/article/Xk0ZPckzBB0poNYyPhyA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-16 17:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我做了一个有趣的实验，在二维坐标上画下我的 3000+ 笔记](https://sspai.com/post/103035)
+**发布时间**: 2025-10-17 15:03
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [我的手机高像素难道是“假”的？](http://www.huxiu.com/article/4793057.html?f=wangzhan)
+**发布时间**: 2025-10-17 15:00
+
+#### [一口气解读新凯来两大关键突破，意味着什么？](http://www.huxiu.com/article/4792535.html?f=wangzhan)
+**发布时间**: 2025-10-17 14:10
+
+#### [争夺女性用户，李想抢不过雷军](http://www.huxiu.com/article/4792933.html?f=wangzhan)
+**发布时间**: 2025-10-16 18:51
+
+#### [赛博死刑！传奇考研名师张雪峰为何一夜暴雷？](http://www.huxiu.com/article/4792423.html?f=wangzhan)
+**发布时间**: 2025-10-16 15:00
+
+#### [咖啡之王，全线溃败](http://www.huxiu.com/article/4792454.html?f=wangzhan)
+**发布时间**: 2025-10-16 14:00
 
 ---
 
