@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-17 08:27
+**最后更新时间**: 2025-10-17 23:22
+
+---
+
+## 🆕 最新更新 (2025-10-17 23:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [程序员用AI写歌还赚钱了！用AI 批量生产“爆款”，这个副业“杀疯了”？](https://www.infoq.cn/article/8QEPrSVWRWHO6qxSZOAY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-18 07:00
+
+#### [李飞飞的创业公司放大招：只要一个H100就能跑世界模型](https://www.infoq.cn/article/bUbdYAac4EA9dYHk46wV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 19:51
+
+#### [基于 TRAE 的自动化测试用例智能生成方案](https://www.infoq.cn/article/JF6Arq1sbXBHKeE747bk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 19:35
+
+#### [NeurIPS 2025｜火山引擎多媒体实验室联合南开大学推出 TempSamp-R1 强化学习新框架，助力视频理解大模型高效提升时序理解能力！](https://www.infoq.cn/article/LVGuJr41C41e7uwdlBrp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 19:34
+
+#### [“2025深圳国际金融科技大赛”技术公开课](https://www.infoq.cn/video/rawPSuHo8lAayt81lHNi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 18:24
+
+#### [六问讯飞 AI：新品耳机发布背后，如何理解讯飞 AI 翻译战略与技术创新？](https://www.infoq.cn/article/xXZS9ZI2SW5EWHAuLb9D?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 17:28
+
+#### [中国农业大学发布“膳良人”AI营养智能体：精准营养与AI深度融合迈出关键一步](https://www.infoq.cn/article/bj61H2PxKjlbihCCcFZR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-17 16:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI热与出海潮推高液冷需求，曙光数创“强攻东南亚”](https://www.tmtpost.com/7730259.html)
+**发布时间**: 2025-10-17 21:48
+
+#### [智光电气 “回收” 储能子公司股权，预期内的资本履约与业绩依赖](https://www.tmtpost.com/7730226.html)
+**发布时间**: 2025-10-17 21:29
+
+#### [谜局中的娃小宗](https://www.tmtpost.com/7726058.html)
+**发布时间**: 2025-10-17 21:26
+
+#### [飞鹤发布“新一代更适合”战略；顾家发布新一代电动智能沙发旗舰新品；Vuori北京首店亮相三里屯｜消研所周报](https://www.tmtpost.com/7730078.html)
+**发布时间**: 2025-10-17 21:02
+
+#### [海创生物宣布完成数千万元A轮融资，光源资本担任独家财务顾问 | 融资首发](https://www.tmtpost.com/7726331.html)
+**发布时间**: 2025-10-17 20:24
+
+#### [钙钛矿企业炎和科技完成超亿元A轮融资，加速钙钛矿消费级产业化落地 | 融资首发](https://www.tmtpost.com/7726317.html)
+**发布时间**: 2025-10-17 20:24
+
+#### [成都高新区集成电路产业再加码，30亿中微公司西南总部项目正式开工](https://www.tmtpost.com/7730135.html)
+**发布时间**: 2025-10-17 20:14
+
+#### [签约87.6亿元！在德国看见“成都造全球销”强大实力](https://www.tmtpost.com/7730159.html)
+**发布时间**: 2025-10-17 20:11
+
+#### [概念热炒难掩业绩失血，均普智能“融资-延期-违规”循环何解？](https://www.tmtpost.com/7730018.html)
+**发布时间**: 2025-10-17 19:58
+
+#### [康华生物前三季度净利润腰斩，产品单一与业绩对赌压力凸显 ｜看财报](https://www.tmtpost.com/7730029.html)
+**发布时间**: 2025-10-17 19:55
+
+#### [中美半导体竞争进入新阶段，国产芯片“能力版图”逐步补齐 | 湾芯展 2025](https://www.tmtpost.com/7730069.html)
+**发布时间**: 2025-10-17 18:39
+
+#### [TikTok斥资91亿美元在巴西建数据中心；美团Keeta将于月底正式上线巴西；泰国成爱奇艺海外用户规模最大市场｜一周大公司出海动态](https://www.tmtpost.com/7729953.html)
+**发布时间**: 2025-10-17 18:29
+
+#### [一波多折，蔚来御用激光雷达公司图达通，终于快要上市了](https://www.tmtpost.com/7725541.html)
+**发布时间**: 2025-10-17 18:15
+
+#### [辅助驾驶新强标进入公示期，传闻中「最严法规」将给行业带来哪些冲击?](https://www.tmtpost.com/7726044.html)
+**发布时间**: 2025-10-17 17:51
+
+#### [陕西旅游能不能再复制《长恨歌》？](https://www.tmtpost.com/7726001.html)
+**发布时间**: 2025-10-17 17:51
+
+#### [脑机接口“中美争霸”](https://www.tmtpost.com/7726035.html)
+**发布时间**: 2025-10-17 17:51
+
+#### [挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？](https://www.tmtpost.com/7726020.html)
+**发布时间**: 2025-10-17 16:40
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [零跑，不再「摸着理想过河」](http://www.geekpark.net/news/355122)
+**发布时间**: 2025-10-17 21:28
+
+#### [硬刚 Sora 2，谷歌的 Veo 3.1 确实有小惊喜｜AI 上新](http://www.geekpark.net/news/355117)
+**发布时间**: 2025-10-17 17:52
+
+#### [张鹏对谈朱啸虎、储瑞松、傅盛：Agentic AI 时代，不要什么东西都自己闷头做](http://www.geekpark.net/news/355111)
+**发布时间**: 2025-10-17 16:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/103171)
+**发布时间**: 2025-10-17 18:14
 
 ---
 
