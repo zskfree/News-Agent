@@ -1,60 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d3a710770eeb650d766ae0f3d29d6d02dfb2aadc8b83305eec3883518575b838": {
-        "title": "Nature | 20年后你会患上哪些疾病？AI准确预测超1000种疾病患病风险，助力预防",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-18-9",
-        "published_date": "Thu, 18 Sep 2025 15:16:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.169175"
-      },
-      "fa68a5346d501be884a11153f92e88f8080b409a65a61f96437b32f48bd97f30": {
-        "title": "OneSearch，揭开快手电商搜索「一步到位」的秘技",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-18-8",
-        "published_date": "Thu, 18 Sep 2025 13:28:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.169346"
-      },
-      "ba677ddfaf1730b76e18896368d53486ab498888aee440fec2673cf999d1e4aa": {
-        "title": "刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-18-7",
-        "published_date": "Thu, 18 Sep 2025 13:22:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.169577"
-      },
-      "30fd87d9ddaf467c56206fb191c11f17c348df68293c389d605599e9618fcb70": {
-        "title": "从一个公众号智能体说起：好用的Agent，究竟需要什么?",
-        "link": "https://www.jiqizhixin.com/articles/2025-09-18-6",
-        "published_date": "Thu, 18 Sep 2025 13:18:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.169828"
-      },
-      "626b48798f30145fb6cb0b5120c86bf906e8c2b5453a4e1dac643983a8151f8f": {
-        "title": "GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025 全球机器学习技术大会全日程官宣！",
-        "link": "https://www.qbitai.com/2025/09/333269.html",
-        "published_date": "Thu, 18 Sep 2025 07:53:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.170276"
-      },
-      "ae0827469d3417385b57d8127f438c5db346218c9399c0c4d953751ff711c90a": {
-        "title": "剂泰科技发布全球首个AI纳米递送平台NanoForge",
-        "link": "https://www.qbitai.com/2025/09/333260.html",
-        "published_date": "Thu, 18 Sep 2025 05:55:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.170560"
-      },
-      "74223f745838d0597b66d93566273a7c4e43b8900773410c0649e78092b73976": {
-        "title": "开源Agent模型榜第一名，现在是阿里通义DeepResearch",
-        "link": "https://www.qbitai.com/2025/09/333245.html",
-        "published_date": "Thu, 18 Sep 2025 05:48:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.171014"
-      },
-      "ef19495241936df042edd5b2469a144378703f7ad44c711efdb7ea7b1bfa8541": {
-        "title": "腾讯披露元宝已是TOP3应用",
-        "link": "https://www.qbitai.com/2025/09/333191.html",
-        "published_date": "Thu, 18 Sep 2025 05:35:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.171299"
-      },
-      "b1c6935ca273ed9fcd8c864ef9824f9d5bb60fd0cd360dc9e7d2556a679d841e": {
-        "title": "稚晖君机器人炸场：全球首秀“真男人必会的韦伯斯特空翻”",
-        "link": "https://www.qbitai.com/2025/09/333204.html",
-        "published_date": "Thu, 18 Sep 2025 05:34:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.171701"
-      },
       "6d736833324d55d89ded29a43bb17659e8de926ae701d9c997b3af11e5cf5f2c": {
         "title": "Sensible Agent: A framework for unobtrusive interaction with proactive AR agents",
         "link": "https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/",
@@ -6375,132 +6321,6 @@
       }
     },
     "Technology": {
-      "12ac8cf88b713b1a2503ef3236ae7342373bd6c5c77c03dc2540ae50642f78fc": {
-        "title": "GPT-5与Transformer共同发明人Lukasz Kaiser重磅加盟，2025全球机器学习技术大会全日程官宣！",
-        "link": "https://www.tmtpost.com/7698696.html",
-        "published_date": "Thu, 18 Sep 2025 15:58:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040390"
-      },
-      "ea641332ae143ffdc7c930f8e28d629562c8980cb1abfc046b5b37abefcb8e45": {
-        "title": "倒闭、亏损与收缩，跨境电商迎来大洗牌",
-        "link": "https://www.tmtpost.com/7698596.html",
-        "published_date": "Thu, 18 Sep 2025 15:44:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040436"
-      },
-      "5ecf042d6bb96c8252882eb8f024ce3ffbf231287801cd86ab6a41d9ffc3d17b": {
-        "title": "零食量贩出海避坑指南：我亲历的12个惨痛教训",
-        "link": "https://www.tmtpost.com/7698600.html",
-        "published_date": "Thu, 18 Sep 2025 15:44:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040448"
-      },
-      "2eba638a355837f6b0b5c3a56328ab3955dbba17717cbfe1e4334d0bd7f9913a": {
-        "title": "脱口秀无力解困长视频",
-        "link": "https://www.tmtpost.com/7698605.html",
-        "published_date": "Thu, 18 Sep 2025 15:44:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040458"
-      },
-      "f0352ebada54457fe7de8edb1cd03d1cd5f03ec7cd598ed7a9ae07a59dfa1c71": {
-        "title": "途家换个姿势剑指木鸟美团",
-        "link": "https://www.tmtpost.com/7698620.html",
-        "published_date": "Thu, 18 Sep 2025 15:44:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040467"
-      },
-      "2c01d605bdb69f5eba23d213e77cf111e61b8a161fe5a297dbd7cd5fd511d034": {
-        "title": "哪吒汽车陷断网危机，智能汽车的网费到底该由谁来交？",
-        "link": "https://www.tmtpost.com/7698668.html",
-        "published_date": "Thu, 18 Sep 2025 15:44:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040478"
-      },
-      "9b907c1af80c705e0c26985b47e4b42049b0c2c40ad3ccef20213d8171d35121": {
-        "title": "从“人拉肩扛”到“数据驱动”：供应链为何成为数字化的关键战场？｜2025 ITValue Summit 数字价值年会",
-        "link": "https://www.tmtpost.com/7698378.html",
-        "published_date": "Thu, 18 Sep 2025 15:43:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040494"
-      },
-      "bf9629f694d136dd05e59275e3c97a9bf724f4831eb4dd8348a879d784f046cf": {
-        "title": "霸王茶姬马来西亚迎200店里程碑，北美市场再落一子",
-        "link": "https://www.tmtpost.com/7698662.html",
-        "published_date": "Thu, 18 Sep 2025 15:27:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040504"
-      },
-      "02f6437fccf86b445899917c915f3150438916279db2b0c51b1ac54203082d53": {
-        "title": "9月18日A股分析：沪指跌1.15%报3831.66点，两市合计成交31351.71亿元，涨幅最多的行业板块为汽车服务",
-        "link": "https://www.tmtpost.com/7698634.html",
-        "published_date": "Thu, 18 Sep 2025 15:15:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040518"
-      },
-      "b6c6b29dff4596c3706343d27d347ea19d522acebb6563ab64ad6b1b8834c63d": {
-        "title": "被资本玩坏的药捷安康",
-        "link": "https://www.tmtpost.com/7698340.html",
-        "published_date": "Thu, 18 Sep 2025 14:04:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.616141"
-      },
-      "7e1254f881f63965e7ecac082b7aca7c890a749d544b4ffb7775c409b74afff4": {
-        "title": "抱上阿里大腿，荣耀销量有救了？",
-        "link": "https://www.tmtpost.com/7698477.html",
-        "published_date": "Thu, 18 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.616485"
-      },
-      "d95b753044f7736c66d3f32a2f8d4d5fc5194c167264514b4c74d2ec482b03ea": {
-        "title": "首次进入收费目录，这款精准放疗产品释放百亿市场",
-        "link": "https://www.tmtpost.com/7698510.html",
-        "published_date": "Thu, 18 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-18T08:27:05.040420"
-      },
-      "262c3c7c1fcd67c724fa17eda22f44ee46bd8ab09b455f21ffbe785a2c957396": {
-        "title": "贾国龙什么时候能学会“交个朋友”？",
-        "link": "https://www.tmtpost.com/7698417.html",
-        "published_date": "Thu, 18 Sep 2025 13:59:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.617360"
-      },
-      "b9df8152b381ce141d617f28b5d976e6e9faa5fc1c4fc818afef5c325ed57e56": {
-        "title": "Meta Unveils Next-Gen AI Glasses at Meta Connect 2025, Expands XR Dominance",
-        "link": "https://www.tmtpost.com/7698523.html",
-        "published_date": "Thu, 18 Sep 2025 13:58:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.618412"
-      },
-      "2cb894a9d366552c082b4901a2443590819ee9f7dfea90bc385c5a26c1f45ab6": {
-        "title": "MiniMax惹怒好莱坞？三大影视巨头集体诉讼，海螺AI或面临巨额赔偿",
-        "link": "https://www.infoq.cn/article/EByNQUK0Yk9CygG2vTNu?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Sep 2025 15:16:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.619138"
-      },
-      "048967cd577762712fae70c30c8c62f296001306423280a7a2a412484501c5db": {
-        "title": "共创 | 中断久坐，科学多动：《久坐健康指南》上线",
-        "link": "https://sspai.com/post/102539",
-        "published_date": "Thu, 18 Sep 2025 15:00:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.619872"
-      },
-      "2392ce88bcdb527e405cb69701c37daa8c68a705c2cac2e0327ccd3bd4fa4797": {
-        "title": "全球屏息以待，降息或许只是序章？",
-        "link": "http://www.huxiu.com/article/4781265.html?f=wangzhan",
-        "published_date": "Thu, 18 Sep 2025 14:42:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.620404"
-      },
-      "bab99216e20f9cb2b5e58aa9181dd74108490618bc082ae617d38c81d8c12925": {
-        "title": "我们还是低估了英伟达",
-        "link": "http://www.geekpark.net/news/354117",
-        "published_date": "Thu, 18 Sep 2025 14:35:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.620795"
-      },
-      "4230d3f4f6a3636e854c903f720dbae66d898cc2c93b9eb1007e3dbb33bf5399": {
-        "title": "聚合话题剧透｜阿里云汽车峰会启幕，AI 定义汽车新时代",
-        "link": "http://www.geekpark.net/news/354112",
-        "published_date": "Thu, 18 Sep 2025 13:57:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.621621"
-      },
-      "caa0293aafa056f5d631c64c9deb1748f2ba59464d7b8bc1f0ee3549d40c9029": {
-        "title": "17.38 万的大六座 SUV，吉利用银河 M9 敲碎了友商的心",
-        "link": "http://www.geekpark.net/news/354086",
-        "published_date": "Thu, 18 Sep 2025 13:26:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.622722"
-      },
-      "9c2c135d1e7a3542faaae12d8f2698c3d186bacf8ab39226c2f25d5f732f90e2": {
-        "title": "带屏 AI 眼镜登场！Meta「眼镜全家桶」炸街了",
-        "link": "http://www.geekpark.net/news/354106",
-        "published_date": "Thu, 18 Sep 2025 11:54:00 GMT",
-        "first_seen": "2025-09-18T08:26:16.623748"
-      },
       "00e961f3280e4f271244467dcb3aca726b985603da62a9ba5509f39d870dfdfe": {
         "title": "【钛晨报】每年一次性发放，育儿补贴制度管理规范发布；英伟达以50亿美元入股英特尔，并达成芯片合作；房车新国标发布：行车“禁卧”“禁浴”，明年3月1日起实施",
         "link": "https://www.tmtpost.com/7699229.html",
@@ -19652,6 +19472,24 @@
         "link": "http://www.huxiu.com/article/4793241.html?f=wangzhan",
         "published_date": "Sat, 18 Oct 2025 11:20:00 GMT",
         "first_seen": "2025-10-18T08:24:54.661541"
+      },
+      "f42a08085469783c8a5669d8879e9c6496c5f5f9f826001929a4775140563de8": {
+        "title": "超智算人工智能产业生态大会在京启幕，正式发布《石景山智能计算产业加速器生态创新计划》",
+        "link": "https://www.tmtpost.com/7730933.html",
+        "published_date": "Sat, 18 Oct 2025 21:22:00 GMT",
+        "first_seen": "2025-10-18T23:22:20.066040"
+      },
+      "a51806368067a1dd8dbfdfbefa2be224aafadef4d140bc14917701252fa495ea": {
+        "title": "高管陆续离开，程一笑总有新烦恼",
+        "link": "https://www.tmtpost.com/7730851.html",
+        "published_date": "Sat, 18 Oct 2025 18:43:00 GMT",
+        "first_seen": "2025-10-18T23:22:20.066202"
+      },
+      "195168b289be22b844457d312996d19a41b94c5fa8f868aaa5ef6923b7faab1d": {
+        "title": "【链得得独家】火币创始人李林领投2亿美元成立10亿规模ETH资管公司",
+        "link": "https://www.tmtpost.com/7730857.html",
+        "published_date": "Sat, 18 Oct 2025 18:24:00 GMT",
+        "first_seen": "2025-10-18T23:22:20.066371"
       }
     },
     "Finance": {
@@ -22364,8 +22202,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-18T08:24:54.625032",
-    "Technology": "2025-10-18T08:25:43.162814",
-    "Finance": "2025-10-18T08:24:54.500570"
+    "AI": "2025-10-18T23:22:20.037033",
+    "Technology": "2025-10-18T23:22:20.092393",
+    "Finance": "2025-10-18T23:22:19.927057"
   }
 }

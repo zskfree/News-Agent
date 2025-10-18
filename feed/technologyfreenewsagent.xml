@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Oct 2025 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Oct 2025 08:25:43 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 23:22:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>美团提出超级性价比时代，餐饮客单价回到10年前</title>
-      <link>https://www.tmtpost.com/7730840.html</link>
-      <description>&lt;![CDATA[美团提出超级性价比时代，餐饮客单价回到10年前]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730840.html</guid>
+      <title>超智算人工智能产业生态大会在京启幕，正式发布《石景山智能计算产业加速器生态创新计划》</title>
+      <link>https://www.tmtpost.com/7730933.html</link>
+      <description>&lt;![CDATA[超智算人工智能产业生态大会在京启幕，正式发布《石景山智能计算产业加速器生态创新计划》]]&gt;</description>
+      <pubDate>Sat, 18 Oct 2025 21:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7730933.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>吉利战略收缩，李书福的儿子也不能例外</title>
-      <link>https://www.tmtpost.com/7730155.html</link>
-      <description>&lt;![CDATA[吉利战略收缩，李书福的儿子也不能例外]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730155.html</guid>
+      <title>高管陆续离开，程一笑总有新烦恼</title>
+      <link>https://www.tmtpost.com/7730851.html</link>
+      <description>&lt;![CDATA[高管陆续离开，程一笑总有新烦恼]]&gt;</description>
+      <pubDate>Sat, 18 Oct 2025 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7730851.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>年薪曾超2亿创始人，与255亿“快递柜一哥”告别</title>
-      <link>https://www.tmtpost.com/7730275.html</link>
-      <description>&lt;![CDATA[年薪曾超2亿创始人，与255亿“快递柜一哥”告别]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730275.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>白酒为何拥抱“即时零售”？</title>
-      <link>https://www.tmtpost.com/7730447.html</link>
-      <description>&lt;![CDATA[白酒为何拥抱“即时零售”？]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730447.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“富二代”光环下的突围：肌肤未来能否靠377成分走出环亚的影子？</title>
-      <link>https://www.tmtpost.com/7730120.html</link>
-      <description>&lt;![CDATA[“富二代”光环下的突围：肌肤未来能否靠377成分走出环亚的影子？]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730120.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>又有BD大单，罗氏超15亿美元押注翰森制药，MNC的一场“焦虑型投资”？</title>
-      <link>https://www.tmtpost.com/7730240.html</link>
-      <description>&lt;![CDATA[又有BD大单，罗氏超15亿美元押注翰森制药，MNC的一场“焦虑型投资”？]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730240.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>撕开高端市场的缝隙，零跑能否不靠“豪车滤镜”赢信任？</title>
-      <link>https://www.tmtpost.com/7730787.html</link>
-      <description>&lt;![CDATA[撕开高端市场的缝隙，零跑能否不靠“豪车滤镜”赢信任？]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730787.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“西贝风波”一月后，我们去线下看了看那些焦虑的餐饮店</title>
-      <link>https://www.tmtpost.com/7730212.html</link>
-      <description>&lt;![CDATA[“西贝风波”一月后，我们去线下看了看那些焦虑的餐饮店]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730212.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>短视频加速跑入AI时代</title>
-      <link>https://www.tmtpost.com/7730227.html</link>
-      <description>&lt;![CDATA[短视频加速跑入AI时代]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730227.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>京东做七鲜咖啡，为啥要上美团淘宝的“船”？</title>
-      <link>https://www.tmtpost.com/7730202.html</link>
-      <description>&lt;![CDATA[京东做七鲜咖啡，为啥要上美团淘宝的“船”？]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7730202.html</guid>
+      <title>【链得得独家】火币创始人李林领投2亿美元成立10亿规模ETH资管公司</title>
+      <link>https://www.tmtpost.com/7730857.html</link>
+      <description>&lt;![CDATA[【链得得独家】火币创始人李林领投2亿美元成立10亿规模ETH资管公司]]&gt;</description>
+      <pubDate>Sat, 18 Oct 2025 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7730857.html</guid>
       <category>Technology</category>
     </item>
   </channel>
