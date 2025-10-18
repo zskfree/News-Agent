@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Oct 2025 23:22:32 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 05:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 05:23:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Solving virtual machine puzzles: How AI is optimizing cloud computing</title>
-      <link>https://research.google/blog/solving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing/</link>
-      <description>&lt;![CDATA[Solving virtual machine puzzles: How AI is optimizing cloud computing]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/solving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>阿里云神秘团队曝光：AI时代的新蓝军</title>
-      <link>https://www.qbitai.com/2025/10/343052.html</link>
-      <description>&lt;![CDATA[阿里云神秘团队曝光：AI时代的新蓝军]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 11:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343052.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>印奇再次叩开港交所：500亿智驾明星，吉利和奔驰护航保送</title>
-      <link>https://www.qbitai.com/2025/10/343031.html</link>
-      <description>&lt;![CDATA[印奇再次叩开港交所：500亿智驾明星，吉利和奔驰护航保送]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343031.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>全球OCR最强模型仅0.9B！百度文心衍生模型刚刚横扫4项SOTA</title>
-      <link>https://www.qbitai.com/2025/10/342941.html</link>
-      <description>&lt;![CDATA[全球OCR最强模型仅0.9B！百度文心衍生模型刚刚横扫4项SOTA]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342941.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>波士顿动力狗gogo回来了！“五条腿”协同发力</title>
-      <link>https://www.qbitai.com/2025/10/342908.html</link>
-      <description>&lt;![CDATA[波士顿动力狗gogo回来了！“五条腿”协同发力]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 09:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342908.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>库克在抖音卖iPhone，M5芯片却偷偷上MacBook Pro，网友：没有Pro/Max，你咋敢？</title>
-      <link>https://www.qbitai.com/2025/10/342847.html</link>
-      <description>&lt;![CDATA[库克在抖音卖iPhone，M5芯片却偷偷上MacBook Pro，网友：没有Pro/Max，你咋敢？]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342847.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>刚刚，一家具身智能明星公司原地解散了</title>
-      <link>https://www.qbitai.com/2025/10/342841.html</link>
-      <description>&lt;![CDATA[刚刚，一家具身智能明星公司原地解散了]]&gt;</description>
-      <pubDate>Fri, 17 Oct 2025 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/342841.html</guid>
+      <title>杨振宁教授千古！中国AI计算机产业因他而不同</title>
+      <link>https://www.qbitai.com/2025/10/343062.html</link>
+      <description>&lt;![CDATA[杨振宁教授千古！中国AI计算机产业因他而不同]]&gt;</description>
+      <pubDate>Sat, 18 Oct 2025 04:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343062.html</guid>
       <category>AI</category>
     </item>
   </channel>
