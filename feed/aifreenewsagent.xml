@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Oct 2025 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Oct 2025 08:24:54 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2025 05:19:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>卡帕西：强化学习很糟糕，但其他所有方法都更糟</title>
-      <link>https://www.qbitai.com/2025/10/343094.html</link>
-      <description>&lt;![CDATA[卡帕西：强化学习很糟糕，但其他所有方法都更糟]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 06:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343094.html</guid>
+      <title>马斯克发起编程人机大战！卡帕西说了不</title>
+      <link>https://www.qbitai.com/2025/10/343346.html</link>
+      <description>&lt;![CDATA[马斯克发起编程人机大战！卡帕西说了不]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 04:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343346.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>61岁退休后，华为海思创始总裁成了复旦北大清华老师</title>
-      <link>https://www.qbitai.com/2025/10/343078.html</link>
-      <description>&lt;![CDATA[61岁退休后，华为海思创始总裁成了复旦北大清华老师]]&gt;</description>
-      <pubDate>Sat, 18 Oct 2025 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343078.html</guid>
+      <title>薛定谔亲外孙创业量子计算，老黄早早就成了股东</title>
+      <link>https://www.qbitai.com/2025/10/343249.html</link>
+      <description>&lt;![CDATA[薛定谔亲外孙创业量子计算，老黄早早就成了股东]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 04:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343249.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>量子位「MEET2026智能未来大会」启动！年度榜单征集中</title>
+      <link>https://www.qbitai.com/2025/10/343231.html</link>
+      <description>&lt;![CDATA[量子位「MEET2026智能未来大会」启动！年度榜单征集中]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 01:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343231.html</guid>
       <category>AI</category>
     </item>
   </channel>

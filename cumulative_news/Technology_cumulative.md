@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-18 23:22
+**最后更新时间**: 2025-10-19 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-19 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [3亿单身男女，要捧出一个IPO](https://www.tmtpost.com/7731076.html)
+**发布时间**: 2025-10-19 12:48
+
+#### [北京宝信行人去楼空，数百宝马车主维权“无门”？](https://www.tmtpost.com/7730095.html)
+**发布时间**: 2025-10-19 12:48
+
+#### [在迪拜拿下12亿订单，“国民村长”李锐“闷声干大事”](https://www.tmtpost.com/7730954.html)
+**发布时间**: 2025-10-19 12:47
+
+#### [Huobi Founder Creating a 1 Bln Ethereum AMC as a Lead Investor](https://www.tmtpost.com/7731074.html)
+**发布时间**: 2025-10-19 11:58
+
+#### [他们使出了九牛二虎之力，“电动爹”仍靠打架抢高速充电桩](https://www.tmtpost.com/7730968.html)
+**发布时间**: 2025-10-19 09:13
+
+#### [百奥赛图27个月闯关科创板，专利战与创始人债务问题缠身](https://www.tmtpost.com/7730989.html)
+**发布时间**: 2025-10-19 09:13
+
+#### [年轻人迷上在线下交换自制周边](https://www.tmtpost.com/7730967.html)
+**发布时间**: 2025-10-19 08:32
+
+#### [新能源车速度崇拜的恶果](https://www.tmtpost.com/7730992.html)
+**发布时间**: 2025-10-19 08:32
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [在西班牙，转头说了两句话，就被偷光了？](http://www.huxiu.com/article/4792947.html?f=wangzhan)
+**发布时间**: 2025-10-19 12:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业级 MCPHub ：打通大模型落地的“最后一公里”｜QCon 上海](https://www.infoq.cn/article/FtOk93a3hk21EvH2kPBf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-19 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [中国AIGC用户破5亿，增长1倍；美团：今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道](http://www.geekpark.net/news/355132)
+**发布时间**: 2025-10-19 08:28
 
 ---
 
