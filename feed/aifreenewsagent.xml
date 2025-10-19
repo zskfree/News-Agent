@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Oct 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Oct 2025 08:23:32 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2025 23:18:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>多模态大模型学会反思和复盘，上交&amp;上海AI Lab破解多模态复杂推理</title>
-      <link>https://www.qbitai.com/2025/10/343421.html</link>
-      <description>&lt;![CDATA[多模态大模型学会反思和复盘，上交&amp;上海AI Lab破解多模态复杂推理]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 07:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343421.html</guid>
+      <title>经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税</title>
+      <link>https://www.qbitai.com/2025/10/343454.html</link>
+      <description>&lt;![CDATA[经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343454.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>模型“看视频写网页”，GPT-5仅36.35分！首个video2code基准发布</title>
-      <link>https://www.qbitai.com/2025/10/343400.html</link>
-      <description>&lt;![CDATA[模型“看视频写网页”，GPT-5仅36.35分！首个video2code基准发布]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 07:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343400.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>中国最新Agent产品趋势：多体协同，垂直赛道，行业核心业务</title>
-      <link>https://www.qbitai.com/2025/10/343370.html</link>
-      <description>&lt;![CDATA[中国最新Agent产品趋势：多体协同，垂直赛道，行业核心业务]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 07:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343370.html</guid>
+      <title>LSTM之父向何恺明开炮：我学生才是残差学习奠基人</title>
+      <link>https://www.qbitai.com/2025/10/343435.html</link>
+      <description>&lt;![CDATA[LSTM之父向何恺明开炮：我学生才是残差学习奠基人]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343435.html</guid>
       <category>AI</category>
     </item>
   </channel>

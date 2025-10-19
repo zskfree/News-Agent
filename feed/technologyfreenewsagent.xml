@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Oct 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Oct 2025 08:23:32 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2025 23:18:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,19 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>项目看板 3.0：在 Obsidian 中平衡专注与多元</title>
-      <link>https://sspai.com/post/102887</link>
-      <description>&lt;![CDATA[项目看板 3.0：在 Obsidian 中平衡专注与多元]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102887</guid>
+      <title>经纬辉开“大手笔”收购中兴系统；威高血净上市5个月火速整合“威高系”资产【并购一线】</title>
+      <link>https://www.tmtpost.com/7731354.html</link>
+      <description>&lt;![CDATA[经纬辉开“大手笔”收购中兴系统；威高血净上市5个月火速整合“威高系”资产【并购一线】]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 20:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731354.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国AIGC用户破5亿，增长1倍；今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道</title>
-      <link>http://www.geekpark.net/news/355132</link>
-      <description>&lt;![CDATA[中国AIGC用户破5亿，增长1倍；今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 08:28:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/355132</guid>
+      <title>63岁转行干光伏，83岁还在一线拼杀，最被低估的光伏大佬，是他</title>
+      <link>https://www.tmtpost.com/7731083.html</link>
+      <description>&lt;![CDATA[63岁转行干光伏，83岁还在一线拼杀，最被低估的光伏大佬，是他]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 19:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731083.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>杨振宁留给中国的最重要遗产，恰恰很不“中国味”</title>
+      <link>https://www.tmtpost.com/7731165.html</link>
+      <description>&lt;![CDATA[杨振宁留给中国的最重要遗产，恰恰很不“中国味”]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731165.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>两部好莱坞大片翻车</title>
+      <link>https://www.tmtpost.com/7731146.html</link>
+      <description>&lt;![CDATA[两部好莱坞大片翻车]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731146.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>京东造车，一场阳谋</title>
+      <link>https://www.tmtpost.com/7731196.html</link>
+      <description>&lt;![CDATA[京东造车，一场阳谋]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731196.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“从all buy到一件不买”，这届年轻人退出双十一</title>
+      <link>https://www.tmtpost.com/7731257.html</link>
+      <description>&lt;![CDATA[“从all buy到一件不买”，这届年轻人退出双十一]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731257.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>EFQM七钻认证背后：五粮液用千年“和美”哲学，在欧洲讲述“可持续的卓越”</title>
+      <link>https://www.tmtpost.com/7731195.html</link>
+      <description>&lt;![CDATA[EFQM七钻认证背后：五粮液用千年“和美”哲学，在欧洲讲述“可持续的卓越”]]&gt;</description>
+      <pubDate>Sun, 19 Oct 2025 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7731195.html</guid>
       <category>Technology</category>
     </item>
   </channel>
