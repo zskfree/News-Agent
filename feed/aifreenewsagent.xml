@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Oct 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2025 08:28:26 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 23:18:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能体BUTTONS SOLEMATE发布，特斯联HALI能力再升级</title>
-      <link>https://www.qbitai.com/2025/10/343629.html</link>
-      <description>&lt;![CDATA[智能体BUTTONS SOLEMATE发布，特斯联HALI能力再升级]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343629.html</guid>
+      <title>A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums</title>
+      <link>https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/</link>
+      <description>&lt;![CDATA[A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 21:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Teaching Gemini to spot exploding stars with just a few examples</title>
+      <link>https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/</link>
+      <description>&lt;![CDATA[Teaching Gemini to spot exploding stars with just a few examples]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>宇树最新机器人发布：1米8大高个，能跳舞会功夫，就是颜值……</title>
+      <link>https://www.qbitai.com/2025/10/343737.html</link>
+      <description>&lt;![CDATA[宇树最新机器人发布：1米8大高个，能跳舞会功夫，就是颜值……]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343737.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Vidu Q2携「王炸」登场！杀手锏「参考生」功能全球上线，APP体验全面革新</title>
+      <link>https://www.qbitai.com/2025/10/343684.html</link>
+      <description>&lt;![CDATA[Vidu Q2携「王炸」登场！杀手锏「参考生」功能全球上线，APP体验全面革新]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343684.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道</title>
+      <link>https://www.qbitai.com/2025/10/343659.html</link>
+      <description>&lt;![CDATA[IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343659.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-20 08:28
+**最后更新时间**: 2025-10-20 23:18
+
+---
+
+## 🆕 最新更新 (2025-10-20 23:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Hitch Open世界AI竞速锦标赛总决赛圆满收官，物理智能加速落地中国](https://www.tmtpost.com/7732122.html)
+**发布时间**: 2025-10-20 22:22
+
+#### [2025城市微短剧实力排名：北京领跑，深圳成微短剧出海之都](https://www.tmtpost.com/7731876.html)
+**发布时间**: 2025-10-20 22:10
+
+#### [深度拆解CORTIS：为何能成为破圈K-Pop的时尚单品？](https://www.tmtpost.com/7732196.html)
+**发布时间**: 2025-10-20 22:05
+
+#### [抖音猛攻酒旅，能否再造一个“携程”？](https://www.tmtpost.com/7731462.html)
+**发布时间**: 2025-10-20 22:05
+
+#### [金刚石半导体，产业化还有多远？](https://www.tmtpost.com/7732256.html)
+**发布时间**: 2025-10-20 22:05
+
+#### [China’s Electric Car Industry: Addicted to Speed, Starving for Safety](https://www.tmtpost.com/7732414.html)
+**发布时间**: 2025-10-20 22:03
+
+#### [刚上市又砸8.5亿扩产！天和磁材产销量下滑，新增产能消化存疑](https://www.tmtpost.com/7732291.html)
+**发布时间**: 2025-10-20 19:46
+
+#### [Robotaxi全球第一股： 美股“过山车”，回港再寻路](https://www.tmtpost.com/7731521.html)
+**发布时间**: 2025-10-20 19:37
+
+#### [谁能接住西贝儿童餐的「饭碗」？](https://www.tmtpost.com/7732184.html)
+**发布时间**: 2025-10-20 18:36
+
+#### [数字世界“身后事”：注销手机号等于“出卖”自己？](https://www.tmtpost.com/7732141.html)
+**发布时间**: 2025-10-20 18:36
+
+#### [紫金矿业系业绩亮眼，为何股价反跌？](https://www.tmtpost.com/7731938.html)
+**发布时间**: 2025-10-20 18:10
+
+#### [邀Labubu进「中国朋友圈」，库克需要新引擎](https://www.tmtpost.com/7732061.html)
+**发布时间**: 2025-10-20 18:09
+
+#### [【Fintech 周报】多地预警黄金投资骗局；今年超300家中小银行合并、解散；农行股价“12连阳”](https://www.tmtpost.com/7732167.html)
+**发布时间**: 2025-10-20 18:00
+
+#### [【生态环境周观察】电动车充电设施三年倍增方案出炉；全球首个聚变能研究与培训协作中心落地中国](https://www.tmtpost.com/7731444.html)
+**发布时间**: 2025-10-20 17:59
+
+#### [下一个半导体周期，这些领域是关键](https://www.tmtpost.com/7731569.html)
+**发布时间**: 2025-10-20 17:42
+
+#### [谷歌终止隐私沙盒计划，也关闭了开放互联网的共识大门？](https://www.tmtpost.com/7731788.html)
+**发布时间**: 2025-10-20 17:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [在海拔5000米的无人区建立城市，这是决策失误吗？](http://www.huxiu.com/article/4793774.html?f=wangzhan)
+**发布时间**: 2025-10-20 19:00
+
+#### [重生之我在A股开超市？超市战法能否助我财富自由？](http://www.huxiu.com/article/4793193.html?f=wangzhan)
+**发布时间**: 2025-10-20 16:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“谈故障色变”到有章可循：美图 SRE 故障应急与复盘实践](https://www.infoq.cn/article/q758X6eDoHOcQ49TDoIH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 18:45
+
+#### [AI Agent 上下文管理：基于搭叩的七大原则与实践](https://www.infoq.cn/article/ufSVUGyl6fvVMqx67yCc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 18:33
+
+#### [AI技术深度聚焦+互动体验：开发者狂欢派对来袭！Community Day@2025亮点全开麦](https://www.infoq.cn/article/bFtmfVfRqRZEd2w1m3xg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 18:22
+
+#### [解密硬核黑科技如何让企业低成本+低门槛搭建 AI 应用](https://www.infoq.cn/video/YwmfUWpUA11GoCMKff0a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 17:33
+
+#### [万条推文“怒轰”、估值下跌， OpenAI被误导性“突破”反噬！陶哲轩：有实力，但方向错了？](https://www.infoq.cn/article/guaOVzEbPttStIfZvCt5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 17:32
+
+#### [AgentOps 实战：字节复杂 Agent 的效果评测与迭代优化｜QCon 上海](https://www.infoq.cn/article/34cESjrNGpO0S1PPgZHC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 16:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/103223)
+**发布时间**: 2025-10-20 17:57
 
 ---
 
