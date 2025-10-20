@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Oct 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2025 05:21:15 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 08:28:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI助手Cici悄然霸榜海外，又是字节</title>
-      <link>https://www.qbitai.com/2025/10/343514.html</link>
-      <description>&lt;![CDATA[AI助手Cici悄然霸榜海外，又是字节]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 04:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343514.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬</title>
-      <link>https://www.qbitai.com/2025/10/343499.html</link>
-      <description>&lt;![CDATA[OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 02:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343499.html</guid>
+      <title>智能体BUTTONS SOLEMATE发布，特斯联HALI能力再升级</title>
+      <link>https://www.qbitai.com/2025/10/343629.html</link>
+      <description>&lt;![CDATA[智能体BUTTONS SOLEMATE发布，特斯联HALI能力再升级]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343629.html</guid>
       <category>AI</category>
     </item>
   </channel>

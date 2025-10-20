@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-20 05:21
+**最后更新时间**: 2025-10-20 08:28
+
+---
+
+## 🆕 最新更新 (2025-10-20 08:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海底捞要和西贝争抢中产宝妈](https://www.tmtpost.com/7731798.html)
+**发布时间**: 2025-10-20 16:03
+
+#### [金价狂飙背后：一克千金，三代一心](https://www.tmtpost.com/7729961.html)
+**发布时间**: 2025-10-20 15:17
+
+#### [10月20日A股分析：三大股指集体收涨，两市合计成交17376.05亿元，资金流入最多的行业板块为通信设备、电子元件](https://www.tmtpost.com/7731900.html)
+**发布时间**: 2025-10-20 15:08
+
+#### [东软睿新用“教医养”生态，书写教育科技新答卷](https://www.tmtpost.com/7731778.html)
+**发布时间**: 2025-10-20 14:50
+
+#### [美年健康“瘦身”渡劫](https://www.tmtpost.com/7731510.html)
+**发布时间**: 2025-10-20 14:30
+
+#### [国潮出海：从华人乡愁到全球爆款，中国零食正在攻占世界货架](https://www.tmtpost.com/7731424.html)
+**发布时间**: 2025-10-20 13:57
+
+#### [短剧造星，三年走过影剧百年路](https://www.tmtpost.com/7731660.html)
+**发布时间**: 2025-10-20 13:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业广泛采用Agentic AI，但领导层理解滞后](https://www.infoq.cn/article/jA1HFeGzY7lX63FZHpmO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 16:00
+
+#### [IDC 2025最新Infra报告力荐：GMI Cloud领跑AI原生云赛道，以技术创新与全球布局加速企业GenAI规模化落地](https://www.infoq.cn/article/KuUoRs7WAQwCiqc3vpCR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 15:31
+
+#### [深信服AI编程工具CoStrict首推严肃编程模式，为企业级开发而生](https://www.infoq.cn/article/bpLGwqTYhNCx6MmJhuj1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 15:17
+
+#### [Seed4J 2.0提供了JHipster Lite的迁移路径](https://www.infoq.cn/article/DxI3olVypgASX0NjUPiY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 15:00
+
+#### [9000+ 核跑并行：ClickHouse 数据库让任意查询语句肆意奔驰](https://www.infoq.cn/article/1V3DpC8aYbSSQRr4Rdlw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 14:55
+
+#### [“Claude Skills很棒，可能比 MCP 更重要”](https://www.infoq.cn/article/yoHN3B9DOwIc4i48GujC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 14:50
+
+#### [亚马逊云科技推出 Amazon Quick Suite：一体化智能 AI 办公平台](https://www.infoq.cn/article/a5z0cPDm6TKPJiW3vg0j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 13:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为自己找一面「代谢的镜子」：动态血糖仪的选购与使用感受](https://sspai.com/prime/story/glucose-monitors-guide)
+**发布时间**: 2025-10-20 15:23
+
+#### [教师数字文具盒 | 教育行业工作者，如何用 AI 搞定繁琐的事务性工作](https://sspai.com/post/102931)
+**发布时间**: 2025-10-20 15:00
+
+#### [MeetCard 用户上手指南](https://sspai.com/post/103159)
+**发布时间**: 2025-10-20 13:30
 
 ---
 
