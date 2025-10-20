@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-19 23:18
+**最后更新时间**: 2025-10-20 05:21
+
+---
+
+## 🆕 最新更新 (2025-10-20 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Go通道：理解Happens-Before，保证并发安全](https://www.infoq.cn/article/NSIGgSs0jS3ZCPvo84YD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 13:05
+
+#### [使用ONNX将AI推理引入Java：企业架构师实践指南](https://www.infoq.cn/article/wtQLUKGSIdu3oivTwe7W?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 13:02
+
+#### [沉痛悼念！杨振宁逝世，享年103岁；传智谱AI解散数十人产研中心，有人当天就走；李书福儿子创立具身智能公司被曝解散｜AI周报](https://www.infoq.cn/article/3j71wWRMFTf0ZvmQxUAB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 10:47
+
+#### [开源！强效果，高性能，严隐私？我全都要：OPPO 终端大模型实践](https://www.infoq.cn/article/wideqw3SUeSQTSMUKAoh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 10:42
+
+#### [挑战Claude code和Cursor：阿里Qoder对标全球，AI编程迎来“上下文”革命](https://www.infoq.cn/article/YLkMZ9IVpTseZdoJmAGw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 10:26
+
+#### [AI 时代，编程语言选型更难也更重要：Go、Rust、Python、TypeScript 谁该上场？](https://www.infoq.cn/article/2mcpfRO4ocBWJG7jb6HF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 10:17
+
+#### [24个月，从写第一行代码到破产：一位架构师在47个“死亡”项目里，看到的共同陷阱](https://www.infoq.cn/article/8PRjp5ZUYFq7Q34Jo0fp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-20 10:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这届酒店，玩起“拼楼”了](https://www.tmtpost.com/7731546.html)
+**发布时间**: 2025-10-20 12:12
+
+#### [狂奔20天，全网“追赶”Sora2](https://www.tmtpost.com/7731503.html)
+**发布时间**: 2025-10-20 11:23
+
+#### [交钱VS交隐私，AI逼用户二选一？](https://www.tmtpost.com/7731434.html)
+**发布时间**: 2025-10-20 11:10
+
+#### [独家对话影目CEO杨龙昇：百万销量是AI眼镜的坎，今年有机会盈亏平衡](https://www.tmtpost.com/7731609.html)
+**发布时间**: 2025-10-20 10:24
+
+#### [领益智造与星尘智能签署战略合作](https://www.tmtpost.com/7731487.html)
+**发布时间**: 2025-10-20 10:05
+
+#### [「一页纸」讲透美股公司之：UUUU](https://www.tmtpost.com/7731325.html)
+**发布时间**: 2025-10-20 10:00
+
+#### [没有组织的进化，就没有AI的深层落地](https://www.tmtpost.com/7731358.html)
+**发布时间**: 2025-10-20 09:00
+
+#### [管中窥豹，万里眼90GHz示波器曝国内示波器高端产业之痛](https://www.tmtpost.com/7731373.html)
+**发布时间**: 2025-10-20 08:00
+
+#### [科股早知道：华为官宣鸿蒙6发布时间](https://www.tmtpost.com/7731439.html)
+**发布时间**: 2025-10-20 07:54
+
+#### [【钛晨报】国常会：推动人工智能与物流深度融合，部署拓展绿色贸易；蚂蚁、京东据报已暂停在港发行稳定币计划；安世中国最新发声：国内全部主体运营及员工薪资福利一切正常](https://www.tmtpost.com/7731258.html)
+**发布时间**: 2025-10-20 07:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [物理真神——杨振宁的诺奖之路，给国家甚至世界带来了什么样的巨大贡献？](http://www.huxiu.com/article/4793932.html?f=wangzhan)
+**发布时间**: 2025-10-20 10:08
+
+#### [中国造船，为什么能世界第一？](http://www.huxiu.com/article/4793518.html?f=wangzhan)
+**发布时间**: 2025-10-20 09:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：国家安全局表示国家授时中心受到美国攻击](https://sspai.com/post/103207)
+**发布时间**: 2025-10-20 08:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美 NSA 被曝网攻中国「时间心脏」；微博王高飞：企业别把批评和黑公关混为一谈；传运营艰难，安世中国发公开信回应](http://www.geekpark.net/news/355134)
+**发布时间**: 2025-10-20 08:41
 
 ---
 

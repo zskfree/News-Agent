@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Oct 2025 23:18:13 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 05:21:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税</title>
-      <link>https://www.qbitai.com/2025/10/343454.html</link>
-      <description>&lt;![CDATA[经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 14:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343454.html</guid>
+      <title>AI助手Cici悄然霸榜海外，又是字节</title>
+      <link>https://www.qbitai.com/2025/10/343514.html</link>
+      <description>&lt;![CDATA[AI助手Cici悄然霸榜海外，又是字节]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 04:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343514.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LSTM之父向何恺明开炮：我学生才是残差学习奠基人</title>
-      <link>https://www.qbitai.com/2025/10/343435.html</link>
-      <description>&lt;![CDATA[LSTM之父向何恺明开炮：我学生才是残差学习奠基人]]&gt;</description>
-      <pubDate>Sun, 19 Oct 2025 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343435.html</guid>
+      <title>OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬</title>
+      <link>https://www.qbitai.com/2025/10/343499.html</link>
+      <description>&lt;![CDATA[OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 02:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343499.html</guid>
       <category>AI</category>
     </item>
   </channel>
