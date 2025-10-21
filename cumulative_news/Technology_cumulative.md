@@ -1,7 +1,119 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-20 23:18
+**最后更新时间**: 2025-10-21 05:20
+
+---
+
+## 🆕 最新更新 (2025-10-21 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Talos Linux：为Kubernetes操作带来不可变性和安全性](https://www.infoq.cn/article/xig93L6EVEudSJuFrpjS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 13:00
+
+#### [从卡顿到稳定：腾讯游戏海量支撑与容灾实践｜QCon 上海](https://www.infoq.cn/article/PKFjmmZofekOfJHDiqZF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 12:00
+
+#### [从芯粒到服务器：一文读懂大模型浪潮下的开放互连](https://www.infoq.cn/article/yK0XQ02CR1ZUKgM5HUFL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 11:52
+
+#### [DevGreenOps：如何设计可持续的数字服务](https://www.infoq.cn/article/jVCRT6B89XQzOXfSjcFK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 11:00
+
+#### [基于文本与多模态检测的恶意网址识别实践](https://www.infoq.cn/article/iH7Nm8ftxY1st1PqZK0h?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 10:47
+
+#### [Hugging Face 推出全新检索模型评估基准框架 RTEB](https://www.infoq.cn/article/omHUhbv3gyk0xjFDmdc8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 10:22
+
+#### [Karpathy盛赞DeepSeek-OCR“淘汰”tokenizer！开发者成功用 Claude Code 在 NVIDIA Spark 上跑新模型](https://www.infoq.cn/article/Hsjz6oCHeD769UgvdRz3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 10:20
+
+#### [半年前离职的智谱COO创业新项目曝光，已获蓝驰、光源投资](https://www.infoq.cn/article/s7KUHPTv2uYO6geUbeJw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 10:04
+
+#### [亚马逊云科技针对容器化应用推出了ECS Managed Instances](https://www.infoq.cn/article/Rok4lef73Nkqzgd63riG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-21 09:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [千里科技：千里赴港考验印奇的“技术变现”能力](https://www.tmtpost.com/7732887.html)
+**发布时间**: 2025-10-21 12:15
+
+#### [全面拉产能，宁王终于熬出头了？](https://www.tmtpost.com/7732971.html)
+**发布时间**: 2025-10-21 12:15
+
+#### [消耗增长超点点互动新品，一广州厂商再出小游戏爆款，APP却低迷，数据如何](https://www.tmtpost.com/7732929.html)
+**发布时间**: 2025-10-21 12:15
+
+#### [金添动漫携“IP+零食”闯港股：增长放缓，IP依赖隐忧浮现](https://www.tmtpost.com/7732890.html)
+**发布时间**: 2025-10-21 12:14
+
+#### [特斯拉“身不由己”](https://www.tmtpost.com/7732972.html)
+**发布时间**: 2025-10-21 12:14
+
+#### [被玩坏的会员制：从尊贵到真贵](https://www.tmtpost.com/7733007.html)
+**发布时间**: 2025-10-21 12:14
+
+#### [叶国富馋死了泡泡玛特，但TOP TOY学不会](https://www.tmtpost.com/7733009.html)
+**发布时间**: 2025-10-21 12:06
+
+#### [老牌德系豪车在华全面失守，德系车为啥不吃香了？](https://www.tmtpost.com/7733011.html)
+**发布时间**: 2025-10-21 12:06
+
+#### [“反噬”这个词真的听烦了](https://www.tmtpost.com/7733013.html)
+**发布时间**: 2025-10-21 12:06
+
+#### [游戏人上海打工赚钱，杭州安家度周末，岂不美哉？](https://www.tmtpost.com/7733049.html)
+**发布时间**: 2025-10-21 12:06
+
+#### [征战新赛场：竞技体育的产业变革 | 欧洲观察](https://www.tmtpost.com/7725691.html)
+**发布时间**: 2025-10-21 11:45
+
+#### [The Changing Game: How Competitive Sports are Evolving](https://www.tmtpost.com/7729926.html)
+**发布时间**: 2025-10-21 11:45
+
+#### [中智科仪完成超亿元 A 轮融资，引领超快成像技术国产化浪潮 | 融资首发](https://www.tmtpost.com/7733030.html)
+**发布时间**: 2025-10-21 11:26
+
+#### [2025中秋&国庆线下零售观察](https://www.tmtpost.com/7732884.html)
+**发布时间**: 2025-10-21 11:17
+
+#### [“炸山”事件后，始祖鸟大中华区总经理佘移峰离职](https://www.tmtpost.com/7732903.html)
+**发布时间**: 2025-10-21 11:08
+
+#### [早期癌症检测公司艾米森闯港股：年入不足千万，关联交易撑起半边天](https://www.tmtpost.com/7732497.html)
+**发布时间**: 2025-10-21 11:02
+
+#### [豪掷27亿大笔收购，渤海汽车，奋力一搏](https://www.tmtpost.com/7732609.html)
+**发布时间**: 2025-10-21 10:55
+
+#### [创新药挤泡沫，挺好的](https://www.tmtpost.com/7732924.html)
+**发布时间**: 2025-10-21 10:53
+
+#### [30万座云包场，能买到男频剧的未来吗？](https://www.tmtpost.com/7732678.html)
+**发布时间**: 2025-10-21 10:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜160 天，我从鸿蒙赚了 56840 元](https://sspai.com/post/103213)
+**发布时间**: 2025-10-21 11:00
+
+#### [派早报：iQOO 发布 iQOO 15 等新品，暴雪宣布《星际争霸 Ⅱ》国服回归日期等](https://sspai.com/post/103232)
+**发布时间**: 2025-10-21 08:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [字节这款 AI 应用，在海外悄悄「爆了」](http://www.geekpark.net/news/355180)
+**发布时间**: 2025-10-21 10:11
+
+#### [宇树发布 H2 仿生人形机器人；DeepSeek 开源新模型；微博 CEO 回应多名 KOL 被禁言｜极客早知道](http://www.geekpark.net/news/355174)
+**发布时间**: 2025-10-21 08:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [杨振宁：这位重新定义宇宙的男人，贡献远超想象](http://www.huxiu.com/article/4793783.html?f=wangzhan)
+**发布时间**: 2025-10-21 09:00
 
 ---
 

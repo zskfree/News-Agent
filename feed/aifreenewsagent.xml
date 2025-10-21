@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2025 23:18:10 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 05:20:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums</title>
-      <link>https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/</link>
-      <description>&lt;![CDATA[A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 21:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/</guid>
+      <title>拍个照就能测秃头等级？蚂蚁这AI医疗App我体验了一下</title>
+      <link>https://www.qbitai.com/2025/10/344009.html</link>
+      <description>&lt;![CDATA[拍个照就能测秃头等级？蚂蚁这AI医疗App我体验了一下]]&gt;</description>
+      <pubDate>Tue, 21 Oct 2025 03:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344009.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Teaching Gemini to spot exploding stars with just a few examples</title>
-      <link>https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/</link>
-      <description>&lt;![CDATA[Teaching Gemini to spot exploding stars with just a few examples]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/</guid>
+      <title>AI正在改写地图APP！这一次轮到谷歌了</title>
+      <link>https://www.qbitai.com/2025/10/343898.html</link>
+      <description>&lt;![CDATA[AI正在改写地图APP！这一次轮到谷歌了]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 23:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343898.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>宇树最新机器人发布：1米8大高个，能跳舞会功夫，就是颜值……</title>
-      <link>https://www.qbitai.com/2025/10/343737.html</link>
-      <description>&lt;![CDATA[宇树最新机器人发布：1米8大高个，能跳舞会功夫，就是颜值……]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343737.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Vidu Q2携「王炸」登场！杀手锏「参考生」功能全球上线，APP体验全面革新</title>
-      <link>https://www.qbitai.com/2025/10/343684.html</link>
-      <description>&lt;![CDATA[Vidu Q2携「王炸」登场！杀手锏「参考生」功能全球上线，APP体验全面革新]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343684.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道</title>
-      <link>https://www.qbitai.com/2025/10/343659.html</link>
-      <description>&lt;![CDATA[IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道]]&gt;</description>
-      <pubDate>Mon, 20 Oct 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343659.html</guid>
+      <title>DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”</title>
+      <link>https://www.qbitai.com/2025/10/343810.html</link>
+      <description>&lt;![CDATA[DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”]]&gt;</description>
+      <pubDate>Mon, 20 Oct 2025 23:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/343810.html</guid>
       <category>AI</category>
     </item>
   </channel>
