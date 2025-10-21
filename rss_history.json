@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "fa8714bba2b2c82201259e2581451c961a66d2a2bf37aa52cdd4d14a5e1d1a51": {
-        "title": "鸿蒙的全面进击：“天工计划”十亿重磅加码，打造AI全场景新生态",
-        "link": "https://www.qbitai.com/2025/09/334502.html",
-        "published_date": "Sun, 21 Sep 2025 06:48:00 GMT",
-        "first_seen": "2025-09-21T08:22:19.771046"
-      },
       "0481720f0317d37ed3c8f6d2d2424de28d5fe9bfb02ea69d5c23fdb6f8ee99ee": {
         "title": "全球双榜SOTA！明略科技专有大模型 Mano开启GUI智能操作新时代",
         "link": "https://www.jiqizhixin.com/articles/2025-09-21-4",
@@ -5946,39 +5940,27 @@
         "link": "https://www.qbitai.com/2025/10/343810.html",
         "published_date": "Mon, 20 Oct 2025 23:49:00 GMT",
         "first_seen": "2025-10-21T05:20:28.214072"
+      },
+      "944e450d78e68d103cdbffd2c5a97da3675c45a26600eacd986a02074a708fc4": {
+        "title": "ChatGPT千亿tokens，干掉麦肯锡5000名顾问",
+        "link": "https://www.qbitai.com/2025/10/344173.html",
+        "published_date": "Tue, 21 Oct 2025 06:30:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.682700"
+      },
+      "999cb7737df88f2d4ea73426641f55c17129249f80311d86d2130d184543446f": {
+        "title": "苹果AI选Mamba：Agent任务比Transformer更好",
+        "link": "https://www.qbitai.com/2025/10/344090.html",
+        "published_date": "Tue, 21 Oct 2025 06:01:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.682883"
+      },
+      "09da2d779006d1c39a8632e32fc8966a6b5bd75488aa2834a918c230f5058c76": {
+        "title": "我拿AI给神曲《八方来财》做了个MV，真的好魔性！",
+        "link": "https://www.qbitai.com/2025/10/344106.html",
+        "published_date": "Tue, 21 Oct 2025 05:54:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.683094"
       }
     },
     "Technology": {
-      "2b693a913e7ab51622c029c62b0ea95a3483a674254bf6911c0b0425bb78fbf9": {
-        "title": "一个暴论：普通人最大的AI杠杆，可能是多生孩子",
-        "link": "https://www.tmtpost.com/7700972.html",
-        "published_date": "Sun, 21 Sep 2025 15:17:00 GMT",
-        "first_seen": "2025-09-21T08:22:19.651880"
-      },
-      "24ec18bd090f41678937b53835abda9649d83b87a1e477197d04b2c113a4b085": {
-        "title": "始祖鸟“惹火”，安踏“惹祸”",
-        "link": "https://www.tmtpost.com/7700997.html",
-        "published_date": "Sun, 21 Sep 2025 15:17:00 GMT",
-        "first_seen": "2025-09-21T08:22:19.652069"
-      },
-      "9a821648e66fdf549a1567234008d2986faf7df6a1b5c167cd0bd7f12ed30e4a": {
-        "title": "西贝陨落全景图",
-        "link": "https://www.tmtpost.com/7700978.html",
-        "published_date": "Sun, 21 Sep 2025 15:17:00 GMT",
-        "first_seen": "2025-09-21T08:22:19.652178"
-      },
-      "8e3995f7f8e514e94892334a82b167fd374856372aaacce04095a645168e9a7b": {
-        "title": "拼多多的‘本分’哲学：为何不碰网贷与AI？",
-        "link": "https://www.tmtpost.com/7700969.html",
-        "published_date": "Sun, 21 Sep 2025 15:15:00 GMT",
-        "first_seen": "2025-09-21T08:22:19.652349"
-      },
-      "83a20d81cd4a88fb558b85003d09199cb613f281696fb423715ebcdc451187d5": {
-        "title": "290亿江阴“男装大王”， 冲刺港股IPO",
-        "link": "https://www.tmtpost.com/7700965.html",
-        "published_date": "Sun, 21 Sep 2025 15:15:00 GMT",
-        "first_seen": "2025-09-21T08:22:19.652561"
-      },
       "92be5279226ac92d072e99281a09e0aff04b6ee9b200a35c397e337c1ae16ec4": {
         "title": "重磅！陈天桥创立的AI公司MiroMind打造出全球顶尖预测型大模型，性能领先行业基准",
         "link": "https://www.tmtpost.com/7701110.html",
@@ -18596,6 +18578,102 @@
         "link": "http://www.huxiu.com/article/4793783.html?f=wangzhan",
         "published_date": "Tue, 21 Oct 2025 09:00:00 GMT",
         "first_seen": "2025-10-21T05:20:28.336278"
+      },
+      "6d35885a4b9298b640725522f5d4cbf441aa4a23559a9d5e3ed047e94ac53cce": {
+        "title": "4%的美元高息，“末班车”还赶得上吗？",
+        "link": "https://www.tmtpost.com/7733417.html",
+        "published_date": "Tue, 21 Oct 2025 16:05:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030382"
+      },
+      "32e907478cddadd690c47b64a4b99d98c7a657fe959a0cd56285015a565e025e": {
+        "title": "10月21日A股分析：沪指涨1.36%报收3916.33点，两市合计成交18738.94亿元，资金流出最多的行业板块为银行",
+        "link": "https://www.tmtpost.com/7733350.html",
+        "published_date": "Tue, 21 Oct 2025 15:11:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030396"
+      },
+      "591ea5111dcc5a07bee258c573e2d9438866a1d8a514de8ca9e63e751e567c95": {
+        "title": "Apple Stock Hits First Record This Year on Strong Early iPhone 17 Sales in China and U.S.",
+        "link": "https://www.tmtpost.com/7733291.html",
+        "published_date": "Tue, 21 Oct 2025 14:18:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030411"
+      },
+      "893024bb5e0b5cac42049bd76481a2af7325087d05c3fb05486261ec78bc7faa": {
+        "title": "三大上市公司联手，开卖10万级“国民车”？",
+        "link": "https://www.tmtpost.com/7732262.html",
+        "published_date": "Tue, 21 Oct 2025 13:34:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030423"
+      },
+      "cd480f4753bc6c071c1e6f4b7a32d026d94a1bf56df82da92db340a956da8524": {
+        "title": "Envision Group's Chairman Aims to Build Energy AI Foundation Model Bigger, Stronger Than U.S. in Three Years",
+        "link": "https://www.tmtpost.com/7733250.html",
+        "published_date": "Tue, 21 Oct 2025 13:30:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.738225"
+      },
+      "21b8c8a65a54670fc43f4283e98f8015f81bde180a2fe5d7e164aedd9b9a4f24": {
+        "title": "短剧公司“换赛道”，真人 IP 转 AI 漫剧成新风口",
+        "link": "https://www.tmtpost.com/7732826.html",
+        "published_date": "Tue, 21 Oct 2025 13:27:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030435"
+      },
+      "9c27a6481072e4916000034ead5f09c88b91af89bd689faa497635c5ffe6a80c": {
+        "title": "五星酒店大甩卖，为何各地还在疯狂“抢购”？",
+        "link": "https://www.tmtpost.com/7733166.html",
+        "published_date": "Tue, 21 Oct 2025 13:26:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030445"
+      },
+      "aaea98df628a5660c04343352747e93666e0e313c5edfc8efc21f5506967c591": {
+        "title": "东风西落，岚图要开启新蓝图？",
+        "link": "https://www.tmtpost.com/7733205.html",
+        "published_date": "Tue, 21 Oct 2025 13:24:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030454"
+      },
+      "c6e75e2e3eb2f2f86f400d2b4bb4af1cd884911489205f281434c5b440ba06f0": {
+        "title": "精实测控陷“生死局”：2025年上半年陷“失血”困局，13年盈利清零，下半年能否扭转颓势成谜｜IPO观察",
+        "link": "https://www.tmtpost.com/7726403.html",
+        "published_date": "Tue, 21 Oct 2025 13:17:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.740279"
+      },
+      "aa9956a09273fc13b6c63ff469bd9c90648bd2a62895754e1a8566e8486c65a0": {
+        "title": "聚焦AI全栈创新与行业应用，InfoQ 2025中国技术力量年度榜单开启",
+        "link": "https://www.infoq.cn/article/RfW4oElu9L8uD1UixtIX?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Oct 2025 15:44:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030326"
+      },
+      "a7474139bd7b3e30462b187b590a72c5873d20407929c6283116bd9c0105c066": {
+        "title": "大模型时代下的搜广推系统实践｜AICon 前瞻",
+        "link": "https://www.infoq.cn/article/WD6vUo1AmD5ffPSgWLz4?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Oct 2025 15:15:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030353"
+      },
+      "c4d51348ae31f52f771d7eccbc87530dcbdf2945737e0abc4c1224a5dfd39bf3": {
+        "title": "Anthropic这两天真“忙”：上线网页版Claude Code，还让Claude搞科研",
+        "link": "https://www.infoq.cn/article/4zFt0Xmy9FQiekfYa9V7?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Oct 2025 14:42:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.742324"
+      },
+      "27b16e6a56eaa56fc0703638d4a8df335c19d1ea8dd0297fd3f42d3ae0402784": {
+        "title": "创始人强塞AI代码，致开源社区分裂！核心开发集体出走：“你这种强权压制，让人恶心！”",
+        "link": "https://www.infoq.cn/article/xKNa5hXvHJRDq5EfoHb9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Oct 2025 14:31:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.743336"
+      },
+      "e4ce547ac375490aa3aaf93fe519f7faabe778c6160b45560728ea76d1c789bc": {
+        "title": "Flipkart使用分层联邦将Prometheus扩展到8000万个指标",
+        "link": "https://www.infoq.cn/article/ujLWWSuz0PMSQUpCqVFU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Oct 2025 14:00:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.744108"
+      },
+      "246448f9d9d814a8815c719cf1a55802fdc0d9d9f79e019c6d68ff232d1649c9": {
+        "title": "澳大利亚九日游记：新老 iPhone 齐出动，记录十年重逢的喜悦",
+        "link": "https://sspai.com/post/103037",
+        "published_date": "Tue, 21 Oct 2025 15:25:00 GMT",
+        "first_seen": "2025-10-21T08:29:33.745149"
+      },
+      "44515ad01a68ac0659161a728c1de5be2f8c89d523138f6f60369e192b5ae503": {
+        "title": "这个技能转换 Agent 平台，想帮你积累「睡后收入」｜AI 上新",
+        "link": "http://www.geekpark.net/news/355202",
+        "published_date": "Tue, 21 Oct 2025 14:12:00 GMT",
+        "first_seen": "2025-10-21T08:30:22.030369"
       }
     },
     "Finance": {
@@ -21020,8 +21098,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-21T05:20:28.280198",
-    "Technology": "2025-10-21T05:21:16.630115",
-    "Finance": "2025-10-21T05:20:28.102731"
+    "AI": "2025-10-21T08:29:33.706552",
+    "Technology": "2025-10-21T08:30:22.032018",
+    "Finance": "2025-10-21T08:29:33.583377"
   }
 }
