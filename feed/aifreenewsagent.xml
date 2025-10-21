@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Oct 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2025 08:29:33 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 23:19:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ChatGPT千亿tokens，干掉麦肯锡5000名顾问</title>
-      <link>https://www.qbitai.com/2025/10/344173.html</link>
-      <description>&lt;![CDATA[ChatGPT千亿tokens，干掉麦肯锡5000名顾问]]&gt;</description>
-      <pubDate>Tue, 21 Oct 2025 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344173.html</guid>
+      <title>讯飞刚发的财报：净利润暴涨了202%</title>
+      <link>https://www.qbitai.com/2025/10/344260.html</link>
+      <description>&lt;![CDATA[讯飞刚发的财报：净利润暴涨了202%]]&gt;</description>
+      <pubDate>Tue, 21 Oct 2025 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344260.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>苹果AI选Mamba：Agent任务比Transformer更好</title>
-      <link>https://www.qbitai.com/2025/10/344090.html</link>
-      <description>&lt;![CDATA[苹果AI选Mamba：Agent任务比Transformer更好]]&gt;</description>
-      <pubDate>Tue, 21 Oct 2025 06:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344090.html</guid>
+      <title>商汤科技亮相上海知识产权国际论坛，探讨AI×IP创新变革新格局</title>
+      <link>https://www.qbitai.com/2025/10/344252.html</link>
+      <description>&lt;![CDATA[商汤科技亮相上海知识产权国际论坛，探讨AI×IP创新变革新格局]]&gt;</description>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344252.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>我拿AI给神曲《八方来财》做了个MV，真的好魔性！</title>
-      <link>https://www.qbitai.com/2025/10/344106.html</link>
-      <description>&lt;![CDATA[我拿AI给神曲《八方来财》做了个MV，真的好魔性！]]&gt;</description>
-      <pubDate>Tue, 21 Oct 2025 05:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344106.html</guid>
+      <title>“最美产品经理”宋紫薇，创业AI硬件首款产品曝光</title>
+      <link>https://www.qbitai.com/2025/10/344241.html</link>
+      <description>&lt;![CDATA[“最美产品经理”宋紫薇，创业AI硬件首款产品曝光]]&gt;</description>
+      <pubDate>Tue, 21 Oct 2025 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344241.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>马斯克：工资不到位，特斯拉CEO我不干了</title>
+      <link>https://www.qbitai.com/2025/10/344185.html</link>
+      <description>&lt;![CDATA[马斯克：工资不到位，特斯拉CEO我不干了]]&gt;</description>
+      <pubDate>Tue, 21 Oct 2025 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344185.html</guid>
       <category>AI</category>
     </item>
   </channel>
