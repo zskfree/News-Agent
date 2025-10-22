@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-21 23:19
+**最后更新时间**: 2025-10-22 05:20
+
+---
+
+## 🆕 最新更新 (2025-10-22 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技公司推出EC2实例认证](https://www.infoq.cn/article/8Ttbl2JhW4hslXgZ0Zdm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 13:00
+
+#### [研究人员推出ACE框架，实现大语言模型自我优化上下文](https://www.infoq.cn/article/ULlMPRM1hiOffBApjf6t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 12:00
+
+#### [模力工场 016 周 AI 应用榜：来看 AI 图表双雄争霸战，效率与创造力全线爆发！](https://www.infoq.cn/article/ugSWKSf7yOCUYZ5ofxNt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 11:19
+
+#### [谷歌开源的Gemini CLI扩展助力开发者构建定制化人工智能工作流](https://www.infoq.cn/article/HFPYIuLgKdWQiKs9ewoB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 11:00
+
+#### [GitHub MCP注册中心提供了一个发现和部署MCP服务器的中心枢纽](https://www.infoq.cn/article/cTkI5BVRelKx4tg3cGtr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 10:09
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [东土科技收购IPO“钉子户”高威科：标的客户资源与科研成色引关注｜并购一线](https://www.tmtpost.com/7734474.html)
+**发布时间**: 2025-10-22 12:55
+
+#### [AI时代，ERP的“破”与“立”](https://www.tmtpost.com/7733908.html)
+**发布时间**: 2025-10-22 12:44
+
+#### [China Powers Ahead in Middle East and North Africa Solar Markets](https://www.tmtpost.com/7734462.html)
+**发布时间**: 2025-10-22 12:13
+
+#### [可口可乐："散装肥宅水"，喝出稳稳的幸福？](https://www.tmtpost.com/7733976.html)
+**发布时间**: 2025-10-22 11:52
+
+#### [41亿净现金，胖东来告诉你什么才是真正的赚钱](https://www.tmtpost.com/7734360.html)
+**发布时间**: 2025-10-22 11:52
+
+#### [全球酒店，正在满世界寻找“人多”的地方](https://www.tmtpost.com/7733639.html)
+**发布时间**: 2025-10-22 11:52
+
+#### [老鹰半导体B+轮融资超7亿元，创VCSEL产业单轮融资纪录](https://www.tmtpost.com/7734390.html)
+**发布时间**: 2025-10-22 11:28
+
+#### [英伟达向左，寒武纪向右](https://www.tmtpost.com/7733614.html)
+**发布时间**: 2025-10-22 11:11
+
+#### [金钢科技完成数千万元Pre-A++轮融资，引领机器人行业关键零部件变革 | 融资首发](https://www.tmtpost.com/7734299.html)
+**发布时间**: 2025-10-22 11:10
+
+#### [AI应用落地也需要“去中心化”丨ToB产业观察](https://www.tmtpost.com/7734225.html)
+**发布时间**: 2025-10-22 11:00
+
+#### [直击iPhone Air发售现场：开售即破发，小众“偏科生”难突围](https://www.tmtpost.com/7734345.html)
+**发布时间**: 2025-10-22 10:57
+
+#### [“隐形冠军”神话终破灭](https://www.tmtpost.com/7733952.html)
+**发布时间**: 2025-10-22 10:48
+
+#### [800亿美金天价索赔背后：中国矿企出海如何穿越ESG雷区？](https://www.tmtpost.com/7734166.html)
+**发布时间**: 2025-10-22 10:47
+
+#### [两日五单、43亿美元，中国创新药在“ESMO+季节性”双窗口里加速出货｜行业风向标](https://www.tmtpost.com/7733982.html)
+**发布时间**: 2025-10-22 10:36
+
+#### [高德，需要向蒋凡“毛遂自荐”](https://www.tmtpost.com/7733984.html)
+**发布时间**: 2025-10-22 09:38
+
+#### [3亿收购老板娘公司，蜜雪冰城买的什么酒？](https://www.tmtpost.com/7734142.html)
+**发布时间**: 2025-10-22 09:38
+
+#### [疫苗赛道下一个“爆款”之争](https://www.tmtpost.com/7734113.html)
+**发布时间**: 2025-10-22 08:52
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [宁德时代、博世这些顶级供应商，为何都要为零跑汽车站台？](http://www.huxiu.com/article/4794050.html?f=wangzhan)
+**发布时间**: 2025-10-22 11:54
+
+#### [曹德旺卸任董事长，福耀“二代”接班不容易](http://www.huxiu.com/article/4794836.html?f=wangzhan)
+**发布时间**: 2025-10-22 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [1024 特别直播｜不止代码 —— 用科技重新定义你的生活](https://sspai.com/post/103242)
+**发布时间**: 2025-10-22 11:00
+
+#### [派早报：PS5 Pro 国行版发售等](https://sspai.com/post/103250)
+**发布时间**: 2025-10-22 07:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览器](http://www.geekpark.net/news/355228)
+**发布时间**: 2025-10-22 08:47
 
 ---
 
