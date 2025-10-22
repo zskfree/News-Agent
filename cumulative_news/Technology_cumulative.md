@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-22 08:30
+**最后更新时间**: 2025-10-22 23:19
+
+---
+
+## 🆕 最新更新 (2025-10-22 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [道氏技术实控人逢高套现约2.7亿，减持期内多概念密集傍身](https://www.tmtpost.com/7735080.html)
+**发布时间**: 2025-10-22 22:03
+
+#### [“妖股”ST景峰拿到重整路条，石药5亿救场能否改写退市命运？](https://www.tmtpost.com/7735079.html)
+**发布时间**: 2025-10-22 21:40
+
+#### [低价击穿底线、真假混卖，“双11”成白酒“打假主战场”| 行业风向标](https://www.tmtpost.com/7734934.html)
+**发布时间**: 2025-10-22 20:42
+
+#### [国内AI 应用赛道最大单笔融资，LiblibAI获1.3 亿美元融资｜融资首发](https://www.tmtpost.com/7735092.html)
+**发布时间**: 2025-10-22 20:38
+
+#### [破产重整后“押注”半导体公司，盈新发展的跨界“背水一战”｜并购一线](https://www.tmtpost.com/7735027.html)
+**发布时间**: 2025-10-22 20:37
+
+#### [无需编程，一句话生成一款应用｜AI Founder 请回答 | 巴伦精选](https://www.tmtpost.com/7735053.html)
+**发布时间**: 2025-10-22 20:10
+
+#### [半导体靶材，如何左右7nm以下制程？](https://www.tmtpost.com/7734953.html)
+**发布时间**: 2025-10-22 18:38
+
+#### [电梯工程师创业，年入21亿，要IPO了](https://www.tmtpost.com/7734938.html)
+**发布时间**: 2025-10-22 18:38
+
+#### [当虚拟恋人“失语”，AI陪伴生意的合规困局](https://www.tmtpost.com/7734924.html)
+**发布时间**: 2025-10-22 18:35
+
+#### [雷军、董明珠“爱过”的男人，入职TCL李东生的公司](https://www.tmtpost.com/7734728.html)
+**发布时间**: 2025-10-22 18:25
+
+#### [中国硬件在海外众筹杀疯了](https://www.tmtpost.com/7734834.html)
+**发布时间**: 2025-10-22 18:25
+
+#### [独家对话奥哲CEO徐平俊：“AI+数据+低代码”成为构建AI原生企业最佳路径](https://www.tmtpost.com/7734712.html)
+**发布时间**: 2025-10-22 17:51
+
+#### [China's Next-Generation Consumer Electronics Brands Go Global: From Category Creation to Emotional Connection](https://www.tmtpost.com/7734878.html)
+**发布时间**: 2025-10-22 17:35
+
+#### [新显示技术路线之争，TCL华星投资295亿加速印刷OLED产业落地 | 供应链隐形冠军](https://www.tmtpost.com/7734835.html)
+**发布时间**: 2025-10-22 17:31
+
+#### [文远知行：营收下滑，7年“烧光”94亿元，核心客户订单骤减 | IPO观察](https://www.tmtpost.com/7734074.html)
+**发布时间**: 2025-10-22 17:23
+
+#### [返乡创业潮正在进行时](https://www.tmtpost.com/7734642.html)
+**发布时间**: 2025-10-22 17:10
+
+#### [Q3营收狂飙250%，海外暴增370%，泡泡玛特正在征服全球消费者](https://www.tmtpost.com/7734559.html)
+**发布时间**: 2025-10-22 17:10
+
+#### [方建华：铜=未来“新石油”，“以铝节铜”如何破局？](https://www.tmtpost.com/7734552.html)
+**发布时间**: 2025-10-22 17:10
+
+#### [和互联网一样，国产AI产品重回“大厂叙事”时代](https://www.tmtpost.com/7733885.html)
+**发布时间**: 2025-10-22 17:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从被动存储到主动决策：AI如何驱动数据库与大数据智能进化](https://www.infoq.cn/video/PrIBNfxzGOMmz8O16CK5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 19:00
+
+#### [OpenAI的新浏览器实测被吐槽疯了？走“乔布斯风”、挖谷歌骨干，奥特曼就“复制”出个ChatGPT版Chrome？](https://www.infoq.cn/article/yNbbpIcEcFdQpDj0Egzu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 18:04
+
+#### [AI Agent技术创新与企业级智能体快速落地路径](https://www.infoq.cn/video/89bJw4pYGiCXRAFb4s90?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 17:31
+
+#### [模力工场 016 周 AI 应用榜：爱图表-数据报告与图表生成神器登榜，效率与创造力双线爆发！](https://www.infoq.cn/article/ugSWKSf7yOCUYZ5ofxNt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 11:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [百度的大模型棋局，都藏在这些李彦宏的非共识中](http://www.geekpark.net/news/355287)
+**发布时间**: 2025-10-22 17:49
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [高市早苗这位女版安倍，拿什么来复兴日本？](http://www.huxiu.com/article/4795192.html?f=wangzhan)
+**发布时间**: 2025-10-22 16:00
 
 ---
 
