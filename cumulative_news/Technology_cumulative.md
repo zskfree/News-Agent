@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-22 05:20
+**最后更新时间**: 2025-10-22 08:30
+
+---
+
+## 🆕 最新更新 (2025-10-22 08:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI编程工具在大型企业“遇冷”？网易CodeWave升级研发模式，不只关注“代码生成”](https://www.infoq.cn/article/SOE9Qzv1iutE2mrmLuiM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 15:57
+
+#### [LangChain 完成新一轮融资，估值 12.5 亿美元](https://www.infoq.cn/article/WHkGx30RJzlCVXWNXBNo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 15:21
+
+#### [百川发布循证增强大模型M2 Plus，幻觉率相比DeepSeek降低3倍](https://www.infoq.cn/article/Sc3CWRctglQpHzLjF2SR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 14:53
+
+#### [Slack新型异常事件响应架构揭秘](https://www.infoq.cn/article/wl4Ezxketem0kCvxDrwg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 14:00
+
+#### [AI 驱动的新基建：下一代多模态数据湖探索与实践｜QCon 上海](https://www.infoq.cn/article/LmG6BLiHF5yslVWgmzz2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 13:37
+
+#### [模力工场 016 周 AI 应用榜：AI驱动的数据报告神器登榜，效率与创造力双线爆发！](https://www.infoq.cn/article/ugSWKSf7yOCUYZ5ofxNt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-22 11:19
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chinese AI Startup DeepSeek Unveils Open-Source Optical Compression Model for LLM Training](https://www.tmtpost.com/7734674.html)
+**发布时间**: 2025-10-22 15:50
+
+#### [悬浮、朝圣、难复制，胖东来做成了景区生意](https://www.tmtpost.com/7733925.html)
+**发布时间**: 2025-10-22 15:40
+
+#### [气温一降就涨停？特一药业止咳药的“老剧本”还香吗？](https://www.tmtpost.com/7733907.html)
+**发布时间**: 2025-10-22 15:40
+
+#### [10月22日A股分析：沪指微跌0.07%，两市成交缩量2060亿元，主力资金净流出510亿，机器人执行器等板块逆势吸金](https://www.tmtpost.com/7734617.html)
+**发布时间**: 2025-10-22 15:33
+
+#### [算力美梦与“割韭菜”骗局](https://www.tmtpost.com/7733705.html)
+**发布时间**: 2025-10-22 14:36
+
+#### [风电产业链暗战：9000万纠纷背后的信任裂痕与行业阵痛](https://www.tmtpost.com/7733886.html)
+**发布时间**: 2025-10-22 14:36
+
+#### [India Reportedly Closer to Trade Deal to Cut Russian Oil Purchase and Lower U.S. Tariffs to 15%](https://www.tmtpost.com/7734575.html)
+**发布时间**: 2025-10-22 14:32
+
+#### [当跑步成为运动消费新热点，跑步主题集合店能否成为新增量？](https://www.tmtpost.com/7734578.html)
+**发布时间**: 2025-10-22 14:31
+
+#### [Google Parent Stock Sinks as OpenAI Launches AI-Powered Browser ChatGPT Atlas](https://www.tmtpost.com/7734526.html)
+**发布时间**: 2025-10-22 13:36
+
+#### [3年突破1亿美元，亿级科技硬件品牌的出海方法论｜出海参考](https://www.tmtpost.com/7734382.html)
+**发布时间**: 2025-10-22 13:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [读懂杨振宁，读懂中国人的自信](http://www.huxiu.com/article/4794055.html?f=wangzhan)
+**发布时间**: 2025-10-22 13:30
 
 ---
 
