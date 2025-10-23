@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2025 23:19:38 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 05:25:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚拿诺奖就登Nature封面！谷歌“量子回声”算法计算提速13000倍，可重复验证结果</title>
-      <link>https://www.qbitai.com/2025/10/344690.html</link>
-      <description>&lt;![CDATA[刚拿诺奖就登Nature封面！谷歌“量子回声”算法计算提速13000倍，可重复验证结果]]&gt;</description>
-      <pubDate>Wed, 22 Oct 2025 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344690.html</guid>
+      <title>太疯狂了！Meta裁员裁到田渊栋头上，连组员一锅端</title>
+      <link>https://www.qbitai.com/2025/10/344779.html</link>
+      <description>&lt;![CDATA[太疯狂了！Meta裁员裁到田渊栋头上，连组员一锅端]]&gt;</description>
+      <pubDate>Thu, 23 Oct 2025 04:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344779.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>华为正式发布HarmonyOS 6，10月22日开启公测</title>
-      <link>https://www.qbitai.com/2025/10/344652.html</link>
-      <description>&lt;![CDATA[华为正式发布HarmonyOS 6，10月22日开启公测]]&gt;</description>
-      <pubDate>Wed, 22 Oct 2025 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344652.html</guid>
+      <title>中国模型打服硅谷：Airbnb联创CEO感叹又好又快又便宜！ChatGPT合作都拒了</title>
+      <link>https://www.qbitai.com/2025/10/344763.html</link>
+      <description>&lt;![CDATA[中国模型打服硅谷：Airbnb联创CEO感叹又好又快又便宜！ChatGPT合作都拒了]]&gt;</description>
+      <pubDate>Thu, 23 Oct 2025 04:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344763.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大家不再买保时捷，十年功勋CEO下岗了</title>
-      <link>https://www.qbitai.com/2025/10/344493.html</link>
-      <description>&lt;![CDATA[大家不再买保时捷，十年功勋CEO下岗了]]&gt;</description>
-      <pubDate>Wed, 22 Oct 2025 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344493.html</guid>
+      <title>KTransformers入选计算机系统顶会、与主流框架合作，趋境&amp;清华让「异构」成为推理新范式</title>
+      <link>https://www.qbitai.com/2025/10/344731.html</link>
+      <description>&lt;![CDATA[KTransformers入选计算机系统顶会、与主流框架合作，趋境&amp;清华让「异构」成为推理新范式]]&gt;</description>
+      <pubDate>Thu, 23 Oct 2025 01:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344731.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>荣耀与比亚迪达成战略合作，共同打造AI驱动的智慧出行新生态</title>
-      <link>https://www.qbitai.com/2025/10/344428.html</link>
-      <description>&lt;![CDATA[荣耀与比亚迪达成战略合作，共同打造AI驱动的智慧出行新生态]]&gt;</description>
-      <pubDate>Wed, 22 Oct 2025 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344428.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>全球首款！高性能人形机器人跑跳进入万元机时代</title>
-      <link>https://www.qbitai.com/2025/10/344427.html</link>
-      <description>&lt;![CDATA[全球首款！高性能人形机器人跑跳进入万元机时代]]&gt;</description>
-      <pubDate>Wed, 22 Oct 2025 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344427.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>A verifiable quantum advantage</title>
-      <link>https://research.google/blog/a-verifiable-quantum-advantage/</link>
-      <description>&lt;![CDATA[A verifiable quantum advantage]]&gt;</description>
-      <pubDate>Wed, 22 Oct 2025 15:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-verifiable-quantum-advantage/</guid>
+      <title>Meta AI大裁600人，亚历山大王操刀重点砍向LeCun团队</title>
+      <link>https://www.qbitai.com/2025/10/344727.html</link>
+      <description>&lt;![CDATA[Meta AI大裁600人，亚历山大王操刀重点砍向LeCun团队]]&gt;</description>
+      <pubDate>Thu, 23 Oct 2025 01:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344727.html</guid>
       <category>AI</category>
     </item>
   </channel>

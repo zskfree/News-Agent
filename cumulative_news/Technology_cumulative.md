@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-22 23:19
+**最后更新时间**: 2025-10-23 05:25
+
+---
+
+## 🆕 最新更新 (2025-10-23 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科技前沿「蓝宝书」：量子计算（下）](https://www.tmtpost.com/7735259.html)
+**发布时间**: 2025-10-23 13:12
+
+#### [上市后业绩持续承压，光伏“隐形冠军”泽润新能三季度遭遇首亏](https://www.tmtpost.com/7735671.html)
+**发布时间**: 2025-10-23 13:00
+
+#### [Alibaba Backs Noematrix in Embodied Intelligence Push, Aiming for "AI Brain" Leadership](https://www.tmtpost.com/7735640.html)
+**发布时间**: 2025-10-23 12:01
+
+#### [信达生物的惊天BD，市场为何不买账？](https://www.tmtpost.com/7735331.html)
+**发布时间**: 2025-10-23 11:56
+
+#### [阿里再押“具身智能大脑”，穹彻智能完成新一轮融资｜融资首发](https://www.tmtpost.com/7735591.html)
+**发布时间**: 2025-10-23 11:12
+
+#### [酒店品牌CEO巡店，能否成为一门“好生意”？](https://www.tmtpost.com/7735433.html)
+**发布时间**: 2025-10-23 11:02
+
+#### [680辆Robotaxi，能撑起小马智行75亿美金市值么](https://www.tmtpost.com/7735454.html)
+**发布时间**: 2025-10-23 10:49
+
+#### [OpenAI也来了，巨头为何决战AI浏览器？](https://www.tmtpost.com/7735434.html)
+**发布时间**: 2025-10-23 10:21
+
+#### [蚂蚁狩猎机器人](https://www.tmtpost.com/7735048.html)
+**发布时间**: 2025-10-23 10:21
+
+#### [打败月之暗面的，不是广东老乡的DeepSeek](https://www.tmtpost.com/7735017.html)
+**发布时间**: 2025-10-23 10:00
+
+#### [评测三档新音综：同期对打，只为托举“下一个单依纯”？](https://www.tmtpost.com/7735179.html)
+**发布时间**: 2025-10-23 09:40
+
+#### [理想汽车，“尖子生”不好当](https://www.tmtpost.com/7735044.html)
+**发布时间**: 2025-10-23 09:20
+
+#### [安世半导体危机，逼近欧洲车企](https://www.tmtpost.com/7735352.html)
+**发布时间**: 2025-10-23 09:00
+
+#### [寒武纪市值飙上6000亿元，背后暗藏多重隐忧](https://www.tmtpost.com/7735208.html)
+**发布时间**: 2025-10-23 09:00
+
+#### [四年连亏，照明企业拟收购嘉合劲威切入存储领域；线缆龙头拟出售核心子公司股权，年营收占上市公司50%；【并购一线】](https://www.tmtpost.com/7735258.html)
+**发布时间**: 2025-10-23 08:41
+
+#### [lululemon在北美，正沦为“妈妈品牌”](https://www.tmtpost.com/7735154.html)
+**发布时间**: 2025-10-23 08:41
+
+#### [用周期x组织，读懂经营的本质](https://www.tmtpost.com/7735103.html)
+**发布时间**: 2025-10-23 08:20
+
+#### [堪比黄金价值线，稀土狂飙后的理性思考](https://www.tmtpost.com/7735198.html)
+**发布时间**: 2025-10-23 08:00
+
+#### [科股早知道：全球首个海风直联海底数据中心示范项目在上海临港落成](https://www.tmtpost.com/7735305.html)
+**发布时间**: 2025-10-23 07:46
+
+#### [利润涨四成，份额创五年新低：宁德时代的增长从何而来？](https://www.tmtpost.com/7735325.html)
+**发布时间**: 2025-10-23 07:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [NPM生态系统遭受了两次基于AI的凭证窃取供应链攻击](https://www.infoq.cn/article/fQ9AeUc4MBEG8zlDdAYp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-23 12:58
+
+#### [“神级模型”Gemini 3.0实力刷屏！联手谷歌全新氛围编程工具重塑前端，如今只差官宣](https://www.infoq.cn/article/jtAoXPZEz6WgjwBVSVyq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-23 12:03
+
+#### [IBM Cloud Code Engine Serverless Fleets配备GPU以实现高性能人工智能和并行计算](https://www.infoq.cn/article/oJdiIjMNPMRsJdqyZb0K?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-23 11:31
+
+#### [研究员是不是快要失业了？斯坦福大学把论文“炼”成 AI 了](https://www.infoq.cn/article/qwFup9jWX9lTvxBLgvuq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-23 10:16
+
+#### [Pixnapping：侧信道漏洞使安卓应用可窃取敏感屏幕数据](https://www.infoq.cn/article/CVu37dwDyX683qc05IeS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-23 09:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站](https://sspai.com/post/103018)
+**发布时间**: 2025-10-23 11:27
+
+#### [派早报：三星发布 Galaxy XR 头显、OpenAI 推出 AI 浏览器等](https://sspai.com/post/103289)
+**发布时间**: 2025-10-23 08:37
+
+#### [iPhone Air 正式开售，办理 eSIM 前你也许想先了解这些事](https://sspai.com/post/103279)
+**发布时间**: 2025-10-22 17:40
+
+#### [在那拉提的 48 小时：从河谷到天界台的慢旅行](https://sspai.com/post/103089)
+**发布时间**: 2025-10-22 16:38
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [微软 CEO 获 9650 万美元最高薪酬；Netflix 宣布全力投入AI ；王自如曝负债 1 亿，坐绿皮火车](http://www.geekpark.net/news/355297)
+**发布时间**: 2025-10-23 08:54
 
 ---
 
