@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-23 08:28
+**最后更新时间**: 2025-10-23 23:18
+
+---
+
+## 🆕 最新更新 (2025-10-23 23:18)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [5000 块请 AI 看我「上厕所」？科勒这个新产品把美国人整不会了](http://www.geekpark.net/news/355469)
+**发布时间**: 2025-10-23 21:48
+
+#### [亚马逊云科技终结了体育界的所有「玄学」](http://www.geekpark.net/news/355464)
+**发布时间**: 2025-10-23 20:45
+
+#### [中产爱上万元级「电动自行车」，买出一个千亿美金赛道](http://www.geekpark.net/news/355422)
+**发布时间**: 2025-10-23 17:44
+
+#### [AI 能不能写出《庆余年》？](http://www.geekpark.net/news/355425)
+**发布时间**: 2025-10-23 17:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [雷鸟联合pixelworks打造画质芯片，AR眼镜进入定制芯片时代 | 独家](https://www.tmtpost.com/7736090.html)
+**发布时间**: 2025-10-23 20:15
+
+#### [苹果人生也要分个三六九等](https://www.tmtpost.com/7736122.html)
+**发布时间**: 2025-10-23 19:17
+
+#### [“万亿参数”VS“半价长文”：国产大模型的“规模幻象”与“算力革命”之战](https://www.tmtpost.com/7736185.html)
+**发布时间**: 2025-10-23 19:15
+
+#### [最长双11，“逼疯”大主播？](https://www.tmtpost.com/7736217.html)
+**发布时间**: 2025-10-23 19:13
+
+#### [拆解中国创新药BD第一案](https://www.tmtpost.com/7736175.html)
+**发布时间**: 2025-10-23 19:13
+
+#### [AI赋能影像，能否破解远程诊疗之困？  ​](https://www.tmtpost.com/7736069.html)
+**发布时间**: 2025-10-23 19:08
+
+#### [这届年轻人，为何负债旅行？](https://www.tmtpost.com/7736115.html)
+**发布时间**: 2025-10-23 19:08
+
+#### [9月微短剧月报：59部新剧闯入TOP100，行业从爆发期进入存量竞争阶段](https://www.tmtpost.com/7721998.html)
+**发布时间**: 2025-10-23 18:42
+
+#### [小红书不愿再为闲鱼作嫁衣](https://www.tmtpost.com/7735857.html)
+**发布时间**: 2025-10-23 18:42
+
+#### [叶国富不想做杂货店生意了](https://www.tmtpost.com/7735917.html)
+**发布时间**: 2025-10-23 18:11
+
+#### [美利信三季报亏损加剧至2.15亿，激进扩张下现金流与债务压力双升｜看财报](https://www.tmtpost.com/7736104.html)
+**发布时间**: 2025-10-23 17:54
+
+#### [新石器完成逾6亿美元D轮融资，创中国自动驾驶领域融资纪录 | 融资首发](https://www.tmtpost.com/7736057.html)
+**发布时间**: 2025-10-23 17:49
+
+#### [超高溢价入股迈巴赫奢侈品公司，老凤祥高端化豪赌胜算几何？](https://www.tmtpost.com/7735950.html)
+**发布时间**: 2025-10-23 17:06
+
+#### [3亿收购福鹿家，蜜雪冰城能撬动千亿鲜啤市场吗？](https://www.tmtpost.com/7735694.html)
+**发布时间**: 2025-10-23 16:44
+
+#### [Tesla's Elon Musk Scales Down Optimus Production Plan and Robotaxi Expansion Target](https://www.tmtpost.com/7735972.html)
+**发布时间**: 2025-10-23 16:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [烧钱万亿，大厂为何越亏越勇？](http://www.huxiu.com/article/4795471.html?f=wangzhan)
+**发布时间**: 2025-10-23 20:00
+
+#### [只接待老年人的火锅店，诈骗数千万元？](http://www.huxiu.com/article/4795957.html?f=wangzhan)
+**发布时间**: 2025-10-23 17:00
+
+#### [全季“粪便门”，让四亿中产破防？](http://www.huxiu.com/article/4795962.html?f=wangzhan)
+**发布时间**: 2025-10-23 15:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 把游戏 UI 做成效率工具：OrbitRing](https://sspai.com/post/102689)
+**发布时间**: 2025-10-23 17:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [数智时代的安全操盘手：AI安全可控，风控增效无忧](https://www.infoq.cn/video/m4eeYJ9GLaG9Nb6ULBjs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-23 16:30
 
 ---
 

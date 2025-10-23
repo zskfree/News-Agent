@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Oct 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2025 08:28:49 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 23:18:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>1.3亿美元！LiblibAI拿下国内AI应用赛道年度最大融资</title>
-      <link>https://www.qbitai.com/2025/10/344890.html</link>
-      <description>&lt;![CDATA[1.3亿美元！LiblibAI拿下国内AI应用赛道年度最大融资]]&gt;</description>
-      <pubDate>Thu, 23 Oct 2025 06:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344890.html</guid>
+      <title>马斯克太难了！特斯拉营收销量创新高，市值一夜蒸发3955亿</title>
+      <link>https://www.qbitai.com/2025/10/344991.html</link>
+      <description>&lt;![CDATA[马斯克太难了！特斯拉营收销量创新高，市值一夜蒸发3955亿]]&gt;</description>
+      <pubDate>Thu, 23 Oct 2025 08:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344991.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>新研究揭穿Claude底裤，马斯克盖棺定论</title>
-      <link>https://www.qbitai.com/2025/10/344863.html</link>
-      <description>&lt;![CDATA[新研究揭穿Claude底裤，马斯克盖棺定论]]&gt;</description>
-      <pubDate>Thu, 23 Oct 2025 06:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344863.html</guid>
+      <title>大模型推理学习新范式！ExGRPO框架：从盲目刷题到聪明复盘</title>
+      <link>https://www.qbitai.com/2025/10/344992.html</link>
+      <description>&lt;![CDATA[大模型推理学习新范式！ExGRPO框架：从盲目刷题到聪明复盘]]&gt;</description>
+      <pubDate>Thu, 23 Oct 2025 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344992.html</guid>
       <category>AI</category>
     </item>
   </channel>
