@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Oct 2025 23:17:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2025 23:18:05 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 05:20:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克太难了！特斯拉营收销量创新高，市值一夜蒸发3955亿</title>
-      <link>https://www.qbitai.com/2025/10/344991.html</link>
-      <description>&lt;![CDATA[马斯克太难了！特斯拉营收销量创新高，市值一夜蒸发3955亿]]&gt;</description>
-      <pubDate>Thu, 23 Oct 2025 08:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344991.html</guid>
+      <title>AI在线强化学习“边做边学”，斯坦福团队让7B小模型性能飙升，甚至超越GPT-4o</title>
+      <link>https://www.qbitai.com/2025/10/345265.html</link>
+      <description>&lt;![CDATA[AI在线强化学习“边做边学”，斯坦福团队让7B小模型性能飙升，甚至超越GPT-4o]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 04:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345265.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型推理学习新范式！ExGRPO框架：从盲目刷题到聪明复盘</title>
-      <link>https://www.qbitai.com/2025/10/344992.html</link>
-      <description>&lt;![CDATA[大模型推理学习新范式！ExGRPO框架：从盲目刷题到聪明复盘]]&gt;</description>
-      <pubDate>Thu, 23 Oct 2025 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/344992.html</guid>
+      <title>干家务一小时挣1000元，具身智能时代人类新岗位</title>
+      <link>https://www.qbitai.com/2025/10/345251.html</link>
+      <description>&lt;![CDATA[干家务一小时挣1000元，具身智能时代人类新岗位]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 04:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345251.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Mobileye连续三个季度营收同比增长，EyeQ芯片出货量持续增长</title>
+      <link>https://www.qbitai.com/2025/10/345248.html</link>
+      <description>&lt;![CDATA[Mobileye连续三个季度营收同比增长，EyeQ芯片出货量持续增长]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 02:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345248.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>1599元起售！雷鸟把万元电视屏搬上了AI眼镜</title>
+      <link>https://www.qbitai.com/2025/10/345206.html</link>
+      <description>&lt;![CDATA[1599元起售！雷鸟把万元电视屏搬上了AI眼镜]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 02:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345206.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>田渊栋被裁后新offer排到法国！原来Llama 4.5训完后被卸磨杀驴了</title>
+      <link>https://www.qbitai.com/2025/10/345074.html</link>
+      <description>&lt;![CDATA[田渊栋被裁后新offer排到法国！原来Llama 4.5训完后被卸磨杀驴了]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 01:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345074.html</guid>
       <category>AI</category>
     </item>
   </channel>

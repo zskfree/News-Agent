@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-23 23:18
+**最后更新时间**: 2025-10-24 05:19
+
+---
+
+## 🆕 最新更新 (2025-10-24 05:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何使用代理路由在单个环境中测试分布式系统](https://www.infoq.cn/article/EodUcfS2Tzf1dBTy7Kwf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 13:00
+
+#### [谷歌云发布指南，阐述保护远程MCP服务器的关键策略](https://www.infoq.cn/article/LcB8AsrqyOWMEGDl1BbB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 12:00
+
+#### [Java近期新闻：OpenJDK、Spring RC、Jakarta EE、Payara平台、WildFly、测试容器](https://www.infoq.cn/article/GyKDrIdt6wQwaKJ4cWKM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 11:08
+
+#### [三个问题帮你构建更好的软件架构](https://www.infoq.cn/article/DZ9AlfbVcl4TSYhVAZey?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 11:00
+
+#### [AI代码生成的计划-执行-检查-行动框架](https://www.infoq.cn/article/DA12MtUaPjjmDgqsmgAp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 10:01
+
+#### [Meta AI大裁员，华人大佬田渊栋被裁了？！Alexandr Wang “嫡系”部门还在重金招聘](https://www.infoq.cn/article/MPmTcAG5ENTlMIxP6A0z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 09:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行业市净率最高的两家银行之一：一家涨了56%，另一家招商银行为何掉队？](https://www.tmtpost.com/7736933.html)
+**发布时间**: 2025-10-24 12:23
+
+#### [中文在线Q3营收增61%、净亏损近3亿，新APP团队350人+，老APP暂停投放](https://www.tmtpost.com/7736856.html)
+**发布时间**: 2025-10-24 12:23
+
+#### [大豆风云：一场跨越百年的世界暗战](https://www.tmtpost.com/7736859.html)
+**发布时间**: 2025-10-24 12:23
+
+#### [羽绒服增长的尽头，是高端化？](https://www.tmtpost.com/7736892.html)
+**发布时间**: 2025-10-24 12:23
+
+#### [夸克AI眼镜已开启预售，正深度联动阿里巴巴大商业体系 | 巴伦精选](https://www.tmtpost.com/7737068.html)
+**发布时间**: 2025-10-24 12:20
+
+#### [国际酒店新品牌扎堆入华，是战略调整还是真没招了？](https://www.tmtpost.com/7736729.html)
+**发布时间**: 2025-10-24 12:11
+
+#### [特斯拉的“冰与火之歌”：财报里的现实与马斯克口中的未来](https://www.tmtpost.com/7736836.html)
+**发布时间**: 2025-10-24 12:11
+
+#### [日本“失去的30年”，炼成了中国餐厅排队王？](https://www.tmtpost.com/7736841.html)
+**发布时间**: 2025-10-24 12:11
+
+#### [景点里的护手霜店：毛利70%，到底哪些“冤大头”在买单？](https://www.tmtpost.com/7736965.html)
+**发布时间**: 2025-10-24 12:11
+
+#### [Samsung Launches Galaxy XR Headset to Challenge Apple](https://www.tmtpost.com/7737011.html)
+**发布时间**: 2025-10-24 12:01
+
+#### [行业大咖圆桌对话：为什么AI游戏的发展不及预期？](https://www.tmtpost.com/7736959.html)
+**发布时间**: 2025-10-24 11:59
+
+#### [英特尔，赚钱了](https://www.tmtpost.com/7736994.html)
+**发布时间**: 2025-10-24 11:54
+
+#### [特斯拉向下，比亚迪向上](https://www.tmtpost.com/7736734.html)
+**发布时间**: 2025-10-24 11:18
+
+#### [猪价持续低位震荡，温氏股份第三季度净利润下滑超60%](https://www.tmtpost.com/7736091.html)
+**发布时间**: 2025-10-24 11:13
+
+#### [Sora App的AI视频社交，给了百度们新希望](https://www.tmtpost.com/7736732.html)
+**发布时间**: 2025-10-24 11:08
+
+#### [从户外装备到都市时尚，冲锋衣如何成为北京市服](https://www.tmtpost.com/7736726.html)
+**发布时间**: 2025-10-24 11:07
+
+#### [吊打比亚迪、用“老头乐”狂割美国人，这家车企要赴港上市了](https://www.tmtpost.com/7736028.html)
+**发布时间**: 2025-10-24 10:59
+
+#### [营收281亿，股价反跌5%：“画饼AI”的特斯拉苦熬现实](https://www.tmtpost.com/7736907.html)
+**发布时间**: 2025-10-24 10:52
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [红杉中国、CMC 资本等领投，LiblibAI 完成 1.3 亿美元融资，为国内 AI 应用赛道最大单笔融资](http://www.geekpark.net/news/355486)
+**发布时间**: 2025-10-24 11:07
+
+#### [阿里终于把「AI 电商」想明白了](http://www.geekpark.net/news/355485)
+**发布时间**: 2025-10-24 11:03
+
+#### [传明年苹果新机将命名为 iPhone 20；Meta AI 团队大裁员，波及 600 人；阿里首款 AI 眼镜开售，3999 起｜极客早知道](http://www.geekpark.net/news/355471)
+**发布时间**: 2025-10-24 08:57
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特斯拉向下，比亚迪向上](http://www.huxiu.com/article/4796284.html?f=wangzhan)
+**发布时间**: 2025-10-24 11:02
+
+#### [企业变革，要不要平衡利益？](http://www.huxiu.com/article/4795855.html?f=wangzhan)
+**发布时间**: 2025-10-24 10:35
+
+#### [不装人的它，为何能一把融6亿美金？](http://www.huxiu.com/article/4796204.html?f=wangzhan)
+**发布时间**: 2025-10-24 10:32
+
+#### [卖爆了的特斯拉，赚不到钱了？](http://www.huxiu.com/article/4796158.html?f=wangzhan)
+**发布时间**: 2025-10-24 10:00
+
+#### [印度航母：依旧用最不靠谱的方式，表达最坚定的自信](http://www.huxiu.com/article/4795140.html?f=wangzhan)
+**发布时间**: 2025-10-24 08:00
+
+#### [狂卖85座万达广场，王健林还是没等来救赎？](http://www.huxiu.com/article/4795924.html?f=wangzhan)
+**发布时间**: 2025-10-24 07:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [ChatGPT Atlas 来了：浏览器学会思考了吗？](https://sspai.com/post/103275)
+**发布时间**: 2025-10-24 11:00
+
+#### [派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等](https://sspai.com/post/103316)
+**发布时间**: 2025-10-24 08:55
 
 ---
 
