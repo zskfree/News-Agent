@@ -1,306 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "082ee18bdcd4db357dcacd77eda59d6987c504708b4ba5887ead2433d63dc0b5": {
-        "title": "商汤医疗携病理数智一体化方案，亮相苏州病理学术盛宴",
-        "link": "https://www.qbitai.com/2025/09/335602.html",
-        "published_date": "Wed, 24 Sep 2025 04:12:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.654832"
-      },
-      "65d96e05ccd96a6f52bd886def35a98d5627a7fcdde56ce0dffa0bbeca35af1d": {
-        "title": "Vibe之下，AI之上：海淀创新生态的“社区”引力法则",
-        "link": "https://www.qbitai.com/2025/09/335591.html",
-        "published_date": "Wed, 24 Sep 2025 03:49:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261905"
-      },
-      "3309033ce17ddde71acafbd9571e7843c7c9f65fc85580471ea562e559f22fdc": {
-        "title": "智能油车新卷王！10万预算闭眼选，高速NOA已标配，这很吉利",
-        "link": "https://www.qbitai.com/2025/09/335463.html",
-        "published_date": "Wed, 24 Sep 2025 00:55:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.655139"
-      },
-      "cacf2ce8dd635724892b780e1cff0620efcb45d03dd87b2308d8305166ac5caa": {
-        "title": "Improving the workplace of the future",
-        "link": "https://news.mit.edu/2025/improving-workplace-future-whitney-zhang-0924",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.655373"
-      },
-      "e7ed5998a4b5b37c238a40b7710dc4b462a853a76cbfa986cb34c9c5b535a6ca": {
-        "title": "Virtual Arc Consistency for Linear Constraints in Cost Function Networks",
-        "link": "https://arxiv.org/abs/2509.17706",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261914"
-      },
-      "e2ec2d68ff05dc2fd40677c0e27085f9038cb93443d73f70d96a87b691319eb8": {
-        "title": "AHA - Predicting What Matters Next: Online Highlight Detection Without Looking Ahead",
-        "link": "https://arxiv.org/abs/2509.16421",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.656608"
-      },
-      "7cb51c823a0bd3dbf458f4017335ba33e5a17a19c3386628d8007cc2ff7269ce": {
-        "title": "Joint Memory Frequency and Computing Frequency Scaling for Energy-efficient DNN Inference",
-        "link": "https://arxiv.org/abs/2509.17970",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.657597"
-      },
-      "ef3e7f7cefcc78d99d48bfe7ecce5a780701f08522f66b33042dab1e089bc35c": {
-        "title": "The Narcissus Hypothesis: Descending to the Rung of Illusion",
-        "link": "https://arxiv.org/abs/2509.17999",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.658684"
-      },
-      "987cda49cfb75874c705d503a6e998f900f12f7c0b5326234aed4ad62371254f": {
-        "title": "Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs",
-        "link": "https://arxiv.org/abs/2509.18058",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261854"
-      },
-      "5f1addc60b4258eea4e3fd1174c96af0e46fc72728f36f43addc4f4c52a58862": {
-        "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
-        "link": "https://arxiv.org/abs/2509.18103",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.661309"
-      },
-      "65b7adc00b6a7a7645bc4b0417bcf478c28489bc5ad421297d12730f4e7527d5": {
-        "title": "Data Valuation and Selection in a Federated Model Marketplace",
-        "link": "https://arxiv.org/abs/2509.18104",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.662820"
-      },
-      "b22282e62ad789b228a0ba28d84df73768c68f7b83f3a977d5673d68e02fb415": {
-        "title": "BULL-ODE: Bullwhip Learning with Neural ODEs and Universal Differential Equations under Stochastic Demand",
-        "link": "https://arxiv.org/abs/2509.18105",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.665440"
-      },
-      "8691d54016e16d8fce5ff65db3670f0c8cb442c50f664ab6a3fc1c8d71bff147": {
-        "title": "Model-Based Transfer Learning for Real-Time Damage Assessment of Bridge Networks",
-        "link": "https://arxiv.org/abs/2509.18106",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.667840"
-      },
-      "dd8e84b94653803f132158f0b3e14957c25df52e9de4712632efe1c6da19e1dd": {
-        "title": "AdaMixT: Adaptive Weighted Mixture of Multi-Scale Expert Transformers for Time Series Forecasting",
-        "link": "https://arxiv.org/abs/2509.18107",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.671029"
-      },
-      "05f51d10a2ba12758913f38621e4b0be047c66edbbe927a4c452f363a7c22822": {
-        "title": "Solve it with EASE",
-        "link": "https://arxiv.org/abs/2509.18108",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.672064"
-      },
-      "c085bd86ffcd22ee13c2290f5b19354bce543e41378dde5c9c2d7d307d03af66": {
-        "title": "Machine Learning-Based Classification of Vessel Types in Straits Using AIS Tracks",
-        "link": "https://arxiv.org/abs/2509.18109",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261923"
-      },
-      "1f7b082e38f85c35498e5be4b0d841d5eb1b3b4c4f0298ad413cb45ff2b58d2f": {
-        "title": "Localized PCA-Net Neural Operators for Scalable Solution Reconstruction of Elliptic PDEs",
-        "link": "https://arxiv.org/abs/2509.18110",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.678695"
-      },
-      "f8804ff85c66146462c8de2db8750f5d7d95f8f8eeb785314620ca3de9f9abbe": {
-        "title": "Prompt Optimization Meets Subspace Representation Learning for Few-shot Out-of-Distribution Detection",
-        "link": "https://arxiv.org/abs/2509.18111",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.682613"
-      },
-      "1539f463817597628e26811982e454a24dad8e943d2f72eb1dc48bb0e9eda1c0": {
-        "title": "Large language models surpass domain-specific architectures for antepartum electronic fetal monitoring analysis",
-        "link": "https://arxiv.org/abs/2509.18112",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.687608"
-      },
-      "d79d04437361ce1bb7d68f0660d52bc358c513848e2cb17859fd217983c4e330": {
-        "title": "A Study of Skews, Imbalances, and Pathological Conditions in LLM Inference Deployment on GPU Clusters detectable from DPU",
-        "link": "https://arxiv.org/abs/2509.18114",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.692917"
-      },
-      "6612a12d4524611dbfaebe0f4573852b80c3c725573222eed4951be009524a89": {
-        "title": "Towards Scalable and Structured Spatiotemporal Forecasting",
-        "link": "https://arxiv.org/abs/2509.18115",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.696157"
-      },
-      "e4693c7db5b78556dbc048f806a48c5f76bac95b66390bf36f7bf16f51413293": {
-        "title": "Amortized Latent Steering: Low-Cost Alternative to Test-Time Optimization",
-        "link": "https://arxiv.org/abs/2509.18116",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.700345"
-      },
-      "6ce6743c877a91360a43e7c856bad0baddc5050dcaf2600889d843b96cf27992": {
-        "title": "Robust and continuous machine learning of usage habits to adapt digital interfaces to user needs",
-        "link": "https://arxiv.org/abs/2509.18117",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.705930"
-      },
-      "a2fad27474f5fe8f901751fce0c6522e96da5a76c57e8a614248a044aba36cba": {
-        "title": "Decentor-V: Lightweight ML Training on Low-Power RISC-V Edge Devices",
-        "link": "https://arxiv.org/abs/2509.18118",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261933"
-      },
-      "4fb95f8c1dce7d18c4710528869c2d61fa106b5a786a9f8ba8a0a92e8e002e6b": {
-        "title": "MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents",
-        "link": "https://arxiv.org/abs/2509.18119",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.714456"
-      },
-      "5c7ede181abf04b794a9f89bf3a119a80e76fb24c2d24697c7cfad7ec833bf98": {
-        "title": "A Coopetitive-Compatible Data Generation Framework for Cross-silo Federated Learning",
-        "link": "https://arxiv.org/abs/2509.18120",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.719749"
-      },
-      "d14001cbd101109f9df2f24e58337588d0cd2815839813af306e39bfd0eff24c": {
-        "title": "Prediction of Coffee Ratings Based On Influential Attributes Using SelectKBest and Optimal Hyperparameters",
-        "link": "https://arxiv.org/abs/2509.18124",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.726295"
-      },
-      "8d725bc297b35c97515a5266034f0d727a7a4dbdadc19549a141a2496ebd7333": {
-        "title": "NurseSchedRL: Attention-Guided Reinforcement Learning for Nurse-Patient Assignment",
-        "link": "https://arxiv.org/abs/2509.18125",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.732005"
-      },
-      "48c983b7d6e58a6c1d01a29aaf8fbe48eed5a4d1e1b7b24b617d322d0a29910e": {
-        "title": "Anomaly Detection in Electric Vehicle Charging Stations Using Federated Learning",
-        "link": "https://arxiv.org/abs/2509.18126",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.737520"
-      },
-      "0acd93a4ba05a5d486689586ed25c35b8cfb5365d7e977b65f3bcde62d418171": {
-        "title": "Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework",
-        "link": "https://arxiv.org/abs/2509.18127",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.746734"
-      },
-      "4eba18431cae75bd52bfff2321813a251fc715005e7a48277fcddfff32b6fa4a": {
-        "title": "Accounting for Uncertainty in Machine Learning Surrogates: A Gauss-Hermite Quadrature Approach to Reliability Analysis",
-        "link": "https://arxiv.org/abs/2509.18128",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.755784"
-      },
-      "551693bb73af1aec02c477d1f409b5e90ce089dd881375ce4787807381a70113": {
-        "title": "Research on Metro Transportation Flow Prediction Based on the STL-GRU Combined Model",
-        "link": "https://arxiv.org/abs/2509.18130",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.763010"
-      },
-      "4f3ac0fb2f5c7788e24dd43a16e961adf3513e8fc8fe11b4e4900206f9924449": {
-        "title": "Two ways to knowledge?",
-        "link": "https://arxiv.org/abs/2509.18131",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.765785"
-      },
-      "3a00cf8087d6c7cca7db21863895ad1bdd27c51bb4b58de2a0cec700cd6544a8": {
-        "title": "Self-Evolving LLMs via Continual Instruction Tuning",
-        "link": "https://arxiv.org/abs/2509.18133",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261942"
-      },
-      "1344258582895d2d404085afed231cd873a17bdec55ea107cc656f456009a4d0": {
-        "title": "A Weighted Gradient Tracking Privacy-Preserving Method for Distributed Optimization",
-        "link": "https://arxiv.org/abs/2509.18134",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.777759"
-      },
-      "273bad005cda082c3eeb9999b8dc51e2295c185d456518bbc6b905b35f66c87a": {
-        "title": "SDGF: Fusing Static and Multi-Scale Dynamic Correlations for Multivariate Time Series Forecasting",
-        "link": "https://arxiv.org/abs/2509.18135",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.786986"
-      },
-      "d55bafaf896bc29a0fa1b8be914523d1c8037d43a2ed640aa85b55e608513533": {
-        "title": "From Parameters to Performance: A Data-Driven Study on LLM Structure and Development",
-        "link": "https://arxiv.org/abs/2509.18136",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261951"
-      },
-      "b144f02e478ed66d37ff91ef965f4bc7f38e5cf3ee2dd489d8027a6898297a52": {
-        "title": "LoRALib: A Standardized Benchmark for Evaluating LoRA-MoE Methods",
-        "link": "https://arxiv.org/abs/2509.18137",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.801977"
-      },
-      "20baffa7bce34c976241b94f8cc92a8e61490548a8de923920e376b3977cc9be": {
-        "title": "Rank-Induced PL Mirror Descent: A Rank-Faithful Second-Order Algorithm for Sleeping Experts",
-        "link": "https://arxiv.org/abs/2509.18138",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261960"
-      },
-      "418ca7f020839051f6e27e6d6f73e7d5eeaf0a4ea4b25e5e00d791fb4f938fe3": {
-        "title": "Comparative Analysis of FOLD-SE vs. FOLD-R++ in Binary Classification and XGBoost in Multi-Category Classification",
-        "link": "https://arxiv.org/abs/2509.18139",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.822096"
-      },
-      "c2b27775f5f6bd139f4bc759d1348273b651906b25483048302098d5d43b404c": {
-        "title": "A Machine Learning Framework for Pathway-Driven Therapeutic Target Discovery in Metabolic Disorders",
-        "link": "https://arxiv.org/abs/2509.18140",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.832620"
-      },
-      "f0230398c74810daa57775f830752690ca7ae74a537ca350ebb9ac5aaffbdc61": {
-        "title": "KM-GPT: An Automated Pipeline for Reconstructing Individual Patient Data from Kaplan-Meier Plots",
-        "link": "https://arxiv.org/abs/2509.18141",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.843420"
-      },
-      "98376cb3e8e85f4933a5a5d0490135f631afca5aa22d1ef824b70ebd242d76aa": {
-        "title": "AdaSTI: Conditional Diffusion Models with Adaptive Dependency Modeling for Spatio-Temporal Imputation",
-        "link": "https://arxiv.org/abs/2509.18144",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.855207"
-      },
-      "cd892109caff8b27648314ec97e24b88fd81627b85bf709a3863e94b83c08bff": {
-        "title": "Early Prediction of Multi-Label Care Escalation Triggers in the Intensive Care Unit Using Electronic Health Records",
-        "link": "https://arxiv.org/abs/2509.18145",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.869083"
-      },
-      "1ed3c64c4554559d00a309b4e459eaf4b7ac8c8a8ba5259a62225397d019672c": {
-        "title": "ConceptFlow: Hierarchical and Fine-grained Concept-Based Explanation for Convolutional Neural Networks",
-        "link": "https://arxiv.org/abs/2509.18147",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.881268"
-      },
-      "5145fe323e63a72c113523b99ef24d063f6e17687b47c901ba0def2d583475f1": {
-        "title": "Sparse Training Scheme for Multimodal LLM",
-        "link": "https://arxiv.org/abs/2509.18150",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261877"
-      },
-      "b2e3ea01e3c4658b0d2b68d3c5c1a09daae87a56bd7e12715f2609ca656749ae": {
-        "title": "HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork",
-        "link": "https://arxiv.org/abs/2509.18151",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.897313"
-      },
-      "40a33cbb5c91988344e803e2a1d1db3eced16335ab33899c6f1668292e6eed37": {
-        "title": "WLFM: A Well-Logs Foundation Model for Multi-Task and Cross-Well Geological Interpretation",
-        "link": "https://arxiv.org/abs/2509.18152",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.908815"
-      },
-      "db6be8a6aab45f8b403011883bdae4b5c0406f6615ea7f746a1eaf982cc8faba": {
-        "title": "A deep reinforcement learning platform for antibiotic discovery",
-        "link": "https://arxiv.org/abs/2509.18153",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.917646"
-      },
-      "85ee2c14548225f38ae64ef720ac950ff90becdda5ea6c4eb870030fd62baa6a": {
-        "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe",
-        "link": "https://arxiv.org/abs/2509.18154",
-        "published_date": "Wed, 24 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.261893"
-      },
       "d9a20b0837811562c6a2a169d43b8879f25dfbb190f265931c9150c6b9d8c97e": {
         "title": "1688AI矩阵亮相云栖大会 跨境智能体“遨虾”启动内测",
         "link": "https://www.qbitai.com/2025/09/335835.html",
@@ -5424,225 +5124,45 @@
         "link": "https://www.qbitai.com/2025/10/345074.html",
         "published_date": "Fri, 24 Oct 2025 01:21:00 GMT",
         "first_seen": "2025-10-24T05:20:02.058180"
+      },
+      "86b75f3dfc59e7de3809b7fbb99583a0a1185542a33197abc98f0a1704e8ef18": {
+        "title": "具身智能落地茶颜悦色，“新店员”刷屏了",
+        "link": "https://www.qbitai.com/2025/10/345520.html",
+        "published_date": "Fri, 24 Oct 2025 07:14:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.543637"
+      },
+      "6f311a0add9355f8adad89ec525de71fd5671f39651ddec4094d79b6d635a2b8": {
+        "title": "快手进军AI编程！“模型+工具+平台”一口气放三个大招",
+        "link": "https://www.qbitai.com/2025/10/345503.html",
+        "published_date": "Fri, 24 Oct 2025 07:12:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.543808"
+      },
+      "715d4205bd8302d60e0ac87b5d395ebc29e3070754d248c8a5d59f8456082b61": {
+        "title": "云计算“活教科书”语出惊人，指明程序员的进化方向",
+        "link": "https://www.qbitai.com/2025/10/345488.html",
+        "published_date": "Fri, 24 Oct 2025 07:02:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.543989"
+      },
+      "b97bea8003324be58ccfe4a75b416b33e4b4639bca9bd2ca62ce2e0f84586c0d": {
+        "title": "OpenAI收购macOS供应商，剑指GPT操作系统！微软也不装了",
+        "link": "https://www.qbitai.com/2025/10/345442.html",
+        "published_date": "Fri, 24 Oct 2025 06:21:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.544220"
+      },
+      "6badfbd5d2d27ab51118c761c263ece18a932ca954b22feb17613e5b7c0aba05": {
+        "title": "中国机器人这么玩儿，把老外都整不会了",
+        "link": "https://www.qbitai.com/2025/10/345371.html",
+        "published_date": "Fri, 24 Oct 2025 05:54:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.544426"
+      },
+      "deab996cb6a85657c13dbcc0a00b487da1654d089a08d3fdc1dedf5cc7c5e0bc": {
+        "title": "携手中国邮政，九识包揽全球最大RoboVan集采全部席位",
+        "link": "https://www.qbitai.com/2025/10/345358.html",
+        "published_date": "Fri, 24 Oct 2025 05:41:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.544722"
       }
     },
     "Technology": {
-      "7c560c796f91839cfeadccc24e4d9da3b7391c1935e19db19bb556850ac948e8": {
-        "title": "从“灵感闪现”到“一键种草”：小红书大模型的创新与落地｜QCon 上海",
-        "link": "https://www.infoq.cn/article/cFc8tx5h8YOg0OK6yGK6?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 13:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.549992"
-      },
-      "abcacc310e2eeaccb24528ee5473e2aa341b6807a3a969a81128e6f4b4729f96": {
-        "title": "在阿里云，我们看见了面向Agent的全栈能力体系",
-        "link": "https://www.infoq.cn/article/YA6ZMl7irki6PH3c56hR?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 12:59:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550064"
-      },
-      "c371e7e652b70e092a088ec22c1850ac0f97cc5ab2eeab37894f84e403592012": {
-        "title": "微软公开预览可充当MCP服务器的Logic Apps",
-        "link": "https://www.infoq.cn/article/FTKSgPu1quHIzkyDaT4r?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 12:30:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550074"
-      },
-      "e4893374b965a81351131efbbd9a70b5a61d5fa0ecccd4d643d97aca39f2a654": {
-        "title": "OpenAI豪掷千亿美元，打造“算力备胎计划”，让AI永不掉线！",
-        "link": "https://www.infoq.cn/article/QMkEjetPwcJ9kBvO1zGQ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 12:08:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550086"
-      },
-      "6a2cbedce291a0b68e340e5d61641726510096af90976021e10bf6d01d921ba8": {
-        "title": "谷歌云可观测性采用OpenTelemetry协议进行原生追踪数据摄取",
-        "link": "https://www.infoq.cn/article/imqCPXlMcIpptBBQByhY?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:53:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550096"
-      },
-      "e8929f6b2a86d30214f8b16d90a7ab7c299a1da2e95e2d38660fdbeb993d25a5": {
-        "title": "阿里通义旗舰模型Qwen3-Max亮相",
-        "link": "https://www.infoq.cn/article/2iskHLzL4vDNcwf2mZwZ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:49:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550107"
-      },
-      "4232e48f4a051168c894be17929940944d869d6b86fcc8e69fa593093283aa2a": {
-        "title": "同济子豪兄：当 AIGC 遇上烟花与画笔，人人都是 AI 魔法师",
-        "link": "https://www.infoq.cn/article/gqP8zVEPKVq1acYNU0kJ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:46:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550118"
-      },
-      "6cd2c1bcf4379c0a28df9b5de6e8759d423a14c0dbe01326147a81797c2cb098": {
-        "title": "银海：AI Agent 落地商业，解密电商行业效率革命",
-        "link": "https://www.infoq.cn/article/XHNbL7gPSv8aeqOq7QaG?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:46:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.111719"
-      },
-      "e7bed940d4a3d5528d3c8ef4bc1d9e381b4dd4e689d93128f1a057e85699df64": {
-        "title": "Jack-cui：用 Qwen 秒搭数字人，Agent 创客开启“造物”新纪元",
-        "link": "https://www.infoq.cn/article/FtUk4PbwFmtmgwg37DUu?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:46:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.112294"
-      },
-      "5c0ba4df4c3e7ec93b25d4c4df0616f6b889d50abb350fa62bc757b64183374b": {
-        "title": "Lakehouse 之后，Agent Ready 成了数据 Infra 的新标配？",
-        "link": "https://www.infoq.cn/article/1zGOeTBfz5oOX4B0lRQy?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:40:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.113025"
-      },
-      "eab50c3bd0c9ee7f31236594501d1a17462edbfd42b4c9af453650e3288f2a8c": {
-        "title": "阿里吴泳铭：AI终极目标不是AGI，我们正通往ASI",
-        "link": "https://www.infoq.cn/article/Da7a5caUL75cqvmmZtKg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 11:30:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.113601"
-      },
-      "b91efab7dc259bb1f8e2029f4b8e37463e4d207e62fb7b45957c5ad9625ebc70": {
-        "title": "上百篇AI“著作”登期刊！ChatGPT 和 Gemini靠重写论文搞出的仿作，全冒充新研究成功了",
-        "link": "https://www.infoq.cn/article/Nj32xp0TtPaeMqRxWW64?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 10:37:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.114587"
-      },
-      "3af9d10c782363fe9a908a586a4c3a2d7c61bba783727f034d8111d69d7a6d0d": {
-        "title": "AI浪潮之下：存储来到聚光灯下",
-        "link": "https://www.infoq.cn/article/PPmP3uEyi0Yuhyj43AV3?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 10:36:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.115064"
-      },
-      "045c4aa28d8c39de99e4cfaff16638197fbb981d70ec9ba6966b3a8edebcde94": {
-        "title": "奇富科技费浩峻：AI 赋能小微金融新趋势",
-        "link": "https://www.infoq.cn/article/qd0fF11FAUHdFo1RTumX?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Sep 2025 10:22:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550021"
-      },
-      "2fb691c563b3a7a1a40fd34f184f5ae087f7dd1e0a914177a08d97163e11a0e5": {
-        "title": "巴西投资340万雷亚尔推动电商发展；TikTok美国出售期限第四次被延长；京东物流“杀入”美国尾程配送市场｜一周出海参考",
-        "link": "https://www.tmtpost.com/7704404.html",
-        "published_date": "Wed, 24 Sep 2025 12:57:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.116889"
-      },
-      "5df30acd1bea326a63d9077d13936a4a7f830384975b76b9449fa7430be7f767": {
-        "title": "OpenAI's Stargate Plans Five New AI Datacenters in U.S., Set to Meet $500 Billion Commitment by Year-End",
-        "link": "https://www.tmtpost.com/7704493.html",
-        "published_date": "Wed, 24 Sep 2025 12:49:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.119103"
-      },
-      "3819e1432a2dbbe1bc302856b7f146e8d89696c2383be539de9433ce1f075104": {
-        "title": "Alibaba Ramps Up AI Investment, Sees AGI as Starting Point",
-        "link": "https://www.tmtpost.com/7704461.html",
-        "published_date": "Wed, 24 Sep 2025 12:02:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.120711"
-      },
-      "feadaf84dc89e872270e7bca44d9a5255b6d4f9124651fdfe57e0ab132f0e5d0": {
-        "title": "Avatr Bets on \"Fully Loaded\" EV Strategy as New Chairman Takes Helm Amid Fierce Price War",
-        "link": "https://www.tmtpost.com/7704454.html",
-        "published_date": "Wed, 24 Sep 2025 11:55:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.123085"
-      },
-      "16a7580717ed236424a6bdeaef4334114e13b14aea6e474a16b0f37aadf49a0e": {
-        "title": "为什么品牌要「真的」有价值观",
-        "link": "https://www.tmtpost.com/7703841.html",
-        "published_date": "Wed, 24 Sep 2025 11:44:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.123858"
-      },
-      "4c889f8d70368c96a4315a4a945593028c67ca8ebcd9433cb03fccf3b0be8e7e": {
-        "title": "小学生口述：家长看不到的小天才社交圈",
-        "link": "https://www.tmtpost.com/7703925.html",
-        "published_date": "Wed, 24 Sep 2025 10:45:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.124642"
-      },
-      "decdc0c0a0538fe231eaaa42ebbc04eb97bcf50e540aa77bf0a72ffd3c43ad84": {
-        "title": "宗馥莉的第二次“自伤式袭击”",
-        "link": "https://www.tmtpost.com/7703959.html",
-        "published_date": "Wed, 24 Sep 2025 10:45:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.125348"
-      },
-      "04d9bdf4974c39346bbdce5ed05e41c22eca2e1e6d47fa86ddbe4dba78861a75": {
-        "title": "中东社交出海，从土豪区走向“五环外”",
-        "link": "https://www.tmtpost.com/7704077.html",
-        "published_date": "Wed, 24 Sep 2025 10:09:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.126242"
-      },
-      "3cd453160259555370f7b1b391c625409d4cc20cef0080a92da260a0ef09bd5e": {
-        "title": "转转要从「小闲鱼」变成「二手京东」",
-        "link": "https://www.tmtpost.com/7703985.html",
-        "published_date": "Wed, 24 Sep 2025 09:30:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.127278"
-      },
-      "4dc7986ee81413f0b711a1c755818c1cb2d9f83786e2b988394bd7c33b45d8d4": {
-        "title": "“924”一周年，“牛市发动机”中国平安、中国人寿们走到哪了？",
-        "link": "https://www.tmtpost.com/7704198.html",
-        "published_date": "Wed, 24 Sep 2025 09:30:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.128766"
-      },
-      "9b9b3642414af6b870ee57efad357a9a437b9ce2e1d0056a52c11df94ee8a837": {
-        "title": "无法“续保”的短期健康险，先抛弃脆皮打工人",
-        "link": "https://www.tmtpost.com/7703997.html",
-        "published_date": "Wed, 24 Sep 2025 08:56:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.129996"
-      },
-      "676c5312d245aa433945156dc24968068cbbf692402a5e181e7a5ea896fa5756": {
-        "title": "科股早知道：AI应用普及拐点已至，海内外算力需求持续景气",
-        "link": "https://www.tmtpost.com/7704144.html",
-        "published_date": "Wed, 24 Sep 2025 08:11:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.131293"
-      },
-      "6efc1c8780d675a573f87778a28385fd4c320d76dfc06ce7efc2d6696cfbff72": {
-        "title": "朱华荣卸任、王辉接棒，阿维塔还有“三场硬仗”要打｜钛度车库",
-        "link": "https://www.tmtpost.com/7702983.html",
-        "published_date": "Wed, 24 Sep 2025 07:53:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.132989"
-      },
-      "a12a5ceb5b6e0a162a97ba093aa0b809d293ace8bd486d267220e90b64a7630a": {
-        "title": "496.22km/h：仰望U9X刷新记录，但燃油车领地真的崩塌了吗？",
-        "link": "https://www.tmtpost.com/7704153.html",
-        "published_date": "Wed, 24 Sep 2025 07:26:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.134882"
-      },
-      "95adb4abe3839b9934fa38efede1db1de0acaac35d5273fcf5b5cc72f86af26a": {
-        "title": "【钛晨报】中证指数发布中证全球算力主题指数等20条指数；英伟达将向OpenAI投资千亿美元共建数据中心；智元机器人正式入主上纬新材，邓泰华成实控人",
-        "link": "https://www.tmtpost.com/7704026.html",
-        "published_date": "Wed, 24 Sep 2025 07:20:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550039"
-      },
-      "ea3fbd1013aa0b31863a5d43b6b4c3d5c94f7a6d04352a5423851b3604b5f54a": {
-        "title": "乐趣值千金：一个开发者的「电子相册」折腾记录",
-        "link": "https://sspai.com/post/100286",
-        "published_date": "Wed, 24 Sep 2025 11:30:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.139190"
-      },
-      "7a5b47d22668299793200ebb98e793d72f5688662de0a1ccbf14db56b7cf9108": {
-        "title": "派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等",
-        "link": "https://sspai.com/post/102718",
-        "published_date": "Wed, 24 Sep 2025 08:00:00 GMT",
-        "first_seen": "2025-09-24T05:24:48.550053"
-      },
-      "4aefa4059dc52ef11365d85eb1d1b31a7c10951d8eca72e6011c2c2a5edef9af": {
-        "title": "华为问界新 M7，1 小时大定 3 万；李想：iPhone 17 顶配太丑，不买；防台风，腾讯「捆绑」QQ 企鹅塑像",
-        "link": "http://www.geekpark.net/news/354351",
-        "published_date": "Wed, 24 Sep 2025 08:30:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.144680"
-      },
-      "32dd018ea2342f23127ecc55dbc80444b431dfaca5910c1f9d9418049333e645": {
-        "title": "iFixit zooms in on reports of an iPhone 17 Pro scratch problem",
-        "link": "https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch",
-        "published_date": "Wed, 24 Sep 2025 02:19:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.147898"
-      },
-      "aacf987d19652065c7bbf0fd7f94ad9165fc2f4d3c706dd20386469fd0fd5c3b": {
-        "title": "Pokémon lawyers won&#8217;t sue DHS for that video, former legal head predicts",
-        "link": "https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts",
-        "published_date": "Wed, 24 Sep 2025 01:03:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.152360"
-      },
-      "4f7b021634231f011c722aab817639c8105f4b30d1da1a995c7f22c80884a84e": {
-        "title": "YouTube will let creators who spread covid misinformation back on the site",
-        "link": "https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal",
-        "published_date": "Tue, 23 Sep 2025 23:43:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.156637"
-      },
-      "e74f377b34d44a43ac1c21237b845e9bdacd98409724d486395a2fa2c7765429": {
-        "title": "For One Glorious Morning, a Website Saved San Francisco From Parking Tickets",
-        "link": "https://www.wired.com/story/san-francisco-find-my-parking-cops/",
-        "published_date": "Wed, 24 Sep 2025 00:43:00 GMT",
-        "first_seen": "2025-09-24T05:24:00.161054"
-      },
       "0b3ddc71dc1aeebad66e4769845f9b376914efecd5702088dc1db74c5bb20ddf": {
         "title": "忘了法拉利，一辆中国车正在改写游戏规则",
         "link": "http://www.geekpark.net/news/354390",
@@ -5697,101 +5217,11 @@
         "published_date": "Wed, 24 Sep 2025 15:08:00 GMT",
         "first_seen": "2025-09-24T08:28:35.350622"
       },
-      "0a32634487228271c0041cee5412013700e0afb95cb77782b9bbc849d6342bd2": {
-        "title": "实探北国超市：传统底色浓、商品力短板是“河北超市王”的隐患？",
-        "link": "https://www.tmtpost.com/7704132.html",
-        "published_date": "Wed, 24 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.825907"
-      },
       "1e342308ec720e1adbd1ef07ef7f09513bb2d0fe43c04c8c5461bd8680260ed6": {
         "title": "前阿里CEO卫哲入局圣湘生物，传统检测厂商变身“科技成长股”？",
         "link": "https://www.tmtpost.com/7704140.html",
         "published_date": "Wed, 24 Sep 2025 15:08:00 GMT",
         "first_seen": "2025-09-24T08:28:35.350526"
-      },
-      "96ddd5ed08daa16a00bb62492f22da189475bd7a988a9d77490122b0b3acc3c2": {
-        "title": "上汽的华为牌后悔药，把谁吃破防了？",
-        "link": "https://www.tmtpost.com/7704101.html",
-        "published_date": "Wed, 24 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.826905"
-      },
-      "9030011e16a7b2105d29e91e74d1a471d8827545e10002ab7749b9e340b4cf5f": {
-        "title": "「一页纸」讲透美股公司之：OKLO，小型核反应堆龙头",
-        "link": "https://www.tmtpost.com/7704120.html",
-        "published_date": "Wed, 24 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.827544"
-      },
-      "c0c00eae8e4599349e32644817a697c25c04083582b98bf9d8c62efed8e02893": {
-        "title": "罗永浩，带不动视频播客",
-        "link": "https://www.tmtpost.com/7704566.html",
-        "published_date": "Wed, 24 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.827975"
-      },
-      "f581a571e146337e84c73b2f9d4a12f80e001e5a144d4edf1fc2f43c2893a1ea": {
-        "title": "Beyond the Gulf: How Social Entertainment Apps Are Unlocking Middle East's Next Growth Frontier",
-        "link": "https://www.tmtpost.com/7704654.html",
-        "published_date": "Wed, 24 Sep 2025 14:46:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.829714"
-      },
-      "3ae75ba5c630999c0508d42bdd745c802031148aa6779fc988c26f2f8b071011": {
-        "title": "全国首例机制电价竞价结果出炉，照见了光伏怎样的残酷未来？",
-        "link": "https://www.tmtpost.com/7704342.html",
-        "published_date": "Wed, 24 Sep 2025 13:55:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.830446"
-      },
-      "dc3d89e2d3f194a99d33f2a2c704bdb95e15b27c7b7b4de030a2bef4a5cd687f": {
-        "title": "试图“邪修”的安踏，玩过火了？",
-        "link": "https://www.tmtpost.com/7703952.html",
-        "published_date": "Wed, 24 Sep 2025 13:55:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.831183"
-      },
-      "77830fe7daa49da7edafa88782bb4b89c6e46f39d5cf8f5bdeee1b54bb327023": {
-        "title": "ST思科瑞：力求将虚增收入的负面影响降至最低，海南项目明年下半年开始形成产能丨直击业绩会",
-        "link": "https://www.tmtpost.com/7704549.html",
-        "published_date": "Wed, 24 Sep 2025 13:49:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.832344"
-      },
-      "1c421be76ee7c5ea203c216550440fadd6f8c4d268abe8ea700d91a44ba9cc3b": {
-        "title": "让这个秋天不无聊：我的男装穿搭策略（初秋版）",
-        "link": "https://sspai.com/post/102686",
-        "published_date": "Wed, 24 Sep 2025 15:00:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.833157"
-      },
-      "144da044f374b8139ff60840513f3943b0d922ce0f0bcb3e9b3f702c6eddb13b": {
-        "title": "福建舰一弹定音，五代战机上甲板，咱们的电磁弹射有多牛？",
-        "link": "http://www.huxiu.com/article/4784140.html?f=wangzhan",
-        "published_date": "Wed, 24 Sep 2025 14:49:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.834093"
-      },
-      "37c702e8658ffba60f9c69abedec37f172a901238609c06c1e09c3bb3a40a807": {
-        "title": "三万一条的“封口费”，美食博主不好当",
-        "link": "http://www.huxiu.com/article/4784259.html?f=wangzhan",
-        "published_date": "Wed, 24 Sep 2025 13:36:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.834937"
-      },
-      "b80042dbd74840c74514e3741a53d606a18dedac63271e92ad2413424fa336fc": {
-        "title": "创投风向彻底变了，我在这场全球大会上，看到了未来的样子",
-        "link": "http://www.huxiu.com/article/4783841.html?f=wangzhan",
-        "published_date": "Wed, 24 Sep 2025 11:16:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.836024"
-      },
-      "5d98ee9131b5abf3e7678aec428b54635fd1c437fa6f3cec4122ede8b5a9f295": {
-        "title": "Logitech’s new light-powered keyboard doesn’t even need the sun",
-        "link": "https://www.theverge.com/news/782968/logitech-signature-solar-k980-keyboard",
-        "published_date": "Wed, 24 Sep 2025 07:01:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.838010"
-      },
-      "cfcef3c9773529426f1ac4e6079495c1baf6c574d2b5203cab939165d90fdc2b": {
-        "title": "Kimmel returns to television to mock FCC Chair Brendan Carr",
-        "link": "https://www.theverge.com/policy/784355/jimmy-kimmel-return-brendan-carr-trump",
-        "published_date": "Wed, 24 Sep 2025 06:18:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.840035"
-      },
-      "d3dbab929a650d4767eed0c6d38d29abf8775e132d0275e939fea528ebbb13f9": {
-        "title": "Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light",
-        "link": "https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/",
-        "published_date": "Wed, 24 Sep 2025 07:01:00 GMT",
-        "first_seen": "2025-09-24T08:27:46.842253"
       },
       "07be4c03073c37121821d6553d58ec40cb78884b76f3fbe20d15b9e595483f85": {
         "title": "干货满载！腾讯云AI技术周圆满收官，回顾如何利用AI增效创收",
@@ -18062,33 +17492,99 @@
         "link": "https://sspai.com/post/103316",
         "published_date": "Fri, 24 Oct 2025 08:55:00 GMT",
         "first_seen": "2025-10-24T05:20:50.438659"
+      },
+      "4dc29b0f7359b149bbff1e34891bbd2fd5a1c51335a96f2ea9efecbeada914e6": {
+        "title": "又一批应届生“误入”亚马逊，能走多远？",
+        "link": "https://www.tmtpost.com/7737229.html",
+        "published_date": "Fri, 24 Oct 2025 15:59:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002486"
+      },
+      "e9709f8c3dafcaacf5140a4cd9dd15dce9b16211cc845cef5a56d232fecf7726": {
+        "title": "147家企业被调查，短剧财税巨震：一郑州亿级收入公司或造假，税务新规如何避坑？",
+        "link": "https://www.tmtpost.com/7737251.html",
+        "published_date": "Fri, 24 Oct 2025 15:59:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002499"
+      },
+      "ebb927957322142acf0195c94ca6c0b9c663eeda698785488607ac96c3956a16": {
+        "title": "哪家车企的销售最爱买自家车？",
+        "link": "https://www.tmtpost.com/7737270.html",
+        "published_date": "Fri, 24 Oct 2025 15:49:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002509"
+      },
+      "156b7f73a491a1373e5bafe31aef3a26419d287dd280ec84e4e9a3e6ad363bf6": {
+        "title": "东南亚中产，为何偏爱中国扫地机",
+        "link": "https://www.tmtpost.com/7737254.html",
+        "published_date": "Fri, 24 Oct 2025 15:49:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002519"
+      },
+      "2f7c7b7792dbede24cd474f9026310ed02dc4a3188702e5cad7f660695217f64": {
+        "title": "降价入华，又一日本餐饮巨头盯上中国市场",
+        "link": "https://www.tmtpost.com/7737236.html",
+        "published_date": "Fri, 24 Oct 2025 15:49:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002528"
+      },
+      "fb4b8ed915121c6da284fcadff0abc23bf067a822370387d955b37f9af118298": {
+        "title": "白银暴跌：牛市终结还是“黄金坑” | 巴伦精选",
+        "link": "https://www.tmtpost.com/7737347.html",
+        "published_date": "Fri, 24 Oct 2025 15:47:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002540"
+      },
+      "d3fb4b304c78244e767fb499b40b33e484840f55181ff9f4cfc4e679b559d20f": {
+        "title": "Alibaba Enters AI Hardware Market with Quark AI Glasses Presale Ahead of December Launch",
+        "link": "https://www.tmtpost.com/7737306.html",
+        "published_date": "Fri, 24 Oct 2025 15:18:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002553"
+      },
+      "dcb804442a843bfab9961863bfd917c8ce2c43bb3fa6aebe3dd24955168ea988": {
+        "title": "这些“8090后”熟悉的品牌，为什么总是惹怒消费者？",
+        "link": "https://www.tmtpost.com/7737268.html",
+        "published_date": "Fri, 24 Oct 2025 14:47:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002568"
+      },
+      "f43600fe8f0adb448640d76a0ca4b6a827ceac836e714e78166e153d3366afb5": {
+        "title": "U.S. Commerce Department Denies Talking with Quantum Computing Firms over Equity Stake",
+        "link": "https://www.tmtpost.com/7737199.html",
+        "published_date": "Fri, 24 Oct 2025 13:54:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.592498"
+      },
+      "ae976432ae2441c7eb12c31394e2d3f4f1e6aa1445f73e20cc5ccba08c76d987": {
+        "title": "十五五，光伏人的思考与作为",
+        "link": "https://www.tmtpost.com/7737101.html",
+        "published_date": "Fri, 24 Oct 2025 13:52:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.592857"
+      },
+      "c17b6cf6ae3c17f7ff073f5fb97e924d089eb215ca973d11772cdd24bef99fa6": {
+        "title": "最后的叛逆，银发族闯入二次元",
+        "link": "https://www.tmtpost.com/7737122.html",
+        "published_date": "Fri, 24 Oct 2025 13:52:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.593236"
+      },
+      "ff639c884b14960815426f68d43090e38f2218e651e5af64202365600bfa7d39": {
+        "title": "又是微软没活儿硬整的一天？连夜发布12项 Copilot更新，最吸睛的是全新 AI 助手 Mico",
+        "link": "https://www.infoq.cn/article/TVYR1vHXssGBpA3hal58?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Oct 2025 15:41:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002470"
+      },
+      "7cefcc2c686c37936d7fe4b642e6b02ec700e29062e480bf55356b09fb4885f0": {
+        "title": "百丽核心财务系统分库分表MyCat 架构迁移到OceanBase的技术实践",
+        "link": "https://www.infoq.cn/article/EIEvdMOYJovrxbr2WLGb?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Oct 2025 15:38:00 GMT",
+        "first_seen": "2025-10-24T08:28:47.002439"
+      },
+      "e896b1dc431781deb8ab43460c9b25bbcfb2148f1909fda48cad606ef0fdd0b9": {
+        "title": "CMF Headphone Pro 无线降噪头戴耳机体验 - TDS REVIEW",
+        "link": "https://sspai.com/post/103152",
+        "published_date": "Fri, 24 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.595784"
+      },
+      "e77d196116c6b7ccf990b5b49999bb1f1b11f9821cdb13e2fb05a71a4e2818e5": {
+        "title": "特斯拉向下，比亚迪向上",
+        "link": "http://www.huxiu.com/article/4796284.html?f=wangzhan",
+        "published_date": "Fri, 24 Oct 2025 11:02:00 GMT",
+        "first_seen": "2025-10-24T08:27:58.597113"
       }
     },
     "Finance": {
-      "776f9d6d006d22fc50c9aacb9552263f0a09f6426ea5df41570ef2fd821983a0": {
-        "title": "What Jimmy Kimmel said in his first show back may not matter. Disney has already been hammered by the culture wars.",
-        "link": "https://www.marketwatch.com/story/what-jimmy-kimmel-says-in-his-first-show-back-may-not-matter-disney-has-already-been-hammered-by-the-culture-wars-7083876a?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Sep 2025 04:11:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.277141"
-      },
-      "60490a1527c9737f1c47116eb4f768d389a9971a8a0589a814725531ea3878ba": {
-        "title": "Here’s Palantir’s ‘secret sauce,’ which these analysts say can boost the stock even more",
-        "link": "https://www.marketwatch.com/story/heres-palantirs-secret-sauce-which-these-analysts-say-can-boost-the-stock-even-more-8d827f11?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Sep 2025 02:16:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.277536"
-      },
-      "4ce569d22ba4dbe95c0e3ad464294fdde7f4343e98e00bac43d85ab35389350e": {
-        "title": "Nvidia’s OpenAI deal adds to a brewing concern. But will that actually hurt the stock?",
-        "link": "https://www.marketwatch.com/story/nvidias-openai-deal-adds-to-a-brewing-concern-but-will-that-actually-hurt-the-stock-3bc3a015?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Sep 2025 23:34:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.278196"
-      },
-      "db296fcc7b021a204e57466aa2ce912624f263e0b645c3040faa77eb25c084a2": {
-        "title": "The case against Roth conversions: Most early retirees won’t see the benefit",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e775229e-6eab-4c19-9c51-c1633a827cfc&mod=mw_rss_bulletins",
-        "published_date": "Wed, 24 Sep 2025 01:06:00 GMT",
-        "first_seen": "2025-09-24T05:25:37.279054"
-      },
       "b6df4f582673b03fff7e34278a719122cb4db50c2d03510b38aab88991df1437": {
         "title": "Now that 401(k) catch-ups for high earners have to be in a Roth, is it worth it?",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0ce36358-4b30-475a-b9a0-fb08d4bcf57b&mod=mw_rss_bulletins",
@@ -20144,8 +19640,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-24T05:20:02.083662",
-    "Technology": "2025-10-24T05:20:50.442485",
-    "Finance": "2025-10-24T05:20:01.949550"
+    "AI": "2025-10-24T08:27:58.560395",
+    "Technology": "2025-10-24T08:28:47.004156",
+    "Finance": "2025-10-24T08:27:58.433552"
   }
 }

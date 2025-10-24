@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2025 05:20:02 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 08:27:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI在线强化学习“边做边学”，斯坦福团队让7B小模型性能飙升，甚至超越GPT-4o</title>
-      <link>https://www.qbitai.com/2025/10/345265.html</link>
-      <description>&lt;![CDATA[AI在线强化学习“边做边学”，斯坦福团队让7B小模型性能飙升，甚至超越GPT-4o]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 04:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345265.html</guid>
+      <title>具身智能落地茶颜悦色，“新店员”刷屏了</title>
+      <link>https://www.qbitai.com/2025/10/345520.html</link>
+      <description>&lt;![CDATA[具身智能落地茶颜悦色，“新店员”刷屏了]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345520.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>干家务一小时挣1000元，具身智能时代人类新岗位</title>
-      <link>https://www.qbitai.com/2025/10/345251.html</link>
-      <description>&lt;![CDATA[干家务一小时挣1000元，具身智能时代人类新岗位]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345251.html</guid>
+      <title>快手进军AI编程！“模型+工具+平台”一口气放三个大招</title>
+      <link>https://www.qbitai.com/2025/10/345503.html</link>
+      <description>&lt;![CDATA[快手进军AI编程！“模型+工具+平台”一口气放三个大招]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345503.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Mobileye连续三个季度营收同比增长，EyeQ芯片出货量持续增长</title>
-      <link>https://www.qbitai.com/2025/10/345248.html</link>
-      <description>&lt;![CDATA[Mobileye连续三个季度营收同比增长，EyeQ芯片出货量持续增长]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 02:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345248.html</guid>
+      <title>云计算“活教科书”语出惊人，指明程序员的进化方向</title>
+      <link>https://www.qbitai.com/2025/10/345488.html</link>
+      <description>&lt;![CDATA[云计算“活教科书”语出惊人，指明程序员的进化方向]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345488.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>1599元起售！雷鸟把万元电视屏搬上了AI眼镜</title>
-      <link>https://www.qbitai.com/2025/10/345206.html</link>
-      <description>&lt;![CDATA[1599元起售！雷鸟把万元电视屏搬上了AI眼镜]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 02:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345206.html</guid>
+      <title>OpenAI收购macOS供应商，剑指GPT操作系统！微软也不装了</title>
+      <link>https://www.qbitai.com/2025/10/345442.html</link>
+      <description>&lt;![CDATA[OpenAI收购macOS供应商，剑指GPT操作系统！微软也不装了]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 06:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345442.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>田渊栋被裁后新offer排到法国！原来Llama 4.5训完后被卸磨杀驴了</title>
-      <link>https://www.qbitai.com/2025/10/345074.html</link>
-      <description>&lt;![CDATA[田渊栋被裁后新offer排到法国！原来Llama 4.5训完后被卸磨杀驴了]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 01:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345074.html</guid>
+      <title>中国机器人这么玩儿，把老外都整不会了</title>
+      <link>https://www.qbitai.com/2025/10/345371.html</link>
+      <description>&lt;![CDATA[中国机器人这么玩儿，把老外都整不会了]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 05:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345371.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>携手中国邮政，九识包揽全球最大RoboVan集采全部席位</title>
+      <link>https://www.qbitai.com/2025/10/345358.html</link>
+      <description>&lt;![CDATA[携手中国邮政，九识包揽全球最大RoboVan集采全部席位]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 05:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345358.html</guid>
       <category>AI</category>
     </item>
   </channel>

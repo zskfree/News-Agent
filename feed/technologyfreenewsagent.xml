@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2025 05:20:50 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 08:28:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>如何使用代理路由在单个环境中测试分布式系统</title>
-      <link>https://www.infoq.cn/article/EodUcfS2Tzf1dBTy7Kwf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何使用代理路由在单个环境中测试分布式系统]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EodUcfS2Tzf1dBTy7Kwf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>百丽核心财务系统分库分表MyCat 架构迁移到OceanBase的技术实践</title>
+      <link>https://www.infoq.cn/article/EIEvdMOYJovrxbr2WLGb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百丽核心财务系统分库分表MyCat 架构迁移到OceanBase的技术实践]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EIEvdMOYJovrxbr2WLGb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌云发布指南，阐述保护远程MCP服务器的关键策略</title>
-      <link>https://www.infoq.cn/article/LcB8AsrqyOWMEGDl1BbB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云发布指南，阐述保护远程MCP服务器的关键策略]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LcB8AsrqyOWMEGDl1BbB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>又是微软没活儿硬整的一天？连夜发布12项 Copilot更新，最吸睛的是全新 AI 助手 Mico</title>
+      <link>https://www.infoq.cn/article/TVYR1vHXssGBpA3hal58?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[又是微软没活儿硬整的一天？连夜发布12项 Copilot更新，最吸睛的是全新 AI 助手 Mico]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TVYR1vHXssGBpA3hal58?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java近期新闻：OpenJDK、Spring RC、Jakarta EE、Payara平台、WildFly、测试容器</title>
-      <link>https://www.infoq.cn/article/GyKDrIdt6wQwaKJ4cWKM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java近期新闻：OpenJDK、Spring RC、Jakarta EE、Payara平台、WildFly、测试容器]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GyKDrIdt6wQwaKJ4cWKM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>又一批应届生“误入”亚马逊，能走多远？</title>
+      <link>https://www.tmtpost.com/7737229.html</link>
+      <description>&lt;![CDATA[又一批应届生“误入”亚马逊，能走多远？]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737229.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等</title>
-      <link>https://sspai.com/post/103316</link>
-      <description>&lt;![CDATA[派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/103316</guid>
+      <title>147家企业被调查，短剧财税巨震：一郑州亿级收入公司或造假，税务新规如何避坑？</title>
+      <link>https://www.tmtpost.com/7737251.html</link>
+      <description>&lt;![CDATA[147家企业被调查，短剧财税巨震：一郑州亿级收入公司或造假，税务新规如何避坑？]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737251.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三个问题帮你构建更好的软件架构</title>
-      <link>https://www.infoq.cn/article/DZ9AlfbVcl4TSYhVAZey?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[三个问题帮你构建更好的软件架构]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DZ9AlfbVcl4TSYhVAZey?utm_source=rss&amp;utm_medium=article</guid>
+      <title>哪家车企的销售最爱买自家车？</title>
+      <link>https://www.tmtpost.com/7737270.html</link>
+      <description>&lt;![CDATA[哪家车企的销售最爱买自家车？]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737270.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI代码生成的计划-执行-检查-行动框架</title>
-      <link>https://www.infoq.cn/article/DA12MtUaPjjmDgqsmgAp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI代码生成的计划-执行-检查-行动框架]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 10:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DA12MtUaPjjmDgqsmgAp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>东南亚中产，为何偏爱中国扫地机</title>
+      <link>https://www.tmtpost.com/7737254.html</link>
+      <description>&lt;![CDATA[东南亚中产，为何偏爱中国扫地机]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737254.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>银行业市净率最高的两家银行之一：一家涨了56%，另一家招商银行为何掉队？</title>
-      <link>https://www.tmtpost.com/7736933.html</link>
-      <description>&lt;![CDATA[银行业市净率最高的两家银行之一：一家涨了56%，另一家招商银行为何掉队？]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7736933.html</guid>
+      <title>降价入华，又一日本餐饮巨头盯上中国市场</title>
+      <link>https://www.tmtpost.com/7737236.html</link>
+      <description>&lt;![CDATA[降价入华，又一日本餐饮巨头盯上中国市场]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737236.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中文在线Q3营收增61%、净亏损近3亿，新APP团队350人+，老APP暂停投放</title>
-      <link>https://www.tmtpost.com/7736856.html</link>
-      <description>&lt;![CDATA[中文在线Q3营收增61%、净亏损近3亿，新APP团队350人+，老APP暂停投放]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7736856.html</guid>
+      <title>白银暴跌：牛市终结还是“黄金坑” | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7737347.html</link>
+      <description>&lt;![CDATA[白银暴跌：牛市终结还是“黄金坑” | 巴伦精选]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737347.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大豆风云：一场跨越百年的世界暗战</title>
-      <link>https://www.tmtpost.com/7736859.html</link>
-      <description>&lt;![CDATA[大豆风云：一场跨越百年的世界暗战]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7736859.html</guid>
+      <title>Alibaba Enters AI Hardware Market with Quark AI Glasses Presale Ahead of December Launch</title>
+      <link>https://www.tmtpost.com/7737306.html</link>
+      <description>&lt;![CDATA[Alibaba Enters AI Hardware Market with Quark AI Glasses Presale Ahead of December Launch]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 15:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737306.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>羽绒服增长的尽头，是高端化？</title>
-      <link>https://www.tmtpost.com/7736892.html</link>
-      <description>&lt;![CDATA[羽绒服增长的尽头，是高端化？]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7736892.html</guid>
+      <title>这些“8090后”熟悉的品牌，为什么总是惹怒消费者？</title>
+      <link>https://www.tmtpost.com/7737268.html</link>
+      <description>&lt;![CDATA[这些“8090后”熟悉的品牌，为什么总是惹怒消费者？]]&gt;</description>
+      <pubDate>Fri, 24 Oct 2025 14:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7737268.html</guid>
       <category>Technology</category>
     </item>
   </channel>
