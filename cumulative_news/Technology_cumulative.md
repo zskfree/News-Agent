@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-24 08:27
+**最后更新时间**: 2025-10-24 23:23
+
+---
+
+## 🆕 最新更新 (2025-10-24 23:23)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 正在接管代码，AWS 首席布道师却说：开发者的未来在「沟通」](http://www.geekpark.net/news/355543)
+**发布时间**: 2025-10-24 23:09
+
+#### [AI 能不能写出《庆余年》？](http://www.geekpark.net/news/355427)
+**发布时间**: 2025-10-24 23:02
+
+#### [AI 时代，鸿蒙给开发者发了张「新船票」](http://www.geekpark.net/news/355542)
+**发布时间**: 2025-10-24 23:00
+
+#### [半年月活增长 80 倍，ima 想升级成人的「第二大脑」](http://www.geekpark.net/news/355541)
+**发布时间**: 2025-10-24 19:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [面板显示巨头终止61亿元并购计划；威士顿计划收购量投科技部分股份【并购一线】](https://www.tmtpost.com/7737884.html)
+**发布时间**: 2025-10-24 22:23
+
+#### [股价破发、三季度亏损创上市新高，海特生物赴港找钱解困](https://www.tmtpost.com/7737847.html)
+**发布时间**: 2025-10-24 22:22
+
+#### [中科通达营收腰斩背后：关键并购折戟致转型B端受挫，5亿应收账款压顶｜看财报](https://www.tmtpost.com/7737838.html)
+**发布时间**: 2025-10-24 21:04
+
+#### [波司登携手KIM JONES打造高级都市线AREAL；橘宜收购科技护发品牌Foltène；海底捞旗下首家寿司店开业｜消研所周报](https://www.tmtpost.com/7737598.html)
+**发布时间**: 2025-10-24 21:03
+
+#### [银行理财规模突破32万亿，收益率持续下降](https://www.tmtpost.com/7737804.html)
+**发布时间**: 2025-10-24 19:55
+
+#### [前脚溢价关联并购、后脚发债15亿扩产，科博达的资本腾挪棋局](https://www.tmtpost.com/7737647.html)
+**发布时间**: 2025-10-24 19:42
+
+#### [拓维信息：低基数下净利飙升852%，“含华量”拉满难掩盈利疲态｜看财报](https://www.tmtpost.com/7737728.html)
+**发布时间**: 2025-10-24 19:40
+
+#### [不管你信不信，中国“第五城”就这么定了](https://www.tmtpost.com/7736828.html)
+**发布时间**: 2025-10-24 19:30
+
+#### [国际原油期货全线暴涨，黑天鹅引发全球市场过速](https://www.tmtpost.com/7736964.html)
+**发布时间**: 2025-10-24 19:30
+
+#### [轩逸再夺冠，日产“苟着”看](https://www.tmtpost.com/7737442.html)
+**发布时间**: 2025-10-24 19:30
+
+#### [中国SaaS的价值修正期，还要多久？](https://www.tmtpost.com/7737633.html)
+**发布时间**: 2025-10-24 19:30
+
+#### [阿里的信心和香港的决心](https://www.tmtpost.com/7737426.html)
+**发布时间**: 2025-10-24 19:24
+
+#### [景区开始“抄底”无戏可拍的明星？](https://www.tmtpost.com/7737431.html)
+**发布时间**: 2025-10-24 19:24
+
+#### [国产高精度、高速率ADC芯片，正在崛起](https://www.tmtpost.com/7737701.html)
+**发布时间**: 2025-10-24 19:23
+
+#### [三星的头显也快卖不出去了](https://www.tmtpost.com/7737611.html)
+**发布时间**: 2025-10-24 18:27
+
+#### [马斯克豪赌AI未来](https://www.tmtpost.com/7737628.html)
+**发布时间**: 2025-10-24 18:27
+
+#### [东南亚科技消费趋势及中国企业出海洞察](https://www.tmtpost.com/7737527.html)
+**发布时间**: 2025-10-24 18:27
+
+#### [海大集团加快出海，压力给到新希望和刘永好](https://www.tmtpost.com/7737538.html)
+**发布时间**: 2025-10-24 18:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake 数据加载和卸载综合指南 | 技术实践](https://www.infoq.cn/article/fQpbx9z9TaTgUkt9prtF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 20:30
+
+#### [Google Research 开源新架构，AI 不再依赖云端，直接跑在手表和耳机上](https://www.infoq.cn/article/ALqNZq29FtYY8eAsUNqj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 20:19
+
+#### [这个1024，愿每一位开发者都能蜕变为“技术价值的创造者“](https://www.infoq.cn/article/BsEqstaOON3vWrfVwwK4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 20:11
+
+#### [和 Al “开黑” 做 App！ 谁才是你最强的编程搭子？｜AI的n次方](https://www.infoq.cn/video/uzOjC515vECAJNZD175g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 20:01
+
+#### [Snowflake 流式处理: 让实时数据管道变得简单 | 技术趋势](https://www.infoq.cn/article/FXet1JpT0tJF8bQvfduj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 19:56
+
+#### [1024 征稿大奖已就位：你的 AI 实践、未来洞见、职场经验，都值得被看见](https://www.infoq.cn/article/iiwBlR0AvMWBA0VCCyJp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 19:49
+
+#### [解码 AI 时代的实时交互秘籍：万物互联，实时互动](https://www.infoq.cn/video/cumuBTss2tCHEpPrZwK1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 19:01
+
+#### [OpenAI 收购了一家 AI 创企，苹果这支出走团队成了Altman的新目标](https://www.infoq.cn/article/LizXjm6bZQgZXmRdHASx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 18:21
+
+#### [IDC 「APAC AI Infra 趋势」报告解读：洞见热门的 AI  Cloud](https://www.infoq.cn/video/HM78pSXDqVsGXqqSmAjv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 17:52
+
+#### [1024程序员节，稚晖君送上全球首个0代码机器人内容创作平台](https://www.infoq.cn/article/dOfDx8czTBOd3qEhyQ0y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-24 17:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024 程序员节征文获奖结果公布](https://sspai.com/post/103319)
+**发布时间**: 2025-10-24 18:25
+
+#### [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/103329)
+**发布时间**: 2025-10-24 18:00
+
+#### [1024 程序员节致敬 800 万鸿蒙开发者，看华为如何与他们「码向未来」](https://sspai.com/post/103325)
+**发布时间**: 2025-10-24 16:41
 
 ---
 
