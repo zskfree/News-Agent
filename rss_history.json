@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1dd4053751bc05a330edd3d90a0180961fc367f1ccbe0d1b5dba6779144ddb2e": {
-        "title": "你的AI助手更万能了！天禧合作字节扣子，解锁无限新功能",
-        "link": "https://www.qbitai.com/2025/09/335986.html",
-        "published_date": "Thu, 25 Sep 2025 07:28:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.303237"
-      },
       "9804307c5f64277a95b9dd6bd6bf3b820bb9677ce2816f7b61826df011fdd0f1": {
         "title": "Shoplifters could soon be chased down by drones",
         "link": "https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/",
@@ -4806,135 +4800,15 @@
         "link": "https://www.qbitai.com/2025/10/345745.html",
         "published_date": "Sat, 25 Oct 2025 06:48:00 GMT",
         "first_seen": "2025-10-25T08:24:05.425275"
+      },
+      "d2243b7d36d0d790a16021e9c135a582d49a86e052c229fad07f5d61e7014dec": {
+        "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
+        "link": "https://www.qbitai.com/2025/10/345823.html",
+        "published_date": "Sat, 25 Oct 2025 09:37:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.153555"
       }
     },
     "Technology": {
-      "f79c9643dc138559066c9dea07cc1ed2429718411f6557f9a446d457db5942b5": {
-        "title": "重塑动画生产力：AniSora 动画视频生成技术与应用｜QCon 上海",
-        "link": "https://www.infoq.cn/article/Rf7hutKZxpUfcoNYCdhZ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Sep 2025 16:05:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631108"
-      },
-      "4b0e261ad06888a063e33e741b1770498ba227cc8405c4bc8a14c0e2dc274937": {
-        "title": "Copilot用户狂欢！微软宣布引入 Claude 模型，OpenAI不再被“独宠”",
-        "link": "https://www.infoq.cn/article/atec6lQ4e3b992W2kiM3?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Sep 2025 15:29:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631161"
-      },
-      "302e8f8932d742eb37a627f6b27a037973bb97f7b3d4ee47abb1f151921ad0d2": {
-        "title": "中国信通院：2024年我国人工智能产业规模超9000亿元",
-        "link": "https://www.infoq.cn/article/s4rlgOQKP5fzuZGcbaxH?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Sep 2025 15:17:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631171"
-      },
-      "402fb78faf16894e0ab79209efb7025b6fbdb52b742c6fdf6433bbad96e293f0": {
-        "title": "Java现代化改造：长文梳理switch结构的前世今生",
-        "link": "https://www.infoq.cn/article/DckyfcpmmuF5Y5wrOqGR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Sep 2025 14:53:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631180"
-      },
-      "8ff67807811b2c5483c574ac13a53632d0ccdbac727b9b3e43c29340cc12bc69": {
-        "title": "蚂蚁数科提出隐私保护AI算法训练新框架Gibbon，训练速度提升4倍",
-        "link": "https://www.infoq.cn/article/dOwxuNIiROyl1BlcrACA?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Sep 2025 14:23:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631188"
-      },
-      "f58510bded55d6fb6a54e2b5704e6131a6b0971088e0ea3482a2e749cd7b21b1": {
-        "title": "擎朗智能发布自研VLA模型KOM2.0，构建端到端具身行动智能的核心引擎",
-        "link": "https://www.infoq.cn/article/GoRihf49smDa24d72kFi?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Sep 2025 14:12:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631134"
-      },
-      "c6bb63a88afc3a9e6167c6c1ca5b609feecef0e2e9f844497fffe790f7ca5b2c": {
-        "title": "9月25日A股分析：三大指数涨跌不一，两市成交额超2.37万亿，主力资金净流出373亿，充电桩与数字经济板块逆势吸金",
-        "link": "https://www.tmtpost.com/7706020.html",
-        "published_date": "Thu, 25 Sep 2025 15:49:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631200"
-      },
-      "c61a5eecda538066c2a6bb6133adbe148b63c9487c5c111ed336a101445d89f4": {
-        "title": "宗馥莉想再造一个娃哈哈",
-        "link": "https://www.tmtpost.com/7705972.html",
-        "published_date": "Thu, 25 Sep 2025 15:39:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631207"
-      },
-      "503db4564805318d7dfdde7b9f5d9c95eca56e2ba9ebe2956d581723a00a6823": {
-        "title": "王薇：生成式人工智能，开启法律专业服务的新时代 | 钛资本人工智能组",
-        "link": "https://www.tmtpost.com/7705721.html",
-        "published_date": "Thu, 25 Sep 2025 15:24:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631216"
-      },
-      "413d7689c55bc827a19f9fc26a4d3c8579bb8fb2be356506f677e4ca7e61a0de": {
-        "title": "Huawei Unveils WATCH GT 6 Series and FreeClip 2 Ear-Clip Headphones",
-        "link": "https://www.tmtpost.com/7706015.html",
-        "published_date": "Thu, 25 Sep 2025 15:08:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.337892"
-      },
-      "29acd8bd03fc1a26cbbe3aac17e937708fc4ac8dfafd06f6de5372f3e3aa282c": {
-        "title": "高通“转身”押注AI智能体，还把“王兴兴们”拉进自己的朋友圈",
-        "link": "https://www.tmtpost.com/7705939.html",
-        "published_date": "Thu, 25 Sep 2025 15:06:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.338630"
-      },
-      "c230e3ca952c57b9ca0e9fb0b765506ee11bfa2cf886c316ce287d966472cf32": {
-        "title": "小红书做团播，晚了吗？",
-        "link": "https://www.tmtpost.com/7705391.html",
-        "published_date": "Thu, 25 Sep 2025 15:02:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.338998"
-      },
-      "5ff8198166ad7eb408eba121e962e0208a7debf865a74ea09162b6cb5b37cdd6": {
-        "title": "娃小宗对娃哈哈发动商标政变",
-        "link": "https://www.tmtpost.com/7705363.html",
-        "published_date": "Thu, 25 Sep 2025 14:11:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.339330"
-      },
-      "3d320b00f787895e750b2566e3c366563651597a8e820ee0311aaa24c145774a": {
-        "title": "Microsoft 365 Copilot First Integrates OpenAI Rival Anthropic's Models",
-        "link": "https://www.tmtpost.com/7705932.html",
-        "published_date": "Thu, 25 Sep 2025 13:56:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.340522"
-      },
-      "dadf62f0641aade383cedb5917b66ccddc4f892f636e5b42d7a8e506f2fff7eb": {
-        "title": "AI不付费就是“废品”，海外卖爆的AI硬件Plaud带着新品杀回国内",
-        "link": "https://www.tmtpost.com/7705141.html",
-        "published_date": "Thu, 25 Sep 2025 13:55:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.341473"
-      },
-      "6d95db605922705d8e6a4612884205ef80045e623b9f0ce335fad894964f66a1": {
-        "title": "MiniMax Faces Hollywood Lawsuit Amid Rapid Global Expansion, IPO Ambitions",
-        "link": "https://www.tmtpost.com/7705920.html",
-        "published_date": "Thu, 25 Sep 2025 13:54:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.343144"
-      },
-      "424ee35e83b9e75cc6acfae9928992f667c249f1d099d2881b013da4a6d65948": {
-        "title": "谷歌广告跌倒，亚马逊吃饱",
-        "link": "https://www.tmtpost.com/7705740.html",
-        "published_date": "Thu, 25 Sep 2025 13:49:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.343676"
-      },
-      "7a3487907ee96afce80ee7a35b73aec47cf3fb2e98b217c7d4b3f875bf90614f": {
-        "title": "Apple AirPods Pro 3 降噪真无线耳机体验 - TDS REVIEW",
-        "link": "https://sspai.com/post/102744",
-        "published_date": "Thu, 25 Sep 2025 15:00:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.344946"
-      },
-      "a48d79020bb9082a9c8f2a20d44b9a52d12c771f1c998182014b24faa2f872b4": {
-        "title": "AI遇上老师傅，鲁班来了都迷糊",
-        "link": "http://www.huxiu.com/article/4784839.html?f=wangzhan",
-        "published_date": "Thu, 25 Sep 2025 14:50:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.345655"
-      },
-      "3dde882a6bb9e0a5d4b96a39721c12073de7633a02e52211b7026718c1c6d12b": {
-        "title": "三款骁龙芯片曝光，高通谷歌联手打造「安卓 PC」时代",
-        "link": "http://www.geekpark.net/news/354449",
-        "published_date": "Thu, 25 Sep 2025 14:46:00 GMT",
-        "first_seen": "2025-09-25T08:28:19.631148"
-      },
-      "9b9e548b433559b816cd72cb1f8f5b98daa42a03c88741510470dd5d50f4b459": {
-        "title": "Nothing spins off its budget brand CMF",
-        "link": "https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india",
-        "published_date": "Thu, 25 Sep 2025 07:58:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.348516"
-      },
       "0a8f4438a1c265d4f74add1c447fa7250ac0a32a355c49c80b91a49b2e045594": {
         "title": "雷军：跟苹果竞争是漫长且痛苦的过程，时间越长小米越强大",
         "link": "https://www.tmtpost.com/7706754.html",
@@ -16934,15 +16808,45 @@
         "link": "https://www.tmtpost.com/7737716.html",
         "published_date": "Sat, 25 Oct 2025 11:05:00 GMT",
         "first_seen": "2025-10-25T08:24:05.477784"
+      },
+      "8d1ac2f36507e045645bf35188c9435460608075af34f7742d793bf0e76bd830": {
+        "title": "AI DevOps工具如何破解企业研发效能瓶颈？",
+        "link": "https://www.infoq.cn/video/c4dUI2RUK1A3K4drkNxe?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Oct 2025 20:15:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.205999"
+      },
+      "2207a0ba34ddf27d424f59b23d5e73b1020639501e0897bf708a4d597522efdb": {
+        "title": "现在的年轻人，为何变得“脆皮”？",
+        "link": "http://www.huxiu.com/article/4794104.html?f=wangzhan",
+        "published_date": "Sat, 25 Oct 2025 19:00:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.206140"
+      },
+      "24d3c04a5eb96a5285a9cd911bf070b0da146f85731244cec04dd074be570ce9": {
+        "title": "暴涨的白银，会卡住光伏的脖子吗？",
+        "link": "https://www.tmtpost.com/7737969.html",
+        "published_date": "Sat, 25 Oct 2025 17:50:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.206288"
+      },
+      "3241d9fad6dc9a3fd1cfe3caf8d740ca6c90b321e31054f9b40c45c761ff0e0d": {
+        "title": "三档音综同期上线，但音乐不再是最重要的那件事",
+        "link": "https://www.tmtpost.com/7738068.html",
+        "published_date": "Sat, 25 Oct 2025 16:58:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.206458"
+      },
+      "e22115b90aec914a2104c92da3e3ea1643e4b379c025498dde662f615e433599": {
+        "title": "币圈大佬的重生：特朗普特赦赵长鹏",
+        "link": "https://www.tmtpost.com/7738082.html",
+        "published_date": "Sat, 25 Oct 2025 16:49:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.206645"
+      },
+      "d4662ea8d9872b76f502d2fbb06249a60cd7690fddb87afb8674901da0fa437d": {
+        "title": "鸿蒙 1024｜不到一个月开发的鸿蒙应用，一个不小心成为爆款",
+        "link": "https://sspai.com/post/103199",
+        "published_date": "Sat, 25 Oct 2025 15:54:00 GMT",
+        "first_seen": "2025-10-25T23:17:30.206963"
       }
     },
     "Finance": {
-      "05167d6c65e833d5e7d2e4bf20dcb8a5b11b06f662e371a7fac36d3abc36885e": {
-        "title": "Quantum-computing stocks have been red hot. HSBC has just claimed a major trading breakthrough using the technology.",
-        "link": "https://www.marketwatch.com/story/quantum-computing-stocks-have-been-red-hot-hsbc-has-just-claimed-a-major-trading-breakthrough-using-the-technology-1497922d?mod=mw_rss_topstories",
-        "published_date": "Thu, 25 Sep 2025 07:30:00 GMT",
-        "first_seen": "2025-09-25T08:27:31.173931"
-      },
       "955bb77ba7ad63acaa731b574a5d608fc67d05e0c28d54dd44c8bb2605f0200b": {
         "title": "DOGE operates ‘unchecked’ at multiple agencies, Senate report finds. Here’s what it recommends to protect Americans’ data.",
         "link": "https://www.marketwatch.com/story/doge-operates-unchecked-at-multiple-agencies-senate-report-finds-heres-what-it-recommends-to-protect-americans-data-5febfd5c?mod=mw_rss_topstories",
@@ -18872,8 +18776,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-25T08:24:05.447007",
-    "Technology": "2025-10-25T08:24:05.484973",
-    "Finance": "2025-10-25T08:24:05.317892"
+    "AI": "2025-10-25T23:17:30.177029",
+    "Technology": "2025-10-25T23:17:30.214347",
+    "Finance": "2025-10-25T23:17:30.045827"
   }
 }

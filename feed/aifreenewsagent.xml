@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Oct 2025 08:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2025 08:24:05 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2025 23:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Oct 2025 23:17:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>能懂孩子、懂爸妈、还懂宠物，这届AI硬件太会了</title>
-      <link>https://www.qbitai.com/2025/10/345768.html</link>
-      <description>&lt;![CDATA[能懂孩子、懂爸妈、还懂宠物，这届AI硬件太会了]]&gt;</description>
-      <pubDate>Sat, 25 Oct 2025 07:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345768.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>开源模型首次物理奥赛夺金！上海AI Lab 235B模型击败GPT5和Grok4</title>
-      <link>https://www.qbitai.com/2025/10/345745.html</link>
-      <description>&lt;![CDATA[开源模型首次物理奥赛夺金！上海AI Lab 235B模型击败GPT5和Grok4]]&gt;</description>
-      <pubDate>Sat, 25 Oct 2025 06:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345745.html</guid>
+      <title>马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号</title>
+      <link>https://www.qbitai.com/2025/10/345823.html</link>
+      <description>&lt;![CDATA[马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号]]&gt;</description>
+      <pubDate>Sat, 25 Oct 2025 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345823.html</guid>
       <category>AI</category>
     </item>
   </channel>
