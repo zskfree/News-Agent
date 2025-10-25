@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Oct 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2025 23:23:44 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2025 08:23:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Oct 2025 08:24:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>比亚迪用大模型，刷榜全球最低油耗</title>
-      <link>https://www.qbitai.com/2025/10/345640.html</link>
-      <description>&lt;![CDATA[比亚迪用大模型，刷榜全球最低油耗]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 13:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345640.html</guid>
+      <title>能懂孩子、懂爸妈、还懂宠物，这届AI硬件太会了</title>
+      <link>https://www.qbitai.com/2025/10/345768.html</link>
+      <description>&lt;![CDATA[能懂孩子、懂爸妈、还懂宠物，这届AI硬件太会了]]&gt;</description>
+      <pubDate>Sat, 25 Oct 2025 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345768.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>第300台极狐阿尔法T5无人车下线，小马智行冲刺千台Robotaxi车队</title>
-      <link>https://www.qbitai.com/2025/10/345615.html</link>
-      <description>&lt;![CDATA[第300台极狐阿尔法T5无人车下线，小马智行冲刺千台Robotaxi车队]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345615.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>智元「灵创」平台来了！0 代码、0 门槛，人人都是机器人训练大师</title>
-      <link>https://www.qbitai.com/2025/10/345600.html</link>
-      <description>&lt;![CDATA[智元「灵创」平台来了！0 代码、0 门槛，人人都是机器人训练大师]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345600.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>SEE Conf 2025：开启体验科技的新十年</title>
-      <link>https://www.qbitai.com/2025/10/345583.html</link>
-      <description>&lt;![CDATA[SEE Conf 2025：开启体验科技的新十年]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345583.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>FM Agent登顶OpenAI MLE-Bench，由百度智能云研发</title>
-      <link>https://www.qbitai.com/2025/10/345578.html</link>
-      <description>&lt;![CDATA[FM Agent登顶OpenAI MLE-Bench，由百度智能云研发]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345578.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>“小米汽车SOS 1秒接通，不含排队时间”，高管回应了</title>
-      <link>https://www.qbitai.com/2025/10/345549.html</link>
-      <description>&lt;![CDATA[“小米汽车SOS 1秒接通，不含排队时间”，高管回应了]]&gt;</description>
-      <pubDate>Fri, 24 Oct 2025 08:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345549.html</guid>
+      <title>开源模型首次物理奥赛夺金！上海AI Lab 235B模型击败GPT5和Grok4</title>
+      <link>https://www.qbitai.com/2025/10/345745.html</link>
+      <description>&lt;![CDATA[开源模型首次物理奥赛夺金！上海AI Lab 235B模型击败GPT5和Grok4]]&gt;</description>
+      <pubDate>Sat, 25 Oct 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345745.html</guid>
       <category>AI</category>
     </item>
   </channel>
