@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "c52ca4de1b8c720f9557ca1f8aa3a8ccfef2387362e9e98a2ab4fa5329449298": {
-        "title": "地平线募资58亿杀入Robotaxi",
-        "link": "https://www.qbitai.com/2025/09/336914.html",
-        "published_date": "Fri, 26 Sep 2025 06:19:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.629474"
-      },
-      "03616074d6d29b25c532702c72d425235b8e6fd272d17482ddcd5bc095130c4f": {
-        "title": "谁是最强“打工AI”？OpenAI亲自测试，结果第一不是自己",
-        "link": "https://www.qbitai.com/2025/09/336858.html",
-        "published_date": "Fri, 26 Sep 2025 06:06:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.629640"
-      },
-      "6a34b8a3678f72ce06f6db57a909d49d97ad55477eabe6e5153057d913eb2bc9": {
-        "title": "“零人”搞医学研究：清华AI智能体从灵感到论文全程自主",
-        "link": "https://www.qbitai.com/2025/09/336867.html",
-        "published_date": "Fri, 26 Sep 2025 06:06:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.629809"
-      },
-      "d037d708c844f9b082c7cea2c3c8b4c54404efb9098713728a3ce110183a999a": {
-        "title": "多模态推理最高加速3.2倍！华为诺亚新算法入选NeurIPS 2025",
-        "link": "https://www.qbitai.com/2025/09/336851.html",
-        "published_date": "Fri, 26 Sep 2025 06:01:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.630075"
-      },
-      "e8dec27915b0223a5d0ec17a174230218d55170311993b2a6d2f9820fd3261d4": {
-        "title": "OpenAI两位首席最新采访信息量好大！终极目标是“自动化研究员”，招人并非寻找“最出圈”的人",
-        "link": "https://www.qbitai.com/2025/09/336764.html",
-        "published_date": "Fri, 26 Sep 2025 05:52:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.630424"
-      },
-      "9182465366ea1a68b3baf27adc93069b3a0242a21ba42a557cdaf0b4782a166e": {
-        "title": "顶级学术会议MICCAI最高奖项披露，华人科学家首次获奖！",
-        "link": "https://www.qbitai.com/2025/09/336756.html",
-        "published_date": "Fri, 26 Sep 2025 05:38:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.630722"
-      },
       "ed2287480f56d6ad7bc8d818f81d369cd77b33654234ada41fe342b6c16ad5ad": {
         "title": "US investigators are using AI to detect child abuse images made by AI",
         "link": "https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/",
@@ -4479,150 +4443,6 @@
       }
     },
     "Technology": {
-      "16baff5708705b674a326a8ec95d17c424c32e11d92e53cef0cd12e7e8a67aec": {
-        "title": "阶跃星辰语音模型负责人杨学锐确认出席QCon上海，分享从语音表征到模型架构的端到端语音模型实践",
-        "link": "https://www.infoq.cn/article/kTKyzx7IJZSUKtRNISCf?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Sep 2025 16:15:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999526"
-      },
-      "da2e9dd33f9b79a14159c873e7ab5fa5ac37dcc1c6b73cdad420664133bb22cb": {
-        "title": "XTransfer发布自研外贸金融大模型TradePilot 2.0，技术架构全面升级",
-        "link": "https://www.infoq.cn/article/p4KZuF7DxwslejJeKDa8?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Sep 2025 14:57:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999457"
-      },
-      "6e5d5d00e79e0c6e958564a58c466e2c6a5960911613d105fda329f20344feb9": {
-        "title": "Agent+Code，打开AI开发新范式",
-        "link": "https://www.infoq.cn/article/PpPT38RyuPxR7uqvbe2F?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Sep 2025 14:30:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999537"
-      },
-      "89d2dbf6d818b9d163512789961f0f43b8eabfbc7358d805e34af4cddd46dcef": {
-        "title": "亚马逊云科技将LocalStack集成到VSCode的Toolkit中，提升无服务器开发效率",
-        "link": "https://www.infoq.cn/article/2tc4jbFLFsDy1x0JjIpA?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999502"
-      },
-      "8b8bd15c8afa8addf690d01643139bc8009dcc7b8268b20d5c1911c309e36739": {
-        "title": "曙光网络发布新一代工业边缘 AI 计算平台：以智控一体解锁工业大模型边缘落地",
-        "link": "https://www.infoq.cn/article/NcEofSRALjIDurz5j4g4?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Sep 2025 13:31:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999488"
-      },
-      "d2215bc1ee160d8364680f9ea39ba09b68da88469609eaacab1cfd2cde1e3cce": {
-        "title": "找人不求人？Lessie 让「人脉玄学」变成算法游戏｜AI 上新",
-        "link": "http://www.geekpark.net/news/354516",
-        "published_date": "Fri, 26 Sep 2025 15:55:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999550"
-      },
-      "23d6647170e3877ef3c931bbfa34a93ee9ca585922525baf010434791f991e54": {
-        "title": "Duolingo Expands in China with New Features, Eyes Next Wave of Growth",
-        "link": "https://www.tmtpost.com/7707729.html",
-        "published_date": "Fri, 26 Sep 2025 15:50:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999562"
-      },
-      "5032e5e155fc1f3a41215674a356b412d19a8dbec5db0052f26a11fe2800c72a": {
-        "title": "TGS首曝，卖出1亿销量的超级IP，腾讯还是忘不了TA？",
-        "link": "https://www.tmtpost.com/7707082.html",
-        "published_date": "Fri, 26 Sep 2025 15:46:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999573"
-      },
-      "9cac9b9758c6e6850d64ee627617c1fdc9b8853a05c5b42d6294e24971a79fce": {
-        "title": "「叔圈天菜」比音勒芬，疯狂攻略年轻人",
-        "link": "https://www.tmtpost.com/7707191.html",
-        "published_date": "Fri, 26 Sep 2025 15:46:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999582"
-      },
-      "292c17b86a0aaeb2d1a9e2bd435d8e80a5cd642f522211a4ee73fb2d6fe4b200": {
-        "title": "山姆、 朴朴们盯上的前置仓，是巨头的游戏",
-        "link": "https://www.tmtpost.com/7707512.html",
-        "published_date": "Fri, 26 Sep 2025 15:45:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.683482"
-      },
-      "4d0a2792cd8334e0c0d93f11bb8f9eb715e2febfa8726c1a062863bae6555294": {
-        "title": "背屏成不了下一个灵动岛",
-        "link": "https://www.tmtpost.com/7707535.html",
-        "published_date": "Fri, 26 Sep 2025 15:36:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.683771"
-      },
-      "0565349fca4a8c27728b75036af3b64fba57c71935b822d8ed1c8f932b370245": {
-        "title": "9月26日A股分析：三大股指集体收跌，两市合计成交21468.9亿元，资金流出最多的行业板块为消费电子、电子元件",
-        "link": "https://www.tmtpost.com/7707599.html",
-        "published_date": "Fri, 26 Sep 2025 15:28:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.684693"
-      },
-      "fa17af685468e82f496e1511b748df03164a88bbdcb66896bdf8f4c12013e54f": {
-        "title": "京东健康加速落子AI，冲破优质医疗“玻璃罩”",
-        "link": "https://www.tmtpost.com/7707462.html",
-        "published_date": "Fri, 26 Sep 2025 15:23:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.685241"
-      },
-      "7f45b6b6e47c1bfdd05beb9eaed24e5eb37a20e5c32ac814baace8d10e4de411": {
-        "title": "全球超10亿注册用户，Al教育龙头多邻国的下一步是什么？",
-        "link": "https://www.tmtpost.com/7707550.html",
-        "published_date": "Fri, 26 Sep 2025 14:29:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.685903"
-      },
-      "6c8d5f1b6d771e31268003bdd3b4f63e49b1b638b40661bb416c9194929ac322": {
-        "title": "阿里京东千亿对战！下一个十年的中国AI如何“出奇制胜”",
-        "link": "https://www.tmtpost.com/7707545.html",
-        "published_date": "Fri, 26 Sep 2025 14:28:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.686668"
-      },
-      "7dfef3cad0207cdcda68112fbbbbee7cda5484e2dc0fc85a004542068193b2aa": {
-        "title": "Trump to Impose 100% Drug Tariffs, Levies on Trucks and Kitchen Cabinets Starting October",
-        "link": "https://www.tmtpost.com/7707531.html",
-        "published_date": "Fri, 26 Sep 2025 14:15:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.688426"
-      },
-      "210d912169ea7eba1f2ae8866617c8c9386afb0e5e760638f76e9af1fb1dfcdb": {
-        "title": "勇闯亚非拉的外贸人，搭上本地支付新基建 ｜出海参考",
-        "link": "https://www.tmtpost.com/7706942.html",
-        "published_date": "Fri, 26 Sep 2025 14:08:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.689184"
-      },
-      "697eda52758e4367cbbec5a6d514489f55eb78bbfdfa2a485663351119353379": {
-        "title": "Chinese Premier Says China and U.S. Can be Friends",
-        "link": "https://www.tmtpost.com/7707497.html",
-        "published_date": "Fri, 26 Sep 2025 13:34:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.690651"
-      },
-      "5e1c2285269bdf6f529ad69af8342e6e31267e4146962500e55435e69e4713b4": {
-        "title": "亿万老人的孤独，被会说话的洋娃娃填补？",
-        "link": "https://www.tmtpost.com/7707313.html",
-        "published_date": "Fri, 26 Sep 2025 13:29:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.691398"
-      },
-      "f6ad8403a10adc7dc8b77e5e2f78a4768c3bba5cabd8de1ec63291cc10f40dc8": {
-        "title": "在蔡国强“升龙”的雪山脚下，我和当地人一起捡垃圾",
-        "link": "https://www.tmtpost.com/7707345.html",
-        "published_date": "Fri, 26 Sep 2025 13:29:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.692430"
-      },
-      "cd1af22ae5baf9e48216cac7e5cd23ea0429c6c0d32fd37691f2e656ed9434d2": {
-        "title": "A股，小登扳倒了老登",
-        "link": "https://www.tmtpost.com/7707355.html",
-        "published_date": "Fri, 26 Sep 2025 13:29:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.693092"
-      },
-      "1f745cf4b385bab82c796f4b6b2483a6e6e48465f80a39b4dd9dbd2c1c807a32": {
-        "title": "20万亿的银发经济，为何跑不出一个“阳光下的巨头”？",
-        "link": "https://www.tmtpost.com/7707444.html",
-        "published_date": "Fri, 26 Sep 2025 13:29:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.694229"
-      },
-      "d976441538db0c68e6887eec36c7e8c29db14f57d111d7f6a8448a10b04868f9": {
-        "title": "Aecooly CamperKit 模块化户外工具众测报告",
-        "link": "https://sspai.com/post/102278",
-        "published_date": "Fri, 26 Sep 2025 15:00:00 GMT",
-        "first_seen": "2025-09-26T08:27:35.695451"
-      },
-      "e2e78b1d38e357276f6bbcbd6d430b2ef06620d633f6ba8bc03f5a0149ea11da": {
-        "title": "中国浮空发电破局，技术碾压美国登顶全球第一",
-        "link": "http://www.huxiu.com/article/4785256.html?f=wangzhan",
-        "published_date": "Fri, 26 Sep 2025 13:00:00 GMT",
-        "first_seen": "2025-09-26T08:28:23.999514"
-      },
       "36c1c5c06f1e2fcdcd70493f6e606aa936cc873b3da4faefd99ccecf226523fd": {
         "title": "168 元一年的「小红卡」，是小红书打破本地生活红海的钥匙",
         "link": "http://www.geekpark.net/news/354551",
@@ -16082,6 +15902,48 @@
         "link": "https://www.tmtpost.com/7738353.html",
         "published_date": "Sun, 26 Oct 2025 13:57:00 GMT",
         "first_seen": "2025-10-26T08:24:30.366916"
+      },
+      "ff1ab64132aafb62599587cbf2da9116371b341b4f3e397c65a17763818fdd90": {
+        "title": "8888元一桌的高端婚宴，全是预制菜？",
+        "link": "http://www.huxiu.com/article/4796518.html?f=wangzhan",
+        "published_date": "Sun, 26 Oct 2025 23:37:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.182136"
+      },
+      "f5a826dc2bfadb87b06bbb4a18332aa743b08c91aa2a7723c64602073488e337": {
+        "title": "“水果第一股”被取消上市地位，一场从600亿归零的资本迷局",
+        "link": "https://www.tmtpost.com/7738555.html",
+        "published_date": "Sun, 26 Oct 2025 21:26:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.182308"
+      },
+      "bf039f2b66ac2ff08518935469c7e56f54609bc3c77fd5fd4983fed160b0a772": {
+        "title": "阿斯顿·马丁下调全年盈利预期，知名豪车巨头们这是怎么了？",
+        "link": "https://www.tmtpost.com/7738467.html",
+        "published_date": "Sun, 26 Oct 2025 19:15:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.182486"
+      },
+      "74724dca283ccfddb665aad5c388c2b7ec5e0d1b94010968c4f076f6c3d008d3": {
+        "title": "智元精灵G2，工业机器人标杆还是资本的新故事？",
+        "link": "https://www.tmtpost.com/7738244.html",
+        "published_date": "Sun, 26 Oct 2025 19:13:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.182682"
+      },
+      "20de36c6661a9a242ebda69ece33e0c2c85563e7fba0bf4195f6f62d74435558": {
+        "title": "剑宗与气宗的“双向奔赴”：宇树、智元殊途同归",
+        "link": "https://www.tmtpost.com/7738473.html",
+        "published_date": "Sun, 26 Oct 2025 19:13:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.182906"
+      },
+      "ff5916c2e9ec5815bd5b1dc9f22efafed0aba79af0208ecb42701c611d1ecc4d": {
+        "title": "从协同到增长：AI 如何驱动企业效能跃升",
+        "link": "https://www.infoq.cn/video/A9rdZDvjZajXgXcks23A?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 26 Oct 2025 18:43:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.183145"
+      },
+      "47d2d646d4a1c117878079e117a3636c9de30970a74619e6c45cd95885625777": {
+        "title": "App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光",
+        "link": "https://sspai.com/post/102928",
+        "published_date": "Sun, 26 Oct 2025 17:18:00 GMT",
+        "first_seen": "2025-10-26T23:18:21.183530"
       }
     },
     "Finance": {
@@ -16144,36 +16006,6 @@
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2c5de7ad-a663-47a4-a5a6-85641e988821&mod=mw_rss_bulletins",
         "published_date": "Fri, 26 Sep 2025 14:41:00 GMT",
         "first_seen": "2025-09-26T23:18:35.160014"
-      },
-      "65ab4c645c5afe894ca42dbbf8b68dd00ddf3c2221b77e0e88ec00895236562f": {
-        "title": "People keep pushing bitcoin on me, but it crashes regularly. What am I missing?",
-        "link": "https://www.marketwatch.com/story/people-have-predicted-dollar-doom-for-decades-what-makes-this-time-actually-different-c3521a9d?mod=mw_rss_topstories",
-        "published_date": "Fri, 26 Sep 2025 22:09:00 GMT",
-        "first_seen": "2025-09-26T23:17:46.875005"
-      },
-      "b5105838ce3b9a103cd64697e453580faac8d6b940dba5a4c606ed799579c4f6": {
-        "title": "The new bill tweaking Social Security’s retirement-age language may be fixing the wrong problem",
-        "link": "https://www.marketwatch.com/story/the-new-bill-tweaking-social-securitys-retirement-age-language-may-be-fixing-the-wrong-problem-05cffc04?mod=mw_rss_topstories",
-        "published_date": "Fri, 26 Sep 2025 21:52:00 GMT",
-        "first_seen": "2025-09-26T23:17:46.878364"
-      },
-      "c42f0c1a316929fe25370b7d81565c9580f50e3bcdd779004d689eb6bea8403b": {
-        "title": "Sinclair, Nexstar end boycott of Jimmy Kimmel show",
-        "link": "https://www.marketwatch.com/story/sinclair-ends-boycott-of-jimmy-kimmel-show-putting-pressure-on-nexstar-to-bring-program-back-b40d0ec0?mod=mw_rss_topstories",
-        "published_date": "Fri, 26 Sep 2025 21:33:00 GMT",
-        "first_seen": "2025-09-26T23:17:46.880234"
-      },
-      "7694da37237093039c70052b0d18efc9a1b9f31fb57d2962168f256f2eb7bdae": {
-        "title": "Boeing’s stock takes off as some 737 Max restrictions set to ease",
-        "link": "https://www.marketwatch.com/story/boeings-stock-takes-off-as-max-737-restrictions-look-set-to-ease-276ee3f4?mod=mw_rss_topstories",
-        "published_date": "Fri, 26 Sep 2025 20:53:00 GMT",
-        "first_seen": "2025-09-26T23:17:46.883004"
-      },
-      "8dc23d7d6cc9546a3ba37c6064b12e69502646754c26bad00332848ce84931d2": {
-        "title": "Who is Howie Rubin, the money manager charged with sex trafficking and torturing women?",
-        "link": "https://www.marketwatch.com/story/who-is-howie-rubin-the-money-manager-charged-with-sex-trafficking-and-torturing-women-ef5699c7?mod=mw_rss_topstories",
-        "published_date": "Fri, 26 Sep 2025 20:47:00 GMT",
-        "first_seen": "2025-09-26T23:17:46.888500"
       },
       "7ee1337e272e598c0165396e8a08f23c1d12cb302e8b022e7f2b50c1678607b6": {
         "title": "Why Trump wants to help Argentina despite his ‘America First’ agenda",
@@ -17846,8 +17678,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-26T08:24:30.336495",
-    "Technology": "2025-10-26T08:24:30.389163",
-    "Finance": "2025-10-26T08:24:30.227921"
+    "AI": "2025-10-26T23:18:21.152844",
+    "Technology": "2025-10-26T23:18:21.206398",
+    "Finance": "2025-10-26T23:18:21.041025"
   }
 }
