@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Oct 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2025 08:29:06 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 23:18:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从辅助驾驶到无人驾驶出租车，Mobileye展现技术与商业化双重实力</title>
-      <link>https://www.qbitai.com/2025/10/346319.html</link>
-      <description>&lt;![CDATA[从辅助驾驶到无人驾驶出租车，Mobileye展现技术与商业化双重实力]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 07:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346319.html</guid>
+      <title>How we are building the personal health coach</title>
+      <link>https://research.google/blog/how-we-are-building-the-personal-health-coach/</link>
+      <description>&lt;![CDATA[How we are building the personal health coach]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 22:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/how-we-are-building-the-personal-health-coach/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>美团视频生成模型来了！一出手就是开源SOTA</title>
-      <link>https://www.qbitai.com/2025/10/346287.html</link>
-      <description>&lt;![CDATA[美团视频生成模型来了！一出手就是开源SOTA]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346287.html</guid>
+      <title>比尔盖茨女儿也AI创业了！时尚电商，刚被塞了800万美元投资</title>
+      <link>https://www.qbitai.com/2025/10/346390.html</link>
+      <description>&lt;![CDATA[比尔盖茨女儿也AI创业了！时尚电商，刚被塞了800万美元投资]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 09:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346390.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局</title>
-      <link>https://www.qbitai.com/2025/10/346201.html</link>
-      <description>&lt;![CDATA[直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 07:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346201.html</guid>
+      <title>保时捷营业利润暴跌99%，卖最好的燃油Macan却要停产</title>
+      <link>https://www.qbitai.com/2025/10/346362.html</link>
+      <description>&lt;![CDATA[保时捷营业利润暴跌99%，卖最好的燃油Macan却要停产]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 09:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346362.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>拜拜了GUI！中科院团队“LLM友好”计算机使用接口来了</title>
-      <link>https://www.qbitai.com/2025/10/346262.html</link>
-      <description>&lt;![CDATA[拜拜了GUI！中科院团队“LLM友好”计算机使用接口来了]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 06:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346262.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>这种眼镜我建议外卖快递小哥人手一个</title>
-      <link>https://www.qbitai.com/2025/10/346206.html</link>
-      <description>&lt;![CDATA[这种眼镜我建议外卖快递小哥人手一个]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 06:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346206.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>智元办机器人挑战赛：清华&amp;上海AILab夺冠，华南理工“单人成团”拿亚军</title>
-      <link>https://www.qbitai.com/2025/10/346182.html</link>
-      <description>&lt;![CDATA[智元办机器人挑战赛：清华&amp;上海AILab夺冠，华南理工“单人成团”拿亚军]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 06:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346182.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OpenAI产品线拉出来吓我一跳，奥特曼不愧是YC出身</title>
-      <link>https://www.qbitai.com/2025/10/346127.html</link>
-      <description>&lt;![CDATA[OpenAI产品线拉出来吓我一跳，奥特曼不愧是YC出身]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346127.html</guid>
+      <title>零一万物高管新阵容亮相，李开复加码布局ToB 2.0</title>
+      <link>https://www.qbitai.com/2025/10/346334.html</link>
+      <description>&lt;![CDATA[零一万物高管新阵容亮相，李开复加码布局ToB 2.0]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 08:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346334.html</guid>
       <category>AI</category>
     </item>
   </channel>
