@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-27 05:26
+**最后更新时间**: 2025-10-27 08:29
+
+---
+
+## 🆕 最新更新 (2025-10-27 08:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [汇丰科技25年丨植根中国，服务全球，加速金融创新和数字化进程](https://www.infoq.cn/article/oRmckq78ykcL53oPPjlt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 15:27
+
+#### [决战紫金之巅 —— 云谷杯 · 2025人工智能应用创新创业大赛报名中！](https://www.infoq.cn/video/d4HGRQi8PyOTvPvzIzbN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 15:08
+
+#### [为什么软件工程治理很重要：降低风险但不拖累速度](https://www.infoq.cn/article/8cG4Je2D5dPcmRehgGbJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 14:00
+
+#### [开源共建重塑推理 Infra：从架构创新到生态协同，Mooncake的破局之路](https://www.infoq.cn/article/qkXP2hrmdQBLJEop4h6m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 10:49
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [神舟二十一号发射前，中美来了个“太空互拍对决”，谁更胜一筹？](http://www.huxiu.com/article/4797104.html?f=wangzhan)
+**发布时间**: 2025-10-27 15:00
+
+#### [一枚微芯片+一副眼镜，如何让盲人重获看到世界的能力？](http://www.huxiu.com/article/4796548.html?f=wangzhan)
+**发布时间**: 2025-10-27 13:54
+
+#### [150亿美元比特币遭没收，柬埔寨华人巨鳄骗局覆灭](http://www.huxiu.com/article/4797018.html?f=wangzhan)
+**发布时间**: 2025-10-27 13:00
+
+#### [是谁让中国稀土“逆袭”成王者？](http://www.huxiu.com/article/4796439.html?f=wangzhan)
+**发布时间**: 2025-10-27 10:50
+
+#### [从100万亿到140万亿，中国下一个五年藏着什么密码？](http://www.huxiu.com/article/4796664.html?f=wangzhan)
+**发布时间**: 2025-10-27 10:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我的双十一男装清单：从基础大牌到私藏好店](https://sspai.com/post/103360)
+**发布时间**: 2025-10-27 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [​一个对话助理，如何盘活整个「夸克宇宙」？](http://www.geekpark.net/news/355583)
+**发布时间**: 2025-10-27 14:08
 
 ---
 

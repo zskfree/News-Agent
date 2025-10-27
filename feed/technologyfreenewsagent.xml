@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Oct 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2025 05:27:30 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 08:29:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mirantis的Kubernetes管理平台k0rdent发布1.2.0版本</title>
-      <link>https://www.infoq.cn/article/ra8xfvOEq84VM3tUOIBK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Mirantis的Kubernetes管理平台k0rdent发布1.2.0版本]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ra8xfvOEq84VM3tUOIBK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>汇丰科技25年丨植根中国，服务全球，加速金融创新和数字化进程</title>
+      <link>https://www.infoq.cn/article/oRmckq78ykcL53oPPjlt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[汇丰科技25年丨植根中国，服务全球，加速金融创新和数字化进程]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oRmckq78ykcL53oPPjlt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要</title>
-      <link>https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要]]&gt;</description>
+      <title>决战紫金之巅 —— 云谷杯 · 2025人工智能应用创新创业大赛报名中！</title>
+      <link>https://www.infoq.cn/video/d4HGRQi8PyOTvPvzIzbN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[决战紫金之巅 —— 云谷杯 · 2025人工智能应用创新创业大赛报名中！]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/d4HGRQi8PyOTvPvzIzbN?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>开源共建重塑推理 Infra：从架构创新到生态协同，Mooncake的破局之路</title>
+      <link>https://www.infoq.cn/article/qkXP2hrmdQBLJEop4h6m?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源共建重塑推理 Infra：从架构创新到生态协同，Mooncake的破局之路]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 10:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qkXP2hrmdQBLJEop4h6m?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>一枚微芯片+一副眼镜，如何让盲人重获看到世界的能力？</title>
+      <link>http://www.huxiu.com/article/4796548.html?f=wangzhan</link>
+      <description>&lt;![CDATA[一枚微芯片+一副眼镜，如何让盲人重获看到世界的能力？]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4796548.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么软件工程治理很重要：降低风险但不拖累速度</title>
+      <link>https://www.infoq.cn/article/8cG4Je2D5dPcmRehgGbJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么软件工程治理很重要：降低风险但不拖累速度]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8cG4Je2D5dPcmRehgGbJ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>神舟二十一号发射前，中美来了个“太空互拍对决”，谁更胜一筹？</title>
+      <link>http://www.huxiu.com/article/4797104.html?f=wangzhan</link>
+      <description>&lt;![CDATA[神舟二十一号发射前，中美来了个“太空互拍对决”，谁更胜一筹？]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4797104.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>150亿美元比特币遭没收，柬埔寨华人巨鳄骗局覆灭</title>
+      <link>http://www.huxiu.com/article/4797018.html?f=wangzhan</link>
+      <description>&lt;![CDATA[150亿美元比特币遭没收，柬埔寨华人巨鳄骗局覆灭]]&gt;</description>
       <pubDate>Mon, 27 Oct 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4797018.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Terraform正式发布Google Cloud Provider 7.0</title>
-      <link>https://www.infoq.cn/article/jbWEJhdmlpW18Kd8wjXN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Terraform正式发布Google Cloud Provider 7.0]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jbWEJhdmlpW18Kd8wjXN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>是谁让中国稀土“逆袭”成王者？</title>
+      <link>http://www.huxiu.com/article/4796439.html?f=wangzhan</link>
+      <description>&lt;![CDATA[是谁让中国稀土“逆袭”成王者？]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4796439.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 Kafka 架构显露“疲态”：共享存储领域正迎来创新变革</title>
-      <link>https://www.infoq.cn/article/OGyUaIfDwSHzByidNlM0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 Kafka 架构显露“疲态”：共享存储领域正迎来创新变革]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OGyUaIfDwSHzByidNlM0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从100万亿到140万亿，中国下一个五年藏着什么密码？</title>
+      <link>http://www.huxiu.com/article/4796664.html?f=wangzhan</link>
+      <description>&lt;![CDATA[从100万亿到140万亿，中国下一个五年藏着什么密码？]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4796664.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>.NET 10发布RC2，完善SDK、MAUI稳定版和MSBuild改进</title>
-      <link>https://www.infoq.cn/article/lNKemEjpDi0iBY6DOKBT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[.NET 10发布RC2，完善SDK、MAUI稳定版和MSBuild改进]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lNKemEjpDi0iBY6DOKBT?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>人形机器人，带火这些国产芯片</title>
-      <link>https://www.tmtpost.com/7738999.html</link>
-      <description>&lt;![CDATA[人形机器人，带火这些国产芯片]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7738999.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Couchbase 梦工厂开工！带你做出用户体验满分的 AI 应用</title>
-      <link>https://www.infoq.cn/video/bY11objIewF3dew4j0l8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Couchbase 梦工厂开工！带你做出用户体验满分的 AI 应用]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/bY11objIewF3dew4j0l8?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>九识智能：基于 JuiceFS 的自动驾驶多云亿级文件存储</title>
-      <link>https://www.infoq.cn/article/1O3cXWoMcXuQmQ5Qp5w0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[九识智能：基于 JuiceFS 的自动驾驶多云亿级文件存储]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1O3cXWoMcXuQmQ5Qp5w0?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>还在拼命加 GPU？AI 应用规模化的下半场，拼的是这五大软件“新基建”</title>
-      <link>https://www.infoq.cn/article/0iLfflQxg0XxtFmDgbFZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[还在拼命加 GPU？AI 应用规模化的下半场，拼的是这五大软件“新基建”]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0iLfflQxg0XxtFmDgbFZ?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>传月之暗面将完成数亿美元融资；田渊栋揭露Meta乱象；OpenAI研究团队关键KPI向流量看齐 | AI周报</title>
-      <link>https://www.infoq.cn/article/3sBCTLgEwtAVA8Zk3LqJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[传月之暗面将完成数亿美元融资；田渊栋揭露Meta乱象；OpenAI研究团队关键KPI向流量看齐 | AI周报]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3sBCTLgEwtAVA8Zk3LqJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>我的双十一男装清单：从基础大牌到私藏好店</title>
+      <link>https://sspai.com/post/103360</link>
+      <description>&lt;![CDATA[我的双十一男装清单：从基础大牌到私藏好店]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/103360</guid>
       <category>Technology</category>
     </item>
   </channel>
