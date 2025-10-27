@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-26 23:18
+**最后更新时间**: 2025-10-27 05:26
+
+---
+
+## 🆕 最新更新 (2025-10-27 05:26)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要](https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 13:00
+
+#### [Terraform正式发布Google Cloud Provider 7.0](https://www.infoq.cn/article/jbWEJhdmlpW18Kd8wjXN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 12:00
+
+#### [Couchbase 梦工厂开工！带你做出用户体验满分的 AI 应用](https://www.infoq.cn/video/bY11objIewF3dew4j0l8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 11:58
+
+#### [九识智能：基于 JuiceFS 的自动驾驶多云亿级文件存储](https://www.infoq.cn/article/1O3cXWoMcXuQmQ5Qp5w0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 11:23
+
+#### [还在拼命加 GPU？AI 应用规模化的下半场，拼的是这五大软件“新基建”](https://www.infoq.cn/article/0iLfflQxg0XxtFmDgbFZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 11:09
+
+#### [Mirantis的Kubernetes管理平台k0rdent发布1.2.0版本](https://www.infoq.cn/article/ra8xfvOEq84VM3tUOIBK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 11:00
+
+#### [当 Kafka 架构显露“疲态”：共享存储领域正迎来创新变革](https://www.infoq.cn/article/OGyUaIfDwSHzByidNlM0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 10:53
+
+#### [传月之暗面将完成数亿美元融资；田渊栋揭露Meta乱象；OpenAI研究团队关键KPI向流量看齐 | AI周报](https://www.infoq.cn/article/3sBCTLgEwtAVA8Zk3LqJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 10:48
+
+#### [如何为 GPU 提供充足存储：AI 训练中的存储性能与扩展性](https://www.infoq.cn/article/J8JgAWFsDZ7aF6PxTeXr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 10:21
+
+#### [LangChain彻底重写：从开源副业到独角兽，一次“核心迁移”干到 12.5 亿估值](https://www.infoq.cn/article/OSEpqr1rIQdRoU6uaFhV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 10:09
+
+#### [.NET 10发布RC2，完善SDK、MAUI稳定版和MSBuild改进](https://www.infoq.cn/article/lNKemEjpDi0iBY6DOKBT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-27 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从“项目交付”到“价值交付”，AI步入“工业化”时代 | ToB产业观察](https://www.tmtpost.com/7738941.html)
+**发布时间**: 2025-10-27 12:01
+
+#### [【产业互联网周报】全球多家网站突然瘫痪，与亚马逊云服务有关；寒武纪近40亿元定增完成；DeepSeek团队开源新模型DeepSeek-OCR](https://www.tmtpost.com/7739047.html)
+**发布时间**: 2025-10-27 11:54
+
+#### [卷入“东风汽车贪腐案”，森特股份董事长行贿、围标细节曝光](https://www.tmtpost.com/7738844.html)
+**发布时间**: 2025-10-27 11:53
+
+#### [中国餐饮，到底要不要学日本？](https://www.tmtpost.com/7738993.html)
+**发布时间**: 2025-10-27 11:46
+
+#### [英特尔曙光初现？重整之路道阻且长](https://www.tmtpost.com/7738877.html)
+**发布时间**: 2025-10-27 11:40
+
+#### [扎克伯格的AI突围战：裁员与挖人的背后，Meta的破局之道](https://www.tmtpost.com/7739003.html)
+**发布时间**: 2025-10-27 11:35
+
+#### [人形机器人，带火这些国产芯片](https://www.tmtpost.com/7738999.html)
+**发布时间**: 2025-10-27 11:31
+
+#### [“失魂”五载后，蓝帆医疗将明天“赌”在心血管上](https://www.tmtpost.com/7738988.html)
+**发布时间**: 2025-10-27 11:28
+
+#### [海底捞开汉堡店，要和麦肯抢生意？](https://www.tmtpost.com/7738995.html)
+**发布时间**: 2025-10-27 11:27
+
+#### [靠充值，沙特能否成为算力中心？](https://www.tmtpost.com/7739007.html)
+**发布时间**: 2025-10-27 11:27
+
+#### [优艾智合：7年“烧光”11.82亿，资金链或已亮起“红灯”| IPO观察](https://www.tmtpost.com/7734043.html)
+**发布时间**: 2025-10-27 10:42
+
+#### [“小型固体火箭第一股”交最差成绩单，前三季度净利下降271%｜看财报](https://www.tmtpost.com/7738930.html)
+**发布时间**: 2025-10-27 10:36
+
+#### [“县城”高端酒店AB面：降价都卖不掉，为何还在疯狂开？](https://www.tmtpost.com/7738830.html)
+**发布时间**: 2025-10-27 10:21
+
+#### [豆包们，开始“上链接”](https://www.tmtpost.com/7738786.html)
+**发布时间**: 2025-10-27 10:19
+
+#### [精读DeepSeek OCR论文，我远远看到了「世界模型」的轮廓](https://www.tmtpost.com/7738822.html)
+**发布时间**: 2025-10-27 10:19
+
+#### [Huawei's HarmonyOS 6 Pushes Toward System-Level AI as Smartphone Race Shifts to Intelligence](https://www.tmtpost.com/7738826.html)
+**发布时间**: 2025-10-27 09:45
+
+#### [全球再裁3万人，奔驰被逼到悬崖边上](https://www.tmtpost.com/7737470.html)
+**发布时间**: 2025-10-27 09:37
+
+#### [“韩寒系”的崛起与转折](https://www.tmtpost.com/7738686.html)
+**发布时间**: 2025-10-27 09:30
+
+#### [Neocloud“云端对决”：一场举债扩张下的AI高风险进击](https://www.tmtpost.com/7738669.html)
+**发布时间**: 2025-10-27 09:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [门槛更高，玩法更多：Android 骑行码表 Hammerhead Karoo 3 体验](https://sspai.com/post/103148)
+**发布时间**: 2025-10-27 11:02
+
+#### [派早报：苹果调查橙色 iPhone 17 Pro 变色问题](https://sspai.com/post/103362)
+**发布时间**: 2025-10-27 08:59
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克 xAI 上新款「虚拟女友」；传小米 17 Air 明年上；996 成美国创业者美德](http://www.geekpark.net/news/355551)
+**发布时间**: 2025-10-27 08:44
 
 ---
 

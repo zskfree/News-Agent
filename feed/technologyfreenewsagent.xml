@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Oct 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Oct 2025 23:18:21 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 05:27:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>8888元一桌的高端婚宴，全是预制菜？</title>
-      <link>http://www.huxiu.com/article/4796518.html?f=wangzhan</link>
-      <description>&lt;![CDATA[8888元一桌的高端婚宴，全是预制菜？]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 23:37:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4796518.html?f=wangzhan</guid>
+      <title>Mirantis的Kubernetes管理平台k0rdent发布1.2.0版本</title>
+      <link>https://www.infoq.cn/article/ra8xfvOEq84VM3tUOIBK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Mirantis的Kubernetes管理平台k0rdent发布1.2.0版本]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ra8xfvOEq84VM3tUOIBK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“水果第一股”被取消上市地位，一场从600亿归零的资本迷局</title>
-      <link>https://www.tmtpost.com/7738555.html</link>
-      <description>&lt;![CDATA[“水果第一股”被取消上市地位，一场从600亿归零的资本迷局]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7738555.html</guid>
+      <title>自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要</title>
+      <link>https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿斯顿·马丁下调全年盈利预期，知名豪车巨头们这是怎么了？</title>
-      <link>https://www.tmtpost.com/7738467.html</link>
-      <description>&lt;![CDATA[阿斯顿·马丁下调全年盈利预期，知名豪车巨头们这是怎么了？]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 19:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7738467.html</guid>
+      <title>Terraform正式发布Google Cloud Provider 7.0</title>
+      <link>https://www.infoq.cn/article/jbWEJhdmlpW18Kd8wjXN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Terraform正式发布Google Cloud Provider 7.0]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jbWEJhdmlpW18Kd8wjXN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智元精灵G2，工业机器人标杆还是资本的新故事？</title>
-      <link>https://www.tmtpost.com/7738244.html</link>
-      <description>&lt;![CDATA[智元精灵G2，工业机器人标杆还是资本的新故事？]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7738244.html</guid>
+      <title>当 Kafka 架构显露“疲态”：共享存储领域正迎来创新变革</title>
+      <link>https://www.infoq.cn/article/OGyUaIfDwSHzByidNlM0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 Kafka 架构显露“疲态”：共享存储领域正迎来创新变革]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OGyUaIfDwSHzByidNlM0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>剑宗与气宗的“双向奔赴”：宇树、智元殊途同归</title>
-      <link>https://www.tmtpost.com/7738473.html</link>
-      <description>&lt;![CDATA[剑宗与气宗的“双向奔赴”：宇树、智元殊途同归]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7738473.html</guid>
+      <title>.NET 10发布RC2，完善SDK、MAUI稳定版和MSBuild改进</title>
+      <link>https://www.infoq.cn/article/lNKemEjpDi0iBY6DOKBT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[.NET 10发布RC2，完善SDK、MAUI稳定版和MSBuild改进]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lNKemEjpDi0iBY6DOKBT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从协同到增长：AI 如何驱动企业效能跃升</title>
-      <link>https://www.infoq.cn/video/A9rdZDvjZajXgXcks23A?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从协同到增长：AI 如何驱动企业效能跃升]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/A9rdZDvjZajXgXcks23A?utm_source=rss&amp;utm_medium=article</guid>
+      <title>人形机器人，带火这些国产芯片</title>
+      <link>https://www.tmtpost.com/7738999.html</link>
+      <description>&lt;![CDATA[人形机器人，带火这些国产芯片]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7738999.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光</title>
-      <link>https://sspai.com/post/102928</link>
-      <description>&lt;![CDATA[App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 17:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/102928</guid>
+      <title>Couchbase 梦工厂开工！带你做出用户体验满分的 AI 应用</title>
+      <link>https://www.infoq.cn/video/bY11objIewF3dew4j0l8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Couchbase 梦工厂开工！带你做出用户体验满分的 AI 应用]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/bY11objIewF3dew4j0l8?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>九识智能：基于 JuiceFS 的自动驾驶多云亿级文件存储</title>
+      <link>https://www.infoq.cn/article/1O3cXWoMcXuQmQ5Qp5w0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[九识智能：基于 JuiceFS 的自动驾驶多云亿级文件存储]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1O3cXWoMcXuQmQ5Qp5w0?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>还在拼命加 GPU？AI 应用规模化的下半场，拼的是这五大软件“新基建”</title>
+      <link>https://www.infoq.cn/article/0iLfflQxg0XxtFmDgbFZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[还在拼命加 GPU？AI 应用规模化的下半场，拼的是这五大软件“新基建”]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0iLfflQxg0XxtFmDgbFZ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>传月之暗面将完成数亿美元融资；田渊栋揭露Meta乱象；OpenAI研究团队关键KPI向流量看齐 | AI周报</title>
+      <link>https://www.infoq.cn/article/3sBCTLgEwtAVA8Zk3LqJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[传月之暗面将完成数亿美元融资；田渊栋揭露Meta乱象；OpenAI研究团队关键KPI向流量看齐 | AI周报]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3sBCTLgEwtAVA8Zk3LqJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

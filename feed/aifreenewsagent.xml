@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Oct 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Oct 2025 05:19:45 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 05:26:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI被曝瞄准AI音乐赛道商业化，Suno首当其冲</title>
-      <link>https://www.qbitai.com/2025/10/346019.html</link>
-      <description>&lt;![CDATA[OpenAI被曝瞄准AI音乐赛道商业化，Suno首当其冲]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 04:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346019.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>破解AI对不同上下⽂位置的敏感度不⼀致，新框架使出“解铃还须系铃人”</title>
-      <link>https://www.qbitai.com/2025/10/346004.html</link>
-      <description>&lt;![CDATA[破解AI对不同上下⽂位置的敏感度不⼀致，新框架使出“解铃还须系铃人”]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 04:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346004.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>P图老本事搭上了对话框，美图这AI Agent到底香不香？</title>
-      <link>https://www.qbitai.com/2025/10/345896.html</link>
-      <description>&lt;![CDATA[P图老本事搭上了对话框，美图这AI Agent到底香不香？]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345896.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>盲人复明！马斯克Neuralink联创实现人工视觉里程碑</title>
-      <link>https://www.qbitai.com/2025/10/345914.html</link>
-      <description>&lt;![CDATA[盲人复明！马斯克Neuralink联创实现人工视觉里程碑]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345914.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>5个大疆离职员工，把3D打印带回风口</title>
-      <link>https://www.qbitai.com/2025/10/345837.html</link>
-      <description>&lt;![CDATA[5个大疆离职员工，把3D打印带回风口]]&gt;</description>
-      <pubDate>Sun, 26 Oct 2025 00:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/345837.html</guid>
+      <title>OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街</title>
+      <link>https://www.qbitai.com/2025/10/346103.html</link>
+      <description>&lt;![CDATA[OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街]]&gt;</description>
+      <pubDate>Mon, 27 Oct 2025 04:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346103.html</guid>
       <category>AI</category>
     </item>
   </channel>
