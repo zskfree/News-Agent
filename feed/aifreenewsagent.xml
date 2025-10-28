@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Oct 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2025 23:18:43 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2025 05:21:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>How we are building the personal health coach</title>
-      <link>https://research.google/blog/how-we-are-building-the-personal-health-coach/</link>
-      <description>&lt;![CDATA[How we are building the personal health coach]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 22:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/how-we-are-building-the-personal-health-coach/</guid>
+      <title>全球开源大模型杭州霸榜被终结，上海Minimax M2发布即爆单，百万Tokens仅需8元人民币</title>
+      <link>https://www.qbitai.com/2025/10/346476.html</link>
+      <description>&lt;![CDATA[全球开源大模型杭州霸榜被终结，上海Minimax M2发布即爆单，百万Tokens仅需8元人民币]]&gt;</description>
+      <pubDate>Tue, 28 Oct 2025 01:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346476.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>比尔盖茨女儿也AI创业了！时尚电商，刚被塞了800万美元投资</title>
-      <link>https://www.qbitai.com/2025/10/346390.html</link>
-      <description>&lt;![CDATA[比尔盖茨女儿也AI创业了！时尚电商，刚被塞了800万美元投资]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346390.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>保时捷营业利润暴跌99%，卖最好的燃油Macan却要停产</title>
-      <link>https://www.qbitai.com/2025/10/346362.html</link>
-      <description>&lt;![CDATA[保时捷营业利润暴跌99%，卖最好的燃油Macan却要停产]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 09:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346362.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>零一万物高管新阵容亮相，李开复加码布局ToB 2.0</title>
-      <link>https://www.qbitai.com/2025/10/346334.html</link>
-      <description>&lt;![CDATA[零一万物高管新阵容亮相，李开复加码布局ToB 2.0]]&gt;</description>
-      <pubDate>Mon, 27 Oct 2025 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346334.html</guid>
+      <title>Thinking Machine新研究刷屏！结合RL+微调，小模型训练更具性价比</title>
+      <link>https://www.qbitai.com/2025/10/346426.html</link>
+      <description>&lt;![CDATA[Thinking Machine新研究刷屏！结合RL+微调，小模型训练更具性价比]]&gt;</description>
+      <pubDate>Tue, 28 Oct 2025 01:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346426.html</guid>
       <category>AI</category>
     </item>
   </channel>

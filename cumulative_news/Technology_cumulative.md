@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-27 23:18
+**最后更新时间**: 2025-10-28 05:21
+
+---
+
+## 🆕 最新更新 (2025-10-28 05:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [东莞探路“制造美学”：从“产品输出”到“价值输出”的全球新航程](https://www.tmtpost.com/7740630.html)
+**发布时间**: 2025-10-28 13:06
+
+#### [当拼多多登上联合国讲台：中国式农业创新何以成全球样本](https://www.tmtpost.com/7739368.html)
+**发布时间**: 2025-10-28 12:24
+
+#### [搞终身免票，景区终于不死磕门票了](https://www.tmtpost.com/7740438.html)
+**发布时间**: 2025-10-28 12:22
+
+#### [万亿巨头杀入储能，真正的超级“卷王”来了](https://www.tmtpost.com/7740371.html)
+**发布时间**: 2025-10-28 11:40
+
+#### [瑞士安全科技公司Anapaya Systems研发SCOIN互联网架构，保障互联网数据传输安全 | 瑞士创新100强](https://www.tmtpost.com/7740338.html)
+**发布时间**: 2025-10-28 11:40
+
+#### [AI Offers Solution for the Media Industry Despite Risks, Says Founder of NextFin.AI at NEX-T Summit](https://www.tmtpost.com/7740532.html)
+**发布时间**: 2025-10-28 11:17
+
+#### [Walmart Names Liu Peng President of Sam's Club China Amid Expansion and Food Safety Challenges](https://www.tmtpost.com/7740524.html)
+**发布时间**: 2025-10-28 11:12
+
+#### [精密电流感测元件领军企业「普森美」完成数亿元A+轮融资 | 融资首发](https://www.tmtpost.com/7740405.html)
+**发布时间**: 2025-10-28 10:32
+
+#### [Neolix Raises $600 Million in Landmark Series D to Expand Autonomous Delivery Fleet](https://www.tmtpost.com/7740444.html)
+**发布时间**: 2025-10-28 10:20
+
+#### [对话新石器无人车CEO余恩源：2027年，全球无人配送车的需求量将超过10万台](https://www.tmtpost.com/7740255.html)
+**发布时间**: 2025-10-28 09:03
+
+#### [3年吸金42亿美金，长时储能将迎来第一股？](https://www.tmtpost.com/7740053.html)
+**发布时间**: 2025-10-28 08:30
+
+#### [科股早知道：全球核聚变竞赛正持续升温，到2050年市场规模有望突破40万亿美元](https://www.tmtpost.com/7740146.html)
+**发布时间**: 2025-10-28 08:00
+
+#### [荣耀的ROBOT PHONE，李健能“赌”赢吗？](https://www.tmtpost.com/7739994.html)
+**发布时间**: 2025-10-28 08:00
+
+#### [【钛晨报】事关公开市场国债买卖、数字人民币，潘功胜、李云泽、吴清、朱鹤新重磅发声速览；高通推出人工智能芯片；油价下调，加满一箱油能少花10.5元](https://www.tmtpost.com/7740033.html)
+**发布时间**: 2025-10-28 07:20
+
+#### [“歼-10C概念股”拟收购成都凌轩精密控制权，加码导弹零部件；“对日软件第一股”拟控股收购凯美瑞德；【并购一线】](https://www.tmtpost.com/7740071.html)
+**发布时间**: 2025-10-27 23:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [PyTorch Monarch通过单控制器模型简化了分布式AI工作流](https://www.infoq.cn/article/TthSSoBJQCZrYv1uaID5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 13:00
+
+#### [Uno Platform 6.3新增.NET 10预览版支持，并为VS 2026做好准备](https://www.infoq.cn/article/Kql1zUw4dkmOsgWVBrhL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 12:00
+
+#### [DeepSeek-OCR 开源：基于视觉的上下文压缩重新定义长文本处理](https://www.infoq.cn/article/GyGveIaHXyTJTtGdWXcw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 11:00
+
+#### [Deno 2.5提供了对权限集和测试API钩子的支持](https://www.infoq.cn/article/1FTVCQl4bz0G7TFENiEO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 10:26
+
+#### [比小说还“野”！宿舍副业 AI 项目征服全美高校，俩20岁辍学大学生年赚千万，大批融资找上门全拒](https://www.infoq.cn/article/wmLJtSt1voIKqFjqH9w8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 09:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝](https://sspai.com/post/103368)
+**发布时间**: 2025-10-28 11:30
+
+#### [派早报：一加发布一加 15 等新机，AMD 发布锐龙 10 系列新处理器等](https://sspai.com/post/103377)
+**发布时间**: 2025-10-28 07:47
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [当骗子用起AI，父母该如何防骗？](http://www.huxiu.com/article/4797216.html?f=wangzhan)
+**发布时间**: 2025-10-28 11:10
+
+#### [跨界解决光刻胶难题，缺陷率直降99%，到底是咋回事？](http://www.huxiu.com/article/4797523.html?f=wangzhan)
+**发布时间**: 2025-10-28 10:40
+
+#### [别只盯着计算机，这个冷门专业成了最火金饭碗](http://www.huxiu.com/article/4797343.html?f=wangzhan)
+**发布时间**: 2025-10-28 08:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [每周100万人与ChatGPT聊自杀；美团推全国骑手社保补贴；高通发AI芯片，股价暴涨20%](http://www.geekpark.net/news/355612)
+**发布时间**: 2025-10-28 08:47
 
 ---
 
