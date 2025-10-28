@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "fd1362aa829c29bbbc8f1cb856e9cb5015d80990dffe6a74953f7a04a08c9654": {
-        "title": "9家最值得关注的创新之星来了！73位投资人现场评选丨Demo China大揭密",
-        "link": "https://www.qbitai.com/2025/09/337863.html",
-        "published_date": "Sun, 28 Sep 2025 08:11:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.675851"
-      },
-      "a8dfd5a1adad4d5b0593e23b49ce0c82f5ee9f51413b48f8733a630a5763d4e7": {
-        "title": "黄仁勋：OpenAI融资时英伟达太穷，当时应该把所有钱都给他们",
-        "link": "https://www.qbitai.com/2025/09/337848.html",
-        "published_date": "Sun, 28 Sep 2025 07:48:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.676025"
-      },
-      "7d8a05be8257067da0077dbe55f4184a8dee1dc89a539050517d38a1b65068be": {
-        "title": "奔驰13亿砸向重庆AI明星！身体还德国，灵魂得中国",
-        "link": "https://www.qbitai.com/2025/09/337760.html",
-        "published_date": "Sun, 28 Sep 2025 07:04:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.676197"
-      },
-      "0d15dfbe10ce3886038ee884886150238cd2443bd31340aef16e844689328d70": {
-        "title": "Gemini灵魂人物加盟xAI，马斯克亲自夹道欢迎！",
-        "link": "https://www.qbitai.com/2025/09/337739.html",
-        "published_date": "Sun, 28 Sep 2025 06:25:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.676426"
-      },
       "8e27f313d6b8c43a2a3aaf49cc5f3ef7fa6734056a107f27fbd09d4b1b957a3c": {
         "title": "合资醒了！别克「最强增程豪华轿车」17万开卖，盲订就破2万台",
         "link": "https://www.qbitai.com/2025/09/337881.html",
@@ -4458,123 +4434,27 @@
         "link": "https://www.qbitai.com/2025/10/346426.html",
         "published_date": "Tue, 28 Oct 2025 01:32:00 GMT",
         "first_seen": "2025-10-28T05:21:23.592931"
+      },
+      "b89b87161a26ea3122418959fddd9d906d28f08d073cd3cfaa91619defe18bc2": {
+        "title": "华为世界模型来了！单卡30分钟生成272㎡场景",
+        "link": "https://www.qbitai.com/2025/10/346533.html",
+        "published_date": "Tue, 28 Oct 2025 06:27:00 GMT",
+        "first_seen": "2025-10-28T08:29:06.512662"
+      },
+      "bb8f7f631c68c08cb26ae1eb53b2e732f5c606abcba3d3ce5e47bc0c82a789fa": {
+        "title": "赛力斯作价2150亿港元冲刺IPO，22家基石投资者站队",
+        "link": "https://www.qbitai.com/2025/10/346514.html",
+        "published_date": "Tue, 28 Oct 2025 06:22:00 GMT",
+        "first_seen": "2025-10-28T08:29:06.512817"
+      },
+      "a17c07c13decdc277b1aa086ce3711342e7541f6be42fab8565a08277c481177": {
+        "title": "两大数学奖项同时颁给王虹！北大三校友包揽“华人菲尔兹”",
+        "link": "https://www.qbitai.com/2025/10/346498.html",
+        "published_date": "Tue, 28 Oct 2025 06:20:00 GMT",
+        "first_seen": "2025-10-28T08:29:06.512959"
       }
     },
     "Technology": {
-      "4e0d2fcb539500ac108348cadc68e2683b7f20ab86fe3beb81605a02421edc11": {
-        "title": "小米大家电进军欧洲；美团Keeta将在迪拜上线；泡泡玛特美国网站访问量翻番 ｜一周大公司出海动态",
-        "link": "https://www.tmtpost.com/7708953.html",
-        "published_date": "Sun, 28 Sep 2025 16:03:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217458"
-      },
-      "79752ef7de4567025db39a08532747a05b2f3a83ceb81765549adc71447773bb": {
-        "title": "爆品之后，如何长红？中国出海品牌的长效增长之路 ｜ 出海参考",
-        "link": "https://www.tmtpost.com/7708850.html",
-        "published_date": "Sun, 28 Sep 2025 15:51:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217474"
-      },
-      "7c6b82769200d4e6c08d76c9083cdce1799c288e500b668643e55457f788f04a": {
-        "title": "Electronic Arts Nears World's Largest Leveraged Buyout in $48 Billion Deal",
-        "link": "https://www.tmtpost.com/7709085.html",
-        "published_date": "Sun, 28 Sep 2025 15:32:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217489"
-      },
-      "344533f6c0e72e90a822093a6027420b03d226eb82cffd7740b1e7396d410b7d": {
-        "title": "宜家，走进了低价“误区”",
-        "link": "https://www.tmtpost.com/7708802.html",
-        "published_date": "Sun, 28 Sep 2025 15:30:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217502"
-      },
-      "753ae199fc5953a462399f0eb9d535e399485e1aed7463054718bad16447b998": {
-        "title": "「一页纸」讲透美股公司之：Broadcom",
-        "link": "https://www.tmtpost.com/7708684.html",
-        "published_date": "Sun, 28 Sep 2025 14:13:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217513"
-      },
-      "c3bfc1f6fe6118d017d984c5d13f0c2cf8cb00738ede7b3c8ee4a62f7cc55981": {
-        "title": "中康科技“天宫一号健康产业AI应用能力中枢”发布，以卓越医学理解力重塑行业格局",
-        "link": "https://www.tmtpost.com/7708946.html",
-        "published_date": "Sun, 28 Sep 2025 14:07:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217424"
-      },
-      "7d5cf003604e283ac04e633888f1741af86923253a1f92e42e05960870d0b74e": {
-        "title": "万辰集团赴港IPO，零食巨头“好想来”的下一站驶向IP经济？",
-        "link": "https://www.tmtpost.com/7708611.html",
-        "published_date": "Sun, 28 Sep 2025 14:03:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217525"
-      },
-      "29eecbf016b2c1b9aed8e2cb092212cac457943010fd1c088d7123cd7aff1233": {
-        "title": "琻捷电子：三年半合计亏损超10亿，经营现金流失血4.65亿，现金储备告急｜IPO观察",
-        "link": "https://www.tmtpost.com/7701714.html",
-        "published_date": "Sun, 28 Sep 2025 13:48:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217539"
-      },
-      "c39f6cc9915f22e3c9bf78b80a95f2104ff991a3083b9bb4e0cc53a91ca55408": {
-        "title": "永大股份：压力容器撑99%业绩，核心客户订单骤减与募投争议成待解难题｜IPO观察",
-        "link": "https://www.tmtpost.com/7701732.html",
-        "published_date": "Sun, 28 Sep 2025 13:46:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217551"
-      },
-      "c0e2deb54a3cef86a2fde6d51866b6248ed04849c96eff84dd5272f7d72e914f": {
-        "title": "新元素：关键节点股东零价差转让股权，公司持续亏损｜IPO观察",
-        "link": "https://www.tmtpost.com/7703586.html",
-        "published_date": "Sun, 28 Sep 2025 13:45:00 GMT",
-        "first_seen": "2025-09-28T08:24:12.217562"
-      },
-      "2229a17dcf1f58cc29d91db246c4c8765289639f44e84b705006acb393107c3e": {
-        "title": "名酒价格微涨难掩“旺季不旺”，“双节”后白酒行情仍承压｜行业风向标",
-        "link": "https://www.tmtpost.com/7708796.html",
-        "published_date": "Sun, 28 Sep 2025 13:43:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.727131"
-      },
-      "633440f80f0310e7bb56be79cf4bb74f33e6b0ebeb340bc49f7d9e92e2953bc5": {
-        "title": "AI-Driven Transformation of China's Travel Market as 'Super Golden Week' Approach",
-        "link": "https://www.tmtpost.com/7708787.html",
-        "published_date": "Sun, 28 Sep 2025 10:28:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.728403"
-      },
-      "2c54d6355cbf4567aa838b3b0716a7c57e3a9a3ca9d53d30afbe6fe6caa635b4": {
-        "title": "从 Redis 到 Valkey：开源社区的力量和未来 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/QxDS3cBlbKbK2Kk9STYX?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Sep 2025 15:43:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.729471"
-      },
-      "a63682ebe4ca09ba55ca8ebd3ce5950c682409dfa210ed45e2e73c1d9038685e": {
-        "title": "揭晓腾讯云Redis水平扩缩容如丝般顺滑的秘密：slot原子化搬迁 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/GpCV3KH5Y0ev7zC5bbtp?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Sep 2025 15:31:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.730548"
-      },
-      "016ecbd3cc572e08c7ab12ff3c56f0b7ca85c33bd0ec69509097027768664db2": {
-        "title": "实战指南：Redis 三大客户端框架宕机后的快速恢复策略 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/KafBBz3lttIVr9bboY3z?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Sep 2025 15:24:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.731725"
-      },
-      "5732b7084c6bb79303dd69943cd61f7cabbfd63fa1204befc2714687a24e9df7": {
-        "title": "Gitpod更名为Ona，旨在成为人工智能驱动的软件开发中心",
-        "link": "https://www.infoq.cn/article/blOhJfs8ItIXzmWixAXD?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.732626"
-      },
-      "7d4716d89f38f5e4d9167a3cfb74ee5f71b6b90e575a1bfc71c7b3e24a594454": {
-        "title": "迪拜华人开车完全指南",
-        "link": "http://www.huxiu.com/article/4786318.html?f=wangzhan",
-        "published_date": "Sun, 28 Sep 2025 14:35:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.733046"
-      },
-      "6e94dcef7a0c9812685b6a897df8fb2a2ec8ae2a308369e49995b7e80601a5ab": {
-        "title": "高速遭遇行人，理想的主动安全能力又进化了？",
-        "link": "http://www.huxiu.com/article/4785864.html?f=wangzhan",
-        "published_date": "Sun, 28 Sep 2025 14:00:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.733800"
-      },
-      "cba4be791b332bbfdbbb1b6a6453c4fc87a539373e6ad8f3a87ec70a92fc1d3e": {
-        "title": "不与特斯拉对标、却和奔驰奥迪对比，尚界H5要进行降维打击？",
-        "link": "http://www.huxiu.com/article/4786136.html?f=wangzhan",
-        "published_date": "Sun, 28 Sep 2025 12:50:00 GMT",
-        "first_seen": "2025-09-28T08:23:23.734741"
-      },
       "3256d09519adf20f5f43ec8fec4c4e9a73e93d21b92aa96b71e0f4f600abee48": {
         "title": "慕思X鸿蒙智选联合发布智能床新品；FILA发布品牌网球战略并官宣小布；甜啦啦联名《茶啊二中》｜消研所周报",
         "link": "https://www.tmtpost.com/7708906.html",
@@ -15938,6 +15818,78 @@
         "link": "http://www.geekpark.net/news/355612",
         "published_date": "Tue, 28 Oct 2025 08:47:00 GMT",
         "first_seen": "2025-10-28T05:22:11.987345"
+      },
+      "4a4fac10bffba6aba5825d534976ff8861e0d4120e647a36615ee55e46602c40": {
+        "title": "风电产业迎来业绩拐点：三季报亮眼，政策与需求共振推动行业复苏 ｜行业风向标",
+        "link": "https://www.tmtpost.com/7740798.html",
+        "published_date": "Tue, 28 Oct 2025 15:54:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971293"
+      },
+      "c8bbe50e5604145a4981f3564feb959362d7d1d5603e2283d133a810c7d22eb8": {
+        "title": "东鹏饮料：增长曲线不再锐利，“小红牛”成长性到头了吗？",
+        "link": "https://www.tmtpost.com/7740233.html",
+        "published_date": "Tue, 28 Oct 2025 15:50:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971321"
+      },
+      "d36333e48d435fa0ed1c107cb2f803e409bd3135fce68a138c7642790a24914b": {
+        "title": "10月28日A股分析：沪指微跌0.22%，两市成交额萎缩近2000亿，主力资金大幅净流出近600亿，钠离子电池逆势吸金",
+        "link": "https://www.tmtpost.com/7740820.html",
+        "published_date": "Tue, 28 Oct 2025 15:37:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971336"
+      },
+      "d70fa027bd7703c57d80b528a804262af6bfe81074067052139b818eeb4042b3": {
+        "title": "白银股翻倍大狂欢，到头了吗？",
+        "link": "https://www.tmtpost.com/7740404.html",
+        "published_date": "Tue, 28 Oct 2025 15:30:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971345"
+      },
+      "1220fa21693d1d466c5ab286f8ed09f32855149fdd1d47feffa780b31612dc50": {
+        "title": "豪车印钞机熄火：过去两天赚的钱，现在要挣九个月",
+        "link": "https://www.tmtpost.com/7740785.html",
+        "published_date": "Tue, 28 Oct 2025 15:09:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971355"
+      },
+      "f2916c1d2592339103acf48888f79b2ac128e4daf6c118caf6047dc337a0b975": {
+        "title": "全成 “绳上蚂蚱”，OpenAI 是灵珠 or 魔丸？",
+        "link": "https://www.tmtpost.com/7740493.html",
+        "published_date": "Tue, 28 Oct 2025 14:40:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971367"
+      },
+      "1fd862839cb1bedffa58de91c553d2b5500a5bd5d860b70860fa6507746e9c88": {
+        "title": "银发爸妈天团，开始“整顿”文旅圈了",
+        "link": "https://www.tmtpost.com/7740470.html",
+        "published_date": "Tue, 28 Oct 2025 14:20:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971376"
+      },
+      "f6fcd34ff2e9c9fbcb66f9b1d737c992e54438c6766dd5c108d267caca2f0b24": {
+        "title": "东鹏饮料的“资本迷局”：一边分掉54亿利润，一边携百亿现金赴港募资 | IPO观察",
+        "link": "https://www.tmtpost.com/7740504.html",
+        "published_date": "Tue, 28 Oct 2025 14:08:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971387"
+      },
+      "446c66acd8cb3ffa892160ce942d5b922c713ac86bdd055ad97dc3c7be4ac81b": {
+        "title": "扎堆“有风的地方”，这八大田园经济崛起",
+        "link": "https://www.tmtpost.com/7740476.html",
+        "published_date": "Tue, 28 Oct 2025 14:00:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971396"
+      },
+      "0fd9d299d538ed64769cbb2a5b08d461a79a8f1ffc5eedbd89aa2e9b4f86f23b": {
+        "title": "存款不如持股？四大行正吸引长期资金驻留",
+        "link": "https://www.tmtpost.com/7740428.html",
+        "published_date": "Tue, 28 Oct 2025 13:34:00 GMT",
+        "first_seen": "2025-10-28T08:29:54.971405"
+      },
+      "30419e920a8425fb3978ab9938230cc3ae66e017f7b64b4ee40311c05a2108dc": {
+        "title": "双十一雷电 5 / USB4 拓展坞怎么买（2025 版）",
+        "link": "https://sspai.com/post/103292",
+        "published_date": "Tue, 28 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-28T08:29:06.564730"
+      },
+      "041f118abb19876ac20832fa10197a55cd292b35c34d6b0b5f5ce53eea364ad7": {
+        "title": "Visual Studio正式支持MCP",
+        "link": "https://www.infoq.cn/article/9j40Jg1IjUjP1p4Bzmt7?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Oct 2025 14:00:00 GMT",
+        "first_seen": "2025-10-28T08:29:06.565126"
       }
     },
     "Finance": {
@@ -17558,8 +17510,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-28T05:21:23.616225",
-    "Technology": "2025-10-28T05:22:11.988943",
-    "Finance": "2025-10-28T05:21:23.488463"
+    "AI": "2025-10-28T08:29:06.534433",
+    "Technology": "2025-10-28T08:29:54.972962",
+    "Finance": "2025-10-28T08:29:06.413619"
   }
 }
