@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Oct 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Oct 2025 08:29:06 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2025 23:19:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为世界模型来了！单卡30分钟生成272㎡场景</title>
-      <link>https://www.qbitai.com/2025/10/346533.html</link>
-      <description>&lt;![CDATA[华为世界模型来了！单卡30分钟生成272㎡场景]]&gt;</description>
-      <pubDate>Tue, 28 Oct 2025 06:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346533.html</guid>
+      <title>360重磅发布企业级智能体平台，启动“千行”计划加速产业智变</title>
+      <link>https://www.qbitai.com/2025/10/346749.html</link>
+      <description>&lt;![CDATA[360重磅发布企业级智能体平台，启动“千行”计划加速产业智变]]&gt;</description>
+      <pubDate>Tue, 28 Oct 2025 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346749.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>赛力斯作价2150亿港元冲刺IPO，22家基石投资者站队</title>
-      <link>https://www.qbitai.com/2025/10/346514.html</link>
-      <description>&lt;![CDATA[赛力斯作价2150亿港元冲刺IPO，22家基石投资者站队]]&gt;</description>
-      <pubDate>Tue, 28 Oct 2025 06:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346514.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>两大数学奖项同时颁给王虹！北大三校友包揽“华人菲尔兹”</title>
-      <link>https://www.qbitai.com/2025/10/346498.html</link>
-      <description>&lt;![CDATA[两大数学奖项同时颁给王虹！北大三校友包揽“华人菲尔兹”]]&gt;</description>
-      <pubDate>Tue, 28 Oct 2025 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346498.html</guid>
+      <title>哈佛女生AI电商创业，19岁华人，刚获投百万美元</title>
+      <link>https://www.qbitai.com/2025/10/346721.html</link>
+      <description>&lt;![CDATA[哈佛女生AI电商创业，19岁华人，刚获投百万美元]]&gt;</description>
+      <pubDate>Tue, 28 Oct 2025 08:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346721.html</guid>
       <category>AI</category>
     </item>
   </channel>

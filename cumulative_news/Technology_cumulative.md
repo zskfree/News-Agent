@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-28 08:29
+**最后更新时间**: 2025-10-28 23:19
+
+---
+
+## 🆕 最新更新 (2025-10-28 23:19)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Plaud Note Pro 体验：不是所有录音笔，都能叫「AI 硬件」](http://www.geekpark.net/news/355681)
+**发布时间**: 2025-10-29 00:25
+
+#### [看似万能的 AI，其实比你想的更脆弱和邪恶](http://www.geekpark.net/news/355667)
+**发布时间**: 2025-10-28 16:45
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [金字火腿业绩深陷六年低谷，莆田富豪跨界芯片按下加速键 ｜并购一线](https://www.tmtpost.com/7741145.html)
+**发布时间**: 2025-10-28 21:18
+
+#### [三季度增收近4成扣非利润仅33万，三羊马陷"规模不经济"困局 | 看财报](https://www.tmtpost.com/7741298.html)
+**发布时间**: 2025-10-28 21:15
+
+#### [八马茶业IPO：敲得开的港股门，打不破的次元壁](https://www.tmtpost.com/7741015.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [9月海外短剧揽金$1.9亿，微跌3%，免费模式涌现200+APP](https://www.tmtpost.com/7741016.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [性能手机“三国杀”，谁卖爆谁尴尬](https://www.tmtpost.com/7740965.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [文远、小马把“方向盘”打向港股](https://www.tmtpost.com/7740747.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [eSIM手机成新趋势，华为、vivo们的路径分野](https://www.tmtpost.com/7740933.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [深扒人形机器人赛道后，三个“不能说的秘密”](https://www.tmtpost.com/7740835.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [5年估值百亿，英伟达AMD大佬，抢夺“国产GPU第一股”](https://www.tmtpost.com/7740851.html)
+**发布时间**: 2025-10-28 19:20
+
+#### [今年双11，AI终于忙了，但打工人也慌了](https://www.tmtpost.com/7740725.html)
+**发布时间**: 2025-10-28 19:02
+
+#### [智驾合规元年的蝴蝶风暴](https://www.tmtpost.com/7740587.html)
+**发布时间**: 2025-10-28 19:02
+
+#### [老铺黄金再涨价，徐高明父子登顶“胡润富豪新人榜”榜首](https://www.tmtpost.com/7741107.html)
+**发布时间**: 2025-10-28 19:02
+
+#### [猪王肉王，已成对手](https://www.tmtpost.com/7740607.html)
+**发布时间**: 2025-10-28 17:33
+
+#### [稀土漩涡](https://www.tmtpost.com/7740600.html)
+**发布时间**: 2025-10-28 17:19
+
+#### [西安奕材的国产突围之路 | Profolio动态](https://www.tmtpost.com/7740200.html)
+**发布时间**: 2025-10-28 17:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Sam亲自泼冷水，GPT-5意外失手：我们对AI的期待，是否已被整个行业误判？](https://www.infoq.cn/article/ESEqe4sIRCtNObprsjec?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 20:25
+
+#### [模力工场 017 周 AI 应用榜： 从营销工具到情感共鸣，最“温柔”AI 应用榜单来袭](https://www.infoq.cn/article/SzoRGMkKpaa7zVwDkm1R?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 20:00
+
+#### [开源车用操作系统上新了！可靠性飞跃 +多核多分区架构升级，阿里达摩院都来搭生态](https://www.infoq.cn/article/dth0mWI45uJfwWVy9oyT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 17:35
+
+#### [M2模型杀回Coding和Agent领域，MiniMax想要「普惠智能」](https://www.infoq.cn/article/hOq4KXY1v0BYbdtRthXh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 17:30
+
+#### [从“经验”到“量化”：如何通过 AI 构建研发新范式？](https://www.infoq.cn/article/6fPCjqJ98YqAJVqcZWXX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-28 16:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [鸿蒙 1024｜从评测到鸿蒙应用开发：我做了一款专业屏幕测试工具](https://sspai.com/post/103206)
+**发布时间**: 2025-10-28 19:04
+
+#### [社区速递 115 | 派友的九月消费报告和一周热评、新玩意](https://sspai.com/post/103385)
+**发布时间**: 2025-10-28 17:20
 
 ---
 
