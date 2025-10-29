@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Oct 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Oct 2025 23:19:14 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2025 05:21:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>360重磅发布企业级智能体平台，启动“千行”计划加速产业智变</title>
-      <link>https://www.qbitai.com/2025/10/346749.html</link>
-      <description>&lt;![CDATA[360重磅发布企业级智能体平台，启动“千行”计划加速产业智变]]&gt;</description>
-      <pubDate>Tue, 28 Oct 2025 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346749.html</guid>
+      <title>OpenAI公开未来路线图！具体到28年3月AI研究员将完全自主，奥特曼承认“关于GPT-4o我们搞砸了”</title>
+      <link>https://www.qbitai.com/2025/10/346821.html</link>
+      <description>&lt;![CDATA[OpenAI公开未来路线图！具体到28年3月AI研究员将完全自主，奥特曼承认“关于GPT-4o我们搞砸了”]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 04:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346821.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>哈佛女生AI电商创业，19岁华人，刚获投百万美元</title>
-      <link>https://www.qbitai.com/2025/10/346721.html</link>
-      <description>&lt;![CDATA[哈佛女生AI电商创业，19岁华人，刚获投百万美元]]&gt;</description>
-      <pubDate>Tue, 28 Oct 2025 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346721.html</guid>
+      <title>高通新款云端芯片公开！借推理抢英伟达蛋糕，市值一夜暴涨197.4亿美元</title>
+      <link>https://www.qbitai.com/2025/10/346799.html</link>
+      <description>&lt;![CDATA[高通新款云端芯片公开！借推理抢英伟达蛋糕，市值一夜暴涨197.4亿美元]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 04:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346799.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>剪映前AI产品负责人创业多模态Agent，做懂上下文的007乙方，成立半月融资数百万美元</title>
+      <link>https://www.qbitai.com/2025/10/346757.html</link>
+      <description>&lt;![CDATA[剪映前AI产品负责人创业多模态Agent，做懂上下文的007乙方，成立半月融资数百万美元]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 03:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346757.html</guid>
       <category>AI</category>
     </item>
   </channel>

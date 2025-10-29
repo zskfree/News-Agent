@@ -1,7 +1,113 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-28 23:19
+**最后更新时间**: 2025-10-29 05:21
+
+---
+
+## 🆕 最新更新 (2025-10-29 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta 发布 Docusaurus 3.9，新增 AI 搜索功能](https://www.infoq.cn/article/WW1brBlWpe9VPikagDt0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 13:00
+
+#### [亚马逊云科技推出EC2容量管理器，实现集中式跨账户容量优化](https://www.infoq.cn/article/WhRl2cJktHCN5wrxAcvg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 12:00
+
+#### [谷歌云KMS推出后量子密钥管理支持，应对“现在收集，以后解密”威胁](https://www.infoq.cn/article/5hQ0UJ9MoPvfNYUhtBzv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 11:00
+
+#### [Airbnb的Mussel V2：下一代的键值存储，以统一流和批处理](https://www.infoq.cn/article/ZStUYx6EQvzLGq0jzzD3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 10:36
+
+#### [硅谷大佬带头弃用 OpenAI、“倒戈”Kimi K2！直呼“太便宜了”，白宫首位 AI 主管也劝不住](https://www.infoq.cn/article/JN27flsIOpDNcsffvYtu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 09:51
+
+#### [GPT-5.1曝光挽差评？救场背后，OpenAI 员工痛批Meta系的人正在“搞垮”公司！](https://www.infoq.cn/article/sDRtpcKsg4MSIRXT00aP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 09:35
+
+#### [JUnit 6.0.0发布，带来Java 17基线、Cancellation API和Kotlin suspend支持](https://www.infoq.cn/article/aLxZfpDKqZh1ClGuBzzB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 09:29
+
+#### [黄仁勋凌晨炸场：6G、量子计算、物理AI、机器人、自动驾驶全来了！AI芯片订单已达3.5万亿｜2025GTC最全指南](https://www.infoq.cn/article/FDc37HIdrfyWGv3UqXVA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 08:57
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从电网弃子到绿电先锋：蒙西电网的二十年电网破壁战](https://www.tmtpost.com/7741384.html)
+**发布时间**: 2025-10-29 12:50
+
+#### [昨夜，阳光电源如何凭一己之力震撼了整个行业？](https://www.tmtpost.com/7741559.html)
+**发布时间**: 2025-10-29 12:50
+
+#### [白银暴涨80%，扼住了新能源发展的“咽喉”？](https://www.tmtpost.com/7741576.html)
+**发布时间**: 2025-10-29 12:50
+
+#### [电商的西北战事](https://www.tmtpost.com/7741240.html)
+**发布时间**: 2025-10-29 12:50
+
+#### [英伟达“联姻”Palantir，黄仁勋离“全栈解决方案提供商”更近一步？| 企服国际观察](https://www.tmtpost.com/7741821.html)
+**发布时间**: 2025-10-29 12:32
+
+#### [长森药业B+轮融资数亿元，加速推进核心管线临床研究与全球化布局 | 融资首发](https://www.tmtpost.com/7741762.html)
+**发布时间**: 2025-10-29 12:08
+
+#### [3亿脱发人群，撑不起一个雍禾医疗？ | 巴伦精选](https://www.tmtpost.com/7741829.html)
+**发布时间**: 2025-10-29 12:05
+
+#### [咖啡豆价格创历史新高，云南咖啡豆的机遇要来了吗？](https://www.tmtpost.com/7741825.html)
+**发布时间**: 2025-10-29 12:04
+
+#### [张一鸣死磕游戏，字节海外再出平台](https://www.tmtpost.com/7741297.html)
+**发布时间**: 2025-10-29 11:33
+
+#### [江西生物IPO：上半年收入仅约1亿元，成于大单品，忧于大单品？](https://www.tmtpost.com/7741278.html)
+**发布时间**: 2025-10-29 11:33
+
+#### [科创板第五套标准重启首家！禾元生物携“稻米造血”技术成功上市 | Profolio动态](https://www.tmtpost.com/7741787.html)
+**发布时间**: 2025-10-29 11:29
+
+#### [第五届数字经济投融资机构四川行在达州举行，18家企业释放26亿元融资需求](https://www.tmtpost.com/7741725.html)
+**发布时间**: 2025-10-29 10:48
+
+#### [Nvidia CEO Shrugs Off AI Bubble Concerns as the Company Ramps Up Global Partnerships](https://www.tmtpost.com/7741682.html)
+**发布时间**: 2025-10-29 10:19
+
+#### [2025 Nobel Laureate Looks to AI to Make Chemistry 'Think for Itself' in First Lecture Since Nobel Win](https://www.tmtpost.com/7741625.html)
+**发布时间**: 2025-10-29 09:54
+
+#### [岚图赴港递表，盈利「含妈量」有点高](https://www.tmtpost.com/7741307.html)
+**发布时间**: 2025-10-29 09:49
+
+#### [渤海银行加速“减负”](https://www.tmtpost.com/7741368.html)
+**发布时间**: 2025-10-29 09:20
+
+#### [2025新晋诺奖得主亚吉首发AI宣言：科学自我进化时代到来 ｜巴伦独家](https://www.tmtpost.com/7741568.html)
+**发布时间**: 2025-10-29 09:20
+
+#### [短剧婆婆进化论](https://www.tmtpost.com/7741386.html)
+**发布时间**: 2025-10-29 09:15
+
+#### [黄仁勋最新演讲称将大举投资AI基础设施确保美国领先地位，英伟达股价再创新高](https://www.tmtpost.com/7741562.html)
+**发布时间**: 2025-10-29 09:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」](https://sspai.com/post/103293)
+**发布时间**: 2025-10-29 11:03
+
+#### [派早报：Nothing 确认将引入第三方预装应用和锁屏广告等](https://sspai.com/post/103398)
+**发布时间**: 2025-10-29 07:58
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蔬菜越丑，价格越贵，是什么催生了高价网红菜？](http://www.huxiu.com/article/4797851.html?f=wangzhan)
+**发布时间**: 2025-10-29 09:46
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI完成重组，总集团估值5300亿美元；英伟达发布全新超级AI芯片；「鸭科夫」爆火，B站股价创新高｜极客早知道](http://www.geekpark.net/news/355676)
+**发布时间**: 2025-10-29 08:09
 
 ---
 
