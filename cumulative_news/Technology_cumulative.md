@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-29 08:29
+**最后更新时间**: 2025-10-29 23:19
+
+---
+
+## 🆕 最新更新 (2025-10-29 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话星尘智能创始人来杰：绳驱技术破局具身智能，以“专家数字分身”打开商业化新局｜AI Founder 请回答 | 巴伦精选](https://www.tmtpost.com/7742671.html)
+**发布时间**: 2025-10-29 22:58
+
+#### [华致酒行“失与得”映射酒类流通业酝酿变革](https://www.tmtpost.com/7742627.html)
+**发布时间**: 2025-10-29 22:15
+
+#### [带着中国车抵达伦敦，吉利的野心是向外输出“体系力”](https://www.tmtpost.com/7742599.html)
+**发布时间**: 2025-10-29 21:44
+
+#### [白酒“跌幅王”诞生: 口子窖Q3利润蒸发9成，“全国化”成了“开倒车” | 看财报](https://www.tmtpost.com/7742203.html)
+**发布时间**: 2025-10-29 21:20
+
+#### [出海受挫后换挡机器人赛道，宁波华翔距离300亿目标有多远？｜看财报](https://www.tmtpost.com/7742390.html)
+**发布时间**: 2025-10-29 20:57
+
+#### [白酒三年“人事震荡”：业绩焦虑下的自救｜行业风向标](https://www.tmtpost.com/7742455.html)
+**发布时间**: 2025-10-29 20:03
+
+#### [指引稳了、回报拉满，新东方的信仰救得回吗？](https://www.tmtpost.com/7741588.html)
+**发布时间**: 2025-10-29 19:16
+
+#### [马斯克耐心告急，特斯拉驶向“无人区”](https://www.tmtpost.com/7742339.html)
+**发布时间**: 2025-10-29 19:15
+
+#### [“稀土抵抗联盟”难堪大用](https://www.tmtpost.com/7741891.html)
+**发布时间**: 2025-10-29 19:14
+
+#### [千亿山姆的“阿喀琉斯之踵”](https://www.tmtpost.com/7742343.html)
+**发布时间**: 2025-10-29 19:12
+
+#### [转转放弃C2C：不敢靠近闲鱼，不能成为爱回收](https://www.tmtpost.com/7742338.html)
+**发布时间**: 2025-10-29 19:12
+
+#### [当AI把薯片看成枪：一个“Hard Case”拷问万亿安防产业](https://www.tmtpost.com/7742293.html)
+**发布时间**: 2025-10-29 19:12
+
+#### [没人比春秋航空更懂空嫂](https://www.tmtpost.com/7742237.html)
+**发布时间**: 2025-10-29 19:12
+
+#### [三星们只想伺候OpenAI，看不上装机党的碎银子](https://www.tmtpost.com/7742230.html)
+**发布时间**: 2025-10-29 19:04
+
+#### [“枭雄”林木勤](https://www.tmtpost.com/7742268.html)
+**发布时间**: 2025-10-29 19:04
+
+#### [射频双雄220亿美元 “联姻”：三大核心原因拆解](https://www.tmtpost.com/7742252.html)
+**发布时间**: 2025-10-29 19:04
+
+#### [高通新发AI推理芯片，瞄准每年3000亿美元市场](https://www.tmtpost.com/7742348.html)
+**发布时间**: 2025-10-29 18:58
+
+#### [当潮玩遇见卡牌，泡泡玛特想做Z世代的"硬通货"](https://www.tmtpost.com/7742258.html)
+**发布时间**: 2025-10-29 18:58
+
+#### [国产“英伟达”们集体冲刺IPO](https://www.tmtpost.com/7742259.html)
+**发布时间**: 2025-10-29 18:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [利用数据洁净室与 Snowpark 容器服务赋能营销分析 | 技术实践](https://www.infoq.cn/article/Pk1WciApy32fW6GUWUiz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 20:00
+
+#### [南华期货 x TencentOS：如何实现CentOS操作系统的“无感”切换？](https://www.infoq.cn/article/SFGpTxOw6MFcdwyzbFa8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 19:21
+
+#### [Al on Demand：使用 Cortex 加速您的 SQL | 技术实践](https://www.infoq.cn/article/41RIdV5SikMIHyNo4sSN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 19:00
+
+#### [Couchbase 与爱奇艺的十年之约：Magma 引擎如何破解 TB 级缓存性能与成本难题？](https://www.infoq.cn/article/JOg7fIcutuzXIpu7OlI9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 18:18
+
+#### [赋能 SQL 开发：Workspaces 现在普遍可用 | 技术实践](https://www.infoq.cn/article/EWROl0OL2AAhc08QwOg7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 18:14
+
+#### [重磅！华为开源业界首个Serverless分布式计算引擎openYuanrong，单机体验编程、极致分布式运行性能](https://www.infoq.cn/article/e7QqfyYa9GebHrSC7IYt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 17:30
+
+#### [Apache Doris 4.0 版本正式发布：全面升级 AI 与搜索能力，强化离线计算](https://www.infoq.cn/article/y6hgZwGz1LLzfLCxa4PT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 17:16
+
+#### [Cursor 联创宣布离职，公开声明仅写了72个单词](https://www.infoq.cn/article/gJgBgKPFwjclEa648o4P?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 17:07
+
+#### [月薪3500的 “机器人保姆” 来了！OpenAI投资的家用人形机器人开售，AI 是核心驱动力](https://www.infoq.cn/article/MZz5fjHaLqfbzKJYUtVs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-29 16:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜两种方案，让 Windows 11 支持深/浅色主题自动切换](https://sspai.com/post/103225)
+**发布时间**: 2025-10-29 17:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美海军的“坠机双响炮”，彻底暴露了他们的全球霸权快走到头了](http://www.huxiu.com/article/4798046.html?f=wangzhan)
+**发布时间**: 2025-10-29 15:30
 
 ---
 

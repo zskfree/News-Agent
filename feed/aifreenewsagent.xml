@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Oct 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2025 08:29:10 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2025 23:19:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋台上最强GPU炸场，台下感叹“中国芯片爆发”，瞄准6G投资诺基亚</title>
-      <link>https://www.qbitai.com/2025/10/346872.html</link>
-      <description>&lt;![CDATA[黄仁勋台上最强GPU炸场，台下感叹“中国芯片爆发”，瞄准6G投资诺基亚]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 06:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346872.html</guid>
+      <title>StreetReaderAI: Towards making street view accessible via context-aware multimodal AI</title>
+      <link>https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/</link>
+      <description>&lt;![CDATA[StreetReaderAI: Towards making street view accessible via context-aware multimodal AI]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>14万！全球首款家务机器人开卖，OpenAI投资，萌脸翘臀会自己充电</title>
-      <link>https://www.qbitai.com/2025/10/346842.html</link>
-      <description>&lt;![CDATA[14万！全球首款家务机器人开卖，OpenAI投资，萌脸翘臀会自己充电]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 05:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346842.html</guid>
+      <title>AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？</title>
+      <link>https://www.qbitai.com/2025/10/347231.html</link>
+      <description>&lt;![CDATA[AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347231.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>美国AI公司们，开始青睐Made in China的大模型</title>
+      <link>https://www.qbitai.com/2025/10/347104.html</link>
+      <description>&lt;![CDATA[美国AI公司们，开始青睐Made in China的大模型]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347104.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>不好美国要捧杀了！新研究：中国正在成为全球科学领导者</title>
+      <link>https://www.qbitai.com/2025/10/347103.html</link>
+      <description>&lt;![CDATA[不好美国要捧杀了！新研究：中国正在成为全球科学领导者]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347103.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>港股迎来Robotaxi第一股！小马和文远同日开启招股</title>
+      <link>https://www.qbitai.com/2025/10/346911.html</link>
+      <description>&lt;![CDATA[港股迎来Robotaxi第一股！小马和文远同日开启招股]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346911.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Soul App开源播客语音合成模型，可流畅自然多轮语音对话，支持川粤豫等多方言与副语言风格</title>
+      <link>https://www.qbitai.com/2025/10/346898.html</link>
+      <description>&lt;![CDATA[Soul App开源播客语音合成模型，可流畅自然多轮语音对话，支持川粤豫等多方言与副语言风格]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 08:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346898.html</guid>
       <category>AI</category>
     </item>
   </channel>
