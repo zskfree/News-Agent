@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Oct 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2025 05:22:08 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2025 08:29:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI完成重组，总集团估值5300亿美元；英伟达发布全新超级AI芯片；「鸭科夫」爆火，B站股价创新高｜极客早知道</title>
-      <link>http://www.geekpark.net/news/355676</link>
-      <description>&lt;![CDATA[OpenAI完成重组，总集团估值5300亿美元；英伟达发布全新超级AI芯片；「鸭科夫」爆火，B站股价创新高｜极客早知道]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/355676</guid>
+      <title>AI产品的邀请码「黑市」，谁在制造稀缺？</title>
+      <link>https://www.tmtpost.com/7741130.html</link>
+      <description>&lt;![CDATA[AI产品的邀请码「黑市」，谁在制造稀缺？]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 15:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7741130.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta 发布 Docusaurus 3.9，新增 AI 搜索功能</title>
-      <link>https://www.infoq.cn/article/WW1brBlWpe9VPikagDt0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 发布 Docusaurus 3.9，新增 AI 搜索功能]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WW1brBlWpe9VPikagDt0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达曝超级 AI 芯片 Vera Rubin，黄仁勋要创造 AI 的「登月时刻」</title>
+      <link>http://www.geekpark.net/news/355713</link>
+      <description>&lt;![CDATA[英伟达曝超级 AI 芯片 Vera Rubin，黄仁勋要创造 AI 的「登月时刻」]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/355713</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出EC2容量管理器，实现集中式跨账户容量优化</title>
-      <link>https://www.infoq.cn/article/WhRl2cJktHCN5wrxAcvg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出EC2容量管理器，实现集中式跨账户容量优化]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WhRl2cJktHCN5wrxAcvg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Nokia Shares Jump Over 20% on Nvidia's $1 Billion Equity Investment and AI 6G Tie-up</title>
+      <link>https://www.tmtpost.com/7742047.html</link>
+      <description>&lt;![CDATA[Nokia Shares Jump Over 20% on Nvidia's $1 Billion Equity Investment and AI 6G Tie-up]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7742047.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>JUnit 6.0.0发布，带来Java 17基线、Cancellation API和Kotlin suspend支持</title>
-      <link>https://www.infoq.cn/article/aLxZfpDKqZh1ClGuBzzB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[JUnit 6.0.0发布，带来Java 17基线、Cancellation API和Kotlin suspend支持]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aLxZfpDKqZh1ClGuBzzB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>滨会生物：每年亏损超亿元，何时迎来盈利拐点尚未可知｜IPO观察</title>
+      <link>https://www.tmtpost.com/7725049.html</link>
+      <description>&lt;![CDATA[滨会生物：每年亏损超亿元，何时迎来盈利拐点尚未可知｜IPO观察]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7725049.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋凌晨炸场：6G、量子计算、物理AI、机器人、自动驾驶全来了！AI芯片订单已达3.5万亿｜2025GTC最全指南</title>
-      <link>https://www.infoq.cn/article/FDc37HIdrfyWGv3UqXVA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[黄仁勋凌晨炸场：6G、量子计算、物理AI、机器人、自动驾驶全来了！AI芯片订单已达3.5万亿｜2025GTC最全指南]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FDc37HIdrfyWGv3UqXVA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>股东股权转让价格“倒挂”！魔视智能携10亿亏损赴港| IPO观察</title>
+      <link>https://www.tmtpost.com/7741953.html</link>
+      <description>&lt;![CDATA[股东股权转让价格“倒挂”！魔视智能携10亿亏损赴港| IPO观察]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7741953.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>张一鸣死磕游戏，字节海外再出平台</title>
-      <link>https://www.tmtpost.com/7741297.html</link>
-      <description>&lt;![CDATA[张一鸣死磕游戏，字节海外再出平台]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7741297.html</guid>
+      <title>10月29日A股分析：沪指涨0.7%站稳4000点，北证50指数大涨8.41%，两市合计成交22560.3亿元，资金流入最多的行业板块为光伏设备、电池</title>
+      <link>https://www.tmtpost.com/7741963.html</link>
+      <description>&lt;![CDATA[10月29日A股分析：沪指涨0.7%站稳4000点，北证50指数大涨8.41%，两市合计成交22560.3亿元，资金流入最多的行业板块为光伏设备、电池]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 15:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7741963.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科创板第五套标准重启首家！禾元生物携“稻米造血”技术成功上市 | Profolio动态</title>
-      <link>https://www.tmtpost.com/7741787.html</link>
-      <description>&lt;![CDATA[科创板第五套标准重启首家！禾元生物携“稻米造血”技术成功上市 | Profolio动态]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7741787.html</guid>
+      <title>别急着让豆包们上链接</title>
+      <link>https://www.tmtpost.com/7741689.html</link>
+      <description>&lt;![CDATA[别急着让豆包们上链接]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7741689.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋最新演讲称将大举投资AI基础设施确保美国领先地位，英伟达股价再创新高</title>
-      <link>https://www.tmtpost.com/7741562.html</link>
-      <description>&lt;![CDATA[黄仁勋最新演讲称将大举投资AI基础设施确保美国领先地位，英伟达股价再创新高]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7741562.html</guid>
+      <title>非洲淘“铜”记：为新能源寻找全球支点</title>
+      <link>https://www.tmtpost.com/7740378.html</link>
+      <description>&lt;![CDATA[非洲淘“铜”记：为新能源寻找全球支点]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7740378.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌云KMS推出后量子密钥管理支持，应对“现在收集，以后解密”威胁</title>
-      <link>https://www.infoq.cn/article/5hQ0UJ9MoPvfNYUhtBzv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云KMS推出后量子密钥管理支持，应对“现在收集，以后解密”威胁]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5hQ0UJ9MoPvfNYUhtBzv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>零一万物高管换血，李开复梭哈To B</title>
+      <link>https://www.tmtpost.com/7740646.html</link>
+      <description>&lt;![CDATA[零一万物高管换血，李开复梭哈To B]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7740646.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Airbnb的Mussel V2：下一代的键值存储，以统一流和批处理</title>
-      <link>https://www.infoq.cn/article/ZStUYx6EQvzLGq0jzzD3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Airbnb的Mussel V2：下一代的键值存储，以统一流和批处理]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZStUYx6EQvzLGq0jzzD3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>网易游戏广州高管人事大地震，杭州少壮派要上位？</title>
+      <link>https://www.tmtpost.com/7741121.html</link>
+      <description>&lt;![CDATA[网易游戏广州高管人事大地震，杭州少壮派要上位？]]&gt;</description>
+      <pubDate>Wed, 29 Oct 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7741121.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-29 05:21
+**最后更新时间**: 2025-10-29 08:29
+
+---
+
+## 🆕 最新更新 (2025-10-29 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI产品的邀请码「黑市」，谁在制造稀缺？](https://www.tmtpost.com/7741130.html)
+**发布时间**: 2025-10-29 15:52
+
+#### [Nokia Shares Jump Over 20% on Nvidia's $1 Billion Equity Investment and AI 6G Tie-up](https://www.tmtpost.com/7742047.html)
+**发布时间**: 2025-10-29 15:42
+
+#### [滨会生物：每年亏损超亿元，何时迎来盈利拐点尚未可知｜IPO观察](https://www.tmtpost.com/7725049.html)
+**发布时间**: 2025-10-29 15:37
+
+#### [股东股权转让价格“倒挂”！魔视智能携10亿亏损赴港| IPO观察](https://www.tmtpost.com/7741953.html)
+**发布时间**: 2025-10-29 15:32
+
+#### [10月29日A股分析：沪指涨0.7%站稳4000点，北证50指数大涨8.41%，两市合计成交22560.3亿元，资金流入最多的行业板块为光伏设备、电池](https://www.tmtpost.com/7741963.html)
+**发布时间**: 2025-10-29 15:16
+
+#### [别急着让豆包们上链接](https://www.tmtpost.com/7741689.html)
+**发布时间**: 2025-10-29 14:59
+
+#### [非洲淘“铜”记：为新能源寻找全球支点](https://www.tmtpost.com/7740378.html)
+**发布时间**: 2025-10-29 14:59
+
+#### [零一万物高管换血，李开复梭哈To B](https://www.tmtpost.com/7740646.html)
+**发布时间**: 2025-10-29 14:59
+
+#### [网易游戏广州高管人事大地震，杭州少壮派要上位？](https://www.tmtpost.com/7741121.html)
+**发布时间**: 2025-10-29 14:59
+
+#### [Microsoft Market Value Tops $4 Trillion after OpenAI Deal to Give 27% Stake, Extends IP Rights to 2032](https://www.tmtpost.com/7741950.html)
+**发布时间**: 2025-10-29 14:54
+
+#### [百万倍算力增长的背后，AIDC如何建设才能“跟上需求”？](https://www.tmtpost.com/7740951.html)
+**发布时间**: 2025-10-29 13:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [或许一生只去一次就够了：土耳其十天自驾小记](https://sspai.com/post/102208)
+**发布时间**: 2025-10-29 15:11
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [英伟达曝超级 AI 芯片 Vera Rubin，黄仁勋要创造 AI 的「登月时刻」](http://www.geekpark.net/news/355713)
+**发布时间**: 2025-10-29 14:30
 
 ---
 
