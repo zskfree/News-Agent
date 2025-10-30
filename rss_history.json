@@ -1,66 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "672e6dd25ebc3ea591e87810e70e5f725ec843e74f923d051844cfb01c55a72e": {
-        "title": "Responding to the climate impact of generative AI",
-        "link": "https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651510"
-      },
-      "77919e6837bdb266e12c1114a390fcca3e20c1ac3ac648c5356c3b4cf3a642c6": {
-        "title": "Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research",
-        "link": "https://arxiv.org/abs/2509.22831",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651522"
-      },
-      "d8921d94e7ff0f486f373f8d9ec78ba8be1499626fa7bbc6edb64b8111bc1045": {
-        "title": "JE-IRT: A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory",
-        "link": "https://arxiv.org/abs/2509.22888",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651535"
-      },
-      "ddf01dd78d8c3b5cdb4cf5f30a2d2d99bce7b4f82a9de0c2fc72f8d855590eca": {
-        "title": "Not only a helper, but also a teacher: Interactive LLM Cascade",
-        "link": "https://arxiv.org/abs/2509.22984",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651547"
-      },
-      "a4906b138ee99a671ff3700e98281699e731341da3ece90513b5c1950c3ab81a": {
-        "title": "Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents",
-        "link": "https://arxiv.org/abs/2509.23045",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651559"
-      },
-      "efc3425c089c1cf6a5dc53e7dddc17b971da338646d0ec7a2e6895e7624406cc": {
-        "title": "Risk Profiling and Modulation for LLMs",
-        "link": "https://arxiv.org/abs/2509.23058",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651569"
-      },
-      "0ec91e6af847cdefc180a3b12bb48a98a503a0b8ab759c60b296c46afd2194a3": {
-        "title": "Exploring LLM-based Frameworks for Fault Diagnosis",
-        "link": "https://arxiv.org/abs/2509.23113",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651580"
-      },
-      "8e86d8bc2586c59fdca14c539d80f00b8acd4055d3850352e9870c0e4e4428cf": {
-        "title": "SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems",
-        "link": "https://arxiv.org/abs/2509.23130",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651591"
-      },
-      "d0bc87f4993c34e6c0ceb839685ac71a62d49e7286d1131a67018f1e8e066904": {
-        "title": "MathBode: Frequency-Domain Fingerprints of LLM Mathematical Reasoning",
-        "link": "https://arxiv.org/abs/2509.23143",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651466"
-      },
-      "6d914730e40558049d88a3f65febc496d6597a6a245000b2cd27e03680e75e8b": {
-        "title": "Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2509.23558",
-        "published_date": "Tue, 30 Sep 2025 00:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.651495"
-      },
       "b81b0b4bb547ecce325b348b046eca4e4dede459c78908fffd26f92b8813aeb8": {
         "title": "Delivering a digital sixth sense with next-generation networks",
         "link": "https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/",
@@ -3954,195 +3894,15 @@
         "link": "https://www.qbitai.com/2025/10/347234.html",
         "published_date": "Thu, 30 Oct 2025 01:30:00 GMT",
         "first_seen": "2025-10-30T05:20:22.499710"
+      },
+      "eb26ba04240c363e8e4b88d21a1f0b265be0c139badee9106848eb5b191ccc1a": {
+        "title": "有人说它能做“具身智能时代的苹果”，这家公司凭什么？",
+        "link": "https://www.qbitai.com/2025/10/347301.html",
+        "published_date": "Thu, 30 Oct 2025 06:27:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.462444"
       }
     },
     "Technology": {
-      "af9b94108a5f7a506a0e2284466561017247eecbdc702fc4a3ba096cbeb2fbfa": {
-        "title": "小红书 AI 搜索负责人高龑确认出席 QCon 上海，分享从“搜内容”到“问 AI ”：小红书搜索的 LLM 进化之路",
-        "link": "https://www.infoq.cn/article/wjDCCStUcPRbP3d1T11D?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 13:00:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191166"
-      },
-      "076f4fa03b75360c8cd31d2e3b51eadbacdcc16ca49ae272eebde037c72e989c": {
-        "title": "研究发现大模型尚不足以在事件管理中取代SRE工程师",
-        "link": "https://www.infoq.cn/article/6vfDUQ3hb78oxO1v3o5j?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 11:00:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191176"
-      },
-      "a2e1331e35d1cb3ea217ab62343c45ae3e399d77448c9b937c3a30377896d61a": {
-        "title": "京东的“他她它” App 藏不住了！实测后：这个 AI 产品暴露了京东的野心",
-        "link": "https://www.infoq.cn/article/DBf45wgAh42fuZ3vdQRi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 10:42:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191093"
-      },
-      "b05a496c00ada2d7ad3e9198a8af768cade066abfef80ecd4e33df7806f552f7": {
-        "title": "为了AI，谷歌将于 2026 年合并安卓系统和 ChromeOS",
-        "link": "https://www.infoq.cn/article/N9vgaKeuMMh6ryPgMLss?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 09:58:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191109"
-      },
-      "d0c79af20399e9bc2063b7d4b3df5c61a2da52fe28a3bc15dc45891af89b429e": {
-        "title": "GPT-5：姗姗来迟，被过度炒作，却又令人失望，但这还不是最糟糕的",
-        "link": "https://www.infoq.cn/article/VFe1cIx7NoUc2SKPiQAX?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 09:57:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191189"
-      },
-      "d7ef23fcdb97cf34cb0999385bd5db77b777469c1da5c63db40bbfe19e375f47": {
-        "title": "2025年InfoQ趋势报告：AI、ML和数据工程",
-        "link": "https://www.infoq.cn/article/CKLUT7rzduwKg4kRFfjX?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 09:40:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191199"
-      },
-      "b15d47fe10f5902932db7dd54ee8babfab68fdaf0deaf56fbca48fe3f4f00ceb": {
-        "title": "Anthropic深夜祭出Claude Sonnet 4.5，能自主连续工作30小时！CEO：它更像你的同事",
-        "link": "https://www.infoq.cn/article/lmmA59zAwoPfITY5vIGb?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Sep 2025 09:19:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.682705"
-      },
-      "2549c44bb34192b55d5691fe78a515e467cbc1281b039fa4abfd47b35d415ed9": {
-        "title": "整改后的西贝：不再承诺上菜时间，强调门店现炒现做",
-        "link": "https://www.tmtpost.com/7710949.html",
-        "published_date": "Tue, 30 Sep 2025 11:50:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.683087"
-      },
-      "0c8db50832139e77a7317532831a78e68571fc929d06e7c7bedf0287ffc5fbd3": {
-        "title": "Qianli Technology Drives the AI + Car Era Forward, Pioneering Intelligent Vehicles and Robotaxis",
-        "link": "https://www.tmtpost.com/7711301.html",
-        "published_date": "Tue, 30 Sep 2025 11:22:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.684196"
-      },
-      "7be2c5fc6577736f0dae06441a447332f74281da12df6d824873409afb619d44": {
-        "title": "艺电确认以550亿美元私有化，大型游戏公司收购潮要来了？ | 巴伦精选",
-        "link": "https://www.tmtpost.com/7711270.html",
-        "published_date": "Tue, 30 Sep 2025 10:59:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.684821"
-      },
-      "3b0cb4c2fa6b5676aaf7e000cbf173db919a3497c56f5bc1e08381bd193665a1": {
-        "title": "年轻人“整顿”月饼",
-        "link": "https://www.tmtpost.com/7711072.html",
-        "published_date": "Tue, 30 Sep 2025 10:55:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.685258"
-      },
-      "b6cccca853e7b5ba8cf05827f812cda3357dd40b81b9e8a17557731d81d7479c": {
-        "title": "【产业互联网周报】阿里巴巴宣布与英伟达开展Physical AI合作；甲骨文换帅；2024年中国人工智能产业规模超9000亿元，同比增长24%",
-        "link": "https://www.tmtpost.com/7710790.html",
-        "published_date": "Tue, 30 Sep 2025 10:04:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.686544"
-      },
-      "2b23cd03841b59be8c91a6ca4c6c9a01d07956bcf9753d3e277096332f7fe104": {
-        "title": "从共识转向价值深耕，AI推动数字化转型新范式",
-        "link": "https://www.tmtpost.com/7710783.html",
-        "published_date": "Tue, 30 Sep 2025 10:03:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.687093"
-      },
-      "3ea23595841fc8a23f3d420090f5d3716ee74496fab722f55c1bf9e56a6df05d": {
-        "title": "拼过、赢过、输了，刚成为老赖的王健林和我们一样在周期里浮沉",
-        "link": "https://www.tmtpost.com/7709143.html",
-        "published_date": "Tue, 30 Sep 2025 10:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.687975"
-      },
-      "5c96466096c0d2c8b46a8893646dc01661bddc473997d851bf742d50449c3b75": {
-        "title": "从亳州到世界：古井贡酒的“世博情缘”与全球表达",
-        "link": "https://www.tmtpost.com/7711104.html",
-        "published_date": "Tue, 30 Sep 2025 09:43:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.688747"
-      },
-      "8b990c4a7bd529d203527255701e34a1fe311080cdd80b638e6955bfd6f634d1": {
-        "title": "“鸭脖大王”陷入“ST危机”",
-        "link": "https://www.tmtpost.com/7710832.html",
-        "published_date": "Tue, 30 Sep 2025 09:30:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.689415"
-      },
-      "c6491d8adb4ae1de680aa43a70343c5a9a81569a398165e987e85625a9e98644": {
-        "title": "西安奕材：科技自立，加速突围 ，国产硅片龙头叩响科创板大门",
-        "link": "https://www.tmtpost.com/7708903.html",
-        "published_date": "Tue, 30 Sep 2025 09:07:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191122"
-      },
-      "330fc0461d0c829ee8260291154932439394999d323bdbde8b2d070540587ee9": {
-        "title": "“重拾信心”的玻璃基板，离商业化更近了",
-        "link": "https://www.tmtpost.com/7710674.html",
-        "published_date": "Tue, 30 Sep 2025 08:56:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.691205"
-      },
-      "3161a0a049cdbd40b6de777cfd33cb818456d45735c0b69de28870940b529ea9": {
-        "title": "荣威的“求生式突围”，能否从边缘回到主流赛道？ | 巴伦精选",
-        "link": "https://www.tmtpost.com/7711051.html",
-        "published_date": "Tue, 30 Sep 2025 08:41:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.692215"
-      },
-      "8d429792eaef2d6c96c900e7b2dbd1fa441398ff6b2e18f16b9011bee03f53c2": {
-        "title": "高德“杀入”餐饮业：会边缘化预制菜吗？",
-        "link": "https://www.tmtpost.com/7710814.html",
-        "published_date": "Tue, 30 Sep 2025 08:30:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.693234"
-      },
-      "5218408080dae56c04d2425d21bd50d8a65ebcfd7e2748f6351f436a35891402": {
-        "title": "科股早知道：AI终端爆发指日可待，SoC芯片迎来新的市场发展机遇",
-        "link": "https://www.tmtpost.com/7710993.html",
-        "published_date": "Tue, 30 Sep 2025 08:00:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191134"
-      },
-      "a4f994a1bd2f724d73ab99949c504f2a70222170e9e9b6463ceeebba16c10a17": {
-        "title": "南模生物“内战”警示录：“双话事人”失衡，治理撕裂下的反噬 | 深度",
-        "link": "https://www.tmtpost.com/7710339.html",
-        "published_date": "Tue, 30 Sep 2025 08:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.696019"
-      },
-      "cf8bed299fd327db947c35db208d6bdd454c7ddee55aae188d918b1cb0b04886": {
-        "title": "王健林差点被赶下“牌桌”",
-        "link": "https://www.tmtpost.com/7710739.html",
-        "published_date": "Tue, 30 Sep 2025 07:55:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.696750"
-      },
-      "6badffd11b7f525040d0120743cd3ca09d99177c53f6fbbcfb7f7ab97d18a1dc": {
-        "title": "【钛晨报】国家税务总局：平台企业不得以任何形式将自身涉税义务转嫁给平台内从业人员；特朗普称对境外制作电影征100%关税；DeepSeek-V3.2-Exp发布并开源，开发者调用API的成本将降低50%以上",
-        "link": "https://www.tmtpost.com/7710817.html",
-        "published_date": "Tue, 30 Sep 2025 07:20:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191061"
-      },
-      "960fc374854ed89144e5c8344dac6ea319f0cd968b3efe3095e50e20b0d78440": {
-        "title": "三星美光疯狂涨价，中国存储如何杀出重围？",
-        "link": "http://www.huxiu.com/article/4787185.html?f=wangzhan",
-        "published_date": "Tue, 30 Sep 2025 11:10:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.701258"
-      },
-      "a590d2779ef90cde6d478ee180c193ee3f4a9afd9858e8b08654ec3643819c19": {
-        "title": "欧洲车企，走上一条偏裂之路",
-        "link": "http://www.huxiu.com/article/4787193.html?f=wangzhan",
-        "published_date": "Tue, 30 Sep 2025 07:39:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.702155"
-      },
-      "7505c26b68c1ac34231716d3a0adac19dda12cb00ac4a1086064dd834ed4b7ac": {
-        "title": "DeepSeek V3.2 发布，API 成本减半；特斯拉员工被机器人打伤，索赔 5100 万美元；Claude 新模型登场",
-        "link": "http://www.geekpark.net/news/354695",
-        "published_date": "Tue, 30 Sep 2025 08:42:00 GMT",
-        "first_seen": "2025-09-30T05:21:25.191150"
-      },
-      "165c4af831f6aec7244cb0aada2eecc47fca4073428a21460e74769f5045729b": {
-        "title": "派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等",
-        "link": "https://sspai.com/post/102843",
-        "published_date": "Tue, 30 Sep 2025 08:14:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.706643"
-      },
-      "ad0d28c83bbc672e7e84f0c6fedb28a8065f9b8e6cfbf93997bb177425bf77d1": {
-        "title": "30% Off Samsung Promo Code | October 2025",
-        "link": "https://www.wired.com/story/samsung-promo-codes/",
-        "published_date": "Tue, 30 Sep 2025 05:10:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.708761"
-      },
-      "28748c05113d95dd575366bdc7664f152f33c61a0172aff6c1439101c1442934": {
-        "title": "Groupon Promo Codes: 50% Off in October 2025",
-        "link": "https://www.wired.com/story/groupon-promo-code/",
-        "published_date": "Tue, 30 Sep 2025 05:00:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.711014"
-      },
-      "a74959f8cfbce60433210068a61885715b73609e85d22a7e46b60fec9a6470f1": {
-        "title": "Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event",
-        "link": "https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025",
-        "published_date": "Mon, 29 Sep 2025 23:46:00 GMT",
-        "first_seen": "2025-09-30T05:20:36.714900"
-      },
       "ded2fa17b2e2766cab8f5d5c63eb4d5b91c0addd438df723d87ff4ceebf5baaf": {
         "title": "OpenAI 被爆将推出独立应用狙击 TikTok，由 Sora 2 提供支持",
         "link": "https://www.infoq.cn/article/JSyRrjrrXReUmPwvvkU2?utm_source=rss&utm_medium=article",
@@ -15320,6 +15080,54 @@
         "link": "http://www.geekpark.net/news/355734",
         "published_date": "Thu, 30 Oct 2025 08:27:00 GMT",
         "first_seen": "2025-10-30T05:20:22.577247"
+      },
+      "52e29f6fb123b398cc8bebb21f49107ba918032133589eb280b7cc3ee8079b01": {
+        "title": "China Unveils Outcomes of China-U.S. Economic, Trade Talks in Kuala Lumpur",
+        "link": "https://www.tmtpost.com/7743663.html",
+        "published_date": "Thu, 30 Oct 2025 15:18:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.514942"
+      },
+      "c0a60f40494056cc2c06aedbcb5193695e8ba3505f4890ba995c741f2904a3f0": {
+        "title": "Nvidia Unveils Hyperion 10, Marking a Shift from Chip Supplier to Ecosystem Builder",
+        "link": "https://www.tmtpost.com/7743616.html",
+        "published_date": "Thu, 30 Oct 2025 14:53:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.515300"
+      },
+      "064886fd91f64ee8202fd450afbb565768242597553b8bd61945af41bb54659b": {
+        "title": "英伟达市值破5万亿美元：黄仁勋要做的不只是AI，还要接管方向盘",
+        "link": "https://www.tmtpost.com/7743597.html",
+        "published_date": "Thu, 30 Oct 2025 14:33:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.515532"
+      },
+      "711596c7e79c95b64725f771bccc987128a0e239a1aad4d7b4a7885723adf9fa": {
+        "title": "经济学江湖里的 “冷门高手”卡莱斯基如何叫板三大门派？",
+        "link": "https://www.tmtpost.com/7743536.html",
+        "published_date": "Thu, 30 Oct 2025 13:44:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.515757"
+      },
+      "86aef284190f5adf2d897770a87409242c7c93465f5cc06fec772f443ff87b44": {
+        "title": "为西贝出谋划策的华与华，到底什么水平？",
+        "link": "http://www.huxiu.com/article/4798328.html?f=wangzhan",
+        "published_date": "Thu, 30 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.516001"
+      },
+      "63c5672f106fbab4012955cf620cb05f96dc89b03dcccade130d124e38de410f": {
+        "title": "全线关停、破产清算，上海又一老牌烘焙退场",
+        "link": "http://www.huxiu.com/article/4798378.html?f=wangzhan",
+        "published_date": "Thu, 30 Oct 2025 12:50:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.516280"
+      },
+      "4a305507ff8628e5ee30341eeb7ca0e24e7567b79a875eaeb31e41421b77a89f": {
+        "title": "App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card",
+        "link": "https://sspai.com/post/103082",
+        "published_date": "Thu, 30 Oct 2025 15:00:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.516813"
+      },
+      "9ead2f5822124437fe2a90f515fda821f6aa4c0d87737169a469401337bb6679": {
+        "title": "00 后鸿蒙开发者支一郎：从校园需求出发，用代码搭建跨场景服务桥梁",
+        "link": "https://www.infoq.cn/article/1Su6kKzAuVQ03k8DZqkK?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Oct 2025 12:04:00 GMT",
+        "first_seen": "2025-10-30T08:27:39.517298"
       }
     },
     "Finance": {
@@ -16730,8 +16538,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-10-30T05:20:22.524868",
-    "Technology": "2025-10-30T05:21:10.840189",
-    "Finance": "2025-10-30T05:20:22.392106"
+    "AI": "2025-10-30T08:27:39.483429",
+    "Technology": "2025-10-30T08:27:39.525412",
+    "Finance": "2025-10-30T08:27:39.356945"
   }
 }
