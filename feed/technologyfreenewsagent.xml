@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Oct 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Oct 2025 08:27:39 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 23:19:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>China Unveils Outcomes of China-U.S. Economic, Trade Talks in Kuala Lumpur</title>
-      <link>https://www.tmtpost.com/7743663.html</link>
-      <description>&lt;![CDATA[China Unveils Outcomes of China-U.S. Economic, Trade Talks in Kuala Lumpur]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7743663.html</guid>
+      <title>游戏研发中的 AI 转型：网易多 Agent 系统与知识工程实践</title>
+      <link>https://www.infoq.cn/article/PsxYtEIXpjVWAL89FMUe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[游戏研发中的 AI 转型：网易多 Agent 系统与知识工程实践]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PsxYtEIXpjVWAL89FMUe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nvidia Unveils Hyperion 10, Marking a Shift from Chip Supplier to Ecosystem Builder</title>
-      <link>https://www.tmtpost.com/7743616.html</link>
-      <description>&lt;![CDATA[Nvidia Unveils Hyperion 10, Marking a Shift from Chip Supplier to Ecosystem Builder]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7743616.html</guid>
+      <title>企业将 Agentic AI 工作负载投入生产的 3 条可行之路 | 技术实践</title>
+      <link>https://www.infoq.cn/article/FFaimP6zBKGcj3wqgbbK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[企业将 Agentic AI 工作负载投入生产的 3 条可行之路 | 技术实践]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FFaimP6zBKGcj3wqgbbK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达市值破5万亿美元：黄仁勋要做的不只是AI，还要接管方向盘</title>
-      <link>https://www.tmtpost.com/7743597.html</link>
-      <description>&lt;![CDATA[英伟达市值破5万亿美元：黄仁勋要做的不只是AI，还要接管方向盘]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7743597.html</guid>
+      <title>从非结构化数据中释放价值：Snowflake 如何转换企业文档 | 技术实践</title>
+      <link>https://www.infoq.cn/article/ZCMxhTW55wd6JU2o0X4B?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从非结构化数据中释放价值：Snowflake 如何转换企业文档 | 技术实践]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 19:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZCMxhTW55wd6JU2o0X4B?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>经济学江湖里的 “冷门高手”卡莱斯基如何叫板三大门派？</title>
-      <link>https://www.tmtpost.com/7743536.html</link>
-      <description>&lt;![CDATA[经济学江湖里的 “冷门高手”卡莱斯基如何叫板三大门派？]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 13:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7743536.html</guid>
+      <title>LLM 技术在有道词典笔上的应用实践</title>
+      <link>https://www.infoq.cn/article/DpboBfR9KsWKUeBNDUH0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[LLM 技术在有道词典笔上的应用实践]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DpboBfR9KsWKUeBNDUH0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为西贝出谋划策的华与华，到底什么水平？</title>
-      <link>http://www.huxiu.com/article/4798328.html?f=wangzhan</link>
-      <description>&lt;![CDATA[为西贝出谋划策的华与华，到底什么水平？]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4798328.html?f=wangzhan</guid>
+      <title>Eino ADK：一文搞定 AI Agent 核心设计模式，从 0 到 1 搭建智能体系统</title>
+      <link>https://www.infoq.cn/article/oVk37gmWCrjug7Q17qCF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Eino ADK：一文搞定 AI Agent 核心设计模式，从 0 到 1 搭建智能体系统]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oVk37gmWCrjug7Q17qCF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全线关停、破产清算，上海又一老牌烘焙退场</title>
-      <link>http://www.huxiu.com/article/4798378.html?f=wangzhan</link>
-      <description>&lt;![CDATA[全线关停、破产清算，上海又一老牌烘焙退场]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4798378.html?f=wangzhan</guid>
+      <title>从兼职工程师直接跳到CTO，他用两个月让一款 Agent 干掉60%复杂工作并放话：“代码质量与产品成功没有直接关系”！</title>
+      <link>https://www.infoq.cn/article/biGDV8G3RHOvOzGp639Y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从兼职工程师直接跳到CTO，他用两个月让一款 Agent 干掉60%复杂工作并放话：“代码质量与产品成功没有直接关系”！]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/biGDV8G3RHOvOzGp639Y?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card</title>
-      <link>https://sspai.com/post/103082</link>
-      <description>&lt;![CDATA[App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/103082</guid>
+      <title>乐舒适冲刺“非洲消费品制造第一股”凭什么？</title>
+      <link>https://www.tmtpost.com/7744317.html</link>
+      <description>&lt;![CDATA[乐舒适冲刺“非洲消费品制造第一股”凭什么？]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 22:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7744317.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>00 后鸿蒙开发者支一郎：从校园需求出发，用代码搭建跨场景服务桥梁</title>
-      <link>https://www.infoq.cn/article/1Su6kKzAuVQ03k8DZqkK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[00 后鸿蒙开发者支一郎：从校园需求出发，用代码搭建跨场景服务桥梁]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1Su6kKzAuVQ03k8DZqkK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>城商行三季报：重庆银行逆袭，成都银行失速</title>
+      <link>https://www.tmtpost.com/7744201.html</link>
+      <description>&lt;![CDATA[城商行三季报：重庆银行逆袭，成都银行失速]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 20:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7744201.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中兴通讯转型阵痛期：女掌门上任半年，三季度净利突然大降88%</title>
+      <link>https://www.tmtpost.com/7742682.html</link>
+      <description>&lt;![CDATA[中兴通讯转型阵痛期：女掌门上任半年，三季度净利突然大降88%]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7742682.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“三费”普降的货拉拉香港再递招股书</title>
+      <link>https://www.tmtpost.com/7743374.html</link>
+      <description>&lt;![CDATA[“三费”普降的货拉拉香港再递招股书]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743374.html</guid>
       <category>Technology</category>
     </item>
   </channel>

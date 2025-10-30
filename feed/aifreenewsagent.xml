@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Oct 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Oct 2025 08:27:39 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 23:18:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>有人说它能做“具身智能时代的苹果”，这家公司凭什么？</title>
-      <link>https://www.qbitai.com/2025/10/347301.html</link>
-      <description>&lt;![CDATA[有人说它能做“具身智能时代的苹果”，这家公司凭什么？]]&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 06:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347301.html</guid>
+      <title>AI百科全书SciencePedia：当马斯克Grokipedia遭遇滑铁卢，有个中国团队默默把活儿干了</title>
+      <link>https://www.qbitai.com/2025/10/347572.html</link>
+      <description>&lt;![CDATA[AI百科全书SciencePedia：当马斯克Grokipedia遭遇滑铁卢，有个中国团队默默把活儿干了]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 14:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347572.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中国中文信息学会2025学术年会暨第二届中国大模型大会（CIPS &amp; CLM 2025）于10月28日在北京盛大开幕</title>
+      <link>https://www.qbitai.com/2025/10/347398.html</link>
+      <description>&lt;![CDATA[中国中文信息学会2025学术年会暨第二届中国大模型大会（CIPS &amp; CLM 2025）于10月28日在北京盛大开幕]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347398.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>让机器人在“想象”中学习世界的模型来了！PI联创课题组&amp;清华陈建宇团队联合出品</title>
+      <link>https://www.qbitai.com/2025/10/347397.html</link>
+      <description>&lt;![CDATA[让机器人在“想象”中学习世界的模型来了！PI联创课题组&amp;清华陈建宇团队联合出品]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347397.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Toward provably private insights into AI use</title>
+      <link>https://research.google/blog/toward-provably-private-insights-into-ai-use/</link>
+      <description>&lt;![CDATA[Toward provably private insights into AI use]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/toward-provably-private-insights-into-ai-use/</guid>
       <category>AI</category>
     </item>
   </channel>

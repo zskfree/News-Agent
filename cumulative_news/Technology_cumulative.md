@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-30 08:27
+**最后更新时间**: 2025-10-30 23:18
+
+---
+
+## 🆕 最新更新 (2025-10-30 23:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [乐舒适冲刺“非洲消费品制造第一股”凭什么？](https://www.tmtpost.com/7744317.html)
+**发布时间**: 2025-10-30 22:32
+
+#### [城商行三季报：重庆银行逆袭，成都银行失速](https://www.tmtpost.com/7744201.html)
+**发布时间**: 2025-10-30 20:04
+
+#### [中兴通讯转型阵痛期：女掌门上任半年，三季度净利突然大降88%](https://www.tmtpost.com/7742682.html)
+**发布时间**: 2025-10-30 19:12
+
+#### [“三费”普降的货拉拉香港再递招股书](https://www.tmtpost.com/7743374.html)
+**发布时间**: 2025-10-30 19:11
+
+#### [六年六次“打卡”港交所，货拉拉不敢停下来](https://www.tmtpost.com/7743562.html)
+**发布时间**: 2025-10-30 19:10
+
+#### [特朗普的关税压倒“免费退货”](https://www.tmtpost.com/7743877.html)
+**发布时间**: 2025-10-30 19:10
+
+#### [货拉拉六递招股书：规模神话下的变现困局](https://www.tmtpost.com/7744013.html)
+**发布时间**: 2025-10-30 19:10
+
+#### [蕉内的塌房，揭开女装行业双标困局](https://www.tmtpost.com/7744014.html)
+**发布时间**: 2025-10-30 19:05
+
+#### [雷军，太委屈](https://www.tmtpost.com/7742597.html)
+**发布时间**: 2025-10-30 19:02
+
+#### [岚图“带血”赴港：一场“国家队”的绝地求生](https://www.tmtpost.com/7744009.html)
+**发布时间**: 2025-10-30 19:01
+
+#### [RISC-V的生意，谁跑通了？](https://www.tmtpost.com/7744020.html)
+**发布时间**: 2025-10-30 19:01
+
+#### [5万亿算力帝国：英伟达凭什么碾压苹果、微软?](https://www.tmtpost.com/7744062.html)
+**发布时间**: 2025-10-30 19:01
+
+#### [Microsoft Stock Slides as Concerns over AI Cost Overshadows Sales Beat for September Quarter](https://www.tmtpost.com/7744068.html)
+**发布时间**: 2025-10-30 18:43
+
+#### [自动驾驶三大黄金赛道谁主沉浮？](https://www.tmtpost.com/7743916.html)
+**发布时间**: 2025-10-30 18:34
+
+#### [AI将如何改变信贷](https://www.tmtpost.com/7743966.html)
+**发布时间**: 2025-10-30 18:28
+
+#### [黄仁勋封神，英伟达登顶：但AI算力的“皇帝新衣”快穿不住了](https://www.tmtpost.com/7744003.html)
+**发布时间**: 2025-10-30 18:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业将 Agentic AI 工作负载投入生产的 3 条可行之路 | 技术实践](https://www.infoq.cn/article/FFaimP6zBKGcj3wqgbbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 20:00
+
+#### [从非结构化数据中释放价值：Snowflake 如何转换企业文档 | 技术实践](https://www.infoq.cn/article/ZCMxhTW55wd6JU2o0X4B?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 19:21
+
+#### [视觉生成的另一条路：Infinity 自回归架构的原理与实践](https://www.infoq.cn/article/7c2HpLTE78jCyAGtc0OE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 18:03
+
+#### [游戏研发中的 AI 转型：网易多 Agent 系统与知识工程实践](https://www.infoq.cn/article/PsxYtEIXpjVWAL89FMUe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 17:54
+
+#### [摩尔线程 IPO 又有新进展：已获证监会同意创板IPO注册申请](https://www.infoq.cn/article/8sAKbp28ueqVLJVx9ZzZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 17:53
+
+#### [LLM 技术在有道词典笔上的应用实践](https://www.infoq.cn/article/DpboBfR9KsWKUeBNDUH0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 17:48
+
+#### [Eino ADK：一文搞定 AI Agent 核心设计模式，从 0 到 1 搭建智能体系统](https://www.infoq.cn/article/oVk37gmWCrjug7Q17qCF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 17:20
+
+#### [从兼职工程师直接跳到CTO，他用两个月让一款 Agent 干掉60%复杂工作并放话：“代码质量与产品成功没有直接关系”！](https://www.infoq.cn/article/biGDV8G3RHOvOzGp639Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 16:55
+
+#### [三大头部互联网企业交锋，AI 时代可观测边界出现了吗？](https://www.infoq.cn/article/lUi22lTNXcqaYtyj59uN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 16:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一口气看完白银简史，透过白银的视角，看懂世界经济和权力的兴衰更替](http://www.huxiu.com/article/4796535.html?f=wangzhan)
+**发布时间**: 2025-10-30 20:00
+
+#### [京东陷“二选一”争议，昔日屠龙者又成恶龙？](http://www.huxiu.com/article/4798673.html?f=wangzhan)
+**发布时间**: 2025-10-30 19:30
+
+#### [蒙氏教具受中产青睐背后，民间玩具能否复兴？](http://www.huxiu.com/article/4798741.html?f=wangzhan)
+**发布时间**: 2025-10-30 18:13
+
+#### [平均家庭资产3000万，日本这帮老年人这么有钱，咋花啊？](http://www.huxiu.com/article/4798333.html?f=wangzhan)
+**发布时间**: 2025-10-30 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 224｜少数派的编辑们最近买了啥？](https://sspai.com/post/103439)
+**发布时间**: 2025-10-30 17:30
 
 ---
 
