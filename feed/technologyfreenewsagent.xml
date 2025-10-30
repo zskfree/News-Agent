@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Oct 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2025 23:20:32 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 05:21:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>对话星尘智能创始人来杰：绳驱技术破局具身智能，以“专家数字分身”打开商业化新局｜AI Founder 请回答 | 巴伦精选</title>
-      <link>https://www.tmtpost.com/7742671.html</link>
-      <description>&lt;![CDATA[对话星尘智能创始人来杰：绳驱技术破局具身智能，以“专家数字分身”打开商业化新局｜AI Founder 请回答 | 巴伦精选]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 22:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7742671.html</guid>
+      <title>红板科技：高毛利与低研发并存，应收账款计提存疑，债务压顶仍向控股股东大额分红｜IPO观察</title>
+      <link>https://www.tmtpost.com/7743402.html</link>
+      <description>&lt;![CDATA[红板科技：高毛利与低研发并存，应收账款计提存疑，债务压顶仍向控股股东大额分红｜IPO观察]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 12:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743402.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高通新发AI推理芯片，瞄准每年3000亿美元市场</title>
-      <link>https://www.tmtpost.com/7742348.html</link>
-      <description>&lt;![CDATA[高通新发AI推理芯片，瞄准每年3000亿美元市场]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7742348.html</guid>
+      <title>光刻机拆解传闻：逆向工程思维应休矣，自主创新需夯实</title>
+      <link>https://www.tmtpost.com/7743222.html</link>
+      <description>&lt;![CDATA[光刻机拆解传闻：逆向工程思维应休矣，自主创新需夯实]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743222.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>南华期货 x TencentOS：如何实现CentOS操作系统的“无感”切换？</title>
-      <link>https://www.infoq.cn/article/SFGpTxOw6MFcdwyzbFa8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[南华期货 x TencentOS：如何实现CentOS操作系统的“无感”切换？]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 19:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SFGpTxOw6MFcdwyzbFa8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cursor 2.0发布：自研代码模型 Composer 上线，8 个代理并行，速度提升 4 倍</title>
+      <link>https://www.infoq.cn/article/QlBwolS6TLQ36PaYGYf5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 2.0发布：自研代码模型 Composer 上线，8 个代理并行，速度提升 4 倍]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QlBwolS6TLQ36PaYGYf5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Al on Demand：使用 Cortex 加速您的 SQL | 技术实践</title>
-      <link>https://www.infoq.cn/article/41RIdV5SikMIHyNo4sSN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Al on Demand：使用 Cortex 加速您的 SQL | 技术实践]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/41RIdV5SikMIHyNo4sSN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等</title>
+      <link>https://sspai.com/post/103421</link>
+      <description>&lt;![CDATA[派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 08:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/103421</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>赋能 SQL 开发：Workspaces 现在普遍可用 | 技术实践</title>
-      <link>https://www.infoq.cn/article/EWROl0OL2AAhc08QwOg7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[赋能 SQL 开发：Workspaces 现在普遍可用 | 技术实践]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 18:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EWROl0OL2AAhc08QwOg7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT 6要来了？15年后市值突破5万亿，OpenAI签下「对赌协议」</title>
+      <link>http://www.geekpark.net/news/355742</link>
+      <description>&lt;![CDATA[GPT 6要来了？15年后市值突破5万亿，OpenAI签下「对赌协议」]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/355742</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apache Doris 4.0 版本正式发布：全面升级 AI 与搜索能力，强化离线计算</title>
-      <link>https://www.infoq.cn/article/y6hgZwGz1LLzfLCxa4PT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Apache Doris 4.0 版本正式发布：全面升级 AI 与搜索能力，强化离线计算]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/y6hgZwGz1LLzfLCxa4PT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>创新药“矫枉过正”</title>
+      <link>https://www.tmtpost.com/7743143.html</link>
+      <description>&lt;![CDATA[创新药“矫枉过正”]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743143.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>利用数据洁净室与 Snowpark 容器服务赋能营销分析 | 技术实践</title>
-      <link>https://www.infoq.cn/article/Pk1WciApy32fW6GUWUiz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[利用数据洁净室与 Snowpark 容器服务赋能营销分析 | 技术实践]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Pk1WciApy32fW6GUWUiz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>特斯拉提出万亿薪酬计划，马斯克表示“我对钱不感兴趣”？</title>
+      <link>https://www.tmtpost.com/7743291.html</link>
+      <description>&lt;![CDATA[特斯拉提出万亿薪酬计划，马斯克表示“我对钱不感兴趣”？]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 12:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743291.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华致酒行“失与得”映射酒类流通业酝酿变革</title>
-      <link>https://www.tmtpost.com/7742627.html</link>
-      <description>&lt;![CDATA[华致酒行“失与得”映射酒类流通业酝酿变革]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 22:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7742627.html</guid>
+      <title>谷歌的神反转：从 AI“牺牲品” 变 AI“弄潮人”</title>
+      <link>https://www.tmtpost.com/7743111.html</link>
+      <description>&lt;![CDATA[谷歌的神反转：从 AI“牺牲品” 变 AI“弄潮人”]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743111.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>带着中国车抵达伦敦，吉利的野心是向外输出“体系力”</title>
-      <link>https://www.tmtpost.com/7742599.html</link>
-      <description>&lt;![CDATA[带着中国车抵达伦敦，吉利的野心是向外输出“体系力”]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 21:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7742599.html</guid>
+      <title>茅台跌破1700元，年轻人愿意喝了吗？</title>
+      <link>https://www.tmtpost.com/7743066.html</link>
+      <description>&lt;![CDATA[茅台跌破1700元，年轻人愿意喝了吗？]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 12:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743066.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>白酒“跌幅王”诞生: 口子窖Q3利润蒸发9成，“全国化”成了“开倒车” | 看财报</title>
-      <link>https://www.tmtpost.com/7742203.html</link>
-      <description>&lt;![CDATA[白酒“跌幅王”诞生: 口子窖Q3利润蒸发9成，“全国化”成了“开倒车” | 看财报]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 21:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7742203.html</guid>
+      <title>“酒店+公寓”的双品牌，真能做到“长短租”通吃么？</title>
+      <link>https://www.tmtpost.com/7743118.html</link>
+      <description>&lt;![CDATA[“酒店+公寓”的双品牌，真能做到“长短租”通吃么？]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743118.html</guid>
       <category>Technology</category>
     </item>
   </channel>

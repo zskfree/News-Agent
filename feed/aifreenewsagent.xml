@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Oct 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2025 23:19:44 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 05:20:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>StreetReaderAI: Towards making street view accessible via context-aware multimodal AI</title>
-      <link>https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/</link>
-      <description>&lt;![CDATA[StreetReaderAI: Towards making street view accessible via context-aware multimodal AI]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 16:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/</guid>
+      <title>全球首个具身智能开放平台来了！让大模型长出“身体”，像人一样自然表达交互</title>
+      <link>https://www.qbitai.com/2025/10/347284.html</link>
+      <description>&lt;![CDATA[全球首个具身智能开放平台来了！让大模型长出“身体”，像人一样自然表达交互]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 03:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347284.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？</title>
-      <link>https://www.qbitai.com/2025/10/347231.html</link>
-      <description>&lt;![CDATA[AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347231.html</guid>
+      <title>14000人原地被裁！亚马逊今日：打工人水深，AI机器人火热</title>
+      <link>https://www.qbitai.com/2025/10/347253.html</link>
+      <description>&lt;![CDATA[14000人原地被裁！亚马逊今日：打工人水深，AI机器人火热]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 01:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347253.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>美国AI公司们，开始青睐Made in China的大模型</title>
-      <link>https://www.qbitai.com/2025/10/347104.html</link>
-      <description>&lt;![CDATA[美国AI公司们，开始青睐Made in China的大模型]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 09:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347104.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>不好美国要捧杀了！新研究：中国正在成为全球科学领导者</title>
-      <link>https://www.qbitai.com/2025/10/347103.html</link>
-      <description>&lt;![CDATA[不好美国要捧杀了！新研究：中国正在成为全球科学领导者]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 09:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347103.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>港股迎来Robotaxi第一股！小马和文远同日开启招股</title>
-      <link>https://www.qbitai.com/2025/10/346911.html</link>
-      <description>&lt;![CDATA[港股迎来Robotaxi第一股！小马和文远同日开启招股]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346911.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Soul App开源播客语音合成模型，可流畅自然多轮语音对话，支持川粤豫等多方言与副语言风格</title>
-      <link>https://www.qbitai.com/2025/10/346898.html</link>
-      <description>&lt;![CDATA[Soul App开源播客语音合成模型，可流畅自然多轮语音对话，支持川粤豫等多方言与副语言风格]]&gt;</description>
-      <pubDate>Wed, 29 Oct 2025 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/346898.html</guid>
+      <title>Cursor发布首个编程大模型！代码生成250tokens/秒，强化学习+MoE架构</title>
+      <link>https://www.qbitai.com/2025/10/347234.html</link>
+      <description>&lt;![CDATA[Cursor发布首个编程大模型！代码生成250tokens/秒，强化学习+MoE架构]]&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 01:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347234.html</guid>
       <category>AI</category>
     </item>
   </channel>

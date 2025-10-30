@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-29 23:19
+**最后更新时间**: 2025-10-30 05:20
+
+---
+
+## 🆕 最新更新 (2025-10-30 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI巨头，盯上韩国](https://www.tmtpost.com/7743467.html)
+**发布时间**: 2025-10-30 12:50
+
+#### [红板科技：高毛利与低研发并存，应收账款计提存疑，债务压顶仍向控股股东大额分红｜IPO观察](https://www.tmtpost.com/7743402.html)
+**发布时间**: 2025-10-30 12:32
+
+#### [特斯拉提出万亿薪酬计划，马斯克表示“我对钱不感兴趣”？](https://www.tmtpost.com/7743291.html)
+**发布时间**: 2025-10-30 12:19
+
+#### [谷歌的神反转：从 AI“牺牲品” 变 AI“弄潮人”](https://www.tmtpost.com/7743111.html)
+**发布时间**: 2025-10-30 12:13
+
+#### [茅台跌破1700元，年轻人愿意喝了吗？](https://www.tmtpost.com/7743066.html)
+**发布时间**: 2025-10-30 12:09
+
+#### [“酒店+公寓”的双品牌，真能做到“长短租”通吃么？](https://www.tmtpost.com/7743118.html)
+**发布时间**: 2025-10-30 12:02
+
+#### [这届00后，去市场淘布做“高定”](https://www.tmtpost.com/7743141.html)
+**发布时间**: 2025-10-30 11:55
+
+#### [创新药“矫枉过正”](https://www.tmtpost.com/7743143.html)
+**发布时间**: 2025-10-30 11:48
+
+#### [300万创一代集体老去，企二代能否顶上？](https://www.tmtpost.com/7743148.html)
+**发布时间**: 2025-10-30 11:41
+
+#### [利率债指数基金增长迅猛｜基金专题研究](https://www.tmtpost.com/7743368.html)
+**发布时间**: 2025-10-30 11:35
+
+#### [折叠机祛魅进行时](https://www.tmtpost.com/7743176.html)
+**发布时间**: 2025-10-30 11:35
+
+#### [光刻机拆解传闻：逆向工程思维应休矣，自主创新需夯实](https://www.tmtpost.com/7743222.html)
+**发布时间**: 2025-10-30 11:30
+
+#### [美的小米，正面开战](https://www.tmtpost.com/7743225.html)
+**发布时间**: 2025-10-30 11:26
+
+#### [一盘下了六年的棋，浦发赢得并不轻松](https://www.tmtpost.com/7743239.html)
+**发布时间**: 2025-10-30 11:26
+
+#### [时隔26年，北美网红炸鸡即将“杀”回北京](https://www.tmtpost.com/7743240.html)
+**发布时间**: 2025-10-30 11:26
+
+#### [独家对话均瑶总裁王均豪：造车“不要卷”，品牌要“慢慢炖”](https://www.tmtpost.com/7741120.html)
+**发布时间**: 2025-10-30 11:03
+
+#### [专家预测90%的预制菜企业将消失，谁会是幸存者？](https://www.tmtpost.com/7742963.html)
+**发布时间**: 2025-10-30 11:00
+
+#### [货运行业，迈出AI智能化第一步](https://www.tmtpost.com/7743151.html)
+**发布时间**: 2025-10-30 10:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cursor 2.0发布：自研代码模型 Composer 上线，8 个代理并行，速度提升 4 倍](https://www.infoq.cn/article/QlBwolS6TLQ36PaYGYf5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 12:04
+
+#### [新的基础设施即代码工具“formae”瞄准了Terraform](https://www.infoq.cn/article/QwhHPr7Wq6izYzZ59jvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 12:00
+
+#### [用Spring Boot、Spring AI、MongoDB Atlas向量搜索和OpenAI构建一个RAG应用程序](https://www.infoq.cn/article/qpjVYuBBR6g9aYHJ5jea?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 11:25
+
+#### [独立开发者，冲在「改变世界」第一线](https://www.infoq.cn/article/uErVKlC1ytFgAIYcChP7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 11:00
+
+#### [为什么说开发者参与鸿蒙生态共建是“恰逢其时”？](https://www.infoq.cn/article/TWb45VFp1m4UdvNSPWy5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 10:40
+
+#### [火山 HTTPDNS Cache2.0：网段级精准调度驱动核心业务收益](https://www.infoq.cn/article/1EUrWUJtPUwA1EtgolVa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 10:10
+
+#### [OpenAI推出ChatGPT Atlas：一个内置ChatGPT的浏览器](https://www.infoq.cn/article/MyNVJs2ZGHJqPZWHJqfN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-30 09:38
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [沪指又上了4000，为何这次会如此安静？](http://www.huxiu.com/article/4798546.html?f=wangzhan)
+**发布时间**: 2025-10-30 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [日本红枫季应该怎么玩？这是我的关西攻略](https://sspai.com/post/102412)
+**发布时间**: 2025-10-30 11:30
+
+#### [派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等](https://sspai.com/post/103421)
+**发布时间**: 2025-10-30 08:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [GPT 6要来了？15年后市值突破5万亿，OpenAI签下「对赌协议」](http://www.geekpark.net/news/355742)
+**发布时间**: 2025-10-30 10:31
+
+#### [OpenAI筹备IPO，估值1万亿美元；英伟达成全球首家5万亿美元公司；中国造「巨型放大镜」，比太阳亮万亿倍](http://www.geekpark.net/news/355734)
+**发布时间**: 2025-10-30 08:27
 
 ---
 
