@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-30 23:18
+**最后更新时间**: 2025-10-31 05:30
+
+---
+
+## 🆕 最新更新 (2025-10-31 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当理想变成市值：OpenAI的“自救时刻”](https://www.tmtpost.com/7744476.html)
+**发布时间**: 2025-10-31 13:12
+
+#### [A股算力租赁跨界：有梦想照进现实也有一戳就破的泡沫｜焦点](https://www.tmtpost.com/7744477.html)
+**发布时间**: 2025-10-31 12:32
+
+#### [陈天桥罕见公开演讲：投入超10亿美金发展“发现式智能”——“这才是AGI”](https://www.tmtpost.com/7744933.html)
+**发布时间**: 2025-10-31 12:28
+
+#### [聚仁新材：降价抢市场后仍有高毛利，募投扩产产品未明确 | IPO观察](https://www.tmtpost.com/7742001.html)
+**发布时间**: 2025-10-31 11:57
+
+#### [Sora 2上线之后，我却发现了AIGC的另一种可能性](https://www.tmtpost.com/7744700.html)
+**发布时间**: 2025-10-31 11:56
+
+#### [海正药业携手圣兆药物投资11亿入局复杂注射剂领域 | 融资首发](https://www.tmtpost.com/7744868.html)
+**发布时间**: 2025-10-31 11:35
+
+#### [高光、失血与急转：喜茶加盟800天](https://www.tmtpost.com/7744429.html)
+**发布时间**: 2025-10-31 11:16
+
+#### [XPeng Bolsters AI Team with StepFun Co-Founder to Accelerate Autonomous Driving Push](https://www.tmtpost.com/7744792.html)
+**发布时间**: 2025-10-31 10:43
+
+#### [独家｜人工智能专家周舒畅加入小鹏汽车，强化世界基座模型研发](https://www.tmtpost.com/7744773.html)
+**发布时间**: 2025-10-31 10:39
+
+#### [7年陪跑，超70倍回报：我们和田江川聊了聊滴普IPO与企业级AI | 巴伦独家](https://www.tmtpost.com/7744758.html)
+**发布时间**: 2025-10-31 10:19
+
+#### [540亿史玉柱，站在“巨人”肩上笑？](https://www.tmtpost.com/7744399.html)
+**发布时间**: 2025-10-31 10:15
+
+#### [比AI更懂老外的，可能是中国人](https://www.tmtpost.com/7744230.html)
+**发布时间**: 2025-10-31 10:00
+
+#### [思想的暗流：卡莱斯基的继承者们](https://www.tmtpost.com/7744687.html)
+**发布时间**: 2025-10-31 09:45
+
+#### [信用债指数基金收益稳健｜基金专题研究](https://www.tmtpost.com/7744677.html)
+**发布时间**: 2025-10-31 09:43
+
+#### [China's E-Commerce Boom Reaches Its Natural Limit as Consumption Shifts From Goods to Services](https://www.tmtpost.com/7744664.html)
+**发布时间**: 2025-10-31 09:40
+
+#### [AI耳机，哪家大厂在领跑？](https://www.tmtpost.com/7744256.html)
+**发布时间**: 2025-10-31 09:40
+
+#### [亚马逊市值一夜飙涨3300亿美元，AWS云业务超预期复苏](https://www.tmtpost.com/7744650.html)
+**发布时间**: 2025-10-31 09:36
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从文字到语音交互，AI 的下一个爆发点可能是拥有自己的身体](http://www.geekpark.net/news/355815)
+**发布时间**: 2025-10-31 12:46
+
+#### [中国人 2030 年登月目标不动摇；苹果季度营收超千亿美元；微信推「群聊选择性接受重要通知」](http://www.geekpark.net/news/355802)
+**发布时间**: 2025-10-31 08:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vercel Ship AI 2025：重点发布与技术更新一览](https://www.infoq.cn/article/t4Fk8PqCYgqVMfxOSKDT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 11:00
+
+#### [AWS ALB 现已原生支持 URL 与主机头重写功能](https://www.infoq.cn/article/WzV23TlWBq6F7Qsi2zz4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 09:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从书房到工作室，只需咔嗒一声：Khadas Mind 2 模块化工作流体验](https://sspai.com/post/103412)
+**发布时间**: 2025-10-31 10:32
+
+#### [派早报：iQOO Neo11 发布、Grammarly 完成品牌重组等](https://sspai.com/post/103446)
+**发布时间**: 2025-10-31 08:33
 
 ---
 
