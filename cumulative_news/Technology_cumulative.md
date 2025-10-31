@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-10-31 08:27
+**最后更新时间**: 2025-10-31 23:18
+
+---
+
+## 🆕 最新更新 (2025-10-31 23:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿迪达斯三季度营收创单季新高；好望水薏米水系列产品已售近1亿瓶；李宁推出全新“金标”系列｜消研所周报](https://www.tmtpost.com/7745335.html)
+**发布时间**: 2025-10-31 23:34
+
+#### [独家对话天翼交通巨有诚：用AI构筑智能交通的“指挥系统”](https://www.tmtpost.com/7743269.html)
+**发布时间**: 2025-10-31 22:11
+
+#### [锂盐三季报：锂价修复带暖业绩和股价，基金却集体趁涨离场｜行业风向标](https://www.tmtpost.com/7745751.html)
+**发布时间**: 2025-10-31 21:41
+
+#### [浙商银行三季报出炉，总资产增近2%，不良贷款率下降｜看财报](https://www.tmtpost.com/7745291.html)
+**发布时间**: 2025-10-31 20:53
+
+#### [站上世界级科研舞台！逸仙集团发布中国首份美妆创新白皮书](https://www.tmtpost.com/7744888.html)
+**发布时间**: 2025-10-31 20:47
+
+#### [24.04亿现金收购浙江向隆，领益智造汽车零部件棋局再落一子｜并购一线](https://www.tmtpost.com/7745475.html)
+**发布时间**: 2025-10-31 20:46
+
+#### [中美贸易协定下周或签署，A股走势如何？](https://www.tmtpost.com/7745249.html)
+**发布时间**: 2025-10-31 20:28
+
+#### [刘鹏接任山姆CEO，阿里系的“关键先生”](https://www.tmtpost.com/7745542.html)
+**发布时间**: 2025-10-31 20:27
+
+#### [外卖大战熄火，但把今年双11配送“带快”了](https://www.tmtpost.com/7745603.html)
+**发布时间**: 2025-10-31 20:27
+
+#### [苹果：iPhone 稳住 C 位，AI 何时露真容？](https://www.tmtpost.com/7744692.html)
+**发布时间**: 2025-10-31 20:09
+
+#### [从预选赛到突围赛，Robotaxi双雄竞速“第一股”](https://www.tmtpost.com/7745267.html)
+**发布时间**: 2025-10-31 20:08
+
+#### [“女性友好”的香港，值得你去“港漂”吗？](https://www.tmtpost.com/7745498.html)
+**发布时间**: 2025-10-31 20:08
+
+#### [短剧推广“月入过万”：换皮培训班玩的还是老套路](https://www.tmtpost.com/7745349.html)
+**发布时间**: 2025-10-31 20:08
+
+#### [英伟达不是被计划出来的](https://www.tmtpost.com/7744733.html)
+**发布时间**: 2025-10-31 20:08
+
+#### [养老院，住进了“卷不动”的年轻人](https://www.tmtpost.com/7744947.html)
+**发布时间**: 2025-10-31 20:01
+
+#### [亚马逊和谷歌的广告战争，开始打到云上了](https://www.tmtpost.com/7745464.html)
+**发布时间**: 2025-10-31 20:01
+
+#### [远离擦边后，这个价值过亿的品类“风口”越来越好了](https://www.tmtpost.com/7744656.html)
+**发布时间**: 2025-10-31 19:34
+
+#### [我们与恶的距离，只隔着一个谄媚的AI](https://www.tmtpost.com/7745247.html)
+**发布时间**: 2025-10-31 19:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [配置文件面面观（上）：配置格式的类型和特点](https://sspai.com/prime/story/config-formats-1)
+**发布时间**: 2025-10-31 22:49
+
+#### [本月玩什么｜羊蹄山、宝可梦Z-A、天外世界2](https://sspai.com/post/103455)
+**发布时间**: 2025-10-31 21:45
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103452)
+**发布时间**: 2025-10-31 18:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智源悟界·Emu3.5发布，开启“下一状态预测”！王仲远：或开启第三个Scaling范式](https://www.infoq.cn/article/VP8MogEtsbjOroDfrcsE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 19:07
+
+#### [4倍速吊打Cursor新模型！英伟达数千GB200堆出的SWE-1.5，圆了Devin的梦！实测被曝性能“滑铁卢”？](https://www.infoq.cn/article/Lwm5FDEBrLcxJ2D6wayK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 18:43
+
+#### [刚刚，英伟达拟10亿美元砸向这家AI编码创企！Copilot 技术大佬带队、成立两年估值近千亿](https://www.infoq.cn/article/9UacsTZl03kisdiiI2oS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 18:00
+
+#### [顶会SOSP 2025最佳论文，被一个国产自研操作系统拿下](https://www.infoq.cn/article/67Og3rp0dclhTtzUQ21O?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 16:42
+
+#### [2025年InfoQ趋势报告：云计算和DevOps篇](https://www.infoq.cn/article/Ct0XiRzHirx4rz1ESjuH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-10-31 16:28
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从 SD 到 Wan2.5-Preview，AI 视频 2025 质变启示录](http://www.geekpark.net/news/355850)
+**发布时间**: 2025-10-31 18:24
+
+#### [从文字到语音交互，AI 的下一个爆发点可能是拥有自己的身体](http://www.geekpark.net/news/355848)
+**发布时间**: 2025-10-31 18:05
+
+#### [让 AI 开口「像人」：最难的不是智能，是「嗓音」](http://www.geekpark.net/news/355846)
+**发布时间**: 2025-10-31 18:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从连滚带爬到服务很好，郑智化舆情竟一夜反转？](http://www.huxiu.com/article/4798811.html?f=wangzhan)
+**发布时间**: 2025-10-31 15:30
 
 ---
 

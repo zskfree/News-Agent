@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 31 Oct 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2025 08:27:32 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2025 23:18:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>量子位2025年度榜单冲刺申报中！企业/产品/人物榜正在征集</title>
-      <link>https://www.qbitai.com/2025/10/347762.html</link>
-      <description>&lt;![CDATA[量子位2025年度榜单冲刺申报中！企业/产品/人物榜正在征集]]&gt;</description>
-      <pubDate>Fri, 31 Oct 2025 05:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347762.html</guid>
+      <title>大模型公司不搞浏览器搞Agent，实测找到原因了</title>
+      <link>https://www.qbitai.com/2025/10/347801.html</link>
+      <description>&lt;![CDATA[大模型公司不搞浏览器搞Agent，实测找到原因了]]&gt;</description>
+      <pubDate>Fri, 31 Oct 2025 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347801.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Kimi开源新线性注意力架构，首次超越全注意力模型，推理速度暴涨6倍</title>
+      <link>https://www.qbitai.com/2025/10/347789.html</link>
+      <description>&lt;![CDATA[Kimi开源新线性注意力架构，首次超越全注意力模型，推理速度暴涨6倍]]&gt;</description>
+      <pubDate>Fri, 31 Oct 2025 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347789.html</guid>
       <category>AI</category>
     </item>
   </channel>
