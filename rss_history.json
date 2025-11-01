@@ -3261,66 +3261,6 @@
       }
     },
     "Technology": {
-      "f3d095318ed549f6f121bca6c9550d3bc46d27040582bac0b9a67b7cc3010e89": {
-        "title": ".NET MAUI RC1 带来了诊断功能以及Android CoreCLR的实验性支持",
-        "link": "https://www.infoq.cn/article/oLk2AQ1iCyxdLNXdsSST?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252177"
-      },
-      "70081d02a323900d0f31f966ab1c6b161c874a02336e70ee7940fc8b6ca99cd3": {
-        "title": "AI 模型评分有标准了！Google Stax 当“裁判”，作弊也难逃“量化法眼”",
-        "link": "https://www.infoq.cn/article/wk3gggWkIL2PdMfSHdMW?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252194"
-      },
-      "262d27bc4b86afe1b21b560df46ef218e5a0307bdce5c7e77aadf2b1f3a68c16": {
-        "title": "一年住 7 晚酒店的你，真的需要酒店高级会员吗？",
-        "link": "https://sspai.com/post/94079",
-        "published_date": "Thu, 02 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252206"
-      },
-      "047df6cc486289a49708ad3c36108848d3fe1bbb2aa5e44abb58577be7914256": {
-        "title": "疲软的就业数据难挡火热经济，这三只ETF值得买入",
-        "link": "https://www.tmtpost.com/7712583.html",
-        "published_date": "Thu, 02 Oct 2025 09:51:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252217"
-      },
-      "e500775bbf6f198a7f30b819bad7592e8c1f2d96e4393bee234e06642b05ef95": {
-        "title": "特朗普引发了医药股上涨，但这波行情或难以持续",
-        "link": "https://www.tmtpost.com/7712581.html",
-        "published_date": "Thu, 02 Oct 2025 09:51:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252226"
-      },
-      "b468c4ce8c004683e6f9b3bbbce36085f93430bb15a5231e2890fb435ce2f5e5": {
-        "title": "一文讲透美股公司之：IREN，从加密矿工到AI Infra",
-        "link": "https://www.tmtpost.com/7712420.html",
-        "published_date": "Thu, 02 Oct 2025 09:20:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252237"
-      },
-      "f226cc77dafb633a4984fe4218fd2d3bf3c6f416429aa8365a22daa4bbc531f5": {
-        "title": "摩根士丹利将台积电台股目标价上调至1588新台币",
-        "link": "https://www.tmtpost.com/7712492.html",
-        "published_date": "Thu, 02 Oct 2025 09:05:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252246"
-      },
-      "2a208f7007393fa077b0645c1e4c32b45d9e5703792c4898408ee8a387ddecf1": {
-        "title": "小鹏汽车交付新车 41,581 台，同比增长 95%",
-        "link": "https://www.tmtpost.com/7712490.html",
-        "published_date": "Thu, 02 Oct 2025 09:04:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252257"
-      },
-      "271560b71c12f1fbf5b8eda6269815d2e114cfb7475dad9267af1d08d9435d00": {
-        "title": "造车新势力9月交付数据出炉，多家车企创历史新高",
-        "link": "https://www.tmtpost.com/7712488.html",
-        "published_date": "Thu, 02 Oct 2025 09:03:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252267"
-      },
-      "cf2a4abade9a53f586b26a76f11c9250cedd9be086fbc6127d877c4b37fd202c": {
-        "title": "历史首位，马斯克身家突破 5000 亿美元；王腾注销、清空多个社媒账号；美国演员工会抵制 AI 演员",
-        "link": "http://www.geekpark.net/news/354767",
-        "published_date": "Thu, 02 Oct 2025 08:13:00 GMT",
-        "first_seen": "2025-10-02T05:20:15.252149"
-      },
       "09475f353952646f7bd969c581c25b802ea6e6f38b035aaefc565d0b67241ea8": {
         "title": "自律争议漩涡：弘元澄清与行业传言的拉锯战",
         "link": "https://www.tmtpost.com/7712639.html",
@@ -14306,6 +14246,42 @@
         "link": "http://www.geekpark.net/news/355860",
         "published_date": "Sat, 01 Nov 2025 08:42:00 GMT",
         "first_seen": "2025-11-01T05:19:42.598779"
+      },
+      "133beab4f96bde35143945174b84515a5d08983fa67d9ecdb8f8027ee4243863": {
+        "title": "鹏辉能源暴增977%背后：储能战争的幸存者与颠覆者",
+        "link": "https://www.tmtpost.com/7745779.html",
+        "published_date": "Sat, 01 Nov 2025 16:12:00 GMT",
+        "first_seen": "2025-11-01T08:24:15.246222"
+      },
+      "d99bc03c17ef330bda68e26cfae06dbace537f1bab2107a24cc86234e93ac4c8": {
+        "title": "低空经济的风口，站满了想飞起来的创业者",
+        "link": "https://www.tmtpost.com/7746029.html",
+        "published_date": "Sat, 01 Nov 2025 15:53:00 GMT",
+        "first_seen": "2025-11-01T08:24:15.246387"
+      },
+      "515c08a46c97fc3e2840091d16a6a11dbde35bf496446e4ddcb7839ed1e24963": {
+        "title": "「一页纸」讲透美股公司之：IonQ，离子阱龙头",
+        "link": "https://www.tmtpost.com/7745882.html",
+        "published_date": "Sat, 01 Nov 2025 15:53:00 GMT",
+        "first_seen": "2025-11-01T08:24:15.246550"
+      },
+      "8d39351dc0aed34683e475d25230026f3d0322ffa0f7288267583fbc172f4c0b": {
+        "title": "一文深度解读星巴克最新财报",
+        "link": "https://www.tmtpost.com/7743945.html",
+        "published_date": "Sat, 01 Nov 2025 14:57:00 GMT",
+        "first_seen": "2025-11-01T08:24:15.246678"
+      },
+      "2795e88f8bd3da3dfe99a68583428a6f9a28732ff0f9c2e00840352fe7380dd6": {
+        "title": "就连OpenAI也要IPO了",
+        "link": "https://www.tmtpost.com/7745708.html",
+        "published_date": "Sat, 01 Nov 2025 14:57:00 GMT",
+        "first_seen": "2025-11-01T08:24:15.246832"
+      },
+      "f0dda0ced10aba9f76b8fd803ec0e4c755fa10243ba1eb42c86eff5e40b2ed2f": {
+        "title": "当 ChatGPT 要开始「搞黄色」，我都不敢想......",
+        "link": "http://www.geekpark.net/news/355863",
+        "published_date": "Sat, 01 Nov 2025 14:45:00 GMT",
+        "first_seen": "2025-11-01T08:24:15.247106"
       }
     },
     "Finance": {
@@ -15422,8 +15398,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-01T05:19:42.566272",
-    "Technology": "2025-11-01T05:19:42.606059",
-    "Finance": "2025-11-01T05:19:42.434513"
+    "AI": "2025-11-01T08:24:15.213749",
+    "Technology": "2025-11-01T08:24:15.270884",
+    "Finance": "2025-11-01T08:24:15.100259"
   }
 }

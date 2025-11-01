@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Nov 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Nov 2025 05:19:42 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 08:24:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 08:24:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,59 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>理想致歉了，但用户对新能源车的全面信任还没到来</title>
-      <link>http://www.huxiu.com/article/4799479.html?f=wangzhan</link>
-      <description>&lt;![CDATA[理想致歉了，但用户对新能源车的全面信任还没到来]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4799479.html?f=wangzhan</guid>
+      <title>鹏辉能源暴增977%背后：储能战争的幸存者与颠覆者</title>
+      <link>https://www.tmtpost.com/7745779.html</link>
+      <description>&lt;![CDATA[鹏辉能源暴增977%背后：储能战争的幸存者与颠覆者]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7745779.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巨人网络换帅，张栋「功高震主」？</title>
-      <link>https://www.tmtpost.com/7745633.html</link>
-      <description>&lt;![CDATA[巨人网络换帅，张栋「功高震主」？]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7745633.html</guid>
+      <title>低空经济的风口，站满了想飞起来的创业者</title>
+      <link>https://www.tmtpost.com/7746029.html</link>
+      <description>&lt;![CDATA[低空经济的风口，站满了想飞起来的创业者]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7746029.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2000万美元重注强脑科技，三七互娱落子脑机接口新纪元</title>
-      <link>https://www.tmtpost.com/7745667.html</link>
-      <description>&lt;![CDATA[2000万美元重注强脑科技，三七互娱落子脑机接口新纪元]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7745667.html</guid>
+      <title>「一页纸」讲透美股公司之：IonQ，离子阱龙头</title>
+      <link>https://www.tmtpost.com/7745882.html</link>
+      <description>&lt;![CDATA[「一页纸」讲透美股公司之：IonQ，离子阱龙头]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7745882.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>VC变成了高利贷</title>
-      <link>https://www.tmtpost.com/7745552.html</link>
-      <description>&lt;![CDATA[VC变成了高利贷]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7745552.html</guid>
+      <title>一文深度解读星巴克最新财报</title>
+      <link>https://www.tmtpost.com/7743945.html</link>
+      <description>&lt;![CDATA[一文深度解读星巴克最新财报]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7743945.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>最新基金“赚钱榜”出炉！最高收益超200%，AI赛道霸屏重仓股</title>
-      <link>https://www.tmtpost.com/7745538.html</link>
-      <description>&lt;![CDATA[最新基金“赚钱榜”出炉！最高收益超200%，AI赛道霸屏重仓股]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7745538.html</guid>
+      <title>就连OpenAI也要IPO了</title>
+      <link>https://www.tmtpost.com/7745708.html</link>
+      <description>&lt;![CDATA[就连OpenAI也要IPO了]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7745708.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>语言模型之后，智源 EMU3.5 找到了 AI 的「第三种 Scaling 范式」</title>
-      <link>http://www.geekpark.net/news/355852</link>
-      <description>&lt;![CDATA[语言模型之后，智源 EMU3.5 找到了 AI 的「第三种 Scaling 范式」]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/355852</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>李想谈万台MEGA召回：生命只有一次；传明年AirPods配摄像头+AI；神舟二十一飞船发射成功，对接速度创纪录|极客早知道</title>
-      <link>http://www.geekpark.net/news/355860</link>
-      <description>&lt;![CDATA[李想谈万台MEGA召回：生命只有一次；传明年AirPods配摄像头+AI；神舟二十一飞船发射成功，对接速度创纪录|极客早知道]]&gt;</description>
-      <pubDate>Sat, 01 Nov 2025 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/355860</guid>
+      <title>当 ChatGPT 要开始「搞黄色」，我都不敢想......</title>
+      <link>http://www.geekpark.net/news/355863</link>
+      <description>&lt;![CDATA[当 ChatGPT 要开始「搞黄色」，我都不敢想......]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/355863</guid>
       <category>Technology</category>
     </item>
   </channel>
