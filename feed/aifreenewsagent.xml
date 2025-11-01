@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 31 Oct 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2025 23:18:48 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 05:19:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型公司不搞浏览器搞Agent，实测找到原因了</title>
-      <link>https://www.qbitai.com/2025/10/347801.html</link>
-      <description>&lt;![CDATA[大模型公司不搞浏览器搞Agent，实测找到原因了]]&gt;</description>
-      <pubDate>Fri, 31 Oct 2025 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347801.html</guid>
+      <title>原神LOL齐聚的Unity开发者大会，我看到了AI游戏的未来</title>
+      <link>https://www.qbitai.com/2025/11/347975.html</link>
+      <description>&lt;![CDATA[原神LOL齐聚的Unity开发者大会，我看到了AI游戏的未来]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/347975.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Kimi开源新线性注意力架构，首次超越全注意力模型，推理速度暴涨6倍</title>
-      <link>https://www.qbitai.com/2025/10/347789.html</link>
-      <description>&lt;![CDATA[Kimi开源新线性注意力架构，首次超越全注意力模型，推理速度暴涨6倍]]&gt;</description>
-      <pubDate>Fri, 31 Oct 2025 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/10/347789.html</guid>
+      <title>LLM能替代数据科学家了？DeepAnalyze帮你告别手动分析数据</title>
+      <link>https://www.qbitai.com/2025/11/347965.html</link>
+      <description>&lt;![CDATA[LLM能替代数据科学家了？DeepAnalyze帮你告别手动分析数据]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 04:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/347965.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>今年双11，聪明人都在偷偷换AI PC</title>
+      <link>https://www.qbitai.com/2025/11/347893.html</link>
+      <description>&lt;![CDATA[今年双11，聪明人都在偷偷换AI PC]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 04:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/347893.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>你的AI Twin即将上线，天禧AI 3.5版本重大升级！构建你的个人专属硅基队友</title>
+      <link>https://www.qbitai.com/2025/11/347873.html</link>
+      <description>&lt;![CDATA[你的AI Twin即将上线，天禧AI 3.5版本重大升级！构建你的个人专属硅基队友]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 02:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/347873.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>微软独家：OpenAI最新季度净亏损115亿美元</title>
+      <link>https://www.qbitai.com/2025/11/347840.html</link>
+      <description>&lt;![CDATA[微软独家：OpenAI最新季度净亏损115亿美元]]&gt;</description>
+      <pubDate>Sat, 01 Nov 2025 01:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/347840.html</guid>
       <category>AI</category>
     </item>
   </channel>
