@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "ebd41eca64bef4557eac17b826e209278af2261d7db51218ba03488132c9218e": {
-        "title": "AI maps how a new antibiotic targets gut bacteria",
-        "link": "https://news.mit.edu/2025/ai-maps-how-new-antibiotic-targets-gut-bacteria-1003",
-        "published_date": "Fri, 03 Oct 2025 17:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.577387"
-      },
-      "d686a07664c792bde5f8b8a9d0e8a81f034a05f6972545dbfce8f601e5978cb8": {
-        "title": "The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal",
-        "link": "https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/",
-        "published_date": "Fri, 03 Oct 2025 12:10:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.577697"
-      },
       "a37b71ebaeeab3ec440f74b8560a90aaad93ef65f8245132cb09c9e47f30b4fb": {
         "title": "OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工",
         "link": "https://www.qbitai.com/2025/10/339453.html",
@@ -2910,39 +2898,15 @@
         "link": "https://www.qbitai.com/2025/11/347840.html",
         "published_date": "Sat, 01 Nov 2025 01:36:00 GMT",
         "first_seen": "2025-11-01T05:19:42.543073"
+      },
+      "72403e604d1496ef34a2ee3943f3c5931a2367ee74f822b0465bcc946c8dd5cb": {
+        "title": "奥特曼纳德拉同台回应一切：合作细节、OpenAI未来路线曝光",
+        "link": "https://www.qbitai.com/2025/11/348079.html",
+        "published_date": "Sun, 02 Nov 2025 10:23:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.687543"
       }
     },
     "Technology": {
-      "6bf63f12fd3d6817f2eb0f53036bba64ece70b3adab43f21e42c8d34d44e8733": {
-        "title": "全球资产估值逻辑生变，谁是王者？",
-        "link": "https://www.tmtpost.com/7713008.html",
-        "published_date": "Fri, 03 Oct 2025 14:08:00 GMT",
-        "first_seen": "2025-10-03T08:25:30.865751"
-      },
-      "b193f0ec18c7062317fe117618102836d5af2cceabd1112b4c9f15b5e7d2f53b": {
-        "title": "这把猛火终究烧到了公募行业",
-        "link": "http://www.huxiu.com/article/4788165.html?f=wangzhan",
-        "published_date": "Fri, 03 Oct 2025 13:17:00 GMT",
-        "first_seen": "2025-10-03T08:25:30.865883"
-      },
-      "578d50fee814ecc02f8d8650e53122d5a66c42535aa42054e5e274300fef78c9": {
-        "title": "“大电池”的天快塌了",
-        "link": "http://www.huxiu.com/article/4786606.html?f=wangzhan",
-        "published_date": "Fri, 03 Oct 2025 08:31:00 GMT",
-        "first_seen": "2025-10-03T08:25:30.866027"
-      },
-      "1d3a9759a3f098e8a4edf847a6ba2c3ede7387207723641dc5808c1b543e18df": {
-        "title": "At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star",
-        "link": "https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/",
-        "published_date": "Fri, 03 Oct 2025 06:00:00 GMT",
-        "first_seen": "2025-10-03T08:25:30.866226"
-      },
-      "40ef68600387886d24da24f9bc40d95f8f9e766f643d14d65f2c089f83905cb5": {
-        "title": "$25 Off DoorDash Promo Code | October 2025",
-        "link": "https://www.wired.com/story/doordash-promo-code/",
-        "published_date": "Fri, 03 Oct 2025 05:30:00 GMT",
-        "first_seen": "2025-10-03T08:25:30.866498"
-      },
       "04ffd5e1ecba065946f86fa2fec2f9da66d43bedae5c4fbfd2efa6da9c9b0431": {
         "title": "Swift 6.2 发布，改进了并发性、更安全的原始内存访问、Wasm 支持等",
         "link": "https://www.infoq.cn/article/lMCbwlK118KD3Ql9oHbA?utm_source=rss&utm_medium=article",
@@ -2973,12 +2937,6 @@
         "published_date": "Fri, 03 Oct 2025 21:13:00 GMT",
         "first_seen": "2025-10-03T23:18:32.961563"
       },
-      "7afbcdf3a882d62d9a4f4abc0938d70eff67d9ecb8fb5ce37a21054843fe1c84": {
-        "title": "The Explicability of AI Models is a Key Challenge in High-Impact Fields, Says Alphabet Chair at NEX-T Summit",
-        "link": "https://www.tmtpost.com/7713176.html",
-        "published_date": "Fri, 03 Oct 2025 21:06:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.614424"
-      },
       "76e957b03ad004f8be86e7b638ed54162c9e7aa100950b5356b257bb8d661671": {
         "title": "光伏“反内卷”，“反”出三年来最强一季",
         "link": "https://www.tmtpost.com/7713136.html",
@@ -3008,108 +2966,6 @@
         "link": "https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/",
         "published_date": "Fri, 03 Oct 2025 17:19:00 GMT",
         "first_seen": "2025-10-03T23:18:32.961616"
-      },
-      "d303452ca86e9305e6c54be22feddf1a91a854c492a600c8ae0f4f392f8fb333": {
-        "title": "Your Delivery Robot Is Here",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-your-delivery-robot-is-here/",
-        "published_date": "Fri, 03 Oct 2025 15:04:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.619158"
-      },
-      "d0771df4da0d03487e78ad8901d69bab6d3776230e5e5d6d2dc0dbfd07cb9619": {
-        "title": "Sam Altman Says the GPT-5 Haters Got It All Wrong",
-        "link": "https://www.wired.com/story/sam-altman-says-the-gpt-5-haters-got-it-all-wrong/",
-        "published_date": "Fri, 03 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.620515"
-      },
-      "25908f1fbf3bf09067020cc90d9337c15f564951d67855fd4b4645b3c2b8aee4": {
-        "title": "ICE Wants to Build Out a 24/7 Social Media Surveillance Team",
-        "link": "https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/",
-        "published_date": "Fri, 03 Oct 2025 13:21:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.622384"
-      },
-      "f14fa7399c0d3da60bdeeca4551972fcf69cbd8d9f0ff76cfae89e9d656570f3": {
-        "title": "Why Are Car Software Updates Still So Bad?",
-        "link": "https://www.wired.com/story/why-are-car-software-updates-still-so-bad/",
-        "published_date": "Fri, 03 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.623834"
-      },
-      "4ee3559d91ae3da8d7b29b8558d7675ec951ea23ae0b52ab1a329194f96d0e41": {
-        "title": "Inside the Contentious World of Luigi Mangione Supporters",
-        "link": "https://www.wired.com/story/inside-the-contentious-world-of-luigi-mangione-supporters/",
-        "published_date": "Fri, 03 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.625798"
-      },
-      "c365a3f26446aaa45cb536f62eddb08f3d9c6e9fb1ecac704403991986b8ec2a": {
-        "title": "A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo",
-        "link": "https://www.wired.com/story/a-newly-discovered-einsteins-cross-reveals-the-existence-of-a-giant-dark-matter-halo/",
-        "published_date": "Fri, 03 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.628578"
-      },
-      "ed2e06a60e543941a2f8988c86cb20737d2b0c81d674874d0a4056f52d98d8ea": {
-        "title": "Tales from the AI hiring frenzy",
-        "link": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
-        "published_date": "Fri, 03 Oct 2025 19:30:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.629942"
-      },
-      "f0edb0de4137e84b5d6ca102b81e5dd496330c2bea92a2338372e0e4f54d9717": {
-        "title": "Unity discloses a years-old security exploit and urges developers to update their games",
-        "link": "https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games",
-        "published_date": "Fri, 03 Oct 2025 19:23:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.633239"
-      },
-      "7484e8cc6ffb3886b8bdcca815e38f3f61a09ed48a767858d0ba592e69b9974b": {
-        "title": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
-        "link": "https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock",
-        "published_date": "Fri, 03 Oct 2025 19:09:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.636122"
-      },
-      "4c36642bd5eeaf31418206cdac8f42a2da0388de8c94fb9285d9fbe79aa4a7e9": {
-        "title": "Amazon’s Fire TV Stick 4K is getting a new name soon",
-        "link": "https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon",
-        "published_date": "Fri, 03 Oct 2025 18:44:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.638700"
-      },
-      "4d1424ce396cbdc3987141af7250dde895423591327c94d7c3d23f4e4ab57bce": {
-        "title": "Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons",
-        "link": "https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller",
-        "published_date": "Fri, 03 Oct 2025 18:10:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.642301"
-      },
-      "c15b0d7135cb5009cd779dac89b02e9969a67f57d62ce7e3482974f8c796c3cf": {
-        "title": "Tesla’s cheaper Model Y finally breaks cover",
-        "link": "https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak",
-        "published_date": "Fri, 03 Oct 2025 18:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.644771"
-      },
-      "659aa8e73d8704c83d9a3159be8fd846aef83594bcedfa35b0ac4fec210c9ca5": {
-        "title": "I’ve fallen into Sora’s slippery slop",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
-        "published_date": "Fri, 03 Oct 2025 17:08:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.647237"
-      },
-      "251cfeb38aeef8483454b46fd857ab366cab0861db8aa2203141b6185eb41eaa": {
-        "title": "Trump rolled YouTube into paying for his ballroom",
-        "link": "https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom",
-        "published_date": "Fri, 03 Oct 2025 16:52:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.650288"
-      },
-      "e237c57a325537aa9dce4ab42d9a5d7fd6e6bbb7e0616953a88d7c65c06fdd7f": {
-        "title": "Sony shrinks PS5 Slim storage in the US, too",
-        "link": "https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series",
-        "published_date": "Fri, 03 Oct 2025 15:39:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.653180"
-      },
-      "81b646cd3565094da094171beb8a501b42d20436f35041c9e078fb63be435610": {
-        "title": "Hoto put a lo-fi torque display on its new cordless screwdriver",
-        "link": "https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display",
-        "published_date": "Fri, 03 Oct 2025 15:39:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.657140"
-      },
-      "2cfaa6c477bf753b0d6f8cf9b278bd2dcbf39adddffcb42d1c585a7049b02b75": {
-        "title": "这次一定：iPhone 17 标准版使用体验",
-        "link": "https://sspai.com/post/102893",
-        "published_date": "Fri, 03 Oct 2025 17:02:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.658746"
       },
       "9970e68178fffc51d173b4ed84ad9011b940af09b72d89bf65f8a15a91024cdb": {
         "title": "鸿蒙 1024｜鸿蒙，我的独家记忆",
@@ -13928,111 +13784,69 @@
         "link": "https://www.tmtpost.com/7746294.html",
         "published_date": "Sun, 02 Nov 2025 13:22:00 GMT",
         "first_seen": "2025-11-02T08:23:53.419466"
+      },
+      "f41b40b65b76113bad5c39478714626f42940cf12521b3a282c706e51d6d854c": {
+        "title": "连亏五个季度后，光伏板块终于盈利了",
+        "link": "https://www.tmtpost.com/7746476.html",
+        "published_date": "Sun, 02 Nov 2025 22:49:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.742974"
+      },
+      "c6a8a1f8341d9706046e12b2c2119d5783c85eb3426057da407014194d433e0a": {
+        "title": "被挤压的中产：全球中产阶级的困境与焦虑",
+        "link": "https://www.tmtpost.com/7745822.html",
+        "published_date": "Sun, 02 Nov 2025 17:49:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.743126"
+      },
+      "63a4625822e6c5e84ee8080b365fc1e1ea0ce1d4b3eb60c8de48bca4e1db380c": {
+        "title": "购置税新规将近，新势力们抢占窗口期",
+        "link": "https://www.tmtpost.com/7746083.html",
+        "published_date": "Sun, 02 Nov 2025 17:48:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.743263"
+      },
+      "30858dae5d5dc81334aa383b264180041eca0ef8da6ab3d85afdaf2fe403d89c": {
+        "title": "索赔近43亿，前CTO把寒武纪告了",
+        "link": "https://www.tmtpost.com/7746141.html",
+        "published_date": "Sun, 02 Nov 2025 17:48:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.743423"
+      },
+      "3d2214f8ccf71b2cdff2eba6b5fbc48dab7eefade246478ef7a4b9a6c738899e": {
+        "title": "梁军状告寒武纪天价索赔始末：如何从理想共同体，走到42亿控诉？",
+        "link": "https://www.tmtpost.com/7746310.html",
+        "published_date": "Sun, 02 Nov 2025 17:47:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.743628"
+      },
+      "25b45a46e33b59cc906d78421c87206ac91260e0ed48649dbff80fff494a1010": {
+        "title": "5300亿！钟睒睒第四次成为中国首富，深扒背后的商业模式",
+        "link": "https://www.tmtpost.com/7746331.html",
+        "published_date": "Sun, 02 Nov 2025 17:46:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.743895"
+      },
+      "1da886cf6c132fbb9e573fc2a8d44c02b844724556b699aa8540425830941ec1": {
+        "title": "领导1v1面谈的5个问题，究竟在谈什么？",
+        "link": "https://www.tmtpost.com/7746313.html",
+        "published_date": "Sun, 02 Nov 2025 17:45:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.744166"
+      },
+      "0b6bf3b21a10f4c13b037989f70cdddf0c42405b32462f94fbd088fbff0cd9fb": {
+        "title": "苏超的世界：教你先爱上足球，再爱这座城 | 情绪消费观察",
+        "link": "https://www.tmtpost.com/7746372.html",
+        "published_date": "Sun, 02 Nov 2025 17:25:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.744511"
+      },
+      "4924e180ac6cfded5dab95da4efd7b397ad975f8a820aaa62f9e208a0df290a7": {
+        "title": "10年经验，不敌 AI 10秒？对话5位顶尖架构师：AI不会替代我们，但会淘汰旧的我们",
+        "link": "https://www.infoq.cn/article/AH5TbSFIlgwi4Q01dVCE?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 02 Nov 2025 18:00:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.745080"
+      },
+      "298d6251bd438b05dca733f3f3be2df87c22206d0eac09b93d942893d71c8ecf": {
+        "title": "Mac 选购指南 2025 双十一版",
+        "link": "https://sspai.com/post/85735",
+        "published_date": "Sun, 02 Nov 2025 15:32:00 GMT",
+        "first_seen": "2025-11-02T23:18:28.745489"
       }
     },
     "Finance": {
-      "ba36cc94231a8412a21b9a4788efc1e1b85c1ca1733d84b801eb3bfafe872ac2": {
-        "title": "Why OPEC+ will likely hike its oil-output quota — even as prices post steep drop",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4809b219-906c-467e-b61f-1d43bfef73e3&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 22:47:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458594"
-      },
-      "36efa47dac1a7fd1f558abb56aadbbc91406f015ee6d602be1ec22022193c52a": {
-        "title": "How this Wall Street skeptic is investing to combat inflation and a weak dollar",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a66190c0-6ad2-43f6-a12d-0e7b5e31b46e&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 21:57:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458624"
-      },
-      "5d58f81c2e61849425df947efc59fd0fb94b94cb0e5cd3c033f18561750dee2b": {
-        "title": "Stock market’s march higher has fueled a record rush of bullish options trading",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9f416c15-742d-4baa-af63-3edffd7eab69&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 20:30:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458641"
-      },
-      "69aa102f4561ac02494917541cd77811ed3b8ff66280656843e3dc8a42e6b20e": {
-        "title": "Dow closes at fresh record high, Nasdaq ends lower as tech stocks struggle",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c1adc1cf-7c15-4b61-b7dd-eb7bc1c0b814&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 20:06:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458654"
-      },
-      "7b771aa29045845316a3639917404e8859fce5051f4ec8c27db9f273d5bc93a0": {
-        "title": "How investors can get around the government shutdown's economic-data void",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff274176-7e48-48ef-9ed8-da01424efe02&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 19:47:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458666"
-      },
-      "c4dfd8dbcdbd53a4b4dda703699f371acc47fe2c061614eacfb2bb3b53b74ed7": {
-        "title": "Dow paring gains, Nasdaq lower in final hour as tech stocks lag — follow live",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=53fd8a76-2c0b-4330-afa3-a98d8b40167f&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 19:03:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458680"
-      },
-      "724d727d8de9500ba09ffad92692149e9cd7bf319d574231398eae19a8c675fc": {
-        "title": "Why Microsoft’s stock now looks like 'free money,' according to one analyst",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=82fdfb70-a294-4e09-99d7-600bc4443e9e&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 17:34:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458693"
-      },
-      "70055ac5befdae456c80dbf9739894055c22d11367fb15b4f74dafcb50665cd9": {
-        "title": "Dow up nearly 500 points as 4 most-watched indexes shoot for 6-session streaks",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bad9fa12-c5c9-47eb-97d3-c77f0bade9cb&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 16:00:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458704"
-      },
-      "7b45ad6aec66adb374dd0721cc76d6135259d240e7f1ce8f2ef0a4ef7e77e84b": {
-        "title": "A sustainable Apple rebound is more complicated than you’d think. Here’s why.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18e30cf3-fac8-4a07-8596-86beccaa33b4&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 15:26:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458715"
-      },
-      "64e4a73f84fc4c3ba79e49c708ca41798061375ac3968ccb757039bd71f43b7a": {
-        "title": "U.S. job market contracted for a fourth straight month in September: ISM",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=318d517f-5f1a-45e9-86ad-cb4bc4f2eef7&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 14:21:00 GMT",
-        "first_seen": "2025-10-03T23:17:44.458726"
-      },
-      "43aff9bab05c0515d62c3ec446fb6ba4e406b83efbdab33a875f4000e2ef52d8": {
-        "title": "The monthly BLS employment report is the gold standard. But investors have other options.",
-        "link": "https://www.marketwatch.com/story/how-to-read-the-economy-during-a-government-shutdown-so-you-can-invest-wisely-46e54084?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 21:36:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.068968"
-      },
-      "487d4c449af496ae3fd3c4a35447ea4c62a3f6e400b5b50084040893411c6e7b": {
-        "title": "More famous than Warren Buffett in decades past, Peter Lynch of Fidelity says it’s still all about investing in what you know",
-        "link": "https://www.marketwatch.com/story/more-famous-than-warren-buffett-in-decades-past-peter-lynch-of-fidelity-says-its-still-all-about-investing-in-what-you-know-808a7f8f?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 21:32:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.072700"
-      },
-      "7fcfde2b5c90f6a9eeaa947283ecd8c0b17d86a8861b0df538b4cc1d515c320e": {
-        "title": "‘We’re in a market bubble’: I’m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?",
-        "link": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 21:20:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.076813"
-      },
-      "d2c6fe00da42d4d195adf699579fe28a5c1e03643622792c3eb8ad9712f3e975": {
-        "title": "How this Wall Street skeptic is investing to combat a weaker dollar and higher inflation",
-        "link": "https://www.marketwatch.com/story/how-this-paranoid-columnist-is-defending-his-money-against-a-weaker-dollar-and-higher-inflation-f2e469cf?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 21:20:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.079894"
-      },
-      "bd29f448b0c7be140c458ca9391906eef34f82603c83976ee14071edf6a54a3f": {
-        "title": "‘I won’t let the government walk all over me’: The IRS says I owe $14,000 for not declaring my Social Security. What now?",
-        "link": "https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 21:00:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.085007"
-      },
-      "a3056be9f9c0e498ed4b82d24a6f07284d77e45e7b152704b4ff6af6c1a8b347": {
-        "title": "Does it seem like more restaurants are charging $100 per person? Chef Bobby Flay says the cost should be even higher.",
-        "link": "https://www.marketwatch.com/story/does-it-seem-like-more-restaurants-are-charging-100-per-person-chef-bobby-flay-says-the-cost-should-be-even-higher-63fb3aba?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 20:21:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.090238"
-      },
-      "9158308fb371b1fe74a278bb83a709351aa78d3bcd0467fe5d9707b47d651b37": {
-        "title": "‘I don’t come from money’: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
-        "link": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 20:16:00 GMT",
-        "first_seen": "2025-10-03T23:16:56.096309"
-      },
       "75d1e4eb2a02fae525113c90a3da67583dc46e896db133b8ff87af442fb5f8e4": {
         "title": "Could Nvidia become a $10 trillion company? These analysts see a path.",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5afe3687-a887-43e5-a06b-9b469f134736&mod=mw_rss_bulletins",
@@ -14912,8 +14726,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-02T08:23:53.385536",
-    "Technology": "2025-11-02T08:23:53.487116",
-    "Finance": "2025-11-02T08:23:53.274813"
+    "AI": "2025-11-02T23:18:28.711796",
+    "Technology": "2025-11-02T23:18:28.753263",
+    "Finance": "2025-11-02T23:18:28.571473"
   }
 }
