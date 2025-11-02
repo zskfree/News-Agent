@@ -1,306 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "ad62ed3d8abf5edc0f26de806e51cdf895734ff90cf01a7494ef33afb24abe91": {
-        "title": "OR-Toolformer: Modeling and Solving Operations Research Problems with Tool Augmented Large Language Models",
-        "link": "https://arxiv.org/abs/2510.01253",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.140485"
-      },
-      "5aa15f4f1a4fde8227bd00ad643de9a4ff5fbadc3ca18a7ca145cb4d4063f7fc": {
-        "title": "Modeling Others' Minds as Code",
-        "link": "https://arxiv.org/abs/2510.01272",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.140732"
-      },
-      "8abeebf92d71503c0df5a5320d26d4c6aca9f04d9a923951c38abe14db59d055": {
-        "title": "Cyber Academia-Chemical Engineering (CA-ChemE): A Living Digital Town for Self-Directed Research Evolution and Emergent Scientific Discovery",
-        "link": "https://arxiv.org/abs/2510.01293",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.141442"
-      },
-      "8684e53320459b5d9cedee9c7275dd6530b4effb9b1d1110748db51bca6d9f97": {
-        "title": "The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation",
-        "link": "https://arxiv.org/abs/2510.01295",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811325"
-      },
-      "416b67b4f1b85a5c812b022a039daa23352cd20ffd3d8a081651a24ea0562e68": {
-        "title": "Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models",
-        "link": "https://arxiv.org/abs/2510.01304",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.143452"
-      },
-      "d7136671fbbf17eec95c5790a4fc95ebdea0fb12e3acf7004b1974271a78c1fb": {
-        "title": "Aristotle: IMO-level Automated Theorem Proving",
-        "link": "https://arxiv.org/abs/2510.01346",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.144301"
-      },
-      "0606c54a314f5f6d1d905914220e94eedb0af044c67140ca15c034de2d218769": {
-        "title": "MEMTRACK: Evaluating Long-Term Memory and State Tracking in Multi-Platform Dynamic Agent Environments",
-        "link": "https://arxiv.org/abs/2510.01353",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.146041"
-      },
-      "42fb9bd930c49d8deae6037dcff3b9a6e18ee2ff5cf33b0a14e95f6e0053982d": {
-        "title": "Retrieval-Augmented Framework for LLM-Based Clinical Decision Support",
-        "link": "https://arxiv.org/abs/2510.01363",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811338"
-      },
-      "1c7ae48d4d7f02487104765388270185ff0bcea01fe0019ee7e906f3a9467c85": {
-        "title": "Is It Thinking or Cheating? Detecting Implicit Reward Hacking by Measuring Reasoning Effort",
-        "link": "https://arxiv.org/abs/2510.01367",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.149836"
-      },
-      "927cf7b60118a2f49e9188f72a6bc234a8dd2066277552916812f5f7cf3de827": {
-        "title": "Fine-tuning with RAG for Improving LLM Learning of New Skills",
-        "link": "https://arxiv.org/abs/2510.01375",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811350"
-      },
-      "e24cd6e1f889948d9578cbc5b1cc1a66641b26e95689b52172db10304ac5ae7b": {
-        "title": "Automating Data-Driven Modeling and Analysis for Engineering Applications using Large Language Model Agents",
-        "link": "https://arxiv.org/abs/2510.01398",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.154794"
-      },
-      "7cea79e48d7d8871f53100285caeb56220e9983ca0d457a51fc6f18a6a626b92": {
-        "title": "OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models",
-        "link": "https://arxiv.org/abs/2510.01409",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.157996"
-      },
-      "eb9890f5e7be6d79f0d2b90b5e06f76dd1d7784e64fad14b0216291074c87cb2": {
-        "title": "A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining",
-        "link": "https://arxiv.org/abs/2510.01427",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811361"
-      },
-      "9f573cd28031bc8f3260a460a632daec26030d452211d453b61eef5706ced372": {
-        "title": "On the Role of Domain Experts in Creating Effective Tutoring Systems",
-        "link": "https://arxiv.org/abs/2510.01432",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811371"
-      },
-      "11d6c62303d907042de6ca13020902deef2fff7510ba1848206c11bbfbcb77d4": {
-        "title": "VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning",
-        "link": "https://arxiv.org/abs/2510.01444",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811381"
-      },
-      "40a27733a940ddfdebaa3134ab17cade06916738b4534555cf4631db7ed48432": {
-        "title": "AIReg-Bench: Benchmarking Language Models That Assess AI Regulation Compliance",
-        "link": "https://arxiv.org/abs/2510.01474",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811391"
-      },
-      "2521d33854ae7512600d6006995e01b894ec3c07af5b1e91cfc8a6afcea64d81": {
-        "title": "Lateral Tree-of-Thoughts Surpasses ToT by Incorporating Logically-Consistent, Low-Utility Candidates",
-        "link": "https://arxiv.org/abs/2510.01500",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.174880"
-      },
-      "67cd26f29b70a02a537bb8270ec6f162ef72d09fb2dce506be789a6a79c58de8": {
-        "title": "Towards Interpretable and Inference-Optimal COT Reasoning with Sparse Autoencoder-Guided Generation",
-        "link": "https://arxiv.org/abs/2510.01528",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.179757"
-      },
-      "0eaa3aa3eb9002b6ab008d99903f7caf5faf8ae13f843c5cb440d8be43d19e28": {
-        "title": "LOGicalThought: Logic-Based Ontological Grounding of LLMs for High-Assurance Reasoning",
-        "link": "https://arxiv.org/abs/2510.01530",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811401"
-      },
-      "5881dab820347b70a19066ab0c38ef609292691b73a9cabd88575913a5720981": {
-        "title": "Information Seeking for Robust Decision Making under Partial Observability",
-        "link": "https://arxiv.org/abs/2510.01531",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.188223"
-      },
-      "5079811a86f396f157ee23dc7c08e4e4b283dcd9bc3bca50414f1b0c12620cf9": {
-        "title": "Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models",
-        "link": "https://arxiv.org/abs/2510.01544",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.192827"
-      },
-      "63ece66a02f09e569f089317b6dc0091295702123b7c23e761bdd6eb3b6cb97e": {
-        "title": "InvThink: Towards AI Safety via Inverse Reasoning",
-        "link": "https://arxiv.org/abs/2510.01569",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811411"
-      },
-      "a38999818f72775264a71ba37271b77f683a31f972c0a1bd604246c7810443da": {
-        "title": "AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2510.01586",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.203517"
-      },
-      "8c11d8f4384870f302ba8791bcf83a980d9f759b355140cc05cccd8280b8edf5": {
-        "title": "AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence",
-        "link": "https://arxiv.org/abs/2510.01609",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.210361"
-      },
-      "5dd9fb5426cb138e67c33d83bd0d17898cbccdf66672a893ea05ec1c1e364792": {
-        "title": "PychoBench: Evaluating the Psychology Intelligence of Large Language Models",
-        "link": "https://arxiv.org/abs/2510.01611",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.215533"
-      },
-      "6eda80e6e42a362bd24606c61276c4ee2ef1d354720e3bc81a86c74d7d60cc28": {
-        "title": "Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CDMPs",
-        "link": "https://arxiv.org/abs/2510.01620",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.221622"
-      },
-      "2b7ce1f7e6bb537a0a806b432277326b7efcba5802dd636de249e650bc861d74": {
-        "title": "Understanding the Geospatial Reasoning Capabilities of LLMs: A Trajectory Recovery Perspective",
-        "link": "https://arxiv.org/abs/2510.01639",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.228670"
-      },
-      "39e98fcfe10fd17bea4e8f4fbeb51d95a9d98b3284da192a14b41782434ec222": {
-        "title": "GuruAgents: Emulating Wise Investors with Prompt-Guided LLM Agents",
-        "link": "https://arxiv.org/abs/2510.01664",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.234174"
-      },
-      "f31a8d9264a434bc2b0359a0dc429ab5dc2d4fafd9bc5f987c40c71c3de560bf": {
-        "title": "Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness",
-        "link": "https://arxiv.org/abs/2510.01670",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.239563"
-      },
-      "a8460a63c95ed38407b72220fb69146edc7b42aeeb92d524ec90a261fa8abf4b": {
-        "title": "A Locally Executable AI System for Improving Preoperative Patient Communication: A Multi-Domain Clinical Evaluation",
-        "link": "https://arxiv.org/abs/2510.01671",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.248241"
-      },
-      "dc7a7b4e35f8facafc1e8f3ac659a534d7e8a2383682b17b51427f29a71a41a3": {
-        "title": "Improving AGI Evaluation: A Data Science Perspective",
-        "link": "https://arxiv.org/abs/2510.01687",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.252856"
-      },
-      "1edcdf8b2dee6c1cdb9ec8c8b9cd5e2252d8f33dd640e204eda29c00cec2d315": {
-        "title": "VaPR -- Vision-language Preference alignment for Reasoning",
-        "link": "https://arxiv.org/abs/2510.01700",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.258047"
-      },
-      "517079ab2a00cb8558af60f143f59744a17be6dc1a103f7d39e108ea3d00bf3e": {
-        "title": "MetaboT: AI-based agent for natural language-based interaction with metabolomics knowledge graphs",
-        "link": "https://arxiv.org/abs/2510.01724",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.266258"
-      },
-      "7532fbab483601349def9eaa4a42b607e4da20b1ee079377a2adf024e79cca88": {
-        "title": "A cybersecurity AI agent selection and decision support framework",
-        "link": "https://arxiv.org/abs/2510.01751",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.272456"
-      },
-      "72721f90efbba5ad0241b73822932b776347752647206d67c1ed7e01f76c10af": {
-        "title": "REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing",
-        "link": "https://arxiv.org/abs/2510.01800",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.279469"
-      },
-      "9fd8dfcf3888228655ef81a1340af364a3857e3b738b9ef7bb6566f483da722c": {
-        "title": "Human-AI Teaming Co-Learning in Military Operations",
-        "link": "https://arxiv.org/abs/2510.01815",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.285217"
-      },
-      "b365952ec47ab996586ef1870783286bad7bb97443c86417af1954575dced739": {
-        "title": "Plan Then Action:High-Level Planning Guidance Reinforcement Learning for LLM Reasoning",
-        "link": "https://arxiv.org/abs/2510.01833",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.294186"
-      },
-      "221746cd3c47cf4a26c958b98fa0bd7bbb2d7ea9260efd400ff2e7bfb99f9dd5": {
-        "title": "Learning a Dense Reasoning Reward Model from Expert Demonstration via Inverse Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2510.01857",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.304029"
-      },
-      "d7f57ed96be3178196e714d9aa5d7ae549e5682a8eb7dce7812483fe866d7f5e": {
-        "title": "Constrained Adaptive Rejection Sampling",
-        "link": "https://arxiv.org/abs/2510.01902",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.308755"
-      },
-      "199341e062c055fc982ef021eadb9fd5bb2126f7c19bbdbd537d8a838bb62692": {
-        "title": "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning",
-        "link": "https://arxiv.org/abs/2510.01924",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.316547"
-      },
-      "305f0e1f0705de60c9c41e59045372c4225ae46c3586d30d699a31e147444d24": {
-        "title": "Zero-shot reasoning for simulating scholarly peer-review",
-        "link": "https://arxiv.org/abs/2510.02027",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.322950"
-      },
-      "49a642185e73b066e30d7dc437d3be32434414745b30768ee8bd7aa486dcba50": {
-        "title": "ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection",
-        "link": "https://arxiv.org/abs/2510.02060",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.332454"
-      },
-      "a525a1f059c10ce32b5e159fb1673cd84a8a9cafa3a748dd5e183ad57c8ae6c7": {
-        "title": "Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning",
-        "link": "https://arxiv.org/abs/2510.02091",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.341727"
-      },
-      "fd04c1f521bc8daf354fafa6e6d2a5d19dda0af8d4edab45abf63d77ebee65d9": {
-        "title": "Do AI Models Perform Human-like Abstract Reasoning Across Modalities?",
-        "link": "https://arxiv.org/abs/2510.02125",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.350092"
-      },
-      "7acfe8744b6e803522ab7d48ee5170619222768b3d5f94548d5087c162e00bfd": {
-        "title": "FlexDoc: Parameterized Sampling for Diverse Multilingual Synthetic Documents for Training Document Understanding Models",
-        "link": "https://arxiv.org/abs/2510.02133",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.363740"
-      },
-      "ac595e109379ae9d79a8ee82c63c4d931bc4acfd909fac792ff2c6706fb7507b": {
-        "title": "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports",
-        "link": "https://arxiv.org/abs/2510.02190",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.376167"
-      },
-      "4a4885417c1f5766d54aa32ae8c05775fe49a6a19e5099e4952172ba43eaff49": {
-        "title": "UpSafe$^\\circ$C: Upcycling for Controllable Safety in Large Language Models",
-        "link": "https://arxiv.org/abs/2510.02194",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.385809"
-      },
-      "1f2b8bc032b31ed47e4a6a82ea20c14087024b01bb6c712756367845674d68b1": {
-        "title": "The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models",
-        "link": "https://arxiv.org/abs/2510.02230",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.395882"
-      },
-      "535726798224766b66f520a60cca463fafd3c4a3158ade05e30bcdc8592f3727": {
-        "title": "The Unreasonable Effectiveness of Scaling Agents for Computer Use",
-        "link": "https://arxiv.org/abs/2510.02250",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.404095"
-      },
-      "89a43b2b71580767962184c7ca9c2ca83dc1cb672fc3bc35e89659a480e82271": {
-        "title": "RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems",
-        "link": "https://arxiv.org/abs/2510.02263",
-        "published_date": "Fri, 03 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.811296"
-      },
       "ebd41eca64bef4557eac17b826e209278af2261d7db51218ba03488132c9218e": {
         "title": "AI maps how a new antibiotic targets gut bacteria",
         "link": "https://news.mit.edu/2025/ai-maps-how-new-antibiotic-targets-gut-bacteria-1003",
@@ -3213,42 +2913,6 @@
       }
     },
     "Technology": {
-      "dbe4dc4bc60855f98399999a2269bb7b33c176917cfa446084e6b207316e5f54": {
-        "title": "盘点AI黄金周：Sora 2引爆AI视频、蚂蚁冲进万亿参数俱乐部",
-        "link": "https://www.tmtpost.com/7712837.html",
-        "published_date": "Fri, 03 Oct 2025 10:34:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.840832"
-      },
-      "6d2407e8af492de15bd9a1be095bdcf3bdccacd5229f1c4b7c3423318c137fae": {
-        "title": "小米 17 系列销量超百万；苹果新产品泄密源头疑为越南工厂；低价版 model Y 现身官网代码｜极客早知道",
-        "link": "http://www.geekpark.net/news/354770",
-        "published_date": "Fri, 03 Oct 2025 10:01:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.841008"
-      },
-      "4bb596318e0c1e6c6f1c1fd7957a36ed4c40ce9c0ffe89466777a60d2a18eef5": {
-        "title": "Java近期新闻：新JEP、Liberica NIK、Spring AI里程碑、Open Liberty、JobRunr、LangChain4j",
-        "link": "https://www.infoq.cn/article/6QScAJU344t2pkkds0tx?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.841343"
-      },
-      "59bfc6cb2172e0f9d587c5558ec2e08207a365eb6134e1222efa6ea73d2a8a99": {
-        "title": "10% Off Dell Coupon Codes | October 2025",
-        "link": "https://www.wired.com/story/dell-coupon-code/",
-        "published_date": "Fri, 03 Oct 2025 05:00:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.841671"
-      },
-      "7dae57b9254b373cf8ee7ff75561c11f5a800b5d31c7baa6481bdbec391b3a1e": {
-        "title": "Apple pulls ICEBlock from the App Store",
-        "link": "https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple",
-        "published_date": "Fri, 03 Oct 2025 01:57:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.842144"
-      },
-      "2d40d0c48576b102b1cf4a0e69f0012b121946ff4476beec1e9e5f9b1f31e87d": {
-        "title": "NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network",
-        "link": "https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn",
-        "published_date": "Thu, 02 Oct 2025 23:20:00 GMT",
-        "first_seen": "2025-10-03T05:24:39.842968"
-      },
       "6bf63f12fd3d6817f2eb0f53036bba64ece70b3adab43f21e42c8d34d44e8733": {
         "title": "全球资产估值逻辑生变，谁是王者？",
         "link": "https://www.tmtpost.com/7713008.html",
@@ -14216,27 +13880,57 @@
         "link": "http://www.geekpark.net/news/355869",
         "published_date": "Sun, 02 Nov 2025 08:18:00 GMT",
         "first_seen": "2025-11-02T05:20:25.149231"
+      },
+      "8671d824e5ccb77aa3a8e201a0d82eff48b73691dc121874dd0bfe69bde0808e": {
+        "title": "不卷性能卷配置：极氪的中场打法与利润焦虑",
+        "link": "https://www.tmtpost.com/7746322.html",
+        "published_date": "Sun, 02 Nov 2025 14:34:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.417621"
+      },
+      "dbda9a0bff752c98b09a8b507dec6eb26ace628e030de8a9d4b3750991dd59b6": {
+        "title": "3季报大盘点：反内卷之下，光伏行业真的触底反弹了吗？",
+        "link": "https://www.tmtpost.com/7746309.html",
+        "published_date": "Sun, 02 Nov 2025 14:19:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.417790"
+      },
+      "a149675e875a52f96abcd1c018aa287a2d6ef0f397f66e1c3efb7d19b026be55": {
+        "title": "越赚钱、越裁员，亚马逊的下一场豪赌",
+        "link": "https://www.tmtpost.com/7746298.html",
+        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.417979"
+      },
+      "21b71b0531e5b192f8a3ef0e44a0fa569fec721d7215888ae0ce097dce0df583": {
+        "title": "炸裂与亏损交织的三季报，透露出储能行业很多“小秘密”……",
+        "link": "https://www.tmtpost.com/7746262.html",
+        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.418169"
+      },
+      "89fb5c8d7d8d15acd32379fa987cfaaeb057818ff7c12a6fa8b8c3dcba45aa50": {
+        "title": "AWS增速被微软甩开一倍，亚马逊急了：1.4万人成AI转型祭品？",
+        "link": "https://www.tmtpost.com/7746259.html",
+        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.418403"
+      },
+      "c1226eff2f438238b9ecd2c527bce1786e6dac631d0b90d1f762c0ebdc58d22a": {
+        "title": "史上最猛AI财报，市值却蒸发2000亿：微软到底哪里不对劲？",
+        "link": "https://www.tmtpost.com/7746257.html",
+        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.418694"
+      },
+      "7741d8419ad258608ad3b9ed6ea78c67851cc205d4ff2eb446a4c06f139ee100": {
+        "title": "“显示面板龙头”和辉光电再闯港股，不到6年累计净亏损上百亿",
+        "link": "https://www.tmtpost.com/7746184.html",
+        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.419037"
+      },
+      "05c7eb5eba1c55e4a65077bfcc24766380042b40ccc7e4a6a2e35cd8bf473974": {
+        "title": "把“锅气”变成算法：锅圈小炒与中餐到家的新解法",
+        "link": "https://www.tmtpost.com/7746294.html",
+        "published_date": "Sun, 02 Nov 2025 13:22:00 GMT",
+        "first_seen": "2025-11-02T08:23:53.419466"
       }
     },
     "Finance": {
-      "24cdfab7a0fad900257856c9f5f1360e18d1977847840683d1398e21dc3e30f1": {
-        "title": "Amazon’s ‘crown jewel’ is this business that doesn’t get nearly enough attention",
-        "link": "https://www.marketwatch.com/story/amazons-crown-jewel-is-this-business-that-doesnt-get-nearly-enough-attention-d76a627d?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Oct 2025 01:27:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.018286"
-      },
-      "052673ec207a5aa7c9274eca4eda0b06af92c34479554d9927d24297a40055e3": {
-        "title": "10 stocks that not only beat the S&P 500 but also grew their dividends the most",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e140c078-92f5-4cfd-8381-19fa88158b7d&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 01:05:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.018662"
-      },
-      "018cf86093cdccda0aa045e6da7c1b2a718dbf76d4d1bd767172002a10059faf": {
-        "title": "What FICO’s credit-score shake-up really means for home buyers",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fa9b10b5-35ed-4e44-85b7-43a058e1ba09&mod=mw_rss_bulletins",
-        "published_date": "Thu, 02 Oct 2025 23:24:00 GMT",
-        "first_seen": "2025-10-03T05:23:51.019233"
-      },
       "ba36cc94231a8412a21b9a4788efc1e1b85c1ca1733d84b801eb3bfafe872ac2": {
         "title": "Why OPEC+ will likely hike its oil-output quota — even as prices post steep drop",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4809b219-906c-467e-b61f-1d43bfef73e3&mod=mw_rss_bulletins",
@@ -15218,8 +14912,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-02T05:20:25.114570",
-    "Technology": "2025-11-02T05:21:13.573839",
-    "Finance": "2025-11-02T05:20:25.002288"
+    "AI": "2025-11-02T08:23:53.385536",
+    "Technology": "2025-11-02T08:23:53.487116",
+    "Finance": "2025-11-02T08:23:53.274813"
   }
 }
