@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Nov 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Nov 2025 23:18:28 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2025 05:26:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>奥特曼纳德拉同台回应一切：合作细节、OpenAI未来路线曝光</title>
-      <link>https://www.qbitai.com/2025/11/348079.html</link>
-      <description>&lt;![CDATA[奥特曼纳德拉同台回应一切：合作细节、OpenAI未来路线曝光]]&gt;</description>
-      <pubDate>Sun, 02 Nov 2025 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348079.html</guid>
+      <title>美团新独立APP，点不了菜只能点AI</title>
+      <link>https://www.qbitai.com/2025/11/348222.html</link>
+      <description>&lt;![CDATA[美团新独立APP，点不了菜只能点AI]]&gt;</description>
+      <pubDate>Mon, 03 Nov 2025 03:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348222.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>2026中国AIoT产业年会:我们正从”万物智联”走向”万物智行”</title>
+      <link>https://www.qbitai.com/2025/11/348096.html</link>
+      <description>&lt;![CDATA[2026中国AIoT产业年会:我们正从”万物智联”走向”万物智行”]]&gt;</description>
+      <pubDate>Mon, 03 Nov 2025 02:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348096.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>L2奶爸车用VLA变Robotaxi！深圳物理AI独角兽，率先无锡换道超车</title>
+      <link>https://www.qbitai.com/2025/11/348083.html</link>
+      <description>&lt;![CDATA[L2奶爸车用VLA变Robotaxi！深圳物理AI独角兽，率先无锡换道超车]]&gt;</description>
+      <pubDate>Mon, 03 Nov 2025 00:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348083.html</guid>
       <category>AI</category>
     </item>
   </channel>

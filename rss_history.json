@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a37b71ebaeeab3ec440f74b8560a90aaad93ef65f8245132cb09c9e47f30b4fb": {
-        "title": "OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工",
-        "link": "https://www.qbitai.com/2025/10/339453.html",
-        "published_date": "Sat, 04 Oct 2025 04:43:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.764205"
-      },
-      "8d9dee64938c4288129f19cfffb69d6f8d6d1a307533aad4b229480e5dfe1e5f": {
-        "title": "AI花17小时写了篇30页论文！自主选题，包含实验，还符合APA格式",
-        "link": "https://www.qbitai.com/2025/10/339387.html",
-        "published_date": "Sat, 04 Oct 2025 04:20:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.764381"
-      },
-      "49f19791dd616d282021b6ffc9a192205207896c793df97ce2b17eeb1208e886": {
-        "title": "陶哲轩用GPT-5解决数学难题：仅29行Python代码",
-        "link": "https://www.qbitai.com/2025/10/339310.html",
-        "published_date": "Sat, 04 Oct 2025 04:15:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.764564"
-      },
       "085a75f22700fd5f996982a5acd48f47eeb69e2d318f243a68f6c072ae226bd4": {
         "title": "刚刚，全球AI生图新王诞生！腾讯混元图像3.0登顶了",
         "link": "https://www.qbitai.com/2025/10/339468.html",
@@ -2904,147 +2886,27 @@
         "link": "https://www.qbitai.com/2025/11/348079.html",
         "published_date": "Sun, 02 Nov 2025 10:23:00 GMT",
         "first_seen": "2025-11-02T23:18:28.687543"
+      },
+      "81539552da1e1067d4c1d2c4601e5dde2a57f977c905831944ef2042980d52b6": {
+        "title": "美团新独立APP，点不了菜只能点AI",
+        "link": "https://www.qbitai.com/2025/11/348222.html",
+        "published_date": "Mon, 03 Nov 2025 03:42:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.489472"
+      },
+      "b34f83bae82cbf97606dea2240e7dd39cd4e9de269bdcdc2368a1891787fa0d6": {
+        "title": "2026中国AIoT产业年会:我们正从”万物智联”走向”万物智行”",
+        "link": "https://www.qbitai.com/2025/11/348096.html",
+        "published_date": "Mon, 03 Nov 2025 02:19:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.489620"
+      },
+      "2124c40825c50952435664b49bdd80925944133a24057ee7734a95b516f47a59": {
+        "title": "L2奶爸车用VLA变Robotaxi！深圳物理AI独角兽，率先无锡换道超车",
+        "link": "https://www.qbitai.com/2025/11/348083.html",
+        "published_date": "Mon, 03 Nov 2025 00:53:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.489848"
       }
     },
     "Technology": {
-      "04ffd5e1ecba065946f86fa2fec2f9da66d43bedae5c4fbfd2efa6da9c9b0431": {
-        "title": "Swift 6.2 发布，改进了并发性、更安全的原始内存访问、Wasm 支持等",
-        "link": "https://www.infoq.cn/article/lMCbwlK118KD3Ql9oHbA?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Oct 2025 22:08:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961493"
-      },
-      "4a03ca0011c6f11da3db17b69e4cba142a367db581db09c71dda9e77c470409b": {
-        "title": "Replit 推出 Agent 3，拓展自主编程与自动化新边界",
-        "link": "https://www.infoq.cn/article/1AAvDxcT6xeD4kRNXAkV?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Oct 2025 22:06:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961536"
-      },
-      "2d3fb79f37995e2609b18cc4a01a6c59e3f0342a9b63b2bd50852993e08ed1f8": {
-        "title": "xAI 推出低成本推理模型 Grok 4 Fast",
-        "link": "https://www.infoq.cn/article/uBwTq0TCcK6gvuAtPv0e?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Oct 2025 22:04:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961549"
-      },
-      "42604e380bded190bc0d73c4bdedc26d5e80652b1db1a436a38f384636e8317d": {
-        "title": "Apollo GraphQL Client 4.0发布，提供更精简的打包功能并强化了TypeScript的安全性",
-        "link": "https://www.infoq.cn/article/N5ATgDLr2F05BKuB2MWp?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Oct 2025 22:02:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961523"
-      },
-      "8c9257705d4bb1e1144f56f0edd2c9e6f375ab4aca163e42c53c800bf442d166": {
-        "title": "Innovation and Responsibility Must Move Forward Together, Says NextFin CEO at NEX-T Summit",
-        "link": "https://www.tmtpost.com/7713182.html",
-        "published_date": "Fri, 03 Oct 2025 21:13:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961563"
-      },
-      "76e957b03ad004f8be86e7b638ed54162c9e7aa100950b5356b257bb8d661671": {
-        "title": "光伏“反内卷”，“反”出三年来最强一季",
-        "link": "https://www.tmtpost.com/7713136.html",
-        "published_date": "Fri, 03 Oct 2025 19:20:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961576"
-      },
-      "6631dc5166d5fd655eb02fd7464dd77155a3f5e43c3b7743dfb4cbf2d3196074": {
-        "title": "财务的逻辑和会计的人设",
-        "link": "https://www.tmtpost.com/7712936.html",
-        "published_date": "Fri, 03 Oct 2025 17:10:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961584"
-      },
-      "5616a009a1b08a8c55b38aa40ca970c788571ac4a2145be5067eaf731b6993b4": {
-        "title": "The Lenovo Go S Is $120 Off",
-        "link": "https://www.wired.com/story/legion-go-s-deal-1025/",
-        "published_date": "Fri, 03 Oct 2025 20:04:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961595"
-      },
-      "8892b6bba46e341d47761f2380555234fe84c9fe6cc976104acb6ccfdc856ef5": {
-        "title": "Bad Bunny Has MAGA All Worked Up",
-        "link": "https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/",
-        "published_date": "Fri, 03 Oct 2025 19:36:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961604"
-      },
-      "badcd048d25a3f8e29ac5b17f78ec8e519bb376ae4aeb567c6f2db88b62fdf94": {
-        "title": "China Is Leading the World in the Clean Energy Transition. Here's What That Looks Like",
-        "link": "https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/",
-        "published_date": "Fri, 03 Oct 2025 17:19:00 GMT",
-        "first_seen": "2025-10-03T23:18:32.961616"
-      },
-      "9970e68178fffc51d173b4ed84ad9011b940af09b72d89bf65f8a15a91024cdb": {
-        "title": "鸿蒙 1024｜鸿蒙，我的独家记忆",
-        "link": "https://sspai.com/post/102833",
-        "published_date": "Sat, 04 Oct 2025 10:46:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.088959"
-      },
-      "82f1eb5ee2c6c1634facd22bd6fca137b3b055fa4033f425abcba7620af68285": {
-        "title": "分析师称，这家量子计算股票有望上涨86%",
-        "link": "https://www.tmtpost.com/7713319.html",
-        "published_date": "Sat, 04 Oct 2025 09:54:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.088987"
-      },
-      "37dd7f722599211248410c1f02a269486c14ffe3b16cf3371db4ac7eeec9f758": {
-        "title": "黑马“争座位”，国庆档的宣发逻辑换了？",
-        "link": "https://www.tmtpost.com/7713205.html",
-        "published_date": "Sat, 04 Oct 2025 09:35:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089002"
-      },
-      "8cf6002a129878c6dd37d2d4252767f592048cfda36c4ae4a3433499fe40007d": {
-        "title": "不接亲、不主持、不喝酒，年轻人“改造”婚礼",
-        "link": "https://www.tmtpost.com/7713291.html",
-        "published_date": "Sat, 04 Oct 2025 09:35:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089014"
-      },
-      "947622b01331eb64879293f7b9d9dad0d90ce351ba86bc7597cb2fdface277fe": {
-        "title": "一文讲透美股公司之：Moderna",
-        "link": "https://www.tmtpost.com/7712910.html",
-        "published_date": "Sat, 04 Oct 2025 08:52:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089025"
-      },
-      "0de357df584a7575a44078ae3db2e25f9f0e57f9b1c488ea1b5210c410da6d16": {
-        "title": "又到双十一， 阿里抖音拼讲电商新故事",
-        "link": "https://www.tmtpost.com/7713171.html",
-        "published_date": "Sat, 04 Oct 2025 08:50:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089036"
-      },
-      "e26cc8fbb576fc2403f2463f47d3410bd69cc3bbb04be3f5453290c2a39b91a8": {
-        "title": "国庆档差到被《731》抢戏",
-        "link": "https://www.tmtpost.com/7713208.html",
-        "published_date": "Sat, 04 Oct 2025 08:50:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089045"
-      },
-      "f9a1ae661ff8246c4121aab59e8e51eeae8b432e1b637615147df004f92477ec": {
-        "title": "谈「AI抖音」尚早，Sora 2们会先改变影视行业",
-        "link": "https://www.tmtpost.com/7713234.html",
-        "published_date": "Sat, 04 Oct 2025 08:43:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089058"
-      },
-      "189f2e90246871b017abfc8369647064c6f012d89b5bc7b73a42b8a90fc2476e": {
-        "title": "从\"避卷\"，到\"用卷\"",
-        "link": "https://www.tmtpost.com/7713245.html",
-        "published_date": "Sat, 04 Oct 2025 08:43:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089069"
-      },
-      "b865f48661ba87409100b9af6e20f5a63c2d6c888e0c316b4eb14c368886116d": {
-        "title": "网红挑战特斯拉FSD穿越美国出车祸；小米回应「小米汽车突然自己开走」；Sora 登顶美区苹果商城免费榜",
-        "link": "http://www.geekpark.net/news/354771",
-        "published_date": "Sat, 04 Oct 2025 08:52:00 GMT",
-        "first_seen": "2025-10-04T05:19:04.089082"
-      },
-      "e8cbef4e63265e7da22b8e03aed0495efb3bd5a1fda17dd61b5ae33c38460096": {
-        "title": "你给AI智能体的权限，正被黑客利用，OWASP警告：真正的危机才刚刚开始",
-        "link": "https://www.infoq.cn/article/BHHI1AeJYVPIEwYYPkir?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 04 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.799847"
-      },
-      "bf61bb937d15d0b0f6dcfb863eb56f7c8021bd2f4e52ad3abc4fbd0046daca3b": {
-        "title": "Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts",
-        "link": "https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro",
-        "published_date": "Sat, 04 Oct 2025 00:22:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.800923"
-      },
-      "bff3263e70d9d2ba06f0c275fd3efc8129d5af42f9b74a71c0b975b1d69e6610": {
-        "title": "Discord customer service data breach leaks user info and scanned photo IDs",
-        "link": "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack",
-        "published_date": "Fri, 03 Oct 2025 23:52:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.802186"
-      },
       "1643e7e5912669481bbb25b73240e939c21c7d148758148e623b954a87bfba51": {
         "title": "AI Won't Replace Doctors, But Redefine Their Tasks, Say Industry Experts",
         "link": "https://www.tmtpost.com/7713512.html",
@@ -13844,21 +13706,105 @@
         "link": "https://sspai.com/post/85735",
         "published_date": "Sun, 02 Nov 2025 15:32:00 GMT",
         "first_seen": "2025-11-02T23:18:28.745489"
+      },
+      "5bffc96c5f0639acb3a436ef151621741ad0875c8c4e0821b40a5fb6d55980a5": {
+        "title": "亚马逊云科技发布EBS卷克隆功能，用于即时、崩溃一致的数据复制",
+        "link": "https://www.infoq.cn/article/gtFe4SyqLVcIuokljqst?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 03 Nov 2025 13:20:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958459"
+      },
+      "e3857174a756d664c23090b5ed9a8a7386b10b45a443c9316188f682fad9c5cd": {
+        "title": "把 Nginx 日志压到只剩 1/170：ClickHouse列式存储是怎么做到的？",
+        "link": "https://www.infoq.cn/article/c8YXwJtrhPYAUIEBuKbJ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 03 Nov 2025 11:57:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958536"
+      },
+      "b63b524f44501e3079ab6e324917039b67c0058554c12d703af529fc76615933": {
+        "title": "图虫×火山引擎：AIGC 创意工具链，让设计灵感高效实现",
+        "link": "https://www.infoq.cn/article/5XMuvfNYERQ5RmuXcv1f?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 03 Nov 2025 11:12:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958548"
+      },
+      "5b92eb13e18782beed3b8638f6971e3b5ae3280c0f257ffc9e1c2e124c376dec": {
+        "title": "SwiftKV：通过知识保留计算减少加速企业 LLM 工作负载 | 技术实践",
+        "link": "https://www.infoq.cn/article/gPeRGz69bhZvstJbgjtU?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 03 Nov 2025 10:44:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958488"
+      },
+      "8bc743f21a4964fd718a7a2d02eb41a9d5f7dac00cb91597fd5a85d0f93b8e96": {
+        "title": "小红书入局“生活服务”，互联网巨头争抢6万亿线下服务市场",
+        "link": "https://www.tmtpost.com/7746837.html",
+        "published_date": "Mon, 03 Nov 2025 13:11:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958559"
+      },
+      "965be68d75c98ebd0516607fd878edd4a291d7332b60e047d12652c626af7223": {
+        "title": "七度亮相APEC，五粮液以和美共话亚太可持续繁荣",
+        "link": "https://www.tmtpost.com/7746740.html",
+        "published_date": "Mon, 03 Nov 2025 12:44:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958570"
+      },
+      "a6c10a1172bf83c731883c9bcfcb36b62fa65c71a31d5f0dab2ca02f2b1c9a04": {
+        "title": "芯正微完成数亿元A轮融资，加速射频芯片及SiP产业布局 | 融资首发",
+        "link": "https://www.tmtpost.com/7746793.html",
+        "published_date": "Mon, 03 Nov 2025 12:21:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958504"
+      },
+      "651a2f28b993ad35bb0be084e4d57db5de8a9c814862c37f28ec33cde53daf05": {
+        "title": "AI变现“三部曲”：Open AI打开浏览器，豆包上链接，夸克戴眼镜",
+        "link": "https://www.tmtpost.com/7746583.html",
+        "published_date": "Mon, 03 Nov 2025 11:45:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958581"
+      },
+      "209489447703e999b94078cfe3a938b760fcf8eab837357b3de3a38fa467c3bd": {
+        "title": "China's Solar Equipment Makers Post Surprise Profit Recovery in Q3 After Five Quarters of Losses",
+        "link": "https://www.tmtpost.com/7746723.html",
+        "published_date": "Mon, 03 Nov 2025 10:41:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958594"
+      },
+      "d604989d102b47f06c283191ddb446eaacd697ded742e719808f0a2dd4fd5f8e": {
+        "title": "【产业互联网周报】 “十五五”规划建议：全面实施“人工智能+”行动，抢占人工智能产业应用制高点；黄仁勋GTC大会最新演讲勾勒AI蓝图；退出中国市场？SAS中国被曝集体大裁员；网络安全法完成修改；OpenAI完成资本重组",
+        "link": "https://www.tmtpost.com/7746604.html",
+        "published_date": "Mon, 03 Nov 2025 10:04:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.566555"
+      },
+      "cb5d90b1a696f3f502d7683e11b7234240218509a6d3187250d9f48999627eb0": {
+        "title": "万圣节，我在主题乐园扮「鬼」",
+        "link": "https://www.tmtpost.com/7746495.html",
+        "published_date": "Mon, 03 Nov 2025 09:02:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.567021"
+      },
+      "3e73fd9ef03dc1e2d8fa374809fcd6b907fd6cfc96cfdf5873adf42bd14ca134": {
+        "title": "科股早知道：比太阳亮万亿倍！高能同步辐射光源通过工艺验收",
+        "link": "https://www.tmtpost.com/7746521.html",
+        "published_date": "Mon, 03 Nov 2025 08:00:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.567679"
+      },
+      "8fcfa91fd1cae19fd2584236664df26aabd27081f40e2440b682c8d52300c1a4": {
+        "title": "【钛晨报】财政部、税务总局发布关于黄金有关税收政策的公告；伯克希尔哈撒韦：Q3净利润307.96亿美元，现金储备达3816.7亿美元；中上协：前三季度上市公司合计实现净利润4.7万亿元，同比增长5.5%",
+        "link": "https://www.tmtpost.com/7746416.html",
+        "published_date": "Mon, 03 Nov 2025 07:20:00 GMT",
+        "first_seen": "2025-11-03T05:27:19.958523"
+      },
+      "8934faaa0a8bfe55d03ebd8f0d3b3d868c50096c4dbba8557244b01f0f6e19ae": {
+        "title": "为什么你的外语不再进步：几个关键的语言学习「元知识」",
+        "link": "https://sspai.com/post/103323",
+        "published_date": "Mon, 03 Nov 2025 11:32:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.570375"
+      },
+      "2b483bf00fd37228d6e7d8b92a1451387df5696f6bfc9705eed138bca58e6c62": {
+        "title": "派早报：arXiv 因 AI 泛滥拒收未经同行评审的计算机领域综述文章",
+        "link": "https://sspai.com/post/103480",
+        "published_date": "Mon, 03 Nov 2025 08:57:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.571442"
+      },
+      "ab4762cf185c96ec8af64e285c93025f6298c3ee167d632ba10c86aa4b5f16e5": {
+        "title": "T1 零封 TES 战队，中国战队无缘 S15 总决赛舞台；英伟达合作制药巨头打造超级计算机；理想汽车汤靖详解 MEGA 起火事件｜极客早知道",
+        "link": "http://www.geekpark.net/news/355873",
+        "published_date": "Mon, 03 Nov 2025 09:28:00 GMT",
+        "first_seen": "2025-11-03T05:26:31.573306"
       }
     },
     "Finance": {
-      "75d1e4eb2a02fae525113c90a3da67583dc46e896db133b8ff87af442fb5f8e4": {
-        "title": "Could Nvidia become a $10 trillion company? These analysts see a path.",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5afe3687-a887-43e5-a06b-9b469f134736&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 23:32:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.585911"
-      },
-      "52943c23e16f9b27727d849692621e38e76da78233940ab3af6ce41139872a42": {
-        "title": "Beyond the 'Magnificent Seven': The stock market's next generation of AI winners",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ece83fb2-de4b-4003-902a-4f936173b2e9&mod=mw_rss_bulletins",
-        "published_date": "Fri, 03 Oct 2025 23:21:00 GMT",
-        "first_seen": "2025-10-04T05:18:15.586241"
-      },
       "67bd93e625e854ebb454abe034396527ac1ecb2c9516f61a48385028beab07ff": {
         "title": "‘He thinks nothing of spending $40K on a new car’: My husband gives me the silent treatment. How can we agree on finances?",
         "link": "https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories",
@@ -14726,8 +14672,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-02T23:18:28.711796",
-    "Technology": "2025-11-02T23:18:28.753263",
-    "Finance": "2025-11-02T23:18:28.571473"
+    "AI": "2025-11-03T05:26:31.531323",
+    "Technology": "2025-11-03T05:27:19.959956",
+    "Finance": "2025-11-03T05:26:31.385608"
   }
 }

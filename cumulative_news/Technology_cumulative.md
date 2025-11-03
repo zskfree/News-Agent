@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-02 23:18
+**最后更新时间**: 2025-11-03 05:26
+
+---
+
+## 🆕 最新更新 (2025-11-03 05:26)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技发布EBS卷克隆功能，用于即时、崩溃一致的数据复制](https://www.infoq.cn/article/gtFe4SyqLVcIuokljqst?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 13:20
+
+#### [把 Nginx 日志压到只剩 1/170：ClickHouse列式存储是怎么做到的？](https://www.infoq.cn/article/c8YXwJtrhPYAUIEBuKbJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 11:57
+
+#### [图虫×火山引擎：AIGC 创意工具链，让设计灵感高效实现](https://www.infoq.cn/article/5XMuvfNYERQ5RmuXcv1f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 11:12
+
+#### [SwiftKV：通过知识保留计算减少加速企业 LLM 工作负载 | 技术实践](https://www.infoq.cn/article/gPeRGz69bhZvstJbgjtU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 10:44
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [小红书入局“生活服务”，互联网巨头争抢6万亿线下服务市场](https://www.tmtpost.com/7746837.html)
+**发布时间**: 2025-11-03 13:11
+
+#### [七度亮相APEC，五粮液以和美共话亚太可持续繁荣](https://www.tmtpost.com/7746740.html)
+**发布时间**: 2025-11-03 12:44
+
+#### [芯正微完成数亿元A轮融资，加速射频芯片及SiP产业布局 | 融资首发](https://www.tmtpost.com/7746793.html)
+**发布时间**: 2025-11-03 12:21
+
+#### [AI变现“三部曲”：Open AI打开浏览器，豆包上链接，夸克戴眼镜](https://www.tmtpost.com/7746583.html)
+**发布时间**: 2025-11-03 11:45
+
+#### [China's Solar Equipment Makers Post Surprise Profit Recovery in Q3 After Five Quarters of Losses](https://www.tmtpost.com/7746723.html)
+**发布时间**: 2025-11-03 10:41
+
+#### [【产业互联网周报】 “十五五”规划建议：全面实施“人工智能+”行动，抢占人工智能产业应用制高点；黄仁勋GTC大会最新演讲勾勒AI蓝图；退出中国市场？SAS中国被曝集体大裁员；网络安全法完成修改；OpenAI完成资本重组](https://www.tmtpost.com/7746604.html)
+**发布时间**: 2025-11-03 10:04
+
+#### [万圣节，我在主题乐园扮「鬼」](https://www.tmtpost.com/7746495.html)
+**发布时间**: 2025-11-03 09:02
+
+#### [科股早知道：比太阳亮万亿倍！高能同步辐射光源通过工艺验收](https://www.tmtpost.com/7746521.html)
+**发布时间**: 2025-11-03 08:00
+
+#### [【钛晨报】财政部、税务总局发布关于黄金有关税收政策的公告；伯克希尔哈撒韦：Q3净利润307.96亿美元，现金储备达3816.7亿美元；中上协：前三季度上市公司合计实现净利润4.7万亿元，同比增长5.5%](https://www.tmtpost.com/7746416.html)
+**发布时间**: 2025-11-03 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为什么你的外语不再进步：几个关键的语言学习「元知识」](https://sspai.com/post/103323)
+**发布时间**: 2025-11-03 11:32
+
+#### [派早报：arXiv 因 AI 泛滥拒收未经同行评审的计算机领域综述文章](https://sspai.com/post/103480)
+**发布时间**: 2025-11-03 08:57
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [T1 零封 TES 战队，中国战队无缘 S15 总决赛舞台；英伟达合作制药巨头打造超级计算机；理想汽车汤靖详解 MEGA 起火事件｜极客早知道](http://www.geekpark.net/news/355873)
+**发布时间**: 2025-11-03 09:28
 
 ---
 
