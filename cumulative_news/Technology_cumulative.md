@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-03 05:26
+**最后更新时间**: 2025-11-03 08:34
+
+---
+
+## 🆕 最新更新 (2025-11-03 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI赋能组织的27个系统要素改造清单](https://www.tmtpost.com/7746780.html)
+**发布时间**: 2025-11-03 16:28
+
+#### [Airwallex空中云汇年化收入突破10亿美元大关，用AI重构全球金融系统](https://www.tmtpost.com/7747073.html)
+**发布时间**: 2025-11-03 16:00
+
+#### [存储芯片，开启“黄金时代”](https://www.tmtpost.com/7746762.html)
+**发布时间**: 2025-11-03 16:00
+
+#### [“药二代”接班一年半后，通化东宝“2.0”及格了吗？](https://www.tmtpost.com/7746733.html)
+**发布时间**: 2025-11-03 16:00
+
+#### [【Fintech 周报】世界黄金协会：市场尚未饱和；保险业前三季罚金超3亿禁业86人](https://www.tmtpost.com/7746960.html)
+**发布时间**: 2025-11-03 15:51
+
+#### [拼融资、谋上市、打价格战，无人物流车赛道“卷疯了”](https://www.tmtpost.com/7746499.html)
+**发布时间**: 2025-11-03 15:45
+
+#### [千亿资金涌入AI，六大巨头算力之争全面开打](https://www.tmtpost.com/7746683.html)
+**发布时间**: 2025-11-03 15:30
+
+#### [From a Bottle to a Billion: How Founder of Nongfu Spring Built a 530 Billion Yuan Empire](https://www.tmtpost.com/7746959.html)
+**发布时间**: 2025-11-03 15:12
+
+#### [台积电西游，真经让美国取了？](https://www.tmtpost.com/7746764.html)
+**发布时间**: 2025-11-03 15:07
+
+#### [净利腰斩、“三费+研发”激增11亿，长春高新创新药“远水难解近渴”丨看财报](https://www.tmtpost.com/7746502.html)
+**发布时间**: 2025-11-03 14:49
+
+#### [Xiaohongshu Expands into Offline Lifestyle Services Amid Intensifying Competition from China's Tech Giants](https://www.tmtpost.com/7746909.html)
+**发布时间**: 2025-11-03 14:24
+
+#### [又又又开始排队了，西贝打了一场翻身仗](https://www.tmtpost.com/7746783.html)
+**发布时间**: 2025-11-03 14:14
+
+#### [合资反攻：日韩新能源在中国的“起势之年”](https://www.tmtpost.com/7745217.html)
+**发布时间**: 2025-11-03 14:12
+
+#### [AI基建的价值将会向哪里集中？](https://www.tmtpost.com/7746750.html)
+**发布时间**: 2025-11-03 13:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [向量索引算法：IVF索引优化实践与下一代向量检索技术探索 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/XgZSEbPyqUR3i44bNotE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 16:24
+
+#### [向量数据库容灾：实现毫秒级时序一致的挑战与工程实践](https://www.infoq.cn/video/yhV97Li80pw7PfRfv41Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 16:19
+
+#### [向量数据库容灾：实现毫秒级时序一致的挑战与工程实践| 腾讯云数据库 DBTalk](https://www.infoq.cn/video/yhV97Li80pw7PfRfv41Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 16:19
+
+#### [腾讯云向量数据库服务AI客户：技术挑战和应对策略](https://www.infoq.cn/video/hX3FcA6e2995FqV7geR7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 16:14
+
+#### [腾讯云向量数据库服务AI客户：技术挑战和应对策略| 腾讯云数据库 DBTalk](https://www.infoq.cn/video/hX3FcA6e2995FqV7geR7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 16:14
+
+#### [商汤副总监龚睿昊确认出席AICon北京站，分享大模型推理系统与压缩优化](https://www.infoq.cn/article/RlWgY245QJziNcNyDPRD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 15:57
+
+#### [智元又打破瓶颈：真机强化学习首次“上岗”，机器人训练周期从数周锐减至分钟级](https://www.infoq.cn/article/Vk2W7S8xcYSHYif8BXer?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 15:56
+
+#### [AWS 精简产品线：20 多项服务进入维护或逐步退役阶段](https://www.infoq.cn/article/guKDOUoP74MkUOQ0ZAWm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 15:43
+
+#### [HashiCorp 推出 Project Infragraph，预览“智能代理化基础架构”未来蓝图](https://www.infoq.cn/article/okw4HJtpvSVNZCsk9JRG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 15:30
+
+#### [Python只是前戏，JVM才是正餐！Eclipse开源新方案，在K8s上不换栈搞定Agent](https://www.infoq.cn/article/HFQ8jNDpEPWiPFG9EOdo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 15:18
+
+#### [黄仁勋儿子谈为父打工；AI芯片龙头再启IPO，估值205亿；Ilya接受10小时质询，首曝惊人内幕｜AI周报](https://www.infoq.cn/article/BkvXXiTQDOGzbVWtzEjw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 15:02
+
+#### [Groupe SNCF使用Talos OS和Kubernetes实现基础设施的现代化](https://www.infoq.cn/article/ZSR1McyeXi9HSXjGAYOt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 14:30
+
+#### [Cloudflare发布邮件服务，与Amazon SES、Resend和SendGrid展开竞争](https://www.infoq.cn/article/yFErOBLkUCb822dvkYCu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-03 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [购物节想入手无线麦克风？我们来聊聊其中可能最受关注的两款](https://sspai.com/post/103245)
+**发布时间**: 2025-11-03 15:05
 
 ---
 
