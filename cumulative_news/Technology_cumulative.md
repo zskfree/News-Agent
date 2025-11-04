@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-04 08:29
+**最后更新时间**: 2025-11-04 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-04 23:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [完整前端代码突然公开？苹果把App Store“老底”都揭了，开发者社区炸锅！](https://www.infoq.cn/article/yGrQ90SMTO43U86SO1lO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 07:00
+
+#### [模力工场 018 周 AI 应用榜： TabTab登顶榜首， 把 AI 数据分析师装进口袋，关键结论更快抵达！](https://www.infoq.cn/article/TbYNEMOQsjCmQ5QWXijW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 20:00
+
+#### [Trae用户感觉“天塌了”：Claude 直接断供，IDE 菜单整列消失](https://www.infoq.cn/article/GaRwWZ7zQdaBcGwOV4g4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 18:48
+
+#### [山水比德携手文心大模型 AI双擎赋能设计全流程](https://www.infoq.cn/article/qEHD4lDE9tdPilBLJ2JI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 17:14
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从爆红到被玩梗：拆解吴京背后的电影资本局](http://www.huxiu.com/article/4800541.html?f=wangzhan)
+**发布时间**: 2025-11-04 21:00
+
+#### [RWA到底是什么？小白能看懂的Web3动画讲解](http://www.huxiu.com/article/4800145.html?f=wangzhan)
+**发布时间**: 2025-11-04 18:40
+
+#### [RWA巨大风口 ，普通人如何淘金？](http://www.huxiu.com/article/4800153.html?f=wangzhan)
+**发布时间**: 2025-11-04 18:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [航新科技二度易主：衢州国资联合体5.35亿接盘，低空经济猜想与经营困局并存](https://www.tmtpost.com/7749029.html)
+**发布时间**: 2025-11-04 20:22
+
+#### [国货美妆老三自然堂，活在珀莱雅和上美的阴影里](https://www.tmtpost.com/7748715.html)
+**发布时间**: 2025-11-04 19:15
+
+#### [“搞抽象”者，得市场？](https://www.tmtpost.com/7748885.html)
+**发布时间**: 2025-11-04 19:15
+
+#### [兴银理财：顺势增资，“图谋”富贵？](https://www.tmtpost.com/7748893.html)
+**发布时间**: 2025-11-04 19:12
+
+#### [购置税变天之前，汽车公司“撒钱买量”](https://www.tmtpost.com/7748896.html)
+**发布时间**: 2025-11-04 19:07
+
+#### [中国半导体的下一程](https://www.tmtpost.com/7748914.html)
+**发布时间**: 2025-11-04 19:03
+
+#### [狂飙的谷雨，与它甜蜜的烦恼](https://www.tmtpost.com/7748911.html)
+**发布时间**: 2025-11-04 19:03
+
+#### [万亿估值、百亿亏损，OpenAI开启商业化狂飙](https://www.tmtpost.com/7748816.html)
+**发布时间**: 2025-11-04 17:56
+
+#### [沈南鹏对话TPG、博枫、麦格理：从数据中心到能源变革，另类投资下一站何在？](https://www.tmtpost.com/7748813.html)
+**发布时间**: 2025-11-04 17:47
+
+#### [李渡&姚安娜，千年酒坊想酿出“年轻味”](https://www.tmtpost.com/7748751.html)
+**发布时间**: 2025-11-04 17:45
+
+#### [今年最“艺术”的射击爆款杀出：拿下全球第一，给搜打撤解难题](https://www.tmtpost.com/7747800.html)
+**发布时间**: 2025-11-04 17:40
+
+#### [新疆，中国新粮仓](https://www.tmtpost.com/7747921.html)
+**发布时间**: 2025-11-04 17:40
+
+#### [安徽“AI+制造”创新实践：算力、数据与模型协同驱动的产业升级路径](https://www.tmtpost.com/7748783.html)
+**发布时间**: 2025-11-04 17:28
+
+#### [美团迈出探索“世界模型”第一步；泡泡玛特中东首店开业；王者荣耀全球月活超过2.6亿破纪录｜一周大公司出海动态](https://www.tmtpost.com/7745484.html)
+**发布时间**: 2025-11-04 17:28
+
+#### [AI假图，让卖家和买家都怕了](https://www.tmtpost.com/7748728.html)
+**发布时间**: 2025-11-04 17:19
+
+#### [从SKP到星巴克：博裕的“高端消费闭环”野心](https://www.tmtpost.com/7748765.html)
+**发布时间**: 2025-11-04 17:18
+
+#### [字节游戏，从急行军到“挖战壕”](https://www.tmtpost.com/7748618.html)
+**发布时间**: 2025-11-04 17:15
+
+#### [“飞不高”的雪中飞：代工疑云与涨价冲动下的国货困局](https://www.tmtpost.com/7747386.html)
+**发布时间**: 2025-11-04 17:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [这个不「瞎 BB 」的 AI 硬件，给了我真正的「陪伴」丨New Things](http://www.geekpark.net/news/355972)
+**发布时间**: 2025-11-04 18:43
+
+#### [Rokid 乐奇联手 BOLON 眼镜：眼镜巨头依视路的中国棋局](http://www.geekpark.net/news/355955)
+**发布时间**: 2025-11-04 15:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 116 | 派友激辩电池优化、一周热评以及可爱的新玩意](https://sspai.com/post/103512)
+**发布时间**: 2025-11-04 17:00
+
+#### [专访 | 第十届移动应用创新赛收官，聊聊我们眼中的赛场内外](https://sspai.com/post/103499)
+**发布时间**: 2025-11-04 16:18
 
 ---
 

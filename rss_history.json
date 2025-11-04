@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a301f7df720a35a819379a9326e5edf9d4841e86c977360a9fa9ee95f6dd54af": {
-        "title": "推理token减少46%！Meta新方法缩短思维链，告别重复推导",
-        "link": "https://www.qbitai.com/2025/10/339545.html",
-        "published_date": "Sun, 05 Oct 2025 08:59:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.197971"
-      },
       "6f8d8aa6c6dda98aec69ef718f09165ffe6a6ad59fb959a4f72541b770b08dfa": {
         "title": "BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks",
         "link": "https://arxiv.org/abs/2510.02418",
@@ -2952,141 +2946,21 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Tue, 04 Nov 2025 08:29:00 GMT",
         "first_seen": "2025-11-04T08:29:40.279838"
+      },
+      "4aa6ca708ec6937d655b8eead2db2eeada7009ed66bdd7348c94ca35f9d21b1c": {
+        "title": "Exploring a space-based, scalable AI infrastructure system design",
+        "link": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/",
+        "published_date": "Tue, 04 Nov 2025 16:58:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.384471"
+      },
+      "a12ed925007f17d8b3c9419487b351c0579c982bde789b158c8198d04a300798": {
+        "title": "清华AI数学家系统攻克均匀化理论难题！人机协同完成17页严谨证明",
+        "link": "https://www.qbitai.com/2025/11/348860.html",
+        "published_date": "Tue, 04 Nov 2025 09:33:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.384665"
       }
     },
     "Technology": {
-      "22a2ab0da032c91c9470e71f9a088c65b29ceaf9253d23d26684b026b6173b22": {
-        "title": "Cursor 1.7 新增 Agent 生命周期管控钩子函数",
-        "link": "https://www.infoq.cn/article/mAZg2SP7UuUdvY1omk6g?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Oct 2025 21:24:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.551857"
-      },
-      "c3d6e850dd3f84f5946639016403ec86e9926a2fda3b6bf0e74e2e6fe76b7109": {
-        "title": "Perplexity 推出搜索 API，助力下一代 AI 应用开发",
-        "link": "https://www.infoq.cn/article/lGhZkVqlmpkfzScGMOdA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Oct 2025 21:21:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.551888"
-      },
-      "10a2f41ff3f881df9e8845da34884966a5a6ebe0aab3798faee3521a9d75fb94": {
-        "title": "VS Code MSSQL Extension v1.35 GA版本提供了模式匹配、设计器和本地容器",
-        "link": "https://www.infoq.cn/article/Mu6Dd8dPqRyVeY84xYg2?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Oct 2025 21:18:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.551903"
-      },
-      "82f36f23f8d613c78fdc0be92cf7e9f48e787b7c35b9d0849e35ab20a21efc8f": {
-        "title": "大语言模型的解耦：人工智能基础设施的下一轮进化",
-        "link": "https://www.infoq.cn/article/ViFEG6YOJR5WY2OTkux9?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Oct 2025 21:15:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.551915"
-      },
-      "22a8eabf3360451177f5f3a9a54a32a7953d5dd840f57e655337adb319d71b81": {
-        "title": "Jane Goodall’s death triggered the premiere of Netflix’s new show",
-        "link": "https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words",
-        "published_date": "Sun, 05 Oct 2025 20:34:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.551930"
-      },
-      "5d9a3f4bcc5110bb14c2237de32de340221b0de37f0e8177e05d294ba89bb219": {
-        "title": "If you can get past the terrible logo, Audacity 4 looks pretty great",
-        "link": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
-        "published_date": "Sun, 05 Oct 2025 17:37:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.551992"
-      },
-      "3170bd831b43af385ba93b406bb09c9b42af85a552eaadc83e16aacb158840d3": {
-        "title": "Roland is finally honoring its legacy instead of just cashing in on it",
-        "link": "https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000",
-        "published_date": "Sun, 05 Oct 2025 16:00:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.552009"
-      },
-      "3551968194ff58c9dc42490814f7e9cc8e23b4bad4536961a0afcf911ad88f9c": {
-        "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
-        "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-        "published_date": "Sun, 05 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.552024"
-      },
-      "e8c75382c55f181bb8d6221d5c31e03c8239470d617cfb482e56b298144cd01e": {
-        "title": "The developers behind a hit sausage-dueling game hope Steam launch will take it furter",
-        "link": "https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview",
-        "published_date": "Sun, 05 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.552036"
-      },
-      "d2c4905c454814bef54f4d2410596ecc6e52eb8c14240430ea5abb4f54f631eb": {
-        "title": "Version History is live — here’s how to find it",
-        "link": "https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards",
-        "published_date": "Sun, 05 Oct 2025 12:30:00 GMT",
-        "first_seen": "2025-10-05T23:17:10.552050"
-      },
-      "a7e963d9e7949976efe2ba4a7b076bbe9cb4f6ba4ab3c03f3127ece026d5df40": {
-        "title": "Can tap-to-pay save public transportation?",
-        "link": "https://www.theverge.com/column/789127/tap-to-pay-public-transportation",
-        "published_date": "Sun, 05 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.238824"
-      },
-      "c725f3f6f553f0f7e7bfdd439bab31e0a98d0734b065f16e4e0a419ad9221f26": {
-        "title": "The best lists to keep — and the best ways to keep them",
-        "link": "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer",
-        "published_date": "Sun, 05 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.240470"
-      },
-      "dbac7a4949ce55e6e8b69aef933f4a9c2dd53c405f48caf10539d0db1e974d6a": {
-        "title": "基于人的教育可能解决不了AI带来的问题",
-        "link": "https://www.tmtpost.com/7713561.html",
-        "published_date": "Sun, 05 Oct 2025 18:57:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.240999"
-      },
-      "9f494a7e3ba927a59f55cc5b566153daff167cf7d1cd60f7f40dcfe80db550e3": {
-        "title": "Apple Vision Pro 可以看自己拍的沉浸式视频了，但效果可能没你想得那么好",
-        "link": "https://sspai.com/post/102896",
-        "published_date": "Sun, 05 Oct 2025 17:03:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.242330"
-      },
-      "69b89147a5ada6a3edb3b1be47099512c879927f6dff917325e676669cc0e5b5": {
-        "title": "Our Favorite Humidifiers for Home, Travel & More (2025)",
-        "link": "https://www.wired.com/gallery/the-best-humidifier/",
-        "published_date": "Sun, 05 Oct 2025 14:08:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.244232"
-      },
-      "2234cdb6cd7a85539bad2696e55ff3784030ec6ad06c99f8c49726d1cbe88ffc": {
-        "title": "The Best Tech Gear for Work Trips (2025)",
-        "link": "https://www.wired.com/story/best-tech-business-travelers/",
-        "published_date": "Sun, 05 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.245756"
-      },
-      "ac0cf452d898514876950e945b71bf5f8c745b182e856718a1b3243df916a21e": {
-        "title": "Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025",
-        "link": "https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/",
-        "published_date": "Sun, 05 Oct 2025 11:36:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.248130"
-      },
-      "df84c07ebc1797e85878571e831d8f5d0a13d800946c1e166116fb75d7a20106": {
-        "title": "8 Best Space Heaters (2025): Tested, Measured, and Mistreated",
-        "link": "https://www.wired.com/gallery/the-best-space-heaters/",
-        "published_date": "Sun, 05 Oct 2025 11:34:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.250393"
-      },
-      "08f6bf75aef3bb1ac362ac7884bbd7a0abadd4bb3cd300ac14ddeb2396678ed1": {
-        "title": "Best iPad to Buy (and Some to Avoid) in 2025",
-        "link": "https://www.wired.com/gallery/the-best-ipad/",
-        "published_date": "Sun, 05 Oct 2025 11:33:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.252463"
-      },
-      "559a1fdc05de3a6558976dc3d7d1ee57f585d5d64ab0d7e4593cef1ed2f99b96": {
-        "title": "The Mystery of How Quasicrystals Form",
-        "link": "https://www.wired.com/story/quasicrystals-spill-secrets-of-their-formation/",
-        "published_date": "Sun, 05 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.254414"
-      },
-      "5d8033d04d8c54c80e3b9cb732263268074d6b97b9fcbe66a5d10e2ae17c12a2": {
-        "title": "Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/gallery/best-packing-cubes/",
-        "published_date": "Sun, 05 Oct 2025 10:30:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.257466"
-      },
-      "cff5f712eac7d46ce4730514d7e5042e13eb063f4a4dc7a7de7735de8a50c5ca": {
-        "title": "7 Best Dehumidifiers for Cool and Dry Home Air (2025)",
-        "link": "https://www.wired.com/gallery/best-dehumidifier/",
-        "published_date": "Sun, 05 Oct 2025 10:07:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.259980"
-      },
       "97b5a2777d3244a3b88da2d14b50de9670fc2db1ea5c43dced9eb629b71185f5": {
         "title": "中国造了台“时空压缩机”，它是干嘛用的？",
         "link": "http://www.huxiu.com/article/4787721.html?f=wangzhan",
@@ -14300,51 +14174,183 @@
         "link": "https://www.infoq.cn/article/at64K888bpLqrK54N8MG?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 04 Nov 2025 14:00:00 GMT",
         "first_seen": "2025-11-04T08:29:40.342070"
+      },
+      "3048552cacdf75632301e0b06feb596afae65a6be7e4fb45fdd69d1c654130a1": {
+        "title": "完整前端代码突然公开？苹果把App Store“老底”都揭了，开发者社区炸锅！",
+        "link": "https://www.infoq.cn/article/yGrQ90SMTO43U86SO1lO?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 05 Nov 2025 07:00:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965189"
+      },
+      "d73034192e16ab666abbee7416c6058b146c45f740a610b0f5a7169a0156f8ac": {
+        "title": "模力工场 018 周 AI 应用榜： TabTab登顶榜首， 把 AI 数据分析师装进口袋，关键结论更快抵达！",
+        "link": "https://www.infoq.cn/article/TbYNEMOQsjCmQ5QWXijW?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Nov 2025 20:00:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965204"
+      },
+      "545d21eba3acff82485ee830eb3b656c0ecf65b1d31233c304f7485c080657eb": {
+        "title": "Trae用户感觉“天塌了”：Claude 直接断供，IDE 菜单整列消失",
+        "link": "https://www.infoq.cn/article/GaRwWZ7zQdaBcGwOV4g4?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Nov 2025 18:48:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965217"
+      },
+      "2e9962a6d819e8493b136e7188dcf4932e09290ab60279d6259f0f0b6e32de37": {
+        "title": "山水比德携手文心大模型 AI双擎赋能设计全流程",
+        "link": "https://www.infoq.cn/article/qEHD4lDE9tdPilBLJ2JI?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Nov 2025 17:14:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965227"
+      },
+      "c7119cdb8e40b87409312011fc378f744fd568d54f7f0fe92003e0d12d9adde1": {
+        "title": "从爆红到被玩梗：拆解吴京背后的电影资本局",
+        "link": "http://www.huxiu.com/article/4800541.html?f=wangzhan",
+        "published_date": "Tue, 04 Nov 2025 21:00:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965237"
+      },
+      "043bd526894c594323c1bbb8e79fb98862cd39de6ef8d03892b657fec05803e2": {
+        "title": "RWA到底是什么？小白能看懂的Web3动画讲解",
+        "link": "http://www.huxiu.com/article/4800145.html?f=wangzhan",
+        "published_date": "Tue, 04 Nov 2025 18:40:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965247"
+      },
+      "6cb5733f8f703fa97333a5cfcd6be319c6b671b23754355a9c94ffc2a976040e": {
+        "title": "RWA巨大风口 ，普通人如何淘金？",
+        "link": "http://www.huxiu.com/article/4800153.html?f=wangzhan",
+        "published_date": "Tue, 04 Nov 2025 18:00:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965257"
+      },
+      "55c433ba81671ea960d38dd74ce60ad3fe596e82544ae08c5ee4f7d1f8746020": {
+        "title": "航新科技二度易主：衢州国资联合体5.35亿接盘，低空经济猜想与经营困局并存",
+        "link": "https://www.tmtpost.com/7749029.html",
+        "published_date": "Tue, 04 Nov 2025 20:22:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965127"
+      },
+      "84f7f737a91df11836ebce68ee75daa0a347d0e5ffce5e91f073e4cf07abb4ee": {
+        "title": "国货美妆老三自然堂，活在珀莱雅和上美的阴影里",
+        "link": "https://www.tmtpost.com/7748715.html",
+        "published_date": "Tue, 04 Nov 2025 19:15:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.490131"
+      },
+      "b2d04b52b0a241d917b04119a59a8da2e45c7d618ffba76c8800c5dfc101fc2b": {
+        "title": "“搞抽象”者，得市场？",
+        "link": "https://www.tmtpost.com/7748885.html",
+        "published_date": "Tue, 04 Nov 2025 19:15:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.490462"
+      },
+      "a3093519d2763e477be6e317d322673a1ad1c6b475f9e8ac8491d44fe90c230f": {
+        "title": "兴银理财：顺势增资，“图谋”富贵？",
+        "link": "https://www.tmtpost.com/7748893.html",
+        "published_date": "Tue, 04 Nov 2025 19:12:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.490922"
+      },
+      "e65229a08e2ffcc8732a8bd1cfeb661e8abbc3b059c91563e443c66965f859d3": {
+        "title": "购置税变天之前，汽车公司“撒钱买量”",
+        "link": "https://www.tmtpost.com/7748896.html",
+        "published_date": "Tue, 04 Nov 2025 19:07:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.491388"
+      },
+      "2fb225e5d24c2c40378c33eb51d814e5b7bcad4fa6c215ab37ca40b7c1e442cd": {
+        "title": "中国半导体的下一程",
+        "link": "https://www.tmtpost.com/7748914.html",
+        "published_date": "Tue, 04 Nov 2025 19:03:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.491725"
+      },
+      "78ea789a2399d8f654c2b948b7e4ecd765725b8f42b016acc1a7557de44732ef": {
+        "title": "狂飙的谷雨，与它甜蜜的烦恼",
+        "link": "https://www.tmtpost.com/7748911.html",
+        "published_date": "Tue, 04 Nov 2025 19:03:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.492148"
+      },
+      "56d0392746fd4c4ad6948194474f77d92fc7d7b673b502c16d55655e7087b60e": {
+        "title": "万亿估值、百亿亏损，OpenAI开启商业化狂飙",
+        "link": "https://www.tmtpost.com/7748816.html",
+        "published_date": "Tue, 04 Nov 2025 17:56:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.492777"
+      },
+      "4b07c7233c2cca48f11bcae61da4e4c6aae7d658f3c61160ffeacae9113bd619": {
+        "title": "沈南鹏对话TPG、博枫、麦格理：从数据中心到能源变革，另类投资下一站何在？",
+        "link": "https://www.tmtpost.com/7748813.html",
+        "published_date": "Tue, 04 Nov 2025 17:47:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.493701"
+      },
+      "85ed08fb4872b0c720fc6226b5cac863f2cc9b2ec0f5db011f6c90c57c4c66a6": {
+        "title": "李渡&姚安娜，千年酒坊想酿出“年轻味”",
+        "link": "https://www.tmtpost.com/7748751.html",
+        "published_date": "Tue, 04 Nov 2025 17:45:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.494373"
+      },
+      "96cf6bac153d79498bce1f0396e2995e19a482b241a20f117b47063e47f8ab43": {
+        "title": "今年最“艺术”的射击爆款杀出：拿下全球第一，给搜打撤解难题",
+        "link": "https://www.tmtpost.com/7747800.html",
+        "published_date": "Tue, 04 Nov 2025 17:40:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.495350"
+      },
+      "3d6cf5530337a8b394daaa59b3d8f6b922ae07ddd8c7a7d8470d8a8fe16b0cbb": {
+        "title": "新疆，中国新粮仓",
+        "link": "https://www.tmtpost.com/7747921.html",
+        "published_date": "Tue, 04 Nov 2025 17:40:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.495892"
+      },
+      "30889c54de206ca5797a5eb80381fbf59c5afb2bdaf0663e6eceed3ba8184f1c": {
+        "title": "安徽“AI+制造”创新实践：算力、数据与模型协同驱动的产业升级路径",
+        "link": "https://www.tmtpost.com/7748783.html",
+        "published_date": "Tue, 04 Nov 2025 17:28:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965159"
+      },
+      "548dafdc3ae02ef12ab2da9aa01d06552f8da06c86c237ca9e5631e77badb4fb": {
+        "title": "美团迈出探索“世界模型”第一步；泡泡玛特中东首店开业；王者荣耀全球月活超过2.6亿破纪录｜一周大公司出海动态",
+        "link": "https://www.tmtpost.com/7745484.html",
+        "published_date": "Tue, 04 Nov 2025 17:28:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.498700"
+      },
+      "7b98ee55151511ff45aca04566fe64476acc9e99f828b6516496b72dd9dd58ef": {
+        "title": "AI假图，让卖家和买家都怕了",
+        "link": "https://www.tmtpost.com/7748728.html",
+        "published_date": "Tue, 04 Nov 2025 17:19:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.499407"
+      },
+      "1a4f66989f3f30a83fe0fc16aee6e07f68d24e3b489863c9d0e7775878251cb1": {
+        "title": "从SKP到星巴克：博裕的“高端消费闭环”野心",
+        "link": "https://www.tmtpost.com/7748765.html",
+        "published_date": "Tue, 04 Nov 2025 17:18:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.500453"
+      },
+      "55e5eb2d598f193c54f250372a0ac63181f49fecceab3c33be7fc6be7a35aa79": {
+        "title": "字节游戏，从急行军到“挖战壕”",
+        "link": "https://www.tmtpost.com/7748618.html",
+        "published_date": "Tue, 04 Nov 2025 17:15:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.501294"
+      },
+      "6bf262cb28acb33e8f3db09ff8d5205012e42f5e99f369be0f2499b5bfa0e070": {
+        "title": "“飞不高”的雪中飞：代工疑云与涨价冲动下的国货困局",
+        "link": "https://www.tmtpost.com/7747386.html",
+        "published_date": "Tue, 04 Nov 2025 17:02:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.502433"
+      },
+      "c5c9bc9758ba3ae44a87afd709c3e7eb90a4bf2880ecedbea8cdbf86dd89b476": {
+        "title": "这个不「瞎 BB 」的 AI 硬件，给了我真正的「陪伴」丨New Things",
+        "link": "http://www.geekpark.net/news/355972",
+        "published_date": "Tue, 04 Nov 2025 18:43:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.504188"
+      },
+      "3fbcf83bf27ccc6e04a0083d1c33b2f5b69158cec92ee005c0871f8b40ba25a1": {
+        "title": "Rokid 乐奇联手 BOLON 眼镜：眼镜巨头依视路的中国棋局",
+        "link": "http://www.geekpark.net/news/355955",
+        "published_date": "Tue, 04 Nov 2025 15:14:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.505806"
+      },
+      "e90fd18f9ebe9259c67fb85981eaa782c80f90fd915e3235d9f03a8a223eec10": {
+        "title": "社区速递 116 | 派友激辩电池优化、一周热评以及可爱的新玩意",
+        "link": "https://sspai.com/post/103512",
+        "published_date": "Tue, 04 Nov 2025 17:00:00 GMT",
+        "first_seen": "2025-11-04T23:19:25.507317"
+      },
+      "4feb56b465ef4bc7c96d7e59c97718366cb71aa90de6f9f3eb8a9cd2bbc5e63a": {
+        "title": "专访 | 第十届移动应用创新赛收官，聊聊我们眼中的赛场内外",
+        "link": "https://sspai.com/post/103499",
+        "published_date": "Tue, 04 Nov 2025 16:18:00 GMT",
+        "first_seen": "2025-11-04T23:20:13.965174"
       }
     },
     "Finance": {
-      "545ec45e1937a2a29c68f625d17baafaa076f97573c4324ab82c5bfe9a28e9b8": {
-        "title": "U.S. stock futures gain, while oil and bitcoin prices rise amid uncertainties",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-while-oil-and-bitcoin-prices-rise-amid-uncertainties-49083305?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Oct 2025 22:42:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.062684"
-      },
-      "8b615dd0cf4462282ccb0b4c9f8b07d161c2af717cbacae39860613666f1d263": {
-        "title": "The release of Taylor Swift’s ‘The Life of a Showgirl’ is like Super Bowl Sunday for the music industry",
-        "link": "https://www.marketwatch.com/story/the-release-of-taylor-swifts-the-life-of-a-showgirl-is-like-super-bowl-sunday-for-the-music-industry-2adddbd9?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Oct 2025 21:58:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.063055"
-      },
-      "bdd59c98934085db9791eacf19a11ac0aeb1c03055a3dfece3a42a1374fa6a3a": {
-        "title": "‘I don’t wish to be petty’: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
-        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Oct 2025 21:00:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.063958"
-      },
-      "27bf36c6718acef9030c29745922625036eee0cb40d756a06281d244258af9a5": {
-        "title": "Bitcoin hits new high above $125,000 as investors seek safety",
-        "link": "https://www.marketwatch.com/story/bitcoin-hits-new-high-above-125-000-as-investors-seek-safety-8013d33a?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Oct 2025 20:28:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.064715"
-      },
-      "5c6a8130a7dc13e6ea59b5858420dae99f650d687673ee73b0cc263d598bdbad": {
-        "title": "How one of 2025’s most popular trades is boosting gold and bitcoin — and may keep going during the government shutdown",
-        "link": "https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Oct 2025 20:08:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.066089"
-      },
-      "496c19b23a7b06aa80fe9315de806ba545fa70d704ef3e7930be7a89e8e03356": {
-        "title": "‘My monthly expenses are $6,500’: I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
-        "link": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Oct 2025 19:45:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.068087"
-      },
-      "9c7c9d8327983c5fe5119d3cbc4d10b897d194f9ea64c0928abaf6fb18371a3c": {
-        "title": "OPEC+ agrees to another output hike in November despite growing concerns of glut",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d19908db-c46a-4447-a6e2-df6f02c70a76&mod=mw_rss_bulletins",
-        "published_date": "Sun, 05 Oct 2025 19:48:00 GMT",
-        "first_seen": "2025-10-05T23:16:22.070738"
-      },
       "b5bf01df7ed7fcb9b8ce4383e960e6c1b4f09736052720b42d2b955db31ff810": {
         "title": "Why Taylor Swift’s new album is such a big deal for the music industry",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c7c91b5-9795-4fa7-8581-f78442c918d4&mod=mw_rss_bulletins",
@@ -15128,8 +15134,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-04T08:29:40.294907",
-    "Technology": "2025-11-04T08:30:28.694601",
-    "Finance": "2025-11-04T08:29:40.174609"
+    "AI": "2025-11-04T23:19:25.454462",
+    "Technology": "2025-11-04T23:20:13.966847",
+    "Finance": "2025-11-04T23:19:25.277077"
   }
 }
