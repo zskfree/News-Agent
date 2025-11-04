@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-03 23:18
+**最后更新时间**: 2025-11-04 05:20
+
+---
+
+## 🆕 最新更新 (2025-11-04 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [余承东要给原生鸿蒙来一次“生态化反”](https://www.tmtpost.com/7747659.html)
+**发布时间**: 2025-11-04 13:20
+
+#### [风靡东三省，吊打巴黎水, “东北水王”9个月狂卖10亿](https://www.tmtpost.com/7748015.html)
+**发布时间**: 2025-11-04 13:05
+
+#### [夸克 AI 眼镜成阿里 AI To C 船票，马云看走眼了吗？](https://www.tmtpost.com/7748031.html)
+**发布时间**: 2025-11-04 13:00
+
+#### [Palantir：估值太超前，反噬要来了？](https://www.tmtpost.com/7748045.html)
+**发布时间**: 2025-11-04 13:00
+
+#### [2.9元咖啡都出现了，低价咖啡到底能持续多久？](https://www.tmtpost.com/7748054.html)
+**发布时间**: 2025-11-04 12:53
+
+#### [星巴克中国易主：外资咖啡时代终结？](https://www.tmtpost.com/7748088.html)
+**发布时间**: 2025-11-04 12:53
+
+#### [一年出手50次，锦秋两位合伙人首谈AI创业与投资 | 巴伦精选](https://www.tmtpost.com/7748126.html)
+**发布时间**: 2025-11-04 12:42
+
+#### [淘宝闪购的便利店，与当年的新零售有什么不同](https://www.tmtpost.com/7747512.html)
+**发布时间**: 2025-11-04 11:42
+
+#### [辞任香农芯创董事长，基石资本总裁背景惹关注](https://www.tmtpost.com/7747515.html)
+**发布时间**: 2025-11-04 11:33
+
+#### [饿了么正式更名，淘宝闪购摸着美团过河](https://www.tmtpost.com/7747523.html)
+**发布时间**: 2025-11-04 11:25
+
+#### [储能明星企业星辰新能再获超3亿元融资](https://www.tmtpost.com/7747052.html)
+**发布时间**: 2025-11-04 11:22
+
+#### [公牛业绩“绊脚”，400亿“插座大亨”拟套现16亿](https://www.tmtpost.com/7747530.html)
+**发布时间**: 2025-11-04 11:18
+
+#### [AI 时代，重构营销 4P](https://www.tmtpost.com/7747928.html)
+**发布时间**: 2025-11-04 11:12
+
+#### [星巴克中国的“新合伙人”，博裕资本是什么来头？](https://www.tmtpost.com/7747982.html)
+**发布时间**: 2025-11-04 11:07
+
+#### [天桥脑科学研究院联合创始人雒芊芊致辞AIAS 2025：AI开启了科学发现的新纪元](https://www.tmtpost.com/7747967.html)
+**发布时间**: 2025-11-04 11:02
+
+#### [狂欢下的暗涌：2025年10月全球资产分化与回调真相](https://www.tmtpost.com/7747878.html)
+**发布时间**: 2025-11-04 10:59
+
+#### [诺华ADC之外的“执着”](https://www.tmtpost.com/7747888.html)
+**发布时间**: 2025-11-04 10:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic 将 Claude Code 扩展至 Web 和移动平台](https://www.infoq.cn/article/XeFKYzt6MKpt9paum1go?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 13:00
+
+#### [Meta 利用 AI 标准化并减少碳排放足迹](https://www.infoq.cn/article/ar7mJUw0MzG1FFKFcwyg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 12:00
+
+#### [a16z将3000万开发者标价3万亿，等于法国GDP！网友：几个初创公司+大模型就想取代我们？](https://www.infoq.cn/article/YEUuWBBuuHmTrivKVINj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 11:40
+
+#### [深入解析多邻国的 FinOps 之旅：将云支出转化为工程洞察](https://www.infoq.cn/article/K8ASLf5dzsiPlA6zmjmq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 10:53
+
+#### [美的AI实践再升级，探索大模型与Agent在家居场景融合](https://www.infoq.cn/article/Tspr963k9czmhduXUUxU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 10:34
+
+#### [极佳视界获新一轮亿元级A1轮融资，CEO：“物理世界ChatGPT时刻”将在2至3年内到来](https://www.infoq.cn/article/WL7EDhFlMxkT0V0Me9WQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 10:29
+
+#### [AI 工程化进行时：当上百个专家探讨“落地”这件事](https://www.infoq.cn/article/aWCRWMPSLYMO1dlchusa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 10:25
+
+#### [Java近期新闻：甲骨文关键补丁更新、BellSoft、Grails、Hazelcast和Langchain4j](https://www.infoq.cn/article/bvaT2gpyw2fmtB0pMhjK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 10:08
+
+#### [Spring近期新闻：Boot、Security、GraphQL、Integration和Modulith发布第一个候选版本](https://www.infoq.cn/article/sXSRkf6tclu8PA5S8j8Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 10:03
+
+#### [OPPO端侧化算法组负责人宋晓辉确认出席 AICon北京站，分享OPPO 多模态大模型端侧化应用实践](https://www.infoq.cn/article/cTv8OSE2RCHXbxDFGD7S?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-04 09:46
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [袁隆平用一生守护的“稻种密码”，竟被人偷偷卖给国外？](http://www.huxiu.com/article/4800416.html?f=wangzhan)
+**发布时间**: 2025-11-04 11:32
+
+#### [全国哪里买房最容易？中国31省房价测评](http://www.huxiu.com/article/4800176.html?f=wangzhan)
+**发布时间**: 2025-11-04 10:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [中亚行纪：从阿拉木图的雪山到撒马尔罕的蓝穹](https://sspai.com/post/103312)
+**发布时间**: 2025-11-04 11:02
+
+#### [派早报：Google 因 AI 幻觉指控从 AI Studio 撤下 Gemma 模型等](https://sspai.com/post/103507)
+**发布时间**: 2025-11-04 08:33
 
 ---
 
