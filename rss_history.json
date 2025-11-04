@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "085a75f22700fd5f996982a5acd48f47eeb69e2d318f243a68f6c072ae226bd4": {
-        "title": "刚刚，全球AI生图新王诞生！腾讯混元图像3.0登顶了",
-        "link": "https://www.qbitai.com/2025/10/339468.html",
-        "published_date": "Sun, 05 Oct 2025 06:49:00 GMT",
-        "first_seen": "2025-10-05T08:22:50.003731"
-      },
       "a301f7df720a35a819379a9326e5edf9d4841e86c977360a9fa9ee95f6dd54af": {
         "title": "推理token减少46%！Meta新方法缩短思维链，告别重复推导",
         "link": "https://www.qbitai.com/2025/10/339545.html",
@@ -2934,21 +2928,33 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Tue, 04 Nov 2025 05:20:00 GMT",
         "first_seen": "2025-11-04T05:20:53.400697"
+      },
+      "30977b27931118efe7ca5971182700a58d7611aaf1b87652521cdb8c4f330f00": {
+        "title": "聚焦手机AI“超级入口”，中兴Nebula小模型让手机秒变“小秘”？",
+        "link": "https://www.qbitai.com/2025/11/348740.html",
+        "published_date": "Tue, 04 Nov 2025 06:36:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.279038"
+      },
+      "ff72a4e1bc6d84316045cecd71f89e1598a822d9d8cf150161add44c36da7792": {
+        "title": "B站整了个搞笑诺贝尔评选，也太难绷了",
+        "link": "https://www.qbitai.com/2025/11/348741.html",
+        "published_date": "Tue, 04 Nov 2025 06:29:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.279199"
+      },
+      "21c7f72d4609082cccada6cb0c222964cf2928cb9ce291ed8fc0d5e5c8a96d0f": {
+        "title": "首例碰瓷Robotaxi被罚，武汉还是太领先了",
+        "link": "https://www.qbitai.com/2025/11/348720.html",
+        "published_date": "Tue, 04 Nov 2025 05:52:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.279379"
+      },
+      "6a608128231306c83ecb1c0f3d9c3956b6ecda5af6d6de955c32a0f0527c01db": {
+        "title": "](https://www.qbitai.com/2025/11/348474.html)\n**发布时间**: 2025-11-03 10:27\n\n---\n\n## 🆕 最新更新 (2025-11-04 05:20)\n### 📰 来源: [量子位",
+        "link": "https://www.qbitai.com/feed",
+        "published_date": "Tue, 04 Nov 2025 08:29:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.279838"
       }
     },
     "Technology": {
-      "3a4031ede52b5cd9f7ba93d3a121d6b7c0c688c5ea32ab2fd3217301e6d28caa": {
-        "title": "当“幸福”变成一门生意",
-        "link": "https://www.tmtpost.com/7713526.html",
-        "published_date": "Sun, 05 Oct 2025 13:46:00 GMT",
-        "first_seen": "2025-10-05T08:22:50.053612"
-      },
-      "e352f8d09e99284115e7927c4edb75e9709791cc47e3a517d5402ee494b078f2": {
-        "title": "流量艺人，“绑架”音乐节？",
-        "link": "https://www.tmtpost.com/7713532.html",
-        "published_date": "Sun, 05 Oct 2025 10:36:00 GMT",
-        "first_seen": "2025-10-05T08:22:50.053945"
-      },
       "22a2ab0da032c91c9470e71f9a088c65b29ceaf9253d23d26684b026b6173b22": {
         "title": "Cursor 1.7 新增 Agent 生命周期管控钩子函数",
         "link": "https://www.infoq.cn/article/mAZg2SP7UuUdvY1omk6g?utm_source=rss&utm_medium=article",
@@ -14144,6 +14150,156 @@
         "link": "https://sspai.com/post/103507",
         "published_date": "Tue, 04 Nov 2025 08:33:00 GMT",
         "first_seen": "2025-11-04T05:20:53.483092"
+      },
+      "3d9eb82affa7dd6e18761d418277480d170d916ec51a84f52065abff15bcc2c4": {
+        "title": "檀邑首店落子，旅悦有了新的高端化野心",
+        "link": "https://www.tmtpost.com/7747798.html",
+        "published_date": "Tue, 04 Nov 2025 15:09:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693059"
+      },
+      "79cb740da13e06c93444f10088f3968fa847503450e557ff96294f9eddfa2314": {
+        "title": "星巴克中国估40亿美元股权，门店剑指 2 万家",
+        "link": "https://www.tmtpost.com/7748075.html",
+        "published_date": "Tue, 04 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693073"
+      },
+      "7f5fcb88b562c7f244a6cb2810d2baf92d96d491d3efa9e879c61aa73e47824e": {
+        "title": "脱离微软后，OpenAI“疯狂扫货”",
+        "link": "https://www.tmtpost.com/7748378.html",
+        "published_date": "Tue, 04 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693084"
+      },
+      "48026d62aae3a369939e9dff0a58c89cba429513916e21b502b0800271174d64": {
+        "title": "2025Q3乳制品市场回顾",
+        "link": "https://www.tmtpost.com/7748430.html",
+        "published_date": "Tue, 04 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693093"
+      },
+      "9d8371242336f882c6a35c408cfec898662aaa3a0feff94ec8bf325e17d8f807": {
+        "title": "贝达药业拿下国产首款长效八因子经销权，战略卡位还是研发“躺平”？",
+        "link": "https://www.tmtpost.com/7748377.html",
+        "published_date": "Tue, 04 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693045"
+      },
+      "c11360fec758cc49673fe5957eb3c0fcdb214640e3fffb2ee85d4ca00aa9ee54": {
+        "title": "白酒“最差三季报”背后：撕开真伤口，行业磨底才真正开始|行业风向标",
+        "link": "https://www.tmtpost.com/7748415.html",
+        "published_date": "Tue, 04 Nov 2025 15:07:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693105"
+      },
+      "36543f6fa5839e45e128f6fb8161038eee0756672cb26db67723e1800012e1a3": {
+        "title": "星巴克找到了“中国合伙人”",
+        "link": "https://www.tmtpost.com/7748310.html",
+        "published_date": "Tue, 04 Nov 2025 15:01:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693114"
+      },
+      "a145f59e2cf68fa46a85c309e93cb5e0ef31d306b320e6ba12f84f21ce35ee28": {
+        "title": "瑞士机器人科技公司RIVR Technologies研发轮腿式配送机器人，实现最后一公里配送自动化 | 瑞士创新100强",
+        "link": "https://www.tmtpost.com/7748329.html",
+        "published_date": "Tue, 04 Nov 2025 15:01:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693009"
+      },
+      "7dcd81d42ddbcd7fa5a66fb4cdf78dcdd5aadfb777bc8171ae0cdec309004040": {
+        "title": "腔镜手术机器人出海爆卖，硬刚达芬奇",
+        "link": "https://www.tmtpost.com/7748353.html",
+        "published_date": "Tue, 04 Nov 2025 15:01:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693123"
+      },
+      "d7a5ae514fd6b80d24a5a92b9965b3fc298d0e827f8ee38a299a316bbd9e66a3": {
+        "title": "285亿卖掉中国业务，合资模式下星巴克中国未来如何？",
+        "link": "https://www.tmtpost.com/7748404.html",
+        "published_date": "Tue, 04 Nov 2025 15:01:00 GMT",
+        "first_seen": "2025-11-04T08:30:28.693132"
+      },
+      "3b861c3b5a86140df916a32ebadc4e8deee6a574d0d3645b0bc58b3fe8a2de71": {
+        "title": "旅游变 “干饭”?年轻人的旅游，早不按套路来",
+        "link": "https://www.tmtpost.com/7748413.html",
+        "published_date": "Tue, 04 Nov 2025 15:01:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.329552"
+      },
+      "35ee487c250af973e62a08a44f1cab3c500355aee0ecd667010f215aa73627ed": {
+        "title": "一边涨停，一边停涨，光伏前景愈发难料",
+        "link": "https://www.tmtpost.com/7748393.html",
+        "published_date": "Tue, 04 Nov 2025 14:25:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.329992"
+      },
+      "0952c50094d140b23eafccbf44d812c43c06278b74807bc798b69caaa45328b7": {
+        "title": "Musk Pushes Starlink Into Space-Based Computing as AI Drives Satellite Innovation",
+        "link": "https://www.tmtpost.com/7748367.html",
+        "published_date": "Tue, 04 Nov 2025 14:06:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.331023"
+      },
+      "982c7f7f3da26f01eaf2c759314f025734d9f2b3093e640bb9278eec95b73584": {
+        "title": "星巴克中国“让贤”仅保留40%股权，借力博裕投资坐望2万家门店",
+        "link": "https://www.tmtpost.com/7748345.html",
+        "published_date": "Tue, 04 Nov 2025 13:52:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.331763"
+      },
+      "faf1e7df77849daafbdf516cf01f04332e52893bc5a4b7d8b7f5eac7d0de05da": {
+        "title": "效率提升VS安全暴露，企业级AI落地如何应对“双刃剑”丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7747917.html",
+        "published_date": "Tue, 04 Nov 2025 13:51:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.332584"
+      },
+      "66933aa874ea6b34a070f7a4456e89f668d0dc8b1cb55452f2978e2c22accb7a": {
+        "title": "硅谷大裁员，组织变天了",
+        "link": "https://www.tmtpost.com/7748020.html",
+        "published_date": "Tue, 04 Nov 2025 13:35:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.333064"
+      },
+      "470d7ba5f7a5b4a5875249490fb8d0ed6b68168cf78725d7e773b438a125a219": {
+        "title": "万益蓝狂卖7亿瓶益生菌，却戴不上“蓝帽子”？",
+        "link": "https://www.tmtpost.com/7747372.html",
+        "published_date": "Tue, 04 Nov 2025 13:30:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.333683"
+      },
+      "d2b6bf369bfcc91a3841bd2c70a0cfad9662c51e9630b55dae03718f24bb3b22": {
+        "title": "OWLS：被Visa盯上的稳定币清算公司",
+        "link": "https://www.tmtpost.com/7747403.html",
+        "published_date": "Tue, 04 Nov 2025 13:26:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.334325"
+      },
+      "5e9b254cd02617db9847e1b6011ab1f365c13d6c64f882ab048d48daf1035daa": {
+        "title": "跟一位日本比亚迪车主聊了聊，才明白我们对「出海」有多天真",
+        "link": "http://www.geekpark.net/news/355954",
+        "published_date": "Tue, 04 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.335184"
+      },
+      "ee5c21f9312626674a55f3fee3246f4b46559118b29d8f720a391468a43050d6": {
+        "title": "宁德时代赚走185亿，车企却不想再给「宁王」打工了",
+        "link": "http://www.geekpark.net/news/355952",
+        "published_date": "Tue, 04 Nov 2025 15:03:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.336081"
+      },
+      "4a405d93e4a233b408b02ea08e428c4c1a10c7c54d693f7ab44f6d8a0aa81889": {
+        "title": "从「绝望」到一轮融资43亿元：新石器做对了什么？",
+        "link": "http://www.geekpark.net/news/355951",
+        "published_date": "Tue, 04 Nov 2025 14:59:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.337076"
+      },
+      "ff74fc90242660691f7bb683a55bd9234722bef52e42f3180706f1bbad5a2799": {
+        "title": "豆包，正在悄悄开启「电商新链路」",
+        "link": "http://www.geekpark.net/news/355938",
+        "published_date": "Tue, 04 Nov 2025 09:57:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.337867"
+      },
+      "269585625883e4e0f21f71f1495edb7b8ce40f38e2238dd00d4a025168527246": {
+        "title": "OpenAI 与 AWS 达成 380 亿美元算力合作；新 Siri 付费采用 Gemini；字节试行「豆包股」 | 极客早知道",
+        "link": "http://www.geekpark.net/news/355930",
+        "published_date": "Tue, 04 Nov 2025 08:45:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.339774"
+      },
+      "b95ab2e90db173b66a348eaaaea365fe04ed8892f629102747b9a6fed28da4e5": {
+        "title": "对话Plaud许高：经营杠杆是最好的回报，价值观让我淡然",
+        "link": "http://www.huxiu.com/article/4800322.html?f=wangzhan",
+        "published_date": "Tue, 04 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.341021"
+      },
+      "daba037a9f5a2df78c3967c233d090a96a5eda311151beb885ab0903c727cd61": {
+        "title": "CNCF报告发现，分层防御是打击AI驱动的网络威胁的关键",
+        "link": "https://www.infoq.cn/article/at64K888bpLqrK54N8MG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Nov 2025 14:00:00 GMT",
+        "first_seen": "2025-11-04T08:29:40.342070"
       }
     },
     "Finance": {
@@ -14972,8 +15128,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-04T05:20:53.426605",
-    "Technology": "2025-11-04T05:21:41.796139",
-    "Finance": "2025-11-04T05:20:53.295208"
+    "AI": "2025-11-04T08:29:40.294907",
+    "Technology": "2025-11-04T08:30:28.694601",
+    "Finance": "2025-11-04T08:29:40.174609"
   }
 }
