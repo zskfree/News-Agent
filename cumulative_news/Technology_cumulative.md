@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-05 05:21
+**最后更新时间**: 2025-11-05 08:29
+
+---
+
+## 🆕 最新更新 (2025-11-05 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI Boom Reshapes Software Industry as Global Expansion Faces New Challenges](https://www.tmtpost.com/7750050.html)
+**发布时间**: 2025-11-05 16:22
+
+#### [美元基金重新“杀”回中国创新药](https://www.tmtpost.com/7749659.html)
+**发布时间**: 2025-11-05 16:02
+
+#### [复盘Netflix的2025：广告业务、线下业态和视频播客](https://www.tmtpost.com/7749669.html)
+**发布时间**: 2025-11-05 16:02
+
+#### [HR对人力专业的成见，是座大山](https://www.tmtpost.com/7749335.html)
+**发布时间**: 2025-11-05 16:02
+
+#### [AI Ushers in a New Era of Scientific Discovery, Says Co-founder of TCCI](https://www.tmtpost.com/7749979.html)
+**发布时间**: 2025-11-05 16:02
+
+#### [只值40亿美元，星巴克中国「贱卖了」？](https://www.tmtpost.com/7749163.html)
+**发布时间**: 2025-11-05 15:40
+
+#### [JD.com, GAC and CATL Launch “National People’s Car” Aion UT Super No.1](https://www.tmtpost.com/7749867.html)
+**发布时间**: 2025-11-05 15:36
+
+#### [比亚迪2025年三季报点评](https://www.tmtpost.com/7749793.html)
+**发布时间**: 2025-11-05 15:01
+
+#### [涨跌幅榜中的投资机会与风险提示（10月31日盘后）](https://www.tmtpost.com/7749790.html)
+**发布时间**: 2025-11-05 15:01
+
+#### [那片谁也画不出边界的灰色地带](https://www.tmtpost.com/7749775.html)
+**发布时间**: 2025-11-05 15:00
+
+#### [出海“老炮”的全球化经验是AI时代的推手，还是累赘？｜Global AI Booming](https://www.tmtpost.com/7749697.html)
+**发布时间**: 2025-11-05 14:34
+
+#### [海圣医疗：8 成收入靠经销却年换 200 + 经销商，销售高投入人均创收垫底| IPO观察](https://www.tmtpost.com/7749700.html)
+**发布时间**: 2025-11-05 14:33
+
+#### [低增长、强内卷，家庭投影迎来新的价值重构窗口期](https://www.tmtpost.com/7740813.html)
+**发布时间**: 2025-11-05 14:27
+
+#### [稀土股持续下跌，关注MP股票的两个关键支撑位](https://www.tmtpost.com/7749605.html)
+**发布时间**: 2025-11-05 12:53
+
+#### [哈雷戴维森业绩远超预期，股价却下跌，原因何在？](https://www.tmtpost.com/7749603.html)
+**发布时间**: 2025-11-05 12:52
+
+#### [这位“大空头”投资者正在押注做空人工智能，此举究竟是慧眼独具还是重大误判？](https://www.tmtpost.com/7749601.html)
+**发布时间**: 2025-11-05 12:52
+
+#### [银行高管预警股市将迎跌势，此番判断可能成真](https://www.tmtpost.com/7749599.html)
+**发布时间**: 2025-11-05 12:52
+
+#### [赫兹股价大涨37%，重新实现盈利，推高股价的因素有哪些？](https://www.tmtpost.com/7749596.html)
+**发布时间**: 2025-11-05 12:52
+
+#### [Shopify股价因财报下跌，投资者为何仍不买账？](https://www.tmtpost.com/7749593.html)
+**发布时间**: 2025-11-05 12:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 智能体未来之争：是迷你应用（GPTs）？还是模块化代码（Skills）？开发者，你站哪边？](https://www.infoq.cn/article/y99yp6rICYg7J1zVpZIa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 16:12
+
+#### [PyTorch基金会迎来Ray项目，并推出Monarch简化分布式AI开发](https://www.infoq.cn/article/X0dKJlMTVXILBhqEX5mz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 15:00
+
+#### [Vite+正式发布，搭载一体化工具链与Rust核心引擎](https://www.infoq.cn/article/yfrLoaFaE1hAOzkpWAgs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 14:00
 
 ---
 
