@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-04 23:19
+**最后更新时间**: 2025-11-05 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-05 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI算力卷上太空！谷歌英伟达竞相押注“太空数据中心”](https://www.infoq.cn/article/xTvss0KBhJFtB9mmpmex?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 13:11
+
+#### [苹果发布 Swift SDK for Android 预览版](https://www.infoq.cn/article/SzrE4CokdxacW8Msb5IB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 13:00
+
+#### [企业大模型工程化的探索实践｜AICon北京站](https://www.infoq.cn/article/D4W095TEWK0JolheudJi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 12:14
+
+#### [架构转变：AI Agent成为执行引擎，而后端则撤退到治理层面](https://www.infoq.cn/article/dp0fPhT2zQqu3M4qxLzE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 11:57
+
+#### [CNCF展示了vCluster如何缓解Kubernetes多租户挑战](https://www.infoq.cn/article/DqUtwYQH3xO8JSB3Ppju?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 10:16
+
+#### [Meta开源OpenZL：一个通用的结构化数据压缩框架](https://www.infoq.cn/article/54MLVTdYOjYw1AYEbQKb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-05 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [代工之殇与资本退潮：Babycare要在存量市场杀出条血路](https://www.tmtpost.com/7749279.html)
+**发布时间**: 2025-11-05 12:39
+
+#### [Uber：业绩没毛病，又被 Robotaxi 吓到了？](https://www.tmtpost.com/7749495.html)
+**发布时间**: 2025-11-05 12:39
+
+#### [瑞博生物，港股“输血”](https://www.tmtpost.com/7749116.html)
+**发布时间**: 2025-11-05 12:39
+
+#### [从星巴克合营看洋品牌的本地化生死局](https://www.tmtpost.com/7749372.html)
+**发布时间**: 2025-11-05 12:10
+
+#### [微滔生物完成超亿元规模天使轮融资，启明创投领投 | 融资首发](https://www.tmtpost.com/7749403.html)
+**发布时间**: 2025-11-05 11:53
+
+#### [揽月动力完成数千万元天使轮融资，以“约化模型”推动机器人泛化能力突破 | 融资首发](https://www.tmtpost.com/7749413.html)
+**发布时间**: 2025-11-05 11:53
+
+#### [钉钉AI表格单表容量突破1000万热行，截胡飞书](https://www.tmtpost.com/7749507.html)
+**发布时间**: 2025-11-05 11:50
+
+#### [成为具身智能“大脑”，多模态世界模型需要具备哪些能力？丨ToB产业观察](https://www.tmtpost.com/7749292.html)
+**发布时间**: 2025-11-05 11:42
+
+#### [康诺亚的“虚拟帝国”](https://www.tmtpost.com/7749437.html)
+**发布时间**: 2025-11-05 11:26
+
+#### [董宇辉vs李佳琦，为什么人生导师“赢了”价格杀手？](https://www.tmtpost.com/7749052.html)
+**发布时间**: 2025-11-05 11:26
+
+#### [不上不下的中端手机，正陷入“进退两难”](https://www.tmtpost.com/7749079.html)
+**发布时间**: 2025-11-05 11:26
+
+#### [From SKP to Starbucks: Boyu Capital's Ambition to Build a "Closed Loop" in High-End Consumer Markets](https://www.tmtpost.com/7749456.html)
+**发布时间**: 2025-11-05 11:04
+
+#### [日本三大便利店的破局与新生：便利店的未来不一定在货架上](https://www.tmtpost.com/7749145.html)
+**发布时间**: 2025-11-05 09:53
+
+#### [当京东举起镰刀](https://www.tmtpost.com/7748954.html)
+**发布时间**: 2025-11-05 09:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS 26.1 中值得关注的新特性](https://sspai.com/post/103538)
+**发布时间**: 2025-11-05 11:32
+
+#### [派早报：2026 年部分节假日安排公布等](https://sspai.com/post/103539)
+**发布时间**: 2025-11-05 07:45
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [山姆更新后遭会员疯狂吐槽；Switch2 销量破千万；小米马志宇警告存储涨价：明年最新的成本预估“有点惊悚”｜极客早知道](http://www.geekpark.net/news/355973)
+**发布时间**: 2025-11-05 08:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国搞出“新核电技术” ——不用铀，资源够用几千年](http://www.huxiu.com/article/4800772.html?f=wangzhan)
+**发布时间**: 2025-11-05 08:30
 
 ---
 

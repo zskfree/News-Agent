@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Nov 2025 23:19:25 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2025 05:21:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Exploring a space-based, scalable AI infrastructure system design</title>
-      <link>https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/</link>
-      <description>&lt;![CDATA[Exploring a space-based, scalable AI infrastructure system design]]&gt;</description>
-      <pubDate>Tue, 04 Nov 2025 16:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/</guid>
+      <title>业内首个，钉钉AI表格单表容量突破1000万热行！</title>
+      <link>https://www.qbitai.com/2025/11/349033.html</link>
+      <description>&lt;![CDATA[业内首个，钉钉AI表格单表容量突破1000万热行！]]&gt;</description>
+      <pubDate>Wed, 05 Nov 2025 03:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349033.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>清华AI数学家系统攻克均匀化理论难题！人机协同完成17页严谨证明</title>
-      <link>https://www.qbitai.com/2025/11/348860.html</link>
-      <description>&lt;![CDATA[清华AI数学家系统攻克均匀化理论难题！人机协同完成17页严谨证明]]&gt;</description>
-      <pubDate>Tue, 04 Nov 2025 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348860.html</guid>
+      <title>AI算力大战打到太空！英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语</title>
+      <link>https://www.qbitai.com/2025/11/348986.html</link>
+      <description>&lt;![CDATA[AI算力大战打到太空！英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语]]&gt;</description>
+      <pubDate>Wed, 05 Nov 2025 02:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348986.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>赛力斯2150亿登陆香港IPO，开盘暴跌8%</title>
+      <link>https://www.qbitai.com/2025/11/348879.html</link>
+      <description>&lt;![CDATA[赛力斯2150亿登陆香港IPO，开盘暴跌8%]]&gt;</description>
+      <pubDate>Wed, 05 Nov 2025 02:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/348879.html</guid>
       <category>AI</category>
     </item>
   </channel>
