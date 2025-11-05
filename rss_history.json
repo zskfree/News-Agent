@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "5d2b22faaa65e9618245bdfb0588f330bda493bb848b2ca1a87e61d264a50bc3": {
-        "title": "亚马逊“盲眼”机器人30秒跑酷首秀惊艳！华人学者领衔",
-        "link": "https://www.qbitai.com/2025/10/339675.html",
-        "published_date": "Mon, 06 Oct 2025 06:32:00 GMT",
-        "first_seen": "2025-10-06T08:32:31.457594"
-      },
-      "25db3a5c472aaad90d5c4b3e46bd5c856f1e0a71c80f3bd99d073ba4b5dcf7a6": {
-        "title": "重生之在《我的世界》做山姆·奥特曼：网友在线手搓ChatGPT",
-        "link": "https://www.qbitai.com/2025/10/339569.html",
-        "published_date": "Mon, 06 Oct 2025 06:21:00 GMT",
-        "first_seen": "2025-10-06T08:32:31.457772"
-      },
-      "8d122fa3178f9c17e5f8abd99f6d88d0a9498687004c63de2399466f287c810e": {
-        "title": "Sora2还在5秒打转，字节AI生视频已经4分钟“起飞”",
-        "link": "https://www.qbitai.com/2025/10/339556.html",
-        "published_date": "Mon, 06 Oct 2025 06:12:00 GMT",
-        "first_seen": "2025-10-06T08:32:31.457938"
-      },
       "3a305d6bb7b7ffe97b4a92a3fb5a3fc3297df7e8e235bad4ddf7198ac3f8e28f": {
         "title": "The Download: introducing the 10 climate tech companies to watch for 2025",
         "link": "https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/",
@@ -2700,15 +2682,39 @@
         "link": "https://www.qbitai.com/2025/11/349055.html",
         "published_date": "Wed, 05 Nov 2025 06:38:00 GMT",
         "first_seen": "2025-11-05T08:29:37.974796"
+      },
+      "b7749e3e8d108970e05b2e18e12cf67fc57cfbca5475b15b78ed3edb291bc860": {
+        "title": "Forecasting the future of forests with AI: From counting losses to predicting risk",
+        "link": "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/",
+        "published_date": "Wed, 05 Nov 2025 15:41:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.784448"
+      },
+      "4182d193aec7a9cff02a975584123c7d022908865f8f356d99b3126baf7bb1ad": {
+        "title": "洋葱学园发布「自学破壁计划1.0」：多智能体架构落地推进AI自主学习",
+        "link": "https://www.qbitai.com/2025/11/349266.html",
+        "published_date": "Wed, 05 Nov 2025 12:03:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.784728"
+      },
+      "a88ad8e1377f858b3eb25cb3b3e335f7375db564e3a57c92f979f759667a789f": {
+        "title": "QQ浏览器「AI+」小窗上线，让AI「住」进浏览器",
+        "link": "https://www.qbitai.com/2025/11/349260.html",
+        "published_date": "Wed, 05 Nov 2025 10:39:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.784957"
+      },
+      "119f8627e5f75bfeef5df76a3efb66e8514cb60cffd9a6495b280aaecb725385": {
+        "title": "具身机器人征服1万伏高压线！-10℃严寒、13米高空全天候作业零事故",
+        "link": "https://www.qbitai.com/2025/11/349250.html",
+        "published_date": "Wed, 05 Nov 2025 09:40:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.785220"
+      },
+      "bb793d778d1ea3b33f24135b3ad8e5159b406378d45c85e2ab09329df5f9c7ca": {
+        "title": "港股IPO前夜，小马智行第7代Robotaxi在广州深圳正式运营",
+        "link": "https://www.qbitai.com/2025/11/349239.html",
+        "published_date": "Wed, 05 Nov 2025 09:33:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.785530"
       }
     },
     "Technology": {
-      "2283077f40beb29aea48edefb8a7ee25209cd1b52f18625978d905de569ac46d": {
-        "title": "模拟 DJ 的自动过渡功能，会带来歌单的未来形态吗？",
-        "link": "https://sspai.com/post/100790",
-        "published_date": "Mon, 06 Oct 2025 15:03:00 GMT",
-        "first_seen": "2025-10-06T08:32:31.491658"
-      },
       "c666fc9b1698c44d350527a6c321e02625619cb45d83f9770ffe023109f600d4": {
         "title": "Microsoft is plugging more holes that let you use Windows 11 without an online account",
         "link": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
@@ -14318,15 +14324,159 @@
         "link": "https://www.infoq.cn/article/yfrLoaFaE1hAOzkpWAgs?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 05 Nov 2025 14:00:00 GMT",
         "first_seen": "2025-11-05T08:30:26.433700"
+      },
+      "475e9d2840f73c9651ea1896060c81545d1ac687964c26d0f2a647d3d19196d3": {
+        "title": "全球半导体产业陷材料资源困局",
+        "link": "https://www.tmtpost.com/7750410.html",
+        "published_date": "Wed, 05 Nov 2025 21:26:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275894"
+      },
+      "fc05daf68f5eae720c02fc506c6890da15834e13488d2e816ccb149235093c8e": {
+        "title": "红壹科技获数千万元B轮融资，发布“AI智能体工厂” | 融资首发",
+        "link": "https://www.tmtpost.com/7750557.html",
+        "published_date": "Wed, 05 Nov 2025 21:16:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275813"
+      },
+      "7002c538f9b5e03b261d07c3381afd1d8336863c43991f0c57facd4049c42379": {
+        "title": "造车还不够？车企抢滩机器人赛道",
+        "link": "https://www.tmtpost.com/7750400.html",
+        "published_date": "Wed, 05 Nov 2025 21:01:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275904"
+      },
+      "0c2c404e960a6196ceec0bafbbeb41c3c3dd36986b1a561409204ed22605b000": {
+        "title": "阿里打响“具身智能”卡位战",
+        "link": "https://www.tmtpost.com/7750373.html",
+        "published_date": "Wed, 05 Nov 2025 21:01:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275913"
+      },
+      "db70fef5267a757bfb50ae2caf01065a0c0ba91dd53d538f6a675699b43f3b98": {
+        "title": "小红书期权兑现期变久，大厂期权也「不香了」",
+        "link": "https://www.tmtpost.com/7750392.html",
+        "published_date": "Wed, 05 Nov 2025 21:01:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275923"
+      },
+      "99cb9e566be39fa0772d6c2bc7b74797527e4ac3e0edd6808d1baeaa41d81785": {
+        "title": "转型AIoT难掩业绩阵痛，达实智能实控人涉案再添变数",
+        "link": "https://www.tmtpost.com/7750458.html",
+        "published_date": "Wed, 05 Nov 2025 20:09:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275932"
+      },
+      "f5443a2ae3195179ed3dd0bfaf86fb3456c6ca5eb238b80456cdfdbad74c6b85": {
+        "title": "五大险企单季利润增长近7成，京东、小米接连闯入牌桌",
+        "link": "https://www.tmtpost.com/7750438.html",
+        "published_date": "Wed, 05 Nov 2025 19:25:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.850839"
+      },
+      "cca5b05aeb92360b0d74f3cafbffd47683aa4dc015def234e331a6efd9e1dae8": {
+        "title": "蓝黛科技亏损千万卖资产：转型焦虑未消，国资接盘收拾对赌残局",
+        "link": "https://www.tmtpost.com/7750421.html",
+        "published_date": "Wed, 05 Nov 2025 19:04:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275859"
+      },
+      "6794463a05910a2b24f2b160b1b7c889699377c64f2634ecb63d39ec422f4a21": {
+        "title": "以“梧桐”筑巢，助力创新腾飞：成都高新区生物医药综合竞争力稳居全国第一方阵",
+        "link": "https://www.tmtpost.com/7750042.html",
+        "published_date": "Wed, 05 Nov 2025 18:52:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275872"
+      },
+      "701459057fe4e0e6dcbaf6d583a4ca384a3490011d1cd0b780c3139caa05ea88": {
+        "title": "没有了阿里的投资，李开复的零一万物只能自食其力",
+        "link": "https://www.tmtpost.com/7750285.html",
+        "published_date": "Wed, 05 Nov 2025 18:17:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.852100"
+      },
+      "014de288eac4b174145ebd28764039f968746152a0c586bc09e0a27084b22195": {
+        "title": "从风口黑马到“断供现场”，Trae背靠字节也挡不住“红线”锁喉",
+        "link": "https://www.tmtpost.com/7750243.html",
+        "published_date": "Wed, 05 Nov 2025 17:48:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.852612"
+      },
+      "cd1456c02d3f5e08a142bc292687c253adf1a59db7b62f99d426293d32350eec": {
+        "title": "那场离职面谈里，没有人真想挽留你",
+        "link": "https://www.tmtpost.com/7749184.html",
+        "published_date": "Wed, 05 Nov 2025 17:46:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.853006"
+      },
+      "4ba1b08fe6ce0401f66117182baa6f318edf4e374ca4b8bc5906eb8c2dbdd3c4": {
+        "title": "国际矿业巨头或关停两座工厂，全球“铜荒”已站在悬崖之上",
+        "link": "https://www.tmtpost.com/7750213.html",
+        "published_date": "Wed, 05 Nov 2025 17:44:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.853518"
+      },
+      "d62a5c3b1cafaa186d2a5352f9cae87102fb3f7c67ee0348e89b45d4d0f2c3a2": {
+        "title": "诺基亚突宣退市！刚获英伟达10亿美元投资",
+        "link": "https://www.tmtpost.com/7750232.html",
+        "published_date": "Wed, 05 Nov 2025 17:44:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.853986"
+      },
+      "f1bfcf86d00ac60a1e3c003d1e2e5daa76f4df410ef7cd584eadbf480eac231e": {
+        "title": "阿里再押消费升级，速卖通能否挑起大梁？",
+        "link": "https://www.tmtpost.com/7749518.html",
+        "published_date": "Wed, 05 Nov 2025 17:17:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.854491"
+      },
+      "a100f36fb4ebc4323d09cbc037446ef19443a7f2db8927cafe571e28cca3dc81": {
+        "title": "存款利率跌破1%，用利息生活的年轻人去哪了？",
+        "link": "https://www.tmtpost.com/7749566.html",
+        "published_date": "Wed, 05 Nov 2025 17:17:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.855058"
+      },
+      "ab965bf51b4099797b4e13090e0d7e5d84125b33c54c163f0845e1df48afa662": {
+        "title": "赴港 IPO 首日，赛力斯为何开盘破发?",
+        "link": "https://www.tmtpost.com/7750037.html",
+        "published_date": "Wed, 05 Nov 2025 17:17:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.855743"
+      },
+      "8dd8145f9770b42be56cc2453b82dd0c5ec5b37cbdb8fd7f789a866fc40aec42": {
+        "title": "我是社畜，我同意请年假谈恋爱",
+        "link": "https://www.tmtpost.com/7750062.html",
+        "published_date": "Wed, 05 Nov 2025 17:17:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.856250"
+      },
+      "2ab6a82db0198c8e1c0baff0266b5186901f50a9789777a3613493327f5312d9": {
+        "title": "中国 BEST 问鼎人类首个聚变发电装置，国产微秒级电源突破“卡脖子”技术",
+        "link": "https://www.tmtpost.com/7749344.html",
+        "published_date": "Wed, 05 Nov 2025 16:56:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275844"
+      },
+      "4a20ff65900b9ae3db7c99cd85e94702f8b5787bf974a34d8727d6d086b006c2": {
+        "title": "AI Native 的影像公司们，「惊蛰已到」！",
+        "link": "http://www.geekpark.net/news/356004",
+        "published_date": "Wed, 05 Nov 2025 19:26:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.858261"
+      },
+      "f42bbc56b4e9234452e893c5a328f6ae45e2bbf91252c5ea5a4edc08a2862c88": {
+        "title": "151% 的增长背后，它正在成为 AI 的「新入口」",
+        "link": "http://www.geekpark.net/news/355998",
+        "published_date": "Wed, 05 Nov 2025 17:37:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.859263"
+      },
+      "e5654c41197faee88801cbadc895e1538a650bc90ba718fad1b469bb2de158a3": {
+        "title": "Qwen“半成品”推理模型刷下AIME满分，俘获大批国外开发者！实测碾压GPT-5 Thinking、还能写侦探小说",
+        "link": "https://www.infoq.cn/article/tOSEIXHIfDlAsjEbNzFD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 05 Nov 2025 17:51:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.860942"
+      },
+      "0c1a84452dbfde19159e1fad248a810588980ab0fd59ffdbee3605902be9c69d": {
+        "title": "最「辣」Windows 小主机：Khadas Mind 2 体验",
+        "link": "https://sspai.com/post/103444",
+        "published_date": "Wed, 05 Nov 2025 17:29:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.862253"
+      },
+      "eee8eb35441a9bf4efe69049c670d5051606b14a5fa8f52c039389c36389b2f5": {
+        "title": "十年移动应用创新赛落幕，Apple 移动应用孵化基金「启航」",
+        "link": "https://sspai.com/post/103530",
+        "published_date": "Wed, 05 Nov 2025 15:46:00 GMT",
+        "first_seen": "2025-11-05T23:20:32.275885"
+      },
+      "57d5384ffd4b46103589cdddec3e7c08b0c732c26b0b9b4aec6e1e5ae749ac1b": {
+        "title": "如此“鸡肋”的日本汽车市场，比亚迪为何要死磕？",
+        "link": "http://www.huxiu.com/article/4799000.html?f=wangzhan",
+        "published_date": "Wed, 05 Nov 2025 16:40:00 GMT",
+        "first_seen": "2025-11-05T23:19:43.864508"
       }
     },
     "Finance": {
-      "eb88bdbe0e0103ffef6601c72063f25a3e550e388ba04b362ad9722464c67ec3": {
-        "title": "French stocks and bonds falter after prime minister resigns",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f6cc01b1-1c8a-4953-a7d8-1c4b6b4d4b18&mod=mw_rss_bulletins",
-        "published_date": "Mon, 06 Oct 2025 08:30:00 GMT",
-        "first_seen": "2025-10-06T08:32:31.332281"
-      },
       "5aae28db32c7eeb60b39c2577f45e3b18d44e97001d933a9199dd96afb22fc4b": {
         "title": "Bari Weiss’s getting top job at CBS News may signal rightward lurch across media",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f1e1a26-6d06-4493-90a4-9f4b05a1e546&mod=mw_rss_bulletins",
@@ -15086,8 +15236,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-05T08:29:38.012862",
-    "Technology": "2025-11-05T08:30:26.435543",
-    "Finance": "2025-11-05T08:29:37.863972"
+    "AI": "2025-11-05T23:19:43.817918",
+    "Technology": "2025-11-05T23:20:32.277348",
+    "Finance": "2025-11-05T23:19:43.677138"
   }
 }
