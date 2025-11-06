@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-05 23:19
+**最后更新时间**: 2025-11-06 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-06 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [基于容器构建的 AI 智能体基础设施落地实践｜AICon北京站](https://www.infoq.cn/article/0IljZmE0ESq5GD8WyA9R?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 13:00
+
+#### [Cursor 2.0 拓展 Composer 能力，助力上下文感知开发](https://www.infoq.cn/article/O9EgGRkieMce8Cjs3zHY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 12:00
+
+#### [达索系统在深圳启动新质生产力赋能平台，推动数字孪生与工业AI落地](https://www.infoq.cn/article/dY6CNq9P7spEdk00XHAr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 11:36
+
+#### [苹果发布 Pico-Banana-400K 数据集，用于构建文本引导的图像编辑模型](https://www.infoq.cn/article/Zve9Nu07kiQA9Y6ZE7ZU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 11:00
+
+#### [从软件开发到测试自动化的角色转变](https://www.infoq.cn/article/xIP8XzUd50xR9f96Fy9w?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 10:04
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [光伏新周期逻辑明牌：中期看“含储量”，“得AI者”赢终局](https://www.tmtpost.com/7750866.html)
+**发布时间**: 2025-11-06 11:40
+
+#### [聊聊对饿了么和淘宝闪购「二合一」传闻的看法](https://www.tmtpost.com/7751095.html)
+**发布时间**: 2025-11-06 11:15
+
+#### [电力是算力的尽头，还是瓶颈？](https://www.tmtpost.com/7751297.html)
+**发布时间**: 2025-11-06 11:09
+
+#### [PC芯片强势回归，如何把握这一投资机会？](https://www.tmtpost.com/7751165.html)
+**发布时间**: 2025-11-06 10:38
+
+#### [China's Autonomous Driving Firms WeRide and Pony.ai Tumble on Hong Kong Debut](https://www.tmtpost.com/7751146.html)
+**发布时间**: 2025-11-06 10:30
+
+#### [China's Insurance Giants Post Record Profits as Tech Rivals Move In](https://www.tmtpost.com/7751144.html)
+**发布时间**: 2025-11-06 10:29
+
+#### [AI的战略导入](https://www.tmtpost.com/7750791.html)
+**发布时间**: 2025-11-06 10:04
+
+#### [安徽煤电龙头拟15亿收购陕西黑猫旗下公司；木门厂商收购川土微并易主，跨界模拟芯片；【并购一线】](https://www.tmtpost.com/7750974.html)
+**发布时间**: 2025-11-06 09:50
+
+#### [从盖楼到卖精华，珂谧能否捡到重组胶原蛋白的余热？](https://www.tmtpost.com/7750641.html)
+**发布时间**: 2025-11-06 09:34
+
+#### [中产会员猛踹山姆“那条好腿”](https://www.tmtpost.com/7750482.html)
+**发布时间**: 2025-11-06 09:30
+
+#### [人工智能并不是唯一值得投资的领域：理财专家推荐的5个被低估的热门投资方向](https://www.tmtpost.com/7750872.html)
+**发布时间**: 2025-11-06 09:03
+
+#### [演唱会下沉：文旅KPI的焦虑狂欢还能持续多久？](https://www.tmtpost.com/7750507.html)
+**发布时间**: 2025-11-06 09:00
+
+#### [估值只是替罪羊，别把周二市场抛售归咎于它](https://www.tmtpost.com/7750827.html)
+**发布时间**: 2025-11-06 08:51
+
+#### [Snap股价因业绩大涨](https://www.tmtpost.com/7750825.html)
+**发布时间**: 2025-11-06 08:51
+
+#### [前三季度大赚119亿，675亿曹仁贤再夺安徽首富](https://www.tmtpost.com/7750656.html)
+**发布时间**: 2025-11-06 08:30
+
+#### [科股早知道：随着6G技术不断发展及标准确立，产业有望迎来机遇期](https://www.tmtpost.com/7750743.html)
+**发布时间**: 2025-11-06 08:00
+
+#### [【钛晨报】“十五五”加快建设金融强国有哪些主要任务和重要举措？中央金融办王江回应；融创中国：境外债务重组计划获高等法院批准；贵州茅台：拟以15亿至30亿元回购股份并注销](https://www.tmtpost.com/7750597.html)
+**发布时间**: 2025-11-06 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新的双十一，看看新产品，享受新优惠](https://sspai.com/post/103553)
+**发布时间**: 2025-11-06 11:00
+
+#### [派早报：小鹏发布人形机器人 IRON、奶牛快传即将停止服务等](https://sspai.com/post/103573)
+**发布时间**: 2025-11-06 08:40
 
 ---
 

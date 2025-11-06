@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 05 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2025 23:19:43 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 05:21:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Forecasting the future of forests with AI: From counting losses to predicting risk</title>
-      <link>https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/</link>
-      <description>&lt;![CDATA[Forecasting the future of forests with AI: From counting losses to predicting risk]]&gt;</description>
-      <pubDate>Wed, 05 Nov 2025 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>洋葱学园发布「自学破壁计划1.0」：多智能体架构落地推进AI自主学习</title>
-      <link>https://www.qbitai.com/2025/11/349266.html</link>
-      <description>&lt;![CDATA[洋葱学园发布「自学破壁计划1.0」：多智能体架构落地推进AI自主学习]]&gt;</description>
-      <pubDate>Wed, 05 Nov 2025 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349266.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>QQ浏览器「AI+」小窗上线，让AI「住」进浏览器</title>
-      <link>https://www.qbitai.com/2025/11/349260.html</link>
-      <description>&lt;![CDATA[QQ浏览器「AI+」小窗上线，让AI「住」进浏览器]]&gt;</description>
-      <pubDate>Wed, 05 Nov 2025 10:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349260.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>具身机器人征服1万伏高压线！-10℃严寒、13米高空全天候作业零事故</title>
-      <link>https://www.qbitai.com/2025/11/349250.html</link>
-      <description>&lt;![CDATA[具身机器人征服1万伏高压线！-10℃严寒、13米高空全天候作业零事故]]&gt;</description>
-      <pubDate>Wed, 05 Nov 2025 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349250.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>港股IPO前夜，小马智行第7代Robotaxi在广州深圳正式运营</title>
-      <link>https://www.qbitai.com/2025/11/349239.html</link>
-      <description>&lt;![CDATA[港股IPO前夜，小马智行第7代Robotaxi在广州深圳正式运营]]&gt;</description>
-      <pubDate>Wed, 05 Nov 2025 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349239.html</guid>
+      <title>第八届进博会|高通孟樸：AI重塑人机交互范式，迈向以“智能体”为中心的时代</title>
+      <link>https://www.qbitai.com/2025/11/349372.html</link>
+      <description>&lt;![CDATA[第八届进博会|高通孟樸：AI重塑人机交互范式，迈向以“智能体”为中心的时代]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 02:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349372.html</guid>
       <category>AI</category>
     </item>
   </channel>
