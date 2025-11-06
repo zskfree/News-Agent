@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 06 Nov 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2025 08:29:31 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 23:19:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>熬夜后走神不是你的错，而是自救机制在“洗脑” | Nature</title>
-      <link>https://www.qbitai.com/2025/11/349379.html</link>
-      <description>&lt;![CDATA[熬夜后走神不是你的错，而是自救机制在“洗脑” | Nature]]&gt;</description>
-      <pubDate>Thu, 06 Nov 2025 07:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349379.html</guid>
+      <title>DS-STAR: A state-of-the-art versatile data science agent</title>
+      <link>https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/</link>
+      <description>&lt;![CDATA[DS-STAR: A state-of-the-art versatile data science agent]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>告别盲目卷参数！科大讯飞1024亮出底牌：all in“更懂你”</title>
+      <link>https://www.qbitai.com/2025/11/349834.html</link>
+      <description>&lt;![CDATA[告别盲目卷参数！科大讯飞1024亮出底牌：all in“更懂你”]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349834.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>何恺明MIT两名新弟子曝光：首次有女生入组，另一位是FNO发明者，均为华人</title>
+      <link>https://www.qbitai.com/2025/11/349790.html</link>
+      <description>&lt;![CDATA[何恺明MIT两名新弟子曝光：首次有女生入组，另一位是FNO发明者，均为华人]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 11:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349790.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Robotaxi营收暴涨836%，全球Robotaxi第一股刚刚回国上市了</title>
+      <link>https://www.qbitai.com/2025/11/349733.html</link>
+      <description>&lt;![CDATA[Robotaxi营收暴涨836%，全球Robotaxi第一股刚刚回国上市了]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 09:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349733.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>报名启动！快来和张亚勤孙茂松一起参与MEET2026智能未来大会</title>
+      <link>https://www.qbitai.com/2025/11/349549.html</link>
+      <description>&lt;![CDATA[报名启动！快来和张亚勤孙茂松一起参与MEET2026智能未来大会]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349549.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>钉钉DingTalk A1双11天猫、抖音双榜第一，国产AI硬件走向普惠</title>
+      <link>https://www.qbitai.com/2025/11/349521.html</link>
+      <description>&lt;![CDATA[钉钉DingTalk A1双11天猫、抖音双榜第一，国产AI硬件走向普惠]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349521.html</guid>
       <category>AI</category>
     </item>
   </channel>

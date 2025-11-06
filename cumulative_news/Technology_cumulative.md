@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-06 08:29
+**最后更新时间**: 2025-11-06 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-06 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [《长恨歌》之外，陕西旅游还能靠什么？｜IPO观察](https://www.tmtpost.com/7752703.html)
+**发布时间**: 2025-11-06 23:28
+
+#### [Crypto Quant 2026全球数字资管论坛与加密量化交易大赛在香港正式发布](https://www.tmtpost.com/7752190.html)
+**发布时间**: 2025-11-06 21:50
+
+#### [AI耳机抢滩2025 ：巨头的入口，创业者的窄门](https://www.tmtpost.com/7752359.html)
+**发布时间**: 2025-11-06 21:45
+
+#### [从直播间到央视舞台，团播2.0时代的“快与慢”](https://www.tmtpost.com/7752412.html)
+**发布时间**: 2025-11-06 21:34
+
+#### [今年双11：消费者、平台、主播都更加“精于计算”](https://www.tmtpost.com/7752320.html)
+**发布时间**: 2025-11-06 21:34
+
+#### [人工智能行至中场，“物理AI”成关键赛点](https://www.tmtpost.com/7752215.html)
+**发布时间**: 2025-11-06 21:34
+
+#### [二次元们正奔赴「2.5次元现场」](https://www.tmtpost.com/7752247.html)
+**发布时间**: 2025-11-06 21:34
+
+#### [短剧电商的蝴蝶效应](https://www.tmtpost.com/7751833.html)
+**发布时间**: 2025-11-06 21:34
+
+#### [梦天家居上市四年之痒：木门龙头加码“追芯”，实控人同步退场｜并购一线](https://www.tmtpost.com/7752524.html)
+**发布时间**: 2025-11-06 20:44
+
+#### [京东11.11的新“钛”度：超级供应链打造超级爆品](https://www.tmtpost.com/7752333.html)
+**发布时间**: 2025-11-06 20:35
+
+#### [“无脚鸟”鸣鸣很忙，还能飞多久？ | 巴伦精选](https://www.tmtpost.com/7752559.html)
+**发布时间**: 2025-11-06 20:20
+
+#### [Global Crypto Quant Competition and Digital Asset Forum Debut in Hong Kong](https://www.tmtpost.com/7752441.html)
+**发布时间**: 2025-11-06 19:05
+
+#### [商场台球厅，是一门好生意吗？](https://www.tmtpost.com/7752244.html)
+**发布时间**: 2025-11-06 18:19
+
+#### [十月剧集大混战，谁赢了观众和口碑？](https://www.tmtpost.com/7752218.html)
+**发布时间**: 2025-11-06 18:19
+
+#### [中国水泥巨头，在非洲找回“钞能力”](https://www.tmtpost.com/7751890.html)
+**发布时间**: 2025-11-06 17:51
+
+#### [10月微短剧月报：1148部剧热投、市场进入“双轨竞争”趋势](https://www.tmtpost.com/7751634.html)
+**发布时间**: 2025-11-06 17:51
+
+#### [OPEC+踩下增产急刹车，战略反转能否挽救石油颓势？](https://www.tmtpost.com/7751554.html)
+**发布时间**: 2025-11-06 17:51
+
+#### [苹果遭遇“杀猪盘”](https://www.tmtpost.com/7751404.html)
+**发布时间**: 2025-11-06 17:51
+
+#### [AI的开源战略](https://www.tmtpost.com/7751970.html)
+**发布时间**: 2025-11-06 17:51
+
+#### [贵州茅台：四季度仍聚焦渠道韧性，飞天存销比良性｜直击业绩会](https://www.tmtpost.com/7752167.html)
+**发布时间**: 2025-11-06 17:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [浪潮信息刘军：速度就是金钱，AI超节点的商业价值核心是Token交互速度](https://www.infoq.cn/article/tmafZGW7MfX9jQ2CG4jA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 18:56
+
+#### [云端协同构建 VR 院线，加速 LBE 产业化与规模化发展](https://www.infoq.cn/article/Lld9f54XhweCOr0pHWwy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 18:50
+
+#### [世纪反转：“安卓爹”谷歌成 iPhone“大脑供应商”？曝苹果每年掏70亿换定制Gemini，明年上线新Siri](https://www.infoq.cn/article/eBTQyM6ObOc2TRbLGSCT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 18:41
+
+#### [乌镇峰会公布互联网之光博览会十大首发成果，蚂蚁数科Agentar智能体基座入选](https://www.infoq.cn/article/R853K95hT3UlHK6EJA46?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 18:26
+
+#### [Google Play 推出全新工具与计划，助力开发者提升效率与业务增长](https://www.infoq.cn/article/SPlKhyWoLOafTEMvvUBL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 18:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [反超丈夫410亿，她登顶中国新女首富](http://www.huxiu.com/article/4801493.html?f=wangzhan)
+**发布时间**: 2025-11-06 17:43
+
+#### [揭秘马斯克万亿薪酬背后的权力博弈](http://www.huxiu.com/article/4801462.html?f=wangzhan)
+**发布时间**: 2025-11-06 16:34
+
+#### [现在的车企，为什么总在做期货？](http://www.huxiu.com/article/4801543.html?f=wangzhan)
+**发布时间**: 2025-11-06 16:32
+
+#### [饿了么改名，阿里下的是什么棋？](http://www.huxiu.com/article/4801505.html?f=wangzhan)
+**发布时间**: 2025-11-06 15:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 225｜少数派的编辑们最近买了啥？](https://sspai.com/post/103581)
+**发布时间**: 2025-11-06 17:17
 
 ---
 
