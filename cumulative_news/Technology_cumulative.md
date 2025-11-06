@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-06 05:21
+**最后更新时间**: 2025-11-06 08:29
+
+---
+
+## 🆕 最新更新 (2025-11-06 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华为、联想追随苹果入局，但超薄手机只是“偏科生”的小众生意](https://www.tmtpost.com/7751963.html)
+**发布时间**: 2025-11-06 16:21
+
+#### [从星巴克中国股权出售说起](https://www.tmtpost.com/7751685.html)
+**发布时间**: 2025-11-06 16:20
+
+#### [世界尽头与冷酷仙境，谁押中了「国产GPU四小龙」？](https://www.tmtpost.com/7751564.html)
+**发布时间**: 2025-11-06 16:00
+
+#### [从数据库之王到算力新枢纽，Oracle能否“涅槃”？丨企服国际观察](https://www.tmtpost.com/7751699.html)
+**发布时间**: 2025-11-06 15:59
+
+#### [Seres Makes Hong Kong Debut, Sets Sights on Global Expansion Amid Mixed Q3 Results](https://www.tmtpost.com/7751691.html)
+**发布时间**: 2025-11-06 14:49
+
+#### [新大航海时代，什么样的认知能安放我们的灵魂？](https://www.tmtpost.com/7751549.html)
+**发布时间**: 2025-11-06 14:17
+
+#### [插混价格触底，利润天花板重塑：吉利在打什么算盘？](https://www.tmtpost.com/7751572.html)
+**发布时间**: 2025-11-06 13:54
+
+#### [跨越技术壁垒后，Robotaxi又将迎来新挑战？](https://www.tmtpost.com/7751462.html)
+**发布时间**: 2025-11-06 13:28
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [马斯克拿着0薪水，却要给自己开1万亿美元薪酬？](http://www.huxiu.com/article/4801509.html?f=wangzhan)
+**发布时间**: 2025-11-06 15:09
+
+#### [为什么几毫米太空碎片就能让神舟20延迟返回？](http://www.huxiu.com/article/4801213.html?f=wangzhan)
+**发布时间**: 2025-11-06 13:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“探索”到“布道”，一个「鸿蒙领航者」的炼成记](https://www.infoq.cn/article/27Q3D8PGVvJXA8F5jWKx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-06 15:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [双十一鼠标怎么挑？（2025 版）](https://sspai.com/post/99787)
+**发布时间**: 2025-11-06 15:01
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Altman 怒喷 OpenAI 唱衰者；小鹏发布新一代人形机器人 IRON；苹果支付 10 亿美金，新 Siri 将引入谷歌 Gemini｜极客早知道](http://www.geekpark.net/news/356010)
+**发布时间**: 2025-11-06 08:19
 
 ---
 

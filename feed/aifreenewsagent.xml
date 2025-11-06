@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 06 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2025 05:21:47 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 08:29:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>第八届进博会|高通孟樸：AI重塑人机交互范式，迈向以“智能体”为中心的时代</title>
-      <link>https://www.qbitai.com/2025/11/349372.html</link>
-      <description>&lt;![CDATA[第八届进博会|高通孟樸：AI重塑人机交互范式，迈向以“智能体”为中心的时代]]&gt;</description>
-      <pubDate>Thu, 06 Nov 2025 02:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349372.html</guid>
+      <title>熬夜后走神不是你的错，而是自救机制在“洗脑” | Nature</title>
+      <link>https://www.qbitai.com/2025/11/349379.html</link>
+      <description>&lt;![CDATA[熬夜后走神不是你的错，而是自救机制在“洗脑” | Nature]]&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349379.html</guid>
       <category>AI</category>
     </item>
   </channel>
