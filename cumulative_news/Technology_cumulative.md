@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-06 23:19
+**最后更新时间**: 2025-11-07 05:20
+
+---
+
+## 🆕 最新更新 (2025-11-07 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [川投能源换帅，70后技术派黄强接棒水电巨头](https://www.tmtpost.com/7753465.html)
+**发布时间**: 2025-11-07 13:13
+
+#### [如果是马斯克发布IRON，还有"真人伪装"的争议吗?](https://www.tmtpost.com/7753425.html)
+**发布时间**: 2025-11-07 13:13
+
+#### [最长双十一，酒业对电商的态度变了吗？](https://www.tmtpost.com/7753422.html)
+**发布时间**: 2025-11-07 13:12
+
+#### [中国石油宁夏销售原高管韩非被逮捕，国企反腐与转型双线推进](https://www.tmtpost.com/7753488.html)
+**发布时间**: 2025-11-07 12:52
+
+#### [辉瑞与诺和诺德，争的到底是什么？](https://www.tmtpost.com/7753401.html)
+**发布时间**: 2025-11-07 12:42
+
+#### [Token经济时代，AI推理跑不快的瓶颈是“存力”？](https://www.tmtpost.com/7753519.html)
+**发布时间**: 2025-11-07 12:00
+
+#### [世界互联网大会人工智能专业委员会召开2025年全体会议及第二次主任委员会议](https://www.tmtpost.com/7753457.html)
+**发布时间**: 2025-11-07 11:49
+
+#### [AH股溢价率回升背后的启示](https://www.tmtpost.com/7753208.html)
+**发布时间**: 2025-11-07 11:28
+
+#### [“新打法”狂揽36亿曝光，游戏行业吸量新机会？有何利弊？](https://www.tmtpost.com/7751151.html)
+**发布时间**: 2025-11-07 11:23
+
+#### [苹果搞控价，“双十一”名存实亡](https://www.tmtpost.com/7753189.html)
+**发布时间**: 2025-11-07 11:16
+
+#### [广州大厂出手《蔚蓝星球：国王很忙》霸榜港澳台，大陆首月2亿流水，海外表现如何？](https://www.tmtpost.com/7753117.html)
+**发布时间**: 2025-11-07 11:08
+
+#### [Elon Musk Says Tesla May Build Gigantic AI Chip Fab, Could Work With Intel](https://www.tmtpost.com/7753365.html)
+**发布时间**: 2025-11-07 11:07
+
+#### [中高端酒店提供免费洗衣，中国市场愈发不好啃了](https://www.tmtpost.com/7753092.html)
+**发布时间**: 2025-11-07 11:01
+
+#### [JD.com's Richard Liu Returns to Spotlight with Keynote at World Internet Conference](https://www.tmtpost.com/7753343.html)
+**发布时间**: 2025-11-07 10:56
+
+#### [Exclusive: RayNeo Secures Record Series C Funding to Accelerate AI+AR Glasses Innovation and Global Expansion](https://www.tmtpost.com/7753341.html)
+**发布时间**: 2025-11-07 10:54
+
+#### [游戏行业，正式挺进上行期](https://www.tmtpost.com/7752925.html)
+**发布时间**: 2025-11-07 10:54
+
+#### [鼎泰药研IPO：流动负债超35亿元，巨头阴影下一家新型CRO的浮沉录](https://www.tmtpost.com/7752537.html)
+**发布时间**: 2025-11-07 10:48
+
+#### [黑石的创新药赌局](https://www.tmtpost.com/7753169.html)
+**发布时间**: 2025-11-07 10:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI大牛刘威创业公司完成5000万美元融资，12月将发布新模型](https://www.infoq.cn/article/mRTFSjKSvKp7qoBsrc0A?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 12:49
+
+#### [LLM 时代的软件研发新范式｜AICon 前瞻](https://www.infoq.cn/article/FiS7gAW8twc2iDSpF5JY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 11:51
+
+#### [95% 企业 AI 落地失败当下，另外 5% 的 CIO 在谈什么？](https://www.infoq.cn/article/elIEmtKU92WkTKk6wDNh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 11:12
+
+#### [Kimi 突然开源 K2 Thinking，300次连续自主调用工具太能打，直接卷赢 GPT-5？](https://www.infoq.cn/article/V5xouoqewFspqev3RxUJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 11:12
+
+#### [拒绝质量波动：使用生成式测试寻找隐藏错误](https://www.infoq.cn/article/GOjjofDhBhmgmiAuKrCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 10:49
+
+#### [新任CTO把PHP换成Perl，导致成本飙升错失市场机遇！网友：别怪技术，问题出在人身上](https://www.infoq.cn/article/uxW0pGp9AjP3szECYjAO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 10:28
+
+#### [1万亿美元天价薪酬敲定，马斯克离全球首位“万亿富豪”又近了一步](https://www.infoq.cn/article/sEkcNoIvYiRxviu5qw90?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 10:17
+
+#### [全国产算力托底、告别AI内卷，科大讯飞如何让每个人站在AI肩膀上？](https://www.infoq.cn/article/EySoMhRdUK1vrohv4Vta?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 10:11
+
+#### [基于容器运行时的 Snowflake Notebooks：机器学习实验新方式](https://www.infoq.cn/article/il8O0ajbMaEbiM45BDQr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 09:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [中年人减肥如何不踩坑，健康安全重回 BMI20](https://sspai.com/post/103052)
+**发布时间**: 2025-11-07 11:30
+
+#### [先睹为快｜iPhone 17 系列 GAMEBABY 手机壳即将上市](https://sspai.com/post/103520)
+**发布时间**: 2025-11-07 09:58
+
+#### [派早报：Apple 对外展示 Apple Immersive Video 制作流程等](https://sspai.com/post/103592)
+**发布时间**: 2025-11-07 08:46
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [星巴克第三空间失守，中资为何愿意“接盘”？](http://www.huxiu.com/article/4801759.html?f=wangzhan)
+**发布时间**: 2025-11-07 10:45
+
+#### [“撕裂”特斯拉](http://www.huxiu.com/article/4800050.html?f=wangzhan)
+**发布时间**: 2025-11-07 08:01
+
+#### [接盘英伟达，为何是华强北？](http://www.huxiu.com/article/4800202.html?f=wangzhan)
+**发布时间**: 2025-11-07 08:00
+
+#### [星巴克中国卖了，真相比你想得更刺激](http://www.huxiu.com/article/4801345.html?f=wangzhan)
+**发布时间**: 2025-11-07 07:00
 
 ---
 
