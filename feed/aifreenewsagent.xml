@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Nov 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Nov 2025 05:20:50 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 08:29:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025年人工智能产业及赋能新型工业化创新任务揭榜挂帅工作启动</title>
-      <link>https://www.qbitai.com/2025/11/350028.html</link>
-      <description>&lt;![CDATA[2025年人工智能产业及赋能新型工业化创新任务揭榜挂帅工作启动]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 02:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350028.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Kimi K2 Thinking突袭！智能体&amp;推理能力超GPT-5，网友：再次缩小开源闭源差距</title>
-      <link>https://www.qbitai.com/2025/11/349957.html</link>
-      <description>&lt;![CDATA[Kimi K2 Thinking突袭！智能体&amp;推理能力超GPT-5，网友：再次缩小开源闭源差距]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 01:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349957.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>马斯克1万亿美元薪酬方案获批！</title>
-      <link>https://www.qbitai.com/2025/11/349887.html</link>
-      <description>&lt;![CDATA[马斯克1万亿美元薪酬方案获批！]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 01:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349887.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>小马智行彭军：有司机的Robotaxi毫无意义，辅助驾驶和无人驾驶是两回事</title>
-      <link>https://www.qbitai.com/2025/11/349881.html</link>
-      <description>&lt;![CDATA[小马智行彭军：有司机的Robotaxi毫无意义，辅助驾驶和无人驾驶是两回事]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 00:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349881.html</guid>
+      <title>原来世界杯比赛还能这么看？AI让球场座位变“超级看台”</title>
+      <link>https://www.qbitai.com/2025/11/350081.html</link>
+      <description>&lt;![CDATA[原来世界杯比赛还能这么看？AI让球场座位变“超级看台”]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 06:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350081.html</guid>
       <category>AI</category>
     </item>
   </channel>

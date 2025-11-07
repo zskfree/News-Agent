@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-07 05:20
+**最后更新时间**: 2025-11-07 08:29
+
+---
+
+## 🆕 最新更新 (2025-11-07 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [世界首富还不够，马斯克又要了1万亿](https://www.tmtpost.com/7753738.html)
+**发布时间**: 2025-11-07 16:18
+
+#### [区域观察：长三角的“硅谷”可能在这里](https://www.tmtpost.com/7753618.html)
+**发布时间**: 2025-11-07 16:04
+
+#### [小马、文远同时回港上市，但楼天成和韩旭都还没赢](https://www.tmtpost.com/7753792.html)
+**发布时间**: 2025-11-07 15:59
+
+#### [关于饿了么更名淘宝闪购，不得不说的几件事](https://www.tmtpost.com/7753806.html)
+**发布时间**: 2025-11-07 15:59
+
+#### [离开新东方，等于从中文互联网届的“黄埔军校”毕业](https://www.tmtpost.com/7753835.html)
+**发布时间**: 2025-11-07 15:59
+
+#### [国际大牌越野的配置及边界，正在被国产品牌重新定义](https://www.tmtpost.com/7753899.html)
+**发布时间**: 2025-11-07 15:59
+
+#### [阿里巴巴CEO吴泳铭：下一代计算机是超级AI云 | 巴伦精选](https://www.tmtpost.com/7753867.html)
+**发布时间**: 2025-11-07 15:21
+
+#### [Huawei Joins Ultra-Thin Smartphone Race with Launch of Mate 70 Air](https://www.tmtpost.com/7753734.html)
+**发布时间**: 2025-11-07 14:02
+
+#### [4500亿国补落幕，谁是最大受益者？](https://www.tmtpost.com/7753652.html)
+**发布时间**: 2025-11-07 14:01
+
+#### [刘强东强势“回归”乌镇，称“无人”时代每周只需工作一小时，建议向技术垄断企业征90%重税 | 巴伦独家](https://www.tmtpost.com/7753693.html)
+**发布时间**: 2025-11-07 13:45
+
+#### [增长超200%，MaaS能让企业级AI“照进现实”么？丨ToB产业观察](https://www.tmtpost.com/7753245.html)
+**发布时间**: 2025-11-07 13:37
+
+#### [剪开机器人小腿自证，小鹏这场危机公关太炸裂](https://www.tmtpost.com/7753547.html)
+**发布时间**: 2025-11-07 13:28
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [dd](http://www.geekpark.net/news/356133)
+**发布时间**: 2025-11-07 16:07
+
+#### [有些答案，听 AI 说一百遍，不如和「最有料的人」聊一次](http://www.geekpark.net/news/356105)
+**发布时间**: 2025-11-07 13:31
+
+#### [用 AI 做电商真实效果如何？我们调研了双 11 一线从业者](http://www.geekpark.net/news/356104)
+**发布时间**: 2025-11-07 12:40
+
+#### [马斯克 1 万亿美元的薪酬方案获特斯拉股东批准；东方甄选孙东旭离职；Altman：今年 OpenAI 年化收入将达 200 亿美元](http://www.geekpark.net/news/356081)
+**发布时间**: 2025-11-07 08:21
+
+#### [蔚来，破 4 万！](http://www.geekpark.net/news/356080)
+**发布时间**: 2025-11-07 00:01
+
+#### [今年双十一最大的赢家是这张表](http://www.geekpark.net/news/356076)
+**发布时间**: 2025-11-06 20:19
+
+#### [极客公园创新大会 2026 首批嘉宾揭晓！](http://www.geekpark.net/news/356039)
+**发布时间**: 2025-11-06 15:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 时代的新征程：M5 款 MacBook Pro 简谈](https://sspai.com/post/103563)
+**发布时间**: 2025-11-07 15:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当搜索遇见 AIGC：京东零售的“千人千面”素材生成实践](https://www.infoq.cn/article/M2cSfQmwpuhwzr3uSbl1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 15:01
+
+#### [Meta与Hugging Face联合推出OpenEnv，打造AI代理环境共享平台](https://www.infoq.cn/article/JyGDJ7gGiLm30DI18ocr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 15:00
+
+#### [对话万维钢：当AI无所不能，你如何不可替代？](https://www.infoq.cn/article/Ht21rAioTyN3zv6N7b8K?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 14:57
+
+#### [Cloudflare推出零出站费数据平台](https://www.infoq.cn/article/LHNhYKd7bQYea4rovzRZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 14:00
+
+#### [清华大学博士生余天予确认出席AICon北京站，分享如何突破多模态大模型的效率瓶颈](https://www.infoq.cn/article/aLdKONS5D0VIRZbABHQq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 13:32
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国天问一号，首次近距离抓拍“星外来客”-3I/ATLAS](http://www.huxiu.com/article/4801877.html?f=wangzhan)
+**发布时间**: 2025-11-07 14:03
 
 ---
 
