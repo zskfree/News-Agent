@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-07 08:29
+**最后更新时间**: 2025-11-07 23:18
+
+---
+
+## 🆕 最新更新 (2025-11-07 23:18)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小马、文远同时回港上市，但自动驾驶还没赢家](http://www.huxiu.com/article/4802073.html?f=wangzhan)
+**发布时间**: 2025-11-07 22:00
+
+#### [我们为什么总在社交平台，看到相亲极品？](http://www.huxiu.com/article/4799774.html?f=wangzhan)
+**发布时间**: 2025-11-07 20:30
+
+#### [大家痛恨的APP自动续费功能，其实早在20年前就开始了](http://www.huxiu.com/article/4802059.html?f=wangzhan)
+**发布时间**: 2025-11-07 18:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [提前大涨复牌跌停，标榜股份一次充满争议的易主“七日游”](https://www.tmtpost.com/7754862.html)
+**发布时间**: 2025-11-07 21:50
+
+#### [以量补价难掩颓势，猪企在反内卷与技术降本中谋变 | 行业风向标](https://www.tmtpost.com/7754040.html)
+**发布时间**: 2025-11-07 21:08
+
+#### [“杭州六小龙”首次同框乌镇对话，DeepSeek梁文锋缺席现场 | 巴伦精选](https://www.tmtpost.com/7754906.html)
+**发布时间**: 2025-11-07 21:05
+
+#### [军工电子股拟1.17亿元收购控股子公司少数股权；苏大维格斥资超5亿元加码光刻机【并购一线】](https://www.tmtpost.com/7754867.html)
+**发布时间**: 2025-11-07 21:05
+
+#### [流感季来袭：药与疫苗市场双重生变，集采与创新改写行业格局丨行业风向标](https://www.tmtpost.com/7754666.html)
+**发布时间**: 2025-11-07 21:04
+
+#### [欧莱雅、优衣库、lululemon等连续亮相进博；蜜雪冰城入驻进博会巴西国家馆；迪桑特官宣吴磊为品牌代言人｜消研所周报](https://www.tmtpost.com/7754799.html)
+**发布时间**: 2025-11-07 20:27
+
+#### [Exclusive: Alibaba Entrepreneurs Fund, Tanggram Launch $50 Million AI Investment Initiative in Australia](https://www.tmtpost.com/7754816.html)
+**发布时间**: 2025-11-07 19:58
+
+#### [高途的增长破局可能没那么简单](https://www.tmtpost.com/7752667.html)
+**发布时间**: 2025-11-07 19:16
+
+#### [中国正式进入“老年病时代”](https://www.tmtpost.com/7754343.html)
+**发布时间**: 2025-11-07 19:16
+
+#### [片仔癀的“中年危机”，同仁堂也有](https://www.tmtpost.com/7754087.html)
+**发布时间**: 2025-11-07 19:07
+
+#### [从鸡蛋神话到榴莲信仰：商超流量爆款逻辑变了](https://www.tmtpost.com/7754145.html)
+**发布时间**: 2025-11-07 19:07
+
+#### [石头科技的两场仗](https://www.tmtpost.com/7754649.html)
+**发布时间**: 2025-11-07 19:07
+
+#### [国产SoC芯片公司，Q3业绩起飞](https://www.tmtpost.com/7754638.html)
+**发布时间**: 2025-11-07 18:58
+
+#### [饿了么，“隐退”在17岁](https://www.tmtpost.com/7753435.html)
+**发布时间**: 2025-11-07 18:57
+
+#### [饿了么后撤一步，要送整个淘宝](https://www.tmtpost.com/7754568.html)
+**发布时间**: 2025-11-07 18:57
+
+#### [正面硬刚亚马逊：速卖通在欧洲发起品牌攻势](https://www.tmtpost.com/7754072.html)
+**发布时间**: 2025-11-07 18:02
+
+#### [扎堆儿“造人”，车企估值逻辑已变](https://www.tmtpost.com/7754173.html)
+**发布时间**: 2025-11-07 17:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [大厂CIO独家分享：AI如何重塑开发者未来10年｜C位面对面](https://www.infoq.cn/video/2TyPc5pTtplNeF6jaCTi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 20:28
+
+#### [同日敲钟港交所！时隔一年，文远知行和小马智行齐实现双重上市](https://www.infoq.cn/article/8OC22BFo2c52wIqyvC9b?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 19:26
+
+#### [LLM 时代的软件研发新范式 ｜InfoQ《极客有约》](https://www.infoq.cn/video/KGWqbzH6IKGhgoUiKDEi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 19:09
+
+#### [应对 IVF 技术两大痛点：以指标监控体系 + ABQ 索引优化破解](https://www.infoq.cn/video/7iJarhvy5UB5e1g2Mfrr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 19:04
+
+#### [聚焦分布式多节点场景：统一数据格式 + 双维度一致性，构建备份恢复框架](https://www.infoq.cn/video/jBQCbgMIdgENCOgayirs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 19:03
+
+#### [立足数据组织与 Agent 推理：AI 服务破解传统搜索局限，贴合场景化需求](https://www.infoq.cn/video/sqdLJLUrxrWLLOcQcATp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 18:59
+
+#### [与资深AI架构师⼀起，解锁传统⾏业转型的真实挑战与破局思路｜InfoQ《极客有约》](https://www.infoq.cn/video/20rgCSv5TFDiJkQuTCZD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-07 17:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103641)
+**发布时间**: 2025-11-07 17:54
+
+#### [双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/103585)
+**发布时间**: 2025-11-07 16:37
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [有些答案，听 AI 说一百遍，不如和「最有料的人」聊一次](http://www.geekpark.net/news/356135)
+**发布时间**: 2025-11-07 16:53
 
 ---
 
