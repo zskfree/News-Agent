@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Nov 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Nov 2025 05:19:30 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Nov 2025 08:24:00 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Nov 2025 08:25:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>机器人训练，北京男大有了技能玩法</title>
-      <link>https://www.qbitai.com/2025/11/350301.html</link>
-      <description>&lt;![CDATA[机器人训练，北京男大有了技能玩法]]&gt;</description>
-      <pubDate>Sat, 08 Nov 2025 04:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350301.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ICCV涌现自动驾驶新范式：统一世界模型VLA，用训练闭环迈向L4</title>
-      <link>https://www.qbitai.com/2025/11/350282.html</link>
-      <description>&lt;![CDATA[ICCV涌现自动驾驶新范式：统一世界模型VLA，用训练闭环迈向L4]]&gt;</description>
-      <pubDate>Sat, 08 Nov 2025 04:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350282.html</guid>
+      <title>AI100访谈：「Get笔记」方法论｜量子位智库</title>
+      <link>https://www.qbitai.com/2025/11/350350.html</link>
+      <description>&lt;![CDATA[AI100访谈：「Get笔记」方法论｜量子位智库]]&gt;</description>
+      <pubDate>Sat, 08 Nov 2025 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350350.html</guid>
       <category>AI</category>
     </item>
   </channel>
