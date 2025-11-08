@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-08 08:24
+**最后更新时间**: 2025-11-08 23:18
+
+---
+
+## 🆕 最新更新 (2025-11-08 23:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [数据孤岛、协同低效？AI+虚拟孪生如何破解建筑行业数字化难题](https://www.infoq.cn/article/jNFPJE9aRZi37seSRNwc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-08 18:19
+
+#### [快手算法专家吴翔宇确认出席AICon北京站，分享快手直播的AI进化论](https://www.infoq.cn/article/fSJUbwINQ2YBKy5kozrX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-08 18:08
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Z时代的豪华，奔驰交出了高分答卷](https://www.tmtpost.com/7755290.html)
+**发布时间**: 2025-11-08 17:57
+
+#### [如何紧贴业务逻辑开发专用AI Agent？](https://www.tmtpost.com/7755180.html)
+**发布时间**: 2025-11-08 16:53
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [10.58 万！零跑造了一台「红米 YU7」](http://www.geekpark.net/news/356150)
+**发布时间**: 2025-11-08 16:51
+
+#### [当一家传统车企，终于决定「师中长技」](http://www.geekpark.net/news/356149)
+**发布时间**: 2025-11-08 16:48
 
 ---
 

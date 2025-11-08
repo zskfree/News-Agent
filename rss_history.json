@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "9ffe4a1c3351defad59537300a65b1f12f1c95f9bc9db06a7cde71a98c2746b2": {
-        "title": "更高智商更快思考！蚂蚁开源最新万亿语言模型，多项复杂推理SOTA",
-        "link": "https://www.qbitai.com/2025/10/339932.html",
-        "published_date": "Thu, 09 Oct 2025 06:48:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.549267"
-      },
-      "b7964c83062439b59c65c103354d4b63611cf8ee9af3bd4c7cf56f4132759092": {
-        "title": "黄仁勋回应AMD送股OpenAI：很高明的交易，OpenAI没钱给我付账",
-        "link": "https://www.qbitai.com/2025/10/339923.html",
-        "published_date": "Thu, 09 Oct 2025 05:43:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.549403"
-      },
-      "72c37a27dbdfa681da2f00a15d3b5ee3261a62dda72d090773415add9dcf745b": {
-        "title": "备受Meta折磨，LeCun依旧猛发论文！新作：JEPAs不只学特征，还能精准感知数据密度",
-        "link": "https://www.qbitai.com/2025/10/339906.html",
-        "published_date": "Thu, 09 Oct 2025 05:23:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.549638"
-      },
       "cd87670bad753260af52582ac3c3ef7e8b4d5a5b8dc5a97c78fb09fead23d5d3": {
         "title": "The Download: mysteries of the immunome, and how to choose a climate tech pioneer",
         "link": "https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/",
@@ -1809,84 +1791,6 @@
       }
     },
     "Technology": {
-      "d8f2592d22532d36f85394135f0c09e187566e2897ed9dbef48c0c98f99d6f2d": {
-        "title": "AI创业浪潮席卷全球，如何避免陷阱，抓住机遇？｜ NEX-T Summit 2025",
-        "link": "https://www.tmtpost.com/7715582.html",
-        "published_date": "Thu, 09 Oct 2025 16:12:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045371"
-      },
-      "3e7d3340540e0a34c5a77bff963a165c1f3ecb29e43f383412744ecede05da91": {
-        "title": "大涨开启四季度，光伏板块今年能否“翻盘”？",
-        "link": "https://www.tmtpost.com/7715572.html",
-        "published_date": "Thu, 09 Oct 2025 16:04:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045388"
-      },
-      "3e3c34a3df38afd9494e2ae0e67767ddb0c8aa7fc4525d9e4d61040c029cc838": {
-        "title": "“追求正义时的温和不是美德”",
-        "link": "https://www.tmtpost.com/7714973.html",
-        "published_date": "Thu, 09 Oct 2025 16:00:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045399"
-      },
-      "293fa5532c31690c7104b638b6e938b8746a122fcddbe25980e704216dfb8268": {
-        "title": "10月9日A股分析：放量上涨！沪指站稳3900点续创10年新高，中单小单抄底168亿，稀土永磁板块吸金超60亿",
-        "link": "https://www.tmtpost.com/7715482.html",
-        "published_date": "Thu, 09 Oct 2025 15:33:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045412"
-      },
-      "03aef8d58b30cec811d3ccf95a7d72621655c2ea18eecf8e782d6e4673699489": {
-        "title": "金价新高引爆满屏涨停，四川黄金5.1亿押注新疆金矿，并购热潮再升温",
-        "link": "https://www.tmtpost.com/7715477.html",
-        "published_date": "Thu, 09 Oct 2025 15:05:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045425"
-      },
-      "66830494d4f93cd81864cda5e49135f39a5b1e503198a9702aa8ab635ff041c4": {
-        "title": "今年双11，节奏和思路都变了",
-        "link": "https://www.tmtpost.com/7715197.html",
-        "published_date": "Thu, 09 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045434"
-      },
-      "74a7a7abe4392e2af120d45fa13beb15405cf09335407063ea287e82a712c25a": {
-        "title": "Jensen Huang Confirms Investment in xAI after Nvidia Reported to Pour $2 Billion in Musk's Startup",
-        "link": "https://www.tmtpost.com/7715433.html",
-        "published_date": "Thu, 09 Oct 2025 14:40:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045449"
-      },
-      "517b3d4b4c19e71e7994fc4ff12789a204bb3e59f855b1cafae12d8f6a6a3f50": {
-        "title": "番茄小说的AI难题",
-        "link": "https://www.tmtpost.com/7714759.html",
-        "published_date": "Thu, 09 Oct 2025 14:30:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.586129"
-      },
-      "6c0eeac5cc4ca86b92004775e2451d7306f6ce59bd10e93df51d5c07e3398b42": {
-        "title": "阿里上线内容创作AI，对标即梦、可灵三国杀？",
-        "link": "https://www.tmtpost.com/7715004.html",
-        "published_date": "Thu, 09 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045460"
-      },
-      "2af5196192da6bf8eaa46c6af82ac4acd4808e10dfa6098a0ae0c08414e00d10": {
-        "title": "AI+原生鸿蒙，会是国产系统软件替代的更好答案吗？",
-        "link": "https://www.tmtpost.com/7715379.html",
-        "published_date": "Thu, 09 Oct 2025 13:43:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045341"
-      },
-      "07a87a81b5fa62d23087ee844bb2d85e373bc47ee40f5f59964c3aa1d142206d": {
-        "title": "华谊兄弟的成与败",
-        "link": "https://www.tmtpost.com/7714884.html",
-        "published_date": "Thu, 09 Oct 2025 13:30:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.587259"
-      },
-      "901b2db35d9c293fb7480807159c78030ff76084b900c7a76bfac51527243bb2": {
-        "title": "“杀死每家AI初创、造超级OS”？奥特曼的野望惊现缺口：资深人士曝出三大瓶颈",
-        "link": "https://www.infoq.cn/article/pOa6rOS5Ux3u2oMUJLrQ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Oct 2025 15:58:00 GMT",
-        "first_seen": "2025-10-09T08:33:17.045473"
-      },
-      "571e597815c68ebfc2a9f325b31a4d965ce0c7d1674ea99dc52e9f96dd508188": {
-        "title": "App+1 | 用 ExposurePlot 找出最适合自己的拍照焦段",
-        "link": "https://sspai.com/post/102861",
-        "published_date": "Thu, 09 Oct 2025 15:01:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.588784"
-      },
       "3f3df49965ce00fec53ae64f8620f466fdc27306700e35faf613ccecfbd28db2": {
         "title": "劝人退学、庆幸没读博浪费5年，26岁DeepMind“传奇人物”：大厂内部分散，AI研究很低效",
         "link": "https://www.infoq.cn/article/VH5Ul5Xi43jf33UoA39Z?utm_source=rss&utm_medium=article",
@@ -13244,21 +13148,45 @@
         "link": "https://www.tmtpost.com/7755309.html",
         "published_date": "Sat, 08 Nov 2025 13:25:00 GMT",
         "first_seen": "2025-11-08T08:25:05.814169"
+      },
+      "d405cd908a39ea1258d53228da08a86322ab6c19cfac519d7b2a5e3aef165466": {
+        "title": "数据孤岛、协同低效？AI+虚拟孪生如何破解建筑行业数字化难题",
+        "link": "https://www.infoq.cn/article/jNFPJE9aRZi37seSRNwc?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 08 Nov 2025 18:19:00 GMT",
+        "first_seen": "2025-11-08T23:18:29.312721"
+      },
+      "74bcb2a5c1e82fac19c9da5b74c8eadedfc5316ce9f0f996d200ab2b79bc1d7d": {
+        "title": "快手算法专家吴翔宇确认出席AICon北京站，分享快手直播的AI进化论",
+        "link": "https://www.infoq.cn/article/fSJUbwINQ2YBKy5kozrX?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 08 Nov 2025 18:08:00 GMT",
+        "first_seen": "2025-11-08T23:18:29.312880"
+      },
+      "1c79c177c4100e53dfed4055576fd46448cca31356cc8266ff6df2150e919f7f": {
+        "title": "Z时代的豪华，奔驰交出了高分答卷",
+        "link": "https://www.tmtpost.com/7755290.html",
+        "published_date": "Sat, 08 Nov 2025 17:57:00 GMT",
+        "first_seen": "2025-11-08T23:18:29.313004"
+      },
+      "979fd242bb8f39872c4f602d30fa6e8824571a962cec7d25b7420ff775a4f868": {
+        "title": "如何紧贴业务逻辑开发专用AI Agent？",
+        "link": "https://www.tmtpost.com/7755180.html",
+        "published_date": "Sat, 08 Nov 2025 16:53:00 GMT",
+        "first_seen": "2025-11-08T23:18:29.313157"
+      },
+      "c29eff4657517ff45fe3ce3f90ae891cbfa2126fc8ace1ab82435b5f559b2fcc": {
+        "title": "10.58 万！零跑造了一台「红米 YU7」",
+        "link": "http://www.geekpark.net/news/356150",
+        "published_date": "Sat, 08 Nov 2025 16:51:00 GMT",
+        "first_seen": "2025-11-08T23:18:29.313356"
+      },
+      "a0b114aa413b171f1e58f4b356eb79ff514d9ce2665da6b638dc99cdb99c8b76": {
+        "title": "当一家传统车企，终于决定「师中长技」",
+        "link": "http://www.geekpark.net/news/356149",
+        "published_date": "Sat, 08 Nov 2025 16:48:00 GMT",
+        "first_seen": "2025-11-08T23:18:29.313586"
       }
     },
     "Finance": {
-      "3c6f2fffa98316db0b7da13083c3c767252b877bb609dc0295c3ee3ac9cacfe1": {
-        "title": "HSBC shares weaken after $14 billion to fully absorb Hang Seng Bank",
-        "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6f22b95d-c630-4139-b7c6-91045d734a85&mod=mw_rss_bulletins",
-        "published_date": "Thu, 09 Oct 2025 07:52:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.419232"
-      },
-      "96aa7fab6eb6f8394d811450b40c8603f2e0c34305213af971aadd5f459d573f": {
-        "title": "HSBC stock slumps after $14 billion bet on Hong Kong — at a hefty premium",
-        "link": "https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13?mod=mw_rss_topstories",
-        "published_date": "Thu, 09 Oct 2025 07:40:00 GMT",
-        "first_seen": "2025-10-09T08:32:28.419527"
-      },
       "c840f3ff7b88ccd398bd36d539303c01f79b00ea046b73ab2a6552932d879824": {
         "title": "Why rare-earth stocks are rallying as China gears up for Trump meeting on trade",
         "link": "https://www.marketwatch.com/story/why-rare-earth-stocks-are-rallying-as-china-gears-up-for-trump-meeting-on-trade-b078e1a8?mod=mw_rss_topstories",
@@ -13574,8 +13502,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-08T08:25:05.782060",
-    "Technology": "2025-11-08T08:25:05.821429",
-    "Finance": "2025-11-08T08:25:05.658195"
+    "AI": "2025-11-08T23:18:29.284416",
+    "Technology": "2025-11-08T23:18:29.332706",
+    "Finance": "2025-11-08T23:18:29.184169"
   }
 }
