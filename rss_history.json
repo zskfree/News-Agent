@@ -1,66 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "180d242f1ab24feb7673bcdfce0bcb0a3a84b29ed96f4e449b96d8fe4f997a23": {
-        "title": "Evaluation of LLMs for Process Model Analysis and Optimization",
-        "link": "https://arxiv.org/abs/2510.07489",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185400"
-      },
-      "1352a47cc346ed3b9cf7d21a22116ceb0b4cf35c260f9453c2df885e09a0dd52": {
-        "title": "Optimizing Ethical Risk Reduction for Medical Intelligent Systems with Constraint Programming",
-        "link": "https://arxiv.org/abs/2510.07491",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185414"
-      },
-      "5bea61960ba8f0f9656238619a41c19e6287774b518d9723fa7a21ecfd364504": {
-        "title": "CompassLLM: A Multi-Agent Approach toward Geo-Spatial Reasoning for Popular Path Query",
-        "link": "https://arxiv.org/abs/2510.07516",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185428"
-      },
-      "811993a24c5586f3721f1b5e652d83b348bad810105ba94db210e77bca67a24f": {
-        "title": "Benchmarking is Broken - Don't Let AI be its Own Judge",
-        "link": "https://arxiv.org/abs/2510.07575",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185440"
-      },
-      "e8fe41b09900cfa433d76436b89b4022e61e6630ffd605e600ac230f6f1c7e3f": {
-        "title": "Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines",
-        "link": "https://arxiv.org/abs/2510.07614",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185451"
-      },
-      "b3078d3c873bc5eee8a8a3303a4ae0b9fd514db07ad72091eb32feb515d3167b": {
-        "title": "oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning",
-        "link": "https://arxiv.org/abs/2510.07731",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185462"
-      },
-      "d8c583a4b9c77e7a8713bb2c451351a206420fe36a977c46f9840acae0aafeae": {
-        "title": "From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation",
-        "link": "https://arxiv.org/abs/2510.07762",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185373"
-      },
-      "768dc891d2a7b5e35cfea77812ecfcb22f23e08e939f3a0c5afb199f6d699a07": {
-        "title": "An approach for systematic decomposition of complex llm tasks",
-        "link": "https://arxiv.org/abs/2510.07772",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185471"
-      },
-      "a0efa4d0fa63160bd799bd4712b60b9029f5420ffc22f4881bf45a08e8e43ae3": {
-        "title": "GCPO: When Contrast Fails, Go Gold",
-        "link": "https://arxiv.org/abs/2510.07790",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185481"
-      },
-      "75078689ccab26a343e5f3e60e8dba18834828e57d5ac4cbf730986ebd22ddad": {
-        "title": "An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation",
-        "link": "https://arxiv.org/abs/2510.07825",
-        "published_date": "Fri, 10 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.185492"
-      },
       "7404a9478c0dc39eab9d643b90dcc23abad20172a599df2424b6b697c86f6fa9": {
         "title": "1300000000000000！谷歌每月Tokens消耗量曝光（别数了是千万亿）",
         "link": "https://www.qbitai.com/2025/10/340270.html",
@@ -1524,195 +1464,15 @@
         "link": "https://www.qbitai.com/2025/11/350377.html",
         "published_date": "Sun, 09 Nov 2025 03:45:00 GMT",
         "first_seen": "2025-11-09T05:19:37.205429"
+      },
+      "1bc5657f22ab0ee464401c8883c9c9ad83b7d767d5bbbe51775c3d7db41a39c3": {
+        "title": "大厂AI新战场：AQ狂飙，蚂蚁押注大健康赛道",
+        "link": "https://www.qbitai.com/2025/11/350413.html",
+        "published_date": "Sun, 09 Nov 2025 07:47:00 GMT",
+        "first_seen": "2025-11-09T08:23:37.715081"
       }
     },
     "Technology": {
-      "05a1b06e4fd129d6db2a71908c2ccd4c4ef321f1ac9d2aa5a84cd17fcf8a084f": {
-        "title": "U.S.-Listed Rare Earth and Critical Mineral Stocks Surge as China Tightens Export Controls",
-        "link": "https://www.tmtpost.com/7716869.html",
-        "published_date": "Fri, 10 Oct 2025 13:03:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532787"
-      },
-      "6ad1ab9b8f48ef576bd8316eb1a203009da4e1bc5fea9d7a490f2cbd5132faa7": {
-        "title": "国内酒店迎来高饱和强内卷时代",
-        "link": "https://www.tmtpost.com/7716422.html",
-        "published_date": "Fri, 10 Oct 2025 12:33:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532796"
-      },
-      "b72ace861f674e1093a456c803f801ddeeb3bcd5427f81916fac4f9249a9ebc1": {
-        "title": "失去辛巴的“第一个”双11，让快手有点急",
-        "link": "https://www.tmtpost.com/7716054.html",
-        "published_date": "Fri, 10 Oct 2025 12:17:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532807"
-      },
-      "151726d37a0f0e31f9715196dc8a436d452eb980d32818d2cfd733f28867140c": {
-        "title": "阿里投资、田栩宁代言、日销4千万，潮玩赛道又跑出新公司",
-        "link": "https://www.tmtpost.com/7716105.html",
-        "published_date": "Fri, 10 Oct 2025 12:12:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532817"
-      },
-      "e192c8582890e1a17dc29eca4591b886ef36cf4384761cd630912796406d64b3": {
-        "title": "心动最赚钱游戏或将易主？《伊瑟》上线东亚6大T1市场，12天吸金超3700万",
-        "link": "https://www.tmtpost.com/7716447.html",
-        "published_date": "Fri, 10 Oct 2025 12:07:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532828"
-      },
-      "22330d8c8551f5154f8bf465f6dfc404764e74882fa960ee73a5a39807198e08": {
-        "title": "易鹏 ：AI与资本市场——从共识到机会",
-        "link": "https://www.tmtpost.com/7716520.html",
-        "published_date": "Fri, 10 Oct 2025 12:03:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.217787"
-      },
-      "68c6fcae6b07b82b9574a894ca4fbd4aa71010fbdfd11d0e7ce83598f0143dbb": {
-        "title": "魅族啊，不如放下做手机的执念",
-        "link": "https://www.tmtpost.com/7716530.html",
-        "published_date": "Fri, 10 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.218031"
-      },
-      "560c76faccf4ae9f61edbdf8a6f8c136fbbbee02e21a70c780e18cdec0453649": {
-        "title": "板块分化明显，第四批国补落地，家电股能否乘风而起？",
-        "link": "https://www.tmtpost.com/7716561.html",
-        "published_date": "Fri, 10 Oct 2025 11:55:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.218391"
-      },
-      "df7ce4a7872339d7c929eb6eb745b7ee5360a77278aae7bf6ade89b9ef254ef5": {
-        "title": "AI内存新秀，SOCAMM2登场",
-        "link": "https://www.tmtpost.com/7716564.html",
-        "published_date": "Fri, 10 Oct 2025 11:46:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.218716"
-      },
-      "abeddd9b8b35824ef79ff72e41c31c22ad7ea3460d75be69ca58d00be08b8d3d": {
-        "title": "抖音高德的“榜单革命”，能否打碎小红书的“滤镜”？",
-        "link": "https://www.tmtpost.com/7716574.html",
-        "published_date": "Fri, 10 Oct 2025 11:38:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.219176"
-      },
-      "2c3d5f852a5bfcc36a487463daad4d83a2dc7859514770169fa4abf73e0d4982": {
-        "title": "酒店，怎么成了中年人的避风港？",
-        "link": "https://www.tmtpost.com/7716577.html",
-        "published_date": "Fri, 10 Oct 2025 11:31:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.219556"
-      },
-      "9f650c1f6f77d93d9f7258a6d1f06016eb007166c9ba9f08805c12d94c5599af": {
-        "title": "被嫌弃的AAV病毒递送系统",
-        "link": "https://www.tmtpost.com/7716586.html",
-        "published_date": "Fri, 10 Oct 2025 11:25:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532701"
-      },
-      "6e01f12cf0a7ce9754234c4e67005b5241d06119894fced39a7cf60b70c5e084": {
-        "title": "华尔街新「造王者」，OpenAI如何一言「指挥」美股？",
-        "link": "https://www.tmtpost.com/7716053.html",
-        "published_date": "Fri, 10 Oct 2025 11:25:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.220521"
-      },
-      "7b896dfcc04f2208fa908b37e014ba91ea77e367fe92dd3cb94f844ecc85309a": {
-        "title": "反向旅游，一言难尽",
-        "link": "https://www.tmtpost.com/7716600.html",
-        "published_date": "Fri, 10 Oct 2025 11:20:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.220925"
-      },
-      "acda03760b1732b321e5084d0e6316f795e3f11a36191e6ab3846b27f5409ef9": {
-        "title": "跨越温差：中美创业图景的现实、重构与韧性 | NEX-T Summit 2025",
-        "link": "https://www.tmtpost.com/7716601.html",
-        "published_date": "Fri, 10 Oct 2025 11:17:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.221829"
-      },
-      "6ba725e59e21ac4256b6c11e41a050a560405bc72711cfced28b501613875b73": {
-        "title": "振奋人心的2035气候目标：开启中国新能源“新黄金十年”",
-        "link": "https://www.tmtpost.com/7716602.html",
-        "published_date": "Fri, 10 Oct 2025 11:15:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.222647"
-      },
-      "b2119245279d23b0f02ade9363e0544d0a4f6d5ae57cd3e950d1db4a3d7c90b8": {
-        "title": "山东大叔苦战15年，硬改全球第三代芯片格局",
-        "link": "https://www.tmtpost.com/7716625.html",
-        "published_date": "Fri, 10 Oct 2025 11:15:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532730"
-      },
-      "26a159c82f65d1b3a23861d18b863f25a40a6047fd58f5e2f47340e9e7b20180": {
-        "title": "OpenAI玩锁单，奥特曼也玩双十一",
-        "link": "https://www.tmtpost.com/7716641.html",
-        "published_date": "Fri, 10 Oct 2025 11:15:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.223924"
-      },
-      "21b0077dbdece5d6f44a0511ac179cf782048894a5f9c6bee559f2526bec3f9e": {
-        "title": "网文、短剧新趋势：自建内容生态成必然？",
-        "link": "https://www.tmtpost.com/7716668.html",
-        "published_date": "Fri, 10 Oct 2025 11:15:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.224645"
-      },
-      "86288568d243e2de525d4920b16623bb344c66dd5fecc2acac32617e4758e65d": {
-        "title": "华为系公司赛力斯与字节合作具身智能，问界要开发人形机器人？",
-        "link": "https://www.tmtpost.com/7716633.html",
-        "published_date": "Fri, 10 Oct 2025 10:56:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.225424"
-      },
-      "63fc2f6869ac36ac85f32a6fee7f42e346202761217f6056fdada80695aec827": {
-        "title": "中国要建太空发电站？“无限能源”方案已进入2.0研发阶段",
-        "link": "http://www.huxiu.com/article/4789197.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532745"
-      },
-      "0cc8b673c67160ac3c6bdf9a59c686777f575492fe044cc22da5325517136f2f": {
-        "title": "文旅消费升级，靠大爷大妈",
-        "link": "http://www.huxiu.com/article/4789521.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 11:30:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.227016"
-      },
-      "2502d0906d50696eac51d7fbd884b5239f763f23561e2e12f8a3d9429e79f425": {
-        "title": "雷军密友，扶不起的阿斗？",
-        "link": "http://www.huxiu.com/article/4789199.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 10:50:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.227680"
-      },
-      "2872d3b8547291745f28bab5543ba873f2dbe3b97906b07838906ebd7518635d": {
-        "title": "10 分钟看懂《志愿军3》的历史背景",
-        "link": "http://www.huxiu.com/article/4788631.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.228619"
-      },
-      "c47ccea9e3770c29f9781c4df5876bc15acf3027797e0d05a6a547cec016aeb3": {
-        "title": "高市早苗上台后对我们会有什么影响？要警惕哪些风险？",
-        "link": "http://www.huxiu.com/article/4788714.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 07:00:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.229510"
-      },
-      "02b364c61d2fcaf487f098eabefbc65dc73b68fbdbcbafacb5e2daa52f9e3827": {
-        "title": "鸿蒙 1024｜在一起，就可以——在华为实习的七个月",
-        "link": "https://sspai.com/post/102853",
-        "published_date": "Fri, 10 Oct 2025 10:49:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.230800"
-      },
-      "d6f3983c37c616302fcdfc70022f61f9bc418dad5452c9db9a8b903c2caafd10": {
-        "title": "派早报：Alphabet 反垄断案新进展、Intel 发布多项新品等",
-        "link": "https://sspai.com/post/102974",
-        "published_date": "Fri, 10 Oct 2025 08:43:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532759"
-      },
-      "98da0e4e385ea00c3aadbc582a20822fefa57c535fce86697543b4f4770c8fa6": {
-        "title": "MOGOBUS三年内跑遍狮城？蘑菇车联中标新加坡首个L4级自动驾驶巴士项目",
-        "link": "https://www.infoq.cn/article/1miWV8dmP2lNGQ1GDFRr?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Oct 2025 09:54:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.233550"
-      },
-      "8484e3534a9d5cae2d660a2a562ea09c7657467dd04e3fe5a1850ffbbb34f851": {
-        "title": "Sora 下载量破 100 万次；国庆中秋假期国内游总花费超过 8000 亿元；智驾多位核心高管离职，蔚来回应｜极客早知道",
-        "link": "http://www.geekpark.net/news/354826",
-        "published_date": "Fri, 10 Oct 2025 08:17:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.235906"
-      },
-      "a6c3ee5d5357928c8f9e836a2f2c3e02d515a019249878dcdc89388bffeade86": {
-        "title": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
-        "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
-        "published_date": "Fri, 10 Oct 2025 00:08:00 GMT",
-        "first_seen": "2025-10-10T05:21:01.532772"
-      },
-      "c13e1f3fb788984e10704aa7369f8bfe66541211fb07a0449ce9716494180c56": {
-        "title": "The Minecraft movie is getting a sequel",
-        "link": "https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027",
-        "published_date": "Thu, 09 Oct 2025 23:36:00 GMT",
-        "first_seen": "2025-10-10T05:20:13.239109"
-      },
       "b9fc7c660b38160690293a4e397f18f225fc0a71f3ae2987c3464945bea3d04e": {
         "title": "股价暴涨30倍，新易盛实控人37亿高位套现，\"易中天\"三巨头年内减持超60亿",
         "link": "https://www.tmtpost.com/7717104.html",
@@ -12698,6 +12458,24 @@
         "link": "http://www.geekpark.net/news/356157",
         "published_date": "Sun, 09 Nov 2025 08:37:00 GMT",
         "first_seen": "2025-11-09T05:19:37.263518"
+      },
+      "8104fea6881c3aa0d3f2b0e077bfabc2d4bddb94620029d068686c56efb6e811": {
+        "title": "2025乌镇峰会：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
+        "link": "https://www.infoq.cn/article/j8pX6cXYHoVhudtRoV6t?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 09 Nov 2025 14:46:00 GMT",
+        "first_seen": "2025-11-09T08:23:37.784557"
+      },
+      "ed957060959aa4facf4ea02de944fa47b8401c51d7525122a8dba45b5c2732a7": {
+        "title": "一半文书交给 AI 后，我重新理解了「法律工具」",
+        "link": "https://sspai.com/post/103187",
+        "published_date": "Sun, 09 Nov 2025 14:16:00 GMT",
+        "first_seen": "2025-11-09T08:23:37.784707"
+      },
+      "49dee950ff753630cfc1ed7a4b73ab76cb4138dbab98a3429b721f2a0b03c12f": {
+        "title": "AI高渗透下的薪酬管理",
+        "link": "https://www.tmtpost.com/7755537.html",
+        "published_date": "Sun, 09 Nov 2025 13:28:00 GMT",
+        "first_seen": "2025-11-09T08:23:37.784832"
       }
     },
     "Finance": {
@@ -12878,8 +12656,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-09T05:19:37.228938",
-    "Technology": "2025-11-09T05:19:37.271014",
-    "Finance": "2025-11-09T05:19:37.099343"
+    "AI": "2025-11-09T08:23:37.752605",
+    "Technology": "2025-11-09T08:23:37.792065",
+    "Finance": "2025-11-09T08:23:37.609418"
   }
 }
