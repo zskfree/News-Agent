@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Nov 2025 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Nov 2025 08:25:05 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 05:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 05:19:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI100访谈：「Get笔记」方法论｜量子位智库</title>
-      <link>https://www.qbitai.com/2025/11/350350.html</link>
-      <description>&lt;![CDATA[AI100访谈：「Get笔记」方法论｜量子位智库]]&gt;</description>
-      <pubDate>Sat, 08 Nov 2025 07:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350350.html</guid>
+      <title>“昆山杯”第27届清华大学创业大赛火热报名！</title>
+      <link>https://www.qbitai.com/2025/11/350377.html</link>
+      <description>&lt;![CDATA[“昆山杯”第27届清华大学创业大赛火热报名！]]&gt;</description>
+      <pubDate>Sun, 09 Nov 2025 03:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350377.html</guid>
       <category>AI</category>
     </item>
   </channel>

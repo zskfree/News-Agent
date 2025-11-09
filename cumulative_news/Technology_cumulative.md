@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-08 23:18
+**最后更新时间**: 2025-11-09 05:19
+
+---
+
+## 🆕 最新更新 (2025-11-09 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025年美容行业最大收购案诞生，双美竞争格局大变天](https://www.tmtpost.com/7755503.html)
+**发布时间**: 2025-11-09 11:58
+
+#### [单日狂卖68万，下沉市场成达美乐的“印钞机”](https://www.tmtpost.com/7755435.html)
+**发布时间**: 2025-11-09 09:53
+
+#### [千亿湖南女首富，重押人形机器人](https://www.tmtpost.com/7755062.html)
+**发布时间**: 2025-11-09 09:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OPPO算法专家宋阳确认出席AICon北京站，分享Citywalk 场景中的 VideoAgent 设计与实践](https://www.infoq.cn/article/aoXDdCVdkF4yYjtRSlyW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-09 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 六巨头罕见同台，辨论 AI 泡沫；SpaceX 公布简化版登月舱方案；王者荣耀年度总决赛首次在鸟巢举办](http://www.geekpark.net/news/356157)
+**发布时间**: 2025-11-09 08:37
 
 ---
 
