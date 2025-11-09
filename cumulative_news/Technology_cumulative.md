@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-09 08:23
+**最后更新时间**: 2025-11-09 23:18
+
+---
+
+## 🆕 最新更新 (2025-11-09 23:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 用 Rust 重写核心系统：CDN 性能提升 25%，响应时间缩短 10 毫秒](https://www.infoq.cn/article/iqGVY7r2y27H7r1Hf1z1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-09 20:59
+
+#### [一边秀肌肉，一边设围墙，NVIDIA 发布 OmniVinci，性能碾压 Qwen2.5-Omni，却被骂“假开源”](https://www.infoq.cn/article/thKrURwUUohbMj0FFKZh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-09 20:56
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [补水啦份额一度赶超尖叫，运动饮料即将燃起战火？](https://www.tmtpost.com/7755750.html)
+**发布时间**: 2025-11-09 17:43
+
+#### [480亿新势力首富放“大招”，马斯克看了都点赞](https://www.tmtpost.com/7755472.html)
+**发布时间**: 2025-11-09 17:03
+
+#### [小红书做支付：节流又开源，但难成“支付宝”](https://www.tmtpost.com/7755432.html)
+**发布时间**: 2025-11-09 17:03
+
+#### [10只收益跑赢大盘的防御性股票](https://www.tmtpost.com/7755577.html)
+**发布时间**: 2025-11-09 10:37
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [复盘大疆 Pocket 的七年：从「定义产品」到「定义时代」](http://www.geekpark.net/news/356156)
+**发布时间**: 2025-11-09 04:34
 
 ---
 
