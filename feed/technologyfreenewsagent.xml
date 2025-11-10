@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Nov 2025 23:18:00 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Nov 2025 23:18:39 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Nov 2025 05:22:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cloudflare 用 Rust 重写核心系统：CDN 性能提升 25%，响应时间缩短 10 毫秒</title>
-      <link>https://www.infoq.cn/article/iqGVY7r2y27H7r1Hf1z1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 用 Rust 重写核心系统：CDN 性能提升 25%，响应时间缩短 10 毫秒]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iqGVY7r2y27H7r1Hf1z1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>10月漫剧行业观察：超4000款产品在投，单素材曝光超5亿，哪些厂商正在悄悄入局？</title>
+      <link>https://www.tmtpost.com/7756339.html</link>
+      <description>&lt;![CDATA[10月漫剧行业观察：超4000款产品在投，单素材曝光超5亿，哪些厂商正在悄悄入局？]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756339.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一边秀肌肉，一边设围墙，NVIDIA 发布 OmniVinci，性能碾压 Qwen2.5-Omni，却被骂“假开源”</title>
-      <link>https://www.infoq.cn/article/thKrURwUUohbMj0FFKZh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一边秀肌肉，一边设围墙，NVIDIA 发布 OmniVinci，性能碾压 Qwen2.5-Omni，却被骂“假开源”]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/thKrURwUUohbMj0FFKZh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>康方生物，别以为你稳了</title>
+      <link>https://www.tmtpost.com/7756502.html</link>
+      <description>&lt;![CDATA[康方生物，别以为你稳了]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756502.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>补水啦份额一度赶超尖叫，运动饮料即将燃起战火？</title>
-      <link>https://www.tmtpost.com/7755750.html</link>
-      <description>&lt;![CDATA[补水啦份额一度赶超尖叫，运动饮料即将燃起战火？]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 17:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7755750.html</guid>
+      <title>你小时候的荧幕偶像，现在争着去景区当NPC</title>
+      <link>https://www.tmtpost.com/7756558.html</link>
+      <description>&lt;![CDATA[你小时候的荧幕偶像，现在争着去景区当NPC]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756558.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>480亿新势力首富放“大招”，马斯克看了都点赞</title>
-      <link>https://www.tmtpost.com/7755472.html</link>
-      <description>&lt;![CDATA[480亿新势力首富放“大招”，马斯克看了都点赞]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7755472.html</guid>
+      <title>赛力斯成为首家A+H豪华新能源车企，张兴海开启高端制造出海新纪元</title>
+      <link>https://www.tmtpost.com/7756219.html</link>
+      <description>&lt;![CDATA[赛力斯成为首家A+H豪华新能源车企，张兴海开启高端制造出海新纪元]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756219.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小红书做支付：节流又开源，但难成“支付宝”</title>
-      <link>https://www.tmtpost.com/7755432.html</link>
-      <description>&lt;![CDATA[小红书做支付：节流又开源，但难成“支付宝”]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7755432.html</guid>
+      <title>加冕单项冠军，铭利达光伏精密结构件确立全国领跑地位</title>
+      <link>https://www.tmtpost.com/7756682.html</link>
+      <description>&lt;![CDATA[加冕单项冠军，铭利达光伏精密结构件确立全国领跑地位]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756682.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10只收益跑赢大盘的防御性股票</title>
-      <link>https://www.tmtpost.com/7755577.html</link>
-      <description>&lt;![CDATA[10只收益跑赢大盘的防御性股票]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7755577.html</guid>
+      <title>过去几年，厂商押注“开放世界”是陷阱吗？</title>
+      <link>https://www.tmtpost.com/7756452.html</link>
+      <description>&lt;![CDATA[过去几年，厂商押注“开放世界”是陷阱吗？]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756452.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI浏览器Atlas，能否拯救亏损百亿的OpenAI？</title>
+      <link>https://www.tmtpost.com/7756649.html</link>
+      <description>&lt;![CDATA[AI浏览器Atlas，能否拯救亏损百亿的OpenAI？]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756649.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI向美国政府发出“求救信号”意味着什么？</title>
+      <link>https://www.tmtpost.com/7756650.html</link>
+      <description>&lt;![CDATA[OpenAI向美国政府发出“求救信号”意味着什么？]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756650.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>迪士尼、Coreweave、西方石油、Oklo、Flutter以及本周值得关注的其他股票</title>
+      <link>https://www.tmtpost.com/7756619.html</link>
+      <description>&lt;![CDATA[迪士尼、Coreweave、西方石油、Oklo、Flutter以及本周值得关注的其他股票]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756619.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>美的为什么不害怕小米？</title>
+      <link>https://www.tmtpost.com/7756310.html</link>
+      <description>&lt;![CDATA[美的为什么不害怕小米？]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7756310.html</guid>
       <category>Technology</category>
     </item>
   </channel>

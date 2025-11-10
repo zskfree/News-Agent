@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-09 23:18
+**最后更新时间**: 2025-11-10 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-10 05:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [康方生物，别以为你稳了](https://www.tmtpost.com/7756502.html)
+**发布时间**: 2025-11-10 12:25
+
+#### [你小时候的荧幕偶像，现在争着去景区当NPC](https://www.tmtpost.com/7756558.html)
+**发布时间**: 2025-11-10 12:25
+
+#### [赛力斯成为首家A+H豪华新能源车企，张兴海开启高端制造出海新纪元](https://www.tmtpost.com/7756219.html)
+**发布时间**: 2025-11-10 12:21
+
+#### [加冕单项冠军，铭利达光伏精密结构件确立全国领跑地位](https://www.tmtpost.com/7756682.html)
+**发布时间**: 2025-11-10 12:13
+
+#### [10月漫剧行业观察：超4000款产品在投，单素材曝光超5亿，哪些厂商正在悄悄入局？](https://www.tmtpost.com/7756339.html)
+**发布时间**: 2025-11-10 12:13
+
+#### [过去几年，厂商押注“开放世界”是陷阱吗？](https://www.tmtpost.com/7756452.html)
+**发布时间**: 2025-11-10 12:13
+
+#### [AI浏览器Atlas，能否拯救亏损百亿的OpenAI？](https://www.tmtpost.com/7756649.html)
+**发布时间**: 2025-11-10 12:13
+
+#### [OpenAI向美国政府发出“求救信号”意味着什么？](https://www.tmtpost.com/7756650.html)
+**发布时间**: 2025-11-10 12:00
+
+#### [迪士尼、Coreweave、西方石油、Oklo、Flutter以及本周值得关注的其他股票](https://www.tmtpost.com/7756619.html)
+**发布时间**: 2025-11-10 11:30
+
+#### [美的为什么不害怕小米？](https://www.tmtpost.com/7756310.html)
+**发布时间**: 2025-11-10 11:25
+
+#### [DeepSeek Researcher Warns of AI's Long-Term Risks at China's Top Internet Forum](https://www.tmtpost.com/7756584.html)
+**发布时间**: 2025-11-10 11:22
+
+#### [Leading Chinese eVTOL Firm Tcab Tech Raises $41 Million in B++ Round](https://www.tmtpost.com/7756577.html)
+**发布时间**: 2025-11-10 11:18
+
+#### [汽车之家告别“太容易”的日子](https://www.tmtpost.com/7756350.html)
+**发布时间**: 2025-11-10 11:09
+
+#### [五发电巨头违规齐领罚，电力市场监管步入深水区](https://www.tmtpost.com/7756281.html)
+**发布时间**: 2025-11-10 11:01
+
+#### [181亿医疗信息化龙头掌舵人周炜，因行贿被判了](https://www.tmtpost.com/7756353.html)
+**发布时间**: 2025-11-10 10:55
+
+#### [中国能源工程集团逾亿元关联交易隐匿背后](https://www.tmtpost.com/7756222.html)
+**发布时间**: 2025-11-10 10:40
+
+#### [Sohu's Charles Zhang Urges Rationality in the AI Era, Advocates for "Human-Centered" Internet](https://www.tmtpost.com/7756352.html)
+**发布时间**: 2025-11-10 10:33
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [山姆遭遇公关危机，会员们在骂什么？](http://www.huxiu.com/article/4802572.html?f=wangzhan)
+**发布时间**: 2025-11-10 11:02
+
+#### [小鹏，“重拾”执念](http://www.huxiu.com/article/4801881.html?f=wangzhan)
+**发布时间**: 2025-11-10 10:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“我不想一辈子只做PyTorch！”PyTorch 之父闪电离职，重量级AI开源框架迈入关键交接时期](https://www.infoq.cn/article/ISIqxKWUPhHMkwfE2QMe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 10:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我们想让老手艺和年轻人玩到一起：专访南荒公园生活节创办人](https://sspai.com/post/103522)
+**发布时间**: 2025-11-10 10:00
+
+#### [派早报：马斯克 1 万亿美元的薪酬方案获批](https://sspai.com/post/103682)
+**发布时间**: 2025-11-10 08:48
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美国AI巨头股缩水8000亿美元；传Meta靠诈骗广告收入超千亿；《英雄联盟》S15总决赛T1夺冠｜极客早知道](http://www.geekpark.net/news/356161)
+**发布时间**: 2025-11-10 08:03
 
 ---
 
