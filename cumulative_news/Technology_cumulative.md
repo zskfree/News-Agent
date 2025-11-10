@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-10 05:21
+**最后更新时间**: 2025-11-10 08:35
+
+---
+
+## 🆕 最新更新 (2025-11-10 08:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [NuGet.org推出全新赞助功能，方便开发者支持包作者](https://www.infoq.cn/article/TETkuZ0L9e5wdYL8pwE8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 16:00
+
+#### [将AI带入数据！Oracle给数据库内嵌上Agent框架](https://www.infoq.cn/article/faqjXU1SIWduBHKE3AwZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 15:40
+
+#### [从中断到有序：Netflix使用WAL实现数据库韧性的方式](https://www.infoq.cn/article/qe1NPrgb0CCHX1iHotYM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 15:40
+
+#### [多模态一致性生成技术和社交落地实践｜AICon北京](https://www.infoq.cn/article/skzuglScXrAjUmd0YKMY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 15:29
+
+#### [用“成语”疗愈“心情”，一位鸿蒙开发者的创意与选择](https://www.infoq.cn/article/XXJf0Hd0zQ0JKlAjHgc0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 15:15
+
+#### [印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](https://www.infoq.cn/article/xE4F65DDgCkjKxUMNfE1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 14:55
+
+#### [黄仁勋、李飞飞、Yann LeCun等六位AI顶级大佬最新对话：AI到底有没有泡沫？](https://www.infoq.cn/article/EGo3G7UuL5EVWgBU671Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-10 14:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【产业互联网周报】马斯克：5年后手机彻底消失，AI 与机器人是“饭碗终结者”；Meta被曝靠海量诈骗广告赚取巨额利润；苹果AI入华计划再延期，研发过程面临技术瓶颈](https://www.tmtpost.com/7757180.html)
+**发布时间**: 2025-11-10 15:59
+
+#### [富豪阮鸿献给爱女发过亿大红包，已连续三年未登上胡润百富榜](https://www.tmtpost.com/7756232.html)
+**发布时间**: 2025-11-10 15:28
+
+#### [医疗行业都需警惕，国家严查医生科普十大行为](https://www.tmtpost.com/7756982.html)
+**发布时间**: 2025-11-10 15:28
+
+#### [10月短剧&小说投流月报：短剧素材量增91.5万组，字节、掌文小说产品大换血](https://www.tmtpost.com/7757020.html)
+**发布时间**: 2025-11-10 15:27
+
+#### [从共识转向价值深耕，企业数字化迎来新范式](https://www.tmtpost.com/7756092.html)
+**发布时间**: 2025-11-10 15:23
+
+#### [11月10日A股分析：三大股指涨跌不一，两市合计成交21744.54亿元，资金流入最多的行业板块为酿酒行业、文化传媒](https://www.tmtpost.com/7757102.html)
+**发布时间**: 2025-11-10 15:21
+
+#### [银发经济@2025：当老年人们都去「上学」了](https://www.tmtpost.com/7756723.html)
+**发布时间**: 2025-11-10 13:38
+
+#### [“AI让硅谷10万人失业”背后的真相](https://www.tmtpost.com/7756535.html)
+**发布时间**: 2025-11-10 13:32
+
+#### [中国AI，赢下第一场金融实测](https://www.tmtpost.com/7756668.html)
+**发布时间**: 2025-11-10 13:32
+
+#### [IPO紧要关头捷佳伟创狙杀亚电科技，隆基绿能成为共同被告](https://www.tmtpost.com/7756624.html)
+**发布时间**: 2025-11-10 13:24
+
+#### [日本“鸡娃”大败局：挤破脑袋上好大学，毕业后批量式啃老](https://www.tmtpost.com/7756489.html)
+**发布时间**: 2025-11-10 13:24
+
+#### [首测开启、主打慢生活，这可能是最不米哈游的一款游戏](https://www.tmtpost.com/7756114.html)
+**发布时间**: 2025-11-10 13:24
+
+#### [登顶海外多国免费榜TOP 1，网易的逆子居然开始挣“文化钱”](https://www.tmtpost.com/7756323.html)
+**发布时间**: 2025-11-10 13:24
+
+#### [封测龙头来了，连亏之下，芯德半导体能否获青睐？](https://www.tmtpost.com/7756501.html)
+**发布时间**: 2025-11-10 13:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [在 Cursor 工作 60 天，我发现了这家公司成功的秘密](http://www.geekpark.net/news/356214)
+**发布时间**: 2025-11-10 15:41
+
+#### [这款 AI 写作神器，让数百网文作者「月入过万」｜AI 上新](http://www.geekpark.net/news/356213)
+**发布时间**: 2025-11-10 15:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [逐光驭影：相机自动曝光技术溯源](https://sspai.com/post/103334)
+**发布时间**: 2025-11-10 14:49
 
 ---
 
