@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-11 08:29
+**最后更新时间**: 2025-11-11 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-11 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [独董“唱反调”、红杉高瓴浮亏、早期股东狂赚4倍，奥浦迈14.5亿并购的妥协与博弈丨并购一线](https://www.tmtpost.com/7759770.html)
+**发布时间**: 2025-11-11 22:56
+
+#### [Kimi K2 Thinking，是月之暗面的“复仇”](https://www.tmtpost.com/7759720.html)
+**发布时间**: 2025-11-11 22:11
+
+#### [大疆、影石，谁是全景相机之王？](https://www.tmtpost.com/7757929.html)
+**发布时间**: 2025-11-11 19:37
+
+#### [滴滴一下，共享儿女](https://www.tmtpost.com/7758856.html)
+**发布时间**: 2025-11-11 19:36
+
+#### [自免BTK抑制剂大爆发，没有悬念了](https://www.tmtpost.com/7758326.html)
+**发布时间**: 2025-11-11 19:36
+
+#### [如果华谊兄弟失去“华谊兄弟”](https://www.tmtpost.com/7758214.html)
+**发布时间**: 2025-11-11 19:36
+
+#### [从互联网传播学角度，聊聊“洪玄烨”这个梗的爆红](https://www.tmtpost.com/7758631.html)
+**发布时间**: 2025-11-11 19:20
+
+#### [告别百亿收购，“果链”歌尔需要一个新曲线](https://www.tmtpost.com/7758059.html)
+**发布时间**: 2025-11-11 19:20
+
+#### [脱离“正轨”的旅居人，在逃避什么？](https://www.tmtpost.com/7758592.html)
+**发布时间**: 2025-11-11 19:20
+
+#### [人均500元的宫廷饭，猛攻小城餐桌](https://www.tmtpost.com/7758601.html)
+**发布时间**: 2025-11-11 19:20
+
+#### [人形机器人很火，但另一类机器人会更早进我们的家门](https://www.tmtpost.com/7759286.html)
+**发布时间**: 2025-11-11 19:20
+
+#### [河北巨富，手下集体受罚](https://www.tmtpost.com/7758966.html)
+**发布时间**: 2025-11-11 19:20
+
+#### [再投6500万元布局饮料谋翻身，*ST兰黄“解渴”容易“解困”难](https://www.tmtpost.com/7759479.html)
+**发布时间**: 2025-11-11 18:58
+
+#### [溢价705.33% 购买大股东参股“AI教育”资产，谁为方直科技暴跌买单？  | 并购一线](https://www.tmtpost.com/7759332.html)
+**发布时间**: 2025-11-11 18:16
+
+#### [存储芯片价格暴涨700％，稀土金属成为AI变局的上帝之手？](https://www.tmtpost.com/7758399.html)
+**发布时间**: 2025-11-11 17:33
+
+#### [两大关键点获突破，小核酸再度火爆](https://www.tmtpost.com/7758938.html)
+**发布时间**: 2025-11-11 17:33
+
+#### [10月AI月报：全球AI下载4.9亿，豆包下载量上涨](https://www.tmtpost.com/7759091.html)
+**发布时间**: 2025-11-11 17:14
+
+#### [这家好莱坞公司提供了全新的影视工业AI解决方案](https://www.tmtpost.com/7759377.html)
+**发布时间**: 2025-11-11 17:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 019 周 AI 应用榜：AI 让“我”遇见“我”？LifeContext 打造“数字分身”登顶榜首！](https://www.infoq.cn/article/DXUexVVuyhLqZk9m2JYa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 20:00
+
+#### [Next.js 对手再 +1，TanStack Start 正式版发布：面向 React/Solid 的轻量化全栈方案](https://www.infoq.cn/article/FMgID4CGOxkEkHTxvJ7A?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 18:59
+
+#### [10万亿算力订单根本hold不住？Altman偷递11页“要钱申请”，还嘴硬 “不求联邦”，白宫直拒：谁都不救！](https://www.infoq.cn/article/kmyfkCJyXgHeCDAXSa4F?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 18:40
+
+#### [昆仑芯 X HAMi X 百度智能云 | 昆仑芯 P800 XPU/vXPU 双模式算力调度方案落地](https://www.infoq.cn/article/yENYqCuswUKZtvfxhmay?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 18:03
+
+#### [从核心技术到全流程落地：鸿蒙原生开发与智能提效实践丨HarmonyOS 领航者说](https://www.infoq.cn/video/9s7TX8DTJGSpQUlJXxid?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 17:48
+
+#### [所有产品植入AI功能、发布首个开源车用OS，红帽：AI的真正战场在“开源”](https://www.infoq.cn/article/vck961qRY47vaG1J8wbc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 17:15
+
+#### [杨植麟带 Kimi 团队深夜回应：关于 K2 Thinking 爆火后的一切](https://www.infoq.cn/article/7ykg0pKDC3H5F18M6Vqy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 15:14
+
+#### [初赛鸣金，精英集结 | 云谷杯·2025 人工智能应用创新创业大赛初赛顺利举行](https://www.infoq.cn/article/ybeNRpX20FrgJGlaZOiQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 117 | 派友买的iPhone配件、一周热评以及新玩意](https://sspai.com/post/103737)
+**发布时间**: 2025-11-11 17:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [年产值突破 150 亿，刚毕业的俊男美女涌入「团播」工厂](http://www.geekpark.net/news/356282)
+**发布时间**: 2025-11-11 16:35
 
 ---
 
