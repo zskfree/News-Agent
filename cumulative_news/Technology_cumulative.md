@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-11 05:21
+**最后更新时间**: 2025-11-11 08:29
+
+---
+
+## 🆕 最新更新 (2025-11-11 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Trump Looks at Tariff Cuts as Switzerland Reportedly Close to a Deal to Lower Tariffs to 15%](https://www.tmtpost.com/7759252.html)
+**发布时间**: 2025-11-11 16:20
+
+#### [Global Experts Explore How Artificial Intelligence is Transforming Research at Wuzhen Summit](https://www.tmtpost.com/7759223.html)
+**发布时间**: 2025-11-11 16:03
+
+#### [激怒山姆用户的，不止AI商品图](https://www.tmtpost.com/7758642.html)
+**发布时间**: 2025-11-11 15:57
+
+#### [AI Pioneer Fei-Fei Li Says 'Spatial Intelligence' will Define Next Phase of Artificial Intelligence](https://www.tmtpost.com/7759191.html)
+**发布时间**: 2025-11-11 15:45
+
+#### [Trump Says U.S. "Pretty Close to" a  "Fair" Trade Deal to Lower India Tariffs](https://www.tmtpost.com/7759173.html)
+**发布时间**: 2025-11-11 15:37
+
+#### [瑞士信息与通信科技公司LatticeFlow AI研发AI模型技术风险评估软件，提升AI模型合规性](https://www.tmtpost.com/7758734.html)
+**发布时间**: 2025-11-11 15:30
+
+#### [11月11日A股分析：沪指跌0.39%报4002.76点，两市合计成交19935.86亿元，资金流入最多的行业板块为银行](https://www.tmtpost.com/7759061.html)
+**发布时间**: 2025-11-11 15:30
+
+#### ["Godfather of AI" Geoffrey Hinton to Attend 2025 TMTPost T-EDGE](https://www.tmtpost.com/7759133.html)
+**发布时间**: 2025-11-11 15:24
+
+#### [XPeng Bets Big on Physical AI as Automakers and Tech Giants Enter the Next Frontier](https://www.tmtpost.com/7759074.html)
+**发布时间**: 2025-11-11 15:07
+
+#### [重磅！“AI教父”辛顿确认出席钛媒体T-EDGE，开启AI时代的全球对话](https://www.tmtpost.com/7758610.html)
+**发布时间**: 2025-11-11 14:53
+
+#### [强一股份：核心收入绑定关联方，高毛利远超同行，关联交易存疑 | IPO观察](https://www.tmtpost.com/7757098.html)
+**发布时间**: 2025-11-11 14:50
+
+#### [China Halts Special Port Fees on U.S. Ships after Trump Admin. Suspends Section 301 Investigation](https://www.tmtpost.com/7759031.html)
+**发布时间**: 2025-11-11 14:49
+
+#### [IPO仅半个月，“酒店机器人”为何急于出海？](https://www.tmtpost.com/7757828.html)
+**发布时间**: 2025-11-11 14:47
+
+#### [回不去的安世，回不去的“黄金时代”](https://www.tmtpost.com/7757825.html)
+**发布时间**: 2025-11-11 14:47
+
+#### [药易购实控人转让5.23%股权套现1.2亿，受让方已在3个月前进入董事会](https://www.tmtpost.com/7758982.html)
+**发布时间**: 2025-11-11 14:45
+
+#### [李飞飞最新发文：下一个十年，空间智能将成为人类认知的“脚手架”](https://www.tmtpost.com/7758926.html)
+**发布时间**: 2025-11-11 14:09
+
+#### [吉利+旷视系力挺，千里科技当不成“华为第二”](https://www.tmtpost.com/7758273.html)
+**发布时间**: 2025-11-11 13:50
+
+#### [一包薯片就能让你和明星面对面？乐事引爆营销新“王炸”](https://www.tmtpost.com/7756693.html)
+**发布时间**: 2025-11-11 13:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克想要 1 万亿，何小鹏只想等一句「牛 P」](http://www.geekpark.net/news/356276)
+**发布时间**: 2025-11-11 16:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [杨植麟带 Kimi 团队深夜回应：关于 K2 Thinking 爆火后的一切争议](https://www.infoq.cn/article/7ykg0pKDC3H5F18M6Vqy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 15:14
+
+#### [一次性应用出现，个人独角兽崛起：顶级布道师Jeff Barr论AI如何重塑开发者生态｜InfoQ独家采访Jeff Barr](https://www.infoq.cn/article/WqYYuR9ZkdDyOCFCosDF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 14:57
+
+#### [RAG 不止是检索：Milvus 在 Context Engineering 中的湖仓一体实践｜AICon北京](https://www.infoq.cn/article/Ab7ojfo5QSAxFEDohgW6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 14:30
+
+#### [GitHub 推出 AgentHQ，Copilot 生态再扩容](https://www.infoq.cn/article/JspjNB2oM4K1ODkFMfHR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 13:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [甘南川西北自驾 | 在路上集邮式看风景，最美的是不期而遇](https://sspai.com/post/103426)
+**发布时间**: 2025-11-11 15:02
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [大白话看懂：“深蓝重器”的关键信息](http://www.huxiu.com/article/4802513.html?f=wangzhan)
+**发布时间**: 2025-11-11 14:36
 
 ---
 
