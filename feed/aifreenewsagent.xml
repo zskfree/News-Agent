@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Nov 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2025 08:29:58 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 23:20:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>商汤日日新开源模型实现空间智能性能突破，多项评测领先 GPT-5</title>
-      <link>https://www.qbitai.com/2025/11/351028.html</link>
-      <description>&lt;![CDATA[商汤日日新开源模型实现空间智能性能突破，多项评测领先 GPT-5]]&gt;</description>
-      <pubDate>Tue, 11 Nov 2025 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/351028.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Model 3/Y负责人双双辞职！就在马斯克自己涨完薪之后</title>
-      <link>https://www.qbitai.com/2025/11/350996.html</link>
-      <description>&lt;![CDATA[Model 3/Y负责人双双辞职！就在马斯克自己涨完薪之后]]&gt;</description>
-      <pubDate>Tue, 11 Nov 2025 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350996.html</guid>
+      <title>Differentially private machine learning at scale with JAX-Privacy</title>
+      <link>https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/</link>
+      <description>&lt;![CDATA[Differentially private machine learning at scale with JAX-Privacy]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/</guid>
       <category>AI</category>
     </item>
   </channel>
