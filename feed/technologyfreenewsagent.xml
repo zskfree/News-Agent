@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 05:22:36 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 08:30:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Snowflake 推出托管型 MCP 服务器，全面支持安全、可治理的数据智能体部署 | 技术趋势</title>
-      <link>https://www.infoq.cn/article/0sB8e1ov13EccQXXO0uB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 推出托管型 MCP 服务器，全面支持安全、可治理的数据智能体部署 | 技术趋势]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0sB8e1ov13EccQXXO0uB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>11月12日A股分析：沪指险守4000点，两市成交缩量485亿，主力资金净流出超670亿，创新药概念成避风港</title>
+      <link>https://www.tmtpost.com/7760717.html</link>
+      <description>&lt;![CDATA[11月12日A股分析：沪指险守4000点，两市成交缩量485亿，主力资金净流出超670亿，创新药概念成避风港]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760717.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】央行：实施好适度宽松的货币政策，强化货币政策的执行和传导；上纬新材发布机器人预告，智元回应；软银集团：已以58.3亿美元价格售出英伟达股份</title>
-      <link>https://www.tmtpost.com/7759685.html</link>
-      <description>&lt;![CDATA[【钛晨报】央行：实施好适度宽松的货币政策，强化货币政策的执行和传导；上纬新材发布机器人预告，智元回应；软银集团：已以58.3亿美元价格售出英伟达股份]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7759685.html</guid>
+      <title>App+1｜基于「语境」的语言学习操作系统：Deja</title>
+      <link>https://sspai.com/post/103582</link>
+      <description>&lt;![CDATA[App+1｜基于「语境」的语言学习操作系统：Deja]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/103582</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：iPhone Pocket 发布等</title>
-      <link>https://sspai.com/post/103766</link>
-      <description>&lt;![CDATA[派早报：iPhone Pocket 发布等]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/103766</guid>
+      <title>China’s Moonshot AI Unveils Kimi K2 Thinking to Take on GPT-5 and Gemini</title>
+      <link>https://www.tmtpost.com/7760800.html</link>
+      <description>&lt;![CDATA[China’s Moonshot AI Unveils Kimi K2 Thinking to Take on GPT-5 and Gemini]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760800.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grafana和Gitlab引入无服务器CI/CD可观察性集成</title>
-      <link>https://www.infoq.cn/article/1gNJYlMwtzxkm53T7Cho?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Grafana和Gitlab引入无服务器CI/CD可观察性集成]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 12:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1gNJYlMwtzxkm53T7Cho?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI Management Emerges as Next Frontier as Bika.ai Seeks to Redefine &quot;Digital Labor&quot;</title>
+      <link>https://www.tmtpost.com/7760790.html</link>
+      <description>&lt;![CDATA[AI Management Emerges as Next Frontier as Bika.ai Seeks to Redefine &quot;Digital Labor&quot;]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760790.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>9000+ 核跑并行：ClickHouse 数据库让任意查询语句肆意奔驰</title>
-      <link>https://www.infoq.cn/article/bu6OIOSi331zw39hogrW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[9000+ 核跑并行：ClickHouse 数据库让任意查询语句肆意奔驰]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bu6OIOSi331zw39hogrW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>股价接近高点：腾讯不当“中国版巴菲特”</title>
+      <link>https://www.tmtpost.com/7760605.html</link>
+      <description>&lt;![CDATA[股价接近高点：腾讯不当“中国版巴菲特”]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760605.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大小模型协同架构在金融智能投顾中的应用与挑战</title>
-      <link>https://www.infoq.cn/article/RpvH8Ljw23tllpb25zQz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大小模型协同架构在金融智能投顾中的应用与挑战]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RpvH8Ljw23tllpb25zQz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>追觅的“梦想”实在太多了</title>
+      <link>https://www.tmtpost.com/7760631.html</link>
+      <description>&lt;![CDATA[追觅的“梦想”实在太多了]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760631.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>打破 AI 辅助开发碎片化困境，阿里巴巴 R2C Agent 的 AI 编程实践</title>
-      <link>https://www.infoq.cn/article/26Bj1vg2trtwsr96hLwR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[打破 AI 辅助开发碎片化困境，阿里巴巴 R2C Agent 的 AI 编程实践]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/26Bj1vg2trtwsr96hLwR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的</title>
+      <link>https://www.tmtpost.com/7758294.html</link>
+      <description>&lt;![CDATA[失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7758294.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百倍启动加速，大规模Agent部署和运维的捷径是什么？</title>
-      <link>https://www.infoq.cn/video/bG0wHAmbABYZYSqBDBBE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[百倍启动加速，大规模Agent部署和运维的捷径是什么？]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/bG0wHAmbABYZYSqBDBBE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>挖矿中转，灿谷下一站AI基建？</title>
+      <link>https://www.tmtpost.com/7759551.html</link>
+      <description>&lt;![CDATA[挖矿中转，灿谷下一站AI基建？]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7759551.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>数字劳动力爆发前夜：Bika.ai CEO陈霈霖谈AI时代“包工头”的崛起</title>
-      <link>https://www.tmtpost.com/7760492.html</link>
-      <description>&lt;![CDATA[数字劳动力爆发前夜：Bika.ai CEO陈霈霖谈AI时代“包工头”的崛起]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7760492.html</guid>
+      <title>今年双11苹果继续霸榜，国产手机为何“隐身”了？</title>
+      <link>https://www.tmtpost.com/7760707.html</link>
+      <description>&lt;![CDATA[今年双11苹果继续霸榜，国产手机为何“隐身”了？]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760707.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AMD Forecasts 60% Surge in Data Center Revenue Within Five Years</title>
-      <link>https://www.tmtpost.com/7760300.html</link>
-      <description>&lt;![CDATA[AMD Forecasts 60% Surge in Data Center Revenue Within Five Years]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7760300.html</guid>
+      <title>AI短剧成本可降6成、漫剧可降8成！业内人士：AI短剧渗透率将达35%！</title>
+      <link>https://www.tmtpost.com/7760248.html</link>
+      <description>&lt;![CDATA[AI短剧成本可降6成、漫剧可降8成！业内人士：AI短剧渗透率将达35%！]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760248.html</guid>
       <category>Technology</category>
     </item>
   </channel>
