@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Nov 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 23:20:32 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 05:21:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Differentially private machine learning at scale with JAX-Privacy</title>
-      <link>https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/</link>
-      <description>&lt;![CDATA[Differentially private machine learning at scale with JAX-Privacy]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/</guid>
+      <title>OpenAI新模型GPT-5.1发布，不跑分不刷榜，主打一个说人话</title>
+      <link>https://www.qbitai.com/2025/11/351879.html</link>
+      <description>&lt;![CDATA[OpenAI新模型GPT-5.1发布，不跑分不刷榜，主打一个说人话]]&gt;</description>
+      <pubDate>Thu, 13 Nov 2025 04:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/351879.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球首个AI Agent交易市场MuleRun发布2.0版本，上线一个月用户数突破50万</title>
+      <link>https://www.qbitai.com/2025/11/351891.html</link>
+      <description>&lt;![CDATA[全球首个AI Agent交易市场MuleRun发布2.0版本，上线一个月用户数突破50万]]&gt;</description>
+      <pubDate>Thu, 13 Nov 2025 03:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/351891.html</guid>
       <category>AI</category>
     </item>
   </channel>
