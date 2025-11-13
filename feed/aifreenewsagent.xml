@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 13 Nov 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2025 08:28:50 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 23:20:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>百度文库网盘发布GenFlow3.0，活跃用户超2000万，“超级应用成就超级个体”</title>
-      <link>https://www.qbitai.com/2025/11/352188.html</link>
-      <description>&lt;![CDATA[百度文库网盘发布GenFlow3.0，活跃用户超2000万，“超级应用成就超级个体”]]&gt;</description>
-      <pubDate>Thu, 13 Nov 2025 08:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/352188.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Nature公开谷歌IMO金牌模型技术细节！核心团队仅10人，一年给AI编出8000万道数学题训练</title>
-      <link>https://www.qbitai.com/2025/11/352175.html</link>
-      <description>&lt;![CDATA[Nature公开谷歌IMO金牌模型技术细节！核心团队仅10人，一年给AI编出8000万道数学题训练]]&gt;</description>
-      <pubDate>Thu, 13 Nov 2025 07:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/352175.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>滴滴自动驾驶出海，首站落户中东阿布扎比</title>
-      <link>https://www.qbitai.com/2025/11/352168.html</link>
-      <description>&lt;![CDATA[滴滴自动驾驶出海，首站落户中东阿布扎比]]&gt;</description>
-      <pubDate>Thu, 13 Nov 2025 07:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/352168.html</guid>
+      <title>Separating natural forests from other tree cover with AI for deforestation-free supply chains</title>
+      <link>https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/</link>
+      <description>&lt;![CDATA[Separating natural forests from other tree cover with AI for deforestation-free supply chains]]&gt;</description>
+      <pubDate>Thu, 13 Nov 2025 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/</guid>
       <category>AI</category>
     </item>
   </channel>
