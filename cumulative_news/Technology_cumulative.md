@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-13 05:21
+**最后更新时间**: 2025-11-13 08:28
+
+---
+
+## 🆕 最新更新 (2025-11-13 08:28)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小鹏科技日「太魔幻」：机器人走猫步，飞行汽车接近量产](http://www.geekpark.net/news/356380)
+**发布时间**: 2025-11-13 16:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当电影公司开始做短剧，行业真正的变化才刚刚开始](https://www.tmtpost.com/7762967.html)
+**发布时间**: 2025-11-13 15:53
+
+#### [《声鸣远扬》火拼《中国唱将》，“国家队级音综”成色如何？](https://www.tmtpost.com/7762981.html)
+**发布时间**: 2025-11-13 15:53
+
+#### [字节发力，腾讯音乐还能“小而美”吗？](https://www.tmtpost.com/7762281.html)
+**发布时间**: 2025-11-13 15:53
+
+#### [高开不高调的《唐诡3》又来为续写IP现身说法了](https://www.tmtpost.com/7762972.html)
+**发布时间**: 2025-11-13 15:53
+
+#### [源码资本完成新一期双币成长基金募资 总规模达6亿美元 | 募资动态](https://www.tmtpost.com/7762942.html)
+**发布时间**: 2025-11-13 15:20
+
+#### [11月13日A股分析：沪指涨0.73%续创十年新高，创业板指、北证指数涨超2%，两市合计成交20419.62亿元，资金流入最多的概念板块为锂电池、融资融券](https://www.tmtpost.com/7762915.html)
+**发布时间**: 2025-11-13 15:13
+
+#### [安道药业完成超4亿元人民币C轮融资，北极光创投连续多轮支持 | 融资首发](https://www.tmtpost.com/7762919.html)
+**发布时间**: 2025-11-13 15:11
+
+#### [AMD Stock Jumps 9% after Accelerating Sales Outlook and Strategy to Lead $1 Trillion AI Datacenter Market Unveiled](https://www.tmtpost.com/7762906.html)
+**发布时间**: 2025-11-13 15:04
+
+#### [阿里秘密启动新AI项目全面对标ChatGPT，争夺海外用户 | 巴伦精选](https://www.tmtpost.com/7762917.html)
+**发布时间**: 2025-11-13 15:04
+
+#### [起大早、赶大集：百度AI“长期主义”的兑现时刻](https://www.tmtpost.com/7762694.html)
+**发布时间**: 2025-11-13 14:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [与资深AI架构师⼀起，解锁传统行业转型的真实挑战与破局思路](https://www.infoq.cn/article/A2KRmj3EbOy5ZoJ763ky?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-13 15:44
+
+#### [基于多智能体与MCP，中国工商银行软件开发中心普惠金融智能中枢建设探索与实践](https://www.infoq.cn/article/m7mguBli9H4WEjtK2RDs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-13 14:02
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [日本浮生录 10｜追逐棕熊、户外徒步：在北海道遇见最美秋日](https://sspai.com/post/103795)
+**发布时间**: 2025-11-13 15:00
 
 ---
 
