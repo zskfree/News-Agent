@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-13 23:20
+**最后更新时间**: 2025-11-14 05:20
+
+---
+
+## 🆕 最新更新 (2025-11-14 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [车企“卷科技”，豪赌下一个十年？](https://www.tmtpost.com/7764242.html)
+**发布时间**: 2025-11-14 13:10
+
+#### [Tencent Says It Has Sufficient GPUs for HunYuan Model Despite Chip Shortage Curbing Cloud Business](https://www.tmtpost.com/7764604.html)
+**发布时间**: 2025-11-14 13:03
+
+#### [「沃兰特」完成数亿元B+轮融资，金鼎资本独家投资 | 融资首发](https://www.tmtpost.com/7764482.html)
+**发布时间**: 2025-11-14 13:00
+
+#### [Tencent Posts Massive Q3 Profit Beat with a 19% Rise as AI Fuels Ad and Game](https://www.tmtpost.com/7764565.html)
+**发布时间**: 2025-11-14 12:29
+
+#### [环球音乐、Udio和解后，AI音乐的终局是什么？](https://www.tmtpost.com/7764448.html)
+**发布时间**: 2025-11-14 12:13
+
+#### [老商场“爆改”酒店，需要几步？](https://www.tmtpost.com/7764009.html)
+**发布时间**: 2025-11-14 11:20
+
+#### [黄金的又一个十字路口](https://www.tmtpost.com/7764138.html)
+**发布时间**: 2025-11-14 10:47
+
+#### [一大波酒店投资人，开始组团“西南飞”](https://www.tmtpost.com/7764189.html)
+**发布时间**: 2025-11-14 10:25
+
+#### [Apple Cuts App Store Commission for Mini Apps to 15%](https://www.tmtpost.com/7764277.html)
+**发布时间**: 2025-11-14 10:18
+
+#### [China's AI Chip Race Accelerates as "Local Nvidias" Advance IPO Plans Despite Global Market Volatility](https://www.tmtpost.com/7764181.html)
+**发布时间**: 2025-11-14 09:52
+
+#### [一天一个价，存储芯片的“涨价潮”没有尽头？](https://www.tmtpost.com/7764108.html)
+**发布时间**: 2025-11-14 09:27
+
+#### [科股早知道：13.45亿元招标项目启动，可控核聚变正加速从实验验证迈向工程示范](https://www.tmtpost.com/7763998.html)
+**发布时间**: 2025-11-14 08:33
+
+#### [康波周期更迭中的藤校预备役：我们的孩子，是优质资产还是时代泡沫？（上）](https://www.tmtpost.com/7763696.html)
+**发布时间**: 2025-11-14 08:00
+
+#### [国产芯片惊喜不断：两家“中国英伟达”迈向IPO，百度公布昆仑芯“五年计划”](https://www.tmtpost.com/7764011.html)
+**发布时间**: 2025-11-14 07:55
+
+#### [【钛晨报】中国10月金融数据重磅出炉，M2同比增8.2%；阿里秘密启动“千问APP”项目，全面对标ChatGPT争夺海外用户；苹果和腾讯同意对购买微信小游戏收取15%费用？腾讯回应](https://www.tmtpost.com/7763789.html)
+**发布时间**: 2025-11-14 07:20
+
+#### [AI赋能绿色新工业，远景能源大模型加速落地](https://www.tmtpost.com/7763818.html)
+**发布时间**: 2025-11-13 22:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic 研究发现：仅需少量污染文档即可对 LLM 实施投毒](https://www.infoq.cn/article/vLK9YATzkKKPEfDcsyE0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 13:00
+
+#### [微软修复严重性评分达9.9分的ASP.NET Core漏洞](https://www.infoq.cn/article/zwSsK22GONPZruv6Gg0C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 11:54
+
+#### [CodeClash通过多轮编程竞赛对大型语言模型进行基准测试](https://www.infoq.cn/article/ayF7iELxSWyS0CH4eh0e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 11:00
+
+#### [Dev Proxy v1.3.0：HAR文件生成、LLM使用跟踪、增强的API测试功能](https://www.infoq.cn/article/spkw4QjuqNtHuVvUrJga?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 10:35
+
+#### [没活硬整？OpenAI新发的GPT-5.1被网友狂吐槽：我不想和它聊天，我想用它工作](https://www.infoq.cn/article/ORpjd2vf8Tfz1pNq2YUP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 09:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 2025 年选择一台小众手机，我的二手努比亚 Z50S Pro 体验谈](https://sspai.com/post/103723)
+**发布时间**: 2025-11-14 11:30
+
+#### [派早报：OpenAI 发布 GPT-5.1 系列模型、Apple 推出小程序合作伙伴计划](https://sspai.com/post/103816)
+**发布时间**: 2025-11-14 08:34
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [物理AI竞速战刚打响，小鹏就用“猫步”走到了特斯拉前面？](http://www.huxiu.com/article/4804793.html?f=wangzhan)
+**发布时间**: 2025-11-14 10:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传苹果从微信小程序抽成 15%，腾讯回应；特斯拉考虑支持 CarPlay；iPhone Air 成功支持实体卡 |极客早知道](http://www.geekpark.net/news/356400)
+**发布时间**: 2025-11-14 08:10
 
 ---
 
