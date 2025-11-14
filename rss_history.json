@@ -1314,69 +1314,39 @@
         "link": "https://www.qbitai.com/2025/11/352387.html",
         "published_date": "Fri, 14 Nov 2025 02:41:00 GMT",
         "first_seen": "2025-11-14T05:20:38.460915"
+      },
+      "aedfb242a5f4b6bd790e1fc8a10717585a8ee3ed983f2da4afb3ba76fd40da45": {
+        "title": "稚晖君最新188机器人，阅后撤回了",
+        "link": "https://www.qbitai.com/2025/11/352718.html",
+        "published_date": "Fri, 14 Nov 2025 07:58:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.151836"
+      },
+      "ad2192f2b1f874e1f7a6e5f90df6fe648736c899bb5f581251b646bf3b935b3d": {
+        "title": "用155万模拟视频给模型上课！GVE模型一次学会9种视频检索技能",
+        "link": "https://www.qbitai.com/2025/11/352652.html",
+        "published_date": "Fri, 14 Nov 2025 07:50:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.152009"
+      },
+      "5d34e72f4033211fa802c9f7d2dd3b518fdc94212535c3458699cae341cabaa7": {
+        "title": "腾讯总裁剧透微信搭载智能体！阿里和谷歌也都开始互相伤害了",
+        "link": "https://www.qbitai.com/2025/11/352555.html",
+        "published_date": "Fri, 14 Nov 2025 07:12:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.152159"
+      },
+      "a0c6db524ef00df38460ff65fa1db3507d60c482e8897c473651047850e84359": {
+        "title": "发布即开放：百度猎户座葫芦里卖的什么药？",
+        "link": "https://www.qbitai.com/2025/11/352545.html",
+        "published_date": "Fri, 14 Nov 2025 05:57:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.152323"
+      },
+      "b82519ca95ef5d03eefa36e586d9d90c7a222e77bc083095f90c513bda9359c1": {
+        "title": "何必DiT！字节首次拿着自回归，单GPU一分钟生成5秒720p视频 | NeurIPS’25 Oral",
+        "link": "https://www.qbitai.com/2025/11/352439.html",
+        "published_date": "Fri, 14 Nov 2025 05:43:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.152615"
       }
     },
     "Technology": {
-      "1facbabe4ee5e5c00a214bbb90f8121d738a68596523b0d4a5414e4857878c9d": {
-        "title": "OpenAI 研究探讨大语言模型幻觉的成因及潜在解决方案",
-        "link": "https://www.infoq.cn/article/bDPhFBfAXURBdxdPIyil?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170064"
-      },
-      "cef2302ee87ed63bdee89d97180d29e44470d879a9ce9bdd27758a94fca9c18a": {
-        "title": "蚂蚁开源万亿参数思考模型Ring-1T，综合能力逼近GPT-5、数学能力对标IMO银牌",
-        "link": "https://www.infoq.cn/article/c83uUqDugaBXfGHJtgDZ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 11:18:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170077"
-      },
-      "1736267f9a51737a9f7f789f3fd9deee7b2510754184c6bc04fb6999e640de84": {
-        "title": "谷歌DeepMind推出Gemini 2.5计算机使用模型，实现可操作UI的智能体",
-        "link": "https://www.infoq.cn/article/olNjEOA88PwKadejMmLc?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170089"
-      },
-      "5f12b637049b3b71face53f8ac9b160c34908447516d83707189b81f5a80fae7": {
-        "title": "蚂蚁 DeepInsight 智能分析 Agent 在业务场景的落地实践｜QCon 上海",
-        "link": "https://www.infoq.cn/article/zrOiITAsrb0HSOOSGN3y?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 10:12:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170101"
-      },
-      "e0b8542baeb98c7a9adc723905d34d1e457e11ba0222a0cbee3647d72dd92e58": {
-        "title": "Azure Container Storage v2.0.0正式发布，性能大幅提升",
-        "link": "https://www.infoq.cn/article/s5Ey7OWilrwmRpwasTd4?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 09:53:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170050"
-      },
-      "d33d3f4a18a304e5725933649287f3d43bc4bb17f994a073382e9cf42ff6ad5f": {
-        "title": "全年闭店超40家，初代网红85度C大撤退",
-        "link": "https://www.tmtpost.com/7721836.html",
-        "published_date": "Wed, 15 Oct 2025 12:59:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170112"
-      },
-      "ae708cd8c5036d915f453a6853330dbdc6ed539f753b409e8e92c918d9a73517": {
-        "title": "“我们不要怜悯，只要被看见”",
-        "link": "https://www.tmtpost.com/7721679.html",
-        "published_date": "Wed, 15 Oct 2025 12:16:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170122"
-      },
-      "d0b5abea0ed12fa8559ae025a9e3c0a733bad48fd34f2ad13e541056b9102cbf": {
-        "title": "艾伯森公司股价因业绩上涨，数字销售大幅增长的驱动力是什么？",
-        "link": "https://www.tmtpost.com/7721779.html",
-        "published_date": "Wed, 15 Oct 2025 11:57:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170133"
-      },
-      "d4a0c131fa18da6e481c91d495520bd999287463ca1ea4f23f08724f247699c6": {
-        "title": "牛马们都在用的App，要去上海IPO了",
-        "link": "https://www.tmtpost.com/7721715.html",
-        "published_date": "Wed, 15 Oct 2025 11:57:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170143"
-      },
-      "c4939648415c8822b2cb17ccb61beb23aae92770829a3a25ba3ec01d3be8249c": {
-        "title": "瑞士医疗科技公司Sleepiz研发非接触式睡眠监测设备，筛查睡眠呼吸暂停及其他慢性呼吸系统疾病 | 瑞士创新100强",
-        "link": "https://www.tmtpost.com/7721643.html",
-        "published_date": "Wed, 15 Oct 2025 10:51:00 GMT",
-        "first_seen": "2025-10-15T05:20:43.170020"
-      },
       "1aa9d69b06cef8426a961fcfa7d59485c3373cd2301294d37a50dd05e7e5b677": {
         "title": "AI帮科研成果从实验室走进工厂，最快要几步？",
         "link": "https://www.infoq.cn/article/M2dfdE4gfjQ8G4k5LyNM?utm_source=rss&utm_medium=article",
@@ -12188,13 +12158,85 @@
         "link": "http://www.geekpark.net/news/356400",
         "published_date": "Fri, 14 Nov 2025 08:10:00 GMT",
         "first_seen": "2025-11-14T05:20:38.550473"
+      },
+      "1c2f034b6ad6af19e9282ea348155a57c78b80dd3890e7fd24607e8ba940963a": {
+        "title": "从遮秃到时尚，假发成年轻人新宠",
+        "link": "https://www.tmtpost.com/7763698.html",
+        "published_date": "Fri, 14 Nov 2025 16:13:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549675"
+      },
+      "96583c1ecbfea682dec772ae275409b24abecc1e059a5399a936be3ead348673": {
+        "title": "腾讯的悖论",
+        "link": "https://www.tmtpost.com/7764045.html",
+        "published_date": "Fri, 14 Nov 2025 15:17:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.230390"
+      },
+      "6118fcf791d90bcdf42b19523e67b77aee20fe70334cae92b0156acddf9ae752": {
+        "title": "11月14日A股分析：沪指跌0.97%报3990.49点，两市合计成交19580.79亿元，资金流出最多的行业板块为半导体",
+        "link": "https://www.tmtpost.com/7764762.html",
+        "published_date": "Fri, 14 Nov 2025 15:14:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549693"
+      },
+      "66fe43790a564e06241ca0f5fa3e8beddd4b4d2f195e11bc7ed2bdafc67de49d": {
+        "title": "China's Automakers Roll Out Tax-Offset Subsidies as NEV Purchase Incentives Set to Narrow",
+        "link": "https://www.tmtpost.com/7764753.html",
+        "published_date": "Fri, 14 Nov 2025 15:01:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549707"
+      },
+      "658984b1f4d07b43f18daed130b5a1be799967b0dacf8832225b3c099e612382": {
+        "title": "Volant Aerotech Secures Series B+ Financing to Accelerate eVTOL Commercialization",
+        "link": "https://www.tmtpost.com/7764723.html",
+        "published_date": "Fri, 14 Nov 2025 14:43:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549719"
+      },
+      "6755048054dbddcd32e6e40a353f35ea1352cde848df98215b217c3897b0fbba": {
+        "title": "DJI vs. Insta360: How China's AI-Driven Hardware Giants are Reshaping the Global Imaging and Drone Markets",
+        "link": "https://www.tmtpost.com/7764700.html",
+        "published_date": "Fri, 14 Nov 2025 14:21:00 GMT",
+        "first_seen": "2025-11-14T08:28:46.232543"
+      },
+      "5762c11d098182bee5500613d65ad2bf1b945c5873bcd16be7ecca5c12db295b": {
+        "title": "JD.com Stock Sheds Despite Better-Than-Feared Q3 Profit Decline",
+        "link": "https://www.tmtpost.com/7764659.html",
+        "published_date": "Fri, 14 Nov 2025 13:58:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549730"
+      },
+      "d89cc11402e1c63212bb86540ab7b98ea7acd34f9540b146fa88920908e40375": {
+        "title": "穿越沙海：中国AI的中东远征",
+        "link": "https://www.tmtpost.com/7764402.html",
+        "published_date": "Fri, 14 Nov 2025 13:40:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549740"
+      },
+      "2d491d32fec509b57130d02ed61a79e0364b1bb397337a246ee1be2e2a2c9ef2": {
+        "title": "这家椰水公司尚有增长空间，其股价亦有上涨空间",
+        "link": "https://www.tmtpost.com/7764571.html",
+        "published_date": "Fri, 14 Nov 2025 12:38:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549750"
+      },
+      "8956899c96bc24dfae4fe790dbe8f2200755a8952a63ee1840422c8c40bc9a53": {
+        "title": "多模态从技术突破到创新应用落地｜AICon 前瞻",
+        "link": "https://www.infoq.cn/article/YzZuZ06lppLwUVN3VPBu?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 14 Nov 2025 15:23:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549646"
+      },
+      "0892242666b3da6178dc439a8957b8c22fd0000548bc05af28ee4e928ba099a4": {
+        "title": "企业级Agent：构建教育服务的自主进化网络｜AICon北京",
+        "link": "https://www.infoq.cn/article/VNJjObIlQbivf2JBycAu?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 14 Nov 2025 13:45:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549760"
+      },
+      "f32296388ba2defdca83b268931a69db4e45aed955dcac142a29d739ffcb4c0b": {
+        "title": "对话李彦宏：Chatbot 不是一切，我在 AI 上看到了更让人兴奋的未来",
+        "link": "http://www.geekpark.net/news/356414",
+        "published_date": "Fri, 14 Nov 2025 13:50:00 GMT",
+        "first_seen": "2025-11-14T08:29:34.549772"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-14T05:20:38.493674",
-    "Technology": "2025-11-14T05:21:26.839662",
-    "Finance": "2025-11-14T05:20:38.352542"
+    "AI": "2025-11-14T08:28:46.196873",
+    "Technology": "2025-11-14T08:29:34.551422",
+    "Finance": "2025-11-14T08:28:46.040427"
   }
 }

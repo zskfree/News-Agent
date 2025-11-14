@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-14 05:20
+**最后更新时间**: 2025-11-14 08:28
+
+---
+
+## 🆕 最新更新 (2025-11-14 08:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从遮秃到时尚，假发成年轻人新宠](https://www.tmtpost.com/7763698.html)
+**发布时间**: 2025-11-14 16:13
+
+#### [腾讯的悖论](https://www.tmtpost.com/7764045.html)
+**发布时间**: 2025-11-14 15:17
+
+#### [11月14日A股分析：沪指跌0.97%报3990.49点，两市合计成交19580.79亿元，资金流出最多的行业板块为半导体](https://www.tmtpost.com/7764762.html)
+**发布时间**: 2025-11-14 15:14
+
+#### [China's Automakers Roll Out Tax-Offset Subsidies as NEV Purchase Incentives Set to Narrow](https://www.tmtpost.com/7764753.html)
+**发布时间**: 2025-11-14 15:01
+
+#### [Volant Aerotech Secures Series B+ Financing to Accelerate eVTOL Commercialization](https://www.tmtpost.com/7764723.html)
+**发布时间**: 2025-11-14 14:43
+
+#### [DJI vs. Insta360: How China's AI-Driven Hardware Giants are Reshaping the Global Imaging and Drone Markets](https://www.tmtpost.com/7764700.html)
+**发布时间**: 2025-11-14 14:21
+
+#### [JD.com Stock Sheds Despite Better-Than-Feared Q3 Profit Decline](https://www.tmtpost.com/7764659.html)
+**发布时间**: 2025-11-14 13:58
+
+#### [穿越沙海：中国AI的中东远征](https://www.tmtpost.com/7764402.html)
+**发布时间**: 2025-11-14 13:40
+
+#### [这家椰水公司尚有增长空间，其股价亦有上涨空间](https://www.tmtpost.com/7764571.html)
+**发布时间**: 2025-11-14 12:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [多模态从技术突破到创新应用落地｜AICon 前瞻](https://www.infoq.cn/article/YzZuZ06lppLwUVN3VPBu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 15:23
+
+#### [企业级Agent：构建教育服务的自主进化网络｜AICon北京](https://www.infoq.cn/article/VNJjObIlQbivf2JBycAu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 13:45
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话李彦宏：Chatbot 不是一切，我在 AI 上看到了更让人兴奋的未来](http://www.geekpark.net/news/356414)
+**发布时间**: 2025-11-14 13:50
 
 ---
 
