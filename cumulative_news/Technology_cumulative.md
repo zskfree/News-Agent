@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-14 08:28
+**最后更新时间**: 2025-11-14 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-14 23:19)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iOS 为微信小程序「正名」，腾讯移动生态的新转机](http://www.geekpark.net/news/356450)
+**发布时间**: 2025-11-15 02:29
+
+#### [GPT 5.1 发布了，但西方媒体准备「讲好中国故事」](http://www.geekpark.net/news/356448)
+**发布时间**: 2025-11-14 17:44
+
+#### [AI、游戏双驱动，腾讯「赚麻了」](http://www.geekpark.net/news/356444)
+**发布时间**: 2025-11-14 17:07
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [要成为电动车时代的高尔夫，零跑Lafa5的答案还不够完整](https://www.tmtpost.com/7765509.html)
+**发布时间**: 2025-11-14 21:37
+
+#### [这届网友，拍照不用美颜](https://www.tmtpost.com/7765226.html)
+**发布时间**: 2025-11-14 20:52
+
+#### [星巴克、汉堡王……“洋品牌”的中国剧本彻底变了](https://www.tmtpost.com/7765123.html)
+**发布时间**: 2025-11-14 19:59
+
+#### [价格翻倍的「金条」，等等党组不起电脑](https://www.tmtpost.com/7765168.html)
+**发布时间**: 2025-11-14 19:59
+
+#### [回港上市，唯品会再拼一把？](https://www.tmtpost.com/7765145.html)
+**发布时间**: 2025-11-14 19:52
+
+#### [运动相机卖爆了，但“大疆们”怎么应对手机厂商的挑战？](https://www.tmtpost.com/7765033.html)
+**发布时间**: 2025-11-14 19:52
+
+#### [苏超爆火、网球旅游异军突起、马拉松停摆，旅游正在抛弃大众拥抱圈层?](https://www.tmtpost.com/7764437.html)
+**发布时间**: 2025-11-14 19:52
+
+#### [Trodelvy越走越窄了](https://www.tmtpost.com/7764232.html)
+**发布时间**: 2025-11-14 19:52
+
+#### [奇瑞风云的“天梯风暴”，意外事件如何牵动整个体系？](https://www.tmtpost.com/7764719.html)
+**发布时间**: 2025-11-14 19:52
+
+#### [车企直播卖车，从“选修课”变成“必修课”](https://www.tmtpost.com/7765268.html)
+**发布时间**: 2025-11-14 19:52
+
+#### [时空科技跨界闯关：自揭存储标的“含金量”短板，补充“不夺权”承诺 ｜并购一线](https://www.tmtpost.com/7765317.html)
+**发布时间**: 2025-11-14 19:42
+
+#### [为各大平台种草的小红书，在这个双十一有什么不同？](https://www.tmtpost.com/7765328.html)
+**发布时间**: 2025-11-14 19:28
+
+#### [波司登首家VERTEX概念店落地沈阳；量子之歌正式更名奇梦岛；On昂跑第三季度亚太区销售增109.2%｜消研所周报](https://www.tmtpost.com/7765247.html)
+**发布时间**: 2025-11-14 18:59
+
+#### [京东健康的“超级医药供应链”，含金量还在上升](https://www.tmtpost.com/7765098.html)
+**发布时间**: 2025-11-14 18:40
+
+#### [隆鑫通用“割肉”亏损资产：损失超7000万，另一海外资产剥离仍陷僵局](https://www.tmtpost.com/7765149.html)
+**发布时间**: 2025-11-14 18:08
+
+#### [两月股价暴涨300%，透视“新妖王”振德医疗](https://www.tmtpost.com/7764363.html)
+**发布时间**: 2025-11-14 18:05
+
+#### [信邦智能28.56亿豪赌车规芯片，4倍溢价遭市场用脚投票](https://www.tmtpost.com/7765037.html)
+**发布时间**: 2025-11-14 17:49
+
+#### [连小红书都想给这届年轻人找个班上](https://www.tmtpost.com/7764944.html)
+**发布时间**: 2025-11-14 17:41
+
+#### [车企通过这些“乱收费”降低了多少售价？](https://www.tmtpost.com/7764901.html)
+**发布时间**: 2025-11-14 17:41
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [明星在电影里不值钱了？](http://www.huxiu.com/article/4804614.html?f=wangzhan)
+**发布时间**: 2025-11-14 20:00
+
+#### [环球音乐和解后，AI音乐的终局是什么？](http://www.huxiu.com/article/4804970.html?f=wangzhan)
+**发布时间**: 2025-11-14 19:56
+
+#### [苹果一块布卖1899，凭啥？](http://www.huxiu.com/article/4805262.html?f=wangzhan)
+**发布时间**: 2025-11-14 18:09
+
+#### [巴菲特的捡烟蒂策略还赚钱吗？股票估值越低越好吗？](http://www.huxiu.com/article/4805187.html?f=wangzhan)
+**发布时间**: 2025-11-14 17:45
+
+#### [大量细节彩蛋曝光，空军76周年微电影《梦远》想告诉我们什么？](http://www.huxiu.com/article/4804585.html?f=wangzhan)
+**发布时间**: 2025-11-14 17:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103836)
+**发布时间**: 2025-11-14 18:04
+
+#### [试读 | 《蓝皮书》系列新版上架，一起探索全新 iOS 和 macOS 的精彩](https://sspai.com/post/103832)
+**发布时间**: 2025-11-14 16:40
+
+#### [App Store 大更新：推出新的开发者计划，降低计划分成比例](https://sspai.com/post/103833)
+**发布时间**: 2025-11-14 16:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [安全新动态：数据与 AI 的主动安全防护、企业级深度防御等更多内容 | 技术趋势](https://www.infoq.cn/article/2F3fNUbJf9lmJcDAUmPT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 17:44
+
+#### [货拉拉用户画像基于 Apache Doris 的数据模型设计与实践](https://www.infoq.cn/article/eAhZ0lvltkQ4s9hXiYAI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 17:25
+
+#### [分钟级定位 IO 瓶颈：多租户云环境下的智能诊断](https://www.infoq.cn/article/72lh5fQcxxradXu8meJX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 17:18
+
+#### [两年半，从0到2000亿：Cursor刷新全球AI编程估值天花板](https://www.infoq.cn/article/vt4fvYpdrQKvpPtRdRUs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 16:47
+
+#### [百倍启动加速，大规模Agent部署和运维的捷径是什么？](https://www.infoq.cn/article/K8NOKXPPIq1OCgQodwUF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-14 16:32
 
 ---
 
