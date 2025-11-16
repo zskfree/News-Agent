@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3812f626185fa991101ca15dd381843a0ba39e1a360684e82aa41da4fe428b3c": {
-        "title": "Using AI to identify genetic variants in tumors with DeepSomatic",
-        "link": "https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/",
-        "published_date": "Thu, 16 Oct 2025 16:33:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.477603"
-      },
-      "9f519a3635d8b02ce40791db88b9cd1df8ae56a8900ba765d51a5b1e17598853": {
-        "title": "黄仁勋女儿直播亮相，聊了具身智能",
-        "link": "https://www.qbitai.com/2025/10/342649.html",
-        "published_date": "Thu, 16 Oct 2025 10:52:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.477753"
-      },
-      "7f58b32cdcebc460f1c69da61d5d2c50bd17d96e5567104753ceedabdbccef03": {
-        "title": "雷军公开发言了！呼吁抵制水军黑公关，资源集中技术研发",
-        "link": "https://www.qbitai.com/2025/10/342428.html",
-        "published_date": "Thu, 16 Oct 2025 10:23:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.477924"
-      },
-      "53cc51c2d79dbcb3f6183a5eabdcee302ff5358fbb849ebefe4b68a505a06467": {
-        "title": "阿里发布Qoder CLI，可在终端一键实现AI编程",
-        "link": "https://www.qbitai.com/2025/10/342420.html",
-        "published_date": "Thu, 16 Oct 2025 08:43:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.478153"
-      },
-      "86262f59fb85009cef65609800616425fbf8074ec7aaa4898e74f841f354f179": {
-        "title": "全球计算机系统领域“奥运会”SOSP公布最佳论文 “星绽”OS入选",
-        "link": "https://www.qbitai.com/2025/10/342415.html",
-        "published_date": "Thu, 16 Oct 2025 08:34:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.478443"
-      },
       "55bd1d37383800baaa914d8fcb81cdda52392afa8585154e0e8abb7f38d542fa": {
         "title": "李飞飞发布全新世界模型，单GPU就能跑！",
         "link": "https://www.qbitai.com/2025/10/342735.html",
@@ -1278,129 +1248,21 @@
         "link": "https://www.qbitai.com/2025/11/352439.html",
         "published_date": "Fri, 14 Nov 2025 05:43:00 GMT",
         "first_seen": "2025-11-14T08:28:46.152615"
+      },
+      "78d59530272b1c720f731338dbbd3c4bd355cda42a45fee47624c8720bc1104d": {
+        "title": "库克被曝最早明年让位CEO，“苹果AI已落后同行2年”",
+        "link": "https://www.qbitai.com/2025/11/353022.html",
+        "published_date": "Sun, 16 Nov 2025 04:29:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.015228"
+      },
+      "bde7e85df7f6b8363d4581a7e0a4a670cbae04606d625016e8464f987b11f4ed": {
+        "title": "小度AI眼镜Pro 2299元起售：这次把“超能小度”塞进了39g的眼镜里",
+        "link": "https://www.qbitai.com/2025/11/353007.html",
+        "published_date": "Sun, 16 Nov 2025 03:42:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.015410"
       }
     },
     "Technology": {
-      "0103ef597f866cdc8566ce2483fa9f3b9c506eb16fa5b5032ef56073ba2a66a4": {
-        "title": "苹果M5发布，Cursor用户狂喜！网友：Siri终于要听懂我了？",
-        "link": "https://www.infoq.cn/article/mZ2VM9HoQ6kGC4gy7lHs?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 07:00:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062438"
-      },
-      "b359095916e051d68f44f978d322786a024f9c6ed98514ed396ae81dcbba3ea3": {
-        "title": "智光电气拟购买控股子公司智光储能股权；国内封装测试龙头拟收购“兄弟公司”【并购一线】",
-        "link": "https://www.tmtpost.com/7725676.html",
-        "published_date": "Thu, 16 Oct 2025 22:04:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062502"
-      },
-      "cc96be8ebd05d3edc04073f87c87d202f1dbd521b00cbeb59ff5db5542015dfe": {
-        "title": "三大动能助推股市涨势，年末行情有何可期？",
-        "link": "https://www.tmtpost.com/7725723.html",
-        "published_date": "Thu, 16 Oct 2025 21:41:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062512"
-      },
-      "92ec2ff3d7e4529d18d01622cf43667a10bca886766c93df99f62da6efb8c54a": {
-        "title": "标普500收益率疲软，不妨关注这三支基金与股票",
-        "link": "https://www.tmtpost.com/7725721.html",
-        "published_date": "Thu, 16 Oct 2025 21:40:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062522"
-      },
-      "160163f3357445922a63383753ee9485b3d1144e4fc736e6c0831704ee1561a0": {
-        "title": "控股股东股权连环拍卖，曲江文旅身陷化债链条漩涡",
-        "link": "https://www.tmtpost.com/7725611.html",
-        "published_date": "Thu, 16 Oct 2025 20:52:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062532"
-      },
-      "471e14bc4d7220a7a17c5fdac2080026c466bc6c329f2de0f5535c688e3ce10d": {
-        "title": "什么能让黄金涨势戛然而止？几乎没有",
-        "link": "https://www.tmtpost.com/7725521.html",
-        "published_date": "Thu, 16 Oct 2025 19:23:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062541"
-      },
-      "8f47dc31118efd3dc512d21a16ce0e8b005af11fe6b5a6b59aea630e4126d95c": {
-        "title": "大厂AI各走“开源”路",
-        "link": "https://www.tmtpost.com/7725371.html",
-        "published_date": "Thu, 16 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062550"
-      },
-      "a7a897a363d6438421d556dfc015458fafc2f467019d45d233c55c14e4d39906": {
-        "title": "Tips：财报里的“计提”是什么？通用汽车案例分析",
-        "link": "https://www.tmtpost.com/7725243.html",
-        "published_date": "Thu, 16 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062560"
-      },
-      "0bad5f0baa5556b6a47ce7b133f534661068804b1d923d390de3308f0a2e7a12": {
-        "title": "电力供需失衡，正是大好商机，虚拟电厂如何成为下一个大风口？",
-        "link": "https://www.tmtpost.com/7725469.html",
-        "published_date": "Thu, 16 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.531763"
-      },
-      "d2925805ddf2d995054a48fabd75ce784e5a05e4efb7e84af55475c13dbf42a9": {
-        "title": "为丰富服装产品矩阵，红豆股份拟以4.85亿元收购关联方线上业务资产组",
-        "link": "https://www.tmtpost.com/7725337.html",
-        "published_date": "Thu, 16 Oct 2025 18:41:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062470"
-      },
-      "7bf5feb6e6e564971c7d86cfc69c38dd459db5b458f93aad2f60330fd222b3a5": {
-        "title": "迈入“巨作时代”，小游戏彻底杀疯了",
-        "link": "https://www.tmtpost.com/7725288.html",
-        "published_date": "Thu, 16 Oct 2025 18:40:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.532670"
-      },
-      "be83c48ec1f425ccd81bd096f9060b1bd5e29801e8c034e36ce2f997507886b5": {
-        "title": "“霸气” 台积电，才是 AI 时代最强王者？",
-        "link": "https://www.tmtpost.com/7725342.html",
-        "published_date": "Thu, 16 Oct 2025 18:27:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.533192"
-      },
-      "26bda3b8dcdbccf39408891ff3f69f1b8c7c726c8f3ab6c1922ead2ab74334a0": {
-        "title": "极星关掉最后一家直营店，重资产时代的幻象正在破裂",
-        "link": "https://www.tmtpost.com/7725367.html",
-        "published_date": "Thu, 16 Oct 2025 18:09:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.533718"
-      },
-      "71d0d2774329ee5bf09697385cf8f2bd01deaba1bb74e090ae1f013c7435a878": {
-        "title": "玩不转“地产+旅游”，港中旅和华侨城还是想做开发商",
-        "link": "https://www.tmtpost.com/7725204.html",
-        "published_date": "Thu, 16 Oct 2025 17:15:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.534373"
-      },
-      "56b2bc2c1c9a6cbc544e9b54ba7c8fb6de9091b6ef1af8ec2fcf9bc5ba64edba": {
-        "title": "直播救活夫妻店：县城没有主理人，只有守店人",
-        "link": "https://www.tmtpost.com/7725136.html",
-        "published_date": "Thu, 16 Oct 2025 17:15:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.534982"
-      },
-      "9d286e52cd50539937d7c92c7cb140bb3bc5e20d86c0be799a1b011d84770043": {
-        "title": "具透 Plus | iOS 26 密码导出功能幕后；Pixel 5G 网络启用方案遭封堵",
-        "link": "https://sspai.com/prime/story/inside-release-notes-251016",
-        "published_date": "Thu, 16 Oct 2025 17:56:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.535991"
-      },
-      "a3d107a3e8761257287a5aabbed0c2ed2dac33bc706fe9232d45ca34a06cc2cb": {
-        "title": "新玩意 223｜少数派的编辑们最近买了啥？",
-        "link": "https://sspai.com/post/103144",
-        "published_date": "Thu, 16 Oct 2025 17:46:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.536698"
-      },
-      "62e8672da581a4a1fe34355999cdbb674afcd3f73e6151c42d37ec31ae8676ac": {
-        "title": "借助捷径，不写代码也能玩转 Quote/0",
-        "link": "https://sspai.com/post/102845",
-        "published_date": "Thu, 16 Oct 2025 15:38:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.537489"
-      },
-      "5f40f0e07c190f5681b1f0a38a974fc77ab8190c77fcb3e83866c1e4341643e9": {
-        "title": "AI 时代，用一场「快闪」改变命运｜IF 2026「AI 产品快闪」启动召集！",
-        "link": "http://www.geekpark.net/news/355060",
-        "published_date": "Thu, 16 Oct 2025 16:31:00 GMT",
-        "first_seen": "2025-10-16T23:22:55.062488"
-      },
-      "ff8f375901cd434456074d131f28f07b4924c1846ae0dcedf052a76b2f54bf09": {
-        "title": "IF 2026 启动：来看看 AI 面前，谁在掌握主动权？",
-        "link": "http://www.geekpark.net/news/355059",
-        "published_date": "Thu, 16 Oct 2025 16:30:00 GMT",
-        "first_seen": "2025-10-16T23:22:06.539670"
-      },
       "ceb1e7e5382b00cf98853be9b7052866f1e8bb706a0145e46286e71b487eeab9": {
         "title": "谷歌 DeepMind 推出 CodeMender：自动修复代码的智能代理",
         "link": "https://www.infoq.cn/article/IKRjkledRZfzI1OK2IOl?utm_source=rss&utm_medium=article",
@@ -11912,13 +11774,43 @@
         "link": "https://www.tmtpost.com/7765275.html",
         "published_date": "Sat, 15 Nov 2025 09:26:00 GMT",
         "first_seen": "2025-11-15T23:18:59.690639"
+      },
+      "ed3b2fb5f6368dc784f077b3fabc51e9c2c9057a54bb928579f734b81fa1ca47": {
+        "title": "从千元股到百元股，“医美茅”爱美客为何“熄火”？",
+        "link": "https://www.tmtpost.com/7766371.html",
+        "published_date": "Sun, 16 Nov 2025 11:28:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.126823"
+      },
+      "3aad12e0182527abc3e8001d395e11eac25409b816aeb0c974f605670b909887": {
+        "title": "宋佳、钟楚曦双双捧杯金鸡奖，女性力量在这一刻具象化了",
+        "link": "https://www.tmtpost.com/7766386.html",
+        "published_date": "Sun, 16 Nov 2025 09:32:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.126963"
+      },
+      "9c8569e2d69b92ae0872ab09274d343b9cb66603871b360898476e4d564ee3d0": {
+        "title": "广告集团加速抱团：Havas正酝酿一笔针对WPP的交易",
+        "link": "https://www.tmtpost.com/7766415.html",
+        "published_date": "Sun, 16 Nov 2025 09:32:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.127110"
+      },
+      "6e219c6abdacacab0b9b9e44786b698e5a492d75a263beaa7c41b7b6e9f6f541": {
+        "title": "制造业的AI转型",
+        "link": "https://www.tmtpost.com/7766400.html",
+        "published_date": "Sun, 16 Nov 2025 08:28:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.127248"
+      },
+      "97fe2fe6d06d91159d8ab34da4eecf50aa82ab95f0ce696878ec98aa697c14fb": {
+        "title": "宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售",
+        "link": "http://www.geekpark.net/news/356460",
+        "published_date": "Sun, 16 Nov 2025 09:09:00 GMT",
+        "first_seen": "2025-11-16T05:20:09.127569"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-15T23:18:59.656665",
-    "Technology": "2025-11-15T23:18:59.736574",
-    "Finance": "2025-11-15T23:18:59.543818"
+    "AI": "2025-11-16T05:20:09.093327",
+    "Technology": "2025-11-16T05:20:09.134670",
+    "Finance": "2025-11-16T05:20:08.910825"
   }
 }
