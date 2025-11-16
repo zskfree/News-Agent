@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-16 08:25
+**最后更新时间**: 2025-11-16 23:18
+
+---
+
+## 🆕 最新更新 (2025-11-16 23:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Kiro开放公测：AI编程谁都会，能帮你上线才叫AI IDE](https://www.infoq.cn/article/ZrKCUsTy6AD4ikHeoCvp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 00:09
+
+#### [全新AI开发工具Kiro首次亮相AdventureX 2025！](https://www.infoq.cn/article/zEAv8d1YTAl6ieFSbcWb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 00:09
+
+#### [OPPO高级算法工程师杨俊确认出席AICon北京站，分享小布智能助手的个性化深度研究实践](https://www.infoq.cn/article/BZG3kiu86dtZUrIOPmvS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-16 19:28
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [被曲解的雷军：“安全至上”与“好看第一”并不冲突](http://www.huxiu.com/article/4805875.html?f=wangzhan)
+**发布时间**: 2025-11-16 20:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [双十一急需增长：蒋凡有野心，淘天有压力](https://www.tmtpost.com/7766667.html)
+**发布时间**: 2025-11-16 19:08
+
+#### [研发费用率超30%，中微公司还能再进一步吗](https://www.tmtpost.com/7766710.html)
+**发布时间**: 2025-11-16 17:43
+
+#### [隆基绿能，最近憋了哪些大招？](https://www.tmtpost.com/7766602.html)
+**发布时间**: 2025-11-16 17:35
+
+#### [禾赛机器人救场，但还不够？](https://www.tmtpost.com/7766489.html)
+**发布时间**: 2025-11-16 17:35
+
+#### [AR四小龙，「危」机交织进行时](https://www.tmtpost.com/7766498.html)
+**发布时间**: 2025-11-16 17:34
+
+#### [从谷歌到寒武纪，挑战英伟达的两种路径](https://www.tmtpost.com/7766542.html)
+**发布时间**: 2025-11-16 17:34
+
+#### [做空英伟达的华尔街大空头，基金清盘了](https://www.tmtpost.com/7766592.html)
+**发布时间**: 2025-11-16 17:22
+
+#### [解密AI“黄埔军校”，10人撑起700亿美元估值](https://www.tmtpost.com/7766650.html)
+**发布时间**: 2025-11-16 17:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜AI + Notion：省时省心的小红书收藏夹整理归类](https://sspai.com/post/103756)
+**发布时间**: 2025-11-16 16:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [大疆 OSMO Action 6 体验：完美进化，不止运动](http://www.geekpark.net/news/356451)
+**发布时间**: 2025-11-15 02:32
 
 ---
 

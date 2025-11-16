@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Nov 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2025 08:26:01 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 23:18:00 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 23:19:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>短视频刷多了AI也会变蠢！“年度最令人不安的论文”</title>
-      <link>https://www.qbitai.com/2025/11/353155.html</link>
-      <description>&lt;![CDATA[短视频刷多了AI也会变蠢！“年度最令人不安的论文”]]&gt;</description>
-      <pubDate>Sun, 16 Nov 2025 05:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353155.html</guid>
+      <title>奇瑞发布「安徽版享界S9」，世界模型加持，携手Momenta挑战云南山路68弯</title>
+      <link>https://www.qbitai.com/2025/11/353316.html</link>
+      <description>&lt;![CDATA[奇瑞发布「安徽版享界S9」，世界模型加持，携手Momenta挑战云南山路68弯]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353316.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>52个人用AI做PPT，年赚7个亿</title>
+      <link>https://www.qbitai.com/2025/11/353297.html</link>
+      <description>&lt;![CDATA[52个人用AI做PPT，年赚7个亿]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353297.html</guid>
       <category>AI</category>
     </item>
   </channel>

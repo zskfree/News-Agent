@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "01fb0f0fe37ebcc04e837f290ef8fee3b9ef819ccb1b8df1fca7bc1392717f00": {
-        "title": "400元遥操95%机械臂！上海交大推出开源项目U-Arm，打造通用、低成本的人机遥操作接口",
-        "link": "https://www.qbitai.com/2025/10/342796.html",
-        "published_date": "Fri, 17 Oct 2025 07:18:00 GMT",
-        "first_seen": "2025-10-17T08:27:58.938837"
-      },
-      "04c1d8cd00823cac78e8aa9694aaab3a0ff80a7c24b8b91e8faaa0f290b0ee0d": {
-        "title": "爱诗科技完成B+轮1亿元融资，ARR突破4000万美金",
-        "link": "https://www.qbitai.com/2025/10/342786.html",
-        "published_date": "Fri, 17 Oct 2025 07:08:00 GMT",
-        "first_seen": "2025-10-17T08:27:58.939017"
-      },
-      "fb4fbb4212b092ace3370969a85aa72fd13e205081a6644fcf58330e42105cdf": {
-        "title": "AGI今天起有了量化标准！Bengio牵头定义，当前进度条58%",
-        "link": "https://www.qbitai.com/2025/10/342761.html",
-        "published_date": "Fri, 17 Oct 2025 06:11:00 GMT",
-        "first_seen": "2025-10-17T08:27:58.939202"
-      },
       "c9a3a8cdec5fd20db3d732d07ec531f0860a987d1aaafa89eeb179c7b7345d76": {
         "title": "Solving virtual machine puzzles: How AI is optimizing cloud computing",
         "link": "https://research.google/blog/solving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing/",
@@ -1230,117 +1212,21 @@
         "link": "https://www.qbitai.com/2025/11/353155.html",
         "published_date": "Sun, 16 Nov 2025 05:38:00 GMT",
         "first_seen": "2025-11-16T08:26:01.253855"
+      },
+      "34954833d34043a69dd2bac249b2911d9531b2d7bc52dfed9d2060b5d012078b": {
+        "title": "奇瑞发布「安徽版享界S9」，世界模型加持，携手Momenta挑战云南山路68弯",
+        "link": "https://www.qbitai.com/2025/11/353316.html",
+        "published_date": "Sun, 16 Nov 2025 13:16:00 GMT",
+        "first_seen": "2025-11-16T23:19:02.351861"
+      },
+      "0908edde046da3d56e46dea8f10d1ffed17ef02d56948d868d50c2d6411952d0": {
+        "title": "52个人用AI做PPT，年赚7个亿",
+        "link": "https://www.qbitai.com/2025/11/353297.html",
+        "published_date": "Sun, 16 Nov 2025 10:31:00 GMT",
+        "first_seen": "2025-11-16T23:19:02.352017"
       }
     },
     "Technology": {
-      "5bcfc72b461aee487323de7bbd67df026020c0481e47a868cee8f6dc052495eb": {
-        "title": "Nio Shares Tumble After Singapore Sovereign Wealth Fund Sues Over Battery Revenue Claims",
-        "link": "https://www.tmtpost.com/7729889.html",
-        "published_date": "Fri, 17 Oct 2025 15:54:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293672"
-      },
-      "55cedf1c58e354f1ad1a9e02ba3f66040d9f0ade54eca19d94d36f7b7a927570": {
-        "title": "当AI与老人相爱，谁来为“爱”买单？",
-        "link": "https://www.tmtpost.com/7726008.html",
-        "published_date": "Fri, 17 Oct 2025 15:25:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293689"
-      },
-      "52025665985c0bb24029572dd2abaf5085477b6ee66ea7dc5324e33dec099d73": {
-        "title": "康斯特雷莱能源公司拥有人工智能所需的动力，首席执行官正充分利用这一优势",
-        "link": "https://www.tmtpost.com/7729842.html",
-        "published_date": "Fri, 17 Oct 2025 15:21:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293700"
-      },
-      "0ce9b3332e0ddb75f0abe2208451f59e5e392285bd978b7a622d5b56aaaf338d": {
-        "title": "一个“社会人”会买什么？阿里双11发动AI和即时零售一起看一看",
-        "link": "https://www.tmtpost.com/7726463.html",
-        "published_date": "Fri, 17 Oct 2025 14:54:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293712"
-      },
-      "6cc805a78614cdce495823dfe49ce765817a52d91328346e2cfcb29db6cff7eb": {
-        "title": "短剧新资源战打响：无“IP”不爆款",
-        "link": "https://www.tmtpost.com/7726135.html",
-        "published_date": "Fri, 17 Oct 2025 14:39:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293725"
-      },
-      "799b1edf883782c8720703d614680e8f3680fcb632e9c583b44ae716bab32e65": {
-        "title": "单月超70款新车炸场，车市四季度压力上架",
-        "link": "https://www.tmtpost.com/7725933.html",
-        "published_date": "Fri, 17 Oct 2025 14:09:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293735"
-      },
-      "34c4a331a5f0d9d6815a4075dcdb0d7898fd90459ace88694cf2b08b011b8bb4": {
-        "title": "从小镇开到魔都，背包十年的扩张之道……",
-        "link": "https://www.tmtpost.com/7725449.html",
-        "published_date": "Fri, 17 Oct 2025 14:09:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293745"
-      },
-      "641190507abe2c28b60cf3709e37c0786cef6001909b6ddc8ecd164e7ae0c253": {
-        "title": "Oracle Confirms Deal with Meat, Sees AI Cloud Margin Up to 40% to Reassure Investors",
-        "link": "https://www.tmtpost.com/7726413.html",
-        "published_date": "Fri, 17 Oct 2025 14:05:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293759"
-      },
-      "cbf9ed2c87284602a1c1230af54e61c49cda26849aca6900be6e59535635cfc0": {
-        "title": "健信超导：毛利率远落后同行，“硬科技”定位引质疑，客户集中且关联交易存疑｜IPO观察",
-        "link": "https://www.tmtpost.com/7726383.html",
-        "published_date": "Fri, 17 Oct 2025 14:01:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293585"
-      },
-      "5b9a66ae93e6b4d63db685efd5f80735755986d49a651206af55cc708108934e": {
-        "title": "沐曦 MetaX 团队联合 HAMi 推出统一调度方案：实现 sGPU 共享、三档 QoS、拓扑智能调度与 WebUI 全面适配",
-        "link": "https://www.infoq.cn/article/CJSEIXxKzO9QYRoHShrT?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 15:38:00 GMT",
-        "first_seen": "2025-10-17T08:27:58.997703"
-      },
-      "af0fad99b37f17d069ff26caf9d5d238e9834b5582ecaadc0b71535178327eea": {
-        "title": "AI 时代可观测性的“智”变与“智”控 ｜InfoQ《极客有约》",
-        "link": "https://www.infoq.cn/video/YOTeVHta0A3Xqq2l4Bbp?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 14:57:00 GMT",
-        "first_seen": "2025-10-17T08:27:58.998490"
-      },
-      "163b191fad9a1cbf8e9412164b397140763aebbed1cc330bbd091890095d3dd9": {
-        "title": "不到半年就传解散！两轮数亿融资刚落地，这家机器人公司就“无”了？",
-        "link": "https://www.infoq.cn/article/5xAfQsAESr7khmBzBdLP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 14:42:00 GMT",
-        "first_seen": "2025-10-17T08:27:58.999308"
-      },
-      "0c4fdbadcf1fe7cfcb4e3d29449e5923cc95c4f250f0c86258d87d083c3803d5": {
-        "title": "明星AI编码助手涨价10倍惹怒开发者！CEO 回应：有人花千元薅了我们10多万，不挣钱不可持续",
-        "link": "https://www.infoq.cn/article/8vgeCKpQ5E7XsT9NmS1Q?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 14:34:00 GMT",
-        "first_seen": "2025-10-17T08:27:59.000365"
-      },
-      "b231d27d2f92bbf23d7f6195abdbc480da4d53cda1db2d7259f64ba85e1dac4c": {
-        "title": "Mobvista蔡超：多智能体不是“可选项”，而是软件未来的“必答题”",
-        "link": "https://www.infoq.cn/article/EkgbOFf2QOp3QKMDIIpJ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 14:30:00 GMT",
-        "first_seen": "2025-10-17T08:27:59.001410"
-      },
-      "5372e04b0045416f12ff6b7b62978fb4adf08792e274844c1fe20d7a7256f873": {
-        "title": "HashiCorp 警告称传统密钥扫描工具日渐落伍",
-        "link": "https://www.infoq.cn/article/vOery4TH4723K8FQuEQ7?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-17T08:27:59.002260"
-      },
-      "d90ef2b2eadf2cb187b8d80741c28f3aee0842be405dc4f0cdab7def1dad4509": {
-        "title": "我做了一个有趣的实验，在二维坐标上画下我的 3000+ 笔记",
-        "link": "https://sspai.com/post/103035",
-        "published_date": "Fri, 17 Oct 2025 15:03:00 GMT",
-        "first_seen": "2025-10-17T08:27:59.003219"
-      },
-      "30886375e71167a9a6cc63d14aeebacc71a22518529b6d6ea7c2940317dedb90": {
-        "title": "我的手机高像素难道是“假”的？",
-        "link": "http://www.huxiu.com/article/4793057.html?f=wangzhan",
-        "published_date": "Fri, 17 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-17T08:27:59.003965"
-      },
-      "d17b1b38dbecef676501fe76af6208ae9191cb19e643b8334751c4f22bf18e7c": {
-        "title": "一口气解读新凯来两大关键突破，意味着什么？",
-        "link": "http://www.huxiu.com/article/4792535.html?f=wangzhan",
-        "published_date": "Fri, 17 Oct 2025 14:10:00 GMT",
-        "first_seen": "2025-10-17T08:28:47.293651"
-      },
       "14afe8523f785e52ddf115ad41082543c0312419296ec6a5cd0b1e11242d5d7e": {
         "title": "程序员用AI写歌还赚钱了！用AI 批量生产“爆款”，这个副业“杀疯了”？",
         "link": "https://www.infoq.cn/article/8QEPrSVWRWHO6qxSZOAY?utm_source=rss&utm_medium=article",
@@ -11654,13 +11540,91 @@
         "link": "http://www.geekpark.net/news/356458",
         "published_date": "Sun, 16 Nov 2025 15:22:00 GMT",
         "first_seen": "2025-11-16T08:26:01.311028"
+      },
+      "b13e87278556fafca98ad785275eb13a7b5d24d1b45718191f915d37164ea791": {
+        "title": "Kiro开放公测：AI编程谁都会，能帮你上线才叫AI IDE",
+        "link": "https://www.infoq.cn/article/ZrKCUsTy6AD4ikHeoCvp?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 17 Nov 2025 00:09:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.718971"
+      },
+      "4d43527bbd2cc529cb11f838ae6200e17637bdd5c75921321a9f9877ca343206": {
+        "title": "全新AI开发工具Kiro首次亮相AdventureX 2025！",
+        "link": "https://www.infoq.cn/article/zEAv8d1YTAl6ieFSbcWb?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 17 Nov 2025 00:09:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.718985"
+      },
+      "9e86b95aae0257eab8e9dcc4d3f79cb19e1cca9874d6371769880f97c66ae9a1": {
+        "title": "OPPO高级算法工程师杨俊确认出席AICon北京站，分享小布智能助手的个性化深度研究实践",
+        "link": "https://www.infoq.cn/article/BZG3kiu86dtZUrIOPmvS?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 16 Nov 2025 19:28:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.718997"
+      },
+      "70aa7c0dee13e21acb7630ae24bcafff685fa0ecce859684ed5ef7390058b697": {
+        "title": "被曲解的雷军：“安全至上”与“好看第一”并不冲突",
+        "link": "http://www.huxiu.com/article/4805875.html?f=wangzhan",
+        "published_date": "Sun, 16 Nov 2025 20:26:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.719010"
+      },
+      "8b3c27739679352929c302221dcd7948e357d1a7b92e3dcbaf5c6844f04a19a6": {
+        "title": "双十一急需增长：蒋凡有野心，淘天有压力",
+        "link": "https://www.tmtpost.com/7766667.html",
+        "published_date": "Sun, 16 Nov 2025 19:08:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.719021"
+      },
+      "69fdfac8413056541fb285684ee7a8ddb04c6cd8b87b77bfeb0bc6935bf992ad": {
+        "title": "研发费用率超30%，中微公司还能再进一步吗",
+        "link": "https://www.tmtpost.com/7766710.html",
+        "published_date": "Sun, 16 Nov 2025 17:43:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.718943"
+      },
+      "0b7a7aa648a197993bec71df4d3cef4fc9b115fbd65c46659c8bddfb3b312727": {
+        "title": "隆基绿能，最近憋了哪些大招？",
+        "link": "https://www.tmtpost.com/7766602.html",
+        "published_date": "Sun, 16 Nov 2025 17:35:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.719030"
+      },
+      "a923004e5100e47cbe28c8122b32dd43bc721474a535a31d45fdb4f67aa39402": {
+        "title": "禾赛机器人救场，但还不够？",
+        "link": "https://www.tmtpost.com/7766489.html",
+        "published_date": "Sun, 16 Nov 2025 17:35:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.719039"
+      },
+      "a9f292846aa1f30d1087dbb6c8a2f9394c0026ed397521c5a9070a6d8ced4518": {
+        "title": "AR四小龙，「危」机交织进行时",
+        "link": "https://www.tmtpost.com/7766498.html",
+        "published_date": "Sun, 16 Nov 2025 17:34:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.719048"
+      },
+      "577344b09b574f04a21cf9e4621760e46e3ee4d8fff08cad7789b8a6f68993a6": {
+        "title": "从谷歌到寒武纪，挑战英伟达的两种路径",
+        "link": "https://www.tmtpost.com/7766542.html",
+        "published_date": "Sun, 16 Nov 2025 17:34:00 GMT",
+        "first_seen": "2025-11-16T23:19:50.719057"
+      },
+      "273e156968e32208655482af71ad6928b426d52c974fd37a338b41f02d1e0d71": {
+        "title": "做空英伟达的华尔街大空头，基金清盘了",
+        "link": "https://www.tmtpost.com/7766592.html",
+        "published_date": "Sun, 16 Nov 2025 17:22:00 GMT",
+        "first_seen": "2025-11-16T23:19:02.431074"
+      },
+      "b5381d9950060f7f507542aee6037c46b96b3daac6b52e80f9c904e6c5ac822d": {
+        "title": "解密AI“黄埔军校”，10人撑起700亿美元估值",
+        "link": "https://www.tmtpost.com/7766650.html",
+        "published_date": "Sun, 16 Nov 2025 17:22:00 GMT",
+        "first_seen": "2025-11-16T23:19:02.431556"
+      },
+      "dba99c368c1e20807ab4127839fd6ea09b077c659b774b4cd497253276958478": {
+        "title": "一日一技｜AI + Notion：省时省心的小红书收藏夹整理归类",
+        "link": "https://sspai.com/post/103756",
+        "published_date": "Sun, 16 Nov 2025 16:03:00 GMT",
+        "first_seen": "2025-11-16T23:19:02.432168"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-16T08:26:01.280503",
-    "Technology": "2025-11-16T08:26:01.317595",
-    "Finance": "2025-11-16T08:26:01.157415"
+    "AI": "2025-11-16T23:19:02.396116",
+    "Technology": "2025-11-16T23:19:50.722472",
+    "Finance": "2025-11-16T23:19:02.248157"
   }
 }
