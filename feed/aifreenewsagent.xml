@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Nov 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 08:35:56 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 23:24:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>雷军罕见硬刚回应！同日公关负责人被曝调整</title>
-      <link>https://www.qbitai.com/2025/11/353469.html</link>
-      <description>&lt;![CDATA[雷军罕见硬刚回应！同日公关负责人被曝调整]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353469.html</guid>
+      <title>小扎再出奇招：Meta员工绩效，AI来评判</title>
+      <link>https://www.qbitai.com/2025/11/353657.html</link>
+      <description>&lt;![CDATA[小扎再出奇招：Meta员工绩效，AI来评判]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353657.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>这些大神在Meta的论文看一篇少一篇了</title>
-      <link>https://www.qbitai.com/2025/11/353414.html</link>
-      <description>&lt;![CDATA[这些大神在Meta的论文看一篇少一篇了]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 05:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353414.html</guid>
+      <title>GPT-5败下阵，这款中国AI拿下全球第一，众多医生已在用它做诊断</title>
+      <link>https://www.qbitai.com/2025/11/353600.html</link>
+      <description>&lt;![CDATA[GPT-5败下阵，这款中国AI拿下全球第一，众多医生已在用它做诊断]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 13:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353600.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>灵宇宙再获2亿元PreA轮系列融资，双十一销售额暴涨230%</title>
-      <link>https://www.qbitai.com/2025/11/353412.html</link>
-      <description>&lt;![CDATA[灵宇宙再获2亿元PreA轮系列融资，双十一销售额暴涨230%]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 05:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353412.html</guid>
+      <title>成本暴降99%！万人大会系统全是AI生成的，Vibe Coding真上战场了</title>
+      <link>https://www.qbitai.com/2025/11/353556.html</link>
+      <description>&lt;![CDATA[成本暴降99%！万人大会系统全是AI生成的，Vibe Coding真上战场了]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 12:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353556.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>钉钉AI听记上新，一张图看清所有重点，职场和超级个体刚需</title>
-      <link>https://www.qbitai.com/2025/11/353375.html</link>
-      <description>&lt;![CDATA[钉钉AI听记上新，一张图看清所有重点，职场和超级个体刚需]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 05:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353375.html</guid>
+      <title>拒绝“概念”要“实效”：百度智能云详解Agent Infra如何让智能体成为真正生产力</title>
+      <link>https://www.qbitai.com/2025/11/353510.html</link>
+      <description>&lt;![CDATA[拒绝“概念”要“实效”：百度智能云详解Agent Infra如何让智能体成为真正生产力]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353510.html</guid>
       <category>AI</category>
     </item>
   </channel>

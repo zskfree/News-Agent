@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Nov 2025 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 08:36:45 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 23:24:00 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 23:25:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Snowflake AI 赋能数据工程，驱动下一代智能数据管道 | 技术实践</title>
-      <link>https://www.infoq.cn/article/BKTB1gpTCAdV7pyIsFMb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake AI 赋能数据工程，驱动下一代智能数据管道 | 技术实践]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 16:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BKTB1gpTCAdV7pyIsFMb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>滴滴自动驾驶海外首战落地阿布扎比；腾讯国际市场游戏收入突破200亿元；知名跨境电商企业安克创新筹备港交所上市｜一周大公司出海动态</title>
+      <link>https://www.tmtpost.com/7768356.html</link>
+      <description>&lt;![CDATA[滴滴自动驾驶海外首战落地阿布扎比；腾讯国际市场游戏收入突破200亿元；知名跨境电商企业安克创新筹备港交所上市｜一周大公司出海动态]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 20:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7768356.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grails 7.0在Apache软件基金会发布，带来了针对Micronaut和GORM的功能增强</title>
-      <link>https://www.infoq.cn/article/9m2wxYieQmVawQ7eNhrE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Grails 7.0在Apache软件基金会发布，带来了针对Micronaut和GORM的功能增强]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9m2wxYieQmVawQ7eNhrE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>openEuler发布超节点操作系统，年底正式上线！熊伟：AI 时代操作系统最终形态指向自然语言</title>
+      <link>https://www.infoq.cn/article/WTXUlkxEt6jSlVK2fSNU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[openEuler发布超节点操作系统，年底正式上线！熊伟：AI 时代操作系统最终形态指向自然语言]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WTXUlkxEt6jSlVK2fSNU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出搭载第五代AMD EPYC（Turin）处理器的M8a通用型EC2实例</title>
-      <link>https://www.infoq.cn/article/edyRcj5Z7Ncg8t56IKil?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出搭载第五代AMD EPYC（Turin）处理器的M8a通用型EC2实例]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 15:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/edyRcj5Z7Ncg8t56IKil?utm_source=rss&amp;utm_medium=article</guid>
+      <title>亚马逊云科技发布Capabilities by Region工具</title>
+      <link>https://www.infoq.cn/article/I09pJyvzBCdg2vs82QYt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技发布Capabilities by Region工具]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/I09pJyvzBCdg2vs82QYt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>通用Agent技术在小爱同学场景中的实践｜AICon北京</title>
-      <link>https://www.infoq.cn/article/WPNl5M1NFGdiO4IdUYd1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[通用Agent技术在小爱同学场景中的实践｜AICon北京]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 15:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WPNl5M1NFGdiO4IdUYd1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>曲线上市周年“劫”：伏泰科技董事长被留置，汉嘉设计业绩引擎或生变</title>
+      <link>https://www.tmtpost.com/7768719.html</link>
+      <description>&lt;![CDATA[曲线上市周年“劫”：伏泰科技董事长被留置，汉嘉设计业绩引擎或生变]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 22:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7768719.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2025，中国科技圈进入全面「大乱斗」时代</title>
-      <link>http://www.geekpark.net/news/356518</link>
-      <description>&lt;![CDATA[2025，中国科技圈进入全面「大乱斗」时代]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 16:07:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/356518</guid>
+      <title>标的曾因造假被查IPO撤单，嘉戎技术并购自救藏隐忧 ｜并购一线</title>
+      <link>https://www.tmtpost.com/7768284.html</link>
+      <description>&lt;![CDATA[标的曾因造假被查IPO撤单，嘉戎技术并购自救藏隐忧 ｜并购一线]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 20:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7768284.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么在Meta发布诈骗广告，比谷歌更容易？</title>
-      <link>https://www.tmtpost.com/7767363.html</link>
-      <description>&lt;![CDATA[为什么在Meta发布诈骗广告，比谷歌更容易？]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7767363.html</guid>
+      <title>和顺石油跨界“联姻”奎芯科技：一场各取所需的资本豪赌｜并购一线</title>
+      <link>https://www.tmtpost.com/7768538.html</link>
+      <description>&lt;![CDATA[和顺石油跨界“联姻”奎芯科技：一场各取所需的资本豪赌｜并购一线]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 20:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7768538.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【生态环境周观察】COP30开幕；内蒙古两公司因倒卖储能指标被罚；隆基绿能控股储能公司</title>
-      <link>https://www.tmtpost.com/7767422.html</link>
-      <description>&lt;![CDATA[【生态环境周观察】COP30开幕；内蒙古两公司因倒卖储能指标被罚；隆基绿能控股储能公司]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 16:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7767422.html</guid>
+      <title>宇树科技IPO辅导“通关”，四个月跑完上市前哨战</title>
+      <link>https://www.tmtpost.com/7768257.html</link>
+      <description>&lt;![CDATA[宇树科技IPO辅导“通关”，四个月跑完上市前哨战]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 19:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7768257.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新药围攻，流感药变天了</title>
-      <link>https://www.tmtpost.com/7767590.html</link>
-      <description>&lt;![CDATA[新药围攻，流感药变天了]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7767590.html</guid>
+      <title>谷歌发布 Suncatcher 项目，设想让 AI 模型在太空中运行</title>
+      <link>https://www.infoq.cn/article/RWsjaNMZ8lJPKlJQAcs2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌发布 Suncatcher 项目，设想让 AI 模型在太空中运行]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RWsjaNMZ8lJPKlJQAcs2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>动辄投入百万，餐饮品牌正透过联名游戏IP“抢人”？</title>
-      <link>https://www.tmtpost.com/7767437.html</link>
-      <description>&lt;![CDATA[动辄投入百万，餐饮品牌正透过联名游戏IP“抢人”？]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 15:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7767437.html</guid>
+      <title>智能体崛起，AI+软件研发到新拐点了？</title>
+      <link>https://www.infoq.cn/article/QKYGuPFhQ1pkgQaCMmhA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体崛起，AI+软件研发到新拐点了？]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QKYGuPFhQ1pkgQaCMmhA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Baidu Pushes Into AI Chip Development as Large Models Drive Demand for Supernodes</title>
-      <link>https://www.tmtpost.com/7767868.html</link>
-      <description>&lt;![CDATA[Baidu Pushes Into AI Chip Development as Large Models Drive Demand for Supernodes]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7767868.html</guid>
+      <title>大咖云集！InfoQ 2025中国技术力量年度榜单“专家评审天团”正式亮相</title>
+      <link>https://www.infoq.cn/article/SRStZLuWiNXJpMsKmseT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大咖云集！InfoQ 2025中国技术力量年度榜单“专家评审天团”正式亮相]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 17:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SRStZLuWiNXJpMsKmseT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

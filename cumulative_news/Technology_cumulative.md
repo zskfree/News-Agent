@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-17 08:35
+**最后更新时间**: 2025-11-17 23:24
+
+---
+
+## 🆕 最新更新 (2025-11-17 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】化妆品领域迎来重要改革意见，国家药监局最新部署；刘强东：京东外卖App上线；相关影片进口方、发行方确认：暂缓日本进口片上映](https://www.tmtpost.com/7768676.html)
+**发布时间**: 2025-11-18 07:20
+
+#### [55.18亿！珠海国资旗下免税龙头“去地产化”草案出炉；山西首家医药上市公司拟出售太原制药62%股权；【并购一线】](https://www.tmtpost.com/7768816.html)
+**发布时间**: 2025-11-17 23:58
+
+#### [曲线上市周年“劫”：伏泰科技董事长被留置，汉嘉设计业绩引擎或生变](https://www.tmtpost.com/7768719.html)
+**发布时间**: 2025-11-17 22:28
+
+#### [品酒会刘强东再秀厨艺，京东外卖推独立APP](https://www.tmtpost.com/7768657.html)
+**发布时间**: 2025-11-17 21:19
+
+#### [苹果帝国的人工智能赌局：库克的继任者为何将是一位硬件工程师？](https://www.tmtpost.com/7767591.html)
+**发布时间**: 2025-11-17 21:08
+
+#### [AI这一年，进入黄金年代还是泡沫时代](https://www.tmtpost.com/7768180.html)
+**发布时间**: 2025-11-17 21:07
+
+#### [谁是AI领域下一个敲钟人？](https://www.tmtpost.com/7768053.html)
+**发布时间**: 2025-11-17 21:07
+
+#### [雷军和影视飓风，卷入舆论流沙河](https://www.tmtpost.com/7768310.html)
+**发布时间**: 2025-11-17 21:07
+
+#### [标的曾因造假被查IPO撤单，嘉戎技术并购自救藏隐忧 ｜并购一线](https://www.tmtpost.com/7768284.html)
+**发布时间**: 2025-11-17 20:55
+
+#### [和顺石油跨界“联姻”奎芯科技：一场各取所需的资本豪赌｜并购一线](https://www.tmtpost.com/7768538.html)
+**发布时间**: 2025-11-17 20:49
+
+#### [巴西电商2025年预计增长10%；中国激光设备占全球市场56.6%，稳居首位；TTS、Temu备战黑五｜一周出海参考](https://www.tmtpost.com/7768272.html)
+**发布时间**: 2025-11-17 20:13
+
+#### [滴滴自动驾驶海外首战落地阿布扎比；腾讯国际市场游戏收入突破200亿元；知名跨境电商企业安克创新筹备港交所上市｜一周大公司出海动态](https://www.tmtpost.com/7768356.html)
+**发布时间**: 2025-11-17 20:12
+
+#### [探迹并购真爱美家：“AI智能体”能重塑产业么？｜ 出海参考](https://www.tmtpost.com/7768133.html)
+**发布时间**: 2025-11-17 20:11
+
+#### [《鬼灭之刃》，丧漫第一IP？](https://www.tmtpost.com/7767799.html)
+**发布时间**: 2025-11-17 19:25
+
+#### [安德玛不想给库里“打工”了](https://www.tmtpost.com/7768235.html)
+**发布时间**: 2025-11-17 19:25
+
+#### [漫长的季节：史上最长双十一，淘天和商家的十字路口](https://www.tmtpost.com/7767826.html)
+**发布时间**: 2025-11-17 19:25
+
+#### [宇树科技IPO辅导“通关”，四个月跑完上市前哨战](https://www.tmtpost.com/7768257.html)
+**发布时间**: 2025-11-17 19:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [入侵30家大型机构、Claude自动完成90%？Anthropic 被质疑，Yann LeCun：他们利用可疑的研究来恐吓所有人](https://www.infoq.cn/article/JAd4i64fbs5BRyGsUY2f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 07:00
+
+#### [openEuler发布超节点操作系统，年底正式上线！熊伟：AI 时代操作系统最终形态指向自然语言](https://www.infoq.cn/article/WTXUlkxEt6jSlVK2fSNU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 19:13
+
+#### [谷歌发布 Suncatcher 项目，设想让 AI 模型在太空中运行](https://www.infoq.cn/article/RWsjaNMZ8lJPKlJQAcs2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 18:30
+
+#### [Java近期新闻：新的Jakarta AI规范、GlassFish、Spring RC、Infinispan 16和Open Liberty](https://www.infoq.cn/article/Ygd0mK94z8VX4RNjEBya?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 18:26
+
+#### [新的Claude Haiku 4.5模型号称提供更快的速度与1/3的成本](https://www.infoq.cn/article/iilOR8Jd0R1qHIxJwPtK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 18:07
+
+#### [智能体崛起，AI+软件研发到新拐点了？](https://www.infoq.cn/article/QKYGuPFhQ1pkgQaCMmhA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 18:06
+
+#### [大咖云集！InfoQ 2025中国技术力量年度榜单“专家评审天团”正式亮相](https://www.infoq.cn/article/SRStZLuWiNXJpMsKmseT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:58
+
+#### [Azure Front Door中断：单控制平面缺陷暴露了架构的脆弱性](https://www.infoq.cn/article/9l0iNRmrrkyfHb4UbAmC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:48
+
+#### [企业级 Agent 的设计与落地｜AICon 前瞻](https://www.infoq.cn/article/xMHlQbVUa9WhohfBKKcq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:45
+
+#### [WeaveFox「AI 艺术家」创意大赛重磅来袭！千元豪礼 & SEE Conf 珍贵门票等你来拿](https://www.infoq.cn/article/g6yxb0GWzqfzwXpvCzfo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:40
+
+#### [亚马逊云科技发布Capabilities by Region工具](https://www.infoq.cn/article/I09pJyvzBCdg2vs82QYt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:27
+
+#### [灵宇宙再获2亿元PreA轮系列融资，双十一销售额暴涨230%](https://www.infoq.cn/article/v5gAxoa9EDv7sQRgDqm7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:27
+
+#### [亚马逊云科技首席布道师Jeff Barr独家分享： AI 如何重塑开发者生态｜C位面对面](https://www.infoq.cn/video/focE6Y7hAyjsq61pokLo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 17:07
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「前三代定律」下，百年吸尘器如何做出新意？](http://www.geekpark.net/news/356532)
+**发布时间**: 2025-11-17 23:11
+
+#### [两个月破 300 万用户，Agnes AI 刷新 Instagram 与 Snapchat 增长纪录](http://www.geekpark.net/news/356527)
+**发布时间**: 2025-11-17 17:47
+
+#### [每天给白领发 1000 万，他成了硅谷最年轻亿万富翁](http://www.geekpark.net/news/356525)
+**发布时间**: 2025-11-17 17:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/103895)
+**发布时间**: 2025-11-17 17:43
 
 ---
 
