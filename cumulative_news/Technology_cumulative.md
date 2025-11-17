@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-17 05:22
+**最后更新时间**: 2025-11-17 08:35
+
+---
+
+## 🆕 最新更新 (2025-11-17 08:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【生态环境周观察】COP30开幕；内蒙古两公司因倒卖储能指标被罚；隆基绿能控股储能公司](https://www.tmtpost.com/7767422.html)
+**发布时间**: 2025-11-17 16:24
+
+#### [新药围攻，流感药变天了](https://www.tmtpost.com/7767590.html)
+**发布时间**: 2025-11-17 16:03
+
+#### [动辄投入百万，餐饮品牌正透过联名游戏IP“抢人”？](https://www.tmtpost.com/7767437.html)
+**发布时间**: 2025-11-17 15:28
+
+#### [为什么在Meta发布诈骗广告，比谷歌更容易？](https://www.tmtpost.com/7767363.html)
+**发布时间**: 2025-11-17 14:56
+
+#### [Baidu Pushes Into AI Chip Development as Large Models Drive Demand for Supernodes](https://www.tmtpost.com/7767868.html)
+**发布时间**: 2025-11-17 14:41
+
+#### [手机厂商不拼性能卷生态：参数已死，体验当立？](https://www.tmtpost.com/7767094.html)
+**发布时间**: 2025-11-17 13:54
+
+#### [哔哩哔哩：小破站要二次发育？](https://www.tmtpost.com/7767416.html)
+**发布时间**: 2025-11-17 13:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谁才是你最强的编程搭子？第二弹！Kiro. Codebuddy Al Coding 工具横评！｜AI的n次方](https://www.infoq.cn/video/EaeeRdxqeyzfI1McbyPI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 16:15
+
+#### [Snowflake AI 赋能数据工程，驱动下一代智能数据管道 | 技术实践](https://www.infoq.cn/article/BKTB1gpTCAdV7pyIsFMb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 16:07
+
+#### [Grails 7.0在Apache软件基金会发布，带来了针对Micronaut和GORM的功能增强](https://www.infoq.cn/article/9m2wxYieQmVawQ7eNhrE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 16:00
+
+#### [靠创始人亲自假扮AI起家，如今估值10亿美元！印度CEO公开反内卷：从不在10点前起床，也不开例会](https://www.infoq.cn/article/5MZM3L2tvqfL2pFpXjAC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 16:00
+
+#### [亚马逊云科技推出搭载第五代AMD EPYC（Turin）处理器的M8a通用型EC2实例](https://www.infoq.cn/article/edyRcj5Z7Ncg8t56IKil?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 15:37
+
+#### [通用Agent技术在小爱同学场景中的实践｜AICon北京](https://www.infoq.cn/article/WPNl5M1NFGdiO4IdUYd1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 15:24
+
+#### [将导游装在口袋里：AI 对景区游览新赋能](https://www.infoq.cn/article/f8z3SSLMqLtzvYP6khNB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 14:32
+
+#### [全新升级，全面开放！一图读懂 SOLO 正式版](https://www.infoq.cn/article/kJ03xwcXfAoO1xJrrkXO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 14:31
+
+#### [团队授权：分散化的架构决策](https://www.infoq.cn/article/335Q3mKrOpmGXhSJGY79?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 13:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [2025，中国科技圈进入全面「大乱斗」时代](http://www.geekpark.net/news/356518)
+**发布时间**: 2025-11-17 16:07
+
+#### [当 AI 开始分「左右」](http://www.geekpark.net/news/356514)
+**发布时间**: 2025-11-17 15:59
+
+#### [阿里云，用全栈 AI 刷新第十七个双十一](http://www.geekpark.net/news/356513)
+**发布时间**: 2025-11-17 15:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple Trade In 换购计划体验：今年有什么不一样？](https://sspai.com/post/103881)
+**发布时间**: 2025-11-17 15:07
 
 ---
 
