@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-16 23:18
+**最后更新时间**: 2025-11-17 05:22
+
+---
+
+## 🆕 最新更新 (2025-11-17 05:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [为什么中国女装出海需要新的样本？](https://www.tmtpost.com/7767657.html)
+**发布时间**: 2025-11-17 13:04
+
+#### [跳票的特斯拉Optimus，给国产人形机器人提了什么醒？](https://www.tmtpost.com/7767370.html)
+**发布时间**: 2025-11-17 12:54
+
+#### [Exclusive: IDG Capital Leads New Funding as Booster Robotics Raises Over $14 Million](https://www.tmtpost.com/7767707.html)
+**发布时间**: 2025-11-17 12:39
+
+#### [第二十七届高交会3E亚洲消费电子展圆满闭幕，中国智造重构未来生活新生态](https://www.tmtpost.com/7767517.html)
+**发布时间**: 2025-11-17 12:13
+
+#### [IDG资本投资，加速进化全球交付能力再获战略加持 | 独家首发 | 巴伦精选](https://www.tmtpost.com/7767620.html)
+**发布时间**: 2025-11-17 12:06
+
+#### [累计捐赠30多亿，千亿党彦宝问鼎西北首富](https://www.tmtpost.com/7767209.html)
+**发布时间**: 2025-11-17 12:00
+
+#### [DeepWay Files for Hong Kong IPO as China's New Energy Heavy Truck Market Heats Up](https://www.tmtpost.com/7767587.html)
+**发布时间**: 2025-11-17 11:47
+
+#### [数据孤岛让AI的血液被抽干](https://www.tmtpost.com/7767091.html)
+**发布时间**: 2025-11-17 11:30
+
+#### [【产业互联网周报】国家数据局：支持行业龙头建设综合性数字赋能平台； 李飞飞：空间智能是AI下一个前沿；开源欧拉操作系统装机量年底将超过1600万台](https://www.tmtpost.com/7767295.html)
+**发布时间**: 2025-11-17 10:59
+
+#### [AI落地加速中，底层架构却成最大绊脚石？丨ToB产业观察](https://www.tmtpost.com/7765433.html)
+**发布时间**: 2025-11-17 10:54
+
+#### [“京东点评”也和美团对上线了](https://www.tmtpost.com/7766999.html)
+**发布时间**: 2025-11-17 10:53
+
+#### [百度智能云公布两款自研AI芯片，昆仑芯比外界想象得更有野心](https://www.tmtpost.com/7767464.html)
+**发布时间**: 2025-11-17 10:53
+
+#### [Centurium Capital Eyes Costa Coffee in Potential Bargain Deal Amid Coca-Cola Shakeup](https://www.tmtpost.com/7767356.html)
+**发布时间**: 2025-11-17 10:18
+
+#### [TCCI-backed EverMind Unveils EverMemOS, a Brain-Inspired Long-Term Memory System](https://www.tmtpost.com/7767347.html)
+**发布时间**: 2025-11-17 10:15
+
+#### [Rokid联动BOLON，智能眼镜的主动破圈](https://www.tmtpost.com/7765667.html)
+**发布时间**: 2025-11-17 10:10
+
+#### [教AI听懂人话，声网在AI淘金热中“卖铲子”](https://www.tmtpost.com/7766881.html)
+**发布时间**: 2025-11-17 10:00
+
+#### [当山姆会员选择不再续费](https://www.tmtpost.com/7766930.html)
+**发布时间**: 2025-11-17 09:00
+
+#### [科股早知道：6G技术试验取得重大突破，中国完成第一阶段300项关键技术储备](https://www.tmtpost.com/7767042.html)
+**发布时间**: 2025-11-17 08:26
+
+#### [从财务造假到开出2.6万家门店，瑞幸能重返华尔街吗？](https://www.tmtpost.com/7766939.html)
+**发布时间**: 2025-11-17 08:00
+
+#### [【钛晨报】增强消费品供需适配性，国常会重磅部署；苹果CEO库克被曝或于明年卸任；宇树科技IPO辅导完成](https://www.tmtpost.com/7766849.html)
+**发布时间**: 2025-11-17 07:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [拆仰望！揭比亚迪造发动机野心](http://www.huxiu.com/article/4806038.html?f=wangzhan)
+**发布时间**: 2025-11-17 11:42
+
+#### [一期视频带你了解Web3的全貌与未来方向](http://www.huxiu.com/article/4805702.html?f=wangzhan)
+**发布时间**: 2025-11-17 11:00
+
+#### [绝杀：蔚来如何挥出“起死回生”的一击](http://www.huxiu.com/article/4804404.html?f=wangzhan)
+**发布时间**: 2025-11-17 06:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [2025 年 ARM 平台是否 Windows 堪用？这是我的体验](https://sspai.com/post/103693)
+**发布时间**: 2025-11-17 11:31
+
+#### [派早报：苹果加快规划 CEO 继任](https://sspai.com/post/103873)
+**发布时间**: 2025-11-17 08:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 “管好数据” 到 “让数据生智”，华为再发新作《数据空间探索与实践》](https://www.infoq.cn/article/hPy7w60Rwhm1hmKmZZQg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 10:43
+
+#### [开发者指南｜手把手教你玩转火山方舟 Coding Plan](https://www.infoq.cn/article/rpSCltOqXo75KMJerzFb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 10:33
+
+#### [全栈 AI 首考、闪购并入：阿里的第 17 个双十一故事](https://www.infoq.cn/article/hWYPqVFwtF693eUN7lFX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-17 10:26
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军连发多条微博回应质疑；iPhone 发布方式将在明年重大变革；年度最令人不安的研究：AI 刷多社媒会变蠢｜极客早知道](http://www.geekpark.net/news/356465)
+**发布时间**: 2025-11-17 08:42
 
 ---
 
