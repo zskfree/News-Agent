@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-17 23:24
+**最后更新时间**: 2025-11-18 05:22
+
+---
+
+## 🆕 最新更新 (2025-11-18 05:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [又一拉面品牌降价入华，日本餐企集体抢滩中国](https://www.tmtpost.com/7769608.html)
+**发布时间**: 2025-11-18 13:07
+
+#### [酒店“跑步前进”产业园区](https://www.tmtpost.com/7769246.html)
+**发布时间**: 2025-11-18 11:18
+
+#### [特斯拉中国销量暴跌63%，马斯克遭遇滑铁卢](https://www.tmtpost.com/7767746.html)
+**发布时间**: 2025-11-18 11:11
+
+#### [K型消费](https://www.tmtpost.com/7769510.html)
+**发布时间**: 2025-11-18 11:06
+
+#### [当越来越多的人用机器人接电话，电话销售危险了](https://www.tmtpost.com/7769425.html)
+**发布时间**: 2025-11-18 11:02
+
+#### [明宇商旅“朋友圈”再扩容，“合纵连横”成腰部酒管新常态](https://www.tmtpost.com/7769367.html)
+**发布时间**: 2025-11-18 10:58
+
+#### [中资股IPO热潮下的暗涌](https://www.tmtpost.com/7769391.html)
+**发布时间**: 2025-11-18 10:56
+
+#### [二期数据价值百亿美金，抗流感爆款浮现背后](https://www.tmtpost.com/7769331.html)
+**发布时间**: 2025-11-18 10:56
+
+#### [巨头调仓曝光，伯克希尔､桥水等机构调仓换股，有何变化之处？](https://www.tmtpost.com/7769410.html)
+**发布时间**: 2025-11-18 10:56
+
+#### [“哈基米”带涨九阳股份？一场张冠李戴的资本狂欢](https://www.tmtpost.com/7769442.html)
+**发布时间**: 2025-11-18 10:47
+
+#### [茅台价格跌回十年前，大规模降价的茅台到底意味着什么？](https://www.tmtpost.com/7769277.html)
+**发布时间**: 2025-11-18 10:47
+
+#### [AI换脸第一刀砍向明星，杨幂全红婵都中招](https://www.tmtpost.com/7768665.html)
+**发布时间**: 2025-11-18 10:08
+
+#### [全球最能赚钱的运营商又要裁员了](https://www.tmtpost.com/7768682.html)
+**发布时间**: 2025-11-18 10:03
+
+#### [35.88万起，玛莎拉蒂“打骨折”搏命](https://www.tmtpost.com/7768970.html)
+**发布时间**: 2025-11-18 09:58
+
+#### [山姆为什么不再“特别”？](https://www.tmtpost.com/7769031.html)
+**发布时间**: 2025-11-18 09:51
+
+#### [AI时代的战略敏捷性](https://www.tmtpost.com/7769047.html)
+**发布时间**: 2025-11-18 09:40
+
+#### [Global Push for Digital Talent and Governance Takes Center Stage at Wuzhen Summit](https://www.tmtpost.com/7769238.html)
+**发布时间**: 2025-11-18 09:39
+
+#### [TCL华星CEO赵军：12年4次关键决策，印刷OLED距离完全成熟还有两大挑战](https://www.tmtpost.com/7769108.html)
+**发布时间**: 2025-11-18 09:38
+
+#### [红果花几倍代价补贴男频短剧，出路在哪？](https://www.tmtpost.com/7769107.html)
+**发布时间**: 2025-11-18 09:36
+
+#### [天味食品港股寻路，破局增长难题](https://www.tmtpost.com/7769033.html)
+**发布时间**: 2025-11-18 09:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [HashiCorp的新指南提供了编写和调整Terraform模块的实用建议](https://www.infoq.cn/article/oCS8hANZ1HZ705NvciIU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 11:46
+
+#### [构建弹性平台：来自关键任务基础设施领域逾二十年经验的见解](https://www.infoq.cn/article/BZCdbNY0Xse69w8Wjpu3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 11:18
+
+#### [Alibaba Dragonwell 21 AI 增强版：引爆 Java 在 AI 时代的性能潜能](https://www.infoq.cn/article/fkyQ6V4im3o2EYBmfsX8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 09:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用 AI 生成互动游戏，让课本里的故事「活」起来](https://sspai.com/post/103811)
+**发布时间**: 2025-11-18 11:03
+
+#### [派早报：阿里巴巴千问 App 公测上线，紫光展锐发布 T9300 5G SoC 等](https://sspai.com/post/103901)
+**发布时间**: 2025-11-18 08:42
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [阿里千问公测，挑战 ChaGPT；京东上线独立外卖 App；贝佐斯出任 AI 初创公司 CEO](http://www.geekpark.net/news/356533)
+**发布时间**: 2025-11-18 08:32
 
 ---
 

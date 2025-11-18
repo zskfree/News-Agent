@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 23:24:26 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 05:22:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>小扎再出奇招：Meta员工绩效，AI来评判</title>
-      <link>https://www.qbitai.com/2025/11/353657.html</link>
-      <description>&lt;![CDATA[小扎再出奇招：Meta员工绩效，AI来评判]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353657.html</guid>
+      <title>Zleap技术解密：后RAG时代已来，SAG重新定义AI搜索</title>
+      <link>https://www.qbitai.com/2025/11/353677.html</link>
+      <description>&lt;![CDATA[Zleap技术解密：后RAG时代已来，SAG重新定义AI搜索]]&gt;</description>
+      <pubDate>Tue, 18 Nov 2025 03:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353677.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>GPT-5败下阵，这款中国AI拿下全球第一，众多医生已在用它做诊断</title>
-      <link>https://www.qbitai.com/2025/11/353600.html</link>
-      <description>&lt;![CDATA[GPT-5败下阵，这款中国AI拿下全球第一，众多医生已在用它做诊断]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353600.html</guid>
+      <title>中流击水，破浪前行｜第19届中国投资年会·有限合伙人峰会即将在沪启幕</title>
+      <link>https://www.qbitai.com/2025/11/353678.html</link>
+      <description>&lt;![CDATA[中流击水，破浪前行｜第19届中国投资年会·有限合伙人峰会即将在沪启幕]]&gt;</description>
+      <pubDate>Tue, 18 Nov 2025 03:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353678.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>成本暴降99%！万人大会系统全是AI生成的，Vibe Coding真上战场了</title>
-      <link>https://www.qbitai.com/2025/11/353556.html</link>
-      <description>&lt;![CDATA[成本暴降99%！万人大会系统全是AI生成的，Vibe Coding真上战场了]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353556.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>拒绝“概念”要“实效”：百度智能云详解Agent Infra如何让智能体成为真正生产力</title>
-      <link>https://www.qbitai.com/2025/11/353510.html</link>
-      <description>&lt;![CDATA[拒绝“概念”要“实效”：百度智能云详解Agent Infra如何让智能体成为真正生产力]]&gt;</description>
-      <pubDate>Mon, 17 Nov 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353510.html</guid>
+      <title>61岁贝佐斯创业物理AI！亲任CEO，首轮获投62亿美元融资</title>
+      <link>https://www.qbitai.com/2025/11/353671.html</link>
+      <description>&lt;![CDATA[61岁贝佐斯创业物理AI！亲任CEO，首轮获投62亿美元融资]]&gt;</description>
+      <pubDate>Tue, 18 Nov 2025 01:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353671.html</guid>
       <category>AI</category>
     </item>
   </channel>
