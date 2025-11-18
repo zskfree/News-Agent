@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a7df38924636347bd3a388fc5344d90a3e219346f335ba164c27e148d14f94b0": {
-        "title": "多模态大模型学会反思和复盘，上交&上海AI Lab破解多模态复杂推理",
-        "link": "https://www.qbitai.com/2025/10/343421.html",
-        "published_date": "Sun, 19 Oct 2025 07:08:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885038"
-      },
-      "1261bb9ebdc8936a51a9b267bfc2328ac07abbf87a3a0a141f0d732ec026a58c": {
-        "title": "模型“看视频写网页”，GPT-5仅36.35分！首个video2code基准发布",
-        "link": "https://www.qbitai.com/2025/10/343400.html",
-        "published_date": "Sun, 19 Oct 2025 07:06:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885246"
-      },
-      "e72f5b9504b282b1b8d91de5b1241308c4074351a4afe6741c161786e1dded91": {
-        "title": "中国最新Agent产品趋势：多体协同，垂直赛道，行业核心业务",
-        "link": "https://www.qbitai.com/2025/10/343370.html",
-        "published_date": "Sun, 19 Oct 2025 07:04:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885439"
-      },
       "b52410ac55b7de1b513ee15c030cda6c81a3f468e4dff3c4f1dcc1b32ba13a2f": {
         "title": "经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税",
         "link": "https://www.qbitai.com/2025/10/343454.html",
@@ -1212,21 +1194,45 @@
         "link": "https://www.qbitai.com/2025/11/353671.html",
         "published_date": "Tue, 18 Nov 2025 01:47:00 GMT",
         "first_seen": "2025-11-18T05:22:48.651719"
+      },
+      "69f75f2a68fbfd59b09574c71b9a3a510970eee345fc4f2f552f6596ecf04073": {
+        "title": "18岁华人开源成果，火爆具身智能赛道",
+        "link": "https://www.qbitai.com/2025/11/353959.html",
+        "published_date": "Tue, 18 Nov 2025 07:09:00 GMT",
+        "first_seen": "2025-11-18T08:29:41.975439"
+      },
+      "4d25868b1d8c4b65f1e1984fe8d39b0068b50b726e90b7feef224bd1cc1777da": {
+        "title": "马斯克悄然发布Grok 4.1，霸榜大模型竞技场所有排行榜",
+        "link": "https://www.qbitai.com/2025/11/353733.html",
+        "published_date": "Tue, 18 Nov 2025 07:01:00 GMT",
+        "first_seen": "2025-11-18T08:29:41.975589"
+      },
+      "31b4d77ef5ecf9d4ec7dcf6264e94f90266ffa51db934ed0695345655c97fc53": {
+        "title": "2位斯坦福顶流博士，携手具身创业",
+        "link": "https://www.qbitai.com/2025/11/353901.html",
+        "published_date": "Tue, 18 Nov 2025 06:59:00 GMT",
+        "first_seen": "2025-11-18T08:29:41.975746"
+      },
+      "5d8e197a930fff6d44f570f80ba3e5f3024750a5913b8cf5a223a8533bfc0b27": {
+        "title": "AI视频进入“加速度”时代：30%加速＋细节随手P，等等党和抽卡党在拍我AI上有救了！",
+        "link": "https://www.qbitai.com/2025/11/353868.html",
+        "published_date": "Tue, 18 Nov 2025 06:17:00 GMT",
+        "first_seen": "2025-11-18T08:29:41.976001"
+      },
+      "9a098b723c42f0362910b98b9dd9bd11072217834462a98a10400d9f7392b110": {
+        "title": "啊？微博7800美元训的大模型，数学能力超了DeepSeek-R1",
+        "link": "https://www.qbitai.com/2025/11/353826.html",
+        "published_date": "Tue, 18 Nov 2025 06:11:00 GMT",
+        "first_seen": "2025-11-18T08:29:41.976295"
+      },
+      "424dd965bea9923a0c455c28b2ba4325131ba2f7d20701523cb07fee5edae1cc": {
+        "title": "教育行业首个AI Agent落地！斑马口语「超人类外教」诞生",
+        "link": "https://www.qbitai.com/2025/11/353734.html",
+        "published_date": "Tue, 18 Nov 2025 05:39:00 GMT",
+        "first_seen": "2025-11-18T08:29:41.976611"
       }
     },
     "Technology": {
-      "ea06abbfb1eb1bb596975df2f03a52a077d8aa7405810d4f81c563177cc60417": {
-        "title": "项目看板 3.0：在 Obsidian 中平衡专注与多元",
-        "link": "https://sspai.com/post/102887",
-        "published_date": "Sun, 19 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.939541"
-      },
-      "b2edac1cd2c9bff912df848669465eb95eb9fdaffe401d4dcaa50cb6fe1333fb": {
-        "title": "中国AIGC用户破5亿，增长1倍；今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道",
-        "link": "http://www.geekpark.net/news/355132",
-        "published_date": "Sun, 19 Oct 2025 08:28:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.939705"
-      },
       "812adefef67508015be0cdffbc72b55fa109de5e846ee0a9113f35efb90ec13c": {
         "title": "经纬辉开“大手笔”收购中兴系统；威高血净上市5个月火速整合“威高系”资产【并购一线】",
         "link": "https://www.tmtpost.com/7731354.html",
@@ -11792,13 +11798,157 @@
         "link": "http://www.geekpark.net/news/356533",
         "published_date": "Tue, 18 Nov 2025 08:32:00 GMT",
         "first_seen": "2025-11-18T05:22:48.771084"
+      },
+      "ff0352d4e22530d7e8e1c86ef6e0d96574fa84616cf10d40c0b6d9c86e7b70bf": {
+        "title": "面向 Skills 的上下文工程 与 CodeBuddy Spec-Coding 的结合实战｜AICon北京",
+        "link": "https://www.infoq.cn/article/dTiLHTDkoEyp942Y1xjZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 15:45:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325412"
+      },
+      "f918878e5de572963aeac0bfb4f599d996d5fc770a3901c68e33715936a2a5e2": {
+        "title": "Go的新版Green Tea垃圾回收器可提高40%的性能",
+        "link": "https://www.infoq.cn/article/ggy2L4CpL06zHoqUkTip?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325423"
+      },
+      "dab33924495c6320313f7c327ec4e617fed84d3f27226d024ea759d508b1808a": {
+        "title": ".NET 10正式发布，在性能、AI和开发者体验方面实现了重大改进",
+        "link": "https://www.infoq.cn/article/bOM1CNczQT8ztBXDpd6s?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 14:30:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325337"
+      },
+      "e8f0df2c1fe0fd624e65890c9c34ba283449cc4740bddc97fc86b5b567642953": {
+        "title": "马斯克抢先谷歌一步放大招，Grok 4.1登顶LMArena，创意写作直逼GPT-5.1",
+        "link": "https://www.infoq.cn/article/HYWdG6vp0pWMIRrJQQAe?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 14:13:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325436"
+      },
+      "1d99b5ed22de50e873d30a091469516d76358c83b3b043e94214960beb5d2832": {
+        "title": "Cloudflare提出使用Merkle树证书来解决后量子时代的TLS性能问题",
+        "link": "https://www.infoq.cn/article/a0kVhDoqu8Fxgg5M9Yd8?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 14:02:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325447"
+      },
+      "578315bfe06f8013aab07bc1dc17a54d1a3babc7f06a138fcfde758981429ccd": {
+        "title": "如何使用领域驱动设计和变革走私进行社会技术设计",
+        "link": "https://www.infoq.cn/article/Fxe3GO2AZa9rCvwrYhSL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 13:33:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325365"
+      },
+      "39e3d06cac11508a754af77979dfdaa3dc9f6f07b22be2889914ee9373f2ad30": {
+        "title": "首周收入破400万，“克制投放”的《逆水寒》出海打法如何？",
+        "link": "https://www.tmtpost.com/7770066.html",
+        "published_date": "Tue, 18 Nov 2025 15:40:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325459"
+      },
+      "65abb3cb0b5754f4bfa8b099c7dcb0992795f23ab3a0fffcced83df263877390": {
+        "title": "谁还在买英伟达？",
+        "link": "https://www.tmtpost.com/7769861.html",
+        "published_date": "Tue, 18 Nov 2025 15:40:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.040388"
+      },
+      "0fbf18d5c4debfdbe74d1e2c3b4c7362d654c0158a19aa205ea0c3f807c3bb58": {
+        "title": "AI漫剧爆火：内容革新还是IP速朽？",
+        "link": "https://www.tmtpost.com/7769408.html",
+        "published_date": "Tue, 18 Nov 2025 15:39:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325469"
+      },
+      "ef2998da5640e6f9b6040858684301e0856c928dceed689765b5381b06433f71": {
+        "title": "2025年Q3混合休闲Top 10：硬币、停车题材新上榜，收入同比增长114%",
+        "link": "https://www.tmtpost.com/7770048.html",
+        "published_date": "Tue, 18 Nov 2025 15:38:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.041243"
+      },
+      "588bad24a14f53122d04d3fc25fccafc391066dc3b4eef7a163413cd67155dd4": {
+        "title": "星尘智能完成数亿元A++轮融资 国科投资与蚂蚁集团联合领投，加速绳驱AI机器人规模化落地 | 融资速递",
+        "link": "https://www.tmtpost.com/7769457.html",
+        "published_date": "Tue, 18 Nov 2025 15:06:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.041936"
+      },
+      "25c51fb2b98a70e31db46778e08d7484d2579e5025c6342582dfe4a92a960f6b": {
+        "title": "材科源图获数千万元天使轮融资：头部资本战略入局，共创AI材料研发新范式 | 融资速递",
+        "link": "https://www.tmtpost.com/7769966.html",
+        "published_date": "Tue, 18 Nov 2025 15:05:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325382"
+      },
+      "a6a1485e6cf6fa8c2a2fbdfe8878f5380eb96f1a8596938862fa03a09b268672": {
+        "title": "歌锐科技携“牛顿”智能内镜微创机器人亮相第十七届COA | 公司动态",
+        "link": "https://www.tmtpost.com/7769714.html",
+        "published_date": "Tue, 18 Nov 2025 15:05:00 GMT",
+        "first_seen": "2025-11-18T08:30:30.325396"
+      },
+      "f3c3825c6a42719b3e5f8ba7dfd085100aa4542425eee6053a0377d446737d81": {
+        "title": "七位实控人集体筹划让位，华蓝集团业绩回暖期谋易主",
+        "link": "https://www.tmtpost.com/7769902.html",
+        "published_date": "Tue, 18 Nov 2025 14:49:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.043943"
+      },
+      "c6ade85a078569440809f53a171c8378e513f040240e3a0b994629caae7ac6d8": {
+        "title": "China's OLED Display Industry Enters a New Arms Race as TCL CSOT Pushes Printed OLED",
+        "link": "https://www.tmtpost.com/7769884.html",
+        "published_date": "Tue, 18 Nov 2025 14:05:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.045483"
+      },
+      "6f83cc204ecfd45a7eb519df172e3e4bc17318309a91a532fb201ec0adc13ed9": {
+        "title": "阿里巴巴，为何此时大做“千问APP”？",
+        "link": "https://www.tmtpost.com/7769718.html",
+        "published_date": "Tue, 18 Nov 2025 13:42:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.046182"
+      },
+      "7f8f51ede16297cf189da7e77952e5b97f40524a7c0e953958dce97a032b3d09": {
+        "title": "鲍鱼、生蚝14.9元/盘，海底捞又盯上朱富贵们的生意？",
+        "link": "https://www.tmtpost.com/7769612.html",
+        "published_date": "Tue, 18 Nov 2025 13:29:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.047109"
+      },
+      "8e8aa3cce20934b2cb220b2bc98ef837d1404707adf5e9f6ac3bb58f2f9086a2": {
+        "title": "周锋能否激活中原银行万亿资产活力？",
+        "link": "https://www.tmtpost.com/7769739.html",
+        "published_date": "Tue, 18 Nov 2025 13:29:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.047667"
+      },
+      "0701774816bccd8c0d8a1f314e62318983f2c0f4f98a58fd88140b43b5d20137": {
+        "title": "综艺“跳槽”抖音？是救命稻草，还是蜕变新生？",
+        "link": "https://www.tmtpost.com/7769754.html",
+        "published_date": "Tue, 18 Nov 2025 13:28:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.048664"
+      },
+      "61872ec4493780f22bd61baad36de3fe7ed5d55c534f3a67f59b4bc2cd5fff97": {
+        "title": "中国版《荒野求生》？林北、冷美人和“短视频的浪浪山”",
+        "link": "https://www.tmtpost.com/7769721.html",
+        "published_date": "Tue, 18 Nov 2025 13:23:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.049775"
+      },
+      "29a52fc91412c6ef233524e81f3f7a74545d8f39a5a572c5b65aa764b795176e": {
+        "title": "餐饮最卷的赛道，供应链巨头豪赌十年还是没啃下？",
+        "link": "https://www.tmtpost.com/7769597.html",
+        "published_date": "Tue, 18 Nov 2025 13:18:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.050583"
+      },
+      "640d4d340504335ce304274be7d7bccf8261d1ea634e819782ff58d54237967c": {
+        "title": "高德美股价暴涨，这家医美公司凭什么值3000亿？",
+        "link": "https://www.tmtpost.com/7769670.html",
+        "published_date": "Tue, 18 Nov 2025 13:14:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.051394"
+      },
+      "a62551518ea5019ad3a13f804ab3c885f4b801b2692a92229610e182b41cbb19": {
+        "title": "中档价位真无线耳机横评与建议（2025 年终） - TDS 无心快语",
+        "link": "https://sspai.com/post/103767",
+        "published_date": "Tue, 18 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.052618"
+      },
+      "02dcd8ce2a34d1841c08be7cbf695d64335d54c5c7354706eef256f5be5e54ab": {
+        "title": "高市早苗：丑陋的战争贩子、政治毒瘤",
+        "link": "http://www.huxiu.com/article/4806247.html?f=wangzhan",
+        "published_date": "Tue, 18 Nov 2025 13:00:00 GMT",
+        "first_seen": "2025-11-18T08:29:42.053552"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-18T05:22:48.722865",
-    "Technology": "2025-11-18T05:23:37.058977",
-    "Finance": "2025-11-18T05:22:48.544733"
+    "AI": "2025-11-18T08:29:42.004588",
+    "Technology": "2025-11-18T08:30:30.328996",
+    "Finance": "2025-11-18T08:29:41.872581"
   }
 }
