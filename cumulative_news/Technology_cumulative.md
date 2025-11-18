@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-18 08:29
+**最后更新时间**: 2025-11-18 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-18 23:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OceanBase 开源首款AI数据库SeekDB ：遵循 Apache 2.0 协议，三行代码构建一款AI应用](https://www.infoq.cn/article/vrObFV2D0gu8c7E180RN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 07:00
+
+#### [模力工场 020 周 AI 应用榜：灵臂 Lybic 登顶榜首，榜单聚光“Agent 原生工作基建”！](https://www.infoq.cn/article/Xp87YYxt7m5ksRWw8S0D?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 20:00
+
+#### [Windows 要变成“Agent OS”？微软遭开发者强烈反对，印度裔掌舵人被骂到关回复](https://www.infoq.cn/article/wsFfeBxtMrlJdYouTX4a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 18:51
+
+#### [马斯克先于谷歌放大招，Grok 4.1登顶AI权威榜单，我们也动手测了一波](https://www.infoq.cn/article/HYWdG6vp0pWMIRrJQQAe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 14:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [谷歌 Gemini 3.0 深夜炸场：没有悬念的最强 AI](http://www.geekpark.net/news/356579)
+**发布时间**: 2025-11-19 03:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [被大疆“偷家”，影石还能守住护城河吗？](https://www.tmtpost.com/7770229.html)
+**发布时间**: 2025-11-18 19:36
+
+#### [直营大退潮，腾势、鸿蒙智行、极氪等品牌三四线门店转为加盟](https://www.tmtpost.com/7770484.html)
+**发布时间**: 2025-11-18 19:35
+
+#### [思创医惠或结束六年“无主”状态，业绩翻转仍存多重挑战](https://www.tmtpost.com/7770531.html)
+**发布时间**: 2025-11-18 19:34
+
+#### [国产芯片设计公司，谁是最大赢家？](https://www.tmtpost.com/7770465.html)
+**发布时间**: 2025-11-18 19:33
+
+#### [决裂、败诉与回归：NewJeans风暴348天](https://www.tmtpost.com/7770473.html)
+**发布时间**: 2025-11-18 19:31
+
+#### [贝壳彭永东的“存在主义”：祛魅左晖，附灵AI](https://www.tmtpost.com/7770491.html)
+**发布时间**: 2025-11-18 19:27
+
+#### [利润暴增233%，不是B站Q3最大的好消息](https://www.tmtpost.com/7770502.html)
+**发布时间**: 2025-11-18 19:26
+
+#### [新东方俞敏洪南极信风波：PR与HR如何共筑雇主品牌](https://www.tmtpost.com/7770507.html)
+**发布时间**: 2025-11-18 19:25
+
+#### [生益电子26亿再押高端产能，全球AI算力投资催生PCB行业“扩产潮”](https://www.tmtpost.com/7770482.html)
+**发布时间**: 2025-11-18 19:07
+
+#### [Netflix下一个广告大考是道数学题](https://www.tmtpost.com/7770444.html)
+**发布时间**: 2025-11-18 18:18
+
+#### [“剿匪”拓竹，大疆何故？](https://www.tmtpost.com/7770170.html)
+**发布时间**: 2025-11-18 18:17
+
+#### [他们在无锡造火箭](https://www.tmtpost.com/7770278.html)
+**发布时间**: 2025-11-18 18:17
+
+#### [AI吃播开始和真人吃播抢“饭碗”](https://www.tmtpost.com/7770320.html)
+**发布时间**: 2025-11-18 18:15
+
+#### [疯狂的《疯狂动物城2》](https://www.tmtpost.com/7769772.html)
+**发布时间**: 2025-11-18 18:04
+
+#### [非车险迎“终局之战”：人保、太保、平安群雄逐鹿，中小险企路在何方？](https://www.tmtpost.com/7770313.html)
+**发布时间**: 2025-11-18 18:03
+
+#### [Xpeng Stock Plunges 10% after Q4 Guidance Miss Outweighs Record Revenue and Margin Set in Q3](https://www.tmtpost.com/7770367.html)
+**发布时间**: 2025-11-18 17:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 118 | 派友千奇百怪的健身起点、一周热评以及新玩意](https://sspai.com/post/103908)
+**发布时间**: 2025-11-18 17:20
 
 ---
 
