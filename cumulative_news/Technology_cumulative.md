@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-19 05:21
+**最后更新时间**: 2025-11-19 08:34
+
+---
+
+## 🆕 最新更新 (2025-11-19 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Nvidia, Microsoft Forms New Partnerships with Anthropic, Driving OpenAI Rival's Value to $350 Billion](https://www.tmtpost.com/7772122.html)
+**发布时间**: 2025-11-19 16:26
+
+#### [售电监管收紧，21家公司的警示灯](https://www.tmtpost.com/7770854.html)
+**发布时间**: 2025-11-19 16:22
+
+#### [古茗的股价涨幅，早就超过蜜雪冰城了](https://www.tmtpost.com/7770874.html)
+**发布时间**: 2025-11-19 16:22
+
+#### [独家 | 通义核心人才相继“叛逃”，阿里双管齐下：砸天价年薪揽才+竞业锁喉](https://www.tmtpost.com/7771937.html)
+**发布时间**: 2025-11-19 16:22
+
+#### [雷军困在“雷军”中](https://www.tmtpost.com/7771885.html)
+**发布时间**: 2025-11-19 16:22
+
+#### [小红书，变成了“老红书”](https://www.tmtpost.com/7771355.html)
+**发布时间**: 2025-11-19 16:22
+
+#### [抛开舆论看小米：赚钱能力持续攀升，增长远未看到天花板](https://www.tmtpost.com/7771859.html)
+**发布时间**: 2025-11-19 16:16
+
+#### [Gemini 3发布同一天，AI投资曲线也出现新拐点 | 巴伦精选](https://www.tmtpost.com/7772046.html)
+**发布时间**: 2025-11-19 15:55
+
+#### [千问改名上位，或成阿里AI to C的“微信”](https://www.tmtpost.com/7770751.html)
+**发布时间**: 2025-11-19 15:27
+
+#### [BD带不动创新药了](https://www.tmtpost.com/7771594.html)
+**发布时间**: 2025-11-19 15:21
+
+#### [Exclusive: GAC Toyota to Retire Multiple Key Gasoline Models as China Pushes Shift to EVs](https://www.tmtpost.com/7771936.html)
+**发布时间**: 2025-11-19 15:14
+
+#### [比特币11月雪崩，谁抽走了市场的梯子？](https://www.tmtpost.com/7771929.html)
+**发布时间**: 2025-11-19 15:09
+
+#### [Baidu Q3 Sales Beat with a Record Fall of 7% amid AI Push, Clouded by Sluggish Ad Business](https://www.tmtpost.com/7771897.html)
+**发布时间**: 2025-11-19 15:03
+
+#### [从出海到“封神”：中国外卖企业在巴西的 “救世主” 叙事](https://www.tmtpost.com/7770564.html)
+**发布时间**: 2025-11-19 14:54
+
+#### [From Smart Devices to AI Companions: How Ling Universe is Redefining Human-Machine Interaction](https://www.tmtpost.com/7771757.html)
+**发布时间**: 2025-11-19 13:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [rossplane从CNCF毕业，实现了生产环境成熟](https://www.infoq.cn/article/3FJ9rY8GWiYavUjh9dPZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 16:06
+
+#### [Agent 正在终结云计算“流水线”，Infra 必须学会“思考” | 专访无问芯穹夏立雪](https://www.infoq.cn/article/ash94zBJkiseyaU8Zgy8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 15:30
+
+#### [谷歌云推出面向分布式系统的混沌工程框架与实践指南](https://www.infoq.cn/article/2YYAfwbh085lx0c2SUvG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 14:00
+
+#### [2780 亿市场风口，MongoDB 游戏数据新基建技术揭秘！| Q推荐](https://www.infoq.cn/article/8xtF2tvBopc4PBmQL32P?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 13:47
+
+#### [京东零售视觉与 AIGC 部负责人李岩博士确认出席AICon北京站，分享从虚拟试穿到电商 AIGC](https://www.infoq.cn/article/3hp9iQQmhOV9T19TAEaP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 13:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从日常到运动，AirPods 3 Pro 全面体验报告](https://sspai.com/post/103806)
+**发布时间**: 2025-11-19 15:09
 
 ---
 

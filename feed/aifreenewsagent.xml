@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 05:21:28 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 08:34:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了</title>
-      <link>https://www.qbitai.com/2025/11/354072.html</link>
-      <description>&lt;![CDATA[谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 01:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354072.html</guid>
+      <title>“日本版OpenAI”创下估值新高！Transformer八子之一创办，老黄也投了</title>
+      <link>https://www.qbitai.com/2025/11/354229.html</link>
+      <description>&lt;![CDATA[“日本版OpenAI”创下估值新高！Transformer八子之一创办，老黄也投了]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 06:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354229.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>融资数亿、营收过亿！黄仁勋频频关注的具身赛道隐形冠军浮出水面</title>
+      <link>https://www.qbitai.com/2025/11/354180.html</link>
+      <description>&lt;![CDATA[融资数亿、营收过亿！黄仁勋频频关注的具身赛道隐形冠军浮出水面]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 06:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354180.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>文献、报告、合同翻译的老大难被国产工具治了？三大翻译神器横评后，这家稳得离谱</title>
+      <link>https://www.qbitai.com/2025/11/354179.html</link>
+      <description>&lt;![CDATA[文献、报告、合同翻译的老大难被国产工具治了？三大翻译神器横评后，这家稳得离谱]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354179.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Gemini 3打服奥特曼马斯克，谷歌CEO却在担心AI泡沫</title>
+      <link>https://www.qbitai.com/2025/11/354110.html</link>
+      <description>&lt;![CDATA[Gemini 3打服奥特曼马斯克，谷歌CEO却在担心AI泡沫]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 05:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354110.html</guid>
       <category>AI</category>
     </item>
   </channel>
