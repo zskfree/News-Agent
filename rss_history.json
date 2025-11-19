@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "50a4c8e716447f074fbd206163bef389727e5960d8cf5277f118a9b24c821721": {
-        "title": "AI助手Cici悄然霸榜海外，又是字节",
-        "link": "https://www.qbitai.com/2025/10/343514.html",
-        "published_date": "Mon, 20 Oct 2025 04:08:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.532982"
-      },
-      "31b4fc59259f12598b827eec9adf8ce864cbc1e14818d0f2792e191780e05f8a": {
-        "title": "OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬",
-        "link": "https://www.qbitai.com/2025/10/343499.html",
-        "published_date": "Mon, 20 Oct 2025 02:02:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.533153"
-      },
       "a47579189ccdb93bfe76224303e6638e47df67af8ca06a0a4662d4645ca4e9fe": {
         "title": "智能体BUTTONS SOLEMATE发布，特斯联HALI能力再升级",
         "link": "https://www.qbitai.com/2025/10/343629.html",
@@ -1236,6 +1224,12 @@
         "link": "https://www.qbitai.com/2025/11/354039.html",
         "published_date": "Tue, 18 Nov 2025 11:12:00 GMT",
         "first_seen": "2025-11-18T23:19:28.601570"
+      },
+      "b15ef84425d9147113933b73e622209b8579f24c989ed5c036922e810691c2a4": {
+        "title": "谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了",
+        "link": "https://www.qbitai.com/2025/11/354072.html",
+        "published_date": "Wed, 19 Nov 2025 01:41:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.165393"
       }
     },
     "Technology": {
@@ -1293,77 +1287,11 @@
         "published_date": "Mon, 20 Oct 2025 11:23:00 GMT",
         "first_seen": "2025-10-20T05:22:03.985503"
       },
-      "6e0ccf72bee928dfcdd1a6d1ab9a638ae88b2d8f3fb3c6a647c3d77bdb2692ac": {
-        "title": "交钱VS交隐私，AI逼用户二选一？",
-        "link": "https://www.tmtpost.com/7731434.html",
-        "published_date": "Mon, 20 Oct 2025 11:10:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.624071"
-      },
-      "decb89ae744281c9cf0b57e4b1c92ce67adcf4c2aaef9c13c26bc128f9f1c8f0": {
-        "title": "独家对话影目CEO杨龙昇：百万销量是AI眼镜的坎，今年有机会盈亏平衡",
-        "link": "https://www.tmtpost.com/7731609.html",
-        "published_date": "Mon, 20 Oct 2025 10:24:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.624701"
-      },
-      "26dc645722c0a44db335f3c0262260b72d0f5cf85e8bd1753b475876f45c643f": {
-        "title": "领益智造与星尘智能签署战略合作",
-        "link": "https://www.tmtpost.com/7731487.html",
-        "published_date": "Mon, 20 Oct 2025 10:05:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.625045"
-      },
-      "3b8beb38a965cee415937dd649fad686a8f9827d727a4663638aa03d3549c22e": {
-        "title": "「一页纸」讲透美股公司之：UUUU",
-        "link": "https://www.tmtpost.com/7731325.html",
-        "published_date": "Mon, 20 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.625567"
-      },
-      "ee811fabef37f8ff109e98bd759e5c76131e20009035785341e82df920845252": {
-        "title": "没有组织的进化，就没有AI的深层落地",
-        "link": "https://www.tmtpost.com/7731358.html",
-        "published_date": "Mon, 20 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.626077"
-      },
-      "688046a3458c8570c30efcc2e977f6618b18bda5f8416aca90ef53f4242750b2": {
-        "title": "管中窥豹，万里眼90GHz示波器曝国内示波器高端产业之痛",
-        "link": "https://www.tmtpost.com/7731373.html",
-        "published_date": "Mon, 20 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.626761"
-      },
       "ef137a33051081d2fc63794f2ba7349c69681adf62c04cdaee4bc8187e2ca6aa": {
         "title": "科股早知道：华为官宣鸿蒙6发布时间",
         "link": "https://www.tmtpost.com/7731439.html",
         "published_date": "Mon, 20 Oct 2025 07:54:00 GMT",
         "first_seen": "2025-10-20T05:22:03.985368"
-      },
-      "a3e96d1745e9dd15686dbaec813126e1720ea2b3f2c73c01f1330554b0dd498b": {
-        "title": "【钛晨报】国常会：推动人工智能与物流深度融合，部署拓展绿色贸易；蚂蚁、京东据报已暂停在港发行稳定币计划；安世中国最新发声：国内全部主体运营及员工薪资福利一切正常",
-        "link": "https://www.tmtpost.com/7731258.html",
-        "published_date": "Mon, 20 Oct 2025 07:20:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.629152"
-      },
-      "f4dce003d40c04049abc829e6bd9ea7f7468a61a16c51d092980fae61598a452": {
-        "title": "物理真神——杨振宁的诺奖之路，给国家甚至世界带来了什么样的巨大贡献？",
-        "link": "http://www.huxiu.com/article/4793932.html?f=wangzhan",
-        "published_date": "Mon, 20 Oct 2025 10:08:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.630122"
-      },
-      "bffaa9850fe9ddf490396823cfe7b4edf8ddc58b91ed52a43e704752267f7443": {
-        "title": "中国造船，为什么能世界第一？",
-        "link": "http://www.huxiu.com/article/4793518.html?f=wangzhan",
-        "published_date": "Mon, 20 Oct 2025 09:38:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.630793"
-      },
-      "af7f89034fd9591b57dd33dcf1a34171336ef8c69bbe5b77596dbd5a8b5103f3": {
-        "title": "派早报：国家安全局表示国家授时中心受到美国攻击",
-        "link": "https://sspai.com/post/103207",
-        "published_date": "Mon, 20 Oct 2025 08:55:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.631618"
-      },
-      "b89e3b36d496bdf66922b3499b9dfc1d2dc6e01f34b965ee7fa6195de855b947": {
-        "title": "美 NSA 被曝网攻中国「时间心脏」；微博王高飞：企业别把批评和黑公关混为一谈；传运营艰难，安世中国发公开信回应",
-        "link": "http://www.geekpark.net/news/355134",
-        "published_date": "Mon, 20 Oct 2025 08:41:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.633508"
       },
       "f2635d447102e5ae66749eb6af986541fb8b102bfc66915d764f8a3409c55415": {
         "title": "海底捞要和西贝争抢中产宝妈",
@@ -12038,13 +11966,181 @@
         "link": "https://sspai.com/post/103908",
         "published_date": "Tue, 18 Nov 2025 17:20:00 GMT",
         "first_seen": "2025-11-18T23:19:28.685235"
+      },
+      "066b55c055ada14cf91165be7305c4ddeaeac951ffb464ef4b45249c66d14dc2": {
+        "title": "在iOS上运行Java：Gluon介绍OpenJDK移动资源和自动化构建流水线",
+        "link": "https://www.infoq.cn/article/oIaX4U60SVh38apM5UXo?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 19 Nov 2025 12:55:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538745"
+      },
+      "45000accaf4f653834551fde152c878d098708815e4eec51d8549d28110d8925": {
+        "title": "HashiCorp的新指南提供了编写和调整Terraform模块的实用建议",
+        "link": "https://www.infoq.cn/article/SCEJdRWhzrVdP4pjOj1y?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 19 Nov 2025 11:12:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538755"
+      },
+      "9b18c1e7a5bbc3becdaf654dedd3fd7acf76e17f7e1d01ba30fc0391e20ac554": {
+        "title": "KubeCon NA 2025：Salesforce通向AIOps和Agentic AI之路",
+        "link": "https://www.infoq.cn/article/ter8jgXrHtz3EpapFkVy?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 19 Nov 2025 10:22:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538767"
+      },
+      "f80ba6c67b61502a6b4faae8de2ad83e720757d091c0cde6abe73339a547887f": {
+        "title": "突然！谷歌发布 Gemini 3：百万上下文 + 全链路 Agent直接封神！Claude 被秒成渣了",
+        "link": "https://www.infoq.cn/article/rLZITbeSzLCKpfDXOrDD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 19 Nov 2025 07:30:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538701"
+      },
+      "be09da7fd593dc5cab8e85e55853c44466fe240dd8c5ef63b742232221648f5a": {
+        "title": "AI 的十字路口：阿里向左，腾讯向右",
+        "link": "https://www.tmtpost.com/7770577.html",
+        "published_date": "Wed, 19 Nov 2025 12:23:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538778"
+      },
+      "70799bc44e0eff4ee05c75dc5b705aed5301fde6e6ad40f0d5b09936bffe75eb": {
+        "title": "不遭骂的“预制菜之王”萨莉亚，开始没人去了",
+        "link": "https://www.tmtpost.com/7770953.html",
+        "published_date": "Wed, 19 Nov 2025 12:23:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538789"
+      },
+      "73c0d02fbf5f11df51906507f4419b0bd0e259bf4ffb7d0ac5e3abd842c42934": {
+        "title": "瑞士科技公司Planetary研发菌丝蛋白发酵技术，实现工业级生物质发酵产能 | 瑞士创新100强",
+        "link": "https://www.tmtpost.com/7771478.html",
+        "published_date": "Wed, 19 Nov 2025 12:23:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538668"
+      },
+      "3626093215bd496234a1402993d2b87779e0fcf7fc78a072bc93030a311f57bf": {
+        "title": "“打死不用AI”的陀螺，拍了一部“人造人”电影，让人忍不住落泪",
+        "link": "https://www.tmtpost.com/7771457.html",
+        "published_date": "Wed, 19 Nov 2025 12:23:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538800"
+      },
+      "9fe8368cdbb51451321b825296cd0a44dc0eb32c30eda390157361609b6c61c3": {
+        "title": "叶国富要「浪费」一亿签IP，我们和潮玩从业者聊了聊抢IP这件事",
+        "link": "https://www.tmtpost.com/7770822.html",
+        "published_date": "Wed, 19 Nov 2025 12:23:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.236837"
+      },
+      "a842c82423ffea760be8a1c6dde0a842aa7cc3a6214c0291cdc6409ffbc2e6e2": {
+        "title": "谷歌扔出“王炸”Gemini 3，引爆华尔街新权力格局 | 巴伦精选",
+        "link": "https://www.tmtpost.com/7771657.html",
+        "published_date": "Wed, 19 Nov 2025 12:08:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.237467"
+      },
+      "688ac2ed95be8457e69a3ac149beda96b61032dc9868547cf1ab75e88fba7a17": {
+        "title": "Temu Owner PDD Shares Sink 7% as Further Volatility Cautioned Despite Q3 Earnings Beat",
+        "link": "https://www.tmtpost.com/7771636.html",
+        "published_date": "Wed, 19 Nov 2025 12:02:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.238956"
+      },
+      "e03767307709aa01653cebe52dbe71449937af604fa01d76018a4ac50f2abecf": {
+        "title": "沃尔玛想用沃集鲜掀起一场“简单”浪潮",
+        "link": "https://www.tmtpost.com/7768413.html",
+        "published_date": "Wed, 19 Nov 2025 11:19:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.239458"
+      },
+      "2a52297b54734ee2627e41ced4ba9db71970e90d99d6e2141c5de5c5201fd85f": {
+        "title": "“粉单”市场已装不下瑞幸",
+        "link": "https://www.tmtpost.com/7770762.html",
+        "published_date": "Wed, 19 Nov 2025 11:18:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.239903"
+      },
+      "f77baa524fcec83cae80812d0bf69bbb5e45866b7d857a4b26d0ccff7653e627": {
+        "title": "泡沫、配角、重估、淘汰，周鸿祎揭开AI浪潮下的9个真相",
+        "link": "https://www.tmtpost.com/7770708.html",
+        "published_date": "Wed, 19 Nov 2025 11:18:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.240761"
+      },
+      "3cf7227f0526b160c0f7ec62f46419e40f3c4d74a32321eeab27286c31dc2f73": {
+        "title": "独家｜丰田中国的平衡：“姊妹车”退场，广汽丰田多主销油车将停产",
+        "link": "https://www.tmtpost.com/7770925.html",
+        "published_date": "Wed, 19 Nov 2025 11:18:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.241666"
+      },
+      "8d8db2a57a903b149453024f7876e777d8c3b2288d6df02785a1dfa1f9aca30d": {
+        "title": "独家｜共享出行新战事：哈啰、大鹿入局电动车租赁",
+        "link": "https://www.tmtpost.com/7771336.html",
+        "published_date": "Wed, 19 Nov 2025 11:18:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.242474"
+      },
+      "881a63d49e5f64f039cec8ad522a090eeef6ac982d98dc0210ac9a950f613f1f": {
+        "title": "千问，阿里的未竟之梦",
+        "link": "https://www.tmtpost.com/7770753.html",
+        "published_date": "Wed, 19 Nov 2025 10:38:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.243030"
+      },
+      "b0016b694f896612c2795a2687bf069ec83982fb7adca55be2f1bbaa31f22db0": {
+        "title": "欧美汽车加速脱钩中国",
+        "link": "https://www.tmtpost.com/7770692.html",
+        "published_date": "Wed, 19 Nov 2025 10:38:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.243434"
+      },
+      "6cd412cfd32526eadf2005129b9661281602686c59f582bc43a87cfe0310de18": {
+        "title": "Google Launches Gemini 3, Embeds AI Model into Search",
+        "link": "https://www.tmtpost.com/7771350.html",
+        "published_date": "Wed, 19 Nov 2025 10:29:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.244984"
+      },
+      "d36964a0cf677dac6b41deabdf50dfeb5a36a670283a0ffe958a1584e1879185": {
+        "title": "比利信息完成数千万元A+轮融资 天图独家投资，将加速构建“人工智能+酒旅大消费”新场景 | 融资速递",
+        "link": "https://www.tmtpost.com/7771323.html",
+        "published_date": "Wed, 19 Nov 2025 10:23:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.246583"
+      },
+      "252c3ee3dd8d935caba135bd95976eedb7de3161450cd973f1be28ec915f4589": {
+        "title": "“神曲印钞机”轰鸣：从一首赚200万到一首赔2万",
+        "link": "https://www.tmtpost.com/7770754.html",
+        "published_date": "Wed, 19 Nov 2025 09:02:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.247487"
+      },
+      "00ad4d8b7c1fd6af2dce04af7f9cf31504c7a877a85f5b878ee68f89f59589e1": {
+        "title": "电商进入出清期",
+        "link": "https://www.tmtpost.com/7771089.html",
+        "published_date": "Wed, 19 Nov 2025 08:56:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.247959"
+      },
+      "6cd147f6bbf671dd98108098fb0217bf46ee21d21105a29dca2b6e9ed7876eeb": {
+        "title": "琉球主权真的属于日本吗？",
+        "link": "http://www.huxiu.com/article/4806816.html?f=wangzhan",
+        "published_date": "Wed, 19 Nov 2025 11:00:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.248515"
+      },
+      "4e537fc44822a4ea44ee06797b8a47f5fc8eb1bdbb909a4276829629dae0e7b6": {
+        "title": "放任临终老人一天抽十根香烟，这家养老院居然还成了养老典范？",
+        "link": "http://www.huxiu.com/article/4806530.html?f=wangzhan",
+        "published_date": "Wed, 19 Nov 2025 10:02:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.249439"
+      },
+      "274d04c6e932b8f3e8eaf1b2088ee72271b9deb9167446fadc4840d93b20b8c7": {
+        "title": "我的秋冬穿搭思路：从核心单品出发，兼顾保暖与个性",
+        "link": "https://sspai.com/post/103912",
+        "published_date": "Wed, 19 Nov 2025 11:00:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.250512"
+      },
+      "e37bf03b0a9413b015443304c0da424b9f81a12e82fd084fe10905ea859d0d16": {
+        "title": "派早报：Google 发布 Gemini 3、Cloudflare 引发网络故障等",
+        "link": "https://sspai.com/post/103926",
+        "published_date": "Wed, 19 Nov 2025 08:54:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538717"
+      },
+      "42a3a10c1f865cb50f119e6b283ef3331c612f3a67ab9d62d14c6c8528f57d82": {
+        "title": "「30 秒造应用」——蚂蚁灵光点燃「所想即所得」的魔法时刻",
+        "link": "http://www.geekpark.net/news/356584",
+        "published_date": "Wed, 19 Nov 2025 10:22:00 GMT",
+        "first_seen": "2025-11-19T05:21:28.253598"
+      },
+      "f649d4c8a30ea49eac181e2e3f2730e8b2c24f32b54e64f9c26befcfe0575ca9": {
+        "title": "Gemini 3 正式发布，多榜单断崖式领先；美安全服务商网络中断，ChatGPT、X 受牵连；苹果承认酒精擦拭可能导致手机掉色｜极客早知道",
+        "link": "http://www.geekpark.net/news/356578",
+        "published_date": "Wed, 19 Nov 2025 08:23:00 GMT",
+        "first_seen": "2025-11-19T05:22:16.538732"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-18T23:19:28.638022",
-    "Technology": "2025-11-18T23:20:17.012080",
-    "Finance": "2025-11-18T23:19:28.493825"
+    "AI": "2025-11-19T05:21:28.199768",
+    "Technology": "2025-11-19T05:22:16.542327",
+    "Finance": "2025-11-19T05:21:28.060947"
   }
 }

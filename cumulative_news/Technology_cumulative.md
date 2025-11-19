@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-18 23:19
+**最后更新时间**: 2025-11-19 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-19 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [在iOS上运行Java：Gluon介绍OpenJDK移动资源和自动化构建流水线](https://www.infoq.cn/article/oIaX4U60SVh38apM5UXo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 12:55
+
+#### [HashiCorp的新指南提供了编写和调整Terraform模块的实用建议](https://www.infoq.cn/article/SCEJdRWhzrVdP4pjOj1y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 11:12
+
+#### [KubeCon NA 2025：Salesforce通向AIOps和Agentic AI之路](https://www.infoq.cn/article/ter8jgXrHtz3EpapFkVy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 10:22
+
+#### [突然！谷歌发布 Gemini 3：百万上下文 + 全链路 Agent直接封神！Claude 被秒成渣了](https://www.infoq.cn/article/rLZITbeSzLCKpfDXOrDD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-19 07:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI 的十字路口：阿里向左，腾讯向右](https://www.tmtpost.com/7770577.html)
+**发布时间**: 2025-11-19 12:23
+
+#### [不遭骂的“预制菜之王”萨莉亚，开始没人去了](https://www.tmtpost.com/7770953.html)
+**发布时间**: 2025-11-19 12:23
+
+#### [瑞士科技公司Planetary研发菌丝蛋白发酵技术，实现工业级生物质发酵产能 | 瑞士创新100强](https://www.tmtpost.com/7771478.html)
+**发布时间**: 2025-11-19 12:23
+
+#### [“打死不用AI”的陀螺，拍了一部“人造人”电影，让人忍不住落泪](https://www.tmtpost.com/7771457.html)
+**发布时间**: 2025-11-19 12:23
+
+#### [叶国富要「浪费」一亿签IP，我们和潮玩从业者聊了聊抢IP这件事](https://www.tmtpost.com/7770822.html)
+**发布时间**: 2025-11-19 12:23
+
+#### [谷歌扔出“王炸”Gemini 3，引爆华尔街新权力格局 | 巴伦精选](https://www.tmtpost.com/7771657.html)
+**发布时间**: 2025-11-19 12:08
+
+#### [Temu Owner PDD Shares Sink 7% as Further Volatility Cautioned Despite Q3 Earnings Beat](https://www.tmtpost.com/7771636.html)
+**发布时间**: 2025-11-19 12:02
+
+#### [沃尔玛想用沃集鲜掀起一场“简单”浪潮](https://www.tmtpost.com/7768413.html)
+**发布时间**: 2025-11-19 11:19
+
+#### [“粉单”市场已装不下瑞幸](https://www.tmtpost.com/7770762.html)
+**发布时间**: 2025-11-19 11:18
+
+#### [泡沫、配角、重估、淘汰，周鸿祎揭开AI浪潮下的9个真相](https://www.tmtpost.com/7770708.html)
+**发布时间**: 2025-11-19 11:18
+
+#### [独家｜丰田中国的平衡：“姊妹车”退场，广汽丰田多主销油车将停产](https://www.tmtpost.com/7770925.html)
+**发布时间**: 2025-11-19 11:18
+
+#### [独家｜共享出行新战事：哈啰、大鹿入局电动车租赁](https://www.tmtpost.com/7771336.html)
+**发布时间**: 2025-11-19 11:18
+
+#### [千问，阿里的未竟之梦](https://www.tmtpost.com/7770753.html)
+**发布时间**: 2025-11-19 10:38
+
+#### [欧美汽车加速脱钩中国](https://www.tmtpost.com/7770692.html)
+**发布时间**: 2025-11-19 10:38
+
+#### [Google Launches Gemini 3, Embeds AI Model into Search](https://www.tmtpost.com/7771350.html)
+**发布时间**: 2025-11-19 10:29
+
+#### [比利信息完成数千万元A+轮融资 天图独家投资，将加速构建“人工智能+酒旅大消费”新场景 | 融资速递](https://www.tmtpost.com/7771323.html)
+**发布时间**: 2025-11-19 10:23
+
+#### [“神曲印钞机”轰鸣：从一首赚200万到一首赔2万](https://www.tmtpost.com/7770754.html)
+**发布时间**: 2025-11-19 09:02
+
+#### [电商进入出清期](https://www.tmtpost.com/7771089.html)
+**发布时间**: 2025-11-19 08:56
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [琉球主权真的属于日本吗？](http://www.huxiu.com/article/4806816.html?f=wangzhan)
+**发布时间**: 2025-11-19 11:00
+
+#### [放任临终老人一天抽十根香烟，这家养老院居然还成了养老典范？](http://www.huxiu.com/article/4806530.html?f=wangzhan)
+**发布时间**: 2025-11-19 10:02
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我的秋冬穿搭思路：从核心单品出发，兼顾保暖与个性](https://sspai.com/post/103912)
+**发布时间**: 2025-11-19 11:00
+
+#### [派早报：Google 发布 Gemini 3、Cloudflare 引发网络故障等](https://sspai.com/post/103926)
+**发布时间**: 2025-11-19 08:54
+
+#### [寻找理想的笔记本，我的血泪控诉](https://sspai.com/post/103693)
+**发布时间**: 2025-11-17 11:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「30 秒造应用」——蚂蚁灵光点燃「所想即所得」的魔法时刻](http://www.geekpark.net/news/356584)
+**发布时间**: 2025-11-19 10:22
+
+#### [Gemini 3 正式发布，多榜单断崖式领先；美安全服务商网络中断，ChatGPT、X 受牵连；苹果承认酒精擦拭可能导致手机掉色｜极客早知道](http://www.geekpark.net/news/356578)
+**发布时间**: 2025-11-19 08:23
 
 ---
 

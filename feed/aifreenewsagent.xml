@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 18 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2025 23:19:28 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 05:21:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Generative UI: A rich, custom, visual interactive user experience for any prompt</title>
-      <link>https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/</link>
-      <description>&lt;![CDATA[Generative UI: A rich, custom, visual interactive user experience for any prompt]]&gt;</description>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>2025-2026赛季VEX机器人亚洲公开赛国际签名赛新闻发布会在京召开</title>
-      <link>https://www.qbitai.com/2025/11/354050.html</link>
-      <description>&lt;![CDATA[2025-2026赛季VEX机器人亚洲公开赛国际签名赛新闻发布会在京召开]]&gt;</description>
-      <pubDate>Tue, 18 Nov 2025 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354050.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NuwaAI V1.0发布！一句话生成数字人，全面升级数字生产力</title>
-      <link>https://www.qbitai.com/2025/11/354039.html</link>
-      <description>&lt;![CDATA[NuwaAI V1.0发布！一句话生成数字人，全面升级数字生产力]]&gt;</description>
-      <pubDate>Tue, 18 Nov 2025 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354039.html</guid>
+      <title>谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了</title>
+      <link>https://www.qbitai.com/2025/11/354072.html</link>
+      <description>&lt;![CDATA[谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 01:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354072.html</guid>
       <category>AI</category>
     </item>
   </channel>
