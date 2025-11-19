@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Nov 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 08:34:38 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 23:20:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“日本版OpenAI”创下估值新高！Transformer八子之一创办，老黄也投了</title>
-      <link>https://www.qbitai.com/2025/11/354229.html</link>
-      <description>&lt;![CDATA[“日本版OpenAI”创下估值新高！Transformer八子之一创办，老黄也投了]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 06:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354229.html</guid>
+      <title>Gemini 3深夜来袭：力压GPT 5.1，大模型谷歌时代来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-2</link>
+      <description>&lt;![CDATA[Gemini 3深夜来袭：力压GPT 5.1，大模型谷歌时代来了]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>融资数亿、营收过亿！黄仁勋频频关注的具身赛道隐形冠军浮出水面</title>
-      <link>https://www.qbitai.com/2025/11/354180.html</link>
-      <description>&lt;![CDATA[融资数亿、营收过亿！黄仁勋频频关注的具身赛道隐形冠军浮出水面]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 06:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354180.html</guid>
+      <title>如视发布空间大模型Argus1.0，支持全景图等多元输入，行业首创！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-10</link>
+      <description>&lt;![CDATA[如视发布空间大模型Argus1.0，支持全景图等多元输入，行业首创！]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>文献、报告、合同翻译的老大难被国产工具治了？三大翻译神器横评后，这家稳得离谱</title>
-      <link>https://www.qbitai.com/2025/11/354179.html</link>
-      <description>&lt;![CDATA[文献、报告、合同翻译的老大难被国产工具治了？三大翻译神器横评后，这家稳得离谱]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354179.html</guid>
+      <title>视频模型真在推理，还是「表演」推理？港中文等质疑：Chain-of-Frame是真的吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19</link>
+      <description>&lt;![CDATA[视频模型真在推理，还是「表演」推理？港中文等质疑：Chain-of-Frame是真的吗？]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Gemini 3打服奥特曼马斯克，谷歌CEO却在担心AI泡沫</title>
-      <link>https://www.qbitai.com/2025/11/354110.html</link>
-      <description>&lt;![CDATA[Gemini 3打服奥特曼马斯克，谷歌CEO却在担心AI泡沫]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354110.html</guid>
+      <title>市场份额No.1！商汤大装置位列中国原生AI云厂商榜首</title>
+      <link>https://www.qbitai.com/2025/11/354278.html</link>
+      <description>&lt;![CDATA[市场份额No.1！商汤大装置位列中国原生AI云厂商榜首]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354278.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>三行代码就能手搓一个AI应用！蚂蚁OceanBase开源其首款AI数据库</title>
+      <link>https://www.qbitai.com/2025/11/354258.html</link>
+      <description>&lt;![CDATA[三行代码就能手搓一个AI应用！蚂蚁OceanBase开源其首款AI数据库]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354258.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>亚马逊云科技发布Kiro正式版：核心功能升级</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-13</link>
+      <description>&lt;![CDATA[亚马逊云科技发布Kiro正式版：核心功能升级]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 22:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>资深技术专家胡成文出任鼎犀智创CTO，共赴新材料智创未来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-11</link>
+      <description>&lt;![CDATA[资深技术专家胡成文出任鼎犀智创CTO，共赴新材料智创未来]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>登顶开源SOTA！上交大&amp;小红书LoopTool实现工具调用任务的「数据进化」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-9</link>
+      <description>&lt;![CDATA[登顶开源SOTA！上交大&amp;小红书LoopTool实现工具调用任务的「数据进化」]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 Spotlight | 香港大学提出无需数据标记的ViT密集表征增强方法</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-8</link>
+      <description>&lt;![CDATA[NeurIPS 2025 Spotlight | 香港大学提出无需数据标记的ViT密集表征增强方法]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 | 上下文元学习实现不微调跨被试脑活动预测</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-19-7</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | 上下文元学习实现不微调跨被试脑活动预测]]&gt;</description>
+      <pubDate>Wed, 19 Nov 2025 13:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-7</guid>
       <category>AI</category>
     </item>
   </channel>
