@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 23:20:50 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 05:22:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gemini 3深夜来袭：力压GPT 5.1，大模型谷歌时代来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-2</link>
-      <description>&lt;![CDATA[Gemini 3深夜来袭：力压GPT 5.1，大模型谷歌时代来了]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-2</guid>
+      <title>星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-5</link>
+      <description>&lt;![CDATA[星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>如视发布空间大模型Argus1.0，支持全景图等多元输入，行业首创！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-10</link>
-      <description>&lt;![CDATA[如视发布空间大模型Argus1.0，支持全景图等多元输入，行业首创！]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-10</guid>
+      <title>刚刚，Yann LeCun官宣离职创业，瞄准高级机器智能AMI</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-4</link>
+      <description>&lt;![CDATA[刚刚，Yann LeCun官宣离职创业，瞄准高级机器智能AMI]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>视频模型真在推理，还是「表演」推理？港中文等质疑：Chain-of-Frame是真的吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19</link>
-      <description>&lt;![CDATA[视频模型真在推理，还是「表演」推理？港中文等质疑：Chain-of-Frame是真的吗？]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19</guid>
+      <title>分割一切并不够，还要3D重建一切，SAM 3D来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-3</link>
+      <description>&lt;![CDATA[分割一切并不够，还要3D重建一切，SAM 3D来了]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>市场份额No.1！商汤大装置位列中国原生AI云厂商榜首</title>
-      <link>https://www.qbitai.com/2025/11/354278.html</link>
-      <description>&lt;![CDATA[市场份额No.1！商汤大装置位列中国原生AI云厂商榜首]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354278.html</guid>
+      <title>黄仁勋GTC开场：「AI-XR Scientist」来了！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-2</link>
+      <description>&lt;![CDATA[黄仁勋GTC开场：「AI-XR Scientist」来了！]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>三行代码就能手搓一个AI应用！蚂蚁OceanBase开源其首款AI数据库</title>
-      <link>https://www.qbitai.com/2025/11/354258.html</link>
-      <description>&lt;![CDATA[三行代码就能手搓一个AI应用！蚂蚁OceanBase开源其首款AI数据库]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354258.html</guid>
+      <title>通往通用人工智能的关键一步？DeepMind放大招，3D世界最强AI智能体SIMA 2</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20</link>
+      <description>&lt;![CDATA[通往通用人工智能的关键一步？DeepMind放大招，3D世界最强AI智能体SIMA 2]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>亚马逊云科技发布Kiro正式版：核心功能升级</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-13</link>
-      <description>&lt;![CDATA[亚马逊云科技发布Kiro正式版：核心功能升级]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 22:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-13</guid>
+      <title>英伟达炸裂业绩打飞“AI泡沫”，黄仁勋：云端GPU卖光了</title>
+      <link>https://www.qbitai.com/2025/11/354350.html</link>
+      <description>&lt;![CDATA[英伟达炸裂业绩打飞“AI泡沫”，黄仁勋：云端GPU卖光了]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 04:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354350.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>资深技术专家胡成文出任鼎犀智创CTO，共赴新材料智创未来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-11</link>
-      <description>&lt;![CDATA[资深技术专家胡成文出任鼎犀智创CTO，共赴新材料智创未来]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-11</guid>
+      <title>反超Gemini 3！马斯克放出Grok4.1快速推理版，还曝出了新一轮150亿美元融资</title>
+      <link>https://www.qbitai.com/2025/11/354348.html</link>
+      <description>&lt;![CDATA[反超Gemini 3！马斯克放出Grok4.1快速推理版，还曝出了新一轮150亿美元融资]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 04:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354348.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>登顶开源SOTA！上交大&amp;小红书LoopTool实现工具调用任务的「数据进化」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-9</link>
-      <description>&lt;![CDATA[登顶开源SOTA！上交大&amp;小红书LoopTool实现工具调用任务的「数据进化」]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-9</guid>
+      <title>Gartner首次发布大模型报告：火山引擎排名中国厂商第一</title>
+      <link>https://www.qbitai.com/2025/11/354340.html</link>
+      <description>&lt;![CDATA[Gartner首次发布大模型报告：火山引擎排名中国厂商第一]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 03:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354340.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NeurIPS 2025 Spotlight | 香港大学提出无需数据标记的ViT密集表征增强方法</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-8</link>
-      <description>&lt;![CDATA[NeurIPS 2025 Spotlight | 香港大学提出无需数据标记的ViT密集表征增强方法]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeurIPS 2025 | 上下文元学习实现不微调跨被试脑活动预测</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-19-7</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | 上下文元学习实现不微调跨被试脑活动预测]]&gt;</description>
-      <pubDate>Wed, 19 Nov 2025 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-19-7</guid>
+      <title>何恺明团队新作：扩散模型可能被用错了</title>
+      <link>https://www.qbitai.com/2025/11/354317.html</link>
+      <description>&lt;![CDATA[何恺明团队新作：扩散模型可能被用错了]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 02:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354317.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,122 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-19 23:19
+**最后更新时间**: 2025-11-20 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-20 05:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Turing Award Winner Yann LeCun to Leave Meta, Launch AI Startup Focused on World Models](https://www.tmtpost.com/7773738.html)
+**发布时间**: 2025-11-20 13:15
+
+#### [U.S. Reported to Greenlight Exports of Advanced AI Chips to Middle East](https://www.tmtpost.com/7773733.html)
+**发布时间**: 2025-11-20 13:11
+
+#### [Saudia Arabia Reaches Strategic AI Partnership with U.S., Ramps Up Committed Investment to $1 Trillion](https://www.tmtpost.com/7773655.html)
+**发布时间**: 2025-11-20 12:25
+
+#### [陆正耀的旧剧本与新赌局：库迪会重蹈瑞幸覆辙吗？](https://www.tmtpost.com/7772821.html)
+**发布时间**: 2025-11-20 12:12
+
+#### [乘风AI，快手已经开始迎来收获期](https://www.tmtpost.com/7773640.html)
+**发布时间**: 2025-11-20 12:10
+
+#### [Dycom股价因财报大涨，AI数据中心建设热潮依旧不减](https://www.tmtpost.com/7773606.html)
+**发布时间**: 2025-11-20 11:50
+
+#### [为什么沃尔玛的财报不仅仅关乎其股价？](https://www.tmtpost.com/7773603.html)
+**发布时间**: 2025-11-20 11:49
+
+#### [新时代民营经济人士培育赋能第六期培训班在张謇企业家学院举办](https://www.tmtpost.com/7773511.html)
+**发布时间**: 2025-11-20 11:42
+
+#### [Ant Group Leads Investment in RockFlow's Latest Multi-Million Dollar Funding Round](https://www.tmtpost.com/7773547.html)
+**发布时间**: 2025-11-20 11:26
+
+#### [医疗保健行业势头持续增强，这三只股票的行情图展现出看涨走势](https://www.tmtpost.com/7773534.html)
+**发布时间**: 2025-11-20 11:18
+
+#### [核药的供应链压力测试开始了](https://www.tmtpost.com/7773348.html)
+**发布时间**: 2025-11-20 11:14
+
+#### [蚂蚁集团领投，RockFlow完成数千万美元新一轮融资 | 融资速递](https://www.tmtpost.com/7772731.html)
+**发布时间**: 2025-11-20 11:02
+
+#### [伴芯科技亮相ICCAD，AI智能体重构EDA，迈向芯片自主设计闭环 | 公司动态](https://www.tmtpost.com/7773276.html)
+**发布时间**: 2025-11-20 11:01
+
+#### [AI创业再添“大宗师”，杨立昆确认离开Meta，新公司专注机器智能研究 | 巴伦精选](https://www.tmtpost.com/7773495.html)
+**发布时间**: 2025-11-20 11:01
+
+#### [库克卸任收官的“谢幕礼”，中国每卖4部智能机就有1部是iPhone](https://www.tmtpost.com/7773475.html)
+**发布时间**: 2025-11-20 10:50
+
+#### [AI泡沫还是基建狂潮？一场来自华尔街与硅谷的深度思辨](https://www.tmtpost.com/7773379.html)
+**发布时间**: 2025-11-20 10:47
+
+#### [星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿 | 融资动态](https://www.tmtpost.com/7773334.html)
+**发布时间**: 2025-11-20 10:24
+
+#### [DoorDash股票蓄势待发，分析师认为当前正是买入良机](https://www.tmtpost.com/7773342.html)
+**发布时间**: 2025-11-20 10:18
+
+#### [Nvidia Posts Robust Quarterly Results, Beating Wall Street Expectations](https://www.tmtpost.com/7773198.html)
+**发布时间**: 2025-11-20 09:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DynamoDB DNS系统中的竞争条件：分析AWS US-EAST-1中断事件](https://www.infoq.cn/article/WHWkaM1p5olbFVGVo6SK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 13:00
+
+#### [Anthropic为Claude Code添加了沙箱和Web访问功能，以实现更安全的AI驱动编码](https://www.infoq.cn/article/7RA5wkyTy6i3NapcOP4Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 12:00
+
+#### [Monzo基于BigQuery和微服务的实时欺诈检测架构](https://www.infoq.cn/article/E3OFF8UcN4NQQmGRKd9b?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 11:22
+
+#### [从检测到通用感知：构建空间智能的基础](https://www.infoq.cn/article/HIiucAp3Wi5yvqYoVFGv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 11:00
+
+#### [融合风控知识的大模型体系建设与应用实践](https://www.infoq.cn/article/xJTe5bBq2bbQSMv9p7Gp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 11:00
+
+#### [中车携手飞桨文心：以AI赋能高铁发展，锻造智造新标杆](https://www.infoq.cn/article/ds7oIRrHmflvZHoKoPKq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 10:44
+
+#### [减少检索增强生成（RAG）语义缓存中的误报：以银行业为例](https://www.infoq.cn/article/2uR0g2O3Fk9ECeTqp04X?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 10:39
+
+#### [Cloudflare酿六年最惨宕机：一行Rust代码，全球一半流量瘫痪！ChatGPT、Claude集体失联](https://www.infoq.cn/article/ffrEqagbhIfAyitqzN7C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 10:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“低价神话”萨莉亚，遭北上广打工人“集体抛弃”？](http://www.huxiu.com/article/4807176.html?f=wangzhan)
+**发布时间**: 2025-11-20 12:00
+
+#### [从小就开始投喂资金支持？深圳金融科技企业杀疯了](http://www.huxiu.com/article/4807360.html?f=wangzhan)
+**发布时间**: 2025-11-20 11:38
+
+#### [人形机器人，是不是点错了科技树？](http://www.huxiu.com/article/4807136.html?f=wangzhan)
+**发布时间**: 2025-11-20 11:00
+
+#### [市场规模近80亿，素食餐厅凭啥越来越火？](http://www.huxiu.com/article/4807168.html?f=wangzhan)
+**发布时间**: 2025-11-20 10:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [错过了 2021？现在入坑 F1 赛事也不晚](https://sspai.com/post/103846)
+**发布时间**: 2025-11-20 10:31
+
+#### [派早报：Apple 公布 2025 年度应用提名、华为公布 MatePad Edge 等](https://sspai.com/post/103959)
+**发布时间**: 2025-11-20 08:44
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [杨立昆宣布离开 Meta「自立门户」；荷兰暂停干预安世半导体；TikTok 将支持用户设置减少 AI 内容](http://www.geekpark.net/news/356639)
+**发布时间**: 2025-11-20 08:41
 
 ---
 
