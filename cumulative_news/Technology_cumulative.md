@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-20 05:21
+**最后更新时间**: 2025-11-20 08:29
+
+---
+
+## 🆕 最新更新 (2025-11-20 08:29)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么说在 AI 时代，「想象」比「记录」更费劲？](http://www.geekpark.net/news/356672)
+**发布时间**: 2025-11-20 16:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？](https://www.infoq.cn/article/8M7jEXAvzGNRFCaiUXO5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 15:57
+
+#### [LLM 没意思，小扎决策太拉垮，图灵奖大佬 LeCun 离职做 AMI](https://www.infoq.cn/article/YyXpLPJwazKxww4craMv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 15:37
+
+#### [谷歌预览Code Wiki：你能信任AI来记录你的代码库吗？](https://www.infoq.cn/article/Xh50z4ehHKu7oIMTPNov?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 15:33
+
+#### [React 基金会负责人谈框架的下一步发展](https://www.infoq.cn/article/w6Pm4uhGMJa7XzxHyu1z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 15:23
+
+#### [从 C++ 转向 Rust？ClickHouse 有话说](https://www.infoq.cn/article/eazVcVHlRuHTOeWDy0rs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 15:18
+
+#### [理解规范驱动开发：Kiro、spec-kit和Tessl](https://www.infoq.cn/article/4GT6jbMzEmCBavfDlzHK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 15:05
+
+#### [腾讯音乐如何基于 AutoMQ 降低 Kafka 50%+ 成本](https://www.infoq.cn/article/PmRWNaHyjw2IBZYPpY2H?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 14:55
+
+#### [InfraTalk直播第一期完整版｜Agent浪潮之下：AI Infra的演化成果与方向解读](https://www.infoq.cn/video/VkJR3aH430YQSvYJDZEQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 14:55
+
+#### [征程再启，剑指桂冠 | 云谷杯·2025 人工智能应用创新创业大赛复赛顺利举⾏](https://www.infoq.cn/article/MbkcNlIDLbIPxtLX7iZl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 14:36
+
+#### [Agent规模化落地前夜，AI Infra的难题全都暴露了](https://www.infoq.cn/article/dRPGO5HCirJQP7Ayy8DK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 14:23
+
+#### [微软通过私有云扩展解决数据驻留问题](https://www.infoq.cn/article/ZTmzTF7B8ZcENQ9kaqlD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 14:00
+
+#### [从需求到投标：数据驱动的智能技术方案生成 Agent 实战｜AICon北京](https://www.infoq.cn/article/33Aozr1sH9J8gj7UxBfu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 13:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [比非农还重要，英伟达能再次撑起美股脊梁骨吗？](https://www.tmtpost.com/7773222.html)
+**发布时间**: 2025-11-20 15:43
+
+#### [摆摊自救，餐厅上街抢生意](https://www.tmtpost.com/7773412.html)
+**发布时间**: 2025-11-20 15:30
+
+#### [iPhone 17 Series Powers Apple to Record Highs in China as Cook Eyes Possible Exit](https://www.tmtpost.com/7773958.html)
+**发布时间**: 2025-11-20 15:16
+
+#### [A股进入下半场，还有哪些风口？](https://www.tmtpost.com/7773236.html)
+**发布时间**: 2025-11-20 15:13
+
+#### [Musk's xAI Joins Hands with Nvidia to Develop a 500MW Datacenter in Saudi Arabia](https://www.tmtpost.com/7773871.html)
+**发布时间**: 2025-11-20 14:18
+
+#### [巴菲特临退休卖出苹果买谷歌，股神的最后一战意欲何为？](https://www.tmtpost.com/7773432.html)
+**发布时间**: 2025-11-20 14:17
+
+#### [光伏下半场：光储协同、体系出海、技术融合丨行业风向标](https://www.tmtpost.com/7773783.html)
+**发布时间**: 2025-11-20 14:13
+
+#### [新国标之下，两轮电动厂商开始押注B端场景](https://www.tmtpost.com/7773762.html)
+**发布时间**: 2025-11-20 13:59
+
+#### [AMD, Cisco, PIF-Backed Humain Plan to Build 1GW Datacenters in Saudi Arabia](https://www.tmtpost.com/7773800.html)
+**发布时间**: 2025-11-20 13:47
+
+#### [Gemini 3负责人最新访谈：不做情感陪伴，只做最强生产力工具](https://www.tmtpost.com/7773644.html)
+**发布时间**: 2025-11-20 13:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [开源、免费、隐私友好，功能强大的 Android 输入法：小企鹅输入法](https://sspai.com/post/103871)
+**发布时间**: 2025-11-20 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [又一轻食巨头暴雷！曾融资过亿，如今创始人被悬赏“追债”？](http://www.huxiu.com/article/4807163.html?f=wangzhan)
+**发布时间**: 2025-11-20 14:16
 
 ---
 

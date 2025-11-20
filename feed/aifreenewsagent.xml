@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 05:22:01 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 08:29:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-5</link>
-      <description>&lt;![CDATA[星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-5</guid>
+      <title>NEX：下一代能动性模型体系与开源生态</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-9</link>
+      <description>&lt;![CDATA[NEX：下一代能动性模型体系与开源生态]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，Yann LeCun官宣离职创业，瞄准高级机器智能AMI</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-4</link>
-      <description>&lt;![CDATA[刚刚，Yann LeCun官宣离职创业，瞄准高级机器智能AMI]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-4</guid>
+      <title>本周六，围观学习NeurIPS 2025论文分享会，最后报名了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-8</link>
+      <description>&lt;![CDATA[本周六，围观学习NeurIPS 2025论文分享会，最后报名了]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>分割一切并不够，还要3D重建一切，SAM 3D来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-3</link>
-      <description>&lt;![CDATA[分割一切并不够，还要3D重建一切，SAM 3D来了]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-3</guid>
+      <title>AI终于学会「读懂人心」，带飞DeepSeek R1，OpenAI o3等模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-7</link>
+      <description>&lt;![CDATA[AI终于学会「读懂人心」，带飞DeepSeek R1，OpenAI o3等模型]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>黄仁勋GTC开场：「AI-XR Scientist」来了！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-2</link>
-      <description>&lt;![CDATA[黄仁勋GTC开场：「AI-XR Scientist」来了！]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-2</guid>
+      <title>让移动不再成为噪声：搭载AI的新一代可穿戴传感实现高动态条件下的精准识别</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-6</link>
+      <description>&lt;![CDATA[让移动不再成为噪声：搭载AI的新一代可穿戴传感实现高动态条件下的精准识别]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>通往通用人工智能的关键一步？DeepMind放大招，3D世界最强AI智能体SIMA 2</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20</link>
-      <description>&lt;![CDATA[通往通用人工智能的关键一步？DeepMind放大招，3D世界最强AI智能体SIMA 2]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20</guid>
+      <title>2025人工智能+大会在海淀举行 共绘AI下一个十年图景</title>
+      <link>https://www.qbitai.com/2025/11/354542.html</link>
+      <description>&lt;![CDATA[2025人工智能+大会在海淀举行 共绘AI下一个十年图景]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 06:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354542.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>英伟达炸裂业绩打飞“AI泡沫”，黄仁勋：云端GPU卖光了</title>
-      <link>https://www.qbitai.com/2025/11/354350.html</link>
-      <description>&lt;![CDATA[英伟达炸裂业绩打飞“AI泡沫”，黄仁勋：云端GPU卖光了]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 04:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354350.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>反超Gemini 3！马斯克放出Grok4.1快速推理版，还曝出了新一轮150亿美元融资</title>
-      <link>https://www.qbitai.com/2025/11/354348.html</link>
-      <description>&lt;![CDATA[反超Gemini 3！马斯克放出Grok4.1快速推理版，还曝出了新一轮150亿美元融资]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 04:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354348.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Gartner首次发布大模型报告：火山引擎排名中国厂商第一</title>
-      <link>https://www.qbitai.com/2025/11/354340.html</link>
-      <description>&lt;![CDATA[Gartner首次发布大模型报告：火山引擎排名中国厂商第一]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 03:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354340.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>何恺明团队新作：扩散模型可能被用错了</title>
-      <link>https://www.qbitai.com/2025/11/354317.html</link>
-      <description>&lt;![CDATA[何恺明团队新作：扩散模型可能被用错了]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 02:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354317.html</guid>
+      <title>2025人工智能+大会圆满落幕，人工智能百人会凝聚共识</title>
+      <link>https://www.qbitai.com/2025/11/354521.html</link>
+      <description>&lt;![CDATA[2025人工智能+大会圆满落幕，人工智能百人会凝聚共识]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354521.html</guid>
       <category>AI</category>
     </item>
   </channel>
