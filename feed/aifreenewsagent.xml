@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Nov 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 08:29:56 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 23:20:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NEX：下一代能动性模型体系与开源生态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-9</link>
-      <description>&lt;![CDATA[NEX：下一代能动性模型体系与开源生态]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-9</guid>
+      <title>谷歌Nano Banana Pro上线，深度结合Gemini 3，这下生成世界了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-21</link>
+      <description>&lt;![CDATA[谷歌Nano Banana Pro上线，深度结合Gemini 3，这下生成世界了]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 00:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>本周六，围观学习NeurIPS 2025论文分享会，最后报名了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-8</link>
-      <description>&lt;![CDATA[本周六，围观学习NeurIPS 2025论文分享会，最后报名了]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 14:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-8</guid>
+      <title>DeepSeek悄悄开源LPLB：用线性规划解决MoE负载不均</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-13</link>
+      <description>&lt;![CDATA[DeepSeek悄悄开源LPLB：用线性规划解决MoE负载不均]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 23:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI终于学会「读懂人心」，带飞DeepSeek R1，OpenAI o3等模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-7</link>
-      <description>&lt;![CDATA[AI终于学会「读懂人心」，带飞DeepSeek R1，OpenAI o3等模型]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-7</guid>
+      <title>AAAI 2025 Oral | 火山引擎多媒体实验室提出VQ-Insight，AIGC视频画质理解大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-12</link>
+      <description>&lt;![CDATA[AAAI 2025 Oral | 火山引擎多媒体实验室提出VQ-Insight，AIGC视频画质理解大模型]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 23:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>让移动不再成为噪声：搭载AI的新一代可穿戴传感实现高动态条件下的精准识别</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-20-6</link>
-      <description>&lt;![CDATA[让移动不再成为噪声：搭载AI的新一代可穿戴传感实现高动态条件下的精准识别]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-6</guid>
+      <title>最大游戏up主也玩本地AI？让笔记本都能跑大模型的Parallax来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-11</link>
+      <description>&lt;![CDATA[最大游戏up主也玩本地AI？让笔记本都能跑大模型的Parallax来了]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 18:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025人工智能+大会在海淀举行 共绘AI下一个十年图景</title>
-      <link>https://www.qbitai.com/2025/11/354542.html</link>
-      <description>&lt;![CDATA[2025人工智能+大会在海淀举行 共绘AI下一个十年图景]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 06:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354542.html</guid>
+      <title>并行扩散架构突破极限，实现5分钟AI视频生成，「叫板」OpenAI与谷歌？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-20-10</link>
+      <description>&lt;![CDATA[并行扩散架构突破极限，实现5分钟AI视频生成，「叫板」OpenAI与谷歌？]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-20-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025人工智能+大会圆满落幕，人工智能百人会凝聚共识</title>
-      <link>https://www.qbitai.com/2025/11/354521.html</link>
-      <description>&lt;![CDATA[2025人工智能+大会圆满落幕，人工智能百人会凝聚共识]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354521.html</guid>
+      <title>Nano Banana Pro上线！集成Gemini 3与Veo 3，谷歌不给竞争对手喘息机会</title>
+      <link>https://www.qbitai.com/2025/11/354819.html</link>
+      <description>&lt;![CDATA[Nano Banana Pro上线！集成Gemini 3与Veo 3，谷歌不给竞争对手喘息机会]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354819.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>英特尔酷睿Ultra 9 200H系列焕新：120B MoE大模型，智能感官觉醒</title>
+      <link>https://www.qbitai.com/2025/11/354791.html</link>
+      <description>&lt;![CDATA[英特尔酷睿Ultra 9 200H系列焕新：120B MoE大模型，智能感官觉醒]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354791.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10家机构共筑具身智能真机评测基石：RoboChallenge组委会正式启航</title>
+      <link>https://www.qbitai.com/2025/11/354766.html</link>
+      <description>&lt;![CDATA[10家机构共筑具身智能真机评测基石：RoboChallenge组委会正式启航]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354766.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>具身开放日点燃生态引擎，智源以开源开放驱动具身智能创新</title>
+      <link>https://www.qbitai.com/2025/11/354747.html</link>
+      <description>&lt;![CDATA[具身开放日点燃生态引擎，智源以开源开放驱动具身智能创新]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354747.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>抢先报名！第二波嘉宾亮相，百度京东高通亚马逊都来了｜MEET2026</title>
+      <link>https://www.qbitai.com/2025/11/354658.html</link>
+      <description>&lt;![CDATA[抢先报名！第二波嘉宾亮相，百度京东高通亚马逊都来了｜MEET2026]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354658.html</guid>
       <category>AI</category>
     </item>
   </channel>
