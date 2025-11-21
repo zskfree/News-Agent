@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Nov 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2025 08:30:02 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 23:19:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nano Banana升级版上线！全网疯狂实测ing…</title>
-      <link>https://www.qbitai.com/2025/11/355016.html</link>
-      <description>&lt;![CDATA[Nano Banana升级版上线！全网疯狂实测ing…]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 06:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355016.html</guid>
+      <title>2025智源具身开放日：共筑开源基石，抢占全球具身智能生态新高地</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-21-12</link>
+      <description>&lt;![CDATA[2025智源具身开放日：共筑开源基石，抢占全球具身智能生态新高地]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 20:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>智元远征A2完成全球首次人形机器人百公里跨省行走，获吉尼斯世界纪录认证</title>
-      <link>https://www.qbitai.com/2025/11/355006.html</link>
-      <description>&lt;![CDATA[智元远征A2完成全球首次人形机器人百公里跨省行走，获吉尼斯世界纪录认证]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355006.html</guid>
+      <title>核反应堆的「第一次心跳」：初创公司实现零功率临界，研发模式迈向轻量化</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-21-11</link>
+      <description>&lt;![CDATA[核反应堆的「第一次心跳」：初创公司实现零功率临界，研发模式迈向轻量化]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>SGLang Diffusion震撼发布：图像视频生成速度猛提57%！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-21-10</link>
+      <description>&lt;![CDATA[SGLang Diffusion震撼发布：图像视频生成速度猛提57%！]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 18:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Reducing EV range anxiety: How a simple AI model predicts port availability</title>
+      <link>https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/</link>
+      <description>&lt;![CDATA[Reducing EV range anxiety: How a simple AI model predicts port availability]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>具身智能大算力开发平台S600重磅亮相，地瓜机器人引领新范式</title>
+      <link>https://www.qbitai.com/2025/11/355297.html</link>
+      <description>&lt;![CDATA[具身智能大算力开发平台S600重磅亮相，地瓜机器人引领新范式]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355297.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>对话范浩强：10亿融资之前，我们手搓了5000元“丐版硬件”</title>
+      <link>https://www.qbitai.com/2025/11/355286.html</link>
+      <description>&lt;![CDATA[对话范浩强：10亿融资之前，我们手搓了5000元“丐版硬件”]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 09:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355286.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>丰田旗舰，用上华为车机</title>
+      <link>https://www.qbitai.com/2025/11/355250.html</link>
+      <description>&lt;![CDATA[丰田旗舰，用上华为车机]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 08:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355250.html</guid>
       <category>AI</category>
     </item>
   </channel>

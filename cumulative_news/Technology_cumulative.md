@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-21 08:29
+**最后更新时间**: 2025-11-21 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-21 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Google Rolls Out BigQuery AI to Power Data Analysis with Simple Codes](https://www.tmtpost.com/7777048.html)
+**发布时间**: 2025-11-22 02:48
+
+#### [小红书公布海外用户相关数据；大疆投资消费级3D打印公司；自动驾驶集装箱卡车完成夜间试行中越智慧口岸 ｜ 一周大公司出海动态](https://www.tmtpost.com/7776561.html)
+**发布时间**: 2025-11-21 20:34
+
+#### [欧莱雅集团投资中国纯净护肤品牌「LAN兰」；Manner咖啡回应上市传闻；霸王茶姬8周年上线伯牙绝弦花香款｜消研所周报](https://www.tmtpost.com/7776498.html)
+**发布时间**: 2025-11-21 19:36
+
+#### [从Wintel到达链，联想重估只是时间问题](https://www.tmtpost.com/7775388.html)
+**发布时间**: 2025-11-21 19:18
+
+#### [2025年上半年，元器件分销商榜单有变](https://www.tmtpost.com/7776485.html)
+**发布时间**: 2025-11-21 19:15
+
+#### [罕见资本接力，大股东解禁日反向“输血”，品高股份 4 亿急攻 AI 算力](https://www.tmtpost.com/7776464.html)
+**发布时间**: 2025-11-21 19:08
+
+#### [抖音“铁腕”封禁60万账号，1499元飞天茅台“消失”！|焦点](https://www.tmtpost.com/7776495.html)
+**发布时间**: 2025-11-21 19:07
+
+#### [半导体跨界并购折戟，梦天家居“闪电”傍上半导体投资天团](https://www.tmtpost.com/7776539.html)
+**发布时间**: 2025-11-21 19:03
+
+#### [当AI走向“解决问题”：平安如何打造“超级有用”的智能体？](https://www.tmtpost.com/7776143.html)
+**发布时间**: 2025-11-21 19:01
+
+#### [ThinkPad×奥比利：穿透工业“黑箱”，与思考者同行](https://www.tmtpost.com/7769243.html)
+**发布时间**: 2025-11-21 18:46
+
+#### [腾讯因AI让步，苹果为微信松绑](https://www.tmtpost.com/7776157.html)
+**发布时间**: 2025-11-21 18:25
+
+#### [集体“抗税”大势已成，游戏厂商终于迎来低抽成时代？](https://www.tmtpost.com/7776203.html)
+**发布时间**: 2025-11-21 18:21
+
+#### [特斯拉股票在十一月表现惨淡，谁受伤最深？](https://www.tmtpost.com/7776456.html)
+**发布时间**: 2025-11-21 18:20
+
+#### [千问不容有失，夸克“身不由己”？](https://www.tmtpost.com/7776036.html)
+**发布时间**: 2025-11-21 18:19
+
+#### [警惕商超从一个同质化走向另一个同质化](https://www.tmtpost.com/7776180.html)
+**发布时间**: 2025-11-21 18:19
+
+#### [下一个蓝海，大厂加码“微短剧+”，行业将迎三大变化](https://www.tmtpost.com/7776326.html)
+**发布时间**: 2025-11-21 18:17
+
+#### [马斯克万亿薪酬背后：特斯拉豪赌AI帝国 | 巴伦菁英月谈会](https://www.tmtpost.com/7776391.html)
+**发布时间**: 2025-11-21 18:00
+
+#### [国补退潮但黄金回收大涨，爱回收Q3收入51.5亿元｜看财报](https://www.tmtpost.com/7776320.html)
+**发布时间**: 2025-11-21 17:56
+
+#### [对话Gyges Labs邓旭东：一款“特工”AI眼镜，众筹了430万美金｜AI Founder请回答 | 巴伦精选](https://www.tmtpost.com/7776313.html)
+**发布时间**: 2025-11-21 17:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [劈柴哥玩得上头！Nano Banana Pro 真杀疯了，但谷歌没接住用户的付费热情？](https://www.infoq.cn/article/NC2ywybuNREkpkBboURN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 20:00
+
+#### [智源Open Day炸场：当具身智能圈的“安卓”，主推视频数据？30+明星CEO、联创圆桌激辩](https://www.infoq.cn/article/O5h0cDYBD62WRqZCP8Jz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 19:38
+
+#### [数据驱动的智能诊断系统：多智能体系统在生产环境中的技术落地与实践｜AICon北京](https://www.infoq.cn/article/yJewQOrXEePMPewDBFMm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 17:55
+
+#### [英特尔中国40年，未来战略明确：坚持代工业务，Intel 18A 是未来三代产品基石](https://www.infoq.cn/article/OIohXyvbwuFbOL9d1jqe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 17:19
+
+#### [不用上传数据了！苹果正式开源 Embedding Atlas，用 Rust+WebGPU 在桌面实现科研级数据分析](https://www.infoq.cn/article/ir6HcWvoXORXG4R3TRaS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 16:56
+
+#### [龙蜥五年：开源破局、生态共融，AI重塑操作系统新范式](https://www.infoq.cn/article/5Prsj2xMMeIzAt5gyjKE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 16:48
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米汽车第 50 万辆整车下线；谷歌推出 Nana Banana Pro；华为正式推出乾崑境系列旗舰 | 极客早知道](http://www.geekpark.net/news/356753)
+**发布时间**: 2025-11-21 18:35
+
+#### [字节这个「消失」了几年的 App，悄悄杀回苹果商城排行榜](http://www.geekpark.net/news/356642)
+**发布时间**: 2025-11-21 18:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/103994)
+**发布时间**: 2025-11-21 17:39
+
+#### [技术语境中那些熟悉又陌生的英语动词（三）](https://sspai.com/prime/story/interesting-verbs-in-computing-03)
+**发布时间**: 2025-11-21 17:26
 
 ---
 
