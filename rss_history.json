@@ -1434,69 +1434,21 @@
         "link": "https://www.qbitai.com/2025/11/354889.html",
         "published_date": "Fri, 21 Nov 2025 01:33:00 GMT",
         "first_seen": "2025-11-21T05:21:28.833363"
+      },
+      "bb2fe050b455818f03a380247c113fd444f41c9a4947d48821552cf0ccf46d57": {
+        "title": "Nano Banana升级版上线！全网疯狂实测ing…",
+        "link": "https://www.qbitai.com/2025/11/355016.html",
+        "published_date": "Fri, 21 Nov 2025 06:38:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.610723"
+      },
+      "0cfeae724f258d232b9828102a7a02ac982cb7c395964a73106686c73f41c3d1": {
+        "title": "智元远征A2完成全球首次人形机器人百公里跨省行走，获吉尼斯世界纪录认证",
+        "link": "https://www.qbitai.com/2025/11/355006.html",
+        "published_date": "Fri, 21 Nov 2025 06:19:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.610894"
       }
     },
     "Technology": {
-      "8f0f44c133e1d7a3f974f45b76b28a972ec6d06fa429478cc0afeeb2adcb67aa": {
-        "title": "亚马逊云科技公司推出EC2实例认证",
-        "link": "https://www.infoq.cn/article/8Ttbl2JhW4hslXgZ0Zdm?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160209"
-      },
-      "51b5a56ad52c61d47d8d391f080d51fcbc4549874a49976660b24cfe04c8c3f8": {
-        "title": "研究人员推出ACE框架，实现大语言模型自我优化上下文",
-        "link": "https://www.infoq.cn/article/ULlMPRM1hiOffBApjf6t?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160293"
-      },
-      "3706a6a94ce9c5912dda8f95ed7b55495f1d7934db9be89c0c8d01aa7f884d3e": {
-        "title": "模力工场 016 周 AI 应用榜：来看 AI 图表双雄争霸战，效率与创造力全线爆发！",
-        "link": "https://www.infoq.cn/article/ugSWKSf7yOCUYZ5ofxNt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 11:19:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160305"
-      },
-      "d95b09ecb55b4ef9d27d24c4ab11a0b9c1b371e7d45e3911a2173a69f4e1f4ce": {
-        "title": "谷歌开源的Gemini CLI扩展助力开发者构建定制化人工智能工作流",
-        "link": "https://www.infoq.cn/article/HFPYIuLgKdWQiKs9ewoB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160315"
-      },
-      "6e609fd2b3860224c285e3a31906a0b12d00754ad8209ed6f85c6b7e3e64164a": {
-        "title": "GitHub MCP注册中心提供了一个发现和部署MCP服务器的中心枢纽",
-        "link": "https://www.infoq.cn/article/cTkI5BVRelKx4tg3cGtr?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 10:09:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160326"
-      },
-      "1514bb2994315e5785ba375b667fee10747eabb2ab39b6cacde23cc464f8019f": {
-        "title": "东土科技收购IPO“钉子户”高威科：标的客户资源与科研成色引关注｜并购一线",
-        "link": "https://www.tmtpost.com/7734474.html",
-        "published_date": "Wed, 22 Oct 2025 12:55:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160241"
-      },
-      "e7eb7629b54cdc18d892755d058a43a422c48d3df6b755ffc277f337f1a10e0a": {
-        "title": "AI时代，ERP的“破”与“立”",
-        "link": "https://www.tmtpost.com/7733908.html",
-        "published_date": "Wed, 22 Oct 2025 12:44:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160337"
-      },
-      "e924db2598c39bc277c49258f797c8d484450e0d8ca1dcfb3f5476b2a33c5dcb": {
-        "title": "金钢科技完成数千万元Pre-A++轮融资，引领机器人行业关键零部件变革 | 融资首发",
-        "link": "https://www.tmtpost.com/7734299.html",
-        "published_date": "Wed, 22 Oct 2025 11:10:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160257"
-      },
-      "e255d01db97ef5e40da96bd3dc2bdd97ff193a92854e3a11a24106a47610cc05": {
-        "title": "两日五单、43亿美元，中国创新药在“ESMO+季节性”双窗口里加速出货｜行业风向标",
-        "link": "https://www.tmtpost.com/7733982.html",
-        "published_date": "Wed, 22 Oct 2025 10:36:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160269"
-      },
-      "dd0200ee83c495409a4589ce15c968cbc2a94c09fea127acddb8b97003a0fcc0": {
-        "title": "1024 特别直播｜不止代码 —— 用科技重新定义你的生活",
-        "link": "https://sspai.com/post/103242",
-        "published_date": "Wed, 22 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160282"
-      },
       "ec187df476b138234941f3de8f1a58ae72f778960f4c0b82b0dc28c23c59226c": {
         "title": "AI编程工具在大型企业“遇冷”？网易CodeWave升级研发模式，不只关注“代码生成”",
         "link": "https://www.infoq.cn/article/SOE9Qzv1iutE2mrmLuiM?utm_source=rss&utm_medium=article",
@@ -12452,13 +12404,127 @@
         "link": "https://sspai.com/post/103979",
         "published_date": "Fri, 21 Nov 2025 08:51:00 GMT",
         "first_seen": "2025-11-21T05:22:17.288983"
+      },
+      "88e8cc0e9dd911bd6554706be96352ae54fbfa981c11e9a5e8004dcc9c338f6c": {
+        "title": "高阶智驾卷到15万级，汽车市场的新一轮淘汰赛开始了",
+        "link": "https://www.tmtpost.com/7775944.html",
+        "published_date": "Fri, 21 Nov 2025 16:17:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056241"
+      },
+      "69951e8e3418321ab3d8cccbcbda2cfdacf3f21d67e21536dd23c56068067329": {
+        "title": "Trina Solar Confirms Founder's Daughter to Marry Chagee CEO",
+        "link": "https://www.tmtpost.com/7776053.html",
+        "published_date": "Fri, 21 Nov 2025 16:13:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056254"
+      },
+      "422b8541c34d322609b754ad2ca80df0f6088082507e4e1399cb0c78e3bef8c2": {
+        "title": "MaaS，命悬一“线” | 巴伦精选",
+        "link": "https://www.tmtpost.com/7776022.html",
+        "published_date": "Fri, 21 Nov 2025 15:55:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056267"
+      },
+      "46df8d076083c0f918eb9c4c9f757907a478478ebb1d6a308134a15697667f42": {
+        "title": "透明计算的十年闹剧",
+        "link": "https://www.tmtpost.com/7775685.html",
+        "published_date": "Fri, 21 Nov 2025 15:10:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.720402"
+      },
+      "31294d52162bb5bc5eb2c7c7effdf675a879be6f0b002a7697748f45587d2319": {
+        "title": "对话杨元庆：AI不存在泡沫，2026年存储芯片价格还会持续上涨",
+        "link": "https://www.tmtpost.com/7775840.html",
+        "published_date": "Fri, 21 Nov 2025 15:04:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056201"
+      },
+      "0751edb5738cf4025009d45985d132710b6709aebb56cb96c75f1a5b7201d926": {
+        "title": "口服“增高药”，不再是智商税？",
+        "link": "https://www.tmtpost.com/7775781.html",
+        "published_date": "Fri, 21 Nov 2025 15:02:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056277"
+      },
+      "84a26fde32a60bc5d81e56337f64d493c148e8b4b5a79d22d5f7e785ed10053a": {
+        "title": "WeMakePrice破产，数万卖家货款被“清零”",
+        "link": "https://www.tmtpost.com/7775707.html",
+        "published_date": "Fri, 21 Nov 2025 14:55:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056287"
+      },
+      "6c79e48a131aaafe63888da2fd4a9c4be5bbe6279ea89d05b105a6d6828c9c70": {
+        "title": "俞敏洪毕竟不是于东来",
+        "link": "https://www.tmtpost.com/7775658.html",
+        "published_date": "Fri, 21 Nov 2025 14:53:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056296"
+      },
+      "f38c0d2e6517f5b0e8081a719ab1b9ecfd24a3e5798d983f3a0d4f433cf3038f": {
+        "title": "搞笑诺贝尔：科学界的邪修盛宴",
+        "link": "https://www.tmtpost.com/7775678.html",
+        "published_date": "Fri, 21 Nov 2025 14:52:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056305"
+      },
+      "498f27e121588381d804c7a2fac338160c5de345ad27bb9e59253fd3dcd86fa4": {
+        "title": "24％曾被裁，2025美国游戏从业者平均年薪过百万，40%已投简历超100份",
+        "link": "https://www.tmtpost.com/7775823.html",
+        "published_date": "Fri, 21 Nov 2025 14:46:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056316"
+      },
+      "e4a23c715f54f98e1760b9b50380d5d5d5812f1f676f17151308ed148bcc7366": {
+        "title": "光伏CTO聚首蓉城，以创新破局能源未来",
+        "link": "https://www.tmtpost.com/7775756.html",
+        "published_date": "Fri, 21 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-21T08:30:51.056228"
+      },
+      "32792c45668aff16fe06e6bd9d0d4ecbabdf9e36aa7802957f975ba72859639d": {
+        "title": "DJI's Investment Signals a Coming of Age for Consumer 3D Printing",
+        "link": "https://www.tmtpost.com/7775792.html",
+        "published_date": "Fri, 21 Nov 2025 14:01:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.723456"
+      },
+      "58da4cb667196af0e7666ce58ff8f32358b8d0ec975bc2f2ed80b4c0ac64a3f4": {
+        "title": "从“拼工具”到“造流水线”：有道音视频翻译升级一站式 AI 工作台",
+        "link": "https://www.infoq.cn/article/MH31ImCRsNERwJgN2jdu?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Nov 2025 16:04:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.724182"
+      },
+      "e1b8a0578eb4859044ac28b578e94da0a18c63fb369515026320a9aa0b76b152": {
+        "title": "腾讯开源轻量级视频生成模型HunyuanVideo 1.5，消费级显卡可部署",
+        "link": "https://www.infoq.cn/article/SVO2eO7PSqhV91jTskOr?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Nov 2025 14:44:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.724937"
+      },
+      "8c67edfceafc3b018a0cfa22a3c6b747dd70c1f8a7e91e86b6b62a9994310c7a": {
+        "title": "Kiro正式可用，系列核心功能迎来升级",
+        "link": "https://www.infoq.cn/article/mLc6BbCTTEFSlC69yUMR?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Nov 2025 14:29:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.725531"
+      },
+      "437d6dab76f6cbc33dde1632fd9c9a976ba1c4ae1f1ec42e2d3769a7618ea9aa": {
+        "title": "​「数字分身」白菜价：每月 998 元，雇一个 AI 帮你直播 8 小时",
+        "link": "http://www.geekpark.net/news/356718",
+        "published_date": "Fri, 21 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.726543"
+      },
+      "873f1f2d2c900f86700124fa84ee7f3871c8b0923fdaa1ec1f21197044df8a12": {
+        "title": "一日一技 | 让 Mac 邮箱也用上自动化摘要",
+        "link": "https://sspai.com/post/103972",
+        "published_date": "Fri, 21 Nov 2025 15:02:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.727304"
+      },
+      "fcbe8eb031b37000412d8e07bba6e8a08240072ca31dc52b4ae04b36d2e5587c": {
+        "title": "精准三刀砍中日本经济命门，日本能撑多久？",
+        "link": "http://www.huxiu.com/article/4807685.html?f=wangzhan",
+        "published_date": "Fri, 21 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.727882"
+      },
+      "1f4d112cdc88298622edfbf89e56de5efee462cae82b87f59408769af285cc1f": {
+        "title": "改款不仅是为了进化，还有勿忘旧人｜阿维塔07深度体验",
+        "link": "http://www.huxiu.com/article/4807369.html?f=wangzhan",
+        "published_date": "Fri, 21 Nov 2025 13:00:00 GMT",
+        "first_seen": "2025-11-21T08:30:02.728679"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-21T05:21:28.909206",
-    "Technology": "2025-11-21T05:22:17.292553",
-    "Finance": "2025-11-21T05:21:28.725988"
+    "AI": "2025-11-21T08:30:02.683732",
+    "Technology": "2025-11-21T08:30:51.057830",
+    "Finance": "2025-11-21T08:30:02.503294"
   }
 }

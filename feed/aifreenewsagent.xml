@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2025 05:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 08:30:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>理想亮相广州车展：宣布推送全新VLA、AES辅助驾驶能力</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-9</link>
-      <description>&lt;![CDATA[理想亮相广州车展：宣布推送全新VLA、AES辅助驾驶能力]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 13:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-9</guid>
+      <title>Nano Banana升级版上线！全网疯狂实测ing…</title>
+      <link>https://www.qbitai.com/2025/11/355016.html</link>
+      <description>&lt;![CDATA[Nano Banana升级版上线！全网疯狂实测ing…]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 06:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355016.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>别问树模型了！死磕结构化数据，清华团队把大模型表格理解推到极限</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-8</link>
-      <description>&lt;![CDATA[别问树模型了！死磕结构化数据，清华团队把大模型表格理解推到极限]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Meta超级智能实验室又发论文，模型混一混，性能直接SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-7</link>
-      <description>&lt;![CDATA[Meta超级智能实验室又发论文，模型混一混，性能直接SOTA]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>超越 VTM-RA！快手双向智能视频编码器BRHVC亮相NeurIPS2025</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-6</link>
-      <description>&lt;![CDATA[超越 VTM-RA！快手双向智能视频编码器BRHVC亮相NeurIPS2025]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>刚刚！腾讯混元开源HunyuanVideo 1.5  元宝上线生视频能力</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-5</link>
-      <description>&lt;![CDATA[刚刚！腾讯混元开源HunyuanVideo 1.5  元宝上线生视频能力]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 12:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>两院院士增选结果揭晓：周志华、刘云浩当选科学院院士</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-4</link>
-      <description>&lt;![CDATA[两院院士增选结果揭晓：周志华、刘云浩当选科学院院士]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>无需训练、只优化解码策略，DTS框架让大模型推理准确率提升6%，推理长度缩短23%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-3</link>
-      <description>&lt;![CDATA[无需训练、只优化解码策略，DTS框架让大模型推理准确率提升6%，推理长度缩短23%]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>RoboChallenge组委会正式成立：具身智能真机评测迈入标准化共建时代</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-21-2</link>
-      <description>&lt;![CDATA[RoboChallenge组委会正式成立：具身智能真机评测迈入标准化共建时代]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-21-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>周志华，院士！</title>
-      <link>https://www.qbitai.com/2025/11/354893.html</link>
-      <description>&lt;![CDATA[周志华，院士！]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 02:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354893.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>爱诗科技PixVerse接入Nano Banana Pro，增强视频创作工作流体验</title>
-      <link>https://www.qbitai.com/2025/11/354889.html</link>
-      <description>&lt;![CDATA[爱诗科技PixVerse接入Nano Banana Pro，增强视频创作工作流体验]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 01:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/354889.html</guid>
+      <title>智元远征A2完成全球首次人形机器人百公里跨省行走，获吉尼斯世界纪录认证</title>
+      <link>https://www.qbitai.com/2025/11/355006.html</link>
+      <description>&lt;![CDATA[智元远征A2完成全球首次人形机器人百公里跨省行走，获吉尼斯世界纪录认证]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 06:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355006.html</guid>
       <category>AI</category>
     </item>
   </channel>
