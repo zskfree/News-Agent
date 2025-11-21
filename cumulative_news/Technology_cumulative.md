@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-20 23:20
+**最后更新时间**: 2025-11-21 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-21 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技在ECR中引入远程构建缓存以加速Docker镜像构建](https://www.infoq.cn/article/0RK100vMRBF2WqbvKfA1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 13:00
+
+#### [Kimi的K2开源语言模型支持动态资源可用性和新的优化器](https://www.infoq.cn/article/tYRMlj7SShobasDwgtqj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 12:30
+
+#### [今年，国内人形机器人卷出了哪些新花样？](https://www.infoq.cn/article/aRcIX5PZEFZeNvGfTV91?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 12:24
+
+#### [.NET 10提升了MAUI的质量和性能](https://www.infoq.cn/article/1jOaUa5QVmF7xTxlWmEl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 11:48
+
+#### [InfoQ年终榜单火热征集中：专家评委们分享AI产品、AI Coding、AI基础设施等进展｜](https://www.infoq.cn/video/r91BbGVGIw9Kqb60Abju?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 11:36
+
+#### [VoidZero的Rolldown库：具备Rollup兼容性且拥有Rust般速度的AP](https://www.infoq.cn/article/s2zkfZpr5xL48PUsNhIg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 11:15
+
+#### [大厂CIO独家分享：AI如何重塑开发者未来十年](https://www.infoq.cn/article/KjOQP8efoU9WgUktr26f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 10:35
+
+#### [GitHub推出后量子SSH安全功能，以保护代码免受未来威胁](https://www.infoq.cn/article/6W6J1LHKfQ8okhA3q6QE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 10:18
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一文读懂：为什么Nano Banana Pro重新定义了AI图像生成标准 | 巴伦精选](https://www.tmtpost.com/7775670.html)
+**发布时间**: 2025-11-21 12:36
+
+#### [今年最火的医美原料，华熙生物、江苏吴中、欧莱雅等巨头已下场](https://www.tmtpost.com/7775479.html)
+**发布时间**: 2025-11-21 12:01
+
+#### [百度最大的变量还是搜索](https://www.tmtpost.com/7774707.html)
+**发布时间**: 2025-11-21 12:01
+
+#### [郭谨一退位，资本大佬黎辉掌权，500亿瑞幸走出财务造假风波，谋二度上市](https://www.tmtpost.com/7773381.html)
+**发布时间**: 2025-11-21 11:54
+
+#### [秦波掌舵，凯宾斯基要“雄起”？](https://www.tmtpost.com/7774659.html)
+**发布时间**: 2025-11-21 11:51
+
+#### [两千块的华为「日照金山」火了，连路由器都要「颜值至上」了？](https://www.tmtpost.com/7774767.html)
+**发布时间**: 2025-11-21 11:51
+
+#### [55岁的张计玲，大学毕业了](https://www.tmtpost.com/7775246.html)
+**发布时间**: 2025-11-21 11:49
+
+#### [银行们，正在批量撤回“免费午餐”](https://www.tmtpost.com/7775424.html)
+**发布时间**: 2025-11-21 11:46
+
+#### [美国GLP-1市场见顶了？](https://www.tmtpost.com/7775309.html)
+**发布时间**: 2025-11-21 11:44
+
+#### [小天才手表，把家长们都套牢了](https://www.tmtpost.com/7775395.html)
+**发布时间**: 2025-11-21 11:42
+
+#### [U.S. Stock Market Logs Biggest Selloff Since April as AI Bubble Fears Linger Despite Nvidia Blockout Results](https://www.tmtpost.com/7775543.html)
+**发布时间**: 2025-11-21 11:41
+
+#### [快手的逆袭，才刚刚拉开序幕？](https://www.tmtpost.com/7775253.html)
+**发布时间**: 2025-11-21 11:37
+
+#### [冀北电力等高管接连落马，电网反腐触及投资、设备采购等核心业务环节](https://www.tmtpost.com/7775350.html)
+**发布时间**: 2025-11-21 11:29
+
+#### [上海交通大学太阳能研究所所长沈文忠：光伏行业未来一定要走三条路](https://www.tmtpost.com/7775374.html)
+**发布时间**: 2025-11-21 11:27
+
+#### [Black Sesame Technologies Brings Automotive-Grade Chips to Robots, Pioneering “Full-Brain” Intelligence](https://www.tmtpost.com/7775480.html)
+**发布时间**: 2025-11-21 11:19
+
+#### [回顾与前瞻：大逆转](https://www.tmtpost.com/7775420.html)
+**发布时间**: 2025-11-21 10:48
+
+#### [海外狂飙与AI改造，爱奇艺能破局吗？](https://www.tmtpost.com/7775044.html)
+**发布时间**: 2025-11-21 10:39
+
+#### [退货阴影之下，“巨型吊牌”能否为女装电商续命？](https://www.tmtpost.com/7774548.html)
+**发布时间**: 2025-11-21 10:35
+
+#### [世界模型崛起，AI路线之争喧嚣再起](https://www.tmtpost.com/7774617.html)
+**发布时间**: 2025-11-21 10:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [歌荒人不慌：如何发掘外语好音乐](https://sspai.com/post/103930)
+**发布时间**: 2025-11-21 11:32
+
+#### [派早报：OpenAI 发布 GPT-5.1-Codex-Max 模型等](https://sspai.com/post/103979)
+**发布时间**: 2025-11-21 08:51
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Nov 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 23:21:04 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 05:22:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身开放日点燃生态引擎，智源以开源开放驱动具身智能创新</title>
-      <link>https://www.tmtpost.com/7774317.html</link>
-      <description>&lt;![CDATA[具身开放日点燃生态引擎，智源以开源开放驱动具身智能创新]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7774317.html</guid>
+      <title>亚马逊云科技在ECR中引入远程构建缓存以加速Docker镜像构建</title>
+      <link>https://www.infoq.cn/article/0RK100vMRBF2WqbvKfA1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技在ECR中引入远程构建缓存以加速Docker镜像构建]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0RK100vMRBF2WqbvKfA1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节张楠、张宏江、田渊栋······极客公园创新大会 2026 嘉宾阵容更新！</title>
-      <link>http://www.geekpark.net/news/356673</link>
-      <description>&lt;![CDATA[字节张楠、张宏江、田渊栋······极客公园创新大会 2026 嘉宾阵容更新！]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/356673</guid>
+      <title>InfoQ年终榜单火热征集中：专家评委们分享AI产品、AI Coding、AI基础设施等进展｜</title>
+      <link>https://www.infoq.cn/video/r91BbGVGIw9Kqb60Abju?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[InfoQ年终榜单火热征集中：专家评委们分享AI产品、AI Coding、AI基础设施等进展｜]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/r91BbGVGIw9Kqb60Abju?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>新加坡出行巨头 Grab 如何用 AutoMQ 重塑 Kafka 流平台</title>
-      <link>https://www.infoq.cn/article/lp3VOCztFMYNo2bCVt2C?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[新加坡出行巨头 Grab 如何用 AutoMQ 重塑 Kafka 流平台]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 16:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lp3VOCztFMYNo2bCVt2C?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：OpenAI 发布 GPT-5.1-Codex-Max 模型等</title>
+      <link>https://sspai.com/post/103979</link>
+      <description>&lt;![CDATA[派早报：OpenAI 发布 GPT-5.1-Codex-Max 模型等]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/103979</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！</title>
-      <link>https://www.infoq.cn/article/GXafcQPIxv1N1Hj20q8t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 16:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GXafcQPIxv1N1Hj20q8t?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kimi的K2开源语言模型支持动态资源可用性和新的优化器</title>
+      <link>https://www.infoq.cn/article/tYRMlj7SShobasDwgtqj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kimi的K2开源语言模型支持动态资源可用性和新的优化器]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tYRMlj7SShobasDwgtqj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google Launches Gemini 3-Backed Image Generation Model Nano Banana Pro</title>
-      <link>https://www.tmtpost.com/7774785.html</link>
-      <description>&lt;![CDATA[Google Launches Gemini 3-Backed Image Generation Model Nano Banana Pro]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7774785.html</guid>
+      <title>今年，国内人形机器人卷出了哪些新花样？</title>
+      <link>https://www.infoq.cn/article/aRcIX5PZEFZeNvGfTV91?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[今年，国内人形机器人卷出了哪些新花样？]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 12:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aRcIX5PZEFZeNvGfTV91?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巴克莱最新研究报告：OpenAI算力需求持续激增，2028年支出将达到1100亿美元的峰值 | 巴伦精选</title>
-      <link>https://www.tmtpost.com/7774772.html</link>
-      <description>&lt;![CDATA[巴克莱最新研究报告：OpenAI算力需求持续激增，2028年支出将达到1100亿美元的峰值 | 巴伦精选]]&gt;</description>
-      <pubDate>Fri, 21 Nov 2025 00:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7774772.html</guid>
+      <title>.NET 10提升了MAUI的质量和性能</title>
+      <link>https://www.infoq.cn/article/1jOaUa5QVmF7xTxlWmEl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[.NET 10提升了MAUI的质量和性能]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1jOaUa5QVmF7xTxlWmEl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全脑智能崛起，黑芝麻智能如何破解机器人“量产难题”？</title>
-      <link>https://www.tmtpost.com/7774488.html</link>
-      <description>&lt;![CDATA[全脑智能崛起，黑芝麻智能如何破解机器人“量产难题”？]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7774488.html</guid>
+      <title>VoidZero的Rolldown库：具备Rollup兼容性且拥有Rust般速度的AP</title>
+      <link>https://www.infoq.cn/article/s2zkfZpr5xL48PUsNhIg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[VoidZero的Rolldown库：具备Rollup兼容性且拥有Rust般速度的AP]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/s2zkfZpr5xL48PUsNhIg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“泡沫”噪声中，英伟达的“现实”与黄仁勋的“狂想”</title>
-      <link>https://www.tmtpost.com/7773974.html</link>
-      <description>&lt;![CDATA[“泡沫”噪声中，英伟达的“现实”与黄仁勋的“狂想”]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7773974.html</guid>
+      <title>大厂CIO独家分享：AI如何重塑开发者未来十年</title>
+      <link>https://www.infoq.cn/article/KjOQP8efoU9WgUktr26f?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大厂CIO独家分享：AI如何重塑开发者未来十年]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KjOQP8efoU9WgUktr26f?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>《疯狂动物城2》明星配音争议，为何愈演愈烈？</title>
-      <link>https://www.tmtpost.com/7774346.html</link>
-      <description>&lt;![CDATA[《疯狂动物城2》明星配音争议，为何愈演愈烈？]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7774346.html</guid>
+      <title>GitHub推出后量子SSH安全功能，以保护代码免受未来威胁</title>
+      <link>https://www.infoq.cn/article/6W6J1LHKfQ8okhA3q6QE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub推出后量子SSH安全功能，以保护代码免受未来威胁]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6W6J1LHKfQ8okhA3q6QE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里“千问”面世，AI入口争夺战升级</title>
-      <link>https://www.tmtpost.com/7773946.html</link>
-      <description>&lt;![CDATA[阿里“千问”面世，AI入口争夺战升级]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7773946.html</guid>
+      <title>一文读懂：为什么Nano Banana Pro重新定义了AI图像生成标准 | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7775670.html</link>
+      <description>&lt;![CDATA[一文读懂：为什么Nano Banana Pro重新定义了AI图像生成标准 | 巴伦精选]]&gt;</description>
+      <pubDate>Fri, 21 Nov 2025 12:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7775670.html</guid>
       <category>Technology</category>
     </item>
   </channel>
