@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Nov 2025 08:25:00 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Nov 2025 08:30:56 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Nov 2025 23:19:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>罗福莉首个小米成果！开源具身大模型</title>
-      <link>https://www.qbitai.com/2025/11/355420.html</link>
-      <description>&lt;![CDATA[罗福莉首个小米成果！开源具身大模型]]&gt;</description>
-      <pubDate>Sat, 22 Nov 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355420.html</guid>
+      <title>2025宝山·智能机器人产业大会暨嘉年华隆重开幕</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-8</link>
+      <description>&lt;![CDATA[2025宝山·智能机器人产业大会暨嘉年华隆重开幕]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>解放军总医院联合南大、吉大等机构，共同提出首个「脊柱诊疗大模型」SpineGPT</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-7</link>
+      <description>&lt;![CDATA[解放军总医院联合南大、吉大等机构，共同提出首个「脊柱诊疗大模型」SpineGPT]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Anthropic发现AI「破窗效应」：只是教它偷个懒，结果它学会了撒谎和搞破坏</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-6</link>
+      <description>&lt;![CDATA[Anthropic发现AI「破窗效应」：只是教它偷个懒，结果它学会了撒谎和搞破坏]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepMind招募波士顿动力前CTO，哈萨比斯点赞宇树</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-5</link>
+      <description>&lt;![CDATA[DeepMind招募波士顿动力前CTO，哈萨比斯点赞宇树]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>把具身机器人开发变简单，地瓜机器人S600与一站式平台双擎亮相</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-4</link>
+      <description>&lt;![CDATA[把具身机器人开发变简单，地瓜机器人S600与一站式平台双擎亮相]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Meta再推WorldGen，简单一句话，竟「盖」出50×50米一座城</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-3</link>
+      <description>&lt;![CDATA[Meta再推WorldGen，简单一句话，竟「盖」出50×50米一座城]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为开源突破性技术Flex:ai，AI算力效率直升30%，GPU、NPU一起用</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22-2</link>
+      <description>&lt;![CDATA[华为开源突破性技术Flex:ai，AI算力效率直升30%，GPU、NPU一起用]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>腾讯混元数字人团队发布Moral RolePlay基准，揭秘大模型的「道德困境」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-22</link>
+      <description>&lt;![CDATA[腾讯混元数字人团队发布Moral RolePlay基准，揭秘大模型的「道德困境」]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-22</guid>
       <category>AI</category>
     </item>
   </channel>

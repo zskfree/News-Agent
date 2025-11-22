@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "7fdd715c18a9ffdb98fdf5cc51b5515ebb64abd60ff16049302787021254e1b3": {
-        "title": "马斯克太难了！特斯拉营收销量创新高，市值一夜蒸发3955亿",
-        "link": "https://www.qbitai.com/2025/10/344991.html",
-        "published_date": "Thu, 23 Oct 2025 08:53:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.435423"
-      },
-      "b9a457f7187b06da172f972fc916febe7bf385b09dafafbe1771fde1b3bd7d07": {
-        "title": "大模型推理学习新范式！ExGRPO框架：从盲目刷题到聪明复盘",
-        "link": "https://www.qbitai.com/2025/10/344992.html",
-        "published_date": "Thu, 23 Oct 2025 08:51:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.435595"
-      },
       "2b383dad50fa9a79267d3548a6e0102bfd61f187e9ae7535d76c8240e24a9a18": {
         "title": "AI在线强化学习“边做边学”，斯坦福团队让7B小模型性能飙升，甚至超越GPT-4o",
         "link": "https://www.qbitai.com/2025/10/345265.html",
@@ -1422,153 +1410,57 @@
         "link": "https://www.qbitai.com/2025/11/355420.html",
         "published_date": "Sat, 22 Nov 2025 07:20:00 GMT",
         "first_seen": "2025-11-22T08:30:56.414357"
+      },
+      "99a349a67b85af0050fd79fd3ee2841b4bcee7ea9354d9859dad1f3621a4d68a": {
+        "title": "2025宝山·智能机器人产业大会暨嘉年华隆重开幕",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-8",
+        "published_date": "Sat, 22 Nov 2025 19:42:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.715981"
+      },
+      "0f246587dc8053038dcc29a25f1ca303ee682450afa1816ed53969c9b9540aaa": {
+        "title": "解放军总医院联合南大、吉大等机构，共同提出首个「脊柱诊疗大模型」SpineGPT",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-7",
+        "published_date": "Sat, 22 Nov 2025 19:38:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.716167"
+      },
+      "e25aa83aa4ed96b6025591db0889698ddcef12508b91656d7878da90f60f4450": {
+        "title": "Anthropic发现AI「破窗效应」：只是教它偷个懒，结果它学会了撒谎和搞破坏",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-6",
+        "published_date": "Sat, 22 Nov 2025 19:33:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.716351"
+      },
+      "63ea97c1d0aee0eb041ee855b7da92cfa376721442315a3b9ce769571c9f1d85": {
+        "title": "DeepMind招募波士顿动力前CTO，哈萨比斯点赞宇树",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-5",
+        "published_date": "Sat, 22 Nov 2025 19:22:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.716562"
+      },
+      "c332e490b1d0330d3bf624aafc7a95b49d56177df7665d6b5a8cd0366ebf8516": {
+        "title": "把具身机器人开发变简单，地瓜机器人S600与一站式平台双擎亮相",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-4",
+        "published_date": "Sat, 22 Nov 2025 19:18:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.716817"
+      },
+      "de6e33a3b2ab5969e456a2f56beb3d03cb12c03b65c4f8ce4e5c3b5570d960ee": {
+        "title": "Meta再推WorldGen，简单一句话，竟「盖」出50×50米一座城",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-3",
+        "published_date": "Sat, 22 Nov 2025 19:13:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.717197"
+      },
+      "57458386ab2e638d2e777aaf51e26f9ea219fc00698b2d9955aa9499e51dd217": {
+        "title": "华为开源突破性技术Flex:ai，AI算力效率直升30%，GPU、NPU一起用",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22-2",
+        "published_date": "Sat, 22 Nov 2025 19:09:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.717650"
+      },
+      "72c4f85cdc3658e9e78bd49558181022086f9929fb62f51fa8d3fa784a2a7972": {
+        "title": "腾讯混元数字人团队发布Moral RolePlay基准，揭秘大模型的「道德困境」",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-22",
+        "published_date": "Sat, 22 Nov 2025 19:02:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.718203"
       }
     },
     "Technology": {
-      "e97531227a3e76645d5d0329b37c6a75c74fe4d0214ec0736b534dfcbcb35290": {
-        "title": "5000 块请 AI 看我「上厕所」？科勒这个新产品把美国人整不会了",
-        "link": "http://www.geekpark.net/news/355469",
-        "published_date": "Thu, 23 Oct 2025 21:48:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.796979"
-      },
-      "b7aa2491e0719a5e19abe92cfd162997eb384c0b350287794eee88cbb9f675fa": {
-        "title": "亚马逊云科技终结了体育界的所有「玄学」",
-        "link": "http://www.geekpark.net/news/355464",
-        "published_date": "Thu, 23 Oct 2025 20:45:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797008"
-      },
-      "65494344894e8ab69d62a20660449b0a7460859482b7c5c43a66f771322200e4": {
-        "title": "中产爱上万元级「电动自行车」，买出一个千亿美金赛道",
-        "link": "http://www.geekpark.net/news/355422",
-        "published_date": "Thu, 23 Oct 2025 17:44:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797046"
-      },
-      "75c1e763a843cc9d2f28377582b2f0bc6176d32a066962039cb1e75ff2fc9bcc": {
-        "title": "AI 能不能写出《庆余年》？",
-        "link": "http://www.geekpark.net/news/355425",
-        "published_date": "Thu, 23 Oct 2025 17:40:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797057"
-      },
-      "8fcab23aabf8e8f931ec88592e7a9914cbc04ede57b53e1d57712ae203d598b7": {
-        "title": "雷鸟联合pixelworks打造画质芯片，AR眼镜进入定制芯片时代 | 独家",
-        "link": "https://www.tmtpost.com/7736090.html",
-        "published_date": "Thu, 23 Oct 2025 20:15:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797024"
-      },
-      "ff1f41390e1cbadded1e30ac0da8a7ea6c095a9615a022de1caeafd0c328e781": {
-        "title": "苹果人生也要分个三六九等",
-        "link": "https://www.tmtpost.com/7736122.html",
-        "published_date": "Thu, 23 Oct 2025 19:17:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797066"
-      },
-      "70756c4f50861394bb11e380f0633566ca4651d439fca64f9709cae6381a3979": {
-        "title": "“万亿参数”VS“半价长文”：国产大模型的“规模幻象”与“算力革命”之战",
-        "link": "https://www.tmtpost.com/7736185.html",
-        "published_date": "Thu, 23 Oct 2025 19:15:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797078"
-      },
-      "ea1d200d50964b5df1e7eb70cb012a83ba84d7a70acd2e53302423fc6bf15095": {
-        "title": "最长双11，“逼疯”大主播？",
-        "link": "https://www.tmtpost.com/7736217.html",
-        "published_date": "Thu, 23 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797088"
-      },
-      "e0ca224b7fb751c6397be05851c1f1fa4370fe73156ce1b046a7aba8fb921bdd": {
-        "title": "拆解中国创新药BD第一案",
-        "link": "https://www.tmtpost.com/7736175.html",
-        "published_date": "Thu, 23 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797035"
-      },
-      "2b902c54c530531178864705f7d5822019b776d483a1e8f9775251c769ae7a2f": {
-        "title": "AI赋能影像，能否破解远程诊疗之困？  ​",
-        "link": "https://www.tmtpost.com/7736069.html",
-        "published_date": "Thu, 23 Oct 2025 19:08:00 GMT",
-        "first_seen": "2025-10-23T23:18:53.797098"
-      },
-      "e44fc50f0a269940875b1e88ba74ba7c4c411e1cc2f889356aa08f1372755bc5": {
-        "title": "这届年轻人，为何负债旅行？",
-        "link": "https://www.tmtpost.com/7736115.html",
-        "published_date": "Thu, 23 Oct 2025 19:08:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.493315"
-      },
-      "238b6496ba8113bf55619591d6202ec0543e3e01a7c367bd10c81c326f0b691e": {
-        "title": "9月微短剧月报：59部新剧闯入TOP100，行业从爆发期进入存量竞争阶段",
-        "link": "https://www.tmtpost.com/7721998.html",
-        "published_date": "Thu, 23 Oct 2025 18:42:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.493864"
-      },
-      "f9b9866c20ab5ca6995362ab8deb301a5ff1aede22858fe195334f20a1778d9a": {
-        "title": "小红书不愿再为闲鱼作嫁衣",
-        "link": "https://www.tmtpost.com/7735857.html",
-        "published_date": "Thu, 23 Oct 2025 18:42:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.494171"
-      },
-      "d2c338684c0b3f2e698c54da008c326d386a8fec4bda370ef8ff9f9359e20b85": {
-        "title": "叶国富不想做杂货店生意了",
-        "link": "https://www.tmtpost.com/7735917.html",
-        "published_date": "Thu, 23 Oct 2025 18:11:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.494536"
-      },
-      "6f3f63cb9f8943080272cef52bc71b4e300a90eeaea3dd5f0b75a9d1872bd585": {
-        "title": "美利信三季报亏损加剧至2.15亿，激进扩张下现金流与债务压力双升｜看财报",
-        "link": "https://www.tmtpost.com/7736104.html",
-        "published_date": "Thu, 23 Oct 2025 17:54:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.495264"
-      },
-      "9daa75bd2b92c76c995db5f8268d6f66e7b61c09919535c10ee42cc442865385": {
-        "title": "新石器完成逾6亿美元D轮融资，创中国自动驾驶领域融资纪录 | 融资首发",
-        "link": "https://www.tmtpost.com/7736057.html",
-        "published_date": "Thu, 23 Oct 2025 17:49:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.495994"
-      },
-      "5457e7bf64525615808668e333793bb1b8bb866a3e393e4251d979762ca5691b": {
-        "title": "超高溢价入股迈巴赫奢侈品公司，老凤祥高端化豪赌胜算几何？",
-        "link": "https://www.tmtpost.com/7735950.html",
-        "published_date": "Thu, 23 Oct 2025 17:06:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.496625"
-      },
-      "0027c21cfeb27af36bf396032c4349ca8fe463eef331f907d7ed22a3e26b04b9": {
-        "title": "3亿收购福鹿家，蜜雪冰城能撬动千亿鲜啤市场吗？",
-        "link": "https://www.tmtpost.com/7735694.html",
-        "published_date": "Thu, 23 Oct 2025 16:44:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.497258"
-      },
-      "d8bbdb9152ff35a482d530ef121741cfc86fd5f79b3568d1cdfb667521c5530c": {
-        "title": "Tesla's Elon Musk Scales Down Optimus Production Plan and Robotaxi Expansion Target",
-        "link": "https://www.tmtpost.com/7735972.html",
-        "published_date": "Thu, 23 Oct 2025 16:30:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.498712"
-      },
-      "3d80346d012794138579f6f0d022a90a4feb8910084cb7c3e77c09579a63a01e": {
-        "title": "烧钱万亿，大厂为何越亏越勇？",
-        "link": "http://www.huxiu.com/article/4795471.html?f=wangzhan",
-        "published_date": "Thu, 23 Oct 2025 20:00:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.499339"
-      },
-      "898f3bdd82536b6f190c568f0620b1c6cfecc1b27c7781d52164dad6fd9c286f": {
-        "title": "只接待老年人的火锅店，诈骗数千万元？",
-        "link": "http://www.huxiu.com/article/4795957.html?f=wangzhan",
-        "published_date": "Thu, 23 Oct 2025 17:00:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.500006"
-      },
-      "c67afd8cb434230f4bcbbbfc4cfa9f35aa86f45d051984f0b0d74cfab84bbb6c": {
-        "title": "全季“粪便门”，让四亿中产破防？",
-        "link": "http://www.huxiu.com/article/4795962.html?f=wangzhan",
-        "published_date": "Thu, 23 Oct 2025 15:50:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.500768"
-      },
-      "e1e85f107eefc861f75fbec33e7fcc8dd7626e048aa97cb881dfbda85179811e": {
-        "title": "App+1 | 把游戏 UI 做成效率工具：OrbitRing",
-        "link": "https://sspai.com/post/102689",
-        "published_date": "Thu, 23 Oct 2025 17:26:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.501893"
-      },
-      "f4d1e2c145e1a83895c4650d12b7d07a29f6095dbe5cd5f850237b7c72d61ffa": {
-        "title": "数智时代的安全操盘手：AI安全可控，风控增效无忧",
-        "link": "https://www.infoq.cn/video/m4eeYJ9GLaG9Nb6ULBjs?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 16:30:00 GMT",
-        "first_seen": "2025-10-23T23:18:05.502842"
-      },
       "2c0e85edc2f9fde7ff57af1462af9b313614747e1732ce250ce9c3e71614974d": {
         "title": "如何使用代理路由在单个环境中测试分布式系统",
         "link": "https://www.infoq.cn/article/EodUcfS2Tzf1dBTy7Kwf?utm_source=rss&utm_medium=article",
@@ -12248,13 +12140,37 @@
         "link": "https://www.tmtpost.com/7776858.html",
         "published_date": "Sat, 22 Nov 2025 13:51:00 GMT",
         "first_seen": "2025-11-22T08:30:56.515721"
+      },
+      "5180c18cee2d44980d5c19bcb59c2172562bcf1e82b2e6600830d0097de2ff96": {
+        "title": "沈向洋拆解AI五大演进维度：AI发展既要 “登珠峰” 也要 “修公路”，灵巧手是人类在AI面前最后尊严",
+        "link": "https://www.infoq.cn/article/4olpyNlhsmPAIKMPpfBZ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 22 Nov 2025 22:27:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.831176"
+      },
+      "f402785985285b7c21691fe6819830f585bc327aff40f16d35f47ad1ad61768b": {
+        "title": "原材料暴涨，今年的羽绒服会越来越贵吗？",
+        "link": "https://www.tmtpost.com/7777589.html",
+        "published_date": "Sat, 22 Nov 2025 21:47:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.831302"
+      },
+      "c5b88b7d5f0f29da65c8e569f1cd2bb7a6ace8a82e8fb04a23487c72737d8702": {
+        "title": "BMW新世代四大技术上车：电动化能否守住“宝马味”？",
+        "link": "https://www.tmtpost.com/7777314.html",
+        "published_date": "Sat, 22 Nov 2025 17:50:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.831461"
+      },
+      "eb0a6accc88a1b7ca241f798e310eeaf03008ece60c343006ed19ef2fb63a48e": {
+        "title": "一日一技｜将豆瓣书影音记录迁移至 Obsidian",
+        "link": "https://sspai.com/post/103817",
+        "published_date": "Sat, 22 Nov 2025 15:46:00 GMT",
+        "first_seen": "2025-11-22T23:19:47.831662"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-22T08:30:56.472139",
-    "Technology": "2025-11-22T08:31:44.944412",
-    "Finance": "2025-11-22T08:30:56.289250"
+    "AI": "2025-11-22T23:19:47.797097",
+    "Technology": "2025-11-22T23:19:47.839390",
+    "Finance": "2025-11-22T23:19:47.610122"
   }
 }
