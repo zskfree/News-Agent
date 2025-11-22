@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Nov 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Nov 2025 05:19:46 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Nov 2025 08:25:00 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Nov 2025 08:30:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>首位“80后”院士，来自北大数院</title>
-      <link>https://www.qbitai.com/2025/11/355408.html</link>
-      <description>&lt;![CDATA[首位“80后”院士，来自北大数院]]&gt;</description>
-      <pubDate>Sat, 22 Nov 2025 03:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355408.html</guid>
+      <title>罗福莉首个小米成果！开源具身大模型</title>
+      <link>https://www.qbitai.com/2025/11/355420.html</link>
+      <description>&lt;![CDATA[罗福莉首个小米成果！开源具身大模型]]&gt;</description>
+      <pubDate>Sat, 22 Nov 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355420.html</guid>
       <category>AI</category>
     </item>
   </channel>
