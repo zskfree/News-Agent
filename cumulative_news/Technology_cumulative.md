@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-21 23:19
+**最后更新时间**: 2025-11-22 05:19
+
+---
+
+## 🆕 最新更新 (2025-11-22 05:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [上汽大众押注 ID. ERA，杀入增程 9 系主战场](https://www.tmtpost.com/7777216.html)
+**发布时间**: 2025-11-22 11:58
+
+#### [蚂蚁的人该补补商业史了](https://www.tmtpost.com/7776741.html)
+**发布时间**: 2025-11-22 11:06
+
+#### [当存储涨疯了，国产屏的红利缓解了手机、PC厂商的焦虑](https://www.tmtpost.com/7777023.html)
+**发布时间**: 2025-11-22 10:48
+
+#### [钛媒体「2025 EDGE AWARDS 创新评选」正式开启，在全球视野中锚定创新版图](https://www.tmtpost.com/7775394.html)
+**发布时间**: 2025-11-22 10:48
+
+#### [AI，快手的新老铁](https://www.tmtpost.com/7776681.html)
+**发布时间**: 2025-11-22 10:05
+
+#### [Genspark AI 完成2.75亿美元B轮融资并发布AI Workspace](https://www.tmtpost.com/7777042.html)
+**发布时间**: 2025-11-22 09:16
+
+#### [内部会上抱怨连连，但黄仁勋下周就要接好运了](https://www.tmtpost.com/7777075.html)
+**发布时间**: 2025-11-22 09:14
+
+#### [宁德时代是做充电宝，还是做CATL Inside？](https://www.tmtpost.com/7776638.html)
+**发布时间**: 2025-11-22 08:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [地瓜机器人发布 S600 大算力开发平台，全面加码具身智能开发生态](https://www.infoq.cn/article/cx5aWF1gWA6jxbQkGTVF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-22 11:09
+
+#### [京东物流 B 端营销的数据闭环与 AI 驱动增长实践｜AICon北京](https://www.infoq.cn/article/stRBFTEIbW72kuT1um6c?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-22 10:00
+
+#### [软件开发减排新方案：远程办公 + 绿色 CI](https://www.infoq.cn/article/g6XbJH8McipiRs7qtoG7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-22 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美团宣布在全国建设「骑手公寓」；2026 款苹果 iPad Air 曝光；月之暗面被曝计划明年下半年 IPO](http://www.geekpark.net/news/356768)
+**发布时间**: 2025-11-22 09:00
 
 ---
 
