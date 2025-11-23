@@ -1446,69 +1446,21 @@
         "link": "https://www.qbitai.com/2025/11/355521.html",
         "published_date": "Sun, 23 Nov 2025 04:18:00 GMT",
         "first_seen": "2025-11-23T05:20:10.376196"
+      },
+      "d33e40dd0c1208d55a1ccda674a5f7bbca2c841243451e5ee96a1bfb7dbae0b6": {
+        "title": "卡帕西大模型横评方法太好玩！四大AI匿名参赛评分，最强出乎意料",
+        "link": "https://www.qbitai.com/2025/11/355572.html",
+        "published_date": "Sun, 23 Nov 2025 05:52:00 GMT",
+        "first_seen": "2025-11-23T08:26:18.638835"
+      },
+      "7b9af617ad7fad8681e9f6c80fbc0c432782284a23bf6e528155d0f11310777c": {
+        "title": "AI把PC天花板打破了",
+        "link": "https://www.qbitai.com/2025/11/355559.html",
+        "published_date": "Sun, 23 Nov 2025 05:49:00 GMT",
+        "first_seen": "2025-11-23T08:26:18.638998"
       }
     },
     "Technology": {
-      "2c0e85edc2f9fde7ff57af1462af9b313614747e1732ce250ce9c3e71614974d": {
-        "title": "如何使用代理路由在单个环境中测试分布式系统",
-        "link": "https://www.infoq.cn/article/EodUcfS2Tzf1dBTy7Kwf?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438606"
-      },
-      "5dfe2cc07cabb714c8a32433c0580ba2f1cec51245e6d1fe565101379b1e4274": {
-        "title": "谷歌云发布指南，阐述保护远程MCP服务器的关键策略",
-        "link": "https://www.infoq.cn/article/LcB8AsrqyOWMEGDl1BbB?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438633"
-      },
-      "465d8641f1707125628a08e6092a34a36bb08770be40378e0d6be3fe648c1295": {
-        "title": "Java近期新闻：OpenJDK、Spring RC、Jakarta EE、Payara平台、WildFly、测试容器",
-        "link": "https://www.infoq.cn/article/GyKDrIdt6wQwaKJ4cWKM?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 11:08:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438647"
-      },
-      "89dfcb5d2390e0b1f39fd766950ba6d0aafee589e7a8076262e8dbdae924bce7": {
-        "title": "三个问题帮你构建更好的软件架构",
-        "link": "https://www.infoq.cn/article/DZ9AlfbVcl4TSYhVAZey?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438668"
-      },
-      "8562b0858f335c2a0e24f4e77a4156a84c43a92c062e2f9bbaf86bf0d83f05f4": {
-        "title": "AI代码生成的计划-执行-检查-行动框架",
-        "link": "https://www.infoq.cn/article/DA12MtUaPjjmDgqsmgAp?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 10:01:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438678"
-      },
-      "88a8a8c8b8bd6f4d6e2ad477eef903c8cab97cba642b842e98ab54f0642f1e0c": {
-        "title": "银行业市净率最高的两家银行之一：一家涨了56%，另一家招商银行为何掉队？",
-        "link": "https://www.tmtpost.com/7736933.html",
-        "published_date": "Fri, 24 Oct 2025 12:23:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438688"
-      },
-      "137c38e921b107340cd018cc0564772199aecdb688176f0f84d064e464ff447f": {
-        "title": "中文在线Q3营收增61%、净亏损近3亿，新APP团队350人+，老APP暂停投放",
-        "link": "https://www.tmtpost.com/7736856.html",
-        "published_date": "Fri, 24 Oct 2025 12:23:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438698"
-      },
-      "9a6ec47f3ff92c3282ee58d0b970abe0cd23cc9f1a096e04c24842e7e366af14": {
-        "title": "大豆风云：一场跨越百年的世界暗战",
-        "link": "https://www.tmtpost.com/7736859.html",
-        "published_date": "Fri, 24 Oct 2025 12:23:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438706"
-      },
-      "9181c874a7a4b5e2dbf6be0b0a9260aab9e18d78112d5f2c8147eafd05702e45": {
-        "title": "羽绒服增长的尽头，是高端化？",
-        "link": "https://www.tmtpost.com/7736892.html",
-        "published_date": "Fri, 24 Oct 2025 12:23:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438714"
-      },
-      "6a334111e48633c7882996dc3a1f27fe5558148dcfa46431e7d89c56498f6b25": {
-        "title": "派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等",
-        "link": "https://sspai.com/post/103316",
-        "published_date": "Fri, 24 Oct 2025 08:55:00 GMT",
-        "first_seen": "2025-10-24T05:20:50.438659"
-      },
       "4dc29b0f7359b149bbff1e34891bbd2fd5a1c51335a96f2ea9efecbeada914e6": {
         "title": "又一批应届生“误入”亚马逊，能走多远？",
         "link": "https://www.tmtpost.com/7737229.html",
@@ -12104,13 +12056,19 @@
         "link": "http://www.geekpark.net/news/356776",
         "published_date": "Sun, 23 Nov 2025 08:30:00 GMT",
         "first_seen": "2025-11-23T05:20:58.875856"
+      },
+      "03ff9c8137bc4cb013f9f3614b55a7e74d7bdfd064d49466fae14e0443919e45": {
+        "title": "城市漫步指南：炎热、精致、昂贵？我想带你探寻狮城的建筑物语",
+        "link": "https://sspai.com/post/103861",
+        "published_date": "Sun, 23 Nov 2025 13:16:00 GMT",
+        "first_seen": "2025-11-23T08:26:18.711907"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-23T05:20:10.416080",
-    "Technology": "2025-11-23T05:20:58.877379",
-    "Finance": "2025-11-23T05:20:10.268760"
+    "AI": "2025-11-23T08:26:18.677144",
+    "Technology": "2025-11-23T08:26:18.719234",
+    "Finance": "2025-11-23T08:26:18.531987"
   }
 }

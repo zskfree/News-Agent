@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Nov 2025 05:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 05:20:10 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 08:26:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025 IDEA大会沈向洋提出智能演进的五个维度：机会不仅来自技术本身</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-23</link>
-      <description>&lt;![CDATA[2025 IDEA大会沈向洋提出智能演进的五个维度：机会不仅来自技术本身]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 12:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-23</guid>
+      <title>卡帕西大模型横评方法太好玩！四大AI匿名参赛评分，最强出乎意料</title>
+      <link>https://www.qbitai.com/2025/11/355572.html</link>
+      <description>&lt;![CDATA[卡帕西大模型横评方法太好玩！四大AI匿名参赛评分，最强出乎意料]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 05:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355572.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>图片生成仿真！这个AI让3D资产「开箱即用」，直接赋能机器人训练</title>
-      <link>https://www.qbitai.com/2025/11/355543.html</link>
-      <description>&lt;![CDATA[图片生成仿真！这个AI让3D资产「开箱即用」，直接赋能机器人训练]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 04:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355543.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>沈向洋解读AI演进五大维度！IDEA研究院发布“万物可抓取”模型，GPU渲染器打破国外垄断</title>
-      <link>https://www.qbitai.com/2025/11/355521.html</link>
-      <description>&lt;![CDATA[沈向洋解读AI演进五大维度！IDEA研究院发布“万物可抓取”模型，GPU渲染器打破国外垄断]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 04:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355521.html</guid>
+      <title>AI把PC天花板打破了</title>
+      <link>https://www.qbitai.com/2025/11/355559.html</link>
+      <description>&lt;![CDATA[AI把PC天花板打破了]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 05:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355559.html</guid>
       <category>AI</category>
     </item>
   </channel>
