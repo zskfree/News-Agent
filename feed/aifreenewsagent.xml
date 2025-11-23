@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Nov 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 08:26:18 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 23:19:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>卡帕西大模型横评方法太好玩！四大AI匿名参赛评分，最强出乎意料</title>
-      <link>https://www.qbitai.com/2025/11/355572.html</link>
-      <description>&lt;![CDATA[卡帕西大模型横评方法太好玩！四大AI匿名参赛评分，最强出乎意料]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 05:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355572.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI把PC天花板打破了</title>
-      <link>https://www.qbitai.com/2025/11/355559.html</link>
-      <description>&lt;![CDATA[AI把PC天花板打破了]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 05:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355559.html</guid>
+      <title>杭州蚂蚁投了家腾讯系具身智能公司</title>
+      <link>https://www.qbitai.com/2025/11/355586.html</link>
+      <description>&lt;![CDATA[杭州蚂蚁投了家腾讯系具身智能公司]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355586.html</guid>
       <category>AI</category>
     </item>
   </channel>

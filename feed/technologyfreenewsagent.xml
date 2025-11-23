@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Nov 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 08:26:18 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 23:19:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>城市漫步指南：炎热、精致、昂贵？我想带你探寻狮城的建筑物语</title>
-      <link>https://sspai.com/post/103861</link>
-      <description>&lt;![CDATA[城市漫步指南：炎热、精致、昂贵？我想带你探寻狮城的建筑物语]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/103861</guid>
+      <title>谷歌和阿里，都靠AI实现了逆袭 | 财经峰评</title>
+      <link>https://www.tmtpost.com/7778028.html</link>
+      <description>&lt;![CDATA[谷歌和阿里，都靠AI实现了逆袭 | 财经峰评]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 23:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7778028.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>From Cockpit to Cloud: How AI Is Driving the Future of Smart Vehicles</title>
+      <link>https://www.tmtpost.com/7778016.html</link>
+      <description>&lt;![CDATA[From Cockpit to Cloud: How AI Is Driving the Future of Smart Vehicles]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 22:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7778016.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>铅锌巨头超7亿元购控股子公司少数股东股权；金富科技计划收购蓝原科技51%股权，跨界切入电线电缆新材料赛道【并购一线】</title>
+      <link>https://www.tmtpost.com/7777947.html</link>
+      <description>&lt;![CDATA[铅锌巨头超7亿元购控股子公司少数股东股权；金富科技计划收购蓝原科技51%股权，跨界切入电线电缆新材料赛道【并购一线】]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 20:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7777947.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>拳头产品被召回，华为前高管创建的储能“黑马”遭遇信任危机</title>
+      <link>https://www.tmtpost.com/7777865.html</link>
+      <description>&lt;![CDATA[拳头产品被召回，华为前高管创建的储能“黑马”遭遇信任危机]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7777865.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>风口下的RWA：万亿市场盛宴，还是泡沫？</title>
+      <link>https://www.tmtpost.com/7777854.html</link>
+      <description>&lt;![CDATA[风口下的RWA：万亿市场盛宴，还是泡沫？]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 19:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7777854.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>To C传播正成为B端企业“第二条生产线”</title>
+      <link>https://www.tmtpost.com/7777805.html</link>
+      <description>&lt;![CDATA[To C传播正成为B端企业“第二条生产线”]]&gt;</description>
+      <pubDate>Sun, 23 Nov 2025 16:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7777805.html</guid>
       <category>Technology</category>
     </item>
   </channel>

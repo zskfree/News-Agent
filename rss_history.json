@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "86b75f3dfc59e7de3809b7fbb99583a0a1185542a33197abc98f0a1704e8ef18": {
-        "title": "具身智能落地茶颜悦色，“新店员”刷屏了",
-        "link": "https://www.qbitai.com/2025/10/345520.html",
-        "published_date": "Fri, 24 Oct 2025 07:14:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.543637"
-      },
-      "6f311a0add9355f8adad89ec525de71fd5671f39651ddec4094d79b6d635a2b8": {
-        "title": "快手进军AI编程！“模型+工具+平台”一口气放三个大招",
-        "link": "https://www.qbitai.com/2025/10/345503.html",
-        "published_date": "Fri, 24 Oct 2025 07:12:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.543808"
-      },
-      "715d4205bd8302d60e0ac87b5d395ebc29e3070754d248c8a5d59f8456082b61": {
-        "title": "云计算“活教科书”语出惊人，指明程序员的进化方向",
-        "link": "https://www.qbitai.com/2025/10/345488.html",
-        "published_date": "Fri, 24 Oct 2025 07:02:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.543989"
-      },
-      "b97bea8003324be58ccfe4a75b416b33e4b4639bca9bd2ca62ce2e0f84586c0d": {
-        "title": "OpenAI收购macOS供应商，剑指GPT操作系统！微软也不装了",
-        "link": "https://www.qbitai.com/2025/10/345442.html",
-        "published_date": "Fri, 24 Oct 2025 06:21:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.544220"
-      },
-      "6badfbd5d2d27ab51118c761c263ece18a932ca954b22feb17613e5b7c0aba05": {
-        "title": "中国机器人这么玩儿，把老外都整不会了",
-        "link": "https://www.qbitai.com/2025/10/345371.html",
-        "published_date": "Fri, 24 Oct 2025 05:54:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.544426"
-      },
-      "deab996cb6a85657c13dbcc0a00b487da1654d089a08d3fdc1dedf5cc7c5e0bc": {
-        "title": "携手中国邮政，九识包揽全球最大RoboVan集采全部席位",
-        "link": "https://www.qbitai.com/2025/10/345358.html",
-        "published_date": "Fri, 24 Oct 2025 05:41:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.544722"
-      },
       "bcf6efa24e7efd6e3d47cb3d4bf1478cc51665163e209632e7408856c87e2832": {
         "title": "比亚迪用大模型，刷榜全球最低油耗",
         "link": "https://www.qbitai.com/2025/10/345640.html",
@@ -1458,99 +1422,15 @@
         "link": "https://www.qbitai.com/2025/11/355559.html",
         "published_date": "Sun, 23 Nov 2025 05:49:00 GMT",
         "first_seen": "2025-11-23T08:26:18.638998"
+      },
+      "ab347faece258682578212fb96ae7ada239f87bfad381e51256e3c0f82077b9d": {
+        "title": "杭州蚂蚁投了家腾讯系具身智能公司",
+        "link": "https://www.qbitai.com/2025/11/355586.html",
+        "published_date": "Sun, 23 Nov 2025 14:23:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.149069"
       }
     },
     "Technology": {
-      "4dc29b0f7359b149bbff1e34891bbd2fd5a1c51335a96f2ea9efecbeada914e6": {
-        "title": "又一批应届生“误入”亚马逊，能走多远？",
-        "link": "https://www.tmtpost.com/7737229.html",
-        "published_date": "Fri, 24 Oct 2025 15:59:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002486"
-      },
-      "e9709f8c3dafcaacf5140a4cd9dd15dce9b16211cc845cef5a56d232fecf7726": {
-        "title": "147家企业被调查，短剧财税巨震：一郑州亿级收入公司或造假，税务新规如何避坑？",
-        "link": "https://www.tmtpost.com/7737251.html",
-        "published_date": "Fri, 24 Oct 2025 15:59:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002499"
-      },
-      "ebb927957322142acf0195c94ca6c0b9c663eeda698785488607ac96c3956a16": {
-        "title": "哪家车企的销售最爱买自家车？",
-        "link": "https://www.tmtpost.com/7737270.html",
-        "published_date": "Fri, 24 Oct 2025 15:49:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002509"
-      },
-      "156b7f73a491a1373e5bafe31aef3a26419d287dd280ec84e4e9a3e6ad363bf6": {
-        "title": "东南亚中产，为何偏爱中国扫地机",
-        "link": "https://www.tmtpost.com/7737254.html",
-        "published_date": "Fri, 24 Oct 2025 15:49:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002519"
-      },
-      "2f7c7b7792dbede24cd474f9026310ed02dc4a3188702e5cad7f660695217f64": {
-        "title": "降价入华，又一日本餐饮巨头盯上中国市场",
-        "link": "https://www.tmtpost.com/7737236.html",
-        "published_date": "Fri, 24 Oct 2025 15:49:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002528"
-      },
-      "fb4b8ed915121c6da284fcadff0abc23bf067a822370387d955b37f9af118298": {
-        "title": "白银暴跌：牛市终结还是“黄金坑” | 巴伦精选",
-        "link": "https://www.tmtpost.com/7737347.html",
-        "published_date": "Fri, 24 Oct 2025 15:47:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002540"
-      },
-      "d3fb4b304c78244e767fb499b40b33e484840f55181ff9f4cfc4e679b559d20f": {
-        "title": "Alibaba Enters AI Hardware Market with Quark AI Glasses Presale Ahead of December Launch",
-        "link": "https://www.tmtpost.com/7737306.html",
-        "published_date": "Fri, 24 Oct 2025 15:18:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002553"
-      },
-      "dcb804442a843bfab9961863bfd917c8ce2c43bb3fa6aebe3dd24955168ea988": {
-        "title": "这些“8090后”熟悉的品牌，为什么总是惹怒消费者？",
-        "link": "https://www.tmtpost.com/7737268.html",
-        "published_date": "Fri, 24 Oct 2025 14:47:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002568"
-      },
-      "f43600fe8f0adb448640d76a0ca4b6a827ceac836e714e78166e153d3366afb5": {
-        "title": "U.S. Commerce Department Denies Talking with Quantum Computing Firms over Equity Stake",
-        "link": "https://www.tmtpost.com/7737199.html",
-        "published_date": "Fri, 24 Oct 2025 13:54:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.592498"
-      },
-      "ae976432ae2441c7eb12c31394e2d3f4f1e6aa1445f73e20cc5ccba08c76d987": {
-        "title": "十五五，光伏人的思考与作为",
-        "link": "https://www.tmtpost.com/7737101.html",
-        "published_date": "Fri, 24 Oct 2025 13:52:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.592857"
-      },
-      "c17b6cf6ae3c17f7ff073f5fb97e924d089eb215ca973d11772cdd24bef99fa6": {
-        "title": "最后的叛逆，银发族闯入二次元",
-        "link": "https://www.tmtpost.com/7737122.html",
-        "published_date": "Fri, 24 Oct 2025 13:52:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.593236"
-      },
-      "ff639c884b14960815426f68d43090e38f2218e651e5af64202365600bfa7d39": {
-        "title": "又是微软没活儿硬整的一天？连夜发布12项 Copilot更新，最吸睛的是全新 AI 助手 Mico",
-        "link": "https://www.infoq.cn/article/TVYR1vHXssGBpA3hal58?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 15:41:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002470"
-      },
-      "7cefcc2c686c37936d7fe4b642e6b02ec700e29062e480bf55356b09fb4885f0": {
-        "title": "百丽核心财务系统分库分表MyCat 架构迁移到OceanBase的技术实践",
-        "link": "https://www.infoq.cn/article/EIEvdMOYJovrxbr2WLGb?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Oct 2025 15:38:00 GMT",
-        "first_seen": "2025-10-24T08:28:47.002439"
-      },
-      "e896b1dc431781deb8ab43460c9b25bbcfb2148f1909fda48cad606ef0fdd0b9": {
-        "title": "CMF Headphone Pro 无线降噪头戴耳机体验 - TDS REVIEW",
-        "link": "https://sspai.com/post/103152",
-        "published_date": "Fri, 24 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.595784"
-      },
-      "e77d196116c6b7ccf990b5b49999bb1f1b11f9821cdb13e2fb05a71a4e2818e5": {
-        "title": "特斯拉向下，比亚迪向上",
-        "link": "http://www.huxiu.com/article/4796284.html?f=wangzhan",
-        "published_date": "Fri, 24 Oct 2025 11:02:00 GMT",
-        "first_seen": "2025-10-24T08:27:58.597113"
-      },
       "d2d453c3004a3897f12224ef3afc57358e35d3853f08029bdcf66a3ebcd9188b": {
         "title": "AI 正在接管代码，AWS 首席布道师却说：开发者的未来在「沟通」",
         "link": "http://www.geekpark.net/news/355543",
@@ -12062,13 +11942,49 @@
         "link": "https://sspai.com/post/103861",
         "published_date": "Sun, 23 Nov 2025 13:16:00 GMT",
         "first_seen": "2025-11-23T08:26:18.711907"
+      },
+      "0eed4e6ebe9cf1936cf5e6654c887a345f44466d53522da6a4a82e4614b21fc9": {
+        "title": "谷歌和阿里，都靠AI实现了逆袭 | 财经峰评",
+        "link": "https://www.tmtpost.com/7778028.html",
+        "published_date": "Sun, 23 Nov 2025 23:02:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.217636"
+      },
+      "6e7b03c01dac8ed6129b71154102c8b9adbbf1c3fa45f4983ff05c484aa2faaf": {
+        "title": "From Cockpit to Cloud: How AI Is Driving the Future of Smart Vehicles",
+        "link": "https://www.tmtpost.com/7778016.html",
+        "published_date": "Sun, 23 Nov 2025 22:31:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.217822"
+      },
+      "fd8ba3092abc7d1e80c00e69380e2208f02ba4e6d90a1a7e772414600ec01937": {
+        "title": "铅锌巨头超7亿元购控股子公司少数股东股权；金富科技计划收购蓝原科技51%股权，跨界切入电线电缆新材料赛道【并购一线】",
+        "link": "https://www.tmtpost.com/7777947.html",
+        "published_date": "Sun, 23 Nov 2025 20:38:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.218070"
+      },
+      "7f1782fab3f90cf2465f81024273ffeb7a627464c42cf91fac3b133b156dcaac": {
+        "title": "拳头产品被召回，华为前高管创建的储能“黑马”遭遇信任危机",
+        "link": "https://www.tmtpost.com/7777865.html",
+        "published_date": "Sun, 23 Nov 2025 19:45:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.218337"
+      },
+      "0fa81bbb59e11b747219dfec686300db04331c7b234e06f40e57582fe4076dd4": {
+        "title": "风口下的RWA：万亿市场盛宴，还是泡沫？",
+        "link": "https://www.tmtpost.com/7777854.html",
+        "published_date": "Sun, 23 Nov 2025 19:39:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.218607"
+      },
+      "38a68cdfae0ddfae9f7d426dccf5016a48c54d05d0563806664076430941da99": {
+        "title": "To C传播正成为B端企业“第二条生产线”",
+        "link": "https://www.tmtpost.com/7777805.html",
+        "published_date": "Sun, 23 Nov 2025 16:58:00 GMT",
+        "first_seen": "2025-11-23T23:19:34.218904"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-23T08:26:18.677144",
-    "Technology": "2025-11-23T08:26:18.719234",
-    "Finance": "2025-11-23T08:26:18.531987"
+    "AI": "2025-11-23T23:19:34.182764",
+    "Technology": "2025-11-23T23:19:34.226442",
+    "Finance": "2025-11-23T23:19:34.035477"
   }
 }
