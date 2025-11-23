@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-22 23:19
+**最后更新时间**: 2025-11-23 05:20
+
+---
+
+## 🆕 最新更新 (2025-11-23 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [创新药的天花板又被捅破了](https://www.tmtpost.com/7777711.html)
+**发布时间**: 2025-11-23 12:49
+
+#### [剑桥年度词 Parasocial，孤独时代的万亿生意](https://www.tmtpost.com/7777675.html)
+**发布时间**: 2025-11-23 12:49
+
+#### [PayPal成立广告部门一年了，现在怎么样了？](https://www.tmtpost.com/7777686.html)
+**发布时间**: 2025-11-23 12:23
+
+#### [*ST沐邦的3年，“破产速成班”](https://www.tmtpost.com/7777624.html)
+**发布时间**: 2025-11-23 12:23
+
+#### [信义出售天津光伏51%项目控股权   战略调整应对行业变局](https://www.tmtpost.com/7777631.html)
+**发布时间**: 2025-11-23 12:23
+
+#### [预制菜风波后，西贝为何依然屹立不倒？](https://www.tmtpost.com/7777724.html)
+**发布时间**: 2025-11-23 12:23
+
+#### [双抗ADC时代要来了](https://www.tmtpost.com/7777712.html)
+**发布时间**: 2025-11-23 12:23
+
+#### [今年广州车展，一堆“豆包”上车了 | 巴伦精选](https://www.tmtpost.com/7777746.html)
+**发布时间**: 2025-11-23 12:17
+
+#### [420亿蒋仁生，重庆首富宝座不稳](https://www.tmtpost.com/7777612.html)
+**发布时间**: 2025-11-23 11:49
+
+#### [前IBM员工带德风科技冲刺IPO，七成营收来自国企，曾获创新工场投资](https://www.tmtpost.com/7777535.html)
+**发布时间**: 2025-11-23 11:49
+
+#### [百万粉丝大V，“栽”在1800亿王传福手上](https://www.tmtpost.com/7777605.html)
+**发布时间**: 2025-11-23 11:49
+
+#### [日入6亿多！携程怎么“卖”成了“互联网茅台”？](https://www.tmtpost.com/7777380.html)
+**发布时间**: 2025-11-23 11:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“按天”到“秒级”，大模型重构医疗理赔审核落地实践｜AICon北京](https://www.infoq.cn/article/RiMF3e1YHCPvlHXsCi9Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-23 10:00
+
+#### [Code Arena正式发布，成为现实世界AI编程性能测试的新基准](https://www.infoq.cn/article/7ZMaot9TDdi9KV76x1dv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-23 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [我们的数字生活已被巨头垄断？去中心化是唯一出路吗？](http://www.huxiu.com/article/4807574.html?f=wangzhan)
+**发布时间**: 2025-11-23 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [罗永浩：当年如果不做 TNT，锤子科技有可能多撑几年；灵光上线 4 天下载突破 100 万；谷歌 AI 搜索出现赞助广告](http://www.geekpark.net/news/356776)
+**发布时间**: 2025-11-23 08:30
 
 ---
 
