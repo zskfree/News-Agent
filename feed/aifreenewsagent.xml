@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 23:19:34 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 05:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 05:23:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>杭州蚂蚁投了家腾讯系具身智能公司</title>
-      <link>https://www.qbitai.com/2025/11/355586.html</link>
-      <description>&lt;![CDATA[杭州蚂蚁投了家腾讯系具身智能公司]]&gt;</description>
-      <pubDate>Sun, 23 Nov 2025 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355586.html</guid>
+      <title>2025宝山·智能机器人产业大会成功举办，「具身智能与机器人主题论坛」聚焦技术突破与产业落地</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24-7</link>
+      <description>&lt;![CDATA[2025宝山·智能机器人产业大会成功举办，「具身智能与机器人主题论坛」聚焦技术突破与产业落地]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>2025宝山智能机器人产业大会——核心技术与零部件主题论坛成功举办，聚焦机器人“内核”突破，夯实产业创新根基</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24-6</link>
+      <description>&lt;![CDATA[2025宝山智能机器人产业大会——核心技术与零部件主题论坛成功举办，聚焦机器人“内核”突破，夯实产业创新根基]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 11:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>技术人不能错过的NeurIPS之夜：蚂蚁集团海边星光技术Party报名启动！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24-5</link>
+      <description>&lt;![CDATA[技术人不能错过的NeurIPS之夜：蚂蚁集团海边星光技术Party报名启动！]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>用AI协助科学研究：GPT-5加速实验创新，打造由人工智能驱动的平台</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24-4</link>
+      <description>&lt;![CDATA[用AI协助科学研究：GPT-5加速实验创新，打造由人工智能驱动的平台]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Karpathy组建大模型「议会」，GPT-5.1、Gemini 3 Pro等化身最强智囊团</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24-3</link>
+      <description>&lt;![CDATA[Karpathy组建大模型「议会」，GPT-5.1、Gemini 3 Pro等化身最强智囊团]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>十分钟出结果，陶哲轩用Gemini Deepthink帮人类数学家完成Erdős问题论证</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24-2</link>
+      <description>&lt;![CDATA[十分钟出结果，陶哲轩用Gemini Deepthink帮人类数学家完成Erdős问题论证]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>通用的dLLM开发框架，让BERT掌握扩散式对话</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-24</link>
+      <description>&lt;![CDATA[通用的dLLM开发框架，让BERT掌握扩散式对话]]&gt;</description>
+      <pubDate>Mon, 24 Nov 2025 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24</guid>
       <category>AI</category>
     </item>
   </channel>

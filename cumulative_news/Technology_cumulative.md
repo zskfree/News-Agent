@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-23 23:19
+**最后更新时间**: 2025-11-24 05:23
+
+---
+
+## 🆕 最新更新 (2025-11-24 05:23)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Blackwell全面量产，AI芯片「美国造」真能行？](http://www.geekpark.net/news/356815)
+**发布时间**: 2025-11-24 13:07
+
+#### [「AI 手机元年」过去了，我们并不想念它](http://www.geekpark.net/news/356804)
+**发布时间**: 2025-11-24 11:23
+
+#### [他们没在追风口，而是在造下一个](http://www.geekpark.net/news/356805)
+**发布时间**: 2025-11-24 11:21
+
+#### [雷军：辅助驾驶不是自动驾驶；继续干！传库克明年不退休；Altman：谷歌复苏，OpenAI进入艰难时刻](http://www.geekpark.net/news/356777)
+**发布时间**: 2025-11-24 08:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Google and Alibaba Stage Dramatic Comebacks with Bold AI Bets](https://www.tmtpost.com/7778731.html)
+**发布时间**: 2025-11-24 12:36
+
+#### [小马智行VS文远知行，Robotaxi对决走向“价值创造”](https://www.tmtpost.com/7778455.html)
+**发布时间**: 2025-11-24 12:25
+
+#### [AI巨头们的万亿美元债务去哪了？](https://www.tmtpost.com/7778536.html)
+**发布时间**: 2025-11-24 12:24
+
+#### [AI会取代人类客服吗？](https://www.tmtpost.com/7771357.html)
+**发布时间**: 2025-11-24 12:17
+
+#### [方建华：相比对固态电池等远期概念的过热追捧，资本和产业更应关注安全、降本、增效方面的微创新](https://www.tmtpost.com/7772285.html)
+**发布时间**: 2025-11-24 12:16
+
+#### [新交所联手纳斯达克，对港交所有何影响？](https://www.tmtpost.com/7778348.html)
+**发布时间**: 2025-11-24 12:16
+
+#### [最高TOP2，一华南小游戏跑出，2天狂飙30名，新趋势显现？](https://www.tmtpost.com/7778377.html)
+**发布时间**: 2025-11-24 12:15
+
+#### [马英尧：加固“小城第一”护城河，奔赴经济型酒店“第二春”](https://www.tmtpost.com/7778295.html)
+**发布时间**: 2025-11-24 12:05
+
+#### [价格腰斩、开店放缓，“酸奶界爱马仕”不行了？](https://www.tmtpost.com/7778477.html)
+**发布时间**: 2025-11-24 12:04
+
+#### [朱啸虎唯一出手的AI眼镜，Gyges Labs成色几何？](https://www.tmtpost.com/7778309.html)
+**发布时间**: 2025-11-24 12:04
+
+#### [AI会取代人类客服吗？](https://www.tmtpost.com/7778626.html)
+**发布时间**: 2025-11-24 12:04
+
+#### [芯片龙头TOP 10，有人狂欢，有人苦战](https://www.tmtpost.com/7778535.html)
+**发布时间**: 2025-11-24 12:00
+
+#### [思格产品被召回打破户储增长幻象，中国企业出海亟需质量反思](https://www.tmtpost.com/7778439.html)
+**发布时间**: 2025-11-24 11:59
+
+#### [人形机器人棋局，中坚站在了哪一格？](https://www.tmtpost.com/7778530.html)
+**发布时间**: 2025-11-24 11:58
+
+#### [狂推新品牌，中高端酒店要做年轻人的“白月光”](https://www.tmtpost.com/7778479.html)
+**发布时间**: 2025-11-24 11:51
+
+#### [霸王茶姬、喜茶都在跟，年轻人正捧红一批“地域文旅奶茶”](https://www.tmtpost.com/7778474.html)
+**发布时间**: 2025-11-24 11:48
+
+#### [拆解Gemini 3：Scaling Law的极致执行与“全模态”的威力](https://www.tmtpost.com/7778506.html)
+**发布时间**: 2025-11-24 11:47
+
+#### [【数智产业周报】普京：俄应在生成式人工智能领域掌握全套自主技术；美银调查：超半数基金经理认为AI股票已经处于泡沫状态；阿里全力进军AI to C市场，千问APP上线公测](https://www.tmtpost.com/7778511.html)
+**发布时间**: 2025-11-24 11:46
+
+#### [广西菜“漂亮饭”，正在攻占一线城市](https://www.tmtpost.com/7778462.html)
+**发布时间**: 2025-11-24 11:39
+
+#### [近60起联名活动，《疯狂动物城2》背后的品牌营销“卡位战”](https://www.tmtpost.com/7778526.html)
+**发布时间**: 2025-11-24 11:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [非技术用户构建生产级应用的 AI Coding 实践｜AICon北京](https://www.infoq.cn/article/0uKvb5FHHhOG23pyGQ1M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 12:30
+
+#### [F# 10带来的性能提升](https://www.infoq.cn/article/3PW8IpKhpOj2paT8XWgf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 11:44
+
+#### [新的IBM Granite 4模型通过可高效推理的混合Mamba-2架构降低人工智能成本](https://www.infoq.cn/article/2G9xcZlsrvyWqkziqRcM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 11:21
+
+#### [Java内存排查太难？阿里云操作系统控制台上线「内存诊断」新利器](https://www.infoq.cn/article/bEVT6qXLN7u8xYrugb54?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 11:07
+
+#### [汇聚全球顶尖科学力量，中关村两院发布全球首个科研智能体系统，并公布2025前沿科技进展与2026未来重大突破预测](https://www.infoq.cn/article/zGe8HYVVkzcZxHevF2HK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 10:36
+
+#### [谷歌24亿美元买个壳？劈柴哥力推的王牌IDE被爆“复制”Windsurf，连Bug一起](https://www.infoq.cn/article/RDsRAq2SPCwrOZdUlHID?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 10:36
+
+#### [2025深圳国际金融科技大赛十强名单揭晓，12月6日深圳大学决赛见！](https://www.infoq.cn/article/b5bP7kH7NMujy5qTYCzM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 10:30
+
+#### [Java近期新闻：Spring Framework 7.0、Spring Data、Spring AI、Payara Platform、OpenJDK、JobRunr](https://www.infoq.cn/article/RNtNHhFOI4DWYDdp2Grl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 09:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [代码人生的碎碎念：写在 PicGo 八周年之际](https://sspai.com/post/104040)
+**发布时间**: 2025-11-24 11:21
+
+#### [派早报：微软因反复鼓吹 Copilot 频招批评](https://sspai.com/post/104042)
+**发布时间**: 2025-11-24 08:57
 
 ---
 
