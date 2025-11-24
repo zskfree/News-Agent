@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-24 05:23
+**最后更新时间**: 2025-11-24 08:31
+
+---
+
+## 🆕 最新更新 (2025-11-24 08:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [报告发现：AI生成的代码将引发新一轮技术债务浪潮](https://www.infoq.cn/article/z9BzTyFywGx3IlKfRLjo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 16:20
+
+#### [从模型到智能体：Snowflake 的企业级 Agentic AI 工程化之路](https://www.infoq.cn/article/rFuqHmzyCVdTEJ7oQQem?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 15:58
+
+#### [IT员工抄公司量化代码赚8千万，被罚1.7亿；传毫末智行停工解散、赔偿不明；实习生抽中显卡被公司要求上交？回应来了 | AI周报](https://www.infoq.cn/article/dGj4STCTAj8cuFlpH6ch?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 14:27
+
+#### [CameraX 1.5为Android版本带来了高级视频录制和图像捕获功能](https://www.infoq.cn/article/j3s6l4QjgsiIMb0vidYo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 14:25
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [非遗短剧热潮：年轻人主导传承，平台押注下一个内容蓝海](https://www.tmtpost.com/7778961.html)
+**发布时间**: 2025-11-24 16:14
+
+#### [山姆的烦恼在热搜里，大润发的难题在财报里](https://www.tmtpost.com/7778986.html)
+**发布时间**: 2025-11-24 16:11
+
+#### [京东向左，阿里向右](https://www.tmtpost.com/7778923.html)
+**发布时间**: 2025-11-24 16:08
+
+#### [中国TCE投资地图2025：风暴将至](https://www.tmtpost.com/7778988.html)
+**发布时间**: 2025-11-24 16:06
+
+#### [逆势再开2万平米大店，这家东北超市新势力凭什么？](https://www.tmtpost.com/7779008.html)
+**发布时间**: 2025-11-24 16:05
+
+#### [千问APP上线，阿里给AI时代“买保险”](https://www.tmtpost.com/7778558.html)
+**发布时间**: 2025-11-24 16:02
+
+#### [从追赶到并跑，中国创新药与全球Fierce 15同频共振](https://www.tmtpost.com/7778900.html)
+**发布时间**: 2025-11-24 16:02
+
+#### [中国头部械企比全球TOP100差在哪？](https://www.tmtpost.com/7778892.html)
+**发布时间**: 2025-11-24 15:57
+
+#### [2025年中国文旅景区运营发展](https://www.tmtpost.com/7779015.html)
+**发布时间**: 2025-11-24 15:57
+
+#### [2025，这一功效成分遭珀莱雅、谷雨哄抢](https://www.tmtpost.com/7779086.html)
+**发布时间**: 2025-11-24 15:52
+
+#### [红色预警，多家割草机品牌将遭重击](https://www.tmtpost.com/7778841.html)
+**发布时间**: 2025-11-24 15:50
+
+#### [Alibaba's Qwen App Tops 10 Million Downloads After Relaunch](https://www.tmtpost.com/7779088.html)
+**发布时间**: 2025-11-24 15:45
+
+#### [月之暗面估值或达40亿美元，或于明年下半年IPO](https://www.tmtpost.com/7778473.html)
+**发布时间**: 2025-11-24 15:12
+
+#### [对话乐道沈斐：把纯电和换电做好，根本不用做增程](https://www.tmtpost.com/7779030.html)
+**发布时间**: 2025-11-24 15:10
+
+#### [请注意，长沙要起飞了](https://www.tmtpost.com/7778689.html)
+**发布时间**: 2025-11-24 13:26
+
+#### [金融公司跨界自救？港股公司小鱼盈通入股百川短剧](https://www.tmtpost.com/7778733.html)
+**发布时间**: 2025-11-24 13:24
+
+#### [是时候重新审视日本农产品了](https://www.tmtpost.com/7778746.html)
+**发布时间**: 2025-11-24 13:24
+
+#### [Google and Alibaba Stage Comebacks with Bold AI Bets](https://www.tmtpost.com/7778731.html)
+**发布时间**: 2025-11-24 12:36
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [罗永浩的下一个路口，是什么？](http://www.geekpark.net/news/356827)
+**发布时间**: 2025-11-24 15:46
+
+#### [极客公园创新大会 2026 全议程公布！](http://www.geekpark.net/news/356826)
+**发布时间**: 2025-11-24 15:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [智能手机的「最后一道保险」：卫星通讯的过去、现在与未来](https://sspai.com/post/103797)
+**发布时间**: 2025-11-24 15:00
 
 ---
 
