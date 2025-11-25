@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2025 05:22:49 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 08:30:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-3</link>
-      <description>&lt;![CDATA[xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-3</guid>
+      <title>学生3年投稿6次被拒，于是吴恩达亲手搓了个评审Agent</title>
+      <link>https://www.qbitai.com/2025/11/356247.html</link>
+      <description>&lt;![CDATA[学生3年投稿6次被拒，于是吴恩达亲手搓了个评审Agent]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356247.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AAAI 2026 Oral | 悉尼科技大学联合港理工打破「一刀切」，联邦推荐如何实现「千人千面」的图文融合？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-5</link>
-      <description>&lt;![CDATA[AAAI 2026 Oral | 悉尼科技大学联合港理工打破「一刀切」，联邦推荐如何实现「千人千面」的图文融合？]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-5</guid>
+      <title>波士顿动力前CTO加盟DeepMind，Gemini要做机器人界的安卓</title>
+      <link>https://www.qbitai.com/2025/11/356219.html</link>
+      <description>&lt;![CDATA[波士顿动力前CTO加盟DeepMind，Gemini要做机器人界的安卓]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356219.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>用 AI 发明下一代巧克力：Barry Callebaut 与 NotCo 的技术联盟，甜品产业的可持续路线悄然改变</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-4</link>
-      <description>&lt;![CDATA[用 AI 发明下一代巧克力：Barry Callebaut 与 NotCo 的技术联盟，甜品产业的可持续路线悄然改变]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 11:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>新型AI芯片能耗重大突破，已登Nature子刊</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25</link>
-      <description>&lt;![CDATA[新型AI芯片能耗重大突破，已登Nature子刊]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Nano Banana新玩法无限套娃！“GPT-5都不会处理这种级别的递归”</title>
-      <link>https://www.qbitai.com/2025/11/356060.html</link>
-      <description>&lt;![CDATA[Nano Banana新玩法无限套娃！“GPT-5都不会处理这种级别的递归”]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 03:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356060.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>奥特曼谈OpenAI首款AI硬件：我想拿起它咬一口</title>
-      <link>https://www.qbitai.com/2025/11/356049.html</link>
-      <description>&lt;![CDATA[奥特曼谈OpenAI首款AI硬件：我想拿起它咬一口]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 02:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356049.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Gemini 3，是谢尔盖・布林「骂」出来的？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-8</link>
-      <description>&lt;![CDATA[Gemini 3，是谢尔盖・布林「骂」出来的？]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-8</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>与Banana Pro过过招，国产Libcom图像合成工作台开启Labubu漫游记</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-7</link>
-      <description>&lt;![CDATA[与Banana Pro过过招，国产Libcom图像合成工作台开启Labubu漫游记]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 12:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-7</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>吴恩达发布论文自动审阅器，ICLR上达到接近人类水平</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-6</link>
-      <description>&lt;![CDATA[吴恩达发布论文自动审阅器，ICLR上达到接近人类水平]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-6</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>刚刚，智能体&amp;编程新王Claude Opus 4.5震撼登场，定价大降2/3</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-25-2</link>
-      <description>&lt;![CDATA[刚刚，智能体&amp;编程新王Claude Opus 4.5震撼登场，定价大降2/3]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-2</guid>
+      <title>马斯克开始用Grok替代员工了！最惨部门裁员90%</title>
+      <link>https://www.qbitai.com/2025/11/356162.html</link>
+      <description>&lt;![CDATA[马斯克开始用Grok替代员工了！最惨部门裁员90%]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 06:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356162.html</guid>
       <category>AI</category>
     </item>
   </channel>

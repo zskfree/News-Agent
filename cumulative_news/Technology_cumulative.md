@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-25 05:21
+**最后更新时间**: 2025-11-25 08:30
+
+---
+
+## 🆕 最新更新 (2025-11-25 08:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [西式快餐偏保守，中式餐饮爱折腾？](https://www.tmtpost.com/7780549.html)
+**发布时间**: 2025-11-25 15:39
+
+#### [蚂蚁另起炉灶，「灵光」向外求AI to C入口](https://www.tmtpost.com/7780001.html)
+**发布时间**: 2025-11-25 15:39
+
+#### [千问、灵光、夸克，阿里AI疯狂“补课”](https://www.tmtpost.com/7780451.html)
+**发布时间**: 2025-11-25 15:39
+
+#### [特朗普启动AI“创世纪计划”，对标“曼哈顿工程”，英伟达等巨头又迎政策盛宴](https://www.tmtpost.com/7780236.html)
+**发布时间**: 2025-11-25 14:30
+
+#### [外资品牌集体 “改姓中”：星巴克、汉堡王易主背后，中国资本手术刀如何改写全球规则？](https://www.tmtpost.com/7780483.html)
+**发布时间**: 2025-11-25 14:20
+
+#### [“监控中国客户”：一本新书引发ASML“风暴眼”的背后](https://www.tmtpost.com/7780122.html)
+**发布时间**: 2025-11-25 14:20
+
+#### [Zoom发布财报，投资者希望其加大AI应用](https://www.tmtpost.com/7780832.html)
+**发布时间**: 2025-11-25 14:09
+
+#### [Tencent-backed Prosus Posts 99% Jump in Half-Year Profit as Digital Services and E-Commerce Surge](https://www.tmtpost.com/7780829.html)
+**发布时间**: 2025-11-25 14:09
+
+#### [JingDong Industrials Targets Up to $500 Million in Hong Kong IPO Next Week, Sources Say](https://www.tmtpost.com/7780811.html)
+**发布时间**: 2025-11-25 13:57
+
+#### [“新国标”来了，雅迪、爱玛要给骑手“打工”？](https://www.tmtpost.com/7780389.html)
+**发布时间**: 2025-11-25 13:26
+
+#### [Strategy周一更新比特币持有动态，为何这对其股票及加密货币市场意义重大？](https://www.tmtpost.com/7780622.html)
+**发布时间**: 2025-11-25 11:27
+
+#### [QuantumScape被下调评级，股价却上涨](https://www.tmtpost.com/7780584.html)
+**发布时间**: 2025-11-25 11:06
+
+#### [市场反弹或将持续：乌克兰局势、美联储降息预期为何盖过了对AI的担忧——今日还有这5件大事值得了解](https://www.tmtpost.com/7780570.html)
+**发布时间**: 2025-11-25 10:56
+
+#### [为何股市低迷正是抄底良机？](https://www.tmtpost.com/7780567.html)
+**发布时间**: 2025-11-25 10:56
+
+#### [Inspire Medical股票今年下跌了41%，为何周一又突然大涨？](https://www.tmtpost.com/7780561.html)
+**发布时间**: 2025-11-25 10:54
+
+#### [汽车市场状况不佳，但分析师建议仍可买入Carvana股票](https://www.tmtpost.com/7780559.html)
+**发布时间**: 2025-11-25 10:53
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [携手共进，共赴“星河”-2025年“星河产业应用创新奖”火热申报中！](https://www.infoq.cn/article/RgKvdm2FKy2SkjbwB2Mt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 15:06
+
+#### [Claude Opus 4.5夺回编程王座，超Gemini 3 Pro和GPT-5.1](https://www.infoq.cn/article/H1by6aKbLrDp7MBuRU1M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 14:33
+
+#### [又一家AI创企爆雷：CEO 宣称估值近千亿，但融资和投资人凭空消失，网友还扒出创始人学历造假](https://www.infoq.cn/article/DD39QKaztoNKtoFjvgqc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 14:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Matrix 圆桌｜聊聊那些让你离不开的「平台独占」](https://sspai.com/post/104030)
+**发布时间**: 2025-11-25 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [华为又开始放大招了，再次改变了AI算力的发展模式？](http://www.huxiu.com/article/4808514.html?f=wangzhan)
+**发布时间**: 2025-11-25 13:30
 
 ---
 
