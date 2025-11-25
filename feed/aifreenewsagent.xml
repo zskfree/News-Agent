@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 23:20:09 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 05:22:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>顶流设计Agent能用Nano Banana Pro了！一句话BlackPink变东北翠花</title>
-      <link>https://www.qbitai.com/2025/11/355876.html</link>
-      <description>&lt;![CDATA[顶流设计Agent能用Nano Banana Pro了！一句话BlackPink变东北翠花]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355876.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
       <title>xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态</title>
-      <link>https://www.qbitai.com/2025/11/355873.html</link>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-3</link>
       <description>&lt;![CDATA[xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 12:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355873.html</guid>
+      <pubDate>Tue, 25 Nov 2025 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>睿尔曼开源全球首个高质量、模态数量最多的真机数据集</title>
-      <link>https://www.qbitai.com/2025/11/355861.html</link>
-      <description>&lt;![CDATA[睿尔曼开源全球首个高质量、模态数量最多的真机数据集]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355861.html</guid>
+      <title>AAAI 2026 Oral | 悉尼科技大学联合港理工打破「一刀切」，联邦推荐如何实现「千人千面」的图文融合？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-5</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral | 悉尼科技大学联合港理工打破「一刀切」，联邦推荐如何实现「千人千面」的图文融合？]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 12:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>青年科学家数量创新高！35位新一期“新基石研究员”获资助</title>
-      <link>https://www.qbitai.com/2025/11/355844.html</link>
-      <description>&lt;![CDATA[青年科学家数量创新高！35位新一期“新基石研究员”获资助]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 08:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/355844.html</guid>
+      <title>用 AI 发明下一代巧克力：Barry Callebaut 与 NotCo 的技术联盟，甜品产业的可持续路线悄然改变</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-4</link>
+      <description>&lt;![CDATA[用 AI 发明下一代巧克力：Barry Callebaut 与 NotCo 的技术联盟，甜品产业的可持续路线悄然改变]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LUMA AI完成由HUMAIN领投的9亿美元C轮融资，并将在沙特阿拉伯合作建设2吉瓦AI超级集群</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-24-16</link>
-      <description>&lt;![CDATA[LUMA AI完成由HUMAIN领投的9亿美元C轮融资，并将在沙特阿拉伯合作建设2吉瓦AI超级集群]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-16</guid>
+      <title>新型AI芯片能耗重大突破，已登Nature子刊</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25</link>
+      <description>&lt;![CDATA[新型AI芯片能耗重大突破，已登Nature子刊]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NeurIPS 2025 | UniLumos: 引入物理反馈的统一图像视频重打光框架，实现20倍加速的真实光影重塑!</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-24-15</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | UniLumos: 引入物理反馈的统一图像视频重打光框架，实现20倍加速的真实光影重塑!]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-15</guid>
+      <title>Nano Banana新玩法无限套娃！“GPT-5都不会处理这种级别的递归”</title>
+      <link>https://www.qbitai.com/2025/11/356060.html</link>
+      <description>&lt;![CDATA[Nano Banana新玩法无限套娃！“GPT-5都不会处理这种级别的递归”]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 03:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356060.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>虚实共振：模型×终端技术沙龙圆满举办</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-24-14</link>
-      <description>&lt;![CDATA[虚实共振：模型×终端技术沙龙圆满举办]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-14</guid>
+      <title>奥特曼谈OpenAI首款AI硬件：我想拿起它咬一口</title>
+      <link>https://www.qbitai.com/2025/11/356049.html</link>
+      <description>&lt;![CDATA[奥特曼谈OpenAI首款AI硬件：我想拿起它咬一口]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 02:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356049.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>与爱为舞「AI导师」学习效果显著，规模化「因材施教」成为现实</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-24-13</link>
-      <description>&lt;![CDATA[与爱为舞「AI导师」学习效果显著，规模化「因材施教」成为现实]]&gt;</description>
-      <pubDate>Mon, 24 Nov 2025 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-24-13</guid>
+      <title>Gemini 3，是谢尔盖・布林「骂」出来的？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-8</link>
+      <description>&lt;![CDATA[Gemini 3，是谢尔盖・布林「骂」出来的？]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>与Banana Pro过过招，国产Libcom图像合成工作台开启Labubu漫游记</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-7</link>
+      <description>&lt;![CDATA[与Banana Pro过过招，国产Libcom图像合成工作台开启Labubu漫游记]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 12:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>吴恩达发布论文自动审阅器，ICLR上达到接近人类水平</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-6</link>
+      <description>&lt;![CDATA[吴恩达发布论文自动审阅器，ICLR上达到接近人类水平]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚，智能体&amp;编程新王Claude Opus 4.5震撼登场，定价大降2/3</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-2</link>
+      <description>&lt;![CDATA[刚刚，智能体&amp;编程新王Claude Opus 4.5震撼登场，定价大降2/3]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-2</guid>
       <category>AI</category>
     </item>
   </channel>

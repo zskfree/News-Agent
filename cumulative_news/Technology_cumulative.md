@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-24 23:20
+**最后更新时间**: 2025-11-25 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-25 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Grafana 最新发布：日志更智能、MCP 服务器首秀、TraceQL 全面升级](https://www.infoq.cn/article/TIyix3ryIeOPrkbEyAh2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 13:00
+
+#### [Nexla 发布对话式 AI 数据工程平台  Express](https://www.infoq.cn/article/ov2zwJWhsCPV8lL90MaG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 12:30
+
+#### [Spring Framework 7和Spring Boot 4引入API版本控制、韧性和Null-Safe注解](https://www.infoq.cn/article/Wv28jmj304XeIypPGAgR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 11:57
+
+#### [不仅是适配，更是定义标准：中兴新支点操作系统在龙蜥大会交出的“2025 答卷”](https://www.infoq.cn/article/8mW6xpOfK6kyWJDrLLuJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 11:34
+
+#### [时隔七年，谷歌以Jetpack Navigation 3重塑Android导航体验](https://www.infoq.cn/article/8FwMaadEzb7WNd3xCwvd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 11:27
+
+#### [AWS Lambda 正式支持 Rust，开发者最关心的性能与编译痛点仍在路上](https://www.infoq.cn/article/Ohxr3qF2l4L802T9B1XF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 10:49
+
+#### [软硬协同、开源共建：英特尔与龙蜥携手打造 AI 时代的可信计算底座](https://www.infoq.cn/article/2VRoXwQCgfrfL851IQGj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 10:47
+
+#### [35岁外包被裁，他选择“一键复仇”：“黑”进系统重置 2500 个密码，直接让前东家损失600多万 ！](https://www.infoq.cn/article/WkrFLy2XGOBZ6srjo2ql?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 09:46
+
+#### [AI Agent在微软的Magentic Marketplace模拟中未能通过操纵测试](https://www.infoq.cn/article/ShWHEKia3Z6OapsRY6IM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 09:42
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [幸运咖门店突破一万家，产品定价比9块9更低](https://www.tmtpost.com/7780700.html)
+**发布时间**: 2025-11-25 12:27
+
+#### [开除，字节打响“AI军纪”第一枪](https://www.tmtpost.com/7780472.html)
+**发布时间**: 2025-11-25 12:03
+
+#### [峰飞航空发布eVTOL零碳水上机场  全球首创“海空一体”低空经济解决方案 | 公司动态](https://www.tmtpost.com/7780603.html)
+**发布时间**: 2025-11-25 11:51
+
+#### [140亿“风投女王”，豪掷3亿美元弥补遗憾](https://www.tmtpost.com/7780292.html)
+**发布时间**: 2025-11-25 11:40
+
+#### [马云督战，阿里又跑出一个AI新玩家](https://www.tmtpost.com/7779689.html)
+**发布时间**: 2025-11-25 10:52
+
+#### [AtomGit正式上线，中国开源AI雏形已现](https://www.tmtpost.com/7779348.html)
+**发布时间**: 2025-11-25 10:45
+
+#### [Autonomous Driving Pioneer Says Autonomous Driving Nears Commercial Inflection as Industry Weighs Pure Vision, Robotics Futures](https://www.tmtpost.com/7780495.html)
+**发布时间**: 2025-11-25 10:28
+
+#### [创新药下一个风口浮现](https://www.tmtpost.com/7780443.html)
+**发布时间**: 2025-11-25 10:24
+
+#### [阿里谷歌AI齐反超：中美巨头的全栈默契与开源分野](https://www.tmtpost.com/7780078.html)
+**发布时间**: 2025-11-25 10:00
+
+#### [Amazon to Invest Up to $50 Billion to Build AI infrastructure for U.S. Government, Pour An Extra $15 billion in Indiana Datacenters](https://www.tmtpost.com/7780374.html)
+**发布时间**: 2025-11-25 09:36
+
+#### [China's Moonshot AI in Talks for New Funding Round That May Value Firm at $4 Billion](https://www.tmtpost.com/7780294.html)
+**发布时间**: 2025-11-25 09:05
+
+#### [欧盟的数字监管开始给美国大厂放水了？](https://www.tmtpost.com/7779682.html)
+**发布时间**: 2025-11-25 09:00
+
+#### [Trump Launches Genesis Mission to Accelerate AI for Scientific Discovery](https://www.tmtpost.com/7780256.html)
+**发布时间**: 2025-11-25 08:51
+
+#### [一本新书的猛料，让ASML陷入国际舆论漩涡，多次下场“对线”](https://www.tmtpost.com/7780176.html)
+**发布时间**: 2025-11-25 08:40
+
+#### [大厂加码、创业公司竞逐，人形机器人迎来iPhone时刻了吗？](https://www.tmtpost.com/7780065.html)
+**发布时间**: 2025-11-25 08:30
+
+#### [小鹏炫技背后，一批人形机器人企业已经开始倒闭了](https://www.tmtpost.com/7779932.html)
+**发布时间**: 2025-11-25 08:00
+
+#### [【钛晨报】10000亿元！央行今日再出手MLF操作；一则传闻掀翻万亿AI龙头？工业富联紧急辟谣；雷军斥资超1亿港元增持小米](https://www.tmtpost.com/7779920.html)
+**发布时间**: 2025-11-25 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [习惯养成 ABC：要如何克服内心的静摩擦力？](https://sspai.com/post/103458)
+**发布时间**: 2025-11-25 11:33
+
+#### [派早报：荣耀发布 500 系列手机，抖音发布《抖音社区法律行业公约》等](https://sspai.com/post/104063)
+**发布时间**: 2025-11-25 07:56
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [北京VS杭州，谁是AI第一城？](http://www.huxiu.com/article/4808845.html?f=wangzhan)
+**发布时间**: 2025-11-25 11:15
+
+#### [切割中国、狂舔美国，松下电池走向深渊](http://www.huxiu.com/article/4808626.html?f=wangzhan)
+**发布时间**: 2025-11-25 10:15
+
+#### [2025年餐饮店平均生命周期仅15个月？](http://www.huxiu.com/article/4808048.html?f=wangzhan)
+**发布时间**: 2025-11-25 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [特朗普签署行政令，启动人工智能「创世纪计划」；苹果罕见裁员，数十个销售部门岗位被裁；理想高管回应理想汽车为什么没终身质保｜极客早知道](http://www.geekpark.net/news/356847)
+**发布时间**: 2025-11-25 08:37
 
 ---
 
