@@ -1584,51 +1584,39 @@
         "link": "https://www.qbitai.com/2025/11/356162.html",
         "published_date": "Tue, 25 Nov 2025 06:24:00 GMT",
         "first_seen": "2025-11-25T08:30:09.072497"
+      },
+      "0b9c7f4b69d218b1fac53dbf3e8ab3b996eccad62ec1c98e3026ac417be2decf": {
+        "title": "青年科学家数量创新高！35位新一期“新基石研究员”获资助",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-25-12",
+        "published_date": "Tue, 25 Nov 2025 18:33:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.068923"
+      },
+      "2b2032a1bceec54b74a209790999d124ae0529670f8bbbeb9276b83cf34b7005": {
+        "title": "从推荐算法优化到AI4S、Pico和大模型，杨震原长文揭秘字节跳动的技术探索",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-25-11",
+        "published_date": "Tue, 25 Nov 2025 18:03:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.069097"
+      },
+      "0978e856d2e21520abda3e1235e3f684ce37fee6aa4ab99bc546ba9d93dd2e5a": {
+        "title": "哈工大深圳团队推出Uni-MoE-2.0-Omni：全模态理解、推理及生成新SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-25-10",
+        "published_date": "Tue, 25 Nov 2025 17:57:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.069333"
+      },
+      "0732a8b9f56abd57d480781425b56890777ebfb3c5aadda64c0a0c778b696161": {
+        "title": "特朗普签署创世纪计划——指示科学机构拥抱人工智能",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-25-9",
+        "published_date": "Tue, 25 Nov 2025 17:25:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.069511"
+      },
+      "3df7b28d7822b165fea5e91f1151ca5992079b6c5ba74ba8bbe8996332f07a64": {
+        "title": "国产手机卖到1万6！华为新旗舰，搭载麒麟9030",
+        "link": "https://www.qbitai.com/2025/11/356278.html",
+        "published_date": "Tue, 25 Nov 2025 14:37:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.069761"
       }
     },
     "Technology": {
-      "ff1ab64132aafb62599587cbf2da9116371b341b4f3e397c65a17763818fdd90": {
-        "title": "8888元一桌的高端婚宴，全是预制菜？",
-        "link": "http://www.huxiu.com/article/4796518.html?f=wangzhan",
-        "published_date": "Sun, 26 Oct 2025 23:37:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.182136"
-      },
-      "f5a826dc2bfadb87b06bbb4a18332aa743b08c91aa2a7723c64602073488e337": {
-        "title": "“水果第一股”被取消上市地位，一场从600亿归零的资本迷局",
-        "link": "https://www.tmtpost.com/7738555.html",
-        "published_date": "Sun, 26 Oct 2025 21:26:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.182308"
-      },
-      "bf039f2b66ac2ff08518935469c7e56f54609bc3c77fd5fd4983fed160b0a772": {
-        "title": "阿斯顿·马丁下调全年盈利预期，知名豪车巨头们这是怎么了？",
-        "link": "https://www.tmtpost.com/7738467.html",
-        "published_date": "Sun, 26 Oct 2025 19:15:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.182486"
-      },
-      "74724dca283ccfddb665aad5c388c2b7ec5e0d1b94010968c4f076f6c3d008d3": {
-        "title": "智元精灵G2，工业机器人标杆还是资本的新故事？",
-        "link": "https://www.tmtpost.com/7738244.html",
-        "published_date": "Sun, 26 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.182682"
-      },
-      "20de36c6661a9a242ebda69ece33e0c2c85563e7fba0bf4195f6f62d74435558": {
-        "title": "剑宗与气宗的“双向奔赴”：宇树、智元殊途同归",
-        "link": "https://www.tmtpost.com/7738473.html",
-        "published_date": "Sun, 26 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.182906"
-      },
-      "ff5916c2e9ec5815bd5b1dc9f22efafed0aba79af0208ecb42701c611d1ecc4d": {
-        "title": "从协同到增长：AI 如何驱动企业效能跃升",
-        "link": "https://www.infoq.cn/video/A9rdZDvjZajXgXcks23A?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 26 Oct 2025 18:43:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.183145"
-      },
-      "47d2d646d4a1c117878079e117a3636c9de30970a74619e6c45cd95885625777": {
-        "title": "App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光",
-        "link": "https://sspai.com/post/102928",
-        "published_date": "Sun, 26 Oct 2025 17:18:00 GMT",
-        "first_seen": "2025-10-26T23:18:21.183530"
-      },
       "6049e98c09c93449a9acb212dd9333c9087ab27d3efa5861afb885ad9c1c5c77": {
         "title": "自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要",
         "link": "https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&utm_medium=article",
@@ -12614,13 +12602,169 @@
         "link": "http://www.huxiu.com/article/4808514.html?f=wangzhan",
         "published_date": "Tue, 25 Nov 2025 13:30:00 GMT",
         "first_seen": "2025-11-25T08:30:09.175445"
+      },
+      "42a96c3bee27d22d8f31985fba9f378d4a7fbf11009e3bb467b6b68e957c04b0": {
+        "title": "谁杀死了毫末智行？",
+        "link": "https://www.tmtpost.com/7781098.html",
+        "published_date": "Tue, 25 Nov 2025 23:07:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.127746"
+      },
+      "836c09d3f1cb5a00c3b73f487db0e2c433c9272a0dd311b70e2c5bc8ca29104c": {
+        "title": "超10亿押注高端材料，东方锆业固态电池布局陷“未供货”争议",
+        "link": "https://www.tmtpost.com/7781678.html",
+        "published_date": "Tue, 25 Nov 2025 21:59:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405976"
+      },
+      "a73ef8a4b1952999b41c46be129bec740436ee24aeeb689e597cdb010ef88185": {
+        "title": "“曾错判大模型价值”，杨震原披露字节十年技术路径",
+        "link": "https://www.tmtpost.com/7781472.html",
+        "published_date": "Tue, 25 Nov 2025 21:51:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405917"
+      },
+      "680f90d89278ce0f3868de4c1d44a4e1bef8f3e33c1533be38bfa60e0445f8ac": {
+        "title": "宇树上市只差临门一脚：王兴兴和他的“上市大考”",
+        "link": "https://www.tmtpost.com/7781187.html",
+        "published_date": "Tue, 25 Nov 2025 20:29:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405986"
+      },
+      "c0f6d7ebc8fbe3925e4c3aa79c88476cdfdb3bf61783ec6272f589b424d90cd0": {
+        "title": "开能健康7年4轮腾挪，跨界豪赌细胞“百慕大”疑云难消",
+        "link": "https://www.tmtpost.com/7781489.html",
+        "published_date": "Tue, 25 Nov 2025 20:24:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405996"
+      },
+      "f4c631b0569fa7fe2ecd112819e485de683953e4668c69320a4a0b112c08ba22": {
+        "title": "深向科技：三年半亏17亿，创始人精准踩点套现9.74亿，研发砸11亿，毛利率仍不足3%｜IPO观察",
+        "link": "https://www.tmtpost.com/7778870.html",
+        "published_date": "Tue, 25 Nov 2025 20:15:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405872"
+      },
+      "409e5c49f69d81ffa9d3d9f978d931bf7c6acf23f1ac59de0091f82e93e8ff72": {
+        "title": "礼邦医药：7年累计亏超13亿，首款产品上市仍难扭亏｜IPO观察",
+        "link": "https://www.tmtpost.com/7778891.html",
+        "published_date": "Tue, 25 Nov 2025 20:11:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405930"
+      },
+      "ab21ca3630603b8a15106bb7e6f2b360dbbe149bc757f558be9e082737da884f": {
+        "title": "百镜大战，Rokid能扛得住吗？",
+        "link": "https://www.tmtpost.com/7781247.html",
+        "published_date": "Tue, 25 Nov 2025 19:47:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.129375"
+      },
+      "5529ee79d89bd11783f8f5a15cf23d01846b49edc969e5574b914b9cc4207ba6": {
+        "title": "不登山不打猎，为何年轻人抢穿“猎装”？",
+        "link": "https://www.tmtpost.com/7781318.html",
+        "published_date": "Tue, 25 Nov 2025 19:34:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.129718"
+      },
+      "57e57065e7cc9c01b4d3c9400533a97c75192a4b648250d3b2c53b528fff4e44": {
+        "title": "Claude Opus 4.5发布：价格腰斩、无限对话，重夺代码王座",
+        "link": "https://www.tmtpost.com/7780761.html",
+        "published_date": "Tue, 25 Nov 2025 19:34:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405943"
+      },
+      "7f6888b3c7e081d63381baf0f7f49aedca5cfcf51937d152757c5944ba809a21": {
+        "title": "AI眼镜元年，SoC厂商抢滩",
+        "link": "https://www.tmtpost.com/7781364.html",
+        "published_date": "Tue, 25 Nov 2025 19:34:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.130598"
+      },
+      "329d6ff6ca34621114a410a7eafd55d30548f6b22ce7309a8c9b7d1e7cc42709": {
+        "title": "华锋股份拟易主：74岁女掌门交棒，资本老手陈运再度进击",
+        "link": "https://www.tmtpost.com/7781380.html",
+        "published_date": "Tue, 25 Nov 2025 19:34:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.131093"
+      },
+      "bd144b914ea0da319261f1cb6e3412ea2a8a6fd66a08a2b8c8b4efabe8a69be6": {
+        "title": "该怎么看这轮化工股周期？",
+        "link": "https://www.tmtpost.com/7780353.html",
+        "published_date": "Tue, 25 Nov 2025 19:24:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.131396"
+      },
+      "09b2e2039472cae18c7d3a93474d799653819cb836b3a1cd275d984d7bb53905": {
+        "title": "摩尔线程的中国式突围",
+        "link": "https://www.tmtpost.com/7781113.html",
+        "published_date": "Tue, 25 Nov 2025 19:24:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.131690"
+      },
+      "2d2d01451a1038e4e69184b0d318d9fc02131d342b31d27e76d50b6961efd886": {
+        "title": "有泡沫吗？如果有，是什么样的泡沫？",
+        "link": "https://www.tmtpost.com/7781102.html",
+        "published_date": "Tue, 25 Nov 2025 19:24:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.132192"
+      },
+      "ee272956d72ab8cf318fa8ead1a8640ec8bc3c912562b0cc15f57a848fecc6ed": {
+        "title": "“星巴克劲敌”要被卖了，可口可乐血亏百亿",
+        "link": "https://www.tmtpost.com/7780573.html",
+        "published_date": "Tue, 25 Nov 2025 19:24:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.132794"
+      },
+      "eee945756b086cc8d3b9c74712a8b4b266ad313467d89b9a8040cd17fa8f97dc": {
+        "title": "临床爆发、政策大开绿灯，国产脑机接口商业化要开始了？",
+        "link": "https://www.tmtpost.com/7781070.html",
+        "published_date": "Tue, 25 Nov 2025 19:24:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.133552"
+      },
+      "3b8dcee8ccd7820b8d67665c70adcee857cc7e34617c318a67dd7695c949c21d": {
+        "title": "冰箱彩电大沙发不能代表的智能座舱，应该什么样？",
+        "link": "http://www.geekpark.net/news/356901",
+        "published_date": "Tue, 25 Nov 2025 22:00:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.134220"
+      },
+      "8946cfe0bdce84c30e635de6320069251b620cb383c1feb766863eed8d2f4bce": {
+        "title": "模力工场 021 周 AI 应用榜：万象代码生成平台登顶，研发与办公的“双引擎提效”",
+        "link": "https://www.infoq.cn/article/8GRSiSfcvwBMYEG7s6Qg?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 20:00:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405903"
+      },
+      "4deb4bb30830ad076f3b62d92aefd13250dae8bf4c2fff62814e4e2fe0c95149": {
+        "title": "在日常工作流程中将数据转化为智能 | 技术趋势",
+        "link": "https://www.infoq.cn/article/4SDqZylGB2JVt1BKlYIU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 18:59:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405953"
+      },
+      "5a28ed495ac11bc51deb577dc6e6ea0748a59f0f49a7fb9f5702b9fe68ba5748": {
+        "title": "构建你的第一个 Snowflake 智能体：从概念到原型只需 3 步！ | 技术实践",
+        "link": "https://www.infoq.cn/article/IqwfdevqvcHvRW1RbrEY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 18:58:00 GMT",
+        "first_seen": "2025-11-25T23:20:36.405966"
+      },
+      "e1607ec3e04f3f89b3f157e0631c9e7b3bcc2dac422f61ad7ed81f5a4e0df7ac": {
+        "title": "人机协同构建10x组织效能和内容安全新范式｜AICon北京",
+        "link": "https://www.infoq.cn/article/2Euuli0hwE5JL4E4qGJv?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 17:13:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.138187"
+      },
+      "5aff515bed394d58afb4f84afb93547da763197e4e29472c0dd40d5d7a5e0168": {
+        "title": "西贝之后，“带孩子去哪儿吃饭”造就了新商机",
+        "link": "http://www.huxiu.com/article/4809011.html?f=wangzhan",
+        "published_date": "Tue, 25 Nov 2025 18:00:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.139044"
+      },
+      "424beb87e2909b3ce65407be8a07b5ddde9bed0f1627112718fda401c873e8c9": {
+        "title": "社区速递 119 | 派友对智能眼镜的看法、一周热评以及新玩意",
+        "link": "https://sspai.com/post/104066",
+        "published_date": "Tue, 25 Nov 2025 17:30:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.140247"
+      },
+      "e6d4c586135b02ccda4c3437abb31b83d96db902d8c65885ed075c2fc5cbe7b2": {
+        "title": "直播预告｜飞傲 DM15 R2R 便携蓝牙 CD 播放机 正式发售",
+        "link": "https://sspai.com/post/104065",
+        "published_date": "Tue, 25 Nov 2025 16:00:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.141679"
+      },
+      "d6ea7c07544d0f04cfefa4a5e7f44386e18a462593ee59dc82f7b7612deb2689": {
+        "title": "用 Tasker 在桌面上随机回顾微信读书笔记",
+        "link": "https://sspai.com/prime/story/wechat-read-annotations-widget-tasker",
+        "published_date": "Tue, 25 Nov 2025 15:42:00 GMT",
+        "first_seen": "2025-11-25T23:19:48.142747"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-25T08:30:09.125985",
-    "Technology": "2025-11-25T08:30:57.432093",
-    "Finance": "2025-11-25T08:30:08.970582"
+    "AI": "2025-11-25T23:19:48.092400",
+    "Technology": "2025-11-25T23:20:36.407540",
+    "Finance": "2025-11-25T23:19:47.964452"
   }
 }

@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-25 08:30
+**最后更新时间**: 2025-11-25 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-25 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [谁杀死了毫末智行？](https://www.tmtpost.com/7781098.html)
+**发布时间**: 2025-11-25 23:07
+
+#### [超10亿押注高端材料，东方锆业固态电池布局陷“未供货”争议](https://www.tmtpost.com/7781678.html)
+**发布时间**: 2025-11-25 21:59
+
+#### [“曾错判大模型价值”，杨震原披露字节十年技术路径](https://www.tmtpost.com/7781472.html)
+**发布时间**: 2025-11-25 21:51
+
+#### [宇树上市只差临门一脚：王兴兴和他的“上市大考”](https://www.tmtpost.com/7781187.html)
+**发布时间**: 2025-11-25 20:29
+
+#### [开能健康7年4轮腾挪，跨界豪赌细胞“百慕大”疑云难消](https://www.tmtpost.com/7781489.html)
+**发布时间**: 2025-11-25 20:24
+
+#### [深向科技：三年半亏17亿，创始人精准踩点套现9.74亿，研发砸11亿，毛利率仍不足3%｜IPO观察](https://www.tmtpost.com/7778870.html)
+**发布时间**: 2025-11-25 20:15
+
+#### [礼邦医药：7年累计亏超13亿，首款产品上市仍难扭亏｜IPO观察](https://www.tmtpost.com/7778891.html)
+**发布时间**: 2025-11-25 20:11
+
+#### [百镜大战，Rokid能扛得住吗？](https://www.tmtpost.com/7781247.html)
+**发布时间**: 2025-11-25 19:47
+
+#### [不登山不打猎，为何年轻人抢穿“猎装”？](https://www.tmtpost.com/7781318.html)
+**发布时间**: 2025-11-25 19:34
+
+#### [Claude Opus 4.5发布：价格腰斩、无限对话，重夺代码王座](https://www.tmtpost.com/7780761.html)
+**发布时间**: 2025-11-25 19:34
+
+#### [AI眼镜元年，SoC厂商抢滩](https://www.tmtpost.com/7781364.html)
+**发布时间**: 2025-11-25 19:34
+
+#### [华锋股份拟易主：74岁女掌门交棒，资本老手陈运再度进击](https://www.tmtpost.com/7781380.html)
+**发布时间**: 2025-11-25 19:34
+
+#### [该怎么看这轮化工股周期？](https://www.tmtpost.com/7780353.html)
+**发布时间**: 2025-11-25 19:24
+
+#### [摩尔线程的中国式突围](https://www.tmtpost.com/7781113.html)
+**发布时间**: 2025-11-25 19:24
+
+#### [有泡沫吗？如果有，是什么样的泡沫？](https://www.tmtpost.com/7781102.html)
+**发布时间**: 2025-11-25 19:24
+
+#### [“星巴克劲敌”要被卖了，可口可乐血亏百亿](https://www.tmtpost.com/7780573.html)
+**发布时间**: 2025-11-25 19:24
+
+#### [临床爆发、政策大开绿灯，国产脑机接口商业化要开始了？](https://www.tmtpost.com/7781070.html)
+**发布时间**: 2025-11-25 19:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [冰箱彩电大沙发不能代表的智能座舱，应该什么样？](http://www.geekpark.net/news/356901)
+**发布时间**: 2025-11-25 22:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 021 周 AI 应用榜：万象代码生成平台登顶，研发与办公的“双引擎提效”](https://www.infoq.cn/article/8GRSiSfcvwBMYEG7s6Qg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 20:00
+
+#### [在日常工作流程中将数据转化为智能 | 技术趋势](https://www.infoq.cn/article/4SDqZylGB2JVt1BKlYIU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 18:59
+
+#### [构建你的第一个 Snowflake 智能体：从概念到原型只需 3 步！ | 技术实践](https://www.infoq.cn/article/IqwfdevqvcHvRW1RbrEY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 18:58
+
+#### [人机协同构建10x组织效能和内容安全新范式｜AICon北京](https://www.infoq.cn/article/2Euuli0hwE5JL4E4qGJv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 17:13
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [西贝之后，“带孩子去哪儿吃饭”造就了新商机](http://www.huxiu.com/article/4809011.html?f=wangzhan)
+**发布时间**: 2025-11-25 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 119 | 派友对智能眼镜的看法、一周热评以及新玩意](https://sspai.com/post/104066)
+**发布时间**: 2025-11-25 17:30
+
+#### [直播预告｜飞傲 DM15 R2R 便携蓝牙 CD 播放机 正式发售](https://sspai.com/post/104065)
+**发布时间**: 2025-11-25 16:00
+
+#### [用 Tasker 在桌面上随机回顾微信读书笔记](https://sspai.com/prime/story/wechat-read-annotations-widget-tasker)
+**发布时间**: 2025-11-25 15:42
 
 ---
 

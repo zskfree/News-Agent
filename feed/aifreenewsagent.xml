@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Nov 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2025 08:30:09 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 23:19:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>学生3年投稿6次被拒，于是吴恩达亲手搓了个评审Agent</title>
-      <link>https://www.qbitai.com/2025/11/356247.html</link>
-      <description>&lt;![CDATA[学生3年投稿6次被拒，于是吴恩达亲手搓了个评审Agent]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 06:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356247.html</guid>
+      <title>青年科学家数量创新高！35位新一期“新基石研究员”获资助</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-12</link>
+      <description>&lt;![CDATA[青年科学家数量创新高！35位新一期“新基石研究员”获资助]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>波士顿动力前CTO加盟DeepMind，Gemini要做机器人界的安卓</title>
-      <link>https://www.qbitai.com/2025/11/356219.html</link>
-      <description>&lt;![CDATA[波士顿动力前CTO加盟DeepMind，Gemini要做机器人界的安卓]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 06:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356219.html</guid>
+      <title>从推荐算法优化到AI4S、Pico和大模型，杨震原长文揭秘字节跳动的技术探索</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-11</link>
+      <description>&lt;![CDATA[从推荐算法优化到AI4S、Pico和大模型，杨震原长文揭秘字节跳动的技术探索]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克开始用Grok替代员工了！最惨部门裁员90%</title>
-      <link>https://www.qbitai.com/2025/11/356162.html</link>
-      <description>&lt;![CDATA[马斯克开始用Grok替代员工了！最惨部门裁员90%]]&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 06:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356162.html</guid>
+      <title>哈工大深圳团队推出Uni-MoE-2.0-Omni：全模态理解、推理及生成新SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-10</link>
+      <description>&lt;![CDATA[哈工大深圳团队推出Uni-MoE-2.0-Omni：全模态理解、推理及生成新SOTA]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>特朗普签署创世纪计划——指示科学机构拥抱人工智能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-25-9</link>
+      <description>&lt;![CDATA[特朗普签署创世纪计划——指示科学机构拥抱人工智能]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-25-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>国产手机卖到1万6！华为新旗舰，搭载麒麟9030</title>
+      <link>https://www.qbitai.com/2025/11/356278.html</link>
+      <description>&lt;![CDATA[国产手机卖到1万6！华为新旗舰，搭载麒麟9030]]&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 14:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356278.html</guid>
       <category>AI</category>
     </item>
   </channel>
