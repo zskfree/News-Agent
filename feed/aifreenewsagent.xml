@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 26 Nov 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 08:30:57 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 23:20:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AlphaFold的五年：DeepMind如何用AI走向世界科学前沿，推动全球生物学浪潮</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-8</link>
-      <description>&lt;![CDATA[AlphaFold的五年：DeepMind如何用AI走向世界科学前沿，推动全球生物学浪潮]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-8</guid>
+      <title>谢赛宁与Jaakkola团队重磅研究：无数据Flow Map蒸馏</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-13</link>
+      <description>&lt;![CDATA[谢赛宁与Jaakkola团队重磅研究：无数据Flow Map蒸馏]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>36年卷积猜想被解决，华人唯一作者，AI或受益</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-7</link>
-      <description>&lt;![CDATA[36年卷积猜想被解决，华人唯一作者，AI或受益]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-7</guid>
+      <title>小米开源首个跨域具身基座模型MiMo-Embodied，29个榜单SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-12</link>
+      <description>&lt;![CDATA[小米开源首个跨域具身基座模型MiMo-Embodied，29个榜单SOTA]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里千问进入电脑桌面，与夸克AI浏览器深度融合</title>
-      <link>https://www.qbitai.com/2025/11/356630.html</link>
-      <description>&lt;![CDATA[阿里千问进入电脑桌面，与夸克AI浏览器深度融合]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356630.html</guid>
+      <title>爆发力超越波士顿动力液压机器人，PHYBOT M1实现全球首次全尺寸重型电驱人形机器人完美拟人态后空翻</title>
+      <link>https://www.qbitai.com/2025/11/356796.html</link>
+      <description>&lt;![CDATA[爆发力超越波士顿动力液压机器人，PHYBOT M1实现全球首次全尺寸重型电驱人形机器人完美拟人态后空翻]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356796.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>超越Gemini3、GPT5.1，阿里千问登顶空间推理全球冠军</title>
-      <link>https://www.qbitai.com/2025/11/356622.html</link>
-      <description>&lt;![CDATA[超越Gemini3、GPT5.1，阿里千问登顶空间推理全球冠军]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 07:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356622.html</guid>
+      <title>开源模型叫板Nano Banana Pro！Stable Diffusion原班人马杀回来了</title>
+      <link>https://www.qbitai.com/2025/11/356661.html</link>
+      <description>&lt;![CDATA[开源模型叫板Nano Banana Pro！Stable Diffusion原班人马杀回来了]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356661.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小米打通智驾和具身大模型，然后开源了</title>
-      <link>https://www.qbitai.com/2025/11/356469.html</link>
-      <description>&lt;![CDATA[小米打通智驾和具身大模型，然后开源了]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 05:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356469.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>云帆Meetup报名｜i人也可，在NeurIPS圣地亚哥遇见同频智友</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-11</link>
-      <description>&lt;![CDATA[云帆Meetup报名｜i人也可，在NeurIPS圣地亚哥遇见同频智友]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 15:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-11</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>预测下一个像素还需要几年？谷歌：五年够了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-10</link>
-      <description>&lt;![CDATA[预测下一个像素还需要几年？谷歌：五年够了]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>突破视觉-语言-动作模型的瓶颈：QDepth-VLA让机器人拥有更精准的3D空间感知</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-9</link>
-      <description>&lt;![CDATA[突破视觉-语言-动作模型的瓶颈：QDepth-VLA让机器人拥有更精准的3D空间感知]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-9</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>中国汽车一哥加持，自动驾驶界「大疆」估值冲破百亿</title>
-      <link>https://www.qbitai.com/2025/11/356584.html</link>
-      <description>&lt;![CDATA[中国汽车一哥加持，自动驾驶界「大疆」估值冲破百亿]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 06:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356584.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>ROCK &amp; ROLL！阿里给智能体造了个实战演练场 | 开源</title>
-      <link>https://www.qbitai.com/2025/11/356560.html</link>
-      <description>&lt;![CDATA[ROCK &amp; ROLL！阿里给智能体造了个实战演练场 | 开源]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 06:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356560.html</guid>
+      <title>WeaveFox「AI艺术家」创意大赛千元豪礼等你来拿！</title>
+      <link>https://www.qbitai.com/2025/11/356654.html</link>
+      <description>&lt;![CDATA[WeaveFox「AI艺术家」创意大赛千元豪礼等你来拿！]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356654.html</guid>
       <category>AI</category>
     </item>
   </channel>

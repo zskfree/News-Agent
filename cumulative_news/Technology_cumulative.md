@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-26 08:30
+**最后更新时间**: 2025-11-26 23:20
+
+---
+
+## 🆕 最新更新 (2025-11-26 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Oracle Stock Rallies Over 6% at Midday as Analysts Defend AI Spending Concerns](https://www.tmtpost.com/7783967.html)
+**发布时间**: 2025-11-27 03:16
+
+#### [三度出手揽入SK海力士“边缘”资产，普冉股份寻解赛道焦虑 ｜并购一线](https://www.tmtpost.com/7783760.html)
+**发布时间**: 2025-11-26 21:42
+
+#### [前特斯拉Optimus团队成员卢泽宇加入小米，任机器人灵巧手负责人 | 巴伦独家](https://www.tmtpost.com/7783765.html)
+**发布时间**: 2025-11-26 20:59
+
+#### [4倍溢价无对赌，宋城演艺9.63亿“买地”能破主业困局？](https://www.tmtpost.com/7783684.html)
+**发布时间**: 2025-11-26 20:05
+
+#### [美的、小米，正面必有一战](https://www.tmtpost.com/7783287.html)
+**发布时间**: 2025-11-26 19:10
+
+#### [闪极崩盘、大厂入局、退货率畸高：AI眼镜虚火过旺](https://www.tmtpost.com/7782475.html)
+**发布时间**: 2025-11-26 19:08
+
+#### [打了一个夏天的胜仗，但对淘宝闪购只是刚刚开始](https://www.tmtpost.com/7783318.html)
+**发布时间**: 2025-11-26 19:07
+
+#### [电商“掼蛋局”，没有人愿意“下牌桌”](https://www.tmtpost.com/7783566.html)
+**发布时间**: 2025-11-26 19:07
+
+#### [硅光芯片，热度飙升](https://www.tmtpost.com/7783580.html)
+**发布时间**: 2025-11-26 19:06
+
+#### [酒店“剪刀门”事件反转，这届网友终于不被情绪CPU了](https://www.tmtpost.com/7783552.html)
+**发布时间**: 2025-11-26 19:06
+
+#### [AI会怎样改变教育？](https://www.tmtpost.com/7783469.html)
+**发布时间**: 2025-11-26 18:43
+
+#### [行业出清，电商玩家如何穿越周期？](https://www.tmtpost.com/7783398.html)
+**发布时间**: 2025-11-26 18:40
+
+#### [奥司他韦“失宠”，玛巴洛沙韦“上位”](https://www.tmtpost.com/7783432.html)
+**发布时间**: 2025-11-26 18:37
+
+#### [阿里不用再给外卖砸钱了](https://www.tmtpost.com/7783450.html)
+**发布时间**: 2025-11-26 18:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MongoDB 存储引擎解密：底层原理 + 游戏行业落地优化案例| 腾讯云数据库 DBTalk](https://www.infoq.cn/video/ywfycl4BlZCFrYWEFslx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 19:30
+
+#### [破解游戏行业高并发冲击难题：MongoDB精细化限流与无损迁移架构| 腾讯云数据库 DBTalk](https://www.infoq.cn/video/BhoIfkwBQupMgZAtvNe1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 19:22
+
+#### [赋能游戏回档极致体验：揭秘腾讯 MongoDB 按 Key 闪回技术| 腾讯云数据库 DBTalk](https://www.infoq.cn/video/JUlGJ2xUwqFw10f6iFVT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 19:22
+
+#### [SRE 智能体在金融核心系统的落地实践：DeepFlow 智能体的设计与思考｜AICon北京](https://www.infoq.cn/article/UzcwdRCj18QJOy7tYiVP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 17:42
+
+#### [用AI“打开”金融市场黑盒：微软亚洲研究院如何构建订单级仿真引擎](https://www.infoq.cn/article/jmBjtwx3Iul4yjUorsqI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 17:42
+
+#### [英伟达Run:ai没做到的，被华为开源方案实现了](https://www.infoq.cn/article/cIWZrKz0iYlrXNFpm9GI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 16:41
+
+#### [万卡时代，企业需要怎样的算力集群？](https://www.infoq.cn/article/A7JsMo6EXZJqGbB2xQl2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 11:04
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [超70亿独角兽“原地解散”，无人车赛道却将爆发？](http://www.huxiu.com/article/4810062.html?f=wangzhan)
+**发布时间**: 2025-11-26 18:32
+
+#### [智驾下一个关键挑战，是不被别人摘“桃子”？](http://www.huxiu.com/article/4808755.html?f=wangzhan)
+**发布时间**: 2025-11-26 18:17
+
+#### [10个月狂开5000家门店，又一餐饮万店品牌诞生](http://www.huxiu.com/article/4809394.html?f=wangzhan)
+**发布时间**: 2025-11-26 15:49
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么华为的硬件工程师，可能是最幸福的人？](http://www.geekpark.net/news/356904)
+**发布时间**: 2025-11-26 17:23
+
+#### [抢到票的各位，看看你们将要面临什么！](http://www.geekpark.net/news/356960)
+**发布时间**: 2025-11-26 16:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「捡垃圾」搭建远程文件服务器，顺便聊聊飞牛付费穿透](https://sspai.com/post/104007)
+**发布时间**: 2025-11-26 17:22
 
 ---
 
