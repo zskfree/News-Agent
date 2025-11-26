@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 26 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 05:21:14 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2025 08:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 08:30:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌TPU逆袭英伟达，创始人一夜之间跃升全球第二、第三富豪</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-6</link>
-      <description>&lt;![CDATA[谷歌TPU逆袭英伟达，创始人一夜之间跃升全球第二、第三富豪]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-6</guid>
+      <title>AlphaFold的五年：DeepMind如何用AI走向世界科学前沿，推动全球生物学浪潮</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-8</link>
+      <description>&lt;![CDATA[AlphaFold的五年：DeepMind如何用AI走向世界科学前沿，推动全球生物学浪潮]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Scaling时代终结了，Ilya Sutskever刚刚宣布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-5</link>
-      <description>&lt;![CDATA[Scaling时代终结了，Ilya Sutskever刚刚宣布]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-5</guid>
+      <title>36年卷积猜想被解决，华人唯一作者，AI或受益</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-7</link>
+      <description>&lt;![CDATA[36年卷积猜想被解决，华人唯一作者，AI或受益]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>测完Nano Banana Pro的时空重现，我人傻了……</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-4</link>
-      <description>&lt;![CDATA[测完Nano Banana Pro的时空重现，我人傻了……]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-4</guid>
+      <title>阿里千问进入电脑桌面，与夸克AI浏览器深度融合</title>
+      <link>https://www.qbitai.com/2025/11/356630.html</link>
+      <description>&lt;![CDATA[阿里千问进入电脑桌面，与夸克AI浏览器深度融合]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 07:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356630.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>中兴发了一篇论文，洞察AI更前沿的探索方向</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-3</link>
-      <description>&lt;![CDATA[中兴发了一篇论文，洞察AI更前沿的探索方向]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-3</guid>
+      <title>超越Gemini3、GPT5.1，阿里千问登顶空间推理全球冠军</title>
+      <link>https://www.qbitai.com/2025/11/356622.html</link>
+      <description>&lt;![CDATA[超越Gemini3、GPT5.1，阿里千问登顶空间推理全球冠军]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356622.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NeurIPS 2025 Spotlight | 中国联通以全局优化重塑扩散模型加速</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26-2</link>
-      <description>&lt;![CDATA[NeurIPS 2025 Spotlight | 中国联通以全局优化重塑扩散模型加速]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-2</guid>
+      <title>小米打通智驾和具身大模型，然后开源了</title>
+      <link>https://www.qbitai.com/2025/11/356469.html</link>
+      <description>&lt;![CDATA[小米打通智驾和具身大模型，然后开源了]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 05:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356469.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>华为Mate 80系列发布：麒麟9030 Pro加持，性能提升42%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-26</link>
-      <description>&lt;![CDATA[华为Mate 80系列发布：麒麟9030 Pro加持，性能提升42%]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26</guid>
+      <title>云帆Meetup报名｜i人也可，在NeurIPS圣地亚哥遇见同频智友</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-11</link>
+      <description>&lt;![CDATA[云帆Meetup报名｜i人也可，在NeurIPS圣地亚哥遇见同频智友]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-11</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Ilya罕见发声：大模型「大力出奇迹」到头了</title>
-      <link>https://www.qbitai.com/2025/11/356320.html</link>
-      <description>&lt;![CDATA[Ilya罕见发声：大模型「大力出奇迹」到头了]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 01:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356320.html</guid>
+      <title>预测下一个像素还需要几年？谷歌：五年够了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-10</link>
+      <description>&lt;![CDATA[预测下一个像素还需要几年？谷歌：五年够了]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>突破视觉-语言-动作模型的瓶颈：QDepth-VLA让机器人拥有更精准的3D空间感知</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-26-9</link>
+      <description>&lt;![CDATA[突破视觉-语言-动作模型的瓶颈：QDepth-VLA让机器人拥有更精准的3D空间感知]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-26-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>中国汽车一哥加持，自动驾驶界「大疆」估值冲破百亿</title>
+      <link>https://www.qbitai.com/2025/11/356584.html</link>
+      <description>&lt;![CDATA[中国汽车一哥加持，自动驾驶界「大疆」估值冲破百亿]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 06:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356584.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ROCK &amp; ROLL！阿里给智能体造了个实战演练场 | 开源</title>
+      <link>https://www.qbitai.com/2025/11/356560.html</link>
+      <description>&lt;![CDATA[ROCK &amp; ROLL！阿里给智能体造了个实战演练场 | 开源]]&gt;</description>
+      <pubDate>Wed, 26 Nov 2025 06:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356560.html</guid>
       <category>AI</category>
     </item>
   </channel>
