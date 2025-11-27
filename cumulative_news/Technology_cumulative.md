@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-27 08:30
+**最后更新时间**: 2025-11-27 23:24
+
+---
+
+## 🆕 最新更新 (2025-11-27 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】国常会最新部署！鼓励促进全民阅读的新技术、新载体、新设施等开发应用；10倍大牛股紧急公告：风险巨大，今起停牌；中国AI开源模型下载量占比首超美国](https://www.tmtpost.com/7785605.html)
+**发布时间**: 2025-11-28 07:20
+
+#### [想留在牌桌上，大厂们必须要“卷”AI TO C | 马上评](https://www.tmtpost.com/7785860.html)
+**发布时间**: 2025-11-28 07:06
+
+#### [为了撕掉“网约车标签”，广汽埃安把“救命稻草”押在了增程上](https://www.tmtpost.com/7785898.html)
+**发布时间**: 2025-11-28 07:05
+
+#### [仰望的“后参数时代”：技术过剩能否转化为品牌护城河？](https://www.tmtpost.com/7785723.html)
+**发布时间**: 2025-11-27 23:07
+
+#### [价格再创新高，白银的上限在哪里？ | 巴伦精选](https://www.tmtpost.com/7785597.html)
+**发布时间**: 2025-11-27 21:25
+
+#### [Chinese Companies Pledge Tens of Millions After Deadly Hong Kong Fire Kills at Least 55](https://www.tmtpost.com/7785551.html)
+**发布时间**: 2025-11-27 21:08
+
+#### [从爆款到品牌，国货美妆的升维之战 ｜ 出海参考](https://www.tmtpost.com/7785248.html)
+**发布时间**: 2025-11-27 20:24
+
+#### [鼎通科技1.26亿“买入”视觉检测能力，并购条款深度绑定核心团队｜并购一线](https://www.tmtpost.com/7785353.html)
+**发布时间**: 2025-11-27 19:17
+
+#### [夸克AI眼镜杀到3999元，阿里生态能打破退货魔咒？](https://www.tmtpost.com/7785304.html)
+**发布时间**: 2025-11-27 19:13
+
+#### [谁杀死了长视频？](https://www.tmtpost.com/7785291.html)
+**发布时间**: 2025-11-27 19:13
+
+#### [清空贝壳股票，万科债务压力下的挣扎与选择](https://www.tmtpost.com/7785153.html)
+**发布时间**: 2025-11-27 19:13
+
+#### [扭盈为亏，李想重回“创业模式”迎战寒冬](https://www.tmtpost.com/7785289.html)
+**发布时间**: 2025-11-27 18:14
+
+#### [超200万台充电宝召回之后，2.1亿台充电宝将被淘汰？](https://www.tmtpost.com/7785078.html)
+**发布时间**: 2025-11-27 17:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [为什么 Snowflake AI 需要新的 FinOps 策略？ | 技术趋势](https://www.infoq.cn/article/74IjStkeliNOtEPPjpGF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 21:45
+
+#### [Apache Doris + AI 一站式融合数据引擎在字节跳动的探索与实践](https://www.infoq.cn/article/RT7hpXqWdpNRu0Hyu4vZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 17:55
+
+#### [夸克AI眼镜首发：搭载千问助手，支持0.6秒抓拍与4K视频输出](https://www.infoq.cn/article/4DyG4ImaslY0AHdZ2WZz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 17:21
+
+#### [小米狂吸机器人技术大牛，前特斯拉Optimus工程师也来了](https://www.infoq.cn/article/JbAUq2hBIHAL1XTe7KPm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 16:35
+
+#### [从游戏工厂到空间智能仿真：混元 3D 为何是腾讯 AI 的“侧翼突围”](https://www.infoq.cn/article/vMkbFAargbTSCpU4SMuf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 16:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [硅谷在追逐「永生」，他只想给你一个「AI 医生」](http://www.geekpark.net/news/357376)
+**发布时间**: 2025-11-27 17:09
+
+#### [听说你要做「硬件创业」？你真想明白了吗？](http://www.geekpark.net/news/357374)
+**发布时间**: 2025-11-27 17:06
+
+#### [深度复盘：从推荐算法、XR 到 AI，过去 12 年字节跳动的技术演进史](http://www.geekpark.net/news/357371)
+**发布时间**: 2025-11-27 16:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 228｜少数派的编辑们最近买了啥？](https://sspai.com/post/104139)
+**发布时间**: 2025-11-27 17:08
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 27 Nov 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2025 08:30:22 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 23:24:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025字节跳动奖学金公布：奖金翻倍至20万元，追加奖励导师10万元</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-8</link>
-      <description>&lt;![CDATA[2025字节跳动奖学金公布：奖金翻倍至20万元，追加奖励导师10万元]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-8</guid>
+      <title>DeepSeek强势回归，开源IMO金牌级数学模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-27-12</link>
+      <description>&lt;![CDATA[DeepSeek强势回归，开源IMO金牌级数学模型]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>上交大提出新注意力机制模型：利用文本描述设计蛋白质序列</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-7</link>
-      <description>&lt;![CDATA[上交大提出新注意力机制模型：利用文本描述设计蛋白质序列]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-7</guid>
+      <title>生成式AI赋能需求工程：一场正在发生的变革</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-27-11</link>
+      <description>&lt;![CDATA[生成式AI赋能需求工程：一场正在发生的变革]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 21:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>聚焦AI青年成长｜2025浦东国际人才港论坛·人工智能产业人才论坛报名启动</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-27-10</link>
+      <description>&lt;![CDATA[聚焦AI青年成长｜2025浦东国际人才港论坛·人工智能产业人才论坛报名启动]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>无问芯穹完成近5亿元A+轮融资，加码Agentic Infra基础设施建设，引领智能体产业变革</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-27-9</link>
+      <description>&lt;![CDATA[无问芯穹完成近5亿元A+轮融资，加码Agentic Infra基础设施建设，引领智能体产业变革]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>10000个代码文件，我打几把游戏的功夫就搞成Wiki了！</title>
+      <link>https://www.qbitai.com/2025/11/356992.html</link>
+      <description>&lt;![CDATA[10000个代码文件，我打几把游戏的功夫就搞成Wiki了！]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356992.html</guid>
       <category>AI</category>
     </item>
   </channel>
