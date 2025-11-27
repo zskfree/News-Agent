@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 26 Nov 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 23:21:02 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 05:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 05:24:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>赋能游戏回档极致体验：揭秘腾讯 MongoDB 按 Key 闪回技术| 腾讯云数据库 DBTalk</title>
-      <link>https://www.infoq.cn/video/JUlGJ2xUwqFw10f6iFVT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[赋能游戏回档极致体验：揭秘腾讯 MongoDB 按 Key 闪回技术| 腾讯云数据库 DBTalk]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 19:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/JUlGJ2xUwqFw10f6iFVT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：高通发布第五代骁龙 8 移动平台等</title>
+      <link>https://sspai.com/post/104119</link>
+      <description>&lt;![CDATA[派早报：高通发布第五代骁龙 8 移动平台等]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104119</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SRE 智能体在金融核心系统的落地实践：DeepFlow 智能体的设计与思考｜AICon北京</title>
-      <link>https://www.infoq.cn/article/UzcwdRCj18QJOy7tYiVP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[SRE 智能体在金融核心系统的落地实践：DeepFlow 智能体的设计与思考｜AICon北京]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UzcwdRCj18QJOy7tYiVP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AnyLanguageModel：苹果平台本地和云端LLM的统一API</title>
+      <link>https://www.infoq.cn/article/jy31Ald56YqvvabOfIQO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AnyLanguageModel：苹果平台本地和云端LLM的统一API]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jy31Ald56YqvvabOfIQO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅光芯片，热度飙升</title>
-      <link>https://www.tmtpost.com/7783580.html</link>
-      <description>&lt;![CDATA[硅光芯片，热度飙升]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783580.html</guid>
+      <title>新发布的面向令牌的对象表示法（TOON）有望通过减少令牌消耗来降低大型语言模型的成本</title>
+      <link>https://www.infoq.cn/article/lCH1VSgxC5f8Gvb07wgB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[新发布的面向令牌的对象表示法（TOON）有望通过减少令牌消耗来降低大型语言模型的成本]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lCH1VSgxC5f8Gvb07wgB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Oracle Stock Rallies Over 6% at Midday as Analysts Defend AI Spending Concerns</title>
-      <link>https://www.tmtpost.com/7783967.html</link>
-      <description>&lt;![CDATA[Oracle Stock Rallies Over 6% at Midday as Analysts Defend AI Spending Concerns]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 03:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783967.html</guid>
+      <title>Grafana Labs 发布 Mimir 3.0，推出全新架构以提升性能</title>
+      <link>https://www.infoq.cn/article/DjoXza2pPpXkyMmk2Aw9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Grafana Labs 发布 Mimir 3.0，推出全新架构以提升性能]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DjoXza2pPpXkyMmk2Aw9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三度出手揽入SK海力士“边缘”资产，普冉股份寻解赛道焦虑 ｜并购一线</title>
-      <link>https://www.tmtpost.com/7783760.html</link>
-      <description>&lt;![CDATA[三度出手揽入SK海力士“边缘”资产，普冉股份寻解赛道焦虑 ｜并购一线]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 21:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783760.html</guid>
+      <title>抛弃“级联”架构！快手OneRec用大模型重构推荐系统，服务成本降至1/10</title>
+      <link>https://www.infoq.cn/article/4O7KcKogofXH1LCm6EiR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[抛弃“级联”架构！快手OneRec用大模型重构推荐系统，服务成本降至1/10]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4O7KcKogofXH1LCm6EiR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>前特斯拉Optimus团队成员卢泽宇加入小米，任机器人灵巧手负责人 | 巴伦独家</title>
-      <link>https://www.tmtpost.com/7783765.html</link>
-      <description>&lt;![CDATA[前特斯拉Optimus团队成员卢泽宇加入小米，任机器人灵巧手负责人 | 巴伦独家]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783765.html</guid>
+      <title>亚马逊斥资数十亿美元抢占圣诞节商机，这看起来是个投资的机会</title>
+      <link>https://www.tmtpost.com/7784669.html</link>
+      <description>&lt;![CDATA[亚马逊斥资数十亿美元抢占圣诞节商机，这看起来是个投资的机会]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 12:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7784669.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>4倍溢价无对赌，宋城演艺9.63亿“买地”能破主业困局？</title>
-      <link>https://www.tmtpost.com/7783684.html</link>
-      <description>&lt;![CDATA[4倍溢价无对赌，宋城演艺9.63亿“买地”能破主业困局？]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 20:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783684.html</guid>
+      <title>Hong Kong Blaze Highlights Fire Hazards of Bamboo Scaffolding</title>
+      <link>https://www.tmtpost.com/7784660.html</link>
+      <description>&lt;![CDATA[Hong Kong Blaze Highlights Fire Hazards of Bamboo Scaffolding]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7784660.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美的、小米，正面必有一战</title>
-      <link>https://www.tmtpost.com/7783287.html</link>
-      <description>&lt;![CDATA[美的、小米，正面必有一战]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 19:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783287.html</guid>
+      <title>光伏组件价格，涨得起来吗？</title>
+      <link>https://www.tmtpost.com/7783782.html</link>
+      <description>&lt;![CDATA[光伏组件价格，涨得起来吗？]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 12:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7783782.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>闪极崩盘、大厂入局、退货率畸高：AI眼镜虚火过旺</title>
-      <link>https://www.tmtpost.com/7782475.html</link>
-      <description>&lt;![CDATA[闪极崩盘、大厂入局、退货率畸高：AI眼镜虚火过旺]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 19:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7782475.html</guid>
+      <title>蔚来决战Q4：李斌立下“盈利”军令状，没有Plan B</title>
+      <link>https://www.tmtpost.com/7784563.html</link>
+      <description>&lt;![CDATA[蔚来决战Q4：李斌立下“盈利”军令状，没有Plan B]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7784563.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>打了一个夏天的胜仗，但对淘宝闪购只是刚刚开始</title>
-      <link>https://www.tmtpost.com/7783318.html</link>
-      <description>&lt;![CDATA[打了一个夏天的胜仗，但对淘宝闪购只是刚刚开始]]&gt;</description>
-      <pubDate>Wed, 26 Nov 2025 19:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7783318.html</guid>
+      <title>Exclusive: Xiaomi Taps Tesla's Former Dexterous Hand Expert for Robotics Push</title>
+      <link>https://www.tmtpost.com/7784630.html</link>
+      <description>&lt;![CDATA[Exclusive: Xiaomi Taps Tesla's Former Dexterous Hand Expert for Robotics Push]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 12:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7784630.html</guid>
       <category>Technology</category>
     </item>
   </channel>
