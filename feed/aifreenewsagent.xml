@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 27 Nov 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2025 05:23:22 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 08:30:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Adam的稳+Muon的快？华为诺亚开源ROOT破解大模型训练「既要又要」的两难困境</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-6</link>
-      <description>&lt;![CDATA[Adam的稳+Muon的快？华为诺亚开源ROOT破解大模型训练「既要又要」的两难困境]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 13:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-6</guid>
+      <title>2025字节跳动奖学金公布：奖金翻倍至20万元，追加奖励导师10万元</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-27-8</link>
+      <description>&lt;![CDATA[2025字节跳动奖学金公布：奖金翻倍至20万元，追加奖励导师10万元]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>当推荐系统真正「懂你」：快手团队在NeurIPS 2025提出新成果TagCF</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-5</link>
-      <description>&lt;![CDATA[当推荐系统真正「懂你」：快手团队在NeurIPS 2025提出新成果TagCF]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>首个3D生成解构模型PartCrafter问世，GitHub狂揽2k星标</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-4</link>
-      <description>&lt;![CDATA[首个3D生成解构模型PartCrafter问世，GitHub狂揽2k星标]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeurIPS 2025奖项出炉，Qwen获最佳论文，Faster R-CNN获时间检验奖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-3</link>
-      <description>&lt;![CDATA[NeurIPS 2025奖项出炉，Qwen获最佳论文，Faster R-CNN获时间检验奖]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-3</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>通用脑机接口时代要来了？跨尺度脑基础模型CSBrain真正读懂脑信号</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27-2</link>
-      <description>&lt;![CDATA[通用脑机接口时代要来了？跨尺度脑基础模型CSBrain真正读懂脑信号]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-2</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>2026五大科技趋势，这是亚马逊CTO Werner Vogels给出的预测</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-27</link>
-      <description>&lt;![CDATA[2026五大科技趋势，这是亚马逊CTO Werner Vogels给出的预测]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeurIPS 2025放榜：阿里Qwen门控注意力获最佳论文，何恺明Faster R-CNN获时间检验奖</title>
-      <link>https://www.qbitai.com/2025/11/356820.html</link>
-      <description>&lt;![CDATA[NeurIPS 2025放榜：阿里Qwen门控注意力获最佳论文，何恺明Faster R-CNN获时间检验奖]]&gt;</description>
-      <pubDate>Thu, 27 Nov 2025 03:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/356820.html</guid>
+      <title>上交大提出新注意力机制模型：利用文本描述设计蛋白质序列</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-27-7</link>
+      <description>&lt;![CDATA[上交大提出新注意力机制模型：利用文本描述设计蛋白质序列]]&gt;</description>
+      <pubDate>Thu, 27 Nov 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-27-7</guid>
       <category>AI</category>
     </item>
   </channel>
