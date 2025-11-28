@@ -158,3 +158,27 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Project-specific
+# Legacy directories (migrated to new structure)
+src/
+RSS feed URL/
+feed/
+cumulative_news/
+legacy_scripts/
+
+# Data files (keep in data/ directory)
+rss_history.json
+
+# Log files
+*.log
+logs/*.log
+
+# Output directories content (keep structure)
+outputs/feed/*.xml
+outputs/cumulative_news/*.md
+!outputs/feed/.gitkeep
+!outputs/cumulative_news/.gitkeep
+
+# News directory (generated content)
+news/

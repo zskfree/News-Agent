@@ -69,17 +69,21 @@ jobs:
       run: |
         echo "=== 调试信息 ==="
         echo "工作目录: $(pwd)"
-        echo "目录内容:"
+        echo "目录结构:"
         ls -la
+        echo "核心目录:"
+        ls -d news_agent/ scripts/ config/ data/ outputs/ 2>/dev/null || echo "部分目录不存在"
         echo "Python版本: $(python --version)"
         echo "当前时间:"
         echo "UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S')"
         echo "北京时间: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
-        if [ -f "RSS feed URL/rss_feed_url.json" ]; then
-          echo "✅ RSS配置文件存在"
+        if [ -f "config/rss_feed_urls.json" ]; then
+          echo "✅ RSS配置文件存在 (config/rss_feed_urls.json)"
         else
           echo "❌ RSS配置文件不存在"
         fi
+        echo "Python包结构:"
+        ls -la news_agent/ 2>/dev/null || echo "news_agent包不存在"
     
     - name: Show trigger info
       run: |
@@ -88,35 +92,88 @@ jobs:
         echo "触发方式: ${{ github.event_name }}"
         echo "✅ 开始执行更新任务"
     
-    - name: Run update
+    - name: Run update (using new structure)
       env:
         MAX_ARTICLES: ${{ github.event.inputs.max_articles || '100000' }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-        echo "开始新闻更新..."
+        echo "=== 开始新闻更新 (使用新结构) ==="
         echo "北京时间: $BEIJING_TIME"
         echo "最大文章数: $MAX_ARTICLES"
         echo "触发方式: ${{ github.event_name }}"
-        python daily_update.py
+        echo ""
+        
+        # 验证新结构
+        echo "📂 验证项目结构..."
+        [ -d "news_agent" ] && echo "✅ news_agent/ 包存在" || echo "❌ news_agent/ 不存在"
+        [ -d "scripts" ] && echo "✅ scripts/ 目录存在" || echo "❌ scripts/ 不存在"
+        [ -d "config" ] && echo "✅ config/ 目录存在" || echo "❌ config/ 不存在"
+        [ -d "data" ] && echo "✅ data/ 目录存在" || echo "❌ data/ 不存在"
+        [ -d "outputs" ] && echo "✅ outputs/ 目录存在" || echo "❌ outputs/ 不存在"
+        echo ""
+        
+        # 步骤1: 生成累积新闻
+        echo "📰 步骤 1/2: 生成累积新闻..."
+        python scripts/build_cumulative_news.py --max-articles ${MAX_ARTICLES}
+        echo ""
+        
+        # 步骤2: 生成RSS Feed
+        echo "📡 步骤 2/2: 生成RSS Feed..."
+        python scripts/build_cumulative_feed.py
+        echo ""
+        
+        echo "✅ 新闻更新完成！"
     
-    - name: Verify generated files
+    - name: Verify generated files (new structure)
       run: |
-        echo "=== 检查生成的文件 ==="
-        echo "根目录文件:"
+        echo "=== 检查生成的文件 (新结构) ==="
+        echo ""
+        echo "📄 根目录文件:"
         ls -la *.html 2>/dev/null || echo "没有HTML文件"
-        echo "feed目录:"
-        ls -la feed/ 2>/dev/null || echo "feed目录不存在"
-        echo "cumulative_news目录:"
-        ls -la cumulative_news/ 2>/dev/null || echo "cumulative_news目录不存在"
+        echo ""
+        
+        echo "📡 RSS Feed 目录 (outputs/feed/):"
+        if [ -d "outputs/feed" ]; then
+          ls -lh outputs/feed/*.xml 2>/dev/null || echo "没有XML文件"
+          RSS_COUNT=$(ls outputs/feed/*.xml 2>/dev/null | wc -l)
+          echo "RSS文件数量: $RSS_COUNT"
+        else
+          echo "❌ outputs/feed/ 目录不存在"
+        fi
+        echo ""
+        
+        echo "📰 累积新闻目录 (outputs/cumulative_news/):"
+        if [ -d "outputs/cumulative_news" ]; then
+          ls -lh outputs/cumulative_news/*.md 2>/dev/null | head -5 || echo "没有Markdown文件"
+          MD_COUNT=$(ls outputs/cumulative_news/*.md 2>/dev/null | wc -l)
+          echo "Markdown文件数量: $MD_COUNT"
+        else
+          echo "❌ outputs/cumulative_news/ 目录不存在"
+        fi
+        echo ""
+        
+        echo "📊 数据目录 (data/):"
+        if [ -f "data/rss_history.json" ]; then
+          SIZE=$(stat -c%s data/rss_history.json 2>/dev/null || stat -f%z data/rss_history.json 2>/dev/null)
+          echo "✅ rss_history.json 存在 (${SIZE} bytes)"
+        else
+          echo "⚠️  rss_history.json 不存在 (首次运行正常)"
+        fi
+        echo ""
         
         # 验证index.html是否存在且有内容
         if [ -f "index.html" ]; then
           echo "✅ index.html 存在"
-          echo "文件大小: $(stat -c%s index.html 2>/dev/null || stat -f%z index.html 2>/dev/null) bytes"
+          SIZE=$(stat -c%s index.html 2>/dev/null || stat -f%z index.html 2>/dev/null)
+          echo "   文件大小: ${SIZE} bytes"
         else
           echo "❌ index.html 不存在"
           exit 1
         fi
+        
+        echo ""
+        echo "✅ 文件验证完成！"
     
     - name: Check for changes
       id: verify-changed-files
@@ -167,16 +224,44 @@ jobs:
           echo "- **Pages URL**: ${{ steps.deployment.outputs.page_url }}" >> $GITHUB_STEP_SUMMARY
         fi
         
-        echo "- **执行状态**: ✅ 已执行更新" >> $GITHUB_STEP_SUMMARY
+        echo "- **执行状态**: ✅ 已执行更新 (新项目结构)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📂 生成文件统计" >> $GITHUB_STEP_SUMMARY
         
-        if [ -d "feed" ]; then
-          echo "- **RSS文件**:" >> $GITHUB_STEP_SUMMARY
-          for file in feed/*.xml; do
+        # RSS Feed 统计
+        if [ -d "outputs/feed" ]; then
+          rss_count=$(ls outputs/feed/*.xml 2>/dev/null | wc -l)
+          echo "- **RSS源** (outputs/feed/): $rss_count 个" >> $GITHUB_STEP_SUMMARY
+          for file in outputs/feed/*.xml; do
             if [ -f "$file" ]; then
               size=$(stat -c%s "$file" 2>/dev/null || stat -f%z "$file" 2>/dev/null || echo "unknown")
-              echo "  - $(basename "$file"): ${size} bytes" >> $GITHUB_STEP_SUMMARY
+              size_kb=$((size / 1024))
+              echo "  - \`$(basename "$file")\`: ${size_kb}KB" >> $GITHUB_STEP_SUMMARY
             fi
           done
+        else
+          echo "- **RSS源**: ⚠️ outputs/feed/ 目录不存在" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        # 累积新闻统计
+        if [ -d "outputs/cumulative_news" ]; then
+          news_count=$(ls outputs/cumulative_news/*.md 2>/dev/null | wc -l)
+          echo "- **累积新闻** (outputs/cumulative_news/): $news_count 个" >> $GITHUB_STEP_SUMMARY
+          latest_news=$(ls -t outputs/cumulative_news/cumulative_summary_*.md 2>/dev/null | head -1)
+          if [ -n "$latest_news" ]; then
+            echo "  - 最新: \`$(basename "$latest_news")\`" >> $GITHUB_STEP_SUMMARY
+          fi
+        else
+          echo "- **累积新闻**: ⚠️ outputs/cumulative_news/ 目录不存在" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        # 历史数据统计
+        if [ -f "data/rss_history.json" ]; then
+          history_size=$(stat -c%s data/rss_history.json 2>/dev/null || stat -f%z data/rss_history.json 2>/dev/null || echo "0")
+          history_kb=$((history_size / 1024))
+          echo "- **历史数据** (data/rss_history.json): ${history_kb}KB" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "- **历史数据**: ⚠️ data/rss_history.json 不存在" >> $GITHUB_STEP_SUMMARY
         fi
     
     - name: Upload logs on failure
