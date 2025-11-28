@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 10:01
+**最后更新时间**: 2025-11-28 23:24
+
+---
+
+## 🆕 最新更新 (2025-11-28 23:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Airline travellers face disruption after Airbus warns A320 jets need software fix](https://www.ft.com/content/b730b275-1ec3-496d-9e19-b660621f5701)
+**发布时间**: 2025-11-28 23:05
+
+#### [Zelenskyy loses brother-in-arms in Kyiv power shift](https://www.ft.com/content/56f7d3c0-7704-431b-8e4a-e332802afb9e)
+**发布时间**: 2025-11-28 19:53
+
+#### [Reeves accused of exaggerating gloom to pave way for tax-raising Budget](https://www.ft.com/content/2e06f4ec-a690-4dec-84d1-47b7d0d888af)
+**发布时间**: 2025-11-28 19:08
+
+#### [How London’s housing market stagnated](https://www.ft.com/content/18227e7c-402e-4222-8829-ca6b04423fd0)
+**发布时间**: 2025-11-28 19:02
+
+#### [The MD moment in an investment banking career](https://www.ft.com/content/e8eb966d-992e-4704-9bfb-bed0029e4650)
+**发布时间**: 2025-11-28 18:00
+
+#### [Labour will not tax state pension for those with no other earnings](https://www.ft.com/content/7bfc959a-39e2-43f4-9505-3f661da39c4f)
+**发布时间**: 2025-11-28 17:49
+
+#### [Top Zelenskyy aide quits amid corruption probe](https://www.ft.com/content/001a05d9-3ce4-4c15-903e-fbc4894085f2)
+**发布时间**: 2025-11-28 17:14
+
+#### [Labour has trapped the British economy in a web of ‘doublespeak’](https://www.ft.com/content/cea965e8-e64b-4fcd-b3c3-abde28218bc2)
+**发布时间**: 2025-11-28 14:40
+
+#### [Asda turnaround derailed by bungled £1bn IT overhaul](https://www.ft.com/content/036df634-a230-4c99-8cd5-03bb27e1da57)
+**发布时间**: 2025-11-28 14:30
+
+#### [‘Mansion tax’ valuation appeals will flood government agency, experts warn](https://www.ft.com/content/7592bd0d-3d5e-411e-87df-1deec12aa0e3)
+**发布时间**: 2025-11-28 13:01
+
+#### [Homeowners rush to price properties just under ‘mansion tax’ thresholds](https://www.ft.com/content/669b171d-a0b4-44d2-9021-52c7e02ac9cd)
+**发布时间**: 2025-11-28 12:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Airbus recalls ‘significant number’ of planes. How airlines say it will affect holiday travel.](https://www.marketwatch.com/story/airbus-says-some-jets-face-issues-stemming-from-intense-solar-radiation-u-s-airlines-say-it-wont-be-a-huge-flight-disruption-ce306cfa?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 22:56
+
+#### [Stocks stage big comeback in best Thanksgiving week since 2008. What comes next?](https://www.marketwatch.com/story/stocks-stage-big-comeback-in-best-thanksgiving-week-since-2008-what-comes-next-a18a6bdf?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 22:27
+
+#### [‘My retirement is completely in bitcoin’: Why don’t more people do what I do?](https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 20:30
+
+#### [‘We’re struggling’: I’m 41 with 5 kids and $46K in credit-card debt. Do I raid my $1.2 million IRAs to pay it off?](https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 19:57
+
+#### [Is Big Tech back? Meta’s and Microsoft’s stocks score largest weekly gains since May.](https://www.marketwatch.com/story/is-big-tech-back-metas-and-microsofts-stocks-score-largest-weekly-gains-since-may-d5ee370a?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 18:16
+
+#### [Newly released facts from Social Security demolish Elon Musk’s fraud claims — again](https://www.marketwatch.com/story/the-facts-from-social-security-dump-on-elon-musks-fraud-claims-yet-again-10399461?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 17:33
+
+#### [‘At 55, I am the only single one in the family’: Was I wrong to skip Thanksgiving dinner?](https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 17:07
+
+#### [Big retailers like Walmart, Best Buy project confidence this holiday shopping season, while smaller businesses scramble](https://www.marketwatch.com/story/big-retailers-project-calm-and-confidence-this-holiday-season-while-smaller-businesses-scramble-0d146dec?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 16:54
 
 ---
 

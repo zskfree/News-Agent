@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 10:01
+**最后更新时间**: 2025-11-28 23:24
+
+---
+
+## 🆕 最新更新 (2025-11-28 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Intel Stock Soars 10% after Reliable Analyst Sees Delivery of Apple's Mac Chips in 2027](https://www.tmtpost.com/7787730.html)
+**发布时间**: 2025-11-29 03:36
+
+#### [“智驾普及元年”年终大考：奇瑞猎鹰智驾的承诺兑现了吗？](https://www.tmtpost.com/7787141.html)
+**发布时间**: 2025-11-28 21:57
+
+#### [奕东电子6120万并购深圳冠鼎，业绩承压下加码液冷业务｜并购一线](https://www.tmtpost.com/7787403.html)
+**发布时间**: 2025-11-28 21:40
+
+#### [高溢价“亲情并购”未设减值承诺，元力股份七度并购再谋突围｜并购一线](https://www.tmtpost.com/7787434.html)
+**发布时间**: 2025-11-28 21:39
+
+#### [NIKE旗下户外子品牌ACG首家独立门店将落地北京；On昂跑推出「声音陪跑」播客；WOOLRICH首度亮相中国｜消研所周报](https://www.tmtpost.com/7787104.html)
+**发布时间**: 2025-11-28 19:30
+
+#### [“最牛风投”接盘辰安科技：一个城市安全龙头的自救与再造](https://www.tmtpost.com/7787238.html)
+**发布时间**: 2025-11-28 19:10
+
+#### [国产都市剧，为什么很少见“大男主”？](https://www.tmtpost.com/7785612.html)
+**发布时间**: 2025-11-28 19:07
+
+#### [争夺下一个“超级入口”，阿里和字节必有一战](https://www.tmtpost.com/7785671.html)
+**发布时间**: 2025-11-28 19:07
+
+#### [景区NPC抓住流量密码](https://www.tmtpost.com/7785997.html)
+**发布时间**: 2025-11-28 19:07
+
+#### [抢占AI入口，阿里无法回避与字节的全面战争](https://www.tmtpost.com/7787166.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [AI如何改写就业规则？](https://www.tmtpost.com/7786041.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [万科债券展期，房地产市场何去何从](https://www.tmtpost.com/7787013.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [小天才，也许是段永平最好的生意](https://www.tmtpost.com/7786936.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [背靠腾讯、招银国际，硅基智能带8万数字人冲刺“数字人第一股”](https://www.tmtpost.com/7787083.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [成都5亿元国资合资企业落地，国资产区平台成白酒第三极，与巨头共舞？|行业风向标](https://www.tmtpost.com/7787114.html)
+**发布时间**: 2025-11-28 18:16
+
+#### [资本不再“护盘”，而是开始“伏击”银行股](https://www.tmtpost.com/7787126.html)
+**发布时间**: 2025-11-28 17:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [捐赠自研OS内核背后：Rust 先行者 vivo 的「担当」](http://www.geekpark.net/news/357444)
+**发布时间**: 2025-11-28 20:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [用先进算力，为AGI加速：华为千行百业AI赋能转型论坛在太原圆满落幕](https://www.infoq.cn/article/JHxNQYxspCLeSRgA2hFI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 19:00
+
+#### [算力筑基・生态聚力 华为云 AI 峰会杭州站引领浙企智能跃迁](https://www.infoq.cn/article/IHu0oNgApVSdFiXBlZpA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 19:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/104156)
+**发布时间**: 2025-11-28 18:08
 
 ---
 
