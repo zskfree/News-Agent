@@ -22,16 +22,16 @@ def get_category_follow_challenge(category: str) -> Optional[Dict]:
     """
     follow_challenges = {
         'ai': {
-            'feedId': '150782771375663104',
-            'userId': 'DdasOQb1gouc5RwqkaQc4KLscHJhfeeW'
+            'feedId': '217164540264016896',
+            'userId': '150738471966655488'
         },
         'technology': {
-            'feedId': '150782874584542208',
-            'userId': 'DdasOQb1gouc5RwqkaQc4KLscHJhfeeW'
+            'feedId': '217164540264016896',
+            'userId': '150738471966655488'
         },
         'finance': {
-            'feedId': '150806458867930112',
-            'userId': 'DdasOQb1gouc5RwqkaQc4KLscHJhfeeW'
+            'feedId': '217164540264016896',
+            'userId': '150738471966655488'
         }
     }
     
