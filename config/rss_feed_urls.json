@@ -42,17 +42,18 @@
         "rss": "https://research.google/blog/rss/"
     },
     {
-        "name": "新浪财经 - 股票频道",
+        "name": "MarketWatch - Markets",
         "category": "Finance",
-        "language": "zh",
-        "rss": "https://feed.mix.sina.com.cn/api/roll/get?pageid=155&lid=1686&num=10"
+        "language": "en",
+        "rss": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
     },
     {
-        "name": "InfoQ 中文站",
-        "category": "Technology",
-        "language": "zh",
-        "rss": "https://www.infoq.cn/feed"
+        "name": "Financial Times",
+        "category": "Finance",
+        "language": "en",
+        "rss": "https://www.ft.com/?format=rss"
     },
+
     {
         "name": "少数派科技资讯",
         "category": "Technology",
