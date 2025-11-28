@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-27 23:24
+**最后更新时间**: 2025-11-28 05:21
+
+---
+
+## 🆕 最新更新 (2025-11-28 05:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [杭州AI开源生态大会 · 模力工场参展和论坛全回顾](https://www.infoq.cn/article/b24366dszM7320L7XIXN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 12:09
+
+#### [8 年数字化积淀，星巴克中国技术团队开始用 Agentic AI 改变零售](https://www.infoq.cn/article/UBt5Xuv58Y4W8xx2KVQx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 12:00
+
+#### [微软 Copilot 秋季更新：协作与个性化双升级](https://www.infoq.cn/article/ibQlPZGNgv23REBRkDO4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 11:00
+
+#### [Sauce Labs推出可加速测试分析的AI工具](https://www.infoq.cn/article/0KdoPtS8816TKL0T5gTi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 10:48
+
+#### [Agent 技术演进与落地：从工具到伙伴的生产力变革｜AICon北京](https://www.infoq.cn/article/2g5EcDpE8Eurev9FzQDF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 10:17
+
+#### [谷歌发布Angular 21：Signal Forms、Zoneless迁移和AI优先工具](https://www.infoq.cn/article/zstGEWjbl3Gm4p86QtOA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从实验室到梳妆台，功效护肤鼻祖倩碧难挽回中国中产心？](https://www.tmtpost.com/7785453.html)
+**发布时间**: 2025-11-28 11:58
+
+#### [千问和夸克，互补还是互搏？](https://www.tmtpost.com/7785461.html)
+**发布时间**: 2025-11-28 11:32
+
+#### [Li Auto Warns of Steep Delivery Drop as Profit Turns to Loss, Founder Pledges Return to Startup Roots](https://www.tmtpost.com/7786316.html)
+**发布时间**: 2025-11-28 11:12
+
+#### [AI社交平台Soul再战港交所，“沉浸式情绪经济”故事好讲吗？](https://www.tmtpost.com/7786157.html)
+**发布时间**: 2025-11-28 10:52
+
+#### [《疯狂动物城》如何成为迪士尼在中国最具国民感的IP](https://www.tmtpost.com/7785766.html)
+**发布时间**: 2025-11-28 10:40
+
+#### [再去美国上市，瑞幸还能讲什么故事？](https://www.tmtpost.com/7785491.html)
+**发布时间**: 2025-11-28 10:00
+
+#### [“烂脸”的年轻人，买爆药妆](https://www.tmtpost.com/7785649.html)
+**发布时间**: 2025-11-28 09:20
+
+#### [“提振需求”替代“低价去库存”，淘宝闪购不休战](https://www.tmtpost.com/7785376.html)
+**发布时间**: 2025-11-28 09:00
+
+#### [碳纤维逆袭下半场：三大万亿赛道诱惑与结构性泡沫 |产业深度](https://www.tmtpost.com/7785882.html)
+**发布时间**: 2025-11-28 08:49
+
+#### [阿里AI“三部曲”：夸克、千问、灵光谁能撬动C端未来？](https://www.tmtpost.com/7785378.html)
+**发布时间**: 2025-11-28 08:40
+
+#### [超级新股再现：英伟达第二还是中石油第二](https://www.tmtpost.com/7785611.html)
+**发布时间**: 2025-11-28 08:00
+
+#### [华为云组织重大调整：张平安任董事长，周跃峰任CEO](https://www.tmtpost.com/7785771.html)
+**发布时间**: 2025-11-28 07:29
+
+#### [为了撕掉“网约车标签”，广汽埃安押注“国民增程”](https://www.tmtpost.com/7785898.html)
+**发布时间**: 2025-11-28 07:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [上班最长通勤 4 个半小时，7 年北漂通勤记录分享](https://sspai.com/post/103475)
+**发布时间**: 2025-11-28 11:31
+
+#### [派早报：曜越推出 TPM-O49CDQ 显示器、阿里发布两款智能眼镜](https://sspai.com/post/104145)
+**发布时间**: 2025-11-28 08:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [宗馥莉卸任娃哈哈集团公司董事长；小米、OV 等手机厂商取消 AIR 机型；Deepseek 推出新数学模型](http://www.geekpark.net/news/357384)
+**发布时间**: 2025-11-28 09:38
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [华为手机没信号、没网络，它凭什么还能让手机互相通话、发信息？](http://www.huxiu.com/article/4810240.html?f=wangzhan)
+**发布时间**: 2025-11-28 08:30
+
+#### [“酸奶界爱马仕”悄悄降价，现制酸奶陷集体困局？](http://www.huxiu.com/article/4810541.html?f=wangzhan)
+**发布时间**: 2025-11-28 07:00
+
+#### [明星们的火锅生意，终于干不下去了](http://www.huxiu.com/article/4810572.html?f=wangzhan)
+**发布时间**: 2025-11-27 18:30
+
+#### [干架的不着急，劝架的反而急了，为何美国要逼乌签协议？](http://www.huxiu.com/article/4809267.html?f=wangzhan)
+**发布时间**: 2025-11-27 16:30
+
+#### [杭州网红大撤退，昔日“直播之都”再难撑起造富梦](http://www.huxiu.com/article/4809990.html?f=wangzhan)
+**发布时间**: 2025-11-27 15:50
 
 ---
 
