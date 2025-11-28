@@ -22,7 +22,7 @@ def get_category_follow_challenge(category: str) -> Optional[Dict]:
     """
     follow_challenges = {
         'ai': {
-            'feedId': '217164540264016896',
+            'feedId': '217166864192638976',
             'userId': '150738471966655488'
         },
         'technology': {
@@ -30,7 +30,7 @@ def get_category_follow_challenge(category: str) -> Optional[Dict]:
             'userId': '150738471966655488'
         },
         'finance': {
-            'feedId': '217164540264016896',
+            'feedId': '217167357570321408',
             'userId': '150738471966655488'
         }
     }
