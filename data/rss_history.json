@@ -12950,6 +12950,66 @@
         "link": "https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 28 Nov 2025 17:00:00 GMT",
         "first_seen": "2025-11-28T09:18:30.670677"
+      },
+      "c0f38b255041f392b03275899ee1447cd64370a12316093b2d7d540e697b8979": {
+        "title": "DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过",
+        "link": "https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 13:53:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755824"
+      },
+      "801f6badba11b607cc01f392cc811e87e922573796ffcb42cae850276f2da5ef": {
+        "title": "从代码补全到真实软件的生产级工具：Qoder 如何改写 AI 编程规则",
+        "link": "http://www.geekpark.net/news/357437",
+        "published_date": "Fri, 28 Nov 2025 17:25:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755831"
+      },
+      "04c88e3a039d46b2b0ec3928e6dcac17aac49cb5d09dd277fe0842530f1a3c1d": {
+        "title": "官宣：Oracle 数据库与 Snowflake AI 数据云扩展集成 | 技术趋势",
+        "link": "https://www.infoq.cn/article/ClbVvAS3hDRW8R8xYOU3?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 14:15:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755833"
+      },
+      "05afbca99c417dfb0001dbbc29ac383c4cfd435d97374993167f299126372952": {
+        "title": "Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量",
+        "link": "https://www.infoq.cn/article/NU2msEACYwYBB5y1mIhf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 14:10:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755835"
+      },
+      "e7c824e3aceb300f4ae0f740bccf160b3e9f8167a5e82a154a93158830e1856e": {
+        "title": "谷歌代理开发工具包新增Go语言支持",
+        "link": "https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 14:03:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755837"
+      },
+      "ba3af5e5e0aff20f323b5543f82e0be2cbcba0a4af3f797d2f5197fdca1ea51b": {
+        "title": "不止于造车：小鹏正在重构其估值逻辑",
+        "link": "https://www.tmtpost.com/7786532.html",
+        "published_date": "Fri, 28 Nov 2025 13:12:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755839"
+      },
+      "be6f3f4f70f49e2fc5234c9a71145345e0e78ea3a03f3b06a52fb807e5549989": {
+        "title": "Li Auto Warns of Steep Delivery Drop as Profit Turns to Loss, Founder Pledges Return to Startup Roots",
+        "link": "https://www.tmtpost.com/7786316.html",
+        "published_date": "Fri, 28 Nov 2025 11:12:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755841"
+      },
+      "d66ff322d12d6d4d1bfbf844d56d4e8cf0106cdd805dad26b82a2b19a4547f8a": {
+        "title": "夸克给千问塑肉身",
+        "link": "https://www.tmtpost.com/7785627.html",
+        "published_date": "Fri, 28 Nov 2025 14:44:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755843"
+      },
+      "c05a1a69552315e6163d00726cbd4de059aa9c158e4e4d24122f0e64f856d884": {
+        "title": "千问和夸克，互补还是互搏？",
+        "link": "https://www.tmtpost.com/7785461.html",
+        "published_date": "Fri, 28 Nov 2025 11:32:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755844"
+      },
+      "42a255795a2c37ed18ace487d51ddc344ecb04b141d8cf8dbc1d7b62a0a8edaf": {
+        "title": "拼多多的千亿投入，能否重塑电商竞争逻辑？",
+        "link": "https://www.infoq.cn/article/cLB7wWV5gYPhbQUoxJka?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 14:15:00 GMT",
+        "first_seen": "2025-11-28T09:28:54.755846"
       }
     },
     "Finance": {
@@ -13044,13 +13104,49 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Fri, 28 Nov 2025 09:18:00 GMT",
         "first_seen": "2025-11-28T09:18:30.617028"
+      },
+      "9b1a0ee4a568c5cdbceab606075c035afef0cd83cb83fe3e736a334f3a173053": {
+        "title": "AAAI 2026 | 电子科技大学提出OWL，基于双路径注意力干预的多模态大模型物体幻觉缓解",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-28-8",
+        "published_date": "Fri, 28 Nov 2025 17:25:00 GMT",
+        "first_seen": "2025-11-28T09:28:33.288126"
+      },
+      "928418923153491470ee2468533d4a55f965e57e0aabeb3e611b40ed10628fa5": {
+        "title": "HUAWEI Mate 80系列发布：以巅峰科技树立高端旗舰新标杆",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-28-7",
+        "published_date": "Fri, 28 Nov 2025 15:47:00 GMT",
+        "first_seen": "2025-11-28T09:28:33.288135"
+      },
+      "f123e61b0b515fbee62b86e465f4d81e0e9e4e3d3600a6dd18a3bc8afdb4eece": {
+        "title": "华为放出「准万亿级MoE推理」大招，两大杀手级优化技术直接开源",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-28-6",
+        "published_date": "Fri, 28 Nov 2025 15:32:00 GMT",
+        "first_seen": "2025-11-28T09:28:33.288137"
+      },
+      "77985378565340aef4bbe835a38c265dd01a81a67a6060af421c66f4f3ba3d79": {
+        "title": "亚马逊研究奖获奖名单出炉：王晋东等26位华人入选",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-28-5",
+        "published_date": "Fri, 28 Nov 2025 15:02:00 GMT",
+        "first_seen": "2025-11-28T09:28:33.288139"
+      },
+      "bd96b305e991342306c54f805e23497d732b445c1773a05aa942880dfe26a868": {
+        "title": "Nature | ApdativeNN：建模类人自适应感知机制，突破机器视觉「不可能三角」",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-28-4",
+        "published_date": "Fri, 28 Nov 2025 14:55:00 GMT",
+        "first_seen": "2025-11-28T09:28:33.288140"
+      },
+      "ee7f4b5136c97e3370d76df959575b0a102d5672f95eb1190b808f65135de281": {
+        "title": "IEEE TMI 2025 | AI自建学习大纲的多实例多标签医学图像分析新框架",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-28-3",
+        "published_date": "Fri, 28 Nov 2025 14:25:00 GMT",
+        "first_seen": "2025-11-28T09:28:33.288141"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-11-28T09:18:30.670679",
+    "Technology": "2025-11-28T09:28:54.755849",
     "Finance": "2025-11-28T16:59:11.452741",
-    "Ai": "2025-11-28T09:18:30.617037"
+    "Ai": "2025-11-28T09:28:33.288143"
   }
 }

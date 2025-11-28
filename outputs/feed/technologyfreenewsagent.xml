@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 09:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 09:18:30 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 09:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 09:28:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>漫剧与短剧终有一战？</title>
-      <link>https://www.tmtpost.com/7786651.html</link>
-      <description>&lt;![CDATA[漫剧与短剧终有一战？]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7786651.html</guid>
+      <title>DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过</title>
+      <link>https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径</title>
-      <link>https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 17:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从代码补全到真实软件的生产级工具：Qoder 如何改写 AI 编程规则</title>
+      <link>http://www.geekpark.net/news/357437</link>
+      <description>&lt;![CDATA[从代码补全到真实软件的生产级工具：Qoder 如何改写 AI 编程规则]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357437</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势</title>
-      <link>https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>官宣：Oracle 数据库与 Snowflake AI 数据云扩展集成 | 技术趋势</title>
+      <link>https://www.infoq.cn/article/ClbVvAS3hDRW8R8xYOU3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[官宣：Oracle 数据库与 Snowflake AI 数据云扩展集成 | 技术趋势]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ClbVvAS3hDRW8R8xYOU3?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量</title>
+      <link>https://www.infoq.cn/article/NU2msEACYwYBB5y1mIhf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NU2msEACYwYBB5y1mIhf?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌代理开发工具包新增Go语言支持</title>
+      <link>https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌代理开发工具包新增Go语言支持]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不止于造车：小鹏正在重构其估值逻辑</title>
+      <link>https://www.tmtpost.com/7786532.html</link>
+      <description>&lt;![CDATA[不止于造车：小鹏正在重构其估值逻辑]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786532.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Li Auto Warns of Steep Delivery Drop as Profit Turns to Loss, Founder Pledges Return to Startup Roots</title>
+      <link>https://www.tmtpost.com/7786316.html</link>
+      <description>&lt;![CDATA[Li Auto Warns of Steep Delivery Drop as Profit Turns to Loss, Founder Pledges Return to Startup Roots]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786316.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>夸克给千问塑肉身</title>
+      <link>https://www.tmtpost.com/7785627.html</link>
+      <description>&lt;![CDATA[夸克给千问塑肉身]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7785627.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>千问和夸克，互补还是互搏？</title>
+      <link>https://www.tmtpost.com/7785461.html</link>
+      <description>&lt;![CDATA[千问和夸克，互补还是互搏？]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7785461.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>拼多多的千亿投入，能否重塑电商竞争逻辑？</title>
+      <link>https://www.infoq.cn/article/cLB7wWV5gYPhbQUoxJka?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[拼多多的千亿投入，能否重塑电商竞争逻辑？]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cLB7wWV5gYPhbQUoxJka?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
