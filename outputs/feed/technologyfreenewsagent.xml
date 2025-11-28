@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 09:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 09:28:54 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 10:01:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 10:02:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过</title>
-      <link>https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI时代的微软和服务商生态：交易链条延长，从卖产品到卖服务</title>
+      <link>https://www.tmtpost.com/7787012.html</link>
+      <description>&lt;![CDATA[AI时代的微软和服务商生态：交易链条延长，从卖产品到卖服务]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787012.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从代码补全到真实软件的生产级工具：Qoder 如何改写 AI 编程规则</title>
-      <link>http://www.geekpark.net/news/357437</link>
-      <description>&lt;![CDATA[从代码补全到真实软件的生产级工具：Qoder 如何改写 AI 编程规则]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357437</guid>
+      <title>欣战江：低研发却有高毛利，产能闲置仍募资扩｜IPO观察</title>
+      <link>https://www.tmtpost.com/7783000.html</link>
+      <description>&lt;![CDATA[欣战江：低研发却有高毛利，产能闲置仍募资扩｜IPO观察]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7783000.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>官宣：Oracle 数据库与 Snowflake AI 数据云扩展集成 | 技术趋势</title>
-      <link>https://www.infoq.cn/article/ClbVvAS3hDRW8R8xYOU3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[官宣：Oracle 数据库与 Snowflake AI 数据云扩展集成 | 技术趋势]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ClbVvAS3hDRW8R8xYOU3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>恒道科技：高毛利叠加5成逾期账款，宽松信用政策引监管问询｜IPO观察</title>
+      <link>https://www.tmtpost.com/7784606.html</link>
+      <description>&lt;![CDATA[恒道科技：高毛利叠加5成逾期账款，宽松信用政策引监管问询｜IPO观察]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7784606.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量</title>
-      <link>https://www.infoq.cn/article/NU2msEACYwYBB5y1mIhf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NU2msEACYwYBB5y1mIhf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>杭州网红大撤退：谁劝退了“草根网红”？</title>
+      <link>https://www.tmtpost.com/7786644.html</link>
+      <description>&lt;![CDATA[杭州网红大撤退：谁劝退了“草根网红”？]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786644.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌代理开发工具包新增Go语言支持</title>
-      <link>https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌代理开发工具包新增Go语言支持]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力难平衡、数据难高效？“软硬协同”破局企业数智化新挑战</title>
+      <link>https://www.infoq.cn/video/JpUmD8SYGSekw08lcRKf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[算力难平衡、数据难高效？“软硬协同”破局企业数智化新挑战]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/JpUmD8SYGSekw08lcRKf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不止于造车：小鹏正在重构其估值逻辑</title>
-      <link>https://www.tmtpost.com/7786532.html</link>
-      <description>&lt;![CDATA[不止于造车：小鹏正在重构其估值逻辑]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7786532.html</guid>
+      <title>想学做饭，从哪些视频博主开始入门</title>
+      <link>https://sspai.com/prime/story/vlogs-for-learning-to-cook</link>
+      <description>&lt;![CDATA[想学做饭，从哪些视频博主开始入门]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/vlogs-for-learning-to-cook</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Li Auto Warns of Steep Delivery Drop as Profit Turns to Loss, Founder Pledges Return to Startup Roots</title>
-      <link>https://www.tmtpost.com/7786316.html</link>
-      <description>&lt;![CDATA[Li Auto Warns of Steep Delivery Drop as Profit Turns to Loss, Founder Pledges Return to Startup Roots]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7786316.html</guid>
+      <title>当「一人公司」成为现实，我们要如何重新「发明自己」？</title>
+      <link>http://www.geekpark.net/news/357436</link>
+      <description>&lt;![CDATA[当「一人公司」成为现实，我们要如何重新「发明自己」？]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357436</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>夸克给千问塑肉身</title>
-      <link>https://www.tmtpost.com/7785627.html</link>
-      <description>&lt;![CDATA[夸克给千问塑肉身]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7785627.html</guid>
+      <title>不只是“做题家”！DeepSeek最新模型打破数学推理局限，部分性能超越Gemini DeepThink</title>
+      <link>https://www.tmtpost.com/7786446.html</link>
+      <description>&lt;![CDATA[不只是“做题家”！DeepSeek最新模型打破数学推理局限，部分性能超越Gemini DeepThink]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786446.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千问和夸克，互补还是互搏？</title>
-      <link>https://www.tmtpost.com/7785461.html</link>
-      <description>&lt;![CDATA[千问和夸克，互补还是互搏？]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7785461.html</guid>
+      <title>高端度假酒店，走到十字路口</title>
+      <link>https://www.tmtpost.com/7786224.html</link>
+      <description>&lt;![CDATA[高端度假酒店，走到十字路口]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786224.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拼多多的千亿投入，能否重塑电商竞争逻辑？</title>
-      <link>https://www.infoq.cn/article/cLB7wWV5gYPhbQUoxJka?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[拼多多的千亿投入，能否重塑电商竞争逻辑？]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cLB7wWV5gYPhbQUoxJka?utm_source=rss&amp;utm_medium=article</guid>
+      <title>《疯狂动物城》如何成为迪士尼在中国最具国民感的IP</title>
+      <link>https://www.tmtpost.com/7785766.html</link>
+      <description>&lt;![CDATA[《疯狂动物城》如何成为迪士尼在中国最具国民感的IP]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7785766.html</guid>
       <category>Technology</category>
     </item>
   </channel>

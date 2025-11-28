@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 09:28
+**最后更新时间**: 2025-11-28 10:01
+
+---
+
+## 🆕 最新更新 (2025-11-28 10:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [杭州网红大撤退：谁劝退了“草根网红”？](https://www.tmtpost.com/7786644.html)
+**发布时间**: 2025-11-28 17:53
+
+#### [AI时代的微软和服务商生态：交易链条延长，从卖产品到卖服务](https://www.tmtpost.com/7787012.html)
+**发布时间**: 2025-11-28 17:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [算力难平衡、数据难高效？“软硬协同”破局企业数智化新挑战](https://www.infoq.cn/video/JpUmD8SYGSekw08lcRKf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 17:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [想学做饭，从哪些视频博主开始入门](https://sspai.com/prime/story/vlogs-for-learning-to-cook)
+**发布时间**: 2025-11-28 16:35
 
 ---
 

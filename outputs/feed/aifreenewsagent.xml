@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 09:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 09:28:33 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 10:01:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 10:01:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AAAI 2026 | 电子科技大学提出OWL，基于双路径注意力干预的多模态大模型物体幻觉缓解</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-8</link>
-      <description>&lt;![CDATA[AAAI 2026 | 电子科技大学提出OWL，基于双路径注意力干预的多模态大模型物体幻觉缓解]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-8</guid>
+      <title>OPC时代大幕开启，“技术底座”成为“单人成军”的关键支撑</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-10</link>
+      <description>&lt;![CDATA[OPC时代大幕开启，“技术底座”成为“单人成军”的关键支撑]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>HUAWEI Mate 80系列发布：以巅峰科技树立高端旗舰新标杆</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-7</link>
-      <description>&lt;![CDATA[HUAWEI Mate 80系列发布：以巅峰科技树立高端旗舰新标杆]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-7</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>华为放出「准万亿级MoE推理」大招，两大杀手级优化技术直接开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-6</link>
-      <description>&lt;![CDATA[华为放出「准万亿级MoE推理」大招，两大杀手级优化技术直接开源]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>亚马逊研究奖获奖名单出炉：王晋东等26位华人入选</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-5</link>
-      <description>&lt;![CDATA[亚马逊研究奖获奖名单出炉：王晋东等26位华人入选]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Nature | ApdativeNN：建模类人自适应感知机制，突破机器视觉「不可能三角」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-4</link>
-      <description>&lt;![CDATA[Nature | ApdativeNN：建模类人自适应感知机制，突破机器视觉「不可能三角」]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>IEEE TMI 2025 | AI自建学习大纲的多实例多标签医学图像分析新框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-3</link>
-      <description>&lt;![CDATA[IEEE TMI 2025 | AI自建学习大纲的多实例多标签医学图像分析新框架]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-3</guid>
+      <title>刚刚，神秘模型登顶视频生成榜，又是个中国模型？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-9</link>
+      <description>&lt;![CDATA[刚刚，神秘模型登顶视频生成榜，又是个中国模型？]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-9</guid>
       <category>Ai</category>
     </item>
   </channel>

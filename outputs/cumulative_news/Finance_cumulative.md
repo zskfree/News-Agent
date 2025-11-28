@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 09:18
+**最后更新时间**: 2025-11-28 10:01
+
+---
+
+## 🆕 最新更新 (2025-11-28 10:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Today’ host Dylan Dreyer sells New York apartment for $1.8 million following split-up with Brian Fichera](https://www.marketwatch.com/story/today-host-dylan-dreyer-sells-new-york-apartment-for-1-8-million-following-split-up-with-brian-fichera-efa5aead?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 10:00
+
+#### [Bitcoin has moved back above $90,000. Why this strategist says a return to $100,000 is not far away](https://www.marketwatch.com/story/bitcoin-has-moved-back-above-90-000-why-this-strategist-says-a-return-to-100-000-is-not-far-away-cc79cb41?mod=mw_rss_topstories)
+**发布时间**: 2025-11-28 09:36
 
 ---
 
