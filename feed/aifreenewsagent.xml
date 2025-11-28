@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 05:21:58 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 08:35:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>学术圈炸了！ICLR评审大开盒，原来低分是好友打的</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-2</link>
-      <description>&lt;![CDATA[学术圈炸了！ICLR评审大开盒，原来低分是好友打的]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-2</guid>
+      <title>HUAWEI Mate 80系列发布：以巅峰科技树立高端旗舰新标杆</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-7</link>
+      <description>&lt;![CDATA[HUAWEI Mate 80系列发布：以巅峰科技树立高端旗舰新标杆]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型作为评估者的「偏好」困境：UDA实现无监督去偏对齐</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28</link>
-      <description>&lt;![CDATA[大模型作为评估者的「偏好」困境：UDA实现无监督去偏对齐]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28</guid>
+      <title>华为放出「准万亿级MoE推理」大招，两大杀手级优化技术直接开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-6</link>
+      <description>&lt;![CDATA[华为放出「准万亿级MoE推理」大招，两大杀手级优化技术直接开源]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>精准锁定「硬骨头」：难样本筛选破局SFT依赖，GRPO-only斩获感知推理双最优</title>
-      <link>https://www.qbitai.com/2025/11/357048.html</link>
-      <description>&lt;![CDATA[精准锁定「硬骨头」：难样本筛选破局SFT依赖，GRPO-only斩获感知推理双最优]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 04:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357048.html</guid>
+      <title>亚马逊研究奖获奖名单出炉：王晋东等26位华人入选</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-5</link>
+      <description>&lt;![CDATA[亚马逊研究奖获奖名单出炉：王晋东等26位华人入选]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>夸克AI浏览器来了！深度融合千问，迎来“Chrome级”进化时刻</title>
-      <link>https://www.qbitai.com/2025/11/357022.html</link>
-      <description>&lt;![CDATA[夸克AI浏览器来了！深度融合千问，迎来“Chrome级”进化时刻]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357022.html</guid>
+      <title>Nature | ApdativeNN：建模类人自适应感知机制，突破机器视觉「不可能三角」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-4</link>
+      <description>&lt;![CDATA[Nature | ApdativeNN：建模类人自适应感知机制，突破机器视觉「不可能三角」]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>IEEE TMI 2025 | AI自建学习大纲的多实例多标签医学图像分析新框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-28-3</link>
+      <description>&lt;![CDATA[IEEE TMI 2025 | AI自建学习大纲的多实例多标签医学图像分析新框架]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>国产家庭机器人终于落地！连人带床推你去上班，小五位数价格明年开卖</title>
+      <link>https://www.qbitai.com/2025/11/357263.html</link>
+      <description>&lt;![CDATA[国产家庭机器人终于落地！连人带床推你去上班，小五位数价格明年开卖]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357263.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>阿里千问开始蹬鼻子上脸了</title>
+      <link>https://www.qbitai.com/2025/11/357209.html</link>
+      <description>&lt;![CDATA[阿里千问开始蹬鼻子上脸了]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 07:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357209.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>第三波嘉宾来袭！等你一起MEET2026，速戳报名</title>
+      <link>https://www.qbitai.com/2025/11/357152.html</link>
+      <description>&lt;![CDATA[第三波嘉宾来袭！等你一起MEET2026，速戳报名]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 06:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357152.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>C++之父亲临北京，AI 原生时代最值得参加的系统软件技术大会日程发布</title>
+      <link>https://www.qbitai.com/2025/11/357141.html</link>
+      <description>&lt;![CDATA[C++之父亲临北京，AI 原生时代最值得参加的系统软件技术大会日程发布]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357141.html</guid>
       <category>AI</category>
     </item>
   </channel>

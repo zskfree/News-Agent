@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 05:21
+**最后更新时间**: 2025-11-28 08:35
+
+---
+
+## 🆕 最新更新 (2025-11-28 08:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [aiXcoder 7.0全新发布：面向企业真实研发场景，打“智能体工厂”](https://www.infoq.cn/article/36MwoVlUidFc1Ev9ioei?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 16:30
+
+#### [官宣：Oracle 数据库与 Snowflake AI 数据云扩展集成 | 技术趋势](https://www.infoq.cn/article/ClbVvAS3hDRW8R8xYOU3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 14:15
+
+#### [拼多多的千亿投入，能否重塑电商竞争逻辑？](https://www.infoq.cn/article/cLB7wWV5gYPhbQUoxJka?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 14:15
+
+#### [Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量](https://www.infoq.cn/article/NU2msEACYwYBB5y1mIhf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 14:10
+
+#### [谷歌代理开发工具包新增Go语言支持](https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 14:03
+
+#### [DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过](https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 13:53
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [高端度假酒店，走到十字路口](https://www.tmtpost.com/7786224.html)
+**发布时间**: 2025-11-28 15:41
+
+#### [夸克给千问塑肉身](https://www.tmtpost.com/7785627.html)
+**发布时间**: 2025-11-28 14:44
+
+#### [欣战江：低研发却有高毛利，产能闲置仍募资扩｜IPO观察](https://www.tmtpost.com/7783000.html)
+**发布时间**: 2025-11-28 14:06
+
+#### [恒道科技：高毛利叠加5成逾期账款，宽松信用政策引监管问询｜IPO观察](https://www.tmtpost.com/7784606.html)
+**发布时间**: 2025-11-28 14:01
+
+#### [品牌怎么都在搞“痛”营销？](https://www.tmtpost.com/7786338.html)
+**发布时间**: 2025-11-28 13:58
+
+#### [不只是“做题家”！DeepSeek最新模型打破数学推理局限，部分性能超越Gemini DeepThink](https://www.tmtpost.com/7786446.html)
+**发布时间**: 2025-11-28 13:39
+
+#### [不止于造车：小鹏正在重构其估值逻辑](https://www.tmtpost.com/7786532.html)
+**发布时间**: 2025-11-28 13:12
 
 ---
 
