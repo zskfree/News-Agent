@@ -12932,6 +12932,24 @@
         "link": "https://www.tmtpost.com/7786291.html",
         "published_date": "Fri, 28 Nov 2025 16:31:00 GMT",
         "first_seen": "2025-11-28T16:59:11.517868"
+      },
+      "1852e268b6566508babf3152b7857ae41609abca32dc0f38694fc93b82d4be39": {
+        "title": "漫剧与短剧终有一战？",
+        "link": "https://www.tmtpost.com/7786651.html",
+        "published_date": "Fri, 28 Nov 2025 17:08:00 GMT",
+        "first_seen": "2025-11-28T09:18:30.670668"
+      },
+      "255a6ae51dd2a59eec73dc529e292cf2b35fde2230b1d714b1c006195cebbce9": {
+        "title": "把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径",
+        "link": "https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 17:01:00 GMT",
+        "first_seen": "2025-11-28T09:18:30.670675"
+      },
+      "302b9c8624a95c4b6bd1ef259e4f037ea1b3cb4319c40c642a5d4fa59b504b98": {
+        "title": "优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势",
+        "link": "https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Nov 2025 17:00:00 GMT",
+        "first_seen": "2025-11-28T09:18:30.670677"
       }
     },
     "Finance": {
@@ -13020,13 +13038,19 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Fri, 28 Nov 2025 16:58:00 GMT",
         "first_seen": "2025-11-28T16:59:11.413299"
+      },
+      "909dc0dc7f58c01843f90a570891b3ac9ad98c66242d630311da3353c72e77b3": {
+        "title": "](https://www.qbitai.com/2025/11/348474.html)\n**发布时间**: 2025-11-03 10:27\n\n---\n\n## 🆕 最新更新 (2025-11-03 23:18)\n### 📰 来源: [量子位",
+        "link": "https://www.qbitai.com/feed",
+        "published_date": "Fri, 28 Nov 2025 09:18:00 GMT",
+        "first_seen": "2025-11-28T09:18:30.617028"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-11-28T16:59:11.517868",
+    "Technology": "2025-11-28T09:18:30.670679",
     "Finance": "2025-11-28T16:59:11.452741",
-    "Ai": "2025-11-28T16:59:11.413299"
+    "Ai": "2025-11-28T09:18:30.617037"
   }
 }

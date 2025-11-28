@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 16:58
+**最后更新时间**: 2025-11-28 09:18
+
+---
+
+## 🆕 最新更新 (2025-11-28 09:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [漫剧与短剧终有一战？](https://www.tmtpost.com/7786651.html)
+**发布时间**: 2025-11-28 17:08
+
+#### [品牌怎么都在搞“痛”营销？](https://www.tmtpost.com/7786338.html)
+**发布时间**: 2025-11-28 13:58
+
+#### [不只是“做题家”！DeepSeek最新模型打破数学推理局限，部分性能超越Gemini DeepThink](https://www.tmtpost.com/7786446.html)
+**发布时间**: 2025-11-28 13:39
+
+#### [不止于造车：小鹏正在重构其估值逻辑](https://www.tmtpost.com/7786532.html)
+**发布时间**: 2025-11-28 13:12
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径](https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 17:01
+
+#### [优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势](https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 17:00
+
+#### [谷歌代理开发工具包新增Go语言支持](https://www.infoq.cn/article/sp5LrzQBR0dhKjrWjcYB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 14:03
+
+#### [DeepSeek再次屠榜！Math V2以碾压姿态终结“最强数学模型”之争，网友：在数学上，中国模型没输过](https://www.infoq.cn/article/1br1OyjsPVHzxBaCDR2x?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 13:53
 
 ---
 

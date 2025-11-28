@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 16:59
+**最后更新时间**: 2025-11-28 09:18
+
+---
+
+## 🆕 最新更新 (2025-11-28 09:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Labour retreats on ‘day one’ rights for workers](https://www.ft.com/content/3391dd3c-e8e4-460c-9e6c-38890dee5305)
+**发布时间**: 2025-11-28 08:10
+
+#### [Anti-corruption authorities raid house of top Zelenskyy aide](https://www.ft.com/content/4f485041-9970-48c7-b908-97fe8c2debd0)
+**发布时间**: 2025-11-28 08:10
+
+#### [OpenAI partners amass $100bn debt pile to fund its ambitions](https://www.ft.com/content/5605d086-289e-4b5f-803b-4c13666976a5)
+**发布时间**: 2025-11-28 05:00
+
+#### [Reeves to rush pensions tax raid into law to reassure markets](https://www.ft.com/content/eec4d6e3-6c80-42f9-aa1c-fcbcf37e98dc)
+**发布时间**: 2025-11-27 17:06
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [America is aging into a caregiving desert. Nobody is ready.](https://www.marketwatch.com/story/america-is-aging-into-a-caregiving-desert-nobody-is-ready-6f5bcbcc?mod=mw_rss_topstories)
+**发布时间**: 2025-11-27 22:26
+
+#### [My college-age kids inherited $300K from a 401(k). What should they do with this money?](https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories)
+**发布时间**: 2025-11-27 17:57
+
+#### [‘I have no paperwork’: My father gave me my mother’s jewelry before he died. Will I owe taxes if I sell?](https://www.marketwatch.com/story/i-have-no-paperwork-my-father-gave-my-mothers-jewelry-before-he-died-will-i-owe-taxes-if-i-sell-768ee7dc?mod=mw_rss_topstories)
+**发布时间**: 2025-11-27 16:53
+
+#### [Beaten-down Puma shares are soaring. The sportswear maker may have a suitor.](https://www.marketwatch.com/story/beaten-down-puma-shares-are-soaring-the-sportswear-maker-may-have-a-suitor-33a83834?mod=mw_rss_topstories)
+**发布时间**: 2025-11-27 13:58
+
+#### [Relentless financial pressure has Black Friday shoppers of all incomes even more hungry for deals than usual](https://www.marketwatch.com/story/why-scoring-the-best-black-friday-deals-feels-more-important-than-it-has-in-years-for-both-shoppers-and-the-economy-7e6ab04c?mod=mw_rss_topstories)
+**发布时间**: 2025-11-27 12:53
 
 ---
 

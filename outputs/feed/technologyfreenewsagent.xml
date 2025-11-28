@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 16:58:00 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 16:59:11 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 09:18:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 09:18:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral</title>
-      <link>https://www.infoq.cn/article/zaMWKCyS8bgwV1oMUdGk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zaMWKCyS8bgwV1oMUdGk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>漫剧与短剧终有一战？</title>
+      <link>https://www.tmtpost.com/7786651.html</link>
+      <description>&lt;![CDATA[漫剧与短剧终有一战？]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786651.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>aiXcoder 7.0全新发布：面向企业真实研发场景，打“智能体工厂”</title>
-      <link>https://www.infoq.cn/article/36MwoVlUidFc1Ev9ioei?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[aiXcoder 7.0全新发布：面向企业真实研发场景，打“智能体工厂”]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/36MwoVlUidFc1Ev9ioei?utm_source=rss&amp;utm_medium=article</guid>
+      <title>把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径</title>
+      <link>https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌AI往事：隐秘的二十年，与狂奔的365天</title>
-      <link>https://www.tmtpost.com/7786291.html</link>
-      <description>&lt;![CDATA[谷歌AI往事：隐秘的二十年，与狂奔的365天]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7786291.html</guid>
+      <title>优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势</title>
+      <link>https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
