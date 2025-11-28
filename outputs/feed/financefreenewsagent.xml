@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Finance 新闻汇总 - Free News Agent</title>
+    <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
+    <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
+    <language>zh-CN</language>
+    <pubDate>Fri, 28 Nov 2025 16:59:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 16:59:11 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
+    <follow_challenge>
+      <feedId>150806458867930112</feedId>
+      <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
+    </follow_challenge>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trading on CME halted after exchange hit by data centre outage</title>
+      <link>https://www.ft.com/content/3332da74-d961-4b7f-a503-11d55d93b7c8</link>
+      <description>&lt;![CDATA[Trading on CME halted after exchange hit by data centre outage]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3332da74-d961-4b7f-a503-11d55d93b7c8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>CME halts futures trading on stocks, currencies and other markets, citing data center cooling issue</title>
+      <link>https://www.marketwatch.com/story/cme-halts-futures-trading-on-stocks-currencies-and-other-markets-citing-data-center-cooling-issue-772a0d6d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[CME halts futures trading on stocks, currencies and other markets, citing data center cooling issue]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/cme-halts-futures-trading-on-stocks-currencies-and-other-markets-citing-data-center-cooling-issue-772a0d6d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Is the stock market open on Black Friday?</title>
+      <link>https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Is the stock market open on Black Friday?]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 07:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+  </channel>
+</rss>

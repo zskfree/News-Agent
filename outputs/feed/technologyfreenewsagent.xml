@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Technology 新闻汇总 - Free News Agent</title>
+    <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
+    <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
+    <language>zh-CN</language>
+    <pubDate>Fri, 28 Nov 2025 16:58:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 16:59:11 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
+    <follow_challenge>
+      <feedId>150782874584542208</feedId>
+      <userId>DdasOQb1gouc5RwqkaQc4KLscHJhfeeW</userId>
+    </follow_challenge>
+    <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral</title>
+      <link>https://www.infoq.cn/article/zaMWKCyS8bgwV1oMUdGk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zaMWKCyS8bgwV1oMUdGk?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>aiXcoder 7.0全新发布：面向企业真实研发场景，打“智能体工厂”</title>
+      <link>https://www.infoq.cn/article/36MwoVlUidFc1Ev9ioei?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[aiXcoder 7.0全新发布：面向企业真实研发场景，打“智能体工厂”]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/36MwoVlUidFc1Ev9ioei?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌AI往事：隐秘的二十年，与狂奔的365天</title>
+      <link>https://www.tmtpost.com/7786291.html</link>
+      <description>&lt;![CDATA[谷歌AI往事：隐秘的二十年，与狂奔的365天]]&gt;</description>
+      <pubDate>Fri, 28 Nov 2025 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7786291.html</guid>
+      <category>Technology</category>
+    </item>
+  </channel>
+</rss>

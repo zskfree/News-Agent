@@ -167,16 +167,21 @@ feed/
 cumulative_news/
 legacy_scripts/
 
-# Data files (keep in data/ directory)
-rss_history.json
+# Data files - DO NOT IGNORE (needed for GitHub Actions)
+# rss_history.json in root is old location, ignore it
+/rss_history.json
+# Keep data/ directory files for history tracking
+# data/rss_history.json
 
 # Log files
 *.log
 logs/*.log
+!logs/.gitkeep
 
-# Output directories content (keep structure)
-outputs/feed/*.xml
-outputs/cumulative_news/*.md
+# Output directories - DO NOT IGNORE (needed for GitHub Actions auto-commit)
+# outputs/feed/*.xml
+# outputs/cumulative_news/*.md
+# Keep .gitkeep files
 !outputs/feed/.gitkeep
 !outputs/cumulative_news/.gitkeep
 
