@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 23:24:29 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 05:21:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>243支清华团队！“昆山杯”第27届清华大学创业大赛席卷热潮！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-28-11</link>
-      <description>&lt;![CDATA[243支清华团队！“昆山杯”第27届清华大学创业大赛席卷热潮！]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-28-11</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>对话韩旭：双重上市后，英才校招300万起步</title>
-      <link>https://www.qbitai.com/2025/11/357360.html</link>
-      <description>&lt;![CDATA[对话韩旭：双重上市后，英才校招300万起步]]&gt;</description>
-      <pubDate>Fri, 28 Nov 2025 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357360.html</guid>
+      <title>万卡集群要上天？中国硬核企业打造太空超算！</title>
+      <link>https://www.qbitai.com/2025/11/357420.html</link>
+      <description>&lt;![CDATA[万卡集群要上天？中国硬核企业打造太空超算！]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 01:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357420.html</guid>
       <category>Ai</category>
     </item>
   </channel>
