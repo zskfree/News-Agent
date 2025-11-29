@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Nov 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2025 05:21:20 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 08:27:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Snowflake 成本优化：警惕那些 Rube Goldberg 式复杂查询 | 技术实践</title>
-      <link>https://www.infoq.cn/article/cV1hLo3Cb1qbN9JCz2CZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 成本优化：警惕那些 Rube Goldberg 式复杂查询 | 技术实践]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cV1hLo3Cb1qbN9JCz2CZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Intel偷塔英伟达，比Google狠多了，直接挖角台积电核心人物</title>
+      <link>https://www.tmtpost.com/7788009.html</link>
+      <description>&lt;![CDATA[Intel偷塔英伟达，比Google狠多了，直接挖角台积电核心人物]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7788009.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美光科技今年股价表现亮眼，戴尔和惠普的数据揭示了内存需求的新动向</title>
-      <link>https://www.tmtpost.com/7787826.html</link>
-      <description>&lt;![CDATA[美光科技今年股价表现亮眼，戴尔和惠普的数据揭示了内存需求的新动向]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 09:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7787826.html</guid>
+      <title>壁垒极高的海外大储也开始内卷了，“元凶”原来是他俩？</title>
+      <link>https://www.tmtpost.com/7788010.html</link>
+      <description>&lt;![CDATA[壁垒极高的海外大储也开始内卷了，“元凶”原来是他俩？]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7788010.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卷不过AI就去当CEO？架构师职业迎来“反向突围”｜独家对话哥大教授Arthur，M.，Langer</title>
-      <link>https://www.infoq.cn/article/gX2EwiLtCbeVgBMwoiMc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[卷不过AI就去当CEO？架构师职业迎来“反向突围”｜独家对话哥大教授Arthur，M.，Langer]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gX2EwiLtCbeVgBMwoiMc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里距离“谷歌时刻”还有多远？</title>
+      <link>https://www.tmtpost.com/7787368.html</link>
+      <description>&lt;![CDATA[阿里距离“谷歌时刻”还有多远？]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787368.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量</title>
-      <link>https://www.infoq.cn/article/tahVbHZlCiDLk2NCgdlP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tahVbHZlCiDLk2NCgdlP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI、外卖和国际化，三个核心命题透视阿里2477亿营收财报真相</title>
+      <link>https://www.tmtpost.com/7787612.html</link>
+      <description>&lt;![CDATA[AI、外卖和国际化，三个核心命题透视阿里2477亿营收财报真相]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787612.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“信息流转”视角下的Agent上下文工程规范与实践｜AICon北京</title>
-      <link>https://www.infoq.cn/article/Uj6yBUgwIFa1lwvVyyu8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“信息流转”视角下的Agent上下文工程规范与实践｜AICon北京]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Uj6yBUgwIFa1lwvVyyu8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>近期思考汇编：关于Gemini 3、Ilya访谈、Nested Learning</title>
+      <link>https://www.tmtpost.com/7787684.html</link>
+      <description>&lt;![CDATA[近期思考汇编：关于Gemini 3、Ilya访谈、Nested Learning]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787684.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Valkey 9.0 引入多数据库集群、原子级槽位迁移，并带来大幅性能提升</title>
-      <link>https://www.infoq.cn/article/3Bv46oF2H6QxrNkGGCM4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Valkey 9.0 引入多数据库集群、原子级槽位迁移，并带来大幅性能提升]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3Bv46oF2H6QxrNkGGCM4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>这届“野生文旅”，野的是体验，卷的是安全</title>
+      <link>https://www.tmtpost.com/7787461.html</link>
+      <description>&lt;![CDATA[这届“野生文旅”，野的是体验，卷的是安全]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787461.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Indian Commerce Chief Eyes Trade Deal to Lower U.S. Tariffs by Year-End</title>
-      <link>https://www.tmtpost.com/7787977.html</link>
-      <description>&lt;![CDATA[Indian Commerce Chief Eyes Trade Deal to Lower U.S. Tariffs by Year-End]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7787977.html</guid>
+      <title>全球肉业巨头将关停核心牛肉加工厂，牛肉产业的苦日子要来了？</title>
+      <link>https://www.tmtpost.com/7787732.html</link>
+      <description>&lt;![CDATA[全球肉业巨头将关停核心牛肉加工厂，牛肉产业的苦日子要来了？]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787732.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Oracle Reportedly In talks with Banks on $38 Billion Funding for OpenAI Datacenters</title>
-      <link>https://www.tmtpost.com/7787974.html</link>
-      <description>&lt;![CDATA[Oracle Reportedly In talks with Banks on $38 Billion Funding for OpenAI Datacenters]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7787974.html</guid>
+      <title>大模型是沉睡的智者：你不唤，它不醒</title>
+      <link>https://www.tmtpost.com/7787808.html</link>
+      <description>&lt;![CDATA[大模型是沉睡的智者：你不唤，它不醒]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787808.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三巨头，捧出一个IPO</title>
-      <link>https://www.tmtpost.com/7787926.html</link>
-      <description>&lt;![CDATA[三巨头，捧出一个IPO]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7787926.html</guid>
+      <title>AI医疗进阶3.0：医疗普惠潮下的效率革命与商业化破局丨2025·大复盘</title>
+      <link>https://www.tmtpost.com/7787613.html</link>
+      <description>&lt;![CDATA[AI医疗进阶3.0：医疗普惠潮下的效率革命与商业化破局丨2025·大复盘]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787613.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>90后法务高管许思敏接棒宗馥莉，是不是权宜之计？</title>
-      <link>https://www.tmtpost.com/7787928.html</link>
-      <description>&lt;![CDATA[90后法务高管许思敏接棒宗馥莉，是不是权宜之计？]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7787928.html</guid>
+      <title>外卖大战刚开篇，美团想刹车，但阿里却猛踩油门</title>
+      <link>https://www.tmtpost.com/7787718.html</link>
+      <description>&lt;![CDATA[外卖大战刚开篇，美团想刹车，但阿里却猛踩油门]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7787718.html</guid>
       <category>Technology</category>
     </item>
   </channel>

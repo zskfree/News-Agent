@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 23:24
+**最后更新时间**: 2025-11-29 08:27
+
+---
+
+## 🆕 最新更新 (2025-11-29 08:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [This Budget’s tax decisions will haunt the government](https://www.ft.com/content/f658b3e8-2b47-45db-a85b-f5d8f0157985)
+**发布时间**: 2025-11-29 05:00
+
+#### [‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap](https://www.ft.com/content/82cd3071-4679-4153-8d78-f053fdd8adae)
+**发布时间**: 2025-11-29 05:00
+
+#### [Liberalism can win back the working class. Here’s how](https://www.ft.com/content/96aadc56-d99e-463a-b95c-d5cab088cacc)
+**发布时间**: 2025-11-29 05:00
+
+#### [The coup de grâce for woke](https://www.ft.com/content/3a3bb856-5922-4d49-b697-4eba033051dd)
+**发布时间**: 2025-11-29 05:00
+
+#### [Lenders gear up for loosening of capital rules by Bank of England](https://www.ft.com/content/4132b041-94de-4850-8151-532f4e8a7ef4)
+**发布时间**: 2025-11-29 05:00
+
+#### [Swatch activist lambasts Omega owner’s ‘worst-in-class’ governance](https://www.ft.com/content/623cc35d-2d54-4aa8-a6f3-66586c45f1b7)
+**发布时间**: 2025-11-29 05:00
+
+#### [Ryanair axes loyalty scheme after passengers took too many cheap flights](https://www.ft.com/content/da84e742-dc3a-4145-aa44-c910deb30744)
+**发布时间**: 2025-11-28 16:42
 
 ---
 
