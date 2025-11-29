@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Nov 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2025 05:21:11 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 23:20:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>万卡集群要上天？中国硬核企业打造太空超算！</title>
-      <link>https://www.qbitai.com/2025/11/357420.html</link>
-      <description>&lt;![CDATA[万卡集群要上天？中国硬核企业打造太空超算！]]&gt;</description>
-      <pubDate>Sat, 29 Nov 2025 01:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357420.html</guid>
+      <title>AI驱动的行情里，AI终于成了淘金的铲子</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-29-5</link>
+      <description>&lt;![CDATA[AI驱动的行情里，AI终于成了淘金的铲子]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 20:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-29-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>炸了！ICLR 一键清零 rebuttal，全网研究者怒了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-29-4</link>
+      <description>&lt;![CDATA[炸了！ICLR 一键清零 rebuttal，全网研究者怒了]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 20:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-29-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 | DynaAct：DeepSeek R1之外，探索大模型推理的另一条道路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-29-3</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | DynaAct：DeepSeek R1之外，探索大模型推理的另一条道路]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 20:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-29-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>世界模型，是否正在逼近自己的「ChatGPT时刻」？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-29-2</link>
+      <description>&lt;![CDATA[世界模型，是否正在逼近自己的「ChatGPT时刻」？]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 20:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-29-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 Oral | 1个Token零成本，REG让Diffusion训练收敛快20倍！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-29</link>
+      <description>&lt;![CDATA[NeurIPS 2025 Oral | 1个Token零成本，REG让Diffusion训练收敛快20倍！]]&gt;</description>
+      <pubDate>Sat, 29 Nov 2025 20:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-29</guid>
       <category>Ai</category>
     </item>
   </channel>

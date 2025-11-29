@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-29 08:27
+**最后更新时间**: 2025-11-29 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-29 23:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Britain’s economic outlook: what did Rachel Reeves know — and when?](https://www.ft.com/content/d92afed0-577b-4af2-90b9-c3c87e3205ed)
+**发布时间**: 2025-11-29 20:08
+
+#### [Donald Trump says Venezuelan airspace is closed](https://www.ft.com/content/8acf0e8d-8383-48f3-a273-40712400f99d)
+**发布时间**: 2025-11-29 19:34
+
+#### [British playwright Sir Tom Stoppard dies](https://www.ft.com/content/bd272b9f-387b-46d3-a256-9c1f67e943a9)
+**发布时间**: 2025-11-29 18:48
+
+#### [Chinese parts supplier takes stake in leading Russian drone maker](https://www.ft.com/content/e907c2fa-2d3b-4269-bc6c-b2fee4d9f688)
+**发布时间**: 2025-11-29 17:00
+
+#### [A tax on ambition: what Gen Z thinks of the Budget](https://www.ft.com/content/d3624c46-e1ac-47c0-a410-30b6be7fc99c)
+**发布时间**: 2025-11-29 05:00
+
+#### [The UK should enjoy the calming of the bond vigilantes](https://www.ft.com/content/004ee512-9c75-4b08-8795-08f1130ff199)
+**发布时间**: 2025-11-29 05:00
+
+#### [Venezuela’s wily ruler digs in to defy Trump](https://www.ft.com/content/b6c8b7cd-68dc-4653-9446-862c8d88ebe3)
+**发布时间**: 2025-11-29 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Fed hawks and doves are battling over December rate cuts — watch these clues to see who wins](https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 19:36
+
+#### [Scoring great Black Friday deals is getting harder. These 6 tips can help you shop smarter this weekend.](https://www.marketwatch.com/story/scoring-great-black-friday-deals-is-getting-harder-these-6-tips-can-help-you-shop-smarter-this-weekend-ae2a5d2a?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 19:20
+
+#### [‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?](https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 19:05
+
+#### [How the U.S. government bought an election, rescued some Wall Street bigshots — and left you with the tab](https://www.marketwatch.com/story/washington-bought-an-election-argentina-got-a-president-you-got-the-bill-e1b6ff15?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 18:44
+
+#### [Carnival, NCL and Royal Caribbean all have Black Friday sales. But is now the best time to shop for a cruise deal?](https://www.marketwatch.com/story/this-years-black-friday-cruise-deals-can-save-you-hundreds-of-dollars-six-tips-for-shopping-the-sales-c48c593b?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 18:31
+
+#### [My friend cosigned a loan for a BMW, but the driver defaulted. They’re both on the hook for $5K. What happens now?](https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 18:05
+
+#### [Even thrift stores are holding Black Friday sales as Americans seek holiday bargains](https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 18:03
+
+#### [Doing your holiday shopping with a credit card? Use these 6 tips to preserve your credit score — and your sanity.](https://www.marketwatch.com/story/doing-your-holiday-shopping-with-a-credit-card-use-these-6-tips-to-preserve-your-credit-score-and-your-sanity-cb8907b8?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 17:43
+
+#### [‘At 55, I’m the only single one in the family’: Was I wrong to skip my family’s Thanksgiving dinner?](https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 17:30
+
+#### [The kids are not all right — how young stock investors are bringing on a bear market](https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories)
+**发布时间**: 2025-11-29 17:14
 
 ---
 
