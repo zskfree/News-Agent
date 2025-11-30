@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-29 23:19
+**最后更新时间**: 2025-11-30 05:20
+
+---
+
+## 🆕 最新更新 (2025-11-30 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [字节中兴合作的AI手机将于12月初发布，主打高权限Agent能力](https://www.tmtpost.com/7787978.html)
+**发布时间**: 2025-11-30 13:04
+
+#### [第四次冲刺上市，Soul讲的什么新故事？](https://www.tmtpost.com/7788356.html)
+**发布时间**: 2025-11-30 13:03
+
+#### [抖音正在从“广告公司”变成“电商公司”？](https://www.tmtpost.com/7788379.html)
+**发布时间**: 2025-11-30 12:54
+
+#### [Q2之后，阿里补贴不能停](https://www.tmtpost.com/7788415.html)
+**发布时间**: 2025-11-30 12:49
+
+#### [【数智周报】 马斯克：Grok 5有10%概率实现AGI；国家数据局：支持数据交易所探索建立全链条服务体系；新AI模型可精准锁定人体致病突变……](https://www.tmtpost.com/7788398.html)
+**发布时间**: 2025-11-30 11:11
+
+#### [累计变现85亿后，210亿游戏大佬又双叒叕出手](https://www.tmtpost.com/7788213.html)
+**发布时间**: 2025-11-30 08:48
+
+#### [3.4万亿字节，搞不定“游戏梦”？](https://www.tmtpost.com/7788224.html)
+**发布时间**: 2025-11-30 08:44
+
+#### [迪士尼懂什么《疯狂动物城》？](https://www.tmtpost.com/7788239.html)
+**发布时间**: 2025-11-30 08:35
+
+#### [李嘉诚要把屈臣氏，同时卖给香港和伦敦](https://www.tmtpost.com/7788253.html)
+**发布时间**: 2025-11-30 08:29
+
+#### [星星充电凭什么拿下美国32GWh/228亿超级储能大单？](https://www.tmtpost.com/7788130.html)
+**发布时间**: 2025-11-30 08:19
+
+#### [中国央行首次重磅定调稳定币，市场将向何处去？](https://www.tmtpost.com/7788127.html)
+**发布时间**: 2025-11-29 18:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [寻找 Calphalon Commercial：完美锅具是否真实存在？](https://sspai.com/post/104185)
+**发布时间**: 2025-11-30 12:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何打造持续进化的卓越软件团队](https://www.infoq.cn/article/6SyW48Xaq5de5a34JvzT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-30 11:00
+
+#### [JoinFilters 实践：让 Snowflake 查询更快更智能 | 技术实践](https://www.infoq.cn/article/moO4zDImiEZew6jd7KIP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-30 09:30
+
+#### [单日十亿 Token 的企业 AI 十倍速落地与十倍降本之道｜AICon北京](https://www.infoq.cn/article/qYf21LhgWYajNNz8Jj8U?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-30 09:00
+
+#### [Google 将 Colab 集成带入 Visual Studio Code](https://www.infoq.cn/article/poCicTjhQrQMBOii8fxL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-30 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 或成史上烧钱最快的公司；特斯拉在印度两月，仅卖出100多辆车；《疯狂动物城2》刷新进口电影单日票房纪录｜极客早知道](http://www.geekpark.net/news/357446)
+**发布时间**: 2025-11-30 08:26
 
 ---
 

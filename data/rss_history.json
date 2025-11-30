@@ -12638,6 +12638,66 @@
         "link": "http://www.geekpark.net/news/357445",
         "published_date": "Sat, 29 Nov 2025 09:12:00 GMT",
         "first_seen": "2025-11-29T23:20:06.439195"
+      },
+      "1e0c6c24c27356d0508b5b1d3e7718c2b7be8b1fe2a3819020ebd7f0bef6da72": {
+        "title": "字节中兴合作的AI手机将于12月初发布，主打高权限Agent能力",
+        "link": "https://www.tmtpost.com/7787978.html",
+        "published_date": "Sun, 30 Nov 2025 13:04:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085829"
+      },
+      "49e9c246aa66e28f864ca0ae5e936e8a862905731db150840b459f6835922702": {
+        "title": "JoinFilters 实践：让 Snowflake 查询更快更智能 | 技术实践",
+        "link": "https://www.infoq.cn/article/moO4zDImiEZew6jd7KIP?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 30 Nov 2025 09:30:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085838"
+      },
+      "c8ab7b1a3f3b03d03ca8c77a492eea3ee8625d027a9e5c3c537da1b4c47253f0": {
+        "title": "第四次冲刺上市，Soul讲的什么新故事？",
+        "link": "https://www.tmtpost.com/7788356.html",
+        "published_date": "Sun, 30 Nov 2025 13:03:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085840"
+      },
+      "db44798879633b8c320f6e781323498866a0f7166958a7be824f3390d088cc06": {
+        "title": "Q2之后，阿里补贴不能停",
+        "link": "https://www.tmtpost.com/7788415.html",
+        "published_date": "Sun, 30 Nov 2025 12:49:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085843"
+      },
+      "b0ee9ecffe9702cc17e4de7ea6d02994b7ce7177994a3de169f5b4a512acf53c": {
+        "title": "【数智周报】 马斯克：Grok 5有10%概率实现AGI；国家数据局：支持数据交易所探索建立全链条服务体系；新AI模型可精准锁定人体致病突变……",
+        "link": "https://www.tmtpost.com/7788398.html",
+        "published_date": "Sun, 30 Nov 2025 11:11:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085845"
+      },
+      "20d04bd1ff7b833afbe591078712df96872914eafb5d8299b33d4538572a6559": {
+        "title": "累计变现85亿后，210亿游戏大佬又双叒叕出手",
+        "link": "https://www.tmtpost.com/7788213.html",
+        "published_date": "Sun, 30 Nov 2025 08:48:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085847"
+      },
+      "9969d04ba1dc6702e308a9e89124c6e20e0aae11c42c878b83a7baed9d0be37b": {
+        "title": "3.4万亿字节，搞不定“游戏梦”？",
+        "link": "https://www.tmtpost.com/7788224.html",
+        "published_date": "Sun, 30 Nov 2025 08:44:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085848"
+      },
+      "a327b989920a4ebcfc528d78ebb7a40144c0ed8dbf3a63e51ad2b5a8f1c0245e": {
+        "title": "迪士尼懂什么《疯狂动物城》？",
+        "link": "https://www.tmtpost.com/7788239.html",
+        "published_date": "Sun, 30 Nov 2025 08:35:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085850"
+      },
+      "ac5ce00dd365ca429f5cdc15ce54ca6448ae05ef789b2486b78701ab143e7254": {
+        "title": "李嘉诚要把屈臣氏，同时卖给香港和伦敦",
+        "link": "https://www.tmtpost.com/7788253.html",
+        "published_date": "Sun, 30 Nov 2025 08:29:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085851"
+      },
+      "aca9681c2eb273904f74f61ab8fbed9c0be8a44c8a3d3a102ee0e2312eed1bf0": {
+        "title": "星星充电凭什么拿下美国32GWh/228亿超级储能大单？",
+        "link": "https://www.tmtpost.com/7788130.html",
+        "published_date": "Sun, 30 Nov 2025 08:19:00 GMT",
+        "first_seen": "2025-11-30T05:21:07.085853"
       }
     },
     "Finance": {
@@ -12984,13 +13044,25 @@
         "link": "https://www.jiqizhixin.com/articles/2025-11-29",
         "published_date": "Sat, 29 Nov 2025 20:38:00 GMT",
         "first_seen": "2025-11-29T23:20:06.383090"
+      },
+      "3c41fe3a34c18276b4528b31c4c3a7db11a58720c21be7523eb632010c9a5625": {
+        "title": "混元OCR模型核心技术揭秘：统一框架、真端到端",
+        "link": "https://www.qbitai.com/2025/11/357456.html",
+        "published_date": "Sun, 30 Nov 2025 02:36:00 GMT",
+        "first_seen": "2025-11-30T05:20:57.636692"
+      },
+      "724072e63ef6473176910a0cf3d588f524dd44cb6a6fc4dff90d60a6c71cc640": {
+        "title": "华尔街尬捧TPU学术界懵了：何恺明5年前就是TPU编程高手，多新鲜",
+        "link": "https://www.qbitai.com/2025/11/357440.html",
+        "published_date": "Sun, 30 Nov 2025 02:15:00 GMT",
+        "first_seen": "2025-11-30T05:20:57.636701"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-11-29T23:20:06.439196",
+    "Technology": "2025-11-30T05:21:07.085856",
     "Finance": "2025-11-29T23:20:06.259999",
-    "Ai": "2025-11-29T23:20:06.383092"
+    "Ai": "2025-11-30T05:20:57.636704"
   }
 }
