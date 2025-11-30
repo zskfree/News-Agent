@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-30 08:26
+**最后更新时间**: 2025-11-30 23:19
+
+---
+
+## 🆕 最新更新 (2025-11-30 23:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukraine says it held ‘difficult but productive’ talks with US on peace plan](https://www.ft.com/content/feea78a5-364a-4296-895b-a68323fe4944)
+**发布时间**: 2025-11-30 23:09
+
+#### [Starmer to launch fresh push for welfare spending reform](https://www.ft.com/content/1794e059-71e4-4159-be4b-902a20a1bec6)
+**发布时间**: 2025-11-30 22:32
+
+#### [Nato considers being ‘more aggressive’ against Russia’s hybrid warfare](https://www.ft.com/content/dbd93caa-3c62-48bb-9eba-08c25f31ab02)
+**发布时间**: 2025-11-30 21:00
+
+#### [US strike on Venezuelan vessel could be war crime, say lawmakers](https://www.ft.com/content/16a45061-99a6-4db3-a361-6d960d32335c)
+**发布时间**: 2025-11-30 20:05
+
+#### [Accenture dubs its 800,000 staff ‘reinventors’ as it adapts to AI](https://www.ft.com/content/668944f0-4fb5-4d0a-a86a-93a0ffd0e57e)
+**发布时间**: 2025-11-30 18:00
+
+#### [AI doesn’t add up if you neglect the mathematicians](https://www.ft.com/content/b05318d1-12e5-49f1-9950-47e8b0f809ae)
+**发布时间**: 2025-11-30 16:00
+
+#### [Swiss voters reject 50% inheritance tax for the super-rich](https://www.ft.com/content/f03fdcf8-d032-40ef-9ea1-ff32c182df8a)
+**发布时间**: 2025-11-30 13:03
+
+#### [Labour has already broken its manifesto commitments](https://www.ft.com/content/8911169a-ccad-4f8a-ae92-963cca775f6d)
+**发布时间**: 2025-11-30 12:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Could ‘Stranger Things’ be the next ‘Star Wars’-style franchise? The Netflix show has already earned $1 billion.](https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories)
+**发布时间**: 2025-11-30 20:31
+
+#### [These 5 charts hint at where stocks might go next after a wild November for the market](https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583?mod=mw_rss_topstories)
+**发布时间**: 2025-11-30 17:00
+
+#### [Tesla’s Cybertruck is turning 2. It’s been a big flop.](https://www.marketwatch.com/story/teslas-cybertruck-is-turning-2-its-been-a-big-flop-587eb398?mod=mw_rss_topstories)
+**发布时间**: 2025-11-30 16:07
+
+#### [Here’s what’s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories)
+**发布时间**: 2025-11-30 12:00
 
 ---
 
