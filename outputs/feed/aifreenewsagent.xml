@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 30 Nov 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2025 05:20:57 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 08:26:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>混元OCR模型核心技术揭秘：统一框架、真端到端</title>
-      <link>https://www.qbitai.com/2025/11/357456.html</link>
-      <description>&lt;![CDATA[混元OCR模型核心技术揭秘：统一框架、真端到端]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 02:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357456.html</guid>
+      <title>阶跃开源4B Agent模型，跑通所有安卓设备，手搓党一键部署</title>
+      <link>https://www.qbitai.com/2025/11/357627.html</link>
+      <description>&lt;![CDATA[阶跃开源4B Agent模型，跑通所有安卓设备，手搓党一键部署]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357627.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华尔街尬捧TPU学术界懵了：何恺明5年前就是TPU编程高手，多新鲜</title>
-      <link>https://www.qbitai.com/2025/11/357440.html</link>
-      <description>&lt;![CDATA[华尔街尬捧TPU学术界懵了：何恺明5年前就是TPU编程高手，多新鲜]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 02:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357440.html</guid>
+      <title>居然有21%的ICLR 2026评审纯用AI生成…</title>
+      <link>https://www.qbitai.com/2025/11/357579.html</link>
+      <description>&lt;![CDATA[居然有21%的ICLR 2026评审纯用AI生成…]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 06:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357579.html</guid>
       <category>Ai</category>
     </item>
   </channel>

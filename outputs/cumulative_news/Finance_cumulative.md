@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-29 23:19
+**最后更新时间**: 2025-11-30 08:26
+
+---
+
+## 🆕 最新更新 (2025-11-30 08:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How time became money: clocks, capitalism and wealth](https://www.ft.com/content/696d9ced-9022-49bc-9cd9-501fce897146)
+**发布时间**: 2025-11-30 05:00
+
+#### [OpenAI’s lead under pressure as rivals start to close the gap](https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3)
+**发布时间**: 2025-11-30 05:00
+
+#### [Morgan Stanley and Goldman dominate Hong Kong equity deals](https://www.ft.com/content/58155300-5c0d-47ce-90fa-2350cd43ffff)
+**发布时间**: 2025-11-30 05:00
+
+#### [Switzerland votes on 50% inheritance tax for the super-rich](https://www.ft.com/content/f03fdcf8-d032-40ef-9ea1-ff32c182df8a)
+**发布时间**: 2025-11-30 05:00
+
+#### [Health minister says UK should cash in on NHS patient data](https://www.ft.com/content/0531e76b-a800-450f-8a10-ac5ada1b2695)
+**发布时间**: 2025-11-30 05:00
+
+#### [China services activity hits three-year low while factory slump persists](https://www.ft.com/content/d6470584-f019-499c-bd27-839d2373f7f6)
+**发布时间**: 2025-11-30 04:53
 
 ---
 
