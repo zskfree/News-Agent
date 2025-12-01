@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Dec 2025 08:34:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 08:34:12 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 23:21:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国产手机开抢 GUI Agent 落地，中兴涨停！豆包、阶跃星辰大模型率先入局</title>
+      <title>13岁靠「氛围编程」创业，见奥特曼、拜访a16z，他的暑假把成年人卷哭</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-16</link>
+      <description>&lt;![CDATA[13岁靠「氛围编程」创业，见奥特曼、拜访a16z，他的暑假把成年人卷哭]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-16</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AAAI 2026 | 首个抗端到端攻击的大模型加密指纹 / 水印方案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-15</link>
+      <description>&lt;![CDATA[AAAI 2026 | 首个抗端到端攻击的大模型加密指纹 / 水印方案]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-15</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-14</link>
+      <description>&lt;![CDATA[陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-14</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国产手机开抢 GUI Agent 落地，豆包、阶跃星辰大模型率先入局</title>
       <link>https://www.jiqizhixin.com/articles/2025-12-01-13</link>
-      <description>&lt;![CDATA[国产手机开抢 GUI Agent 落地，中兴涨停！豆包、阶跃星辰大模型率先入局]]&gt;</description>
+      <description>&lt;![CDATA[国产手机开抢 GUI Agent 落地，豆包、阶跃星辰大模型率先入局]]&gt;</description>
       <pubDate>Mon, 01 Dec 2025 16:12:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>显著拓展应用边界，大卫·贝克团队提出核酸逆折叠统一模型NA-MPNN</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-01-11</link>
-      <description>&lt;![CDATA[显著拓展应用边界，大卫·贝克团队提出核酸逆折叠统一模型NA-MPNN]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-11</guid>
+      <title>无自研手机计划，豆包发布手机助手技术预览版</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-17</link>
+      <description>&lt;![CDATA[无自研手机计划，豆包发布手机助手技术预览版]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-17</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>突破性进展！联想万全异构智算研发团队论文入选IEEE CyberSciTech 2025</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-01-12</link>
-      <description>&lt;![CDATA[突破性进展！联想万全异构智算研发团队论文入选IEEE CyberSciTech 2025]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-12</guid>
+      <title>字节“豆包手机”刚开卖，吉利系进展也曝光了：首月速成200人团队，挖遍华为小米荣耀</title>
+      <link>https://www.qbitai.com/2025/12/357919.html</link>
+      <description>&lt;![CDATA[字节“豆包手机”刚开卖，吉利系进展也曝光了：首月速成200人团队，挖遍华为小米荣耀]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357919.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>6小时告破30年数学难题，亚里士多德一夜成名</title>
-      <link>https://www.qbitai.com/2025/12/357656.html</link>
-      <description>&lt;![CDATA[6小时告破30年数学难题，亚里士多德一夜成名]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 06:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357656.html</guid>
+      <title>DeepSeek-V3.2系列开源，性能直接对标Gemini-3.0-Pro</title>
+      <link>https://www.qbitai.com/2025/12/357904.html</link>
+      <description>&lt;![CDATA[DeepSeek-V3.2系列开源，性能直接对标Gemini-3.0-Pro]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357904.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>免费国产Banana真香！我想把PS给卸载了</title>
+      <link>https://www.qbitai.com/2025/12/357861.html</link>
+      <description>&lt;![CDATA[免费国产Banana真香！我想把PS给卸载了]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357861.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>deepseek当选网易有道词典2025年度词汇，全年搜索量超867万次</title>
+      <link>https://www.qbitai.com/2025/12/357854.html</link>
+      <description>&lt;![CDATA[deepseek当选网易有道词典2025年度词汇，全年搜索量超867万次]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357854.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>6B文生图模型，上线即登顶抱抱脸</title>
+      <link>https://www.qbitai.com/2025/12/357776.html</link>
+      <description>&lt;![CDATA[6B文生图模型，上线即登顶抱抱脸]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357776.html</guid>
       <category>Ai</category>
     </item>
   </channel>

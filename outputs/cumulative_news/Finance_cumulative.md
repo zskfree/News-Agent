@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-01 08:34
+**最后更新时间**: 2025-12-01 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-01 23:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple is making a big shakeup as it looks for an edge in AI](https://www.marketwatch.com/story/apple-is-making-a-big-shakeup-as-it-looks-for-an-edge-in-ai-d183a451?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 23:00
+
+#### [U.S. stocks see shaky start to December in post-Thanksgiving ‘hangover’](https://www.marketwatch.com/story/u-s-stocks-see-shaky-start-to-december-in-post-thanksgiving-hangover-a9f91a07?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 22:37
+
+#### [Here’s a new way to shave hundreds of dollars off your tax bill — but it might make you feel like Scrooge on Giving Tuesday](https://www.marketwatch.com/story/heres-a-new-way-to-shave-hundreds-of-dollars-off-your-tax-bill-but-it-might-make-you-feel-like-scrooge-on-giving-tuesday-c186f469?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 21:26
+
+#### [Bank of Japan’s Ueda rattles global bond markets with the prospect of a rate hike this month](https://www.marketwatch.com/story/bank-of-japans-ueda-rattles-global-bond-markets-with-the-prospect-of-a-rate-hike-this-month-73e6e290?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 21:02
+
+#### [Will bitcoin keep dropping? Why this technical analyst is eyeing a turnaround as soon as Tuesday.](https://www.marketwatch.com/story/will-bitcoin-keep-dropping-why-this-technical-analyst-is-eyeing-a-turnaround-as-soon-as-tuesday-f8406499?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 20:40
+
+#### [‘She’ll let him live there for free’: My sister wants to buy our impoverished brother’s house. Is that a bad idea?](https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 20:00
+
+#### [‘She’s young enough to be his granddaughter’: My dad, 85, is being seduced by his caregiver. What can I do?](https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 19:22
+
+#### [Nvidia’s stock is almost historically cheap — and that’s a good sign for bulls](https://www.marketwatch.com/story/nvidias-stock-is-almost-historically-cheap-and-thats-a-good-sign-for-bulls-a2c5a9e2?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 19:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off](https://www.ft.com/content/b7fdf1c7-c819-4687-8827-a5e3efd39a13)
+**发布时间**: 2025-12-01 21:08
+
+#### [Global bonds slide after hawkish Bank of Japan comments](https://www.ft.com/content/1fa982a7-90b9-4499-bdb5-cf95ac61c75c)
+**发布时间**: 2025-12-01 21:04
+
+#### [Head of UK fiscal watchdog quits after Budget leak](https://www.ft.com/content/a275a23b-a02e-490a-8ff2-c0dca0dc4d41)
+**发布时间**: 2025-12-01 20:47
+
+#### [How Britain’s ‘fiercely independent’ fiscal watchdog came undone](https://www.ft.com/content/cc830833-bae1-4438-b598-94c953154a49)
+**发布时间**: 2025-12-01 19:31
+
+#### [Starmer accused of creating new welfare trap by scrapping two-child benefit cap](https://www.ft.com/content/3ac91ba2-1f07-427d-a8b2-d6c8cd9228d6)
+**发布时间**: 2025-12-01 18:09
+
+#### [Blackstone, Apollo and KKR sign up to UK stress test of private credit](https://www.ft.com/content/31387dbd-6a86-4449-8ea1-4de0e8861615)
+**发布时间**: 2025-12-01 17:55
+
+#### [Steve Cohen moves closer to gaining lucrative New York City casino licence](https://www.ft.com/content/9fe3f250-4fc4-46be-821c-a730e6a6556b)
+**发布时间**: 2025-12-01 17:48
+
+#### [Starmer admits he planned to break manifesto pledge on income tax](https://www.ft.com/content/ca18ff74-23dc-403a-b211-8734a80d2275)
+**发布时间**: 2025-12-01 13:09
+
+#### [Trump, Xi, Putin and the strongman race](https://www.ft.com/content/00910b52-72c7-4e0d-9bc5-b54f4f86f094)
+**发布时间**: 2025-12-01 12:59
+
+#### [Yen rises and bonds fall after BoJ governor hints at rate increase](https://www.ft.com/content/673f8283-79db-462c-9b07-8b44fc1edb69)
+**发布时间**: 2025-12-01 10:08
+
+#### [How banks fuel the private credit boom](https://www.ft.com/content/535b3d0c-429c-4e67-a73d-3513e4e730d8)
+**发布时间**: 2025-12-01 05:00
 
 ---
 

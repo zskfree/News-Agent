@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-01 08:34
+**最后更新时间**: 2025-12-01 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-01 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [ByteDance Joins Hands with ZTE to Integrate Doubao AI Agent into Smartphones](https://www.tmtpost.com/7790511.html)
+**发布时间**: 2025-12-02 00:36
+
+#### [陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因](https://www.tmtpost.com/7790438.html)
+**发布时间**: 2025-12-01 23:13
+
+#### [DeepSeek发布最强开源新品，瞄向全能Agent，给GPT-5与Gemini 3下战书](https://www.tmtpost.com/7790339.html)
+**发布时间**: 2025-12-01 22:50
+
+#### [诺奖得主萨金特港大最新演讲：AI的突破本质上是经济学的数百年进化（万字实录）](https://www.tmtpost.com/7788265.html)
+**发布时间**: 2025-12-01 22:28
+
+#### [蛰伏后的爆发：思灵机器人从工业场景迈向物理AI](https://www.tmtpost.com/7789629.html)
+**发布时间**: 2025-12-01 21:09
+
+#### [20亿加码子公司、国资陆续离场，沃森生物弃权票背后的周期挑战与战略权衡丨并购一线](https://www.tmtpost.com/7790200.html)
+**发布时间**: 2025-12-01 20:45
+
+#### [碳化硅的真需求](https://www.tmtpost.com/7790012.html)
+**发布时间**: 2025-12-01 19:14
+
+#### [外卖大战，必定会打下半场](https://www.tmtpost.com/7788805.html)
+**发布时间**: 2025-12-01 19:13
+
+#### [2025年搜索大战，为何没有输家](https://www.tmtpost.com/7789870.html)
+**发布时间**: 2025-12-01 19:13
+
+#### [ChatGPT三周年，那个“对话模型”如何重构我们的世界](https://www.tmtpost.com/7789954.html)
+**发布时间**: 2025-12-01 19:13
+
+#### [大疆与前员工们的无限战争](https://www.tmtpost.com/7789298.html)
+**发布时间**: 2025-12-01 18:34
+
+#### [土味营销的跑马圈地接近结束](https://www.tmtpost.com/7789559.html)
+**发布时间**: 2025-12-01 18:34
+
+#### [机器人泡沫大讨论：揭秘“虚火”下的真实逻辑](https://www.tmtpost.com/7789549.html)
+**发布时间**: 2025-12-01 18:19
+
+#### [在华与华上过班的人，会不会也嘲笑华杉？](https://www.tmtpost.com/7789825.html)
+**发布时间**: 2025-12-01 17:52
+
+#### [ChatGPT三周岁了，什么最让你意外？](https://www.tmtpost.com/7789645.html)
+**发布时间**: 2025-12-01 17:45
+
+#### [医疗行业的AI转型](https://www.tmtpost.com/7789032.html)
+**发布时间**: 2025-12-01 17:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [全球首富马斯克最新访谈：未来15年内，人类不再因为钱而工作，而是因为爱好](https://www.infoq.cn/article/Y4LaHVls6NHaedaoi2fw?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 19:00
+
+#### [Evalite 横空出世：AI 驱动应用的 TypeScript 测试利器](https://www.infoq.cn/article/7UpXOLT5ZBpiLahsZauh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 17:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [首销备货 3 万台，豆包 AI 手机要卖给谁？](http://www.geekpark.net/news/357510)
+**发布时间**: 2025-12-01 18:13
+
+#### [一码难求的动画 Agent 导演，离「疯狂动物城」还有多远？｜AI 上新](http://www.geekpark.net/news/357509)
+**发布时间**: 2025-12-01 18:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/104216)
+**发布时间**: 2025-12-01 18:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [七星山荒野求生火了，这类节目未来会走向何方？](http://www.huxiu.com/article/4811054.html?f=wangzhan)
+**发布时间**: 2025-12-01 18:00
 
 ---
 
