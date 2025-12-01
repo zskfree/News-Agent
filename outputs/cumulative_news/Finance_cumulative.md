@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-01 05:29
+**最后更新时间**: 2025-12-01 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-01 08:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Carnival, NCL and Royal Caribbean have Cyber Monday cruise sales. But is now the best time to shop for a deal?](https://www.marketwatch.com/story/this-years-black-friday-cruise-deals-can-save-you-hundreds-of-dollars-six-tips-for-shopping-the-sales-c48c593b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 07:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ex-UK minister Tulip Siddiq receives two-year jail sentence in Bangladesh](https://www.ft.com/content/935b28d0-9a63-4e14-936e-60ef0abe7dd5)
+**发布时间**: 2025-12-01 07:27
 
 ---
 
