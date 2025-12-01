@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-30 23:19
+**最后更新时间**: 2025-12-01 05:29
+
+---
+
+## 🆕 最新更新 (2025-12-01 05:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Will Volkswagen’s radical revamp be enough?](https://www.ft.com/content/a41f0a45-e13a-42f2-b9a6-9d40fa113f32)
+**发布时间**: 2025-12-01 05:00
+
+#### [HSBC and another chaotic chair search](https://www.ft.com/content/54abb804-eb51-4778-bead-38c6dd85eab3)
+**发布时间**: 2025-12-01 05:00
+
+#### [The best time to buy quality stocks is now](https://www.ft.com/content/98bcb80f-d629-4533-9f30-6a2f74558996)
+**发布时间**: 2025-12-01 05:00
+
+#### [Revolut did not tell UK regulators CEO was listed as UAE resident](https://www.ft.com/content/1f983a8c-3729-4cf1-920e-7fab756e318f)
+**发布时间**: 2025-12-01 05:00
+
+#### [Top consultancies freeze starting salaries as AI threatens ‘pyramid’ model](https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be)
+**发布时间**: 2025-12-01 05:00
+
+#### [Trading firm XTX donates £26mn for maths research at UK universities](https://www.ft.com/content/f994e04b-ec21-4ec4-8cb7-7092cb144ee1)
+**发布时间**: 2025-12-01 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures dip after last week’s rally capped a rocky November](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-to-end-2025-on-a-high-note-f82b11be?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 04:04
 
 ---
 

@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-30 23:19
+**最后更新时间**: 2025-12-01 05:29
+
+---
+
+## 🆕 最新更新 (2025-12-01 05:29)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [昨晚，李想终于承认，他们走错了方向](http://www.geekpark.net/news/357486)
+**发布时间**: 2025-12-01 13:25
+
+#### [罗永浩：周一有大事官宣；《阿凡达》导演卡梅隆：生成式 AI「太可怕了」；《疯狂动物城2》刷新中国影史纪录｜极客早知道](http://www.geekpark.net/news/357449)
+**发布时间**: 2025-12-01 08:01
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [流感新药扎堆上市，谁才是真正的“顶流”？](https://www.tmtpost.com/7789048.html)
+**发布时间**: 2025-12-01 13:22
+
+#### [发改委给人形机器人产业“泼冷水”，“宇树”们将何去何从？| 马上评](https://www.tmtpost.com/7789232.html)
+**发布时间**: 2025-12-01 11:53
+
+#### [《唐诡》距成为长视频第一IP还有多远？](https://www.tmtpost.com/7788852.html)
+**发布时间**: 2025-12-01 11:40
+
+#### [《疯狂动物城2》卖爆，好莱坞又行了？](https://www.tmtpost.com/7788947.html)
+**发布时间**: 2025-12-01 10:54
+
+#### [80%的18A拟IPO企业，不能躺着上市了](https://www.tmtpost.com/7788761.html)
+**发布时间**: 2025-12-01 10:00
+
+#### [短剧顶流日进斗金，他们却在艰难讨薪](https://www.tmtpost.com/7788747.html)
+**发布时间**: 2025-12-01 08:00
+
+#### [【钛晨报】央行牵头多部门联合部署，持续严打虚拟货币交易炒作；中国移动为何被调出上证50指数？市场人士释疑；国家航天局设立商业航天司](https://www.tmtpost.com/7788631.html)
+**发布时间**: 2025-12-01 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AnalogJS 2.0：基于Angular的全栈框架，引入了内容管理和更精简的构建](https://www.infoq.cn/article/gyrPt6j8gYuylLtBpvx7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 12:00
+
+#### [工商银行软件开发中心研发管理系统权限体系的探索与实践](https://www.infoq.cn/article/eGcf5xHFCVJp4Gy5XLVf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 11:23
+
+#### [Netflix通过中心化的平台架构解决了大规模数据删除的问题](https://www.infoq.cn/article/Xi4fC5EXV7PsJlMZaL9e?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 10:53
+
+#### [谷歌预览Antigravity：代理AI的发展及早期采用者面临的挑战](https://www.infoq.cn/article/PZCqoGXjYpTYJY7TtJhe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 10:28
+
+#### [某车企录音曝光，周六没加班被逼离职？腾讯员工工作满15年即可退休，一次性领21个月工资；一个Bug致审稿人信息全泄露，学术圈大乱 | AI 周报](https://www.infoq.cn/article/QrGb7ddAcEhFIkbWUh02?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 10:21
+
+#### [高中辍学闯进 OpenAI：拒绝Vibe Coding，用 ChatGPT 自学逆袭成 Sora 团队研究科学家](https://www.infoq.cn/article/IhkHVUd5Kiu7Kbt3V7dq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 09:56
+
+#### [架构师（2025年第二季）](https://www.infoq.cn/minibook/V8WL8Y6T5wLw4yZtmIE1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 09:51
+
+#### [人间清醒Linus：不玩AI编程工具，却为Vibe Coding点了个赞，还爆料AI治服了当年被他怒喷的英伟达](https://www.infoq.cn/article/kb3v7mhrMWo6t0CPvxp7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 09:48
+
+#### [Scaling 时代落幕：Ilya 眼中下一代 AI 的关键，不在模型，在人类](https://www.infoq.cn/article/6JSMvjN3ecE589w2QR6z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 09:45
+
+#### [25000 美元卖公司内部截图，丢了饭碗还要吃牢饭！大厂百万年薪抢招“内鬼分析师”，围剿下一个“自己人”](https://www.infoq.cn/article/xJEbBwfUzoN6jKeSd7FF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 09:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [聊聊被低估的 Notion Agent，迷人的自动化工作流](https://sspai.com/post/104178)
+**发布时间**: 2025-12-01 11:27
+
+#### [派早报：取款超 5 万将不再需要登记](https://sspai.com/post/104201)
+**发布时间**: 2025-12-01 08:59
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [《疯狂动物城2》卖爆，好莱坞又行了？](http://www.huxiu.com/article/4811770.html?f=wangzhan)
+**发布时间**: 2025-12-01 10:10
 
 ---
 

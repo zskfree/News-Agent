@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 30 Nov 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2025 23:19:44 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 05:29:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 05:29:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-30-5</link>
-      <description>&lt;![CDATA[15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 21:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-5</guid>
+      <title>夸克x千问，AI浏览器还能这么玩？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-10</link>
+      <description>&lt;![CDATA[夸克x千问，AI浏览器还能这么玩？]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>空间智能再进化！Spatial-SSRL帮助LVLM更好读懂空间</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-30-4</link>
-      <description>&lt;![CDATA[空间智能再进化！Spatial-SSRL帮助LVLM更好读懂空间]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 21:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-4</guid>
+      <title>影响有多大？ICLR开盒大瓜后，OpenReview公布真相</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-9</link>
+      <description>&lt;![CDATA[影响有多大？ICLR开盒大瓜后，OpenReview公布真相]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>那些年，AI创始人创业有多奇葩</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-30-3</link>
-      <description>&lt;![CDATA[那些年，AI创始人创业有多奇葩]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 21:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-3</guid>
+      <title>NeurIPS 2025 | DePass：通过单次前向传播分解实现统一的特征归因</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-8</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | DePass：通过单次前向传播分解实现统一的特征归因]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>泄露代码显示，OpenAI要往ChatGPT里插广告了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-30-2</link>
-      <description>&lt;![CDATA[泄露代码显示，OpenAI要往ChatGPT里插广告了]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 21:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-2</guid>
+      <title>无需标注图像，VLM也能「自我进化」！RL自我进化框架VisPlay突破视觉推理难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-7</link>
+      <description>&lt;![CDATA[无需标注图像，VLM也能「自我进化」！RL自我进化框架VisPlay突破视觉推理难题]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NeurIPS 2025 | Language Ranker：从推荐系统的视角反思并优化大模型解码过程</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-30</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | Language Ranker：从推荐系统的视角反思并优化大模型解码过程]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 21:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30</guid>
+      <title>从“技术赋能”到“系统重构”：商汤以“世界模型”推动智慧医疗未来持续进化</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-6</link>
+      <description>&lt;![CDATA[从“技术赋能”到“系统重构”：商汤以“世界模型”推动智慧医疗未来持续进化]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>千寻位置时空智能为第十五届全运会保驾护航</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-5</link>
+      <description>&lt;![CDATA[千寻位置时空智能为第十五届全运会保驾护航]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>统一模型真的从“统一”中受益了吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-3</link>
+      <description>&lt;![CDATA[统一模型真的从“统一”中受益了吗？]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>暗物质的痕迹可能终于在银河的光芒中被发现</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-4</link>
+      <description>&lt;![CDATA[暗物质的痕迹可能终于在银河的光芒中被发现]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI独立解决三十年数学问题的变体，陶哲轩分享自动化研究经验</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01-2</link>
+      <description>&lt;![CDATA[AI独立解决三十年数学问题的变体，陶哲轩分享自动化研究经验]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 | 英伟达发布Nemotron-Flash：以GPU延迟为核心重塑小模型架构</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-01</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | 英伟达发布Nemotron-Flash：以GPU延迟为核心重塑小模型架构]]&gt;</description>
+      <pubDate>Mon, 01 Dec 2025 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-01</guid>
       <category>Ai</category>
     </item>
   </channel>
