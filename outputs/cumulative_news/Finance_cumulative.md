@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-02 08:31
+**最后更新时间**: 2025-12-02 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-02 23:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Okta’s CEO says investors are getting two big things wrong about AI and software](https://www.marketwatch.com/story/oktas-ceo-says-investors-are-getting-two-big-things-wrong-about-ai-and-software-77d9cb2d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 23:10
+
+#### [Why Marvell’s stock is soaring toward its best day in months after earnings](https://www.marketwatch.com/story/why-marvells-stock-is-soaring-toward-its-best-day-in-months-after-earnings-1863cc08?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 23:01
+
+#### [American Eagle had Sydney Sweeney. But its lesser-known lingerie brand carried the day.](https://www.marketwatch.com/story/american-eagle-had-sydney-sweeney-but-this-lesser-known-lingerie-brand-carried-the-day-in-third-quarter-2263d400?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 22:17
+
+#### [The Fed may need to act as potential trouble brews in a key corner of the financial market](https://www.marketwatch.com/story/the-fed-may-need-to-act-as-potential-trouble-brews-in-a-key-corner-of-the-financial-market-2256f1b2?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 22:05
+
+#### [Everyone’s waiting for a rate cut — but the Fed has already made its big money move](https://www.marketwatch.com/story/everyones-waiting-for-a-rate-cut-but-the-fed-has-already-made-its-big-money-move-e511e902?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 21:57
+
+#### [Who qualifies for the ‘Trump accounts’ for kids? Michael and Susan Dell just donated $6.25 billion as seed money.](https://www.marketwatch.com/story/who-qualifies-for-the-trump-accounts-for-kids-michael-and-susan-dell-just-donated-6-25-billion-as-seed-money-4453d700?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 21:31
+
+#### [Boeing led the stock market higher today, as next year’s cash flow is looking better](https://www.marketwatch.com/story/boeing-is-leading-the-stock-market-higher-today-as-next-years-cash-flow-is-looking-better-b42b4374?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 21:23
+
+#### [How the next Fed chair could turn bonds into a far riskier investment](https://www.marketwatch.com/story/how-the-next-fed-chair-could-turn-bonds-into-a-far-riskier-investment-a0667f9d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 21:03
+
+#### [Getting engaged? There’s a rising chance your ring will have a lab-grown diamond.](https://www.marketwatch.com/story/getting-engaged-theres-a-rising-chance-your-ring-will-have-a-lab-grown-diamond-68e19948?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 20:44
+
+#### [Vanguard finally dips a toe into crypto waters as bitcoin rebounds above $91,000](https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 20:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Talks between Russia and US on Ukraine were useful but work remains, says Putin aide](https://www.ft.com/content/10ddfbad-a28e-4918-b52c-0e9724ed8fa2)
+**发布时间**: 2025-12-02 22:57
+
+#### [Farage tells donors he expects Reform UK will do an election deal with Tories](https://www.ft.com/content/ecf577aa-7049-4f72-bdd0-ec566accae33)
+**发布时间**: 2025-12-02 21:00
+
+#### [Trump says he will nominate Fed chair in ‘early’ 2026](https://www.ft.com/content/d84661cb-26e6-4f55-8096-8ab4a8d47755)
+**发布时间**: 2025-12-02 20:37
+
+#### [Jaguar Land Rover parts ways with longtime design boss](https://www.ft.com/content/0e122beb-9769-419a-8660-ac58cfa89dde)
+**发布时间**: 2025-12-02 19:02
+
+#### [It’s time to sound the alarm on growing fiscal and financial risk](https://www.ft.com/content/fd094d3e-01b4-4f1c-838c-bc1ffb493a02)
+**发布时间**: 2025-12-02 17:23
+
+#### [Barclays chief says Revolut benefits from lack of UK banking licence](https://www.ft.com/content/1e333c04-147f-41dd-be0b-b24589be87e2)
+**发布时间**: 2025-12-02 17:21
+
+#### [New capital rules from Bank of England will support growth](https://www.ft.com/content/efb2d08e-0fe2-413b-b67e-c3598a4e233b)
+**发布时间**: 2025-12-02 16:35
+
+#### [OpenAI’s Sam Altman declares ‘code red’ after rivals make advances](https://www.ft.com/content/7a42396f-487a-47b0-8121-8d8f2112fa53)
+**发布时间**: 2025-12-02 10:28
 
 ---
 

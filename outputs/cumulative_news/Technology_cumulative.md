@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-02 08:31
+**最后更新时间**: 2025-12-02 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-02 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Amazon Rolls Out First 3nm AI Chip Trainium3, Challenging Nvidia and Google](https://www.tmtpost.com/7793035.html)
+**发布时间**: 2025-12-03 02:44
+
+#### [Amazon Launches New Nova Models, Pioneers 'Open Training' with Nova Forge](https://www.tmtpost.com/7793032.html)
+**发布时间**: 2025-12-03 02:33
+
+#### [22亿！LED照企收购东莞硅翔预案披露；盐化工龙头拟2.61亿元收购美特新材41%股权；【并购一线】](https://www.tmtpost.com/7792919.html)
+**发布时间**: 2025-12-02 23:10
+
+#### [茂业商业五连板巨震：游资击鼓传花，大股东峰顶减持，谁是最后一棒？](https://www.tmtpost.com/7792811.html)
+**发布时间**: 2025-12-02 21:43
+
+#### [英伟达开源最新VLA，能否破局L4自动驾驶？](https://www.tmtpost.com/7792696.html)
+**发布时间**: 2025-12-02 20:56
+
+#### [9折“卖子”，金种子酒“弃药从酒”落地，主业突围仍艰难](https://www.tmtpost.com/7792184.html)
+**发布时间**: 2025-12-02 20:47
+
+#### [高乐股份二度易主：旧主三年套现4.1亿“撤退”，90后AI背景新主接盘](https://www.tmtpost.com/7792648.html)
+**发布时间**: 2025-12-02 20:46
+
+#### [“亏损”收购“亏损”，园林股份跨界半导体遭监管拷问​](https://www.tmtpost.com/7792720.html)
+**发布时间**: 2025-12-02 20:44
+
+#### [相变液冷技术创新企业中科千乘完成数千万元天使轮融资 | 融资速递](https://www.tmtpost.com/7792178.html)
+**发布时间**: 2025-12-02 20:32
+
+#### [谷歌让OpenAI坐立不安，这对甲骨文和微软来说是个问题](https://www.tmtpost.com/7792702.html)
+**发布时间**: 2025-12-02 20:31
+
+#### [英伟达股价上涨，正向谷歌发起挑战](https://www.tmtpost.com/7792700.html)
+**发布时间**: 2025-12-02 20:31
+
+#### [DeepSeek Unveils Its Most Powerful Open-source Innovation, Challenging GPT-5 and Gemini 3](https://www.tmtpost.com/7792682.html)
+**发布时间**: 2025-12-02 20:13
+
+#### [Yearender: Solid-State Battery's Elusive Commercialization Amid Capital Frenzy](https://www.tmtpost.com/7792674.html)
+**发布时间**: 2025-12-02 20:07
+
+#### [天际科技投资创始人张倩：到2030年，中国的AI实力将全面超越美国｜投资人说](https://www.tmtpost.com/7792643.html)
+**发布时间**: 2025-12-02 19:38
+
+#### [滴滴战投领投，无论科技完成数千万元Pre-A轮融资，加速仿生表情机器人落地](https://www.tmtpost.com/7792602.html)
+**发布时间**: 2025-12-02 19:15
+
+#### [夸克S1眼镜硬件普通，阿里的发力方向存疑](https://www.tmtpost.com/7790783.html)
+**发布时间**: 2025-12-02 19:08
+
+#### [一年卖出40亿片，山东这块钙奶饼干，火，也上火](https://www.tmtpost.com/7792243.html)
+**发布时间**: 2025-12-02 19:08
+
+#### [“富贵鸟”撕开了多少企业的“规模幻觉”？](https://www.tmtpost.com/7792318.html)
+**发布时间**: 2025-12-02 19:07
+
+#### [“古装四宝”上新，爱优腾芒打响年终“收官战”](https://www.tmtpost.com/7792466.html)
+**发布时间**: 2025-12-02 19:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 2025 世界开发者说-DAY1 | 初入奇境：现场哪些瞬间让大家眼前一亮？](https://www.infoq.cn/video/OCaFmWj9PslEDx5l6v2z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 22:51
+
+#### [模力工场 022 周 AI 应用榜：记忆型 AI Infra PowerMem 登顶榜首，本周 AI 应用全面升级“长期主义”](https://www.infoq.cn/article/peFdKqVkXmLRsoUTGZCr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 20:00
+
+#### [Open AI危？劈柴哥独家揭秘Gemini 3为何将改写AI战局：谷歌的长期主义与半年重大突破节奏](https://www.infoq.cn/article/iqTUt3jv9HYVkiXj5Mld?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 19:14
+
+#### [Hinton最新演讲：“超级智能”或在20年内出现，AI追求自我生存可能威胁人类](https://www.infoq.cn/article/VoM9D7acGibeBgDk920y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 18:50
+
+#### [🚀亚马逊云科技 2025 re:Invent 高光时刻 - DAY1！](https://www.infoq.cn/article/WSZ0m6VsVFqB4FwdPl5Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 17:39
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [《疯狂动物城2》背后的商业帝国](http://www.huxiu.com/article/4812619.html?f=wangzhan)
+**发布时间**: 2025-12-02 20:10
+
+#### [一条视频，撕开高市背后的日本军国主义根系](http://www.huxiu.com/article/4812114.html?f=wangzhan)
+**发布时间**: 2025-12-02 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 120 | 派友十月买了啥精编版、一周热评以及迷你摩卡壶](https://sspai.com/post/104235)
+**发布时间**: 2025-12-02 17:36
 
 ---
 
