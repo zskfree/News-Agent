@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-02 05:21
+**最后更新时间**: 2025-12-02 08:31
+
+---
+
+## 🆕 最新更新 (2025-12-02 08:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇](https://www.infoq.cn/article/P3qsFR3OUbBPAu6Ks0EK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 15:55
+
+#### [亚马逊云科技推出Amazon Transform全新Agent功能，加速任意代码与应用现代化](https://www.infoq.cn/article/zN2ONkdzANWLiIMpoLH4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 15:46
+
+#### [企业级Al Agent规模化落地的避坑指南，就藏在这四大趋势里](https://www.infoq.cn/article/LDHE0QxhWuxTehd076R4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 15:30
+
+#### [全球前端岗位招聘需求断崖下降 9.89%，前端的未来究竟在哪里？](https://www.infoq.cn/article/7crXu6XVT3l4Bq2pv4aV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 15:03
+
+#### [从一次灾难性的微服务迁移恢复过程中汲取的五个重要教训](https://www.infoq.cn/article/M0jmKiV3rShBjmP6DABR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 15:00
+
+#### [降本30%、提效200%！解密星巴克日志平台的极致升级优化之道](https://www.infoq.cn/article/vkMwCE5LqMHM2pgwGDrC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 14:04
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [均价40元的捏捏，凭什么让年轻人一年剁手上万？](https://www.tmtpost.com/7791191.html)
+**发布时间**: 2025-12-02 15:32
+
+#### [离开深圳：国产机器人的“精度”在长三角](https://www.tmtpost.com/7791810.html)
+**发布时间**: 2025-12-02 15:31
+
+#### [阿里正全面转向AI叙事](https://www.tmtpost.com/7791771.html)
+**发布时间**: 2025-12-02 15:27
+
+#### [云 +AI 战略落地， 一幅全球化创新图景由此展开](https://www.tmtpost.com/7791498.html)
+**发布时间**: 2025-12-02 15:25
+
+#### [今年最火的AI医疗增长神话，中国能复制吗？](https://www.tmtpost.com/7791817.html)
+**发布时间**: 2025-12-02 15:17
+
+#### [墨西哥重启大规模探矿，狂飙90％的国际银价能否止渴？](https://www.tmtpost.com/7791725.html)
+**发布时间**: 2025-12-02 15:17
+
+#### [亏损的凯撒旅业，为何“撒钱”差点破产的张家界？](https://www.tmtpost.com/7791692.html)
+**发布时间**: 2025-12-02 15:14
+
+#### [英伟达下场，联手手术机器人企业挑战达芬奇](https://www.tmtpost.com/7791823.html)
+**发布时间**: 2025-12-02 15:13
+
+#### [4399新游表现抢眼，出海买量数据创新高](https://www.tmtpost.com/7791835.html)
+**发布时间**: 2025-12-02 15:12
+
+#### [陷入停滞后，惠民保找到新的买单方](https://www.tmtpost.com/7791843.html)
+**发布时间**: 2025-12-02 15:11
+
+#### [高星级酒店和菜市场抢生意?](https://www.tmtpost.com/7791554.html)
+**发布时间**: 2025-12-02 15:05
+
+#### [从红果7300万剧本分账看，短剧的流行趋势变了吗？](https://www.tmtpost.com/7791851.html)
+**发布时间**: 2025-12-02 15:04
+
+#### [AI最烧钱的战场：数据中心的真实账单](https://www.tmtpost.com/7791636.html)
+**发布时间**: 2025-12-02 15:03
+
+#### [安踏或考虑竞购彪马？全球运动服饰市场迎新变局](https://www.tmtpost.com/7791846.html)
+**发布时间**: 2025-12-02 14:20
+
+#### [自主行动，开启 AI 进化新篇章](https://www.tmtpost.com/7791454.html)
+**发布时间**: 2025-12-02 13:24
+
+#### [政策市场双轮驱动，婴童产品“智能化”提速，Babycare等品牌已起跑](https://www.tmtpost.com/7791307.html)
+**发布时间**: 2025-12-02 13:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
+**发布时间**: 2025-12-02 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一口气看懂驭空戟-1000的真正实力](http://www.huxiu.com/article/4811056.html?f=wangzhan)
+**发布时间**: 2025-12-02 13:30
 
 ---
 

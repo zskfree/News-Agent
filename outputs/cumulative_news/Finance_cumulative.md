@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-02 05:21
+**最后更新时间**: 2025-12-02 08:31
+
+---
+
+## 🆕 最新更新 (2025-12-02 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Demand for Japanese bonds reassures jittery markets](https://www.ft.com/content/8e191c52-a86c-4099-bbb8-05db76d06802)
+**发布时间**: 2025-12-02 08:02
+
+#### [BoE lowers capital requirements for UK banks as they pass stress tests](https://www.ft.com/content/bf67cd85-998a-4383-8199-a13d0691ad0b)
+**发布时间**: 2025-12-02 07:52
+
+#### [Apple replaces head of AI with executive poached from Microsoft](https://www.ft.com/content/bb261377-fbf8-488b-8d3e-9b92cf8a78e1)
+**发布时间**: 2025-12-02 00:05
 
 ---
 

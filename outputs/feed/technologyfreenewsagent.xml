@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 05:21:53 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 08:32:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Stripe的零停机数据转移平台以毫秒级流量切换迁移PB级数据</title>
-      <link>https://www.infoq.cn/article/b4ggCiClobYvRJH83ELp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Stripe的零停机数据转移平台以毫秒级流量切换迁移PB级数据]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/b4ggCiClobYvRJH83ELp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇</title>
+      <link>https://www.infoq.cn/article/P3qsFR3OUbBPAu6Ks0EK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/P3qsFR3OUbBPAu6Ks0EK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ChatGPT 混乱狂奔三周年：KPI 赢了一切，代价是一场致命的系统性故障</title>
-      <link>https://www.infoq.cn/article/3qW2ftQueKIqweMuWXd0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ChatGPT 混乱狂奔三周年：KPI 赢了一切，代价是一场致命的系统性故障]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3qW2ftQueKIqweMuWXd0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>亚马逊云科技推出Amazon Transform全新Agent功能，加速任意代码与应用现代化</title>
+      <link>https://www.infoq.cn/article/zN2ONkdzANWLiIMpoLH4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技推出Amazon Transform全新Agent功能，加速任意代码与应用现代化]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zN2ONkdzANWLiIMpoLH4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 研究员：Speciale证明强化学习可持续扩展！谷歌AI研究员来划技术重点</title>
-      <link>https://www.infoq.cn/article/kl8Etgwi2EdrHDMbU859?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek 研究员：Speciale证明强化学习可持续扩展！谷歌AI研究员来划技术重点]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kl8Etgwi2EdrHDMbU859?utm_source=rss&amp;utm_medium=article</guid>
+      <title>降本30%、提效200%！解密星巴克日志平台的极致升级优化之道</title>
+      <link>https://www.infoq.cn/article/vkMwCE5LqMHM2pgwGDrC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[降本30%、提效200%！解密星巴克日志平台的极致升级优化之道]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vkMwCE5LqMHM2pgwGDrC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微前端：迈向现代化前端架构的社会技术之旅</title>
-      <link>https://www.infoq.cn/article/1TQz62Q7wXK3sewmbkMG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微前端：迈向现代化前端架构的社会技术之旅]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1TQz62Q7wXK3sewmbkMG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>云 +AI 战略落地， 一幅全球化创新图景由此展开</title>
+      <link>https://www.tmtpost.com/7791498.html</link>
+      <description>&lt;![CDATA[云 +AI 战略落地， 一幅全球化创新图景由此展开]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791498.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为何谷歌文件检索技术可能取代企业自建的RAG技术栈</title>
-      <link>https://www.infoq.cn/article/k5y6sxBlVlPxkPUIe4Lo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[为何谷歌文件检索技术可能取代企业自建的RAG技术栈]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/k5y6sxBlVlPxkPUIe4Lo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>4399新游表现抢眼，出海买量数据创新高</title>
+      <link>https://www.tmtpost.com/7791835.html</link>
+      <description>&lt;![CDATA[4399新游表现抢眼，出海买量数据创新高]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791835.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>艾滋病攻防50年：一部未完待续的创新史</title>
-      <link>https://www.tmtpost.com/7790983.html</link>
-      <description>&lt;![CDATA[艾滋病攻防50年：一部未完待续的创新史]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7790983.html</guid>
+      <title>政策市场双轮驱动，婴童产品“智能化”提速，Babycare等品牌已起跑</title>
+      <link>https://www.tmtpost.com/7791307.html</link>
+      <description>&lt;![CDATA[政策市场双轮驱动，婴童产品“智能化”提速，Babycare等品牌已起跑]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791307.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道</title>
-      <link>http://www.geekpark.net/news/357517</link>
-      <description>&lt;![CDATA[罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357517</guid>
+      <title>企业级Al Agent规模化落地的避坑指南，就藏在这四大趋势里</title>
+      <link>https://www.infoq.cn/article/LDHE0QxhWuxTehd076R4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[企业级Al Agent规模化落地的避坑指南，就藏在这四大趋势里]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LDHE0QxhWuxTehd076R4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java资讯汇总：Liberica JDK、Jakarta EE、Open Liberty、Quarkus、JDKUpdater、OpenXava和Gradle</title>
-      <link>https://www.infoq.cn/article/wKEgJ4PBayFsHeh03bCD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java资讯汇总：Liberica JDK、Jakarta EE、Open Liberty、Quarkus、JDKUpdater、OpenXava和Gradle]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wKEgJ4PBayFsHeh03bCD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从一次灾难性的微服务迁移恢复过程中汲取的五个重要教训</title>
+      <link>https://www.infoq.cn/article/M0jmKiV3rShBjmP6DABR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从一次灾难性的微服务迁移恢复过程中汲取的五个重要教训]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M0jmKiV3rShBjmP6DABR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>星链打击：下一代网络疑云</title>
-      <link>https://www.tmtpost.com/7791419.html</link>
-      <description>&lt;![CDATA[星链打击：下一代网络疑云]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7791419.html</guid>
+      <title>均价40元的捏捏，凭什么让年轻人一年剁手上万？</title>
+      <link>https://www.tmtpost.com/7791191.html</link>
+      <description>&lt;![CDATA[均价40元的捏捏，凭什么让年轻人一年剁手上万？]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791191.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>海澜之家的“中年危机”</title>
-      <link>https://www.tmtpost.com/7791253.html</link>
-      <description>&lt;![CDATA[海澜之家的“中年危机”]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7791253.html</guid>
+      <title>离开深圳：国产机器人的“精度”在长三角</title>
+      <link>https://www.tmtpost.com/7791810.html</link>
+      <description>&lt;![CDATA[离开深圳：国产机器人的“精度”在长三角]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791810.html</guid>
       <category>Technology</category>
     </item>
   </channel>

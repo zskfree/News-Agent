@@ -1587,54 +1587,6 @@
       }
     },
     "Technology": {
-      "8671d824e5ccb77aa3a8e201a0d82eff48b73691dc121874dd0bfe69bde0808e": {
-        "title": "不卷性能卷配置：极氪的中场打法与利润焦虑",
-        "link": "https://www.tmtpost.com/7746322.html",
-        "published_date": "Sun, 02 Nov 2025 14:34:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.417621"
-      },
-      "dbda9a0bff752c98b09a8b507dec6eb26ace628e030de8a9d4b3750991dd59b6": {
-        "title": "3季报大盘点：反内卷之下，光伏行业真的触底反弹了吗？",
-        "link": "https://www.tmtpost.com/7746309.html",
-        "published_date": "Sun, 02 Nov 2025 14:19:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.417790"
-      },
-      "a149675e875a52f96abcd1c018aa287a2d6ef0f397f66e1c3efb7d19b026be55": {
-        "title": "越赚钱、越裁员，亚马逊的下一场豪赌",
-        "link": "https://www.tmtpost.com/7746298.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.417979"
-      },
-      "21b71b0531e5b192f8a3ef0e44a0fa569fec721d7215888ae0ce097dce0df583": {
-        "title": "炸裂与亏损交织的三季报，透露出储能行业很多“小秘密”……",
-        "link": "https://www.tmtpost.com/7746262.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.418169"
-      },
-      "89fb5c8d7d8d15acd32379fa987cfaaeb057818ff7c12a6fa8b8c3dcba45aa50": {
-        "title": "AWS增速被微软甩开一倍，亚马逊急了：1.4万人成AI转型祭品？",
-        "link": "https://www.tmtpost.com/7746259.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.418403"
-      },
-      "c1226eff2f438238b9ecd2c527bce1786e6dac631d0b90d1f762c0ebdc58d22a": {
-        "title": "史上最猛AI财报，市值却蒸发2000亿：微软到底哪里不对劲？",
-        "link": "https://www.tmtpost.com/7746257.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.418694"
-      },
-      "7741d8419ad258608ad3b9ed6ea78c67851cc205d4ff2eb446a4c06f139ee100": {
-        "title": "“显示面板龙头”和辉光电再闯港股，不到6年累计净亏损上百亿",
-        "link": "https://www.tmtpost.com/7746184.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.419037"
-      },
-      "05c7eb5eba1c55e4a65077bfcc24766380042b40ccc7e4a6a2e35cd8bf473974": {
-        "title": "把“锅气”变成算法：锅圈小炒与中餐到家的新解法",
-        "link": "https://www.tmtpost.com/7746294.html",
-        "published_date": "Sun, 02 Nov 2025 13:22:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.419466"
-      },
       "f41b40b65b76113bad5c39478714626f42940cf12521b3a282c706e51d6d854c": {
         "title": "连亏五个季度后，光伏板块终于盈利了",
         "link": "https://www.tmtpost.com/7746476.html",
@@ -12332,6 +12284,66 @@
         "link": "https://www.tmtpost.com/7791253.html",
         "published_date": "Tue, 02 Dec 2025 12:10:00 GMT",
         "first_seen": "2025-12-02T05:21:53.187394"
+      },
+      "7212622352195141ca108f6f10787ff0880cc32acbf87614c4c0ba6689ad9835": {
+        "title": "做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇",
+        "link": "https://www.infoq.cn/article/P3qsFR3OUbBPAu6Ks0EK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Dec 2025 15:55:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417311"
+      },
+      "f831af083fa331647c4d340d76e41ab15f9b5d2b886c2fdd423c25585ed021fe": {
+        "title": "亚马逊云科技推出Amazon Transform全新Agent功能，加速任意代码与应用现代化",
+        "link": "https://www.infoq.cn/article/zN2ONkdzANWLiIMpoLH4?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Dec 2025 15:46:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417319"
+      },
+      "e6cb5637bfcd802aa545703e533380a415bb3ab7c4c43763cd929a93cd75dbc9": {
+        "title": "降本30%、提效200%！解密星巴克日志平台的极致升级优化之道",
+        "link": "https://www.infoq.cn/article/vkMwCE5LqMHM2pgwGDrC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Dec 2025 14:04:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417320"
+      },
+      "e0c6fe627e78197e5c989f49b94eb839f7244463a8012df219174f80048d9e39": {
+        "title": "云 +AI 战略落地， 一幅全球化创新图景由此展开",
+        "link": "https://www.tmtpost.com/7791498.html",
+        "published_date": "Tue, 02 Dec 2025 15:25:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417322"
+      },
+      "3cf11a13d957263afaa0100139c3177324ac37228e285c3fb5e44cec33846f84": {
+        "title": "4399新游表现抢眼，出海买量数据创新高",
+        "link": "https://www.tmtpost.com/7791835.html",
+        "published_date": "Tue, 02 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417323"
+      },
+      "be7a2313a34148c8326d5f32d0e8233559a001c10844c1bff8d5c096a371ac3e": {
+        "title": "政策市场双轮驱动，婴童产品“智能化”提速，Babycare等品牌已起跑",
+        "link": "https://www.tmtpost.com/7791307.html",
+        "published_date": "Tue, 02 Dec 2025 13:21:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417325"
+      },
+      "10c094db95a18c02165946008f4b397699e2658fe7ad932678bf47a94d2bbbd7": {
+        "title": "企业级Al Agent规模化落地的避坑指南，就藏在这四大趋势里",
+        "link": "https://www.infoq.cn/article/LDHE0QxhWuxTehd076R4?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Dec 2025 15:30:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417326"
+      },
+      "de1e2439d7281ea04f4c0a7dfc50dc092b04b9ce1d252f6e7437e035bbacdbd1": {
+        "title": "从一次灾难性的微服务迁移恢复过程中汲取的五个重要教训",
+        "link": "https://www.infoq.cn/article/M0jmKiV3rShBjmP6DABR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Dec 2025 15:00:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417328"
+      },
+      "2e5376624aaecf908fb85b137dbf4564de27d22c92a881b2fe66aab9d2e3e1f5": {
+        "title": "均价40元的捏捏，凭什么让年轻人一年剁手上万？",
+        "link": "https://www.tmtpost.com/7791191.html",
+        "published_date": "Tue, 02 Dec 2025 15:32:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417329"
+      },
+      "fe357847e4731c51f327b895e7117fd6e346162f1c6676881c99d3e4337dbf57": {
+        "title": "离开深圳：国产机器人的“精度”在长三角",
+        "link": "https://www.tmtpost.com/7791810.html",
+        "published_date": "Tue, 02 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-02T08:32:14.417331"
       }
     },
     "Finance": {
@@ -12772,6 +12784,18 @@
         "link": "https://www.marketwatch.com/story/vaccine-stocks-take-a-hit-as-fda-official-points-to-link-between-covid-19-vaccines-and-rare-heart-condition-in-young-men-265ab5ab?mod=mw_rss_topstories",
         "published_date": "Mon, 01 Dec 2025 23:22:00 GMT",
         "first_seen": "2025-12-02T05:21:43.571687"
+      },
+      "a92decd4c7729b105cb32c8d70db11cf0af11e2fb5466fdc46dc761857e32727": {
+        "title": "Demand for Japanese bonds reassures jittery markets",
+        "link": "https://www.ft.com/content/8e191c52-a86c-4099-bbb8-05db76d06802",
+        "published_date": "Tue, 02 Dec 2025 08:02:00 GMT",
+        "first_seen": "2025-12-02T08:31:55.448391"
+      },
+      "d7f8eec498677e4e4d35d09665e8d85f9068b11c7b1e75ee76d23598b5b62d1d": {
+        "title": "BoE lowers capital requirements for UK banks as they pass stress tests",
+        "link": "https://www.ft.com/content/bf67cd85-998a-4383-8199-a13d0691ad0b",
+        "published_date": "Tue, 02 Dec 2025 07:52:00 GMT",
+        "first_seen": "2025-12-02T08:31:55.448399"
       }
     },
     "Ai": {
@@ -13182,13 +13206,73 @@
         "link": "https://www.qbitai.com/2025/12/357943.html",
         "published_date": "Tue, 02 Dec 2025 01:08:00 GMT",
         "first_seen": "2025-12-02T05:21:43.694308"
+      },
+      "d6cd9b75a1feb127d117575572dcfdbb973a3820fc4b6b9b661f76d5001c2868": {
+        "title": "从“数据融合”迈向“原生架构”：商汤发布 NEO 架构，重新定义多模态模型效能边界",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-14",
+        "published_date": "Tue, 02 Dec 2025 16:25:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978333"
+      },
+      "3cfd4fee39dc2479eea2f5351c46c30c616913ec0efb57a82b6d1fbdea296c13": {
+        "title": "五年，终于等来Transformers v5",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-13",
+        "published_date": "Tue, 02 Dec 2025 15:03:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978342"
+      },
+      "34da336463fa34a1ca3f7199ee9da0e5d8affc6b232be856f4f311bc95532d29": {
+        "title": "华为新开源！扩散语言模型突破32K上下文，还解锁了「慢思考」",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-12",
+        "published_date": "Tue, 02 Dec 2025 14:59:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978344"
+      },
+      "6b4452ff59c0d9b9d6b287274f50fcea6da1626dca2d2499bd2b088e59267d0a": {
+        "title": "AAAI 2026 Oral：明略科技开创稀疏数据「信息瓶颈动态压缩」，精度+速度双SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-11",
+        "published_date": "Tue, 02 Dec 2025 14:58:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978346"
+      },
+      "7274d9bd23f55de3aaeac3dd8a28feaf18c32abd7f1aa970079b80f51110b3a5": {
+        "title": "NeurIPS 2025｜CAKE：大模型驱动的贝叶斯优化新配方，让黑箱优化更智能、更高效",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-10",
+        "published_date": "Tue, 02 Dec 2025 14:55:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978348"
+      },
+      "b3baa11ac1b00cb9d5bc6c616dfd0047c6a1ed9b627d2f545cb8f86ed0d21f28": {
+        "title": "千问APP图片能力升级：中文生成编辑更精准、人像一致性更强",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-9",
+        "published_date": "Tue, 02 Dec 2025 14:19:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978350"
+      },
+      "65626139ae8a7fb8c2a0cc55e1b2018bd7762f462a14a46b06c2e153fb3f6884": {
+        "title": "刚刚，千问App把谷歌和OpenAI的「付费绝活」塞进了手机，还免费？",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-6",
+        "published_date": "Tue, 02 Dec 2025 14:19:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978351"
+      },
+      "1843e08504c1b8f23bdd5a57afabb0fae72442ac7515f58a7ceeb83eb93e10bc": {
+        "title": "140篇参考文献，26页综述系统梳理医学智能体的应用、挑战与机遇",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-5",
+        "published_date": "Tue, 02 Dec 2025 14:12:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978353"
+      },
+      "e28047cd4e5d1fbd57371b4118e7d64e0b2187a496549ade8a2e734ba220d31e": {
+        "title": "架构解耦是统一多模态模型所必须的吗？全新AIA损失：No",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-02-4",
+        "published_date": "Tue, 02 Dec 2025 14:10:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978354"
+      },
+      "74cf11072cbea3db7da8688834dbe777f2122e303861f359e84ddae5db11fa9e": {
+        "title": "前端没死，AI APP正在返祖",
+        "link": "https://www.qbitai.com/2025/12/358085.html",
+        "published_date": "Tue, 02 Dec 2025 05:51:00 GMT",
+        "first_seen": "2025-12-02T08:32:04.978356"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-02T05:21:53.187396",
-    "Finance": "2025-12-02T05:21:43.571689",
-    "Ai": "2025-12-02T05:21:43.694310"
+    "Technology": "2025-12-02T08:32:14.417332",
+    "Finance": "2025-12-02T08:31:55.448401",
+    "Ai": "2025-12-02T08:32:04.978359"
   }
 }

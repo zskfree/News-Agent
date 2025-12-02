@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 05:21:43 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 08:32:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-02-3</link>
-      <description>&lt;![CDATA[做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-3</guid>
+      <title>从“数据融合”迈向“原生架构”：商汤发布 NEO 架构，重新定义多模态模型效能边界</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-14</link>
+      <description>&lt;![CDATA[从“数据融合”迈向“原生架构”：商汤发布 NEO 架构，重新定义多模态模型效能边界]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-14</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，霸榜神秘视频模型身份揭晓，原来它就是「David」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-02-2</link>
-      <description>&lt;![CDATA[刚刚，霸榜神秘视频模型身份揭晓，原来它就是「David」]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-2</guid>
+      <title>五年，终于等来Transformers v5</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-13</link>
+      <description>&lt;![CDATA[五年，终于等来Transformers v5]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达拿出推理版VLA：Alpamayo-R1让自动驾驶AI更会动脑子</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-02</link>
-      <description>&lt;![CDATA[英伟达拿出推理版VLA：Alpamayo-R1让自动驾驶AI更会动脑子]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02</guid>
+      <title>华为新开源！扩散语言模型突破32K上下文，还解锁了「慢思考」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-12</link>
+      <description>&lt;![CDATA[华为新开源！扩散语言模型突破32K上下文，还解锁了「慢思考」]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>PixVerse（拍我AI）V5.5发布：国内首款分镜+音频一键生成AI视频大模型</title>
-      <link>https://www.qbitai.com/2025/12/358046.html</link>
-      <description>&lt;![CDATA[PixVerse（拍我AI）V5.5发布：国内首款分镜+音频一键生成AI视频大模型]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 03:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358046.html</guid>
+      <title>AAAI 2026 Oral：明略科技开创稀疏数据「信息瓶颈动态压缩」，精度+速度双SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-11</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral：明略科技开创稀疏数据「信息瓶颈动态压缩」，精度+速度双SOTA]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>灵光 “一闪”，330万个“闪应用”已创建</title>
-      <link>https://www.qbitai.com/2025/12/358023.html</link>
-      <description>&lt;![CDATA[灵光 “一闪”，330万个“闪应用”已创建]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 03:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358023.html</guid>
+      <title>NeurIPS 2025｜CAKE：大模型驱动的贝叶斯优化新配方，让黑箱优化更智能、更高效</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-10</link>
+      <description>&lt;![CDATA[NeurIPS 2025｜CAKE：大模型驱动的贝叶斯优化新配方，让黑箱优化更智能、更高效]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中国移动亿元战略投资港科大系触觉智能企业</title>
-      <link>https://www.qbitai.com/2025/12/358016.html</link>
-      <description>&lt;![CDATA[中国移动亿元战略投资港科大系触觉智能企业]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 03:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358016.html</guid>
+      <title>千问APP图片能力升级：中文生成编辑更精准、人像一致性更强</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-9</link>
+      <description>&lt;![CDATA[千问APP图片能力升级：中文生成编辑更精准、人像一致性更强]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>库克不忍了！挥刀优化苹果AI大总管</title>
-      <link>https://www.qbitai.com/2025/12/357943.html</link>
-      <description>&lt;![CDATA[库克不忍了！挥刀优化苹果AI大总管]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 01:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/357943.html</guid>
+      <title>刚刚，千问App把谷歌和OpenAI的「付费绝活」塞进了手机，还免费？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-6</link>
+      <description>&lt;![CDATA[刚刚，千问App把谷歌和OpenAI的「付费绝活」塞进了手机，还免费？]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>140篇参考文献，26页综述系统梳理医学智能体的应用、挑战与机遇</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-5</link>
+      <description>&lt;![CDATA[140篇参考文献，26页综述系统梳理医学智能体的应用、挑战与机遇]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>架构解耦是统一多模态模型所必须的吗？全新AIA损失：No</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-02-4</link>
+      <description>&lt;![CDATA[架构解耦是统一多模态模型所必须的吗？全新AIA损失：No]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>前端没死，AI APP正在返祖</title>
+      <link>https://www.qbitai.com/2025/12/358085.html</link>
+      <description>&lt;![CDATA[前端没死，AI APP正在返祖]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 05:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358085.html</guid>
       <category>Ai</category>
     </item>
   </channel>
