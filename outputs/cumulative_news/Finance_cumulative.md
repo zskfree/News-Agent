@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 08:31
+**最后更新时间**: 2025-12-03 23:19
+
+---
+
+## 🆕 最新更新 (2025-12-03 23:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Snowflake’s earnings beat isn’t enough to lift its stock](https://www.marketwatch.com/story/why-snowflakes-earnings-beat-isnt-enough-to-lift-its-stock-cc55d5ba?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 22:41
+
+#### [Delta Air will see a hit because of shutdown’s flight cancellations. Wall Street seems relieved.](https://www.marketwatch.com/story/delta-air-will-see-a-hit-because-of-shutdowns-flight-cancellations-wall-street-seems-relieved-783f89d6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 22:38
+
+#### [Stock market closes on doorstep of record territory as investors focus on bright side of weak private-sector hiring](https://www.marketwatch.com/story/stock-market-closes-on-doorstep-of-record-territory-as-investors-focus-on-bright-side-of-weak-private-sector-hiring-d541fd19?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 22:06
+
+#### [Salesforce cheers ‘a powerful pipeline of future revenue’ as its stock zooms higher](https://www.marketwatch.com/story/salesforce-cheers-a-powerful-pipeline-of-future-revenue-as-its-stock-zooms-higher-b613e9b5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 21:52
+
+#### [Trump touts rollback of fuel standards. Here’s why it ‘won’t suddenly make cars cheaper.’](https://www.marketwatch.com/story/trump-touts-rollback-of-fuel-standards-heres-why-it-wont-suddenly-make-cars-cheaper-79fbabf7?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 21:29
+
+#### [I allowed my friend to use my Delta air miles, but she took an extra 48K to change her ticket without telling me. What now?](https://www.marketwatch.com/story/i-allowed-my-friend-to-use-my-delta-air-miles-but-she-used-an-extra-48k-to-change-her-ticket-without-telling-me-what-now-b4eee392?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 21:22
+
+#### [AI needs power desperately. Here’s how to invest in companies profiting from the pain.](https://www.marketwatch.com/story/ai-needs-power-desperately-heres-how-to-invest-in-companies-profiting-from-the-pain-f10c0d53?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 20:57
+
+#### [Why has Invesco’s QQQ called me two dozen times in the past few weeks? Is it a scam?](https://www.marketwatch.com/story/why-has-invescos-qqq-called-me-two-dozen-times-in-the-past-few-weeks-is-it-a-scam-9ae8ca11?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 20:17
+
+#### [Why ETF investors are shaking off tech-stock turbulence and AI bubble fears](https://www.marketwatch.com/story/why-etf-investors-are-shaking-off-tech-stock-turbulence-and-ai-bubble-fears-4ee6b335?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 20:12
+
+#### [Netflix and Paramount are now the favorites to buy Warner Bros., but investors don’t like it](https://www.marketwatch.com/story/netflix-and-paramount-are-now-the-favorites-to-buy-warner-bros-but-investors-dont-like-it-596456d0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 20:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stephen Witt wins FT and Schroders Business Book of the Year](https://www.ft.com/content/ee20e718-eb1e-4eb9-aeaf-275b90153a56)
+**发布时间**: 2025-12-03 21:48
+
+#### [Meta poaches senior Apple designer Dye to support AI glasses push](https://www.ft.com/content/b9b1d92a-7856-4058-adde-417a0b24fe62)
+**发布时间**: 2025-12-03 21:42
+
+#### [Bond investors warned US Treasury over picking Hassett as Fed chair](https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab)
+**发布时间**: 2025-12-03 18:18
+
+#### [Sterling jumps as business survey triggers unwinding of negative bets](https://www.ft.com/content/e1aa0971-2997-48e9-843f-b14bb71f0696)
+**发布时间**: 2025-12-03 17:47
+
+#### [Starmer rules out rejoining EU customs union but steps up ‘reset’ efforts](https://www.ft.com/content/963fb3ff-d017-4272-8681-f7b431c95b34)
+**发布时间**: 2025-12-03 16:01
+
+#### [US private employers shed 32,000 jobs in November](https://www.ft.com/content/7d41313c-fb16-409c-b54d-4821937caa33)
+**发布时间**: 2025-12-03 15:52
+
+#### [Brussels floats ‘emergency’ powers to raise €210bn from Russian assets](https://www.ft.com/content/3c23910f-795c-4151-a47c-db4f0137fb40)
+**发布时间**: 2025-12-03 13:08
+
+#### [Starmer proposes trip to China in January](https://www.ft.com/content/9bef4600-22f9-4072-8c8c-373da0928ef9)
+**发布时间**: 2025-12-03 12:27
+
+#### [The rise of unpopular populism](https://www.ft.com/content/ef94a742-6953-423f-b009-5598f8611c8f)
+**发布时间**: 2025-12-03 12:05
+
+#### [UK houses are not getting more affordable, despite what the data shows](https://www.ft.com/content/283b5d84-9981-4eba-acd9-47f3de380910)
+**发布时间**: 2025-12-03 11:49
 
 ---
 
