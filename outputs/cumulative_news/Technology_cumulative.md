@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-02 23:20
+**最后更新时间**: 2025-12-03 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-03 05:25)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [70% 学生选 AI，大学校长怎么教？](http://www.geekpark.net/news/357564)
+**发布时间**: 2025-12-03 12:29
+
+#### [ChatGPT 望给苹果用户专属健身教练；车企不愿用 FSD，马斯克：你们疯了！；米哈游蔡浩宇发「游戏GPT」｜极客早知道](http://www.geekpark.net/news/357558)
+**发布时间**: 2025-12-03 08:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Marvell to Acquire Celestial AI for Up to $5.5 Billion, Betting on Scale-up Optical Interconnect for Datacenters](https://www.tmtpost.com/7793661.html)
+**发布时间**: 2025-12-03 12:04
+
+#### [Nvidia CFO Says $500 Billion AI Order not Include $100 Billion OpenAI Deal](https://www.tmtpost.com/7793600.html)
+**发布时间**: 2025-12-03 11:32
+
+#### [比华为多个屏幕但更厚重，三星要用三折叠跟苹果硬碰硬](https://www.tmtpost.com/7793297.html)
+**发布时间**: 2025-12-03 11:09
+
+#### [OpenAI Reportedly Develops 'Garlic' Model as CEO Declares 'Code Red' Against Google, Delays ChatGPT Ad Plans](https://www.tmtpost.com/7793510.html)
+**发布时间**: 2025-12-03 11:02
+
+#### [车企三巨头，扶阿维塔向山巅](https://www.tmtpost.com/7792639.html)
+**发布时间**: 2025-12-03 10:47
+
+#### [Nvidia Accelerates Mistral AI Models, Help Close Gap with OpenAI](https://www.tmtpost.com/7793348.html)
+**发布时间**: 2025-12-03 10:20
+
+#### [AI芯片大战升级！亚马逊推出首款3nmAI芯片Trainium 3，挑战英伟达、谷歌](https://www.tmtpost.com/7793129.html)
+**发布时间**: 2025-12-03 09:51
+
+#### [豆包的AI助手江湖](https://www.tmtpost.com/7792657.html)
+**发布时间**: 2025-12-03 09:09
+
+#### [韩国SK电信安全崩塌：从“信任神话”到“治理危机”的行业警示](https://www.tmtpost.com/7792744.html)
+**发布时间**: 2025-12-03 09:09
+
+#### [滴滴的增长逻辑，被严重误解了](https://www.tmtpost.com/7792656.html)
+**发布时间**: 2025-12-03 08:51
+
+#### [烧掉1000亿后，外卖往何处去？](https://www.tmtpost.com/7792839.html)
+**发布时间**: 2025-12-03 08:51
+
+#### [埃森哲成了OpenAI的“布道者”，中国的“华与华”们却在卖营销方案 | 马上评](https://www.tmtpost.com/7793020.html)
+**发布时间**: 2025-12-03 08:48
+
+#### [【钛晨报】12项举措破解数字人才短缺难题，五部门最新发声；OpenAI CEO宣布进入“红色警戒”状态，并推迟广告业务；扩大修复范围，市场监管总局出台新规帮助企业重塑信用](https://www.tmtpost.com/7792803.html)
+**发布时间**: 2025-12-03 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [库克怒换苹果AI一号位：谷歌系不行、找微软高管救火！Siri藏“大雷”全靠OS团队翻盘？](https://www.infoq.cn/article/lB9vS2Xsyv8eUAfhDH9f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 11:34
+
+#### [Cloudflare推出远程绑定功能，助力本地开发](https://www.infoq.cn/article/4g5mgxYQDvIsBZS0h4b0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 11:22
+
+#### [锚定企业AI落地五大挑战，联想凌拓存储产品矩阵再升级](https://www.infoq.cn/article/gKiyBIJhS2jIR7ROIVzU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 10:57
+
+#### [明略科技创始人、CEO兼CTO吴明辉确认出席AICon北京站，分享可信 Agent 的规模化之路](https://www.infoq.cn/article/ojVvvixsQCTISuYzAyeG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 10:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为每个人设计的无障碍：Apple 发布《为每位学生而设计》短片](https://sspai.com/post/104252)
+**发布时间**: 2025-12-03 10:48
+
+#### [派早报：三星发布 Galaxy Z TriFold、索尼发布 Alpha 7 V 等](https://sspai.com/post/104260)
+**发布时间**: 2025-12-03 07:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 23:20:33 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 05:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 05:26:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,75 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>唯一中国声音！智平方受邀亮相ITSA，为沙特Vision 2030注入中国具身力量</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-02-17</link>
-      <description>&lt;![CDATA[唯一中国声音！智平方受邀亮相ITSA，为沙特Vision 2030注入中国具身力量]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-17</guid>
+      <title>刚刚，「欧洲的DeepSeek」发布Mistral 3系列模型，全线回归Apache 2.0</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03-2</link>
+      <description>&lt;![CDATA[刚刚，「欧洲的DeepSeek」发布Mistral 3系列模型，全线回归Apache 2.0]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>这下Altman急了，OpenAI紧急启动「红色警报」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-02-16</link>
-      <description>&lt;![CDATA[这下Altman急了，OpenAI紧急启动「红色警报」]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-16</guid>
+      <title>句子级溯源+生成式归因，C²-Cite重塑大模型可信度</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03</link>
+      <description>&lt;![CDATA[句子级溯源+生成式归因，C²-Cite重塑大模型可信度]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>迎接「万物皆可RAG」时代：最新综述展示50多种多模态组合的巨大待探索空间</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-02-15</link>
-      <description>&lt;![CDATA[迎接「万物皆可RAG」时代：最新综述展示50多种多模态组合的巨大待探索空间]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-02-15</guid>
+      <title>云计算一哥10分钟发了25个新品！Kimi和MiniMax首次上桌</title>
+      <link>https://www.qbitai.com/2025/12/358330.html</link>
+      <description>&lt;![CDATA[云计算一哥10分钟发了25个新品！Kimi和MiniMax首次上桌]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 02:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358330.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>能讲“悄悄话”的智能助理，瑞声科技助力夸克AI眼镜S1开创 语音交互新范式</title>
-      <link>https://www.qbitai.com/2025/12/358264.html</link>
-      <description>&lt;![CDATA[能讲“悄悄话”的智能助理，瑞声科技助力夸克AI眼镜S1开创 语音交互新范式]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358264.html</guid>
+      <title>OpenAI首席研究员Mark Chen长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了Meta</title>
+      <link>https://www.qbitai.com/2025/12/358272.html</link>
+      <description>&lt;![CDATA[OpenAI首席研究员Mark Chen长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了Meta]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 00:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358272.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小猿学练机荣获2025 IDEA国际设计奖，开创学习平板品类新高度</title>
-      <link>https://www.qbitai.com/2025/12/358260.html</link>
-      <description>&lt;![CDATA[小猿学练机荣获2025 IDEA国际设计奖，开创学习平板品类新高度]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358260.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Runway Gen-4.5刷屏发布，把重量尘土和光影都做对了，网友：颠覆</title>
-      <link>https://www.qbitai.com/2025/12/358232.html</link>
-      <description>&lt;![CDATA[Runway Gen-4.5刷屏发布，把重量尘土和光影都做对了，网友：颠覆]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358232.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>宁德时代给9万+基层员工涨了薪！每月150元</title>
-      <link>https://www.qbitai.com/2025/12/358124.html</link>
-      <description>&lt;![CDATA[宁德时代给9万+基层员工涨了薪！每月150元]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 09:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358124.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>商汤分拆了一家AI医疗公司，半年融资10亿，剑指“医疗世界模型”</title>
-      <link>https://www.qbitai.com/2025/12/358110.html</link>
-      <description>&lt;![CDATA[商汤分拆了一家AI医疗公司，半年融资10亿，剑指“医疗世界模型”]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358110.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI一直在掩盖自己有意识？！GPT、Gemini都在说谎，Claude表现最异常</title>
-      <link>https://www.qbitai.com/2025/12/358099.html</link>
-      <description>&lt;![CDATA[AI一直在掩盖自己有意识？！GPT、Gemini都在说谎，Claude表现最异常]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 08:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358099.html</guid>
+      <title>GPT5.5代号“蒜你狠”曝光！OpenAI拉响红色警报加班赶制新模型，最快下周就发</title>
+      <link>https://www.qbitai.com/2025/12/358274.html</link>
+      <description>&lt;![CDATA[GPT5.5代号“蒜你狠”曝光！OpenAI拉响红色警报加班赶制新模型，最快下周就发]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 00:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358274.html</guid>
       <category>Ai</category>
     </item>
   </channel>
