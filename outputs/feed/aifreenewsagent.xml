@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 03 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Dec 2025 05:26:05 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:31:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，「欧洲的DeepSeek」发布Mistral 3系列模型，全线回归Apache 2.0</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-03-2</link>
-      <description>&lt;![CDATA[刚刚，「欧洲的DeepSeek」发布Mistral 3系列模型，全线回归Apache 2.0]]&gt;</description>
-      <pubDate>Wed, 03 Dec 2025 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-2</guid>
+      <title>微软发布 UFO³：跨 PC/服务器/移动端的多设备全域智能体星系登场</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03-7</link>
+      <description>&lt;![CDATA[微软发布 UFO³：跨 PC/服务器/移动端的多设备全域智能体星系登场]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>句子级溯源+生成式归因，C²-Cite重塑大模型可信度</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-03</link>
-      <description>&lt;![CDATA[句子级溯源+生成式归因，C²-Cite重塑大模型可信度]]&gt;</description>
-      <pubDate>Wed, 03 Dec 2025 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03</guid>
+      <title>科研人员应如何负责任地使用AI？投稿前必看官方指南及攻略已上线</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03-6</link>
+      <description>&lt;![CDATA[科研人员应如何负责任地使用AI？投稿前必看官方指南及攻略已上线]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>云计算一哥10分钟发了25个新品！Kimi和MiniMax首次上桌</title>
-      <link>https://www.qbitai.com/2025/12/358330.html</link>
-      <description>&lt;![CDATA[云计算一哥10分钟发了25个新品！Kimi和MiniMax首次上桌]]&gt;</description>
-      <pubDate>Wed, 03 Dec 2025 02:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358330.html</guid>
+      <title>原来这届中国AI年轻人，已经卷到业界都惊了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03-5</link>
+      <description>&lt;![CDATA[原来这届中国AI年轻人，已经卷到业界都惊了]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI首席研究员Mark Chen长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了Meta</title>
-      <link>https://www.qbitai.com/2025/12/358272.html</link>
-      <description>&lt;![CDATA[OpenAI首席研究员Mark Chen长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了Meta]]&gt;</description>
-      <pubDate>Wed, 03 Dec 2025 00:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358272.html</guid>
+      <title>借鉴人脑「海马体-皮层」机制，红熊AI重做了一个「记忆系统」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03-4</link>
+      <description>&lt;![CDATA[借鉴人脑「海马体-皮层」机制，红熊AI重做了一个「记忆系统」]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT5.5代号“蒜你狠”曝光！OpenAI拉响红色警报加班赶制新模型，最快下周就发</title>
-      <link>https://www.qbitai.com/2025/12/358274.html</link>
-      <description>&lt;![CDATA[GPT5.5代号“蒜你狠”曝光！OpenAI拉响红色警报加班赶制新模型，最快下周就发]]&gt;</description>
-      <pubDate>Wed, 03 Dec 2025 00:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358274.html</guid>
+      <title>为什么给机器人装上昂贵的触觉传感器，反而让它变笨了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-03-3</link>
+      <description>&lt;![CDATA[为什么给机器人装上昂贵的触觉传感器，反而让它变笨了？]]&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-03-3</guid>
       <category>Ai</category>
     </item>
   </channel>

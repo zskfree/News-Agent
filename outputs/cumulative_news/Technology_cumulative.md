@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 05:25
+**最后更新时间**: 2025-12-03 08:31
+
+---
+
+## 🆕 最新更新 (2025-12-03 08:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [LSTM之父劝不动Altman，但Transformer“亲爹”已跑路：一个赛道里卷没意思，无脑scaling也不行](https://www.infoq.cn/article/VpQfr4EHzUu3cMOVRsNY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 16:25
+
+#### [生成式推荐与广告大模型的真实落地挑战 ｜InfoQ《极客有约》](https://www.infoq.cn/video/0ViWrdqyQwNvO7TdQpyD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 15:26
+
+#### [re:Invent 特别企划之“五天五问”Day 1 异见与共识](https://www.infoq.cn/video/fQ7NHcSBQTfEXwdIlq64?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 14:15
+
+#### [Azure Virtual Desktop通过Arc-Enabled Servers实现完全混合部署](https://www.infoq.cn/article/Rsdgvzk8LXEaJalQCq0j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [独家 | 华为云新任CEO周跃峰首次亮相，兼任五大产品线负责人](https://www.tmtpost.com/7794014.html)
+**发布时间**: 2025-12-03 16:18
+
+#### [不筹量子完成数千万元天使轮融资，中科创星领投 | 融资速递](https://www.tmtpost.com/7793947.html)
+**发布时间**: 2025-12-03 15:01
+
+#### [“云计算春晚”又来了！不止自研AI芯片和模型，亚马逊云科技回答了一个核心问题](https://www.tmtpost.com/7793810.html)
+**发布时间**: 2025-12-03 14:43
+
+#### [影迷、影院、好莱坞都兴奋了！《疯狂动物城2》让行业“起死回生”？](https://www.tmtpost.com/7793484.html)
+**发布时间**: 2025-12-03 14:18
+
+#### [销量狂欢的B面：车企忙着发战报，经销商忙着去库存](https://www.tmtpost.com/7793857.html)
+**发布时间**: 2025-12-03 14:18
+
+#### [外卖大战收尾：烧光千亿，没有赢家](https://www.tmtpost.com/7793168.html)
+**发布时间**: 2025-12-03 14:18
+
+#### [铜师傅，不卖铜](https://www.tmtpost.com/7793526.html)
+**发布时间**: 2025-12-03 14:18
+
+#### [迈威尔Marvell：收购补短板，英伟达“平替”路快成了？](https://www.tmtpost.com/7793426.html)
+**发布时间**: 2025-12-03 14:18
+
+#### [东北上市银行走下牌桌](https://www.tmtpost.com/7793842.html)
+**发布时间**: 2025-12-03 14:08
+
+#### [《疯狂动物城》IP十年热度不减，AI仍在动画业“墙外”](https://www.tmtpost.com/7792865.html)
+**发布时间**: 2025-12-03 13:47
+
+#### [能源股重拾涨势，哪些公司值得买入？](https://www.tmtpost.com/7793605.html)
+**发布时间**: 2025-12-03 11:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS 辅助功能知多少](https://sspai.com/post/104099)
+**发布时间**: 2025-12-03 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [实测千问 App 生图、生视频功能：国产实用主义的突围](http://www.geekpark.net/news/357569)
+**发布时间**: 2025-12-03 14:45
+
+#### [直击爱奇艺 AI 剧场创作营：当奥斯卡摄影大师遇上 AI](http://www.geekpark.net/news/357568)
+**发布时间**: 2025-12-03 14:13
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美联储换人，全球买单？新一轮“通胀输出”即将开始](http://www.huxiu.com/article/4812584.html?f=wangzhan)
+**发布时间**: 2025-12-03 13:30
 
 ---
 
