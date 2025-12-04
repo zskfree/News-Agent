@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 23:19
+**最后更新时间**: 2025-12-04 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-04 05:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US halted plans to sanction Chinese spy agency to maintain trade truce](https://www.ft.com/content/61016803-baf5-4be5-8350-e0cc5ca4ab26)
+**发布时间**: 2025-12-04 04:22
+
+#### [Japanese 10-year bond yields rise to highest level since 2007](https://www.ft.com/content/9818c1f0-c6b6-44b4-9a63-deeeca528365)
+**发布时间**: 2025-12-04 03:41
+
+#### [How Brendan Nelson became HSBC’s stop-gap chair](https://www.ft.com/content/c84325e6-44c2-4b13-a815-b1898cd87bd4)
+**发布时间**: 2025-12-04 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Salesforce cheers ‘a powerful pipeline of future revenue’ as its stock ticks higher](https://www.marketwatch.com/story/salesforce-cheers-a-powerful-pipeline-of-future-revenue-as-its-stock-zooms-higher-b613e9b5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 01:17
+
+#### [Fiserv execs bet $1.5 million on a turnaround, and the stock pops](https://www.marketwatch.com/story/fiserv-execs-bet-1-5-million-on-a-turnaround-and-the-stock-pops-32f9d01e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 00:27
+
+#### [As Marvell’s stock rises on an upbeat forecast, analysts still have these questions](https://www.marketwatch.com/story/as-marvells-stock-rises-on-an-upbeat-forecast-analysts-still-have-these-questions-18b30d51?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 00:24
+
+#### [Microsoft’s stock falls on reported AI sales woes. Should investors worry?](https://www.marketwatch.com/story/microsofts-stock-falls-on-reported-ai-sales-woes-should-investors-worry-8273cdf1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 23:57
 
 ---
 

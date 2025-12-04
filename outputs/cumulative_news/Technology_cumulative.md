@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 23:19
+**最后更新时间**: 2025-12-04 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-04 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这家芯片制造商今日成为标普500指数中表现最好的股票，本季度业绩非常出色](https://www.tmtpost.com/7795565.html)
+**发布时间**: 2025-12-04 13:05
+
+#### [人工智能正推动全球公用事业类股票走强：把握这一趋势的三大投资思路](https://www.tmtpost.com/7795562.html)
+**发布时间**: 2025-12-04 13:04
+
+#### [对话造梦次元沈洽金：用AI打造Z世代的迪士尼｜AI Founder请回答 | 巴伦精选](https://www.tmtpost.com/7795558.html)
+**发布时间**: 2025-12-04 13:02
+
+#### [项目管理Agent的智力源泉与价值体现](https://www.tmtpost.com/7795046.html)
+**发布时间**: 2025-12-04 12:55
+
+#### [拆解华为Mate80系列，怎么又把天花板捅破了？](https://www.tmtpost.com/7793625.html)
+**发布时间**: 2025-12-04 12:36
+
+#### [豆包手机助手，智能体协同的超前实验](https://www.tmtpost.com/7795397.html)
+**发布时间**: 2025-12-04 11:31
+
+#### [iPhone 17 Will Boost Apple Shipments to Record High in 2025, IDC Projects](https://www.tmtpost.com/7795414.html)
+**发布时间**: 2025-12-04 11:26
+
+#### [Microsoft Stock Dives after Report on AI Software Sales Target Downgraded](https://www.tmtpost.com/7795362.html)
+**发布时间**: 2025-12-04 10:55
+
+#### [净利暴跌“补仓”新能源，雪天盐业动刀纯碱依赖｜并购一线](https://www.tmtpost.com/7795213.html)
+**发布时间**: 2025-12-04 10:35
+
+#### [郭台铭还在餐桌上](https://www.tmtpost.com/7794830.html)
+**发布时间**: 2025-12-04 10:35
+
+#### [穗升科技完成红杉种子领投数百万美元天使轮融资，前安克全球CMO王时远进军AI记忆赛道 | 融资速递](https://www.tmtpost.com/7795129.html)
+**发布时间**: 2025-12-04 10:27
+
+#### [威马、极越、高合都要复活了](https://www.tmtpost.com/7794479.html)
+**发布时间**: 2025-12-04 10:00
+
+#### [迎接新的AI赢家：Alphabet、特斯拉，甚至还有大型制药和生物科技公司](https://www.tmtpost.com/7795156.html)
+**发布时间**: 2025-12-04 09:42
+
+#### [由于缺乏盈利，Snowflake等大型软件公司未能入选标普500指数](https://www.tmtpost.com/7795154.html)
+**发布时间**: 2025-12-04 09:42
+
+#### [甲骨文股价承压，但有望赶超微软和亚马逊](https://www.tmtpost.com/7795151.html)
+**发布时间**: 2025-12-04 09:42
+
+#### [涨薪150元，万亿“宁王”放留人大招](https://www.tmtpost.com/7794740.html)
+**发布时间**: 2025-12-04 09:41
+
+#### [黄仁勋与特朗普会面，对华芯片出口管制或将放松](https://www.tmtpost.com/7794936.html)
+**发布时间**: 2025-12-04 09:23
+
+#### [36亿“蛇吞象”失败，翻倍牛股终止收购浩鲸科技；“女装大王”跨界收购四川茵地乐草案出炉；【并购一线】](https://www.tmtpost.com/7794891.html)
+**发布时间**: 2025-12-04 08:48
+
+#### [2025年表现最佳的12只股票，以及可能陷入困境的3只股票](https://www.tmtpost.com/7794998.html)
+**发布时间**: 2025-12-04 08:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [豆包手机底层系统被曝是锤子SmartisanOS！官方深夜回应微信登录异常等](https://www.infoq.cn/article/yAN18620m69IeFwYZrMB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 12:27
+
+#### [AI 早已不是远方的科技，而是触手可及的 “在手之物”](https://www.infoq.cn/video/8kzetKHNAy0UN1iDkD2I?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 12:05
+
+#### [Private AI Compute通过硬件隔离与临时数据设计实现谷歌推理](https://www.infoq.cn/article/OYVo4fpuBIcxHiC1Bi1m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 10:57
+
+#### [模型驱动的用户研究 Agent：真实业务的实践与挑战 ｜AICon北京](https://www.infoq.cn/article/JrMk88RKd8oLj1BKHMMA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 10:18
+
+#### [OpenAI 收购了自己的“甲方”公司](https://www.infoq.cn/article/BLFmOOSbboOPNmcdg98y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 10:00
+
+#### [“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震，AI工具链战争正式打响！](https://www.infoq.cn/article/sWqprHLPoHcXJx9dKJ6u?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 09:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [冷冬将至，你可能需要的取暖秘笈](https://sspai.com/post/63395)
+**发布时间**: 2025-12-04 11:34
+
+#### [派早报：一加推出 Ace 6T、理想发布 Livis 智能眼镜等](https://sspai.com/post/104291)
+**发布时间**: 2025-12-04 08:32
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [​豆包手机或存「隐私问题」，官方：不在云端存储画面；理想发布 AI 眼镜，1699 元；美光推出零售存储，专注 AI 存储](http://www.geekpark.net/news/357588)
+**发布时间**: 2025-12-04 08:36
 
 ---
 
