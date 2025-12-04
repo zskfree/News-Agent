@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-04 08:36
+**最后更新时间**: 2025-12-04 23:25
+
+---
+
+## 🆕 最新更新 (2025-12-04 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The stock market is verging on a holiday breakout — taking gold and silver with it](https://www.marketwatch.com/story/the-stock-market-is-verging-on-a-holiday-breakout-taking-gold-and-silver-with-it-34469840?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 22:42
+
+#### [The one thing people are still buying? Beauty products, and Ulta just proved it.](https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 22:42
+
+#### [‘I don’t have money to pay for a death certificate’: My sister refuses to probate my father’s estate. What can I do?](https://www.marketwatch.com/story/my-sister-as-executor-refuses-to-probate-my-fathers-estate-she-did-the-same-thing-when-our-mother-died-what-can-i-do-ee354234?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 22:24
+
+#### [Market forecasts are usually wrong — but this inflation-fighting asset sees the future](https://www.marketwatch.com/story/market-forecasts-are-usually-wrong-but-this-inflation-fighting-investment-can-see-the-future-f54efd7f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 21:19
+
+#### [AI taking your job? That’s just what these CEOs want you to believe.](https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 21:12
+
+#### [With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 20:43
+
+#### [You may have made this big tax mistake on Giving Tuesday. How to recover and still lower your RMD.](https://www.marketwatch.com/story/if-youre-over-70-you-might-have-missed-this-key-tax-break-on-giving-tuesday-cb2b380a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 20:20
+
+#### [FIRE fans carefully planned their early retirement. Then health-insurance costs exploded.](https://www.marketwatch.com/story/fire-fans-had-mapped-the-road-to-early-retirement-then-health-insurance-costs-exploded-03bd97f8?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 20:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Meta set to slash spending on metaverse as Zuckerberg shifts focus to AI](https://www.ft.com/content/d8e798a8-65db-44f1-8490-035b50303ee3)
+**发布时间**: 2025-12-04 21:04
+
+#### [US admiral defends second strike on alleged drug boat in Caribbean](https://www.ft.com/content/02f57860-8102-477a-afed-830bf64a7576)
+**发布时间**: 2025-12-04 20:20
+
+#### [Trustpilot shares plummet after short seller alleges ‘mafia-style’ practices](https://www.ft.com/content/5b0765ef-5a81-4388-8d0f-9f3cd2e04c3d)
+**发布时间**: 2025-12-04 19:22
+
+#### [Pete Hegseth is unfit to lead the Pentagon](https://www.ft.com/content/5dd72971-79e9-4ac8-8f2d-e230fb25c3b9)
+**发布时间**: 2025-12-04 18:51
+
+#### [Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations](https://www.ft.com/content/7db6a618-cc0c-4a4d-8d93-666675b1a38d)
+**发布时间**: 2025-12-04 18:47
+
+#### [OpenAI’s ‘code red’ moment](https://www.ft.com/content/780b9b62-81ca-4a1f-bb1d-0226d0a719a8)
+**发布时间**: 2025-12-04 18:15
+
+#### [City watchdog rules out market abuse probe into Rachel Reeves](https://www.ft.com/content/2f3e9fbd-7ac7-4551-965f-95ada2331b0b)
+**发布时间**: 2025-12-04 15:26
+
+#### [Reform UK receives record £9mn donation from Christopher Harborne](https://www.ft.com/content/db73535f-7d9d-4586-b53a-a690d3b0e36d)
+**发布时间**: 2025-12-04 13:43
+
+#### [Labour is slow-marching working people to populism](https://www.ft.com/content/1052957c-90ef-4e00-b599-e45643c5c8e4)
+**发布时间**: 2025-12-04 12:27
+
+#### [UK workers set to get unlimited compensation for unfair dismissal](https://www.ft.com/content/12e264ad-31b5-43cf-912e-4e6124615a67)
+**发布时间**: 2025-12-04 12:20
+
+#### [AJ Bell boss warns over ‘absolutely bonkers’ Isa charge](https://www.ft.com/content/4fce16fe-f204-4191-b551-cb94137708e0)
+**发布时间**: 2025-12-04 09:22
 
 ---
 

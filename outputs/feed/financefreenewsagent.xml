@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Dec 2025 08:36:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Dec 2025 08:36:50 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 23:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 23:25:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Reform UK gets record £9mn donation from Christopher Harborne</title>
-      <link>https://www.ft.com/content/db73535f-7d9d-4586-b53a-a690d3b0e36d</link>
-      <description>&lt;![CDATA[Reform UK gets record £9mn donation from Christopher Harborne]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 08:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/db73535f-7d9d-4586-b53a-a690d3b0e36d</guid>
+      <title>The stock market is verging on a holiday breakout — taking gold and silver with it</title>
+      <link>https://www.marketwatch.com/story/the-stock-market-is-verging-on-a-holiday-breakout-taking-gold-and-silver-with-it-34469840?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The stock market is verging on a holiday breakout — taking gold and silver with it]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 22:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-stock-market-is-verging-on-a-holiday-breakout-taking-gold-and-silver-with-it-34469840?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Stocks’ irrational rate-cut rally</title>
-      <link>https://www.ft.com/content/b886ec91-982b-4719-ac58-9d7f3f8e2b5c</link>
-      <description>&lt;![CDATA[Stocks’ irrational rate-cut rally]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b886ec91-982b-4719-ac58-9d7f3f8e2b5c</guid>
+      <title>The one thing people are still buying? Beauty products, and Ulta just proved it.</title>
+      <link>https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The one thing people are still buying? Beauty products, and Ulta just proved it.]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 22:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Market forecasts are usually wrong — but this inflation-fighting asset sees the future</title>
+      <link>https://www.marketwatch.com/story/market-forecasts-are-usually-wrong-but-this-inflation-fighting-investment-can-see-the-future-f54efd7f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Market forecasts are usually wrong — but this inflation-fighting asset sees the future]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/market-forecasts-are-usually-wrong-but-this-inflation-fighting-investment-can-see-the-future-f54efd7f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AI taking your job? That’s just what these CEOs want you to believe.</title>
+      <link>https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AI taking your job? That’s just what these CEOs want you to believe.]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 21:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>You may have made this big tax mistake on Giving Tuesday. How to recover and still lower your RMD.</title>
+      <link>https://www.marketwatch.com/story/if-youre-over-70-you-might-have-missed-this-key-tax-break-on-giving-tuesday-cb2b380a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[You may have made this big tax mistake on Giving Tuesday. How to recover and still lower your RMD.]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/if-youre-over-70-you-might-have-missed-this-key-tax-break-on-giving-tuesday-cb2b380a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>FIRE fans carefully planned their early retirement. Then health-insurance costs exploded.</title>
+      <link>https://www.marketwatch.com/story/fire-fans-had-mapped-the-road-to-early-retirement-then-health-insurance-costs-exploded-03bd97f8?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[FIRE fans carefully planned their early retirement. Then health-insurance costs exploded.]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 20:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/fire-fans-had-mapped-the-road-to-early-retirement-then-health-insurance-costs-exploded-03bd97f8?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Meta set to slash spending on metaverse as Zuckerberg shifts focus to AI</title>
+      <link>https://www.ft.com/content/d8e798a8-65db-44f1-8490-035b50303ee3</link>
+      <description>&lt;![CDATA[Meta set to slash spending on metaverse as Zuckerberg shifts focus to AI]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d8e798a8-65db-44f1-8490-035b50303ee3</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US admiral defends second strike on alleged drug boat in Caribbean</title>
+      <link>https://www.ft.com/content/02f57860-8102-477a-afed-830bf64a7576</link>
+      <description>&lt;![CDATA[US admiral defends second strike on alleged drug boat in Caribbean]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/02f57860-8102-477a-afed-830bf64a7576</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trustpilot shares plummet after short seller alleges ‘mafia-style’ practices</title>
+      <link>https://www.ft.com/content/5b0765ef-5a81-4388-8d0f-9f3cd2e04c3d</link>
+      <description>&lt;![CDATA[Trustpilot shares plummet after short seller alleges ‘mafia-style’ practices]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 19:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5b0765ef-5a81-4388-8d0f-9f3cd2e04c3d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Pete Hegseth is unfit to lead the Pentagon</title>
+      <link>https://www.ft.com/content/5dd72971-79e9-4ac8-8f2d-e230fb25c3b9</link>
+      <description>&lt;![CDATA[Pete Hegseth is unfit to lead the Pentagon]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5dd72971-79e9-4ac8-8f2d-e230fb25c3b9</guid>
       <category>Finance</category>
     </item>
   </channel>

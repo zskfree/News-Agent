@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Dec 2025 08:36:51 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 23:25:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-9</link>
-      <description>&lt;![CDATA[碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-9</guid>
+      <title>Titans + MIRAS: Helping AI have long-term memory</title>
+      <link>https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/</link>
+      <description>&lt;![CDATA[Titans + MIRAS: Helping AI have long-term memory]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，云计算一哥出手，大家AI Agent自由了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-8</link>
-      <description>&lt;![CDATA[刚刚，云计算一哥出手，大家AI Agent自由了]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-8</guid>
+      <title>免费版Banana2来了，Vidu推出Q2生图全家桶，限时无限免费</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-11</link>
+      <description>&lt;![CDATA[免费版Banana2来了，Vidu推出Q2生图全家桶，限时无限免费]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从MiniMax到DeepSeek：为何头部大模型都在押注「交错思维」？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-7</link>
-      <description>&lt;![CDATA[从MiniMax到DeepSeek：为何头部大模型都在押注「交错思维」？]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-7</guid>
+      <title>DeepSeek-V3.2巨「吃」Token，竟然是被GRPO背刺了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-10</link>
+      <description>&lt;![CDATA[DeepSeek-V3.2巨「吃」Token，竟然是被GRPO背刺了]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>挑战ReAct！MetaGPT团队提出ReCode智能体新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-6</link>
-      <description>&lt;![CDATA[挑战ReAct！MetaGPT团队提出ReCode智能体新范式]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 14:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-6</guid>
+      <title>中国AI计算开放架构创新风向标：HAIC2025重磅启幕</title>
+      <link>https://www.qbitai.com/2025/12/359022.html</link>
+      <description>&lt;![CDATA[中国AI计算开放架构创新风向标：HAIC2025重磅启幕]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359022.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>科大讯飞获首届“AI领航杯”大赛技术创新奖及AI+安全赛道一等奖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-5</link>
-      <description>&lt;![CDATA[科大讯飞获首届“AI领航杯”大赛技术创新奖及AI+安全赛道一等奖]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-5</guid>
+      <title>Sora APP 30天留存率：1%</title>
+      <link>https://www.qbitai.com/2025/12/358665.html</link>
+      <description>&lt;![CDATA[Sora APP 30天留存率：1%]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358665.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>又一高管弃库克而去！苹果UI设计负责人转投Meta</title>
-      <link>https://www.qbitai.com/2025/12/358601.html</link>
-      <description>&lt;![CDATA[又一高管弃库克而去！苹果UI设计负责人转投Meta]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 07:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358601.html</guid>
+      <title>嘉宾全阵容揭晓！张亚勤孙茂松，百度小米商汤谷歌都要来MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/358867.html</link>
+      <description>&lt;![CDATA[嘉宾全阵容揭晓！张亚勤孙茂松，百度小米商汤谷歌都要来MEET2026]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358867.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>误入人均10个顶级offer的技术天团活动，顶尖AI人才的选择逻辑我悟了</title>
-      <link>https://www.qbitai.com/2025/12/358582.html</link>
-      <description>&lt;![CDATA[误入人均10个顶级offer的技术天团活动，顶尖AI人才的选择逻辑我悟了]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 06:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358582.html</guid>
+      <title>下周三！量子位的这件大事就要来了｜MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/358715.html</link>
+      <description>&lt;![CDATA[下周三！量子位的这件大事就要来了｜MEET2026]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358715.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>抢到票的必读：创新大会 2026 超全攻略！</title>
+      <link>https://www.qbitai.com/2025/12/358683.html</link>
+      <description>&lt;![CDATA[抢到票的必读：创新大会 2026 超全攻略！]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358683.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GPT-5-Thinking新训练方法公开：让AI学会忏悔</title>
+      <link>https://www.qbitai.com/2025/12/358618.html</link>
+      <description>&lt;![CDATA[GPT-5-Thinking新训练方法公开：让AI学会忏悔]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 09:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358618.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Invent 2025 Swami博士主题演讲：可用、易用、可靠的Agentic AI核心技术路径</title>
+      <link>https://www.qbitai.com/2025/12/358627.html</link>
+      <description>&lt;![CDATA[Invent 2025 Swami博士主题演讲：可用、易用、可靠的Agentic AI核心技术路径]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358627.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-04 08:36
+**最后更新时间**: 2025-12-04 23:25
+
+---
+
+## 🆕 最新更新 (2025-12-04 23:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI医疗兴起前夜，硅谷远程医疗惊现巨大丑闻，引发信任危机与监管加码](https://www.tmtpost.com/7794941.html)
+**发布时间**: 2025-12-05 07:07
+
+#### [EU Opens Antitrust Probe into Meta's WhatsApp AI Policy](https://www.tmtpost.com/7796575.html)
+**发布时间**: 2025-12-05 04:23
+
+#### [艾比森董事长自投反对票后续：“这是一次自我革命”](https://www.tmtpost.com/7795374.html)
+**发布时间**: 2025-12-04 22:59
+
+#### [2026年CoWoS产能，被谁瓜分？](https://www.tmtpost.com/7795928.html)
+**发布时间**: 2025-12-04 20:16
+
+#### [屈臣氏或在香港英国两地上市，能否撑起2000亿估值？](https://www.tmtpost.com/7796304.html)
+**发布时间**: 2025-12-04 20:03
+
+#### [教培机构卷AI学习机，真AI还是伪智能？](https://www.tmtpost.com/7796161.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [大厂财报划重点：多项指标超预期，新周期启动？](https://www.tmtpost.com/7796158.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [多晶硅期货创新高、破6万，谁是这场游戏的大赢家？](https://www.tmtpost.com/7795002.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [双非大学生，涌入大厂AI流水线](https://www.tmtpost.com/7796062.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [无法短期变现的脑机接口，如何先活下去？](https://www.tmtpost.com/7796039.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [当特斯拉开始“跑步”，人形机器人成跨年主线？](https://www.tmtpost.com/7796095.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [11月销量成绩出炉：理想垫底，鸿蒙智行称王](https://www.tmtpost.com/7795818.html)
+**发布时间**: 2025-12-04 19:44
+
+#### [日本制造，在华大溃退](https://www.tmtpost.com/7795772.html)
+**发布时间**: 2025-12-04 19:19
+
+#### [三条岔路，一场革命：豆包、DeepSeek、千问的终局博弈](https://www.tmtpost.com/7795060.html)
+**发布时间**: 2025-12-04 18:45
+
+#### [豆包的能为与难为](https://www.tmtpost.com/7794986.html)
+**发布时间**: 2025-12-04 18:45
+
+#### [罗永浩的“十字路口”，需要被看见](https://www.tmtpost.com/7794976.html)
+**发布时间**: 2025-12-04 18:45
+
+#### [中国AI第一股是智谱？谁赞成谁反对](https://www.tmtpost.com/7795317.html)
+**发布时间**: 2025-12-04 18:45
+
+#### [Salesforce ：AI Agent“难产”，SaaS龙头已沦为价值股？](https://www.tmtpost.com/7795304.html)
+**发布时间**: 2025-12-04 18:45
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [6799 起，影石的第一台无人机来了！360 全景技术，探寻无人机行业「盲区」](http://www.geekpark.net/news/357632)
+**发布时间**: 2025-12-04 22:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [云计算一哥，给 Agentic AI 工程做“减法”](https://www.infoq.cn/article/MdUKCLVDUH7VHrHG1Jtb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 22:03
+
+#### [首页大翻新，Agent HQ 上线！回归微软后，GitHub 不再是你认识的 GitHub 了？](https://www.infoq.cn/article/BiwhVvg8LV8GgHQW03UF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 20:03
+
+#### [re:Invent 2025 世界开发者说-DAY3 | 会中思考：我们应该怎样拥抱 Agentic AI](https://www.infoq.cn/video/OYNhCQ80qYOFMquQLlOJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 19:54
+
+#### [🚀亚马逊云科技 2025 re:Invent 高光时刻 - DAY3！](https://www.infoq.cn/article/MjlJEvlU4DTEP5HgiilG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 19:36
+
+#### [关键技术详解｜腾讯一念 LLM 分布式推理优化实践](https://www.infoq.cn/article/L9ZC91xqcXm9qfLpxSRN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 19:00
+
+#### [流量仅ChatGPT 1%，马上冲3500亿美元IPO？营收年增10倍，Anthropic CEO嘲讽Altman：我们从不玩 “红色警报”](https://www.infoq.cn/article/2Wbulfkq1wghdUMdaMqm?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 17:43
+
+#### [“为什么”的机遇：利用真正的商业智能，从信号到行动 | 技术趋势](https://www.infoq.cn/article/T6OkrmxsKVrYslv4lG4g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 17:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 229｜少数派的编辑们最近买了啥？](https://sspai.com/post/104311)
+**发布时间**: 2025-12-04 17:23
 
 ---
 
