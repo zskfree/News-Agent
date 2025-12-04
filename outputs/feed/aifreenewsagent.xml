@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Dec 2025 05:26:28 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 08:36:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,67 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>美国各州正建设自己专用的AI用超级计算机，意在加速各项研究进程</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-4</link>
-      <description>&lt;![CDATA[美国各州正建设自己专用的AI用超级计算机，意在加速各项研究进程]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-4</guid>
+      <title>碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-9</link>
+      <description>&lt;![CDATA[碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球顶尖AI科学家齐聚“大晓机器人”， 将于12月18日开源“开悟”世界模型（Kairos 3.0）</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-3</link>
-      <description>&lt;![CDATA[全球顶尖AI科学家齐聚“大晓机器人”， 将于12月18日开源“开悟”世界模型（Kairos 3.0）]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-3</guid>
+      <title>刚刚，云计算一哥出手，大家AI Agent自由了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-8</link>
+      <description>&lt;![CDATA[刚刚，云计算一哥出手，大家AI Agent自由了]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR重磅回应：评审回滚、AC重置、封禁泄密者、严查贿赂串通</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04-2</link>
-      <description>&lt;![CDATA[ICLR重磅回应：评审回滚、AC重置、封禁泄密者、严查贿赂串通]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-2</guid>
+      <title>从MiniMax到DeepSeek：为何头部大模型都在押注「交错思维」？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-7</link>
+      <description>&lt;![CDATA[从MiniMax到DeepSeek：为何头部大模型都在押注「交错思维」？]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>估值7.5亿美元初创意欲「撬动」8000亿半导体市场？前谷歌AlphaChip主导者创业研发「AI芯片设计自动化」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-04</link>
-      <description>&lt;![CDATA[估值7.5亿美元初创意欲「撬动」8000亿半导体市场？前谷歌AlphaChip主导者创业研发「AI芯片设计自动化」]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04</guid>
+      <title>挑战ReAct！MetaGPT团队提出ReCode智能体新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-6</link>
+      <description>&lt;![CDATA[挑战ReAct！MetaGPT团队提出ReCode智能体新范式]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>记忆张量 × 商汤大装置：国产 GPGPU 推理成本反超 A100！</title>
-      <link>https://www.qbitai.com/2025/12/358566.html</link>
-      <description>&lt;![CDATA[记忆张量 × 商汤大装置：国产 GPGPU 推理成本反超 A100！]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 03:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358566.html</guid>
+      <title>科大讯飞获首届“AI领航杯”大赛技术创新奖及AI+安全赛道一等奖</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-04-5</link>
+      <description>&lt;![CDATA[科大讯飞获首届“AI领航杯”大赛技术创新奖及AI+安全赛道一等奖]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-04-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>清华成立具身智能与机器人研究院</title>
-      <link>https://www.qbitai.com/2025/12/358555.html</link>
-      <description>&lt;![CDATA[清华成立具身智能与机器人研究院]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 01:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358555.html</guid>
+      <title>又一高管弃库克而去！苹果UI设计负责人转投Meta</title>
+      <link>https://www.qbitai.com/2025/12/358601.html</link>
+      <description>&lt;![CDATA[又一高管弃库克而去！苹果UI设计负责人转投Meta]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 07:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358601.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeekV3.2技术报告还是老外看得细</title>
-      <link>https://www.qbitai.com/2025/12/358490.html</link>
-      <description>&lt;![CDATA[DeepSeekV3.2技术报告还是老外看得细]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 00:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358490.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>后生可畏！何恺明团队新成果发布，共一清华姚班大二在读</title>
-      <link>https://www.qbitai.com/2025/12/358411.html</link>
-      <description>&lt;![CDATA[后生可畏！何恺明团队新成果发布，共一清华姚班大二在读]]&gt;</description>
-      <pubDate>Thu, 04 Dec 2025 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358411.html</guid>
+      <title>误入人均10个顶级offer的技术天团活动，顶尖AI人才的选择逻辑我悟了</title>
+      <link>https://www.qbitai.com/2025/12/358582.html</link>
+      <description>&lt;![CDATA[误入人均10个顶级offer的技术天团活动，顶尖AI人才的选择逻辑我悟了]]&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 06:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/358582.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-04 05:26
+**最后更新时间**: 2025-12-04 08:36
+
+---
+
+## 🆕 最新更新 (2025-12-04 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK gets record £9mn donation from Christopher Harborne](https://www.ft.com/content/db73535f-7d9d-4586-b53a-a690d3b0e36d)
+**发布时间**: 2025-12-04 08:11
+
+#### [Stocks’ irrational rate-cut rally](https://www.ft.com/content/b886ec91-982b-4719-ac58-9d7f3f8e2b5c)
+**发布时间**: 2025-12-04 06:30
+
+#### [Executive pay has gone galactic](https://www.ft.com/content/01bdfd4d-4d1c-49cc-876a-587e25b274cc)
+**发布时间**: 2025-12-04 05:00
+
+#### [Europe exhausts legal tricks on frozen Russian assets](https://www.ft.com/content/263f6ce6-df42-443a-8c38-788672c08ccd)
+**发布时间**: 2025-12-04 05:00
+
+#### [EU to launch antitrust probe into Meta over use of AI in WhatsApp](https://www.ft.com/content/66f20eec-1734-4eea-9ca3-7ac1d88258ab)
+**发布时间**: 2025-12-04 05:00
+
+#### [US halts plans to sanction Chinese spy agency to maintain trade truce](https://www.ft.com/content/61016803-baf5-4be5-8350-e0cc5ca4ab26)
+**发布时间**: 2025-12-04 04:22
 
 ---
 
