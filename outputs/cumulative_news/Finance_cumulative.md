@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 14:08
+**最后更新时间**: 2025-12-05 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-05 23:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Carvana gets a spot in the S&P 500 ahead of these tech stocks](https://www.marketwatch.com/story/carvana-gets-a-spot-in-the-s-p-500-ahead-of-these-tech-stocks-5b3e540f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 23:16
+
+#### [SpaceX may be worth more than half of Tesla — with a sixth of the revenue](https://www.marketwatch.com/story/spacex-may-be-worth-more-than-half-of-tesla-with-a-sixth-of-the-revenue-892657f5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 22:34
+
+#### [The Fed is running into a wall of its own making ahead of next week’s interest-rate vote](https://www.marketwatch.com/story/the-fed-is-running-into-a-wall-of-its-own-making-10ee8e31?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 22:23
+
+#### [Here’s how the best investors protect their money from market bubbles and FOMO](https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 22:21
+
+#### [Treasury market logs worst weekly rout since April, in a bad sign for borrowers](https://www.marketwatch.com/story/treasury-market-logs-worst-weekly-rout-since-april-in-a-bad-sign-for-borrowers-ceb60395?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 21:25
+
+#### [I tried to donate my crypto to charity. Here’s what I learned.](https://www.marketwatch.com/story/i-tried-to-donate-my-crypto-to-charity-heres-what-i-learned-64df038e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 20:54
+
+#### [This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 20:39
+
+#### [What does Netflix’s offer to buy HBO Max mean for you?](https://www.marketwatch.com/story/what-does-netflixs-offer-to-buy-hbo-max-mean-for-you-2b6ea098?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 20:36
+
+#### [The last holdout on MP Materials’ stock has turned bullish](https://www.marketwatch.com/story/the-last-holdout-on-mp-materials-stock-has-turned-bullish-d3c1be5d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 20:25
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK strips council leader of membership over undisclosed X account](https://www.ft.com/content/38495ce1-2c4a-457f-aa5d-2e17af12f005)
+**发布时间**: 2025-12-05 21:31
+
+#### [How Netflix stole Warner Bros from David Ellison](https://www.ft.com/content/0fb6c3dc-7e14-45c1-9a63-b960c82512bd)
+**发布时间**: 2025-12-05 21:02
+
+#### [France intercepted drones flying over nuclear base, defence minister says](https://www.ft.com/content/1d3f6964-8804-40a0-be49-a5d2e2f46b6f)
+**发布时间**: 2025-12-05 20:57
+
+#### [Trump needs an off-ramp in Venezuela](https://www.ft.com/content/6fa2c4c8-454d-4483-8ab8-2a8c8dca2010)
+**发布时间**: 2025-12-05 18:11
+
+#### [The crypto investor who gifted Nigel Farage an election war chest](https://www.ft.com/content/ec1e13ec-1d95-4cc6-acc4-881948a21909)
+**发布时间**: 2025-12-05 17:32
+
+#### [Are Warner takeovers the harbingers of financial apocalypse?](https://www.ft.com/content/c4032a50-f6e4-4dde-9faf-13d24ce6743f)
+**发布时间**: 2025-12-05 16:51
+
+#### [Drop the gloom if you want to change public behaviour](https://www.ft.com/content/d15a4947-7cba-4782-9b20-d7d0d4f369b4)
+**发布时间**: 2025-12-05 15:04
+
+#### [Europe’s fateful moment](https://www.ft.com/content/8edd0a68-89f7-426d-8db9-df1c732c629e)
+**发布时间**: 2025-12-05 14:00
+
+#### [‘Systemic failure’: fury as tap water in Tunbridge Wells runs dry after outage](https://www.ft.com/content/8d220651-4e49-4138-9077-ff966c0fd615)
+**发布时间**: 2025-12-05 13:04
 
 ---
 

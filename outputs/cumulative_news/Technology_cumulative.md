@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 14:08
+**最后更新时间**: 2025-12-05 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-05 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Musk's X Receives First EU Fine Under Digital Services Act](https://www.tmtpost.com/7798915.html)
+**发布时间**: 2025-12-06 02:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 2025 特别企划之“五天五问”Day 3 选择即创造——预告片](https://www.infoq.cn/video/UaljshJJWWAB4xMuDFSj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 22:20
 
 ---
 

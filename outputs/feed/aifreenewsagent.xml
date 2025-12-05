@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Dec 2025 13:35:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 13:35:42 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 23:20:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球引才：Faster R-CNN、ResNet作者，中国科大任少卿，招募教授、学者和学生</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-8</link>
-      <description>&lt;![CDATA[全球引才：Faster R-CNN、ResNet作者，中国科大任少卿，招募教授、学者和学生]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-8</guid>
+      <title>2025-12-06日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-06/</link>
+      <description>&lt;![CDATA[2025-12-06日刊]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-06/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>登顶SuperCLUE DeepSearch，openPangu-R-72B深度搜索能力跃升</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-7</link>
-      <description>&lt;![CDATA[登顶SuperCLUE DeepSearch，openPangu-R-72B深度搜索能力跃升]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-7</guid>
+      <title>华为新架构砍了Transformer大动脉！任意模型推理能力原地飙升</title>
+      <link>https://www.qbitai.com/2025/12/359247.html</link>
+      <description>&lt;![CDATA[华为新架构砍了Transformer大动脉！任意模型推理能力原地飙升]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 17:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359247.html</guid>
       <category>Ai</category>
     </item>
   </channel>
