@@ -18,7 +18,7 @@ class NewsQualityFilter:
     def __init__(self, api_key=None):
         """初始化AI筛选器"""
         if not api_key:
-            api_key = os.getenv('GEMINI_API_KEY', 'AIzaSyCycvY4_-Mu72iNN3qh6h8WpYZrwX7vO5I')
+            api_key = os.getenv('GEMINI_API_KEY')
         
         # 配置更宽松的SSL设置
         ssl_context = ssl.create_default_context()
