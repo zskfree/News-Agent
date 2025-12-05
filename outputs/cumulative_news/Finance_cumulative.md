@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 05:26
+**最后更新时间**: 2025-12-05 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-05 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Warner Bros in exclusive talks with Netflix about studio and streaming sale](https://www.ft.com/content/1b51ca71-9a86-46f5-bdc4-cbd6831b755f)
+**发布时间**: 2025-12-05 08:10
+
+#### [The US slowdown, and how it ends](https://www.ft.com/content/ba916c3d-f4ca-451e-90a5-241eef193348)
+**发布时间**: 2025-12-05 06:30
+
+#### [Visa signs Canary Wharf deal for new European HQ](https://www.ft.com/content/f5819c06-c06c-49cd-ab98-348ba2e99e59)
+**发布时间**: 2025-12-05 06:00
 
 ---
 

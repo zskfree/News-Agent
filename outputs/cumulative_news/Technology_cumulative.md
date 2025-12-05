@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 14:10
+**最后更新时间**: 2025-12-05 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-05 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [行业下行周期中的中小酒店生存样本：君亭酒店的转型难题与国资赋能的“实验”](https://www.tmtpost.com/7797760.html)
+**发布时间**: 2025-12-05 16:05
+
+#### [中国企业出海欧洲核心市场：机遇挑战与路径选择](https://www.tmtpost.com/7797895.html)
+**发布时间**: 2025-12-05 15:49
+
+#### [为了拿下万亿元冰雪季旅游订单，南北地区都抢疯了](https://www.tmtpost.com/7797784.html)
+**发布时间**: 2025-12-05 15:45
+
+#### [机器人投资新转向：云迹4天暴涨43%，不拼人形拼实效了？](https://www.tmtpost.com/7797804.html)
+**发布时间**: 2025-12-05 15:40
+
+#### [双面墨西哥](https://www.tmtpost.com/7797455.html)
+**发布时间**: 2025-12-05 15:39
+
+#### [你的下一个玩具，会是AI？](https://www.tmtpost.com/7797806.html)
+**发布时间**: 2025-12-05 15:36
+
+#### [当 AI 撞上移动互联网的旧城墙](https://www.tmtpost.com/7797662.html)
+**发布时间**: 2025-12-05 15:35
+
+#### [蜜雪冰城卖早餐，是玩真的？](https://www.tmtpost.com/7797820.html)
+**发布时间**: 2025-12-05 15:34
+
+#### [降息悬念再升级，美元美股怎么走？](https://www.tmtpost.com/7797658.html)
+**发布时间**: 2025-12-05 15:24
+
+#### [海航重新起飞了？](https://www.tmtpost.com/7797740.html)
+**发布时间**: 2025-12-05 15:24
+
+#### [AI泡沫什么时候破？](https://www.tmtpost.com/7797626.html)
+**发布时间**: 2025-12-05 15:24
+
+#### [李斌可以造手机，李想为什么不能做AI眼镜？](https://www.tmtpost.com/7797714.html)
+**发布时间**: 2025-12-05 15:18
+
+#### [中美AI算力中盘博弈：开放与封闭之争](https://www.tmtpost.com/7797308.html)
+**发布时间**: 2025-12-05 15:11
+
+#### [第13家半岛酒店，落在中国哪座城市？](https://www.tmtpost.com/7797542.html)
+**发布时间**: 2025-12-05 15:09
+
+#### [为老人安个扶手，有多难？](https://www.tmtpost.com/7797669.html)
+**发布时间**: 2025-12-05 15:08
+
+#### [超2200倍申购引爆抢筹潮，沐曦股份“中国芯”叙事再添硬核底气](https://www.tmtpost.com/7797578.html)
+**发布时间**: 2025-12-05 15:07
+
+#### [汾酒经销商大会2025：并肩携手，与消费者共创未来](https://www.tmtpost.com/7797657.html)
+**发布时间**: 2025-12-05 14:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Apache Doris 在小米统一 OLAP 和湖仓一体的实践](https://www.infoq.cn/article/yGwXLYsrhMDwUqoYgMsh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 15:27
+
+#### [1122人干出“国产GPU”第一股，摩尔线程成功IPO：开盘股价疯涨，市值破2800亿！专家：国产AI芯片商业化进入关键期](https://www.infoq.cn/article/JsYpsUtauRLmiOCArWsr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 15:22
+
+#### [从云计算到推理计算：我在 AWS re:Invent 2025 的观察与思考](https://www.infoq.cn/article/G0DC3ArpI7QjpmppEBlN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 15:00
+
+#### [Java近期资讯：Spring Cloud、Quarkus、Hibernate ORM、JobRunr、LangChain4j、Java Operator SDK](https://www.infoq.cn/article/yVwBUUIIyjKPNLGlpAMe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 15:00
+
+#### [深耕八载，双向赋能：阿里云与龙蜥的开源共生之路](https://www.infoq.cn/article/hTrdwHbI26e2gOW3GcD3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 14:47
+
+#### [中心动态重分配哈希，北邮团队提出并开源CRH项目 | AAAI 2026](https://www.infoq.cn/article/hyCCX6dQ7qGc5aqqX68H?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 14:27
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [理想，上脸了！](http://www.geekpark.net/news/357666)
+**发布时间**: 2025-12-05 15:14
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上狂揽 2 万 Star！这个浏览器 AI 自动化项目火了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529410&idx=1&sn=95e3bc07b7837a95ad285472281f62c7)
+**发布时间**: 2025-12-05 14:38
 
 ---
 
