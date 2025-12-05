@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 05:26:54 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 14:10:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 14:14:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节前技术负责人创业，联手清华姚班校友，编程智能体世界登顶</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-6</link>
-      <description>&lt;![CDATA[字节前技术负责人创业，联手清华姚班校友，编程智能体世界登顶]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>基于文本AI的终结？Agent协作可直接「复制思维」，Token效率暴涨</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-5</link>
-      <description>&lt;![CDATA[基于文本AI的终结？Agent协作可直接「复制思维」，Token效率暴涨]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 13:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>首帧的真正秘密被揭开了：视频生成模型竟然把它当成「记忆体」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-4</link>
-      <description>&lt;![CDATA[首帧的真正秘密被揭开了：视频生成模型竟然把它当成「记忆体」]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，2026年英伟达奖学金名单公布，华人博士生霸榜占比80%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-3</link>
-      <description>&lt;![CDATA[刚刚，2026年英伟达奖学金名单公布，华人博士生霸榜占比80%]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>告别「2D错觉」，SpatialActor通过解耦语义与几何，为具身智能注入强鲁棒空间基因</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05-2</link>
-      <description>&lt;![CDATA[告别「2D错觉」，SpatialActor通过解耦语义与几何，为具身智能注入强鲁棒空间基因]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05-2</guid>
+      <title>2025-12-05日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-05/</link>
+      <description>&lt;![CDATA[2025-12-05日刊]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 07:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-05/</guid>
       <category>Ai</category>
     </item>
   </channel>

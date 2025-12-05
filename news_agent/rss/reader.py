@@ -13,6 +13,7 @@ from collections import defaultdict
 from typing import List, Dict, Optional
 
 from ..utils.deduplicate import generate_article_hash
+from ..utils.content_extractor import extract_article_content
 
 
 def read_rss_feed(url):
@@ -126,9 +127,13 @@ def get_recent_articles_summary(rss_urls, hours_limit=24, output_file=None, rss_
                     
                     # 如果成功解析时间且在时间范围内
                     if published_time and published_time > cutoff_time:
+                        content = extract_article_content(entry, max_description_length=300)
                         article_info = {
-                            'title': getattr(entry, 'title', '无标题'),
-                            'link': getattr(entry, 'link', '#'),
+                            'title': content['title'] or '无标题',
+                            'link': content['link'] or '#',
+                            'description': content['description'],
+                            'author': content['author'],
+                            'category': content['category'],
                             'published': published_time.strftime('%Y-%m-%d %H:%M'),
                             'source_url': url
                         }
@@ -136,9 +141,13 @@ def get_recent_articles_summary(rss_urls, hours_limit=24, output_file=None, rss_
                         
                 except Exception as e:
                     # 如果时间解析失败，仍然包含文章（假设是最近的）
+                    content = extract_article_content(entry, max_description_length=300)
                     article_info = {
-                        'title': getattr(entry, 'title', '无标题'),
-                        'link': getattr(entry, 'link', '#'),
+                        'title': content['title'] or '无标题',
+                        'link': content['link'] or '#',
+                        'description': content['description'],
+                        'author': content['author'],
+                        'category': content['category'],
                         'published': getattr(entry, 'published', '时间未知'),
                         'source_url': url
                     }

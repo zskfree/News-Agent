@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Dec 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 05:27:03 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 14:10:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 14:16:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯发布 EdgeOne Pages 正式版：国内首个边缘全栈开发平台，内测阶段用户突破15万</title>
-      <link>https://www.infoq.cn/article/zpf31KMDKJwZV9thOJKM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯发布 EdgeOne Pages 正式版：国内首个边缘全栈开发平台，内测阶段用户突破15万]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zpf31KMDKJwZV9thOJKM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>山姆搞成现在这样，是因为阿里前高管吗？</title>
+      <link>http://www.huxiu.com/article/4813554.html?f=wangzhan</link>
+      <description>&lt;![CDATA[山姆搞成现在这样，是因为阿里前高管吗？]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 09:32:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4813554.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软的Azure Cobalt 200 ARM芯片带来了50%的性能提升</title>
-      <link>https://www.infoq.cn/article/XSpf3Kx8xGV15D2LfAtO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软的Azure Cobalt 200 ARM芯片带来了50%的性能提升]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XSpf3Kx8xGV15D2LfAtO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“人人都是程序员”的梦该醒了！AI编程“大逃杀”：Cursor或成创业公司唯一“幸存者”，“60分开发者”撑起最后防线</title>
+      <link>https://www.infoq.cn/article/FZYIG9xfw6eIBGLdgsT2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“人人都是程序员”的梦该醒了！AI编程“大逃杀”：Cursor或成创业公司唯一“幸存者”，“60分开发者”撑起最后防线]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FZYIG9xfw6eIBGLdgsT2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“中国版英伟达”摩尔线程上市首日暴涨，国产芯片股集体狂欢</title>
-      <link>https://www.tmtpost.com/7796786.html</link>
-      <description>&lt;![CDATA[“中国版英伟达”摩尔线程上市首日暴涨，国产芯片股集体狂欢]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7796786.html</guid>
+      <title>Agentic AI时代，向量数据库成“必选项”</title>
+      <link>https://www.tmtpost.com/7796610.html</link>
+      <description>&lt;![CDATA[Agentic AI时代，向量数据库成“必选项”]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7796610.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>安克创新招股书里的AB面：高增长叙事与供应链裂痕</title>
-      <link>https://www.tmtpost.com/7797315.html</link>
-      <description>&lt;![CDATA[安克创新招股书里的AB面：高增长叙事与供应链裂痕]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7797315.html</guid>
+      <title>Blue Owl Raises $1.7 Billion for Datacenter Fund After Scrapping Private Credit Funds Merger</title>
+      <link>https://www.tmtpost.com/7797483.html</link>
+      <description>&lt;![CDATA[Blue Owl Raises $1.7 Billion for Datacenter Fund After Scrapping Private Credit Funds Merger]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797483.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>夸克AI眼镜S1一手实测 and 小编们の聊天局｜AI的n次方</title>
-      <link>https://www.infoq.cn/video/eBNUzJy2m1W5UEqC8tiM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[夸克AI眼镜S1一手实测 and 小编们の聊天局｜AI的n次方]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/eBNUzJy2m1W5UEqC8tiM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta Stock Rises on Reported Plan to Cut Metaverse Budget by Up to 30%</title>
+      <link>https://www.tmtpost.com/7797409.html</link>
+      <description>&lt;![CDATA[Meta Stock Rises on Reported Plan to Cut Metaverse Budget by Up to 30%]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797409.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CTO 焦虑自白：为什么我们有了 AI 博士生，但员工却越干越累？｜InfoQ《极客有约》</title>
-      <link>https://www.infoq.cn/video/UhEeVxdFNDd2HzStU7Ec?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CTO 焦虑自白：为什么我们有了 AI 博士生，但员工却越干越累？｜InfoQ《极客有约》]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/UhEeVxdFNDd2HzStU7Ec?utm_source=rss&amp;utm_medium=article</guid>
+      <title>怎么一年过去，李楠就不看好AI眼镜了？</title>
+      <link>https://www.tmtpost.com/7797259.html</link>
+      <description>&lt;![CDATA[怎么一年过去，李楠就不看好AI眼镜了？]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797259.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Aspire 13 带来了多语种支持和多项显著改进</title>
-      <link>https://www.infoq.cn/article/Mf4iA4kVmah61PjJj8Wt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Aspire 13 带来了多语种支持和多项显著改进]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Mf4iA4kVmah61PjJj8Wt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>月之暗面，不想下牌桌</title>
+      <link>https://www.tmtpost.com/7797329.html</link>
+      <description>&lt;![CDATA[月之暗面，不想下牌桌]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797329.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Groundcover使用可观察性迁移工具瞄准Datadog用户</title>
-      <link>https://www.infoq.cn/article/j2FPLWc7czKVdZksde6v?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Groundcover使用可观察性迁移工具瞄准Datadog用户]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j2FPLWc7czKVdZksde6v?utm_source=rss&amp;utm_medium=article</guid>
+      <title>绝不收手，淘宝闪购真正自立门户</title>
+      <link>https://www.tmtpost.com/7797376.html</link>
+      <description>&lt;![CDATA[绝不收手，淘宝闪购真正自立门户]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797376.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>京东、飞猪、云知声、蚂蚁专家复盘，揭秘 AI 提效的 4 本实战账本 | AICon</title>
-      <link>https://www.infoq.cn/article/QktMCDpImuBotYhFhVpc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[京东、飞猪、云知声、蚂蚁专家复盘，揭秘 AI 提效的 4 本实战账本 | AICon]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QktMCDpImuBotYhFhVpc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>朱雀三号回收失败，中国版“Space X”无法一蹴而就</title>
+      <link>https://www.tmtpost.com/7797302.html</link>
+      <description>&lt;![CDATA[朱雀三号回收失败，中国版“Space X”无法一蹴而就]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797302.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让表格会思考，多智能体重构大数据自助分析｜AICon北京</title>
-      <link>https://www.infoq.cn/article/MRcqeCqEbFKARTizgk1c?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让表格会思考，多智能体重构大数据自助分析｜AICon北京]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MRcqeCqEbFKARTizgk1c?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Goldman Said to Pause CyrusOne Bond Sale After CME Thanksgiving Datacenter Outage</title>
+      <link>https://www.tmtpost.com/7797296.html</link>
+      <description>&lt;![CDATA[Goldman Said to Pause CyrusOne Bond Sale After CME Thanksgiving Datacenter Outage]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7797296.html</guid>
       <category>Technology</category>
     </item>
   </channel>

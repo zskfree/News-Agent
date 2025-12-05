@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 05:26
+**最后更新时间**: 2025-12-05 14:10
+
+---
+
+## 🆕 最新更新 (2025-12-05 14:10)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [山姆搞成现在这样，是因为阿里前高管吗？](http://www.huxiu.com/article/4813554.html?f=wangzhan)
+**发布时间**: 2025-12-05 09:32
+
+#### [小偷、骗子、遍地野厕、高铁晚点......欧洲旅行让我看清了这些真相](http://www.huxiu.com/article/4813421.html?f=wangzhan)
+**发布时间**: 2025-12-04 16:14
+
+#### [朱雀三号首发成功入轨，但为什么回收失败？](http://www.huxiu.com/article/4813144.html?f=wangzhan)
+**发布时间**: 2025-12-04 15:00
+
+#### [美国新生儿还没学会叫爸爸，他们这一生就要先跟股市绑定了？](http://www.huxiu.com/article/4812892.html?f=wangzhan)
+**发布时间**: 2025-12-04 08:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 GitHub 上 3 个 牛牛牛 Nano Banana Pro 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529355&idx=1&sn=602312240a793d2910c7ececf8303449)
+**发布时间**: 2025-12-04 15:03
+
+#### [挖到 3 个令人惊艳的 GitHub 项目，推荐给大家。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529340&idx=1&sn=70b932e8796e655bb452bc1582e850a0)
+**发布时间**: 2025-12-03 16:05
+
+#### [盘点 11 月份 YYDS 的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529339&idx=1&sn=cbe63a38a07319cd261183296cb8cece)
+**发布时间**: 2025-12-02 15:04
+
+#### [10 个 YYDS 的技巧：Google 官方教你用 Nano Banana Pro](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529333&idx=1&sn=3d61592b715b56144117754abc004967)
+**发布时间**: 2025-12-01 15:04
+
+#### [发现 3 个牛哄哄 AI 的 GitHub 开源项目，速速收藏。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529260&idx=1&sn=5780da74dfd03575149b541c779cb0b6)
+**发布时间**: 2025-11-30 15:05
+
+#### [这个 GitHub 项目整理好 Nano Banana Pro 超火玩法。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529202&idx=1&sn=ed32bee1fad70fc6f0277fece9a6bf86)
+**发布时间**: 2025-11-29 15:04
+
+#### [DeepSeek 最新开源！直接干到了数学奥赛金牌水平。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529201&idx=1&sn=b42685ef5f8e04c56254a71cce7b94ba)
+**发布时间**: 2025-11-28 15:04
+
+#### [这个 GitHub 项目真给劲儿，搜集了各种开源平替。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529187&idx=1&sn=50fb04109f21a2bf1e3f195e6a55debc)
+**发布时间**: 2025-11-27 15:48
+
+#### [5 个很火火的个人 AI 知识库 GitHub 项目，收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529141&idx=1&sn=ab1bcd47346e13d016f51cdd64213f94)
+**发布时间**: 2025-11-26 15:04
+
+#### [5 个 AI 操纵手机的 GitHub 项目，牛逼了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529132&idx=1&sn=0b45b857cfd67f9144472f2017f46a14)
+**发布时间**: 2025-11-25 15:50
+
+#### [GitHub 上狂揽 1 万 Star，这个国产 AI 应用开发平台牛啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529110&idx=1&sn=7e8082a7edf28036056c718bac3bd8f9)
+**发布时间**: 2025-11-24 15:04
+
+#### [推荐 5 个 yyds 的 Claude Skills 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529084&idx=1&sn=ee9d1ebfd21aa3568ac41913e94a3366)
+**发布时间**: 2025-11-23 15:05
+
+#### [新挖掘了 3 个牛哄哄的 GitHub 项目，有点意思啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529000&idx=1&sn=8b43d987607eed0346f1a3c75f3939a0)
+**发布时间**: 2025-11-22 15:04
+
+#### [实测 Gemini 3 Pro ，我人傻了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528987&idx=1&sn=eb72aee8487e98fce6239210eb0383d1)
+**发布时间**: 2025-11-21 15:04
+
+#### [推荐 3 个 AI 智能体 GitHub 项目，太绝了啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528909&idx=1&sn=6be89862c4e53c8bd7033bbb600ecd52)
+**发布时间**: 2025-11-20 15:04
+
+#### [清华联合开源！首个基于 MCP 的 RAG 框架，太秀了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528908&idx=1&sn=d1cb4216dbf73faeb8d00ed7020280a6)
+**发布时间**: 2025-11-19 15:05
+
+#### [这个 GitHub 神器 30 秒搞定网站部署，贼给力。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528907&idx=1&sn=c0fe5fd7f7e73776a01d9f1507595e97)
+**发布时间**: 2025-11-18 15:04
+
+#### [Kimi 开源即爆火！K2 Thinking 有哪些实用玩法？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528906&idx=1&sn=dbae59a09477dc897eb5d9801bcd5a4f)
+**发布时间**: 2025-11-17 15:03
+
+#### [太残暴了！一周 8000 Star 的 AI 黑客 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528905&idx=1&sn=9ab20b6d2be6f72301b090173fbba93e)
+**发布时间**: 2025-11-16 15:04
+
+#### [本周 13 个 YYDS 的 GitHub 项目，哪个你用过？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247528783&idx=1&sn=7976c3fdaed0940fd0e76fb4194e649b)
+**发布时间**: 2025-11-15 15:04
 
 ---
 

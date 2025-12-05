@@ -53,11 +53,22 @@
         "language": "en",
         "rss": "https://www.ft.com/?format=rss"
     },
-
     {
         "name": "少数派科技资讯",
         "category": "Technology",
         "language": "zh",
         "rss": "https://sspai.com/feed"
+    },
+    {
+        "name": "AI洞察日报 RSS Feed",
+        "category": "AI",
+        "language": "zh",
+        "rss": "https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml"
+    },
+    {
+        "name": "逛逛Github",
+        "category": "Technology",
+        "language": "zh",
+        "rss": "https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml"
     }
 ]
