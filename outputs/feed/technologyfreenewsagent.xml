@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Dec 2025 13:56:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 13:56:40 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 14:08:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 14:09:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lessons from Three Tech Bubble Bursts: How to Escape the &quot;AI Bubble&quot;?</title>
-      <link>https://www.tmtpost.com/7798735.html</link>
-      <description>&lt;![CDATA[Lessons from Three Tech Bubble Bursts: How to Escape the &quot;AI Bubble&quot;?]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 21:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7798735.html</guid>
+      <title>谷歌承认其王牌编程工具Antigravity出现“清除了用户硬盘“的问题</title>
+      <link>https://www.infoq.cn/article/rC9PP9GAVZfIK1KkBcSW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌承认其王牌编程工具Antigravity出现“清除了用户硬盘“的问题]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rC9PP9GAVZfIK1KkBcSW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中美大模型“登月路”：谷歌与月之暗面的这一年</title>
-      <link>https://www.tmtpost.com/7798264.html</link>
-      <description>&lt;![CDATA[中美大模型“登月路”：谷歌与月之暗面的这一年]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7798264.html</guid>
+      <title>保守的谷歌，激进的豆包</title>
+      <link>https://www.tmtpost.com/7798472.html</link>
+      <description>&lt;![CDATA[保守的谷歌，激进的豆包]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 18:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7798472.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从云计算到推理计算：我在 AWS re:Invent 2025 的观察与思考</title>
-      <link>https://www.infoq.cn/article/G0DC3ArpI7QjpmppEBlN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从云计算到推理计算：我在 AWS re:Invent 2025 的观察与思考]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/G0DC3ArpI7QjpmppEBlN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>转行七年后，我曾经的职业彻底被AI颠覆</title>
+      <link>https://www.tmtpost.com/7798301.html</link>
+      <description>&lt;![CDATA[转行七年后，我曾经的职业彻底被AI颠覆]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7798301.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产先进封装，持续增长</title>
-      <link>https://www.tmtpost.com/7798406.html</link>
-      <description>&lt;![CDATA[国产先进封装，持续增长]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7798406.html</guid>
+      <title>AI手机，会反杀传统手机厂商吗？</title>
+      <link>http://www.huxiu.com/article/4813929.html?f=wangzhan</link>
+      <description>&lt;![CDATA[AI手机，会反杀传统手机厂商吗？]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4813929.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 除了聊天，还能如何在投标、BI、用研与运维中“干重活”？</title>
-      <link>https://www.infoq.cn/article/q6tdA7aShv4RkQppHCQk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 除了聊天，还能如何在投标、BI、用研与运维中“干重活”？]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/q6tdA7aShv4RkQppHCQk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>摩尔线程上市，谁是大赢家？</title>
+      <link>https://www.tmtpost.com/7798337.html</link>
+      <description>&lt;![CDATA[摩尔线程上市，谁是大赢家？]]&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7798337.html</guid>
       <category>Technology</category>
     </item>
   </channel>

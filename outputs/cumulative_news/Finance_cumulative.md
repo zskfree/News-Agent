@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 08:34
+**最后更新时间**: 2025-12-05 14:08
+
+---
+
+## 🆕 最新更新 (2025-12-05 14:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors are worrying about potential spillover from surging Japanese bond yields. Here’s a breakdown of what matters.](https://www.marketwatch.com/story/why-investors-should-brush-off-fears-about-another-brutal-yen-carry-trade-unwind-e8f41ef2?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 14:02
+
+#### [Why ‘buy the dip’ is not that great a strategy — and what works better, according to this quant firm.](https://www.marketwatch.com/story/why-buy-the-dip-is-not-that-great-a-strategy-quant-firm-discovers-dea7a10d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 14:01
+
+#### [Netflix set to transform media business — and itself — with $83 billion Warner Bros. deal](https://www.marketwatch.com/story/netflix-set-to-transform-media-business-and-itself-with-83-billion-warner-bros-deal-cae3cc10?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 13:08
+
+#### [Wegovy’s prices are going down, but they are ‘wildly different’](https://www.marketwatch.com/story/wegovys-prices-are-going-down-but-they-are-wildly-different-and-confusing-e4ef7bbe?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 12:59
+
+#### [The one thing people are still buying? Beauty products, and Ulta just proved it.](https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 12:47
+
+#### [‘Misbehaving’ U.S. long bonds have this strategist looking for yield elsewhere](https://www.marketwatch.com/story/misbehaving-u-s-long-bonds-have-this-strategist-looking-for-yield-elsewhere-d07c293f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 12:28
+
+#### [Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery](https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 11:25
+
+#### [‘I don’t have money to pay for a death certificate’: My sister refuses to probate my father’s estate. What can I do?](https://www.marketwatch.com/story/my-sister-as-executor-refuses-to-probate-my-fathers-estate-she-did-the-same-thing-when-our-mother-died-what-can-i-do-ee354234?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 11:00
+
+#### [A Wall Street legend has passed, but his ’10 surprise’ framework lives on. Manufacturing may be primed for a boom, this firm says.](https://www.marketwatch.com/story/a-wall-street-legend-has-passed-but-his-10-surprise-framework-lives-on-manufacturing-may-be-primed-for-a-boom-this-firm-says-bacb6409?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 10:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Robert Jenrick: ‘I’m unashamedly provincial in my attitudes’](https://www.ft.com/content/80f0ca94-bdae-4236-86cb-d01ff6e18cab)
+**发布时间**: 2025-12-05 12:30
+
+#### [Lammy talks up customs union amid efforts to rebuild UK-EU ties](https://www.ft.com/content/b01e84b6-ee9d-497c-8994-01edb0f7d90b)
+**发布时间**: 2025-12-05 12:11
+
+#### [Netflix agrees $83bn takeover of Warner Bros Discovery](https://www.ft.com/content/6532be94-c0bf-4101-8126-f249aa6be3c5)
+**发布时间**: 2025-12-05 12:06
+
+#### [Elon Musk’s X fined €120mn by EU for transparency violations](https://www.ft.com/content/cf1ece65-3544-4267-95b4-61ed5372288c)
+**发布时间**: 2025-12-05 11:20
+
+#### [US national security strategy calls for ‘cultivating resistance’ in Europe](https://www.ft.com/content/27e82b33-6e54-4e96-954f-43d1c7b3c98f)
+**发布时间**: 2025-12-05 10:29
+
+#### [The US slowdown, and how it ends](https://www.ft.com/content/ba916c3d-f4ca-451e-90a5-241eef193348)
+**发布时间**: 2025-12-05 06:30
+
+#### [Zipcar’s UK departure leaves users stranded](https://www.ft.com/content/eb337dc9-02ce-4838-908b-30f4237be565)
+**发布时间**: 2025-12-05 05:00
+
+#### [‘Why are we letting this guy go?’ Trump’s pardons upend US justice system](https://www.ft.com/content/1dc4124e-6bd3-4b2b-9628-1ff43583f28c)
+**发布时间**: 2025-12-05 05:00
+
+#### [US stocks set for double-digit gains in 2026, say Wall Street banks](https://www.ft.com/content/0c133aab-0e90-44d1-9709-2c1359a86758)
+**发布时间**: 2025-12-05 05:00
+
+#### [Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations](https://www.ft.com/content/7db6a618-cc0c-4a4d-8d93-666675b1a38d)
+**发布时间**: 2025-12-04 18:47
 
 ---
 

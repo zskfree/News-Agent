@@ -11630,6 +11630,36 @@
         "link": "https://www.infoq.cn/article/q6tdA7aShv4RkQppHCQk?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 05 Dec 2025 18:06:00 GMT",
         "first_seen": "2025-12-05T13:56:40.555662"
+      },
+      "1e6bf853497118ca8c650667e86eea5c28dd129e21b98dd9f92f33ae864ecc02": {
+        "title": "谷歌承认其王牌编程工具Antigravity出现“清除了用户硬盘“的问题",
+        "link": "https://www.infoq.cn/article/rC9PP9GAVZfIK1KkBcSW?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 05 Dec 2025 17:52:00 GMT",
+        "first_seen": "2025-12-05T14:09:07.093455"
+      },
+      "ed12019b3d7c74aad8072564370eabd294542c9775208442954cf159db6d1298": {
+        "title": "保守的谷歌，激进的豆包",
+        "link": "https://www.tmtpost.com/7798472.html",
+        "published_date": "Fri, 05 Dec 2025 18:57:00 GMT",
+        "first_seen": "2025-12-05T14:09:07.093461"
+      },
+      "f4b16fb70582b9ffe26f8c2a4d521a579041a232ef0eaac7bb258544ad5cc00d": {
+        "title": "转行七年后，我曾经的职业彻底被AI颠覆",
+        "link": "https://www.tmtpost.com/7798301.html",
+        "published_date": "Fri, 05 Dec 2025 18:53:00 GMT",
+        "first_seen": "2025-12-05T14:09:07.093464"
+      },
+      "27889bc163c0f4fdda61554263b7eb411599fc22c1b8b88b1e3192acfa93650c": {
+        "title": "AI手机，会反杀传统手机厂商吗？",
+        "link": "http://www.huxiu.com/article/4813929.html?f=wangzhan",
+        "published_date": "Fri, 05 Dec 2025 14:18:00 GMT",
+        "first_seen": "2025-12-05T14:09:07.093466"
+      },
+      "e58d1343fabfaf6940bfcecbb6b7e643d44b6844b88429b6b8611ba0f7333344": {
+        "title": "摩尔线程上市，谁是大赢家？",
+        "link": "https://www.tmtpost.com/7798337.html",
+        "published_date": "Fri, 05 Dec 2025 18:47:00 GMT",
+        "first_seen": "2025-12-05T14:09:07.093467"
       }
     },
     "Finance": {
@@ -12514,6 +12544,12 @@
         "link": "https://www.marketwatch.com/story/why-buy-the-dip-is-not-that-great-a-strategy-quant-firm-discovers-dea7a10d?mod=mw_rss_topstories",
         "published_date": "Fri, 05 Dec 2025 12:47:00 GMT",
         "first_seen": "2025-12-05T13:35:42.682720"
+      },
+      "0bc96374b354588e09c1c4612c627249a60fb17ef9a828b490a48ccfe3ee707c": {
+        "title": "Investors are worrying about potential spillover from surging Japanese bond yields. Here’s a breakdown of what matters.",
+        "link": "https://www.marketwatch.com/story/why-investors-should-brush-off-fears-about-another-brutal-yen-carry-trade-unwind-e8f41ef2?mod=mw_rss_topstories",
+        "published_date": "Fri, 05 Dec 2025 14:02:00 GMT",
+        "first_seen": "2025-12-05T14:08:50.181380"
       }
     },
     "Ai": {
@@ -13325,8 +13361,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-05T13:56:40.555664",
-    "Finance": "2025-12-05T13:35:42.682722",
+    "Technology": "2025-12-05T14:09:07.093469",
+    "Finance": "2025-12-05T14:08:50.181390",
     "Ai": "2025-12-05T13:35:42.698995"
   }
 }
