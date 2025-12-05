@@ -11600,6 +11600,36 @@
         "link": "https://www.tmtpost.com/7798388.html",
         "published_date": "Fri, 05 Dec 2025 19:02:00 GMT",
         "first_seen": "2025-12-05T13:35:51.968449"
+      },
+      "b4234e87b966b9484569a754fb36bbab9bd21f2c790311bfe47c9053fe59e335": {
+        "title": "Lessons from Three Tech Bubble Bursts: How to Escape the \"AI Bubble\"?",
+        "link": "https://www.tmtpost.com/7798735.html",
+        "published_date": "Fri, 05 Dec 2025 21:35:00 GMT",
+        "first_seen": "2025-12-05T13:56:40.555643"
+      },
+      "860277299179b46e7d9e5cd4f0e17d19c4bc1caa02d251d38f3d9758d3f48db2": {
+        "title": "中美大模型“登月路”：谷歌与月之暗面的这一年",
+        "link": "https://www.tmtpost.com/7798264.html",
+        "published_date": "Fri, 05 Dec 2025 18:54:00 GMT",
+        "first_seen": "2025-12-05T13:56:40.555655"
+      },
+      "050e25175e671670c376a89153d8cb26299e18974bd068ece916eb1eddb81a43": {
+        "title": "从云计算到推理计算：我在 AWS re:Invent 2025 的观察与思考",
+        "link": "https://www.infoq.cn/article/G0DC3ArpI7QjpmppEBlN?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 05 Dec 2025 15:00:00 GMT",
+        "first_seen": "2025-12-05T13:56:40.555658"
+      },
+      "c9c918e268a98f8ccd19f37060d66c81532fb4f504a854431d8c189e64fe8d3b": {
+        "title": "国产先进封装，持续增长",
+        "link": "https://www.tmtpost.com/7798406.html",
+        "published_date": "Fri, 05 Dec 2025 18:49:00 GMT",
+        "first_seen": "2025-12-05T13:56:40.555660"
+      },
+      "a70f6cc2b234a573c56b8b55659f9563e8bba5f04edf149977b6c26ed9015ec7": {
+        "title": "Agent 除了聊天，还能如何在投标、BI、用研与运维中“干重活”？",
+        "link": "https://www.infoq.cn/article/q6tdA7aShv4RkQppHCQk?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 05 Dec 2025 18:06:00 GMT",
+        "first_seen": "2025-12-05T13:56:40.555662"
       }
     },
     "Finance": {
@@ -13295,7 +13325,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-05T13:35:51.968451",
+    "Technology": "2025-12-05T13:56:40.555664",
     "Finance": "2025-12-05T13:35:42.682722",
     "Ai": "2025-12-05T13:35:42.698995"
   }
