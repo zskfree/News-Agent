@@ -34,7 +34,7 @@ def parse_cumulative_markdown(md_file_path: str, category: str,
                              max_recent_articles: int = 50,
                              time_window_hours: int = 72,
                              enable_ai_filter: bool = True,
-                             ai_filter_count: int = 10) -> Dict:
+                             ai_filter_count: int = 5) -> Dict:
     """
     解析累积Markdown文件并提取文章
     
@@ -195,7 +195,7 @@ def process_category(category: str, cumulative_file: Path,
         max_recent_articles=settings.get('max_articles_per_source', 50),
         time_window_hours=settings.get('time_window_hours', 72),
         enable_ai_filter=settings.get('ai_filter_enabled', True),
-        ai_filter_count=settings.get('ai_filter_count', 10)
+        ai_filter_count=settings.get('ai_filter_count', 5)
     )
     
     if not news_info or not news_info.get('articles'):

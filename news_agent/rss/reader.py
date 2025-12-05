@@ -990,7 +990,7 @@ if __name__ == "__main__":
         
         if choice == "1":
             # 原有的单分类模式
-            from load_rss_url import load_rss_sources, get_rss_urls_by_category
+            from ..config_loader import load_rss_sources, get_rss_urls_by_category
             RSS_CONFIG_FILE = r'RSS feed URL\rss_feed_url.json'
             rss_sources = load_rss_sources(RSS_CONFIG_FILE)
 
@@ -1018,7 +1018,7 @@ if __name__ == "__main__":
             # 新的多分类模式
             print("\n🚀 开始生成所有分类的新闻汇总报告...")
             
-            from load_rss_url import load_rss_sources
+            from ..config_loader import load_rss_sources
             # 加载RSS订阅源配置
             RSS_CONFIG_FILE = r'RSS feed URL\rss_feed_url.json'
             rss_sources = load_rss_sources(RSS_CONFIG_FILE)

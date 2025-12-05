@@ -174,7 +174,7 @@ def load_config() -> Dict:
             'hours_limit': int(os.getenv('NEWS_AGENT_HOURS_LIMIT', '24')),
             'max_articles_per_source': int(os.getenv('NEWS_AGENT_MAX_ARTICLES', '100')),
             'ai_filter_enabled': os.getenv('NEWS_AGENT_AI_FILTER', 'true').lower() == 'true',
-            'ai_filter_count': int(os.getenv('NEWS_AGENT_AI_FILTER_COUNT', '10')),
+            'ai_filter_count': int(os.getenv('NEWS_AGENT_AI_FILTER_COUNT', '5')),
             'similarity_threshold': float(os.getenv('NEWS_AGENT_SIMILARITY_THRESHOLD', '0.85')),
             'time_window_hours': int(os.getenv('NEWS_AGENT_TIME_WINDOW', '72')),
         }
