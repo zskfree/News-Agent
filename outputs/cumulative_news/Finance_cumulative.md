@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 23:20
+**最后更新时间**: 2025-12-06 05:20
+
+---
+
+## 🆕 最新更新 (2025-12-06 05:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your tax refund could be $1,000 bigger next year — and even more if you make these money moves in time](https://www.marketwatch.com/story/your-tax-refund-could-be-1-000-bigger-next-year-and-even-more-if-you-make-these-money-moves-in-time-98ae7448?mod=mw_rss_topstories)
+**发布时间**: 2025-12-06 02:58
+
+#### [‘I am increasingly resentful’: My husband of 10 years has $1 million and cars worth $200K. Why won’t he give me money?](https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 23:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Netflix leans on $59bn bank loan to fund Warner Bros takeover](https://www.ft.com/content/f82583ba-03ec-4cca-9560-a7a2e1d55574)
+**发布时间**: 2025-12-06 00:22
+
+#### [Musk’s SpaceX targets $800bn valuation in latest share sale](https://www.ft.com/content/b969a57a-cf09-43c1-a7cf-6dec16ba59fd)
+**发布时间**: 2025-12-05 19:53
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 23:20:57 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 05:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 05:21:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Musk's X Receives First EU Fine Under Digital Services Act</title>
-      <link>https://www.tmtpost.com/7798915.html</link>
-      <description>&lt;![CDATA[Musk's X Receives First EU Fine Under Digital Services Act]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 02:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7798915.html</guid>
+      <title>OpenAI Reportedly Accelerates GPT-5.2 Release Following CEO's 'Code Red' Alert</title>
+      <link>https://www.tmtpost.com/7799068.html</link>
+      <description>&lt;![CDATA[OpenAI Reportedly Accelerates GPT-5.2 Release Following CEO's 'Code Red' Alert]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799068.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当云计算开始在硅谷“造星”，一场自我革命开始了</title>
-      <link>https://www.infoq.cn/article/0vI7po0SXHw2hI4JcvEM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当云计算开始在硅谷“造星”，一场自我革命开始了]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0vI7po0SXHw2hI4JcvEM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SpaceX Reported to Eye $800 Billion Record-Setting Valuation, Targeting 2026 IPO</title>
+      <link>https://www.tmtpost.com/7799133.html</link>
+      <description>&lt;![CDATA[SpaceX Reported to Eye $800 Billion Record-Setting Valuation, Targeting 2026 IPO]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799133.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI原生数据库的思考</title>
-      <link>https://www.infoq.cn/article/V2DodZM4tsW0KISxkUUq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI原生数据库的思考]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/V2DodZM4tsW0KISxkUUq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>具身智能时代，谁将成为下一个“中国巴菲特”？</title>
+      <link>https://www.tmtpost.com/7798572.html</link>
+      <description>&lt;![CDATA[具身智能时代，谁将成为下一个“中国巴菲特”？]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7798572.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apache Doris 在小米统一 OLAP 和湖仓一体的实践</title>
-      <link>https://www.infoq.cn/article/yGwXLYsrhMDwUqoYgMsh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Apache Doris 在小米统一 OLAP 和湖仓一体的实践]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yGwXLYsrhMDwUqoYgMsh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Baidu Shares Surge on Reports of AI Chip Unit Kunlunxin's Hong Kong IPO Plan</title>
+      <link>https://www.tmtpost.com/7799030.html</link>
+      <description>&lt;![CDATA[Baidu Shares Surge on Reports of AI Chip Unit Kunlunxin's Hong Kong IPO Plan]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799030.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>摸着蔚来手机过河的理想眼镜</title>
-      <link>https://www.tmtpost.com/7798419.html</link>
-      <description>&lt;![CDATA[摸着蔚来手机过河的理想眼镜]]&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7798419.html</guid>
+      <title>Helm通过六年来最大规模的版本发布，提升了Kubernetes的包管理能力</title>
+      <link>https://www.infoq.cn/article/FHfdLrAsZ3kDjaidakob?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Helm通过六年来最大规模的版本发布，提升了Kubernetes的包管理能力]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FHfdLrAsZ3kDjaidakob?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
