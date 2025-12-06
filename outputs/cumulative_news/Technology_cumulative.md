@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-06 08:27
+**最后更新时间**: 2025-12-06 23:19
+
+---
+
+## 🆕 最新更新 (2025-12-06 23:19)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [日本的门阀，是怎么毁掉年轻人的？](http://www.huxiu.com/article/4812681.html?f=wangzhan)
+**发布时间**: 2025-12-06 20:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](https://www.infoq.cn/article/QDT3lN4YVK2lJOCfvUOo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-06 19:36
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [全球最大云厂商，将「最牛马」的工作交给了 AI Agent](http://www.geekpark.net/news/357692)
+**发布时间**: 2025-12-06 18:24
+
+#### [在拉斯维加斯，我看到了体育的未来](http://www.geekpark.net/news/357691)
+**发布时间**: 2025-12-06 18:18
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [摩尔线程卖的不是显卡，是A股最贵的安全门票](https://www.tmtpost.com/7798826.html)
+**发布时间**: 2025-12-06 17:42
+
+#### [40+产业链CEO闭门讨论：借鉴"特链"成功经验，加速机器人赛道产业化｜2025 T-EDGE全球对话](https://www.tmtpost.com/7798987.html)
+**发布时间**: 2025-12-06 17:29
 
 ---
 

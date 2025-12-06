@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Dec 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 08:27:32 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 23:20:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>深圳硬件创业者，正在悄悄走入第二个「黄金时代」</title>
-      <link>http://www.geekpark.net/news/357688</link>
-      <description>&lt;![CDATA[深圳硬件创业者，正在悄悄走入第二个「黄金时代」]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357688</guid>
+      <title>Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机</title>
+      <link>https://www.infoq.cn/article/QDT3lN4YVK2lJOCfvUOo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QDT3lN4YVK2lJOCfvUOo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AMC、IMAX股价下跌，Roku上涨，奈飞与华纳兄弟的合作如何撼动娱乐业格局？</title>
-      <link>https://www.tmtpost.com/7799049.html</link>
-      <description>&lt;![CDATA[AMC、IMAX股价下跌，Roku上涨，奈飞与华纳兄弟的合作如何撼动娱乐业格局？]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7799049.html</guid>
+      <title>全球最大云厂商，将「最牛马」的工作交给了 AI Agent</title>
+      <link>http://www.geekpark.net/news/357692</link>
+      <description>&lt;![CDATA[全球最大云厂商，将「最牛马」的工作交给了 AI Agent]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357692</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国汽车的真正考验，才刚开始</title>
-      <link>http://www.huxiu.com/article/4811722.html?f=wangzhan</link>
-      <description>&lt;![CDATA[中国汽车的真正考验，才刚开始]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 07:38:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4811722.html?f=wangzhan</guid>
+      <title>摩尔线程卖的不是显卡，是A股最贵的安全门票</title>
+      <link>https://www.tmtpost.com/7798826.html</link>
+      <description>&lt;![CDATA[摩尔线程卖的不是显卡，是A股最贵的安全门票]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7798826.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>面向智能研发的知识引擎构建及业务应用 ｜AICon北京</title>
-      <link>https://www.infoq.cn/article/82e7BGjhz87uh6BHUuSk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[面向智能研发的知识引擎构建及业务应用 ｜AICon北京]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/82e7BGjhz87uh6BHUuSk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>40+产业链CEO闭门讨论：借鉴&quot;特链&quot;成功经验，加速机器人赛道产业化｜2025 T-EDGE全球对话</title>
+      <link>https://www.tmtpost.com/7798987.html</link>
+      <description>&lt;![CDATA[40+产业链CEO闭门讨论：借鉴&quot;特链&quot;成功经验，加速机器人赛道产业化｜2025 T-EDGE全球对话]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 17:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7798987.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>re:Invent 2025 世界开发者说-DAY5 | 未来指南：re:Invent 带给开发者哪些启示？看看Jeff Barr怎么说</title>
-      <link>https://www.infoq.cn/video/UbpjVUzBpGF2Uv9tXSii?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[re:Invent 2025 世界开发者说-DAY5 | 未来指南：re:Invent 带给开发者哪些启示？看看Jeff Barr怎么说]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/UbpjVUzBpGF2Uv9tXSii?utm_source=rss&amp;utm_medium=article</guid>
+      <title>关于动态血糖仪，厂商没说的</title>
+      <link>https://sspai.com/post/104274</link>
+      <description>&lt;![CDATA[关于动态血糖仪，厂商没说的]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104274</guid>
       <category>Technology</category>
     </item>
   </channel>

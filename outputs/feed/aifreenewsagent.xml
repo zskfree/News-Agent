@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Dec 2025 08:26:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 08:27:12 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 23:19:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达巧用8B模型秒掉GPT-5，开源了</title>
-      <link>https://www.qbitai.com/2025/12/359417.html</link>
-      <description>&lt;![CDATA[英伟达巧用8B模型秒掉GPT-5，开源了]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359417.html</guid>
+      <title>Ilya刚预言完，世界首个原生多模态架构NEO就来了：视觉和语言彻底被焊死</title>
+      <link>https://www.qbitai.com/2025/12/359437.html</link>
+      <description>&lt;![CDATA[Ilya刚预言完，世界首个原生多模态架构NEO就来了：视觉和语言彻底被焊死]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 13:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359437.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SpaceX估值8000亿美元超OpenAI，IPO就在明年</title>
-      <link>https://www.qbitai.com/2025/12/359371.html</link>
-      <description>&lt;![CDATA[SpaceX估值8000亿美元超OpenAI，IPO就在明年]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 06:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359371.html</guid>
+      <title>刚刚，英伟达CUDA迎来史上最大更新！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-06-5</link>
+      <description>&lt;![CDATA[刚刚，英伟达CUDA迎来史上最大更新！]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 20:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-06-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Yann LeCun离开Meta后首篇论文？使用了宇树机器人做研究</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-06-4</link>
+      <description>&lt;![CDATA[Yann LeCun离开Meta后首篇论文？使用了宇树机器人做研究]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 20:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-06-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AAAI 2026｜新突破：北大彭宇新团队提出可见光-红外终身行人重识别方法CKDA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-06-3</link>
+      <description>&lt;![CDATA[AAAI 2026｜新突破：北大彭宇新团队提出可见光-红外终身行人重识别方法CKDA]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 20:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-06-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AAAI 2026 | 北航、东京大学填补AI「语义鸿沟」，过程感知视频理解如何找到「状态」锚点？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-06</link>
+      <description>&lt;![CDATA[AAAI 2026 | 北航、东京大学填补AI「语义鸿沟」，过程感知视频理解如何找到「状态」锚点？]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-06</guid>
       <category>Ai</category>
     </item>
   </channel>
