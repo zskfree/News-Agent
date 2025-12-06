@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Dec 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 05:20:56 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 08:26:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 08:27:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>14岁华人小孩，折个纸成美国天才少年</title>
-      <link>https://www.qbitai.com/2025/12/359362.html</link>
-      <description>&lt;![CDATA[14岁华人小孩，折个纸成美国天才少年]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 03:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359362.html</guid>
+      <title>英伟达巧用8B模型秒掉GPT-5，开源了</title>
+      <link>https://www.qbitai.com/2025/12/359417.html</link>
+      <description>&lt;![CDATA[英伟达巧用8B模型秒掉GPT-5，开源了]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359417.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智能体A2A落地华为新旗舰，鸿蒙开发者新机遇来了</title>
-      <link>https://www.qbitai.com/2025/12/359352.html</link>
-      <description>&lt;![CDATA[智能体A2A落地华为新旗舰，鸿蒙开发者新机遇来了]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 03:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359352.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>《三体》“宇宙闪烁”成真！免佩戴裸眼3D屏登Nature</title>
-      <link>https://www.qbitai.com/2025/12/359335.html</link>
-      <description>&lt;![CDATA[《三体》“宇宙闪烁”成真！免佩戴裸眼3D屏登Nature]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 02:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359335.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>知名数学家辞职投身AI创业：老板是00后华人女生</title>
-      <link>https://www.qbitai.com/2025/12/359261.html</link>
-      <description>&lt;![CDATA[知名数学家辞职投身AI创业：老板是00后华人女生]]&gt;</description>
-      <pubDate>Sat, 06 Dec 2025 02:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359261.html</guid>
+      <title>SpaceX估值8000亿美元超OpenAI，IPO就在明年</title>
+      <link>https://www.qbitai.com/2025/12/359371.html</link>
+      <description>&lt;![CDATA[SpaceX估值8000亿美元超OpenAI，IPO就在明年]]&gt;</description>
+      <pubDate>Sat, 06 Dec 2025 06:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359371.html</guid>
       <category>Ai</category>
     </item>
   </channel>

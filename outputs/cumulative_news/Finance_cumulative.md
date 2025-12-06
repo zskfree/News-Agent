@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-06 05:20
+**最后更新时间**: 2025-12-06 08:27
+
+---
+
+## 🆕 最新更新 (2025-12-06 08:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Maga’s strange rage against Europe](https://www.ft.com/content/ccbe643d-bbdf-4bc2-9635-9f7690405ec4)
+**发布时间**: 2025-12-06 05:00
+
+#### [Why Americans are feeling poorer even though they’re not](https://www.ft.com/content/3fa9b486-1cc2-4bc7-9557-552266570362)
+**发布时间**: 2025-12-06 05:00
+
+#### [Deutsche Bank to move into Revolut’s Canary Wharf headquarters](https://www.ft.com/content/ffaad361-2249-4b02-9e6e-a150547e5ecb)
+**发布时间**: 2025-12-06 05:00
+
+#### [Will the EU’s bid to use frozen Russian assets hit the euro?](https://www.ft.com/content/0642cfc4-b24b-484c-9e63-6eec61daec6f)
+**发布时间**: 2025-12-06 04:00
 
 ---
 
