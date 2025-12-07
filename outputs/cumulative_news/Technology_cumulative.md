@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-06 23:19
+**最后更新时间**: 2025-12-07 05:20
+
+---
+
+## 🆕 最新更新 (2025-12-07 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片](https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-07 11:38
+
+#### [百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战](https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-07 08:00
+
+#### [System Initiative公布了实时多云发现和自动化的扩展](https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-07 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3](https://www.tmtpost.com/7799625.html)
+**发布时间**: 2025-12-07 11:05
+
+#### [当代年轻人的“发疯”大赛，正在被包装成“消费游戏”](https://www.tmtpost.com/7799195.html)
+**发布时间**: 2025-12-07 10:39
+
+#### [关店数量陷争议，塔斯汀重拾“平价披萨”求增长](https://www.tmtpost.com/7799599.html)
+**发布时间**: 2025-12-07 09:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光](http://www.geekpark.net/news/357693)
+**发布时间**: 2025-12-07 08:06
 
 ---
 
