@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Dec 2025 05:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 05:20:44 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 08:27:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3</title>
-      <link>https://www.tmtpost.com/7799625.html</link>
-      <description>&lt;![CDATA[【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7799625.html</guid>
+      <title>KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算</title>
+      <link>https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光</title>
-      <link>http://www.geekpark.net/news/357693</link>
-      <description>&lt;![CDATA[马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357693</guid>
+      <title>对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7799686.html</link>
+      <description>&lt;![CDATA[对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799686.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>System Initiative公布了实时多云发现和自动化的扩展</title>
-      <link>https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[System Initiative公布了实时多云发现和自动化的扩展]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Reddit将其评论功能的后端从Python迁移为Go微服务</title>
+      <link>https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Reddit将其评论功能的后端从Python迁移为Go微服务]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战</title>
-      <link>https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&amp;utm_medium=article</guid>
+      <title>运维大规模反向代理的教训</title>
+      <link>https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[运维大规模反向代理的教训]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片</title>
-      <link>https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 11:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>盘点 10 个本周在 GitHub 上火火火的开源项目。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529468&amp;idx=1&amp;sn=99bab6296dc990f9c04a787268beffea</link>
+      <description>&lt;![CDATA[盘点 10 个本周在 GitHub 上火火火的开源项目。]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529468&amp;idx=1&amp;sn=99bab6296dc990f9c04a787268beffea</guid>
       <category>Technology</category>
     </item>
   </channel>
