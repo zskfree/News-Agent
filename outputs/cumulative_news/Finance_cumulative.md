@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-07 05:20
+**最后更新时间**: 2025-12-07 23:19
+
+---
+
+## 🆕 最新更新 (2025-12-07 23:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [America’s widening economic divide endangers Trump’s midterm hopes](https://www.ft.com/content/8beb0631-7f0a-4435-8e04-33f65f8a7904)
+**发布时间**: 2025-12-07 22:00
+
+#### [Hongkongers sit out first election since deadly fire](https://www.ft.com/content/bcb4e13f-0c97-490e-bfb9-88ec40110a48)
+**发布时间**: 2025-12-07 18:31
+
+#### [Fed expected to cut rates despite deep divisions over US economic outlook](https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f)
+**发布时间**: 2025-12-07 14:00
+
+#### [Lawmakers warn Trump administration against heavily redacting ‘Epstein files’](https://www.ft.com/content/f7371d9e-8b53-4e43-9fc7-493ed2a89a3c)
+**发布时间**: 2025-12-07 13:00
+
+#### [America’s economy is at the mercy of crony capitalism](https://www.ft.com/content/85fd3200-55b1-4e58-9e6f-613e97a1e36a)
+**发布时间**: 2025-12-07 12:00
+
+#### [Young people risk losing benefits under UK welfare reforms](https://www.ft.com/content/fbdb88a2-76d6-430d-8e76-42d803ccd331)
+**发布时间**: 2025-12-07 11:39
+
+#### [The endless importance of good manners in the office](https://www.ft.com/content/3ae638df-0b46-4fd4-98e9-432aaf7e7391)
+**发布时间**: 2025-12-07 05:00
+
+#### [Ben & Jerry’s founders told to ‘hand over to a new generation’ by Magnum boss](https://www.ft.com/content/6e7ae53d-954c-480c-b987-0d4168745984)
+**发布时间**: 2025-12-07 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m desperately trying to do right by everyone’: I’m giving my son $250K and my daughter 50% of a property. Is that fair?](https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories)
+**发布时间**: 2025-12-07 21:20
+
+#### [The Fed’s biggest decision this week could have nothing to do with interest rates](https://www.marketwatch.com/story/the-feds-biggest-decision-this-week-could-have-nothing-to-do-with-interest-rates-48aea536?mod=mw_rss_topstories)
+**发布时间**: 2025-12-07 20:40
+
+#### [The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas](https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-07 17:00
+
+#### [Trump’s $1 million ‘gold card’ immigration program is close to launching. Here’s what’s ahead.](https://www.marketwatch.com/story/trumps-1-million-gold-card-immigration-program-is-close-to-launching-heres-whats-ahead-dca9ddef?mod=mw_rss_topstories)
+**发布时间**: 2025-12-07 14:00
 
 ---
 

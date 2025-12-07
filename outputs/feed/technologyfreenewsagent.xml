@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Dec 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 08:27:35 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 23:20:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算</title>
-      <link>https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英霸已老，谷王当立 | 财经峰评</title>
+      <link>https://www.tmtpost.com/7799905.html</link>
+      <description>&lt;![CDATA[英霸已老，谷王当立 | 财经峰评]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 22:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799905.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选</title>
-      <link>https://www.tmtpost.com/7799686.html</link>
-      <description>&lt;![CDATA[对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 13:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7799686.html</guid>
+      <title>张建中与摩尔线程如何铸就千亿GPU帝国</title>
+      <link>https://www.tmtpost.com/7799691.html</link>
+      <description>&lt;![CDATA[张建中与摩尔线程如何铸就千亿GPU帝国]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 20:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799691.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Reddit将其评论功能的后端从Python迁移为Go微服务</title>
-      <link>https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Reddit将其评论功能的后端从Python迁移为Go微服务]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节即梦张楠：AI 时代，如何探索人的想象力？</title>
+      <link>http://www.geekpark.net/news/357697</link>
+      <description>&lt;![CDATA[字节即梦张楠：AI 时代，如何探索人的想象力？]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357697</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>运维大规模反向代理的教训</title>
-      <link>https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[运维大规模反向代理的教训]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 16:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&amp;utm_medium=article</guid>
+      <title>影石刘靖康：全景无人机，是「马车时代的汽车」</title>
+      <link>http://www.geekpark.net/news/357696</link>
+      <description>&lt;![CDATA[影石刘靖康：全景无人机，是「马车时代的汽车」]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357696</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>盘点 10 个本周在 GitHub 上火火火的开源项目。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529468&amp;idx=1&amp;sn=99bab6296dc990f9c04a787268beffea</link>
-      <description>&lt;![CDATA[盘点 10 个本周在 GitHub 上火火火的开源项目。]]&gt;</description>
-      <pubDate>Sun, 07 Dec 2025 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529468&amp;idx=1&amp;sn=99bab6296dc990f9c04a787268beffea</guid>
+      <title>AI作图+仅退款，正在围猎电商卖家</title>
+      <link>https://www.tmtpost.com/7799317.html</link>
+      <description>&lt;![CDATA[AI作图+仅退款，正在围猎电商卖家]]&gt;</description>
+      <pubDate>Sun, 07 Dec 2025 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7799317.html</guid>
       <category>Technology</category>
     </item>
   </channel>
