@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-07 23:19
+**最后更新时间**: 2025-12-08 05:24
+
+---
+
+## 🆕 最新更新 (2025-12-08 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [执着追逐风口，69岁的海正药业仍要豪赌“多元化”](https://www.tmtpost.com/7800592.html)
+**发布时间**: 2025-12-08 13:20
+
+#### [豆包手机助手：打响“去App时代”的第一枪](https://www.tmtpost.com/7800629.html)
+**发布时间**: 2025-12-08 13:14
+
+#### [500亿梦未竞，林孝发和九牧卫浴是时候重定目标了？](https://www.tmtpost.com/7800660.html)
+**发布时间**: 2025-12-08 13:13
+
+#### [AI陪伴+潮玩：被高退货率戳破的情绪泡沫](https://www.tmtpost.com/7800603.html)
+**发布时间**: 2025-12-08 13:09
+
+#### [混战之中的电商，急需回归零售本质](https://www.tmtpost.com/7800640.html)
+**发布时间**: 2025-12-08 13:04
+
+#### [Maternal Instinct is the Key for AI Living Peacefully With Humans, Says Hinton](https://www.tmtpost.com/7800639.html)
+**发布时间**: 2025-12-08 12:29
+
+#### [PD-1/VEGF双抗+ADC成为标配？](https://www.tmtpost.com/7800464.html)
+**发布时间**: 2025-12-08 11:25
+
+#### [动辄百万点赞的“切片”剧宣不管用了？](https://www.tmtpost.com/7800471.html)
+**发布时间**: 2025-12-08 11:24
+
+#### [安克创新递表港交所，筹备全球化新阶段｜ 出海IPO](https://www.tmtpost.com/7800495.html)
+**发布时间**: 2025-12-08 11:23
+
+#### [ASH重磅：伴髓外病变ORR 100%，维立志博LBL-034或改写多发性骨髓瘤治疗格局](https://www.tmtpost.com/7800396.html)
+**发布时间**: 2025-12-08 11:06
+
+#### [FPGA，焕发新生](https://www.tmtpost.com/7800238.html)
+**发布时间**: 2025-12-08 10:57
+
+#### [7天狂揽21亿，“最火CP”成断货王，有商家狂卖几十万件](https://www.tmtpost.com/7800325.html)
+**发布时间**: 2025-12-08 10:48
+
+#### [九载深港通：市场双向赋能的核心意义](https://www.tmtpost.com/7800254.html)
+**发布时间**: 2025-12-08 10:46
+
+#### [硅片，洗牌进行时](https://www.tmtpost.com/7800244.html)
+**发布时间**: 2025-12-08 10:43
+
+#### [博士天团创业，博世闻泰押注，碳化硅龙头IPO冲刺港股](https://www.tmtpost.com/7800284.html)
+**发布时间**: 2025-12-08 10:41
+
+#### [卖课“换脸”卖潮玩，但奇梦岛还没赚钱](https://www.tmtpost.com/7800286.html)
+**发布时间**: 2025-12-08 10:39
+
+#### [退休老人再就业，我成了大家的“共享奶奶”](https://www.tmtpost.com/7800306.html)
+**发布时间**: 2025-12-08 10:38
+
+#### [光伏寒冬下的战略撤退：天洋新材终止10亿项目、高层换血背后](https://www.tmtpost.com/7800111.html)
+**发布时间**: 2025-12-08 09:41
+
+#### [为什么很多大厂游戏开发不爱玩游戏？](https://www.tmtpost.com/7800121.html)
+**发布时间**: 2025-12-08 09:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Al 重塑平安 API 全链路智能化测试生态体系| AICon 北京](https://www.infoq.cn/article/JuuJVc6lTZdMmJIOLwdQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 11:50
+
+#### [谷歌全线开挂！Gemini 3 Deep Think夺多项推理SOTA，Gemini亚洲新团队也官宣了](https://www.infoq.cn/article/9iCS1oqtTCuJu39Op4oE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 10:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 2025 年复活一台黑莓 Q25](https://sspai.com/post/104334)
+**发布时间**: 2025-12-08 11:32
+
+#### [派早报：Netflix 拟以 720 亿美元收购华纳兄弟影视及流媒体业务](https://sspai.com/post/104404)
+**发布时间**: 2025-12-08 08:56
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [香港火灾背后：要命的超高层住宅](http://www.huxiu.com/article/4814174.html?f=wangzhan)
+**发布时间**: 2025-12-08 10:40
+
+#### [7天票房21亿，《疯狂动物城2》火在哪里？](http://www.huxiu.com/article/4814471.html?f=wangzhan)
+**发布时间**: 2025-12-08 09:48
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传苹果 CEO 库克曝出健康出问题；美推出 DNA 数据存储，寿命超千年；「动物城 2」票房破 30 亿，年度前三](http://www.geekpark.net/news/357698)
+**发布时间**: 2025-12-08 08:44
 
 ---
 

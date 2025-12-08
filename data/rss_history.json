@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "cbda91f1359fc5ebf473d7639f547877ea4d32502905c572b70f338d49c50fa8": {
-        "title": "机器人训练，北京男大有了技能玩法",
-        "link": "https://www.qbitai.com/2025/11/350301.html",
-        "published_date": "Sat, 08 Nov 2025 04:51:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.451624"
-      },
-      "3e3d12066a9ec41b91c2aed8d9797950347e82e1e592af03e1d3b54c458e8188": {
-        "title": "ICCV涌现自动驾驶新范式：统一世界模型VLA，用训练闭环迈向L4",
-        "link": "https://www.qbitai.com/2025/11/350282.html",
-        "published_date": "Sat, 08 Nov 2025 04:41:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.451782"
-      },
       "78e93be686a66e03844aff1fc6f0bac05191a1009377bd973c0dce64e68f5497": {
         "title": "AI100访谈：「Get笔记」方法论｜量子位智库",
         "link": "https://www.qbitai.com/2025/11/350350.html",
@@ -1311,30 +1299,6 @@
       }
     },
     "Technology": {
-      "6850df6ddbab4cf0dd55e7ce14391cbe1328f7ac1493aa812cdb24c81af14685": {
-        "title": "什么是闪电网络？小白也能看懂的动画讲解",
-        "link": "http://www.huxiu.com/article/4801669.html?f=wangzhan",
-        "published_date": "Sat, 08 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512404"
-      },
-      "f7d0804c9c291bf5a0c763ac5b0ed50412714061636a0ac42f8114649a6944e4": {
-        "title": "从理光到大疆，年轻人在追逐什么样的新相机",
-        "link": "https://www.tmtpost.com/7755071.html",
-        "published_date": "Sat, 08 Nov 2025 10:09:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512538"
-      },
-      "687a0bda63ed33e29fdaf90d795df83b3f80e1861e976f158998935758626fc7": {
-        "title": "上市银行净息差悬于1.3%，银行传统盈利模式或宣告终结",
-        "link": "https://www.tmtpost.com/7755184.html",
-        "published_date": "Sat, 08 Nov 2025 08:30:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512682"
-      },
-      "764f672204ac3d79151391495dc0978c64f2c530358411d1efaa01b5981c68e3": {
-        "title": "AI热潮推动，全球 DRAM 内存价格暴涨；泡泡玛特回应直播事故；媒体爆料iPhone 18 Pro工程机进展",
-        "link": "http://www.geekpark.net/news/356147",
-        "published_date": "Sat, 08 Nov 2025 09:01:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512930"
-      },
       "ba8ec3c8bec13fef4c8d8a62cb8a26340d9a11787ab5e71e18c84acecb3bc988": {
         "title": "副业淘宝店经营 1 周年，我获取了哪些经验？",
         "link": "https://sspai.com/post/102929",
@@ -10652,6 +10616,36 @@
         "link": "https://www.tmtpost.com/7799317.html",
         "published_date": "Sun, 07 Dec 2025 18:15:00 GMT",
         "first_seen": "2025-12-07T23:20:24.556719"
+      },
+      "904162b7a9e05e9aab45290435324e6c478b743230438d2e3208d872680ce386": {
+        "title": "Maternal Instinct is the Key for AI Living Peacefully With Humans, Says Hinton",
+        "link": "https://www.tmtpost.com/7800639.html",
+        "published_date": "Mon, 08 Dec 2025 12:29:00 GMT",
+        "first_seen": "2025-12-08T05:25:20.255132"
+      },
+      "aa3a59c6f243109af09a22dc3201f51d758194e13af17bbe1ec1fc307811d6db": {
+        "title": "谷歌全线开挂！Gemini 3 Deep Think夺多项推理SOTA，Gemini亚洲新团队也官宣了",
+        "link": "https://www.infoq.cn/article/9iCS1oqtTCuJu39Op4oE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 10:36:00 GMT",
+        "first_seen": "2025-12-08T05:25:20.255137"
+      },
+      "e3ad8faad835e1b12cb19aa21ae55b94ca39875c57c0b9063466c020e05d7856": {
+        "title": "博士天团创业，博世闻泰押注，碳化硅龙头IPO冲刺港股",
+        "link": "https://www.tmtpost.com/7800284.html",
+        "published_date": "Mon, 08 Dec 2025 10:41:00 GMT",
+        "first_seen": "2025-12-08T05:25:20.255140"
+      },
+      "97ffb0cdb6763a361faa1eb48a026e10cb335af5e51f220f5a53cb663ebec222": {
+        "title": "FPGA，焕发新生",
+        "link": "https://www.tmtpost.com/7800238.html",
+        "published_date": "Mon, 08 Dec 2025 10:57:00 GMT",
+        "first_seen": "2025-12-08T05:25:20.255142"
+      },
+      "59d31088d557c64c11667424436e0ad3fca5d43d4b9e857952a7980f2a6b243b": {
+        "title": "豆包手机助手：打响“去App时代”的第一枪",
+        "link": "https://www.tmtpost.com/7800629.html",
+        "published_date": "Mon, 08 Dec 2025 13:14:00 GMT",
+        "first_seen": "2025-12-08T05:25:20.255144"
       }
     },
     "Finance": {
@@ -11674,6 +11668,36 @@
         "link": "https://www.ft.com/content/8beb0631-7f0a-4435-8e04-33f65f8a7904",
         "published_date": "Sun, 07 Dec 2025 22:00:00 GMT",
         "first_seen": "2025-12-07T23:20:00.180730"
+      },
+      "e0e452a35de5922b163f80748cab7dd26c3e069f153bfa973c129c35e1b228ac": {
+        "title": "U.S. stock futures flat as investors await Fed meeting — and likely rate cut",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Dec 2025 04:04:00 GMT",
+        "first_seen": "2025-12-08T05:25:01.932214"
+      },
+      "41d24b27c7f7b1eb987ff3fd48b9518f8b840e278e0eca39868c42e9231daf01": {
+        "title": "The power crunch threatening America’s AI ambitions",
+        "link": "https://ig.ft.com/ai-power/",
+        "published_date": "Mon, 08 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-08T05:25:01.932226"
+      },
+      "082b57f67dc1f53a5472be2b32e4331ec15a70b5e63f326d9e8c380a9f9f3916": {
+        "title": "France shielding €18bn Russian asset pot from EU ‘reparations loan’ push",
+        "link": "https://www.ft.com/content/fe304bb8-d928-4b9b-8162-2000301be937",
+        "published_date": "Mon, 08 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-08T05:25:01.932229"
+      },
+      "bc103c169aba83c807d14d3e663e98547ce65a0bc17cc27ea1a09626ddf6f2d5": {
+        "title": "China’s trade surplus tops $1tn for first time",
+        "link": "https://www.ft.com/content/b9bf3d8f-d5d2-47b7-a498-efe0641cbbab",
+        "published_date": "Mon, 08 Dec 2025 03:56:00 GMT",
+        "first_seen": "2025-12-08T05:25:01.932231"
+      },
+      "17cafdc0d1dbdb9fc86f8f5178f8c7286f8d7e3659e93e2b87d8954820a7d5bb": {
+        "title": "How the bank behind London’s most expensive office lease unravelled",
+        "link": "https://www.ft.com/content/a8bb467b-1486-41fb-85a0-6c08d24f45eb",
+        "published_date": "Mon, 08 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-08T05:25:01.932232"
       }
     },
     "Ai": {
@@ -12594,13 +12618,31 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-07-2",
         "published_date": "Sun, 07 Dec 2025 18:44:00 GMT",
         "first_seen": "2025-12-07T23:20:10.024090"
+      },
+      "6526a56dce7f7a29442f5f621604852e311a9e63de0ad9a12054df7bd7169a5e": {
+        "title": "从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-2",
+        "published_date": "Mon, 08 Dec 2025 13:15:00 GMT",
+        "first_seen": "2025-12-08T05:25:02.053022"
+      },
+      "0e6291d7597ae643e199a11580016bf43764a7c9a063f23c58faeb93d40fb610": {
+        "title": "Vicino.ai 推出“超级代理”SuperIntelliAgent： 边生成边训练，让模型越用越“长智”",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08",
+        "published_date": "Mon, 08 Dec 2025 11:33:00 GMT",
+        "first_seen": "2025-12-08T05:25:02.053029"
+      },
+      "33fbc4af21cb3ed5ab7387759340c0b9fb3c232f89118380ae272a6fab037f00": {
+        "title": "2025-12-08日刊",
+        "link": "https://ai.hubtoday.app//2025-12/2025-12-08/",
+        "published_date": "Mon, 08 Dec 2025 07:13:00 GMT",
+        "first_seen": "2025-12-08T05:25:02.053031"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-07T23:20:24.556722",
-    "Finance": "2025-12-07T23:20:00.180732",
-    "Ai": "2025-12-07T23:20:10.024093"
+    "Technology": "2025-12-08T05:25:20.255145",
+    "Finance": "2025-12-08T05:25:01.932234",
+    "Ai": "2025-12-08T05:25:02.053034"
   }
 }
