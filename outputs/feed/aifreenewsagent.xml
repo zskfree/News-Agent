@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Dec 2025 08:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 08:33:24 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 23:21:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-08-4</link>
-      <description>&lt;![CDATA[上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 14:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-4</guid>
+      <title>ICLR 2026还会好吗？300篇投稿50篇含幻觉，引用example.com竟也能过审</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-08-8</link>
+      <description>&lt;![CDATA[ICLR 2026还会好吗？300篇投稿50篇含幻觉，引用example.com竟也能过审]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek V3到V3.2的进化之路，一文看全</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-08-3</link>
-      <description>&lt;![CDATA[DeepSeek V3到V3.2的进化之路，一文看全]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-3</guid>
+      <title>斯坦福最火CS课：不让学生写代码，必须用AI</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-08-7</link>
+      <description>&lt;![CDATA[斯坦福最火CS课：不让学生写代码，必须用AI]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>编程界“奥斯卡”百度之星决赛揭晓，上千选手激烈角逐，山东16岁中学生王茂骅夺冠！</title>
-      <link>https://www.qbitai.com/2025/12/359537.html</link>
-      <description>&lt;![CDATA[编程界“奥斯卡”百度之星决赛揭晓，上千选手激烈角逐，山东16岁中学生王茂骅夺冠！]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 07:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359537.html</guid>
+      <title>Waymo认栽召回！搞不定校车难题，被抓到19次非法超车</title>
+      <link>https://www.qbitai.com/2025/12/359599.html</link>
+      <description>&lt;![CDATA[Waymo认栽召回！搞不定校车难题，被抓到19次非法超车]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359599.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达自毁CUDA门槛！15行Python写GPU内核，性能匹敌200行C++</title>
-      <link>https://www.qbitai.com/2025/12/359497.html</link>
-      <description>&lt;![CDATA[英伟达自毁CUDA门槛！15行Python写GPU内核，性能匹敌200行C++]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 05:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359497.html</guid>
+      <title>AAAI 2026 Oral | 手机传感器正在泄露隐私？PATN实时守护隐私安全</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-08-5</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral | 手机传感器正在泄露隐私？PATN实时守护隐私安全]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>给机器人打造动力底座，微悍动力发布三款高功率密度关节模组</title>
+      <link>https://www.qbitai.com/2025/12/359600.html</link>
+      <description>&lt;![CDATA[给机器人打造动力底座，微悍动力发布三款高功率密度关节模组]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 08:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359600.html</guid>
       <category>Ai</category>
     </item>
   </channel>

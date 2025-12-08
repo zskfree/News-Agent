@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 08:33
+**最后更新时间**: 2025-12-08 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-08 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌突砍Gemini免费版炸锅，数据养模遭背刺？Gemini 3被GPT-5.2提前狙击，Demis Hassabis：谷歌、DeepMind须占最强位](https://www.infoq.cn/article/UjcqIEeqRiig2hdtDckI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 07:00
+
+#### [1700+学子竞逐金融梦，产教融合育见未来——2025深圳国际金融科技大赛圆满落幕](https://www.infoq.cn/article/cKMpwF1wq9Q9MtQSGR5d?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 19:01
+
+#### [62岁软件教父Martin Fowler警告：AI泡沫下，裁员潮成行业“萧条”铁证！大模型拖编程入非确定性深渊、年轻开发者陷毒苹果陷阱！](https://www.infoq.cn/article/mjPeD7eDL2XKNNd6zs3M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 17:36
+
+#### [Transformer 架构发明者再出山！发布首个开源模型，创业公司完成战略转型：不再产研兼顾](https://www.infoq.cn/article/0B1imZcsH2cJwMVOJxOX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 16:52
+
+#### [阿里系 App 禁止豆包手机登录；库克被曝出现“不明原因手部颤抖”；众擎T800人形机器人一脚踹倒自家CEO | AI周报](https://www.infoq.cn/article/AX3BW769MKiTHakSlpfF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 16:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Paramount Launches Hostile Bid for Warner Bros. After Trump Questions Netflix Deal](https://www.tmtpost.com/7801941.html)
+**发布时间**: 2025-12-09 00:54
+
+#### [Exclusive: Hinton Says He Feels “Some Regret” but Not Guilt in Conversation With Jany Zhao](https://www.tmtpost.com/7801795.html)
+**发布时间**: 2025-12-08 22:45
+
+#### [薪酬挂钩业绩！监管组合拳破解“基金盈利基民不赚钱”困局](https://www.tmtpost.com/7801743.html)
+**发布时间**: 2025-12-08 20:57
+
+#### [赵何娟：当杰弗里·辛顿告诉我，他后悔了｜2025 T-EDGE全球对话](https://www.tmtpost.com/7801505.html)
+**发布时间**: 2025-12-08 20:07
+
+#### [张予彤以月之暗面总裁身份出席活动，与金沙江纠纷或已解决](https://www.tmtpost.com/7801520.html)
+**发布时间**: 2025-12-08 19:43
+
+#### [银行数字化抢蛋糕比赛，胜负已分？](https://www.tmtpost.com/7801585.html)
+**发布时间**: 2025-12-08 19:21
+
+#### [第二十五届中国股权投资大会圆满落幕， 领航行业向新而行](https://www.tmtpost.com/7801046.html)
+**发布时间**: 2025-12-08 18:57
+
+#### [4.5 亿，巨子生物创始人，入局新赛道](https://www.tmtpost.com/7801051.html)
+**发布时间**: 2025-12-08 18:50
+
+#### [特宝生物的喜与忧](https://www.tmtpost.com/7801405.html)
+**发布时间**: 2025-12-08 18:50
+
+#### [MEMS传感器，必争之地](https://www.tmtpost.com/7801484.html)
+**发布时间**: 2025-12-08 18:48
+
+#### [巨鲸来袭，苹果进军机器人市场](https://www.tmtpost.com/7800901.html)
+**发布时间**: 2025-12-08 18:47
+
+#### [我用一辆增程车的钱当学费，教会自己下一辆必须买纯电](https://www.tmtpost.com/7801414.html)
+**发布时间**: 2025-12-08 18:43
+
+#### [北京不造机器人，北京在造神](https://www.tmtpost.com/7801361.html)
+**发布时间**: 2025-12-08 18:04
+
+#### [商超爆改成火锅店，盒马、胖东来、永辉都在扎堆“跨界”](https://www.tmtpost.com/7801314.html)
+**发布时间**: 2025-12-08 18:02
+
+#### [【Fintech 周报】明年起跨境汇款5000元要核实身份；信用卡三年减少1亿张；人保副总裁被查](https://www.tmtpost.com/7801403.html)
+**发布时间**: 2025-12-08 17:58
+
+#### [“挂面第一股”，也要下场开餐饮店了](https://www.tmtpost.com/7801299.html)
+**发布时间**: 2025-12-08 17:30
+
+#### [豆包手机，打响“AI超级入口”第一枪](https://www.tmtpost.com/7800947.html)
+**发布时间**: 2025-12-08 17:29
+
+#### [可口可乐的AI豪赌：看似抛弃“创意神话”，实则押注万亿增长](https://www.tmtpost.com/7800987.html)
+**发布时间**: 2025-12-08 17:26
+
+#### [姚驰：解析工业AI智能体，制造业“多快好省”的新一代答卷](https://www.tmtpost.com/7801190.html)
+**发布时间**: 2025-12-08 17:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/104425)
+**发布时间**: 2025-12-08 17:54
 
 ---
 

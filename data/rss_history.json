@@ -1293,42 +1293,6 @@
       }
     },
     "Technology": {
-      "d405cd908a39ea1258d53228da08a86322ab6c19cfac519d7b2a5e3aef165466": {
-        "title": "数据孤岛、协同低效？AI+虚拟孪生如何破解建筑行业数字化难题",
-        "link": "https://www.infoq.cn/article/jNFPJE9aRZi37seSRNwc?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 08 Nov 2025 18:19:00 GMT",
-        "first_seen": "2025-11-08T23:18:29.312721"
-      },
-      "74bcb2a5c1e82fac19c9da5b74c8eadedfc5316ce9f0f996d200ab2b79bc1d7d": {
-        "title": "快手算法专家吴翔宇确认出席AICon北京站，分享快手直播的AI进化论",
-        "link": "https://www.infoq.cn/article/fSJUbwINQ2YBKy5kozrX?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 08 Nov 2025 18:08:00 GMT",
-        "first_seen": "2025-11-08T23:18:29.312880"
-      },
-      "1c79c177c4100e53dfed4055576fd46448cca31356cc8266ff6df2150e919f7f": {
-        "title": "Z时代的豪华，奔驰交出了高分答卷",
-        "link": "https://www.tmtpost.com/7755290.html",
-        "published_date": "Sat, 08 Nov 2025 17:57:00 GMT",
-        "first_seen": "2025-11-08T23:18:29.313004"
-      },
-      "979fd242bb8f39872c4f602d30fa6e8824571a962cec7d25b7420ff775a4f868": {
-        "title": "如何紧贴业务逻辑开发专用AI Agent？",
-        "link": "https://www.tmtpost.com/7755180.html",
-        "published_date": "Sat, 08 Nov 2025 16:53:00 GMT",
-        "first_seen": "2025-11-08T23:18:29.313157"
-      },
-      "c29eff4657517ff45fe3ce3f90ae891cbfa2126fc8ace1ab82435b5f559b2fcc": {
-        "title": "10.58 万！零跑造了一台「红米 YU7」",
-        "link": "http://www.geekpark.net/news/356150",
-        "published_date": "Sat, 08 Nov 2025 16:51:00 GMT",
-        "first_seen": "2025-11-08T23:18:29.313356"
-      },
-      "a0b114aa413b171f1e58f4b356eb79ff514d9ce2665da6b638dc99cdb99c8b76": {
-        "title": "当一家传统车企，终于决定「师中长技」",
-        "link": "http://www.geekpark.net/news/356149",
-        "published_date": "Sat, 08 Nov 2025 16:48:00 GMT",
-        "first_seen": "2025-11-08T23:18:29.313586"
-      },
       "346abdc5c921334d3fae63c237ac1a94d9a61abf496ebb6a3b593372442f9afe": {
         "title": "2025年美容行业最大收购案诞生，双美竞争格局大变天",
         "link": "https://www.tmtpost.com/7755503.html",
@@ -10658,6 +10622,36 @@
         "link": "http://www.huxiu.com/article/4814147.html?f=wangzhan",
         "published_date": "Mon, 08 Dec 2025 13:00:00 GMT",
         "first_seen": "2025-12-08T08:33:47.083434"
+      },
+      "b85dd0c3abd525485e87efcafb42fb5601be9a1db21bc2e36b15fe8ce715b829": {
+        "title": "Transformer 架构发明者再出山！发布首个开源模型，创业公司完成战略转型：不再产研兼顾",
+        "link": "https://www.infoq.cn/article/0B1imZcsH2cJwMVOJxOX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 16:52:00 GMT",
+        "first_seen": "2025-12-08T23:22:22.003766"
+      },
+      "6091829116117447e2180ffeb10e828d11ef0cc57598df11c62e62053a1d98db": {
+        "title": "巨鲸来袭，苹果进军机器人市场",
+        "link": "https://www.tmtpost.com/7800901.html",
+        "published_date": "Mon, 08 Dec 2025 18:47:00 GMT",
+        "first_seen": "2025-12-08T23:22:22.003773"
+      },
+      "9762d39dd7baa58ce0440312815258c5c61a129b01bdcf836caf63e46d0a9d7c": {
+        "title": "Exclusive: Hinton Says He Feels “Some Regret” but Not Guilt in Conversation With Jany Zhao",
+        "link": "https://www.tmtpost.com/7801795.html",
+        "published_date": "Mon, 08 Dec 2025 22:45:00 GMT",
+        "first_seen": "2025-12-08T23:22:22.003775"
+      },
+      "cc57f8f67fb1140728c033d833ddcff8f12ff09e2632588c26cb954b9c46eb86": {
+        "title": "谷歌突砍Gemini免费版炸锅，数据养模遭背刺？Gemini 3被GPT-5.2提前狙击，Demis Hassabis：谷歌、DeepMind须占最强位",
+        "link": "https://www.infoq.cn/article/UjcqIEeqRiig2hdtDckI?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 07:00:00 GMT",
+        "first_seen": "2025-12-08T23:22:22.003777"
+      },
+      "5f7b51a627786b8aa284bd7586ebf635c83319d8d4c3bdba2cd17da3f96d4bb8": {
+        "title": "62岁软件教父Martin Fowler警告：AI泡沫下，裁员潮成行业“萧条”铁证！大模型拖编程入非确定性深渊、年轻开发者陷毒苹果陷阱！",
+        "link": "https://www.infoq.cn/article/mjPeD7eDL2XKNNd6zs3M?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 17:36:00 GMT",
+        "first_seen": "2025-12-08T23:22:22.003778"
       }
     },
     "Finance": {
@@ -11716,6 +11710,36 @@
         "link": "https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59",
         "published_date": "Mon, 08 Dec 2025 08:09:00 GMT",
         "first_seen": "2025-12-08T08:33:24.739772"
+      },
+      "be6d98a393eff7511084508d4d56a63d5d3868957da8e8dfcb91c0343f607701": {
+        "title": "Nvidia can sell H200 AI chips to China, Trump says",
+        "link": "https://www.ft.com/content/ac63139d-5143-4aed-a1e4-980a06551b51",
+        "published_date": "Mon, 08 Dec 2025 22:39:00 GMT",
+        "first_seen": "2025-12-08T23:21:39.346051"
+      },
+      "50405aba09f09d3b890235d27a8bbf0a3c3cc85767e8d00d246403fabdda5631": {
+        "title": "Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid",
+        "link": "https://www.ft.com/content/7981af0e-ad93-4c11-8c1c-09b0167bf4d6",
+        "published_date": "Mon, 08 Dec 2025 20:55:00 GMT",
+        "first_seen": "2025-12-08T23:21:39.346062"
+      },
+      "457b50213f77b3c82c6eb27cb4c134ea534bc26c71d8e529d1ef60267dbda306": {
+        "title": "IBM extends AI push with $11bn takeover of Confluent",
+        "link": "https://www.ft.com/content/8112d77f-2531-400f-b947-b506fe3c6b3f",
+        "published_date": "Mon, 08 Dec 2025 20:20:00 GMT",
+        "first_seen": "2025-12-08T23:21:39.346065"
+      },
+      "b08797802a45c78393de301b7e6cb402b41fb140b2467e0a91746b027cbbd6b4": {
+        "title": "Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives?",
+        "link": "https://www.marketwatch.com/story/mortgage-rates-are-surging-ahead-of-the-feds-expected-rate-cut-what-gives-cbb630ea?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Dec 2025 21:40:00 GMT",
+        "first_seen": "2025-12-08T23:21:39.346067"
+      },
+      "1bfd41c22246706124eab49438813b9a073ea8ef7e00e60b362ad584f252dee8": {
+        "title": "Young men aren’t investing in a 401(k) for retirement — they’re banking on bitcoin",
+        "link": "https://www.marketwatch.com/story/young-men-arent-investing-in-a-401-k-for-retirement-theyre-banking-on-bitcoin-ead9d58c?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Dec 2025 21:30:00 GMT",
+        "first_seen": "2025-12-08T23:21:39.346069"
       }
     },
     "Ai": {
@@ -12678,13 +12702,43 @@
         "link": "https://www.qbitai.com/2025/12/359497.html",
         "published_date": "Mon, 08 Dec 2025 05:44:00 GMT",
         "first_seen": "2025-12-08T08:33:24.861678"
+      },
+      "eedd8364f651e4ad9f9ae1a5b6a4ad83be4c695d74e53f9268a93516d87d27c8": {
+        "title": "ICLR 2026还会好吗？300篇投稿50篇含幻觉，引用example.com竟也能过审",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-8",
+        "published_date": "Mon, 08 Dec 2025 18:25:00 GMT",
+        "first_seen": "2025-12-08T23:21:51.740857"
+      },
+      "58f346adbf317b5a2858811a0b98d8f2a0c4f394ce96b1ecfffc5b54d99dce28": {
+        "title": "斯坦福最火CS课：不让学生写代码，必须用AI",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-7",
+        "published_date": "Mon, 08 Dec 2025 18:21:00 GMT",
+        "first_seen": "2025-12-08T23:21:51.740863"
+      },
+      "1bdfc9f54961f0b49d8ec9605976b0b9a9e56c320a0ee5090bd45c6d3a59b29a": {
+        "title": "Waymo认栽召回！搞不定校车难题，被抓到19次非法超车",
+        "link": "https://www.qbitai.com/2025/12/359599.html",
+        "published_date": "Mon, 08 Dec 2025 09:28:00 GMT",
+        "first_seen": "2025-12-08T23:21:51.740865"
+      },
+      "21eedc668b06e811dabcfba2d704eec3feefec7daeb462d6820bf460a3088b32": {
+        "title": "AAAI 2026 Oral | 手机传感器正在泄露隐私？PATN实时守护隐私安全",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-5",
+        "published_date": "Mon, 08 Dec 2025 18:18:00 GMT",
+        "first_seen": "2025-12-08T23:21:51.740867"
+      },
+      "f1c9c90285e5bca231771e4582dc8d717c2e1eb239109dc02b82c536c6164760": {
+        "title": "给机器人打造动力底座，微悍动力发布三款高功率密度关节模组",
+        "link": "https://www.qbitai.com/2025/12/359600.html",
+        "published_date": "Mon, 08 Dec 2025 08:58:00 GMT",
+        "first_seen": "2025-12-08T23:21:51.740869"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-08T08:33:47.083436",
-    "Finance": "2025-12-08T08:33:24.739779",
-    "Ai": "2025-12-08T08:33:24.861680"
+    "Technology": "2025-12-08T23:22:22.003780",
+    "Finance": "2025-12-08T23:21:39.346071",
+    "Ai": "2025-12-08T23:21:51.740871"
   }
 }

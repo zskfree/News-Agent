@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 08:33
+**最后更新时间**: 2025-12-08 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-08 23:21)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia’s stock rises as Trump blesses China sales. Here’s how big the opportunity could be.](https://www.marketwatch.com/story/nvidias-stock-rises-as-trump-blesses-china-sales-heres-how-big-the-opportunity-could-be-6a9dabc4?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 23:12
+
+#### [This financial company was just added to the S&P 500, and its stock is surging](https://www.marketwatch.com/story/this-financial-company-was-just-added-to-the-s-p-500-and-its-stock-is-surging-db3d7dd3?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 23:04
+
+#### [‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 22:30
+
+#### [Why Trump’s new $12 billion farm aid package is just a Band-Aid for struggling soybean growers](https://www.marketwatch.com/story/why-trumps-new-12-billion-farm-aid-package-is-just-a-band-aid-for-struggling-soybean-growers-708e83e1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 22:17
+
+#### [Odell Beckham Jr. says a $100 million NFL contract won’t last a lifetime. Here’s what other athletes think.](https://www.marketwatch.com/story/odell-beckham-jr-says-a-100-million-nfl-contract-wont-last-a-lifetime-heres-what-other-athletes-think-e5f245ff?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 22:11
+
+#### [Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 22:07
+
+#### [You’ve just won the $875 million Powerball jackpot. Here are the 5 money moves you need to make next.](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 21:43
+
+#### [Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives?](https://www.marketwatch.com/story/mortgage-rates-are-surging-ahead-of-the-feds-expected-rate-cut-what-gives-cbb630ea?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 21:40
+
+#### [Young men aren’t investing in a 401(k) for retirement — they’re banking on bitcoin](https://www.marketwatch.com/story/young-men-arent-investing-in-a-401-k-for-retirement-theyre-banking-on-bitcoin-ead9d58c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 21:30
+
+#### [Why I’m moving my money out of U.S. stocks — just like Warren Buffett](https://www.marketwatch.com/story/why-im-moving-my-money-out-of-u-s-stocks-just-like-warren-buffett-5a1b0ad8?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 21:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia can sell H200 AI chips to China, Trump says](https://www.ft.com/content/ac63139d-5143-4aed-a1e4-980a06551b51)
+**发布时间**: 2025-12-08 22:39
+
+#### [Kushner, Gulf money and desperate texts: inside Paramount’s hostile bid for Warner Bros](https://www.ft.com/content/e5da7064-3a46-4bab-9a6c-12ae03eead16)
+**发布时间**: 2025-12-08 21:13
+
+#### [Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid](https://www.ft.com/content/7981af0e-ad93-4c11-8c1c-09b0167bf4d6)
+**发布时间**: 2025-12-08 20:55
+
+#### [IBM extends AI push with $11bn takeover of Confluent](https://www.ft.com/content/8112d77f-2531-400f-b947-b506fe3c6b3f)
+**发布时间**: 2025-12-08 20:20
+
+#### [Paramount’s WBD bid relegates Netflix to a supporting role](https://www.ft.com/content/9dcf3098-964e-4884-b2ea-ba9702be4981)
+**发布时间**: 2025-12-08 18:45
+
+#### [The White House’s rupture with the western alliance](https://www.ft.com/content/e05535aa-4dbb-4cb5-998b-7495e96c59a9)
+**发布时间**: 2025-12-08 18:40
+
+#### [The Netflix age has been great for consumers but terrible for artists](https://www.ft.com/content/b49cd2de-f95d-47d3-bba0-cdb619176a84)
+**发布时间**: 2025-12-08 17:21
+
+#### [Blair out of running for Gaza ‘board of peace’](https://www.ft.com/content/3f6cdc81-f286-4424-b80d-2355c8316b29)
+**发布时间**: 2025-12-08 16:30
+
+#### [British universities’ reliance on Chinese fees fuelling self-censorship, say academics](https://www.ft.com/content/a1234b4f-5096-42d4-a76b-2f2a116373fd)
+**发布时间**: 2025-12-08 16:28
+
+#### [Hedge fund ordered to pay bonus to trader who made 97% of its revenues](https://www.ft.com/content/555d76fd-c514-4199-b55e-582c679153b6)
+**发布时间**: 2025-12-08 12:53
 
 ---
 
