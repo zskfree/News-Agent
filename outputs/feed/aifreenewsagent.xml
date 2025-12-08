@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 05:25:02 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 08:33:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-08-2</link>
-      <description>&lt;![CDATA[从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-2</guid>
+      <title>上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-08-4</link>
+      <description>&lt;![CDATA[上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Vicino.ai 推出“超级代理”SuperIntelliAgent： 边生成边训练，让模型越用越“长智”</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-08</link>
-      <description>&lt;![CDATA[Vicino.ai 推出“超级代理”SuperIntelliAgent： 边生成边训练，让模型越用越“长智”]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08</guid>
+      <title>DeepSeek V3到V3.2的进化之路，一文看全</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-08-3</link>
+      <description>&lt;![CDATA[DeepSeek V3到V3.2的进化之路，一文看全]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-08-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2025-12-08日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-08/</link>
-      <description>&lt;![CDATA[2025-12-08日刊]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-08/</guid>
+      <title>编程界“奥斯卡”百度之星决赛揭晓，上千选手激烈角逐，山东16岁中学生王茂骅夺冠！</title>
+      <link>https://www.qbitai.com/2025/12/359537.html</link>
+      <description>&lt;![CDATA[编程界“奥斯卡”百度之星决赛揭晓，上千选手激烈角逐，山东16岁中学生王茂骅夺冠！]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 07:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359537.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>英伟达自毁CUDA门槛！15行Python写GPU内核，性能匹敌200行C++</title>
+      <link>https://www.qbitai.com/2025/12/359497.html</link>
+      <description>&lt;![CDATA[英伟达自毁CUDA门槛！15行Python写GPU内核，性能匹敌200行C++]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 05:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359497.html</guid>
       <category>Ai</category>
     </item>
   </channel>

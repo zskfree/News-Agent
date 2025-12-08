@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 05:25:01 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 08:33:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures flat as investors await Fed meeting — and likely rate cut</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures flat as investors await Fed meeting — and likely rate cut]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 04:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The power crunch threatening America’s AI ambitions</title>
-      <link>https://ig.ft.com/ai-power/</link>
-      <description>&lt;![CDATA[The power crunch threatening America’s AI ambitions]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ig.ft.com/ai-power/</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>France shielding €18bn Russian asset pot from EU ‘reparations loan’ push</title>
-      <link>https://www.ft.com/content/fe304bb8-d928-4b9b-8162-2000301be937</link>
-      <description>&lt;![CDATA[France shielding €18bn Russian asset pot from EU ‘reparations loan’ push]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fe304bb8-d928-4b9b-8162-2000301be937</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>China’s trade surplus tops $1tn for first time</title>
-      <link>https://www.ft.com/content/b9bf3d8f-d5d2-47b7-a498-efe0641cbbab</link>
-      <description>&lt;![CDATA[China’s trade surplus tops $1tn for first time]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 03:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b9bf3d8f-d5d2-47b7-a498-efe0641cbbab</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How the bank behind London’s most expensive office lease unravelled</title>
-      <link>https://www.ft.com/content/a8bb467b-1486-41fb-85a0-6c08d24f45eb</link>
-      <description>&lt;![CDATA[How the bank behind London’s most expensive office lease unravelled]]&gt;</description>
-      <pubDate>Mon, 08 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a8bb467b-1486-41fb-85a0-6c08d24f45eb</guid>
+      <title>Reform UK denies breaking electoral law over Farage’s campaign expenses</title>
+      <link>https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59</link>
+      <description>&lt;![CDATA[Reform UK denies breaking electoral law over Farage’s campaign expenses]]&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 08:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 05:24
+**最后更新时间**: 2025-12-08 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-08 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK denies breaking electoral law over Farage’s campaign expenses](https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59)
+**发布时间**: 2025-12-08 08:09
+
+#### [Deutsche Bank seeks 40% pay bump for highest-paid chair in Dax](https://www.ft.com/content/ed08c254-fead-4adf-b577-384babf105c3)
+**发布时间**: 2025-12-08 05:00
+
+#### [Reform UK councillor’s company fined £40,000 for hiring illegal worker](https://www.ft.com/content/de36d9bd-9b8f-429c-a632-e1b82917c8d0)
+**发布时间**: 2025-12-08 05:00
 
 ---
 
