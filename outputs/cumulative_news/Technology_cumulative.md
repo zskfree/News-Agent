@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 08:32
+**最后更新时间**: 2025-12-09 23:26
+
+---
+
+## 🆕 最新更新 (2025-12-09 23:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“Father of the Digital Economy” Don Tapscott Makes a Bold Prediction: The Era of Identic AI Is Here](https://www.tmtpost.com/7803649.html)
+**发布时间**: 2025-12-09 22:37
+
+#### [太龙药业10亿换主江西国资委，四季度还需赚3000万完成对赌丨并购一线](https://www.tmtpost.com/7803447.html)
+**发布时间**: 2025-12-09 20:37
+
+#### [联姻一年就搁置，万豪再陷“中国合伙人之困”](https://www.tmtpost.com/7802761.html)
+**发布时间**: 2025-12-09 20:10
+
+#### [2025年，MNC又花了超100亿美元在这个赛道扫货](https://www.tmtpost.com/7802708.html)
+**发布时间**: 2025-12-09 20:09
+
+#### [流媒体对垒院线第三回合，Netflix收购华纳又遇全面抵制](https://www.tmtpost.com/7802334.html)
+**发布时间**: 2025-12-09 20:09
+
+#### [背靠香飘飘和蜜雪冰城，每件只赚1分钱的生意也要IPO了](https://www.tmtpost.com/7802803.html)
+**发布时间**: 2025-12-09 20:08
+
+#### [Netflix收购华纳兄弟，好莱坞彻底变天了](https://www.tmtpost.com/7803198.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [H200对华放行+CPU/GPU涨价，半导体市场迎重磅变局](https://www.tmtpost.com/7803159.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [与AI抢电力、价格创新高，铝产业“反内卷”的突围之路](https://www.tmtpost.com/7802960.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [Agent智能体开发平台全景图](https://www.tmtpost.com/7802029.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [疯狂眼镜卷土重来](https://www.tmtpost.com/7802809.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [小红卡没了，小红书的本地生活怎么办？](https://www.tmtpost.com/7802996.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [春节9天假直奔肯尼亚?这届游客开始“错峰”看动物](https://www.tmtpost.com/7802984.html)
+**发布时间**: 2025-12-09 20:07
+
+#### [云深处科技完成超5亿元C轮融资，加速具身智能核心技术攻关与行业落地 | 融资速递](https://www.tmtpost.com/7803333.html)
+**发布时间**: 2025-12-09 19:41
+
+#### [加速“碎片化”AI应用规模化落地，算力竞争迎来新范式](https://www.tmtpost.com/7803248.html)
+**发布时间**: 2025-12-09 19:22
+
+#### [对话福瑞泰克张林：从500万到千万级，如何跨越VLA商业化鸿沟](https://www.tmtpost.com/7803223.html)
+**发布时间**: 2025-12-09 18:43
+
+#### [《山野餐饮研究报告2025》：山野餐饮热度持续攀升，餐饮行业进入“万物皆可山野”](https://www.tmtpost.com/7802424.html)
+**发布时间**: 2025-12-09 18:41
+
+#### [理想的终极命题](https://www.tmtpost.com/7802184.html)
+**发布时间**: 2025-12-09 18:41
+
+#### [《疯狂动物城2》折射的一个社会心理现象](https://www.tmtpost.com/7802941.html)
+**发布时间**: 2025-12-09 18:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [星巴克中国技术团队开始用 Agentic AI 改变零售（下） ｜行知数字中国](https://www.infoq.cn/video/KY4jVrIIIFhA56aCefp0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 22:00
+
+#### [模力工场 023 周 AI 应用榜：从旅行生活到 AI 基建，“Agent 时代拼图”再添新砖](https://www.infoq.cn/article/VE0IJPJ0mHzs09WKHMY6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 20:00
+
+#### [请AI做5G“监理”，为质检工程配置“智慧大脑”](https://www.infoq.cn/article/g4669vEU2JDaDPTkFarV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 18:59
+
+#### [七大平台集体亮相，300+款智能体“即取即用”！中关村科金公开企业级智能体落地路线图](https://www.infoq.cn/article/ERu9OPHCZzZpDcRfS0uJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 18:44
+
+#### [3个月连融5亿！极佳视界再获2亿元A2轮融资，物理世界的“ChatGPT时刻”正加速到来？](https://www.infoq.cn/article/LVwlqFQmEIhrdM3cpCXg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 18:07
+
+#### [AI Agent如何重构企业核心系统？深度拆解Agent、多模态与组织变革的实战路径｜AICon](https://www.infoq.cn/article/CmhC4KTA3SdqzeEAiguS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 17:42
+
+#### [星巴克中国技术团队开始用 Agentic AI 改变零售（上） ｜行知数字中国](https://www.infoq.cn/video/idiYyb7MOGo9SrP5ruga?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 16:51
+
+#### [“最悲伤的结局”？IBM豪掷110亿收购Confluent：Kafka开源焦虑升级，Flink流计算或成最大赢家](https://www.infoq.cn/article/mopDfUoFGfL9zllYKZO1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 16:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 121 | 冬季火锅吃什么、一周热评以及把 Mac mini 变成麦金塔](https://sspai.com/post/104462)
+**发布时间**: 2025-12-09 17:00
+
+#### [App+1｜当 AI 与 FSRS 算法碰撞：「新词」让记单词回归语境](https://sspai.com/post/104366)
+**发布时间**: 2025-12-09 15:41
 
 ---
 

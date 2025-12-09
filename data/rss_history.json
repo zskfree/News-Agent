@@ -1281,42 +1281,6 @@
       }
     },
     "Technology": {
-      "2d628149e736cceae58baba0f46b971d0f6e2d868782c27d17aab920ebf885bb": {
-        "title": "Cloudflare 用 Rust 重写核心系统：CDN 性能提升 25%，响应时间缩短 10 毫秒",
-        "link": "https://www.infoq.cn/article/iqGVY7r2y27H7r1Hf1z1?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 09 Nov 2025 20:59:00 GMT",
-        "first_seen": "2025-11-09T23:18:39.087517"
-      },
-      "b8bef727c4acf1266f2768e366bee4b4ffc5d8d731f6326f7b4ede0fd5d84119": {
-        "title": "一边秀肌肉，一边设围墙，NVIDIA 发布 OmniVinci，性能碾压 Qwen2.5-Omni，却被骂“假开源”",
-        "link": "https://www.infoq.cn/article/thKrURwUUohbMj0FFKZh?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 09 Nov 2025 20:56:00 GMT",
-        "first_seen": "2025-11-09T23:18:39.087762"
-      },
-      "29159ca5d599cb5178a91707e4c88ed8d82b6176637acf9333ae1aa6ba83fec3": {
-        "title": "补水啦份额一度赶超尖叫，运动饮料即将燃起战火？",
-        "link": "https://www.tmtpost.com/7755750.html",
-        "published_date": "Sun, 09 Nov 2025 17:43:00 GMT",
-        "first_seen": "2025-11-09T23:18:39.087912"
-      },
-      "e2e523c4ad60fa60952be5e11f9a351a4bac646b15db8e026a0bfd9224f786f5": {
-        "title": "480亿新势力首富放“大招”，马斯克看了都点赞",
-        "link": "https://www.tmtpost.com/7755472.html",
-        "published_date": "Sun, 09 Nov 2025 17:03:00 GMT",
-        "first_seen": "2025-11-09T23:18:39.088083"
-      },
-      "e42590981f07590e9821b5835ddacb41ada0661836ccb673f87e010c92d93b3c": {
-        "title": "小红书做支付：节流又开源，但难成“支付宝”",
-        "link": "https://www.tmtpost.com/7755432.html",
-        "published_date": "Sun, 09 Nov 2025 17:03:00 GMT",
-        "first_seen": "2025-11-09T23:18:39.088292"
-      },
-      "bd9a0daf0e4eae925c2bf520e3a3ff96c240eaaadc3bdc6dfef77ec448b92e04": {
-        "title": "10只收益跑赢大盘的防御性股票",
-        "link": "https://www.tmtpost.com/7755577.html",
-        "published_date": "Sun, 09 Nov 2025 10:37:00 GMT",
-        "first_seen": "2025-11-09T23:18:39.088480"
-      },
       "f11ef5789d77b464a0a381acac1e53fae9d797d13e2f8a8b0d28b38a46117565": {
         "title": "康方生物，别以为你稳了",
         "link": "https://www.tmtpost.com/7756502.html",
@@ -10652,6 +10616,36 @@
         "link": "https://www.tmtpost.com/7802153.html",
         "published_date": "Tue, 09 Dec 2025 16:23:00 GMT",
         "first_seen": "2025-12-09T08:33:05.710879"
+      },
+      "28e952fc9850c92d29a1b845aba6b38eb70fe302b06fea4ad2a552bb89dd9eba": {
+        "title": "H200对华放行+CPU/GPU涨价，半导体市场迎重磅变局",
+        "link": "https://www.tmtpost.com/7803159.html",
+        "published_date": "Tue, 09 Dec 2025 20:07:00 GMT",
+        "first_seen": "2025-12-09T23:26:56.730341"
+      },
+      "48f751f3e80403087b550f6d41a9039f055e30493af5eb3598ae47c423cc0caf": {
+        "title": "AI Agent如何重构企业核心系统？深度拆解Agent、多模态与组织变革的实战路径｜AICon",
+        "link": "https://www.infoq.cn/article/CmhC4KTA3SdqzeEAiguS?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 17:42:00 GMT",
+        "first_seen": "2025-12-09T23:26:56.730347"
+      },
+      "6721b363a84016516fe83c925defc97d9a394e1eed0dfa1423d9909e4c67d464": {
+        "title": "超级Agent大战超级App，你站agent还是APP？",
+        "link": "http://www.huxiu.com/article/4814940.html?f=wangzhan",
+        "published_date": "Tue, 09 Dec 2025 10:00:00 GMT",
+        "first_seen": "2025-12-09T23:26:56.730350"
+      },
+      "c9db578b02ab491061713667c62e57968a62ad49b3dca69ec84507bfcfba9a29": {
+        "title": "地平线余凯：物理世界的AI基模，从智能驾驶开始 | 巴伦精选",
+        "link": "https://www.tmtpost.com/7802073.html",
+        "published_date": "Tue, 09 Dec 2025 08:49:00 GMT",
+        "first_seen": "2025-12-09T23:26:56.730351"
+      },
+      "77e98a1088c6be3d9bc9ea30e2944a460541802e9038a85669dfda4f54c64afb": {
+        "title": "“Father of the Digital Economy” Don Tapscott Makes a Bold Prediction: The Era of Identic AI Is Here",
+        "link": "https://www.tmtpost.com/7803649.html",
+        "published_date": "Tue, 09 Dec 2025 22:37:00 GMT",
+        "first_seen": "2025-12-09T23:26:56.730353"
       }
     },
     "Finance": {
@@ -11776,6 +11770,36 @@
         "link": "https://www.ft.com/content/eb50b7d9-1890-4c2b-bad2-649262c69f01",
         "published_date": "Tue, 09 Dec 2025 06:00:00 GMT",
         "first_seen": "2025-12-09T08:32:40.901830"
+      },
+      "3ce8035cead6e8c798a25efbe77b881238ef78d40606c9c6878a292552b9fbe7": {
+        "title": "Trump to kick off final round of Fed chair interviews this week",
+        "link": "https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175",
+        "published_date": "Tue, 09 Dec 2025 21:55:00 GMT",
+        "first_seen": "2025-12-09T23:26:27.325646"
+      },
+      "5ff77fff0247f07c8fc8802ec80b161874a5df56879b797dfbcda5301aca5985": {
+        "title": "Rise in US job openings offers hope of labour market stabilisation",
+        "link": "https://www.ft.com/content/88f08006-eba1-411f-a571-3629b010e18b",
+        "published_date": "Tue, 09 Dec 2025 21:45:00 GMT",
+        "first_seen": "2025-12-09T23:26:27.325658"
+      },
+      "26f071843a337b688eab61f86af5272121385ea73613a15d116c29c5ca5448ea": {
+        "title": "Ukraine strikes deal to restructure $2.6bn of growth-linked debt",
+        "link": "https://www.ft.com/content/bae2c449-7fc7-45d8-b86d-81534858144c",
+        "published_date": "Tue, 09 Dec 2025 18:09:00 GMT",
+        "first_seen": "2025-12-09T23:26:27.325661"
+      },
+      "1db49262b1783729f1b92688e46e53c22fae536c1767f6a046ad61aeca3a0f39": {
+        "title": "Why the world should worry about stablecoins",
+        "link": "https://www.ft.com/content/a5f4b737-215f-4e40-b6e8-0c3ade7e9a30",
+        "published_date": "Tue, 09 Dec 2025 17:30:00 GMT",
+        "first_seen": "2025-12-09T23:26:27.325663"
+      },
+      "f002a61d2b8d517fac361747cc58caafedbe577a17a901d886ba97459a9b7594": {
+        "title": "Move over, AI — these brand-name stocks promise more bang for your buck",
+        "link": "https://www.marketwatch.com/story/ai-stocks-are-flashing-code-red-insiders-at-these-familiar-companies-are-seeing-green-834fa86f?mod=mw_rss_topstories",
+        "published_date": "Tue, 09 Dec 2025 20:59:00 GMT",
+        "first_seen": "2025-12-09T23:26:27.325664"
       }
     },
     "Ai": {
@@ -12816,13 +12840,43 @@
         "link": "https://ai.hubtoday.app//2025-12/2025-12-09/",
         "published_date": "Tue, 09 Dec 2025 07:14:00 GMT",
         "first_seen": "2025-12-09T08:32:41.018403"
+      },
+      "37a84ac82b180018fb54defae1027c1c77f811c6feb8dddfb0ece2962cd1dcc2": {
+        "title": "Waymo数据意外曝光：2500台车每周45万订单，重返全球第一",
+        "link": "https://www.qbitai.com/2025/12/359976.html",
+        "published_date": "Tue, 09 Dec 2025 09:29:00 GMT",
+        "first_seen": "2025-12-09T23:26:38.178740"
+      },
+      "0f1bfe6720439ab61b31cd9857b84c4d61d6d44b47798cf17bbdada8d323850a": {
+        "title": "地平线首曝BPU「黎曼」架构，用数学流形重构AI计算",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-09-7",
+        "published_date": "Tue, 09 Dec 2025 17:14:00 GMT",
+        "first_seen": "2025-12-09T23:26:38.178747"
+      },
+      "26de1a3fddd6e9e1ae5dce3467e89f73a80f69293f0c255a05ad80e34e21652e": {
+        "title": "Light-X来了！全球首个「镜头×光照」双控4D视频生成框架，单目视频秒变电影级",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-09-8",
+        "published_date": "Tue, 09 Dec 2025 17:22:00 GMT",
+        "first_seen": "2025-12-09T23:26:38.178749"
+      },
+      "218191a857b5f0df22e71a7496cffc3f3f9c12deee406371a0283fd0f9441b7d": {
+        "title": "谷歌TPU杀疯了，产能暴涨120%、性能4倍吊打，英伟达还坐得稳吗？",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-09-9",
+        "published_date": "Tue, 09 Dec 2025 17:35:00 GMT",
+        "first_seen": "2025-12-09T23:26:38.178750"
+      },
+      "1d02ef915b904880b35c752514165b362135bb8e090fa2632e49f0f9d37b4b7c": {
+        "title": "共推空天领域智能化升级！趋境科技与金航数码强强联手",
+        "link": "https://www.qbitai.com/2025/12/359991.html",
+        "published_date": "Tue, 09 Dec 2025 10:18:00 GMT",
+        "first_seen": "2025-12-09T23:26:38.178752"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-09T08:33:05.710881",
-    "Finance": "2025-12-09T08:32:40.901837",
-    "Ai": "2025-12-09T08:32:41.018405"
+    "Technology": "2025-12-09T23:26:56.730354",
+    "Finance": "2025-12-09T23:26:27.325667",
+    "Ai": "2025-12-09T23:26:38.178754"
   }
 }

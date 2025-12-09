@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Dec 2025 08:33:05 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 23:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 23:26:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍</title>
-      <link>https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&amp;utm_medium=article</guid>
+      <title>H200对华放行+CPU/GPU涨价，半导体市场迎重磅变局</title>
+      <link>https://www.tmtpost.com/7803159.html</link>
+      <description>&lt;![CDATA[H200对华放行+CPU/GPU涨价，半导体市场迎重磅变局]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 20:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7803159.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！</title>
-      <link>https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI Agent如何重构企业核心系统？深度拆解Agent、多模态与组织变革的实战路径｜AICon</title>
+      <link>https://www.infoq.cn/article/CmhC4KTA3SdqzeEAiguS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Agent如何重构企业核心系统？深度拆解Agent、多模态与组织变革的实战路径｜AICon]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CmhC4KTA3SdqzeEAiguS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IBM Acquires Confluent for $11 Billion in Major AI Data Play</title>
-      <link>https://www.tmtpost.com/7802580.html</link>
-      <description>&lt;![CDATA[IBM Acquires Confluent for $11 Billion in Major AI Data Play]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7802580.html</guid>
+      <title>超级Agent大战超级App，你站agent还是APP？</title>
+      <link>http://www.huxiu.com/article/4814940.html?f=wangzhan</link>
+      <description>&lt;![CDATA[超级Agent大战超级App，你站agent还是APP？]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4814940.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力十年狂飙100000倍，他却每天担心破产！黄仁勋亲述：如何用“30天危机感”逆袭万亿AI市场</title>
-      <link>https://www.infoq.cn/article/DcgMYrU9vTE4ItiIyxYO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[算力十年狂飙100000倍，他却每天担心破产！黄仁勋亲述：如何用“30天危机感”逆袭万亿AI市场]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DcgMYrU9vTE4ItiIyxYO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>地平线余凯：物理世界的AI基模，从智能驾驶开始 | 巴伦精选</title>
+      <link>https://www.tmtpost.com/7802073.html</link>
+      <description>&lt;![CDATA[地平线余凯：物理世界的AI基模，从智能驾驶开始 | 巴伦精选]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7802073.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7802153.html</link>
-      <description>&lt;![CDATA[AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7802153.html</guid>
+      <title>“Father of the Digital Economy” Don Tapscott Makes a Bold Prediction: The Era of Identic AI Is Here</title>
+      <link>https://www.tmtpost.com/7803649.html</link>
+      <description>&lt;![CDATA[“Father of the Digital Economy” Don Tapscott Makes a Bold Prediction: The Era of Identic AI Is Here]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7803649.html</guid>
       <category>Technology</category>
     </item>
   </channel>
