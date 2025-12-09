@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1bc5657f22ab0ee464401c8883c9c9ad83b7d767d5bbbe51775c3d7db41a39c3": {
-        "title": "大厂AI新战场：AQ狂飙，蚂蚁押注大健康赛道",
-        "link": "https://www.qbitai.com/2025/11/350413.html",
-        "published_date": "Sun, 09 Nov 2025 07:47:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.715081"
-      },
       "139eb1a2c3412974542b308d394ae0468687af98bd7ebb62e1bee7f1de561a6f": {
         "title": "刘强东入局换电：京东5万开卖“网约车神车”，88秒补能500km，首发华为“云车机”",
         "link": "https://www.qbitai.com/2025/11/350774.html",
@@ -1287,24 +1281,6 @@
       }
     },
     "Technology": {
-      "8104fea6881c3aa0d3f2b0e077bfabc2d4bddb94620029d068686c56efb6e811": {
-        "title": "2025乌镇峰会：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
-        "link": "https://www.infoq.cn/article/j8pX6cXYHoVhudtRoV6t?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 09 Nov 2025 14:46:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.784557"
-      },
-      "ed957060959aa4facf4ea02de944fa47b8401c51d7525122a8dba45b5c2732a7": {
-        "title": "一半文书交给 AI 后，我重新理解了「法律工具」",
-        "link": "https://sspai.com/post/103187",
-        "published_date": "Sun, 09 Nov 2025 14:16:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.784707"
-      },
-      "49dee950ff753630cfc1ed7a4b73ab76cb4138dbab98a3429b721f2a0b03c12f": {
-        "title": "AI高渗透下的薪酬管理",
-        "link": "https://www.tmtpost.com/7755537.html",
-        "published_date": "Sun, 09 Nov 2025 13:28:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.784832"
-      },
       "2d628149e736cceae58baba0f46b971d0f6e2d868782c27d17aab920ebf885bb": {
         "title": "Cloudflare 用 Rust 重写核心系统：CDN 性能提升 25%，响应时间缩短 10 毫秒",
         "link": "https://www.infoq.cn/article/iqGVY7r2y27H7r1Hf1z1?utm_source=rss&utm_medium=article",
@@ -10646,6 +10622,36 @@
         "link": "http://www.geekpark.net/news/357791",
         "published_date": "Tue, 09 Dec 2025 12:59:00 GMT",
         "first_seen": "2025-12-09T05:27:09.788204"
+      },
+      "0cfa597ed350df2166df922edfcb6645a924e472d8bc64c3375615c867ff9e61": {
+        "title": "从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍",
+        "link": "https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 16:21:00 GMT",
+        "first_seen": "2025-12-09T08:33:05.710867"
+      },
+      "86d46fc1326cfa3a7ac7bf28415bba688053e035fd2ff8eef3a820d095858c16": {
+        "title": "刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！",
+        "link": "https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 15:43:00 GMT",
+        "first_seen": "2025-12-09T08:33:05.710873"
+      },
+      "571fd15c1b5dd5aa212d6ad4027151fad54fecf068884c948f5c3b43b8fa3aaa": {
+        "title": "IBM Acquires Confluent for $11 Billion in Major AI Data Play",
+        "link": "https://www.tmtpost.com/7802580.html",
+        "published_date": "Tue, 09 Dec 2025 12:04:00 GMT",
+        "first_seen": "2025-12-09T08:33:05.710876"
+      },
+      "bb8d048d6307f664018fa1d00523db676bf0afe6ac83d58140a9aff55d3e5fc6": {
+        "title": "算力十年狂飙100000倍，他却每天担心破产！黄仁勋亲述：如何用“30天危机感”逆袭万亿AI市场",
+        "link": "https://www.infoq.cn/article/DcgMYrU9vTE4ItiIyxYO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 11:19:00 GMT",
+        "first_seen": "2025-12-09T08:33:05.710878"
+      },
+      "80d6f1e5b4bb05989a7c8d2484fba10b28b6fb30b2fd71ce034c3930b84a0120": {
+        "title": "AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7802153.html",
+        "published_date": "Tue, 09 Dec 2025 16:23:00 GMT",
+        "first_seen": "2025-12-09T08:33:05.710879"
       }
     },
     "Finance": {
@@ -11764,6 +11770,12 @@
         "link": "https://www.ft.com/content/97dabda4-b118-4d34-97b5-9245b2afbf4c",
         "published_date": "Tue, 09 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-09T05:26:32.008481"
+      },
+      "97ab9973116b46e1ecec9e50f3eee5c245bb3d620a8ad9aec39d8e2245fff1ff": {
+        "title": "Watching Netflix makes stocks go down: study",
+        "link": "https://www.ft.com/content/eb50b7d9-1890-4c2b-bad2-649262c69f01",
+        "published_date": "Tue, 09 Dec 2025 06:00:00 GMT",
+        "first_seen": "2025-12-09T08:32:40.901830"
       }
     },
     "Ai": {
@@ -12786,13 +12798,31 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-09",
         "published_date": "Tue, 09 Dec 2025 10:24:00 GMT",
         "first_seen": "2025-12-09T05:26:42.057964"
+      },
+      "a30a7dd9cdfe53348299d292486514655503fcaa55e5da44cb886d1baaf57aa7": {
+        "title": "论文自动变漫画PPT！Nano Banana同款用秘塔免费生成，还有一对一语音讲解",
+        "link": "https://www.qbitai.com/2025/12/359845.html",
+        "published_date": "Tue, 09 Dec 2025 07:43:00 GMT",
+        "first_seen": "2025-12-09T08:32:41.018391"
+      },
+      "9a4d8492412b11cf6efefc165848b00155d5ad873bdbd7c99c06462cae8605a3": {
+        "title": "刚上市的摩尔线程，即将揭晓新一代GPU架构",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-09-4",
+        "published_date": "Tue, 09 Dec 2025 11:33:00 GMT",
+        "first_seen": "2025-12-09T08:32:41.018401"
+      },
+      "87fd6aa203c0d53b8b3b82b371ce101590b2a6aa20895efb1299e31d4af8a00a": {
+        "title": "2025-12-09日刊",
+        "link": "https://ai.hubtoday.app//2025-12/2025-12-09/",
+        "published_date": "Tue, 09 Dec 2025 07:14:00 GMT",
+        "first_seen": "2025-12-09T08:32:41.018403"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-09T05:27:09.788206",
-    "Finance": "2025-12-09T05:26:32.008483",
-    "Ai": "2025-12-09T05:26:42.057967"
+    "Technology": "2025-12-09T08:33:05.710881",
+    "Finance": "2025-12-09T08:32:40.901837",
+    "Ai": "2025-12-09T08:32:41.018405"
   }
 }

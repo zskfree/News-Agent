@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 05:26
+**最后更新时间**: 2025-12-09 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-09 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [出海驱动的APP增量市场，企业如何利用AI做好营销？](https://www.tmtpost.com/7802779.html)
+**发布时间**: 2025-12-09 16:23
+
+#### [AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察](https://www.tmtpost.com/7802153.html)
+**发布时间**: 2025-12-09 16:23
+
+#### [年底的文旅资本市场，开始“冲业绩”了](https://www.tmtpost.com/7802410.html)
+**发布时间**: 2025-12-09 15:37
+
+#### [猛士汽车有了华为，越野开始不讲武德了？](https://www.tmtpost.com/7802707.html)
+**发布时间**: 2025-12-09 15:09
+
+#### [The 2025 T-EDGE：A Feast of Ideas Dedicated to the AI Era](https://www.tmtpost.com/7802780.html)
+**发布时间**: 2025-12-09 14:37
+
+#### [2025饮料新品TOP100：元气森林、农夫山泉、康师傅、统一激战新品、乳饮退潮谁来补位？](https://www.tmtpost.com/7802195.html)
+**发布时间**: 2025-12-09 14:11
+
+#### [2025年底越南数字经济规模将达到390亿美元；TEMU在欧洲推出Y2新模式；菜鸟100%控股跨境物流商递四方｜一周出海参考](https://www.tmtpost.com/7789567.html)
+**发布时间**: 2025-12-09 13:48
+
+#### [日本计划对跨境电商平台征收消费税；TikTok Shop美国黑五GMV突破5亿美元；微信支付落地卡塔尔｜一周出海参考](https://www.tmtpost.com/7801116.html)
+**发布时间**: 2025-12-09 13:46
+
+#### [儿童饮料，一门持久而暴利的生意？](https://www.tmtpost.com/7802417.html)
+**发布时间**: 2025-12-09 13:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍](https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 16:21
+
+#### [刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！](https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 15:43
+
+#### [摩尔线程放大招？新一代 GPU 架构即将揭晓](https://www.infoq.cn/article/P4kfSIpdRG5grumbDZWH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 14:54
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [建议去 GitHub 学这 6 个项目，打破 Agent 的信息差。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529518&idx=1&sn=a59d9fc6a0df8a78401b900ea3bf6a4c)
+**发布时间**: 2025-12-09 15:04
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [极客公园创新大会 2026 在京落幕，罗永浩、张楠、何小鹏、刘靖康等共议 AI 时代「进程由我」](http://www.geekpark.net/news/357802)
+**发布时间**: 2025-12-09 14:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [日本军火商收入狂涨，背后藏着什么阴谋？又都卖给了谁？](http://www.huxiu.com/article/4814289.html?f=wangzhan)
+**发布时间**: 2025-12-09 11:00
+
+#### [超级Agent大战超级App，你站agent还是APP？](http://www.huxiu.com/article/4814940.html?f=wangzhan)
+**发布时间**: 2025-12-09 10:00
+
+#### [上汽不与比亚迪争销冠](http://www.huxiu.com/article/4794997.html?f=wangzhan)
+**发布时间**: 2025-12-09 07:25
 
 ---
 

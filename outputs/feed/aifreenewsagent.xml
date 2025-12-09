@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Dec 2025 05:26:42 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 08:32:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>北大团队发布化学大模型基准SUPERChem：挑战多模态高难度化学推理</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-6</link>
-      <description>&lt;![CDATA[北大团队发布化学大模型基准SUPERChem：挑战多模态高难度化学推理]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-6</guid>
+      <title>论文自动变漫画PPT！Nano Banana同款用秘塔免费生成，还有一对一语音讲解</title>
+      <link>https://www.qbitai.com/2025/12/359845.html</link>
+      <description>&lt;![CDATA[论文自动变漫画PPT！Nano Banana同款用秘塔免费生成，还有一对一语音讲解]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 07:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359845.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全图与切片并非等价？LLaVA-UHD-v3揭示差异推出高效全图建模方案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-3</link>
-      <description>&lt;![CDATA[全图与切片并非等价？LLaVA-UHD-v3揭示差异推出高效全图建模方案]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-3</guid>
+      <title>刚上市的摩尔线程，即将揭晓新一代GPU架构</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-09-4</link>
+      <description>&lt;![CDATA[刚上市的摩尔线程，即将揭晓新一代GPU架构]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Snapchat提出Canvas-to-Image：一张画布集成 ID、姿态与布局</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-2</link>
-      <description>&lt;![CDATA[Snapchat提出Canvas-to-Image：一张画布集成 ID、姿态与布局]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>没了遥控器，还被扔进荒野，具身智能该「断奶」了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-5</link>
-      <description>&lt;![CDATA[没了遥控器，还被扔进荒野，具身智能该「断奶」了]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，DeepSeek梁文锋入选Nature 2025年度十大科学人物</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek梁文锋入选Nature 2025年度十大科学人物]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09</guid>
+      <title>2025-12-09日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-09/</link>
+      <description>&lt;![CDATA[2025-12-09日刊]]&gt;</description>
+      <pubDate>Tue, 09 Dec 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-09/</guid>
       <category>Ai</category>
     </item>
   </channel>
