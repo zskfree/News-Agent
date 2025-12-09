@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 23:21
+**最后更新时间**: 2025-12-09 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-09 05:26)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OPPO 姜昱辰：从 GUI 到 Agent，AI 手机交互革命的「终局」思考](http://www.geekpark.net/news/357791)
+**发布时间**: 2025-12-09 12:59
+
+#### [王小川的医疗 AI 新答案：用 PAPA 打通医疗的「最后一公里」](http://www.geekpark.net/news/357790)
+**发布时间**: 2025-12-09 12:56
+
+#### [法院：下班后回工作微信属于加班；估值 140 亿美元，软银、英伟达或投机器人公司；2025 微博年度词「赛博」](http://www.geekpark.net/news/357776)
+**发布时间**: 2025-12-09 08:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“基荷电力”将在2026年迎来大发展，这5只股票有望获益](https://www.tmtpost.com/7802642.html)
+**发布时间**: 2025-12-09 12:55
+
+#### [科技领域需要（有选择性的）谨慎：三只技术面看跌的股票](https://www.tmtpost.com/7802640.html)
+**发布时间**: 2025-12-09 12:55
+
+#### [人工智能推动了市场的上涨，这些板块有望继续增长](https://www.tmtpost.com/7802638.html)
+**发布时间**: 2025-12-09 12:54
+
+#### [Partnering with Xreal, Google to Launch First AI-Powered Glasses Running Android XR in 2026](https://www.tmtpost.com/7802615.html)
+**发布时间**: 2025-12-09 12:46
+
+#### [IBM Acquires Confluent for $11 Billion in Major AI Data Play](https://www.tmtpost.com/7802580.html)
+**发布时间**: 2025-12-09 12:04
+
+#### [我们正亲历一场漫长的告别](https://www.tmtpost.com/7802145.html)
+**发布时间**: 2025-12-09 11:13
+
+#### [总额超六百亿！中国中冶拟出售中冶置业、中冶铜锌等资产；哈尔滨汽车零部件龙头拟收购玖星精密控制权；【并购一线】](https://www.tmtpost.com/7802401.html)
+**发布时间**: 2025-12-09 11:00
+
+#### [SoftBank and Nvidia in Talks to Back Skild AI at $14 Billion Valuation Amid Trump Robotics Push](https://www.tmtpost.com/7802398.html)
+**发布时间**: 2025-12-09 10:56
+
+#### [奈飞“篡位”好莱坞？](https://www.tmtpost.com/7802116.html)
+**发布时间**: 2025-12-09 10:48
+
+#### [10只比债券更有吸引力的分红股票](https://www.tmtpost.com/7802371.html)
+**发布时间**: 2025-12-09 10:41
+
+#### [特朗普将向农民提供120亿美元，这些股票可能会受益——这些则不会](https://www.tmtpost.com/7802275.html)
+**发布时间**: 2025-12-09 10:09
+
+#### [假如，字节的豆包AI手机是腾讯的 | 马上评](https://www.tmtpost.com/7802147.html)
+**发布时间**: 2025-12-09 10:07
+
+#### [退市五年，瑞幸如何“上岸”？](https://www.tmtpost.com/7801685.html)
+**发布时间**: 2025-12-09 09:40
+
+#### [豆包不是屠龙少年](https://www.tmtpost.com/7801605.html)
+**发布时间**: 2025-12-09 09:00
+
+#### [地平线余凯：物理世界的AI基模，从智能驾驶开始 | 巴伦精选](https://www.tmtpost.com/7802073.html)
+**发布时间**: 2025-12-09 08:49
+
+#### [恋综2025：观众怎么嗑不动了？](https://www.tmtpost.com/7801697.html)
+**发布时间**: 2025-12-09 08:30
+
+#### [估值破万亿，1845亿梁文锋和他的DeepSeek近况如何？](https://www.tmtpost.com/7801813.html)
+**发布时间**: 2025-12-09 08:00
+
+#### [突发！特朗普宣布，美国允许英伟达对华出售H200芯片，Blackwell和Rubin除外](https://www.tmtpost.com/7801970.html)
+**发布时间**: 2025-12-09 07:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [软件工程师的自我成长：借力 AI 驱动开发](https://www.infoq.cn/article/ybRAvv8VdLIAKdaE2Hjj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 12:00
+
+#### [OpenAI囤DRAM晶圆，内存价格炸了！32GB DDR5一月狂涨156%，厂商倒买、交货延期，商业遏制引市场崩盘？](https://www.infoq.cn/article/B5Ybdz7B6mwYsfNMDaF0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 11:54
+
+#### [Scaling Law仍然成立，企业搜广推怎么做才能少踩“坑”？](https://www.infoq.cn/article/WPOrVdfmdcJ0vSEUVQ6r?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 11:33
+
+#### [算力十年狂飙100000倍，他却每天担心破产！黄仁勋亲述：如何用“30天危机感”逆袭万亿AI市场](https://www.infoq.cn/article/DcgMYrU9vTE4ItiIyxYO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 11:19
+
+#### [热血不止，创新无界！2025深圳国际金融科技大赛圆满落幕，用数据赋能决策，以 AI 解锁金融新场景！](https://www.infoq.cn/video/oBgbjQvJxZ7wCixtR5Mx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 10:41
+
+#### [亚马逊云科技推出统一定价模式，彻底消除云成本超支风险](https://www.infoq.cn/article/lHEMUxe9ULGP6jkommua?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 10:33
+
+#### [从辅助到驱动：构建研发智能体的实践与思考 ｜AICon 北京](https://www.infoq.cn/article/v37X42XxlYsVAts7mFdz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 10:28
+
+#### [整体工程：有机解决复杂演进系统中的问题](https://www.infoq.cn/article/xEM8ktxiBveI9Shv1GaH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 10:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派 × 暖风家｜大湾区首家墨水屏综合体验中心即将上线](https://sspai.com/post/104406)
+**发布时间**: 2025-12-09 11:30
+
+#### [派早报：Meta 承诺向欧盟用户提供合规的个性化广告选项等](https://sspai.com/post/104442)
+**发布时间**: 2025-12-09 08:23
 
 ---
 

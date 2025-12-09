@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 23:21
+**最后更新时间**: 2025-12-09 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-09 05:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia’s hybrid warfare puts Europe to the test](https://www.ft.com/content/2084e87d-d491-4852-8449-f90b73d4788b)
+**发布时间**: 2025-12-09 05:00
+
+#### [Why Britain doesn’t have enough dentists](https://www.ft.com/content/f4e594f4-77c1-4c61-96ea-919c85b7af49)
+**发布时间**: 2025-12-09 05:00
+
+#### [City of London explores outside investment for housing projects](https://www.ft.com/content/97dabda4-b118-4d34-97b5-9245b2afbf4c)
+**发布时间**: 2025-12-09 05:00
+
+#### [Investors bet Fed and ECB headed in opposite directions on rates](https://www.ft.com/content/cb4179b2-bafa-4292-99f4-d7f4503fc9d9)
+**发布时间**: 2025-12-09 05:00
+
+#### [Boaz Weinstein’s $2bn flagship hedge fund sinks amid buoyant markets](https://www.ft.com/content/698521eb-4b0c-40b6-a49e-8358e05d5f64)
+**发布时间**: 2025-12-09 05:00
+
+#### [Flight chaos brings India’s biggest airline back to earth](https://www.ft.com/content/e3f7bb02-37a6-4ef9-ba6a-6b62d115179e)
+**发布时间**: 2025-12-09 00:59
+
+#### [UK should boost tourism in offshore tax havens, says government adviser](https://www.ft.com/content/e31bfb74-6322-45f4-82a8-22ae7898b294)
+**发布时间**: 2025-12-08 22:54
+
+#### [Inside Paramount’s $108bn hostile bid for Warner Bros](https://www.ft.com/content/e5da7064-3a46-4bab-9a6c-12ae03eead16)
+**发布时间**: 2025-12-08 21:13
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk suggests this underrated AI business could be a big driver of SpaceX’s valuation](https://www.marketwatch.com/story/musk-suggests-this-underrated-ai-business-could-be-a-big-driver-of-spacexs-valuation-059c189f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 03:10
+
+#### [Your estate plan needs to be absolutely airtight. Here’s how to avoid mistakes.](https://www.marketwatch.com/story/how-to-stress-test-your-estate-plan-to-make-sure-its-airtight-e114c0a7?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 02:08
+
+#### [Investors’ bearishness is often overdone — but their market bubble fears may be spot-on](https://www.marketwatch.com/story/investors-bearishness-is-often-overdone-but-their-bubble-fears-may-be-spot-on-1bb9f876?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 01:59
+
+#### [My mother is selling my late father’s multimillion-dollar California real-estate portfolio — must I stand idly by?](https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 01:03
+
+#### [‘I’m desperately trying to do right by everyone’: I’m giving my son $250K and my daughter 50% of a rental we co-own. Is that fair?](https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 00:54
 
 ---
 
