@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 23:26
+**最后更新时间**: 2025-12-10 05:23
+
+---
+
+## 🆕 最新更新 (2025-12-10 05:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU races to bypass Orbán on Russian assets before summit](https://www.ft.com/content/844ca37f-8c3b-4503-b274-175d6f034476)
+**发布时间**: 2025-12-10 05:00
+
+#### [Trump’s immigration data dragnet](https://ig.ft.com/us-ice-surveillance/)
+**发布时间**: 2025-12-10 05:00
+
+#### [Robert Tchenguiz hopes Truss-fronted club will help pay off debt to Reubens](https://www.ft.com/content/07d3f7a0-dee6-46f3-8c99-5e6536d55a3d)
+**发布时间**: 2025-12-10 05:00
+
+#### [Berenberg made largest unlawful UK political donation with £300,000 for Tories](https://www.ft.com/content/a5337386-6e29-4a6e-9d0e-8d58597fb23e)
+**发布时间**: 2025-12-10 05:00
+
+#### [Trump tries to tackle voters’ cost-of-living concerns at Pennsylvania rally](https://www.ft.com/content/6ed46814-1ca5-4432-929c-2cd84d91cf93)
+**发布时间**: 2025-12-10 03:26
+
+#### [Trump to pit Hassett against trio of Fed chair finalists](https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175)
+**发布时间**: 2025-12-10 00:04
+
+#### [Home Office lacks clear data on a third of UK asylum claimants from 2023](https://www.ft.com/content/513ef662-5588-4f86-9f29-acbb3981568f)
+**发布时间**: 2025-12-10 00:04
+
+#### [Netflix vs Paramount: politics could decide battle for Warner Bros](https://www.ft.com/content/bbfebdc3-80ce-4dec-b88d-94535a63ed14)
+**发布时间**: 2025-12-09 22:06
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the record rally for small-cap stocks could run into a big problem in 2026](https://www.marketwatch.com/story/why-the-record-rally-for-small-cap-stocks-could-run-into-a-big-problem-in-2026-f7954bc6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 02:01
+
+#### [The real money in AI chips is in these stocks — and you’ve probably never heard of them](https://www.marketwatch.com/story/if-you-only-own-nvidia-stock-youre-missing-the-real-money-in-chips-f15e892d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 01:04
+
+#### [CVS’s stock rallies as health giant signals stronger-than-expected results in 2025](https://www.marketwatch.com/story/cvs-health-updated-its-2025-guidance-again-and-the-stock-is-rallying-52c73dde?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 00:37
+
+#### [Why Nvidia’s stock is now shrugging off Trump’s approval of chip sales to China](https://www.marketwatch.com/story/why-nvidias-stock-is-now-shrugging-off-trumps-approval-of-chip-sales-to-china-5af14754?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 00:34
+
+#### [This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 23:14
 
 ---
 

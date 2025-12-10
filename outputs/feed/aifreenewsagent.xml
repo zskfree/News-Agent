@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Dec 2025 23:26:38 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 05:23:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 05:23:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Waymo数据意外曝光：2500台车每周45万订单，重返全球第一</title>
-      <link>https://www.qbitai.com/2025/12/359976.html</link>
-      <description>&lt;![CDATA[Waymo数据意外曝光：2500台车每周45万订单，重返全球第一]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359976.html</guid>
+      <title>Percept-WAM：真正「看懂世界」的自动驾驶大脑，感知到行动的一体化模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10</link>
+      <description>&lt;![CDATA[Percept-WAM：真正「看懂世界」的自动驾驶大脑，感知到行动的一体化模型]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>地平线首曝BPU「黎曼」架构，用数学流形重构AI计算</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-7</link>
-      <description>&lt;![CDATA[地平线首曝BPU「黎曼」架构，用数学流形重构AI计算]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-7</guid>
+      <title>大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-2</link>
+      <description>&lt;![CDATA[大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Light-X来了！全球首个「镜头×光照」双控4D视频生成框架，单目视频秒变电影级</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-8</link>
-      <description>&lt;![CDATA[Light-X来了！全球首个「镜头×光照」双控4D视频生成框架，单目视频秒变电影级]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-8</guid>
+      <title>NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖</title>
+      <link>https://www.jiqizhixin.com/articles/2025-01-07-10</link>
+      <description>&lt;![CDATA[NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-01-07-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谷歌TPU杀疯了，产能暴涨120%、性能4倍吊打，英伟达还坐得稳吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-09-9</link>
-      <description>&lt;![CDATA[谷歌TPU杀疯了，产能暴涨120%、性能4倍吊打，英伟达还坐得稳吗？]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-09-9</guid>
+      <title>中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-3</link>
+      <description>&lt;![CDATA[中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>共推空天领域智能化升级！趋境科技与金航数码强强联手</title>
-      <link>https://www.qbitai.com/2025/12/359991.html</link>
-      <description>&lt;![CDATA[共推空天领域智能化升级！趋境科技与金航数码强强联手]]&gt;</description>
-      <pubDate>Tue, 09 Dec 2025 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/359991.html</guid>
+      <title>NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-05</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05</guid>
       <category>Ai</category>
     </item>
   </channel>

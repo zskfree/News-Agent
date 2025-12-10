@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 23:26
+**最后更新时间**: 2025-12-10 05:23
+
+---
+
+## 🆕 最新更新 (2025-12-10 05:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智谱AutoGLM与豆包手机的分歧，是AI时代的安卓苹果之战？](https://www.tmtpost.com/7803941.html)
+**发布时间**: 2025-12-10 12:53
+
+#### [波司登极寒战役：49年的极致守护，品牌“极地”无止境](https://www.tmtpost.com/7802510.html)
+**发布时间**: 2025-12-10 12:43
+
+#### [Microsoft Unveils $23 Billion in New AI Investments Focusing on India and Canada](https://www.tmtpost.com/7804382.html)
+**发布时间**: 2025-12-10 12:31
+
+#### [快造科技完成数亿元 B轮融资，高瓴创投、美团、顺为资本加速入局消费级 3D打印 | 融资速递](https://www.tmtpost.com/7804265.html)
+**发布时间**: 2025-12-10 11:51
+
+#### [2025：从杭州六小龙，到深圳硬件great again](https://www.tmtpost.com/7804080.html)
+**发布时间**: 2025-12-10 11:43
+
+#### [微软祭出在亚洲最大投资，175亿美元豪赌印度AI](https://www.tmtpost.com/7803848.html)
+**发布时间**: 2025-12-10 11:18
+
+#### [当千亿参数撞上5毫米芯片](https://www.tmtpost.com/7804028.html)
+**发布时间**: 2025-12-10 11:02
+
+#### [北斗智联完成数亿元B轮战略融资 广汽资本领投携手多家产投共筑智能网联新生态 | 融资速递](https://www.tmtpost.com/7804132.html)
+**发布时间**: 2025-12-10 10:45
+
+#### [静水湖创投新一期盲池基金完成首关 一年时间内合计募集超10亿 | 募资动态](https://www.tmtpost.com/7804021.html)
+**发布时间**: 2025-12-10 10:11
+
+#### [2025年，长视频短剧集体“入冬”](https://www.tmtpost.com/7803471.html)
+**发布时间**: 2025-12-10 09:45
+
+#### [揭秘激光雷达芯片“第一案”：是横空出世还是另有捷径？](https://www.tmtpost.com/7803461.html)
+**发布时间**: 2025-12-10 09:45
+
+#### [在大厂，人人都想成为老白兔](https://www.tmtpost.com/7803267.html)
+**发布时间**: 2025-12-10 09:23
+
+#### [7-ELEVEn做起了镜子前的新生意](https://www.tmtpost.com/7803743.html)
+**发布时间**: 2025-12-10 09:23
+
+#### [三年被骂，七天翻盘：谷歌“印度扫地僧”反杀OpenAI](https://www.tmtpost.com/7803334.html)
+**发布时间**: 2025-12-10 09:23
+
+#### [SpaceX Reported to Eye 2026 IPO that Could Become World's Largest, Valuation May Top $1 Trillion](https://www.tmtpost.com/7803888.html)
+**发布时间**: 2025-12-10 09:13
+
+#### [Labubu也许会过气，但泡泡玛特不会](https://www.tmtpost.com/7803704.html)
+**发布时间**: 2025-12-10 08:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 算不算一种研究方法？](https://sspai.com/post/104421)
+**发布时间**: 2025-12-10 11:33
+
+#### [派早报：Index 01 智能戒指发布、《赛博朋克 2077》五周年限量版 XR 眼镜上线等](https://sspai.com/post/104485)
+**发布时间**: 2025-12-10 07:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java近期资讯：JDK 26进入Rampdown阶段， JDK 27专家组成立，GlassFish、TornadoVM、Spring gRPC动态](https://www.infoq.cn/article/ASg8MVmw4a7fvlHDFLNE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 11:29
+
+#### [谷歌推出Nano Banana Pro，实现有现实感的多模态图像合成](https://www.infoq.cn/article/Tu3BucFvH0SalNjkkerF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 11:25
+
+#### [Kubernetes退役了流行的Ingress NGINX控制器](https://www.infoq.cn/article/TKdBM9t5fcwVF98pSdqh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 11:22
+
+#### [用友网络副总裁罗小江确认出席AICon北京站，分享构建可执行的 AI 驱动决策系统](https://www.infoq.cn/article/uOK48Yft02btM0yAqwrx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 11:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [1.5万亿美元，SpaceX或成最强IPO；暴涨700%，人形机器人迎拐点；智谱开源AutoGLM，「豆包手机」人人可造](http://www.geekpark.net/news/357829)
+**发布时间**: 2025-12-10 08:08
 
 ---
 
