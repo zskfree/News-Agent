@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 08:36:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 08:36:59 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 23:24:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 23:25:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>H200放行：英伟达6万亿市值路的“穿云箭”？</title>
-      <link>https://www.tmtpost.com/7804051.html</link>
-      <description>&lt;![CDATA[H200放行：英伟达6万亿市值路的“穿云箭”？]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7804051.html</guid>
+      <title>OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT</title>
+      <link>https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软祭出在亚洲最大投资，175亿美元豪赌印度AI</title>
-      <link>https://www.tmtpost.com/7803848.html</link>
-      <description>&lt;![CDATA[微软祭出在亚洲最大投资，175亿美元豪赌印度AI]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7803848.html</guid>
+      <title>【钛晨报】财政部将开展2025年到期续作特别国债发行；周靖人成为阿里合伙人；Meta全力转向闭源模型，新模型Avocado或于明年春季推出</title>
+      <link>https://www.tmtpost.com/7805015.html</link>
+      <description>&lt;![CDATA[【钛晨报】财政部将开展2025年到期续作特别国债发行；周靖人成为阿里合伙人；Meta全力转向闭源模型，新模型Avocado或于明年春季推出]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7805015.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三年被骂，七天翻盘：谷歌“印度扫地僧”反杀OpenAI</title>
-      <link>https://www.tmtpost.com/7803334.html</link>
-      <description>&lt;![CDATA[三年被骂，七天翻盘：谷歌“印度扫地僧”反杀OpenAI]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 09:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7803334.html</guid>
+      <title>联想创投宋春雨的“Agent”投资全复盘：8大平台级机会、4个创业者特征、和给Agent 创业者的3个建议</title>
+      <link>https://www.tmtpost.com/7804421.html</link>
+      <description>&lt;![CDATA[联想创投宋春雨的“Agent”投资全复盘：8大平台级机会、4个创业者特征、和给Agent 创业者的3个建议]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7804421.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>JetBrains 放弃 Fleet：急刹变道打造全新 Agentic IDE，与 VS Code、Cursor 争夺下一代 AI 编程王座</title>
-      <link>https://www.infoq.cn/article/b0beyqiWkDJW4txqakQ4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[JetBrains 放弃 Fleet：急刹变道打造全新 Agentic IDE，与 VS Code、Cursor 争夺下一代 AI 编程王座]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/b0beyqiWkDJW4txqakQ4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌推出Nano Banana Pro，实现有现实感的多模态图像合成</title>
+      <link>https://www.infoq.cn/article/Tu3BucFvH0SalNjkkerF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌推出Nano Banana Pro，实现有现实感的多模态图像合成]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Tu3BucFvH0SalNjkkerF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图</title>
-      <link>http://www.geekpark.net/news/357853</link>
-      <description>&lt;![CDATA[跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357853</guid>
+      <title>中国商业航天开启“出海”模式，力箭一号承揽三国卫星订单</title>
+      <link>https://www.tmtpost.com/7804750.html</link>
+      <description>&lt;![CDATA[中国商业航天开启“出海”模式，力箭一号承揽三国卫星订单]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7804750.html</guid>
       <category>Technology</category>
     </item>
   </channel>

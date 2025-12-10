@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 08:36:39 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 23:25:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-8</link>
-      <description>&lt;![CDATA[首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-8</guid>
+      <title>GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-13</link>
+      <description>&lt;![CDATA[GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 20:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-5</link>
-      <description>&lt;![CDATA[Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-5</guid>
+      <title>LLM距离AGI只差一层：斯坦福研究颠覆「模式匹配」观点</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-12</link>
+      <description>&lt;![CDATA[LLM距离AGI只差一层：斯坦福研究颠覆「模式匹配」观点]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 20:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-6</link>
-      <description>&lt;![CDATA[一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-6</guid>
+      <title>NeurIPS 2025 | 从流形假设视角解析生成式模型反演</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-17-5</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | 从流形假设视角解析生成式模型反演]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-17-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-4</link>
-      <description>&lt;![CDATA[告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-4</guid>
+      <title>A differentially private framework for gaining insights into AI chatbot use</title>
+      <link>https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/</link>
+      <description>&lt;![CDATA[A differentially private framework for gaining insights into AI chatbot use]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-12</link>
-      <description>&lt;![CDATA[ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-12</guid>
+      <title>南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-9</link>
+      <description>&lt;![CDATA[南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-9</guid>
       <category>Ai</category>
     </item>
   </channel>

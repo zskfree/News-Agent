@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-10 08:36
+**最后更新时间**: 2025-12-10 23:24
+
+---
+
+## 🆕 最新更新 (2025-12-10 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】财政部将开展2025年到期续作特别国债发行；周靖人成为阿里合伙人；Meta全力转向闭源模型，新模型Avocado或于明年春季推出](https://www.tmtpost.com/7805015.html)
+**发布时间**: 2025-12-11 07:20
+
+#### [Godfather of AI Criticizes Elon Musk for Irresponsible Behaviour in AI Sector](https://www.tmtpost.com/7805147.html)
+**发布时间**: 2025-12-11 00:15
+
+#### [AI Overseas Commercialization: Manus Finds New Partners to Solve the Puzzle](https://www.tmtpost.com/7805142.html)
+**发布时间**: 2025-12-11 00:08
+
+#### [What If ByteDance’s Doubao AI Smartphone Belonged to Tencent?](https://www.tmtpost.com/7805101.html)
+**发布时间**: 2025-12-10 23:43
+
+#### [CQ 2026 正式启动：持续 60+ 天的实盘加密量化大赛和专注交易的资管论坛](https://www.tmtpost.com/7804740.html)
+**发布时间**: 2025-12-10 19:12
+
+#### [IPO暴涨468%，摩尔线程张建中“向死而生”](https://www.tmtpost.com/7804877.html)
+**发布时间**: 2025-12-10 19:07
+
+#### [二三股东减持成瘾、控股股东欲一次性撤退，嘉美包装筹划易主](https://www.tmtpost.com/7804718.html)
+**发布时间**: 2025-12-10 18:45
+
+#### [暴涨超1000%，“打工人比动物更疯狂”](https://www.tmtpost.com/7804824.html)
+**发布时间**: 2025-12-10 18:37
+
+#### [美联储降息倒计时：都是谁在等风来？](https://www.tmtpost.com/7804639.html)
+**发布时间**: 2025-12-10 18:37
+
+#### [低至5.5元/支，疫苗价格“跳水”背后](https://www.tmtpost.com/7802739.html)
+**发布时间**: 2025-12-10 17:46
+
+#### [GEO完成1.1亿美元融资 全球顶级资本加注 | 融资速递](https://www.tmtpost.com/7804793.html)
+**发布时间**: 2025-12-10 17:23
+
+#### [破局AI出海商业化，Manus们找到了解题新伙伴｜出海参考](https://www.tmtpost.com/7801095.html)
+**发布时间**: 2025-12-10 17:23
+
+#### [联想创投宋春雨的“Agent”投资全复盘：8大平台级机会、4个创业者特征、和给Agent 创业者的3个建议](https://www.tmtpost.com/7804421.html)
+**发布时间**: 2025-12-10 17:03
+
+#### [中国商业航天开启“出海”模式，力箭一号承揽三国卫星订单](https://www.tmtpost.com/7804750.html)
+**发布时间**: 2025-12-10 16:59
+
+#### [中国电建旗下公司涉电价违法被罚 三年向177户转供电加价](https://www.tmtpost.com/7804724.html)
+**发布时间**: 2025-12-10 16:49
+
+#### [30亿平台成立，多晶硅“反内卷”进入实质整合阶段](https://www.tmtpost.com/7804721.html)
+**发布时间**: 2025-12-10 16:49
+
+#### [失败13年后，谷歌又计划重返战场了](https://www.tmtpost.com/7804667.html)
+**发布时间**: 2025-12-10 16:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [众筹历史第一后，这家 3D 打印「黑马」获高瓴、美团、顺为同时押注数亿元](http://www.geekpark.net/news/357886)
+**发布时间**: 2025-12-10 22:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 特别企划之五天五问①-异见与共识](https://www.infoq.cn/video/R6eREbvoGr0wr94Llwt8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 21:37
+
+#### [不开向量库也能做 Agent 长期记忆？Memori 把 SQL/MongoDB 变成了 AI 记忆仓](https://www.infoq.cn/article/vHvAodAaBNaTaCREJMIC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 20:14
+
+#### [OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT](https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 16:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [深入理解 HRV：如何测准、读懂、用好](https://sspai.com/post/104402)
+**发布时间**: 2025-12-10 17:13
+
+#### [App+1｜Locus GTD：它会是你在找的 OmniFocus「平替」吗？](https://sspai.com/post/104451)
+**发布时间**: 2025-12-10 16:32
 
 ---
 
