@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 05:24:21 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 08:36:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 08:36:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Microsoft Unveils $23 Billion in New AI Investments Focusing on India and Canada</title>
-      <link>https://www.tmtpost.com/7804382.html</link>
-      <description>&lt;![CDATA[Microsoft Unveils $23 Billion in New AI Investments Focusing on India and Canada]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7804382.html</guid>
+      <title>H200放行：英伟达6万亿市值路的“穿云箭”？</title>
+      <link>https://www.tmtpost.com/7804051.html</link>
+      <description>&lt;![CDATA[H200放行：英伟达6万亿市值路的“穿云箭”？]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7804051.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SpaceX Reported to Eye 2026 IPO that Could Become World's Largest, Valuation May Top $1 Trillion</title>
-      <link>https://www.tmtpost.com/7803888.html</link>
-      <description>&lt;![CDATA[SpaceX Reported to Eye 2026 IPO that Could Become World's Largest, Valuation May Top $1 Trillion]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7803888.html</guid>
+      <title>微软祭出在亚洲最大投资，175亿美元豪赌印度AI</title>
+      <link>https://www.tmtpost.com/7803848.html</link>
+      <description>&lt;![CDATA[微软祭出在亚洲最大投资，175亿美元豪赌印度AI]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7803848.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当千亿参数撞上5毫米芯片</title>
-      <link>https://www.tmtpost.com/7804028.html</link>
-      <description>&lt;![CDATA[当千亿参数撞上5毫米芯片]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7804028.html</guid>
+      <title>三年被骂，七天翻盘：谷歌“印度扫地僧”反杀OpenAI</title>
+      <link>https://www.tmtpost.com/7803334.html</link>
+      <description>&lt;![CDATA[三年被骂，七天翻盘：谷歌“印度扫地僧”反杀OpenAI]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 09:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7803334.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱AutoGLM与豆包手机的分歧，是AI时代的安卓苹果之战？</title>
-      <link>https://www.tmtpost.com/7803941.html</link>
-      <description>&lt;![CDATA[智谱AutoGLM与豆包手机的分歧，是AI时代的安卓苹果之战？]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7803941.html</guid>
+      <title>JetBrains 放弃 Fleet：急刹变道打造全新 Agentic IDE，与 VS Code、Cursor 争夺下一代 AI 编程王座</title>
+      <link>https://www.infoq.cn/article/b0beyqiWkDJW4txqakQ4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[JetBrains 放弃 Fleet：急刹变道打造全新 Agentic IDE，与 VS Code、Cursor 争夺下一代 AI 编程王座]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/b0beyqiWkDJW4txqakQ4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>揭秘激光雷达芯片“第一案”：是横空出世还是另有捷径？</title>
-      <link>https://www.tmtpost.com/7803461.html</link>
-      <description>&lt;![CDATA[揭秘激光雷达芯片“第一案”：是横空出世还是另有捷径？]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7803461.html</guid>
+      <title>跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图</title>
+      <link>http://www.geekpark.net/news/357853</link>
+      <description>&lt;![CDATA[跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357853</guid>
       <category>Technology</category>
     </item>
   </channel>

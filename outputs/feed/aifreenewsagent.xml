@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 05:23:59 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 08:36:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Percept-WAM：真正「看懂世界」的自动驾驶大脑，感知到行动的一体化模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10</link>
-      <description>&lt;![CDATA[Percept-WAM：真正「看懂世界」的自动驾驶大脑，感知到行动的一体化模型]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10</guid>
+      <title>首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-8</link>
+      <description>&lt;![CDATA[首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-2</link>
-      <description>&lt;![CDATA[大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-2</guid>
+      <title>Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-5</link>
+      <description>&lt;![CDATA[Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-01-07-10</link>
-      <description>&lt;![CDATA[NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖]]&gt;</description>
+      <title>一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-6</link>
+      <description>&lt;![CDATA[一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-4</link>
+      <description>&lt;![CDATA[告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习</title>
+      <link>https://www.jiqizhixin.com/articles/2025-08-06-12</link>
+      <description>&lt;![CDATA[ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习]]&gt;</description>
       <pubDate>Wed, 10 Dec 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-01-07-10</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-3</link>
-      <description>&lt;![CDATA[中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05</guid>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-12</guid>
       <category>Ai</category>
     </item>
   </channel>
