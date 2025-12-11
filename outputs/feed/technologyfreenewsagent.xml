@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 23:24:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 23:25:40 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 05:25:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT</title>
-      <link>https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>自动驾驶派系之争，四大技术路线的博弈与融合</title>
+      <link>https://www.tmtpost.com/7805508.html</link>
+      <description>&lt;![CDATA[自动驾驶派系之争，四大技术路线的博弈与融合]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7805508.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】财政部将开展2025年到期续作特别国债发行；周靖人成为阿里合伙人；Meta全力转向闭源模型，新模型Avocado或于明年春季推出</title>
-      <link>https://www.tmtpost.com/7805015.html</link>
-      <description>&lt;![CDATA[【钛晨报】财政部将开展2025年到期续作特别国债发行；周靖人成为阿里合伙人；Meta全力转向闭源模型，新模型Avocado或于明年春季推出]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7805015.html</guid>
+      <title>Meta Said to Shift to Profit-Driven AI Model Development Using Alibaba's Qwen</title>
+      <link>https://www.tmtpost.com/7805569.html</link>
+      <description>&lt;![CDATA[Meta Said to Shift to Profit-Driven AI Model Development Using Alibaba's Qwen]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7805569.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>联想创投宋春雨的“Agent”投资全复盘：8大平台级机会、4个创业者特征、和给Agent 创业者的3个建议</title>
-      <link>https://www.tmtpost.com/7804421.html</link>
-      <description>&lt;![CDATA[联想创投宋春雨的“Agent”投资全复盘：8大平台级机会、4个创业者特征、和给Agent 创业者的3个建议]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7804421.html</guid>
+      <title>大模型赋能供应链决策：从工具创新到规模化应用 ｜AICon北京</title>
+      <link>https://www.infoq.cn/article/hY3Q4zJu1UyB3Zq1J4cr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型赋能供应链决策：从工具创新到规模化应用 ｜AICon北京]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hY3Q4zJu1UyB3Zq1J4cr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出Nano Banana Pro，实现有现实感的多模态图像合成</title>
-      <link>https://www.infoq.cn/article/Tu3BucFvH0SalNjkkerF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出Nano Banana Pro，实现有现实感的多模态图像合成]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Tu3BucFvH0SalNjkkerF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>XREAL 徐驰：智能眼镜，拉开了「Agent as Hardware」的新时代</title>
+      <link>http://www.geekpark.net/news/357904</link>
+      <description>&lt;![CDATA[XREAL 徐驰：智能眼镜，拉开了「Agent as Hardware」的新时代]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357904</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国商业航天开启“出海”模式，力箭一号承揽三国卫星订单</title>
-      <link>https://www.tmtpost.com/7804750.html</link>
-      <description>&lt;![CDATA[中国商业航天开启“出海”模式，力箭一号承揽三国卫星订单]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 16:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7804750.html</guid>
+      <title>硅料收储平台正式成立，光伏“反内卷”实现诺曼底登陆？</title>
+      <link>https://www.tmtpost.com/7805737.html</link>
+      <description>&lt;![CDATA[硅料收储平台正式成立，光伏“反内卷”实现诺曼底登陆？]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 12:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7805737.html</guid>
       <category>Technology</category>
     </item>
   </channel>

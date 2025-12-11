@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 23:25:13 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 05:25:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-13</link>
-      <description>&lt;![CDATA[GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 20:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-13</guid>
+      <title>MIT最新发现：这十年，算法进步被高估了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-3</link>
+      <description>&lt;![CDATA[MIT最新发现：这十年，算法进步被高估了]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>LLM距离AGI只差一层：斯坦福研究颠覆「模式匹配」观点</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-12</link>
-      <description>&lt;![CDATA[LLM距离AGI只差一层：斯坦福研究颠覆「模式匹配」观点]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 20:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-12</guid>
+      <title>扩散语言模型推理太慢？北大团队提出ODB-dLLM框架，破解计算访存双重瓶颈</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11</link>
+      <description>&lt;![CDATA[扩散语言模型推理太慢？北大团队提出ODB-dLLM框架，破解计算访存双重瓶颈]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NeurIPS 2025 | 从流形假设视角解析生成式模型反演</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-17-5</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | 从流形假设视角解析生成式模型反演]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-17-5</guid>
+      <title>全球首个！灵巧手真实世界具身数采引擎Psi-SynEngine来了，灵初智能发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-2</link>
+      <description>&lt;![CDATA[全球首个！灵巧手真实世界具身数采引擎Psi-SynEngine来了，灵初智能发布]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>A differentially private framework for gaining insights into AI chatbot use</title>
-      <link>https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/</link>
-      <description>&lt;![CDATA[A differentially private framework for gaining insights into AI chatbot use]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 21:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/</guid>
+      <title>Meta公开抄阿里Qwen作业，还闭源了…</title>
+      <link>https://www.qbitai.com/2025/12/360104.html</link>
+      <description>&lt;![CDATA[Meta公开抄阿里Qwen作业，还闭源了…]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360104.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-9</link>
-      <description>&lt;![CDATA[南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-9</guid>
+      <title>被拒≠失败！这些高影响力论文都被顶会拒收过</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-4</link>
+      <description>&lt;![CDATA[被拒≠失败！这些高影响力论文都被顶会拒收过]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-4</guid>
       <category>Ai</category>
     </item>
   </channel>

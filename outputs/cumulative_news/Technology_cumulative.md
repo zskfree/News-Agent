@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-10 23:24
+**最后更新时间**: 2025-12-11 05:24
+
+---
+
+## 🆕 最新更新 (2025-12-11 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话《梦之形》主创：4人团队，如何做出24小时破十万销量的独游？](https://www.tmtpost.com/7805702.html)
+**发布时间**: 2025-12-11 12:30
+
+#### [腾讯的长青IP为什么“重新”开始做IP](https://www.tmtpost.com/7805683.html)
+**发布时间**: 2025-12-11 12:30
+
+#### [中国建材企业海外求生](https://www.tmtpost.com/7805691.html)
+**发布时间**: 2025-12-11 12:29
+
+#### [“姐狗文学”真能让长剧破茧成蝶？](https://www.tmtpost.com/7805715.html)
+**发布时间**: 2025-12-11 12:27
+
+#### [硅料收储平台正式成立，光伏“反内卷”实现诺曼底登陆？](https://www.tmtpost.com/7805737.html)
+**发布时间**: 2025-12-11 12:15
+
+#### [自动驾驶派系之争，四大技术路线的博弈与融合](https://www.tmtpost.com/7805508.html)
+**发布时间**: 2025-12-11 12:10
+
+#### [CAS Star Ventures Raises Record $573 Million for Early-Stage Hard Tech Fund](https://www.tmtpost.com/7805769.html)
+**发布时间**: 2025-12-11 12:06
+
+#### [Oracle Shares Plunge Over 10% as AI Spending Surge Outpaces Revenue Growth](https://www.tmtpost.com/7805747.html)
+**发布时间**: 2025-12-11 11:53
+
+#### [迈向数字深水区的全球营销变革](https://www.tmtpost.com/7805322.html)
+**发布时间**: 2025-12-11 10:57
+
+#### [Steam游戏制作零经验的团队，如何用1年多做出《女吊》](https://www.tmtpost.com/7805621.html)
+**发布时间**: 2025-12-11 10:56
+
+#### [为什么罗永浩也没有把视频播客带火？](https://www.tmtpost.com/7805559.html)
+**发布时间**: 2025-12-11 10:54
+
+#### [世茂第一高楼梦碎，超高层酒店告别狂飙时代](https://www.tmtpost.com/7805566.html)
+**发布时间**: 2025-12-11 10:47
+
+#### [影石刘靖康，拒绝失败者叙事](https://www.tmtpost.com/7805536.html)
+**发布时间**: 2025-12-11 10:41
+
+#### [被中产女性抛弃，百年巨头撤离，这个千亿市场变天了](https://www.tmtpost.com/7805476.html)
+**发布时间**: 2025-12-11 10:40
+
+#### [社交电商，一场集体幻灭的资本游戏](https://www.tmtpost.com/7805550.html)
+**发布时间**: 2025-12-11 10:39
+
+#### [瑞士机器人科技公司RoBoa研发管状软体机器人，完成极端狭窄环境救援检测 | 瑞士创新100强](https://www.tmtpost.com/7805487.html)
+**发布时间**: 2025-12-11 10:37
+
+#### [Meta Said to Shift to Profit-Driven AI Model Development Using Alibaba's Qwen](https://www.tmtpost.com/7805569.html)
+**发布时间**: 2025-12-11 10:36
+
+#### [今年最大黑马，巨人又一次用年轻团队抓住了年轻用户](https://www.tmtpost.com/7805066.html)
+**发布时间**: 2025-12-11 10:36
+
+#### [天原化工原“一把手”被查，国企转型关键期遇高管震荡](https://www.tmtpost.com/7805397.html)
+**发布时间**: 2025-12-11 10:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [记一次拥抱开源地图的尝试：让 Organic Maps 在国内可用](https://sspai.com/post/104395)
+**发布时间**: 2025-12-11 11:35
+
+#### [派早报：AMD 推出支持 FSR Redstone 的全新驱动等](https://sspai.com/post/104512)
+**发布时间**: 2025-12-11 08:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [大模型赋能供应链决策：从工具创新到规模化应用 ｜AICon北京](https://www.infoq.cn/article/hY3Q4zJu1UyB3Zq1J4cr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 10:56
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [XREAL 徐驰：智能眼镜，拉开了「Agent as Hardware」的新时代](http://www.geekpark.net/news/357904)
+**发布时间**: 2025-12-11 10:50
+
+#### [Teeni.AI 袁琳：10 后与 AI 的共生关系，将如空气般自然](http://www.geekpark.net/news/357903)
+**发布时间**: 2025-12-11 10:42
+
+#### [中国 AI 硬件团队，在 Kickstarter 上找到「第三条路」](http://www.geekpark.net/news/357902)
+**发布时间**: 2025-12-11 10:38
+
+#### [流量时代的失灵：AI 能否让经营者重新看见真实需求？](http://www.geekpark.net/news/357901)
+**发布时间**: 2025-12-11 10:36
+
+#### [AI 时代的超级个体，正在小红书上寻找自己的绿洲](http://www.geekpark.net/news/357900)
+**发布时间**: 2025-12-11 10:31
+
+#### [OpenAI 宣布紧急状态：全力推进 ChatGPT；冯提莫复播，直播间破十万；马斯克：若重新来过，不会再领导美国「政府效率部」｜极客早知道](http://www.geekpark.net/news/357888)
+**发布时间**: 2025-12-11 08:26
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [放弃百万美金年薪创业，硅谷卷王的开挂之路](http://www.huxiu.com/article/4814832.html?f=wangzhan)
+**发布时间**: 2025-12-10 20:00
+
+#### [特朗普突然放开H200芯片，意欲何为？国产芯片要如何应战？](http://www.huxiu.com/article/4815665.html?f=wangzhan)
+**发布时间**: 2025-12-10 16:30
+
+#### [美国突然对华“降温“？不，是战略撤退](http://www.huxiu.com/article/4815228.html?f=wangzhan)
+**发布时间**: 2025-12-10 13:30
+
+#### [美国对委内瑞拉为什么围而不打？特朗普的真实目的是什么？](http://www.huxiu.com/article/4814591.html?f=wangzhan)
+**发布时间**: 2025-12-10 13:00
 
 ---
 

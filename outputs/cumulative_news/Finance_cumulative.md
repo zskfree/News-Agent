@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-10 23:24
+**最后更新时间**: 2025-12-11 05:24
+
+---
+
+## 🆕 最新更新 (2025-12-11 05:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Inside the failed green revolutions at BP and Shell](https://www.ft.com/content/c6d7d225-f322-4e88-b7e3-2ca2beecd495)
+**发布时间**: 2025-12-11 05:00
+
+#### [Ukraine’s ‘fortress belt’ that Trump wants to trade for peace](https://www.ft.com/content/ec490909-80e5-48ff-a518-8185a6a5d2c7)
+**发布时间**: 2025-12-11 05:00
+
+#### [Carmakers sound warning over EU’s ‘very dangerous’ local sourcing rules](https://www.ft.com/content/02a52b64-4dc5-49f6-b2bb-b31b5addf1c7)
+**发布时间**: 2025-12-11 05:00
+
+#### [UK pledges to spend extra £1.5bn on NHS medicines as part of Trump tariff deal](https://www.ft.com/content/19b0e69f-3a06-4db1-94a9-f3fa6f59feff)
+**发布时间**: 2025-12-11 05:00
+
+#### [Venezuela opposition leader appears in Oslo for Nobel award](https://www.ft.com/content/ca4af9ad-8144-48fb-a63f-70091ec4d0be)
+**发布时间**: 2025-12-11 03:25
+
+#### [Oracle shares slide on $15bn increase in data centre spending](https://www.ft.com/content/3633f277-d23b-44d0-b818-5fa3a89086cc)
+**发布时间**: 2025-12-10 23:57
+
+#### [US central bank to launch $40bn debt-buying scheme after money market strains](https://www.ft.com/content/6a04be70-6d05-4f03-b4c7-39ceae52bb64)
+**发布时间**: 2025-12-10 23:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [You’ve just won the $930 million Powerball jackpot. Here are the 5 money moves you need to make next.](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 01:37
+
+#### [Chewy+ subscriptions strength helps extend the streak of growing ‘pegged’ customers](https://www.marketwatch.com/story/chewy-subscriptions-strength-helps-extend-the-streak-of-growing-pegged-customers-0920f9e6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 00:24
+
+#### [U.S. seizes oil tanker off Venezuela. Why one analyst says it’s ‘a smart move.’](https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 00:08
+
+#### [This longer-term mortgage won’t make housing affordable — and could wreck your retirement](https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 23:23
 
 ---
 
