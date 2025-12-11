@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 05:25:09 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 08:36:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:36:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Inside the failed green revolutions at BP and Shell</title>
-      <link>https://www.ft.com/content/c6d7d225-f322-4e88-b7e3-2ca2beecd495</link>
-      <description>&lt;![CDATA[Inside the failed green revolutions at BP and Shell]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c6d7d225-f322-4e88-b7e3-2ca2beecd495</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Carmakers sound warning over EU’s ‘very dangerous’ local sourcing rules</title>
-      <link>https://www.ft.com/content/02a52b64-4dc5-49f6-b2bb-b31b5addf1c7</link>
-      <description>&lt;![CDATA[Carmakers sound warning over EU’s ‘very dangerous’ local sourcing rules]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/02a52b64-4dc5-49f6-b2bb-b31b5addf1c7</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>U.S. seizes oil tanker off Venezuela. Why one analyst says it’s ‘a smart move.’</title>
-      <link>https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. seizes oil tanker off Venezuela. Why one analyst says it’s ‘a smart move.’]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 00:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oracle shares slide on $15bn increase in data centre spending</title>
-      <link>https://www.ft.com/content/3633f277-d23b-44d0-b818-5fa3a89086cc</link>
-      <description>&lt;![CDATA[Oracle shares slide on $15bn increase in data centre spending]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 23:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3633f277-d23b-44d0-b818-5fa3a89086cc</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Ukraine’s ‘fortress belt’ that Trump wants to trade for peace</title>
-      <link>https://www.ft.com/content/ec490909-80e5-48ff-a518-8185a6a5d2c7</link>
-      <description>&lt;![CDATA[Ukraine’s ‘fortress belt’ that Trump wants to trade for peace]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ec490909-80e5-48ff-a518-8185a6a5d2c7</guid>
+      <title>Fed cuts rates to 3-year low after fractious meeting</title>
+      <link>https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec</link>
+      <description>&lt;![CDATA[Fed cuts rates to 3-year low after fractious meeting]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-11 05:24
+**最后更新时间**: 2025-12-11 08:36
+
+---
+
+## 🆕 最新更新 (2025-12-11 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fed cuts rates to 3-year low after fractious meeting](https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec)
+**发布时间**: 2025-12-11 06:06
+
+#### [Revolut’s kitesurfing leader is an asset to Britain](https://www.ft.com/content/2295c410-7939-445e-b112-b58d98ba7892)
+**发布时间**: 2025-12-11 05:00
+
+#### [UK energy costs likely to halve by 2050, says system operator](https://www.ft.com/content/25ad418f-6961-417b-825e-2071c1e693f2)
+**发布时间**: 2025-12-11 00:01
+
+#### [US seizes oil tanker off Venezuelan coast](https://www.ft.com/content/1f0627d0-a9c4-48d7-9a13-307bc59dea66)
+**发布时间**: 2025-12-10 23:29
 
 ---
 

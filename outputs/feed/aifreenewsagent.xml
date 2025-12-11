@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 05:25:24 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:37:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MIT最新发现：这十年，算法进步被高估了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-3</link>
-      <description>&lt;![CDATA[MIT最新发现：这十年，算法进步被高估了]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-3</guid>
+      <title>BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-8</link>
+      <description>&lt;![CDATA[BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>扩散语言模型推理太慢？北大团队提出ODB-dLLM框架，破解计算访存双重瓶颈</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11</link>
-      <description>&lt;![CDATA[扩散语言模型推理太慢？北大团队提出ODB-dLLM框架，破解计算访存双重瓶颈]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11</guid>
+      <title>Astribot Lumo-1: 能在物理空间中推理和行动的通用操作大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-5</link>
+      <description>&lt;![CDATA[Astribot Lumo-1: 能在物理空间中推理和行动的通用操作大模型]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球首个！灵巧手真实世界具身数采引擎Psi-SynEngine来了，灵初智能发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-2</link>
-      <description>&lt;![CDATA[全球首个！灵巧手真实世界具身数采引擎Psi-SynEngine来了，灵初智能发布]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-2</guid>
+      <title>慧思开物全局调度，北京人形推出全国首个全自主无人化导览解决方案</title>
+      <link>https://www.qbitai.com/2025/12/360124.html</link>
+      <description>&lt;![CDATA[慧思开物全局调度，北京人形推出全国首个全自主无人化导览解决方案]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 05:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360124.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meta公开抄阿里Qwen作业，还闭源了…</title>
-      <link>https://www.qbitai.com/2025/12/360104.html</link>
-      <description>&lt;![CDATA[Meta公开抄阿里Qwen作业，还闭源了…]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 03:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360104.html</guid>
+      <title>把数据中心塞进办公桌，让智能开发快N倍 ⚡</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-7</link>
+      <description>&lt;![CDATA[把数据中心塞进办公桌，让智能开发快N倍 ⚡]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>被拒≠失败！这些高影响力论文都被顶会拒收过</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-4</link>
-      <description>&lt;![CDATA[被拒≠失败！这些高影响力论文都被顶会拒收过]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-4</guid>
+      <title>钉钉又发新版本！把 AI 搬进每一次对话和会议</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-6</link>
+      <description>&lt;![CDATA[钉钉又发新版本！把 AI 搬进每一次对话和会议]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-6</guid>
       <category>Ai</category>
     </item>
   </channel>
