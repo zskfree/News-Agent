@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 08:37:12 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 23:54:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 00:02:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-8</link>
-      <description>&lt;![CDATA[BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-8</guid>
+      <title>2025-12-12日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-12/</link>
+      <description>&lt;![CDATA[2025-12-12日刊]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-12/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Astribot Lumo-1: 能在物理空间中推理和行动的通用操作大模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-5</link>
-      <description>&lt;![CDATA[Astribot Lumo-1: 能在物理空间中推理和行动的通用操作大模型]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-5</guid>
+      <title>大模型的第一性原理：（一）统计物理篇</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-11</link>
+      <description>&lt;![CDATA[大模型的第一性原理：（一）统计物理篇]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>慧思开物全局调度，北京人形推出全国首个全自主无人化导览解决方案</title>
-      <link>https://www.qbitai.com/2025/12/360124.html</link>
-      <description>&lt;![CDATA[慧思开物全局调度，北京人形推出全国首个全自主无人化导览解决方案]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 05:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360124.html</guid>
+      <title>何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-10</link>
+      <description>&lt;![CDATA[何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>把数据中心塞进办公桌，让智能开发快N倍 ⚡</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-7</link>
-      <description>&lt;![CDATA[把数据中心塞进办公桌，让智能开发快N倍 ⚡]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-7</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>钉钉又发新版本！把 AI 搬进每一次对话和会议</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-6</link>
-      <description>&lt;![CDATA[钉钉又发新版本！把 AI 搬进每一次对话和会议]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-6</guid>
+      <title>效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-11-9</link>
+      <description>&lt;![CDATA[效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决]]&gt;</description>
+      <pubDate>Thu, 11 Dec 2025 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-9</guid>
       <category>Ai</category>
     </item>
   </channel>
