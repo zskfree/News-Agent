@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 23:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 00:02:14 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 05:23:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 05:23:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025-12-12日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-12/</link>
-      <description>&lt;![CDATA[2025-12-12日刊]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-12/</guid>
+      <title>谷歌发布智能体Scaling Law：180组实验打破传统炼金术</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12</link>
+      <description>&lt;![CDATA[谷歌发布智能体Scaling Law：180组实验打破传统炼金术]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型的第一性原理：（一）统计物理篇</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-11</link>
-      <description>&lt;![CDATA[大模型的第一性原理：（一）统计物理篇]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 18:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-11</guid>
+      <title>Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-6</link>
+      <description>&lt;![CDATA[Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-10</link>
-      <description>&lt;![CDATA[何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-10</guid>
+      <title>NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-3</link>
+      <description>&lt;![CDATA[NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-9</link>
-      <description>&lt;![CDATA[效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-9</guid>
+      <title>里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-7</link>
+      <description>&lt;![CDATA[里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-7</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>跳过“逐字生成”！蚂蚁集团赵俊博：扩散模型让我们能直接修改Token | MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/360425.html</link>
+      <description>&lt;![CDATA[跳过“逐字生成”！蚂蚁集团赵俊博：扩散模型让我们能直接修改Token | MEET2026]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 04:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360425.html</guid>
       <category>Ai</category>
     </item>
   </channel>
