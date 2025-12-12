@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-12 08:32
+**最后更新时间**: 2025-12-12 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-12 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Maternal Instincts are Key to AI's Co-existence With Humans: Hinton](https://www.tmtpost.com/7807870.html)
+**发布时间**: 2025-12-13 01:09
+
+#### [DJI's Entry Into Robot Vacuums Signals New Phase in China's Cleaning Appliance Race](https://www.tmtpost.com/7807813.html)
+**发布时间**: 2025-12-12 22:31
+
+#### [功勋出走，荣耀品牌营销总裁郭锐官宣离职](https://www.tmtpost.com/7807481.html)
+**发布时间**: 2025-12-12 22:21
+
+#### [最贵船票来了：马斯克为何突然改口，大开SpaceX资本闸门](https://www.tmtpost.com/7807703.html)
+**发布时间**: 2025-12-12 21:59
+
+#### [京东工业：一条数字高速直通工业未来](https://www.tmtpost.com/7807763.html)
+**发布时间**: 2025-12-12 21:50
+
+#### [七腾机器人16.8亿入主胜通能源：私募“外援”加持，关键悬念未明确](https://www.tmtpost.com/7807678.html)
+**发布时间**: 2025-12-12 20:58
+
+#### [LV高管空降泡泡玛特：潮玩巨头的奢侈化赌局，到底在赌什么？](https://www.tmtpost.com/7806929.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [“双11”都那样了，为什么我们还需要“双12”？](https://www.tmtpost.com/7806953.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [汽水音乐出击，腾讯音乐、网易云音乐谁更“伤”？](https://www.tmtpost.com/7807513.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [小红书的困局和柯南的理想主义](https://www.tmtpost.com/7807069.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [甲骨文财报后大跌，我的一点想法](https://www.tmtpost.com/7807191.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [《小火锅品类发展报告2025》发布：巨头高调入局，小火锅告别野蛮生长转向品质化升级](https://www.tmtpost.com/7807121.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [商业航天不是送火箭，是建“太空基础设施”：下一代产业链正在重构](https://www.tmtpost.com/7807492.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [机器人2025年TOP 10大盘点](https://www.tmtpost.com/7807209.html)
+**发布时间**: 2025-12-12 19:46
+
+#### [股市上涨行情如何能在2026年持续——以及该投资哪些领域](https://www.tmtpost.com/7807584.html)
+**发布时间**: 2025-12-12 19:01
+
+#### [亚马逊及另外九只2026年值得买入的股票](https://www.tmtpost.com/7807581.html)
+**发布时间**: 2025-12-12 19:01
+
+#### [不要对抗AI泡沫，哪怕思科最终也赢了](https://www.tmtpost.com/7807578.html)
+**发布时间**: 2025-12-12 19:01
+
+#### [卓翼智能完成2亿元C轮战略融资，杭实集团旗下子公司独家投资 | 融资速递](https://www.tmtpost.com/7807541.html)
+**发布时间**: 2025-12-12 18:49
+
+#### [美国新一轮QE开启，2026有哪些搞钱渠道？](https://www.tmtpost.com/7807506.html)
+**发布时间**: 2025-12-12 18:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“决战紫金之巅”再结硕果！6 个项目签约，最高 500 万补贴助力发展！](https://www.infoq.cn/article/VDS2u49oc5YukNPzJD1A?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 23:09
+
+#### [re:Invent特别企划之五天五问《选择即创造》③正片上线！](https://www.infoq.cn/video/81gcD3YLQ4YGqiOxjxPQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 20:22
+
+#### [谷歌最新 Gemini Agent 爆击GPT-5.2？人类最后考试得分见分晓！网友：Altman又该发“红色警报”了](https://www.infoq.cn/article/V1x0pYHG0SPgvK4XIqIU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 18:29
+
+#### [Replit为多模型开发引入了新的AI集成](https://www.infoq.cn/article/bYqM3XO7FVAY8zc7fezM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 18:10
+
+#### [IDC MarketScape: 容联云位居“中国AI赋能的联络中心”领导者类别](https://www.infoq.cn/article/Ba78aSf3D0YVTAg4KCrI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 17:39
+
+#### [Vike发布Photon平台，搭载新一代JavaScript部署基础设施并集成Cloudflare服务](https://www.infoq.cn/article/EcRlUmdIL1Rezy5NVADK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 17:20
+
+#### [装机量超2000万、全球主流GPU与AI框架“开箱即用”！OpenCloudOS成AI时代优先选项](https://www.infoq.cn/article/sp6Q279X65KoHRoG7gHx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 16:55
+
+#### [JFrog推出“影子AI检测”功能，助力企业应对软件供应链中的隐性AI风险](https://www.infoq.cn/article/pLZfelB1rtrciuaa1aou?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 16:40
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [奥特曼抱紧迪士尼大腿，OpenAI能避免被踢下牌桌吗？](http://www.huxiu.com/article/4816809.html?f=wangzhan)
+**发布时间**: 2025-12-12 20:39
+
+#### [英伟达芯片重返中国，但可能已经错过最佳时机](http://www.huxiu.com/article/4816467.html?f=wangzhan)
+**发布时间**: 2025-12-12 20:30
+
+#### [塔斯汀变贵变小，都怪资本胃口太大？](http://www.huxiu.com/article/4816511.html?f=wangzhan)
+**发布时间**: 2025-12-12 19:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/104560)
+**发布时间**: 2025-12-12 18:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [深聊豆包手机：该关注这场「技术核试验」的什么？](http://www.geekpark.net/news/357996)
+**发布时间**: 2025-12-12 17:34
 
 ---
 

@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-12 08:32
+**最后更新时间**: 2025-12-12 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-12 23:21)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?](https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 22:51
+
+#### [‘The stress at my job is getting worse every day’: I’m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?](https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 22:51
+
+#### [These stocks could land big profits from filling Big Tech’s critical water needs](https://www.marketwatch.com/story/these-stocks-could-land-big-profits-from-filling-big-techs-critical-water-needs-2e0e214b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 22:29
+
+#### [Tilray’s stock takes off on hope that cannabis will soon be treated more like steroids than heroin](https://www.marketwatch.com/story/tilrays-stock-takes-off-on-hope-that-cannabis-will-soon-be-seen-as-more-like-steroids-than-heroin-f160575c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 22:22
+
+#### [Lululemon’s ousting of CEO draws praise from activist founder Chip Wilson](https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 21:32
+
+#### [Here’s how much money Heisman Trophy finalists Mendoza, Pavia and Love made from NIL deals this season](https://www.marketwatch.com/story/heres-how-much-money-heisman-trophy-finalists-mendoza-pavia-and-love-made-from-nil-deals-this-season-9c527fbc?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 21:29
+
+#### [Block the Warner Bros. sale, break up ‘Big Streaming’ — and give us lower prices](https://www.marketwatch.com/story/either-netflix-or-paramount-buying-warner-bros-would-be-an-unhappy-ending-for-streaming-customers-ff2b222f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 20:56
+
+#### [The stock market’s ‘Santa Claus rally’ hasn’t come to town yet — despite what you’re hearing](https://www.marketwatch.com/story/the-stock-markets-santa-claus-rally-hasnt-come-to-town-so-ignore-the-caroling-c76d847e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 20:56
+
+#### [Investigating a financial adviser can keep you out of trouble. This free online tool makes it easy.](https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 20:37
+
+#### [Try this 30-second trick to keep your holiday spending from wrecking your credit score](https://www.marketwatch.com/story/try-this-30-second-trick-to-keep-your-holiday-spending-from-wrecking-your-credit-score-3b559e54?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 20:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU freezes Russian assets ahead of pivotal Ukraine talks](https://www.ft.com/content/bae04a8e-f8eb-419b-be88-bbdb5882d7d1)
+**发布时间**: 2025-12-12 21:06
+
+#### [US tech stocks slide as fears over AI boom flare up](https://www.ft.com/content/8b9519df-9154-4eb5-ab3b-d3da0115b65e)
+**发布时间**: 2025-12-12 21:05
+
+#### [Jamie Dimon signals support for Kevin Warsh in Fed chair race](https://www.ft.com/content/df10ecea-ab0d-452d-b9dc-ffe54701a49c)
+**发布时间**: 2025-12-12 20:31
+
+#### [Donald Trump and Bill Clinton pictured in newly released Epstein photos](https://www.ft.com/content/5eab6e6a-d0ca-4154-a117-35a95a5dad87)
+**发布时间**: 2025-12-12 18:48
+
+#### [Can bitcoin bonds fund economic development?](https://www.ft.com/content/e641c7f7-d097-4ceb-8d72-bdcadc91d7d0)
+**发布时间**: 2025-12-12 18:00
+
+#### [Labour membership plummets since general election](https://www.ft.com/content/138527be-266a-40a2-b8f5-6d0eae7072a6)
+**发布时间**: 2025-12-12 16:32
+
+#### [Russia sues Euroclear over frozen assets](https://www.ft.com/content/5d74f0d0-00c8-4509-b711-d27de32152c6)
+**发布时间**: 2025-12-12 15:50
+
+#### [Ukraine would join EU next year under draft peace plan](https://www.ft.com/content/e50481a3-161c-4002-83e4-cae0be12799e)
+**发布时间**: 2025-12-12 15:27
+
+#### [‘JPMorgan has crossed a line’: How Altice’s debts ensnared US banking giant](https://www.ft.com/content/b934d78b-6662-494a-8eb9-7a956f198465)
+**发布时间**: 2025-12-12 14:13
+
+#### [The UK economy is not nearly as bad as you’ve been told](https://www.ft.com/content/5afff79e-0af7-4f96-b69f-c603cd083a50)
+**发布时间**: 2025-12-12 10:39
+
+#### [MPs’ pension scheme makes ‘mockery’ of Reeves investment push](https://www.ft.com/content/2987b782-0a91-4aad-bc59-32a32fc8ae91)
+**发布时间**: 2025-12-12 05:00
 
 ---
 
