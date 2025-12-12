@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 05:23:58 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 08:33:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌发布智能体Scaling Law：180组实验打破传统炼金术</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12</link>
-      <description>&lt;![CDATA[谷歌发布智能体Scaling Law：180组实验打破传统炼金术]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12</guid>
+      <title>AI 驱动的科学系统分析框架：SciSciGPT 打开科学研究的新工作方式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-8</link>
+      <description>&lt;![CDATA[AI 驱动的科学系统分析框架：SciSciGPT 打开科学研究的新工作方式]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-6</link>
-      <description>&lt;![CDATA[Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-6</guid>
+      <title>谷歌智能体发力：增强版Gemini Deep Research和专属API都来了</title>
+      <link>https://www.qbitai.com/2025/12/360539.html</link>
+      <description>&lt;![CDATA[谷歌智能体发力：增强版Gemini Deep Research和专属API都来了]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 07:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360539.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-3</link>
-      <description>&lt;![CDATA[NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-3</guid>
+      <title>全球强化学习+VLA范式，PI*0.6背后都有这家中国公司技术伏笔</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-5</link>
+      <description>&lt;![CDATA[全球强化学习+VLA范式，PI*0.6背后都有这家中国公司技术伏笔]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-7</link>
-      <description>&lt;![CDATA[里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-7</guid>
+      <title>ToC智能体火得快，但更大的价值在企业丨中关村科金@MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/360476.html</link>
+      <description>&lt;![CDATA[ToC智能体火得快，但更大的价值在企业丨中关村科金@MEET2026]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 06:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360476.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>跳过“逐字生成”！蚂蚁集团赵俊博：扩散模型让我们能直接修改Token | MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/360425.html</link>
-      <description>&lt;![CDATA[跳过“逐字生成”！蚂蚁集团赵俊博：扩散模型让我们能直接修改Token | MEET2026]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 04:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360425.html</guid>
+      <title>刚刚，GPT-5.2满分屠榜，OpenAI十周年王者归来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-2</link>
+      <description>&lt;![CDATA[刚刚，GPT-5.2满分屠榜，OpenAI十周年王者归来]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-2</guid>
       <category>Ai</category>
     </item>
   </channel>

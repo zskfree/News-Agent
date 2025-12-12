@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 05:23:45 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 08:32:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FT Person of the Year: Jensen Huang</title>
-      <link>https://www.ft.com/content/11a018f4-95e0-41c2-99d8-aff105328a0b</link>
-      <description>&lt;![CDATA[FT Person of the Year: Jensen Huang]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/11a018f4-95e0-41c2-99d8-aff105328a0b</guid>
+      <title>UK economy contracts by 0.1% in October</title>
+      <link>https://www.ft.com/content/4176e478-2dd1-4b8b-8b5b-38644c15d5f0</link>
+      <description>&lt;![CDATA[UK economy contracts by 0.1% in October]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 08:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4176e478-2dd1-4b8b-8b5b-38644c15d5f0</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Is silver the new gold?</title>
-      <link>https://www.ft.com/content/e753bed7-6a1a-49b8-9289-f5d698b82e4f</link>
-      <description>&lt;![CDATA[Is silver the new gold?]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e753bed7-6a1a-49b8-9289-f5d698b82e4f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>MPs pension scheme makes ‘mockery’ of Reeves investment push</title>
-      <link>https://www.ft.com/content/2987b782-0a91-4aad-bc59-32a32fc8ae91</link>
-      <description>&lt;![CDATA[MPs pension scheme makes ‘mockery’ of Reeves investment push]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2987b782-0a91-4aad-bc59-32a32fc8ae91</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Apollo moves fast-growing lending unit out of storied buyout division</title>
-      <link>https://www.ft.com/content/9a34679e-8dff-425b-aef1-b709ac6230bc</link>
-      <description>&lt;![CDATA[Apollo moves fast-growing lending unit out of storied buyout division]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9a34679e-8dff-425b-aef1-b709ac6230bc</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why Broadcom’s stock is falling, even as earnings showed strong AI demand</title>
-      <link>https://www.marketwatch.com/story/broadcom-earnings-pass-the-test-as-ai-momentum-sends-the-stock-higher-472ab922?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why Broadcom’s stock is falling, even as earnings showed strong AI demand]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 01:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/broadcom-earnings-pass-the-test-as-ai-momentum-sends-the-stock-higher-472ab922?mod=mw_rss_topstories</guid>
+      <title>WHSmith delays results again to give auditor PwC more time</title>
+      <link>https://www.ft.com/content/9b06bd24-5494-41ce-92c7-21baca8b8dab</link>
+      <description>&lt;![CDATA[WHSmith delays results again to give auditor PwC more time]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9b06bd24-5494-41ce-92c7-21baca8b8dab</guid>
       <category>Finance</category>
     </item>
   </channel>

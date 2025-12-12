@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-12 05:23
+**最后更新时间**: 2025-12-12 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-12 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK economy contracts by 0.1% in October](https://www.ft.com/content/4176e478-2dd1-4b8b-8b5b-38644c15d5f0)
+**发布时间**: 2025-12-12 08:04
+
+#### [WHSmith delays results again to give auditor PwC more time](https://www.ft.com/content/9b06bd24-5494-41ce-92c7-21baca8b8dab)
+**发布时间**: 2025-12-12 07:24
+
+#### [Former ANZ chief sues over axed $9mn bonus](https://www.ft.com/content/8fa6db04-2da7-4a91-97db-d074f97e1b33)
+**发布时间**: 2025-12-12 05:18
 
 ---
 

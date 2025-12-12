@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 05:24:16 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 08:33:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5.2 的能力评估、市场反应与AI竞争格局演化</title>
-      <link>https://www.infoq.cn/article/DrB6mXayUtswARNSBYL7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT-5.2 的能力评估、市场反应与AI竞争格局演化]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 08:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DrB6mXayUtswARNSBYL7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 发 GPT-5.2，瞄准专业用户；超越苹果，华为重夺第一；迪士尼 10 亿美元投资 OpenAI</title>
+      <link>http://www.geekpark.net/news/357946</link>
+      <description>&lt;![CDATA[OpenAI 发 GPT-5.2，瞄准专业用户；超越苹果，华为重夺第一；迪士尼 10 亿美元投资 OpenAI]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357946</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Disney Licenses Iconic Characters to OpenAI, Invests $1 Billion in Hollywood's Largest AI Studio Deal</title>
-      <link>https://www.tmtpost.com/7806946.html</link>
-      <description>&lt;![CDATA[Disney Licenses Iconic Characters to OpenAI, Invests $1 Billion in Hollywood's Largest AI Studio Deal]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806946.html</guid>
+      <title>【钛晨报】定调2026年经济工作重点任务，中央经济工作会议32条要点速览；马斯克确认SpaceX明年IPO；世界银行上调2025年中国经济增速预期</title>
+      <link>https://www.tmtpost.com/7806486.html</link>
+      <description>&lt;![CDATA[【钛晨报】定调2026年经济工作重点任务，中央经济工作会议32条要点速览；马斯克确认SpaceX明年IPO；世界银行上调2025年中国经济增速预期]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7806486.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型第一股之争：MiniMax、智谱、月之暗面竞相赴港IPO</title>
-      <link>https://www.tmtpost.com/7806465.html</link>
-      <description>&lt;![CDATA[大模型第一股之争：MiniMax、智谱、月之暗面竞相赴港IPO]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 11:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806465.html</guid>
+      <title>MiniMax and Zhipu AI Plan Hong Kong IPOs Within Weeks</title>
+      <link>https://www.tmtpost.com/7807026.html</link>
+      <description>&lt;![CDATA[MiniMax and Zhipu AI Plan Hong Kong IPOs Within Weeks]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7807026.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>地平线：智驾“国产平替芯”，能扳倒英伟达吗？</title>
-      <link>https://www.tmtpost.com/7806417.html</link>
-      <description>&lt;![CDATA[地平线：智驾“国产平替芯”，能扳倒英伟达吗？]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806417.html</guid>
+      <title>紧急补丁——React服务器函数中的严重漏洞CVE-2025-55182被主动利用</title>
+      <link>https://www.infoq.cn/article/jVcfXOWB0UoOOwrfiyjW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[紧急补丁——React服务器函数中的严重漏洞CVE-2025-55182被主动利用]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jVcfXOWB0UoOOwrfiyjW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌云展示了大规模的Kubernetes规模，拥有13万个节点的GKE集群</title>
-      <link>https://www.infoq.cn/article/qktdvEVwfOfbYA8iJGTC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云展示了大规模的Kubernetes规模，拥有13万个节点的GKE集群]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qktdvEVwfOfbYA8iJGTC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>如何让AI智能体从“玩具”变“工具”？</title>
+      <link>https://www.infoq.cn/article/MhBpL7m3y873tY1qmm0I?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[如何让AI智能体从“玩具”变“工具”？]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MhBpL7m3y873tY1qmm0I?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
