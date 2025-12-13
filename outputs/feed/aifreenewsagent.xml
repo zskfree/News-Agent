@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Dec 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Dec 2025 08:29:46 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 23:21:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/360576.html</link>
-      <description>&lt;![CDATA[交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026]]&gt;</description>
-      <pubDate>Sat, 13 Dec 2025 04:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360576.html</guid>
+      <title>2025-12-14日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-14/</link>
+      <description>&lt;![CDATA[2025-12-14日刊]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-14/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-7</link>
+      <description>&lt;![CDATA[ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-7</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-6</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GPT-5.2已上线24小时：差评如潮！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-5</link>
+      <description>&lt;![CDATA[GPT-5.2已上线24小时：差评如潮！]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>谢赛宁REPA得到大幅改进，只需不到4行代码</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-4</link>
+      <description>&lt;![CDATA[谢赛宁REPA得到大幅改进，只需不到4行代码]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-4</guid>
       <category>Ai</category>
     </item>
   </channel>

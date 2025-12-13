@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Dec 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Dec 2025 05:22:35 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 23:20:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?</title>
-      <link>https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 23:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories</guid>
+      <title>Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support</title>
+      <link>https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Carney’s fossil fuel pivot bewilders climate experts and business leaders</title>
+      <link>https://www.ft.com/content/e5a0fe37-4d36-489b-95ce-9467ed02efe8</link>
+      <description>&lt;![CDATA[Carney’s fossil fuel pivot bewilders climate experts and business leaders]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e5a0fe37-4d36-489b-95ce-9467ed02efe8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>More than 9mn US borrowers miss student loan payments as delinquencies rise</title>
+      <link>https://www.ft.com/content/b6ca2ab2-2d3a-40d7-9a61-12a6fda0625d</link>
+      <description>&lt;![CDATA[More than 9mn US borrowers miss student loan payments as delinquencies rise]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b6ca2ab2-2d3a-40d7-9a61-12a6fda0625d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>More home buyers are turning to this type of mortgage in an unaffordable market — but sometimes it works against them</title>
+      <link>https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[More home buyers are turning to this type of mortgage in an unaffordable market — but sometimes it works against them]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 19:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Belarus frees Nobel laureate after US lifts potash sanctions</title>
+      <link>https://www.ft.com/content/b344814e-4725-4924-9871-b3170d74d1ef</link>
+      <description>&lt;![CDATA[Belarus frees Nobel laureate after US lifts potash sanctions]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b344814e-4725-4924-9871-b3170d74d1ef</guid>
       <category>Finance</category>
     </item>
   </channel>

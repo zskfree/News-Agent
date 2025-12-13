@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-13 08:29
+**最后更新时间**: 2025-12-13 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-13 23:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [天桥脑科学研究院成立尖峰智能实验室，推动类脑大模型发展](https://www.tmtpost.com/7808249.html)
+**发布时间**: 2025-12-13 21:31
+
+#### [90后美女主持人接任150万年薪董秘：睿智医药选对人了？](https://www.tmtpost.com/7807758.html)
+**发布时间**: 2025-12-13 19:01
+
+#### [企业AI战略规划方法论与工作清单](https://www.tmtpost.com/7807959.html)
+**发布时间**: 2025-12-13 19:01
+
+#### [赢时胜实控人唐球套现过亿，不久前因信披问题被监管](https://www.tmtpost.com/7808003.html)
+**发布时间**: 2025-12-13 19:01
+
+#### [李飞飞深度解读：为什么空间智能是通往AGI的关键技术？](https://www.tmtpost.com/7808166.html)
+**发布时间**: 2025-12-13 19:00
+
+#### [LV高管加入泡泡玛特董事会；lululemonQ3中国大陆净营收同比增46%；红杉中国拟收购Golden Goose｜消研所周报](https://www.tmtpost.com/7807635.html)
+**发布时间**: 2025-12-13 16:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent特别企划之五天五问④《视野的合流》正片上线！](https://www.infoq.cn/video/COuRzVEjIi0DS5oDeH2x?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-13 16:35
+
+#### [re:Invent特别企划之五天五问③《选择即创造》正片上线！](https://www.infoq.cn/video/81gcD3YLQ4YGqiOxjxPQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 20:22
 
 ---
 

@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-13 08:29
+**最后更新时间**: 2025-12-13 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-13 23:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support](https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 21:08
+
+#### [You’ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 19:55
+
+#### [More home buyers are turning to this type of mortgage in an unaffordable market — but sometimes it works against them](https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 19:54
+
+#### [A $100 million NFL contract isn’t enough money to last a lifetime, says former football star Odell Beckham Jr.](https://www.marketwatch.com/story/odell-beckham-jr-says-a-100-million-nfl-contract-wont-last-a-lifetime-heres-what-other-athletes-think-e5f245ff?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 19:54
+
+#### [‘Digital twins’ of Frida Kahlo paintings could transform how we collect art](https://www.marketwatch.com/story/the-latest-in-nfts-creating-digital-twins-of-frida-kahlo-paintings-could-the-mona-lisa-be-next-c988d23d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 19:54
+
+#### [72% of people say they’d be happier if they saved or invested more money. Far fewer said spending more would bring happiness.](https://www.marketwatch.com/story/72-of-people-say-theyd-be-happier-if-they-saved-or-invested-more-money-far-fewer-said-spending-more-would-bring-happiness-faf01782?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 19:54
+
+#### [‘Is this really what college bowl games have become?’ Critics see brands like Pop-Tarts competing with football for attention.](https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories)
+**发布时间**: 2025-12-13 19:54
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Two US soldiers and a civilian killed in attack in Syria](https://www.ft.com/content/51f72b21-acce-4993-835d-3b3e656948fd)
+**发布时间**: 2025-12-13 20:33
+
+#### [Hamas accuses Israel of sabotaging ceasefire after commander is targeted](https://www.ft.com/content/07181074-5c6f-417a-8723-e221a1cb5afa)
+**发布时间**: 2025-12-13 17:12
+
+#### [Belarus frees Nobel laureate after US lifts potash sanctions](https://www.ft.com/content/b344814e-4725-4924-9871-b3170d74d1ef)
+**发布时间**: 2025-12-13 16:00
+
+#### [More than 9mn US borrowers miss student loan payments as delinquencies rise](https://www.ft.com/content/b6ca2ab2-2d3a-40d7-9a61-12a6fda0625d)
+**发布时间**: 2025-12-13 15:00
+
+#### [Carney’s fossil fuel pivot bewilders climate experts and business leaders](https://www.ft.com/content/e5a0fe37-4d36-489b-95ce-9467ed02efe8)
+**发布时间**: 2025-12-13 12:00
 
 ---
 
