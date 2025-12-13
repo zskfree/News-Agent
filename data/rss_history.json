@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8ca1ed5a3db82bc246941c40bfe36707c05c4934ab038db52d92af999ebd472a": {
-        "title": "百度文库网盘发布GenFlow3.0，活跃用户超2000万，“超级应用成就超级个体”",
-        "link": "https://www.qbitai.com/2025/11/352188.html",
-        "published_date": "Thu, 13 Nov 2025 08:22:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.483917"
-      },
-      "4d604c3cb738438072627c6b81e0272baec277cbb1f3bfc5e13644ce6514e638": {
-        "title": "Nature公开谷歌IMO金牌模型技术细节！核心团队仅10人，一年给AI编出8000万道数学题训练",
-        "link": "https://www.qbitai.com/2025/11/352175.html",
-        "published_date": "Thu, 13 Nov 2025 07:55:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.484145"
-      },
-      "80ab71337e86cb5f4e86f202ac390060bd50c211f88a6a4775b252f71e4c6220": {
-        "title": "滴滴自动驾驶出海，首站落户中东阿布扎比",
-        "link": "https://www.qbitai.com/2025/11/352168.html",
-        "published_date": "Thu, 13 Nov 2025 07:43:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.484303"
-      },
       "a1921470c893cd546df599519ce477707b7e597053d10d2d3e4b5a18fa907df6": {
         "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
         "link": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
@@ -1221,150 +1203,6 @@
       }
     },
     "Technology": {
-      "e330061b2f8d9ca722ffb8ad47519db12925c86fc2c612e4792a8eb95f17fcfa": {
-        "title": "国内表现平平，悠星自研为何在日韩市场成小爆款？",
-        "link": "https://www.tmtpost.com/7762371.html",
-        "published_date": "Thu, 13 Nov 2025 12:26:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356187"
-      },
-      "9e874845a67a328d7a07ab6840f5ece6b61ac9dfaa72a2d93d0f787899e42fc5": {
-        "title": "人工智能会怎样全面赋能高质量发展？",
-        "link": "https://www.tmtpost.com/7762403.html",
-        "published_date": "Thu, 13 Nov 2025 12:26:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356198"
-      },
-      "53d302d594890ce9b33187e538f431463b22f4cf237cb308c1d031ab8f049881": {
-        "title": "Vor反手给了荣昌生物一拳",
-        "link": "https://www.tmtpost.com/7762282.html",
-        "published_date": "Thu, 13 Nov 2025 12:16:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356208"
-      },
-      "07c6f2a482535c70d01c66ce817fe19cf8edb42555a274a127f94342748737e0": {
-        "title": "今年双11，为何AI眼镜卖爆了？",
-        "link": "https://www.tmtpost.com/7762339.html",
-        "published_date": "Thu, 13 Nov 2025 12:15:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356218"
-      },
-      "7a6fbe1d317a3c138a2d3d471cb112d400fe3eec2b43764cce571743a7ef20e2": {
-        "title": "汽水音乐，正在吃掉腾讯音乐的尾巴？",
-        "link": "https://www.tmtpost.com/7761698.html",
-        "published_date": "Thu, 13 Nov 2025 11:13:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356227"
-      },
-      "d0c4017231505b2ee4312797577c24ef491d8bb2cea976ba06b2010c8cabe533": {
-        "title": "Unitree Leads Price War as Robotics Industry Eyes Mass Adoption",
-        "link": "https://www.tmtpost.com/7762394.html",
-        "published_date": "Thu, 13 Nov 2025 11:12:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356238"
-      },
-      "c02dcd14804d223e0f69cb9af6e4f26dd491f982e9cf13b56651b761e2aae947": {
-        "title": "最低4.99万，京东的第一辆车会亏吗？",
-        "link": "https://www.tmtpost.com/7761296.html",
-        "published_date": "Thu, 13 Nov 2025 11:09:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356249"
-      },
-      "9d4a072f82d2e8ff6fd89114c68f7e89ec7470c893af3f90c975558818c357ce": {
-        "title": "Memory Chip Prices Surge 700% as Rare Earth Metals Emerge as AI's Critical Bottleneck",
-        "link": "https://www.tmtpost.com/7762368.html",
-        "published_date": "Thu, 13 Nov 2025 11:03:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356294"
-      },
-      "e4fe000f8e4487f07c598b5fd46c045f85f3a25cc8fc4ddc59e451662eb29083": {
-        "title": "企业级通用Agent技术落地过程中的实践与思考｜AICon北京",
-        "link": "https://www.infoq.cn/article/cO0O4IJ1mxD4NVpj3AUU?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 10:58:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356142"
-      },
-      "9424fc476ada33824343c271d8d1d80e2fa2ccdff8c8389ac6a20a3dc68f4e22": {
-        "title": "Snowflake Optima：您的查询功能迎来重磅升级 | 技术趋势",
-        "link": "https://www.infoq.cn/article/orzVMR9xqNSpZWaotXhI?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 09:32:00 GMT",
-        "first_seen": "2025-11-13T05:22:36.356173"
-      },
-      "fcce711013cd15439d024f783e5b693729bc769d09890c3bb60b0864d0a41e9f": {
-        "title": "小鹏科技日「太魔幻」：机器人走猫步，飞行汽车接近量产",
-        "link": "http://www.geekpark.net/news/356380",
-        "published_date": "Thu, 13 Nov 2025 16:26:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926594"
-      },
-      "5e3109a6e64ff08b7bdb50334c25f3a3480f8968d6c59445fb0f6feafe1ba49b": {
-        "title": "当电影公司开始做短剧，行业真正的变化才刚刚开始",
-        "link": "https://www.tmtpost.com/7762967.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926623"
-      },
-      "a0bd08f82c66a242517bb928b1765e17127dadbca9baf9aee3f8d8ceb6026bd1": {
-        "title": "《声鸣远扬》火拼《中国唱将》，“国家队级音综”成色如何？",
-        "link": "https://www.tmtpost.com/7762981.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926638"
-      },
-      "0df2e7c4721dce5e6fd03eb0b791c43ea4626a0624f9d92e37f9c335c190033e": {
-        "title": "字节发力，腾讯音乐还能“小而美”吗？",
-        "link": "https://www.tmtpost.com/7762281.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926650"
-      },
-      "72e092fa3d5fd8d4f964c24ac634bd6db4740e219a19960506946e99385b2046": {
-        "title": "高开不高调的《唐诡3》又来为续写IP现身说法了",
-        "link": "https://www.tmtpost.com/7762972.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926660"
-      },
-      "638e747ccc37a7e9b6fed4c111b6d4029e5f5f51275dbec7f89e0f59cf363f23": {
-        "title": "源码资本完成新一期双币成长基金募资 总规模达6亿美元 | 募资动态",
-        "link": "https://www.tmtpost.com/7762942.html",
-        "published_date": "Thu, 13 Nov 2025 15:20:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926712"
-      },
-      "03fd37d8e03425c0828500ca90090d1384c99d682df2e27a4839ab894322f260": {
-        "title": "11月13日A股分析：沪指涨0.73%续创十年新高，创业板指、北证指数涨超2%，两市合计成交20419.62亿元，资金流入最多的概念板块为锂电池、融资融券",
-        "link": "https://www.tmtpost.com/7762915.html",
-        "published_date": "Thu, 13 Nov 2025 15:13:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926731"
-      },
-      "80498e8440ae96779d9940b5401db885c4a46a0a9d8f916abd05f6cdc1b1bd8f": {
-        "title": "安道药业完成超4亿元人民币C轮融资，北极光创投连续多轮支持 | 融资首发",
-        "link": "https://www.tmtpost.com/7762919.html",
-        "published_date": "Thu, 13 Nov 2025 15:11:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926743"
-      },
-      "0efac384b3d10ca8cd0bc7e84db516fe0e26a88a12cf3efba12e93ee03c6f5b2": {
-        "title": "AMD Stock Jumps 9% after Accelerating Sales Outlook and Strategy to Lead $1 Trillion AI Datacenter Market Unveiled",
-        "link": "https://www.tmtpost.com/7762906.html",
-        "published_date": "Thu, 13 Nov 2025 15:04:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.555995"
-      },
-      "bf17c69896f1fcef621f5619b4b7466572380a70e402e1bd75fbc4dc1931326c": {
-        "title": "阿里秘密启动新AI项目全面对标ChatGPT，争夺海外用户 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7762917.html",
-        "published_date": "Thu, 13 Nov 2025 15:04:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926754"
-      },
-      "a053fef006236114440ba5b6ed23c670c7fccf6439efd0007e7076effe279122": {
-        "title": "起大早、赶大集：百度AI“长期主义”的兑现时刻",
-        "link": "https://www.tmtpost.com/7762694.html",
-        "published_date": "Thu, 13 Nov 2025 14:00:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926764"
-      },
-      "a273badc9cf3f8cab51fb85242e565ac5dd6c432b4d73cc9d2c34c80526c91af": {
-        "title": "与资深AI架构师⼀起，解锁传统行业转型的真实挑战与破局思路",
-        "link": "https://www.infoq.cn/article/A2KRmj3EbOy5ZoJ763ky?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 15:44:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.557868"
-      },
-      "2b19af0a75b21c2ce19cfb28f558ce2087b2c861c6081a3586a70ee3d6d38e66": {
-        "title": "基于多智能体与MCP，中国工商银行软件开发中心普惠金融智能中枢建设探索与实践",
-        "link": "https://www.infoq.cn/article/m7mguBli9H4WEjtK2RDs?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 14:02:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.558620"
-      },
-      "27b1b20bef12f800815a45ba2ca918b3ed27b1b175b5c7a72381992fab11ddff": {
-        "title": "日本浮生录 10｜追逐棕熊、户外徒步：在北海道遇见最美秋日",
-        "link": "https://sspai.com/post/103795",
-        "published_date": "Thu, 13 Nov 2025 15:00:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.559464"
-      },
       "c23b27e87e59585940cd8be0add3d9508f31b7a1d605dacafb10480d1ec32e30": {
         "title": "TWh时代新战事：全域增量、体系出海、AI破局 丨行业风向标",
         "link": "https://www.tmtpost.com/7763856.html",
@@ -9368,6 +9206,36 @@
         "link": "http://www.huxiu.com/article/4816965.html?f=wangzhan",
         "published_date": "Sat, 13 Dec 2025 11:52:00 GMT",
         "first_seen": "2025-12-13T05:22:49.623663"
+      },
+      "588e0e4a6540d622851a18883c5358de950231c470e80edcee0695d682beb2d0": {
+        "title": "奥特曼抱紧迪士尼大腿，OpenAI能避免被踢下牌桌吗？",
+        "link": "https://www.tmtpost.com/7807114.html",
+        "published_date": "Sat, 13 Dec 2025 07:53:00 GMT",
+        "first_seen": "2025-12-13T08:30:01.362851"
+      },
+      "4f905b544192607a9275a76081b36b1e83f5bbd8ac92fed4839b89c632231a1c": {
+        "title": "豆包“撕裂”AI手机",
+        "link": "https://www.tmtpost.com/7807590.html",
+        "published_date": "Sat, 13 Dec 2025 09:34:00 GMT",
+        "first_seen": "2025-12-13T08:30:01.362858"
+      },
+      "1c4f3d4421bcdbd4604167d8403d02906164d637886ab5de11ea4ff300d67196": {
+        "title": "Svelte 团队成员开源新框架 Ripple，又一个想“改写前端”的框架？",
+        "link": "https://www.infoq.cn/article/84yOUazuZVZydfEZa1Nh?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 13 Dec 2025 14:38:00 GMT",
+        "first_seen": "2025-12-13T08:30:01.362860"
+      },
+      "4fa7422dc6daa36c12268046975a868b77d267b042b06d11bd012768944c51db": {
+        "title": "甲骨文财报后暴跌，从软件股改成了算力基建股？",
+        "link": "https://www.tmtpost.com/7807809.html",
+        "published_date": "Sat, 13 Dec 2025 08:23:00 GMT",
+        "first_seen": "2025-12-13T08:30:01.362862"
+      },
+      "bf091bfaf045c6725375752b1a817e2cd556df5e90092d51a449b6c366baa7b0": {
+        "title": "具透 | iOS 26.2 值得关注的新特性",
+        "link": "https://sspai.com/post/104408",
+        "published_date": "Sat, 13 Dec 2025 11:27:00 GMT",
+        "first_seen": "2025-12-13T08:30:01.362864"
       }
     },
     "Finance": {
@@ -12060,13 +11928,19 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-12-4",
         "published_date": "Fri, 12 Dec 2025 11:36:00 GMT",
         "first_seen": "2025-12-12T23:21:23.097614"
+      },
+      "30bde27fb4bf22a299ea94a6934050163940e24107821fd3116cd59394c46560": {
+        "title": "交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026",
+        "link": "https://www.qbitai.com/2025/12/360576.html",
+        "published_date": "Sat, 13 Dec 2025 04:53:00 GMT",
+        "first_seen": "2025-12-13T08:29:46.527672"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-13T05:22:49.623665",
+    "Technology": "2025-12-13T08:30:01.362866",
     "Finance": "2025-12-13T05:22:35.173082",
-    "Ai": "2025-12-12T23:21:23.097617"
+    "Ai": "2025-12-13T08:29:46.527682"
   }
 }

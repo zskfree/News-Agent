@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-13 05:22
+**最后更新时间**: 2025-12-13 08:29
+
+---
+
+## 🆕 最新更新 (2025-12-13 08:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行理财破33万亿，却不再是投资者“稳稳的幸福”](https://www.tmtpost.com/7808171.html)
+**发布时间**: 2025-12-13 15:26
+
+#### [博通这家公司很神奇](https://www.tmtpost.com/7808099.html)
+**发布时间**: 2025-12-13 15:17
+
+#### [股东变客户：“实物分红”背后，是市值甘露还是糖衣炮弹？](https://www.tmtpost.com/7808100.html)
+**发布时间**: 2025-12-13 15:17
+
+#### [“户外潮”危机初现，“平替”正无处不在 | 行业风向标](https://www.tmtpost.com/7808156.html)
+**发布时间**: 2025-12-13 14:08
+
+#### [小红书还是啃不动O2O，上线仅百日的小红卡暂停](https://www.tmtpost.com/7808151.html)
+**发布时间**: 2025-12-13 14:07
+
+#### [郑州，竖起来了](https://www.tmtpost.com/7808102.html)
+**发布时间**: 2025-12-13 14:02
+
+#### [共筑知识产权发展新生态——2025海南国际知识产权交易大会纪实](https://www.tmtpost.com/7808123.html)
+**发布时间**: 2025-12-13 13:54
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 10 个本周 yyds 的 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529565&idx=1&sn=b026ab6c5dfa3ec0d765c60312056aeb)
+**发布时间**: 2025-12-13 15:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Svelte 团队成员开源新框架 Ripple，又一个想“改写前端”的框架？](https://www.infoq.cn/article/84yOUazuZVZydfEZa1Nh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-13 14:38
 
 ---
 

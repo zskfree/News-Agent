@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 23:21:23 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 08:29:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025-12-13日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-13/</link>
-      <description>&lt;![CDATA[2025-12-13日刊]]&gt;</description>
-      <pubDate>Sat, 13 Dec 2025 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-13/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>港大开源ViMax火了，实现AI自编自导自演</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-10</link>
-      <description>&lt;![CDATA[港大开源ViMax火了，实现AI自编自导自演]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-10</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>提示词一响，烂片登场，OpenAI谈下200+迪士尼顶级IP出场费</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-9</link>
-      <description>&lt;![CDATA[提示词一响，烂片登场，OpenAI谈下200+迪士尼顶级IP出场费]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-9</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa</title>
-      <link>https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/</link>
-      <description>&lt;![CDATA[Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Meta「内战」升级：做「神一般的AI」，还是守住「社交帝国」？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-4</link>
-      <description>&lt;![CDATA[Meta「内战」升级：做「神一般的AI」，还是守住「社交帝国」？]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-4</guid>
+      <title>交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/360576.html</link>
+      <description>&lt;![CDATA[交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 04:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360576.html</guid>
       <category>Ai</category>
     </item>
   </channel>
