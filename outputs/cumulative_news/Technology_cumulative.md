@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-13 23:20
+**最后更新时间**: 2025-12-14 05:21
+
+---
+
+## 🆕 最新更新 (2025-12-14 05:21)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [散户不屑一顾的冷门股，竟是A股最大金矿？股票越是冷门，未来越能赚钱？](http://www.huxiu.com/article/4816801.html?f=wangzhan)
+**发布时间**: 2025-12-14 11:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [摩尔线程75亿理财遭口水围攻，一场被放大的“硬科技”价值之争](https://www.tmtpost.com/7808316.html)
+**发布时间**: 2025-12-14 10:55
+
+#### [【数智周报】 OpenAI发布GPT-5.2；摩尔线程：即将发布新一代GPU架构；阿里成立千问C端事业群](https://www.tmtpost.com/7808021.html)
+**发布时间**: 2025-12-14 10:01
+
+#### [高中毕业生带出的千亿存储巨头，拟“补血”37亿](https://www.tmtpost.com/7808288.html)
+**发布时间**: 2025-12-14 09:18
+
+#### [从“一姐”变身“团长”，3000万网红鼻祖，割舍不下直播经济](https://www.tmtpost.com/7808276.html)
+**发布时间**: 2025-12-14 09:18
+
+#### [靠“老头乐”起家的涛涛车业：全球第二，中国第五？](https://www.tmtpost.com/7808305.html)
+**发布时间**: 2025-12-14 09:16
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App Store」](http://www.geekpark.net/news/358007)
+**发布时间**: 2025-12-14 08:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [打造人人都喜爱的支付宝，AI 驱动支付宝细分人群增长｜AICon北京](https://www.infoq.cn/article/8NVadqj2SEvcYZTNDxLP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-14 08:00
+
+#### [用 AI 操作 GUI，飞猪以 GUI Agent 重塑流程自动化与交付效率 ｜AICon 北京](https://www.infoq.cn/article/rV3EQM28W3HNqvrjYM8P?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-14 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透｜iOS 26.2 值得关注的新特性](https://sspai.com/post/104408)
+**发布时间**: 2025-12-13 11:27
 
 ---
 
