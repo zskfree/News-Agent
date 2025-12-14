@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Dec 2025 08:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 08:28:09 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 23:20:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE</title>
-      <link>https://www.qbitai.com/2025/12/360864.html</link>
-      <description>&lt;![CDATA[OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 06:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360864.html</guid>
+      <title>谷歌创始人布林：当年发完Transformer论文，我们太不当回事了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-12</link>
+      <description>&lt;![CDATA[谷歌创始人布林：当年发完Transformer论文，我们太不当回事了]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-12</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-11</link>
+      <description>&lt;![CDATA[1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-11</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>干掉同传？谷歌把AI同传放入所有耳机，顺手发了个颠覆性的AI浏览器</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-9</link>
+      <description>&lt;![CDATA[干掉同传？谷歌把AI同传放入所有耳机，顺手发了个颠覆性的AI浏览器]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 20:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-9</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>8B模型任务击败GPT-5？阶跃星辰开源Deep Think新框架，小模型解锁百万Token测试时计算</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-8</link>
+      <description>&lt;![CDATA[8B模型任务击败GPT-5？阶跃星辰开源Deep Think新框架，小模型解锁百万Token测试时计算]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 20:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-8</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>SIGGRAPH Asia 2025｜30FPS普通相机恢复200FPS细节，4D重建方案来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-10</link>
+      <description>&lt;![CDATA[SIGGRAPH Asia 2025｜30FPS普通相机恢复200FPS细节，4D重建方案来了]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 20:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-10</guid>
       <category>Ai</category>
     </item>
   </channel>

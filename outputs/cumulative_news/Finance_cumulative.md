@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-14 08:27
+**最后更新时间**: 2025-12-14 23:19
+
+---
+
+## 🆕 最新更新 (2025-12-14 23:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Conservative hardliner wins Chile’s presidential election in landslide](https://www.ft.com/content/16d4709c-f0f8-44c6-b1fd-91b4ff6e8279)
+**发布时间**: 2025-12-14 23:16
+
+#### [Gunmen who killed 15 in Sydney attack on Jewish festival were father and son](https://www.ft.com/content/debf26f6-db4a-4913-a4d0-2080f372b17d)
+**发布时间**: 2025-12-14 21:52
+
+#### [Ukraine offers to drop Nato membership demands](https://www.ft.com/content/c98d24a4-0df3-43dd-a008-56feb0266f45)
+**发布时间**: 2025-12-14 21:03
+
+#### [France tries to delay EU-Mercosur trade deal](https://www.ft.com/content/a77bb74e-70c5-40cd-93e5-2f0d99b87aba)
+**发布时间**: 2025-12-14 20:36
+
+#### [How the EU can make the single market work better](https://www.ft.com/content/0ee6b7ae-d782-4483-beb3-b9de8ebc030e)
+**发布时间**: 2025-12-14 19:00
+
+#### [Investors seek protection from risk of AI debt bust](https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f)
+**发布时间**: 2025-12-14 18:00
+
+#### [Brussels is finally flexing its muscle on Russian assets](https://www.ft.com/content/3dc72bb3-df37-4ac2-b167-5599968c29b1)
+**发布时间**: 2025-12-14 16:00
+
+#### [The chutzpah of Marjorie Taylor Greene](https://www.ft.com/content/21341f2a-b9b6-4227-9f42-aa22765d885c)
+**发布时间**: 2025-12-14 13:00
+
+#### [How Warner Bros Discovery’s David Zaslav defied Hollywood — again](https://www.ft.com/content/fa72189a-d2b8-4e83-8ff8-f474d493bcf0)
+**发布时间**: 2025-12-14 11:33
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1](https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-14 22:00
+
+#### [Hassett says Trump would have ‘no weight’ on Fed’s decision-making if he’s chair](https://www.marketwatch.com/story/hassett-says-trump-would-have-no-weight-on-feds-decision-making-if-hes-chair-8cf59cfb?mod=mw_rss_topstories)
+**发布时间**: 2025-12-14 21:54
+
+#### [Stocks risk a stir-up in last trading push of the year. Where to put your money.](https://www.marketwatch.com/story/stocks-risk-a-stir-up-in-last-trading-push-of-the-year-where-to-put-your-money-ec3792d1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-14 20:32
+
+#### [Here’s how to check up on a financial adviser before you invest your money](https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-14 19:16
+
+#### [A squash game saved this famous trader’s life. How prevalent is male breast cancer?](https://www.marketwatch.com/story/a-squash-game-saved-this-famous-traders-life-heres-how-he-learned-he-had-breast-cancer-dea96d84?mod=mw_rss_topstories)
+**发布时间**: 2025-12-14 14:39
 
 ---
 
