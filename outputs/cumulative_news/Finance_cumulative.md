@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-13 23:20
+**最后更新时间**: 2025-12-14 08:27
+
+---
+
+## 🆕 最新更新 (2025-12-14 08:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hedge funds pile into commodities in search of fresh source of returns](https://www.ft.com/content/598c3bfc-008c-438f-837c-f7ec73a993f6)
+**发布时间**: 2025-12-14 05:00
+
+#### [It makes sense to look smart when flying](https://www.ft.com/content/011bea6d-d468-4804-be3e-b5e11789ee2b)
+**发布时间**: 2025-12-14 05:00
+
+#### [How the ‘Brussels effect’ backfired](https://www.ft.com/content/abc3002e-a7be-48e2-8197-aeddf937afec)
+**发布时间**: 2025-12-14 05:00
+
+#### [Swiss dealmaking surges to record highs despite strong franc](https://www.ft.com/content/13bb7aca-b46e-4460-aab7-24d81410bb62)
+**发布时间**: 2025-12-14 05:00
+
+#### [IPO of bubble-era Japan bank seen as trigger for more deals](https://www.ft.com/content/47bdd495-849d-42a6-bf13-8472c992788a)
+**发布时间**: 2025-12-14 05:00
+
+#### [Keir Starmer risks losing ally at top of Britain’s biggest union](https://www.ft.com/content/cfa24458-0afb-481d-a99b-2f14bd69bdcc)
+**发布时间**: 2025-12-14 05:00
+
+#### [VW gears up for first production closure in Germany in its 88-year history](https://www.ft.com/content/d7d0fbc8-2e92-49c5-be38-1412d8392fa9)
+**发布时间**: 2025-12-14 05:00
+
+#### [Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale](https://www.ft.com/content/3e42ec97-7922-4d6c-a5f9-d9f3bb59f917)
+**发布时间**: 2025-12-13 15:14
 
 ---
 

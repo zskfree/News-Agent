@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Dec 2025 05:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 05:21:22 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 08:28:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>为Token付费是一件很愚蠢的事情，用户应该为智能付费丨RockAI刘凡平@MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/360724.html</link>
-      <description>&lt;![CDATA[为Token付费是一件很愚蠢的事情，用户应该为智能付费丨RockAI刘凡平@MEET2026]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 03:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360724.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>太初元碁乔梁：AI算法已经跑到单芯片极限｜MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/360603.html</link>
-      <description>&lt;![CDATA[太初元碁乔梁：AI算法已经跑到单芯片极限｜MEET2026]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 03:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360603.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-3</link>
-      <description>&lt;![CDATA[AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 00:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-2</link>
-      <description>&lt;![CDATA[苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 00:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>告别「盲目自信」，CCD：扩散语言模型推理新SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14</link>
-      <description>&lt;![CDATA[告别「盲目自信」，CCD：扩散语言模型推理新SOTA]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 00:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14</guid>
+      <title>OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE</title>
+      <link>https://www.qbitai.com/2025/12/360864.html</link>
+      <description>&lt;![CDATA[OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 06:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360864.html</guid>
       <category>Ai</category>
     </item>
   </channel>
