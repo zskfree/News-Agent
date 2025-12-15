@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 08:34
+**最后更新时间**: 2025-12-15 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-15 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Broadcom’s worst three-day stock slide since 2020 marks a humbling of sorts](https://www.marketwatch.com/story/broadcoms-worst-three-day-stock-slide-since-2020-marks-a-humbling-of-sorts-608b1960?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 23:12
+
+#### [Why Oracle’s stock — and its bonds — can’t shake off AI spending fears](https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 23:02
+
+#### [You’ve just won the $1.1 billion Powerball jackpot. Here are the 5 money moves you need to make next.](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 22:20
+
+#### [Why Ford is scrapping major EV plans and taking a $19.5 billion hit](https://www.marketwatch.com/story/why-ford-is-scrapping-major-ev-plans-and-taking-a-19-5-billion-hit-4d42e9ef?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 22:19
+
+#### [Trouble persists in a key corner of financial markets — and these assets face the greatest risk](https://www.marketwatch.com/story/trouble-persists-in-a-key-corner-of-financial-markets-and-these-assets-face-the-greatest-risk-badbf845?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 21:52
+
+#### [‘Am I simply the unloved son?’ My mother ghosted me after my father died. Is she stealing his money?](https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 21:30
+
+#### [Wall Street’s lone Nvidia bear is doubling down on his call, with high conviction](https://www.marketwatch.com/story/wall-streets-lone-nvidia-bear-is-doubling-down-on-his-call-with-high-conviction-97569087?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 21:25
+
+#### [Analyst takes ‘contrarian stance’ on Costco’s stock and says it’s time to sell](https://www.marketwatch.com/story/analyst-takes-contrarian-stance-on-costcos-stock-and-says-its-time-to-sell-79cd07e8?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 21:21
+
+#### [Why ServiceNow’s stock just sank to its worst day in 11 months](https://www.marketwatch.com/story/why-servicenows-stock-is-sinking-toward-its-worst-day-in-11-months-7968e353?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 21:17
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Magnum moves to oust chair of Ben & Jerry’s](https://www.ft.com/content/7513da03-ac49-4d2e-9718-2af2b7fd8188)
+**发布时间**: 2025-12-15 22:40
+
+#### [Ford to take $19.5bn hit as US carmaker overhauls EV strategy](https://www.ft.com/content/93e352c0-4fee-49e4-9f0d-a86e4d2aeb47)
+**发布时间**: 2025-12-15 22:36
+
+#### [Steve Cohen wins approval for New York City casino project](https://www.ft.com/content/c79c3955-085f-451c-9b24-8ad24b824afa)
+**发布时间**: 2025-12-15 21:50
+
+#### [Trump says Ukraine deal ‘closer than ever’ after talks in Berlin](https://www.ft.com/content/24b9f90f-ee39-4fde-9efb-559c0cc8596c)
+**发布时间**: 2025-12-15 21:29
+
+#### [Starmer admits questions about his leadership are ‘rife’](https://www.ft.com/content/8dec8f32-3d57-412e-b70b-6cce05ed8ace)
+**发布时间**: 2025-12-15 17:32
+
+#### [Rob Reiner’s son Nick arrested after deaths of filmmaker and wife](https://www.ft.com/content/cf9e481e-a316-4b97-a454-044b2cae6716)
+**发布时间**: 2025-12-15 16:56
+
+#### [Bondi attacks show old hatreds are flourishing again](https://www.ft.com/content/4209b12c-08da-4f2d-9a09-07b5efa6b218)
+**发布时间**: 2025-12-15 16:38
+
+#### [Low growth is now Europe’s biggest financial-stability risk](https://www.ft.com/content/feaeec5a-787d-4b4c-a837-e5e1e1583e8c)
+**发布时间**: 2025-12-15 16:13
+
+#### [Doctors to go ahead with pre-Christmas strikes in England](https://www.ft.com/content/530751f7-ae9c-4b6d-9573-88edb7019c0c)
+**发布时间**: 2025-12-15 16:00
+
+#### [Brussels plans to scrap 2035 combustion engine ban](https://www.ft.com/content/0e16b6ea-bf46-4ea6-820e-244b7a5bae1d)
+**发布时间**: 2025-12-15 15:56
 
 ---
 

@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 08:34
+**最后更新时间**: 2025-12-15 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-15 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】持续讲好“股市叙事”！证监会最新发声；中国首批L3级自动驾驶车型产品获得准入许可；沐曦股份上市在即，壁仞科技港股IPO获备案](https://www.tmtpost.com/7809609.html)
+**发布时间**: 2025-12-16 07:20
+
+#### [60.45亿！半导体显示巨头再度加仓深圳华星半导体；影视龙头拟“蛇吞象”停牌收购众联世纪；【并购一线】](https://www.tmtpost.com/7809688.html)
+**发布时间**: 2025-12-15 23:26
+
+#### [尚水智能：股东比亚迪身兼大客户，信息披露缺失引关注｜IPO观察](https://www.tmtpost.com/7809116.html)
+**发布时间**: 2025-12-15 22:46
+
+#### [2025，消费行业的5个切面](https://www.tmtpost.com/7808996.html)
+**发布时间**: 2025-12-15 19:30
+
+#### [美团暂停「团好货」业务，外卖员揽不动快递的活？](https://www.tmtpost.com/7809452.html)
+**发布时间**: 2025-12-15 19:30
+
+#### [营收同比暴增4225.65%背后，这一“抗衰利器”正在走下神坛](https://www.tmtpost.com/7808998.html)
+**发布时间**: 2025-12-15 19:30
+
+#### [临近年关，机器人行业展望2026年](https://www.tmtpost.com/7809304.html)
+**发布时间**: 2025-12-15 19:30
+
+#### [新能源车商业模式将巨变，硬件亏本软件赚钱？](https://www.tmtpost.com/7809434.html)
+**发布时间**: 2025-12-15 19:30
+
+#### [朴朴打响IPO“守擂战”](https://www.tmtpost.com/7809464.html)
+**发布时间**: 2025-12-15 19:30
+
+#### [光伏协会，为何要亲自下场参股产能收储？](https://www.tmtpost.com/7809143.html)
+**发布时间**: 2025-12-15 18:52
+
+#### [茅台失去的十年](https://www.tmtpost.com/7808904.html)
+**发布时间**: 2025-12-15 18:52
+
+#### [1.5万亿美元IPO要改写历史？SpaceX的太空帝国来了](https://www.tmtpost.com/7809054.html)
+**发布时间**: 2025-12-15 18:52
+
+#### [站点巴士热潮背后  传统客运业的“互联网+”突围战](https://www.tmtpost.com/7808939.html)
+**发布时间**: 2025-12-15 18:52
+
+#### [一部电影八个演员title，内娱的番位造词还能更离谱吗？](https://www.tmtpost.com/7808966.html)
+**发布时间**: 2025-12-15 18:52
+
+#### [我为什么旗帜鲜明地支持豆包手机](https://www.tmtpost.com/7808942.html)
+**发布时间**: 2025-12-15 18:52
+
+#### [豪掷11亿欧元抄底尤文图斯，币圈大佬的体育图谋](https://www.tmtpost.com/7809470.html)
+**发布时间**: 2025-12-15 18:42
+
+#### [AI御三家年终“火拼”](https://www.tmtpost.com/7808918.html)
+**发布时间**: 2025-12-15 18:01
+
+#### [收好！2025 T-EDGE全球对话直播日历发布，一波传奇大佬来了](https://www.tmtpost.com/7808661.html)
+**发布时间**: 2025-12-15 17:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepSeek倒逼vLLM升级！芯片内卷、MoE横扫千模，vLLM核心维护者独家回应：如何凭PyTorch坐稳推理“铁王座”](https://www.infoq.cn/article/1NwypKUl6SfJ68ZC71bJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 07:00
+
+#### [AI 的“脑回路”终于能看见了？OpenAI发布稀疏模型，让推理透明化](https://www.infoq.cn/article/a1dvecFKFYmHXk58XAOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 20:24
+
+#### [2025中国企业AI办公数字化白皮书](https://www.infoq.cn/minibook/EagiruJqgPdUSEuXKJNi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 20:03
+
+#### [又一数据分析智能体重磅开源，现已登顶BIRD！非专业人员也能轻松查阅和分析数据](https://www.infoq.cn/article/KNVHhmLmEpNP5UYzcNEN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 17:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/104614)
+**发布时间**: 2025-12-15 17:56
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [极客公园：一直寻找那个与众不同的「Why」](http://www.geekpark.net/news/358052)
+**发布时间**: 2025-12-15 17:43
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一口气看懂“铜矿之战”](http://www.huxiu.com/article/4816854.html?f=wangzhan)
+**发布时间**: 2025-12-15 16:30
 
 ---
 
