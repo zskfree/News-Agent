@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Dec 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 23:20:15 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 05:27:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌创始人布林：当年发完Transformer论文，我们太不当回事了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-12</link>
-      <description>&lt;![CDATA[谷歌创始人布林：当年发完Transformer论文，我们太不当回事了]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 21:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-12</guid>
+      <title>AAAI 2026 | 革新电影配音工业流程：AI首次学会「导演-演员」配音协作模式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-15-2</link>
+      <description>&lt;![CDATA[AAAI 2026 | 革新电影配音工业流程：AI首次学会「导演-演员」配音协作模式]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-11</link>
-      <description>&lt;![CDATA[1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-11</guid>
+      <title>RL是「点金石」还是「挖掘机」？CMU 用可控实验给出答案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-15</link>
+      <description>&lt;![CDATA[RL是「点金石」还是「挖掘机」？CMU 用可控实验给出答案]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>干掉同传？谷歌把AI同传放入所有耳机，顺手发了个颠覆性的AI浏览器</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-9</link>
-      <description>&lt;![CDATA[干掉同传？谷歌把AI同传放入所有耳机，顺手发了个颠覆性的AI浏览器]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 20:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-9</guid>
+      <title>当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-15-3</link>
+      <description>&lt;![CDATA[当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>8B模型任务击败GPT-5？阶跃星辰开源Deep Think新框架，小模型解锁百万Token测试时计算</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-8</link>
-      <description>&lt;![CDATA[8B模型任务击败GPT-5？阶跃星辰开源Deep Think新框架，小模型解锁百万Token测试时计算]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 20:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-8</guid>
+      <title>苏州大学首篇数学四大刊！解决了40年未决的丢番图逼近问题</title>
+      <link>https://www.qbitai.com/2025/12/360948.html</link>
+      <description>&lt;![CDATA[苏州大学首篇数学四大刊！解决了40年未决的丢番图逼近问题]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 04:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360948.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SIGGRAPH Asia 2025｜30FPS普通相机恢复200FPS细节，4D重建方案来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-14-10</link>
-      <description>&lt;![CDATA[SIGGRAPH Asia 2025｜30FPS普通相机恢复200FPS细节，4D重建方案来了]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-10</guid>
+      <title>万人齐聚首钢园｜第二十届中国IDC产业年度大典盛大召开！</title>
+      <link>https://www.qbitai.com/2025/12/360894.html</link>
+      <description>&lt;![CDATA[万人齐聚首钢园｜第二十届中国IDC产业年度大典盛大召开！]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 02:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360894.html</guid>
       <category>Ai</category>
     </item>
   </channel>

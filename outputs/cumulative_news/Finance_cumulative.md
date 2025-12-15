@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-14 23:19
+**最后更新时间**: 2025-12-15 05:27
+
+---
+
+## 🆕 最新更新 (2025-12-15 05:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)
+**发布时间**: 2025-12-15 05:00
+
+#### [Why the ‘stablecoin supercycle’ could rewire banking](https://www.ft.com/content/29b419dc-34ec-4411-ac7e-ed8c37a43212)
+**发布时间**: 2025-12-15 05:00
+
+#### [The four ‘O’s that shape a bubble](https://www.ft.com/content/ff72f64b-fc58-4f11-9b75-e30f99031936)
+**发布时间**: 2025-12-15 05:00
+
+#### [Trump assault opens EU rift as leaders split on US strategy](https://www.ft.com/content/294c24e6-0647-4ebb-ab08-278061e8fe19)
+**发布时间**: 2025-12-15 05:00
+
+#### [Australia to review gun laws after 15 die in attack on Jewish festival](https://www.ft.com/content/c422b9f4-3286-446e-802c-9c75e38d88dd)
+**发布时间**: 2025-12-15 04:58
+
+#### [Hong Kong convicts Jimmy Lai in national security trial](https://www.ft.com/content/0aecbfaf-80b8-43c3-bcf0-de6cbffdbf24)
+**发布时间**: 2025-12-15 04:13
+
+#### [Russia is ‘exporting chaos’, new head of Britain’s spy agency MI6 warns](https://www.ft.com/content/5cbedc56-b29a-4284-901b-aef5f6853135)
+**发布时间**: 2025-12-15 00:01
+
+#### [UK property asking prices down £2,000 from a year ago](https://www.ft.com/content/aee1bd24-c079-4d5d-b0f7-b8176fe70bf4)
+**发布时间**: 2025-12-15 00:01
+
+#### [UK plans curb on freeholders blocking broadband cabling in flats](https://www.ft.com/content/609f6fce-f89e-4aba-8274-d84a5630e675)
+**发布时间**: 2025-12-15 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise ahead of year’s last full week of trading](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 03:54
+
+#### [Roomba maker iRobot files for bankruptcy, will go private](https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories)
+**发布时间**: 2025-12-15 01:21
 
 ---
 
