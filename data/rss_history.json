@@ -8636,6 +8636,36 @@
         "link": "https://www.infoq.cn/article/cCioUmss2jYJXhtAztp8?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 15 Dec 2025 09:36:00 GMT",
         "first_seen": "2025-12-15T05:28:09.933231"
+      },
+      "45452258304aceb2a037daa4daf9e6a5789dca4c2429f1c44dc90487a8b59ee0": {
+        "title": "CPU，为何“偷偷转型”？",
+        "link": "https://www.tmtpost.com/7808815.html",
+        "published_date": "Mon, 15 Dec 2025 15:16:00 GMT",
+        "first_seen": "2025-12-15T08:35:39.899014"
+      },
+      "eaa4b0fc94466de1288135cacfe08eb4876f8e5a67963fcce47f8a368b1bd842": {
+        "title": "电力“吞金兽”AIDC来袭，打响储能系统重构之战",
+        "link": "https://www.tmtpost.com/7808388.html",
+        "published_date": "Mon, 15 Dec 2025 16:17:00 GMT",
+        "first_seen": "2025-12-15T08:35:39.899021"
+      },
+      "e9850c66eb6ba6d86d19663be0f0f8484f5ee47de4ca79eac9751690eef63e3d": {
+        "title": "具身智能的共识与非共识：地平线携手生态伙伴共话产业未来",
+        "link": "http://www.geekpark.net/news/358003",
+        "published_date": "Mon, 15 Dec 2025 11:01:00 GMT",
+        "first_seen": "2025-12-15T08:35:39.899023"
+      },
+      "b8e634037086cfc2e8104336a167fbdbaf8fea234b676851bb947e8811024ef8": {
+        "title": "tRPC-Agent：腾讯多智能体框架的架构设计与业务实践 ｜AICon 北京",
+        "link": "https://www.infoq.cn/article/dchtAVelmgDT52BORFhc?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Dec 2025 12:03:00 GMT",
+        "first_seen": "2025-12-15T08:35:39.899025"
+      },
+      "646350545aa40d0d37298cb3fd5565147bdce976583a1314c4dc42634c87ec64": {
+        "title": "Chinese Smartphone Maker Transsion Targets Africa Growth With $1 Billion IPO",
+        "link": "https://www.tmtpost.com/7808999.html",
+        "published_date": "Mon, 15 Dec 2025 13:56:00 GMT",
+        "first_seen": "2025-12-15T08:35:39.899027"
       }
     },
     "Finance": {
@@ -11580,13 +11610,43 @@
         "link": "https://www.qbitai.com/2025/12/360894.html",
         "published_date": "Mon, 15 Dec 2025 02:11:00 GMT",
         "first_seen": "2025-12-15T05:27:46.678697"
+      },
+      "a1e58afc2797ecd8ec5dc8b4f746f8c5069f78cd9f99e031247e0ec1943f39c5": {
+        "title": "Veo何止生成视频：DeepMind正在用它模拟整个机器人世界",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-15-8",
+        "published_date": "Mon, 15 Dec 2025 16:25:00 GMT",
+        "first_seen": "2025-12-15T08:35:12.108821"
+      },
+      "d0549dedeadea49f362f34c0ba25147bcc53ebbdae67ef57b9e091e922de043f": {
+        "title": "EMNLP 2025 | 视频理解Token压缩新范式，减少70.8%推理延迟！",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-15-6",
+        "published_date": "Mon, 15 Dec 2025 15:33:00 GMT",
+        "first_seen": "2025-12-15T08:35:12.108831"
+      },
+      "9f26a803d7d02e4ef298e0aca90f6da3938966da94b0d3ba7d0f761d1d0f6e82": {
+        "title": "商汤日日新Seko系列模型与寒武纪成功适配，国产算力&多模态AI实现关键跨越",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-15-5",
+        "published_date": "Mon, 15 Dec 2025 14:55:00 GMT",
+        "first_seen": "2025-12-15T08:35:12.108834"
+      },
+      "cf7a5ed3385f5973540a491506249a7716313fd771fef42c00639fbaf855d55f": {
+        "title": "何恺明组三位本科生领衔！持续聚焦Flow模型，突破归一化流生成效率瓶颈",
+        "link": "https://www.qbitai.com/2025/12/361018.html",
+        "published_date": "Mon, 15 Dec 2025 07:28:00 GMT",
+        "first_seen": "2025-12-15T08:35:12.108836"
+      },
+      "cab36ba1ba642504223da48e0a20e482fd7cba70ccf996d1faad5ef97130787f": {
+        "title": "马斯克猛猛带货太空数据中心！“能耗比地球香太多”",
+        "link": "https://www.qbitai.com/2025/12/361008.html",
+        "published_date": "Mon, 15 Dec 2025 06:22:00 GMT",
+        "first_seen": "2025-12-15T08:35:12.108837"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-15T05:28:09.933233",
+    "Technology": "2025-12-15T08:35:39.899030",
     "Finance": "2025-12-15T05:27:36.713677",
-    "Ai": "2025-12-15T05:27:46.678700"
+    "Ai": "2025-12-15T08:35:12.108839"
   }
 }

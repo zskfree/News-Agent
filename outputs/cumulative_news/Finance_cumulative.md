@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 05:27
+**最后更新时间**: 2025-12-15 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-15 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bank of England set to cut rates to 3.75% as economic data eases inflation concerns](https://www.ft.com/content/4984194c-d1a6-43cf-9b7f-909943771b40)
+**发布时间**: 2025-12-15 05:00
 
 ---
 

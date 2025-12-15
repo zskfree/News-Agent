@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Dec 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 05:27:46 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 08:34:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 08:35:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AAAI 2026 | 革新电影配音工业流程：AI首次学会「导演-演员」配音协作模式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15-2</link>
-      <description>&lt;![CDATA[AAAI 2026 | 革新电影配音工业流程：AI首次学会「导演-演员」配音协作模式]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-2</guid>
+      <title>Veo何止生成视频：DeepMind正在用它模拟整个机器人世界</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-15-8</link>
+      <description>&lt;![CDATA[Veo何止生成视频：DeepMind正在用它模拟整个机器人世界]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RL是「点金石」还是「挖掘机」？CMU 用可控实验给出答案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15</link>
-      <description>&lt;![CDATA[RL是「点金石」还是「挖掘机」？CMU 用可控实验给出答案]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15</guid>
+      <title>EMNLP 2025 | 视频理解Token压缩新范式，减少70.8%推理延迟！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-15-6</link>
+      <description>&lt;![CDATA[EMNLP 2025 | 视频理解Token压缩新范式，减少70.8%推理延迟！]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15-3</link>
-      <description>&lt;![CDATA[当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-3</guid>
+      <title>商汤日日新Seko系列模型与寒武纪成功适配，国产算力&amp;多模态AI实现关键跨越</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-15-5</link>
+      <description>&lt;![CDATA[商汤日日新Seko系列模型与寒武纪成功适配，国产算力&amp;多模态AI实现关键跨越]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>苏州大学首篇数学四大刊！解决了40年未决的丢番图逼近问题</title>
-      <link>https://www.qbitai.com/2025/12/360948.html</link>
-      <description>&lt;![CDATA[苏州大学首篇数学四大刊！解决了40年未决的丢番图逼近问题]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 04:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360948.html</guid>
+      <title>何恺明组三位本科生领衔！持续聚焦Flow模型，突破归一化流生成效率瓶颈</title>
+      <link>https://www.qbitai.com/2025/12/361018.html</link>
+      <description>&lt;![CDATA[何恺明组三位本科生领衔！持续聚焦Flow模型，突破归一化流生成效率瓶颈]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 07:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361018.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>万人齐聚首钢园｜第二十届中国IDC产业年度大典盛大召开！</title>
-      <link>https://www.qbitai.com/2025/12/360894.html</link>
-      <description>&lt;![CDATA[万人齐聚首钢园｜第二十届中国IDC产业年度大典盛大召开！]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 02:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360894.html</guid>
+      <title>马斯克猛猛带货太空数据中心！“能耗比地球香太多”</title>
+      <link>https://www.qbitai.com/2025/12/361008.html</link>
+      <description>&lt;![CDATA[马斯克猛猛带货太空数据中心！“能耗比地球香太多”]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 06:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361008.html</guid>
       <category>Ai</category>
     </item>
   </channel>
