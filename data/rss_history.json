@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "0fca60589f4ea127d6a94e643e5c6aab5434fe464b7ee66d92ca80ba009e3471": {
-        "title": "短视频刷多了AI也会变蠢！“年度最令人不安的论文”",
-        "link": "https://www.qbitai.com/2025/11/353155.html",
-        "published_date": "Sun, 16 Nov 2025 05:38:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.253855"
-      },
       "34954833d34043a69dd2bac249b2911d9531b2d7bc52dfed9d2060b5d012078b": {
         "title": "奇瑞发布「安徽版享界S9」，世界模型加持，携手Momenta挑战云南山路68弯",
         "link": "https://www.qbitai.com/2025/11/353316.html",
@@ -1143,42 +1137,6 @@
       }
     },
     "Technology": {
-      "5e18353a921bc6f8e7f873e6766dc61b9fc6bb483f31d03b852718509c6eb139": {
-        "title": "自财报发布以来，PayPal股价已下跌14%",
-        "link": "https://www.tmtpost.com/7766643.html",
-        "published_date": "Sun, 16 Nov 2025 16:04:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.310121"
-      },
-      "165cbb0ef7a63e92b84ff69335f2f17f074ddc6eb1ba0afdc30cb8b672793c79": {
-        "title": "陈天桥的AI布局再下一子，推出最强AI长记忆操作系统",
-        "link": "https://www.tmtpost.com/7766630.html",
-        "published_date": "Sun, 16 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.310264"
-      },
-      "16a31ff8dae63f6cf57497cd26098ca3cfd703f138129fa40312b892bf7938fa": {
-        "title": "站在30万辆的山脚下，岚图还要面对更陡峭的挑战",
-        "link": "https://www.tmtpost.com/7766588.html",
-        "published_date": "Sun, 16 Nov 2025 14:33:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.310401"
-      },
-      "c92d20a0829e8375da0b6e4303bbac2260c98130145d1999abbd8c8dbff0e040": {
-        "title": "2025全球互联网人才卓越计划研修班：AI治理拐点上的全球人才对话 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7766579.html",
-        "published_date": "Sun, 16 Nov 2025 14:10:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.310602"
-      },
-      "20f082759c0ec08e09aa7fc3207bca0aa6715f5bb4fc6c0ff06d80226c83e9f8": {
-        "title": "7只可能受益于特朗普关税回撤的股票",
-        "link": "https://www.tmtpost.com/7766432.html",
-        "published_date": "Sun, 16 Nov 2025 09:29:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.310764"
-      },
-      "111e32bf319286ef332cc933fa95ea6087acbf47870272e5df2f6150aecd7068": {
-        "title": "安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍",
-        "link": "http://www.geekpark.net/news/356458",
-        "published_date": "Sun, 16 Nov 2025 15:22:00 GMT",
-        "first_seen": "2025-11-16T08:26:01.311028"
-      },
       "b13e87278556fafca98ad785275eb13a7b5d24d1b45718191f915d37164ea791": {
         "title": "Kiro开放公测：AI编程谁都会，能帮你上线才叫AI IDE",
         "link": "https://www.infoq.cn/article/ZrKCUsTy6AD4ikHeoCvp?utm_source=rss&utm_medium=article",
@@ -8576,6 +8534,36 @@
         "link": "https://www.tmtpost.com/7810243.html",
         "published_date": "Tue, 16 Dec 2025 11:56:00 GMT",
         "first_seen": "2025-12-16T05:25:31.700047"
+      },
+      "7353f6e4e0d388aeb84307a34d278dfb2df94f6a8b1937b2bd7e763a08132c43": {
+        "title": "启明创投领投，眼科创新药研发企业欧科健完成3000万美元B轮融资 | 融资速递",
+        "link": "https://www.tmtpost.com/7810376.html",
+        "published_date": "Tue, 16 Dec 2025 15:01:00 GMT",
+        "first_seen": "2025-12-16T08:39:21.985960"
+      },
+      "5b874543726bd2f12940bf4ee9a394e31f99c8208b2d360210524dc055696418": {
+        "title": "亚马逊云科技发布持久化函数，支持在Lambda代码中实现有状态逻辑",
+        "link": "https://www.infoq.cn/article/S6tXGvHrScFKPGt50OEB?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 16 Dec 2025 10:50:00 GMT",
+        "first_seen": "2025-12-16T08:39:21.985968"
+      },
+      "83595bf177a1f0b84f36590fb37841ded6e08ecc6e4092d58aaf8de0411bc22d": {
+        "title": "从咖啡因龙头一跃成为创新药新锐，石药创新如何成功转型？",
+        "link": "https://www.tmtpost.com/7810483.html",
+        "published_date": "Tue, 16 Dec 2025 15:49:00 GMT",
+        "first_seen": "2025-12-16T08:39:21.985970"
+      },
+      "b09c65a2f0a9c00d452be04c4f4d2b37997045194b25c3906a037350b09bb20f": {
+        "title": "TPU 订单狂增，谷歌扩产新一代芯片！谷歌首席科学家：我们使用10多年了，一直非常满意",
+        "link": "https://www.infoq.cn/article/ur4SXTRC07GVAFv2ifRJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 16 Dec 2025 15:34:00 GMT",
+        "first_seen": "2025-12-16T08:39:21.985973"
+      },
+      "3fec6af4898aa69a01da4b31cf3eaaf5210abec29338adc2aa12dad8077b5bbb": {
+        "title": "Grab为其平台新增实时数据质量监控功能",
+        "link": "https://www.infoq.cn/article/0Gsi1oP2oM9Pj78KePl3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 16 Dec 2025 13:41:00 GMT",
+        "first_seen": "2025-12-16T08:39:21.985975"
       }
     },
     "Finance": {
@@ -10114,6 +10102,12 @@
         "link": "https://www.ft.com/content/5aa2f310-d023-441d-97e4-a23ba6ad0874",
         "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-16T05:24:51.605222"
+      },
+      "ece670250ec33f1ecea6b8e8267b7eaa1c2e7515957906344b2749933561060d": {
+        "title": "UK unemployment rate rises to 5.1%",
+        "link": "https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9",
+        "published_date": "Tue, 16 Dec 2025 08:16:00 GMT",
+        "first_seen": "2025-12-16T08:37:33.994257"
       }
     },
     "Ai": {
@@ -11670,13 +11664,43 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-16-2",
         "published_date": "Tue, 16 Dec 2025 10:51:00 GMT",
         "first_seen": "2025-12-16T05:25:03.959572"
+      },
+      "c4e478b6ea32eab631c83f50ca1c31bc512f7790e83b6d9b9de0f997c9d5d585": {
+        "title": "无预训练模型拿下ARC-AGI榜三！Mamba作者用压缩原理挑战Scaling Law",
+        "link": "https://www.qbitai.com/2025/12/361125.html",
+        "published_date": "Tue, 16 Dec 2025 06:59:00 GMT",
+        "first_seen": "2025-12-16T08:38:27.760069"
+      },
+      "34f488a7cc04bfac809535181e12f1cb921ce67fed210b085b3b5f5f6961089d": {
+        "title": "阿里妈妈发布MUSE：用多模态搞定十万级超长行为序列，并开源Taobao-MM数据集",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-6",
+        "published_date": "Tue, 16 Dec 2025 13:26:00 GMT",
+        "first_seen": "2025-12-16T08:38:27.760077"
+      },
+      "a2f40c40964cd94b1609f5377def96fdf8c9253c4012a35d78036620fcc49024": {
+        "title": "Dexmal原力灵机提出ManiAgent，用多智能体协作重构机器人操控",
+        "link": "https://www.qbitai.com/2025/12/361202.html",
+        "published_date": "Tue, 16 Dec 2025 07:13:00 GMT",
+        "first_seen": "2025-12-16T08:38:27.760079"
+      },
+      "deb5167542883fd76d3de6283217dfcf6f145d4b8a7b5afa309534999926a26a": {
+        "title": "推特吵架吵出篇论文！谢赛宁团队新作iREPA只要3行代码",
+        "link": "https://www.qbitai.com/2025/12/361139.html",
+        "published_date": "Tue, 16 Dec 2025 07:03:00 GMT",
+        "first_seen": "2025-12-16T08:38:27.760081"
+      },
+      "e466bbfc829e087007e6885c0cee7da2c0923adf0205edcdd6327b3de774ba38": {
+        "title": "AI终点不是算法，而是业务成果 | 云徙科技@MEET2026",
+        "link": "https://www.qbitai.com/2025/12/361100.html",
+        "published_date": "Tue, 16 Dec 2025 06:37:00 GMT",
+        "first_seen": "2025-12-16T08:38:27.760082"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-16T05:25:31.700048",
-    "Finance": "2025-12-16T05:24:51.605224",
-    "Ai": "2025-12-16T05:25:03.959575"
+    "Technology": "2025-12-16T08:39:21.985977",
+    "Finance": "2025-12-16T08:37:33.994266",
+    "Ai": "2025-12-16T08:38:27.760084"
   }
 }

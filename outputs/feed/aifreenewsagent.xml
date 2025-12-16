@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Dec 2025 05:25:03 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 08:38:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-4</link>
-      <description>&lt;![CDATA[56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-4</guid>
+      <title>无预训练模型拿下ARC-AGI榜三！Mamba作者用压缩原理挑战Scaling Law</title>
+      <link>https://www.qbitai.com/2025/12/361125.html</link>
+      <description>&lt;![CDATA[无预训练模型拿下ARC-AGI榜三！Mamba作者用压缩原理挑战Scaling Law]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 06:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361125.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让扩散模型「可解释」不再降质，开启图片编辑新思路</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16</link>
-      <description>&lt;![CDATA[让扩散模型「可解释」不再降质，开启图片编辑新思路]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16</guid>
+      <title>阿里妈妈发布MUSE：用多模态搞定十万级超长行为序列，并开源Taobao-MM数据集</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-16-6</link>
+      <description>&lt;![CDATA[阿里妈妈发布MUSE：用多模态搞定十万级超长行为序列，并开源Taobao-MM数据集]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-3</link>
-      <description>&lt;![CDATA[仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-3</guid>
+      <title>Dexmal原力灵机提出ManiAgent，用多智能体协作重构机器人操控</title>
+      <link>https://www.qbitai.com/2025/12/361202.html</link>
+      <description>&lt;![CDATA[Dexmal原力灵机提出ManiAgent，用多智能体协作重构机器人操控]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361202.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-5</link>
-      <description>&lt;![CDATA[临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-5</guid>
+      <title>推特吵架吵出篇论文！谢赛宁团队新作iREPA只要3行代码</title>
+      <link>https://www.qbitai.com/2025/12/361139.html</link>
+      <description>&lt;![CDATA[推特吵架吵出篇论文！谢赛宁团队新作iREPA只要3行代码]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 07:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361139.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-2</link>
-      <description>&lt;![CDATA[告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-2</guid>
+      <title>AI终点不是算法，而是业务成果 | 云徙科技@MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/361100.html</link>
+      <description>&lt;![CDATA[AI终点不是算法，而是业务成果 | 云徙科技@MEET2026]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 06:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361100.html</guid>
       <category>Ai</category>
     </item>
   </channel>
