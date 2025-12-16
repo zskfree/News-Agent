@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "34954833d34043a69dd2bac249b2911d9531b2d7bc52dfed9d2060b5d012078b": {
-        "title": "奇瑞发布「安徽版享界S9」，世界模型加持，携手Momenta挑战云南山路68弯",
-        "link": "https://www.qbitai.com/2025/11/353316.html",
-        "published_date": "Sun, 16 Nov 2025 13:16:00 GMT",
-        "first_seen": "2025-11-16T23:19:02.351861"
-      },
-      "0908edde046da3d56e46dea8f10d1ffed17ef02d56948d868d50c2d6411952d0": {
-        "title": "52个人用AI做PPT，年赚7个亿",
-        "link": "https://www.qbitai.com/2025/11/353297.html",
-        "published_date": "Sun, 16 Nov 2025 10:31:00 GMT",
-        "first_seen": "2025-11-16T23:19:02.352017"
-      },
       "250399acc55a5c39084599e91fb654ef9bba28f8758284f20432586a00f2f8f3": {
         "title": "雷军罕见硬刚回应！同日公关负责人被曝调整",
         "link": "https://www.qbitai.com/2025/11/353469.html",
@@ -1137,84 +1125,6 @@
       }
     },
     "Technology": {
-      "b13e87278556fafca98ad785275eb13a7b5d24d1b45718191f915d37164ea791": {
-        "title": "Kiro开放公测：AI编程谁都会，能帮你上线才叫AI IDE",
-        "link": "https://www.infoq.cn/article/ZrKCUsTy6AD4ikHeoCvp?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 17 Nov 2025 00:09:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.718971"
-      },
-      "4d43527bbd2cc529cb11f838ae6200e17637bdd5c75921321a9f9877ca343206": {
-        "title": "全新AI开发工具Kiro首次亮相AdventureX 2025！",
-        "link": "https://www.infoq.cn/article/zEAv8d1YTAl6ieFSbcWb?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 17 Nov 2025 00:09:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.718985"
-      },
-      "9e86b95aae0257eab8e9dcc4d3f79cb19e1cca9874d6371769880f97c66ae9a1": {
-        "title": "OPPO高级算法工程师杨俊确认出席AICon北京站，分享小布智能助手的个性化深度研究实践",
-        "link": "https://www.infoq.cn/article/BZG3kiu86dtZUrIOPmvS?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 16 Nov 2025 19:28:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.718997"
-      },
-      "70aa7c0dee13e21acb7630ae24bcafff685fa0ecce859684ed5ef7390058b697": {
-        "title": "被曲解的雷军：“安全至上”与“好看第一”并不冲突",
-        "link": "http://www.huxiu.com/article/4805875.html?f=wangzhan",
-        "published_date": "Sun, 16 Nov 2025 20:26:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.719010"
-      },
-      "8b3c27739679352929c302221dcd7948e357d1a7b92e3dcbaf5c6844f04a19a6": {
-        "title": "双十一急需增长：蒋凡有野心，淘天有压力",
-        "link": "https://www.tmtpost.com/7766667.html",
-        "published_date": "Sun, 16 Nov 2025 19:08:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.719021"
-      },
-      "69fdfac8413056541fb285684ee7a8ddb04c6cd8b87b77bfeb0bc6935bf992ad": {
-        "title": "研发费用率超30%，中微公司还能再进一步吗",
-        "link": "https://www.tmtpost.com/7766710.html",
-        "published_date": "Sun, 16 Nov 2025 17:43:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.718943"
-      },
-      "0b7a7aa648a197993bec71df4d3cef4fc9b115fbd65c46659c8bddfb3b312727": {
-        "title": "隆基绿能，最近憋了哪些大招？",
-        "link": "https://www.tmtpost.com/7766602.html",
-        "published_date": "Sun, 16 Nov 2025 17:35:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.719030"
-      },
-      "a923004e5100e47cbe28c8122b32dd43bc721474a535a31d45fdb4f67aa39402": {
-        "title": "禾赛机器人救场，但还不够？",
-        "link": "https://www.tmtpost.com/7766489.html",
-        "published_date": "Sun, 16 Nov 2025 17:35:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.719039"
-      },
-      "a9f292846aa1f30d1087dbb6c8a2f9394c0026ed397521c5a9070a6d8ced4518": {
-        "title": "AR四小龙，「危」机交织进行时",
-        "link": "https://www.tmtpost.com/7766498.html",
-        "published_date": "Sun, 16 Nov 2025 17:34:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.719048"
-      },
-      "577344b09b574f04a21cf9e4621760e46e3ee4d8fff08cad7789b8a6f68993a6": {
-        "title": "从谷歌到寒武纪，挑战英伟达的两种路径",
-        "link": "https://www.tmtpost.com/7766542.html",
-        "published_date": "Sun, 16 Nov 2025 17:34:00 GMT",
-        "first_seen": "2025-11-16T23:19:50.719057"
-      },
-      "273e156968e32208655482af71ad6928b426d52c974fd37a338b41f02d1e0d71": {
-        "title": "做空英伟达的华尔街大空头，基金清盘了",
-        "link": "https://www.tmtpost.com/7766592.html",
-        "published_date": "Sun, 16 Nov 2025 17:22:00 GMT",
-        "first_seen": "2025-11-16T23:19:02.431074"
-      },
-      "b5381d9950060f7f507542aee6037c46b96b3daac6b52e80f9c904e6c5ac822d": {
-        "title": "解密AI“黄埔军校”，10人撑起700亿美元估值",
-        "link": "https://www.tmtpost.com/7766650.html",
-        "published_date": "Sun, 16 Nov 2025 17:22:00 GMT",
-        "first_seen": "2025-11-16T23:19:02.431556"
-      },
-      "dba99c368c1e20807ab4127839fd6ea09b077c659b774b4cd497253276958478": {
-        "title": "一日一技｜AI + Notion：省时省心的小红书收藏夹整理归类",
-        "link": "https://sspai.com/post/103756",
-        "published_date": "Sun, 16 Nov 2025 16:03:00 GMT",
-        "first_seen": "2025-11-16T23:19:02.432168"
-      },
       "d8305c89518d387bb66ccbe1e1be555c97259548e1b9666b7bbf220462400a40": {
         "title": "为什么中国女装出海需要新的样本？",
         "link": "https://www.tmtpost.com/7767657.html",
@@ -8564,6 +8474,36 @@
         "link": "https://www.infoq.cn/article/0Gsi1oP2oM9Pj78KePl3?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 16 Dec 2025 13:41:00 GMT",
         "first_seen": "2025-12-16T08:39:21.985975"
+      },
+      "b7272ddd5a2d3d8bf4b7b7c7dcd6f7418efc5fc4c0dd1c335013643275ce203a": {
+        "title": "马来西亚打造首个免税能源港；Ozon黑五中国商品订单量飙升5倍；2026年墨西哥电商平台预扣税最高达36%｜一周出海参考",
+        "link": "https://www.tmtpost.com/7809372.html",
+        "published_date": "Tue, 16 Dec 2025 11:25:00 GMT",
+        "first_seen": "2025-12-16T23:22:49.075288"
+      },
+      "23014dd5e75acd145671a242176daece70ab7a431af0581e5068a56d7b43e636": {
+        "title": "群核科技，摸着李飞飞过河",
+        "link": "http://www.geekpark.net/news/358069",
+        "published_date": "Tue, 16 Dec 2025 11:07:00 GMT",
+        "first_seen": "2025-12-16T23:22:49.075297"
+      },
+      "0f8ccdfcf501f31e39fdeb9c8d89d9b0589f1c9e44a90059ea92070133d763de": {
+        "title": "马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验",
+        "link": "http://www.geekpark.net/news/358055",
+        "published_date": "Tue, 16 Dec 2025 08:45:00 GMT",
+        "first_seen": "2025-12-16T23:22:49.075300"
+      },
+      "e041cb28e5e8295ee5509ab660e07b8b93304773211311b0bcf48c2728918189": {
+        "title": "Vitest团队发布4.0版本，提供稳定的浏览器模式与视觉回归测试功能",
+        "link": "https://www.infoq.cn/article/O9bTEFlNdmoIBR7QPXa9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 16 Dec 2025 11:15:00 GMT",
+        "first_seen": "2025-12-16T23:22:49.075304"
+      },
+      "c2b82b7c5c1fbb8363f83d45be61dda9157b7c334eb6d152dd2329041ccbe543": {
+        "title": "AI编码工具变 “格式化神器”？Claude CLI半年频当“系统杀手”，多位开发者痛斥：心血都没了！",
+        "link": "https://www.infoq.cn/article/ExvGzai2dQXZ3xzURUiJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 16 Dec 2025 10:00:00 GMT",
+        "first_seen": "2025-12-16T23:22:49.075307"
       }
     },
     "Finance": {
@@ -10108,6 +10048,36 @@
         "link": "https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9",
         "published_date": "Tue, 16 Dec 2025 08:16:00 GMT",
         "first_seen": "2025-12-16T08:37:33.994257"
+      },
+      "2893318e940064bc2c3bac536baff92f6232b620fa5ea14231325d240ef78df2": {
+        "title": "Fed’s Bostic expects no rate cuts in 2026 due to worries GOP tax bill might fuel inflation",
+        "link": "https://www.marketwatch.com/story/feds-bostic-expects-no-rate-cuts-in-2026-due-to-worries-gop-tax-bill-might-fuel-inflation-ebdf46fb?mod=mw_rss_topstories",
+        "published_date": "Tue, 16 Dec 2025 20:38:00 GMT",
+        "first_seen": "2025-12-16T23:21:37.788108"
+      },
+      "493a7bf653cbb56c02825ef8d5209f3b321fa2e4ceab31b98ebdb48994e01a8a": {
+        "title": "US unemployment rate hits four-year high of 4.6%",
+        "link": "https://www.ft.com/content/17a1674d-0e6b-4e9b-9c0d-82de5887be15",
+        "published_date": "Tue, 16 Dec 2025 20:11:00 GMT",
+        "first_seen": "2025-12-16T23:21:37.788121"
+      },
+      "6935bad2f5f25a9210703c2fa1903c5c7801d9371eec474d7e78bf2bcae228f4": {
+        "title": "Paramount’s hostile bid for Warner Bros. shaken as Trump’s son-in-law drops out",
+        "link": "https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories",
+        "published_date": "Tue, 16 Dec 2025 22:52:00 GMT",
+        "first_seen": "2025-12-16T23:21:37.788124"
+      },
+      "d7e4472f0661ece6b76b4bc768b86e0b60cb8bfdd3e1051eb5e4905e818f4043": {
+        "title": "Pot stocks keep blazing after Trump says he’s ‘very strongly’ looking at rescheduling cannabis",
+        "link": "https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc?mod=mw_rss_topstories",
+        "published_date": "Tue, 16 Dec 2025 22:07:00 GMT",
+        "first_seen": "2025-12-16T23:21:37.788126"
+      },
+      "f66c3ada8000da1a92ecf813b8703192f5c8be6860ee7c530e0964246c87b15d": {
+        "title": "Pfizer’s stock drops after drug giant lowers its revenue forecast",
+        "link": "https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories",
+        "published_date": "Tue, 16 Dec 2025 22:13:00 GMT",
+        "first_seen": "2025-12-16T23:21:37.788128"
       }
     },
     "Ai": {
@@ -11694,13 +11664,43 @@
         "link": "https://www.qbitai.com/2025/12/361100.html",
         "published_date": "Tue, 16 Dec 2025 06:37:00 GMT",
         "first_seen": "2025-12-16T08:38:27.760082"
+      },
+      "df5803a8a2363ec2c3ea2f4da24ac03de5e2ad49727b5d5f09f0edc1cb1661da": {
+        "title": "英伟达成开源新王？Nemotron 3全新混合专家架构，推理效率升4倍",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-7",
+        "published_date": "Tue, 16 Dec 2025 17:02:00 GMT",
+        "first_seen": "2025-12-16T23:22:00.374962"
+      },
+      "dcd6d11bf1586904f1539283ceb0c5b05ca863af284a17eb01db75a7a9634a46": {
+        "title": "PPO-Clip的「盲点」被补齐了？快手提出熵比裁剪方法，从局部约束到全局稳定的关键一跃",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-9",
+        "published_date": "Tue, 16 Dec 2025 18:40:00 GMT",
+        "first_seen": "2025-12-16T23:22:00.374968"
+      },
+      "14385da3cbfe08f77209525a8e5f0509b17ceb184435c41382030377193dd897": {
+        "title": "所有大模型，都学物理学：北大物理系一篇研究，震撼了AI圈",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-8",
+        "published_date": "Tue, 16 Dec 2025 17:08:00 GMT",
+        "first_seen": "2025-12-16T23:22:00.374971"
+      },
+      "fc91b9ca17167a18e8879af0d206ec0ee78dde1127e2ae1b251430a0a7c732c9": {
+        "title": "无问芯穹首曝智能体服务平台，以基础设施加速企业级「智能体自由」",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-10",
+        "published_date": "Tue, 16 Dec 2025 18:46:00 GMT",
+        "first_seen": "2025-12-16T23:22:00.374973"
+      },
+      "d24d1d6cd225cf550b7d890eeae2504d7a4284da8e4d484cba3a5c6f018d5bef": {
+        "title": "企业级智能体落地，谁没踩这四种大坑？无问芯穹的系统性解法来了",
+        "link": "https://www.qbitai.com/2025/12/361247.html",
+        "published_date": "Tue, 16 Dec 2025 12:10:00 GMT",
+        "first_seen": "2025-12-16T23:22:00.374975"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-16T08:39:21.985977",
-    "Finance": "2025-12-16T08:37:33.994266",
-    "Ai": "2025-12-16T08:38:27.760084"
+    "Technology": "2025-12-16T23:22:49.075310",
+    "Finance": "2025-12-16T23:21:37.788130",
+    "Ai": "2025-12-16T23:22:00.374978"
   }
 }

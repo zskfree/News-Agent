@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Dec 2025 08:37:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Dec 2025 08:37:33 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 23:21:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK unemployment rate rises to 5.1%</title>
-      <link>https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9</link>
-      <description>&lt;![CDATA[UK unemployment rate rises to 5.1%]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9</guid>
+      <title>Fed’s Bostic expects no rate cuts in 2026 due to worries GOP tax bill might fuel inflation</title>
+      <link>https://www.marketwatch.com/story/feds-bostic-expects-no-rate-cuts-in-2026-due-to-worries-gop-tax-bill-might-fuel-inflation-ebdf46fb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Fed’s Bostic expects no rate cuts in 2026 due to worries GOP tax bill might fuel inflation]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 20:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/feds-bostic-expects-no-rate-cuts-in-2026-due-to-worries-gop-tax-bill-might-fuel-inflation-ebdf46fb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US unemployment rate hits four-year high of 4.6%</title>
+      <link>https://www.ft.com/content/17a1674d-0e6b-4e9b-9c0d-82de5887be15</link>
+      <description>&lt;![CDATA[US unemployment rate hits four-year high of 4.6%]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 20:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/17a1674d-0e6b-4e9b-9c0d-82de5887be15</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Paramount’s hostile bid for Warner Bros. shaken as Trump’s son-in-law drops out</title>
+      <link>https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Paramount’s hostile bid for Warner Bros. shaken as Trump’s son-in-law drops out]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 22:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Pot stocks keep blazing after Trump says he’s ‘very strongly’ looking at rescheduling cannabis</title>
+      <link>https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Pot stocks keep blazing after Trump says he’s ‘very strongly’ looking at rescheduling cannabis]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 22:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Pfizer’s stock drops after drug giant lowers its revenue forecast</title>
+      <link>https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Pfizer’s stock drops after drug giant lowers its revenue forecast]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 22:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

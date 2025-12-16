@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-16 08:37
+**最后更新时间**: 2025-12-16 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-16 23:21)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Paramount’s hostile bid for Warner Bros. shaken as Trump’s son-in-law drops out](https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 22:52
+
+#### [Howard Stern and his 1 million listeners still have value for Sirius with contract extension](https://www.marketwatch.com/story/howard-stern-and-his-1-million-listeners-still-have-value-for-sirius-with-contract-extension-75405b3e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 22:14
+
+#### [Pfizer’s stock drops after drug giant lowers its revenue forecast](https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 22:13
+
+#### [Tesla’s stock finally clinches a milestone almost a year in the making](https://www.marketwatch.com/story/teslas-stock-finally-clinches-a-milestone-almost-a-year-in-the-making-aceaf620?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 22:08
+
+#### [Pot stocks keep blazing after Trump says he’s ‘very strongly’ looking at rescheduling cannabis](https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 22:07
+
+#### [Fed’s Bostic expects no rate cuts in 2026 due to worries GOP tax bill might fuel inflation](https://www.marketwatch.com/story/feds-bostic-expects-no-rate-cuts-in-2026-due-to-worries-gop-tax-bill-might-fuel-inflation-ebdf46fb?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 20:38
+
+#### [Here’s how to hold crypto in your 401(k) right now, without waiting for your employer to come around](https://www.marketwatch.com/story/theres-one-way-to-hold-crypto-in-your-401-k-right-now-but-youll-be-on-your-own-320ef47f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 19:41
+
+#### [Gen Z would rather cut Social Security benefits for current retirees than pay higher taxes to save the program](https://www.marketwatch.com/story/gen-z-would-rather-cut-social-security-benefits-for-current-retirees-than-pay-higher-taxes-to-save-the-program-8062b870?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 18:55
+
+#### [Store loyalty programs are taking your personal data and may use it to charge you more. Here’s how to protect yourself.](https://www.marketwatch.com/story/store-loyalty-programs-are-taking-your-personal-data-and-may-use-it-to-charge-you-more-heres-how-to-protect-yourself-93aca959?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 18:42
+
+#### [These Big Tech stocks are the smart way to invest in the quantum-computing boom](https://www.marketwatch.com/story/these-big-tech-stocks-are-the-smart-way-to-invest-in-the-quantum-computing-boom-dd13eb56?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 18:32
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Warner Bros to rebuff $108bn Paramount hostile offer](https://www.ft.com/content/6443abe1-c1ee-4f28-8a8a-408a3e8f6077)
+**发布时间**: 2025-12-16 22:10
+
+#### [Trump has ‘alcoholic’s personality’ says chief of staff in tell-all interview](https://www.ft.com/content/4b183c4d-3dee-4ebf-b42c-85f58082de54)
+**发布时间**: 2025-12-16 20:39
+
+#### [UK set to rejoin EU’s flagship student exchange programme](https://www.ft.com/content/a5d96c49-c9cb-4f28-96ef-0d218993b4f0)
+**发布时间**: 2025-12-16 20:31
+
+#### [US unemployment rate hits four-year high of 4.6%](https://www.ft.com/content/17a1674d-0e6b-4e9b-9c0d-82de5887be15)
+**发布时间**: 2025-12-16 20:11
+
+#### [Macron: We urgently need to rebalance EU-China relations](https://www.ft.com/content/c8fdf1b0-7330-491e-a8b4-f4b29f6a3cd0)
+**发布时间**: 2025-12-16 19:00
+
+#### [UK government’s flagship workers’ rights legislation clears final hurdle](https://www.ft.com/content/60f5cdde-7b60-4d88-9033-32812ead2da0)
+**发布时间**: 2025-12-16 18:05
+
+#### [Citadel chief Ken Griffin says White House must ‘distance’ itself from Fed](https://www.ft.com/content/9b3bb8bb-5e4a-49d5-ab78-2e07aaea2ebb)
+**发布时间**: 2025-12-16 17:59
+
+#### [OpenAI hires George Osborne to spearhead global ‘Stargate’ expansion](https://www.ft.com/content/a6a8c7aa-9677-4208-a28e-a3ca51cb7aa3)
+**发布时间**: 2025-12-16 17:30
+
+#### [Trump’s war on Europe](https://www.ft.com/content/b17e6660-7722-4723-953b-2d72e7ec9292)
+**发布时间**: 2025-12-16 16:55
+
+#### [Wall Street rainmakers scrap for windfall from Warner Bros deal](https://www.ft.com/content/b55ac7b8-6004-40f6-80ec-ad877e0ac84f)
+**发布时间**: 2025-12-16 05:00
 
 ---
 

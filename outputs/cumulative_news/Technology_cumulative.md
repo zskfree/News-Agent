@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-16 08:37
+**最后更新时间**: 2025-12-16 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-16 23:21)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [不拼单科拼体系，Robotaxi分水岭来了](http://www.huxiu.com/article/4817979.html?f=wangzhan)
+**发布时间**: 2025-12-16 22:04
+
+#### [枕头卖出40亿，酒店暴打五星级，亚朵究竟凭啥拿捏消费者钱包？](http://www.huxiu.com/article/4817562.html?f=wangzhan)
+**发布时间**: 2025-12-16 17:59
+
+#### [轰-20“替身”彩虹-7首飞成功，美军绝密侦察机也难以匹敌](http://www.huxiu.com/article/4817457.html?f=wangzhan)
+**发布时间**: 2025-12-16 14:30
+
+#### [茅台一天涨4次，年轻人不接盘怎么办？](http://www.huxiu.com/article/4817606.html?f=wangzhan)
+**发布时间**: 2025-12-16 13:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [特斯拉股价接近历史新高，投资者情绪高涨](https://www.tmtpost.com/7811349.html)
+**发布时间**: 2025-12-16 22:03
+
+#### [这些股票今日波动最大：福特、特斯拉、博通、GitLab、Roku、Navan等](https://www.tmtpost.com/7811347.html)
+**发布时间**: 2025-12-16 22:03
+
+#### [创达新材：盈利质量走低，每年千万现金分红，却依旧大举募资补流｜IPO观察](https://www.tmtpost.com/7809160.html)
+**发布时间**: 2025-12-16 19:14
+
+#### [君乐宝，想要逃出伊利、蒙牛的“五指山”](https://www.tmtpost.com/7810217.html)
+**发布时间**: 2025-12-16 19:05
+
+#### [三年减少1亿张，年轻人正在抛弃信用卡](https://www.tmtpost.com/7811164.html)
+**发布时间**: 2025-12-16 19:02
+
+#### [股价太高惹的祸？海光信息“吞并”中科曙光计划告吹](https://www.tmtpost.com/7810346.html)
+**发布时间**: 2025-12-16 18:57
+
+#### [存储巨头掀桌，SK 海力士的新杀招](https://www.tmtpost.com/7811104.html)
+**发布时间**: 2025-12-16 18:57
+
+#### [学18个月胖东来，永辉亏在房本上](https://www.tmtpost.com/7810711.html)
+**发布时间**: 2025-12-16 18:55
+
+#### [没有中兴的智谱，被民间华强北盯上了](https://www.tmtpost.com/7810885.html)
+**发布时间**: 2025-12-16 18:54
+
+#### [“汽水”汹涌，“云村”告急](https://www.tmtpost.com/7810927.html)
+**发布时间**: 2025-12-16 18:51
+
+#### [赵永坡调任魏牌CEO，长城需要职业经理人还是“自家人”？](https://www.tmtpost.com/7811012.html)
+**发布时间**: 2025-12-16 18:49
+
+#### [2026春节出境游是门“情绪经济学”](https://www.tmtpost.com/7811019.html)
+**发布时间**: 2025-12-16 18:48
+
+#### [AI会是蚂蚁的“福气”吗？](https://www.tmtpost.com/7811030.html)
+**发布时间**: 2025-12-16 18:46
+
+#### [「史上最长」黑五和跨境电商这一年：野蛮生长的日子过去了](https://www.tmtpost.com/7811036.html)
+**发布时间**: 2025-12-16 18:44
+
+#### [押注智能家居，美的开启“买买买”](https://www.tmtpost.com/7811050.html)
+**发布时间**: 2025-12-16 18:42
+
+#### [年轻人的“孤独感”，还剩多少可被Soul兑现？](https://www.tmtpost.com/7811054.html)
+**发布时间**: 2025-12-16 18:41
+
+#### [奢侈品2025：确实复苏了，但问题很多](https://www.tmtpost.com/7810847.html)
+**发布时间**: 2025-12-16 16:50
+
+#### [安利：卡在直销基因里，输不起也赢不了](https://www.tmtpost.com/7810617.html)
+**发布时间**: 2025-12-16 16:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 024 周 AI 应用榜：从“能力秀场”到“角色战场”，AI 价值锚点已迁移](https://www.infoq.cn/article/0Dwil04MvMwBGcPIHc2k?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 20:00
+
+#### [千问接入万相2.6，用户可“一键换角”合拍AI短片](https://www.infoq.cn/article/pswl08b9hMHJN0NSCUFN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 19:19
+
+#### [Codex负责人打脸Cursor CEO“规范驱动开发论”！18天造Sora爆款，靠智能体24小时不停跑，曝OpenAI狂飙内幕](https://www.infoq.cn/article/Gqltf7tslmJY8iK9GXLo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 18:20
+
+#### [政企研联手发力！N 个实战案例！企业数智化转型的石景山企业专属方案重磅登场](https://www.infoq.cn/article/h6YTgz6WxWQ0BPGJ1WtT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 18:16
+
+#### [性能炸裂、成本降低20%，腾讯云TDSQL Boundless如何做到的？| Q推荐](https://www.infoq.cn/article/Qv566xYXKUK2oyY6O5d9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 18:10
+
+#### [太初元碁+PaddleScience，分钟级高分辨率气象预测方案上线](https://www.infoq.cn/article/yKSLEx3kPDaggSeoyWCF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 18:01
+
+#### [Alex Wang“没资格接替我”！Yann LeCun最新访谈揭露Meta AI“内斗”真相，并直言AGI是“彻头彻尾的胡扯”](https://www.infoq.cn/article/qhdY4rSE5KF7pTLAAuNo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 122 | 工作会被 AI 取代吗、一周热评以及给 MacBook 找把趁手键盘](https://sspai.com/post/104635)
+**发布时间**: 2025-12-16 17:30
 
 ---
 

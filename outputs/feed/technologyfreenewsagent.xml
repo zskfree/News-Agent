@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Dec 2025 08:37:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Dec 2025 08:39:21 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 23:22:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>启明创投领投，眼科创新药研发企业欧科健完成3000万美元B轮融资 | 融资速递</title>
-      <link>https://www.tmtpost.com/7810376.html</link>
-      <description>&lt;![CDATA[启明创投领投，眼科创新药研发企业欧科健完成3000万美元B轮融资 | 融资速递]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7810376.html</guid>
+      <title>马来西亚打造首个免税能源港；Ozon黑五中国商品订单量飙升5倍；2026年墨西哥电商平台预扣税最高达36%｜一周出海参考</title>
+      <link>https://www.tmtpost.com/7809372.html</link>
+      <description>&lt;![CDATA[马来西亚打造首个免税能源港；Ozon黑五中国商品订单量飙升5倍；2026年墨西哥电商平台预扣税最高达36%｜一周出海参考]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7809372.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技发布持久化函数，支持在Lambda代码中实现有状态逻辑</title>
-      <link>https://www.infoq.cn/article/S6tXGvHrScFKPGt50OEB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技发布持久化函数，支持在Lambda代码中实现有状态逻辑]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/S6tXGvHrScFKPGt50OEB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>群核科技，摸着李飞飞过河</title>
+      <link>http://www.geekpark.net/news/358069</link>
+      <description>&lt;![CDATA[群核科技，摸着李飞飞过河]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/358069</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从咖啡因龙头一跃成为创新药新锐，石药创新如何成功转型？</title>
-      <link>https://www.tmtpost.com/7810483.html</link>
-      <description>&lt;![CDATA[从咖啡因龙头一跃成为创新药新锐，石药创新如何成功转型？]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7810483.html</guid>
+      <title>马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验</title>
+      <link>http://www.geekpark.net/news/358055</link>
+      <description>&lt;![CDATA[马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/358055</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TPU 订单狂增，谷歌扩产新一代芯片！谷歌首席科学家：我们使用10多年了，一直非常满意</title>
-      <link>https://www.infoq.cn/article/ur4SXTRC07GVAFv2ifRJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TPU 订单狂增，谷歌扩产新一代芯片！谷歌首席科学家：我们使用10多年了，一直非常满意]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ur4SXTRC07GVAFv2ifRJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Vitest团队发布4.0版本，提供稳定的浏览器模式与视觉回归测试功能</title>
+      <link>https://www.infoq.cn/article/O9bTEFlNdmoIBR7QPXa9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vitest团队发布4.0版本，提供稳定的浏览器模式与视觉回归测试功能]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/O9bTEFlNdmoIBR7QPXa9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grab为其平台新增实时数据质量监控功能</title>
-      <link>https://www.infoq.cn/article/0Gsi1oP2oM9Pj78KePl3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Grab为其平台新增实时数据质量监控功能]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 13:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0Gsi1oP2oM9Pj78KePl3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI编码工具变 “格式化神器”？Claude CLI半年频当“系统杀手”，多位开发者痛斥：心血都没了！</title>
+      <link>https://www.infoq.cn/article/ExvGzai2dQXZ3xzURUiJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI编码工具变 “格式化神器”？Claude CLI半年频当“系统杀手”，多位开发者痛斥：心血都没了！]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ExvGzai2dQXZ3xzURUiJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
