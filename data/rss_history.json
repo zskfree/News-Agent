@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "78d59530272b1c720f731338dbbd3c4bd355cda42a45fee47624c8720bc1104d": {
-        "title": "库克被曝最早明年让位CEO，“苹果AI已落后同行2年”",
-        "link": "https://www.qbitai.com/2025/11/353022.html",
-        "published_date": "Sun, 16 Nov 2025 04:29:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.015228"
-      },
-      "bde7e85df7f6b8363d4581a7e0a4a670cbae04606d625016e8464f987b11f4ed": {
-        "title": "小度AI眼镜Pro 2299元起售：这次把“超能小度”塞进了39g的眼镜里",
-        "link": "https://www.qbitai.com/2025/11/353007.html",
-        "published_date": "Sun, 16 Nov 2025 03:42:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.015410"
-      },
       "0fca60589f4ea127d6a94e643e5c6aab5434fe464b7ee66d92ca80ba009e3471": {
         "title": "短视频刷多了AI也会变蠢！“年度最令人不安的论文”",
         "link": "https://www.qbitai.com/2025/11/353155.html",
@@ -1155,36 +1143,6 @@
       }
     },
     "Technology": {
-      "ed3b2fb5f6368dc784f077b3fabc51e9c2c9057a54bb928579f734b81fa1ca47": {
-        "title": "从千元股到百元股，“医美茅”爱美客为何“熄火”？",
-        "link": "https://www.tmtpost.com/7766371.html",
-        "published_date": "Sun, 16 Nov 2025 11:28:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.126823"
-      },
-      "3aad12e0182527abc3e8001d395e11eac25409b816aeb0c974f605670b909887": {
-        "title": "宋佳、钟楚曦双双捧杯金鸡奖，女性力量在这一刻具象化了",
-        "link": "https://www.tmtpost.com/7766386.html",
-        "published_date": "Sun, 16 Nov 2025 09:32:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.126963"
-      },
-      "9c8569e2d69b92ae0872ab09274d343b9cb66603871b360898476e4d564ee3d0": {
-        "title": "广告集团加速抱团：Havas正酝酿一笔针对WPP的交易",
-        "link": "https://www.tmtpost.com/7766415.html",
-        "published_date": "Sun, 16 Nov 2025 09:32:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.127110"
-      },
-      "6e219c6abdacacab0b9b9e44786b698e5a492d75a263beaa7c41b7b6e9f6f541": {
-        "title": "制造业的AI转型",
-        "link": "https://www.tmtpost.com/7766400.html",
-        "published_date": "Sun, 16 Nov 2025 08:28:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.127248"
-      },
-      "97fe2fe6d06d91159d8ab34da4eecf50aa82ab95f0ce696878ec98aa697c14fb": {
-        "title": "宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售",
-        "link": "http://www.geekpark.net/news/356460",
-        "published_date": "Sun, 16 Nov 2025 09:09:00 GMT",
-        "first_seen": "2025-11-16T05:20:09.127569"
-      },
       "5e18353a921bc6f8e7f873e6766dc61b9fc6bb483f31d03b852718509c6eb139": {
         "title": "自财报发布以来，PayPal股价已下跌14%",
         "link": "https://www.tmtpost.com/7766643.html",
@@ -8588,6 +8546,36 @@
         "link": "https://www.tmtpost.com/7809054.html",
         "published_date": "Mon, 15 Dec 2025 18:52:00 GMT",
         "first_seen": "2025-12-15T23:23:14.002062"
+      },
+      "81f26c909a43d7f9526983dd0fc9e34e3436534511fb75de6b9e99d2a2adcd58": {
+        "title": "告别“挖矿”逻辑：OpenAI前联合创始人Ilya揭示AI下半场的新赛点",
+        "link": "https://www.tmtpost.com/7810210.html",
+        "published_date": "Tue, 16 Dec 2025 12:03:00 GMT",
+        "first_seen": "2025-12-16T05:25:31.700035"
+      },
+      "4cda2717ff34978df1e6f41609c7e76869844ecb8982666d2751b28756d6739d": {
+        "title": "China AI Chip Startup Biren Prepares Hong Kong IPO Amid Push for Semiconductor Self-Reliance",
+        "link": "https://www.tmtpost.com/7810359.html",
+        "published_date": "Tue, 16 Dec 2025 12:29:00 GMT",
+        "first_seen": "2025-12-16T05:25:31.700041"
+      },
+      "58f141747e9baa9b473ecf342988a7fc7acda3e2cbb78d4f9d36bf5ca0311f60": {
+        "title": "阿里发布通义万相2.6系列视频生成模型，上线国内首个角色扮演功能 | 钛快讯",
+        "link": "https://www.tmtpost.com/7810393.html",
+        "published_date": "Tue, 16 Dec 2025 13:08:00 GMT",
+        "first_seen": "2025-12-16T05:25:31.700043"
+      },
+      "f02686f4fa0d58cfee0236daa80fc6589b761763c773eaace1a2c93220316061": {
+        "title": "Tesla Shares Surge Over 3% to Year-High after Musk Confirms Driverless Robotaxi Road Tests",
+        "link": "https://www.tmtpost.com/7810312.html",
+        "published_date": "Tue, 16 Dec 2025 12:05:00 GMT",
+        "first_seen": "2025-12-16T05:25:31.700045"
+      },
+      "410b3bf10cba62c9fe1ae40349f9e54f3d03be2421864fbbe8b2138801e9e5a8": {
+        "title": "AI的“万亿拷问”：疯狂砸AI，从哪里赚回来？",
+        "link": "https://www.tmtpost.com/7810243.html",
+        "published_date": "Tue, 16 Dec 2025 11:56:00 GMT",
+        "first_seen": "2025-12-16T05:25:31.700047"
       }
     },
     "Finance": {
@@ -10096,6 +10084,36 @@
         "link": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
         "published_date": "Mon, 15 Dec 2025 23:02:00 GMT",
         "first_seen": "2025-12-15T23:22:26.604544"
+      },
+      "a3bf062e61b121c47efec301d7b64cde6330ff0b13194725219b8d072b355cbc": {
+        "title": "Two Fed officials who rarely agree both say inflation will not be a problem going forward",
+        "link": "https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories",
+        "published_date": "Tue, 16 Dec 2025 00:56:00 GMT",
+        "first_seen": "2025-12-16T05:24:51.605203"
+      },
+      "8ae7ab932095e5e0ad0c57732b7cdb58625b4095ae3fc2b03bfde353bf4a9d6c": {
+        "title": "Mexico’s tariffs on China show the rise of Trump’s trade template",
+        "link": "https://www.ft.com/content/0297584e-3fad-4ff4-b326-2bfd82b0859a",
+        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-16T05:24:51.605215"
+      },
+      "58388f95a3c0165e59f4406ab76b279361aa6b1407b7282bec57763103d33906": {
+        "title": "Global brands seek PE partners to save their China businesses",
+        "link": "https://www.ft.com/content/2e66603f-2ec2-4345-ac28-017ae75e99cc",
+        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-16T05:24:51.605218"
+      },
+      "9a8f9d2a694c4d7da46be34afd4013d196ff03982c04bc9a9641ad0b2d36f228": {
+        "title": "Shell mergers chief departed after CEO blocked bid for BP",
+        "link": "https://www.ft.com/content/2f9a4047-c860-4632-bc55-00d73df4e5b9",
+        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-16T05:24:51.605220"
+      },
+      "efc8cb883837e4665fd3030eff69dc9d1e7f823b991219dc48297e7a6d71d002": {
+        "title": "Monzo chief pushed out after board rift over growth and IPO plans",
+        "link": "https://www.ft.com/content/5aa2f310-d023-441d-97e4-a23ba6ad0874",
+        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
+        "first_seen": "2025-12-16T05:24:51.605222"
       }
     },
     "Ai": {
@@ -11622,13 +11640,43 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-15-12",
         "published_date": "Mon, 15 Dec 2025 18:39:00 GMT",
         "first_seen": "2025-12-15T23:22:39.581680"
+      },
+      "b4ee402a5eb466c029f3359592fa0f6a3a4c75019d52c085adce635fe505cffa": {
+        "title": "56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-4",
+        "published_date": "Tue, 16 Dec 2025 13:12:00 GMT",
+        "first_seen": "2025-12-16T05:25:03.959560"
+      },
+      "9b7c946dce1cb218e90b65cc42654289e965ef86166feec6862714b04d9fba27": {
+        "title": "让扩散模型「可解释」不再降质，开启图片编辑新思路",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16",
+        "published_date": "Tue, 16 Dec 2025 10:45:00 GMT",
+        "first_seen": "2025-12-16T05:25:03.959567"
+      },
+      "059e9ab26902ba056f051af6ad7ff86b82b4d2c464122aa703d8e57382d45d52": {
+        "title": "仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-3",
+        "published_date": "Tue, 16 Dec 2025 11:59:00 GMT",
+        "first_seen": "2025-12-16T05:25:03.959569"
+      },
+      "04719d71b94fbae43bd3b1394ea8c83f8cd1c95e17b716743fd7e46af79b6ba9": {
+        "title": "临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-5",
+        "published_date": "Tue, 16 Dec 2025 13:18:00 GMT",
+        "first_seen": "2025-12-16T05:25:03.959571"
+      },
+      "533ed22f4d045963eefdb2a526d250e3f3a34796dc2e773f5368d3e17fd138a3": {
+        "title": "告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-16-2",
+        "published_date": "Tue, 16 Dec 2025 10:51:00 GMT",
+        "first_seen": "2025-12-16T05:25:03.959572"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-15T23:23:14.002063",
-    "Finance": "2025-12-15T23:22:26.604546",
-    "Ai": "2025-12-15T23:22:39.581683"
+    "Technology": "2025-12-16T05:25:31.700048",
+    "Finance": "2025-12-16T05:24:51.605224",
+    "Ai": "2025-12-16T05:25:03.959575"
   }
 }

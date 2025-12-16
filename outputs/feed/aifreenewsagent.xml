@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 23:22:39 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 05:25:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AAAI 2026｜视频大语言模型到底可不可信？23款主流模型全面测评来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15-11</link>
-      <description>&lt;![CDATA[AAAI 2026｜视频大语言模型到底可不可信？23款主流模型全面测评来了]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-11</guid>
+      <title>56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-16-4</link>
+      <description>&lt;![CDATA[56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产芯片也能跑AI视频实时生成了，商汤Seko 2.0揭秘幕后黑科技</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15-9</link>
-      <description>&lt;![CDATA[国产芯片也能跑AI视频实时生成了，商汤Seko 2.0揭秘幕后黑科技]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-9</guid>
+      <title>让扩散模型「可解释」不再降质，开启图片编辑新思路</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-16</link>
+      <description>&lt;![CDATA[让扩散模型「可解释」不再降质，开启图片编辑新思路]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NeurIPS 2025｜指哪打哪，可控对抗样本生成器来了！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15-7</link>
-      <description>&lt;![CDATA[NeurIPS 2025｜指哪打哪，可控对抗样本生成器来了！]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-7</guid>
+      <title>仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-16-3</link>
+      <description>&lt;![CDATA[仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁数科宣布开源数据分析智能体技术，当前登顶BIRD</title>
-      <link>https://www.qbitai.com/2025/12/361042.html</link>
-      <description>&lt;![CDATA[蚂蚁数科宣布开源数据分析智能体技术，当前登顶BIRD]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361042.html</guid>
+      <title>临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-16-5</link>
+      <description>&lt;![CDATA[临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Thinking Machines首款产品重大更新：K2 Thinking、Qwen3-VL都可以微调了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-15-12</link>
-      <description>&lt;![CDATA[Thinking Machines首款产品重大更新：K2 Thinking、Qwen3-VL都可以微调了]]&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 18:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-15-12</guid>
+      <title>告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-16-2</link>
+      <description>&lt;![CDATA[告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词]]&gt;</description>
+      <pubDate>Tue, 16 Dec 2025 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-2</guid>
       <category>Ai</category>
     </item>
   </channel>
