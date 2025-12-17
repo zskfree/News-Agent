@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Dec 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 05:25:17 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 08:32:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>JPMorgan pulls $350bn from Fed to buy up Treasuries</title>
-      <link>https://www.ft.com/content/15b52695-3b3f-4e98-b321-47680dee6c4a</link>
-      <description>&lt;![CDATA[JPMorgan pulls $350bn from Fed to buy up Treasuries]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/15b52695-3b3f-4e98-b321-47680dee6c4a</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Amazon in talks to invest more than $10bn in OpenAI</title>
-      <link>https://www.ft.com/content/4217107e-2c98-4b78-9961-67d75237fac4</link>
-      <description>&lt;![CDATA[Amazon in talks to invest more than $10bn in OpenAI]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 04:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4217107e-2c98-4b78-9961-67d75237fac4</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Monzo shareholders push to oust chair in revolt over CEO’s exit</title>
-      <link>https://www.ft.com/content/1487940f-03ed-40b9-a19e-da1b657ff37a</link>
-      <description>&lt;![CDATA[Monzo shareholders push to oust chair in revolt over CEO’s exit]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1487940f-03ed-40b9-a19e-da1b657ff37a</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The worried investor’s guide to 2026</title>
-      <link>https://www.ft.com/content/494676c5-d499-455e-b38a-a5fe02ba0ac8</link>
-      <description>&lt;![CDATA[The worried investor’s guide to 2026]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/494676c5-d499-455e-b38a-a5fe02ba0ac8</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UK will review EV sales targets next year</title>
-      <link>https://www.ft.com/content/ba33a0d1-4fa6-4a20-9cd7-fb805575f279</link>
-      <description>&lt;![CDATA[UK will review EV sales targets next year]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ba33a0d1-4fa6-4a20-9cd7-fb805575f279</guid>
+      <title>UK inflation falls more than expected to 3.2% in November</title>
+      <link>https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a</link>
+      <description>&lt;![CDATA[UK inflation falls more than expected to 3.2% in November]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -8360,6 +8360,36 @@
         "link": "https://www.tmtpost.com/7811581.html",
         "published_date": "Wed, 17 Dec 2025 10:07:00 GMT",
         "first_seen": "2025-12-17T05:26:54.872859"
+      },
+      "0e0eaf11dc3be6400289ca7a79d29e33e8ef9ad18660de76e8ca8e9e0a7016e6": {
+        "title": "中签率0.032%、网下申购超4400倍，锡华科技凭什么被抢筹？",
+        "link": "https://www.tmtpost.com/7810576.html",
+        "published_date": "Wed, 17 Dec 2025 09:30:00 GMT",
+        "first_seen": "2025-12-17T08:33:31.871943"
+      },
+      "801fb1145dcf79e1a75986ea47817feb95c9b9a2cc4fef606b7378eaf6087685": {
+        "title": "【钛晨报】中央财办有关负责同志解读2025年中央经济工作会议精神；市场监管总局回应附条件批准两家智利公司新设合营企业；事关直播电商、食品安全，这些市场监管新规将发布",
+        "link": "https://www.tmtpost.com/7811319.html",
+        "published_date": "Wed, 17 Dec 2025 07:20:00 GMT",
+        "first_seen": "2025-12-17T08:33:31.871951"
+      },
+      "32da751fb9dfaf34403348eb0bda46d067adf04c7c2ce47eca164d4ee45f36af": {
+        "title": "“芯片-OS”协同新路径：Arm与OpenCloudOS携手，Infra智能基座如何重塑算力生态？",
+        "link": "https://www.infoq.cn/article/CVRf3us565gXXNgsp4uE?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Dec 2025 10:54:00 GMT",
+        "first_seen": "2025-12-17T08:33:31.871953"
+      },
+      "99321132918cd7288f431e4ef3f38853a56df938a0c821599ca9fdfd3c4e86dd": {
+        "title": "LLM for AIOps：是泡沫还是银弹？智能运维的争议、破局与未来",
+        "link": "https://www.infoq.cn/article/DbuSxKKL6id4wXLxUAIW?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Dec 2025 16:12:00 GMT",
+        "first_seen": "2025-12-17T08:33:31.871955"
+      },
+      "637d29746d9ff2303f83705bb692fd669f2c15a8363a6aeaa170ae496ae7d3d4": {
+        "title": "8个月50亿产值，非程序员用秒哒赚疯了？秒哒如何解决后端难、token贵、屎山烦",
+        "link": "https://www.infoq.cn/article/FcV0URxuPMkZ6Hqjr1Ml?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-17T08:33:31.871957"
       }
     },
     "Finance": {
@@ -9964,6 +9994,12 @@
         "link": "https://www.ft.com/content/ba33a0d1-4fa6-4a20-9cd7-fb805575f279",
         "published_date": "Wed, 17 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-17T05:25:17.744670"
+      },
+      "5a293d86adff6cb7dbd1b3f89f046cfb2cfcf232af370d372328d1aee71b38df": {
+        "title": "UK inflation falls more than expected to 3.2% in November",
+        "link": "https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a",
+        "published_date": "Wed, 17 Dec 2025 07:54:00 GMT",
+        "first_seen": "2025-12-17T08:32:59.693048"
       }
     },
     "Ai": {
@@ -11610,13 +11646,43 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-17-2",
         "published_date": "Wed, 17 Dec 2025 10:26:00 GMT",
         "first_seen": "2025-12-17T05:26:06.360720"
+      },
+      "63d0d51dec6b3330d73b7b90042ded094b468826887a79051001bb1c1ffc2c8a": {
+        "title": "爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-17-15",
+        "published_date": "Wed, 17 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-17T08:33:19.708198"
+      },
+      "53aed59be21588898e7cfcffa9f10725adeb32db3bacd75719a51d208c35400b": {
+        "title": "硬刚Sora2，万相2.6轻松定制角色、控制分镜，普通人也能当导演",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-17-14",
+        "published_date": "Wed, 17 Dec 2025 14:47:00 GMT",
+        "first_seen": "2025-12-17T08:33:19.708205"
+      },
+      "eea55609f0b891b2b09835b0f6962ad685384644f796a40064f7a74e4fdd8404": {
+        "title": "人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-17-13",
+        "published_date": "Wed, 17 Dec 2025 14:43:00 GMT",
+        "first_seen": "2025-12-17T08:33:19.708207"
+      },
+      "64334ce62be14b973263fa3b7661fca82c7fe84b0a2a73c206b50c67bdc206bd": {
+        "title": "欢迎申请、提名和转发！第二届Wiley新锐科学家奖开放申请",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-17-12",
+        "published_date": "Wed, 17 Dec 2025 14:42:00 GMT",
+        "first_seen": "2025-12-17T08:33:19.708209"
+      },
+      "b9a0aa9e117db3b274a36e3c209c9d6673ad25ca4860621bdabffadb727b2f5f": {
+        "title": "SIGGRAPH Asia 2025：摩尔线程赢图形顶会3DGS挑战赛大奖，自研LiteGS全面开源",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-17-11",
+        "published_date": "Wed, 17 Dec 2025 14:36:00 GMT",
+        "first_seen": "2025-12-17T08:33:19.708211"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-17T05:26:54.872862",
-    "Finance": "2025-12-17T05:25:17.744672",
-    "Ai": "2025-12-17T05:26:06.360722"
+    "Technology": "2025-12-17T08:33:31.871958",
+    "Finance": "2025-12-17T08:32:59.693055",
+    "Ai": "2025-12-17T08:33:19.708213"
   }
 }
