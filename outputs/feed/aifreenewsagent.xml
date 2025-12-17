@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Dec 2025 23:22:00 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 05:26:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达成开源新王？Nemotron 3全新混合专家架构，推理效率升4倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-7</link>
-      <description>&lt;![CDATA[英伟达成开源新王？Nemotron 3全新混合专家架构，推理效率升4倍]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-7</guid>
+      <title>全球最大规模！如视开源室内三维数据集Realsee3D</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-6</link>
+      <description>&lt;![CDATA[全球最大规模！如视开源室内三维数据集Realsee3D]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>PPO-Clip的「盲点」被补齐了？快手提出熵比裁剪方法，从局部约束到全局稳定的关键一跃</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-9</link>
-      <description>&lt;![CDATA[PPO-Clip的「盲点」被补齐了？快手提出熵比裁剪方法，从局部约束到全局稳定的关键一跃]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-9</guid>
+      <title>UniEdit：首个大型开放域大模型知识编辑基准</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-5</link>
+      <description>&lt;![CDATA[UniEdit：首个大型开放域大模型知识编辑基准]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 10:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>所有大模型，都学物理学：北大物理系一篇研究，震撼了AI圈</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-8</link>
-      <description>&lt;![CDATA[所有大模型，都学物理学：北大物理系一篇研究，震撼了AI圈]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-8</guid>
+      <title>上海创智学院菁智人才论坛 | 海内外顶尖青年人才召集令暨海优政策宣讲会</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-4</link>
+      <description>&lt;![CDATA[上海创智学院菁智人才论坛 | 海内外顶尖青年人才召集令暨海优政策宣讲会]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>无问芯穹首曝智能体服务平台，以基础设施加速企业级「智能体自由」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-16-10</link>
-      <description>&lt;![CDATA[无问芯穹首曝智能体服务平台，以基础设施加速企业级「智能体自由」]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-16-10</guid>
+      <title>VGGT4D：无需训练，挖掘3D基础模型潜力，实现4D动态场景重建</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-3</link>
+      <description>&lt;![CDATA[VGGT4D：无需训练，挖掘3D基础模型潜力，实现4D动态场景重建]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>企业级智能体落地，谁没踩这四种大坑？无问芯穹的系统性解法来了</title>
-      <link>https://www.qbitai.com/2025/12/361247.html</link>
-      <description>&lt;![CDATA[企业级智能体落地，谁没踩这四种大坑？无问芯穹的系统性解法来了]]&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361247.html</guid>
+      <title>刚刚，OpenAI推出全新ChatGPT Images，奥特曼亮出腹肌搞宣传</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-2</link>
+      <description>&lt;![CDATA[刚刚，OpenAI推出全新ChatGPT Images，奥特曼亮出腹肌搞宣传]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-2</guid>
       <category>Ai</category>
     </item>
   </channel>

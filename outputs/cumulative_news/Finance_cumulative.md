@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-16 23:21
+**最后更新时间**: 2025-12-17 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-17 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Monzo shareholders push to oust chair in revolt over CEO’s exit](https://www.ft.com/content/1487940f-03ed-40b9-a19e-da1b657ff37a)
+**发布时间**: 2025-12-17 05:00
+
+#### [Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)
+**发布时间**: 2025-12-17 05:00
+
+#### [The worried investor’s guide to 2026](https://www.ft.com/content/494676c5-d499-455e-b38a-a5fe02ba0ac8)
+**发布时间**: 2025-12-17 05:00
+
+#### [What happens if AI data centres slip the ‘surly bonds of earth’?](https://www.ft.com/content/cc07f853-4f1d-4e69-8bfb-9220175656ab)
+**发布时间**: 2025-12-17 05:00
+
+#### [UK will review EV sales targets next year](https://www.ft.com/content/ba33a0d1-4fa6-4a20-9cd7-fb805575f279)
+**发布时间**: 2025-12-17 05:00
+
+#### [JPMorgan pulls $350bn from Fed to buy up Treasuries](https://www.ft.com/content/15b52695-3b3f-4e98-b321-47680dee6c4a)
+**发布时间**: 2025-12-17 05:00
+
+#### [Amazon in talks to invest more than $10bn in OpenAI](https://www.ft.com/content/4217107e-2c98-4b78-9961-67d75237fac4)
+**发布时间**: 2025-12-17 04:15
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [China is quietly destroying the dollar — and that’ll cost you. Fight back with these money moves.](https://www.marketwatch.com/story/china-is-quietly-destroying-the-dollar-and-thatll-cost-you-fight-back-with-these-money-moves-b21c9484?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 00:19
+
+#### [‘It’s heartbreaking’: My cousin died and her estranged husband has taken possession of her home. Can we evict him?](https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 23:25
 
 ---
 

@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-16 23:21
+**最后更新时间**: 2025-12-17 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-17 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Waymo in Talks to Raise Over $15 Billion at $100 Billion Valuation amid Intense Robotaxi Competition](https://www.tmtpost.com/7811912.html)
+**发布时间**: 2025-12-17 12:40
+
+#### [赛英电子：前五大客户撑起 8 成收入，高毛利难掩低研发短板，盈利含金量持续缩水｜IPO观察](https://www.tmtpost.com/7811807.html)
+**发布时间**: 2025-12-17 12:18
+
+#### [China GPU Maker Metax Debuts on Shanghai STAR Market, Tapping Policy Tailwinds for Domestic Chips](https://www.tmtpost.com/7811866.html)
+**发布时间**: 2025-12-17 11:51
+
+#### [扫地机鼻祖，被谁卷死了？](https://www.tmtpost.com/7811592.html)
+**发布时间**: 2025-12-17 11:42
+
+#### [独家专访肖风：加密世界的旧制度与大革命，与HashKey的新坐标](https://www.tmtpost.com/7811849.html)
+**发布时间**: 2025-12-17 11:32
+
+#### [上证50VS道琼斯：中美传统行业差距抹平，未来分野唯在科技](https://www.tmtpost.com/7811563.html)
+**发布时间**: 2025-12-17 11:22
+
+#### [量子科技2025：“深V反转”关键一跃，从“临界点”到“赛点”](https://www.tmtpost.com/7811464.html)
+**发布时间**: 2025-12-17 11:07
+
+#### [瑞士信息与通信科技公司LogicStar研发代码智能体，自主修复代码漏洞 | 瑞士创新100强](https://www.tmtpost.com/7811634.html)
+**发布时间**: 2025-12-17 10:58
+
+#### [U.S. Threatens to Use 'Every Tool' Against EU Digital Tax, Names SAP, Siemens as Potential Targets](https://www.tmtpost.com/7811730.html)
+**发布时间**: 2025-12-17 10:55
+
+#### [防治骚扰电话要感谢美国？破解FCC合规令背后的三重迷雾](https://www.tmtpost.com/7811506.html)
+**发布时间**: 2025-12-17 10:22
+
+#### [2026年，酒企依旧囿于“年轻化”](https://www.tmtpost.com/7811252.html)
+**发布时间**: 2025-12-17 10:10
+
+#### [中美芯片政策松动之际，苏姿丰带队低调访华](https://www.tmtpost.com/7811581.html)
+**发布时间**: 2025-12-17 10:07
+
+#### [Apple Reported to Expand iPhone Lineup With Seven Models, Foldable Device Debuts 2026](https://www.tmtpost.com/7811626.html)
+**发布时间**: 2025-12-17 09:44
+
+#### [中签率0.032%、网下申购超4400倍，锡华科技凭什么被抢筹？](https://www.tmtpost.com/7810576.html)
+**发布时间**: 2025-12-17 09:30
+
+#### [短剧IP极速消耗，谁是下一个内容源头](https://www.tmtpost.com/7811368.html)
+**发布时间**: 2025-12-17 09:00
+
+#### [召回近50万台充电宝后，罗马仕领百万“罚单”](https://www.tmtpost.com/7811381.html)
+**发布时间**: 2025-12-17 08:30
+
+#### [【钛晨报】中央财办有关负责同志解读2025年中央经济工作会议精神；市场监管总局回应附条件批准两家智利公司新设合营企业；事关直播电商、食品安全，这些市场监管新规将发布](https://www.tmtpost.com/7811319.html)
+**发布时间**: 2025-12-17 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [工业设计里的「打孔」简史：写在「扭扭宝」上市之初](https://sspai.com/post/104627)
+**发布时间**: 2025-12-17 11:30
+
+#### [派早报：X 重申 Twitter 商标所有权、国内首批 L3 级自动驾驶车型获批等](https://sspai.com/post/104651)
+**发布时间**: 2025-12-17 08:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS CodeCommit在遭遇强烈反对后恢复全面服务](https://www.infoq.cn/article/tzmvRrSojDgxY31juda4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 11:00
+
+#### [“芯片-OS”协同新路径：Arm与OpenCloudOS携手，Infra智能基座如何重塑算力生态？](https://www.infoq.cn/article/CVRf3us565gXXNgsp4uE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 10:54
+
+#### [国产GPU赛道又跑出一个3000亿独角兽！“中国AMD”沐曦股份完成IPO，开盘大涨600%](https://www.infoq.cn/article/Z6ccxqtXvaYK9WJMsrZX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 10:42
+
+#### [AWS Lambda 托管实例：无服务器的灵活性与 EC2 成本模型的完美结合](https://www.infoq.cn/article/iG3CS5HgoYr0DVET4LfG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 09:45
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端有限公司董事长｜极客早知道](http://www.geekpark.net/news/358098)
+**发布时间**: 2025-12-17 08:11
 
 ---
 
