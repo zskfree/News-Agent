@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 08:33:31 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 23:24:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中签率0.032%、网下申购超4400倍，锡华科技凭什么被抢筹？</title>
-      <link>https://www.tmtpost.com/7810576.html</link>
-      <description>&lt;![CDATA[中签率0.032%、网下申购超4400倍，锡华科技凭什么被抢筹？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7810576.html</guid>
+      <title>Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro</title>
+      <link>https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】中央财办有关负责同志解读2025年中央经济工作会议精神；市场监管总局回应附条件批准两家智利公司新设合营企业；事关直播电商、食品安全，这些市场监管新规将发布</title>
-      <link>https://www.tmtpost.com/7811319.html</link>
-      <description>&lt;![CDATA[【钛晨报】中央财办有关负责同志解读2025年中央经济工作会议精神；市场监管总局回应附条件批准两家智利公司新设合营企业；事关直播电商、食品安全，这些市场监管新规将发布]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811319.html</guid>
+      <title>谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”</title>
+      <link>https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“芯片-OS”协同新路径：Arm与OpenCloudOS携手，Infra智能基座如何重塑算力生态？</title>
-      <link>https://www.infoq.cn/article/CVRf3us565gXXNgsp4uE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“芯片-OS”协同新路径：Arm与OpenCloudOS携手，Infra智能基座如何重塑算力生态？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CVRf3us565gXXNgsp4uE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队</title>
+      <link>https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>LLM for AIOps：是泡沫还是银弹？智能运维的争议、破局与未来</title>
-      <link>https://www.infoq.cn/article/DbuSxKKL6id4wXLxUAIW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LLM for AIOps：是泡沫还是银弹？智能运维的争议、破局与未来]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DbuSxKKL6id4wXLxUAIW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”</title>
+      <link>https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>8个月50亿产值，非程序员用秒哒赚疯了？秒哒如何解决后端难、token贵、屎山烦</title>
-      <link>https://www.infoq.cn/article/FcV0URxuPMkZ6Hqjr1Ml?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[8个月50亿产值，非程序员用秒哒赚疯了？秒哒如何解决后端难、token贵、屎山烦]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FcV0URxuPMkZ6Hqjr1Ml?utm_source=rss&amp;utm_medium=article</guid>
+      <title>告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon</title>
+      <link>https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

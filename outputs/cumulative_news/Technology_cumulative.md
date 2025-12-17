@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-17 08:32
+**最后更新时间**: 2025-12-17 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-17 23:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro](https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 06:00
+
+#### [谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”](https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 18:40
+
+#### [罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队](https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 18:31
+
+#### [腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”](https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 18:08
+
+#### [告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon](https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 16:57
+
+#### [不再为告警“救火”：AIOps 如何重塑腾讯音乐的智能运维体系](https://www.infoq.cn/article/cXKq4I8w15fkCKXzVomO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 16:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Google Deploys Faster Gemini 3 Flash to Challenge OpenAI, Sets as Default App Model and Powers Search](https://www.tmtpost.com/7812709.html)
+**发布时间**: 2025-12-18 02:22
+
+#### [半导体十大预测，“进度条”几何？](https://www.tmtpost.com/7812464.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [AI的真命之主恐怕还是谷歌](https://www.tmtpost.com/7812392.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [Vertex掀了I型糖尿病桌子？](https://www.tmtpost.com/7811692.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [2025医疗人工智能报告：价值计量与支付探索，医疗人工智能的两个困局](https://www.tmtpost.com/7812079.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [港股2026：会否极泰来吗？](https://www.tmtpost.com/7811938.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [击穿行业天花板：马斯克的万亿商业局](https://www.tmtpost.com/7811896.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [铁锂正极公司都在“爆单”，这家全球NO.1的龙头为何“失语”？](https://www.tmtpost.com/7811588.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [CoreWeave：英伟达“干儿子”真能子凭父贵？](https://www.tmtpost.com/7811850.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [“00”后成二手交易主力，理性消费时代的重要信号](https://www.tmtpost.com/7811621.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [女性向+奇幻题材+热血+非遗，没有情爱CP后的女频短剧，还能怎么融合？](https://www.tmtpost.com/7808864.html)
+**发布时间**: 2025-12-17 20:03
+
+#### [单价5元起、200+SKU，火锅巨头开了家“海鲜大排档”](https://www.tmtpost.com/7812155.html)
+**发布时间**: 2025-12-17 19:01
+
+#### [杠杆松绑，券商股的逻辑变了？](https://www.tmtpost.com/7811648.html)
+**发布时间**: 2025-12-17 18:42
+
+#### [前首富的新传奇：陈天桥亲自下场“复刻人脑”](https://www.tmtpost.com/7811657.html)
+**发布时间**: 2025-12-17 18:42
+
+#### [人工智能抽干资本市场](https://www.tmtpost.com/7811895.html)
+**发布时间**: 2025-12-17 18:42
+
+#### [剧集公司2025：“六大”变天，“新王”险胜](https://www.tmtpost.com/7811939.html)
+**发布时间**: 2025-12-17 18:42
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [腾讯大模型「变阵」：成立 AI Infra 部，姚顺雨出任首席 AI 科学家](http://www.geekpark.net/news/358147)
+**发布时间**: 2025-12-17 19:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [时间、项目双维度，打造真正有用的工作笔记](https://sspai.com/post/103960)
+**发布时间**: 2025-12-17 17:41
+
+#### [具透：微软改名部上线，Homebrew 弃用实用选项引起争议](https://sspai.com/prime/story/inside-release-notes-251217)
+**发布时间**: 2025-12-17 16:27
 
 ---
 

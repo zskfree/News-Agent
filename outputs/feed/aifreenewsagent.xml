@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 08:33:19 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 23:23:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-15</link>
-      <description>&lt;![CDATA[爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-15</guid>
+      <title>OpenAI发布专家级科学能力评估基准FrontierScience，Gemini 3 Pro与GPT‑5.2表现相当</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-10</link>
+      <description>&lt;![CDATA[OpenAI发布专家级科学能力评估基准FrontierScience，Gemini 3 Pro与GPT‑5.2表现相当]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>硬刚Sora2，万相2.6轻松定制角色、控制分镜，普通人也能当导演</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-14</link>
-      <description>&lt;![CDATA[硬刚Sora2，万相2.6轻松定制角色、控制分镜，普通人也能当导演]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-14</guid>
+      <title>官宣！姚顺雨出任腾讯首席AI科学家，带队大语言模型、AI Infra</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-17</link>
+      <description>&lt;![CDATA[官宣！姚顺雨出任腾讯首席AI科学家，带队大语言模型、AI Infra]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-17</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-13</link>
-      <description>&lt;![CDATA[人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 14:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-13</guid>
+      <title>分割一切、3D重建一切还不够，Meta开源SAM Audio分割一切声音</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17-16</link>
+      <description>&lt;![CDATA[分割一切、3D重建一切还不够，Meta开源SAM Audio分割一切声音]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-16</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>欢迎申请、提名和转发！第二届Wiley新锐科学家奖开放申请</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-12</link>
-      <description>&lt;![CDATA[欢迎申请、提名和转发！第二届Wiley新锐科学家奖开放申请]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-12</guid>
+      <title>大模型的进化方向：Words to Worlds | 对话商汤林达华</title>
+      <link>https://www.qbitai.com/2025/12/361575.html</link>
+      <description>&lt;![CDATA[大模型的进化方向：Words to Worlds | 对话商汤林达华]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361575.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SIGGRAPH Asia 2025：摩尔线程赢图形顶会3DGS挑战赛大奖，自研LiteGS全面开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-11</link>
-      <description>&lt;![CDATA[SIGGRAPH Asia 2025：摩尔线程赢图形顶会3DGS挑战赛大奖，自研LiteGS全面开源]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-11</guid>
+      <title>浙大联手字节：开源大规模指令跟随视频编辑数据集OpenVE-3M</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-17</link>
+      <description>&lt;![CDATA[浙大联手字节：开源大规模指令跟随视频编辑数据集OpenVE-3M]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17</guid>
       <category>Ai</category>
     </item>
   </channel>

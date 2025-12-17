@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 08:32:59 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 23:23:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK inflation falls more than expected to 3.2% in November</title>
-      <link>https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a</link>
-      <description>&lt;![CDATA[UK inflation falls more than expected to 3.2% in November]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a</guid>
+      <title>Open source could pop the AI bubble — and soon</title>
+      <link>https://www.ft.com/content/353adf48-a5d6-4ea0-b5d7-9a94b141213a</link>
+      <description>&lt;![CDATA[Open source could pop the AI bubble — and soon]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/353adf48-a5d6-4ea0-b5d7-9a94b141213a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US tech stocks slide as Oracle data centre setback reignites AI concerns</title>
+      <link>https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7</link>
+      <description>&lt;![CDATA[US tech stocks slide as Oracle data centre setback reignites AI concerns]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>It’s been illegal to make women have a man co-sign their loans since the ’70s. Now the Trump administration could change that.</title>
+      <link>https://www.marketwatch.com/story/its-been-illegal-to-make-women-have-a-man-co-sign-their-loans-since-the-70s-now-the-trump-administration-could-change-that-307521b2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[It’s been illegal to make women have a man co-sign their loans since the ’70s. Now the Trump administration could change that.]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 22:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/its-been-illegal-to-make-women-have-a-man-co-sign-their-loans-since-the-70s-now-the-trump-administration-could-change-that-307521b2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Slowing inflation fuels concerns about a cooling UK economy</title>
+      <link>https://www.ft.com/content/b45f3009-a12c-4a6f-8b26-727202618917</link>
+      <description>&lt;![CDATA[Slowing inflation fuels concerns about a cooling UK economy]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b45f3009-a12c-4a6f-8b26-727202618917</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This chart captures Tesla’s EV sales woes — and things are about to get worse</title>
+      <link>https://www.marketwatch.com/story/this-chart-captures-teslas-ev-sales-woes-and-things-are-about-to-get-worse-09f1edd4?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This chart captures Tesla’s EV sales woes — and things are about to get worse]]&gt;</description>
+      <pubDate>Wed, 17 Dec 2025 23:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-chart-captures-teslas-ev-sales-woes-and-things-are-about-to-get-worse-09f1edd4?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
