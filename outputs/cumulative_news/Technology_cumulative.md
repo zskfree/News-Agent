@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-17 23:22
+**最后更新时间**: 2025-12-18 05:29
+
+---
+
+## 🆕 最新更新 (2025-12-18 05:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [低空经济2025：热潮、泡沫与真价值的博弈](https://www.tmtpost.com/7812660.html)
+**发布时间**: 2025-12-18 12:53
+
+#### [林清轩叩响港股大门，珀莱雅增速放缓，国货美妆品牌“分化”](https://www.tmtpost.com/7813034.html)
+**发布时间**: 2025-12-18 12:48
+
+#### [抖音“偷袭”支付宝](https://www.tmtpost.com/7812604.html)
+**发布时间**: 2025-12-18 12:46
+
+#### [年轻人不爱逛华润万家了？](https://www.tmtpost.com/7812526.html)
+**发布时间**: 2025-12-18 12:42
+
+#### [全岛封关，新海南来了](https://www.tmtpost.com/7811852.html)
+**发布时间**: 2025-12-18 12:41
+
+#### [海南封关不是“全都零关税”，但品牌现在就该行动](https://www.tmtpost.com/7813048.html)
+**发布时间**: 2025-12-18 12:40
+
+#### [扫地机鼻祖，一场出海大败局](https://www.tmtpost.com/7813117.html)
+**发布时间**: 2025-12-18 12:40
+
+#### [战略还是组织，二选一？](https://www.tmtpost.com/7812925.html)
+**发布时间**: 2025-12-18 12:30
+
+#### [企业级AI架构的工程化落地](https://www.tmtpost.com/7812978.html)
+**发布时间**: 2025-12-18 12:30
+
+#### [蚂蚁想要一个AI超级入口，可以跟支付宝无关](https://www.tmtpost.com/7813019.html)
+**发布时间**: 2025-12-18 12:30
+
+#### [用3D打印机搞副业，包赚的？](https://www.tmtpost.com/7812982.html)
+**发布时间**: 2025-12-18 12:30
+
+#### [美光MU：AI点燃存力，存储大周期启幕？](https://www.tmtpost.com/7812976.html)
+**发布时间**: 2025-12-18 12:29
+
+#### [降本增效喊了好多年，为啥很多酒店还是不赚钱?](https://www.tmtpost.com/7812843.html)
+**发布时间**: 2025-12-18 12:11
+
+#### [2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局](https://www.tmtpost.com/7812863.html)
+**发布时间**: 2025-12-18 12:11
+
+#### [Z世代“收割机”！新国标洗牌期，雅迪凭啥让年轻人持续“上头”？](https://www.tmtpost.com/7812514.html)
+**发布时间**: 2025-12-18 12:08
+
+#### [拟用28亿公积金补亏，5500亿“寒王”想分红？](https://www.tmtpost.com/7812603.html)
+**发布时间**: 2025-12-18 12:00
+
+#### [明星科技股两大创始人，锒铛入狱](https://www.tmtpost.com/7812615.html)
+**发布时间**: 2025-12-18 12:00
+
+#### [时代难倒运动品牌CEO](https://www.tmtpost.com/7812646.html)
+**发布时间**: 2025-12-18 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「速度猎人」成就指南：探寻驾驶之外的形形色色](https://sspai.com/post/104686)
+**发布时间**: 2025-12-18 11:40
+
+#### [派早报：小米发布 MiMo-V2-Flash 模型、FIFA 将推出新游戏等](https://sspai.com/post/104678)
+**发布时间**: 2025-12-18 08:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [可信赖的生产力：保障AI加速开发的安全](https://www.infoq.cn/article/HJvbyy31tAphigte8lct?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 11:30
+
+#### [筑基 AI 战略：从数据采集到 AI 就绪的数据工程变革](https://www.infoq.cn/article/xrUR8chqlufc4DbJ43FR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 11:28
+
+#### [赋能开发者：Snowflake 如何实现 AI 规模化影响力](https://www.infoq.cn/article/WFeDzzrxsJd9qOEOu9sl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 11:28
+
+#### [构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览](https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 11:27
+
+#### [打破孤岛：Netflix推出Upper元模型实现内容工程一致性](https://www.infoq.cn/article/vWvl2cJwD62P6KW1qg5f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 10:30
+
+#### [微软推出兼容Postgres的Azure HorizonDB](https://www.infoq.cn/article/ac96XrpwYH9pG3FbPdx9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 09:53
+
+#### [Agentic Postgres：为智能体应用而生的 Postgres，支持快速分叉与 AI 就绪能力](https://www.infoq.cn/article/EcYFuPVq0EJKYBjW6N3a?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 09:34
+
+#### [昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro](https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 06:00
+
+#### [智算，云厂商的下一个战场](https://www.infoq.cn/article/UNQMIgdoSgB3Ql1553Kt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 20:22
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道](http://www.geekpark.net/news/358151)
+**发布时间**: 2025-12-18 08:51
 
 ---
 

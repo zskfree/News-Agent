@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 23:23:32 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 05:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 05:30:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI发布专家级科学能力评估基准FrontierScience，Gemini 3 Pro与GPT‑5.2表现相当</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-10</link>
-      <description>&lt;![CDATA[OpenAI发布专家级科学能力评估基准FrontierScience，Gemini 3 Pro与GPT‑5.2表现相当]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-10</guid>
+      <title>OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18-3</link>
+      <description>&lt;![CDATA[OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>官宣！姚顺雨出任腾讯首席AI科学家，带队大语言模型、AI Infra</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-17</link>
-      <description>&lt;![CDATA[官宣！姚顺雨出任腾讯首席AI科学家，带队大语言模型、AI Infra]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 17:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-17</guid>
+      <title>刚刚，让谷歌翻身的Gemini 3，上线Flash版</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18-2</link>
+      <description>&lt;![CDATA[刚刚，让谷歌翻身的Gemini 3，上线Flash版]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>分割一切、3D重建一切还不够，Meta开源SAM Audio分割一切声音</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17-16</link>
-      <description>&lt;![CDATA[分割一切、3D重建一切还不够，Meta开源SAM Audio分割一切声音]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 17:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17-16</guid>
+      <title>比LoRA更快更强，全新框架LoFA上线，秒级适配大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18</link>
+      <description>&lt;![CDATA[比LoRA更快更强，全新框架LoFA上线，秒级适配大模型]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型的进化方向：Words to Worlds | 对话商汤林达华</title>
-      <link>https://www.qbitai.com/2025/12/361575.html</link>
-      <description>&lt;![CDATA[大模型的进化方向：Words to Worlds | 对话商汤林达华]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361575.html</guid>
+      <title>ISC.AI 2025创新百强颁奖典礼落幕，首发智能体专家驱动产业升级</title>
+      <link>https://www.qbitai.com/2025/12/361631.html</link>
+      <description>&lt;![CDATA[ISC.AI 2025创新百强颁奖典礼落幕，首发智能体专家驱动产业升级]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 03:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361631.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>浙大联手字节：开源大规模指令跟随视频编辑数据集OpenVE-3M</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-17</link>
-      <description>&lt;![CDATA[浙大联手字节：开源大规模指令跟随视频编辑数据集OpenVE-3M]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-17</guid>
+      <title>小米大模型“杀”进第一梯队：代码能力开源第一，智商情商全在线</title>
+      <link>https://www.qbitai.com/2025/12/361601.html</link>
+      <description>&lt;![CDATA[小米大模型“杀”进第一梯队：代码能力开源第一，智商情商全在线]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 00:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361601.html</guid>
       <category>Ai</category>
     </item>
   </channel>
