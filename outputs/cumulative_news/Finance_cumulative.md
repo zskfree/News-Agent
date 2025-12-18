@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 05:29
+**最后更新时间**: 2025-12-18 08:37
+
+---
+
+## 🆕 最新更新 (2025-12-18 08:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU leaders vow to agree funding for Ukraine](https://www.ft.com/content/59ae380c-0eec-4edd-a1a0-92ae776af9f1)
+**发布时间**: 2025-12-18 08:23
+
+#### [BP replaces CEO Murray Auchincloss after less than two years](https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66)
+**发布时间**: 2025-12-18 08:04
+
+#### [US approves $11bn arms sale to Taiwan](https://www.ft.com/content/feda40da-5297-43f8-80a0-a5252e6bc89e)
+**发布时间**: 2025-12-18 07:57
+
+#### [Can Venezuela’s Maduro survive Trump’s oil blockade?](https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c)
+**发布时间**: 2025-12-18 06:14
+
+#### [Trump defends record on economy in combative address](https://www.ft.com/content/adb74c0d-0df5-4ce7-9d2f-ad4a2dd65ff3)
+**发布时间**: 2025-12-18 05:10
+
+#### [How a Swiss compromise could save UBS billions](https://www.ft.com/content/b39565bf-2064-4c91-9893-400c53b93c60)
+**发布时间**: 2025-12-18 05:00
+
+#### [Putin’s retaliation threat over frozen assets rattles EU capitals](https://www.ft.com/content/616d7c24-fbb6-4830-aa6c-77d362b5fddb)
+**发布时间**: 2025-12-18 05:00
+
+#### [Elliott gears up to list Barnes & Noble and Waterstones in London or US](https://www.ft.com/content/3429297f-f565-454f-b0d8-a1e8e1a54d06)
+**发布时间**: 2025-12-18 05:00
+
+#### [Carmakers sour on EU’s ‘disastrous’ petrol engine rule changes](https://www.ft.com/content/52655de0-4a3e-480e-8399-86ac86de9cea)
+**发布时间**: 2025-12-18 05:00
 
 ---
 

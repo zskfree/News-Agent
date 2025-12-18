@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 05:30:40 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 08:37:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18-3</link>
-      <description>&lt;![CDATA[OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-3</guid>
+      <title>腾讯调整大模型组织架构：姚顺雨加盟，向总裁刘炽平汇报</title>
+      <link>https://www.qbitai.com/2025/12/361841.html</link>
+      <description>&lt;![CDATA[腾讯调整大模型组织架构：姚顺雨加盟，向总裁刘炽平汇报]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361841.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，让谷歌翻身的Gemini 3，上线Flash版</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18-2</link>
-      <description>&lt;![CDATA[刚刚，让谷歌翻身的Gemini 3，上线Flash版]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-2</guid>
+      <title>“特斯拉延期交付机器人是卡在灵巧手上，中国灵巧手遥遥领先”| 灵心巧手@MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/361803.html</link>
+      <description>&lt;![CDATA[“特斯拉延期交付机器人是卡在灵巧手上，中国灵巧手遥遥领先”| 灵心巧手@MEET2026]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 06:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361803.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>比LoRA更快更强，全新框架LoFA上线，秒级适配大模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18</link>
-      <description>&lt;![CDATA[比LoRA更快更强，全新框架LoFA上线，秒级适配大模型]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18</guid>
+      <title>具身智能的数据难题，终于有了可规模化的解法</title>
+      <link>https://www.qbitai.com/2025/12/361743.html</link>
+      <description>&lt;![CDATA[具身智能的数据难题，终于有了可规模化的解法]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361743.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ISC.AI 2025创新百强颁奖典礼落幕，首发智能体专家驱动产业升级</title>
-      <link>https://www.qbitai.com/2025/12/361631.html</link>
-      <description>&lt;![CDATA[ISC.AI 2025创新百强颁奖典礼落幕，首发智能体专家驱动产业升级]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 03:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361631.html</guid>
+      <title>医生版ChatGPT，估值120亿美元</title>
+      <link>https://www.qbitai.com/2025/12/361726.html</link>
+      <description>&lt;![CDATA[医生版ChatGPT，估值120亿美元]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 05:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361726.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小米大模型“杀”进第一梯队：代码能力开源第一，智商情商全在线</title>
-      <link>https://www.qbitai.com/2025/12/361601.html</link>
-      <description>&lt;![CDATA[小米大模型“杀”进第一梯队：代码能力开源第一，智商情商全在线]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 00:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361601.html</guid>
+      <title>2025-12-18日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-18/</link>
+      <description>&lt;![CDATA[2025-12-18日刊]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-18/</guid>
       <category>Ai</category>
     </item>
   </channel>

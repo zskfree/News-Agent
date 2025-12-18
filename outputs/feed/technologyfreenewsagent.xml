@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Dec 2025 05:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 05:31:28 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 08:37:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 08:37:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览</title>
-      <link>https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro</title>
+      <link>https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>明星科技股两大创始人，锒铛入狱</title>
-      <link>https://www.tmtpost.com/7812615.html</link>
-      <description>&lt;![CDATA[明星科技股两大创始人，锒铛入狱]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812615.html</guid>
+      <title>数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式</title>
+      <link>https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：小米发布 MiMo-V2-Flash 模型、FIFA 将推出新游戏等</title>
-      <link>https://sspai.com/post/104678</link>
-      <description>&lt;![CDATA[派早报：小米发布 MiMo-V2-Flash 模型、FIFA 将推出新游戏等]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/104678</guid>
+      <title>2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局</title>
+      <link>https://www.tmtpost.com/7812863.html</link>
+      <description>&lt;![CDATA[2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812863.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>低空经济2025：热潮、泡沫与真价值的博弈</title>
-      <link>https://www.tmtpost.com/7812660.html</link>
-      <description>&lt;![CDATA[低空经济2025：热潮、泡沫与真价值的博弈]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 12:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812660.html</guid>
+      <title>Meta的React Compiler 1.0将自动记忆化引入到生产环境</title>
+      <link>https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta的React Compiler 1.0将自动记忆化引入到生产环境]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>林清轩叩响港股大门，珀莱雅增速放缓，国货美妆品牌“分化”</title>
-      <link>https://www.tmtpost.com/7813034.html</link>
-      <description>&lt;![CDATA[林清轩叩响港股大门，珀莱雅增速放缓，国货美妆品牌“分化”]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7813034.html</guid>
+      <title>人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2</title>
+      <link>http://www.geekpark.net/news/358189</link>
+      <description>&lt;![CDATA[人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/358189</guid>
       <category>Technology</category>
     </item>
   </channel>
