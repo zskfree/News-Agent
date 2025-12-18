@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 08:37
+**最后更新时间**: 2025-12-18 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-18 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Superintelligence Set to Disrupt the Job Market, Says Chinese AI Expert](https://www.tmtpost.com/7814023.html)
+**发布时间**: 2025-12-19 00:59
+
+#### [这3只股票技术面看涨，投资者可予以关注](https://www.tmtpost.com/7813907.html)
+**发布时间**: 2025-12-18 21:25
+
+#### [半导体设备巨头出手，拟购买杭州众硅控股权；银星能源收购天净神州50%股权【并购一线】](https://www.tmtpost.com/7813878.html)
+**发布时间**: 2025-12-18 20:53
+
+#### [AI 上车，教练下车？驾校这门老生意变天了](https://www.tmtpost.com/7813286.html)
+**发布时间**: 2025-12-18 20:08
+
+#### [持仓10年浮亏超10亿，华谊兄弟“坑惨”阿里创投](https://www.tmtpost.com/7813823.html)
+**发布时间**: 2025-12-18 20:04
+
+#### [咖啡行业的“补贴病”，要怎么治？](https://www.tmtpost.com/7813582.html)
+**发布时间**: 2025-12-18 18:02
+
+#### [临港新片区押注“超级个体”，打造中国版“数字游民创业城”](https://www.tmtpost.com/7813652.html)
+**发布时间**: 2025-12-18 17:50
+
+#### [前OpenAI姚顺雨入职腾讯的官宣里，藏着哪些信息](https://www.tmtpost.com/7813516.html)
+**发布时间**: 2025-12-18 17:45
+
+#### [“在逃刘亦菲”们，已经不逛女装区](https://www.tmtpost.com/7813558.html)
+**发布时间**: 2025-12-18 17:45
+
+#### [CES 2026钛媒体C位登场，邀你加入AI产业化元年的中国创新全球秀](https://www.tmtpost.com/7813250.html)
+**发布时间**: 2025-12-18 17:38
+
+#### [关税催生多市场布局，跨境生态迈入“全球一盘棋”时代 ｜ 出海参考](https://www.tmtpost.com/7813532.html)
+**发布时间**: 2025-12-18 17:33
+
+#### [AI Emerges as a Key Accelerator in the Global Race for Longevity Breakthroughs, Say Industry Experts](https://www.tmtpost.com/7813608.html)
+**发布时间**: 2025-12-18 17:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [豆包50万亿Token背后，火山引擎全面转向Agent落地](https://www.infoq.cn/article/x9LH3s9HG77m2HiyvJvv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 20:04
+
+#### [来，和模力工场一起亮相 AI 闪耀中国！](https://www.infoq.cn/article/G0SSQ5R7jb0UqaOectys?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 18:45
+
+#### [豆包 1.8 多模态超越谷歌Gemini 3！字节祭出“推理代工”，要做模型届的英特尔？](https://www.infoq.cn/article/NUxeuOtzgAk0WHz9Rzsf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 18:00
+
+#### [来，和模力工场一起亮相中国智能硬件开年第一展](https://www.infoq.cn/article/sRliTUWSET0XPloM1rjP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 16:53
+
+#### [员工吐槽“给 AI 擦屁股”更辛苦？揭秘企业 AI 提效的“悖论”与真拐点](https://www.infoq.cn/article/McNg0VYLQ7FlbKIZeZVy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 16:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [九天无人机为什么叫“九天”？](http://www.huxiu.com/article/4817728.html?f=wangzhan)
+**发布时间**: 2025-12-18 20:00
+
+#### [呼风唤雨，战无不胜，神秘的游资是如何在市场上狩猎的？](http://www.huxiu.com/article/4818560.html?f=wangzhan)
+**发布时间**: 2025-12-18 17:00
+
+#### [一条视频讲透海南封关意味着什么？有哪些机会可抓？](http://www.huxiu.com/article/4818365.html?f=wangzhan)
+**发布时间**: 2025-12-18 11:25
+
+#### [近700家喜茶门店关闭，新茶饮行业再迎大逃杀](http://www.huxiu.com/article/4818190.html?f=wangzhan)
+**发布时间**: 2025-12-18 10:30
+
+#### [网飞秘史](http://www.huxiu.com/article/4818282.html?f=wangzhan)
+**发布时间**: 2025-12-17 19:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 230｜少数派的编辑们最近买了啥？](https://sspai.com/post/104706)
+**发布时间**: 2025-12-18 17:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [火山引擎的「火」，是怎么点起来的](http://www.geekpark.net/news/358192)
+**发布时间**: 2025-12-18 16:48
+
+#### [IF 2026 最大「黑马」：钢铁侠故事背后的温度和创新](http://www.geekpark.net/news/358191)
+**发布时间**: 2025-12-18 16:33
 
 ---
 

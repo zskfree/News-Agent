@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Dec 2025 08:37:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 08:37:05 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 23:22:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>EU leaders vow to agree funding for Ukraine</title>
-      <link>https://www.ft.com/content/59ae380c-0eec-4edd-a1a0-92ae776af9f1</link>
-      <description>&lt;![CDATA[EU leaders vow to agree funding for Ukraine]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/59ae380c-0eec-4edd-a1a0-92ae776af9f1</guid>
+      <title>BoE cuts rates by quarter point to 3.75%</title>
+      <link>https://www.ft.com/content/717c3ac9-c750-41bc-b74a-163ae1c5b103</link>
+      <description>&lt;![CDATA[BoE cuts rates by quarter point to 3.75%]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/717c3ac9-c750-41bc-b74a-163ae1c5b103</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>BP replaces CEO Murray Auchincloss after less than two years</title>
-      <link>https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66</link>
-      <description>&lt;![CDATA[BP replaces CEO Murray Auchincloss after less than two years]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66</guid>
+      <title>Economists warn of flaws in US inflation report</title>
+      <link>https://www.ft.com/content/bee83769-fa41-4d18-9dc2-4a46130c72a8</link>
+      <description>&lt;![CDATA[Economists warn of flaws in US inflation report]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 21:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/bee83769-fa41-4d18-9dc2-4a46130c72a8</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>US approves $11bn arms sale to Taiwan</title>
-      <link>https://www.ft.com/content/feda40da-5297-43f8-80a0-a5252e6bc89e</link>
-      <description>&lt;![CDATA[US approves $11bn arms sale to Taiwan]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/feda40da-5297-43f8-80a0-a5252e6bc89e</guid>
+      <title>Marijuana stocks sell off as Trump signs executive order to reclassify cannabis</title>
+      <link>https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Marijuana stocks sell off as Trump signs executive order to reclassify cannabis]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Can Venezuela’s Maduro survive Trump’s oil blockade?</title>
-      <link>https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c</link>
-      <description>&lt;![CDATA[Can Venezuela’s Maduro survive Trump’s oil blockade?]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 06:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c</guid>
+      <title>Nvidia and other chip stocks rise — but that doesn’t mean the AI trade is back for good</title>
+      <link>https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nvidia and other chip stocks rise — but that doesn’t mean the AI trade is back for good]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>FedEx calls for more profit this year as this key business turns around</title>
+      <link>https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[FedEx calls for more profit this year as this key business turns around]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

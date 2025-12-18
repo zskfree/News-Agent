@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 08:37
+**最后更新时间**: 2025-12-18 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-18 23:21)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My mother ghosted me after my father died. Is she stealing his money?](https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 23:03
+
+#### [‘He never asks for anything’: I’m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?](https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 23:00
+
+#### [‘I’m terrified I’ll be homeless when my husband, 76, stops working’: We only have $100K. What happens to people like us?](https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 22:30
+
+#### [‘I don’t know how much my wife earns’: I’m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?](https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 22:00
+
+#### [FedEx calls for more profit this year as this key business turns around](https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 21:55
+
+#### [Airfares fell more than 5% in November — but will the deals last?](https://www.marketwatch.com/story/airfares-fell-more-than-5-in-november-but-will-the-deals-last-2521874f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 21:54
+
+#### [Nvidia and other chip stocks rise — but that doesn’t mean the AI trade is back for good](https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 21:51
+
+#### [Nike says turnaround plans are ‘in the middle innings,’ but investor worries remain](https://www.marketwatch.com/story/nike-says-turnaround-plans-are-in-the-middle-innings-but-investor-worries-remain-6097292b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 21:45
+
+#### [Marijuana stocks sell off as Trump signs executive order to reclassify cannabis](https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 21:20
+
+#### [How investors can take advantage of a quirky midterm election cycle](https://www.marketwatch.com/story/how-investors-can-take-advantage-of-a-quirky-midterm-election-cycle-74fe451f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 20:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bill Gates and Sergey Brin among newly released Epstein photos](https://www.ft.com/content/96d65675-f4c2-4b70-aede-2e77a8648fe8)
+**发布时间**: 2025-12-18 21:10
+
+#### [Economists warn of flaws in US inflation report](https://www.ft.com/content/bee83769-fa41-4d18-9dc2-4a46130c72a8)
+**发布时间**: 2025-12-18 21:03
+
+#### [How BP’s ‘sharp-elbowed’ chair lost patience with its chief executive](https://www.ft.com/content/6c577243-a0d6-4c55-a004-d44b5c441adb)
+**发布时间**: 2025-12-18 18:46
+
+#### [Christian Turner to be new UK ambassador to US](https://www.ft.com/content/f4b9139a-7985-4577-97bb-34347760654c)
+**发布时间**: 2025-12-18 17:48
+
+#### [Law firms Hogan Lovells and Cadwalader set to merge in record $3.6bn deal](https://www.ft.com/content/c3953a97-027b-4c99-bc4d-4a816e4dbac5)
+**发布时间**: 2025-12-18 16:28
+
+#### [Lenders set to lower UK mortgage rates in early 2026](https://www.ft.com/content/e3c7ac40-1f0b-4dac-b6f1-e6fd2aaa6c94)
+**发布时间**: 2025-12-18 15:53
+
+#### [BoE cuts rates by quarter point to 3.75%](https://www.ft.com/content/717c3ac9-c750-41bc-b74a-163ae1c5b103)
+**发布时间**: 2025-12-18 14:19
+
+#### [The hard politics of climate overshoot](https://www.ft.com/content/45a3c78b-adf6-4bde-804d-6a7b8a549e7e)
+**发布时间**: 2025-12-18 14:00
+
+#### [Food production no longer profitable for English farms, says review](https://www.ft.com/content/cd2a25cf-2834-4c96-a92f-0f593ee18d3e)
+**发布时间**: 2025-12-18 12:08
+
+#### [The myth of the imminent Conservative revival](https://www.ft.com/content/d79f6100-10f8-4f85-a6f1-7d622b9c008a)
+**发布时间**: 2025-12-18 11:46
 
 ---
 

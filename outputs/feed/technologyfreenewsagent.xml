@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Dec 2025 08:37:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 08:37:55 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 23:22:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro</title>
-      <link>https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包 1.8 多模态超越谷歌Gemini 3！字节祭出“推理代工”，要做模型届的英特尔？</title>
+      <link>https://www.infoq.cn/article/NUxeuOtzgAk0WHz9Rzsf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[豆包 1.8 多模态超越谷歌Gemini 3！字节祭出“推理代工”，要做模型届的英特尔？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NUxeuOtzgAk0WHz9Rzsf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式</title>
-      <link>https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI Said to Explore Funding Round of Up to $100 billion at $750 Billion Valuation</title>
+      <link>https://www.tmtpost.com/7813253.html</link>
+      <description>&lt;![CDATA[OpenAI Said to Explore Funding Round of Up to $100 billion at $750 Billion Valuation]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 13:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813253.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局</title>
-      <link>https://www.tmtpost.com/7812863.html</link>
-      <description>&lt;![CDATA[2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812863.html</guid>
+      <title>AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视</title>
+      <link>https://www.tmtpost.com/7813373.html</link>
+      <description>&lt;![CDATA[AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813373.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta的React Compiler 1.0将自动记忆化引入到生产环境</title>
-      <link>https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta的React Compiler 1.0将自动记忆化引入到生产环境]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Superintelligence Set to Disrupt the Job Market, Says Chinese AI Expert</title>
+      <link>https://www.tmtpost.com/7814023.html</link>
+      <description>&lt;![CDATA[Superintelligence Set to Disrupt the Job Market, Says Chinese AI Expert]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 00:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7814023.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2</title>
-      <link>http://www.geekpark.net/news/358189</link>
-      <description>&lt;![CDATA[人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/358189</guid>
+      <title>AI Emerges as a Key Accelerator in the Global Race for Longevity Breakthroughs, Say Industry Experts</title>
+      <link>https://www.tmtpost.com/7813608.html</link>
+      <description>&lt;![CDATA[AI Emerges as a Key Accelerator in the Global Race for Longevity Breakthroughs, Say Industry Experts]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813608.html</guid>
       <category>Technology</category>
     </item>
   </channel>

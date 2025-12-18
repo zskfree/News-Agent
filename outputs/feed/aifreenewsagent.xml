@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 08:37:06 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 23:22:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯调整大模型组织架构：姚顺雨加盟，向总裁刘炽平汇报</title>
-      <link>https://www.qbitai.com/2025/12/361841.html</link>
-      <description>&lt;![CDATA[腾讯调整大模型组织架构：姚顺雨加盟，向总裁刘炽平汇报]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 07:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361841.html</guid>
+      <title>北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18-4</link>
+      <description>&lt;![CDATA[北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“特斯拉延期交付机器人是卡在灵巧手上，中国灵巧手遥遥领先”| 灵心巧手@MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/361803.html</link>
-      <description>&lt;![CDATA[“特斯拉延期交付机器人是卡在灵巧手上，中国灵巧手遥遥领先”| 灵心巧手@MEET2026]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 06:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361803.html</guid>
+      <title>与Physical Intelligence同日发声：深度机智亮出「情境数采」杀手锏，具身智能的通用性天花板要被捅破了？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18-7</link>
+      <description>&lt;![CDATA[与Physical Intelligence同日发声：深度机智亮出「情境数采」杀手锏，具身智能的通用性天花板要被捅破了？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身智能的数据难题，终于有了可规模化的解法</title>
-      <link>https://www.qbitai.com/2025/12/361743.html</link>
-      <description>&lt;![CDATA[具身智能的数据难题，终于有了可规模化的解法]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361743.html</guid>
+      <title>150分钟，有关AGI的一切，柴天佑院士、何小鹏给出答案</title>
+      <link>https://www.qbitai.com/2025/12/361745.html</link>
+      <description>&lt;![CDATA[150分钟，有关AGI的一切，柴天佑院士、何小鹏给出答案]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361745.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>医生版ChatGPT，估值120亿美元</title>
-      <link>https://www.qbitai.com/2025/12/361726.html</link>
-      <description>&lt;![CDATA[医生版ChatGPT，估值120亿美元]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 05:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361726.html</guid>
+      <title>SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18-6</link>
+      <description>&lt;![CDATA[SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2025-12-18日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-18/</link>
-      <description>&lt;![CDATA[2025-12-18日刊]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-18/</guid>
+      <title>告别抽卡！一手实测字节刚放出的视频模型Seedance 1.5 pro</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-18-5</link>
+      <description>&lt;![CDATA[告别抽卡！一手实测字节刚放出的视频模型Seedance 1.5 pro]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-5</guid>
       <category>Ai</category>
     </item>
   </channel>
