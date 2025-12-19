@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 08:32:27 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 23:25:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 23:26:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Visual Studio 2026正式发布，带来AI原生IDE和提升性能</title>
-      <link>https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Visual Studio 2026正式发布，带来AI原生IDE和提升性能]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&amp;utm_medium=article</guid>
+      <title>周受资内部信曝TikTok美国方案：字节保留算法、电商、广告，新合资公司负责安全</title>
+      <link>https://www.tmtpost.com/7814422.html</link>
+      <description>&lt;![CDATA[周受资内部信曝TikTok美国方案：字节保留算法、电商、广告，新合资公司负责安全]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7814422.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出用于开发AI眼镜应用的新工具和库</title>
-      <link>https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出用于开发AI眼镜应用的新工具和库]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>又一款英伟达 Blackwell GPU 全面上市，本地跑通复杂AI工作流</title>
+      <link>https://www.infoq.cn/article/iVRu0PlPqXf2HRJrCCgz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[又一款英伟达 Blackwell GPU 全面上市，本地跑通复杂AI工作流]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 20:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iVRu0PlPqXf2HRJrCCgz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%</title>
-      <link>https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包大模型日均token用量破50万亿后，火山引擎将主战场押注Agent</title>
+      <link>https://www.tmtpost.com/7814792.html</link>
+      <description>&lt;![CDATA[豆包大模型日均token用量破50万亿后，火山引擎将主战场押注Agent]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7814792.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录</title>
-      <link>http://www.geekpark.net/news/358210</link>
-      <description>&lt;![CDATA[OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/358210</guid>
+      <title>派早报：Apple 在日本调整 App Store 与 iOS 规则等</title>
+      <link>https://sspai.com/post/104721</link>
+      <description>&lt;![CDATA[派早报：Apple 在日本调整 App Store 与 iOS 规则等]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104721</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L3级自动驾驶落地，双手离开方向盘也能开车？</title>
-      <link>http://www.huxiu.com/article/4818896.html?f=wangzhan</link>
-      <description>&lt;![CDATA[L3级自动驾驶落地，双手离开方向盘也能开车？]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4818896.html?f=wangzhan</guid>
+      <title>银河通用200亿估值背后：为什么&quot;不那么复杂&quot;的场景反而能赢？</title>
+      <link>https://www.tmtpost.com/7815491.html</link>
+      <description>&lt;![CDATA[银河通用200亿估值背后：为什么&quot;不那么复杂&quot;的场景反而能赢？]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 23:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7815491.html</guid>
       <category>Technology</category>
     </item>
   </channel>

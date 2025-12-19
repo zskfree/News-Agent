@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 08:32:04 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 23:26:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI最强代码模型GPT-5.2-Codex上线</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-3</link>
-      <description>&lt;![CDATA[OpenAI最强代码模型GPT-5.2-Codex上线]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-3</guid>
+      <title>火线解析智谱AI招股书：年营收3亿增速130%，率先冲刺全球大模型第一股</title>
+      <link>https://www.qbitai.com/2025/12/362256.html</link>
+      <description>&lt;![CDATA[火线解析智谱AI招股书：年营收3亿增速130%，率先冲刺全球大模型第一股]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362256.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-9</link>
-      <description>&lt;![CDATA[Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-9</guid>
+      <title>大模型「越想越错」？人大&amp;腾讯团队用信息论揭示：什么时候该想、什么时候别想</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-8</link>
+      <description>&lt;![CDATA[大模型「越想越错」？人大&amp;腾讯团队用信息论揭示：什么时候该想、什么时候别想]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-7</link>
-      <description>&lt;![CDATA[谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-7</guid>
+      <title>菜鸟与九识智能“超级整合”在即，无人货运“马太效应”凸显</title>
+      <link>https://www.qbitai.com/2025/12/362185.html</link>
+      <description>&lt;![CDATA[菜鸟与九识智能“超级整合”在即，无人货运“马太效应”凸显]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362185.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>拆解CANN：当华为决定打开算力的「黑盒」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-10</link>
-      <description>&lt;![CDATA[拆解CANN：当华为决定打开算力的「黑盒」]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-10</guid>
+      <title>首创ACE具身研发范式，大晓机器人构建具身智能开放新生态</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19</link>
+      <description>&lt;![CDATA[首创ACE具身研发范式，大晓机器人构建具身智能开放新生态]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 10:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-5</link>
-      <description>&lt;![CDATA[基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-5</guid>
+      <title>破局工业自动化界哥德巴赫猜想，它石智航以全栈技术掀开高价值场景序幕</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-11</link>
+      <description>&lt;![CDATA[破局工业自动化界哥德巴赫猜想，它石智航以全栈技术掀开高价值场景序幕]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-11</guid>
       <category>Ai</category>
     </item>
   </channel>

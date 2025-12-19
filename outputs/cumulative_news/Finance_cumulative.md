@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-19 08:31
+**最后更新时间**: 2025-12-19 23:25
+
+---
+
+## 🆕 最新更新 (2025-12-19 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk gets a win in the long-running legal battle over his Tesla pay](https://www.marketwatch.com/story/elon-musk-gets-a-win-in-the-long-running-legal-battle-over-his-tesla-pay-9368166d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 22:28
+
+#### [‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?](https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 22:00
+
+#### [After Trump’s move to reclassify cannabis, here’s what Wall Street is thinking](https://www.marketwatch.com/story/after-trumps-move-to-reclassify-cannabis-heres-what-wall-street-is-thinking-ed5777d1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 21:08
+
+#### [The dollar is losing the world’s respect — but you’re losing much more](https://www.marketwatch.com/story/when-the-dollar-loses-the-worlds-respect-americans-either-buy-less-or-pay-more-07992f3b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 20:32
+
+#### [Pharma stocks advance as Trump rolls out drug-pricing deals with 9 more companies](https://www.marketwatch.com/story/trump-to-announce-new-drug-pricing-deals-later-today-8261bdfe?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 20:31
+
+#### [Rocket Lab’s stock blasts toward a new high. Here’s what’s driving the surge.](https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 19:16
+
+#### [They’re in their 60s and still paying off student loans. College debt in America now lasts a lifetime.](https://www.marketwatch.com/story/theyre-in-their-60s-and-still-paying-off-student-loans-college-debt-in-america-now-lasts-a-lifetime-70354da3?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 19:01
+
+#### [Infosys’s stock suddenly surges 50% — then cools off. Inside Wall Street’s big Friday mystery.](https://www.marketwatch.com/story/infosyss-stock-suddenly-surges-50-then-cools-off-inside-wall-streets-big-friday-mystery-c7dc22e0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 18:12
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US justice department releases batch of Epstein files](https://www.ft.com/content/485d7f51-4868-4c9c-b158-54a3eb2245bf)
+**发布时间**: 2025-12-19 22:26
+
+#### [Delaware high court reinstates Musk’s $56bn Tesla pay package](https://www.ft.com/content/9d7b443d-793d-47cb-940f-ff42741236c2)
+**发布时间**: 2025-12-19 21:44
+
+#### [UK rules out using frozen Russian assets to aid Ukraine](https://www.ft.com/content/d899e28f-40f4-4031-aa51-8bb0bea9c7b4)
+**发布时间**: 2025-12-19 18:58
+
+#### [Don’t believe the fake gloom about London](https://www.ft.com/content/dd7925a6-94bb-4c45-8b20-09de4074a878)
+**发布时间**: 2025-12-19 18:46
+
+#### [London St Pancras revamp aims to cut Eurostar waiting time to 15 minutes](https://www.ft.com/content/ff7105f6-f209-421c-86de-508595c4af9a)
+**发布时间**: 2025-12-19 16:56
+
+#### [It’s beginning to look a lot like holiday job season](https://www.ft.com/content/e6588873-d548-41e4-8eab-5e95f831049e)
+**发布时间**: 2025-12-19 16:17
+
+#### [Satellite images track Trump’s squeeze on Venezuela](https://www.ft.com/content/234a7494-daf4-43df-902e-444237a308dc)
+**发布时间**: 2025-12-19 15:18
+
+#### [China blamed for UK government cyber attack](https://www.ft.com/content/fc7ebe87-8099-45f8-a8c2-2cf1c0b7dd83)
+**发布时间**: 2025-12-19 10:12
 
 ---
 
