@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 23:21
+**最后更新时间**: 2025-12-19 05:23
+
+---
+
+## 🆕 最新更新 (2025-12-19 05:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [波音、废物管理公司以及其他除了大型科技股之外的优质低价股票](https://www.tmtpost.com/7814625.html)
+**发布时间**: 2025-12-19 13:16
+
+#### [这些股票基金远超大盘，他们对2026年的投资选择是什么](https://www.tmtpost.com/7814621.html)
+**发布时间**: 2025-12-19 13:15
+
+#### [从“共商”到“共识”，五粮液破局白酒调整深水区](https://www.tmtpost.com/7814578.html)
+**发布时间**: 2025-12-19 12:49
+
+#### [冲刺港股国货高端护肤第一股！林清轩以细胞级抗皱科技，领跑高端国货护肤赛道](https://www.tmtpost.com/7814489.html)
+**发布时间**: 2025-12-19 12:41
+
+#### [人形机器人企业集体扩产背后是机遇还是“不扩产就丢单”的焦虑？](https://www.tmtpost.com/7814398.html)
+**发布时间**: 2025-12-19 12:14
+
+#### [从“宁王”到“易中天”，时代的“鱼群”在迁徙](https://www.tmtpost.com/7814421.html)
+**发布时间**: 2025-12-19 12:14
+
+#### [郭台铭，关键时刻，还是靠了祖国大陆](https://www.tmtpost.com/7814443.html)
+**发布时间**: 2025-12-19 12:14
+
+#### [7000亿中银基金，新掌门的“偏科”难题](https://www.tmtpost.com/7814442.html)
+**发布时间**: 2025-12-19 12:12
+
+#### [大片魔法失效，《阿凡达》不再无敌](https://www.tmtpost.com/7814436.html)
+**发布时间**: 2025-12-19 11:59
+
+#### [不买房，不租房，我们把房车改成移动的家](https://www.tmtpost.com/7814477.html)
+**发布时间**: 2025-12-19 11:55
+
+#### [Microsoft, Google, Nvidia Among 24 Companies Joining U.S. 'Genesis Mission' AI Initiative](https://www.tmtpost.com/7814493.html)
+**发布时间**: 2025-12-19 11:47
+
+#### [Meta Reported to Develop New AI Image and Video Model Mango while Exploring World Models](https://www.tmtpost.com/7814466.html)
+**发布时间**: 2025-12-19 11:23
+
+#### [Democratic Lawmakers Demand Investigation Into U.S. Commerce Secretary's AI Data Center Conflicts](https://www.tmtpost.com/7814457.html)
+**发布时间**: 2025-12-19 11:12
+
+#### [周受资内部信曝TikTok美国方案：字节保留算法、电商、广告，新合资公司负责安全](https://www.tmtpost.com/7814422.html)
+**发布时间**: 2025-12-19 11:02
+
+#### [外卖大战“拯救”餐饮业 现在正烧向正餐](https://www.tmtpost.com/7814341.html)
+**发布时间**: 2025-12-19 10:36
+
+#### [TIGIT的转机还会出现吗？](https://www.tmtpost.com/7814358.html)
+**发布时间**: 2025-12-19 10:36
+
+#### [万宁终究撑不住了](https://www.tmtpost.com/7814393.html)
+**发布时间**: 2025-12-19 10:36
+
+#### [新中金起航：机遇与差距并存](https://www.tmtpost.com/7814343.html)
+**发布时间**: 2025-12-19 10:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [突发！OpenAI 放出“代码之神”GPT-5.2-Codex，网友实测后感慨：很贵很好用](https://www.infoq.cn/article/fUwmTP5Lfk9ZZb9mY8sQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 13:00
+
+#### [Next.js 16 上线，有人 3 天升级成功，也有人生产环境翻车](https://www.infoq.cn/article/ePDoFtrJ1aqb43ViP3U5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 11:45
+
+#### [Java近期资讯：Spring Tools 5、TornadoVM、Payara平台、Hibernate ORM、Spock框架](https://www.infoq.cn/article/HixiH3PTycJYvIkkycKM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 10:59
+
+#### [谷歌推出用于开发AI眼镜应用的新工具和库](https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 10:50
+
+#### [直播预告：《国产服务器操作系统发展报告（2025）》解读 |《AI 进化论》第七期](https://www.infoq.cn/article/Uo1UaEUbxYYpbUEhlHge?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 10:27
+
+#### [用AWS Transform Custom解决技术债务](https://www.infoq.cn/article/KaCQfDrBTFNiJTcvwuAg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 09:36
+
+#### [InfoQ 2025中国技术力量年度榜单正式揭晓｜聚焦AI全栈创新与行业应用](https://www.infoq.cn/article/IeaYAJcV28DrmvxAPobA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [车企集体「摸着理想过河」，结果都在2025年掉进了河里](http://www.geekpark.net/news/358231)
+**发布时间**: 2025-12-19 12:43
+
+#### [OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录](http://www.geekpark.net/news/358210)
+**发布时间**: 2025-12-19 08:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [树莓派家庭服务器（下）：自动化追剧的配置](https://sspai.com/post/104711)
+**发布时间**: 2025-12-19 11:30
+
+#### [派早报：Apple 在日本调整 App Store 与 iOS 规则等](https://sspai.com/post/104721)
+**发布时间**: 2025-12-19 08:45
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [首批L3自动驾驶许可落地，这回看哪个车企还敢随便吹牛](http://www.huxiu.com/article/4817831.html?f=wangzhan)
+**发布时间**: 2025-12-19 11:00
 
 ---
 

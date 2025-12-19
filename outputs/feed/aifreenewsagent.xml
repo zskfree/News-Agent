@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 23:22:23 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 05:23:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 05:23:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18-4</link>
-      <description>&lt;![CDATA[北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-4</guid>
+      <title>亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-2</link>
+      <description>&lt;![CDATA[亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>与Physical Intelligence同日发声：深度机智亮出「情境数采」杀手锏，具身智能的通用性天花板要被捅破了？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18-7</link>
-      <description>&lt;![CDATA[与Physical Intelligence同日发声：深度机智亮出「情境数采」杀手锏，具身智能的通用性天花板要被捅破了？]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-7</guid>
+      <title>LeCun创业首轮估值247亿！Alexandre当CEO</title>
+      <link>https://www.qbitai.com/2025/12/362050.html</link>
+      <description>&lt;![CDATA[LeCun创业首轮估值247亿！Alexandre当CEO]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 02:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362050.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>150分钟，有关AGI的一切，柴天佑院士、何小鹏给出答案</title>
-      <link>https://www.qbitai.com/2025/12/361745.html</link>
-      <description>&lt;![CDATA[150分钟，有关AGI的一切，柴天佑院士、何小鹏给出答案]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361745.html</guid>
+      <title>T5Gemma模型再更新，谷歌还在坚持编码器-解码器架构</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-6</link>
+      <description>&lt;![CDATA[T5Gemma模型再更新，谷歌还在坚持编码器-解码器架构]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18-6</link>
-      <description>&lt;![CDATA[SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-6</guid>
+      <title>商汤大装置助力全国规划资源领域首个基础大模型-“云宇星空大模型（专业版）”正式发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-4</link>
+      <description>&lt;![CDATA[商汤大装置助力全国规划资源领域首个基础大模型-“云宇星空大模型（专业版）”正式发布]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>告别抽卡！一手实测字节刚放出的视频模型Seedance 1.5 pro</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-18-5</link>
-      <description>&lt;![CDATA[告别抽卡！一手实测字节刚放出的视频模型Seedance 1.5 pro]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-18-5</guid>
+      <title>认知偏差、落地断层、体验割裂是目前AI产品的三大痛点｜百度王颖@MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/362059.html</link>
+      <description>&lt;![CDATA[认知偏差、落地断层、体验割裂是目前AI产品的三大痛点｜百度王颖@MEET2026]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 03:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362059.html</guid>
       <category>Ai</category>
     </item>
   </channel>
