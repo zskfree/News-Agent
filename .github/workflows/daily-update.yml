@@ -124,7 +124,21 @@ jobs:
         echo ""
         
         echo "✅ 新闻更新完成！"
-    
+
+    - name: Update index.html stats and timestamp
+      run: |
+        BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+        echo "🕒 正在同步 index.html 时间戳: $BEIJING_TIME"
+        
+        # 更新最后更新时间
+        sed -i "s/[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\} [0-9]\{2\}:[0-9]\{2\}:[0-9]\{2\} CST/$BEIJING_TIME CST/g" index.html
+        
+        # (可选) 自动更新总订阅源数量
+        RSS_COUNT=$(ls outputs/feed/*.xml 2>/dev/null | wc -l)
+        sed -i "s/id=\"totalFeeds\">[0-9]*<\/span>/id=\"totalFeeds\">$RSS_COUNT<\/span>/" index.html
+        
+        echo "✅ index.html 已同步"
+
     - name: Verify generated files (new structure)
       run: |
         echo "=== 检查生成的文件 (新结构) ==="
