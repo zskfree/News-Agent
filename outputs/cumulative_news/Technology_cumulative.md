@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-19 05:23
+**最后更新时间**: 2025-12-19 08:31
+
+---
+
+## 🆕 最新更新 (2025-12-19 08:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Visual Studio 2026正式发布，带来AI原生IDE和提升性能](https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 16:00
+
+#### [10人创业团干翻行业“潜规则”！全员必须会AI、让跑大模型全程“裸奔”，谷歌老兵不烧钱创业](https://www.infoq.cn/article/wZmOay6P7zXF9IeaLdqZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 15:17
+
+#### [Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%](https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 14:30
+
+#### [三小时，让灵感长成公司：AI编程闪电黑客松完美收官！](https://www.infoq.cn/article/vhw7arhVBxgXvZayuTgC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-19 14:08
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Jenni.ai：9人团队，18月实现千万美元ARR｜赚大钱的小AI | 巴伦精选](https://www.tmtpost.com/7814828.html)
+**发布时间**: 2025-12-19 15:53
+
+#### [摩尔和沐曦，拉开国产芯片大幕](https://www.tmtpost.com/7814639.html)
+**发布时间**: 2025-12-19 15:18
+
+#### [AI无限拉低了普通人造假的门槛](https://www.tmtpost.com/7814688.html)
+**发布时间**: 2025-12-19 15:18
+
+#### [2026 年，我们该如何定义泡泡玛特](https://www.tmtpost.com/7814694.html)
+**发布时间**: 2025-12-19 15:18
+
+#### [杉川能把iRobot救活吗？](https://www.tmtpost.com/7814698.html)
+**发布时间**: 2025-12-19 15:15
+
+#### [年轻人封神果立方，但是神也有烦恼](https://www.tmtpost.com/7814714.html)
+**发布时间**: 2025-12-19 15:11
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Google 神级生产力工具，所有 GitHub 开源平替都找到了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529778&idx=1&sn=048607e1a4690aae17be2a3bd0f9314e)
+**发布时间**: 2025-12-19 15:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用创意守护飞鸟，让年味更有温度：防鸟撞新春窗花设计公益征集活动](https://sspai.com/post/104702)
+**发布时间**: 2025-12-19 15:11
+
+#### [拉伸没有用？也许只是你拉伸不到位](https://sspai.com/post/104692)
+**发布时间**: 2025-12-19 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [海南封关，会对香港和新加坡造成影响吗？](http://www.huxiu.com/article/4818666.html?f=wangzhan)
+**发布时间**: 2025-12-19 15:10
+
+#### [L3级自动驾驶落地，双手离开方向盘也能开车？](http://www.huxiu.com/article/4818896.html?f=wangzhan)
+**发布时间**: 2025-12-19 14:50
 
 ---
 

@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-19 05:23
+**最后更新时间**: 2025-12-19 08:31
+
+---
+
+## 🆕 最新更新 (2025-12-19 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Merz’s EU summit plan on Russian assets backfired](https://www.ft.com/content/e6d408d6-a7fc-44d8-b7ab-9751c8e53914)
+**发布时间**: 2025-12-19 08:19
+
+#### [UK retail sales drop unexpectedly as economy struggles](https://www.ft.com/content/8ef1086f-124e-4b68-9a98-60bd73253f00)
+**发布时间**: 2025-12-19 07:20
+
+#### [Prediction markets and the casino mentality of 2025](https://www.ft.com/content/ec80c969-5c7b-4919-a13c-652c60a4237a)
+**发布时间**: 2025-12-19 05:00
+
+#### [Welcome to the age of zero-sum politics](https://www.ft.com/content/30a49ab7-285b-4641-89f8-7375fc560ab9)
+**发布时间**: 2025-12-19 05:00
+
+#### [Bumper Christmas for air travel as 300mn take to the skies](https://www.ft.com/content/2dff6fc7-88c5-41c4-aa64-f02e1c638002)
+**发布时间**: 2025-12-19 05:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 05:23:37 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 08:31:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>EU agrees €90bn loan to Ukraine after frozen Russian asset plan fails</title>
-      <link>https://www.ft.com/content/e5691048-696b-44cd-8a0a-50b917e3d62a</link>
-      <description>&lt;![CDATA[EU agrees €90bn loan to Ukraine after frozen Russian asset plan fails]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 04:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e5691048-696b-44cd-8a0a-50b917e3d62a</guid>
+      <title>How Merz’s EU summit plan on Russian assets backfired</title>
+      <link>https://www.ft.com/content/e6d408d6-a7fc-44d8-b7ab-9751c8e53914</link>
+      <description>&lt;![CDATA[How Merz’s EU summit plan on Russian assets backfired]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e6d408d6-a7fc-44d8-b7ab-9751c8e53914</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Japan raises interest rates to highest level in 30 years</title>
-      <link>https://www.ft.com/content/cbaaff02-9c62-4f5f-8e02-d38798df4196</link>
-      <description>&lt;![CDATA[Japan raises interest rates to highest level in 30 years]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 04:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cbaaff02-9c62-4f5f-8e02-d38798df4196</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Uber’s stock is almost historically cheap. Are robotaxis an existential threat?</title>
-      <link>https://www.marketwatch.com/story/ubers-stock-is-almost-historically-cheap-are-robotaxis-an-existential-threat-76dc9783?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Uber’s stock is almost historically cheap. Are robotaxis an existential threat?]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 03:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/ubers-stock-is-almost-historically-cheap-are-robotaxis-an-existential-threat-76dc9783?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oracle’s stock is rising. Why TikTok’s U.S. deal could be good news for the tech company.</title>
-      <link>https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oracle’s stock is rising. Why TikTok’s U.S. deal could be good news for the tech company.]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 01:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Micron just had its Nvidia moment. What comes next for the stock?</title>
-      <link>https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Micron just had its Nvidia moment. What comes next for the stock?]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 00:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories</guid>
+      <title>UK retail sales drop unexpectedly as economy struggles</title>
+      <link>https://www.ft.com/content/8ef1086f-124e-4b68-9a98-60bd73253f00</link>
+      <description>&lt;![CDATA[UK retail sales drop unexpectedly as economy struggles]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8ef1086f-124e-4b68-9a98-60bd73253f00</guid>
       <category>Finance</category>
     </item>
   </channel>

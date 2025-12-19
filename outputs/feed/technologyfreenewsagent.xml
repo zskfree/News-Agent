@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 05:23:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 05:24:10 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 08:32:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Microsoft, Google, Nvidia Among 24 Companies Joining U.S. 'Genesis Mission' AI Initiative</title>
-      <link>https://www.tmtpost.com/7814493.html</link>
-      <description>&lt;![CDATA[Microsoft, Google, Nvidia Among 24 Companies Joining U.S. 'Genesis Mission' AI Initiative]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7814493.html</guid>
+      <title>Visual Studio 2026正式发布，带来AI原生IDE和提升性能</title>
+      <link>https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Visual Studio 2026正式发布，带来AI原生IDE和提升性能]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>突发！OpenAI 放出“代码之神”GPT-5.2-Codex，网友实测后感慨：很贵很好用</title>
-      <link>https://www.infoq.cn/article/fUwmTP5Lfk9ZZb9mY8sQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[突发！OpenAI 放出“代码之神”GPT-5.2-Codex，网友实测后感慨：很贵很好用]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fUwmTP5Lfk9ZZb9mY8sQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌推出用于开发AI眼镜应用的新工具和库</title>
+      <link>https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌推出用于开发AI眼镜应用的新工具和库]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta Reported to Develop New AI Image and Video Model Mango while Exploring World Models</title>
-      <link>https://www.tmtpost.com/7814466.html</link>
-      <description>&lt;![CDATA[Meta Reported to Develop New AI Image and Video Model Mango while Exploring World Models]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7814466.html</guid>
+      <title>Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%</title>
+      <link>https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>首批L3自动驾驶许可落地，这回看哪个车企还敢随便吹牛</title>
-      <link>http://www.huxiu.com/article/4817831.html?f=wangzhan</link>
-      <description>&lt;![CDATA[首批L3自动驾驶许可落地，这回看哪个车企还敢随便吹牛]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4817831.html?f=wangzhan</guid>
+      <title>OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录</title>
+      <link>http://www.geekpark.net/news/358210</link>
+      <description>&lt;![CDATA[OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/358210</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人形机器人企业集体扩产背后是机遇还是“不扩产就丢单”的焦虑？</title>
-      <link>https://www.tmtpost.com/7814398.html</link>
-      <description>&lt;![CDATA[人形机器人企业集体扩产背后是机遇还是“不扩产就丢单”的焦虑？]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7814398.html</guid>
+      <title>L3级自动驾驶落地，双手离开方向盘也能开车？</title>
+      <link>http://www.huxiu.com/article/4818896.html?f=wangzhan</link>
+      <description>&lt;![CDATA[L3级自动驾驶落地，双手离开方向盘也能开车？]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4818896.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
   </channel>

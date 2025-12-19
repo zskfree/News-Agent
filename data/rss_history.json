@@ -7490,6 +7490,36 @@
         "link": "https://www.tmtpost.com/7814398.html",
         "published_date": "Fri, 19 Dec 2025 12:14:00 GMT",
         "first_seen": "2025-12-19T05:24:10.600275"
+      },
+      "40ed2ffac8b6182578c1103c8f04a43a69c90cf2cfa73d600f30d4b1aee69d02": {
+        "title": "Visual Studio 2026正式发布，带来AI原生IDE和提升性能",
+        "link": "https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 19 Dec 2025 16:00:00 GMT",
+        "first_seen": "2025-12-19T08:32:27.269371"
+      },
+      "c307813088d76b9d37ca32fff8be2438595b57a98dbc04fb1a7128e8cc868cef": {
+        "title": "谷歌推出用于开发AI眼镜应用的新工具和库",
+        "link": "https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 19 Dec 2025 10:50:00 GMT",
+        "first_seen": "2025-12-19T08:32:27.269378"
+      },
+      "3f4e86b2e7be6d012656196f6de78c3ed55cf3856892a2ca7415a9d938af47e0": {
+        "title": "Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%",
+        "link": "https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 19 Dec 2025 14:30:00 GMT",
+        "first_seen": "2025-12-19T08:32:27.269380"
+      },
+      "b3d477047bea645772febe3b691f7ed2444e08ada14940499781688aefc6229d": {
+        "title": "OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录",
+        "link": "http://www.geekpark.net/news/358210",
+        "published_date": "Fri, 19 Dec 2025 08:36:00 GMT",
+        "first_seen": "2025-12-19T08:32:27.269382"
+      },
+      "4dd1a9a3f52073fe7bad24256bff0c523d3238bf97a440750e242a0e91e1a86d": {
+        "title": "L3级自动驾驶落地，双手离开方向盘也能开车？",
+        "link": "http://www.huxiu.com/article/4818896.html?f=wangzhan",
+        "published_date": "Fri, 19 Dec 2025 14:50:00 GMT",
+        "first_seen": "2025-12-19T08:32:27.269385"
       }
     },
     "Finance": {
@@ -9244,6 +9274,18 @@
         "link": "https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories",
         "published_date": "Fri, 19 Dec 2025 00:18:00 GMT",
         "first_seen": "2025-12-19T05:23:37.154295"
+      },
+      "3bb1a70b2d0cd98f41aed2bb655b455c9099b9aafb6e81e5e51803e594726d63": {
+        "title": "How Merz’s EU summit plan on Russian assets backfired",
+        "link": "https://www.ft.com/content/e6d408d6-a7fc-44d8-b7ab-9751c8e53914",
+        "published_date": "Fri, 19 Dec 2025 08:19:00 GMT",
+        "first_seen": "2025-12-19T08:31:50.139166"
+      },
+      "0a5f4755f09c04b2b80148711be792399a97adcbd0d2741f65bc8d74e7a64da9": {
+        "title": "UK retail sales drop unexpectedly as economy struggles",
+        "link": "https://www.ft.com/content/8ef1086f-124e-4b68-9a98-60bd73253f00",
+        "published_date": "Fri, 19 Dec 2025 07:20:00 GMT",
+        "first_seen": "2025-12-19T08:31:50.139177"
       }
     },
     "Ai": {
@@ -11070,13 +11112,43 @@
         "link": "https://www.qbitai.com/2025/12/362059.html",
         "published_date": "Fri, 19 Dec 2025 03:58:00 GMT",
         "first_seen": "2025-12-19T05:23:56.623339"
+      },
+      "687d379916de39a8d6226ecbcf6fba60cbda525040d0a5680195045f5b655da1": {
+        "title": "OpenAI最强代码模型GPT-5.2-Codex上线",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-19-3",
+        "published_date": "Fri, 19 Dec 2025 10:17:00 GMT",
+        "first_seen": "2025-12-19T08:32:04.875088"
+      },
+      "0c4c9cc8f4cbd084cba0fcaf50dae63902aedf6a20cc6846d597ee8c077b8d76": {
+        "title": "Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-19-9",
+        "published_date": "Fri, 19 Dec 2025 15:02:00 GMT",
+        "first_seen": "2025-12-19T08:32:04.875094"
+      },
+      "6cf00221d585a2789c0c54f7118412735ca2443c5128632e978a3e091d6114fa": {
+        "title": "谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-19-7",
+        "published_date": "Fri, 19 Dec 2025 14:03:00 GMT",
+        "first_seen": "2025-12-19T08:32:04.875096"
+      },
+      "dc3a77badf90c399689eab1d8691c8cd53a46883c77b6c3431a31e05e19c55e3": {
+        "title": "拆解CANN：当华为决定打开算力的「黑盒」",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-19-10",
+        "published_date": "Fri, 19 Dec 2025 15:09:00 GMT",
+        "first_seen": "2025-12-19T08:32:04.875098"
+      },
+      "e8eb109d77482a34c46a6cc0a4c089c7347fde172c962a5313c48333ab066b13": {
+        "title": "基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-19-5",
+        "published_date": "Fri, 19 Dec 2025 11:53:00 GMT",
+        "first_seen": "2025-12-19T08:32:04.875100"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-19T05:24:10.600276",
-    "Finance": "2025-12-19T05:23:37.154297",
-    "Ai": "2025-12-19T05:23:56.623342"
+    "Technology": "2025-12-19T08:32:27.269386",
+    "Finance": "2025-12-19T08:31:50.139180",
+    "Ai": "2025-12-19T08:32:04.875103"
   }
 }
