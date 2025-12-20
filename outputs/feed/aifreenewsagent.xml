@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Dec 2025 05:22:04 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Dec 2025 23:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2025 23:25:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025-12-20日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-20/</link>
-      <description>&lt;![CDATA[2025-12-20日刊]]&gt;</description>
-      <pubDate>Sat, 20 Dec 2025 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-20/</guid>
+      <title>Anthropic公布新技术：不靠删数据，参数隔离移除AI危险</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21</link>
+      <description>&lt;![CDATA[Anthropic公布新技术：不靠删数据，参数隔离移除AI危险]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 00:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21-5</link>
+      <description>&lt;![CDATA[LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 01:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21-2</link>
+      <description>&lt;![CDATA[布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 00:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21-4</link>
+      <description>&lt;![CDATA[人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 01:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21-3</link>
+      <description>&lt;![CDATA[玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 01:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-3</guid>
       <category>Ai</category>
     </item>
   </channel>
