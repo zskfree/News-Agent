@@ -1,96 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f8b6006cc9a63daf6a2b0fd3019bdd407a0fae54edf32ae9dada2ebaeb1af28c": {
-        "title": "星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-5",
-        "published_date": "Thu, 20 Nov 2025 10:53:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.959992"
-      },
-      "46d8cb3dfd8b5fc1b790cb48fde19e9f1c90b1ef34b22b4eb42565d2a6f64f6e": {
-        "title": "刚刚，Yann LeCun官宣离职创业，瞄准高级机器智能AMI",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-4",
-        "published_date": "Thu, 20 Nov 2025 10:45:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.960185"
-      },
-      "5bd8c5268d5cfcae63f1d6967ad4436841b37e9234947ff3062e44413fd2a8e0": {
-        "title": "分割一切并不够，还要3D重建一切，SAM 3D来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-3",
-        "published_date": "Thu, 20 Nov 2025 10:40:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.960402"
-      },
-      "0dbd0984c2a03b23415a612c0369564aee1cb076110d1ecf047ea137581b1481": {
-        "title": "黄仁勋GTC开场：「AI-XR Scientist」来了！",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-2",
-        "published_date": "Thu, 20 Nov 2025 10:32:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.960649"
-      },
-      "7582206f3493f5f6c9eca0df88d085fc85b2636b08af6d76feebe4073c9ad7c1": {
-        "title": "通往通用人工智能的关键一步？DeepMind放大招，3D世界最强AI智能体SIMA 2",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20",
-        "published_date": "Thu, 20 Nov 2025 10:25:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.960965"
-      },
-      "063d4ed6b223ba2a8d5f0f343ff1cc79dc55348e72662af59346e5b4b3e5f6d9": {
-        "title": "英伟达炸裂业绩打飞“AI泡沫”，黄仁勋：云端GPU卖光了",
-        "link": "https://www.qbitai.com/2025/11/354350.html",
-        "published_date": "Thu, 20 Nov 2025 04:15:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.961354"
-      },
-      "6841c1ff5c4483ab44f98f2b3a35aaa176ce8c8dd4cc5358c7321ccb52283820": {
-        "title": "反超Gemini 3！马斯克放出Grok4.1快速推理版，还曝出了新一轮150亿美元融资",
-        "link": "https://www.qbitai.com/2025/11/354348.html",
-        "published_date": "Thu, 20 Nov 2025 04:12:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.961814"
-      },
-      "881b16f35713aca58bc78bddc53a2b797fad8f2f89a9742ce51d4f01dad0d6c6": {
-        "title": "Gartner首次发布大模型报告：火山引擎排名中国厂商第一",
-        "link": "https://www.qbitai.com/2025/11/354340.html",
-        "published_date": "Thu, 20 Nov 2025 03:13:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.962293"
-      },
-      "f0d0a666c02623e555d05a9d87c5fccead99cf74c5834ba12a4fa0c7de494af8": {
-        "title": "何恺明团队新作：扩散模型可能被用错了",
-        "link": "https://www.qbitai.com/2025/11/354317.html",
-        "published_date": "Thu, 20 Nov 2025 02:02:00 GMT",
-        "first_seen": "2025-11-20T05:22:01.962653"
-      },
-      "38f58fd5940732e59740455ee0260d30489cac8907ea7f9f93a8ad4a4ca05596": {
-        "title": "NEX：下一代能动性模型体系与开源生态",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-9",
-        "published_date": "Thu, 20 Nov 2025 15:17:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454052"
-      },
-      "d27bbbc4a606148a72a5be66934f334217ee8c2af2603ceecb7e30fbf232bc62": {
-        "title": "本周六，围观学习NeurIPS 2025论文分享会，最后报名了",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-8",
-        "published_date": "Thu, 20 Nov 2025 14:54:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454233"
-      },
-      "f6a3724c81cd7b452d9ab04d81322f8f5c7436746cb3f415567d3bb16c508e60": {
-        "title": "AI终于学会「读懂人心」，带飞DeepSeek R1，OpenAI o3等模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-7",
-        "published_date": "Thu, 20 Nov 2025 14:48:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454431"
-      },
-      "c8385776462a0be30e2e111e854bc2b93eafda4ee9d27012c9c2cb770b5d6eea": {
-        "title": "让移动不再成为噪声：搭载AI的新一代可穿戴传感实现高动态条件下的精准识别",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-6",
-        "published_date": "Thu, 20 Nov 2025 14:34:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454645"
-      },
-      "b5c62bd027453bb493513414e4311e2ae19722f79240b2829a8532273c57d235": {
-        "title": "2025人工智能+大会在海淀举行 共绘AI下一个十年图景",
-        "link": "https://www.qbitai.com/2025/11/354542.html",
-        "published_date": "Thu, 20 Nov 2025 06:27:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454878"
-      },
-      "8568348d6e1df3d213c7aeb4ae97985525acc38e0b9246e6382fd7a6d413084a": {
-        "title": "2025人工智能+大会圆满落幕，人工智能百人会凝聚共识",
-        "link": "https://www.qbitai.com/2025/11/354521.html",
-        "published_date": "Thu, 20 Nov 2025 06:20:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.455173"
-      },
       "b89c0de95377ce7caa2cbca7ed138a5b705b79ec6e0eb2d0cffb9af53ebed7b2": {
         "title": "谷歌Nano Banana Pro上线，深度结合Gemini 3，这下生成世界了",
         "link": "https://www.jiqizhixin.com/articles/2025-11-21",
@@ -879,360 +789,6 @@
       }
     },
     "Technology": {
-      "feee423cb69e59b61478c793b5a373101e9a49a43aebbb39d8d691054d69a9e1": {
-        "title": "Turing Award Winner Yann LeCun to Leave Meta, Launch AI Startup Focused on World Models",
-        "link": "https://www.tmtpost.com/7773738.html",
-        "published_date": "Thu, 20 Nov 2025 13:15:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410088"
-      },
-      "d3a47fe18101d63498351cde7921048af7bc47c2a01d506d62895bca01b4a205": {
-        "title": "U.S. Reported to Greenlight Exports of Advanced AI Chips to Middle East",
-        "link": "https://www.tmtpost.com/7773733.html",
-        "published_date": "Thu, 20 Nov 2025 13:11:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410100"
-      },
-      "ed3d96a573f2e65ca01238de1d8e7e309d313e64cac2b1585465a9497d90c48a": {
-        "title": "Saudia Arabia Reaches Strategic AI Partnership with U.S., Ramps Up Committed Investment to $1 Trillion",
-        "link": "https://www.tmtpost.com/7773655.html",
-        "published_date": "Thu, 20 Nov 2025 12:25:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.044177"
-      },
-      "19d8697f3b1f2895657a97b415d70b04e9ccf7530be0d9cd5bb812efd0274c21": {
-        "title": "陆正耀的旧剧本与新赌局：库迪会重蹈瑞幸覆辙吗？",
-        "link": "https://www.tmtpost.com/7772821.html",
-        "published_date": "Thu, 20 Nov 2025 12:12:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410110"
-      },
-      "a209b0ab0576e801384b9df2bb64f1cce7288fc4ba63f60dbea742b6bf634e4e": {
-        "title": "乘风AI，快手已经开始迎来收获期",
-        "link": "https://www.tmtpost.com/7773640.html",
-        "published_date": "Thu, 20 Nov 2025 12:10:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410120"
-      },
-      "f5e2804653f03aac3465d5e64a36b880dae8bd76b96e96d50bc78f904a675d12": {
-        "title": "Dycom股价因财报大涨，AI数据中心建设热潮依旧不减",
-        "link": "https://www.tmtpost.com/7773606.html",
-        "published_date": "Thu, 20 Nov 2025 11:50:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410129"
-      },
-      "7b70983f73a8a95b90b79375817490e76a493e99590ead46210aad66c8e5e37e": {
-        "title": "为什么沃尔玛的财报不仅仅关乎其股价？",
-        "link": "https://www.tmtpost.com/7773603.html",
-        "published_date": "Thu, 20 Nov 2025 11:49:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410137"
-      },
-      "6a58869e4ca55105531c46b542b4caaa71950ffed27f7b6ede0d0674d53e6f0d": {
-        "title": "新时代民营经济人士培育赋能第六期培训班在张謇企业家学院举办",
-        "link": "https://www.tmtpost.com/7773511.html",
-        "published_date": "Thu, 20 Nov 2025 11:42:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.045428"
-      },
-      "ad23dd0750d822a8f7a863945cc001aed32f2f846c483db146f606df6b9c2cee": {
-        "title": "Ant Group Leads Investment in RockFlow's Latest Multi-Million Dollar Funding Round",
-        "link": "https://www.tmtpost.com/7773547.html",
-        "published_date": "Thu, 20 Nov 2025 11:26:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.046549"
-      },
-      "f59739451988ac58b070b3ddeaf6b589a8a557a1267fac723e547744c060416f": {
-        "title": "医疗保健行业势头持续增强，这三只股票的行情图展现出看涨走势",
-        "link": "https://www.tmtpost.com/7773534.html",
-        "published_date": "Thu, 20 Nov 2025 11:18:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.046967"
-      },
-      "2a0abb589ca5965f114461cb2ad63fcb14b59b884cea3ce2da45e6d7b123d45e": {
-        "title": "核药的供应链压力测试开始了",
-        "link": "https://www.tmtpost.com/7773348.html",
-        "published_date": "Thu, 20 Nov 2025 11:14:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.047282"
-      },
-      "a80e947a7afc1df2ac3a2d7e2dd75814ea7125094b9260331a816d8902a7fdfe": {
-        "title": "蚂蚁集团领投，RockFlow完成数千万美元新一轮融资 | 融资速递",
-        "link": "https://www.tmtpost.com/7772731.html",
-        "published_date": "Thu, 20 Nov 2025 11:02:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.047873"
-      },
-      "f12ba925d2c4d5f5043b19c66f6ccd2631278965a4d434f4805319c46235a9e7": {
-        "title": "伴芯科技亮相ICCAD，AI智能体重构EDA，迈向芯片自主设计闭环 | 公司动态",
-        "link": "https://www.tmtpost.com/7773276.html",
-        "published_date": "Thu, 20 Nov 2025 11:01:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410017"
-      },
-      "b861b86ccd8e23efd0c4fbde4089c230a8715635cb8678f5231557c72f65443d": {
-        "title": "AI创业再添“大宗师”，杨立昆确认离开Meta，新公司专注机器智能研究 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7773495.html",
-        "published_date": "Thu, 20 Nov 2025 11:01:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.049640"
-      },
-      "79075240a68b2fee4825adf7032a2bb6426367940cd9474eeecb7567826b1406": {
-        "title": "库克卸任收官的“谢幕礼”，中国每卖4部智能机就有1部是iPhone",
-        "link": "https://www.tmtpost.com/7773475.html",
-        "published_date": "Thu, 20 Nov 2025 10:50:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.050470"
-      },
-      "cabd650c3dd08cf02575f9ed37827839fefed83ea4343d37b0688515d739c08e": {
-        "title": "AI泡沫还是基建狂潮？一场来自华尔街与硅谷的深度思辨",
-        "link": "https://www.tmtpost.com/7773379.html",
-        "published_date": "Thu, 20 Nov 2025 10:47:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.051177"
-      },
-      "2cb4ee5e516e91d4c4e6879db7ec559a05a2ebd8e25d49aa99a6bfa884aa9d7d": {
-        "title": "星动纪元获近10亿元A+轮融资！吉利资本领投，总订单额破5亿 | 融资动态",
-        "link": "https://www.tmtpost.com/7773334.html",
-        "published_date": "Thu, 20 Nov 2025 10:24:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.052091"
-      },
-      "b0c5bddfb47f7b6cc09542fb1e6861b847d62345d57cc943f5e57a2081011856": {
-        "title": "DoorDash股票蓄势待发，分析师认为当前正是买入良机",
-        "link": "https://www.tmtpost.com/7773342.html",
-        "published_date": "Thu, 20 Nov 2025 10:18:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.052953"
-      },
-      "88834f40ccf89abd3c38dc2398d09aa06d4a0ca4e83026ff24e215099e702ae5": {
-        "title": "Nvidia Posts Robust Quarterly Results, Beating Wall Street Expectations",
-        "link": "https://www.tmtpost.com/7773198.html",
-        "published_date": "Thu, 20 Nov 2025 09:39:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.054830"
-      },
-      "0b47e0eedeb15b33106b730aeded892aa7900eb7fa4d7f7be754113ddd122420": {
-        "title": "DynamoDB DNS系统中的竞争条件：分析AWS US-EAST-1中断事件",
-        "link": "https://www.infoq.cn/article/WHWkaM1p5olbFVGVo6SK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 13:00:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410048"
-      },
-      "ac88afa729691d13e75ee1fbbe7f5a81127381517f20cfb1ffea4b8defbe6264": {
-        "title": "Anthropic为Claude Code添加了沙箱和Web访问功能，以实现更安全的AI驱动编码",
-        "link": "https://www.infoq.cn/article/7RA5wkyTy6i3NapcOP4Q?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 12:00:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.057845"
-      },
-      "3a034aa8b4bf98cfd621dfe0c6f49907575479288d7a37fc9cbdedc53286120a": {
-        "title": "Monzo基于BigQuery和微服务的实时欺诈检测架构",
-        "link": "https://www.infoq.cn/article/E3OFF8UcN4NQQmGRKd9b?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 11:22:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.058865"
-      },
-      "3bb2d4c39f322b9eb988ec22892ac56fb790a49d2d1634b0b944874562658333": {
-        "title": "从检测到通用感知：构建空间智能的基础",
-        "link": "https://www.infoq.cn/article/HIiucAp3Wi5yvqYoVFGv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.059716"
-      },
-      "20ab294305455b025e70939eded6089871cbd27e3084532ef30f7f08a7dbba79": {
-        "title": "融合风控知识的大模型体系建设与应用实践",
-        "link": "https://www.infoq.cn/article/xJTe5bBq2bbQSMv9p7Gp?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.060490"
-      },
-      "1bc0ee41efbf8b63b442e77bff4643e27375d6098ac7489c800dae68a056dce6": {
-        "title": "中车携手飞桨文心：以AI赋能高铁发展，锻造智造新标杆",
-        "link": "https://www.infoq.cn/article/ds7oIRrHmflvZHoKoPKq?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 10:44:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.061621"
-      },
-      "ae06942925f6593e4171c8e66e7f6fbfc5202a657e6b7e1fa24222a0440a4f53": {
-        "title": "减少检索增强生成（RAG）语义缓存中的误报：以银行业为例",
-        "link": "https://www.infoq.cn/article/2uR0g2O3Fk9ECeTqp04X?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 10:39:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.062926"
-      },
-      "643de62a12e0e1f495d3b69520737542d1039a55240dfdca3538868a722bc5aa": {
-        "title": "Cloudflare酿六年最惨宕机：一行Rust代码，全球一半流量瘫痪！ChatGPT、Claude集体失联",
-        "link": "https://www.infoq.cn/article/ffrEqagbhIfAyitqzN7C?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 10:17:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.065125"
-      },
-      "bf11426d92251640012d35450ffd8173f1e8386cd4bf810202dded3384f2ae42": {
-        "title": "“低价神话”萨莉亚，遭北上广打工人“集体抛弃”？",
-        "link": "http://www.huxiu.com/article/4807176.html?f=wangzhan",
-        "published_date": "Thu, 20 Nov 2025 12:00:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.066365"
-      },
-      "52498e63e88e020b96d94b469b3020d4e6578146905efb588f1d6b917a36d523": {
-        "title": "从小就开始投喂资金支持？深圳金融科技企业杀疯了",
-        "link": "http://www.huxiu.com/article/4807360.html?f=wangzhan",
-        "published_date": "Thu, 20 Nov 2025 11:38:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410063"
-      },
-      "9156e53f30cdf393f348afb2b529110b58d5c9b0f37ed2627764c163577940e0": {
-        "title": "人形机器人，是不是点错了科技树？",
-        "link": "http://www.huxiu.com/article/4807136.html?f=wangzhan",
-        "published_date": "Thu, 20 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-20T05:22:50.410074"
-      },
-      "ead67347c3c555db835a65dde58f3cf51c16fcf35fe44086bd2d04005d332e3e": {
-        "title": "市场规模近80亿，素食餐厅凭啥越来越火？",
-        "link": "http://www.huxiu.com/article/4807168.html?f=wangzhan",
-        "published_date": "Thu, 20 Nov 2025 10:30:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.069402"
-      },
-      "748853dd3fb3c1bcabaa9dfeb656aa1d983d0f80fb7240c84e5ca35fb50e9a40": {
-        "title": "错过了 2021？现在入坑 F1 赛事也不晚",
-        "link": "https://sspai.com/post/103846",
-        "published_date": "Thu, 20 Nov 2025 10:31:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.070850"
-      },
-      "4fcd52ab8d0cc23ad9459b11b970cc8acf2d2978d4d8fb17984f29f90d240630": {
-        "title": "派早报：Apple 公布 2025 年度应用提名、华为公布 MatePad Edge 等",
-        "link": "https://sspai.com/post/103959",
-        "published_date": "Thu, 20 Nov 2025 08:44:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.073289"
-      },
-      "180d0fc8087ebc78890614cff3b899f138b80d549641526a864c2c27adabc452": {
-        "title": "杨立昆宣布离开 Meta「自立门户」；荷兰暂停干预安世半导体；TikTok 将支持用户设置减少 AI 内容",
-        "link": "http://www.geekpark.net/news/356639",
-        "published_date": "Thu, 20 Nov 2025 08:41:00 GMT",
-        "first_seen": "2025-11-20T05:22:02.075890"
-      },
-      "510005fef7936fa77e17f1a337140b67e1208fa9a3d4bf4edd6fe7df038716df": {
-        "title": "为什么说在 AI 时代，「想象」比「记录」更费劲？",
-        "link": "http://www.geekpark.net/news/356672",
-        "published_date": "Thu, 20 Nov 2025 16:26:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879151"
-      },
-      "196fc8636e6b085f37efac3c6a49a1ed2aa7d8a3461a744e1f70a6a2b08f1b7c": {
-        "title": "Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？",
-        "link": "https://www.infoq.cn/article/8M7jEXAvzGNRFCaiUXO5?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:57:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879164"
-      },
-      "2ae44cda5a3afc1a76f26af6ff9743fbaa059121454526e3d6ad5712c9789d0c": {
-        "title": "LLM 没意思，小扎决策太拉垮，图灵奖大佬 LeCun 离职做 AMI",
-        "link": "https://www.infoq.cn/article/YyXpLPJwazKxww4craMv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:37:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879176"
-      },
-      "81030e128c35a9a7668846783a323a7a89b4f72679ba4279737c7c454a28f011": {
-        "title": "谷歌预览Code Wiki：你能信任AI来记录你的代码库吗？",
-        "link": "https://www.infoq.cn/article/Xh50z4ehHKu7oIMTPNov?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:33:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879186"
-      },
-      "b23c74bba1bc113d5ab56d1ae1e39a4ae814385f008d9ce91a465ba61b15ae62": {
-        "title": "React 基金会负责人谈框架的下一步发展",
-        "link": "https://www.infoq.cn/article/w6Pm4uhGMJa7XzxHyu1z?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:23:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879196"
-      },
-      "584af2736b10b02209c0279ae5589998d49d2716128e86a8e5043450f55d907a": {
-        "title": "从 C++ 转向 Rust？ClickHouse 有话说",
-        "link": "https://www.infoq.cn/article/eazVcVHlRuHTOeWDy0rs?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:18:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879207"
-      },
-      "ce9148e404d34b03cfb1a922e8b45182e38212d8d0223264d47a84a92d7e88fa": {
-        "title": "理解规范驱动开发：Kiro、spec-kit和Tessl",
-        "link": "https://www.infoq.cn/article/4GT6jbMzEmCBavfDlzHK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:05:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879217"
-      },
-      "a0c64d2311eed88cfbfa3f74abd243abdd5d9ec25a59440e384e027ea6c68a5e": {
-        "title": "腾讯音乐如何基于 AutoMQ 降低 Kafka 50%+ 成本",
-        "link": "https://www.infoq.cn/article/PmRWNaHyjw2IBZYPpY2H?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:55:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.535602"
-      },
-      "ccdd3f2f48b8653aa67c605d5ad23e451d6bdf2208132a4e0264208e4e7b8a82": {
-        "title": "InfraTalk直播第一期完整版｜Agent浪潮之下：AI Infra的演化成果与方向解读",
-        "link": "https://www.infoq.cn/video/VkJR3aH430YQSvYJDZEQ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:55:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.536268"
-      },
-      "0985c9023b52335aa1328d0b67d4c8b5c69ae5bbea75040fbab161ecdef9baad": {
-        "title": "征程再启，剑指桂冠 | 云谷杯·2025 人工智能应用创新创业大赛复赛顺利举⾏",
-        "link": "https://www.infoq.cn/article/MbkcNlIDLbIPxtLX7iZl?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:36:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879091"
-      },
-      "4e2c518fc455ce1b1e6b3812b6c3acfd57873dac666449daa556be93d58d078f": {
-        "title": "Agent规模化落地前夜，AI Infra的难题全都暴露了",
-        "link": "https://www.infoq.cn/article/dRPGO5HCirJQP7Ayy8DK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:23:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.537583"
-      },
-      "2e32b7bb680ecaa91eab33d09952d16ca12657cf4493b810947119c3b9c7c39e": {
-        "title": "微软通过私有云扩展解决数据驻留问题",
-        "link": "https://www.infoq.cn/article/ZTmzTF7B8ZcENQ9kaqlD?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:00:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.537932"
-      },
-      "be3e8b124d13c281dab2cf66127495dfab70431cd76aaa68ce8259b90c24b97d": {
-        "title": "从需求到投标：数据驱动的智能技术方案生成 Agent 实战｜AICon北京",
-        "link": "https://www.infoq.cn/article/33Aozr1sH9J8gj7UxBfu?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 13:30:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879121"
-      },
-      "3ea60ea66e582d8a2432804edad1548fa885b35dc3fa69b877e520227be8d545": {
-        "title": "比非农还重要，英伟达能再次撑起美股脊梁骨吗？",
-        "link": "https://www.tmtpost.com/7773222.html",
-        "published_date": "Thu, 20 Nov 2025 15:43:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.539297"
-      },
-      "be7448357ce097b2396de0ab40e7d0474dfbe488525a46e2501d2cf76bc5b1f4": {
-        "title": "摆摊自救，餐厅上街抢生意",
-        "link": "https://www.tmtpost.com/7773412.html",
-        "published_date": "Thu, 20 Nov 2025 15:30:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.539756"
-      },
-      "06a2d37c2096581b42a681baf66f326dfa1e8bb0548a1c13cfd3a9d85acafad9": {
-        "title": "iPhone 17 Series Powers Apple to Record Highs in China as Cook Eyes Possible Exit",
-        "link": "https://www.tmtpost.com/7773958.html",
-        "published_date": "Thu, 20 Nov 2025 15:16:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.541425"
-      },
-      "55358c6ee6d4bb7bbd70475a40b2fef2db48c29da849d88def22c35ec7059880": {
-        "title": "A股进入下半场，还有哪些风口？",
-        "link": "https://www.tmtpost.com/7773236.html",
-        "published_date": "Thu, 20 Nov 2025 15:13:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.542020"
-      },
-      "5e1892a1da23fd7d33c2e9fa14f65eb0751a0b792a88138358f1b44118b8e12c": {
-        "title": "Musk's xAI Joins Hands with Nvidia to Develop a 500MW Datacenter in Saudi Arabia",
-        "link": "https://www.tmtpost.com/7773871.html",
-        "published_date": "Thu, 20 Nov 2025 14:18:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.544043"
-      },
-      "3c9c2c3b50cdc4340a872a3857ea53ce1ecb79baaad0e8affc80517061df3990": {
-        "title": "巴菲特临退休卖出苹果买谷歌，股神的最后一战意欲何为？",
-        "link": "https://www.tmtpost.com/7773432.html",
-        "published_date": "Thu, 20 Nov 2025 14:17:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.544833"
-      },
-      "5da32107c00aabf027bd24e92edcfc10a9fd4d6371edc559973f881e97a10ab0": {
-        "title": "光伏下半场：光储协同、体系出海、技术融合丨行业风向标",
-        "link": "https://www.tmtpost.com/7773783.html",
-        "published_date": "Thu, 20 Nov 2025 14:13:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879137"
-      },
-      "0d1cde81f8b44d6ae5e809523d8123b8b68a4c2ad3dd250fd84108ca8fca173d": {
-        "title": "新国标之下，两轮电动厂商开始押注B端场景",
-        "link": "https://www.tmtpost.com/7773762.html",
-        "published_date": "Thu, 20 Nov 2025 13:59:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.546573"
-      },
-      "69e569bdfedcd231c074f3f14e0c18039fed487ed234f3f5790f2b8775c29078": {
-        "title": "AMD, Cisco, PIF-Backed Humain Plan to Build 1GW Datacenters in Saudi Arabia",
-        "link": "https://www.tmtpost.com/7773800.html",
-        "published_date": "Thu, 20 Nov 2025 13:47:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.548965"
-      },
-      "df87b636cc1a6b6fe3d6aaeaf917ae9f342ac379aa3c3f3c4986df2914c4102a": {
-        "title": "Gemini 3负责人最新访谈：不做情感陪伴，只做最强生产力工具",
-        "link": "https://www.tmtpost.com/7773644.html",
-        "published_date": "Thu, 20 Nov 2025 13:24:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.550204"
-      },
-      "55511f08f3e61fb2946c348c4bc4b26d1b87c01aed34ab772256f9e1e66501d9": {
-        "title": "开源、免费、隐私友好，功能强大的 Android 输入法：小企鹅输入法",
-        "link": "https://sspai.com/post/103871",
-        "published_date": "Thu, 20 Nov 2025 15:00:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.551916"
-      },
-      "2cbd28900d43ba79516826ce067d2670fc3cadf4c41583a267d1da775a1ae736": {
-        "title": "又一轻食巨头暴雷！曾融资过亿，如今创始人被悬赏“追债”？",
-        "link": "http://www.huxiu.com/article/4807163.html?f=wangzhan",
-        "published_date": "Thu, 20 Nov 2025 14:16:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.553172"
-      },
       "062fdeb60550029732b23948b91a46ec23c0b348e536b6f5fc5cf2a6f4137e7c": {
         "title": "Google Launches Gemini 3-Backed Image Generation Model Nano Banana Pro",
         "link": "https://www.tmtpost.com/7774785.html",
@@ -7178,6 +6734,36 @@
         "link": "https://www.tmtpost.com/7815413.html",
         "published_date": "Sat, 20 Dec 2025 11:54:00 GMT",
         "first_seen": "2025-12-20T05:22:17.236966"
+      },
+      "0c3b2a773e3324c9fc53d9f680fae38ecac1475e80f85f4cba395de1dddd4cbe": {
+        "title": "摩尔线程发布新一代GPU架构，打造MUSA生态对标英伟达CUDA",
+        "link": "https://www.tmtpost.com/7815670.html",
+        "published_date": "Sat, 20 Dec 2025 14:31:00 GMT",
+        "first_seen": "2025-12-20T08:32:40.415622"
+      },
+      "1872eb89be00f50885f798498b7f7bfee0e4ab226a0c2c7166282ac1f6b88eea": {
+        "title": "小米大模型再亮剑，底层逻辑为何变了？",
+        "link": "https://www.tmtpost.com/7815661.html",
+        "published_date": "Sat, 20 Dec 2025 15:42:00 GMT",
+        "first_seen": "2025-12-20T08:32:40.415632"
+      },
+      "f80c064b2b3b1ab3e56b78aac39b2369f0be08f40bdd1f4edfa617e815f1f4f4": {
+        "title": "谁在造谣阿里千问要“干死豆包”？",
+        "link": "https://www.tmtpost.com/7815343.html",
+        "published_date": "Sat, 20 Dec 2025 09:45:00 GMT",
+        "first_seen": "2025-12-20T08:32:40.415635"
+      },
+      "f02fd07d89daa35d87a5a9431ec6aae72865bdfed4155a5d704d2284f3c18b1e": {
+        "title": "大疆在造“柏林墙”，OV突袭“珍珠港”",
+        "link": "https://www.tmtpost.com/7815114.html",
+        "published_date": "Sat, 20 Dec 2025 08:50:00 GMT",
+        "first_seen": "2025-12-20T08:32:40.415638"
+      },
+      "139cf2834fec62b0f270801d6f03ff387eaa848bd1cbbad9ccbc5f99471163d1": {
+        "title": "电车起火逃生黄金90秒：生死时速背后的自救与系统防线",
+        "link": "https://www.tmtpost.com/7815296.html",
+        "published_date": "Sat, 20 Dec 2025 09:45:00 GMT",
+        "first_seen": "2025-12-20T08:32:40.415639"
       }
     },
     "Finance": {
@@ -10901,7 +10487,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-20T05:22:17.236967",
+    "Technology": "2025-12-20T08:32:40.415642",
     "Finance": "2025-12-20T05:22:04.459855",
     "Ai": "2025-12-20T05:22:04.608478"
   }
