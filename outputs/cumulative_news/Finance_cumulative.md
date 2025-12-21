@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-21 05:22
+**最后更新时间**: 2025-12-21 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-21 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Alcohol consumption falls to record low in Britain](https://www.ft.com/content/0f42d473-a493-4fa2-8a08-4e16c4274868)
+**发布时间**: 2025-12-21 05:00
+
+#### [Revolut clashes with former staff over tax on share awards](https://www.ft.com/content/73737935-ae65-45aa-b85d-5d5eb7544cb5)
+**发布时间**: 2025-12-21 05:00
+
+#### [Royal Mail’s new pension scheme falls 5% in first six months](https://www.ft.com/content/a819f1bf-f4fe-4a29-977d-46d2342b1214)
+**发布时间**: 2025-12-21 05:00
 
 ---
 
