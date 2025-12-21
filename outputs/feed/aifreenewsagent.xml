@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Dec 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Dec 2025 05:22:54 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 23:21:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>库克提拔复旦校友掌舵苹果基础模型！庞若鸣走后涨薪止血，谷歌旧部占据半壁江山</title>
-      <link>https://www.qbitai.com/2025/12/363139.html</link>
-      <description>&lt;![CDATA[库克提拔复旦校友掌舵苹果基础模型！庞若鸣走后涨薪止血，谷歌旧部占据半壁江山]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 02:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363139.html</guid>
+      <title>为什么这篇谷歌论文被称为「Attention is all you need」V2</title>
+      <link>https://www.qbitai.com/2025/12/363176.html</link>
+      <description>&lt;![CDATA[为什么这篇谷歌论文被称为「Attention is all you need」V2]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363176.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 | MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/363114.html</link>
-      <description>&lt;![CDATA[清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 | MEET2026]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 02:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363114.html</guid>
+      <title>AI生成操作系统新突破！上海交大提出文件系统开发新范式：从此只需写规约</title>
+      <link>https://www.qbitai.com/2025/12/363431.html</link>
+      <description>&lt;![CDATA[AI生成操作系统新突破！上海交大提出文件系统开发新范式：从此只需写规约]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363431.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2025-12-21日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-21/</link>
-      <description>&lt;![CDATA[2025-12-21日刊]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-21/</guid>
+      <title>自变量王潜：具身智能是物理世界的独立基础模型｜MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/363184.html</link>
+      <description>&lt;![CDATA[自变量王潜：具身智能是物理世界的独立基础模型｜MEET2026]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 11:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363184.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI一旦开始「内卷」，会变成什么样？腾讯混元和上交联合揭秘多智能体「饥饿游戏」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21-6</link>
+      <description>&lt;![CDATA[AI一旦开始「内卷」，会变成什么样？腾讯混元和上交联合揭秘多智能体「饥饿游戏」]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 18:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>遥遥无期的AGI是画大饼吗？两位教授「吵起来了」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-21-10</link>
+      <description>&lt;![CDATA[遥遥无期的AGI是画大饼吗？两位教授「吵起来了」]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 19:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-10</guid>
       <category>Ai</category>
     </item>
   </channel>

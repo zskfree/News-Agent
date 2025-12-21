@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-21 08:32
+**最后更新时间**: 2025-12-21 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-21 23:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise as investors hold out hope for a Christmas rally](https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories)
+**发布时间**: 2025-12-21 23:16
+
+#### [The year-end tax moves that can lower your tax bill and make your refund even bigger than Trump promised](https://www.marketwatch.com/story/the-year-end-tax-moves-that-can-lower-your-tax-bill-and-make-your-refund-even-bigger-than-trump-promised-09611095?mod=mw_rss_topstories)
+**发布时间**: 2025-12-21 21:18
+
+#### [Don’t give up on a ‘Santa Claus rally’ just yet — even after a rough December start for stocks](https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-21 20:35
+
+#### [Over age 65? Watch out for these costly mistakes when selling your home.](https://www.marketwatch.com/story/older-homeowners-get-less-money-selling-their-houses-heres-how-you-can-sweeten-your-listing-to-get-more-8cfe214c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-21 18:53
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US steps up blockade of Venezuela by seeking to board third oil tanker](https://www.ft.com/content/4bdc644b-a756-4434-83e1-9591dbe38249)
+**发布时间**: 2025-12-21 22:20
+
+#### [Betting against New York is always a losing proposition](https://www.ft.com/content/ff116162-49c2-4b85-8a4a-0aaec20b2c85)
+**发布时间**: 2025-12-21 16:00
+
+#### [Foreign buyers snap up cheap UK companies as dealmaking hits new high](https://www.ft.com/content/605f5bb3-7b8c-4d2f-8122-bbfd7dd7c323)
+**发布时间**: 2025-12-21 14:31
+
+#### [Market upheavals drive biggest gains since 2008 for macro hedge funds](https://www.ft.com/content/051a72ca-ec03-4988-b61e-9cb784342ba7)
+**发布时间**: 2025-12-21 14:29
+
+#### [Sweden boards sanctioned Russian vessel off its coast](https://www.ft.com/content/732fa39d-6757-40f6-bbe2-414fa804aa6a)
+**发布时间**: 2025-12-21 11:42
+
+#### [How Bill Clinton became the focus of the Epstein files](https://www.ft.com/content/a01cb8d4-2bc0-403a-9ccd-9246949dff2e)
+**发布时间**: 2025-12-21 09:30
 
 ---
 
