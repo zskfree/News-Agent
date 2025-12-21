@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 20 Dec 2025 23:19:00 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Dec 2025 23:25:09 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 05:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 05:22:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic公布新技术：不靠删数据，参数隔离移除AI危险</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21</link>
-      <description>&lt;![CDATA[Anthropic公布新技术：不靠删数据，参数隔离移除AI危险]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 00:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21</guid>
+      <title>库克提拔复旦校友掌舵苹果基础模型！庞若鸣走后涨薪止血，谷歌旧部占据半壁江山</title>
+      <link>https://www.qbitai.com/2025/12/363139.html</link>
+      <description>&lt;![CDATA[库克提拔复旦校友掌舵苹果基础模型！庞若鸣走后涨薪止血，谷歌旧部占据半壁江山]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 02:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363139.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21-5</link>
-      <description>&lt;![CDATA[LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 01:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-5</guid>
+      <title>清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 | MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/363114.html</link>
+      <description>&lt;![CDATA[清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 | MEET2026]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 02:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363114.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21-2</link>
-      <description>&lt;![CDATA[布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 00:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21-4</link>
-      <description>&lt;![CDATA[人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 01:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21-3</link>
-      <description>&lt;![CDATA[玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-3</guid>
+      <title>2025-12-21日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-21/</link>
+      <description>&lt;![CDATA[2025-12-21日刊]]&gt;</description>
+      <pubDate>Sun, 21 Dec 2025 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-21/</guid>
       <category>Ai</category>
     </item>
   </channel>

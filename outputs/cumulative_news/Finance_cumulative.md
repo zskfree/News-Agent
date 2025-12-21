@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-20 23:24
+**最后更新时间**: 2025-12-21 05:22
+
+---
+
+## 🆕 最新更新 (2025-12-21 05:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Role reversal: how foot-dragging France blindsided newly assertive Berlin](https://www.ft.com/content/99d256e6-8501-4ab8-81d2-d937d5888f01)
+**发布时间**: 2025-12-21 05:00
+
+#### [Year in a word: Affordability](https://www.ft.com/content/d5f033e9-f9de-420d-93a1-22f2e38c6d5e)
+**发布时间**: 2025-12-21 05:00
+
+#### [In praise of male courage](https://www.ft.com/content/de12a366-f2ef-4bd2-aa49-ea10bbc506ed)
+**发布时间**: 2025-12-21 05:00
+
+#### [Fidelity pledges crackdown on excessive corporate pay](https://www.ft.com/content/64d06363-d8ac-40f1-bcf7-842b5fa333a5)
+**发布时间**: 2025-12-21 05:00
+
+#### [Inside Tencent’s deal to use Nvidia’s best AI chips in Japan](https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef)
+**发布时间**: 2025-12-21 05:00
+
+#### [Indonesia calls in military to help clear forests at rapid pace](https://www.ft.com/content/27a6bd42-aa95-449f-97b7-7a086da42bac)
+**发布时间**: 2025-12-21 05:00
+
+#### [Chinese stocks cool on weak economic data](https://www.ft.com/content/8dd04935-3d05-44bc-bbef-7ff07d420287)
+**发布时间**: 2025-12-21 05:00
 
 ---
 
