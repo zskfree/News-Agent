@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Dec 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Dec 2025 05:26:39 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 08:33:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MiniMax海螺视频团队首次开源：Tokenizer也具备明确的Scaling Law</title>
-      <link>https://www.qbitai.com/2025/12/363586.html</link>
-      <description>&lt;![CDATA[MiniMax海螺视频团队首次开源：Tokenizer也具备明确的Scaling Law]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 05:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363586.html</guid>
+      <title>智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-2</link>
+      <description>&lt;![CDATA[智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SGLang原生支持昇腾，新模型一键拉起无需改代码</title>
-      <link>https://www.qbitai.com/2025/12/363560.html</link>
-      <description>&lt;![CDATA[SGLang原生支持昇腾，新模型一键拉起无需改代码]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 02:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363560.html</guid>
+      <title>SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-6</link>
+      <description>&lt;![CDATA[SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>真正面向大模型的AI Infra，必须同时懂模型、系统、产业｜商汤大装置宣善明@MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/363513.html</link>
-      <description>&lt;![CDATA[真正面向大模型的AI Infra，必须同时懂模型、系统、产业｜商汤大装置宣善明@MEET2026]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 02:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363513.html</guid>
+      <title>自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-5</link>
+      <description>&lt;![CDATA[自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>人均「95后」，账上超十亿美金，MiniMax叩响港股大门</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-22</link>
-      <description>&lt;![CDATA[人均「95后」，账上超十亿美金，MiniMax叩响港股大门]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22</guid>
+      <title>陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-4</link>
+      <description>&lt;![CDATA[陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>潞晨尤洋：日常办公没必要上私有模型，这三类企业才需要 | MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/363480.html</link>
-      <description>&lt;![CDATA[潞晨尤洋：日常办公没必要上私有模型，这三类企业才需要 | MEET2026]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 01:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363480.html</guid>
+      <title>瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-3</link>
+      <description>&lt;![CDATA[瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-3</guid>
       <category>Ai</category>
     </item>
   </channel>

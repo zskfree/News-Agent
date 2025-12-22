@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-22 05:26
+**最后更新时间**: 2025-12-22 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-22 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [摩尔线程发布会上，郑纬民院士放出核心观点：真正决定主权AI成败的，是开发者与类CUDA生态](https://www.infoq.cn/article/VYK3iBJlAfS9HM8aU96U?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 16:14
+
+#### [上市后的摩尔线程，重心从造芯变成建生态](https://www.infoq.cn/article/AgpCt64PP8ZNLHxNgsdE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 16:10
+
+#### [基于 SGlang RBG + Mooncake 打造生产级云原生大模型推理平台](https://www.infoq.cn/article/spES4ES1DVCxMc6vtEA4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 15:31
+
+#### [AlphaEvolve作为面向算法优化的Agentic系统正式进入谷歌云](https://www.infoq.cn/article/WOltsxNikIAzZTXDDsjC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 15:27
+
+#### [Lyft采用AWS SageMaker与Kubernetes混合架构重构其机器学习平台](https://www.infoq.cn/article/xlk9jmBFwB5vm7BSzSq8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 15:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [视涯科技四问：股权定价混乱、代持未披露、巨亏难止、15亿现金为何还募20亿？｜IPO观察](https://www.tmtpost.com/7816844.html)
+**发布时间**: 2025-12-22 16:01
+
+#### [单品低至3.8元，海底捞开卖小份菜](https://www.tmtpost.com/7817099.html)
+**发布时间**: 2025-12-22 15:34
+
+#### [2025年，50+新品牌跑出2个“亿级黑马”](https://www.tmtpost.com/7817074.html)
+**发布时间**: 2025-12-22 15:32
+
+#### [这个低调的地方菜，正悄悄“杀”向全国？](https://www.tmtpost.com/7817097.html)
+**发布时间**: 2025-12-22 15:32
+
+#### [阿里向高德投下一枚“钻地弹”](https://www.tmtpost.com/7817011.html)
+**发布时间**: 2025-12-22 15:31
+
+#### [90后接棒、老将升迁、国际CEO离任……供应链行业人事大震荡](https://www.tmtpost.com/7817059.html)
+**发布时间**: 2025-12-22 15:31
+
+#### [消费者不爱，资本退潮，植物肉在中国的故事讲不下去了？](https://www.tmtpost.com/7817095.html)
+**发布时间**: 2025-12-22 15:31
+
+#### [联想创投杀疯了](https://www.tmtpost.com/7816937.html)
+**发布时间**: 2025-12-22 15:27
+
+#### [果链巨头，加速向“英伟达链”转移](https://www.tmtpost.com/7816933.html)
+**发布时间**: 2025-12-22 15:19
+
+#### [Transformer能否支撑下一代Agent？](https://www.tmtpost.com/7816940.html)
+**发布时间**: 2025-12-22 15:19
+
+#### [行业洗牌的2025年，一批中小卖家艰难生存](https://www.tmtpost.com/7816950.html)
+**发布时间**: 2025-12-22 15:19
+
+#### [年轻人开始认真“养头”，卷出一个千亿新市场](https://www.tmtpost.com/7816559.html)
+**发布时间**: 2025-12-22 15:14
+
+#### [贷款8万看剧，饭圈正在捧杀音乐剧](https://www.tmtpost.com/7816751.html)
+**发布时间**: 2025-12-22 15:08
+
+#### [泛滥的会员消费，装不下李国庆的“创业梦”](https://www.tmtpost.com/7816952.html)
+**发布时间**: 2025-12-22 15:07
+
+#### [欠债25亿，美国“行业鼻祖”破产，被中国代工厂反向收购](https://www.tmtpost.com/7816914.html)
+**发布时间**: 2025-12-22 14:55
+
+#### [合成生物2025：资本退烧、技术落地，万亿赛道迈向“成年期”](https://www.tmtpost.com/7816732.html)
+**发布时间**: 2025-12-22 13:47
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [9 个 yyds 的 AI 控制电脑 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529846&idx=1&sn=c69d9b7f030e9ca66720a56ef1ea9f79)
+**发布时间**: 2025-12-22 15:04
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [西方媒体炒作EUV光刻机，背后真的是怕我们打破垄断吗？](http://www.huxiu.com/article/4819171.html?f=wangzhan)
+**发布时间**: 2025-12-22 14:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)
+**发布时间**: 2025-12-22 14:40
 
 ---
 

@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "84cc6e9188acb09c46129173b2dc4df65bd9664fc8da8753da9c0a08dc4ca2df": {
-        "title": "罗福莉首个小米成果！开源具身大模型",
-        "link": "https://www.qbitai.com/2025/11/355420.html",
-        "published_date": "Sat, 22 Nov 2025 07:20:00 GMT",
-        "first_seen": "2025-11-22T08:30:56.414357"
-      },
       "99a349a67b85af0050fd79fd3ee2841b4bcee7ea9354d9859dad1f3621a4d68a": {
         "title": "2025宝山·智能机器人产业大会暨嘉年华隆重开幕",
         "link": "https://www.jiqizhixin.com/articles/2025-11-22-8",
@@ -609,90 +603,6 @@
       }
     },
     "Technology": {
-      "28538d4f1ab914c0eeba685a5210790fce27cd526094c40029091e1e327b5333": {
-        "title": "200亿漫剧大战，谁能再造下一个“红果”？",
-        "link": "https://www.tmtpost.com/7777282.html",
-        "published_date": "Sat, 22 Nov 2025 16:24:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942708"
-      },
-      "554703e81b2193d6fb209ff2eba51beb7a3e41be03b4247e6d31926f213b6f09": {
-        "title": "直接打3折，精致白领，在“中产超市”抢购奢侈品",
-        "link": "https://www.tmtpost.com/7777192.html",
-        "published_date": "Sat, 22 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942722"
-      },
-      "a161d63b590be5ec6005a3c69f968539473f150bd383f57d49055773a67096a7": {
-        "title": "422%负债率压顶，计提近4亿新冠药存货减值，真实生物IPO寻生机",
-        "link": "https://www.tmtpost.com/7777129.html",
-        "published_date": "Sat, 22 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942734"
-      },
-      "8795b5328d90a6854b52e1a52f5c95035c835c2394e2f791a278e9e7d01f67a8": {
-        "title": "净利暴增285%！380亿光伏玻璃巨头，熬过至暗时刻",
-        "link": "https://www.tmtpost.com/7777077.html",
-        "published_date": "Sat, 22 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942744"
-      },
-      "f1f5511aba001c3c79f2178d466f61db1ac1cf78be714dce1c17bd712b9c5094": {
-        "title": "携程赚疯了：综合毛利率81.7%，净利润超茅台",
-        "link": "https://www.tmtpost.com/7776984.html",
-        "published_date": "Sat, 22 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942754"
-      },
-      "2e0151b54c0136acebf68139eb689bf179a81ca7b3d53acf443fd729cff8881c": {
-        "title": "用AI视角看灿谷，矿企重估的开始",
-        "link": "https://www.tmtpost.com/7776965.html",
-        "published_date": "Sat, 22 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942764"
-      },
-      "0c72da0193a14781048ecfd80aed90597c03b056405bf4fd1446be9aa61de0f2": {
-        "title": "480亿新势力首富，终于要“熬出头”了",
-        "link": "https://www.tmtpost.com/7776954.html",
-        "published_date": "Sat, 22 Nov 2025 15:58:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942774"
-      },
-      "fef7cb91b4d274ceaf7196c2f9055ab799d2d896aeb0846cb4449a0b6f50850e": {
-        "title": "跨界后的大疆，消费者不买单",
-        "link": "https://www.tmtpost.com/7776871.html",
-        "published_date": "Sat, 22 Nov 2025 15:58:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942783"
-      },
-      "cbf3c5ebce33484ae83b28ec178bfeb107612cf32497442414542bb64aff2b1b": {
-        "title": "养鸡养猪年赚近9亿，62岁女博士冲刺港交所",
-        "link": "https://www.tmtpost.com/7776866.html",
-        "published_date": "Sat, 22 Nov 2025 15:58:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942792"
-      },
-      "125d71312a00d9d068dc6ea1384598da99f7477e9052d2a63e00d2767c10ca28": {
-        "title": "毫无预兆的，Gartner给大模型开发平台排了座次",
-        "link": "https://www.tmtpost.com/7777275.html",
-        "published_date": "Sat, 22 Nov 2025 15:58:00 GMT",
-        "first_seen": "2025-11-22T08:31:44.942678"
-      },
-      "3573d95b4f5a5d30ac5e11205e42df8fc46f099ea8e594294ed7976c0dc14f47": {
-        "title": "巴菲特，走好不送",
-        "link": "https://www.tmtpost.com/7777040.html",
-        "published_date": "Sat, 22 Nov 2025 15:33:00 GMT",
-        "first_seen": "2025-11-22T08:30:56.514121"
-      },
-      "989bf7abd396dfa94fc59e0043452be5f0419ca527faece837e3047fb75c59ab": {
-        "title": "优酷、B站，被一个后来者超车了",
-        "link": "https://www.tmtpost.com/7776872.html",
-        "published_date": "Sat, 22 Nov 2025 15:33:00 GMT",
-        "first_seen": "2025-11-22T08:30:56.514567"
-      },
-      "61a67b440144aeef85aa0b0519c15d68621948b20621ba936fbdb2c58b52ebfa": {
-        "title": "抢“鲜”大战，光明乳业还能“战”否？",
-        "link": "https://www.tmtpost.com/7776151.html",
-        "published_date": "Sat, 22 Nov 2025 15:33:00 GMT",
-        "first_seen": "2025-11-22T08:30:56.515105"
-      },
-      "c0a1a353bb0b02fb5a735baec52a1eb20807c2e32b49dafa49f5a3bb6facb333": {
-        "title": "微软CEO纳德拉最新万字访谈：AI时代，范式正确不代表就能赢",
-        "link": "https://www.tmtpost.com/7776858.html",
-        "published_date": "Sat, 22 Nov 2025 13:51:00 GMT",
-        "first_seen": "2025-11-22T08:30:56.515721"
-      },
       "5180c18cee2d44980d5c19bcb59c2172562bcf1e82b2e6600830d0097de2ff96": {
         "title": "沈向洋拆解AI五大演进维度：AI发展既要 “登珠峰” 也要 “修公路”，灵巧手是人类在AI面前最后尊严",
         "link": "https://www.infoq.cn/article/4olpyNlhsmPAIKMPpfBZ?utm_source=rss&utm_medium=article",
@@ -6056,6 +5966,36 @@
         "link": "https://sspai.com/post/104796",
         "published_date": "Mon, 22 Dec 2025 09:00:00 GMT",
         "first_seen": "2025-12-22T05:27:09.337853"
+      },
+      "80651bbf15107b76768b2aa9275e395b643c8cda308c4280129e76c629613f47": {
+        "title": "摩尔线程发布会上，郑纬民院士放出核心观点：真正决定主权AI成败的，是开发者与类CUDA生态",
+        "link": "https://www.infoq.cn/article/VYK3iBJlAfS9HM8aU96U?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 16:14:00 GMT",
+        "first_seen": "2025-12-22T08:33:50.558373"
+      },
+      "5636cc30d2769f6e5ae87cf53cac00544e429df1d47adfc1356700e8ba80fa2e": {
+        "title": "Transformer能否支撑下一代Agent？",
+        "link": "https://www.tmtpost.com/7816940.html",
+        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
+        "first_seen": "2025-12-22T08:33:50.558379"
+      },
+      "1346b1fecd03f58a73612861cb69cfbddda915ea9a24a183e3caebfb1358fb71": {
+        "title": "AlphaEvolve作为面向算法优化的Agentic系统正式进入谷歌云",
+        "link": "https://www.infoq.cn/article/WOltsxNikIAzZTXDDsjC?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 15:27:00 GMT",
+        "first_seen": "2025-12-22T08:33:50.558381"
+      },
+      "319624953bed5105c836b983f848e22f1004c463b3720c8d1a09307d24a3c68f": {
+        "title": "让车企甘之如饴的智驾自研，正在成为“行业毒药”",
+        "link": "https://www.tmtpost.com/7816189.html",
+        "published_date": "Mon, 22 Dec 2025 10:30:00 GMT",
+        "first_seen": "2025-12-22T08:33:50.558383"
+      },
+      "88683185691886207fb4c9bf3a1a506cb7885d32727daa99b7e0fbaab5c1bf13": {
+        "title": "果链巨头，加速向“英伟达链”转移",
+        "link": "https://www.tmtpost.com/7816933.html",
+        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
+        "first_seen": "2025-12-22T08:33:50.558385"
       }
     },
     "Finance": {
@@ -8002,6 +7942,12 @@
         "link": "https://www.ft.com/content/0f5daafb-ac66-48f4-85cb-ebf63369ef66",
         "published_date": "Mon, 22 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-22T05:26:28.271781"
+      },
+      "70e38fd508877053436d2fc18f9c050dc1e0188bcbe1e275ad966bee4948c668": {
+        "title": "Donald Trump names special envoy for Greenland",
+        "link": "https://www.ft.com/content/8c0eddd7-e88f-4c96-9c32-d50cb7bb5899",
+        "published_date": "Mon, 22 Dec 2025 07:17:00 GMT",
+        "first_seen": "2025-12-22T08:33:10.678188"
       }
     },
     "Ai": {
@@ -10002,13 +9948,43 @@
         "link": "https://www.qbitai.com/2025/12/363480.html",
         "published_date": "Mon, 22 Dec 2025 01:47:00 GMT",
         "first_seen": "2025-12-22T05:26:39.018788"
+      },
+      "1952a81017b855e576130732bd7b93f8ee00c82adea64581eed2d5b33716fdba": {
+        "title": "智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-2",
+        "published_date": "Mon, 22 Dec 2025 13:39:00 GMT",
+        "first_seen": "2025-12-22T08:33:25.641692"
+      },
+      "d2174d42172f036b2aeb4bafb06a7e3984387ebfc0fc76962060ac88d997f61c": {
+        "title": "SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-6",
+        "published_date": "Mon, 22 Dec 2025 15:54:00 GMT",
+        "first_seen": "2025-12-22T08:33:25.641699"
+      },
+      "a9e2f89a44df3494ef3bcd90f1224736ba252d921b1eeeaeb935252098b90509": {
+        "title": "自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-5",
+        "published_date": "Mon, 22 Dec 2025 14:07:00 GMT",
+        "first_seen": "2025-12-22T08:33:25.641701"
+      },
+      "3b222817a5312bd0ca99eb30fa49f3fe4fe754812c94bc680da35041f534d94e": {
+        "title": "陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-4",
+        "published_date": "Mon, 22 Dec 2025 13:50:00 GMT",
+        "first_seen": "2025-12-22T08:33:25.641703"
+      },
+      "eab6dfae946fcc35c1db75b0e3b469584f4799d7813f4741ffdcadabd4bf0759": {
+        "title": "瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-3",
+        "published_date": "Mon, 22 Dec 2025 13:45:00 GMT",
+        "first_seen": "2025-12-22T08:33:25.641705"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-22T05:27:09.337855",
-    "Finance": "2025-12-22T05:26:28.271783",
-    "Ai": "2025-12-22T05:26:39.018790"
+    "Technology": "2025-12-22T08:33:50.558387",
+    "Finance": "2025-12-22T08:33:10.678195",
+    "Ai": "2025-12-22T08:33:25.641707"
   }
 }

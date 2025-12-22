@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Dec 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Dec 2025 05:26:28 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 08:33:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures rise, gold and silver hit records as investors hold out hope for a Christmas rally</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures rise, gold and silver hit records as investors hold out hope for a Christmas rally]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 03:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Binance allowed suspicious accounts to operate even after 2023 US plea agreement</title>
-      <link>https://www.ft.com/content/5d8af345-d593-47b1-85ae-758ee60e9a89</link>
-      <description>&lt;![CDATA[Binance allowed suspicious accounts to operate even after 2023 US plea agreement]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5d8af345-d593-47b1-85ae-758ee60e9a89</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Apollo cuts risk and stockpiles cash in preparation for market turmoil</title>
-      <link>https://www.ft.com/content/b315e80e-9e8a-4693-b860-bf87574cfa36</link>
-      <description>&lt;![CDATA[Apollo cuts risk and stockpiles cash in preparation for market turmoil]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b315e80e-9e8a-4693-b860-bf87574cfa36</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Happy K-shaped Christmas</title>
-      <link>https://www.ft.com/content/1b027a90-bc27-464e-a32e-eaae2a7d1f4f</link>
-      <description>&lt;![CDATA[Happy K-shaped Christmas]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1b027a90-bc27-464e-a32e-eaae2a7d1f4f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The stock market winners and losers of 2025</title>
-      <link>https://www.ft.com/content/0f5daafb-ac66-48f4-85cb-ebf63369ef66</link>
-      <description>&lt;![CDATA[The stock market winners and losers of 2025]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0f5daafb-ac66-48f4-85cb-ebf63369ef66</guid>
+      <title>Donald Trump names special envoy for Greenland</title>
+      <link>https://www.ft.com/content/8c0eddd7-e88f-4c96-9c32-d50cb7bb5899</link>
+      <description>&lt;![CDATA[Donald Trump names special envoy for Greenland]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8c0eddd7-e88f-4c96-9c32-d50cb7bb5899</guid>
       <category>Finance</category>
     </item>
   </channel>
