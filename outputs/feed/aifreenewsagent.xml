@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Dec 2025 23:21:00 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 05:26:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>为什么这篇谷歌论文被称为「Attention is all you need」V2</title>
-      <link>https://www.qbitai.com/2025/12/363176.html</link>
-      <description>&lt;![CDATA[为什么这篇谷歌论文被称为「Attention is all you need」V2]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363176.html</guid>
+      <title>MiniMax海螺视频团队首次开源：Tokenizer也具备明确的Scaling Law</title>
+      <link>https://www.qbitai.com/2025/12/363586.html</link>
+      <description>&lt;![CDATA[MiniMax海螺视频团队首次开源：Tokenizer也具备明确的Scaling Law]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363586.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI生成操作系统新突破！上海交大提出文件系统开发新范式：从此只需写规约</title>
-      <link>https://www.qbitai.com/2025/12/363431.html</link>
-      <description>&lt;![CDATA[AI生成操作系统新突破！上海交大提出文件系统开发新范式：从此只需写规约]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363431.html</guid>
+      <title>SGLang原生支持昇腾，新模型一键拉起无需改代码</title>
+      <link>https://www.qbitai.com/2025/12/363560.html</link>
+      <description>&lt;![CDATA[SGLang原生支持昇腾，新模型一键拉起无需改代码]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 02:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363560.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>自变量王潜：具身智能是物理世界的独立基础模型｜MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/363184.html</link>
-      <description>&lt;![CDATA[自变量王潜：具身智能是物理世界的独立基础模型｜MEET2026]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363184.html</guid>
+      <title>真正面向大模型的AI Infra，必须同时懂模型、系统、产业｜商汤大装置宣善明@MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/363513.html</link>
+      <description>&lt;![CDATA[真正面向大模型的AI Infra，必须同时懂模型、系统、产业｜商汤大装置宣善明@MEET2026]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 02:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363513.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI一旦开始「内卷」，会变成什么样？腾讯混元和上交联合揭秘多智能体「饥饿游戏」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21-6</link>
-      <description>&lt;![CDATA[AI一旦开始「内卷」，会变成什么样？腾讯混元和上交联合揭秘多智能体「饥饿游戏」]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 18:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-6</guid>
+      <title>人均「95后」，账上超十亿美金，MiniMax叩响港股大门</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22</link>
+      <description>&lt;![CDATA[人均「95后」，账上超十亿美金，MiniMax叩响港股大门]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>遥遥无期的AGI是画大饼吗？两位教授「吵起来了」</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-21-10</link>
-      <description>&lt;![CDATA[遥遥无期的AGI是画大饼吗？两位教授「吵起来了」]]&gt;</description>
-      <pubDate>Sun, 21 Dec 2025 19:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-21-10</guid>
+      <title>潞晨尤洋：日常办公没必要上私有模型，这三类企业才需要 | MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/363480.html</link>
+      <description>&lt;![CDATA[潞晨尤洋：日常办公没必要上私有模型，这三类企业才需要 | MEET2026]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 01:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363480.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-21 23:20
+**最后更新时间**: 2025-12-22 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-22 05:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Binance allowed suspicious accounts to operate even after 2023 US plea agreement](https://www.ft.com/content/5d8af345-d593-47b1-85ae-758ee60e9a89)
+**发布时间**: 2025-12-22 05:00
+
+#### [The stock market winners and losers of 2025](https://www.ft.com/content/0f5daafb-ac66-48f4-85cb-ebf63369ef66)
+**发布时间**: 2025-12-22 05:00
+
+#### [Happy K-shaped Christmas](https://www.ft.com/content/1b027a90-bc27-464e-a32e-eaae2a7d1f4f)
+**发布时间**: 2025-12-22 05:00
+
+#### [How upbeat battlefield briefings are fuelling Putin’s confidence](https://www.ft.com/content/06e0b154-1f15-412d-99c5-fe6fd715f766)
+**发布时间**: 2025-12-22 05:00
+
+#### [UK cannot ignore deep-sea threat from Russia, head of Navy warns](https://www.ft.com/content/3518c4c2-4589-4d25-b4bd-6f5608c0720a)
+**发布时间**: 2025-12-22 05:00
+
+#### [Apollo cuts risk and stockpiles cash in preparation for market turmoil](https://www.ft.com/content/b315e80e-9e8a-4693-b860-bf87574cfa36)
+**发布时间**: 2025-12-22 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise, gold and silver hit records as investors hold out hope for a Christmas rally](https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 03:35
 
 ---
 

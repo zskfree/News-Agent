@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-21 23:20
+**最后更新时间**: 2025-12-22 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-22 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [市值蒸发超540亿，一家明星上市公司破产了](https://www.tmtpost.com/7816674.html)
+**发布时间**: 2025-12-22 12:30
+
+#### [中国第一个开劳斯莱斯的男人，走了](https://www.tmtpost.com/7816677.html)
+**发布时间**: 2025-12-22 12:30
+
+#### [旧金山“黑夜迷途”：一次停电暴露自动驾驶单车智能的当下困境](https://www.tmtpost.com/7816692.html)
+**发布时间**: 2025-12-22 12:29
+
+#### [五大发电集团“换将”频次骤减：下一赛段拼什么？](https://www.tmtpost.com/7816731.html)
+**发布时间**: 2025-12-22 12:28
+
+#### [短剧的“猫鼠游戏”](https://www.tmtpost.com/7816748.html)
+**发布时间**: 2025-12-22 12:27
+
+#### [Foreign Brands Deepen Partnerships with Chinese Capital as Competition Reshapes World’s Second-Largest Consumer Market](https://www.tmtpost.com/7816776.html)
+**发布时间**: 2025-12-22 12:19
+
+#### [小红书“趁火打劫”住宿蛋糕](https://www.tmtpost.com/7816484.html)
+**发布时间**: 2025-12-22 11:39
+
+#### [美团为什么要开线下大超市？](https://www.tmtpost.com/7816525.html)
+**发布时间**: 2025-12-22 11:30
+
+#### [今年的TGA，各个品类年度游戏的获奖你还满意吗？](https://www.tmtpost.com/7816571.html)
+**发布时间**: 2025-12-22 11:23
+
+#### [2025，网贷行业遭遇残酷“去产能”](https://www.tmtpost.com/7816684.html)
+**发布时间**: 2025-12-22 11:20
+
+#### [冲刺港交所，多地国资下注的智谱终于要IPO了？](https://www.tmtpost.com/7816575.html)
+**发布时间**: 2025-12-22 11:17
+
+#### [China’s Moore Threads Courts Developers as it Takes Aim at Nvidia After IPO](https://www.tmtpost.com/7816642.html)
+**发布时间**: 2025-12-22 11:08
+
+#### [国产GPU的大时代](https://www.tmtpost.com/7816467.html)
+**发布时间**: 2025-12-22 11:05
+
+#### [从宝洁架构调整，看品牌人未来职业发展方向](https://www.tmtpost.com/7816541.html)
+**发布时间**: 2025-12-22 11:04
+
+#### [避免被卡脖子，空调铝代铜不可逆，焊接技师发话：一分钱一分货](https://www.tmtpost.com/7816544.html)
+**发布时间**: 2025-12-22 11:03
+
+#### [43岁女建筑师，在时薪25元的零工市场里重构生活](https://www.tmtpost.com/7816562.html)
+**发布时间**: 2025-12-22 10:58
+
+#### [《哑舍》变“哑炮”，历史题材为何这么难？](https://www.tmtpost.com/7816534.html)
+**发布时间**: 2025-12-22 10:56
+
+#### [让车企甘之如饴的智驾自研，正在成为“行业毒药”](https://www.tmtpost.com/7816189.html)
+**发布时间**: 2025-12-22 10:30
+
+#### [120亿美元AI医疗超级独角兽，是如何炼成的](https://www.tmtpost.com/7816479.html)
+**发布时间**: 2025-12-22 10:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [跨越二十年的共同记忆：我们在各平台都「折腾」过什么](https://sspai.com/post/104704)
+**发布时间**: 2025-12-22 11:31
+
+#### [派早报：《互联网平台价格行为规则》发布](https://sspai.com/post/104796)
+**发布时间**: 2025-12-22 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Magika 1.0：基于 Rust 与 AI 的更智能、更高速文件类型识别](https://www.infoq.cn/article/ud1ywIk3CQTsoILTId3f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 11:30
+
+#### [ASP.NET Core 迎来 .NET 10 大版本升级：Blazor、API 与 OpenAPI 全面升级](https://www.infoq.cn/article/lHC1LhSQCb1PmLVFf8Kz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 11:00
+
+#### [阿里干死豆包图疯传，千问：相煎何太急；字节大幅涨薪，传年利润有望达500亿美元；印度AI妖股近两年暴涨550倍，仅2名员工 | AI周报](https://www.infoq.cn/article/Tq4XqLDQDN0HI4rMeK67?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 10:29
+
+#### [从工程实践到底层重构，openGauss Summit 2025 将揭示下一轮技术演进方向](https://www.infoq.cn/article/C04CwOuNaEeSERDOEYMX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 10:22
+
+#### [Yelp 发布大规模管理 S3 服务器访问日志的方案](https://www.infoq.cn/article/yYvYwDZJOIEVI2h1rKvq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-22 10:12
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [老板正在消失，DAO将如何重构我们的工作](http://www.huxiu.com/article/4818961.html?f=wangzhan)
+**发布时间**: 2025-12-22 11:00
+
+#### [日本加息、油门刹车一起踩，到底要干嘛？对中国有什么影响？](http://www.huxiu.com/article/4819036.html?f=wangzhan)
+**发布时间**: 2025-12-22 09:56
+
+#### [史上最抽象的编程语言，照片、乐谱、空白也能编程？](http://www.huxiu.com/article/4818994.html?f=wangzhan)
+**发布时间**: 2025-12-22 09:00
 
 ---
 
