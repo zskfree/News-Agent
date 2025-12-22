@@ -1,54 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "99a349a67b85af0050fd79fd3ee2841b4bcee7ea9354d9859dad1f3621a4d68a": {
-        "title": "2025宝山·智能机器人产业大会暨嘉年华隆重开幕",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-8",
-        "published_date": "Sat, 22 Nov 2025 19:42:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.715981"
-      },
-      "0f246587dc8053038dcc29a25f1ca303ee682450afa1816ed53969c9b9540aaa": {
-        "title": "解放军总医院联合南大、吉大等机构，共同提出首个「脊柱诊疗大模型」SpineGPT",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-7",
-        "published_date": "Sat, 22 Nov 2025 19:38:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.716167"
-      },
-      "e25aa83aa4ed96b6025591db0889698ddcef12508b91656d7878da90f60f4450": {
-        "title": "Anthropic发现AI「破窗效应」：只是教它偷个懒，结果它学会了撒谎和搞破坏",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-6",
-        "published_date": "Sat, 22 Nov 2025 19:33:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.716351"
-      },
-      "63ea97c1d0aee0eb041ee855b7da92cfa376721442315a3b9ce769571c9f1d85": {
-        "title": "DeepMind招募波士顿动力前CTO，哈萨比斯点赞宇树",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-5",
-        "published_date": "Sat, 22 Nov 2025 19:22:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.716562"
-      },
-      "c332e490b1d0330d3bf624aafc7a95b49d56177df7665d6b5a8cd0366ebf8516": {
-        "title": "把具身机器人开发变简单，地瓜机器人S600与一站式平台双擎亮相",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-4",
-        "published_date": "Sat, 22 Nov 2025 19:18:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.716817"
-      },
-      "de6e33a3b2ab5969e456a2f56beb3d03cb12c03b65c4f8ce4e5c3b5570d960ee": {
-        "title": "Meta再推WorldGen，简单一句话，竟「盖」出50×50米一座城",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-3",
-        "published_date": "Sat, 22 Nov 2025 19:13:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.717197"
-      },
-      "57458386ab2e638d2e777aaf51e26f9ea219fc00698b2d9955aa9499e51dd217": {
-        "title": "华为开源突破性技术Flex:ai，AI算力效率直升30%，GPU、NPU一起用",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22-2",
-        "published_date": "Sat, 22 Nov 2025 19:09:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.717650"
-      },
-      "72c4f85cdc3658e9e78bd49558181022086f9929fb62f51fa8d3fa784a2a7972": {
-        "title": "腾讯混元数字人团队发布Moral RolePlay基准，揭秘大模型的「道德困境」",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-22",
-        "published_date": "Sat, 22 Nov 2025 19:02:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.718203"
-      },
       "32a62c3f95a7c4e4d86fbfae9064617cef0cd93082fe2d267b33bbd66599d067": {
         "title": "2025 IDEA大会沈向洋提出智能演进的五个维度：机会不仅来自技术本身",
         "link": "https://www.jiqizhixin.com/articles/2025-11-23",
@@ -603,30 +555,6 @@
       }
     },
     "Technology": {
-      "5180c18cee2d44980d5c19bcb59c2172562bcf1e82b2e6600830d0097de2ff96": {
-        "title": "沈向洋拆解AI五大演进维度：AI发展既要 “登珠峰” 也要 “修公路”，灵巧手是人类在AI面前最后尊严",
-        "link": "https://www.infoq.cn/article/4olpyNlhsmPAIKMPpfBZ?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 22 Nov 2025 22:27:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.831176"
-      },
-      "f402785985285b7c21691fe6819830f585bc327aff40f16d35f47ad1ad61768b": {
-        "title": "原材料暴涨，今年的羽绒服会越来越贵吗？",
-        "link": "https://www.tmtpost.com/7777589.html",
-        "published_date": "Sat, 22 Nov 2025 21:47:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.831302"
-      },
-      "c5b88b7d5f0f29da65c8e569f1cd2bb7a6ace8a82e8fb04a23487c72737d8702": {
-        "title": "BMW新世代四大技术上车：电动化能否守住“宝马味”？",
-        "link": "https://www.tmtpost.com/7777314.html",
-        "published_date": "Sat, 22 Nov 2025 17:50:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.831461"
-      },
-      "eb0a6accc88a1b7ca241f798e310eeaf03008ece60c343006ed19ef2fb63a48e": {
-        "title": "一日一技｜将豆瓣书影音记录迁移至 Obsidian",
-        "link": "https://sspai.com/post/103817",
-        "published_date": "Sat, 22 Nov 2025 15:46:00 GMT",
-        "first_seen": "2025-11-22T23:19:47.831662"
-      },
       "aaa6cecf9612d72ef05c239dad6ae0929b5f0cc1dbcb449cc6a1537436c189c8": {
         "title": "创新药的天花板又被捅破了",
         "link": "https://www.tmtpost.com/7777711.html",
@@ -5996,6 +5924,36 @@
         "link": "https://www.tmtpost.com/7816933.html",
         "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
         "first_seen": "2025-12-22T08:33:50.558385"
+      },
+      "970a7e4b589cabf923af81b341bd7585da1f6832436b39d221907de3a47dc79a": {
+        "title": "赵何娟对话张宏江：世界模型已是兵家必争之地｜2025 T-EDGE全球对话",
+        "link": "https://www.tmtpost.com/7814876.html",
+        "published_date": "Mon, 22 Dec 2025 22:15:00 GMT",
+        "first_seen": "2025-12-22T23:27:10.643720"
+      },
+      "ad100cd9a32f547f5d1f515df6b299963bc024baa7bc87738eeec25dae2ad8ce": {
+        "title": "382人、平均95后，MiniMax百亿估值冲刺IPO！招股书首次披露业绩：研发成本仅为OpenAI的1%、收入猛增8倍",
+        "link": "https://www.infoq.cn/article/4dfzSRWELNTPwyDfAjf7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 16:52:00 GMT",
+        "first_seen": "2025-12-22T23:27:10.643726"
+      },
+      "4d533b3e45f04277cfa141b73646d3071c8b24eff38a9f06eacc9b7960dfc38d": {
+        "title": "中国移动的5300亿采购清单，藏着通信行业未来五年的秘密",
+        "link": "https://www.tmtpost.com/7817228.html",
+        "published_date": "Mon, 22 Dec 2025 17:21:00 GMT",
+        "first_seen": "2025-12-22T23:27:10.643728"
+      },
+      "9fd788c5f482302711fbda589c7019bdb3e3718da2508d41548285c3a945cfaf": {
+        "title": "西方媒体炒作EUV光刻机，背后真的是怕我们打破垄断吗？",
+        "link": "http://www.huxiu.com/article/4819171.html?f=wangzhan",
+        "published_date": "Mon, 22 Dec 2025 14:51:00 GMT",
+        "first_seen": "2025-12-22T23:27:10.643731"
+      },
+      "df4255c76f187971ef1f1a3ea2303c9f84aa7231e49e3858606ac5783579f8e5": {
+        "title": "当开放架构遇上“产业大集”：国产AI生态进入“群体跃迁”时刻",
+        "link": "https://www.tmtpost.com/7817218.html",
+        "published_date": "Mon, 22 Dec 2025 18:36:00 GMT",
+        "first_seen": "2025-12-22T23:27:10.643732"
       }
     },
     "Finance": {
@@ -7948,6 +7906,36 @@
         "link": "https://www.ft.com/content/8c0eddd7-e88f-4c96-9c32-d50cb7bb5899",
         "published_date": "Mon, 22 Dec 2025 07:17:00 GMT",
         "first_seen": "2025-12-22T08:33:10.678188"
+      },
+      "3cecddcabc9a6ff01647d3366cda656b4472df9264ea0f03fc4b51f48b85fad6": {
+        "title": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
+        "link": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Dec 2025 23:17:00 GMT",
+        "first_seen": "2025-12-22T23:26:31.676413"
+      },
+      "8d7f4260662055a0290c167333fe0b1acc9ab3e48e3656afa2d847a1e3dde9bd": {
+        "title": "US halts offshore wind projects, citing national security concerns",
+        "link": "https://www.ft.com/content/fedb8762-8ae1-4b20-99d5-7167d39d9bab",
+        "published_date": "Mon, 22 Dec 2025 22:33:00 GMT",
+        "first_seen": "2025-12-22T23:26:31.676421"
+      },
+      "234b38394218916e30c3c49b19dd91946956e83cd68728607af143c87222ad99": {
+        "title": "Why young crypto bros are also some of FanDuel’s and DraftKings’ best customers",
+        "link": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Dec 2025 21:34:00 GMT",
+        "first_seen": "2025-12-22T23:26:31.676423"
+      },
+      "f902f45eb9172db7465ad5eb23f1a91da737f8b759dbc43091d11efbd96b00ea": {
+        "title": "These investments for the elite are opening to all — but think twice before saying yes",
+        "link": "https://www.marketwatch.com/story/these-elite-investments-can-now-be-yours-just-think-twice-before-saying-yes-593311c5?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Dec 2025 21:27:00 GMT",
+        "first_seen": "2025-12-22T23:26:31.676426"
+      },
+      "1f93fc88e2f5df09a20335adf3dba5b90bd786739bc9707eb28bf6ade7b59411": {
+        "title": "Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.",
+        "link": "https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Dec 2025 22:43:00 GMT",
+        "first_seen": "2025-12-22T23:26:31.676428"
       }
     },
     "Ai": {
@@ -9978,13 +9966,43 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-22-3",
         "published_date": "Mon, 22 Dec 2025 13:45:00 GMT",
         "first_seen": "2025-12-22T08:33:25.641705"
+      },
+      "6e8399b855d7eb17cc59a910ba11c374de8f95946b1fe7172365bb68999aa519": {
+        "title": "多智能体可信标准在ITU立项：信通院、蚂蚁、中国电信等共同推动",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-9",
+        "published_date": "Mon, 22 Dec 2025 17:37:00 GMT",
+        "first_seen": "2025-12-22T23:26:46.877478"
+      },
+      "54ff21850e4f0c7bba9c6c589cf044d12bd63f42b0017b1684f69c709fdaeb8a": {
+        "title": "最火、最全的Agent记忆综述，NUS、人大、复旦、北大等联合出品",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-10",
+        "published_date": "Mon, 22 Dec 2025 18:19:00 GMT",
+        "first_seen": "2025-12-22T23:26:46.877483"
+      },
+      "5be24d9330b50d4d9717e36da0051ef7c20506117f01308969858c5b6121238b": {
+        "title": "RL加持的3D生成时代来了！首个「R1 式」文本到3D推理大模型AR3D-R1登场",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-7",
+        "published_date": "Mon, 22 Dec 2025 16:41:00 GMT",
+        "first_seen": "2025-12-22T23:26:46.877486"
+      },
+      "0685511967f342defea0b3ed432c82de685cda889b99e6751991352058cd35b1": {
+        "title": "旧金山大停电，Waymo自动驾驶汽车瘫痪，特斯拉赢麻了",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-8",
+        "published_date": "Mon, 22 Dec 2025 16:47:00 GMT",
+        "first_seen": "2025-12-22T23:26:46.877488"
+      },
+      "a3527e2be85c9090b42f7d600c4892a13b6ae713336da221cc1ec42da502c81c": {
+        "title": "“昆山杯”第二十七届清华大学创业大赛决赛举行",
+        "link": "https://www.qbitai.com/2025/12/363697.html",
+        "published_date": "Mon, 22 Dec 2025 09:04:00 GMT",
+        "first_seen": "2025-12-22T23:26:46.877493"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-22T08:33:50.558387",
-    "Finance": "2025-12-22T08:33:10.678195",
-    "Ai": "2025-12-22T08:33:25.641707"
+    "Technology": "2025-12-22T23:27:10.643734",
+    "Finance": "2025-12-22T23:26:31.676430",
+    "Ai": "2025-12-22T23:26:46.877496"
   }
 }

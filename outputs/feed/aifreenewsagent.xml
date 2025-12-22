@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Dec 2025 08:33:25 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 23:26:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-22-2</link>
-      <description>&lt;![CDATA[智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 13:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-2</guid>
+      <title>多智能体可信标准在ITU立项：信通院、蚂蚁、中国电信等共同推动</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-9</link>
+      <description>&lt;![CDATA[多智能体可信标准在ITU立项：信通院、蚂蚁、中国电信等共同推动]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 17:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-22-6</link>
-      <description>&lt;![CDATA[SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-6</guid>
+      <title>最火、最全的Agent记忆综述，NUS、人大、复旦、北大等联合出品</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-10</link>
+      <description>&lt;![CDATA[最火、最全的Agent记忆综述，NUS、人大、复旦、北大等联合出品]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-22-5</link>
-      <description>&lt;![CDATA[自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-5</guid>
+      <title>RL加持的3D生成时代来了！首个「R1 式」文本到3D推理大模型AR3D-R1登场</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-7</link>
+      <description>&lt;![CDATA[RL加持的3D生成时代来了！首个「R1 式」文本到3D推理大模型AR3D-R1登场]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-22-4</link>
-      <description>&lt;![CDATA[陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-4</guid>
+      <title>旧金山大停电，Waymo自动驾驶汽车瘫痪，特斯拉赢麻了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-22-8</link>
+      <description>&lt;![CDATA[旧金山大停电，Waymo自动驾驶汽车瘫痪，特斯拉赢麻了]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-22-3</link>
-      <description>&lt;![CDATA[瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演]]&gt;</description>
-      <pubDate>Mon, 22 Dec 2025 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-22-3</guid>
+      <title>“昆山杯”第二十七届清华大学创业大赛决赛举行</title>
+      <link>https://www.qbitai.com/2025/12/363697.html</link>
+      <description>&lt;![CDATA[“昆山杯”第二十七届清华大学创业大赛决赛举行]]&gt;</description>
+      <pubDate>Mon, 22 Dec 2025 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/363697.html</guid>
       <category>Ai</category>
     </item>
   </channel>

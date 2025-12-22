@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-22 08:33
+**最后更新时间**: 2025-12-22 23:26
+
+---
+
+## 🆕 最新更新 (2025-12-22 23:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid](https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 23:17
+
+#### [A Starlink rival’s shares are surging again, as space stocks stay red-hot](https://www.marketwatch.com/story/a-starlink-rivals-stock-is-surging-again-as-space-stocks-stay-red-hot-e3229aa7?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 23:14
+
+#### [Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.](https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 22:43
+
+#### [AMC’s stock sinks to a 6th straight record low, as ‘Avatar’ sequel’s big opening fails to impress](https://www.marketwatch.com/story/amcs-stock-sinks-to-a-6th-straight-record-low-as-avatar-sequels-big-opening-fails-to-impress-801fd3b4?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 22:29
+
+#### [Sorry, winning Powerball’s $1.6 billion jackpot won’t make you a billionaire. Here’s why you may end up with $128.5 million instead.](https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 22:12
+
+#### [How Paramount can beat out Netflix, win over Warner Bros. and save Hollywood from Big Tech](https://www.marketwatch.com/story/how-paramount-beats-netflix-wins-warner-bros-and-saves-hollywood-from-big-tech-2e583ff8?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 21:43
+
+#### [Why young crypto bros are also some of FanDuel’s and DraftKings’ best customers](https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 21:34
+
+#### [These investments for the elite are opening to all — but think twice before saying yes](https://www.marketwatch.com/story/these-elite-investments-can-now-be-yours-just-think-twice-before-saying-yes-593311c5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-22 21:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US halts offshore wind projects, citing national security concerns](https://www.ft.com/content/fedb8762-8ae1-4b20-99d5-7167d39d9bab)
+**发布时间**: 2025-12-22 22:33
+
+#### [UK exporters increasingly dissatisfied with EU trade terms, survey finds](https://www.ft.com/content/b3d32e58-fbc8-415e-8c96-2c2a0a680f99)
+**发布时间**: 2025-12-22 22:30
+
+#### [The year of the tariff](https://www.ft.com/content/774e7180-48b6-4813-969d-845462f5838f)
+**发布时间**: 2025-12-22 17:25
+
+#### [Social media is taking us back to the Salem witch trials](https://www.ft.com/content/73028419-e054-4a5b-818e-80cded847d45)
+**发布时间**: 2025-12-22 16:05
+
+#### [Larry Ellison gives $40bn personal backing to Warner Bros Discovery bid](https://www.ft.com/content/4df74892-456a-47aa-a80f-77d1360571a2)
+**发布时间**: 2025-12-22 14:32
+
+#### [UK to ban boiling lobsters alive as animal welfare standards tightened](https://www.ft.com/content/8b0796ac-70db-4a4d-8da6-ef9921469b76)
+**发布时间**: 2025-12-22 13:57
+
+#### [North Sea operator Harbour buys Gulf of Mexico oil group for $3.2bn](https://www.ft.com/content/b19202d2-c0e0-4d24-aa2d-4cde9220f303)
+**发布时间**: 2025-12-22 11:21
+
+#### [What David Ellison can learn from a hostile bid battle of his father](https://www.ft.com/content/b06b03e4-4ee1-4cb8-9f9b-bd300b94ba29)
+**发布时间**: 2025-12-22 05:00
 
 ---
 
