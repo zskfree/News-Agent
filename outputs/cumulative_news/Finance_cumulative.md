@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-22 23:26
+**最后更新时间**: 2025-12-23 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-23 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI debt boom pushes US corporate bond sales close to record](https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06)
+**发布时间**: 2025-12-23 05:00
+
+#### [Is Christmas as good for the UK economy as it used to be?](https://www.ft.com/content/fa98dcea-4948-4fe9-8006-661785264db4)
+**发布时间**: 2025-12-23 05:00
+
+#### [Year in a word: AI bubble](https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f)
+**发布时间**: 2025-12-23 05:00
+
+#### [The good, the bad and the ugly of Britain’s labour market reforms](https://www.ft.com/content/ceb1269a-d7c3-43c1-899e-7e9d744cc4bc)
+**发布时间**: 2025-12-23 05:00
+
+#### [House prices fall in half of London boroughs](https://www.ft.com/content/a33f4f58-a7c0-43ae-bc99-e8652976b969)
+**发布时间**: 2025-12-23 05:00
+
+#### [Whisky galore: Trump’s tariffs and cost of living create glut of undrunk Scotch](https://www.ft.com/content/db41452e-2f9a-4262-ada5-b4f6d7a49508)
+**发布时间**: 2025-12-23 05:00
+
+#### [Novo Nordisk weight-loss drug wins US approval as a daily pill](https://www.ft.com/content/c8630c2a-321a-4a25-ad19-7c2b571c77f7)
+**发布时间**: 2025-12-23 01:22
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This shipbuilder’s stock soars to a fresh record as company wins contract to produce a new type of Navy frigate](https://www.marketwatch.com/story/this-shipbuilders-stock-is-soaring-to-a-fresh-record-as-company-wins-contract-to-produce-a-new-type-of-navy-frigate-9f9704d5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 01:42
 
 ---
 

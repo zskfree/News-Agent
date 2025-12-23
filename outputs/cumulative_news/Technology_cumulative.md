@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-22 23:26
+**最后更新时间**: 2025-12-23 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-23 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [流感季爆火的居家快检，真的有那么灵？](https://www.tmtpost.com/7818018.html)
+**发布时间**: 2025-12-23 13:14
+
+#### [与抖音退货服务“分手”，1300亿王卫有何打算？](https://www.tmtpost.com/7817672.html)
+**发布时间**: 2025-12-23 12:02
+
+#### [不用替泡泡玛特操心](https://www.tmtpost.com/7817971.html)
+**发布时间**: 2025-12-23 11:59
+
+#### [抖音变阵，美团受伤？](https://www.tmtpost.com/7817720.html)
+**发布时间**: 2025-12-23 11:38
+
+#### [叠纸腾讯稳健、网易触底反弹，2025乙游市场格局变了吗？](https://www.tmtpost.com/7817920.html)
+**发布时间**: 2025-12-23 11:11
+
+#### [这12只因税损抛售下跌的股票，有望迎来反弹](https://www.tmtpost.com/7818086.html)
+**发布时间**: 2025-12-23 11:02
+
+#### [Instacart停止AI定价测试，股价应声下跌](https://www.tmtpost.com/7818075.html)
+**发布时间**: 2025-12-23 11:01
+
+#### [Chinese Chipmakers Rush to IPOs as Blockbuster Debuts Fuel Funding Drive](https://www.tmtpost.com/7818065.html)
+**发布时间**: 2025-12-23 11:00
+
+#### [流感季来势汹汹，上市药企如何应考？康缘药业、亿帆医药等多家企业回应](https://www.tmtpost.com/7818016.html)
+**发布时间**: 2025-12-23 10:58
+
+#### [“邪修”求生的高星酒店，转头盯上REITs](https://www.tmtpost.com/7817963.html)
+**发布时间**: 2025-12-23 10:38
+
+#### [技术分析显示，这三只股票有望上涨](https://www.tmtpost.com/7817959.html)
+**发布时间**: 2025-12-23 10:11
+
+#### [Netflix让全世界爱上了刷剧，现在他们正在进入沉浸式体验领域](https://www.tmtpost.com/7817952.html)
+**发布时间**: 2025-12-23 10:10
+
+#### [H200春节前重返中国，黄仁勋有多少胜算？](https://www.tmtpost.com/7817767.html)
+**发布时间**: 2025-12-23 10:10
+
+#### [快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？](https://www.tmtpost.com/7817891.html)
+**发布时间**: 2025-12-23 10:08
+
+#### [蜜雪杀入北美；Manus营收突破1亿美元；MiniMax通过港交所聆讯；石头科技位全球智能吸尘器出货量榜首｜一周大公司出海动态](https://www.tmtpost.com/7815757.html)
+**发布时间**: 2025-12-23 10:07
+
+#### [越南2025年电商规模将达310亿美元；Temu跃居英国电商访问量第三；今年全球玩具与游戏销售额达2870亿美元｜一周出海参考](https://www.tmtpost.com/7817358.html)
+**发布时间**: 2025-12-23 10:06
+
+#### [硬刚智谱？MiniMax靠的是什么？](https://www.tmtpost.com/7817666.html)
+**发布时间**: 2025-12-23 10:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [下一代搜索：通过MCP实现AI与OpenSearch的融合](https://www.infoq.cn/article/5bMIlkSFYQu0QpBMQt2G?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 13:00
+
+#### [GPT-6或三个月内亮相！奥特曼亲口承认：9亿用户难敌谷歌“致命一击”，1.4万亿美元算力豪赌AI未来](https://www.infoq.cn/article/9aogD7JlaptgBYFg6DuZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 11:58
+
+#### [巫师3、茶杯头、赛博朋克2077都能玩：英伟达把会打1000多款游戏的大模型全开源了](https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 11:51
+
+#### [Meta的优化平台Ax 1.0能够简化大语言模型和系统优化](https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 11:30
+
+#### [腾讯云操作系统运维平台TManager：demo 来了](https://www.infoq.cn/video/9LXpePJ0D0o0z4MP4MdO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 11:29
+
+#### [支撑民航核心结算系统！TencentOS筑牢中国航空结算有限责任公司“数字底座”](https://www.infoq.cn/article/PMGcpiIUMkxS9skMqjXe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 11:21
+
+#### [打破确定性魔咒！北航团队提出VBF++：用“不确定性建模”刷新多模态视频推荐 SOTA](https://www.infoq.cn/article/SpKH3QZzYAJEtvZ4I3ON?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 11:03
+
+#### [跨越推荐系统“时间陷阱”，让模型在流式数据中学到真实用户偏好](https://www.infoq.cn/article/OyWXX1zizKaS1HNojI6E?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 10:52
+
+#### [Transformers v5引入了更具模块化和互操作性的核心](https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [《羊蹄山之魂》十问十答](https://sspai.com/post/104779)
+**发布时间**: 2025-12-23 11:30
+
+#### [派早报：华为举行 nova 15 系列及全场景新品发布会等](https://sspai.com/post/104833)
+**发布时间**: 2025-12-23 08:26
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [为什么记忆棉枕头可以把缓慢回弹？](http://www.huxiu.com/article/4819642.html?f=wangzhan)
+**发布时间**: 2025-12-23 11:05
+
+#### [用意念拿外卖，中国科学家攻克脑机接口难关](http://www.huxiu.com/article/4819595.html?f=wangzhan)
+**发布时间**: 2025-12-23 08:00
+
+#### [拒绝溢价、死磕15%毛利：零跑的“逆势增长”飞轮](http://www.huxiu.com/article/4819762.html?f=wangzhan)
+**发布时间**: 2025-12-23 07:26
+
+#### [山寨动画横行的十年，发生了什么？](http://www.huxiu.com/article/4819650.html?f=wangzhan)
+**发布时间**: 2025-12-22 20:00
+
+#### [销量跌、价格降，宝马在中国怎么了？](http://www.huxiu.com/article/4819507.html?f=wangzhan)
+**发布时间**: 2025-12-22 16:00
 
 ---
 
