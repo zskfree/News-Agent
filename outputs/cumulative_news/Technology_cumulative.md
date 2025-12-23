@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 05:25
+**最后更新时间**: 2025-12-23 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-23 08:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [「深度实践」如何用7年做出一家ToB上市公司｜2025 T-EDGE全球对话](https://www.tmtpost.com/7815078.html)
+**发布时间**: 2025-12-23 16:17
+
+#### [对话机械革命创始人潘春节：创业十年，永远为用户体验“走深一公里”](https://www.tmtpost.com/7818050.html)
+**发布时间**: 2025-12-23 15:46
+
+#### [一张“戏票”闯港股，印象大红袍1300万“拼命”上市](https://www.tmtpost.com/7817801.html)
+**发布时间**: 2025-12-23 15:37
+
+#### [涅槃归来！金刚光伏重整完成，“光伏+算力”启新篇](https://www.tmtpost.com/7818329.html)
+**发布时间**: 2025-12-23 15:12
+
+#### [给AI接上专有知识库：RAG的工程化实现](https://www.tmtpost.com/7817906.html)
+**发布时间**: 2025-12-23 15:01
+
+#### [小象超市北京开店，美团与阿里形成「生鲜1V1」态势](https://www.tmtpost.com/7817621.html)
+**发布时间**: 2025-12-23 14:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5](https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 16:01
+
+#### [将遗留测试套件迁移到基于Kotlin的Gauge框架的经验总结](https://www.infoq.cn/article/mGh8bljh39B2IUNmjhst?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 15:45
+
+#### [AI落地进行时：企业业务、组织与人才升级实战案例集](https://www.infoq.cn/minibook/U6o5PauwIQZlfBAefsTE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 15:11
+
+#### [告别“一刀切”：“需求分化”如何重构算力供给？](https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 14:48
+
+#### [亚马逊云科技推出“DevOps Agent”，以实现事件响应自动化并提高系统可靠性](https://www.infoq.cn/article/GJED7TYiFFUYb87re523?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 14:33
+
+#### [谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了](https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 13:53
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最近爆火的人生K线！GitHub 上有开源，真的太有趣了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529909&idx=1&sn=3760362073fe7e60ea7a4ceb032cc050)
+**发布时间**: 2025-12-23 15:04
 
 ---
 

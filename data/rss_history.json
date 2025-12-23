@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d33e40dd0c1208d55a1ccda674a5f7bbca2c841243451e5ee96a1bfb7dbae0b6": {
-        "title": "卡帕西大模型横评方法太好玩！四大AI匿名参赛评分，最强出乎意料",
-        "link": "https://www.qbitai.com/2025/11/355572.html",
-        "published_date": "Sun, 23 Nov 2025 05:52:00 GMT",
-        "first_seen": "2025-11-23T08:26:18.638835"
-      },
-      "7b9af617ad7fad8681e9f6c80fbc0c432782284a23bf6e528155d0f11310777c": {
-        "title": "AI把PC天花板打破了",
-        "link": "https://www.qbitai.com/2025/11/355559.html",
-        "published_date": "Sun, 23 Nov 2025 05:49:00 GMT",
-        "first_seen": "2025-11-23T08:26:18.638998"
-      },
       "ab347faece258682578212fb96ae7ada239f87bfad381e51256e3c0f82077b9d": {
         "title": "杭州蚂蚁投了家腾讯系具身智能公司",
         "link": "https://www.qbitai.com/2025/11/355586.html",
@@ -537,12 +525,6 @@
       }
     },
     "Technology": {
-      "03ff9c8137bc4cb013f9f3614b55a7e74d7bdfd064d49466fae14e0443919e45": {
-        "title": "城市漫步指南：炎热、精致、昂贵？我想带你探寻狮城的建筑物语",
-        "link": "https://sspai.com/post/103861",
-        "published_date": "Sun, 23 Nov 2025 13:16:00 GMT",
-        "first_seen": "2025-11-23T08:26:18.711907"
-      },
       "0eed4e6ebe9cf1936cf5e6654c887a345f44466d53522da6a4a82e4614b21fc9": {
         "title": "谷歌和阿里，都靠AI实现了逆袭 | 财经峰评",
         "link": "https://www.tmtpost.com/7778028.html",
@@ -5870,6 +5852,36 @@
         "link": "https://www.tmtpost.com/7818075.html",
         "published_date": "Tue, 23 Dec 2025 11:01:00 GMT",
         "first_seen": "2025-12-23T05:26:33.319596"
+      },
+      "406fface4462a50b8e16fa0836351177a99a5f80a41800a7c06d4d96140dd293": {
+        "title": "“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5",
+        "link": "https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Dec 2025 16:01:00 GMT",
+        "first_seen": "2025-12-23T08:33:56.805632"
+      },
+      "8c406c7627ffac3e720255be63e4763d40295124ce55ec1b6dcbc8f3f8a2a4e3": {
+        "title": "谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了",
+        "link": "https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Dec 2025 13:53:00 GMT",
+        "first_seen": "2025-12-23T08:33:56.805639"
+      },
+      "d415db87fd5dd47896a85a9443e04061438346fd08030bb4b74c48da4dc7a9c0": {
+        "title": "给AI接上专有知识库：RAG的工程化实现",
+        "link": "https://www.tmtpost.com/7817906.html",
+        "published_date": "Tue, 23 Dec 2025 15:01:00 GMT",
+        "first_seen": "2025-12-23T08:33:56.805641"
+      },
+      "c40a01cc27b30d7874db311616a0106e964299945e48f9f32802110b088ef2ca": {
+        "title": "告别“一刀切”：“需求分化”如何重构算力供给？",
+        "link": "https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Dec 2025 14:48:00 GMT",
+        "first_seen": "2025-12-23T08:33:56.805643"
+      },
+      "9d47e0b50a19da467c68fdd02e88197504b630c023455e0274f939d92c20eae5": {
+        "title": "巫师3、茶杯头、赛博朋克2077都能玩：英伟达把会打1000多款游戏的大模型全开源了",
+        "link": "https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Dec 2025 11:51:00 GMT",
+        "first_seen": "2025-12-23T08:33:56.805645"
       }
     },
     "Finance": {
@@ -9972,13 +9984,43 @@
         "link": "https://www.qbitai.com/2025/12/365043.html",
         "published_date": "Tue, 23 Dec 2025 03:10:00 GMT",
         "first_seen": "2025-12-23T05:26:15.864841"
+      },
+      "1abb0f98bfb5e0873e2456c94a2a8aeb57283e9fa4c1ce86bedcb2aac36f60e4": {
+        "title": "LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-8",
+        "published_date": "Tue, 23 Dec 2025 16:06:00 GMT",
+        "first_seen": "2025-12-23T08:33:32.767718"
+      },
+      "bfd05693fc081ecd08fd58f0e9dd1759add0c70c72620ee40aa486776575b784": {
+        "title": "打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-6",
+        "published_date": "Tue, 23 Dec 2025 15:44:00 GMT",
+        "first_seen": "2025-12-23T08:33:32.767727"
+      },
+      "1b1819373b6dea3bac9eccb9673d488add7ecd6183e9193ee69d9211ce5f302a": {
+        "title": "智能体落地元年，Agent Infra是关键一环｜对话腾讯云&Dify",
+        "link": "https://www.qbitai.com/2025/12/365574.html",
+        "published_date": "Tue, 23 Dec 2025 05:55:00 GMT",
+        "first_seen": "2025-12-23T08:33:32.767730"
+      },
+      "e32c7dd8872c43a30ddd3f488a60466d1c8c0c3c89efd24bab7309aeb9b2630c": {
+        "title": "告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-7",
+        "published_date": "Tue, 23 Dec 2025 16:02:00 GMT",
+        "first_seen": "2025-12-23T08:33:32.767732"
+      },
+      "d48f386c67a436c431fb33219410a592b2d6a577054387b37f1d736872667158": {
+        "title": "AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背",
+        "link": "https://www.qbitai.com/2025/12/365594.html",
+        "published_date": "Tue, 23 Dec 2025 06:22:00 GMT",
+        "first_seen": "2025-12-23T08:33:32.767734"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-23T05:26:33.319598",
+    "Technology": "2025-12-23T08:33:56.805647",
     "Finance": "2025-12-23T05:26:05.742289",
-    "Ai": "2025-12-23T05:26:15.864844"
+    "Ai": "2025-12-23T08:33:32.767736"
   }
 }

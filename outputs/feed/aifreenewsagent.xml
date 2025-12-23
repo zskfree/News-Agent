@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 05:26:15 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 08:33:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>仅需15%全量Attention！「RTPurbo」阿里Qwen3长文本推理5倍压缩方案来了</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-3</link>
-      <description>&lt;![CDATA[仅需15%全量Attention！「RTPurbo」阿里Qwen3长文本推理5倍压缩方案来了]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-3</guid>
+      <title>LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-8</link>
+      <description>&lt;![CDATA[LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>VideoCoF：将「时序推理」引入视频编辑，无Mask实现高精度编辑与长视频外推！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23</link>
-      <description>&lt;![CDATA[VideoCoF：将「时序推理」引入视频编辑，无Mask实现高精度编辑与长视频外推！]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 12:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23</guid>
+      <title>打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-6</link>
+      <description>&lt;![CDATA[打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智谱IPO敲钟前，连夜把开源编程大模型SOTA了</title>
-      <link>https://www.qbitai.com/2025/12/364823.html</link>
-      <description>&lt;![CDATA[智谱IPO敲钟前，连夜把开源编程大模型SOTA了]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 00:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/364823.html</guid>
+      <title>智能体落地元年，Agent Infra是关键一环｜对话腾讯云&amp;Dify</title>
+      <link>https://www.qbitai.com/2025/12/365574.html</link>
+      <description>&lt;![CDATA[智能体落地元年，Agent Infra是关键一环｜对话腾讯云&amp;Dify]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 05:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365574.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>拿走200多万奖金的AI人才，到底给出了什么样的技术方案？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-4</link>
-      <description>&lt;![CDATA[拿走200多万奖金的AI人才，到底给出了什么样的技术方案？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-4</guid>
+      <title>告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-7</link>
+      <description>&lt;![CDATA[告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>我们走访全国百强三甲医院，发现40%都选了同一家AI公司</title>
-      <link>https://www.qbitai.com/2025/12/365043.html</link>
-      <description>&lt;![CDATA[我们走访全国百强三甲医院，发现40%都选了同一家AI公司]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 03:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365043.html</guid>
+      <title>AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背</title>
+      <link>https://www.qbitai.com/2025/12/365594.html</link>
+      <description>&lt;![CDATA[AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 06:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365594.html</guid>
       <category>Ai</category>
     </item>
   </channel>
