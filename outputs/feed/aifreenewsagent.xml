@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 08:33:32 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 23:21:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-8</link>
-      <description>&lt;![CDATA[LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-8</guid>
+      <title>当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-11</link>
+      <description>&lt;![CDATA[当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-6</link>
-      <description>&lt;![CDATA[打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-6</guid>
+      <title>为具身智能构建原生安全底座，永信至诚首发「数字风洞」具身智能原生安全解决方案</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-5</link>
+      <description>&lt;![CDATA[为具身智能构建原生安全底座，永信至诚首发「数字风洞」具身智能原生安全解决方案]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智能体落地元年，Agent Infra是关键一环｜对话腾讯云&amp;Dify</title>
-      <link>https://www.qbitai.com/2025/12/365574.html</link>
-      <description>&lt;![CDATA[智能体落地元年，Agent Infra是关键一环｜对话腾讯云&amp;Dify]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365574.html</guid>
+      <title>只需150k数据，多图融合效果超越Qwen-2509，至多支持10图输入！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-9</link>
+      <description>&lt;![CDATA[只需150k数据，多图融合效果超越Qwen-2509，至多支持10图输入！]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-7</link>
-      <description>&lt;![CDATA[告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-7</guid>
+      <title>智明堂大模型获国家中医执业医师测试最佳成绩，首创TCM-Eval基准促行业标准化</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-23-10</link>
+      <description>&lt;![CDATA[智明堂大模型获国家中医执业医师测试最佳成绩，首创TCM-Eval基准促行业标准化]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背</title>
-      <link>https://www.qbitai.com/2025/12/365594.html</link>
-      <description>&lt;![CDATA[AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 06:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365594.html</guid>
+      <title>LMArena最新排名：文心大模型5.0 Preview文本能力位居国内第一</title>
+      <link>https://www.qbitai.com/2025/12/365659.html</link>
+      <description>&lt;![CDATA[LMArena最新排名：文心大模型5.0 Preview文本能力位居国内第一]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365659.html</guid>
       <category>Ai</category>
     </item>
   </channel>

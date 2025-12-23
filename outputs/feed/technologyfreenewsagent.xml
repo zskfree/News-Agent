@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 08:33:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 08:33:56 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 23:22:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5</title>
-      <link>https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写</title>
+      <link>https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了</title>
-      <link>https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>L4级自动驾驶赛道分化，Robobus将成为“第一战场”？</title>
+      <link>https://www.tmtpost.com/7818613.html</link>
+      <description>&lt;![CDATA[L4级自动驾驶赛道分化，Robobus将成为“第一战场”？]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818613.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>给AI接上专有知识库：RAG的工程化实现</title>
-      <link>https://www.tmtpost.com/7817906.html</link>
-      <description>&lt;![CDATA[给AI接上专有知识库：RAG的工程化实现]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7817906.html</guid>
+      <title>Meta的优化平台Ax 1.0能够简化大语言模型和系统优化</title>
+      <link>https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta的优化平台Ax 1.0能够简化大语言模型和系统优化]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>告别“一刀切”：“需求分化”如何重构算力供给？</title>
-      <link>https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[告别“一刀切”：“需求分化”如何重构算力供给？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？</title>
+      <link>https://www.tmtpost.com/7817891.html</link>
+      <description>&lt;![CDATA[快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7817891.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巫师3、茶杯头、赛博朋克2077都能玩：英伟达把会打1000多款游戏的大模型全开源了</title>
-      <link>https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[巫师3、茶杯头、赛博朋克2077都能玩：英伟达把会打1000多款游戏的大模型全开源了]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 11:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Transformers v5引入了更具模块化和互操作性的核心</title>
+      <link>https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Transformers v5引入了更具模块化和互操作性的核心]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

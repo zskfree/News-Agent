@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "ab347faece258682578212fb96ae7ada239f87bfad381e51256e3c0f82077b9d": {
-        "title": "杭州蚂蚁投了家腾讯系具身智能公司",
-        "link": "https://www.qbitai.com/2025/11/355586.html",
-        "published_date": "Sun, 23 Nov 2025 14:23:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.149069"
-      },
       "27d8ac9a76ada87f260d55b558b85a2e3bb32e0ed11fe4435f876ef2ebb22736": {
         "title": "2025宝山·智能机器人产业大会成功举办，「具身智能与机器人主题论坛」聚焦技术突破与产业落地",
         "link": "https://www.jiqizhixin.com/articles/2025-11-24-7",
@@ -525,42 +519,6 @@
       }
     },
     "Technology": {
-      "0eed4e6ebe9cf1936cf5e6654c887a345f44466d53522da6a4a82e4614b21fc9": {
-        "title": "谷歌和阿里，都靠AI实现了逆袭 | 财经峰评",
-        "link": "https://www.tmtpost.com/7778028.html",
-        "published_date": "Sun, 23 Nov 2025 23:02:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.217636"
-      },
-      "6e7b03c01dac8ed6129b71154102c8b9adbbf1c3fa45f4983ff05c484aa2faaf": {
-        "title": "From Cockpit to Cloud: How AI Is Driving the Future of Smart Vehicles",
-        "link": "https://www.tmtpost.com/7778016.html",
-        "published_date": "Sun, 23 Nov 2025 22:31:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.217822"
-      },
-      "fd8ba3092abc7d1e80c00e69380e2208f02ba4e6d90a1a7e772414600ec01937": {
-        "title": "铅锌巨头超7亿元购控股子公司少数股东股权；金富科技计划收购蓝原科技51%股权，跨界切入电线电缆新材料赛道【并购一线】",
-        "link": "https://www.tmtpost.com/7777947.html",
-        "published_date": "Sun, 23 Nov 2025 20:38:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.218070"
-      },
-      "7f1782fab3f90cf2465f81024273ffeb7a627464c42cf91fac3b133b156dcaac": {
-        "title": "拳头产品被召回，华为前高管创建的储能“黑马”遭遇信任危机",
-        "link": "https://www.tmtpost.com/7777865.html",
-        "published_date": "Sun, 23 Nov 2025 19:45:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.218337"
-      },
-      "0fa81bbb59e11b747219dfec686300db04331c7b234e06f40e57582fe4076dd4": {
-        "title": "风口下的RWA：万亿市场盛宴，还是泡沫？",
-        "link": "https://www.tmtpost.com/7777854.html",
-        "published_date": "Sun, 23 Nov 2025 19:39:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.218607"
-      },
-      "38a68cdfae0ddfae9f7d426dccf5016a48c54d05d0563806664076430941da99": {
-        "title": "To C传播正成为B端企业“第二条生产线”",
-        "link": "https://www.tmtpost.com/7777805.html",
-        "published_date": "Sun, 23 Nov 2025 16:58:00 GMT",
-        "first_seen": "2025-11-23T23:19:34.218904"
-      },
       "2b97fbd2fb92a1d7989d7a82a1dcc35d2ac6a91f6af78105353126fd1c75244b": {
         "title": "Blackwell全面量产，AI芯片「美国造」真能行？",
         "link": "http://www.geekpark.net/news/356815",
@@ -5882,6 +5840,36 @@
         "link": "https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 23 Dec 2025 11:51:00 GMT",
         "first_seen": "2025-12-23T08:33:56.805645"
+      },
+      "dbc4d0d8c6e011a6e899c7222d9b55a0c01f3136a1749db6c93cb199b9f568af": {
+        "title": "“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写",
+        "link": "https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Dec 2025 06:00:00 GMT",
+        "first_seen": "2025-12-23T23:22:02.145378"
+      },
+      "f64b630d3ac0550c4551f17e26212a29e29a08672e2c9970c06b4b4229063b0c": {
+        "title": "L4级自动驾驶赛道分化，Robobus将成为“第一战场”？",
+        "link": "https://www.tmtpost.com/7818613.html",
+        "published_date": "Tue, 23 Dec 2025 19:04:00 GMT",
+        "first_seen": "2025-12-23T23:22:02.145385"
+      },
+      "16d26f96d02da7c899bf34e99d7d43da84529fbd751111df5dc17566c776b574": {
+        "title": "Meta的优化平台Ax 1.0能够简化大语言模型和系统优化",
+        "link": "https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Dec 2025 11:30:00 GMT",
+        "first_seen": "2025-12-23T23:22:02.145387"
+      },
+      "ecde48c644571f68fe9f3e996f63d8b576a41db025fa72f818a1038e6fd0937a": {
+        "title": "快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？",
+        "link": "https://www.tmtpost.com/7817891.html",
+        "published_date": "Tue, 23 Dec 2025 10:08:00 GMT",
+        "first_seen": "2025-12-23T23:22:02.145389"
+      },
+      "003d8016285a0b2bb94770eef26fa8c83f3256d64b7263172aad18e2ab2e4a0e": {
+        "title": "Transformers v5引入了更具模块化和互操作性的核心",
+        "link": "https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Dec 2025 10:00:00 GMT",
+        "first_seen": "2025-12-23T23:22:02.145390"
       }
     },
     "Finance": {
@@ -7894,6 +7882,36 @@
         "link": "https://www.ft.com/content/ceb1269a-d7c3-43c1-899e-7e9d744cc4bc",
         "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-23T05:26:05.742287"
+      },
+      "be8d68bf16d97d407730901d346009b7947c671cecdf2e5075b669199ef6ce30": {
+        "title": "US economy grew at 4.3% rate in third quarter",
+        "link": "https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c",
+        "published_date": "Tue, 23 Dec 2025 22:45:00 GMT",
+        "first_seen": "2025-12-23T23:21:20.679198"
+      },
+      "e9635841302edf2fdb0c5fa7dfb60c34a6eda6f013b329af77012e12416fb840": {
+        "title": "Trump administration accuses China of unfair chip trade practices",
+        "link": "https://www.ft.com/content/a1274e4a-baf3-4f63-82f6-2758af1aa745",
+        "published_date": "Tue, 23 Dec 2025 17:01:00 GMT",
+        "first_seen": "2025-12-23T23:21:20.679209"
+      },
+      "2e954937dae006042fb13b60a6ead7df1308028bb071a872fb3a424d31d37c50": {
+        "title": "Wall Street’s ‘fear gauge’ shows investors feeling confident heading into 2026 — and overlooking some big risks",
+        "link": "https://www.marketwatch.com/story/wall-streets-fear-gauge-shows-investors-feeling-confident-heading-into-2026-and-overlooking-some-big-risks-95fbf04d?mod=mw_rss_topstories",
+        "published_date": "Tue, 23 Dec 2025 21:39:00 GMT",
+        "first_seen": "2025-12-23T23:21:20.679211"
+      },
+      "6119301bc767f995b3db9e4c6aad507d2c69f1d20a506ec41d4b4c9e554916a1": {
+        "title": "Americans are starting the new year with record debt. Here’s how they can get it under control.",
+        "link": "https://www.marketwatch.com/story/americans-are-starting-the-new-year-with-record-debt-heres-how-they-can-get-it-under-control-75c0f08a?mod=mw_rss_topstories",
+        "published_date": "Tue, 23 Dec 2025 21:46:00 GMT",
+        "first_seen": "2025-12-23T23:21:20.679213"
+      },
+      "e8aace2c82916f5a65f5f448dcf4f754936a14ac3b8de854051a7229335abe6a": {
+        "title": "Quantum computing is the stock market’s next big tech play — and these stocks are still cheap",
+        "link": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
+        "published_date": "Tue, 23 Dec 2025 18:59:00 GMT",
+        "first_seen": "2025-12-23T23:21:20.679215"
       }
     },
     "Ai": {
@@ -10014,13 +10032,43 @@
         "link": "https://www.qbitai.com/2025/12/365594.html",
         "published_date": "Tue, 23 Dec 2025 06:22:00 GMT",
         "first_seen": "2025-12-23T08:33:32.767734"
+      },
+      "a7037ae6a679a11edc5461d08ccd2d3c3df10aff466eaf1389e5917fcf1d67a6": {
+        "title": "当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-11",
+        "published_date": "Tue, 23 Dec 2025 17:45:00 GMT",
+        "first_seen": "2025-12-23T23:21:32.534124"
+      },
+      "f74558fb87f8d2210625f812ce26d04eedca3621e8fe758e5405661bbe30bb8e": {
+        "title": "为具身智能构建原生安全底座，永信至诚首发「数字风洞」具身智能原生安全解决方案",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-5",
+        "published_date": "Tue, 23 Dec 2025 14:29:00 GMT",
+        "first_seen": "2025-12-23T23:21:32.534130"
+      },
+      "2ed06d73e95e73bd4892d658d41363e7bdfb15306e0b30b9fbe1964e941c2325": {
+        "title": "只需150k数据，多图融合效果超越Qwen-2509，至多支持10图输入！",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-9",
+        "published_date": "Tue, 23 Dec 2025 17:15:00 GMT",
+        "first_seen": "2025-12-23T23:21:32.534132"
+      },
+      "1010d530f3da3b95b0bd6a466d6806f255a48460dbe532148df373beed22c4ca": {
+        "title": "智明堂大模型获国家中医执业医师测试最佳成绩，首创TCM-Eval基准促行业标准化",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-23-10",
+        "published_date": "Tue, 23 Dec 2025 17:19:00 GMT",
+        "first_seen": "2025-12-23T23:21:32.534133"
+      },
+      "78d950b5959f882c2afb8a7f4bec47c4f98b5ee9aae7738a5e6bc23e7ee3c24e": {
+        "title": "LMArena最新排名：文心大模型5.0 Preview文本能力位居国内第一",
+        "link": "https://www.qbitai.com/2025/12/365659.html",
+        "published_date": "Tue, 23 Dec 2025 14:09:00 GMT",
+        "first_seen": "2025-12-23T23:21:32.534135"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-23T08:33:56.805647",
-    "Finance": "2025-12-23T05:26:05.742289",
-    "Ai": "2025-12-23T08:33:32.767736"
+    "Technology": "2025-12-23T23:22:02.145392",
+    "Finance": "2025-12-23T23:21:20.679217",
+    "Ai": "2025-12-23T23:21:32.534137"
   }
 }

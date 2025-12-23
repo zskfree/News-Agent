@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 08:33
+**最后更新时间**: 2025-12-23 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-23 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写](https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 06:00
+
+#### [模力工场 025 周 AI 应用榜：传统 SEO 黄昏？蓝莺 GrowAI 说让品牌出现在 AI 答案里！](https://www.infoq.cn/article/Xs499NxyphCpU7VPkoAd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 20:00
+
+#### [AI耳机需要独立OS吗？声智科技以“离散交互”给出否定答案](https://www.infoq.cn/article/cE4J3fK3tDwctUA39Cjl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 18:50
+
+#### [不用遥控自己跑！Vbot维他动力首款 “自主跟屁虫” 机器狗开售，12988 元抢疯了，明年 3 月批量供货](https://www.infoq.cn/article/IShjqjuRI3pYmDsgHdzN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 17:35
+
+#### [你的24小时“贴身医生”已上线](https://www.infoq.cn/article/mNINtEIw6kv6N0LWLDaF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 16:31
+
+#### [Pinterest工程通过运行时感知分片将Android CI构建时间缩短了36%](https://www.infoq.cn/article/2hfyYr7NW6puMYkZJelN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 16:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“创二代”接棒后石药抛4.5亿押注降糖减重赛道，新诺威赴港募资冲刺创新药转型](https://www.tmtpost.com/7818885.html)
+**发布时间**: 2025-12-23 23:04
+
+#### [China's Innovative Drugs Go Global: From Riding Leased Ships to Building Their Own Fleet](https://www.tmtpost.com/7818802.html)
+**发布时间**: 2025-12-23 21:08
+
+#### [罗兰贝格：2030年中国车企海外份额将占15%—20%](https://www.tmtpost.com/7818327.html)
+**发布时间**: 2025-12-23 19:53
+
+#### [豆瓣8.7分，当一群“疯子”决定破解AI，世界将如何改变？](https://www.tmtpost.com/7818644.html)
+**发布时间**: 2025-12-23 19:39
+
+#### [下一个泡泡玛特始终难产](https://www.tmtpost.com/7818252.html)
+**发布时间**: 2025-12-23 19:39
+
+#### [阿福和灵光，能承载蚂蚁的TO C野心吗？](https://www.tmtpost.com/7818675.html)
+**发布时间**: 2025-12-23 19:39
+
+#### [NAS市场爆发，国产芯片有机会吗？](https://www.tmtpost.com/7818647.html)
+**发布时间**: 2025-12-23 19:39
+
+#### [月薪最高5万，漫剧疯狂抢人，漫剧岗位是好职位吗？](https://www.tmtpost.com/7818345.html)
+**发布时间**: 2025-12-23 19:39
+
+#### [AI面试，正在变成一场没有人的表演](https://www.tmtpost.com/7818363.html)
+**发布时间**: 2025-12-23 19:39
+
+#### [纳百川A股敲钟，剑指新能源万亿赛道](https://www.tmtpost.com/7818704.html)
+**发布时间**: 2025-12-23 19:34
+
+#### [L4级自动驾驶赛道分化，Robobus将成为“第一战场”？](https://www.tmtpost.com/7818613.html)
+**发布时间**: 2025-12-23 19:04
+
+#### [年轻人的顶流“财神”，站上购物中心C位](https://www.tmtpost.com/7818505.html)
+**发布时间**: 2025-12-23 19:04
+
+#### [天图投资冯卫东：质价比、小确幸、自我完善消费将成主流趋势丨2025T-EDGE](https://www.tmtpost.com/7818654.html)
+**发布时间**: 2025-12-23 18:38
+
+#### [China Adds 70 New Billionaires as Self-Made Wealth and Asia-Pacific Lead Global Growth, UBS Says](https://www.tmtpost.com/7818620.html)
+**发布时间**: 2025-12-23 18:03
+
+#### [进击的无招，进化的钉钉](https://www.tmtpost.com/7818465.html)
+**发布时间**: 2025-12-23 17:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 123 | 年终大放送，盘点派友们的十一月「剁手」实录](https://sspai.com/post/104836)
+**发布时间**: 2025-12-23 17:00
 
 ---
 
