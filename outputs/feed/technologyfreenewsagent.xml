@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 23:22:02 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 05:27:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写</title>
-      <link>https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>oRPC发布1.0版本，支持OpenAPI和端到端类型安全</title>
+      <link>https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[oRPC发布1.0版本，支持OpenAPI和端到端类型安全]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L4级自动驾驶赛道分化，Robobus将成为“第一战场”？</title>
-      <link>https://www.tmtpost.com/7818613.html</link>
-      <description>&lt;![CDATA[L4级自动驾驶赛道分化，Robobus将成为“第一战场”？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 19:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818613.html</guid>
+      <title>Google Cloud发布托管的MCP支持</title>
+      <link>https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google Cloud发布托管的MCP支持]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta的优化平台Ax 1.0能够简化大语言模型和系统优化</title>
-      <link>https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta的优化平台Ax 1.0能够简化大语言模型和系统优化]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：三星发布 2026 款 Odyssey 系列显示器等</title>
+      <link>https://sspai.com/post/104861</link>
+      <description>&lt;![CDATA[派早报：三星发布 2026 款 Odyssey 系列显示器等]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104861</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？</title>
-      <link>https://www.tmtpost.com/7817891.html</link>
-      <description>&lt;![CDATA[快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7817891.html</guid>
+      <title>被起诉的AI独角兽，这样回应好莱坞</title>
+      <link>https://www.tmtpost.com/7818713.html</link>
+      <description>&lt;![CDATA[被起诉的AI独角兽，这样回应好莱坞]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818713.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Transformers v5引入了更具模块化和互操作性的核心</title>
-      <link>https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Transformers v5引入了更具模块化和互操作性的核心]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？</title>
+      <link>https://www.tmtpost.com/7818685.html</link>
+      <description>&lt;![CDATA[快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818685.html</guid>
       <category>Technology</category>
     </item>
   </channel>

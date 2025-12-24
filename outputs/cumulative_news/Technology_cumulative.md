@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 23:21
+**最后更新时间**: 2025-12-24 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-24 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [被起诉的AI独角兽，这样回应好莱坞](https://www.tmtpost.com/7818713.html)
+**发布时间**: 2025-12-24 12:59
+
+#### [快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？](https://www.tmtpost.com/7818685.html)
+**发布时间**: 2025-12-24 12:59
+
+#### [泡泡玛特的“成人礼”](https://www.tmtpost.com/7817937.html)
+**发布时间**: 2025-12-24 12:59
+
+#### [帕西尼CTO张恒第：人类生活方式将由我们改写](https://www.tmtpost.com/7817236.html)
+**发布时间**: 2025-12-24 12:59
+
+#### [阿福可以是蚂蚁的“第二个支付宝”](https://www.tmtpost.com/7817688.html)
+**发布时间**: 2025-12-24 12:59
+
+#### [优衣库背刺消费者](https://www.tmtpost.com/7818403.html)
+**发布时间**: 2025-12-24 12:17
+
+#### [中远海控：馅饼还是陷阱？](https://www.tmtpost.com/7819084.html)
+**发布时间**: 2025-12-24 12:17
+
+#### [「小」年大增长：2025游戏行业的变与不变](https://www.tmtpost.com/7818870.html)
+**发布时间**: 2025-12-24 11:33
+
+#### [3.4万亿字节，为留人放“涨薪大招”](https://www.tmtpost.com/7818882.html)
+**发布时间**: 2025-12-24 11:25
+
+#### [默沙东又踩了个雷](https://www.tmtpost.com/7819198.html)
+**发布时间**: 2025-12-24 11:25
+
+#### [榜单公布｜2025 EDGE AWARDS年度上市公司价值榜正式揭晓](https://www.tmtpost.com/7818757.html)
+**发布时间**: 2025-12-24 10:22
+
+#### [隆源股份：客户集中度高叠加毛利率下滑，高负债下大额分红引争议｜IPO观察](https://www.tmtpost.com/7816857.html)
+**发布时间**: 2025-12-24 10:10
+
+#### [壁仞的GPU，卡在了客户门口](https://www.tmtpost.com/7817625.html)
+**发布时间**: 2025-12-24 10:05
+
+#### [国产GPU造富狂欢：谁是最大赢家？](https://www.tmtpost.com/7818816.html)
+**发布时间**: 2025-12-24 10:05
+
+#### [当大厂承包你的衣食住行，这场「福利游戏」要付出什么代价](https://www.tmtpost.com/7818720.html)
+**发布时间**: 2025-12-24 09:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [oRPC发布1.0版本，支持OpenAPI和端到端类型安全](https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 11:01
+
+#### [Google Cloud发布托管的MCP支持](https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 10:32
+
+#### [JEP 500：通过限制反射来强制实现Final字段的严格不可变性](https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 10:19
+
+#### [“Cursor的bug太多了，他们直接买下一家代码评审公司来修！”](https://www.infoq.cn/article/MpbxRhWjPt4ioXx0mOcz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常](https://sspai.com/post/104809)
+**发布时间**: 2025-12-24 11:00
+
+#### [派早报：三星发布 2026 款 Odyssey 系列显示器等](https://sspai.com/post/104861)
+**发布时间**: 2025-12-24 08:39
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [2025数字消费报告：半年9.37万亿，钱都被谁花了？](http://www.huxiu.com/article/4819769.html?f=wangzhan)
+**发布时间**: 2025-12-23 18:20
+
+#### [海南正式封关，制造业要大洗牌了吗？](http://www.huxiu.com/article/4819958.html?f=wangzhan)
+**发布时间**: 2025-12-23 17:35
+
+#### [对话《三联生活周刊》主编李鸿谷：什么是AI抢不走的好新闻？](http://www.huxiu.com/article/4819833.html?f=wangzhan)
+**发布时间**: 2025-12-23 15:00
+
+#### [魏建军回应“九年八换CEO”：魏牌不做 “伪高端”](http://www.huxiu.com/article/4819854.html?f=wangzhan)
+**发布时间**: 2025-12-23 13:03
 
 ---
 

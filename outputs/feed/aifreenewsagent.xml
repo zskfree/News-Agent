@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 23:21:32 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 05:25:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 05:26:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-11</link>
-      <description>&lt;![CDATA[当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-11</guid>
+      <title>2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔</title>
+      <link>https://www.qbitai.com/2025/12/365688.html</link>
+      <description>&lt;![CDATA[2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 01:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365688.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>为具身智能构建原生安全底座，永信至诚首发「数字风洞」具身智能原生安全解决方案</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-5</link>
-      <description>&lt;![CDATA[为具身智能构建原生安全底座，永信至诚首发「数字风洞」具身智能原生安全解决方案]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-5</guid>
+      <title>拒绝「盲修」：JarvisEvo 如何让 Agent 像人类一样拥有「视觉反思」能力？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24</link>
+      <description>&lt;![CDATA[拒绝「盲修」：JarvisEvo 如何让 Agent 像人类一样拥有「视觉反思」能力？]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>只需150k数据，多图融合效果超越Qwen-2509，至多支持10图输入！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-9</link>
-      <description>&lt;![CDATA[只需150k数据，多图融合效果超越Qwen-2509，至多支持10图输入！]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-9</guid>
+      <title>AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA</title>
+      <link>https://www.qbitai.com/2025/12/365665.html</link>
+      <description>&lt;![CDATA[AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 01:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365665.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智明堂大模型获国家中医执业医师测试最佳成绩，首创TCM-Eval基准促行业标准化</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-23-10</link>
-      <description>&lt;![CDATA[智明堂大模型获国家中医执业医师测试最佳成绩，首创TCM-Eval基准促行业标准化]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-23-10</guid>
+      <title>字节做了个 AI 手机，钉钉做了台 AI 主机</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24-4</link>
+      <description>&lt;![CDATA[字节做了个 AI 手机，钉钉做了台 AI 主机]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>LMArena最新排名：文心大模型5.0 Preview文本能力位居国内第一</title>
-      <link>https://www.qbitai.com/2025/12/365659.html</link>
-      <description>&lt;![CDATA[LMArena最新排名：文心大模型5.0 Preview文本能力位居国内第一]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365659.html</guid>
+      <title>从「会表演」到「更会演」：KlingAvatar2.0让数字人拥有生动灵魂</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24-3</link>
+      <description>&lt;![CDATA[从「会表演」到「更会演」：KlingAvatar2.0让数字人拥有生动灵魂]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-3</guid>
       <category>Ai</category>
     </item>
   </channel>

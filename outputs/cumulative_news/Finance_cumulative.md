@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 23:21
+**最后更新时间**: 2025-12-24 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-24 05:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech groups shift $120bn of AI data centre debt off balance sheets](https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83)
+**发布时间**: 2025-12-24 05:00
+
+#### [The slow death of Britain’s TV channels](https://www.ft.com/content/4110ea88-dde4-4968-8e57-f0a8d55fe815)
+**发布时间**: 2025-12-24 05:00
+
+#### [Subscription overload is exhausting Americans](https://www.ft.com/content/3ac8ff50-5e4e-4625-8f18-c372a8d41682)
+**发布时间**: 2025-12-24 05:00
+
+#### [No, you can’t tell when something was written by AI](https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5)
+**发布时间**: 2025-12-24 05:00
+
+#### [EU spent less on US energy after $750bn Trump trade deal](https://www.ft.com/content/c961cd1c-2bb1-4b1d-95d4-18bebd244c84)
+**发布时间**: 2025-12-24 05:00
+
+#### [Investors bet on smaller private equity funds to break deal drought](https://www.ft.com/content/7a8ea1ea-1be4-4c2d-a6df-7525430243cb)
+**发布时间**: 2025-12-24 05:00
+
+#### [Top Shell auditor leaves EY role as regulators probe independence breaches](https://www.ft.com/content/5560ea0f-c827-46bd-8552-fae522925431)
+**发布时间**: 2025-12-24 05:00
+
+#### [One of the world’s hottest IPO markets shows signs of weakness](https://www.ft.com/content/6152d448-1811-478c-9a0a-c2abcf13877f)
+**发布时间**: 2025-12-24 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Rising prices and weight-loss drugs are changing the way we eat — and food companies are racing to keep up](https://www.marketwatch.com/story/rising-prices-and-weight-loss-drugs-are-changing-the-way-we-eat-and-food-companies-are-racing-to-keep-up-16c9bfb1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 01:32
+
+#### [Why Jerome Powell was right all along about interest rates, inflation and the economy](https://www.marketwatch.com/story/jerome-powell-was-right-all-along-5db6af9c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 01:20
+
+#### [Sorry, winning Powerball’s $1.7 billion jackpot won’t make you a billionaire. Here’s why you might end up with $136.6 million instead.](https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 23:41
+
+#### [Trump stops offshore wind projects. ‘The pause could last weeks to months,’ analysts warn.](https://www.marketwatch.com/story/trump-stops-offshore-wind-projects-the-pause-could-last-weeks-to-months-analysts-warn-99339b81?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 23:38
 
 ---
 
