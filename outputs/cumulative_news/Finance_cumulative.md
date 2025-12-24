@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-24 05:26
+**最后更新时间**: 2025-12-24 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-24 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Is it a case of them or us?’ We’re in our 40s. Do we retire early in our 50s — or save for our kids’ education?](https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 23:00
+
+#### [Groq execs to join Nvidia as part of AI-chip licensing deal](https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 22:38
+
+#### [‘So much for holiday cheer’: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?](https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 22:28
+
+#### [Making a budget gives your money a fitness plan. Here’s how to spend like a pro.](https://www.marketwatch.com/story/a-budget-is-a-roof-over-your-financial-house-heres-how-to-build-one-like-a-pro-2689fd5f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 20:16
+
+#### [Here comes the stock market’s ‘Santa Claus rally’ — gift-wrapped and delivered on time](https://www.marketwatch.com/story/here-comes-the-stock-markets-santa-claus-rally-gift-wrapped-and-delivered-on-time-61e291dc?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 20:14
+
+#### [‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived](https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 19:48
+
+#### [Your boss is pushing AI on you in exactly the wrong ways](https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 19:10
+
+#### [Would you take a $120,000 pay cut to work from home full time?](https://www.marketwatch.com/story/would-you-take-a-120-000-pay-cut-to-work-from-home-full-time-9751c743?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 19:07
+
+#### [We’re wired to react to bad news — and that messes with our investments. Can AI help?](https://www.marketwatch.com/story/were-wired-to-react-to-bad-news-and-that-messes-with-our-investments-can-ai-help-f779b8ad?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 19:06
+
+#### [S&P 500 hits record high on Christmas Eve for first time in more than a decade](https://www.marketwatch.com/story/s-p-500-hits-record-high-on-christmas-eve-for-first-time-in-more-than-a-decade-a784ff23?mod=mw_rss_topstories)
+**发布时间**: 2025-12-24 18:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US justice department says full Epstein file release could take ‘few more weeks’](https://www.ft.com/content/5cf18fba-63aa-4d8e-b277-47ddfec458db)
+**发布时间**: 2025-12-24 20:17
+
+#### [Big US banks add $600bn in value as deregulation spurs gains](https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974)
+**发布时间**: 2025-12-24 14:58
+
+#### [Zelenskyy open to demilitarised zone as part of peace deal if Russia pulls back](https://www.ft.com/content/fb494300-8b9e-459a-b3c6-941a85db1fe5)
+**发布时间**: 2025-12-24 12:26
+
+#### [Crypto deals running at record pace with more expected in 2026](https://www.ft.com/content/b4d5e238-c34a-4602-91d0-4c7300b0006f)
+**发布时间**: 2025-12-24 05:00
+
+#### [Jamie Laing on building sweet brand Candy Kittens: ‘I don’t really like weekends’](https://www.ft.com/content/44d19059-3e93-4a90-9e30-2d2c6261335a)
+**发布时间**: 2025-12-24 05:00
 
 ---
 

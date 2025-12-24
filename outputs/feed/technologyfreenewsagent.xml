@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Dec 2025 08:33:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 08:34:00 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 23:23:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知</title>
-      <link>https://www.tmtpost.com/7819489.html</link>
-      <description>&lt;![CDATA[YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7819489.html</guid>
+      <title>智谱和MiniMax的招股书，揭露大模型创业的10个真相</title>
+      <link>https://www.tmtpost.com/7819899.html</link>
+      <description>&lt;![CDATA[智谱和MiniMax的招股书，揭露大模型创业的10个真相]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7819899.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta详细阐述基于LLM级训练、混合并行计算与知识迁移的GEM广告模型</title>
-      <link>https://www.infoq.cn/article/e2dRzxx1jyRbwrKqKsfv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta详细阐述基于LLM级训练、混合并行计算与知识迁移的GEM广告模型]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/e2dRzxx1jyRbwrKqKsfv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>长安拿下L3首牌，自动驾驶商用化开启蝴蝶效应</title>
+      <link>https://www.tmtpost.com/7818942.html</link>
+      <description>&lt;![CDATA[长安拿下L3首牌，自动驾驶商用化开启蝴蝶效应]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818942.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>JEP 500：通过限制反射来强制实现Final字段的严格不可变性</title>
-      <link>https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[JEP 500：通过限制反射来强制实现Final字段的严格不可变性]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cursor们疯狂生码，引爆无限软件危机！Netflix大佬警告：氛围编程正把我们带向灾难，程序员得动脑子</title>
+      <link>https://www.infoq.cn/article/EA06AZH0wl5qpy9qiwPY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor们疯狂生码，引爆无限软件危机！Netflix大佬警告：氛围编程正把我们带向灾难，程序员得动脑子]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EA06AZH0wl5qpy9qiwPY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>网安专家复盘快手风控被「击穿」的两小时</title>
-      <link>https://www.tmtpost.com/7819496.html</link>
-      <description>&lt;![CDATA[网安专家复盘快手风控被「击穿」的两小时]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7819496.html</guid>
+      <title>发布 Agent OS、深度渗透垂直行业，钉钉阳谋：打造Agent 矩阵，AI 重构一切</title>
+      <link>https://www.infoq.cn/article/V74Mx6zssHhFBIz9Vv00?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[发布 Agent OS、深度渗透垂直行业，钉钉阳谋：打造Agent 矩阵，AI 重构一切]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/V74Mx6zssHhFBIz9Vv00?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026，「超级」AI云的新赛点</title>
-      <link>https://www.tmtpost.com/7819464.html</link>
-      <description>&lt;![CDATA[2026，「超级」AI云的新赛点]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7819464.html</guid>
+      <title>壁仞的GPU，卡在了客户门口</title>
+      <link>https://www.tmtpost.com/7817625.html</link>
+      <description>&lt;![CDATA[壁仞的GPU，卡在了客户门口]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7817625.html</guid>
       <category>Technology</category>
     </item>
   </channel>
