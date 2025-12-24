@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Dec 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 05:26:35 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 08:33:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔</title>
-      <link>https://www.qbitai.com/2025/12/365688.html</link>
-      <description>&lt;![CDATA[2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 01:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365688.html</guid>
+      <title>实测MiniMax M2.1之后，我们终于看懂了其招股书里的技术底气</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24-7</link>
+      <description>&lt;![CDATA[实测MiniMax M2.1之后，我们终于看懂了其招股书里的技术底气]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>拒绝「盲修」：JarvisEvo 如何让 Agent 像人类一样拥有「视觉反思」能力？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-24</link>
-      <description>&lt;![CDATA[拒绝「盲修」：JarvisEvo 如何让 Agent 像人类一样拥有「视觉反思」能力？]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24</guid>
+      <title>直面VLA的「阿喀琉斯之踵」：TeleAI用「反探索」提升具身推理稳定性</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24-6</link>
+      <description>&lt;![CDATA[直面VLA的「阿喀琉斯之踵」：TeleAI用「反探索」提升具身推理稳定性]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA</title>
-      <link>https://www.qbitai.com/2025/12/365665.html</link>
-      <description>&lt;![CDATA[AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 01:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365665.html</guid>
+      <title>深势科技斩获超8亿元融资：AI for Science为何成为资本与产业的共同选择</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24-5</link>
+      <description>&lt;![CDATA[深势科技斩获超8亿元融资：AI for Science为何成为资本与产业的共同选择]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节做了个 AI 手机，钉钉做了台 AI 主机</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-24-4</link>
-      <description>&lt;![CDATA[字节做了个 AI 手机，钉钉做了台 AI 主机]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-4</guid>
+      <title>国产AI4S创业头雁再获8亿投资！深势科技完成C轮，产品已服务300万科学家</title>
+      <link>https://www.qbitai.com/2025/12/365728.html</link>
+      <description>&lt;![CDATA[国产AI4S创业头雁再获8亿投资！深势科技完成C轮，产品已服务300万科学家]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 06:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365728.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从「会表演」到「更会演」：KlingAvatar2.0让数字人拥有生动灵魂</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-24-3</link>
-      <description>&lt;![CDATA[从「会表演」到「更会演」：KlingAvatar2.0让数字人拥有生动灵魂]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-3</guid>
+      <title>广电绝地反击！揭秘多彩新媒「不烧钱」的AI生存法则</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-24-2</link>
+      <description>&lt;![CDATA[广电绝地反击！揭秘多彩新媒「不烧钱」的AI生存法则]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-24-2</guid>
       <category>Ai</category>
     </item>
   </channel>

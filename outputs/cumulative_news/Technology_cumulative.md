@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-24 05:26
+**最后更新时间**: 2025-12-24 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-24 08:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知](https://www.tmtpost.com/7819489.html)
+**发布时间**: 2025-12-24 16:19
+
+#### [王传福背后的男人：投资250万狂赚1000亿，锂矿帝国大掌门](https://www.tmtpost.com/7819208.html)
+**发布时间**: 2025-12-24 16:12
+
+#### [榜单公布｜2025 EDGE AWARDS年度AI创新榜正式揭晓](https://www.tmtpost.com/7818672.html)
+**发布时间**: 2025-12-24 16:06
+
+#### [在这个见不得光的行业：有人被骗数万，有人怕被警方找上门](https://www.tmtpost.com/7819509.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [网安专家复盘快手风控被「击穿」的两小时](https://www.tmtpost.com/7819496.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [跌破1499元的飞天茅台，和回不去的白酒时代](https://www.tmtpost.com/7819172.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [AI战场缺一个腾讯系](https://www.tmtpost.com/7819469.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [2026，「超级」AI云的新赛点](https://www.tmtpost.com/7819464.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [冷冬不冷场，这八种冬日消费火热升温](https://www.tmtpost.com/7819207.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [全岛封关下，海南旅游要开挂了](https://www.tmtpost.com/7819157.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [魏建军，想从跌倒的地方爬起来](https://www.tmtpost.com/7819116.html)
+**发布时间**: 2025-12-24 15:55
+
+#### [又一位“第五套标准”考生！三年半累亏超16亿元，信诺维商业引擎待验](https://www.tmtpost.com/7818777.html)
+**发布时间**: 2025-12-24 14:47
+
+#### [三星不造车，但要控制你的方向盘](https://www.tmtpost.com/7818806.html)
+**发布时间**: 2025-12-24 14:47
+
+#### [聚光灯外的英伟达中国门徒](https://www.tmtpost.com/7819430.html)
+**发布时间**: 2025-12-24 14:47
+
+#### [魏牌9年换9帅，魏建军：他们自己感觉压力大](https://www.tmtpost.com/7818890.html)
+**发布时间**: 2025-12-24 14:47
+
+#### [亚洲数字资产第一股上市，“万向系”太子野心藏不住了](https://www.tmtpost.com/7819132.html)
+**发布时间**: 2025-12-24 14:47
+
+#### [具身智能，吉利不想赶晚集](https://www.tmtpost.com/7818908.html)
+**发布时间**: 2025-12-24 14:02
+
+#### [长安拿下L3首牌，自动驾驶商用化开启蝴蝶效应](https://www.tmtpost.com/7818942.html)
+**发布时间**: 2025-12-24 14:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta详细阐述基于LLM级训练、混合并行计算与知识迁移的GEM广告模型](https://www.infoq.cn/article/e2dRzxx1jyRbwrKqKsfv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 16:00
+
+#### [不拼爹，拼AI！青少年们用Claude“写”出百万生意，圈粉25万投资者，谷歌风投也主动求合作？](https://www.infoq.cn/article/T5HjHrUh8AqSXGLkCEMa?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 15:44
+
+#### [穿越 AI 落地深水区：广汽、华润、星巴克等一线“突围者”的实战案例集](https://www.infoq.cn/article/4ySJ6K3Dg7D9FFT3YN24?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 15:25
+
+#### [AI 进化论丨第七期：国产服务器 OS：生态崛起与 “云 + AI” 破局之路](https://www.infoq.cn/video/y2EtDTKLyjoI18Xu4ZMe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 15:18
+
+#### [IBM Research在Hugging Face平台上推出开源可配置的代理框架CUGA](https://www.infoq.cn/article/pVCZMNmtvjwcF5GY0mpG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 15:00
+
+#### [谷歌Metrax为JAX引入了预定义的模型评估指标](https://www.infoq.cn/article/94fkbN5FYNVePLfQw8Pt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-24 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [敲响圣诞「叮叮当」，让这 9 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
+**发布时间**: 2025-12-24 15:17
+
+#### [关于价值的计算：少数派会员五周年的回顾与展望](https://sspai.com/post/104517)
+**发布时间**: 2025-12-24 15:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 5 个 yyds 的 AI 开源项目，给劲儿啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529912&idx=1&sn=d766f5c6e6d842bc6bfc13874a73efe5)
+**发布时间**: 2025-12-24 15:04
 
 ---
 

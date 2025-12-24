@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Dec 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 05:27:23 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 08:33:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 08:34:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>oRPC发布1.0版本，支持OpenAPI和端到端类型安全</title>
-      <link>https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[oRPC发布1.0版本，支持OpenAPI和端到端类型安全]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知</title>
+      <link>https://www.tmtpost.com/7819489.html</link>
+      <description>&lt;![CDATA[YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7819489.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google Cloud发布托管的MCP支持</title>
-      <link>https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Google Cloud发布托管的MCP支持]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta详细阐述基于LLM级训练、混合并行计算与知识迁移的GEM广告模型</title>
+      <link>https://www.infoq.cn/article/e2dRzxx1jyRbwrKqKsfv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta详细阐述基于LLM级训练、混合并行计算与知识迁移的GEM广告模型]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/e2dRzxx1jyRbwrKqKsfv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：三星发布 2026 款 Odyssey 系列显示器等</title>
-      <link>https://sspai.com/post/104861</link>
-      <description>&lt;![CDATA[派早报：三星发布 2026 款 Odyssey 系列显示器等]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/104861</guid>
+      <title>JEP 500：通过限制反射来强制实现Final字段的严格不可变性</title>
+      <link>https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[JEP 500：通过限制反射来强制实现Final字段的严格不可变性]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被起诉的AI独角兽，这样回应好莱坞</title>
-      <link>https://www.tmtpost.com/7818713.html</link>
-      <description>&lt;![CDATA[被起诉的AI独角兽，这样回应好莱坞]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818713.html</guid>
+      <title>网安专家复盘快手风控被「击穿」的两小时</title>
+      <link>https://www.tmtpost.com/7819496.html</link>
+      <description>&lt;![CDATA[网安专家复盘快手风控被「击穿」的两小时]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7819496.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？</title>
-      <link>https://www.tmtpost.com/7818685.html</link>
-      <description>&lt;![CDATA[快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818685.html</guid>
+      <title>2026，「超级」AI云的新赛点</title>
+      <link>https://www.tmtpost.com/7819464.html</link>
+      <description>&lt;![CDATA[2026，「超级」AI云的新赛点]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7819464.html</guid>
       <category>Technology</category>
     </item>
   </channel>
