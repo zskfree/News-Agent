@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Dec 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2025 08:31:32 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 23:22:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“2030年消灭所有C/C++”？微软紧急否认AI+Rust重写Windows 11，但“一人一月一百万行代码”已让技术圈炸锅</title>
-      <link>https://www.infoq.cn/article/Rquv5WQEYGfVepGP2wOo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“2030年消灭所有C/C++”？微软紧急否认AI+Rust重写Windows 11，但“一人一月一百万行代码”已让技术圈炸锅]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Rquv5WQEYGfVepGP2wOo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋200亿美金“招安”高中辍学生！英伟达挖空Groq TPU核心人才，逼财务官上位CEO，英特尔18A遭弃</title>
+      <link>https://www.infoq.cn/article/ywtOCg5JFBJXyREtjHcU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[黄仁勋200亿美金“招安”高中辍学生！英伟达挖空Groq TPU核心人才，逼财务官上位CEO，英特尔18A遭弃]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ywtOCg5JFBJXyREtjHcU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 RAG 到 Context：2025 年 RAG 技术年终总结</title>
-      <link>https://www.infoq.cn/article/L452I9YAB4gaKJMmiY0T?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 RAG 到 Context：2025 年 RAG 技术年终总结]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L452I9YAB4gaKJMmiY0T?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Waymo 秘密测试 Gemini 车载 AI，1200 行内部指令曝光：“绝非一款简单的聊天机器人”</title>
+      <link>https://www.infoq.cn/article/v9k92xVD3DxcE7z7RyME?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Waymo 秘密测试 Gemini 车载 AI，1200 行内部指令曝光：“绝非一款简单的聊天机器人”]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 16:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v9k92xVD3DxcE7z7RyME?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>摆脱智能手机，可穿戴设备是否存在另一条AI路线？</title>
-      <link>https://www.tmtpost.com/7821014.html</link>
-      <description>&lt;![CDATA[摆脱智能手机，可穿戴设备是否存在另一条AI路线？]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7821014.html</guid>
+      <title>鏖战2025年，大模型围着开源转</title>
+      <link>https://www.tmtpost.com/7821268.html</link>
+      <description>&lt;![CDATA[鏖战2025年，大模型围着开源转]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7821268.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>构建可扩展的流媒体基础设施：因为观众不会等到明天</title>
-      <link>https://www.infoq.cn/article/yYOOhUV40sCTSHfc8kXi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[构建可扩展的流媒体基础设施：因为观众不会等到明天]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yYOOhUV40sCTSHfc8kXi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>告别 Agent “泛滥成灾”：火山引擎基于 200 +企业样本的 AI 管理架构</title>
+      <link>https://www.infoq.cn/article/jXyOK1g80fR1g8aCbwph?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[告别 Agent “泛滥成灾”：火山引擎基于 200 +企业样本的 AI 管理架构]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 20:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jXyOK1g80fR1g8aCbwph?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Target公司借助生成式AI推荐将“加入购物车”互动率提升11%</title>
-      <link>https://www.infoq.cn/article/Tya5gqfshHYf17PU0G8f?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Target公司借助生成式AI推荐将“加入购物车”互动率提升11%]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Tya5gqfshHYf17PU0G8f?utm_source=rss&amp;utm_medium=article</guid>
+      <title>优必选0借款入主锋龙股份，人形机器人“一哥”巨亏下的资本暗战</title>
+      <link>https://www.tmtpost.com/7821389.html</link>
+      <description>&lt;![CDATA[优必选0借款入主锋龙股份，人形机器人“一哥”巨亏下的资本暗战]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7821389.html</guid>
       <category>Technology</category>
     </item>
   </channel>

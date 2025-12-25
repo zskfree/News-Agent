@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Dec 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2025 08:31:13 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 23:22:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-7</link>
-      <description>&lt;![CDATA[模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-7</guid>
+      <title>单卡2秒生成一个视频！清华联手生数开源TurboDiffusion，视频DeepSeek时刻来了</title>
+      <link>https://www.qbitai.com/2025/12/365896.html</link>
+      <description>&lt;![CDATA[单卡2秒生成一个视频！清华联手生数开源TurboDiffusion，视频DeepSeek时刻来了]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 12:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365896.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节Seed发布最强数学模型：一招“打草稿”，IMO银牌变金牌</title>
-      <link>https://www.qbitai.com/2025/12/365878.html</link>
-      <description>&lt;![CDATA[字节Seed发布最强数学模型：一招“打草稿”，IMO银牌变金牌]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365878.html</guid>
+      <title>无需再训练微调，一个辅助系统让GPT-5.2准确率飙到创纪录的75%</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-25-8</link>
+      <description>&lt;![CDATA[无需再训练微调，一个辅助系统让GPT-5.2准确率飙到创纪录的75%]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>微软定目标：2030年，彻底删除C、C++代码，换成Rust</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-2</link>
-      <description>&lt;![CDATA[微软定目标：2030年，彻底删除C、C++代码，换成Rust]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-2</guid>
+      <title>用AI代码替换Windows里每一行C/C++！微软回应了</title>
+      <link>https://www.qbitai.com/2025/12/365915.html</link>
+      <description>&lt;![CDATA[用AI代码替换Windows里每一行C/C++！微软回应了]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365915.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-6</link>
-      <description>&lt;![CDATA[越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-6</guid>
+      <title>揭秘Agent落地困局！93%企业项目卡在POC到生产最后一公里</title>
+      <link>https://www.qbitai.com/2025/12/365892.html</link>
+      <description>&lt;![CDATA[揭秘Agent落地困局！93%企业项目卡在POC到生产最后一公里]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365892.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯按下AI加速键，人才、组织、开源动作密集</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-9</link>
-      <description>&lt;![CDATA[腾讯按下AI加速键，人才、组织、开源动作密集]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-9</guid>
+      <title>2500元/月雇个总监级AI数字员工，贵吗？</title>
+      <link>https://www.qbitai.com/2025/12/365913.html</link>
+      <description>&lt;![CDATA[2500元/月雇个总监级AI数字员工，贵吗？]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 13:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365913.html</guid>
       <category>Ai</category>
     </item>
   </channel>

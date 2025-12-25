@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-25 08:30
+**最后更新时间**: 2025-12-25 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-25 23:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [告别 Agent “泛滥成灾”：火山引擎基于 200 +企业样本的 AI 管理架构](https://www.infoq.cn/article/jXyOK1g80fR1g8aCbwph?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 20:46
+
+#### [从1到1000个智能体，企业如何打造高效协同的“AI中枢大脑”？｜C位面对面](https://www.infoq.cn/video/hXthI6Og3wqslOSpiD7m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 20:41
+
+#### [Waymo 秘密测试 Gemini 车载 AI，1200 行内部指令曝光：“绝非一款简单的聊天机器人”](https://www.infoq.cn/article/v9k92xVD3DxcE7z7RyME?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 16:58
+
+#### [2025 Snowflake 峰会重点：构建 AI 和应用的未来 | 技术趋势](https://www.infoq.cn/article/LhMocBshESjke0KgfaBh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 16:53
+
+#### [黄仁勋200亿美金“招安”高中辍学生！英伟达挖空Groq TPU核心人才，逼财务官上位CEO，英特尔18A遭弃](https://www.infoq.cn/article/ywtOCg5JFBJXyREtjHcU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 16:43
+
+#### [云服务器内存不够用？腾讯云TS4悟净：“省内存神器”来了](https://www.infoq.cn/article/ahON9Ce1tcacuH9T8OEZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 16:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [精选12只股票，为投资者送上2026年圣诞大礼](https://www.tmtpost.com/7821488.html)
+**发布时间**: 2025-12-25 20:45
+
+#### [2026 年值得关注的投资主题：餐饮、大麻及其他板块](https://www.tmtpost.com/7821485.html)
+**发布时间**: 2025-12-25 20:45
+
+#### [优必选0借款入主锋龙股份，人形机器人“一哥”巨亏下的资本暗战](https://www.tmtpost.com/7821389.html)
+**发布时间**: 2025-12-25 20:20
+
+#### [钉钉变“硬”了](https://www.tmtpost.com/7821244.html)
+**发布时间**: 2025-12-25 19:37
+
+#### [2025 EDGE AWARDS 年度汽车科技榜单正式揭晓](https://www.tmtpost.com/7821369.html)
+**发布时间**: 2025-12-25 19:05
+
+#### [九识联手菜鸟对战新石器？无人配送再生变](https://www.tmtpost.com/7820407.html)
+**发布时间**: 2025-12-25 18:43
+
+#### [2025年，奶茶向下，咖啡向上](https://www.tmtpost.com/7821297.html)
+**发布时间**: 2025-12-25 18:43
+
+#### [李想“挥泪”送张骁，新L7 L8明年要打硬仗](https://www.tmtpost.com/7821308.html)
+**发布时间**: 2025-12-25 18:43
+
+#### [旧金山一场停电，为什么马斯克会“幸灾乐祸”？](https://www.tmtpost.com/7821290.html)
+**发布时间**: 2025-12-25 18:35
+
+#### [红烛上线，字节“淘金”](https://www.tmtpost.com/7821305.html)
+**发布时间**: 2025-12-25 18:35
+
+#### [鏖战2025年，大模型围着开源转](https://www.tmtpost.com/7821268.html)
+**发布时间**: 2025-12-25 18:31
+
+#### [存储扩产 “卡壳”了？](https://www.tmtpost.com/7821307.html)
+**发布时间**: 2025-12-25 18:31
+
+#### [平安人寿突围 “中国版AIG时刻”](https://www.tmtpost.com/7821110.html)
+**发布时间**: 2025-12-25 18:03
+
+#### [订单跌至冰点，圣诞季亚马逊“崩了”](https://www.tmtpost.com/7820870.html)
+**发布时间**: 2025-12-25 18:03
+
+#### [蜜雪翻车、古茗出圈，奶茶店卖早餐究竟有多难](https://www.tmtpost.com/7821002.html)
+**发布时间**: 2025-12-25 17:58
+
+#### [社科院赵磊：“诱导式”消费金融服务存乱象，亟须提升行业合规水平](https://www.tmtpost.com/7821144.html)
+**发布时间**: 2025-12-25 17:58
+
+#### [日本的“AI大业”全靠疯狂砸钱？](https://www.tmtpost.com/7821121.html)
+**发布时间**: 2025-12-25 17:55
+
+#### [2025年短剧狂飙，编剧的黄金时代来了吗？](https://www.tmtpost.com/7820986.html)
+**发布时间**: 2025-12-25 17:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 231｜少数派的编辑们最近买了啥？](https://sspai.com/post/104895)
+**发布时间**: 2025-12-25 17:00
+
+#### [关于微塑料，一些你可能想了解的事](https://sspai.com/prime/story/microplastics-facts-protections)
+**发布时间**: 2025-12-25 15:41
 
 ---
 

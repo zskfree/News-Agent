@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Dec 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2025 05:25:53 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 23:22:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 23:22:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>For investors, the real gift from Wall Street comes one day after Christmas</title>
+      <title>For investors, the real gift from Wall Street comes a day after Christmas</title>
       <link>https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[For investors, the real gift from Wall Street comes one day after Christmas]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 00:58:00 GMT</pubDate>
+      <description>&lt;![CDATA[For investors, the real gift from Wall Street comes a day after Christmas]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 17:10:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia to poach top staff from AI chip start-up Groq in licensing deal</title>
-      <link>https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45</link>
-      <description>&lt;![CDATA[Nvidia to poach top staff from AI chip start-up Groq in licensing deal]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 23:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45</guid>
+      <title>Move over, Mariah: Michael Bublé is becoming the king of Christmas music with nearly $16 million in holiday earnings</title>
+      <link>https://www.marketwatch.com/story/move-over-mariah-michael-buble-is-becoming-the-king-of-christmas-music-with-nearly-16-million-in-holiday-earnings-d2ae04cb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Move over, Mariah: Michael Bublé is becoming the king of Christmas music with nearly $16 million in holiday earnings]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/move-over-mariah-michael-buble-is-becoming-the-king-of-christmas-music-with-nearly-16-million-in-holiday-earnings-d2ae04cb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘I would like to give her a head start in life’: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?</title>
+      <link>https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I would like to give her a head start in life’: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AI ‘world models’ promise to reshape $190bn video games industry</title>
+      <link>https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112</link>
+      <description>&lt;![CDATA[AI ‘world models’ promise to reshape $190bn video games industry]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112</guid>
       <category>Finance</category>
     </item>
   </channel>
