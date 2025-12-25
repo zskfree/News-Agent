@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-24 23:22
+**最后更新时间**: 2025-12-25 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-25 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [小红书带货一姐演进：从董洁开路到吴千语1.5亿](https://www.tmtpost.com/7819972.html)
+**发布时间**: 2025-12-25 13:07
+
+#### [当姚顺雨们开始掌舵科技巨轮](https://www.tmtpost.com/7820808.html)
+**发布时间**: 2025-12-25 13:06
+
+#### [日薪300，我在后厂村“手搓”人形机器人](https://www.tmtpost.com/7820717.html)
+**发布时间**: 2025-12-25 13:04
+
+#### [三七互娱又一新品跑出？新题材试水+3天飙升30名，爆款潜力如何？](https://www.tmtpost.com/7820732.html)
+**发布时间**: 2025-12-25 13:04
+
+#### [进击的2025：阿里京东们的“买楼造楼运动”](https://www.tmtpost.com/7820760.html)
+**发布时间**: 2025-12-25 13:04
+
+#### [2025 EDGE AWARDS年度十大科技人物重磅揭晓](https://www.tmtpost.com/7819186.html)
+**发布时间**: 2025-12-25 12:50
+
+#### [UiPath股价大涨，这家AI赢家为何迎来大幅提振](https://www.tmtpost.com/7820793.html)
+**发布时间**: 2025-12-25 12:37
+
+#### [英特尔股价下跌，原因在于英伟达](https://www.tmtpost.com/7820791.html)
+**发布时间**: 2025-12-25 12:36
+
+#### [这家生物科技公司的股价飙升，赛诺菲以22亿美元收购它](https://www.tmtpost.com/7820788.html)
+**发布时间**: 2025-12-25 12:36
+
+#### [今日波动最大的股票：耐克、UiPath、特斯拉、AMC、Strategy等](https://www.tmtpost.com/7820786.html)
+**发布时间**: 2025-12-25 12:36
+
+#### [院线票房隐忧未消，AMC 股价终结十一连跌走势](https://www.tmtpost.com/7820784.html)
+**发布时间**: 2025-12-25 12:34
+
+#### [这场对话凑齐了2025最火爆的AI创投要素｜2025T-EDGE全球对话](https://www.tmtpost.com/7820643.html)
+**发布时间**: 2025-12-25 12:02
+
+#### [在资本赛道狂飙，在漆黑路口熄火：Waymo的2025扩张悖论](https://www.tmtpost.com/7820700.html)
+**发布时间**: 2025-12-25 11:32
+
+#### [轻松健康成功IPO：一场AI的上市教学课](https://www.tmtpost.com/7820561.html)
+**发布时间**: 2025-12-25 11:32
+
+#### [南网能源宣布2026年停投光伏项目，综合能源服务商集体“瘦身”转向](https://www.tmtpost.com/7820683.html)
+**发布时间**: 2025-12-25 11:28
+
+#### [宇宙种田+派对游戏，网易在赌什么？](https://www.tmtpost.com/7820436.html)
+**发布时间**: 2025-12-25 11:25
+
+#### [“内容+消费”双擎驱动：产业资本如何打造高品质大文旅生态模型](https://www.tmtpost.com/7819532.html)
+**发布时间**: 2025-12-25 11:23
+
+#### [长单潮带动4000亿大扩产，储能走在了光伏过剩的老路上](https://www.tmtpost.com/7820441.html)
+**发布时间**: 2025-12-25 11:18
+
+#### [对话蔡恒进：当AI有了自我意识，我们如何与之共处？](https://www.tmtpost.com/7820525.html)
+**发布时间**: 2025-12-25 11:13
+
+#### [“避雷”难倒小红书](https://www.tmtpost.com/7820545.html)
+**发布时间**: 2025-12-25 11:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Toad：一个统一管理所有大语言模型的 CLI 工具，承诺在用户体验上优于现有方案](https://www.infoq.cn/article/Cd5wDydw7rUu1AwiKgfl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 11:00
+
+#### [模力工场陪你过圣诞，吴晓波直播间不见不散](https://www.infoq.cn/article/5eRvppvI81Uvfhsc7jqH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 10:46
+
+#### [迪卡侬采用 Polars 优化数据管道与算力成本](https://www.infoq.cn/article/xwu7DZq6AK5uIa5RTFHB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 10:27
+
+#### [亚马逊云科技推出 NAT Gateway 的区域级可用性支持](https://www.infoq.cn/article/ihINa7m1bAGbSTGiHUpC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 10:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论](https://sspai.com/post/104723)
+**发布时间**: 2025-12-25 10:31
+
+#### [派早报：微信公众号上线「付费加热」功能等](https://sspai.com/post/104885)
+**发布时间**: 2025-12-25 08:22
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一年爆卖54亿，老干妈辣酱重回巅峰？](http://www.huxiu.com/article/4820362.html?f=wangzhan)
+**发布时间**: 2025-12-25 10:25
+
+#### [12月24日：长津湖战役胜利的日子](http://www.huxiu.com/article/4820341.html?f=wangzhan)
+**发布时间**: 2025-12-25 10:04
+
+#### [花了500亿台币，结果就造了艘“锚”都没有的手摇潜艇？](http://www.huxiu.com/article/4820081.html?f=wangzhan)
+**发布时间**: 2025-12-24 15:00
+
+#### [小红书“擦边”给谁看？](http://www.huxiu.com/article/4820147.html?f=wangzhan)
+**发布时间**: 2025-12-24 14:00
+
+#### [长征十二号甲首飞入轨成功，但回收再次失败，这波距离成功又进一步](http://www.huxiu.com/article/4819957.html?f=wangzhan)
+**发布时间**: 2025-12-24 13:00
 
 ---
 

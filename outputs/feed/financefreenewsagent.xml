@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Dec 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 23:22:31 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 05:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 05:25:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Big US banks add $600bn in value as deregulation spurs gains</title>
-      <link>https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974</link>
-      <description>&lt;![CDATA[Big US banks add $600bn in value as deregulation spurs gains]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974</guid>
+      <title>For investors, the real gift from Wall Street comes one day after Christmas</title>
+      <link>https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[For investors, the real gift from Wall Street comes one day after Christmas]]&gt;</description>
+      <pubDate>Thu, 25 Dec 2025 00:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Groq execs to join Nvidia as part of AI-chip licensing deal</title>
-      <link>https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Groq execs to join Nvidia as part of AI-chip licensing deal]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 22:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>We’re wired to react to bad news — and that messes with our investments. Can AI help?</title>
-      <link>https://www.marketwatch.com/story/were-wired-to-react-to-bad-news-and-that-messes-with-our-investments-can-ai-help-f779b8ad?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[We’re wired to react to bad news — and that messes with our investments. Can AI help?]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/were-wired-to-react-to-bad-news-and-that-messes-with-our-investments-can-ai-help-f779b8ad?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived</title>
-      <link>https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 19:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>S&amp;P 500 hits record high on Christmas Eve for first time in more than a decade</title>
-      <link>https://www.marketwatch.com/story/s-p-500-hits-record-high-on-christmas-eve-for-first-time-in-more-than-a-decade-a784ff23?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[S&amp;P 500 hits record high on Christmas Eve for first time in more than a decade]]&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 18:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/s-p-500-hits-record-high-on-christmas-eve-for-first-time-in-more-than-a-decade-a784ff23?mod=mw_rss_topstories</guid>
+      <title>Nvidia to poach top staff from AI chip start-up Groq in licensing deal</title>
+      <link>https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45</link>
+      <description>&lt;![CDATA[Nvidia to poach top staff from AI chip start-up Groq in licensing deal]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 23:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45</guid>
       <category>Finance</category>
     </item>
   </channel>

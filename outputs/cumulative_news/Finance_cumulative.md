@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-24 23:22
+**最后更新时间**: 2025-12-25 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-25 05:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [For investors, the real gift from Wall Street comes one day after Christmas](https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories)
+**发布时间**: 2025-12-25 00:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)
+**发布时间**: 2025-12-24 23:36
 
 ---
 
