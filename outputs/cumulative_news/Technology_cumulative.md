@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-25 23:21
+**最后更新时间**: 2025-12-26 05:24
+
+---
+
+## 🆕 最新更新 (2025-12-26 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chinese Robotics Startup Xynova Raises Over US$13 Million in Angel Round for High-DOF Dexterous Hands](https://www.tmtpost.com/7822011.html)
+**发布时间**: 2025-12-26 12:54
+
+#### [深耕亚太非，谋定长远，海澜之家荣膺钛媒体2025 EDGE AWARDS全球化公司奖](https://www.tmtpost.com/7821970.html)
+**发布时间**: 2025-12-26 12:14
+
+#### [2025短剧年终总结：谁在破圈，谁稳坐头部？](https://www.tmtpost.com/7821591.html)
+**发布时间**: 2025-12-26 11:53
+
+#### [Geely Completes Zeekr Privatization, Reshapes China's Premium Ev Ambitions](https://www.tmtpost.com/7821941.html)
+**发布时间**: 2025-12-26 11:19
+
+#### [粉丝上当、黑产暴富：K-Pop盗版专辑的生意经](https://www.tmtpost.com/7821590.html)
+**发布时间**: 2025-12-26 11:17
+
+#### [2025品牌代言：顶流不再是“最优选”？](https://www.tmtpost.com/7821397.html)
+**发布时间**: 2025-12-26 11:04
+
+#### [灵巧手企业曦诺未来Xynova完成超亿元天使轮融资 | 融资速递](https://www.tmtpost.com/7821847.html)
+**发布时间**: 2025-12-26 10:37
+
+#### [对话神经科学家：情绪不是洪水猛兽，而是大脑的主动构建](https://www.tmtpost.com/7821512.html)
+**发布时间**: 2025-12-26 10:00
+
+#### [对话宾大教授：当育儿方式成为阶层隐形剧本，竞争的真正起跑线在哪？](https://www.tmtpost.com/7821513.html)
+**发布时间**: 2025-12-26 09:40
+
+#### [连英伟达都开始抄作业了](https://www.tmtpost.com/7821479.html)
+**发布时间**: 2025-12-26 09:20
+
+#### [告别纽交所后的极氪，还能够走稳高端路线吗？](https://www.tmtpost.com/7821471.html)
+**发布时间**: 2025-12-26 08:40
+
+#### [AI芯片新战场：从拼算力到拼能效，端侧浪潮下的众生相  | 产业深度](https://www.tmtpost.com/7821596.html)
+**发布时间**: 2025-12-26 08:37
+
+#### [涨幅超越黄金，白银期货何以逆势走强](https://www.tmtpost.com/7821446.html)
+**发布时间**: 2025-12-26 08:20
+
+#### [长城汽车的2025：外援退场之后，选择了自己人](https://www.tmtpost.com/7821156.html)
+**发布时间**: 2025-12-26 08:09
+
+#### [姚顺雨要帮腾讯“颠覆”微信？](https://www.tmtpost.com/7821429.html)
+**发布时间**: 2025-12-26 08:00
+
+#### [【钛晨报】《银行保险机构资产管理产品信息披露管理办法》发布，明年9月1日起施行；广州首个游戏电竞产业专项扶持政策发布；三星电子拟最早2027年推出搭载自研GPU的应用处理器](https://www.tmtpost.com/7821517.html)
+**发布时间**: 2025-12-26 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测](https://sspai.com/post/104737)
+**发布时间**: 2025-12-26 11:25
+
+#### [派早报：小米发布多款新品，微软宣布 BitLocker 将支持硬件加速等](https://sspai.com/post/104901)
+**发布时间**: 2025-12-26 08:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智谱大模型引爆论坛！团队分享GLM-4.7走红背后的一切](https://www.infoq.cn/article/O6xNB5sJwZvNPHEtr87C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 10:18
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [L3级自动驾驶，是可以跳过，还是无法绕过？](http://www.huxiu.com/article/4820879.html?f=wangzhan)
+**发布时间**: 2025-12-26 10:09
+
+#### [6分钟看懂：人民币升值，谁能赚？谁要亏？](http://www.huxiu.com/article/4820743.html?f=wangzhan)
+**发布时间**: 2025-12-26 09:30
+
+#### [奢侈品史上最狠的女人：深扒香奈儿的搞钱大法](http://www.huxiu.com/article/4820719.html?f=wangzhan)
+**发布时间**: 2025-12-25 21:30
+
+#### [中国的人形机器人现在到底是什么水平了？能为我们干什么？](http://www.huxiu.com/article/4820689.html?f=wangzhan)
+**发布时间**: 2025-12-25 18:20
 
 ---
 
