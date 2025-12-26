@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 05:24:40 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 08:31:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent「记吃不记打」？华为诺亚&amp;港中文发布SCOPE：Prompt自我进化，让HLE成功率翻倍</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26-5</link>
-      <description>&lt;![CDATA[Agent「记吃不记打」？华为诺亚&amp;港中文发布SCOPE：Prompt自我进化，让HLE成功率翻倍]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-5</guid>
+      <title>VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26-7</link>
+      <description>&lt;![CDATA[VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全异构、全异步的RLinf v0.2尝鲜版发布，支持真机强化学习，像使用GPU一样使用你的机器人！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26-2</link>
-      <description>&lt;![CDATA[全异构、全异步的RLinf v0.2尝鲜版发布，支持真机强化学习，像使用GPU一样使用你的机器人！]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 11:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-2</guid>
+      <title>推理成本打到1元/每百万token，浪潮信息撬动Agent规模化的“最后一公里”</title>
+      <link>https://www.qbitai.com/2025/12/365959.html</link>
+      <description>&lt;![CDATA[推理成本打到1元/每百万token，浪潮信息撬动Agent规模化的“最后一公里”]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 06:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365959.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>顶刊TPAMI｜多模态视频理解领域重磅数据更新：MeViSv2发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26-4</link>
-      <description>&lt;![CDATA[顶刊TPAMI｜多模态视频理解领域重磅数据更新：MeViSv2发布]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-4</guid>
+      <title>视频生成DeepSeek时刻！清华&amp;生数开源框架提速200倍，一周斩获2k Star</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26-6</link>
+      <description>&lt;![CDATA[视频生成DeepSeek时刻！清华&amp;生数开源框架提速200倍，一周斩获2k Star]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>离谱：256G内存比RTX5090还贵，你要为AI买单吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26-3</link>
-      <description>&lt;![CDATA[离谱：256G内存比RTX5090还贵，你要为AI买单吗？]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-3</guid>
+      <title>特斯拉通过「物理图灵测试」！英伟达机器人主管爆吹，圣诞节刷屏了</title>
+      <link>https://www.qbitai.com/2025/12/365975.html</link>
+      <description>&lt;![CDATA[特斯拉通过「物理图灵测试」！英伟达机器人主管爆吹，圣诞节刷屏了]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365975.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>灵巧手企业曦诺未来Xynova完成超亿元天使轮融资</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26</link>
-      <description>&lt;![CDATA[灵巧手企业曦诺未来Xynova完成超亿元天使轮融资]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26</guid>
+      <title>第一批拿12.8万月薪的实习生已经出现！AI人才抢夺战真的好激烈</title>
+      <link>https://www.qbitai.com/2025/12/365958.html</link>
+      <description>&lt;![CDATA[第一批拿12.8万月薪的实习生已经出现！AI人才抢夺战真的好激烈]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 07:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365958.html</guid>
       <category>Ai</category>
     </item>
   </channel>

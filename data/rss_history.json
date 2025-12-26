@@ -1,72 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8e24dac801e7556016986a1bbedb07d924258c2a331cdcaa5080f30d0dd786f9": {
-        "title": "云帆Meetup报名｜i人也可，在NeurIPS圣地亚哥遇见同频智友",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-11",
-        "published_date": "Wed, 26 Nov 2025 15:46:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533031"
-      },
-      "f67d7c27915472d35a7a3eb798836cbe9c7d5edefce71c084f8a3022ffb8f3de": {
-        "title": "预测下一个像素还需要几年？谷歌：五年够了",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-10",
-        "published_date": "Wed, 26 Nov 2025 15:43:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533041"
-      },
-      "d0c2d034acc5fb3ae93bd76ce69941088517453e661539a0319b28b8c042cb03": {
-        "title": "突破视觉-语言-动作模型的瓶颈：QDepth-VLA让机器人拥有更精准的3D空间感知",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-9",
-        "published_date": "Wed, 26 Nov 2025 15:40:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533053"
-      },
-      "f562ef3baa162c734a185ebdb0abf22f8f0c8d156c17965045d5d0678231f7a3": {
-        "title": "AlphaFold的五年：DeepMind如何用AI走向世界科学前沿，推动全球生物学浪潮",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-8",
-        "published_date": "Wed, 26 Nov 2025 14:08:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.532955"
-      },
-      "dcdcd412a0c5c0fa91654e4d7a5e127330a3c81231e104c2ad22689245095dec": {
-        "title": "36年卷积猜想被解决，华人唯一作者，AI或受益",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-7",
-        "published_date": "Wed, 26 Nov 2025 13:22:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.532983"
-      },
-      "6ab18fe9eef0de2d61bf6ed7c86d7db155f5aa5d916bd308be283f063e398607": {
-        "title": "阿里千问进入电脑桌面，与夸克AI浏览器深度融合",
-        "link": "https://www.qbitai.com/2025/11/356630.html",
-        "published_date": "Wed, 26 Nov 2025 07:36:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.532997"
-      },
-      "1eeca225a576e750400bf1367cd09ffd8dc8d5f6477744c42a1eaf0538a94452": {
-        "title": "超越Gemini3、GPT5.1，阿里千问登顶空间推理全球冠军",
-        "link": "https://www.qbitai.com/2025/11/356622.html",
-        "published_date": "Wed, 26 Nov 2025 07:27:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533009"
-      },
-      "226f5b16bc831412629d28a3e402527d2822ed82424cbcf5334a1350fcd2c340": {
-        "title": "中国汽车一哥加持，自动驾驶界「大疆」估值冲破百亿",
-        "link": "https://www.qbitai.com/2025/11/356584.html",
-        "published_date": "Wed, 26 Nov 2025 06:46:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533063"
-      },
-      "e875cd24216b53073ee5fe458017f180fe4ae8bffa3ab33789fe0716839a7bc5": {
-        "title": "ROCK & ROLL！阿里给智能体造了个实战演练场 | 开源",
-        "link": "https://www.qbitai.com/2025/11/356560.html",
-        "published_date": "Wed, 26 Nov 2025 06:25:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533074"
-      },
-      "ee44d7a37d413b272cf8ff65a43e69dcf3fa9a06e7358817a1ed3fe7e990ae6c": {
-        "title": "1米3宇树G1完美上篮！港科大解锁全球首个真实篮球机器人Demo",
-        "link": "https://www.qbitai.com/2025/11/356522.html",
-        "published_date": "Wed, 26 Nov 2025 05:35:00 GMT",
-        "first_seen": "2025-11-26T08:30:09.122874"
-      },
-      "7a590a210793d5ba83ee9f15e55a4c7cbd8eeb5524b53eb8911622be73106228": {
-        "title": "小米打通智驾和具身大模型，然后开源了",
-        "link": "https://www.qbitai.com/2025/11/356469.html",
-        "published_date": "Wed, 26 Nov 2025 05:26:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.533020"
-      },
       "dfe8afeaf76b92a652856bf1e150e65d6b0eb705d30dca8ac0a39979cfeeacea": {
         "title": "谢赛宁与Jaakkola团队重磅研究：无数据Flow Map蒸馏",
         "link": "https://www.jiqizhixin.com/articles/2025-11-26-13",
@@ -261,83 +195,11 @@
         "published_date": "Wed, 26 Nov 2025 15:59:00 GMT",
         "first_seen": "2025-11-26T08:31:45.952662"
       },
-      "d405985b134ab60275fbe03e0ad80e3a4cc290255da579ee6de03ad5f139e9c6": {
-        "title": "抓小三的生意过时了，分离小三才是王炸",
-        "link": "https://www.tmtpost.com/7781504.html",
-        "published_date": "Wed, 26 Nov 2025 15:58:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.613533"
-      },
-      "11d8aecd54a9af278aa89415e8a79224fbfa2a9ee557a111eebc906a16aaa44e": {
-        "title": "80亿独角兽被曝停摆，魏建军放弃智驾“亲儿子”？",
-        "link": "https://www.tmtpost.com/7782156.html",
-        "published_date": "Wed, 26 Nov 2025 15:58:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.614025"
-      },
-      "a7752298076614bf1017c102333ae5ea75d1b23a8103b6f21e31bae14a6156df": {
-        "title": "出手就对标马斯克，中国00后正扎堆改变世界",
-        "link": "https://www.tmtpost.com/7782695.html",
-        "published_date": "Wed, 26 Nov 2025 15:56:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.614451"
-      },
-      "96ccc34e832ba4cc004ea37ee4944594f231bfc57cff27edb928dcd75cead801": {
-        "title": "从资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
-        "link": "https://www.tmtpost.com/7782880.html",
-        "published_date": "Wed, 26 Nov 2025 15:55:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.615041"
-      },
-      "27b0ffa53945dd9a36b6ca2016e5b2a00df746741ae5113562c452459ba44736": {
-        "title": "跨境电商的运营们今年的旺季提成，彻底凉了",
-        "link": "https://www.tmtpost.com/7782896.html",
-        "published_date": "Wed, 26 Nov 2025 15:48:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.615550"
-      },
-      "9ab9976a4bf6fd4b426bddce5c5364f15a2fc3697fdad0b8cbc316e74e75dca7": {
-        "title": "阿里升维AI和消费之战",
-        "link": "https://www.tmtpost.com/7783074.html",
-        "published_date": "Wed, 26 Nov 2025 15:42:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.615948"
-      },
       "603da8026d19c4e50d6a4077d79468a0c0e0e79183c37339f3fd8a62d20a3112": {
         "title": "马斯克的新狂人愿景：自造万亿AI芯片",
         "link": "https://www.tmtpost.com/7782977.html",
         "published_date": "Wed, 26 Nov 2025 15:40:00 GMT",
         "first_seen": "2025-11-26T08:31:45.952594"
-      },
-      "a39a5758e6298d723b13ab20e301697ed3a5fcbeedb210954d1e28a7b39fa264": {
-        "title": "钼市观察：价格下行通道下的破与立",
-        "link": "https://www.tmtpost.com/7783055.html",
-        "published_date": "Wed, 26 Nov 2025 15:40:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.617087"
-      },
-      "0d790887fa0f390474b8b822100ede747ea05db5524200285a00101e83340260": {
-        "title": "32天揽金9319万元，上海大厂出手，二游赛道新趋势？情况如何？",
-        "link": "https://www.tmtpost.com/7782940.html",
-        "published_date": "Wed, 26 Nov 2025 15:35:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.617960"
-      },
-      "a185511431f6fc237ff2dbd468d3f936985c2e2ed6dc3d8ee9773c50e6a284eb": {
-        "title": "Meta and ByteDance Escalate AI Talent War in Silicon Valley",
-        "link": "https://www.tmtpost.com/7783107.html",
-        "published_date": "Wed, 26 Nov 2025 15:35:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.619278"
-      },
-      "2e68224fdb5533fe26fa84a8092de7e7297209f364f129023227bb971b9b6f79": {
-        "title": "AI争霸战再生变：谷歌兵临城下，英伟达王座岌岌可危",
-        "link": "https://www.tmtpost.com/7782008.html",
-        "published_date": "Wed, 26 Nov 2025 13:29:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.620168"
-      },
-      "75c6a1a21d0dfc717e064cb25345d85b64f86916f6fd775156cc34ac52e03670": {
-        "title": "入门到精通：从今天开始成为感冒专家",
-        "link": "https://sspai.com/post/84574",
-        "published_date": "Wed, 26 Nov 2025 15:16:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.620873"
-      },
-      "e8827d7e73b8f5e28ee16a9c71f511b3f51733684a9e6a89790ee66fcd82185b": {
-        "title": "机器人学会“思考”后，以后真能在家帮我们干活了吗？",
-        "link": "http://www.huxiu.com/article/4809737.html?f=wangzhan",
-        "published_date": "Wed, 26 Nov 2025 14:40:00 GMT",
-        "first_seen": "2025-11-26T08:30:57.621880"
       },
       "c532205b328dbd00fcc200675a2bcdfaca4e77385d5c57afeecc12f6fc13205e": {
         "title": "Oracle Stock Rallies Over 6% at Midday as Analysts Defend AI Spending Concerns",
@@ -4604,6 +4466,36 @@
         "link": "https://www.tmtpost.com/7822011.html",
         "published_date": "Fri, 26 Dec 2025 12:54:00 GMT",
         "first_seen": "2025-12-26T05:25:02.938067"
+      },
+      "651ab3b2555be5395762fabfce806c698a0be3b62dfccf6048a5b26cc7a30393": {
+        "title": "OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议",
+        "link": "https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 26 Dec 2025 14:46:00 GMT",
+        "first_seen": "2025-12-26T08:31:38.238375"
+      },
+      "34f4ec88d3c4f9f2cdf252c88d2cb986d1ed7de2949078025be1d85c666660b6": {
+        "title": "智谱正在穿越大模型最危险的那段路",
+        "link": "https://www.tmtpost.com/7821744.html",
+        "published_date": "Fri, 26 Dec 2025 16:12:00 GMT",
+        "first_seen": "2025-12-26T08:31:38.238381"
+      },
+      "a30f1fbe743631c6d070d5adc9daa690d7d2e05413b44b9ac1c67035d72ac1de": {
+        "title": "英伟达真正的对手是谁？",
+        "link": "https://www.tmtpost.com/7821700.html",
+        "published_date": "Fri, 26 Dec 2025 14:34:00 GMT",
+        "first_seen": "2025-12-26T08:31:38.238384"
+      },
+      "f39129dbaeca1252cb5e18a8cfa123b4df7f15ffd8f8e7146245d5767994b30b": {
+        "title": "AI 时代，软件架构师的角色该如何重新定位",
+        "link": "https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 26 Dec 2025 14:47:00 GMT",
+        "first_seen": "2025-12-26T08:31:38.238385"
+      },
+      "8b353e8c713882080b633074973f35ea70f6983014a528b8336a0c04e6cb6c9b": {
+        "title": "储能内卷其实已开始，未来惨烈程度或将远超光伏？",
+        "link": "https://www.tmtpost.com/7821597.html",
+        "published_date": "Fri, 26 Dec 2025 13:48:00 GMT",
+        "first_seen": "2025-12-26T08:31:38.238386"
       }
     },
     "Finance": {
@@ -9132,13 +9024,43 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-26",
         "published_date": "Fri, 26 Dec 2025 10:16:00 GMT",
         "first_seen": "2025-12-26T05:24:40.190133"
+      },
+      "a9dae326ae2da0e8a87299752bd3b977f6ca847cb86c6b1e3125e4a9d418973f": {
+        "title": "VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-26-7",
+        "published_date": "Fri, 26 Dec 2025 14:11:00 GMT",
+        "first_seen": "2025-12-26T08:31:18.141164"
+      },
+      "0549c260ffd8561fe34bf65ee9356e39a033261ee2a66d60f6a5fb0f8a20e99c": {
+        "title": "推理成本打到1元/每百万token，浪潮信息撬动Agent规模化的“最后一公里”",
+        "link": "https://www.qbitai.com/2025/12/365959.html",
+        "published_date": "Fri, 26 Dec 2025 06:47:00 GMT",
+        "first_seen": "2025-12-26T08:31:18.141177"
+      },
+      "470b38e2edf85ba4b51faa54b799d2048b37c054cb5e7cb4d53e6e77774ad685": {
+        "title": "视频生成DeepSeek时刻！清华&生数开源框架提速200倍，一周斩获2k Star",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-26-6",
+        "published_date": "Fri, 26 Dec 2025 13:31:00 GMT",
+        "first_seen": "2025-12-26T08:31:18.141180"
+      },
+      "6ea5c1de46790f8351b208f7a53f0db0de7fc867e1c13ef77b03a3acdd9e975e": {
+        "title": "特斯拉通过「物理图灵测试」！英伟达机器人主管爆吹，圣诞节刷屏了",
+        "link": "https://www.qbitai.com/2025/12/365975.html",
+        "published_date": "Fri, 26 Dec 2025 07:17:00 GMT",
+        "first_seen": "2025-12-26T08:31:18.141184"
+      },
+      "e6e71c130e182806a575b14dc3a525e384f18c37d7bb4a3d68ece584666cde47": {
+        "title": "第一批拿12.8万月薪的实习生已经出现！AI人才抢夺战真的好激烈",
+        "link": "https://www.qbitai.com/2025/12/365958.html",
+        "published_date": "Fri, 26 Dec 2025 07:03:00 GMT",
+        "first_seen": "2025-12-26T08:31:18.141189"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-26T05:25:02.938069",
+    "Technology": "2025-12-26T08:31:38.238389",
     "Finance": "2025-12-26T05:24:31.892648",
-    "Ai": "2025-12-26T05:24:40.190136"
+    "Ai": "2025-12-26T08:31:18.141193"
   }
 }

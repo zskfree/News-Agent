@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-26 05:24
+**最后更新时间**: 2025-12-26 08:31
+
+---
+
+## 🆕 最新更新 (2025-12-26 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智谱正在穿越大模型最危险的那段路](https://www.tmtpost.com/7821744.html)
+**发布时间**: 2025-12-26 16:12
+
+#### [豪特节能：98%收入来自前五大客户，上市前夕股东密集套现，实控人更是上演股权“高买低卖的骚操作”｜IPO观察](https://www.tmtpost.com/7818274.html)
+**发布时间**: 2025-12-26 15:15
+
+#### [凌科药业：7年亏损超12亿，资金告急和估值暴增相伴｜IPO观察](https://www.tmtpost.com/7818316.html)
+**发布时间**: 2025-12-26 15:13
+
+#### [162家店年入23亿，河南跑出的火锅店要IPO了](https://www.tmtpost.com/7821480.html)
+**发布时间**: 2025-12-26 15:12
+
+#### [英伟达真正的对手是谁？](https://www.tmtpost.com/7821700.html)
+**发布时间**: 2025-12-26 14:34
+
+#### [推出App Store，宇树会迎来它的“苹果商店”时刻吗？](https://www.tmtpost.com/7821785.html)
+**发布时间**: 2025-12-26 14:16
+
+#### [储能内卷其实已开始，未来惨烈程度或将远超光伏？](https://www.tmtpost.com/7821597.html)
+**发布时间**: 2025-12-26 13:48
+
+#### [今年最赚钱的游戏，带富大批人](https://www.tmtpost.com/7821889.html)
+**发布时间**: 2025-12-26 13:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Orion：面向注重隐私用户的新型浏览器——零遥测、零广告、防范AI追踪](https://www.infoq.cn/article/GyjC1wEe8xdFf9M1dr1c?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 16:00
+
+#### [中国VIBE创作生态报告2025](https://www.infoq.cn/minibook/8Lyuvhef2SM1sTKcPRxd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 15:52
+
+#### [Cactus v1：具有零延迟和完全隐私的跨平台移动LLM推理](https://www.infoq.cn/article/5KuFxAH51ppXAkRvXKtx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 15:28
+
+#### [AI 时代，软件架构师的角色该如何重新定位](https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 14:47
+
+#### [Midscene v1.0 发布 - 视觉驱动，UI 自动化体验跃迁](https://www.infoq.cn/article/HrBT45TqBv2hLEreMqob?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 14:46
+
+#### [OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议](https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 14:46
+
+#### [从“救火”到“预见”：汽车行业操作系统智能运维解决方案](https://www.infoq.cn/article/a9vBqsg8b08Ufrd6RZzH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 14:33
+
+#### [Pinecone在公开预览中引入专用读取节点，用于可预测的向量工作负载](https://www.infoq.cn/article/39uEo8INcly3LrLfpPXU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 14:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [科创板新神话，摩尔线程凭什么叫板英伟达？](http://www.huxiu.com/article/4820606.html?f=wangzhan)
+**发布时间**: 2025-12-26 14:31
 
 ---
 

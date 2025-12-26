@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Dec 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 05:25:02 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 08:31:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI芯片新战场：从拼算力到拼能效，端侧浪潮下的众生相  | 产业深度</title>
-      <link>https://www.tmtpost.com/7821596.html</link>
-      <description>&lt;![CDATA[AI芯片新战场：从拼算力到拼能效，端侧浪潮下的众生相  | 产业深度]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7821596.html</guid>
+      <title>OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议</title>
+      <link>https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱大模型引爆论坛！团队分享GLM-4.7走红背后的一切</title>
-      <link>https://www.infoq.cn/article/O6xNB5sJwZvNPHEtr87C?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智谱大模型引爆论坛！团队分享GLM-4.7走红背后的一切]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/O6xNB5sJwZvNPHEtr87C?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智谱正在穿越大模型最危险的那段路</title>
+      <link>https://www.tmtpost.com/7821744.html</link>
+      <description>&lt;![CDATA[智谱正在穿越大模型最危险的那段路]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7821744.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L3级自动驾驶，是可以跳过，还是无法绕过？</title>
-      <link>http://www.huxiu.com/article/4820879.html?f=wangzhan</link>
-      <description>&lt;![CDATA[L3级自动驾驶，是可以跳过，还是无法绕过？]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4820879.html?f=wangzhan</guid>
+      <title>英伟达真正的对手是谁？</title>
+      <link>https://www.tmtpost.com/7821700.html</link>
+      <description>&lt;![CDATA[英伟达真正的对手是谁？]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7821700.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】《银行保险机构资产管理产品信息披露管理办法》发布，明年9月1日起施行；广州首个游戏电竞产业专项扶持政策发布；三星电子拟最早2027年推出搭载自研GPU的应用处理器</title>
-      <link>https://www.tmtpost.com/7821517.html</link>
-      <description>&lt;![CDATA[【钛晨报】《银行保险机构资产管理产品信息披露管理办法》发布，明年9月1日起施行；广州首个游戏电竞产业专项扶持政策发布；三星电子拟最早2027年推出搭载自研GPU的应用处理器]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7821517.html</guid>
+      <title>AI 时代，软件架构师的角色该如何重新定位</title>
+      <link>https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 时代，软件架构师的角色该如何重新定位]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 14:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chinese Robotics Startup Xynova Raises Over US$13 Million in Angel Round for High-DOF Dexterous Hands</title>
-      <link>https://www.tmtpost.com/7822011.html</link>
-      <description>&lt;![CDATA[Chinese Robotics Startup Xynova Raises Over US$13 Million in Angel Round for High-DOF Dexterous Hands]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 12:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7822011.html</guid>
+      <title>储能内卷其实已开始，未来惨烈程度或将远超光伏？</title>
+      <link>https://www.tmtpost.com/7821597.html</link>
+      <description>&lt;![CDATA[储能内卷其实已开始，未来惨烈程度或将远超光伏？]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7821597.html</guid>
       <category>Technology</category>
     </item>
   </channel>
