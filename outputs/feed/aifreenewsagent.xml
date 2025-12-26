@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Dec 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 08:31:18 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 23:21:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26-7</link>
-      <description>&lt;![CDATA[VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-7</guid>
+      <title>清华唐杰：领域大模型，伪命题</title>
+      <link>https://www.qbitai.com/2025/12/366013.html</link>
+      <description>&lt;![CDATA[清华唐杰：领域大模型，伪命题]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366013.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>推理成本打到1元/每百万token，浪潮信息撬动Agent规模化的“最后一公里”</title>
-      <link>https://www.qbitai.com/2025/12/365959.html</link>
-      <description>&lt;![CDATA[推理成本打到1元/每百万token，浪潮信息撬动Agent规模化的“最后一公里”]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 06:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365959.html</guid>
+      <title>太初元碁与汉腾科技签署五大万卡集群项目建设协议 推动高集成化算力基础设施集群落地</title>
+      <link>https://www.qbitai.com/2025/12/366041.html</link>
+      <description>&lt;![CDATA[太初元碁与汉腾科技签署五大万卡集群项目建设协议 推动高集成化算力基础设施集群落地]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366041.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>视频生成DeepSeek时刻！清华&amp;生数开源框架提速200倍，一周斩获2k Star</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-26-6</link>
-      <description>&lt;![CDATA[视频生成DeepSeek时刻！清华&amp;生数开源框架提速200倍，一周斩获2k Star]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-6</guid>
+      <title>全自研仿真GPU求解器x虚实对标物理测量工厂，打造具身合成数据SuperApp，加速具身仿真生态丨光轮智能@MEET2026</title>
+      <link>https://www.qbitai.com/2025/12/365991.html</link>
+      <description>&lt;![CDATA[全自研仿真GPU求解器x虚实对标物理测量工厂，打造具身合成数据SuperApp，加速具身仿真生态丨光轮智能@MEET2026]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 08:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365991.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>特斯拉通过「物理图灵测试」！英伟达机器人主管爆吹，圣诞节刷屏了</title>
-      <link>https://www.qbitai.com/2025/12/365975.html</link>
-      <description>&lt;![CDATA[特斯拉通过「物理图灵测试」！英伟达机器人主管爆吹，圣诞节刷屏了]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 07:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365975.html</guid>
+      <title>一只大头机器狗供不应求，打响了消费级具身智能第一枪</title>
+      <link>https://www.qbitai.com/2025/12/366060.html</link>
+      <description>&lt;![CDATA[一只大头机器狗供不应求，打响了消费级具身智能第一枪]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366060.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>第一批拿12.8万月薪的实习生已经出现！AI人才抢夺战真的好激烈</title>
-      <link>https://www.qbitai.com/2025/12/365958.html</link>
-      <description>&lt;![CDATA[第一批拿12.8万月薪的实习生已经出现！AI人才抢夺战真的好激烈]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 07:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365958.html</guid>
+      <title>从单点突破到一体多端：拆解天禧AI 3.5进化背后三年的进化哲学</title>
+      <link>https://www.qbitai.com/2025/12/366054.html</link>
+      <description>&lt;![CDATA[从单点突破到一体多端：拆解天禧AI 3.5进化背后三年的进化哲学]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366054.html</guid>
       <category>Ai</category>
     </item>
   </channel>

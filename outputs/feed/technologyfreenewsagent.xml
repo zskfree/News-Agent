@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 08:31:38 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 23:21:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议</title>
-      <link>https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Gemini 3预训练负责人警告：模型战已从算法转向工程化！合成数据成代际跃迁核心，谷歌碾压OpenAI、Meta的秘密武器曝光</title>
+      <link>https://www.infoq.cn/article/oryBgvw5g84Y1HuZIa9Y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Gemini 3预训练负责人警告：模型战已从算法转向工程化！合成数据成代际跃迁核心，谷歌碾压OpenAI、Meta的秘密武器曝光]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 19:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oryBgvw5g84Y1HuZIa9Y?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱正在穿越大模型最危险的那段路</title>
-      <link>https://www.tmtpost.com/7821744.html</link>
-      <description>&lt;![CDATA[智谱正在穿越大模型最危险的那段路]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7821744.html</guid>
+      <title>高度内部化技术栈锁死谷歌人！一个 bug 逼麻省理工精英逃离“金手铐”：离开谷歌，我的技能就作废了</title>
+      <link>https://www.infoq.cn/article/Yca7ZIm6rCBi6DrwfLR9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[高度内部化技术栈锁死谷歌人！一个 bug 逼麻省理工精英逃离“金手铐”：离开谷歌，我的技能就作废了]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Yca7ZIm6rCBi6DrwfLR9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达真正的对手是谁？</title>
-      <link>https://www.tmtpost.com/7821700.html</link>
-      <description>&lt;![CDATA[英伟达真正的对手是谁？]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7821700.html</guid>
+      <title>ChatGPT和传统搜索引擎，在一条钢丝上越走越近</title>
+      <link>https://www.tmtpost.com/7822369.html</link>
+      <description>&lt;![CDATA[ChatGPT和传统搜索引擎，在一条钢丝上越走越近]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 21:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7822369.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 时代，软件架构师的角色该如何重新定位</title>
-      <link>https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 时代，软件架构师的角色该如何重新定位]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国移动领投，银河通用机器人再融3亿美元！创人形机器人最高估值？</title>
+      <link>https://www.infoq.cn/article/wX1rbgaIIw4RSl3qCsDY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[中国移动领投，银河通用机器人再融3亿美元！创人形机器人最高估值？]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wX1rbgaIIw4RSl3qCsDY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>储能内卷其实已开始，未来惨烈程度或将远超光伏？</title>
-      <link>https://www.tmtpost.com/7821597.html</link>
-      <description>&lt;![CDATA[储能内卷其实已开始，未来惨烈程度或将远超光伏？]]&gt;</description>
-      <pubDate>Fri, 26 Dec 2025 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7821597.html</guid>
+      <title>科创板新神话，摩尔线程凭什么叫板英伟达？</title>
+      <link>http://www.huxiu.com/article/4820606.html?f=wangzhan</link>
+      <description>&lt;![CDATA[科创板新神话，摩尔线程凭什么叫板英伟达？]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4820606.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
   </channel>

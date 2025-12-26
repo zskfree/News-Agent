@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-26 08:31
+**最后更新时间**: 2025-12-26 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-26 23:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zelenskyy to meet Trump at Mar-a-Lago this weekend](https://www.ft.com/content/45911654-f5c1-428c-8fec-75fd8acdd1f6)
+**发布时间**: 2025-12-26 21:02
+
+#### [So long, American exceptionalism](https://www.ft.com/content/a9f5e37c-dd0f-4681-bddf-f20b6a6ce4e3)
+**发布时间**: 2025-12-26 18:00
+
+#### [Why bomb Sokoto? Trump’s strikes baffle Nigerians](https://www.ft.com/content/99d23e21-1ca4-4dbc-819d-90449d0040ba)
+**发布时间**: 2025-12-26 18:00
+
+#### [The relentless rise of YouTube](https://www.ft.com/content/9e75eeb8-b6e6-4a90-b015-2732fa9a8774)
+**发布时间**: 2025-12-26 17:00
+
+#### [Why humans should be more like hedgehogs](https://www.ft.com/content/b89c3c6a-ade9-4dd9-b3d1-37cb398f87ca)
+**发布时间**: 2025-12-26 15:00
+
+#### [Global dealmaking hits $4.5tn in second-best year on record](https://www.ft.com/content/46b87305-4bd7-4e64-81f9-ad6b9a9bc429)
+**发布时间**: 2025-12-26 13:00
+
+#### [Populists attack London because it is ‘progressive and successful’, says Khan](https://www.ft.com/content/2e88fca7-098f-4f53-864b-a12c1153777c)
+**发布时间**: 2025-12-26 12:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Logan Paul’s $5.3 million Pokémon bet raises a bigger question: Do collectibles belong in your portfolio?](https://www.marketwatch.com/story/logan-pauls-5-3-million-pokemon-bet-raises-a-bigger-question-do-collectibles-belong-in-your-portfolio-48426a15?mod=mw_rss_topstories)
+**发布时间**: 2025-12-26 20:38
+
+#### [How the New Year’s tax deadline poses a risk for gold, silver and the Dow](https://www.marketwatch.com/story/how-the-new-years-tax-deadline-poses-a-risk-for-gold-silver-and-the-dow-d9f18c2f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-26 19:57
+
+#### [Too many people forgot their RMDs last year. Don’t make this ‘billion-dollar mistake.’](https://www.marketwatch.com/story/too-many-people-forgot-their-rmds-last-year-dont-make-this-billion-dollar-mistake-b4cf72f4?mod=mw_rss_topstories)
+**发布时间**: 2025-12-26 19:48
+
+#### [Here’s the setup for silver and gold heading into 2026](https://www.marketwatch.com/story/heres-the-setup-for-silver-and-gold-heading-into-2006-df781252?mod=mw_rss_topstories)
+**发布时间**: 2025-12-26 19:14
+
+#### [After 2 straight misses, this year’s ‘Santa Claus rally’ is off to a solid start. Why it matters for investors.](https://www.marketwatch.com/story/after-2-straight-misses-this-years-santa-claus-rally-is-off-to-a-solid-start-why-it-matters-for-investors-6cb84a4f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-26 18:04
+
+#### [Target’s beaten-down stock gets a lift after report of ‘significant investment’ from Toms Capital](https://www.marketwatch.com/story/targets-beaten-down-stock-gets-a-lift-after-report-of-significant-investment-from-toms-capital-a1ad022a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-26 17:19
 
 ---
 

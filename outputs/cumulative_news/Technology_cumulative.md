@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-26 08:31
+**最后更新时间**: 2025-12-26 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-26 23:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [高度内部化技术栈锁死谷歌人！一个 bug 逼麻省理工精英逃离“金手铐”：离开谷歌，我的技能就作废了](https://www.infoq.cn/article/Yca7ZIm6rCBi6DrwfLR9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-27 07:00
+
+#### [一旦运营环节出错，数据平台必须稳如磐石——Snowflake 灾难恢复为何成了必备能力？ | 技术趋势](https://www.infoq.cn/article/wSeZ9COq1I0oxt8GQIoR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 20:21
+
+#### [模力群星闪耀时：2025 模力工场 15 大应用分类 Top ONE 盘点！](https://www.infoq.cn/article/TU2kWcvqEpTZFoPbroOe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 19:47
+
+#### [Gemini 3预训练负责人警告：模型战已从算法转向工程化！合成数据成代际跃迁核心，谷歌碾压OpenAI、Meta的秘密武器曝光](https://www.infoq.cn/article/oryBgvw5g84Y1HuZIa9Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 19:28
+
+#### [下载量超1300万，昇思MindSpore：AI 框架迈入“超节点时代”](https://www.infoq.cn/article/EBWkxSFi2W623WLM353g?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 19:08
+
+#### [从架构到引擎：TDSQL-MySQL 并行查询技术全链路拆解 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/sC12fgxDxKF3XPURAD0r?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 18:34
+
+#### [新一代分布式数据库：TDSQL Boundless 架构特性与场景选型指南 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/uOfAFPUkL4w9l6yLD2KA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 18:33
+
+#### [TDSQL Boundless 存储引擎核心技术架构与性能优化之道 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/6rZzIyw8OPA7KRxYvoFC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 18:33
+
+#### [中国移动领投，银河通用机器人再融3亿美元！创人形机器人最高估值？](https://www.infoq.cn/article/wX1rbgaIIw4RSl3qCsDY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 17:46
+
+#### [企业 Agent 如何〝可信”？｜InfoQ《极客有约》](https://www.infoq.cn/video/xjc1FX8w9hG0OgT4ic75?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 17:34
+
+#### [慢 SQL 诊断准确率 99.99%，天翼云基于 Apache Doris MCP 的 AI 智能运维实践](https://www.infoq.cn/article/7XfjiL7DqkXCQO4fwFaK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 17:30
+
+#### [亚马逊云科技和谷歌云预览安全多云网络](https://www.infoq.cn/article/ZS7TJ66v0Ux4iGDW6Y9t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 17:04
+
+#### [一口气看完了200+企业的300多个AI案例，我发现了什么？](https://www.infoq.cn/article/GXuY8mpKHgWpeIFOoPtd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-26 16:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [19家空调企业抱团，董明珠依旧不跟](https://www.tmtpost.com/7821982.html)
+**发布时间**: 2025-12-27 01:49
+
+#### [500亿票房，一半来自动画，2025年，动画竟让观众抢着进影院](https://www.tmtpost.com/7821917.html)
+**发布时间**: 2025-12-27 01:49
+
+#### [先跟讲道理的人讲道理](https://www.tmtpost.com/7821789.html)
+**发布时间**: 2025-12-27 01:49
+
+#### [对话天才作家阿兰·德波顿：我们对爱情的理解还处于“前农业时期”，这是需系统学习的技能](https://www.tmtpost.com/7821870.html)
+**发布时间**: 2025-12-27 01:48
+
+#### [“水果第一股”将正式退市](https://www.tmtpost.com/7821918.html)
+**发布时间**: 2025-12-27 01:48
+
+#### [赵何娟对话王维嘉：AI没有系统性泡沫，原生AI应用将在三年内爆发 | 巴伦精选](https://www.tmtpost.com/7822602.html)
+**发布时间**: 2025-12-26 21:31
+
+#### [国产GPU，“围剿”英伟达](https://www.tmtpost.com/7822284.html)
+**发布时间**: 2025-12-26 21:13
+
+#### [ChatGPT和传统搜索引擎，在一条钢丝上越走越近](https://www.tmtpost.com/7822369.html)
+**发布时间**: 2025-12-26 21:13
+
+#### [百纳千成七年文娱转型巨亏3.9亿，美的系二代"蛇吞象"跨界收购不设业绩对赌](https://www.tmtpost.com/7822549.html)
+**发布时间**: 2025-12-26 20:58
+
+#### [这些优质股正以比市场低40%的折扣价交易，现在是入场好时机](https://www.tmtpost.com/7822572.html)
+**发布时间**: 2025-12-26 20:57
+
+#### [2025年即将过去，带你重温科技圈发生的12件大事](https://www.tmtpost.com/7822069.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [谁是AI时代的有色金属之王？](https://www.tmtpost.com/7822409.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [抖音杀入移动支付，微信支付宝慌不慌？](https://www.tmtpost.com/7822426.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [2025年国际酒店集团高管大洗牌，全换上“本土掌柜”了](https://www.tmtpost.com/7821901.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [豆包手机抢入口，小米第一个不答应？](https://www.tmtpost.com/7822336.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [“散打”救白酒？](https://www.tmtpost.com/7821677.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [拒绝华大九天收购，芯和半导体为何执意独立IPO？](https://www.tmtpost.com/7822036.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [女掌门，撑起中国餐饮半壁江山？](https://www.tmtpost.com/7822074.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [赵俊杰：在裂变中寻找确定性：全球供应链重塑下的生物制造机遇与实践 | 钛资本合成生物学组](https://www.tmtpost.com/7822160.html)
+**发布时间**: 2025-12-26 20:30
+
+#### [当AI开始制造神曲，腾讯音乐们还剩什么？](https://www.tmtpost.com/7822256.html)
+**发布时间**: 2025-12-26 20:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国大豆为何严重依赖进口？一口气看懂中美大豆博弈三十年](http://www.huxiu.com/article/4821150.html?f=wangzhan)
+**发布时间**: 2025-12-26 18:52
+
+#### [商业航天是泡沫吗？还能走多远？这波机会该怎么抓？](http://www.huxiu.com/article/4821123.html?f=wangzhan)
+**发布时间**: 2025-12-26 17:48
+
+#### [从万柳书院到协和医院：“少爷”这个词，是如何被重新定义的？](http://www.huxiu.com/article/4820803.html?f=wangzhan)
+**发布时间**: 2025-12-26 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/104915)
+**发布时间**: 2025-12-26 17:57
+
+#### [即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
+**发布时间**: 2025-12-26 15:40
 
 ---
 
