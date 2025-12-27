@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Dec 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Dec 2025 08:28:54 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 23:21:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens</title>
-      <link>https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77</link>
-      <description>&lt;![CDATA[Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 08:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77</guid>
+      <title>America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills.</title>
+      <link>https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills.]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 21:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘Is this really what college bowl games have become?’: Critics say goofy Pop-Tarts and Duke’s Mayo sponsorships are overshadowing the football</title>
+      <link>https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘Is this really what college bowl games have become?’: Critics say goofy Pop-Tarts and Duke’s Mayo sponsorships are overshadowing the football]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting</title>
+      <link>https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737</link>
+      <description>&lt;![CDATA[Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737</guid>
       <category>Finance</category>
     </item>
   </channel>
