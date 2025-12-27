@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Dec 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Dec 2025 05:23:00 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 08:28:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Union chief backs calls for a UK-EU customs union</title>
-      <link>https://www.ft.com/content/ebd2a3f7-43d7-4cb8-ac68-8a1f6499b320</link>
-      <description>&lt;![CDATA[Union chief backs calls for a UK-EU customs union]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ebd2a3f7-43d7-4cb8-ac68-8a1f6499b320</guid>
+      <title>Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens</title>
+      <link>https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77</link>
+      <description>&lt;![CDATA[Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 08:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "836a1991356b23174d4fef98379ab1289d8fff7a26321386b1642bbd27e63c79": {
-        "title": "Adam的稳+Muon的快？华为诺亚开源ROOT破解大模型训练「既要又要」的两难困境",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-27-6",
-        "published_date": "Thu, 27 Nov 2025 13:11:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.207492"
-      },
-      "1162e19159a0666967c9f45f1e5f48ba95db9971fc5e30c0f5e00f17d58db37c": {
-        "title": "当推荐系统真正「懂你」：快手团队在NeurIPS 2025提出新成果TagCF",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-27-5",
-        "published_date": "Thu, 27 Nov 2025 13:04:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.207700"
-      },
-      "cca1f103edad717cedce3b46d4437e1bf816ce722a56690aa7cea4d06b5f74ff": {
-        "title": "首个3D生成解构模型PartCrafter问世，GitHub狂揽2k星标",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-27-4",
-        "published_date": "Thu, 27 Nov 2025 12:58:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.207939"
-      },
-      "ce38be11f1937971e041c9f05acc8c579492209402fbb4f75fc2df67aa97ba9b": {
-        "title": "NeurIPS 2025奖项出炉，Qwen获最佳论文，Faster R-CNN获时间检验奖",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-27-3",
-        "published_date": "Thu, 27 Nov 2025 11:41:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.208258"
-      },
-      "54b06bd27a69f3c546ab82668b1986b79c1319cd2df7cd5dd0ae85d18805bf00": {
-        "title": "通用脑机接口时代要来了？跨尺度脑基础模型CSBrain真正读懂脑信号",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-27-2",
-        "published_date": "Thu, 27 Nov 2025 11:37:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.208528"
-      },
-      "7d8d2e6ce6e0f88bddbf5bbcdc02d455e55e05349def6edc374f3c15337aa525": {
-        "title": "2026五大科技趋势，这是亚马逊CTO Werner Vogels给出的预测",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-27",
-        "published_date": "Thu, 27 Nov 2025 11:27:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.208980"
-      },
-      "0bcc1384a93cb0a7c19aad5d0729bd615c1ec2725422ef364bdf08fc2596a446": {
-        "title": "NeurIPS 2025放榜：阿里Qwen门控注意力获最佳论文，何恺明Faster R-CNN获时间检验奖",
-        "link": "https://www.qbitai.com/2025/11/356820.html",
-        "published_date": "Thu, 27 Nov 2025 03:15:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.209530"
-      },
       "03fc14e52adcb1a949fcc9e972062231cf4580de6b0eb10e2ff36434234503c6": {
         "title": "2025字节跳动奖学金公布：奖金翻倍至20万元，追加奖励导师10万元",
         "link": "https://www.jiqizhixin.com/articles/2025-11-27-8",
@@ -111,204 +69,6 @@
       }
     },
     "Technology": {
-      "900bb6c7db5fbd7e9b0f96c9cbc8093e41c983320ef528154650e90762f8ded4": {
-        "title": "亚马逊斥资数十亿美元抢占圣诞节商机，这看起来是个投资的机会",
-        "link": "https://www.tmtpost.com/7784669.html",
-        "published_date": "Thu, 27 Nov 2025 12:54:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592394"
-      },
-      "26c7631385021433f34c762cfa7b47690bb5310500f56e36a1e1698db6f1c9f5": {
-        "title": "Hong Kong Blaze Highlights Fire Hazards of Bamboo Scaffolding",
-        "link": "https://www.tmtpost.com/7784660.html",
-        "published_date": "Thu, 27 Nov 2025 12:50:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592406"
-      },
-      "3a64cdcdd5cbb46db533a2e83e87bdf3602043b00a5b28b81977ba39f5857da3": {
-        "title": "光伏组件价格，涨得起来吗？",
-        "link": "https://www.tmtpost.com/7783782.html",
-        "published_date": "Thu, 27 Nov 2025 12:40:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592417"
-      },
-      "22af432a4b834eedcf342653c500823ecc6d9afc4e83a5bc4cd3a6dd381858af": {
-        "title": "蔚来决战Q4：李斌立下“盈利”军令状，没有Plan B",
-        "link": "https://www.tmtpost.com/7784563.html",
-        "published_date": "Thu, 27 Nov 2025 12:31:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592428"
-      },
-      "fb846943c69b24877adfe6b8ab4a0da3a915631e0d4d8e2d372182f85aa7aaf5": {
-        "title": "Exclusive: Xiaomi Taps Tesla's Former Dexterous Hand Expert for Robotics Push",
-        "link": "https://www.tmtpost.com/7784630.html",
-        "published_date": "Thu, 27 Nov 2025 12:26:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592440"
-      },
-      "ce3e8f609d5c92dca8afa85c853e40f9d02eb440c82b32a584a4dfb5cc4477ce": {
-        "title": "当“老东家”大疆和“新黑马”拓竹摸向对方的“逆鳞”",
-        "link": "https://www.tmtpost.com/7784409.html",
-        "published_date": "Thu, 27 Nov 2025 12:24:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.280305"
-      },
-      "1333d38bc601d79e97bdbcaec5858cef07bb1591738e8e436b9f6b0e2f72802d": {
-        "title": "阿里的真正考验，是即将到来的“天王山之战”",
-        "link": "https://www.tmtpost.com/7784049.html",
-        "published_date": "Thu, 27 Nov 2025 12:24:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.280610"
-      },
-      "571c26ca406e719bf7f6dfb7fabcb375c90098291db9f3c8a4cf5a31a2e3327a": {
-        "title": "中国短剧，成好莱坞“回魂丹”",
-        "link": "https://www.tmtpost.com/7783889.html",
-        "published_date": "Thu, 27 Nov 2025 12:24:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.280956"
-      },
-      "fac06be5c3c4c8497cf984a317602f5dc23a4411557accf901be66217c82f8be": {
-        "title": "百亿并购重组！国家电投整合煤电铝资产，旗下“煤炭航母”浮出水面",
-        "link": "https://www.tmtpost.com/7784185.html",
-        "published_date": "Thu, 27 Nov 2025 12:24:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.281509"
-      },
-      "f48aff8754a5aeace4aeeed945cdd9878c39fcda138dfc53a5bc27ee606fe769": {
-        "title": "中国00后做AI教育，赵长鹏3天投了8000万",
-        "link": "https://www.tmtpost.com/7780409.html",
-        "published_date": "Thu, 27 Nov 2025 12:24:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.281956"
-      },
-      "1c24c605f55c4c4248d0b9897b6f9bc7305b62335f7776cf78800b7fa9974e59": {
-        "title": "Infinigence AI Raises $69 Million in A+ Round to Expand Agentic Infrastructure",
-        "link": "https://www.tmtpost.com/7784584.html",
-        "published_date": "Thu, 27 Nov 2025 12:06:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.283032"
-      },
-      "a3708db1e251a30ff974427c059bfa9c1b5ccfdf1774d6d0c1af3a6265f43835": {
-        "title": "AI基建概念股Dominion Energy前景可期，值得买入",
-        "link": "https://www.tmtpost.com/7784571.html",
-        "published_date": "Thu, 27 Nov 2025 11:52:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.283665"
-      },
-      "3822ecb0dedfa5442a3549edb60fe822ce8787150e1d39c2dcf7faa5efc21675": {
-        "title": "理想拒绝进入ICU",
-        "link": "https://www.tmtpost.com/7783736.html",
-        "published_date": "Thu, 27 Nov 2025 11:43:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.284006"
-      },
-      "a6c5a0a83ea92b649e070d46e2f9b6485214e8f093946dcd8f6c10a9598bd4e5": {
-        "title": "等位5小时、排队上千桌，这家湖北菜火了",
-        "link": "https://www.tmtpost.com/7784381.html",
-        "published_date": "Thu, 27 Nov 2025 11:42:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.284550"
-      },
-      "f5d3661d0eee4c7fcf059045bf788020f83e75ece3e2efc1db4d0953380c5f32": {
-        "title": "费大厨到美国为啥不卖辣椒炒肉？",
-        "link": "https://www.tmtpost.com/7783708.html",
-        "published_date": "Thu, 27 Nov 2025 11:42:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.284973"
-      },
-      "4a1cb0689daa288500175aa46c771397eb8f4b56f3ebe2e24cf73caa88bcd63a": {
-        "title": "当带状疱疹疫苗开始“买一送一”",
-        "link": "https://www.tmtpost.com/7784369.html",
-        "published_date": "Thu, 27 Nov 2025 11:42:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.285457"
-      },
-      "2ceac2384576151195fc7f2762e18a72b36fe2003fd58237627f630393315467": {
-        "title": "Li Auto to Launch First Smart Glasses to Ramp Up AI Push",
-        "link": "https://www.tmtpost.com/7784559.html",
-        "published_date": "Thu, 27 Nov 2025 11:42:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.286892"
-      },
-      "7776c416fd4d8da5234df57a98dc972f149700c97f96e334578490d8e05ba973": {
-        "title": "5亿元A+轮融资，无问芯穹加速构建Agentic Infra | 巴伦精选",
-        "link": "https://www.tmtpost.com/7784526.html",
-        "published_date": "Thu, 27 Nov 2025 11:20:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.288052"
-      },
-      "1b81e371191bf0c21f4f702cf8fb0fa4f2d665468b9de3a1fe3f00d99134e507": {
-        "title": "Li Auto Posts First Quarterly Loss Since 2022, Weak Q4 Outlook amid AI Focus Shift",
-        "link": "https://www.tmtpost.com/7784507.html",
-        "published_date": "Thu, 27 Nov 2025 11:08:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.290296"
-      },
-      "ddeb63f0943a14e24eeabc857dc89c8bf40c4141c66ceb060ff102a4233b3abc": {
-        "title": "开单效率暴增30倍！“数字销冠”的AI密码：飞桨+文心大模型双引擎驱动",
-        "link": "https://www.infoq.cn/article/9OADQWdXJULDIjHtIx20?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 11:48:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.291546"
-      },
-      "2541688b8e0555b61d74ada3197e5a7b42a1c04753da0cb3a1b31196cc7b7f69": {
-        "title": "亚马逊为 Bedrock AgentCore 引入 A2A 协议，打造可互操作的多智能体工作流",
-        "link": "https://www.infoq.cn/article/QmC5r0mr43tY44fh0zTS?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 11:44:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.293164"
-      },
-      "a58f7af4b5c77dff3ff61ed910cc94b54f8cdd8a2fcbd729bb7944d6b1ad147f": {
-        "title": "AnyLanguageModel：苹果平台本地和云端LLM的统一API",
-        "link": "https://www.infoq.cn/article/jy31Ald56YqvvabOfIQO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 11:28:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592342"
-      },
-      "c0764023a896aace8dcb42a3bcd8197ac4d98344d86817ad4311e48cdeb34724": {
-        "title": "无问芯穹完成近5亿元A+轮融资，加码Agentic Infra基础设施建设",
-        "link": "https://www.infoq.cn/article/oE4ssf9Zlllbz0sxwr5y?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 11:25:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.295902"
-      },
-      "1785aabc49b149473f66d017c395083bb53885cce5b5b041eb90926e622a19eb": {
-        "title": "新发布的面向令牌的对象表示法（TOON）有望通过减少令牌消耗来降低大型语言模型的成本",
-        "link": "https://www.infoq.cn/article/lCH1VSgxC5f8Gvb07wgB?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 10:46:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592357"
-      },
-      "a873f594fe0fb9f88d60d8e687ac81a5a8b5fb4f809aa1a06fae5c92d9bf0536": {
-        "title": "谷歌云推出Bigtable分层存储",
-        "link": "https://www.infoq.cn/article/Bbamkto4beTA4glTqICf?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 10:11:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.298156"
-      },
-      "173d793104d4ef7452ab08c7727fd622e6778d3108a92eb701e0b38137366ff2": {
-        "title": "规范驱动开发：瀑布模型回潮",
-        "link": "https://www.infoq.cn/article/hVZ6M31jJrPTy6dUZVKb?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 10:00:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.298938"
-      },
-      "1b1a7a93ffae8cc362eba419ad247cd961c74d7b49560466806e9b5e1d096a02": {
-        "title": "Spring近期新闻：Boot、Security、GraphQL、Integration、Modulith、Batch等的GA版本",
-        "link": "https://www.infoq.cn/article/bVFzA6OAAxZouCms3xK9?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 09:56:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.301394"
-      },
-      "b110e8e72cfd0e220506b41faa1ab8417d4cce3e463c7a9fadc484161a13866f": {
-        "title": "Grafana Labs 发布 Mimir 3.0，推出全新架构以提升性能",
-        "link": "https://www.infoq.cn/article/DjoXza2pPpXkyMmk2Aw9?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 09:45:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592370"
-      },
-      "429e6c1991765fb9ae7d7af20ea5b7d5d664f141dd977dc189bfec8831eb1b9d": {
-        "title": "Cloudflare全球停机追踪到内部数据库更改",
-        "link": "https://www.infoq.cn/article/lPMNmqXW25qPXKW4zEhu?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 09:40:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.304469"
-      },
-      "67a64e318285a2a52bae005872a26b4d4d6a1f0d1949f121407edf29f0572158": {
-        "title": "Uno Platform 6.4 与 Uno Platform Studio 2.0：.NET 10、VS2026 与 Agentic AI",
-        "link": "https://www.infoq.cn/article/yIpNz4sseVy5rxs4d6QH?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 09:40:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.307758"
-      },
-      "f7d890e5e00feb625c748aa2501bc9e2f04770cd6200e9cf7d9d1d7fd9715e51": {
-        "title": "抛弃“级联”架构！快手OneRec用大模型重构推荐系统，服务成本降至1/10",
-        "link": "https://www.infoq.cn/article/4O7KcKogofXH1LCm6EiR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 09:00:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592383"
-      },
-      "55a6a273e01b2db45ae6d0888d4ed13b37ee68750f90e40041386e009865ed7a": {
-        "title": "服饰、生活、美食、数码……2025 我的年度好物分享",
-        "link": "https://sspai.com/post/104118",
-        "published_date": "Thu, 27 Nov 2025 11:31:00 GMT",
-        "first_seen": "2025-11-27T05:23:22.311976"
-      },
-      "96b199fb8e2348fa6fc92aa98005947baad4f058c72d04f9da333057f3d4769b": {
-        "title": "派早报：高通发布第五代骁龙 8 移动平台等",
-        "link": "https://sspai.com/post/104119",
-        "published_date": "Thu, 27 Nov 2025 08:39:00 GMT",
-        "first_seen": "2025-11-27T05:24:10.592312"
-      },
       "760d881e10a9fc43675de8588a17c3473e731c6f2441152b2b7ef83155c2cfb7": {
         "title": "C++之父亲临北京，AI 原生时代最值得参加的系统软件技术大会日程发布",
         "link": "https://www.tmtpost.com/7784981.html",
@@ -4304,6 +4064,36 @@
         "link": "https://www.infoq.cn/article/w4MIKR6Q1AjojM32gKSg?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 27 Dec 2025 08:00:00 GMT",
         "first_seen": "2025-12-27T05:23:14.338861"
+      },
+      "881af9abb6cfba2c1b9bb7576527932e6a5daf3430ea7ad96da56ebbd9d961b5": {
+        "title": "AI时代，开放互联网还有没有机会？",
+        "link": "https://www.tmtpost.com/7822997.html",
+        "published_date": "Sat, 27 Dec 2025 14:17:00 GMT",
+        "first_seen": "2025-12-27T08:29:21.614607"
+      },
+      "ba924df1affe3b5bd3bdcd483c1162c28d183b374945c7c40058d3bc91d5302f": {
+        "title": "存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？",
+        "link": "https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 27 Dec 2025 13:37:00 GMT",
+        "first_seen": "2025-12-27T08:29:21.614614"
+      },
+      "b19c7c9e2c72f41897c849dbaabb650da9f7731607f79c03d5ccde4cfcfe3632": {
+        "title": "国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响",
+        "link": "https://www.tmtpost.com/7823004.html",
+        "published_date": "Sat, 27 Dec 2025 14:55:00 GMT",
+        "first_seen": "2025-12-27T08:29:21.614616"
+      },
+      "8b6c98a43470869a8ba77ddab4fcafb9f3da42cb1d3c7972acfb5cd3df7e123f": {
+        "title": "手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？",
+        "link": "https://www.tmtpost.com/7822967.html",
+        "published_date": "Sat, 27 Dec 2025 13:46:00 GMT",
+        "first_seen": "2025-12-27T08:29:21.614618"
+      },
+      "c377283ec96f78f2e9af6dbf5718a6c953172179838a5a0637e1a402754225bd": {
+        "title": "1000亿资金进场，风险投资国家队要干件“大”事 | 马上评",
+        "link": "https://www.tmtpost.com/7823014.html",
+        "published_date": "Sat, 27 Dec 2025 14:13:00 GMT",
+        "first_seen": "2025-12-27T08:29:21.614620"
       }
     },
     "Finance": {
@@ -6508,6 +6298,12 @@
         "link": "https://www.ft.com/content/ebd2a3f7-43d7-4cb8-ac68-8a1f6499b320",
         "published_date": "Sat, 27 Dec 2025 00:01:00 GMT",
         "first_seen": "2025-12-27T05:23:00.441189"
+      },
+      "3716e2eb14d15275def723afdb3723d6d49f3429f5cba0dfdec9680b34f5014b": {
+        "title": "Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens",
+        "link": "https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77",
+        "published_date": "Sat, 27 Dec 2025 08:02:00 GMT",
+        "first_seen": "2025-12-27T08:28:54.992532"
       }
     },
     "Ai": {
@@ -8939,8 +8735,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-27T05:23:14.338862",
-    "Finance": "2025-12-27T05:23:00.441197",
+    "Technology": "2025-12-27T08:29:21.614622",
+    "Finance": "2025-12-27T08:28:54.992541",
     "Ai": "2025-12-27T05:23:00.556614"
   }
 }

@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-27 05:22
+**最后更新时间**: 2025-12-27 08:28
+
+---
+
+## 🆕 最新更新 (2025-12-27 08:28)
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 5000 人收藏的 Vibe Coding 神级指南。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529972&idx=1&sn=f5f2730e197afee0df4dbc951e3d0ce5)
+**发布时间**: 2025-12-27 15:03
+
+#### [国产 OCR 开源神器官网上线了，相当给力。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529971&idx=1&sn=213d22243a5502e25d2d8fd91ba48832)
+**发布时间**: 2025-12-26 18:03
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响](https://www.tmtpost.com/7823004.html)
+**发布时间**: 2025-12-27 14:55
+
+#### [1400亿收编Groq，英伟达的收购史，以及黄仁勋的并购逻辑](https://www.tmtpost.com/7822982.html)
+**发布时间**: 2025-12-27 14:31
+
+#### [AI时代，开放互联网还有没有机会？](https://www.tmtpost.com/7822997.html)
+**发布时间**: 2025-12-27 14:17
+
+#### [1000亿资金进场，风险投资国家队要干件“大”事 | 马上评](https://www.tmtpost.com/7823014.html)
+**发布时间**: 2025-12-27 14:13
+
+#### [益方生物赴港提速，前三季度营收增长、亏损收窄，授权合作一劳永逸？](https://www.tmtpost.com/7823001.html)
+**发布时间**: 2025-12-27 13:55
+
+#### [糖水“翻红”，这次能火多久？](https://www.tmtpost.com/7823003.html)
+**发布时间**: 2025-12-27 13:53
+
+#### [手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？](https://www.tmtpost.com/7822967.html)
+**发布时间**: 2025-12-27 13:46
+
+#### [子公司停产，跨界光伏 25 年的老牌药企梦碎](https://www.tmtpost.com/7823025.html)
+**发布时间**: 2025-12-27 13:46
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
+**发布时间**: 2025-12-27 14:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？](https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-27 13:37
 
 ---
 

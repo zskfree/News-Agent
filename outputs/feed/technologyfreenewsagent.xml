@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Dec 2025 05:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Dec 2025 05:23:14 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 08:28:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 08:29:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>能“拯救”英特尔的不是英伟达，而是台积电</title>
-      <link>https://www.tmtpost.com/7822595.html</link>
-      <description>&lt;![CDATA[能“拯救”英特尔的不是英伟达，而是台积电]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7822595.html</guid>
+      <title>AI时代，开放互联网还有没有机会？</title>
+      <link>https://www.tmtpost.com/7822997.html</link>
+      <description>&lt;![CDATA[AI时代，开放互联网还有没有机会？]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7822997.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无遥控机器狗走进生活，消费级具身智能时代来了？</title>
-      <link>https://www.tmtpost.com/7822826.html</link>
-      <description>&lt;![CDATA[无遥控机器狗走进生活，消费级具身智能时代来了？]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7822826.html</guid>
+      <title>存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？</title>
+      <link>https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>顺丰、京东、美团打响“天空之战”，无人机重塑物流</title>
-      <link>https://www.tmtpost.com/7822523.html</link>
-      <description>&lt;![CDATA[顺丰、京东、美团打响“天空之战”，无人机重塑物流]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7822523.html</guid>
+      <title>国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响</title>
+      <link>https://www.tmtpost.com/7823004.html</link>
+      <description>&lt;![CDATA[国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7823004.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>用完刚开源的MiniMax，我们决定给它发个工牌</title>
-      <link>https://www.infoq.cn/article/6wcUOQyS72vW5bKOVMar?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[用完刚开源的MiniMax，我们决定给它发个工牌]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6wcUOQyS72vW5bKOVMar?utm_source=rss&amp;utm_medium=article</guid>
+      <title>手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？</title>
+      <link>https://www.tmtpost.com/7822967.html</link>
+      <description>&lt;![CDATA[手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 13:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7822967.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出 ECS Express 模式，让容器化应用部署更简单</title>
-      <link>https://www.infoq.cn/article/w4MIKR6Q1AjojM32gKSg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出 ECS Express 模式，让容器化应用部署更简单]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/w4MIKR6Q1AjojM32gKSg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1000亿资金进场，风险投资国家队要干件“大”事 | 马上评</title>
+      <link>https://www.tmtpost.com/7823014.html</link>
+      <description>&lt;![CDATA[1000亿资金进场，风险投资国家队要干件“大”事 | 马上评]]&gt;</description>
+      <pubDate>Sat, 27 Dec 2025 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7823014.html</guid>
       <category>Technology</category>
     </item>
   </channel>
