@@ -4,828 +4,916 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free News Agent - ACID PROTOCOL</title>
+    <title>News Agent // Intelligence Hub</title>
+    <meta name="description" content="AI-Powered News Aggregation and RSS Intelligence Hub.">
 
-    <!-- 引入怪诞风格字体：Archivo Black (压缩/厚重) 和 JetBrains Mono (机械感) -->
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono:wght@400;700&display=swap"
+    <link
+        href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;700&display=swap"
         rel="stylesheet">
 
     <link rel="icon"
-        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☢️</text></svg>">
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
 
     <style>
         :root {
-            /* --- Acid Graphics Color Palette --- */
-            --bg-void: #050505;
-            /* 虚空黑 */
-            --acid-green: #ccff00;
-            /* 核心酸性绿 */
-            --acid-purple: #7000ff;
-            /* 电光紫 */
-            --alert-red: #ff3300;
-            /* 警示红 */
-            --chrome-silver: #c0c0c0;
-            /* 金属银 */
+            /* Color Palette */
+            --bg-obsidian: #050505;
+            --accent-acid: #ccff00;
+            --accent-purple: #a855f7;
+            --text-primary: #ffffff;
+            --text-secondary: #94a3b8;
+            --glass-bg: rgba(255, 255, 255, 0.03);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-glow: rgba(204, 255, 0, 0.1);
 
-            --border-width: 3px;
-            --hard-shadow: 6px 6px 0px var(--acid-purple);
-            --hard-shadow-hover: 10px 10px 0px var(--alert-red);
+            --font-main: 'Inter', sans-serif;
+            --font-heading: 'Archivo Black', sans-serif;
+            --font-mono: 'JetBrains Mono', monospace;
+
+            --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        /* 全局重置与基础设定 */
+        /* Base Reset */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            /* 核心原则：移除所有圆角 */
-            border-radius: 0 !important;
-            /* 核心原则：十字准星光标 */
-            cursor: crosshair !important;
         }
 
         body {
-            background-color: var(--bg-void);
-            color: var(--chrome-silver);
-            font-family: 'JetBrains Mono', monospace;
-            /* 正文等宽 */
+            background-color: var(--bg-obsidian);
+            color: var(--text-primary);
+            font-family: var(--font-main);
             overflow-x: hidden;
+            line-height: 1.6;
             min-height: 100vh;
-            /* 紧凑的字间距 */
-            letter-spacing: -0.04em;
-            line-height: 1.4;
         }
 
-        /* --- 3. 视觉质感：动态噪点 (Grain) --- */
-        .noise-overlay {
+        /* Animated Background Mesh */
+        .mesh-gradient {
             position: fixed;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            pointer-events: none;
-            z-index: 9999;
-            opacity: 0.15;
-            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
-            animation: noiseAnimation 0.5s steps(5) infinite;
+            z-index: -1;
+            background:
+                radial-gradient(circle at 10% 10%, rgba(168, 85, 247, 0.12) 0%, transparent 40%),
+                radial-gradient(circle at 90% 90%, rgba(204, 255, 0, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 0%, var(--bg-obsidian) 100%);
+            animation: backgroundFlow 15s infinite alternate ease-in-out;
         }
 
-        @keyframes noiseAnimation {
+        @keyframes backgroundFlow {
             0% {
-                transform: translate(0, 0);
-            }
-
-            20% {
-                transform: translate(-5px, 5px);
-            }
-
-            40% {
-                transform: translate(-5px, -5px);
-            }
-
-            60% {
-                transform: translate(5px, 5px);
-            }
-
-            80% {
-                transform: translate(5px, -5px);
+                transform: scale(1) translate(0, 0);
             }
 
             100% {
-                transform: translate(0, 0);
+                transform: scale(1.05) translate(2%, 2%);
             }
         }
 
-        /* --- 布局容器 --- */
-        .container {
+        /* Scroller Styling */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-obsidian);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--glass-border);
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--accent-acid);
+        }
+
+        /* Container Layout */
+        .layout-wrapper {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 0 2rem;
-            position: relative;
-            z-index: 1;
-            border-left: 1px solid rgba(255, 255, 255, 0.1);
-            border-right: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 3rem;
             min-height: 100vh;
         }
 
-        /* --- 头部设计：反乌托邦式横幅 --- */
-        .header {
-            padding: 3rem 0;
-            border-bottom: var(--border-width) solid var(--acid-green);
-            margin-bottom: 4rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-end;
-            position: relative;
-        }
-
-        /* 装饰性伪元素 */
-        .header::before {
-            content: "SYS.ROUTINE // ONLINE";
-            position: absolute;
-            top: 10px;
-            left: 0;
-            font-size: 0.6rem;
-            color: var(--acid-green);
-        }
-
-        .logo-text h1 {
-            font-family: 'Archivo Black', sans-serif;
-            font-size: 4rem;
-            text-transform: uppercase;
-            color: var(--acid-green);
-            line-height: 0.8;
-            /* 字体描边效果 */
-            -webkit-text-stroke: 1px var(--acid-green);
-            text-shadow: 4px 4px 0px #000;
-            margin-bottom: 0.5rem;
-        }
-
-        .logo-text p {
-            background: var(--acid-green);
-            color: #000;
-            display: inline-block;
-            padding: 0.2rem 0.5rem;
-            font-weight: 700;
-            font-size: 0.9rem;
-            transform: skewX(-15deg);
-        }
-
-        .header-controls {
-            display: flex;
-            gap: 1rem;
-        }
-
-        /* --- 按钮：残酷主义风格 --- */
-        .acid-btn {
-            background: transparent;
-            border: var(--border-width) solid var(--chrome-silver);
-            color: var(--chrome-silver);
-            padding: 0.8rem 1.5rem;
-            font-family: 'JetBrains Mono', monospace;
-            font-weight: 700;
-            text-transform: uppercase;
-            position: relative;
-            transition: 0s;
-            /* 禁用平滑过渡 */
-            box-shadow: 4px 4px 0px var(--chrome-silver);
-        }
-
-        .acid-btn:hover {
-            background: var(--acid-green);
-            border-color: var(--acid-green);
-            color: #000;
-            box-shadow: 4px 4px 0px var(--alert-red);
-            transform: translate(-2px, -2px);
-        }
-
-        .acid-btn:active {
-            transform: translate(2px, 2px);
-            box-shadow: 0 0 0;
-        }
-
-        /* --- 主网格布局 --- */
-        .main-content {
-            display: grid;
-            grid-template-columns: 320px 1fr;
-            gap: 4rem;
-            align-items: start;
-        }
-
-        /* --- 侧边栏：仪表盘 --- */
-        .sidebar-box {
-            border: var(--border-width) solid var(--chrome-silver);
-            padding: 1.5rem;
-            margin-bottom: 2rem;
+        /* Sidebar Glass Card */
+        .sidebar {
             position: sticky;
             top: 2rem;
-            background: #000;
+            height: calc(100vh - 4rem);
+            background: var(--glass-bg);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            border: 1px solid var(--glass-border);
+            border-radius: 28px;
+            padding: 2.5rem 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 2.5rem;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
         }
 
-        .status-badge {
-            display: block;
-            background: var(--acid-purple);
-            color: #fff;
-            padding: 1rem;
-            text-align: center;
-            font-weight: bold;
-            margin-bottom: 1.5rem;
-            /* 剪切路径切角 */
-            clip-path: polygon(10% 0, 100% 0, 100% 90%, 90% 100%, 0 100%, 0 10%);
+        .logo-box {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
         }
 
-        .status-badge span {
-            animation: blink 1s infinite;
+        .logo-box h1 {
+            font-family: var(--font-heading);
+            font-size: 2.4rem;
+            line-height: 0.9;
+            color: var(--accent-acid);
+            text-transform: uppercase;
+            letter-spacing: -1.5px;
+            filter: drop-shadow(0 0 15px rgba(204, 255, 0, 0.3));
         }
 
-        @keyframes blink {
+        .logo-box span {
+            font-family: var(--font-mono);
+            font-size: 0.7rem;
+            color: var(--text-secondary);
+            letter-spacing: 3px;
+            font-weight: 700;
+        }
+
+        .status-pill {
+            background: rgba(168, 85, 247, 0.08);
+            border: 1px solid rgba(168, 85, 247, 0.15);
+            padding: 0.85rem 1.25rem;
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            gap: 0.85rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #d8b4fe;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-acid);
+            border-radius: 50%;
+            box-shadow: 0 0 12px var(--accent-acid);
+            animation: pulse 2.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                opacity: 1;
+                transform: scale(1);
+            }
+
             50% {
-                opacity: 0;
+                opacity: 0.3;
+                transform: scale(0.85);
+            }
+
+            100% {
+                opacity: 1;
+                transform: scale(1);
             }
         }
 
-        .stat-row {
-            display: flex;
-            justify-content: space-between;
-            border-bottom: 1px dashed var(--chrome-silver);
-            padding: 0.8rem 0;
-            font-size: 0.85rem;
-        }
-
-        .stat-row:last-child {
-            border-bottom: none;
-        }
-
-        .stat-val {
-            color: var(--acid-green);
-        }
-
-        /* --- 导航滤镜：堆叠块 --- */
-        .filter-nav {
+        /* Nav Group */
+        .nav-group {
             display: flex;
             flex-direction: column;
-            gap: 1rem;
+            gap: 0.6rem;
         }
 
-        .filter-btn {
-            background: #111;
-            color: #666;
-            border: 1px solid #333;
-            padding: 1rem;
+        .nav-item {
+            padding: 1.1rem;
+            border-radius: 14px;
+            background: transparent;
+            border: 1px solid transparent;
+            color: var(--text-secondary);
+            font-weight: 700;
             text-align: left;
-            font-family: 'Archivo Black', sans-serif;
-            text-transform: uppercase;
-            font-size: 1.2rem;
-            cursor: crosshair;
-            transition: 0s;
+            cursor: pointer;
+            transition: var(--transition-smooth);
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
         }
 
-        .filter-btn:hover {
-            background: var(--acid-purple);
-            color: #fff;
-            border-color: var(--acid-purple);
-            /* 悬停时的位移动画 */
-            transform: translateX(10px);
+        .nav-item:hover {
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text-primary);
+            border-color: var(--glass-border);
+            transform: translateX(5px);
         }
 
-        .filter-btn.active {
-            background: var(--acid-green);
-            color: #000;
-            border: var(--border-width) solid var(--acid-green);
-            box-shadow: 6px 6px 0px #fff;
+        .nav-item.active {
+            background: var(--accent-acid);
+            color: var(--bg-obsidian);
+            box-shadow: 0 10px 30px rgba(204, 255, 0, 0.25);
+            border-color: var(--accent-acid);
         }
 
-        /* --- 搜索栏 --- */
-        .search-wrapper {
-            margin-bottom: 4rem;
-            position: relative;
+        .nav-item::after {
+            content: '→';
+            opacity: 0;
+            transition: var(--transition-smooth);
         }
 
-        .search-input {
-            width: 100%;
-            background: #000;
-            border: var(--border-width) solid var(--chrome-silver);
-            color: var(--acid-green);
-            padding: 1.5rem;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 1.5rem;
-            outline: none;
-            box-shadow: var(--hard-shadow);
+        .nav-item:hover::after,
+        .nav-item.active::after {
+            opacity: 1;
         }
 
-        .search-input:focus {
-            border-color: var(--acid-green);
-            box-shadow: var(--hard-shadow-hover);
-        }
-
-        /* --- Feed 卡片 (核心怪诞元素) --- */
-        .feeds-grid {
+        /* Main Area */
+        .content-area {
             display: flex;
             flex-direction: column;
-            gap: 3rem;
+            gap: 2.5rem;
         }
 
-        .feed-card {
-            background: #080808;
-            border: var(--border-width) solid var(--acid-green);
-            padding: 0;
+        /* Search Bar */
+        .search-container {
             position: relative;
-            box-shadow: var(--hard-shadow);
-            transition: 0s;
-            overflow: visible;
+            width: 100%;
         }
 
-        /* 卡片悬停效果：剧烈反色 */
+        .search-container input {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--glass-border);
+            padding: 1.4rem 1.5rem 1.4rem 3.8rem;
+            border-radius: 22px;
+            color: var(--text-primary);
+            font-family: var(--font-main);
+            font-size: 1.1rem;
+            outline: none;
+            transition: var(--transition-smooth);
+            backdrop-filter: blur(10px);
+        }
+
+        .search-container input:focus {
+            border-color: var(--accent-acid);
+            background: rgba(255, 255, 255, 0.05);
+            box-shadow: 0 0 0 5px rgba(204, 255, 0, 0.04);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1.6rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+            font-size: 1.2rem;
+            pointer-events: none;
+        }
+
+        /* Feed Grid */
+        .feed-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2.5rem;
+            padding-bottom: 4rem;
+        }
+
+        /* Feed Card */
+        .feed-card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(15px);
+            border: 1px solid var(--glass-border);
+            border-radius: 32px;
+            padding: 3rem;
+            transition: var(--transition-smooth);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .feed-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at center, var(--glass-glow), transparent 70%);
+            opacity: 0;
+            transition: var(--transition-smooth);
+            pointer-events: none;
+        }
+
         .feed-card:hover {
-            border-color: var(--alert-red);
-            box-shadow: 10px 10px 0px var(--alert-red);
-            /* 可选：整个卡片反色，非常刺眼，符合怪诞风 */
-            /* filter: invert(1); */
+            transform: translateY(-8px);
+            border-color: rgba(204, 255, 0, 0.4);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
         }
 
-        /* 卡片头部条 */
-        .card-header-strip {
-            background: var(--acid-green);
-            color: #000;
-            padding: 0.5rem 1.5rem;
+        .feed-card:hover::before {
+            opacity: 1;
+            transform: translate(25%, 25%);
+        }
+
+        .card-header {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            border-bottom: var(--border-width) solid var(--acid-green);
+            align-items: flex-start;
+            z-index: 10;
         }
 
-        .card-id {
-            font-weight: 900;
-            font-size: 1.2rem;
+        .category-tag {
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            font-weight: 800;
+            color: var(--accent-acid);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            background: rgba(204, 255, 0, 0.1);
+            padding: 0.5rem 1rem;
+            border-radius: 10px;
+            border: 1px solid rgba(204, 255, 0, 0.15);
         }
 
-        .card-body {
-            padding: 2rem;
+        .article-count-badge {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 0.5rem 0.75rem;
+            border-radius: 10px;
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            color: var(--text-secondary);
         }
 
         .feed-title {
-            font-family: 'Archivo Black', sans-serif;
-            font-size: 2.5rem;
-            color: #fff;
+            font-family: var(--font-heading);
+            font-size: 2.8rem;
             line-height: 1;
-            margin-bottom: 1.5rem;
+            color: var(--text-primary);
             text-transform: uppercase;
+            z-index: 10;
+            letter-spacing: -0.5px;
         }
 
         .feed-desc {
-            font-size: 1rem;
-            color: #888;
-            margin-bottom: 2rem;
-            border-left: 4px solid var(--acid-purple);
-            padding-left: 1rem;
-        }
-
-        .data-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            border: 1px solid #333;
-            margin-bottom: 2rem;
-        }
-
-        .data-cell {
-            padding: 1rem;
-            border-right: 1px solid #333;
-            text-align: center;
-        }
-
-        .data-cell:last-child {
-            border-right: none;
-        }
-
-        .data-label {
-            display: block;
-            font-size: 0.7rem;
-            color: #555;
-            text-transform: uppercase;
-        }
-
-        .data-value {
-            display: block;
+            color: var(--text-secondary);
             font-size: 1.1rem;
-            color: var(--acid-green);
-            font-weight: bold;
+            max-width: 85%;
+            z-index: 10;
+            font-weight: 500;
         }
 
-        /* 订阅按钮区域 */
-        .action-area {
+        .stats-row {
             display: flex;
-            gap: 1rem;
+            gap: 2.5rem;
+            padding: 2rem;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            z-index: 10;
         }
 
-        .btn-primary {
-            flex: 1;
-            background: var(--acid-purple);
-            color: #fff;
-            border: none;
-            padding: 1rem;
-            font-weight: 900;
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .stat-label {
+            font-size: 0.65rem;
+            font-weight: 800;
+            color: var(--text-secondary);
             text-transform: uppercase;
-            font-size: 1.1rem;
+            letter-spacing: 1.2px;
+        }
+
+        .stat-value {
+            font-family: var(--font-mono);
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--accent-acid);
+        }
+
+        .action-row {
+            display: flex;
+            gap: 1.2rem;
+            margin-top: 0.5rem;
+            z-index: 10;
+        }
+
+        .btn-main {
+            flex: 1;
+            background: var(--text-primary);
+            color: var(--bg-obsidian);
+            padding: 1.3rem;
+            border-radius: 18px;
+            font-weight: 800;
+            text-transform: uppercase;
             text-decoration: none;
             text-align: center;
-            /* 斜切效果 */
-            clip-path: polygon(0 0, 100% 0, 100% 80%, 95% 100%, 0 100%);
-        }
-
-        .btn-primary:hover {
-            background: var(--acid-green);
-            color: #000;
-            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 20%);
-        }
-
-        .btn-icon {
-            width: 60px;
-            background: #222;
-            color: #fff;
+            transition: var(--transition-smooth);
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 1.5rem;
-            border: 1px solid #444;
+            gap: 0.8rem;
+            font-size: 1rem;
+            border: 2px solid var(--text-primary);
         }
 
-        .btn-icon:hover {
-            background: #fff;
-            color: #000;
+        .btn-main:hover {
+            background: var(--accent-acid);
+            border-color: var(--accent-acid);
+            transform: scale(1.02);
+            box-shadow: 0 15px 30px rgba(204, 255, 0, 0.25);
         }
 
-        /* 详情代码块 */
-        details {
-            margin-top: 1.5rem;
-            border-top: 2px dashed #333;
-            padding-top: 1rem;
+        .btn-secondary {
+            width: 76px;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--glass-border);
+            color: var(--text-primary);
+            border-radius: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: var(--transition-smooth);
+            font-size: 1.4rem;
         }
 
-        summary {
-            color: #555;
-            cursor: help;
+        .btn-secondary:hover {
+            border-color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.1);
+            transform: scale(1.05);
         }
 
-        summary:hover {
-            color: var(--acid-green);
+        /* Controls Panel */
+        .controls-panel {
+            margin-top: auto;
+            border-top: 1px solid var(--glass-border);
+            padding-top: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
         }
 
-        .code-block {
-            background: #111;
-            border: 1px solid var(--acid-purple);
-            color: var(--acid-purple);
-            padding: 1rem;
-            margin-top: 1rem;
-            font-size: 0.8rem;
-            word-break: break-all;
+        .control-row {
+            display: flex;
+            gap: 0.6rem;
         }
 
-        /* --- 底部 --- */
-        .footer {
-            margin-top: 6rem;
-            border-top: var(--border-width) solid var(--acid-green);
-            padding: 4rem 0;
-            text-align: center;
+        .control-btn {
+            flex: 1;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--glass-border);
+            color: var(--text-secondary);
+            padding: 0.9rem;
+            border-radius: 14px;
+            font-size: 0.85rem;
+            font-weight: 800;
+            cursor: pointer;
+            transition: var(--transition-smooth);
+            text-transform: uppercase;
         }
 
-        .info-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 2rem;
-            margin-bottom: 4rem;
+        .control-btn:hover {
+            border-color: var(--accent-acid);
+            color: var(--text-primary);
+            background: rgba(204, 255, 0, 0.05);
         }
 
-        .info-card h2 {
-            font-family: 'Archivo Black';
-            color: #fff;
-            background: #000;
-            display: inline-block;
-            border: 1px solid #fff;
-            padding: 0.5rem 1rem;
-            margin-bottom: 1rem;
+        /* Toast Popup */
+        #toast {
+            position: fixed;
+            bottom: 3rem;
+            left: 50%;
+            transform: translateX(-50%) translateY(200%);
+            background: var(--text-primary);
+            color: var(--bg-obsidian);
+            padding: 1.2rem 2.5rem;
+            border-radius: 20px;
+            font-weight: 800;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+            transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+            z-index: 2000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
         }
 
-        .feature-list li {
-            list-style: square inside;
-            color: #888;
-            margin-bottom: 0.5rem;
+        #toast.show {
+            transform: translateX(-50%) translateY(0);
         }
 
-        .feature-list li::marker {
-            color: var(--alert-red);
-            font-size: 1.2rem;
-        }
-
-        /* 响应式适配 */
-        @media (max-width: 900px) {
-            .main-content {
+        /* Responsive Breakpoints */
+        @media (max-width: 1100px) {
+            .layout-wrapper {
                 grid-template-columns: 1fr;
+                padding: 1.5rem;
             }
 
-            .header {
+            .sidebar {
+                position: relative;
+                height: auto;
+                top: 0;
+                padding: 2rem;
+            }
+
+            .nav-group {
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+
+            .nav-item {
+                flex: 1;
+                min-width: 140px;
+            }
+
+            .controls-panel {
+                flex-direction: row;
+            }
+
+            .feed-title {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 650px) {
+            .feed-card {
+                padding: 2rem;
+                border-radius: 24px;
+            }
+
+            .stats-row {
                 flex-direction: column;
-                align-items: flex-start;
-                gap: 2rem;
+                gap: 1.2rem;
+                padding: 1.5rem;
             }
 
-            .logo-text h1 {
-                font-size: 2.5rem;
+            .feed-title {
+                font-size: 1.8rem;
             }
 
-            .info-grid {
-                grid-template-columns: 1fr;
+            .nav-item {
+                font-size: 0.85rem;
+                padding: 0.9rem;
+            }
+        }
+
+        /* Animations */
+        @keyframes fadeInOut {
+            0% {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(0);
             }
         }
     </style>
 </head>
 
 <body>
-    <!-- 视觉层：噪点 -->
-    <div class="noise-overlay"></div>
+    <!-- Dynamic Background Overlay -->
+    <div class="mesh-gradient"></div>
 
-    <div class="container">
-        <header class="header">
-            <a href="#" style="text-decoration: none;">
-                <div class="logo-text">
-                    <h1>Free News<br>Agent</h1>
-                    <p>⚠️ RSS AGGREGATOR // V2.0</p>
-                </div>
-            </a>
-
-            <div class="header-controls">
-                <button class="acid-btn" onclick="toggleLanguage()">
-                    [ <span id="lang-text">EN</span> ]
-                </button>
-                <button class="acid-btn" onclick="toggleTheme()" title="Actually this style only works in Dark Mode">
-                    *
-                </button>
+    <div class="layout-wrapper">
+        <!-- Dashboard Sidebar / Control Unit -->
+        <aside class="sidebar">
+            <div class="logo-box">
+                <h1>News Agent</h1>
+                <span>INTELLIGENCE AGGREGATOR</span>
             </div>
-        </header>
 
-        <main class="main-content">
-            <!-- 侧边栏：粗暴的边框风格 -->
-            <aside class="sidebar">
-                <div class="sidebar-box">
-                    <div class="status-badge" data-i18n="status_ok">
-                        <span>●</span> SYSTEM OPTIMAL
-                    </div>
+            <div class="status-pill">
+                <div class="status-dot"></div>
+                <div id="status-text" data-i18n="status_ok">SYSTEM OPTIMAL</div>
+            </div>
 
-                    <div class="stat-row">
-                        <span>LAST_UPDATE</span>
-                        <span class="stat-val">16:32:04</span>
-                    </div>
-                    <div class="stat-row">
-                        <span data-i18n="total_feeds">FEEDS</span>
-                        <span class="stat-val" id="totalFeeds">3</span>
-                    </div>
-                    <div class="stat-row">
-                        <span data-i18n="total_size">DATA_SIZE</span>
-                        <span class="stat-val" id="totalSize">16KB</span>
-                    </div>
+            <nav class="nav-group">
+                <button class="nav-item active" data-category="all" data-i18n="nav_all"
+                    onclick="filterFeeds('all', this)">
+                    All Channels
+                </button>
+                <button class="nav-item" data-category="ai" data-i18n="nav_ai" onclick="filterFeeds('ai', this)">
+                    Neural / AI Core
+                </button>
+                <button class="nav-item" data-category="technology" data-i18n="nav_tech"
+                    onclick="filterFeeds('technology', this)">
+                    Tech Frontier
+                </button>
+                <button class="nav-item" data-category="finance" data-i18n="nav_finance"
+                    onclick="filterFeeds('finance', this)">
+                    Capital Market
+                </button>
+            </nav>
+
+            <div class="controls-panel">
+                <div class="control-row">
+                    <button class="control-btn" onclick="toggleLanguage()">
+                        <span id="lang-btn-text">CN</span> / EN
+                    </button>
                 </div>
-
-                <nav class="filter-nav">
-                    <button class="filter-btn active" data-category="all" onclick="filterFeeds('all', this)">
-                        /// ALL_DATA
+                <div class="control-row">
+                    <button class="control-btn" data-i18n="ctrl_repo"
+                        onclick="window.location.href='https://github.com/zskfree/News-Agent'">
+                        REPOSITORY
                     </button>
-                    <button class="filter-btn" data-category="ai" onclick="filterFeeds('ai', this)">
-                        /// AI_CORE
+                    <button class="control-btn" onclick="showToast('DEBUG: LOG ACTIVE')">
+                        v2.5.0
                     </button>
-                    <button class="filter-btn" data-category="technology" onclick="filterFeeds('technology', this)">
-                        /// TECH_SEC
-                    </button>
-                    <button class="filter-btn" data-category="finance" onclick="filterFeeds('finance', this)">
-                        /// FIN_MARKET
-                    </button>
-                </nav>
-            </aside>
-
-            <!-- 主要内容区 -->
-            <section class="feeds-section">
-                <div class="search-wrapper">
-                    <input type="text" class="search-input" placeholder="INPUT_QUERY..." id="searchInput">
                 </div>
+            </div>
+        </aside>
 
-                <div class="feeds-grid" id="feedsGrid">
-                    <!-- AI Feed -->
-                    <div class="feed-card" data-category="ai">
-                        <div class="card-header-strip">
-                            <span>CATEGORY: INTELLIGENCE</span>
-                            <span class="card-id">#001</span>
+        <!-- Main Stream Area -->
+        <main class="content-area">
+            <!-- Universal Filter -->
+            <div class="search-container">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchInput" placeholder="Query data streams..." autocomplete="off">
+            </div>
+
+            <div class="feed-grid" id="feedsGrid">
+                <!-- Module 001: AI -->
+                <article class="feed-card" data-category="ai">
+                    <div class="card-header">
+                        <div class="category-tag" data-i18n="tag_ai">Neural Intelligence</div>
+                        <div class="article-count-badge">STREAM_ID_001</div>
+                    </div>
+
+                    <h2 class="feed-title" data-i18n="title_ai">Artificial Intelligence</h2>
+
+                    <p class="feed-desc" data-i18n="desc_ai">
+                        Automated monitoring of neural network research, LLM architectural paradigms, and large-scale
+                        autonomous agent deployments.
+                    </p>
+
+                    <div class="stats-row">
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_size">Buffer Size</span>
+                            <span class="stat-value">2.8 KB</span>
                         </div>
-                        <div class="card-body">
-                            <h3 class="feed-title" data-i18n="title_ai">Artificial Intelligence</h3>
-
-                            <p class="feed-desc" data-i18n="desc_ai">
-                                AGGREGATING NEURAL NETWORKS, LLM UPDATES, AND MACHINE LEARNING BREAKTHROUGHS.
-                            </p>
-
-                            <div class="data-grid">
-                                <div class="data-cell">
-                                    <span class="data-label">SIZE</span>
-                                    <span class="data-value">2.8KB</span>
-                                </div>
-                                <div class="data-cell">
-                                    <span class="data-label">SRC</span>
-                                    <span class="data-value">05</span>
-                                </div>
-                                <div class="data-cell">
-                                    <span class="data-label">FREQ</span>
-                                    <span class="data-value">3/D</span>
-                                </div>
-                            </div>
-
-                            <div class="action-area">
-                                <a href="https://www.zskksz.asia/News-Agent/outputs/feed/aifreenewsagent.xml"
-                                    class="btn-primary" target="_blank">
-                                    ACCESS_RSS_FEED
-                                </a>
-                                <button class="btn-icon" onclick="copyToClipboard('url', this)">📋</button>
-                            </div>
-
-                            <details>
-                                <summary>EXPAND_SOURCE_CODE</summary>
-                                <div class="code-block">
-                                    SOURCE >> https://www.zskksz.asia/News-Agent/outputs/feed/aifreenewsagent.xml
-                                </div>
-                            </details>
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_nodes">Active Nodes</span>
+                            <span class="stat-value">05 / 15</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_rate">Refresh Rate</span>
+                            <span class="stat-value">8H / Cycle</span>
                         </div>
                     </div>
 
-                    <!-- Tech Feed -->
-                    <div class="feed-card" data-category="technology">
-                        <div class="card-header-strip">
-                            <span>CATEGORY: HARDWARE</span>
-                            <span class="card-id">#002</span>
+                    <div class="action-row">
+                        <a href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" class="btn-main"
+                            data-i18n="btn_access" target="_blank">
+                            INITIATE FEED ACCESS
+                        </a>
+                        <button class="btn-secondary"
+                            onclick="copyToClipboard('https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml')"
+                            title="Copy XML Link">
+                            📋
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Module 002: Technology -->
+                <article class="feed-card" data-category="technology">
+                    <div class="card-header">
+                        <div class="category-tag" data-i18n="tag_tech">Frontier Labs</div>
+                        <div class="article-count-badge">STREAM_ID_002</div>
+                    </div>
+
+                    <h2 class="feed-title" data-i18n="title_tech">Technology Frontier</h2>
+
+                    <p class="feed-desc" data-i18n="desc_tech">
+                        Silicon innovations, semiconductor supply chain forensics, and emerging protocols for the
+                        next-gen internet infrastructure.
+                    </p>
+
+                    <div class="stats-row">
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_size">Buffer Size</span>
+                            <span class="stat-value">5.9 KB</span>
                         </div>
-                        <div class="card-body">
-                            <h3 class="feed-title" data-i18n="title_tech">Technology Frontier</h3>
-
-                            <p class="feed-desc" data-i18n="desc_tech">
-                                SILICON VALLEY DATA STREAMS, HARDWARE SPECS, AND GLOBAL TECH PROTOCOLS.
-                            </p>
-
-                            <div class="data-grid">
-                                <div class="data-cell">
-                                    <span class="data-label">SIZE</span>
-                                    <span class="data-value">5.9KB</span>
-                                </div>
-                                <div class="data-cell">
-                                    <span class="data-label">SRC</span>
-                                    <span class="data-value">05</span>
-                                </div>
-                                <div class="data-cell">
-                                    <span class="data-label">FREQ</span>
-                                    <span class="data-value">3/D</span>
-                                </div>
-                            </div>
-
-                            <div class="action-area">
-                                <a href="#" class="btn-primary">ACCESS_RSS_FEED</a>
-                                <button class="btn-icon">📋</button>
-                            </div>
-                            <details>
-                                <summary>EXPAND_SOURCE_CODE</summary>
-                                <div class="code-block">
-                                    SOURCE >>
-                                    https://www.zskksz.asia/News-Agent/outputs/feed/technologyfreenewsagent.xml
-                                </div>
-                            </details>
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_nodes">Active Nodes</span>
+                            <span class="stat-value">05 / 12</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_rate">Refresh Rate</span>
+                            <span class="stat-value">8H / Cycle</span>
                         </div>
                     </div>
 
-                    <!-- Finance Feed -->
-                    <div class="feed-card" data-category="finance">
-                        <div class="card-header-strip">
-                            <span>CATEGORY: ECONOMY</span>
-                            <span class="card-id">#003</span>
+                    <div class="action-row">
+                        <a href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" class="btn-main"
+                            data-i18n="btn_access" target="_blank">
+                            INITIATE FEED ACCESS
+                        </a>
+                        <button class="btn-secondary"
+                            onclick="copyToClipboard('https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml')"
+                            title="Copy XML Link">
+                            📋
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Module 003: Finance -->
+                <article class="feed-card" data-category="finance">
+                    <div class="card-header">
+                        <div class="category-tag" data-i18n="tag_finance">Global Markets</div>
+                        <div class="article-count-badge">STREAM_ID_003</div>
+                    </div>
+
+                    <h2 class="feed-title" data-i18n="title_finance">Strategic Finance</h2>
+
+                    <p class="feed-desc" data-i18n="desc_finance">
+                        Market volatility metrics, institutional capital flow vectors, and systematic tracking of global
+                        liquidity shifts.
+                    </p>
+
+                    <div class="stats-row">
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_size">Buffer Size</span>
+                            <span class="stat-value">7.3 KB</span>
                         </div>
-                        <div class="card-body">
-                            <h3 class="feed-title" data-i18n="title_finance">Global Finance</h3>
-
-                            <p class="feed-desc" data-i18n="desc_finance">
-                                MARKET VOLATILITY TRACKING, CRYPTO FLUX, AND MACRO-ECONOMIC POLICY.
-                            </p>
-
-                            <div class="data-grid">
-                                <div class="data-cell">
-                                    <span class="data-label">SIZE</span>
-                                    <span class="data-value">7.3KB</span>
-                                </div>
-                                <div class="data-cell">
-                                    <span class="data-label">SRC</span>
-                                    <span class="data-value">03</span>
-                                </div>
-                                <div class="data-cell">
-                                    <span class="data-label">FREQ</span>
-                                    <span class="data-value">3/D</span>
-                                </div>
-                            </div>
-
-                            <div class="action-area">
-                                <a href="#" class="btn-primary">ACCESS_RSS_FEED</a>
-                                <button class="btn-icon">📋</button>
-                            </div>
-                            <details>
-                                <summary>EXPAND_SOURCE_CODE</summary>
-                                <div class="code-block">
-                                    SOURCE >> https://www.zskksz.asia/News-Agent/outputs/feed/financefreenewsagent.xml
-                                </div>
-                            </details>
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_nodes">Active Nodes</span>
+                            <span class="stat-value">03 / 10</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label" data-i18n="stat_rate">Refresh Rate</span>
+                            <span class="stat-value">8H / Cycle</span>
                         </div>
                     </div>
-                </div>
-            </section>
+
+                    <div class="action-row">
+                        <a href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" class="btn-main"
+                            data-i18n="btn_access" target="_blank">
+                            INITIATE FEED ACCESS
+                        </a>
+                        <button class="btn-secondary"
+                            onclick="copyToClipboard('https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml')"
+                            title="Copy XML Link">
+                            📋
+                        </button>
+                    </div>
+                </article>
+            </div>
+
+            <footer
+                style="margin-top: 2rem; border-top: 1px solid var(--glass-border); padding: 3rem 0; color: var(--text-secondary); font-size: 0.85rem; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem;">
+                <div style="font-weight: 700;">NEWS AGENT PROJECT // © 2024 DECENTRALIZED DATA</div>
+                <div style="font-family: var(--font-mono); color: var(--accent-acid); font-weight: 800;">
+                    ENCRYPTION_LEVEL: AES-256-GCM</div>
+                <div style="color: var(--text-secondary);">ESTHETICS: CYBER-LUXE / GLASSMORPHISM</div>
+            </footer>
         </main>
-
-        <div class="info-grid">
-            <div class="info-card">
-                <h2 data-i18n="service_title">SERVICE_PROTOCOLS</h2>
-                <ul class="feature-list">
-                    <li data-i18n="service_1">TRIPLE DAILY UPDATE CYCLE</li>
-                    <li data-i18n="service_2">HISTORICAL DATA RETENTION</li>
-                    <li data-i18n="service_3">GEMINI AI INTEGRATION CORE</li>
-                    <li data-i18n="service_4">ZERO COST / NO ADS</li>
-                </ul>
-            </div>
-            <div class="info-card">
-                <h2 data-i18n="tech_title">TECH_STACK</h2>
-                <ul class="feature-list">
-                    <li data-i18n="tech_1">GITHUB ACTIONS AUTOMATION</li>
-                    <li data-i18n="tech_2">W3C COMPLIANT RSS</li>
-                    <li data-i18n="tech_3">HTTPS ENCRYPTED</li>
-                    <li data-i18n="tech_4">OPEN SOURCE CODEBASE</li>
-                </ul>
-            </div>
-        </div>
-
-        <footer class="footer">
-            <p>&copy; 2024 FREE NEWS AGENT. <a href="https://github.com/zskfree/News-Agent"
-                    style="color:var(--acid-green); font-weight:bold;">GITHUB_REPO</a></p>
-            <p style="margin-top:1rem; font-size:0.7rem; color:#444;">ESTHETICS: MODERN GROTESQUE / ACID</p>
-        </footer>
     </div>
 
+    <!-- UI Components: Toast -->
+    <div id="toast">FEED LINK COPIED</div>
+
+    <!-- Interface Controller -->
     <script>
-        // 脚本逻辑保持原有功能，适配新类名
         const translations = {
             zh: {
-                status_ok: "<span>●</span> 系统运转中",
-                total_feeds: "源数量",
-                total_size: "数据量",
+                status_ok: "系统状态：优化运行中",
+                nav_all: "全部数据流",
+                nav_ai: "AI 智能核心",
+                nav_tech: "科技前沿",
+                nav_finance: "策略财经",
+                ctrl_repo: "源码仓库",
+                tag_ai: "神经网络智能",
+                tag_tech: "前沿实验室",
+                tag_finance: "全球市场",
+                stat_size: "缓存大小",
+                stat_nodes: "活跃节点",
+                stat_rate: "刷新频率",
+                btn_access: "启动数据访问",
                 title_ai: "人工智能",
-                desc_ai: "聚合神经网络、LLM 更新和机器学习突破。",
+                desc_ai: "自动化监测神经网络研究、LLM 架构范式以及大规模自主智能体部署。",
                 title_tech: "科技前沿",
-                desc_tech: "硅谷数据流、硬件规格和全球技术协议。",
-                title_finance: "全球财经",
-                desc_finance: "市场波动追踪、加密货币通量和宏观经济政策。",
-                service_title: "服务协议",
-                tech_title: "技术栈"
+                desc_tech: "硅基创新、半导体供应链深度分析以及下一代互联网基础设施的新兴协议。",
+                title_finance: "战略财经",
+                desc_finance: "市场波动指标、机构资本流向矢量以及全球流动性变化的系统性跟踪。",
+                toast_copy: "已复制订阅链接"
             },
             en: {
-                status_ok: "<span>●</span> SYSTEM OPTIMAL",
-                total_feeds: "FEEDS",
-                total_size: "DATA_SIZE",
+                status_ok: "SYSTEM OPTIMAL",
+                nav_all: "All Channels",
+                nav_ai: "Neural / AI Core",
+                nav_tech: "Tech Frontier",
+                nav_finance: "Capital Market",
+                ctrl_repo: "REPOSITORY",
+                tag_ai: "Neural Intelligence",
+                tag_tech: "Frontier Labs",
+                tag_finance: "Global Markets",
+                stat_size: "Buffer Size",
+                stat_nodes: "Active Nodes",
+                stat_rate: "Refresh Rate",
+                btn_access: "INITIATE FEED ACCESS",
                 title_ai: "Artificial Intelligence",
-                desc_ai: "AGGREGATING NEURAL NETWORKS, LLM UPDATES, AND MACHINE LEARNING BREAKTHROUGHS.",
+                desc_ai: "Automated monitoring of neural network research, LLM architectural paradigms, and large-scale autonomous agent deployments.",
                 title_tech: "Technology Frontier",
-                desc_tech: "SILICON VALLEY DATA STREAMS, HARDWARE SPECS, AND GLOBAL TECH PROTOCOLS.",
-                title_finance: "Global Finance",
-                desc_finance: "MARKET VOLATILITY TRACKING, CRYPTO FLUX, AND MACRO-ECONOMIC POLICY.",
-                service_title: "SERVICE_PROTOCOLS",
-                tech_title: "TECH_STACK"
+                desc_tech: "Silicon innovations, semiconductor supply chain forensics, and emerging protocols for the next-gen internet infrastructure.",
+                title_finance: "Strategic Finance",
+                desc_finance: "Market volatility metrics, institutional capital flow vectors, and systematic tracking of global liquidity shifts.",
+                toast_copy: "FEED LINK COPIED"
             }
         };
 
-        let currentLang = 'en'; // 这种风格英文看起来更酷
+        let currentLang = 'en';
 
         function toggleLanguage() {
             currentLang = currentLang === 'zh' ? 'en' : 'zh';
-            document.getElementById('lang-text').innerText = currentLang.toUpperCase();
+            const btnText = document.getElementById('lang-btn-text');
+            btnText.innerText = currentLang === 'zh' ? 'EN' : 'CN';
 
             const t = translations[currentLang];
             document.querySelectorAll('[data-i18n]').forEach(el => {
                 const key = el.getAttribute('data-i18n');
-                if (t[key]) el.innerHTML = t[key];
+                if (t[key]) el.innerText = t[key];
             });
+
+            // Update search placeholder
+            document.getElementById('searchInput').placeholder = currentLang === 'zh' ? '搜索数据流...' : 'Query data streams...';
         }
 
         function filterFeeds(category, btn) {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            // UI state update
+            document.querySelectorAll('.nav-item').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
 
+            // View filtering
             const cards = document.querySelectorAll('.feed-card');
             cards.forEach(card => {
-                if (category === 'all' || card.dataset.category === category) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
+                const isMatch = category === 'all' || card.dataset.category === category;
+                card.style.display = isMatch ? 'flex' : 'none';
+                if (isMatch) {
+                    card.style.animation = 'fadeInOut 0.5s ease forwards';
                 }
             });
         }
 
-        function copyToClipboard(text, btn) {
-            // 模拟复制
-            const original = btn.innerHTML;
-            btn.innerHTML = "OK";
-            btn.style.background = "#ccff00";
-            btn.style.color = "#000";
-            setTimeout(() => {
-                btn.innerHTML = original;
-                btn.style.background = "";
-                btn.style.color = "";
-            }, 1000);
+        function copyToClipboard(text) {
+            // Clipboard API with Fallback
+            if (!navigator.clipboard) {
+                const textArea = document.createElement("textarea");
+                textArea.value = text;
+                document.body.appendChild(textArea);
+                textArea.select();
+                try {
+                    document.execCommand('copy');
+                    showToast(translations[currentLang].toast_copy);
+                } catch (err) {
+                    console.error('Copy failed', err);
+                }
+                document.body.removeChild(textArea);
+                return;
+            }
+            navigator.clipboard.writeText(text).then(() => {
+                showToast(translations[currentLang].toast_copy);
+            }).catch(err => {
+                console.error('Async Copy failed', err);
+            });
         }
 
-        // 简单的搜索逻辑
+        function showToast(msg) {
+            const toast = document.getElementById('toast');
+            toast.innerText = msg;
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 2500);
+        }
+
+        // Real-time Search Processing
         document.getElementById('searchInput').addEventListener('input', function (e) {
-            const val = e.target.value.toLowerCase();
-            document.querySelectorAll('.feed-card').forEach(card => {
-                const text = card.innerText.toLowerCase();
-                card.style.display = text.includes(val) ? 'block' : 'none';
+            const val = e.target.value.toLowerCase().trim();
+            const cards = document.querySelectorAll('.feed-card');
+
+            cards.forEach(card => {
+                const searchableText = card.innerText.toLowerCase();
+                const isMatch = searchableText.includes(val);
+                card.style.display = isMatch ? 'flex' : 'none';
+                if (isMatch && val !== '') {
+                    card.style.animation = 'none';
+                }
             });
         });
+
+        // Initialize view
+        console.log("Core initialized :: News Agent Unit 2.5.0");
     </script>
 </body>
 
