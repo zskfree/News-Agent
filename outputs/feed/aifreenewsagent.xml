@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Dec 2025 23:21:58 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2025 05:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2025 05:26:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025-12-28日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-28/</link>
-      <description>&lt;![CDATA[2025-12-28日刊]]&gt;</description>
-      <pubDate>Sun, 28 Dec 2025 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-28/</guid>
+      <title>鸿蒙押注新未来：用AI重写数字世界交互逻辑</title>
+      <link>https://www.qbitai.com/2025/12/366075.html</link>
+      <description>&lt;![CDATA[鸿蒙押注新未来：用AI重写数字世界交互逻辑]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 03:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366075.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI大佬Karpathy焦虑了：作为程序员，我从未感到如此落后</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-27-4</link>
-      <description>&lt;![CDATA[AI大佬Karpathy焦虑了：作为程序员，我从未感到如此落后]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-27-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>告别「单线程」思维：通研院提出NPR框架，让智能体进化出原生的并行推理大脑</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-27-3</link>
-      <description>&lt;![CDATA[告别「单线程」思维：通研院提出NPR框架，让智能体进化出原生的并行推理大脑]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 19:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-27-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>SIGGRAPH Asia 2025｜当视频生成真正「看清一个人」：多视角身份一致、真实光照与可控镜头的统一框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-27-2</link>
-      <description>&lt;![CDATA[SIGGRAPH Asia 2025｜当视频生成真正「看清一个人」：多视角身份一致、真实光照与可控镜头的统一框架]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 19:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-27-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>马斯克圣诞礼物：X上所有图片都能一键AI改图了，全球画师暴怒</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-27</link>
-      <description>&lt;![CDATA[马斯克圣诞礼物：X上所有图片都能一键AI改图了，全球画师暴怒]]&gt;</description>
-      <pubDate>Sat, 27 Dec 2025 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-27</guid>
+      <title>国足缺席世界杯，但中国大模型们集体参赛</title>
+      <link>https://www.qbitai.com/2025/12/366066.html</link>
+      <description>&lt;![CDATA[国足缺席世界杯，但中国大模型们集体参赛]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 03:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366066.html</guid>
       <category>Ai</category>
     </item>
   </channel>

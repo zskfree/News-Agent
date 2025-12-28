@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-27 23:21
+**最后更新时间**: 2025-12-28 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-28 05:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [North Sea suffers worst year since 1970s as drillers freeze investment](https://www.ft.com/content/abc3c550-c657-47ac-977c-64f818abf9f5)
+**发布时间**: 2025-12-28 05:00
+
+#### [Move over, Tokyo — the world has a new biggest city](https://www.ft.com/content/4ee58650-3a91-4c0b-84d1-48c27e8639cc)
+**发布时间**: 2025-12-28 05:00
+
+#### [Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)
+**发布时间**: 2025-12-28 05:00
+
+#### [‘Wellness’ culture is empty without service to others](https://www.ft.com/content/2e430db3-a6e6-46a9-a390-bd3cb6ceb3b6)
+**发布时间**: 2025-12-28 05:00
+
+#### [Europe’s growth prospects depend on German spending spree, economists say](https://www.ft.com/content/4db902c0-7586-4e24-b388-8c3c78858514)
+**发布时间**: 2025-12-28 05:00
+
+#### [Europe races to placate pharma as Trump turns up the pressure](https://www.ft.com/content/2f3ebc7c-c47e-4d61-87b6-8a899c9fc737)
+**发布时间**: 2025-12-28 05:00
+
+#### [Lloyds shuts invoice financing service as small businesses feel squeeze](https://www.ft.com/content/d1460278-017d-477d-ba82-f81528ce359a)
+**发布时间**: 2025-12-28 05:00
+
+#### [China’s cash-strapped local governments drive record asset-backed securities sales](https://www.ft.com/content/2d9ed75f-b149-4c1a-917a-1215dde5718e)
+**发布时间**: 2025-12-28 05:00
 
 ---
 
