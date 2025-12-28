@@ -3685,6 +3685,18 @@
         "link": "https://www.tmtpost.com/7822224.html",
         "published_date": "Sun, 28 Dec 2025 08:30:00 GMT",
         "first_seen": "2025-12-28T05:26:39.192253"
+      },
+      "d34d2d814ed0c89b3aeb400ac5af129250046035ba275406e616e977d7fd76a6": {
+        "title": "推荐 8 个本周 yyds 的 GitHub 开源项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530027&idx=1&sn=51d12ff254c52af9c0d3a6c8e0d1b937",
+        "published_date": "Sun, 28 Dec 2025 15:29:00 GMT",
+        "first_seen": "2025-12-28T08:29:28.861175"
+      },
+      "15a68576c2935f44287f3d15d085c956e64b2eb3078e0854e97a0c9dead72381": {
+        "title": "借 AntiGravity，给个人消费一次「年度盘点」",
+        "link": "https://sspai.com/post/104232",
+        "published_date": "Sun, 28 Dec 2025 15:28:00 GMT",
+        "first_seen": "2025-12-28T08:29:28.861183"
       }
     },
     "Finance": {
@@ -5943,6 +5955,12 @@
         "link": "https://www.ft.com/content/2f3ebc7c-c47e-4d61-87b6-8a899c9fc737",
         "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-28T05:26:38.989447"
+      },
+      "84f1a106471ff58879a28d587fce24ce024edcfcb626acce1d5f884fff0d3ba2": {
+        "title": "Japanese births set to fall below lowest official forecasts in 2025",
+        "link": "https://www.ft.com/content/a8127924-2e46-47aa-8429-8813099a26c4",
+        "published_date": "Sun, 28 Dec 2025 05:53:00 GMT",
+        "first_seen": "2025-12-28T08:29:28.666136"
       }
     },
     "Ai": {
@@ -8416,8 +8434,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-28T05:26:39.192254",
-    "Finance": "2025-12-28T05:26:38.989448",
+    "Technology": "2025-12-28T08:29:28.861186",
+    "Finance": "2025-12-28T08:29:28.666148",
     "Ai": "2025-12-28T05:26:39.138408"
   }
 }
