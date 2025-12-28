@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-28 08:29
+**最后更新时间**: 2025-12-28 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-28 23:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI start-ups amass record $150bn funding cushion as bubble fears mount](https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f)
+**发布时间**: 2025-12-28 21:00
+
+#### [Trump says ‘thorny’ issues remain on Ukraine-Russia peace talks](https://www.ft.com/content/0072d13c-e3e0-4332-a5ad-356e95970d47)
+**发布时间**: 2025-12-28 16:58
+
+#### [Pope Leo’s pick to lead New York Catholics signals shift away from Maga](https://www.ft.com/content/82fd1962-553f-4241-95e4-096a35c6293f)
+**发布时间**: 2025-12-28 13:00
+
+#### [UK places visa sanctions on DR Congo over migrant returns](https://www.ft.com/content/f6a57fad-fadc-4270-9bc3-77ca54ed28da)
+**发布时间**: 2025-12-28 11:18
+
+#### [Brigitte Bardot, actress, 1934-2025](https://www.ft.com/content/f5ede7ec-6673-4598-b6b1-6ef2c82aea8b)
+**发布时间**: 2025-12-28 10:29
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Quantum computing works — now investors will see if the stocks do too](https://www.marketwatch.com/story/quantum-computing-works-now-investors-will-see-if-the-stocks-do-too-630b5513?mod=mw_rss_topstories)
+**发布时间**: 2025-12-28 20:15
+
+#### [I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?](https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories)
+**发布时间**: 2025-12-28 19:18
+
+#### [I’m afraid my financial adviser will steal my money. I’ve read too many cautionary tales. How can I be sure?](https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-28 19:10
+
+#### [Stocks are on track for a third straight year of stellar returns. Why a fourth isn’t out of the question.](https://www.marketwatch.com/story/stocks-are-on-track-for-a-third-straight-year-of-stellar-returns-why-a-fourth-isnt-out-of-the-question-d57a1422?mod=mw_rss_topstories)
+**发布时间**: 2025-12-28 17:00
 
 ---
 

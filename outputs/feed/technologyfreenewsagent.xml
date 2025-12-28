@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Dec 2025 08:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2025 08:29:28 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2025 23:21:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>推荐 8 个本周 yyds 的 GitHub 开源项目。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530027&amp;idx=1&amp;sn=51d12ff254c52af9c0d3a6c8e0d1b937</link>
-      <description>&lt;![CDATA[推荐 8 个本周 yyds 的 GitHub 开源项目。]]&gt;</description>
-      <pubDate>Sun, 28 Dec 2025 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530027&amp;idx=1&amp;sn=51d12ff254c52af9c0d3a6c8e0d1b937</guid>
+      <title>亚马逊云科技扩展 Well-Architected Framework，新增负责任 AI，并更新机器学习与生成式 AI 视角</title>
+      <link>https://www.infoq.cn/article/x2ZXdBaKmO2oR7wxO7XD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技扩展 Well-Architected Framework，新增负责任 AI，并更新机器学习与生成式 AI 视角]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 23:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/x2ZXdBaKmO2oR7wxO7XD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>借 AntiGravity，给个人消费一次「年度盘点」</title>
-      <link>https://sspai.com/post/104232</link>
-      <description>&lt;![CDATA[借 AntiGravity，给个人消费一次「年度盘点」]]&gt;</description>
-      <pubDate>Sun, 28 Dec 2025 15:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/104232</guid>
+      <title>赵何娟对话张雷：能源成本再降50%，AI时代才会真正到来｜2025 T-EDGE 全球对话</title>
+      <link>https://www.tmtpost.com/7823620.html</link>
+      <description>&lt;![CDATA[赵何娟对话张雷：能源成本再降50%，AI时代才会真正到来｜2025 T-EDGE 全球对话]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7823620.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI正在闯入你的深夜</title>
+      <link>https://www.tmtpost.com/7823036.html</link>
+      <description>&lt;![CDATA[AI正在闯入你的深夜]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7823036.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>吉利起诉欣旺达索赔23亿，最“慌”的却是理想和小米？</title>
+      <link>https://www.tmtpost.com/7823701.html</link>
+      <description>&lt;![CDATA[吉利起诉欣旺达索赔23亿，最“慌”的却是理想和小米？]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7823701.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>通业科技5.6亿元并购，杀入芯片赛道；晶赛科技1元收购，标的“资不抵债”【并购一线】</title>
+      <link>https://www.tmtpost.com/7823827.html</link>
+      <description>&lt;![CDATA[通业科技5.6亿元并购，杀入芯片赛道；晶赛科技1元收购，标的“资不抵债”【并购一线】]]&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7823827.html</guid>
       <category>Technology</category>
     </item>
   </channel>
