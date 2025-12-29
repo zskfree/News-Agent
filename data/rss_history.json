@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "46036acb331912d1cd24e848b0ad52a31110a53545506a33b6c8b5249d81ef4e": {
-        "title": "Intel偷塔英伟达，比Google狠多了，直接挖角台积电核心人物",
-        "link": "https://www.tmtpost.com/7788009.html",
-        "published_date": "Sat, 29 Nov 2025 15:51:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719913"
-      },
-      "3f43689a894eedf87a837e09f2f37ff78dfd8d597b6c96707633966240a8c65a": {
-        "title": "壁垒极高的海外大储也开始内卷了，“元凶”原来是他俩？",
-        "link": "https://www.tmtpost.com/7788010.html",
-        "published_date": "Sat, 29 Nov 2025 15:50:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719921"
-      },
-      "35b11b739a5f062925f4af466b563e967cfeaa5b9662ba11457cddc6b942db52": {
-        "title": "阿里距离“谷歌时刻”还有多远？",
-        "link": "https://www.tmtpost.com/7787368.html",
-        "published_date": "Sat, 29 Nov 2025 10:04:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719923"
-      },
-      "75b2e817cfd2c905c47cf00b35ebb6fbe6180e1d06ad16da9f20f4b04a07fbc2": {
-        "title": "AI、外卖和国际化，三个核心命题透视阿里2477亿营收财报真相",
-        "link": "https://www.tmtpost.com/7787612.html",
-        "published_date": "Sat, 29 Nov 2025 10:04:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719925"
-      },
-      "2df3b41cb3f51cda76064fa26b45a37bd1ce7208c45dde2a376767ab3774f9a2": {
-        "title": "近期思考汇编：关于Gemini 3、Ilya访谈、Nested Learning",
-        "link": "https://www.tmtpost.com/7787684.html",
-        "published_date": "Sat, 29 Nov 2025 10:03:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719927"
-      },
-      "91e1646f96271d6ed1533668f9a6da5e5edfbeb76439a3108b10be669e7700f8": {
-        "title": "这届“野生文旅”，野的是体验，卷的是安全",
-        "link": "https://www.tmtpost.com/7787461.html",
-        "published_date": "Sat, 29 Nov 2025 09:54:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719929"
-      },
-      "52c452db9252aa1491aed27a7378760be65b7705468f78c2acc9f5f09f7925bd": {
-        "title": "全球肉业巨头将关停核心牛肉加工厂，牛肉产业的苦日子要来了？",
-        "link": "https://www.tmtpost.com/7787732.html",
-        "published_date": "Sat, 29 Nov 2025 09:48:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719931"
-      },
-      "69f999b6c627f50a44aef56dcf0e90214d66d14d42fb53354dd99236ca293560": {
-        "title": "大模型是沉睡的智者：你不唤，它不醒",
-        "link": "https://www.tmtpost.com/7787808.html",
-        "published_date": "Sat, 29 Nov 2025 09:44:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719934"
-      },
-      "94283edf1835b1888c736b097cd92d283c374fd5e5ecb45a9eee09d477ca06a0": {
-        "title": "AI医疗进阶3.0：医疗普惠潮下的效率革命与商业化破局丨2025·大复盘",
-        "link": "https://www.tmtpost.com/7787613.html",
-        "published_date": "Sat, 29 Nov 2025 09:38:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719937"
-      },
-      "e8ff661ba877ec93b3f6f7a182b9066d442f47d6ae58026e82cfe704ce15a60c": {
-        "title": "外卖大战刚开篇，美团想刹车，但阿里却猛踩油门",
-        "link": "https://www.tmtpost.com/7787718.html",
-        "published_date": "Sat, 29 Nov 2025 09:24:00 GMT",
-        "first_seen": "2025-11-29T08:27:46.719940"
-      },
       "8a67fa4aeea9b1e46211fd6735bbbb87c3328e4f9662bd85b6cbccd5594aec28": {
         "title": "烧钱六年，Dojo 被判死刑：马斯克自研超算梦是怎么走进死胡同的？",
         "link": "https://www.infoq.cn/article/eHzPHWwpBcP0NRizhiId?utm_source=rss&utm_medium=article",
@@ -3421,45 +3361,39 @@
         "link": "https://sspai.com/post/104969",
         "published_date": "Mon, 29 Dec 2025 08:59:00 GMT",
         "first_seen": "2025-12-29T05:30:53.875486"
+      },
+      "9b4c20b5f77820ae65fe76d74d79f5dea721a372718473f577103b51a4db1bba": {
+        "title": "H200的“放”与“限”：中国AI算力代差中何以破局？",
+        "link": "https://www.tmtpost.com/7823889.html",
+        "published_date": "Mon, 29 Dec 2025 14:52:00 GMT",
+        "first_seen": "2025-12-29T08:35:06.917450"
+      },
+      "ac4d1a5adc92d51b712a1b3efdafbfae8c28bcd15f0c1885405bbbb767e6fada": {
+        "title": "AI is Energy That Has Found Self-Awareness, Says Chairman of Envision Group",
+        "link": "https://www.tmtpost.com/7824473.html",
+        "published_date": "Mon, 29 Dec 2025 13:54:00 GMT",
+        "first_seen": "2025-12-29T08:35:06.917457"
+      },
+      "88b9eea91b1e8f3e319ac1c1c4379eefbe05555a8b354c87d38876d771ef9e04": {
+        "title": "靠 AI 智能体让网络走向自动驾驶！HPE Networking两大平台推出AIOps能力，正直奔“L5阶段”",
+        "link": "https://www.infoq.cn/article/N6S6vuVmhY54Rgtd4AWF?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 16:12:00 GMT",
+        "first_seen": "2025-12-29T08:35:06.917460"
+      },
+      "a4f7b953f56452ed12ddc1ae69a99bf463534c8e8b89a146d43fe319e4b075b3": {
+        "title": "GitHub 上 10 个令人惊艳的 Agent 开发平台，太顶了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530086&idx=1&sn=256bf22f34ffea67b789e37cdd66abd7",
+        "published_date": "Mon, 29 Dec 2025 15:19:00 GMT",
+        "first_seen": "2025-12-29T08:35:06.917461"
+      },
+      "8f1ba4e00e5f44263b6836f9d2960807a90f3ea717ff3a8b215cfb90d679e46e": {
+        "title": "机器人租赁火了，但这真的是一门好生意吗？",
+        "link": "https://www.tmtpost.com/7823909.html",
+        "published_date": "Mon, 29 Dec 2025 14:15:00 GMT",
+        "first_seen": "2025-12-29T08:35:06.917463"
       }
     },
     "Finance": {
-      "06daa15055e649a8e8c47fe95f4fe2f1c7b99d56db9419df6e4760b3a7939db5": {
-        "title": "This Budget’s tax decisions will haunt the government",
-        "link": "https://www.ft.com/content/f658b3e8-2b47-45db-a85b-f5d8f0157985",
-        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-29T08:27:37.144627"
-      },
-      "ecaa95ad60eb5c2b43c9ff7c41552c163ff9241b728068d70ddd8d130d6f10cd": {
-        "title": "‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap",
-        "link": "https://www.ft.com/content/82cd3071-4679-4153-8d78-f053fdd8adae",
-        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-29T08:27:37.144635"
-      },
-      "51a0c3c8fe629d32ea9ae3f07bd4a63ba546f7ea0452058c09a56e5e4e0ee1a4": {
-        "title": "Liberalism can win back the working class. Here’s how",
-        "link": "https://www.ft.com/content/96aadc56-d99e-463a-b95c-d5cab088cacc",
-        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-29T08:27:37.144637"
-      },
-      "b0b850c8ee00ba2fa267f809f1db0dfc95153b69a33aac29b534a64d5f85dea4": {
-        "title": "The coup de grâce for woke",
-        "link": "https://www.ft.com/content/3a3bb856-5922-4d49-b697-4eba033051dd",
-        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-29T08:27:37.144639"
-      },
-      "548f2dc710388578bd036f5fa7bfbcdc8cd76f6fae0ef4f4ef87087abb4cb80e": {
-        "title": "Lenders gear up for loosening of capital rules by Bank of England",
-        "link": "https://www.ft.com/content/4132b041-94de-4850-8151-532f4e8a7ef4",
-        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-29T08:27:37.144641"
-      },
-      "d1e1ddbefff6bb76bfbcfa571f49383c1101561acc896602d1d4a103dad81164": {
-        "title": "Swatch activist lambasts Omega owner’s ‘worst-in-class’ governance",
-        "link": "https://www.ft.com/content/623cc35d-2d54-4aa8-a6f3-66586c45f1b7",
-        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-29T08:27:37.144642"
-      },
       "84ad053ee67e367e6a7b07cd6b6ef8ce51d0f9480e4c74984ec2291c37f8aed8": {
         "title": "Britain’s economic outlook: what did Rachel Reeves know — and when?",
         "link": "https://www.ft.com/content/d92afed0-577b-4af2-90b9-c3c87e3205ed",
@@ -8045,13 +7979,43 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Mon, 29 Dec 2025 05:30:00 GMT",
         "first_seen": "2025-12-29T05:30:36.359771"
+      },
+      "a8e723356f1e37c266e4b8afea60be3b95479f4d46b534e21990733dafb26545": {
+        "title": "AI医生终于有了硬标尺！全球首个专病循证评测框架GAPS发布，蚂蚁联合北大王俊院士团队出品",
+        "link": "https://www.qbitai.com/2025/12/366165.html",
+        "published_date": "Mon, 29 Dec 2025 06:22:00 GMT",
+        "first_seen": "2025-12-29T08:34:46.043048"
+      },
+      "18ac766797e2fe8cdaeedfb117cc16a41677df5d5c58c21a9cd37a3701763323": {
+        "title": "药物靶标不再停留在器官层级，首次在全身尺度解析药物结合的单细胞图谱",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-8",
+        "published_date": "Mon, 29 Dec 2025 14:33:00 GMT",
+        "first_seen": "2025-12-29T08:34:46.043056"
+      },
+      "2eee12e1573366890f93d226795fce9c966481c9b59b1682c524a4ebf19210df": {
+        "title": "QwenLong-L1.5发布：一套配方，三大法宝，让30B MoE模型长文本推理能力媲美GPT-5",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-4",
+        "published_date": "Mon, 29 Dec 2025 13:42:00 GMT",
+        "first_seen": "2025-12-29T08:34:46.043059"
+      },
+      "0c730c6ddaa5148b45af95f07212fed7d92e73c2fb700db347dc8540389751a0": {
+        "title": "深度拆解沐曦MXMACA软件栈功能，算力自主+生态兼容，破解国产GPU落地难题",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-5",
+        "published_date": "Mon, 29 Dec 2025 13:46:00 GMT",
+        "first_seen": "2025-12-29T08:34:46.043061"
+      },
+      "bbf0511a941db67640046fa510587bcff2a00dccbf93f52e981ea7039dfb839b": {
+        "title": "389万寻找翁荔继任者！OpenAI紧急开招安全防范负责人",
+        "link": "https://www.qbitai.com/2025/12/366199.html",
+        "published_date": "Mon, 29 Dec 2025 07:35:00 GMT",
+        "first_seen": "2025-12-29T08:34:46.043062"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-29T05:30:53.875488",
+    "Technology": "2025-12-29T08:35:06.917465",
     "Finance": "2025-12-29T05:30:36.205809",
-    "Ai": "2025-12-29T05:30:36.359774"
+    "Ai": "2025-12-29T08:34:46.043065"
   }
 }
