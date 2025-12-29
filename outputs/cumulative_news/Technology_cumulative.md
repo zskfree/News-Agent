@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-28 23:21
+**最后更新时间**: 2025-12-29 05:30
+
+---
+
+## 🆕 最新更新 (2025-12-29 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [拼多多的宠物赛道，小商品制造业的“第二人生”](https://www.tmtpost.com/7822295.html)
+**发布时间**: 2025-12-29 12:42
+
+#### [2025最“陷阱”赛道：成为播客主](https://www.tmtpost.com/7823894.html)
+**发布时间**: 2025-12-29 12:40
+
+#### [Sunwoda Hit With $330 Million Lawsuit by Geely‑Linked VREMT](https://www.tmtpost.com/7824379.html)
+**发布时间**: 2025-12-29 12:28
+
+#### [为什么说一人公司是传统公司的终点，也是无人公司的起点？细看一个年270万美金的故事](https://www.tmtpost.com/7823818.html)
+**发布时间**: 2025-12-29 11:31
+
+#### [破局中医药现代化，重塑产业生态价值，珍宝岛获评最佳健康产业生态企业](https://www.tmtpost.com/7824118.html)
+**发布时间**: 2025-12-29 10:45
+
+#### [美团的“斯大林格勒保卫战”](https://www.tmtpost.com/7823775.html)
+**发布时间**: 2025-12-29 10:32
+
+#### [AI与中国新贵崛起下的音频新变局，破圈的森海塞尔持续求解](https://www.tmtpost.com/7822657.html)
+**发布时间**: 2025-12-29 09:50
+
+#### [2025黄金狂潮背后的中国故事](https://www.tmtpost.com/7822404.html)
+**发布时间**: 2025-12-29 09:49
+
+#### [持续烧钱的大模型，阻挡不了AI行业的热情](https://www.tmtpost.com/7823744.html)
+**发布时间**: 2025-12-29 09:35
+
+#### [商业航天2025：拐点前夜的助攻、躁动与可回收验证冲刺](https://www.tmtpost.com/7823778.html)
+**发布时间**: 2025-12-29 08:00
+
+#### [【钛晨报】全国财政工作会议在京召开，部署明年财政重点任务；国务院拟放开放宽除个别超大城市外的落户限制；小米集团林斌计划未来减持不超20亿美元股份](https://www.tmtpost.com/7823740.html)
+**发布时间**: 2025-12-29 07:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [马克龙翻脸？想学美国搞霸权，欧盟贸易战玩脱了](http://www.huxiu.com/article/4821399.html?f=wangzhan)
+**发布时间**: 2025-12-29 12:30
+
+#### [短剧抄袭，走到头了？](http://www.huxiu.com/article/4821661.html?f=wangzhan)
+**发布时间**: 2025-12-29 09:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“大模型第一股”打响上市前哨战！智谱GLM-4.7 刷新开源编程SOTA，修复代码、终端操作表现超Claude 4.5](https://www.infoq.cn/article/ICEBaOAkFYcYIe9c6lJV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 11:53
+
+#### [快手遇P0级安全事故，市值蒸发近百亿；字节120名员工因触犯红线被辞退；Karpathy自曝“作为程序员从未感到如此落后”，引爆焦虑｜AI周报](https://www.infoq.cn/article/KgsvN3C1Ira7ITOWajlD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 11:42
+
+#### [明年让AI可靠地抢走你的活儿？Anthropic 首席产品官曝新年目标：大模型不拼 “更聪明”，终结“公司上AI，员工更累”尴尬](https://www.infoq.cn/article/MwQhX6CDqwXSeMxskdGF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 11:40
+
+#### [Nuxt引入了原生请求取消和异步处理器提取以提升性能](https://www.infoq.cn/article/xvM995Su8KKJpZdAst75?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 10:00
+
+#### [Java近期资讯：GlassFish、TornadoVM、Spring Shell、WildFly、Hibernate和Kotlin](https://www.infoq.cn/article/PkDbcju3L48TLdoCmdTY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 09:33
+
+#### [Neptune实现了AI辅助的基础设施即代码与云部署的融合](https://www.infoq.cn/article/cENs23pcojxgyBgvplyR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 09:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 时代，我的知识管理系统全景图](https://sspai.com/post/104783)
+**发布时间**: 2025-12-29 11:31
+
+#### [派早报：新规拟要求 AI 聊天定时提醒退出、及时干预沉迷](https://sspai.com/post/104969)
+**发布时间**: 2025-12-29 08:59
 
 ---
 

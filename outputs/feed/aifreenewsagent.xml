@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Dec 2025 23:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2025 23:21:15 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Dec 2025 05:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Dec 2025 05:30:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025-12-29日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-29/</link>
-      <description>&lt;![CDATA[2025-12-29日刊]]&gt;</description>
-      <pubDate>Mon, 29 Dec 2025 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-29/</guid>
+      <title>Groq被收购，失去梦想的员工，人均拿到英伟达的500万美元</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-29-2</link>
+      <description>&lt;![CDATA[Groq被收购，失去梦想的员工，人均拿到英伟达的500万美元]]&gt;</description>
+      <pubDate>Mon, 29 Dec 2025 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-29-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>老黄200亿「钞能力」回应谷歌：联手Groq，补上推理短板</title>
-      <link>https://www.qbitai.com/2025/12/366084.html</link>
-      <description>&lt;![CDATA[老黄200亿「钞能力」回应谷歌：联手Groq，补上推理短板]]&gt;</description>
-      <pubDate>Sun, 28 Dec 2025 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366084.html</guid>
+      <title>个人电脑也能进行智能体RL训练？尤佳轩团队开源OpenTinker</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-29</link>
+      <description>&lt;![CDATA[个人电脑也能进行智能体RL训练？尤佳轩团队开源OpenTinker]]&gt;</description>
+      <pubDate>Mon, 29 Dec 2025 11:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-29</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ViT一作盛赞：这个中国开源“PS模型”强过Nano Banana</title>
+      <link>https://www.qbitai.com/2025/12/366144.html</link>
+      <description>&lt;![CDATA[ViT一作盛赞：这个中国开源“PS模型”强过Nano Banana]]&gt;</description>
+      <pubDate>Mon, 29 Dec 2025 05:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366144.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>救命！和漫画角色聊上头了，AI陪伴的新答案有了</title>
+      <link>https://www.qbitai.com/2025/12/366091.html</link>
+      <description>&lt;![CDATA[救命！和漫画角色聊上头了，AI陪伴的新答案有了]]&gt;</description>
+      <pubDate>Mon, 29 Dec 2025 02:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366091.html</guid>
       <category>Ai</category>
     </item>
     <item>
@@ -35,7 +51,7 @@
 
 ---
 
-## 🆕 最新更新 (2025-11-04 05:20)
+## 🆕 最新更新 (2025-11-03 23:18)
 ### 📰 来源: [量子位</title>
       <link>https://www.qbitai.com/feed</link>
       <description>&lt;![CDATA[](https://www.qbitai.com/2025/11/348474.html)
@@ -43,9 +59,9 @@
 
 ---
 
-## 🆕 最新更新 (2025-11-04 05:20)
+## 🆕 最新更新 (2025-11-03 23:18)
 ### 📰 来源: [量子位]]&gt;</description>
-      <pubDate>Sun, 28 Dec 2025 23:20:00 GMT</pubDate>
+      <pubDate>Mon, 29 Dec 2025 05:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/feed</guid>
       <category>Ai</category>
     </item>

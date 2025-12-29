@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-28 23:21
+**最后更新时间**: 2025-12-29 05:30
+
+---
+
+## 🆕 最新更新 (2025-12-29 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Capital of capital’: how Abu Dhabi rose as a sovereign wealth power](https://www.ft.com/content/711e670c-4832-49cb-8b10-5018103ec785)
+**发布时间**: 2025-12-29 05:00
+
+#### [The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)
+**发布时间**: 2025-12-29 05:00
+
+#### [The rise of the side hustle](https://www.ft.com/content/799fa043-407a-498b-a22d-ae677f514216)
+**发布时间**: 2025-12-29 05:00
+
+#### [Accounting body scraps remote exams to combat cheating](https://www.ft.com/content/52e70f3e-d0e8-462c-8ac1-f08a684dfca2)
+**发布时间**: 2025-12-29 05:00
+
+#### [UK needs £800bn of new funding by 2040 to meet defence pledge, says report](https://www.ft.com/content/77380765-7212-45fd-b4ef-4ea7cb4baee2)
+**发布时间**: 2025-12-29 05:00
+
+#### [China launches military drills around Taiwan](https://www.ft.com/content/fd7c69e5-b3cf-4b4f-927a-fb7f0c2cdc93)
+**发布时间**: 2025-12-29 04:57
+
+#### [Europe’s largest defence groups set to return $5bn to shareholders in 2025](https://www.ft.com/content/79c31767-ccac-4669-a299-3d2e9b797c6d)
+**发布时间**: 2025-12-29 03:00
+
+#### [Trump and Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal](https://www.ft.com/content/f88fd9e5-df0e-45d6-af8e-29b5f53a41a4)
+**发布时间**: 2025-12-29 00:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat, silver gains again as investors hope to start 2026 on a roll](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 03:55
 
 ---
 
