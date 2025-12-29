@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8a67fa4aeea9b1e46211fd6735bbbb87c3328e4f9662bd85b6cbccd5594aec28": {
-        "title": "烧钱六年，Dojo 被判死刑：马斯克自研超算梦是怎么走进死胡同的？",
-        "link": "https://www.infoq.cn/article/eHzPHWwpBcP0NRizhiId?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 30 Nov 2025 00:00:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439176"
-      },
-      "96862e1085b9ca4ea8a31d1e0f856951ae63c5e27212c753e775392d128f8b8a": {
-        "title": "当“含华量”不再稀缺，阿维塔还凭什么？",
-        "link": "https://www.tmtpost.com/7788192.html",
-        "published_date": "Sat, 29 Nov 2025 21:24:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439182"
-      },
-      "75d40b24192cb0dcc1117daaf7e206f6ff20a45d16021b172566a1d85f171187": {
-        "title": "央行首次重磅定调稳定币，市场将向何处去？",
-        "link": "https://www.tmtpost.com/7788127.html",
-        "published_date": "Sat, 29 Nov 2025 18:04:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439184"
-      },
-      "935a6e992122dbcbc8e642081a6954721c0ded8b0be3ea6342c1d0caf0eb0fef": {
-        "title": "Meituan Rejects Price War, Confident in Food Delivery Margin after Posting First Quarterly Loss Since 2022",
-        "link": "https://www.tmtpost.com/7787952.html",
-        "published_date": "Sat, 29 Nov 2025 11:37:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439186"
-      },
-      "fb09cd21832695ef9783bd61f6645908936a589b2061ddd9a8564eb4168e0694": {
-        "title": "“烧钱”豪赌未来，万亿阿里遇短期“阵痛”",
-        "link": "https://www.tmtpost.com/7787582.html",
-        "published_date": "Sat, 29 Nov 2025 09:19:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439188"
-      },
-      "e216d43b144e9ec60e84ecb67ee8156a7aa383a5354e6fb118ed31b722e6324d": {
-        "title": "超级APP的“解体”时刻：当“千问们”成为需求起点？",
-        "link": "https://www.tmtpost.com/7787567.html",
-        "published_date": "Sat, 29 Nov 2025 09:08:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439189"
-      },
-      "65a91a3e8c4a5d876bcb0321d71b4dbc8fe67132aa70b5b7c41f9a38cfba63b6": {
-        "title": "三家打榜，大众难评",
-        "link": "https://www.tmtpost.com/7787550.html",
-        "published_date": "Sat, 29 Nov 2025 08:58:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439190"
-      },
-      "5d0832d70c3f00f1a3691be583a8331cd459e72371c83f87d8423e70d51db7fb": {
-        "title": "奶茶黑马赚钱快分红狠：古茗一年分红37亿，创始人王云安独揽15亿",
-        "link": "https://www.tmtpost.com/7787657.html",
-        "published_date": "Sat, 29 Nov 2025 08:53:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439192"
-      },
-      "3ce46a6612fcfd4539883e94e7076f86e92815298111edf48ffdc15d87f32e00": {
-        "title": "「黑五」值得买：不容错过的数码硬件优惠",
-        "link": "https://sspai.com/post/104157",
-        "published_date": "Sat, 29 Nov 2025 10:05:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439193"
-      },
-      "51cd7c99c36622da3affa7a99eede61096c05eea424361632202cde91f551707": {
-        "title": "雷军：人形机器人将大面积进入小米工厂；淘宝闪购将全面取消超时扣款；苹果新专利：耳机读取脑电波",
-        "link": "http://www.geekpark.net/news/357445",
-        "published_date": "Sat, 29 Nov 2025 09:12:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.439195"
-      },
       "1e0c6c24c27356d0508b5b1d3e7718c2b7be8b1fe2a3819020ebd7f0bef6da72": {
         "title": "字节中兴合作的AI手机将于12月初发布，主打高权限Agent能力",
         "link": "https://www.tmtpost.com/7787978.html",
@@ -3391,69 +3331,39 @@
         "link": "https://www.tmtpost.com/7823909.html",
         "published_date": "Mon, 29 Dec 2025 14:15:00 GMT",
         "first_seen": "2025-12-29T08:35:06.917463"
+      },
+      "b8b2da2d05fe2eb8dcca176075d37ff0bee322c107ba489c53cf1c599ce82525": {
+        "title": "QPU要想取代GPU，2026年太关键",
+        "link": "https://www.tmtpost.com/7824870.html",
+        "published_date": "Mon, 29 Dec 2025 20:26:00 GMT",
+        "first_seen": "2025-12-29T23:21:54.424391"
+      },
+      "8429a5ba26d58ee36439a736ac8631421f2ab5305e5d104e9f4a1536ee25f833": {
+        "title": "2025，机器人“铁军”元年：资本抢滩，量产开跑",
+        "link": "https://www.tmtpost.com/7824615.html",
+        "published_date": "Mon, 29 Dec 2025 20:26:00 GMT",
+        "first_seen": "2025-12-29T23:21:54.424397"
+      },
+      "0714d91dd54d33a453999401ba7181a74f7cdb07cccf604fdba4e49e98e22781": {
+        "title": "关于 AI Infra 的一切，中国企业给出了答案",
+        "link": "https://www.infoq.cn/article/2tsspiYyfwKrT7y3DlfT?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 18:24:00 GMT",
+        "first_seen": "2025-12-29T23:21:54.424399"
+      },
+      "aafad29c51b6bbbab761b14d4cd4f897ab86c5fa18dfd8315579380f7b75a3d9": {
+        "title": "Akamai云计算CTO：当AI成为核心负载，云计算架构开始“向外生长”",
+        "link": "https://www.infoq.cn/article/NkZcLyFoaP62KkQa5Mr7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 16:36:00 GMT",
+        "first_seen": "2025-12-29T23:21:54.424401"
+      },
+      "dea220d6a34c0e96e4d1925fede1d0e5ce4c47742d182aebfb390359132df0cd": {
+        "title": "2025数字医疗年度创新白皮书：AI落地应用成主旋律，脑机接口进入临床试验高峰",
+        "link": "https://www.tmtpost.com/7824290.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:21:54.424402"
       }
     },
     "Finance": {
-      "84ad053ee67e367e6a7b07cd6b6ef8ce51d0f9480e4c74984ec2291c37f8aed8": {
-        "title": "Britain’s economic outlook: what did Rachel Reeves know — and when?",
-        "link": "https://www.ft.com/content/d92afed0-577b-4af2-90b9-c3c87e3205ed",
-        "published_date": "Sat, 29 Nov 2025 20:08:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259974"
-      },
-      "f94596d2d552f64b4017674da710424e6089052a4039bdea084803540edfe56b": {
-        "title": "Donald Trump says Venezuelan airspace is closed",
-        "link": "https://www.ft.com/content/8acf0e8d-8383-48f3-a273-40712400f99d",
-        "published_date": "Sat, 29 Nov 2025 19:34:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259984"
-      },
-      "7b0624f44619b61296d3343e5ddf383828d4a2a1074bdbd5acba959a7a707df9": {
-        "title": "British playwright Sir Tom Stoppard dies",
-        "link": "https://www.ft.com/content/bd272b9f-387b-46d3-a256-9c1f67e943a9",
-        "published_date": "Sat, 29 Nov 2025 18:48:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259987"
-      },
-      "34d7b42aad87b6877af4b013f62cbabab8b4ab7647295c18702b18ae35b61dc6": {
-        "title": "Chinese parts supplier takes stake in leading Russian drone maker",
-        "link": "https://www.ft.com/content/e907c2fa-2d3b-4269-bc6c-b2fee4d9f688",
-        "published_date": "Sat, 29 Nov 2025 17:00:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259989"
-      },
-      "d48c1a88495343af0c8c280b3f1e06d128fcad889ed32f4b63fabca6d87e0492": {
-        "title": "Fed hawks and doves are battling over December rate cuts — watch these clues to see who wins",
-        "link": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Nov 2025 19:36:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259991"
-      },
-      "bd62f401a4efd608420ed5c666beb98cde630baf6e44c7d6f196b2242c7bef09": {
-        "title": "Even thrift stores are holding Black Friday sales as Americans seek holiday bargains",
-        "link": "https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Nov 2025 18:03:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259992"
-      },
-      "4eca5549ff15f5cceea37918221cbed48b2d03aecfc94944a02f8676ff220b7d": {
-        "title": "‘At 55, I’m the only single one in the family’: Was I wrong to skip my family’s Thanksgiving dinner?",
-        "link": "https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Nov 2025 17:30:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259994"
-      },
-      "d48a84637065ef8065ad4c8eb67c499de0416db8657e759ede9c5cfb8de59fc9": {
-        "title": "The kids are not all right — how young stock investors are bringing on a bear market",
-        "link": "https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Nov 2025 17:14:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259995"
-      },
-      "217a16d08741ca19100bef2f2893b70ba2ab959e33b580f08ee0976d12443006": {
-        "title": "Scoring great Black Friday deals is getting harder. These 6 tips can help you shop smarter this weekend.",
-        "link": "https://www.marketwatch.com/story/scoring-great-black-friday-deals-is-getting-harder-these-6-tips-can-help-you-shop-smarter-this-weekend-ae2a5d2a?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Nov 2025 19:20:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259996"
-      },
-      "6a131ebbe9785be8df0d0ff1e5034df8eb1d4af812c0fcbb63303392676a821c": {
-        "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-        "link": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Nov 2025 19:05:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.259998"
-      },
       "7b7b0b0be72038950a7cbd4401fef44993a88d852d5a75e4a12ee48b299d1d29": {
         "title": "How time became money: clocks, capitalism and wealth",
         "link": "https://www.ft.com/content/696d9ced-9022-49bc-9cd9-501fce897146",
@@ -5601,39 +5511,39 @@
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories",
         "published_date": "Mon, 29 Dec 2025 03:55:00 GMT",
         "first_seen": "2025-12-29T05:30:36.205807"
+      },
+      "eb7b83741b8190b5659a128667110f8df4125f6336c5431098aa90f0722c2dcc": {
+        "title": "Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief",
+        "link": "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories",
+        "published_date": "Mon, 29 Dec 2025 21:52:00 GMT",
+        "first_seen": "2025-12-29T23:21:21.456497"
+      },
+      "ef50bd06b68b14a37118865cc6ad3653b588ea148c5043370d485a84336d0811": {
+        "title": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire’s reins this week",
+        "link": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
+        "published_date": "Mon, 29 Dec 2025 21:30:00 GMT",
+        "first_seen": "2025-12-29T23:21:21.456508"
+      },
+      "1e95ba21d90d2a4da9265ba583c55e0544ca687f074cf4ca7778859c40bb855c": {
+        "title": "US stocks eclipsed by rest of world in 2025 as investors diversify",
+        "link": "https://www.ft.com/content/10a8a099-5719-42ce-a2eb-edc3045a632f",
+        "published_date": "Mon, 29 Dec 2025 21:10:00 GMT",
+        "first_seen": "2025-12-29T23:21:21.456510"
+      },
+      "09918eb3bac9b5631274499780e592b367897be4804c7113ecd0b7f33c22af27": {
+        "title": "Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin",
+        "link": "https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?mod=mw_rss_topstories",
+        "published_date": "Mon, 29 Dec 2025 22:09:00 GMT",
+        "first_seen": "2025-12-29T23:21:21.456512"
+      },
+      "fa7f9e873ee45d7517f97d3155e838be2269cd526558ca696fdf882f37784105": {
+        "title": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
+        "link": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
+        "published_date": "Mon, 29 Dec 2025 20:30:00 GMT",
+        "first_seen": "2025-12-29T23:21:21.456514"
       }
     },
     "Ai": {
-      "571d0439501ad91b78038a42adadc3b304cd2072f4b1e95f5fe5f68085fcbbf8": {
-        "title": "AI驱动的行情里，AI终于成了淘金的铲子",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-29-5",
-        "published_date": "Sat, 29 Nov 2025 20:49:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.383078"
-      },
-      "dbdd9bbe3216b3ee198727251c23ab75a115047699457fdb16970c236df4c861": {
-        "title": "炸了！ICLR 一键清零 rebuttal，全网研究者怒了",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-29-4",
-        "published_date": "Sat, 29 Nov 2025 20:46:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.383085"
-      },
-      "b0f5c1080661d719cd5059f67eac2ea746d32785d2b5834c29ae311d486cec5a": {
-        "title": "NeurIPS 2025 | DynaAct：DeepSeek R1之外，探索大模型推理的另一条道路",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-29-3",
-        "published_date": "Sat, 29 Nov 2025 20:43:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.383087"
-      },
-      "30e954ba63f9738daebfcf80d8e3e0afd5c186d9799a8ec3fa5b436bc8add1ea": {
-        "title": "世界模型，是否正在逼近自己的「ChatGPT时刻」？",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-29-2",
-        "published_date": "Sat, 29 Nov 2025 20:40:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.383089"
-      },
-      "143b3c75e69c76ae3a51a88477cdafb9a41be5f1bcf9db98e7d1422576eded90": {
-        "title": "NeurIPS 2025 Oral | 1个Token零成本，REG让Diffusion训练收敛快20倍！",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-29",
-        "published_date": "Sat, 29 Nov 2025 20:38:00 GMT",
-        "first_seen": "2025-11-29T23:20:06.383090"
-      },
       "3c41fe3a34c18276b4528b31c4c3a7db11a58720c21be7523eb632010c9a5625": {
         "title": "混元OCR模型核心技术揭秘：统一框架、真端到端",
         "link": "https://www.qbitai.com/2025/11/357456.html",
@@ -8009,13 +7919,43 @@
         "link": "https://www.qbitai.com/2025/12/366199.html",
         "published_date": "Mon, 29 Dec 2025 07:35:00 GMT",
         "first_seen": "2025-12-29T08:34:46.043062"
+      },
+      "ca3863d1f44b48246ab7199e70df763122f4a6d98e07d442fd174e6adf17bb91": {
+        "title": "全球首个具身 VLTA 多模态数据集开源，加速具身智能真实世界落地",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-12",
+        "published_date": "Mon, 29 Dec 2025 14:20:00 GMT",
+        "first_seen": "2025-12-29T23:21:36.507994"
+      },
+      "9c50260b1b7df9d0766b5c4f0f2038f9194c4373139bce0379703ab0557f68e7": {
+        "title": "国资战略入股九章云极 加码先进AI基础设施攻坚",
+        "link": "https://www.qbitai.com/2025/12/366209.html",
+        "published_date": "Mon, 29 Dec 2025 08:52:00 GMT",
+        "first_seen": "2025-12-29T23:21:36.508000"
+      },
+      "70bcc49ab1be83699d130f0a8a0426b5fe613d2f5a1f12328b1619a789458426": {
+        "title": "AAAI 2026 Oral｜LENS：基于统一强化推理的分割大模型",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-3",
+        "published_date": "Mon, 29 Dec 2025 13:37:00 GMT",
+        "first_seen": "2025-12-29T23:21:36.508002"
+      },
+      "760361d5eb97e02e18d700396f443a360a5ac8a68664fabfa8e1c0f20fe75a8d": {
+        "title": "AI引爆内存荒：手机电脑不仅要涨价，还要减配",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-11",
+        "published_date": "Mon, 29 Dec 2025 16:55:00 GMT",
+        "first_seen": "2025-12-29T23:21:36.508004"
+      },
+      "7fd4a9f78d10c6ce6e795dbc8ca0b9c1d83b9f5390c52855cdf5ca4effb55f23": {
+        "title": "全景视觉的Depth Anything来了！Insta360推出DAP，200万数据打造全场景360°空间智能新高度",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-10",
+        "published_date": "Mon, 29 Dec 2025 16:49:00 GMT",
+        "first_seen": "2025-12-29T23:21:36.508006"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-29T08:35:06.917465",
-    "Finance": "2025-12-29T05:30:36.205809",
-    "Ai": "2025-12-29T08:34:46.043065"
+    "Technology": "2025-12-29T23:21:54.424404",
+    "Finance": "2025-12-29T23:21:21.456516",
+    "Ai": "2025-12-29T23:21:36.508008"
   }
 }

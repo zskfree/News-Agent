@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-29 08:34
+**最后更新时间**: 2025-12-29 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-29 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [重整之路彻底终结！*ST长药三年造假，退市终成“无解”局](https://www.tmtpost.com/7825047.html)
+**发布时间**: 2025-12-29 22:10
+
+#### [“非完全人形”机器人正在攻入家庭场景](https://www.tmtpost.com/7824659.html)
+**发布时间**: 2025-12-29 20:42
+
+#### [XR专利第一案，输赢双方都不服](https://www.tmtpost.com/7824577.html)
+**发布时间**: 2025-12-29 20:30
+
+#### [2025黄金狂潮背后的中国故事](https://www.tmtpost.com/7767187.html)
+**发布时间**: 2025-12-29 20:28
+
+#### [2025，机器人“铁军”元年：资本抢滩，量产开跑](https://www.tmtpost.com/7824615.html)
+**发布时间**: 2025-12-29 20:26
+
+#### [QPU要想取代GPU，2026年太关键](https://www.tmtpost.com/7824870.html)
+**发布时间**: 2025-12-29 20:26
+
+#### [短剧抄袭，走到头了？](https://www.tmtpost.com/7824007.html)
+**发布时间**: 2025-12-29 20:25
+
+#### [2025小游戏年终研判：新打法付费激活率飙升108%，“内容+社交”带动日均100万次新增？](https://www.tmtpost.com/7824166.html)
+**发布时间**: 2025-12-29 20:25
+
+#### [巴菲特谢幕，手握万亿资金的继任者，是否会加速拥抱AI？](https://www.tmtpost.com/7823981.html)
+**发布时间**: 2025-12-29 20:24
+
+#### [豆包，正在成为「新字节」](https://www.tmtpost.com/7824417.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [2025数字医疗年度创新白皮书：AI落地应用成主旋律，脑机接口进入临床试验高峰](https://www.tmtpost.com/7824290.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [GEO爆火，AI被广告“入侵”](https://www.tmtpost.com/7824796.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [真实的墨西哥](https://www.tmtpost.com/7824810.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [推理专用芯片，火了](https://www.tmtpost.com/7824866.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [《湘菜发展报告2025》发布：超千亿规模，高性价比、土菜、市井湘菜持续出圈](https://www.tmtpost.com/7824776.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [AI手串、AI调香、AI照相机……AI养活小摊贩？](https://www.tmtpost.com/7824814.html)
+**发布时间**: 2025-12-29 20:23
+
+#### [从何小鹏蹲求电池到曾毓群率队破冰，小鹏与宁王为何“攻守易形”？](https://www.tmtpost.com/7824780.html)
+**发布时间**: 2025-12-29 20:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [枫清科技高雪峰：AI爆火了两年后，它对人类的替代非常有限](https://www.infoq.cn/article/1evtNyxCOyMmod9P4kRO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 18:43
+
+#### [关于 AI Infra 的一切，中国企业给出了答案](https://www.infoq.cn/article/2tsspiYyfwKrT7y3DlfT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 18:24
+
+#### [裁4000人换来的AI全白搞？Salesforce悄悄改架构：用 “老技术”故障少还省钱，网友怒喊：CEO零遣散费滚蛋](https://www.infoq.cn/article/OQr03sb0YVLv9afA0JlT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 18:00
+
+#### [从数日鏖战到数小时完成：商汤揭秘如何用数据驱动 Agent 搞定复杂标书生成](https://www.infoq.cn/article/xRUYrVgUlZQMRjJ1MM4F?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 16:39
+
+#### [Akamai云计算CTO：当AI成为核心负载，云计算架构开始“向外生长”](https://www.infoq.cn/article/NkZcLyFoaP62KkQa5Mr7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 16:36
+
+#### [【AICon 热点论坛回顾】Agent 开始创造长期价值：四个真实业务场景里的答案](https://www.infoq.cn/article/94ag061VWqRBk6qVeOBi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 09:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [折叠屏要做成什么样，才算一台新时代的「折叠屏旗舰」？](https://sspai.com/post/104926)
+**发布时间**: 2025-12-29 18:00
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/104984)
+**发布时间**: 2025-12-29 17:40
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [分红分的是谁的钱？](http://www.huxiu.com/article/4821498.html?f=wangzhan)
+**发布时间**: 2025-12-29 16:00
 
 ---
 
