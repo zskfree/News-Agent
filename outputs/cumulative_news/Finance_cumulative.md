@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-30 08:32
+**最后更新时间**: 2025-12-30 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-30 23:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Federal Reserve minutes highlight deep fissures at US central bank](https://www.ft.com/content/c4a14fbd-a0cd-40b3-b8b0-e128d262e47a)
+**发布时间**: 2025-12-30 21:34
+
+#### [Warner Bros plans to reject Paramount’s latest hostile bid](https://www.ft.com/content/31af8042-7426-44e2-9649-6bb2122b4a7e)
+**发布时间**: 2025-12-30 21:11
+
+#### [Ukraine seeks to contain diplomatic fallout over Putin’s attack claim](https://www.ft.com/content/65fdc3b6-614a-4255-8dde-a66eec548341)
+**发布时间**: 2025-12-30 19:21
+
+#### [Foreign Office under pressure over activist’s ‘abhorrent’ social media posts](https://www.ft.com/content/cbe3fade-2e6f-4504-9ff0-9aaa49ee9e9e)
+**发布时间**: 2025-12-30 15:53
+
+#### [How the AI ‘bubble’ compares to history](https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4)
+**发布时间**: 2025-12-30 15:45
+
+#### [Dollar on track for steepest annual drop for almost a decade](https://www.ft.com/content/1712a946-5861-444e-9740-d488c865c5cf)
+**发布时间**: 2025-12-30 15:22
+
+#### [Reasons for youthful cheer](https://www.ft.com/content/8c3821ae-a48c-48a3-8c3f-cdf123948c2d)
+**发布时间**: 2025-12-30 12:05
+
+#### [FTSE 100 loses the last of its industrial conglomerates](https://www.ft.com/content/63d223a3-5dd0-4675-8484-60603182f40b)
+**发布时间**: 2025-12-30 12:00
+
+#### [Why I misread Labour on immigration](https://www.ft.com/content/51821935-686e-4369-b036-089f8bf11d55)
+**发布时间**: 2025-12-30 09:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump Media just launched five ‘Made in America’ ETFs, testing whether political power is an investable theme](https://www.marketwatch.com/story/trump-media-just-launched-5-made-in-america-etfs-testing-whether-political-power-can-function-as-an-investable-theme-a959b3ca?mod=mw_rss_topstories)
+**发布时间**: 2025-12-30 21:11
+
+#### [China launches its silver weapon on Jan. 1. What that means for investors and prices.](https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories)
+**发布时间**: 2025-12-30 20:58
+
+#### [Interest rates could be on hold ‘for some time,’ Fed minutes show](https://www.marketwatch.com/story/interest-rates-could-be-on-hold-for-some-time-fed-minutes-show-f799db89?mod=mw_rss_topstories)
+**发布时间**: 2025-12-30 20:19
+
+#### [Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?mod=mw_rss_topstories)
+**发布时间**: 2025-12-30 20:06
+
+#### [Social Security had yet another terrible year — earning just 4.3% — and if Trump gets his way, 2026 will be even worse](https://www.marketwatch.com/story/social-security-had-yet-another-terrible-year-earning-just-4-3-and-if-trump-gets-his-way-2026-will-be-even-worse-ce5f4b79?mod=mw_rss_topstories)
+**发布时间**: 2025-12-30 17:32
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Dec 2025 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Dec 2025 08:32:05 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 23:21:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>吴恩达年终总结：2025是AI工业时代的黎明</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30-7</link>
-      <description>&lt;![CDATA[吴恩达年终总结：2025是AI工业时代的黎明]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-7</guid>
+      <title>三维空间太难懂？RoboTracer让机器人理解复杂空间指令，推理3D空间轨迹，开放世界也能精确行动</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-10</link>
+      <description>&lt;![CDATA[三维空间太难懂？RoboTracer让机器人理解复杂空间指令，推理3D空间轨迹，开放世界也能精确行动]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 20:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30-6</link>
-      <description>&lt;![CDATA[自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-6</guid>
+      <title>LSTM提出者点赞，引力波探测高效工具，国内团队开发DCL-xLSTM</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-9</link>
+      <description>&lt;![CDATA[LSTM提出者点赞，引力波探测高效工具，国内团队开发DCL-xLSTM]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30-4</link>
-      <description>&lt;![CDATA[招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-4</guid>
+      <title>腾讯混元开源翻译模型1.5，端侧可部署，效果超越商用API</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-8</link>
+      <description>&lt;![CDATA[腾讯混元开源翻译模型1.5，端侧可部署，效果超越商用API]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2025-12-30日刊</title>
-      <link>https://ai.hubtoday.app//2025-12/2025-12-30/</link>
-      <description>&lt;![CDATA[2025-12-30日刊]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 07:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-30/</guid>
+      <title>摩尔线程天使投资人：对近期AI的四十个观察</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-11</link>
+      <description>&lt;![CDATA[摩尔线程天使投资人：对近期AI的四十个观察]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 20:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-11</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>华为云CEO周跃峰：要避免AI成为“泡沫” 必须要提升行业生产力</title>
+      <link>https://www.qbitai.com/2025/12/366277.html</link>
+      <description>&lt;![CDATA[华为云CEO周跃峰：要避免AI成为“泡沫” 必须要提升行业生产力]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366277.html</guid>
       <category>Ai</category>
     </item>
   </channel>

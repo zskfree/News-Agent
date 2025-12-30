@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-30 08:32
+**最后更新时间**: 2025-12-30 23:21
+
+---
+
+## 🆕 最新更新 (2025-12-30 23:21)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [L3级自动驾驶上路，我们离“放手”开车还有多远？](http://www.huxiu.com/article/4822221.html?f=wangzhan)
+**发布时间**: 2025-12-30 22:06
+
+#### [垄断全球70%存储芯片，韩国如何从贫困农业国崛起成世界第二半导体强国？](http://www.huxiu.com/article/4821156.html?f=wangzhan)
+**发布时间**: 2025-12-30 20:00
+
+#### [年入百万的青藤精英也扛不住，美国的 “斩杀线” 到底有多狠？](http://www.huxiu.com/article/4822129.html?f=wangzhan)
+**发布时间**: 2025-12-30 17:29
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Exclusive: “I believe in humanity, not AI," Fei-Fei Li Tells NextFin Founder](https://www.tmtpost.com/7826776.html)
+**发布时间**: 2025-12-30 21:53
+
+#### [3000万“急救”+1.3亿“抹账”，*ST惠程惊险保壳后真考验才刚开始](https://www.tmtpost.com/7826675.html)
+**发布时间**: 2025-12-30 21:22
+
+#### [“AI具身家庭机器人”第一股上市了，95%收入在海外](https://www.tmtpost.com/7826614.html)
+**发布时间**: 2025-12-30 21:20
+
+#### [监管亮剑“财技保壳”，谁在退市边缘“裸泳”？| 焦点](https://www.tmtpost.com/7826640.html)
+**发布时间**: 2025-12-30 21:10
+
+#### [理想、小鹏造“未来”，蔚来、零跑抢“明天”](https://www.tmtpost.com/7825921.html)
+**发布时间**: 2025-12-30 19:17
+
+#### [Meta数十亿美元买走中国AI团队，我们该鼓掌还是警醒？](https://www.tmtpost.com/7826383.html)
+**发布时间**: 2025-12-30 19:17
+
+#### [全民玩AI时代，能否催生下一场“技术革命”？](https://www.tmtpost.com/7826394.html)
+**发布时间**: 2025-12-30 19:16
+
+#### [淘天宠物赏音：宠物品牌要想破圈，"有心有颜有科技"都不能少 | 2025T-EDGE](https://www.tmtpost.com/7826541.html)
+**发布时间**: 2025-12-30 19:13
+
+#### [2025年，大公司的头号公敌是它](https://www.tmtpost.com/7826406.html)
+**发布时间**: 2025-12-30 19:12
+
+#### [台积电2nm，交卷了](https://www.tmtpost.com/7826451.html)
+**发布时间**: 2025-12-30 19:12
+
+#### [贾国龙需要认错，但不必后悔硬刚罗永浩](https://www.tmtpost.com/7826476.html)
+**发布时间**: 2025-12-30 19:09
+
+#### [中式面馆，为何难出顶流？](https://www.tmtpost.com/7826400.html)
+**发布时间**: 2025-12-30 19:08
+
+#### [倒计时一天！张朝阳再启跨年演讲，用数理公式演算“我们所居住的太阳系”](https://www.tmtpost.com/7826094.html)
+**发布时间**: 2025-12-30 18:33
+
+#### [征祥医药张文宏教授牵头，抗流感新药济可舒由完成临床研发 | 公司动态](https://www.tmtpost.com/7821940.html)
+**发布时间**: 2025-12-30 18:14
+
+#### [走到IPO门口，中国大模型终于算了一回账](https://www.tmtpost.com/7826316.html)
+**发布时间**: 2025-12-30 17:53
+
+#### [剧集宣发2025：集体上强度，长短齐上桌](https://www.tmtpost.com/7826253.html)
+**发布时间**: 2025-12-30 17:53
+
+#### [揭密MiniMax不为人知的B面](https://www.tmtpost.com/7824963.html)
+**发布时间**: 2025-12-30 17:51
+
+#### [2026，保持悲观的乐观主义](https://www.tmtpost.com/7826002.html)
+**发布时间**: 2025-12-30 17:49
+
+#### [自建充电桩退场，车企迎来“无感补能”新赛点？](https://www.tmtpost.com/7826248.html)
+**发布时间**: 2025-12-30 17:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场026周 AI 应用榜：告别散兵游勇，看 AI 应用如何组队破局](https://www.infoq.cn/article/AbvVy9kUiAPwT0cVDCyy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 20:00
+
+#### [腾讯混元开源翻译模型1.5，端侧可部署，效果超越商用API](https://www.infoq.cn/article/jPBQa2PLqigECgqqYQOP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 18:56
+
+#### [传快手副总裁、基础大模型及推荐模型负责人周国睿将离职，Meta、TikTok 成潜在下家](https://www.infoq.cn/article/HQtrpR6V6fj2MMXCBY42?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 18:26
+
+#### [AI泡沫后只剩这两类公司杀出重围！昆仑万维CEO方汉：明年唯一技术赛点在Agent](https://www.infoq.cn/article/tgX28uIFyFfgMomo8vFA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 16:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？](https://sspai.com/post/105004)
+**发布时间**: 2025-12-30 16:51
+
+#### [Times New American: 闲话美国国务院「换字体」事件](https://sspai.com/prime/story/times-new-american)
+**发布时间**: 2025-12-30 15:41
 
 ---
 
