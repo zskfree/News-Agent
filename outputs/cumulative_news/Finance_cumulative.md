@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-29 23:21
+**最后更新时间**: 2025-12-30 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-30 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Private equity firms sell assets to themselves at a record rate](https://www.ft.com/content/0236c2ce-a430-4772-b859-bda553784de2)
+**发布时间**: 2025-12-30 05:00
+
+#### [Charts of the year: Trump’s attempt to reshape world trade](https://www.ft.com/content/26f2ff97-621a-48cd-9a0d-dd0a19ae7452)
+**发布时间**: 2025-12-30 05:00
+
+#### [British business has an opportunity to defy the gloom](https://www.ft.com/content/c95b0866-ab8f-4990-93bc-627d758d4999)
+**发布时间**: 2025-12-30 05:00
+
+#### [China steps up Taiwan military drills with live-fire exercises](https://www.ft.com/content/db8068c0-1b90-4cab-953f-518d78ae5335)
+**发布时间**: 2025-12-30 03:33
+
+#### [Trump threatens strikes against Iran if it restarts nuclear programme](https://www.ft.com/content/657e3d1f-59da-4b31-ab7a-ac870f43f678)
+**发布时间**: 2025-12-30 00:56
+
+#### [Boost from joining euro would have covered cost of NHS, adviser told Blair](https://www.ft.com/content/080ee734-b244-4177-a0dc-d73b0d92a4ab)
+**发布时间**: 2025-12-30 00:01
+
+#### [Elizabeth Line would ‘never’ be built, Portillo wrote when urging cancellation](https://www.ft.com/content/a5b73dfa-e981-4f2b-99a1-7b6c897a99a7)
+**发布时间**: 2025-12-30 00:01
+
+#### [Winter fuel was Labour’s administration-defining mistake](https://www.ft.com/content/5920b93c-497d-4b2a-9962-d50e2f2c700c)
+**发布时间**: 2025-12-29 09:30
 
 ---
 

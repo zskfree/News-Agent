@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-29 23:21
+**最后更新时间**: 2025-12-30 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-30 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智能黑科技加持，这家新势力拉开两轮电动车新变局](https://www.tmtpost.com/7824897.html)
+**发布时间**: 2025-12-30 12:47
+
+#### [魏家餐饮“整新活”开音乐餐酒吧，光环之下仍有隐忧](https://www.tmtpost.com/7825614.html)
+**发布时间**: 2025-12-30 11:52
+
+#### [从“反连锁”到“新连锁”，小众奢华酒店集体觉醒](https://www.tmtpost.com/7825565.html)
+**发布时间**: 2025-12-30 11:52
+
+#### [前商汤总裁闯关港股，能复制摩尔、沐曦的暴富神话吗？](https://www.tmtpost.com/7825480.html)
+**发布时间**: 2025-12-30 11:52
+
+#### [贵金属全线暴跌蒸发2万亿财富，这个锅谁来背？](https://www.tmtpost.com/7825670.html)
+**发布时间**: 2025-12-30 11:51
+
+#### [2025营销大共识：裸泳者离场，专业主义复利兑现](https://www.tmtpost.com/7825633.html)
+**发布时间**: 2025-12-30 11:51
+
+#### [南城香们疯狂加码，中小餐饮老板却在发愁：炒菜机真能救命？](https://www.tmtpost.com/7825610.html)
+**发布时间**: 2025-12-30 11:51
+
+#### [一线访谈：返乡三年的90后们，后悔了吗？](https://www.tmtpost.com/7825582.html)
+**发布时间**: 2025-12-30 11:49
+
+#### [起底江波龙：高中生干出千亿芯片帝国，赚得比寒武纪还多？](https://www.tmtpost.com/7825577.html)
+**发布时间**: 2025-12-30 11:48
+
+#### [京沪大对决，把机器人杀到了3000块](https://www.tmtpost.com/7825482.html)
+**发布时间**: 2025-12-30 11:45
+
+#### [白牌跟品牌，中间到底差着啥？](https://www.tmtpost.com/7825580.html)
+**发布时间**: 2025-12-30 11:45
+
+#### [低度酒品类狂欢下，品牌们却赚了个寂寞](https://www.tmtpost.com/7825621.html)
+**发布时间**: 2025-12-30 11:36
+
+#### [2026 年的 10 个营销趋势](https://www.tmtpost.com/7825506.html)
+**发布时间**: 2025-12-30 11:35
+
+#### [Manus收购后：对中国大模型创业公司意味着什么？](https://www.tmtpost.com/7825609.html)
+**发布时间**: 2025-12-30 11:35
+
+#### [新国标落地，两轮电动车的“阵痛”和新一轮竞争](https://www.tmtpost.com/7825601.html)
+**发布时间**: 2025-12-30 11:23
+
+#### [Meta Acquires Manus in Multibillion-Dollar Deal, Marking New Benchmark for China's AI Startups](https://www.tmtpost.com/7825564.html)
+**发布时间**: 2025-12-30 10:42
+
+#### [2025年全球IPO回暖背后：盛宴还是隐忧？](https://www.tmtpost.com/7825478.html)
+**发布时间**: 2025-12-30 10:35
+
+#### [2025年中国医药产业十大谜团](https://www.tmtpost.com/7825487.html)
+**发布时间**: 2025-12-30 10:35
+
+#### [被错杀的泡泡玛特？](https://www.tmtpost.com/7825456.html)
+**发布时间**: 2025-12-30 10:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [超越胜率：Spotify如何在产品实验中量化学习成果](https://www.infoq.cn/article/gUcRCSFjaYHr248gQjZj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 11:59
+
+#### [人工智能如何帮助我们与客户建立联系](https://www.infoq.cn/article/r0FgtxW0R5ZJvOagG86T?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 11:28
+
+#### [全球首个IPO大模型公司出现！智谱携500亿估值开启招股、70%募资投研发，1月8日登陆港股](https://www.infoq.cn/article/AoGqcFOV2vfaoLHmIzaT?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 10:35
+
+#### [突发！Meta砸数百亿收购Manus，肖弘将出任 Meta 副总裁](https://www.infoq.cn/article/w6wk9r7jgMYCGWxKgotN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 10:23
+
+#### [Python Workers重装上阵：Wasm快照与原生uv工具支持](https://www.infoq.cn/article/uvobIEF6TsGAgK7q34tj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 10:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐](https://sspai.com/post/104802)
+**发布时间**: 2025-12-30 11:33
+
+#### [派早报：数字人民币将进入数字存款货币时代等](https://sspai.com/post/104994)
+**发布时间**: 2025-12-30 08:12
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [李书福，考验将至](http://www.huxiu.com/article/4815326.html?f=wangzhan)
+**发布时间**: 2025-12-30 07:08
 
 ---
 
