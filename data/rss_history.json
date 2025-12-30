@@ -2,54 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b5f8894a64dd70d3b1cbdfbf8eaa25ad8eb66c28fc063ac9b999059bb4f82c96": {
-        "title": "对话卡尔动力CEO韦峻青：自动驾驶卡车赛道即将形成商业闭环 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7788529.html",
-        "published_date": "Sun, 30 Nov 2025 15:06:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085328"
-      },
-      "47ec6ea0065f5b164bee3362fc0c7bb902915a011abd0b799183bbbdc3ec5c04": {
-        "title": "央行定调稳定币违法，相比欧美中国为何走“禁止”这条路？| 马上评",
-        "link": "https://www.tmtpost.com/7788487.html",
-        "published_date": "Sun, 30 Nov 2025 14:12:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085338"
-      },
-      "618bbfcfa6c12a4903f098609411855d01c00ecf49cb7e3d1c926ebc1a5737c3": {
-        "title": "抖音正在从“广告公司”变成“电商公司”？",
-        "link": "https://www.tmtpost.com/7788379.html",
-        "published_date": "Sun, 30 Nov 2025 12:54:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085340"
-      },
-      "d70dcfe509f25f141b54eb15a34a762fa5f3ccea76205c061fb6b499b2be3cc9": {
-        "title": "寻找 Calphalon Commercial：完美锅具是否真实存在？",
-        "link": "https://sspai.com/post/104185",
-        "published_date": "Sun, 30 Nov 2025 12:08:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085342"
-      },
-      "f22c3946840c673cc7d197518d3587462d158311fc2651876505b511a0f61ec7": {
-        "title": "如何打造持续进化的卓越软件团队",
-        "link": "https://www.infoq.cn/article/6SyW48Xaq5de5a34JvzT?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 30 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085343"
-      },
-      "591852b6784b1c2827b85c69c329ca638b54f1caa3a0b1b02633e7135704bd64": {
-        "title": "单日十亿 Token 的企业 AI 十倍速落地与十倍降本之道｜AICon北京",
-        "link": "https://www.infoq.cn/article/qYf21LhgWYajNNz8Jj8U?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 30 Nov 2025 09:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085345"
-      },
-      "0ed93d874f99614d4a765c43282b27974ef50886ac17043bbaf35edd11f919fc": {
-        "title": "Google 将 Colab 集成带入 Visual Studio Code",
-        "link": "https://www.infoq.cn/article/poCicTjhQrQMBOii8fxL?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 30 Nov 2025 08:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085347"
-      },
-      "b8d73ad183d8359b519b5f4a481e59c8d9dbcb27a70082a768636a0eae3e8482": {
-        "title": "OpenAI 或成史上烧钱最快的公司；特斯拉在印度两月，仅卖出100多辆车；《疯狂动物城2》刷新进口电影单日票房纪录｜极客早知道",
-        "link": "http://www.geekpark.net/news/357446",
-        "published_date": "Sun, 30 Nov 2025 08:26:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.085348"
-      },
       "e1b0dc575d63d73d02e5ac625bbbfe8a290792be0366e914660c086fa093c51c": {
         "title": "宝马M的“平衡术”：在激进转型的车市中，寻找燃油车的生存缝隙",
         "link": "https://www.tmtpost.com/7788829.html",
@@ -3331,45 +3283,39 @@
         "link": "https://www.tmtpost.com/7825614.html",
         "published_date": "Tue, 30 Dec 2025 11:52:00 GMT",
         "first_seen": "2025-12-30T05:27:14.222557"
+      },
+      "6c649853da591acc9c6e972b7583ed697a060eeb872c6387a6127f9d8b25d077": {
+        "title": "大模型狂叠 buff、Agent乱杀，2025大洗牌预警：96%中国机器人公司恐活不过明年，哪个行业真正被AI改造了？",
+        "link": "https://www.infoq.cn/article/RdJt87O52zdYrmi81CEp?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 16:23:00 GMT",
+        "first_seen": "2025-12-30T08:32:31.665858"
+      },
+      "084713109405e74b2be2bd14ec03cb3fba5b14a5dd3bf40c3d322d86c314b9b4": {
+        "title": "Meta Acquires Manus in Multibillion-Dollar Deal, Marking New Benchmark for China's AI Startups",
+        "link": "https://www.tmtpost.com/7825564.html",
+        "published_date": "Tue, 30 Dec 2025 10:42:00 GMT",
+        "first_seen": "2025-12-30T08:32:31.665865"
+      },
+      "522d4b3544428f06d63a808ab5ffb0426725843ada881870d07417ef561b98b4": {
+        "title": "对话 CodeBuddy黄广民：一堆“冒烟”的上下文，正在决定 AI 编程的成败",
+        "link": "https://www.infoq.cn/article/j8jMvIOfmZS8M33t72uP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:30:00 GMT",
+        "first_seen": "2025-12-30T08:32:31.665867"
+      },
+      "c18858e451d845056c2388de089dcc184719c28df5e2f1e0ff27c286206525de": {
+        "title": "智谱启动招股，估值超500亿港元",
+        "link": "https://www.tmtpost.com/7826011.html",
+        "published_date": "Tue, 30 Dec 2025 15:59:00 GMT",
+        "first_seen": "2025-12-30T08:32:31.665869"
+      },
+      "e1555795a4d286def871445de12d0b2dc7e1812d442c4c20bca2ca971f120d20": {
+        "title": "优步采用Amazon OpenSearch进行语义搜索，以更好地捕捉用户意图",
+        "link": "https://www.infoq.cn/article/mkdfBHl8tbvjFbP19JP6?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 13:42:00 GMT",
+        "first_seen": "2025-12-30T08:32:31.665871"
       }
     },
     "Finance": {
-      "7b7b0b0be72038950a7cbd4401fef44993a88d852d5a75e4a12ee48b299d1d29": {
-        "title": "How time became money: clocks, capitalism and wealth",
-        "link": "https://www.ft.com/content/696d9ced-9022-49bc-9cd9-501fce897146",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:15.901626"
-      },
-      "2e24ff0f6d9a7af1906a116148c2fe3415e66ef258704a3632cc7b89d452c953": {
-        "title": "OpenAI’s lead under pressure as rivals start to close the gap",
-        "link": "https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:15.901642"
-      },
-      "ccb16ad33fd20402d52cae2b87ead792932b534ca4b8ddc32158cd219019ff43": {
-        "title": "Morgan Stanley and Goldman dominate Hong Kong equity deals",
-        "link": "https://www.ft.com/content/58155300-5c0d-47ce-90fa-2350cd43ffff",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:15.901645"
-      },
-      "ccf3bcca642c412aa6f868ced115ac536398ac40558721dac10fce8ace1392b2": {
-        "title": "Switzerland votes on 50% inheritance tax for the super-rich",
-        "link": "https://www.ft.com/content/f03fdcf8-d032-40ef-9ea1-ff32c182df8a",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:15.901648"
-      },
-      "26ad461c6a33a2351655f2656f29951c5b7f16442c74b3bd7e9fb62829bfeea7": {
-        "title": "Health minister says UK should cash in on NHS patient data",
-        "link": "https://www.ft.com/content/0531e76b-a800-450f-8a10-ac5ada1b2695",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:26:15.901650"
-      },
-      "d0cd0c8562480f1ead27c8abe087078b0704f7871a2f66316665524d69252197": {
-        "title": "China services activity hits three-year low while factory slump persists",
-        "link": "https://www.ft.com/content/d6470584-f019-499c-bd27-839d2373f7f6",
-        "published_date": "Sun, 30 Nov 2025 04:53:00 GMT",
-        "first_seen": "2025-11-30T08:26:15.901651"
-      },
       "2dcf737b0192c18a6fe10219e8dd367e6b36e40419f4e85ee0bcd1c144ce0127": {
         "title": "Ukraine says it held ‘difficult but productive’ talks with US on peace plan",
         "link": "https://www.ft.com/content/feea78a5-364a-4296-895b-a68323fe4944",
@@ -5544,18 +5490,6 @@
       }
     },
     "Ai": {
-      "4071fcb0b263627ea943dac939e52bc5d5f850564f5826a677fa5a5495ed2f7c": {
-        "title": "阶跃开源4B Agent模型，跑通所有安卓设备，手搓党一键部署",
-        "link": "https://www.qbitai.com/2025/11/357627.html",
-        "published_date": "Sun, 30 Nov 2025 07:04:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.028420"
-      },
-      "16c053900e0627e716f2d1cb65cc8bf0a6c10713adf098b8c718e6449df88ed3": {
-        "title": "居然有21%的ICLR 2026评审纯用AI生成…",
-        "link": "https://www.qbitai.com/2025/11/357579.html",
-        "published_date": "Sun, 30 Nov 2025 06:57:00 GMT",
-        "first_seen": "2025-11-30T08:26:16.028429"
-      },
       "951dc2cc4f04e5a68146bdcdc1a7c9b8545779180aea6eb4681b7fcd474db08d": {
         "title": "15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」",
         "link": "https://www.jiqizhixin.com/articles/2025-11-30-5",
@@ -7967,13 +7901,37 @@
         "link": "https://www.qbitai.com/2025/12/366226.html",
         "published_date": "Tue, 30 Dec 2025 00:15:00 GMT",
         "first_seen": "2025-12-30T05:26:25.610837"
+      },
+      "ff23db636efa5cf07341a3b7bf4cdc4f5a72e707bcc1a2aa81f52c68cfda990f": {
+        "title": "吴恩达年终总结：2025是AI工业时代的黎明",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-7",
+        "published_date": "Tue, 30 Dec 2025 15:17:00 GMT",
+        "first_seen": "2025-12-30T08:32:05.320430"
+      },
+      "bbdb68200cee46818590127d378d84257c9b3c943000ff5f819f2f20d31b4d0c": {
+        "title": "自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-6",
+        "published_date": "Tue, 30 Dec 2025 15:10:00 GMT",
+        "first_seen": "2025-12-30T08:32:05.320438"
+      },
+      "54c3a67e8e30e2f83328e2e70083758de0100aa2aea04f8af7554d866eec03ce": {
+        "title": "招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-4",
+        "published_date": "Tue, 30 Dec 2025 12:10:00 GMT",
+        "first_seen": "2025-12-30T08:32:05.320441"
+      },
+      "8c1b174c89a4f49705271402230d42887724f70ef42da0330e1ee4f36a85b244": {
+        "title": "2025-12-30日刊",
+        "link": "https://ai.hubtoday.app//2025-12/2025-12-30/",
+        "published_date": "Tue, 30 Dec 2025 07:17:00 GMT",
+        "first_seen": "2025-12-30T08:32:05.320443"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-30T05:27:14.222559",
+    "Technology": "2025-12-30T08:32:31.665874",
     "Finance": "2025-12-30T05:25:45.027589",
-    "Ai": "2025-12-30T05:26:25.610839"
+    "Ai": "2025-12-30T08:32:05.320445"
   }
 }

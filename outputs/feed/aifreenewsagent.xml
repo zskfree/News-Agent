@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Dec 2025 05:25:00 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Dec 2025 05:26:25 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 08:32:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>清华朱军团队Nature Machine Intelligence：多模态扩散模型实现心血管信号实时全面监测</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30-3</link>
-      <description>&lt;![CDATA[清华朱军团队Nature Machine Intelligence：多模态扩散模型实现心血管信号实时全面监测]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-3</guid>
+      <title>吴恩达年终总结：2025是AI工业时代的黎明</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-7</link>
+      <description>&lt;![CDATA[吴恩达年终总结：2025是AI工业时代的黎明]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>港大联合字节跳动提出JoVA: 一种基于联合自注意力的视频-音频联合生成模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30</link>
-      <description>&lt;![CDATA[港大联合字节跳动提出JoVA: 一种基于联合自注意力的视频-音频联合生成模型]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30</guid>
+      <title>自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-6</link>
+      <description>&lt;![CDATA[自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Manus被收购，智谱也定了8天后上市</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30-5</link>
-      <description>&lt;![CDATA[Manus被收购，智谱也定了8天后上市]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 12:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-5</guid>
+      <title>招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-30-4</link>
+      <description>&lt;![CDATA[招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>突发！Meta官宣收购智能体初创公司Manus</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-30-2</link>
-      <description>&lt;![CDATA[突发！Meta官宣收购智能体初创公司Manus]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-30-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Manus卖给了Meta！年初火爆年底数十亿美元被收购</title>
-      <link>https://www.qbitai.com/2025/12/366226.html</link>
-      <description>&lt;![CDATA[Manus卖给了Meta！年初火爆年底数十亿美元被收购]]&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 00:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366226.html</guid>
+      <title>2025-12-30日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-30/</link>
+      <description>&lt;![CDATA[2025-12-30日刊]]&gt;</description>
+      <pubDate>Tue, 30 Dec 2025 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-30/</guid>
       <category>Ai</category>
     </item>
   </channel>

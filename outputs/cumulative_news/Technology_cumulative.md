@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-30 05:25
+**最后更新时间**: 2025-12-30 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-30 08:32)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [大模型狂叠 buff、Agent乱杀，2025大洗牌预警：96%中国机器人公司恐活不过明年，哪个行业真正被AI改造了？](https://www.infoq.cn/article/RdJt87O52zdYrmi81CEp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 16:23
+
+#### [真正的Jarvis要来了？涂鸦智能押注Physical AI](https://www.infoq.cn/article/wMddiUfgpHt9QzDTpGDM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 15:05
+
+#### [整机 29 克、全球最轻的AI眼镜上线？闪极两款AI眼镜新品开售，入手价1999元起](https://www.infoq.cn/article/8FBNCryRBNOp8AIr8LgZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 15:01
+
+#### [对话天猪：AI 时代的挑战与程序员的认知进化](https://www.infoq.cn/article/EiO80Aacx4sMZHjtXqNR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 14:30
+
+#### [对话 CodeBuddy黄广民：一堆“冒烟”的上下文，正在决定 AI 编程的成败](https://www.infoq.cn/article/j8jMvIOfmZS8M33t72uP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 14:30
+
+#### [在Go中使用QJS和WebAssembly运行现代ES2023 JavaScript](https://www.infoq.cn/article/xmt3XjJbX8LTPUHUd0XL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 14:27
+
+#### [优步采用Amazon OpenSearch进行语义搜索，以更好地捕捉用户意图](https://www.infoq.cn/article/mkdfBHl8tbvjFbP19JP6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 13:42
+
+#### [Snowflake Intelligence：与数据对话，解锁真实商业洞察 ｜ 技术趋势](https://www.infoq.cn/article/HlkoQs3mGH89AsawtGaU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-30 13:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智谱启动招股，估值超500亿港元](https://www.tmtpost.com/7826011.html)
+**发布时间**: 2025-12-30 15:59
+
+#### [绵柔飘香世界，洋河股份斩获“全球化先锋企业” 称号](https://www.tmtpost.com/7825974.html)
+**发布时间**: 2025-12-30 15:13
+
+#### [国网综能副总樊功成被查，为何牵动“隔墙售电”改革神经？](https://www.tmtpost.com/7825891.html)
+**发布时间**: 2025-12-30 15:12
+
+#### [“斩杀线”下的美国养老真相](https://www.tmtpost.com/7825916.html)
+**发布时间**: 2025-12-30 15:12
+
+#### [大批卖家被迫出局，意大利市场大洗牌](https://www.tmtpost.com/7825917.html)
+**发布时间**: 2025-12-30 15:12
+
+#### [从4个月2.2亿到1个月10亿播放，女频漫剧距离爆款还差哪一步？](https://www.tmtpost.com/7825970.html)
+**发布时间**: 2025-12-30 15:12
+
+#### [全球AI制药领军企业英矽智能成功登陆港交所 | 公司动态](https://www.tmtpost.com/7825831.html)
+**发布时间**: 2025-12-30 14:20
+
+#### [Meta买下Manus，买的是AI变现模板](https://www.tmtpost.com/7825802.html)
+**发布时间**: 2025-12-30 14:06
+
+#### [春节把“乐事”带回家，为什么能占据消费者心智？](https://www.tmtpost.com/7819356.html)
+**发布时间**: 2025-12-30 14:05
+
+#### [优衣库们盯上了娃衣](https://www.tmtpost.com/7825820.html)
+**发布时间**: 2025-12-30 13:43
+
+#### [酒店收并购走向激流深处](https://www.tmtpost.com/7825771.html)
+**发布时间**: 2025-12-30 13:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [安全键盘：一场横跨 30 年的大型掩耳盗铃](https://sspai.com/post/104978)
+**发布时间**: 2025-12-30 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从热搜报告中，我发现了跟过往不同的三个深层变化......](http://www.huxiu.com/article/4821404.html?f=wangzhan)
+**发布时间**: 2025-12-30 14:00
 
 ---
 

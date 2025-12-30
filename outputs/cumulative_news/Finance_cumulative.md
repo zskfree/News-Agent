@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-30 05:25
+**最后更新时间**: 2025-12-30 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-30 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top US law firms hand associates $300,000-plus bonuses](https://www.ft.com/content/d1db1264-27b1-48db-9576-16c0ca118df6)
+**发布时间**: 2025-12-30 05:00
+
+#### [Winter fuel was Labour’s defining mistake](https://www.ft.com/content/5920b93c-497d-4b2a-9962-d50e2f2c700c)
+**发布时间**: 2025-12-29 09:30
 
 ---
 
