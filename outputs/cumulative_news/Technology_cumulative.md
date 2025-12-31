@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-31 05:27
+**最后更新时间**: 2025-12-31 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-31 08:32)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？](https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 16:18
+
+#### [通过对话式 AI Agent 运用 Snowflake Intelligence，从成本、安全和性能三个维度全面提升您整体系统的表现 ｜ 技术实践](https://www.infoq.cn/article/0IdH9lQNHQt5hxNO89ub?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 16:07
+
+#### [字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?](https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 15:49
+
+#### [Authress如何设计以增强弹性并成功应对亚马逊云科技的重大宕机事件](https://www.infoq.cn/article/F86YjSTGYMCppgulxOVd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 15:18
+
+#### [解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术](https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 15:14
+
+#### [AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手](https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 14:56
+
+#### [从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?](https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 14:44
+
+#### [从查询到行动：AI 智能体如何重塑企业决策方式 ｜ 技术实践](https://www.infoq.cn/article/A9VRy586lAlH0rf0Ap7t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 14:26
+
+#### [别再猜测了，开始改进吧：使用DORA度量标准和过程行为图](https://www.infoq.cn/article/CaxtxQieN9I2F7dI4akg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 14:04
+
+#### [不做披着Agent外衣的聊天机器人，1688 “遨虾” 正在用AI打通跨境全链路](https://www.infoq.cn/article/xLUE7sWGby4MF5GKpgas?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 13:36
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [实控人前妻分得4.46亿元股权，时创能源现“天价离婚”](https://www.tmtpost.com/7827976.html)
+**发布时间**: 2025-12-31 15:54
+
+#### [承载货物，更托举尊严：一场关于物流、平台与人的价值革命](https://www.tmtpost.com/7827899.html)
+**发布时间**: 2025-12-31 15:52
+
+#### [China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades](https://www.tmtpost.com/7828006.html)
+**发布时间**: 2025-12-31 15:31
+
+#### [三次闯关，“中国版Palantir”挂牌港股](https://www.tmtpost.com/7827779.html)
+**发布时间**: 2025-12-31 15:17
+
+#### [把牙刷当手机造，徕芬“疯”了？](https://www.tmtpost.com/7827938.html)
+**发布时间**: 2025-12-31 15:02
+
+#### [拼多多“重仓中国供应链”，我的一点理解](https://www.tmtpost.com/7827054.html)
+**发布时间**: 2025-12-31 14:43
+
+#### [阔别七年回归，罗永浩年度演讲上了10个热搜](https://www.tmtpost.com/7827065.html)
+**发布时间**: 2025-12-31 14:43
+
+#### [60亿！中国长安加码长安汽车](https://www.tmtpost.com/7826917.html)
+**发布时间**: 2025-12-31 14:35
+
+#### [2025年十大生物医药IPO，告诉我们什么？](https://www.tmtpost.com/7827038.html)
+**发布时间**: 2025-12-31 14:35
+
+#### [马上消费连续5年荣登中国互联网企业百强榜](https://www.tmtpost.com/7827857.html)
+**发布时间**: 2025-12-31 14:26
+
+#### [2025，车企跨界造“人”](https://www.tmtpost.com/7825691.html)
+**发布时间**: 2025-12-31 14:11
+
+#### [新广益高开大涨285%！“卡脖子”技术破壁者，驶入国产替代深水区](https://www.tmtpost.com/7827815.html)
+**发布时间**: 2025-12-31 13:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国集装箱武器如何让美媒破防？](http://www.huxiu.com/article/4821826.html?f=wangzhan)
+**发布时间**: 2025-12-31 15:30
+
+#### [Meta收购Manus：是小扎太焦虑，还是Manus不卖不行？](http://www.huxiu.com/article/4822257.html?f=wangzhan)
+**发布时间**: 2025-12-31 09:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [珍藏 2025 光影记忆，为你的「年度之作」颁个奖](https://sspai.com/post/104830)
+**发布时间**: 2025-12-31 15:00
 
 ---
 

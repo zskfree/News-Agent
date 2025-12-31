@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 Dec 2025 05:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 31 Dec 2025 05:28:42 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 08:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 08:32:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta 数十亿美金收购 Manus ：AI时代的“先动者优势”与“下场论”</title>
-      <link>https://www.infoq.cn/article/HwpjfIajSSJDB2Yw0BiZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 数十亿美金收购 Manus ：AI时代的“先动者优势”与“下场论”]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HwpjfIajSSJDB2Yw0BiZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?</title>
+      <link>https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 时代的产品方法论正在被改写：从精益创业到「 Demo 优先」</title>
-      <link>https://www.infoq.cn/article/glOueHz5EQYcDmuAAkJl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 时代的产品方法论正在被改写：从精益创业到「 Demo 优先」]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 09:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/glOueHz5EQYcDmuAAkJl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？</title>
+      <link>https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI创业的终局是委身大厂？</title>
-      <link>https://www.tmtpost.com/7826673.html</link>
-      <description>&lt;![CDATA[AI创业的终局是委身大厂？]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7826673.html</guid>
+      <title>AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手</title>
+      <link>https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2025手机市场高开低走：苹果逆势创新高，豆包捅破AI Phone窗户纸</title>
-      <link>https://www.tmtpost.com/7827002.html</link>
-      <description>&lt;![CDATA[2025手机市场高开低走：苹果逆势创新高，豆包捅破AI Phone窗户纸]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7827002.html</guid>
+      <title>解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术</title>
+      <link>https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Insilico Medicine Debuts in Hong Kong in 2025 Biggest Biotech IPO</title>
-      <link>https://www.tmtpost.com/7827655.html</link>
-      <description>&lt;![CDATA[Insilico Medicine Debuts in Hong Kong in 2025 Biggest Biotech IPO]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7827655.html</guid>
+      <title>从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?</title>
+      <link>https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

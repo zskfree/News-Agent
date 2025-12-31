@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-31 05:28
+**最后更新时间**: 2025-12-31 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-31 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [European investors must brace for a year of geopolitical instability](https://www.ft.com/content/e243e43e-bd23-4d78-b958-9861eb07b692)
+**发布时间**: 2025-12-31 05:00
+
+#### [Netherlands approaches major overhaul of €1.8tn pension system](https://www.ft.com/content/1f1859b5-0e9e-403d-8038-cb752d0cf397)
+**发布时间**: 2025-12-31 05:00
+
+#### [Trump Mobile delays plan to launch gold-coloured smartphone this year](https://www.ft.com/content/29fc1e75-7bec-4011-acc3-603e51cf9fe2)
+**发布时间**: 2025-12-31 05:00
 
 ---
 

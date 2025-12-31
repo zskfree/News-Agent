@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 Dec 2025 05:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 31 Dec 2025 05:28:27 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 08:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 08:32:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NUS尤洋教授深度探讨智能增长的瓶颈：或许我们将这样实现AGI？</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-4</link>
-      <description>&lt;![CDATA[NUS尤洋教授深度探讨智能增长的瓶颈：或许我们将这样实现AGI？]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-4</guid>
+      <title>卓驭打造科技平权，端到端辅助驾驶延伸至重卡高速、无人物流</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-31-6</link>
+      <description>&lt;![CDATA[卓驭打造科技平权，端到端辅助驾驶延伸至重卡高速、无人物流]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华为云CEO周跃峰：要避免AI成为泡沫，必须要提升行业生产力</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31</link>
-      <description>&lt;![CDATA[华为云CEO周跃峰：要避免AI成为泡沫，必须要提升行业生产力]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31</guid>
+      <title>从“手工艺”到“AI工程化”：解码AI智能渗透的未来之战</title>
+      <link>https://www.qbitai.com/2025/12/366280.html</link>
+      <description>&lt;![CDATA[从“手工艺”到“AI工程化”：解码AI智能渗透的未来之战]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 07:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366280.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>重塑语音安全！上海交大联合宇生月伴，研发高性能高泛化语音鉴伪大模型</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-3</link>
-      <description>&lt;![CDATA[重塑语音安全！上海交大联合宇生月伴，研发高性能高泛化语音鉴伪大模型]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 13:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-3</guid>
+      <title>MiniMax作价461亿港元募资46亿，1月9日敲钟代码00100</title>
+      <link>https://www.qbitai.com/2025/12/366302.html</link>
+      <description>&lt;![CDATA[MiniMax作价461亿港元募资46亿，1月9日敲钟代码00100]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 06:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366302.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华北电力大学等开发基于AI的催化设计蓝图，跨材料的电化学通用设计框架</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-2</link>
-      <description>&lt;![CDATA[华北电力大学等开发基于AI的催化设计蓝图，跨材料的电化学通用设计框架]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-2</guid>
+      <title>视远 · 正心明智——「AI 中国」机器之心2025年度评选正式揭晓</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-31-5</link>
+      <description>&lt;![CDATA[视远 · 正心明智——「AI 中国」机器之心2025年度评选正式揭晓]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产智能体MasterAgent 12月30日全面开放，赋能多场景应用</title>
-      <link>https://www.qbitai.com/2025/12/366290.html</link>
-      <description>&lt;![CDATA[国产智能体MasterAgent 12月30日全面开放，赋能多场景应用]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 03:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366290.html</guid>
+      <title>2025-12-31日刊</title>
+      <link>https://ai.hubtoday.app//2025-12/2025-12-31/</link>
+      <description>&lt;![CDATA[2025-12-31日刊]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2025-12/2025-12-31/</guid>
       <category>Ai</category>
     </item>
   </channel>
