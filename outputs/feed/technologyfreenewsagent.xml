@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Wed, 31 Dec 2025 08:32:26 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 23:24:00 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 23:24:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?</title>
-      <link>https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>杨植麟自曝“家底”：手握超100亿现金、刚融了5亿美元，明年Kimi员工激励翻倍，“短期不着急上市”</title>
+      <link>https://www.infoq.cn/article/mwQekyl5ZQXcvv8vEsr9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[杨植麟自曝“家底”：手握超100亿现金、刚融了5亿美元，明年Kimi员工激励翻倍，“短期不着急上市”]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mwQekyl5ZQXcvv8vEsr9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？</title>
-      <link>https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades</title>
+      <link>https://www.tmtpost.com/7828006.html</link>
+      <description>&lt;![CDATA[China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 15:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828006.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手</title>
-      <link>https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&amp;utm_medium=article</guid>
+      <title>烧钱换量、版权难题，MiniMax冲击IPO背后的AB面</title>
+      <link>https://www.tmtpost.com/7826560.html</link>
+      <description>&lt;![CDATA[烧钱换量、版权难题，MiniMax冲击IPO背后的AB面]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7826560.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术</title>
-      <link>https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>写在 Manus “卖身”后：企业级 Agent 只会更像软件，而非魔法</title>
+      <link>https://www.infoq.cn/article/jhKhNUoC7hikJN3EIkqJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[写在 Manus “卖身”后：企业级 Agent 只会更像软件，而非魔法]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 16:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jhKhNUoC7hikJN3EIkqJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?</title>
-      <link>https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026年芯片怎么走？大摩、普华永道、Omdia四点共识</title>
+      <link>https://www.tmtpost.com/7828309.html</link>
+      <description>&lt;![CDATA[2026年芯片怎么走？大摩、普华永道、Omdia四点共识]]&gt;</description>
+      <pubDate>Wed, 31 Dec 2025 19:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828309.html</guid>
       <category>Technology</category>
     </item>
   </channel>

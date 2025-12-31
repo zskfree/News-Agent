@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-31 08:32
+**最后更新时间**: 2025-12-31 23:24
+
+---
+
+## 🆕 最新更新 (2025-12-31 23:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer says he is frustrated at pace of change in New Year message](https://www.ft.com/content/d75aa177-9447-4acf-92c7-516b5446d273)
+**发布时间**: 2025-12-31 22:35
+
+#### [US sanctions four traders it says are shipping Venezuelan oil](https://www.ft.com/content/ddcdb2af-48a5-457f-a306-0dae538e9c74)
+**发布时间**: 2025-12-31 22:16
+
+#### [Global stocks post third straight year of double-digit gains](https://www.ft.com/content/7c8ead64-23f8-43ec-812e-0e24df326b07)
+**发布时间**: 2025-12-31 21:03
+
+#### [How Saudi Arabia and the UAE’s long alliance ruptured](https://www.ft.com/content/2097d5e6-5e59-4af8-bcda-3707d8e9f9ef)
+**发布时间**: 2025-12-31 18:16
+
+#### [How should the UK celebrate 250 years of American independence?](https://www.ft.com/content/c7501d67-d52b-4b54-830f-3435347d6bcd)
+**发布时间**: 2025-12-31 11:00
+
+#### [Drug gangs pose grave threat to European security, agency warns](https://www.ft.com/content/10148719-3761-4b9f-b52c-5829fdc790d0)
+**发布时间**: 2025-12-31 11:00
+
+#### [Netherlands overhauls its €1.8tn pension system](https://www.ft.com/content/1f1859b5-0e9e-403d-8038-cb752d0cf397)
+**发布时间**: 2025-12-31 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We never want to think our children would strip us of all our money’: Is it safe to give my kids my Social Security number?](https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 21:47
+
+#### [‘I’m on a fixed budget’: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?](https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 21:42
+
+#### [Here are 5 key charts that defined a wild year for global financial markets](https://www.marketwatch.com/story/these-5-charts-define-the-wild-year-in-global-financial-markets-in-2025-780fdd5a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 21:36
+
+#### [Nike CEO joins Tim Cook in betting his own money that the stock is bottoming](https://www.marketwatch.com/story/nike-ceo-joins-tim-cook-in-betting-his-own-money-that-the-stock-is-bottoming-69229691?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 21:04
+
+#### [China made the world’s biggest movie this year, and — in a sea change — it didn’t need America’s help](https://www.marketwatch.com/story/china-made-the-worlds-biggest-movie-this-year-and-in-a-sea-change-it-didnt-need-america-to-do-it-45c509b3?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 21:00
+
+#### [The U.S. economy is facing no shortage of worries as it heads into 2026](https://www.marketwatch.com/story/the-u-s-economy-is-facing-no-shortage-of-worries-as-it-heads-into-2026-c73f8e1d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 20:53
+
+#### [This one unavoidable tax can sink your retirement plan](https://www.marketwatch.com/story/this-one-unavoidable-tax-can-sink-your-retirement-plan-a05d1a6b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 20:24
 
 ---
 
