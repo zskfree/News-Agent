@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-30 23:21
+**最后更新时间**: 2025-12-31 05:28
+
+---
+
+## 🆕 最新更新 (2025-12-31 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93)
+**发布时间**: 2025-12-31 05:00
+
+#### [Forecasting the world in 2026](https://www.ft.com/content/8ed9aed7-18cc-41f3-bdcc-5a04c856fe5b)
+**发布时间**: 2025-12-31 05:00
+
+#### [‘What will happen to house prices next year?’ — it’s a tricky question](https://www.ft.com/content/698de1c6-0924-43ed-813c-b3c13e84c184)
+**发布时间**: 2025-12-31 05:00
+
+#### [Can AI really help us find love?](https://www.ft.com/content/fd044ddf-9a98-4282-ac0a-f7a9de060f58)
+**发布时间**: 2025-12-31 05:00
+
+#### [US fines for dirty money drop 61% as Trump retreats from enforcement](https://www.ft.com/content/46826bb8-16be-4301-a4fc-cb73231e8987)
+**发布时间**: 2025-12-31 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why 2026 could be a banner year for regional-bank stocks](https://www.marketwatch.com/story/why-2026-could-be-a-banner-year-for-regional-bank-stocks-7306c7c0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 01:38
+
+#### [Meta’s Manus acquisition is Big Tech’s latest big bet on AI](https://www.marketwatch.com/story/meta-acquisition-is-latest-megacap-tech-bet-on-ai-to-finish-the-year-68cdfd8f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 00:39
+
+#### [Tesla publicly posts a pessimistic forecast for fourth-quarter sales](https://www.marketwatch.com/story/tesla-posts-a-pessimistic-forecast-for-fourth-quarter-sales-837e53b4?mod=mw_rss_topstories)
+**发布时间**: 2025-12-31 00:34
+
+#### [‘He has become hostile’: My mom is in her 80s and has dementia. My brother is blocking access.](https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-30 23:21
 
 ---
 

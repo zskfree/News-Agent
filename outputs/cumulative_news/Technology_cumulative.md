@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-30 23:21
+**最后更新时间**: 2025-12-31 05:27
+
+---
+
+## 🆕 最新更新 (2025-12-31 05:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [茅台、五粮液下跌，大疆、泡泡玛特飙升，投资消费股之前，先看看这份榜单](https://www.tmtpost.com/7827637.html)
+**发布时间**: 2025-12-31 11:44
+
+#### [Manus的结局，正在重塑中国AI应用创业的4条生存法则](https://www.tmtpost.com/7826827.html)
+**发布时间**: 2025-12-31 11:44
+
+#### [3200亿丁磊，再“失”一员老将](https://www.tmtpost.com/7826809.html)
+**发布时间**: 2025-12-31 11:44
+
+#### [告别 2025：被逼出“活人感”的这一年](https://www.tmtpost.com/7827085.html)
+**发布时间**: 2025-12-31 11:44
+
+#### [美的、海尔、海信、TCL，一场决定未来十年命运的战争](https://www.tmtpost.com/7827291.html)
+**发布时间**: 2025-12-31 11:44
+
+#### [Manus天价卖身，但Agent的春天还没来](https://www.tmtpost.com/7826807.html)
+**发布时间**: 2025-12-31 11:13
+
+#### [XTransfer荣获钛媒体EDGE AWARDS “出海全球化服务标杆”](https://www.tmtpost.com/7826387.html)
+**发布时间**: 2025-12-31 11:12
+
+#### [Insilico Medicine Debuts in Hong Kong in 2025 Biggest Biotech IPO](https://www.tmtpost.com/7827655.html)
+**发布时间**: 2025-12-31 11:08
+
+#### [影石销量被质疑，刘靖康急了还是怒了？](https://www.tmtpost.com/7826583.html)
+**发布时间**: 2025-12-31 11:08
+
+#### [AI创业的终局是委身大厂？](https://www.tmtpost.com/7826673.html)
+**发布时间**: 2025-12-31 11:08
+
+#### [1230亿小米“二号位”，抛140亿减持计划](https://www.tmtpost.com/7826770.html)
+**发布时间**: 2025-12-31 11:08
+
+#### [罗永浩：以科技之名，靠嘴吃饭](https://www.tmtpost.com/7827057.html)
+**发布时间**: 2025-12-31 10:56
+
+#### [困在锂周期中的万润新能：手握“宁王”470亿大单苦等业绩反转](https://www.tmtpost.com/7827033.html)
+**发布时间**: 2025-12-31 10:56
+
+#### [耗资16亿上演H吃A，优必选补齐制造拼图](https://www.tmtpost.com/7826782.html)
+**发布时间**: 2025-12-31 10:48
+
+#### [2025手机市场高开低走：苹果逆势创新高，豆包捅破AI Phone窗户纸](https://www.tmtpost.com/7827002.html)
+**发布时间**: 2025-12-31 10:47
+
+#### [迈向30周年，盼盼百亿探索路](https://www.tmtpost.com/7824683.html)
+**发布时间**: 2025-12-31 10:45
+
+#### [烧钱换量、版权难题，MiniMax冲击IPO背后的AB面](https://www.tmtpost.com/7826560.html)
+**发布时间**: 2025-12-31 10:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta 数十亿美金收购 Manus ：AI时代的“先动者优势”与“下场论”](https://www.infoq.cn/article/HwpjfIajSSJDB2Yw0BiZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 11:28
+
+#### [亚马逊云科技推出AWS Network Firewall代理的预览版，简化托管出站安全性](https://www.infoq.cn/article/x4wWBM61WQ2LFBqp5Jiy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 10:51
+
+#### [Cloudflare 开源 tokio‑quiche，简化 QUIC 和 HTTP/3 的 Rust 实现](https://www.infoq.cn/article/zc8ALwYNGWGh73ZWbtvS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 10:02
+
+#### [AI 时代的产品方法论正在被改写：从精益创业到「 Demo 优先」](https://www.infoq.cn/article/glOueHz5EQYcDmuAAkJl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 09:23
+
+#### [超越应用层的基准测试：Uber如何评估基础设施变更与云服务单元](https://www.infoq.cn/article/8BtQ70AmpYhRyl9y6GZB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 09:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年末「夯」一下：少数派 2025 年度盘点上线](https://sspai.com/post/104997)
+**发布时间**: 2025-12-31 11:00
+
+#### [派早报：2026 年「国补」方案出炉、罗永浩举办年度科技创新分享大会等](https://sspai.com/post/105044)
+**发布时间**: 2025-12-31 08:54
 
 ---
 
