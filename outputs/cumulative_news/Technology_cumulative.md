@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-01 05:29
+**最后更新时间**: 2026-01-01 08:32
+
+---
+
+## 🆕 最新更新 (2026-01-01 08:32)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [米其林以务实路线迈向AIOps，并无宏大愿景](https://www.infoq.cn/article/ZaNCAZsLZJKe6OaTTqAx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-01 15:14
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [2025 年 11 个神级 AI 开源平替，GitHub 杀疯了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530265&idx=1&sn=031b06a5c1e6dedf26278761b81ee996)
+**发布时间**: 2026-01-01 15:04
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2026消费前瞻：为「活人感」买单](https://www.tmtpost.com/7828767.html)
+**发布时间**: 2026-01-01 14:54
+
+#### [商业文明的第三次跃迁：从效率、竞争到“存在”，你的公司准备好成为“文明”了吗？](https://www.tmtpost.com/7828650.html)
+**发布时间**: 2026-01-01 14:54
+
+#### [孟晚舟发新年致辞，华为要重新“盖房子”](https://www.tmtpost.com/7828586.html)
+**发布时间**: 2026-01-01 13:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [超越「平替」，年轻人的第一支 50mm F/1.4 镜头](https://sspai.com/post/104948)
+**发布时间**: 2026-01-01 14:10
 
 ---
 

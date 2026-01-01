@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 01 Jan 2026 05:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2026 05:29:21 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 08:32:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载</title>
-      <link>https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>孟晚舟发新年致辞，华为要重新“盖房子”</title>
+      <link>https://www.tmtpost.com/7828586.html</link>
+      <description>&lt;![CDATA[孟晚舟发新年致辞，华为要重新“盖房子”]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 13:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828586.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？</title>
-      <link>https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>商业文明的第三次跃迁：从效率、竞争到“存在”，你的公司准备好成为“文明”了吗？</title>
+      <link>https://www.tmtpost.com/7828650.html</link>
+      <description>&lt;![CDATA[商业文明的第三次跃迁：从效率、竞争到“存在”，你的公司准备好成为“文明”了吗？]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828650.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI创业公司的2025：一半是海水，一半是火焰</title>
-      <link>https://www.tmtpost.com/7828472.html</link>
-      <description>&lt;![CDATA[AI创业公司的2025：一半是海水，一半是火焰]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828472.html</guid>
+      <title>米其林以务实路线迈向AIOps，并无宏大愿景</title>
+      <link>https://www.infoq.cn/article/ZaNCAZsLZJKe6OaTTqAx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[米其林以务实路线迈向AIOps，并无宏大愿景]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZaNCAZsLZJKe6OaTTqAx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>90后AI创业者，拿到Meta数十亿美元“聘礼”</title>
-      <link>https://www.tmtpost.com/7828576.html</link>
-      <description>&lt;![CDATA[90后AI创业者，拿到Meta数十亿美元“聘礼”]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828576.html</guid>
+      <title>赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词</title>
+      <link>https://www.tmtpost.com/7828591.html</link>
+      <description>&lt;![CDATA[赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828591.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>车圈2025：价格战没赢家，但淘汰赛已有出局者</title>
-      <link>https://www.tmtpost.com/7828479.html</link>
-      <description>&lt;![CDATA[车圈2025：价格战没赢家，但淘汰赛已有出局者]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828479.html</guid>
+      <title>2026消费前瞻：为「活人感」买单</title>
+      <link>https://www.tmtpost.com/7828767.html</link>
+      <description>&lt;![CDATA[2026消费前瞻：为「活人感」买单]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828767.html</guid>
       <category>Technology</category>
     </item>
   </channel>

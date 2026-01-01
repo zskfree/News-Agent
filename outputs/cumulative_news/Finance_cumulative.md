@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-01 05:29
+**最后更新时间**: 2026-01-01 08:32
+
+---
+
+## 🆕 最新更新 (2026-01-01 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Several’ people killed in Swiss ski resort fire](https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b)
+**发布时间**: 2026-01-01 07:49
+
+#### [Mamdani to press ahead with tax rises for New York City millionaires](https://www.ft.com/content/8b748372-df61-460a-99fe-2cc163fd85dd)
+**发布时间**: 2026-01-01 05:30
+
+#### [SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs](https://www.ft.com/content/bf607829-dca5-497d-b1a1-ca945d32a8c6)
+**发布时间**: 2026-01-01 05:00
+
+#### [Five simple ways to reset your finances in 2026](https://www.ft.com/content/9dae42c1-66a9-413e-919f-31b0679c217b)
+**发布时间**: 2026-01-01 05:00
+
+#### [Warren Buffett hands over Berkshire Hathaway’s reins to Greg Abel](https://www.ft.com/content/790b3a97-9ec3-4403-aaa8-ac518a2694a9)
+**发布时间**: 2026-01-01 05:00
+
+#### [Russian shoppers pay double for sanctions-hit luxury goods from Europe](https://www.ft.com/content/65a1f3f4-b070-4f15-a8c7-b50f3d32bd10)
+**发布时间**: 2026-01-01 05:00
+
+#### [Apple cuts Vision Pro production and marketing after weak sales](https://www.ft.com/content/ab817ba1-15ec-473f-b609-5b5016b3258d)
+**发布时间**: 2026-01-01 05:00
+
+#### [The rupture of the UAE-Saudi Arabia alliance](https://www.ft.com/content/2097d5e6-5e59-4af8-bcda-3707d8e9f9ef)
+**发布时间**: 2025-12-31 18:16
 
 ---
 

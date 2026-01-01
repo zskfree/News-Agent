@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 01 Jan 2026 05:29:00 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2026 05:29:06 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 08:32:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.</title>
-      <link>https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 03:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories</guid>
+      <title>‘Several’ people killed in Swiss ski resort fire</title>
+      <link>https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b</link>
+      <description>&lt;![CDATA[‘Several’ people killed in Swiss ski resort fire]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 07:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Chip shortages threaten 20% rise in consumer electronics prices</title>
-      <link>https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755</link>
-      <description>&lt;![CDATA[Chip shortages threaten 20% rise in consumer electronics prices]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 01:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755</guid>
+      <title>Mamdani to press ahead with tax rises for New York City millionaires</title>
+      <link>https://www.ft.com/content/8b748372-df61-460a-99fe-2cc163fd85dd</link>
+      <description>&lt;![CDATA[Mamdani to press ahead with tax rises for New York City millionaires]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 05:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8b748372-df61-460a-99fe-2cc163fd85dd</guid>
       <category>Finance</category>
     </item>
   </channel>
