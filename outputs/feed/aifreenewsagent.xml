@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 31 Dec 2025 23:24:29 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 05:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 05:29:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>超DeepEP两倍！无问芯穹FUSCO以「空中变阵」突破MoE通信瓶颈，专为Agent爆发设计</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-10</link>
-      <description>&lt;![CDATA[超DeepEP两倍！无问芯穹FUSCO以「空中变阵」突破MoE通信瓶颈，专为Agent爆发设计]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-10</guid>
+      <title>豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试</title>
+      <link>https://www.qbitai.com/2026/01/366364.html</link>
+      <description>&lt;![CDATA[豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 02:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366364.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>「视频世界模型」新突破：AI连续生成5分钟，画面也不崩</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-9</link>
-      <description>&lt;![CDATA[「视频世界模型」新突破：AI连续生成5分钟，画面也不崩]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-9</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>7B扩散语言模型单样例1000+ tokens/s！上交大联合华为推出LoPA</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-7</link>
-      <description>&lt;![CDATA[7B扩散语言模型单样例1000+ tokens/s！上交大联合华为推出LoPA]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-7</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，稚晖君发布的人形机器人Q1，小到能塞进书包</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-31-8</link>
-      <description>&lt;![CDATA[刚刚，稚晖君发布的人形机器人Q1，小到能塞进书包]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 16:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-31-8</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>真如摄影、细至发丝！阿里开源新一代图像生成模型Qwen-Image</title>
-      <link>https://www.qbitai.com/2025/12/366357.html</link>
-      <description>&lt;![CDATA[真如摄影、细至发丝！阿里开源新一代图像生成模型Qwen-Image]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 12:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/366357.html</guid>
+      <title>2026-01-01日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-01/</link>
+      <description>&lt;![CDATA[2026-01-01日刊]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-01/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-31 23:24
+**最后更新时间**: 2026-01-01 05:29
+
+---
+
+## 🆕 最新更新 (2026-01-01 05:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [自动驾驶出租车和本垒打？2026年40只被忽视的低价潜力股](https://www.tmtpost.com/7828815.html)
+**发布时间**: 2026-01-01 12:19
+
+#### [2025年，凯茜·伍德的方舟基金业绩大幅跑赢大盘，她现在在买什么？](https://www.tmtpost.com/7828811.html)
+**发布时间**: 2026-01-01 12:17
+
+#### [REIT板块有望在2026年反弹，这三只股票现在可以考虑买入](https://www.tmtpost.com/7828808.html)
+**发布时间**: 2026-01-01 12:16
+
+#### [争议中登顶，《燕云十六声》周年庆的冰与火](https://www.tmtpost.com/7828618.html)
+**发布时间**: 2026-01-01 12:02
+
+#### [罗永浩“老矣”，“科技春晚”会成为绝唱吗？](https://www.tmtpost.com/7828583.html)
+**发布时间**: 2026-01-01 10:31
+
+#### [为什么2026年值得投资石油股票](https://www.tmtpost.com/7828719.html)
+**发布时间**: 2026-01-01 10:17
+
+#### [AI创业公司的2025：一半是海水，一半是火焰](https://www.tmtpost.com/7828472.html)
+**发布时间**: 2026-01-01 10:00
+
+#### [赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词](https://www.tmtpost.com/7828591.html)
+**发布时间**: 2026-01-01 09:49
+
+#### [华尔街最激进的科技多头，2026年押注人工智能的五只最佳股票](https://www.tmtpost.com/7828684.html)
+**发布时间**: 2026-01-01 09:39
+
+#### [道琼斯“狗股”今年表现强劲，以下是2026年的10只成分股](https://www.tmtpost.com/7828680.html)
+**发布时间**: 2026-01-01 09:37
+
+#### [华尔街认为2026年可能迎来反转的三只食品与饮料股票](https://www.tmtpost.com/7828676.html)
+**发布时间**: 2026-01-01 09:34
+
+#### [长视频与短视频的2025](https://www.tmtpost.com/7828453.html)
+**发布时间**: 2026-01-01 09:31
+
+#### [90后AI创业者，拿到Meta数十亿美元“聘礼”](https://www.tmtpost.com/7828576.html)
+**发布时间**: 2026-01-01 09:00
+
+#### [车圈2025：价格战没赢家，但淘汰赛已有出局者](https://www.tmtpost.com/7828479.html)
+**发布时间**: 2026-01-01 08:31
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？](https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-01 10:00
+
+#### [CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载](https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-01 10:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 6 个本周 火火火火 的 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530174&idx=1&sn=003b2f5ccad3ac11ac81b285cd340f56)
+**发布时间**: 2025-12-31 15:05
+
+#### [推荐 8 个爷青回 GitHub 开源游戏，太怀念了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530139&idx=1&sn=847afb9698feeb6390dab1d7bbee2e07)
+**发布时间**: 2025-12-30 16:02
 
 ---
 

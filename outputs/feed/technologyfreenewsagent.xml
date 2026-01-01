@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 Dec 2025 23:24:00 GMT</pubDate>
-    <lastBuildDate>Wed, 31 Dec 2025 23:24:55 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 05:29:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 05:29:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>杨植麟自曝“家底”：手握超100亿现金、刚融了5亿美元，明年Kimi员工激励翻倍，“短期不着急上市”</title>
-      <link>https://www.infoq.cn/article/mwQekyl5ZQXcvv8vEsr9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[杨植麟自曝“家底”：手握超100亿现金、刚融了5亿美元，明年Kimi员工激励翻倍，“短期不着急上市”]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 16:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mwQekyl5ZQXcvv8vEsr9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载</title>
+      <link>https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades</title>
-      <link>https://www.tmtpost.com/7828006.html</link>
-      <description>&lt;![CDATA[China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828006.html</guid>
+      <title>MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？</title>
+      <link>https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>烧钱换量、版权难题，MiniMax冲击IPO背后的AB面</title>
-      <link>https://www.tmtpost.com/7826560.html</link>
-      <description>&lt;![CDATA[烧钱换量、版权难题，MiniMax冲击IPO背后的AB面]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7826560.html</guid>
+      <title>AI创业公司的2025：一半是海水，一半是火焰</title>
+      <link>https://www.tmtpost.com/7828472.html</link>
+      <description>&lt;![CDATA[AI创业公司的2025：一半是海水，一半是火焰]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828472.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>写在 Manus “卖身”后：企业级 Agent 只会更像软件，而非魔法</title>
-      <link>https://www.infoq.cn/article/jhKhNUoC7hikJN3EIkqJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[写在 Manus “卖身”后：企业级 Agent 只会更像软件，而非魔法]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 16:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jhKhNUoC7hikJN3EIkqJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>90后AI创业者，拿到Meta数十亿美元“聘礼”</title>
+      <link>https://www.tmtpost.com/7828576.html</link>
+      <description>&lt;![CDATA[90后AI创业者，拿到Meta数十亿美元“聘礼”]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828576.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026年芯片怎么走？大摩、普华永道、Omdia四点共识</title>
-      <link>https://www.tmtpost.com/7828309.html</link>
-      <description>&lt;![CDATA[2026年芯片怎么走？大摩、普华永道、Omdia四点共识]]&gt;</description>
-      <pubDate>Wed, 31 Dec 2025 19:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828309.html</guid>
+      <title>车圈2025：价格战没赢家，但淘汰赛已有出局者</title>
+      <link>https://www.tmtpost.com/7828479.html</link>
+      <description>&lt;![CDATA[车圈2025：价格战没赢家，但淘汰赛已有出局者]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 08:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828479.html</guid>
       <category>Technology</category>
     </item>
   </channel>

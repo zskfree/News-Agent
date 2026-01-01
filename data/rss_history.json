@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7628d99e31e9da45ffd5e586f936bfeae37a82c8755c2f90227fd877c982a1d5": {
-        "title": "Stripe的零停机数据转移平台以毫秒级流量切换迁移PB级数据",
-        "link": "https://www.infoq.cn/article/b4ggCiClobYvRJH83ELp?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Dec 2025 13:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187371"
-      },
-      "4929cece6dbec8f246f8264ec91b4c51d50de14e1e61dd517ba777b07428e69b": {
-        "title": "ChatGPT 混乱狂奔三周年：KPI 赢了一切，代价是一场致命的系统性故障",
-        "link": "https://www.infoq.cn/article/3qW2ftQueKIqweMuWXd0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187380"
-      },
-      "6f7f66431b3fa0dc2446f2266e203281912758adea576ef29bff9a744a67b1c8": {
-        "title": "DeepSeek 研究员：Speciale证明强化学习可持续扩展！谷歌AI研究员来划技术重点",
-        "link": "https://www.infoq.cn/article/kl8Etgwi2EdrHDMbU859?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187382"
-      },
-      "50a7aa0a7ff20648f283ebacdf0b004d2c821ef69fd554945df1fd7c70323132": {
-        "title": "微前端：迈向现代化前端架构的社会技术之旅",
-        "link": "https://www.infoq.cn/article/1TQz62Q7wXK3sewmbkMG?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187384"
-      },
-      "c66d71213aa461d42d53e67cb905cfd4ee2a04e11221d1579d01dc0e9dbcfd43": {
-        "title": "为何谷歌文件检索技术可能取代企业自建的RAG技术栈",
-        "link": "https://www.infoq.cn/article/k5y6sxBlVlPxkPUIe4Lo?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187386"
-      },
-      "4412927a773592b047ee438bc57097ce90945412c33a998a1e1a91a0dc28ba5f": {
-        "title": "艾滋病攻防50年：一部未完待续的创新史",
-        "link": "https://www.tmtpost.com/7790983.html",
-        "published_date": "Tue, 02 Dec 2025 11:09:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187388"
-      },
-      "f36bbd3b0859e11715402add4017b4277bff392c9097f4bb0e37c270d98710f7": {
-        "title": "罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道",
-        "link": "http://www.geekpark.net/news/357517",
-        "published_date": "Tue, 02 Dec 2025 08:41:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187389"
-      },
-      "bdf23918836da2650b566e17421369ceb1632a4ed74820ccfac56775defb950f": {
-        "title": "Java资讯汇总：Liberica JDK、Jakarta EE、Open Liberty、Quarkus、JDKUpdater、OpenXava和Gradle",
-        "link": "https://www.infoq.cn/article/wKEgJ4PBayFsHeh03bCD?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Dec 2025 09:57:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187391"
-      },
-      "8f6b845c28de4d92a815867a732b18c1ad3d28e62f63085d0804662784c2fabe": {
-        "title": "星链打击：下一代网络疑云",
-        "link": "https://www.tmtpost.com/7791419.html",
-        "published_date": "Tue, 02 Dec 2025 12:11:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187393"
-      },
-      "17ab1bd97b8208f17d08551620127953e1fabbfc62f2aa89d8eb830ca68daf78": {
-        "title": "海澜之家的“中年危机”",
-        "link": "https://www.tmtpost.com/7791253.html",
-        "published_date": "Tue, 02 Dec 2025 12:10:00 GMT",
-        "first_seen": "2025-12-02T05:21:53.187394"
-      },
       "7212622352195141ca108f6f10787ff0880cc32acbf87614c4c0ba6689ad9835": {
         "title": "做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇",
         "link": "https://www.infoq.cn/article/P3qsFR3OUbBPAu6Ks0EK?utm_source=rss&utm_medium=article",
@@ -3193,63 +3133,39 @@
         "link": "https://www.tmtpost.com/7828309.html",
         "published_date": "Wed, 31 Dec 2025 19:35:00 GMT",
         "first_seen": "2025-12-31T23:24:55.269798"
+      },
+      "b801dbac94aca2e820011cfbb8ef6ede30675f057c522e7bf4e561b613df792d": {
+        "title": "CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载",
+        "link": "https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-01T05:29:21.521122"
+      },
+      "7a1ce956591b30ae3515c7cc7da719fc9f1a34880dd3ba2a548674e6d881538a": {
+        "title": "MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？",
+        "link": "https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-01T05:29:21.521129"
+      },
+      "5807c5b93f09d872c59936a4abd71c415ea7ec50909a277b16e32d9305163ecf": {
+        "title": "AI创业公司的2025：一半是海水，一半是火焰",
+        "link": "https://www.tmtpost.com/7828472.html",
+        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-01T05:29:21.521131"
+      },
+      "7a7c09f84c510ff6feb2cdd1bbe8285c79dec138e612cb49c501e8f116d26ef3": {
+        "title": "90后AI创业者，拿到Meta数十亿美元“聘礼”",
+        "link": "https://www.tmtpost.com/7828576.html",
+        "published_date": "Thu, 01 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-01T05:29:21.521133"
+      },
+      "5076f98d492bbb547a5582efb944b00dde740c874f147cb1e72f3a7ec2330e60": {
+        "title": "车圈2025：价格战没赢家，但淘汰赛已有出局者",
+        "link": "https://www.tmtpost.com/7828479.html",
+        "published_date": "Thu, 01 Jan 2026 08:31:00 GMT",
+        "first_seen": "2026-01-01T05:29:21.521135"
       }
     },
     "Finance": {
-      "2a782144476816fdfdfd3b7592a95d628dcd5ab492cde3d62907dba2eb975405": {
-        "title": "UK pension funds dump US equities on fears of AI bubble",
-        "link": "https://www.ft.com/content/9d90d557-48e5-4f4b-a927-88071cef8ea9",
-        "published_date": "Tue, 02 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571665"
-      },
-      "667ffc717737943e1fb0a4ce17670af7f7a5cdc225524b14538134dccd6938e4": {
-        "title": "Will the next blockbuster drug come from China?",
-        "link": "https://www.ft.com/content/3bfe96d3-593c-498a-9da4-0c1ed359ff74",
-        "published_date": "Tue, 02 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571675"
-      },
-      "88defc1daefc125bb520a3fcb4b83dd65f1894164ccb6968fed2724e2ea9515a": {
-        "title": "Let me count the ways in which Labour isn’t working",
-        "link": "https://www.ft.com/content/b0ed2b64-ea71-4854-b4f8-4d540a794e40",
-        "published_date": "Tue, 02 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571678"
-      },
-      "bc60df71fbeb3b96ce8f21e1507ce83eeb9b80406eada71486304f78fec762d8": {
-        "title": "Adanola’s affordable leggings are chasing Lululemon",
-        "link": "https://www.ft.com/content/666775f5-7e1b-4345-a241-019f36ec0bb7",
-        "published_date": "Tue, 02 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571680"
-      },
-      "9052a6c6d1c785a4772baa1e2b64bb389300b148de96535129191978fdef4c8a": {
-        "title": "Fall in board pay drives fears top directors will shun London",
-        "link": "https://www.ft.com/content/e97e1bd9-154d-4c26-ac7a-9212e8a7b5c2",
-        "published_date": "Tue, 02 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571681"
-      },
-      "cc675719738ef389aae5f4efa2d698a1fd7d346b36c3a80decc71fd91b8e6819": {
-        "title": "ECB refuses to provide backstop for €140bn Ukraine loan",
-        "link": "https://www.ft.com/content/616c79ee-34de-425a-865e-e94ba10be788",
-        "published_date": "Tue, 02 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571683"
-      },
-      "a48756afc69b601baac7a145978a0ebc246b60f915ce0146c22ceeca24c9cb65": {
-        "title": "Strategy’s stock shows why it’s a trade, and not an investment",
-        "link": "https://www.marketwatch.com/story/strategys-stock-shows-why-its-a-trade-and-not-an-investment-ac1e21d0?mod=mw_rss_topstories",
-        "published_date": "Tue, 02 Dec 2025 00:42:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571684"
-      },
-      "a0126a4bff9f7a04917e00957d3f7a25958e4484b96beb5e2beffadef5ec97f9": {
-        "title": "After months of box-office busts, Hollywood roars back with ‘Zootopia 2’",
-        "link": "https://www.marketwatch.com/story/after-months-of-box-office-busts-hollywood-roars-back-with-zootopia-2-8d43b6c0?mod=mw_rss_topstories",
-        "published_date": "Mon, 01 Dec 2025 23:30:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571686"
-      },
-      "7d9b59328310adcc9a4ac53f9c069507b614b82b3eb101d62b89f6bbe66ef5b6": {
-        "title": "Vaccine stocks slide as FDA official links COVID vaccines and heart conditions in young men",
-        "link": "https://www.marketwatch.com/story/vaccine-stocks-take-a-hit-as-fda-official-points-to-link-between-covid-19-vaccines-and-rare-heart-condition-in-young-men-265ab5ab?mod=mw_rss_topstories",
-        "published_date": "Mon, 01 Dec 2025 23:22:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.571687"
-      },
       "a92decd4c7729b105cb32c8d70db11cf0af11e2fb5466fdc46dc761857e32727": {
         "title": "Demand for Japanese bonds reassures jittery markets",
         "link": "https://www.ft.com/content/8e191c52-a86c-4099-bbb8-05db76d06802",
@@ -5283,51 +5199,21 @@
         "link": "https://www.marketwatch.com/story/this-one-unavoidable-tax-can-sink-your-retirement-plan-a05d1a6b?mod=mw_rss_topstories",
         "published_date": "Wed, 31 Dec 2025 20:24:00 GMT",
         "first_seen": "2025-12-31T23:24:18.234659"
+      },
+      "332992a5edd76975063bd26830af8e38991a4d1b8b5ff9448abd8e4b46065943": {
+        "title": "Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.",
+        "link": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
+        "published_date": "Thu, 01 Jan 2026 03:27:00 GMT",
+        "first_seen": "2026-01-01T05:29:06.238640"
+      },
+      "29ddcf9fc6f09b1563d7afa037140c7b24e511631abd0b46d86de8a6bd2051ff": {
+        "title": "Chip shortages threaten 20% rise in consumer electronics prices",
+        "link": "https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755",
+        "published_date": "Thu, 01 Jan 2026 01:54:00 GMT",
+        "first_seen": "2026-01-01T05:29:06.238649"
       }
     },
     "Ai": {
-      "1711a0e33f34c57c502e796c163903fa2fd9b06edb4d82a40aefe2164bbdb061": {
-        "title": "做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-02-3",
-        "published_date": "Tue, 02 Dec 2025 11:24:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694292"
-      },
-      "15987d3d6248cf07cc9de7c1e1276429d3646c49c764f030945d638b5b32c778": {
-        "title": "刚刚，霸榜神秘视频模型身份揭晓，原来它就是「David」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-02-2",
-        "published_date": "Tue, 02 Dec 2025 10:20:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694300"
-      },
-      "034d319e31a66d5ec6c09d550cc00ad473957ca669eb740fa37509f5709414af": {
-        "title": "英伟达拿出推理版VLA：Alpamayo-R1让自动驾驶AI更会动脑子",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-02",
-        "published_date": "Tue, 02 Dec 2025 10:14:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694302"
-      },
-      "72ce9cdf6be8a7a11baa9b2e5bfadef678dcb4de9cbca57f6c2133976659fca7": {
-        "title": "PixVerse（拍我AI）V5.5发布：国内首款分镜+音频一键生成AI视频大模型",
-        "link": "https://www.qbitai.com/2025/12/358046.html",
-        "published_date": "Tue, 02 Dec 2025 03:53:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694304"
-      },
-      "18bbde4e4b8e14b789a38bd0d74ee46d16638dc5cf55df38fe5582c5f99f8990": {
-        "title": "灵光 “一闪”，330万个“闪应用”已创建",
-        "link": "https://www.qbitai.com/2025/12/358023.html",
-        "published_date": "Tue, 02 Dec 2025 03:48:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694305"
-      },
-      "2520745cd5550d89288f4c8bbe1b402ad2e6ff7f5dd72ec2183b4b8ab99a6113": {
-        "title": "中国移动亿元战略投资港科大系触觉智能企业",
-        "link": "https://www.qbitai.com/2025/12/358016.html",
-        "published_date": "Tue, 02 Dec 2025 03:42:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694306"
-      },
-      "6f62b5a746fa983806ca8dda83ec4316b45bcf6632db57ded4bd645b4ef3e81e": {
-        "title": "库克不忍了！挥刀优化苹果AI大总管",
-        "link": "https://www.qbitai.com/2025/12/357943.html",
-        "published_date": "Tue, 02 Dec 2025 01:08:00 GMT",
-        "first_seen": "2025-12-02T05:21:43.694308"
-      },
       "d6cd9b75a1feb127d117575572dcfdbb973a3820fc4b6b9b661f76d5001c2868": {
         "title": "从“数据融合”迈向“原生架构”：商汤发布 NEO 架构，重新定义多模态模型效能边界",
         "link": "https://www.jiqizhixin.com/articles/2025-12-02-14",
@@ -7667,13 +7553,25 @@
         "link": "https://www.qbitai.com/2025/12/366357.html",
         "published_date": "Wed, 31 Dec 2025 12:39:00 GMT",
         "first_seen": "2025-12-31T23:24:29.826914"
+      },
+      "d360c9003d31ba2ff2a0461bb0c0e8656baacf62c9604d35ff60077804472db9": {
+        "title": "豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试",
+        "link": "https://www.qbitai.com/2026/01/366364.html",
+        "published_date": "Thu, 01 Jan 2026 02:27:00 GMT",
+        "first_seen": "2026-01-01T05:29:06.354427"
+      },
+      "aaeb5ef39ede0456e25de54c1f89d5862ff86970b7ea41ade935fe6e8f9f58ed": {
+        "title": "2026-01-01日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-01/",
+        "published_date": "Thu, 01 Jan 2026 07:14:00 GMT",
+        "first_seen": "2026-01-01T05:29:06.354434"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-31T23:24:55.269800",
-    "Finance": "2025-12-31T23:24:18.234661",
-    "Ai": "2025-12-31T23:24:29.826916"
+    "Technology": "2026-01-01T05:29:21.521137",
+    "Finance": "2026-01-01T05:29:06.238652",
+    "Ai": "2026-01-01T05:29:06.354438"
   }
 }

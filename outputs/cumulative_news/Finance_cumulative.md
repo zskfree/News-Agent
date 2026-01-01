@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-31 23:24
+**最后更新时间**: 2026-01-01 05:29
+
+---
+
+## 🆕 最新更新 (2026-01-01 05:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.](https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories)
+**发布时间**: 2026-01-01 03:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Chip shortages threaten 20% rise in consumer electronics prices](https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755)
+**发布时间**: 2026-01-01 01:54
+
+#### [The unravelling of Saudi Arabia and the UAE’s long alliance](https://www.ft.com/content/2097d5e6-5e59-4af8-bcda-3707d8e9f9ef)
+**发布时间**: 2025-12-31 18:16
 
 ---
 
