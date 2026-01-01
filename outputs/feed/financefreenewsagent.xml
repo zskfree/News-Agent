@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 01 Jan 2026 08:32:00 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2026 08:32:39 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 23:23:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘Several’ people killed in Swiss ski resort fire</title>
-      <link>https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b</link>
-      <description>&lt;![CDATA[‘Several’ people killed in Swiss ski resort fire]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b</guid>
+      <title>Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway’s reins</title>
+      <link>https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway’s reins]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Mamdani to press ahead with tax rises for New York City millionaires</title>
-      <link>https://www.ft.com/content/8b748372-df61-460a-99fe-2cc163fd85dd</link>
-      <description>&lt;![CDATA[Mamdani to press ahead with tax rises for New York City millionaires]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8b748372-df61-460a-99fe-2cc163fd85dd</guid>
+      <title>Wall Street is starting 2026 with echoes of 2000’s dot-com woes</title>
+      <link>https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Wall Street is starting 2026 with echoes of 2000’s dot-com woes]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran offers to sell advanced weapons systems for crypto</title>
+      <link>https://www.ft.com/content/d1ceb1a4-3493-4776-ae22-c94d76dc478f</link>
+      <description>&lt;![CDATA[Iran offers to sell advanced weapons systems for crypto]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d1ceb1a4-3493-4776-ae22-c94d76dc478f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Business trends, wild cards and companies to watch in 2026</title>
+      <link>https://www.ft.com/content/c2832e0f-d858-4479-b341-def386e5cf0d</link>
+      <description>&lt;![CDATA[Business trends, wild cards and companies to watch in 2026]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c2832e0f-d858-4479-b341-def386e5cf0d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘I experienced a catastrophic financial loss’: How options trader ‘Captain Condor’ led his followers to a $50 million wipeout</title>
+      <link>https://www.marketwatch.com/story/i-experienced-a-catastrophic-financial-loss-how-options-trader-captain-condor-led-his-followers-to-a-50-million-wipeout-5cd1addd?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I experienced a catastrophic financial loss’: How options trader ‘Captain Condor’ led his followers to a $50 million wipeout]]&gt;</description>
+      <pubDate>Thu, 01 Jan 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-experienced-a-catastrophic-financial-loss-how-options-trader-captain-condor-led-his-followers-to-a-50-million-wipeout-5cd1addd?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

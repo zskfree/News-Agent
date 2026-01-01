@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 01 Jan 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2026 08:32:39 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 23:23:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>能文能武！智元首个机器人艺人天团亮相湖南卫视跨年演唱会</title>
-      <link>https://www.qbitai.com/2026/01/366397.html</link>
-      <description>&lt;![CDATA[能文能武！智元首个机器人艺人天团亮相湖南卫视跨年演唱会]]&gt;</description>
-      <pubDate>Thu, 01 Jan 2026 07:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366397.html</guid>
+      <title>刚刚，梁文锋署名，DeepSeek元旦新论文要开启架构新篇章</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-02-7</link>
+      <description>&lt;![CDATA[刚刚，梁文锋署名，DeepSeek元旦新论文要开启架构新篇章]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 01:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02-7</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>特斯拉FSD首次横穿美国，Model3实现1万英里零干预，马斯克预言兑现了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-02-5</link>
+      <description>&lt;![CDATA[特斯拉FSD首次横穿美国，Model3实现1万英里零干预，马斯克预言兑现了]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 00:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>英伟达、AMD本月起或涨价，5090两千美元变五千</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-02-2</link>
+      <description>&lt;![CDATA[英伟达、AMD本月起或涨价，5090两千美元变五千]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 00:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AAAI 2026 Oral | 给多流数据配「私教+外援」，漂移来了也不慌</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-02</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral | 给多流数据配「私教+外援」，漂移来了也不慌]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 00:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenDataArena全面升级版正式上线，四大核心模块重构数据价值评估新格局</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-02-6</link>
+      <description>&lt;![CDATA[OpenDataArena全面升级版正式上线，四大核心模块重构数据价值评估新格局]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 01:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02-6</guid>
       <category>Ai</category>
     </item>
   </channel>

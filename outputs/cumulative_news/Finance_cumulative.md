@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-01 08:32
+**最后更新时间**: 2026-01-01 23:23
+
+---
+
+## 🆕 最新更新 (2026-01-01 23:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [About 40 people killed in Swiss ski resort fire, police say](https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b)
+**发布时间**: 2026-01-01 21:48
+
+#### [US retreats from Trump’s Italian pasta tariffs](https://www.ft.com/content/670b11be-83a6-4d1e-83b7-91e65afea514)
+**发布时间**: 2026-01-01 20:46
+
+#### [Several people killed after Iranian protests turn violent](https://www.ft.com/content/4b7d0361-2fbb-4382-aa59-91594b75c7dd)
+**发布时间**: 2026-01-01 19:49
+
+#### [Business trends, wild cards and companies to watch in 2026](https://www.ft.com/content/c2832e0f-d858-4479-b341-def386e5cf0d)
+**发布时间**: 2026-01-01 15:00
+
+#### [Iran offers to sell advanced weapons systems for crypto](https://www.ft.com/content/d1ceb1a4-3493-4776-ae22-c94d76dc478f)
+**发布时间**: 2026-01-01 15:00
+
+#### [The plot against London](https://www.ft.com/content/8d1fa35e-8606-469d-8083-a97f3072aa35)
+**发布时间**: 2026-01-01 11:00
+
+#### [Trump’s momentous second year](https://www.ft.com/content/5d82c2ef-f7d1-406a-9e0d-c031c23c3448)
+**发布时间**: 2026-01-01 11:00
+
+#### [How Nokia went from iPhone victim to $1bn Nvidia deal](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060)
+**发布时间**: 2026-01-01 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway’s reins](https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories)
+**发布时间**: 2026-01-01 16:25
+
+#### [‘I experienced a catastrophic financial loss’: How options trader ‘Captain Condor’ led his followers to a $50 million wipeout](https://www.marketwatch.com/story/i-experienced-a-catastrophic-financial-loss-how-options-trader-captain-condor-led-his-followers-to-a-50-million-wipeout-5cd1addd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-01 16:03
+
+#### [Trump to spare homeowners from higher tariffs on cabinets and furniture till 2027. Here are the stocks to watch.](https://www.marketwatch.com/story/trump-will-spare-homeowners-a-50-tariff-on-cabinets-and-certain-furniture-in-2026-here-are-the-stocks-to-watch-fab3a237?mod=mw_rss_topstories)
+**发布时间**: 2026-01-01 16:03
+
+#### [Wall Street is starting 2026 with echoes of 2000’s dot-com woes](https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670?mod=mw_rss_topstories)
+**发布时间**: 2026-01-01 15:54
+
+#### [China made the world’s biggest movie last year, and — in a sea change — it didn’t need America’s help](https://www.marketwatch.com/story/china-made-the-worlds-biggest-movie-this-year-and-in-a-sea-change-it-didnt-need-america-to-do-it-45c509b3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-01 15:42
 
 ---
 
