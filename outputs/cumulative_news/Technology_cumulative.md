@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-01 23:23
+**最后更新时间**: 2026-01-02 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-02 05:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮](https://www.tmtpost.com/7829011.html)
+**发布时间**: 2026-01-02 11:55
+
+#### [2026增长的本质并没有变](https://www.tmtpost.com/7828987.html)
+**发布时间**: 2026-01-02 10:43
+
+#### [2025，这些互联网巨头赢麻了](https://www.tmtpost.com/7828731.html)
+**发布时间**: 2026-01-02 10:43
+
+#### [又是量化基金，第二个DeepSeek时刻到来了？](https://www.tmtpost.com/7829093.html)
+**发布时间**: 2026-01-02 10:42
+
+#### [Meta收购Manus的背后：AI时代的危与机](https://www.tmtpost.com/7828964.html)
+**发布时间**: 2026-01-02 08:21
+
+#### [特朗普的“充电宝”，要赴港IPO了](https://www.tmtpost.com/7828993.html)
+**发布时间**: 2026-01-02 08:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [商汤前总裁带队，港股“GPU第一股”壁仞科技开年挂牌：市值破千亿、首日涨幅领跑市场](https://www.infoq.cn/article/b7oKHuFAxNlVIGpSpGiP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-02 11:02
+
+#### [SIMA 2利用Gemini和自我改进技术在未见过的3D和逼真世界中进行泛化](https://www.infoq.cn/article/kX8Kzyl87l5Sij8lvMT7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-02 10:15
+
+#### [Docker在容器安全转型中免费提供加固镜像](https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-02 08:00
+
+#### [微软预览Foundry Agent Service长期记忆功能，简化状态管理](https://www.infoq.cn/article/fJSWBV2X88YKUCvoqI6P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-02 08:00
+
+#### [AI Coding 2025年终盘点：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手](https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-31 14:56
 
 ---
 

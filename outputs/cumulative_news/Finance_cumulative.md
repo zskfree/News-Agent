@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-01 23:23
+**最后更新时间**: 2026-01-02 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-02 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK financial watchdog closes 100 probes to sharpen enforcement focus](https://www.ft.com/content/85def7e8-a326-43f9-b78e-24a4747c6eb7)
+**发布时间**: 2026-01-02 05:00
+
+#### [China doubles down on export-led growth model](https://www.ft.com/content/079f2014-ed56-4137-89ee-561d7a8226cf)
+**发布时间**: 2026-01-02 05:00
+
+#### [The companies driving hopes of a London IPO revival in 2026](https://www.ft.com/content/60f8d98c-4ad9-4950-abcf-117802bf5007)
+**发布时间**: 2026-01-02 05:00
+
+#### [Christine Lagarde’s pay is 50% higher than disclosed by ECB](https://www.ft.com/content/c7cd22f0-efe5-40de-a448-fa9075926a6a)
+**发布时间**: 2026-01-02 05:00
+
+#### [Iran protests put president’s reform agenda to the test](https://www.ft.com/content/6f079a18-78bc-4e12-b6d5-957526761298)
+**发布时间**: 2026-01-02 05:00
+
+#### [China biotech boom drives surge in lab monkey prices](https://www.ft.com/content/9036fb08-51ce-4008-b7b0-3321ea8f3ce7)
+**发布时间**: 2026-01-02 05:00
+
+#### [Home Counties most affected by VAT on private school fees, data suggests](https://www.ft.com/content/c9790a94-5110-4369-b866-22f6e537a6f8)
+**发布时间**: 2026-01-02 05:00
+
+#### [Japan’s ‘Goldilocks crisis’ is a make-or-break moment](https://www.ft.com/content/a21e4906-a301-4abf-b050-e6a5c455e4f4)
+**发布时间**: 2026-01-01 13:23
 
 ---
 
