@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-02 08:32
+**最后更新时间**: 2026-01-02 23:20
+
+---
+
+## 🆕 最新更新 (2026-01-02 23:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [FTSE 100 tops 10,000 for first time in new year rally](https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090)
+**发布时间**: 2026-01-02 22:35
+
+#### [Volodymyr Zelenskyy overhauls Ukraine’s security apparatus](https://www.ft.com/content/73140502-f8e1-427e-b70a-04e2489cae67)
+**发布时间**: 2026-01-02 22:34
+
+#### [Tesla loses EV crown to China’s BYD](https://www.ft.com/content/c1c5f811-7b3f-4011-8e1e-cccb5aa80313)
+**发布时间**: 2026-01-02 22:31
+
+#### [HSBC files bankruptcy petitions against senior members of Barclay family](https://www.ft.com/content/1baed2f6-dd47-488e-8baf-77c5262e1bae)
+**发布时间**: 2026-01-02 19:16
+
+#### [What a Soros theory can tell us about the AI boom](https://www.ft.com/content/2ae4ac28-c496-4e02-ae7e-40bedf41a8b8)
+**发布时间**: 2026-01-02 18:00
+
+#### [Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)
+**发布时间**: 2026-01-02 17:04
+
+#### [A year that will dictate Starmer’s fate as prime minister](https://www.ft.com/content/2a0bef58-ad84-47dd-a093-178fd49552c7)
+**发布时间**: 2026-01-02 14:00
+
+#### [Computer scientist Yann LeCun: ‘Intelligence really is about learning’](https://www.ft.com/content/e3c4c2f6-4ea7-4adf-b945-e58495f836c2)
+**发布时间**: 2026-01-02 12:30
+
+#### [UK investment platforms to cut fees in effort to woo customers](https://www.ft.com/content/15d5edec-3493-457e-99ab-d135fb039027)
+**发布时间**: 2026-01-02 10:42
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Retirement investors should beware our volatile ‘Marie Antoinette’ market](https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 22:23
+
+#### [January’s first trading days predict the stock market’s year — or so they say](https://www.marketwatch.com/story/januarys-first-trading-days-predict-the-stock-markets-year-or-so-they-say-5a858b95?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 22:07
+
+#### [Stocks need to find their footing fast if investors hope to keep the bears away](https://www.marketwatch.com/story/stocks-need-to-find-their-footing-fast-if-investors-hope-to-keep-the-bears-away-8e3046cf?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 21:33
+
+#### [Tax-related selling could set up these 11 stocks for big gains early in 2026](https://www.marketwatch.com/story/tax-related-selling-could-set-up-these-11-stocks-for-big-gains-early-in-2026-e7da4f3a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 20:21
+
+#### [Could retail actually rebound in 2026? These are the chains — and trends — to watch.](https://www.marketwatch.com/story/could-retail-actually-rebound-in-2026-these-are-the-chains-and-trends-to-watch-83492ac0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 20:18
+
+#### [Tesla EV sales fall short of Wall Street’s low expectations](https://www.marketwatch.com/story/tesla-ev-sales-fall-short-of-wall-streets-low-expectations-35980885?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 19:52
+
+#### [These undervalued stocks blew away the S&P 500 in 2025 — a 2026 repeat is likely](https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 19:37
+
+#### [China is using silver as an economic weapon. What that means for investors and prices.](https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 19:02
+
+#### [Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures](https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 17:43
 
 ---
 

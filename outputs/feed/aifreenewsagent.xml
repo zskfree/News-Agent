@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Jan 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 08:32:46 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 23:21:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克宣布：量产脑机接口，手术全自动化</title>
-      <link>https://www.qbitai.com/2026/01/366444.html</link>
-      <description>&lt;![CDATA[马斯克宣布：量产脑机接口，手术全自动化]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 06:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366444.html</guid>
+      <title>LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-2</link>
+      <description>&lt;![CDATA[LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Meta重磅：让智能体摆脱人类知识的瓶颈，通往自主AI的SSR级研究</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-4</link>
+      <description>&lt;![CDATA[Meta重磅：让智能体摆脱人类知识的瓶颈，通往自主AI的SSR级研究]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>KAN作者刘子鸣：AI还没等到它的「牛顿」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-8</link>
+      <description>&lt;![CDATA[KAN作者刘子鸣：AI还没等到它的「牛顿」]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-8</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-3</link>
+      <description>&lt;![CDATA[告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-9</link>
+      <description>&lt;![CDATA[Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-9</guid>
       <category>Ai</category>
     </item>
   </channel>
