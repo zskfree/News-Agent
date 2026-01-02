@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "acc92047ab177802f0051205138cf7b88b859e6e617c47d1fa1ca9bd3948e85f": {
-        "title": "“云计算春晚”又来了！不止自研AI芯片和模型，亚马逊云科技回答了一个核心问题",
-        "link": "https://www.tmtpost.com/7793810.html",
-        "published_date": "Wed, 03 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062420"
-      },
-      "5f6293020d8dae8dd40e121526bfc476a6276ebc0b47199fd10186cda2455e00": {
-        "title": "独家 | 华为云新任CEO周跃峰首次亮相，兼任五大产品线负责人",
-        "link": "https://www.tmtpost.com/7794014.html",
-        "published_date": "Wed, 03 Dec 2025 16:18:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062429"
-      },
-      "81480c6a4549cd29ec7d40e9a91ac2201584be33fe9b6474ae0df7a709daa9d2": {
-        "title": "LSTM之父劝不动Altman，但Transformer“亲爹”已跑路：一个赛道里卷没意思，无脑scaling也不行",
-        "link": "https://www.infoq.cn/article/VpQfr4EHzUu3cMOVRsNY?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Dec 2025 16:25:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062431"
-      },
-      "fcbb3c5857c1e019485c72407edede39381c555b85311f241e429130055fed31": {
-        "title": "re:Invent 特别企划之“五天五问”Day 1 异见与共识",
-        "link": "https://www.infoq.cn/video/fQ7NHcSBQTfEXwdIlq64?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Dec 2025 14:15:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062433"
-      },
-      "055bd038236baf8b96e7dadcf98298098b52c96083edabfc7daf1617a4706c2e": {
-        "title": "Azure Virtual Desktop通过Arc-Enabled Servers实现完全混合部署",
-        "link": "https://www.infoq.cn/article/Rsdgvzk8LXEaJalQCq0j?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062435"
-      },
-      "2994c601dc06d02fecefc5f14b8f51cbb69f5f3b2101c36000078c342e781689": {
-        "title": "不筹量子完成数千万元天使轮融资，中科创星领投 | 融资速递",
-        "link": "https://www.tmtpost.com/7793947.html",
-        "published_date": "Wed, 03 Dec 2025 15:01:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062437"
-      },
-      "2c3b07601e24060cd6d49ac0cd76a07ddd88a7001d6bca2c51c823a9f872b661": {
-        "title": "影迷、影院、好莱坞都兴奋了！《疯狂动物城2》让行业“起死回生”？",
-        "link": "https://www.tmtpost.com/7793484.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062439"
-      },
-      "982bc605b703f83217facf2dccdce95a55cc1e79269f08faf039f0aa00a2d0bb": {
-        "title": "销量狂欢的B面：车企忙着发战报，经销商忙着去库存",
-        "link": "https://www.tmtpost.com/7793857.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062440"
-      },
-      "4e6e996b0d139d3a3b7978eb1550f10083dd2a0fe5ae7ff766e2d50351fa35c3": {
-        "title": "外卖大战收尾：烧光千亿，没有赢家",
-        "link": "https://www.tmtpost.com/7793168.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062442"
-      },
-      "e013f5df818e4479003271c0ce0908dc8945e943a2d4dd8721e99aa342b4c289": {
-        "title": "迈威尔Marvell：收购补短板，英伟达“平替”路快成了？",
-        "link": "https://www.tmtpost.com/7793426.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:31:22.062445"
-      },
       "5af60fd9073de17f0fdca5a0002493ee425f1c8a6918af430358012b6373518b": {
         "title": "潜力Biotech溃败，前列腺癌再成“研发黑洞”",
         "link": "https://www.tmtpost.com/7793637.html",
@@ -3073,6 +3013,36 @@
         "link": "https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
         "first_seen": "2026-01-02T05:29:21.215517"
+      },
+      "e9d52c16d05ecb317d3886b9972683d9559796f34192f85d7baf543bb4e0e097": {
+        "title": "壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮",
+        "link": "https://www.tmtpost.com/7829011.html",
+        "published_date": "Fri, 02 Jan 2026 11:55:00 GMT",
+        "first_seen": "2026-01-02T08:33:00.190275"
+      },
+      "6f3be876c82e89919aa2c3ffd39759cd80e104ebd4354352ab214b08ba841056": {
+        "title": "又是量化基金，第二个DeepSeek时刻到来了？",
+        "link": "https://www.tmtpost.com/7829093.html",
+        "published_date": "Fri, 02 Jan 2026 10:42:00 GMT",
+        "first_seen": "2026-01-02T08:33:00.190282"
+      },
+      "a36793842e267201f37ad9b3a6d8625adb2f2f57ff4219e0a281bb06f15777a2": {
+        "title": "补贴新政来了，26年新能源车有救了？",
+        "link": "https://www.tmtpost.com/7829153.html",
+        "published_date": "Fri, 02 Jan 2026 14:03:00 GMT",
+        "first_seen": "2026-01-02T08:33:00.190284"
+      },
+      "dbded659470b654599ee354f371487e8f2dc523d93f98e0cd6597fc6e1ed9ce7": {
+        "title": "特朗普的“充电宝”，要赴港IPO了",
+        "link": "https://www.tmtpost.com/7828993.html",
+        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
+        "first_seen": "2026-01-02T08:33:00.190286"
+      },
+      "3cdfabdd98a506a70bdcf95b9b0b90492ae27d6b24ac0c9a1d08ff4a0baf618c": {
+        "title": "2025，这些互联网巨头赢麻了",
+        "link": "https://www.tmtpost.com/7828731.html",
+        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
+        "first_seen": "2026-01-02T08:33:00.190288"
       }
     },
     "Finance": {
@@ -5061,39 +5031,15 @@
         "link": "https://www.ft.com/content/6f079a18-78bc-4e12-b6d5-957526761298",
         "published_date": "Fri, 02 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-02T05:29:05.124882"
+      },
+      "4fe23f8e9555c076a34781e7f5dacf46a3341b6acbc6915f39e16baaa92297c1": {
+        "title": "Donald Trump warns Iran it will ‘rescue’ protesters",
+        "link": "https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5",
+        "published_date": "Fri, 02 Jan 2026 08:19:00 GMT",
+        "first_seen": "2026-01-02T08:32:46.880880"
       }
     },
     "Ai": {
-      "1bf95f26509997f00e8d9973d7ae941f250bb7e9e57db7de7ae8fffc9c15dd2b": {
-        "title": "微软发布 UFO³：跨 PC/服务器/移动端的多设备全域智能体星系登场",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-03-7",
-        "published_date": "Wed, 03 Dec 2025 14:57:00 GMT",
-        "first_seen": "2025-12-03T08:31:12.540781"
-      },
-      "bc27c209bdf73ac00ac6bde7a0ac94e6f712b0ecf5279c7aefb9901bcc3223b2": {
-        "title": "科研人员应如何负责任地使用AI？投稿前必看官方指南及攻略已上线",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-03-6",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:31:12.540792"
-      },
-      "21b3112ffb533656f906416b19791194f7afa155f6486e1cdb77777fe64c7146": {
-        "title": "原来这届中国AI年轻人，已经卷到业界都惊了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-03-5",
-        "published_date": "Wed, 03 Dec 2025 13:33:00 GMT",
-        "first_seen": "2025-12-03T08:31:12.540794"
-      },
-      "a4cb5a4788f372b97594c78058204d22d25c39f891d864c03522d3009f72a9ac": {
-        "title": "借鉴人脑「海马体-皮层」机制，红熊AI重做了一个「记忆系统」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-03-4",
-        "published_date": "Wed, 03 Dec 2025 13:28:00 GMT",
-        "first_seen": "2025-12-03T08:31:12.540796"
-      },
-      "3f44b25c6ecc3574d1ea2889a24ecc6787cf7a277242f4e740ef8a6c295a36d4": {
-        "title": "为什么给机器人装上昂贵的触觉传感器，反而让它变笨了？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-03-3",
-        "published_date": "Wed, 03 Dec 2025 13:23:00 GMT",
-        "first_seen": "2025-12-03T08:31:12.540798"
-      },
       "2f5f4d41d23a1ecbabb000f9c5c6e2b38f1b04fcf44c77afc41503ead4d28a28": {
         "title": "刚刚，理想AI眼镜Livis正式发布，最强人工智能配件现售价1699元起",
         "link": "https://www.jiqizhixin.com/articles/2025-12-03-11",
@@ -7337,13 +7283,19 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-02-3",
         "published_date": "Fri, 02 Jan 2026 00:46:00 GMT",
         "first_seen": "2026-01-02T05:29:05.278676"
+      },
+      "0f9319663325fe8fdaee04b4f8eaf7efbb07bdab659a6ec436d3f66e900ef57e": {
+        "title": "马斯克宣布：量产脑机接口，手术全自动化",
+        "link": "https://www.qbitai.com/2026/01/366444.html",
+        "published_date": "Fri, 02 Jan 2026 06:07:00 GMT",
+        "first_seen": "2026-01-02T08:32:46.997816"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-02T05:29:21.215519",
-    "Finance": "2026-01-02T05:29:05.124885",
-    "Ai": "2026-01-02T05:29:05.278679"
+    "Technology": "2026-01-02T08:33:00.190290",
+    "Finance": "2026-01-02T08:32:46.880887",
+    "Ai": "2026-01-02T08:32:46.997826"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Jan 2026 05:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 05:29:05 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 08:32:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK financial watchdog closes 100 probes to sharpen enforcement focus</title>
-      <link>https://www.ft.com/content/85def7e8-a326-43f9-b78e-24a4747c6eb7</link>
-      <description>&lt;![CDATA[UK financial watchdog closes 100 probes to sharpen enforcement focus]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/85def7e8-a326-43f9-b78e-24a4747c6eb7</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>China doubles down on export-led growth model</title>
-      <link>https://www.ft.com/content/079f2014-ed56-4137-89ee-561d7a8226cf</link>
-      <description>&lt;![CDATA[China doubles down on export-led growth model]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/079f2014-ed56-4137-89ee-561d7a8226cf</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The companies driving hopes of a London IPO revival in 2026</title>
-      <link>https://www.ft.com/content/60f8d98c-4ad9-4950-abcf-117802bf5007</link>
-      <description>&lt;![CDATA[The companies driving hopes of a London IPO revival in 2026]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/60f8d98c-4ad9-4950-abcf-117802bf5007</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Christine Lagarde’s pay is 50% higher than disclosed by ECB</title>
-      <link>https://www.ft.com/content/c7cd22f0-efe5-40de-a448-fa9075926a6a</link>
-      <description>&lt;![CDATA[Christine Lagarde’s pay is 50% higher than disclosed by ECB]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c7cd22f0-efe5-40de-a448-fa9075926a6a</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran protests put president’s reform agenda to the test</title>
-      <link>https://www.ft.com/content/6f079a18-78bc-4e12-b6d5-957526761298</link>
-      <description>&lt;![CDATA[Iran protests put president’s reform agenda to the test]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6f079a18-78bc-4e12-b6d5-957526761298</guid>
+      <title>Donald Trump warns Iran it will ‘rescue’ protesters</title>
+      <link>https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5</link>
+      <description>&lt;![CDATA[Donald Trump warns Iran it will ‘rescue’ protesters]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5</guid>
       <category>Finance</category>
     </item>
   </channel>

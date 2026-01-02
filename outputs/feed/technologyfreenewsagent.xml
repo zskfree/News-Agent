@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Jan 2026 05:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 05:29:21 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 08:33:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SIMA 2利用Gemini和自我改进技术在未见过的3D和逼真世界中进行泛化</title>
-      <link>https://www.infoq.cn/article/kX8Kzyl87l5Sij8lvMT7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[SIMA 2利用Gemini和自我改进技术在未见过的3D和逼真世界中进行泛化]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kX8Kzyl87l5Sij8lvMT7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮</title>
+      <link>https://www.tmtpost.com/7829011.html</link>
+      <description>&lt;![CDATA[壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7829011.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软预览Foundry Agent Service长期记忆功能，简化状态管理</title>
-      <link>https://www.infoq.cn/article/fJSWBV2X88YKUCvoqI6P?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软预览Foundry Agent Service长期记忆功能，简化状态管理]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fJSWBV2X88YKUCvoqI6P?utm_source=rss&amp;utm_medium=article</guid>
+      <title>又是量化基金，第二个DeepSeek时刻到来了？</title>
+      <link>https://www.tmtpost.com/7829093.html</link>
+      <description>&lt;![CDATA[又是量化基金，第二个DeepSeek时刻到来了？]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7829093.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta收购Manus的背后：AI时代的危与机</title>
-      <link>https://www.tmtpost.com/7828964.html</link>
-      <description>&lt;![CDATA[Meta收购Manus的背后：AI时代的危与机]]&gt;</description>
+      <title>补贴新政来了，26年新能源车有救了？</title>
+      <link>https://www.tmtpost.com/7829153.html</link>
+      <description>&lt;![CDATA[补贴新政来了，26年新能源车有救了？]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7829153.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>特朗普的“充电宝”，要赴港IPO了</title>
+      <link>https://www.tmtpost.com/7828993.html</link>
+      <description>&lt;![CDATA[特朗普的“充电宝”，要赴港IPO了]]&gt;</description>
       <pubDate>Fri, 02 Jan 2026 08:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828964.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828993.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>商汤前总裁带队，港股“GPU第一股”壁仞科技开年挂牌：市值破千亿、首日涨幅领跑市场</title>
-      <link>https://www.infoq.cn/article/b7oKHuFAxNlVIGpSpGiP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[商汤前总裁带队，港股“GPU第一股”壁仞科技开年挂牌：市值破千亿、首日涨幅领跑市场]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/b7oKHuFAxNlVIGpSpGiP?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Docker在容器安全转型中免费提供加固镜像</title>
-      <link>https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker在容器安全转型中免费提供加固镜像]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2025，这些互联网巨头赢麻了</title>
+      <link>https://www.tmtpost.com/7828731.html</link>
+      <description>&lt;![CDATA[2025，这些互联网巨头赢麻了]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7828731.html</guid>
       <category>Technology</category>
     </item>
   </channel>

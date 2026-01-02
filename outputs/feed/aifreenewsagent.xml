@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 05:29:05 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 08:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 08:32:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI正在占领你的视频推荐流</title>
-      <link>https://www.qbitai.com/2026/01/366433.html</link>
-      <description>&lt;![CDATA[AI正在占领你的视频推荐流]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 03:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366433.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2</title>
-      <link>https://www.qbitai.com/2026/01/366408.html</link>
-      <description>&lt;![CDATA[「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 03:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366408.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-01-02日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-02/</link>
-      <description>&lt;![CDATA[2026-01-02日刊]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-02/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>谷歌三年逆袭：草蛇灰线，伏脉千里</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-02-4</link>
-      <description>&lt;![CDATA[谷歌三年逆袭：草蛇灰线，伏脉千里]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 00:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>系统学习Deep Research，这一篇综述就够了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-02-3</link>
-      <description>&lt;![CDATA[系统学习Deep Research，这一篇综述就够了]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 00:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-02-3</guid>
+      <title>马斯克宣布：量产脑机接口，手术全自动化</title>
+      <link>https://www.qbitai.com/2026/01/366444.html</link>
+      <description>&lt;![CDATA[马斯克宣布：量产脑机接口，手术全自动化]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 06:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366444.html</guid>
       <category>Ai</category>
     </item>
   </channel>
