@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Jan 2026 05:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 05:24:52 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 08:29:00 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 08:29:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘I’m on a fixed budget’: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?</title>
-      <link>https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘I’m on a fixed budget’: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here are the most popular Moneyist columns of 2025</title>
-      <link>https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Here are the most popular Moneyist columns of 2025]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 01:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories</guid>
+      <title>Explosions hit Venezuelan capital Caracas</title>
+      <link>https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346</link>
+      <description>&lt;![CDATA[Explosions hit Venezuelan capital Caracas]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 08:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346</guid>
       <category>Finance</category>
     </item>
   </channel>

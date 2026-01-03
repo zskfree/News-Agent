@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f7f0e8c222562bf2f916e52797c0d3aa83ac8988566f9a5cec15b2d8fe60eb3a": {
-        "title": "穗升科技完成红杉种子领投数百万美元天使轮融资，前安克全球CMO王时远进军AI记忆赛道 | 融资速递",
-        "link": "https://www.tmtpost.com/7795129.html",
-        "published_date": "Thu, 04 Dec 2025 10:27:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.964985"
-      },
-      "a0c3a32ffc3928cb5a41f4bb232732db39d1de2a36883ac1dadfc80d9558e61d": {
-        "title": "迎接新的AI赢家：Alphabet、特斯拉，甚至还有大型制药和生物科技公司",
-        "link": "https://www.tmtpost.com/7795156.html",
-        "published_date": "Thu, 04 Dec 2025 09:42:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.964994"
-      },
-      "98cdd41bf6abf911d08c62a544f272738c01c8cf02343b556be7af2ed492b7c2": {
-        "title": "黄仁勋与特朗普会面，对华芯片出口管制或将放松",
-        "link": "https://www.tmtpost.com/7794936.html",
-        "published_date": "Thu, 04 Dec 2025 09:23:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.964995"
-      },
-      "938c3c6c6172c4f6f938b92dfc879bd7146ec4931e73c28e901f65ae9a49a1f8": {
-        "title": "36亿“蛇吞象”失败，翻倍牛股终止收购浩鲸科技；“女装大王”跨界收购四川茵地乐草案出炉；【并购一线】",
-        "link": "https://www.tmtpost.com/7794891.html",
-        "published_date": "Thu, 04 Dec 2025 08:48:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.964997"
-      },
-      "176c4f113e5124c45269cb8d23bdcad38769f652becf68c0f2a0fca7fce6cd40": {
-        "title": "豆包手机底层系统被曝是锤子SmartisanOS！官方深夜回应微信登录异常等",
-        "link": "https://www.infoq.cn/article/yAN18620m69IeFwYZrMB?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Dec 2025 12:27:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.964999"
-      },
-      "2f030d965ff30c63497f27c83f19fbc6bbaed863016e452eb0918f9196e1672c": {
-        "title": "AI 早已不是远方的科技，而是触手可及的 “在手之物”",
-        "link": "https://www.infoq.cn/video/8kzetKHNAy0UN1iDkD2I?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Dec 2025 12:05:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.965000"
-      },
-      "af017a359bfa161c7237e44f1c5d462feb3590123b9104f4f1f8651d7aedaf1d": {
-        "title": "派早报：一加推出 Ace 6T、理想发布 Livis 智能眼镜等",
-        "link": "https://sspai.com/post/104291",
-        "published_date": "Thu, 04 Dec 2025 08:32:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.965002"
-      },
-      "5e623d8e68a0fae47e10dd3abac1df2b440f1cb816919949923b87dfe3223263": {
-        "title": "​豆包手机或存「隐私问题」，官方：不在云端存储画面；理想发布 AI 眼镜，1699 元；美光推出零售存储，专注 AI 存储",
-        "link": "http://www.geekpark.net/news/357588",
-        "published_date": "Thu, 04 Dec 2025 08:36:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.965004"
-      },
-      "4eba4d77b45a302935f0112c3f41317f7be192f146a6932e68b6d89d8b755d46": {
-        "title": "这家芯片制造商今日成为标普500指数中表现最好的股票，本季度业绩非常出色",
-        "link": "https://www.tmtpost.com/7795565.html",
-        "published_date": "Thu, 04 Dec 2025 13:05:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.965006"
-      },
-      "71649a9e333b2f44023b1fd2ece114e4128bb176eaa8ce776e9553771db14808": {
-        "title": "人工智能正推动全球公用事业类股票走强：把握这一趋势的三大投资思路",
-        "link": "https://www.tmtpost.com/7795562.html",
-        "published_date": "Thu, 04 Dec 2025 13:04:00 GMT",
-        "first_seen": "2025-12-04T05:26:37.965008"
-      },
       "8e6efa986b2ca709505a1ac849a184c536aace058a4ebd6a2561d9e2d9c56da4": {
         "title": "四年砸下10亿，万有引力用三款专用芯片，证明MR还没死",
         "link": "http://www.geekpark.net/news/357617",
@@ -3043,51 +2983,27 @@
         "link": "https://www.tmtpost.com/7829459.html",
         "published_date": "Sat, 03 Jan 2026 10:34:00 GMT",
         "first_seen": "2026-01-03T05:25:09.528267"
+      },
+      "c3f81261be0b77835c626ab46064916688a2d584730e618d1c482c064b710e12": {
+        "title": "\"最快女护士\"张水华辞职了，那些嘲讽她的人终究没看懂这场突围",
+        "link": "https://www.tmtpost.com/7829469.html",
+        "published_date": "Sat, 03 Jan 2026 15:39:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.814611"
+      },
+      "d17626b1dffd2f0d57ba227f7032455bad06f5f60ef7ed3c4ee0ccdf3c870906": {
+        "title": "车企2026谁家强？我们列出了13家看好与“欠佳”",
+        "link": "http://www.huxiu.com/article/4821950.html?f=wangzhan",
+        "published_date": "Sat, 03 Jan 2026 07:39:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.814618"
+      },
+      "3d43161bb71d648943768bd2f943a9fe67b71cc30c9e8314800fd6387d403a78": {
+        "title": "2025爆综盘点：“市场嗅觉”大比拼",
+        "link": "https://www.tmtpost.com/7829328.html",
+        "published_date": "Sat, 03 Jan 2026 10:48:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.814620"
       }
     },
     "Finance": {
-      "a402b2505135908a91b4f8ebf7de98e6503485089edf1a8102ca89b6d7a5d834": {
-        "title": "US halted plans to sanction Chinese spy agency to maintain trade truce",
-        "link": "https://www.ft.com/content/61016803-baf5-4be5-8350-e0cc5ca4ab26",
-        "published_date": "Thu, 04 Dec 2025 04:22:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317187"
-      },
-      "1d2766537049c6c7884ee21f18c47bc0fb0022aa21d1192be249ac3f0757b06f": {
-        "title": "Japanese 10-year bond yields rise to highest level since 2007",
-        "link": "https://www.ft.com/content/9818c1f0-c6b6-44b4-9a63-deeeca528365",
-        "published_date": "Thu, 04 Dec 2025 03:41:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317196"
-      },
-      "dedc8f90f8070b03ae301e6dfac9c5af450232b96d2a54155a40c8530fc89a9a": {
-        "title": "How Brendan Nelson became HSBC’s stop-gap chair",
-        "link": "https://www.ft.com/content/c84325e6-44c2-4b13-a815-b1898cd87bd4",
-        "published_date": "Thu, 04 Dec 2025 00:01:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317199"
-      },
-      "2fd5dd3a15d24c94db9a48d77ee8086ff7508ad199305863436e7cce8432f565": {
-        "title": "Salesforce cheers ‘a powerful pipeline of future revenue’ as its stock ticks higher",
-        "link": "https://www.marketwatch.com/story/salesforce-cheers-a-powerful-pipeline-of-future-revenue-as-its-stock-zooms-higher-b613e9b5?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Dec 2025 01:17:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317201"
-      },
-      "8f9951dd1d991353bc86820455a2432009fa4a5b542a3d04bf78ff07f4793acd": {
-        "title": "Fiserv execs bet $1.5 million on a turnaround, and the stock pops",
-        "link": "https://www.marketwatch.com/story/fiserv-execs-bet-1-5-million-on-a-turnaround-and-the-stock-pops-32f9d01e?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Dec 2025 00:27:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317202"
-      },
-      "8cdd8d40f07880fb821545832af1f003251cbd6583d4112d728857104dc6e80b": {
-        "title": "As Marvell’s stock rises on an upbeat forecast, analysts still have these questions",
-        "link": "https://www.marketwatch.com/story/as-marvells-stock-rises-on-an-upbeat-forecast-analysts-still-have-these-questions-18b30d51?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Dec 2025 00:24:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317204"
-      },
-      "927c5db00c6f34b479b5895e7659057ec3e63c7b1faa2027c5240f50482adc17": {
-        "title": "Microsoft’s stock falls on reported AI sales woes. Should investors worry?",
-        "link": "https://www.marketwatch.com/story/microsofts-stock-falls-on-reported-ai-sales-woes-should-investors-worry-8273cdf1?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Dec 2025 23:57:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.317205"
-      },
       "256b0696d769ce9a25bbb83c70fbc51245b336ffbd11e7a99e878942c7b95669": {
         "title": "Reform UK gets record £9mn donation from Christopher Harborne",
         "link": "https://www.ft.com/content/db73535f-7d9d-4586-b53a-a690d3b0e36d",
@@ -5019,57 +4935,15 @@
         "link": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
         "published_date": "Sat, 03 Jan 2026 01:25:00 GMT",
         "first_seen": "2026-01-03T05:24:52.447491"
+      },
+      "19eecbc7dd130d8f010bc9cbd3191597dd81786936e14bac736624e9c73d2c83": {
+        "title": "Explosions hit Venezuelan capital Caracas",
+        "link": "https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346",
+        "published_date": "Sat, 03 Jan 2026 08:10:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.614572"
       }
     },
     "Ai": {
-      "62f4207fef62526de4c9e1ee9280c5d96ba49f640a5e39172808a17e7fe6f945": {
-        "title": "美国各州正建设自己专用的AI用超级计算机，意在加速各项研究进程",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-4",
-        "published_date": "Thu, 04 Dec 2025 12:05:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443520"
-      },
-      "725033f2c1aa8802024af752da39052781e4401ac9f9edf7adf7a9f6c7c2afc3": {
-        "title": "全球顶尖AI科学家齐聚“大晓机器人”， 将于12月18日开源“开悟”世界模型（Kairos 3.0）",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-3",
-        "published_date": "Thu, 04 Dec 2025 11:53:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443527"
-      },
-      "ebe1bf78374827667aefb27cc2b1adc664ec4855b0c1ef2e343280cf90760c87": {
-        "title": "ICLR重磅回应：评审回滚、AC重置、封禁泄密者、严查贿赂串通",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-2",
-        "published_date": "Thu, 04 Dec 2025 11:31:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443529"
-      },
-      "f67230a0352dc3d99d31f622f84807a8ca7869d5add08b55d179df2a5694c8fe": {
-        "title": "估值7.5亿美元初创意欲「撬动」8000亿半导体市场？前谷歌AlphaChip主导者创业研发「AI芯片设计自动化」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04",
-        "published_date": "Thu, 04 Dec 2025 11:26:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443530"
-      },
-      "3f8fe36bfcdbd05a3a31e54d1f6ea0eaa9649b43c36c5bf71f1568f144f33957": {
-        "title": "记忆张量 × 商汤大装置：国产 GPGPU 推理成本反超 A100！",
-        "link": "https://www.qbitai.com/2025/12/358566.html",
-        "published_date": "Thu, 04 Dec 2025 03:07:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443532"
-      },
-      "604d4919aa6e0b85aeb9ef62337126f451cd14cfc5c59be14599ce572463b5a2": {
-        "title": "清华成立具身智能与机器人研究院",
-        "link": "https://www.qbitai.com/2025/12/358555.html",
-        "published_date": "Thu, 04 Dec 2025 01:02:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443534"
-      },
-      "eb9a8534b0ead00b15572622d9822d70e2d6f1cbf56e979490c6528ac6eec664": {
-        "title": "DeepSeekV3.2技术报告还是老外看得细",
-        "link": "https://www.qbitai.com/2025/12/358490.html",
-        "published_date": "Thu, 04 Dec 2025 00:55:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443535"
-      },
-      "78ffebbc4c4468c7e5c43693e2c04c7a7513162d3575510ce4de328004798de6": {
-        "title": "后生可畏！何恺明团队新成果发布，共一清华姚班大二在读",
-        "link": "https://www.qbitai.com/2025/12/358411.html",
-        "published_date": "Thu, 04 Dec 2025 00:50:00 GMT",
-        "first_seen": "2025-12-04T05:26:28.443536"
-      },
       "b640e9aa15ee9396ebcd79714415e4c0d94fe6b6e3fefc473eb3bc0660ce5908": {
         "title": "碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架",
         "link": "https://www.jiqizhixin.com/articles/2025-12-04-9",
@@ -7307,13 +7181,31 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-03",
         "published_date": "Sat, 03 Jan 2026 00:06:00 GMT",
         "first_seen": "2026-01-03T05:24:52.566120"
+      },
+      "601496657a4111d6cf695088e5c8719ae2c6dc6986df852e723057a4d80395cb": {
+        "title": "中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊",
+        "link": "https://www.qbitai.com/2026/01/366477.html",
+        "published_date": "Sat, 03 Jan 2026 07:02:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.732526"
+      },
+      "a02b27025d2ac49915e99600b0b7b701873d5565d8d78b6efcaca75553c13d95": {
+        "title": "机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满",
+        "link": "https://www.qbitai.com/2026/01/366466.html",
+        "published_date": "Sat, 03 Jan 2026 06:30:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.732534"
+      },
+      "58d7d6ff84c4ceb644ba301803bbb370b067d50779590b32bf0a0e1dc297744b": {
+        "title": "百度AI芯片公司冲刺IPO：出货量国产第二",
+        "link": "https://www.qbitai.com/2026/01/366454.html",
+        "published_date": "Sat, 03 Jan 2026 06:26:00 GMT",
+        "first_seen": "2026-01-03T08:29:54.732537"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-03T05:25:09.528269",
-    "Finance": "2026-01-03T05:24:52.447494",
-    "Ai": "2026-01-03T05:24:52.566123"
+    "Technology": "2026-01-03T08:29:54.814622",
+    "Finance": "2026-01-03T08:29:54.614581",
+    "Ai": "2026-01-03T08:29:54.732539"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Jan 2026 23:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 05:24:52 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 08:29:00 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 08:29:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-01-03日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-03/</link>
-      <description>&lt;![CDATA[2026-01-03日刊]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-03/</guid>
+      <title>中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊</title>
+      <link>https://www.qbitai.com/2026/01/366477.html</link>
+      <description>&lt;![CDATA[中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366477.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>自回归也能做强视觉模型？NEPA开启「下一嵌入预测」时代，谢赛宁参与</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-7</link>
-      <description>&lt;![CDATA[自回归也能做强视觉模型？NEPA开启「下一嵌入预测」时代，谢赛宁参与]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-7</guid>
+      <title>机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满</title>
+      <link>https://www.qbitai.com/2026/01/366466.html</link>
+      <description>&lt;![CDATA[机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366466.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-6</link>
-      <description>&lt;![CDATA[「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>让模型自己找关键帧、视觉线索，小红书Video-Thinker破解视频推理困局</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-5</link>
-      <description>&lt;![CDATA[让模型自己找关键帧、视觉线索，小红书Video-Thinker破解视频推理困局]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>重新定义视频大模型时序定位！南大腾讯联合提出TimeLens，数据+算法全方位升级</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03</link>
-      <description>&lt;![CDATA[重新定义视频大模型时序定位！南大腾讯联合提出TimeLens，数据+算法全方位升级]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03</guid>
+      <title>百度AI芯片公司冲刺IPO：出货量国产第二</title>
+      <link>https://www.qbitai.com/2026/01/366454.html</link>
+      <description>&lt;![CDATA[百度AI芯片公司冲刺IPO：出货量国产第二]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366454.html</guid>
       <category>Ai</category>
     </item>
   </channel>
