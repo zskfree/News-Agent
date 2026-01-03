@@ -6,7 +6,7 @@
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Fri, 02 Jan 2026 23:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 23:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 05:24:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-2</link>
-      <description>&lt;![CDATA[LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-2</guid>
+      <title>2026-01-03日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-03/</link>
+      <description>&lt;![CDATA[2026-01-03日刊]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-03/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meta重磅：让智能体摆脱人类知识的瓶颈，通往自主AI的SSR级研究</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-4</link>
-      <description>&lt;![CDATA[Meta重磅：让智能体摆脱人类知识的瓶颈，通往自主AI的SSR级研究]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-4</guid>
+      <title>自回归也能做强视觉模型？NEPA开启「下一嵌入预测」时代，谢赛宁参与</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-7</link>
+      <description>&lt;![CDATA[自回归也能做强视觉模型？NEPA开启「下一嵌入预测」时代，谢赛宁参与]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>KAN作者刘子鸣：AI还没等到它的「牛顿」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-8</link>
-      <description>&lt;![CDATA[KAN作者刘子鸣：AI还没等到它的「牛顿」]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-8</guid>
+      <title>「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-6</link>
+      <description>&lt;![CDATA[「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-3</link>
-      <description>&lt;![CDATA[告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-3</guid>
+      <title>让模型自己找关键帧、视觉线索，小红书Video-Thinker破解视频推理困局</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03-5</link>
+      <description>&lt;![CDATA[让模型自己找关键帧、视觉线索，小红书Video-Thinker破解视频推理困局]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-03-9</link>
-      <description>&lt;![CDATA[Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 00:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03-9</guid>
+      <title>重新定义视频大模型时序定位！南大腾讯联合提出TimeLens，数据+算法全方位升级</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-03</link>
+      <description>&lt;![CDATA[重新定义视频大模型时序定位！南大腾讯联合提出TimeLens，数据+算法全方位升级]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 00:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-03</guid>
       <category>Ai</category>
     </item>
   </channel>
