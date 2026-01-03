@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8e6efa986b2ca709505a1ac849a184c536aace058a4ebd6a2561d9e2d9c56da4": {
-        "title": "四年砸下10亿，万有引力用三款专用芯片，证明MR还没死",
-        "link": "http://www.geekpark.net/news/357617",
-        "published_date": "Thu, 04 Dec 2025 16:28:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553359"
-      },
-      "c7657f3a1ea08c2a30fa9bc88363418b25e2c0793aa26228e45ec49debc81bf7": {
-        "title": "抢到票的必读：创新大会 2026 超全攻略！",
-        "link": "http://www.geekpark.net/news/357613",
-        "published_date": "Thu, 04 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553367"
-      },
-      "f4400215129ef2a19bd52c94505bfc95b64c2a41a0850c1d52bf731b28d53f50": {
-        "title": "港投公司首份年报亮相：总资产超640亿港元，硬科技投资占比超七成 | 公司动态",
-        "link": "https://www.tmtpost.com/7795302.html",
-        "published_date": "Thu, 04 Dec 2025 15:06:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553369"
-      },
-      "6170e239a3879c38732182412f69d04d092c0ead760e80ff3d49f6d8496bd597": {
-        "title": "谷歌全新推出的LiteRT加速器为骁龙平台安卓设备的AI工作负载注入强劲动力",
-        "link": "https://www.infoq.cn/article/muCJpeF9WrIpu4vO3Pv2?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553371"
-      },
-      "7db990611ffad3062eb4e1223109c63a0385aeef8acceaa60e774673c6c802c7": {
-        "title": "甜蜜生意萎缩，糖果正被谁抛弃？",
-        "link": "https://www.tmtpost.com/7795078.html",
-        "published_date": "Thu, 04 Dec 2025 16:19:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553372"
-      },
-      "f39f7ce6cffb9c9aa996f0474b40a346426510e26c23744b7dedd7df37b64c4a": {
-        "title": "ChatGPT 诞生三年，OpenAI 还未取得绝对领先",
-        "link": "https://www.tmtpost.com/7795449.html",
-        "published_date": "Thu, 04 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553374"
-      },
-      "1d8ae7d1d49261a6aa1d5b43cf542f8332c97a9e7f3dccd93f31d1b1cfd3e839": {
-        "title": "“宁波铜王”财富大挪移，34亿元股票赠儿女",
-        "link": "https://www.tmtpost.com/7794783.html",
-        "published_date": "Thu, 04 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553376"
-      },
-      "1d9e61f25f503483c248aaeeefc2c9ca13b62e101b2f89cb37cb4614cf625cb6": {
-        "title": "拼命化债的香港郑氏家族，要卖瑰丽酒店？",
-        "link": "https://www.tmtpost.com/7795239.html",
-        "published_date": "Thu, 04 Dec 2025 13:30:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553377"
-      },
-      "1b4cac1f2aa260b71c3dd2eff9188b67e8340dfdd132d6c38773b20395415067": {
-        "title": "深入 iPhone 17 Pro：把 ProRes RAW 和 Open Gate 一次讲清楚",
-        "link": "https://sspai.com/post/104213",
-        "published_date": "Thu, 04 Dec 2025 14:59:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553380"
-      },
-      "491419cd02df1c7e3634f6bf63d48bbceb73646111d7a6608378af7932d2340e": {
-        "title": "十年之后再出发，Apple 北京荟聚抢先看",
-        "link": "https://sspai.com/post/104301",
-        "published_date": "Thu, 04 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-04T08:37:00.553382"
-      },
       "43c72ec0512cddda6d82927dac0f2494eecd5f0f12d87ef60d27d1c9f46938f3": {
         "title": "多晶硅期货创新高、破6万，谁是这场游戏的大赢家？",
         "link": "https://www.tmtpost.com/7795002.html",
@@ -3001,21 +2941,39 @@
         "link": "https://www.tmtpost.com/7829328.html",
         "published_date": "Sat, 03 Jan 2026 10:48:00 GMT",
         "first_seen": "2026-01-03T08:29:54.814620"
+      },
+      "6652dda7d150693517064fe0094274f239cac2eaab9be6fd611f2645a1e97173": {
+        "title": "新年第一问：“舞动”2025之后，机器人行业如何挺进2026？",
+        "link": "https://www.tmtpost.com/7829542.html",
+        "published_date": "Sat, 03 Jan 2026 17:50:00 GMT",
+        "first_seen": "2026-01-03T23:21:44.568150"
+      },
+      "89f0af01ed01fc95d46b25bd47905fca0d7eed425754e6efe0e9a11bb2fba86e": {
+        "title": "从全年销量看腾势：一个跑通的高端品牌样本",
+        "link": "https://www.tmtpost.com/7829518.html",
+        "published_date": "Sat, 03 Jan 2026 17:46:00 GMT",
+        "first_seen": "2026-01-03T23:21:44.568156"
+      },
+      "cb5808d0bd4cecd4998aa6758d4984c6fc68b4e4ca734fdf439a734763198123": {
+        "title": "分析师：波音是长期赢家，英伟达、Aflac等也值得关注",
+        "link": "https://www.tmtpost.com/7829599.html",
+        "published_date": "Sat, 03 Jan 2026 19:06:00 GMT",
+        "first_seen": "2026-01-03T23:21:44.568158"
+      },
+      "56231809077f3a6238f5fa9598c1ce8eb29df6bf6f6abec220c1fc25f1202011": {
+        "title": "告别舒适区，银行从“债主”变身“股东”",
+        "link": "https://www.tmtpost.com/7829602.html",
+        "published_date": "Sat, 03 Jan 2026 19:09:00 GMT",
+        "first_seen": "2026-01-03T23:21:44.568160"
+      },
+      "d9bbcd8e359b8222a55b3a40e9c703d0ab03a877080a28b0468a3960c7f1ee73": {
+        "title": "富国银行：2026年股市将上涨，但过程将充满波动",
+        "link": "https://www.tmtpost.com/7829596.html",
+        "published_date": "Sat, 03 Jan 2026 19:06:00 GMT",
+        "first_seen": "2026-01-03T23:21:44.568161"
       }
     },
     "Finance": {
-      "256b0696d769ce9a25bbb83c70fbc51245b336ffbd11e7a99e878942c7b95669": {
-        "title": "Reform UK gets record £9mn donation from Christopher Harborne",
-        "link": "https://www.ft.com/content/db73535f-7d9d-4586-b53a-a690d3b0e36d",
-        "published_date": "Thu, 04 Dec 2025 08:11:00 GMT",
-        "first_seen": "2025-12-04T08:36:50.960262"
-      },
-      "1db43a829e82f777855b50cd16d77885c66ea80aa45d8ff2a3cebff3fad2fb81": {
-        "title": "Stocks’ irrational rate-cut rally",
-        "link": "https://www.ft.com/content/b886ec91-982b-4719-ac58-9d7f3f8e2b5c",
-        "published_date": "Thu, 04 Dec 2025 06:30:00 GMT",
-        "first_seen": "2025-12-04T08:36:50.960274"
-      },
       "aac962d3f36891b4f6426c5810387a1624d90280f3436a8d3018fba6d39b7e6f": {
         "title": "The stock market is verging on a holiday breakout — taking gold and silver with it",
         "link": "https://www.marketwatch.com/story/the-stock-market-is-verging-on-a-holiday-breakout-taking-gold-and-silver-with-it-34469840?mod=mw_rss_topstories",
@@ -4941,51 +4899,39 @@
         "link": "https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346",
         "published_date": "Sat, 03 Jan 2026 08:10:00 GMT",
         "first_seen": "2026-01-03T08:29:54.614572"
+      },
+      "4ffb216b4e1dcf37f64d1725eeb1d84a6026c458550e67ffc328ab53abca2871": {
+        "title": "‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?",
+        "link": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
+        "published_date": "Sat, 03 Jan 2026 20:29:00 GMT",
+        "first_seen": "2026-01-03T23:21:25.339438"
+      },
+      "3631f8d8d3d35d38a0cf1117ed5d1e1d36d743de1aca2e7f8aacd87b511e4f5d": {
+        "title": "Trump says U.S. has captured Maduro and will ‘run’ Venezuela. What happens next in markets.",
+        "link": "https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories",
+        "published_date": "Sat, 03 Jan 2026 17:44:00 GMT",
+        "first_seen": "2026-01-03T23:21:25.339446"
+      },
+      "0c1211fa2154a16abae73e404492c6011d3f3e7144a87222bf796743143e1679": {
+        "title": "America once had enough silver to meet its needs. But that’s been outsourced, too.",
+        "link": "https://www.marketwatch.com/story/america-once-had-enough-silver-to-meet-its-needs-but-thats-been-outsourced-too-87729b60?mod=mw_rss_topstories",
+        "published_date": "Sat, 03 Jan 2026 17:02:00 GMT",
+        "first_seen": "2026-01-03T23:21:25.339449"
+      },
+      "64aea97a76c193d6c411c3aeac5ea52aceac1fe03b3e357c3a3170c56fc494ee": {
+        "title": "Maduro is out but what comes next for Venezuelans remains unclear",
+        "link": "https://www.ft.com/content/43e887d2-ffe8-4443-badd-560b76071277",
+        "published_date": "Sat, 03 Jan 2026 20:07:00 GMT",
+        "first_seen": "2026-01-03T23:21:25.339451"
+      },
+      "85c28ae87c4e1f1388bb66f51676a98ef6fb5033bf5bdfd8b1425675c6826c46": {
+        "title": "Nicolás Maduro arrives at military base in New York",
+        "link": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
+        "published_date": "Sat, 03 Jan 2026 22:17:00 GMT",
+        "first_seen": "2026-01-03T23:21:25.339453"
       }
     },
     "Ai": {
-      "b640e9aa15ee9396ebcd79714415e4c0d94fe6b6e3fefc473eb3bc0660ce5908": {
-        "title": "碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-9",
-        "published_date": "Thu, 04 Dec 2025 16:28:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088072"
-      },
-      "ff257c12863e674a323bd1fd36acd4cc9ccd4c19b32db93455d944270b4cc138": {
-        "title": "刚刚，云计算一哥出手，大家AI Agent自由了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-8",
-        "published_date": "Thu, 04 Dec 2025 14:38:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088080"
-      },
-      "50438adc642691d2290e413c8654a7f10e3efdb7189f0ea0318f2e7e84389766": {
-        "title": "从MiniMax到DeepSeek：为何头部大模型都在押注「交错思维」？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-7",
-        "published_date": "Thu, 04 Dec 2025 14:30:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088083"
-      },
-      "cb7669895cfbba82501f0780b3472d60b73e3735b51da8486814df0177f9e06c": {
-        "title": "挑战ReAct！MetaGPT团队提出ReCode智能体新范式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-6",
-        "published_date": "Thu, 04 Dec 2025 14:16:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088084"
-      },
-      "fc18856bc7ff42df631ad133bf06a21ecd6528c924b6009e9a2d754008e52457": {
-        "title": "科大讯飞获首届“AI领航杯”大赛技术创新奖及AI+安全赛道一等奖",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-5",
-        "published_date": "Thu, 04 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088086"
-      },
-      "878de7ac9e07d52a106ad576ba784d8d2f354f5e450d7d673fd0c273461737f4": {
-        "title": "又一高管弃库克而去！苹果UI设计负责人转投Meta",
-        "link": "https://www.qbitai.com/2025/12/358601.html",
-        "published_date": "Thu, 04 Dec 2025 07:41:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088087"
-      },
-      "9fbf9788256a4940caa2eadcc3e70da1a8c96b8bc0f30974ff8f329d05a60687": {
-        "title": "误入人均10个顶级offer的技术天团活动，顶尖AI人才的选择逻辑我悟了",
-        "link": "https://www.qbitai.com/2025/12/358582.html",
-        "published_date": "Thu, 04 Dec 2025 06:02:00 GMT",
-        "first_seen": "2025-12-04T08:36:51.088089"
-      },
       "55dfabb70e3c4d553a86fe3fe7ce6215deaafed4a707b3b371186937de82f4cc": {
         "title": "Titans + MIRAS: Helping AI have long-term memory",
         "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
@@ -7199,13 +7145,43 @@
         "link": "https://www.qbitai.com/2026/01/366454.html",
         "published_date": "Sat, 03 Jan 2026 06:26:00 GMT",
         "first_seen": "2026-01-03T08:29:54.732537"
+      },
+      "d4124dd79e3e1ad1b6926716ff99644b5033320aa3cb608f208524e1e9f442c2": {
+        "title": "LeCun在Meta还有论文：JEPA物理规划的「终极指南」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-3",
+        "published_date": "Sun, 04 Jan 2026 01:29:00 GMT",
+        "first_seen": "2026-01-03T23:21:36.043068"
+      },
+      "51523ba2269b5a0ef7fb0656de4745ec5a9ed11643ed2d3285d5179206bd2f65": {
+        "title": "ControlNet作者张吕敏最新论文：长视频也能实现超短上下文",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-5",
+        "published_date": "Sun, 04 Jan 2026 01:39:00 GMT",
+        "first_seen": "2026-01-03T23:21:36.043074"
+      },
+      "7838cc38787632cb9e6d5d56209b36e3f19e3c3cc4a264ed3e06c9084c0a57e7": {
+        "title": "微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-2",
+        "published_date": "Sun, 04 Jan 2026 01:23:00 GMT",
+        "first_seen": "2026-01-03T23:21:36.043076"
+      },
+      "a2bb0c3d0b5b630c22b9fe1febcf3c38917bfe79568022e09816ee06de9b2527": {
+        "title": "陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04",
+        "published_date": "Sun, 04 Jan 2026 01:19:00 GMT",
+        "first_seen": "2026-01-03T23:21:36.043078"
+      },
+      "54914391a29fad92bc5734eae571d54efd2bdfe3498dd36d6c5cf9d00f574204": {
+        "title": "4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-4",
+        "published_date": "Sun, 04 Jan 2026 01:33:00 GMT",
+        "first_seen": "2026-01-03T23:21:36.043079"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-03T08:29:54.814622",
-    "Finance": "2026-01-03T08:29:54.614581",
-    "Ai": "2026-01-03T08:29:54.732539"
+    "Technology": "2026-01-03T23:21:44.568163",
+    "Finance": "2026-01-03T23:21:25.339455",
+    "Ai": "2026-01-03T23:21:36.043081"
   }
 }

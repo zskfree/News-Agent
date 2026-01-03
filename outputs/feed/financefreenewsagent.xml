@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Jan 2026 08:29:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 08:29:54 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 23:21:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Explosions hit Venezuelan capital Caracas</title>
-      <link>https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346</link>
-      <description>&lt;![CDATA[Explosions hit Venezuelan capital Caracas]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346</guid>
+      <title>‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?</title>
+      <link>https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 20:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump says U.S. has captured Maduro and will ‘run’ Venezuela. What happens next in markets.</title>
+      <link>https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump says U.S. has captured Maduro and will ‘run’ Venezuela. What happens next in markets.]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 17:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>America once had enough silver to meet its needs. But that’s been outsourced, too.</title>
+      <link>https://www.marketwatch.com/story/america-once-had-enough-silver-to-meet-its-needs-but-thats-been-outsourced-too-87729b60?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[America once had enough silver to meet its needs. But that’s been outsourced, too.]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/america-once-had-enough-silver-to-meet-its-needs-but-thats-been-outsourced-too-87729b60?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Maduro is out but what comes next for Venezuelans remains unclear</title>
+      <link>https://www.ft.com/content/43e887d2-ffe8-4443-badd-560b76071277</link>
+      <description>&lt;![CDATA[Maduro is out but what comes next for Venezuelans remains unclear]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 20:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/43e887d2-ffe8-4443-badd-560b76071277</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nicolás Maduro arrives at military base in New York</title>
+      <link>https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8</link>
+      <description>&lt;![CDATA[Nicolás Maduro arrives at military base in New York]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8</guid>
       <category>Finance</category>
     </item>
   </channel>

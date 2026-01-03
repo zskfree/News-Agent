@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-03 08:29
+**最后更新时间**: 2026-01-03 23:21
+
+---
+
+## 🆕 最新更新 (2026-01-03 23:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nicolás Maduro arrives at military base in New York](https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8)
+**发布时间**: 2026-01-03 22:17
+
+#### [How the US’s audacious operation to capture Nicolás Maduro unfolded](https://www.ft.com/content/7772cf0f-c5ab-4d9c-b9a2-aa2164049c5e)
+**发布时间**: 2026-01-03 22:13
+
+#### [Trump now owns Venezuela](https://www.ft.com/content/43888865-8e3c-44fa-8901-54b8d21103f6)
+**发布时间**: 2026-01-03 20:24
+
+#### [Maduro is out but what comes next for Venezuelans remains unclear](https://www.ft.com/content/43e887d2-ffe8-4443-badd-560b76071277)
+**发布时间**: 2026-01-03 20:07
+
+#### [Trump’s strikes shock Venezuela’s capital](https://www.ft.com/content/be298195-ad2c-4328-a20f-88a6a4b59868)
+**发布时间**: 2026-01-03 14:09
+
+#### [From rising revolutionary to Trump’s captive: Venezuela’s Nicolás Maduro](https://www.ft.com/content/689b7aa1-e912-43bc-b536-6c90ef0aa7bc)
+**发布时间**: 2026-01-03 13:45
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?](https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories)
+**发布时间**: 2026-01-03 20:29
+
+#### [Trump says U.S. has captured Maduro and will ‘run’ Venezuela. What happens next in markets.](https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-03 17:44
+
+#### [America once had enough silver to meet its needs. But that’s been outsourced, too.](https://www.marketwatch.com/story/america-once-had-enough-silver-to-meet-its-needs-but-thats-been-outsourced-too-87729b60?mod=mw_rss_topstories)
+**发布时间**: 2026-01-03 17:02
 
 ---
 

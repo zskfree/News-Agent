@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Jan 2026 08:29:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 08:29:54 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 23:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 23:21:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊</title>
-      <link>https://www.qbitai.com/2026/01/366477.html</link>
-      <description>&lt;![CDATA[中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 07:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366477.html</guid>
+      <title>LeCun在Meta还有论文：JEPA物理规划的「终极指南」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-3</link>
+      <description>&lt;![CDATA[LeCun在Meta还有论文：JEPA物理规划的「终极指南」]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满</title>
-      <link>https://www.qbitai.com/2026/01/366466.html</link>
-      <description>&lt;![CDATA[机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366466.html</guid>
+      <title>ControlNet作者张吕敏最新论文：长视频也能实现超短上下文</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-5</link>
+      <description>&lt;![CDATA[ControlNet作者张吕敏最新论文：长视频也能实现超短上下文]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度AI芯片公司冲刺IPO：出货量国产第二</title>
-      <link>https://www.qbitai.com/2026/01/366454.html</link>
-      <description>&lt;![CDATA[百度AI芯片公司冲刺IPO：出货量国产第二]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 06:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366454.html</guid>
+      <title>微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-2</link>
+      <description>&lt;![CDATA[微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04</link>
+      <description>&lt;![CDATA[陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-4</link>
+      <description>&lt;![CDATA[4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-4</guid>
       <category>Ai</category>
     </item>
   </channel>
