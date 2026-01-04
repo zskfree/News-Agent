@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-04 08:30
+**最后更新时间**: 2026-01-04 23:21
+
+---
+
+## 🆕 最新更新 (2026-01-04 23:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices slip after Trump’s Venezuela strikes](https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493)
+**发布时间**: 2026-01-04 23:15
+
+#### [Denmark tells Trump to stop threatening to seize Greenland](https://www.ft.com/content/daae6947-7d25-470d-8980-43546dcd8e22)
+**发布时间**: 2026-01-04 21:23
+
+#### [Trump warns Venezuelan rulers as Washington prepares to dictate policy](https://www.ft.com/content/fed60da2-4e43-400f-9635-5f2ed8dca452)
+**发布时间**: 2026-01-04 20:48
+
+#### [Donald Trump’s reckless intervention in Venezuela](https://www.ft.com/content/7385daa7-284f-47c3-9119-ca51e992b8b9)
+**发布时间**: 2026-01-04 18:23
+
+#### [‘We will not be anyone’s colony’: Caracas government seeks to reassert control](https://www.ft.com/content/a0e1c485-03d6-4e5b-b16c-b3ca36429de9)
+**发布时间**: 2026-01-04 17:26
+
+#### [PwC ‘leans in’ to crypto as Trump and lawmakers embrace sector](https://www.ft.com/content/5e1448bc-11a2-4229-bb5c-1a322a7ad217)
+**发布时间**: 2026-01-04 15:00
+
+#### [Britain and France launch strikes on Isis facility in Syria](https://www.ft.com/content/658b6ecf-865e-44e4-b7c2-da9719e37714)
+**发布时间**: 2026-01-04 13:19
+
+#### [UK should seek ‘closer alignment’ with EU single market, Starmer says](https://www.ft.com/content/5096f5e4-a28e-4613-a51b-74277539f205)
+**发布时间**: 2026-01-04 11:46
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock market braces for a crucial jobs report after a lackluster start to 2026](https://www.marketwatch.com/story/stock-market-braces-for-a-crucial-jobs-report-after-a-lackluster-start-to-2026-8925de58?mod=mw_rss_topstories)
+**发布时间**: 2026-01-04 20:44
+
+#### [Here’s what’s worth streaming in January 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-january-2026-on-netflix-hulu-hbo-max-and-more-a53de184?mod=mw_rss_topstories)
+**发布时间**: 2026-01-04 20:36
+
+#### [Trump takedown of Venezuela’s dictator could inject price premium into oil market, strategist projects](https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-04 18:26
+
+#### [Trump says U.S. will ‘run’ Venezuela after capture of Maduro. What happens next in markets.](https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-04 15:55
+
+#### [Investors pin hopes on the ‘January barometer,’ with stocks set to skip ‘Santa Claus rally’ for a third straight year](https://www.marketwatch.com/story/investors-pin-hopes-on-the-january-barometer-with-stocks-set-to-skip-santa-claus-rally-for-a-3rd-year-343e0e77?mod=mw_rss_topstories)
+**发布时间**: 2026-01-04 14:34
 
 ---
 

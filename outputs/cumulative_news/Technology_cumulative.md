@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-04 08:30
+**最后更新时间**: 2026-01-04 23:21
+
+---
+
+## 🆕 最新更新 (2026-01-04 23:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [宇树科技上市绿色通道被叫停？王兴兴回应：“乱编的消息”](https://www.tmtpost.com/7830364.html)
+**发布时间**: 2026-01-04 20:47
+
+#### [2026新能源展望：风电、光伏和储能谁领风骚？](https://www.tmtpost.com/7830291.html)
+**发布时间**: 2026-01-04 19:13
+
+#### [2025，被AI带飞的三大赛道](https://www.tmtpost.com/7830306.html)
+**发布时间**: 2026-01-04 19:11
+
+#### [CES 2026启幕前夜，一场AI巨变正在酝酿](https://www.tmtpost.com/7830319.html)
+**发布时间**: 2026-01-04 19:11
+
+#### [2025年12月AI领域投融资分析](https://www.tmtpost.com/7830214.html)
+**发布时间**: 2026-01-04 19:11
+
+#### [5.9亿人次，同比增长19.5%，2026元旦文旅消费开门红](https://www.tmtpost.com/7830058.html)
+**发布时间**: 2026-01-04 19:11
+
+#### [宇树科技上市绿色通道被叫停？知情人士：预计1月递表](https://www.tmtpost.com/7830322.html)
+**发布时间**: 2026-01-04 19:11
+
+#### [杨立昆爆猛料：Meta Llama造假，小扎因此大换血](https://www.tmtpost.com/7830165.html)
+**发布时间**: 2026-01-04 19:11
+
+#### [有机硅DMC提前完成涨价目标，600亿“硅王”，拐点将至](https://www.tmtpost.com/7829889.html)
+**发布时间**: 2026-01-04 18:02
+
+#### [奔赴 2026，酒店业的下一站是什么？](https://www.tmtpost.com/7829900.html)
+**发布时间**: 2026-01-04 18:02
+
+#### [雅培专利围剿再升级，国产CGM遭连环阻击](https://www.tmtpost.com/7830014.html)
+**发布时间**: 2026-01-04 17:45
+
+#### [商场一层，被运动风攻占](https://www.tmtpost.com/7829845.html)
+**发布时间**: 2026-01-04 17:34
+
+#### [字节上春晚，C位不给豆包？](https://www.tmtpost.com/7829884.html)
+**发布时间**: 2026-01-04 17:11
+
+#### [CES 2026前瞻：中国车企领衔，AI与新能源技术重构出行](https://www.tmtpost.com/7830211.html)
+**发布时间**: 2026-01-04 16:59
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [芯片设备解禁？美国忽然松开管制，事出反常必有妖](http://www.huxiu.com/article/4822545.html?f=wangzhan)
+**发布时间**: 2026-01-04 20:00
+
+#### [森马大战森马](http://www.huxiu.com/article/4823210.html?f=wangzhan)
+**发布时间**: 2026-01-04 18:37
+
+#### [2026年都有哪些机会？2025年我们又错过了哪些机会？](http://www.huxiu.com/article/4822775.html?f=wangzhan)
+**发布时间**: 2026-01-04 16:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [LeCun手撕Meta：Llama 4造假，小扎直接废掉整个AI团队，锐评28岁新上司：不懂研究还瞎指挥](https://www.infoq.cn/article/SCwBiIPjcEvZsljIwzye?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 18:09
+
+#### [火山引擎多媒体实验室多项成果入选 SIGGRAPH ASIA 2025](https://www.infoq.cn/article/SdEsYIjtKfkpbf4HAr32?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 18:00
+
+#### [百度股价飙升！旗下AI芯片公司昆仑芯启动香港IPO，估值至少210亿？](https://www.infoq.cn/article/d22M0z1jvDRRrABZvTqI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 17:45
 
 ---
 
