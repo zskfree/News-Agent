@@ -2881,6 +2881,36 @@
         "link": "https://www.infoq.cn/article/OVZoXkMAKHZQSgyTPE3X?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 04 Jan 2026 09:53:00 GMT",
         "first_seen": "2026-01-04T05:29:06.225120"
+      },
+      "2acb9f6261a118a88970b614896f0c9e24a3ad2e38fb45f3f61784300acfbbf9": {
+        "title": "DeepSeek上新mHC，R2还远吗？",
+        "link": "https://www.tmtpost.com/7829944.html",
+        "published_date": "Sun, 04 Jan 2026 13:48:00 GMT",
+        "first_seen": "2026-01-04T08:31:04.631375"
+      },
+      "8bd5d3a5e572e18a8576f365d582281892073b4b33484f0be74d62af2a4f0e3a": {
+        "title": "从 SQL 到自然语言，下一代 Lakehouse 为何必须「AI 优先」",
+        "link": "https://www.infoq.cn/article/czQMOPvukyw3cVREDrKL?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Jan 2026 14:45:00 GMT",
+        "first_seen": "2026-01-04T08:31:04.631381"
+      },
+      "bdbee2c945ea0f4246d55c184e8f6709446ea8203cc39042bcaa8a2bbd047e1c": {
+        "title": "亚马逊云科技宣布推出新的Amazon EKS Capabilities，以简化工作负载编排",
+        "link": "https://www.infoq.cn/article/ssGkMmJCUTZMdJOphMJy?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Jan 2026 15:16:00 GMT",
+        "first_seen": "2026-01-04T08:31:04.631383"
+      },
+      "73295c319ac04b6d52fcd799551aa43cf0ee32051d6964526510686acc92fe71": {
+        "title": "CES 2026前瞻：黄仁勋到处赶场站台，中国军团角逐AI明日终端",
+        "link": "https://www.tmtpost.com/7829270.html",
+        "published_date": "Sun, 04 Jan 2026 10:04:00 GMT",
+        "first_seen": "2026-01-04T08:31:04.631385"
+      },
+      "6aa9c3b386249cec1c9d2426b2be496a738f30da392233bb6ceb078988bcdf5b": {
+        "title": "在AI增强的变革流中，架构师要承担何种角色？",
+        "link": "https://www.infoq.cn/article/yOgXm3cR5dUce2fU0Ou3?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Jan 2026 10:37:00 GMT",
+        "first_seen": "2026-01-04T08:31:04.631386"
       }
     },
     "Finance": {
@@ -6911,13 +6941,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-04/",
         "published_date": "Sun, 04 Jan 2026 07:14:00 GMT",
         "first_seen": "2026-01-04T05:28:50.117982"
+      },
+      "33254e4394f08639c0dbb66d6bff0855c5c7db0ead7d171c4a07b1ee195fcaf8": {
+        "title": "LeCun曝Meta作弊刷榜，田渊栋：我没想到这个结局",
+        "link": "https://www.qbitai.com/2026/01/366511.html",
+        "published_date": "Sun, 04 Jan 2026 05:44:00 GMT",
+        "first_seen": "2026-01-04T08:30:42.635395"
+      },
+      "be5dd4558bbf844edabd54662ded5e752522955763b056a64495bd052342c787": {
+        "title": "AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-8",
+        "published_date": "Sun, 04 Jan 2026 14:29:00 GMT",
+        "first_seen": "2026-01-04T08:30:42.635404"
+      },
+      "1bf9021a3b682ddfb5efcd557b58900d1f880eb6937dc757a68bc7f8bc66e0ee": {
+        "title": "统一结构与上下文信息的计算平台，德国慕尼黑大学等提出端到端的单细胞扰动分析框架",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-7",
+        "published_date": "Sun, 04 Jan 2026 14:06:00 GMT",
+        "first_seen": "2026-01-04T08:30:42.635408"
+      },
+      "d7ac0136ef3b5823df7257a69de20675dbc2ba0421da9ad0722a2d397b267479": {
+        "title": "科研人福音！一键生成PPT和科研绘图，北大开源Paper2Any，全流程可编辑",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-11",
+        "published_date": "Sun, 04 Jan 2026 16:21:00 GMT",
+        "first_seen": "2026-01-04T08:30:42.635409"
+      },
+      "6e70f03bb36802201e52ca1879f902ad315264389b336f14bedca3e50bc6bfe1": {
+        "title": "500万人在线围观，Claude Code创建者的13条独家实战秘籍爆火",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-9",
+        "published_date": "Sun, 04 Jan 2026 14:35:00 GMT",
+        "first_seen": "2026-01-04T08:30:42.635411"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-04T05:29:06.225121",
+    "Technology": "2026-01-04T08:31:04.631389",
     "Finance": "2026-01-04T05:28:50.001197",
-    "Ai": "2026-01-04T05:28:50.117985"
+    "Ai": "2026-01-04T08:30:42.635413"
   }
 }

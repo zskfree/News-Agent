@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 04 Jan 2026 05:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Jan 2026 05:29:06 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 08:30:00 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2026 08:31:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国开源AI在技术革新与生态重构的双重革命之中丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7829737.html</link>
-      <description>&lt;![CDATA[中国开源AI在技术革新与生态重构的双重革命之中丨ToB产业观察]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7829737.html</guid>
+      <title>DeepSeek上新mHC，R2还远吗？</title>
+      <link>https://www.tmtpost.com/7829944.html</link>
+      <description>&lt;![CDATA[DeepSeek上新mHC，R2还远吗？]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7829944.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【数智周报】 Copilot整合效果不佳，微软CEO亲自出马介入整改；Meta数十亿美元收购Manus，肖弘将出任Meta副总裁</title>
-      <link>https://www.tmtpost.com/7829507.html</link>
-      <description>&lt;![CDATA[【数智周报】 Copilot整合效果不佳，微软CEO亲自出马介入整改；Meta数十亿美元收购Manus，肖弘将出任Meta副总裁]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7829507.html</guid>
+      <title>从 SQL 到自然语言，下一代 Lakehouse 为何必须「AI 优先」</title>
+      <link>https://www.infoq.cn/article/czQMOPvukyw3cVREDrKL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 SQL 到自然语言，下一代 Lakehouse 为何必须「AI 优先」]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/czQMOPvukyw3cVREDrKL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】推动REITs市场高质量发展，证监会最新发声；百度：计划分拆昆仑芯并于港交所独立上市；沃伦·巴菲特正式退休，卸任伯克希尔·哈撒韦首席执行官</title>
-      <link>https://www.tmtpost.com/7828512.html</link>
-      <description>&lt;![CDATA[【钛晨报】推动REITs市场高质量发展，证监会最新发声；百度：计划分拆昆仑芯并于港交所独立上市；沃伦·巴菲特正式退休，卸任伯克希尔·哈撒韦首席执行官]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7828512.html</guid>
+      <title>亚马逊云科技宣布推出新的Amazon EKS Capabilities，以简化工作负载编排</title>
+      <link>https://www.infoq.cn/article/ssGkMmJCUTZMdJOphMJy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技宣布推出新的Amazon EKS Capabilities，以简化工作负载编排]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 15:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ssGkMmJCUTZMdJOphMJy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI重构端侧存储，AI NAS会是下一个风口么？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7829868.html</link>
-      <description>&lt;![CDATA[AI重构端侧存储，AI NAS会是下一个风口么？丨ToB产业观察]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7829868.html</guid>
+      <title>CES 2026前瞻：黄仁勋到处赶场站台，中国军团角逐AI明日终端</title>
+      <link>https://www.tmtpost.com/7829270.html</link>
+      <description>&lt;![CDATA[CES 2026前瞻：黄仁勋到处赶场站台，中国军团角逐AI明日终端]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7829270.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 GPU 成为主角：解锁 AI 集群中那 85% 的闲置 CPU 算力</title>
-      <link>https://www.infoq.cn/article/OVZoXkMAKHZQSgyTPE3X?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 GPU 成为主角：解锁 AI 集群中那 85% 的闲置 CPU 算力]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OVZoXkMAKHZQSgyTPE3X?utm_source=rss&amp;utm_medium=article</guid>
+      <title>在AI增强的变革流中，架构师要承担何种角色？</title>
+      <link>https://www.infoq.cn/article/yOgXm3cR5dUce2fU0Ou3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[在AI增强的变革流中，架构师要承担何种角色？]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yOgXm3cR5dUce2fU0Ou3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

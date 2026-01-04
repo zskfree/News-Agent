@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-04 05:28
+**最后更新时间**: 2026-01-04 08:30
+
+---
+
+## 🆕 最新更新 (2026-01-04 08:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [9.9元咖啡不再有，头部品牌为何集体“涨价”](https://www.tmtpost.com/7829916.html)
+**发布时间**: 2026-01-04 16:15
+
+#### [零售圈2025年超市十大事件](https://www.tmtpost.com/7829961.html)
+**发布时间**: 2026-01-04 16:15
+
+#### [韩束的下一程：效率之后，何以建立信任？](https://www.tmtpost.com/7829838.html)
+**发布时间**: 2026-01-04 16:15
+
+#### [HDD，为何再成焦点](https://www.tmtpost.com/7829835.html)
+**发布时间**: 2026-01-04 15:48
+
+#### [2025电影票房破518亿，但观众还信不信电影？](https://www.tmtpost.com/7829697.html)
+**发布时间**: 2026-01-04 15:48
+
+#### [大宗盘点：碳酸锂翻倍的这一年](https://www.tmtpost.com/7829772.html)
+**发布时间**: 2026-01-04 15:04
+
+#### [2026伊始，用21个趋势关键词开启文娱行业新一年](https://www.tmtpost.com/7829691.html)
+**发布时间**: 2026-01-04 14:41
+
+#### [回望2025：中国音乐产业的十个关键词](https://www.tmtpost.com/7829700.html)
+**发布时间**: 2026-01-04 14:12
+
+#### [DeepSeek上新mHC，R2还远吗？](https://www.tmtpost.com/7829944.html)
+**发布时间**: 2026-01-04 13:48
+
+#### [创新药2026：迎接美好新时代](https://www.tmtpost.com/7829825.html)
+**发布时间**: 2026-01-04 13:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技宣布推出新的Amazon EKS Capabilities，以简化工作负载编排](https://www.infoq.cn/article/ssGkMmJCUTZMdJOphMJy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 15:16
+
+#### [从 SQL 到自然语言，下一代 Lakehouse 为何必须「AI 优先」](https://www.infoq.cn/article/czQMOPvukyw3cVREDrKL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 14:45
+
+#### [东南亚和印度的开发者在2025年是如何使用AI的](https://www.infoq.cn/article/5lKZurpwRFlUo3tdLxuU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 14:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [雷军新年首播：确认汽车业务降速](http://www.huxiu.com/article/4823188.html?f=wangzhan)
+**发布时间**: 2026-01-04 15:14
+
+#### [空调业陷入“铝铜之争”，海尔美的抱团，格力为何缺席？](http://www.huxiu.com/article/4822674.html?f=wangzhan)
+**发布时间**: 2026-01-04 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [让 AI 接管 Windows 和 MacOS，这个 GitHub 开源项目牛啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530338&idx=1&sn=0207a9a3544dac385584b4c7465d1660)
+**发布时间**: 2026-01-04 15:04
 
 ---
 
