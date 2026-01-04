@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-03 23:21
+**最后更新时间**: 2026-01-04 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-04 05:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [肥了果农、坑了股民，洪九也难逃果企上市魔咒？](https://www.tmtpost.com/7829637.html)
+**发布时间**: 2026-01-04 13:06
+
+#### [CES 2026 to Open in Las Vegas as AI Moves From Innovation to Industrial Integration](https://www.tmtpost.com/7829933.html)
+**发布时间**: 2026-01-04 12:31
+
+#### [“悬疑三宝”硬核PK，谁能站上开年“C位”？](https://www.tmtpost.com/7829360.html)
+**发布时间**: 2026-01-04 12:08
+
+#### [来CES“中国创新之夜”，找到中国链接世界的“核心社交圈”](https://www.tmtpost.com/7829757.html)
+**发布时间**: 2026-01-04 11:29
+
+#### [AI重构端侧存储，AI NAS会是下一个风口么？丨ToB产业观察](https://www.tmtpost.com/7829868.html)
+**发布时间**: 2026-01-04 11:28
+
+#### [2025年国漫平台观察：从爆款竞争到方法论分化](https://www.tmtpost.com/7829338.html)
+**发布时间**: 2026-01-04 11:06
+
+#### [Tech Executives Cashed Out More Than $16 Billion as Shares Soared in 2025](https://www.tmtpost.com/7829881.html)
+**发布时间**: 2026-01-04 11:05
+
+#### [CES 2026前瞻：黄仁勋到处赶场站台，中国军团角逐AI明日终端](https://www.tmtpost.com/7829270.html)
+**发布时间**: 2026-01-04 10:04
+
+#### [全球广告代理公司这一年](https://www.tmtpost.com/7829475.html)
+**发布时间**: 2026-01-04 10:00
+
+#### [中国开源AI在技术革新与生态重构的双重革命之中丨ToB产业观察](https://www.tmtpost.com/7829737.html)
+**发布时间**: 2026-01-04 09:30
+
+#### [【数智周报】 Copilot整合效果不佳，微软CEO亲自出马介入整改；Meta数十亿美元收购Manus，肖弘将出任Meta副总裁](https://www.tmtpost.com/7829507.html)
+**发布时间**: 2026-01-04 09:30
+
+#### [魏建军泼冷水：中国只有高端“货”，还没有高端“牌”](https://www.tmtpost.com/7829634.html)
+**发布时间**: 2026-01-04 09:05
+
+#### [韩国零食正在占领俄罗斯](https://www.tmtpost.com/7829633.html)
+**发布时间**: 2026-01-04 09:00
+
+#### [丰田大众高管换乘，一汽的电动化进程还缺什么？](https://www.tmtpost.com/7829638.html)
+**发布时间**: 2026-01-04 08:00
+
+#### [【钛晨报】推动REITs市场高质量发展，证监会最新发声；百度：计划分拆昆仑芯并于港交所独立上市；沃伦·巴菲特正式退休，卸任伯克希尔·哈撒韦首席执行官](https://www.tmtpost.com/7828512.html)
+**发布时间**: 2026-01-04 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2025年硅谷给华人AI精英开出上亿年薪！Agent、Infra人才被抢疯了](https://www.infoq.cn/article/dh544S5Ca6X2HNl8dLaM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 11:20
+
+#### [SharePoint Framework 1.22采用了基于Heft的构建工具链并刷新了项目基线](https://www.infoq.cn/article/d0wRs4Tl1DIqLoBrWiGc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 11:15
+
+#### [在AI增强的变革流中，架构师要承担何种角色？](https://www.infoq.cn/article/yOgXm3cR5dUce2fU0Ou3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 10:37
+
+#### [大规模云和分布式应用：教训与策略](https://www.infoq.cn/article/Yjrm9T3cGTTKHaH2eUXt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 09:59
+
+#### [当 GPU 成为主角：解锁 AI 集群中那 85% 的闲置 CPU 算力](https://www.infoq.cn/article/OVZoXkMAKHZQSgyTPE3X?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-04 09:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [关于「学习」，一些流传甚广的误读和迷思](https://sspai.com/post/104956)
+**发布时间**: 2026-01-04 11:03
 
 ---
 

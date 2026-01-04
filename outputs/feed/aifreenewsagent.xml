@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Jan 2026 23:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 23:21:36 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2026 05:28:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LeCun在Meta还有论文：JEPA物理规划的「终极指南」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04-3</link>
-      <description>&lt;![CDATA[LeCun在Meta还有论文：JEPA物理规划的「终极指南」]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 01:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-3</guid>
+      <title>前OpenAI CTO押注的赛道，被中国团队抢先跑通，AI「下半场」入场券人人有份</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-6</link>
+      <description>&lt;![CDATA[前OpenAI CTO押注的赛道，被中国团队抢先跑通，AI「下半场」入场券人人有份]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ControlNet作者张吕敏最新论文：长视频也能实现超短上下文</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04-5</link>
-      <description>&lt;![CDATA[ControlNet作者张吕敏最新论文：长视频也能实现超短上下文]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 01:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04-2</link>
-      <description>&lt;![CDATA[微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 01:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04</link>
-      <description>&lt;![CDATA[陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 01:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04-4</link>
-      <description>&lt;![CDATA[4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 01:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-4</guid>
+      <title>2026-01-04日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-04/</link>
+      <description>&lt;![CDATA[2026-01-04日刊]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-04/</guid>
       <category>Ai</category>
     </item>
   </channel>

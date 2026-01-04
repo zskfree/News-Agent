@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-03 23:21
+**最后更新时间**: 2026-01-04 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-04 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China targets online vendors in tax crackdown](https://www.ft.com/content/7dec2189-f175-433b-b378-87d3c9e01ace)
+**发布时间**: 2026-01-04 04:10
+
+#### [Trump topples Maduro and vows to ‘run’ Venezuela in stark display of US power](https://www.ft.com/content/6df65f0a-bcbc-4ac8-a0d3-0d2537b3da05)
+**发布时间**: 2026-01-04 01:13
+
+#### [Trump bets US will extract ‘tremendous’ oil wealth from Venezuela](https://www.ft.com/content/b395033a-bb3a-4022-a58c-60594e73512c)
+**发布时间**: 2026-01-03 23:59
+
+#### [How will Trump ‘run’ Venezuela?](https://www.ft.com/content/8e3b1a88-b037-457c-8ca8-798f203b6011)
+**发布时间**: 2026-01-03 23:09
+
+#### [Inside the audacious US operation to capture Maduro](https://www.ft.com/content/7772cf0f-c5ab-4d9c-b9a2-aa2164049c5e)
+**发布时间**: 2026-01-03 22:13
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Trump’s Venezuela raid could worsen America’s affordability crisis](https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62?mod=mw_rss_topstories)
+**发布时间**: 2026-01-04 02:52
 
 ---
 
