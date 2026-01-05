@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 04 Jan 2026 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Jan 2026 23:22:12 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 05:35:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 05:36:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-01-05日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-05/</link>
-      <description>&lt;![CDATA[2026-01-05日刊]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-05/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04-12</link>
-      <description>&lt;![CDATA[田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-12</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-04-10</link>
-      <description>&lt;![CDATA[从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？]]&gt;</description>
-      <pubDate>Sun, 04 Jan 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-10</guid>
+      <title>宇树IPO搁浅传闻满天飞，王兴兴：别当真，也不用和外人解释</title>
+      <link>https://www.qbitai.com/2026/01/366541.html</link>
+      <description>&lt;![CDATA[宇树IPO搁浅传闻满天飞，王兴兴：别当真，也不用和外人解释]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 04:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366541.html</guid>
       <category>Ai</category>
     </item>
   </channel>

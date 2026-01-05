@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-04 23:21
+**最后更新时间**: 2026-01-05 05:36
+
+---
+
+## 🆕 最新更新 (2026-01-05 05:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘I applaud him’: Venezuelan diaspora hails Trump after Maduro’s capture](https://www.ft.com/content/461939b1-2aa0-47c0-9763-7cf1f54af81b)
+**发布时间**: 2026-01-05 05:00
+
+#### [The woman with Trump’s nod to lead Venezuela](https://www.ft.com/content/4b87b114-1d16-46ea-ab75-cb511d441431)
+**发布时间**: 2026-01-05 05:00
+
+#### [Ex-Chevron executive seeks $2bn for Venezuelan oil projects](https://www.ft.com/content/67c43f17-dbe4-42b3-be8d-6351ab842b06)
+**发布时间**: 2026-01-05 05:00
+
+#### [How would Donald Trump tap ‘tremendous’ wealth from Venezuelan oil?](https://www.ft.com/content/c077e768-05d3-4305-907c-7ca21a6e50e1)
+**发布时间**: 2026-01-05 05:00
+
+#### [Taxes will need to rise before next UK election, economists predict](https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded)
+**发布时间**: 2026-01-05 05:00
+
+#### [Asda and Morrisons’ private equity owners raise £6.5bn in property deals](https://www.ft.com/content/52dcd047-6f3b-4180-953f-751f3708e227)
+**发布时间**: 2026-01-05 05:00
+
+#### [Oil prices steady after Trump’s Venezuela strikes](https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493)
+**发布时间**: 2026-01-05 01:18
+
+#### [US legal case against Maduro to test limits of presidential power](https://www.ft.com/content/41ae690e-f1e6-4354-9295-f6556483d7cb)
+**发布时间**: 2026-01-04 23:39
 
 ---
 

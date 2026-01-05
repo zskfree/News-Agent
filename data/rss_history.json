@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4c7fd4ac3cdc450fc86f0fb99b1b0a0875ab5f6e8cc86377ef9e0b95315ee6c0": {
-        "title": "OpenAI Reportedly Accelerates GPT-5.2 Release Following CEO's 'Code Red' Alert",
-        "link": "https://www.tmtpost.com/7799068.html",
-        "published_date": "Sat, 06 Dec 2025 11:48:00 GMT",
-        "first_seen": "2025-12-06T05:21:16.533641"
-      },
-      "c38a529ddfd6892dd13cf921280570379e98306bbc541c3662f3a66a45b5828d": {
-        "title": "SpaceX Reported to Eye $800 Billion Record-Setting Valuation, Targeting 2026 IPO",
-        "link": "https://www.tmtpost.com/7799133.html",
-        "published_date": "Sat, 06 Dec 2025 12:42:00 GMT",
-        "first_seen": "2025-12-06T05:21:16.533647"
-      },
-      "3060903ca1bd1f0ea9e294c4499f844a95de7651016ea82e4e365b9a307c11ae": {
-        "title": "具身智能时代，谁将成为下一个“中国巴菲特”？",
-        "link": "https://www.tmtpost.com/7798572.html",
-        "published_date": "Sat, 06 Dec 2025 09:00:00 GMT",
-        "first_seen": "2025-12-06T05:21:16.533650"
-      },
-      "3dba44dd390bbf59009448d8024ea522ad1563786ef7a60d0e4c2625d3875a5d": {
-        "title": "Baidu Shares Surge on Reports of AI Chip Unit Kunlunxin's Hong Kong IPO Plan",
-        "link": "https://www.tmtpost.com/7799030.html",
-        "published_date": "Sat, 06 Dec 2025 11:23:00 GMT",
-        "first_seen": "2025-12-06T05:21:16.533652"
-      },
-      "d03aa50dd1187638cc10815dd9544c967a904e2abd026b1bcb34d7bd76aca515": {
-        "title": "Helm通过六年来最大规模的版本发布，提升了Kubernetes的包管理能力",
-        "link": "https://www.infoq.cn/article/FHfdLrAsZ3kDjaidakob?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 06 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-06T05:21:16.533653"
-      },
       "b88598432399a032912e6846c662a80d962187de16ace59ca911ab94de16c678": {
         "title": "深圳硬件创业者，正在悄悄走入第二个「黄金时代」",
         "link": "http://www.geekpark.net/news/357688",
@@ -2671,27 +2641,39 @@
         "link": "https://www.tmtpost.com/7830211.html",
         "published_date": "Sun, 04 Jan 2026 16:59:00 GMT",
         "first_seen": "2026-01-04T23:22:31.065005"
+      },
+      "b944a98e68aaecec6887149e7e1dac0b5c9f85df4c4b8c7cf136097ea3c228bf": {
+        "title": "成本暴降 90%！亚马逊云科技正式发布 S3 Vectors：20 亿规模、百毫秒响应，向量数据库彻底进入“存储优先”时代",
+        "link": "https://www.infoq.cn/article/xb5VDXD96B8sdi8dcqp0?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 10:34:00 GMT",
+        "first_seen": "2026-01-05T05:36:45.892769"
+      },
+      "7040491e600d33c3428d0dd15abf232a2bd3c83cbed0ee48687ac7c39f64140b": {
+        "title": "2026年Agentic AI十大关键趋势：技术、应用与治理三位一体",
+        "link": "https://www.tmtpost.com/7830730.html",
+        "published_date": "Mon, 05 Jan 2026 11:24:00 GMT",
+        "first_seen": "2026-01-05T05:36:45.892775"
+      },
+      "c39e3cb049c0b75e6b3e2eb61f21b72c52df2d07186e0f3c87dcccf24cfbe3c8": {
+        "title": "铭芯启睿完成超亿元Pre-A轮融资，持续发力高密度RRAM与存算一体技术 | 融资速递",
+        "link": "https://www.tmtpost.com/7830791.html",
+        "published_date": "Mon, 05 Jan 2026 11:32:00 GMT",
+        "first_seen": "2026-01-05T05:36:45.892778"
+      },
+      "e903415a8d8ac70412bdef4569b2086195cd8ff6f64a1969e005ab4b6914e1df": {
+        "title": "三年超600亿投资，《原子能法》1月15日开始实施，2026，谁在接单可控核聚变？",
+        "link": "https://www.tmtpost.com/7830854.html",
+        "published_date": "Mon, 05 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-05T05:36:45.892780"
+      },
+      "b6a89917dcf8c98a64b58399bea7673f0218586afcd97d73b574bc5daac6a860": {
+        "title": "AI赋能低空经济：三大高潜力赛道即将引爆万亿市场",
+        "link": "https://www.tmtpost.com/7830766.html",
+        "published_date": "Mon, 05 Jan 2026 11:39:00 GMT",
+        "first_seen": "2026-01-05T05:36:45.892781"
       }
     },
     "Finance": {
-      "7338cea4c79a4796ad1765f68eb9a19d03931caa1e48ef4a1841f93574301b3c": {
-        "title": "Your tax refund could be $1,000 bigger next year — and even more if you make these money moves in time",
-        "link": "https://www.marketwatch.com/story/your-tax-refund-could-be-1-000-bigger-next-year-and-even-more-if-you-make-these-money-moves-in-time-98ae7448?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Dec 2025 02:58:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.285512"
-      },
-      "9554a4ca7e3089ac3ed71dc14064172305b62c0f4242bb482c4cbf540a99bde1": {
-        "title": "‘I am increasingly resentful’: My husband of 10 years has $1 million and cars worth $200K. Why won’t he give me money?",
-        "link": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Dec 2025 23:48:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.285523"
-      },
-      "37da4b83bff16befb40531c0a84ff1c0ff19cf0f3326c47e85097dc631b444c2": {
-        "title": "Netflix leans on $59bn bank loan to fund Warner Bros takeover",
-        "link": "https://www.ft.com/content/f82583ba-03ec-4cca-9560-a7a2e1d55574",
-        "published_date": "Sat, 06 Dec 2025 00:22:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.285525"
-      },
       "09ba862d589e42fffef749bcd2f558e23e876453201e042eac248dfc35f325d1": {
         "title": "US defence secretary says Monroe Doctrine is ‘stronger than ever’",
         "link": "https://www.ft.com/content/720bf98b-c35e-4af3-af93-43171d775645",
@@ -4449,33 +4431,39 @@
         "link": "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?mod=mw_rss_topstories",
         "published_date": "Sun, 04 Jan 2026 18:26:00 GMT",
         "first_seen": "2026-01-04T23:22:12.554952"
+      },
+      "3b1b24ab36f82355b21234e6453d0389c2de4a27bae9a6bf2813f9295242f47c": {
+        "title": "Taxes will need to rise before next UK election, economists predict",
+        "link": "https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded",
+        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-05T05:36:26.633752"
+      },
+      "8cbdb41958909512c434e57fd3e0502f1a54d7c7b1b2a35e5c6b4204952a9f03": {
+        "title": "Oil prices steady after Trump’s Venezuela strikes",
+        "link": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
+        "published_date": "Mon, 05 Jan 2026 01:18:00 GMT",
+        "first_seen": "2026-01-05T05:36:26.633763"
+      },
+      "9561324bdabd1bb6139563ef11f642a36b372caf5dd2e3cbe6cb90b003835e24": {
+        "title": "Asda and Morrisons’ private equity owners raise £6.5bn in property deals",
+        "link": "https://www.ft.com/content/52dcd047-6f3b-4180-953f-751f3708e227",
+        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-05T05:36:26.633765"
+      },
+      "e05467fb006be0b8dab46a7e2bbda4f7d29e1ebe71b648f8f21f9a807e317950": {
+        "title": "Ex-Chevron executive seeks $2bn for Venezuelan oil projects",
+        "link": "https://www.ft.com/content/67c43f17-dbe4-42b3-be8d-6351ab842b06",
+        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-05T05:36:26.633767"
+      },
+      "033d183b818e767842ae98c55c45f9a01b57a40b0c90cd1704050fe9349fd793": {
+        "title": "How would Donald Trump tap ‘tremendous’ wealth from Venezuelan oil?",
+        "link": "https://www.ft.com/content/c077e768-05d3-4305-907c-7ca21a6e50e1",
+        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-05T05:36:26.633770"
       }
     },
     "Ai": {
-      "9f10bd7a6e236eb4404554707f03b3f94e59eb04fa9e0173db3197a54b994334": {
-        "title": "14岁华人小孩，折个纸成美国天才少年",
-        "link": "https://www.qbitai.com/2025/12/359362.html",
-        "published_date": "Sat, 06 Dec 2025 03:39:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.409353"
-      },
-      "5525ce70866ece3b33777dc1dbc69af5835c0e04513791d3aeb2957e13044685": {
-        "title": "智能体A2A落地华为新旗舰，鸿蒙开发者新机遇来了",
-        "link": "https://www.qbitai.com/2025/12/359352.html",
-        "published_date": "Sat, 06 Dec 2025 03:33:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.409361"
-      },
-      "553f82c5a2421c1c1cb916bb85054834ffbc8e69d0fd951a5440a6681356c929": {
-        "title": "《三体》“宇宙闪烁”成真！免佩戴裸眼3D屏登Nature",
-        "link": "https://www.qbitai.com/2025/12/359335.html",
-        "published_date": "Sat, 06 Dec 2025 02:55:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.409363"
-      },
-      "ec5b2d21341a4dbb82b714999d111e6cec90732e11cff7c76c0474746151533f": {
-        "title": "知名数学家辞职投身AI创业：老板是00后华人女生",
-        "link": "https://www.qbitai.com/2025/12/359261.html",
-        "published_date": "Sat, 06 Dec 2025 02:38:00 GMT",
-        "first_seen": "2025-12-06T05:20:56.409365"
-      },
       "e9cc5bfe47121445b825bfa69772420c3562062ed7c1374d9c25d9dcf989a9f9": {
         "title": "英伟达巧用8B模型秒掉GPT-5，开源了",
         "link": "https://www.qbitai.com/2025/12/359417.html",
@@ -6635,13 +6623,19 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-04-10",
         "published_date": "Sun, 04 Jan 2026 14:44:00 GMT",
         "first_seen": "2026-01-04T23:22:12.706627"
+      },
+      "3a13429a9795a63f9b59db11248ae94a66c18ff8882c570e9a5ca078e6a60921": {
+        "title": "宇树IPO搁浅传闻满天飞，王兴兴：别当真，也不用和外人解释",
+        "link": "https://www.qbitai.com/2026/01/366541.html",
+        "published_date": "Mon, 05 Jan 2026 04:40:00 GMT",
+        "first_seen": "2026-01-05T05:36:26.779732"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-04T23:22:31.065007",
-    "Finance": "2026-01-04T23:22:12.554954",
-    "Ai": "2026-01-04T23:22:12.706629"
+    "Technology": "2026-01-05T05:36:45.892783",
+    "Finance": "2026-01-05T05:36:26.633772",
+    "Ai": "2026-01-05T05:36:26.779739"
   }
 }

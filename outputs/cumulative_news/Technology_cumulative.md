@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-04 23:21
+**最后更新时间**: 2026-01-05 05:36
+
+---
+
+## 🆕 最新更新 (2026-01-05 05:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [平台“最低价”规则生变，2026消费市场逻辑重塑](https://www.tmtpost.com/7830853.html)
+**发布时间**: 2026-01-05 13:31
+
+#### [三年超600亿投资，《原子能法》1月15日开始实施，2026，谁在接单可控核聚变？](https://www.tmtpost.com/7830854.html)
+**发布时间**: 2026-01-05 13:31
+
+#### [住在云端，困在深谷：买超高楼层的业主进退两难](https://www.tmtpost.com/7830910.html)
+**发布时间**: 2026-01-05 13:26
+
+#### [这16个字，将决定比亚迪、吉利、长城、问界与“蔚小理”们的2026](https://www.tmtpost.com/7830796.html)
+**发布时间**: 2026-01-05 13:23
+
+#### [1070亿、930家公司：2025中国AI应用的野蛮共识](https://www.tmtpost.com/7830931.html)
+**发布时间**: 2026-01-05 13:20
+
+#### [以数字化+品牌化双轮驱动，马上消费筑牢金融消保 “安心防线”](https://www.tmtpost.com/7829990.html)
+**发布时间**: 2026-01-05 12:01
+
+#### [Norrøna北京首店将入驻SKP；小红书发布《小红书2025年度兴趣报告》；2026中国冬季项目十支国家队安踏比赛装备发布｜消研所周报](https://www.tmtpost.com/7830276.html)
+**发布时间**: 2026-01-05 12:00
+
+#### [股价四年跌去94%，“疫苗之王”何以至此？](https://www.tmtpost.com/7830793.html)
+**发布时间**: 2026-01-05 11:40
+
+#### [2025港股IPO“超级周期”：锣不够敲，消费火爆](https://www.tmtpost.com/7830757.html)
+**发布时间**: 2026-01-05 11:40
+
+#### [3%股权，100%转型，中石油牵手国家电网下了一步大棋](https://www.tmtpost.com/7830756.html)
+**发布时间**: 2026-01-05 11:39
+
+#### [AI赋能低空经济：三大高潜力赛道即将引爆万亿市场](https://www.tmtpost.com/7830766.html)
+**发布时间**: 2026-01-05 11:39
+
+#### [苹果税全球博弈升级，谁能真正逼苹果低头？](https://www.tmtpost.com/7830735.html)
+**发布时间**: 2026-01-05 11:34
+
+#### [影石掀了无人机的桌子](https://www.tmtpost.com/7830711.html)
+**发布时间**: 2026-01-05 11:34
+
+#### [对话诺贝尔奖得主Katalin：寻找真理本身，是一项极其艰苦、却又令人着迷的工作](https://www.tmtpost.com/7830738.html)
+**发布时间**: 2026-01-05 11:34
+
+#### [铭芯启睿完成超亿元Pre-A轮融资，持续发力高密度RRAM与存算一体技术 | 融资速递](https://www.tmtpost.com/7830791.html)
+**发布时间**: 2026-01-05 11:32
+
+#### [2025中国创新药十大牛股，真相有点意外](https://www.tmtpost.com/7830696.html)
+**发布时间**: 2026-01-05 11:25
+
+#### [2026年Agentic AI十大关键趋势：技术、应用与治理三位一体](https://www.tmtpost.com/7830730.html)
+**发布时间**: 2026-01-05 11:24
+
+#### [茅台“自刀”，砍痛了谁？](https://www.tmtpost.com/7830746.html)
+**发布时间**: 2026-01-05 11:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [这一年，我们一起在跑道上长大](https://sspai.com/post/104808)
+**发布时间**: 2026-01-05 11:31
+
+#### [派早报：Clicks 推出 Power Keyboard 和 Communicator 手机](https://sspai.com/post/105126)
+**发布时间**: 2026-01-05 08:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Patreon年度回顾中的架构经验](https://www.infoq.cn/article/87sjsZqwu7DHC4zbzCS1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 11:02
+
+#### [成本暴降 90%！亚马逊云科技正式发布 S3 Vectors：20 亿规模、百毫秒响应，向量数据库彻底进入“存储优先”时代](https://www.infoq.cn/article/xb5VDXD96B8sdi8dcqp0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 10:34
+
+#### [开源Agent Sandbox实现Kubernetes平台上AI代理的安全部署](https://www.infoq.cn/article/vEotjaclFg1UtW0VXCTq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 10:10
+
+#### [Swiggy 内部 AI 助手升级：Text-to-SQL 不够用了，Agent 开始接管数据分析](https://www.infoq.cn/article/oPzBsQpC548jOpyJk9oI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 09:29
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [市占率首超七成，汽车市场新格局已成型](http://www.huxiu.com/article/4823215.html?f=wangzhan)
+**发布时间**: 2026-01-05 10:22
 
 ---
 
