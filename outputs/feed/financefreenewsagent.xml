@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Jan 2026 08:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 08:36:25 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 23:23:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oil prices fall after Trump’s Venezuela strikes</title>
-      <link>https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493</link>
-      <description>&lt;![CDATA[Oil prices fall after Trump’s Venezuela strikes]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493</guid>
+      <title>The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar</title>
+      <link>https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Maduro set to face drug trafficking charges in New York</title>
-      <link>https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e</link>
-      <description>&lt;![CDATA[Maduro set to face drug trafficking charges in New York]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 08:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e</guid>
+      <title>Trump is forcing the world to share riches with the U.S. — Venezuelan oil is the latest bargaining chip</title>
+      <link>https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump is forcing the world to share riches with the U.S. — Venezuelan oil is the latest bargaining chip]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 23:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Spending over $100 billion to rebuild Venezuela’s oil industry won’t be the biggest obstacle facing U.S. oil companies</title>
+      <link>https://www.marketwatch.com/story/paying-over-100-billion-to-rebuild-venezuelas-oil-industry-wont-be-the-biggest-obstacle-facing-u-s-oil-companies-bc5dcf5f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Spending over $100 billion to rebuild Venezuela’s oil industry won’t be the biggest obstacle facing U.S. oil companies]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 21:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/paying-over-100-billion-to-rebuild-venezuelas-oil-industry-wont-be-the-biggest-obstacle-facing-u-s-oil-companies-bc5dcf5f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nvidia CEO Jensen Huang delivers some good news for investors at CES</title>
+      <link>https://www.marketwatch.com/story/nvidia-ceo-jensen-huang-delivers-some-good-news-for-investors-at-ces-4b3a3c7a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nvidia CEO Jensen Huang delivers some good news for investors at CES]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 23:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidia-ceo-jensen-huang-delivers-some-good-news-for-investors-at-ces-4b3a3c7a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Mobileye’s latest win is another rejection of Tesla’s self-driving approach</title>
+      <link>https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Mobileye’s latest win is another rejection of Tesla’s self-driving approach]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 21:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 08:36:37 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 23:23:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>超越AlphaFold3，实现模型容量的规模化扩展，字节提出分子结构预测模型SeedFold</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-3</link>
-      <description>&lt;![CDATA[超越AlphaFold3，实现模型容量的规模化扩展，字节提出分子结构预测模型SeedFold]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-3</guid>
+      <title>2026-01-06日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-06/</link>
+      <description>&lt;![CDATA[2026-01-06日刊]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-06/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-5</link>
-      <description>&lt;![CDATA[蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-5</guid>
+      <title>AI Shortlist上线｜研究值得关注的AI企业</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-05-8</link>
+      <description>&lt;![CDATA[AI Shortlist上线｜研究值得关注的AI企业]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05</link>
-      <description>&lt;![CDATA[AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05</guid>
+      <title>Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-05-7</link>
+      <description>&lt;![CDATA[Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，蝉联Future X全球榜首的MiroMind发布全球最强搜索智能体模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-4</link>
-      <description>&lt;![CDATA[刚刚，蝉联Future X全球榜首的MiroMind发布全球最强搜索智能体模型]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-4</guid>
+      <title>空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-05-6</link>
+      <description>&lt;![CDATA[空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CES 2026超前瞻：空间智能来势汹汹！从实验室奢侈品到消费级刚需，如何重塑 AI 具身时代？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-2</link>
-      <description>&lt;![CDATA[CES 2026超前瞻：空间智能来势汹汹！从实验室奢侈品到消费级刚需，如何重塑 AI 具身时代？]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-2</guid>
+      <title>悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少</title>
+      <link>https://www.qbitai.com/2026/01/366593.html</link>
+      <description>&lt;![CDATA[悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 11:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366593.html</guid>
       <category>Ai</category>
     </item>
   </channel>

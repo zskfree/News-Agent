@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ce75ee8fbd4704698fe43bbf043abab1efd9b932b1b1eb49f677fdcfe5537b06": {
-        "title": "Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机",
-        "link": "https://www.infoq.cn/article/QDT3lN4YVK2lJOCfvUOo?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 06 Dec 2025 19:36:00 GMT",
-        "first_seen": "2025-12-06T23:20:11.905341"
-      },
-      "73ff5b7c7cf3425ac5e89bffdffbc0c113acd37bf039eb728199b720f3a28e27": {
-        "title": "全球最大云厂商，将「最牛马」的工作交给了 AI Agent",
-        "link": "http://www.geekpark.net/news/357692",
-        "published_date": "Sat, 06 Dec 2025 18:24:00 GMT",
-        "first_seen": "2025-12-06T23:20:11.905347"
-      },
-      "37b757e518b0dca9a4ff6549c19892906b1319113e88eff10e97f4ecac1f8359": {
-        "title": "摩尔线程卖的不是显卡，是A股最贵的安全门票",
-        "link": "https://www.tmtpost.com/7798826.html",
-        "published_date": "Sat, 06 Dec 2025 17:42:00 GMT",
-        "first_seen": "2025-12-06T23:20:11.905349"
-      },
-      "9916e452b5be678802dfc89e3acb992ece0185c59065143c89e2b50b9e7b0114": {
-        "title": "40+产业链CEO闭门讨论：借鉴\"特链\"成功经验，加速机器人赛道产业化｜2025 T-EDGE全球对话",
-        "link": "https://www.tmtpost.com/7798987.html",
-        "published_date": "Sat, 06 Dec 2025 17:29:00 GMT",
-        "first_seen": "2025-12-06T23:20:11.905351"
-      },
-      "daf9cbbaba518d128c545c6a02e94600b240807ceed8923c9532cddf2190f5fd": {
-        "title": "关于动态血糖仪，厂商没说的",
-        "link": "https://sspai.com/post/104274",
-        "published_date": "Sat, 06 Dec 2025 15:13:00 GMT",
-        "first_seen": "2025-12-06T23:20:11.905352"
-      },
       "79ac439cf67dbd0074797c5fc2c8165727a8016238a9d59a53dc7e22b718776a": {
         "title": "【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3",
         "link": "https://www.tmtpost.com/7799625.html",
@@ -2671,33 +2641,39 @@
         "link": "https://www.infoq.cn/article/Qyqio9tXIB7zoeE3xVZQ?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 05 Jan 2026 16:12:00 GMT",
         "first_seen": "2026-01-05T08:37:02.596111"
+      },
+      "a49149d995fe4a8dc6abde943a0811672b29e6e27c9edab722d40be233c98d10": {
+        "title": "2026“企业Agent上岗元年”？零一万物六大判断定义企业多智能体，不再沿用大厂标准化产品模式”",
+        "link": "https://www.infoq.cn/article/8lkAlTOp8etL1u8LGmxq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 18:33:00 GMT",
+        "first_seen": "2026-01-05T23:23:56.001228"
+      },
+      "53191a49f2aba557a1aab81b60dd7dda99f6efd53ffe53135c76af8ab9ed97f5": {
+        "title": "苹果税全球博弈升级，谁能真正逼苹果低头？",
+        "link": "https://www.tmtpost.com/7830735.html",
+        "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
+        "first_seen": "2026-01-05T23:23:56.001235"
+      },
+      "b24363d52d18ab40c96e4209027316572e401b668238465304a00a7f70f2ffa3": {
+        "title": "Swiggy 内部 AI 助手升级：Text-to-SQL 不够用了，Agent 开始接管数据分析",
+        "link": "https://www.infoq.cn/article/oPzBsQpC548jOpyJk9oI?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 09:29:00 GMT",
+        "first_seen": "2026-01-05T23:23:56.001237"
+      },
+      "6ca27e3643b22b2ba4f6876eee0b29781c49c673a687c296d48ef366f41d1afc": {
+        "title": "【钛晨报】证监会新年首会，重拳出击财务造假；2026存储涨价第一枪：三星、海力士DRAM报价上调70%；高盛：建议高配中国股票",
+        "link": "https://www.tmtpost.com/7831736.html",
+        "published_date": "Tue, 06 Jan 2026 07:20:00 GMT",
+        "first_seen": "2026-01-05T23:23:56.001239"
+      },
+      "74d3d065cfe64ab65ba23551293d46b6415fe84b7e15ca8c1d8d7e7fc2da3cfc": {
+        "title": "HBF、HMC等四大存储，谁能力敌HBM",
+        "link": "https://www.tmtpost.com/7831517.html",
+        "published_date": "Mon, 05 Jan 2026 18:59:00 GMT",
+        "first_seen": "2026-01-05T23:23:56.001241"
       }
     },
     "Finance": {
-      "09ba862d589e42fffef749bcd2f558e23e876453201e042eac248dfc35f325d1": {
-        "title": "US defence secretary says Monroe Doctrine is ‘stronger than ever’",
-        "link": "https://www.ft.com/content/720bf98b-c35e-4af3-af93-43171d775645",
-        "published_date": "Sat, 06 Dec 2025 23:06:00 GMT",
-        "first_seen": "2025-12-06T23:19:42.724060"
-      },
-      "18fcbc9f6bc132601d5a405a862ae57f6bc91a8663ba3c7585999b07bbf1cc1f": {
-        "title": "Scottish Tory peer defects to Reform at Falkirk rally",
-        "link": "https://www.ft.com/content/8b4b0994-4abe-4f20-9f90-012c9f70df9d",
-        "published_date": "Sat, 06 Dec 2025 17:03:00 GMT",
-        "first_seen": "2025-12-06T23:19:42.724069"
-      },
-      "b365dd5c517d30c7af9e9b11d2b3373bf6096c8fa66972c9c3bdc64a620e791d": {
-        "title": "Does my friend have a right to her late father’s multimillion-dollar real-estate empire? His widow claims they’re mired in debt.",
-        "link": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Dec 2025 23:05:00 GMT",
-        "first_seen": "2025-12-06T23:19:42.724071"
-      },
-      "5f0f3814efcf9577e4963d95241a46d46b65edb450a2a5e8cf53b2e7dd66d5b8": {
-        "title": "‘I love my work’: I’m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
-        "link": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Dec 2025 19:05:00 GMT",
-        "first_seen": "2025-12-06T23:19:42.724073"
-      },
       "ce429f4d2a97c113788ee6bb3e93fdba0e3ae987e1457d399b340afe94e401f1": {
         "title": "US tariffs prompt surge in Chinese exports to south-east Asia",
         "link": "https://www.ft.com/content/16d0336b-d855-42ae-b0a7-d509d21cec9b",
@@ -4473,39 +4449,39 @@
         "link": "https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e",
         "published_date": "Mon, 05 Jan 2026 08:01:00 GMT",
         "first_seen": "2026-01-05T08:36:25.488603"
+      },
+      "07bd84157f2ec9fbeb92253cd5ca1409c738ce36599d8e0a2c35de647e121a60": {
+        "title": "The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar",
+        "link": "https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Jan 2026 22:38:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.303909"
+      },
+      "c8c66a920e711a19009b71242c1116685adfa595e4633791f6b1455da0e87ff5": {
+        "title": "Trump is forcing the world to share riches with the U.S. — Venezuelan oil is the latest bargaining chip",
+        "link": "https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Jan 2026 23:14:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.303917"
+      },
+      "6d760d9f2d2d2fc8216756803c187fb532528c488d905a5fdbe43a737cdca862": {
+        "title": "Spending over $100 billion to rebuild Venezuela’s oil industry won’t be the biggest obstacle facing U.S. oil companies",
+        "link": "https://www.marketwatch.com/story/paying-over-100-billion-to-rebuild-venezuelas-oil-industry-wont-be-the-biggest-obstacle-facing-u-s-oil-companies-bc5dcf5f?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Jan 2026 21:32:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.303920"
+      },
+      "33790f3d1e0fae1c58ee2c91df3a607b43cf9c5551ed813908e09a01bfe286a0": {
+        "title": "Nvidia CEO Jensen Huang delivers some good news for investors at CES",
+        "link": "https://www.marketwatch.com/story/nvidia-ceo-jensen-huang-delivers-some-good-news-for-investors-at-ces-4b3a3c7a?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Jan 2026 23:08:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.303922"
+      },
+      "f0f9fc2b3cfbbc2065c1a04180c44bd182e44805d17648ab1f38b97cc3e62ae5": {
+        "title": "Mobileye’s latest win is another rejection of Tesla’s self-driving approach",
+        "link": "https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Jan 2026 21:43:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.303923"
       }
     },
     "Ai": {
-      "ef783fcdffd9a9b987ad20d9026da6fc0b3f5884e2889553c2ba58f31d1c949b": {
-        "title": "Ilya刚预言完，世界首个原生多模态架构NEO就来了：视觉和语言彻底被焊死",
-        "link": "https://www.qbitai.com/2025/12/359437.html",
-        "published_date": "Sat, 06 Dec 2025 13:36:00 GMT",
-        "first_seen": "2025-12-06T23:19:56.764475"
-      },
-      "d2a4450ea209adc9188c7b4019ec4dd7fe9fef0a263b25835523c45b9dd28c9e": {
-        "title": "刚刚，英伟达CUDA迎来史上最大更新！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-5",
-        "published_date": "Sat, 06 Dec 2025 20:40:00 GMT",
-        "first_seen": "2025-12-06T23:19:56.764482"
-      },
-      "9ef7db93fe11e3bbbf9ba2792f2c63fa3c68f89d0a611e60fd815c3c021f6471": {
-        "title": "Yann LeCun离开Meta后首篇论文？使用了宇树机器人做研究",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-4",
-        "published_date": "Sat, 06 Dec 2025 20:23:00 GMT",
-        "first_seen": "2025-12-06T23:19:56.764484"
-      },
-      "2f8a6120c06b5f8aa305a3433768ed058992f2817c835b6d49304a23e88b3609": {
-        "title": "AAAI 2026｜新突破：北大彭宇新团队提出可见光-红外终身行人重识别方法CKDA",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-3",
-        "published_date": "Sat, 06 Dec 2025 20:19:00 GMT",
-        "first_seen": "2025-12-06T23:19:56.764485"
-      },
-      "3f02632e2c6ce2d7e0f14138daad7729352a653aa3538478d40df7ab9735553d": {
-        "title": "AAAI 2026 | 北航、东京大学填补AI「语义鸿沟」，过程感知视频理解如何找到「状态」锚点？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06",
-        "published_date": "Sat, 06 Dec 2025 20:00:00 GMT",
-        "first_seen": "2025-12-06T23:19:56.764487"
-      },
       "3bf98475066d6cdc62b9a96dc17fbc5301fffa7ae8dec1708f62124c0ffcba5a": {
         "title": "2025-12-07日刊",
         "link": "https://ai.hubtoday.app//2025-12/2025-12-07/",
@@ -6659,13 +6635,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-05-2",
         "published_date": "Mon, 05 Jan 2026 14:38:00 GMT",
         "first_seen": "2026-01-05T08:36:37.215198"
+      },
+      "9b00df9be8c8f2c48971cfdad1eb2af564caaeb7f31daaabfbd665ff885848c2": {
+        "title": "2026-01-06日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-06/",
+        "published_date": "Tue, 06 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.450628"
+      },
+      "0dfb81bf1014ca168d12a36f5499632b2b3f37bbeaec036d74f4da84402d648e": {
+        "title": "AI Shortlist上线｜研究值得关注的AI企业",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-8",
+        "published_date": "Mon, 05 Jan 2026 18:06:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.450635"
+      },
+      "bffa7197c0774b1627189e448f878f1a0fe369c562914e65775913960816075a": {
+        "title": "Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-7",
+        "published_date": "Mon, 05 Jan 2026 17:09:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.450637"
+      },
+      "e390d6b81c0d848a94377e68c1a299931e9ccdd4a89c1e23b82464d935bb8b30": {
+        "title": "空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-6",
+        "published_date": "Mon, 05 Jan 2026 17:04:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.450639"
+      },
+      "e17a5a4768f3941bc64418180b1491822cdd2330aac2eddaa6d26043d05ed9ae": {
+        "title": "悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少",
+        "link": "https://www.qbitai.com/2026/01/366593.html",
+        "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
+        "first_seen": "2026-01-05T23:23:23.450640"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-05T08:37:02.596114",
-    "Finance": "2026-01-05T08:36:25.488606",
-    "Ai": "2026-01-05T08:36:37.215201"
+    "Technology": "2026-01-05T23:23:56.001243",
+    "Finance": "2026-01-05T23:23:23.303926",
+    "Ai": "2026-01-05T23:23:23.450643"
   }
 }

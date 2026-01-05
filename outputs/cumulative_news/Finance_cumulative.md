@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-05 08:36
+**最后更新时间**: 2026-01-05 23:23
+
+---
+
+## 🆕 最新更新 (2026-01-05 23:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump is forcing the world to share riches with the U.S. — Venezuelan oil is the latest bargaining chip](https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 23:14
+
+#### [Nvidia CEO Jensen Huang delivers some good news for investors at CES](https://www.marketwatch.com/story/nvidia-ceo-jensen-huang-delivers-some-good-news-for-investors-at-ces-4b3a3c7a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 23:08
+
+#### [The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar](https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 22:38
+
+#### [Online fury as betting market Polymarket denies Venezuela was invaded](https://www.marketwatch.com/story/online-fury-as-betting-market-polymarket-denies-any-venezuelan-invasion-414af8a9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 22:25
+
+#### [Venezuela’s oil industry needs rebuilding. These U.S. companies will do it.](https://www.marketwatch.com/story/these-stocks-stand-to-gain-as-the-u-s-tightens-its-grip-on-venezuelan-oil-42d7faa8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 22:17
+
+#### [Chevron and Exxon stocks jump. Here’s what analysts are saying about big oil companies after Maduro’s capture.](https://www.marketwatch.com/story/chevron-stock-soars-8-what-analysts-are-saying-about-big-oil-companies-after-maduros-capture-84f3c8c1?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 21:48
+
+#### [Mobileye’s latest win is another rejection of Tesla’s self-driving approach](https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 21:43
+
+#### [These surging stocks just saved the ‘Santa Claus rally.’ Here’s what turned things around.](https://www.marketwatch.com/story/these-surging-stocks-just-saved-the-santa-claus-rally-heres-what-turned-things-around-20e3ae34?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 21:35
+
+#### [Spending over $100 billion to rebuild Venezuela’s oil industry won’t be the biggest obstacle facing U.S. oil companies](https://www.marketwatch.com/story/paying-over-100-billion-to-rebuild-venezuelas-oil-industry-wont-be-the-biggest-obstacle-facing-u-s-oil-companies-bc5dcf5f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 21:32
+
+#### [Manchester United’s stock climbs after football club fires coach Ruben Amorim](https://www.marketwatch.com/story/manchester-uniteds-stock-climbs-after-football-club-fires-coach-ruben-amorim-32739fbb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-05 21:19
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Venezuelan government launches wave of repression after Maduro’s ousting](https://www.ft.com/content/b3a2763a-3987-419e-bcf1-11432f747182)
+**发布时间**: 2026-01-05 22:17
+
+#### [Hedge funds profit as Venezuela’s bonds surge](https://www.ft.com/content/9403c523-b618-493e-85f9-441d433f47b3)
+**发布时间**: 2026-01-05 21:50
+
+#### [‘I am a decent man’: inside Nicolás Maduro’s first US court hearing](https://www.ft.com/content/2a914748-490e-4275-99fe-342cb5f83e82)
+**发布时间**: 2026-01-05 21:49
+
+#### [Microsoft and McKinsey pay up to $1mn each to back Trump’s Davos hub](https://www.ft.com/content/97e2dbea-8781-4e0e-99d7-ccb50b883f43)
+**发布时间**: 2026-01-05 21:00
+
+#### [Starmer criticised for not querying legality of Trump’s Venezuela attack](https://www.ft.com/content/da909792-063f-4f57-9d5d-8aa994f1522c)
+**发布时间**: 2026-01-05 20:05
+
+#### [Minnesota governor Tim Walz drops re-election run after fraud allegations](https://www.ft.com/content/9928fede-e1cc-4361-9b47-787b0f2a0a05)
+**发布时间**: 2026-01-05 19:38
+
+#### [Wall Street stocks climb as US raid in Venezuela lifts energy sector](https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e)
+**发布时间**: 2026-01-05 17:20
+
+#### [Venezuela and the trouble with the Donroe doctrine](https://www.ft.com/content/dcd8aa7d-630b-45b0-889c-07c3e8052804)
+**发布时间**: 2026-01-05 11:37
+
+#### [Trump’s Venezuela punt could turn into an oil-drilling own goal](https://www.ft.com/content/b6d029d3-51cd-4cb5-9173-c24bae327daf)
+**发布时间**: 2026-01-05 08:25
 
 ---
 
