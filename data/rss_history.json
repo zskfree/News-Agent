@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b88598432399a032912e6846c662a80d962187de16ace59ca911ab94de16c678": {
-        "title": "深圳硬件创业者，正在悄悄走入第二个「黄金时代」",
-        "link": "http://www.geekpark.net/news/357688",
-        "published_date": "Sat, 06 Dec 2025 10:56:00 GMT",
-        "first_seen": "2025-12-06T08:27:32.907787"
-      },
-      "94dacd465cc85831e1ccebc1456d422ac142c5c482d93bd604f003ac9b5cb4c6": {
-        "title": "AMC、IMAX股价下跌，Roku上涨，奈飞与华纳兄弟的合作如何撼动娱乐业格局？",
-        "link": "https://www.tmtpost.com/7799049.html",
-        "published_date": "Sat, 06 Dec 2025 11:32:00 GMT",
-        "first_seen": "2025-12-06T08:27:32.907793"
-      },
-      "b7c273161a407ba1bbfc4862adc5cd091311fd9f0543eb70181ed52c18958a85": {
-        "title": "中国汽车的真正考验，才刚开始",
-        "link": "http://www.huxiu.com/article/4811722.html?f=wangzhan",
-        "published_date": "Sat, 06 Dec 2025 07:38:00 GMT",
-        "first_seen": "2025-12-06T08:27:32.907795"
-      },
-      "eb2ff05be4f26d1707e8e28725077073d7999f41560cc134c2819458d3632725": {
-        "title": "面向智能研发的知识引擎构建及业务应用 ｜AICon北京",
-        "link": "https://www.infoq.cn/article/82e7BGjhz87uh6BHUuSk?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 06 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-06T08:27:32.907797"
-      },
-      "1005f758dd4e5d810bf77140d4714f84e29d6b7542354ca0569b99f05d1a0c80": {
-        "title": "re:Invent 2025 世界开发者说-DAY5 | 未来指南：re:Invent 带给开发者哪些启示？看看Jeff Barr怎么说",
-        "link": "https://www.infoq.cn/video/UbpjVUzBpGF2Uv9tXSii?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 06 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-06T08:27:32.907799"
-      },
       "ce75ee8fbd4704698fe43bbf043abab1efd9b932b1b1eb49f677fdcfe5537b06": {
         "title": "Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机",
         "link": "https://www.infoq.cn/article/QDT3lN4YVK2lJOCfvUOo?utm_source=rss&utm_medium=article",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7830766.html",
         "published_date": "Mon, 05 Jan 2026 11:39:00 GMT",
         "first_seen": "2026-01-05T05:36:45.892781"
+      },
+      "53c0833a93b3446be9b1f6f2e0228b921f8cdea46caa51f6239e2e758a812bd6": {
+        "title": "Kubernetes 1.35发布，提供了Pod原地扩缩容和AI优化调度功能",
+        "link": "https://www.infoq.cn/article/dqIF73wTjQsXAPgpN8Yc?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 14:39:00 GMT",
+        "first_seen": "2026-01-05T08:37:02.596100"
+      },
+      "484ce33e6b5edb7111468d9f96b8f20fbbfcff78533e8f9eac9b218014f7278a": {
+        "title": "AI生死局，一号位认知拉开企业差距！无问芯穹夏立雪：推理和智能体带来转型压力，中国开源模型在主导全球应用",
+        "link": "https://www.infoq.cn/article/UzcQymWWo3hWpOUXeh6S?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 16:16:00 GMT",
+        "first_seen": "2026-01-05T08:37:02.596106"
+      },
+      "8e40f6a3b69d948820908f6bbdb29155c94265d98813b76b3841c393b2700e23": {
+        "title": "开源Agent Sandbox实现Kubernetes平台上AI代理的安全部署",
+        "link": "https://www.infoq.cn/article/vEotjaclFg1UtW0VXCTq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 10:10:00 GMT",
+        "first_seen": "2026-01-05T08:37:02.596108"
+      },
+      "b8ee139a96c67866c0d3252860798b2b58ea87025d3e6cf05ccf744b1a876820": {
+        "title": "亚马逊大意失AI：昔日位面之子，沦为版本弃子？",
+        "link": "https://www.tmtpost.com/7831016.html",
+        "published_date": "Mon, 05 Jan 2026 15:07:00 GMT",
+        "first_seen": "2026-01-05T08:37:02.596110"
+      },
+      "8a2f5639cd2a1ec35181cef510cbb48deb844b7be971944eb78ed41f3c6ab1b8": {
+        "title": "Claude Code、Cursor 都过时了？！硅谷顶流大牛炸场暴论：AI 编程要练满 2000 小时才算“会用”，一年不用世界级大神也会沦为实习生水平",
+        "link": "https://www.infoq.cn/article/Qyqio9tXIB7zoeE3xVZQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 16:12:00 GMT",
+        "first_seen": "2026-01-05T08:37:02.596111"
       }
     },
     "Finance": {
@@ -4461,21 +4461,21 @@
         "link": "https://www.ft.com/content/c077e768-05d3-4305-907c-7ca21a6e50e1",
         "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-05T05:36:26.633770"
+      },
+      "481334f269a342a3656586da1b6ef8a1a3218dd0d3f0989f365413a1deff75f3": {
+        "title": "Oil prices fall after Trump’s Venezuela strikes",
+        "link": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
+        "published_date": "Mon, 05 Jan 2026 08:25:00 GMT",
+        "first_seen": "2026-01-05T08:36:25.488591"
+      },
+      "51e3c3ec8c945c7742ddad84fe2677e1b32534581cd8795e3921bc6c614243da": {
+        "title": "Maduro set to face drug trafficking charges in New York",
+        "link": "https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e",
+        "published_date": "Mon, 05 Jan 2026 08:01:00 GMT",
+        "first_seen": "2026-01-05T08:36:25.488603"
       }
     },
     "Ai": {
-      "e9cc5bfe47121445b825bfa69772420c3562062ed7c1374d9c25d9dcf989a9f9": {
-        "title": "英伟达巧用8B模型秒掉GPT-5，开源了",
-        "link": "https://www.qbitai.com/2025/12/359417.html",
-        "published_date": "Sat, 06 Dec 2025 06:10:00 GMT",
-        "first_seen": "2025-12-06T08:27:12.314333"
-      },
-      "18ade45ddff08f35b8bc9890948de367edeb5b4ed5825f3b6e88c7a7fb3cd931": {
-        "title": "SpaceX估值8000亿美元超OpenAI，IPO就在明年",
-        "link": "https://www.qbitai.com/2025/12/359371.html",
-        "published_date": "Sat, 06 Dec 2025 06:04:00 GMT",
-        "first_seen": "2025-12-06T08:27:12.314343"
-      },
       "ef783fcdffd9a9b987ad20d9026da6fc0b3f5884e2889553c2ba58f31d1c949b": {
         "title": "Ilya刚预言完，世界首个原生多模态架构NEO就来了：视觉和语言彻底被焊死",
         "link": "https://www.qbitai.com/2025/12/359437.html",
@@ -6629,13 +6629,43 @@
         "link": "https://www.qbitai.com/2026/01/366541.html",
         "published_date": "Mon, 05 Jan 2026 04:40:00 GMT",
         "first_seen": "2026-01-05T05:36:26.779732"
+      },
+      "ccdc0b29d9123de49037e1e420c0e761cdac0b4c8956ee15c29c7ba9893fa2a4": {
+        "title": "超越AlphaFold3，实现模型容量的规模化扩展，字节提出分子结构预测模型SeedFold",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-3",
+        "published_date": "Mon, 05 Jan 2026 14:41:00 GMT",
+        "first_seen": "2026-01-05T08:36:37.215186"
+      },
+      "0c48094245a1085318b74eb9f90e55b235e022bef5a3166b8b19d86b5395f8e7": {
+        "title": "蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-5",
+        "published_date": "Mon, 05 Jan 2026 15:53:00 GMT",
+        "first_seen": "2026-01-05T08:36:37.215193"
+      },
+      "bbf97d496f782347a55a0d9779a4cba398d4c4a8fa55c777f539bbead84a0005": {
+        "title": "AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05",
+        "published_date": "Mon, 05 Jan 2026 14:33:00 GMT",
+        "first_seen": "2026-01-05T08:36:37.215195"
+      },
+      "086b7f8096642377881a311908d2b8bd948068eeb7b68c385004718b0f40e3aa": {
+        "title": "刚刚，蝉联Future X全球榜首的MiroMind发布全球最强搜索智能体模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-4",
+        "published_date": "Mon, 05 Jan 2026 14:47:00 GMT",
+        "first_seen": "2026-01-05T08:36:37.215197"
+      },
+      "1300af2f1ccf2b39fdf085511d6b1f96f706b1849533bea9c3ebf90c0a0e1c7d": {
+        "title": "CES 2026超前瞻：空间智能来势汹汹！从实验室奢侈品到消费级刚需，如何重塑 AI 具身时代？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-2",
+        "published_date": "Mon, 05 Jan 2026 14:38:00 GMT",
+        "first_seen": "2026-01-05T08:36:37.215198"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-05T05:36:45.892783",
-    "Finance": "2026-01-05T05:36:26.633772",
-    "Ai": "2026-01-05T05:36:26.779739"
+    "Technology": "2026-01-05T08:37:02.596114",
+    "Finance": "2026-01-05T08:36:25.488606",
+    "Ai": "2026-01-05T08:36:37.215201"
   }
 }

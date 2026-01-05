@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Jan 2026 05:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 05:36:45 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 08:37:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>成本暴降 90%！亚马逊云科技正式发布 S3 Vectors：20 亿规模、百毫秒响应，向量数据库彻底进入“存储优先”时代</title>
-      <link>https://www.infoq.cn/article/xb5VDXD96B8sdi8dcqp0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[成本暴降 90%！亚马逊云科技正式发布 S3 Vectors：20 亿规模、百毫秒响应，向量数据库彻底进入“存储优先”时代]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xb5VDXD96B8sdi8dcqp0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kubernetes 1.35发布，提供了Pod原地扩缩容和AI优化调度功能</title>
+      <link>https://www.infoq.cn/article/dqIF73wTjQsXAPgpN8Yc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes 1.35发布，提供了Pod原地扩缩容和AI优化调度功能]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dqIF73wTjQsXAPgpN8Yc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026年Agentic AI十大关键趋势：技术、应用与治理三位一体</title>
-      <link>https://www.tmtpost.com/7830730.html</link>
-      <description>&lt;![CDATA[2026年Agentic AI十大关键趋势：技术、应用与治理三位一体]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7830730.html</guid>
+      <title>AI生死局，一号位认知拉开企业差距！无问芯穹夏立雪：推理和智能体带来转型压力，中国开源模型在主导全球应用</title>
+      <link>https://www.infoq.cn/article/UzcQymWWo3hWpOUXeh6S?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI生死局，一号位认知拉开企业差距！无问芯穹夏立雪：推理和智能体带来转型压力，中国开源模型在主导全球应用]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UzcQymWWo3hWpOUXeh6S?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>铭芯启睿完成超亿元Pre-A轮融资，持续发力高密度RRAM与存算一体技术 | 融资速递</title>
-      <link>https://www.tmtpost.com/7830791.html</link>
-      <description>&lt;![CDATA[铭芯启睿完成超亿元Pre-A轮融资，持续发力高密度RRAM与存算一体技术 | 融资速递]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7830791.html</guid>
+      <title>开源Agent Sandbox实现Kubernetes平台上AI代理的安全部署</title>
+      <link>https://www.infoq.cn/article/vEotjaclFg1UtW0VXCTq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源Agent Sandbox实现Kubernetes平台上AI代理的安全部署]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vEotjaclFg1UtW0VXCTq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三年超600亿投资，《原子能法》1月15日开始实施，2026，谁在接单可控核聚变？</title>
-      <link>https://www.tmtpost.com/7830854.html</link>
-      <description>&lt;![CDATA[三年超600亿投资，《原子能法》1月15日开始实施，2026，谁在接单可控核聚变？]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7830854.html</guid>
+      <title>亚马逊大意失AI：昔日位面之子，沦为版本弃子？</title>
+      <link>https://www.tmtpost.com/7831016.html</link>
+      <description>&lt;![CDATA[亚马逊大意失AI：昔日位面之子，沦为版本弃子？]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7831016.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI赋能低空经济：三大高潜力赛道即将引爆万亿市场</title>
-      <link>https://www.tmtpost.com/7830766.html</link>
-      <description>&lt;![CDATA[AI赋能低空经济：三大高潜力赛道即将引爆万亿市场]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 11:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7830766.html</guid>
+      <title>Claude Code、Cursor 都过时了？！硅谷顶流大牛炸场暴论：AI 编程要练满 2000 小时才算“会用”，一年不用世界级大神也会沦为实习生水平</title>
+      <link>https://www.infoq.cn/article/Qyqio9tXIB7zoeE3xVZQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code、Cursor 都过时了？！硅谷顶流大牛炸场暴论：AI 编程要练满 2000 小时才算“会用”，一年不用世界级大神也会沦为实习生水平]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Qyqio9tXIB7zoeE3xVZQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

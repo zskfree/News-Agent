@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Jan 2026 05:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 05:36:26 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 08:36:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Taxes will need to rise before next UK election, economists predict</title>
-      <link>https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded</link>
-      <description>&lt;![CDATA[Taxes will need to rise before next UK election, economists predict]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oil prices steady after Trump’s Venezuela strikes</title>
+      <title>Oil prices fall after Trump’s Venezuela strikes</title>
       <link>https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493</link>
-      <description>&lt;![CDATA[Oil prices steady after Trump’s Venezuela strikes]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 01:18:00 GMT</pubDate>
+      <description>&lt;![CDATA[Oil prices fall after Trump’s Venezuela strikes]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 08:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Asda and Morrisons’ private equity owners raise £6.5bn in property deals</title>
-      <link>https://www.ft.com/content/52dcd047-6f3b-4180-953f-751f3708e227</link>
-      <description>&lt;![CDATA[Asda and Morrisons’ private equity owners raise £6.5bn in property deals]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/52dcd047-6f3b-4180-953f-751f3708e227</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Ex-Chevron executive seeks $2bn for Venezuelan oil projects</title>
-      <link>https://www.ft.com/content/67c43f17-dbe4-42b3-be8d-6351ab842b06</link>
-      <description>&lt;![CDATA[Ex-Chevron executive seeks $2bn for Venezuelan oil projects]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/67c43f17-dbe4-42b3-be8d-6351ab842b06</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How would Donald Trump tap ‘tremendous’ wealth from Venezuelan oil?</title>
-      <link>https://www.ft.com/content/c077e768-05d3-4305-907c-7ca21a6e50e1</link>
-      <description>&lt;![CDATA[How would Donald Trump tap ‘tremendous’ wealth from Venezuelan oil?]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c077e768-05d3-4305-907c-7ca21a6e50e1</guid>
+      <title>Maduro set to face drug trafficking charges in New York</title>
+      <link>https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e</link>
+      <description>&lt;![CDATA[Maduro set to face drug trafficking charges in New York]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-05 05:36
+**最后更新时间**: 2026-01-05 08:36
+
+---
+
+## 🆕 最新更新 (2026-01-05 08:36)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [ReScript 12.0发布，提供了新的构建系统](https://www.infoq.cn/article/JkFRgmS0M5bEwEW6abK9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 16:19
+
+#### [AI生死局，一号位认知拉开企业差距！无问芯穹夏立雪：推理和智能体带来转型压力，中国开源模型在主导全球应用](https://www.infoq.cn/article/UzcQymWWo3hWpOUXeh6S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 16:16
+
+#### [Claude Code、Cursor 都过时了？！硅谷顶流大牛炸场暴论：AI 编程要练满 2000 小时才算“会用”，一年不用世界级大神也会沦为实习生水平](https://www.infoq.cn/article/Qyqio9tXIB7zoeE3xVZQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 16:12
+
+#### [把餐厅搬进地图：高德用 AI 打响本地生活新一战](https://www.infoq.cn/article/z7ulRgqvKdIuElyaVP22?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 15:25
+
+#### [Kubernetes 1.35发布，提供了Pod原地扩缩容和AI优化调度功能](https://www.infoq.cn/article/dqIF73wTjQsXAPgpN8Yc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 14:39
+
+#### [谷歌在不影响代码质量的情况下改善了ART的编译时间](https://www.infoq.cn/article/wXueOV8eHIvztMMlX2fU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-05 13:54
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [成立仅一年多，“闪魂”完成数亿元人民币首轮融资 | 融资快讯](https://www.tmtpost.com/7654833.html)
+**发布时间**: 2026-01-05 16:04
+
+#### [欠薪一年、诉讼过亿，茶里的立顿梦碎了](https://www.tmtpost.com/7830950.html)
+**发布时间**: 2026-01-05 16:02
+
+#### [打不开的车门](https://www.tmtpost.com/7830997.html)
+**发布时间**: 2026-01-05 16:01
+
+#### [商业航天IPO集体起跑，资本想赌下一个“中国Space X”？](https://www.tmtpost.com/7831049.html)
+**发布时间**: 2026-01-05 16:00
+
+#### [光伏反内卷，正在从根子上解决问题……](https://www.tmtpost.com/7831084.html)
+**发布时间**: 2026-01-05 16:00
+
+#### [2026开年全球资产市场核心驱动解析](https://www.tmtpost.com/7831086.html)
+**发布时间**: 2026-01-05 15:55
+
+#### [2025银行业罚单“量价齐升”：6521张罚没 26.4 亿，反洗钱违规跃升第二大痛点](https://www.tmtpost.com/7831010.html)
+**发布时间**: 2026-01-05 15:47
+
+#### [【Fintech 周报】国寿原总裁退休14年后被开除党籍；东莞银行、南海农商行再度重启IPO](https://www.tmtpost.com/7831061.html)
+**发布时间**: 2026-01-05 15:37
+
+#### [Hisense to Unveil Upgraded RGB Mini LED TVs at CES 2026](https://www.tmtpost.com/7831093.html)
+**发布时间**: 2026-01-05 15:36
+
+#### [菜鸟归巢，折翼无人车](https://www.tmtpost.com/7830843.html)
+**发布时间**: 2026-01-05 15:07
+
+#### [亚马逊大意失AI：昔日位面之子，沦为版本弃子？](https://www.tmtpost.com/7831016.html)
+**发布时间**: 2026-01-05 15:07
+
+#### [特斯拉跌落神坛，比亚迪夺走纯电王冠](https://www.tmtpost.com/7830873.html)
+**发布时间**: 2026-01-05 14:32
+
+#### [中国豪华车，如何打碎思想钢印？](https://www.tmtpost.com/7831001.html)
+**发布时间**: 2026-01-05 14:31
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [挖到 2 个 GitHub 开源项目，第 1 个堪称神器啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530340&idx=1&sn=06789f787c9e9f0eaabc34dd0a0c354a)
+**发布时间**: 2026-01-05 15:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [小米 Buds 6 半入耳降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/105120)
+**发布时间**: 2026-01-05 15:00
+
+#### [线下活动｜Global Game Jam 2026 广州荔湾站招募](https://sspai.com/post/105070)
+**发布时间**: 2026-01-05 14:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [这些2025年出来的高科技，你认识多少个？](http://www.huxiu.com/article/4822781.html?f=wangzhan)
+**发布时间**: 2026-01-05 14:30
 
 ---
 
