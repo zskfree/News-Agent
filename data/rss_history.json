@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "aec8c397432ad6428659af946a9f7c9d8db4a6af87aa5b46f8ee921b342c4985": {
-        "title": "KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算",
-        "link": "https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-07T08:27:35.145678"
-      },
-      "9751109064e757a79d117f3616618c4de67ab41b66549524c43e26e01045406d": {
-        "title": "对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7799686.html",
-        "published_date": "Sun, 07 Dec 2025 13:33:00 GMT",
-        "first_seen": "2025-12-07T08:27:35.145686"
-      },
-      "abcc1933e22a78edb7ebfaafac7b515dc80d9da742a8559f1427720cdbc90058": {
-        "title": "Reddit将其评论功能的后端从Python迁移为Go微服务",
-        "link": "https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:16:00 GMT",
-        "first_seen": "2025-12-07T08:27:35.145689"
-      },
-      "28799df8420d4eadaaaa97d0061cafb08d2e71111b0b755e1957171156412689": {
-        "title": "运维大规模反向代理的教训",
-        "link": "https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:09:00 GMT",
-        "first_seen": "2025-12-07T08:27:35.145691"
-      },
-      "c424dd6b7a844969cc596dc8742ee8b6ceffe729aff586851627e16989605d62": {
-        "title": "盘点 10 个本周在 GitHub 上火火火的开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529468&idx=1&sn=99bab6296dc990f9c04a787268beffea",
-        "published_date": "Sun, 07 Dec 2025 15:04:00 GMT",
-        "first_seen": "2025-12-07T08:27:35.145693"
-      },
       "d85ca7ffcfbb4873385f5032a994bb5a9f5ccfb5a682e54c2c2c173555d90508": {
         "title": "英霸已老，谷王当立 | 财经峰评",
         "link": "https://www.tmtpost.com/7799905.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7832208.html",
         "published_date": "Tue, 06 Jan 2026 11:10:00 GMT",
         "first_seen": "2026-01-06T05:28:36.865635"
+      },
+      "f0efa460e071eb07e2d1f7339e763b791235f0401b945f9fba6d8fbfa2f310ae": {
+        "title": "黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至",
+        "link": "https://www.tmtpost.com/7832067.html",
+        "published_date": "Tue, 06 Jan 2026 09:45:00 GMT",
+        "first_seen": "2026-01-06T08:34:32.847333"
+      },
+      "db43a680d3779ab6e10216d4a61704c6153860840f6365f5daab8e365eb2c242": {
+        "title": "OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋",
+        "link": "https://www.tmtpost.com/7832526.html",
+        "published_date": "Tue, 06 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-06T08:34:32.847340"
+      },
+      "4a8025ff4fd27465cec8b97ec60e48f8c08b6c1b8d9c7974d9fcfd6b85614f58": {
+        "title": "谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！",
+        "link": "https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-06T08:34:32.847342"
+      },
+      "97c01379bfcadafc5a803d0a55300ea22725093e8f865034bc897af35ee216a3": {
+        "title": "微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了",
+        "link": "https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-06T08:34:32.847344"
+      },
+      "ed7aaad295b1acbf31b5de5e4e1558d6a2a00bafac970c265a988b0921b0e331": {
+        "title": "Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍",
+        "link": "https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-06T08:34:32.847345"
       }
     },
     "Finance": {
@@ -6683,13 +6683,43 @@
         "link": "https://www.qbitai.com/2026/01/366596.html",
         "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
         "first_seen": "2026-01-06T05:28:21.603348"
+      },
+      "7115f517f8bfc86afa30a558ebdb7e3db55fe3ab4e3d49d8dacb00790d5222ca": {
+        "title": "1956-2026：人类与机器智能的七十年对话",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-4",
+        "published_date": "Tue, 06 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-06T08:34:02.523389"
+      },
+      "182feed3c806481c25b66beb94dcfa6a84ac417f88802f54e0745a0a02d561f3": {
+        "title": "港科大教授实测AI眼镜“作弊”：30分钟碾压95%的学生，把传统教学评估体系整破防了",
+        "link": "https://www.qbitai.com/2026/01/366939.html",
+        "published_date": "Tue, 06 Jan 2026 07:24:00 GMT",
+        "first_seen": "2026-01-06T08:34:02.523399"
+      },
+      "69facb5f9d86f0f728aa6a451f537dac227e665308f633391a3330f7b0b0dc13": {
+        "title": "陈天桥代季峰打响2026大模型第一枪：30B参数跑出1T性能",
+        "link": "https://www.qbitai.com/2026/01/366652.html",
+        "published_date": "Tue, 06 Jan 2026 06:28:00 GMT",
+        "first_seen": "2026-01-06T08:34:02.523401"
+      },
+      "614eb77e5fa33e13eea532fb11ac914348199d11f3ee2599b927c4188e654490": {
+        "title": "英特尔CES奇袭老黄大本营！英伟达显卡刚涨价，最强酷睿量产出货",
+        "link": "https://www.qbitai.com/2026/01/366636.html",
+        "published_date": "Tue, 06 Jan 2026 05:54:00 GMT",
+        "first_seen": "2026-01-06T08:34:02.523403"
+      },
+      "960d9f97925f2efdb588b3d89970f3050d876284af1b72ed7773f023b6f964a8": {
+        "title": "海信CES发布全新一代RGB-Mini LED，全球首创玲珑4芯真彩背光",
+        "link": "https://www.qbitai.com/2026/01/366621.html",
+        "published_date": "Tue, 06 Jan 2026 05:41:00 GMT",
+        "first_seen": "2026-01-06T08:34:02.523405"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-06T05:28:36.865637",
+    "Technology": "2026-01-06T08:34:32.847348",
     "Finance": "2026-01-06T05:28:21.422357",
-    "Ai": "2026-01-06T05:28:21.603350"
+    "Ai": "2026-01-06T08:34:02.523407"
   }
 }

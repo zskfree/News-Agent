@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 05:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 05:28:36 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:34:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月</title>
-      <link>https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至</title>
+      <link>https://www.tmtpost.com/7832067.html</link>
+      <description>&lt;![CDATA[黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7832067.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向</title>
-      <link>https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋</title>
+      <link>https://www.tmtpost.com/7832526.html</link>
+      <description>&lt;![CDATA[OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7832526.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！</title>
-      <link>https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！</title>
+      <link>https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路</title>
-      <link>https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了</title>
+      <link>https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>脑机接口“炒作”，有点太超前了</title>
-      <link>https://www.tmtpost.com/7832208.html</link>
-      <description>&lt;![CDATA[脑机接口“炒作”，有点太超前了]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7832208.html</guid>
+      <title>Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍</title>
+      <link>https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 05:26:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 05:28:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:34:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-3</link>
-      <description>&lt;![CDATA[当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-3</guid>
+      <title>1956-2026：人类与机器智能的七十年对话</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-06-4</link>
+      <description>&lt;![CDATA[1956-2026：人类与机器智能的七十年对话]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 14:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-2</link>
-      <description>&lt;![CDATA[黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-2</guid>
+      <title>港科大教授实测AI眼镜“作弊”：30分钟碾压95%的学生，把传统教学评估体系整破防了</title>
+      <link>https://www.qbitai.com/2026/01/366939.html</link>
+      <description>&lt;![CDATA[港科大教授实测AI眼镜“作弊”：30分钟碾压95%的学生，把传统教学评估体系整破防了]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366939.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06</link>
-      <description>&lt;![CDATA[检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06</guid>
+      <title>陈天桥代季峰打响2026大模型第一枪：30B参数跑出1T性能</title>
+      <link>https://www.qbitai.com/2026/01/366652.html</link>
+      <description>&lt;![CDATA[陈天桥代季峰打响2026大模型第一枪：30B参数跑出1T性能]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366652.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛</title>
-      <link>https://www.qbitai.com/2026/01/366596.html</link>
-      <description>&lt;![CDATA[老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 01:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366596.html</guid>
+      <title>英特尔CES奇袭老黄大本营！英伟达显卡刚涨价，最强酷睿量产出货</title>
+      <link>https://www.qbitai.com/2026/01/366636.html</link>
+      <description>&lt;![CDATA[英特尔CES奇袭老黄大本营！英伟达显卡刚涨价，最强酷睿量产出货]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 05:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366636.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>海信CES发布全新一代RGB-Mini LED，全球首创玲珑4芯真彩背光</title>
+      <link>https://www.qbitai.com/2026/01/366621.html</link>
+      <description>&lt;![CDATA[海信CES发布全新一代RGB-Mini LED，全球首创玲珑4芯真彩背光]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 05:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366621.html</guid>
       <category>Ai</category>
     </item>
   </channel>
