@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-05 23:23
+**最后更新时间**: 2026-01-06 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-06 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The long wait of María Corina Machado](https://www.ft.com/content/018694dc-7123-4f84-83dd-2d6f4d8de933)
+**发布时间**: 2026-01-06 05:00
+
+#### [London office shortage forces big companies to stay put](https://www.ft.com/content/53363bf1-3431-4019-b3f2-302811853236)
+**发布时间**: 2026-01-06 05:00
+
+#### [Trump’s renewed ambition to seize Greenland triggers alarm in Europe](https://www.ft.com/content/c1c8abb1-5c09-46b0-a1d3-68341c4e5d98)
+**发布时间**: 2026-01-06 05:00
+
+#### [Eni, Repsol fight to recoup $6bn in gas payments from Venezuela](https://www.ft.com/content/6cf5711c-021a-415f-b32c-8b8bf34a4c82)
+**发布时间**: 2026-01-06 05:00
+
+#### [White House seeks to reassure Republicans over Venezuela’s future](https://www.ft.com/content/74be0d45-c755-48dd-af1d-6d4c8f297747)
+**发布时间**: 2026-01-06 04:11
+
+#### [China’s influence in US backyard tested by Maduro’s downfall](https://www.ft.com/content/9d53fc43-6352-4ee5-891e-c067d00305ba)
+**发布时间**: 2026-01-06 01:50
+
+#### [Venezuela launches wave of repression after US seizure of Maduro](https://www.ft.com/content/b3a2763a-3987-419e-bcf1-11432f747182)
+**发布时间**: 2026-01-06 01:18
+
+#### [The drugs case against Maduro](https://www.ft.com/content/56d01b95-86b4-4fc7-ac21-b08e2471cf85)
+**发布时间**: 2026-01-05 23:27
+
+#### [US oil refiners gear up for comeback of Venezuelan crude](https://www.ft.com/content/574fb50d-e26c-4d20-ba7a-99e9831f292c)
+**发布时间**: 2026-01-05 23:13
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As AMD chases Nvidia, here’s how it’s positioning itself for the future of AI](https://www.marketwatch.com/story/as-amd-chases-nvidia-heres-how-its-positioning-itself-for-the-future-of-ai-09048ea4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 04:13
+
+#### [Manchester United’s stock climbs after football club fires manager Ruben Amorim](https://www.marketwatch.com/story/manchester-uniteds-stock-climbs-after-football-club-fires-coach-ruben-amorim-32739fbb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 02:06
+
+#### [Under Armour has a new fan — in the firm founded by the ‘Warren Buffett of Canada’](https://www.marketwatch.com/story/under-armour-has-a-new-fan-in-the-firm-founded-by-the-warren-buffett-of-canada-7ca2b846?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 01:20
+
+#### [New weight-loss pill version of Novo Nordisk’s Wegovy is now available. Here’s how rival stocks Lilly and Viking are reacting.](https://www.marketwatch.com/story/novo-nordisks-weight-loss-pill-is-available-heres-why-lillys-and-vikings-stocks-are-down-0efa19ce?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 01:16
+
+#### [Versant gets off to a rocky start on first day of trading after spinning off from Comcast](https://www.marketwatch.com/story/versant-is-off-to-a-rocky-start-on-first-day-of-trading-after-spinoff-from-comcast-b8b4df28?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 01:13
+
+#### [‘Trump doctrine’ demands the world share riches with the U.S. — Venezuelan oil is the latest bargaining chip](https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 01:01
+
+#### [‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?](https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 00:46
+
+#### [‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.](https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 00:44
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Jan 2026 23:21:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 23:23:23 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 05:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 05:28:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-01-06日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-06/</link>
-      <description>&lt;![CDATA[2026-01-06日刊]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-06/</guid>
+      <title>当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-06-3</link>
+      <description>&lt;![CDATA[当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI Shortlist上线｜研究值得关注的AI企业</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-8</link>
-      <description>&lt;![CDATA[AI Shortlist上线｜研究值得关注的AI企业]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-8</guid>
+      <title>黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-06-2</link>
+      <description>&lt;![CDATA[黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-7</link>
-      <description>&lt;![CDATA[Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 17:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-7</guid>
+      <title>检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-06</link>
+      <description>&lt;![CDATA[检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-05-6</link>
-      <description>&lt;![CDATA[空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-05-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少</title>
-      <link>https://www.qbitai.com/2026/01/366593.html</link>
-      <description>&lt;![CDATA[悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少]]&gt;</description>
-      <pubDate>Mon, 05 Jan 2026 11:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366593.html</guid>
+      <title>老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛</title>
+      <link>https://www.qbitai.com/2026/01/366596.html</link>
+      <description>&lt;![CDATA[老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 01:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366596.html</guid>
       <category>Ai</category>
     </item>
   </channel>

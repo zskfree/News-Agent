@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-05 23:23
+**最后更新时间**: 2026-01-06 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-06 05:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [分析师称，迈威尔和英特尔股票是人工智能领域的优质投资选择](https://www.tmtpost.com/7832462.html)
+**发布时间**: 2026-01-06 13:16
+
+#### [Palantir股价大涨，委内瑞拉突袭行动带来的利好](https://www.tmtpost.com/7832460.html)
+**发布时间**: 2026-01-06 13:16
+
+#### [随着自动驾驶出租车竞争加剧，优步股票被下调至“卖出”评级](https://www.tmtpost.com/7832456.html)
+**发布时间**: 2026-01-06 13:15
+
+#### [高盛称台积电股票值得买入，预计今年有望上涨46%](https://www.tmtpost.com/7832454.html)
+**发布时间**: 2026-01-06 13:15
+
+#### [车圈下半场在复购口碑](https://www.tmtpost.com/7832082.html)
+**发布时间**: 2026-01-06 13:14
+
+#### [价格战杀到6元线，矿泉水价的咖啡背后藏着怎样的盈利魔法？](https://www.tmtpost.com/7832203.html)
+**发布时间**: 2026-01-06 11:49
+
+#### [脑机接口“炒作”，有点太超前了](https://www.tmtpost.com/7832208.html)
+**发布时间**: 2026-01-06 11:10
+
+#### [硅基同事来了：关于机油、风沙与个体尊严](https://www.tmtpost.com/7831265.html)
+**发布时间**: 2026-01-06 10:59
+
+#### [Nvidia Unveils ‘Vera Rubin’ Platform as Next Generation of AI Computing at CES 2026](https://www.tmtpost.com/7832224.html)
+**发布时间**: 2026-01-06 10:50
+
+#### [三家股价走势显示有望转机的全球品牌](https://www.tmtpost.com/7832219.html)
+**发布时间**: 2026-01-06 10:46
+
+#### [年度趋势：告别大单品时代](https://www.tmtpost.com/7831787.html)
+**发布时间**: 2026-01-06 10:20
+
+#### [总额超85亿元！血液净化龙头并购威高普瑞；抢狂潮再起，“砂石装备第一股”拟收购哈萨克斯坦银矿；【并购一线】](https://www.tmtpost.com/7831817.html)
+**发布时间**: 2026-01-06 10:12
+
+#### [2026综艺展望：止颓之后，如何劈开行业新生机？](https://www.tmtpost.com/7831795.html)
+**发布时间**: 2026-01-06 10:00
+
+#### [黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至](https://www.tmtpost.com/7832067.html)
+**发布时间**: 2026-01-06 09:45
+
+#### [多邻国在2025年遭遇惨淡表现，为什么美国银行认为其股价将在2026年大幅上涨](https://www.tmtpost.com/7832116.html)
+**发布时间**: 2026-01-06 09:43
+
+#### [OpenAI今年可能会戳破AI泡沫，但这两只科技股仍有望上涨](https://www.tmtpost.com/7832114.html)
+**发布时间**: 2026-01-06 09:43
+
+#### [AT&T的股价近期表现不佳，但2026年或许会迎来转机](https://www.tmtpost.com/7832112.html)
+**发布时间**: 2026-01-06 09:42
+
+#### [这只股票是伯恩斯坦在欧洲芯片领域的首选，原因在于“前所未有的人工智能需求”](https://www.tmtpost.com/7832109.html)
+**发布时间**: 2026-01-06 09:42
+
+#### [分析师称IBM股票是“加速增长的故事”，而Adobe却未能获得同样的信心票](https://www.tmtpost.com/7832099.html)
+**发布时间**: 2026-01-06 09:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [信息图的不可能三角，被这个开源项目打破了](https://www.infoq.cn/article/3iErdVLkHlYkGRlM6QMC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 12:09
+
+#### [被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实](https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 11:20
+
+#### [独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向](https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:58
+
+#### [软件开发人员认为无需关注却可能会影响其工作的那些事](https://www.infoq.cn/article/Tk3YL2ujBedb1JGquOxS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:56
+
+#### [“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！](https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:37
+
+#### [「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路](https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:33
+
+#### [API平台Unkey因性能问题放弃无服务器架构](https://www.infoq.cn/article/FQQDeR4upyOzyj4dSHph?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:07
+
+#### [直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月](https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 09:17
+
+#### [微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了](https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [将旧 iPad 物尽其用，我把它变成了一个智能天气时钟](https://sspai.com/post/105047)
+**发布时间**: 2026-01-06 11:31
+
+#### [派早报：荣耀发布多款新品、抖音将支持杜比视界等](https://sspai.com/post/105184)
+**发布时间**: 2026-01-06 08:21
 
 ---
 

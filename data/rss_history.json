@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "79ac439cf67dbd0074797c5fc2c8165727a8016238a9d59a53dc7e22b718776a": {
-        "title": "【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3",
-        "link": "https://www.tmtpost.com/7799625.html",
-        "published_date": "Sun, 07 Dec 2025 11:05:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398771"
-      },
-      "f509841b004c1b5e3fd111d46539e061fca9a67ab498fdbad9881badc93164ec": {
-        "title": "马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光",
-        "link": "http://www.geekpark.net/news/357693",
-        "published_date": "Sun, 07 Dec 2025 08:06:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398778"
-      },
-      "a90b4ab17f38c2272d120658129df1ca86dee2187726c55f3b853dbcbcfdc0d9": {
-        "title": "System Initiative公布了实时多云发现和自动化的扩展",
-        "link": "https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398780"
-      },
-      "142ab4472ca294f89da4cfaeb2cde1e36673eebc276d120f355b2943a23f66b1": {
-        "title": "百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战",
-        "link": "https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398782"
-      },
-      "17849d8af008f40e6d6c118d092d925ca485ef2f1f4a922525544bd3bad2ba6b": {
-        "title": "re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片",
-        "link": "https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 11:38:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398784"
-      },
       "aec8c397432ad6428659af946a9f7c9d8db4a6af87aa5b46f8ee921b342c4985": {
         "title": "KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算",
         "link": "https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7831517.html",
         "published_date": "Mon, 05 Jan 2026 18:59:00 GMT",
         "first_seen": "2026-01-05T23:23:56.001241"
+      },
+      "d924a3dd76b5992877e0e32b3fe1bc3f0c41c470d32d30cf1489e292889ab54f": {
+        "title": "直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月",
+        "link": "https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 09:17:00 GMT",
+        "first_seen": "2026-01-06T05:28:36.865621"
+      },
+      "43f6098a5c47b140ccca4ec9b72600be45d8023849c5ff970b0279018de653ac": {
+        "title": "独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向",
+        "link": "https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:58:00 GMT",
+        "first_seen": "2026-01-06T05:28:36.865628"
+      },
+      "6e58d28cd3305c8aace19c2f327694a301efe6773f6da5fecafb265c278a0463": {
+        "title": "“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！",
+        "link": "https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:37:00 GMT",
+        "first_seen": "2026-01-06T05:28:36.865631"
+      },
+      "d1b872caeeedb245af83f24b587751babf415f06a3365bbb6a79178fe605651b": {
+        "title": "「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路",
+        "link": "https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:33:00 GMT",
+        "first_seen": "2026-01-06T05:28:36.865633"
+      },
+      "187fbaaaddf35f4f6d92cceb0a8b7d6dd0cdbcc70f1f312cd51bbdb15eabbee6": {
+        "title": "脑机接口“炒作”，有点太超前了",
+        "link": "https://www.tmtpost.com/7832208.html",
+        "published_date": "Tue, 06 Jan 2026 11:10:00 GMT",
+        "first_seen": "2026-01-06T05:28:36.865635"
       }
     },
     "Finance": {
-      "ce429f4d2a97c113788ee6bb3e93fdba0e3ae987e1457d399b340afe94e401f1": {
-        "title": "US tariffs prompt surge in Chinese exports to south-east Asia",
-        "link": "https://www.ft.com/content/16d0336b-d855-42ae-b0a7-d509d21cec9b",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389048"
-      },
-      "ddd1a7a0e9584baeec26f34ab1d949e2cca399d29e4b6a1e613c3d0285dd5ede": {
-        "title": "Europe captures record share of private capital money",
-        "link": "https://www.ft.com/content/03877379-8a4a-4dd6-b681-8aadb67578ae",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389057"
-      },
-      "b6c18355771f76ce86976cb349039d82002b921f672b473da1e4ee0d15592b19": {
-        "title": "Ukraine’s Black Sea attacks trigger surge in shipping insurance prices",
-        "link": "https://www.ft.com/content/b5962cf4-aec1-445e-805e-0122d43d67be",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389059"
-      },
-      "a96cd7cf76e08a0fd0887e07895921dfe86716e031177b5ff0cf47dd3cdcad79": {
-        "title": "Should Europe fund Ukraine? It can’t easily afford not to",
-        "link": "https://www.ft.com/content/eb1006b3-4dc9-4d75-8c8f-9399d7628ab3",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389061"
-      },
-      "d567eb18801fc92a3035a6e313994930fca5ede5d0c89002780730462f1053d9": {
-        "title": "Hollywood fears job cuts as opposition to Netflix-Warner deal grows",
-        "link": "https://www.ft.com/content/7c901bb2-c9d9-4921-a5aa-99235d4ad12f",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389063"
-      },
       "f74c3bdb87b0a0aa4e6ac5b1f4f180e7a117bb80a61554398a1d81c5ed3fd6cf": {
         "title": "Fed expected to cut rates despite deep divisions over US economic outlook",
         "link": "https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f",
@@ -4479,15 +4449,39 @@
         "link": "https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories",
         "published_date": "Mon, 05 Jan 2026 21:43:00 GMT",
         "first_seen": "2026-01-05T23:23:23.303923"
+      },
+      "7c4cf48e50fee5b933c046679b3f9b2eab1bb5bbd7fe70207b24a03916c2db42": {
+        "title": "As AMD chases Nvidia, here’s how it’s positioning itself for the future of AI",
+        "link": "https://www.marketwatch.com/story/as-amd-chases-nvidia-heres-how-its-positioning-itself-for-the-future-of-ai-09048ea4?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 04:13:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.422333"
+      },
+      "c43a3bb119163f33b030d5607efd1ab2736048910e2ebd3b37fedf9a9210026a": {
+        "title": "New weight-loss pill version of Novo Nordisk’s Wegovy is now available. Here’s how rival stocks Lilly and Viking are reacting.",
+        "link": "https://www.marketwatch.com/story/novo-nordisks-weight-loss-pill-is-available-heres-why-lillys-and-vikings-stocks-are-down-0efa19ce?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 01:16:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.422347"
+      },
+      "e1e0dc5eeb8be698d1842b9f4075db2488ba921830259255c48b3fe8eba366f9": {
+        "title": "Eni, Repsol fight to recoup $6bn in gas payments from Venezuela",
+        "link": "https://www.ft.com/content/6cf5711c-021a-415f-b32c-8b8bf34a4c82",
+        "published_date": "Tue, 06 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.422350"
+      },
+      "c417375d4235359ba3e7e6da15422655e7cb1b1208f9097a542850799bc8e9a0": {
+        "title": "‘Trump doctrine’ demands the world share riches with the U.S. — Venezuelan oil is the latest bargaining chip",
+        "link": "https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 01:01:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.422353"
+      },
+      "eb32ee7a5177388b1c8357cdfd1adeed7bbf5878dabc66c6be4531137213a88e": {
+        "title": "Under Armour has a new fan — in the firm founded by the ‘Warren Buffett of Canada’",
+        "link": "https://www.marketwatch.com/story/under-armour-has-a-new-fan-in-the-firm-founded-by-the-warren-buffett-of-canada-7ca2b846?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 01:20:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.422355"
       }
     },
     "Ai": {
-      "3bf98475066d6cdc62b9a96dc17fbc5301fffa7ae8dec1708f62124c0ffcba5a": {
-        "title": "2025-12-07日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-07/",
-        "published_date": "Sun, 07 Dec 2025 07:13:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.514949"
-      },
       "fa5da11081cecfac4e1b992299c767b221b8a042b81a19405b5ff4afd75a290b": {
         "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
         "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
@@ -6665,13 +6659,37 @@
         "link": "https://www.qbitai.com/2026/01/366593.html",
         "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
         "first_seen": "2026-01-05T23:23:23.450640"
+      },
+      "960473a0bdf97a130c365355ccfe310cf203cb9dddf13e7242b8f0d282be39b6": {
+        "title": "当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-3",
+        "published_date": "Tue, 06 Jan 2026 11:57:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.603335"
+      },
+      "97ad0f61a6e547e1e45528f4c16ab0605ad25ad62e7bc42f2123ee7644d206b8": {
+        "title": "黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-2",
+        "published_date": "Tue, 06 Jan 2026 10:29:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.603344"
+      },
+      "d2ec3112f2af19a08ded7ce133101590f573f741629511d9fefe3c1212dd2dfc": {
+        "title": "检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06",
+        "published_date": "Tue, 06 Jan 2026 10:21:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.603346"
+      },
+      "45b3cb1ae245d3fe66c3ed9360253e1ecc78a7a6a87343fc68cdc1ecda6b93be": {
+        "title": "老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛",
+        "link": "https://www.qbitai.com/2026/01/366596.html",
+        "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
+        "first_seen": "2026-01-06T05:28:21.603348"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-05T23:23:56.001243",
-    "Finance": "2026-01-05T23:23:23.303926",
-    "Ai": "2026-01-05T23:23:23.450643"
+    "Technology": "2026-01-06T05:28:36.865637",
+    "Finance": "2026-01-06T05:28:21.422357",
+    "Ai": "2026-01-06T05:28:21.603350"
   }
 }
