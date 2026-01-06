@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 08:34
+**最后更新时间**: 2026-01-06 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-06 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [委内瑞拉新闻带动部分石油股上涨，但那些下跌的股票或许更值得投资](https://www.tmtpost.com/7833052.html)
+**发布时间**: 2026-01-06 22:12
+
+#### [脑机接口概念引爆A股，有公司火速组织超百家机构交流会](https://www.tmtpost.com/7832948.html)
+**发布时间**: 2026-01-06 21:23
+
+#### [光韵达12亿定增补流幕后：控股股东的“资本棋局”与业绩困局](https://www.tmtpost.com/7832992.html)
+**发布时间**: 2026-01-06 21:22
+
+#### [Broadcom Secures $21 Billion AI Chip Deal with Anthropic](https://www.tmtpost.com/7833003.html)
+**发布时间**: 2026-01-06 21:03
+
+#### [AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives](https://www.tmtpost.com/7832999.html)
+**发布时间**: 2026-01-06 20:57
+
+#### [2026年，车路协同还能翻盘吗？](https://www.tmtpost.com/7832581.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [“学AI”，围猎中年大哥](https://www.tmtpost.com/7832448.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [英伟达重注Groq背后，中美疯抢同一个未来](https://www.tmtpost.com/7832440.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [京东的外卖风暴，将在 2026 年持续](https://www.tmtpost.com/7832425.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [2025年零售圈十大收购事件发布](https://www.tmtpost.com/7832470.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [38部新片填满一年日程表，2026的好莱坞关注这些电影就够了（荐片）](https://www.tmtpost.com/7832802.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [210亿美元订单、万亿市值，博通芯片帝国崛起](https://www.tmtpost.com/7832604.html)
+**发布时间**: 2026-01-06 19:49
+
+#### [纸尿裤材料商跨界高端芯片互连材料，延江股份的盘算与难题](https://www.tmtpost.com/7832904.html)
+**发布时间**: 2026-01-06 19:41
+
+#### [大厂涨薪的面子和里子](https://www.tmtpost.com/7832868.html)
+**发布时间**: 2026-01-06 19:27
+
+#### [2025年末港股“反常”逻辑：谁在撤离？谁将归来？](https://www.tmtpost.com/7832294.html)
+**发布时间**: 2026-01-06 18:44
+
+#### [疯狂的存储江湖：造富、混战和洗牌](https://www.tmtpost.com/7832421.html)
+**发布时间**: 2026-01-06 18:44
+
+#### [商业泛滥的古镇，该换种打法了](https://www.tmtpost.com/7832202.html)
+**发布时间**: 2026-01-06 18:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件](https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 20:11
+
+#### [苏妈和李飞飞炸场CES！AMD AI全栈野心显露：从云端到个人PC，AI芯片性能四年要飙1000倍](https://www.infoq.cn/article/iJl2WgKU5LJEqaVekI6U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 20:05
+
+#### [模力工场 027 周 AI 应用榜：从“一键生成”到“自动交付”，最会帮你干活的 AI 榜单来袭](https://www.infoq.cn/article/bwRX9exXQk5QPNm6zXYZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 20:00
+
+#### [架构师困境：选择已被验证的道路，还是自行开辟一条新路？](https://www.infoq.cn/article/laWPPzqqBDjv9w10HhgP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 16:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 125 | 柯达迷你钥匙扣相机开箱，不到十元的宜家电池值得囤吗](https://sspai.com/post/105197)
+**发布时间**: 2026-01-06 17:00
 
 ---
 

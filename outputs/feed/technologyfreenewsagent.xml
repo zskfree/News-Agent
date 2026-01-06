@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 08:34:32 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 23:23:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至</title>
-      <link>https://www.tmtpost.com/7832067.html</link>
-      <description>&lt;![CDATA[黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7832067.html</guid>
+      <title>Broadcom Secures $21 Billion AI Chip Deal with Anthropic</title>
+      <link>https://www.tmtpost.com/7833003.html</link>
+      <description>&lt;![CDATA[Broadcom Secures $21 Billion AI Chip Deal with Anthropic]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 21:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7833003.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋</title>
-      <link>https://www.tmtpost.com/7832526.html</link>
-      <description>&lt;![CDATA[OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7832526.html</guid>
+      <title>黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”</title>
+      <link>https://www.tmtpost.com/7831996.html</link>
+      <description>&lt;![CDATA[黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7831996.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！</title>
-      <link>https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives</title>
+      <link>https://www.tmtpost.com/7832999.html</link>
+      <description>&lt;![CDATA[AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 20:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7832999.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了</title>
-      <link>https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件</title>
+      <link>https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 20:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍</title>
-      <link>https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&amp;utm_medium=article</guid>
+      <title>被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实</title>
+      <link>https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实]]&gt;</description>
+      <pubDate>Tue, 06 Jan 2026 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

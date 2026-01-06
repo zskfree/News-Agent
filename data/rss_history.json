@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d85ca7ffcfbb4873385f5032a994bb5a9f5ccfb5a682e54c2c2c173555d90508": {
-        "title": "英霸已老，谷王当立 | 财经峰评",
-        "link": "https://www.tmtpost.com/7799905.html",
-        "published_date": "Sun, 07 Dec 2025 22:27:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556708"
-      },
-      "19980621a5dea4de2a0f77308dc42978431edab711f67a644e85d640dc60dd40": {
-        "title": "张建中与摩尔线程如何铸就千亿GPU帝国",
-        "link": "https://www.tmtpost.com/7799691.html",
-        "published_date": "Sun, 07 Dec 2025 20:16:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556714"
-      },
-      "8cc9ce0ddc285575ca91f2524cf58df587602945fb3a0434c638ab2d9396ce71": {
-        "title": "字节即梦张楠：AI 时代，如何探索人的想象力？",
-        "link": "http://www.geekpark.net/news/357697",
-        "published_date": "Sun, 07 Dec 2025 15:33:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556716"
-      },
-      "45df68a34365539c3ddf8e5494aed6eee96a9760eef37fbab3eed537bf47b0dd": {
-        "title": "影石刘靖康：全景无人机，是「马车时代的汽车」",
-        "link": "http://www.geekpark.net/news/357696",
-        "published_date": "Sun, 07 Dec 2025 15:20:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556718"
-      },
-      "80948fa4ea31171602e3b519ffb28d791715a086f0d1109d9d1427b419e16f56": {
-        "title": "AI作图+仅退款，正在围猎电商卖家",
-        "link": "https://www.tmtpost.com/7799317.html",
-        "published_date": "Sun, 07 Dec 2025 18:15:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556719"
-      },
       "904162b7a9e05e9aab45290435324e6c478b743230438d2e3208d872680ce386": {
         "title": "Maternal Instinct is the Key for AI Living Peacefully With Humans, Says Hinton",
         "link": "https://www.tmtpost.com/7800639.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
         "first_seen": "2026-01-06T08:34:32.847345"
+      },
+      "50a8f71f1c9752375b24df16a8b11237e5aba794f42d16436ea91d1666489888": {
+        "title": "Broadcom Secures $21 Billion AI Chip Deal with Anthropic",
+        "link": "https://www.tmtpost.com/7833003.html",
+        "published_date": "Tue, 06 Jan 2026 21:03:00 GMT",
+        "first_seen": "2026-01-06T23:23:29.196464"
+      },
+      "60c432d9dc7ab7dc04f88176b1570c8688a06f7f297084152e448d475837ded7": {
+        "title": "黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”",
+        "link": "https://www.tmtpost.com/7831996.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T23:23:29.196471"
+      },
+      "20cbc4619f86f48001180d9bf2a3dd534f5ee22dd8e644440c1af0e3ac914b3f": {
+        "title": "AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives",
+        "link": "https://www.tmtpost.com/7832999.html",
+        "published_date": "Tue, 06 Jan 2026 20:57:00 GMT",
+        "first_seen": "2026-01-06T23:23:29.196473"
+      },
+      "590d4cfa4836423330454ed55b6099961fb503152207b0740080dff336dad772": {
+        "title": "从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件",
+        "link": "https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 20:11:00 GMT",
+        "first_seen": "2026-01-06T23:23:29.196475"
+      },
+      "e0ca0622095e109921fcee67bbe146356c71128404dd488f2a3355b033b1d887": {
+        "title": "被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实",
+        "link": "https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 11:20:00 GMT",
+        "first_seen": "2026-01-06T23:23:29.196477"
       }
     },
     "Finance": {
-      "f74c3bdb87b0a0aa4e6ac5b1f4f180e7a117bb80a61554398a1d81c5ed3fd6cf": {
-        "title": "Fed expected to cut rates despite deep divisions over US economic outlook",
-        "link": "https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f",
-        "published_date": "Sun, 07 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180716"
-      },
-      "05ecbf3c5a2aedc3e35b05e6e643e1fba4af9d22e6dfffe254c1e7b56626df96": {
-        "title": "The Fed’s biggest decision this week could have nothing to do with interest rates",
-        "link": "https://www.marketwatch.com/story/the-feds-biggest-decision-this-week-could-have-nothing-to-do-with-interest-rates-48aea536?mod=mw_rss_topstories",
-        "published_date": "Sun, 07 Dec 2025 20:40:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180724"
-      },
-      "ea18b39127ce1aa4bd98cec08da04b7156d43485753c5c213045cf59232f1904": {
-        "title": "America’s economy is at the mercy of crony capitalism",
-        "link": "https://www.ft.com/content/85fd3200-55b1-4e58-9e6f-613e97a1e36a",
-        "published_date": "Sun, 07 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180726"
-      },
-      "11a552401b9cd2c2e35c69563e58bb4809db321e586b2103a6c99a1b4a326819": {
-        "title": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
-        "link": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
-        "published_date": "Sun, 07 Dec 2025 17:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180728"
-      },
-      "a41e63d0132b7c8253a8b85374330fac7422f6bdba84ca0dcc9ebe93520f06d4": {
-        "title": "America’s widening economic divide endangers Trump’s midterm hopes",
-        "link": "https://www.ft.com/content/8beb0631-7f0a-4435-8e04-33f65f8a7904",
-        "published_date": "Sun, 07 Dec 2025 22:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180730"
-      },
       "e0e452a35de5922b163f80748cab7dd26c3e069f153bfa973c129c35e1b228ac": {
         "title": "U.S. stock futures flat as investors await Fed meeting — and likely rate cut",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
@@ -4479,39 +4449,39 @@
         "link": "https://www.marketwatch.com/story/under-armour-has-a-new-fan-in-the-firm-founded-by-the-warren-buffett-of-canada-7ca2b846?mod=mw_rss_topstories",
         "published_date": "Tue, 06 Jan 2026 01:20:00 GMT",
         "first_seen": "2026-01-06T05:28:21.422355"
+      },
+      "cea025b8bb96630038dececd56ad4fa5d9669bc466dadd34a824dbe59a66c88b": {
+        "title": "Musk’s xAI raises $20bn in funding round that doubles valuation",
+        "link": "https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9",
+        "published_date": "Tue, 06 Jan 2026 21:47:00 GMT",
+        "first_seen": "2026-01-06T23:22:54.477239"
+      },
+      "07184419f2cf22f669efc281823822c75f7690afa65d868b36172e8e880027b0": {
+        "title": "Fund managers prepare for ‘reckoning’ in US tech sector",
+        "link": "https://www.ft.com/content/48d9c100-0ec6-4edf-9395-eb44879ea5c6",
+        "published_date": "Tue, 06 Jan 2026 16:10:00 GMT",
+        "first_seen": "2026-01-06T23:22:54.477246"
+      },
+      "69a81c1c7dae30bea95be9be84c69e9820bfa931e8fef1eac33e5a5caa673620": {
+        "title": "Nvidia stepping up H200 production ahead of sales to China, Huang says",
+        "link": "https://www.ft.com/content/ae4f28a0-39f9-48e6-bdf4-09321b03c236",
+        "published_date": "Tue, 06 Jan 2026 21:30:00 GMT",
+        "first_seen": "2026-01-06T23:22:54.477249"
+      },
+      "baf5c58d896da5fed436e18e838706b3f8d7bcd58beb508fb488601fcc432385": {
+        "title": "Why U.S. oil refiners could be the big winners in Venezuela — even if its actual reserves disappoint",
+        "link": "https://www.marketwatch.com/story/why-u-s-oil-refiners-could-be-the-big-winners-in-venezuela-even-if-its-actual-reserves-disappoint-6a9a6b1a?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 23:10:00 GMT",
+        "first_seen": "2026-01-06T23:22:54.477251"
+      },
+      "8492ed69463702013fc11c276d575436ce7baeaa4b137932af42ef18cafefc35": {
+        "title": "What you need to know about changes to Social Security, Medicare and Medicaid in 2026",
+        "link": "https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 22:04:00 GMT",
+        "first_seen": "2026-01-06T23:22:54.477252"
       }
     },
     "Ai": {
-      "fa5da11081cecfac4e1b992299c767b221b8a042b81a19405b5ff4afd75a290b": {
-        "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
-        "published_date": "Sun, 07 Dec 2025 18:58:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024079"
-      },
-      "9b8d74b99ded05e6e41fd2fccf7db7d84f8e4e47560f48d7b7abd2ccc226dac5": {
-        "title": "两个LLM互相对线，推理能力起飞：康奈尔团队发布大模型版类GAN训练法",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07",
-        "published_date": "Sun, 07 Dec 2025 18:41:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024085"
-      },
-      "5ba244074c0255c9b72d18fcb90e743d8844c03b124fb8996b870e8efe2f1517": {
-        "title": "DeepSeek、Gemini谁更能提供情感支持？趣丸×北大来了波情绪轨迹动态评估",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-3",
-        "published_date": "Sun, 07 Dec 2025 18:48:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024087"
-      },
-      "bfe81765818ba1ef3b58772349189ae7d74ce3cefc50bfc9b90317ac1a9d6c41": {
-        "title": "百万人围观的「萌娃教训小狗」视频火了，结果都是AI生成的｜附教程",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-4",
-        "published_date": "Sun, 07 Dec 2025 18:54:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024089"
-      },
-      "296d20364a1228fe8f6b4aecb560f68beb643e9ad2910c7d681f2d20cfe94471": {
-        "title": "M系列芯片一号人物准备离开，苹果高管流失正在失控",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-2",
-        "published_date": "Sun, 07 Dec 2025 18:44:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024090"
-      },
       "6526a56dce7f7a29442f5f621604852e311a9e63de0ad9a12054df7bd7169a5e": {
         "title": "从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限",
         "link": "https://www.jiqizhixin.com/articles/2025-12-08-2",
@@ -6713,13 +6683,43 @@
         "link": "https://www.qbitai.com/2026/01/366621.html",
         "published_date": "Tue, 06 Jan 2026 05:41:00 GMT",
         "first_seen": "2026-01-06T08:34:02.523405"
+      },
+      "80398a89d029778d062fb3b02d1373a39bc8bca1faeaa0043bb184392bba2631": {
+        "title": "英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-10",
+        "published_date": "Tue, 06 Jan 2026 20:55:00 GMT",
+        "first_seen": "2026-01-06T23:23:07.654519"
+      },
+      "4033a838df6ca174a43de0955cb89a5d5e3c997c081b3e3c6811b74a5d53d533": {
+        "title": "刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-8",
+        "published_date": "Tue, 06 Jan 2026 18:11:00 GMT",
+        "first_seen": "2026-01-06T23:23:07.654525"
+      },
+      "b2f76875920799d6d4fa52fa879824f609651901f8c64b14df42b50ac8f3293a": {
+        "title": "独家解读｜2025年AI五大趋势与底层数据革命",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-7",
+        "published_date": "Tue, 06 Jan 2026 18:02:00 GMT",
+        "first_seen": "2026-01-06T23:23:07.654528"
+      },
+      "09609deae5d5c060f54e5e26f870d544aacca555de651ac669f2d83181d5c42b": {
+        "title": "开源1万小时具身智能数据，这家公司是为了什么？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-6",
+        "published_date": "Tue, 06 Jan 2026 17:56:00 GMT",
+        "first_seen": "2026-01-06T23:23:07.654529"
+      },
+      "09e4cfd1c82317f557cb6c065dd8c197c115fe0bd85bdfa166e7c475994178de": {
+        "title": "别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-5",
+        "published_date": "Tue, 06 Jan 2026 17:50:00 GMT",
+        "first_seen": "2026-01-06T23:23:07.654531"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-06T08:34:32.847348",
-    "Finance": "2026-01-06T05:28:21.422357",
-    "Ai": "2026-01-06T08:34:02.523407"
+    "Technology": "2026-01-06T23:23:29.196478",
+    "Finance": "2026-01-06T23:22:54.477255",
+    "Ai": "2026-01-06T23:23:07.654534"
   }
 }
