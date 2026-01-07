@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 05:28:04 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 08:38:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:39:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI</title>
-      <link>https://www.tmtpost.com/7833373.html</link>
-      <description>&lt;![CDATA[黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI]]&gt;</description>
+      <title>Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift</title>
+      <link>https://www.tmtpost.com/7833395.html</link>
+      <description>&lt;![CDATA[Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7833395.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI泡沫退潮、落地为王，芯片巨头“拉帮结派”激战CES 2026</title>
+      <link>https://www.tmtpost.com/7833488.html</link>
+      <description>&lt;![CDATA[AI泡沫退潮、落地为王，芯片巨头“拉帮结派”激战CES 2026]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7833488.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术</title>
+      <link>https://www.tmtpost.com/7833151.html</link>
+      <description>&lt;![CDATA[左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术]]&gt;</description>
       <pubDate>Wed, 07 Jan 2026 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7833373.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7833151.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”</title>
-      <link>https://www.tmtpost.com/7832911.html</link>
-      <description>&lt;![CDATA[曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”]]&gt;</description>
+      <title>30B-Parameter MiroThinker 1.5 Unveiled, Challenging the 'Bigger is Better' Mantra</title>
+      <link>https://www.tmtpost.com/7833829.html</link>
+      <description>&lt;![CDATA[30B-Parameter MiroThinker 1.5 Unveiled, Challenging the 'Bigger is Better' Mantra]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7833829.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Meta 收购 Manus：巨头“自救系统”的冰山之下</title>
+      <link>https://www.tmtpost.com/7832946.html</link>
+      <description>&lt;![CDATA[Meta 收购 Manus：巨头“自救系统”的冰山之下]]&gt;</description>
       <pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7832911.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力</title>
-      <link>https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>算力稀缺时代，如何把 GPU 用“满”</title>
-      <link>https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[算力稀缺时代，如何把 GPU 用“满”]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后</title>
-      <link>https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7832946.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "947c3410ef1bc17cb500f0aceb4ade0bdfd3e435ceb4ccd100b6678ecbc2d8d1": {
-        "title": "Hinton Says AI is Already Conscious, Flawed Models Make AI Believe They are Not",
-        "link": "https://www.tmtpost.com/7800865.html",
-        "published_date": "Mon, 08 Dec 2025 14:17:00 GMT",
-        "first_seen": "2025-12-08T08:33:47.083422"
-      },
-      "2f729ef570bff1346cf4ea3c650089b2b8467a8baae347647ffbf03dbe83dfe6": {
-        "title": "\"Godfather of AI\" Criticizes Elon Musk's “Irresponsible” Behaviour in AI Sector",
-        "link": "https://www.tmtpost.com/7800773.html",
-        "published_date": "Mon, 08 Dec 2025 13:37:00 GMT",
-        "first_seen": "2025-12-08T08:33:47.083428"
-      },
-      "6d7dd97c66a0011e4bb7d8ebcc914a855719e28a6eee487f35721d9d7bb802c5": {
-        "title": "太空 AI 时代来了？马斯克年射 100 万吨 AI 卫星，称月球建厂才是最便宜的算力出路",
-        "link": "https://www.infoq.cn/article/lMRBQa6agghLo7zQ7MG1?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Dec 2025 15:10:00 GMT",
-        "first_seen": "2025-12-08T08:33:47.083431"
-      },
-      "52cd0cf2c23f6c9c1e30ab649f1d8e9659746219503530e86c3d9045da752fd3": {
-        "title": "达晨、华控领投，极佳视界A2轮再融2亿，押注“世界模型+行动模型”原生架构",
-        "link": "https://www.tmtpost.com/7800936.html",
-        "published_date": "Mon, 08 Dec 2025 14:57:00 GMT",
-        "first_seen": "2025-12-08T08:33:47.083432"
-      },
-      "ab098de33b12edf92c7f406db4b5356aab57cd89ac6ce05b7bb3a249f7500373": {
-        "title": "咱们的半导体，凡是没被制裁按死的，现在都强得可怕",
-        "link": "http://www.huxiu.com/article/4814147.html?f=wangzhan",
-        "published_date": "Mon, 08 Dec 2025 13:00:00 GMT",
-        "first_seen": "2025-12-08T08:33:47.083434"
-      },
       "b85dd0c3abd525485e87efcafb42fb5601be9a1db21bc2e36b15fe8ce715b829": {
         "title": "Transformer 架构发明者再出山！发布首个开源模型，创业公司完成战略转型：不再产研兼顾",
         "link": "https://www.infoq.cn/article/0B1imZcsH2cJwMVOJxOX?utm_source=rss&utm_medium=article",
@@ -2671,15 +2641,39 @@
         "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
         "first_seen": "2026-01-07T05:28:04.006943"
+      },
+      "98b524cc343cb4c5e9d03d2bb6487ac9baed280b1dea875ce595dddc25ff0d33": {
+        "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
+        "link": "https://www.tmtpost.com/7833395.html",
+        "published_date": "Wed, 07 Jan 2026 10:22:00 GMT",
+        "first_seen": "2026-01-07T08:39:09.458534"
+      },
+      "83be5b2623a062a3ec5db0a5136546c8c5143017477e1025209656e53bb6230c": {
+        "title": "AI泡沫退潮、落地为王，芯片巨头“拉帮结派”激战CES 2026",
+        "link": "https://www.tmtpost.com/7833488.html",
+        "published_date": "Wed, 07 Jan 2026 15:53:00 GMT",
+        "first_seen": "2026-01-07T08:39:09.458542"
+      },
+      "4a0de90ec1b1b0a55fac0e71b910712b436f8c9de4153abae7b7f4b8f750fbe8": {
+        "title": "左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术",
+        "link": "https://www.tmtpost.com/7833151.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T08:39:09.458544"
+      },
+      "3ac43a9c3b109dea35522c4ecca62d54d909431b2fad6c0e512e779b535efc74": {
+        "title": "30B-Parameter MiroThinker 1.5 Unveiled, Challenging the 'Bigger is Better' Mantra",
+        "link": "https://www.tmtpost.com/7833829.html",
+        "published_date": "Wed, 07 Jan 2026 15:07:00 GMT",
+        "first_seen": "2026-01-07T08:39:09.458546"
+      },
+      "46b0a75d697175da380f95d075d7134a29cc478b6163485f4e428904c06a07d7": {
+        "title": "Meta 收购 Manus：巨头“自救系统”的冰山之下",
+        "link": "https://www.tmtpost.com/7832946.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T08:39:09.458547"
       }
     },
     "Finance": {
-      "a36a77193055c310cae7c0fdcd6f842688d76bc2f571c1726e15612ac0f160cf": {
-        "title": "Reform UK denies breaking electoral law over Farage’s campaign expenses",
-        "link": "https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59",
-        "published_date": "Mon, 08 Dec 2025 08:09:00 GMT",
-        "first_seen": "2025-12-08T08:33:24.739772"
-      },
       "be6d98a393eff7511084508d4d56a63d5d3868957da8e8dfcb91c0343f607701": {
         "title": "Nvidia can sell H200 AI chips to China, Trump says",
         "link": "https://www.ft.com/content/ac63139d-5143-4aed-a1e4-980a06551b51",
@@ -4479,33 +4473,15 @@
         "link": "https://www.ft.com/content/74dcb89a-9aed-4fba-b07a-f360c8824394",
         "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-07T05:27:27.057841"
+      },
+      "eb6fccd45d649f63db9c8254d9c53e7435e4a250efb74f2dccb269bc59a9d080": {
+        "title": "Trump says Venezuela will turn over oil to US",
+        "link": "https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c",
+        "published_date": "Wed, 07 Jan 2026 08:20:00 GMT",
+        "first_seen": "2026-01-07T08:38:24.193111"
       }
     },
     "Ai": {
-      "ca2ef82d9dc11febb854bc4e360ca397c341da109cf80b641afc3c53a9d97306": {
-        "title": "上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-08-4",
-        "published_date": "Mon, 08 Dec 2025 14:51:00 GMT",
-        "first_seen": "2025-12-08T08:33:24.861667"
-      },
-      "00bc0310fad82811fb1563a699cd5e4e568568ff66bb25b3e37059b4e6e7c1aa": {
-        "title": "DeepSeek V3到V3.2的进化之路，一文看全",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-08-3",
-        "published_date": "Mon, 08 Dec 2025 13:26:00 GMT",
-        "first_seen": "2025-12-08T08:33:24.861674"
-      },
-      "90bda9a50674634e0127e39488cde02b2007a2feebcacc9d9f6dad6c06f694d5": {
-        "title": "编程界“奥斯卡”百度之星决赛揭晓，上千选手激烈角逐，山东16岁中学生王茂骅夺冠！",
-        "link": "https://www.qbitai.com/2025/12/359537.html",
-        "published_date": "Mon, 08 Dec 2025 07:41:00 GMT",
-        "first_seen": "2025-12-08T08:33:24.861677"
-      },
-      "87415c46577f02e655c858432bdc294f0c7368d69ca9ec08cb6f34ad5b988676": {
-        "title": "英伟达自毁CUDA门槛！15行Python写GPU内核，性能匹敌200行C++",
-        "link": "https://www.qbitai.com/2025/12/359497.html",
-        "published_date": "Mon, 08 Dec 2025 05:44:00 GMT",
-        "first_seen": "2025-12-08T08:33:24.861678"
-      },
       "eedd8364f651e4ad9f9ae1a5b6a4ad83be4c695d74e53f9268a93516d87d27c8": {
         "title": "ICLR 2026还会好吗？300篇投稿50篇含幻觉，引用example.com竟也能过审",
         "link": "https://www.jiqizhixin.com/articles/2025-12-08-8",
@@ -6725,13 +6701,43 @@
         "link": "https://www.qbitai.com/2026/01/367171.html",
         "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
         "first_seen": "2026-01-07T05:27:43.621367"
+      },
+      "f4c85b9600d647bb4bda095c233ab0498a2db0b676aab7cf33ff52c7ccf605ef": {
+        "title": "重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-8",
+        "published_date": "Wed, 07 Jan 2026 16:02:00 GMT",
+        "first_seen": "2026-01-07T08:38:41.093197"
+      },
+      "8432f04d5e6cb97746647513e88a360b554f68722864ce84d91cb5c126738780": {
+        "title": "多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-6",
+        "published_date": "Wed, 07 Jan 2026 15:40:00 GMT",
+        "first_seen": "2026-01-07T08:38:41.093208"
+      },
+      "b4b6fabd6c0d55af6424157f9fe6b54351e234bcf62d7e07a3c2e67c441e0763": {
+        "title": "大模型最难的AI Infra，用Vibe Coding搞定",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-4",
+        "published_date": "Wed, 07 Jan 2026 13:32:00 GMT",
+        "first_seen": "2026-01-07T08:38:41.093210"
+      },
+      "29262031659c79cd1c06938b790c847e09af4a8dce03166b340d4735bbc0845b": {
+        "title": "8块钱跑通一次强化学习全流程，潞晨云重塑微调赛道：1名算法工程师=1支Infra团队",
+        "link": "https://www.qbitai.com/2026/01/367229.html",
+        "published_date": "Wed, 07 Jan 2026 07:16:00 GMT",
+        "first_seen": "2026-01-07T08:38:41.093212"
+      },
+      "18c24127777f6dbeeea1e917caad94f95c54a3c86408e41853e84f035143fdfe": {
+        "title": "首家央企AI独角兽浮出水面！背靠自研大模型，4家国家队资本背书",
+        "link": "https://www.qbitai.com/2026/01/367242.html",
+        "published_date": "Wed, 07 Jan 2026 07:24:00 GMT",
+        "first_seen": "2026-01-07T08:38:41.093214"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-07T05:28:04.006945",
-    "Finance": "2026-01-07T05:27:27.057843",
-    "Ai": "2026-01-07T05:27:43.621370"
+    "Technology": "2026-01-07T08:39:09.458549",
+    "Finance": "2026-01-07T08:38:24.193124",
+    "Ai": "2026-01-07T08:38:41.093217"
   }
 }

@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 05:27
+**最后更新时间**: 2026-01-07 08:38
+
+---
+
+## 🆕 最新更新 (2026-01-07 08:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这个元旦，一亿人在万岁山当大侠“赚钱”](https://www.tmtpost.com/7829244.html)
+**发布时间**: 2026-01-07 16:03
+
+#### [企业需要魏征，而不是魏忠贤](https://www.tmtpost.com/7833322.html)
+**发布时间**: 2026-01-07 16:03
+
+#### [2025年中国创新药十大出海，释放了哪些信号？](https://www.tmtpost.com/7833391.html)
+**发布时间**: 2026-01-07 16:03
+
+#### [AI泡沫退潮、落地为王，芯片巨头“拉帮结派”激战CES 2026](https://www.tmtpost.com/7833488.html)
+**发布时间**: 2026-01-07 15:53
+
+#### [阿里字节：一个战场，两种打法](https://www.tmtpost.com/7833314.html)
+**发布时间**: 2026-01-07 15:29
+
+#### [上市公司TOP5济安评估 （12月29日至12月31日）｜上市公司观察](https://www.tmtpost.com/7833886.html)
+**发布时间**: 2026-01-07 15:18
+
+#### [谁手上有真金白银？ A股现金流百强榜出炉｜上市公司观察](https://www.tmtpost.com/7833877.html)
+**发布时间**: 2026-01-07 15:17
+
+#### [价值判断：涨停板的投资机会和风险提示（1月6日）｜证券市场观察](https://www.tmtpost.com/7833871.html)
+**发布时间**: 2026-01-07 15:17
+
+#### [30B-Parameter MiroThinker 1.5 Unveiled, Challenging the 'Bigger is Better' Mantra](https://www.tmtpost.com/7833829.html)
+**发布时间**: 2026-01-07 15:07
+
+#### [二次元火热一整年：年轻增量不变， 消费习惯变了](https://www.tmtpost.com/7833048.html)
+**发布时间**: 2026-01-07 14:31
+
+#### [从籍籍无名到一票难求，HYROX如何火爆全球](https://www.tmtpost.com/7833668.html)
+**发布时间**: 2026-01-07 14:31
+
+#### [GTM时代，如何成为一个合格的“品牌操盘手”？](https://www.tmtpost.com/7833261.html)
+**发布时间**: 2026-01-07 14:31
+
+#### [欣旺达遭23亿天价索赔，撕开了电池疯狂内卷下的“质量脓疮”](https://www.tmtpost.com/7833293.html)
+**发布时间**: 2026-01-07 14:31
+
+#### [凯悦旗下五星酒店 0元易主，高端酒店们会感到迷茫吗？](https://www.tmtpost.com/7833774.html)
+**发布时间**: 2026-01-07 14:22
+
+#### [从上春晚到抢IPO，机器人火力全开仍“高悬半空”](https://www.tmtpost.com/7833536.html)
+**发布时间**: 2026-01-07 13:45
+
+#### [狂飙300万辆杀入全球前十，2026吉利汽车靠什么继续提速？](https://www.tmtpost.com/7833518.html)
+**发布时间**: 2026-01-07 13:34
+
+#### [收割“爱老己”的年轻人，VR淘金客月入10万](https://www.tmtpost.com/7833045.html)
+**发布时间**: 2026-01-07 13:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [JEP 525为Java的结构化并发引入超时处理与连接器优化](https://www.infoq.cn/article/PW5Ni3sWqGJLcxuRZbYY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 15:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [成为「新标配」的磁轴，真的是游戏键盘的终点吗？](https://sspai.com/post/105108)
+**发布时间**: 2026-01-07 15:15
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 5 个小众但有趣的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530386&idx=1&sn=2e77d6eaf1ae3e9cc2661b1dcba45e13)
+**发布时间**: 2026-01-07 15:04
 
 ---
 

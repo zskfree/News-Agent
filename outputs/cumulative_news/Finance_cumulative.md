@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 05:27
+**最后更新时间**: 2026-01-07 08:38
+
+---
+
+## 🆕 最新更新 (2026-01-07 08:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says Venezuela will turn over oil to US](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c)
+**发布时间**: 2026-01-07 08:20
+
+#### [Lloyds leads charge in using blockchain to disrupt UK banking](https://www.ft.com/content/671afe02-cff8-4a38-af3e-ec711ecb43fc)
+**发布时间**: 2026-01-07 05:00
+
+#### [Starmer puts minister in charge of digital ID rollout](https://www.ft.com/content/36af3ccc-5ed6-4079-93ef-dc49f06dbe9e)
+**发布时间**: 2026-01-07 05:00
 
 ---
 

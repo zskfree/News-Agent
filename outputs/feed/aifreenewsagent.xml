@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Jan 2026 05:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 05:27:43 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:38:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07-3</link>
-      <description>&lt;![CDATA[注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-3</guid>
+      <title>重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-8</link>
+      <description>&lt;![CDATA[重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07</link>
-      <description>&lt;![CDATA[近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07</guid>
+      <title>多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-6</link>
+      <description>&lt;![CDATA[多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07-2</link>
-      <description>&lt;![CDATA[曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-2</guid>
+      <title>大模型最难的AI Infra，用Vibe Coding搞定</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-4</link>
+      <description>&lt;![CDATA[大模型最难的AI Infra，用Vibe Coding搞定]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>杜比在CES 2026重塑了观影、娱乐的方式</title>
-      <link>https://www.qbitai.com/2026/01/367175.html</link>
-      <description>&lt;![CDATA[杜比在CES 2026重塑了观影、娱乐的方式]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 04:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367175.html</guid>
+      <title>8块钱跑通一次强化学习全流程，潞晨云重塑微调赛道：1名算法工程师=1支Infra团队</title>
+      <link>https://www.qbitai.com/2026/01/367229.html</link>
+      <description>&lt;![CDATA[8块钱跑通一次强化学习全流程，潞晨云重塑微调赛道：1名算法工程师=1支Infra团队]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 07:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367229.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库</title>
-      <link>https://www.qbitai.com/2026/01/367171.html</link>
-      <description>&lt;![CDATA[OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 04:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367171.html</guid>
+      <title>首家央企AI独角兽浮出水面！背靠自研大模型，4家国家队资本背书</title>
+      <link>https://www.qbitai.com/2026/01/367242.html</link>
+      <description>&lt;![CDATA[首家央企AI独角兽浮出水面！背靠自研大模型，4家国家队资本背书]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367242.html</guid>
       <category>Ai</category>
     </item>
   </channel>
