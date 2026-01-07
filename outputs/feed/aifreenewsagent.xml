@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 23:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 23:23:07 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 05:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 05:27:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-10</link>
-      <description>&lt;![CDATA[英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 20:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-10</guid>
+      <title>注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-3</link>
+      <description>&lt;![CDATA[注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-8</link>
-      <description>&lt;![CDATA[刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-8</guid>
+      <title>近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07</link>
+      <description>&lt;![CDATA[近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读｜2025年AI五大趋势与底层数据革命</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-7</link>
-      <description>&lt;![CDATA[独家解读｜2025年AI五大趋势与底层数据革命]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-7</guid>
+      <title>曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-2</link>
+      <description>&lt;![CDATA[曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开源1万小时具身智能数据，这家公司是为了什么？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-6</link>
-      <description>&lt;![CDATA[开源1万小时具身智能数据，这家公司是为了什么？]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-6</guid>
+      <title>杜比在CES 2026重塑了观影、娱乐的方式</title>
+      <link>https://www.qbitai.com/2026/01/367175.html</link>
+      <description>&lt;![CDATA[杜比在CES 2026重塑了观影、娱乐的方式]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367175.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-5</link>
-      <description>&lt;![CDATA[别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-5</guid>
+      <title>OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库</title>
+      <link>https://www.qbitai.com/2026/01/367171.html</link>
+      <description>&lt;![CDATA[OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 04:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367171.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "904162b7a9e05e9aab45290435324e6c478b743230438d2e3208d872680ce386": {
-        "title": "Maternal Instinct is the Key for AI Living Peacefully With Humans, Says Hinton",
-        "link": "https://www.tmtpost.com/7800639.html",
-        "published_date": "Mon, 08 Dec 2025 12:29:00 GMT",
-        "first_seen": "2025-12-08T05:25:20.255132"
-      },
-      "aa3a59c6f243109af09a22dc3201f51d758194e13af17bbe1ec1fc307811d6db": {
-        "title": "谷歌全线开挂！Gemini 3 Deep Think夺多项推理SOTA，Gemini亚洲新团队也官宣了",
-        "link": "https://www.infoq.cn/article/9iCS1oqtTCuJu39Op4oE?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 08 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-08T05:25:20.255137"
-      },
-      "e3ad8faad835e1b12cb19aa21ae55b94ca39875c57c0b9063466c020e05d7856": {
-        "title": "博士天团创业，博世闻泰押注，碳化硅龙头IPO冲刺港股",
-        "link": "https://www.tmtpost.com/7800284.html",
-        "published_date": "Mon, 08 Dec 2025 10:41:00 GMT",
-        "first_seen": "2025-12-08T05:25:20.255140"
-      },
-      "97ffb0cdb6763a361faa1eb48a026e10cb335af5e51f220f5a53cb663ebec222": {
-        "title": "FPGA，焕发新生",
-        "link": "https://www.tmtpost.com/7800238.html",
-        "published_date": "Mon, 08 Dec 2025 10:57:00 GMT",
-        "first_seen": "2025-12-08T05:25:20.255142"
-      },
-      "59d31088d557c64c11667424436e0ad3fca5d43d4b9e857952a7980f2a6b243b": {
-        "title": "豆包手机助手：打响“去App时代”的第一枪",
-        "link": "https://www.tmtpost.com/7800629.html",
-        "published_date": "Mon, 08 Dec 2025 13:14:00 GMT",
-        "first_seen": "2025-12-08T05:25:20.255144"
-      },
       "947c3410ef1bc17cb500f0aceb4ade0bdfd3e435ceb4ccd100b6678ecbc2d8d1": {
         "title": "Hinton Says AI is Already Conscious, Flawed Models Make AI Believe They are Not",
         "link": "https://www.tmtpost.com/7800865.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 06 Jan 2026 11:20:00 GMT",
         "first_seen": "2026-01-06T23:23:29.196477"
+      },
+      "146bf63832b797bd9f063b6d901bdd95eb71c9df87aa10b0c1f8e3159edaf8bc": {
+        "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
+        "link": "https://www.tmtpost.com/7833373.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:28:04.006932"
+      },
+      "6a8c1c0c3bab4ea6a62d913a2107f2b1243b37301d1fed03a166616848b83531": {
+        "title": "曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”",
+        "link": "https://www.tmtpost.com/7832911.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:28:04.006938"
+      },
+      "5def0d5012c5024c96fdea4f41531e4d00aa6f1871205221fd6e62849015f6f5": {
+        "title": "英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力",
+        "link": "https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-07T05:28:04.006940"
+      },
+      "54370e1904c4585eee8afab6509773fda554212565229ded3ce7d6eec4ed245f": {
+        "title": "算力稀缺时代，如何把 GPU 用“满”",
+        "link": "https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-07T05:28:04.006942"
+      },
+      "78a78df1f1b74e3d7fc8875177d617e969d14174bb5ee1ba5f70eeba96957d6f": {
+        "title": "谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后",
+        "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-07T05:28:04.006943"
       }
     },
     "Finance": {
-      "e0e452a35de5922b163f80748cab7dd26c3e069f153bfa973c129c35e1b228ac": {
-        "title": "U.S. stock futures flat as investors await Fed meeting — and likely rate cut",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
-        "published_date": "Mon, 08 Dec 2025 04:04:00 GMT",
-        "first_seen": "2025-12-08T05:25:01.932214"
-      },
-      "41d24b27c7f7b1eb987ff3fd48b9518f8b840e278e0eca39868c42e9231daf01": {
-        "title": "The power crunch threatening America’s AI ambitions",
-        "link": "https://ig.ft.com/ai-power/",
-        "published_date": "Mon, 08 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-08T05:25:01.932226"
-      },
-      "082b57f67dc1f53a5472be2b32e4331ec15a70b5e63f326d9e8c380a9f9f3916": {
-        "title": "France shielding €18bn Russian asset pot from EU ‘reparations loan’ push",
-        "link": "https://www.ft.com/content/fe304bb8-d928-4b9b-8162-2000301be937",
-        "published_date": "Mon, 08 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-08T05:25:01.932229"
-      },
-      "bc103c169aba83c807d14d3e663e98547ce65a0bc17cc27ea1a09626ddf6f2d5": {
-        "title": "China’s trade surplus tops $1tn for first time",
-        "link": "https://www.ft.com/content/b9bf3d8f-d5d2-47b7-a498-efe0641cbbab",
-        "published_date": "Mon, 08 Dec 2025 03:56:00 GMT",
-        "first_seen": "2025-12-08T05:25:01.932231"
-      },
-      "17cafdc0d1dbdb9fc86f8f5178f8c7286f8d7e3659e93e2b87d8954820a7d5bb": {
-        "title": "How the bank behind London’s most expensive office lease unravelled",
-        "link": "https://www.ft.com/content/a8bb467b-1486-41fb-85a0-6c08d24f45eb",
-        "published_date": "Mon, 08 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-08T05:25:01.932232"
-      },
       "a36a77193055c310cae7c0fdcd6f842688d76bc2f571c1726e15612ac0f160cf": {
         "title": "Reform UK denies breaking electoral law over Farage’s campaign expenses",
         "link": "https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59",
@@ -4479,27 +4449,39 @@
         "link": "https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories",
         "published_date": "Tue, 06 Jan 2026 22:04:00 GMT",
         "first_seen": "2026-01-06T23:22:54.477252"
+      },
+      "17dea2b432956a664e9a85b38e2032d523dcab136dd1d9fd1b388952345205e2": {
+        "title": "Don’t be fooled — everything has changed for the global economy",
+        "link": "https://www.ft.com/content/9c8212b8-568f-4ea2-829a-9b7a13b93f1d",
+        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-07T05:27:27.057826"
+      },
+      "307adcc7a1919e7ecd29e5b32c81953d2f856d37edac4683288afef572a1bed4": {
+        "title": "Hedge funds hunt for Venezuela’s unpaid financial claims",
+        "link": "https://www.ft.com/content/2c04228d-2f2b-49d7-bbed-974053e285b9",
+        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-07T05:27:27.057834"
+      },
+      "5541609d408c4e4d9a0ba79f065d0bc6b84d92c8d549aab7a4bd1304319b527c": {
+        "title": "Businesses say Britain’s ‘jam tomorrow’ energy plans threaten their survival",
+        "link": "https://www.ft.com/content/26cdb6b8-b305-402d-a9b3-4dc133621b80",
+        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-07T05:27:27.057837"
+      },
+      "0090b6c7f137323554f059c4baf265919ba18b8785bb7a24e1d3790d91e39ee3": {
+        "title": "Trump says Venezuela will send U.S. up to 50 million barrels of oil — and he’ll control the proceeds",
+        "link": "https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Jan 2026 01:33:00 GMT",
+        "first_seen": "2026-01-07T05:27:27.057839"
+      },
+      "a1cf38bf3631625eaa6bbaece8f147639750159a72d9ee0ee86c7927ab351b44": {
+        "title": "Watch out for America’s activist attorneys-general",
+        "link": "https://www.ft.com/content/74dcb89a-9aed-4fba-b07a-f360c8824394",
+        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-07T05:27:27.057841"
       }
     },
     "Ai": {
-      "6526a56dce7f7a29442f5f621604852e311a9e63de0ad9a12054df7bd7169a5e": {
-        "title": "从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-08-2",
-        "published_date": "Mon, 08 Dec 2025 13:15:00 GMT",
-        "first_seen": "2025-12-08T05:25:02.053022"
-      },
-      "0e6291d7597ae643e199a11580016bf43764a7c9a063f23c58faeb93d40fb610": {
-        "title": "Vicino.ai 推出“超级代理”SuperIntelliAgent： 边生成边训练，让模型越用越“长智”",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-08",
-        "published_date": "Mon, 08 Dec 2025 11:33:00 GMT",
-        "first_seen": "2025-12-08T05:25:02.053029"
-      },
-      "33fbc4af21cb3ed5ab7387759340c0b9fb3c232f89118380ae272a6fab037f00": {
-        "title": "2025-12-08日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-08/",
-        "published_date": "Mon, 08 Dec 2025 07:13:00 GMT",
-        "first_seen": "2025-12-08T05:25:02.053031"
-      },
       "ca2ef82d9dc11febb854bc4e360ca397c341da109cf80b641afc3c53a9d97306": {
         "title": "上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度",
         "link": "https://www.jiqizhixin.com/articles/2025-12-08-4",
@@ -6713,13 +6695,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-06-5",
         "published_date": "Tue, 06 Jan 2026 17:50:00 GMT",
         "first_seen": "2026-01-06T23:23:07.654531"
+      },
+      "c39f36070b5729fccf5688f139b6400c93a29537c5fc2b524f8e182521047a42": {
+        "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-3",
+        "published_date": "Wed, 07 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-07T05:27:43.621356"
+      },
+      "1987a647d4f6fcf16e40788c3aa1fc68d9bb0f9c4e03484c911e7faa72728147": {
+        "title": "近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07",
+        "published_date": "Wed, 07 Jan 2026 10:12:00 GMT",
+        "first_seen": "2026-01-07T05:27:43.621362"
+      },
+      "261b27f519c9acf10e2e2e6e8893280acdc029229a0a749da2ac7abf804f4bb0": {
+        "title": "曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-2",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:27:43.621364"
+      },
+      "65294c233b7818207c72038f18c52a7f1320613dc603a2dd7620581107f58b83": {
+        "title": "杜比在CES 2026重塑了观影、娱乐的方式",
+        "link": "https://www.qbitai.com/2026/01/367175.html",
+        "published_date": "Wed, 07 Jan 2026 04:47:00 GMT",
+        "first_seen": "2026-01-07T05:27:43.621366"
+      },
+      "46788e6835d8beb28f55684eb6b5000da030dd0895b5538dbb0e8a6a45911a93": {
+        "title": "OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库",
+        "link": "https://www.qbitai.com/2026/01/367171.html",
+        "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
+        "first_seen": "2026-01-07T05:27:43.621367"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-06T23:23:29.196478",
-    "Finance": "2026-01-06T23:22:54.477255",
-    "Ai": "2026-01-06T23:23:07.654534"
+    "Technology": "2026-01-07T05:28:04.006945",
+    "Finance": "2026-01-07T05:27:27.057843",
+    "Ai": "2026-01-07T05:27:43.621370"
   }
 }

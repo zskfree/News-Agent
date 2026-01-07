@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 23:22
+**最后更新时间**: 2026-01-07 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-07 05:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从查询计划分解到100%MySQL兼容：TDSQL-B并行查询技术的实现与优势](https://www.infoq.cn/video/9mNHVSu1F30RRhx1cQXM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 11:36
+
+#### [TDSQL-B 数据库核心优化思路：从一体化对等架构到高性能Raft Log存储](https://www.infoq.cn/video/YiHifNoFAsQUVNJOKxSh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 11:36
+
+#### [超大规模化繁为简，TDSQL-B的四大核心适用场景](https://www.infoq.cn/video/S1mR4SDilW8rCbF60AdI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 11:35
+
+#### [如何让GPU 不受扰、CPU 不闲置？TencentOS如意将CPU 利用率从15%提升45%](https://www.infoq.cn/video/byTh35zoSG24R1Z52lmZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 11:28
+
+#### [算力稀缺时代，如何把 GPU 用“满”](https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 11:23
+
+#### [英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力](https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 10:46
+
+#### [谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后](https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 10:00
+
+#### [DuckDB的WebAssembly客户端支持在浏览器中查询Iceberg数据集](https://www.infoq.cn/article/KEiZ9wXZ3rXgTHZOgdaY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 09:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华映资本领投，又一清华系具身智能企业「灵御智能」完成千万元级种子＋轮融资 | 融资动态](https://www.tmtpost.com/7683015.html)
+**发布时间**: 2026-01-07 11:15
+
+#### [黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI](https://www.tmtpost.com/7833373.html)
+**发布时间**: 2026-01-07 10:57
+
+#### [左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术](https://www.tmtpost.com/7833151.html)
+**发布时间**: 2026-01-07 10:57
+
+#### [小米是时候切断和粉丝的脐带了](https://www.tmtpost.com/7833203.html)
+**发布时间**: 2026-01-07 10:57
+
+#### [Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift](https://www.tmtpost.com/7833395.html)
+**发布时间**: 2026-01-07 10:22
+
+#### [黄仁勋的皮衣很酷，但工厂的账本不认物理AI](https://www.tmtpost.com/7832977.html)
+**发布时间**: 2026-01-07 10:17
+
+#### [Palantir股票又添新粉，这位分析师并不担心其估值](https://www.tmtpost.com/7833337.html)
+**发布时间**: 2026-01-07 09:55
+
+#### [人工智能正在“改变”经济格局，Duolingo等五只股票有望受益](https://www.tmtpost.com/7833335.html)
+**发布时间**: 2026-01-07 09:55
+
+#### [一群河南人，正在改变中国餐饮历史](https://www.tmtpost.com/7832925.html)
+**发布时间**: 2026-01-07 09:38
+
+#### [当“毛孩子”面临8千元生死线，铲屎官能否托举起首个宠物医疗IPO？](https://www.tmtpost.com/7832956.html)
+**发布时间**: 2026-01-07 09:37
+
+#### [卡游和Suplay，谁能先跑上市？](https://www.tmtpost.com/7833257.html)
+**发布时间**: 2026-01-07 09:37
+
+#### [黄仁勋揭幕2026CES关键词，跟随钛媒体开启“物理AI”时代](https://www.tmtpost.com/7833193.html)
+**发布时间**: 2026-01-07 09:37
+
+#### [英伟达加速生产H200，黄仁勋CES放话：“要回中国了”](https://www.tmtpost.com/7833221.html)
+**发布时间**: 2026-01-07 09:21
+
+#### [消费者支出即将转向，这11只股票有望受益](https://www.tmtpost.com/7833270.html)
+**发布时间**: 2026-01-07 09:20
+
+#### [Meta 收购 Manus：巨头“自救系统”的冰山之下](https://www.tmtpost.com/7832946.html)
+**发布时间**: 2026-01-07 09:00
+
+#### [曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”](https://www.tmtpost.com/7832911.html)
+**发布时间**: 2026-01-07 09:00
+
+#### [这个冬天，年轻人去批发市场“淘”新衣](https://www.tmtpost.com/7832905.html)
+**发布时间**: 2026-01-07 08:43
+
+#### [存储猛拉，AI存力超级周期到底有多神？](https://www.tmtpost.com/7832914.html)
+**发布时间**: 2026-01-07 08:43
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [黄仁勋说的“物理AI”时代利好中国](http://www.huxiu.com/article/4824016.html?f=wangzhan)
+**发布时间**: 2026-01-07 11:05
+
+#### [小米YU7咋扛撞？雷军拆车见真相](http://www.huxiu.com/article/4823982.html?f=wangzhan)
+**发布时间**: 2026-01-07 09:53
+
+#### [OPPO换小米，微信数据传不过去？问题到底出在哪？](http://www.huxiu.com/article/4823836.html?f=wangzhan)
+**发布时间**: 2026-01-07 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [当世界尽头成为热搜：一份南极旅游指南](https://sspai.com/post/104946)
+**发布时间**: 2026-01-07 11:02
+
+#### [派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等](https://sspai.com/post/105214)
+**发布时间**: 2026-01-07 08:57
 
 ---
 

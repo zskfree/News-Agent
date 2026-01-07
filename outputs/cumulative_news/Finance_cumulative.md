@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 23:22
+**最后更新时间**: 2026-01-07 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-07 05:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hedge funds hunt for Venezuela’s unpaid financial claims](https://www.ft.com/content/2c04228d-2f2b-49d7-bbed-974053e285b9)
+**发布时间**: 2026-01-07 05:00
+
+#### [Cuba: what is left for Trump to topple?](https://www.ft.com/content/d859d893-1e2a-4ae6-a3d4-c9c505954f16)
+**发布时间**: 2026-01-07 05:00
+
+#### [Don’t be fooled — everything has changed for the global economy](https://www.ft.com/content/9c8212b8-568f-4ea2-829a-9b7a13b93f1d)
+**发布时间**: 2026-01-07 05:00
+
+#### [Watch out for America’s activist attorneys-general](https://www.ft.com/content/74dcb89a-9aed-4fba-b07a-f360c8824394)
+**发布时间**: 2026-01-07 05:00
+
+#### [Businesses say Britain’s ‘jam tomorrow’ energy plans threaten their survival](https://www.ft.com/content/26cdb6b8-b305-402d-a9b3-4dc133621b80)
+**发布时间**: 2026-01-07 05:00
+
+#### [Trump says US to take sanctioned Venezuelan oil to American ports](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c)
+**发布时间**: 2026-01-07 01:14
+
+#### [Polymarket refuses to pay bets that US would ‘invade’ Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666)
+**发布时间**: 2026-01-06 22:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says Venezuela will send U.S. up to 50 million barrels of oil — and he’ll control the proceeds](https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 01:33
+
+#### [As Tesla’s stock falls, Elon Musk brushes off Nvidia’s competitive threat](https://www.marketwatch.com/story/elon-musk-is-brushing-off-nvidias-attempt-to-take-on-tesla-554a8134?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:34
+
+#### [Why Sandisk’s stock just soared to its best day in 11 months](https://www.marketwatch.com/story/why-sandisks-stock-is-soaring-toward-its-best-day-in-11-months-9f4a51c6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:29
 
 ---
 

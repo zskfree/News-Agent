@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 23:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 23:23:29 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 05:28:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Broadcom Secures $21 Billion AI Chip Deal with Anthropic</title>
-      <link>https://www.tmtpost.com/7833003.html</link>
-      <description>&lt;![CDATA[Broadcom Secures $21 Billion AI Chip Deal with Anthropic]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 21:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7833003.html</guid>
+      <title>黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI</title>
+      <link>https://www.tmtpost.com/7833373.html</link>
+      <description>&lt;![CDATA[黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7833373.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”</title>
-      <link>https://www.tmtpost.com/7831996.html</link>
-      <description>&lt;![CDATA[黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 16:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7831996.html</guid>
+      <title>曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”</title>
+      <link>https://www.tmtpost.com/7832911.html</link>
+      <description>&lt;![CDATA[曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7832911.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives</title>
-      <link>https://www.tmtpost.com/7832999.html</link>
-      <description>&lt;![CDATA[AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 20:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7832999.html</guid>
+      <title>英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力</title>
+      <link>https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件</title>
-      <link>https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 20:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力稀缺时代，如何把 GPU 用“满”</title>
+      <link>https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[算力稀缺时代，如何把 GPU 用“满”]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实</title>
-      <link>https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后</title>
+      <link>https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
