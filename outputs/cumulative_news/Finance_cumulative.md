@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 08:38
+**最后更新时间**: 2026-01-07 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-07 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Goldman Sachs’ Apple Card saga is finally coming to an end](https://www.marketwatch.com/story/goldman-sachs-apple-card-saga-is-finally-coming-to-an-end-710244e4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 23:13
+
+#### [Why Trump banning institutional investors like Blackstone from buying homes won’t bring down housing costs, according to experts](https://www.marketwatch.com/story/why-trump-banning-institutional-investors-like-blackstone-from-buying-homes-wont-bring-down-housing-costs-according-to-experts-97bfc3bc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 22:53
+
+#### [These stocks are in play as Trump and China feud over Greenland](https://www.marketwatch.com/story/trump-wants-greenland-so-does-china-heres-where-your-money-comes-in-9dd33724?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 22:11
+
+#### [AI investment won’t pay off unless employees can do the work it demands](https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 22:04
+
+#### [Here’s how much oil Venezuela is producing and exporting, as the country’s future hangs in the balance](https://www.marketwatch.com/story/heres-how-much-oil-venezuela-is-producing-and-exporting-as-the-countrys-future-hangs-in-the-balance-9868b025?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 22:04
+
+#### [‘Women deserve an apology’: For menopause, hormone therapy is now considered safe — just in time for aging millennials](https://www.marketwatch.com/story/women-deserve-an-apology-for-menopause-hormone-therapy-is-now-considered-safe-just-in-time-for-aging-millennials-27a38622?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 22:00
+
+#### [Investors are waiting on Friday’s jobs numbers. They should be more worried about this other labor report.](https://www.marketwatch.com/story/investors-are-waiting-on-fridays-jobs-numbers-they-should-be-more-worried-about-this-productivity-report-a4b0436f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 22:00
+
+#### [This 100-year-old stock-market indicator just flashed a buy signal. Here’s how investors should read it.](https://www.marketwatch.com/story/this-100-year-old-stock-market-indicator-just-flashed-a-buy-signal-heres-how-investors-should-read-it-1a6b53ae?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 21:58
+
+#### [Dow gets off to its best yearly start since 2018 despite Wednesday’s 466-point drop](https://www.marketwatch.com/story/dow-gets-off-to-its-best-yearly-start-since-2018-despite-wednesdays-466-point-drop-a0346e29?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 21:37
+
+#### [CNBC parent’s stock is in turmoil: Versant shares pummeled for the third day in a row after Comcast spinoff](https://www.marketwatch.com/story/cnbcs-stock-is-in-turmoil-versant-shares-pummeled-for-the-third-day-in-a-row-after-spinoff-4951830a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 21:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US seizes Russian tanker in Atlantic](https://www.ft.com/content/fce872f7-859a-4857-b75d-2f4656d02a65)
+**发布时间**: 2026-01-07 23:06
+
+#### [Trump calls for 50% increase in US defence spending by 2027](https://www.ft.com/content/d1ed595d-b7c6-40d2-b99d-d1dbe17b213e)
+**发布时间**: 2026-01-07 22:44
+
+#### [Washington seeks to control sales of Venezuelan oil ‘indefinitely’](https://www.ft.com/content/5b8af100-ca3c-41fb-a2ca-5eb04d504438)
+**发布时间**: 2026-01-07 22:41
+
+#### [JPMorgan to take over Apple’s $20bn credit card portfolio from Goldman Sachs](https://www.ft.com/content/07b1da7c-bac1-4d79-b281-1d2eaaabdea7)
+**发布时间**: 2026-01-07 22:18
+
+#### [White House moves to ban institutional investors from buying single-family homes](https://www.ft.com/content/70ad697f-f970-41ea-8527-274d4f4915a8)
+**发布时间**: 2026-01-07 20:41
+
+#### [US to discuss future of Greenland with Danish officials ‘next week’](https://www.ft.com/content/e4f1a793-ef4c-4a4f-91ab-227f3b415d5d)
+**发布时间**: 2026-01-07 20:31
+
+#### [New US dietary guidelines call for more protein and less sugar](https://www.ft.com/content/ef1e6630-f714-42e1-814d-1799e234c0ea)
+**发布时间**: 2026-01-07 19:52
+
+#### [Ministers look at concessions for UK pubs as business rate backlash grows](https://www.ft.com/content/06530edb-52a4-42d0-b945-ceb267dd6b8f)
+**发布时间**: 2026-01-07 18:35
+
+#### [UK ministers cut estimated annual cost to business of worker rights act to £1bn](https://www.ft.com/content/103feab7-1875-448d-b638-aa20d333580f)
+**发布时间**: 2026-01-07 16:17
+
+#### [The ‘catastrophic’ state of Venezuela’s oil facilities](https://www.ft.com/content/cef0a0c5-59be-4b53-83da-4f7fc609c2a8)
+**发布时间**: 2026-01-07 12:19
+
+#### [How Trump became just another Republican president](https://www.ft.com/content/a72bfbc5-b8bc-44f3-a305-62a0481e218a)
+**发布时间**: 2026-01-07 11:35
 
 ---
 

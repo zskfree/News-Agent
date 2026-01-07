@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Jan 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 08:38:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 23:22:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump says Venezuela will turn over oil to US</title>
-      <link>https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c</link>
-      <description>&lt;![CDATA[Trump says Venezuela will turn over oil to US]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c</guid>
+      <title>JPMorgan to take over Apple’s $20bn credit card portfolio from Goldman Sachs</title>
+      <link>https://www.ft.com/content/07b1da7c-bac1-4d79-b281-1d2eaaabdea7</link>
+      <description>&lt;![CDATA[JPMorgan to take over Apple’s $20bn credit card portfolio from Goldman Sachs]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 22:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/07b1da7c-bac1-4d79-b281-1d2eaaabdea7</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AI investment won’t pay off unless employees can do the work it demands</title>
+      <link>https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AI investment won’t pay off unless employees can do the work it demands]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 22:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Trump banning institutional investors like Blackstone from buying homes won’t bring down housing costs, according to experts</title>
+      <link>https://www.marketwatch.com/story/why-trump-banning-institutional-investors-like-blackstone-from-buying-homes-wont-bring-down-housing-costs-according-to-experts-97bfc3bc?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why Trump banning institutional investors like Blackstone from buying homes won’t bring down housing costs, according to experts]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 22:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-trump-banning-institutional-investors-like-blackstone-from-buying-homes-wont-bring-down-housing-costs-according-to-experts-97bfc3bc?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors are waiting on Friday’s jobs numbers. They should be more worried about this other labor report.</title>
+      <link>https://www.marketwatch.com/story/investors-are-waiting-on-fridays-jobs-numbers-they-should-be-more-worried-about-this-productivity-report-a4b0436f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors are waiting on Friday’s jobs numbers. They should be more worried about this other labor report.]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-are-waiting-on-fridays-jobs-numbers-they-should-be-more-worried-about-this-productivity-report-a4b0436f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Washington seeks to control sales of Venezuelan oil ‘indefinitely’</title>
+      <link>https://www.ft.com/content/5b8af100-ca3c-41fb-a2ca-5eb04d504438</link>
+      <description>&lt;![CDATA[Washington seeks to control sales of Venezuelan oil ‘indefinitely’]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 22:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5b8af100-ca3c-41fb-a2ca-5eb04d504438</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 08:38
+**最后更新时间**: 2026-01-07 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-07 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [锂价翻倍，锂企溢价囤矿 | 行业风向标](https://www.tmtpost.com/7834491.html)
+**发布时间**: 2026-01-07 21:36
+
+#### [二代接班一年后"易主"，拼便宜联手浙江国资接盘嘉亨家化 | 并购一线](https://www.tmtpost.com/7834449.html)
+**发布时间**: 2026-01-07 20:46
+
+#### [融创中国，警报解除](https://www.tmtpost.com/7833148.html)
+**发布时间**: 2026-01-07 19:47
+
+#### [2026，杀回香江去？](https://www.tmtpost.com/7833287.html)
+**发布时间**: 2026-01-07 19:46
+
+#### [国家队重注，押出普惠算力“中国答案”](https://www.tmtpost.com/7832967.html)
+**发布时间**: 2026-01-07 19:42
+
+#### [复盘2025年商业舆论事件，人们为何如此愤怒](https://www.tmtpost.com/7834242.html)
+**发布时间**: 2026-01-07 19:41
+
+#### [派拉蒙大战Netflix，AI二创要把IP玩坏了？](https://www.tmtpost.com/7834093.html)
+**发布时间**: 2026-01-07 19:40
+
+#### [玻璃基板：AI存储未来几年最大的预期差之一](https://www.tmtpost.com/7833453.html)
+**发布时间**: 2026-01-07 19:35
+
+#### [黄仁勋定调，“物理AI”吹响号角](https://www.tmtpost.com/7834282.html)
+**发布时间**: 2026-01-07 19:35
+
+#### [1亿Token免费送：微信打响AI“抢人赛”](https://www.tmtpost.com/7834274.html)
+**发布时间**: 2026-01-07 19:33
+
+#### [CES2026：联想、宏碁、华硕、MSI秀出AI时代的野心](https://www.tmtpost.com/7834241.html)
+**发布时间**: 2026-01-07 19:28
+
+#### [CES首日，高通大秀端侧AI进化论](https://www.tmtpost.com/7834235.html)
+**发布时间**: 2026-01-07 19:28
+
+#### [20亿美元豪掷中国AI团队！Meta的“闪电收购”，暴露了硅谷AI的集体焦虑](https://www.tmtpost.com/7834258.html)
+**发布时间**: 2026-01-07 19:28
+
+#### [卓悦清退KKV，购物中心不爱网红品牌了？](https://www.tmtpost.com/7834155.html)
+**发布时间**: 2026-01-07 19:13
+
+#### [动力电池新年首涨，车企为何没掀桌子](https://www.tmtpost.com/7834142.html)
+**发布时间**: 2026-01-07 19:05
+
+#### [“我才30岁，为什么开始写遗嘱、清空家产？”](https://www.tmtpost.com/7834059.html)
+**发布时间**: 2026-01-07 18:31
+
+#### [从DeepSeek到豆包，中国互联网进入“虎变”纪元](https://www.tmtpost.com/7834064.html)
+**发布时间**: 2026-01-07 18:31
+
+#### [昆仑芯vs摩尔线程：实干与造梦的国产芯片双轨](https://www.tmtpost.com/7834054.html)
+**发布时间**: 2026-01-07 18:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [企业出海不再是开拓市场，而是修复声誉](http://www.huxiu.com/article/4823849.html?f=wangzhan)
+**发布时间**: 2026-01-07 20:00
+
+#### [固态电池的“终极考题”，竟被一家芬兰初创在CES上抢答了](http://www.huxiu.com/article/4823983.html?f=wangzhan)
+**发布时间**: 2026-01-07 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里云的“反差”2025：于无声处寻找 ASI](https://www.infoq.cn/article/wMEpjRFjC9bpt2LTc0Ry?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 18:22
+
+#### [7 天 AI 搭子实测：你的判断决定哪款应用值得留下!](https://www.infoq.cn/article/GAK1NJLpCRzKUrR7o5te?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 17:57
+
+#### [离职工程师举报Uber Eats算法系统剥削外卖员，一天后竟被爆出帖子是AI编的？](https://www.infoq.cn/article/RTBuRxfOS4iP6NQCwF8k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 17:39
+
+#### [IDC：OceanBase位列中国分布式数据库本地部署市场第一、整体第四](https://www.infoq.cn/article/QsrBYIFDcjUKcJPL0sCx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 17:33
+
+#### [“再也不雇人类了！”高薪员工闪辞，创始人直接用Agent填满工位，半年前才被AI坑得删库？](https://www.infoq.cn/article/1iZgsaI6b9o1pVzNEQOA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 17:28
+
+#### [瞄准算力效率痛点，专注异构调度核心！这家开源基因AI创企已获数千万天使轮融资](https://www.infoq.cn/article/sWRZEHRjHsCXWQ8y7lgC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 17:19
+
+#### [15年大数据老兵鸿蒙“造梦”，父女联手打造亲子游戏App](https://www.infoq.cn/article/rwSKfSRNBoL4HUv85zQ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 16:46
+
+#### [Token售卖已无溢价、大模型公司转型“系统商”？记忆张量 CTO 李志宇：智能体能力会拉开差距，长期记忆与状态管理成竞争核心](https://www.infoq.cn/article/5hKXbFBiU5NpxjQlGphF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-07 16:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用「考试」和「代价」，重新审视我的 2026 年度计划](https://sspai.com/post/105142)
+**发布时间**: 2026-01-07 17:04
+
+#### [用快捷指令搭建个性化单词学习系统](https://sspai.com/prime/story/shortcuts-personalized-vocab-learning)
+**发布时间**: 2026-01-07 16:28
 
 ---
 
