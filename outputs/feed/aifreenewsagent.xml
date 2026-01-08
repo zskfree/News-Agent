@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Jan 2026 23:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 23:22:55 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 05:27:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>分析近六十种科学模型，MIT：基础模型或学得物理现实的共同底层表征，附实验证据</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07-9</link>
-      <description>&lt;![CDATA[分析近六十种科学模型，MIT：基础模型或学得物理现实的共同底层表征，附实验证据]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-9</guid>
+      <title>OpenAI发布ChatGPT新功能，专为健康打造的个人服务体验</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-08-4</link>
+      <description>&lt;![CDATA[OpenAI发布ChatGPT新功能，专为健康打造的个人服务体验]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-08-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人</title>
-      <link>https://www.qbitai.com/2026/01/367308.html</link>
-      <description>&lt;![CDATA[NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367308.html</guid>
+      <title>刚刚，DeepSeek R1论文更新，增加了64页</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-08-3</link>
+      <description>&lt;![CDATA[刚刚，DeepSeek R1论文更新，增加了64页]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-08-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mobileye砸63亿杀入具身智能！百辆Robotaxi今年Q3进美国</title>
-      <link>https://www.qbitai.com/2026/01/367284.html</link>
-      <description>&lt;![CDATA[Mobileye砸63亿杀入具身智能！百辆Robotaxi今年Q3进美国]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367284.html</guid>
+      <title>刚刚，智谱敲钟上市了，市值达528亿港元</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-08-2</link>
+      <description>&lt;![CDATA[刚刚，智谱敲钟上市了，市值达528亿港元]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-08-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从过拟合到通用！ViMoGen开启3D人体动作生成新纪元</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07-11</link>
-      <description>&lt;![CDATA[从过拟合到通用！ViMoGen开启3D人体动作生成新纪元]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 17:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-11</guid>
+      <title>深入感知级别图像理解：UniPercept 统一图像美学、质量与结构纹理感知</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-08</link>
+      <description>&lt;![CDATA[深入感知级别图像理解：UniPercept 统一图像美学、质量与结构纹理感知]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-08</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07-5</link>
-      <description>&lt;![CDATA[OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 13:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-5</guid>
+      <title>刚刚，智谱港交所敲钟！市值528亿港元</title>
+      <link>https://www.qbitai.com/2026/01/367379.html</link>
+      <description>&lt;![CDATA[刚刚，智谱港交所敲钟！市值528亿港元]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 02:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367379.html</guid>
       <category>Ai</category>
     </item>
   </channel>

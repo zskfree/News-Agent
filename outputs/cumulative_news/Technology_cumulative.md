@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 23:22
+**最后更新时间**: 2026-01-08 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-08 05:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当咖啡机器人席卷CES：一场商用具身智能的消费革命](https://www.tmtpost.com/7834136.html)
+**发布时间**: 2026-01-08 13:09
+
+#### [对话西门子中国董事长肖松：重塑产业新范式，AI的真正价值将在工业端充分释放｜CES 2026](https://www.tmtpost.com/7834649.html)
+**发布时间**: 2026-01-08 13:02
+
+#### [华友钴业，不只是钴](https://www.tmtpost.com/7835006.html)
+**发布时间**: 2026-01-08 12:55
+
+#### [当面包开始“奶茶化”](https://www.tmtpost.com/7835129.html)
+**发布时间**: 2026-01-08 12:55
+
+#### [历史已站在中国GPU这边](https://www.tmtpost.com/7835167.html)
+**发布时间**: 2026-01-08 12:55
+
+#### [中国黄仁勋来自美国英伟达](https://www.tmtpost.com/7835228.html)
+**发布时间**: 2026-01-08 12:55
+
+#### [陈天桥携MiroThinker 1.5开年登场：跑赢万亿模型，实现小模型大智能](https://www.tmtpost.com/7833615.html)
+**发布时间**: 2026-01-08 12:34
+
+#### [阿里为什么非要打千问这场仗？](https://www.tmtpost.com/7833445.html)
+**发布时间**: 2026-01-08 12:22
+
+#### [宜家中国关闭7家商场，未来两年将开10家小型门店](https://www.tmtpost.com/7835171.html)
+**发布时间**: 2026-01-08 11:48
+
+#### [高龄创始人的苦恼：双星“宫斗”事件背后的代际困境](https://www.tmtpost.com/7835149.html)
+**发布时间**: 2026-01-08 11:29
+
+#### [智谱与MiniMax：中国AI双雄的港股竞速](https://www.tmtpost.com/7834885.html)
+**发布时间**: 2026-01-08 11:23
+
+#### [燃油车要打翻身仗了？被新能源碾压的燃油车怎么又行了？](https://www.tmtpost.com/7835073.html)
+**发布时间**: 2026-01-08 11:13
+
+#### [又一高端品牌进入中国，李宁出手，硬刚始祖鸟](https://www.tmtpost.com/7835081.html)
+**发布时间**: 2026-01-08 11:13
+
+#### [又到年会季，高星酒店竟被洗浴中心“偷塔”](https://www.tmtpost.com/7835074.html)
+**发布时间**: 2026-01-08 11:12
+
+#### [星联未来SATELLAI 宣布完成数千万元 A 轮融资，用AI可穿戴设备撬动海外千亿美元级宠物大市场 | 融资动态](https://www.tmtpost.com/7833468.html)
+**发布时间**: 2026-01-08 10:57
+
+#### [8大年度热词，酒旅人陷入了沉思……](https://www.tmtpost.com/7834780.html)
+**发布时间**: 2026-01-08 10:57
+
+#### [牛肉涨价，第一批“倒下”的会是谁？](https://www.tmtpost.com/7834803.html)
+**发布时间**: 2026-01-08 10:49
+
+#### [Robotaxi 出行帝国，能再造特斯拉？](https://www.tmtpost.com/7834895.html)
+**发布时间**: 2026-01-08 10:44
+
+#### [纯爱赛道，男频短剧的新突破口？](https://www.tmtpost.com/7834849.html)
+**发布时间**: 2026-01-08 10:39
+
+#### [王一博也带不动SKG了](https://www.tmtpost.com/7834948.html)
+**发布时间**: 2026-01-08 10:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [如何不用空格打字：顶功类输入法简介](https://sspai.com/post/105111)
+**发布时间**: 2026-01-08 11:31
+
+#### [派早报：小米公布 2026 款 SU7、Android 源码将一年两更等](https://sspai.com/post/105234)
+**发布时间**: 2026-01-08 08:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [中粮信托 x TencentOS：国产操作系统的业务零感知替换实践](https://www.infoq.cn/article/744gLufBQwFPXMbt9lj1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 11:22
+
+#### [TencentOS为华泰保险400余套核心系统打造安全稳定新基座](https://www.infoq.cn/article/MVlTjAKfJ6xwGpPrccM5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 11:15
+
+#### [从 OTel 到 Rotel：每秒处理量提升 4 倍的 PB 级追踪系统](https://www.infoq.cn/article/wU1UM8qpeHUvdT6SPjAy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 10:54
+
+#### [又一家科技巨头携手英伟达，打造工业 AI 操作系统](https://www.infoq.cn/article/jbT1HHa78cRseVfSAdKk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 10:47
+
+#### [Docker Kanvas向Helm和Kustomize发起挑战，争夺Kubernetes主导地位](https://www.infoq.cn/article/iDhS6mXIJzGg9A73EHcG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 09:46
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [张近东“倾尽身家”，苏宁重整迈出关键一步](http://www.huxiu.com/article/4824285.html?f=wangzhan)
+**发布时间**: 2026-01-08 11:05
+
+#### [45万辆共享电单车，从县城跑向港股](http://www.huxiu.com/article/4824466.html?f=wangzhan)
+**发布时间**: 2026-01-08 09:07
+
+#### [高盛看涨中国经济，背后的逻辑是什么？](http://www.huxiu.com/article/4823948.html?f=wangzhan)
+**发布时间**: 2026-01-08 08:00
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "940a74d2cbf177bcb85a0315ae7fb952c089c10d5c51b76383e029f8ed39a2eb": {
-        "title": "突发！特朗普宣布，美国允许英伟达对华出售H200芯片，Blackwell和Rubin除外",
-        "link": "https://www.tmtpost.com/7801970.html",
-        "published_date": "Tue, 09 Dec 2025 07:52:00 GMT",
-        "first_seen": "2025-12-09T05:27:09.788192"
-      },
-      "d45fed972b45fb9a061fdb178cf0788dd82a2314814de5dc8bf54b09fe22d329": {
-        "title": "OpenAI囤DRAM晶圆，内存价格炸了！32GB DDR5一月狂涨156%，厂商倒买、交货延期，商业遏制引市场崩盘？",
-        "link": "https://www.infoq.cn/article/B5Ybdz7B6mwYsfNMDaF0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Dec 2025 11:54:00 GMT",
-        "first_seen": "2025-12-09T05:27:09.788199"
-      },
-      "e49251035c6529b9723b81ab577e484446d047603b50a384769f868bc7d781ed": {
-        "title": "Partnering with Xreal, Google to Launch First AI-Powered Glasses Running Android XR in 2026",
-        "link": "https://www.tmtpost.com/7802615.html",
-        "published_date": "Tue, 09 Dec 2025 12:46:00 GMT",
-        "first_seen": "2025-12-09T05:27:09.788201"
-      },
-      "dd1193984021c7a4153ec98f5386930a2a5955d1eabccb19ae3b403e49eeaa5d": {
-        "title": "SoftBank and Nvidia in Talks to Back Skild AI at $14 Billion Valuation Amid Trump Robotics Push",
-        "link": "https://www.tmtpost.com/7802398.html",
-        "published_date": "Tue, 09 Dec 2025 10:56:00 GMT",
-        "first_seen": "2025-12-09T05:27:09.788203"
-      },
-      "8735adef3c2c8cd108efc9838038b39aceb3e064bcfe023702da6f2334d457d0": {
-        "title": "OPPO 姜昱辰：从 GUI 到 Agent，AI 手机交互革命的「终局」思考",
-        "link": "http://www.geekpark.net/news/357791",
-        "published_date": "Tue, 09 Dec 2025 12:59:00 GMT",
-        "first_seen": "2025-12-09T05:27:09.788204"
-      },
       "0cfa597ed350df2166df922edfcb6645a924e472d8bc64c3375615c867ff9e61": {
         "title": "从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍",
         "link": "https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7832967.html",
         "published_date": "Wed, 07 Jan 2026 19:42:00 GMT",
         "first_seen": "2026-01-07T23:23:22.983006"
+      },
+      "1dd7a9448ed5f1d037784b8e59894f6f16e1ff92dfa35fb089fe35a71a51b23d": {
+        "title": "陈天桥携MiroThinker 1.5开年登场：跑赢万亿模型，实现小模型大智能",
+        "link": "https://www.tmtpost.com/7833615.html",
+        "published_date": "Thu, 08 Jan 2026 12:34:00 GMT",
+        "first_seen": "2026-01-08T05:28:18.607403"
+      },
+      "6ff773f73e080fe0ed99a1548d4a9fa2dc62f7899e71fb144e7dc8fe2e1b569c": {
+        "title": "又一家科技巨头携手英伟达，打造工业 AI 操作系统",
+        "link": "https://www.infoq.cn/article/jbT1HHa78cRseVfSAdKk?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Jan 2026 10:47:00 GMT",
+        "first_seen": "2026-01-08T05:28:18.607410"
+      },
+      "d24d8852ae5f4385cbb3e5f583380420a49a7d36c3c2a1d2ce9ebf8a14152ce4": {
+        "title": "历史已站在中国GPU这边",
+        "link": "https://www.tmtpost.com/7835167.html",
+        "published_date": "Thu, 08 Jan 2026 12:55:00 GMT",
+        "first_seen": "2026-01-08T05:28:18.607413"
+      },
+      "41afba4a228a3e6172e9d330a738ca5c041610e01f0f45a6e8e215b6df73018c": {
+        "title": "对话西门子中国董事长肖松：重塑产业新范式，AI的真正价值将在工业端充分释放｜CES 2026",
+        "link": "https://www.tmtpost.com/7834649.html",
+        "published_date": "Thu, 08 Jan 2026 13:02:00 GMT",
+        "first_seen": "2026-01-08T05:28:18.607414"
+      },
+      "2450a5b44d42f0e68548a8bc24144fcf8f8e3619b0908d724f72885218bc45ac": {
+        "title": "当咖啡机器人席卷CES：一场商用具身智能的消费革命",
+        "link": "https://www.tmtpost.com/7834136.html",
+        "published_date": "Thu, 08 Jan 2026 13:09:00 GMT",
+        "first_seen": "2026-01-08T05:28:18.607416"
       }
     },
     "Finance": {
-      "0eb8163c4d146a71b86f88c4c68e9a27d673584c5568faaafcf1e64672c5d2ae": {
-        "title": "Investors bet Fed and ECB headed in opposite directions on rates",
-        "link": "https://www.ft.com/content/cb4179b2-bafa-4292-99f4-d7f4503fc9d9",
-        "published_date": "Tue, 09 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-09T05:26:32.008464"
-      },
-      "ae6cc31d9497f8ca4a558b6914c51883c9c4d7c46f80ac1a40d375f77979f4d2": {
-        "title": "Investors’ bearishness is often overdone — but their market bubble fears may be spot-on",
-        "link": "https://www.marketwatch.com/story/investors-bearishness-is-often-overdone-but-their-bubble-fears-may-be-spot-on-1bb9f876?mod=mw_rss_topstories",
-        "published_date": "Tue, 09 Dec 2025 01:59:00 GMT",
-        "first_seen": "2025-12-09T05:26:32.008475"
-      },
-      "e5d9371376594f6990a0400f93d886ac6c2708dcff3b42632bb9423d12c229f7": {
-        "title": "Elon Musk suggests this underrated AI business could be a big driver of SpaceX’s valuation",
-        "link": "https://www.marketwatch.com/story/musk-suggests-this-underrated-ai-business-could-be-a-big-driver-of-spacexs-valuation-059c189f?mod=mw_rss_topstories",
-        "published_date": "Tue, 09 Dec 2025 03:10:00 GMT",
-        "first_seen": "2025-12-09T05:26:32.008477"
-      },
-      "0148b06455efc6d163e634333b58e8cc951a78242b6518278c4a2c50a5eba6a0": {
-        "title": "Boaz Weinstein’s $2bn flagship hedge fund sinks amid buoyant markets",
-        "link": "https://www.ft.com/content/698521eb-4b0c-40b6-a49e-8358e05d5f64",
-        "published_date": "Tue, 09 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-09T05:26:32.008479"
-      },
-      "b83ddb710c5a90c3a515a735920c34de0158ac4a3588582081649a76d96b9251": {
-        "title": "City of London explores outside investment for housing projects",
-        "link": "https://www.ft.com/content/97dabda4-b118-4d34-97b5-9245b2afbf4c",
-        "published_date": "Tue, 09 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-09T05:26:32.008481"
-      },
       "97ab9973116b46e1ecec9e50f3eee5c245bb3d620a8ad9aec39d8e2245fff1ff": {
         "title": "Watching Netflix makes stocks go down: study",
         "link": "https://www.ft.com/content/eb50b7d9-1890-4c2b-bad2-649262c69f01",
@@ -4479,39 +4449,39 @@
         "link": "https://www.ft.com/content/5b8af100-ca3c-41fb-a2ca-5eb04d504438",
         "published_date": "Wed, 07 Jan 2026 22:41:00 GMT",
         "first_seen": "2026-01-07T23:22:44.727386"
+      },
+      "bff9aa3ad3fbc28eff6a91cfea7aef8a07b7907316a4cc987b55d2f13fbc00d3": {
+        "title": "Lockheed and Northrop shares dive as Trump says he’ll ‘not permit’ dividends and buybacks in defense sector",
+        "link": "https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Jan 2026 01:27:00 GMT",
+        "first_seen": "2026-01-08T05:27:30.365485"
+      },
+      "139a9f6b53842a955f42f87c9d70475b81dda46bcc99615bb5ebd8dcfb4aeef9": {
+        "title": "British business faces a rude activist awakening",
+        "link": "https://www.ft.com/content/51a0d88b-8e5a-4618-991e-28ba4c0f3b86",
+        "published_date": "Thu, 08 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-08T05:27:30.365494"
+      },
+      "4ed89bd9b3471a7d4edd7c2070d5768ac57a184166a2451fd3aa831eddcd5eff": {
+        "title": "US oil companies warn they will need guarantees to invest in Venezuela",
+        "link": "https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3",
+        "published_date": "Thu, 08 Jan 2026 01:07:00 GMT",
+        "first_seen": "2026-01-08T05:27:30.365497"
+      },
+      "60c405da25dd1b6589c6b2e2b95ba0413ef6ca278993845c95a00f66b1c5f1b8": {
+        "title": "Why is Intel’s stock surging? Here’s what Wall Street has to say.",
+        "link": "https://www.marketwatch.com/story/why-is-intels-stock-surging-heres-what-wall-street-has-to-say-248d4233?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Jan 2026 02:14:00 GMT",
+        "first_seen": "2026-01-08T05:27:30.365499"
+      },
+      "64a853c299e88db56dffaf16771b0cd0b451037c548bdd234935a5d55a919863": {
+        "title": "Why a weaker construction market has become a problem for Constellation Brands’ beer business",
+        "link": "https://www.marketwatch.com/story/why-a-weaker-construction-market-has-become-a-problem-for-constellation-brands-beer-business-9294b9fc?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Jan 2026 01:28:00 GMT",
+        "first_seen": "2026-01-08T05:27:30.365501"
       }
     },
     "Ai": {
-      "8d3efebad81453133cd8417f253eada9186818edb08b9d5fbd638fa0c5320d76": {
-        "title": "北大团队发布化学大模型基准SUPERChem：挑战多模态高难度化学推理",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-09-6",
-        "published_date": "Tue, 09 Dec 2025 12:02:00 GMT",
-        "first_seen": "2025-12-09T05:26:42.057952"
-      },
-      "c8ff08ef0008ca51d9f8b00b6e135abfafa264b50471580facfd17fbef0a9a0d": {
-        "title": "全图与切片并非等价？LLaVA-UHD-v3揭示差异推出高效全图建模方案",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-09-3",
-        "published_date": "Tue, 09 Dec 2025 11:31:00 GMT",
-        "first_seen": "2025-12-09T05:26:42.057959"
-      },
-      "d61d9d3aa7c6d9bcec41799988a4105495af649ca5fc0544802b71d4e0ef9d36": {
-        "title": "Snapchat提出Canvas-to-Image：一张画布集成 ID、姿态与布局",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-09-2",
-        "published_date": "Tue, 09 Dec 2025 11:26:00 GMT",
-        "first_seen": "2025-12-09T05:26:42.057961"
-      },
-      "4c0f0fe74d53ec108cbeac35df5eadc6091ace69fe0084e52b5e5043b8e8282d": {
-        "title": "没了遥控器，还被扔进荒野，具身智能该「断奶」了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-09-5",
-        "published_date": "Tue, 09 Dec 2025 11:43:00 GMT",
-        "first_seen": "2025-12-09T05:26:42.057963"
-      },
-      "634f9b9f5f71081a5d954f6d5e59827f922bc7601b97ca3862c0b00b3c86be09": {
-        "title": "刚刚，DeepSeek梁文锋入选Nature 2025年度十大科学人物",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-09",
-        "published_date": "Tue, 09 Dec 2025 10:24:00 GMT",
-        "first_seen": "2025-12-09T05:26:42.057964"
-      },
       "a30a7dd9cdfe53348299d292486514655503fcaa55e5da44cb886d1baaf57aa7": {
         "title": "论文自动变漫画PPT！Nano Banana同款用秘塔免费生成，还有一对一语音讲解",
         "link": "https://www.qbitai.com/2025/12/359845.html",
@@ -6731,13 +6701,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-07-5",
         "published_date": "Wed, 07 Jan 2026 13:40:00 GMT",
         "first_seen": "2026-01-07T23:22:55.906014"
+      },
+      "99100911a140481541252b97203635d321c5ee0826cf7c760c73858247fcc120": {
+        "title": "OpenAI发布ChatGPT新功能，专为健康打造的个人服务体验",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-08-4",
+        "published_date": "Thu, 08 Jan 2026 11:57:00 GMT",
+        "first_seen": "2026-01-08T05:27:51.510674"
+      },
+      "3006b8964f4af6fcc1203867d10ceea00213ce929c2d22e1be263df1f8c9153f": {
+        "title": "刚刚，DeepSeek R1论文更新，增加了64页",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-08-3",
+        "published_date": "Thu, 08 Jan 2026 11:37:00 GMT",
+        "first_seen": "2026-01-08T05:27:51.510681"
+      },
+      "e3bb41cd2d933c839933cc503437fcb2b6d1a6983ef6f416f65dc32cb52817ef": {
+        "title": "刚刚，智谱敲钟上市了，市值达528亿港元",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-08-2",
+        "published_date": "Thu, 08 Jan 2026 10:21:00 GMT",
+        "first_seen": "2026-01-08T05:27:51.510683"
+      },
+      "7d67854c50c41ab5df749a1798a758ef5cd23aba0902e0902969db23c3ea8290": {
+        "title": "深入感知级别图像理解：UniPercept 统一图像美学、质量与结构纹理感知",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-08",
+        "published_date": "Thu, 08 Jan 2026 10:16:00 GMT",
+        "first_seen": "2026-01-08T05:27:51.510684"
+      },
+      "aa820e5e7b96285d204bc717b734d2c4639985cd159098447a2add51ddf283c2": {
+        "title": "刚刚，智谱港交所敲钟！市值528亿港元",
+        "link": "https://www.qbitai.com/2026/01/367379.html",
+        "published_date": "Thu, 08 Jan 2026 02:08:00 GMT",
+        "first_seen": "2026-01-08T05:27:51.510686"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-07T23:23:22.983008",
-    "Finance": "2026-01-07T23:22:44.727388",
-    "Ai": "2026-01-07T23:22:55.906017"
+    "Technology": "2026-01-08T05:28:18.607417",
+    "Finance": "2026-01-08T05:27:30.365503",
+    "Ai": "2026-01-08T05:27:51.510688"
   }
 }

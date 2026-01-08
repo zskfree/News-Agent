@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 23:22
+**最后更新时间**: 2026-01-08 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-08 05:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Trump could take control of Greenland](https://www.ft.com/content/2f060be5-5ba1-4442-b5c8-698d02d429c6)
+**发布时间**: 2026-01-08 05:00
+
+#### [British business faces a rude activist awakening](https://www.ft.com/content/51a0d88b-8e5a-4618-991e-28ba4c0f3b86)
+**发布时间**: 2026-01-08 05:00
+
+#### [Trump to meet Colombia’s Petro in dramatic détente](https://www.ft.com/content/bc7437d7-9aed-4ec8-b013-f1b0e80acb8b)
+**发布时间**: 2026-01-08 02:29
+
+#### [Marco Rubio’s Venezuelan gamble](https://www.ft.com/content/2a85fc8d-b250-459f-a3a2-c62307d8795e)
+**发布时间**: 2026-01-08 01:51
+
+#### [US oil companies warn they will need guarantees to invest in Venezuela](https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3)
+**发布时间**: 2026-01-08 01:07
+
+#### [China hacked email systems of US congressional committee staff](https://www.ft.com/content/44f730c4-7de3-4a09-88dd-41ea9c373dcb)
+**发布时间**: 2026-01-08 00:31
+
+#### [ICE officer fatally shoots Minnesota woman in her car](https://www.ft.com/content/dcf1e269-70f9-40d9-92b4-e064a08976cd)
+**发布时间**: 2026-01-08 00:18
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are you too old to see a shrink? As loneliness soars among seniors, the question is more relevant than ever.](https://www.marketwatch.com/story/are-you-too-old-to-see-a-therapist-as-loneliness-soars-among-seniors-the-question-is-more-relevant-than-ever-d85f9958?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 02:49
+
+#### [Why is Intel’s stock surging? Here’s what Wall Street has to say.](https://www.marketwatch.com/story/why-is-intels-stock-surging-heres-what-wall-street-has-to-say-248d4233?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 02:14
+
+#### [Why a weaker construction market has become a problem for Constellation Brands’ beer business](https://www.marketwatch.com/story/why-a-weaker-construction-market-has-become-a-problem-for-constellation-brands-beer-business-9294b9fc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 01:28
+
+#### [Lockheed and Northrop shares dive as Trump says he’ll ‘not permit’ dividends and buybacks in defense sector](https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 01:27
 
 ---
 
