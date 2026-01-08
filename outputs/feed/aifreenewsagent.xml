@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 08 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2026 08:37:54 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 23:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 23:21:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了</title>
-      <link>https://www.qbitai.com/2026/01/367397.html</link>
-      <description>&lt;![CDATA[黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 05:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367397.html</guid>
+      <title>清库存！DeepSeek突然补全R1技术报告，训练路径首次详细公开</title>
+      <link>https://www.qbitai.com/2026/01/367678.html</link>
+      <description>&lt;![CDATA[清库存！DeepSeek突然补全R1技术报告，训练路径首次详细公开]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367678.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-01-08日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-08/</link>
-      <description>&lt;![CDATA[2026-01-08日刊]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-08/</guid>
+      <title>训具身模型遇到的很多问题，在数据采集时就已经注定了丨鹿明联席CTO丁琰分享</title>
+      <link>https://www.qbitai.com/2026/01/367705.html</link>
+      <description>&lt;![CDATA[训具身模型遇到的很多问题，在数据采集时就已经注定了丨鹿明联席CTO丁琰分享]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 12:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367705.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>开源“裸考”真实世界，国产具身智能基座模型拿下全球第二！</title>
+      <link>https://www.qbitai.com/2026/01/367464.html</link>
+      <description>&lt;![CDATA[开源“裸考”真实世界，国产具身智能基座模型拿下全球第二！]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367464.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>「听觉」引导「视觉」，OmniAgent开启全模态主动感知新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-08-5</link>
+      <description>&lt;![CDATA[「听觉」引导「视觉」，OmniAgent开启全模态主动感知新范式]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-08-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>傅利叶首秀CES 2026，全面展示“有温度”的人机交互</title>
+      <link>https://www.qbitai.com/2026/01/367659.html</link>
+      <description>&lt;![CDATA[傅利叶首秀CES 2026，全面展示“有温度”的人机交互]]&gt;</description>
+      <pubDate>Thu, 08 Jan 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367659.html</guid>
       <category>Ai</category>
     </item>
   </channel>

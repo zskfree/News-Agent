@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 08:37
+**最后更新时间**: 2026-01-08 23:21
+
+---
+
+## 🆕 最新更新 (2026-01-08 23:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran suffers ‘internet blackout’ as it struggles to contain protests](https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d)
+**发布时间**: 2026-01-08 22:48
+
+#### [Glencore and Rio Tinto resume talks on $260bn mining megadeal](https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9)
+**发布时间**: 2026-01-08 21:59
+
+#### [UK to exclude financial services from push for closer EU alignment](https://www.ft.com/content/8d9aca04-5675-4d38-bf22-1fcb2f1a862b)
+**发布时间**: 2026-01-08 21:00
+
+#### [JD Vance defends killing of anti-Ice protester in Minneapolis](https://www.ft.com/content/a31656fc-eab2-4620-8a57-b5158bced0ae)
+**发布时间**: 2026-01-08 20:40
+
+#### [Terry Smith tells investors not to expect returns every year](https://www.ft.com/content/268418d6-7303-4640-bdce-296d9b396732)
+**发布时间**: 2026-01-08 17:23
+
+#### [Trump orders mass US pullout from international organisations](https://www.ft.com/content/3f785a72-f5e7-4418-86e4-a02997b861f9)
+**发布时间**: 2026-01-08 17:07
+
+#### [Trump’s Latin America policy is Rubio’s revenge](https://www.ft.com/content/cd8c2ef8-4ce0-4e91-a6f7-d10199254d21)
+**发布时间**: 2026-01-08 17:05
+
+#### [The most feared man in Venezuela vows to ‘battle’ the US](https://www.ft.com/content/0c73c29c-f4ce-44c3-9ea8-f6265c065635)
+**发布时间**: 2026-01-08 16:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [GM becomes the latest carmaker to write down billions in pivot away from EVs](https://www.marketwatch.com/story/gm-becomes-the-latest-carmaker-to-write-down-billions-in-pivot-away-from-evs-39910611?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 22:24
+
+#### [Stocks face their first real test of 2026 with Friday’s pivotal jobs report and possible tariff ruling](https://www.marketwatch.com/story/stocks-face-their-first-real-test-of-2026-with-fridays-pivotal-jobs-report-and-possible-tariff-ruling-d761e459?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 22:18
+
+#### [How Trump’s control over Venezuela’s oil gets him close to a seat at OPEC’s table](https://www.marketwatch.com/story/how-trumps-control-over-venezuelas-oil-gets-him-close-to-a-seat-at-opecs-table-84167189?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 22:03
+
+#### [We paid my daughter and son-in-law’s mortgage when it reached $76K. Here’s why we chose that magic figure.](https://www.marketwatch.com/story/we-paid-my-daughter-and-son-in-laws-mortgage-when-it-reached-76k-heres-why-we-chose-that-magic-figure-b81feccd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 21:30
+
+#### [The S&P 500 is losing the momentum that had been fueling stock investors](https://www.marketwatch.com/story/the-s-p-500-is-losing-the-momentum-that-had-been-fueling-stock-investors-371ef01e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 21:25
+
+#### [Americans just spent a record $20 billion with buy-now-pay-later. Here’s what to do if you overdid it.](https://www.marketwatch.com/story/americans-just-spent-a-record-20-billion-with-buy-now-pay-later-heres-what-to-do-if-you-overdid-it-e43f11b5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 21:21
+
+#### [Nvidia had a chilling effect on these power stocks. Are investors being too harsh?](https://www.marketwatch.com/story/nvidia-had-a-chilling-effect-on-these-power-stocks-are-investors-being-too-harsh-4494bc3a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 20:53
+
+#### [Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 20:10
+
+#### [Supposedly ‘normal’ U.S. jobs report could throw curveballs. Here’s a cheat sheet.](https://www.marketwatch.com/story/supposedly-normal-u-s-jobs-report-could-throw-a-few-curveballs-heres-a-cheat-sheet-df6700e6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 19:49
 
 ---
 
