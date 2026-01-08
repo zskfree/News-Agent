@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0cfa597ed350df2166df922edfcb6645a924e472d8bc64c3375615c867ff9e61": {
-        "title": "从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍",
-        "link": "https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Dec 2025 16:21:00 GMT",
-        "first_seen": "2025-12-09T08:33:05.710867"
-      },
-      "86d46fc1326cfa3a7ac7bf28415bba688053e035fd2ff8eef3a820d095858c16": {
-        "title": "刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！",
-        "link": "https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Dec 2025 15:43:00 GMT",
-        "first_seen": "2025-12-09T08:33:05.710873"
-      },
-      "571fd15c1b5dd5aa212d6ad4027151fad54fecf068884c948f5c3b43b8fa3aaa": {
-        "title": "IBM Acquires Confluent for $11 Billion in Major AI Data Play",
-        "link": "https://www.tmtpost.com/7802580.html",
-        "published_date": "Tue, 09 Dec 2025 12:04:00 GMT",
-        "first_seen": "2025-12-09T08:33:05.710876"
-      },
-      "bb8d048d6307f664018fa1d00523db676bf0afe6ac83d58140a9aff55d3e5fc6": {
-        "title": "算力十年狂飙100000倍，他却每天担心破产！黄仁勋亲述：如何用“30天危机感”逆袭万亿AI市场",
-        "link": "https://www.infoq.cn/article/DcgMYrU9vTE4ItiIyxYO?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Dec 2025 11:19:00 GMT",
-        "first_seen": "2025-12-09T08:33:05.710878"
-      },
-      "80d6f1e5b4bb05989a7c8d2484fba10b28b6fb30b2fd71ce034c3930b84a0120": {
-        "title": "AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7802153.html",
-        "published_date": "Tue, 09 Dec 2025 16:23:00 GMT",
-        "first_seen": "2025-12-09T08:33:05.710879"
-      },
       "28e952fc9850c92d29a1b845aba6b38eb70fe302b06fea4ad2a552bb89dd9eba": {
         "title": "H200对华放行+CPU/GPU涨价，半导体市场迎重磅变局",
         "link": "https://www.tmtpost.com/7803159.html",
@@ -2671,15 +2641,39 @@
         "link": "https://www.tmtpost.com/7834136.html",
         "published_date": "Thu, 08 Jan 2026 13:09:00 GMT",
         "first_seen": "2026-01-08T05:28:18.607416"
+      },
+      "f67b72b6e9c8e0cf17ca8b339861e623262ee052c91c04e0f2640eb2930ebdb6": {
+        "title": "智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新",
+        "link": "https://www.tmtpost.com/7835366.html",
+        "published_date": "Thu, 08 Jan 2026 16:13:00 GMT",
+        "first_seen": "2026-01-08T08:38:55.444786"
+      },
+      "c1d530f5ab8a92e158aecbaf822ba8f7a065091c625c9689ac14a7a797d9f601": {
+        "title": "开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态",
+        "link": "https://www.tmtpost.com/7835316.html",
+        "published_date": "Thu, 08 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-08T08:38:55.444793"
+      },
+      "080e690526b081e291de514d63ac4f43bef20570d9dd2b61b09690504be7287c": {
+        "title": "纯爱赛道，男频短剧的新突破口？",
+        "link": "https://www.tmtpost.com/7834849.html",
+        "published_date": "Thu, 08 Jan 2026 10:39:00 GMT",
+        "first_seen": "2026-01-08T08:38:55.444795"
+      },
+      "f587cf386be305248e86a35a1a0316afb197f971d12fe576861b5056a3995418": {
+        "title": "中粮信托 x TencentOS：国产操作系统的业务零感知替换实践",
+        "link": "https://www.infoq.cn/article/744gLufBQwFPXMbt9lj1?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Jan 2026 11:22:00 GMT",
+        "first_seen": "2026-01-08T08:38:55.444797"
+      },
+      "0fba15542685d03326a53cb8e698df8ffdf75cf15e4b34c4ee570354424512a4": {
+        "title": "TencentOS为华泰保险400余套核心系统打造安全稳定新基座",
+        "link": "https://www.infoq.cn/article/MVlTjAKfJ6xwGpPrccM5?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Jan 2026 11:15:00 GMT",
+        "first_seen": "2026-01-08T08:38:55.444799"
       }
     },
     "Finance": {
-      "97ab9973116b46e1ecec9e50f3eee5c245bb3d620a8ad9aec39d8e2245fff1ff": {
-        "title": "Watching Netflix makes stocks go down: study",
-        "link": "https://www.ft.com/content/eb50b7d9-1890-4c2b-bad2-649262c69f01",
-        "published_date": "Tue, 09 Dec 2025 06:00:00 GMT",
-        "first_seen": "2025-12-09T08:32:40.901830"
-      },
       "3ce8035cead6e8c798a25efbe77b881238ef78d40606c9c6878a292552b9fbe7": {
         "title": "Trump to kick off final round of Fed chair interviews this week",
         "link": "https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175",
@@ -4479,27 +4473,21 @@
         "link": "https://www.marketwatch.com/story/why-a-weaker-construction-market-has-become-a-problem-for-constellation-brands-beer-business-9294b9fc?mod=mw_rss_topstories",
         "published_date": "Thu, 08 Jan 2026 01:28:00 GMT",
         "first_seen": "2026-01-08T05:27:30.365501"
+      },
+      "14ea0ee5c501eb71db19790abc120f1668272b0a508756723e7fe2f801317a53": {
+        "title": "Primark owner ABF shares slide after profit warning",
+        "link": "https://www.ft.com/content/c3754da0-b04a-48b8-ba59-e2b2735917f9",
+        "published_date": "Thu, 08 Jan 2026 08:20:00 GMT",
+        "first_seen": "2026-01-08T08:37:53.894912"
+      },
+      "f665f6d8dfa73e39f1e1a1575bf4265c7e7febf42b696ab0ef137fb8bfcc4b23": {
+        "title": "Greenland’s future must be decided by island and Denmark, Starmer warns Trump",
+        "link": "https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440",
+        "published_date": "Thu, 08 Jan 2026 07:47:00 GMT",
+        "first_seen": "2026-01-08T08:37:53.894920"
       }
     },
     "Ai": {
-      "a30a7dd9cdfe53348299d292486514655503fcaa55e5da44cb886d1baaf57aa7": {
-        "title": "论文自动变漫画PPT！Nano Banana同款用秘塔免费生成，还有一对一语音讲解",
-        "link": "https://www.qbitai.com/2025/12/359845.html",
-        "published_date": "Tue, 09 Dec 2025 07:43:00 GMT",
-        "first_seen": "2025-12-09T08:32:41.018391"
-      },
-      "9a4d8492412b11cf6efefc165848b00155d5ad873bdbd7c99c06462cae8605a3": {
-        "title": "刚上市的摩尔线程，即将揭晓新一代GPU架构",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-09-4",
-        "published_date": "Tue, 09 Dec 2025 11:33:00 GMT",
-        "first_seen": "2025-12-09T08:32:41.018401"
-      },
-      "87fd6aa203c0d53b8b3b82b371ce101590b2a6aa20895efb1299e31d4af8a00a": {
-        "title": "2025-12-09日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-09/",
-        "published_date": "Tue, 09 Dec 2025 07:14:00 GMT",
-        "first_seen": "2025-12-09T08:32:41.018403"
-      },
       "37a84ac82b180018fb54defae1027c1c77f811c6feb8dddfb0ece2962cd1dcc2": {
         "title": "Waymo数据意外曝光：2500台车每周45万订单，重返全球第一",
         "link": "https://www.qbitai.com/2025/12/359976.html",
@@ -6731,13 +6719,25 @@
         "link": "https://www.qbitai.com/2026/01/367379.html",
         "published_date": "Thu, 08 Jan 2026 02:08:00 GMT",
         "first_seen": "2026-01-08T05:27:51.510686"
+      },
+      "533fae7cb14def33a30ff28be722de83dc301aa892536a69acc1caae438150c1": {
+        "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
+        "link": "https://www.qbitai.com/2026/01/367397.html",
+        "published_date": "Thu, 08 Jan 2026 05:50:00 GMT",
+        "first_seen": "2026-01-08T08:37:54.016142"
+      },
+      "156f094a3c27b1204aa9be605a21b478282b01081f33a308a0a3e3a4bda035d1": {
+        "title": "2026-01-08日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-08/",
+        "published_date": "Thu, 08 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-08T08:37:54.016150"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-08T05:28:18.607417",
-    "Finance": "2026-01-08T05:27:30.365503",
-    "Ai": "2026-01-08T05:27:51.510688"
+    "Technology": "2026-01-08T08:38:55.444801",
+    "Finance": "2026-01-08T08:37:53.894923",
+    "Ai": "2026-01-08T08:37:54.016154"
   }
 }

@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 05:27
+**最后更新时间**: 2026-01-08 08:37
+
+---
+
+## 🆕 最新更新 (2026-01-08 08:37)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [天数智芯敲钟：29亿亏损与400亿市值，国产GPU的狂热时代](https://www.tmtpost.com/7835526.html)
+**发布时间**: 2026-01-08 16:27
+
+#### [从租住安居下手，南京开始抢人了](https://www.tmtpost.com/7835130.html)
+**发布时间**: 2026-01-08 16:27
+
+#### [董事长坐不了高铁？赛拉弗的“限高”窘境与光伏狂飙后遗症](https://www.tmtpost.com/7835485.html)
+**发布时间**: 2026-01-08 16:27
+
+#### [从“爱你老己”到CBI500品牌榜：怎样才能让消费者下单新品？](https://www.tmtpost.com/7835470.html)
+**发布时间**: 2026-01-08 16:21
+
+#### [智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新](https://www.tmtpost.com/7835366.html)
+**发布时间**: 2026-01-08 16:13
+
+#### [从合规到进化，我们到底该如何理解新国标？](https://www.tmtpost.com/7835321.html)
+**发布时间**: 2026-01-08 14:55
+
+#### [首个「AI六小虎」上市，海淀收获「全球大模型第一股」](https://www.tmtpost.com/7835384.html)
+**发布时间**: 2026-01-08 14:51
+
+#### [Industrial AI Is the True Value Driver of the AI Revolution, Says Siemens Exec](https://www.tmtpost.com/7835351.html)
+**发布时间**: 2026-01-08 13:59
+
+#### [开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态](https://www.tmtpost.com/7835316.html)
+**发布时间**: 2026-01-08 13:36
+
+#### [First Solar股价因评级下调而下跌，投资者应降低预期](https://www.tmtpost.com/7835315.html)
+**发布时间**: 2026-01-08 13:27
+
+#### [苹果和戴尔面临内存价格飙升，股价能否应对这一威胁？](https://www.tmtpost.com/7835286.html)
+**发布时间**: 2026-01-08 13:03
+
+#### [康斯特雷莱申完成对卡尔派恩的收购，成为全球最大电力生产商](https://www.tmtpost.com/7835284.html)
+**发布时间**: 2026-01-08 13:02
+
+#### [跟风追逐闪迪和美光，可能让你的投资组合陷入风险](https://www.tmtpost.com/7835281.html)
+**发布时间**: 2026-01-08 13:01
+
+#### [反弹言之尚早，Academy Sports还有硬仗要打](https://www.tmtpost.com/7835279.html)
+**发布时间**: 2026-01-08 13:01
+
+#### [AST SpaceMobile股价下跌，因分析师警告存在50%的下行风险](https://www.tmtpost.com/7835274.html)
+**发布时间**: 2026-01-08 13:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？](https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 15:19
+
+#### [Slack增强Chef基础设施，提升安全性并降低部署影响范围](https://www.infoq.cn/article/9DINHIzbyiQYT4mj7vPA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 2300 点赞的搜索 Agent，有点惊艳啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530418&idx=1&sn=d983720f54ccc4c953aef2f8397d172c)
+**发布时间**: 2026-01-08 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [浏览器扩展合集：派友近期推荐的 7 款浏览器扩展](https://sspai.com/post/105249)
+**发布时间**: 2026-01-08 15:00
 
 ---
 

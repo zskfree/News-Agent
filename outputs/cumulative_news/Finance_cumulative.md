@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 05:27
+**最后更新时间**: 2026-01-08 08:37
+
+---
+
+## 🆕 最新更新 (2026-01-08 08:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Primark owner ABF shares slide after profit warning](https://www.ft.com/content/c3754da0-b04a-48b8-ba59-e2b2735917f9)
+**发布时间**: 2026-01-08 08:20
+
+#### [Greenland’s future must be decided by island and Denmark, Starmer warns Trump](https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440)
+**发布时间**: 2026-01-08 07:47
+
+#### [The gangs, goons and guerrillas running swaths of Venezuela](https://www.ft.com/content/795f5a52-5462-43cb-9f27-0cabf7170aaa)
+**发布时间**: 2026-01-08 05:00
+
+#### [Self-employed and landlords not ready for new tax rules, warn experts](https://www.ft.com/content/3ba19a4f-81c1-42eb-b435-7891ec28256d)
+**发布时间**: 2026-01-08 05:00
+
+#### [Top private equity groups capture largest fundraising share in a decade](https://www.ft.com/content/8573eb5f-47d6-45a0-b44c-904d8c8a7e1f)
+**发布时间**: 2026-01-08 05:00
+
+#### [US oil groups warn they will need guarantees to invest in Venezuela](https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3)
+**发布时间**: 2026-01-08 01:07
 
 ---
 
