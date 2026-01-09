@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 Jan 2026 08:32:00 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2026 08:38:08 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:22:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -15,42 +15,42 @@
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题</title>
-      <link>https://www.qbitai.com/2026/01/368407.html</link>
+      <link>https://www.qbitai.com/2026/01/368598.html</link>
       <description>&lt;![CDATA[清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/368407.html</guid>
+      <pubDate>Fri, 09 Jan 2026 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/368598.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09-7</link>
-      <description>&lt;![CDATA[深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-7</guid>
+      <title>蚂蚁再把医疗AI卷出新高度！蚂蚁·安诊儿医疗大模型开源即SOTA</title>
+      <link>https://www.qbitai.com/2026/01/368649.html</link>
+      <description>&lt;![CDATA[蚂蚁再把医疗AI卷出新高度！蚂蚁·安诊儿医疗大模型开源即SOTA]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/368649.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09-5</link>
-      <description>&lt;![CDATA[Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-5</guid>
+      <title>太初元碁发布国产高兼容性虚拟指令集PCX及高性能工业级编译器PCXAC</title>
+      <link>https://www.qbitai.com/2026/01/368641.html</link>
+      <description>&lt;![CDATA[太初元碁发布国产高兼容性虚拟指令集PCX及高性能工业级编译器PCXAC]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/368641.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一年后，DeepSeek-R1的每token成本降到了原来的1/32</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09-6</link>
-      <description>&lt;![CDATA[一年后，DeepSeek-R1的每token成本降到了原来的1/32]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 14:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-6</guid>
+      <title>让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-09-9</link>
+      <description>&lt;![CDATA[让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI for Healthcare——面向医疗保健的AI产品</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09-8</link>
-      <description>&lt;![CDATA[OpenAI for Healthcare——面向医疗保健的AI产品]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-8</guid>
+      <title>谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-09-4</link>
+      <description>&lt;![CDATA[谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-4</guid>
       <category>Ai</category>
     </item>
   </channel>

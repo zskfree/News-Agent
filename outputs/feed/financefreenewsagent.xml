@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 Jan 2026 08:37:00 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2026 08:37:51 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:22:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The world’s biggest miner may be created with copper prices near highs</title>
-      <link>https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The world’s biggest miner may be created with copper prices near highs]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories</guid>
+      <title>Mortgage rates drop below 6% for the first time in 3 years as Trump official says purchases of mortgage bonds are starting</title>
+      <link>https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Mortgage rates drop below 6% for the first time in 3 years as Trump official says purchases of mortgage bonds are starting]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 21:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Iran hit by ‘internet blackout’ as regime struggles to contain protests</title>
-      <link>https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d</link>
-      <description>&lt;![CDATA[Iran hit by ‘internet blackout’ as regime struggles to contain protests]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 07:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d</guid>
+      <title>US economy undershoots expectations to add just 50,000 jobs in December</title>
+      <link>https://www.ft.com/content/026e599f-7b29-40fc-b0ce-dea43a792e6e</link>
+      <description>&lt;![CDATA[US economy undershoots expectations to add just 50,000 jobs in December]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 13:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/026e599f-7b29-40fc-b0ce-dea43a792e6e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump posted jobs data early on Truth Social</title>
+      <link>https://www.ft.com/content/2dc5bbba-921a-4660-84c4-f3998300c889</link>
+      <description>&lt;![CDATA[Trump posted jobs data early on Truth Social]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 21:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/2dc5bbba-921a-4660-84c4-f3998300c889</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump’s new prediction for ‘massive wealth’ from Venezuelan oil may take a while to play out</title>
+      <link>https://www.marketwatch.com/story/trump-says-big-oil-will-invest-100-billion-in-venezuela-as-chevon-exxon-come-to-the-white-house-today-heres-what-to-watch-5bbaccf4?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump’s new prediction for ‘massive wealth’ from Venezuelan oil may take a while to play out]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-says-big-oil-will-invest-100-billion-in-venezuela-as-chevon-exxon-come-to-the-white-house-today-heres-what-to-watch-5bbaccf4?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil rises 3% this week — and not just because of Venezuela</title>
+      <link>https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil rises 3% this week — and not just because of Venezuela]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 20:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
