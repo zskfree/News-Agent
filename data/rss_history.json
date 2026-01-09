@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e3fa067ba5ef519b471a60d650419db1cee51fb9030943b95c05249d8b185dc7": {
-        "title": "H200放行：英伟达6万亿市值路的“穿云箭”？",
-        "link": "https://www.tmtpost.com/7804051.html",
-        "published_date": "Wed, 10 Dec 2025 14:26:00 GMT",
-        "first_seen": "2025-12-10T08:36:59.495777"
-      },
-      "ebfc18c82666780764058119cf396065a12f52f3b745eed80057017c81bb091b": {
-        "title": "微软祭出在亚洲最大投资，175亿美元豪赌印度AI",
-        "link": "https://www.tmtpost.com/7803848.html",
-        "published_date": "Wed, 10 Dec 2025 11:18:00 GMT",
-        "first_seen": "2025-12-10T08:36:59.495784"
-      },
-      "878ffe4975836ff8a9e353d619f3e847d8ef2e657139b539a8da7295417b6134": {
-        "title": "三年被骂，七天翻盘：谷歌“印度扫地僧”反杀OpenAI",
-        "link": "https://www.tmtpost.com/7803334.html",
-        "published_date": "Wed, 10 Dec 2025 09:23:00 GMT",
-        "first_seen": "2025-12-10T08:36:59.495786"
-      },
-      "64939be8b122ae85caf5b2b0d772cedda30564862295248ecec9ad9671b8ec06": {
-        "title": "JetBrains 放弃 Fleet：急刹变道打造全新 Agentic IDE，与 VS Code、Cursor 争夺下一代 AI 编程王座",
-        "link": "https://www.infoq.cn/article/b0beyqiWkDJW4txqakQ4?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Dec 2025 13:22:00 GMT",
-        "first_seen": "2025-12-10T08:36:59.495787"
-      },
-      "4aa8bb7414209870ba0a9a843af898ce2c70a686ddad84cf4bd9c520e57ead65": {
-        "title": "跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图",
-        "link": "http://www.geekpark.net/news/357853",
-        "published_date": "Wed, 10 Dec 2025 13:50:00 GMT",
-        "first_seen": "2025-12-10T08:36:59.495789"
-      },
       "3584245b793822214b9790f42fb5b03bb19fe4ebe50a4c14a9fa2857034d51fe": {
         "title": "OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT",
         "link": "https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&utm_medium=article",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7836429.html",
         "published_date": "Fri, 09 Jan 2026 10:26:00 GMT",
         "first_seen": "2026-01-09T05:28:11.289107"
+      },
+      "af41b1decebe8990da72f5381c854d43053dcfe42faa808f83f9a623fd101fb4": {
+        "title": "9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI",
+        "link": "https://www.tmtpost.com/6424013.html",
+        "published_date": "Fri, 09 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-09T08:38:28.931189"
+      },
+      "34a9e2ab13c739e56b520e9b4142fdbf61eef2fd2f5e9f57c94181d4572f426a": {
+        "title": "China’s BAAI Sees AI Shifting From Language Models to Physical World Understanding",
+        "link": "https://www.tmtpost.com/7836846.html",
+        "published_date": "Fri, 09 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-09T08:38:28.931195"
+      },
+      "a0f3d08cb8ee8defb86229f243382e9c519190e86cef71ef337e649a64fb8996": {
+        "title": "【钛晨报】广州迎利好！加速培育AI、半导体、航空航天等5个战略先导产业；雀巢因原料问题召回奶粉，蒙牛、君乐宝等紧急回应；中国石化与中国航油官宣重组",
+        "link": "https://www.tmtpost.com/7836246.html",
+        "published_date": "Fri, 09 Jan 2026 07:20:00 GMT",
+        "first_seen": "2026-01-09T08:38:28.931197"
+      },
+      "63cdc47ef2726c70fa0ce55f01f962547ae5c86f36c3655b43e7efce1fb5c1b5": {
+        "title": "MiniMax盘中一度涨超80%，历史上IPO规模最大的AI大模型公司诞生，引爆港股市场",
+        "link": "https://www.tmtpost.com/7836947.html",
+        "published_date": "Fri, 09 Jan 2026 13:38:00 GMT",
+        "first_seen": "2026-01-09T08:38:28.931199"
+      },
+      "638f2e67612ea6046e5d79a8eb010f64e9e710742a033758684a7242067100e6": {
+        "title": "CES 2026观察：AI眼镜并没有迎来iPhone时刻",
+        "link": "https://www.tmtpost.com/7836799.html",
+        "published_date": "Fri, 09 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-09T08:38:28.931200"
       }
     },
     "Finance": {
@@ -4485,39 +4485,21 @@
         "link": "https://www.ft.com/content/a31656fc-eab2-4620-8a57-b5158bced0ae",
         "published_date": "Fri, 09 Jan 2026 03:22:00 GMT",
         "first_seen": "2026-01-09T05:27:45.432756"
+      },
+      "62593412f282ee2921af855b2c982870359e9252671777d46e01244c191d906f": {
+        "title": "The world’s biggest miner may be created with copper prices near highs",
+        "link": "https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Jan 2026 08:34:00 GMT",
+        "first_seen": "2026-01-09T08:37:51.318976"
+      },
+      "0e66df35ccaf259b5af244f60b80b84de62e46194d021f43fffdc51ac40a8091": {
+        "title": "Iran hit by ‘internet blackout’ as regime struggles to contain protests",
+        "link": "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d",
+        "published_date": "Fri, 09 Jan 2026 07:07:00 GMT",
+        "first_seen": "2026-01-09T08:37:51.318985"
       }
     },
     "Ai": {
-      "29e0630984fd5651677623890516cb5894cddb2e7bfda2b0f26952ddd22e8667": {
-        "title": "首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-8",
-        "published_date": "Wed, 10 Dec 2025 14:08:00 GMT",
-        "first_seen": "2025-12-10T08:36:39.536133"
-      },
-      "62278f6beba0497cec68c85bccf5548f129c470e32100f65ce9d959118319cac": {
-        "title": "Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-5",
-        "published_date": "Wed, 10 Dec 2025 13:28:00 GMT",
-        "first_seen": "2025-12-10T08:36:39.536141"
-      },
-      "50941915a3da829083e7878b312f8de287465f92a8d4063f9abb9e5f2289edf4": {
-        "title": "一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-6",
-        "published_date": "Wed, 10 Dec 2025 13:35:00 GMT",
-        "first_seen": "2025-12-10T08:36:39.536144"
-      },
-      "52905c671979ed3f055d789d0527756c818d19a37379f46bc35a70b0281b43f7": {
-        "title": "告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-4",
-        "published_date": "Wed, 10 Dec 2025 13:25:00 GMT",
-        "first_seen": "2025-12-10T08:36:39.536146"
-      },
-      "baa315e81cede6d12a1f7c613ecce8acf26bae6a0877d80342a54ecf17b2ba17": {
-        "title": "ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习",
-        "link": "https://www.jiqizhixin.com/articles/2025-08-06-12",
-        "published_date": "Wed, 10 Dec 2025 12:15:00 GMT",
-        "first_seen": "2025-12-10T08:36:39.536148"
-      },
       "371e1523796e60e18b0c56b672ab5f78885c928e2c79d622585148535bfab4ef": {
         "title": "GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露",
         "link": "https://www.jiqizhixin.com/articles/2025-12-10-13",
@@ -6731,13 +6713,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-09/",
         "published_date": "Fri, 09 Jan 2026 07:14:00 GMT",
         "first_seen": "2026-01-09T05:27:45.581359"
+      },
+      "800e9eed3f03c720564623a9618231992a2053136656eaad8dd4039140af2d74": {
+        "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题",
+        "link": "https://www.qbitai.com/2026/01/368407.html",
+        "published_date": "Fri, 09 Jan 2026 08:04:00 GMT",
+        "first_seen": "2026-01-09T08:38:08.521261"
+      },
+      "d785391c614190dbf13ccf91b749ba281f1237e1e65466d04864879afb5b7f2e": {
+        "title": "深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-7",
+        "published_date": "Fri, 09 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-09T08:38:08.521267"
+      },
+      "95a1c97d2ceb1200445d58fb2a81bc227a2a9be6b483afd78cbf9f3148bd09a3": {
+        "title": "Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-5",
+        "published_date": "Fri, 09 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-09T08:38:08.521270"
+      },
+      "59664ca0b6dd1eee0e59441bdf149fc57e232238629a1489bdb4bd87e03e8ba3": {
+        "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-6",
+        "published_date": "Fri, 09 Jan 2026 14:24:00 GMT",
+        "first_seen": "2026-01-09T08:38:08.521271"
+      },
+      "2ed334853b28b64f4c696b5e8c6306fe15eebb5c90b0f30751e8f789a8d6c430": {
+        "title": "OpenAI for Healthcare——面向医疗保健的AI产品",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-8",
+        "published_date": "Fri, 09 Jan 2026 14:28:00 GMT",
+        "first_seen": "2026-01-09T08:38:08.521273"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-09T05:28:11.289109",
-    "Finance": "2026-01-09T05:27:45.432759",
-    "Ai": "2026-01-09T05:27:45.581361"
+    "Technology": "2026-01-09T08:38:28.931202",
+    "Finance": "2026-01-09T08:37:51.318988",
+    "Ai": "2026-01-09T08:38:08.521276"
   }
 }

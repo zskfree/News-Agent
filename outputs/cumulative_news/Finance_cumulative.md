@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-09 05:27
+**最后更新时间**: 2026-01-09 08:37
+
+---
+
+## 🆕 最新更新 (2026-01-09 08:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The world’s biggest miner may be created with copper prices near highs](https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 08:34
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran hit by ‘internet blackout’ as regime struggles to contain protests](https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d)
+**发布时间**: 2026-01-09 07:07
+
+#### [The new era of resource imperialism](https://www.ft.com/content/7be42ea6-0cbd-487b-a437-e92635bc0e0f)
+**发布时间**: 2026-01-09 05:00
+
+#### [Expansionist Donald Trump’s whirlwind week](https://www.ft.com/content/c724d48f-15de-4379-a671-ae70b4233aee)
+**发布时间**: 2026-01-09 05:00
+
+#### [How to AI-proof your job](https://www.ft.com/content/5e2593a3-e834-4822-bbc8-7cb27086af24)
+**发布时间**: 2026-01-09 05:00
+
+#### [Shale chiefs warn Trump that Venezuelan oil will hobble US drillers](https://www.ft.com/content/f498bdcb-c5df-4b10-a390-7b61adb140e4)
+**发布时间**: 2026-01-09 05:00
+
+#### [Wall Street scouts for investment wins in post-Maduro Venezuela](https://www.ft.com/content/434a3f6e-1ae5-45a0-a32a-470c9345fc9a)
+**发布时间**: 2026-01-09 05:00
 
 ---
 

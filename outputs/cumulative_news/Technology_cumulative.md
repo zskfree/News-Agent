@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-09 05:27
+**最后更新时间**: 2026-01-09 08:37
+
+---
+
+## 🆕 最新更新 (2026-01-09 08:37)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马杜罗的“百年孤独”](https://www.tmtpost.com/7836892.html)
+**发布时间**: 2026-01-09 16:12
+
+#### [新年第一举来了，又是险资举牌银行H股](https://www.tmtpost.com/7837148.html)
+**发布时间**: 2026-01-09 15:59
+
+#### [回顾与前瞻：弱势市场](https://www.tmtpost.com/7837145.html)
+**发布时间**: 2026-01-09 15:57
+
+#### [西贝不服输](https://www.tmtpost.com/7834407.html)
+**发布时间**: 2026-01-09 15:51
+
+#### [CES 2026：在全球市场谈智能化，长城汽车选择了哪些取舍](https://www.tmtpost.com/7837114.html)
+**发布时间**: 2026-01-09 15:34
+
+#### [9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI](https://www.tmtpost.com/6424013.html)
+**发布时间**: 2026-01-09 15:02
+
+#### [卫蓝新能源，抢滩“资本盛宴”](https://www.tmtpost.com/7836622.html)
+**发布时间**: 2026-01-09 15:00
+
+#### [CES 2026观察：AI眼镜并没有迎来iPhone时刻](https://www.tmtpost.com/7836799.html)
+**发布时间**: 2026-01-09 14:17
+
+#### [史上最大规模Tech World，联想开启“混合式AI新纪元”](https://www.tmtpost.com/7836883.html)
+**发布时间**: 2026-01-09 13:54
+
+#### [高特电子：盈利质量堪忧+产品竞争力下滑，神秘股东巨额收益引热议｜IPO观察](https://www.tmtpost.com/7836767.html)
+**发布时间**: 2026-01-09 13:41
+
+#### [MiniMax盘中一度涨超80%，历史上IPO规模最大的AI大模型公司诞生，引爆港股市场](https://www.tmtpost.com/7836947.html)
+**发布时间**: 2026-01-09 13:38
+
+#### [恒瑞医药上岸，但TGF-还没有](https://www.tmtpost.com/7836754.html)
+**发布时间**: 2026-01-09 13:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Facebook调查显示：越来越多的人开始采用带类型的Python，以提升代码质量和灵活性](https://www.infoq.cn/article/t6i8lghRAdi9I4weD2mR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-09 15:21
+
+#### [Manus高溢价收购背后，是Agent开发落地困境](https://www.infoq.cn/article/SxeNI9gVzcKr36xlwuCQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-09 14:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [动态磁贴消亡史](https://sspai.com/post/105188)
+**发布时间**: 2026-01-09 15:11
 
 ---
 

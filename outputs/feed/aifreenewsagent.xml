@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2026 05:27:45 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 08:38:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09-3</link>
-      <description>&lt;![CDATA[大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-3</guid>
+      <title>清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题</title>
+      <link>https://www.qbitai.com/2026/01/368407.html</link>
+      <description>&lt;![CDATA[清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 08:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/368407.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>医疗领域DeepSeek时刻：蚂蚁 · 安诊儿医疗大模型正式开源，登顶权威榜单</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09-2</link>
-      <description>&lt;![CDATA[医疗领域DeepSeek时刻：蚂蚁 · 安诊儿医疗大模型正式开源，登顶权威榜单]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-2</guid>
+      <title>深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-09-7</link>
+      <description>&lt;![CDATA[深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 14:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AAAI 2026 Oral | 大模型「爱你在心口难开」？深度隐藏认知让推理更可靠</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-09</link>
-      <description>&lt;![CDATA[AAAI 2026 Oral | 大模型「爱你在心口难开」？深度隐藏认知让推理更可靠]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09</guid>
+      <title>Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-09-5</link>
+      <description>&lt;![CDATA[Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 13:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>763亿港元，大模型公司最大规模IPO！MiniMax登陆港交所，开盘前大涨50%</title>
-      <link>https://www.qbitai.com/2026/01/367789.html</link>
-      <description>&lt;![CDATA[763亿港元，大模型公司最大规模IPO！MiniMax登陆港交所，开盘前大涨50%]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 02:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367789.html</guid>
+      <title>一年后，DeepSeek-R1的每token成本降到了原来的1/32</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-09-6</link>
+      <description>&lt;![CDATA[一年后，DeepSeek-R1的每token成本降到了原来的1/32]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-01-09日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-09/</link>
-      <description>&lt;![CDATA[2026-01-09日刊]]&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-09/</guid>
+      <title>OpenAI for Healthcare——面向医疗保健的AI产品</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-09-8</link>
+      <description>&lt;![CDATA[OpenAI for Healthcare——面向医疗保健的AI产品]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-09-8</guid>
       <category>Ai</category>
     </item>
   </channel>
