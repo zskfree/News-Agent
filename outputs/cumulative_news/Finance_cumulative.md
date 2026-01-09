@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 23:21
+**最后更新时间**: 2026-01-09 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-09 05:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [JD Vance defends killing of anti-ICE protester in Minneapolis](https://www.ft.com/content/a31656fc-eab2-4620-8a57-b5158bced0ae)
+**发布时间**: 2026-01-09 03:22
+
+#### [Iran hit by ‘internet blackout’ as it struggles to contain protests](https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d)
+**发布时间**: 2026-01-08 22:48
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump wants purchase of $200 billion in mortgage bonds. What that means for mortgage rates.](https://www.marketwatch.com/story/trump-suggests-his-representatives-will-buy-200-billion-in-mortgage-bonds-what-it-means-for-mortgage-rates-9524491d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 01:33
+
+#### [My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?](https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 00:30
+
+#### [I’m 46 and I’m still use my ex-boyfriend’s Netflix account. Is that stealing?](https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 00:05
+
+#### [Aerospace, defense stocks surge after Trump’s proposed $1.5 trillion military-spending budget — but are investors too optimistic?](https://www.marketwatch.com/story/aerospace-defense-stocks-surge-after-trumps-proposed-1-5-trillion-military-spending-budget-but-are-investors-too-optimistic-331f41a6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 23:25
+
+#### [U.S. stocks are up this year even as tech slides, with some already rallying more than 10%](https://www.marketwatch.com/story/u-s-stocks-are-up-this-year-even-as-tech-slides-with-some-already-rallying-more-than-10-546dbf6d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-08 23:24
 
 ---
 

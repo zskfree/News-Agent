@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 08 Jan 2026 23:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2026 23:22:24 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 05:28:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智源发布2026十大 AI技术趋势：世界模型成AGI共识方向</title>
-      <link>https://www.infoq.cn/article/XzfoHiKPOLjjHlJXK8OV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智源发布2026十大 AI技术趋势：世界模型成AGI共识方向]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XzfoHiKPOLjjHlJXK8OV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智源研究院2026十大AI技术趋势：具身智能迎来行业“出清”，世界模型成为AGI共识方向 | CES 2026</title>
+      <link>https://www.tmtpost.com/7836677.html</link>
+      <description>&lt;![CDATA[智源研究院2026十大AI技术趋势：具身智能迎来行业“出清”，世界模型成为AGI共识方向 | CES 2026]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7836677.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱正式成“全球大模型第一股”，开盘首日涨超13%！10位董事7个清华背景，专家：国内IPO抢收“确定性”，OpenAI们豪赌“无限性”</title>
-      <link>https://www.infoq.cn/article/VIJ9o1qFoOvttecimCwC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智谱正式成“全球大模型第一股”，开盘首日涨超13%！10位董事7个清华背景，专家：国内IPO抢收“确定性”，OpenAI们豪赌“无限性”]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 18:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VIJ9o1qFoOvttecimCwC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek-V3.2在推理任务中的表现优于GPT-5</title>
+      <link>https://www.infoq.cn/article/fJRLWvOdwbcSiQXlNPek?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek-V3.2在推理任务中的表现优于GPT-5]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fJRLWvOdwbcSiQXlNPek?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>近850亿资本涌入，中芯、华虹、晶合密集动作</title>
-      <link>https://www.tmtpost.com/7835940.html</link>
-      <description>&lt;![CDATA[近850亿资本涌入，中芯、华虹、晶合密集动作]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 19:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7835940.html</guid>
+      <title>刚刚，AI企业IPO最速纪录刷新！MiniMax的技术野心，价值超800亿</title>
+      <link>https://www.infoq.cn/article/U7llrTLhdJxypjxLbTkz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[刚刚，AI企业IPO最速纪录刷新！MiniMax的技术野心，价值超800亿]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/U7llrTLhdJxypjxLbTkz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker Kanvas向Helm和Kustomize发起挑战，争夺Kubernetes主导地位</title>
-      <link>https://www.infoq.cn/article/iDhS6mXIJzGg9A73EHcG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker Kanvas向Helm和Kustomize发起挑战，争夺Kubernetes主导地位]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 09:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iDhS6mXIJzGg9A73EHcG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“AI火了，我们却快完了！”顶级开源框架Tailwind之父含泪裁掉75%兄弟：半年后，这个项目可能就没了</title>
+      <link>https://www.infoq.cn/article/avx0cJiB7tR3uorMOxDd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“AI火了，我们却快完了！”顶级开源框架Tailwind之父含泪裁掉75%兄弟：半年后，这个项目可能就没了]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/avx0cJiB7tR3uorMOxDd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？</title>
-      <link>https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？]]&gt;</description>
-      <pubDate>Thu, 08 Jan 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“冰火交织”消费电子：2026在博弈中重塑，AI端侧开启新纪元</title>
+      <link>https://www.tmtpost.com/7836429.html</link>
+      <description>&lt;![CDATA[“冰火交织”消费电子：2026在博弈中重塑，AI端侧开启新纪元]]&gt;</description>
+      <pubDate>Fri, 09 Jan 2026 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7836429.html</guid>
       <category>Technology</category>
     </item>
   </channel>
