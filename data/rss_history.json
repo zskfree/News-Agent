@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "62e558468495e6902ba393914d0b497f3819c640464bbb1b03c9c9dafceb4246": {
-        "title": "自动驾驶派系之争，四大技术路线的博弈与融合",
-        "link": "https://www.tmtpost.com/7805508.html",
-        "published_date": "Thu, 11 Dec 2025 12:10:00 GMT",
-        "first_seen": "2025-12-11T05:25:40.173893"
-      },
-      "c4d05423333ab53c6e716a6910ae2c7405fb9f924122af37b57682f7e73408b4": {
-        "title": "Meta Said to Shift to Profit-Driven AI Model Development Using Alibaba's Qwen",
-        "link": "https://www.tmtpost.com/7805569.html",
-        "published_date": "Thu, 11 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-11T05:25:40.173899"
-      },
-      "13387cb6faf7affcd5683e21188d6e152d1a5fb4ed0b5e27ef7e3a90dde11fbf": {
-        "title": "大模型赋能供应链决策：从工具创新到规模化应用 ｜AICon北京",
-        "link": "https://www.infoq.cn/article/hY3Q4zJu1UyB3Zq1J4cr?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 10:56:00 GMT",
-        "first_seen": "2025-12-11T05:25:40.173901"
-      },
-      "6452f7b1985ce2fd075ec1b26b8817d2a0a546ab976162e0e3b76ab0a4d712a5": {
-        "title": "XREAL 徐驰：智能眼镜，拉开了「Agent as Hardware」的新时代",
-        "link": "http://www.geekpark.net/news/357904",
-        "published_date": "Thu, 11 Dec 2025 10:50:00 GMT",
-        "first_seen": "2025-12-11T05:25:40.173903"
-      },
-      "9309c55399150db1ad936a50d3605f4f467b41f50139e79b948785eabb318dda": {
-        "title": "硅料收储平台正式成立，光伏“反内卷”实现诺曼底登陆？",
-        "link": "https://www.tmtpost.com/7805737.html",
-        "published_date": "Thu, 11 Dec 2025 12:15:00 GMT",
-        "first_seen": "2025-12-11T05:25:40.173904"
-      },
       "8ea3f77d589e26d344f09da6c3a944a166368e4460b22eac03cb2e6d725f5e48": {
         "title": "Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世",
         "link": "https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7837630.html",
         "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
         "first_seen": "2026-01-10T05:23:10.210859"
+      },
+      "62162df301c82a24134845cfcba0e98d128e4e1e38ab222a45e3e4804bd84ea3": {
+        "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！",
+        "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Jan 2026 13:30:00 GMT",
+        "first_seen": "2026-01-10T08:29:00.053608"
+      },
+      "77357d41c5f1266ce2858d79bd83d3ad7abb67993b25b6515784437d6b90dead": {
+        "title": "RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地",
+        "link": "https://www.tmtpost.com/7837893.html",
+        "published_date": "Sat, 10 Jan 2026 13:24:00 GMT",
+        "first_seen": "2026-01-10T08:29:00.053615"
+      },
+      "536971aa52051a81d77a3ac623febf72350da9cf903bc6b1dcb3eb86accf4c59": {
+        "title": "大疆忙着抢别人地盘，影石却来偷家了",
+        "link": "https://www.tmtpost.com/7837782.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:29:00.053617"
+      },
+      "94ce83ad2ea5c7cf8c9f93d45be48b070d3df60e34dac726761f4fe81a8d0ae6": {
+        "title": "GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530482&idx=1&sn=80e975e2997f28dcbee2ab4a86d25189",
+        "published_date": "Sat, 10 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-10T08:29:00.053618"
+      },
+      "fdec2496098ba3ef212300f9f239f19d3a150a009ad6e6716bd2235c997e9e55": {
+        "title": "realme 回归后，OPPO 能迎来新一轮增长吗？",
+        "link": "https://www.tmtpost.com/7837729.html",
+        "published_date": "Sat, 10 Jan 2026 11:46:00 GMT",
+        "first_seen": "2026-01-10T08:29:00.053620"
       }
     },
     "Finance": {
-      "0cb050505d654e382cefcb9faa33ebfea4ae8ec93bcee7922e855414843ebff6": {
-        "title": "Inside the failed green revolutions at BP and Shell",
-        "link": "https://www.ft.com/content/c6d7d225-f322-4e88-b7e3-2ca2beecd495",
-        "published_date": "Thu, 11 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-11T05:25:09.833645"
-      },
-      "544a7bd14be645f2936f47ec256223d214a8f0b2ff7ca7b4436707a3ded7f75d": {
-        "title": "Carmakers sound warning over EU’s ‘very dangerous’ local sourcing rules",
-        "link": "https://www.ft.com/content/02a52b64-4dc5-49f6-b2bb-b31b5addf1c7",
-        "published_date": "Thu, 11 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-11T05:25:09.833655"
-      },
-      "60e038f511442a2701dd3d7eefddc4aeff4b2df79b716185d4c72e2e7e9ed725": {
-        "title": "U.S. seizes oil tanker off Venezuela. Why one analyst says it’s ‘a smart move.’",
-        "link": "https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories",
-        "published_date": "Thu, 11 Dec 2025 00:08:00 GMT",
-        "first_seen": "2025-12-11T05:25:09.833657"
-      },
-      "9ecb15f83e332457284ce668c04c68842e711fef647c174f8388535ceac674c1": {
-        "title": "Oracle shares slide on $15bn increase in data centre spending",
-        "link": "https://www.ft.com/content/3633f277-d23b-44d0-b818-5fa3a89086cc",
-        "published_date": "Wed, 10 Dec 2025 23:57:00 GMT",
-        "first_seen": "2025-12-11T05:25:09.833659"
-      },
-      "0f4c4da0745b0acb4460982157db3d89a771359c68a122724396f4830f426e02": {
-        "title": "Ukraine’s ‘fortress belt’ that Trump wants to trade for peace",
-        "link": "https://www.ft.com/content/ec490909-80e5-48ff-a518-8185a6a5d2c7",
-        "published_date": "Thu, 11 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-11T05:25:09.833660"
-      },
       "88c66bfabbf0250feace37cc58b432d81a79b2631d8fafe0b5b39404f38b2a66": {
         "title": "Fed cuts rates to 3-year low after fractious meeting",
         "link": "https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec",
@@ -4542,36 +4512,6 @@
       }
     },
     "Ai": {
-      "fb1013053be7711191e75b584c8ce71185419c8b10bcd4cab449a7c816a06da8": {
-        "title": "MIT最新发现：这十年，算法进步被高估了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-3",
-        "published_date": "Thu, 11 Dec 2025 10:58:00 GMT",
-        "first_seen": "2025-12-11T05:25:24.646338"
-      },
-      "e1301baba03abdd02f5ad591c2ac7a856b2b70ca217fe55961ff15d1b1463627": {
-        "title": "扩散语言模型推理太慢？北大团队提出ODB-dLLM框架，破解计算访存双重瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11",
-        "published_date": "Thu, 11 Dec 2025 10:15:00 GMT",
-        "first_seen": "2025-12-11T05:25:24.646344"
-      },
-      "27ea9d3a227f6a5fe04d89116113680443797d774a733a9898df76e917873ee6": {
-        "title": "全球首个！灵巧手真实世界具身数采引擎Psi-SynEngine来了，灵初智能发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-2",
-        "published_date": "Thu, 11 Dec 2025 10:18:00 GMT",
-        "first_seen": "2025-12-11T05:25:24.646346"
-      },
-      "56bdb9fe75cfd1d744f05a434718710a79834732b5ebf8c083329d655d22c208": {
-        "title": "Meta公开抄阿里Qwen作业，还闭源了…",
-        "link": "https://www.qbitai.com/2025/12/360104.html",
-        "published_date": "Thu, 11 Dec 2025 03:48:00 GMT",
-        "first_seen": "2025-12-11T05:25:24.646348"
-      },
-      "eff49e809e4eb22ade54e1d12a9581c396ba3ce952d9ac9e5f1e7567732ec033": {
-        "title": "被拒≠失败！这些高影响力论文都被顶会拒收过",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-4",
-        "published_date": "Thu, 11 Dec 2025 11:06:00 GMT",
-        "first_seen": "2025-12-11T05:25:24.646349"
-      },
       "b33afabc611b8e40bb44f41c6cb8bd7e1d8ed183b2d0fd7ba35c4472e1c75588": {
         "title": "BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征",
         "link": "https://www.jiqizhixin.com/articles/2025-12-11-8",
@@ -6797,13 +6737,19 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-10/",
         "published_date": "Sat, 10 Jan 2026 07:15:00 GMT",
         "first_seen": "2026-01-10T05:22:53.883209"
+      },
+      "b3dec70e1273b2d7d44d621f7aa6c722ee7fe31f2b529347658f33f31b798f60": {
+        "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
+        "link": "https://www.qbitai.com/2026/01/368834.html",
+        "published_date": "Sat, 10 Jan 2026 06:39:00 GMT",
+        "first_seen": "2026-01-10T08:28:50.068065"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-10T05:23:10.210860",
+    "Technology": "2026-01-10T08:29:00.053622",
     "Finance": "2026-01-10T05:22:53.769095",
-    "Ai": "2026-01-10T05:22:53.883213"
+    "Ai": "2026-01-10T08:28:50.068074"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 10 Jan 2026 05:22:00 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jan 2026 05:23:10 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 08:28:00 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 08:29:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节“上新”AI视频应用，正面迎战OpenAI、阿里</title>
-      <link>https://www.tmtpost.com/7837482.html</link>
-      <description>&lt;![CDATA[字节“上新”AI视频应用，正面迎战OpenAI、阿里]]&gt;</description>
-      <pubDate>Sat, 10 Jan 2026 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7837482.html</guid>
+      <title>Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！</title>
+      <link>https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型IPO走向分野</title>
-      <link>https://www.tmtpost.com/7837632.html</link>
-      <description>&lt;![CDATA[大模型IPO走向分野]]&gt;</description>
-      <pubDate>Sat, 10 Jan 2026 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7837632.html</guid>
+      <title>RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地</title>
+      <link>https://www.tmtpost.com/7837893.html</link>
+      <description>&lt;![CDATA[RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7837893.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>假如智谱上了科创板</title>
-      <link>https://www.tmtpost.com/7837500.html</link>
-      <description>&lt;![CDATA[假如智谱上了科创板]]&gt;</description>
-      <pubDate>Sat, 10 Jan 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7837500.html</guid>
+      <title>大疆忙着抢别人地盘，影石却来偷家了</title>
+      <link>https://www.tmtpost.com/7837782.html</link>
+      <description>&lt;![CDATA[大疆忙着抢别人地盘，影石却来偷家了]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7837782.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对抗AI的人</title>
-      <link>https://www.tmtpost.com/7837443.html</link>
-      <description>&lt;![CDATA[对抗AI的人]]&gt;</description>
-      <pubDate>Sat, 10 Jan 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7837443.html</guid>
+      <title>GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530482&amp;idx=1&amp;sn=80e975e2997f28dcbee2ab4a86d25189</link>
+      <description>&lt;![CDATA[GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器。]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530482&amp;idx=1&amp;sn=80e975e2997f28dcbee2ab4a86d25189</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机场里的AI云</title>
-      <link>https://www.tmtpost.com/7837630.html</link>
-      <description>&lt;![CDATA[机场里的AI云]]&gt;</description>
-      <pubDate>Sat, 10 Jan 2026 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7837630.html</guid>
+      <title>realme 回归后，OPPO 能迎来新一轮增长吗？</title>
+      <link>https://www.tmtpost.com/7837729.html</link>
+      <description>&lt;![CDATA[realme 回归后，OPPO 能迎来新一轮增长吗？]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7837729.html</guid>
       <category>Technology</category>
     </item>
   </channel>
