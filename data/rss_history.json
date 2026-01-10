@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8ea3f77d589e26d344f09da6c3a944a166368e4460b22eac03cb2e6d725f5e48": {
-        "title": "Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世",
-        "link": "https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 16:19:00 GMT",
-        "first_seen": "2025-12-11T08:37:30.400806"
-      },
-      "e51b53d17623e5ddc1a47bbe08d406a1ecf5ea1389338038d0db0a398f75478f": {
-        "title": "Moore Threads Shares Surge as Chinese AI Chipmaker Prepares Fifth-Generation GPU Launch",
-        "link": "https://www.tmtpost.com/7806074.html",
-        "published_date": "Thu, 11 Dec 2025 15:05:00 GMT",
-        "first_seen": "2025-12-11T08:37:30.400814"
-      },
-      "8cab5128c7c67b189247185c48c5bb589d7ae561f7a1269225bf417dc692ceac": {
-        "title": "2026 硬件觉醒：AI 硬件迎来「安卓时刻」",
-        "link": "http://www.geekpark.net/news/357920",
-        "published_date": "Thu, 11 Dec 2025 14:19:00 GMT",
-        "first_seen": "2025-12-11T08:37:30.400816"
-      },
-      "08bba41eebf1b3009672213f7c6f70e1d66712ec6a8075d34b8e19b9f829f0e0": {
-        "title": "量产太晚是硬伤：地平线HSD能否跨越Momenta这座大山？",
-        "link": "https://www.tmtpost.com/7806129.html",
-        "published_date": "Thu, 11 Dec 2025 16:23:00 GMT",
-        "first_seen": "2025-12-11T08:37:30.400818"
-      },
-      "ca39b90d9ed6ea9a28a8ae69cc33ac3ada24b426d739fcdaa7d626ddfd9db2af": {
-        "title": "埃克森美孚暂停清洁氢能投资，整个行业受到冲击",
-        "link": "https://www.tmtpost.com/7806117.html",
-        "published_date": "Thu, 11 Dec 2025 15:49:00 GMT",
-        "first_seen": "2025-12-11T08:37:30.400819"
-      },
       "1f2378f46e8094e118610b525864483579c5b431712085a3d8e4935326ef2a6f": {
         "title": "OpenAI Unveils GPT-5.2 to Counter Google's Gemini 3 Dominance, Claims Strongest Agent Coding Capabilities",
         "link": "https://www.tmtpost.com/7806611.html",
@@ -2701,15 +2671,39 @@
         "link": "https://www.tmtpost.com/7837729.html",
         "published_date": "Sat, 10 Jan 2026 11:46:00 GMT",
         "first_seen": "2026-01-10T08:29:00.053620"
+      },
+      "f5f5f8af418a5bcb417e80bb5fc5c16ecb751528cf823c5c06f95797bcbd61d9": {
+        "title": "加州大学伯克利Dr. Allen Yang：物理AI的分水岭时刻尚未到来｜CES 2026",
+        "link": "https://www.tmtpost.com/7838021.html",
+        "published_date": "Sat, 10 Jan 2026 22:20:00 GMT",
+        "first_seen": "2026-01-10T23:22:09.913756"
+      },
+      "c71a9ad55fcf5cca8da2c150fa8a3c70b36ddd81b07fe8f27cf496a4aebcd68b": {
+        "title": "编程表现超越Claude和GPT？DeepSeek准备第二次震惊全世界",
+        "link": "https://www.tmtpost.com/7837718.html",
+        "published_date": "Sat, 10 Jan 2026 16:44:00 GMT",
+        "first_seen": "2026-01-10T23:22:09.913764"
+      },
+      "fd502a385ec7eeee311cd66cce8e32a6783f6803636b73cf4fdd54047f208136": {
+        "title": "CES观察：AI硬件迎来黄金时代，中国机器人“进场打工”",
+        "link": "https://www.tmtpost.com/7837604.html",
+        "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-10T23:22:09.913765"
+      },
+      "6dbcd4bc0cfe08dc7f3b0319c72f60d103d195d7ff2cf6b21d1fbee6ac8ae249": {
+        "title": "可能被“没收”一半股权，谷歌创始人逃离硅谷",
+        "link": "https://www.tmtpost.com/7837965.html",
+        "published_date": "Sat, 10 Jan 2026 16:57:00 GMT",
+        "first_seen": "2026-01-10T23:22:09.913768"
+      },
+      "8b84fb50e0e15c1b9888bad2129454dcc2db596982a538503ca903af88e4b360": {
+        "title": "大模型第一股，没等来市场狂欢",
+        "link": "https://www.tmtpost.com/7837624.html",
+        "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-10T23:22:09.913769"
       }
     },
     "Finance": {
-      "88c66bfabbf0250feace37cc58b432d81a79b2631d8fafe0b5b39404f38b2a66": {
-        "title": "Fed cuts rates to 3-year low after fractious meeting",
-        "link": "https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec",
-        "published_date": "Thu, 11 Dec 2025 06:06:00 GMT",
-        "first_seen": "2025-12-11T08:36:56.163591"
-      },
       "6027daa11e94d9ef24114e9eda00ea0cf0f1cd65e80818ae1558506c657a24f6": {
         "title": "UK bankers warn on plan to use Russian assets for loans to Ukraine",
         "link": "https://www.ft.com/content/7e90d3be-687c-4348-a663-132576f98086",
@@ -4509,39 +4503,39 @@
         "link": "https://www.ft.com/content/4c21c031-443e-4834-a7a6-3dd59672b54e",
         "published_date": "Fri, 09 Jan 2026 23:46:00 GMT",
         "first_seen": "2026-01-10T05:22:53.769093"
+      },
+      "4b21c9dd909a8be01a8431cd4ee9a7cac94b8182135d4a6b0bbe7ab7a29e9818": {
+        "title": "The eldercare crisis is about to get much worse as millions more Americans turn 85",
+        "link": "https://www.marketwatch.com/story/the-elder-care-crisis-is-about-to-get-much-worse-as-millions-more-americans-turn-85-3673e0bf?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Jan 2026 17:22:00 GMT",
+        "first_seen": "2026-01-10T23:21:38.218264"
+      },
+      "e257f106b27658536a36f0cf9a14ccab04cf24b257d5d78e95636e259be7a765": {
+        "title": "The Social Security crisis could leave U.S. retirees worse off than those in poorer countries",
+        "link": "https://www.marketwatch.com/story/social-security-crisis-could-leave-u-s-retirees-worse-off-than-those-in-poorer-countries-like-ecuador-and-poland-76a2deb8?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Jan 2026 17:22:00 GMT",
+        "first_seen": "2026-01-10T23:21:38.218277"
+      },
+      "dfee175a9241736b4ad3867aabf06b6674a268f65c84a0b51fffa111d6bc805b": {
+        "title": "Trump renews his assault on shareholder democracy, siding with CEOs over stockholders",
+        "link": "https://www.marketwatch.com/story/trump-renews-his-assault-on-shareholder-democracy-siding-with-ceos-over-stockholders-270f5286?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Jan 2026 17:22:00 GMT",
+        "first_seen": "2026-01-10T23:21:38.218279"
+      },
+      "bbb78e71c2396d9514de4715c664afe28352beb4e244c43e9a4c7bad8c3434a3": {
+        "title": "‘I’m ready to walk away’: I have $400K in retirement savings and want to quit my job of 30 years. Can I do it?",
+        "link": "https://www.marketwatch.com/story/im-ready-to-walk-away-i-have-400k-in-retirement-savings-and-want-to-quit-my-job-of-30-years-can-i-do-it-8c6ac8dd?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Jan 2026 17:22:00 GMT",
+        "first_seen": "2026-01-10T23:21:38.218281"
+      },
+      "f8c1d5881737b3f2be6a0e61bc53d866d0e1a2146dd3815234ead4618f6878e2": {
+        "title": "‘I’m at a crossroads’: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
+        "link": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Jan 2026 21:30:00 GMT",
+        "first_seen": "2026-01-10T23:21:38.218283"
       }
     },
     "Ai": {
-      "b33afabc611b8e40bb44f41c6cb8bd7e1d8ed183b2d0fd7ba35c4472e1c75588": {
-        "title": "BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-8",
-        "published_date": "Thu, 11 Dec 2025 14:52:00 GMT",
-        "first_seen": "2025-12-11T08:37:12.794921"
-      },
-      "d1553b85f221ff650526fd6b0a80e75a807845feb1ddac0aa6ae8650d69383a0": {
-        "title": "Astribot Lumo-1: 能在物理空间中推理和行动的通用操作大模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-5",
-        "published_date": "Thu, 11 Dec 2025 14:14:00 GMT",
-        "first_seen": "2025-12-11T08:37:12.794928"
-      },
-      "9032280e7434aff7e48d004d3c8114889de2f33d682a78cd9cc265c184323add": {
-        "title": "慧思开物全局调度，北京人形推出全国首个全自主无人化导览解决方案",
-        "link": "https://www.qbitai.com/2025/12/360124.html",
-        "published_date": "Thu, 11 Dec 2025 05:49:00 GMT",
-        "first_seen": "2025-12-11T08:37:12.794930"
-      },
-      "195758dd2a582f9141e25c83366f45c7eb4142442c3aba1bac3bd7be991a5ffd": {
-        "title": "把数据中心塞进办公桌，让智能开发快N倍 ⚡",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-7",
-        "published_date": "Thu, 11 Dec 2025 14:29:00 GMT",
-        "first_seen": "2025-12-11T08:37:12.794932"
-      },
-      "e2534a5f24814e450ad7e19e787522f3b726554bc23ec9d9d28c55794ee308d8": {
-        "title": "钉钉又发新版本！把 AI 搬进每一次对话和会议",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-6",
-        "published_date": "Thu, 11 Dec 2025 14:19:00 GMT",
-        "first_seen": "2025-12-11T08:37:12.794934"
-      },
       "9bf3863f5b1f65294359b689f4fcfe40764795ba7b41c6ce74cbe13a2a9fde82": {
         "title": "2025-12-12日刊",
         "link": "https://ai.hubtoday.app//2025-12/2025-12-12/",
@@ -6743,13 +6737,43 @@
         "link": "https://www.qbitai.com/2026/01/368834.html",
         "published_date": "Sat, 10 Jan 2026 06:39:00 GMT",
         "first_seen": "2026-01-10T08:28:50.068065"
+      },
+      "b63c782f1db703c5fee6882182dfa0e86b9c3162be165b5ef500420bd0c9bb85": {
+        "title": "打破学科壁垒！400篇参考文献重磅综述，统一调查「人脑×Agent」记忆系统",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-2",
+        "published_date": "Sat, 10 Jan 2026 21:10:00 GMT",
+        "first_seen": "2026-01-10T23:21:49.583798"
+      },
+      "2e9169815cc3587fb673c4d0bf4642f87ed075d0ae1282ca2af05a900be64f03": {
+        "title": "前谷歌研究员发文：算力崇拜时代该结束了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-4",
+        "published_date": "Sat, 10 Jan 2026 21:19:00 GMT",
+        "first_seen": "2026-01-10T23:21:49.583804"
+      },
+      "44c68ebb6f20987dfb007ef888918df02a84b6af81c5b70d64ec42c4d9445895": {
+        "title": "刚刚，唐杰、杨强、杨植麟、林俊旸和刚回国的姚顺雨坐一起都聊了啥？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-6",
+        "published_date": "Sat, 10 Jan 2026 23:27:00 GMT",
+        "first_seen": "2026-01-10T23:21:49.583806"
+      },
+      "bf36609fbfbbd1c25ea0eb22454a6c750f8c508f37c5315de09a4220fca4920b": {
+        "title": "DeepSeek-OCR是「长文本理解」未来方向？中科院新基准VTCBench给出答案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10",
+        "published_date": "Sat, 10 Jan 2026 20:56:00 GMT",
+        "first_seen": "2026-01-10T23:21:49.583807"
+      },
+      "9708c1d9a57d4233ca205aa3954853bfec8492ccdf9e1e75e64e3a6b728847f0": {
+        "title": "因为AI编程，Tailwind CSS差点死了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-3",
+        "published_date": "Sat, 10 Jan 2026 21:16:00 GMT",
+        "first_seen": "2026-01-10T23:21:49.583809"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-10T08:29:00.053622",
-    "Finance": "2026-01-10T05:22:53.769095",
-    "Ai": "2026-01-10T08:28:50.068074"
+    "Technology": "2026-01-10T23:22:09.913771",
+    "Finance": "2026-01-10T23:21:38.218286",
+    "Ai": "2026-01-10T23:21:49.583811"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 10 Jan 2026 08:28:00 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jan 2026 08:28:50 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 23:21:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了</title>
-      <link>https://www.qbitai.com/2026/01/368834.html</link>
-      <description>&lt;![CDATA[智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了]]&gt;</description>
-      <pubDate>Sat, 10 Jan 2026 06:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/368834.html</guid>
+      <title>打破学科壁垒！400篇参考文献重磅综述，统一调查「人脑×Agent」记忆系统</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-10-2</link>
+      <description>&lt;![CDATA[打破学科壁垒！400篇参考文献重磅综述，统一调查「人脑×Agent」记忆系统]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-10-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>前谷歌研究员发文：算力崇拜时代该结束了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-10-4</link>
+      <description>&lt;![CDATA[前谷歌研究员发文：算力崇拜时代该结束了]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-10-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，唐杰、杨强、杨植麟、林俊旸和刚回国的姚顺雨坐一起都聊了啥？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-10-6</link>
+      <description>&lt;![CDATA[刚刚，唐杰、杨强、杨植麟、林俊旸和刚回国的姚顺雨坐一起都聊了啥？]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 23:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-10-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek-OCR是「长文本理解」未来方向？中科院新基准VTCBench给出答案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-10</link>
+      <description>&lt;![CDATA[DeepSeek-OCR是「长文本理解」未来方向？中科院新基准VTCBench给出答案]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 20:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-10</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>因为AI编程，Tailwind CSS差点死了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-10-3</link>
+      <description>&lt;![CDATA[因为AI编程，Tailwind CSS差点死了]]&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 21:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-10-3</guid>
       <category>Ai</category>
     </item>
   </channel>
