@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-09 23:21
+**最后更新时间**: 2026-01-10 05:22
+
+---
+
+## 🆕 最新更新 (2026-01-10 05:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says he’ll cap credit-card interest rates at 10% as Americans battle soaring debt](https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 04:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US oil giant ExxonMobil tells Trump Venezuela is ‘uninvestable’](https://www.ft.com/content/4c21c031-443e-4834-a7a6-3dd59672b54e)
+**发布时间**: 2026-01-09 23:46
 
 ---
 

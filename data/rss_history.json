@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3584245b793822214b9790f42fb5b03bb19fe4ebe50a4c14a9fa2857034d51fe": {
-        "title": "OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT",
-        "link": "https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Dec 2025 16:49:00 GMT",
-        "first_seen": "2025-12-10T23:25:40.107751"
-      },
-      "aaaba4f6580291fc0dbefc56b6c65b6a86500f18343fea31fa73c89293af41eb": {
-        "title": "【钛晨报】财政部将开展2025年到期续作特别国债发行；周靖人成为阿里合伙人；Meta全力转向闭源模型，新模型Avocado或于明年春季推出",
-        "link": "https://www.tmtpost.com/7805015.html",
-        "published_date": "Thu, 11 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-10T23:25:40.107757"
-      },
-      "2ca390850a6b953482f915b39d37415496e5556d2c0b9f1bf141f4ceac65daf6": {
-        "title": "联想创投宋春雨的“Agent”投资全复盘：8大平台级机会、4个创业者特征、和给Agent 创业者的3个建议",
-        "link": "https://www.tmtpost.com/7804421.html",
-        "published_date": "Wed, 10 Dec 2025 17:03:00 GMT",
-        "first_seen": "2025-12-10T23:25:40.107759"
-      },
-      "aa4718cc4850fdaad130b14fbf52825b2b3ff49413753e066e94b8824f62ba62": {
-        "title": "谷歌推出Nano Banana Pro，实现有现实感的多模态图像合成",
-        "link": "https://www.infoq.cn/article/Tu3BucFvH0SalNjkkerF?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Dec 2025 11:25:00 GMT",
-        "first_seen": "2025-12-10T23:25:40.107760"
-      },
-      "66b20e534d2b4c33828353b362b6c9aa5bd473f40eee059f3428012f548e15b4": {
-        "title": "中国商业航天开启“出海”模式，力箭一号承揽三国卫星订单",
-        "link": "https://www.tmtpost.com/7804750.html",
-        "published_date": "Wed, 10 Dec 2025 16:59:00 GMT",
-        "first_seen": "2025-12-10T23:25:40.107762"
-      },
       "62e558468495e6902ba393914d0b497f3819c640464bbb1b03c9c9dafceb4246": {
         "title": "自动驾驶派系之争，四大技术路线的博弈与融合",
         "link": "https://www.tmtpost.com/7805508.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.infoq.cn/article/SxeNI9gVzcKr36xlwuCQ?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 09 Jan 2026 14:47:00 GMT",
         "first_seen": "2026-01-09T23:22:53.850840"
+      },
+      "72257391505cb2aeb675795e4f43332179c1cc048a4625ad0ee7ad73a8e31c3b": {
+        "title": "字节“上新”AI视频应用，正面迎战OpenAI、阿里",
+        "link": "https://www.tmtpost.com/7837482.html",
+        "published_date": "Sat, 10 Jan 2026 09:19:00 GMT",
+        "first_seen": "2026-01-10T05:23:10.210847"
+      },
+      "6e275108e8801322670fbe3766ba068decf91c0c817d50e724ca8e8e15bbd3fb": {
+        "title": "大模型IPO走向分野",
+        "link": "https://www.tmtpost.com/7837632.html",
+        "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
+        "first_seen": "2026-01-10T05:23:10.210854"
+      },
+      "8a0ba27351dea2f39dca56badfb3086d854bb9bdbdfe2c0e0d974c9658077e66": {
+        "title": "假如智谱上了科创板",
+        "link": "https://www.tmtpost.com/7837500.html",
+        "published_date": "Sat, 10 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-10T05:23:10.210855"
+      },
+      "92a1bc894bf9670fd51a3413fafe80aa1b867ff446b34cae854877d35cb4b0b2": {
+        "title": "对抗AI的人",
+        "link": "https://www.tmtpost.com/7837443.html",
+        "published_date": "Sat, 10 Jan 2026 09:07:00 GMT",
+        "first_seen": "2026-01-10T05:23:10.210857"
+      },
+      "4a5684882de7fffb5a2b651fcc387ade68fbf521e70862d155548e635e56f4a6": {
+        "title": "机场里的AI云",
+        "link": "https://www.tmtpost.com/7837630.html",
+        "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
+        "first_seen": "2026-01-10T05:23:10.210859"
       }
     },
     "Finance": {
-      "536aa6cdf46478512ffd72b810cd3c6c487b548627283f1ffcb2b33a7755f24a": {
-        "title": "Fed to launch $40bn debt-buying scheme after money market strains",
-        "link": "https://www.ft.com/content/6a04be70-6d05-4f03-b4c7-39ceae52bb64",
-        "published_date": "Wed, 10 Dec 2025 23:10:00 GMT",
-        "first_seen": "2025-12-10T23:24:58.597321"
-      },
-      "17f9d26a8aea791b01a02d79e863508cdf94cc810ce79f776bd5cd54eab22689": {
-        "title": "Fed cuts rates to three-year low after fractious meeting",
-        "link": "https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec",
-        "published_date": "Wed, 10 Dec 2025 21:48:00 GMT",
-        "first_seen": "2025-12-10T23:24:58.597329"
-      },
-      "c3a5b4507b19d735309035da637b4635153f6ee74ec0c9fca168d39a6f913a44": {
-        "title": "Bigger tax refunds — up to $2,000 on average — could give stocks a boost next year",
-        "link": "https://www.marketwatch.com/story/bigger-tax-refunds-up-to-2-000-on-average-could-give-stocks-a-boost-next-year-510432e9?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Dec 2025 21:38:00 GMT",
-        "first_seen": "2025-12-10T23:24:58.597332"
-      },
-      "57496587a9234e7c7a1f4d5a03929b64cf79b9b619a764221af3961af9e30355": {
-        "title": "Paramount’s Warner Bros bid draws Gulf investors into rare alliance",
-        "link": "https://www.ft.com/content/df1632c1-a5ca-4600-9785-467dbcb63335",
-        "published_date": "Wed, 10 Dec 2025 20:45:00 GMT",
-        "first_seen": "2025-12-10T23:24:58.597334"
-      },
-      "18e6f1f68d816306afa39c7bcbfe278996d0b5a05120fe1080031e3dc69b2b16": {
-        "title": "GE Vernova is riding the electrification wave, and the stock sees a record rally",
-        "link": "https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Dec 2025 21:54:00 GMT",
-        "first_seen": "2025-12-10T23:24:58.597336"
-      },
       "0cb050505d654e382cefcb9faa33ebfea4ae8ec93bcee7922e855414843ebff6": {
         "title": "Inside the failed green revolutions at BP and Shell",
         "link": "https://www.ft.com/content/c6d7d225-f322-4e88-b7e3-2ca2beecd495",
@@ -4557,39 +4527,21 @@
         "link": "https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories",
         "published_date": "Fri, 09 Jan 2026 20:03:00 GMT",
         "first_seen": "2026-01-09T23:22:18.568084"
+      },
+      "42d960cb490269eb86b94b33aa5459324b913af7d8858a433f584073a65c57f1": {
+        "title": "Trump says he’ll cap credit-card interest rates at 10% as Americans battle soaring debt",
+        "link": "https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Jan 2026 04:40:00 GMT",
+        "first_seen": "2026-01-10T05:22:53.769084"
+      },
+      "7bdc2d37f680476572947de4d4be9754bdf866be243f561a688b5f040a0b25ad": {
+        "title": "US oil giant ExxonMobil tells Trump Venezuela is ‘uninvestable’",
+        "link": "https://www.ft.com/content/4c21c031-443e-4834-a7a6-3dd59672b54e",
+        "published_date": "Fri, 09 Jan 2026 23:46:00 GMT",
+        "first_seen": "2026-01-10T05:22:53.769093"
       }
     },
     "Ai": {
-      "371e1523796e60e18b0c56b672ab5f78885c928e2c79d622585148535bfab4ef": {
-        "title": "GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-13",
-        "published_date": "Wed, 10 Dec 2025 20:29:00 GMT",
-        "first_seen": "2025-12-10T23:25:13.651658"
-      },
-      "5c9c89bece2e11d72f7cc4f5d267e787db17957c2ace53a7a911a8a7275cfd10": {
-        "title": "LLM距离AGI只差一层：斯坦福研究颠覆「模式匹配」观点",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-12",
-        "published_date": "Wed, 10 Dec 2025 20:24:00 GMT",
-        "first_seen": "2025-12-10T23:25:13.651664"
-      },
-      "4ceaed3589f5ca869e680b07b8b4db0684ce502c2bbf936bae4af378af25715d": {
-        "title": "NeurIPS 2025 | 从流形假设视角解析生成式模型反演",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-17-5",
-        "published_date": "Wed, 10 Dec 2025 12:14:00 GMT",
-        "first_seen": "2025-12-10T23:25:13.651666"
-      },
-      "b94f55506ecb0769b35e320506725c01bda48cfc7b804c1fb95f9154be04c483": {
-        "title": "A differentially private framework for gaining insights into AI chatbot use",
-        "link": "https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/",
-        "published_date": "Wed, 10 Dec 2025 21:59:00 GMT",
-        "first_seen": "2025-12-10T23:25:13.651668"
-      },
-      "3d3872b86e858cf97c78a4fbfe38cec8e7699a591b195ca9f3b33f74a8e2f8cd": {
-        "title": "南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-9",
-        "published_date": "Wed, 10 Dec 2025 16:37:00 GMT",
-        "first_seen": "2025-12-10T23:25:13.651670"
-      },
       "fb1013053be7711191e75b584c8ce71185419c8b10bcd4cab449a7c816a06da8": {
         "title": "MIT最新发现：这十年，算法进步被高估了",
         "link": "https://www.jiqizhixin.com/articles/2025-12-11-3",
@@ -6833,13 +6785,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-09-4",
         "published_date": "Fri, 09 Jan 2026 13:30:00 GMT",
         "first_seen": "2026-01-09T23:22:29.129583"
+      },
+      "d2a595603131512f99c4ec89e4cd839b456973881e4d289cbbebd37ba46b30a8": {
+        "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
+        "link": "https://www.qbitai.com/2026/01/368820.html",
+        "published_date": "Sat, 10 Jan 2026 01:27:00 GMT",
+        "first_seen": "2026-01-10T05:22:53.883185"
+      },
+      "8664bed0e3115b578d58bd7a4f1b4856843cb63dcbc5e1e859600edd848821c0": {
+        "title": "2026-01-10日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-10/",
+        "published_date": "Sat, 10 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-10T05:22:53.883209"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-09T23:22:53.850842",
-    "Finance": "2026-01-09T23:22:18.568086",
-    "Ai": "2026-01-09T23:22:29.129586"
+    "Technology": "2026-01-10T05:23:10.210860",
+    "Finance": "2026-01-10T05:22:53.769095",
+    "Ai": "2026-01-10T05:22:53.883213"
   }
 }
