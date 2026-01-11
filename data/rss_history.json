@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1f2378f46e8094e118610b525864483579c5b431712085a3d8e4935326ef2a6f": {
-        "title": "OpenAI Unveils GPT-5.2 to Counter Google's Gemini 3 Dominance, Claims Strongest Agent Coding Capabilities",
-        "link": "https://www.tmtpost.com/7806611.html",
-        "published_date": "Fri, 12 Dec 2025 04:23:00 GMT",
-        "first_seen": "2025-12-12T00:02:39.744261"
-      },
-      "bbff60abdead2ff367886b0837829cd64f9eb0dfd8279b57c4d2f59414afe2bf": {
-        "title": "Hinton Says AI Already Has Consciousness",
-        "link": "https://www.tmtpost.com/7806601.html",
-        "published_date": "Fri, 12 Dec 2025 01:01:00 GMT",
-        "first_seen": "2025-12-12T00:02:39.744268"
-      },
-      "081b1fbd51d80b2909538dd3f46076b7bb15ef599c88c33c507190a45db4b309": {
-        "title": "28岁“外来者”与元老们冲突大爆发，Meta 全面内战！算力争夺撕碎组织，“开源”已成禁忌但Alexandr Wang 偷师Qwen、gpt-oss",
-        "link": "https://www.infoq.cn/article/D3zU9ZDgQqveROAOArSd?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 17:57:00 GMT",
-        "first_seen": "2025-12-12T00:02:39.744270"
-      },
-      "c6492b21499d2262b8ddf884ce2dddeb10506a558080486779ff2533bba90d02": {
-        "title": "2026年，AI服务器贵、贵、贵",
-        "link": "https://www.tmtpost.com/7806363.html",
-        "published_date": "Thu, 11 Dec 2025 18:56:00 GMT",
-        "first_seen": "2025-12-12T00:02:39.744272"
-      },
-      "792a6ccb93640e624a033e991afd99ab7de08f459583345cd8eeced4293594d5": {
-        "title": "流量时代的失灵：AI 能否让经营者重新看见真实需求？",
-        "link": "http://www.geekpark.net/news/357901",
-        "published_date": "Thu, 11 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-12T00:02:39.744273"
-      },
-      "414ddb47efd02863d19bde5ff133db9a84479db58d232831a6e2c77a2b540ed7": {
-        "title": "GPT-5.2 的能力评估、市场反应与AI竞争格局演化",
-        "link": "https://www.infoq.cn/article/DrB6mXayUtswARNSBYL7?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 08:26:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926223"
-      },
-      "91c3e4baf85fd5d2a2c0c6aab41d1167ea8248ab9df3b87bb561cb71cfb6b728": {
-        "title": "Disney Licenses Iconic Characters to OpenAI, Invests $1 Billion in Hollywood's Largest AI Studio Deal",
-        "link": "https://www.tmtpost.com/7806946.html",
-        "published_date": "Fri, 12 Dec 2025 11:17:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926230"
-      },
-      "14146b86f8f95862d314ef42f875d6c173f7c29e4f388879da86a2e296c5dc96": {
-        "title": "大模型第一股之争：MiniMax、智谱、月之暗面竞相赴港IPO",
-        "link": "https://www.tmtpost.com/7806465.html",
-        "published_date": "Fri, 12 Dec 2025 11:34:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926233"
-      },
-      "81a52793ce83bb2261b9c4a89caa0b6d0915620aca5977e8412f2aca0c7c201b": {
-        "title": "地平线：智驾“国产平替芯”，能扳倒英伟达吗？",
-        "link": "https://www.tmtpost.com/7806417.html",
-        "published_date": "Fri, 12 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926235"
-      },
-      "b46077a2bc99aedeb98d970471bbaefafc676f0d584ca296ff98c5cc69f0f5a2": {
-        "title": "谷歌云展示了大规模的Kubernetes规模，拥有13万个节点的GKE集群",
-        "link": "https://www.infoq.cn/article/qktdvEVwfOfbYA8iJGTC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 10:09:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926236"
-      },
       "a4559809046c2bbb751aa8d7fca3fc2157d936f58ab90c50840011d9696c412a": {
         "title": "OpenAI 发 GPT-5.2，瞄准专业用户；超越苹果，华为重夺第一；迪士尼 10 亿美元投资 OpenAI",
         "link": "http://www.geekpark.net/news/357946",
@@ -2701,69 +2641,39 @@
         "link": "https://www.tmtpost.com/7837624.html",
         "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
         "first_seen": "2026-01-10T23:22:09.913769"
+      },
+      "b0422a90d35f147d5570a5c886f47095b32db16951fed2e11d5938e46541c451": {
+        "title": "【数智周报】商务部回应审查Meta收购Manus；AI驱动的通胀是2026年最被忽视的风险；英伟达发布Vera Rubin AI计算平台",
+        "link": "https://www.tmtpost.com/7838188.html",
+        "published_date": "Sun, 11 Jan 2026 10:50:00 GMT",
+        "first_seen": "2026-01-11T05:27:27.991851"
+      },
+      "009696e78689d632d98ef26389a2ca0b9d056715b9558d55750434de32b43d63": {
+        "title": "人形机器人手眼协同的难题，速腾聚创给出了新解法｜CES 2026",
+        "link": "https://www.tmtpost.com/7837707.html",
+        "published_date": "Sun, 11 Jan 2026 11:26:00 GMT",
+        "first_seen": "2026-01-11T05:27:27.991858"
+      },
+      "0b73c20c9c428b6d7df1f3b014bf34c4a2e398c374531eb8d8595bd5d990b6de": {
+        "title": "对话鹿明机器人：在具身智能的“数据荒”里，做一个送水人｜AI Founder 请回答",
+        "link": "https://www.tmtpost.com/7838369.html",
+        "published_date": "Sun, 11 Jan 2026 12:43:00 GMT",
+        "first_seen": "2026-01-11T05:27:27.991860"
+      },
+      "05ddfb548ccb932dbbd1b99c22dee793049a7447b9a1f49e6d4026223b823557": {
+        "title": "数字音乐先驱再次豪赌，Napster全面转型AI能改命吗？",
+        "link": "https://www.tmtpost.com/7838201.html",
+        "published_date": "Sun, 11 Jan 2026 11:43:00 GMT",
+        "first_seen": "2026-01-11T05:27:27.991862"
+      },
+      "172887407a66c2d0c1fdf3eff4db3b3dc3011558c17cbc2aee32ace712ae2743": {
+        "title": "缔零科技完成数千万元融资，用AI替代人工内容审核，成本降60%",
+        "link": "https://www.tmtpost.com/7838326.html",
+        "published_date": "Sun, 11 Jan 2026 11:51:00 GMT",
+        "first_seen": "2026-01-11T05:27:27.991864"
       }
     },
     "Finance": {
-      "6027daa11e94d9ef24114e9eda00ea0cf0f1cd65e80818ae1558506c657a24f6": {
-        "title": "UK bankers warn on plan to use Russian assets for loans to Ukraine",
-        "link": "https://www.ft.com/content/7e90d3be-687c-4348-a663-132576f98086",
-        "published_date": "Thu, 11 Dec 2025 13:00:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.633364"
-      },
-      "de41d135a581b6653b55b72db1063a78cc7603843b2b62889a84a944d08dadf6": {
-        "title": "OpenAI strikes back in the chatbot race against Google with new ChatGPT model",
-        "link": "https://www.marketwatch.com/story/openai-strikes-back-in-the-chatbot-race-against-google-1551d759?mod=mw_rss_topstories",
-        "published_date": "Thu, 11 Dec 2025 22:59:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.633373"
-      },
-      "071186a80769769c9809565394a7d960ddb3eac3447ce62ecc88cfc3e57ca9c3": {
-        "title": "Get ready for a spectacular IPO boom from the big beasts of Silicon Valley",
-        "link": "https://www.ft.com/content/6f00e8f7-7a23-4c77-8c2c-18294408276f",
-        "published_date": "Thu, 11 Dec 2025 19:12:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.633375"
-      },
-      "26e79651acf2a9956250fa1c77cd1d9b4d0300278e2093df553ae9c7c9be9619": {
-        "title": "The Fed cut rates, but bitcoin didn’t budge. What gives?",
-        "link": "https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?mod=mw_rss_topstories",
-        "published_date": "Thu, 11 Dec 2025 22:20:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.633377"
-      },
-      "864fd434a7a0ede337723ecf929c1ff67058fdff5f531c7a91820201ce8730d7": {
-        "title": "Mortgage rates have fallen under Trump. Here’s what that really means for home buyers.",
-        "link": "https://www.marketwatch.com/story/mortgage-rates-have-fallen-under-trump-heres-what-that-really-means-for-home-buyers-6473ccfd?mod=mw_rss_topstories",
-        "published_date": "Thu, 11 Dec 2025 22:42:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.633379"
-      },
-      "b532921bde78df12c67f297ec9d8de7d42a3af0702e4ad605143ccc31f3b81da": {
-        "title": "FT Person of the Year: Jensen Huang",
-        "link": "https://www.ft.com/content/11a018f4-95e0-41c2-99d8-aff105328a0b",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298330"
-      },
-      "877ec5bc328c0d634b15a87f599b1c6aacb8ad2b2eaa7e937a9221d5197cebcb": {
-        "title": "Is silver the new gold?",
-        "link": "https://www.ft.com/content/e753bed7-6a1a-49b8-9289-f5d698b82e4f",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298340"
-      },
-      "0c10011031b1f5a5d20a5a73b123dd1834eb8b273dac9b87589cffa01a9ccba8": {
-        "title": "MPs pension scheme makes ‘mockery’ of Reeves investment push",
-        "link": "https://www.ft.com/content/2987b782-0a91-4aad-bc59-32a32fc8ae91",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298342"
-      },
-      "f36aa7a2f49e609056668a04cb2a18aee82447d729afef6e76d35a945cc9b6e3": {
-        "title": "Apollo moves fast-growing lending unit out of storied buyout division",
-        "link": "https://www.ft.com/content/9a34679e-8dff-425b-aef1-b709ac6230bc",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298344"
-      },
-      "4415b9d8b68ab9e25e64f23e789c9736f56cf64ef70464fb3d9915944b3b9c24": {
-        "title": "Why Broadcom’s stock is falling, even as earnings showed strong AI demand",
-        "link": "https://www.marketwatch.com/story/broadcom-earnings-pass-the-test-as-ai-momentum-sends-the-stock-higher-472ab922?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Dec 2025 01:22:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298346"
-      },
       "76fe7a1f54995981603b84ca141c982a6e210bb8822ace3e022f94987220c618": {
         "title": "UK economy contracts by 0.1% in October",
         "link": "https://www.ft.com/content/4176e478-2dd1-4b8b-8b5b-38644c15d5f0",
@@ -4533,63 +4443,15 @@
         "link": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
         "published_date": "Sat, 10 Jan 2026 21:30:00 GMT",
         "first_seen": "2026-01-10T23:21:38.218283"
+      },
+      "011baa17e0fe2774e4a94577d4ab83409dbd9c12d9323e24b0af298afb40659b": {
+        "title": "US could ease sanctions on Venezuela next week, says Bessent",
+        "link": "https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c",
+        "published_date": "Sun, 11 Jan 2026 00:13:00 GMT",
+        "first_seen": "2026-01-11T05:27:07.823689"
       }
     },
     "Ai": {
-      "9bf3863f5b1f65294359b689f4fcfe40764795ba7b41c6ce74cbe13a2a9fde82": {
-        "title": "2025-12-12日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-12/",
-        "published_date": "Fri, 12 Dec 2025 07:14:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.752679"
-      },
-      "43dcca6f2b97d4692b6715346fc9ef4b8ee02499d703cb74755b9501ca1f2a2b": {
-        "title": "大模型的第一性原理：（一）统计物理篇",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-11",
-        "published_date": "Thu, 11 Dec 2025 18:34:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.752687"
-      },
-      "f29100ed21f98791256f292645b39e1114f6f5f08d9af5a1f3d89666fadd3756": {
-        "title": "何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-10",
-        "published_date": "Thu, 11 Dec 2025 18:20:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.752689"
-      },
-      "777f89c5b42a51a636bb33305953f7add9013d59d2fcc6ed1e8c455ba7fa4096": {
-        "title": "效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-9",
-        "published_date": "Thu, 11 Dec 2025 18:11:00 GMT",
-        "first_seen": "2025-12-12T00:02:14.752690"
-      },
-      "e20833af7c183a5aed2aaa64c2a28e6cb5d8bc6cf47ca2936495a693f1f1a703": {
-        "title": "谷歌发布智能体Scaling Law：180组实验打破传统炼金术",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12",
-        "published_date": "Fri, 12 Dec 2025 10:16:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869585"
-      },
-      "a4dccbf1b7665f865acbe6d6a6f53eecb1e69e06f1797662641273a26424ff20": {
-        "title": "Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-6",
-        "published_date": "Fri, 12 Dec 2025 13:08:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869591"
-      },
-      "c5595478009554cee95fb4e304a5ba37dd0d97e17398c379db82a92f47725fbe": {
-        "title": "NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-3",
-        "published_date": "Fri, 12 Dec 2025 11:31:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869593"
-      },
-      "4ed710ab31534496ddae580587a02b8100be67545cad440251cda76270442c59": {
-        "title": "里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-7",
-        "published_date": "Fri, 12 Dec 2025 13:16:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869594"
-      },
-      "26998a173ba7f98e6f91108f2f4d2480e396379c04f4afb0455725e2f3227394": {
-        "title": "跳过“逐字生成”！蚂蚁集团赵俊博：扩散模型让我们能直接修改Token | MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360425.html",
-        "published_date": "Fri, 12 Dec 2025 04:38:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869596"
-      },
       "f085fb50d7ec5842dd02b154dfa8db2d5fef3632d9bac9e0776a7210869113de": {
         "title": "AI 驱动的科学系统分析框架：SciSciGPT 打开科学研究的新工作方式",
         "link": "https://www.jiqizhixin.com/articles/2025-12-12-8",
@@ -6767,13 +6629,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-10-3",
         "published_date": "Sat, 10 Jan 2026 21:16:00 GMT",
         "first_seen": "2026-01-10T23:21:49.583809"
+      },
+      "1c68ee0772f0f8b1183cc41e5429e2e55973f2d330fd1164d5fcc6bd5b48988f": {
+        "title": "姚顺雨对着唐杰杨植麟林俊旸贴大脸开讲！基模四杰中关村论英雄",
+        "link": "https://www.qbitai.com/2026/01/368917.html",
+        "published_date": "Sun, 11 Jan 2026 03:00:00 GMT",
+        "first_seen": "2026-01-11T05:27:07.941736"
+      },
+      "243afb84366d096f06562180d0a80c42702ed5c8a7ce5cbcce13d8de35b98369": {
+        "title": "2026-01-11日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-11/",
+        "published_date": "Sun, 11 Jan 2026 07:14:00 GMT",
+        "first_seen": "2026-01-11T05:27:07.941744"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-10T23:22:09.913771",
-    "Finance": "2026-01-10T23:21:38.218286",
-    "Ai": "2026-01-10T23:21:49.583811"
+    "Technology": "2026-01-11T05:27:27.991866",
+    "Finance": "2026-01-11T05:27:07.823701",
+    "Ai": "2026-01-11T05:27:07.941747"
   }
 }
