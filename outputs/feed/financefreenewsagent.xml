@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2026 05:27:07 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2026 23:21:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US could ease sanctions on Venezuela next week, says Bessent</title>
-      <link>https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c</link>
-      <description>&lt;![CDATA[US could ease sanctions on Venezuela next week, says Bessent]]&gt;</description>
-      <pubDate>Sun, 11 Jan 2026 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c</guid>
+      <title>Stocks are signaling that another commodities ‘supercycle’ is afoot in 2026</title>
+      <link>https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stocks are signaling that another commodities ‘supercycle’ is afoot in 2026]]&gt;</description>
+      <pubDate>Sun, 11 Jan 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK private equity firms sharply increase use of offshore funds</title>
+      <link>https://www.ft.com/content/dbf8be42-e133-415b-8de4-ded493ecbfd6</link>
+      <description>&lt;![CDATA[UK private equity firms sharply increase use of offshore funds]]&gt;</description>
+      <pubDate>Sun, 11 Jan 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/dbf8be42-e133-415b-8de4-ded493ecbfd6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The UK needs a detox from fiscal turmoil</title>
+      <link>https://www.ft.com/content/78bc27d1-9720-4712-a236-ccf7167760e4</link>
+      <description>&lt;![CDATA[The UK needs a detox from fiscal turmoil]]&gt;</description>
+      <pubDate>Sun, 11 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/78bc27d1-9720-4712-a236-ccf7167760e4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why investors shouldn’t panic yet about Trump’s credit-card rate-cap proposal</title>
+      <link>https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why investors shouldn’t panic yet about Trump’s credit-card rate-cap proposal]]&gt;</description>
+      <pubDate>Sun, 11 Jan 2026 20:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump says Cuba will receive no more Venezuelan oil as he pushes for deal</title>
+      <link>https://www.ft.com/content/f844ce4a-82b3-4ca0-969c-679f9ce3018b</link>
+      <description>&lt;![CDATA[Trump says Cuba will receive no more Venezuelan oil as he pushes for deal]]&gt;</description>
+      <pubDate>Sun, 11 Jan 2026 17:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f844ce4a-82b3-4ca0-969c-679f9ce3018b</guid>
       <category>Finance</category>
     </item>
   </channel>

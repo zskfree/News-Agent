@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a4559809046c2bbb751aa8d7fca3fc2157d936f58ab90c50840011d9696c412a": {
-        "title": "OpenAI 发 GPT-5.2，瞄准专业用户；超越苹果，华为重夺第一；迪士尼 10 亿美元投资 OpenAI",
-        "link": "http://www.geekpark.net/news/357946",
-        "published_date": "Fri, 12 Dec 2025 08:41:00 GMT",
-        "first_seen": "2025-12-12T08:33:26.858419"
-      },
-      "df287a729e8823da39b97bb9def6aaf253a40896f18581fa7a43a42c125a433e": {
-        "title": "【钛晨报】定调2026年经济工作重点任务，中央经济工作会议32条要点速览；马斯克确认SpaceX明年IPO；世界银行上调2025年中国经济增速预期",
-        "link": "https://www.tmtpost.com/7806486.html",
-        "published_date": "Fri, 12 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-12T08:33:26.858425"
-      },
-      "3a3d5defead5cb1862610a67e37f6eb89e796d58e6c4239933acfd688c15b3c2": {
-        "title": "MiniMax and Zhipu AI Plan Hong Kong IPOs Within Weeks",
-        "link": "https://www.tmtpost.com/7807026.html",
-        "published_date": "Fri, 12 Dec 2025 12:52:00 GMT",
-        "first_seen": "2025-12-12T08:33:26.858427"
-      },
-      "91594319dff48dce755a3624bf0ab70acbf3df5207e48e700b847b6114c09f31": {
-        "title": "紧急补丁——React服务器函数中的严重漏洞CVE-2025-55182被主动利用",
-        "link": "https://www.infoq.cn/article/jVcfXOWB0UoOOwrfiyjW?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 16:02:00 GMT",
-        "first_seen": "2025-12-12T08:33:26.858428"
-      },
-      "7aee7f3560c0004d23c1d84c38c34a4684a1a575d0d94c690f8071a582268251": {
-        "title": "如何让AI智能体从“玩具”变“工具”？",
-        "link": "https://www.infoq.cn/article/MhBpL7m3y873tY1qmm0I?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 13:34:00 GMT",
-        "first_seen": "2025-12-12T08:33:26.858430"
-      },
       "52ab9ad6dc036808c293674f58b376e0eb820a5624e8c02c72bc222663ff9b00": {
         "title": "Maternal Instincts are Key to AI's Co-existence With Humans: Hinton",
         "link": "https://www.tmtpost.com/7807870.html",
@@ -2701,51 +2671,39 @@
         "link": "https://www.tmtpost.com/7838104.html",
         "published_date": "Sun, 11 Jan 2026 10:30:00 GMT",
         "first_seen": "2026-01-11T08:29:44.840672"
+      },
+      "44819a39865377dbc5f7af25eafe875a9caf5ca7da87c15607bcdef8afd915c4": {
+        "title": "Llama 4被图灵奖得主曝作弊刷榜，Meta开源AI帝国一夜倾覆",
+        "link": "https://www.tmtpost.com/7838500.html",
+        "published_date": "Sun, 11 Jan 2026 19:39:00 GMT",
+        "first_seen": "2026-01-11T23:22:27.166001"
+      },
+      "0ca4ae57ed82f603bd55b278bec78bf7b7b680a233bcbd73d916b8e84e3e6569": {
+        "title": "姚顺雨“露脸”，和唐杰杨植麟探讨AGI之路",
+        "link": "https://www.tmtpost.com/7838344.html",
+        "published_date": "Sun, 11 Jan 2026 16:29:00 GMT",
+        "first_seen": "2026-01-11T23:22:27.166008"
+      },
+      "f2be56648168bd135d8bb8e88e92cf9620cd2c38468c53f0bb9ed6c2d988ff3f": {
+        "title": "分布式光伏就此没落？“十五五”时期有望呈现这三大趋势！",
+        "link": "https://www.tmtpost.com/7838357.html",
+        "published_date": "Sun, 11 Jan 2026 16:29:00 GMT",
+        "first_seen": "2026-01-11T23:22:27.166010"
+      },
+      "cdb0e498ba46a37ffb225e69c68c97a0c4ac49fcfe8ea5fe27bd7f1283c3ab57": {
+        "title": "国家电投吉电绿氨首出国门！中韩能源合作升级",
+        "link": "https://www.tmtpost.com/7838377.html",
+        "published_date": "Sun, 11 Jan 2026 19:41:00 GMT",
+        "first_seen": "2026-01-11T23:22:27.166012"
+      },
+      "ebfec7e38a9ba65243655285a2cafe41025d1ea7928b2905077feb0eff6751ad": {
+        "title": "比23亿更严重：欣旺达或让数万海外车主陷入安全隐患",
+        "link": "https://www.tmtpost.com/7838487.html",
+        "published_date": "Sun, 11 Jan 2026 19:41:00 GMT",
+        "first_seen": "2026-01-11T23:22:27.166014"
       }
     },
     "Finance": {
-      "76fe7a1f54995981603b84ca141c982a6e210bb8822ace3e022f94987220c618": {
-        "title": "UK economy contracts by 0.1% in October",
-        "link": "https://www.ft.com/content/4176e478-2dd1-4b8b-8b5b-38644c15d5f0",
-        "published_date": "Fri, 12 Dec 2025 08:04:00 GMT",
-        "first_seen": "2025-12-12T08:32:23.260872"
-      },
-      "c6091c5104e7f3a0417d5978038ec05f380a2e129bfcc39dfbc723e4efa2c91d": {
-        "title": "WHSmith delays results again to give auditor PwC more time",
-        "link": "https://www.ft.com/content/9b06bd24-5494-41ce-92c7-21baca8b8dab",
-        "published_date": "Fri, 12 Dec 2025 07:24:00 GMT",
-        "first_seen": "2025-12-12T08:32:23.260884"
-      },
-      "b59284ffe1113abb6b07dfe76700e6fd218e2b32725cc0b3d4a55504c8e36670": {
-        "title": "‘JPMorgan has crossed a line’: How Altice’s debts ensnared US banking giant",
-        "link": "https://www.ft.com/content/b934d78b-6662-494a-8eb9-7a956f198465",
-        "published_date": "Fri, 12 Dec 2025 14:13:00 GMT",
-        "first_seen": "2025-12-12T23:21:22.969621"
-      },
-      "8e378946ae985e7623333e206c799a24c01ffc8abdbf4b7ed26dce08b59f908b": {
-        "title": "Jamie Dimon signals support for Kevin Warsh in Fed chair race",
-        "link": "https://www.ft.com/content/df10ecea-ab0d-452d-b9dc-ffe54701a49c",
-        "published_date": "Fri, 12 Dec 2025 20:31:00 GMT",
-        "first_seen": "2025-12-12T23:21:22.969632"
-      },
-      "be5ee56f96f4eb375e3119e52ffd56685555d3ece67758e1e43e592eb736aaf4": {
-        "title": "These stocks could land big profits from filling Big Tech’s critical water needs",
-        "link": "https://www.marketwatch.com/story/these-stocks-could-land-big-profits-from-filling-big-techs-critical-water-needs-2e0e214b?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Dec 2025 22:29:00 GMT",
-        "first_seen": "2025-12-12T23:21:22.969635"
-      },
-      "babdbdfc3861d93272e60803dfd2f94adb46034ef4d80d04c2da7dcd87abe8b6": {
-        "title": "Can bitcoin bonds fund economic development?",
-        "link": "https://www.ft.com/content/e641c7f7-d097-4ceb-8d72-bdcadc91d7d0",
-        "published_date": "Fri, 12 Dec 2025 18:00:00 GMT",
-        "first_seen": "2025-12-12T23:21:22.969637"
-      },
-      "81ae98d4c4621a2570382cd4756d50791a4867a33947edb6e6f79d2b0aa531cd": {
-        "title": "EU freezes Russian assets ahead of pivotal Ukraine talks",
-        "link": "https://www.ft.com/content/bae04a8e-f8eb-419b-be88-bbdb5882d7d1",
-        "published_date": "Fri, 12 Dec 2025 21:06:00 GMT",
-        "first_seen": "2025-12-12T23:21:22.969639"
-      },
       "58975f0c116ffde4cb8c2cbd0372b5139f44117a32596b3cd0043e3f62968a13": {
         "title": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
         "link": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
@@ -4479,69 +4437,39 @@
         "link": "https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c",
         "published_date": "Sun, 11 Jan 2026 00:13:00 GMT",
         "first_seen": "2026-01-11T05:27:07.823689"
+      },
+      "46d3bbc9865f30a828d2fa80ff6c92efbea55763846a427c0fb6b1cf79d1c24c": {
+        "title": "Stocks are signaling that another commodities ‘supercycle’ is afoot in 2026",
+        "link": "https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories",
+        "published_date": "Sun, 11 Jan 2026 21:01:00 GMT",
+        "first_seen": "2026-01-11T23:21:55.264548"
+      },
+      "8a3109db35e1945cdc68cb1669351183c9c977b088efd4b9359d06c782d8b5e1": {
+        "title": "UK private equity firms sharply increase use of offshore funds",
+        "link": "https://www.ft.com/content/dbf8be42-e133-415b-8de4-ded493ecbfd6",
+        "published_date": "Sun, 11 Jan 2026 18:00:00 GMT",
+        "first_seen": "2026-01-11T23:21:55.264560"
+      },
+      "ac0bc4a5d158d3a00d8f6fe7926c7c5b00404b1f022d4530e916102d18a1215e": {
+        "title": "The UK needs a detox from fiscal turmoil",
+        "link": "https://www.ft.com/content/78bc27d1-9720-4712-a236-ccf7167760e4",
+        "published_date": "Sun, 11 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-11T23:21:55.264562"
+      },
+      "4e766a4d54ccf47e635c605dbe65a899730668447ffb8fd7f0e8f3b64fe6ae0b": {
+        "title": "Why investors shouldn’t panic yet about Trump’s credit-card rate-cap proposal",
+        "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
+        "published_date": "Sun, 11 Jan 2026 20:05:00 GMT",
+        "first_seen": "2026-01-11T23:21:55.264565"
+      },
+      "bc6e8f688bb7fe346101f8185621265701080cb23c39338f60c9ed0b7f20965b": {
+        "title": "Trump says Cuba will receive no more Venezuelan oil as he pushes for deal",
+        "link": "https://www.ft.com/content/f844ce4a-82b3-4ca0-969c-679f9ce3018b",
+        "published_date": "Sun, 11 Jan 2026 17:44:00 GMT",
+        "first_seen": "2026-01-11T23:21:55.264567"
       }
     },
     "Ai": {
-      "f085fb50d7ec5842dd02b154dfa8db2d5fef3632d9bac9e0776a7210869113de": {
-        "title": "AI 驱动的科学系统分析框架：SciSciGPT 打开科学研究的新工作方式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-8",
-        "published_date": "Fri, 12 Dec 2025 14:10:00 GMT",
-        "first_seen": "2025-12-12T08:33:03.974900"
-      },
-      "67f53fb655449e019be99865851194f1f039d926cbaabe16fb26f5e8bfaf451f": {
-        "title": "谷歌智能体发力：增强版Gemini Deep Research和专属API都来了",
-        "link": "https://www.qbitai.com/2025/12/360539.html",
-        "published_date": "Fri, 12 Dec 2025 07:48:00 GMT",
-        "first_seen": "2025-12-12T08:33:03.974907"
-      },
-      "fe729bdb3e192576f1f1d4a0e44d616d770f4af35a23f94c142d7250e8a8090e": {
-        "title": "全球强化学习+VLA范式，PI*0.6背后都有这家中国公司技术伏笔",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-5",
-        "published_date": "Fri, 12 Dec 2025 11:50:00 GMT",
-        "first_seen": "2025-12-12T08:33:03.974909"
-      },
-      "057eecaa192e63bca6e2c5a249975c309a61ffc44151186e6565e4f1a7ebb622": {
-        "title": "ToC智能体火得快，但更大的价值在企业丨中关村科金@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360476.html",
-        "published_date": "Fri, 12 Dec 2025 06:36:00 GMT",
-        "first_seen": "2025-12-12T08:33:03.974911"
-      },
-      "943eaa250b160529491faafab4e9caa574cfe1c2d6a8a9db2c8d8277fe25c3ec": {
-        "title": "刚刚，GPT-5.2满分屠榜，OpenAI十周年王者归来",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-2",
-        "published_date": "Fri, 12 Dec 2025 10:24:00 GMT",
-        "first_seen": "2025-12-12T08:33:03.974913"
-      },
-      "34e7e69eaf76b36f39e761718302f7b59424e9e5b35434be4f0b80f21dc53df1": {
-        "title": "2025-12-13日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-13/",
-        "published_date": "Sat, 13 Dec 2025 07:15:00 GMT",
-        "first_seen": "2025-12-12T23:21:23.097601"
-      },
-      "9bd543fd9d2b5f16c6ab52c3f803cea3bec42808ab2d4ab2fb57e2edba502867": {
-        "title": "港大开源ViMax火了，实现AI自编自导自演",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-10",
-        "published_date": "Fri, 12 Dec 2025 18:16:00 GMT",
-        "first_seen": "2025-12-12T23:21:23.097609"
-      },
-      "7a98eb7b01a2524f18859197b289c3467a8911bc1c02b991fea231dbe460dfc4": {
-        "title": "提示词一响，烂片登场，OpenAI谈下200+迪士尼顶级IP出场费",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-9",
-        "published_date": "Fri, 12 Dec 2025 17:54:00 GMT",
-        "first_seen": "2025-12-12T23:21:23.097611"
-      },
-      "8e332e70885588e86c785b3bff985551dccca24e2c8564bfc43548e9da79b025": {
-        "title": "Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa",
-        "link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
-        "published_date": "Fri, 12 Dec 2025 10:42:00 GMT",
-        "first_seen": "2025-12-12T23:21:23.097613"
-      },
-      "83c7bf154343cc320d3e06d59212afa687d1991c869a6910f2d4dcccec436eac": {
-        "title": "Meta「内战」升级：做「神一般的AI」，还是守住「社交帝国」？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-4",
-        "published_date": "Fri, 12 Dec 2025 11:36:00 GMT",
-        "first_seen": "2025-12-12T23:21:23.097614"
-      },
       "30bde27fb4bf22a299ea94a6934050163940e24107821fd3116cd59394c46560": {
         "title": "交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026",
         "link": "https://www.qbitai.com/2025/12/360576.html",
@@ -6671,13 +6599,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-11/",
         "published_date": "Sun, 11 Jan 2026 07:14:00 GMT",
         "first_seen": "2026-01-11T05:27:07.941744"
+      },
+      "a1da560cd32f063729780ed102a1be31c13d9deda0540563a9e084fc907a3631": {
+        "title": "无需人工标注，轻量级模型运动理解媲美72B模型，英伟达、MIT等联合推出FoundationMotion",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-11",
+        "published_date": "Sun, 11 Jan 2026 21:31:00 GMT",
+        "first_seen": "2026-01-11T23:22:08.398746"
+      },
+      "b208c20698c45406e4bff644f13152654b1c9afa7b4f3603bea3c8ee8f443893": {
+        "title": "挑战GRPO，英伟达提出GDPO，专攻多奖励优化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-11-4",
+        "published_date": "Sun, 11 Jan 2026 21:46:00 GMT",
+        "first_seen": "2026-01-11T23:22:08.398752"
+      },
+      "367476cfe0f285a460bc93327a62638fa86775e0875f0f5d202f3a84e66fb758": {
+        "title": "联邦学习不再安全？港大TPAMI新作：深挖梯度反转攻击的内幕",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-11-3",
+        "published_date": "Sun, 11 Jan 2026 21:42:00 GMT",
+        "first_seen": "2026-01-11T23:22:08.398754"
+      },
+      "e8723574f7d1ebb34aa5314545e1aeddb0393ce10fdb031d8172f9e1c2fe80a6": {
+        "title": "Sakana让AI互相「猎杀」，而它们开始了趋同进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-11-6",
+        "published_date": "Sun, 11 Jan 2026 21:59:00 GMT",
+        "first_seen": "2026-01-11T23:22:08.398756"
+      },
+      "19bcbfc86dac8a7f319b8b07b8c585c07dd59ec702c24e5a862ac975ee4bf166": {
+        "title": "不做人形、不跳舞：他家的具身智能凭什么在100+城市卖出400万杯咖啡？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-11-5",
+        "published_date": "Sun, 11 Jan 2026 21:53:00 GMT",
+        "first_seen": "2026-01-11T23:22:08.398757"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-11T08:29:44.840674",
-    "Finance": "2026-01-11T05:27:07.823701",
-    "Ai": "2026-01-11T05:27:07.941747"
+    "Technology": "2026-01-11T23:22:27.166016",
+    "Finance": "2026-01-11T23:21:55.264569",
+    "Ai": "2026-01-11T23:22:08.398760"
   }
 }

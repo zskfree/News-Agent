@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-11 08:29
+**最后更新时间**: 2026-01-11 23:21
+
+---
+
+## 🆕 最新更新 (2026-01-11 23:21)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures dip ahead of a busy week on Wall Street](https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories)
+**发布时间**: 2026-01-11 23:20
+
+#### [Allegiant to buy rival budget airline Sun Country for around $1.5 billion](https://www.marketwatch.com/story/allegiant-to-buy-rival-budget-airline-sun-country-for-around-1-5-billion-d88bfc54?mod=mw_rss_topstories)
+**发布时间**: 2026-01-11 22:19
+
+#### [Stocks are signaling that another commodities ‘supercycle’ is afoot in 2026](https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-11 21:01
+
+#### [Why investors shouldn’t panic yet about Trump’s credit-card rate-cap proposal](https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-11 20:05
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iranians defy intensifying crackdown as Trump weighs options](https://www.ft.com/content/cb0f5f9e-2b96-46b0-aef3-141cdd3ac37f)
+**发布时间**: 2026-01-11 23:03
+
+#### [‘Hundreds’ more agents head to Minnesota, says homeland security secretary](https://www.ft.com/content/89d7f1c2-96be-4d8f-900b-456b7d2d85e2)
+**发布时间**: 2026-01-11 20:22
+
+#### [Britain in talks with Nato allies over increasing presence in Arctic](https://www.ft.com/content/6c5dd056-a2c8-4cbd-be1e-d614c61ecf82)
+**发布时间**: 2026-01-11 18:00
+
+#### [UK private equity firms sharply increase use of offshore funds](https://www.ft.com/content/dbf8be42-e133-415b-8de4-ded493ecbfd6)
+**发布时间**: 2026-01-11 18:00
+
+#### [Trump says Cuba will receive no more Venezuelan oil as he pushes for deal](https://www.ft.com/content/f844ce4a-82b3-4ca0-969c-679f9ce3018b)
+**发布时间**: 2026-01-11 17:44
+
+#### [The off-ramps are narrowing for Iran’s regime](https://www.ft.com/content/b9e85685-4001-4f0f-a2cc-a1b1af6566aa)
+**发布时间**: 2026-01-11 12:14
+
+#### [The UK needs a detox from fiscal turmoil](https://www.ft.com/content/78bc27d1-9720-4712-a236-ccf7167760e4)
+**发布时间**: 2026-01-11 12:00
+
+#### [Leica’s next shot: inside the camera pioneer’s strategy for the iPhone age](https://www.ft.com/content/19bb12aa-5373-440a-a6bc-d8cf6f36efbe)
+**发布时间**: 2026-01-11 05:00
 
 ---
 
