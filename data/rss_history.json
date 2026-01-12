@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "588e0e4a6540d622851a18883c5358de950231c470e80edcee0695d682beb2d0": {
-        "title": "奥特曼抱紧迪士尼大腿，OpenAI能避免被踢下牌桌吗？",
-        "link": "https://www.tmtpost.com/7807114.html",
-        "published_date": "Sat, 13 Dec 2025 07:53:00 GMT",
-        "first_seen": "2025-12-13T08:30:01.362851"
-      },
-      "4f905b544192607a9275a76081b36b1e83f5bbd8ac92fed4839b89c632231a1c": {
-        "title": "豆包“撕裂”AI手机",
-        "link": "https://www.tmtpost.com/7807590.html",
-        "published_date": "Sat, 13 Dec 2025 09:34:00 GMT",
-        "first_seen": "2025-12-13T08:30:01.362858"
-      },
-      "1c4f3d4421bcdbd4604167d8403d02906164d637886ab5de11ea4ff300d67196": {
-        "title": "Svelte 团队成员开源新框架 Ripple，又一个想“改写前端”的框架？",
-        "link": "https://www.infoq.cn/article/84yOUazuZVZydfEZa1Nh?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Dec 2025 14:38:00 GMT",
-        "first_seen": "2025-12-13T08:30:01.362860"
-      },
-      "4fa7422dc6daa36c12268046975a868b77d267b042b06d11bd012768944c51db": {
-        "title": "甲骨文财报后暴跌，从软件股改成了算力基建股？",
-        "link": "https://www.tmtpost.com/7807809.html",
-        "published_date": "Sat, 13 Dec 2025 08:23:00 GMT",
-        "first_seen": "2025-12-13T08:30:01.362862"
-      },
-      "bf091bfaf045c6725375752b1a817e2cd556df5e90092d51a449b6c366baa7b0": {
-        "title": "具透 | iOS 26.2 值得关注的新特性",
-        "link": "https://sspai.com/post/104408",
-        "published_date": "Sat, 13 Dec 2025 11:27:00 GMT",
-        "first_seen": "2025-12-13T08:30:01.362864"
-      },
       "4bfa5fc813eb7885f58ab5f506ad49ef5a2c6cb98f86943a8211e2791b6df43f": {
         "title": "李飞飞深度解读：为什么空间智能是通往AGI的关键技术？",
         "link": "https://www.tmtpost.com/7808166.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7838972.html",
         "published_date": "Mon, 12 Jan 2026 10:45:00 GMT",
         "first_seen": "2026-01-12T05:32:16.881392"
+      },
+      "9d309c2704c63be741b759e7255ae9c8af4258dfe02756176cd040e2ff1e5034": {
+        "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
+        "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 16:23:00 GMT",
+        "first_seen": "2026-01-12T08:35:54.318978"
+      },
+      "6a4ef330c33e02039f43b70b1f2c144c0413a515f80620ea9a26e9102fa2c2aa": {
+        "title": "抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！",
+        "link": "https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-12T08:35:54.318985"
+      },
+      "3aa073111a52d4d26df204ef9e29a21eeda66b5d1ecb058b04709260351fd9ed": {
+        "title": "亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦",
+        "link": "https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:44:00 GMT",
+        "first_seen": "2026-01-12T08:35:54.318987"
+      },
+      "1ca0cf81529a874b6b6e0ef880256087103d2d498eafb6f7a5984a70a2ab44bb": {
+        "title": "Exclusive: China’s Booster Robotics Raises Over $14 Million as Humanoid Robots Move Toward Commercial Scale",
+        "link": "https://www.tmtpost.com/7838958.html",
+        "published_date": "Mon, 12 Jan 2026 10:34:00 GMT",
+        "first_seen": "2026-01-12T08:35:54.318988"
+      },
+      "0c3b80d9218d99bdb8a01bfafca586fb31943567be70d2078478d5ec7d02ffa0": {
+        "title": "智谱 VS MiniMax：国产大模型双雄上市记",
+        "link": "https://www.tmtpost.com/7838822.html",
+        "published_date": "Mon, 12 Jan 2026 10:54:00 GMT",
+        "first_seen": "2026-01-12T08:35:54.318990"
       }
     },
     "Finance": {
@@ -4461,15 +4461,21 @@
         "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
         "published_date": "Mon, 12 Jan 2026 02:04:00 GMT",
         "first_seen": "2026-01-12T05:31:56.149656"
+      },
+      "9621b81a387f1dbe1bca2414f07b196dd949af1e3fc13a6d51ac7f2f39889f7c": {
+        "title": "Gold hits record high on worries over Fed independence",
+        "link": "https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186",
+        "published_date": "Mon, 12 Jan 2026 07:51:00 GMT",
+        "first_seen": "2026-01-12T08:35:20.131814"
+      },
+      "d6338d15cc0d8777ad74dea06e7d89da32da27e427a8094122ed189322ea89ca": {
+        "title": "Criminalising the Fed",
+        "link": "https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32",
+        "published_date": "Mon, 12 Jan 2026 06:30:00 GMT",
+        "first_seen": "2026-01-12T08:35:20.131826"
       }
     },
     "Ai": {
-      "30bde27fb4bf22a299ea94a6934050163940e24107821fd3116cd59394c46560": {
-        "title": "交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360576.html",
-        "published_date": "Sat, 13 Dec 2025 04:53:00 GMT",
-        "first_seen": "2025-12-13T08:29:46.527672"
-      },
       "41852f31d1f8272781c32d19ff610256090afd654a398bc71df0945391fde26d": {
         "title": "2025-12-14日刊",
         "link": "https://ai.hubtoday.app//2025-12/2025-12-14/",
@@ -6653,13 +6659,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-12/",
         "published_date": "Mon, 12 Jan 2026 07:14:00 GMT",
         "first_seen": "2026-01-12T05:31:56.289614"
+      },
+      "1401a8d331131b2b52d41bc54246e9d2a3e4ac484dfafd8350548bcdf2cf4ff1": {
+        "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
+        "published_date": "Mon, 12 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-12T08:35:30.583975"
+      },
+      "20fe234369ceecdd8399b60d55c534f7eb5db6b0105026e9ab331e943fdcca56": {
+        "title": "具身智能开年最大融资，字节红杉领投10亿",
+        "link": "https://www.qbitai.com/2026/01/369147.html",
+        "published_date": "Mon, 12 Jan 2026 06:51:00 GMT",
+        "first_seen": "2026-01-12T08:35:30.583981"
+      },
+      "21345019d20c30e2290c2bcc5cbbe967686dbdc6c650650c7860edc8622bdab1": {
+        "title": "引入几何约束后，VLM跨越了「空间推理」的认知鸿沟",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-6",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:35:30.583984"
+      },
+      "9136e32ecba3949e46147f93b95475753ddc991eeab6ebbcc185873fc618eee5": {
+        "title": "具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代",
+        "link": "https://www.qbitai.com/2026/01/369107.html",
+        "published_date": "Mon, 12 Jan 2026 08:06:00 GMT",
+        "first_seen": "2026-01-12T08:35:30.583986"
+      },
+      "39bca3da45d37bac837754f9d52c13e19e5eb38e7c71d59a6a368ae8bd2ec0b9": {
+        "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
+        "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
+        "first_seen": "2026-01-12T08:35:30.583987"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-12T05:32:16.881394",
-    "Finance": "2026-01-12T05:31:56.149658",
-    "Ai": "2026-01-12T05:31:56.289616"
+    "Technology": "2026-01-12T08:35:54.318992",
+    "Finance": "2026-01-12T08:35:20.131829",
+    "Ai": "2026-01-12T08:35:30.583990"
   }
 }

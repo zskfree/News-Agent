@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-12 05:31
+**最后更新时间**: 2026-01-12 08:35
+
+---
+
+## 🆕 最新更新 (2026-01-12 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold hits record high on worries over Fed independence](https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186)
+**发布时间**: 2026-01-12 07:51
+
+#### [Criminalising the Fed](https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32)
+**发布时间**: 2026-01-12 06:30
+
+#### [Defence jobs boom as Germany’s arms companies go on hiring spree](https://www.ft.com/content/6d2503cc-c7e8-4c2f-a6c5-07998e1d9b40)
+**发布时间**: 2026-01-12 05:00
+
+#### [Merz under pressure to ease ‘firewall’ against Germany’s far-right](https://www.ft.com/content/8d407c88-78ed-47ad-82dc-2e446a7e7249)
+**发布时间**: 2026-01-12 05:00
 
 ---
 
