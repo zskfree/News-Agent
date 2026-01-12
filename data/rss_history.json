@@ -2671,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7838822.html",
         "published_date": "Mon, 12 Jan 2026 10:54:00 GMT",
         "first_seen": "2026-01-12T08:35:54.318990"
+      },
+      "000bcc0487fdbf400f4c7d906b86416ba5003879372873188255df140f60d564": {
+        "title": "英伟达发布了跨AI、机器人和自动驾驶的开放模型、数据集和工具",
+        "link": "https://www.infoq.cn/article/HHxGUQV0RjXGOfTisX9U?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 17:12:00 GMT",
+        "first_seen": "2026-01-12T23:19:25.843639"
+      },
+      "ba2873dcac1ac4316fbaff466145a87436b726a945661c66cd0e2fcdb569f8bd": {
+        "title": "2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察",
+        "link": "https://www.tmtpost.com/7838702.html",
+        "published_date": "Mon, 12 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-12T23:19:25.843646"
+      },
+      "5b25bf18648e90af993ce6d0b521c637862893201b433be1bca3b77cf13a7990": {
+        "title": "政府投资基金新规落地，力挺“投早投小投硬科技”",
+        "link": "https://www.tmtpost.com/7839602.html",
+        "published_date": "Mon, 12 Jan 2026 19:31:00 GMT",
+        "first_seen": "2026-01-12T23:19:25.843648"
+      },
+      "509a3c5066ddcd5fc7e8b633c2eac4e46a4118fbf9d13aa2c2aeb00c4baa81a8": {
+        "title": "2026大模型赛道新年启示：在20%的胜率下，笨笨地坚持",
+        "link": "https://www.tmtpost.com/7839455.html",
+        "published_date": "Mon, 12 Jan 2026 20:26:00 GMT",
+        "first_seen": "2026-01-12T23:19:25.843650"
+      },
+      "32ed4766f9b343415cb98a0a99d3cee547ab7291bda05365462d74cb9bfd7760": {
+        "title": "马斯克机器人“母体”计划：地球将被硅基生命接管？",
+        "link": "http://www.huxiu.com/article/4824994.html?f=wangzhan",
+        "published_date": "Mon, 12 Jan 2026 11:50:00 GMT",
+        "first_seen": "2026-01-12T23:19:25.843652"
       }
     },
     "Finance": {
@@ -4473,6 +4503,36 @@
         "link": "https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32",
         "published_date": "Mon, 12 Jan 2026 06:30:00 GMT",
         "first_seen": "2026-01-12T08:35:20.131826"
+      },
+      "35ddd5dbba7e5e23fb9c6e4db48a3d7806e934ab7d3334a1b6e7877789dd40cb": {
+        "title": "BlackRock’s Rieder repeats his view that Fed needs to bring interest rates down to 3%",
+        "link": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Jan 2026 22:47:00 GMT",
+        "first_seen": "2026-01-12T23:19:03.944272"
+      },
+      "c00a6fe2222d0288b577e1b86a323209b0bdaf3e257ce754af266cf3d2c4bd5c": {
+        "title": "DoJ’s probe into Powell galvanises Fed leaders to repel Trump attacks",
+        "link": "https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a",
+        "published_date": "Mon, 12 Jan 2026 21:09:00 GMT",
+        "first_seen": "2026-01-12T23:19:03.944282"
+      },
+      "4aa89519fb7d58173fb0f0395cfba0a7ef2c1ea5d7120ed44af0806da8f251a0": {
+        "title": "Why oil prices could rise as U.S.-Iran tensions swell",
+        "link": "https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Jan 2026 23:02:00 GMT",
+        "first_seen": "2026-01-12T23:19:03.944285"
+      },
+      "014d57c899db9560c1acaf65b2d8a3920e2a8c0b51740e6c11b56803512bd197": {
+        "title": "Alphabet hits $4tn valuation on AI hopes",
+        "link": "https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9",
+        "published_date": "Mon, 12 Jan 2026 21:25:00 GMT",
+        "first_seen": "2026-01-12T23:19:03.944287"
+      },
+      "13b41a4e2879a02a5cbef30f774d6cc5cb4d611d61688394b7bc4c732fd2d215": {
+        "title": "Trump announces 25% tariff on countries ‘doing business’ with Iran",
+        "link": "https://www.ft.com/content/c266f78d-1b53-4aa5-99ff-1726a5126a23",
+        "published_date": "Mon, 12 Jan 2026 22:07:00 GMT",
+        "first_seen": "2026-01-12T23:19:03.944288"
       }
     },
     "Ai": {
@@ -6689,13 +6749,37 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
         "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
         "first_seen": "2026-01-12T08:35:30.583987"
+      },
+      "8dd0508d4badf704680719919ffb81ce2558186707a7300664453fe97db12c30": {
+        "title": "2026-01-13日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-13/",
+        "published_date": "Tue, 13 Jan 2026 07:12:00 GMT",
+        "first_seen": "2026-01-12T23:19:04.090813"
+      },
+      "cd406948e3d0bc076239301ef801a4b4f2166b1a9a0e2c8fcadcc4ab78914833": {
+        "title": "NeuralGCM harnesses AI to better simulate long-range global precipitation",
+        "link": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/",
+        "published_date": "Mon, 12 Jan 2026 17:52:00 GMT",
+        "first_seen": "2026-01-12T23:19:04.090821"
+      },
+      "3421e5e92ad88fb162bf3574a2def61529a6fcf98200130903e76c49bd5aea16": {
+        "title": "端到端智驾的算力困局，九章智算云这样破局",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-8",
+        "published_date": "Mon, 12 Jan 2026 17:08:00 GMT",
+        "first_seen": "2026-01-12T23:19:04.090823"
+      },
+      "b4def1dcc480263ff757cc93104178c9d78fa93ec6ef3319a82724efa326aa5c": {
+        "title": "和闫俊杰一起敲钟的她：31岁，身价48亿",
+        "link": "https://www.qbitai.com/2026/01/369227.html",
+        "published_date": "Mon, 12 Jan 2026 09:09:00 GMT",
+        "first_seen": "2026-01-12T23:19:04.090825"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-12T08:35:54.318992",
-    "Finance": "2026-01-12T08:35:20.131829",
-    "Ai": "2026-01-12T08:35:30.583990"
+    "Technology": "2026-01-12T23:19:25.843653",
+    "Finance": "2026-01-12T23:19:03.944291",
+    "Ai": "2026-01-12T23:19:04.090827"
   }
 }

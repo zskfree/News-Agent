@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 12 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2026 08:35:54 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 23:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:19:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据</title>
-      <link>https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达发布了跨AI、机器人和自动驾驶的开放模型、数据集和工具</title>
+      <link>https://www.infoq.cn/article/HHxGUQV0RjXGOfTisX9U?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英伟达发布了跨AI、机器人和自动驾驶的开放模型、数据集和工具]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 17:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HHxGUQV0RjXGOfTisX9U?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！</title>
-      <link>https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察</title>
+      <link>https://www.tmtpost.com/7838702.html</link>
+      <description>&lt;![CDATA[2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7838702.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦</title>
-      <link>https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&amp;utm_medium=article</guid>
+      <title>政府投资基金新规落地，力挺“投早投小投硬科技”</title>
+      <link>https://www.tmtpost.com/7839602.html</link>
+      <description>&lt;![CDATA[政府投资基金新规落地，力挺“投早投小投硬科技”]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7839602.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Exclusive: China’s Booster Robotics Raises Over $14 Million as Humanoid Robots Move Toward Commercial Scale</title>
-      <link>https://www.tmtpost.com/7838958.html</link>
-      <description>&lt;![CDATA[Exclusive: China’s Booster Robotics Raises Over $14 Million as Humanoid Robots Move Toward Commercial Scale]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7838958.html</guid>
+      <title>2026大模型赛道新年启示：在20%的胜率下，笨笨地坚持</title>
+      <link>https://www.tmtpost.com/7839455.html</link>
+      <description>&lt;![CDATA[2026大模型赛道新年启示：在20%的胜率下，笨笨地坚持]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 20:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7839455.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱 VS MiniMax：国产大模型双雄上市记</title>
-      <link>https://www.tmtpost.com/7838822.html</link>
-      <description>&lt;![CDATA[智谱 VS MiniMax：国产大模型双雄上市记]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7838822.html</guid>
+      <title>马斯克机器人“母体”计划：地球将被硅基生命接管？</title>
+      <link>http://www.huxiu.com/article/4824994.html?f=wangzhan</link>
+      <description>&lt;![CDATA[马斯克机器人“母体”计划：地球将被硅基生命接管？]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4824994.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
   </channel>

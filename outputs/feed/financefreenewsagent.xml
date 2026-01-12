@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 12 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2026 08:35:20 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 23:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:19:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gold hits record high on worries over Fed independence</title>
-      <link>https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186</link>
-      <description>&lt;![CDATA[Gold hits record high on worries over Fed independence]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 07:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186</guid>
+      <title>BlackRock’s Rieder repeats his view that Fed needs to bring interest rates down to 3%</title>
+      <link>https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[BlackRock’s Rieder repeats his view that Fed needs to bring interest rates down to 3%]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 22:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Criminalising the Fed</title>
-      <link>https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32</link>
-      <description>&lt;![CDATA[Criminalising the Fed]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32</guid>
+      <title>DoJ’s probe into Powell galvanises Fed leaders to repel Trump attacks</title>
+      <link>https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a</link>
+      <description>&lt;![CDATA[DoJ’s probe into Powell galvanises Fed leaders to repel Trump attacks]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 21:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why oil prices could rise as U.S.-Iran tensions swell</title>
+      <link>https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why oil prices could rise as U.S.-Iran tensions swell]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 23:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Alphabet hits $4tn valuation on AI hopes</title>
+      <link>https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9</link>
+      <description>&lt;![CDATA[Alphabet hits $4tn valuation on AI hopes]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 21:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump announces 25% tariff on countries ‘doing business’ with Iran</title>
+      <link>https://www.ft.com/content/c266f78d-1b53-4aa5-99ff-1726a5126a23</link>
+      <description>&lt;![CDATA[Trump announces 25% tariff on countries ‘doing business’ with Iran]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 22:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c266f78d-1b53-4aa5-99ff-1726a5126a23</guid>
       <category>Finance</category>
     </item>
   </channel>

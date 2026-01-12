@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 12 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2026 08:35:30 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 23:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:19:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-12-5</link>
-      <description>&lt;![CDATA[清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-5</guid>
+      <title>2026-01-13日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-13/</link>
+      <description>&lt;![CDATA[2026-01-13日刊]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-13/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身智能开年最大融资，字节红杉领投10亿</title>
-      <link>https://www.qbitai.com/2026/01/369147.html</link>
-      <description>&lt;![CDATA[具身智能开年最大融资，字节红杉领投10亿]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 06:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369147.html</guid>
+      <title>NeuralGCM harnesses AI to better simulate long-range global precipitation</title>
+      <link>https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/</link>
+      <description>&lt;![CDATA[NeuralGCM harnesses AI to better simulate long-range global precipitation]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>引入几何约束后，VLM跨越了「空间推理」的认知鸿沟</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-12-6</link>
-      <description>&lt;![CDATA[引入几何约束后，VLM跨越了「空间推理」的认知鸿沟]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-6</guid>
+      <title>端到端智驾的算力困局，九章智算云这样破局</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-12-8</link>
+      <description>&lt;![CDATA[端到端智驾的算力困局，九章智算云这样破局]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代</title>
-      <link>https://www.qbitai.com/2026/01/369107.html</link>
-      <description>&lt;![CDATA[具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369107.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-12-7</link>
-      <description>&lt;![CDATA[真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 15:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-7</guid>
+      <title>和闫俊杰一起敲钟的她：31岁，身价48亿</title>
+      <link>https://www.qbitai.com/2026/01/369227.html</link>
+      <description>&lt;![CDATA[和闫俊杰一起敲钟的她：31岁，身价48亿]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369227.html</guid>
       <category>Ai</category>
     </item>
   </channel>
