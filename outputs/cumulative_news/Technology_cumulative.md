@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-11 23:21
+**最后更新时间**: 2026-01-12 05:31
+
+---
+
+## 🆕 最新更新 (2026-01-12 05:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Physical AI Boom Spurs Caution Over Hype-Driven Innovations](https://www.tmtpost.com/7839098.html)
+**发布时间**: 2026-01-12 12:52
+
+#### [【Fintech 周报】去年理财产品平均收益率2.28%；银行短期大额存单利率进入“0字头”](https://www.tmtpost.com/7839017.html)
+**发布时间**: 2026-01-12 12:09
+
+#### [淘宝闪购要争即时零售最大赢家](https://www.tmtpost.com/7838860.html)
+**发布时间**: 2026-01-12 11:51
+
+#### [2026年，12条文娱新趋势](https://www.tmtpost.com/7838852.html)
+**发布时间**: 2026-01-12 11:31
+
+#### [上海国资领投，星环聚能完成10亿元A轮融资，加速可控核聚变技术商业化 | 融资动态](https://www.tmtpost.com/7839027.html)
+**发布时间**: 2026-01-12 11:26
+
+#### [智谱 VS MiniMax：国产大模型双雄上市记](https://www.tmtpost.com/7838822.html)
+**发布时间**: 2026-01-12 10:54
+
+#### [Chinese Robotics Firms Dominate CES 2026 As Embodied AI Moves Toward Real-World Deployment](https://www.tmtpost.com/7838972.html)
+**发布时间**: 2026-01-12 10:45
+
+#### [Exclusive: China’s Booster Robotics Raises Over $14 Million as Humanoid Robots Move Toward Commercial Scale](https://www.tmtpost.com/7838958.html)
+**发布时间**: 2026-01-12 10:34
+
+#### [Next AI Breakthrough Likely to Come from Physical Systems, Not the Cloud, Says Berkeley Researcher](https://www.tmtpost.com/7838942.html)
+**发布时间**: 2026-01-12 10:27
+
+#### [2026，“硅基经济”的时代正在悄然来临](https://www.tmtpost.com/7838625.html)
+**发布时间**: 2026-01-12 10:24
+
+#### [Shopify股价因AI购物概念大涨，如今正携手Gemini与Copilot加大投入](https://www.tmtpost.com/7838843.html)
+**发布时间**: 2026-01-12 09:00
+
+#### [2025年中国医疗产业十大教训](https://www.tmtpost.com/7838613.html)
+**发布时间**: 2026-01-12 09:00
+
+#### [物理AI热潮下的冷思考，警惕“华强北式”AI｜CES 2026](https://www.tmtpost.com/7838581.html)
+**发布时间**: 2026-01-12 08:56
+
+#### [2026，羽绒服不再“围攻波司登”](https://www.tmtpost.com/7838627.html)
+**发布时间**: 2026-01-12 08:30
+
+#### [“200亿带货先生”董宇辉，可能是最后一个超头主播](https://www.tmtpost.com/7838662.html)
+**发布时间**: 2026-01-12 08:00
+
+#### [【钛晨报】商务部部署2026年重点工作，提振消费排在首位；马斯克旗下AI聊天机器人被多国封禁或限制访问；今起复牌，16倍牛股天普股份被证监会立案调查](https://www.tmtpost.com/7838564.html)
+**发布时间**: 2026-01-12 07:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [马斯克机器人“母体”计划：地球将被硅基生命接管？](http://www.huxiu.com/article/4824994.html?f=wangzhan)
+**发布时间**: 2026-01-12 11:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [当我尝试修复一台十年前的 ThinkPad E40……](https://sspai.com/post/104522)
+**发布时间**: 2026-01-12 11:02
+
+#### [派早报：国务院开展外卖市场竞争调查评估](https://sspai.com/post/105357)
+**发布时间**: 2026-01-12 08:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“机器人一次性卖完太亏！”真机智能刘智勇：今年中国本体厂商将大淘汰，拼的是世界模型](https://www.infoq.cn/article/EbQ24746fmKpCj7qJmIZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-12 09:55
 
 ---
 

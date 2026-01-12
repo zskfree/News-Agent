@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "52ab9ad6dc036808c293674f58b376e0eb820a5624e8c02c72bc222663ff9b00": {
-        "title": "Maternal Instincts are Key to AI's Co-existence With Humans: Hinton",
-        "link": "https://www.tmtpost.com/7807870.html",
-        "published_date": "Sat, 13 Dec 2025 01:09:00 GMT",
-        "first_seen": "2025-12-12T23:21:43.730260"
-      },
-      "2017f0cb4f9fd0ac1ecb18a4ece7bf21d7090d6d0df288f47a3541db30218484": {
-        "title": "商业航天不是送火箭，是建“太空基础设施”：下一代产业链正在重构",
-        "link": "https://www.tmtpost.com/7807492.html",
-        "published_date": "Fri, 12 Dec 2025 19:46:00 GMT",
-        "first_seen": "2025-12-12T23:21:43.730267"
-      },
-      "0825e173553efc111e8e679cf0cff4fe6781e05b6b9c636661933d63340ad0a6": {
-        "title": "谷歌最新 Gemini Agent 爆击GPT-5.2？人类最后考试得分见分晓！网友：Altman又该发“红色警报”了",
-        "link": "https://www.infoq.cn/article/V1x0pYHG0SPgvK4XIqIU?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 18:29:00 GMT",
-        "first_seen": "2025-12-12T23:21:43.730269"
-      },
-      "2ff363706cbf95e01b152f1aac92e08e7066178b6fd393648747cdf77e68c051": {
-        "title": "DJI's Entry Into Robot Vacuums Signals New Phase in China's Cleaning Appliance Race",
-        "link": "https://www.tmtpost.com/7807813.html",
-        "published_date": "Fri, 12 Dec 2025 22:31:00 GMT",
-        "first_seen": "2025-12-12T23:21:43.730271"
-      },
-      "5fb85b4f6f085961d58365c03b3b21ddd5640ac128ed69829295d5495e68a651": {
-        "title": "AI部署中”端、云、边”的权衡与决策",
-        "link": "https://www.tmtpost.com/7806720.html",
-        "published_date": "Fri, 12 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-12T23:21:43.730272"
-      },
-      "144b6981fff16f9548bb814ae840fcfce3b94dff6118eb3312d875a6fcdbf65f": {
-        "title": "灵巧手：中国具身智能的“最后一厘米”",
-        "link": "https://www.tmtpost.com/7807854.html",
-        "published_date": "Sat, 13 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-13T05:22:49.623650"
-      },
-      "5b800807fa4503c1c470403d3dc1ff15098b6afb4afdd5112379aa411c7583cd": {
-        "title": "大模型\"住\"进手机，芯片的\"芯\"事重了",
-        "link": "https://www.tmtpost.com/7807617.html",
-        "published_date": "Sat, 13 Dec 2025 09:22:00 GMT",
-        "first_seen": "2025-12-13T05:22:49.623657"
-      },
-      "9e1ada9c890512cab2582178467be179cb27ff7519d0257aaa288ace799ad482": {
-        "title": "AI Concerns Deepen as Oracle Reported to Delay Datacenters Completion to 2028",
-        "link": "https://www.tmtpost.com/7807971.html",
-        "published_date": "Sat, 13 Dec 2025 09:34:00 GMT",
-        "first_seen": "2025-12-13T05:22:49.623659"
-      },
-      "57d4136779a695cd3b2552131d6fd4b32e19a186c8cb602fac9adc59137cc0b1": {
-        "title": "微软谷歌攻守易型，跌落神坛的OpenAI“亮血条”了？",
-        "link": "https://www.tmtpost.com/7807699.html",
-        "published_date": "Sat, 13 Dec 2025 08:31:00 GMT",
-        "first_seen": "2025-12-13T05:22:49.623661"
-      },
-      "d42918f7fa225c1a08caa756c7a412e5cf0e0cd07a7d2021022c09d727cb92f9": {
-        "title": "为了年销100万辆，为了对冲“含华量”稀释，余承东跟“五界”抱作一团",
-        "link": "http://www.huxiu.com/article/4816965.html?f=wangzhan",
-        "published_date": "Sat, 13 Dec 2025 11:52:00 GMT",
-        "first_seen": "2025-12-13T05:22:49.623663"
-      },
       "588e0e4a6540d622851a18883c5358de950231c470e80edcee0695d682beb2d0": {
         "title": "奥特曼抱紧迪士尼大腿，OpenAI能避免被踢下牌桌吗？",
         "link": "https://www.tmtpost.com/7807114.html",
@@ -2701,15 +2641,39 @@
         "link": "https://www.tmtpost.com/7838487.html",
         "published_date": "Sun, 11 Jan 2026 19:41:00 GMT",
         "first_seen": "2026-01-11T23:22:27.166014"
+      },
+      "074c6f572a97aee97bac332cec082f5380ffa0cd84a91392d0fb4b4529e83e97": {
+        "title": "上海国资领投，星环聚能完成10亿元A轮融资，加速可控核聚变技术商业化 | 融资动态",
+        "link": "https://www.tmtpost.com/7839027.html",
+        "published_date": "Mon, 12 Jan 2026 11:26:00 GMT",
+        "first_seen": "2026-01-12T05:32:16.881379"
+      },
+      "459a7d5b5445ffa4054d3f98370b5ea57983f85c4e91c4ff370a4f121b80724b": {
+        "title": "Next AI Breakthrough Likely to Come from Physical Systems, Not the Cloud, Says Berkeley Researcher",
+        "link": "https://www.tmtpost.com/7838942.html",
+        "published_date": "Mon, 12 Jan 2026 10:27:00 GMT",
+        "first_seen": "2026-01-12T05:32:16.881387"
+      },
+      "57af478f0e2442a754db00a43500419b8430efea7fb224da6686fc1d4a5e81ee": {
+        "title": "“机器人一次性卖完太亏！”真机智能刘智勇：今年中国本体厂商将大淘汰，拼的是世界模型",
+        "link": "https://www.infoq.cn/article/EbQ24746fmKpCj7qJmIZ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-12T05:32:16.881389"
+      },
+      "8e007e932796563a2f76556e8d2cf8224db0c57fe61a5bb50746a758a8d6f0ad": {
+        "title": "Physical AI Boom Spurs Caution Over Hype-Driven Innovations",
+        "link": "https://www.tmtpost.com/7839098.html",
+        "published_date": "Mon, 12 Jan 2026 12:52:00 GMT",
+        "first_seen": "2026-01-12T05:32:16.881390"
+      },
+      "4bea1afc6509d0f17749da6434bd6d73b1e801ca38a8bc1493b9ac76bf8c9a0d": {
+        "title": "Chinese Robotics Firms Dominate CES 2026 As Embodied AI Moves Toward Real-World Deployment",
+        "link": "https://www.tmtpost.com/7838972.html",
+        "published_date": "Mon, 12 Jan 2026 10:45:00 GMT",
+        "first_seen": "2026-01-12T05:32:16.881392"
       }
     },
     "Finance": {
-      "58975f0c116ffde4cb8c2cbd0372b5139f44117a32596b3cd0043e3f62968a13": {
-        "title": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
-        "link": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Dec 2025 23:26:00 GMT",
-        "first_seen": "2025-12-13T05:22:35.173070"
-      },
       "f14c578ff87413c6ebbfc268109d7382398ca5804492da3cb32c0a3aa8ee9f04": {
         "title": "Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support",
         "link": "https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories",
@@ -4467,6 +4431,36 @@
         "link": "https://www.ft.com/content/f844ce4a-82b3-4ca0-969c-679f9ce3018b",
         "published_date": "Sun, 11 Jan 2026 17:44:00 GMT",
         "first_seen": "2026-01-11T23:21:55.264567"
+      },
+      "29c85e121f0799a7a9eb46dc8104f7852f46c3dc867a57826851e7b4c67c19f3": {
+        "title": "Powell says criminal investigation by Trump’s Justice Department threatens Fed’s independence",
+        "link": "https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Jan 2026 02:30:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.149638"
+      },
+      "59de4c6ec57e57b2e55e9d44c65c3959af1fc2ada32a6570095de384aeae70d2": {
+        "title": "U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Jan 2026 04:02:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.149649"
+      },
+      "84d88ba8bc3a47b731a9945fe9f902e1b38b56d4ecbcb3beee685ea54d51b499": {
+        "title": "Wall Street headed for best investment banking year since pandemic",
+        "link": "https://www.ft.com/content/f3d79af1-b55a-4c86-b39a-41bf3cec77d1",
+        "published_date": "Mon, 12 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.149651"
+      },
+      "b69b5db55d22d907861c894ccf0bb2de49f97d1c45241ebae351b9b64a323d90": {
+        "title": "India needs to import more capital and export fewer workers",
+        "link": "https://www.ft.com/content/999a8dd3-a494-4bf9-892f-22446b9de73b",
+        "published_date": "Mon, 12 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.149653"
+      },
+      "e3ecbb611a25735b1efff89bd5a61f3e44b3d30faf63aa72fd7c711724b7ad81": {
+        "title": "Why investors shouldn’t panic yet about Trump’s plan to cap credit-card rates",
+        "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Jan 2026 02:04:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.149656"
       }
     },
     "Ai": {
@@ -6629,13 +6623,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-11-5",
         "published_date": "Sun, 11 Jan 2026 21:53:00 GMT",
         "first_seen": "2026-01-11T23:22:08.398757"
+      },
+      "a3b69d2e7c605d40f6eb7e9091b4f261adf4bdbf0d7e8b26b462ed039068541f": {
+        "title": "2026年，大模型训练的下半场属于「强化学习云」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-4",
+        "published_date": "Mon, 12 Jan 2026 13:24:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.289601"
+      },
+      "3458bd2150debbd4a1ff6aca2675adcba8c17a5be638e6f663204943a8058972": {
+        "title": "顶尖AI竟输给三岁宝宝，BabyVision测试暴露多模态模型硬伤",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-3",
+        "published_date": "Mon, 12 Jan 2026 13:15:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.289609"
+      },
+      "a9c45bb2ae0b239455c9f967bbbe43e4f14b2ab8845cfb659b5c7e9bfa3ad132": {
+        "title": "AAAI 2026 Oral｜快手提出全新「检索数据引擎」CroPS，打破搜索信息茧房",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-2",
+        "published_date": "Mon, 12 Jan 2026 13:07:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.289611"
+      },
+      "75c6dfecab1841a3af96700f0858bfa0984a0265a4903026c6853456ae6462da": {
+        "title": "被Jim Fan点赞！全球第一的千寻智能Spirit v1.5正式开源！",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12",
+        "published_date": "Mon, 12 Jan 2026 10:25:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.289612"
+      },
+      "b20952b31980f88e4aa338ff7f8509d45c5eb658e06e23712d7142d14cd69fad": {
+        "title": "2026-01-12日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-12/",
+        "published_date": "Mon, 12 Jan 2026 07:14:00 GMT",
+        "first_seen": "2026-01-12T05:31:56.289614"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-11T23:22:27.166016",
-    "Finance": "2026-01-11T23:21:55.264569",
-    "Ai": "2026-01-11T23:22:08.398760"
+    "Technology": "2026-01-12T05:32:16.881394",
+    "Finance": "2026-01-12T05:31:56.149658",
+    "Ai": "2026-01-12T05:31:56.289616"
   }
 }

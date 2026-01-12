@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Jan 2026 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2026 23:22:08 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 05:31:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 05:31:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>无需人工标注，轻量级模型运动理解媲美72B模型，英伟达、MIT等联合推出FoundationMotion</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-11</link>
-      <description>&lt;![CDATA[无需人工标注，轻量级模型运动理解媲美72B模型，英伟达、MIT等联合推出FoundationMotion]]&gt;</description>
-      <pubDate>Sun, 11 Jan 2026 21:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-11</guid>
+      <title>2026年，大模型训练的下半场属于「强化学习云」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-12-4</link>
+      <description>&lt;![CDATA[2026年，大模型训练的下半场属于「强化学习云」]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>挑战GRPO，英伟达提出GDPO，专攻多奖励优化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-11-4</link>
-      <description>&lt;![CDATA[挑战GRPO，英伟达提出GDPO，专攻多奖励优化]]&gt;</description>
-      <pubDate>Sun, 11 Jan 2026 21:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-11-4</guid>
+      <title>顶尖AI竟输给三岁宝宝，BabyVision测试暴露多模态模型硬伤</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-12-3</link>
+      <description>&lt;![CDATA[顶尖AI竟输给三岁宝宝，BabyVision测试暴露多模态模型硬伤]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>联邦学习不再安全？港大TPAMI新作：深挖梯度反转攻击的内幕</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-11-3</link>
-      <description>&lt;![CDATA[联邦学习不再安全？港大TPAMI新作：深挖梯度反转攻击的内幕]]&gt;</description>
-      <pubDate>Sun, 11 Jan 2026 21:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-11-3</guid>
+      <title>AAAI 2026 Oral｜快手提出全新「检索数据引擎」CroPS，打破搜索信息茧房</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-12-2</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral｜快手提出全新「检索数据引擎」CroPS，打破搜索信息茧房]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Sakana让AI互相「猎杀」，而它们开始了趋同进化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-11-6</link>
-      <description>&lt;![CDATA[Sakana让AI互相「猎杀」，而它们开始了趋同进化]]&gt;</description>
-      <pubDate>Sun, 11 Jan 2026 21:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-11-6</guid>
+      <title>被Jim Fan点赞！全球第一的千寻智能Spirit v1.5正式开源！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-12</link>
+      <description>&lt;![CDATA[被Jim Fan点赞！全球第一的千寻智能Spirit v1.5正式开源！]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不做人形、不跳舞：他家的具身智能凭什么在100+城市卖出400万杯咖啡？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-11-5</link>
-      <description>&lt;![CDATA[不做人形、不跳舞：他家的具身智能凭什么在100+城市卖出400万杯咖啡？]]&gt;</description>
-      <pubDate>Sun, 11 Jan 2026 21:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-11-5</guid>
+      <title>2026-01-12日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-12/</link>
+      <description>&lt;![CDATA[2026-01-12日刊]]&gt;</description>
+      <pubDate>Mon, 12 Jan 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-12/</guid>
       <category>Ai</category>
     </item>
   </channel>
