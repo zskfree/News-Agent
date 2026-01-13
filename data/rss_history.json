@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4bfa5fc813eb7885f58ab5f506ad49ef5a2c6cb98f86943a8211e2791b6df43f": {
-        "title": "李飞飞深度解读：为什么空间智能是通往AGI的关键技术？",
-        "link": "https://www.tmtpost.com/7808166.html",
-        "published_date": "Sat, 13 Dec 2025 19:00:00 GMT",
-        "first_seen": "2025-12-13T23:22:00.437054"
-      },
-      "d59924d3c5092ebe7d9023ff2b74ae7902d0a9114397811d4365c9f1c747a7c4": {
-        "title": "天桥脑科学研究院成立尖峰智能实验室，推动类脑大模型发展",
-        "link": "https://www.tmtpost.com/7808249.html",
-        "published_date": "Sat, 13 Dec 2025 21:31:00 GMT",
-        "first_seen": "2025-12-13T23:22:00.437062"
-      },
-      "d54dced141459e8e8dcffcc0ea60b53abc8d668e51e8d20c13f0c173cbc1ae30": {
-        "title": "90后美女主持人接任150万年薪董秘：睿智医药选对人了？",
-        "link": "https://www.tmtpost.com/7807758.html",
-        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
-        "first_seen": "2025-12-13T23:22:00.437064"
-      },
-      "571460dc157b355a8efa2a623f82f39427d74336fa409d3d1f4265088a668cad": {
-        "title": "企业AI战略规划方法论与工作清单",
-        "link": "https://www.tmtpost.com/7807959.html",
-        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
-        "first_seen": "2025-12-13T23:22:00.437066"
-      },
-      "184129efd54b046ec404354ed28cd56518cc196f2f31ca98748d594268706cd5": {
-        "title": "赢时胜实控人唐球套现过亿，不久前因信披问题被监管",
-        "link": "https://www.tmtpost.com/7808003.html",
-        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
-        "first_seen": "2025-12-13T23:22:00.437068"
-      },
-      "958af5d8929de8b2a508dfa30d14e7872e8a0dec7a04fea5d80228e0f1012370": {
-        "title": "用 AI 操作 GUI，飞猪以 GUI Agent 重塑流程自动化与交付效率 ｜AICon 北京",
-        "link": "https://www.infoq.cn/article/rV3EQM28W3HNqvrjYM8P?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-14T05:21:41.525739"
-      },
-      "c9e2191a6322e9b7b796582b6e474ecb4d8359effae089b0c43103164d34edab": {
-        "title": "【数智周报】 OpenAI发布GPT-5.2；摩尔线程：即将发布新一代GPU架构；阿里成立千问C端事业群",
-        "link": "https://www.tmtpost.com/7808021.html",
-        "published_date": "Sun, 14 Dec 2025 10:01:00 GMT",
-        "first_seen": "2025-12-14T05:21:41.525745"
-      },
-      "1e149a1ddd9b2f6db7b87f697ed03e1d109c8b618f7d7020aa025b0daf78f06a": {
-        "title": "摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App Store」",
-        "link": "http://www.geekpark.net/news/358007",
-        "published_date": "Sun, 14 Dec 2025 08:27:00 GMT",
-        "first_seen": "2025-12-14T05:21:41.525748"
-      },
-      "5e4b91774351a9af29ae060b45e8a407425d1b2c5ce85b04cc81bffa8df64650": {
-        "title": "打造人人都喜爱的支付宝，AI 驱动支付宝细分人群增长｜AICon北京",
-        "link": "https://www.infoq.cn/article/8NVadqj2SEvcYZTNDxLP?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-14T05:21:41.525750"
-      },
-      "0b0c95c89e352aa74d82637b4ddcbe513387974b6177e6a9114b969199a4398a": {
-        "title": "摩尔线程75亿理财遭口水围攻，一场被放大的“硬科技”价值之争",
-        "link": "https://www.tmtpost.com/7808316.html",
-        "published_date": "Sun, 14 Dec 2025 10:55:00 GMT",
-        "first_seen": "2025-12-14T05:21:41.525752"
-      },
       "dfeb86ea6086935944fbe77d432fbed4666407403c4322e12e0fd122dd6521a3": {
         "title": "高中毕业生带出的千亿存储巨头，拟“补血”37亿",
         "link": "https://www.tmtpost.com/7808288.html",
@@ -2701,39 +2641,39 @@
         "link": "http://www.huxiu.com/article/4824994.html?f=wangzhan",
         "published_date": "Mon, 12 Jan 2026 11:50:00 GMT",
         "first_seen": "2026-01-12T23:19:25.843652"
+      },
+      "2453081d46121a24fbc7e7863eaed39e13b735b8c3e9740fba1de5b4a220f820": {
+        "title": "刚刚，DeepSeek 突发梁文峰署名新论文：V4 新架构提前曝光？",
+        "link": "https://www.infoq.cn/article/Iz1JUWqd0FvejBXDKWk3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-13T05:28:08.492424"
+      },
+      "f80ba2c8e27704540511a59618b9c327dc6505a30bf1bfc79cb352a8cbc44e94": {
+        "title": "马斯克按下倒计时：电力是AI时代唯一的“军备”",
+        "link": "https://www.tmtpost.com/7840498.html",
+        "published_date": "Tue, 13 Jan 2026 12:57:00 GMT",
+        "first_seen": "2026-01-13T05:28:08.492431"
+      },
+      "6991f8ac9506b4c52e3aed6b20bccc27c7cf7e2d08cf23e9954149b714509972": {
+        "title": "“套壳”谷歌Gemini ，但苹果还没死心自研模型",
+        "link": "https://www.tmtpost.com/7840495.html",
+        "published_date": "Tue, 13 Jan 2026 12:53:00 GMT",
+        "first_seen": "2026-01-13T05:28:08.492433"
+      },
+      "0b5399291dee5d4364a21e4044ca76a4890bce66c2d7595c0854c98d4d39184a": {
+        "title": "文库“换脸”，搜索“换命”，百度的AI重构",
+        "link": "https://www.tmtpost.com/7840422.html",
+        "published_date": "Tue, 13 Jan 2026 13:19:00 GMT",
+        "first_seen": "2026-01-13T05:28:08.492435"
+      },
+      "c83224fe13745ea266965871aa577571a0138ba31e7b8c326f54a9be9c6fd56e": {
+        "title": "Anthropic深夜放出王炸！白领饭碗要被AI砸了？网友：不支持Linux，差评",
+        "link": "https://www.infoq.cn/article/UN16P0pugHNutuMbgrNl?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 09:30:00 GMT",
+        "first_seen": "2026-01-13T05:28:08.492436"
       }
     },
     "Finance": {
-      "f14c578ff87413c6ebbfc268109d7382398ca5804492da3cb32c0a3aa8ee9f04": {
-        "title": "Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support",
-        "link": "https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories",
-        "published_date": "Sat, 13 Dec 2025 21:08:00 GMT",
-        "first_seen": "2025-12-13T23:20:23.457429"
-      },
-      "cd680707bbbc96c229f70326ac3f0b9b8b9b6dc0ff9345254d7f37e3551904e7": {
-        "title": "Carney’s fossil fuel pivot bewilders climate experts and business leaders",
-        "link": "https://www.ft.com/content/e5a0fe37-4d36-489b-95ce-9467ed02efe8",
-        "published_date": "Sat, 13 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-13T23:20:23.457437"
-      },
-      "0fc12c349dd79de2ea53780123488dbef9d95a1b31439f3728b68042790f5461": {
-        "title": "More than 9mn US borrowers miss student loan payments as delinquencies rise",
-        "link": "https://www.ft.com/content/b6ca2ab2-2d3a-40d7-9a61-12a6fda0625d",
-        "published_date": "Sat, 13 Dec 2025 15:00:00 GMT",
-        "first_seen": "2025-12-13T23:20:23.457439"
-      },
-      "7ddb67f1c31f6b55207cf0d6f084ff411a7231aceb40517b90f92c63083dc766": {
-        "title": "More home buyers are turning to this type of mortgage in an unaffordable market — but sometimes it works against them",
-        "link": "https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories",
-        "published_date": "Sat, 13 Dec 2025 19:54:00 GMT",
-        "first_seen": "2025-12-13T23:20:23.457441"
-      },
-      "fe9a1145e26a8459a45f9b96abad147cdc527313c15668fbc3cae48389ef6f54": {
-        "title": "Belarus frees Nobel laureate after US lifts potash sanctions",
-        "link": "https://www.ft.com/content/b344814e-4725-4924-9871-b3170d74d1ef",
-        "published_date": "Sat, 13 Dec 2025 16:00:00 GMT",
-        "first_seen": "2025-12-13T23:20:23.457443"
-      },
       "dd43ad28fa753b6914fdcf76b20b769ef7a153ca5bb082c976c87268bce94a2d": {
         "title": "Hedge funds pile into commodities in search of fresh source of returns",
         "link": "https://www.ft.com/content/598c3bfc-008c-438f-837c-f7ec73a993f6",
@@ -4533,69 +4473,39 @@
         "link": "https://www.ft.com/content/c266f78d-1b53-4aa5-99ff-1726a5126a23",
         "published_date": "Mon, 12 Jan 2026 22:07:00 GMT",
         "first_seen": "2026-01-12T23:19:03.944288"
+      },
+      "089167d5672ba25380a0d604d86fd6fc0655d3e282b2e029ce7303122cddb807": {
+        "title": "Top Republicans denounce justice department’s criminal probe into Fed chair",
+        "link": "https://www.ft.com/content/0af6d453-84dc-46bc-90b6-711242adde73",
+        "published_date": "Mon, 12 Jan 2026 23:33:00 GMT",
+        "first_seen": "2026-01-13T05:27:33.813561"
+      },
+      "77f3b276166fddbd3a498461b03ed0772db10cb8bfa77ac356815dac3148c97f": {
+        "title": "UBS boss Sergio Ermotti plans to step down in April 2027",
+        "link": "https://www.ft.com/content/0b6e4687-0804-448c-a7c4-155bc6005136",
+        "published_date": "Tue, 13 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-13T05:27:33.813574"
+      },
+      "af6ef58a19defd00d420708b22a1e040e1724915af7c6c5f4e333f69b87b530a": {
+        "title": "Microsoft warns that China is winning AI race outside the west",
+        "link": "https://www.ft.com/content/f7a5b184-1fef-4f02-b957-4c2b07adf91f",
+        "published_date": "Tue, 13 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-13T05:27:33.813577"
+      },
+      "e15430b0c7a174b57748c7f92173601ed9377d5990f01e2ef2f211df23e4a998": {
+        "title": "UK retail spending rose at lowest pace for 7 months in December",
+        "link": "https://www.ft.com/content/345ed80b-5960-4d4e-83a8-4a5c7a4ecde4",
+        "published_date": "Tue, 13 Jan 2026 00:01:00 GMT",
+        "first_seen": "2026-01-13T05:27:33.813579"
+      },
+      "6c95021b30d6eb66008f5c596c7337df16c95e32b6b9ffe513d570c6f97084f2": {
+        "title": "California’s billionaire tax plan will backfire",
+        "link": "https://www.ft.com/content/122f71b9-bf0f-47c3-a46d-827740d4ce73",
+        "published_date": "Tue, 13 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-13T05:27:33.813581"
       }
     },
     "Ai": {
-      "41852f31d1f8272781c32d19ff610256090afd654a398bc71df0945391fde26d": {
-        "title": "2025-12-14日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-14/",
-        "published_date": "Sun, 14 Dec 2025 07:13:00 GMT",
-        "first_seen": "2025-12-13T23:21:12.003713"
-      },
-      "3de7555536479c8093880f8c0ef4e4649d3dbd9ba43f5aad2050386283af4fff": {
-        "title": "ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-7",
-        "published_date": "Sun, 14 Dec 2025 00:32:00 GMT",
-        "first_seen": "2025-12-13T23:21:12.003723"
-      },
-      "be70d191a610e6bc6011cbcb49e2609c0b2821c40df2a5b1c687a3d4e9f13e80": {
-        "title": "NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-6",
-        "published_date": "Sun, 14 Dec 2025 00:28:00 GMT",
-        "first_seen": "2025-12-13T23:21:12.003726"
-      },
-      "42bac523095597494b1376489e9466eb0623ff667106cb1dfd54032c84829255": {
-        "title": "GPT-5.2已上线24小时：差评如潮！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-5",
-        "published_date": "Sun, 14 Dec 2025 00:23:00 GMT",
-        "first_seen": "2025-12-13T23:21:12.003728"
-      },
-      "4f31cf19c89bb96b826cb39e0767f59d3462895d05df178d2b7a495e9ac1b98b": {
-        "title": "谢赛宁REPA得到大幅改进，只需不到4行代码",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-4",
-        "published_date": "Sun, 14 Dec 2025 00:16:00 GMT",
-        "first_seen": "2025-12-13T23:21:12.003729"
-      },
-      "6bcf45940160061eb9521f1773254e62469a35a994e9e7d5dfc7ad22b44b86da": {
-        "title": "为Token付费是一件很愚蠢的事情，用户应该为智能付费丨RockAI刘凡平@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360724.html",
-        "published_date": "Sun, 14 Dec 2025 03:41:00 GMT",
-        "first_seen": "2025-12-14T05:21:22.985716"
-      },
-      "f3f667d8e2463fcc923ec5f32536c7c667591d675233d91cac60aecde8384470": {
-        "title": "太初元碁乔梁：AI算法已经跑到单芯片极限｜MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360603.html",
-        "published_date": "Sun, 14 Dec 2025 03:39:00 GMT",
-        "first_seen": "2025-12-14T05:21:22.985724"
-      },
-      "ed55249a661cc9ce36fe65f3994f03badfa731a398aff559c67c705b6873c1dd": {
-        "title": "AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-3",
-        "published_date": "Sun, 14 Dec 2025 00:11:00 GMT",
-        "first_seen": "2025-12-14T05:21:22.985727"
-      },
-      "2829bf008dde3c4b2b5d59b5c8653081510d02768c66dd8710eab1a9a4807056": {
-        "title": "苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-2",
-        "published_date": "Sun, 14 Dec 2025 00:07:00 GMT",
-        "first_seen": "2025-12-14T05:21:22.985729"
-      },
-      "72c8b69d8bcdb7d79e61806da5155f0773eb53ab390c678ccf568603f691b432": {
-        "title": "告别「盲目自信」，CCD：扩散语言模型推理新SOTA",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14",
-        "published_date": "Sun, 14 Dec 2025 00:03:00 GMT",
-        "first_seen": "2025-12-14T05:21:22.985730"
-      },
       "21169da2e516c054f6d44c88e73657fe132a876f954cc51174892292c553023a": {
         "title": "OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE",
         "link": "https://www.qbitai.com/2025/12/360864.html",
@@ -6773,13 +6683,43 @@
         "link": "https://www.qbitai.com/2026/01/369227.html",
         "published_date": "Mon, 12 Jan 2026 09:09:00 GMT",
         "first_seen": "2026-01-12T23:19:04.090825"
+      },
+      "d878a23b5ec1070641b1d90f748dd797c760edc14405727894ddb427b0ee33bf": {
+        "title": "华为推出软工代码智能体SWE-Lego，解锁SFT训练极致性能",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-4",
+        "published_date": "Tue, 13 Jan 2026 12:30:00 GMT",
+        "first_seen": "2026-01-13T05:27:44.163108"
+      },
+      "e38e4642b035c5d23dce6fe03eef0ea0226313d9041cb7c1f34d3699ff2c93fc": {
+        "title": "美团龙猫LongCat技术升级！新注意力机制解码速度快10倍，还能处理1M超长文本",
+        "link": "https://www.qbitai.com/2026/01/369244.html",
+        "published_date": "Tue, 13 Jan 2026 04:30:00 GMT",
+        "first_seen": "2026-01-13T05:27:44.163115"
+      },
+      "f2a191691ef946b55cb4aa3bac536f3b9ab6dc1cf14238e79526a5a27d3e7b43": {
+        "title": "刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-2",
+        "published_date": "Tue, 13 Jan 2026 10:18:00 GMT",
+        "first_seen": "2026-01-13T05:27:44.163118"
+      },
+      "849087779ee675ad0de3e215e1cb184eb5a08f9525489cbf8868bf4e72914a02": {
+        "title": "一个模型统一4D世界生成与重建，港科大One4D框架来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13",
+        "published_date": "Tue, 13 Jan 2026 10:10:00 GMT",
+        "first_seen": "2026-01-13T05:27:44.163120"
+      },
+      "c583b0509301c87bfce3b3c0f993f1590acfbfdb1f4fdcfdc62faf11033a64b8": {
+        "title": "不上云、不租卡，如何优雅地在本地微调Qwen-VL-30B？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-6",
+        "published_date": "Tue, 13 Jan 2026 12:39:00 GMT",
+        "first_seen": "2026-01-13T05:27:44.163121"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-12T23:19:25.843653",
-    "Finance": "2026-01-12T23:19:03.944291",
-    "Ai": "2026-01-12T23:19:04.090827"
+    "Technology": "2026-01-13T05:28:08.492438",
+    "Finance": "2026-01-13T05:27:33.813583",
+    "Ai": "2026-01-13T05:27:44.163124"
   }
 }

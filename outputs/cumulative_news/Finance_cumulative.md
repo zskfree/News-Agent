@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-12 23:18
+**最后更新时间**: 2026-01-13 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-13 05:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UBS boss Sergio Ermotti plans to step down in April 2027](https://www.ft.com/content/0b6e4687-0804-448c-a7c4-155bc6005136)
+**发布时间**: 2026-01-13 05:00
+
+#### [California’s billionaire tax plan will backfire](https://www.ft.com/content/122f71b9-bf0f-47c3-a46d-827740d4ce73)
+**发布时间**: 2026-01-13 05:00
+
+#### [When robots meet commercial reality](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)
+**发布时间**: 2026-01-13 05:00
+
+#### [Microsoft warns that China is winning AI race outside the west](https://www.ft.com/content/f7a5b184-1fef-4f02-b957-4c2b07adf91f)
+**发布时间**: 2026-01-13 05:00
+
+#### [UK retail spending rose at lowest pace for 7 months in December](https://www.ft.com/content/345ed80b-5960-4d4e-83a8-4a5c7a4ecde4)
+**发布时间**: 2026-01-13 00:01
+
+#### [Top Republicans denounce justice department’s criminal probe into Fed chair](https://www.ft.com/content/0af6d453-84dc-46bc-90b6-711242adde73)
+**发布时间**: 2026-01-12 23:33
+
+#### [Starmer and Reeves talk up the UK’s economic prospects ahead of Davos](https://www.ft.com/content/6cead6f9-88cd-4d7f-a3ae-006eb4ae8194)
+**发布时间**: 2026-01-12 23:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Show us the math: Paramount sues Warner Bros. over how it determined Netflix’s bid is better](https://www.marketwatch.com/story/show-us-the-math-paramount-sues-warner-bros-over-how-it-determined-netflixs-bid-is-better-a023e3d5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 23:36
+
+#### [Could Apple’s Gemini deal be the catalyst the stock needs?](https://www.marketwatch.com/story/could-apples-gemini-deal-be-the-catalyst-the-stock-needs-b3cbc2af?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 23:33
 
 ---
 

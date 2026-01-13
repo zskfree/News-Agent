@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 12 Jan 2026 23:18:00 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2026 23:19:04 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:27:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-01-13日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-13/</link>
-      <description>&lt;![CDATA[2026-01-13日刊]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 07:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-13/</guid>
+      <title>华为推出软工代码智能体SWE-Lego，解锁SFT训练极致性能</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-4</link>
+      <description>&lt;![CDATA[华为推出软工代码智能体SWE-Lego，解锁SFT训练极致性能]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NeuralGCM harnesses AI to better simulate long-range global precipitation</title>
-      <link>https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/</link>
-      <description>&lt;![CDATA[NeuralGCM harnesses AI to better simulate long-range global precipitation]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/</guid>
+      <title>美团龙猫LongCat技术升级！新注意力机制解码速度快10倍，还能处理1M超长文本</title>
+      <link>https://www.qbitai.com/2026/01/369244.html</link>
+      <description>&lt;![CDATA[美团龙猫LongCat技术升级！新注意力机制解码速度快10倍，还能处理1M超长文本]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 04:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369244.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>端到端智驾的算力困局，九章智算云这样破局</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-12-8</link>
-      <description>&lt;![CDATA[端到端智驾的算力困局，九章智算云这样破局]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-12-8</guid>
+      <title>刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-2</link>
+      <description>&lt;![CDATA[刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>和闫俊杰一起敲钟的她：31岁，身价48亿</title>
-      <link>https://www.qbitai.com/2026/01/369227.html</link>
-      <description>&lt;![CDATA[和闫俊杰一起敲钟的她：31岁，身价48亿]]&gt;</description>
-      <pubDate>Mon, 12 Jan 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369227.html</guid>
+      <title>一个模型统一4D世界生成与重建，港科大One4D框架来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13</link>
+      <description>&lt;![CDATA[一个模型统一4D世界生成与重建，港科大One4D框架来了]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不上云、不租卡，如何优雅地在本地微调Qwen-VL-30B？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-6</link>
+      <description>&lt;![CDATA[不上云、不租卡，如何优雅地在本地微调Qwen-VL-30B？]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 12:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-6</guid>
       <category>Ai</category>
     </item>
   </channel>

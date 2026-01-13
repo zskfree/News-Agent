@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-12 23:18
+**最后更新时间**: 2026-01-13 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-13 05:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [文库“换脸”，搜索“换命”，百度的AI重构](https://www.tmtpost.com/7840422.html)
+**发布时间**: 2026-01-13 13:19
+
+#### [2026开年剧战打响：长视频“神仙打架”，短视频“虎口夺食”](https://www.tmtpost.com/7840471.html)
+**发布时间**: 2026-01-13 13:12
+
+#### [26年全球电动车销量增速要放缓？电动车真不好卖了？](https://www.tmtpost.com/7840468.html)
+**发布时间**: 2026-01-13 13:07
+
+#### [成都的这群游戏人，真拿友商当挚友啊](https://www.tmtpost.com/7840054.html)
+**发布时间**: 2026-01-13 13:07
+
+#### [山姆也学会了“砍一刀”](https://www.tmtpost.com/7840327.html)
+**发布时间**: 2026-01-13 13:06
+
+#### [60GWh订单缩水99%？鹏程无限遭遇海希通讯澄清，百亿订单蒸发](https://www.tmtpost.com/7840381.html)
+**发布时间**: 2026-01-13 13:06
+
+#### [在影城里卖椰子水，真的是门好生意吗？](https://www.tmtpost.com/7840441.html)
+**发布时间**: 2026-01-13 12:57
+
+#### [马斯克按下倒计时：电力是AI时代唯一的“军备”](https://www.tmtpost.com/7840498.html)
+**发布时间**: 2026-01-13 12:57
+
+#### [“套壳”谷歌Gemini ，但苹果还没死心自研模型](https://www.tmtpost.com/7840495.html)
+**发布时间**: 2026-01-13 12:53
+
+#### [长租公寓都要变成保租房了吗？](https://www.tmtpost.com/7840492.html)
+**发布时间**: 2026-01-13 12:52
+
+#### [宜家没变，是中国变了](https://www.tmtpost.com/7840278.html)
+**发布时间**: 2026-01-13 11:28
+
+#### [CXO、消费医疗大崩盘：这三年医疗行业发生了什么？](https://www.tmtpost.com/7840330.html)
+**发布时间**: 2026-01-13 11:18
+
+#### [一家年入千万的COMMUNE门店，还不如奶茶店赚钱？](https://www.tmtpost.com/7840256.html)
+**发布时间**: 2026-01-13 11:17
+
+#### [大米先生进京，北京快餐迎来终局之战？](https://www.tmtpost.com/7840269.html)
+**发布时间**: 2026-01-13 11:10
+
+#### [分析师称康卡斯特资产“被严重低估”，建议买入该股](https://www.tmtpost.com/7840411.html)
+**发布时间**: 2026-01-13 11:04
+
+#### [为什么这家医疗器械公司今天成为标普500指数中的领涨股](https://www.tmtpost.com/7840409.html)
+**发布时间**: 2026-01-13 11:04
+
+#### [Gap、Fortinet等股票在财报发布后通常跑赢大盘](https://www.tmtpost.com/7840406.html)
+**发布时间**: 2026-01-13 11:04
+
+#### [乳腺癌赛道逼近决赛圈，恒瑞、荣昌、乐普、映恩、科伦博泰、百利天恒，谁将胜出？](https://www.tmtpost.com/7840215.html)
+**发布时间**: 2026-01-13 11:04
+
+#### [随着新型口服减肥药的上市，预计今年减肥药市场将异常火爆](https://www.tmtpost.com/7840404.html)
+**发布时间**: 2026-01-13 11:03
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [媒体密集报道南天门计划，是科幻要照进现实了吗？](http://www.huxiu.com/article/4825338.html?f=wangzhan)
+**发布时间**: 2026-01-13 11:03
+
+#### [韩系车居然增长：是反弹，还是“缓刑”？](http://www.huxiu.com/article/4825642.html?f=wangzhan)
+**发布时间**: 2026-01-13 10:42
+
+#### [每年数万亿美金？这个链上新范式你不该错过](http://www.huxiu.com/article/4825619.html?f=wangzhan)
+**发布时间**: 2026-01-13 10:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
+**发布时间**: 2026-01-13 11:00
+
+#### [派早报：Google 公布 UCP 通用商务协议等](https://sspai.com/post/105403)
+**发布时间**: 2026-01-13 08:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TanStack发布框架无关的AI工具包](https://www.infoq.cn/article/EkxQ9xOiKV5JpjtVyr3a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-13 10:40
+
+#### [Anthropic深夜放出王炸！白领饭碗要被AI砸了？网友：不支持Linux，差评](https://www.infoq.cn/article/UN16P0pugHNutuMbgrNl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-13 09:30
+
+#### [活久见！连Linux之父等“顽固派”大佬，都在用AI编程了](https://www.infoq.cn/article/HXqI9KgBQDfh6QjG3E4j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-13 09:16
+
+#### [刚刚，DeepSeek 突发梁文峰署名新论文：V4 新架构提前曝光？](https://www.infoq.cn/article/Iz1JUWqd0FvejBXDKWk3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-13 08:00
 
 ---
 
