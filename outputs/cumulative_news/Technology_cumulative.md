@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-13 05:27
+**最后更新时间**: 2026-01-13 08:34
+
+---
+
+## 🆕 最新更新 (2026-01-13 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄仁勋的Agentic AI，闯入全球市值最高药厂](https://www.tmtpost.com/7840454.html)
+**发布时间**: 2026-01-13 15:42
+
+#### [星空计划亮相 2026 CES，试图押注超豪华新能源赛道](https://www.tmtpost.com/7840692.html)
+**发布时间**: 2026-01-13 15:40
+
+#### [联讯仪器：盈利质量不佳叠加股权乱象，高募资合理性遭拷问｜IPO观察](https://www.tmtpost.com/7839370.html)
+**发布时间**: 2026-01-13 15:15
+
+#### [年入40亿、复购率70%，中国“平替王”悄悄席卷全国](https://www.tmtpost.com/7840719.html)
+**发布时间**: 2026-01-13 15:04
+
+#### [Matrix Robotics Unveils MATRIX-3, Next-Generation Humanoid Robot with Advanced Physical AI](https://www.tmtpost.com/7840778.html)
+**发布时间**: 2026-01-13 15:03
+
+#### [蔡浩宇赴硅谷二次创业：打造下一个400亿平台？](https://www.tmtpost.com/7832642.html)
+**发布时间**: 2026-01-13 15:02
+
+#### [00后天才辍学创业，AI宠物有人买单吗？](https://www.tmtpost.com/7839034.html)
+**发布时间**: 2026-01-13 14:57
+
+#### [吴恩达最新研判：算力封锁？中国模型抢占17%份额，开源AI完成“反向突围”？](https://www.tmtpost.com/7840637.html)
+**发布时间**: 2026-01-13 14:57
+
+#### [苹果与谷歌驶入AI深水区](https://www.tmtpost.com/7840674.html)
+**发布时间**: 2026-01-13 14:56
+
+#### [2026，大家都是木头姐](https://www.tmtpost.com/7840629.html)
+**发布时间**: 2026-01-13 14:53
+
+#### [Anthropic筑墙，DeepSeek修路](https://www.tmtpost.com/7840693.html)
+**发布时间**: 2026-01-13 14:51
+
+#### [牛市来了，AI或可当你的理财搭子](https://www.tmtpost.com/7840677.html)
+**发布时间**: 2026-01-13 14:07
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 2 个 Skills 开源项目，最近在 GitHub 上火了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530589&idx=1&sn=c0c1fb00a767608cd80c62e5c641f08c)
+**发布时间**: 2026-01-13 15:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Typeless：语音输入法新物种，开启 AI 信息记录新时代](https://sspai.com/post/105358)
+**发布时间**: 2026-01-13 15:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Code创建者的开发工作流程](https://www.infoq.cn/article/4VI90fSOKGG8DrpQrD37?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-13 15:03
+
+#### [亚马逊云科技推出VPC加密控制，在传输过程中实施强制加密](https://www.infoq.cn/article/Wrhj4dCb7ARmzcKkdgcM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-13 14:11
 
 ---
 

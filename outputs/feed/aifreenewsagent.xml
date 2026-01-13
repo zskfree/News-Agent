@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Jan 2026 05:27:44 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:34:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为推出软工代码智能体SWE-Lego，解锁SFT训练极致性能</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13-4</link>
-      <description>&lt;![CDATA[华为推出软工代码智能体SWE-Lego，解锁SFT训练极致性能]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-4</guid>
+      <title>无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-7</link>
+      <description>&lt;![CDATA[无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团龙猫LongCat技术升级！新注意力机制解码速度快10倍，还能处理1M超长文本</title>
-      <link>https://www.qbitai.com/2026/01/369244.html</link>
-      <description>&lt;![CDATA[美团龙猫LongCat技术升级！新注意力机制解码速度快10倍，还能处理1M超长文本]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 04:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369244.html</guid>
+      <title>AI太记仇！做完心理治疗后仍记得「被工程师虐待」</title>
+      <link>https://www.qbitai.com/2026/01/369273.html</link>
+      <description>&lt;![CDATA[AI太记仇！做完心理治疗后仍记得「被工程师虐待」]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 07:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369273.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13-2</link>
-      <description>&lt;![CDATA[刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-2</guid>
+      <title>OpenAI的首款硬件：是AI耳机，今年销量要冲5000万</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-5</link>
+      <description>&lt;![CDATA[OpenAI的首款硬件：是AI耳机，今年销量要冲5000万]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 12:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一个模型统一4D世界生成与重建，港科大One4D框架来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13</link>
-      <description>&lt;![CDATA[一个模型统一4D世界生成与重建，港科大One4D框架来了]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>不上云、不租卡，如何优雅地在本地微调Qwen-VL-30B？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13-6</link>
-      <description>&lt;![CDATA[不上云、不租卡，如何优雅地在本地微调Qwen-VL-30B？]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 12:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-6</guid>
+      <title>大模型中标TOP10里的黑马：中关村科金的应用攻坚之道</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-3</link>
+      <description>&lt;![CDATA[大模型中标TOP10里的黑马：中关村科金的应用攻坚之道]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-3</guid>
       <category>Ai</category>
     </item>
   </channel>
