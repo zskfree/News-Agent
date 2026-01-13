@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-13 08:34
+**最后更新时间**: 2026-01-13 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-13 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [From coffee to electricity, latest CPI report shows where inflation is hitting the middle class the most](https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 23:18
+
+#### [Netflix reportedly looking to solidify its bid for Warner Bros. with all-cash offer](https://www.marketwatch.com/story/netflix-reportedly-looking-to-solidify-its-bid-for-warner-bros-with-all-cash-offer-2e9cd864?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 22:32
+
+#### [The airplane orders keep coming, and Boeing’s stock climbs to a two-year high](https://www.marketwatch.com/story/the-airplane-orders-keep-coming-and-boeings-stock-climbs-to-a-two-year-high-d6ca170a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 22:14
+
+#### [Why Visa and Mastercard are seeing their sharpest stock drops in half a year](https://www.marketwatch.com/story/why-visa-and-mastercard-are-seeing-their-sharpest-stock-drops-in-half-a-year-69fc0c5b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 22:10
+
+#### [Exxon Mobil’s stock hits a new high. Its CEO’s call on Venezuela may be helping.](https://www.marketwatch.com/story/exxon-mobils-stock-hits-a-new-high-its-ceos-call-on-venezuela-may-be-helping-5a8d9810?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 22:01
+
+#### [The stock market’s ‘sugar high’ is starting to fade. Why investors could see a slow grind higher from here.](https://www.marketwatch.com/story/the-stock-markets-sugar-high-is-starting-to-fade-why-investors-could-see-a-slow-grind-higher-from-here-babfc923?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 22:00
+
+#### [The Fed’s failures set the stage for the Trump-Powell turmoil. Here’s one solution.](https://www.marketwatch.com/story/how-trumps-attacks-on-powell-and-the-fed-could-actually-bring-more-inflation-16e1e839?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 21:58
+
+#### [‘We are Jerome Powell’: In rare show of unity, Republicans, Democrats, Wall Streeters and TikTok-ers are backing the Fed chair](https://www.marketwatch.com/story/we-are-jerome-powell-in-rare-show-of-unity-republicans-democrats-wall-streeters-and-tiktok-ers-are-backing-the-fed-chair-953087f5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 21:53
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Dimon warns Trump administration’s attacks on Fed could boost inflation](https://www.ft.com/content/ad823724-822f-4e8c-91fd-01c4e6ca7581)
+**发布时间**: 2026-01-13 22:41
+
+#### [Netflix preparing all-cash deal for Warner Bros to fend off Paramount](https://www.ft.com/content/86b66ead-3020-4757-9106-55d216c5a455)
+**发布时间**: 2026-01-13 22:40
+
+#### [Trump says ‘help is on its way’ for Iranian protesters](https://www.ft.com/content/9147dadb-50ad-4778-ac01-9de859074879)
+**发布时间**: 2026-01-13 22:38
+
+#### [Powell sent senators details on $2.5bn Fed project following testimony](https://www.ft.com/content/1df72693-a510-4bcf-80ba-318e085bc2e6)
+**发布时间**: 2026-01-13 21:48
+
+#### [Starmer set to drop plans to make digital ID mandatory for UK workers](https://www.ft.com/content/16218706-2277-4f44-9b7d-645500bbebb8)
+**发布时间**: 2026-01-13 20:08
+
+#### [Clintons refuse to testify to oversight committee investigating Jeffrey Epstein](https://www.ft.com/content/2870291f-f676-4229-b5dc-5463d811bed8)
+**发布时间**: 2026-01-13 18:45
+
+#### [Dispatch from Tehran: the week Iranians revolted against the regime](https://www.ft.com/content/fdc307b3-bc9e-402d-b675-533d8f74db4d)
+**发布时间**: 2026-01-13 18:40
+
+#### [Curbing sexual deepfakes is a moral imperative](https://www.ft.com/content/b6816b03-6a63-4a11-ac8c-44504be1f093)
+**发布时间**: 2026-01-13 18:39
+
+#### [Starmer under pressure amid growing talk of leadership challenge](https://www.ft.com/content/ac5d8e89-0b6a-4cca-9cee-794f469aac9a)
+**发布时间**: 2026-01-13 16:27
+
+#### [Economic pressure could hurt Iran more than a military strike](https://www.ft.com/content/8bd4266f-aa87-4845-a728-de954d36c5df)
+**发布时间**: 2026-01-13 14:53
+
+#### [How to de-risk from America](https://www.ft.com/content/331ec18b-9960-4954-8728-f2ff5bb5ee7b)
+**发布时间**: 2026-01-13 11:57
+
+#### [What are Trump’s options in Iran?](https://www.ft.com/content/6979289f-701e-4159-bd3c-d5a01cc18ed3)
+**发布时间**: 2026-01-13 10:16
 
 ---
 

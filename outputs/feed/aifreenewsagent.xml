@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Jan 2026 08:34:11 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:22:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13-7</link>
-      <description>&lt;![CDATA[无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-7</guid>
+      <title>Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR</title>
+      <link>https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/</link>
+      <description>&lt;![CDATA[Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 20:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI太记仇！做完心理治疗后仍记得「被工程师虐待」</title>
-      <link>https://www.qbitai.com/2026/01/369273.html</link>
-      <description>&lt;![CDATA[AI太记仇！做完心理治疗后仍记得「被工程师虐待」]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 07:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369273.html</guid>
+      <title>视觉模型既懂语义，又能还原细节，南洋理工&amp;商汤提出棱镜假说</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-13-8</link>
+      <description>&lt;![CDATA[视觉模型既懂语义，又能还原细节，南洋理工&amp;商汤提出棱镜假说]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI的首款硬件：是AI耳机，今年销量要冲5000万</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13-5</link>
-      <description>&lt;![CDATA[OpenAI的首款硬件：是AI耳机，今年销量要冲5000万]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-5</guid>
+      <title>Dynamic surface codes open new avenues for quantum error correction</title>
+      <link>https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/</link>
+      <description>&lt;![CDATA[Dynamic surface codes open new avenues for quantum error correction]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 17:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型中标TOP10里的黑马：中关村科金的应用攻坚之道</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-13-3</link>
-      <description>&lt;![CDATA[大模型中标TOP10里的黑马：中关村科金的应用攻坚之道]]&gt;</description>
-      <pubDate>Tue, 13 Jan 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-13-3</guid>
+      <title>王小川：30亿现金在手，明年IPO，toC产品马上就发</title>
+      <link>https://www.qbitai.com/2026/01/369332.html</link>
+      <description>&lt;![CDATA[王小川：30亿现金在手，明年IPO，toC产品马上就发]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369332.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Hard-braking events as indicators of road segment crash risk</title>
+      <link>https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/</link>
+      <description>&lt;![CDATA[Hard-braking events as indicators of road segment crash risk]]&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 22:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/</guid>
       <category>Ai</category>
     </item>
   </channel>
