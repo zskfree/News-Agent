@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 14 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2026 08:34:27 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 23:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 23:20:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>关于2026年科技行业的12个关键问答：AI、自动驾驶、机器人、世界模型、美股......</title>
-      <link>https://www.tmtpost.com/7842437.html</link>
-      <description>&lt;![CDATA[关于2026年科技行业的12个关键问答：AI、自动驾驶、机器人、世界模型、美股......]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7842437.html</guid>
+      <title>“Gemini 3 不错，但我们也快发了”：Mark Chen 评价谷歌大模型，讲清 OpenAI 如何给 300 个项目排 GPU 优先级</title>
+      <link>https://www.infoq.cn/article/27qcglz0p9bX17etWNQg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“Gemini 3 不错，但我们也快发了”：Mark Chen 评价谷歌大模型，讲清 OpenAI 如何给 300 个项目排 GPU 优先级]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/27qcglz0p9bX17etWNQg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>速度与成本的双重考验，AI算力“大考”已至丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7842451.html</link>
-      <description>&lt;![CDATA[速度与成本的双重考验，AI算力“大考”已至丨ToB产业观察]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 13:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7842451.html</guid>
+      <title>H200批准对华出口，2026年GPU还扛得住吗？</title>
+      <link>https://www.tmtpost.com/7843199.html</link>
+      <description>&lt;![CDATA[H200批准对华出口，2026年GPU还扛得住吗？]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7843199.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>PixVerse Releases World's First Real-Time World Model for Interactive Video</title>
-      <link>https://www.tmtpost.com/7842608.html</link>
-      <description>&lt;![CDATA[PixVerse Releases World's First Real-Time World Model for Interactive Video]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7842608.html</guid>
+      <title>Zed 为什么不用自己造 Agent？OpenAI 架构师给出答案：Codex 重划 IDE × Coding Agent 的分工边界</title>
+      <link>https://www.infoq.cn/article/HFewc09HcZ1IaDyFj8D0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Zed 为什么不用自己造 Agent？OpenAI 架构师给出答案：Codex 重划 IDE × Coding Agent 的分工边界]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HFewc09HcZ1IaDyFj8D0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>张文宏医生拒绝把AI接入病历系统：他真正担心的是什么？</title>
-      <link>https://www.tmtpost.com/7842474.html</link>
-      <description>&lt;![CDATA[张文宏医生拒绝把AI接入病历系统：他真正担心的是什么？]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7842474.html</guid>
+      <title>AI来了，搜索怎么办？</title>
+      <link>https://www.tmtpost.com/7843231.html</link>
+      <description>&lt;![CDATA[AI来了，搜索怎么办？]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 19:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7843231.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱和MiniMax，大模型的两种“活法”</title>
-      <link>https://www.tmtpost.com/7842002.html</link>
-      <description>&lt;![CDATA[智谱和MiniMax，大模型的两种“活法”]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7842002.html</guid>
+      <title>一块布，卡了英伟达的脖子？</title>
+      <link>https://www.tmtpost.com/7842377.html</link>
+      <description>&lt;![CDATA[一块布，卡了英伟达的脖子？]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7842377.html</guid>
       <category>Technology</category>
     </item>
   </channel>

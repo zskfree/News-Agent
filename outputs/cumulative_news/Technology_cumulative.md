@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-14 08:33
+**最后更新时间**: 2026-01-14 23:19
+
+---
+
+## 🆕 最新更新 (2026-01-14 23:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [宝能姚振华实名举报，观致汽车资产处置程序引争议](https://www.tmtpost.com/7842923.html)
+**发布时间**: 2026-01-14 23:50
+
+#### [手握25亿现金仍八折定增，山东药玻为何急邀国药当“家长”？](https://www.tmtpost.com/7843538.html)
+**发布时间**: 2026-01-14 23:09
+
+#### [MM艺术品价格指数发布：透视全球艺术市场新动向](https://www.tmtpost.com/7843499.html)
+**发布时间**: 2026-01-14 21:55
+
+#### [迪桑特 2025 年营收破百亿 安踏“二代”走向舞台中央](https://www.tmtpost.com/7843451.html)
+**发布时间**: 2026-01-14 21:13
+
+#### [价值判断：跌停板的投资机会和风险提示（1月13日）｜证券市场观察](https://www.tmtpost.com/7843406.html)
+**发布时间**: 2026-01-14 20:30
+
+#### [价值判断：涨停板的投资机会和风险提示（1月13日）｜证券市场观察](https://www.tmtpost.com/7843400.html)
+**发布时间**: 2026-01-14 20:30
+
+#### [7330万买“兄弟公司”32套房，400亿电缆龙头否认利益输送](https://www.tmtpost.com/7841560.html)
+**发布时间**: 2026-01-14 19:12
+
+#### [中国数字健康的“半壁江山”，背后都站着百度旧部](https://www.tmtpost.com/7842042.html)
+**发布时间**: 2026-01-14 19:11
+
+#### [AI来了，搜索怎么办？](https://www.tmtpost.com/7843231.html)
+**发布时间**: 2026-01-14 19:09
+
+#### [金粒门的鲜食赌局：在长沙样本中读懂中国消费的烟火与博弈](https://www.tmtpost.com/7843203.html)
+**发布时间**: 2026-01-14 19:09
+
+#### [佑驾创新打出“组合拳”，能否修复市场信心？](https://www.tmtpost.com/7842995.html)
+**发布时间**: 2026-01-14 19:03
+
+#### [2.9亿吞下吉利系两资产，曹操出行回避了正面战场？](https://www.tmtpost.com/7843225.html)
+**发布时间**: 2026-01-14 19:03
+
+#### [L3自动驾驶已来：别跟我说那些参数，我只需要“背锅侠”](https://www.tmtpost.com/7843212.html)
+**发布时间**: 2026-01-14 18:59
+
+#### [苹果输掉了AI战争？](https://www.tmtpost.com/7843163.html)
+**发布时间**: 2026-01-14 18:58
+
+#### [H200批准对华出口，2026年GPU还扛得住吗？](https://www.tmtpost.com/7843199.html)
+**发布时间**: 2026-01-14 18:58
+
+#### [14.55亿元货币资金撬动212亿元采购大单，二级市场为何相信协创数据](https://www.tmtpost.com/7843174.html)
+**发布时间**: 2026-01-14 18:58
+
+#### [Meta一边挥刀赶走老白兔，一边改绩效发甜枣](https://www.tmtpost.com/7843214.html)
+**发布时间**: 2026-01-14 18:58
+
+#### [谁能“撬动”零负债人群主动消费？](https://www.tmtpost.com/7842922.html)
+**发布时间**: 2026-01-14 17:48
+
+#### [《骄阳似我》为何难逃“真假爆款”之争？](https://www.tmtpost.com/7842927.html)
+**发布时间**: 2026-01-14 17:45
+
+#### [专访虎鲸文娱：豆瓣8.8，这群影视技术"基建狂魔"，做了部国产第一](https://www.tmtpost.com/7842662.html)
+**发布时间**: 2026-01-14 17:45
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [十问2026中国电影](http://www.huxiu.com/article/4826481.html?f=wangzhan)
+**发布时间**: 2026-01-14 22:00
+
+#### [十分钟，搞懂特朗普和美联储的爱恨情仇](http://www.huxiu.com/article/4826348.html?f=wangzhan)
+**发布时间**: 2026-01-14 18:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Data+AI 新年特辑：2025 的顿悟时刻与 2026 的关键十问 | Q推荐](https://www.infoq.cn/article/1BEPfVWpbdDcstYINmuH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 18:49
+
+#### [辣评 AI编程工具： 是它们不行， 还是你不会玩？｜InfoQ 2025 年度盘点与趋势洞察](https://www.infoq.cn/video/3D6DTWZOjd1hoHh0xqMD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 17:16
+
+#### [Zed 为什么不用自己造 Agent？OpenAI 架构师给出答案：Codex 重划 IDE × Coding Agent 的分工边界](https://www.infoq.cn/article/HFewc09HcZ1IaDyFj8D0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 16:56
+
+#### [不到百万级，看不见 MCP 的真实问题：创始人亲述这疯狂的一年](https://www.infoq.cn/article/xCTM5Q3Hy5yikzzOBc2Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 16:52
+
+#### [“Gemini 3 不错，但我们也快发了”：Mark Chen 评价谷歌大模型，讲清 OpenAI 如何给 300 个项目排 GPU 优先级](https://www.infoq.cn/article/27qcglz0p9bX17etWNQg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 16:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我们是如何学习的？关于学习的 N 个「关键词」](https://sspai.com/post/105224)
+**发布时间**: 2026-01-14 17:40
+
+#### [IGN 盘点 | 2026 年最值得期待的游戏作品](https://sspai.com/post/105437)
+**发布时间**: 2026-01-14 15:48
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 14 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2026 08:34:01 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 23:19:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 23:20:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍</title>
-      <link>https://www.qbitai.com/2026/01/369340.html</link>
-      <description>&lt;![CDATA[不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 06:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369340.html</guid>
+      <title>用AI从常规病理切片重建空间蛋白图谱：基于H&amp;E图像的高维蛋白质表达预测</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-6</link>
+      <description>&lt;![CDATA[用AI从常规病理切片重建空间蛋白图谱：基于H&amp;E图像的高维蛋白质表达预测]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-11</link>
-      <description>&lt;![CDATA[继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-11</guid>
+      <title>Sebastian Raschka 2026预测：Transformer统治依旧，但扩散模型正悄然崛起</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-10</link>
+      <description>&lt;![CDATA[Sebastian Raschka 2026预测：Transformer统治依旧，但扩散模型正悄然崛起]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-9</link>
-      <description>&lt;![CDATA[端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-9</guid>
+      <title>仅用10天？Anthropic最新智能体Cowork的代码竟然都是Claude写的</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-8</link>
+      <description>&lt;![CDATA[仅用10天？Anthropic最新智能体Cowork的代码竟然都是Claude写的]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！</title>
-      <link>https://www.qbitai.com/2026/01/369357.html</link>
-      <description>&lt;![CDATA[刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 06:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369357.html</guid>
+      <title>性能提升60%，英特尔Ultra3这次带来了巨大提升</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-12</link>
+      <description>&lt;![CDATA[性能提升60%，英特尔Ultra3这次带来了巨大提升]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-7</link>
-      <description>&lt;![CDATA[AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-7</guid>
+      <title>“每卖一辆问界，13.6万流向华为”，赛力斯最新披露来了</title>
+      <link>https://www.qbitai.com/2026/01/369479.html</link>
+      <description>&lt;![CDATA[“每卖一辆问界，13.6万流向华为”，赛力斯最新披露来了]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 09:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369479.html</guid>
       <category>Ai</category>
     </item>
   </channel>

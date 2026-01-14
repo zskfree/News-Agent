@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "45452258304aceb2a037daa4daf9e6a5789dca4c2429f1c44dc90487a8b59ee0": {
-        "title": "CPU，为何“偷偷转型”？",
-        "link": "https://www.tmtpost.com/7808815.html",
-        "published_date": "Mon, 15 Dec 2025 15:16:00 GMT",
-        "first_seen": "2025-12-15T08:35:39.899014"
-      },
-      "eaa4b0fc94466de1288135cacfe08eb4876f8e5a67963fcce47f8a368b1bd842": {
-        "title": "电力“吞金兽”AIDC来袭，打响储能系统重构之战",
-        "link": "https://www.tmtpost.com/7808388.html",
-        "published_date": "Mon, 15 Dec 2025 16:17:00 GMT",
-        "first_seen": "2025-12-15T08:35:39.899021"
-      },
-      "e9850c66eb6ba6d86d19663be0f0f8484f5ee47de4ca79eac9751690eef63e3d": {
-        "title": "具身智能的共识与非共识：地平线携手生态伙伴共话产业未来",
-        "link": "http://www.geekpark.net/news/358003",
-        "published_date": "Mon, 15 Dec 2025 11:01:00 GMT",
-        "first_seen": "2025-12-15T08:35:39.899023"
-      },
-      "b8e634037086cfc2e8104336a167fbdbaf8fea234b676851bb947e8811024ef8": {
-        "title": "tRPC-Agent：腾讯多智能体框架的架构设计与业务实践 ｜AICon 北京",
-        "link": "https://www.infoq.cn/article/dchtAVelmgDT52BORFhc?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Dec 2025 12:03:00 GMT",
-        "first_seen": "2025-12-15T08:35:39.899025"
-      },
-      "646350545aa40d0d37298cb3fd5565147bdce976583a1314c4dc42634c87ec64": {
-        "title": "Chinese Smartphone Maker Transsion Targets Africa Growth With $1 Billion IPO",
-        "link": "https://www.tmtpost.com/7808999.html",
-        "published_date": "Mon, 15 Dec 2025 13:56:00 GMT",
-        "first_seen": "2025-12-15T08:35:39.899027"
-      },
       "4b92d09b65925e421c369a66578d0eb15d8ee1ae0595b630f3a5946f10afb961": {
         "title": "DeepSeek倒逼vLLM升级！芯片内卷、MoE横扫千模，vLLM核心维护者独家回应：如何凭PyTorch坐稳推理“铁王座”",
         "link": "https://www.infoq.cn/article/1NwypKUl6SfJ68ZC71bJ?utm_source=rss&utm_medium=article",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7842002.html",
         "published_date": "Wed, 14 Jan 2026 14:49:00 GMT",
         "first_seen": "2026-01-14T08:34:27.424662"
+      },
+      "bcd1b64529556e0deef9a3c24ffd77241968ea4144c84322a454eb69dc3915a3": {
+        "title": "“Gemini 3 不错，但我们也快发了”：Mark Chen 评价谷歌大模型，讲清 OpenAI 如何给 300 个项目排 GPU 优先级",
+        "link": "https://www.infoq.cn/article/27qcglz0p9bX17etWNQg?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 16:47:00 GMT",
+        "first_seen": "2026-01-14T23:20:49.780318"
+      },
+      "75a3a37d7795d312bcb220d2f48716288bff12ce794c32c32c0e3f4facdc99bd": {
+        "title": "H200批准对华出口，2026年GPU还扛得住吗？",
+        "link": "https://www.tmtpost.com/7843199.html",
+        "published_date": "Wed, 14 Jan 2026 18:58:00 GMT",
+        "first_seen": "2026-01-14T23:20:49.780325"
+      },
+      "98a13f4c699374a25193e8c44eec93e9f99971b493ee50216ae5d80a1d82175e": {
+        "title": "Zed 为什么不用自己造 Agent？OpenAI 架构师给出答案：Codex 重划 IDE × Coding Agent 的分工边界",
+        "link": "https://www.infoq.cn/article/HFewc09HcZ1IaDyFj8D0?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 16:56:00 GMT",
+        "first_seen": "2026-01-14T23:20:49.780327"
+      },
+      "fb98b74bf7b07f536f6257debb25587adc8323276eddce80c452a9c6d9a62fd1": {
+        "title": "AI来了，搜索怎么办？",
+        "link": "https://www.tmtpost.com/7843231.html",
+        "published_date": "Wed, 14 Jan 2026 19:09:00 GMT",
+        "first_seen": "2026-01-14T23:20:49.780329"
+      },
+      "86854fee980174134ddb87dcf6baf7dd7c3f3590fd1591266853da961ceac96c": {
+        "title": "一块布，卡了英伟达的脖子？",
+        "link": "https://www.tmtpost.com/7842377.html",
+        "published_date": "Wed, 14 Jan 2026 15:32:00 GMT",
+        "first_seen": "2026-01-14T23:20:49.780331"
       }
     },
     "Finance": {
@@ -4551,39 +4551,39 @@
         "link": "https://www.ft.com/content/cd37655c-2f7e-4ca2-beeb-53a258f696be",
         "published_date": "Wed, 14 Jan 2026 06:08:00 GMT",
         "first_seen": "2026-01-14T08:33:45.814207"
+      },
+      "df1e7e8fd4dc5fd9bb20cd3c5af6d91c6501fbf680768b51d9a899ea3c280006": {
+        "title": "Businesses across the U.S. are beginning to pass tariff costs to consumers, Fed’s ‘beige book’ finds",
+        "link": "https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df?mod=mw_rss_topstories",
+        "published_date": "Wed, 14 Jan 2026 19:56:00 GMT",
+        "first_seen": "2026-01-14T23:20:04.470475"
+      },
+      "99e84e005c1353d7e07f53836f805f457843255e0a94f9546c900d61bd2bccf6": {
+        "title": "Your wealth and investments are on the line if Trump torpedoes the Fed’s independence",
+        "link": "https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories",
+        "published_date": "Wed, 14 Jan 2026 21:27:00 GMT",
+        "first_seen": "2026-01-14T23:20:04.470485"
+      },
+      "12eb4d7473d952bf35c5e267c26db1c3e748f9d6e5a7a949808f528b76a41bf7": {
+        "title": "Sadiq Khan to warn AI could cause ‘mass unemployment’ in London",
+        "link": "https://www.ft.com/content/6f92844e-6eb6-48dc-a36a-fd63115e45b5",
+        "published_date": "Wed, 14 Jan 2026 22:30:00 GMT",
+        "first_seen": "2026-01-14T23:20:04.470488"
+      },
+      "2fb670fac669f4460459576114eb2852de6038f9fe07f65b0975c830939f5c6b": {
+        "title": "3 ways to invest in what could become a $200 billion market for humanoid robots",
+        "link": "https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?mod=mw_rss_topstories",
+        "published_date": "Wed, 14 Jan 2026 20:46:00 GMT",
+        "first_seen": "2026-01-14T23:20:04.470490"
+      },
+      "843fdf28c25ec82ab22b3f8a065b72b5e9ef8fd88a8b00e0998abf7a613b89c8": {
+        "title": "Rachel Reeves signals expansion of pubs tax U-turn to other businesses",
+        "link": "https://www.ft.com/content/d1d1974c-c1cf-4864-8ecb-55bc885d7537",
+        "published_date": "Wed, 14 Jan 2026 19:12:00 GMT",
+        "first_seen": "2026-01-14T23:20:04.470491"
       }
     },
     "Ai": {
-      "a1e58afc2797ecd8ec5dc8b4f746f8c5069f78cd9f99e031247e0ec1943f39c5": {
-        "title": "Veo何止生成视频：DeepMind正在用它模拟整个机器人世界",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-8",
-        "published_date": "Mon, 15 Dec 2025 16:25:00 GMT",
-        "first_seen": "2025-12-15T08:35:12.108821"
-      },
-      "d0549dedeadea49f362f34c0ba25147bcc53ebbdae67ef57b9e091e922de043f": {
-        "title": "EMNLP 2025 | 视频理解Token压缩新范式，减少70.8%推理延迟！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-6",
-        "published_date": "Mon, 15 Dec 2025 15:33:00 GMT",
-        "first_seen": "2025-12-15T08:35:12.108831"
-      },
-      "9f26a803d7d02e4ef298e0aca90f6da3938966da94b0d3ba7d0f761d1d0f6e82": {
-        "title": "商汤日日新Seko系列模型与寒武纪成功适配，国产算力&多模态AI实现关键跨越",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-5",
-        "published_date": "Mon, 15 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-15T08:35:12.108834"
-      },
-      "cf7a5ed3385f5973540a491506249a7716313fd771fef42c00639fbaf855d55f": {
-        "title": "何恺明组三位本科生领衔！持续聚焦Flow模型，突破归一化流生成效率瓶颈",
-        "link": "https://www.qbitai.com/2025/12/361018.html",
-        "published_date": "Mon, 15 Dec 2025 07:28:00 GMT",
-        "first_seen": "2025-12-15T08:35:12.108836"
-      },
-      "cab36ba1ba642504223da48e0a20e482fd7cba70ccf996d1faad5ef97130787f": {
-        "title": "马斯克猛猛带货太空数据中心！“能耗比地球香太多”",
-        "link": "https://www.qbitai.com/2025/12/361008.html",
-        "published_date": "Mon, 15 Dec 2025 06:22:00 GMT",
-        "first_seen": "2025-12-15T08:35:12.108837"
-      },
       "71b539454c9d00acbf307e9a58f0a078feb2560fd3820aa0fbc92c0cd25e7844": {
         "title": "AAAI 2026｜视频大语言模型到底可不可信？23款主流模型全面测评来了",
         "link": "https://www.jiqizhixin.com/articles/2025-12-15-11",
@@ -6809,13 +6809,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-14-7",
         "published_date": "Wed, 14 Jan 2026 14:11:00 GMT",
         "first_seen": "2026-01-14T08:34:02.000702"
+      },
+      "dc1dce87dcbdfc864d21830d6c3972f14fd9e938c2e2a28b7bde8db0cd81e374": {
+        "title": "用AI从常规病理切片重建空间蛋白图谱：基于H&E图像的高维蛋白质表达预测",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-6",
+        "published_date": "Wed, 14 Jan 2026 14:03:00 GMT",
+        "first_seen": "2026-01-14T23:20:18.351769"
+      },
+      "10c8f37427c0aa9f39c0d4480736905fcae97b348ac0b83f0f2d5b63a3239f1e": {
+        "title": "Sebastian Raschka 2026预测：Transformer统治依旧，但扩散模型正悄然崛起",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-10",
+        "published_date": "Wed, 14 Jan 2026 14:41:00 GMT",
+        "first_seen": "2026-01-14T23:20:18.351775"
+      },
+      "19d702f57dbe434fb00c2baed053472306bebcd32b9d6d0ab4dbe0fad35bf949": {
+        "title": "仅用10天？Anthropic最新智能体Cowork的代码竟然都是Claude写的",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-8",
+        "published_date": "Wed, 14 Jan 2026 14:15:00 GMT",
+        "first_seen": "2026-01-14T23:20:18.351778"
+      },
+      "34db8accdc4cbbb059e5a7031b861276ec1f0b3f9a06d79b1b0ff7195cb045f6": {
+        "title": "性能提升60%，英特尔Ultra3这次带来了巨大提升",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-12",
+        "published_date": "Wed, 14 Jan 2026 16:33:00 GMT",
+        "first_seen": "2026-01-14T23:20:18.351780"
+      },
+      "8e01a048b8e1c948f24d69fa599a05db20d49ecb6a9580f94177795c582df034": {
+        "title": "“每卖一辆问界，13.6万流向华为”，赛力斯最新披露来了",
+        "link": "https://www.qbitai.com/2026/01/369479.html",
+        "published_date": "Wed, 14 Jan 2026 09:14:00 GMT",
+        "first_seen": "2026-01-14T23:20:18.351781"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-14T08:34:27.424663",
-    "Finance": "2026-01-14T08:33:45.814209",
-    "Ai": "2026-01-14T08:34:02.000704"
+    "Technology": "2026-01-14T23:20:49.780332",
+    "Finance": "2026-01-14T23:20:04.470494",
+    "Ai": "2026-01-14T23:20:18.351784"
   }
 }
