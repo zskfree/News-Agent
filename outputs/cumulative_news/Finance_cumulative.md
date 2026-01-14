@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-14 05:26
+**最后更新时间**: 2026-01-14 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-14 08:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [BP doesn’t wait for new CEO to take big write-off of renewables business](https://www.marketwatch.com/story/bp-doesnt-wait-for-new-ceo-to-take-big-write-off-of-renewables-business-079c40d9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 08:22
+
+#### [Saks Global files for bankruptcy. Here’s how luxury retail went out of style](https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 07:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Strong UK offshore wind auction boosts plan to decarbonise by 2030](https://www.ft.com/content/0dd16df2-64b0-407a-bbfd-c939dfabc3f8)
+**发布时间**: 2026-01-14 07:33
+
+#### [BP warns of $4bn-$5bn impairment charge in green energy business](https://www.ft.com/content/46293ef9-d90a-40bf-a0cd-c58d3a83cdbe)
+**发布时间**: 2026-01-14 07:30
+
+#### [IMF presses governments to step up support for workers displaced by AI](https://www.ft.com/content/7e2ae3ad-4cfb-4e3f-a370-702781899e05)
+**发布时间**: 2026-01-14 07:00
+
+#### [Advertising group Dentsu’s push to sell global unit close to collapse](https://www.ft.com/content/cd37655c-2f7e-4ca2-beeb-53a258f696be)
+**发布时间**: 2026-01-14 06:08
+
+#### [How Iran switched off the internet — and Iranians fought back](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
+**发布时间**: 2026-01-14 05:00
+
+#### [Inside the US justice department’s probe of Jay Powell](https://www.ft.com/content/1aedba17-00f5-4a5c-abba-ff22096b24c4)
+**发布时间**: 2026-01-14 05:00
+
+#### [The Maga war on European democracy](https://www.ft.com/content/f1230ddd-0e24-4f0f-8b6e-3fde907fc651)
+**发布时间**: 2026-01-14 05:00
+
+#### [‘Welcome to hell’: Venezuela’s most notorious torture chamber](https://www.ft.com/content/810f5931-5138-4ad2-a71e-a4812608c85e)
+**发布时间**: 2026-01-14 05:00
+
+#### [Coca-Cola scraps Costa Coffee sale after bids fall short](https://www.ft.com/content/9f27db25-ceaa-4e66-8846-63a9238ea9c1)
+**发布时间**: 2026-01-14 05:00
+
+#### [McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586)
+**发布时间**: 2026-01-14 05:00
+
+#### [Crispin Odey to make hedge fund dormant](https://www.ft.com/content/c3629370-3871-4afb-95b6-56ec9f8e3844)
+**发布时间**: 2026-01-14 05:00
 
 ---
 

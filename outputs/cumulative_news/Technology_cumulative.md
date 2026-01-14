@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-14 05:26
+**最后更新时间**: 2026-01-14 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-14 08:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [桑尼森迪赴港IPO：借《哪吒2》破圈的“平价泡泡玛特”，高增长能持续多久？](https://www.tmtpost.com/7842759.html)
+**发布时间**: 2026-01-14 16:05
+
+#### [入场养老两年半，“新东方”还行不行？](https://www.tmtpost.com/7842699.html)
+**发布时间**: 2026-01-14 16:05
+
+#### [6大趋势详解：谁说手机行业没有新东西了？](https://www.tmtpost.com/7842618.html)
+**发布时间**: 2026-01-14 16:03
+
+#### [10倍股、最贵ST股扎堆后，老板们要卖卫星梦了](https://www.tmtpost.com/7842663.html)
+**发布时间**: 2026-01-14 15:59
+
+#### [库克退休在即，苹果迈入“诺基亚时刻”前夜](https://www.tmtpost.com/7842615.html)
+**发布时间**: 2026-01-14 15:54
+
+#### [大批Listing被亚马逊“强制上架”](https://www.tmtpost.com/7842610.html)
+**发布时间**: 2026-01-14 15:48
+
+#### [拆一拆“钱大妈”招股书，小小生鲜店到底多赚钱？](https://www.tmtpost.com/7842471.html)
+**发布时间**: 2026-01-14 15:47
+
+#### [张文宏医生拒绝把AI接入病历系统：他真正担心的是什么？](https://www.tmtpost.com/7842474.html)
+**发布时间**: 2026-01-14 15:47
+
+#### [零售时代演变：卖货架→卖产品→卖情绪](https://www.tmtpost.com/7842670.html)
+**发布时间**: 2026-01-14 15:45
+
+#### [关于2026年科技行业的12个关键问答：AI、自动驾驶、机器人、世界模型、美股......](https://www.tmtpost.com/7842437.html)
+**发布时间**: 2026-01-14 15:43
+
+#### [低利率时代，80万亿到期存款将流向何方？](https://www.tmtpost.com/7842685.html)
+**发布时间**: 2026-01-14 15:41
+
+#### [一块布，卡了英伟达的脖子？](https://www.tmtpost.com/7842377.html)
+**发布时间**: 2026-01-14 15:32
+
+#### [智谱和MiniMax，大模型的两种“活法”](https://www.tmtpost.com/7842002.html)
+**发布时间**: 2026-01-14 14:49
+
+#### [速度与成本的双重考验，AI算力“大考”已至丨ToB产业观察](https://www.tmtpost.com/7842451.html)
+**发布时间**: 2026-01-14 13:58
+
+#### [PixVerse Releases World's First Real-Time World Model for Interactive Video](https://www.tmtpost.com/7842608.html)
+**发布时间**: 2026-01-14 13:36
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [AI 智能体模拟平行世界 推演未来，这个 GitHub 项目有意思。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530595&idx=1&sn=cee7ed7a207215f9fa630051ad12b27e)
+**发布时间**: 2026-01-14 15:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare通过左移安全实践扩展基础设施即代码](https://www.infoq.cn/article/eNFdj9rUSIFPPl3J9Qgr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 15:03
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一条视频看懂脑机接口的发展趋势](http://www.huxiu.com/article/4826154.html?f=wangzhan)
+**发布时间**: 2026-01-14 15:00
+
+#### [“死了么”其实是一门好生意](http://www.huxiu.com/article/4826081.html?f=wangzhan)
+**发布时间**: 2026-01-14 14:00
 
 ---
 

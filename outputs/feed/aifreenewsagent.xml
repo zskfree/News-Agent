@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 14 Jan 2026 05:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2026 05:27:07 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 08:34:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>跳出「黑盒」，人大刘勇团队最新大语言模型理论与机理综述</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-2</link>
-      <description>&lt;![CDATA[跳出「黑盒」，人大刘勇团队最新大语言模型理论与机理综述]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-2</guid>
+      <title>不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍</title>
+      <link>https://www.qbitai.com/2026/01/369340.html</link>
+      <description>&lt;![CDATA[不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 06:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369340.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>500万次围观，1X把「世界模型」真正用在了机器人NEO身上</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-3</link>
-      <description>&lt;![CDATA[500万次围观，1X把「世界模型」真正用在了机器人NEO身上]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-3</guid>
+      <title>继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-11</link>
+      <description>&lt;![CDATA[继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百川开源全球最强医疗大模型M3，「严肃问诊」定义AI医疗新能力</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14</link>
-      <description>&lt;![CDATA[百川开源全球最强医疗大模型M3，「严肃问诊」定义AI医疗新能力]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 09:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14</guid>
+      <title>端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-9</link>
+      <description>&lt;![CDATA[端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>合合信息多模态文本智能产品“上新”，覆盖AI教育、AI健康、AI Infra多元场景</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-4</link>
-      <description>&lt;![CDATA[合合信息多模态文本智能产品“上新”，覆盖AI教育、AI健康、AI Infra多元场景]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 10:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-4</guid>
+      <title>刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！</title>
+      <link>https://www.qbitai.com/2026/01/369357.html</link>
+      <description>&lt;![CDATA[刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 06:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369357.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>京东首届AI影视创作大赛启动 最高奖金10万元邀全民共创AI视频</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-14-5</link>
-      <description>&lt;![CDATA[京东首届AI影视创作大赛启动 最高奖金10万元邀全民共创AI视频]]&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-5</guid>
+      <title>AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-14-7</link>
+      <description>&lt;![CDATA[AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题]]&gt;</description>
+      <pubDate>Wed, 14 Jan 2026 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-14-7</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fe60751a76188cbcab1f6f912983cba97822821b15bd254727f876afe24ecb4b": {
-        "title": "谢尔盖·布林首次复盘：谷歌AI为什么落后，又如何实现绝地反击",
-        "link": "https://www.tmtpost.com/7808563.html",
-        "published_date": "Mon, 15 Dec 2025 10:49:00 GMT",
-        "first_seen": "2025-12-15T05:28:09.933218"
-      },
-      "22be09d10b90a817750230c257ee33e040a563fa6378f61a6f9b51bc1824981c": {
-        "title": "陈天桥：系统的融化——从 AI 赋能到 AI 原生",
-        "link": "https://www.tmtpost.com/7808668.html",
-        "published_date": "Mon, 15 Dec 2025 09:25:00 GMT",
-        "first_seen": "2025-12-15T05:28:09.933226"
-      },
-      "1b6f71a8e6d662818513fa522149f66a68a6f104270cfc8a224c3b7e54316365": {
-        "title": "Lambda持久函数与Werner Vogels的最后一次主题演讲：亚马逊云科技re:Invent 2025的亮点",
-        "link": "https://www.infoq.cn/article/uGJYv5mxUMMySdjDyN7U?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Dec 2025 11:46:00 GMT",
-        "first_seen": "2025-12-15T05:28:09.933227"
-      },
-      "a485530a8b4562a1696b0245f6a11c7fb6969aef22a5f007aeff4ce67596c0d2": {
-        "title": "10级漏洞刚补完，React又炸了！现代Web“默认底座”因一行代码缺失引发全球地震，开发者经历最黑暗一周",
-        "link": "https://www.infoq.cn/article/iEHJjVSHEvakoOrVREqN?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Dec 2025 12:48:00 GMT",
-        "first_seen": "2025-12-15T05:28:09.933230"
-      },
-      "22eb299e7ba3af1bbb48377cc9e2f96943393f2be49715a20829cdeae77b2868": {
-        "title": "从点播到直播：Netflix在1分钟内向一亿台设备推送直播流",
-        "link": "https://www.infoq.cn/article/cCioUmss2jYJXhtAztp8?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Dec 2025 09:36:00 GMT",
-        "first_seen": "2025-12-15T05:28:09.933231"
-      },
       "45452258304aceb2a037daa4daf9e6a5789dca4c2429f1c44dc90487a8b59ee0": {
         "title": "CPU，为何“偷偷转型”？",
         "link": "https://www.tmtpost.com/7808815.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7842106.html",
         "published_date": "Wed, 14 Jan 2026 11:11:00 GMT",
         "first_seen": "2026-01-14T05:27:25.308105"
+      },
+      "dd42326864de968f787b3193a21b0feded0b0eb9d0207ff85493c0b6ddccdcc1": {
+        "title": "关于2026年科技行业的12个关键问答：AI、自动驾驶、机器人、世界模型、美股......",
+        "link": "https://www.tmtpost.com/7842437.html",
+        "published_date": "Wed, 14 Jan 2026 15:43:00 GMT",
+        "first_seen": "2026-01-14T08:34:27.424649"
+      },
+      "63d476b99357b1e1a635ccd73082fa143745cb1ef8956169bdeca55240d6dc2c": {
+        "title": "速度与成本的双重考验，AI算力“大考”已至丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7842451.html",
+        "published_date": "Wed, 14 Jan 2026 13:58:00 GMT",
+        "first_seen": "2026-01-14T08:34:27.424656"
+      },
+      "62cbd2b429aa5b1f3ce61a2b8e93e3f7dfef396b53585c8999c1e0329ba89325": {
+        "title": "PixVerse Releases World's First Real-Time World Model for Interactive Video",
+        "link": "https://www.tmtpost.com/7842608.html",
+        "published_date": "Wed, 14 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-14T08:34:27.424658"
+      },
+      "dda940a01f0d06a2f8fdf020407115ab16cb1186bd1c5ad8196888da200e9cc3": {
+        "title": "张文宏医生拒绝把AI接入病历系统：他真正担心的是什么？",
+        "link": "https://www.tmtpost.com/7842474.html",
+        "published_date": "Wed, 14 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-14T08:34:27.424660"
+      },
+      "c9cf389f270ff0f919779d686c54f07621b09ff7238a644c2ced344261c154e5": {
+        "title": "智谱和MiniMax，大模型的两种“活法”",
+        "link": "https://www.tmtpost.com/7842002.html",
+        "published_date": "Wed, 14 Jan 2026 14:49:00 GMT",
+        "first_seen": "2026-01-14T08:34:27.424662"
       }
     },
     "Finance": {
-      "f1d4b6d37d95a2bb58b5df10758afc5be0f7e3dd7aa9891029611afed9babc31": {
-        "title": "Why the ‘stablecoin supercycle’ could rewire banking",
-        "link": "https://www.ft.com/content/29b419dc-34ec-4411-ac7e-ed8c37a43212",
-        "published_date": "Mon, 15 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-15T05:27:36.713658"
-      },
-      "82be9be5057eb04011b1a2a7d097532e8cc640ced88aca634ffab59e9b0cc933": {
-        "title": "The four ‘O’s that shape a bubble",
-        "link": "https://www.ft.com/content/ff72f64b-fc58-4f11-9b75-e30f99031936",
-        "published_date": "Mon, 15 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-15T05:27:36.713669"
-      },
-      "4be1f84514cbc71d8bfef039b44b5637551f9df91ee6affeb85fbb4be711d218": {
-        "title": "Bitcoin investor plans Caribbean community — with its own court system",
-        "link": "https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4",
-        "published_date": "Mon, 15 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-15T05:27:36.713672"
-      },
-      "8e0fbff365b9a0bc733360f80a127060ca01ff6ae887d9720a6dc8a7e876b741": {
-        "title": "Roomba maker iRobot files for bankruptcy, will go private",
-        "link": "https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Dec 2025 01:21:00 GMT",
-        "first_seen": "2025-12-15T05:27:36.713674"
-      },
-      "6eac4baa0274f67a8018bacfd60db1ba90ff9ede90916b7c4d4b888e34af8c76": {
-        "title": "UK property asking prices down £2,000 from a year ago",
-        "link": "https://www.ft.com/content/aee1bd24-c079-4d5d-b0f7-b8176fe70bf4",
-        "published_date": "Mon, 15 Dec 2025 00:01:00 GMT",
-        "first_seen": "2025-12-15T05:27:36.713675"
-      },
       "2343af47ce8c8111cc70053e920c330255d0ae44189ffb48514efa089e570f4c": {
         "title": "Trouble persists in a key corner of financial markets — and these assets face the greatest risk",
         "link": "https://www.marketwatch.com/story/trouble-persists-in-a-key-corner-of-financial-markets-and-these-assets-face-the-greatest-risk-badbf845?mod=mw_rss_topstories",
@@ -4551,39 +4521,39 @@
         "link": "https://www.ft.com/content/ab009ef4-4fec-40f5-a087-241447ef6c51",
         "published_date": "Wed, 14 Jan 2026 00:51:00 GMT",
         "first_seen": "2026-01-14T05:26:58.092858"
+      },
+      "560f491690d74fb82aa085c5e91653f530020aca59ae81c435563b0cb17bc3d3": {
+        "title": "IMF presses governments to step up support for workers displaced by AI",
+        "link": "https://www.ft.com/content/7e2ae3ad-4cfb-4e3f-a370-702781899e05",
+        "published_date": "Wed, 14 Jan 2026 07:00:00 GMT",
+        "first_seen": "2026-01-14T08:33:45.814188"
+      },
+      "951c13d87652da58a986a0ee9cc8d5c82223c0f77a763d2b0dd3b3d0623a33c4": {
+        "title": "BP warns of $4bn-$5bn impairment charge in green energy business",
+        "link": "https://www.ft.com/content/46293ef9-d90a-40bf-a0cd-c58d3a83cdbe",
+        "published_date": "Wed, 14 Jan 2026 07:30:00 GMT",
+        "first_seen": "2026-01-14T08:33:45.814200"
+      },
+      "0dda67a58154d1a9c757b7858be743d8c4d134ac9cdcdbe1807314d540d76bba": {
+        "title": "Strong UK offshore wind auction boosts plan to decarbonise by 2030",
+        "link": "https://www.ft.com/content/0dd16df2-64b0-407a-bbfd-c939dfabc3f8",
+        "published_date": "Wed, 14 Jan 2026 07:33:00 GMT",
+        "first_seen": "2026-01-14T08:33:45.814203"
+      },
+      "e052040484924e8cc9b6dcd78d20c1ff0906d0acd0c0cc198d43f28d6361c1f1": {
+        "title": "Saks Global files for bankruptcy. Here’s how luxury retail went out of style",
+        "link": "https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories",
+        "published_date": "Wed, 14 Jan 2026 07:58:00 GMT",
+        "first_seen": "2026-01-14T08:33:45.814205"
+      },
+      "9cb4efa33cd1de81f37a66336c9a0a41a6a30739341f34844af68b2cc18973fa": {
+        "title": "Advertising group Dentsu’s push to sell global unit close to collapse",
+        "link": "https://www.ft.com/content/cd37655c-2f7e-4ca2-beeb-53a258f696be",
+        "published_date": "Wed, 14 Jan 2026 06:08:00 GMT",
+        "first_seen": "2026-01-14T08:33:45.814207"
       }
     },
     "Ai": {
-      "8ff7ee83219747c019878af1969e77961684fc4ac2afa39ffdb22f6f12d90671": {
-        "title": "AAAI 2026 | 革新电影配音工业流程：AI首次学会「导演-演员」配音协作模式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-2",
-        "published_date": "Mon, 15 Dec 2025 10:31:00 GMT",
-        "first_seen": "2025-12-15T05:27:46.678684"
-      },
-      "9c60b38be4fdc7a10a46fe9310361000dd338167d12bb7c7f4509b6b30ea41e4": {
-        "title": "RL是「点金石」还是「挖掘机」？CMU 用可控实验给出答案",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15",
-        "published_date": "Mon, 15 Dec 2025 10:28:00 GMT",
-        "first_seen": "2025-12-15T05:27:46.678692"
-      },
-      "cd1300c1ff7e4fcd05815ce9dfdbe9cd44c0b859be308b04183ef87822ddcd3c": {
-        "title": "当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-3",
-        "published_date": "Mon, 15 Dec 2025 12:11:00 GMT",
-        "first_seen": "2025-12-15T05:27:46.678693"
-      },
-      "ade68689f23c56fe4a229efeda08c2bb593c14487ce4797022b6ee60eeced738": {
-        "title": "苏州大学首篇数学四大刊！解决了40年未决的丢番图逼近问题",
-        "link": "https://www.qbitai.com/2025/12/360948.html",
-        "published_date": "Mon, 15 Dec 2025 04:16:00 GMT",
-        "first_seen": "2025-12-15T05:27:46.678695"
-      },
-      "7386835820d7481f37eda84fd68a7ac93b97c38b0f3e3a1081c4c80b89cf46e9": {
-        "title": "万人齐聚首钢园｜第二十届中国IDC产业年度大典盛大召开！",
-        "link": "https://www.qbitai.com/2025/12/360894.html",
-        "published_date": "Mon, 15 Dec 2025 02:11:00 GMT",
-        "first_seen": "2025-12-15T05:27:46.678697"
-      },
       "a1e58afc2797ecd8ec5dc8b4f746f8c5069f78cd9f99e031247e0ec1943f39c5": {
         "title": "Veo何止生成视频：DeepMind正在用它模拟整个机器人世界",
         "link": "https://www.jiqizhixin.com/articles/2025-12-15-8",
@@ -6809,13 +6779,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-14-5",
         "published_date": "Wed, 14 Jan 2026 12:48:00 GMT",
         "first_seen": "2026-01-14T05:27:07.486177"
+      },
+      "ddb4c48e08b0e9044abf33a16a496d29f5b737b019b27ff009e997a007c24232": {
+        "title": "不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍",
+        "link": "https://www.qbitai.com/2026/01/369340.html",
+        "published_date": "Wed, 14 Jan 2026 06:09:00 GMT",
+        "first_seen": "2026-01-14T08:34:02.000690"
+      },
+      "0a32a3c17f0c60a3dda0e3b3e947077af19072d8ad76c78174900b532abf6caf": {
+        "title": "继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-11",
+        "published_date": "Wed, 14 Jan 2026 14:45:00 GMT",
+        "first_seen": "2026-01-14T08:34:02.000696"
+      },
+      "f24985fc5920788186800c1d1a28232abbec4960862a47d1a4e9235364417f7c": {
+        "title": "端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-9",
+        "published_date": "Wed, 14 Jan 2026 14:34:00 GMT",
+        "first_seen": "2026-01-14T08:34:02.000699"
+      },
+      "648131fc618de8a9b1a69fb340b8824f24a28b63192c859451e8b6943476d2f8": {
+        "title": "刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！",
+        "link": "https://www.qbitai.com/2026/01/369357.html",
+        "published_date": "Wed, 14 Jan 2026 06:49:00 GMT",
+        "first_seen": "2026-01-14T08:34:02.000700"
+      },
+      "15e2062b12d832b2ae98baa66659b5901b8d6c913b8007b748720ffee5026e7d": {
+        "title": "AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-7",
+        "published_date": "Wed, 14 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-14T08:34:02.000702"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-14T05:27:25.308107",
-    "Finance": "2026-01-14T05:26:58.092861",
-    "Ai": "2026-01-14T05:27:07.486179"
+    "Technology": "2026-01-14T08:34:27.424663",
+    "Finance": "2026-01-14T08:33:45.814209",
+    "Ai": "2026-01-14T08:34:02.000704"
   }
 }
