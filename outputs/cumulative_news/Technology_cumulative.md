@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-13 23:22
+**最后更新时间**: 2026-01-14 05:26
+
+---
+
+## 🆕 最新更新 (2026-01-14 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从困在武汉到北上广深“排队王”，楚菜的火越烧越旺](https://www.tmtpost.com/7842445.html)
+**发布时间**: 2026-01-14 12:35
+
+#### [中国佐餐饮品消费趋势洞察报告2026：健康轻负担已成共识，佐餐饮品担当门店利润新引擎](https://www.tmtpost.com/7842443.html)
+**发布时间**: 2026-01-14 12:35
+
+#### [美妆集合店@2026：逃离「复制粘贴」的困局](https://www.tmtpost.com/7842383.html)
+**发布时间**: 2026-01-14 12:31
+
+#### [“白菜价”甩卖核心业务，上海知名餐企断臂求生](https://www.tmtpost.com/7842446.html)
+**发布时间**: 2026-01-14 12:30
+
+#### [钱大妈闯关IPO：赚“辛苦钱”，缺新故事](https://www.tmtpost.com/7842434.html)
+**发布时间**: 2026-01-14 12:27
+
+#### [日活破亿的豆包，正悄然成为字节的“流量副中心”](https://www.tmtpost.com/7842468.html)
+**发布时间**: 2026-01-14 12:24
+
+#### [瑞士金融科技公司CarbonPool Holding推出碳信用保险，提供高质量碳信用额赔付](https://www.tmtpost.com/7842341.html)
+**发布时间**: 2026-01-14 11:29
+
+#### [耐克新鞋，抢了足疗店生意？](https://www.tmtpost.com/7842143.html)
+**发布时间**: 2026-01-14 11:27
+
+#### [暴涨只是序章：智谱、MiniMax点燃的，是国产AI的DeepSeek时刻](https://www.tmtpost.com/7842131.html)
+**发布时间**: 2026-01-14 11:26
+
+#### [德邦安能双双退市，快运再无独立巨头](https://www.tmtpost.com/7842229.html)
+**发布时间**: 2026-01-14 11:21
+
+#### [2025微短剧年度报告：产值1000亿约电影票房两倍，全年20万部短剧争锋](https://www.tmtpost.com/7842237.html)
+**发布时间**: 2026-01-14 11:21
+
+#### [核聚变大会？我这辈子能用上“人造太阳”发的电吗？](https://www.tmtpost.com/7842049.html)
+**发布时间**: 2026-01-14 11:19
+
+#### [入住率跌至45.8%，客房不足8000间，绿地酒店怎么了？](https://www.tmtpost.com/7842120.html)
+**发布时间**: 2026-01-14 11:18
+
+#### [Summit的潜在买方，又少了一个](https://www.tmtpost.com/7842146.html)
+**发布时间**: 2026-01-14 11:14
+
+#### [文旅人的2026：保持在场，回归真实](https://www.tmtpost.com/7842151.html)
+**发布时间**: 2026-01-14 11:14
+
+#### [4天239万下载，心动游戏再度发力，具体情况如何？](https://www.tmtpost.com/7842076.html)
+**发布时间**: 2026-01-14 11:12
+
+#### [“邪修”蓝箭航天们，硬刚SpaceX](https://www.tmtpost.com/7842106.html)
+**发布时间**: 2026-01-14 11:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南](https://sspai.com/post/105287)
+**发布时间**: 2026-01-14 11:30
+
+#### [派早报：Apple 推出 Apple Creator Studio](https://sspai.com/post/105434)
+**发布时间**: 2026-01-14 08:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [直播预告：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？|《AI 进化论》第八期](https://www.infoq.cn/article/OWQdpU9udpKISRbT5wTK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 11:14
+
+#### [待到山花烂漫时：鸿蒙开发者 用代码灌溉鸿蒙花园](https://www.infoq.cn/article/FeR8sBoeFay7LuUeKhrF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 10:49
+
+#### [规范驱动开发：让架构变得可执行](https://www.infoq.cn/article/iCTcI93pGKD0aqoQv7ae?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 10:11
+
+#### [Java近期资讯：Spring gRPC、Quarkus、Gatherers4j、Keycloak、Grails、Java Operator SDK](https://www.infoq.cn/article/QSfh6NFEUi2HmbQAq7Wl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-14 09:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [加拿大访华，被美国逼到角落的卡尼是来向东寻求解药吗？](http://www.huxiu.com/article/4825958.html?f=wangzhan)
+**发布时间**: 2026-01-14 10:46
+
+#### [这8个科技展品，每个都能改变我们未来的生活](http://www.huxiu.com/article/4825427.html?f=wangzhan)
+**发布时间**: 2026-01-13 15:50
 
 ---
 
