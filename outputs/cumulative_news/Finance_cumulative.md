@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-15 08:35
+**最后更新时间**: 2026-01-15 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-15 23:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Venezuela’s opposition leader gives her Nobel Peace Prize medal to Trump](https://www.ft.com/content/bd789480-53df-4027-92b6-5ec0421825f6)
+**发布时间**: 2026-01-15 22:58
+
+#### [Oil prices tumble as fears of US action in Iran ease](https://www.ft.com/content/9cbf6010-3e10-4806-a889-6ecf216fd136)
+**发布时间**: 2026-01-15 20:38
+
+#### [Regulator raises alarm over rise in top grades at English universities](https://www.ft.com/content/69354429-5d7b-4e1e-9df0-82698256669f)
+**发布时间**: 2026-01-15 19:55
+
+#### [Jenrick joins Reform UK after being sacked from Tory shadow cabinet](https://www.ft.com/content/991213ae-dab4-44ad-86eb-48045f97de96)
+**发布时间**: 2026-01-15 19:36
+
+#### [Middle East governments believe US-Iran tension ‘de-escalated’](https://www.ft.com/content/df0c0833-59f6-45d6-a74f-008b46756e72)
+**发布时间**: 2026-01-15 19:17
+
+#### [Jenrick defection redraws battle lines on right of British politics](https://www.ft.com/content/029c20d8-77f4-4739-8465-08949092be3f)
+**发布时间**: 2026-01-15 18:40
+
+#### [Goldman and Morgan Stanley investment bankers ride dealmaking wave](https://www.ft.com/content/265dd109-bbc6-4542-9f0a-3b5db7aa1784)
+**发布时间**: 2026-01-15 18:24
+
+#### [How Iran’s Islamic revolution devoured itself](https://www.ft.com/content/14da829b-4e71-4369-9037-915f504ab4d7)
+**发布时间**: 2026-01-15 16:53
+
+#### [Jenrick’s sacking is both threat and opportunity for Badenoch](https://www.ft.com/content/89bebb48-6e89-4c95-bdb1-03a3e4376c12)
+**发布时间**: 2026-01-15 13:21
+
+#### [A warning shot to our tech overlords](https://www.ft.com/content/b5ac5abe-667a-4244-aea2-6b1c183f1cce)
+**发布时间**: 2026-01-15 12:14
+
+#### [Revolut, Visa and Mastercard lose UK legal challenge over fee cap](https://www.ft.com/content/90c00ca5-2d1d-4bb8-aaa9-5fa40c9f974f)
+**发布时间**: 2026-01-15 11:50
+
+#### [BoE accused of making ‘mistake’ in loosening capital rules](https://www.ft.com/content/4f158502-9cc0-4813-bc2d-a2017fd752bc)
+**发布时间**: 2026-01-15 11:38
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [College sports has a new money problem — and St. John’s may be the latest example: ‘It’s the Wild West’](https://www.marketwatch.com/story/college-sports-has-a-new-money-problem-and-st-johns-may-be-the-latest-example-its-the-wild-west-e35648ba?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 22:37
+
+#### [Why portfolio managers are whispering about inflation worries in 2026](https://www.marketwatch.com/story/why-portfolio-managers-are-whispering-about-inflation-worries-in-2026-694cb01c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 21:52
+
+#### [These charts show the stock market giving investors a lot to like — for now — as the S&P 500 nears 7,000](https://www.marketwatch.com/story/these-charts-show-the-stock-market-giving-investors-a-lot-to-like-for-now-as-the-s-p-500-nears-7-000-00d5d41d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 21:34
+
+#### [Verizon outage spurs calls for mandatory refunds when cell service is disrupted: You shouldn’t have to ‘beg for it’](https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 21:24
+
+#### [The S&P 500’s final push to 7,000 could be tougher than it looks](https://www.marketwatch.com/story/the-s-p-500s-final-push-to-7-000-could-be-tougher-than-it-looks-1fd78660?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 21:20
+
+#### [Can I leave my 401(k) with my employer when I retire?](https://www.marketwatch.com/story/can-i-leave-my-401-k-with-my-employer-when-i-retire-08971d61?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 20:15
+
+#### [Why Trump’s ‘Great Healthcare Plan’ strikes Wall Street as so underwhelming](https://www.marketwatch.com/story/trump-unveils-his-great-healthcare-plan-analysts-dont-expect-much-of-an-impact-8e99a02a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 20:10
+
+#### [There’s one thing that could make Trump’s ‘Great Healthcare Plan’ perfect](https://www.marketwatch.com/story/theres-one-thing-that-could-make-trumps-great-healthcare-plan-perfect-1b9b72ac?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 19:52
+
+#### [This stock-and-bond blend made double-digit gains last year — yet too many investors dismiss it](https://www.marketwatch.com/story/this-mix-of-stocks-and-bonds-delivered-double-digit-gains-last-year-yet-too-many-investors-dismiss-it-44c15413?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 19:44
+
+#### [I refused to invest in Tesla for years — but now’s the time to bet on Elon Musk](https://www.marketwatch.com/story/i-refused-to-invest-in-tesla-for-years-but-nows-the-time-to-bet-on-elon-musk-2cbe0af8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 19:19
 
 ---
 

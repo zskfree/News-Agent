@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 08:35:30 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 23:24:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-9</link>
-      <description>&lt;![CDATA[Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-9</guid>
+      <title>国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-15-13</link>
+      <description>&lt;![CDATA[国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 21:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-3</link>
-      <description>&lt;![CDATA[5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 11:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-3</guid>
+      <title>国产GPU又杀出一匹黑马！成立不到一年，两款芯片量产落地</title>
+      <link>https://www.qbitai.com/2026/01/369731.html</link>
+      <description>&lt;![CDATA[国产GPU又杀出一匹黑马！成立不到一年，两款芯片量产落地]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369731.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授</title>
-      <link>https://www.qbitai.com/2026/01/369684.html</link>
-      <description>&lt;![CDATA[姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 06:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369684.html</guid>
+      <title>通用级PixVerse P1的技术突破，揣着进入平行世界的密码</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-15-11</link>
+      <description>&lt;![CDATA[通用级PixVerse P1的技术突破，揣着进入平行世界的密码]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不得了，这个新技术把视频压缩到了0.02%！</title>
-      <link>https://www.qbitai.com/2026/01/369609.html</link>
-      <description>&lt;![CDATA[不得了，这个新技术把视频压缩到了0.02%！]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 06:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369609.html</guid>
+      <title>Unlocking health insights: Estimating advanced walking metrics with smartwatches</title>
+      <link>https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/</link>
+      <description>&lt;![CDATA[Unlocking health insights: Estimating advanced walking metrics with smartwatches]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-6</link>
-      <description>&lt;![CDATA[实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-6</guid>
+      <title>Mira公司内乱？CTO被开除，带团队回OpenAI，翁荔上推发言</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-15-10</link>
+      <description>&lt;![CDATA[Mira公司内乱？CTO被开除，带团队回OpenAI，翁荔上推发言]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-10</guid>
       <category>Ai</category>
     </item>
   </channel>
