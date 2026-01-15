@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 05:33:04 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:35:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>人脸机器人登上Science Robotics封面：用AI教会仿生人脸机器人「开口说话」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-7</link>
-      <description>&lt;![CDATA[人脸机器人登上Science Robotics封面：用AI教会仿生人脸机器人「开口说话」]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-7</guid>
+      <title>Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-15-9</link>
+      <description>&lt;![CDATA[Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>已证实！清华姚班陈立杰全职加入OpenAI，保留伯克利教职</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-5</link>
-      <description>&lt;![CDATA[已证实！清华姚班陈立杰全职加入OpenAI，保留伯克利教职]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-5</guid>
+      <title>5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-15-3</link>
+      <description>&lt;![CDATA[5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型长脑子了？研究发现LLM中层会自发模拟人脑进化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15</link>
-      <description>&lt;![CDATA[大模型长脑子了？研究发现LLM中层会自发模拟人脑进化]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15</guid>
+      <title>姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授</title>
+      <link>https://www.qbitai.com/2026/01/369684.html</link>
+      <description>&lt;![CDATA[姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369684.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>解锁任意步数文生图，港大&amp;Adobe全新Self-E框架学会自我评估</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-4</link>
-      <description>&lt;![CDATA[解锁任意步数文生图，港大&amp;Adobe全新Self-E框架学会自我评估]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-4</guid>
+      <title>不得了，这个新技术把视频压缩到了0.02%！</title>
+      <link>https://www.qbitai.com/2026/01/369609.html</link>
+      <description>&lt;![CDATA[不得了，这个新技术把视频压缩到了0.02%！]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 06:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369609.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agent时代，为什么多模态数据湖是必选项？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-2</link>
-      <description>&lt;![CDATA[Agent时代，为什么多模态数据湖是必选项？]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-2</guid>
+      <title>实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-15-6</link>
+      <description>&lt;![CDATA[实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-6</guid>
       <category>Ai</category>
     </item>
   </channel>

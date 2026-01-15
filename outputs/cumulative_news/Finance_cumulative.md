@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-15 05:32
+**最后更新时间**: 2026-01-15 08:35
+
+---
+
+## 🆕 最新更新 (2026-01-15 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK economy beat expectations to grow 0.3% in November](https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802)
+**发布时间**: 2026-01-15 08:01
+
+#### [UK estate agents’ optimism on home sales hits highest level in over a year](https://www.ft.com/content/a6f4bd7d-3c23-4ff1-be4e-4cf12c41fce2)
+**发布时间**: 2026-01-15 00:01
 
 ---
 

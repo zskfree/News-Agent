@@ -2671,6 +2671,36 @@
         "link": "https://www.infoq.cn/article/cZX1jtxGLwkZmsU4CbsL?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 15 Jan 2026 10:43:00 GMT",
         "first_seen": "2026-01-15T05:33:25.303770"
+      },
+      "467c9637ee995a9746799af20f794e287acc389c9c1b9151284c1669a9f57709": {
+        "title": "千问接入淘宝、支付宝等App，阿里巴巴Agent行动开始了",
+        "link": "https://www.tmtpost.com/7844188.html",
+        "published_date": "Thu, 15 Jan 2026 13:22:00 GMT",
+        "first_seen": "2026-01-15T08:35:53.284494"
+      },
+      "f95cbfa4968a9021846c18469d64219db45413f59d11d7e6d552eed956e7779a": {
+        "title": "英特尔亮出AI PC王牌：酷睿Ultra",
+        "link": "https://www.tmtpost.com/7843795.html",
+        "published_date": "Thu, 15 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-15T08:35:53.284501"
+      },
+      "6a2b1ce762ef25328650479bc376ebfd6400bfba9020257fa58221ed8e9e05c7": {
+        "title": "扎克伯格亲手杀死元宇宙",
+        "link": "https://www.tmtpost.com/7844120.html",
+        "published_date": "Thu, 15 Jan 2026 14:26:00 GMT",
+        "first_seen": "2026-01-15T08:35:53.284503"
+      },
+      "f27ee856ab4b8deacd52689a786dc23370c140080d2e0cf07617ad67ec3076c0": {
+        "title": "亚马逊云科技为S3 Tables添加智能分层存储和复制功能",
+        "link": "https://www.infoq.cn/article/QF4H8hz11CO0coRgWL5I?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 15 Jan 2026 10:34:00 GMT",
+        "first_seen": "2026-01-15T08:35:53.284505"
+      },
+      "9a7ee042c3120df5708ab9b95ff28602303416947fa9bd889c120443ef354f4a": {
+        "title": "2026，中国智驾驶入决赛圈",
+        "link": "https://www.tmtpost.com/7844137.html",
+        "published_date": "Thu, 15 Jan 2026 16:15:00 GMT",
+        "first_seen": "2026-01-15T08:35:53.284506"
       }
     },
     "Finance": {
@@ -4521,6 +4551,12 @@
         "link": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
         "published_date": "Thu, 15 Jan 2026 00:00:00 GMT",
         "first_seen": "2026-01-15T05:32:51.692893"
+      },
+      "a9c3481d240f5069a82e75a3dfee982725fdf63454fd0029317d1d9cf6d1a667": {
+        "title": "UK economy beat expectations to grow 0.3% in November",
+        "link": "https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802",
+        "published_date": "Thu, 15 Jan 2026 08:01:00 GMT",
+        "first_seen": "2026-01-15T08:35:16.390602"
       }
     },
     "Ai": {
@@ -6749,13 +6785,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-15-2",
         "published_date": "Thu, 15 Jan 2026 09:55:00 GMT",
         "first_seen": "2026-01-15T05:33:04.950412"
+      },
+      "c2787183ff5ca7a7e009a78e0770affa890eb0af094203a6f8b70a84757e7875": {
+        "title": "Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-9",
+        "published_date": "Thu, 15 Jan 2026 14:02:00 GMT",
+        "first_seen": "2026-01-15T08:35:30.123026"
+      },
+      "25d5639a5bd3c3e0aab9d523dccc5e490b9c8a16280337f66144ec5bb1741a82": {
+        "title": "5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-3",
+        "published_date": "Thu, 15 Jan 2026 11:35:00 GMT",
+        "first_seen": "2026-01-15T08:35:30.123032"
+      },
+      "4ccd01eeddc30767816d65a8ea2003ac184adb36bc641ae3419a71f70dd20da4": {
+        "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
+        "link": "https://www.qbitai.com/2026/01/369684.html",
+        "published_date": "Thu, 15 Jan 2026 06:42:00 GMT",
+        "first_seen": "2026-01-15T08:35:30.123035"
+      },
+      "3ec3008cbdcef1036277517d53fe59da0fd5319dc319cba9a06b4af8a2ed7f8d": {
+        "title": "不得了，这个新技术把视频压缩到了0.02%！",
+        "link": "https://www.qbitai.com/2026/01/369609.html",
+        "published_date": "Thu, 15 Jan 2026 06:21:00 GMT",
+        "first_seen": "2026-01-15T08:35:30.123036"
+      },
+      "5303e72da9c6cff12574b9594c1056f2157ce77d6eb5ed633ea94c81522d8559": {
+        "title": "实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-6",
+        "published_date": "Thu, 15 Jan 2026 12:11:00 GMT",
+        "first_seen": "2026-01-15T08:35:30.123038"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-15T05:33:25.303772",
-    "Finance": "2026-01-15T05:32:51.692896",
-    "Ai": "2026-01-15T05:33:04.950414"
+    "Technology": "2026-01-15T08:35:53.284508",
+    "Finance": "2026-01-15T08:35:16.390609",
+    "Ai": "2026-01-15T08:35:30.123040"
   }
 }
