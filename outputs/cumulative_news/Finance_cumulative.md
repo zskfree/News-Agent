@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-14 23:19
+**最后更新时间**: 2026-01-15 05:32
+
+---
+
+## 🆕 最新更新 (2026-01-15 05:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says](https://www.ft.com/content/9b2f8903-4350-45a5-a915-a58b6f9b35fb)
+**发布时间**: 2026-01-15 05:00
+
+#### [Can Europe still afford its generous state pensions?](https://www.ft.com/content/9c3c1ec8-9ccf-46bb-977d-e877dcf564e6)
+**发布时间**: 2026-01-15 05:00
+
+#### [Would a ‘mild zombie apocalypse’ be a good thing for the UK economy?](https://www.ft.com/content/f15dcd00-3672-4e5e-8043-b57f3d5fd480)
+**发布时间**: 2026-01-15 05:00
+
+#### [Asda hit by debt sell-off after Christmas sales slump](https://www.ft.com/content/6ff6290e-0d04-44c7-87e1-93b17d063c29)
+**发布时间**: 2026-01-15 05:00
+
+#### [Second person shot by US federal agent in Minneapolis](https://www.ft.com/content/fac53d41-2919-4bed-acec-4c45d2070605)
+**发布时间**: 2026-01-15 04:44
+
+#### [Musk bows to pressure over Grok creating sexualised AI images](https://www.ft.com/content/72c2a5b7-e10d-4e7c-8af0-e95b64d99d79)
+**发布时间**: 2026-01-15 00:03
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m considering driving Lyft part time’: I’m 58 with a $1 million home. Do I finally give up work and enjoy life?](https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 00:00
+
+#### [‘It all feels impossible’: I’m 57 and on disability. My boyfriend died of a heart attack. Do I buy a townhouse or a condo?](https://www.marketwatch.com/story/it-all-feels-impossible-im-57-and-on-disability-my-boyfriend-died-of-a-heart-attack-do-i-buy-a-townhouse-or-a-condo-3a9ae9ef?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 23:31
+
+#### [Why oil experts say U.S.-Iran tensions feel different this time compared with previous crises](https://www.marketwatch.com/story/why-oil-experts-say-u-s-iran-tensions-feel-different-this-time-around-than-previous-crises-e1b772d6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 23:25
 
 ---
 

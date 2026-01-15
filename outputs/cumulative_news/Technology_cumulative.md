@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-14 23:19
+**最后更新时间**: 2026-01-15 05:32
+
+---
+
+## 🆕 最新更新 (2026-01-15 05:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [茶颜悦色有个霸王茶姬梦](https://www.tmtpost.com/7843796.html)
+**发布时间**: 2026-01-15 11:56
+
+#### [手机市场混战下的新变数：规模与利润之间的博弈，华为、苹果成最大赢家](https://www.tmtpost.com/7843889.html)
+**发布时间**: 2026-01-15 11:47
+
+#### [Exclusive: Chinese AI Glasses Maker INMO Valued at About $280 Million yuan After New Financing Round](https://www.tmtpost.com/7844113.html)
+**发布时间**: 2026-01-15 11:11
+
+#### [2026疫苗投资地图：漫长的周期隧道尽头，还有微光吗](https://www.tmtpost.com/7843793.html)
+**发布时间**: 2026-01-15 11:02
+
+#### [华旋传感获产业资本加持，加速人形机器人等高精度传感器研发落地 | 融资动态](https://www.tmtpost.com/7844039.html)
+**发布时间**: 2026-01-15 10:48
+
+#### [中国机床的“变道”时刻 ｜产业链观察](https://www.tmtpost.com/7826116.html)
+**发布时间**: 2026-01-15 10:39
+
+#### [该怎么看商业航天板块分化？](https://www.tmtpost.com/7843956.html)
+**发布时间**: 2026-01-15 10:35
+
+#### [隐匿诉讼、关联交织与现金流之困：天海电子8年IPO长跑的真实底色｜IPO观察](https://www.tmtpost.com/7843710.html)
+**发布时间**: 2026-01-15 10:00
+
+#### [一年3轮，影目INMO完成C1轮融资｜独家](https://www.tmtpost.com/7843944.html)
+**发布时间**: 2026-01-15 10:00
+
+#### [序轮科技获超亿元产业资本加持，加速半导体材料国产化 | 融资动态](https://www.tmtpost.com/7843948.html)
+**发布时间**: 2026-01-15 09:55
+
+#### [2025年手机行业，谁在高端路上“扑街”，谁在AI里“修仙”？](https://www.tmtpost.com/7843304.html)
+**发布时间**: 2026-01-15 09:40
+
+#### [Costa无人接盘](https://www.tmtpost.com/7843466.html)
+**发布时间**: 2026-01-15 09:20
+
+#### [共享电单车的故事，不值钱了](https://www.tmtpost.com/7843376.html)
+**发布时间**: 2026-01-15 09:00
+
+#### [AI六小虎，敲锣之后分道扬镳](https://www.tmtpost.com/7843578.html)
+**发布时间**: 2026-01-15 08:40
+
+#### [AI里的明争暗斗：马斯克的甜言蜜语，和我们20%的胜率](https://www.tmtpost.com/7843325.html)
+**发布时间**: 2026-01-15 08:00
+
+#### [【钛晨报】楼市迎利好！换房退个税政策延至2027年底；多股密集提示风险，若股价进一步上涨或申请停牌核查；涉嫌垄断遭立案调查，携程最新回应](https://www.tmtpost.com/7843469.html)
+**发布时间**: 2026-01-15 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [QCon 北京 2026 启动｜Agentic AI 时代的软件工程重塑](https://www.infoq.cn/article/xDvcxhcebTPsfrciN2MA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 11:17
+
+#### [中了！极客时间入围中国移动培训服务一采供应商](https://www.infoq.cn/article/WzMGM6CbcAcl8SCUhcd7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 10:59
+
+#### [实测谷歌Veo 3.1：新增原生竖屏模式和4K画质，换个语言翻车到离谱？](https://www.infoq.cn/article/cZX1jtxGLwkZmsU4CbsL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 10:43
+
+#### [估值1亿的“死了么”APP有多好抄？5分钟AI就能复刻，去年有人一下午做出原型](https://www.infoq.cn/article/SvMjPz85LESWG9NgCNME?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 10:36
+
+#### [亚马逊云科技为S3 Tables添加智能分层存储和复制功能](https://www.infoq.cn/article/QF4H8hz11CO0coRgWL5I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 10:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新](https://sspai.com/post/105462)
+**发布时间**: 2026-01-15 11:07
+
+#### [派早报：SK 海力士称并未有计划退出消费级存储器市场等](https://sspai.com/post/105459)
+**发布时间**: 2026-01-15 08:53
 
 ---
 

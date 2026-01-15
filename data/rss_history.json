@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4b92d09b65925e421c369a66578d0eb15d8ee1ae0595b630f3a5946f10afb961": {
-        "title": "DeepSeek倒逼vLLM升级！芯片内卷、MoE横扫千模，vLLM核心维护者独家回应：如何凭PyTorch坐稳推理“铁王座”",
-        "link": "https://www.infoq.cn/article/1NwypKUl6SfJ68ZC71bJ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 16 Dec 2025 07:00:00 GMT",
-        "first_seen": "2025-12-15T23:23:14.002048"
-      },
-      "0dbc8d06de25072ee595790e74ed74319af59635debce9b3ed977090634dadd3": {
-        "title": "AI 的“脑回路”终于能看见了？OpenAI发布稀疏模型，让推理透明化",
-        "link": "https://www.infoq.cn/article/a1dvecFKFYmHXk58XAOd?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Dec 2025 20:24:00 GMT",
-        "first_seen": "2025-12-15T23:23:14.002055"
-      },
-      "9e2776cd22f13e30a8b03ab2aaf89b77d4d3f98f4226727755c7879945ceba8f": {
-        "title": "新能源车商业模式将巨变，硬件亏本软件赚钱？",
-        "link": "https://www.tmtpost.com/7809434.html",
-        "published_date": "Mon, 15 Dec 2025 19:30:00 GMT",
-        "first_seen": "2025-12-15T23:23:14.002057"
-      },
-      "3ea3918ef768a46f46ebde5e05f787547335112db0858aae55da0aac06a7d82a": {
-        "title": "【钛晨报】持续讲好“股市叙事”！证监会最新发声；中国首批L3级自动驾驶车型产品获得准入许可；沐曦股份上市在即，壁仞科技港股IPO获备案",
-        "link": "https://www.tmtpost.com/7809609.html",
-        "published_date": "Tue, 16 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-15T23:23:14.002060"
-      },
-      "646d8198408b583863675f2a16342d5374c79516f9785deb51d19a3fc2f0a759": {
-        "title": "1.5万亿美元IPO要改写历史？SpaceX的太空帝国来了",
-        "link": "https://www.tmtpost.com/7809054.html",
-        "published_date": "Mon, 15 Dec 2025 18:52:00 GMT",
-        "first_seen": "2025-12-15T23:23:14.002062"
-      },
-      "81f26c909a43d7f9526983dd0fc9e34e3436534511fb75de6b9e99d2a2adcd58": {
-        "title": "告别“挖矿”逻辑：OpenAI前联合创始人Ilya揭示AI下半场的新赛点",
-        "link": "https://www.tmtpost.com/7810210.html",
-        "published_date": "Tue, 16 Dec 2025 12:03:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700035"
-      },
-      "4cda2717ff34978df1e6f41609c7e76869844ecb8982666d2751b28756d6739d": {
-        "title": "China AI Chip Startup Biren Prepares Hong Kong IPO Amid Push for Semiconductor Self-Reliance",
-        "link": "https://www.tmtpost.com/7810359.html",
-        "published_date": "Tue, 16 Dec 2025 12:29:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700041"
-      },
-      "58f141747e9baa9b473ecf342988a7fc7acda3e2cbb78d4f9d36bf5ca0311f60": {
-        "title": "阿里发布通义万相2.6系列视频生成模型，上线国内首个角色扮演功能 | 钛快讯",
-        "link": "https://www.tmtpost.com/7810393.html",
-        "published_date": "Tue, 16 Dec 2025 13:08:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700043"
-      },
-      "f02686f4fa0d58cfee0236daa80fc6589b761763c773eaace1a2c93220316061": {
-        "title": "Tesla Shares Surge Over 3% to Year-High after Musk Confirms Driverless Robotaxi Road Tests",
-        "link": "https://www.tmtpost.com/7810312.html",
-        "published_date": "Tue, 16 Dec 2025 12:05:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700045"
-      },
-      "410b3bf10cba62c9fe1ae40349f9e54f3d03be2421864fbbe8b2138801e9e5a8": {
-        "title": "AI的“万亿拷问”：疯狂砸AI，从哪里赚回来？",
-        "link": "https://www.tmtpost.com/7810243.html",
-        "published_date": "Tue, 16 Dec 2025 11:56:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700047"
-      },
       "7353f6e4e0d388aeb84307a34d278dfb2df94f6a8b1937b2bd7e763a08132c43": {
         "title": "启明创投领投，眼科创新药研发企业欧科健完成3000万美元B轮融资 | 融资速递",
         "link": "https://www.tmtpost.com/7810376.html",
@@ -2701,69 +2641,39 @@
         "link": "https://www.tmtpost.com/7842377.html",
         "published_date": "Wed, 14 Jan 2026 15:32:00 GMT",
         "first_seen": "2026-01-14T23:20:49.780331"
+      },
+      "a97dd98d386ea2226189c8218a54e074725191278014c28d2ca74bbc88360057": {
+        "title": "序轮科技获超亿元产业资本加持，加速半导体材料国产化 | 融资动态",
+        "link": "https://www.tmtpost.com/7843948.html",
+        "published_date": "Thu, 15 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-15T05:33:25.303759"
+      },
+      "6e2308c46d21fca3d84b0ad2a3a21061d21d9800a20666e84d4b1787bc8229a8": {
+        "title": "华旋传感获产业资本加持，加速人形机器人等高精度传感器研发落地 | 融资动态",
+        "link": "https://www.tmtpost.com/7844039.html",
+        "published_date": "Thu, 15 Jan 2026 10:48:00 GMT",
+        "first_seen": "2026-01-15T05:33:25.303765"
+      },
+      "97deed7474965d8ad07d910c29a5c93aeb5e4e1612a1f8c218bd1b3033cd9555": {
+        "title": "Exclusive: Chinese AI Glasses Maker INMO Valued at About $280 Million yuan After New Financing Round",
+        "link": "https://www.tmtpost.com/7844113.html",
+        "published_date": "Thu, 15 Jan 2026 11:11:00 GMT",
+        "first_seen": "2026-01-15T05:33:25.303767"
+      },
+      "90e4f4e11bf945c03969be84a6c167008e5bc5df01b1ff44b39306530a6f6654": {
+        "title": "QCon 北京 2026 启动｜Agentic AI 时代的软件工程重塑",
+        "link": "https://www.infoq.cn/article/xDvcxhcebTPsfrciN2MA?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 15 Jan 2026 11:17:00 GMT",
+        "first_seen": "2026-01-15T05:33:25.303769"
+      },
+      "ebfec4da30a5cff803d88bae714de16549c2ea92fe46f102382c54ff5133acd0": {
+        "title": "实测谷歌Veo 3.1：新增原生竖屏模式和4K画质，换个语言翻车到离谱？",
+        "link": "https://www.infoq.cn/article/cZX1jtxGLwkZmsU4CbsL?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 15 Jan 2026 10:43:00 GMT",
+        "first_seen": "2026-01-15T05:33:25.303770"
       }
     },
     "Finance": {
-      "2343af47ce8c8111cc70053e920c330255d0ae44189ffb48514efa089e570f4c": {
-        "title": "Trouble persists in a key corner of financial markets — and these assets face the greatest risk",
-        "link": "https://www.marketwatch.com/story/trouble-persists-in-a-key-corner-of-financial-markets-and-these-assets-face-the-greatest-risk-badbf845?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Dec 2025 21:52:00 GMT",
-        "first_seen": "2025-12-15T23:22:26.604526"
-      },
-      "e62d062ca50e152dc0785cd3fbf7375f3ffa9ef6333a0b6e28331e8fe4afbebe": {
-        "title": "Low growth is now Europe’s biggest financial-stability risk",
-        "link": "https://www.ft.com/content/feaeec5a-787d-4b4c-a837-e5e1e1583e8c",
-        "published_date": "Mon, 15 Dec 2025 16:13:00 GMT",
-        "first_seen": "2025-12-15T23:22:26.604538"
-      },
-      "b48d7c4f7b7ccf25bc696ba3c3097d5e25810940be2266b3240d80d02115b860": {
-        "title": "Why Ford is scrapping major EV plans and taking a $19.5 billion hit",
-        "link": "https://www.marketwatch.com/story/why-ford-is-scrapping-major-ev-plans-and-taking-a-19-5-billion-hit-4d42e9ef?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Dec 2025 22:19:00 GMT",
-        "first_seen": "2025-12-15T23:22:26.604540"
-      },
-      "db797a6bf512435fb510aff0b74f48d070861bcb1234a71eb8bd2ae01d173885": {
-        "title": "Brussels plans to scrap 2035 combustion engine ban",
-        "link": "https://www.ft.com/content/0e16b6ea-bf46-4ea6-820e-244b7a5bae1d",
-        "published_date": "Mon, 15 Dec 2025 15:56:00 GMT",
-        "first_seen": "2025-12-15T23:22:26.604542"
-      },
-      "ca6ea7de7b9444d3d7b0b039c473259781af51fb03ea0c3d30d4ce1a9d6979c8": {
-        "title": "Why Oracle’s stock — and its bonds — can’t shake off AI spending fears",
-        "link": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Dec 2025 23:02:00 GMT",
-        "first_seen": "2025-12-15T23:22:26.604544"
-      },
-      "a3bf062e61b121c47efec301d7b64cde6330ff0b13194725219b8d072b355cbc": {
-        "title": "Two Fed officials who rarely agree both say inflation will not be a problem going forward",
-        "link": "https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories",
-        "published_date": "Tue, 16 Dec 2025 00:56:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605203"
-      },
-      "8ae7ab932095e5e0ad0c57732b7cdb58625b4095ae3fc2b03bfde353bf4a9d6c": {
-        "title": "Mexico’s tariffs on China show the rise of Trump’s trade template",
-        "link": "https://www.ft.com/content/0297584e-3fad-4ff4-b326-2bfd82b0859a",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605215"
-      },
-      "58388f95a3c0165e59f4406ab76b279361aa6b1407b7282bec57763103d33906": {
-        "title": "Global brands seek PE partners to save their China businesses",
-        "link": "https://www.ft.com/content/2e66603f-2ec2-4345-ac28-017ae75e99cc",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605218"
-      },
-      "9a8f9d2a694c4d7da46be34afd4013d196ff03982c04bc9a9641ad0b2d36f228": {
-        "title": "Shell mergers chief departed after CEO blocked bid for BP",
-        "link": "https://www.ft.com/content/2f9a4047-c860-4632-bc55-00d73df4e5b9",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605220"
-      },
-      "efc8cb883837e4665fd3030eff69dc9d1e7f823b991219dc48297e7a6d71d002": {
-        "title": "Monzo chief pushed out after board rift over growth and IPO plans",
-        "link": "https://www.ft.com/content/5aa2f310-d023-441d-97e4-a23ba6ad0874",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605222"
-      },
       "ece670250ec33f1ecea6b8e8267b7eaa1c2e7515957906344b2749933561060d": {
         "title": "UK unemployment rate rises to 5.1%",
         "link": "https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9",
@@ -4581,69 +4491,39 @@
         "link": "https://www.ft.com/content/d1d1974c-c1cf-4864-8ecb-55bc885d7537",
         "published_date": "Wed, 14 Jan 2026 19:12:00 GMT",
         "first_seen": "2026-01-14T23:20:04.470491"
+      },
+      "666dc534a81e99232fa031ac9a8d1f4b1b23e356c703d1da841cdd5dc7b14833": {
+        "title": "Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says",
+        "link": "https://www.ft.com/content/9b2f8903-4350-45a5-a915-a58b6f9b35fb",
+        "published_date": "Thu, 15 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-15T05:32:51.692879"
+      },
+      "8f1ab24177f638c923a35b909acaf16827e5e999aeb0abd801cda7064d67d3b7": {
+        "title": "Why oil experts say U.S.-Iran tensions feel different this time compared with previous crises",
+        "link": "https://www.marketwatch.com/story/why-oil-experts-say-u-s-iran-tensions-feel-different-this-time-around-than-previous-crises-e1b772d6?mod=mw_rss_topstories",
+        "published_date": "Wed, 14 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-15T05:32:51.692887"
+      },
+      "d52748394bcda28d33e59090292187c7c6917481b1f8b900d8ffec5b75cacaa7": {
+        "title": "Can Europe still afford its generous state pensions?",
+        "link": "https://www.ft.com/content/9c3c1ec8-9ccf-46bb-977d-e877dcf564e6",
+        "published_date": "Thu, 15 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-15T05:32:51.692890"
+      },
+      "a166633b01b2a133254016f4e3f11403dd17b7b654b0042bfa0ed05e09b85d32": {
+        "title": "Asda hit by debt sell-off after Christmas sales slump",
+        "link": "https://www.ft.com/content/6ff6290e-0d04-44c7-87e1-93b17d063c29",
+        "published_date": "Thu, 15 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-15T05:32:51.692892"
+      },
+      "a4b6e6d5c949a0a7c134a0faf036b10fe3c6769122d21ef0bec1cdf834bf3ba9": {
+        "title": "‘I’m considering driving Lyft part time’: I’m 58 with a $1 million home. Do I finally give up work and enjoy life?",
+        "link": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
+        "published_date": "Thu, 15 Jan 2026 00:00:00 GMT",
+        "first_seen": "2026-01-15T05:32:51.692893"
       }
     },
     "Ai": {
-      "71b539454c9d00acbf307e9a58f0a078feb2560fd3820aa0fbc92c0cd25e7844": {
-        "title": "AAAI 2026｜视频大语言模型到底可不可信？23款主流模型全面测评来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-11",
-        "published_date": "Mon, 15 Dec 2025 18:36:00 GMT",
-        "first_seen": "2025-12-15T23:22:39.581667"
-      },
-      "7c372f19868b0fe26a1a98619e4b55713e6864243459e52f816b23bbc2f40d9f": {
-        "title": "国产芯片也能跑AI视频实时生成了，商汤Seko 2.0揭秘幕后黑科技",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-9",
-        "published_date": "Mon, 15 Dec 2025 16:34:00 GMT",
-        "first_seen": "2025-12-15T23:22:39.581675"
-      },
-      "357bb7e6863baa2a500bb8c9e4fa478666c02bb5e3c25cab41069f75b048e08d": {
-        "title": "NeurIPS 2025｜指哪打哪，可控对抗样本生成器来了！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-7",
-        "published_date": "Mon, 15 Dec 2025 16:16:00 GMT",
-        "first_seen": "2025-12-15T23:22:39.581677"
-      },
-      "355e9f3efa55794a4c93382f77adb8c4e9590911b2c06c7c1436ebc3809e4d43": {
-        "title": "蚂蚁数科宣布开源数据分析智能体技术，当前登顶BIRD",
-        "link": "https://www.qbitai.com/2025/12/361042.html",
-        "published_date": "Mon, 15 Dec 2025 10:09:00 GMT",
-        "first_seen": "2025-12-15T23:22:39.581679"
-      },
-      "d7dd955299c6723e012df84b7d3621c3cdc5161f3f4db5ab53f3edb44347b9c8": {
-        "title": "Thinking Machines首款产品重大更新：K2 Thinking、Qwen3-VL都可以微调了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-15-12",
-        "published_date": "Mon, 15 Dec 2025 18:39:00 GMT",
-        "first_seen": "2025-12-15T23:22:39.581680"
-      },
-      "b4ee402a5eb466c029f3359592fa0f6a3a4c75019d52c085adce635fe505cffa": {
-        "title": "56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-4",
-        "published_date": "Tue, 16 Dec 2025 13:12:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959560"
-      },
-      "9b7c946dce1cb218e90b65cc42654289e965ef86166feec6862714b04d9fba27": {
-        "title": "让扩散模型「可解释」不再降质，开启图片编辑新思路",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16",
-        "published_date": "Tue, 16 Dec 2025 10:45:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959567"
-      },
-      "059e9ab26902ba056f051af6ad7ff86b82b4d2c464122aa703d8e57382d45d52": {
-        "title": "仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-3",
-        "published_date": "Tue, 16 Dec 2025 11:59:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959569"
-      },
-      "04719d71b94fbae43bd3b1394ea8c83f8cd1c95e17b716743fd7e46af79b6ba9": {
-        "title": "临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-5",
-        "published_date": "Tue, 16 Dec 2025 13:18:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959571"
-      },
-      "533ed22f4d045963eefdb2a526d250e3f3a34796dc2e773f5368d3e17fd138a3": {
-        "title": "告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-2",
-        "published_date": "Tue, 16 Dec 2025 10:51:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959572"
-      },
       "c4e478b6ea32eab631c83f50ca1c31bc512f7790e83b6d9b9de0f997c9d5d585": {
         "title": "无预训练模型拿下ARC-AGI榜三！Mamba作者用压缩原理挑战Scaling Law",
         "link": "https://www.qbitai.com/2025/12/361125.html",
@@ -6839,13 +6719,43 @@
         "link": "https://www.qbitai.com/2026/01/369479.html",
         "published_date": "Wed, 14 Jan 2026 09:14:00 GMT",
         "first_seen": "2026-01-14T23:20:18.351781"
+      },
+      "2f97d3474c3154f82b6fe154803d965d9d74c939753f0742cf9e7c976fff7ff2": {
+        "title": "人脸机器人登上Science Robotics封面：用AI教会仿生人脸机器人「开口说话」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-7",
+        "published_date": "Thu, 15 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-15T05:33:04.950400"
+      },
+      "74b3104099ae6504b237075c6d184ce36ccff09ffb90b6e686c2012132059ed8": {
+        "title": "已证实！清华姚班陈立杰全职加入OpenAI，保留伯克利教职",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-5",
+        "published_date": "Thu, 15 Jan 2026 12:01:00 GMT",
+        "first_seen": "2026-01-15T05:33:04.950406"
+      },
+      "b2e590268d1497ad377013674e9428b03de3fd94033c1376f25ec5ad0e282f79": {
+        "title": "大模型长脑子了？研究发现LLM中层会自发模拟人脑进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15",
+        "published_date": "Thu, 15 Jan 2026 09:50:00 GMT",
+        "first_seen": "2026-01-15T05:33:04.950408"
+      },
+      "6c2f12df030554a355123d3d1569190b2d3ba7d308a963b910c5dc5b1803ed70": {
+        "title": "解锁任意步数文生图，港大&Adobe全新Self-E框架学会自我评估",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-4",
+        "published_date": "Thu, 15 Jan 2026 11:58:00 GMT",
+        "first_seen": "2026-01-15T05:33:04.950410"
+      },
+      "eba501f3b1bd90da325652189834a761262e138a3854282e7cc8e9c6a1f9986d": {
+        "title": "Agent时代，为什么多模态数据湖是必选项？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-2",
+        "published_date": "Thu, 15 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-15T05:33:04.950412"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-14T23:20:49.780332",
-    "Finance": "2026-01-14T23:20:04.470494",
-    "Ai": "2026-01-14T23:20:18.351784"
+    "Technology": "2026-01-15T05:33:25.303772",
+    "Finance": "2026-01-15T05:32:51.692896",
+    "Ai": "2026-01-15T05:33:04.950414"
   }
 }
