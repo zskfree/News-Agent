@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "156313762ba0d5d2d5bf13a6025994ae24ce54aa739718b541cc2d1987569052": {
-        "title": "瑞士信息与通信科技公司LogicStar研发代码智能体，自主修复代码漏洞 | 瑞士创新100强",
-        "link": "https://www.tmtpost.com/7811634.html",
-        "published_date": "Wed, 17 Dec 2025 10:58:00 GMT",
-        "first_seen": "2025-12-17T05:26:54.872844"
-      },
-      "8ce477cc6f3b96ca40c40488d1be2280431d894b4600d41854ebbd75c6d26a02": {
-        "title": "赛英电子：前五大客户撑起 8 成收入，高毛利难掩低研发短板，盈利含金量持续缩水｜IPO观察",
-        "link": "https://www.tmtpost.com/7811807.html",
-        "published_date": "Wed, 17 Dec 2025 12:18:00 GMT",
-        "first_seen": "2025-12-17T05:26:54.872852"
-      },
-      "9d3a194350bbcc0a4188b1e290a82dd40cf68530070f03d7d516c60fc4ff78bb": {
-        "title": "上证50VS道琼斯：中美传统行业差距抹平，未来分野唯在科技",
-        "link": "https://www.tmtpost.com/7811563.html",
-        "published_date": "Wed, 17 Dec 2025 11:22:00 GMT",
-        "first_seen": "2025-12-17T05:26:54.872855"
-      },
-      "aa4024847d22d3f29539a44fb771f7749ef6510cf56780d0f0874757f33bd4b8": {
-        "title": "量子科技2025：“深V反转”关键一跃，从“临界点”到“赛点”",
-        "link": "https://www.tmtpost.com/7811464.html",
-        "published_date": "Wed, 17 Dec 2025 11:07:00 GMT",
-        "first_seen": "2025-12-17T05:26:54.872857"
-      },
-      "1d37aa508847df2b8c5a75ac6dc535463bd5bf9fe15257154592a2ea1c349eeb": {
-        "title": "中美芯片政策松动之际，苏姿丰带队低调访华",
-        "link": "https://www.tmtpost.com/7811581.html",
-        "published_date": "Wed, 17 Dec 2025 10:07:00 GMT",
-        "first_seen": "2025-12-17T05:26:54.872859"
-      },
       "0e0eaf11dc3be6400289ca7a79d29e33e8ef9ad18660de76e8ca8e9e0a7016e6": {
         "title": "中签率0.032%、网下申购超4400倍，锡华科技凭什么被抢筹？",
         "link": "https://www.tmtpost.com/7810576.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7844631.html",
         "published_date": "Thu, 15 Jan 2026 19:42:00 GMT",
         "first_seen": "2026-01-15T23:24:46.252152"
+      },
+      "5fefe20ecac9e9cfaec28dc5feb1d2580f794564967e6038ce4075b37597b0cd": {
+        "title": "「超磁新能」获得北极光等机构数亿元投资，领跑可控核聚变强场磁体赛道 | 融资动态",
+        "link": "https://www.tmtpost.com/7845174.html",
+        "published_date": "Fri, 16 Jan 2026 12:05:00 GMT",
+        "first_seen": "2026-01-16T05:32:43.465636"
+      },
+      "4712087696424019964e380713fe803af26d513d0c1684a73c277f738265c7f4": {
+        "title": "台积电这份最新财报，让我们对AI的2026有数了",
+        "link": "https://www.tmtpost.com/7844992.html",
+        "published_date": "Fri, 16 Jan 2026 10:02:00 GMT",
+        "first_seen": "2026-01-16T05:32:43.465642"
+      },
+      "220e2372651f62b02cdc84a92c434ae6da95b37b0afe163992d8f4c9472d1415": {
+        "title": "FACTS基准测试套件问世，用于评估大型语言模型的事实准确性",
+        "link": "https://www.infoq.cn/article/zQZlFUuAIBS7HfoIK2CD?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 09:53:00 GMT",
+        "first_seen": "2026-01-16T05:32:43.465644"
+      },
+      "317d922557507ad3b03a6a3fecb4b46adf61a446382f4ac98a8da89ef209b60e": {
+        "title": "首个智能体商业信任协议来了！支付宝携手千问App、淘宝闪购等发布AI商业协议ACT",
+        "link": "https://www.infoq.cn/article/DE0ifdKyd4Oevz5Bgr3X?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 11:11:00 GMT",
+        "first_seen": "2026-01-16T05:32:43.465646"
+      },
+      "f33873c6e311eba8454d3c3f2c025aa00f32edb087a2cff12c1fc4fb88686d6b": {
+        "title": "二十年走出大西北，紫光国芯冲刺IPO",
+        "link": "https://www.tmtpost.com/7844783.html",
+        "published_date": "Fri, 16 Jan 2026 10:02:00 GMT",
+        "first_seen": "2026-01-16T05:32:43.465647"
       }
     },
     "Finance": {
-      "3fb6e847789802973ffdee883628ee397bf3b42308a1766e7c4d5dee05a736ea": {
-        "title": "JPMorgan pulls $350bn from Fed to buy up Treasuries",
-        "link": "https://www.ft.com/content/15b52695-3b3f-4e98-b321-47680dee6c4a",
-        "published_date": "Wed, 17 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-17T05:25:17.744655"
-      },
-      "0f94e94a6928076b5d443a87b964108a2e135e7c78cea31a030ce5b89bda36ff": {
-        "title": "Amazon in talks to invest more than $10bn in OpenAI",
-        "link": "https://www.ft.com/content/4217107e-2c98-4b78-9961-67d75237fac4",
-        "published_date": "Wed, 17 Dec 2025 04:15:00 GMT",
-        "first_seen": "2025-12-17T05:25:17.744664"
-      },
-      "de49f8ef153cb0c0a954b63ac65169cdac5ffbe8ce6acc735b14c6b6d03e8cfb": {
-        "title": "Monzo shareholders push to oust chair in revolt over CEO’s exit",
-        "link": "https://www.ft.com/content/1487940f-03ed-40b9-a19e-da1b657ff37a",
-        "published_date": "Wed, 17 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-17T05:25:17.744666"
-      },
-      "6b37b5dfeeddd82f87209a1b29c66357fb7ba67392cb7f7987c846e9b4cd0c13": {
-        "title": "The worried investor’s guide to 2026",
-        "link": "https://www.ft.com/content/494676c5-d499-455e-b38a-a5fe02ba0ac8",
-        "published_date": "Wed, 17 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-17T05:25:17.744668"
-      },
-      "afb1b23feb82bf3deedcd809424f1c0276e44cee3313e2c92975b3357f47690b": {
-        "title": "UK will review EV sales targets next year",
-        "link": "https://www.ft.com/content/ba33a0d1-4fa6-4a20-9cd7-fb805575f279",
-        "published_date": "Wed, 17 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-17T05:25:17.744670"
-      },
       "5a293d86adff6cb7dbd1b3f89f046cfb2cfcf232af370d372328d1aee71b38df": {
         "title": "UK inflation falls more than expected to 3.2% in November",
         "link": "https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a",
@@ -4521,39 +4491,39 @@
         "link": "https://www.ft.com/content/9cbf6010-3e10-4806-a889-6ecf216fd136",
         "published_date": "Thu, 15 Jan 2026 20:38:00 GMT",
         "first_seen": "2026-01-15T23:24:17.122409"
+      },
+      "26f73b4c515cad5aa27fe851f95ee615471c9e7536e9cbf7d8ebdfb35f97dd67": {
+        "title": "Inflation relief is on the way — if these 3 market forces can come together",
+        "link": "https://www.marketwatch.com/story/inflation-relief-is-on-the-way-if-these-3-market-forces-can-come-together-this-year-13be218f?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 01:56:00 GMT",
+        "first_seen": "2026-01-16T05:32:14.426594"
+      },
+      "cca829a337d5ad155cbb396a2efdb7fc004f16e743d378b26abb10f845c2aecc": {
+        "title": "Fiscal threats lurk in the undergrowth for Japan",
+        "link": "https://www.ft.com/content/a609b461-5302-4606-b5f9-fd4b1f1802a2",
+        "published_date": "Fri, 16 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-16T05:32:14.426603"
+      },
+      "000b9fa72469730622fb1ad034858b363f7edecc76d7fe1ac4f2029d05ac2e11": {
+        "title": "Middle East governments believe US-Iran tension has ‘de-escalated’",
+        "link": "https://www.ft.com/content/df0c0833-59f6-45d6-a74f-008b46756e72",
+        "published_date": "Fri, 16 Jan 2026 01:19:00 GMT",
+        "first_seen": "2026-01-16T05:32:14.426606"
+      },
+      "e440027e6fbf499cc04f1b3c0afbb02e1415405ea2dad7d9f257046ed82598bd": {
+        "title": "France warns US that Greenland seizure would endanger EU trade",
+        "link": "https://www.ft.com/content/0b35932b-eb39-465b-b49e-342946d8e14b",
+        "published_date": "Fri, 16 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-16T05:32:14.426607"
+      },
+      "e6c49bde4576a72b8c0d891dc54d979ee1adb21b0e939d4a21f5ee553f8b11c9": {
+        "title": "EU ‘membership-lite’ plan for Ukraine spooks European capitals",
+        "link": "https://www.ft.com/content/a42ea7ba-af22-4133-b1d3-e2fdf561c7ba",
+        "published_date": "Fri, 16 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-16T05:32:14.426609"
       }
     },
     "Ai": {
-      "52365b03bc7e952e577d0d4d385a409121d863bdccc3e3d2737a82c492f3c0f4": {
-        "title": "全球最大规模！如视开源室内三维数据集Realsee3D",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-6",
-        "published_date": "Wed, 17 Dec 2025 11:13:00 GMT",
-        "first_seen": "2025-12-17T05:26:06.360702"
-      },
-      "f83596bfac1bccb792078c5647f8fbab7eaab1c4adf673797f10a802c6bdfaa2": {
-        "title": "UniEdit：首个大型开放域大模型知识编辑基准",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-5",
-        "published_date": "Wed, 17 Dec 2025 10:44:00 GMT",
-        "first_seen": "2025-12-17T05:26:06.360713"
-      },
-      "47ee7651765063430fc295a28b3e9eef98a260b40a85151bf7f55b6edd49cf48": {
-        "title": "上海创智学院菁智人才论坛 | 海内外顶尖青年人才召集令暨海优政策宣讲会",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-4",
-        "published_date": "Wed, 17 Dec 2025 10:34:00 GMT",
-        "first_seen": "2025-12-17T05:26:06.360716"
-      },
-      "e7f67fb3ca972eb48416e870d7873b0d371ff51c8d5f78d93d6b150d4a008f7f": {
-        "title": "VGGT4D：无需训练，挖掘3D基础模型潜力，实现4D动态场景重建",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-3",
-        "published_date": "Wed, 17 Dec 2025 10:32:00 GMT",
-        "first_seen": "2025-12-17T05:26:06.360718"
-      },
-      "ee9b9d537b03b99d36530bc7b020881900be795011eca13b8e146dd162160e6f": {
-        "title": "刚刚，OpenAI推出全新ChatGPT Images，奥特曼亮出腹肌搞宣传",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-2",
-        "published_date": "Wed, 17 Dec 2025 10:26:00 GMT",
-        "first_seen": "2025-12-17T05:26:06.360720"
-      },
       "63d0d51dec6b3330d73b7b90042ded094b468826887a79051001bb1c1ffc2c8a": {
         "title": "爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航",
         "link": "https://www.jiqizhixin.com/articles/2025-12-17-15",
@@ -6749,13 +6719,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-15-10",
         "published_date": "Thu, 15 Jan 2026 17:19:00 GMT",
         "first_seen": "2026-01-15T23:24:29.088768"
+      },
+      "b622c5e25ff34f74cfb7d93906a10039af7a0275e0a253a61d662e6093ea6b42": {
+        "title": "仅需一个混频器的无线射频机器学习推理，登上Science Advances！",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-16",
+        "published_date": "Fri, 16 Jan 2026 10:15:00 GMT",
+        "first_seen": "2026-01-16T05:32:26.032010"
+      },
+      "fb152451c46e2f8afafb152cb999463a529b68f81c185e2271e53cec8f0b27b2": {
+        "title": "不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-16-6",
+        "published_date": "Fri, 16 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-16T05:32:26.032016"
+      },
+      "32e81e6c985317eb22e0b523cc385ed721dd390e5d30c363925237a4cc69a35b": {
+        "title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-16-3",
+        "published_date": "Fri, 16 Jan 2026 10:24:00 GMT",
+        "first_seen": "2026-01-16T05:32:26.032019"
+      },
+      "4f5071705387202c14a865a526322ce8434e7dfa9f81afea3c52e3e02ae8f574": {
+        "title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-16-5",
+        "published_date": "Fri, 16 Jan 2026 11:15:00 GMT",
+        "first_seen": "2026-01-16T05:32:26.032021"
+      },
+      "196f52d99d5d6a6da8cc019a521dbd1ea8efd528eb5d30932c06c108b2faf6a4": {
+        "title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
+        "link": "https://www.qbitai.com/2026/01/369884.html",
+        "published_date": "Fri, 16 Jan 2026 04:05:00 GMT",
+        "first_seen": "2026-01-16T05:32:26.032022"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-15T23:24:46.252154",
-    "Finance": "2026-01-15T23:24:17.122412",
-    "Ai": "2026-01-15T23:24:29.088771"
+    "Technology": "2026-01-16T05:32:43.465649",
+    "Finance": "2026-01-16T05:32:14.426611",
+    "Ai": "2026-01-16T05:32:26.032024"
   }
 }

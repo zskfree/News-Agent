@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-15 23:23
+**最后更新时间**: 2026-01-16 05:31
+
+---
+
+## 🆕 最新更新 (2026-01-16 05:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当千问能帮你“一句话出游”时，很多消费行业经典理论已经过时了](https://www.tmtpost.com/7845308.html)
+**发布时间**: 2026-01-16 12:13
+
+#### [存储测试设备创新企业鸾起科技完成近亿元B轮融资 | 融资动态](https://www.tmtpost.com/7845193.html)
+**发布时间**: 2026-01-16 12:05
+
+#### [「超磁新能」获得北极光等机构数亿元投资，领跑可控核聚变强场磁体赛道 | 融资动态](https://www.tmtpost.com/7845174.html)
+**发布时间**: 2026-01-16 12:05
+
+#### [一人公司，疑云四起](https://www.tmtpost.com/7844854.html)
+**发布时间**: 2026-01-16 11:20
+
+#### [不发朋友圈是一种美德](https://www.tmtpost.com/7845207.html)
+**发布时间**: 2026-01-16 11:20
+
+#### [TSMC Rallies After Beating Earnings Forecasts, Lifts 2026 Outlook](https://www.tmtpost.com/7845243.html)
+**发布时间**: 2026-01-16 11:18
+
+#### [最终还是千问承担了所有](https://www.tmtpost.com/7844681.html)
+**发布时间**: 2026-01-16 10:12
+
+#### [独家｜2025年全球45家医美公司拿下融资：中国断层第一，美国紧随其后](https://www.tmtpost.com/7844983.html)
+**发布时间**: 2026-01-16 10:02
+
+#### [二十年走出大西北，紫光国芯冲刺IPO](https://www.tmtpost.com/7844783.html)
+**发布时间**: 2026-01-16 10:02
+
+#### [从资本狂欢到全球市场，潮玩在上升期混战](https://www.tmtpost.com/7844856.html)
+**发布时间**: 2026-01-16 10:02
+
+#### [业绩增长乏力、700亿债务压顶……亿纬锂能赴港上市谋突围](https://www.tmtpost.com/7845055.html)
+**发布时间**: 2026-01-16 10:02
+
+#### [台积电这份最新财报，让我们对AI的2026有数了](https://www.tmtpost.com/7844992.html)
+**发布时间**: 2026-01-16 10:02
+
+#### [中产扎堆的高端小区，物业员工都改成机器人了](https://www.tmtpost.com/7844751.html)
+**发布时间**: 2026-01-16 09:44
+
+#### [零售估值波动巨大，哪些才是真正的好买卖？](https://www.tmtpost.com/7845046.html)
+**发布时间**: 2026-01-16 09:11
+
+#### [木头姐正在抛售特斯拉股票，而她正在买入的则是一只芯片股｜巴伦内参](https://www.tmtpost.com/7845040.html)
+**发布时间**: 2026-01-16 09:09
+
+#### [新的贸易协定正在提振欧洲股市，但提振幅度为何有限](https://www.tmtpost.com/7845036.html)
+**发布时间**: 2026-01-16 09:08
+
+#### [电子战已成大生意，这家公司正从中获利](https://www.tmtpost.com/7845034.html)
+**发布时间**: 2026-01-16 09:07
+
+#### [新瓶装旧水，谁在制造“养生焦虑”？](https://www.tmtpost.com/7844704.html)
+**发布时间**: 2026-01-16 08:57
+
+#### [北京现代李凤刚：2026年，还有三场硬仗要打](https://www.tmtpost.com/7843416.html)
+**发布时间**: 2026-01-16 08:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT](https://sspai.com/post/104549)
+**发布时间**: 2026-01-16 11:40
+
+#### [派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等](https://sspai.com/post/105494)
+**发布时间**: 2026-01-16 08:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [首个智能体商业信任协议来了！支付宝携手千问App、淘宝闪购等发布AI商业协议ACT](https://www.infoq.cn/article/DE0ifdKyd4Oevz5Bgr3X?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 11:11
+
+#### [谷歌发布 Gemma Scope 2，深化对 LLM 行为的理解](https://www.infoq.cn/article/QAVo2JuWaAElyqUA6joF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 10:36
+
+#### [FACTS基准测试套件问世，用于评估大型语言模型的事实准确性](https://www.infoq.cn/article/zQZlFUuAIBS7HfoIK2CD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 09:53
+
+#### [全靠Claude Code 10天赶工上线，Cowork 删用户11G文件不含糊！核心研发：长时间打磨再发布很难成功](https://www.infoq.cn/article/WDcTxr8g5TT064NaQyp3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 08:00
 
 ---
 

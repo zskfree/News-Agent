@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Jan 2026 23:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 23:24:29 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 05:32:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-13</link>
-      <description>&lt;![CDATA[国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 21:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-13</guid>
+      <title>仅需一个混频器的无线射频机器学习推理，登上Science Advances！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16</link>
+      <description>&lt;![CDATA[仅需一个混频器的无线射频机器学习推理，登上Science Advances！]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产GPU又杀出一匹黑马！成立不到一年，两款芯片量产落地</title>
-      <link>https://www.qbitai.com/2026/01/369731.html</link>
-      <description>&lt;![CDATA[国产GPU又杀出一匹黑马！成立不到一年，两款芯片量产落地]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369731.html</guid>
+      <title>不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-6</link>
+      <description>&lt;![CDATA[不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 13:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>通用级PixVerse P1的技术突破，揣着进入平行世界的密码</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-11</link>
-      <description>&lt;![CDATA[通用级PixVerse P1的技术突破，揣着进入平行世界的密码]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-11</guid>
+      <title>腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-3</link>
+      <description>&lt;![CDATA[腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Unlocking health insights: Estimating advanced walking metrics with smartwatches</title>
-      <link>https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/</link>
-      <description>&lt;![CDATA[Unlocking health insights: Estimating advanced walking metrics with smartwatches]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 22:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/</guid>
+      <title>支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-5</link>
+      <description>&lt;![CDATA[支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mira公司内乱？CTO被开除，带团队回OpenAI，翁荔上推发言</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-15-10</link>
-      <description>&lt;![CDATA[Mira公司内乱？CTO被开除，带团队回OpenAI，翁荔上推发言]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-15-10</guid>
+      <title>不用拍的广告片？深度拆解美团闪购AIGC营销新案例</title>
+      <link>https://www.qbitai.com/2026/01/369884.html</link>
+      <description>&lt;![CDATA[不用拍的广告片？深度拆解美团闪购AIGC营销新案例]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 04:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369884.html</guid>
       <category>Ai</category>
     </item>
   </channel>
