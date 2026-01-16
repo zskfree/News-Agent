@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-16 05:31
+**最后更新时间**: 2026-01-16 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-16 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技发布第五代 Graviton 处理器，M9g 实例同步登场](https://www.infoq.cn/article/xtXzsEPA5rVb6ZGfpUyh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 16:23
+
+#### [OpenAI前团队创业内乱，CTO泄密竞对遭开除！翁荔火速发文](https://www.infoq.cn/article/jP3NTaQpjTjP7U7FrSRW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 15:13
+
+#### [AWS CloudWatch成为一个统一的可观测性平台，支持Apache Iceberg](https://www.infoq.cn/article/siglzhFYdV4bfKPfplrj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 15:03
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [小核酸成了减肥药的新变数](https://www.tmtpost.com/7845139.html)
+**发布时间**: 2026-01-16 16:02
+
+#### [10%，BD成功率有限](https://www.tmtpost.com/7845142.html)
+**发布时间**: 2026-01-16 16:02
+
+#### [1亿美元买入“处方权”：OpenAI与阿里的医疗抢滩战](https://www.tmtpost.com/7845096.html)
+**发布时间**: 2026-01-16 16:02
+
+#### [中国骨科，凛冬已逝](https://www.tmtpost.com/7845233.html)
+**发布时间**: 2026-01-16 16:02
+
+#### [贾国龙应该“拜师”余承东](https://www.tmtpost.com/7845305.html)
+**发布时间**: 2026-01-16 16:02
+
+#### [马斯克领衔，脑机接口商业化元年来了？](https://www.tmtpost.com/7845419.html)
+**发布时间**: 2026-01-16 16:02
+
+#### [美团上线首个开源“重思考”模型](https://www.tmtpost.com/7845522.html)
+**发布时间**: 2026-01-16 15:41
+
+#### [刚整改就重组、资产数据打架，科达制造的闪电腾挪疑云](https://www.tmtpost.com/7844895.html)
+**发布时间**: 2026-01-16 15:39
+
+#### [天晟新材未易主先内斗？国资董事25张反对票掀控制权暗战](https://www.tmtpost.com/7845361.html)
+**发布时间**: 2026-01-16 15:38
+
+#### [强脑科技IPO：马斯克最大对手，秘密赴港上市了？](https://www.tmtpost.com/7845112.html)
+**发布时间**: 2026-01-16 15:29
+
+#### [疫苗巨头预亏超百亿，重庆首富身家缩水近千亿](https://www.tmtpost.com/7844823.html)
+**发布时间**: 2026-01-16 15:29
+
+#### [物理AI军团 “舞动” CES，出海之路仍面临三大挑战 ｜ Global AI Booming](https://www.tmtpost.com/7845338.html)
+**发布时间**: 2026-01-16 15:21
+
+#### [台积电最新业绩详解，豪掷超520亿押注未来](https://www.tmtpost.com/7845160.html)
+**发布时间**: 2026-01-16 14:34
+
+#### [在港股，最「low」的股票赚了更多的钱](https://www.tmtpost.com/7845340.html)
+**发布时间**: 2026-01-16 14:34
+
+#### [增量有限、监管趋严，外卖还有必要大战吗？](https://www.tmtpost.com/7844693.html)
+**发布时间**: 2026-01-16 14:34
+
+#### [晶澳科技全年预亏近50亿，光伏龙头的冬天还有多长？](https://www.tmtpost.com/7843504.html)
+**发布时间**: 2026-01-16 14:09
+
+#### [谷歌夺走了苹果的“灵魂”](https://www.tmtpost.com/7844690.html)
+**发布时间**: 2026-01-16 14:09
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [挖到了 4 个有趣的 GitHub 开源项目，挺有意思的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530618&idx=1&sn=90cef3becccd9bf07bfd9160d7df79cf)
+**发布时间**: 2026-01-16 15:43
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [一条视频了解爆火的GEO到底是啥？有哪些机会？](http://www.huxiu.com/article/4826763.html?f=wangzhan)
+**发布时间**: 2026-01-16 15:10
+
+#### [从珠峰滑下来，最难的到底是哪一步？](http://www.huxiu.com/article/4826886.html?f=wangzhan)
+**发布时间**: 2026-01-16 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？](https://sspai.com/post/105008)
+**发布时间**: 2026-01-16 15:00
 
 ---
 

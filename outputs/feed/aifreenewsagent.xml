@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 Jan 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Jan 2026 05:32:26 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:33:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>仅需一个混频器的无线射频机器学习推理，登上Science Advances！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16</link>
-      <description>&lt;![CDATA[仅需一个混频器的无线射频机器学习推理，登上Science Advances！]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16</guid>
+      <title>面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-10</link>
+      <description>&lt;![CDATA[面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-6</link>
-      <description>&lt;![CDATA[不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-6</guid>
+      <title>DeepSeek连发两篇论文背后，原来藏着一场学术接力</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-2</link>
+      <description>&lt;![CDATA[DeepSeek连发两篇论文背后，原来藏着一场学术接力]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-3</link>
-      <description>&lt;![CDATA[腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-3</guid>
+      <title>刚刚，Geoffrey Hinton成为第二位引用量破百万的科学家</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-4</link>
+      <description>&lt;![CDATA[刚刚，Geoffrey Hinton成为第二位引用量破百万的科学家]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-5</link>
-      <description>&lt;![CDATA[支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-5</guid>
+      <title>神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-9</link>
+      <description>&lt;![CDATA[神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不用拍的广告片？深度拆解美团闪购AIGC营销新案例</title>
-      <link>https://www.qbitai.com/2026/01/369884.html</link>
-      <description>&lt;![CDATA[不用拍的广告片？深度拆解美团闪购AIGC营销新案例]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 04:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/369884.html</guid>
+      <title>美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-8</link>
+      <description>&lt;![CDATA[美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-8</guid>
       <category>Ai</category>
     </item>
   </channel>
