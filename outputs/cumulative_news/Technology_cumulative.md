@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-16 08:33
+**最后更新时间**: 2026-01-16 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-16 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [4600亿元新车消费被激活：汽车以旧换新走向常态化](https://www.tmtpost.com/7846077.html)
+**发布时间**: 2026-01-16 21:39
+
+#### [Costco退货，该股的技术面正在迅速改善](https://www.tmtpost.com/7846103.html)
+**发布时间**: 2026-01-16 21:38
+
+#### [创新、跨界、融合 2025年度北京十大商业品牌揭晓](https://www.tmtpost.com/7845940.html)
+**发布时间**: 2026-01-16 20:05
+
+#### [三倍牛股，三年连亏，科森科技没能讲出市场爱听的故事](https://www.tmtpost.com/7845976.html)
+**发布时间**: 2026-01-16 19:51
+
+#### [COMMUNE幻师、袁记食品递表港交所；Alo将在上海、北京开出首批中国门店；迪桑特中国区董事长丁少翔接管MAIA ACTIVE｜消研所周报](https://www.tmtpost.com/7845868.html)
+**发布时间**: 2026-01-16 19:36
+
+#### [字节把云推上“火山口”](https://www.tmtpost.com/7845791.html)
+**发布时间**: 2026-01-16 19:24
+
+#### [天下苦航空公司久矣](https://www.tmtpost.com/7845724.html)
+**发布时间**: 2026-01-16 19:24
+
+#### [天际股份的“冰与火”：四季度业绩V型反转，却因三重违规遭监管问责](https://www.tmtpost.com/7845792.html)
+**发布时间**: 2026-01-16 18:15
+
+#### [高额分红的股票很诱人，但它们的风险有多大？](https://www.tmtpost.com/7845796.html)
+**发布时间**: 2026-01-16 17:59
+
+#### [希尔顿、万豪和凯悦股价接近历史高位，这两只酒店股更值得买入](https://www.tmtpost.com/7845794.html)
+**发布时间**: 2026-01-16 17:58
+
+#### [价值700亿美元的AI+医疗仍有很长的路要走丨ToB产业观察](https://www.tmtpost.com/7845150.html)
+**发布时间**: 2026-01-16 17:33
+
+#### [一盒内存条价值上海一套房，2026年将成消费电子“最贵之年”？](https://www.tmtpost.com/7845705.html)
+**发布时间**: 2026-01-16 17:16
+
+#### [豆包和OpenAI，都在押注同一个未来 | 「钛度号」作品月榜第134期](https://www.tmtpost.com/7844641.html)
+**发布时间**: 2026-01-16 17:13
+
+#### [光伏组件涨价了，然后呢？](https://www.tmtpost.com/7845616.html)
+**发布时间**: 2026-01-16 17:13
+
+#### [奥特曼要给你的脑子装上GPT](https://www.tmtpost.com/7845493.html)
+**发布时间**: 2026-01-16 16:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 的下一个十年：从技术拐点到工程落地的路线图](https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 20:02
+
+#### [受够了Copilot的“霸王条款”？GitHub全球宕机遭怒骂，引爆开发者“大逃离”！](https://www.infoq.cn/article/H16Z6V1Cz3Sf1qeb4fwr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 18:00
+
+#### [拒绝传统Router“瞎指挥”，多智能体如何实现智能任务分配？](https://www.infoq.cn/article/cYlRMETcNGxhDvBqCDII?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 17:20
+
+#### [聚焦 AI Agent 系统诊断，智能运维助手 SysOM MCP 正式开源](https://www.infoq.cn/article/285HkzS0EM8tpHg9mBgY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-16 16:46
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/105504)
+**发布时间**: 2026-01-16 17:45
 
 ---
 

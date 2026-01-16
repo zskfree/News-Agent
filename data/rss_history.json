@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0e0eaf11dc3be6400289ca7a79d29e33e8ef9ad18660de76e8ca8e9e0a7016e6": {
-        "title": "中签率0.032%、网下申购超4400倍，锡华科技凭什么被抢筹？",
-        "link": "https://www.tmtpost.com/7810576.html",
-        "published_date": "Wed, 17 Dec 2025 09:30:00 GMT",
-        "first_seen": "2025-12-17T08:33:31.871943"
-      },
-      "801fb1145dcf79e1a75986ea47817feb95c9b9a2cc4fef606b7378eaf6087685": {
-        "title": "【钛晨报】中央财办有关负责同志解读2025年中央经济工作会议精神；市场监管总局回应附条件批准两家智利公司新设合营企业；事关直播电商、食品安全，这些市场监管新规将发布",
-        "link": "https://www.tmtpost.com/7811319.html",
-        "published_date": "Wed, 17 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-17T08:33:31.871951"
-      },
-      "32da751fb9dfaf34403348eb0bda46d067adf04c7c2ce47eca164d4ee45f36af": {
-        "title": "“芯片-OS”协同新路径：Arm与OpenCloudOS携手，Infra智能基座如何重塑算力生态？",
-        "link": "https://www.infoq.cn/article/CVRf3us565gXXNgsp4uE?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 10:54:00 GMT",
-        "first_seen": "2025-12-17T08:33:31.871953"
-      },
-      "99321132918cd7288f431e4ef3f38853a56df938a0c821599ca9fdfd3c4e86dd": {
-        "title": "LLM for AIOps：是泡沫还是银弹？智能运维的争议、破局与未来",
-        "link": "https://www.infoq.cn/article/DbuSxKKL6id4wXLxUAIW?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-17T08:33:31.871955"
-      },
-      "637d29746d9ff2303f83705bb692fd669f2c15a8363a6aeaa170ae496ae7d3d4": {
-        "title": "8个月50亿产值，非程序员用秒哒赚疯了？秒哒如何解决后端难、token贵、屎山烦",
-        "link": "https://www.infoq.cn/article/FcV0URxuPMkZ6Hqjr1Ml?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-17T08:33:31.871957"
-      },
-      "1ad5aa8ba6b4251a2431660426430fd22ab57cc0e372e695451d679765221998": {
-        "title": "Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro",
-        "link": "https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 06:00:00 GMT",
-        "first_seen": "2025-12-17T23:24:20.948078"
-      },
-      "49ba2baa7f1ba125ae3dbc3dc1f27a94d440aa9e14c3a456ff00dbe25e4fef77": {
-        "title": "谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”",
-        "link": "https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 18:40:00 GMT",
-        "first_seen": "2025-12-17T23:24:20.948085"
-      },
-      "f7bc42e2ec79f32c58d330eba543c8b24d2a1b2227da0681ce7b7b7c44ee1f38": {
-        "title": "罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队",
-        "link": "https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 18:31:00 GMT",
-        "first_seen": "2025-12-17T23:24:20.948087"
-      },
-      "aab4ba34ab84209bd2f5f53f1d98b83c3b584caaf00b07975c12e7a9579dcca4": {
-        "title": "腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”",
-        "link": "https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 18:08:00 GMT",
-        "first_seen": "2025-12-17T23:24:20.948089"
-      },
-      "b26e1b3edf1db9104112db691a94a403584dd0db65abdf89b5f204cddb3a0939": {
-        "title": "告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon",
-        "link": "https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 16:57:00 GMT",
-        "first_seen": "2025-12-17T23:24:20.948090"
-      },
       "886e31d24ecf163777c8d75c22be5eebc43b768ad13d6449c0771e0198d8cd6f": {
         "title": "构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览",
         "link": "https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&utm_medium=article",
@@ -2701,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7845419.html",
         "published_date": "Fri, 16 Jan 2026 16:02:00 GMT",
         "first_seen": "2026-01-16T08:33:58.505510"
+      },
+      "1ad4b9ee5b1881db4fa82d93dad2759c615601b40708d009b8ecfb895a476421": {
+        "title": "AI 的下一个十年：从技术拐点到工程落地的路线图",
+        "link": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 20:02:00 GMT",
+        "first_seen": "2026-01-16T23:25:06.640969"
+      },
+      "57bc3c9e21cd7541625c2ed3f52471441850d748c0a4b19de1c6474693acd5ee": {
+        "title": "TSMC Rallies After Beating Earnings Forecasts, Lifts 2026 Outlook",
+        "link": "https://www.tmtpost.com/7845243.html",
+        "published_date": "Fri, 16 Jan 2026 11:18:00 GMT",
+        "first_seen": "2026-01-16T23:25:06.640977"
+      },
+      "ec50d440d4ca4a171d095b52052edec34f6dcd4ef1d511fbf7244e41176a0ed7": {
+        "title": "豆包和OpenAI，都在押注同一个未来 | 「钛度号」作品月榜第134期",
+        "link": "https://www.tmtpost.com/7844641.html",
+        "published_date": "Fri, 16 Jan 2026 17:13:00 GMT",
+        "first_seen": "2026-01-16T23:25:06.640980"
+      },
+      "532e2befd11a8baec08fc58b06069bd3ef7e8009a0f6dd3cc73490c350ff26cd": {
+        "title": "受够了Copilot的“霸王条款”？GitHub全球宕机遭怒骂，引爆开发者“大逃离”！",
+        "link": "https://www.infoq.cn/article/H16Z6V1Cz3Sf1qeb4fwr?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 18:00:00 GMT",
+        "first_seen": "2026-01-16T23:25:06.640982"
+      },
+      "b155e7dfb90d62c01c6a577e69782bd99c06b8d41aef0db59fc3124653ac831f": {
+        "title": "强脑科技IPO：马斯克最大对手，秘密赴港上市了？",
+        "link": "https://www.tmtpost.com/7845112.html",
+        "published_date": "Fri, 16 Jan 2026 15:29:00 GMT",
+        "first_seen": "2026-01-16T23:25:06.640983"
       }
     },
     "Finance": {
-      "3fa6d0512b2c8b4e782f5a3e3d45515a45d206443189e66be6d2365515f84982": {
-        "title": "Open source could pop the AI bubble — and soon",
-        "link": "https://www.ft.com/content/353adf48-a5d6-4ea0-b5d7-9a94b141213a",
-        "published_date": "Wed, 17 Dec 2025 16:56:00 GMT",
-        "first_seen": "2025-12-17T23:23:17.759350"
-      },
-      "cb238e712bcbf17c0bfa741e62a8e7b4d91804e4bad979502805ebf8fefd1d8e": {
-        "title": "US tech stocks slide as Oracle data centre setback reignites AI concerns",
-        "link": "https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7",
-        "published_date": "Wed, 17 Dec 2025 21:19:00 GMT",
-        "first_seen": "2025-12-17T23:23:17.759358"
-      },
-      "6ee9e4ea7826f6c244bf4a365194d9fd0716f34cd00e0cf1c9ced65606960ebe": {
-        "title": "It’s been illegal to make women have a man co-sign their loans since the ’70s. Now the Trump administration could change that.",
-        "link": "https://www.marketwatch.com/story/its-been-illegal-to-make-women-have-a-man-co-sign-their-loans-since-the-70s-now-the-trump-administration-could-change-that-307521b2?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 22:25:00 GMT",
-        "first_seen": "2025-12-17T23:23:17.759361"
-      },
-      "5bc25baaa6fad738999cfa8e35118f103306395ffa2eda43a56b1c34ca06cb04": {
-        "title": "Slowing inflation fuels concerns about a cooling UK economy",
-        "link": "https://www.ft.com/content/b45f3009-a12c-4a6f-8b26-727202618917",
-        "published_date": "Wed, 17 Dec 2025 17:05:00 GMT",
-        "first_seen": "2025-12-17T23:23:17.759363"
-      },
-      "037acfa529fbe918a9469bc8b3c4aa299d11a0ed6f243f3eef716a7585f9230d": {
-        "title": "This chart captures Tesla’s EV sales woes — and things are about to get worse",
-        "link": "https://www.marketwatch.com/story/this-chart-captures-teslas-ev-sales-woes-and-things-are-about-to-get-worse-09f1edd4?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 23:06:00 GMT",
-        "first_seen": "2025-12-17T23:23:17.759364"
-      },
       "8c076edc17c7e6454663aad1ed72f1efd0bdf8d069c199581ec2d3cbdc391cf8": {
         "title": "Activist investor Elliott reportedly takes $1 billion stake in Lululemon, eyes new CEO",
         "link": "https://www.marketwatch.com/story/activist-investor-elliott-reportedly-takes-1-billion-stake-in-lululemon-eyes-new-ceo-c1abb334?mod=mw_rss_topstories",
@@ -4545,69 +4485,39 @@
         "link": "https://www.ft.com/content/a42ea7ba-af22-4133-b1d3-e2fdf561c7ba",
         "published_date": "Fri, 16 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-16T05:32:14.426609"
+      },
+      "138e89fc07f1dddeccf6c982e9374abfe1c759acad24645eeaf6ac197b7bac1e": {
+        "title": "The threat to the global economy from Trump’s war on the Fed",
+        "link": "https://www.ft.com/content/77f43154-8ce1-45ab-bcfd-23b77ee06f21",
+        "published_date": "Fri, 16 Jan 2026 21:47:00 GMT",
+        "first_seen": "2026-01-16T23:24:41.871450"
+      },
+      "da2e068f7a181f8bfd1a602a29224f31ee5f0c6eb8fbe15e46ee857b23d3acfd": {
+        "title": "Populism makes managing global economy harder, Andrew Bailey warns",
+        "link": "https://www.ft.com/content/4da5be40-9807-40d2-8c11-56af67f055a2",
+        "published_date": "Fri, 16 Jan 2026 15:33:00 GMT",
+        "first_seen": "2026-01-16T23:24:41.871459"
+      },
+      "69686b83fe1991fb7d51f903366440abf3faa8518d28b0f84c7fe30d9e20f8da": {
+        "title": "Trump tried to give Powell one last shove out the door. Now he’s likely to stay at the Fed.",
+        "link": "https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 19:58:00 GMT",
+        "first_seen": "2026-01-16T23:24:41.871462"
+      },
+      "d85fb871a45d78a19cf9019c422c45733c1c0847e557fee2981a79fca1967959": {
+        "title": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
+        "link": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 22:42:00 GMT",
+        "first_seen": "2026-01-16T23:24:41.871464"
+      },
+      "40eec329777d61955485ec5b5734c21f4a10e83a7fa8a26767db94dee827f214": {
+        "title": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
+        "link": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 20:40:00 GMT",
+        "first_seen": "2026-01-16T23:24:41.871466"
       }
     },
     "Ai": {
-      "63d0d51dec6b3330d73b7b90042ded094b468826887a79051001bb1c1ffc2c8a": {
-        "title": "爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-15",
-        "published_date": "Wed, 17 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-17T08:33:19.708198"
-      },
-      "53aed59be21588898e7cfcffa9f10725adeb32db3bacd75719a51d208c35400b": {
-        "title": "硬刚Sora2，万相2.6轻松定制角色、控制分镜，普通人也能当导演",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-14",
-        "published_date": "Wed, 17 Dec 2025 14:47:00 GMT",
-        "first_seen": "2025-12-17T08:33:19.708205"
-      },
-      "eea55609f0b891b2b09835b0f6962ad685384644f796a40064f7a74e4fdd8404": {
-        "title": "人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-13",
-        "published_date": "Wed, 17 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-17T08:33:19.708207"
-      },
-      "64334ce62be14b973263fa3b7661fca82c7fe84b0a2a73c206b50c67bdc206bd": {
-        "title": "欢迎申请、提名和转发！第二届Wiley新锐科学家奖开放申请",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-12",
-        "published_date": "Wed, 17 Dec 2025 14:42:00 GMT",
-        "first_seen": "2025-12-17T08:33:19.708209"
-      },
-      "b9a0aa9e117db3b274a36e3c209c9d6673ad25ca4860621bdabffadb727b2f5f": {
-        "title": "SIGGRAPH Asia 2025：摩尔线程赢图形顶会3DGS挑战赛大奖，自研LiteGS全面开源",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-11",
-        "published_date": "Wed, 17 Dec 2025 14:36:00 GMT",
-        "first_seen": "2025-12-17T08:33:19.708211"
-      },
-      "761874182732220e6983f3001328f9e0226e5fe33f98948b1a75022ec0a95e35": {
-        "title": "OpenAI发布专家级科学能力评估基准FrontierScience，Gemini 3 Pro与GPT‑5.2表现相当",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-10",
-        "published_date": "Wed, 17 Dec 2025 14:33:00 GMT",
-        "first_seen": "2025-12-17T23:23:32.266854"
-      },
-      "6f07065b7d9d079e8b66de8db20170eda14dd3486f4b0306825ab9d1305abf28": {
-        "title": "官宣！姚顺雨出任腾讯首席AI科学家，带队大语言模型、AI Infra",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-17",
-        "published_date": "Wed, 17 Dec 2025 17:28:00 GMT",
-        "first_seen": "2025-12-17T23:23:32.266875"
-      },
-      "0b0517f14b98ea05f94d23ce81ad762b96f10271312b046851024ced1238401b": {
-        "title": "分割一切、3D重建一切还不够，Meta开源SAM Audio分割一切声音",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-16",
-        "published_date": "Wed, 17 Dec 2025 17:24:00 GMT",
-        "first_seen": "2025-12-17T23:23:32.266878"
-      },
-      "a20be1e62831a0129e1c3bb0379438179b0831f04bdc444e5ebd1840f4a42ac7": {
-        "title": "大模型的进化方向：Words to Worlds | 对话商汤林达华",
-        "link": "https://www.qbitai.com/2025/12/361575.html",
-        "published_date": "Wed, 17 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-17T23:23:32.266880"
-      },
-      "2cb0e6c6ecd6ee2c4eafa6e0c9ec67b5b0be13bd9958c25257c564c3ac6f67af": {
-        "title": "浙大联手字节：开源大规模指令跟随视频编辑数据集OpenVE-3M",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17",
-        "published_date": "Wed, 17 Dec 2025 10:19:00 GMT",
-        "first_seen": "2025-12-17T23:23:32.266881"
-      },
       "0ce09aa18f0f33ba943ce9a3f277bf08e75a98901ef34b961645dde7dfe12f06": {
         "title": "OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能",
         "link": "https://www.jiqizhixin.com/articles/2025-12-18-3",
@@ -6803,13 +6713,37 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-16-8",
         "published_date": "Fri, 16 Jan 2026 13:27:00 GMT",
         "first_seen": "2026-01-16T08:33:22.988023"
+      },
+      "1a39b9de661f08e129f4d66c6b910e03ca45f58b955810f8cce5d271bb2fbe6f": {
+        "title": "2026-01-17日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-17/",
+        "published_date": "Sat, 17 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-16T23:24:42.023155"
+      },
+      "13075080b6fce552e97d158723e6eedb07fbf491b572d8dd02b06d6d15608be1": {
+        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+        "link": "https://www.qbitai.com/2026/01/370069.html",
+        "published_date": "Fri, 16 Jan 2026 10:06:00 GMT",
+        "first_seen": "2026-01-16T23:24:42.023163"
+      },
+      "1719d2b684639c74a8d81550b55ad7dcd8db28e1cedade2ae043369449689e6d": {
+        "title": "福特战略掉头！拥抱中国比亚迪，弃用韩国LG",
+        "link": "https://www.qbitai.com/2026/01/370034.html",
+        "published_date": "Fri, 16 Jan 2026 09:12:00 GMT",
+        "first_seen": "2026-01-16T23:24:42.023165"
+      },
+      "2d2a33c3178419282b1b23b1865a7d15100cb848a05c0706d0a31eaa3c119e5d": {
+        "title": "失去三个联创后，Mira公司危机持续：又有两人要出走",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-16-7",
+        "published_date": "Fri, 16 Jan 2026 13:18:00 GMT",
+        "first_seen": "2026-01-16T23:24:42.023166"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-16T08:33:58.505512",
-    "Finance": "2026-01-16T05:32:14.426611",
-    "Ai": "2026-01-16T08:33:22.988025"
+    "Technology": "2026-01-16T23:25:06.640985",
+    "Finance": "2026-01-16T23:24:41.871468",
+    "Ai": "2026-01-16T23:24:42.023169"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 Jan 2026 08:32:00 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Jan 2026 08:33:22 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 23:24:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-10</link>
-      <description>&lt;![CDATA[面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-10</guid>
+      <title>2026-01-17日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-17/</link>
+      <description>&lt;![CDATA[2026-01-17日刊]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-17/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek连发两篇论文背后，原来藏着一场学术接力</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-2</link>
-      <description>&lt;![CDATA[DeepSeek连发两篇论文背后，原来藏着一场学术接力]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-2</guid>
+      <title>腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验</title>
+      <link>https://www.qbitai.com/2026/01/370069.html</link>
+      <description>&lt;![CDATA[腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 10:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370069.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，Geoffrey Hinton成为第二位引用量破百万的科学家</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-4</link>
-      <description>&lt;![CDATA[刚刚，Geoffrey Hinton成为第二位引用量破百万的科学家]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-4</guid>
+      <title>福特战略掉头！拥抱中国比亚迪，弃用韩国LG</title>
+      <link>https://www.qbitai.com/2026/01/370034.html</link>
+      <description>&lt;![CDATA[福特战略掉头！拥抱中国比亚迪，弃用韩国LG]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370034.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-9</link>
-      <description>&lt;![CDATA[神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-9</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-16-8</link>
-      <description>&lt;![CDATA[美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？]]&gt;</description>
-      <pubDate>Fri, 16 Jan 2026 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-8</guid>
+      <title>失去三个联创后，Mira公司危机持续：又有两人要出走</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-16-7</link>
+      <description>&lt;![CDATA[失去三个联创后，Mira公司危机持续：又有两人要出走]]&gt;</description>
+      <pubDate>Fri, 16 Jan 2026 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-16-7</guid>
       <category>Ai</category>
     </item>
   </channel>

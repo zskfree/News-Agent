@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-16 08:33
+**最后更新时间**: 2026-01-16 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-16 23:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.](https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 22:42
+
+#### [These stocks have the most to lose from Trump’s push to lower electricity prices](https://www.marketwatch.com/story/these-stocks-have-the-most-to-lose-from-trumps-push-to-lower-electricity-prices-e920c47f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 22:16
+
+#### [Warsh’s chances of becoming Fed chair jump as Trump suggests he doesn’t want Hassett in that job](https://www.marketwatch.com/story/warshs-chances-of-becoming-fed-chair-jump-as-trump-suggests-he-doesnt-want-hassett-in-that-job-146fb6a9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 22:03
+
+#### [My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?](https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 21:38
+
+#### [‘I don’t want to step on any toes’: I manage an $80K trust for a 15-year-old relative. How do I deal with interfering relatives?](https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 21:31
+
+#### [Micron’s stunning stock gains are encapsulated by this milestone](https://www.marketwatch.com/story/microns-stunning-stock-gains-are-encapsulated-by-this-milestone-a42b3ada?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 21:00
+
+#### [Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers](https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 20:40
+
+#### [Trump tried to give Powell one last shove out the door. Now he’s likely to stay at the Fed.](https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 19:58
+
+#### [Colleges could go tuition-free if their endowment-fund managers just invested in this stock index](https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 19:41
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump names Tony Blair, Jared Kushner and Marc Rowan to Gaza ‘Board of Peace’](https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945)
+**发布时间**: 2026-01-16 22:37
+
+#### [The threat to the global economy from Trump’s war on the Fed](https://www.ft.com/content/77f43154-8ce1-45ab-bcfd-23b77ee06f21)
+**发布时间**: 2026-01-16 21:47
+
+#### [Trump says he wants Fed chair contender Hassett to stay in White House job](https://www.ft.com/content/ef716145-8e4b-461d-8b09-b61160f7f9d2)
+**发布时间**: 2026-01-16 21:41
+
+#### [US floats expanding Gaza ‘Board of Peace’ to other global hotspots](https://www.ft.com/content/34617296-0816-4e94-b807-7cef5f90e4a1)
+**发布时间**: 2026-01-16 20:11
+
+#### [Trump threatens tariffs on allies over opposition to Greenland plan](https://www.ft.com/content/8c804726-aecb-4d48-b532-91334be8cd1b)
+**发布时间**: 2026-01-16 18:43
+
+#### [Is Britain ungovernable?](https://www.ft.com/content/06cfd51b-9e64-42dd-9966-2a0ca8cae461)
+**发布时间**: 2026-01-16 18:14
+
+#### [Death of a dream: Saks’ crisis exposes luxury department store woes](https://www.ft.com/content/9d997311-fbc3-4f7a-a362-cc18db92f735)
+**发布时间**: 2026-01-16 18:10
+
+#### [Populism makes managing global economy harder, Andrew Bailey warns](https://www.ft.com/content/4da5be40-9807-40d2-8c11-56af67f055a2)
+**发布时间**: 2026-01-16 15:33
+
+#### [To transform Iran, the west needs patience not over-reach](https://www.ft.com/content/36258864-3996-4c5d-882e-18df767db611)
+**发布时间**: 2026-01-16 15:30
+
+#### [Porsche suffers biggest sales fall since 2009](https://www.ft.com/content/21760d4a-7150-43c5-b090-bd050c571d7e)
+**发布时间**: 2026-01-16 12:11
+
+#### [‘Maga has gone Maoist’: corporate America reels as Trump turns interventionist](https://www.ft.com/content/36ab31dd-6cb6-4b1e-b15d-32eafdcea556)
+**发布时间**: 2026-01-16 05:00
 
 ---
 
