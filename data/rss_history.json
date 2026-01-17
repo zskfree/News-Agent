@@ -2671,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7845112.html",
         "published_date": "Fri, 16 Jan 2026 15:29:00 GMT",
         "first_seen": "2026-01-16T23:25:06.640983"
+      },
+      "a3dff4705866b6b31f2688bdba9c6fdbf7d83a179ef507c96ca688519d8a243f": {
+        "title": "死磕8年，烧光400亿，中国芯片迎来最大IPO",
+        "link": "https://www.tmtpost.com/7846009.html",
+        "published_date": "Sat, 17 Jan 2026 13:05:00 GMT",
+        "first_seen": "2026-01-17T05:22:23.544067"
+      },
+      "89a51fac8205b026dbc7210d65ce67dbaee3a12a8f623c6972c7286843be8233": {
+        "title": "消灭产品经理后，Lovart活成了Manus的“影子”",
+        "link": "https://www.tmtpost.com/7845947.html",
+        "published_date": "Sat, 17 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-17T05:22:23.544074"
+      },
+      "eb5bb585b3d999de0bb4ac7c9453fe50f256a905feecc7ff871439880698fd84": {
+        "title": "德邦跟了京东，极兔搂住顺丰",
+        "link": "https://www.tmtpost.com/7846099.html",
+        "published_date": "Sat, 17 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-17T05:22:23.544076"
+      },
+      "3a638c2584cfdd3b0d327f073e31703270b738fbdcef7c9653b852d4a8d013ac": {
+        "title": "出海30年，中国家电为何大而不强？",
+        "link": "https://www.tmtpost.com/7846024.html",
+        "published_date": "Sat, 17 Jan 2026 12:05:00 GMT",
+        "first_seen": "2026-01-17T05:22:23.544077"
+      },
+      "a3cade8929fed83ece5c7b61a7368a73ff976f7c8e32ad911e0e9fd2a84262dc": {
+        "title": "贾国龙的苦恼：看得见的对手和看不见的网络情绪",
+        "link": "https://www.tmtpost.com/7846233.html",
+        "published_date": "Sat, 17 Jan 2026 09:39:00 GMT",
+        "first_seen": "2026-01-17T05:22:23.544079"
       }
     },
     "Finance": {
@@ -4515,6 +4545,24 @@
         "link": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
         "published_date": "Fri, 16 Jan 2026 20:40:00 GMT",
         "first_seen": "2026-01-16T23:24:41.871466"
+      },
+      "3503e30cb61693eac9e25d7850d99cc6dcc8784e00d447c3f388f7cb0ff8693a": {
+        "title": "Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’",
+        "link": "https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945",
+        "published_date": "Sat, 17 Jan 2026 02:05:00 GMT",
+        "first_seen": "2026-01-17T05:22:06.466370"
+      },
+      "02dafeba4dfb484c1e524a128fd5515fbb32be123855a5bf189b5a5b7379fd25": {
+        "title": "Lancet study finds no higher risk of autism when pregnant women take paracetamol",
+        "link": "https://www.ft.com/content/18ac00eb-0ab4-478c-9a5b-e4c4c5b47d1c",
+        "published_date": "Fri, 16 Jan 2026 23:30:00 GMT",
+        "first_seen": "2026-01-17T05:22:06.466379"
+      },
+      "096ed96a211e5bc4a40ea2175040cdea02b855a8e1d83c15eba1919b888000af": {
+        "title": "From Iran to Venezuela, why the oil market is on edge this weekend",
+        "link": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 01:46:00 GMT",
+        "first_seen": "2026-01-17T05:22:06.466382"
       }
     },
     "Ai": {
@@ -6742,8 +6790,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-16T23:25:06.640985",
-    "Finance": "2026-01-16T23:24:41.871468",
+    "Technology": "2026-01-17T05:22:23.544081",
+    "Finance": "2026-01-17T05:22:06.466384",
     "Ai": "2026-01-16T23:24:42.023169"
   }
 }
